@@ -1,0 +1,1220 @@
+# Source:The Guardian, URL:https://www.theguardian.com/rss, language:en-UK
+
+## Poor people much more likely to die from sepsis, study finds
+ - [https://www.theguardian.com/society/2023/nov/23/poor-people-much-more-likely-die-sepsis-study](https://www.theguardian.com/society/2023/nov/23/poor-people-much-more-likely-die-sepsis-study)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T22:30:03+00:00
+
+<p>Those with existing health problems also at greater risk of condition that kills estimated 48,000 a year in UK</p><p>Poor people and those with existing health problems are much more likely to die from sepsis, one of the UK’s biggest killers, a study has found.</p><p>Sepsis, or blood poisoning, is a potentially fatal condition triggered when the body reacts to an infection by attacking its own tissues and vital organs. It leads to an estimated 48,000 deaths a year in Britain.</p><p>People with learning disabilities are almost four times more likely to get sepsis.</p><p>People with liver disease have about three times greater risk.</p><p>Patients with chronic kidney disease that is at stage 5 are more than six times as likely to develop it.</p> <a href="https://www.theguardian.com/society/2023/nov/23/poor-people-much-more-likely-die-sepsis-study">Continue reading...</a>
+
+## Novak Djokovic defeats Cameron Norrie to end Great Britain’s Davis Cup run
+ - [https://www.theguardian.com/sport/2023/nov/23/novak-djokovic-cameron-norrie-serbia-great-britain-davis-cup-tennis](https://www.theguardian.com/sport/2023/nov/23/novak-djokovic-cameron-norrie-serbia-great-britain-davis-cup-tennis)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T22:00:03+00:00
+
+<ul><li>Serbia 2-0 Great Britain</li><li>Djokovic tells noisy British fans to ‘shut up’ after 6-4, 6-4 victory</li></ul><p>An imperious Serbia thoroughly outperformed Great Britain in the quarter-finals of the Davis Cup in Málaga as they advanced to the final four with a 2-0 win on Thursday night.</p><p>In the essential opening rubber between the two second seeded singles players, Miomir Kecmanovic performed spectacularly to defeat Jack Draper 7-6(2), 7-6(6) in a high-quality tussle and record the first point for Serbia. Novak Djokovic, the best player in the world, closed off the tie by comfortably defeating Cameron Norrie 6-4, 6-4 to seal victory for Serbia.</p> <a href="https://www.theguardian.com/sport/2023/nov/23/novak-djokovic-cameron-norrie-serbia-great-britain-davis-cup-tennis">Continue reading...</a>
+
+## Sam Kerr’s hat-trick against Paris FC ensures a comfortable night for Chelsea
+ - [https://www.theguardian.com/football/2023/nov/23/chelsea-paris-fc-womens-champions-league-match-report](https://www.theguardian.com/football/2023/nov/23/chelsea-paris-fc-womens-champions-league-match-report)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T21:58:00+00:00
+
+<p>A hat-trick from Sam Kerr guided Chelsea to a 4-1 victory over a stubborn Paris FC at Stamford Bridge. The striker opened the scoring in the first half before the visitors levelled through Théa Greboval. Two second-half goals in seven minutes from the Australian, however, ensured Chelsea earned a crucial three points.</p><p>Chelsea were aiming to kickstart their Champions League campaign on home soil after a frustrating opener. They secured a <a href="https://www.theguardian.com/football/2023/nov/15/real-madrid-chelsea-womens-champions-league-match-report" title="">2-2 draw in Madrid</a> but Emma Hayes said they had been “robbed of what should have been a 3-1 game” after two contentious refereeing decisions.</p> <a href="https://www.theguardian.com/football/2023/nov/23/chelsea-paris-fc-womens-champions-league-match-report">Continue reading...</a>
+
+## NFL Thanksgiving games: Love’s career day sparks Packers to upset of Lions
+ - [https://www.theguardian.com/sport/2023/nov/23/thanksgiving-day-nfl-football-games](https://www.theguardian.com/sport/2023/nov/23/thanksgiving-day-nfl-football-games)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T21:16:05+00:00
+
+<ul><li>Love ties career high with three TD passes as Green Bay win</li><li>Lions never led as Dan Campbell’s aggressiveness backfires</li></ul><p>Jordan Love set the tone with a 53-yard pass to Christian Watson on the first snap and finished with a career-high-tying three touchdowns, leading the Green Bay Packers to a 29-22 win over the NFC North-leading Detroit Lions on Thursday.</p><p>The Packers (5-6) were in control of a game they never trailed, taking advantage of Jared Goff’s career-high three fumbles – returning one for a score in the first quarter – and Dan Campbell’s aggressiveness on fourth down.</p> <a href="https://www.theguardian.com/sport/2023/nov/23/thanksgiving-day-nfl-football-games">Continue reading...</a>
+
+## School leaders in England feel lockdown ‘broke spell’ of bond with parents
+ - [https://www.theguardian.com/education/2023/nov/23/school-leaders-england-feel-lockdown-broke-spell-bond-with-parents](https://www.theguardian.com/education/2023/nov/23/school-leaders-england-feel-lockdown-broke-spell-bond-with-parents)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T19:48:29+00:00
+
+<p>Education experts agree with Ofsted chief that many parents now disregard rules previously taken for granted</p><p>Lockdown “broke the spell” that bound parents and schools together, according to school leaders and experts who have endorsed the Ofsted chief’s view that many parents now disregard rules on behaviour and attendance they once took for granted.</p><p>Delivering her last annual report as chief inspector of schools in England, Amanda Spielman said: “The social contract between parents and schools has been fractured by lockdowns and closures.” And she warned: “That social contract took years to build and consolidate and it will take time to restore.”</p> <a href="https://www.theguardian.com/education/2023/nov/23/school-leaders-england-feel-lockdown-broke-spell-bond-with-parents">Continue reading...</a>
+
+## Chelsea v Paris FC: Women’s Champions League – live
+ - [https://www.theguardian.com/football/live/2023/nov/23/chelsea-v-paris-fc-womens-champions-league-live-score-updates](https://www.theguardian.com/football/live/2023/nov/23/chelsea-v-paris-fc-womens-champions-league-live-score-updates)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T19:24:27+00:00
+
+<ul><li>Women’s Champions League updates, 8pm GMT kick-off</li><li><a href="https://www.theguardian.com/football/live">Live scoreboard</a> | And you can <a href="mailto:sarah.rendell@guardian.co.uk">send Sarah an email here</a></li></ul><p><strong>Chelsea striker Sam Kerr</strong> – who announced her engagement to USWNT star Kristie Mewis this week – has said the team are not underestimating their opposition: “They are riding a wave at the moment - that can be dangerous. You saw with the results against Wolfsburg and Arsenal - to beat two really good teams over both legs - it shows they are an amazing team. You can’t take any team lightly in the Champions League.”</p><p><strong>Here is a round-up of the WCL action</strong> that took place yesterday, including a comeback from defending champions Barcelona:</p> <a href="https://www.theguardian.com/football/live/2023/nov/23/chelsea-v-paris-fc-womens-champions-league-live-score-updates">Continue reading...</a>
+
+## On the cards: are soaring sendings-off a Premier League trend or an outlier?
+ - [https://www.theguardian.com/football/2023/nov/23/on-the-cards-are-soaring-sendings-off-a-premier-league-trend-or-an-outlier](https://www.theguardian.com/football/2023/nov/23/on-the-cards-are-soaring-sendings-off-a-premier-league-trend-or-an-outlier)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T19:17:58+00:00
+
+<p>The top flight is on course for a record number of red cards this season with minor infringements becoming costlier</p><p>It is the point in the year where many are considering handing out cards to friends, family and the milkman, but Premier League referees have taken the lead since August and distributed a record number, although none came with well wishes.</p><p>Last season a conservative 30 sendings-off were dished out in 380 matches and after 120 games this time the figure is only three fewer. Admittedly, 2022-23 was an outlier – in the previous four seasons there was an average of 45.5 dismissals – with the second fewest red cards in Premier League history and was not, it would appear, the start of a trend. If the rate of reds continues there will be 85 this season. The league record is 76, from 2005-06.</p> <a href="https://www.theguardian.com/football/2023/nov/23/on-the-cards-are-soaring-sendings-off-a-premier-league-trend-or-an-outlier">Continue reading...</a>
+
+## Ben Jennings on Rishi Sunak looking ahead to the next election – cartoon
+ - [https://www.theguardian.com/commentisfree/picture/2023/nov/23/ben-jennings-rishi-sunak-looking-ahead-to-next-election-cartoon](https://www.theguardian.com/commentisfree/picture/2023/nov/23/ben-jennings-rishi-sunak-looking-ahead-to-next-election-cartoon)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T19:15:51+00:00
+
+<a href="https://www.theguardian.com/commentisfree/picture/2023/nov/23/ben-jennings-rishi-sunak-looking-ahead-to-next-election-cartoon">Continue reading...</a>
+
+## Regulator finds UK problem gambling rates may be eight times higher than thought
+ - [https://www.theguardian.com/society/2023/nov/23/regulator-problem-gambling-rates-great-britain-may-be-eight-times-higher](https://www.theguardian.com/society/2023/nov/23/regulator-problem-gambling-rates-great-britain-may-be-eight-times-higher)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T19:10:49+00:00
+
+<p>Gambling Commission’s new figures suggest as many as 1.3 million adults in Great Britain suffer from problem</p><p>Rates of problem gambling may be more than eight times higher than previously thought, according to new data released by the betting industry regulator.</p><p>The Gambling Commission has previously said the proportion of people suffering from a gambling problem may be as low as 0.3% of adults in Great Britain.</p> <a href="https://www.theguardian.com/society/2023/nov/23/regulator-problem-gambling-rates-great-britain-may-be-eight-times-higher">Continue reading...</a>
+
+## US coal power plants killed at least 460,000 people in past 20 years – report
+ - [https://www.theguardian.com/environment/2023/nov/23/coal-power-plants-deaths-pollution](https://www.theguardian.com/environment/2023/nov/23/coal-power-plants-deaths-pollution)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T19:00:03+00:00
+
+<p>Pollution caused twice as many premature deaths as previously thought, with updated understanding of dangers of PM2.5</p><p>Coal-fired power plants killed at least 460,000 Americans during the past two decades, causing twice as many premature deaths as previously thought, new research has found.</p><p>Cars, factories, fire smoke and electricity plants emit tiny toxic air pollutants known as fine particulate matter or PM2.5, which elevate the risk of an array of life-shortening medical conditions including asthma, heart disease, low birth weight and some cancers.</p> <a href="https://www.theguardian.com/environment/2023/nov/23/coal-power-plants-deaths-pollution">Continue reading...</a>
+
+## Squid Game: The Challenge contestants threaten legal action against Netflix and producers
+ - [https://www.theguardian.com/media/2023/nov/23/squid-game-the-challenge-contestants-threaten-legal-action-against-netflix-and-producers](https://www.theguardian.com/media/2023/nov/23/squid-game-the-challenge-contestants-threaten-legal-action-against-netflix-and-producers)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T18:57:06+00:00
+
+<p>Reality gameshow participants got ‘hypothermia’ and ‘injuries’ when filming in Bedfordshire, two claim</p><p>Contestants on the new Squid Game-inspired reality show are threatening legal action against Netflix and producers after claiming they got hypothermia and nerve damage during filming.</p><p>A British personal injuries law firm, Express Solicitors, said it was representing two unnamed players from <a href="https://www.theguardian.com/tv-and-radio/2023/nov/20/squid-game-the-challenge-review-netflix">Squid Game: The Challenge</a>, who claim they did not know they would be risking their health by crouching motionless for long periods in cold temperatures.</p> <a href="https://www.theguardian.com/media/2023/nov/23/squid-game-the-challenge-contestants-threaten-legal-action-against-netflix-and-producers">Continue reading...</a>
+
+## Rise in net migration threatens to undermine Rishi Sunak’s tough talk
+ - [https://www.theguardian.com/uk-news/2023/nov/23/rise-net-migration-threatens-undermine-rishi-sunak-tough-talk](https://www.theguardian.com/uk-news/2023/nov/23/rise-net-migration-threatens-undermine-rishi-sunak-tough-talk)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T18:45:21+00:00
+
+<p>Threefold increase since 2019 means focusing on immigration may be a risky move for the PM at next election</p><p>Of Boris Johnson’s many broken promises, his failure to “take back control” of post-Brexit immigration is the one that Tory MPs believe matters most to their voters.</p><p>Johnson has long fled the scene – Rishi Sunak is instead getting the blame from his New Conservative backbenchers who predict they will be punished at the ballot box in the “red wall” of the north and Midlands.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/rise-net-migration-threatens-undermine-rishi-sunak-tough-talk">Continue reading...</a>
+
+## Cricketers’ union warns men’s English domestic schedule is ‘unsustainable’
+ - [https://www.theguardian.com/sport/2023/nov/23/cricketers-union-claim-domestic-schedule-is-unsustainable](https://www.theguardian.com/sport/2023/nov/23/cricketers-union-claim-domestic-schedule-is-unsustainable)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T18:38:51+00:00
+
+<ul><li>PCA urges ECB to reform for sake of players’ welfare</li><li>‘This scheduling does not allow for high performance’</li></ul><p>The Professional Cricketers’ Association says the men’s domestic schedule is “unsustainable” and “in need of reform”, and has urged the England and Wales Cricket Board to make changes.</p><p>The County Championship, Vitality Blast and One-Day Cup fixtures for 2024 were released on Thursday, alongside Rachael Heyhoe-Flint Trophy and Charlotte Edwards Cup ties in the women’s game.</p> <a href="https://www.theguardian.com/sport/2023/nov/23/cricketers-union-claim-domestic-schedule-is-unsustainable">Continue reading...</a>
+
+## The Guardian view on the Dutch election: Europe must learn from a lurch to the far right | Editorial
+ - [https://www.theguardian.com/commentisfree/2023/nov/23/the-guardian-view-on-the-dutch-election-europe-must-learn-from-a-lurch-to-the-far-right](https://www.theguardian.com/commentisfree/2023/nov/23/the-guardian-view-on-the-dutch-election-europe-must-learn-from-a-lurch-to-the-far-right)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T18:37:56+00:00
+
+<p>Geert Wilders’ unforseen victory will not necessarily make him prime minister. But it is another wake-up call for progressive parties across the continent</p><p>Until this week, no Dutch party associated with the far right had ever won more than 20% of the vote in a national election. In Europe’s most <a href="https://www.theguardian.com/world/2017/mar/02/dutch-parliamentary-elections-everything-you-need-to-know-brexit-vote-trump-geert-wilders">fragmented</a> political landscape, it is an achievement for any party to cross that threshold. Yet Geert Wilders’ Freedom&nbsp;Party&nbsp;(PVV) <a href="https://www.theguardian.com/world/2023/nov/22/far-right-party-set-to-win-most-seats-in-dutch-elections-exit-polls-show">did</a> it with ease in Wednesday’s snap poll, which was precipitated by the resignation of the outgoing prime minister, Mark Rutte, in the summer. This was a victory that threatens to take the normalisation of nativist populist politics in Europe to&nbsp;a&nbsp;dangerous
+
+## The Guardian view on the UK general election date: spring forward | Editorial
+ - [https://www.theguardian.com/commentisfree/2023/nov/23/the-guardian-view-on-the-uk-general-election-date-spring-forward](https://www.theguardian.com/commentisfree/2023/nov/23/the-guardian-view-on-the-uk-general-election-date-spring-forward)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T18:36:46+00:00
+
+<p>The political parties are already in battle mode and the choice is clear. Britain should go to the polls in early 2024</p><p>On 17 December 2024, it will be five years since parliament convened after the last UK general election in 2019. If this parliament has not been formally dissolved by then, dissolution would at that point become automatic. A general election would follow after 25 working days. Strictly speaking, the last possible date for the <a href="https://www.instituteforgovernment.org.uk/explainer/next-general-election">next UK general election</a> is therefore Tuesday 28 January 2025.</p><p>In practice, the next election is unlikely to take place then. For one thing, UK elections traditionally occur <a href="https://researchbriefings.files.parliament.uk/documents/SN04512/SN04512.pdf">on Thursdays</a>, though this is only a convention observed since 1935. (Five of the six elections immediately before 1935 took place on other days; so, in principle, could the next one.) 
+
+## Fred Again, Lana Del Rey and Gerry Cinnamon to headline Reading and Leeds for first time
+ - [https://www.theguardian.com/music/2023/nov/23/fred-again-lana-del-rey-and-gerry-cinnamon-to-headline-reading-and-leeds-for-first-time](https://www.theguardian.com/music/2023/nov/23/fred-again-lana-del-rey-and-gerry-cinnamon-to-headline-reading-and-leeds-for-first-time)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T18:30:02+00:00
+
+<p>Trio of newcomers are joined by veterans Liam Gallagher, Catfish and the Bottlemen and Blink-182</p><p>Reading and Leeds festivals have announced their headline acts for 2024, with Fred Again, Lana Del Rey and Gerry Cinnamon all headlining for the first time.</p><p>Fred Again’s booking continues his journey from backroom pop producer to underground dance star to bona fide mainstream name, having headlined Parklife festival this summer and secured one of the biggest crowds of Glastonbury 2023 for his performance on the Other stage. He – alongside sparring partners Four Tet and Skrillex – was also last-minute replacement for Frank Ocean to headline Coachella earlier in the year. He has said Reading and Leeds will be his only UK festival performances in 2024.</p> <a href="https://www.theguardian.com/music/2023/nov/23/fred-again-lana-del-rey-and-gerry-cinnamon-to-headline-reading-and-leeds-for-first-time">Continue reading...</a>
+
+## OpenAI’s directors have been anything but open. What the hell happened?
+ - [https://www.theguardian.com/technology/nils-pratley-on-finance/2023/nov/23/openais-directors-have-been-anything-but-open-what-the-hell-happened](https://www.theguardian.com/technology/nils-pratley-on-finance/2023/nov/23/openais-directors-have-been-anything-but-open-what-the-hell-happened)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T18:12:09+00:00
+
+<p>In the top company in the world’s most explosive industry, the boss was fired and rehired – and no one has said why</p><p><a href="https://www.theguardian.com/business/2023/nov/23/openai-was-working-on-advanced-model-so-powerful-it-alarmed-staff">• OpenAI was ‘working on model so powerful it alarmed staff’</a></p><p></p><p>The OpenAI farce has moved at such speed in the past week that it is easy to forget that nobody has yet said in clear terms why Sam Altman – the <a href="https://www.theguardian.com/technology/2023/nov/22/sam-altman-openai-ceo-return-board-chatgpt">returning</a> chief executive and all-round genius, according to his vocal fanclub – was <a href="https://www.theguardian.com/technology/2023/nov/17/openai-ceo-sam-altman-fired">fired in the first place</a>. Since we are constantly told, not least by Altman himself, that the worst outcome from the adoption of artificial general intelligence could be “lights out for all of us”, somebody needs to find a voice here.</p><
+
+## Jeremy Hunt is punishing the sick with this welfare crackdown | Letters
+ - [https://www.theguardian.com/politics/2023/nov/23/jeremy-hunt-is-punishing-the-sick-with-this-welfare-crackdown](https://www.theguardian.com/politics/2023/nov/23/jeremy-hunt-is-punishing-the-sick-with-this-welfare-crackdown)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T18:08:04+00:00
+
+<p><strong>Stephen Butler,</strong> <strong>Carolyn Sutton, Debbie Cameron</strong> respond to benefits changes in the autumn statement. Plus a letter from a reader who highlights the structural difficulties disabled people face in the workplace</p><p>It is utterly senseless, and morally unsupportable, to impose penalties on those who have been signed off work due to mental health issues and who are still struggling to find work after 18 months (<a href="https://www.theguardian.com/uk-news/2023/nov/22/autumn-statement-2023-key-points-jeremy-hunt">Autumn statement 2023: key points at a glance, 22 November</a>), because this will include, self-evidently, people with long-term, severe and intractable mental health issues.</p><p>The Tories have eviscerated our mental health services and driven into unemployment tens of thousands who might otherwise have recovered more quickly. So a high proportion of people affected by this legislation will have been signed off sick in the first place th
+
+## Instead of cutting tax, fund our public services | Letters
+ - [https://www.theguardian.com/uk-news/2023/nov/23/instead-of-cutting-tax-fund-our-public-services](https://www.theguardian.com/uk-news/2023/nov/23/instead-of-cutting-tax-fund-our-public-services)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T18:07:55+00:00
+
+<p>Readers respond to the £20bn tax cut announced in the chancellor’s autumn statement and the implications for already underfunded public services</p><p>We shouldn’t be surprised that the Tories boast about their smoke-and-mirrors tax cuts (<a href="https://www.theguardian.com/uk-news/2023/nov/22/jeremy-hunts-autumn-statement-tax-cuts-fuel-talk-of-spring-election">Jeremy Hunt’s autumn statement tax cuts fuel talk of spring election, 22 November</a>), and the response of Labour has been depressingly predictable. Rachel Reeves correctly states that “taxes will be higher at the next election than the last”, but then suggests Labour will be the real party of lower taxes. Neither party is willing to confront the obvious fact that lower tax revenue will leave our collapsing public services in an even more precarious state.</p><p>Labour should argue for a more progressive incremental system of income tax, where the wealthiest contribute much more in real terms than the poorest. You can’t h
+
+## David Cameron expresses hopes over temporary truce during visit to Israel
+ - [https://www.theguardian.com/world/2023/nov/23/david-cameron-temporary-truce-visit-to-israel-uk-gaza](https://www.theguardian.com/world/2023/nov/23/david-cameron-temporary-truce-visit-to-israel-uk-gaza)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T18:03:52+00:00
+
+<p>UK foreign secretary hopes situation will provide opportunity to ‘get hostages out and get aid into Gaza’</p><ul><li><a href="https://www.theguardian.com/world/live/2023/nov/23/israel-hamas-war-live-updates-gaza-ceasefire-hostage-release-friday-israeli-us-officials">Israel-Hamas war – live updates</a></li></ul><p>David Cameron has met Benjamin Netanyahu and the Israeli president, Isaac Herzog, during a visit to Israel, expressing hope that the planned temporary truce with Hamas would be an “opportunity to crucially get hostages out and get aid into Gaza”.</p><p>The ceasefire is due to begin on Friday morning from 7am local time, with aid “going in as soon as possible”, according to Qatari officials. The first set of civilians held captive by Hamas are expected to be freed at about 4pm local time on Friday, including 13 women and children.</p> <a href="https://www.theguardian.com/world/2023/nov/23/david-cameron-temporary-truce-visit-to-israel-uk-gaza">Continue reading...</a>
+
+## Annabel Giles obituary
+ - [https://www.theguardian.com/tv-and-radio/2023/nov/23/annabel-giles-obituary](https://www.theguardian.com/tv-and-radio/2023/nov/23/annabel-giles-obituary)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T17:59:45+00:00
+
+Model and popular television presenter who went on to become a bestselling novelist<p>Annabel Giles, who has died of glioblastoma aged 64, was first a model who earned up to £16,000 a day and became the face of Max Factor before using her knowledge of makeup and clothes to break into television as a presenter on the popular ITV teatime show Razzmatazz. She later became a bestselling novelist and a psychotherapist.</p><p>She joined Razzmatazz in 1986, in a slot giving teenagers makeovers so they could look like their favourite rock celebs.</p> <a href="https://www.theguardian.com/tv-and-radio/2023/nov/23/annabel-giles-obituary">Continue reading...</a>
+
+## India deny Australia with thrilling last-ball win in opening T20
+ - [https://www.theguardian.com/sport/2023/nov/23/india-deny-australia-with-thrilling-last-ball-win-in-opening-t20](https://www.theguardian.com/sport/2023/nov/23/india-deny-australia-with-thrilling-last-ball-win-in-opening-t20)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T17:52:09+00:00
+
+<ul><li>Josh Inglis hits joint-fastest T20 century to set 209</li><li>But Suryakumar Yadav’s 80 paved the way for dramatic win </li></ul><p>Josh Inglis smashed Australia’s joint-fastest century in Twenty20 Internationals before Suryakumar Yadav powered India to a two-wicket victory in a thrilling series opener on Thursday.</p><p>Suryakumar, captaining India for the first time, hit an assured knock of 80 as the hosts chased down 208 in Visakhapatnam and secured a small measure of revenge for their painful <a href="https://www.theguardian.com/sport/2023/nov/19/australia-reach-pinnacle-with-sixth-world-cup-win-says-pat-cummins">defeat by Australia </a>in the 50-overs World Cup final on Sunday.</p> <a href="https://www.theguardian.com/sport/2023/nov/23/india-deny-australia-with-thrilling-last-ball-win-in-opening-t20">Continue reading...</a>
+
+## Boy, three, reunited with lost toy after Monkey’s 600-mile rail adventure
+ - [https://www.theguardian.com/uk-news/2023/nov/23/boy-three-reunited-with-lost-toy-after-monkeys-600-mile-rail-adventure](https://www.theguardian.com/uk-news/2023/nov/23/boy-three-reunited-with-lost-toy-after-monkeys-600-mile-rail-adventure)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T17:46:28+00:00
+
+<p>Monkey the monkey travelled from Midlands to Edinburgh to Bristol, gaining a Christmas jumper en route</p><p>A three-year-old boy has been reunited with his lost toy monkey after it took a 600-mile railway journey.</p><p>Kayna Tay, 43, and her son misplaced the item – which he has had since birth – while changing carriages on the first leg of a journey from Oakham, in the east Midlands, to Bristol Temple Meads on Monday.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/boy-three-reunited-with-lost-toy-after-monkeys-600-mile-rail-adventure">Continue reading...</a>
+
+## ‘Huge egos are in play’: behind the firing and rehiring of OpenAI’s Sam Altman
+ - [https://www.theguardian.com/technology/2023/nov/23/huge-egos-are-in-play-behind-the-firing-and-rehiring-of-openais-sam-altman](https://www.theguardian.com/technology/2023/nov/23/huge-egos-are-in-play-behind-the-firing-and-rehiring-of-openais-sam-altman)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T17:40:28+00:00
+
+<p>The surprise sacking of the AI venture’s CEO was followed by a near mutiny at the company and his reinstatement</p><p><a href="https://www.theguardian.com/technology/2023/nov/17/openai-ceo-sam-altman-fired">OpenAI’s messy firing</a> and <a href="https://www.theguardian.com/technology/2023/nov/22/sam-altman-openai-ceo-return-board-chatgpt">re-hiring</a> of its powerful chief executive this week shocked the tech world. But the power struggle has implications beyond the company’s boardroom, AI experts said. It throws into relief the greenness of the AI industry and the strong desire in Silicon Valley to be first, and raises urgent questions about the safety of the technology.</p><p>“The AI that we’re looking at now is immature. There are no standards, no professional body, no certifications. Everybody figures out how to do it, figures out their own internal norms,” said Rayid Ghani, a professor of machine learning and public policy at Carnegie Mellon University. “The AI that gets bui
+
+## UK shoppers expected to buy fewer Black Friday goods amid cost of living crisis
+ - [https://www.theguardian.com/business/2023/nov/23/uk-shoppers-expected-to-buy-fewer-black-friday-goods-amid-cost-of-living-crisis](https://www.theguardian.com/business/2023/nov/23/uk-shoppers-expected-to-buy-fewer-black-friday-goods-amid-cost-of-living-crisis)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T17:34:37+00:00
+
+<p>Spending predicted to be up just 0.4% on 2022 as inflation and Amazon warehouse strikes hit discount event</p><p>Shoppers are expected to snap up fewer items during the <a href="https://www.theguardian.com/business/black-friday">Black Friday</a> sales, which reach their peak this weekend, as the cost of living crisis and strikes at some Amazon warehouses dent trading.</p><p>British consumers are expected to spend slightly more this year than in 2022, but data indicates they will buy fewer goods when the impact of inflation is stripped out.</p> <a href="https://www.theguardian.com/business/2023/nov/23/uk-shoppers-expected-to-buy-fewer-black-friday-goods-amid-cost-of-living-crisis">Continue reading...</a>
+
+## Ghosts review – Ibsen’s intense tragedy by candlelight
+ - [https://www.theguardian.com/stage/2023/nov/23/ghosts-review-henrik-ibsen-sam-wanamaker-playhouse-london](https://www.theguardian.com/stage/2023/nov/23/ghosts-review-henrik-ibsen-sam-wanamaker-playhouse-london)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T17:32:23+00:00
+
+<p><strong>Sam Wanamaker Playhouse, London<br /></strong>Joe Hill-Gibbins directs his own version of the psychodrama, creating a potent atmosphere with designer Rosanna Vize</p><p>If the title of Ibsen’s 1881 tragedy about toxic family inheritance stands as a metaphor for the way the past continues to haunt us, this production makes that idea literal. It begins with the lighting of candles, rather like the start of a séance, bringing characters to life before they are snuffed out at the end.</p><p>A play that dealt in bold subject matter for its time (from venereal disease and incest to euthanasia and critiques of the nuclear family), it sounds crisply modern in Joe Hill-Gibbins’ adaptation. Also directing, he divests the drama of its naturalistic qualities.</p> <a href="https://www.theguardian.com/stage/2023/nov/23/ghosts-review-henrik-ibsen-sam-wanamaker-playhouse-london">Continue reading...</a>
+
+## Estonia accuses Russia of weaponising illegal immigration at Europe’s borders
+ - [https://www.theguardian.com/world/2023/nov/23/estonia-accuses-russia-weaponising-immigration-europe-borders](https://www.theguardian.com/world/2023/nov/23/estonia-accuses-russia-weaponising-immigration-europe-borders)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T17:31:30+00:00
+
+<p>Arrival of hundreds of people at Finnish and Estonian borders said to be ‘fully state-orchestrated’ operation</p><p>Estonia has accused Russia of weaponising illegal immigration on Europe’s eastern borders amid a rise in the number of asylum seekers trying to enter its country and Finland.</p><p>Speaking during a meeting in Stockholm of Nordic and Baltic defence ministers, Hanno Pevkur, Estonia’s defence minister, claimed the hundreds of people who had arrived at the borders of the two countries in recent weeks was a “fully state-orchestrated” operation by Moscow.</p> <a href="https://www.theguardian.com/world/2023/nov/23/estonia-accuses-russia-weaponising-immigration-europe-borders">Continue reading...</a>
+
+## Derailed train sparks molten sulphur fire in Kentucky
+ - [https://www.theguardian.com/us-news/2023/nov/23/derailed-train-sparks-molten-sulphur-fire-in-kentucky](https://www.theguardian.com/us-news/2023/nov/23/derailed-train-sparks-molten-sulphur-fire-in-kentucky)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T17:14:35+00:00
+
+<p>State declares emergency and town of Livingstone evacuated, to be fed Thanksgiving dinner by CVX rail company</p><p>The governor of Kentucky has declared a state of emergency after a train derailed and sparked a molten sulphur fire.</p><p>The derailment, involving at least 16 cars including two that were carrying molten sulphur, occurred north of Livingston in Rockcastle county at about 2.23pm on Wednesday, according to railroad operator CSX.</p> <a href="https://www.theguardian.com/us-news/2023/nov/23/derailed-train-sparks-molten-sulphur-fire-in-kentucky">Continue reading...</a>
+
+## Lewis Hamilton accuses Red Bull of ‘stirring things’ with claim of approach
+ - [https://www.theguardian.com/sport/2023/nov/23/lewis-hamilton-accuses-red-bull-of-stirring-things-with-claim-of-approach](https://www.theguardian.com/sport/2023/nov/23/lewis-hamilton-accuses-red-bull-of-stirring-things-with-claim-of-approach)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T17:12:08+00:00
+
+<ul><li>Christian Horner had said Briton spoke about possible move</li><li>Hamilton: ‘Nobody in my team has spoken to them’</li></ul><p>Lewis Hamilton has denied claims that he had approached Red Bull about a potential move to the team, dismissing them as attention-seeking and accusing the team principal, Christian Horner, of “stirring”.</p><p>Earlier this week, Horner said that a member of the Hamilton camp had approached the team regarding talks over a seat with the reigning world champions, before the British driver had renewed his contract with Mercedes.</p> <a href="https://www.theguardian.com/sport/2023/nov/23/lewis-hamilton-accuses-red-bull-of-stirring-things-with-claim-of-approach">Continue reading...</a>
+
+## Premier League appears fractured as external pressures continue to mount
+ - [https://www.theguardian.com/football/2023/nov/23/premier-league-appears-fractured-as-external-pressures-continue-to-mount](https://www.theguardian.com/football/2023/nov/23/premier-league-appears-fractured-as-external-pressures-continue-to-mount)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T17:05:55+00:00
+
+<p>The failure of a vote on multi-club loans and the absence of an agreement to redistribute wealth to lower-league clubs points to a lack of consensus regarding the future of the top flight</p><p>For a competition defined by its drama, the goings-on at a Premier League shareholders’ meeting are pretty dreary. A function suite at a posh central London hotel, a group of executives (mostly men) burrowing in and out discreetly, an announcement that might require a small tweak to the rulebook. It’s hardly Jamie Carragher v Gary Neville on Monday Night Football.</p><p>Yet this week’s gathering at the Churchill hotel in Marylebone proved to be eyebrow raising. It was a meeting whose outcome suggests not only a divided competition, but one that may be struggling to deal with the challenges it is facing.</p> <a href="https://www.theguardian.com/football/2023/nov/23/premier-league-appears-fractured-as-external-pressures-continue-to-mount">Continue reading...</a>
+
+## ‘What he said is disgusting’: Stockton seethes over minister’s alleged jibe
+ - [https://www.theguardian.com/uk-news/2023/nov/23/stockton-seethes-over-james-cleverly-alleged-jibe](https://www.theguardian.com/uk-news/2023/nov/23/stockton-seethes-over-james-cleverly-alleged-jibe)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T16:57:39+00:00
+
+<p>People in Teesside town say comment attributed to James Cleverly was rude, wrong and revealing of Tory attitudes</p><p>Melanie Greenwood had been helping to organise a books for children drive when she heard the news of the home secretary, James Cleverly, allegedly <a href="https://www.theguardian.com/politics/2023/nov/22/home-secretary-described-stockton-as-shithole-mp-claims">calling Stockton a shit-hole</a>. She said: “I was speechless. Angry. You work so hard and you think: is this what they really think of us?” She added: “The annoying thing is that it was so off the cuff. I think that is what they think about underprivileged people. It speaks a lot about what they truly believe.”</p><p>Greenwood co-owns the independent <a href="https://www.drakethebookshop.co.uk/">Drake the Bookshop</a> in the town centre. A display had been hastily rearranged, away from the eyes of children, that <a href="https://www.instagram.com/p/Cz--Rx8N5wl/">summed up the vibe</a> on Thursday morning. 
+
+## Which public services will suffer most to pay for Tory tax cuts?
+ - [https://www.theguardian.com/society/2023/nov/23/which-public-services-will-suffer-most-to-pay-for-tory-tax-cuts](https://www.theguardian.com/society/2023/nov/23/which-public-services-will-suffer-most-to-pay-for-tory-tax-cuts)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T16:49:13+00:00
+
+<p>Already squeezed criminal justice system, schools and local government would face painful cuts if chancellor’s sums are to add up</p><ul><li><a href="https://www.theguardian.com/politics/live/2023/nov/23/jeremy-hunt-autumn-statement-rishi-sunak-conservatives-tax-cuts-uk-politics-latest-updates">UK politics live – latest updates</a></li></ul><p>Jeremy Hunt’s autumn statement tax cuts were paid for by allowing the real value of public spending to fall by an extra £20bn a year by the end of the next parliament, compared with his plans back in March – a fresh round of austerity <a href="https://www.theguardian.com/uk-news/2023/nov/22/jeremy-hunt-austerity-public-spending-cuts-obr-resolution-foundation">many experts believe will prove impossible</a> to implement in practice.</p><p>Here are some of the areas facing an eye-watering funding squeeze, if the chancellor’s sums are to add up:</p> <a href="https://www.theguardian.com/society/2023/nov/23/which-public-services-will-suffer-most-t
+
+## Exeter’s Rob Baxter calls for ‘genuine’ scrums to make rugby more exciting
+ - [https://www.theguardian.com/sport/2023/nov/23/exeters-rob-baxter-calls-for-genuine-scrums-to-make-rugby-more-exciting](https://www.theguardian.com/sport/2023/nov/23/exeters-rob-baxter-calls-for-genuine-scrums-to-make-rugby-more-exciting)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T16:39:18+00:00
+
+<ul><li>Exeter director of rugby says ‘fatigue element’ crucial to game</li><li>Tired forward packs will open up rest of the pitch, says Baxter</li></ul><p>Exeter’s director of rugby, Rob Baxter, believes the sport should focus on creating a “genuine pushing contest” at scrums to make the game more exciting for spectators, while potentially boosting England’s prospects at Rugby World Cups.</p><p>The former Chiefs second-row, who has won two Premiership titles and a Champions Cup while in charge of the club, argues an emphasis on a physical scrummaging contest – not traditionally regarded as the most attractive element of the game by some – will mean creating space for backs to score tries.</p> <a href="https://www.theguardian.com/sport/2023/nov/23/exeters-rob-baxter-calls-for-genuine-scrums-to-make-rugby-more-exciting">Continue reading...</a>
+
+## The climate emergency really is a new type of crisis – consider the ‘triple inequality’ at the heart of it | Adam Tooze
+ - [https://www.theguardian.com/environment/commentisfree/2023/nov/23/climate-emergency-crisis-conference-cop-28](https://www.theguardian.com/environment/commentisfree/2023/nov/23/climate-emergency-crisis-conference-cop-28)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T16:34:20+00:00
+
+<p>Global conferences such as the upcoming Cop28 may seem like staid and ritualistic affairs. But they matter</p><p>Stare at a climate map of the world that we expect to inhabit 50 years from now and you see a band of extreme heat encircling the planet’s midriff. Climate modelling from 2020 suggests that within <a href="https://www.weforum.org/agenda/2020/05/temperature-climate-change-greenhouse-gas-niche-emissions-hot/">half a century</a> about 30% of the world’s projected population – unless they are forced to move – will live in places with an average temperature above 29C. This is unbearably hot. Currently, no more than 1% of Earth’s land surface is this hot, and those are mainly uninhabited parts of the Sahara.</p><p>The scenario is as dramatic as it is because the regions of the world affected most severely by <a href="https://www.theguardian.com/environment/climate-crisis">global heating</a> – above all, sub-Saharan Africa – are those expected to experience the most rapid popu
+
+## Schumann: Piano Quartet; Piano Quintet album review – period instrument perfection
+ - [https://www.theguardian.com/music/2023/nov/23/schumann-piano-quartet-piano-quintet-album-review-period-instrument-perfection](https://www.theguardian.com/music/2023/nov/23/schumann-piano-quartet-piano-quintet-album-review-period-instrument-perfection)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T16:26:03+00:00
+
+<p><strong>Faust/Schreiber/Tamestit/Queyras/Melnikov<br />(Harmonia Mundi)<br /></strong>This pairing of Schumann’s larger-scale chamber works has lightness and clarity, the instruments are beautifully balanced</p><p>It’s eight years now since violinist <a href="https://www.theguardian.com/music/2013/sep/15/isabelle-faust-violin-musical-sleuth-interview">Isabelle Faust</a>, cellist <a href="https://jeanguihenqueyras.com/en/">Jean-Guihen Queyras</a> and pianist <a href="https://www.impresariat-simmenauer.de/en/artist/alexander-melnikov/">Alexander Melnikov</a> began their series of historically informed <a href="https://www.theguardian.com/music/robert-schumann">Schumann</a> recordings, in which each release matched one of the three concertos to one of the piano trios. Now a disc pairing Schumann’s two larger-scale chamber works with piano makes a logical continuation, for which they are joined by violinist Anne Katharina Schreiber and violist <a href="https://www.antoinetamestit.com/
+
+## Beth Potter and Alex Yee in ‘best ever’ Team GB Olympic triathlon squad
+ - [https://www.theguardian.com/sport/2023/nov/23/beth-potter-and-alex-yee-in-best-ever-team-gb-olympic-triathlon-squad](https://www.theguardian.com/sport/2023/nov/23/beth-potter-and-alex-yee-in-best-ever-team-gb-olympic-triathlon-squad)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T16:10:18+00:00
+
+<ul><li>Britons won test events in Paris during summer</li><li>Johnny Brownlee back in contention after injury</li></ul><p>Team GB triathlon’s squad for Paris 2024 is shaping up as its best ever for an Olympics, its performance director has predicted, after naming world champion Beth Potter and Tokyo 2020 gold and silver medallist Alex Yee as his first two names on the train to France.</p><p>Mike Cavendish flagged Potter and Yee, who won their Olympic test events in Paris this summer, as having outstanding chances for gold and said he had high hopes in the mixed relay too. But he stressed that the battle for the remaining places also included other potential medal winners as well.</p> <a href="https://www.theguardian.com/sport/2023/nov/23/beth-potter-and-alex-yee-in-best-ever-team-gb-olympic-triathlon-squad">Continue reading...</a>
+
+## Revealed: King Charles secretly profiting from the assets of dead citizens
+ - [https://www.theguardian.com/uk-news/2023/nov/23/revealed-king-charles-secretly-profiting-from-the-assets-of-dead-citizens](https://www.theguardian.com/uk-news/2023/nov/23/revealed-king-charles-secretly-profiting-from-the-assets-of-dead-citizens)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T16:00:55+00:00
+
+<p>Exclusive: Assets of thousands of people in north-west England used to upgrade king’s property empire via archaic custom</p><ul><li><a href="https://www.theguardian.com/uk-news/2023/nov/23/turn-in-his-grave-the-dead-whose-assets-went-to-king-charles-estate">‘He would turn in his grave’: the dead whose assets went to King Charles’s estate</a></li><li><a href="https://www.theguardian.com/uk-news/2023/nov/23/how-royal-estates-use-bona-vacantia-to-collect-money-from-dead-people-king-charles">How bona vacantia is used to collect money from dead people</a></li></ul><p>The king is profiting from the deaths of thousands of people in the north-west of England whose assets are secretly being used to upgrade a commercial property empire managed by his hereditary estate, the Guardian can reveal.</p><p>The Duchy of Lancaster, a controversial land and property estate that generates huge profits for King Charles III, has collected tens of millions of pounds in recent years under an antiquated sy
+
+## Phil Foden has the chance at last to become Pep Guardiola’s leading man
+ - [https://www.theguardian.com/football/2023/nov/23/mancheseter-city-phil-foden-has-the-chance-at-last-to-become-pep-guardiolas-leading-man](https://www.theguardian.com/football/2023/nov/23/mancheseter-city-phil-foden-has-the-chance-at-last-to-become-pep-guardiolas-leading-man)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:48:07+00:00
+
+<p>Despite his guile and skill, the 23-year-old is yet to become the City manager’s fulcrum in the manner of a Messi or Götze</p><p>Lionel Messi – Barcelona; Mario Götze – Bayern Munich; David Silva and Kevin De Bruyne – Manchester City. After Jude Bellingham ignored Pep Guardiola’s entreaties to be his next fantasy footballer and chose Real Madrid, can Phil Foden finally fill the role as the manager strives to build another great team?</p><p>At 12.30pm on Saturday the 23-year-old has a latest audition when the treble winners host Liverpool in the blockbuster Premier League showdown of the season so far.</p> <a href="https://www.theguardian.com/football/2023/nov/23/mancheseter-city-phil-foden-has-the-chance-at-last-to-become-pep-guardiolas-leading-man">Continue reading...</a>
+
+## ‘He’s a man with a fork in a world of soup’: the bitterest music-duo spats
+ - [https://www.theguardian.com/music/2023/nov/23/hes-a-man-with-a-fork-in-a-world-of-soup-the-bitterest-music-duo-spats](https://www.theguardian.com/music/2023/nov/23/hes-a-man-with-a-fork-in-a-world-of-soup-the-bitterest-music-duo-spats)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:47:05+00:00
+
+<p>With Hall &amp; Oates now saying ‘no can do’ to their partnership, we look at the other pop pairs who fell out of harmony</p><p>After some 53 years together, we may have been forgiven for assuming that the musical partnership between Daryl Hall and John Oates was one of the most solid in show business. But this week brought the astonishing news that the mega-selling duo are embroiled in litigation, with Hall filing a <a href="https://www.theguardian.com/us-news/2023/nov/22/hall-oates-lawsuit-restraining-order">lawsuit and a restraining order</a> against his lifelong bandmate for reasons as yet unknown. Maybe life has finally imitated art for a band who most famously sang: “I can’t go for that, no can do” but this is far from the most acrimonious of musical creative partnerships.</p> <a href="https://www.theguardian.com/music/2023/nov/23/hes-a-man-with-a-fork-in-a-world-of-soup-the-bitterest-music-duo-spats">Continue reading...</a>
+
+## Investigation into Scottish health secretary’s £11,000 mobile data claim
+ - [https://www.theguardian.com/politics/2023/nov/23/michael-matheson-mobile-data-expenses-claim-holyrood-investigation-scottish-health-secretary](https://www.theguardian.com/politics/2023/nov/23/michael-matheson-mobile-data-expenses-claim-holyrood-investigation-scottish-health-secretary)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:45:28+00:00
+
+<p>Michael Matheson faces Holyrood inquiry that could lead to him being referred to standards committee</p><p>The Scottish health secretary, Michael Matheson, is to be investigated by Holyrood authorities over the near-£11,000 bill racked up on his work iPad.</p><p>The Scottish parliament announced on Thursday its ruling body had begun an inquiry aimed at protecting the integrity of its expenses scheme and ensuring public confidence in Holyrood had not been damaged by the controversy.</p> <a href="https://www.theguardian.com/politics/2023/nov/23/michael-matheson-mobile-data-expenses-claim-holyrood-investigation-scottish-health-secretary">Continue reading...</a>
+
+## Football Daily | A paean to those heady days of four back-to-back World Cup matches
+ - [https://www.theguardian.com/football/2023/nov/23/football-daily-paean-four-back-to-back-world-cup-matches](https://www.theguardian.com/football/2023/nov/23/football-daily-paean-four-back-to-back-world-cup-matches)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:44:49+00:00
+
+<p><a href="https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up">Sign up now! Sign up now! Sign up now? Sign up now!</a></p><p>Will we ever see the likes of the Human Rights World Cup (2022) group stage again? Eleven hours of four essential back-to-back association football matches, every day, for two weeks. In the UK, the kick-off times were 10am, 1pm, 4pm and 7pm, scheduling that would neatly block out the working day, bring the already faltering British economy to a grinding halt and send the daytime sales of Tin rocketing. But if productivity was down, happiness was at an all-time high as supporters feasted on such delights as <a href="https://www.theguardian.com/football/2022/nov/22/argentina-saudi-arabia-world-cup-group-c-match-report">Argentina 1-2 Saudi Arabia</a>, <a href="https://www.theguardian.com/football/2022/nov/25/qatar-senegal-world-cup-group-a-match-report">Qatar 1-3 Senegal</a> and <a href="https://www.theguardian.com/football/2022/nov/28/sout
+
+## Israel arrests Gaza hospital director and bombs 300 targets amid truce delay
+ - [https://www.theguardian.com/world/2023/nov/23/israels-army-arrests-gaza-hospital-director-and-bombs-300-targets-amid-truce-delay](https://www.theguardian.com/world/2023/nov/23/israels-army-arrests-gaza-hospital-director-and-bombs-300-targets-amid-truce-delay)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:44:07+00:00
+
+<p>IDF claims al-Shifa hospital was Hamas command and control centre as footage of tunnels and underground rooms appears</p><ul><li><a href="https://www.theguardian.com/world/live/2023/nov/23/israel-hamas-war-live-updates-gaza-ceasefire-hostage-release-friday-israeli-us-officials">Israel-Hamas war – live updates</a></li></ul><p>Israel’s army has arrested the director of Gaza’s al-Shifa hospital and bombed at least 300 targets from the air, killing dozens of Palestinians, as an agreed four-day truce <a href="https://www.theguardian.com/world/2023/nov/23/israel-hamas-ceasefire-and-hostage-deal-wont-happen-before-friday-israeli-officials-say">was delayed until Friday</a>.</p><p>Mohammad abu Salmiya and other medics were detained, a colleague said, amid reports that members of the Israel Defence Forces (IDF) had seized them as they were travelling with a World Health Organization evacuation convoy.</p> <a href="https://www.theguardian.com/world/2023/nov/23/israels-army-arrests-gaza-hospi
+
+## Gaza diary part 26: ‘There is still space for acts of kindness, moments of joy’
+ - [https://www.theguardian.com/global-development/2023/nov/23/gaza-diary-part-26-there-is-still-space-for-acts-of-kindness-moments-of-joy](https://www.theguardian.com/global-development/2023/nov/23/gaza-diary-part-26-there-is-still-space-for-acts-of-kindness-moments-of-joy)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:42:30+00:00
+
+<p>Ziad, a 35-year-old Palestinian, on helping a child suffering from toothache, marvelling at a family’s ability to laugh and sing, and how a simple scarf can allow you to dream of better times</p><p>• <a href="https://www.theguardian.com/world/live/2023/nov/21/israel-hamas-war-live-updates-hamas-leader-haniyeh-truce-ceasefire-talks-gaza-qatar-latest-news">Israel-Hamas war: live updates</a></p><p><strong>8am</strong> A woman I know once wondered about what life would be like if tears were coloured. If there was a specific colour for tears of joy, sadness, anger, despair and helplessness.</p> <a href="https://www.theguardian.com/global-development/2023/nov/23/gaza-diary-part-26-there-is-still-space-for-acts-of-kindness-moments-of-joy">Continue reading...</a>
+
+## Five people including children in hospital after knife attack in Dublin
+ - [https://www.theguardian.com/world/2023/nov/23/dublin-knife-attack-children-stabbing-ireland-parnell-square](https://www.theguardian.com/world/2023/nov/23/dublin-knife-attack-children-stabbing-ireland-parnell-square)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:39:58+00:00
+
+<p>Police detain a suspect as justice minister condemns ‘appalling attack’ near school in city centre</p><p>A man has been detained after allegedly stabbing three children and two adults near a school in central Dublin.</p><p>The incident happened at about 1.30pm on Thursday close to Gaelscoil Choláiste Mhuire, a primary school at Parnell Square East, a bustling part of Ireland’s capital.</p> <a href="https://www.theguardian.com/world/2023/nov/23/dublin-knife-attack-children-stabbing-ireland-parnell-square">Continue reading...</a>
+
+## James Cleverly claims he was calling Stockton MP ‘shit’, not the town
+ - [https://www.theguardian.com/politics/2023/nov/23/james-cleverly-stockton-remark](https://www.theguardian.com/politics/2023/nov/23/james-cleverly-stockton-remark)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:28:04+00:00
+
+<p>Home secretary offers new account of Commons incident as local Tory mayor condemns remark</p><p>James Cleverly has given a new explanation for accusations <a href="https://www.theguardian.com/politics/2023/nov/22/home-secretary-described-stockton-as-shithole-mp-claims">that he called</a> a Labour-held constituency a “shit-hole”, saying that while he had sworn in the Commons this was simply to use the language about the local MP instead.</p><p>The home secretary has faced increasing pressure to apologise for his apparent comments about Stockton on Wednesday, with Ben Houchen, the Conservative mayor for Tees Valley, condemning what he called “childish and unprofessional language”.</p> <a href="https://www.theguardian.com/politics/2023/nov/23/james-cleverly-stockton-remark">Continue reading...</a>
+
+## What is national insurance and who will benefit from Jeremy Hunt’s cuts?
+ - [https://www.theguardian.com/money/2023/nov/23/what-is-national-insurance-and-who-will-benefit-from-jeremy-hunts-cuts](https://www.theguardian.com/money/2023/nov/23/what-is-national-insurance-and-who-will-benefit-from-jeremy-hunts-cuts)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:20:20+00:00
+
+<p>With national insurance at the centre of the autumn statement, we explain how this complicated UK tax works</p><ul><li><strong><a href="https://www.theguardian.com/uk-news/2023/nov/23/autumn-statement-tax-cuts-favour-richest-20-thinktank-analysis-finds">Households to be £1,900 poorer by end of this parliament – economists</a></strong></li><li><strong><a href="https://www.theguardian.com/uk-news/2023/nov/22/autumn-statement-2023-key-points-jeremy-hunt">Autumn statement 2023: key points at a glance</a></strong></li></ul><p>A big national insurance cut was the centrepiece measure of Jeremy Hunt’s autumn statement – but just how much better off will UK employees really be?</p><p>The chancellor is cutting the main rate of national insurance contributions paid by workers <a href="https://www.theguardian.com/politics/live/2023/nov/22/jeremy-hunt-autumn-statement-conservatives-labour-rishi-sunak-keir-starmer-pmqs-uk-economy-politics-latest-updates?page=with:block-655e00dc8f080998c761184f#
+
+## Lucas Moura: ‘Winning a trophy with the club of my heart was priceless’
+ - [https://www.theguardian.com/football/2023/nov/23/lucas-moura-spurs-sao-paulo-brazil-selecao-winning-trophy](https://www.theguardian.com/football/2023/nov/23/lucas-moura-spurs-sao-paulo-brazil-selecao-winning-trophy)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:06:41+00:00
+
+<p>The Brazilian remembers happy times of Spurs, reflects on his return to São Paulo and looks to the future with the <em>Seleção</em></p><p>By <a href="https://twitter.com/josue_seixas">Josué Seixas</a> for the <a href="https://www.theguardian.com/sport/series/guardian-sport-network">Guardian Sport Network</a></p><p>When Lucas Moura returned to São Paulo this summer after five seasons at Paris Saint-Germain and five at Spurs, he was given a hero’s welcome. São Paulo had won their last major trophy, the Copa Sudamericana, a few weeks before he set off to Paris in January 2013. The fans hoped his return would coincide with more glory. Their dreams have already become reality.</p><p>São Paulo beat Flamengo in the Copa do Brasil final in September, winning the trophy for the first time in their history. It is hard not to compare this triumph with Tottenham’s run in Europe during the 2018-2019 season. Moura was the hero of the semi-final against Ajax, <a href="https://www.theguardian.com
+
+## OpenAI was working on advanced model so powerful it alarmed staff
+ - [https://www.theguardian.com/business/2023/nov/23/openai-was-working-on-advanced-model-so-powerful-it-alarmed-staff](https://www.theguardian.com/business/2023/nov/23/openai-was-working-on-advanced-model-so-powerful-it-alarmed-staff)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:03:28+00:00
+
+<p>New model Q* fuelled safety concerns among staff with workers airing their fears to the board before CEO Sam Altman’s sacking</p><p>OpenAI was reportedly working on an advanced system before <a href="https://www.theguardian.com/technology/2023/nov/17/openai-ceo-sam-altman-fired">Sam Altman’s sacking</a> that was so powerful it caused safety concerns among staff at the company.</p><p>The artificial intelligence model triggered such alarm with some OpenAI researchers that they wrote to the board of directors before Altman’s dismissal warning it could threaten humanity, Reuters reported.</p> <a href="https://www.theguardian.com/business/2023/nov/23/openai-was-working-on-advanced-model-so-powerful-it-alarmed-staff">Continue reading...</a>
+
+## Raw sewage discharged into Chichester harbour for over 1,200 hours in a month
+ - [https://www.theguardian.com/environment/2023/nov/23/raw-sewage-discharged-chichester-harbour-over-1200-hours-month](https://www.theguardian.com/environment/2023/nov/23/raw-sewage-discharged-chichester-harbour-over-1200-hours-month)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:02:49+00:00
+
+<p>Campaigners say Southern Water outflows into protected wildlife site are an  ‘assault on the environment’ </p><p>Raw sewage has been discharged into Chichester harbour for more than 1,200 hours in the past month, in what campaigners described as “an assault on the environment”.</p><p>The protected harbour in West Sussex, which is a designated area of outstanding natural beauty (AONB), has been subjected to the discharges since 24 October.</p> <a href="https://www.theguardian.com/environment/2023/nov/23/raw-sewage-discharged-chichester-harbour-over-1200-hours-month">Continue reading...</a>
+
+## New York City mayor Eric Adams accused of sexual assault in 1993
+ - [https://www.theguardian.com/us-news/2023/nov/23/new-york-city-mayor-eric-adams-accused-of-sexual-assault](https://www.theguardian.com/us-news/2023/nov/23/new-york-city-mayor-eric-adams-accused-of-sexual-assault)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:01:19+00:00
+
+<p>Summons accuses Adams of sexual assault and employment discrimination in 1993 while he and plaintiff worked for the city</p><p>The mayor of New York City, <a href="https://www.theguardian.com/us-news/eric-adams">Eric Adams</a>, has been accused of sexual assault in a court filing submitted on late Wednesday.</p><p>The summons against Adams alleges that the plaintiff “was sexually assaulted by Defendant Eric Adams in New York, New York in 1993 while they both worked for the City of New York”.</p> <a href="https://www.theguardian.com/us-news/2023/nov/23/new-york-city-mayor-eric-adams-accused-of-sexual-assault">Continue reading...</a>
+
+## ‘My favourite moment is me … not in a big-headed way!’ Stars share their best Doctor Who moments – part four
+ - [https://www.theguardian.com/tv-and-radio/2023/nov/23/60-years-doctor-who-bbc-part-four](https://www.theguardian.com/tv-and-radio/2023/nov/23/60-years-doctor-who-bbc-part-four)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T15:00:54+00:00
+
+<p>From the first trans character to chasing paparazzi off set, here are some of the most jawdropping moments from the sci-fi hit …. by the people who brought it to life</p><p>• <a href="https://www.theguardian.com/tv-and-radio/2023/nov/20/60-years-doctor-who-bbc-part-one">‘I got to have an affair with Kylie!’ – part one</a><br />• <a href="https://www.theguardian.com/tv-and-radio/2023/nov/21/60-years-doctor-who-bbc-part-two">‘Matt Smith and I twiddle knobs. I am 12 again!’ – part two</a><br />• <a href="https://www.theguardian.com/tv-and-radio/2023/nov/22/60-years-doctor-who-bbc-part-three">‘John Hurt and I swapped wine tips’ – part three</a></p><p>It could be watching Planet of the Spiders at my Nan’s house, wrapped up in her fake fur coat, or my sister and me screaming in joyous terror as the Cyber Army awakens in Earthshock, or just lying in bed, half-excited and half-terrified to imagine the fearsome grinding of the Tardis’s time rotor outside my bedroom window. I didn’t want to
+
+## London was apparently too woke for the billboard-covered orb. Why not try the Tory heartlands instead? | Coco Khan
+ - [https://www.theguardian.com/commentisfree/2023/nov/23/london-orb-sphere-las-vegas-stratford](https://www.theguardian.com/commentisfree/2023/nov/23/london-orb-sphere-las-vegas-stratford)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:59:48+00:00
+
+<p>The company responsible has said it will seek more ‘forward-thinking’ nations to build its three-dimensional migraine</p><p>Truly, a picture can paint a thousand words. The image is of a beaming orb displayed as a giant eye that shines out across the urban landscape. It never sleeps, and neither will you if you are near enough to its glare. A dystopian, nightmarish sight, it is quite literally an eyesore. I am talking, of course, of the recently opened Sphere in Las Vegas, its LED screens displaying 360 degrees of video and adverts for up to 24 hours a day. The developer, MSG Entertainment, had hopes of building another one in Stratford, east London, which was proposed to be as tall as Big Ben.</p><p>That was until its <a href="https://www.theguardian.com/uk-news/2023/nov/20/stays-in-vegas-khan-rejects-application-for-stratford-sphere-venue">dreams were dashed</a> this week by the mayor, Sadiq Khan, following a committed campaign by residents and councillors. Khan argued that the 
+
+## The Premier League returns and Euro 2024 chat – Football Weekly Extra
+ - [https://www.theguardian.com/football/audio/2023/nov/23/the-premier-league-returns-and-euro-2024-chat-football-weekly-extra](https://www.theguardian.com/football/audio/2023/nov/23/the-premier-league-returns-and-euro-2024-chat-football-weekly-extra)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:55:49+00:00
+
+<p><a href="https://twitter.com/maxrushden">Max Rushden</a> is joined by <a href="https://twitter.com/bglendenning">Barry Glendenning</a>, <a href="https://twitter.com/jonathanliew">Jonathan Liew</a> and <a href="https://twitter.com/NickyBandini">Nicky Bandini</a> to preview the weekend’s Premier League games</p><p><strong>Rate, review, share on <a href="https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2">Apple Podcasts</a>, <a href="https://soundcloud.com/guardianfootballweekly">Soundcloud</a>, <a href="https://audioboom.com/channel/football-weekly">Audioboom</a>, <a href="https://www.mixcloud.com/guardianfootballweekly/">Mixcloud</a>, <a href="https://www.acast.com/footballweekly">Acast</a> and <a href="http://www.stitcher.com/podcast/guardianuk/football-weekly">Stitcher</a>, and join the conversation on <a href="https://www.facebook.com/GuardianPodcasts/">Facebook</a>, <a href="https://twitter.com/guardianaudio">Twitter</a> and <a href="mailto:footballw
+
+## Dominic West becomes latest star to criticise soaring West End ticket prices
+ - [https://www.theguardian.com/stage/2023/nov/23/dominic-west-becomes-latest-star-to-criticise-soaring-west-end-ticket-prices](https://www.theguardian.com/stage/2023/nov/23/dominic-west-becomes-latest-star-to-criticise-soaring-west-end-ticket-prices)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:52:41+00:00
+
+<p>Actor who played Prince Charles in The Crown said non-London crowds ‘have a real hunger for a good night at the theatre’</p><p>The actor Dominic West has extolled the virtues of regional theatre ahead of a new stage role, complaining that West End ticket prices are “going crazy”.</p><p>The actor, who is appearing at the 120-seat Ustinov Studio in Bath for his theatrical comeback after playing Prince Charles in The Crown, said there was a “tangible” desire for good theatre in the regions.</p> <a href="https://www.theguardian.com/stage/2023/nov/23/dominic-west-becomes-latest-star-to-criticise-soaring-west-end-ticket-prices">Continue reading...</a>
+
+## M1onTheBeat: The Mixtape review | Alexis Petridis's album of the week
+ - [https://www.theguardian.com/music/2023/nov/23/m1onthebeat-the-mixtape-review-uk-drill-reality-entertainment-virgin](https://www.theguardian.com/music/2023/nov/23/m1onthebeat-the-mixtape-review-uk-drill-reality-entertainment-virgin)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:51:22+00:00
+
+<p><strong>(Reality Entertainment/Virgin Music UK)</strong><br />The producer’s desolate soundscapes have helped define the rap subgenre, and his first mixtape injects the mainstream with even more affectingly warped and ghostly tunes</p><p>In 2018, a dance music website ran a profile of producer M1onTheBeat. This was at the height of UK drill’s notoriety, and though he had already made a name for himself as one of the rap subgenre’s chief architects, the feature painted a compelling portrait of a career on the musical margins. He had honed his craft with frequent collaborator MKThePlug while both were resident in a YMCA hostel. His studio was a laptop and a pair of battered speakers in a bedroom in a Tottenham flat with chunks of plaster missing from the walls. (According to the profile, the neighbours, believing he was running a drug den, had alerted the authorities, who allegedly responded to the complaints – oddly – by forcing him to tear down the soundproofing in the room, hence
+
+## Geert Wilders aims to become Dutch PM after shock election win
+ - [https://www.theguardian.com/world/2023/nov/23/netherlands-geert-wilders-aims-to-become-dutch-pm-after-shock-election-win](https://www.theguardian.com/world/2023/nov/23/netherlands-geert-wilders-aims-to-become-dutch-pm-after-shock-election-win)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:42:24+00:00
+
+<p>Far-right leader also says he wants EU exit referendum, as other parties meet to consider joining coalition</p><p>The Netherlands is facing complex and potentially lengthy coalition talks as Geert Wilders, whose far-right, anti-Islam Party for Freedom (PVV) is expected to be the largest in the Dutch parliament in a shock election result, vowed to try to become prime minister and to call a referendum on its membership of the EU.</p><p>In an electoral upset whose reverberations will be felt around Europe and that was welcomed by far-right leaders including France’s Marine Le Pen and Hungary’s Viktor Orbán, the PVV won 37 seats in the 150-seat parliament, more than double its previous number. Its manifesto included calls for bans on mosques, the Qur’an, and the wearing of Islamic headscarves in government buildings.</p> <a href="https://www.theguardian.com/world/2023/nov/23/netherlands-geert-wilders-aims-to-become-dutch-pm-after-shock-election-win">Continue reading...</a>
+
+## Nearly a third of professional UK musicians report poor mental wellbeing
+ - [https://www.theguardian.com/music/2023/nov/23/nearly-a-third-of-professional-uk-musicians-report-poor-mental-wellbeing](https://www.theguardian.com/music/2023/nov/23/nearly-a-third-of-professional-uk-musicians-report-poor-mental-wellbeing)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:38:36+00:00
+
+<p>Squeeze musician Chris Difford among those expressing concern over findings by Musicians’ Union and Help Musicians</p><p>A census of nearly 6,000 professional musicians in the UK has found that 30% report having poor mental wellbeing, with another 11% feeling neither positive nor negative about it.</p><p>Musicians in Wales, Scotland and Northern Ireland report lower mental wellbeing than their English contemporaries, though the worst-affected region of all was north-east England, with 38% of its musicians affected. Dance music was the worst-affected genre, numbering 35% of respondents from that sector.</p> <a href="https://www.theguardian.com/music/2023/nov/23/nearly-a-third-of-professional-uk-musicians-report-poor-mental-wellbeing">Continue reading...</a>
+
+## UK weather: snow and strong winds may hit this weekend
+ - [https://www.theguardian.com/uk-news/2023/nov/23/uk-weather-snow-and-strong-winds-may-hit-this-weekend-in-years-first-cold-spell](https://www.theguardian.com/uk-news/2023/nov/23/uk-weather-snow-and-strong-winds-may-hit-this-weekend-in-years-first-cold-spell)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:32:31+00:00
+
+<p>Yellow warning for wind is issued for Shetland and temperatures could fall to -5C in south-west of England</p><p>Snow, wintry showers and strong winds could hit parts of the UK this weekend in the country’s first cold spell of the autumn, with a yellow warning issued for strong gusts in Shetland.</p><p>The Met Office said sleet and snow could fall in the north of Scotland and on peaks above 400 metres (1,312ft) high.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/uk-weather-snow-and-strong-winds-may-hit-this-weekend-in-years-first-cold-spell">Continue reading...</a>
+
+## Hunt’s tax cuts mean austerity ‘more painful’ than under Osborne, warns IFS
+ - [https://www.theguardian.com/uk-news/2023/nov/23/jeremy-hunt-tax-cuts-austerity-more-painful-george-osborne-ifs-public-spending](https://www.theguardian.com/uk-news/2023/nov/23/jeremy-hunt-tax-cuts-austerity-more-painful-george-osborne-ifs-public-spending)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:30:35+00:00
+
+<p>Thinktank says £20bn package of tax cuts would be mostly funded by deep reductions in public spending planned from 2025</p><ul><li><strong><a href="https://www.theguardian.com/uk-news/2023/nov/23/autumn-statement-tax-cuts-favour-richest-20-thinktank-analysis-finds">Households to be £1,900 poorer by end of this parliament – economists</a> </strong></li><li><strong><a href="https://www.theguardian.com/uk-news/2023/nov/22/autumn-statement-2023-key-points-jeremy-hunt">Autumn statement 2023: key points at a glance</a></strong></li></ul><p>Rishi Sunak’s government has laid the groundwork for a “more painful” austerity drive after the next general election than during the decade of belt-tightening under George Osborne, leading economists have warned.</p><p>A day after the chancellor’s <a href="https://www.theguardian.com/uk-news/autumn-statement-2023">autumn statement</a>, the Institute for Fiscal Studies said Jeremy Hunt’s £20bn package of tax cuts was almost entirely funded by swingein
+
+## Shell to face human rights claims in UK over chronic oil pollution in Niger delta
+ - [https://www.theguardian.com/business/2023/nov/23/shell-to-face-human-rights-claims-uk-over-chronic-oil-spills-niger-delta](https://www.theguardian.com/business/2023/nov/23/shell-to-face-human-rights-claims-uk-over-chronic-oil-spills-niger-delta)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:29:35+00:00
+
+<p>More than 13,000 Nigerian villagers can bring legal claims against oil firm, rules high court</p><p>Thousands of Nigerian villagers can bring human rights claims against the fossil fuel company Shell over the chronic oil pollution of their water sources and destruction of their way of life, the high court in London has ruled.</p><p>Mrs Justice May ruled this week that more than 13,000 farmers and fishers from the Ogale and Bille communities in the Niger delta were entitled to bring legal claims against Shell for alleged breaches to their right to a clean environment.</p> <a href="https://www.theguardian.com/business/2023/nov/23/shell-to-face-human-rights-claims-uk-over-chronic-oil-spills-niger-delta">Continue reading...</a>
+
+## FA council member resigns after ‘Hitler proud of Netanyahu’ post
+ - [https://www.theguardian.com/football/2023/nov/23/wasim-haq-fa-council-member-resigns-after-hitler-proud-of-netanyahu-post](https://www.theguardian.com/football/2023/nov/23/wasim-haq-fa-council-member-resigns-after-hitler-proud-of-netanyahu-post)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:24:13+00:00
+
+<ul><li>Wasim Haq steps down from role amid FA investigation</li><li>Haq says decision is ‘best course of action for the FA and myself’</li></ul><p>Wasim Haq has resigned as a member of the Football Association council after saying “Adolf Hitler would be proud of Benjamin Netanyahu”. Haq, <a href="https://www.theguardian.com/football/2023/nov/14/fa-suspends-council-member-wasim-haq-hitler-proud-of-netanyahu-post">who was suspended</a> after a post on social media about Israel’s war with Hamas led him to be accused of antisemitism this month, said that his decision to step down was “the best course of action for the FA and myself” and reiterated that his comments were not aimed at the Jewish community.</p><p>The resignation has come before the conclusion of an investigation into the post. Haq, who joined the FA as a BAME Football Communities representative in 2019, had already been sacked by the Lawn Tennis Association as an independent councillor. He is being investigated by England 
+
+## ‘Enough is enough’: the Dutch explain why they voted for Geert Wilders
+ - [https://www.theguardian.com/world/2023/nov/23/dutch-explain-why-they-voted-for-geert-wilders-netherlands-election](https://www.theguardian.com/world/2023/nov/23/dutch-explain-why-they-voted-for-geert-wilders-netherlands-election)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:07:32+00:00
+
+<p>Some voters are filled with fear at the far-right leader’s rise, but others who backed him voice anger and a sense of unfairness</p><ul><li><a href="https://www.theguardian.com/world/live/2023/nov/23/dutch-election-results-geert-wilders-party-for-freedom-europe-latest-news">Europe live – latest updates</a></li></ul><p>The triumph of Geert Wilders at the Dutch polls is one of the biggest political upsets in European politics and, just like Brexit, will send reverberations across the continent. But in the Dutch city of Rotterdam, where the far-right Party for Freedom (PVV) is now the biggest political grouping, the earthquake was met with more of a shrug than a gasp.</p><p>“While he said ‘enough is enough’ he is right: enough is enough,” said Jeannette, 34, receiving a delivery of bags of potatoes for the chip shop where she works. “We pay too much tax, too much for healthcare, too much for rent. We can’t take it any more.”</p> <a href="https://www.theguardian.com/world/2023/nov/23/
+
+## My recently widowed sister wants me to confront her husband’s unfaithful past. What to do? | Leading questions
+ - [https://www.theguardian.com/lifeandstyle/2023/nov/24/my-recently-widowed-sister-wants-me-to-confront-her-husbands-unfaithful-past-what-to-do](https://www.theguardian.com/lifeandstyle/2023/nov/24/my-recently-widowed-sister-wants-me-to-confront-her-husbands-unfaithful-past-what-to-do)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:00:56+00:00
+
+<p>Your sister is going through some complicated feelings, writes advice columnist <strong>Eleanor Gordon-Smith</strong>. Try to legitimise her hurt, if not her action items</p><p><strong>Help! My recently widowed sister wants me to confront her past, for her. My sister, 63, was with her husband, 67, since she was 16 (they got married in their 20s). As sometimes happens to widows/widowers, she is now questioning their relationship. He was unfaithful to her several times, but she chose to stay (they have three grown children.)</strong></p><p><strong>One of his possible indiscretions was with a childhood friend of mine, with whom I’ve had sporadic contact over the years. Recently the friend contacted me, out of blue, to have dinner together. Neither my sister nor I know if anything actually happened between them, and her husband always denied it. This was in the 1980s.</strong></p> <a href="https://www.theguardian.com/lifeandstyle/2023/nov/24/my-recently-widowed-sister-wants-me-to-conf
+
+## Being a human is weird and awkward – but I’ve learned to embrace and laugh about it | Deirdre Fidge
+ - [https://www.theguardian.com/commentisfree/2023/nov/23/being-a-human-is-weird-and-awkward-but-ive-learned-to-embrace-and-laugh-about-it](https://www.theguardian.com/commentisfree/2023/nov/23/being-a-human-is-weird-and-awkward-but-ive-learned-to-embrace-and-laugh-about-it)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T14:00:53+00:00
+
+<p>After a lifetime cursed with awkward social interactions, learning to take myself less seriously has been a wonderful gift</p><p>I’ve gotten to know my postman. Being home during the day means I’m there to answer the door and exchange chit-chat. Sometimes about the weather, sometimes about my dogs who greet him with unfortunate stereotypical anger. Occasionally, I’ll pass him in the street and we wave or smile. How nice … in theory. Somehow, in every instance there is an awkwardness, a palpably tense energy of a high school play where someone is doing their best but keeps flubbing a line, standing off-mark or having their wig fall off.</p><p>Postman Pat (not his real name) visited my house once not to deliver mail but to borrow a doggy bag to clean up a large deposit left beside a nearby postbox. We stumbled through a mixture of disgusted remarks and jokes about how large the dog must have been before I slipped over running to the cupboard and shoved three bags into his hand. “I r
+
+## Lidl tempts green shoppers with Christmas jumper loan scheme
+ - [https://www.theguardian.com/lifeandstyle/2023/nov/23/lidl-christmas-jumper-loan-scheme-nspcc](https://www.theguardian.com/lifeandstyle/2023/nov/23/lidl-christmas-jumper-loan-scheme-nspcc)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T13:59:06+00:00
+
+<p>NSPCC to receive profits from £2-a-day service that aims to avoid environmental cost of fast fashion</p><p>If you don’t have a relative who can knit you a traditional Christmas jumper – and you’re not quite ready to invest in your own – Santa has come early: Lidl has launched a Christmas jumper rental service.</p><p>For all those who want to make their Christmas better with a sweater – even a bespoke jumper with the supermarket’s logo emblazoned across it – rental is just £2 a day from Thursday until 31 December, with all profits going to the NSPCC.</p> <a href="https://www.theguardian.com/lifeandstyle/2023/nov/23/lidl-christmas-jumper-loan-scheme-nspcc">Continue reading...</a>
+
+## Hunt the crap magician can’t escape his own autumn statement illusion | John Crace
+ - [https://www.theguardian.com/uk-news/2023/nov/23/jeremy-hunt-the-crap-magician-cant-escape-his-own-autumn-statement-illusion](https://www.theguardian.com/uk-news/2023/nov/23/jeremy-hunt-the-crap-magician-cant-escape-his-own-autumn-statement-illusion)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T13:57:18+00:00
+
+<p>Debt is not coming down. We haven’t beaten inflation. Taxes aren’t falling. But Jezza sails through interviews, believing it all</p><p>Sometimes it’s hard to know just how to react. Whether to laugh or cry. Or just to wander off and quietly inject yourself with large quantities of morphine. Much like most Tory MPs seem to have been doing for the past year or so.</p><p>Should you just sit back and applaud? In open admiration of the sheer cheek. The illusion that had been pulled off in plain sight of the entire nation. Somehow that doesn’t seem quite right with Jeremy Hunt’s autumn statement. Because actually<a href="https://www.theguardian.com/commentisfree/2023/nov/23/bribed-tories-election-chancellor-autumn-statement"> the magic has been a bit rubbish</a>. A bit like watching someone claim to levitate when they are actually propping themselves up with a stick.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/jeremy-hunt-the-crap-magician-cant-escape-his-own-autumn-sta
+
+## UK campaigners seek to overturn ban on American XL bully dogs
+ - [https://www.theguardian.com/uk-news/2023/nov/23/uk-campaigners-seek-overturn-ban-american-xl-bully-dogs](https://www.theguardian.com/uk-news/2023/nov/23/uk-campaigners-seek-overturn-ban-american-xl-bully-dogs)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T13:52:38+00:00
+
+<p>Group of owners and dog experts launch legal fight against rules due to be enforced in England and Wales</p><p>A campaign group has launched a legal attempt to overturn the government’s ban on American XL bully dogs after raising more than £160,000 to fund a potential judicial review.</p><p>The group of XL bully owners and dog experts, Don’t Ban Me – Licence Me, said it had instructed a lawyer and submitted a pre-action protocol to the government, and hopes to apply for an injunction to delay the ban before the end of the year.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/uk-campaigners-seek-overturn-ban-american-xl-bully-dogs">Continue reading...</a>
+
+## China to rule on appeals in case of detained human rights lawyers
+ - [https://www.theguardian.com/world/2023/nov/23/china-to-rule-appeals-ding-jiaxi-xu-zhiyong-detained-human-rights-lawyers](https://www.theguardian.com/world/2023/nov/23/china-to-rule-appeals-ding-jiaxi-xu-zhiyong-detained-human-rights-lawyers)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T13:51:41+00:00
+
+<p>Ding Jiaxi and Xu Zhiyong are leading figures in the thwarted New Citizens’ Movement group of activists and lawyers</p><p>A Chinese court is to rule in the appeals of detained human rights lawyers <a href="https://www.theguardian.com/world/2023/apr/11/outcry-over-lengthy-jail-terms-handed-to-china-human-rights-lawyers">Ding Jiaxi and Xu Zhiyong</a>, as Ding’s wife called on China’s top judge to “rectify the miscarriage of justice” in their case.</p><p>Ding and Xu are leading figures in China’s thwarted New Citizens’ Movement, a loose network of activists and lawyers concerned with human rights and government corruption. In April, the men were sentenced to more than a decade in prison for subversion of state power, in a ruling that was criticised by the UN’s human rights chief. Ding received a 12-year sentence, while Xu’s was 14 years.</p> <a href="https://www.theguardian.com/world/2023/nov/23/china-to-rule-appeals-ding-jiaxi-xu-zhiyong-detained-human-rights-lawyers">Continue readi
+
+## Post your questions for Jane Horrocks
+ - [https://www.theguardian.com/film/2023/nov/23/post-your-questions-for-jane-horrocks](https://www.theguardian.com/film/2023/nov/23/post-your-questions-for-jane-horrocks)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T13:33:54+00:00
+
+<p>Now is your chance to find out how to sing like Julie Garland, deal with being Edina Monsoon’s PA and play a critically acclaimed chicken</p><p><br />It surprised a lot of people when Bubbles, the dippy personal assistant from Absolutely Fabulous, turned out to have a belter of a singing voice. Jane Horrocks showed off her chops in the 1998 film Little Voice having already conquered the stage with the lead role in The Rise and Fall of Little Voice. (The part had been specially written for her by dramatist Jim Cartwright, who heard Horrocks singing Judy Garland and Shirley Bassey numbers as she warmed up for a role in his first stage play Road.)</p><p>Since then, Horrocks has become part of the fabric of the nation. On the big screen, she’s voiced a knitting-loving chicken in 2000’s Chicken Run and a duck opposite Bill Murray’s Garfield. In the flesh, she appeared in Dexter Fletcher’s Proclaimers jukebox musical Sunshine on Leith, and opposite Rob Brydon in 2018 sports comedy Swimm
+
+## Thanksgiving Day balloon and Dutch election: photos of the day – Thursday
+ - [https://www.theguardian.com/news/gallery/2023/nov/23/thanksgiving-day-balloon-dutch-election-photos-of-the-day-thursday](https://www.theguardian.com/news/gallery/2023/nov/23/thanksgiving-day-balloon-dutch-election-photos-of-the-day-thursday)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T13:25:32+00:00
+
+<p>The Guardian’s picture editors select photographs from around the world</p> <a href="https://www.theguardian.com/news/gallery/2023/nov/23/thanksgiving-day-balloon-dutch-election-photos-of-the-day-thursday">Continue reading...</a>
+
+## Chinese shadow bank admits £30bn shortfall after ‘management ran wild’
+ - [https://www.theguardian.com/business/2023/nov/23/chinese-shadow-bank-zhongzhi-30bn-shortfall-china-property-market](https://www.theguardian.com/business/2023/nov/23/chinese-shadow-bank-zhongzhi-30bn-shortfall-china-property-market)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T13:13:35+00:00
+
+<p>Zhongzhi, a wealth manager with links to China’s ailing property market, says it is ‘severely insolvent’</p><p>One of China’s biggest financial conglomerates with links to the country’s ailing property market has admitted a shortfall of nearly £30bn as it warned investors that it is “severely insolvent”.</p><p>Zhongzhi, an asset and wealth management company in China’s shadow banking sector, said its total assets amounted to 200bn yuan (£22.5bn) against obligations of up to 460bn yuan, in a letter to shareholders issued on Wednesday.</p> <a href="https://www.theguardian.com/business/2023/nov/23/chinese-shadow-bank-zhongzhi-30bn-shortfall-china-property-market">Continue reading...</a>
+
+## BBC Proms director David Pickard to step down after nine years
+ - [https://www.theguardian.com/music/2023/nov/23/bbc-proms-director-david-pickard-to-step-down-after-nine-years](https://www.theguardian.com/music/2023/nov/23/bbc-proms-director-david-pickard-to-step-down-after-nine-years)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T13:11:27+00:00
+
+<p>Pickard will leave post after next summer’s classical music festival and says it feels like right time to go</p><p>The director of the BBC Proms has announced he will step down after nine years leading the classical music festival.</p><p>David Pickard will leave the post after next summer’s Proms and said he planned to “explore new projects”.</p> <a href="https://www.theguardian.com/music/2023/nov/23/bbc-proms-director-david-pickard-to-step-down-after-nine-years">Continue reading...</a>
+
+## Dutch Muslims fearful for future after ‘shocking’ election results
+ - [https://www.theguardian.com/world/2023/nov/23/dutch-muslims-fearful-for-future-after-shocking-election-results-geert-wilders](https://www.theguardian.com/world/2023/nov/23/dutch-muslims-fearful-for-future-after-shocking-election-results-geert-wilders)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T13:10:36+00:00
+
+<p>Scale of Netherlands vote for Geert Wilders’ far-right party and its anti-Islam policies causes concern over rights and safety</p><ul><li><a href="https://www.theguardian.com/world/2023/nov/23/dutch-election-will-the-far-right-pvv-geert-wilders-form-government">Explainer: Will the far-right PVV now form a government?</a></li></ul><p>Geert Wilders described it as the “most beautiful day” of his political life. But for many across the Netherlands, news that Wilders’ far-right, anti-Islam party had emerged with the most votes in Wednesday’s election set off alarm bells over what might lie ahead in a country once regarded as a beacon of tolerance.</p><p>“These election results are shocking for Dutch Muslims,” said<strong> </strong>Muhsin Köktas of the Contact Body for Muslims and Government. “We did not expect such a party with a programme that is against the basic principles of the rule of law to be so big.”</p> <a href="https://www.theguardian.com/world/2023/nov/23/dutch-muslims-fea
+
+## Spurs’ Gregg Popovich takes mic to chastise fans for booing Kawhi Leonard
+ - [https://www.theguardian.com/sport/2023/nov/23/gregg-popovich-spurs-chastises-fans-booing-kawhi-leonard](https://www.theguardian.com/sport/2023/nov/23/gregg-popovich-spurs-chastises-fans-booing-kawhi-leonard)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T13:02:58+00:00
+
+<ul><li>Spurs coach scolds fans on arena PA for jeering former player</li><li>Leonard led San Antonio to 2014 title before demanding trade</li></ul><p>San Antonio coach Gregg Popovich grabbed the microphone and chastised the crowd at the Frost Bank Center on Wednesday night, telling fans to stop booing former Spurs All-Star Kawhi Leonard and the Los Angeles Clippers.</p><p>“Excuse me for a second,” Popovich said, silencing the crowd late in the first half. “Can we stop all the booing and let these guys play? Have a little class. It’s not who we are. Knock off the booing.”</p> <a href="https://www.theguardian.com/sport/2023/nov/23/gregg-popovich-spurs-chastises-fans-booing-kawhi-leonard">Continue reading...</a>
+
+## ‘People didn’t realise a funeral could be so beautiful’: Poland finds a new way to celebrate life – and death
+ - [https://www.theguardian.com/society/2023/nov/23/people-didnt-realise-a-funeral-could-be-so-beautiful-poland-finds-a-new-way-to-celebrate-life-and-death](https://www.theguardian.com/society/2023/nov/23/people-didnt-realise-a-funeral-could-be-so-beautiful-poland-finds-a-new-way-to-celebrate-life-and-death)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T13:00:51+00:00
+
+<p>More and more Poles are turning away from traditional funeral rites. But what can replace them? Enter the Institute for the Good Death, grief doulas, ‘death cafes’ and music by Whitney Houston</p><p>“Then, feeling really sorry for himself, he exclaimed: ‘There is fucking nobody to help me,’” reads Emilia Mandes, and the crowd bursts into laughter. They look at each other, nodding – this story has already become a family legend. But this is not an anecdote about a drunk uncle at a wedding. I am at a funeral: a special ceremony to say goodbye to Jan Ledwoń, who died in October at the age of 74.</p><p>Despite taking place in Elbląg, a medium-sized city in the north of Poland, it doesn’t feel like a typical Polish funeral. Instead of wreaths, people have made donations to a local animal shelter; instead of dirges, Leonard Cohen’s Tonight Will Be Fine is playing; and instead of a formally robed and solemn priest, there is Mandes, a professional celebrant, dressed modestly in black, and
+
+## Jamie Foxx accused of sexual assault in New York bar
+ - [https://www.theguardian.com/film/2023/nov/23/jamie-foxx-accused-of-sexual-assault-in-new-york-bar](https://www.theguardian.com/film/2023/nov/23/jamie-foxx-accused-of-sexual-assault-in-new-york-bar)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:57:18+00:00
+
+<p>Lawsuit alleges the Hollywood star assaulted a woman while at Catch NYC &amp; Roof, a restaurant and rooftop bar, in summer 2015</p><p>Hollywood star Jamie Foxx has been accused of sexual assault while at a New York rooftop bar eight years ago.</p><p>The lawsuit alleges in summer 2015, Foxx made comments such as, “Wow, you have that supermodel body,” while at Catch NYC &amp; Roof, a restaurant and rooftop bar, before grabbing the woman by the arm and pulling her to the “secluded” back of the rooftop.</p> <a href="https://www.theguardian.com/film/2023/nov/23/jamie-foxx-accused-of-sexual-assault-in-new-york-bar">Continue reading...</a>
+
+## Huge blaze breaks out at building site in Reading
+ - [https://www.theguardian.com/uk-news/2023/nov/23/huge-blaze-breaks-out-at-building-site-in-reading](https://www.theguardian.com/uk-news/2023/nov/23/huge-blaze-breaks-out-at-building-site-in-reading)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:52:56+00:00
+
+<p>Footage appears to show man being rescued from scene by crane, as thick smoke engulfs area</p><p>A large fire has broken out at the construction site of a high-rise building in Reading, Berkshire, with footage showing a huge plume of black smoke billowing from the scene.</p><p>Royal Berkshire fire and rescue service said it received reports of the blaze near Napier Road at 11.38am on Thursday.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/huge-blaze-breaks-out-at-building-site-in-reading">Continue reading...</a>
+
+## Scientific adviser tells Covid inquiry she distrusted Treasury’s ability to handle data
+ - [https://www.theguardian.com/uk-news/2023/nov/23/scientific-adviser-tells-covid-inquiry-she-distrusted-treasurys-ability-to-handle-data](https://www.theguardian.com/uk-news/2023/nov/23/scientific-adviser-tells-covid-inquiry-she-distrusted-treasurys-ability-to-handle-data)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:51:02+00:00
+
+<p>Prof Dame Angela McLean also said she had to ‘paper over the cracks’ and mediate between civil servants and academics</p><p>The UK’s chief scientific adviser has said part of her job during the pandemic was to “paper over the cracks” when issues arose between academics and civil servants on several occasions, the Covid inquiry learned.</p><p>Prof <a href="https://www.theguardian.com/science/2023/feb/20/dame-angela-mclean-to-be-uks-first-female-chief-scientific-adviser">Dame Angela McLean</a>, who at the time was the chief scientific adviser to the Ministry of Defence, said most of the time academics advising the government would speak “pointedly” on issues, but civil servants spoke in “weirdly emollient” ways at meetings.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/scientific-adviser-tells-covid-inquiry-she-distrusted-treasurys-ability-to-handle-data">Continue reading...</a>
+
+## Ben Stokes skips 2024 Indian Premier League to manage fitness and workload
+ - [https://www.theguardian.com/sport/2023/nov/23/ben-stokes-skips-2024-indian-premier-league-to-manage-fitness-and-workload-cricket](https://www.theguardian.com/sport/2023/nov/23/ben-stokes-skips-2024-indian-premier-league-to-manage-fitness-and-workload-cricket)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:50:26+00:00
+
+<ul><li>All-rounder due for knee surgery before Indian Test tour</li><li>Player was Super Kings’ most expensive signing for 2023</li></ul><p>England Test captain Ben Stokes has made himself unavailable for next year’s Indian Premier League.</p><p>Stokes was purchased by Chennai Super Kings for £1.65m last December, but struggled with his fitness and played only twice for his new franchise in the 2023 tournament. A long-standing knee injury failed to stop Stokes from starring in the Ashes this summer, while he recently came out of 50-over retirement to feature in England’s unsuccessful defence of their World Cup crown in India.</p> <a href="https://www.theguardian.com/sport/2023/nov/23/ben-stokes-skips-2024-indian-premier-league-to-manage-fitness-and-workload-cricket">Continue reading...</a>
+
+## Pope.L review – sublime shipwreck misses its crawling captain
+ - [https://www.theguardian.com/artanddesign/2023/nov/23/pope-l-review-south-london-gallery](https://www.theguardian.com/artanddesign/2023/nov/23/pope-l-review-south-london-gallery)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:38:12+00:00
+
+<p><strong>South London Gallery<br /></strong>Renowned for his epic crawls through New York in the 1970s, the artist’s first UK show teeters with toilets, strange liquids and poignant symbolism – it just lacks the man himself</p><p>Sometimes, early in their career an artist makes a body of work so powerful and singular, and so necessary, that it comes to define them, and critics end up measuring the rest of their work in its light. So it is with 68-year-old <a href="https://www.theguardian.com/artanddesign/2021/jul/18/pope-l-jeff-koons-endurance-crawls-texts-guerrilla-brilliance-of-popel">American artist Pope.L</a>, whose belated first UK show now fills South London Gallery (SLG). In 1978, Pope.L crawled the length of New York’s 42nd street on his hands and knees, carrying a small potted flower as a sort of prop. He wore a thrift-store suit with a yellow square stuck to his back. Later, he went on to crawl from one end of Broadway to the other. He crawled around Tompkins Square Park 
+
+## Cheap fungal nail infection drug found to work on crippling flesh-eating disease
+ - [https://www.theguardian.com/global-development/2023/nov/23/fungal-nail-drug-fosravuconazole-breakthrough-treating-neglected-flesheating-disease-mycetoma](https://www.theguardian.com/global-development/2023/nov/23/fungal-nail-drug-fosravuconazole-breakthrough-treating-neglected-flesheating-disease-mycetoma)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:30:51+00:00
+
+<p>‘Momentous’ breakthrough in treating neglected tropical disease as trial finds fosravuconazole to be highly effective for mycetoma</p><p>A cheap and easily taken drug used to treat fungal nail infections has been found to be highly effective against a devastating flesh and bone-eating disease found across Africa, Asia and the Americas.</p><p>Researchers say the breakthrough offers hope to thousands of patients who have suffered decades of neglect and can face amputations if the disease is left untreated.</p> <a href="https://www.theguardian.com/global-development/2023/nov/23/fungal-nail-drug-fosravuconazole-breakthrough-treating-neglected-flesheating-disease-mycetoma">Continue reading...</a>
+
+## Dining across the divide: ‘He would say you should fund your own social care; I don’t think we should have to’
+ - [https://www.theguardian.com/lifeandstyle/2023/nov/23/dining-across-the-divide-sean-paul](https://www.theguardian.com/lifeandstyle/2023/nov/23/dining-across-the-divide-sean-paul)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:30:51+00:00
+
+<p>One’s a socialist, the other’s a lifelong Tory with a brief sashay to Ukip. Can they find common ground?</p><p><strong>Sean, 53, Newcastle</strong></p><p><strong>Occupation</strong> Copywriter</p> <a href="https://www.theguardian.com/lifeandstyle/2023/nov/23/dining-across-the-divide-sean-paul">Continue reading...</a>
+
+## OpenAI staff: share your view on developments at the company
+ - [https://www.theguardian.com/technology/2023/nov/23/openai-staff-share-your-view-on-developments-at-the-company-sam-altman](https://www.theguardian.com/technology/2023/nov/23/openai-staff-share-your-view-on-developments-at-the-company-sam-altman)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:10:01+00:00
+
+<p>We want to speak to employees at the company, anonymously if needed</p><p>Following a dramatic week at OpenAI, where Sam Altman was fired before plans for his <a href="https://www.theguardian.com/technology/2023/nov/22/sam-altman-openai-ceo-return-board-chatgpt">reinstatement were announced within days,</a> we want to hear from staff at the company.</p><p>What is your reaction to recent developments? Do you have any concerns?</p> <a href="https://www.theguardian.com/technology/2023/nov/23/openai-staff-share-your-view-on-developments-at-the-company-sam-altman">Continue reading...</a>
+
+## She Stoops to Conquer review – a jolly good Christmas comedy
+ - [https://www.theguardian.com/stage/2023/nov/23/she-stoops-to-conquer-review-the-orange-theatre-london](https://www.theguardian.com/stage/2023/nov/23/she-stoops-to-conquer-review-the-orange-theatre-london)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:08:14+00:00
+
+<p><strong>Orange Tree theatre, London<br /></strong>There are perfectly pitched performances with just the right touch of pathos as Oliver Goldsmith’s play gets a festive staging</p><p>One of the real pleasures of reviving the classics is discovering which particular aspects might shine anew. Director Tom Littler’s sparkling 250th anniversary production of Oliver Goldsmith’s fizzing comedy of manners is certainly very funny. The lightly edited text, which has been transplanted into the 1930s, is packed with sharp gags, whirling plot twists and inspired flourishes of physical comedy. But the most striking element is the emotional depth, with bursts of heartfelt tenderness, affection and even regret nestled amid the quips, tricks, laughter and song.</p><p>It’s Christmas Eve at Mr and Mrs Hardcastle’s country hall and a rather modern-feeling blended family is running amok. Mrs Hardcastle’s layabout son from her first marriage, Tony Lumpkin, is up to his usual mischief and Mr Hardcastle
+
+## The 20 best Christmas wines for 2023
+ - [https://www.theguardian.com/food/2023/nov/23/the-20-best-christmas-wines-for-2023](https://www.theguardian.com/food/2023/nov/23/the-20-best-christmas-wines-for-2023)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:00:51+00:00
+
+<p>Our expert selects bottles to match any event, dish or budget, from festive fizz to wintery whites and robust reds. Cheers!</p><p><strong>M&amp;S Expressions Ribolla Gialla</strong><br /><em>Friuli, Italy 2022 (£7, <a href="https://www.marksandspencer.com/l/wine-shop/wine-beer-and-spirits/white-wine/fs5/italy" title="">Marks &amp; Spencer</a>)</em><br />It’s good to see the characterful, north-eastern Italian grape variety ribolla gialla getting its time in the spotlight. This great value dry white shows off its charms very well, with a mix of citrus zip, blossomy floral notes and just-ripe peach in an easy-drinking mode that makes it great for parties.</p> <a href="https://www.theguardian.com/food/2023/nov/23/the-20-best-christmas-wines-for-2023">Continue reading...</a>
+
+## Germany proves that private renting can work better than it does in Britain
+ - [https://www.theguardian.com/uk-news/2023/nov/23/germany-proves-private-renting-can-work-better-britain](https://www.theguardian.com/uk-news/2023/nov/23/germany-proves-private-renting-can-work-better-britain)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:00:50+00:00
+
+<p>Germans typically stay far longer in their rented homes, which are cheaper and have secure tenancies</p><p>When Bex Burch swapped the choppy world of private renting in the UK for a new life in Berlin, “it was a weight off my shoulders,” she said. After spells in at least 10 rentals in London and Brighton over 15 years – and two evictions – she discovered having somewhere to live need not be so stressful.</p><p>“I felt like instead of being just a renter while I am living here, this is my home,” said the 39-year-old musician. It was “a profound feeling”.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/germany-proves-private-renting-can-work-better-britain">Continue reading...</a>
+
+## ‘They’re inherently charismatic’: the amateur sleuths hooked on sea slugs
+ - [https://www.theguardian.com/environment/2023/nov/23/amateur-sleuths-sea-slugs-nudibranchs-ocean-science](https://www.theguardian.com/environment/2023/nov/23/amateur-sleuths-sea-slugs-nudibranchs-ocean-science)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T12:00:50+00:00
+
+<p>More and more enthusiasts have fallen in love with this relative of garden dwellers, and are helping ocean science while they’re at it</p><p>Two years ago, Libby Keatley was diving off the coast of County Antrim in Northern Ireland when she spotted something unusual. It was a sea slug – or nudibranch – whose transparent body had orange lines running through it and twiggy projections arranged along its back. “It was quite distinctive and not like anything I’d seen before,” she says.</p><p>Keatley called over her diving buddy, Bernard Picton, a local marine biologist and pioneer in UK sea slug studies. He scooped it up in a plastic bag and, back at his lab, confirmed it was a newly discovered species. He named it in Keatley’s honour: <em><a href="https://www.mdpi.com/1424-2818/15/4/504">Dendronotus keatleyae</a></em>.</p> <a href="https://www.theguardian.com/environment/2023/nov/23/amateur-sleuths-sea-slugs-nudibranchs-ocean-science">Continue reading...</a>
+
+## Stock Aitken Waterman’s 20 greatest songs – ranked!
+ - [https://www.theguardian.com/culture/2023/nov/23/stock-aitken-watermans-20-greatest-songs-ranked](https://www.theguardian.com/culture/2023/nov/23/stock-aitken-watermans-20-greatest-songs-ranked)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:42:19+00:00
+
+<p>As a musical featuring the British production trio’s songs tours the UK, we list their best tracks – from Divine to Dead or Alive</p><p>Not a great record, but as a mad act of provocation designed to upset as many people as possible in three minutes, I’d Rather Jack – a song that dismisses not just Fleetwood Mac, but the Rolling Stones, Pink Floyd, heavy metal and indeed all “music from the past” – is unbeatable.</p> <a href="https://www.theguardian.com/culture/2023/nov/23/stock-aitken-watermans-20-greatest-songs-ranked">Continue reading...</a>
+
+## China’s spike in respiratory illness prompts WHO to ask for details
+ - [https://www.theguardian.com/world/2023/nov/23/china-respiratory-illness-spike-children-who](https://www.theguardian.com/world/2023/nov/23/china-respiratory-illness-spike-children-who)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:34:57+00:00
+
+<p>Epidemiologists say surge in north, particularly among children, may be partly caused by ‘immunity debt’</p><p>The World Health Organization has asked China for details about a spike in respiratory illnesses that has been reported in northern parts of the country, particularly among children.</p><p>Epidemiologists have warned that as China heads into its first winter since the lifting of zero-Covid restrictions, natural levels of immunity to respiratory viruses may be lower than normal, leading to an increase in infections.</p> <a href="https://www.theguardian.com/world/2023/nov/23/china-respiratory-illness-spike-children-who">Continue reading...</a>
+
+## Euro 2024 playoffs draw: Wales to host Finland in semi-final as path revealed
+ - [https://www.theguardian.com/football/2023/nov/23/euro-2024-playoffs-draw-wales-finland](https://www.theguardian.com/football/2023/nov/23/euro-2024-playoffs-draw-wales-finland)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:34:20+00:00
+
+<ul><li>Wales would entertain Poland or Estonia if they reach final</li><li>Single-leg semi-final to be played at Cardiff on 21 March</li></ul><p>Wales have been drawn to host Finland in the semi-finals of the qualification playoffs for Euro 2024. The match will take place on 21 March at Cardiff City Stadium.</p><p>Should Rob Page’s men win that single-leg tie, they would then host either Poland or Estonia five days later to play for a place at next summer’s tournament in Germany.</p> <a href="https://www.theguardian.com/football/2023/nov/23/euro-2024-playoffs-draw-wales-finland">Continue reading...</a>
+
+## Music mogul Jimmy Iovine accused of sexual abuse and harassment
+ - [https://www.theguardian.com/music/2023/nov/23/music-mogul-jimmy-iovine-accused-of-sexual-abuse-and-harassment](https://www.theguardian.com/music/2023/nov/23/music-mogul-jimmy-iovine-accused-of-sexual-abuse-and-harassment)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:33:34+00:00
+
+<p>Representative for Iovine says they are ‘shocked and baffled’ by allegations made in summons in New York</p><p>Jimmy Iovine, co-founder of Interscope Records and of the headphone brand Beats, has been accused of sexual abuse and harassment by an unnamed woman.</p><p>Iovine was served a summons ahead of a lawsuit being filed against him. The New York court document contains allegations that the woman “suffered as a result of being sexually abused, forcibly touched, and subjected to sexual harassment and retaliation in violation of anti-discrimination laws in or around August 2007”. She is seeking compensation via damages.</p> <a href="https://www.theguardian.com/music/2023/nov/23/music-mogul-jimmy-iovine-accused-of-sexual-abuse-and-harassment">Continue reading...</a>
+
+## Elon Musk decries strikes as Swedish workers take on Tesla
+ - [https://www.theguardian.com/world/2023/nov/23/elon-musk-decries-strikes-as-swedish-workers-take-on-tesla](https://www.theguardian.com/world/2023/nov/23/elon-musk-decries-strikes-as-swedish-workers-take-on-tesla)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:32:23+00:00
+
+<p>Factories, dockers, postal workers and mechanics refuse to handle Tesla goods in fight to protect Swedish labour model</p><p>Elon Musk has decried a wave of “insane” strikes focused on Tesla factories in Sweden, as workers target the US electric car manufacturer in a strike calling for collective bargaining rights.</p><p>In what has been portrayed as the largest fight to save Sweden’s union model from global labour practices in decades, the powerful trade union IF Metall has been leading a strike across eight Tesla workplaces in Sweden for five weeks.</p> <a href="https://www.theguardian.com/world/2023/nov/23/elon-musk-decries-strikes-as-swedish-workers-take-on-tesla">Continue reading...</a>
+
+## Ofgem energy price cap: what does the new year rise mean for households?
+ - [https://www.theguardian.com/money/2023/nov/23/ofgem-energy-price-cap-what-does-the-new-year-rise-mean-for-uk-households](https://www.theguardian.com/money/2023/nov/23/ofgem-energy-price-cap-what-does-the-new-year-rise-mean-for-uk-households)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:27:40+00:00
+
+<p>Campaigners say the rise comes at the ‘worst possible time’ for struggling customers. Here’s all you need to know about the change</p><ul><li><strong><a href="https://www.theguardian.com/money/2023/nov/23/energy-bills-great-britain-rise-january-price-cap-ofgem">Energy bills in Great Britain to rise by 5% from January</a></strong></li></ul><p></p><p>The Ofgem price cap is climbing again and <a href="https://www.theguardian.com/money/2023/nov/23/energy-bills-great-britain-rise-january-price-cap-ofgem">will rise to £1,928 a year</a> for a typical annual energy bill in Great Britain when it is adjusted in January.</p><p>Soaring energy bills have made the price cap set by the energy regulator a closely watched figure. The bad news is that after dropping back to <a href="https://www.theguardian.com/money/2023/oct/01/ofgem-energy-price-cap-bills-fall-winter-great-britain">£1,834 a year in October</a> it is to rise by £94 in January, after a <a href="https://www.theguardian.com/money/2023
+
+## Palestinian state is best chance for security and peace, says Spanish PM
+ - [https://www.theguardian.com/world/2023/nov/23/palestinian-state-is-best-chance-for-security-and-peace-says-spanish-pm](https://www.theguardian.com/world/2023/nov/23/palestinian-state-is-best-chance-for-security-and-peace-says-spanish-pm)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:24:07+00:00
+
+<p>Pedro Sánchez says Spain ‘shares Israel’s pain’ over 7 October Hamas atrocities but reiterates call for two-state solution </p><ul><li><a href="https://www.theguardian.com/world/live/2023/nov/23/israel-hamas-war-live-updates-gaza-ceasefire-hostage-release-friday-israeli-us-officials">Israel-Hamas war – live updates</a></li></ul><p>Spain’s prime minister, Pedro Sánchez, has said the Israeli response to Hamas’s “terrible” attacks last month cannot include “the deaths of innocents, including thousands of children”, and reiterated that the creation of a Palestinian state alongside Israel remains the best way to bring peace and security to the region.</p><p>Sánchez’s blunt plea came on the first day of a two-day visit to Israel, the West Bank and Egypt with the Belgian prime minister, Alexander de Croo.</p> <a href="https://www.theguardian.com/world/2023/nov/23/palestinian-state-is-best-chance-for-security-and-peace-says-spanish-pm">Continue reading...</a>
+
+## Taiwan poll shows dip in US trust amid growing concern over China
+ - [https://www.theguardian.com/world/2023/nov/23/taiwan-poll-shows-dip-in-us-trust-amid-growing-concern-over-china](https://www.theguardian.com/world/2023/nov/23/taiwan-poll-shows-dip-in-us-trust-amid-growing-concern-over-china)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:17:29+00:00
+
+<p>Survey two months before presidential election reveals more than 80% of people think threat from Beijing has worsened</p><p>More than 80% of Taiwanese people think that the threat from China has worsened in recent years, while trust in the US has also declined in the past two years, in part because of the war in Ukraine damaging Washington’s credibility.</p><p>The results of a survey published this week reveal a portrait of Taiwanese society that is under increasing pressure as the self-governing island heads towards a presidential <a href="https://www.theguardian.com/world/2023/oct/27/taiwan-election-china-international-crisis-group-us-report">election in January</a> that could have far reaching ramifications for its relationship with the world’s two biggest superpowers.</p> <a href="https://www.theguardian.com/world/2023/nov/23/taiwan-poll-shows-dip-in-us-trust-amid-growing-concern-over-china">Continue reading...</a>
+
+## People in the Netherlands: share your reaction to the election result
+ - [https://www.theguardian.com/world/2023/nov/23/people-in-the-netherlands-share-your-reaction-to-the-election-result](https://www.theguardian.com/world/2023/nov/23/people-in-the-netherlands-share-your-reaction-to-the-election-result)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:17:12+00:00
+
+<p>We are interested in hearing from people in the Netherlands following the election</p><p>Preliminary results in the <a href="https://www.theguardian.com/world/2023/nov/23/dutch-election-will-the-far-right-pvv-geert-wilders-form-government">Dutch election show Geert Wilders’ far-right Party</a> for Freedom (PVV) won 37 seats, more than any other party.</p><p>A Greens and Labour party alliance (GL/PvdA) led by the former EU commissioner Frans Timmermans finished second with 25 seats.</p> <a href="https://www.theguardian.com/world/2023/nov/23/people-in-the-netherlands-share-your-reaction-to-the-election-result">Continue reading...</a>
+
+## Jeremy Hunt’s attack on people on benefits is a shameful act of performative cruelty | Frances Ryan
+ - [https://www.theguardian.com/commentisfree/2023/nov/23/jeremy-hunt-benefit-sanctions-tory-cruelty-autumn-statement](https://www.theguardian.com/commentisfree/2023/nov/23/jeremy-hunt-benefit-sanctions-tory-cruelty-autumn-statement)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:15:49+00:00
+
+<p>Straight out of the 2010 playbook, the Tories’ plan to force disabled people into work has nothing to do with saving money</p><p>On social media, there is a trend known as “performative kindness”. Influencers will share a seemingly selfless act of compassion – say, donating a meal to a homeless person – which, in reality, has been filmed for “likes”. The point is not so much the act of kindness itself, but that they are seen to be doing it.</p><p>The Conservative party is much the same, albeit in reverse. With a general election around the corner and the government trailing in the polls, increasingly, the purpose of any policy announcement is not that it will have any real benefit for the country but that it is cruel to the right people.</p> <a href="https://www.theguardian.com/commentisfree/2023/nov/23/jeremy-hunt-benefit-sanctions-tory-cruelty-autumn-statement">Continue reading...</a>
+
+## ‘Our little uniter’: New Jersey town bereft by capture of Turkules the wild turkey
+ - [https://www.theguardian.com/us-news/2023/nov/23/new-jersey-turkey-captured-west-orange](https://www.theguardian.com/us-news/2023/nov/23/new-jersey-turkey-captured-west-orange)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:15:49+00:00
+
+<p>Local celebrity spent weeks outwitting animal control officers and was praised by residents of West Orange for bringing ‘town together’</p><p>Residents of West Orange, New Jersey, have been left heartbroken after a wild turkey named “Turkules”, whose resilient nature and ability to evade capture “brought the town together”, was finally snared by state officials.</p><p>Turkules, who was named by a local man, first took up residence in West Orange, 25 miles west of New York City, over the summer. The bird’s fearless attitude towards traffic and disregard for authority soon made him a local celebrity, and his fame only grew as Turkules spent weeks outwitting animal control officers.</p> <a href="https://www.theguardian.com/us-news/2023/nov/23/new-jersey-turkey-captured-west-orange">Continue reading...</a>
+
+## Premier League’s top five are split by three points but only two have full title package | Karen Carney
+ - [https://www.theguardian.com/football/2023/nov/23/premier-league-top-five-liverpool-manchester-city](https://www.theguardian.com/football/2023/nov/23/premier-league-top-five-liverpool-manchester-city)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:05:49+00:00
+
+<p>Manchester City v Liverpool is a chance for psychological blows to be struck and how Klopp’s new midfield fares will be crucial</p><p>No one wins the Premier League after 12 games but things are starting to take shape at the top and Liverpool’s visit to Manchester City on Saturday will affect the title race in one way or another.</p><p>Numerous teams have had impressive starts but we find ourselves in the usual position of Manchester City being top. Only three points separate the first five clubs but despite the best efforts of Liverpool, Arsenal, Tottenham and Aston Villa, they are still looking up at Pep Guardiola.</p> <a href="https://www.theguardian.com/football/2023/nov/23/premier-league-top-five-liverpool-manchester-city">Continue reading...</a>
+
+## Wildfires gripped Canada last year. Now, US farmers are feeling the burn
+ - [https://www.theguardian.com/environment/2023/nov/23/canada-wildfires-cause-us-crop-damage](https://www.theguardian.com/environment/2023/nov/23/canada-wildfires-cause-us-crop-damage)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:00:50+00:00
+
+<p>Smoke from blazes lingered over Ohio and other states in the corn belt affecting maturation, raising fears of crop damage</p><p>It was early November and Scott Haerr still had 2,500 acres of corn to harvest on his farm in south-west Ohio.</p><p>The harvest should be much further down the road – a dry spring was followed by adequate summer rain and heat, and then a dry fall meant no obvious delays were in the forecast. But the crop, he said, just hadn’t ripened on cue.</p> <a href="https://www.theguardian.com/environment/2023/nov/23/canada-wildfires-cause-us-crop-damage">Continue reading...</a>
+
+## ‘It was desolation’: why did 700 shags disappear from an island overnight?
+ - [https://www.theguardian.com/environment/2023/nov/23/conservation-why-600-european-shags-disappeared-isle-of-may-scotland-aoe](https://www.theguardian.com/environment/2023/nov/23/conservation-why-600-european-shags-disappeared-isle-of-may-scotland-aoe)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:00:50+00:00
+
+<p>Isle of May’s wildlife warden calls it ‘soul-destroying’ to discover birds he ringed as chicks washing up dead on the Scottish coast</p><p>For decades,<strong> </strong>as dusk drew in every evening, up to 700 shags would fly from their foraging grounds near Fife to the Isle of May to roost for the night. Some of the birds had been doing this trip twice a day for 20 years, returning to the same cliff ledge, squabbling over who sat where.</p><p>On 31 October, Mark Newell sat on the rock, waiting for their noisy return. He saw nothing. Eventually, 25 exhausted-looking birds straggled back. They did not fly off when he approached. The soundtrack of honking and bickering had stopped.</p> <a href="https://www.theguardian.com/environment/2023/nov/23/conservation-why-600-european-shags-disappeared-isle-of-may-scotland-aoe">Continue reading...</a>
+
+## Consumerism is the path to planetary ruin, but there are other ways to live | Kate Soper
+ - [https://www.theguardian.com/environment/commentisfree/2023/nov/23/consumerism-planetary-ruin-life-community](https://www.theguardian.com/environment/commentisfree/2023/nov/23/consumerism-planetary-ruin-life-community)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:00:49+00:00
+
+<p>A slower paced life with less work and more community focus – if  enough people share the dream, we can make it happen</p><p>Faced with the now undeniable impacts of climate crisis created by humans, political leaders in wealthier countries incline towards one of two competing responses. They either question the urgency and feasibility of meeting net zero targets and generally procrastinate (the rightwing tendency); or they proclaim their faith in the powers of magical green technologies to protect the planet while prolonging and extending our present affluent ways of living (a position more favoured on the left and centre).</p><p>Common to both approaches is a wrongheaded presumption that we can carry on growing while managing to hold off the floods and fires of growth-driven capitalism. Both also take it for granted that the consumerist lifestyle is essential to the wellbeing of rich societies and the ideal to which less developed economies should aspire.</p> <a href="https://ww
+
+## Dog bites, animal fights, and getting Spotify cancelled – take the Thursday quiz
+ - [https://www.theguardian.com/lifeandstyle/2023/nov/23/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-135](https://www.theguardian.com/lifeandstyle/2023/nov/23/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-135)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:00:49+00:00
+
+<p>Fifteen questions on general knowledge and topical trivia, plus a few jokes, every Thursday. How will you fare?</p><p>In an incredible moment of serendipity, the 135th Thursday quiz just happens to fall on the 60th birthday of Doctor Who. You lucky, lucky people. Here come 15 questions about topical news and general knowledge, and all of them with a tenuous link somehow to the children’s Saturday teatime science fantasy favourite, just to make the author happy. Have fun!</p><p><strong>The Thursday quiz, No 135</strong></p> <a href="https://www.theguardian.com/lifeandstyle/2023/nov/23/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-135">Continue reading...</a>
+
+## How we met: ‘I thought she was just trying to flirt her way on to a packed flight!’
+ - [https://www.theguardian.com/lifeandstyle/2023/nov/23/how-we-met-i-thought-she-was-just-trying-to-flirt-her-way-on-to-a-packed-flight](https://www.theguardian.com/lifeandstyle/2023/nov/23/how-we-met-i-thought-she-was-just-trying-to-flirt-her-way-on-to-a-packed-flight)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:00:49+00:00
+
+<p>David, 39, and Andrea, 42, met in 2009 at an airport where he was working as a  ramp agent and she was a flight attendant. They now live with their daughter in Frankfurt</p><p>When the 2008 financial crisis hit, it wasn’t easy for David to find work. Hoping for an adventure, he moved to Mallorca for a job as an airport ramp agent. “I was the coordinator between the pilot and the ground staff, telling them when it was OK to deboard the passengers,” he says. “It was minimum wage but I was having so much fun.”</p><p>The following August, he bumped into Andrea, who had moved to Spain from her home country of Germany the previous year. “I was a flight attendant for Air Berlin and we had a small base there,” she says. “I spoke Spanish because I’d studied in Barcelona, so I got the job.”</p> <a href="https://www.theguardian.com/lifeandstyle/2023/nov/23/how-we-met-i-thought-she-was-just-trying-to-flirt-her-way-on-to-a-packed-flight">Continue reading...</a>
+
+## Water by John Boyne review – a cathartic journey of recovery
+ - [https://www.theguardian.com/books/2023/nov/23/water-by-john-boyne-review-a-cathartic-journey-of-recovery](https://www.theguardian.com/books/2023/nov/23/water-by-john-boyne-review-a-cathartic-journey-of-recovery)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:00:49+00:00
+
+<p>A woman retreats to a remote Irish island following the collapse of her life, in the first of a series named for the four elements</p><p>Though perhaps still best known for The Boy in the Striped Pyjamas, John Boyne has been highly productive since the critical success of his <a href="https://www.theguardian.com/books/2017/feb/18/the-hearts-invisible-furies-by-john-boyne-review-sin-and-torment-in-catholic-ireland" title="">2017 novel The Heart’s Invisible Furies</a>. He is now embarking on a quartet of interlinked novellas, which will appear biannually over the next two years. The cohering theme is the four elements – so Water will be followed in due course by Earth, Air and Fire.</p><p>The verbal representation of water has a rich literary history, from Virginia Woolf’s The Waves to Alice Oswald’s Dart. However, readers anticipating playful linguistic responses to the elements will be disappointed – water, in this book, is something to swim in, drown in or live next to. Though th
+
+## Jeremy Hunt denies opting for pre-election ‘crowd-pleasing taxes’
+ - [https://www.theguardian.com/uk-news/2023/nov/23/jeremy-hunt-denies-opting-crowd-pleasing-pre-election-taxes-national-insurance](https://www.theguardian.com/uk-news/2023/nov/23/jeremy-hunt-denies-opting-crowd-pleasing-pre-election-taxes-national-insurance)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T11:00:27+00:00
+
+<p>Chancellor defends decision to cut national insurance by 2p, while Labour says rise in energy bills will absorb tax cuts </p><ul><li><a href="https://www.theguardian.com/politics/live/2023/nov/23/jeremy-hunt-autumn-statement-rishi-sunak-conservatives-tax-cuts-uk-politics-latest-updates">UK politics live – latest updates</a></li></ul><p>Jeremy Hunt has said he did not opt for “crowd-pleasing taxes” in his autumn statement as a pre-election giveaway, adding the government’s “long-term goal” is to boost the economy.</p><p>Talking on ITV’s Good Morning Britain, the chancellor defended his decision to cut national insurance by 2p despite<a href="https://www.theguardian.com/uk-news/2023/nov/22/hunt-tax-cuts-tory-approval-mps-urge-go-further"> calls from the right of the party to cut inheritance tax or income tax</a>, which has been frozen since 2021.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/jeremy-hunt-denies-opting-crowd-pleasing-pre-election-taxes-national-insuranc
+
+## FA to stop lighting Wembley arch for humanitarian causes
+ - [https://www.theguardian.com/football/2023/nov/23/fa-to-stop-lighting-wembley-arch-for-humanitarian-causes](https://www.theguardian.com/football/2023/nov/23/fa-to-stop-lighting-wembley-arch-for-humanitarian-causes)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T10:58:43+00:00
+
+<ul><li>Policy reviewed after criticism for not lighting in Israel’s colours</li><li>FA to continue supporting campaigns and causes in other ways</li></ul><p>The Football Association is to stop lighting the arch at Wembley Stadium in support of humanitarian causes after <a href="https://www.theguardian.com/football/2023/oct/12/fa-silence-israel-palestine-victims-bans-flags-england-australia-wembley-arch">the controversy</a> that followed its decision not to commemorate the Hamas attack on Israel of 7 October.</p><p>Wembley will be illuminated only for sporting and entertainment purposes, after the FA board reflected on its policy. Speaking last month, its chief executive, Mark Bullingham, said he <a href="https://www.theguardian.com/football/2023/oct/19/fa-recognises-hurt-over-decision-not-to-light-wembley-arch-in-israel-colours">“recognised the hurt”</a> to the Jewish community caused by the decision to leave the arch unlit during England men’s friendly against Australia in the week
+
+## Melissa Barrera, fired from Scream VII over Israel-Hamas posts, responds: ‘Silence is not an option’
+ - [https://www.theguardian.com/film/2023/nov/23/melissa-barrera-fired-from-scream-vii-over-israel-hamas-posts-responds-silence-is-not-an-option](https://www.theguardian.com/film/2023/nov/23/melissa-barrera-fired-from-scream-vii-over-israel-hamas-posts-responds-silence-is-not-an-option)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T10:35:19+00:00
+
+<p>The actor said she condemned antisemitism and Islamophobia, after being dropped from the horror film franchise for social media posts interpreted as antisemitic</p><p>Scream franchise star Melissa Barrera has publicly responded to being fired from Scream VII for sharing posts that the film’s production company says were interpreted as antisemitic. The actor said that she condemned antisemitism and Islamophobia but would “continue to speak out” on the Israel-Hamas conflict.</p><p>Barrera, who starred in the fifth and sixth Scream films and was set to star in the forthcoming seventh instalment, has been outspoken in support of Palestine on social media, where she has described Israel as committing “genocide” and “brutally killing innocent Palestinians, mothers and children, under the pretence of destroying Hamas”.</p> <a href="https://www.theguardian.com/film/2023/nov/23/melissa-barrera-fired-from-scream-vii-over-israel-hamas-posts-responds-silence-is-not-an-option">Continue reading
+
+## Net migration to UK hit record 745,000 in 2022, revised figures show
+ - [https://www.theguardian.com/uk-news/2023/nov/23/net-migration-to-uk-hit-record-745000-in-2022-revised-figures-show](https://www.theguardian.com/uk-news/2023/nov/23/net-migration-to-uk-hit-record-745000-in-2022-revised-figures-show)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T10:14:08+00:00
+
+<p>Office for National Statistics raises previous figure by 140,000 and gives lower estimate for year to June of 672,000</p><p>Net migration to the UK in the year to December 2022 was higher than previously thought, hitting a new record of 745,000, according to revised estimates from the Office for National Statistics.</p><p>However, the figure for the year to June 2023 is estimated to be lower, at 672,000.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/net-migration-to-uk-hit-record-745000-in-2022-revised-figures-show">Continue reading...</a>
+
+## Billion Dollar Babies: the wild story behind the Cabbage Patch Kids
+ - [https://www.theguardian.com/film/2023/nov/23/billion-dollar-babies-cabbage-patch-kids-documentary](https://www.theguardian.com/film/2023/nov/23/billion-dollar-babies-cabbage-patch-kids-documentary)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T10:11:01+00:00
+
+<p>A new documentary looks back at the 80s toy craze and the battle over who really created the dolls in the first place</p><p>Black Friday is said to have originated in Philadelphia in the 1960s, when members of the city’s police department used the term to describe the chaos that broke out when droves of suburbanites flooded downtown to shop on the day after Thanksgiving. The American tradition swelled to monstrous proportions in the early 1980s, when grainy and horrifying footage of citizens knocking each other to the ground became a fixture of holiday-weekend local news.</p><p>These sharp-elbowed consumers were keen to scoop up Atari consoles, Swatch watches, and Cabbage Patch Kids, the doughy dolls with close-set eyes and the signature of a man named Xavier Roberts inked on their bums. Film-maker Andrew Jenks’s zesty Billion Dollar Babies, narrated by 80s child and Doogie Howser, M.D. star Neil Patrick Harris, chronicles a strange corner of recent history, bringing to life a tim
+
+## Andrew Malkinson to be among Christmas guest editors of BBC Today programme
+ - [https://www.theguardian.com/media/2023/nov/23/andrew-malkinson-among-christmas-guest-editors-bbc-today-programme](https://www.theguardian.com/media/2023/nov/23/andrew-malkinson-among-christmas-guest-editors-bbc-today-programme)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T10:01:24+00:00
+
+<p>Malkinson will explore effects of wrongful conviction and will be joined by Ellie Goulding, James May and Hanif Kureishi</p><p>Andrew Malkinson, who spent 17 years in prison for a rape he did not commit, will be one of BBC Radio 4’s guest editors of the Today programme over the Christmas period.</p><p><a href="https://www.theguardian.com/uk-news/2023/sep/13/police-watchdog-to-investigate-handling-of-andrew-malkinson-case">Malkinson</a> will use his programme to explore the psychological impacts of wrongful detention, the barriers to education in prison and how his passion for science and astronomy helped him while he was incarcerated.</p> <a href="https://www.theguardian.com/media/2023/nov/23/andrew-malkinson-among-christmas-guest-editors-bbc-today-programme">Continue reading...</a>
+
+## Must the show go on? Music industry’s reckoning with the climate crisis
+ - [https://www.theguardian.com/environment/2023/nov/23/taylor-swift-fan-death-concert-climate-crisis-music-industry](https://www.theguardian.com/environment/2023/nov/23/taylor-swift-fan-death-concert-climate-crisis-music-industry)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T10:00:03+00:00
+
+<p>A fan’s death at a Taylor Swift concert in Brazil throws into stark relief the dangers of live shows as the planet cooks</p><p>In Brazil, a tropical country whose famed Carnival celebrations are held at the peak of summer, hot weather is not usually considered an obstacle to music events.</p><p>“For Brazilians, the heat is part of our identity construction … We’re a country that deals well with heat, we’re proud of that,” said Nubia Armond, a geographer at Indiana University Bloomington.</p> <a href="https://www.theguardian.com/environment/2023/nov/23/taylor-swift-fan-death-concert-climate-crisis-music-industry">Continue reading...</a>
+
+## Hybrid pitches to be used for first time in 2024 County Championship season
+ - [https://www.theguardian.com/sport/2023/nov/23/hybrid-pitches-2024-county-championship-season-cricket](https://www.theguardian.com/sport/2023/nov/23/hybrid-pitches-2024-county-championship-season-cricket)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T10:00:02+00:00
+
+<ul><li>Move to help allow grounds to cope with high volume of cricket</li><li>Games scheduled for late August and a busy September finale</li></ul><p>Hybrid pitches will be used for the first time in the 2024 County Championship season and, in a move that will please red-ball fans, matches will happen during every month of the season with two games in late August.</p><p>It was felt previously that hybrid pitches did not deteriorate enough for four-day cricket and so have been used only for white-ball games. But the England and Wales Cricket Board has decided that their steadfastness is more than offset by the opportunity to embrace technology and better allow grounds to cope with the volume of cricket played.</p> <a href="https://www.theguardian.com/sport/2023/nov/23/hybrid-pitches-2024-county-championship-season-cricket">Continue reading...</a>
+
+## Social contract between parents and schools broken since Covid, Ofsted says
+ - [https://www.theguardian.com/education/2023/nov/23/ofsted-report-england-schools-social-contract-absenteeism-amanda-spielman](https://www.theguardian.com/education/2023/nov/23/ofsted-report-england-schools-social-contract-absenteeism-amanda-spielman)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T10:00:02+00:00
+
+<p>Chief inspector’s report on England’s schools highlights absenteeism and parental challenges to rules</p><p>The “unwritten agreement” between parents and schools in England has broken since the Covid pandemic, according to Ofsted’s chief inspector, Amanda Spielman, with pupil absences remaining stubbornly high and disruptive behaviour now more common.</p><p>Delivering her final annual report as His Majesty’s chief inspector, Spielman said: “We have seen a troubling shift in attitudes since the pandemic. The social contract that has long bound parents and schools together has been damaged.</p> <a href="https://www.theguardian.com/education/2023/nov/23/ofsted-report-england-schools-social-contract-absenteeism-amanda-spielman">Continue reading...</a>
+
+## Trump called Iowa evangelicals ‘so-called Christians’ and ‘pieces of shit’, book says
+ - [https://www.theguardian.com/books/2023/nov/23/trump-iowa-evangelicals-pieces-of-shit-book-says](https://www.theguardian.com/books/2023/nov/23/trump-iowa-evangelicals-pieces-of-shit-book-says)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T10:00:02+00:00
+
+<p>Mockery over ‘Two Corinthians’ slip and endorsement battles in 2016 echo in 2024 race as Republican contenders seek first win</p><p>In the heat of the Republican primary of 2016, Donald Trump called evangelical supporters of his rival Ted Cruz “so-called Christians” and “real pieces of shit”, a new book says.</p><p>The news lands as the 2024 Republican primary heats up, two months out from the Iowa caucus and a day after Trump’s closest rival this time, the hard-right Florida governor, Ron DeSantis, was <a href="https://www.nbcnews.com/politics/2024-election/ron-desantis-endorsed-iowa-evangelical-leader-bob-vander-plaats-rcna126189">endorsed</a> by Bob Vander Plaats, an influential evangelical leader in Iowa.</p> <a href="https://www.theguardian.com/books/2023/nov/23/trump-iowa-evangelicals-pieces-of-shit-book-says">Continue reading...</a>
+
+## ‘Fire on fire’: how migrants got blamed for Greece’s devastating blazes
+ - [https://www.theguardian.com/global-development/2023/nov/23/greece-how-migrants-became-scapegoats-for-devastating-wildfires-evros](https://www.theguardian.com/global-development/2023/nov/23/greece-how-migrants-became-scapegoats-for-devastating-wildfires-evros)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T10:00:02+00:00
+
+<p>In August, wildfires in Evros killed a group of people, including children,  passing along a well-trodden migration route. Locals and politicians made the victims scapegoats for the disaster</p><p>Dr Pavlos Pavlidis leans back in his chair, puffing on a cigarette in his office at the morgue of Alexandroupolis University hospital. Pavlidis has witnessed many horrors in the two decades he has been the coroner in Evros, a region in north-east Greece located on a well-trodden migration trail.</p><p>But even for him, it has been difficult to look at the scorched remains of the people caught in the wildfires this summer.</p> <a href="https://www.theguardian.com/global-development/2023/nov/23/greece-how-migrants-became-scapegoats-for-devastating-wildfires-evros">Continue reading...</a>
+
+## How Bobby Brazier charmed Britain: ‘He has a sparkle just like his mum’
+ - [https://www.theguardian.com/tv-and-radio/2023/nov/23/how-bobby-brazier-charmed-britain-he-has-a-sparkle-just-like-his-mum](https://www.theguardian.com/tv-and-radio/2023/nov/23/how-bobby-brazier-charmed-britain-he-has-a-sparkle-just-like-his-mum)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T10:00:01+00:00
+
+<p>He has been dancing through Strictly with an energy that recalls that of his late mother, Jade Goody – and at just 20, he is already a successful model and EastEnders regular. What is his secret?</p><p>Bobby Brazier was famous even before he was born. His parents, the television stars Jade Goody and Jeff Brazier, announced his impending arrival in an interview for OK! magazine, and when Brazier was barely a month old, he appeared on his first magazine cover. Later he and his younger brother Freddie occasionally popped up on Goody’s Sky reality show. Still, watching the 20-year-old on Strictly Come Dancing has been like seeing a star emerge. His mix of cheerfulness and childlike enthusiasm, combined with his striking features and rangy foal-like limbs, is a small joy.</p><p>His months on Strictly have crowned a meteoric ascent. Brazier joined EastEnders late last year as Freddie Slater, and won a National Television award for his role in September – the same month he joined Strictl
+
+## The Netherlands underestimated the far right – and Geert Wilders’ victory is the result | Cas Mudde
+ - [https://www.theguardian.com/commentisfree/2023/nov/23/netherlands-far-right-geert-wilders-victory-mark-rutte](https://www.theguardian.com/commentisfree/2023/nov/23/netherlands-far-right-geert-wilders-victory-mark-rutte)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:54:31+00:00
+
+<p>Media complacency and outgoing PM Mark Rutte’s decision to campaign on immigration have created a political earthquake</p><p>Two things were already clear months before Dutch election day: the Netherlands would have a new prime minister and dozens of new parliamentarians. Forty sitting members of parliament, a quarter of the Tweede Kamer (lower house), and, even more striking, three of the four leaders of the outgoing conservative-led coalition had announced their departure from national politics. Ironically, in this sea of electoral change, it was the far-right mainstay, <a href="https://www.theguardian.com/world/2023/nov/22/geert-wilders-profile-netherlands-elections-far-right">Geert Wilders</a>, the soon-to-be longest-sitting MP, who would emerge the big winner.</p><p>How do we make sense of the<strong> </strong>political earthquake that has put Wilders and his PVV party in first place and how will it affect Dutch and European politics? The first, and most important, lesson is 
+
+## Jurassic Park Classic Games Collection review – a great way to relive a lost world of gaming
+ - [https://www.theguardian.com/games/2023/nov/23/jurassic-park-classic-games-collection-review-a-great-way-to-relive-a-lost-world-of-gaming](https://www.theguardian.com/games/2023/nov/23/jurassic-park-classic-games-collection-review-a-great-way-to-relive-a-lost-world-of-gaming)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:51:09+00:00
+
+<p><strong>Limited Run Games; PC, PS4/5, Switch, Xbox<br /></strong>The cult retro label has curated and updated a series of digital dino fossils for modern players and fans of the movie franchise who missed out first time round</p><p>For a period during the mid-1990s, it was ruled that no blockbuster movie was really complete until it had also been translated into a rock hard platformer or run-and-gun arcade adventure, seemingly designed to enrage and frustrate children everywhere. Disney’s wildly uncompromising Aladdin and Lion King tie-ins were shining examples as were Probe Software’s challenging Robocop 3 and Alien 3 titles.</p><p>But veteran Manchester-based publisher Ocean was also a key purveyor. The company spent the 1980s churning out TV and movie games such as Miami Vice, Top Gun and Highlander, but its Jurassic Park titles were among its most ambitious creations and this new collection from cult retro label Limited Run Games brings its NES, SNES and Game Boy translations 
+
+## Best podcasts of the week: The truth about Oatly’s climate-friendly credentials
+ - [https://www.theguardian.com/tv-and-radio/2023/nov/23/hear-here-oatly-chronicles-podcast](https://www.theguardian.com/tv-and-radio/2023/nov/23/hear-here-oatly-chronicles-podcast)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:45:01+00:00
+
+<p>In this week’s newsletter: Journalists put the plant-based brand to the test in The Oatly Chronicles. Plus: five of the best Today in Focus episodes</p><p><strong>• <a href="https://www.theguardian.com/info/2017/may/10/hear-here-podcast-recommendations-sign-up-for-unexpected-audio-pleasures">Don’t get Hear Here delivered to your inbox? Sign up here</a></strong></p><p><strong><a href="https://open.spotify.com/show/59mZFhEj5hyG8d0NMuX1Lo">Build the Life You Want</a></strong><br /><strong>Widely available, episodes weekly</strong><br />This spin-off from the staggeringly successful Super Soul podcast is packed with Oprah magic and tips on how to live better. Even if good deeds and mindfulness make you want to regurgitate your couscous, it’s hard to resist Winfrey. First, she looks at the ingredients of a happy existence with simple but irresistible mantras such as “social media is the junk food of social life” and “happiness is not a destination, it’s a direction.” <em><strong>Hannah
+
+## Richest benefit most from autumn statement, analysis finds; Nissan to build new electric vehicles in Sunderland – business live
+ - [https://www.theguardian.com/business/live/2023/nov/23/richest-benefit-autumn-statement-tax-spending-nissan-electric-vehicles-sunderland-business-live](https://www.theguardian.com/business/live/2023/nov/23/richest-benefit-autumn-statement-tax-spending-nissan-electric-vehicles-sunderland-business-live)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:39:12+00:00
+
+<p>Resolution Foundation calculates that 40% of the gains from the tax and benefit measures announced by Jeremy Hunt go to richest fifth of the population</p><ul><li>Full story: <strong><a href="https://www.theguardian.com/uk-news/2023/nov/23/autumn-statement-tax-cuts-favour-richest-20-thinktank-analysis-finds">Autumn statement tax cuts favour richest 20%, thinktank analysis finds</a></strong></li><li><a href="https://www.theguardian.com/uk-news/2023/nov/22/jeremy-hunts-autumn-statement-tax-cuts-fuel-talk-of-spring-election">Jeremy Hunt’s autumn statement tax cuts fuel talk of spring election</a></li></ul><p><strong>Some of the policies announced this week by Jeremy Hunt are potentially inflationary, says Emm Wall, head of investment analysis and research at Hargreaves Lansdown.</strong></p><p>She told <strong>CNBC</strong> that the 8.5% increase in the state pension from April, and <a href="https://www.theguardian.com/uk-news/2023/nov/21/uks-national-living-wage-to-rise-by-nearly-10
+
+## Russia-Ukraine war live: Zelenskiy hails air defence coalition formed from Ramstein group
+ - [https://www.theguardian.com/world/live/2023/nov/23/russia-ukraine-war-live-zelenskiy-hails-air-defence-coalition-formed-from-ramstein-group](https://www.theguardian.com/world/live/2023/nov/23/russia-ukraine-war-live-zelenskiy-hails-air-defence-coalition-formed-from-ramstein-group)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:38:30+00:00
+
+<p>‘Ukrainian air shield is becoming stronger every month’; another €1.5bn in aid from EU; Putin says he wants peace talks, then blames Ukraine</p><p></p><p></p><p><strong>Ukraine has not reached a stalemate in its war with Russia because the west can help Kyiv by “dropping five more queens on the board”, according to an influential historian of eastern Europe.</strong></p><p>Timothy Snyder, a Yale professor, argued that continuing high levels of military aid could allow Ukraine to prevail, in response to a recent interview given by Kyiv’s top military commander, Gen Valerii Zaluzhnyi, suggesting that the war was deadlocked.</p> <a href="https://www.theguardian.com/world/live/2023/nov/23/russia-ukraine-war-live-zelenskiy-hails-air-defence-coalition-formed-from-ramstein-group">Continue reading...</a>
+
+## Hunt says it is ‘silly’ to see his autumn statement tax cuts as pre-election giveaway – UK politics live
+ - [https://www.theguardian.com/politics/live/2023/nov/23/jeremy-hunt-autumn-statement-rishi-sunak-conservatives-tax-cuts-uk-politics-latest-updates](https://www.theguardian.com/politics/live/2023/nov/23/jeremy-hunt-autumn-statement-rishi-sunak-conservatives-tax-cuts-uk-politics-latest-updates)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:34:53+00:00
+
+<p>Chancellor says he has had ‘absolutely no discussions' with Rishi Sunak about date of the general election</p><p>PA Media has just snapped this.</p><p>Estimated net migration to the UK stood at a provisional 672,000 in the year to June 2023, up from 607,000 in the previous 12 months but below a revised record figure of 745,000 in the year to December 2022, the Office for National Statistics said.</p> <a href="https://www.theguardian.com/politics/live/2023/nov/23/jeremy-hunt-autumn-statement-rishi-sunak-conservatives-tax-cuts-uk-politics-latest-updates">Continue reading...</a>
+
+## North Korea to restore ‘all military measures’ on South Korea border
+ - [https://www.theguardian.com/world/2023/nov/23/north-korea-restore-all-military-measures-south-korea-border](https://www.theguardian.com/world/2023/nov/23/north-korea-restore-all-military-measures-south-korea-border)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:30:08+00:00
+
+<p>As Seoul claims Russia helped Pyongyang carry out spy satellite launch, North Korea warns of stronger armed forces on border</p><p><a href="https://www.theguardian.com/world/north-korea">North Korea</a> has warned it will deploy new weapons and stronger armed forces along its heavily armed border with South Korea, as officials in Seoul claimed that Russia had helped Pyongyang carry out a <a href="https://www.theguardian.com/world/2023/nov/22/north-korea-spy-satellite-malligyong-1-pyongyang-kim-jong-un">satellite launch</a>.</p><p>In a sign of rising tensions on the peninsula, North Korea said on Tuesday it would restore “all military measures” it had halted under a 2018 confidence-building agreement with South Korea.</p> <a href="https://www.theguardian.com/world/2023/nov/23/north-korea-restore-all-military-measures-south-korea-border">Continue reading...</a>
+
+## More Than a Game by David Horspool review – sporting history
+ - [https://www.theguardian.com/books/2023/nov/23/more-than-a-game-by-david-horspool-review-sporting-history](https://www.theguardian.com/books/2023/nov/23/more-than-a-game-by-david-horspool-review-sporting-history)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:00:01+00:00
+
+<p>From gentlemen’s cricket to the Lionesses at Wembley – what can sport can tell us about the wider culture?</p><p>When Chloe Kelly scored the winner for the Lionesses in last year’s Women’s European Championship final at Wembley, it triggered a volley of associations for those watching. Her slight pause before celebrating – in case the referee had found some infraction of the rules – was reminiscent of the 1966 World Cup final, when the players hesitated as the referee decided if Geoff Hurst’s second goal had crossed the line. The Lionesses’ victory was also a belated vindication, coming almost exactly 100 years after the<a href="https://www.theguardian.com/football/2022/jun/13/how-the-fa-banned-womens-football-in-1921-and-tried-to-justify-it" title=""> FA had effectively banned organised women’s football</a>. And Kelly’s eventual ecstatic gallop down the pitch – whirling her shirt over her head – echoed the same manoeuvre by the American Brandi Chastain in the 1999 World Cup final
+
+## One-man avalanche Myles Garrett should be a rare NFL defensive MVP
+ - [https://www.theguardian.com/sport/2023/nov/23/one-man-avalanche-myles-garrett-should-be-a-rare-nfl-defensive-mvp](https://www.theguardian.com/sport/2023/nov/23/one-man-avalanche-myles-garrett-should-be-a-rare-nfl-defensive-mvp)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:00:01+00:00
+
+<p>Quarterbacks nearly always take home the award. But the Cleveland Browns star has made his team’s defense into a terrifying force</p><p>The NFL’s MVP award is a proxy for the league’s best quarterback. At least that’s the way it’s evolved over the last 20 years.</p><p>The reason for picking a winner typically slots into one of three cliches: validating a young star’s legitimacy; confirming an old guy has still got it; or handing it to a consistent performer having a career year (<a href="https://www.theguardian.com/sport/2017/feb/04/matt-ryan-nfl-mvp-super-bowl-li-atlanta-falcons">hooray for Matt Ryan!</a>).</p> <a href="https://www.theguardian.com/sport/2023/nov/23/one-man-avalanche-myles-garrett-should-be-a-rare-nfl-defensive-mvp">Continue reading...</a>
+
+## Political and documentary photography posters from the 1970s
+ - [https://www.theguardian.com/culture/gallery/2023/nov/23/political-and-documentary-photography-posters-from-the-1970s](https://www.theguardian.com/culture/gallery/2023/nov/23/political-and-documentary-photography-posters-from-the-1970s)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:00:01+00:00
+
+<p>In the late 70s, the cash-strapped Half Moon Gallery in London developed an innovative approach to getting its shows seen. Showcasing socially engaged photographers such as Daniel Meadows, Janine Wiedel and Philip Jones Griffiths, it laminated their prints and shipped them by rail as touring exhibitions. Photography on the Move, featuring the posters that advertised the exhibitions, is at the <a href="https://www.fourcornersfilm.co.uk/">Four Corners Gallery</a> in London until 27 January</p><p></p> <a href="https://www.theguardian.com/culture/gallery/2023/nov/23/political-and-documentary-photography-posters-from-the-1970s">Continue reading...</a>
+
+## Terminally ill man faces living his last days in mould-ridden London flat
+ - [https://www.theguardian.com/uk-news/2023/nov/23/terminally-ill-man-mould-london-flat](https://www.theguardian.com/uk-news/2023/nov/23/terminally-ill-man-mould-london-flat)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:00:01+00:00
+
+<p>Efforts to rehouse Dimitrios Triantafyllidis fail, with family saying many landlords will not accept a dying tenant</p><p>A man with less than three months to live is likely to spend his final weeks in a property plagued with damp and black mould after efforts by his family and the council to find another home failed.</p><p>Dimitrios Triantafyllidis, 73, has been renting a one-bedroom flat with his wife in Enfield, north London, for almost 10 years. The property is owned and managed by a private landlord but rent is paid to the council. Last year, the couple reported problems with damp and mould to the landlord but the family say the issues were not addressed.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/terminally-ill-man-mould-london-flat">Continue reading...</a>
+
+## I’m a teacher, and even I think we should cut the long school summer holidays | Lola Okolosie
+ - [https://www.theguardian.com/commentisfree/2023/nov/23/teacher-long-school-summer-holidays-welsh-pupils-autumn-term](https://www.theguardian.com/commentisfree/2023/nov/23/teacher-long-school-summer-holidays-welsh-pupils-autumn-term)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:00:00+00:00
+
+<p>The Welsh proposal would help disadvantaged pupils, and make the endless autumn term more bearable for everyone</p><p>As winter advances, and night comes for us in the mid-afternoon, we teachers have a tendency to look back wistfully to the summer holidays and lament how it breezed by all too quickly. News, then, this week that Welsh ministers have <a href="https://www.theguardian.com/education/2023/nov/20/welsh-schools-shorter-summer-holidays-proposed-shakeup">launched a consultation</a> on changes that could see the summer holiday shortened might sound like bad news for my profession, let alone pupils.</p><p>But I agree with the proposals. The Welsh government has said that the overall number of teaching days and holiday days across the year wouldn’t be changed. What would happen is that a week would be taken from summer and added to the October break, with potentially another week moved to Easter in the future. They have cited research suggesting the long autumn term is difficu
+
+## Santa Claus: The Movie review – Dudley Moore sparkles like a bauble in Elf prototype
+ - [https://www.theguardian.com/film/2023/nov/23/santa-claus-the-movie-review-dudley-moore-sparkles-like-a-bauble-in-elf-prototype](https://www.theguardian.com/film/2023/nov/23/santa-claus-the-movie-review-dudley-moore-sparkles-like-a-bauble-in-elf-prototype)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T09:00:00+00:00
+
+<p>Playing an early iteration of the fish-out-of-water elf in the corporate world of New York, Moore has just enough perky charm to redeem an otherwise forgettable seasonal offering</p><p>Frankly, I would whisper a tiny humbug to a good deal of this gloopy Christmas movie from 1985, directed by Jeannot Szwarc and now rereleased; and only a sentimental loyalty to the seasonal spirit prevents me from demanding to know if there are no workhouses for the people who made it. The whole thing only comes to something resembling life halfway through, when Dudley Moore’s perky elf takes centre-stage.</p><p>There are many other and more deserving yuletide films which should be ahead of this one in the queue for a revival, but my own sweet tooth for Christmassy schmaltz won’t allow me completely to reject this admittedly eventful and bizarre origin myth for Santa Claus, starring David Huddleston as the chortling, bearded present-giver himself. He is a kind of vaguely Euro-Scandinavian guy called
+
+## Marlon Samuels gets six-year ban from cricket over anti-corruption code breach
+ - [https://www.theguardian.com/sport/2023/nov/23/marlon-samuels-gets-six-year-ban-from-cricket-over-anti-corruption-code-breach](https://www.theguardian.com/sport/2023/nov/23/marlon-samuels-gets-six-year-ban-from-cricket-over-anti-corruption-code-breach)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T08:59:21+00:00
+
+<ul><li>Punishment brought for charges from T10 League in Abu Dhabi</li><li>Retired former ODI captain ‘failed to co-operate’ with officials</li></ul><p>The former West Indies ODI captain Marlon Samuels has been banned from cricket for six years for breaching an anti-corruption code, the International Cricket Council (ICC) announced on Thursday.</p><p>The all-rounder was found guilty of breaching four counts of the ICC’s anti-corruption code while playing in a limited-overs competition in the United Arab Emirates.</p> <a href="https://www.theguardian.com/sport/2023/nov/23/marlon-samuels-gets-six-year-ban-from-cricket-over-anti-corruption-code-breach">Continue reading...</a>
+
+## Nissan expected to secure UK’s largest car plant with two new EV models
+ - [https://www.theguardian.com/business/2023/nov/23/nissan-expected-to-secure-uks-largest-car-plant-with-two-new-ev-models](https://www.theguardian.com/business/2023/nov/23/nissan-expected-to-secure-uks-largest-car-plant-with-two-new-ev-models)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T08:15:25+00:00
+
+<p>Reports claim Japanese carmaker will build replacements for its Qashqai and Juke crossover cars in possible £1bn investment</p><p>Nissan is expected to announce it will build two new electric models in Sunderland, securing the future of the UK’s largest car factory.</p><p>The Japanese carmaker will build replacements for its Qashqai and Juke crossover cars, according to Sky which first reported the news.</p> <a href="https://www.theguardian.com/business/2023/nov/23/nissan-expected-to-secure-uks-largest-car-plant-with-two-new-ev-models">Continue reading...</a>
+
+## Fans came to mourn Adam Johnson but amid the flowers and tears were fears and defiance
+ - [https://www.theguardian.com/sport/2023/nov/23/fans-came-to-mourn-adam-johnson-but-amid-the-flowers-and-tears-were-fears-and-defiance](https://www.theguardian.com/sport/2023/nov/23/fans-came-to-mourn-adam-johnson-but-amid-the-flowers-and-tears-were-fears-and-defiance)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T08:00:52+00:00
+
+<p>Three weeks after Johnson’s death during a game for Nottingham Panthers, Britain’s tight-knit ice hockey community has found itself in an uncomfortable spotlight</p><p>The flowers have been spreading like pooling water outside the National Ice Centre, one bunch after another, red, pink, purple, white, yellow and blue, most wrapped in Cellophane or paper, many with handwritten notes attached. Rest in peace, Always our 47, Thank you Adam. There were drawings among them, too, and framed photographs, even a carved pumpkin. The pile grew five, 10, 20 yards square; so big, in the end, that the Nottingham Panthers put up railings and set a steward to watch over it. Last Saturday bunches were still arriving in a steady trickle, new blooms on top of older.</p><p>The people who left them stopped and lingered for a slow moment. No one seemed entirely sure of themselves, no one really knew what to say or do. For the first week after <a href="https://www.theguardian.com/sport/2023/oct/29/notti
+
+## Football quiz: test your knowledge of street art and stadium murals
+ - [https://www.theguardian.com/football/2023/nov/23/football-quiz-test-your-knowledge-of-street-art-and-stadium-murals](https://www.theguardian.com/football/2023/nov/23/football-quiz-test-your-knowledge-of-street-art-and-stadium-murals)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T08:00:52+00:00
+
+<p>Grab a can of spray paint and test your skills on football artworks and the figures who inspired them</p> <a href="https://www.theguardian.com/football/2023/nov/23/football-quiz-test-your-knowledge-of-street-art-and-stadium-murals">Continue reading...</a>
+
+## Heroic, short, callous, crumpled, Christlike: how artists portrayed Napoleon before Ridley Scott
+ - [https://www.theguardian.com/artanddesign/2023/nov/23/ridley-scott-artists-napoleon-short-turner](https://www.theguardian.com/artanddesign/2023/nov/23/ridley-scott-artists-napoleon-short-turner)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T08:00:52+00:00
+
+<p>From a battlefield avenger to a nude colossus, the Corsican conqueror was a rich subject for artists across Europe. But was it Turner who finally captured the truth about the fallen emperor? </p><p>So you think Napoleon was short? Well, it’s a myth. <a href="https://www.theguardian.com/artanddesign/2015/mar/21/satire-sewers-and-statesmen-james-gillray-king-of-cartoon">Britain’s great satirist James Gillray</a> didn’t just caricature the French leader relentlessly, he also pulled off arguably the greatest cartoon coup of all time, convincing the world even to this day that he was pint-sized. It was all based on a mistranslation (and no doubt a little mischief). Since French inches were bigger than British ones, Napoleon’s recorded height of 5ft 2in would have worked out at around 5ft 7in on the other side of the Channel. Not a giant, but taller than the average Frenchman of the time.</p><p>The epic story of the Corsican soldier who rose to dominate Europe and then suffered a shocki
+
+## ‘Doesn’t go to fundamentals’: autumn statement misses mark in Southport
+ - [https://www.theguardian.com/uk-news/2023/nov/23/doesnt-go-to-fundamentals-autumn-statement-misses-mark-in-southport](https://www.theguardian.com/uk-news/2023/nov/23/doesnt-go-to-fundamentals-autumn-statement-misses-mark-in-southport)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T08:00:52+00:00
+
+<p>Jeremy Hunt’s measures fail to impress small traders in Merseyside town where key tourist sector has been struggling</p><ul><li><a href="https://www.theguardian.com/business/live/2023/nov/22/sam-altman-openai-return-jeremy-hunt-autumn-statement-tax-cuts-business-live">Business live – latest updates</a></li><li><a href="https://www.theguardian.com/politics/live/2023/nov/22/jeremy-hunt-autumn-statement-conservatives-labour-rishi-sunak-keir-starmer-pmqs-uk-economy-politics-latest-updates">UK politics live – latest updates</a></li></ul><p>Southport pier has stretched into the Irish sea since the Victorian era, surviving fires, Nazi warplanes and more than 160 years of daytrippers treading its sandy boards.</p><p>Today it stands as a monument of decline. The Grade II-listed structure, the second-longest pier in Britain, has been closed for almost a year after safety surveys found it “rotting from within”.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/doesnt-go-to-fundame
+
+## ‘I can sense her presence in the works’: the bold designs and trailblazing life of sculptor Kim Lim
+ - [https://www.theguardian.com/artanddesign/2023/nov/23/kim-lim-singapore-uk-sculptor-hepworth-wakefield](https://www.theguardian.com/artanddesign/2023/nov/23/kim-lim-singapore-uk-sculptor-hepworth-wakefield)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T08:00:52+00:00
+
+<p>A first major museum show celebrating the dazzling constructions of the Singaporean-British artist will finally etch her place in the UK art pantheon once and for all</p><p>The 20th-century Singaporean-British sculptor Kim Lim once said that her practice was informed “not so much [by] volume, mass and weight, but with form, space, rhythm and light”.</p><p>These concerns ripple throughout a new landmark exhibition covering almost 40 years of the artist’s career, from 1959 to 1997. Held at the <a href="https://www.theguardian.com/artanddesign/hepworth-wakefield" title="">Hepworth Wakefield</a>, with its views of the River Calder and the Hepworth Garden, the exhibition offers a suitably meditative and sensuous space in which to experience Lim’s work. On display are bold structures assembled from metal and wood offcuts, lithographic prints and etchings, documentary photography and dazzling stone sculptures carved with rhythmic grooves.</p> <a href="https://www.theguardian.com/artandde
+
+## Pressure to expand the EU has never been greater – and the will to reform it never weaker | Paul Taylor
+ - [https://www.theguardian.com/commentisfree/2023/nov/23/eu-expand-europe-security-crisis-costs](https://www.theguardian.com/commentisfree/2023/nov/23/eu-expand-europe-security-crisis-costs)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T08:00:51+00:00
+
+<p>Enlargement may offer Europe greater security, but its price is change with daunting financial and political costs</p><p>European Union leaders are coming around to the geopolitical necessity of embracing Ukraine, Moldova and western Balkan countries as future EU members, but will struggle to reform the bloc to make it fit for enlargement.</p><p>Russia’s full-scale invasion of Ukraine has thrust EU expansion back on to the agenda after two decades in which governments procrastinated over admitting six small <a href="https://www.europarl.europa.eu/factsheets/en/sheet/168/the-western-balkans">western Balkan states</a> with a combined population of 20 million. These countries were given a “<a href="https://europeanwesternbalkans.com/2023/06/21/twenty-years-since-the-thessaloniki-summit-where-the-european-perspective-of-the-western-balkans-countries-was-confirmed/">European perspective</a>” in 2003, but have done little since then to reform themselves and have long felt unwanted in Br
+
+## ‘Alive with rats’: north Queensland town of Karumba overrun by plague of swimming rodents
+ - [https://www.theguardian.com/australia-news/2023/nov/23/karumba-rat-plague-north-queensland](https://www.theguardian.com/australia-news/2023/nov/23/karumba-rat-plague-north-queensland)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T07:44:30+00:00
+
+<p>A sea of rats has been washing up dead on the beach, with others scurrying across boat ramps into garden sheds and homes</p><ul><li><a href="https://www.theguardian.com/australia-news/live/2023/nov/23/australia-news-live-rba-governor-interest-rates-bruce-lehrmann-defamation-trial-bushfire-perth-cost-of-living">Follow our Australia news live blog for latest updates</a></li><li>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">morning and afternoon news emails</a>, <a href="https://app.adjust.com/w4u7jx3">free app</a> or <a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl">daily news podcast</a></li></ul><p>The north Queensland town of Karumba is home to saltwater crocs, brolgas and black swans – and, more recently – hundreds of swimming rats.</p><p>A sea of rodents has been washing up dead on the beach in recent days, with others scurrying across the boat ramps into garden sheds and homes.</p><p><strong><a href="https://www.
+
+## Kibogo by Scholastique Mukasonga review – crisis in colonial Rwanda
+ - [https://www.theguardian.com/books/2023/nov/23/kibogo-by-scholastique-mukasonga-review-crisis-in-colonial-rwanda](https://www.theguardian.com/books/2023/nov/23/kibogo-by-scholastique-mukasonga-review-crisis-in-colonial-rwanda)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T07:30:51+00:00
+
+<p>The insidious legacy of Christianisation is explored in this miniature masterpiece set in a Rwandan village</p><p>“Kamanzi, our sub-chief, came to take away our children.” So begins a trail of misfortune that befalls the inhabitants of a small hillside village in Rwanda shortly before the second world war. The children are wanted to pick flowers for the colonists (the <em>Bazungu</em>). The people hide their children but the sub-chiefs, with their sunglasses, watches and shoes, lash the fathers and force them to work in the mines. The farmers neglect their own crops in order to grow beans to feed the miners; their cattle are confiscated. Misery follows misfortune until finally arrives the greatest catastrophe of all: the Ruzagayura famine. The villagers are unprepared, lacking both cattle and stores. They look to the sky in search of their god Kibogo’s rain, but the rain doesn’t fall, and when it eventually does come the ensuing storm sweeps the soil and crops away.</p><p>We are s
+
+## Energy bills in Great Britain to rise by 5% from January as cap hits £1,928
+ - [https://www.theguardian.com/money/2023/nov/23/energy-bills-great-britain-rise-january-price-cap-ofgem](https://www.theguardian.com/money/2023/nov/23/energy-bills-great-britain-rise-january-price-cap-ofgem)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T07:07:21+00:00
+
+<p>Ofgem increases minimum price for energy suppliers to charge customers after rise in global gas prices</p><p>Households will begin the new year with a 5% increase in energy bills after the regulator raised the price cap to an average of £1,928 a year for the typical gas and electricity bill.</p><p>Ofgem raised the maximum price that energy suppliers can charge their customers from £1,834 a year for the typical household between October to December, after a rise in global gas market prices after the start of the Israel-Hamas war last month.</p> <a href="https://www.theguardian.com/money/2023/nov/23/energy-bills-great-britain-rise-january-price-cap-ofgem">Continue reading...</a>
+
+## What have I learned in the gym? Gen Z are incredible | Joel Snape
+ - [https://www.theguardian.com/lifeandstyle/commentisfree/2023/nov/23/what-have-i-learned-in-the-gym-gen-z-are-incredible](https://www.theguardian.com/lifeandstyle/commentisfree/2023/nov/23/what-have-i-learned-in-the-gym-gen-z-are-incredible)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T07:00:52+00:00
+
+<p>Young people have to contend with the terrible, unfair burden of crippling debt and a burning world. Thankfully, they are industrious, sensible and admirably strong from all those deadlifts</p><p>In many areas of life, I feel as if I am being pitted against generation Z by forces outside my control. We are endlessly reminded that they are pampered and feckless, addicted to social media and unable to cope in the real world. They are all too well aware that older generations are rapacious and unrepentant, about to bequeath them a <a href="https://www.theguardian.com/money/2023/mar/27/millennial-generation-despairs-of-being-able-to-afford-to-retire" title="">pension crisis</a> and a rapidly heating planet. It’s Capulets and Montagues, TikTok v Twitter, avocado smashers against latte swillers – there is no common ground. Except, apparently, for my local gym.</p><p>Here, among the treadmills and rowing machines, the kids are putting us to shame. For one thing, they are up early. I, a g
+
+## HP says I should have known its £399 laptop bargain was too good to be true
+ - [https://www.theguardian.com/money/2023/nov/23/hp-says-i-should-have-known-its-399-laptop-bargain-was-too-good-to-be-true](https://www.theguardian.com/money/2023/nov/23/hp-says-i-should-have-known-its-399-laptop-bargain-was-too-good-to-be-true)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T07:00:51+00:00
+
+<p>Then it grabbed it back mid-delivery and is blaming me</p><p><strong>HP kept emailing me special offers so I checked its website. One offer for a HP Envy 17 laptop at £399 was so good that I placed an order and received various emails confirming the order and payment. Parcelforce texted the delivery slot. No delivery. Parcelforce and HP’s tracking systems then claimed I had refused the parcel. I scheduled a redelivery for the next day. Parcelforce then rang me and the agent acknowledged a delivery had not been attempted and that the tracking information was false. It claimed HP had requested that the parcel be returned to sender.</strong></p><p><strong>HP denied this and promised, in two subsequent emails, to send a replacement. Nothing came. I called HP again and was again promised a replacement was on its way. An email confirmed this the next day. Then came another email informing me HP had recalled the item due to a pricing error, stating it was under no obligation to provide a
+
+## Leave the World Behind review – Julia Roberts and Ethan Hawke’s apocalypto-paranoid thriller
+ - [https://www.theguardian.com/film/2023/nov/23/leave-the-world-behind-review-julia-roberts-mahershala-ali-ethan-hawke](https://www.theguardian.com/film/2023/nov/23/leave-the-world-behind-review-julia-roberts-mahershala-ali-ethan-hawke)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T07:00:51+00:00
+
+<p>Roberts and Hawke’s weekend getaway starts to go wrong when two mysterious strangers appear at the door. Then things get weirder</p><p>Julia Roberts, Mahershala Ali and Ethan Hawke star in this glossy, Shyamalan-level-10 apocalypto-paranoid conspiracy thriller, adapted from the 2020 bestseller by Rumaan Alam. It’s an example of a growing tendency in the movies: baggy, lengthy, episodic pictures which are starting to split the difference between feature film items and streaming TV. Amat Escalante’s Mexican thriller <a href="https://www.theguardian.com/film/2023/nov/21/lost-in-the-night-review-amat-escalante-lynchian-melodrama-of-mexican-corruption">Lost in the Night</a> is, I think, another example of this tendency: films that go on for a while and, like a shaggy-dog story, leave things open for the possibility of getting recommissioned for season two. (Ridley Scott’s Napoleon epic for Apple TV also straddles film and TV, with extra content for the small screen iteration – although
+
+## Mozambique’s Mario Macilau wins James Barnor prize – in pictures
+ - [https://www.theguardian.com/artanddesign/gallery/2023/nov/23/mozambiques-mario-macilau-wins-james-barnor-prize-in-pictures](https://www.theguardian.com/artanddesign/gallery/2023/nov/23/mozambiques-mario-macilau-wins-james-barnor-prize-in-pictures)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T07:00:51+00:00
+
+<p>This year’s winner of the <a href="https://www.jamesbarnor.org/the-prize/">James Barnor prize</a>, which supports photography talent on the African continent and among the wider African diaspora, is <a href="https://www.instagram.com/mariomacilau/?hl=en">Mário Macilau</a>. The second edition of the £10,000 prize focuses on the East African region. Here is a selection from three series of his work in Mozambique, looking at the practice of animism, the lives of street children, and the relationship with former colonial ruler Portugal</p> <a href="https://www.theguardian.com/artanddesign/gallery/2023/nov/23/mozambiques-mario-macilau-wins-james-barnor-prize-in-pictures">Continue reading...</a>
+
+## Together for Humanity plans mass vigil to bridge divisions over Israel-Gaza war
+ - [https://www.theguardian.com/uk-news/2023/nov/23/together-for-humanity-plans-mass-vigil-to-bridge-divisions-over-israel-gaza-war](https://www.theguardian.com/uk-news/2023/nov/23/together-for-humanity-plans-mass-vigil-to-bridge-divisions-over-israel-gaza-war)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T07:00:51+00:00
+
+<p>Coalition of political, faith and community leaders aims to combat extremism and bring people together</p><p>A coalition of political, faith and civil society leaders is attempting to bridge divisions over the Israel-Gaza war that are threatening community cohesion, according to its co-founder, Brendan Cox.</p><p><a href="http://togetherforhumanity.co.uk/">Together for Humanity</a> is organising a mass vigil on 3 December, bringing together people who have lost family in Gaza with people who have lost loved ones in Israel in an acknowledgment of the pain and grief on both sides of the conflict.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/together-for-humanity-plans-mass-vigil-to-bridge-divisions-over-israel-gaza-war">Continue reading...</a>
+
+## ‘You can walk around in a T-shirt’: how Norway brought heat pumps in from the cold
+ - [https://www.theguardian.com/environment/2023/nov/23/norway-heat-pumps-cold-heating](https://www.theguardian.com/environment/2023/nov/23/norway-heat-pumps-cold-heating)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T07:00:51+00:00
+
+<p>Device installed in two-thirds of households of country whose experience suggests switching to greener heating can be done</p><p>When Glen Peters bought a heat pump for his home in Oslo he wasn’t thinking about the carbon it would avoid.</p><p>Convenience played a role; a fireplace was too much of a hassle – the effort of having to buy, prepare and store the wood – and the wall-mounted radiators are too dusty. “They’re a pain in the ass to clean,” said Peters (who is actually a climate scientist).</p> <a href="https://www.theguardian.com/environment/2023/nov/23/norway-heat-pumps-cold-heating">Continue reading...</a>
+
+## Kendal Mountain film festival 2023 celebrates adventure for all
+ - [https://www.theguardian.com/travel/2023/nov/23/kendal-mountain-film-festival-2023-celebrates-adventure-for-all](https://www.theguardian.com/travel/2023/nov/23/kendal-mountain-film-festival-2023-celebrates-adventure-for-all)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T07:00:50+00:00
+
+<p>Diversity was the watchword at this year’s gathering of outdoors lovers in Cumbria, with all races, sizes and abilities celebrated</p><p>Frustration at the lack of plus-size outdoor clothing and a feeling that people her size are unwelcome in the outdoors led Steph Wetherell to launch <a href="https://www.everybodyoutdoors.co.uk/">Every Body Outdoors</a> last year.</p><p>The Instagram page she set up with four women whom she’d met online clocked up 1,000 followers in its first 24 hours. “We realised there were so many larger-bodied people who didn’t feel comfortable in the outdoor space – they’d had bad experiences perhaps, or struggled to find suitable gear. We wanted to create a community to show that people of all sizes can enjoy outdoor activities, from cycling to swimming, hiking or climbing. There’s a lot of us out there.”</p> <a href="https://www.theguardian.com/travel/2023/nov/23/kendal-mountain-film-festival-2023-celebrates-adventure-for-all">Continue reading...</a>
+
+## The truce in Gaza gives Biden time to pursue a lasting peace. Here’s how he can do it | Roee Kibrik
+ - [https://www.theguardian.com/commentisfree/2023/nov/23/truce-gaza-joe-biden-peace-israel-palestinian-authority](https://www.theguardian.com/commentisfree/2023/nov/23/truce-gaza-joe-biden-peace-israel-palestinian-authority)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T07:00:50+00:00
+
+<p>The Israeli government and Palestinian Authority cannot bring about true change – so the international community must</p><ul><li>Roee Kibrik is director of research at Mitvim – the Israeli Institute for Regional Foreign Policies</li></ul><p></p><p>With a deal on the release of hostages and a pause in the fighting, the war in Gaza is entering a new stage. This four-day truce will see the handing over of dozens of hostages, but the pause also gives the international community an opportunity to promote stable and sustainable peace in Israel and the Palestinian territories. We are at a crossroads – and before us lies either a continuation of the conflict, or the impetus to find a permanent resolution.</p><p>Hamas’s murderous attack on 7 October shattered many longstanding convictions. It brought the Palestinian issue back to centre stage; challenged the notion that the Israeli-Palestinian conflict could be managed at a low cost; and undermined the belief that Israel could pursue integ
+
+## TV tonight: who will walk away with Greg Davies’s golden head?
+ - [https://www.theguardian.com/tv-and-radio/2023/nov/23/tv-tonight-who-will-walk-away-with-greg-daviess-golden-head](https://www.theguardian.com/tv-and-radio/2023/nov/23/tv-tonight-who-will-walk-away-with-greg-daviess-golden-head)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T06:20:49+00:00
+
+<p>Cornflakes with hot sauce are on the menu for the Taskmaster final. Plus: Mary Berry pays a surprise visit to a breakfast TV legend. Here’s what to watch this evening</p> <a href="https://www.theguardian.com/tv-and-radio/2023/nov/23/tv-tonight-who-will-walk-away-with-greg-daviess-golden-head">Continue reading...</a>
+
+## Lightning superbolt hotspots have one thing in common, study finds
+ - [https://www.theguardian.com/news/2023/nov/23/lightning-superbolt-hotspots-have-one-thing-in-common-study-finds](https://www.theguardian.com/news/2023/nov/23/lightning-superbolt-hotspots-have-one-thing-in-common-study-finds)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T06:00:50+00:00
+
+<p>Phenomenon most frequent in north-east Atlantic, the Mediterranean and the Altiplano plateau across Peru and Bolivia</p><p>In 1977, a US project used satellites to monitor the globe for nuclear explosions, but they unexpectedly caught intense flashes of light a thousandth of a second long. These were <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA003001">lightning superbolts</a>, the most powerful lightning on Earth, 100 times more powerful than typical lightning and capable of causing serious damage.</p><p>Superbolts are rare – less than 1% of all lightning – and what creates them has long been a mystery. But a study of superbolts across the globe revealed three hotspots where superbolts were most frequent: the north-east Atlantic, the Mediterranean and the high-altitude Altiplano plateau across Peru and Bolivia.</p> <a href="https://www.theguardian.com/news/2023/nov/23/lightning-superbolt-hotspots-have-one-thing-in-common-study-finds">Continue reading...
+
+## Madagascan heatwave ‘virtually impossible’ without human-caused global heating
+ - [https://www.theguardian.com/environment/2023/nov/23/madagascar-record-heatwave-climate-crisis-study](https://www.theguardian.com/environment/2023/nov/23/madagascar-record-heatwave-climate-crisis-study)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T06:00:50+00:00
+
+<p>Study finds impact of heat on millions of people went unrecorded, highlighting limitations many African countries face</p><p>A record-breaking heatwave in Madagascar in October would have been “virtually impossible” without human-caused global heating, a study has shown.</p><p>The extreme temperatures affected millions of very poor people but the damage to their lives was not recorded by officials or the media. Many governments in Africa lack the capabilities to record climate impacts. The scientists behind the report said this lack of information made implementing measures to avoid deaths very difficult.</p> <a href="https://www.theguardian.com/environment/2023/nov/23/madagascar-record-heatwave-climate-crisis-study">Continue reading...</a>
+
+## ‘It’s £2m ploughed into Cardiff’: how Doctor Who boosted the Welsh economy
+ - [https://www.theguardian.com/tv-and-radio/2023/nov/23/2m-ploughed-into-cardiff-how-doctor-who-boosted-welsh-economy](https://www.theguardian.com/tv-and-radio/2023/nov/23/2m-ploughed-into-cardiff-how-doctor-who-boosted-welsh-economy)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T06:00:50+00:00
+
+<p>Sci-fi series reboot 20 years ago created hundreds of jobs in Wales and was catalyst for dramatic growth, BBC report finds</p><p>Deciding to make the reboot of Doctor Who in Wales 20 years ago must have felt as risky as tackling the Daleks without a sonic screwdriver, but a detailed study of the impact of the sci-fi television classic on the Welsh economy says the move has paid off gloriously.</p><p>According to the report, the regeneration of the BBC blockbuster series has contributed at least £134.6m in GVA (gross value added) to the Welsh economy, created hundreds of jobs and acted as a catalyst for a dramatic growth in Wales’s creative sector.</p> <a href="https://www.theguardian.com/tv-and-radio/2023/nov/23/2m-ploughed-into-cardiff-how-doctor-who-boosted-welsh-economy">Continue reading...</a>
+
+## Ever get the feeling you’re being bribed? This is how the Tories will fight the next election | Aditya Chakrabortty
+ - [https://www.theguardian.com/commentisfree/2023/nov/23/bribed-tories-election-chancellor-autumn-statement](https://www.theguardian.com/commentisfree/2023/nov/23/bribed-tories-election-chancellor-autumn-statement)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T06:00:49+00:00
+
+<p>The chancellor’s autumn statement was a mishmash of giveaways, but you can spin Britain’s grim economic reality only so far</p><p>The bottom line from that autumn statement? Prepare for a general election in the spring. Yes, the Tories lag far behind in the polls; and sure, Rishi Sunak’s personal ratings fall almost as short as his trouser legs. But boy, does the prime minister want you to know he’s up for a fight. That’s why his chancellor is <a href="https://www.theguardian.com/uk-news/2023/nov/22/autumn-statement-2023-key-points-jeremy-hunt">giving away tens of billions of pounds in tax cuts</a>. It also explains his haste in pushing those pounds into voters’ pockets. Rather than wait until April to make that 2p cut to national insurance, Jeremy Hunt will ensure it hits pay packets in January. Ever get the feeling you’re being bribed?</p><p>There is no magic money tree, Theresa May used to say. But that was three prime ministers ago, and anyway it was a lie – a government steel
+
+## ‘He’s done nothing to help’: Britain reacts to the autumn statement
+ - [https://www.theguardian.com/uk-news/2023/nov/23/hes-done-nothing-to-help-britain-reacts-to-the-autumn-statement](https://www.theguardian.com/uk-news/2023/nov/23/hes-done-nothing-to-help-britain-reacts-to-the-autumn-statement)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T06:00:49+00:00
+
+<p>A taxpayer, a pensioner, a benefit recipient and a parent explain how the chancellor’s changes affect them – if they do at all</p><p>The chancellor, Jeremy Hunt, <a href="https://www.theguardian.com/uk-news/2023/nov/22/autumn-statement-jeremy-hunt-announces-sweeping-tax-cuts-for-firms-and-workers">delivered his autumn statement on Wednesday</a> and in it announced increases in benefits and a cut in national insurance. We asked a taxpayer, a pensioner, a universal credit claimant and a parent for their views.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/hes-done-nothing-to-help-britain-reacts-to-the-autumn-statement">Continue reading...</a>
+
+## Israel-Hamas war live: no ceasefire or hostage release before Friday, Israeli and US officials say
+ - [https://www.theguardian.com/world/live/2023/nov/23/israel-hamas-war-live-updates-gaza-ceasefire-hostage-release-friday-israeli-us-officials](https://www.theguardian.com/world/live/2023/nov/23/israel-hamas-war-live-updates-gaza-ceasefire-hostage-release-friday-israeli-us-officials)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T05:59:26+00:00
+
+<p>Israeli national security adviser Tzachi Hanegbi says negotiations on hostage release ‘are progressing'; White House spokesperson Adrienne Watson hopeful that deal will go into effect on Friday morning</p><ul><li><a href="https://www.theguardian.com/world/2023/nov/23/israel-hamas-ceasefire-and-hostage-deal-wont-happen-before-friday-israeli-officials-say">Full report: Israel-Hamas ceasefire and hostage deal won’t happen before Friday, Israeli officials say</a></li><li><a href="https://www.theguardian.com/world/2023/nov/22/israel-hamas-war-gaza-palestine-hostages-release-deal-explained">Gaza hostage deal: what do we know?</a></li></ul><p>Lebanon’s Iran-backed Hezbollah movement has officially confirmed that five of its fighters, including the son of a senior lawmaker, have been killed, amid skirmishes at the Israel-Lebanon border, according to AFP.</p><p>Abbas Raad, son of the head of Hezbollah’s parliamentary bloc Mohammed Raad, was “martyred on the road to Jerusalem”, the group sa
+
+## India tunnel rescue: delay hits effort to free 41 workers as digging enters final stretch
+ - [https://www.theguardian.com/world/2023/nov/23/india-tunnel-collapse-rescue-uttarakhand-delay-drilling-machine](https://www.theguardian.com/world/2023/nov/23/india-tunnel-collapse-rescue-uttarakhand-delay-drilling-machine)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T05:15:04+00:00
+
+<p>Ambulances are on standby in the state of Uttarakhand to take the workers for treatment, as families of trapped describe feeling optimistic</p><p>The rescue operation to free <a href="https://www.theguardian.com/world/2023/nov/20/india-tunnel-workers-may-be-trapped-days-health-fears-uttarakhand">41 construction workers trapped</a> for nearly two weeks in a collapsed tunnel in northern India has run into trouble in the final stretch of digging.</p><p>According to officials, some blades of the drilling machine were damaged by a metal object lodged in the debris.</p> <a href="https://www.theguardian.com/world/2023/nov/23/india-tunnel-collapse-rescue-uttarakhand-delay-drilling-machine">Continue reading...</a>
+
+## Archie review – Jason Isaacs is every bit as smooth as Cary Grant
+ - [https://www.theguardian.com/tv-and-radio/2023/nov/23/archie-review-jason-isaacs-is-every-bit-as-smooth-as-cary-grant](https://www.theguardian.com/tv-and-radio/2023/nov/23/archie-review-jason-isaacs-is-every-bit-as-smooth-as-cary-grant)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T05:00:49+00:00
+
+<p>This charmingly cheesy four-part bio-drama profiles five phases of the Hollywood star’s life courtesy of stunning performances – which plunge into the actor’s dark depths</p><p>So many movie stars struggle to live up to the screen persona that made them famous, but for one of the greatest leading men in Hollywood history, that contrast was unusually acute. Cary Grant was not just a name that Archie Leach adopted to sell himself as an actor; he was a character Leach played for decades on and off screen, in a futile attempt to become someone else.</p><p>Archie, an emotive four-part bio-drama, follows its subject through no fewer than five phases of his life. Dainton Anderson is Archie the young boy, growing up in Bristol in the 1910s, in grim poverty made even harsher by the feckless cowardice of his father, Elias (Henry Lloyd-Hughes), who is depicted as partly responsible for the death of Archie’s elder brother. His mother never recovers from the loss: a pulverising scene with Kara
+
+## Orbán accused of trying to silence all critics in Hungary with new law
+ - [https://www.theguardian.com/world/2023/nov/23/orban-accused-of-trying-to-silence-all-critics-in-hungary-with-new-law](https://www.theguardian.com/world/2023/nov/23/orban-accused-of-trying-to-silence-all-critics-in-hungary-with-new-law)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T05:00:49+00:00
+
+<p>Proposed law to create ‘sovereignty protection office’ is designed to undermine opponents, civil society groups warn</p><p>Hungary’s leading civil society groups have accused Viktor Orbán of trying to “silence all critical voices” in the country after proposing legislation to create a “sovereignty protection office” investigating foreign influence.</p><p>For years, the Hungarian prime minister has promoted a narrative that external forces are trying to undermine his government and prop up his opponents.</p> <a href="https://www.theguardian.com/world/2023/nov/23/orban-accused-of-trying-to-silence-all-critics-in-hungary-with-new-law">Continue reading...</a>
+
+## The experts: sex therapists on 20 simple, satisfying ways to revive your lost libido
+ - [https://www.theguardian.com/lifeandstyle/2023/nov/23/the-experts-sex-therapists-on-20-simple-satisfying-ways-to-revive-your-lost-libido](https://www.theguardian.com/lifeandstyle/2023/nov/23/the-experts-sex-therapists-on-20-simple-satisfying-ways-to-revive-your-lost-libido)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T05:00:49+00:00
+
+<p>Losing your mojo is very common, but it can be overcome, whether through self-love, putting down your phone – or even a sex ban</p><p>Most people will experience a loss of sexual desire at some point in their life, be it due to parenthood, a health condition, hormonal changes, grief or other reasons. But how can you overcome this? Sex therapists and educators share the secrets to getting your mojo back.</p> <a href="https://www.theguardian.com/lifeandstyle/2023/nov/23/the-experts-sex-therapists-on-20-simple-satisfying-ways-to-revive-your-lost-libido">Continue reading...</a>
+
+## What have we learned from the James Webb space telescope so far? – podcast
+ - [https://www.theguardian.com/science/audio/2023/nov/23/what-have-we-learned-from-the-james-webb-space-telescope-so-far-podcast](https://www.theguardian.com/science/audio/2023/nov/23/what-have-we-learned-from-the-james-webb-space-telescope-so-far-podcast)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T05:00:49+00:00
+
+<p>Madeleine Finlay sits down with science correspondent Hannah Devlin to discuss the amazing discoveries the James Webb space telescope has made in the year since it became operational. From planets that rain sand to distant galaxies, Madeleine explains how some of these discoveries could fundamentally change our understanding of the universe</p><p><em>Clips: BBC, NASA, CBS</em></p> <a href="https://www.theguardian.com/science/audio/2023/nov/23/what-have-we-learned-from-the-james-webb-space-telescope-so-far-podcast">Continue reading...</a>
+
+## Last love: a romance in a care home
+ - [https://www.theguardian.com/lifeandstyle/2023/nov/23/last-love-a-romance-in-a-care-home](https://www.theguardian.com/lifeandstyle/2023/nov/23/last-love-a-romance-in-a-care-home)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T05:00:48+00:00
+
+<p>Mary and Derek weren’t the first couple to get together at Easterlea Rest Home. But those other relationships had been more like friendships – and this was something else entirely</p><p>What was the song? Mary couldn’t quite remember. It was one of Mr Pepper’s classics, certainly. A ballad. Possibly You Are My Sunshine? What did it matter; the point was the <em>voice</em>. Not Mr Pepper’s – she knew what he sounded like well enough, being one of Easterlea Rest Home’s regular afternoon entertainers. No, this voice was new, and belonged to a man who had sat down in the chair next to her and started to sing along. She was so stunned – by the way his voice seemed to pour out of him, by its fierce clarity and defiance of age – that she turned to stare.</p><p>The man winked at her. Cheeky bugger, thought Mary.</p> <a href="https://www.theguardian.com/lifeandstyle/2023/nov/23/last-love-a-romance-in-a-care-home">Continue reading...</a>
+
+## Scotland ‘let down on every front’ by Hunt’s statement, says SNP government
+ - [https://www.theguardian.com/uk-news/2023/nov/23/scotland-let-down-on-every-front-by-hunts-statement-says-snp-government](https://www.theguardian.com/uk-news/2023/nov/23/scotland-let-down-on-every-front-by-hunts-statement-says-snp-government)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T05:00:48+00:00
+
+<p>Questions in Scotland, Wales and Northern Ireland about funding for devolved governments</p><p>The Scottish government has accused the chancellor of “letting Scotland down on every count” after he unveiled a modest £545m increase in Treasury funding, and extra funds for Wales and Northern Ireland.</p><p>Jeremy Hunt announced an overall boost of £1bn for the UK’s three devolved governments, with Wales in line to receive an extra £305m and Northern Ireland £185m over the next two financial years, alongside £545m for Scotland.</p> <a href="https://www.theguardian.com/uk-news/2023/nov/23/scotland-let-down-on-every-front-by-hunts-statement-says-snp-government">Continue reading...</a>
+
+## Sinn Féin’s rising tally of lawsuits fuels fears it is trying to stifle scrutiny
+ - [https://www.theguardian.com/politics/2023/nov/23/sinn-feins-rising-tally-of-lawsuits-fuels-fears-it-is-trying-to-stifle-scrutiny](https://www.theguardian.com/politics/2023/nov/23/sinn-feins-rising-tally-of-lawsuits-fuels-fears-it-is-trying-to-stifle-scrutiny)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T05:00:48+00:00
+
+<p>The Irish PM has accused the party of trying to take away democracy through threats as press freedom organisations raise concerns</p><p>In <a href="https://www.theguardian.com/world/ireland">Ireland</a>, Mary Lou McDonald, the leader of Sinn Féin, is suing the national broadcaster RTÉ for defamation, while her husband, Martin Lanigan, is suing the author of a biography of McDonald. Chris Andrews, a Sinn Féin member of Ireland’s parliament, is suing the Irish Times and one of its reporters.</p><p>In <a href="https://www.theguardian.com/uk/northernireland">Northern Ireland</a>, Gerry Kelly, a Sinn Féin member of the Stormont assembly, is suing two media commentators. John Finucane, a Sinn Féin MP, is suing a unionist councillor over Twitter claims. Michelle O’Neill, the party’s deputy leader, recently sued another unionist councillor over a Facebook post.</p> <a href="https://www.theguardian.com/politics/2023/nov/23/sinn-feins-rising-tally-of-lawsuits-fuels-fears-it-is-trying-to-sti
+
+## Israel-Hamas ceasefire and hostage deal won’t happen before Friday, Israeli and US officials say
+ - [https://www.theguardian.com/world/2023/nov/23/israel-hamas-ceasefire-and-hostage-deal-wont-happen-before-friday-israeli-officials-say](https://www.theguardian.com/world/2023/nov/23/israel-hamas-ceasefire-and-hostage-deal-wont-happen-before-friday-israeli-officials-say)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T04:25:11+00:00
+
+<p>Israel hit targets in southern Gaza and Lebanon as families on both sides await news on hostage swap deal</p><ul><li><a href="https://www.theguardian.com/world/live/2023/nov/22/israel-hamas-war-live-updates-hostage-deal-release-ceasefire-pause-latest-news">Israel-Hamas war: live updates</a></li><li><a href="https://www.theguardian.com/world/2023/nov/03/israel-and-palestine-a-complete-guide-to-the-crisis">Israel and Palestine: a complete guide to the crisis</a></li></ul><p>Israeli and US officials have said a four-day Gaza truce and hostage release will not start until at least Friday, thwarting the hopes of families that some captives would be freed on Thursday.</p><p>As the wait continued, Khan Younis in southern Gaza was hit by Israeli airstrikes and artillery in at least two waves early on Thursday, Palestinian media reported.</p> <a href="https://www.theguardian.com/world/2023/nov/23/israel-hamas-ceasefire-and-hostage-deal-wont-happen-before-friday-israeli-officials-say">Conti
+
+## ‘The Godwin’: Australian gymnast has move officially named after her
+ - [https://www.theguardian.com/sport/2023/nov/23/the-godwin-australian-gymnast-georgia-godwin-move-named-after-uneven-bars](https://www.theguardian.com/sport/2023/nov/23/the-godwin-australian-gymnast-georgia-godwin-move-named-after-uneven-bars)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T03:09:31+00:00
+
+<p>An off-the-cuff suggestion on social media inspired Georgia Godwin to devise and execute a complex never-seen-before move </p><p>The notification popped up in the Instagram account of Georgia Godwin, Australia’s best gymnast. The comment from a follower midway through last year, on a video of her completing the difficult “Weiler” move on the uneven bars, made her think – why not add an extra rotation?</p><p>That thought, and hundreds of hours in the gym, has led the Queensland athlete to a place in the official rule book of world gymnastics. The “Godwin” was ratified this week, meaning it is now an official building block for routines on the uneven bar. Judges will mark it, and other gymnasts will aspire to it.</p> <a href="https://www.theguardian.com/sport/2023/nov/23/the-godwin-australian-gymnast-georgia-godwin-move-named-after-uneven-bars">Continue reading...</a>
+
+## Can tax cuts save the Tories? – podcast
+ - [https://www.theguardian.com/news/audio/2023/nov/23/can-tax-cuts-save-the-tories-podcast](https://www.theguardian.com/news/audio/2023/nov/23/can-tax-cuts-save-the-tories-podcast)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T03:00:45+00:00
+
+<p>Jeremy Hunt has offered up sweeping tax cuts in an attempt to jolt the UK economy back to life and salvage his party’s hopes of staying in power beyond the next election. Heather Stewart reports</p><p>Jeremy Hunt’s Treasury spent much of the past week hinting at tax cuts to come in the autumn statement, but the 2p reduction in national insurance still came as a surprise. It was packaged with tax cuts for businesses in what he called an “autumn statement for growth” worth £20bn.</p><p>But as <strong>Heather Stewart </strong>tells <strong>Nosheen Iqbal, </strong>Hunt also laid out a set of economic predictions that show flatlining economic growth for the next three years, coupled with real-terms spending cuts that critics say will put further pressure on struggling public services.</p> <a href="https://www.theguardian.com/news/audio/2023/nov/23/can-tax-cuts-save-the-tories-podcast">Continue reading...</a>
+
+## Cuba Gooding Jr sued for alleged sexual misconduct in NYC bars
+ - [https://www.theguardian.com/film/2023/nov/22/cuba-gooding-jr-alleged-sexual-misconduct-civil-case](https://www.theguardian.com/film/2023/nov/22/cuba-gooding-jr-alleged-sexual-misconduct-civil-case)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T01:33:26+00:00
+
+<p>After pleading guilty in criminal court, Gooding Jr again faces two plaintiffs who allege forcible kissing and groping</p><p>Cuba Gooding Jr was sued on Wednesday by two women whose sexual assault cases against the Oscar-winning actor underlay a criminal prosecution that ended with him pleading guilty but serving no jail time.</p><p>In a complaint filed in a New York state court in Manhattan, Jasmine Abbay said the Jerry Maguire star forcibly kissed her without her consent in September 2018, while she was working as a cocktail waitress at the Lavo nightclub in midtown Manhattan.</p> <a href="https://www.theguardian.com/film/2023/nov/22/cuba-gooding-jr-alleged-sexual-misconduct-civil-case">Continue reading...</a>
+
+## Canadian former intelligence chief found guilty of leaking state secrets
+ - [https://www.theguardian.com/world/2023/nov/23/cameron-ortis-canada-rcmp-royal-canadian-mounted-police](https://www.theguardian.com/world/2023/nov/23/cameron-ortis-canada-rcmp-royal-canadian-mounted-police)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T01:21:55+00:00
+
+<p>Cameron Ortis from RCMP convicted of violating Security of Information Act in one of Canada’s largest ever security breaches</p><p>A jury has found the <a href="https://www.theguardian.com/world/2019/sep/16/concern-mounts-after-canadas-ex-head-of-intelligence-accused-of-leaking">former head of the Royal Canadian Mounted Police intelligence unit</a> guilty of leaking state secrets, the first time a Canadian has been convicted under the country’s <a href="https://laws-lois.justice.gc.ca/eng/acts/o-5/">Security of Information Act</a></p><p>On Wednesday afternoon, jurors said Cameron Ortis was guilty of three counts of violating the act and one count of attempting to do so. They also found him guilty of breach of trust and fraudulent use of a computer.</p> <a href="https://www.theguardian.com/world/2023/nov/23/cameron-ortis-canada-rcmp-royal-canadian-mounted-police">Continue reading...</a>
+
+## Russia-Ukraine war at a glance: what we know on day 638
+ - [https://www.theguardian.com/world/2023/nov/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-638](https://www.theguardian.com/world/2023/nov/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-638)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T01:17:32+00:00
+
+<p>Ramstein group of Ukraine allies forms air defence coalition; German chancellor tells Putin on G20 video call to withdraw all troops</p><ul><li><a href="https://www.theguardian.com/world/russia+ukraine">See all our Russia-Ukraine war coverage</a></li></ul><p><strong>Volodymyr Zelenskiy has welcomed the formation by western allies on Thursday of a 20-nation coalition to boost Ukrainian air defences</strong>, “enabling our cities and villages to be better protected”.</p><p><strong>Zelenskiy said the group was formed at a virtual meeting of the Ramstein group examining Ukraine’s military needs</strong>. Germany said it and France would be taking on leading roles. “Not everything can be disclosed publicly at this time, but the <strong>Ukrainian air shield is becoming stronger every month</strong>,” Zelenskiy said.</p><p><strong>Lithuania said it delivered a new package of military aid to Ukraine comprising three million </strong><strong> </strong><strong>bullets, remote detonation sys
+
+## Jake Daniels calls Jordan Henderson’s move to Saudi Arabia ‘slap in the face’
+ - [https://www.theguardian.com/football/2023/nov/23/jake-daniels-jordan-henderson-saudi-arabia](https://www.theguardian.com/football/2023/nov/23/jake-daniels-jordan-henderson-saudi-arabia)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T01:06:27+00:00
+
+<ul><li>Blackpool forward came out as gay in May 2022</li><li>Daniels claims Henderson sent him message of support</li></ul><p>The Blackpool forward, Jake Daniels, has said it was a “slap in the face” when Jordan Henderson moved to play in Saudi Arabia.</p><p>Last year, Daniels became the first openly gay active British male professional footballer since Justin Fashanu in 1990. In <a href="https://www.bbc.co.uk/sport/football/67500698">an interview with the BBC’s Newsbeat</a>, Daniels claimed Henderson had messaged him to show his support afterwards, but that his decision to join Al-Ettifaq shows “money must mean more to people”.</p> <a href="https://www.theguardian.com/football/2023/nov/23/jake-daniels-jordan-henderson-saudi-arabia">Continue reading...</a>
+
+## Adviser warns UK government against tightening laws on glorifying terrorism
+ - [https://www.theguardian.com/world/2023/nov/23/adviser-warns-government-against-tightening-laws-glorifying-terrorism](https://www.theguardian.com/world/2023/nov/23/adviser-warns-government-against-tightening-laws-glorifying-terrorism)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T00:01:42+00:00
+
+<p>Independent reviewer says change could harm freedom of speech and further strain overtaxed security services</p><p>No 10 should not implement plans to amend the law on glorifying terrorism after the pro-Palestine marches as it would do “no favours” to police, MI5 or the probation service, a government adviser has said.</p><p>In a 15-page report submitted to the Home Office, Jonathan Hall KC, the government’s independent reviewer of terrorism legislation, said there was no need to respond to the marches with new terrorism legislation, adding that there was “good reason for caution” given both the risk of unintended consequences and the drain on limited state resources.</p> <a href="https://www.theguardian.com/world/2023/nov/23/adviser-warns-government-against-tightening-laws-glorifying-terrorism">Continue reading...</a>
+
+## Mobo Awards for music of black origin to be held in Sheffield Arena
+ - [https://www.theguardian.com/music/2023/nov/23/mobo-awards-for-music-of-black-origin-to-be-held-in-sheffield-arena](https://www.theguardian.com/music/2023/nov/23/mobo-awards-for-music-of-black-origin-to-be-held-in-sheffield-arena)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T00:01:42+00:00
+
+<p>Exclusive: Yorkshire city will host event for first time to bridge north-south divide in funding and exposure </p><p>Sheffield will be rolling out the red carpet for the Mobo Award for the first time, the Guardian can reveal.</p><p>The awards for music of black origin are set to be held at Sheffield Arena on 7 February, featuring as yet unnamed famous faces and some “surprises”.</p> <a href="https://www.theguardian.com/music/2023/nov/23/mobo-awards-for-music-of-black-origin-to-be-held-in-sheffield-arena">Continue reading...</a>
+
+## ‘Queen of Drury Lane’ Sarah Siddons celebrated in new play
+ - [https://www.theguardian.com/stage/2023/nov/23/sarah-siddons-actor-april-de-angelis-play-hampstead-theatre](https://www.theguardian.com/stage/2023/nov/23/sarah-siddons-actor-april-de-angelis-play-hampstead-theatre)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-11-23T00:01:42+00:00
+
+<p>April De Angelis comedy, to be premiered in Hampstead, explores life of actor at a time when married women were ‘legally dead’</p><p>She was known as the Queen of Drury Lane and the first truly respected female actor in theatre, achieving an astonishing level of celebrity at the end of the 18th century.</p><p>But despite her notoriety there are no contemporary biographies about Sarah Siddons, who was labelled by her contemporaries as “tragedy personified”.</p> <a href="https://www.theguardian.com/stage/2023/nov/23/sarah-siddons-actor-april-de-angelis-play-hampstead-theatre">Continue reading...</a>
+

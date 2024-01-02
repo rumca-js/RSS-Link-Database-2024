@@ -1,0 +1,37 @@
+# Source:Android Authority, URL:https://www.androidauthority.com/feed, language:en-US
+
+## Google Pixel Fold 2 wishlist: All the features I want to see
+ - [https://www.androidauthority.com/google-pixel-fold-2-3385460](https://www.androidauthority.com/google-pixel-fold-2-3385460)
+ - RSS feed: https://www.androidauthority.com/feed
+ - date published: 2023-11-26T19:00:22+00:00
+
+Here's what I'd like to see from the Google Pixel Fold 2.
+
+## This Samsung Galaxy Z Flip 5 Cyber Monday deal is too good to miss
+ - [https://www.androidauthority.com/samsung-galaxy-z-flip-5-deal-3389034](https://www.androidauthority.com/samsung-galaxy-z-flip-5-deal-3389034)
+ - RSS feed: https://www.androidauthority.com/feed
+ - date published: 2023-11-26T17:12:45+00:00
+
+There's $200 off the popular clamshell, with several old phones attracting a further $600 in trade-in credit.
+
+## Samsung appears to be copying the wrong bits from Apple
+ - [https://www.androidauthority.com/samsung-s24-ultra-flat-display-op-3386688](https://www.androidauthority.com/samsung-s24-ultra-flat-display-op-3386688)
+ - RSS feed: https://www.androidauthority.com/feed
+ - date published: 2023-11-26T17:00:35+00:00
+
+You can keep your bulky Pro Max, I want sleek from the Galaxy S24 Ultra.
+
+## T-Mobile Tuesdays used to be fantastic, but this year has been pretty weak
+ - [https://www.androidauthority.com/t-mobile-tuesdays-commentary-3388051](https://www.androidauthority.com/t-mobile-tuesdays-commentary-3388051)
+ - RSS feed: https://www.androidauthority.com/feed
+ - date published: 2023-11-26T15:00:06+00:00
+
+This year would suggest the golden years of T-Mobile Tuesdays are over.
+
+## The OnePlus Buds Pro 2 are my favorite gym buds
+ - [https://www.androidauthority.com/oneplus-buds-pro-2-gym-workout-3388698](https://www.androidauthority.com/oneplus-buds-pro-2-gym-workout-3388698)
+ - RSS feed: https://www.androidauthority.com/feed
+ - date published: 2023-11-26T13:00:11+00:00
+
+Great fit, bass-heavy sound, good noise cancelation – you can't go wrong with these.
+

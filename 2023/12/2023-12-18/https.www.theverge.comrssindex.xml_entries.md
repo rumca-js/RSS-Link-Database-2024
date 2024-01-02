@@ -1,0 +1,314 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Xfinity discloses a data breach — but doesn’t say how many users are affected
+ - [https://www.theverge.com/2023/12/18/24007082/xfinity-data-breach-hack-notice-citrix](https://www.theverge.com/2023/12/18/24007082/xfinity-data-breach-hack-notice-citrix)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T23:00:00+00:00
+
+<figure>
+      <img alt="A photo showing an Xfinity storefront" src="https://cdn.vox-cdn.com/thumbor/ujQ6EW82xVISHwRgpryub9PPSfI=/212x0:1562x900/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72976722/xfinity_storefront.0.jpg" />
+        <figcaption>Image: Xfinity</figcaption>
+    </figure>
+
+  <p id="PauvqS">Xfinity is notifying customers of a “data security incident” it says resulted in the theft of customer information, including usernames, passwords, contact information, and more. In <a href="https://www.businesswire.com/news/home/20231218979935/en/Notice-To-Customers-of-Data-Security-Incident/?feedref=JjAwJuNHiystnCoBq_hl-ZIz1O1B8UVb7QrtIDCNYZI-lntG1kLHH27Kp_y2Qu7lnkvYMqDDYxFrLs-oQ2BHQ5XPQetz4Tz-7Yd_3UBB9nQ13KS_bZVECSSZ9IWf414K8sRCOXUTF5l263AlMKAgPYCUI08ci6U-VB8CzvSRygOVCjvUUnrt_85FhHJrZO01">a notice on Monday</a>, Xfinity says “there was unauthorized access” to its systems from October 16th to October 19th, 2023.</p>
+<p id="iqwkBb">Xfinity traces the breach to a security vu
+
+## Pakistan’s former prime minister is using an AI voice clone to campaign from prison
+ - [https://www.theverge.com/2023/12/18/24006968/imran-khan-ai-pakistan-prime-minister-voice-clone-elevenlabs](https://www.theverge.com/2023/12/18/24006968/imran-khan-ai-pakistan-prime-minister-voice-clone-elevenlabs)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T22:41:53+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/NTEW0u-bSMj4czAm-pFugEGrlac=/308x0:1592x856/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72976673/Screen_Shot_2023_12_18_at_1.21.35_PM.0.png" />
+        <figcaption>YouTube</figcaption>
+    </figure>
+
+  <p id="fw0hw2">Former prime minister of Pakistan Imran Khan has been in prison since August for illegally selling <a href="https://www.reuters.com/world/asia-pacific/police-arrest-former-pm-imran-khan-after-court-gives-three-year-prison-sentence-2023-08-05/">state gifts</a> — but that hasn’t stopped him from campaigning. The leader’s political party released a <a href="https://www.theguardian.com/world/2023/dec/18/imran-khan-deploys-ai-clone-to-campaign-from-behind-bars-in-pakistan">four-minute video</a> on Sunday evening that used AI-voice cloning technology to replicate his voice. In the video, which aired during a “virtual rally” in Pakistan, the dubbed audio is accompanied by a caption that states, “AI voice of
+
+## Disney drops Marvel lead Jonathan Majors following assault verdict
+ - [https://www.theverge.com/2023/12/18/24007030/disney-jonathan-majors-marvel-fired-kang-conquerer](https://www.theverge.com/2023/12/18/24007030/disney-jonathan-majors-marvel-fired-kang-conquerer)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T22:40:56+00:00
+
+<figure>
+      <img alt="A photo showing Jonathan Majors as Kang the Conquerer" src="https://cdn.vox-cdn.com/thumbor/pQCVesuEIvdapvuuZb9LCxfydUs=/655x0:3186x1687/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72976671/jonathan_majors_kang_1.0.jpg" />
+        <figcaption>Image: Disney</figcaption>
+    </figure>
+
+  <p id="M2Z6m9">Disney has dropped Jonathan Majors from his leading Marvel role as Kang the Conqueror after he was found guilty of reckless assault in the third degree and of harassment, <a href="https://www.hollywoodreporter.com/movies/movie-news/marvel-drops-jonathan-majors-as-kang-1235391129/">according to <em>The Hollywood Reporter</em></a> and <a href="https://variety.com/2023/film/news/jonathan-majors-marvel-studios-dropped-kang-1235587971/"><em>Variety</em></a>. The verdict comes after a two-week trial following Majors’ arrest last March after an altercation with his ex-partner Grace Jabbari.</p>
+<p id="obO9Yb">Marvel had been setting up for Majors to be the next 
+
+## Game preservationists dig for lost apps in TestFlight ‘teraleak’
+ - [https://www.theverge.com/2023/12/18/24006406/testflight-teraleak-game-preservationists](https://www.theverge.com/2023/12/18/24006406/testflight-teraleak-game-preservationists)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T20:39:21+00:00
+
+<figure>
+      <img alt="Promotional art for Rovio Classics: Angry Birds." src="https://cdn.vox-cdn.com/thumbor/iiayoN25LyWeF3j823Zl95lyXbk=/173x0:2036x1242/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72976150/1NxZI0CgUFzQsrgXe69J88Hn6D8_wMok.0.jpg" />
+        <figcaption>Image: Rovio</figcaption>
+    </figure>
+
+  <p id="TXvnkC">A huge number of old mobile games and apps from TestFlight, which lets developers share in-development versions of their apps, have been discovered on the Internet Archive, <a href="https://www.eurogamer.net/apple-testflight-servers-from-2012-to-2015-leak-containing-terabytes-of-data">as reported by <em>Eurogamer</em></a>. The 1.2TB cache, which is being called the “teraleak,” could be a really big deal for preservationists, especially because many older apps are no longer available to download in any form.</p>
+<p id="n496gI">The apps are from “roughly” 2012 through 2015, according to an account on X (formerly Twitter) <a href="https://twitter.com/ter
+
+## New York City council member-elect used AI to answer questions
+ - [https://www.theverge.com/2023/12/18/24006544/new-york-city-councilwoman-elect-susan-zhuang-ai-response](https://www.theverge.com/2023/12/18/24006544/new-york-city-councilwoman-elect-susan-zhuang-ai-response)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T20:22:08+00:00
+
+<figure>
+      <img alt="An image showing a graphic of a brain on a black background" src="https://cdn.vox-cdn.com/thumbor/OZm3YLz060RgzoioumCYoO5Cu9E=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72976076/acastro_181017_1777_brain_ai_0001.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="Mqy6kn">Susan Zhuang, a Democrat who will soon represent the 43rd Council District in Brooklyn, New York, admitted to using AI when answering questions from a local news publication, <a href="https://nypost.com/2023/12/16/metro/nyc-councilwoman-elect-susan-zhuang-admits-to-quietly-using-ai-to-communicate-with-the-public-answer-media-questions/">according to a report by the <em>New York Post</em></a>. In a text message sent to the <em>Post</em>, Zhuang wrote that she uses “AI as a tool to help foster deeper understanding” because English is not her first language.</p>
+<p id="R1P131">The responses in question <a href="https:
+
+## Here are the shipping deadlines to get your holiday gifts on time
+ - [https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines](https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T19:26:44+00:00
+
+<figure>
+      <img alt="The Amazon Prime logo is displayed on the side of an Amazon delivery truck on June 21st, 2023, in Richmond, California." src="https://cdn.vox-cdn.com/thumbor/LkemFHHNB_pQScOAHHDSpsVI13A=/0x44:3105x2114/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71732360/1500412709.5.jpg" />
+        <figcaption><em>Amazon Prime members may be eligible for free same-day delivery.</em> | Photo by Justin Sullivan / Getty Images</figcaption>
+    </figure>
+
+  <p id="njT7FQ">The same thing happens year after year. Things get busy with work, school, and life in general until you’re suddenly up against the clock as you race your gifts to your local post office, FedEx store, or UPS location. We’ve all been there, but we’d like to be of some help as you plan your next move and begin sending out your holiday packages.</p>
+<div class="c-float-left c-float-hang"><aside id="A3FwvW"><div></div></aside></div>
+<p id="HvJvev">If you plan on sending your gifts via traditional mail, what
+
+## Nikola founder Trevor Milton sentenced to four years in prison in EV truck fraud case
+ - [https://www.theverge.com/2023/12/18/24006571/nikola-trevor-milton-sentence-prison-fraud-electric-truck](https://www.theverge.com/2023/12/18/24006571/nikola-trevor-milton-sentence-prison-fraud-electric-truck)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T19:03:11+00:00
+
+<figure>
+      <img alt="Sentencing of Nikola Founder Trevor Milton After Fraud Conviction" src="https://cdn.vox-cdn.com/thumbor/kBc4m4i8_BO7-hOZi8yBbjkD1Mo=/0x1:3032x2022/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72975790/1857947975.0.jpg" />
+    </figure>
+
+  <p id="p5NiZX">Trevor Milton, the founder and former CEO of electric truck company Nikola, was sentenced to four years in prison after <a href="https://www.theverge.com/2022/10/14/23405107/nikola-founder-trevor-milton-guilty-verdict-hydrogen-truck">a jury found him guilty</a> of misleading investors about the company’s technology. Milton was also ordered to pay a $1 million fine. </p>
+<p id="RjYJAg">Federal prosecutor said Milton had lied about Nikola’s capabilities, including an assertion that it had built its own electric truck, the Nikola One, from the “ground up.” They also <a href="https://www.theverge.com/2021/7/29/22599726/nikola-founder-securities-fraud-charge-milton">accused him of staging a video</a> that pu
+
+## Wrapped 2023: what you’ve been doing in every app, analyzed
+ - [https://www.theverge.com/23982575/spotify-wrapped-2023-apple-music-replay-youtube-music-recap](https://www.theverge.com/23982575/spotify-wrapped-2023-apple-music-replay-youtube-music-recap)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T18:28:23+00:00
+
+<figure>
+      <img alt="Simulated iPhone with exploded list of Spotify’s social media-ready tiles showing different arrangements of Top Artists and Songs" src="https://cdn.vox-cdn.com/thumbor/2TJUkeIGTn-1FjL_Srwbp8Y_XKU=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72916775/Summary_Share_Cards.0.jpg" />
+        <figcaption><em>Spotify Wrapped 2023 summaries</em> | Image: Spotify</figcaption>
+    </figure>
+
+  <p>You were listening, walking, and playing, and they were watching. Now Spotify and other apps are repackaging that data to recap your 2023.</p>
+  <p>
+    <a href="https://www.theverge.com/23982575/spotify-wrapped-2023-apple-music-replay-youtube-music-recap">Continue reading&hellip;</a>
+  </p>
+
+## Acura opens up reservations for all-electric ZDX SUV
+ - [https://www.theverge.com/2023/12/18/24006119/acura-zdx-reservation-ev-price-specs-performance](https://www.theverge.com/2023/12/18/24006119/acura-zdx-reservation-ev-price-specs-performance)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T18:00:00+00:00
+
+<figure>
+      <img alt="Acura ZDX electric SUV from the rear" src="https://cdn.vox-cdn.com/thumbor/yyMu-KDt1os3IxrXFSiPILWVPWo=/0x0:4935x3290/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72975491/02_2024_Acura_ZDX_Type_S.0.jpg" />
+        <figcaption>Image: Acura</figcaption>
+    </figure>
+
+  <p id="OKf9X9">Acura’s first fully electric vehicle is now available for customers to reserve, with the first deliveries scheduled for early 2024. </p>
+<p id="NpUvlt">The 2024 Acura ZDX starts at $60,000 and will come in several trims, including the base-model A-Spec, with single-motor rear-wheel drive. A more expensive Type S dual-motor powertrain with 500 horsepower starts at $70,000. <a href="https://www.theverge.com/2023/8/17/23835950/acura-zdx-ev-price-specs-photos-google-honda">Acura previously said</a> that the ZDX will get up to 325 miles of estimated range and have an operating system powered by Google.</p>
+<div class="c-float-left c-float-hang"><aside id="r8hs8K"><q>The 2024 Ac
+
+## Jeff Bezos wants Elon Musk to know Blue Origin is serious now
+ - [https://www.theverge.com/24001656/jeff-bezos-elon-musk-space-blue-origin-rivalry](https://www.theverge.com/24001656/jeff-bezos-elon-musk-space-blue-origin-rivalry)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T17:43:15+00:00
+
+<figure>
+      <img alt="Jeff Bezos is surrounded by abstract squiggles, on a background of stars. His biceps are demurely squirreled inside a suit." src="https://cdn.vox-cdn.com/thumbor/gkw9LlI-pWj1_30n4fDZbBHoPwo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72975375/VRG_Illo_STK173_L_Normand_JeffBezos_Neutral.0.jpg" />
+        <figcaption>He’s not a spaceman, he’s a... business, man. | Laura Normand / The Verge</figcaption>
+    </figure>
+
+  <p id="59S1So">I was about halfway through Lex Fridman’s interview with Jeff Bezos, which is longer than <em>Citizen Kane</em>, when I realized what Bezos was up to: this is a warning shot across SpaceX’s bow. “Blue Origin needs to be much faster,”<a href="https://youtu.be/DcWqzZ3I2cY?si=adEQl4y3Wzx9pe0S&amp;t=3428"> Bezos said</a>. “It’s one of the reasons I left my role as the CEO of Amazon a couple of years ago. I wanted to come in — Blue Origin needs me right now.” The goal, he said, was to make it clear that Blue Origi
+
+## Expedia wants to use AI to cut Google out of its trip-planning business
+ - [https://www.theverge.com/2023/12/18/24003416/expedia-travel-generative-ai-personalized-model](https://www.theverge.com/2023/12/18/24003416/expedia-travel-generative-ai-personalized-model)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T16:55:39+00:00
+
+<figure>
+      <img alt="Expedia Illustrations Ahead Of Earnings Figures" src="https://cdn.vox-cdn.com/thumbor/z2QDEMcAY2d0pDo0U18dGzVK75Y=/0x2:4000x2669/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72975077/1571834182.0.jpg" />
+    </figure>
+
+  <p id="6s4kHQ">Travel website Expedia wants to get people to start their travel search on its site with AI instead of using an external search engine.</p>
+<p id="K6rp5H">Expedia already uses AI for some customer service features and to help property owners describe their homes and hotels. The company hopes in the future that AI will help it recommend travel destinations to customers based on previous trips and bring more direct traffic to its site. It’s a long-term plan to shift the balance of power on the web — albeit one that’s still in its earliest stages for the company.</p>
+<p id="C7wxMe">Rajesh Naidu, chief architect and head of data management at Expedia, says the goal is to get users started on their trips in one place. Expedia
+
+## Flipboard is pivoting to ActivityPub and the fediverse
+ - [https://www.theverge.com/2023/12/18/24006062/flipboard-fediverse-mastodon-activitypub-profiles-social](https://www.theverge.com/2023/12/18/24006062/flipboard-fediverse-mastodon-activitypub-profiles-social)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T16:00:00+00:00
+
+<figure>
+      <img alt="Four screenshots of Mastodon posts, on Flipboard." src="https://cdn.vox-cdn.com/thumbor/WsrtfHBmxLOlgRGlRV_g2HbYKAY=/157x0:1444x858/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72974769/pasted_image_0.0.png" />
+        <figcaption><em>Flipboard has been experimenting with fediverse integration for months now.</em> | Image: Flipboard</figcaption>
+    </figure>
+
+  <p id="w1ipI1">Flipboard is taking its biggest step yet into the fediverse. The company <a href="https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa">announced on Monday</a> that it is beginning to switch its user accounts <a href="https://www.theverge.com/2023/4/20/23689570/activitypub-protocol-standard-social-network">to ActivityPub</a>, which means that everyone curating stuff on Flipboard is now doing so in a way that apps like Mastodon can see and interact with.</p>
+<p id="xvGfaq">Right now, only 25 accounts (including <em>The Verge</em>’s) have been federated with Activ
+
+## The best action game of 2023 is now selling for $20 off
+ - [https://www.theverge.com/2023/12/18/24005718/armored-core-vi-fires-of-rubicon-shokz-openrun-pro-deal-sale](https://www.theverge.com/2023/12/18/24005718/armored-core-vi-fires-of-rubicon-shokz-openrun-pro-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T15:43:33+00:00
+
+<figure>
+      <img alt="Screenshot from Armored Core VI Fires of Rubicon featuring two mechs fighting each other in a massive dilapidated factory." src="https://cdn.vox-cdn.com/thumbor/gJsrjfg8HnTvUu_yweEDHwxeoD0=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72974730/ezgif.com_webp_to_png__2_.0.png" />
+        <figcaption><em>One-on-one mech duels in </em>Armored Core VI<em> are a thing of beauty — and stress.</em> | Image: FromSoftware</figcaption>
+    </figure>
+
+  <p id="jXl7CJ">2023 has been filled wall to wall with great games, but one of the low-key best is now selling for its best price. FromSoftware’s <em><strong>Armored Core VI Fires of Rubicon</strong></em> is available in disc form for $39.99 ($20 off) at Amazon (<a href="https://www.amazon.com/Armored-Core-VI-Fires-Rubicon-PlayStation/dp/B0BX4KZ5PJ?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank">PS5</a> / <a href="https://www.amazon.com/Armored-Core-VI-Fires-Rubicon-PlayStation/
+
+## Netflix’s The Kitchen turns London into a cyberpunk dystopia in new trailer
+ - [https://www.theverge.com/24006099/netflix-the-kitchen-trailer-release-date](https://www.theverge.com/24006099/netflix-the-kitchen-trailer-release-date)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T15:08:22+00:00
+
+<figure>
+      <img alt="A still photo from the Netflix film The Kitchen." src="https://cdn.vox-cdn.com/thumbor/Z5mqrhCpV3kNZuTVEr6YIbwVmok=/0x0:5045x3363/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72974594/The_Kitchen_Izi_Benji.0.jpg" />
+        <figcaption>Image: Chris Harris / Netflix</figcaption>
+    </figure>
+
+  <p id="DEMKtm">Netflix is kicking off 2024 with a vision of our dystopic future. The streamer just released a new trailer for <em>The Kitchen</em>, which imagines a near-future version of London, complete with reckless biker gangs and lots of holographic displays to complete the cyberpunk look. The film is helmed by Kibwe Tavares and Daniel Kaluuya (who also serves as co-writer and co-producer) and starts streaming on January 19th, 2024.</p>
+<p id="1GGSvw">According to Netflix’s description, in this version of London “the gap between rich and poor has been stretched to its limits,” which leads to the titular setting of the movie.</p>
+<blockquote><p id="2ptXNf">A
+
+## Southwest Airlines fined $140 million for holiday meltdown that stranded millions
+ - [https://www.theverge.com/2023/12/18/24006045/southwest-fined-dot-holiday-delays-fund](https://www.theverge.com/2023/12/18/24006045/southwest-fined-dot-holiday-delays-fund)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T15:06:35+00:00
+
+<figure>
+      <img alt="Southwest Airlines passengers at an airport in Texas" src="https://cdn.vox-cdn.com/thumbor/CnPGmU40aOJZYbYw_OskeEZmKgc=/0x0:5000x3333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72974592/1806446824.0.jpg" />
+        <figcaption>Image: Jason Fochtman / Houston Chronicle via Getty Images</figcaption>
+    </figure>
+
+  <p id="EkZChM">Southwest Airlines is facing a $140 million fine after last year’s holiday meltdown left millions of passengers stranded at airports across the US. On Monday, <a href="https://www.transportation.gov/briefing-room/dot-penalizes-southwest-airlines-140-million-2022-holiday-meltdown">the Department of Transportation announced</a> it’s imposing the civil penalty over “numerous violations of consumer protection laws” during and after the mass cancellations.</p>
+<p id="OopHxN">Following an investigation, the DOT found Southwest failed to “provide adequate customer service assistance,” stating passengers stranded at airports were met
+
+## Apple to pull Apple Watch Series 9 and Ultra 2 this week due to ITC ban
+ - [https://www.theverge.com/2023/12/18/24006080/apple-watch-ban-series-9-ultra-2-itc-import](https://www.theverge.com/2023/12/18/24006080/apple-watch-ban-series-9-ultra-2-itc-import)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T14:51:14+00:00
+
+<figure>
+      <img alt="Apple Watch Ultra 2 and Series 9" src="https://cdn.vox-cdn.com/thumbor/hYQMr3b2wuBC0nz7P1SKFjqa4Tk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72974504/236790_Apple_watch_9_Ultra_2_AKrales_0264.0.jpg" />
+        <figcaption><em>Apple will pause selling the Series 9 and Ultra 2 starting December 21st.</em> | Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="9srBXV">After 3PM ET on December 21st, you won’t be able to buy the <a href="https://www.theverge.com/23878981/apple-watch-series-9-ultra-2-review-double-tap-precision-finding-siri">Apple Watch Series 9 or Ultra 2</a>. The last day for pickup or delivery of these models from Apple’s retail stores is December 24th. The reason? The company says it’s to preemptively comply with an ITC import ban following a patent dispute with medical device maker Masimo over its SpO2 sensor. </p>
+<p id="gBQ9LI">The news was <a href="https://9to5mac.com/2023/12/18/apple-hal
+
+## US lawmakers push DOJ to investigate Apple following Beeper shutdowns
+ - [https://www.theverge.com/2023/12/18/24006037/apple-beeper-doj-investigation-imessage-letter-android](https://www.theverge.com/2023/12/18/24006037/apple-beeper-doj-investigation-imessage-letter-android)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T14:44:31+00:00
+
+<figure>
+      <img alt="The chats show messages in blue bubbles." src="https://cdn.vox-cdn.com/thumbor/Pjt59sIdUTMFq7PI2Zi3eglo9rA=/1x0:5500x3666/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72974483/beepermini.0.jpg" />
+        <figcaption>Image: Beeper</figcaption>
+    </figure>
+
+  <p id="RZkXsT">Following a tumultuous few weeks for Beeper, which has been trying to provide an iMessage-compatible Android app, a group of US lawmakers are pushing for the DOJ to investigate Apple for “potentially anticompetitive conduct” over its attempts to disable Beeper’s services. Senators Amy Klobuchar (D-MN) and Mike Lee (R-UT) as well as Representatives Jerry Nadler (D-NY) and Ken Buck (R-CO) said in a letter to the DOJ that Beeper’s Android messaging app, Beeper Mini, was a threat to Apple’s leverage by “creating [a] more competitive mobile applications market, which in turn [creates] a more competitive mobile device market.”</p>
+<p id="IsWEKA">In an <a href="https://twitter.com/CBSMorn
+
+## Eve’s new smart outlet has Matter, Thread, and energy monitoring
+ - [https://www.theverge.com/2023/12/18/24003299/eve-matter-thread-wall-outlet-energy-monitoring](https://www.theverge.com/2023/12/18/24003299/eve-matter-thread-wall-outlet-energy-monitoring)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T14:00:00+00:00
+
+<figure>
+      <img alt="A room with a lamp plugged into a smart wall outlet." src="https://cdn.vox-cdn.com/thumbor/R2Ng_V8r08v9557l8lGvNA6KfJA=/1128x418:5877x3584/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72974385/NA_Eve_Energy_Outlet_Lifestyle_02.0.jpg" />
+        <figcaption><em>Eve is releasing a Thread smart switch that works with the Matter smart home standard.</em> | Image: Eve Systems</figcaption>
+    </figure>
+
+  <p id="1bpqB1">There’s finally a Thread-enabled, Matter-compatible wall outlet, and it has energy monitoring! (But there’s a catch). Today, <a href="https://www.theverge.com/2021/12/10/22827727/eve-matter-thread-upgrade-smart-shades-release-date">Eve Systems</a>, maker of the <a href="https://www.theverge.com/23899810/best-smart-plugs">excellent Eve Energy smart plug</a>, announced the Eve Energy Outlet, which will launch on February 6th, 2024. As a <a href="https://www.theverge.com/22832127/matter-smart-home-products-thread-wifi-explainer">Matter</a> devi
+
+## The Verge’s favorite books from 2023
+ - [https://www.theverge.com/23971310/verge-2023-favorite-books](https://www.theverge.com/23971310/verge-2023-favorite-books)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T13:30:00+00:00
+
+<figure>
+      <img alt="Vector photo collage showing the book “Number Go Up” by Zeke Faux" src="https://cdn.vox-cdn.com/thumbor/o0rh8piR40TuyXcl3kSFTAA4sDE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72974284/236889_EOY_BOOKS_CVirginia.0.jpg" />
+        <figcaption>The Verge / Photo Courtesy of Apple Books</figcaption>
+    </figure>
+
+  <p id="8E6LN9">There are podcasts, videos, games, live performances — and then there are books, one of the oldest and still most popular ways to learn something new or escape (at least temporarily) from today’s troubled world. We asked the staff of <em>The Verge</em> what their favorite reads were over the last year. Their answers ranged from science fiction novels to autobiographies to lessons on how to draw and an examination of the addiction of gambling.</p>
+<p id="5oz4Hb">Read on, and see if there’s anything here that you may want to check out during the holidays. </p>
+<h2 id="oFILlv"><a href="https://www.amazon.com/Thar-She
+
+## Adobe abandons $20 billion acquisition of Figma
+ - [https://www.theverge.com/2023/12/18/24005996/adobe-figma-acquisition-abandoned-termination-fee](https://www.theverge.com/2023/12/18/24005996/adobe-figma-acquisition-abandoned-termination-fee)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T13:11:32+00:00
+
+<figure>
+      <img alt="An illustration of Adobe and Figma logos." src="https://cdn.vox-cdn.com/thumbor/S9jkGW0gM4MChcOt1y3CvTpVABM=/233x0:1358x750/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72974233/64a0c70caee4d6089d1b03fa40958aa84422f7bf_2120x1000.0.png" />
+        <figcaption>The merger between Adobe and Figma was announced in September 2022. | Image: Figma</figcaption>
+    </figure>
+
+  <p id="zo2BFF">Following mounting pressure from regulators in the <a href="https://www.theverge.com/2023/11/28/23979260/adobe-figma-bid-uk-watchdog-cma-provisional-findings-merger">UK </a>and <a href="https://www.theverge.com/2023/11/20/23961096/adobe-figma-acquisition-antitrust-eu-statement-of-objections">EU</a>, Adobe and Figma announced on Monday that both companies are mutually terminating their merger agreement, which would have seen Adobe acquire the <a href="https://www.theverge.com/2022/9/15/23354532/adobe-figma-acquisition-20-billion-official">Figma product design platform for $
+
+## 2023 in smartwatches: the Googlefication of Fitbit
+ - [https://www.theverge.com/23972335/smartwatches-2023-fitbit-google-integration](https://www.theverge.com/23972335/smartwatches-2023-fitbit-google-integration)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T13:00:00+00:00
+
+<figure>
+      <img alt="Vector collage including a photo of a Fitbit Charge 6." src="https://cdn.vox-cdn.com/thumbor/EB6mhW4O1RAGRs-sY4y5vx6FsLc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72974169/236889_EOY_FITBIT_CVirginia.0.jpg" />
+        <figcaption>The Verge / Photo by Amelia Holowaty Krales</figcaption>
+    </figure>
+
+  <p id="PbF71H">This year has been a relatively quiet one for smartwatches. It makes sense. <a href="https://www.theverge.com/23488653/2022-android-smartwatches-wear-os">The smartwatch renaissance of 2022</a> was always going to be a hard act to follow, let alone top. But among the slew of iterative updates, there was <em>one</em> thing that kept catching my eye: the <a href="https://www.theverge.com/2023/10/13/23914675/google-fitbit-integration-pixel-watch-2-server-outage">messy Googlefication of Fitbit</a>.</p>
+<p id="fCkBgh">Basically, Google, which owns Fitbit, spent this year taking two steps forward before shooting itself in the fo
+
+## Adobe refuses to compromise on its bid for Figma
+ - [https://www.theverge.com/2023/12/18/24005975/adobe-figma-merger-cma-investigation-refuse-remediations](https://www.theverge.com/2023/12/18/24005975/adobe-figma-merger-cma-investigation-refuse-remediations)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T12:36:17+00:00
+
+<figure>
+      <img alt="An illustration containing black Adobe logos in front of white Figma logos on a red background." src="https://cdn.vox-cdn.com/thumbor/5iDCAa4na4heg8IPzNBJjj785kg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72974141/STK251_Figma_Adobe_K_Radtke_01.0.jpg" />
+        <figcaption><em>The CMA has a deadline of February 25th to make a final decision.</em> | Illustration by Kristen Radtke / The Verge</figcaption>
+    </figure>
+
+  <p id="nXPupj"><em><strong>Update December 18th, 8:30AM ET:</strong></em><em> Adobe and Figma announced they have terminated their merger agreement — </em><a href="https://www.theverge.com/2023/12/18/24005975/adobe-figma-merger-cma-investigation-refuse-remediations"><em>get all the latest details here</em></a><em>. Our original article follows below.</em></p>
+<p id="bhGqOl">Adobe is, unsurprisingly, standing its ground after the UK’s competition watchdog <a href="https://www.theverge.com/2023/11/28/23979260/adobe-figma
+
+## How May Mobility went fully driverless while avoiding the pitfalls of robotaxis
+ - [https://www.theverge.com/24001741/may-mobility-driverless-service-microtransit-robotaxi](https://www.theverge.com/24001741/may-mobility-driverless-service-microtransit-robotaxi)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T10:00:00+00:00
+
+<figure>
+      <img alt="May Mobility autonomous vehicle in the desert" src="https://cdn.vox-cdn.com/thumbor/lYuZx-ZHrX2OWHq_ypCHYE1gtk0=/313x0:3688x2250/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72973934/May_Mobility_Sun_City_.0.jpeg" />
+        <figcaption>Image: May Mobility</figcaption>
+    </figure>
+
+  <p id="vCDfZO">You probably haven’t heard of autonomous vehicle operator May Mobility because the Ann Arbor, Michigan-based company is exceptionally good at avoiding the types of headlines generated by other AV companies. </p>
+<p id="3pqhXO">In its six years in operation, there haven’t been any injuries, crashes, blocked intersections, or mass layoffs. While there have been some struggles, the company has proven to be an outlier among AV operators by <a href="https://maymobility.com/posts/may-mobility-series-d-investment/">continuing to raise money</a> while others have seen <a href="https://news.crunchbase.com/transportation/autonomous-vehicle-startups-vc-funding/">thei
+
+## Look closely, and you’ll find America’s ‘climate abandonment areas’
+ - [https://www.theverge.com/2023/12/18/24003005/flood-risk-migration-climate-change-abandonment-areas](https://www.theverge.com/2023/12/18/24003005/flood-risk-migration-climate-change-abandonment-areas)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-18T10:00:00+00:00
+
+<figure>
+      <img alt="A small dog walks down the street past garbage piled high in front of homes." src="https://cdn.vox-cdn.com/thumbor/BIYOjAaa4RfA0gsqd0vdYACl6ZA=/0x0:4500x3000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72973929/841376580.0.jpg" />
+        <figcaption><em>A dog passes a pile of destroyed items that were removed from a once flooded home as residents begin the recovery process from Hurricane Harvey August 31, 2017 in Houston, Texas.</em> | Photo credit should read BRENDAN SMIALOWSKI/AFP via Getty Images</figcaption>
+    </figure>
+
+  <p id="FBByFE">More than 16 million people in the contiguous US — roughly 5 percent of the population —  live in a place with heightening flood risk and a shrinking population, according to new research. It makes the case that “climate abandonment areas” are becoming a more prevalent phenomenon in the US as people avoid places particularly vulnerable to climate-related disasters.</p>
+<p id="bXbJZb">What’s a climate abandonmen
+

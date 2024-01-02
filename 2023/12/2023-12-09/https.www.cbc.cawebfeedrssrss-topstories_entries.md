@@ -1,0 +1,100 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## University of Pennsylvania president resigns amid backlash over Congress antisemitism testimony
+ - [https://www.cbc.ca/news/world/university-of-pennsylvania-president-resigns-antisemitism-1.7054633?cmp=rss](https://www.cbc.ca/news/world/university-of-pennsylvania-president-resigns-antisemitism-1.7054633?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T17:38:14+00:00
+
+<img alt="A person is seen listening while seated with a microphone." height="349" src="https://i.cbc.ca/1.7054635.1702160810!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1833214797.jpg" title="WASHINGTON, DC - DECEMBER 05: Liz Magill, President of University of Pennsylvania, testifies before the House Education and Workforce Committee at the Rayburn House Office Building on December 05, 2023 in Washington, DC. The Committee held a hearing to investigate antisemitism on college campuses. (Photo by Kevin Dietsch/Getty Images)" width="620" /><p>Liz Magill was one of three presidents of top universities who were criticized after they testified at a congressional hearing about a rise in antisemitism on college campuses following the outbreak of the Israel-Hamas war.</p>
+
+## Colleagues hail appointment of 1st Indigenous B.C. Chief Justice in court's history
+ - [https://www.cbc.ca/news/canada/british-columbia/indigenous-chief-justice-bc-1.7054542?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/indigenous-chief-justice-bc-1.7054542?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T16:57:47+00:00
+
+<img alt="A man wearing a suit with a colourful pin on it smiles." height="349" src="https://i.cbc.ca/1.7054573.1702150694!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/leonard-marchand.jpg" title="Leonard Marchand is the son of former MP and cabinet minister Len Marchand, a man who also fought for Indigenous rights and was the first First Nations man to serve in federal cabinet." width="620" /><p>Colleagues and friends are praising the appointment of Leonard Marchand, the first Indigenous chief justice in B.C. history, calling it a historic moment that could advance Indigenous rights.</p>
+
+## Blue Jays miss out as Shohei Ohtani agrees to 10-year, $700M US contract with Dodgers
+ - [https://www.cbc.ca/sports/baseball/mlb/shohei-ohtani-free-agency-december-8-1.7053061?cmp=rss](https://www.cbc.ca/sports/baseball/mlb/shohei-ohtani-free-agency-december-8-1.7053061?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T15:25:39+00:00
+
+<img alt="x" height="349" src="https://i.cbc.ca/1.7054602.1702153597!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1525507322.jpg" title="The Dodgers were the early favourites to land Shohei Ohtani (17) but some analysts had Toronto emerging as a strong contender after the Japanese star reportedly visited the Blue Jays&apos; spring training facility in Dunedin, Fla." width="620" /><p>Shohei Ohtani has opted to stay in southern California, and the Toronto Blue Jays have missed out on landing a generational talent.</p>
+
+## Shohei Ohtani agrees to 10-year, $700M US contract with Dodgers — sorry Toronto fans
+ - [https://www.cbc.ca/sports/baseball/mlb/shohei-ohtani-dodgers-historic-contract-1.7053061?cmp=rss](https://www.cbc.ca/sports/baseball/mlb/shohei-ohtani-dodgers-historic-contract-1.7053061?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T15:25:39+00:00
+
+<img alt="x" height="349" src="https://i.cbc.ca/1.7054602.1702153597!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1525507322.jpg" title="The Dodgers were the early favourites to land Shohei Ohtani (17) but some analysts had Toronto emerging as a strong contender after the Japanese star reportedly visited the Blue Jays&apos; spring training facility in Dunedin, Fla." width="620" /><p>Shohei Ohtani has opted to stay in Southern California, and the Toronto Blue Jays have missed out on landing a generational talent. The unrestricted free agent announced on his Instagram account on Saturday that he has signed a contract with the Los Angeles Dodgers.</p>
+
+## McGill, Concordia and Bishop's present counter-offer on tuition hikes to Quebec government
+ - [https://www.cbc.ca/news/canada/montreal/quebec-english-universities-table-second-offer-tuition-hikes-1.7054569?cmp=rss](https://www.cbc.ca/news/canada/montreal/quebec-english-universities-table-second-offer-tuition-hikes-1.7054569?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T15:12:29+00:00
+
+<img alt="school" height="349" src="https://i.cbc.ca/1.6999482.1697583032!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/que-tuition-fees-20231013.jpg" title="McGill University will suffer &apos;serious consequences&apos; if tuition rates are hiked for out-of-province students, according to The institution&apos;s principal and vice-chancellor, Deep Saini." width="620" /><p>English universities in Quebec are presenting a new counter-offer to the provincial government in hopes to change its plan to hike tuition costs next fall. They want the government to push back the hikes to 2025, have a three-tier tuition system and more French classes.</p>
+
+## Texas Supreme Court temporarily blocks woman from getting emergency abortion
+ - [https://www.cbc.ca/news/world/texas-abortion-blocked-kate-cox-1.7054453?cmp=rss](https://www.cbc.ca/news/world/texas-abortion-blocked-kate-cox-1.7054453?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T09:45:12+00:00
+
+<img alt="A pregnant woman poses with her hand on her stomach." height="349" src="https://i.cbc.ca/1.7054458.1702131141!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kate-cox-with-16x9-white-background.jpg" title="This image provided by Kate Cox shows Kate Cox. A Texas judge has given the pregnant woman whose fetus had a fatal diagnosis permission to get an abortion in an unprecedented challenge to the state’s ban that took effect after Roe v. Wade was overturned last year. It was unclear Thursday, Dec. 7, 2023 how quickly or whether Kate Cox, a 31-year-old mother of two from the Dallas area, will be able to obtain an abortion. State District Judge Maya Guerra Gamble says she will grant a temporary restraining order that will allow Cox to have an abortion. (Kate Cox via AP)" width="620" /><p>The Texas Supreme Court temporarily blocked a pregnant woman from obtaining an emergency abortion on Friday, shortly after the state's attorney general requested the block.</p>
+
+## The ‘Olympics of choral music’: St. John’s to host HarbourVoices
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/the-olympics-of-choral-music-st-john-s-to-host-harbourvoices-1.7053349?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/the-olympics-of-choral-music-st-john-s-to-host-harbourvoices-1.7053349?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T04:30:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/235/919/choir.jpg" title="" width="620" /><p>The event starts on June 29, 2024 and bills itself as “a six-day ocean wave of singing, songs, stories, and sharing” through diversity and traditions, with homegrown talent taking centre stage.</p>
+
+## Bariatric surgery saved my life. But it wasn't the 'easy' way out of weight loss
+ - [https://www.cbc.ca/news/canada/first-person-bariatric-surgery-1.7044600?cmp=rss](https://www.cbc.ca/news/canada/first-person-bariatric-surgery-1.7044600?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T04:00:00+00:00
+
+<img alt="A photo of a smiling woman with an orange wash over the image. Angry speech bubbles surround her." height="349" src="https://i.cbc.ca/1.7044607.1701324708!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mireille-cadet.jpg" title="Mireille Cadet thought getting bariatric surgery was going to be hard physically. But she wasn’t prepared to face backlash from people who thought she was cheating her way through weight loss." width="620" /><p>Mireille Cadet thought getting bariatric surgery was going to be hard physically. But she wasn’t prepared to face backlash from people who thought she was cheating her way through weight loss.</p>
+
+## Confused by The Boy and the Heron? Read this
+ - [https://www.cbc.ca/news/entertainment/boy-and-the-heron-review-1.7053395?cmp=rss](https://www.cbc.ca/news/entertainment/boy-and-the-heron-review-1.7053395?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T04:00:00+00:00
+
+<img alt="A cartoon image of a boy is shown. He has an angry, determined look on his face. He is standing outdoors with trees and a house visible behind him. There is a bandage on the side of his head. " height="349" src="https://i.cbc.ca/1.7053429.1702056362!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/boy-and-the-heron.jpg" title="Studio Ghibli&apos;s newest film, The Boy and the Heron, has a convoluted backstory — and convoluted plot. Still, it is a towering work of achievement. " width="620" /><p>Studio Ghibli's newest movie is a lesson in puzzling weirdness, stemming from virtually every aspect of its making.  But despite everything working against The Boy and the Heron, there is a beautiful logic under the surface.</p>
+
+## Deal to lower Visa, Mastercard processing fees will come up short for many retailers, critics say
+ - [https://www.cbc.ca/news/business/credit-card-fees-deal-1.7053044?cmp=rss](https://www.cbc.ca/news/business/credit-card-fees-deal-1.7053044?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T04:00:00+00:00
+
+<img alt="A Visa credit card sticking out of an Interac machine. " height="349" src="https://i.cbc.ca/1.6607015.1672953932!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/visa-card.jpg" title="Following a class-action lawsuit settlement earlier this year, merchants and other businesses in Canada are now allowed to levy a surcharge on customers who make purchases with a credit card. Merchants had been forbidden from passing on the cost of doing business with card providers." width="620" /><p>The federal government says it has hammered out the final details with Visa and Mastercard to lower credit card transaction fees for merchants, but small business advocates say the deal doesn't go nearly far enough.</p>
+
+## Here's why food waste is a major climate change issue
+ - [https://www.cbc.ca/news/science/food-waste-emissions-1.7050863?cmp=rss](https://www.cbc.ca/news/science/food-waste-emissions-1.7050863?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T04:00:00+00:00
+
+<img alt="Rotten food such as tomatoes, grapes, apples and lettuce are shown." height="349" src="https://i.cbc.ca/1.7051064.1701894550!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/food-waste.jpeg" title="More than a third of food produced is wasted globally, contributing to eight to 10 per cent of greenhouse gas emissions." width="620" /><p>One source of significant emissions that many believe needs to be addressed is food waste, which produces eight to 10 per cent of global greenhouse gases.</p>
+
+## McDonald's eyes record global expansion in coming years, with more focus on delivery
+ - [https://www.cbc.ca/news/business/mcdonalds-expansion-plans-canada-global-1.7053661?cmp=rss](https://www.cbc.ca/news/business/mcdonalds-expansion-plans-canada-global-1.7053661?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T04:00:00+00:00
+
+<img alt="A sign for the U.S. fast food restaurant chain McDonald&apos;s is seen outside one of their restaurants in Sint-Pieters-Leeuw, near Brussels, Belgium September 5, 2023." height="349" src="https://i.cbc.ca/1.7053702.1702065494!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/golden-arches-logo-of-mcdonald-s-is-seen-at-location-near-brussels-belgium.JPG" title="A sign for the U.S. fast food restaurant chain McDonald&apos;s is seen outside one of their restaurants in Sint-Pieters-Leeuw, near Brussels, Belgium September 5, 2023." width="620" /><p>McDonald's also intends to use a combination of technology and a greater focus on its delivery capabilities to better serve customers in the years ahead.</p>
+
+## U.S. 'beginning' internal discussions about renewing North American trade pact
+ - [https://www.cbc.ca/news/world/ambassador-cohen-anniversary-interview-1.7053976?cmp=rss](https://www.cbc.ca/news/world/ambassador-cohen-anniversary-interview-1.7053976?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T04:00:00+00:00
+
+<img alt="Profile shot of man in suit speaking at podium" height="349" src="https://i.cbc.ca/1.7054064.1702112948!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/us-ambassador-20231107.JPG" title="David Cohen shared his impressions, in an interview with CBC News, on the second anniversary since he became U.S. ambassador to Canada." width="620" /><p>For anyone with lingering night terrors from the last renegotiation of NAFTA, the notion of reopening the pact might evoke that classic line from a horror sequel: It's baaaaa-aaaack. But this time is different, says the U.S. envoy to Canada. On his second anniversary in Ottawa, David Cohen says he's heartened by the constructive mood.</p>
+
+## Want to hear the wonder of deep space? This music is made from NASA's telescope data
+ - [https://www.cbc.ca/radio/thecurrent/nasa-composer-space-data-turned-into-music-1.7052315?cmp=rss](https://www.cbc.ca/radio/thecurrent/nasa-composer-space-data-turned-into-music-1.7052315?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-09T04:00:00+00:00
+
+<img alt="An image of the centre of the Milky Way galaxy, star systems and other space phenomena are rendered in colours of red, purple and blue." height="349" src="https://i.cbc.ca/1.7052857.1701999664!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nasa-s-great-observatories-examine-the-galactic-center-region.jpg" title="Data from NASA&apos;s Great Observatories has been combined to produce this unprecedented image of the central region of the Milky Way.  Near-infrared light from Hubble (yellow) outlines energetic regions where stars are being born.  Infrared data from Spitzer (red) show glowing clouds of dust containing complex structures.  And, X-rays from Chandra (blue and violet) reveal gas heated to millions of degrees by stellar explosion and outflows from the Galaxys supermassive black hole." width="620" /><p>A Montreal composer has collaborated with NASA to translate scientific data from deep space into music.</p>
+

@@ -1,0 +1,156 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Rescued: How Indian miners escaped a collapsed tunnel
+ - [https://www.cbc.ca/news/canada/rescued-how-indian-miners-escaped-a-collapsed-tunnel-1.7042956?cmp=rss](https://www.cbc.ca/news/canada/rescued-how-indian-miners-escaped-a-collapsed-tunnel-1.7042956?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T18:41:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/618/379/1-at-rescue-281123.jpg" title="" width="620" /><p>After 17 days, Indian rescuers have pulled out all 41 construction workers trapped inside a collapsed tunnel in the Himalayas. Andrew Chang goes through a step-by-step breakdown of the dangerous rescue efforts and the limited space in which they had to work.</p>
+
+## Jail official felt Faqiri didn't meet bar for hospital, refused to watch video taken as he deteriorated
+ - [https://www.cbc.ca/news/canada/toronto/soleiman-faqiri-inquest-day-7-1.7042556?cmp=rss](https://www.cbc.ca/news/canada/toronto/soleiman-faqiri-inquest-day-7-1.7042556?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T18:30:35+00:00
+
+<img alt="Before the altercation with guards, Faqiri was being transferred to the jail&apos;s maximum segregation unit, known as &quot;8-seg.&quot; At the farthest end of the hallway is cell B-10, where he was supposed to be housed until his mental health assessment." height="349" src="https://i.cbc.ca/1.5675270.1700505385!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/central-east-correctional-faqiri-cell.JPG" title="Before the altercation with guards, Faqiri was being transferred to the jail&apos;s maximum segregation unit, known as &quot;8-seg.&quot; At the farthest end of the hallway is cell B-10, where he was supposed to be housed until his mental health assessment. " width="620" /><p>The top health care official at the jail where Soleiman Faqiri died didn't feel he met the bar for her to send him to hospital and refused to watch a video taken by a guard capturing his decline in segregation, a coroner's inquest heard Tuesday. That official had no medical background. </p
+
+## The Last of Us was the largest series filmed in Canada, Motion Picture Association says
+ - [https://www.cbc.ca/news/canada/calgary/last-of-us-hbo-canada-motion-picture-association-1.7042722?cmp=rss](https://www.cbc.ca/news/canada/calgary/last-of-us-hbo-canada-motion-picture-association-1.7042722?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T18:25:02+00:00
+
+<img alt="Still frame from the tv series The Last Of Us. Pedro Pascal steps in front of Bella Ramsey, holding her arm in a protective gesture. Pedro wears a khaki green work jacket and Bella wears a pink hoodie." height="349" src="https://i.cbc.ca/1.6769575.1678126841!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/the-last-of-us.jpeg" title="Bella Ramsey as Ellie and Pedro Pascal as Joel in HBO&apos;s The Last Of Us." width="620" /><p>The fake fungus and film sets that took over Alberta during filming of The Last of Us generated a whopping $141 million for the province, according to new data. </p>
+
+## U.S. agency found 'no wrongdoing' after probing claim agents ferried migrants to Canadian border
+ - [https://www.cbc.ca/news/canada/us-canada-probe-border-1.7042657?cmp=rss](https://www.cbc.ca/news/canada/us-canada-probe-border-1.7042657?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T17:58:05+00:00
+
+<img alt="Two people stand in the snow with bags and luggage in front of a police officer. " height="349" src="https://i.cbc.ca/1.6910431.1689716790!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/que-roxham-road-20230325.JPG" title="An RCMP officer stops people as they enter Canada via Roxham road on the Canada/US border in Hemmingford, Que., on March 25, 2023. " width="620" /><p>U.S. border authorities say they found “no wrongdoing” following a months-long internal probe into allegations U.S. border agents moonlighted by driving migrants seeking to enter Canada to the now-shuttered Roxham Road crossing in Quebec. </p>
+
+## Liberals announce legislation to set stage for digital services tax
+ - [https://www.cbc.ca/news/politics/digitas-services-tax-coming-competition-1.7042662?cmp=rss](https://www.cbc.ca/news/politics/digitas-services-tax-coming-competition-1.7042662?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T16:49:12+00:00
+
+<img alt="Displays of the logos of technology companies." height="349" src="https://i.cbc.ca/1.5755803.1697915622!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fang-tech-stocks-faang.jpg" title="The logos for Facebook Inc., Amazon.com Inc., Netflix Inc. and Google, a unit of Alphabet Inc., sit on smartphone and tablet devices in this arranged photograph in London, U.K., on Monday, Aug. 20, 2018. The NYSE FANG+ Index is an equal-dollar weighted index designed to represent a segment of the technology and consumer discretionary sectors consisting of highly-traded growth stocks of technology and tech-enabled companies. Photographer: Jason Alden/Bloomberg" width="620" /><p>The Liberal government announced legislation Tuesday that will pave the way for the implementation of a digital services tax, but it contains no date for when the tax will come into effect.</p>
+
+## How long can this go on for? We try to answer key Quebec strike questions
+ - [https://www.cbc.ca/news/canada/montreal/strikes-q-and-a-1.7042322?cmp=rss](https://www.cbc.ca/news/canada/montreal/strikes-q-and-a-1.7042322?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T15:59:20+00:00
+
+<img alt="Union members pack march on a packed road in Montreal." height="349" src="https://i.cbc.ca/1.7039604.1700859950!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/que-common-front-strike-20231123.jpg" title="Members of the FEA teachers union march to begin their unlimited strike, Thursday, Nov. 23, 2023 in Montreal." width="620" /><p></p>
+
+## Mischief charge dropped against accused co-organizer of 2022 Ambassador Bridge blockade in Windsor
+ - [https://www.cbc.ca/news/canada/windsor/mischief-charge-dropped-against-accused-co-organizer-of-2022-ambassador-bridge-blockade-in-windsor-1.7042538?cmp=rss](https://www.cbc.ca/news/canada/windsor/mischief-charge-dropped-against-accused-co-organizer-of-2022-ambassador-bridge-blockade-in-windsor-1.7042538?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T15:49:06+00:00
+
+<img alt="A red pick up truck with American flags and black pick up trick with Canadian flags. " height="349" src="https://i.cbc.ca/1.6641408.1667594257!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ambassador-bridge-blockade.JPG" title="Vehicles block the roadway preventing traffic from entering Canada off the Ambassador Bridge during the protest in February." width="620" /><p>The mischief case against an accused co-organizer of the blockade that halted traffic across the Ambassador Bridge linking Windsor, Ont., and Detroit in 2022 has been withdrawn by the Crown.</p>
+
+## Boxer who died after Montreal bout may have suffered from Second Impact syndrome, coroner says
+ - [https://www.cbc.ca/news/canada/montreal/boxer-death-quebec-gala-1.7042212?cmp=rss](https://www.cbc.ca/news/canada/montreal/boxer-death-quebec-gala-1.7042212?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T15:43:43+00:00
+
+<img alt="A person in a boxing stance." height="349" src="https://i.cbc.ca/1.6163631.1701191417!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jeanette-zapata.jpg" title="Jeanette Zapata, an 18-year-old Mexican boxer, was knocked unconscious during last Saturday&apos;s fight in Montreal." width="620" /><p>Jeanette Zacarias Zapata, an 18-year-old fighter from Mexico, died after a boxing match on Aug. 28, 2021 in Montreal. On Tuesday, a Quebec coroner's report on her death was made public.</p>
+
+## Judge finds former Manitoba doctor guilty of 5 counts of sexual assault
+ - [https://www.cbc.ca/news/canada/manitoba/arcel-bissonnette-decision-sexual-assault-charges-1.7042225?cmp=rss](https://www.cbc.ca/news/canada/manitoba/arcel-bissonnette-decision-sexual-assault-charges-1.7042225?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T15:36:49+00:00
+
+<img alt="A man with grey hair and wearing glasses walks past a building as the sun shines. He has a light spring jacket, white collared shirt and black tie." height="349" src="https://i.cbc.ca/1.6828638.1682976434!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/arcel-bissonnette.jpg" title="Arcel Bissonnette leaves the courthouse in Winnipeg on Monday afternoon. His latest trial is set to run until May 26." width="620" /><p>Former doctor Arcel Bissonnette has been found guilty of sexually assaulting five female patients at his practice in Ste. Anne, Man.</p>
+
+## Chicago to terminate Corey Perry's contract after 'conduct that is unacceptable,' NHL team says
+ - [https://www.cbc.ca/sports/hockey/nhl/corey-perry-chicago-unacceptable-conduct-1.7042523?cmp=rss](https://www.cbc.ca/sports/hockey/nhl/corey-perry-chicago-unacceptable-conduct-1.7042523?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T14:51:34+00:00
+
+<img alt="A men&apos;s hockey player leans over prior to puck drop during an NHL hockey game." height="349" src="https://i.cbc.ca/1.7042536.1701200697!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1761168064.jpg" title="Chicago forward Corey Perry, seen in October, has been placed on unconditional waivers by the franchise. In a statement released on Tuesday, the organization says Perry engaged in unacceptable conduct and would be terminating his contract if he clears waivers." width="620" /><p>Chicago's NHL team said veteran winger Corey Perry engaged in unacceptable conduct and took a step Tuesday toward terminating his contract.</p>
+
+## Winnipeg officer shoots man dead after being pinned by vehicle, police say
+ - [https://www.cbc.ca/news/canada/manitoba/police-shooting-fort-richmond-winnipeg-1.7042285?cmp=rss](https://www.cbc.ca/news/canada/manitoba/police-shooting-fort-richmond-winnipeg-1.7042285?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T14:43:08+00:00
+
+<img alt="A police car is seen in a snowy back lane, with police tape across the alley" height="349" src="https://i.cbc.ca/1.7042299.1701200427!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/police-at-shooting-in-fort-richmond-in-alley-of-dalhousie-drive.JPG" title="Police block an alley in Fort Richmond, behind Dalhousie Drive, where a police shooting is being investigated." width="620" /><p>A Winnipeg police officer fatally shot a man when he was pinned by a car during a traffic stop, police say.</p>
+
+## Toronto to host New York in PWHL's 1st regular-season game on New Year's Day
+ - [https://www.cbc.ca/sports/hockey/pwhl/pwhl-2024-home-opener-details-1.7042321?cmp=rss](https://www.cbc.ca/sports/hockey/pwhl/pwhl-2024-home-opener-details-1.7042321?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T13:50:49+00:00
+
+<img alt="A female hockey player practises during the Professional Women&apos;s Hockey League’s training camp in Toronto, Friday, Nov., 17, 2023. " height="349" src="https://i.cbc.ca/1.7042435.1701197190!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/hkw-pwhl-toronto-20231117.JPG" title="Brittany Howard practises during the PWHL’s training camp in Toronto on Friday, Nov., 17. " width="620" /><p>The Professional Women's Hockey League (PWHL) will begin its inaugural season with a New Year's Day game at Mattamy Athletic Centre, where Toronto will host New York.</p>
+
+## Authentic: Merriam-Webster’s 2023 word of the year
+ - [https://www.cbc.ca/news/world/authentic-merriam-webster-s-2023-word-of-the-year-1.7042476?cmp=rss](https://www.cbc.ca/news/world/authentic-merriam-webster-s-2023-word-of-the-year-1.7042476?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T13:49:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/508/18/authentic_(1).jpg" title="" width="620" /><p>In an age of deepfakes, post-truths and AI, have we reached a crisis of authenticity? According to data analyzed by Merriam-Webster, 'authentic' saw a big uptick in searches this year, leading the dictionary to name it the word of the year.</p>
+
+## Multiple crashes and serious injuries close eastbound 403 lane in Brantford, Ont.
+ - [https://www.cbc.ca/news/canada/hamilton/brantford-403-crashes-1.7042366?cmp=rss](https://www.cbc.ca/news/canada/hamilton/brantford-403-crashes-1.7042366?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T13:40:31+00:00
+
+<img alt="A photo showing OPP cruisers " height="349" src="https://i.cbc.ca/1.5525425.1698780243!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/opp-lay-charge-in-graffiti-incidents-image-1.jpg" title="" width="620" /><p>Ontario Provincial Police (OPP) say multiple collisions near Brantford, Ont., — which have seen at least 10 vehicles crash and four transport trucks jackknife  — have closed an eastbound lane on Highway 403.</p>
+
+## Watch as tugboats try to free a large freighter full of wheat stuck in the Detroit River
+ - [https://www.cbc.ca/news/canada/windsor/windsor-detroit-river-ship-stuck-1.7042363?cmp=rss](https://www.cbc.ca/news/canada/windsor/windsor-detroit-river-ship-stuck-1.7042363?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T13:26:53+00:00
+
+<img alt="A large freighter with a tug next to it." height="349" src="https://i.cbc.ca/1.7042379.1701195299!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/barbro-g.jpg" title="The Barbro G has been stuck in the Detroit River since Monday morning." width="620" /><p>A third tugboat is on the way to help budge the ship from its spot on the river.</p>
+
+## Thunder Bay now has its 1st emergency food plan to ensure no one goes hungry
+ - [https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-emergency-food-plan-1.7042202?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-emergency-food-plan-1.7042202?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T12:50:26+00:00
+
+<img alt="Two people stand together, holding a binded document. They are smiling." height="349" src="https://i.cbc.ca/1.7042222.1701188782!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sarah-siska-and-courtney-strutt.jpg" title="Sarah Siska and Courtney Strutt of the Thunder Bay and Area Food Strategy present the city&apos;s first-ever emergency food plan." width="620" /><p>After recognizing gaps in food access during the height of the COVID-19 pandemic, community partners in Thunder Bay, Ont., developed a concept for the city's first emergency food plan so nobody goes hungry. The plan has now been ratified. Here's how it works and what other communities could learn from it.</p>
+
+## House leader calls Liberal MP's post linking Poilievre and Winnipeg killings 'absolutely inappropriate'
+ - [https://www.cbc.ca/news/politics/ken-hardie-poilievre-gould-1.7042184?cmp=rss](https://www.cbc.ca/news/politics/ken-hardie-poilievre-gould-1.7042184?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T11:49:00+00:00
+
+<img alt="Karina Gould, Leader of the Government in the House of Commons rises during question period in the House of Commons, in Ottawa, Tuesday, Nov. 21, 2023." height="349" src="https://i.cbc.ca/1.7042189.1701188081!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/commons-20231121.jpg" title="Karina Gould, Leader of the Government in the House of Commons rises during question period in the House of Commons, in Ottawa, Tuesday, Nov. 21, 2023." width="620" /><p>Government House Leader Karina Gould says she'll speak to a B.C. Liberal MP about a social post that questions whether there was a connection between Conservative Leader Pierre Poilievre and a deadly shooting in Manitoba over the weekend. </p>
+
+## After 17 days, all 41 trapped workers rescued from Himalayan tunnel collapse, Indian officials say
+ - [https://www.cbc.ca/news/world/india-tunnel-collapse-rescue-himilayas-1.7042023?cmp=rss](https://www.cbc.ca/news/world/india-tunnel-collapse-rescue-himilayas-1.7042023?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T10:09:50+00:00
+
+<img alt="A worker in a yellow hard hat who was rescued from a collapsed tunnel is checked out." height="349" src="https://i.cbc.ca/1.7042101.1701185187!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/india-tunnel-collapse.JPG" title="One of the trapped workers is checked out after he was rescued from the collapsed tunnel site in Uttarkashi in the northern state of Uttarakhand, India, November 28, 2023. " width="620" /><p>Indian rescuers have pulled out all 41 construction workers trapped inside a collapsed tunnel in the Himalayas for 17 days, hours after drilling through the debris of rock, concrete and earth to reach them, officials say.</p>
+
+## Why Britain, Greece are quarreling over Parthenon sculptures
+ - [https://www.cbc.ca/news/world/britain-greece-parthenon-dispute-1.7041945?cmp=rss](https://www.cbc.ca/news/world/britain-greece-parthenon-dispute-1.7041945?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T10:05:09+00:00
+
+<img alt="Two people are shown from behind looking at some sculptures, some of them headless." height="349" src="https://i.cbc.ca/1.7041971.1701180189!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1246112415.jpg" title="Visitors view the Parthenon Marbles, also known as the Elgin Marbles, at the British Museum in London on January 9, 2023. - The ancient sculptures were taken from the Parthenon temple at the Acropolis in Athens in the early 19th century by British diplomat Thomas Bruce, the earl of Elgin.  " width="620" /><p>Greece's government on Tuesday accused Britain of showing "a lack of respect" by abruptly cancelling a meeting between their leaders after a dispute over 2,500-year-old Parthenon sculptures housed in the British Museum. Here's a closer look at the dispute.</p>
+
+## Scotiabank profit falls as bank sets aside almost $1.3B to cover bad loans
+ - [https://www.cbc.ca/news/business/scotiabank-earnings-1.7041965?cmp=rss](https://www.cbc.ca/news/business/scotiabank-earnings-1.7041965?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T09:44:45+00:00
+
+<img alt="A man walks past a Scotiabank sign in Toronto" height="349" src="https://i.cbc.ca/1.6476351.1701180419!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/scotiabank-bank-of-nova-scotia-sign-logo.JPG" title="The Bank of Nova Scotia building in downtown Toronto is pictured on June 1, 2022. The Bank of Canada raised its benchmark interest rate to 1.5 per cent in an anticipated move to curb pandemic-era inflation." width="620" /><p>The Bank of Nova Scotia said its profit slumped in the fourth quarter for a variety of reasons, but a major one was a more than doubling in the amount of money the bank sets aside to potentially write off loans that are in danger of not being paid back.</p>
+
+## MPs set to debate Ukraine trade deal as Liberals chide Tories for vote against bill
+ - [https://www.cbc.ca/news/politics/ukraine-trade-deal-debate-1.7041982?cmp=rss](https://www.cbc.ca/news/politics/ukraine-trade-deal-debate-1.7041982?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T09:31:28+00:00
+
+<img alt="A man in a blue suit speaks at a microphone." height="349" src="https://i.cbc.ca/1.7038353.1700780992!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ont-poilievre-20231123.JPG" title="Conservative Leader Pierre Poilievre speaks during a press conference at the Shaarei Shomayim Congregation in Toronto on Thursday Nov. 23, 2023." width="620" /><p>A committee of MPs is expected to begin clause-by-clause study today of a bill that implements an update to the Canada-Ukraine Free Trade Agreement, following a decision by the federal Tories to vote against the legislation.</p>
+
+## Panama Supreme Court rules Canadian firm's mining contract is unconstitutional
+ - [https://www.cbc.ca/news/business/first-quantum-panama-1.7041954?cmp=rss](https://www.cbc.ca/news/business/first-quantum-panama-1.7041954?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-28T09:08:37+00:00
+
+<img alt="A protester waves Panamanian flags during a demonstration to celebrate the moratorium on new metal mining exploration, in Panama City, Panama" height="349" src="https://i.cbc.ca/1.7024943.1699628077!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/panama-fqm-protests.jpg" title="A protester waves Panamanian flags during a demonstration to celebrate the moratorium on new metal mining exploration, in Panama City, Panama, on Friday, Nov. 3, 2023. Panama President Laurentino Cortizo on Friday signed into law a national moratorium on new metal mining exploration and extraction activities after weeks of protests rattled the Central American nation. Photographer: Walter Hurtado/Bloomberg" width="620" /><p>Panama's Supreme Court has declared the contract awarded to a Canadian firm to operate a lucrative copper mine is unconstitutional.</p>
+

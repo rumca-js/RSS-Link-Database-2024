@@ -1,0 +1,156 @@
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
+
+## EVs are way more unreliable than gas-powered cars, Consumer Reports data indicates
+ - [https://www.engadget.com/evs-are-way-more-unreliable-than-gas-powered-cars-consumer-reports-data-indicates-212216581.html?src=rss](https://www.engadget.com/evs-are-way-more-unreliable-than-gas-powered-cars-consumer-reports-data-indicates-212216581.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T21:22:16+00:00
+
+<p><em>Consumer Reports</em> has <a class="no-affiliate-link" href="https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/">published</a> an extensive ranking of vehicle reliability, and the results pour cold water on the dependability of <a href="https://www.engadget.com/tag/evs/">EVs</a> and <a href="https://www.engadget.com/lamborghinis-plug-in-hybrid-supercar-runs-for-a-cool-six-miles-in-electric-only-mode-183728414.html">plug-in hybrids</a>. The survey says electric vehicles suffer from 79 percent more maintenance issues than gas- or diesel-powered ones, while plug-in hybrids have 146 percent more problems. The troubles portray the industry’s growing pains with the relatively new technology as the planet <a href="https://www.engadget.com/july-3rd-was-the-hottest-day-in-recorded-history-214854746.html">sets record temperatures</a>, and scientists <a href="https://www.engadget.com/we-have-three-years-to-curb-emissions-
+
+## Rockstar Games co-founder Dan Houser's next projects are a graphic novel and an audio drama
+ - [https://www.engadget.com/rockstar-games-co-founder-dan-housers-next-projects-are-a-graphic-novel-and-an-audio-drama-210258054.html?src=rss](https://www.engadget.com/rockstar-games-co-founder-dan-housers-next-projects-are-a-graphic-novel-and-an-audio-drama-210258054.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T21:02:58+00:00
+
+<p>Absurd Ventures, the <a href="https://www.engadget.com/rockstar-games-co-founder-dan-houser-has-a-new-studio-183054769.html">new creative studio</a> from Rockstar Games co-founder and ex-creative director Dan Houser, has <a href="https://www.absurdventures.com/feed">announced its first projects</a>. As it happens, neither of them are video games, at least not yet.</p>
+<p>The first of these two new universes is called <em>American Caper</em>, which will debut as a graphic novel. It will focus on two normal but damaged families who are mired &quot;in a world of corrupt business, inept politics and bungling crime.&quot; Comic book artist Simon Bisley (<em>ABC Warriors, Lobo</em>) is illustrating the graphic novel.</p>
+<span id="end-legacy-contents"></span><p>The other project is a 12-episode audio drama that's already in production. <em>A Better Paradise</em> is described as a near-future existential suspense thriller. Absurd Ventures is working with well-regarded audio company Q-COD
+
+## Amazon now has its own AI image generator
+ - [https://www.engadget.com/amazon-now-has-its-own-ai-image-generator-203025475.html?src=rss](https://www.engadget.com/amazon-now-has-its-own-ai-image-generator-203025475.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T20:30:25+00:00
+
+<p><a href="https://www.engadget.com/tag/amazon/">Amazon</a> has hopped on the same bandwagon on which many major tech companies have hitched a ride this year by <a href="https://press.aboutamazon.com/2023/11/aws-announces-more-model-choice-and-powerful-new-capabilities-in-amazon-bedrock-to-securely-build-and-scale-generative-ai-applications">debuting</a> its own image generator. AWS customers can now check out a preview of Titan Image Generator on the <a class="no-affiliate-link" href="https://aws.amazon.com/bedrock/">Bedrock console</a>. They can either enter a text prompt to create an image from scratch or upload an image and edit it.</p>
+<p>Amazon says the tool can produce large volumes of studio-quality, realistic images at low cost. It claims the AI can generate relevant images based on complex text prompts while ensuring object composition is accurate and that there are limited distortions. This, according to the company, helps with "reducing the generation of harmful content 
+
+## Substack adds new video tools to compete with Patreon and YouTube
+ - [https://www.engadget.com/substack-adds-new-video-tools-to-compete-with-patreon-and-youtube-202025605.html?src=rss](https://www.engadget.com/substack-adds-new-video-tools-to-compete-with-patreon-and-youtube-202025605.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T20:20:25+00:00
+
+<p>Content platform Substack just released <a href="https://on.substack.com/p/video-on-substack-upgrade">a spate of new video capabilities,</a> placing it in direct competition with YouTube and Patreon, among others. The video tools include a direct upload option, which is handy, and customizable paywalls for content creators. Before this, users were forced to upload videos to YouTube and embed a link. The upload tool is now readily accessible via the dashboard. It’ll even automatically split the audio and video for podcasters who want to court both audiences.&nbsp;</p>
+<p>As for the paywall options, you now get the same level of flexibility available to non-video users. Content creators can select a slice of the video to give away for free, locking the rest behind a paywall. The free preview segment should transition smoothly into a prompt to become a paying subscriber.</p>
+<span id="end-legacy-contents"></span><p>There’s also a new AI tool that generates transcripts from videos, fo
+
+## A 'silly' attack made ChatGPT reveal real phone numbers and email addresses
+ - [https://www.engadget.com/a-silly-attack-made-chatgpt-reveal-real-phone-numbers-and-email-addresses-200546649.html?src=rss](https://www.engadget.com/a-silly-attack-made-chatgpt-reveal-real-phone-numbers-and-email-addresses-200546649.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T20:05:46+00:00
+
+<p>A team of researchers was able to make ChatGPT reveal some of the bits of data it has been trained on by using a simple prompt: asking the chatbot to repeat random words forever. In response, ChatGPT churned out people’s private information including email addresses and phone numbers, snippets from research papers and news articles, Wikipedia pages, and more.</p>
+<p>The researchers, who work at Google DeepMind, the University of Washington, Cornell, Carnegie Mellon University, the University of California Berkeley, and ETH Zurich, urged AI companies to seek out internal and external testing before releasing large language models, the foundational tech that powers modern AI services like chatbots and image-generators. “It’s wild to us that our attack works and should’ve, would’ve, could’ve been found earlier,” they <a href="https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html?ref=404media.co"><ins>wrote</ins></a>, and published their findings in a <a h
+
+## Netflix is adding the GTA Trilogy to its games library on December 14
+ - [https://www.engadget.com/netflix-is-adding-the-gta-trilogy-to-its-games-library-on-december-14-190357966.html?src=rss](https://www.engadget.com/netflix-is-adding-the-gta-trilogy-to-its-games-library-on-december-14-190357966.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T19:03:57+00:00
+
+<p>Netflix continues <a href="https://www.engadget.com/why-the-oxenfree-ii-team-became-netflixs-first-game-studio-130035607.html"><ins>to bet big on gaming.</ins></a> The streamer just announced that Rockstar’s <em>Grand Theft Auto: The Trilogy – The Definitive Edition</em> <a href="https://about.netflix.com/en/news/grand-theft-auto-the-trilogy-the-definitive-edition-arrives-on-netflix"><ins>will hit its platform on December 14.</ins></a> The game will be free to play for Netflix subscribers, like the rest of its library. Each of the three titles included in the collection have been updated for mobile. These games include the iconic <em>Grand Theft Auto III, Grand Theft Auto: Vice City,</em> and<em> Grand Theft Auto: San Andreas. </em>They'll be playable via the Netflix app, but also available as standalone apps on Android and iOS.</p>
+<p>The gameplay’s a bit dated by modern standards but <em>Grand Theft Auto III</em> basically invented the open-world genre, and the sequels further r
+
+## Beyond Good & Evil is getting a 20th anniversary edition in early 2024
+ - [https://www.engadget.com/beyond-good--evil-is-getting-a-20th-anniversary-edition-in-early-2024-183535329.html?src=rss](https://www.engadget.com/beyond-good--evil-is-getting-a-20th-anniversary-edition-in-early-2024-183535329.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T18:35:35+00:00
+
+<p>A 20th-anniversary edition of the cult classic <em>Beyond Good &amp; Evil</em> is coming in early 2024. Details about the previously unannounced remaster popped up on the Xbox Store, and an incomplete version of the game was briefly available on <a href="https://www.engadget.com/ubisoft-game-subscription-service-officially-launches-on-xbox-163018760.html">Ubisoft Plus</a>. Ubisoft used the opportunity to formally <a class="no-affiliate-link" href="https://twitter.com/bgegame/status/1729872106123649325">acknowledge</a> the game’s existence, promising official details later. The since-deleted synopsis promised “up to 4K, 60 fps with improved graphics, controls, and audio, along with brand-new autosave and cross-save features.”</p>
+<p>“An early development version of <em>Beyond Good &amp; Evil: 20th Anniversary Edition</em> was recently released to some Ubisoft+ subscribers by mistake,” Ubisoft posted on X. “We apologize for any confusion and want to assure our community that this ve
+
+## Pokémon Horizons hits Netflix in February
+ - [https://www.engadget.com/pokemon-horizons-hits-netflix-in-february-182019171.html?src=rss](https://www.engadget.com/pokemon-horizons-hits-netflix-in-february-182019171.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T18:20:19+00:00
+
+<p>After the Pokémon anime universe said goodbye to its long-time protagonist Ash Ketchum, stateside fans have been anticipating the arrival of the new faces to helm the series. Now, the wait is almost over. <em>Pokémon Horizons: The Series</em>, the latest installment in the franchise, is set to make its English debut on <a class="no-affiliate-link" href="https://www.engadget.com/netflixs-stop-motion-pokemon-show-arrives-on-december-28-100743389.html"><ins>Netflix</ins></a> in 2024.</p>
+<p><em>Pokémon Horizons</em> has been available in Japan since April of this year, but it was previously unclear when the show's English dub would debut. According to a new <a class="no-affiliate-link" href="https://twitter.com/Pokemon/status/1729864331611746597"><ins>tweet</ins></a> from the official Pokémon account, <em>Pokémon Horizons</em> will be available for streaming on February 23 in the US. This comes a just few days before the annual <a class="no-affiliate-link" href="https://www.engadget.
+
+## Google won't block news links in Canada after all
+ - [https://www.engadget.com/google-wont-block-news-links-in-canada-after-all-180258909.html?src=rss](https://www.engadget.com/google-wont-block-news-links-in-canada-after-all-180258909.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T18:02:58+00:00
+
+<p>It seems <a href="https://www.engadget.com/tag/google/"><ins>Google</ins></a> won't block news links in Canada in response to new legislation after all. The company <a href="https://www.engadget.com/google-will-pull-news-links-in-canada-in-response-to-new-law-174838196.html"><ins>pledged earlier this year</ins></a> to pull links to Canadian news stories from Search, News and Discover when the country's Online News Act (Bill C-18) takes effect in December. However, according to the <a class="no-affiliate-link" href="https://www.cbc.ca/news/politics/google-online-news-act-1.7043330"><em><ins>CBC</ins></em></a>, Google has reached a deal with the country's government that will see it continuing to serve users there with Canadian news.</p>
+<p>Google is said to have agreed to pay news publishers in Canada around $100 million CAD per year. That's significantly less than the government's <a class="no-affiliate-link" href="https://www.cbc.ca/news/politics/online-news-act-google-meta-1.695
+
+## December's PlayStation Plus monthly games include Sable and PowerWash Simulator
+ - [https://www.engadget.com/decembers-playstation-plus-monthly-games-include-sable-and-powerwash-simulator-174319553.html?src=rss](https://www.engadget.com/decembers-playstation-plus-monthly-games-include-sable-and-powerwash-simulator-174319553.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T17:43:19+00:00
+
+<p>Sony has revealed the PlayStation Plus monthly games lineup for December, and it’s a doozy. There’s no clear headliner here, but a trio of interesting games are about to drop, including the gorgeous open-world exploration game <em>Sable</em> and the cleaning-based tour de force <em>Powerwash Simulator.</em></p>
+<p>First up, there’s <em>Sable,</em> a game that was on <a href="https://www.engadget.com/2018-06-12-sable-is-the-best-the-apocalypse-has-looked-all-e3.html">everyone’s radar for years</a> before an official release, thanks to the eye-catching graphical style. The &quot;coming-of-age adventure and exploration game” casts you as the titular hero Sable as you ride a hoverbike through vast deserts and mysterious landscapes, encountering the remains of spaceships and other ancient artifacts. The art style is incredible and the <a href="https://www.youtube.com/watch?v=9KOPEhoZF8I">soundtrack is by Japanese Breakfast,</a> if that’s your bag (and it should be.) The game’s only ava
+
+## GM to cut spending on Cruise driverless vehicles by ‘hundreds of millions of dollars’
+ - [https://www.engadget.com/gm-to-cut-spending-on-cruise-driverless-vehicles-by-hundreds-of-millions-of-dollars-170857644.html?src=rss](https://www.engadget.com/gm-to-cut-spending-on-cruise-driverless-vehicles-by-hundreds-of-millions-of-dollars-170857644.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T17:08:57+00:00
+
+<p>GM is massively slashing spending on its self-driving vehicle subsidiary Cruise after a string of debilitating setbacks, according to a conference call by company executives <a href="https://techcrunch.com/2023/11/29/gm-to-slash-spending-at-cruise-by-hundreds-of-millions-of-dollars/"><ins>transcribed by </ins><em><ins>TechCrunch</ins></em><ins>.</ins></a> GM Chair and CEO Mary Barra said that operations would resume in some capacity, but that any plans for Cruise moving forward would be more “deliberate.”</p>
+<p>To that end, the cuts will amount to hundreds of millions of dollars in the next year. This is expected to result in widespread layoffs at the San Francisco-based company that currently employees nearly 4,000 people. Earlier this month, Cruise CEO Kyle Vogt told staffers at an all-hands meeting that <a href="https://www.engadget.com/cruise-is-reportedly-planning-to-lay-off-employees-after-weeks-of-crises-195546324.html"><ins>he’d have information regarding layoffs</ins></a
+
+## Dragon's Dogma 2 finally has a release date
+ - [https://www.engadget.com/dragons-dogma-2-finally-has-a-release-date-131037836.html?src=rss](https://www.engadget.com/dragons-dogma-2-finally-has-a-release-date-131037836.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T13:10:37+00:00
+
+<p>Over a year after <a href="https://www.engadget.com/dragons-dogma-2-announcement-130258518.html">Capcom first confirmed a sequel was coming for <em>Dragon's Dogma</em></a>, there's finally a release date. Capcom has announced <a href="https://dragonsdogma.com/2/en-us/"><em>Dragon's Dogma 2 </em>will arrive on March 22, 2024</a>, on the Xbox Series X and Series S, the PlayStation 5 and PC. There's also a <a href="https://www.youtube.com/watch?v=8dt1S_QUBYw">new trailer</a> to give you a better look at what to expect from the sequel.</p>
+<div id="333d86009f424b4ca6ca1c93152d6c89"><blockquote class="twitter-tweet"><p dir="ltr" lang="en">Dragon's Dogma 2 is coming to PlayStation 5, Xbox Series X|S and PC/Steam on March 22, 2024. Pre-order now!<br /><br />Check out latest trailer revealed in the Dragon's Dogma 2 Showcase!<br /><br />📺 <a href="https://t.co/EaPNXhyNfE">https://t.co/EaPNXhyNfE</a><a href="https://twitter.com/hashtag/DD2?src=hash&amp;ref_src=twsrc%5Etfw">#DD2</a> <a href=
+
+## Spotify Wrapped returns to reveal your 2023 streaming stats
+ - [https://www.engadget.com/spotify-wrapped-returns-to-reveal-your-2023-streaming-stats-130006797.html?src=rss](https://www.engadget.com/spotify-wrapped-returns-to-reveal-your-2023-streaming-stats-130006797.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T13:00:06+00:00
+
+<p>As December nears <a href="https://www.engadget.com/spotify-wrapped-2022-130037719.html">every year</a>, Spotify reveals all of the artists, genres, songs and podcasts you listened to most in the last 12 months. The 2023 installment of the streaming service's Wrapped year-in-review <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=449e2503-c6b5-44c5-bdb8-b3045047b3e5&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Spotify&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5zcG90aWZ5LmNvbS91cy93cmFwcGVkLyIsImNvbnRlbnRVdWlkIjoiNGI4MDlhZDQtYWI1ZC00OGYyLTk3MDItOTkzNGRiMGM1NTUzIn0&amp;signature=AQAAAVWo3H7CNfjRek6BBuywHkOIGwj8S-FJCPQtrLXKzhwk&amp;gcReferrer=https%3A%2F%2Fwww.spotify.com%2Fus%2Fwrapped%2F">debuts today</a> on the Spotify app with an all-new design alongside the familiar story-style format. For the first time in a while, you can also view your streaming stats o
+
+## Unity cuts 265 jobs as part of a company 'reset'
+ - [https://www.engadget.com/unity-cuts-265-jobs-as-part-of-a-company-reset-123511764.html?src=rss](https://www.engadget.com/unity-cuts-265-jobs-as-part-of-a-company-reset-123511764.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T12:35:11+00:00
+
+<p>Unity Software is eliminating 3.8 percent of its global workforce and terminating an agreement with VFX company Weta as part of a &quot;reset,&quot; <a href="https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/"><em>Reuters</em></a> has reported. The news follows some severe turbulence in the company, after it <a href="https://www.engadget.com/unity-will-start-charging-developers-each-time-their-game-is-installed-214851801.html">imposed</a> and then <a href="https://www.engadget.com/bowing-to-pressure-unity-announces-the-terms-of-its-surrender-193422770.html">partially walked back</a> a controversial runtime fee for its game engine. Last month, John Riccitiello <a href="https://www.engadget.com/unity-ceo-john-riccitiello-stepping-down-effective-immediately-231422660.html">stepped down</a> as president and CEO of the company after nine years in leadership.&nbsp;</p>
+<p>Some 265 employees will be laid off, all related to Unity's professional servi
+
+## The Morning After: Is a famous coding influencer fake?
+ - [https://www.engadget.com/the-morning-after-is-a-famous-coding-influencer-fake-121545348.html?src=rss](https://www.engadget.com/the-morning-after-is-a-famous-coding-influencer-fake-121545348.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T12:15:45+00:00
+
+<p>Eduards Sizovs is the founder of DevTernity, a software development conference that had to cancel its most recent event. Mostly because the lineup included female speakers who, under closer inspection, turned out to be fictional. But this may not be the first time Sizovs has invented a woman, and he might <a href="https://www.engadget.com/a-popular-female-coding-influencers-instagram-is-apparently-run-by-a-man-115046245.html"><ins>also be behind a massively popular coding influencer</ins></a>.</p>
+<p>Coding_Unicorn has over 115,000 Instagram followers and purports to be run by Julia Kirsina, who shares tips on software development below her selfies. <em>404 Media</em> has posted evidence connecting her to Sizovs, suggesting the account is a sock puppet. Evidence includes images from a YouTube video showing Sizovs logged in to her email account, and that a lot of her posts mirror ones posted by Sizovs.</p>
+<p>— Dan Cooper</p>
+<p>​​<em>You can get these reports delivered daily direc
+
+## Google's new domains can really put a price on a .meme
+ - [https://www.engadget.com/googles-new-domains-can-really-put-a-price-on-a-meme-115542941.html?src=rss](https://www.engadget.com/googles-new-domains-can-really-put-a-price-on-a-meme-115542941.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T11:55:42+00:00
+
+<p>There's a lot of bad stuff on the internet, but memes tend to be a bright, silly light in digital interactions. Now, they might be even easier to access and create thanks to <a href="https://blog.google/products/registry/google-registry-meme-domain/">Google Registry launching a new top-level domain type: .meme</a>. That's right, forget .com or .org, you can lean right into the jokes and get a meme-centric domain. According to Google, &quot;.meme domains are meant to spread humor, ideas, style, and culture. Use it to show your audience that you're in the present.&quot; The whole idea feels reminiscent of the <a href="https://www.engadget.com/2013-11-20-tumblr-gets-refreshed-for-ios-7-lets-you-reblog-that-cat-gif-th.html">early days of Tumblr</a>.&nbsp;</p>
+<p>Google has teamed up with six companies and individuals to showcase options for using .meme. These include <a href="https://knowyour.meme/">Know Your Meme</a> (which highlights trending memes and history) and <a href="https://
+
+## Apple is reportedly ending its partnership with Goldman Sachs
+ - [https://www.engadget.com/apple-is-reportedly-ending-its-partnership-with-goldman-sachs-104511694.html?src=rss](https://www.engadget.com/apple-is-reportedly-ending-its-partnership-with-goldman-sachs-104511694.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T10:45:11+00:00
+
+<p>Apple and Goldman Sachs are potentially ending their partnership four years after joining forces on an Apple credit card, <a class="no-affiliate-link" href="https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45"><em>The Wall Street Journal</em> reports</a>. The companies recently extended their agreement until 2029, but Apple proposes ending the contract in the next 12 to 15 months.</p>
+<p>Although the pair launched a <a href="https://www.engadget.com/apple-card-holders-can-now-sign-up-for-a-high-yield-savings-account-142024930.html">high-yield savings account</a> in April of this year, it's likely that Goldman won't be too upset by a possible breakup. Last month, reports suggested <a href="https://www.engadget.com/goldman-sachs-might-be-trying-to-offload-apples-credit-card-and-savings-accounts-204014759.html">the bank was aiming to get out of the consumer lending business</a>. It had gone as far as to tell Apple earlier this year that it
+
+## PSA: Your inactive Google account could be deleted on December 1
+ - [https://www.engadget.com/psa-your-inactive-google-account-could-be-deleted-on-december-1-100515990.html?src=rss](https://www.engadget.com/psa-your-inactive-google-account-could-be-deleted-on-december-1-100515990.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T10:05:15+00:00
+
+<p>Do you have a Google account you haven't checked for awhile but still want to keep? You'd better log in soon before it gets purged. Starting December 1st, 2023 (Friday), Google will <a href="https://www.engadget.com/google-will-start-purging-inactive-accounts-later-this-year-191350823.html">begin deleting accounts</a> that have been inactive for at least two years. The company says it's doing so for privacy reasons and no doubt to free up quite a bit of space on its servers.&nbsp;</p>
+<p>"If an account hasn’t been used for an extended period of time, it is more likely to be compromised," Google <a href="https://blog.google/technology/safety-security/updating-our-inactive-account-policies/">noted in May 2023</a>. "This is because forgotten or unattended accounts often rely on old or re-used passwords that may have been compromised, haven't had two factor authentication set up, and receive fewer security checks by the user." It added that abandoned accounts are "at least 10 times le
+
+## HTC's Vive Ultimate Trackers have cameras to improve full-body tracking
+ - [https://www.engadget.com/htcs-vive-ultimate-trackers-have-cameras-to-improve-full-body-tracking-000008776.html?src=rss](https://www.engadget.com/htcs-vive-ultimate-trackers-have-cameras-to-improve-full-body-tracking-000008776.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-29T00:00:08+00:00
+
+<p>HTC released the Vive Ultimate Tracker, which when paired with one of the company’s <a href="https://www.engadget.com/2019-09-12-htc-vive-cosmos-hands-on.html"><ins>virtual reality headsets</ins></a>, delivers multi-point body tracking for users for everything from first-person shooter gaming to soccer skills training. The new tracker follows HTC’s Vive Tracker 3.0 line and will cost $199 per unit. HTC is also selling a three-pack that comes with the required wireless dongle and other accessories for a bundle price of $599.</p>
+<p>You can use up to five “six degrees of freedom” (6DoF) Ultimate Trackers simultaneously and connect to a single headset to collectively support multi-point full-body tracking. Each tracker relies on two wide field-of-view cameras to precisely locate the wearer's motions in 3D spaces, which ultimately gives it those self-tracking capabilities. The Global Head of Product at HTC, Shen Ye, said the technology built into the Ultimate tracker will enhance the 
+

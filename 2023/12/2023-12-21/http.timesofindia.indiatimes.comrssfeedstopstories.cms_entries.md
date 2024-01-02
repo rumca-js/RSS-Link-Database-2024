@@ -1,0 +1,497 @@
+## Avtar Singh lawyer urges UK home secy: seek alternate police force
+ - [https://timesofindia.indiatimes.com/world/uk/avtar-singh-khanda-family-lawyer-writes-to-uk-home-secretary-calling-for-different-police-force-to-investigate-his-death/articleshow/106192301.cms](https://timesofindia.indiatimes.com/world/uk/avtar-singh-khanda-family-lawyer-writes-to-uk-home-secretary-calling-for-different-police-force-to-investigate-his-death/articleshow/106192301.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T20:26:05+00:00
+
+Michael Polak, the barrister for the family of Avtar Singh Khanda, a Khalistani activist who died from blood cancer in Birmingham City Hospital, has written to UKhome secretary James Cleverly requesting that a different police force be directed to investigate Khanda’s death. Khanda died aged 35 on June 15 at Birmingham City Hospital from terminal blood cancer. He is said to have groomed Waris Punjab De chief Amritpal Singh; Khanda’s father, Kulwant Singh Khukhrana, a Khalistan Liberation Force leader, was killed by Indian security forces in 1991.
+
+## Indian student's body pulled from dock in Canary Wharf
+ - [https://timesofindia.indiatimes.com/world/uk/ashman-singhs-body-pulled-from-dock-in-canary-wharf-aunt-calls-it-tragic-accident/articleshow/106192244.cms](https://timesofindia.indiatimes.com/world/uk/ashman-singhs-body-pulled-from-dock-in-canary-wharf-aunt-calls-it-tragic-accident/articleshow/106192244.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T20:13:07+00:00
+
+The body of missing Indian Punjabi student Gurashman Singh Bhatia — also known as Ashman Singh — was pulled out of the water at South Quay in Canary Wharf on Wednesday night after being discovered by police divers. His aunt, Iren Deep Brown, who lives in Brighton, told TOI that Bhatia, a postgraduate student at Loughborough University who did his first degree in Bengaluru, had been celebrating his birthday on Thursday with his flat mate and three friends at his flat in Canary Wharf.
+
+## Govt set to miss target for divestment in 2023-24 too
+ - [https://timesofindia.indiatimes.com/business/india-business/govt-set-to-miss-target-for-divestment-in-2023-24-too/articleshow/106192281.cms](https://timesofindia.indiatimes.com/business/india-business/govt-set-to-miss-target-for-divestment-in-2023-24-too/articleshow/106192281.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T20:11:20+00:00
+
+The Centre is set to miss its privatisation target for state-run companies this year due to stalled progress and limited appetite before elections. Roadblocks, including bureaucratic sloth, have hindered the process, affecting big-ticket enterprises like IDBI Bank. Stake sales in state-run banks and an insurance company recommended for privatisation by NITI Aayog have not moved forward. The privatisation of Pawan Hans has been scrapped, and the large public sector policy has not taken off. The disinvestment process is now awaiting the new government for a fresh start.
+
+## Baloch activists protesting against ‘extra-judicial killings’ arrested
+ - [https://timesofindia.indiatimes.com/world/pakistan/baloch-activists-protesting-against-extra-judicial-killings-beaten-arrested-in-islamabad/articleshow/106191938.cms](https://timesofindia.indiatimes.com/world/pakistan/baloch-activists-protesting-against-extra-judicial-killings-beaten-arrested-in-islamabad/articleshow/106191938.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T19:10:24+00:00
+
+Baloch nationalists protesting against extrajudicial killings and enforced disappearances in Balochistan were arrested and blocked from entering Islamabad. The police used water cannons and tear gas on the demonstrators and took women protestors to women police stations. The protesters had reached Islamabad after a long march from Turbat district. The police blamed the protesters for creating law and order problems. The Human Rights Commission of Pakistan condemned the violent police crackdown and demanded the unconditional release of all detainees.
+
+## 3rd ODI: Ton-up Samson, Arshdeep power India to 2-1 series win over South Africa
+ - [https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/3rd-odi-ton-up-sanju-samson-arshdeep-singh-power-india-to-2-1-series-win-over-south-africa/articleshow/106191932.cms](https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/3rd-odi-ton-up-sanju-samson-arshdeep-singh-power-india-to-2-1-series-win-over-south-africa/articleshow/106191932.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T19:05:09+00:00
+
+Sanju Samson hit a fine century as India defeated South Africa by 78 runs in the third ODI to clinch the three-match series 2-1 in Paarl on Thursday. Sent into bat, India lost openers early before Samson (108), which was his maiden ODI hundred, and Tilak Varma (52) made useful contributions to take 296 for eight. Chasing 297, opener Tony de Zorzi made 81 but none of the other Proteas batter could support him as the hosts were bowled for 218 in 45.5 overs.
+
+## No, Zomato is not making $2bn acquisition, what CEO Goyal has to say
+ - [https://timesofindia.indiatimes.com/gadgets-news/no-zomato-is-not-making-2-billion-acquisition-heres-what-ceo-deepinder-goyal-has-to-say/articleshow/106191507.cms](https://timesofindia.indiatimes.com/gadgets-news/no-zomato-is-not-making-2-billion-acquisition-heres-what-ceo-deepinder-goyal-has-to-say/articleshow/106191507.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T18:22:11+00:00
+
+Zomato denies reports of acquisition offer for Shiprocket by Bloomberg.
+
+## 'Stay put': All you need to know about Prague shooting
+ - [https://timesofindia.indiatimes.com/world/europe/prague-university-shooting-what-we-know-so-far/articleshow/106190745.cms](https://timesofindia.indiatimes.com/world/europe/prague-university-shooting-what-we-know-so-far/articleshow/106190745.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T17:28:25+00:00
+
+A shooting at Prague's Charles University's Faculty of Arts in Jan Palach Square has left at least 15 dead and several injured. The shooter, a student at the university, fell from the building's roof after opening fire. The area was evacuated and ambulances were deployed to attend to the injured. The incident is not linked to international terrorism. Gun crimes are rare in the Czech Republic, with notable incidents in 2019 and 2015.
+
+## 'Want to focus on my...': Pavitra Punia on breakup rumours
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-pavitra-punia-reacts-to-breakup-rumours-with-eijaz-khan-i-just-lost-my-dad-want-to-focus-on-my-family-career-and-not-marriage/articleshow/106190860.cms](https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-pavitra-punia-reacts-to-breakup-rumours-with-eijaz-khan-i-just-lost-my-dad-want-to-focus-on-my-family-career-and-not-marriage/articleshow/106190860.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T17:28:16+00:00
+
+Pavitra Punia spoke exclusively about break-up rumours with boyfriend Eijaz Khan. She refused to divulge anything on the matter and requested privacy. Losing her father, who was her biggest support, she wants to focus on her career and family. Reacting to fan questions, she urged everyone to be calm and composed and support her and Eijaz. With multiple projects, she is excited about her career and wants fans to respect her privacy. Pavita and Eijaz met on Bigg Boss 14 and after being in a relationship for tow and a half years, the couple have apparently parted ways.
+
+## Several people killed, wounded in Prague University shooting
+ - [https://timesofindia.indiatimes.com/world/europe/shooting-at-prague-university-casualties-feared/articleshow/106189213.cms](https://timesofindia.indiatimes.com/world/europe/shooting-at-prague-university-casualties-feared/articleshow/106189213.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T15:13:39+00:00
+
+
+
+## After Lok Sabha, Rajya Sabha passes three criminal law bills
+ - [https://timesofindia.indiatimes.com/india/rajya-sabha-rajya-sabha-passes-criminal-laws-bill-criminal-laws/articleshow/106189105.cms](https://timesofindia.indiatimes.com/india/rajya-sabha-rajya-sabha-passes-criminal-laws-bill-criminal-laws/articleshow/106189105.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T15:11:26+00:00
+
+Rajya Sabha passed the Bharatiya Nyaya (Second) Sanhita, Bharatiya Nagarik Suraksha (Second) Sanhita, and Bharatiya Sakshya (Second) Bill, replacing the Indian Penal Code, the Code of Criminal Procedure, and the Indian Evidence Act. Home Minister Amit Shah stated that the new laws will be governed by laws made by India for India. He emphasized that the bills aim to give justice rather than punishment. The govt has also removed the section on sedition &amp; replaced it with treason.
+
+## Sanju Samson slams maiden international century
+ - [https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/3rd-odi-sanju-samson-slams-maiden-international-century/articleshow/106188668.cms](https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/3rd-odi-sanju-samson-slams-maiden-international-century/articleshow/106188668.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T14:42:28+00:00
+
+Sanju Samson ended his prolonged quest for a maiden international century by playing a pivotal role in leading the Indian innings with a remarkable 108-run knock against South Africa in the third and final ODI of the series in Paarl on Thursday.
+
+## 'India has reached Moon but ... ': Sharif 's message to Pakistanis
+ - [https://timesofindia.indiatimes.com/world/pakistan/former-pakistan-pm-nawaz-sharif-commends-indias-lunar-milestone-critiques-own-countrys-progress/articleshow/106187367.cms](https://timesofindia.indiatimes.com/world/pakistan/former-pakistan-pm-nawaz-sharif-commends-indias-lunar-milestone-critiques-own-countrys-progress/articleshow/106187367.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T13:25:21+00:00
+
+Former Pakistani PM Nawaz Sharif praises India's achievements in space exploration and highlights economic challenges; emphasizing the need for self-reflection. Questions the blame game and points out the progress made by his government, including ending severe electricity load shedding and countering terrorism. Draws attention to inflation and calls for accountability for his ouster. Urges Pakistan to prioritize women's participation and advocates for equal opportunities. He plans to contest elections after a four-year self-imposed exile.
+
+## Winter session: Game-changing laws, smoke attack, empty seats
+ - [https://timesofindia.indiatimes.com/india/winter-session-of-lok-sabha-mass-suspension-of-opposition-mps-smoke-bomb-attack-and-passage-of-landmark-laws/articleshow/106183249.cms](https://timesofindia.indiatimes.com/india/winter-session-of-lok-sabha-mass-suspension-of-opposition-mps-smoke-bomb-attack-and-passage-of-landmark-laws/articleshow/106183249.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T13:20:57+00:00
+
+The 2023 winter session of Parliament, which ended a day early, will be remembered for the unprecedented suspension of 146 opposition MPs and the passage of several landmark bills. Among the key events during the session, Trinamool Congress MP Mahua Moitra was expelled from Lok Sabha due to cash-for-question allegations. There was also a security breach in the Lok Sabha chamber and mass suspensions of opposition MPs for unruly conduct. In total, nine bills were passed, including three criminal code laws, amendments to Jammu and Kashmir bills, and laws regarding the Election Commission and telecom networks.
+
+## 'Dabdabba tha, dabdabba rahega...': Brij Bhushan
+ - [https://timesofindia.indiatimes.com/sports/more-sports/wrestling/dabdabba-tha-dabdabba-rahega-brij-bhushan-after-his-aide-sanjay-singh-elected-wfi-president/articleshow/106187111.cms](https://timesofindia.indiatimes.com/sports/more-sports/wrestling/dabdabba-tha-dabdabba-rahega-brij-bhushan-after-his-aide-sanjay-singh-elected-wfi-president/articleshow/106187111.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T13:12:41+00:00
+
+Following the win of his aide Sanjay Singh in the Wrestling Federation of India (WFI) elections, the former president of the federation Brij Bhushan Singh said on Thursday that it is the victory of wrestlers across the country.
+
+## Teri Meri Doriyaann's Himanshi Parashar on casting couch
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-tellyblazer-teri-meri-doriyaanns-himanshi-parashar-on-casting-couch-my-mentor-told-me-if-you-have-to-be-in-the-industry-yeh-toh-hota-hi-hai/articleshow/106186714.cms](https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-tellyblazer-teri-meri-doriyaanns-himanshi-parashar-on-casting-couch-my-mentor-told-me-if-you-have-to-be-in-the-industry-yeh-toh-hota-hi-hai/articleshow/106186714.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T12:58:49+00:00
+
+Himanshi Parashar, known as Sahiba from Teri Meri Doriyaann, opens up about her experiences in an exclusive interview. She shares her journey from Punjabi films to Hindi TV, her dream project Teri Meri Doriyaann, and being inspired by Manushi Chhillar. Himanshi also discusses her struggles with financial crisis and the casting couch in the industry. She emphasizes the need for auditions and fair selection rather than exploiting naive girls. Himanshi also shares a crazy fan moment where a fan followed her to the hotel after taking her picture.
+
+## Pannun murder plot: Got access to Nikhil Gupta thrice, says MEA
+ - [https://timesofindia.indiatimes.com/india/india-received-consular-access-to-nikhil-gupta-thrice-providing-necessary-assistance-mea-on-gurpatwant-singh-pannun-case/articleshow/106186893.cms](https://timesofindia.indiatimes.com/india/india-received-consular-access-to-nikhil-gupta-thrice-providing-necessary-assistance-mea-on-gurpatwant-singh-pannun-case/articleshow/106186893.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T12:57:20+00:00
+
+India secures consular access to meet Nikhil Gupta, accused of conspiracy and attempted murder of Khalistani terrorist. Gupta is detained in Czech prison awaiting extradition to the US. Ministry of External Affairs provides necessary consular assistance. Extradition request by US is pending. Family member of Gupta files petition in Supreme Court. New Delhi takes input from Indian-American lawmakers seriously and establishes high-level committee. Indian government employee recruited Gupta for foiled assassination plot. Plea filed in Supreme Court seeking assistance.
+
+## Stormy winter session: PM Modi meets Lok Sabha Speaker
+ - [https://timesofindia.indiatimes.com/india/stormy-winter-session-pm-modi-meets-lok-sabha-speaker-om-birla-after-lower-house-adjourns-sine-die/articleshow/106186412.cms](https://timesofindia.indiatimes.com/india/stormy-winter-session-pm-modi-meets-lok-sabha-speaker-om-birla-after-lower-house-adjourns-sine-die/articleshow/106186412.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T12:47:33+00:00
+
+
+
+## Is Rahul Gandhi planning Bharat Jodo Yatra 2.0?
+ - [https://timesofindia.indiatimes.com/india/is-rahul-gandhi-planning-bharat-jodo-yatra-2-0-what-congress-president-mallikarjun-kharge-said/articleshow/106186516.cms](https://timesofindia.indiatimes.com/india/is-rahul-gandhi-planning-bharat-jodo-yatra-2-0-what-congress-president-mallikarjun-kharge-said/articleshow/106186516.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T12:43:40+00:00
+
+
+
+## AAP MP Sanjay Singh's judicial custody extended till Jan 10
+ - [https://timesofindia.indiatimes.com/india/court-extends-aap-mp-sanjay-singhs-judicial-custody-in-excise-scam-case-till-jan-10/articleshow/106185832.cms](https://timesofindia.indiatimes.com/india/court-extends-aap-mp-sanjay-singhs-judicial-custody-in-excise-scam-case-till-jan-10/articleshow/106185832.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T12:19:22+00:00
+
+Delhi court extends judicial custody of Sanjay Singh till January 10 in excise scam case. Enforcement Directorate asked to provide copy of fifth supplementary charge sheet and related documents. Issue of identity of prosecution witness pending before witness protection committee. E-copy of supplementary complaint, with witness mentioned as 'Alpha', given to AAP leader. Court directs supply of previous chargesheets, relied upon documents, and pending orders by December 23. Singh's custody extended till January 10. Anti-money laundering agency arrested Singh on October 4.
+
+## Explained: 'Person of The Year' awards
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/explained-person-of-the-year-awards/articleshow/106184548.cms](https://timesofindia.indiatimes.com/world/rest-of-world/explained-person-of-the-year-awards/articleshow/106184548.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T12:09:10+00:00
+
+
+
+## Terrorists ambush army vehicle in J&K’s Poonch district
+ - [https://timesofindia.indiatimes.com/india/terrorists-ambush-army-vehicle-in-jks-poonch-district/articleshow/106185192.cms](https://timesofindia.indiatimes.com/india/terrorists-ambush-army-vehicle-in-jks-poonch-district/articleshow/106185192.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T12:02:43+00:00
+
+
+
+## 'People holding constitutional positions becoming part of party politics'
+ - [https://timesofindia.indiatimes.com/india/people-holding-constitutional-positions-becoming-part-of-party-politics-says-congress-president-mallikarjun-kharge/articleshow/106184120.cms](https://timesofindia.indiatimes.com/india/people-holding-constitutional-positions-becoming-part-of-party-politics-says-congress-president-mallikarjun-kharge/articleshow/106184120.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T11:48:50+00:00
+
+
+
+## 'I quit wrestling': Sakshi Malik says she won't compete under Brij Bhushan loyalist
+ - [https://timesofindia.indiatimes.com/sports/more-sports/wrestling/i-quit-wrestling-sakshi-malik-says-she-wont-compete-under-presidency-of-brij-bhushan-loyalist/articleshow/106184440.cms](https://timesofindia.indiatimes.com/sports/more-sports/wrestling/i-quit-wrestling-sakshi-malik-says-she-wont-compete-under-presidency-of-brij-bhushan-loyalist/articleshow/106184440.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T11:37:29+00:00
+
+"We slept for 40 days on the roads and a lot of people from several parts of the country came to support us. If Brij Bhushan Singh's business partner and a close aide is elected as the president of WFI, I quit wrestling...," said Sakshi Malik while addressing the media. "It's unfortunate that government did not stand by its word that no Brij Bhushan loyalist will contest WFI election," said Bajrang Punia, who was part of the protest against Brij Bhushan.
+
+## 'Salaar' VS 'Dunki': Rift regarding screens finally ends
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salaar-vs-dunki-rift-regarding-screens-finally-ends-prabhas-starrer-to-release-in-national-chains-with-equal-sharing-with-shah-rukh-khans-film/articleshow/106183519.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salaar-vs-dunki-rift-regarding-screens-finally-ends-prabhas-starrer-to-release-in-national-chains-with-equal-sharing-with-shah-rukh-khans-film/articleshow/106183519.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T11:18:10+00:00
+
+Since the last few days, there was a huge rift going on as two biggies 'Salaar Part 1: Ceasefire' and 'Dunki' clash at the box office. Reportedly, some theatre chains were not being fair by giving equal number of screens to the Prabhas starrer. However, the issue is finally resolved!
+
+## Why BSE Sensex climbed over 900 points from day's low
+ - [https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-nifty50-recover-december-21-2023-dalal-street-climbs-up-top-reasons/articleshow/106181727.cms](https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-nifty50-recover-december-21-2023-dalal-street-climbs-up-top-reasons/articleshow/106181727.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T10:21:49+00:00
+
+The S&amp;P BSE Sensex surged by more than 900 points from its intra-day low of 69,920, while the Nifty climbed by 300 points to reach a high of 21,288. HDFC Bank and RIL were the top contributors to the index, followed by Infosys.
+
+## Brij Bhushan loyalist Sanjay Singh becomes new WFI president
+ - [https://timesofindia.indiatimes.com/sports/more-sports/wrestling/brij-bhushan-loyalist-sanjay-singh-elected-as-president-of-wrestling-federation-of-india/articleshow/106181209.cms](https://timesofindia.indiatimes.com/sports/more-sports/wrestling/brij-bhushan-loyalist-sanjay-singh-elected-as-president-of-wrestling-federation-of-india/articleshow/106181209.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T10:00:21+00:00
+
+Sanjay Singh, , who is closely associated with Brij Bhushan, has been elected as the new president of the Wrestling Federation of India (WFI), with his panel winning most of the posts in delayed polls. Singh, Vice President of the UP Wrestling Association, secured 40 votes compared to Anita Sheoran's seven. The election results disappointed top wrestlers Bajrang Punia, Vinesh Phogat, and Sakshi Malik, who had been pushing for a change of leadership.
+
+## Second malaria vaccine prequalified by WHO: Know what this means
+ - [https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/second-malaria-vaccine-prequalified-by-who-know-what-this-means/articleshow/106180714.cms](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/second-malaria-vaccine-prequalified-by-who-know-what-this-means/articleshow/106180714.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T09:40:25+00:00
+
+The World Health Organisation (WHO) has added the second malaria vaccine to its list of prequalified vaccines. The vaccine, R21/ Matrix-M malaria vaccine, was recommended by the WHO for malaria treatment in October 2023. The R21 vaccine is the second malaria vaccine prequalified by the WHO, following the RTS, S/AS01 vaccine which obtained prequalification status in July 2022. The R21 vaccine has been developed by Oxford University and manufactured by Serum Institute of India. RTS, S/AS01 vaccine was approved last year.
+
+## How to use Grok, the new AI tool of X
+ - [https://timesofindia.indiatimes.com/etimes/trending/how-to-use-grok-the-new-ai-tool-of-x/articleshow/106179582.cms](https://timesofindia.indiatimes.com/etimes/trending/how-to-use-grok-the-new-ai-tool-of-x/articleshow/106179582.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T09:30:00+00:00
+
+Twitter's GROK feature welcomes users with a message. Grok is a new feature on X. It is accessible to premium+ subscribers. Grok offers two modes: Fun mode and regular mode. Fun mode generates humorous and sarcastic responses, while regular mode provides straightforward facts. Grok AI competes with Google Bard and ChatGPT. It has two options: fun mode and regular mode. Grok AI is competing directly against Google Bard, ChatGPT and several other AI predicting tools.
+
+## Single app to track cargo across rail, land, sea & air
+ - [https://timesofindia.indiatimes.com/business/india-business/soon-single-app-to-track-cargo-across-rail-land-sea-air-uberisation-of-trucks-on-cards/articleshow/106179530.cms](https://timesofindia.indiatimes.com/business/india-business/soon-single-app-to-track-cargo-across-rail-land-sea-air-uberisation-of-trucks-on-cards/articleshow/106179530.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T09:28:32+00:00
+
+India Inc will soon have access to a single app that will allow them to track their cargo in real-time across all modes of transportation - land, rail, sea, and air. More than 700 companies have already signed up for this app.
+
+## NY airport: Man caught carrying baby diaper with 17 bullets
+ - [https://timesofindia.indiatimes.com/world/us/man-caught-at-new-york-airport-with-baby-diaper-concealing-17-bullets-blames-girlfriend/articleshow/106180107.cms](https://timesofindia.indiatimes.com/world/us/man-caught-at-new-york-airport-with-baby-diaper-concealing-17-bullets-blames-girlfriend/articleshow/106180107.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T09:25:15+00:00
+
+Security officers at LaGuardia Airport detected 17 bullets concealed within a disposable baby diaper in a passenger's carry-on bag. The bullets were discovered when the diaper triggered an alarm in an X-ray machine at a security checkpoint. The passenger, a man from Arkansas, initially claimed ignorance about the bullet-filled diaper, suggesting that his girlfriend might have placed it there. The man was cited by Port Authority police for unlawful possession of ammunition. This incident is the latest case of bullets being found at LaGuardia Airport, which has seen similar incidents in the past.
+
+## Career Prediction for New Year 2024
+ - [https://timesofindia.indiatimes.com/astrology/horoscope/yearly/career-prediction-for-new-year-2024/articleshow/106179024.cms](https://timesofindia.indiatimes.com/astrology/horoscope/yearly/career-prediction-for-new-year-2024/articleshow/106179024.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T09:14:36+00:00
+
+Career Prediction for New Year 2024: Aries; They will see the hard work pay off with recognition at work and job changes in the first quarter. Taurus; They can expect new opportunities and recognition in government service or contracts. Gemini; They will thrive in computing, research, or journalism and should focus on working smart. Pisces; The work environment will be peaceful and conducive to your professional efforts.
+
+## Parl breach case: Police custody of 4 accused extended
+ - [https://timesofindia.indiatimes.com/india/parliament-security-breach-case-delhi-court-extends-police-custody-of-4-accused-till-january-5/articleshow/106179923.cms](https://timesofindia.indiatimes.com/india/parliament-security-breach-case-delhi-court-extends-police-custody-of-4-accused-till-january-5/articleshow/106179923.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T09:13:53+00:00
+
+
+
+## Parliament clears bill to appoint top poll officials
+ - [https://timesofindia.indiatimes.com/india/parliament-gives-nod-to-bill-on-appointment-service-conditions-of-cec-ecs/articleshow/106178799.cms](https://timesofindia.indiatimes.com/india/parliament-gives-nod-to-bill-on-appointment-service-conditions-of-cec-ecs/articleshow/106178799.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T08:36:42+00:00
+
+
+
+## CISF to take over Parliament security from Delhi Police
+ - [https://timesofindia.indiatimes.com/india/december-13-breach-govt-to-rope-in-cisf-for-comprehensive-parliament-security/articleshow/106177676.cms](https://timesofindia.indiatimes.com/india/december-13-breach-govt-to-rope-in-cisf-for-comprehensive-parliament-security/articleshow/106177676.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T08:12:46+00:00
+
+The CISF will render access control to the new and old Parliament complex in an airport security-like fashion. As per sources, body frisking of visitors will be done through hand-held detectors and their belongings will be checked through X-ray machines, with a provision to even scan shoes, heavy jackets and belts. Earlier, frisking of visitors to Parliament complex was done by Delhi Police. In a major security breach on December 13, two intruders jumped into Lok Sabha from visitors' gallery and released smoke canisters before being apprehended by the Delhi Police.
+
+## Fire in Gopaldas building at Delhi's Barakhamba Road
+ - [https://timesofindia.indiatimes.com/city/delhi/fire-in-gopaldas-building-at-delhis-barakhamba-road/articleshow/106177873.cms](https://timesofindia.indiatimes.com/city/delhi/fire-in-gopaldas-building-at-delhis-barakhamba-road/articleshow/106177873.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T08:09:23+00:00
+
+
+
+## Samsung brings this Apple Watch feature to its smartwatches
+ - [https://timesofindia.indiatimes.com/gadgets-news/samsung-brings-this-apple-watch-feature-to-its-own-smartwatches/articleshow/106177642.cms](https://timesofindia.indiatimes.com/gadgets-news/samsung-brings-this-apple-watch-feature-to-its-own-smartwatches/articleshow/106177642.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T08:07:30+00:00
+
+Samsung has added a medication tracking feature to the Samsung Health app. The feature allows users to easily log and manage both prescription and over-the-counter medications. Users can enter the name of a medication to get detailed information about it, including descriptions and possible side effects. They can also log the shape and color of their medications for easy identification. The feature includes alerts to remind users when to take their medications and when to refill them. Galaxy Watch users will also receive reminders on their wrist.
+
+## 'India’s def research budget not enough to make it global power'
+ - [https://timesofindia.indiatimes.com/business/india-business/indias-defence-research-budget-not-sufficient-to-make-it-a-global-power-parliamentary-panel/articleshow/106174085.cms](https://timesofindia.indiatimes.com/business/india-business/indias-defence-research-budget-not-sufficient-to-make-it-a-global-power-parliamentary-panel/articleshow/106174085.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T08:03:24+00:00
+
+In a report on the functioning of the Defence Research and Development Organisation (DRDO), the committee has emphasized the need to increase the allocation for research from the current 5.38% to 8-10% of the budget.
+
+## Watch: Dhoni's graceful reply when asked to support RCB
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-how-will-csk-fans-feel-dhonis-graceful-reply-when-asked-to-support-rcb/articleshow/106176470.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-how-will-csk-fans-feel-dhonis-graceful-reply-when-asked-to-support-rcb/articleshow/106176470.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T07:24:55+00:00
+
+Mahendra Singh Dhoni, former India captain, is currently in Dubai where the IPL 2024 auction was held. In a viral video, a 'die-hard RCB fan for 16 years' asks Dhoni to win one trophy for RCB. Dhoni's graceful response receives loud cheering and clapping from the audience. Dhoni, as the face of Chennai Super Kings, has led the team to five IPL titles, establishing them as one of the most dominant teams in the tournament's history. His leadership, tactical brilliance, and ability to handle pressure have made him a legendary figure in cricket.
+
+## 'Top bowler, but...': Gillespie questions Cummins' IPL price tag
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pat-is-a-top-quality-bowler-but-jason-gillespie-questions-pat-cummins-ipl-price-tag/articleshow/106175509.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pat-is-a-top-quality-bowler-but-jason-gillespie-questions-pat-cummins-ipl-price-tag/articleshow/106175509.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T07:15:56+00:00
+
+Former Australian fast bowler Jason Gillespie has raised doubts about Pat Cummins' high price tag in the Indian Premier League (IPL). Gillespie believes that T20 cricket is not Cummins' strongest format, but supports Mitchell Starc's record-breaking deal. Cummins, the Australian captain, was involved in a bidding war for a contract worth Rs 20.50 crore. Gillespie believes that while Cummins is a top-quality bowler and great leader, he excels in Test cricket, which is where he excels.
+
+## FBI offers $10K reward for info on missing Indian student
+ - [https://timesofindia.indiatimes.com/india/fbi-offers-10000-reward-for-information-on-missing-indian-student-mayushi-bhagat-from-new-jersey-since-2019/articleshow/106174765.cms](https://timesofindia.indiatimes.com/india/fbi-offers-10000-reward-for-information-on-missing-indian-student-mayushi-bhagat-from-new-jersey-since-2019/articleshow/106174765.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T06:35:51+00:00
+
+
+
+## Social media platform X suffers global outage
+ - [https://timesofindia.indiatimes.com/gadgets-news/social-media-platform-x-suffers-global-outage-users-cant-see-any-posts/articleshow/106162943.cms](https://timesofindia.indiatimes.com/gadgets-news/social-media-platform-x-suffers-global-outage-users-cant-see-any-posts/articleshow/106162943.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T06:11:42+00:00
+
+Social media platform X (formerly known as Twitter) experienced a widespread outage, leaving millions of users unable to tweet or access their timelines. The outage, which started around 11 am IST, affected both web and mobile apps. Users reported encountering error messages and a completely blank "For You" and "Following" feed. Downdetector confirmed the widespread nature of the issue based on a surge in user reports. Despite occasional past outages, the global scale and lack of immediate resolution have raised user concerns. X has not provided updates, leaving users anxiously awaiting a return to normalcy.
+
+## Govt Plans new high-speed NHs, targets 85 kmph avg speed
+ - [https://timesofindia.indiatimes.com/business/india-business/more-high-speed-national-highway-corridors-soon-government-looks-to-increase-average-speed-to-85-kmph/articleshow/106172837.cms](https://timesofindia.indiatimes.com/business/india-business/more-high-speed-national-highway-corridors-soon-government-looks-to-increase-average-speed-to-85-kmph/articleshow/106172837.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T05:56:32+00:00
+
+India will ultimately require approximately 50,000 km of high-speed corridors. Currently, only 3,900 km of such corridors are operational, but this figure is expected to reach around 11,000 km by 2026-27.
+
+## #BoycottPVRINOX trends on social media
+ - [https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/boycottpvrinox-trends-on-social-media-amidst-the-salaar-and-dunki-releases/articleshow/106173012.cms](https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/boycottpvrinox-trends-on-social-media-amidst-the-salaar-and-dunki-releases/articleshow/106173012.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T05:44:30+00:00
+
+The theater chains in Andhra Pradesh and Telangana have allotted more screens for Shah Rukh Khan's 'Dunki' rather than Prabhas's 'Salaar', disappointing fans. This has led fans to choose single-screen exhibitors or small private theaters that have opted out of 'Dunki' screening. The hashtag #BoycottPVRINOX has trended on Twitter as fans demand equal screen share for both movies. Prabhas's 'Salaar' has overtaken 'Dunki' in advance ticket booking and pre-sales in southern states, leading the makers to request fair screen distribution across the country.
+
+## What Rlys plans to do to run new trains at higher speeds
+ - [https://timesofindia.indiatimes.com/business/india-business/vande-bharat-express-what-indian-railways-plans-to-do-to-run-new-trains-at-higher-speeds/articleshow/106172563.cms](https://timesofindia.indiatimes.com/business/india-business/vande-bharat-express-what-indian-railways-plans-to-do-to-run-new-trains-at-higher-speeds/articleshow/106172563.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T05:30:36+00:00
+
+Vande Bharat is a semi-high speed train service capable of hitting speeds of up to 160 kmph. However, Indian Railways has not been able to operate these new age trains at such high speeds due to signalling, track infrastructure and fencing restrictions.
+
+## TN minister K Ponmudy gets 3 years in jail in corruption case
+ - [https://timesofindia.indiatimes.com/city/chennai/madras-high-court-sentences-tn-minister-k-ponmudy-to-three-years-imprisonment-suspends-sentence-for-30-days/articleshow/106172620.cms](https://timesofindia.indiatimes.com/city/chennai/madras-high-court-sentences-tn-minister-k-ponmudy-to-three-years-imprisonment-suspends-sentence-for-30-days/articleshow/106172620.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T05:27:56+00:00
+
+Since the sentence has been suspended for 30 days, the minister and his wife will not be imprisoned immediately.
+
+## Watch: Dream start for India against Australia in one-off Test
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/watch-dream-start-for-india-against-australia-in-one-off-test/articleshow/106172409.cms](https://timesofindia.indiatimes.com/sports/cricket/news/watch-dream-start-for-india-against-australia-in-one-off-test/articleshow/106172409.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T05:18:05+00:00
+
+India's brilliant start in the one-off Test against Australia at the Wankhede Stadium saw Phoebe Litchfield being run out due to a misunderstanding with Beth Mooney. Jemimah Rodrigues capitalized on the opportunity and threw the ball to keeper Yastika Bhatia, resulting in Litchfield's diamond duck. Ellyse Perry was then clean bowled by Pooja Vastrakar with a delivery that came back in. India aims to ensnare Australia in a spin trap and secure their maiden Test win against them.
+
+## Ex-top cop's son detained in Parliament security breach case
+ - [https://timesofindia.indiatimes.com/india/retired-deputy-sps-son-detained-in-parliament-security-breach-case/articleshow/106172363.cms](https://timesofindia.indiatimes.com/india/retired-deputy-sps-son-detained-in-parliament-security-breach-case/articleshow/106172363.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T05:17:02+00:00
+
+The Delhi police have taken into custody a youth from Karnataka in connection the security breach in Parliament, official sources said on Thursday. Saikrishna Jagali, a techie and son of a retired Deputy Superintendent of Police, was picked up from his house at Vidyagiri in the district headquarters town of Bagalkote on Wednesday night. Jagali, who works with a multinational company in Bengaluru, is said to be a friend of Manoranjan D, a resident of Mysuru, one of the two intruders who trespassed into the Lok Sabha chamber last week.
+
+## Crooks use remote app to get loan, steal Rs 18L from man's a/c
+ - [https://timesofindia.indiatimes.com/city/pune/crooks-use-remote-app-to-get-loan-steal-rs-18l-from-mans-a/c/articleshow/106171839.cms](https://timesofindia.indiatimes.com/city/pune/crooks-use-remote-app-to-get-loan-steal-rs-18l-from-mans-a/c/articleshow/106171839.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T04:56:45+00:00
+
+Cybercrooks availed a Rs16 lakh personal loan in the name of a Mangalwar Peth resident by posing as customer cell representatives of a leading private bank. They used a remote access app to gain control of the victim's phone banking app. The victim reported the incident to Pune Cyber police, who then registered a formal FIR. The fraudsters transferred a total of Rs18.35 lakh from the victim's account through multiple transactions.
+
+## 'Politically motivated, illegal': Kejriwal on ED summons
+ - [https://timesofindia.indiatimes.com/city/delhi/delhi-cm-arvind-kejriwal-responds-to-ed-summons-politically-motivated-illegal/articleshow/106171109.cms](https://timesofindia.indiatimes.com/city/delhi/delhi-cm-arvind-kejriwal-responds-to-ed-summons-politically-motivated-illegal/articleshow/106171109.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T04:33:30+00:00
+
+
+
+## Exclusive: Dwayne Smith lauds Raina, laments WI's downfall
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/exclusive-the-best-cricketer-ive-ever-met-dwayne-smith-lauds-suresh-raina-and-laments-west-indies-crickets-downfall/articleshow/106169437.cms](https://timesofindia.indiatimes.com/sports/cricket/news/exclusive-the-best-cricketer-ive-ever-met-dwayne-smith-lauds-suresh-raina-and-laments-west-indies-crickets-downfall/articleshow/106169437.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T03:52:00+00:00
+
+Suresh Raina, a former India cricketer, is known for his explosive batting and exceptional fielding skills. Raina played a pivotal role in India's limited-overs success, contributing significantly to the team's victory in the 2011 ICC ODI World Cup. He was the first Indian to score centuries in all three formats, setting a benchmark for athleticism in the field. Raina's selflessness and team-first mindset are appreciated by West Indian cricketing icon Dwayne Smith, who played for Urbanrisers Hyderabad under Raina in the 2023 Legends League Cricket T20.
+
+## BSE Sensex, Nifty50 slide further as bears stall mkt bull run
+ - [https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-nifty50-december-21-2023-dalal-street-rally/articleshow/106170021.cms](https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-nifty50-december-21-2023-dalal-street-rally/articleshow/106170021.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T03:51:56+00:00
+
+BSE Sensex, Nifty50 continue to be hit by bear attack: The stock market today opened in red, with both benchmark indices - BSE Sensex and Nifty50 - tanking 0.5% in opening trade.
+
+## I’m glad that my son is growing up in a musical household: Ghoshal
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/im-glad-that-my-son-is-growing-up-in-a-musical-household-just-like-i-did-shreya-ghoshal/articleshow/106161949.cms](https://timesofindia.indiatimes.com/tv/news/hindi/im-glad-that-my-son-is-growing-up-in-a-musical-household-just-like-i-did-shreya-ghoshal/articleshow/106161949.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T03:30:00+00:00
+
+Shreya Ghoshal, a doting mother to her two-year-old son Devyaan, hopes that he grows up in a musical household like her.
+
+## Ayodhya roads to get signages in Tamil, Telugu
+ - [https://timesofindia.indiatimes.com/city/lucknow/ayodhya-roads-to-get-signages-in-tamil-convenience-for-devotees/articleshow/106169800.cms](https://timesofindia.indiatimes.com/city/lucknow/ayodhya-roads-to-get-signages-in-tamil-convenience-for-devotees/articleshow/106169800.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T03:26:55+00:00
+
+
+
+## Australian fisherman makes startling claim about MH370
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/mh370-australian-fisherman-comes-forward-with-startling-claim-about-missing-plane/articleshow/106169386.cms](https://timesofindia.indiatimes.com/world/rest-of-world/mh370-australian-fisherman-comes-forward-with-startling-claim-about-missing-plane/articleshow/106169386.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T03:18:50+00:00
+
+A seasoned Australian fisherman, Kit Olver, has recently come forward with a startling claim: he believes he discovered a part of the missing Malaysia Airlines flight MH370. The plane, which vanished on March 8, 2014, with 227 passengers and 12 crew members aboard, has been the subject of the most costly ocean search in history, yet remains unfound. Olver, now retired, recounts that in September or October of 2014, just months after the flight's disappearance, his deep-sea trawler hauled up what he is convinced was a wing of the commercial airliner.
+
+## Exclusive: Shikhar Dhawan reveals how he plans to lead Punjab Kings
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/exclusive-building-a-strong-team-bond-is-shikhar-dhawan-reveals-how-he-plans-to-lead-punjab-kings-in-ipl-2024/articleshow/106168927.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/exclusive-building-a-strong-team-bond-is-shikhar-dhawan-reveals-how-he-plans-to-lead-punjab-kings-in-ipl-2024/articleshow/106168927.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T03:14:05+00:00
+
+Shikhar Dhawan, the second highest all-time leading run scorer in the Indian Premier League (IPL), discusses his plans as captain of the Punjab Kings for the upcoming season. He emphasizes the importance of team unity and strategy, effective communication, and handling pressure situations. Dhawan also explains how he adapts his game for different cricket formats and shares the qualities that make a successful team captain. At 38 years old, he attributes his fitness to regular exercise, a balanced diet, sufficient sleep, and healthy lifestyle choices.
+
+## How to recover deleted pictures in Google Photos
+ - [https://timesofindia.indiatimes.com/gadgets-news/how-to-recover-deleted-pictures-in-google-photos/articleshow/106168821.cms](https://timesofindia.indiatimes.com/gadgets-news/how-to-recover-deleted-pictures-in-google-photos/articleshow/106168821.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T03:09:42+00:00
+
+This article discusses how to recover deleted photos from Google Photos. First, check the Google Photos Trash Bin, where deleted items are temporarily stored for 60 days. If the photo is not in the Trash Bin, search your Google Drive or your phone's gallery. You can also try using third-party data recovery tools. To prevent future photo loss, enable automatic backup, regularly export photos, and use Google Photos' Archive and Lock features. By following these steps, you can increase your chances of rescuing your precious memories.
+
+## Jasmine Bhasin reveals when will she marry boyfriend Aly Goni
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/jasmine-bhasin-reveals-when-will-she-marry-boyfriend-aly-goni-meets-her-childhood-friend-after-a-decade/articleshow/106168207.cms](https://timesofindia.indiatimes.com/tv/news/hindi/jasmine-bhasin-reveals-when-will-she-marry-boyfriend-aly-goni-meets-her-childhood-friend-after-a-decade/articleshow/106168207.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T02:59:56+00:00
+
+Jasmine Bhasin and Aly Goni, popular celebrities known for their adorable couple moments, continue to captivate their fans with their sweet clicks and vlogs. Fans, paparazzi, and even those around them constantly inquire about their marriage plans. In a recent vlog, Jasmine shared her experience of a spiritual retreat in Bangalore, accompanied by her good friend Krishna Mukherjee. She expressed feeling a stronger spiritual connection and improved mental well-being during her stay. Jasmine also reunited with her childhood friend, Bhanushree, whom she hadn't met in person for a decade.
+
+## Does Covid prefer the gut now?
+ - [https://timesofindia.indiatimes.com/india/covid-19-cases-jn-1-variant-ba-2-86-or-pirola-variant/articleshow/106167757.cms](https://timesofindia.indiatimes.com/india/covid-19-cases-jn-1-variant-ba-2-86-or-pirola-variant/articleshow/106167757.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T02:59:37+00:00
+
+Scientists are investigating whether the JN.1 variant of Covid-19 is targeting peoples' intestinal tracts. JN.1 is highly infectious and immune evasive, prompting suggestions that it needs its own Greek name. The variant has changed its requirements for entering cells, potentially leading to more efficient infection of specific tissues such as the gut. JN.1 is rapidly spreading and has been designated a variant of interest by the World Health Organization. It accounts for a significant proportion of strains in circulation and is contributing to rising Covid hospitalizations.
+
+## Woman’s intimate videos circulated for not paying ransom
+ - [https://timesofindia.indiatimes.com/city/ahmedabad/intimate-videos-circulated-woman-files-complaint-with-cybercrime-police/articleshow/106168476.cms](https://timesofindia.indiatimes.com/city/ahmedabad/intimate-videos-circulated-woman-files-complaint-with-cybercrime-police/articleshow/106168476.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T02:58:22+00:00
+
+
+
+## Hyd: Mom, brother stay with woman’s body at home for a week
+ - [https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-mom-brother-stay-with-womans-body-at-home-for-a-week/articleshow/106168174.cms](https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-mom-brother-stay-with-womans-body-at-home-for-a-week/articleshow/106168174.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T02:49:59+00:00
+
+
+
+## Man falls for nude woman on WhatsApp, extorted of Rs 6L
+ - [https://timesofindia.indiatimes.com/city/surat/surat-man-falls-for-nude-woman-on-whatsapp-extorted-of-rs-6-lakh/articleshow/106167484.cms](https://timesofindia.indiatimes.com/city/surat/surat-man-falls-for-nude-woman-on-whatsapp-extorted-of-rs-6-lakh/articleshow/106167484.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T02:14:02+00:00
+
+A diamond worker in Surat was extorted of around Rs 6 lakh after accepting a friendship request from Puja Sharma on Facebook. They exchanged phone numbers and had a video call where Sharma lured him into getting naked. She disconnected the call after he complied. Later, he received a video from Sharma and got a call from a person posing as 'DSP' Sunil Dubey, who asked for money to delete the video. The victim transferred Rs 5.65 lakh to a fake YouTube official, but eventually reported the incident to the cyber helpline.
+
+## ​Bengaluru tops list of night-time moviegoers
+ - [https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-tops-list-of-night-time-moviegoers-shows-survey/articleshow/106167451.cms](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-tops-list-of-night-time-moviegoers-shows-survey/articleshow/106167451.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T02:11:26+00:00
+
+Bengaluru has the largest group of night-time movie goers among other metro cities, as per BookMyShow survey. The survey shows that Bengalureans kept themselves entertained in huge numbers even during late nights. About 1.2 million Bengalureans attended live entertainment events and the platform helped organize close to 6,000 events in the city during 2023. Bengaluru celebrated the Independence Day weekend with movies, with the highest sale of tickets on August 12. A total of 1 million tickets were sold between August 10 and 15 in Bengaluru.
+
+## Intel to cut 200-plus jobs in 5th round of layoffs this year
+ - [https://timesofindia.indiatimes.com/gadgets-news/intel-to-cut-200-plus-jobs-in-5th-round-of-layoffs-this-year-heres-what-regulatory-filing-says/articleshow/106167313.cms](https://timesofindia.indiatimes.com/gadgets-news/intel-to-cut-200-plus-jobs-in-5th-round-of-layoffs-this-year-heres-what-regulatory-filing-says/articleshow/106167313.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T01:54:29+00:00
+
+Intel is cutting 235 jobs in its fifth round of layoffs. The semiconductor giant plans to reduce costs and accelerate its strategy through multiple initiatives. The layoffs will take place at its research and development facility in Folsom. Intel has previously eliminated 549 positions at the Folsom campus. Reports suggest that up to 20% of employees may be laid off in the client computing and data centre divisions. The company aims to reduce costs by $10 billion by 2025.
+
+## Shrenu Parikh's grand engagement and sangeet ceremony
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/shrenu-parikhs-grand-engagement-and-sangeet-ceremony-bride-to-be-performs-a-dreamy-dance-with-beau-akshay-mhatre-bffs-surbhi-chandna-and-mansi-srivastava-share-pics/articleshow/106167242.cms](https://timesofindia.indiatimes.com/tv/news/hindi/shrenu-parikhs-grand-engagement-and-sangeet-ceremony-bride-to-be-performs-a-dreamy-dance-with-beau-akshay-mhatre-bffs-surbhi-chandna-and-mansi-srivastava-share-pics/articleshow/106167242.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T01:52:58+00:00
+
+Shrenu Parikh and Akshay Mhatre are getting married today in Vadodara. The wedding blends Gujarati and Maharashtrian cultures. Yesterday, they had their haldi and engagement ceremony. They had a dance performance at the engagement ceremony. Shrenu arrived at her haldi function on a scooty wearing a nauvari saree, while Akshay wore a green kurta pyjama. The haldi ceremony was performed by friends and family, applying haldi to both of them. Take a look at their fairytale pre-wedding ceremonies:
+
+## EU has new ruling for three of the biggest porn websites
+ - [https://timesofindia.indiatimes.com/gadgets-news/eu-has-new-ruling-for-three-of-the-biggest-porn-websites-in-the-world/articleshow/106167283.cms](https://timesofindia.indiatimes.com/gadgets-news/eu-has-new-ruling-for-three-of-the-biggest-porn-websites-in-the-world/articleshow/106167283.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T01:52:14+00:00
+
+Pornhub, XVideos, and Stripchat, the three largest porn websites, now face age verification requirements in the European Union. The EU's Digital Services Act (DSA) imposes stricter controls on these platforms, which have 45 million average monthly users. France, Germany, and Britain, along with US states like Utah and Texas, have drafted laws requiring age verification on porn sites. Methods such as checking credit cards, government-issued IDs, or scanning faces could be used. The DSA also aims to curb the spread of illegal content, including child sexual abuse material and non-consensual images.
+
+## Sub-inspector run over by liquor-loaded car in dry Bihar
+ - [https://timesofindia.indiatimes.com/city/patna/si-knocked-down-by-liquor-laden-car-in-begusarai-dies/articleshow/106167113.cms](https://timesofindia.indiatimes.com/city/patna/si-knocked-down-by-liquor-laden-car-in-begusarai-dies/articleshow/106167113.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T01:34:08+00:00
+
+A sub-inspector (SI) of police died and two home guard jawans were injured when a car driver allegedly carrying liquor knocked them down near Chhatauna Burhi Gandak bridge in Begusarai district. The incident took place just over a month after another SI was run over by a tractor carrying illegally mined sand in Jamui district. Acting on a tip-off, SI Khamas Choudhary (47) along with three home guard jawans on patrolling tried to intercept the vehicle. The car driver accelerated the speed, knocked the policemen, and sped away.
+
+## KBC 15: Contestant misses winning Rs 3,20,000; takes Rs 10,000
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-15-contestant-sudhir-sharma-misses-winning-rs-320000-after-he-wrongly-answers-a-question-on-mens-cricket-world-cup-2027-takes-home-rs-10000/articleshow/106167030.cms](https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-15-contestant-sudhir-sharma-misses-winning-rs-320000-after-he-wrongly-answers-a-question-on-mens-cricket-world-cup-2027-takes-home-rs-10000/articleshow/106167030.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T01:30:00+00:00
+
+Contestant Sudhir Sharma from Rajasthan joins host Amitabh Bachchan on Kaun Banega Crorepati 15. Sudhir is a radio presenter at All India Radio and presents the show 'MaruDhara' in Marwadi language. He correctly answers questions about the festival Janmashtami and the Yadav community's Sadar festival in Telangana. Sudhir wins Rs 10,000 after using lifelines and impresses Amitabh Bachchan with his singing skills. Take a look at what the right answer was that Sudhir missed for the question:
+
+## Lost ancient city under Ramganga's banks in Uttarakhand's Almora? ASI may explore
+ - [https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-lost-city-under-almora-asi-plans-to-explore/articleshow/106166917.cms](https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-lost-city-under-almora-asi-plans-to-explore/articleshow/106166917.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T01:02:57+00:00
+
+
+
+## UP: Beer shops can have their own drinking area
+ - [https://timesofindia.indiatimes.com/city/noida/spreading-cheer-beer-shops-in-up-can-have-their-own-drinking-area/articleshow/106166778.cms](https://timesofindia.indiatimes.com/city/noida/spreading-cheer-beer-shops-in-up-can-have-their-own-drinking-area/articleshow/106166778.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T00:48:17+00:00
+
+Under the new excise policy in Uttar Pradesh, beer shops will be able to apply for a drinking area similar to model shops. The excise department will issue licences to vendors with a 100-square-foot area near their shop for beer consumption. The annual license fee will be Rs 5,000. However, food cannot be served at the beer shops. This initiative aims to prevent drinking on the roadside or in cars and improve revenue. The new policy will come into effect on April 1, 2024.
+
+## Will look into any evidence shared on Pannun ‘plot’: PM Modi
+ - [https://timesofindia.indiatimes.com/india/will-look-into-any-evidence-shared-on-pannun-plot-pm-modi/articleshow/106166678.cms](https://timesofindia.indiatimes.com/india/will-look-into-any-evidence-shared-on-pannun-plot-pm-modi/articleshow/106166678.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T00:34:48+00:00
+
+Speaking for the first time on the alleged plot to assassinate pro-Khalistan leader Gurpatwant Singh Pannun, which was allegedly masterminded by an Indian official, PM Modi said India would look into any evidence shared and that it remained committed to the rule of law. “If someone gives us any information, we would definitely look into it. If a citizen of ours has done anything good or bad, we are ready to look into it. Our commitment is to the rule of law,” Modi said in an interview to the Financial Times.
+
+## Lok Sabha okays Telecom Bill to overhaul archaic law
+ - [https://timesofindia.indiatimes.com/business/india-business/lok-sabha-okays-telecom-bill-to-overhaul-archaic-law/articleshow/106166551.cms](https://timesofindia.indiatimes.com/business/india-business/lok-sabha-okays-telecom-bill-to-overhaul-archaic-law/articleshow/106166551.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-21T00:03:28+00:00
+
+
+

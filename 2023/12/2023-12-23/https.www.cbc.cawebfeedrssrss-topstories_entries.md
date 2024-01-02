@@ -1,0 +1,65 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Premier League has its 1st female referee as Rebecca Welch handles Fulham vs. Burnley
+ - [https://www.cbc.ca/sports/soccer/premier-league-1st-female-referee-1.7068914?cmp=rss](https://www.cbc.ca/sports/soccer/premier-league-1st-female-referee-1.7068914?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-23T10:34:17+00:00
+
+<img alt="A female referee dressed in black is seen gesturing in the soccer pitch as fans watch on from the stands behind her." height="349" src="https://i.cbc.ca/1.7068915.1703345443!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rebecca-welch-23122023.jpg" title="Rebecca Welch made history on Saturday as she became the first female referee to oversee a Premier League match during a Fulham FC and Burnley FC matchup in London." width="620" /><p>The Premier League has its first female referee. Rebecca Welch blew her whistle to start the match between Fulham and Burnley on Saturday in a landmark moment for England's top league.</p>
+
+## Paramedics who responded to Elijah McClain found guilty of criminally negligent homicide
+ - [https://www.cbc.ca/news/world/elijah-mcclain-paramedics-guilty-1.7068901?cmp=rss](https://www.cbc.ca/news/world/elijah-mcclain-paramedics-guilty-1.7068901?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-23T10:30:48+00:00
+
+<img alt="A man wearing glasses and a plaid shirt poses for a portrait" height="349" src="https://i.cbc.ca/1.5637101.1697156262!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/colorado-police.JPG" title="Elijah McClain, an unarmed Black man who died days after he was subdued by three policemen and injected with a powerful sedative in August 2019, poses in an undated photograph in Aurora, Colorado, U.S.  . Family photo/Handout via REUTERS.  NO RESALES. NO ARCHIVES. THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY." width="620" /><p>Elijah McClain died in 2019 after police roughly detained him, put him in a chokehold, and the medics injected him with a powerful sedative.</p>
+
+## Airstrike kills 76 members of the same family in Gaza, rescue officials say
+ - [https://www.cbc.ca/news/world/israel-hamas-war-airstrikes-family-1.7068862?cmp=rss](https://www.cbc.ca/news/world/israel-hamas-war-airstrikes-family-1.7068862?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-23T08:47:10+00:00
+
+<img alt="A man lies on a stretcher in a hospital." height="349" src="https://i.cbc.ca/1.7068866.1703328152!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg" title="Palestinians wounded in Israeli airstrikes arrive at the Nasser hospital in the town of Khan Younis, southern Gaza Strip, Friday, Dec. 22, 2023. " width="620" /><p>An Israeli airstrike killed 76 members of an extended family, rescue officials said Saturday, a day after the UN's chief warned again that nowhere is safe in Gaza and that Israel's ongoing offensive is creating "massive obstacles" to the distribution of humanitarian aid.</p>
+
+## Christmas music is big business — just ask Mariah Carey
+ - [https://www.cbc.ca/news/canada/north/whitehorse-garbage-truck-santa-apprentice-1.7065943?cmp=rss](https://www.cbc.ca/news/canada/north/whitehorse-garbage-truck-santa-apprentice-1.7065943?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-23T06:01:00+00:00
+
+<img alt="A man in a Santa suit waves from a garbage truck, decorated with lights. " height="349" src="https://i.cbc.ca/1.7067222.1703198645!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/garbage-truck-santa.jpg" title="Whitehorse&apos;s Garbage Truck Santa." width="620" /><p></p>
+
+## PWHL New York blue-line built around talented trio of young Canadians
+ - [https://www.cbc.ca/sports/hockey/pwhl/pwhl-team-previews-2024-new-york-1.7068489?cmp=rss](https://www.cbc.ca/sports/hockey/pwhl/pwhl-team-previews-2024-new-york-1.7068489?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-23T04:00:47+00:00
+
+<img alt="A hockey team, wearing white and black practice jerseys, kneels on the ice, as their coaches offer instruction." height="349" src="https://i.cbc.ca/1.7068534.1703280568!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pwhl-new-york-practice.jpg" title="PWHL New York looks strongest on the back end in its first season, but also has solid options in net and sneaky skill up front." width="620" /><p>New York is built from the ground up on defence, boasting three of the best young Canadian defenders in captain Micah Zandee-Hart, Ella Shelton and Jaime Bourbonnais. But there’s a lot of sneaky skill there too, from Elizabeth Giguère to Jessie Eldridge and Abby Roque.</p>
+
+## All I want for Christmas is to eat solid food: A throat cancer patient's wish
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/first-person-deir-cancer-christmas-food-1.7062340?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/first-person-deir-cancer-christmas-food-1.7062340?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-23T04:00:00+00:00
+
+<img alt="A man wearing a shirt and sweater reads a book in a hospital bed. A paper cup with a straw is nearby." height="349" src="https://i.cbc.ca/1.7062344.1702902049!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/glenn-deir-in-hospital.JPG" title="Glenn Deir underwent throat surgery in July. Five months later, he is eager to resume a normal diet. " width="620" /><p>After Glenn Deir's surgery this summer, he lost the ability to chew and swallow food. As his recovery proceeds, his culinary world is opening up far beyond the liquid supplements that have kept him alive.</p>
+
+## Despite constant state of 'survival mode,' Indigenous entrepreneurs pursue their dreams
+ - [https://www.cbc.ca/news/canada/toronto/indigenous-business-owners-barriers-1.7064226?cmp=rss](https://www.cbc.ca/news/canada/toronto/indigenous-business-owners-barriers-1.7064226?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-23T04:00:00+00:00
+
+<img alt="Chelsee-Marie Pettit" height="349" src="https://i.cbc.ca/1.7065504.1703169937!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chelsee-marie-pettit-1.jpg" title="Chelsee-Marie Pettit " width="620" /><p>Indigenous entrepreneurs say they face real barriers when it comes to doing business in Toronto, but planning, community support, training and resilience all help them to follow their dreams.</p>
+
+## Olive oil is getting more expensive — and these Italian farmers can tell you why
+ - [https://www.cbc.ca/news/olive-oil-italy-puglia-climate-change-1.7067758?cmp=rss](https://www.cbc.ca/news/olive-oil-italy-puglia-climate-change-1.7067758?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-23T04:00:00+00:00
+
+<img alt="A man holds freshly picked olives." height="349" src="https://i.cbc.ca/1.7067846.1703260516!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/luigi-d-amico.jpg" title="Luigi D’Amico harvests olives in the hilltop town of Ostuni in the Italian region of Puglia." width="620" /><p>Puglia, the heel of Italy’s boot, is responsible for nearly half of Italy’s olive oil and almost 15 per cent of worldwide production, and global warming has put it at particular risk.</p>
+
+## Test your knowledge with The House's 2023 year-end quiz
+ - [https://www.cbc.ca/radio/thehouse/the-house-2023-quiz-politics-1.7065184?cmp=rss](https://www.cbc.ca/radio/thehouse/the-house-2023-quiz-politics-1.7065184?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-23T04:00:00+00:00
+
+<img alt="Two politicians smile and look to their right in a legislature as they stand and wait for something." height="349" src="https://i.cbc.ca/1.6986208.1696426793!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/justin-trudeau-pierre-poilievre-leaders-2023.JPG" title="Prime Minister Justin Trudeau and Conservative Leader Pierre Poilievre wait to continue escorting new Speaker of the House of Commons Greg Fergus to his seat on Parliament Hill on Oct. 3, 2023." width="620" /><p>The carbon tax, Speaker controversies and unidentified aerial objects. It was another busy year in Canadian politics. How much of it can you remember? It's time for The House's end-of-year quiz.</p>
+

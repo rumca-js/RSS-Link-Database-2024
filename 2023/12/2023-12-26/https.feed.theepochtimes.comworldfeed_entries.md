@@ -1,0 +1,219 @@
+# Source:Epoch Times - World, URL:https://feed.theepochtimes.com/world/feed, language:en-US
+
+## Houthis Launch Missiles at Another Red Sea Commercial Shipment
+ - [https://www.theepochtimes.com/world/houthis-launch-missiles-at-another-red-sea-commercial-shipment-5553594](https://www.theepochtimes.com/world/houthis-launch-missiles-at-another-red-sea-commercial-shipment-5553594)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T23:22:10+00:00
+
+Yemen's Houthi fighters' takeover of the Galaxy Leader Cargo in the Red Sea coast off Hudaydah in the Red Sea, Yemen, on Nov. 20, 2023. (Houthi Movement via Getty Images)
+
+## Bill Designed to Protect Youth Online May Give Ottawa More Censorship Control, Internet Expert Says
+ - [https://www.theepochtimes.com/world/bill-designed-to-protect-youth-online-may-give-ottawa-more-censorship-control-internet-expert-says-5553452](https://www.theepochtimes.com/world/bill-designed-to-protect-youth-online-may-give-ottawa-more-censorship-control-internet-expert-says-5553452)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T21:54:49+00:00
+
+A woman uses a smartphone in front of a laptop on April 3, 2019, in Abidjan. (Issouf Sanogo/AFP via Getty Images)
+
+## New Housing Prices Dipped in November
+ - [https://www.theepochtimes.com/world/new-housing-prices-dipped-in-november-5553506](https://www.theepochtimes.com/world/new-housing-prices-dipped-in-november-5553506)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T21:32:25+00:00
+
+Construction workers work on a home in Deux-Montagnes, Que., on April 20, 2020. (The Canadian Press/Ryan Remiorz)
+
+## 3 to 5 Million Canadians on Waiting List for Health Care
+ - [https://www.theepochtimes.com/world/data-shows-number-of-canadians-waiting-for-health-care-on-the-rise-5553349](https://www.theepochtimes.com/world/data-shows-number-of-canadians-waiting-for-health-care-on-the-rise-5553349)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T20:52:26+00:00
+
+Surgical instruments are used during an organ transplant surgery at a hospital in Washington on June 28, 2016. (The Canadian Press/AP-Molly Riley)
+
+## A Few Ideas on How to Arrest Our Freefalling Education System
+ - [https://www.theepochtimes.com/opinion/a-few-ideas-on-how-to-arrest-our-freefalling-education-system-5553105](https://www.theepochtimes.com/opinion/a-few-ideas-on-how-to-arrest-our-freefalling-education-system-5553105)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T20:30:30+00:00
+
+A teacher teaches Aboriginal languages to students at St Johns High School in Sydney, Australia, on Oct. 14, 2012. (William West/AFP via Getty Images)
+
+## Quebec Public Sector Negotiations Resume After Christmas Break as Strike Threat Looms
+ - [https://www.theepochtimes.com/world/quebec-public-sector-negotiations-resume-after-christmas-break-as-strike-threat-looms-5553483](https://www.theepochtimes.com/world/quebec-public-sector-negotiations-resume-after-christmas-break-as-strike-threat-looms-5553483)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T19:27:24+00:00
+
+Quebec public sector workers in health, education, and social services hold a day-long strike in Montreal on Nov. 6, 2023. (The Canadian Press/Christinne Muschi)
+
+## Gaddafi’s Son Rises In Libya, Much to Moscow’s Delight
+ - [https://www.theepochtimes.com/world/gaddafis-son-rises-in-libya-much-to-moscows-delight-5552741](https://www.theepochtimes.com/world/gaddafis-son-rises-in-libya-much-to-moscows-delight-5552741)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T18:42:18+00:00
+
+Journalists watch TV screens showing a judge (R), broadcasted live from an adjacent room, questionning Seif al-Islam (L), the son of slain Libyan dictator Muammar Gaddafi, broadcasted from the western Libyan city of Zintan during his trial on May 25, 2014  in a courthouse in Tripoli.(Mahmud Turkia/AFP via Getty Images)
+
+## Woman Develops Psoriatic Arthritis a Month After 2nd COVID-19 Shot: Study
+ - [https://www.theepochtimes.com/article/woman-develops-psoriatic-arthritis-a-month-after-2nd-covid-19-shot-study-5553370](https://www.theepochtimes.com/article/woman-develops-psoriatic-arthritis-a-month-after-2nd-covid-19-shot-study-5553370)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T18:27:49+00:00
+
+A child receives a dose of the Pfizer BioNTech COVID-19 vaccine at the Fairfax County Government Center in Annandale, Va., on Nov. 4, 2021. (Chip Somodevilla/Getty Images)
+
+## Guesthouse Blaze in Romania Leaves 6 People Dead and Several Others Missing
+ - [https://www.theepochtimes.com/world/guesthouse-blaze-in-romania-leaves-6-people-dead-and-several-others-missing-5553376](https://www.theepochtimes.com/world/guesthouse-blaze-in-romania-leaves-6-people-dead-and-several-others-missing-5553376)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T18:10:16+00:00
+
+A guesthouse is in flames in Tohani, Romania, on Dec. 26, 2023. (Romanian Emergency Services/ISU Prahova via AP)
+
+## Intel Gets $3.2 Billion Israeli Grant for $25 Billion Plant
+ - [https://www.theepochtimes.com/business/intel-gets-3-2-billion-israeli-grant-for-25-billion-plant-5553364](https://www.theepochtimes.com/business/intel-gets-3-2-billion-israeli-grant-for-25-billion-plant-5553364)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T17:55:12+00:00
+
+The Intel logo outside of the Intel headquarters in Santa Clara, Calif., on April 26, 2018. (Justin Sullivan/Getty Images)
+
+## At Least 140 Villagers Killed by Suspected Herders in Dayslong Attacks in North-Central Nigeria
+ - [https://www.theepochtimes.com/world/at-least-140-villagers-killed-by-suspected-herders-in-dayslong-attacks-in-north-central-nigeria-5553363](https://www.theepochtimes.com/world/at-least-140-villagers-killed-by-suspected-herders-in-dayslong-attacks-in-north-central-nigeria-5553363)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T17:19:37+00:00
+
+A police tape in Abuja, Nigeria, on July 6, 2022. (Kola Sulaimon/AFP via Getty Images)
+
+## AstraZeneca to Acquire Chinese Firm to Boost Cell Therapy Portfolio
+ - [https://www.theepochtimes.com/business/astrazeneca-to-acquire-chinese-firm-to-boost-cell-therapy-portfolio-5553253](https://www.theepochtimes.com/business/astrazeneca-to-acquire-chinese-firm-to-boost-cell-therapy-portfolio-5553253)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T17:11:23+00:00
+
+The logo for AstraZeneca outside its North America headquarters in Wilmington, Del., on March 22, 2021. (Rachel Wisniewski/Reuters)
+
+## Russia’s Navalny Describes Harsh Reality at ‘Polar Wolf’ Arctic Prison
+ - [https://www.theepochtimes.com/world/russias-navalny-describes-harsh-reality-at-polar-wolf-arctic-prison-5553310](https://www.theepochtimes.com/world/russias-navalny-describes-harsh-reality-at-polar-wolf-arctic-prison-5553310)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T16:19:31+00:00
+
+Russian opposition leader Alexei Navalny is seen on a screen via video link from the IK-2 corrective penal colony in Pokrov before a court hearing to consider an appeal against his prison sentence, in Moscow, Russia, on May 17, 2022. (Evgenia Novozhenina/Reuters)
+
+## John Robson: Moving On From 2023, Trouble’s a-Brewin’ but There’s a First Step to Fixing It
+ - [https://www.theepochtimes.com/opinion/john-robson-moving-on-from-2023-troubles-a-brewin-but-theres-a-first-step-to-fixing-it-5551947](https://www.theepochtimes.com/opinion/john-robson-moving-on-from-2023-troubles-a-brewin-but-theres-a-first-step-to-fixing-it-5551947)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T16:17:06+00:00
+
+Revellers pose in front of a sign with the 2024 numerals after an illumination ceremony in Times Square in New York on Dec. 20, 2023. (David Dee Delgado/Getty Images)
+
+## Moscow Warned Belgrade of Post-Election ‘Color Revolution’ Attempt, Officials Claim
+ - [https://www.theepochtimes.com/world/moscow-warned-belgrade-of-post-election-color-revolution-attempt-officials-claim-5553275](https://www.theepochtimes.com/world/moscow-warned-belgrade-of-post-election-color-revolution-attempt-officials-claim-5553275)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T16:02:07+00:00
+
+Protesters clash with anti-riot police in Belgrade, Serbia, on Dec. 24, 2023. (Darko Vojinovic/AP)
+
+## China, Russia Think About Starting World War III: Gordon Chang
+ - [https://www.theepochtimes.com/china/china-russia-think-about-starting-world-war-iii-gordon-chang-5553236](https://www.theepochtimes.com/china/china-russia-think-about-starting-world-war-iii-gordon-chang-5553236)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T15:49:28+00:00
+
+Gordon Chang, China analyst and author of "The Coming Collapse of China," in New York City on Jan. 3, 2023.(Samira Bouaou/The Epoch Times)
+
+## Death Toll Rises to 18 in Furnace Explosion at Chinese-Owned Nickel Plant in Indonesia
+ - [https://www.theepochtimes.com/world/the-death-toll-rises-to-18-in-a-furnace-explosion-at-a-chinese-owned-nickel-plant-in-indonesia-5553252](https://www.theepochtimes.com/world/the-death-toll-rises-to-18-in-a-furnace-explosion-at-a-chinese-owned-nickel-plant-in-indonesia-5553252)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T15:03:28+00:00
+
+A police officer stands guard near the site where a furnace explosion occurred at PT Indonesia Tsingshan Stainless Steel smelting plant in Morowali, Central Sulawesi, Indonesia, on Dec. 24, 2023. (AP Photo)
+
+## Japanese View Taiwan Most Favorably, China Least: Poll Reveals
+ - [https://www.theepochtimes.com/world/japanese-view-taiwan-most-favorably-china-least-poll-reveals-5553065](https://www.theepochtimes.com/world/japanese-view-taiwan-most-favorably-china-least-poll-reveals-5553065)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T14:55:53+00:00
+
+Tourists dressed in traditional Japanese outfits pose for photographs in front of the Kiyomizu Temple in Kyoto, Japan, on Sept. 7, 2015. (Chris McGrath/Getty Images)
+
+## Households Endure Another Year of Energy Bill Misery Due to ‘Volatile’ Market
+ - [https://www.theepochtimes.com/world/households-endure-another-year-of-energy-bill-misery-due-to-volatile-market-5553222](https://www.theepochtimes.com/world/households-endure-another-year-of-energy-bill-misery-due-to-volatile-market-5553222)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T14:12:52+00:00
+
+File photo of an online energy bill, dated Feb. 3, 2022. (Jacob King /PA Media)
+
+## New Guest Guidelines Circulating After MPs Applauded Man Who Fought for Nazis
+ - [https://www.theepochtimes.com/world/new-guest-guidelines-circulating-after-mps-applauded-man-who-fought-for-nazis-5553221](https://www.theepochtimes.com/world/new-guest-guidelines-circulating-after-mps-applauded-man-who-fought-for-nazis-5553221)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T13:23:00+00:00
+
+Yaroslav Hunka (R) waits for the arrival of Ukrainian President Volodymyr Zelenskyy in the House of Commons in Ottawa on Sept. 22, 2023. (The Canadian Press/Patrick Doyle)
+
+## Quebec Students Forbidden From Using Cellphones in Classrooms After Winter Break
+ - [https://www.theepochtimes.com/world/quebec-students-forbidden-from-using-cellphones-in-classrooms-after-winter-break-5553219](https://www.theepochtimes.com/world/quebec-students-forbidden-from-using-cellphones-in-classrooms-after-winter-break-5553219)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T13:19:48+00:00
+
+Quebec’s new rule banning cellphones in classrooms will be in effect when students return from the holiday break. (LBeddoe/Shutterstock)
+
+## 4 Young Children and Their Mother Were Killed in Their French Home
+ - [https://www.theepochtimes.com/world/4-young-children-and-their-mother-were-killed-in-their-french-home-5553213](https://www.theepochtimes.com/world/4-young-children-and-their-mother-were-killed-in-their-french-home-5553213)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T13:01:13+00:00
+
+Journalist films the exterior of the ground floor flat where the bodies of a woman and her four children where discovered, in Meaux, eastern Paris, on Dec. 26, 2023. (Alain Jocard/AFP via Getty Images)
+
+## Russian Naval Ship in Crimea Damaged in Airstrike by Ukrainian Forces, Russian Defense Ministry Says
+ - [https://www.theepochtimes.com/world/russian-naval-ship-in-crimea-damaged-in-airstrike-by-ukrainian-forces-russian-defense-ministry-says-5553198](https://www.theepochtimes.com/world/russian-naval-ship-in-crimea-damaged-in-airstrike-by-ukrainian-forces-russian-defense-ministry-says-5553198)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T10:46:58+00:00
+
+The Kerch Bridge that links Crimea to Russia, near Kerch, on Oct. 14, 2022. (Stringer/AFP via Getty Images)
+
+## Tshisekedi Poised for Victory in DRC Presidential Election Amid China’s Mineral Quest
+ - [https://www.theepochtimes.com/world/tshisekedi-poised-for-victory-in-drc-presidential-election-amid-chinas-mineral-quest-5552772](https://www.theepochtimes.com/world/tshisekedi-poised-for-victory-in-drc-presidential-election-amid-chinas-mineral-quest-5552772)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T06:22:56+00:00
+
+Democratic Republic of the Congo's President Felix Tshisekedi casts his ballot at a polling station during the presidential election in Kinshasa, the Democratic Republic of Congo, on Dec. 20, 2023. (Zohra Bensemra/Reuters)
+
+## ‘Short-Sighted’: Peak Body Criticises Decision to Ban Oil, Gas Development in Lake Eyre Basin
+ - [https://www.theepochtimes.com/world/short-sighted-peak-body-criticises-decision-to-ban-oil-gas-development-in-lake-eyre-basin-5553063](https://www.theepochtimes.com/world/short-sighted-peak-body-criticises-decision-to-ban-oil-gas-development-in-lake-eyre-basin-5553063)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T05:06:04+00:00
+
+The Muloorina Station, the closest road access point to Lake Eyre North, near Maree in South Australia, on April 1, 2009. (AAP Image/Grenville Turner)
+
+## Israel Says 5 Gaza Hostages Found Dead in Tunnel, Circumstances Being Probed
+ - [https://www.theepochtimes.com/world/israel-says-five-gaza-hostages-found-dead-in-tunnel-circumstances-being-probed-5552973](https://www.theepochtimes.com/world/israel-says-five-gaza-hostages-found-dead-in-tunnel-circumstances-being-probed-5552973)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T04:59:38+00:00
+
+Israeli soldiers in an operation to dismantle Hamas's northern underground headquarters in Gaza, in a still from video released on Dec. 24, 2023. (Israeli Army Handout via Reuters/Screenshot via The Epoch Times)
+
+## US Strikes Back in Iraq After 3 Troops Injured in Multiple Attacks
+ - [https://www.theepochtimes.com/us/us-strikes-back-in-iraq-after-3-troops-injured-in-multiple-attacks-5553069](https://www.theepochtimes.com/us/us-strikes-back-in-iraq-after-3-troops-injured-in-multiple-attacks-5553069)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T04:31:52+00:00
+
+Secretary of Defense Lloyd Austin makes remarks at a virtual Ukraine Defense Contact Group (UDCG) meeting, at the Pentagon in Washington, on Nov. 22, 2023. (Cliff Owen/(AP Photo)
+
+## Belarus Leader Says Russian Nuclear Weapons Shipments Are Completed, Raising Concern in the Region
+ - [https://www.theepochtimes.com/world/belarus-leader-says-russian-nuclear-weapons-shipments-are-completed-raising-concern-in-the-region-5553019](https://www.theepochtimes.com/world/belarus-leader-says-russian-nuclear-weapons-shipments-are-completed-raising-concern-in-the-region-5553019)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T03:34:01+00:00
+
+Belarusian President Alexander Lukashenko speaks during a meeting with foreign correspondents in Minsk, Belarus, on July 6, 2023. (Alexander Zemlianichenko/AP Photo)
+
+## Woman Killed by Falling Tree as Storms Lash Queensland
+ - [https://www.theepochtimes.com/world/woman-killed-by-falling-tree-as-storms-lash-queensland-5553058](https://www.theepochtimes.com/world/woman-killed-by-falling-tree-as-storms-lash-queensland-5553058)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T01:51:47+00:00
+
+Fallen trees are seen at Reedy Creek on the Gold Coast, Australia on Dec. 26, 2023. (AAP Image/Dave Hunt)
+
+## Netanyahu Vows Not to Let Up in War Against Hamas
+ - [https://www.theepochtimes.com/world/israels-netanyahu-vows-no-let-up-in-war-against-hamas-5553040](https://www.theepochtimes.com/world/israels-netanyahu-vows-no-let-up-in-war-against-hamas-5553040)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T01:26:31+00:00
+
+An armored personnel carrier (APC) is seen silhouetted as the sun sets, amid the conflict between Israel and the Hamas terrorist group, near the Israel-Gaza border, in Southern Israel, on Dec. 25, 2023. (Violeta Santos Moura/Reuters)
+
+## Migrant Caravan Spends Christmas on the Road, Marching on to US Border
+ - [https://www.theepochtimes.com/us/migrant-caravan-spends-christmas-on-the-road-heading-to-us-border-5553026](https://www.theepochtimes.com/us/migrant-caravan-spends-christmas-on-the-road-heading-to-us-border-5553026)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2023-12-26T00:46:53+00:00
+
+Migrants walk along a highway in Huixtla, Mexico, on Dec. 25, 2023. (Edgar H. Clemente/AP Photo)
+

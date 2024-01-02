@@ -1,0 +1,58 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
+
+## Why You Should Think Twice About Connecting Your Smartphone To Your Car Via Bluetooth
+ - [https://reclaimthenet.org/why-you-should-think-twice-about-connecting-your-smartphone-to-your-car-via-bluetooth](https://reclaimthenet.org/why-you-should-think-twice-about-connecting-your-smartphone-to-your-car-via-bluetooth)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-12-20T18:14:26+00:00
+
+<a href="https://reclaimthenet.org/why-you-should-think-twice-about-connecting-your-smartphone-to-your-car-via-bluetooth" rel="nofollow" title="Why You Should Think Twice About Connecting Your Smartphone To Your Car Via Bluetooth"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/12/bluecar.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Major privacy concerns.</p>
+<p>The post <a href="https://reclaimthenet.org/why-you-should-think-twice-about-connecting-your-smartphone-to-your-car-via-bluetooth">Why You Should Think Twice About Connecting Your Smartphone To Your Car Via Bluetooth</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## Google Experiments With “Faster and More Adaptable” Censorship of “Harmful” Content Ahead of 2024 US Elections
+ - [https://reclaimthenet.org/google-faster-adaptable-censorship-2024-elections](https://reclaimthenet.org/google-faster-adaptable-censorship-2024-elections)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-12-20T17:56:40+00:00
+
+<a href="https://reclaimthenet.org/google-faster-adaptable-censorship-2024-elections" rel="nofollow" title="Google Experiments With &#8220;Faster and More Adaptable&#8221; Censorship of &#8220;Harmful&#8221; Content Ahead of 2024 US Elections"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/12/goog-elect.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>After unprecedented 2020 election censorship, Google lays out its game plan for 2024.</p>
+<p>The post <a href="https://reclaimthenet.org/google-faster-adaptable-censorship-2024-elections">Google Experiments With &#8220;Faster and More Adaptable&#8221; Censorship of &#8220;Harmful&#8221; Content Ahead of 2024 US Elections</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## Canadian Government Rewrites Online News Act (Bill C-18) in a Way That Excludes Smaller Outlets and Reserves Most of the Funds for Legacy Media
+ - [https://reclaimthenet.org/canada-news-act-excludes-smaller-outlets-and-reserves-most-of-the-funds-for-legacy-media](https://reclaimthenet.org/canada-news-act-excludes-smaller-outlets-and-reserves-most-of-the-funds-for-legacy-media)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-12-20T17:45:26+00:00
+
+<a href="https://reclaimthenet.org/canada-news-act-excludes-smaller-outlets-and-reserves-most-of-the-funds-for-legacy-media" rel="nofollow" title="Canadian Government Rewrites Online News Act (Bill C-18) in a Way That Excludes Smaller Outlets and Reserves Most of the Funds for Legacy Media"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/12/trudeau-can-media.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Reinforcing corporate media monopolies.</p>
+<p>The post <a href="https://reclaimthenet.org/canada-news-act-excludes-smaller-outlets-and-reserves-most-of-the-funds-for-legacy-media">Canadian Government Rewrites Online News Act (Bill C-18) in a Way That Excludes Smaller Outlets and Reserves Most of the Funds for Legacy Media</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## UK MP Demands Zuckerberg Bring In Facebook “Safeguards” (Encryption Backdoors)
+ - [https://reclaimthenet.org/uk-mp-demands-zuckerberg-bring-in-facebook-safeguards-encryption-backdoors](https://reclaimthenet.org/uk-mp-demands-zuckerberg-bring-in-facebook-safeguards-encryption-backdoors)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-12-20T17:32:19+00:00
+
+<a href="https://reclaimthenet.org/uk-mp-demands-zuckerberg-bring-in-facebook-safeguards-encryption-backdoors" rel="nofollow" title="UK MP Demands Zuckerberg Bring In Facebook “Safeguards” (Encryption Backdoors)"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/12/fb-uk-986.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>The push to end privacy.</p>
+<p>The post <a href="https://reclaimthenet.org/uk-mp-demands-zuckerberg-bring-in-facebook-safeguards-encryption-backdoors">UK MP Demands Zuckerberg Bring In Facebook “Safeguards” (Encryption Backdoors)</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## UK Police Log “Hate Incident” Against Conservative Lawmaker Who Shared Post Referring to Trans Candidate As “Man in a Wig”
+ - [https://reclaimthenet.org/uk-police-log-hate-incident-against-conservative-lawmaker](https://reclaimthenet.org/uk-police-log-hate-incident-against-conservative-lawmaker)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-12-20T17:20:39+00:00
+
+<a href="https://reclaimthenet.org/uk-police-log-hate-incident-against-conservative-lawmaker" rel="nofollow" title="UK Police Log “Hate Incident” Against Conservative Lawmaker Who Shared Post Referring to Trans Candidate As “Man in a Wig”"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/12/Melissa-Poulton.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Another controversial "non crime hate incident" record.</p>
+<p>The post <a href="https://reclaimthenet.org/uk-police-log-hate-incident-against-conservative-lawmaker">UK Police Log “Hate Incident” Against Conservative Lawmaker Who Shared Post Referring to Trans Candidate As “Man in a Wig”</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## UK Vicar Faces Investigation For Calling Transgender Archdeacon a “Bloke”
+ - [https://reclaimthenet.org/uk-vicar-faces-investigation-for-calling-transgender-archdeacon-a-bloke](https://reclaimthenet.org/uk-vicar-faces-investigation-for-calling-transgender-archdeacon-a-bloke)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-12-20T16:55:30+00:00
+
+<a href="https://reclaimthenet.org/uk-vicar-faces-investigation-for-calling-transgender-archdeacon-a-bloke" rel="nofollow" title="UK Vicar Faces Investigation For Calling Transgender Archdeacon a &#8220;Bloke&#8221;"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/12/church-flag-rainbow.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Reverend Brett Murphy made the remark in an online post.</p>
+<p>The post <a href="https://reclaimthenet.org/uk-vicar-faces-investigation-for-calling-transgender-archdeacon-a-bloke">UK Vicar Faces Investigation For Calling Transgender Archdeacon a &#8220;Bloke&#8221;</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## US Lawmakers Tell Biden To Scrutinize How The EU Regulates US Tech Companies
+ - [https://reclaimthenet.org/us-lawmakers-tell-biden-to-scrutinize-how-the-eu-regulates-us-tech-companies](https://reclaimthenet.org/us-lawmakers-tell-biden-to-scrutinize-how-the-eu-regulates-us-tech-companies)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-12-20T16:46:47+00:00
+
+<a href="https://reclaimthenet.org/us-lawmakers-tell-biden-to-scrutinize-how-the-eu-regulates-us-tech-companies" rel="nofollow" title="US Lawmakers Tell Biden To Scrutinize How The EU Regulates US Tech Companies"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/12/eu-us-cap.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>The EU is getting involved with policing online speech through new regulations.</p>
+<p>The post <a href="https://reclaimthenet.org/us-lawmakers-tell-biden-to-scrutinize-how-the-eu-regulates-us-tech-companies">US Lawmakers Tell Biden To Scrutinize How The EU Regulates US Tech Companies</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+

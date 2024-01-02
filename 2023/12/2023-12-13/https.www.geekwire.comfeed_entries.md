@@ -1,0 +1,58 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed/, language:en-US
+
+## Amazon brings back ability to use Alexa to thank and tip delivery drivers during holiday rush
+ - [https://www.geekwire.com/2023/amazon-brings-back-ability-to-use-alexa-to-thank-and-tip-delivery-drivers-during-holiday-rush](https://www.geekwire.com/2023/amazon-brings-back-ability-to-use-alexa-to-thank-and-tip-delivery-drivers-during-holiday-rush)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-12-13T22:39:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="876" src="https://cdn.geekwire.com/wp-content/uploads/2022/12/rivianvans-1260x876.jpg" width="1260" /><br />Next time an Amazon package hits your front step, don&#8217;t just shout thanks through the door or at the van driving off down your street — use Alexa. For a limited time, you&#8217;ll be spurring Amazon to also tip that driver $5. The company announced this week that it&#8217;s bringing back a holiday promotion in which customers can show their appreciation for delivery drivers with the &#8220;Alexa, thank my driver&#8221; feature. U.S. customers can use an Alexa-enabled device (Echo, Echo Show), the Alexa app, on Amazon.com or in the Amazon mobile shopping app. First rolled out during the 2022 holidays, the&#8230; <a href="https://www.geekwire.com/2023/amazon-brings-back-ability-to-use-alexa-to-thank-and-tip-delivery-drivers-during-holiday-rush/">Read More</a>
+
+## Spendy and slow Tesla repairs frustrate drivers as automotive tech drives up cost of collisions
+ - [https://www.geekwire.com/2023/spendy-and-slow-tesla-repairs-frustrate-drivers-as-automotive-tech-drives-up-cost-of-collisions](https://www.geekwire.com/2023/spendy-and-slow-tesla-repairs-frustrate-drivers-as-automotive-tech-drives-up-cost-of-collisions)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-12-13T21:14:59+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2023/12/Tesla-body-damage-1260x945.jpg" width="1260" /><br />When Kelly Campbell bought a metallic gray Tesla last year, the Seattle resident was delighted. The luxury features, the stellar safety ratings &#8212; it was the car she&#8217;d been waiting for. About seven months later, she was rear-ended in a minor collision. The car&#8217;s damage looked &#8220;very superficial,” Campbell said. “It was completely drivable.” But fixing it sent her on a journey stretching more than half a year and costing $14,000 in repairs and nearly $2,000 in car rental fees. From online forums to casual conversations, Tesla owners are sharing stories of slow, frustrating, high-priced repairs. The experiences have some&#8230; <a href="https://www.geekwire.com/2023/spendy-and-slow-tesla-repairs-frustrate-drivers-as-automotive-tech-drives-up-cost-of-collisions/">Read More</a>
+
+## Tech Moves: PNNL director returns to Wash. Dept. of Commerce; Seattle comms exec departs Forbes
+ - [https://www.geekwire.com/2023/tech-moves-pnnl-director-returns-to-wash-dept-of-commerce-seattle-comms-exec-departs-forbes](https://www.geekwire.com/2023/tech-moves-pnnl-director-returns-to-wash-dept-of-commerce-seattle-comms-exec-departs-forbes)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-12-13T19:22:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2023/12/joseph-williams-1260x945.jpeg" width="1260" /><br />— Joseph Williams is returning to the Washington state Department of Commerce to lead information and communication technology (ICT) sector development, after serving as the Seattle director of the Pacific Northwest National Laboratory from 2019 to 2022.  Williams, a mainstay of the Seattle tech community, previously led ICT sector development for the department, from 2016 to 2019. His areas of focus in his return will include quantum computing, cybersecurity, and artificial intelligence, working with industry leaders and others to strengthen the state’s position, according to an announcement from the department. Among other priorities, Williams will report to the Washington state&#8230; <a href="https://www.geekwire.com/2023/tech-moves-pnnl-director-returns-to-wash-dept-of-commerce-seattle-comms-exec-depart
+
+## How Pfizer’s $43B acquisition of Seagen may impact Seattle and broader biotech market
+ - [https://www.geekwire.com/2023/how-pfizers-43b-acquisition-of-seagen-may-impact-seattle-ecosystem-and-broader-biotech-market](https://www.geekwire.com/2023/how-pfizers-43b-acquisition-of-seagen-may-impact-seattle-ecosystem-and-broader-biotech-market)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-12-13T18:24:45+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="800" src="https://cdn.geekwire.com/wp-content/uploads/2023/12/1633475268034.jpeg" width="800" /><br />Editor&#8217;s note: William Canestaro is managing director at Seattle venture capital firm WRF Capital and leads the biotechnology investment team.&#160; Seagen’s sale to Pfizer would have seemed unthinkable a few years ago. The former CEO was rumored to be opposed to the idea of an acquisition. He worked to grow the Bothell, Wash.-based company to a size that was thought to be too big to acquire and grew Seagen via acquisition himself, acquiring Cascadian Therapeutics in 2018. Seagen has a huge pipeline for early programs and is undisputedly the anchor tenant in Pacific Northwest biotech. It is one of the&#8230; <a href="https://www.geekwire.com/2023/how-pfizers-43b-acquisition-of-seagen-may-impact-seattle-ecosystem-and-broader-biotech-market/">Read More</a>
+
+## Prenuvo bringing its celebrity-endorsed full-body MRI scanning to new Seattle clinic in 2024
+ - [https://www.geekwire.com/2023/prenuvo-bringing-its-celebrity-endorsed-full-body-mri-scanning-to-new-seattle-clinic-in-2024](https://www.geekwire.com/2023/prenuvo-bringing-its-celebrity-endorsed-full-body-mri-scanning-to-new-seattle-clinic-in-2024)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-12-13T17:41:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2023/12/Prenuvo-MRI-2-1260x840.jpg" width="1260" /><br />Prenuvo, the celebrity-endorsed company offering $2,500 full-body MRI scans designed to detect cancer and other diseases early, is planning to open one of its clinics in Seattle in 2024. Silicon Valley-based Prenuvo currently has eight locations in the U.S. and one in Vancouver, B.C. It has plans to open 11 more in the coming months, including in the third or fourth quarter of next year in Seattle. The company has been generating buzz thanks to some of its high-profile clientele, including Kim Kardashian, who told her 3.6 million Instagram followers about the &#8220;life-saving machine&#8221; in an August post. The company&#8217;s&#8230; <a href="https://www.geekwire.com/2023/prenuvo-bringing-its-celebrity-endorsed-full-body-mri-scanning-to-new-seattle-clinic-in-2024/">Read More</a>
+
+## Researchers map the entire mouse brain, cataloging 5,322 different types of cells
+ - [https://www.geekwire.com/2023/entire-mouse-brain-cell-map](https://www.geekwire.com/2023/entire-mouse-brain-cell-map)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-12-13T16:00:00+00:00
+
+<img alt="Combined visualizations of mouse brain cell types" class="webfeedsFeaturedVisual wp-post-image" height="789" src="https://cdn.geekwire.com/wp-content/uploads/2023/12/231212-mandala.png" width="895" /><br />Neuroscientists have unveiled their most comprehensive and detailed map of cell types across the entire mouse brain, delivering the latest results of a six-year-long scientific effort in which Seattle&#8217;s Allen Institute has played a leading role. Nine studies published today in the journal Nature document the identification of 5,322 different types of brain cells, and trace the similarities and differences found in a variety of mammalian species &#8212; including humans. The work expands upon previous studies from the BRAIN Initiative Cell Census Network, including earlier surveys of cells in various regions of the mouse brain, as well as cross-species comparisons&#8230; <a href="https://www.geekwire.com/2023/entire-mouse-brain-cell-map/">Read More</a>
+
+## Field operations software startup Zuper raises $32M
+ - [https://www.geekwire.com/2023/field-operations-software-startup-zuper-raises-32m](https://www.geekwire.com/2023/field-operations-software-startup-zuper-raises-32m)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-12-13T15:58:48+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="260" src="https://cdn.geekwire.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-13-at-7.51.04-AM.png" width="271" /><br />Zuper, a Seattle startup that sells software to help companies with field workers, raised a $32 million Series B round led by FUSE.
+
+## Seattle approves ‘landmark policy’ requiring 4,100 buildings to slash carbon footprints by 2050
+ - [https://www.geekwire.com/2023/seattle-approves-landmark-policy-requiring-4100-buildings-to-slash-carbon-footprints-by-2050](https://www.geekwire.com/2023/seattle-approves-landmark-policy-requiring-4100-buildings-to-slash-carbon-footprints-by-2050)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-12-13T00:57:42+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="709" src="https://cdn.geekwire.com/wp-content/uploads/2019/07/20190703_Fireworks_Barge_50-1260x709.jpg" width="1260" /><br />The Seattle City Council on Tuesday unanimously approved rules requiring roughly 4,100 existing buildings of more than 20,000 square feet to slash their greenhouse gas emissions to zero by 2050. Mayor Bruce Harrell is scheduled to sign the bill into law on Wednesday. The Seattle Building Emissions Performance Standard would apply to structures including skyscrapers, low- to high-rise buildings, multifamily residences, retail spaces, restaurants, churches, schools and universities, and community centers. &#8220;Future generations will look back to this moment and judge us for what we did today to address our climate crisis,&#8221; said Seattle City Councilmember Lisa Herbold at Tuesday&#8217;s&#8230; <a href="https://www.geekwire.com/2023/seattle-approves-landmark-policy-requiring-4100-buildings-to
+

@@ -1,0 +1,464 @@
+# Source:Times of India, URL:http://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## No immunity if firms don’t act on deepfakes: Minister
+ - [https://timesofindia.indiatimes.com/india/no-immunity-if-firms-dont-act-on-deepfakes-minister/articleshow/105321802.cms](https://timesofindia.indiatimes.com/india/no-immunity-if-firms-dont-act-on-deepfakes-minister/articleshow/105321802.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T23:05:07+00:00
+
+The Indian government plans to meet with social media platforms to address the issue of deepfakes, according to IT Minister Ashwini Vaishnaw. The government has issued a notice to companies regarding deepfakes, and while some steps have been taken, more action is required. The meeting will involve all platforms, including Meta and Google.
+
+## UP bans ‘halal-certified’ food products
+ - [https://timesofindia.indiatimes.com/india/up-bans-halal-certified-food-products/articleshow/105321618.cms](https://timesofindia.indiatimes.com/india/up-bans-halal-certified-food-products/articleshow/105321618.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T22:56:06+00:00
+
+The government of Uttar Pradesh has banned the production, storage, distribution, and sale of "halal-certified" food products in the state, citing concerns about the misuse of halal certification. The ban allows exceptions for cases where certification is required for export purposes. This decision comes after an FIR was filed against eight agencies for allegedly issuing forged and illegal halal certificates.
+
+## Court refuses to quash Sebi case against Sahara chief
+ - [https://timesofindia.indiatimes.com/india/court-refuses-to-quash-sebi-case-against-sahara-chief/articleshow/105321410.cms](https://timesofindia.indiatimes.com/india/court-refuses-to-quash-sebi-case-against-sahara-chief/articleshow/105321410.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T22:45:42+00:00
+
+A special court in India has refused to dismiss a case against Sahara India Real Estate and its deceased chief, Subrata Roy, in a criminal matter investigated by the Securities &amp; Exchange Board of India (SEBI). The court ruled that SEBI, as a body incorporated to protect the interests of investors and the security market, has the power to investigate. The court also noted that there is no parallel investigation being conducted by any other authority.
+
+## 46 years after hubby’s death, woman, 91, to get pension
+ - [https://timesofindia.indiatimes.com/india/46-years-after-hubbys-death-woman-91-to-get-pension/articleshow/105321132.cms](https://timesofindia.indiatimes.com/india/46-years-after-hubbys-death-woman-91-to-get-pension/articleshow/105321132.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T22:31:46+00:00
+
+The Orissa high court has ordered the Kendrapada district collector to pay family pension to a 91-year-old widow whose husband died 46 years ago. The widow had been trying to receive the pension since 1991 but was repeatedly denied. The state authorities claimed that she was not eligible for the pension because it was introduced after her husband's death.
+
+## Dell, HP, 25 others get nod for IT hardware PLI scheme
+ - [https://timesofindia.indiatimes.com/india/dell-hp-25-other-companies-get-approval-for-it-hardware-pli-scheme/articleshow/105320898.cms](https://timesofindia.indiatimes.com/india/dell-hp-25-other-companies-get-approval-for-it-hardware-pli-scheme/articleshow/105320898.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T22:25:35+00:00
+
+The Indian government has granted approval to 27 companies, including Dell, HP, Foxconn, and Lenovo, under the upgraded Rs 17,000 crore production-linked incentive scheme for IT hardware. The move is part of India's efforts to position itself as a global hub for hi-tech manufacturing and reduce its reliance on China for laptops and components.
+
+## Uttarkashi: Bleak vision, trapped workers stare at health crisis
+ - [https://timesofindia.indiatimes.com/india/bleak-tunnel-vision-trapped-workers-stare-at-health-crisis/articleshow/105320669.cms](https://timesofindia.indiatimes.com/india/bleak-tunnel-vision-trapped-workers-stare-at-health-crisis/articleshow/105320669.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T22:11:27+00:00
+
+More than 130 hours inside the Silkyara tunnel in Uttarkashi have taken a toll on the health of the 41 workers trapped inside. They are suffering from constipation, headaches, anxiety, and trauma due to fear and claustrophobia. While officials claim to be providing essential supplies, medical experts warn that the current diet is insufficient for their well-being. Respiratory problems are also a concern.
+
+## Stalin fires back, TN house re-adopts 10 bills returned by guv
+ - [https://timesofindia.indiatimes.com/india/stalin-fires-back-tamil-nadu-house-re-adopts-all-10-bills-returned-by-governor/articleshow/105320479.cms](https://timesofindia.indiatimes.com/india/stalin-fires-back-tamil-nadu-house-re-adopts-all-10-bills-returned-by-governor/articleshow/105320479.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T21:56:46+00:00
+
+Tamil Nadu's state assembly has re-adopted 10 bills that were earlier returned by Governor RN Ravi, despite the opposition's walkout. CM M K Stalin criticized the governor for withholding the bills on a whim and accused him of hindering the government's initiatives. Stalin also alleged that non-BJP ruled states were being targeted through governors by the central government.
+
+## WHO sets up panel to combat loneliness
+ - [https://timesofindia.indiatimes.com/india/who-sets-up-panel-to-combat-loneliness/articleshow/105320451.cms](https://timesofindia.indiatimes.com/india/who-sets-up-panel-to-combat-loneliness/articleshow/105320451.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T21:48:55+00:00
+
+The World Health Organisation (WHO) has appointed US Surgeon General Vivek Murthy and African Union youth envoy Chido Mpemba as co-chairs of an international commission to address the issue of loneliness, which is considered a global health threat. Murthy has previously stated that loneliness can have a mortality impact comparable to smoking up to 15 cigarettes a day.
+
+## Uttarkashi: Worker forgotten in 1st count takes tally of stranded to 41
+ - [https://timesofindia.indiatimes.com/india/worker-forgotten-in-1st-count-takes-tally-of-stranded-to-41/articleshow/105320363.cms](https://timesofindia.indiatimes.com/india/worker-forgotten-in-1st-count-takes-tally-of-stranded-to-41/articleshow/105320363.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T21:36:51+00:00
+
+The number of workers trapped inside the Silkyara tunnel in Uttarakhand has been updated from 40 to 41. The National Highways and Infrastructure Development Corporation Limited (NHIDCL) discovered the discrepancy in the count on Friday evening. The 41st worker, identified as Deepak Kumar from Bihar, was initially unaccounted for. The majority of the trapped workers are from Jharkhand, Uttar Pradesh, Odisha, West Bengal, Uttarakhand, Assam, and Himachal Pradesh.
+
+## No googlies for Azhar as he bats for Congress on his home ground
+ - [https://timesofindia.indiatimes.com/elections/news/no-googlies-for-azhar-as-he-bats-for-congress-on-his-home-ground/articleshow/105320334.cms](https://timesofindia.indiatimes.com/elections/news/no-googlies-for-azhar-as-he-bats-for-congress-on-his-home-ground/articleshow/105320334.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T21:26:24+00:00
+
+Former cricketer Mohammad Azharuddin is currently campaigning as the Congress candidate for the Jubilee Hills constituency in Hyderabad. As he walks through the streets, Azharuddin engages with various people, including a roadside butcher and tea stall owner. This is his first election in Hyderabad, and his campaign managers ensure that he interacts with as many voters as possible.
+
+## At 76.2%, MP records highest-ever turnout; C'garh sees 75%
+ - [https://timesofindia.indiatimes.com/elections/news/at-76-2-mp-records-highest-ever-turnout-chhattisgarh-sees-75/articleshow/105320326.cms](https://timesofindia.indiatimes.com/elections/news/at-76-2-mp-records-highest-ever-turnout-chhattisgarh-sees-75/articleshow/105320326.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T21:17:21+00:00
+
+The assembly elections in Madhya Pradesh recorded a historic voter turnout of 76.2%, according to officials on Saturday. The polling was held in a single phase on Friday for all 230 constituencies. Seoni district in east MP had the highest voter turnout of 85.68%, while the tribal-dominated Alirajpur in the western region had the lowest voter turnout of 60.1%, officials said.
+
+## When Cong does something for poor, PM calls it freebies: Kharge
+ - [https://timesofindia.indiatimes.com/elections/news/when-congress-does-something-for-poor-pm-calls-it-freebies-kharge/articleshow/105320317.cms](https://timesofindia.indiatimes.com/elections/news/when-congress-does-something-for-poor-pm-calls-it-freebies-kharge/articleshow/105320317.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T21:07:00+00:00
+
+Congress president Mallikarjun Kharge accused Prime Minister Narendra Modi of favoring the rich by waiving loans worth Rs 15 lakh crore, while criticizing the BJP for making the poor even poorer. Kharge emphasized that the Congress party works for the deprived, farmers, and youth. He also accused Modi of not fulfilling his promise of creating 2 crore jobs annually and not providing enough opportunities for disadvantaged groups.
+
+## Kharge abused my dead father: Modi tears into Cong
+ - [https://timesofindia.indiatimes.com/india/kharge-abused-my-dead-father-modi-tears-into-congress/articleshow/105320300.cms](https://timesofindia.indiatimes.com/india/kharge-abused-my-dead-father-modi-tears-into-congress/articleshow/105320300.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T21:00:02+00:00
+
+Prime Minister Narendra Modi accused Congress president Mallikarjun Kharge of making derogatory remarks about his deceased father during a rally in Hyderabad. Modi assured the audience that he would continue to fight against corruption and bring corrupt individuals to justice. He also promised a review of petrol and diesel prices in Rajasthan if the BJP wins the upcoming elections.
+
+## Will implement UCC in 6 months, BJP vows in Telangana
+ - [https://timesofindia.indiatimes.com/india/will-implement-ucc-in-6-months-bjp-promises-in-telangana/articleshow/105320259.cms](https://timesofindia.indiatimes.com/india/will-implement-ucc-in-6-months-bjp-promises-in-telangana/articleshow/105320259.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T20:39:56+00:00
+
+The BJP has released its manifesto for the upcoming assembly elections in Telangana, promising to implement the Uniform Civil Code and investigate corruption allegations against the BRS government. The party also vowed to fast-track sub-categorization in reservations for scheduled castes, reduce VAT on diesel and petrol, and provide various welfare schemes for women and girls.
+
+## ASI gets 10 more days to file Gyanvapi survey report
+ - [https://timesofindia.indiatimes.com/india/asi-gets-10-more-days-to-file-gyanvapi-survey-report/articleshow/105320209.cms](https://timesofindia.indiatimes.com/india/asi-gets-10-more-days-to-file-gyanvapi-survey-report/articleshow/105320209.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T20:22:31+00:00
+
+The Varanasi district court has granted the Archaeological Survey of India (ASI) an additional 10 days to submit its scientific survey report of the Gyanvapi mosque complex. The ASI had previously requested 15 more days to complete the report, but the court has instructed them to submit it by November 28. The ASI had been ordered to conduct a survey to determine if the mosque was built on the remains of a temple.
+
+## Ahead of life's biggest match, Capt Calm’s mantra: ‘Nice & easy’
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/ahead-of-biggest-match-of-his-life-captain-calms-mantra-nice-easy/articleshow/105320164.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/ahead-of-biggest-match-of-his-life-captain-calms-mantra-nice-easy/articleshow/105320164.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T19:59:28+00:00
+
+Rohit Sharma, known for his calm demeanor, mentioned the word "pressure" multiple times during his media interaction before the World Cup final against Australia. He acknowledged the significance of the occasion and the expectations surrounding the team. Despite being the favorites, Rohit emphasized the need to stay grounded and not get too excited.
+
+## OpenAI fires Altman on video call: Tech world convulsed
+ - [https://timesofindia.indiatimes.com/world/us/openai-fires-co-founder-sam-altman-on-video-call-convulsing-tech-world/articleshow/105320009.cms](https://timesofindia.indiatimes.com/world/us/openai-fires-co-founder-sam-altman-on-video-call-convulsing-tech-world/articleshow/105320009.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T19:33:40+00:00
+
+OpenAI, the artificial intelligence pioneer, has ousted CEO Sam Altman due to a loss of confidence in his leadership. Mira Murati, previously the company's chief technology officer, has been named interim CEO. Altman's departure was unexpected, and three top-level researchers have reportedly quit. Altman co-founded OpenAI and gained fame after the launch of the popular chatbot ChatGPT.
+
+## Maldives for removal of Indian troops but ...
+ - [https://timesofindia.indiatimes.com/india/maldives-president-for-removal-of-indian-military-but-may-retain-naval-choppers/articleshow/105319194.cms](https://timesofindia.indiatimes.com/india/maldives-president-for-removal-of-indian-military-but-may-retain-naval-choppers/articleshow/105319194.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T17:33:32+00:00
+
+
+
+## Kohli takes rest for second day ahead of World Cup final
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/virat-kohli-takes-rest-for-second-day-ahead-of-world-cup-final/articleshow/105318524.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/virat-kohli-takes-rest-for-second-day-ahead-of-world-cup-final/articleshow/105318524.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T16:20:30+00:00
+
+Having suffered from cramps in extreme Mumbai heat in the semi-final, Indian team's premier batter Virat Kohli skipped the optional net session for the second day in a row in order to remain fresh for the World Cup final against Australia in Ahmedabad on Sunday.
+
+## Backlash spreads over Musk’s endorsement of antisemitic post
+ - [https://timesofindia.indiatimes.com/business/international-business/backlash-spreads-over-elon-musks-endorsement-of-antisemitic-post/articleshow/105318460.cms](https://timesofindia.indiatimes.com/business/international-business/backlash-spreads-over-elon-musks-endorsement-of-antisemitic-post/articleshow/105318460.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T16:05:28+00:00
+
+Elon Musk, the owner of social media site X, is facing backlash for endorsing and engaging with antisemitic content on the platform. Large advertisers such as Apple have pulled ads, and the White House has criticized Musk's actions. Several Tesla shareholders have also called for Musk to be suspended from his position as CEO. The controversy comes after a report revealed that ads from major companies ran alongside pro-Nazi content on X.
+
+## China builds overseas ports: Can it turn them into military bases?
+ - [https://timesofindia.indiatimes.com/world/china/china-builds-vast-web-of-overseas-ports-can-it-turn-them-into-military-bases/articleshow/105318021.cms](https://timesofindia.indiatimes.com/world/china/china-builds-vast-web-of-overseas-ports-can-it-turn-them-into-military-bases/articleshow/105318021.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T15:30:53+00:00
+
+China has established a global network of commercial ports as part of its efforts to expand its economic influence and naval presence, according to a report by the Council on Foreign Relations. China now operates or has ownership in ports on every continent except Antarctica, with involvement in 101 port projects. While China has limited overseas bases compared to the US, it is focused on becoming a major commercial power that exerts control over international sea-lanes and ports.
+
+## 'Constitution to be published in Meetei Mayek script'
+ - [https://timesofindia.indiatimes.com/india/constitution-to-be-published-in-meetei-mayek-script-manipur-cm-biren-singh/articleshow/105318035.cms](https://timesofindia.indiatimes.com/india/constitution-to-be-published-in-meetei-mayek-script-manipur-cm-biren-singh/articleshow/105318035.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T15:23:50+00:00
+
+
+
+## 'Safe harbour immunity won't apply if ...': Govt
+ - [https://timesofindia.indiatimes.com/india/safe-harbour-immunity-will-not-apply-if-steps-are-not-taken-against-deep-fake-ashwini-vaishnaw/articleshow/105317989.cms](https://timesofindia.indiatimes.com/india/safe-harbour-immunity-will-not-apply-if-steps-are-not-taken-against-deep-fake-ashwini-vaishnaw/articleshow/105317989.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T15:20:38+00:00
+
+The Indian government is planning to hold a meeting with social media platforms to discuss the issue of deepfake content. IT Minister Ashwini Vaishnaw stated that the safe harbour immunity clause would not apply if platforms fail to take sufficient action to remove deepfakes. The government has already issued a notice to companies on this matter, but believes that more steps need to be taken. Big platforms like Meta (formerly Facebook) and Google will be called for the meeting.
+
+## 'Unity for elections': PM Modi on Gehlot-Pilot handshake
+ - [https://timesofindia.indiatimes.com/india/pretending-to-join-hands-due-to-elections-pm-modis-dig-at-gehlot-pilot/articleshow/105317196.cms](https://timesofindia.indiatimes.com/india/pretending-to-join-hands-due-to-elections-pm-modis-dig-at-gehlot-pilot/articleshow/105317196.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T15:15:06+00:00
+
+Prime Minister Narendra Modi criticized the collaboration between Rajasthan CM Ashok Gehlot and his former deputy, claiming it is merely a facade. He accused the Congress of infighting since their election victory in 2018 and stated that the reconciliation between Gehlot and his former deputy is only for the upcoming elections. PM Modi also highlighted the importance of the 2023 elections for Gehlot, who aims to validate his leadership amidst past rebellions. The BJP and the Congress are engaged in an intense campaign leading up to the November 25 Assembly polls in Rajasthan.
+
+## New road planned to reach workers trapped in tunnel
+ - [https://timesofindia.indiatimes.com/city/dehradun/day-7-vertical-hole-new-road-planned-to-reach-41-workers-trapped-in-collapsed-uttarkashi-tunnel/articleshow/105317842.cms](https://timesofindia.indiatimes.com/city/dehradun/day-7-vertical-hole-new-road-planned-to-reach-41-workers-trapped-in-collapsed-uttarkashi-tunnel/articleshow/105317842.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T15:14:46+00:00
+
+As the sun set, officials held out hope that the Border Roads Organisation's (BRO) alternative route to the under-construction Silkyara tunnel would be ready by Sunday afternoon, allowing the stalled rescue mission to resume.
+
+## UP bans manufacturing, storage, sale of Halal products
+ - [https://timesofindia.indiatimes.com/city/lucknow/uttar-pradesh-govt-bans-manufacturing-storage-and-distribution-of-halal-products/articleshow/105317776.cms](https://timesofindia.indiatimes.com/city/lucknow/uttar-pradesh-govt-bans-manufacturing-storage-and-distribution-of-halal-products/articleshow/105317776.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T15:01:52+00:00
+
+"In the interest of public health, production, storing, distribution and sale of halal certified edible items banned in Uttar Pradesh with immediate effect," food commissioner's office said in its order.
+
+## 'Not enough discussions about him': Harbhajan hails India's 'unsung hero'
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/not-enough-discussions-about-him-harbhajan-singh-hails-indias-unsung-hero/articleshow/105317463.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/not-enough-discussions-about-him-harbhajan-singh-hails-indias-unsung-hero/articleshow/105317463.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T14:42:49+00:00
+
+India were looking for a reliable number four batter before the World Cup. Several players were tried in this position through various experiments, but none could deliver the desired impact that the team was aiming for. But Shreyas Iyer seemed to have solved this problem as he made a huge impact in his first World Cup. Coming back from injury, he was under pressure to make a big-performance in the middle order.
+
+## Maldives asks India to withdraw its military presence
+ - [https://timesofindia.indiatimes.com/india/maldives-asks-india-to-withdraw-its-military-presence-from-the-archipelago/articleshow/105317299.cms](https://timesofindia.indiatimes.com/india/maldives-asks-india-to-withdraw-its-military-presence-from-the-archipelago/articleshow/105317299.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T14:19:35+00:00
+
+
+
+## Astronauts on 'red' Mars may witness green sky, reveals study
+ - [https://timesofindia.indiatimes.com/home/science/astronauts-on-red-mars-may-witness-green-sky-reveals-study/articleshow/105316988.cms](https://timesofindia.indiatimes.com/home/science/astronauts-on-red-mars-may-witness-green-sky-reveals-study/articleshow/105316988.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T14:06:28+00:00
+
+Researchers using the European Space Agency's ExoMars Trace Gas Orbiter have observed a green luminescence in the atmosphere of Mars for the first time. This phenomenon, known as airglow, occurs when oxygen atoms combine to form an oxygen molecule. The discovery could have implications for future missions to Mars, as the intensity of the night glow could be observed by astronauts or future cameras in orbit. The ongoing examination of Mars' atmosphere will provide valuable insights into its composition and dynamics.
+
+## Matthew Hayden buys Scorpio-N ahead of India vs Australia final
+ - [https://timesofindia.indiatimes.com/auto/cars/matthew-hayden-buys-mahindra-scorpio-n-ahead-of-india-vs-australia-icc-cwc-final-23/articleshow/105316699.cms](https://timesofindia.indiatimes.com/auto/cars/matthew-hayden-buys-mahindra-scorpio-n-ahead-of-india-vs-australia-icc-cwc-final-23/articleshow/105316699.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T13:44:21+00:00
+
+Australian cricket legend, Matthew Hayden, has added a brand-new Mahindra Scorpio-N SUV to his garage ahead of the ICC Men's Cricket World Cup 2023 final.
+
+## 'It's for us to do it for him': Rohit wants to win WC for Dravid
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/its-for-us-to-do-it-for-him-rohit-sharma-wants-to-win-world-cup-for-rahul-dravid/articleshow/105316421.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/its-for-us-to-do-it-for-him-rohit-sharma-wants-to-win-world-cup-for-rahul-dravid/articleshow/105316421.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T13:24:42+00:00
+
+Indian skipper Rohit Sharma attributed the team's success to head coach Rahul Dravid's approach of giving every individual a liberty to play his own game. He also highlighted Dravid's unwavering support for every player during challenging moments.
+
+## SpaceX launches giant new rocket but loses spacecraft eight minutes into flight
+ - [https://timesofindia.indiatimes.com/home/science/spacex-launches-starship-7-months-after-1st-attempt-ended-in-explosion/articleshow/105313415.cms](https://timesofindia.indiatimes.com/home/science/spacex-launches-starship-7-months-after-1st-attempt-ended-in-explosion/articleshow/105313415.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T13:04:08+00:00
+
+SpaceX launched its Starship rocket, the largest ever built, which could potentially aid in the colonisation of Mars and the Moon. The rocket consists of two reusable elements, a first-stage booster called Super Heavy and an upper stage called Starship. Lessons from a previous failed launch were applied, including modifications to the separation process and improvements to prevent explosions.
+
+## China's navy engaged in 'unsafe' actions, says Australia
+ - [https://timesofindia.indiatimes.com/world/china/chinas-navy-engaged-in-unsafe-actions-says-australia/articleshow/105315759.cms](https://timesofindia.indiatimes.com/world/china/chinas-navy-engaged-in-unsafe-actions-says-australia/articleshow/105315759.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T12:41:09+00:00
+
+The Australian defence minister accused a Chinese warship of engaging in unsafe and unprofessional actions during an encounter near Japan. The Chinese warship emitted unsafe sonar pulses after approaching an Australian frigate with divers in the water. The divers suffered minor injuries likely caused by the sonar. Australian officials expect all countries, including China, to operate their militaries in a professional and safe manner. The incident took place within Japan's Exclusive Economic Zone, and tensions between Australia and China continue to persist.
+
+## Rohit: Prepared for this day ever since I became captain
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/we-prepared-for-this-day-ever-since-i-became-captain-rohit-sharma-labels-world-cup-final-as-biggest-moment-of-career/articleshow/105315726.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/we-prepared-for-this-day-ever-since-i-became-captain-rohit-sharma-labels-world-cup-final-as-biggest-moment-of-career/articleshow/105315726.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T12:35:51+00:00
+
+A candid Rohit Sharma on Saturday admitted that the World Cup final against Australia is the biggest moment of his career and his teammates, adding that the side had been preparing for this day since he became the captain.
+
+## 17-year-old Afghan Sikh stabbed to death in Hounslow street fight
+ - [https://timesofindia.indiatimes.com/india/17-year-old-afghan-origin-sikh-stabbed-to-death-in-hounslow-street-fight/articleshow/105315054.cms](https://timesofindia.indiatimes.com/india/17-year-old-afghan-origin-sikh-stabbed-to-death-in-hounslow-street-fight/articleshow/105315054.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T11:59:52+00:00
+
+A 17-year-old Afghan-origin Sikh teenager was stabbed to death in a street fight in Hounslow, London. The fight started near the Grand Union Canal towpath and then moved into a residential area. Police were called to the scene and four men were arrested on suspicion of murder. Witnesses described a violent fight with the teenager being beaten and stabbed. Despite efforts to save him, he was pronounced dead at the scene. A murder investigation has been launched and the victim's family is being supported by specialist officers.
+
+## Kohli: From 'Fab Four' to standing on the cusp of 50-over GOAT
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/virat-kohli-from-fab-four-to-standing-on-the-cusp-of-50-over-goat/articleshow/105314893.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/virat-kohli-from-fab-four-to-standing-on-the-cusp-of-50-over-goat/articleshow/105314893.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T11:56:43+00:00
+
+Virat Kohli has long been on the cusp of batting greatness and at 35 years old he is making a solid case to be considered the greatest 50-over player of all time after a run-laden World Cup campaign on home soil. Sachin Tendulkar was the game's premier batsman until he retired in 2013, and Kohli has inherited that mantle from his compatriot, dominating the game for long stretches in the past decade. Initially, Kohli was part of batting's "Fab Four" alongside England's Joe Root, Australia's Steve Smith and New Zealand's Kane Williamson.
+
+## 'Oh yes!': Biden shows Xi rare 38-yr-old photo
+ - [https://timesofindia.indiatimes.com/world/us/oh-yes-biden-shows-xi-rare-38-yr-old-photo/articleshow/105314993.cms](https://timesofindia.indiatimes.com/world/us/oh-yes-biden-shows-xi-rare-38-yr-old-photo/articleshow/105314993.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T11:56:34+00:00
+
+A photo of Chinese President Xi Jinping at the Golden Gate Bridge has gone viral on social media. The picture resurfaced during a recent meeting between Xi and US President Joe Biden in San Francisco. In the photo, Xi is seen smiling with the bridge in the background. During their meeting, the leaders discussed various topics including military communications and AI. President Biden also expressed concerns about human rights abuses in China. Despite some tension, lighter moments were also shared, such as President Biden reminding Xi about his wife's birthday.
+
+## GRAP Stage 4 curbs lifted in Delhi-NCR as air quality improves
+ - [https://timesofindia.indiatimes.com/city/delhi/curbs-under-grap-stage-4-lifted-in-delhi-ncr-as-air-quality-improves/articleshow/105314666.cms](https://timesofindia.indiatimes.com/city/delhi/curbs-under-grap-stage-4-lifted-in-delhi-ncr-as-air-quality-improves/articleshow/105314666.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T11:42:17+00:00
+
+The Commission for Air Quality Management's (CAQM) sub-Committee has decided to revoke the order, issued on November 5 for actions under Stage-IV of the GRAP with immediate effect.
+
+## WATCH: Hardik Pandya sends special message to Team India
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-hardik-pandya-sends-special-message-to-team-india-ahead-of-world-cup-2023-final-vs-australia/articleshow/105313990.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-hardik-pandya-sends-special-message-to-team-india-ahead-of-world-cup-2023-final-vs-australia/articleshow/105313990.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T11:28:04+00:00
+
+As India set to face Australia in the mouth-watering ICC ODI World Cup final at the Narendra Modi Stadium in Ahmedabad, allrounder Hardik Pandya, who suffered an ankle injury during the clash against Bangladesh, posted a heartfelt message to the Men in Blue ahead of the mega clash. Pandya took to Instagram and posted a video saying 'Let's bring the Cup home'. India have been the only unbeaten team in the World Cup, winning all 10 games on their way to Sunday's finale against five-time champions Australia.
+
+## Why Cummins mentioned Pak when asked about Ahmedabad track
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/why-pat-cummins-mentioned-pakistan-when-asked-about-ahmedabad-track/articleshow/105314043.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/why-pat-cummins-mentioned-pakistan-when-asked-about-ahmedabad-track/articleshow/105314043.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T11:25:15+00:00
+
+Inspecting the pitch before a match is routine but clicking pictures of the track, for possible dressing room discussion and strategy building, is a bit unusual. That's exactly what happened this morning when Australia skipper Pat Cummins came to have a look at the 22-yard-strip which will be used for the World Cup title clash between India and Australia on Sunday. Probably the pitch is playing on Australians' mind before the big match. "Just had a look," Cummins replied when asked about the track.
+
+## Festive sales: 87% buyers opt for petrol cars, SUVs gain momentum
+ - [https://timesofindia.indiatimes.com/auto/news/festive-season-used-car-sales-87-percent-buyers-opt-for-petrol-cars-suvs-gain-momentum/articleshow/105313366.cms](https://timesofindia.indiatimes.com/auto/news/festive-season-used-car-sales-87-percent-buyers-opt-for-petrol-cars-suvs-gain-momentum/articleshow/105313366.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T10:50:20+00:00
+
+AutoTech platform Cars24 reported an 88% surge in the sale of used cars in India during the festive season, with a collective purchase value of Rs 1,760 crore.
+
+## UP govt’s crackdown on Halal certification; likely to impose ban
+ - [https://timesofindia.indiatimes.com/city/lucknow/uttar-pradesh-govts-crackdown-on-halal-certification-likely-to-impose-ban/articleshow/105312495.cms](https://timesofindia.indiatimes.com/city/lucknow/uttar-pradesh-govts-crackdown-on-halal-certification-likely-to-impose-ban/articleshow/105312495.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T10:07:52+00:00
+
+Recognizing the malicious attempt to exploit a specific religious sentiment and potentially incite discord among communities, the chief minister has directed stringent actions against such practices, said a senior home official.
+
+## '27 firms granted approval under new IT hardware PLI scheme'
+ - [https://timesofindia.indiatimes.com/business/india-business/dell-hp-foxconn-lenovo-among-27-firms-granted-approval-under-new-it-hardware-pli-scheme/articleshow/105311829.cms](https://timesofindia.indiatimes.com/business/india-business/dell-hp-foxconn-lenovo-among-27-firms-granted-approval-under-new-it-hardware-pli-scheme/articleshow/105311829.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T09:34:28+00:00
+
+Twenty-seven companies, including industry leaders Dell, HP, Foxconn, and Lenovo, have received approval for the new Production-Linked Incentive (PLI) scheme in IT hardware, signaling India's drive to become a global hub for advanced manufacturing. The move comes as the country actively seeks to attract IT hardware players through favorable policies. These companies are expected to invest Rs 3,000 crore, positioning India as a major force in manufacturing PCs, servers, laptops, and tablets.
+
+## 'Hitman' Rohit Sharma eyes crowning glory in World Cup final
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/hitman-rohit-sharma-eyes-crowning-glory-in-world-cup-final/articleshow/105311599.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/hitman-rohit-sharma-eyes-crowning-glory-in-world-cup-final/articleshow/105311599.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T09:34:16+00:00
+
+Rohit Sharma, nicknamed "Hitman" for his quick scoring, will lead India to the World Cup final on Sunday. Sharma has accumulated 550 runs at the tournament, trailing only teammate Virat Kohli (711). His selfless approach with the bat has earned him accolades in a near-perfect campaign for two-time World Cup champions India. Former India captain Sunil Gavaskar said that Sharma's impact has been unbelievable, as he sets the tone for the batting and sacrifices his wicket to allow others to score runs.
+
+## Notorious criminal Rashid Kalia killed by UP STF in Jhansi shootout
+ - [https://timesofindia.indiatimes.com/city/lucknow/notorious-criminal-rashid-kalia-killed-by-up-stf-in-jhansi-encounter/articleshow/105311617.cms](https://timesofindia.indiatimes.com/city/lucknow/notorious-criminal-rashid-kalia-killed-by-up-stf-in-jhansi-encounter/articleshow/105311617.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T09:25:49+00:00
+
+During the exchange of fire, a deputy SP rank officer and an inspector rank officer were hit by bullets but escaped serious injuries due to the bulletproof vests.
+
+## Battles within the big battle: Rohit vs Starc, Kohli vs Zampa
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/battles-within-the-big-battle-rohit-sharma-vs-mitchell-starc-and-josh-hazlewood-virat-kohli-vs-adam-zampa/articleshow/105309897.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/battles-within-the-big-battle-rohit-sharma-vs-mitchell-starc-and-josh-hazlewood-virat-kohli-vs-adam-zampa/articleshow/105309897.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T08:17:21+00:00
+
+India and Australia have reached the final of the 2023 ODI World Cup, with Australia leading the way with a strong performance and a record of five titles in seven final appearances. India, the tournament's only unbeaten team, has never made a mistake, while Australia has never looked back after recovering from back-to-back losses. India is the frontrunners to win the prestigious trophy at home for the first time in 12 years, while Australia is not used to finishing second. The final promises to be a thrilling contest.
+
+## BRS MLC Kavitha faints during Telangana road show
+ - [https://timesofindia.indiatimes.com/city/hyderabad/kcrs-daughter-and-brs-mlc-k-kavitha-falls-unconscious-during-road-show-in-telanganas-itikyal/articleshow/105309773.cms](https://timesofindia.indiatimes.com/city/hyderabad/kcrs-daughter-and-brs-mlc-k-kavitha-falls-unconscious-during-road-show-in-telanganas-itikyal/articleshow/105309773.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T07:50:58+00:00
+
+Kavitha's team said that she became slightly unwell due to dehydration.
+
+## Tamil Nadu assembly readopts 10 bills ‘returned’ by guv Ravi
+ - [https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-assembly-readopts-10-bills-returned-by-governor-rn-ravi/articleshow/105308862.cms](https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-assembly-readopts-10-bills-returned-by-governor-rn-ravi/articleshow/105308862.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T07:26:45+00:00
+
+Chief minister M K Stalin moved the resolution to readopt the bills
+
+## Altman on sacking : 'Like reading your own eulogy'
+ - [https://timesofindia.indiatimes.com/business/international-business/sam-altman-on-sacking-from-openai-like-reading-your-own-eulogy-while-youre-still-alive/articleshow/105307963.cms](https://timesofindia.indiatimes.com/business/international-business/sam-altman-on-sacking-from-openai-like-reading-your-own-eulogy-while-youre-still-alive/articleshow/105307963.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T06:28:51+00:00
+
+OpenAI has removed its co-founder and CEO, Sam Altman, due to a lack of transparency with the board of directors. Altman played a significant role in promoting ChatGPT and discussing the potential risks of artificial intelligence. OpenAI's chief technology officer, Mira Murati, will serve as interim CEO while they search for a permanent replacement. Another co-founder and executive, Greg Brockman, will step down as chairman but remain with the company. Altman expressed surprise and anger over his removal, citing conflicts with board members.
+
+## How long should you wait between credit card applications
+ - [https://timesofindia.indiatimes.com/business/india-business/how-long-should-you-wait-between-credit-card-applications/articleshow/105307775.cms](https://timesofindia.indiatimes.com/business/india-business/how-long-should-you-wait-between-credit-card-applications/articleshow/105307775.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T06:17:48+00:00
+
+Deciding when to apply for a second credit card requires careful consideration. It's important to assess your needs and financial situation before taking the plunge. A second card can be beneficial for boosting your credit score, providing a safety net in emergencies, and offering better rewards. However, if you have recently applied for a card, are struggling to pay off existing debt, or are planning a big-ticket purchase, it may be best to hold off.
+
+## World Cup Final: Australia are India's toughest bet yet
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-final-australia-are-indias-toughest-bet-yet/articleshow/105307063.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-final-australia-are-indias-toughest-bet-yet/articleshow/105307063.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T06:09:52+00:00
+
+For Indian fans, the fighting victory over Australia on October 8 remains the sole recollection, as the team transformed into an unstoppable force, securing 10 consecutive wins. Now, with just one more triumph needed, they stand on the brink of clinching the trophy. Meanwhile, Australia, renowned for peaking at crucial moments, have been consistently dominating since their first defeats in first two matches. Winning eight consecutive games thereafter, they are proving to be a formidable contender.
+
+## India ahead of China to become 3rd largest market for Hyundai
+ - [https://timesofindia.indiatimes.com/auto/policy-and-industry/india-ahead-of-china-to-become-third-largest-global-market-for-hyundai-top-spot-in-radar/articleshow/105307101.cms](https://timesofindia.indiatimes.com/auto/policy-and-industry/india-ahead-of-china-to-become-third-largest-global-market-for-hyundai-top-spot-in-radar/articleshow/105307101.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T05:52:12+00:00
+
+The company aims to make India the number one market for the brand in the future. Hyundai has increased its production capacity at the Chennai plant and acquired General Motors' Talegaon plant.
+
+## 'Not candid in his comms': Why OpenAI fired Sam Altman
+ - [https://timesofindia.indiatimes.com/business/international-business/not-candid-in-his-communications-why-openai-fired-ceo-sam-altman/articleshow/105306718.cms](https://timesofindia.indiatimes.com/business/international-business/not-candid-in-his-communications-why-openai-fired-ceo-sam-altman/articleshow/105306718.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T05:37:53+00:00
+
+The primary reason cited for his removal was a lack of consistent candor in his communications with the board members, which was seen as hindering their ability to effectively exercise their responsibilities. This decision was the outcome of a thorough review process by the board, which ultimately led to the loss of confidence in Altman's ability to continue leading OpenAI. “The board no longer has confidence in his ability to continue leading OpenAI,” the artificial intelligence company said in a statement.
+
+## In ousting CEO Sam Altman, ChatGPT loses its best fundraiser
+ - [https://timesofindia.indiatimes.com/business/international-business/in-ousting-ceo-sam-altman-chatgpt-loses-its-best-fundraiser/articleshow/105306447.cms](https://timesofindia.indiatimes.com/business/international-business/in-ousting-ceo-sam-altman-chatgpt-loses-its-best-fundraiser/articleshow/105306447.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T05:16:12+00:00
+
+The co-founder of OpenAI, which caused a sensation just a year ago with the introduction of ChatGPT, Altman has presented himself as the benevolent wizard behind the curtain of a technology that many say could upend entire industries and even mankind itself. But on Friday it was the earnest Altman who was upended after OpenAI’s board, in a surprise move, stripped him of his CEO title and directorship. He is out. Directors of the company, now worth about $80 billion, cited a failure to be "consistently candid in his communications."
+
+## Behind India's crack outfit, Dravid and his backroom boys
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-final-india-vs-australia-behind-indias-crack-outfit-rahul-dravid-and-his-backroom-boys/articleshow/105305971.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-final-india-vs-australia-behind-indias-crack-outfit-rahul-dravid-and-his-backroom-boys/articleshow/105305971.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T04:51:11+00:00
+
+India's cricket team has been praised for their performance in the World Cup, and the support staff behind the scenes have played a crucial role. Led by head coach Rahul Dravid, the coaching staff, including batting coach Vikram Rathour and bowling coach Paras Mhambrey, have aligned with Dravid's vision and built a good rapport with the players. The team also has training assistants who provide world-class practice, as well as physios, trainers, masseurs, and an analyst who contribute to the team's success.
+
+## 6-yr-old missing for 2 days found dead in his uncle's box bed
+ - [https://timesofindia.indiatimes.com/city/gurgaon/6-year-old-boy-missing-for-2-days-found-dead-in-his-uncles-box-bed/articleshow/105305523.cms](https://timesofindia.indiatimes.com/city/gurgaon/6-year-old-boy-missing-for-2-days-found-dead-in-his-uncles-box-bed/articleshow/105305523.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T04:18:46+00:00
+
+A six-year-old boy was found dead with his hands and legs tied inside a box bed at his uncle's house in Faridabad. The boy's uncle allegedly lured him to his house with the offer of momos and then strangled him with a scarf. The boy's parents believe that the uncle killed him to avenge an incident where the boy's father had slapped him in 2017. The uncle has been arrested and an autopsy has been conducted on the boy's body.
+
+## Mamata Banerjee: Why saffron practice shirts for Team India?
+ - [https://timesofindia.indiatimes.com/city/kolkata/didi-slams-saffronisation-of-team-india-practice-jerseys/articleshow/105305486.cms](https://timesofindia.indiatimes.com/city/kolkata/didi-slams-saffronisation-of-team-india-practice-jerseys/articleshow/105305486.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T04:15:19+00:00
+
+West Bengal Chief Minister Mamata Banerjee criticized the Indian cricket team for wearing saffron jerseys during practice sessions, accusing the BJP of trying to "saffronise" everything. She also criticized the central government for not releasing the wages of 100-day scheme workers and using funds for political gains. Banerjee expressed her disapproval of naming things after leaders and emphasized the importance of remaining alive in the hearts of the people. She said she had previously fought the Communist Party of India (Marxist) and was now battling the party in Delhi.
+
+## World Cup Final: Team India's 5-point plan to fox Australia
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-final-indias-five-point-plan-to-fox-australia/articleshow/105305033.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-final-indias-five-point-plan-to-fox-australia/articleshow/105305033.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T03:47:11+00:00
+
+India, riding high on their 10 consecutive victories in the mega event, emerge as the frontrunners to win the title, which will be their second on home soil, replicating their success from 2011 when MS Dhoni's team clinched the title by defeating Sri Lanka. That pursuit comes 28 years after 'Kapil's Devils' claimed their inaugural WC title in 1983. Here's an overview of five crucial factors that could pave the way for India to overcome the Aussies on Sunday.
+
+## Cops steal booze worth Rs 1.5L from police station
+ - [https://timesofindia.indiatimes.com/city/vadodara/police-steal-liquor-worth-1-6l-6-held/articleshow/105304813.cms](https://timesofindia.indiatimes.com/city/vadodara/police-steal-liquor-worth-1-6l-6-held/articleshow/105304813.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T03:21:28+00:00
+
+Six people, including three police personnel, were arrested in Mahisagar district, Gujarat, for stealing high-end liquor bottles worth Rs 1.57 lakh that had been seized by the police. The liquor, which was being transported from Chandigarh to Surat, was hidden amongst 75 ceiling fans. Assistant sub-inspector Arvind Rajibhai was caught on CCTV entering the lock-up and removing a bottle. Further investigation revealed that Arvind, along with five others, had stolen the liquor and fans. This is not the first incident of police officers stealing seized liquor in Gujarat.
+
+## Who is Mira Murati, the new CEO of OpenAI
+ - [https://timesofindia.indiatimes.com/business/international-business/who-is-mira-murati-the-new-ceo-of-openai/articleshow/105303411.cms](https://timesofindia.indiatimes.com/business/international-business/who-is-mira-murati-the-new-ceo-of-openai/articleshow/105303411.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T02:15:10+00:00
+
+Mira Murati, a leading developer of ChatGPT, has been appointed as the interim CEO and CTO of OpenAI, a research organization focused on safe and beneficial AI use. Murati, the first woman and person of Albanian origin in this role, has a background in mechanical engineering and has held positions at Tesla and Leap Motion. Her promotion reflects her expertise and leadership abilities, and she is expected to guide OpenAI through an important transitional phase using her technical and business skills.
+
+## Women headed for puja pelted with stones from Nuh madrassa
+ - [https://timesofindia.indiatimes.com/city/gurgaon/women-headed-for-puja-pelted-with-stones-from-nuh-madrassa-9-injured/articleshow/105303352.cms](https://timesofindia.indiatimes.com/city/gurgaon/women-headed-for-puja-pelted-with-stones-from-nuh-madrassa-9-injured/articleshow/105303352.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T02:05:05+00:00
+
+A group of women were allegedly attacked with stones by individuals from a madrassa in Nuh, injuring nine of them. The incident has caused tension in the town, which experienced communal clashes a few months ago. Three minors from the madrassa were apprehended and sent to a shelter home. The police have filed a case against unknown persons. Authorities are taking precautions to prevent any communal backlash and have urged people not to engage in social media posts that could incite tension. The incident occurred when the women were on their way to perform a religious ritual.
+
+## ChatGPT CEO sacked by OpenAI board, here’s why
+ - [https://timesofindia.indiatimes.com/gadgets-news/chatgpt-ceo-sacked-by-openai-board-heres-why/articleshow/105303342.cms](https://timesofindia.indiatimes.com/gadgets-news/chatgpt-ceo-sacked-by-openai-board-heres-why/articleshow/105303342.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T02:03:18+00:00
+
+Sam Altman, the former CEO of OpenAI, has been replaced by Mira Murati, the company's chief technology officer. Altman's departure was a result of a review process that found him to be lacking in communication and hindering the board's ability to carry out its responsibilities. The board of directors, including independent directors such as Quora CEO Adam D'Angelo, has expressed confidence in Murati's ability to lead the company, citing her experience and understanding of OpenAI's values and operations. While a formal search for a permanent CEO is conducted, Murati will assume the role.
+
+## Hyd couple hang 4-yr-old, end lives at home in suicide pact
+ - [https://timesofindia.indiatimes.com/city/hyderabad/couple-hang-4-year-old-end-lives-at-home-in-suicide-pact/articleshow/105303064.cms](https://timesofindia.indiatimes.com/city/hyderabad/couple-hang-4-year-old-end-lives-at-home-in-suicide-pact/articleshow/105303064.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T01:28:09+00:00
+
+An unemployed couple in Hyderabad ended their lives in a suicide pact by hanging themselves and their four-year-old daughter. The couple blamed three people for their suicide on a wall, who were employees of a group where the wife had previously worked. Financial reasons are suspected to be the cause of the extreme step. The police have registered a case and are investigating the incident.
+
+## World Cup: Why Rohit Sharma doesn’t forget to torment Australia!
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-why-rohit-sharma-doesnt-forget-to-torment-australia/articleshow/105302962.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-why-rohit-sharma-doesnt-forget-to-torment-australia/articleshow/105302962.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T01:16:48+00:00
+
+Rohit Sharma's journey as a cricketer began at the age of 17 when he was selected to play against Australia in a tour game. However, he arrived at the venue without his kit bag, assuming he wouldn't get to play. Despite this absent-mindedness, Rohit has proven to be a focused and meticulous player, leading the Indian team in the World Cup final against Australia. He has been a key player in the India-Australia rivalry, with impressive performances and a strong attacking approach.
+
+## World Cup final: Will the Ahmedabad pitch add to the drama?
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-will-the-ahmedabad-pitch-add-to-the-drama/articleshow/105302895.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-will-the-ahmedabad-pitch-add-to-the-drama/articleshow/105302895.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T01:06:32+00:00
+
+There is speculation regarding the pitch conditions for the India vs Australia match at the Narendra Modi Stadium. The Indian team's coaching staff, including head coach Rahul Dravid, were seen inspecting the pitch and engaging in discussions with the curator. Indian captain Rohit Sharma also had conversations with former batting coach Sanjay Bangar and former player Mohammad Kaif. Only six players attended the optional training session, with spinners Ravindra Jadeja and R Ashwin focusing on their skills. The Australian team will have their first nets session on Saturday afternoon.
+
+## Cyclone Midhili may cause widespread rain in northeast today
+ - [https://timesofindia.indiatimes.com/city/guwahati/cyclone-midhili-may-cause-widespread-rain-in-ne-today/articleshow/105302643.cms](https://timesofindia.indiatimes.com/city/guwahati/cyclone-midhili-may-cause-widespread-rain-in-ne-today/articleshow/105302643.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-11-18T00:05:41+00:00
+
+Cyclone Midhili is expected to enter the northeastern region of India, crossing the Bangladesh coast with a wind speed of 60-70 kmph. Heavy to very heavy rainfall is predicted in parts of Manipur, Mizoram, and Tripura, with lighter rainfall and thunderstorms in south Assam and east Meghalaya. Gusts of wind up to 30-50 kmph are also expected in Tripura, Mizoram, Manipur, and south Assam. The cyclone is not expected to have any adverse impact beyond heavy rain.
+

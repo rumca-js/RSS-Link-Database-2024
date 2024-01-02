@@ -1,0 +1,793 @@
+# Source:Phys.org - latest science and technology news stories, URL:https://phys.org/rss-feed/, language:en-us
+
+## Microplastics come from everywhere—yes, that includes sex toys
+ - [https://phys.org/news/2023-11-microplastics-everywhereyes-sex-toys.html](https://phys.org/news/2023-11-microplastics-everywhereyes-sex-toys.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T17:31:02+00:00
+
+As more research reveals how many microplastic particles humans are ingesting and absorbing in their bloodstreams, Duke and Appalachian State researchers led by Joana Sipe and Christine Hendren have examined a source for microplastic absorption many would not have considered: sex toys.
+
+## Study reveals unfair representation of migrant domestic workers in mistreatment cases in Chinese media
+ - [https://phys.org/news/2023-11-reveals-unfair-representation-migrant-domestic.html](https://phys.org/news/2023-11-reveals-unfair-representation-migrant-domestic.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T17:27:04+00:00
+
+Most Chinese-language media reports concerning migrant domestic workers (MDW) in Hong Kong fail to report their mistreatment factually, independently and critically, and focus on news appeal while neglecting the deeper roots of this important issue, related to power and the interplay of gender, race, ethnicity, and class, according to a recent study by Lingnan University.
+
+## A sweet solution: Turning winery waste into jelly
+ - [https://phys.org/news/2023-11-sweet-solution-winery-jelly.html](https://phys.org/news/2023-11-sweet-solution-winery-jelly.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T17:20:01+00:00
+
+Researchers in Turkey have proposed a new sustainable solution for winery waste. In a new study published in the Journal of the Science of Food and Agriculture they have demonstrated how one of the most significant by-products from the winemaking industry can be used in gelatin-based sweets, as a low-cost natural coloring agent with added health benefits.
+
+## Quantifying the risk associated with rockfalls in the Andes
+ - [https://phys.org/news/2023-11-quantifying-rockfalls-andes.html](https://phys.org/news/2023-11-quantifying-rockfalls-andes.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T17:00:21+00:00
+
+High mountain regions often face a multitude of natural hazards, the combined effects of which, known as "cascading hazards," can have serious consequences for infrastructure and urban areas.
+
+## Researchers highlight advancements in biomedical research with enzyme-activated fluorescent probes
+ - [https://phys.org/news/2023-11-highlight-advancements-biomedical-enzyme-activated-fluorescent.html](https://phys.org/news/2023-11-highlight-advancements-biomedical-enzyme-activated-fluorescent.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T17:00:10+00:00
+
+Enzymes, essential for normal cellular and physiological functions, are implicated in various diseases like cancer and diabetes due to their abnormal activity. Therefore, tracking enzyme activity is a valuable strategy for the diagnosis and monitoring of diseases. Conventional imaging techniques are limited by the need for contrast agents, low sensitivity, and spatio-temporal resolution.
+
+## New theory links topology and finance
+ - [https://phys.org/news/2023-11-theory-links-topology.html](https://phys.org/news/2023-11-theory-links-topology.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T17:00:04+00:00
+
+In a new study published in The Journal of Finance and Data Science, a researcher from the International School of Business at HAN University of Applied Sciences in the Netherlands introduced the topological tail dependence theory—a new methodology for predicting stock market volatility in times of turbulence.
+
+## How teachers would handle student violence against educators
+ - [https://phys.org/news/2023-11-teachers-student-violence.html](https://phys.org/news/2023-11-teachers-student-violence.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:59:16+00:00
+
+For the first time, teachers in a nationwide study have told researchers what strategies they think work best to deal with student violence against educators.
+
+## Research offers more precise forecasting of required precipitation for a recent drought recovery
+ - [https://phys.org/news/2023-11-precise-required-precipitation-drought-recovery.html](https://phys.org/news/2023-11-precise-required-precipitation-drought-recovery.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:58:05+00:00
+
+According to the Korea Meteorological Administration, the average national rainfall for March in 2023 measured a mere 28.7 mm, which is only half of the usual amount.
+
+## How waste from the mining industry has perpetuated apartheid-like policies in South Africa
+ - [https://phys.org/news/2023-11-industry-perpetuated-apartheid-like-policies-south.html](https://phys.org/news/2023-11-industry-perpetuated-apartheid-like-policies-south.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:52:04+00:00
+
+While apartheid—South Africa's brutal racial segregation laws of the 20th century—officially came to an end in the early 1990s, its harmful effects persist today, says Stanford historian Gabrielle Hecht in her new book, "Residual Governance: How South Africa Foretells Planetary Futures."
+
+## Q&A: When does shaming work?
+ - [https://phys.org/news/2023-11-qa-shaming.html](https://phys.org/news/2023-11-qa-shaming.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:50:05+00:00
+
+Shame can be a powerful motivator—particularly on the world stage. Calling out human rights abuses can isolate a government; it can cause a public outcry and embarrass leaders into compliance. For many international relations scholars, shaming remains one of the best tools to combat human rights violations.
+
+## A tale of two proteins: Fundamental research could make growing better crops like clockwork
+ - [https://phys.org/news/2023-11-tale-proteins-fundamental-crops-clockwork.html](https://phys.org/news/2023-11-tale-proteins-fundamental-crops-clockwork.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:48:03+00:00
+
+Have you ever taken something apart, like a watch, to see how it works by looking at the parts inside individually?
+
+## Exploring design rules for using supramolecular hydrogels to mimic the extracellular matrix
+ - [https://phys.org/news/2023-11-exploring-supramolecular-hydrogels-mimic-extracellular.html](https://phys.org/news/2023-11-exploring-supramolecular-hydrogels-mimic-extracellular.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:35:01+00:00
+
+In human tissue, the cells are embedded in the extracellular matrix. This matrix is made up of fiber-like structures that provide firmness to the tissue, but also influence cell behavior and facilitate cell growth.
+
+## What's behind the toxic levels of mercury in tropical birds? Gold mining, study shows
+ - [https://phys.org/news/2023-11-toxic-mercury-tropical-birds-gold.html](https://phys.org/news/2023-11-toxic-mercury-tropical-birds-gold.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:34:52+00:00
+
+The tropics are home to more than 75% of all species and are projected to support 50% of the world's human population by mid-century, but little is known about mercury pollution in these life-filled regions.
+
+## 'Forever chemicals' blood tests in Belgium over polluted water
+ - [https://phys.org/news/2023-11-chemicals-blood-belgium-polluted.html](https://phys.org/news/2023-11-chemicals-blood-belgium-polluted.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:33:55+00:00
+
+Belgium's southern Wallonia region pledged Tuesday to offer free blood tests for residents to measure their possible exposure to PFAS "forever chemicals" amid a scandal over polluted drinking water.
+
+## Pacific rainbow+ communities face discrimination, conversion therapy
+ - [https://phys.org/news/2023-11-pacific-rainbow-communities-discrimination-conversion.html](https://phys.org/news/2023-11-pacific-rainbow-communities-discrimination-conversion.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:28:07+00:00
+
+The need to increase Pacific and Rainbow+ leadership was a major finding in the Manalagi project, the first and largest research of its kind addressing the health and well-being of Aotearoa, New Zealand's Pacific Rainbow+ community.
+
+## National climate plans won't limit warming to 1.5°C, so COP28 is critical, UN warns
+ - [https://phys.org/news/2023-11-national-climate-wont-limit-15c.html](https://phys.org/news/2023-11-national-climate-wont-limit-15c.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:25:40+00:00
+
+A new report from UN Climate Change finds national climate action plans remain insufficient to limit global temperature rise to 1.5°C and meet the goals of the Paris Agreement.
+
+## Study describes 48 new species of spiders
+ - [https://phys.org/news/2023-11-species-spiders.html](https://phys.org/news/2023-11-species-spiders.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:20:21+00:00
+
+A paper recently published in Zootaxa documents the 48 species of ground-hunting spiders from the family Miturgidae, which can be found across Australia, particularly in arid habitats in open eucalypt forest, brigalow, mallee, heath, and desert.
+
+## Bioengineers send cardiac muscle samples into space to study heart cell biology in microgravity
+ - [https://phys.org/news/2023-11-bioengineers-cardiac-muscle-samples-space.html](https://phys.org/news/2023-11-bioengineers-cardiac-muscle-samples-space.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T16:11:54+00:00
+
+Mount Sinai's Cardiovascular Research Institute is sending bioengineered human heart muscle cells and micro-tissues into space for the first time on NASA's 29th SpaceX commercial resupply services mission, which launched Thursday, November 9. The "SpaceX CRS-29" mission is sending scientific research to the International Space Station (ISS), where the samples will stay for approximately 30 days before returning to Earth.
+
+## Five ways NASA supercomputing takes missions from concept to reality
+ - [https://phys.org/news/2023-11-ways-nasa-supercomputing-missions-concept.html](https://phys.org/news/2023-11-ways-nasa-supercomputing-missions-concept.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T15:46:09+00:00
+
+NASA high-end computing plays a key role in taking many agency missions from concept to application in the real world. From increasing accuracy of global weather forecasts for forecast entities (like NOAA) to warn of severe storms, to designs for future air taxis to safely fly people around urban areas, to parachute design tests for landing spacecraft on the moon and other planets, our supercomputing resources and experts are driving science and engineering advances for the benefit of humanity.
+
+## Chemist unlocks plastic alternatives using proteins and clothing scraps
+ - [https://phys.org/news/2023-11-chemist-plastic-alternatives-proteins-scraps.html](https://phys.org/news/2023-11-chemist-plastic-alternatives-proteins-scraps.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T15:25:03+00:00
+
+Every year, 400 million tons of plastic waste are generated worldwide. Between 19 and 23 million tons of that plastic waste makes its way into aquatic ecosystems, and the remaining goes into the ground. An additional 92 million tons of cloth waste is generated annually.
+
+## Testing of citizen scientist discovery suggests it is on the boundary between comet and asteroid
+ - [https://phys.org/news/2023-11-citizen-scientist-discovery-boundary-comet.html](https://phys.org/news/2023-11-citizen-scientist-discovery-boundary-comet.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T15:20:01+00:00
+
+A team of space scientists, astronomers and astrophysicists affiliated with multiple institutions across the U.S., working with a colleague from Italy, has determined that a celestial object spotted by citizen scientists back in 2016 is neither a comet nor an asteroid, but an object that lies on the boundary between both. In their paper published in the journal The Astrophysical Journal Letters, the group describes the multiple tests they did to determine the nature of the object and what they learned about it as a result.
+
+## Using dust to bust crime scene DNA forensics
+ - [https://phys.org/news/2023-11-crime-scene-dna-forensics.html](https://phys.org/news/2023-11-crime-scene-dna-forensics.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T15:16:12+00:00
+
+An airborne fraction of soil, or dust, contains biological and chemical "signatures" that act as a fingerprint to a specific location. Australian forensic science experts, led by Flinders University, have highlighted the usefulness of the latest technology by testing a series of field sites in South Australia for their unique chemical and biological profiles.
+
+## Downloading NASA's dark matter data from above the clouds
+ - [https://phys.org/news/2023-11-downloading-nasa-dark-clouds.html](https://phys.org/news/2023-11-downloading-nasa-dark-clouds.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T15:00:02+00:00
+
+Data from a NASA mission to map dark matter around galaxy clusters has been saved by a new recovery system designed by scientists at the University of Sydney. The system allowed the retrieval of gigabytes of information, even after communication failed and the balloon-based telescope was damaged in the landing process.
+
+## Study finds strongest evidence yet for local sources of cosmic ray electrons
+ - [https://phys.org/news/2023-11-strongest-evidence-local-sources-cosmic.html](https://phys.org/news/2023-11-strongest-evidence-local-sources-cosmic.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T14:57:08+00:00
+
+A new study using data from the CALorimetric Electron Telescope (CALET) instrument on the International Space Station has found evidence for nearby, young sources of cosmic ray electrons, contributing to a greater understanding of how the galaxy functions as a whole.
+
+## Scientists discover new component in world's best-studied plant
+ - [https://phys.org/news/2023-11-scientists-component-world-best-studied.html](https://phys.org/news/2023-11-scientists-component-world-best-studied.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T14:52:04+00:00
+
+Wageningen researchers have discovered a previously unnoticed component within the thale cress: a thin film that encases the embryo in the seed. This discovery is particularly noteworthy because this species has been intensively studied for five decades. The newfound knowledge about the component could aid seed and breeding companies in maintaining the health of their seeds and plants.
+
+## Research reveals extreme fluctuations between drought and flooding are devastating millions of lives
+ - [https://phys.org/news/2023-11-reveals-extreme-fluctuations-drought-devastating.html](https://phys.org/news/2023-11-reveals-extreme-fluctuations-drought-devastating.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T14:50:07+00:00
+
+New research reveals millions of people around the world living in poverty have been experiencing a "climate hazard flip" since the turn of the century.
+
+## Trailblazing new Earth satellite put to test in preparation for launch
+ - [https://phys.org/news/2023-11-trailblazing-earth-satellite.html](https://phys.org/news/2023-11-trailblazing-earth-satellite.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T14:47:03+00:00
+
+NISAR, the trailblazing Earth-observing radar satellite being developed by the United States and Indian space agencies, passed a major milestone on Nov. 13, emerging from a 21-day test aimed at evaluating its ability to function in the extreme temperatures and the vacuum of space.
+
+## Evidence-led GM crop regulation could help UK take lead in tackling global food security, climate change risks
+ - [https://phys.org/news/2023-11-evidence-led-gm-crop-uk-tackling.html](https://phys.org/news/2023-11-evidence-led-gm-crop-uk-tackling.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T14:34:04+00:00
+
+The U.K. needs an evidence-led and proportionate regulatory approach for genetically modified (GM) crops to realize the technology's benefits for human health, agriculture and the environment, according to a new Royal Society policy briefing.
+
+## The influence of social media on revenge tourism
+ - [https://phys.org/news/2023-11-social-media-revenge-tourism.html](https://phys.org/news/2023-11-social-media-revenge-tourism.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T14:30:04+00:00
+
+Research in the International Journal of Tourism Policy has shown how social media platforms can influence holidaymakers and travelers in seeking out destinations that have been the victims of adverse events, natural disasters or conflicts. The colloquial term "revenge tourism" was coined in 2021 for this kind of vacation where people sought out experiences to combat the negative impact of lockdowns and lost time caused by the COVID-19 pandemic. However, the term has taken on a broader definition since.
+
+## Five takeaways from a sweeping report on climate change in the US
+ - [https://phys.org/news/2023-11-takeaways-climate.html](https://phys.org/news/2023-11-takeaways-climate.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T14:00:03+00:00
+
+A major U.S. government report published today describes how intensifying climate change is disrupting lives and businesses nationwide, even as communities in every state ramp up their response to the crisis.
+
+## Non-native species likely to continue spreading in North America, Australia and Europe
+ - [https://phys.org/news/2023-11-non-native-species-north-america-australia.html](https://phys.org/news/2023-11-non-native-species-north-america-australia.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T14:00:03+00:00
+
+Naturalized species, which are not native but have established themselves in new locations, have the potential to spread even further to suitable habitats in many parts of the world, reports a new study by Henry Häkkinen, Dave Hodgson and Regan Early at the University of Exeter, UK, published in the open access journal PLOS Biology.
+
+## Twitter users in states affected by hurricanes discuss climate change up to 200% more frequently in the following weeks
+ - [https://phys.org/news/2023-11-twitter-users-states-affected-hurricanes.html](https://phys.org/news/2023-11-twitter-users-states-affected-hurricanes.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T14:00:03+00:00
+
+Twitter users in areas affected by major hurricanes discussed climate change much more frequently right after the hurricane, according to a study published November 23, 2023 in the open-access journal PLOS Climate by Maddalena Torricelli from the City University of London, UK, and colleagues.
+
+## Boosting profits for technology holders and licensees through game theory
+ - [https://phys.org/news/2023-11-boosting-profits-technology-holders-licensees.html](https://phys.org/news/2023-11-boosting-profits-technology-holders-licensees.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:41:04+00:00
+
+Patents and licenses safeguard the intellectual property of the rights holder from being copied or sold without their permission. Companies and individuals who want to make use of the patented or licensed invention must make a formal request to do so.
+
+## Is innovation in business measurable?
+ - [https://phys.org/news/2023-11-business.html](https://phys.org/news/2023-11-business.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:37:03+00:00
+
+Despite the growing interest in Business Model Innovation (BMI), there is a lack of robust empirical evidence regarding its long-term effects. This gap is now being filled by the research efforts of authors Prof. Dr. Lutz Göcke (HS Nordhausen), Matthias Menter (FSU), Dr. Christopher Zeeb (FSU), and Thomas Clauss (Uni Witten). Methodologically, the effects and distinctions of three dimensions are examined: value creation, value proposition and value capture. In other words: How is value created? What is value promised? How is this value measured?
+
+## Researchers: Collapse of West Antarctic ice sheet is still preventable—if we act fast to keep future warming in check
+ - [https://phys.org/news/2023-11-collapse-west-antarctic-ice-sheet.html](https://phys.org/news/2023-11-collapse-west-antarctic-ice-sheet.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:28:20+00:00
+
+Projecting when and how fast the West Antarctic Ice Sheet will lose mass due to current and future global ocean warming—and the likely impact on sea level rise and coastal communities—is a priority for climate science.
+
+## New study finds stressed employees become too depleted to properly recover
+ - [https://phys.org/news/2023-11-stressed-employees-depleted-properly-recover.html](https://phys.org/news/2023-11-stressed-employees-depleted-properly-recover.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:27:58+00:00
+
+In an ideal workplace, organizations should strive to protect employees from abusive supervisors, but for employees who experience this type of intense workplace stress, new research from the University at Buffalo School of Management offers insight and coping strategies.
+
+## Learning about seismic signatures when the Earth moves: Earthquake risk in Indonesia
+ - [https://phys.org/news/2023-11-seismic-signatures-earth-earthquake-indonesia.html](https://phys.org/news/2023-11-seismic-signatures-earth-earthquake-indonesia.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:27:55+00:00
+
+Professor Nick Rawlinson is fascinated by the shifting crust of the planet, the jostle of tectonic plates, the rupture of faults and the shaking of the earth.
+
+## Q&A: Is a volcano about to erupt in Iceland? Expert explains the telltale signs that an eruption might occur
+ - [https://phys.org/news/2023-11-qa-volcano-erupt-iceland-expert.html](https://phys.org/news/2023-11-qa-volcano-erupt-iceland-expert.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:27:34+00:00
+
+Residents of Grindavik, a fishing town in southwestern Iceland, have evacuated and a state of emergency has been declared, as local authorities say a volcanic eruption may be imminent.
+
+## Want to be more persuasive online? Use the present tense, study suggests
+ - [https://phys.org/news/2023-11-persuasive-online-tense.html](https://phys.org/news/2023-11-persuasive-online-tense.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:27:11+00:00
+
+One Amazon review is written in the past tense: "I was thrilled when I put on this shirt!" Another reads, "I will definitely wear this shirt a lot." Yet another says, "I love wearing this shirt."
+
+## Toxic gunk cleansed from South Carolina's Congaree River 13 years after first reported. What's next?
+ - [https://phys.org/news/2023-11-toxic-gunk-cleansed-south-carolina.html](https://phys.org/news/2023-11-toxic-gunk-cleansed-south-carolina.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:27:04+00:00
+
+Thirteen years after a kayaker reported stepping into a stinging patch of muck in the Congaree River, contractors have cleaned up the toxic mess that covered a stretch of the river bottom below the Gervais Street bridge in Columbia, South Carolina.
+
+## How nostalgia and memories find expression in social media
+ - [https://phys.org/news/2023-11-nostalgia-memories-social-media.html](https://phys.org/news/2023-11-nostalgia-memories-social-media.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:15:06+00:00
+
+As possibilities have changed and technology has advanced, memories and nostalgia are now a significant part of our use of social media. This is shown in a study from the University of Gothenburg and University West, published in Social Media + Society.
+
+## Some of today's earthquakes may be aftershocks from quakes in the 1800s
+ - [https://phys.org/news/2023-11-today-earthquakes-aftershocks-quakes-1800s.html](https://phys.org/news/2023-11-today-earthquakes-aftershocks-quakes-1800s.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:12:06+00:00
+
+In the 1800s, some of the strongest earthquakes in recorded U.S. history struck North America's continental interior. Almost two centuries later, the central and eastern United States may still be experiencing aftershocks from those events, a study published in the Journal of Geophysical Research: Solid Earth  finds.
+
+## Researchers construct modularized catalytic system for transfer hydrogenation
+ - [https://phys.org/news/2023-11-modularized-catalytic-hydrogenation.html](https://phys.org/news/2023-11-modularized-catalytic-hydrogenation.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:08:03+00:00
+
+The precise catalytic conversion of chemical bonds is a paramount goal in catalysis. Enzymes, as efficient biocatalysts, are well known for their high catalytic activity, selectivity, and substrate specificity under mild reaction conditions, which can be attributed to the synergistic catalysis of multiple active sites.
+
+## How tiny hinges bend the infection-spreading spikes of a coronavirus
+ - [https://phys.org/news/2023-11-tiny-hinges-infection-spreading-spikes-coronavirus.html](https://phys.org/news/2023-11-tiny-hinges-infection-spreading-spikes-coronavirus.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:06:04+00:00
+
+A coronavirus uses protein "spikes" to grab and infect cells. Despite their name, those spikes aren't stiff and pointy. They're shaped like chicken drumsticks with the meaty part facing out, and the meaty part can tilt every which way on its slender stalk. That ability to tilt, it turns out, affects how successfully the spike can infect a cell.
+
+## Conflict pollution, washed-up landmines and military emissions: How war trashes the environment
+ - [https://phys.org/news/2023-11-conflict-pollution-washed-up-landmines-military.html](https://phys.org/news/2023-11-conflict-pollution-washed-up-landmines-military.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:03:05+00:00
+
+When armed conflict breaks out, we first focus on the people affected. But the suffering from war doesn't stop when the fighting does. War trashes the environment. Artillery strikes, rockets and landmines release pollutants, wipe out forests and can make farmland unusable.
+
+## Québec's summer 2023 wildfires were the most devastating in 50 years. Is the worst yet to come?
+ - [https://phys.org/news/2023-11-qubec-summer-wildfires-devastating-years.html](https://phys.org/news/2023-11-qubec-summer-wildfires-devastating-years.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T13:02:04+00:00
+
+After a summer of exceptional wildfires, the return of cooler temperatures and snowy conditions will provide Québec's forests a brief respite.
+
+## Preventing pollen-mediated gene flow from transgenic camelina using engineered cleistogamy
+ - [https://phys.org/news/2023-11-pollen-mediated-gene-transgenic-camelina-cleistogamy.html](https://phys.org/news/2023-11-pollen-mediated-gene-transgenic-camelina-cleistogamy.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:53:03+00:00
+
+Camelina sativa (L.) Crantz. is native to Europe and Central Asia, and cultivated as an oilseed crop in Europe, Asia, and North America. It is not only rich in nutrients, such as a high content of unsaturated fatty acids, but it also possesses valuable agronomic traits.
+
+## Decoding the genetics of ascorbic acid: A deep dive into strawberry's Vitamin C content and its environmental factors
+ - [https://phys.org/news/2023-11-decoding-genetics-ascorbic-acid-deep.html](https://phys.org/news/2023-11-decoding-genetics-ascorbic-acid-deep.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:51:06+00:00
+
+Vitamin C, also known as ascorbic acid (AsA), is a prevalent antioxidant found in various organisms, notably plants and animals. Functionally, AsA plays a variety of roles, from enzyme cofactor to safeguarding against oxidative damage during photosynthesis or external stresses in plants.
+
+## Decoding the Cascade hop genome: Unraveling evolutionary secrets and divergence in the Cannabaceae family
+ - [https://phys.org/news/2023-11-decoding-cascade-genome-unraveling-evolutionary.html](https://phys.org/news/2023-11-decoding-cascade-genome-unraveling-evolutionary.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:50:05+00:00
+
+Hop (Humulus lupulus L. var. Lupulus) is a diploid, wind-pollinated, perennial plant. Not only does the H. lupulus play an important role in brewing and flavoring, but its female inflorescences contain lupulin glands (glandular trichomes) that can synthesize and store resins, bitter acids, essential oils, and flavonoids.
+
+## Unlocking the mystery of skin cracking in chili peppers
+ - [https://phys.org/news/2023-11-mystery-skin-chili-peppers.html](https://phys.org/news/2023-11-mystery-skin-chili-peppers.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:48:05+00:00
+
+The outermost epidermal cell layer of fleshy fruit is surrounded by a hydrophobic cuticle, notably thicker than that found on vegetative tissues. This cuticle, primarily composed of the cutin polymer, also contains waxes and sometimes polysaccharides. It serves crucial functions, including regulating water and gas transport, protection against pathogens, and shielding from UV radiation. Failure of the fruit skin, which can manifest in ways ranging from browning to cracking, negatively impacts the fruit's development, appearance, and marketability.
+
+## Revolutionizing kiwifruit cultivation: Cutting-edge breeding strategies for Actinidia
+ - [https://phys.org/news/2023-11-revolutionizing-kiwifruit-cultivation-cutting-edge-strategies.html](https://phys.org/news/2023-11-revolutionizing-kiwifruit-cultivation-cutting-edge-strategies.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:47:03+00:00
+
+While major advances have been made through speed breeding and other technologies, woody perennial fruit tree species have lagged behind. Among these is the kiwifruit (Actinidia chinensis), a crucial fresh fruit crop, which has limited genetic diversity and faces obstacles like long generation times, large plant size, and reliance on chilling.
+
+## Atmospheric Waves Experiment launches to space station
+ - [https://phys.org/news/2023-11-atmospheric-space-station.html](https://phys.org/news/2023-11-atmospheric-space-station.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:44:02+00:00
+
+At 8:28 p.m. EST on Nov. 9, 2023, NASA's Atmospheric Waves Experiment, or AWE, lifted off from Kennedy Space Center in Florida aboard a SpaceX Falcon 9 rocket on the 29th commercial resupply mission (CRS-29) for NASA.
+
+## Analyzing the blood of fish can show us how healthy they are
+ - [https://phys.org/news/2023-11-blood-fish-healthy.html](https://phys.org/news/2023-11-blood-fish-healthy.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:37:39+00:00
+
+The Gulf of St. Lawrence is an invaluable resource for Canada. Fish and shellfish fisheries that date to the 16th century have remained an essential source of income for many communities, including those on the North Shore and Gaspésie or the Îles-de-la-Madeleine.
+
+## Insights into moss growth under elevated carbon dioxide levels may benefit climate change models
+ - [https://phys.org/news/2023-11-insights-moss-growth-elevated-carbon.html](https://phys.org/news/2023-11-insights-moss-growth-elevated-carbon.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:37:04+00:00
+
+Approximately 12,000 species of mosses exist and cover close to 4 million square miles of earth, equivalent to the size of Canada, and are ecologically and evolutionarily important. Mosses play an essential role in rainwater retention, decreasing plant pathogens and increasing carbon sequestration in soil, thus improving the overall soil health.
+
+## How salinity affects seasonal variability of the Makassar Strait throughflow
+ - [https://phys.org/news/2023-11-salinity-affects-seasonal-variability-makassar.html](https://phys.org/news/2023-11-salinity-affects-seasonal-variability-makassar.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:36:43+00:00
+
+The Makassar Strait throughflow (MST) accounts for approximately 77% of the total volume transport of the Indonesian throughflow (ITF), and it influences mass and heat exchanges between the Indo-Pacific basin and global climate.
+
+## Restoring ecosystems to boost biodiversity is an urgent priority—an 'Eco-index' can guide the way
+ - [https://phys.org/news/2023-11-ecosystems-boost-biodiversity-urgent-priorityan.html](https://phys.org/news/2023-11-ecosystems-boost-biodiversity-urgent-priorityan.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:27:04+00:00
+
+Biodiversity continues to decline globally, but nowhere is the loss more pronounced than in Aotearoa New Zealand, which has the highest proportion of threatened indigenous species in the world.
+
+## Researcher: This is the hottest autumn on record—and it's impacting the climate system and human society
+ - [https://phys.org/news/2023-11-hottest-autumn-recordand-impacting-climate.html](https://phys.org/news/2023-11-hottest-autumn-recordand-impacting-climate.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:23:05+00:00
+
+We are still getting used to a "new normal" of devastating summer heat waves. But the effects of a warming climate are being felt throughout the year, and recent autumn months have been further off the charts than ever.
+
+## Earthworms are our friends—but they could make the climate crisis worse if we're not careful
+ - [https://phys.org/news/2023-11-earthworms-friendsbut-climate-crisis-worse.html](https://phys.org/news/2023-11-earthworms-friendsbut-climate-crisis-worse.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:22:04+00:00
+
+Earthworms are revered for the way they nourish healthy soils, and scientific evidence validates the affection gardeners feel for these industrious invertebrates. Nevertheless, research has shown that our soil-dwelling friends may be less benevolent as the climate crisis escalates and grants them access to recently defrosted northern soils.
+
+## Orkney's lost tomb—how researchers made the Neolithic discovery
+ - [https://phys.org/news/2023-11-orkney-lost-tombhow-neolithic-discovery.html](https://phys.org/news/2023-11-orkney-lost-tombhow-neolithic-discovery.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:20:05+00:00
+
+Orkney in the north of Scotland is renowned for its remarkably well-preserved monuments. Many of these are Neolithic (10,000 BC to 2,200 BC) and consist of stone circles and chambered tombs, which are still highly visible in the landscape. Chambered tombs are monuments built of stone with a chamber area designed to hold the remains of the dead.
+
+## Examining the role wolves play in boreal forest dynamics as they constrain beaver movements
+ - [https://phys.org/news/2023-11-role-wolves-play-boreal-forest.html](https://phys.org/news/2023-11-role-wolves-play-boreal-forest.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:20:01+00:00
+
+A team of land managers at the University of Minnesota, working with a colleague at the University of Manitoba, has learned more about the role wolves play in boreal forest dynamics as they prey on beavers. In their study, published in Proceedings of the Royal Society B, the group used GPS trackers on wild wolves and cameras placed around several beaver ponds at a forested park in Minnesota to learn more about the impact of beavers and wolves on forest dynamics.
+
+## Mapping project shows how extensive frontier violence was in Queensland
+ - [https://phys.org/news/2023-11-extensive-frontier-violence-queensland.html](https://phys.org/news/2023-11-extensive-frontier-violence-queensland.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:19:05+00:00
+
+First Nations people, please be advised this article speaks of racially discriminating moments in history, including the distress and death of First Nations people.
+
+## Young people's reluctance to talk about money is putting them at risk. Here's how to help them
+ - [https://phys.org/news/2023-11-young-people-reluctance-money.html](https://phys.org/news/2023-11-young-people-reluctance-money.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:15:05+00:00
+
+Credit is an everyday, and often essential, part of young people's lives. Gaining access to credit for the first time is an important transition to adulthood that can enable you to study, earn and invest in your future.
+
+## Why the future might not be where you think it is: How different cultures perceive time
+ - [https://phys.org/news/2023-11-future-cultures.html](https://phys.org/news/2023-11-future-cultures.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:14:05+00:00
+
+Imagine the future. Where is it for you? Do you see yourself striding towards it? Perhaps it's behind you. Maybe it's even above you.
+
+## New tool to help AI track animals could boost biology research
+ - [https://phys.org/news/2023-11-tool-ai-track-animals-boost.html](https://phys.org/news/2023-11-tool-ai-track-animals-boost.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:13:04+00:00
+
+Biologists often study large numbers of animals to collect data on collective and individual behavior. New machine learning tools promise to help scientists process the huge amount of data this work generates more quickly while lessening workload.
+
+## High-severity wildfires threaten global timber production, new study finds
+ - [https://phys.org/news/2023-11-high-severity-wildfires-threaten-global-timber.html](https://phys.org/news/2023-11-high-severity-wildfires-threaten-global-timber.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:10:09+00:00
+
+Severe wildfires are putting global timber production at risk, new research from The Australian National University (ANU), the University of Sheffield and the University of Cambridge shows.
+
+## Genetic discovery opens bioengineering opportunities for human and plant health
+ - [https://phys.org/news/2023-11-genetic-discovery-bioengineering-opportunities-human.html](https://phys.org/news/2023-11-genetic-discovery-bioengineering-opportunities-human.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T12:08:07+00:00
+
+An unexpected genetic discovery in wheat has led to opportunities for the metabolic engineering of versatile compounds with the potential to improve its nutritional qualities and resilience to disease.
+
+## Researchers identify unexpected twist while developing new polymer-based semiconductors
+ - [https://phys.org/news/2023-11-unexpected-polymer-based-semiconductors.html](https://phys.org/news/2023-11-unexpected-polymer-based-semiconductors.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:57:03+00:00
+
+A new study led by chemists at the University of Illinois Urbana-Champaign brings fresh insight into the development of semiconductor materials that can do things their traditional silicon counterparts cannot—harness the power of chirality, a non-superimposable mirror image.
+
+## World severely off track to limit planet-heating emissions: UN
+ - [https://phys.org/news/2023-11-world-severely-track-limit-planet-heating.html](https://phys.org/news/2023-11-world-severely-track-limit-planet-heating.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:51:58+00:00
+
+The world is "failing to get a grip" on climate change, the UN warned Tuesday, as an assessment of current climate pledges shows only minor progress on reducing emissions this decade.
+
+## Brightest flash ever disturbed Earth's atmosphere last year
+ - [https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html](https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:47:45+00:00
+
+Last year the brightest flash of light ever seen in the night sky disturbed Earth's upper atmosphere in a way that has never before detected before, researchers said on Tuesday.
+
+## Answering longstanding questions about jets from black holes
+ - [https://phys.org/news/2023-11-longstanding-jets-black-holes.html](https://phys.org/news/2023-11-longstanding-jets-black-holes.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:43:13+00:00
+
+The one thing everyone knows about black holes is that absolutely everything nearby gets sucked into them. Almost everything, it turns out.
+
+## New results to help fine-tune catalytic properties of bimetallic nanoparticles
+ - [https://phys.org/news/2023-11-results-fine-tune-catalytic-properties-bimetallic.html](https://phys.org/news/2023-11-results-fine-tune-catalytic-properties-bimetallic.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:39:03+00:00
+
+Nanoparticles range in size from 1 to 100 nanometers, and compared with usual particles, they are known to have unique features that are increasingly used for diagnosing cancer, developing small electronic devices and solar batteries, as well as in many other spheres.
+
+## How do temperature extremes influence the distribution of species?
+ - [https://phys.org/news/2023-11-temperature-extremes-species.html](https://phys.org/news/2023-11-temperature-extremes-species.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:34:04+00:00
+
+As the planet gets hotter, animal and plant species around the world will be faced with new, potentially unpredictable living conditions, which could alter ecosystems in unprecedented ways.
+
+## Dissecting the structural secrets of the inactive X chromosome
+ - [https://phys.org/news/2023-11-secrets-inactive-chromosome.html](https://phys.org/news/2023-11-secrets-inactive-chromosome.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:23:00+00:00
+
+Cell biologists from RIKEN have provided an unprecedented glimpse into the distinctive features of an unusual chromosome—the inactivated X chromosome copy carried by every female cell. The findings are published in the journal Nature Structural & Molecular Biology.
+
+## Researchers: Modeling can revolutionize the fight against climate change in agriculture
+ - [https://phys.org/news/2023-11-revolutionize-climate-agriculture.html](https://phys.org/news/2023-11-revolutionize-climate-agriculture.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:22:50+00:00
+
+It's no secret that climate change poses a threat to our planet. Agriculture plays a pivotal role in the battle against climate change, but it's a complex task. According to a group of esteemed researchers, better collaboration between research, policy, and society is needed to achieve the set political climate goals. In a comment published in the journal Nature Food, researchers from, among others, Aarhus University discuss how modeling tools can play a crucial role in this effort.
+
+## Analysis of children's screen time studies shows both positive and negative outcomes
+ - [https://phys.org/news/2023-11-analysis-children-screen-positive-negative.html](https://phys.org/news/2023-11-analysis-children-screen-positive-negative.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:21:43+00:00
+
+By analyzing the results of many prior studies on the use of screen-based technologies by children, an international team of psychologists and human biomechanics researchers has found mixed outcomes. In their study, reported in the journal Nature Human Behavior, the group obtained and filtered data from previous research results to draw conclusions about the impact of screen time on children's health and well-being. The editors at Nature have also published a Research Briefing outlining the work.
+
+## Study shows surprising results around coastal restoration, mangroves and sediment
+ - [https://phys.org/news/2023-11-results-coastal-mangroves-sediment.html](https://phys.org/news/2023-11-results-coastal-mangroves-sediment.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:19:02+00:00
+
+"Don't blame the mangroves," is a key take-away of an international collaboration looking into vegetation removal, sedimentation, and coastal restoration. The study, published in Nature Communications, shows coastal restoration on a smaller local scale isn't going to cut through the mud without larger scale catchment change.
+
+## Forecasting microbiomes for sustainability and health
+ - [https://phys.org/news/2023-11-microbiomes-sustainability-health.html](https://phys.org/news/2023-11-microbiomes-sustainability-health.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:16:04+00:00
+
+Microbial communities, or microbiomes, are essential for safeguarding human and environmental health through the most widely used biotechnological process on our planet: biological wastewater treatment.
+
+## Nano-CaCO₃ stabilized ferroptosis-inducing Lipiodol based microreactors for TAFE therapy
+ - [https://phys.org/news/2023-11-nano-caco-stabilized-ferroptosis-inducing-lipiodol-based.html](https://phys.org/news/2023-11-nano-caco-stabilized-ferroptosis-inducing-lipiodol-based.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:12:03+00:00
+
+Hepatocellular carcinoma (HCC) is the third most common cause of cancer-related deaths worldwide. For most intermediate-advanced HCC patients, transarterial embolization (TAE) therapy is the mainstream treatment by utilizing embolic agents to block the tumor blood supply to induce ischemic necrosis attributing to its minimal invasiveness.
+
+## Research reveals evidence of recurring ancient supereruption
+ - [https://phys.org/news/2023-11-reveals-evidence-recurring-ancient-supereruption.html](https://phys.org/news/2023-11-reveals-evidence-recurring-ancient-supereruption.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:10:06+00:00
+
+Researchers have discovered a series of large undersea sediment deposits in a region near Italy that were likely formed by an ancient volcanic supereruption.
+
+## Putting sound waves to work to create safer public spaces
+ - [https://phys.org/news/2023-11-safer-spaces.html](https://phys.org/news/2023-11-safer-spaces.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:00:01+00:00
+
+The risk of hearing loss does not come just from loud machinery or other obvious noise. It can also affect people in public environments like theaters and concert halls. Absorbing this excess sound to make public environments safer for hearing and using the unwanted sound waves to create electricity is the aim of a paper, entitled "Piezoelectric system on harnessing sound energy in closed environment," published in Physics of Fluids.
+
+## When languages collide, which survives?
+ - [https://phys.org/news/2023-11-languages-collide-survives.html](https://phys.org/news/2023-11-languages-collide-survives.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T11:00:01+00:00
+
+Language has the power to shape our perceptions and interactions with the world. Different languages can coexist, but their dynamics are shaped by the communities that speak them—and how those communities interact with each other.
+
+## The power to turn the invisible visible: A revolution in microscopy for live-cell imaging
+ - [https://phys.org/news/2023-11-power-invisible-visible-revolution-microscopy.html](https://phys.org/news/2023-11-power-invisible-visible-revolution-microscopy.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T10:59:02+00:00
+
+Imagine having a microscope that magnifies and enhances the tiniest details, revealing a world beyond the limits of conventional resolution. That's precisely what enhanced super-resolution radial fluctuations (eSRRF) brings to the scientific forefront—an upgraded super-resolution magic wand for microscopes.
+
+## Study sheds light on how Earth cycles its fossil carbon
+ - [https://phys.org/news/2023-11-earth-fossil-carbon.html](https://phys.org/news/2023-11-earth-fossil-carbon.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T10:38:21+00:00
+
+As the primary element of life on our planet, carbon is constantly journeying from living creatures down into the Earth's crust and back up into the atmosphere, but until recently, quantifying this journey was virtually impossible.
+
+## Lipid nanoparticles that deliver mRNA to T cells hold promise against autoimmune diseases
+ - [https://phys.org/news/2023-11-lipid-nanoparticles-mrna-cells-autoimmune.html](https://phys.org/news/2023-11-lipid-nanoparticles-mrna-cells-autoimmune.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T10:37:53+00:00
+
+Autoimmune disorders are among the most prevalent chronic diseases across the globe. Emerging treatments for autoimmune disorders focus on "adoptive cell therapies," or those using cells from a patient's own body to achieve immunosuppression. These therapeutic cells are recognized by the patient's body as "self," therefore limiting side effects, and are specifically engineered to localize the intended therapeutic effect.
+
+## Hidden or extinct? Genome analysis of 120-year-old torpedo ray specimen confirms species status
+ - [https://phys.org/news/2023-11-hidden-extinct-genome-analysis-year-old.html](https://phys.org/news/2023-11-hidden-extinct-genome-analysis-year-old.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T10:37:45+00:00
+
+There are always little treasures to be found in museum collections—that's what makes them so valuable for research. With todays methods of analysis, new, detailed findings can be elicited from archives that are often centuries old.
+
+## Adapting to climate change: Mutation enables flour beetles to speed up their development
+ - [https://phys.org/news/2023-11-climate-mutation-enables-flour-beetles.html](https://phys.org/news/2023-11-climate-mutation-enables-flour-beetles.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T10:35:03+00:00
+
+Leiden biologists have found a mutation in flour beetles that allows them to speed up their development. They think that more insects can change their growth rate, which could help them adjust to climate change. The study has been published in Nature Ecology & Evolution.
+
+## Researchers extend shelf life of electrolyzers that can convert carbon dioxide to green chemicals
+ - [https://phys.org/news/2023-11-shelf-life-electrolyzers-carbon-dioxide.html](https://phys.org/news/2023-11-shelf-life-electrolyzers-carbon-dioxide.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T10:31:03+00:00
+
+An international research team at DTU has increased the shelf life of electrolyzers that convert CO2 from half a day to 100 hours. This is good news for companies working with the process. The findings were published in Nature Catalysis under the title "Identifying and alleviating the durability challenges in the membrane-electrode-assembly for high-rate CO electrolysis."
+
+## A 'gold standard' for computational materials science codes
+ - [https://phys.org/news/2023-11-gold-standard-materials-science-codes.html](https://phys.org/news/2023-11-gold-standard-materials-science-codes.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:59:39+00:00
+
+For the past few decades, physicists and materials scientists around the world have been busy developing computer codes that simulate the key properties of materials, and they can now choose from a whole family of such tools, using them to publish tens of thousands of scientific articles per year.
+
+## Researchers realize highly selective CO hydrogenation to higher alcohols
+ - [https://phys.org/news/2023-11-highly-hydrogenation-higher-alcohols.html](https://phys.org/news/2023-11-highly-hydrogenation-higher-alcohols.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:57:36+00:00
+
+Selective hydrogenation of carbon monoxide (CO) to higher alcohols (C2+OH) is a promising non-petroleum route for producing high-value chemicals, in which precise regulations of both C-O cleavage and C-C coupling are essential.
+
+## A guide to grapevine red blotch disease and its global wine production impacts
+ - [https://phys.org/news/2023-11-grapevine-red-blotch-disease-global.html](https://phys.org/news/2023-11-grapevine-red-blotch-disease-global.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:57:30+00:00
+
+In PLOS Pathogens an international team led by Dr. Björn Krenz from the Department of Plant Viruses at the Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures GmbH summarizes the latest research findings and unanswered questions surrounding the globally spreading disease of grapevines.
+
+## Converting PFAS 'forever chemicals' into valuable compounds
+ - [https://phys.org/news/2023-11-pfas-chemicals-valuable-compounds.html](https://phys.org/news/2023-11-pfas-chemicals-valuable-compounds.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:57:26+00:00
+
+Commonly known as "forever chemicals," PFAS are notorious for persisting in the environment and in our bodies. Osaka Metropolitan University chemists may put an end to the "forever" life of PFAS with their simple yet innovative technique that converts these harmful substances into valuable compounds.
+
+## New water treatment method can generate green energy
+ - [https://phys.org/news/2023-11-treatment-method-generate-green-energy.html](https://phys.org/news/2023-11-treatment-method-generate-green-energy.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:57:08+00:00
+
+Researchers from ICIQ in Spain have designed micromotors that move around on their own to purify wastewater. The process creates ammonia, which can serve as a green energy source. Now, an AI method developed at the University of Gothenburg will be used to tune the motors to achieve the best possible results.
+
+## Laser pulse compression by a density gradient plasma for exawatt to zettawatt lasers
+ - [https://phys.org/news/2023-11-laser-pulse-compression-density-gradient.html](https://phys.org/news/2023-11-laser-pulse-compression-density-gradient.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:57:03+00:00
+
+A new method of creating laser pulses, more than 1,000 times as powerful as those currently in existence, has been proposed by scientists in the UK and South Korea.
+
+## Researchers reveal that Earth's surface water can penetrate deep into the planet, transforming core's outer layer
+ - [https://phys.org/news/2023-11-reveal-earth-surface-penetrate-deep.html](https://phys.org/news/2023-11-reveal-earth-surface-penetrate-deep.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:56:57+00:00
+
+A few decades ago, seismologists imaging the deep planet identified a thin layer, just over a few hundred kilometers thick. The origin of this layer, known as the E prime layer, has been a mystery—until now.
+
+## Researchers obtain evidence for nanoflares heating coronal loops
+ - [https://phys.org/news/2023-11-evidence-nanoflares-coronal-loops.html](https://phys.org/news/2023-11-evidence-nanoflares-coronal-loops.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:54:33+00:00
+
+Researchers from Yunnan Observatories of the Chinese Academy of Sciences have demonstrated the evolution of separated strands within the apparent single coronal loops observed in Atmospheric Imaging Assembly (AIA) images.
+
+## Shedding new light on sugars, the 'dark matter' of cellular biology
+ - [https://phys.org/news/2023-11-sugars-dark-cellular-biology.html](https://phys.org/news/2023-11-sugars-dark-cellular-biology.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:54:22+00:00
+
+Scientists at Université de Montréal's Department of Chemistry have developed a new fluorogenic probe that can be used to detect and study interactions between two families of biomolecules essential to life: sugars and proteins.
+
+## ALMA observations shed more light on molecular clouds associated with supernova remnant LHA 120-N49
+ - [https://phys.org/news/2023-11-alma-molecular-clouds-supernova-remnant.html](https://phys.org/news/2023-11-alma-molecular-clouds-supernova-remnant.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:54:16+00:00
+
+Using the Atacama Large Millimeter/Submillimeter Array (ALMA), an international team of astronomers has observed a supernova remnant known as LHA 120-N49. Results of the observational campaign, published November 3 on the pre-print server arXiv, provide crucial insights into the nature and properties of molecular clouds associated with this remnant.
+
+## Using miniature microphones to record rat's happy squeaks
+ - [https://phys.org/news/2023-11-miniature-microphones-rat-happy.html](https://phys.org/news/2023-11-miniature-microphones-rat-happy.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:54:10+00:00
+
+A team of neurobiologists at the University of Haifa's, Sagol Department of Neurobiology has found, via the use of novel miniature microphones, that rats make sounds when in the company of other rats for no other reason than because they are happy. In their study, published open access in the journal Cell Reports Methods, the group conducted experiments that involved inserting tiny microphones into the noses of domesticated rats.
+
+## Using AI to estimate future water and electricity demands in major cities in light of global warming
+ - [https://phys.org/news/2023-11-ai-future-electricity-demands-major.html](https://phys.org/news/2023-11-ai-future-electricity-demands-major.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:54:04+00:00
+
+A multi-institutional team of industrial engineers has used AI technology to make projections of increased demand for electricity and water due to climate change in major cities across the U.S. In their study, published open access in the journal One Earth, the group trained an AI system with both climate data and electricity and water usage statistics for 46 major cities in the U.S.
+
+## Insect trapped in amber reveals the evolutionary battles of ancient Europe
+ - [https://phys.org/news/2023-11-insect-amber-reveals-evolutionary-ancient.html](https://phys.org/news/2023-11-insect-amber-reveals-evolutionary-ancient.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:44:04+00:00
+
+An extraordinary insect preserved in amber is opening our ears to a world of communication beyond our hearing. New research on an extinct katydid in the Natural History Museum's collection reveals that katydids have been using ultrasounds for millions of years to try and avoid predators hearing them.
+
+## Scientists test new method for identifying small microplastics
+ - [https://phys.org/news/2023-11-scientists-method-small-microplastics.html](https://phys.org/news/2023-11-scientists-method-small-microplastics.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:30:04+00:00
+
+Microplastics, from the beads that were once commonplace in cosmetics to the weathered and broken-down remnants of trash, are now ubiquitous in marine and inland waters around the world. To date, though, scientists have struggled to identify which plastics persist longest in the environment and measure their abundance, especially at the smaller end of the size range where they're most likely to be consumed by foundational species near the bottom of the food web, like zooplankton.
+
+## Revolutionizing strawberry production: CRISPR/Cas9 editing enhances fruit firmness and extends shelf life
+ - [https://phys.org/news/2023-11-revolutionizing-strawberry-production-crisprcas9-fruit.html](https://phys.org/news/2023-11-revolutionizing-strawberry-production-crisprcas9-fruit.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:23:03+00:00
+
+The cultivated strawberry (Fragaria × ananassa, Duch.) is one of the Rosaceae family renowned for its flavor and health benefits, making it an important agricultural commodity. However, its soft texture leads to a brief shelf life and consequent economic losses.
+
+## Using eclipses to calculate the transparency of Saturn's rings
+ - [https://phys.org/news/2023-11-eclipses-transparency-saturn.html](https://phys.org/news/2023-11-eclipses-transparency-saturn.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:13:02+00:00
+
+A Lancaster University Ph.D. student has measured the optical depth of Saturn's rings using a new method based on how much sunlight reached the Cassini spacecraft while it was in the shadow of the rings.
+
+## Fungi's secrets for surviving a hypersaline environment
+ - [https://phys.org/news/2023-11-fungi-secrets-surviving-hypersaline-environment.html](https://phys.org/news/2023-11-fungi-secrets-surviving-hypersaline-environment.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:05:03+00:00
+
+Many organisms have evolved to survive in some of the Earth's harshest conditions, tolerating freezing temperatures, crushing pressures and other extremes. In studying these organisms, scientists deepen our understanding of how life has adapted on our planet—and of what it could look like on others.
+
+## Virus discovery is new ammunition for tackling 'germ warfare' in humans
+ - [https://phys.org/news/2023-11-virus-discovery-ammunition-tackling-germ.html](https://phys.org/news/2023-11-virus-discovery-ammunition-tackling-germ.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T09:03:03+00:00
+
+An international research team has identified potential new 'weapons' in the 'arms race' for new antibiotics and possible future therapies for a more balanced gut microbiome and human health.
+
+## Climate change increasing likelihood of extreme snowfall in the French Alps, research suggests
+ - [https://phys.org/news/2023-11-climate-likelihood-extreme-snowfall-french.html](https://phys.org/news/2023-11-climate-likelihood-extreme-snowfall-french.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T07:30:01+00:00
+
+Global warming is often cited as having a negative impact on snow and ice melt in cold regions, yet new research published in The Cryosphere has suggested that extreme snowfall events may be a feature of some locations at higher latitudes and elevations in the decades to come.
+
+## New study reveals surprising insights into feeding habits of carnivorous dinosaurs in North America
+ - [https://phys.org/news/2023-11-reveals-insights-habits-carnivorous-dinosaurs.html](https://phys.org/news/2023-11-reveals-insights-habits-carnivorous-dinosaurs.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T07:00:01+00:00
+
+New research sheds light on the dining habits of ancient carnivorous dinosaurs from Jurassic rocks of the U.S.. A recent study published in PeerJ by Roberto Lei (Università degli Studi di Modena e Reggio Emilia) and colleagues explores the bite marks left on the ancient bones of the giant long-necked sauropod dinosaurs like Diplodocus and Brontosaurus by carnivorous theropod dinosaurs.
+
+## New study highlights need to address risk of continued global warming after net zero
+ - [https://phys.org/news/2023-11-highlights-global-net.html](https://phys.org/news/2023-11-highlights-global-net.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T05:00:02+00:00
+
+From scorching heat waves to torrential downpours and devastating storms, the disastrous effects of global warming are sweeping across the world. Considering the predicted outcome of burning fossil fuels, our best and only plan to limit warming is to reduce CO2 emissions from human activities to "net zero"—where the amount of CO2 we emit into the atmosphere is equal to the amount we remove from it. To keep within the 1.5°C limit of the 2015 Paris Agreement, this must happen as soon as possible.
+
+## Video: Monitoring methane from space
+ - [https://phys.org/news/2023-11-video-methane-space.html](https://phys.org/news/2023-11-video-methane-space.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T04:24:54+00:00
+
+Methane is the second most important greenhouse gas contributor to climate change after carbon dioxide. Curbing methane emissions could deliver immediate and long-lasting benefits for the climate, seeing as the gas only lingers in the atmosphere for a relatively short time.
+
+## Big bang: Dutch firm eyes space baby
+ - [https://phys.org/news/2023-11-big-dutch-firm-eyes-space.html](https://phys.org/news/2023-11-big-dutch-firm-eyes-space.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T03:59:58+00:00
+
+Climate crises, nuclear Armageddon, or a sudden meteor strike—it's clear humanity could do with Planet B. But first we need to learn to reproduce safely in space, says Dutch entrepreneur Egbert Edelbroek.
+
+## Residents get brief return to volcano-risk Icelandic town
+ - [https://phys.org/news/2023-11-residents-volcano-risk-icelandic-town.html](https://phys.org/news/2023-11-residents-volcano-risk-icelandic-town.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T03:56:25+00:00
+
+From Christmas gifts to sheep, residents forced from an Icelandic town damaged by hundreds of earthquakes in recent days were able to briefly return on Monday to retrieve their belongings, authorities said.
+
+## Myanmar's famed Inle Lake chokes on floating farms
+ - [https://phys.org/news/2023-11-myanmar-famed-inle-lake-farms.html](https://phys.org/news/2023-11-myanmar-famed-inle-lake-farms.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T03:55:44+00:00
+
+From a gently rocking boat, Nyunt Win tends a floating tomato crop in the cool water of Myanmar's famed Inle Lake, nestled in the Shan Hills and once the country's most popular tourist spot.
+
+## Geese 'keep calm and carry on' after deaths in the flock, says study
+ - [https://phys.org/news/2023-11-geese-calm-deaths-flock.html](https://phys.org/news/2023-11-geese-calm-deaths-flock.html)
+ - RSS feed: https://phys.org/rss-feed/
+ - date published: 2023-11-14T00:00:02+00:00
+
+Canada geese strengthen existing friendships and forge a few new connections after losing close associates from their flock, new research shows. The paper, published in the Journal of Applied Ecology, is titled "Culling-induced perturbation of social networks of wild geese reinforces rather than disrupts associations among survivors."
+

@@ -1,0 +1,16 @@
+# Source:Npr, URL:https://feeds.npr.org/1001/rss.xml, language:en-US
+
+## Alaska Airlines to buy Hawaiian Airlines in deal that may attract regulator scrutiny
+ - [https://www.npr.org/2023/12/03/1216870386/alaska-airlines-to-buy-hawaiian-airlines](https://www.npr.org/2023/12/03/1216870386/alaska-airlines-to-buy-hawaiian-airlines)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2023-12-03T23:28:47+00:00
+
+Alaska Airlines said it agreed to buy Hawaiian Airlines in a $1.9 billion deal, including debt, putting it on track for a potential clash with a Biden administration.
+
+## Palestinian student shot in Vermont is paralyzed from chest down, his family says
+ - [https://www.npr.org/2023/12/03/1216852611/palestinian-student-shot-in-vermont-is-paralyzed-from-chest-down-his-family-says](https://www.npr.org/2023/12/03/1216852611/palestinian-student-shot-in-vermont-is-paralyzed-from-chest-down-his-family-says)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2023-12-03T18:03:58+00:00
+
+20-year-old Hisham Awartani is scheduled to be released from the hospital next week and begin a long recovery after one of the gunman's bullets lodged in his spine.
+

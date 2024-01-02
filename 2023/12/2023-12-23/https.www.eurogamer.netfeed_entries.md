@@ -1,0 +1,61 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Indie publisher Versus Evil staff say TinyBuild laid them off "at the start of our Christmas break"
+ - [https://www.eurogamer.net/indie-publisher-versus-evil-staff-say-tinybuild-laid-them-off-at-the-start-of-our-christmas-break](https://www.eurogamer.net/indie-publisher-versus-evil-staff-say-tinybuild-laid-them-off-at-the-start-of-our-christmas-break)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-12-23T18:15:41+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Screenshot-2023-12-23-at-18.13.19.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>TinyBuild has shut down indie publisher Versus Evil.
+</p><p>According to employees affected by the layoffs, staff were notified of the redundancies "at the start of [their] Christmas break".
+</p><p>"Welp. That was a fun 10-year ride. The entire Versus Evil team has just been laid off," tweeted head of production, Lance James, as spotted by <a href="https://www.pcgamer.com/tinybuild-closes-indie-publisher-versus-evil-all-staff-laid-off/">PC Gamer</a>. 
+</p> <p><a href="https://www.eurogamer.net/indie-publisher-versus-evil-staff-say-tinybuild-laid-them-off-at-the-start-of-our-christmas-break">Read more</a></p>
+
+## Here's when you'll be able to play Torchlight: Infinite's all-new expansion, Twinightmare
+ - [https://www.eurogamer.net/heres-when-youll-be-able-to-play-torchlight-infinites-all-new-expansion-twinightmare](https://www.eurogamer.net/heres-when-youll-be-able-to-play-torchlight-infinites-all-new-expansion-twinightmare)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-12-23T17:52:23+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Screenshot-2023-12-23-at-17.49.07.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Dungeon crawler Torchlight: Infinite's all-new expansion, Twinightmare, will release on 28th December, 2023.
+</p><p>Headlined by tenth playable hero Rosa the High Court Chariot, the expansion also introduces a "host of challenges, quality-of-life improvements, limited-time festive events, and much more".
+</p><p>Rosa can be unlocked by those willing to shell out for the Twinightmare Season Pass and is described as a "formidable Hunter with high defensive capabilities, allowing her to survive even the toughest onslaught". Her Holy Domain Skill sees her transform into "an unstoppable chariot, blazing a path through enemy hordes and afflicting them with a powerful curse".
+</p> <p><a href="https://www.eurogamer.net/heres-when-youll-be-able-to-play-torchlight-infinites-all-new-expansion-twinightmare">Read more</a></p>
+
+## Armored Core 6 now has 1v1 and 3v3 ranked online matchmaking
+ - [https://www.eurogamer.net/armored-core-6-now-has-1v1-and-3v3-ranked-online-matchmaking](https://www.eurogamer.net/armored-core-6-now-has-1v1-and-3v3-ranked-online-matchmaking)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-12-23T17:06:17+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ARMORED-CORE-VI_18_4K.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>From Software has released a new ranked online matchmaking mode for Armored Core 6 Fires of Rubicon.
+</p><p>Players can now battle alongside similarly ranked players in 1v1 and 3v3 matches and climb the ladder from Unranked status all the way to S rank, with 1v1 and 3v3 player battles boasting separate ranking systems.
+</p><p>That's not all, either. Players can now also "enhance their AC loadouts with new parts", visit new PvP maps, and personalise nameplates.
+</p> <p><a href="https://www.eurogamer.net/armored-core-6-now-has-1v1-and-3v3-ranked-online-matchmaking">Read more</a></p>
+
+## Ubisoft reportedly shutdown a "data security incident" earlier this week
+ - [https://www.eurogamer.net/ubisoft-reportedly-shutdown-a-data-security-incident-earlier-this-week](https://www.eurogamer.net/ubisoft-reportedly-shutdown-a-data-security-incident-earlier-this-week)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-12-23T16:22:52+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ubisoft-logo_9vscSD7.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Ubisoft is reportedly investigating an "unknown threat actor" who allegedly gained access to the company's Microsoft Teams, Confluence, Atlas, and SharePoint channels for 48 hours before access was revoked.
+</p><p>According to the <a href="https://www.reddit.com/r/GamingLeaksAndRumours/comments/18p65wy/ubisoft_says_its_investigating_reports_of_a_new/">Gaming Leaks and Rumours subreddit</a> and as reported by <a href="https://www.bleepingcomputer.com/news/security/ubisoft-says-its-investigating-reports-of-a-new-security-breach/">Bleeping Computer</a>, screenshots allegedly taken during the 20th December hack have since been leaked online. Ubisoft has reportedly confirmed it is investigating an "alleged data security incident".
+</p><p>"December 20th, an unknown Threat Actor compromised Ubisoft," tweeted vx-underground. "The indi
+
+## Kick off the new year with Splatoon 3's holiday-themed Splatfest
+ - [https://www.eurogamer.net/kick-off-the-new-year-with-splatoon-3s-holiday-themed-splatfest](https://www.eurogamer.net/kick-off-the-new-year-with-splatoon-3s-holiday-themed-splatfest)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-12-23T15:38:05+00:00
+
+<img src="https://assetsio.reedpopcdn.com/splatoon-3_tjkOPrN_WXHxpoD.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A "FrostyFest Update" is coming to Splatoon 3 in the new year.
+</p><p>The next Splatfest will launch on 13th January, with the vote &ndash; which wants to know who you'll be spending the holidays with; family, friends, or "solo", which just seems like a nicer way of saying alone &ndash; running from 5th January until 13th.
+</p><p>"FrostyFest update!" exclaims Nintendo. "Whether you spend your holidays having fun with friends, getting in family time, or kicking back by yourself, get ready to cast your vote in Splatoon 3 from 05/01 and splat it out from 13/01."
+</p> <p><a href="https://www.eurogamer.net/kick-off-the-new-year-with-splatoon-3s-holiday-themed-splatfest">Read more</a></p>
+
+## Grand Theft Auto: The Trilogy - The Definitive Edition tested on iPhone
+ - [https://www.eurogamer.net/digitalfoundry-2023-grand-theft-auto-the-trilogy-the-definitive-edition-tested-on-iphone](https://www.eurogamer.net/digitalfoundry-2023-grand-theft-auto-the-trilogy-the-definitive-edition-tested-on-iphone)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-12-23T15:25:50+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ios-GTA.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The Grand Theft Auto Definitive Edition remasters were highly controversial and to this day, their quality remains contentious. These Unreal Engine 4-powered game updates modernised the three classic PS2-era GTA games - GTA 3, Vice City and San Andreas - with much more advanced rendering technology. At the same time, the reworked lighting was very different from the original titles and the updated assets didn't hold up to close scrutiny. Some two years later, these titles have been released for mobile devices, with versions for iPhone, iPad, and Android. These promise the same updated graphics, paired with considerable lighting improvements. So how do modern iPhone and iPad devices cope with these divisive remasters and do the new lighting effects rehabilitate their visual designs?
+</p><p>
+The GTA Definitive Edition titles adopt a very di
+

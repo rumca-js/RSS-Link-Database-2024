@@ -1,0 +1,163 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss/, language:en-us
+
+## Get this Samsung 49-inch OLED PC monitor for an all time low price at Amazon
+ - [https://www.neowin.net/deals/get-this-samsung-49-inch-oled-pc-monitor-for-an-all-time-low-price-at-amazon](https://www.neowin.net/deals/get-this-samsung-49-inch-oled-pc-monitor-for-an-all-time-low-price-at-amazon)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T23:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699914247_samsung-odyssey-g9-1_medium.jpg" /></div>The Samsung 49-inch curved Odyssey G93SC OLED PC monitor has a 5,120 x 1,440 resolution, a 32:9 aspect ratio, and a 240Hz refresh rate. It&#039;s at an all-time low price of $1,099 right now at Amazon. <a href="https://www.neowin.net/deals/get-this-samsung-49-inch-oled-pc-monitor-for-an-all-time-low-price-at-amazon">Read more...</a>
+
+## Threads rolling out a new feature to delete accounts separately from Instagram
+ - [https://www.neowin.net/news/threads-rolling-out-a-new-feature-to-delete-accounts-separately-from-instagram](https://www.neowin.net/news/threads-rolling-out-a-new-feature-to-delete-accounts-separately-from-instagram)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T22:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1691600320_instagram-threads-app_medium.jpg" /></div>Up until now if you wanted to delete your Threads account, you would have to also delete your Instagram account. An update coming soon will change that, as well as new privacy updates. <a href="https://www.neowin.net/news/threads-rolling-out-a-new-feature-to-delete-accounts-separately-from-instagram">Read more...</a>
+
+## Intel Arc WHQL graphics driver 31.0.101.4953 fixes issues in Starfield, Alan Wake 2 and more
+ - [https://www.neowin.net/news/intel-arc-whql-graphics-driver-3101014953-fixes-issues-in-starfield-alan-wake-2-and-more](https://www.neowin.net/news/intel-arc-whql-graphics-driver-3101014953-fixes-issues-in-starfield-alan-wake-2-and-more)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T22:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/03/1648650425_intel_arc_logo_medium.jpg" /></div>Intel has released a new WHQL graphics driver 31.0.101.49533 for its Arc and Iris Xe GPUs. It fixes issues with games like Starfield, Alan Wake 2, Halo: The Master Chief Collection, and World War Z. <a href="https://www.neowin.net/news/intel-arc-whql-graphics-driver-3101014953-fixes-issues-in-starfield-alan-wake-2-and-more">Read more...</a>
+
+## Amazon is laying off more team members, including over 180 in its game division
+ - [https://www.neowin.net/news/amazon-is-laying-off-more-team-members-including-over-180-in-its-game-division](https://www.neowin.net/news/amazon-is-laying-off-more-team-members-including-over-180-in-its-game-division)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T21:24:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/09/1599134319_amazon_logo_medium.jpg" /></div>Amazon is making another round of layoffs, which will include over 180 employees in its games division along with an unspecified number of team members in its music streaming division. <a href="https://www.neowin.net/news/amazon-is-laying-off-more-team-members-including-over-180-in-its-game-division">Read more...</a>
+
+## Google witness accidentally reveals how much it pays Apple for its search deal in Safari
+ - [https://www.neowin.net/news/google-witness-accidentally-reveals-how-much-it-pays-apple-for-its-search-deal-in-safari](https://www.neowin.net/news/google-witness-accidentally-reveals-how-much-it-pays-apple-for-its-search-deal-in-safari)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T20:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/11/1668500471_google_lawsuit_medium.jpg" /></div>In the ongoing antitrust trial between the U.S. and Google, the amount that Google pays Apple to be the default search provider in Safari has been unintentionally revealed during proceedings. <a href="https://www.neowin.net/news/google-witness-accidentally-reveals-how-much-it-pays-apple-for-its-search-deal-in-safari">Read more...</a>
+
+## Play Grounded for free for the next few days on the PC via Steam to try out the 1.3 update
+ - [https://www.neowin.net/news/play-grounded-for-free-for-the-next-few-days-on-the-pc-via-steam-to-try-out-the-13-update](https://www.neowin.net/news/play-grounded-for-free-for-the-next-few-days-on-the-pc-via-steam-to-try-out-the-13-update)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T19:50:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/04/1682433781_grounded_superduper_waspqueen_0002-a7da012761744e8657e1_medium.jpg" /></div>Grounded is now available to play for free for the next few days, until Thursday, November 16 at 1 p.m. Eastern time, so you can try out the new 1.3 update with the Playgrounds modding feature. <a href="https://www.neowin.net/news/play-grounded-for-free-for-the-next-few-days-on-the-pc-via-steam-to-try-out-the-13-update">Read more...</a>
+
+## Larian is teasing us about some Baldur's Gate 3 Xbox news coming later this week
+ - [https://www.neowin.net/news/larian-is-teasing-us-about-some-baldurs-gate-3-xbox-news-coming-later-this-week](https://www.neowin.net/news/larian-is-teasing-us-about-some-baldurs-gate-3-xbox-news-coming-later-this-week)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T19:20:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1693508191_baldurs-gate-3_medium.jpg" /></div>Larian Studios sounds like it may announce the long-awaited release dates for the Xbox Series S and Xbox Series X editions of its hit RPG Baldur&#039;s Gate 3, along with word on a physical media version. <a href="https://www.neowin.net/news/larian-is-teasing-us-about-some-baldurs-gate-3-xbox-news-coming-later-this-week">Read more...</a>
+
+## Alan Wake 2 and Baldur's Gate 3 get the most nominations from the 2023 Game Awards
+ - [https://www.neowin.net/news/alan-wake-2-and-baldurs-gate-3-get-the-most-nominations-from-the-2023-game-awards](https://www.neowin.net/news/alan-wake-2-and-baldurs-gate-3-get-the-most-nominations-from-the-2023-game-awards)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T18:40:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/12/1639101950_1789f9e286539c3e3072116fd8494e570a184470_medium.jpg" /></div>Alan Wake 2 and Baldur&#039;s Gate 3 each got eight nominations as part of the 2023 Game Awards. The winners will be announced on December 7, where we will likely get some major game reveals. <a href="https://www.neowin.net/news/alan-wake-2-and-baldurs-gate-3-get-the-most-nominations-from-the-2023-game-awards">Read more...</a>
+
+## Cities: Skylines II's initial modding tools are at least two months away
+ - [https://www.neowin.net/news/cities-skylines-iis-initial-modding-tools-are-at-least-two-months-away](https://www.neowin.net/news/cities-skylines-iis-initial-modding-tools-are-at-least-two-months-away)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T18:16:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/06/1686511717_csll_cityfrogangle_medium.jpg" /></div>Colossal Order is expecting to launch the initial version of Cities: Skylines II modding tools sometime in early 2024. Updates are also slowing down as the studio focuses on major performance fixes. <a href="https://www.neowin.net/news/cities-skylines-iis-initial-modding-tools-are-at-least-two-months-away">Read more...</a>
+
+## Microsoft rolls out new Copilot Shopping and Review Summaries in its Edge web browser
+ - [https://www.neowin.net/news/microsoft-rolls-out-new-copilot-shopping-and-review-summaries-in-its-edge-web-browser](https://www.neowin.net/news/microsoft-rolls-out-new-copilot-shopping-and-review-summaries-in-its-edge-web-browser)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T17:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699895737_microsoft-shopping-copilot_medium.jpg" /></div>Microsoft has announced it is rolling out some new features in its Edge web browser designed to help online shoppers, including adding Copilot to Microsoft Shopping and Review Summaries.  <a href="https://www.neowin.net/news/microsoft-rolls-out-new-copilot-shopping-and-review-summaries-in-its-edge-web-browser">Read more...</a>
+
+## WhatsApp makes Discord-like Voice Chats official, lets you hop in and out
+ - [https://www.neowin.net/news/whatsapp-makes-discord-like-voice-chats-official-lets-you-hop-in-and-out](https://www.neowin.net/news/whatsapp-makes-discord-like-voice-chats-official-lets-you-hop-in-and-out)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T17:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699894827_whatsapp-voice-chats_medium.jpg" /></div>WhatsApp has pushed the Voice Chat feature live today, allowing users in a Group Chat of 33 to 128 people to hop in and out of a Discord-like chat room while still being able to message in the group. <a href="https://www.neowin.net/news/whatsapp-makes-discord-like-voice-chats-official-lets-you-hop-in-and-out">Read more...</a>
+
+## ChatGPT For Dummies (worth $12) free eBook
+ - [https://www.neowin.net/sponsored/chatgpt-for-dummies-worth-12-free-ebook](https://www.neowin.net/sponsored/chatgpt-for-dummies-worth-12-free-ebook)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T17:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699869062_ebook_for_dummies_medium.jpg" /></div>This free to download eBook is perfect for any life or career may be impacted by ChatGPT and other AI. ChatGPT is just the tip of the iceberg, and this book can help you prepare for the future. <a href="https://www.neowin.net/sponsored/chatgpt-for-dummies-worth-12-free-ebook">Read more...</a>
+
+## Remedy is going back to square one for one of its four upcoming games
+ - [https://www.neowin.net/news/remedy-is-going-back-to-square-one-for-one-of-its-four-upcoming-games](https://www.neowin.net/news/remedy-is-going-back-to-square-one-for-one-of-its-four-upcoming-games)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T16:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699889683_remedy_new_logo_medium.jpg" /></div>Remedy has announced that one of its four upcoming games, Project Vanguard, is getting a full reboot, turning it from a games-as-a-service title into a premium game with a co-op multiplayer feature. <a href="https://www.neowin.net/news/remedy-is-going-back-to-square-one-for-one-of-its-four-upcoming-games">Read more...</a>
+
+## Microsoft completes improving Windows 11 23H2 Setup, WinRE, and OOBE with latest update
+ - [https://www.neowin.net/news/microsoft-completes-updating-windows-11-23h2-setup-winre-and-oobe-with-latest-update](https://www.neowin.net/news/microsoft-completes-updating-windows-11-23h2-setup-winre-and-oobe-with-latest-update)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T15:56:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697519848_windows_11_23h2_medium.jpg" /></div>Microsoft released Dynamic Update packages for Windows 11 23H2 and 22H2 to improve the Setup as well as the WinRE, among other things. Following those, OOBE updates are now available too. <a href="https://www.neowin.net/news/microsoft-completes-updating-windows-11-23h2-setup-winre-and-oobe-with-latest-update">Read more...</a>
+
+## You could win an edible chocolate Xbox controller made to promote the movie Wonka
+ - [https://www.neowin.net/news/you-could-win-an-edible-chocolate-xbox-controller-made-to-promote-the-movie-wonka](https://www.neowin.net/news/you-could-win-an-edible-chocolate-xbox-controller-made-to-promote-the-movie-wonka)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T15:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699887543_hero-ffc6e9544c1e8dcc385a_medium.jpg" /></div>Microsoft is giving away a prize package to promote the upcoming movie Wonka, which will include an edible chocolate version of its Xbox controller and a custom Xbox Series X console. <a href="https://www.neowin.net/news/you-could-win-an-edible-chocolate-xbox-controller-made-to-promote-the-movie-wonka">Read more...</a>
+
+## Google takes legal action against scammers who exploit enthusiasm for Bard AI
+ - [https://www.neowin.net/news/google-takes-legal-action-against-scammers-who-exploit-enthusiasm-for-bard-ai](https://www.neowin.net/news/google-takes-legal-action-against-scammers-who-exploit-enthusiasm-for-bard-ai)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T15:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/05/1683741159_bard_medium.jpg" /></div>Google has announced in a blog post published today that it will be taking legal action against scammers who wish to profit from the hype surrounding generative AI and its tool, Bard. <a href="https://www.neowin.net/news/google-takes-legal-action-against-scammers-who-exploit-enthusiasm-for-bard-ai">Read more...</a>
+
+## The NVIDIA HGX H200 is the latest GPU that will power generative AI servers
+ - [https://www.neowin.net/news/the-nvidia-hgx-h200-is-the-latest-gpu-that-will-power-generative-ai-servers](https://www.neowin.net/news/the-nvidia-hgx-h200-is-the-latest-gpu-that-will-power-generative-ai-servers)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T14:44:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699884973_nvidia-h200-hopper_medium.jpg" /></div>NVIDIA has just announced its latest generative AI GPU, the HGX H200. It will use the larger and faster HBM3e memory to boost AI performance. The new GPUs will launch in the second quarter of 2024. <a href="https://www.neowin.net/news/the-nvidia-hgx-h200-is-the-latest-gpu-that-will-power-generative-ai-servers">Read more...</a>
+
+## Nepal's government becomes the latest to ban TikTok
+ - [https://www.neowin.net/news/nepals-government-becomes-the-latest-to-ban-tiktok](https://www.neowin.net/news/nepals-government-becomes-the-latest-to-ban-tiktok)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T14:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/06/1561282350_tiktok_medium.jpg" /></div>Governments across the world have imposed bans of varying degrees on TikTok, however, Nepal has gone further to ban the app across the entire country in a decision made in a cabinet meeting today. <a href="https://www.neowin.net/news/nepals-government-becomes-the-latest-to-ban-tiktok">Read more...</a>
+
+## Get this Samsung 27" 1080p 165Hz FreeSync gaming monitor for just $150 for an all time low
+ - [https://www.neowin.net/deals/get-this-samsung-27-1080p-165hz-freesync-gaming-monitor-for-just-150-for-an-all-time-low](https://www.neowin.net/deals/get-this-samsung-27-1080p-165hz-freesync-gaming-monitor-for-just-150-for-an-all-time-low)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T12:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/05/1682942820_samsung-odyssey-g3_medium.jpg" /></div>The Samsung Odyssey G32A 27-inch gaming PC monitor, with a 165 Hz refresh rate and support for AMD&#039;s FreeSync Premium tech, is now at a rock bottom price of just $149.99 at Amazon. <a href="https://www.neowin.net/deals/get-this-samsung-27-1080p-165hz-freesync-gaming-monitor-for-just-150-for-an-all-time-low">Read more...</a>
+
+## OpenAI CEO Sam Altman hopes he keeps getting Microsoft funds to make true AGI happen
+ - [https://www.neowin.net/news/openai-ceo-sam-altman-hopes-he-keeps-getting-microsoft-funds-to-make-true-agi-happen](https://www.neowin.net/news/openai-ceo-sam-altman-hopes-he-keeps-getting-microsoft-funds-to-make-true-agi-happen)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T12:18:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/04/1680627849_chatgpt_logo_medium.jpg" /></div>In a new interview, OpenAI co-founder and CEO Sam Altman says that he hopes Microsoft keeps investing in the company while it tries to develop and create true artificial general intelligence, <a href="https://www.neowin.net/news/openai-ceo-sam-altman-hopes-he-keeps-getting-microsoft-funds-to-make-true-agi-happen">Read more...</a>
+
+## Sideloading of Apple iOS apps for EU users reported to come to iPhones in early 2024
+ - [https://www.neowin.net/news/sideloading-of-apple-ios-apps-for-eu-users-reported-to-come-to-iphones-in-early-2024](https://www.neowin.net/news/sideloading-of-apple-ios-apps-for-eu-users-reported-to-come-to-iphones-in-early-2024)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T11:14:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/04/1682618125_screenshot_2023-04-27_at_11.21.33_pm_medium.jpg" /></div>Reports are surfacing that iPhone users in the EU will be able to download and install apps from third party app stores starting from early 2024, in order to comply with Euoprean regulations. <a href="https://www.neowin.net/news/sideloading-of-apple-ios-apps-for-eu-users-reported-to-come-to-iphones-in-early-2024">Read more...</a>
+
+## New Outlook for Windows wants to send your non-MSA data to its servers for your own good
+ - [https://www.neowin.net/news/new-outlook-for-windows-wants-to-send-your-non-msa-data-to-its-servers-for-your-own-good](https://www.neowin.net/news/new-outlook-for-windows-wants-to-send-your-non-msa-data-to-its-servers-for-your-own-good)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T07:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699857635_new_outlook_for_windows_red_medium.jpg" /></div>Microsoft&#039;s New Outlook for Windows was released recently and it has garnered mixed reactions from users. Interestingly, the app can also send non-MSA data to Microsoft servers to benefit users. <a href="https://www.neowin.net/news/new-outlook-for-windows-wants-to-send-your-non-msa-data-to-its-servers-for-your-own-good">Read more...</a>
+
+## Get this new version of the original Xbox controller for an all time low price at Amazon
+ - [https://www.neowin.net/deals/get-this-new-version-of-the-original-xbox-controller-for-an-all-time-low-price-at-amazon](https://www.neowin.net/deals/get-this-new-version-of-the-original-xbox-controller-for-an-all-time-low-price-at-amazon)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-13T03:50:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699819062_xbox-duke-controller_medium.jpg" /></div>The Hyperkin recreation of the original &quot;Duke&quot; controller for the first Xbox console, now made for modern Xbox consoles and the PC, is priced in a white color version for just $42.69 at Amazon. <a href="https://www.neowin.net/deals/get-this-new-version-of-the-original-xbox-controller-for-an-all-time-low-price-at-amazon">Read more...</a>
+

@@ -1,0 +1,541 @@
+# Source:Times of India, URL:http://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## Ready for debates but ensure right atmosphere: Govt to oppn
+ - [https://timesofindia.indiatimes.com/india/ready-for-debates-but-ensure-right-atmosphere-government-to-opposition/articleshow/105688966.cms](https://timesofindia.indiatimes.com/india/ready-for-debates-but-ensure-right-atmosphere-government-to-opposition/articleshow/105688966.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T23:32:51+00:00
+
+The winter session of Parliament is expected to see heated exchanges between the government and opposition with impending expulsion of TMC member Mahua Moitra from Lok Sabha in the 'cash for query' case, three bills to amend criminal laws and a proposed law for appointment of election commissioners set to top the agenda. The results of the assembly elections in four states Rajasthan, Madhya Pradesh, Chhattisgarh and Telangana on Sunday are expected to heat up the political atmosphere further.
+
+## After ordeal, government to review SOP on tunnels
+ - [https://timesofindia.indiatimes.com/india/after-ordeal-government-to-review-sop-on-tunnels/articleshow/105687924.cms](https://timesofindia.indiatimes.com/india/after-ordeal-government-to-review-sop-on-tunnels/articleshow/105687924.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T22:40:02+00:00
+
+The road ministry will review SOPs for tunnel construction and maintenance in light of the Silkyara tunnel collapse. Measures will be taken to prevent similar mishaps. The new SOP will include safety requirements, contract management provisions, and a risk matrix. A safety audit mechanism and the provision of safe escape passages for workers will be considered. Geological mapping in the Himalayan regions will also receive renewed focus. A panel of experts will be set up to investigate the collapse and determine how to resume work on the tunnel.
+
+## Aditya-L1 sheds light on mysteries of solar wind
+ - [https://timesofindia.indiatimes.com/india/aditya-l1-sheds-light-on-mysteries-of-solar-wind/articleshow/105686339.cms](https://timesofindia.indiatimes.com/india/aditya-l1-sheds-light-on-mysteries-of-solar-wind/articleshow/105686339.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T21:14:46+00:00
+
+India's Aditya-L1 spacecraft, on its way to Lagrange Point L1, is shedding light on solar wind mysteries. The spacecraft's ASPEX payload, comprising instruments SWIS and STEPS, is operating seamlessly. SWIS has demonstrated optimal performance in measuring solar wind ions, providing detailed insights into solar wind behavior. Aditya-L1's SWIS payload enables precise measurements of solar wind protons and alphas, contributing to understanding solar wind properties.
+
+## CJI hails dissent, says state must support weaker population
+ - [https://timesofindia.indiatimes.com/india/cji-hails-dissent-says-state-must-support-weaker-population/articleshow/105686145.cms](https://timesofindia.indiatimes.com/india/cji-hails-dissent-says-state-must-support-weaker-population/articleshow/105686145.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T21:02:07+00:00
+
+Chief Justice of India emphasizes the importance of dissenters and challenges to prevailing majoritarian views in society. Dissent nourishes democracy and a society will fail and not progress if dissent is suppressed. The State must support the weaker population, whether numerical or social minority, and allow them to have a say in the decision-making process. Dissents, even if unpopular and unacceptable, have the power to spark important conversations and fundamentally restructure society.
+
+## BJP to recalibrate 2024 strategy based on today's verdict
+ - [https://timesofindia.indiatimes.com/india/bjp-to-recalibrate-its-2024-strategy-with-takeaways-from-todays-verdict/articleshow/105686121.cms](https://timesofindia.indiatimes.com/india/bjp-to-recalibrate-its-2024-strategy-with-takeaways-from-todays-verdict/articleshow/105686121.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T21:01:07+00:00
+
+The assembly elections in Madhya Pradesh, Rajasthan, Telangana, and Chhattisgarh will have important takeaways for BJP, Congress, and other contestants. BJP lost state polls in 2018 but swept all seats in Rajasthan and Chhattisgarh in the 2019 Lok Sabha elections. They are confident of winning Rajasthan and Madhya Pradesh, and hope to do better in Chhattisgarh. BJP is seeking to regain its hold in the Hindi heartland states before the Lok Sabha polls. The immediate challenge for the party would be deciding the next chief ministers if they win.
+
+## Cong rushes anti-poaching team to Hyd ahead of results
+ - [https://timesofindia.indiatimes.com/elections/assembly-elections/telangana/news/congress-rushes-anti-poaching-team-to-hyderabad-ahead-of-results/articleshow/105686038.cms](https://timesofindia.indiatimes.com/elections/assembly-elections/telangana/news/congress-rushes-anti-poaching-team-to-hyderabad-ahead-of-results/articleshow/105686038.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T20:57:08+00:00
+
+Congress dispatches Karnataka ministers to Hyderabad to shield MLAs from poaching attempts as exit polls suggest tight race in Telangana. Results for Telangana, Madhya Pradesh, Rajasthan, and Chhattisgarh elections will be declared on Sunday. Congress confident of clear majority in Telangana, but taking preemptive measures to safeguard MLAs. Party is prepared for vote count with observers and supervisors, monitoring the process and making arrangements if numbers fall below the magic mark. Congress expects victory in four out of five states where assembly elections were held.
+
+## Suspense over results leave bitter taste for MP’s halwais
+ - [https://timesofindia.indiatimes.com/elections/assembly-elections/madhya-pradesh/news/suspense-over-results-leave-bitter-taste-for-mps-halwais/articleshow/105685985.cms](https://timesofindia.indiatimes.com/elections/assembly-elections/madhya-pradesh/news/suspense-over-results-leave-bitter-taste-for-mps-halwais/articleshow/105685985.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T20:52:04+00:00
+
+
+
+## From jail mantri to inmate in 5 min: Amit Shah recalls how Congress framed him
+ - [https://timesofindia.indiatimes.com/india/from-jail-mantri-to-inmate-in-5-min-amit-shah-recalls-how-congress-framed-him/articleshow/105685894.cms](https://timesofindia.indiatimes.com/india/from-jail-mantri-to-inmate-in-5-min-amit-shah-recalls-how-congress-framed-him/articleshow/105685894.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T20:46:56+00:00
+
+Amit Shah, the Union home minister, reminisced about his three months of incarceration in the Sohrabuddin fake encounter case during the birth centenary celebration of lawyer Divyakant Nanavati. Shah praised the professionalism of Nirupam Nanavati, a criminal lawyer from a Congress-affiliated family, who took up Shah's case and fought it all the way to the Supreme Court. Shah expressed surprise and gratitude for Nirupam's support, considering his family's political background. The event also highlighted Divyakant Nanavati's contributions to the development of Junagadh and nearby areas.
+
+## 35km from Silkyara, water leak from tunnel spooks villages
+ - [https://timesofindia.indiatimes.com/india/35km-from-silkyara-water-leak-from-tunnel-spooks-villages/articleshow/105685910.cms](https://timesofindia.indiatimes.com/india/35km-from-silkyara-water-leak-from-tunnel-spooks-villages/articleshow/105685910.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T20:45:55+00:00
+
+
+
+## Sunday Suspense: Parties gear up for 'semifinal' results
+ - [https://timesofindia.indiatimes.com/india/sunday-suspense-parties-gear-up-for-semifinal-results/articleshow/105685764.cms](https://timesofindia.indiatimes.com/india/sunday-suspense-parties-gear-up-for-semifinal-results/articleshow/105685764.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T20:35:54+00:00
+
+The results of the "BJP vs Congress" battle in the Hindi heartland, including Telangana, Madhya Pradesh, Chhattisgarh, and Rajasthan, will determine the tone for the upcoming Lok Sabha polls. Congress is confident about defending Chhattisgarh and winning Madhya Pradesh, while challenging the ruling BRS in Telangana. The party is competing closely with Congress in Rajasthan and has made a strong impact in Madhya Pradesh and Chhattisgarh.
+
+## On session eve, Cong writes to Speaker in Mahua's support
+ - [https://timesofindia.indiatimes.com/india/on-session-evening-congress-writes-to-speaker-in-mahua-moitras-support/articleshow/105685762.cms](https://timesofindia.indiatimes.com/india/on-session-evening-congress-writes-to-speaker-in-mahua-moitras-support/articleshow/105685762.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T20:35:53+00:00
+
+Congress leader Adhir Ranjan Chowdhury supports TMC's Mahua Moitra in the 'cash for query' case ahead of the winter session of Parliament. Chowdhury questions the jurisdiction of the Lok Sabha Ethics Committee and demands examination of rules and processes followed by parliamentary committees. TMC leaders raise concerns about the public disclosure of the committee's report recommending Moitra's expulsion.
+
+## India & China skip renewable pledge, 118 nations sign
+ - [https://timesofindia.indiatimes.com/india/india-china-skip-renewable-power-pledge-118-nations-sign/articleshow/105685354.cms](https://timesofindia.indiatimes.com/india/india-china-skip-renewable-power-pledge-118-nations-sign/articleshow/105685354.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T19:33:37+00:00
+
+India and China abstained from a pledge at the CO summit to triple global renewable energy generation capacity and double energy efficiency by 2030, aligning with India's stance to prioritize coal-fired power plants. India maintains that it does not want to compromise on power availability for economic growth and has kept the option to use coal until 2030. While committed to increasing non-fossil power capacity, India wants to negotiate the terms of any commitment to avoid hindering poverty alleviation efforts.
+
+## Stage set for counting of votes in 4 states today; parties face crucial test ahead of LS polls
+ - [https://timesofindia.indiatimes.com/india/assembly-election-results-today-stage-set-for-counting-in-4-states-parties-face-crucial-test-ahead-of-ls-elections/articleshow/105683766.cms](https://timesofindia.indiatimes.com/india/assembly-election-results-today-stage-set-for-counting-in-4-states-parties-face-crucial-test-ahead-of-ls-elections/articleshow/105683766.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T16:54:07+00:00
+
+All eyes are on the outcome of the fiercely contested electoral battle in Madhya Pradesh, Rajasthan, Chhattisgarh, Telangana, and Mizoram. The counting of votes in these states will start today at 8am. These elections are crucial for the Congress and the BJP as the results will set the tone for the Lok Sabha elections next year. The exit polls predict that the Congress may win in Telangana and Chhattisgarh, while the BJP may win in Madhya Pradesh and Rajasthan.
+
+## Stage set for counting of votes in 4 states tomorrow; parties face crucial test ahead of LS polls
+ - [https://timesofindia.indiatimes.com/india/assembly-election-results-tomorrow-stage-set-for-counting-in-4-states-parties-face-crucial-test-ahead-of-ls-elections/articleshow/105683766.cms](https://timesofindia.indiatimes.com/india/assembly-election-results-tomorrow-stage-set-for-counting-in-4-states-parties-face-crucial-test-ahead-of-ls-elections/articleshow/105683766.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T16:54:07+00:00
+
+All eyes are on the outcome of the fiercely contested electoral battle in Madhya Pradesh, Rajasthan, Chhattisgarh, Telangana, and Mizoram. The counting of votes in these states will start tomorrow at 8am. These elections are crucial for the Congress and the BJP as the results will set the tone for the Lok Sabha elections next year. The exit polls predict that the Congress may win in Telangana and Chhattisgarh, while the BJP may win in Madhya Pradesh and Rajasthan.
+
+## CID's Fredericks aka Dinesh Phadnis hospitalized, is on ventilator
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/cids-fredericks-aka-dinesh-phadnis-hospitalized-is-on-ventilator-deets-inside/articleshow/105683643.cms](https://timesofindia.indiatimes.com/tv/news/hindi/cids-fredericks-aka-dinesh-phadnis-hospitalized-is-on-ventilator-deets-inside/articleshow/105683643.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T15:51:39+00:00
+
+Actor Dinesh Phadnis, known for his role as Fredericks in the show CID, has been hospitalized after suffering a heart attack. The 57-year-old actor was admitted to Mumbai's Tunga Hospital and is currently receiving treatment. Last night, the entire CID team was informed about Dinesh's condition, and many visited the hospital to check on him. Dinesh's health has shown slight improvement compared to last night. Take a look at what happened and how us Dinesh's health currently.
+
+## The kill list: Inside Israel's plan to eliminate Hamas leaders around the world
+ - [https://timesofindia.indiatimes.com/world/middle-east/the-kill-list-inside-israels-plan-to-eliminate-hamas-leaders-around-the-world/articleshow/105683102.cms](https://timesofindia.indiatimes.com/world/middle-east/the-kill-list-inside-israels-plan-to-eliminate-hamas-leaders-around-the-world/articleshow/105683102.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T15:45:29+00:00
+
+
+
+## 7.5 magnitude quake rocks Philippines's Mindanao
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/powerful-7-5-magnitude-earthquake-rocks-philippiness-mindanao/articleshow/105683223.cms](https://timesofindia.indiatimes.com/world/rest-of-world/powerful-7-5-magnitude-earthquake-rocks-philippiness-mindanao/articleshow/105683223.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T15:11:26+00:00
+
+
+
+## New cyber crime: Noida logs first case of 'digital arrest'
+ - [https://timesofindia.indiatimes.com/city/noida/noida-logs-first-case-of-digital-arrest-woman-duped-of-over-rs-11-lakh/articleshow/105683261.cms](https://timesofindia.indiatimes.com/city/noida/noida-logs-first-case-of-digital-arrest-woman-duped-of-over-rs-11-lakh/articleshow/105683261.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T15:09:05+00:00
+
+The Uttar Pradesh Police has launched a probe into a new cyber fraud trend known as 'digital arrest' after a Noida resident was duped of more than Rs 11 lakh and subjected to a fictitious 'digital arrest' for a day.
+
+## UP's Smita Srivastava sets record for world's longest hair
+ - [https://timesofindia.indiatimes.com/city/allahabad/prayagrajs-smita-srivastava-with-longest-hair-gets-guinness-world-record-certification/articleshow/105683125.cms](https://timesofindia.indiatimes.com/city/allahabad/prayagrajs-smita-srivastava-with-longest-hair-gets-guinness-world-record-certification/articleshow/105683125.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T14:56:34+00:00
+
+Smita, who also holds the Limca Book of World Records for her extraordinary hair length since 2012, expressed her joy at being the first recipient of this particular award category.
+
+## Winter session to begin on a stormy note on Monday
+ - [https://timesofindia.indiatimes.com/india/19-bills-2-financial-items-winter-session-to-begin-on-a-stormy-note-on-monday/articleshow/105682830.cms](https://timesofindia.indiatimes.com/india/19-bills-2-financial-items-winter-session-to-begin-on-a-stormy-note-on-monday/articleshow/105682830.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T14:45:40+00:00
+
+The winter session of Parliament is set to begin with contentious issues such as the expulsion of Trinamool Congress member Mahua Moitra, appointment of election commissioners, and the assembly elections in four states dominating discussions. Defence Minister Rajnath Singh presided over a meeting attended by political leaders including Pralhad Joshi, Jairam Ramesh, Gaurav Gogoi, Sudip Bandyopadhyay, Derek O'Brien, and Fouzia Khan. The government has listed 19 bills for the session.
+
+## Putin to boost troop numbers as war casualties mount
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/putin-to-boost-troop-numbers-as-war-casualties-mount/articleshow/105682984.cms](https://timesofindia.indiatimes.com/world/rest-of-world/putin-to-boost-troop-numbers-as-war-casualties-mount/articleshow/105682984.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T14:40:51+00:00
+
+Russian President Vladimir Putin signed a decree to increase Russian troops by 15% in response to threats, including Nato expansion. The increase will add 170,000 personnel in stages, bringing the total to 1,320,000. The move comes amid speculation of heavy casualties in the ongoing conflict in Ukraine. The Russian defense ministry stated that the increase will be through recruitment, not mobilization. Ukrainian President Volodymyr Zelensky has requested additional reinforcements and defenses from the west as temperatures drop below freezing.
+
+## Eye on China; Aukus to boost anti-submarine warfare capabilities
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/eye-on-china-aukus-to-boost-anti-submarine-warfare-capabilities/articleshow/105682269.cms](https://timesofindia.indiatimes.com/world/rest-of-world/eye-on-china-aukus-to-boost-anti-submarine-warfare-capabilities/articleshow/105682269.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T14:34:46+00:00
+
+Aukus alliance to counter China's aggression in the Pacific using artificial intelligence, drones, and deep space radar. Australia PM accuses Chinese naval ship of dangerous behavior. Aukus pact focuses on acquisition of nuclear-powered submarines and advanced technologies including AI for anti-submarine warfare capabilities. Trilateral experiments and exercises planned for uncrewed maritime systems. Joint statement highlights shared resolve for security, stability, and a coercion-free Indo-Pacific. Concerns about potential return of Donald Trump dismissed. Need for innovation and pioneering to address global challenges including Russia, Hamas, and China.
+
+## Our stand of not going with BJP was always very clear: Pawar
+ - [https://timesofindia.indiatimes.com/india/our-stand-of-not-going-with-bjp-was-always-very-clear-says-sharad-pawar/articleshow/105681722.cms](https://timesofindia.indiatimes.com/india/our-stand-of-not-going-with-bjp-was-always-very-clear-says-sharad-pawar/articleshow/105681722.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T14:23:40+00:00
+
+NCP president Sharad Pawar clarifies party's stand against aligning with BJP. Responds to nephew Ajit Pawar's statements, expressing skepticism towards deviation from party's policy. Welcomes Praful Patel's intention to write a book but suggests including chapter on people leaving his party. Mentions rumored visit of Enforcement Directorate officials to Patel's house, proposing it be covered in the book. Ajit Pawar questions why Sharad Pawar sought meeting if he didn't like decision to join Shiv Sena-BJP government.
+
+## China’s respiratory illness surge: What's happening on ground?
+ - [https://timesofindia.indiatimes.com/world/china/chinas-respiratory-illness-surge-whats-happening-on-the-ground/articleshow/105682693.cms](https://timesofindia.indiatimes.com/world/china/chinas-respiratory-illness-surge-whats-happening-on-the-ground/articleshow/105682693.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T14:19:25+00:00
+
+
+
+## Father and coach! Rahul Dravid watches his son Samit in action
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/father-and-coach-rahul-dravid-takes-out-time-to-watch-his-son-samit-in-action/articleshow/105682021.cms](https://timesofindia.indiatimes.com/sports/cricket/news/father-and-coach-rahul-dravid-takes-out-time-to-watch-his-son-samit-in-action/articleshow/105682021.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T13:37:00+00:00
+
+Following the 2023 World Cup, Team India's head coach Rahul Dravid is currently taking a break to spend valuable time with his family. He will return to his coaching responsibilities for the upcoming South Africa tour with the team. Meanwhile, VVS Laxman steps in as the interim head coach for the home T20I series against Australia. During his break, Dravid and his wife Vijeta were spotted attending the Cooch Behar Trophy match between Karnataka and Uttarakhand, cheering on their son Samit.
+
+## 'GOAT' Kohli is Italian footballer's favourite Indian cricketer
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/goat-virat-kohli-is-italian-woman-footballers-favourite-indian-cricketer/articleshow/105681724.cms](https://timesofindia.indiatimes.com/sports/cricket/news/goat-virat-kohli-is-italian-woman-footballers-favourite-indian-cricketer/articleshow/105681724.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T13:08:37+00:00
+
+Virat Kohli's extensive worldwide fan base has recently expanded with the notable inclusion of Italian footballer Agata Isabella Centasso. When queried about her preferred Indian cricketer on X, Agata expressed her admiration by sharing a picture of Kohli accompanied by a 'GOAT' emoticon. Agata, who plays for Venezia Calcio 1985 in Serie B, a second-division football tournament in Italy, also disclosed how she developed her interest in cricket.
+
+## Fire breaks out on luxury yacht near Alibaug seashore; 2 injured
+ - [https://timesofindia.indiatimes.com/city/mumbai/fire-breaks-out-on-yacht-near-alibaug-seashore-2-injured/articleshow/105681798.cms](https://timesofindia.indiatimes.com/city/mumbai/fire-breaks-out-on-yacht-near-alibaug-seashore-2-injured/articleshow/105681798.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T13:08:19+00:00
+
+A luxury yacht named 'Belvedere,' owned and operated by Marine Solutions, caught fire on Saturday afternoon near the Mandwa anchorage in Raigad district in Maharashtra.
+
+## 'Phase-I construction of Ayodhya airport to be completed by Dec 15'
+ - [https://timesofindia.indiatimes.com/city/lucknow/phase-i-construction-of-ayodhya-airport-to-be-completed-by-dec-15-up-cm-yogi-adityanath/articleshow/105681353.cms](https://timesofindia.indiatimes.com/city/lucknow/phase-i-construction-of-ayodhya-airport-to-be-completed-by-dec-15-up-cm-yogi-adityanath/articleshow/105681353.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T12:42:18+00:00
+
+Adityanath made this statement after inspecting the ongoing construction work at the international airport, where he was joined by Union Civil Aviation Minister Jyotiraditya Scindia and Union Minister of State for Civil Aviation General (Retd) V.K. Singh.
+
+## Mahua's expulsion 'extremely serious punishment': Cong's Adhir writes to LS Speaker
+ - [https://timesofindia.indiatimes.com/india/mahua-moitras-expulsion-extremely-serious-punishment-has-wide-ramifications-congresss-adhir-writes-to-ls-speaker/articleshow/105680963.cms](https://timesofindia.indiatimes.com/india/mahua-moitras-expulsion-extremely-serious-punishment-has-wide-ramifications-congresss-adhir-writes-to-ls-speaker/articleshow/105680963.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T12:41:49+00:00
+
+
+
+## Why and how you can have multiple UPI IDs on Google Pay
+ - [https://timesofindia.indiatimes.com/gadgets-news/smart-routing-why-and-how-you-can-have-multiple-upi-ids-on-google-pay/articleshow/105681145.cms](https://timesofindia.indiatimes.com/gadgets-news/smart-routing-why-and-how-you-can-have-multiple-upi-ids-on-google-pay/articleshow/105681145.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T12:28:11+00:00
+
+This article discusses the concept of Smart Routing in UPI transactions. Smart Routing is a feature that improves the success rate of payments by routing transactions through different UPI IDs associated with a user's bank account. It acts as alternative routes to avoid payment failures. Users can have up to four UPI IDs for the same bank account. The process of creating additional UPI IDs can be done through the Google Pay app. Having extra UPI IDs doesn't change the transaction process, but provides alternative routes in case of unavailable payment routes. Logging out of Google Pay deactivates bank accounts, requiring reactivation upon logging back in.
+
+## 'Nuclear catastrophe' averted at Zaporizhzhia plant: Ukraine
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/zaporizhzhia-plant-risked-nuclear-catastrophe-ukraine/articleshow/105680491.cms](https://timesofindia.indiatimes.com/world/rest-of-world/zaporizhzhia-plant-risked-nuclear-catastrophe-ukraine/articleshow/105680491.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T11:53:26+00:00
+
+Ukraine warns of nuclear "accident" risk at Russian-occupied Zaporizhzhia nuclear plant after power lines are cut. The plant switched to diesel generators to power itself during the blackout. Ukraine's energy ministry reports that this is the eighth blackout at the plant, raising concerns of a potential nuclear catastrophe. Power was restored after the damaged power lines were repaired. The International Atomic Energy Agency has been monitoring the situation at the plant since September 2022.
+
+## Former Pakistan PM Imran Khan replaced as PTI chairman
+ - [https://timesofindia.indiatimes.com/world/pakistan/imran-khans-party-elects-new-chairman-barrister-gohar-ali-khan-ahead-of-pakistans-election/articleshow/105680293.cms](https://timesofindia.indiatimes.com/world/pakistan/imran-khans-party-elects-new-chairman-barrister-gohar-ali-khan-ahead-of-pakistans-election/articleshow/105680293.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T11:52:56+00:00
+
+Barrister Gohar Ali Khan, one of Imran Khan's lawyers, was elected as the chairman of Pakistan Tehreek-e-Insaf (PTI), succeeding the imprisoned former prime minister, Imran Khan. Imran Khan nominated Barrister Gohar Ali Khan for the position. The PTI conducted intra-party elections as instructed by the Election Commission of Pakistan. Barrister Ali Zafar stated that Gohar Ali Khan's appointment is a temporary arrangement. Imran Khan is facing legal battles and is currently on trial in an official secrets case alongside PTI's vice chairman, Shah Mehmood Qureshi.
+
+## 4 biggest hiring trends and what they mean for jobs at IITs
+ - [https://timesofindia.indiatimes.com/gadgets-news/placement-season-starts-at-iits-4-biggest-hiring-trends-and-what-they-mean-for-jobs-season-at-iits/articleshow/105680328.cms](https://timesofindia.indiatimes.com/gadgets-news/placement-season-starts-at-iits-4-biggest-hiring-trends-and-what-they-mean-for-jobs-season-at-iits/articleshow/105680328.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T11:46:11+00:00
+
+Indian Institutes of Technology (IITs) in Delhi, Bombay, Kanpur, Madras, Kharagpur, Roorkee, Guwahati, and Varanasi are facing a tough placement season due to the IT sector slowdown. Usually insulated from negative hiring trends, these premier tech institutes are now experiencing one of the toughest placement seasons ever. Several IT majors, including Amazon and Infosys, have announced a retreat from campus hiring. With funding winter continuing, startups are also going slow on hiring. However, the relief comes in the form of pre-placement offers (PPOs) from high-frequency trading firms.
+
+## 'MS Dhoni sends a message that...': Ruturaj Gaikwad
+ - [https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/ms-dhoni-sends-a-message-that-ruturaj-gaikwad-reveals-how-the-legend-helped-him-visualise-the-situation/articleshow/105679332.cms](https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/ms-dhoni-sends-a-message-that-ruturaj-gaikwad-reveals-how-the-legend-helped-him-visualise-the-situation/articleshow/105679332.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T11:32:11+00:00
+
+Ruturaj Gaikwad attributed India's victory in the five-match T20I series against Australia to their bold and assertive approach. Gaikwad, who has been exceptional with the bat throughout the series, acknowledged Mahendra Singh Dhoni for his accomplishments. Gaikwad, a standout player in the series, currently tops the run chart, amassing 213 runs in 4 matches at an impressive average of 71.00, showcasing one century and one half-century.
+
+## It's not Sachin or Kohli, Pak player tags this batter as India's greatest
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/its-not-sachin-tendulkar-or-virat-kohli-pakistan-cricketer-tags-this-batter-as-indias-greatest/articleshow/105679379.cms](https://timesofindia.indiatimes.com/sports/cricket/news/its-not-sachin-tendulkar-or-virat-kohli-pakistan-cricketer-tags-this-batter-as-indias-greatest/articleshow/105679379.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T11:17:18+00:00
+
+Sachin Tendulkar and Virat Kohli stand as indisputably the finest batsmen ever produced by India. Their names dominate the international cricket records, with both legends achieving unparalleled greatness on the cricketing stage. Tendulkar's enduring presence in cricket and his records, built over several decades, have firmly established him as a legendary figure in the sport. On the other hand, Kohli's assertive and contemporary approach has positioned him as a formidable force in today's cricketing landscape.
+
+## Manipur couple, relative beaten up in Delhi
+ - [https://timesofindia.indiatimes.com/city/delhi/man-from-manipur-wife-relative-beaten-up-in-delhi/articleshow/105678573.cms](https://timesofindia.indiatimes.com/city/delhi/man-from-manipur-wife-relative-beaten-up-in-delhi/articleshow/105678573.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T10:29:03+00:00
+
+The authorities were alerted at 2:30 am on Friday following an incident in Kilokari village where a man had been assaulted and subsequently hospitalized.
+
+## ED files chargesheet against AAP's Sanjay Singh
+ - [https://timesofindia.indiatimes.com/city/delhi/delhi-excise-policy-case-ed-files-charge-sheet-against-sanjay-singh/articleshow/105676676.cms](https://timesofindia.indiatimes.com/city/delhi/delhi-excise-policy-case-ed-files-charge-sheet-against-sanjay-singh/articleshow/105676676.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T09:02:00+00:00
+
+The Enforcement Directorate (ED) on Saturday lodged a charge sheet against AAP Rajya Sabha MP Sanjay Singh, in connection with a money laundering case related to the Delhi excise policy.
+
+## 'If my son plays a sport, I will be using Kohli's...': Brian Lara
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/if-my-son-plays-a-sport-i-will-be-using-kohlis-brian-lara-praises-virat-kohlis-impact-on-the-game/articleshow/105676413.cms](https://timesofindia.indiatimes.com/sports/cricket/news/if-my-son-plays-a-sport-i-will-be-using-kohlis-brian-lara-praises-virat-kohlis-impact-on-the-game/articleshow/105676413.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T08:56:09+00:00
+
+West Indies cricketer Brian Lara praised Indian cricketer Virat Kohli for his commitment and dedication during the Tiger Pataudi Memorial Lecture in Kolkata. Lara emphasized that Kohli's outstanding performances during the ICC Cricket World Cup 2023 left a lasting impression on his son, who would use his qualities to inspire him in any sport. He emphasized that individual success is crucial in team sports, despite India's team result.
+
+## Kapil, Sunil reunite for The Kapil Sharma show ending 6-yr fight
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/kapil-sharma-and-sunil-grover-reunite-for-the-kapil-sharma-show-on-ott-as-they-end-the-6-year-long-fight-on-the-flight/articleshow/105676021.cms](https://timesofindia.indiatimes.com/tv/news/hindi/kapil-sharma-and-sunil-grover-reunite-for-the-kapil-sharma-show-on-ott-as-they-end-the-6-year-long-fight-on-the-flight/articleshow/105676021.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T08:23:08+00:00
+
+Kapil Sharma releases another explosive promo of his show, revealing a reunion of team members including Sunil Grover. The promo showcases Kapil and Sunil together, with Kapil introducing himself and Sunil adding the same. They announce their upcoming show, set to be broadcast in over 190 countries. The promo also features Rajiv, Kiku, Krushna, and Archana Puran Singh. The show had faced a major fallout between Kapil and Sunil in 2018, but they have now buried the hatchet and decided to move on.
+
+## Chandrika Ravi stuns fans with her first look as Silk Smitha
+ - [https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/chandrika-ravi-stuns-fans-with-her-first-look-as-silk-smitha-an-untold-story-on-the-way/articleshow/105675261.cms](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/chandrika-ravi-stuns-fans-with-her-first-look-as-silk-smitha-an-untold-story-on-the-way/articleshow/105675261.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T07:44:03+00:00
+
+Director Jayaram has been working on a film on the biography of late actress Silk Smitha, and he is set to reveal some untold story about the actress. Chandrika Ravi reprises the role of Silk Smitha, and the first look of the actress has been unveiled.
+
+## Police slaps Rs 10k fine on youth for using modified helmet
+ - [https://timesofindia.indiatimes.com/auto/news/police-crackdown-on-reckless-riding-biker-slapped-with-rs-10000-fine-for-modified-helmet/articleshow/105661773.cms](https://timesofindia.indiatimes.com/auto/news/police-crackdown-on-reckless-riding-biker-slapped-with-rs-10000-fine-for-modified-helmet/articleshow/105661773.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T07:29:57+00:00
+
+Recently, the Tamil Nadu police took action when a youth, captured in a viral video, was seen riding recklessly with a uniquely modified helmet. This individual, identified as S Sujith from Malayan Street in Tenkashi, adorned his helmet with fur-like material and rabbit-like ears, a peculiar trend gaining popularity among young riders.
+
+## 3rd T20I Preview: India gear up for workshop against Australia
+ - [https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/3rd-t20i-preview-india-gear-up-for-t20-workshop-against-australia-as-prelude-to-south-africa-challenge/articleshow/105674681.cms](https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/3rd-t20i-preview-india-gear-up-for-t20-workshop-against-australia-as-prelude-to-south-africa-challenge/articleshow/105674681.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T07:27:16+00:00
+
+India's T20I series against Australia serves as a platform for fine-tuning strategies and addressing key player roles for the upcoming challenge against South Africa. The fifth T20I, set to take place at the Chinnaswamy Stadium, is a crucial workshop for the Indian team to evaluate resources and test combinations before the series against the Proteas starting on December 10. Shreyas Iyer and Deepak Chahar, both returning to the shortest format after a hiatus, are in focus for the workshop.
+
+## #Melodi: Italian PM Meloni posts selfie with 'good friend' PM Modi
+ - [https://timesofindia.indiatimes.com/india/melodi-italian-pm-giorgia-meloni-posts-selfie-with-good-friend-pm-modi/articleshow/105674229.cms](https://timesofindia.indiatimes.com/india/melodi-italian-pm-giorgia-meloni-posts-selfie-with-good-friend-pm-modi/articleshow/105674229.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T07:03:12+00:00
+
+Prime Minister Narendra Modi and Italian Prime Minister Giorgia Meloni met on the sidelines of the ongoing 28th Conference of the Parties (COP28) in Dubai on Friday. PM Meloni shared a selfie of their meeting on Instagram, captioning it as "Good friends at COP28. #Melodi." PM Modi also referred to his Italian counterpart, and highlighted both countries' joint efforts towards a sustainable and prosperous future. The COP28 summit is taking place from November 28 to December 12, under the presidency of the UAE.
+
+## '#Melodi': Italy PM Meloni posts selfie with 'good friend' PM Modi
+ - [https://timesofindia.indiatimes.com/india/melodi-italy-pm-giorgia-meloni-posts-selfie-with-good-friend-pm-modi/articleshow/105674229.cms](https://timesofindia.indiatimes.com/india/melodi-italy-pm-giorgia-meloni-posts-selfie-with-good-friend-pm-modi/articleshow/105674229.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T07:03:12+00:00
+
+Prime Minister Narendra Modi and Italian Prime Minister Giorgia Meloni met on the sidelines of the ongoing 28th Conference of the Parties (COP28) in Dubai on Friday. PM Meloni shared a selfie of their meeting on Instagram, captioning it as "Good friends at COP28. #Melodi." PM Modi also referred to his Italian counterpart, and highlighted both countries' joint efforts towards a sustainable and prosperous future. The COP28 summit is taking place from November 28 to December 12, under the presidency of the UAE.
+
+## 1st Test: Taijul fashions Bangladesh's memorable win against NZ
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/1st-test-taijuls-10-wickets-fashions-bangladeshs-memorable-win-against-new-zealand/articleshow/105673512.cms](https://timesofindia.indiatimes.com/sports/cricket/news/1st-test-taijuls-10-wickets-fashions-bangladeshs-memorable-win-against-new-zealand/articleshow/105673512.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T06:25:26+00:00
+
+Bangladesh's Taijul Islam, a left-arm spinner, led the team to a commanding 150-run victory against New Zealand in the opening Test in Sylhet. With a target of 332 on a turning track, New Zealand entered the final day at 113/7. Despite a valiant fifty from overnight batter Daryl Mitchell and a brief resistance from skipper Tim Southee, Bangladesh's spinners proved too much for the visitors. Islam, with figures of 6-75 in the second innings, played a pivotal role in Bangladesh's triumph and earned the player-of-the-match award.
+
+## Watch: Rinku Singh shares the secret of his big-hitting game
+ - [https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/watch-rinku-singh-shares-the-secret-of-his-big-hitting-game/articleshow/105673393.cms](https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/watch-rinku-singh-shares-the-secret-of-his-big-hitting-game/articleshow/105673393.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T06:20:55+00:00
+
+While speaking to teammate Rinku Singh in a video posted by BCCI, Jitesh admitted feeling immense pressure when he stepped in to bat and admired Rinku's calm and composed demeanor in such challenging situations. In the fourth T20I against Australia in Raipur, Rinku hammered a quickfire 29-ball 46, while Jitesh blazed 35 off 19 balls. India went on to win the match by 20 runs to take a series-clinching 3-1. The 5th T20I will be playe don Dec 3.
+
+## Bajaj Chetak Urbane launched at Rs 1.15 lakh: top-speed, range
+ - [https://timesofindia.indiatimes.com/auto/bikes/bajaj-chetak-urbane-launched-at-rs-1-15-lakh-gets-higher-top-speed-range-etc/articleshow/105672276.cms](https://timesofindia.indiatimes.com/auto/bikes/bajaj-chetak-urbane-launched-at-rs-1-15-lakh-gets-higher-top-speed-range-etc/articleshow/105672276.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T05:34:59+00:00
+
+Bajaj Auto launches Chetak Urbane EV, a new variant of its electric scooter. The EV is priced at Rs 1.15 lakh and can be upgraded with Tecpac for Rs 1.21 lakh.
+
+## Low visibility at Delhi airport, several Vistara flights diverted
+ - [https://timesofindia.indiatimes.com/city/delhi/low-visibility-at-delhi-airport-flights-from-ahmedabad-mumbai-diverted/articleshow/105672016.cms](https://timesofindia.indiatimes.com/city/delhi/low-visibility-at-delhi-airport-flights-from-ahmedabad-mumbai-diverted/articleshow/105672016.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T05:27:16+00:00
+
+In a series of tweets on X, formerly Twitter, Vistara informed about diversions of at least five flights, including one international arrival.
+
+## Indian student who went missing in UK found dead in Thames
+ - [https://timesofindia.indiatimes.com/world/uk/uk-indian-student-who-went-missing-last-month-found-dead-in-river-thames-family-launches-fundraiser/articleshow/105671351.cms](https://timesofindia.indiatimes.com/world/uk/uk-indian-student-who-went-missing-last-month-found-dead-in-river-thames-family-launches-fundraiser/articleshow/105671351.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T04:51:24+00:00
+
+An Indian student, Mitkumar Patel, who arrived in the UK for higher studies, was found dead in the river Thames near London. Patel, a 23-year-old boy, went missing on November 17 and his body was discovered on November 21 in Canary Wharf. The police stated that the death is not suspicious. Patel was due to start a degree at Sheffield Hallam University and had a part-time job at Amazon. His relatives reported him missing after he failed to return from a daily walk.
+
+## Aditya-L1 unveils insights into solar wind dynamics
+ - [https://timesofindia.indiatimes.com/india/aditya-l1-unveils-insights-into-solar-wind-dynamics/articleshow/105670712.cms](https://timesofindia.indiatimes.com/india/aditya-l1-unveils-insights-into-solar-wind-dynamics/articleshow/105670712.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T04:11:50+00:00
+
+India's Aditya-L1 satellite has marked a significant milestone as the Aditya Solar wind Particle Experiment (ASPEX) payload initiated its operations, shedding light on the mysteries of solar wind, Isro said on Saturday. "The SWIS instrument, activated on November 2, has demonstrated optimal performance in measuring solar wind ions, notably protons and alpha particles. With two sensor units providing a remarkable 360° field of view each, SWIS operates in perpendicular planes, offering detailed insights into solar wind behaviour," Isro said.
+
+## India surpass Pakistan to become team with most wins in T20Is
+ - [https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/india-surpass-pakistan-to-become-the-team-with-most-wins-in-t20is/articleshow/105670586.cms](https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/india-surpass-pakistan-to-become-the-team-with-most-wins-in-t20is/articleshow/105670586.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T03:57:38+00:00
+
+India has become the team with the most wins in the T20I format, after winning the five-match series 3-1 against Australia in Raipur. They have emerged victorious in 136 matches out of 213 since their debut in 2006. Their win percentage is 63.84, surpassing Pakistan's 135 wins in 226 matches. New Zealand, Australia, and South Africa are next in the list of most wins in the shortest format of the game. India's series victory was capped off by Axar Patel being named the 'Player of the Match' for his impactful performance.
+
+## When an Omani and a Pakistani go on a digital detox, Jain style!
+ - [https://timesofindia.indiatimes.com/city/ahmedabad/when-an-omani-and-a-pakistani-go-on-a-digital-detox-jain-style/articleshow/105670417.cms](https://timesofindia.indiatimes.com/city/ahmedabad/when-an-omani-and-a-pakistani-go-on-a-digital-detox-jain-style/articleshow/105670417.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T03:34:49+00:00
+
+Mustafa Duja, a country manager for a leading FMCG brand in Oman, took the 'digital fasting' challenge and abstained from using the internet for five hours daily. The challenge, organized by the Jain Foundation, aims to create awareness about the harmful effects of excessive internet usage and promote the tenets of Jainism. This year, the challenge had 6,200 participants from across the globe, including a 52-year-old participant from Pakistan. The event saw an increase in participants compared to previous years, with individuals from various countries taking part.
+
+## 'Added new variations...': Axar after helping India clinch the series
+ - [https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/i-have-added-new-variations-to-my-bowling-axar-patel-after-helping-india-beat-australia-in-4th-t20i/articleshow/105669977.cms](https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/i-have-added-new-variations-to-my-bowling-axar-patel-after-helping-india-beat-australia-in-4th-t20i/articleshow/105669977.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T03:21:12+00:00
+
+India won the fourth T20I match against Australia by 20 runs, thanks to Axar Patel's impressive performance. Patel won the Man-of-the-Match award for his impactful display. He emphasized the importance of adhering to strengths and bowling stump-to-stump to negate the dew factor. Patel also highlighted the importance of an attacking mindset in T20Is, stating that staying attacking and being mentally strong is crucial as there is every chance to get hit in this format.
+
+## Class 11 boy killed by 'jealous' 22-yr-old same-sex partner
+ - [https://timesofindia.indiatimes.com/city/rajkot/class-11-boy-killed-by-jealous-22-year-old-same-sex-partner/articleshow/105669785.cms](https://timesofindia.indiatimes.com/city/rajkot/class-11-boy-killed-by-jealous-22-year-old-same-sex-partner/articleshow/105669785.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T03:09:43+00:00
+
+
+
+## Debt-ridden Yavatmal farmers want nod to grow ‘ganja’
+ - [https://timesofindia.indiatimes.com/city/nagpur/debt-ridden-farmers-in-maharashtras-cotton-bowl-request-permission-to-grow-ganja/articleshow/105669502.cms](https://timesofindia.indiatimes.com/city/nagpur/debt-ridden-farmers-in-maharashtras-cotton-bowl-request-permission-to-grow-ganja/articleshow/105669502.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T02:58:33+00:00
+
+Farmers in Yavatmal, Maharashtra's cotton bowl, have demanded official sanction to cultivate cannabis due to poor returns from conventional crops and mounting debts. They handed over a memorandum to the divisional commissioner, highlighting their plight and the need for government relief. The demand is symbolic, drawing attention to the farmers' struggles. The farmers also mentioned the recent floods and unseasonal rains that worsened their situation. Cannabis cultivation has been associated with their survival amidst financial difficulties.
+
+## Ind-Aus T20: Here's what those cumulative views on JioCinema are
+ - [https://timesofindia.indiatimes.com/gadgets-news/india-australia-t20-cricket-series-heres-what-those-cumulative-views-on-jiocinema-are/articleshow/105669359.cms](https://timesofindia.indiatimes.com/gadgets-news/india-australia-t20-cricket-series-heres-what-those-cumulative-views-on-jiocinema-are/articleshow/105669359.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T02:53:28+00:00
+
+The ongoing India-Australia T20 series is being live streamed on JioCinema, which has recently switched to displaying cumulative views instead of peak concurrent viewership. The cumulative views for India's first and second T20 matches against Australia were 213 million and 220 million, respectively. Peak concurrency represents the highest number of viewers at a given time, while cumulative views reflect the total number of views for an event. JioCinema considers cumulative views a more transparent and reliable measure of viewer engagement. This change is likely to continue for the upcoming Indian Premier League matches.
+
+## 16 of Hry family handed life term for clash that led to 2 deaths
+ - [https://timesofindia.indiatimes.com/city/gurgaon/16-members-of-a-family-handed-life-term-for-clash-that-led-to-2-deaths/articleshow/105669084.cms](https://timesofindia.indiatimes.com/city/gurgaon/16-members-of-a-family-handed-life-term-for-clash-that-led-to-2-deaths/articleshow/105669084.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T02:42:44+00:00
+
+Sixteen members of a family from Bawani Khera were awarded life imprisonment by a Bhiwani court in a 2020 case that was registered after two people, among them a woman, died of injuries sustained in a clash over Holika Dalan. The convicts, aged 23 to 65 years, were found guilty of rioting, murder, and other charges. The altercation between two families started with a disagreement between Ajay Sharma and Suresh during a festival event. The argument escalated into a fight involving both families, resulting in the deaths of Suresh Devi and Manbir. The accused failed to prove their innocence and were sentenced to life imprisonment.
+
+## ‘Dead’ man found alive ‘re-christened’ & then ‘remarried’
+ - [https://timesofindia.indiatimes.com/city/dehradun/dead-man-found-alive-re-christened-remarried/articleshow/105668441.cms](https://timesofindia.indiatimes.com/city/dehradun/dead-man-found-alive-re-christened-remarried/articleshow/105668441.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T01:48:12+00:00
+
+A 42-year-old man, Naveen Chandra Bhatt, from Sripur Bichwa in Khatima town, who was mistakenly presumed dead and cremated, was rechristened and remarried to his wife. His family performed all the rituals again, from naming ceremony to 'janeu sanskar', to consider his rebirth. The ceremonies were conducted by AB Joshi, a priest, who explained that since the post-death rituals had already begun, all the sacred rituals had to be performed again. Naveen is now known as Narayan Bhatt, although this name is only for religious purposes.
+
+## ‘Israel had Hamas attack blueprint a year ago'
+ - [https://timesofindia.indiatimes.com/world/middle-east/israel-had-hamas-attack-blueprint-a-year-ago-dismissed-it-as-aspirational/articleshow/105668414.cms](https://timesofindia.indiatimes.com/world/middle-east/israel-had-hamas-attack-blueprint-a-year-ago-dismissed-it-as-aspirational/articleshow/105668414.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T01:47:11+00:00
+
+Israeli officials obtained Hamas' battle plan for the Oct. 7 terrorist attack more than a year before it happened. The plan, code-named 'Jericho Wall', detailed a devastating invasion that led to the deaths of about 1,200 people. The plan included a barrage of rockets, drones to knock out security cameras, and gunmen entering Israel en masse in various ways. Israeli military and intelligence officials dismissed the plan as aspirational, considering it too difficult for Hamas to carry out.
+
+## War resumes as Israel, Hamas trade blame for truce collapse
+ - [https://timesofindia.indiatimes.com/world/middle-east/war-resumes-as-israel-hamas-trade-blame-for-truce-collapse/articleshow/105668266.cms](https://timesofindia.indiatimes.com/world/middle-east/war-resumes-as-israel-hamas-trade-blame-for-truce-collapse/articleshow/105668266.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T01:35:34+00:00
+
+A ceasefire in the Gaza Strip collapsed due to the breakdown of the truce between Israel and Hamas. Hostilities resumed immediately after the deadline passed, and Israel announced the restart of military operations. Hamas accused Israel of refusing to release all the women hostages, while Israel claimed that Hamas failed to release as many hostages as promised. The mediator, Qatar, stated that negotiations were ongoing to restore the truce. Within hours of the truce expiring, Gaza officials reported dozens wounded and a high death toll in air strikes.
+
+## At 15%, GST kitty expands at fastest pace in 11 months
+ - [https://timesofindia.indiatimes.com/business/india-business/at-15-gst-kitty-expands-at-fastest-pace-in-11-months/articleshow/105668311.cms](https://timesofindia.indiatimes.com/business/india-business/at-15-gst-kitty-expands-at-fastest-pace-in-11-months/articleshow/105668311.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T01:33:45+00:00
+
+Goods and services tax (GST) collections rose 15.1% to Rs 1,67,929 crore in November due to strong domestic demand during festival season and compliance focus. Integrated GST (IGST) on imports grew 1.5% to Rs 39,198 crore, indicating a slowdown in goods shipment. Overall IGST collections rose 12.8% to Rs 87,000 crore, driven by inter-state transactions. Central and state GST collections showed strong domestic demand with the former growing 18.5% to Rs 30,420 crore.
+
+## KBC 15: Amitabh Bachchan shocked to see Abhilasha Soni's son
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-15-amitabh-bachchan-is-shocked-to-see-contestant-abhilasha-sonis-grownup-son-says-bahut-personal-hojaayega-ab-agar-hum-poochenge-aap-ki-shaadi-kab-hui-thi/articleshow/105667748.cms](https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-15-amitabh-bachchan-is-shocked-to-see-contestant-abhilasha-sonis-grownup-son-says-bahut-personal-hojaayega-ab-agar-hum-poochenge-aap-ki-shaadi-kab-hui-thi/articleshow/105667748.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T01:30:00+00:00
+
+Sunil Sharma from Jammu and Kashmir impresses with his knowledge on Kaun Banega Crorepati 15 and wins Rs 3,20,000. Abhilasha Soni, an Investigator from Madhya Pradesh, surprises host Big B with her grownup son. Abhilasha plays well and wins Rs 6,40,000. She plans to use the money to pay off her home loan and invest in her children's education. Abhilasha's journey on the show includes answering questions about 'Drona', her daughter, and using lifelines like 'Double Dip' and 'Audience Poll'.
+
+## Cops find mobile tower that wasn't stolen, hunt on for complainant
+ - [https://timesofindia.indiatimes.com/city/allahabad/cops-find-mobile-tower-that-wasnt-stolen-hunt-on-for-complainant/articleshow/105668264.cms](https://timesofindia.indiatimes.com/city/allahabad/cops-find-mobile-tower-that-wasnt-stolen-hunt-on-for-complainant/articleshow/105668264.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T01:25:47+00:00
+
+
+
+## Sharad Pawar was for joining Shinde-Fadnavis govt: Ajit Pawar
+ - [https://timesofindia.indiatimes.com/city/pune/pawar-was-for-joining-govt-changed-stance-later-ajit/articleshow/105668206.cms](https://timesofindia.indiatimes.com/city/pune/pawar-was-for-joining-govt-changed-stance-later-ajit/articleshow/105668206.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T01:18:56+00:00
+
+Deputy Chief Minister Ajit Pawar revealed that he had consulted with NCP chief Sharad Pawar before joining the ruling alliance of BJP-Shiv Sena, and that Pawar was initially in favor of the decision. However, Pawar later changed his stance. Ajit Pawar also mentioned that the senior Pawar had voluntarily resigned as the chief of the party, but asked party leaders to stage a protest for the withdrawal of his resignation. Ajit Pawar further explained that he had spoken to Supriya Sule about joining the ruling alliance and requested her to convince her father, but received no response.
+
+## After SC's endorsement, Arif Mohammed Khan picks another VC
+ - [https://timesofindia.indiatimes.com/india/after-supreme-courts-endorsement-arif-mohammed-khan-picks-another-vice-chancellor/articleshow/105668166.cms](https://timesofindia.indiatimes.com/india/after-supreme-courts-endorsement-arif-mohammed-khan-picks-another-vice-chancellor/articleshow/105668166.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T01:15:49+00:00
+
+Kerala governor Arif Mohammed Khan on Friday appointed Prof S Bijoy Nandan as the vice chancellor of Kannur University, following the Supreme Court’s annulment of the reappointment of Gopinath Ravindran to the key position. Nandan currently serves as a professor in the department of marine biology, microbiology &amp; biochemistry at Cochin University of Science and Technology (CUSAT). The governor, serving as the chancellor of the university, made the decision to appoint Nandan as vice-chancellor, exercising the powers conferred by the provisions of the Kannur University Act, 2018.
+
+## Acting director of ED Rahul Navin set to be agency chief
+ - [https://timesofindia.indiatimes.com/india/acting-director-of-enforcement-directorate-rahul-navin-set-to-be-agency-chief/articleshow/105668080.cms](https://timesofindia.indiatimes.com/india/acting-director-of-enforcement-directorate-rahul-navin-set-to-be-agency-chief/articleshow/105668080.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T01:04:10+00:00
+
+Rahul Navin, acting director of Enforcement Directorate, has been empanelled as additional secretary by the appointments committee of the Cabinet, potentially paving the way for his regularisation as head of the agency. Navin, a 1993-batch Indian Revenue Service (Income Tax) officer took over as acting director of ED on September 15 after retirement of the then director SK Mishra. Navin was the special director in the agency where he has been on deputation since 2020.
+
+## Yet again, Ashwin gets the short end of the ODI stick
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/yet-again-ravichandran-ashwin-gets-the-short-end-of-the-odi-stick/articleshow/105668025.cms](https://timesofindia.indiatimes.com/sports/cricket/news/yet-again-ravichandran-ashwin-gets-the-short-end-of-the-odi-stick/articleshow/105668025.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T00:58:37+00:00
+
+The absence of Ravichandran Ashwin from the white-ball squads for the upcoming tour of South Africa is not unexpected but galling nonetheless. Does it mean that the door has been shut on the veteran off-spinning allrounder in limited-overs cricket?
+
+## Yet again, Ashwin gets the short end of the ODI stick
+ - [https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/yet-again-ravichandran-ashwin-gets-the-short-end-of-the-odi-stick/articleshow/105668025.cms](https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/yet-again-ravichandran-ashwin-gets-the-short-end-of-the-odi-stick/articleshow/105668025.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T00:58:37+00:00
+
+The T20 squad selection is understandably oriented towards the upcoming T20 World Cup, and there's little room for dispute on that front. However, it's notable that Ashwin, despite being part of the 2023 ODI World Cup squad, is not included in the ODI team this time. With key players such as Jasprit Bumrah, Mohammed Shami, Mohammed Siraj and Ravindra Jadeja absent from the ODI squad for the South Africa tour, Ashwin could have contributed valuable experience.
+
+## For India, Pannun case may be an unpleasant one
+ - [https://timesofindia.indiatimes.com/india/for-india-pannun-case-may-be-an-unpleasant-one/articleshow/105668036.cms](https://timesofindia.indiatimes.com/india/for-india-pannun-case-may-be-an-unpleasant-one/articleshow/105668036.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T00:55:38+00:00
+
+The US will strengthen strategic partnership with India despite the Pannun episode. White House spokesperson John Kirby takes the allegations and investigation seriously. The US Justice Department chargesheet reveals a drug dealer, Nikhil Gupta, conspired to kill Pannun on directions from an Indian intelligence official. Speculation arises over whether the alleged plot was officially sanctioned by New Delhi or a rogue operation involving an errant intelligence official.
+
+## 4th T20I: Spin seals the deal
+ - [https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/4th-t20i-spin-seals-the-deal/articleshow/105667959.cms](https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/4th-t20i-spin-seals-the-deal/articleshow/105667959.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T00:48:49+00:00
+
+Axar Patel, who was dropped from India's T20 squad for the series in South Africa, proved his worth by taking 3/16 in India's 20-run win against Australia. Ravi Bishnoi also performed well, taking 1-17 in his four overs. India restricted Australia to 154/7 in 20 overs, taking an unassailable 3-1 lead in the series.
+
+## SC extends interim relief to 4 journalists over Adani article
+ - [https://timesofindia.indiatimes.com/india/supreme-court-extends-interim-relief-to-4-journalists-over-adani-article/articleshow/105667972.cms](https://timesofindia.indiatimes.com/india/supreme-court-extends-interim-relief-to-4-journalists-over-adani-article/articleshow/105667972.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T00:45:11+00:00
+
+he Supreme Court on Friday extended the interim protection granted to two foreign journalists associated with Financial Times and two Indian scribes working with Organised Crime and Corruption Reporting Project (OCCRP), who were summoned by Gujarat Police for writing articles on Adani Group. The court was hearing two petitions — on by Benjamin Nicholas Brooke Parkin and Chloe Nina Cornish and another by journalists Ravi Nair and Anand Mangnale associated with OCCRP. They were summoned by Gujarat Police for the article published in the newspaper and a portal.
+
+## Mexican woman raped in Mumbai, forced into oral sex
+ - [https://timesofindia.indiatimes.com/city/mumbai/event-organiser-held-for-rape-of-mexican-woman/articleshow/105667906.cms](https://timesofindia.indiatimes.com/city/mumbai/event-organiser-held-for-rape-of-mexican-woman/articleshow/105667906.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T00:27:02+00:00
+
+A Mexican woman filed a complaint against an event organizer in Mumbai, accusing him of rape and sexual harassment. The two met on Instagram in 2017 and started dating. The accused allegedly raped her at his house in Bandra in 2019 and forced her into oral sex while they were traveling for work. He threatened to fire her if she refused. The woman also alleged that he raped her in hotels in Chandigarh, Kolkata, and Belgium. He got married in 2020 but continued to demand sexual favors and mentally harass her. She recently filed a complaint at the Bandra police station.
+
+## Five judge SC bench to review ruling on ‘automatic vacation of stay’
+ - [https://timesofindia.indiatimes.com/india/five-judge-supreme-court-bench-to-review-ruling-on-automatic-vacation-of-stay/articleshow/105667858.cms](https://timesofindia.indiatimes.com/india/five-judge-supreme-court-bench-to-review-ruling-on-automatic-vacation-of-stay/articleshow/105667858.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T00:22:14+00:00
+
+The Supreme Court has agreed to review its 2018 judgment on the expiry period of stay orders to expedite trial proceedings. The court acknowledged that automatic vacation of stay orders after six months could result in serious miscarriage of justice in some cases. The issue of setting an expiry period on stay orders was not debated during the previous court proceedings. The court expressed reservations about the direction to limit the lifespan of stay orders to six months, as it can cause significant delays in the trial process.
+
+## Can a woman be booked in rape case? Supreme Court takes up plea
+ - [https://timesofindia.indiatimes.com/india/can-a-woman-be-booked-in-rape-case-supreme-court-takes-up-plea/articleshow/105667873.cms](https://timesofindia.indiatimes.com/india/can-a-woman-be-booked-in-rape-case-supreme-court-takes-up-plea/articleshow/105667873.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T00:21:35+00:00
+
+The Supreme Court seeks response from the Punjab Police regarding a petition by a 62-year-old woman who is booked on rape charges. The woman's daughter-in-law filed the complaint after getting married to her son through a video call. The woman's advocate argues that a woman cannot be booked in a gang rape case based on a previous ruling by the Supreme Court. The petitioner's anticipatory bail was rejected by a Gurdaspur sessions court and her plea for pre-arrest bail was rejected by the Punjab and Haryana HC.
+
+## Man kills girlfriend in hotel, posts pic of body as WhatsApp status
+ - [https://timesofindia.indiatimes.com/city/chennai/man-kills-girlfriend-in-hotel-posts-pic-of-body-as-whatsapp-status/articleshow/105667852.cms](https://timesofindia.indiatimes.com/city/chennai/man-kills-girlfriend-in-hotel-posts-pic-of-body-as-whatsapp-status/articleshow/105667852.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T00:16:13+00:00
+
+A nursing student, Fousia, was found dead in a hotel in Chennai. Her boyfriend, Ashiq, had uploaded a photo of her lifeless body as his Whatsapp status. The couple had been in a relationship for five years and had secretly married. They had a baby in their late teens, whom they gave up for adoption. Fousia had confronted Ashiq about photos of him with another woman, leading to an argument and her death. Ashiq was arrested and Fousia's body was sent for a postmortem.
+
+## How bomb threat in B'luru schools threw parents into a tizzy
+ - [https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-early-morning-bomb-threat-throws-parents-into-a-tizzy/articleshow/105667848.cms](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-early-morning-bomb-threat-throws-parents-into-a-tizzy/articleshow/105667848.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T00:15:14+00:00
+
+Bengaluru schools received bomb threats via email causing chaos. Neev Academy found the hoax mail early in the morning and alerted the police. The circular sent by Neev went viral on social media, causing panic among parents. Other schools also received the threatening emails and took precautions. Police teams with dog squads sanitized the buildings and grounds. Parents went berserk, leading some schools to close for the day. Social media was flooded with messages and videos of panicked parents at school gates.
+
+## 9 channels with 83 lakh subscribers busted, says PIB fact check unit
+ - [https://timesofindia.indiatimes.com/india/9-channels-with-83-lakh-subscribers-busted-says-pib-fact-check-unit/articleshow/105667834.cms](https://timesofindia.indiatimes.com/india/9-channels-with-83-lakh-subscribers-busted-says-pib-fact-check-unit/articleshow/105667834.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-02T00:12:49+00:00
+
+The PIB Fact Check Unit identified and exposed nine YouTube channels with a cumulative 83 lakh subscribers for spreading false information. These channels misattributed derogatory statements to the Chief Justice of India, the Prime Minister, and the chief election commissioner. The false information included claims about President's rule, EVM bans, and resignations of Union ministers. The YouTube channels used thumbnails and images of TV news channels to deceive viewers.
+

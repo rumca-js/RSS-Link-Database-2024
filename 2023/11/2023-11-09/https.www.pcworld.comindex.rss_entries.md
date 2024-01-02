@@ -1,0 +1,78 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## AMD starts retiring pre-RDNA GPUs: Radeon RX 580’s reign is ending
+ - [https://www.pcworld.com/article/2132735/amd-pre-rdna-gpus-are-no-longer-getting-major-driver-updates.html](https://www.pcworld.com/article/2132735/amd-pre-rdna-gpus-are-no-longer-getting-major-driver-updates.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-11-09T17:00:39+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re still running an AMD graphics card that predates the Radeon RX 5000 series, you&rsquo;re not going to get any more performance-boosting driver updated from the manufacturer. The company says that while it will still provide &ldquo;critical&rdquo; security and bug fix updates to Polaris and Vega series cards, it won&rsquo;t be fine-tuning them like newer GPU products. Those are primarily the Radeon RX 400 and RX 500 series, respectively, as well as the Vega family of <a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html">graphics cards</a>. </p>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.anandtech.com/show/21126/amd-reduces-ongoing-driver-support-for-polaris-and-vega-gpus&amp;xcust=2-1-2132735-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Ana
+
+## OneDrive is the latest Microsoft app to treat users like a creepy stalker
+ - [https://www.pcworld.com/article/2132612/onedrive-is-the-latest-microsoft-app-to-treat-users-like-a-creepy-stalker.html](https://www.pcworld.com/article/2132612/onedrive-is-the-latest-microsoft-app-to-treat-users-like-a-creepy-stalker.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-11-09T16:20:16+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Hey Microsoft. C&rsquo;mere. Yeah, come over here, we need to have a little chat. Listen, buddy, you know I&rsquo;ve got your back. We&rsquo;ve been teaming up on Windows since 3.1. Remember that time we got sixteen people and four TVs together to play Halo on the original Xbox? Classic. But listen, as your fri&hellip;as your long-time customer, I gotta tell you something. You have got to <em>chill. </em>Especially when someone tells you they don&rsquo;t want to use one of your applications. </p>
+
+
+
+<p>Over the last few years Microsoft has been laying a heavy hand down on Windows users who don&rsquo;t want to use other Microsoft programs for absolutely everything. A particularly egregious example came up last month, when <a href="https://www.pcworld.com/article/2116580/microsoft-edge-now-asks-why-youre-switching-to-google-chrome.html" rel="noreferrer noopener" t
+
+## Acer Chromebook Plus 515 review: A great laptop for casual users
+ - [https://www.pcworld.com/article/2124526/acer-chromebook-plus-515-review.html](https://www.pcworld.com/article/2124526/acer-chromebook-plus-515-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-11-09T11:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Good audio quality</li><li>Zippy performance</li><li>1080p webcam</li><li>Nice typing experience</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Average battery life for a Chromebook</li><li>Blah design</li><li>Bezels are thicker than I like</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Acer Chromebook Plus 515 is both fast and affordable, making it a top choice for the everyday user.</p>
+
+## Get this top-rated photo editor and learn how to use it for just $200
+ - [https://www.pcworld.com/article/2131740/get-this-top-rated-photo-editor-and-learn-how-to-use-it-for-just-200.html](https://www.pcworld.com/article/2131740/get-this-top-rated-photo-editor-and-learn-how-to-use-it-for-just-200.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-11-09T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Photographers and designers, pay attention! During our gear up towards Black Friday, we&rsquo;re offering <a href="https://shop.pcworld.com/sales/the-award-winning-luminar-neo-lifetime-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-award-winning-luminar-neo-lifetime-bundle&amp;utm_term=scsf-582315&amp;utm_content=a0xRn0000002AbBIAU&amp;scsonar=1" rel="noreferrer noopener" target="_blank">The Award-Winning Luminar Neo Lifetime Bundle</a> for more than 70% off at just $199.99 through November 12.</p>
+
+
+
+<p>Luminar Neo is the Red Dot Design Award and TIPA World Award-winning photo editor that gives users innovative, AI-driven tools that make photo editing easier than ever. The intuitive, user-friendly interface includes powerful tools for masking, layers, and making local adjustments so you can fully enhance all of your photography. It w
+
+## Save $50 Plus get Free Shipping on This Kodak Slide Scanner with Code
+ - [https://www.pcworld.com/article/2131722/save-50-plus-get-free-shipping-on-this-kodak-slide-scanner-with-code.html](https://www.pcworld.com/article/2131722/save-50-plus-get-free-shipping-on-this-kodak-slide-scanner-with-code.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-11-09T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>In the digital age, it&rsquo;s easy to preserve your memories. But it&rsquo;s a little more complicated when you&rsquo;re trying to save the memories of the past. Fortunately, the <a href="https://shop.pcworld.com/sales/kodak-slide-n-scan-film-and-slide-scanner?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=kodak-slide-n-scan-film-and-slide-scanner&amp;utm_term=scsf-583001&amp;utm_content=a0xRn0000002bI1IAI&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Kodak Slide N Scan Film &amp; Slide Scanner</a> makes it a little easier, and it&rsquo;s on sale through November 9 during our ramp-up to Black Friday.</p>
+
+
+
+<p>This state-of-the-art device works for color and B&amp;W negatives (135, 110, 126) and 50 mm slides (135, 110, 126), enhancing the resolution with a 14MP image sensor, and converting them to new formats with ease. It has a host
+

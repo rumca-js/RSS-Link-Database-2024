@@ -1,0 +1,274 @@
+# Source:Gulf Insider, URL:https://www.gulf-insider.com/feed, language:en-US
+
+## Saudi: Formula E Driver Sam Bird Looking Forward To Start New Season With NEOM McLaren
+ - [https://www.gulf-insider.com/saudi-formula-e-driver-sam-bird-looking-forward-to-start-new-season-with-neom-mclaren](https://www.gulf-insider.com/saudi-formula-e-driver-sam-bird-looking-forward-to-start-new-season-with-neom-mclaren)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T13:45:21+00:00
+
+<p>Formula E driver and two-time Diriyah E-Prix winner, Sam Bird, cannot wait to start next season with his new team – NEOM McLaren, with tickets now on sale for the 2024 Diriyah E-Prix double-headers in January. The 36-year-old signed a deal with NEOM McLaren earlier this year and is looking forward to getting behind the &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-formula-e-driver-sam-bird-looking-forward-to-start-new-season-with-neom-mclaren/">Saudi: Formula E Driver Sam Bird Looking Forward To Start New Season With NEOM McLaren</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Air India Express To Expand Connectivity for UAE, Gulf Travellers
+ - [https://www.gulf-insider.com/air-india-express-to-expand-connectivity-for-uae-gulf-travellers](https://www.gulf-insider.com/air-india-express-to-expand-connectivity-for-uae-gulf-travellers)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T13:38:24+00:00
+
+<p>Air India Express is looking to increase capacity to the Gulf region including the UAE, as well as provide better connectivity to Gulf travellers in different Tier 2 and 3 cities across India, a senior official said on Tuesday. “There will be some capacity increases to Saudi Arabia and a little bit to Bahrain, Qatar &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/air-india-express-to-expand-connectivity-for-uae-gulf-travellers/">Air India Express To Expand Connectivity for UAE, Gulf Travellers</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Seven Arrested for Trying To Smuggle Over 30 Kgs of Drugs Into Oman
+ - [https://www.gulf-insider.com/seven-arrested-for-trying-to-smuggle-over-30-kgs-of-drugs-into-oman](https://www.gulf-insider.com/seven-arrested-for-trying-to-smuggle-over-30-kgs-of-drugs-into-oman)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T12:33:12+00:00
+
+<p>The Royal Oman Police (ROP), has arrested seven smugglers for attempting to smuggle more than 30 kilograms of crystal and a quantity of hashish into the Sultanate of Oman. &#8220;The General Administration for Combating Narcotics and Psychotropic Substances arrested seven people of Asian nationality while trying to smuggle more than 30 kilograms of crystal and &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/seven-arrested-for-trying-to-smuggle-over-30-kgs-of-drugs-into-oman/">Seven Arrested for Trying To Smuggle Over 30 Kgs of Drugs Into Oman</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## UAE Launches Space Academy for Emiratis To Boost Growing Sector
+ - [https://www.gulf-insider.com/uae-launches-space-academy-for-emiratis-to-boost-growing-sector](https://www.gulf-insider.com/uae-launches-space-academy-for-emiratis-to-boost-growing-sector)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T12:28:07+00:00
+
+<p>The UAE has established a dedicated academy to help future generations of Emiratis build careers in the growing space sector. Sarah Al Amiri, Minister of State for Public Education and Advanced Technology, and chairwoman of the UAE Space Agency, spoke exclusively to sources, to say the learning centre was key to the nation&#8217;s ambitions in the high-tech industry. &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/uae-launches-space-academy-for-emiratis-to-boost-growing-sector/">UAE Launches Space Academy for Emiratis To Boost Growing Sector</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Fire Breaks Out in Car Park Near to Dubai World Central Airport
+ - [https://www.gulf-insider.com/fire-breaks-out-in-car-park-near-to-dubai-world-central-airport](https://www.gulf-insider.com/fire-breaks-out-in-car-park-near-to-dubai-world-central-airport)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T12:23:02+00:00
+
+<p>A fire broke out in a car park near the Dubai World Central airport on Wednesday morning. No injuries were reported after a blaze broke out and damaged two vehicles in Dubai South. The Dubai South free zone is home to the transport hub, which is staging the Dubai Airshow this week. Dubai Civil Defence was alerted to &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/fire-breaks-out-in-car-park-near-to-dubai-world-central-airport/">Fire Breaks Out in Car Park Near to Dubai World Central Airport</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## UAE Military Arm’s Spending Hits $3.2 Billion at Dubai Airshow 2023
+ - [https://www.gulf-insider.com/uae-military-arms-spending-hits-3-2-billion-at-dubai-airshow-2023](https://www.gulf-insider.com/uae-military-arms-spending-hits-3-2-billion-at-dubai-airshow-2023)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T12:13:25+00:00
+
+<p>The UAE’s Tawazun Council announced signing of 11 deals, worth AED6.9bn ($1.9bn), with local and international companies on the second day of the Dubai Airshow 2023. The independent government entity works closely with the Ministry of Defence and security agencies to maximise value through acquisition systems. The cumulative value of deals signed for first two days &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/uae-military-arms-spending-hits-3-2-billion-at-dubai-airshow-2023/">UAE Military Arm’s Spending Hits $3.2 Billion at Dubai Airshow 2023</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Abu Dhabi’s Yas Waterworld Announces Massive Expansion Plan
+ - [https://www.gulf-insider.com/abu-dhabis-yas-waterworld-announces-massive-expansion-plan](https://www.gulf-insider.com/abu-dhabis-yas-waterworld-announces-massive-expansion-plan)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T12:05:25+00:00
+
+<p>Abu Dhabi-based immersive destination creator Miral has announced an extensive expansion to Yas Island’s Yas Waterworld. The 16,900 sqm expansion, set for completion in 2025, will introduce 3.3 km of slide sections, incorporating 18 new rides and attractions, propelling the park’s total offerings to over 60. “This marks another addition to our world-class attractions on Yas &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/abu-dhabis-yas-waterworld-announces-massive-expansion-plan/">Abu Dhabi’s Yas Waterworld Announces Massive Expansion Plan</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Israel’s Knesset Held Meeting To Mull Netanyahu Impeachment
+ - [https://www.gulf-insider.com/israels-knesset-held-meeting-to-mull-netanyahu-impeachment](https://www.gulf-insider.com/israels-knesset-held-meeting-to-mull-netanyahu-impeachment)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T11:54:33+00:00
+
+<p>Knesset members on Monday discussed the potential ousting of Israeli Prime Minister Benjamin Netanyahu once the war between Palestinian resistance factions and Tel Aviv comes to an end. Israel’s Channel 13 reports that ministers and members of the Knesset from Netanyahu&#8217;s own Likud party discussed impeaching the premier, saying that if he remains in the &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/israels-knesset-held-meeting-to-mull-netanyahu-impeachment/">Israel&#8217;s Knesset Held Meeting To Mull Netanyahu Impeachment</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## 5 Aircraft We’re Most Excited To See At The Dubai Airshow
+ - [https://www.gulf-insider.com/5-aircraft-were-most-excited-to-see-at-the-dubai-airshow](https://www.gulf-insider.com/5-aircraft-were-most-excited-to-see-at-the-dubai-airshow)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T08:47:38+00:00
+
+<p>Among the most prominent events on the aviation calendar is this week&#8217;s Dubai Airshow, which will demonstrate the future of aviation on the passenger, cargo, and executive fronts. While some carriers will display jets to show corporate cooperation and network expansion, manufacturers will display their newest products to demonstrate the future of their offerings. At the &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/5-aircraft-were-most-excited-to-see-at-the-dubai-airshow/">5 Aircraft We&#8217;re Most Excited To See At The Dubai Airshow</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## WHO Cleaned Up Ebola Rape Scandal With $250 Payoff For Congolese Victims: Documents
+ - [https://www.gulf-insider.com/who-cleaned-up-ebola-rape-scandal-with-250-payoff-for-congolese-victims-documents](https://www.gulf-insider.com/who-cleaned-up-ebola-rape-scandal-with-250-payoff-for-congolese-victims-documents)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T08:36:50+00:00
+
+<p>When the World Health Organisation went to the Congo between 2018 and 2020, nearly two-dozen workers for the UN agency preyed on more than 100 Congolese women, with dozens of staffers raping, sexually abusing, and otherwise harassing local women. One of the victims, identified in a UN report as &#8220;Jolianne,&#8221; was believed to be 13 &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/who-cleaned-up-ebola-rape-scandal-with-250-payoff-for-congolese-victims-documents/">WHO Cleaned Up Ebola Rape Scandal With $250 Payoff For Congolese Victims: Documents</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Ukraine’s Fate Will Be Decided In Coming Year, Top Zelensky Aide Admits
+ - [https://www.gulf-insider.com/ukraines-fate-will-be-decided-in-coming-year-top-zelensky-aide-admits](https://www.gulf-insider.com/ukraines-fate-will-be-decided-in-coming-year-top-zelensky-aide-admits)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T08:31:10+00:00
+
+<p>In surprisingly blunt words, a top aide to Ukrainian President&#160;Volodymyr Zelensky has warned that the coming year will essentially decide the fate of Ukraine and its war with Russia. &#8220;A turning point in the war is approaching,&#8221; Andrii Yermak, who serves as chief of staff for the Office of the President of Ukraine, said Monday. &#8220;The next year &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/ukraines-fate-will-be-decided-in-coming-year-top-zelensky-aide-admits/">Ukraine&#8217;s Fate Will Be Decided In Coming Year, Top Zelensky Aide Admits</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## At Least 4 More Attacks On US Forces Since Latest US Airstrikes In Syria
+ - [https://www.gulf-insider.com/at-least-4-more-attacks-on-us-forces-since-latest-us-airstrikes-in-syria](https://www.gulf-insider.com/at-least-4-more-attacks-on-us-forces-since-latest-us-airstrikes-in-syria)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T08:26:43+00:00
+
+<p>US troops based in Syria have come under attack at least four times since the latest US airstrikes in eastern Syria were launched on Sunday, Task &#38; Purpose reported on Monday. The Pentagon announced Sunday that it launched strikes against facilities &#8220;used by Iran’s Islamic Revolutionary Guard Corps (IRGC) and Iran-affiliated groups&#8221; in eastern Syria’s Deir Ezzor province. It marked &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/at-least-4-more-attacks-on-us-forces-since-latest-us-airstrikes-in-syria/">At Least 4 More Attacks On US Forces Since Latest US Airstrikes In Syria</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## China Launches World’s Fastest Internet, Years Ahead of Forecasts
+ - [https://www.gulf-insider.com/china-launches-worlds-fastest-internet-years-ahead-of-forecasts](https://www.gulf-insider.com/china-launches-worlds-fastest-internet-years-ahead-of-forecasts)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T07:55:11+00:00
+
+<p>China has beaten a global deadline, launching the world&#8217;s first next-generation internet service—more than 10 times faster than existing major routes—two years ahead of industry predictions. The backbone network—so called because it forms a principal data route between cities—can transmit data at 1.2 terabits (1,200 gigabits) per second between Beijing in the north, central China&#8217;s &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/china-launches-worlds-fastest-internet-years-ahead-of-forecasts/">China Launches World’s Fastest Internet, Years Ahead of Forecasts</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Netanyahu Tells Americans “You’re Next” if IDF Doesn’t Defeat Hamas “Barbarism”
+ - [https://www.gulf-insider.com/netanyahu-tells-americans-youre-next-if-idf-doesnt-defeat-hamas-barbarism](https://www.gulf-insider.com/netanyahu-tells-americans-youre-next-if-idf-doesnt-defeat-hamas-barbarism)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T07:51:12+00:00
+
+<p>Israel has been ramping up its global messaging campaign at a time when it faces increased isolation from Global South countries and growing criticism from large powers like China, Russia, and major Latin American countries such as Brazil. But there have been signs of dissent even within the Biden administration as well, with pushback especially &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/netanyahu-tells-americans-youre-next-if-idf-doesnt-defeat-hamas-barbarism/">Netanyahu Tells Americans &#8220;You&#8217;re Next&#8221; if IDF Doesn&#8217;t Defeat Hamas &#8220;Barbarism&#8221;</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Israeli Troops Storm Gaza’s Largest Hospital After Doctors Warn Of ‘Catastrophic Consequences’
+ - [https://www.gulf-insider.com/israeli-troops-storm-gazas-largest-hospital-after-doctors-warn-of-catastrophic-consequences](https://www.gulf-insider.com/israeli-troops-storm-gazas-largest-hospital-after-doctors-warn-of-catastrophic-consequences)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T07:20:18+00:00
+
+<p>In the overnight and early morning hours of Wednesday (local time), Israel&#8217;s military says it is moving against al-Shifa hospital, the Strip&#8217;s largest, while saying the assault &#8220;operation&#8221; is necessary to root out a Hamas command post there.&#160; Al Jazeera earlier reported that Israel announced the hospital would be raided in &#8220;minutes,&#8221; but the fate &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/israeli-troops-storm-gazas-largest-hospital-after-doctors-warn-of-catastrophic-consequences/">Israeli Troops Storm Gaza&#8217;s Largest Hospital After Doctors Warn Of &#8216;Catastrophic Consequences&#8217;</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Bahrain Hopes To Draw Asean Firms To Grow Digital Economy as It Opens EDB Office in Singapore
+ - [https://www.gulf-insider.com/bahrain-hopes-to-draw-asean-firms-to-grow-digital-economy-as-it-opens-edb-office-in-singapore](https://www.gulf-insider.com/bahrain-hopes-to-draw-asean-firms-to-grow-digital-economy-as-it-opens-edb-office-in-singapore)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T07:12:06+00:00
+
+<p>The Bahrain Economic Development Board (EDB) is opening an office in Singapore, marking the Gulf nation’s first foothold in Southeast Asia and broader ambitions in the region under its Economic Vision 2030 plan. Five priority sectors have been identified for collaboration as the kingdom focuses on diversifying its economy from one built on oil wealth &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/bahrain-hopes-to-draw-asean-firms-to-grow-digital-economy-as-it-opens-edb-office-in-singapore/">Bahrain Hopes To Draw Asean Firms To Grow Digital Economy as It Opens EDB Office in Singapore</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Emirati Conglomerate Edge Group Touts Gulf Region’s First Multidomain Military Test Island
+ - [https://www.gulf-insider.com/emirati-conglomerate-edge-group-touts-gulf-regions-first-multidomain-military-test-island](https://www.gulf-insider.com/emirati-conglomerate-edge-group-touts-gulf-regions-first-multidomain-military-test-island)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T06:43:18+00:00
+
+<p>The Emirati conglomerate Edge Group has established what it calls an international multidomain testing site for defence and aerospace systems, the first of its kind and size in the Gulf region, according to the company. Dubbed the X Range, the site is located on the 350-square-kilometer (135-square-mile) island of Abu Al Abyad, which is almost &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/emirati-conglomerate-edge-group-touts-gulf-regions-first-multidomain-military-test-island/">Emirati Conglomerate Edge Group Touts Gulf Region’s First Multidomain Military Test Island</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Kuwait Municipal Council Approves 500-Dinar Monthly Fee for Event Tents
+ - [https://www.gulf-insider.com/kuwait-municipal-council-approves-500-dinar-monthly-fee-for-event-tents](https://www.gulf-insider.com/kuwait-municipal-council-approves-500-dinar-monthly-fee-for-event-tents)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T06:32:00+00:00
+
+<p>The Legal and Financial Committee of the Municipal Council in Kuwait has given the green light to a proposal that introduces a monthly fee of 500 Dinars (about Dh5,945) for event tents. The proposal, presented by Deputy Council Chairman Khaled Al Mutairi, sought to amend certain provisions of the temporary event tent regulations. During a &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/kuwait-municipal-council-approves-500-dinar-monthly-fee-for-event-tents/">Kuwait Municipal Council Approves 500-Dinar Monthly Fee for Event Tents</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## 1962 Ferrari Auctioned for $51.7 Million in New York at Sotheby’s
+ - [https://www.gulf-insider.com/1962-ferrari-auctioned-for-51-7-million-in-new-york-at-sothebys](https://www.gulf-insider.com/1962-ferrari-auctioned-for-51-7-million-in-new-york-at-sothebys)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T06:30:32+00:00
+
+<p>A 1962 Ferrari 250 GTO sports car sold for $51.7 million in New York on Monday, making it the second most expensive car ever sold at auction, Sotheby&#8217;s said. The bright red roadster had been the property of an American collector for the past 38 years, and its auction price was surpassed only by that &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/1962-ferrari-auctioned-for-51-7-million-in-new-york-at-sothebys/">1962 Ferrari Auctioned for $51.7 Million in New York at Sotheby’s</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi Artist Obaid Alsafi Named Winner of MENA’s Largest Art Prize, Worth $500,000
+ - [https://www.gulf-insider.com/saudi-artist-obaid-alsafi-named-winner-of-menas-largest-art-prize-worth-500000](https://www.gulf-insider.com/saudi-artist-obaid-alsafi-named-winner-of-menas-largest-art-prize-worth-500000)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T06:23:13+00:00
+
+<p>The King Abdulaziz Centre for World Culture (Ithra) announced on Monday that Saudi artist Obaid Alsafi is the winner of the 6th edition of the Ithra Art Prize. Launched in 2017, the Ithra Art Prize is the largest art grant in the region, offering MENA artists the opportunity to be awarded $100,000 in addition to &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-artist-obaid-alsafi-named-winner-of-menas-largest-art-prize-worth-500000/">Saudi Artist Obaid Alsafi Named Winner of MENA’s Largest Art Prize, Worth $500,000</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## UAE: MoHRE Reminds Private Sector About December 31 Emiratisation Deadline
+ - [https://www.gulf-insider.com/uae-mohre-reminds-private-sector-about-december-31-emiratisation-deadline](https://www.gulf-insider.com/uae-mohre-reminds-private-sector-about-december-31-emiratisation-deadline)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T06:19:44+00:00
+
+<p>The Ministry of Human Resources and Emiratisation (MoHRE) has called on private sector firms employing 50 or more workers to expedite their efforts to meet Emiratisation targets for 2023 before December 31 to avoid facing penalties. These private sector establishments are also required to achieve a 2 percent annual growth rate in employing Emiratis for &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/uae-mohre-reminds-private-sector-about-december-31-emiratisation-deadline/">UAE: MoHRE Reminds Private Sector About December 31 Emiratisation Deadline</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Russia’s Largest Carrier Resumes Flights to Abu Dhabi
+ - [https://www.gulf-insider.com/russias-largest-carrier-resumes-flights-to-abu-dhabi](https://www.gulf-insider.com/russias-largest-carrier-resumes-flights-to-abu-dhabi)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T06:17:39+00:00
+
+<p>Russia’s largest airline, Aeroflot, has restarted regular flights from Sheremetyevo Airport to Abu Dhabi International Airport. An Abu Dhabi Airports spokesperson confirmed the news at&#160;the Dubai Air Show this week. The airline transported 20.5 million passengers (40.7 million passengers as Aeroflot Group, including subsidiaries) in 2022. The&#160;Russian carrier&#160;will operate four weekly flights on the narrow-body Boeing 737-800 to the &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/russias-largest-carrier-resumes-flights-to-abu-dhabi/">Russia’s Largest Carrier Resumes Flights to Abu Dhabi</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Cityscape Bahrain 2023 Extended Until Saturday
+ - [https://www.gulf-insider.com/cityscape-bahrain-2023-extended-until-saturday](https://www.gulf-insider.com/cityscape-bahrain-2023-extended-until-saturday)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T06:14:21+00:00
+
+<p>The second edition of Cityscape Bahrain 2023, held under the patronage of His Royal Highness Prince Salman bin Hamad Al Khalifa, the Crown Prince and Prime Minister, at Exhibition World Bahrain in Sakhir, has been extended to Saturday, November 18, at the request of visitors and real estate developers, Shaikh Salman bin Abdulla bin Hamad &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/cityscape-bahrain-2023-extended-until-saturday/">Cityscape Bahrain 2023 Extended Until Saturday</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi: World’s Largest Lights Festival Returns to Riyadh
+ - [https://www.gulf-insider.com/saudi-worlds-largest-lights-festival-returns-to-riyadh](https://www.gulf-insider.com/saudi-worlds-largest-lights-festival-returns-to-riyadh)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T06:12:26+00:00
+
+<p>Noor Riyadh, the largest global festival of light and art, returns to illuminate the Saudi capital on November 30 following the resounding success of its previous two editions. An initiative under Riyadh Art, it will host over 120 artworks by 100 artists from around the world, showcasing diverse practises and backgrounds such as performance art, &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-worlds-largest-lights-festival-returns-to-riyadh/">Saudi: World’s Largest Lights Festival Returns to Riyadh</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi Authorities Seize Drugs in Baha, Jazan
+ - [https://www.gulf-insider.com/saudi-authorities-seize-drugs-in-baha-jazan](https://www.gulf-insider.com/saudi-authorities-seize-drugs-in-baha-jazan)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T06:10:43+00:00
+
+<p>On Monday, officers from the Saudi General Directorate of Narcotics Control seized 15,000 amphetamines and prescription drugs during separate operations in Baha and Jazan. Authorities arrested an Ethiopian for allegedly attempting to distribute 3,012 prescription pills in Jazan, while two citizens were held in Baha on suspicion of trying to sell 12,392 amphetamine pills. The &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-authorities-seize-drugs-in-baha-jazan/">Saudi Authorities Seize Drugs in Baha, Jazan</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi: NEOM Partners With Burgess To Offer Luxury Yachting
+ - [https://www.gulf-insider.com/saudi-neom-partners-with-burgess-to-offer-luxury-yachting](https://www.gulf-insider.com/saudi-neom-partners-with-burgess-to-offer-luxury-yachting)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T03:35:58+00:00
+
+<p>NEOM has announced a partnership with global superyacht provider Burgess to offer services to Sindalah’s yachting clientele. Ahead of the island’s opening in 2024, the agreement supports NEOM’s vision of Sindalah becoming a global yachting destination and offers guests a comprehensive range of services catering to their yachting needs. Located off the coast of NEOM &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-neom-partners-with-burgess-to-offer-luxury-yachting/">Saudi: NEOM Partners With Burgess To Offer Luxury Yachting</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Sharjah Real Estate Attracts Investors With 80% Monthly Growth
+ - [https://www.gulf-insider.com/sharjah-real-estate-attracts-investors-with-80-monthly-growth](https://www.gulf-insider.com/sharjah-real-estate-attracts-investors-with-80-monthly-growth)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T03:31:53+00:00
+
+<p>Sharjah recorded an 80 per cent increase in monthly transactions as it recorded almost a billion dollars of deals in October, according to official figures. The Sharjah real estate sector witnessed significant growth in October 2023, as reported by the Sharjah Real Estate Registration Department. A total of 3,798 transactions were conducted across various regions &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/sharjah-real-estate-attracts-investors-with-80-monthly-growth/">Sharjah Real Estate Attracts Investors With 80% Monthly Growth</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Oman: Group of Expats Arrested for Gambling in Muscat
+ - [https://www.gulf-insider.com/oman-group-of-expats-arrested-for-gambling-in-muscat](https://www.gulf-insider.com/oman-group-of-expats-arrested-for-gambling-in-muscat)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T02:47:00+00:00
+
+<p>The Royal Oman Police (ROP), has arrested 15 expatriates for gambling in the Wilayat of Seeb, Muscat Governorate. A statement issued online by ROP said, &#8220;The Muscat Governorate Police Command arrested fifteen people of Asian nationality on charges of playing gambling games in the Wilayat of Seeb. The legal procedures were completed against them.&#8221;</p>
+<p>The post <a href="https://www.gulf-insider.com/oman-group-of-expats-arrested-for-gambling-in-muscat/">Oman: Group of Expats Arrested for Gambling in Muscat</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Oman: Violators Arrested for Hunting Arabian Gazelle
+ - [https://www.gulf-insider.com/oman-violators-arrested-for-hunting-arabian-gazelle](https://www.gulf-insider.com/oman-violators-arrested-for-hunting-arabian-gazelle)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T02:29:00+00:00
+
+<p>Several people were arrested for hunting the Arabian gazelle in Muscat Governorate, said the Environment Authority (EA) on Tuesday, November 14, 2023. The Authority said in a statement, &#8220;The Environment Authority, in cooperation with the Royal Oman Police, was able to arrest a number of wildlife violators while they were hunting 5 heads of Arabian &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/oman-violators-arrested-for-hunting-arabian-gazelle/">Oman: Violators Arrested for Hunting Arabian Gazelle</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi: Red Alert Issued in Jeddah and 5 Other Governorates of Makkah
+ - [https://www.gulf-insider.com/saudi-red-alert-issued-in-jeddah-and-5-other-governorates-of-makkah](https://www.gulf-insider.com/saudi-red-alert-issued-in-jeddah-and-5-other-governorates-of-makkah)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T02:12:00+00:00
+
+<p>The National Center of Meteorology (NCM) announced that it has raised the weather warning level in the Makkah city, Jeddah and five other governorates in the Makkah region to red alert, until 1:00 pm on Wednesday. These governorates include Rabigh, Khulais, Al-Kamil, Al-Jamoum, and Bahra. According to the NCM forecast, heavy rains, accompanied by high-speed &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-red-alert-issued-in-jeddah-and-5-other-governorates-of-makkah/">Saudi: Red Alert Issued in Jeddah and 5 Other Governorates of Makkah</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi: 55 Years in Prison for a National and 2 Expats Convicted of Drug Trafficking
+ - [https://www.gulf-insider.com/saudi-55-years-in-prison-for-a-national-and-2-expats-convicted-of-drug-trafficking](https://www.gulf-insider.com/saudi-55-years-in-prison-for-a-national-and-2-expats-convicted-of-drug-trafficking)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T01:49:00+00:00
+
+<p>A Saudi court sentenced one Saudi citizen and two Arab nationals to a total of 55 years in prison after their conviction of drug trafficking. One of the convicts was imprisoned for a period of 25 years while two others were sentenced to 15 years each, according to the Public Prosecution. The court also slapped &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-55-years-in-prison-for-a-national-and-2-expats-convicted-of-drug-trafficking/">Saudi: 55 Years in Prison for a National and 2 Expats Convicted of Drug Trafficking</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Former Foreign Minister Urges Iran Not To Get Lured Into War With Israel
+ - [https://www.gulf-insider.com/former-foreign-minister-urges-iran-not-to-get-lured-into-war-with-israel](https://www.gulf-insider.com/former-foreign-minister-urges-iran-not-to-get-lured-into-war-with-israel)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T01:32:00+00:00
+
+<p>The former Iranian foreign minister Mohammad Javad Zarif is urging his country not to become embroiled in a direct war with Israel or the US. The best way to defend the Palestinian people was to avoid giving the West a reason to claim they are acting as a proxy of Iran, Zarif said, adding that &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/former-foreign-minister-urges-iran-not-to-get-lured-into-war-with-israel/">Former Foreign Minister Urges Iran Not To Get Lured Into War With Israel</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## OPEC Oil Production Inches Up in October, Sees “Healthy” Demand in US and China
+ - [https://www.gulf-insider.com/opec-oil-production-inches-up-in-october-sees-healthy-demand-in-us-and-china](https://www.gulf-insider.com/opec-oil-production-inches-up-in-october-sees-healthy-demand-in-us-and-china)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T01:12:00+00:00
+
+<p>OPEC’s crude oil production rose in October by 80,000 barrels per day (bpd) compared to September, but the output at the countries bound by the OPEC+ pact continued to be well below the levels agreed, OPEC said on Monday. Total production from all 13 OPEC members averaged 27.90 million bpd in October 2023, up by &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/opec-oil-production-inches-up-in-october-sees-healthy-demand-in-us-and-china/">OPEC Oil Production Inches Up in October, Sees “Healthy” Demand in US and China</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Boeing Expands Missile Factory To Support America’s Middle East Wars
+ - [https://www.gulf-insider.com/boeing-expands-missile-factory-to-support-americas-middle-east-wars](https://www.gulf-insider.com/boeing-expands-missile-factory-to-support-americas-middle-east-wars)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2023-11-15T00:53:00+00:00
+
+<p>Three weeks following the announcement by the US military to deploy additional missile defence systems across the Middle East amidst soaring fears that the Israel-Hamas war could spill over into a regional war with Iran, Boeing Co. released a statement Monday that it has started to expand its missile factory in Huntsville, Alabama. Let&#8217;s begin &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/boeing-expands-missile-factory-to-support-americas-middle-east-wars/">Boeing Expands Missile Factory To Support America’s Middle East Wars</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+

@@ -1,0 +1,37 @@
+# Source:Friday Checkout, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCRG_N2uO405WO4P3Ruef9NA, language:en-US
+
+## Apple did it!!!
+ - [https://www.youtube.com/watch?v=8R-D-xsFK7E](https://www.youtube.com/watch?v=8R-D-xsFK7E)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCRG_N2uO405WO4P3Ruef9NA
+ - date published: 2023-11-17T15:58:37+00:00
+
+Visit https://brilliant.org/TFC/ to get started learning STEM with a 30 day free trial, and the first 200 people will get 20% off their annual premium subscription - Sponsored by Brilliant.
+
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  
+ 
+►►► This video ◄◄◄  
+
+This week Apple embraced RCS in to make green bubbles less painful on iMessage, Xiaomi released its first car, Polestar had its phone leaked, Google's own witness blurted out secret payment percentages in court and Microsoft finally decided to retire the Bing brand for AI, going with Copilot instead.
+
+Episode 173
+ 
+My video about phone makers making cars: https://www.youtube.com/watch?v=E0PWmj9ovtw
+
+This video on Nebula: https://nebula.tv/videos/tfc-apple-did-it
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+►►► TechAltar links ◄◄◄  
+ 
+Social media:  
+https://mas.to/@techaltar
+https://bsky.app/profile/techaltar.bsky.social
+https://instagram.com/TechAltar 
+https://discord.gg/npKQebe  
+ 
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ 
+►►► Attributions & Time stamps◄◄◄
+
+Writing & Research
+

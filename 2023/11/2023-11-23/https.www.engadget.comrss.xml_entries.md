@@ -1,0 +1,138 @@
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
+
+## The 7 best Black Friday streaming deals for 2023
+ - [https://www.engadget.com/the-7-best-black-friday-streaming-deals-for-2023-230004194.html?src=rss](https://www.engadget.com/the-7-best-black-friday-streaming-deals-for-2023-230004194.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T23:00:04+00:00
+
+<p>With all of the price hikes streaming services <a href="https://www.engadget.com/apple-tv-prices-have-doubled-in-just-over-a-year-150156333.html">have</a> <a href="https://www.engadget.com/disney-is-raising-prices-and-cracking-down-on-account-sharing-001637934.html">undergone</a> <a href="https://www.engadget.com/netflix-jacks-price-of-its-premium-plan-up-to-23-a-month-201116571.html">lately</a>, Engadget recently asked whether streaming was <a href="https://www.engadget.com/is-streaming-video-even-still-worth-it-192651141.html">still worth it</a>. Ultimately our answer is yes, but we can't help but notice how much more expensive these services are now than they once were. But Black Friday deals this year have discounted a number of the top streaming services available, which means you can save a decent amount of money on the monthly (and sometimes yearly) cost of access. Max, Hulu and Peacock are just a few of the services with Black Friday promotions going on right now, with sav
+
+## Google Black Friday deals: The Pixel 7a is 25 percent off and cheaper than ever
+ - [https://www.engadget.com/google-black-friday-deals-the-pixel-7a-is-25-percent-off-and-cheaper-than-ever-223006599.html?src=rss](https://www.engadget.com/google-black-friday-deals-the-pixel-7a-is-25-percent-off-and-cheaper-than-ever-223006599.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T22:30:06+00:00
+
+<p>Ahead of the official start of Black Friday, Amazon has discounted the <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwQlo5UjQ3UEM_dGFnPWdkZ3QwYy1wLW8tNTNvLTIwIiwiY29udGVudFV1aWQiOiJjMGE1ZTBjYS1lOGE2LTRmYzUtYmVhMS04YmU0ZWMxYjNmYWUifQ&amp;signature=AQAAAabDSnPQ8ZqEXLF7C5mBoOiHPuaniA1Zwi3MHmn68Wbq&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZ9R47PC"><ins>Pixel 7a</ins></a> to $374. That’s a 25 percent reduction from the $499 Google released the 7a earlier this year, and a return to the handset’s previous all-time low price. Moreover, all three colorways — snow, charcoal and aea — are included in the promotion, and in stock as of the writing of this article.</p>
+<p>At $499, the Pixel 7a was <a href="
+
+## Dbrand is suing Casetify for allegedly stealing its case and skin designs
+ - [https://www.engadget.com/dbrand-is-suing-casetify-for-allegedly-stealing-its-case-and-skin-designs-221012321.html?src=rss](https://www.engadget.com/dbrand-is-suing-casetify-for-allegedly-stealing-its-case-and-skin-designs-221012321.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T22:10:12+00:00
+
+<p>Accessory maker <a href="https://www.engadget.com/tag/dbrand/"><ins>Dbrand</ins></a> has filed a &quot;multi-million dollar&quot; lawsuit against <a href="https://www.engadget.com/tag/casetify/"><ins>Casetify</ins></a> for allegedly ripping off the designs of its &quot;transparent&quot; Teardown products. The skins and cases, created in collaboration with YouTuber Zack &quot;JerryRigEverything&quot; Nelson, are designed to look like the guts of the device they're applied to, such as smartphones, laptops and gaming systems. Dbrand and Nelson say Casetify stole those designs for its &quot;Inside Out&quot; line.</p>
+<p>According to Nelson, he and Dbrand &quot;go to extreme lengths to ensure that every Teardown skin is an accurate representation&quot; of the inside of each device. However, in <a href="https://www.youtube.com/watch?v=byfWscC87Vg"><ins>a video</ins></a> and <a href="https://twitter.com/dbrand/status/1727721586856222893"><ins>thread on X</ins></a> (formerly Twitter), the
+
+## The 4K Chromecast with Google TV drops to a new low of $38 for Black Friday
+ - [https://www.engadget.com/the-4k-chromecast-with-google-tv-drops-to-a-new-low-of-38-for-black-friday-213041691.html?src=rss](https://www.engadget.com/the-4k-chromecast-with-google-tv-drops-to-a-new-low-of-38-for-black-friday-213041691.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T21:30:41+00:00
+
+<p>The Google Chromecast with Google TV 4K streaming stick <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0dvb2dsZS1OZXN0LUdBMDE5MTktR0EwMTkxOS1VUy1DaHJvbWVjYXN0L2RwL0IwOEtSVjdTMjIvP3RhZz1nZGd0MGMtcC1vLTUzbS0yMCIsImNvbnRlbnRVdWlkIjoiNDJiYjU1MGUtYmYwYi00ODYzLTlmYTUtZDRhMjUwYjdmY2JiIn0&amp;signature=AQAAAYvRiEdZceJUl-qNcmzzG-eBFsHV0ZE6OuZcl1xDFh_5&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FGoogle-Nest-GA01919-GA01919-US-Chromecast%2Fdp%2FB08KRV7S22%2F">has dropped to a record low price</a> of $38 as part of a larger Black Friday deal on Amazon. That’s 24 percent off the MSRP of $50. This is the latest and greatest Chromecast stick and, as the name suggests, can be used to watch live TV with resolutions up to 4K HDR
+
+## The 52 best Black Friday 2023 tech deals you can shop right now
+ - [https://www.engadget.com/the-52-best-black-friday-2023-tech-deals-you-can-shop-right-now-210015830.html?src=rss](https://www.engadget.com/the-52-best-black-friday-2023-tech-deals-you-can-shop-right-now-210015830.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T21:00:15+00:00
+
+<p>We've still got a few hours before Black Friday begins in earnest, but the deals are already here. Really, Black Friday deals have been here for the entire month of November. As has been the case for a few years in a row, most retailers including <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2JsYWNrZnJpZGF5P3RhZz1nZGd0MGMtcC1vLTUzOC0yMCIsImNvbnRlbnRVdWlkIjoiMWFjMTgzZWQtYzc5OS00ODk3LTk3YmItNDc2NGNiOGZhOWNlIn0&amp;signature=AQAAAWg9cqGwIhm2CCH1hBUA3x2qxylkSpBJJyIc2DnDRumu&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fblackfriday">Amazon</a>, <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=827d7835-78d6-4491-ae04-c042cab1d6e7&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId
+
+## Formula 1 hopes AI will help it figure out if a car breaks track limits
+ - [https://www.engadget.com/formula-1-hopes-ai-will-help-it-figure-out-if-a-car-breaks-track-limits-191546853.html?src=rss](https://www.engadget.com/formula-1-hopes-ai-will-help-it-figure-out-if-a-car-breaks-track-limits-191546853.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T19:15:46+00:00
+
+<p>The margin of success in <a href="https://www.engadget.com/tag/formula-1/"><ins>Formula 1</ins></a> often comes down to tiny measurements of time and distance. Drivers know the exact lines to take at corners for optimal lap times. Sometimes, though, racers will go out of bounds as they try to gain an advantage. To help officials check whether a car's wheels entirely cross the white boundary line, F1 will test an AI system.</p>
+<p>The Fédération Internationale de l'Automobile (FIA), the motorsport's governing body, <a href="https://www.fia.com/news/fia-insights-computer-vision"><ins>says</ins></a> it will employ Computer Vision tech at the season-closing Abu Dhabi Grand Prix this weekend. This approach uses shape analysis to determine the number of pixels that cross the line at the edge of the track.</p>
+<span id="end-legacy-contents"></span><p>The FIA doesn't plan to fully automate reviews of track limits breaches for the time being. Rather, it wants to significantly reduce the nu
+
+## Killer Instinct is going free-to-play on Xbox and Steam
+ - [https://www.engadget.com/killer-instinct-is-going-free-to-play-on-xbox-and-steam-180043575.html?src=rss](https://www.engadget.com/killer-instinct-is-going-free-to-play-on-xbox-and-steam-180043575.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T18:00:43+00:00
+
+<p>It's been 10 years since the <a href="https://www.engadget.com/2013-06-10-killer-instinct-exclusive-xbox-one.html"><em><ins>Killer Instinct</ins></em><ins> reboot</ins></a> debuted as an Xbox One exclusive, and soon you won't need to pay anything to try to nail a combo breaker. The third installment in the fighting game series is <a class="no-affiliate-link" href="https://www.eurogamer.net/killer-instinct-getting-a-new-anniversary-edition-as-base-game-goes-free-to-play"><ins>going free-to-play</ins></a>. This base version of the game will include one free weekly rotating fighter and access to the single-player, local and ranked modes. You'll be able to check it out on all platforms where <em>Killer Instinct</em> is available: Xbox Series X/S, Xbox One and PC.</p>
+<p>Developer Iron Galaxy <a class="no-affiliate-link" href="https://www.ultra-combo.com/ki-10th-anniversary/">also revealed</a> that players will be able to buy the <em>Killer Instinct </em>Anniversary Edition for $30. Th
+
+## UE5 project reimagines Zelda: Ocarina of Time in the style of Studio Ghibli
+ - [https://www.engadget.com/ue5-project-reimagines-zelda-ocarina-of-time-in-the-style-of-studio-ghibli-173030994.html?src=rss](https://www.engadget.com/ue5-project-reimagines-zelda-ocarina-of-time-in-the-style-of-studio-ghibli-173030994.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T17:30:30+00:00
+
+<p>A YouTuber named RwanLink recreated Castle Town from <em>The Legend of Zelda: Ocarina of Time</em> as a Studio Ghibli film and <a href="https://www.youtube.com/watch?v=meXBzTyaFeg&amp;source_ve_path=MjM4NTE&amp;feature=emb_title"><ins>released a digital short</ins></a> to show off their efforts. This is to celebrate the game’s 25th anniversary and the YouTuber made the environment and characters in Unreal Engine 5, putting in over 600 hours of work to complete the project. It was a one person job, aside from the music, <a href="https://www.eurogamer.net/fan-recreates-the-legend-of-zelda-as-a-studio-ghibli-film">as reported by <em>Eurogamer. </em></a></p>
+<p>It’s got a gorgeous opening cinematic in the style of, you guessed it, Studio Ghibli, which is followed up by gameplay in Castle Town. The gameplay recalls <em>Wind Waker,</em> obviously, and even newer cel-shaded Zelda titles like <em>Tears of the Kingdom</em> and <em>Breath of the Wild</em>. There are Gorons, Gerudo, Hylians 
+
+## Audible Premium Plus is only $6 for the first four months in an Amazon Black Friday deal
+ - [https://www.engadget.com/audible-premium-plus-is-only-6-for-the-first-four-months-in-an-amazon-black-friday-deal-160016758.html?src=rss](https://www.engadget.com/audible-premium-plus-is-only-6-for-the-first-four-months-in-an-amazon-black-friday-deal-160016758.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T17:00:16+00:00
+
+<p>Nearly 30 years after Amazon started as an online bookseller, products like the Kindle and services like <a href="https://www.engadget.com/audible-is-now-testing-ads-in-your-audiobooks-for-some-reason-185337088.html">Audible</a> have kept quite an emphasis on reading. Now, in the lead-up to <a href="https://www.engadget.com/these-are-the-10-best-amazon-black-friday-deals-on-kindles-five-tv-devices-and-echos-that-you-can-get-right-now-153025921.html">Black Friday</a> (which Amazon also <em>really</em> focuses on), the company is running a <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2h6L2F1ZGlibGUvbWxwL21lbWJlcnNoaXAvcHJlbWl1bXBsdXMvbW9udGhseT90YWc9Z2RndDBjLXAtby01MzItMjAiLCJjb250ZW50VXVpZCI6ImE2MjMxNzM4LTkxNjMt
+
+## Apple Black Friday deals: The second-gen Apple Pencil drops to a new low of $82
+ - [https://www.engadget.com/apple-black-friday-deals-the-second-gen-apple-pencil-drops-to-a-new-low-of-82-160056239.html?src=rss](https://www.engadget.com/apple-black-friday-deals-the-second-gen-apple-pencil-drops-to-a-new-low-of-82-160056239.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T16:00:56+00:00
+
+<p>With Black Friday deals popping up all over the place for the last week or so, perhaps you've already treated yourself or a loved one to <a href="https://www.engadget.com/the-10th-gen-apple-ipad-is-at-its-lowest-price-ever-in-an-amazon-black-friday-deal-160553943.html"><ins>a new iPad</ins></a>. It may be that you (or the recipient) is someone who would like to sketch or take notes on the tablet. As such, you may be looking to pick up an <a href="https://www.engadget.com/tag/apple-pencil/"><ins>Apple Pencil</ins></a>. There's some good news in that case — all three Apple Pencil models are on sale on Amazon for Black Friday.</p>
+<p>Of the trio, the second-gen Apple Pencil has the widest array of features. That model has dropped to <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0
+
+## Amazon's Kindle Paperwhite drops to $120 for Black Friday
+ - [https://www.engadget.com/amazons-kindle-paperwhite-drops-to-120-for-black-friday-140004428.html?src=rss](https://www.engadget.com/amazons-kindle-paperwhite-drops-to-120-for-black-friday-140004428.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T15:00:04+00:00
+
+<p>Ereaders like the <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwOEtUWjgyNDk_dGFnPWdkZ3QwYy1wLW8tNHp0LTIwIiwiY29udGVudFV1aWQiOiI1ZDM0NDU2OC05MzQ0LTRlMDUtYjI1ZS04OGY4Yjc2ODFlNjEifQ&amp;signature=AQAAAUsyLxGDZIIpARft0eD-m-yQ1LGq8LVsavAhOOO-GC9o&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08KTZ8249">Kindle Paperwhite</a> make great gifts — especially when they're on sale. The Paperwhite adds a few perks over the standard Kindle, including a warm backlight, a waterproof build and a larger screen. As part of Amazon's Black Friday sale, it's now $20 off the list price, bringing it down to $120. This is the 8GB model with lockscreen ads, which usually promote Kindle books.</p>
+<p></p>
+<p>Other Amazon erea
+
+## Seagate's Xbox Series S/X Expansion cards are at record-lows in an Amazon Black Friday deal
+ - [https://www.engadget.com/seagates-xbox-series-sx-expansion-cards-are-at-record-lows-in-an-amazon-black-friday-deal-143020416.html?src=rss](https://www.engadget.com/seagates-xbox-series-sx-expansion-cards-are-at-record-lows-in-an-amazon-black-friday-deal-143020416.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T14:30:20+00:00
+
+<p>All those extra Xbox games you'll collect during <a href="https://www.engadget.com/nintendo-black-friday-deals-get-a-new-switch-oled-bundle-and-a-bunch-of-discounted-games-155016053.html">Black Friday sales</a> and over the coming holiday season will need a lot of storage. Black Friday is also a great time to pick up SSDs, with <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL1NlYWdhdGUtU3RvcmFnZS1FeHBhbnNpb24tU29saWQtU3RhdGUvZHAvQjA4SzNTNldKTS8_dGFnPWdkZ3QwYy1wLW8tNTM2LTIwIiwiY29udGVudFV1aWQiOiJkOTAxNjk3OS01ZTc3LTRiZmItYWY1Zi1iZGM3NzQ3ZWQ5YmUifQ&amp;signature=AQAAASyPm5wu7zeKWn38YLSWE9DOJUlCN_Gji_1RJZPcApAZ&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FSeagate-Storage-Expansion-Solid-State%2Fdp%2FB08K3S6WJM%2F">Se
+
+## The Beats Fit Pro drop to a record low of $159 in an Amazon Black Friday deal
+ - [https://www.engadget.com/the-beats-fit-pro-drop-to-a-record-low-of-159-in-an-amazon-black-friday-deal-140037127.html?src=rss](https://www.engadget.com/the-beats-fit-pro-drop-to-a-record-low-of-159-in-an-amazon-black-friday-deal-140037127.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T13:30:37+00:00
+
+<p>The Beats Fit Pro, which Engadget named as the <a href="https://www.engadget.com/best-wireless-earbuds-120058222.html">best wireless earbuds</a> for working out, are on sale this Black Friday on Amazon for $159. The $41 discount is the lowest offered to date.</p>
+<p></p>
+<p>If you want to eliminate distractions at loud gyms the Beats Fit Pro have solid active noise cancellation technology, thanks to Apple's H1 chip. The earbuds also have a built-in proprietary transducer that adds depth to the overall audio experience. The buds support Apple's spatial audio technology, which can deliver a more immersive experience when streaming entertainment or listening to music on a commute. For what you're paying, the Beats Fit Pro deliver <a href="https://www.engadget.com/beats-fit-pro-review-140004462.html">ample bass and clear tones</a>.</p>
+<span id="end-legacy-contents"></span><p>Battery life is another strong suit. With up to six hours of use on a single charge, and an additional 21 hour
+
+## The Morning After: Google's Bard AI is getting better at understanding YouTube
+ - [https://www.engadget.com/the-morning-after-googles-bard-ai-is-getting-better-at-understanding-youtube-121547943.html?src=rss](https://www.engadget.com/the-morning-after-googles-bard-ai-is-getting-better-at-understanding-youtube-121547943.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T12:15:47+00:00
+
+<p>Google has updated its Bard AI chatbot, so you can use it to <a href="https://www.engadget.com/googles-bard-ai-chatbot-is-getting-better-at-understanding-youtube-videos-065614540.html">parse YouTube videos</a>. In its most recent experiment update log, the company has announced it has expanded the capabilities of Bard’s YouTube extension, so when it’s enabled, the generative AI can “understand some video content.” For example, Google said you’d be able to ask Bard how many eggs were used in a video for an olive oil cake recipe.</p>
+<p>Bard first gained the ability to pull data from YouTube in September after an update integrated it with other Google products, including Docs, Maps, Lens, Flights and Hotels. At that point, it couldn’t parse a video’s contents though.</p>
+<p>Google claims people have been asking for “deeper engagement with YouTube videos” — but I guess that entails watching them less.</p>
+<p>And Happy Thanksgiving, all! It’s a short, but sweet TMA today, but expect a
+
+## Instagram makes public Reels downloadable for everyone
+ - [https://www.engadget.com/instagram-makes-public-reels-downloadable-for-everyone-120638475.html?src=rss](https://www.engadget.com/instagram-makes-public-reels-downloadable-for-everyone-120638475.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T12:06:38+00:00
+
+<p>Instagram launched the ability to <a href="https://www.engadget.com/instagram-finally-lets-users-download-reels-093425845.html?_fsig=BlOTIBcYEQJtdtYBuNNh4Q--%7EA">download publicly viewable Reels</a> in June, but it limited the feature's availability to users on mobile in the US. Now, Instagram head Adam Mosseri has announced on his broadcast channel that the feature is rolling out to all users worldwide. Anybody on the app can now download public Reels to their devices and not just save them for viewing later. They simply have to tap on the Share button and start their download from there.&nbsp;</p>
+<p>As <a href="https://techcrunch.com/2023/11/22/instagram-now-allows-anyone-to-download-public-reels/?guccounter=1v"><em>TechCrunch</em></a> reports, Mosseri explained during his broadcast that downloaded Reels will have the Instagram watermark with the account's username, similar to downloaded TikTok videos. In addition, Reels will only come with music if they're scored with origina
+
+## Broadcom closes its $61 billion megadeal with VMware
+ - [https://www.engadget.com/broadcom-closes-its-61-billion-megadeal-with-vmware-083915996.html?src=rss](https://www.engadget.com/broadcom-closes-its-61-billion-megadeal-with-vmware-083915996.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T08:39:15+00:00
+
+<p>Broadcom's mega $61 billion VMware acquisition has closed following <a href="https://www.engadget.com/eu-investigating-broadcoms-61-billion-deal-buy-v-mware-234418707.html">considerable scrutiny</a> by regulators, the company announced in a <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=491d7b6c-b31a-4f14-9c70-961b844fb8c4&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Broadcom&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5icm9hZGNvbS5jb20vY29tcGFueS9uZXdzL2ZpbmFuY2lhbC1yZWxlYXNlcy82MTUzNiIsImNvbnRlbnRVdWlkIjoiZGFkNzBjZmQtYTdhNS00YjI2LWI3OTMtNTVhNDBjMWYyMTk0In0&amp;signature=AQAAAeMQ2u7DscbO9ayu7bD1X0jUueONM1J5iNHmouVQL4F_&amp;gcReferrer=https%3A%2F%2Fwww.broadcom.com%2Fcompany%2Fnews%2Ffinancial-releases%2F61536">press release</a>. With China recently granting approval for the acquisition with added restrictions, the network chip manufacturer had secured all t
+
+## Google's Bard AI chatbot is getting better at understanding YouTube videos
+ - [https://www.engadget.com/googles-bard-ai-chatbot-is-getting-better-at-understanding-youtube-videos-065614540.html?src=rss](https://www.engadget.com/googles-bard-ai-chatbot-is-getting-better-at-understanding-youtube-videos-065614540.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-23T06:56:14+00:00
+
+<p>Google has updated the Bard AI chatbot so you can have deeper and more meaningful conversations with it when it comes to YouTube videos. In its most recent experiment <a href="https://bard.google.com/updates">update log</a>, the company has announced that it has expanded the capabilities of Bard's YouTube extension so that when it's enabled, the generative AI can &quot;understand some video content.&quot; For example, Google said you'd be able to ask Bard how many eggs were used in a video for an olive oil cake recipe. As <a href="https://www.androidauthority.com/google-bard-youtube-understanding-3388018/"><em>Android Authority</em></a> suggested, you'll also likely be able to ask it for the name of specific tools in DIY videos. For food reviews, Bard may be able to tell you where certain restaurants discussed in videos are located, or where a specific cuisine came from.&nbsp;</p>
+<p>Bard first gained the ability to pull data from YouTube in September after an update that <a href=
+

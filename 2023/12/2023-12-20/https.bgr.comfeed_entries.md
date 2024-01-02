@@ -1,0 +1,202 @@
+# Source:BGR, URL:https://bgr.com/feed, language:en-US
+
+## Star Wars release dates: Every announced movie and TV show
+ - [https://bgr.com/entertainment/star-wars-release-dates-every-announced-movie-and-tv-show](https://bgr.com/entertainment/star-wars-release-dates-every-announced-movie-and-tv-show)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T23:15:00+00:00
+
+<p>When the Star Wars sequel trilogy concluded in 2019 with The Rise of Skywalker, the future of the franchise looked murky. After releasing five Star &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/star-wars-release-dates-every-announced-movie-and-tv-show/">Star Wars release dates: Every announced movie and TV show</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Four new iPhone models referenced in early iOS 18 code
+ - [https://bgr.com/tech/four-new-iphone-models-referenced-in-early-ios-18-code](https://bgr.com/tech/four-new-iphone-models-referenced-in-early-ios-18-code)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T22:56:08+00:00
+
+<p>Yes, new iPhones are coming in 2024. According to MacRumors, early development versions of the iOS 18 operating system contain references to four new iPhone &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/four-new-iphone-models-referenced-in-early-ios-18-code/">Four new iPhone models referenced in early iOS 18 code</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## The Regime: HBO’s upcoming political satire starring Kate Winslet releases its first trailer
+ - [https://bgr.com/entertainment/the-regime-hbos-upcoming-political-satire-starring-kate-winslet-releases-its-first-trailer](https://bgr.com/entertainment/the-regime-hbos-upcoming-political-satire-starring-kate-winslet-releases-its-first-trailer)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T22:22:00+00:00
+
+<p>If the upcoming HBO political satire The Regime, starring Kate Winslet as the chancellor of a fictional European autocracy, had gone to any other streaming &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/the-regime-hbos-upcoming-political-satire-starring-kate-winslet-releases-its-first-trailer/">The Regime: HBO&#8217;s upcoming political satire starring Kate Winslet releases its first trailer</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## UK Supreme Court rules AI can’t be credited as an inventor
+ - [https://bgr.com/tech/uk-supreme-court-rules-ai-cant-be-credited-as-an-inventor](https://bgr.com/tech/uk-supreme-court-rules-ai-cant-be-credited-as-an-inventor)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T21:29:00+00:00
+
+<p>After a year of generative AI taking the world by storm, it&#8217;s clear artificial intelligence is here for good and will change the way we &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/uk-supreme-court-rules-ai-cant-be-credited-as-an-inventor/">UK Supreme Court rules AI can&#8217;t be credited as an inventor</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Nomad reveals Qi2 version of the Stand that charges the iPhone at 15W without MagSafe
+ - [https://bgr.com/tech/nomad-reveals-qi2-version-of-the-stand-that-charges-the-iphone-at-15w-without-magsafe](https://bgr.com/tech/nomad-reveals-qi2-version-of-the-stand-that-charges-the-iphone-at-15w-without-magsafe)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T21:15:55+00:00
+
+<p>Move over, MagSafe. Qi2 charging is here, and we don&#8217;t need you anymore. That&#8217;s the promise of the new wireless charging standard, anyway, and popular &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/nomad-reveals-qi2-version-of-the-stand-that-charges-the-iphone-at-15w-without-magsafe/">Nomad reveals Qi2 version of the Stand that charges the iPhone at 15W without MagSafe</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## NASA telescope captures photo of ‘Christmas Tree Cluster’ just in time for the holidays
+ - [https://bgr.com/science/nasa-telescope-captures-photo-of-christmas-tree-cluster-just-in-time-for-the-holidays](https://bgr.com/science/nasa-telescope-captures-photo-of-christmas-tree-cluster-just-in-time-for-the-holidays)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T20:36:00+00:00
+
+<p>Even the stars celebrate the holiday season. A new image of NGC 2264, also known as the Christmas Tree Cluster, has been released by NASA, &#8230;</p>
+<p>The post <a href="https://bgr.com/science/nasa-telescope-captures-photo-of-christmas-tree-cluster-just-in-time-for-the-holidays/">NASA telescope captures photo of &#8216;Christmas Tree Cluster&#8217; just in time for the holidays</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## I’ve never made music, but Microsoft Copilot AI can write me a masterpiece
+ - [https://bgr.com/tech/i-never-wanted-to-make-music-but-microsoft-copilot-ai-could-help-with-that](https://bgr.com/tech/i-never-wanted-to-make-music-but-microsoft-copilot-ai-could-help-with-that)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T19:43:00+00:00
+
+<p>Microsoft&#8217;s Copilot generative AI software is largely based on ChatGPT. But Microsoft also added its own features to Copilot. The latest example is integration with &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/i-never-wanted-to-make-music-but-microsoft-copilot-ai-could-help-with-that/">I&#8217;ve never made music, but Microsoft Copilot AI can write me a masterpiece</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## iPhone 15 Plus review: Great performance without the Pro price tag
+ - [https://bgr.com/reviews/iphone-15-plus-review](https://bgr.com/reviews/iphone-15-plus-review)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T18:50:00+00:00
+
+<p>The iPhone 15 Pro and Pro Max got a series of impressive upgrades compared to last year&#8217;s models. Action Button? Check. USB 3.0? Check. A &#8230;</p>
+<p>The post <a href="https://bgr.com/reviews/iphone-15-plus-review/">iPhone 15 Plus review: Great performance without the Pro price tag</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Sony has sold over 50 million PlayStation 5 consoles
+ - [https://bgr.com/entertainment/sony-has-sold-over-50-million-playstation-5-consoles](https://bgr.com/entertainment/sony-has-sold-over-50-million-playstation-5-consoles)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T18:35:00+00:00
+
+<p>You crazy son of a gun, you did it. We all knew this milestone was coming, but today is the day. Sony has announced that &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/sony-has-sold-over-50-million-playstation-5-consoles/">Sony has sold over 50 million PlayStation 5 consoles</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Next-gen CarPlay coming to Aston Martin and Porsche cars in 2024
+ - [https://bgr.com/tech/next-gen-carplay-coming-to-aston-martin-and-porsche-cars-in-2024](https://bgr.com/tech/next-gen-carplay-coming-to-aston-martin-and-porsche-cars-in-2024)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T18:25:53+00:00
+
+<p>Eleven days before 2023 ends and the first cars that will run the next-gen CarPlay have actually been announced. As reported by Car and Driver, &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/next-gen-carplay-coming-to-aston-martin-and-porsche-cars-in-2024/">Next-gen CarPlay coming to Aston Martin and Porsche cars in 2024</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Yet another lunar lander launch just got delayed
+ - [https://bgr.com/science/yet-another-lunar-lander-launch-just-got-delayed](https://bgr.com/science/yet-another-lunar-lander-launch-just-got-delayed)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T17:52:00+00:00
+
+<p>Earlier this month, I reported on how Astrobiotic had delayed the launch of its iconic Peregrine lander from a December launch to sometime in January &#8230;</p>
+<p>The post <a href="https://bgr.com/science/yet-another-lunar-lander-launch-just-got-delayed/">Yet another lunar lander launch just got delayed</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Super Mario Run for iOS just got a surprise update with a new event
+ - [https://bgr.com/tech/super-mario-run-for-ios-just-got-a-surprise-update-with-a-new-event](https://bgr.com/tech/super-mario-run-for-ios-just-got-a-surprise-update-with-a-new-event)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T17:29:22+00:00
+
+<p>Released at the end of 2016, I&#8217;m surprised Super Mario Run got a fun little update with a new event that users can enjoy. After &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/super-mario-run-for-ios-just-got-a-surprise-update-with-a-new-event/">Super Mario Run for iOS just got a surprise update with a new event</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Move over Tesla, the NIO ET7 can get 650 miles on a single charge
+ - [https://bgr.com/lifestyle/move-over-tesla-the-nio-et7-can-get-650-miles-on-a-single-charge](https://bgr.com/lifestyle/move-over-tesla-the-nio-et7-can-get-650-miles-on-a-single-charge)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T17:24:00+00:00
+
+<p>If there&#8217;s one fear that persists about people making the switch to an electric vehicle, it&#8217;s all about the range anxiety. NIO, a Chinese EV &#8230;</p>
+<p>The post <a href="https://bgr.com/lifestyle/move-over-tesla-the-nio-et7-can-get-650-miles-on-a-single-charge/">Move over Tesla, the NIO ET7 can get 650 miles on a single charge</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Roku reveals 2023 Year In Review with top-searched movies and TV shows
+ - [https://bgr.com/entertainment/roku-reveals-2023-year-in-review-with-top-searched-movies-and-tv-shows](https://bgr.com/entertainment/roku-reveals-2023-year-in-review-with-top-searched-movies-and-tv-shows)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T16:54:22+00:00
+
+<p>Roku is the latest company to reveal its 2023 Year in Review. This time, the platform shares the year&#8217;s top-searched movies and TV shows. Interestingly, &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/roku-reveals-2023-year-in-review-with-top-searched-movies-and-tv-shows/">Roku reveals 2023 Year In Review with top-searched movies and TV shows</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## The HOVERAir X1 self-flying camera you never knew you needed is $100 off
+ - [https://bgr.com/deals/hoverair-x1-self-flying-camera-drone-price-deals](https://bgr.com/deals/hoverair-x1-self-flying-camera-drone-price-deals)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T16:31:00+00:00
+
+<p>There are so many cool gadgets out there that you&#8217;d never know you needed until you come across one. Such is the case with the &#8230;</p>
+<p>The post <a href="https://bgr.com/deals/hoverair-x1-self-flying-camera-drone-price-deals/">The HOVERAir X1 self-flying camera you never knew you needed is $100 off</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## iPhone thieves used passcodes to steal $2 million – and everyone is at risk
+ - [https://bgr.com/tech/iphone-thieves-used-passcodes-to-steal-2-million-and-anyone-is-at-risk](https://bgr.com/tech/iphone-thieves-used-passcodes-to-steal-2-million-and-anyone-is-at-risk)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T15:38:00+00:00
+
+<p>I told you a few days ago that I can&#8217;t wait to set up a new iPhone anti-theft security feature in iOS 17.3 that will &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/iphone-thieves-used-passcodes-to-steal-2-million-and-anyone-is-at-risk/">iPhone thieves used passcodes to steal $2 million &#8211; and everyone is at risk</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Today’s deals: Last chance to buy Apple Watch S9 and Ultra 2, $18 Fire Stick, $55 Ring Video Doorbell, more
+ - [https://bgr.com/deals/todays-deals-last-chance-to-buy-apple-watch-s9-and-ultra-2-18-fire-stick-55-ring-video-doorbell-more](https://bgr.com/deals/todays-deals-last-chance-to-buy-apple-watch-s9-and-ultra-2-18-fire-stick-55-ring-video-doorbell-more)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T14:23:00+00:00
+
+<p>So many last-minute Christmas sales are currently offering the best prices of the year on popular products. Fire TV Sticks start at just $17.99, and &#8230;</p>
+<p>The post <a href="https://bgr.com/deals/todays-deals-last-chance-to-buy-apple-watch-s9-and-ultra-2-18-fire-stick-55-ring-video-doorbell-more/">Today&#8217;s deals: Last chance to buy Apple Watch S9 and Ultra 2, $18 Fire Stick, $55 Ring Video Doorbell, more</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## First impressions: Resident Evil 4 for iPhone 15 Pro is a throwback to simpler, scarier times
+ - [https://bgr.com/entertainment/first-impressions-resident-evil-4-for-iphone-15-pro-is-a-throwback-to-simpler-scarier-times](https://bgr.com/entertainment/first-impressions-resident-evil-4-for-iphone-15-pro-is-a-throwback-to-simpler-scarier-times)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T14:03:16+00:00
+
+<p>Resident Evil 4 is officially available for iPhone 15 Pro and M-series Macs and iPads. The remake of the 2005 game is an &#8220;over-the-shoulder&#8221; third-person &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/first-impressions-resident-evil-4-for-iphone-15-pro-is-a-throwback-to-simpler-scarier-times/">First impressions: Resident Evil 4 for iPhone 15 Pro is a throwback to simpler, scarier times</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Meta Quest 2 drops to $249 in this last-minute Christmas sale
+ - [https://bgr.com/deals/meta-quest-2-drops-to-249-in-this-last-minute-christmas-sale](https://bgr.com/deals/meta-quest-2-drops-to-249-in-this-last-minute-christmas-sale)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T12:43:00+00:00
+
+<p>Apple recently announced its exciting new Vision Pro headset, and most people agree that it looks amazing. Unfortunately, most people also agree that the $3,499 &#8230;</p>
+<p>The post <a href="https://bgr.com/deals/meta-quest-2-drops-to-249-in-this-last-minute-christmas-sale/">Meta Quest 2 drops to $249 in this last-minute Christmas sale</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Apple Watch Series 10 design leak has one big problem: Your old bands are all useless
+ - [https://bgr.com/tech/apple-watch-series-10-design-leak-has-one-big-problem-your-old-bands-are-all-useless](https://bgr.com/tech/apple-watch-series-10-design-leak-has-one-big-problem-your-old-bands-are-all-useless)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T11:50:43+00:00
+
+<p>We are nine months away from the upcoming Apple Watch Series 10 announcement. With this release, we expect great things from Apple, as it will &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/apple-watch-series-10-design-leak-has-one-big-problem-your-old-bands-are-all-useless/">Apple Watch Series 10 design leak has one big problem: Your old bands are all useless</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## iMessage for Android should be a priority for Apple – here’s how I’d do it
+ - [https://bgr.com/tech/imessage-for-android-should-be-a-priority-for-apple-heres-how-id-do-it](https://bgr.com/tech/imessage-for-android-should-be-a-priority-for-apple-heres-how-id-do-it)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T11:50:00+00:00
+
+<p>It&#8217;s almost 2024, which means iMessage will soon be 13 years old. iMessage is easily one of Apple&#8217;s best products, a secure and private mobile &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/imessage-for-android-should-be-a-priority-for-apple-heres-how-id-do-it/">iMessage for Android should be a priority for Apple &#8211; here’s how I’d do it</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## China’s space plane deployed 6 mysterious ‘wingmen,’ and no one knows what they are
+ - [https://bgr.com/science/chinas-space-plane-deployed-6-mysterious-wingmen-and-no-one-knows-what-they-are](https://bgr.com/science/chinas-space-plane-deployed-6-mysterious-wingmen-and-no-one-knows-what-they-are)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T03:03:00+00:00
+
+<p>Just four days after launching into space on its third mission, China&#8217;s space plane has apparently released six &#8220;mysterious wingmen&#8221; into orbit around the planet, &#8230;</p>
+<p>The post <a href="https://bgr.com/science/chinas-space-plane-deployed-6-mysterious-wingmen-and-no-one-knows-what-they-are/">China&#8217;s space plane deployed 6 mysterious &#8216;wingmen,&#8217; and no one knows what they are</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Apple TV+ has 4 of the most popular shows on any streamer right now
+ - [https://bgr.com/entertainment/apple-tv-has-4-of-the-most-popular-shows-on-any-streamer-right-now](https://bgr.com/entertainment/apple-tv-has-4-of-the-most-popular-shows-on-any-streamer-right-now)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T02:10:00+00:00
+
+<p>As someone who’s been an Apple TV+ subscriber from day one in 2019, I must say it’s been pretty remarkable to see the iPhone maker &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/apple-tv-has-4-of-the-most-popular-shows-on-any-streamer-right-now/">Apple TV+ has 4 of the most popular shows on any streamer right now</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Microsoft is trying to fix a Windows 11 Wi-Fi bug – here’s how you can help
+ - [https://bgr.com/tech/microsoft-is-trying-to-fix-a-windows-11-wi-fi-bug-heres-how-you-can-help](https://bgr.com/tech/microsoft-is-trying-to-fix-a-windows-11-wi-fi-bug-heres-how-you-can-help)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T01:18:00+00:00
+
+<p>If your Windows 11 PC has been experiencing Wi-Fi issues due to a recent update, you&#8217;re not alone. On Tuesday, Microsoft acknowledged in an online &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/microsoft-is-trying-to-fix-a-windows-11-wi-fi-bug-heres-how-you-can-help/">Microsoft is trying to fix a Windows 11 Wi-Fi bug &#8211; here&#8217;s how you can help</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## All my AirPods have this issue eventually, and I blame Apple
+ - [https://bgr.com/tech/one-airpod-not-charging-what-to-do](https://bgr.com/tech/one-airpod-not-charging-what-to-do)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-12-20T00:25:00+00:00
+
+<p>Since the end of 2016, I have owned every model of AirPods released by Apple. I love these wireless earbuds, and I bought each new &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/one-airpod-not-charging-what-to-do/">All my AirPods have this issue eventually, and I blame Apple</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+

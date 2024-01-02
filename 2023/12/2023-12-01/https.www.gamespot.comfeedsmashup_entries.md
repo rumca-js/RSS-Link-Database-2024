@@ -1,0 +1,198 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## What We Want To See At The Game Awards 2023 | Spot On
+ - [https://www.gamespot.com/articles/what-we-want-to-see-at-the-game-awards-2023-spot-on/1100-6519639/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/what-we-want-to-see-at-the-game-awards-2023-spot-on/1100-6519639/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T23:04:00+00:00
+
+<p>It's the most wonderful time of the year: Game Awards season! With less than a week until our favorite developers hit Los Angeles to accept their accolades, it's officially time to brace ourselves for some pretty big announcements from a variety of studios and publishers--as well as a few surprises from The Game Awards host and producer Geoff Keighley, of course.</p><div>          </div><p>This week on Spot On, Tam and Lucy discuss what they hope to see from the show. These wishes include big announcements from Xbox (such as a potential release date for Hellblade 2), a glimpse at Wonder Woman, and an update on Beyond Good and Evil 2. The two also discuss whether or not we'll see more about Elden Ring's upcoming DLC, and if we should expect an appearance from Hideo Kojima and Death Stranding 2. But remember: <a href="https://www.youtube.com/watch?v=D7UUO8TWwZ0">Keep those expectations in check, gamers.</a></p><p>Spot On is a weekly news show airing Fridays in which GameSpot's manag
+
+## Humble's New JRPG Charity Bundle Includes 7 Games For $15
+ - [https://www.gamespot.com/articles/humbles-new-jrpg-charity-bundle-includes-7-games-for-15/1100-6519610/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/humbles-new-jrpg-charity-bundle-includes-7-games-for-15/1100-6519610/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T21:28:00+00:00
+
+<p dir="ltr">If you've ever played an RPG and thought, "I wish I could go on an adventure that makes the world a better place," well, now you can slay both birds with one sword swipe thanks to Humble's new JRPG charity bundle. The <a href="https://www.dpbolvw.net/click-100770772-14555742?sid=subid_value&amp;url=https://www.humblebundle.com/games/fight-t1d-with-jrpgs">Fight T1D With JRPGs bundle</a> includes up to eight PC games and coupon codes, and a portion of all sales is donated to JDRF to aid their mission of treating and researching type 1 diabetes.</p><div class="norewrite" title="">           <a href="https://www.dpbolvw.net/click-100770772-14555742?sid=subid_value&amp;url=https://www.humblebundle.com/games/fight-t1d-with-jrpgs">See at Humble</a> </div><p dir="ltr">The bundle is available in two price tiers. The base $10 option includes Steam codes for the monster-collecting RPG <a href="https://www.dpbolvw.net/click-100770772-14555742?sid=subid_value&amp;url=https://www.humb
+
+## What We Want To See At The Game Awards 2023 | Spot On
+ - [https://www.gamespot.com/videos/what-we-want-to-see-at-the-game-awards-2023-spot-on/2300-6462973](https://www.gamespot.com/videos/what-we-want-to-see-at-the-game-awards-2023-spot-on/2300-6462973)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T21:21:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4228830-spoton_s1ep022_gameawardspredictions_20231201v5.jpg" width="480" /> This week on Spot On, Tam and Lucy get excited for the Game Awards, and discuss their hopes for this year’s show.
+
+## The Peter Griffin/Fortnite Leak Has Fans Thrilled
+ - [https://www.gamespot.com/articles/the-peter-griffin-fortnite-leak-has-fans-thrilled/1100-6519637/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-peter-griffin-fortnite-leak-has-fans-thrilled/1100-6519637/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T21:13:00+00:00
+
+<p>Thanks to a <a href="https://www.gamespot.com/articles/fortnite-leak-for-chapter-5-shows-off-smash-bros-character-snake-and-peter-griffin/1100-6519618/">recent leak</a>, we now know that Peter Griffin will be a part of the battle pass for <a href="https://www.gamespot.com/games/fortnite/">Fortnite</a> Chapter 5. The leak confirms a years-long theory surrounding the Family Guy protagonist coming to Fortnite, which began when <a href="https://twitter.com/GMatrixGames/status/1363288109920772104">dataminers found images of Peter Griffin</a> in the game's files back in 2021.</p><p dir="ltr">While there isn't much information to go off of other than the leaked image of Peter standing heroically off to the side, it hasn't stopped people from expressing how excited they are to have him as a playable character. People are joking on X/Twitter that we can finally see Peter go toe-to-toe with characters such as <a href="https://www.gamespot.com/articles/fortnite-dragon-ball-super-crossover-al
+
+## Lego Spider-Man's Mask Preorders Now Open
+ - [https://www.gamespot.com/articles/lego-spider-mans-mask-preorders-now-open/1100-6519629/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/lego-spider-mans-mask-preorders-now-open/1100-6519629/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T20:34:00+00:00
+
+<p>It's been a big year for everyone's favorite web-slinger across multiple mediums, with <a href="https://www.amazon.com/MARVELS-SPIDER-MAN-2-Launch-PlayStation-5/dp/B0C7WNMCSC?tag=gamespot-promos-20">Marvel's Spider-Man 2</a> leading the gaming charge and <a href="https://www.amazon.com/Spider-verse-2-Movie-Collectors-Multi-Feature-Blu-ray/dp/B0CJM73RKX?tag=gamespot-promos-20">Spider-Man: Across the Spider-Verse</a> on the entertainment side of things. If you can't get enough of the superhero, you'll want to look at the upcoming <a href="https://click.linksynergy.com/deeplink?id=VZfI20jEa0c&amp;mid=13923&amp;u1=subid_value&amp;murl=https://www.lego.com/en-us/product/spider-man-s-mask-76285">Lego Spider-Man's Mask set</a>, which features nearly 500 pieces and releases January 1. Preorders are now open for the buildable model--and since it's bound to be a hot item, consider locking in your reservation as soon as possible.</p><div class="norewrite" title="6514512 - Marvel's Spider-Man
+
+## Remedy Teases New Game Plus For Alan Wake 2 This Month
+ - [https://www.gamespot.com/articles/remedy-teases-new-game-plus-for-alan-wake-2-this-month/1100-6519635/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/remedy-teases-new-game-plus-for-alan-wake-2-this-month/1100-6519635/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T20:26:00+00:00
+
+<p>Remedy Entertainment revealed that Alan Wake II's New Game Plus feature could be released this month.</p><p>On Twitter, Remedy posted a photo showing Alan Wake flashing his flashlight at the side of building with the phrase "New Game +" and the studio said, "New month, new game...plus?" While Remedy didn't specify what day the feature would be added, it indicates that it'll be sometime this month. Perhaps it could be shadow dropped on a random day or announced at <a href="https://www.gamespot.com/articles/the-game-awards-2023-how-to-watch-start-times-and-what-to-expect/1100-6519493/">The Game Awards 2023</a>.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">New month, new game... plus? 🕵️ 🤔<a href="https://twitter.com/hashtag/alanwake?src=hash&amp;ref_src=twsrc^tfw">#alanwake</a> <a href="https://twitter.com/hashtag/alanwake2?src=hash&amp;ref_src=twsrc^tfw">#alanwake2</a> <a href="https://t.co/CbhLpoFQMq">pic.twitter.com/CbhLpoFQMq</a></p>  — Alan Wake 2 (@ala
+
+## Get $280 Worth Of Hellboy Comics For Only $18
+ - [https://www.gamespot.com/articles/get-280-worth-of-hellboy-comics-for-only-18/1100-6519634/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/get-280-worth-of-hellboy-comics-for-only-18/1100-6519634/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T20:08:00+00:00
+
+<p dir="ltr">Amid the constant stream of Marvel and DC Universe media, it's sometimes easy to forget there's a vast world of comic heroes beyond the capes and tights crowd. One of the best of these non-superhero heroes is Hellboy, the Nazi-fighting, ghost-busting half-demon created by Mike Mignola--and thanks to a new Humble bundle deal, you can snag a huge collection of Hellboy comics for cheap.</p><div class="norewrite" title="">           <a href="https://www.dpbolvw.net/click-100770772-14555742?sid=subid_value&amp;url=https://www.humblebundle.com/books/mike-mignolas-hellboy-dark-horse-books">See at Humble</a> </div><p dir="ltr"> </p><p dir="ltr">Humble's Hellboy Comics Bundle comes in multiple options, starting with a $1 bundle that includes Hellboy Volume 1: Seed of Destruction, four Hellboy one-shot issues, and a coupon code for 25% off new Humble Choice subscriptions. Hellboy Volume 1: Seeds of Destruction collects the comic series' first arc, telling the origins of Hellboy an
+
+## Phil Spencer Says Microsoft Has "No Plans" For Xbox Game Pass On PlayStation And Nintendo
+ - [https://www.gamespot.com/articles/phil-spencer-says-microsoft-has-no-plans-for-xbox-game-pass-on-playstation-and-nintendo/1100-6519633/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/phil-spencer-says-microsoft-has-no-plans-for-xbox-game-pass-on-playstation-and-nintendo/1100-6519633/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T19:16:00+00:00
+
+<p>Microsoft Gaming CEO Phil Spencer has spoken up to say the company has "no plans" to bring Xbox Game Pass to PlayStation or Nintendo. This comes just days after Xbox CFO Tim Stuart said Microsoft's <a href="https://www.gamespot.com/articles/microsoft-wants-game-pass-on-playstation-nintendo-and-every-screen-possible/1100-6519551/">mission is to bring Xbox Game Pass to every screen that can play games, including PlayStation and Nintendo</a>.</p><p>What seems to be at odds here is the distinction between a "plan" and a "mission." Microsoft could very well have a "mission" to expand Game Pass to every screen imaginable, but a "plan" suggests it's something Microsoft is actively working on. And as Spencer says, there is no current plan to bring Game Pass to competing platforms.</p><p>"I'll start by saying we have no plans to bring Game Pass to PlayStation or Nintendo. It's not in our plans," Spencer told <a href="https://www.windowscentral.com/gaming/phil-spencer-jez-corden-xbox-interv
+
+## Get Your First Look At The Stranger Things Play With Brand-New Images
+ - [https://www.gamespot.com/articles/get-your-first-look-at-the-stranger-things-play-with-brand-new-images/1100-6519632/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/get-your-first-look-at-the-stranger-things-play-with-brand-new-images/1100-6519632/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T18:57:00+00:00
+
+<p>Fans have two weeks until Stranger Things: The First Shadow opens in London, and tickets have been sold out for months. The previews hit a couple of weeks ago and for those who can't make it, Netflix has released new promotional images for the show.</p><p>The show is written by Kate Telfry and directed by Stephen Daldry with co-director Justin Martin. Telfry, already an established writer and executive producer for the TV series, wrote the play based on a story by the Duffer brothers, Jack Thorne, and Telfry herself. Set in Hawkins in 1959, it tells the story of young Joyce, Hopper, and even Bob and the mysterious ties that bind them.</p><figure><div class="image-gallery__label">Gallery</div>   <div class="image-gallery__list hide-scrollbar">       <a href="https://www.gamespot.com/a/uploads/original/1597/15976769/4228782-thecompanyofstrangerthingsthefirstshadow-imagebymanuelharlan.jpg">       <img alt="Gallery image 1" src="https://www.gamespot.com/a/uploads/square_avatar/1597/15
+
+## Layoffs, Price Increases, PS5 Slim, Rise Of AI, Microsoft Buys Activision: The Biggest Gaming News Of 2023
+ - [https://www.gamespot.com/gallery/layoffs-price-increases-ps5-slim-rise-of-ai-microsoft-buys-activision-the-biggest-gaming-news-of-2023/2900-4963](https://www.gamespot.com/gallery/layoffs-price-increases-ps5-slim-rise-of-ai-microsoft-buys-activision-the-biggest-gaming-news-of-2023/2900-4963)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T18:52:00+00:00
+
+<p><h2>2023 is coming to a close</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4228678-2023-in-gaming-news_gs-best-of_2023_1.jpg" /><br /><h3><p dir="ltr">2023 was another big year for the video game industry, with many memorable moments, ups and downs, and storylines that dominated the headlines. With the end of the year in sight, we're looking back at the year that was and compiling the biggest news of 2023.</p><p dir="ltr">Perhaps the biggest storyline of 2023 related to the human element of making games. 2023 was marked with significant layoffs, studio closures, and other difficult news for the people who make games. By some estimates, more than 7,000 jobs were lost this year alone. All the while, major gaming companies made massive profits in 2023, and there has been a renewed discussion about the overall health, viability, and sustainability of game development at large.</p><p dir="ltr">Some believe the AAA gaming business is unsustainable and heade
+
+## House Of The Dragon Season 2 Unveils First-Look Posters Ahead Of Upcoming Trailer
+ - [https://www.gamespot.com/articles/house-of-the-dragon-season-2-unveils-first-look-posters-ahead-of-upcoming-trailer/1100-6519631/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/house-of-the-dragon-season-2-unveils-first-look-posters-ahead-of-upcoming-trailer/1100-6519631/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T18:51:00+00:00
+
+<p dir="ltr">The Game of Thrones prequel, House of the Dragon, will release its first trailer on Saturday, as announced on <a href="https://twitter.com/GameOfThrones/status/1730618575763976439">the official X (formerly known as Twitter) accounts for both shows</a>. Meanwhile, fans can preview Olivia Cooke's Alicent Hightower and Emma D'Arcy's Rhaenyra Targaryen in recently unveiled character posters, offering a glimpse into the brink of war just ahead in the series.</p><p dir="ltr">The posters show the aftermath of Season 1's finale, which brought a major death, and hint at Rhaenyra and Alicent's demands for "blood for blood" and "fire to fire." The trailer releasing on Saturday is likely to provide a clearer insight than these images.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">75 seconds are coming. <a href="https://t.co/xtvkLIMrcN">https://t.co/xtvkLIMrcN</a></p>  — Game of Thrones (@GameOfThrones) <a href="https://twitter.com/GameOfThrones/status/1730618
+
+## SteamWorld Build Gets A Big Launch Day Discount
+ - [https://www.gamespot.com/articles/steamworld-build-gets-a-big-launch-day-discount/1100-6519630/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/steamworld-build-gets-a-big-launch-day-discount/1100-6519630/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T18:15:00+00:00
+
+<p>SteamWorld games are typically fun and inventive, with no two games being the same. With SteamWorld Build, the latest game in the series far removed from the breakout 2013 platformer, the focus shifts to city management. If guiding a steampunk town full of robot citizens to prosperity and the stars beyond sounds like a good time, you can score a big discount on this game right now at Green Man Gaming.</p><ul><li><span class="norewrite">           <a href="https://greenmangaming.sjv.io/c/1804712/1219987/15105?subId1=subid_value&amp;u=https://www.greenmangaming.com/games/steamworld-build-pc">SteamWorld Build (GMG with XP membership)</a> </span> -- $21.60 ($<del>30</del>)</li><li><span class="norewrite">           <a href="https://www.jdoqocy.com/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/game/steamworld-build">SteamWorld Build (Fanatical)</a> </span> -- $24 ($<del>30</del>)</li></ul><p>You'll need to sign up for a <a href="https://greenmangaming.sj
+
+## Where Is Xur Today? (December 1-5) Destiny 2 Exotic Items And Xur Location Guide
+ - [https://www.gamespot.com/articles/where-is-xur-today-december-1-5-destiny-2-exotic-items-and-xur-location-guide/1100-6519613/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/where-is-xur-today-december-1-5-destiny-2-exotic-items-and-xur-location-guide/1100-6519613/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T17:03:00+00:00
+
+<p>The first<a href="https://www.gamespot.com/articles/destiny-2-season-of-the-wish-guides-season-pass-gear-exotics/1100-6519511/"> Season of the Wish</a> weekend has arrived, and if you're looking to outfit your Guardian before you spend some time in The Coil, then Xur might have just what you need. The Agent of the Nine is back and ready to sell a fresh selection of Exotic and Legendary-class gear, just in time to help Riven with her egg hunt. Here's where you can find Xur this weekend and what he has for sale.</p><p>This week you can find Xur on <strong>Nessus, in The Watcher's Grave</strong>. For his weapon, Xur is offering <strong>Prometheus Lens</strong>. Hunters can pick up the <strong>Wormhusk</strong> <strong>Crown</strong> helmet; Titans can grab the <strong>Aeon Safe </strong>gauntlets; and Warlocks can buy the <strong>Crown of Tempests </strong>helmet.</p><h2>Xur Location</h2><figure style="width: 1920px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044
+
+## Best Buy Is Hosting A Huge Weekend Sale With Great Gaming And Tech Deals
+ - [https://www.gamespot.com/articles/best-buy-is-hosting-a-huge-weekend-sale-with-great-gaming-and-tech-deals/1100-6519627/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/best-buy-is-hosting-a-huge-weekend-sale-with-great-gaming-and-tech-deals/1100-6519627/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T16:54:00+00:00
+
+<p>While this weekend doesn't have nearly as many deals as Black Friday weekend, Best Buy is still giving you a chance to save on all sorts of electronics. The aptly named <a href="https://shop-links.co/1809380871569855057?u1=subid_value">3-Day Sale</a> ends on Sunday night, but until then, you'll find gaming laptops, controllers, headphones, and other gadgets available with steep discounts. You'll want to browse the full catalog when you find time, but we've also pulled together all of our favorite deals below.</p><div class="norewrite" title="">           <a href="https://shop-links.co/1809380871569855057?u1=subid_value">See all deals at Best Buy</a> </div><hr /><h2> </h2><h2>Console gaming</h2><figure style="width: 1000px;"><a href="https://www.gamespot.com/a/uploads/original/1702/17023653/4228558-6352703_sd.jpgmaxheight2000maxwi.jpg"><img alt="No Caption Provided" src="https://www.gamespot.com/a/uploads/original/1702/17023653/4228558-6352703_sd.jpgmaxheight2000maxwi.jpg" /></a></
+
+## Cyberpunk 2077 Update 2.1 Adds Metro Tourism, Better Motorcycles, And More Next Week
+ - [https://www.gamespot.com/articles/cyberpunk-2077-update-2-1-adds-metro-tourism-better-motorcycles-and-more-next-week/1100-6519624/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cyberpunk-2077-update-2-1-adds-metro-tourism-better-motorcycles-and-more-next-week/1100-6519624/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T16:29:00+00:00
+
+<p>After teasing some hot new additions to Cyberpunk 2077, developer CD Projekt has outlined several of the new features coming to the game in Update 2.1. One of the biggest features is the inclusion of a metro system, something that featured prominently in trailers for the original game and its Phantom Liberty expansion.</p><p>You'll be able to catch a ride on the Night City transit system and fast-travel to one of 19 metro stations, or if you want to soak up the neon sights of the metropolis, you can sit down and enjoy the ride. You'll be able to access the metro system after you complete the Konpeki Plaza sequence--the big heist mission--in the game. Cyberpunk 2077 quest director Pawel Sasko added that this travel system is designed to be a new and immersive role-playing feature in the game for fans to enjoy.</p><p>Related to travel, several more vehicles are being added to Cyberpunk 2077. Johnny Silverhand's original Porsche 911 was teased, and Sasko suggested the car can be obta
+
+## The Last Of Us Star Bella Ramsey Wants To Play A Villain Like The Joker
+ - [https://www.gamespot.com/articles/the-last-of-us-star-bella-ramsey-wants-to-play-a-villain-like-the-joker/1100-6519623/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-last-of-us-star-bella-ramsey-wants-to-play-a-villain-like-the-joker/1100-6519623/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T16:15:00+00:00
+
+<p>Bella Ramsey wants to play a villain, and specifically, the Last of Us star would like to play the Joker. Speaking to <a href="https://www.ladbible.com/entertainment/celebrity/bella-ramsey-last-of-us-pedro-pascal-season-two-952834-20231126">Ladbible</a>, Ramsey said they want to play not just any villain, but a "really interesting, intricate, complex baddy."</p><p>"I've not really played a villain yet. So I want to play a baddy," Ramsey said.</p><p>Asked if Ramsey would want to play the Joker, the iconic DC villain, Ramsey said, "I was actually thinking that as well. The Joker, someone really interesting like that."</p><a href="https://www.gamespot.com/articles/the-last-of-us-star-bella-ramsey-wants-to-play-a-villain-like-the-joker/1100-6519623/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Xbox Pushing Ahead With Plans For Mobile Game Store, Which Isn't "Multiple Years Away"
+ - [https://www.gamespot.com/articles/xbox-pushing-ahead-with-plans-for-mobile-game-store-which-isnt-multiple-years-away/1100-6519625/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-pushing-ahead-with-plans-for-mobile-game-store-which-isnt-multiple-years-away/1100-6519625/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T16:10:00+00:00
+
+<p>Microsoft is going ahead with its plans to create a mobile store for Xbox in order to compete with Apple and Google in the space.</p><p>In an <a href="https://www.bloomberg.com/news/articles/2023-11-30/xbox-talking-to-partners-for-mobile-store-ceo-spencer-says">interview at CCXP</a> in Sao Paulo, Brazil, Microsoft's Phil Spencer said, "It’s an important part of our strategy and something we are actively working on today not only alone, but talking to other partners who’d also like to see more choice for how they can monetize on the phone."</p><p>While he didn't mention a specific date for the mobile store, he did say, "I don’t think this is multiple years away, I think this is sooner than that."</p><a href="https://www.gamespot.com/articles/xbox-pushing-ahead-with-plans-for-mobile-game-store-which-isnt-multiple-years-away/1100-6519625/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Get A $200 Pair Of Sennheiser Noise-Canceling Headphones For $70
+ - [https://www.gamespot.com/articles/get-a-200-pair-of-sennheiser-noise-canceling-headphones-for-70/1100-6519621/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/get-a-200-pair-of-sennheiser-noise-canceling-headphones-for-70/1100-6519621/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T15:59:00+00:00
+
+<p>One of life's best--and usually expensive--luxuries is a solid set of noise-canceling headphones. A quality set will typically cost upward of $300, but over at Best Buy, you can save $130 on this excellent Sennheiser headset. Normally $200, <a href="https://shop-links.co/1811325521221547762?u1=subid_value">it's on sale for $70</a>.</p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4228531-sennheiser.jpg"><img alt="Sennheiser HD458BT headphones" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4228531-sennheiser.jpg" /></a><figcaption>Sennheiser HD458BT headphones</figcaption></figure><div class="norewrite" title="">           <a href="https://shop-links.co/1811325521221547762?u1=subid_value">See at Best Buy</a> </div><p>This is a pretty good deal, as you're getting a wireless Bluetooth headset with superb sound quality. While Sony and Apple's premium headsets are superior in the noise-canceling department, at this pr
+
+## Bella Ramsey Discusses The "Big Fear" About The Last Of Us Season 2
+ - [https://www.gamespot.com/articles/bella-ramsey-discusses-the-big-fear-about-the-last-of-us-season-2/1100-6519620/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/bella-ramsey-discusses-the-big-fear-about-the-last-of-us-season-2/1100-6519620/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T15:47:00+00:00
+
+<p>Bella Ramsey, who plays Ellie in HBO's The Last of Us, has spoken about a fear that the TV series could have a sophomore slump. Speaking to <a href="https://www.ladbible.com/entertainment/celebrity/bella-ramsey-last-of-us-pedro-pascal-season-two-952834-20231126">Ladbible</a>, Ramsey said there is a "big fear" amongst the people working on the show and fans of it that Season 2 "isn't gonna be as good as Season 1."</p><p>But Ramsey said these concerns are unfounded because the right team and plan is in place to make The Last of Us Season 2 a success. "I have a lot of faith in the creators. And I think they're spectacular. So I think I think we're going to do great, I think we will top it," Ramsey said.</p><p>Also in the interview, Ramsey discussed their relationship with Pedro Pascal, who plays Joel. Joel and Ellie are the show's two main characters and the dynamic between the two is central to the series. If they didn't have chemistry or work well together, the show could suffer, b
+
+## Fortnite Leak For Chapter 5 Shows Off Smash Bros. Character Snake And Peter Griffin
+ - [https://www.gamespot.com/articles/fortnite-leak-for-chapter-5-shows-off-smash-bros-character-snake-and-peter-griffin/1100-6519618/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fortnite-leak-for-chapter-5-shows-off-smash-bros-character-snake-and-peter-griffin/1100-6519618/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T15:00:00+00:00
+
+<p dir="ltr">The collaborations apparently won't slow down for Fortnite: Chapter 5. An Xbox ad for the hugely popular battle royale game teased Metal Gear Solid's Snake and Family Guy's Peter Griffin as part of next season's Battle Pass.</p><p dir="ltr">Spotted by <a href="https://twitter.com/ShiinaBR/status/1730505892485808408?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1730505892485808408|twgr^d0f50d2a4fecceb97659fdfec4edb788038759e3|twcon^s1_&amp;ref_url=https://www.ign.com/articles/family-guys-peter-griffin-and-metal-gear-solids-solid-snake-coming-to-fortnite-leak-suggests">Twitter/X user ShiinaBR</a>, the image also reveals that Chapter 5: Season 1 will be called Underground. Officially, <a href="https://www.gamespot.com/articles/fortnite-big-bang-event-promises-new-beginning-for-the-game-amid-eminem-rumors/1100-6519360/">Epic Games has only announced a Big Bang event</a> for this Saturday, December 2, which will mark a "new beginning" for Fortnite. Afterward, <a href="https://ww
+
+## Street Fighter 6 Wishes Happy Holidays With Newest Fighting Pass Trailer
+ - [https://www.gamespot.com/articles/street-fighter-6-wishes-happy-holidays-with-newest-fighting-pass-trailer/1100-6519622/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/street-fighter-6-wishes-happy-holidays-with-newest-fighting-pass-trailer/1100-6519622/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T15:00:00+00:00
+
+<p><a href="https://www.gamespot.com/games/street-fighter-6/">Street Fighter 6</a> brings seasonal cheer, presents, and well-wishes to players with the game's new Fighting Pass trailer. The Happy Holidays trailer shows off new avatar gear, so you can dress up as Santa with a hat, coat, gloves, and boots adorned in red, white, and bells.</p><p>Street Fighter 6 has been <a href="https://www.gamespot.com/reviews/street-fighter-6-review-battle-hardened/1900-6418073/">praised widely since its release</a>--from its accessibility options, ongoing <a href="https://www.gamespot.com/videos/street-fighter-6-outfit-2-reveal-trailer/2300-6461521/">character outfit updates</a>, and <a href="https://www.gamespot.com/videos/street-fighter-6-a-k-i-gameplay-trailer/2300-6462283/">new characters</a>. The game has also <a href="https://www.gamespot.com/articles/the-game-awards-2023-nominees-announced-see-them-all-now/1100-6519120/">been nominated</a> at The Game Awards 2023 in the Best Fighting Game, In
+
+## Capcom Is Remaking More Resident Evil Games
+ - [https://www.gamespot.com/articles/capcom-is-remaking-more-resident-evil-games/1100-6519619/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/capcom-is-remaking-more-resident-evil-games/1100-6519619/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T14:58:00+00:00
+
+<p>Capcom has confirmed that it will be remaking more Resident Evil games, but it's not revealing which ones yet.</p><p>Speaking at a <a href="https://www.ign.com/articles/capcom-confirms-more-resident-evil-remakes-are-coming">PlayStation partner awards event</a> in Japan, Capcom's Yasuhiro Ampo was asked if more Resident Evil games were going to get remade in the same vein of Resident Evil 2, 3, and 4. "Yes, we’ve released three remakes so far and they have all been received very well," he said. "Since it allows a modern audience to play these games, it is something I am happy to do as someone that loves these older games, and we want to continue doing more."</p><p>Ampo continued, "What game we will remake in the future is something that we would like to announce in the future, so please look forward to it." He also talked about how there's no way to know whether a remake will be critically well-received, but player feedback and opinions have been important in developing them.</p><a
+
+## Superhero Movies Are A "Phase" That Has Lasted Too Long, Oscar-Winner Jodie Foster Says
+ - [https://www.gamespot.com/articles/superhero-movies-are-a-phase-that-has-lasted-too-long-oscar-winner-jodie-foster-says/1100-6519617/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/superhero-movies-are-a-phase-that-has-lasted-too-long-oscar-winner-jodie-foster-says/1100-6519617/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T14:45:00+00:00
+
+<p>Oscar-winning actress Jodie Foster has commented on how she believes superhero movies are a "phase," and one that has drawn on too long for her liking. Speaking to <a href="https://www.elle.com/culture/movies-tv/a45865199/jodie-foster-women-in-hollywood-interview-2023/">Elle Magazine</a>, the Silence of the Lambs actress said she's observed a number of phases in Hollywood since she first got famous as a child actor in the 1970s, and she believes superhero movies are just the latest one.</p><p>"It's a phase. It's a phase that's lasted a little too long for me, but it's a phase, and I've seen so many different phases. Hopefully people will be sick of it soon," she said.</p><p>Foster said she is fond of the superhero movies Iron Man and Black Panther, as well as The Matrix. "I marvel at those movies, and I'm swept up in the entertainment of it," she said.</p><a href="https://www.gamespot.com/articles/superhero-movies-are-a-phase-that-has-lasted-too-long-oscar-winner-jodie-foster-says
+
+## Early 2024's Game Launches Are Coming Into Focus
+ - [https://www.gamespot.com/articles/early-2024-game-launches-are-coming-into-focus/1100-6519612/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/early-2024-game-launches-are-coming-into-focus/1100-6519612/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T14:18:00+00:00
+
+<p>The year is almost over, leaving behind an incredible impression with the number of high-quality releases and a somber reminder of how fragile the games industry can be with all of the layoffs that occurred. Going into 2024, the year ahead is shaping up nicely thanks to the recent confirmation of release dates for upcoming games. Previously, the 2024 release schedule was looking bare, but with events like the <a href="https://youtu.be/dHhr4ppcY9Y">PC Gaming Show: Most Wanted</a>, we've got a clearer look at what to expect next year.</p><p>One of the big highlights is <a href="https://www.gamespot.com/games/homeworld-3/">Homeworld 3</a> from Vancouver-based developer Blackbird. After a lengthy delay that pushed it out of 2023, you can expect the next chapter in this sci-fi real-time strategy series to arrive on March 8. <a href="https://www.gamespot.com/games/helldivers-ii/">Helldivers 2</a> is another interesting game on the horizon, as it mixes a heavy Starship Troopers influence
+
+## Xbox Series X Is Only $349 At Amazon, But It Will Sell Out
+ - [https://www.gamespot.com/articles/xbox-series-x-is-only-349-at-amazon-but-it-will-sell-out/1100-6519616/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-series-x-is-only-349-at-amazon-but-it-will-sell-out/1100-6519616/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T14:18:00+00:00
+
+<div><div class="norewrite" title="[Various] Xbox Series X">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/3999536-xboxseriesx.png" />                                 <a href="https://www.amazon.com/Xbox-1TB-SSD-Console-Controller-Architecture/dp/B08H75RTZ8?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/Xbox-1TB-SSD-Console-Controller-Architecture/dp/B08H75RTZ8?tag=gamespot-promos-20">Xbox Series X
+
+## GTA 6's First Trailer Coming December 5, Miami Setting Teased
+ - [https://www.gamespot.com/articles/gta-6s-first-trailer-coming-december-5-miami-setting-teased/1100-6519615/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/gta-6s-first-trailer-coming-december-5-miami-setting-teased/1100-6519615/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T14:01:00+00:00
+
+<p>Rockstar Games has heavily hinted the first trailer for the next Grand Theft Auto game will arrive on Tuesday, December 5. It will appear that day at 6 AM PT / 9 AM ET, Rockstar said in a social media post and confirmed with GameSpot.</p><p>A teaser image suggests that the rumors were right and that the next GTA could be set in GTA's version of Miami--Vice City--given the palm trees and seagulls in the teaser image. The teaser does not mention GTA by name, but in all likelihood, that's what this image is referring to.</p><p>An email from Rockstar Games states that this will be "trailer 1" for the next GTA game. Whether or not GTA 6 shows up two days later at The Game Awards on December 7 remains to be seen.</p><a href="https://www.gamespot.com/articles/gta-6s-first-trailer-coming-december-5-miami-setting-teased/1100-6519615/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Furiosa: A Mad Max Saga Trailer Shows Anya-Taylor Joy Shredding Through Wasteland
+ - [https://www.gamespot.com/articles/furiosa-a-mad-max-saga-trailer-shows-anya-taylor-joy-shredding-through-wasteland/1100-6519614/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/furiosa-a-mad-max-saga-trailer-shows-anya-taylor-joy-shredding-through-wasteland/1100-6519614/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T13:34:00+00:00
+
+<p>The first trailer for the next Mad Max movie, Furiosa: A Mad Max Saga, has arrived--and it's pretty epic. A prequel to Mad Max: Fury Road, Furiosa focuses on the character Furiosa, who was played by Charlize Theron in Fury Road and is now depicted by Anya Taylor-Joy.</p><p>George Miller returns to direct once again in what's described as an "original, standalone" action movie that will reveal the origins of Furiosa. In addition to Taylor-Joy, the movie features Chris Hemsworth as Dementus. As you can see in the trailer, Furiosa looks like it features a lot of what made Fury Road great, including action, beautiful cinematography, and epic vehicles ripping through the desert. We also see that Furiosa's arm is missing, and the movie may explain what happened.</p><div>          </div><p>"As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus," reads a line from the movie's descriptio
+
+## Furiosa: A Max Max Saga Trailer Shows Anya-Taylor Joy Shredding Through Wasteland
+ - [https://www.gamespot.com/articles/furiosa-a-max-max-saga-trailer-shows-anya-taylor-joy-shredding-through-wasteland/1100-6519614/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/furiosa-a-max-max-saga-trailer-shows-anya-taylor-joy-shredding-through-wasteland/1100-6519614/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-01T13:34:00+00:00
+
+<p>The first trailer for the next Mad Max movie, Furiosa: A Mad Max Saga, has arrived--and it's pretty epic. A prequel to Mad Max: Fury Road, Furiosa focuses on the character Furiosa, who was played by Charlize Theron in Fury Road and is now depicted by Anya Taylor-Joy.</p><p>George Miller returns to direct once again in what's described as an "original, standalone" action movie that will reveal the origins of Furiosa. In addition to Taylor-Joy, the movie features Chris Hemsworth as Dementus. As you can see in the trailer, Furiosa looks like it features a lot of what made Fury Road great, including action, beautiful cinematography, and epic vehicles ripping through the desert. We also see that Furiosa's arm is missing, and the movie may explain what happened.</p><div>          </div><p>"As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus," reads a line from the movie's descriptio
+

@@ -1,0 +1,219 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Remains of previously unknown Canadian First World War soldier identified in France
+ - [https://www.cbc.ca/news/politics/world-war-one-soldier-identified-1.7048937?cmp=rss](https://www.cbc.ca/news/politics/world-war-one-soldier-identified-1.7048937?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T18:46:21+00:00
+
+<img alt="An archived photograph shows three World War One era soldiers standing in front of a tent." height="349" src="https://i.cbc.ca/1.7048959.1701732570!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sgt-maj-alexander-mcvean.jpg" title="A prevoiusly unkown grave has been identified as belonging to Sgt.-Maj. Alexander McVean, left." width="620" /><p>The grave of a previously unknown First World War soldier has been identified, the Department of National Defence said Monday.</p>
+
+## Venezuela wins vote claiming oil-rich area of neighbouring Guyana
+ - [https://www.cbc.ca/news/canada/british-columbia/venezuela-vote-for-guyana-passes-1.7048794?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/venezuela-vote-for-guyana-passes-1.7048794?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T17:32:24+00:00
+
+<img alt="A man speaks to a crowd from a podium covered in colourful lights." height="349" src="https://i.cbc.ca/1.7048802.1701726714!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/venezuela-guyana-territory-dispute.jpg" title="Venezuela President Nicolas Maduro speaks to pro-government supporters after a referendum regarding Venezuela&apos;s claim to Essequibo, a region administered and controlled by Guyana, in Caracas, Venezuela on Dec. 3, 2023." width="620" /><p>Venezuelan President Nicolas Maduro got the victory he sought in a weekend referendum on whether to claim sovereignty over an oil-rich area of neighbouring Guyana. But lackluster turnout suggested his government is losing influence and is tone deaf to people's needs.</p>
+
+## Rogers told to produce records for Competition Bureau investigation of wireless phone plans
+ - [https://www.cbc.ca/news/business/rogers-competition-bureau-1.7048677?cmp=rss](https://www.cbc.ca/news/business/rogers-competition-bureau-1.7048677?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T16:15:13+00:00
+
+<img alt="Rogers raised the price to call the U.S. without a long-distance plan to $1 per minute — a figure that is in line with the other industry leaders." height="349" src="https://i.cbc.ca/1.6820906.1682369411!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rogers-logos.jpg" title="Breakdown at Rogers. Generic images with the Rogers Communications logo. Photo taken in Montreal, Quebec, Canada. Pictured: (Left to right) The Rogers logo on an iPad, iPhone and computer July 08, 2022 2022/07/08" width="620" /><p>The Competition Bureau has been granted an order by the Federal Court of Canada requiring Rogers Communications Inc. to produce records related to an investigation into the company's Infinite wireless phone plans.</p>
+
+## Thunder Bay man pleads guilty to 2 charges in Norval Morrisseau art fraud investigation
+ - [https://www.cbc.ca/news/canada/thunder-bay/norval-morrisseau-fraud-investigation-guilty-plea-1.7048669?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/norval-morrisseau-fraud-investigation-guilty-plea-1.7048669?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T16:00:19+00:00
+
+<img alt="Man beside artwork" height="349" src="https://i.cbc.ca/1.6767533.1677873578!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/norval-morrisseau.jpg" title="Norval Morrisseau, shown with one of his earlier paintings at a Vancouver gallery on May 11, 1987, was a renowned artist from the Ojibway Bingwi Neyaashi Anishinaabek First Nation in northwestern Ontario. He died in 2007. Police in Ontario have been investigation apparent forgery of his art for years. On Friday, it was announced that eight people have been charged 1,000 paintings were seized." width="620" /><p>One of eight people charged in the Norval Morrisseau art forgery case pleaded guilty to two charges Monday in the Ontario Superior Court of Justice in Thunder Bay, Ont.</p>
+
+## CBC/Radio-Canada to cut 10% of workforce, end some programming as it faces $125M budget shortfall
+ - [https://www.cbc.ca/news/politics/cbc-radio-canada-layoffs-budget-1.7048530?cmp=rss](https://www.cbc.ca/news/politics/cbc-radio-canada-layoffs-budget-1.7048530?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T15:21:05+00:00
+
+<img alt="Pedestrians cross the foyer of the Radio-Canada headquarters in Montreal on Oct. 31 2023." height="349" src="https://i.cbc.ca/1.7048578.1701718209!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-hq.jpg" title="Pedestrians cross the foyer of the Radio-Canada headquarters in Montreal on Oct. 31 2023." width="620" /><p></p>
+
+## House of Commons Speaker apologizes for appearing in video message at Ontario Liberal convention
+ - [https://www.cbc.ca/news/politics/greg-fergus-aplogizes-video-ontario-convention-1.7048547?cmp=rss](https://www.cbc.ca/news/politics/greg-fergus-aplogizes-video-ontario-convention-1.7048547?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T14:51:19+00:00
+
+<img alt="The Speaker of the House of Commons rises in his chair on the floor of the House. A Canadian flag is seen drapped beside him." height="349" src="https://i.cbc.ca/1.7048550.1701717187!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/commons-20231123.JPG" title="Speaker of the House of Commons Greg Fergus rises during Question Period, Thursday, November 23, 2023 in Ottawa." width="620" /><p>House of Commons Speaker Greg Fergus apologized in the House of Commons on Monday for appearing in a video message played at the recent Ontario Liberal leadership convention.</p>
+
+## Is this the most powerful generation of workers in decades?
+ - [https://www.cbc.ca/news/canada/is-this-the-most-powerful-generation-of-workers-in-decades-1.7048673?cmp=rss](https://www.cbc.ca/news/canada/is-this-the-most-powerful-generation-of-workers-in-decades-1.7048673?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T14:50:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/1000/135/TOR_EXP_LABOUR_MOVEMENT_THUMBNAIL_(1).png" title="" width="620" /><p>Canadian workers have been striking and rallying for better workplace wages and conditions throughout 2023. And many non-traditional industries are forming unions. We explore why this generation of workers has more bargaining power compared to the ones before them.</p>
+
+## Moncton mayor issues apology, says city acted 'too quickly' in menorah decision
+ - [https://www.cbc.ca/news/canada/new-brunswick/moncton-menorah-mayor-dawn-arnold-statement-1.7048461?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/moncton-menorah-mayor-dawn-arnold-statement-1.7048461?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T14:30:15+00:00
+
+<img alt="A woman looks up to the right with an Acadian flag in the background." height="349" src="https://i.cbc.ca/1.6731797.1675178381!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/moncton-mayor-dawn-arnold-speaking-to-reporters-in-the-city-on-jan-31-2023.jpg" title="Moncton Mayor Dawn Arnold speaking to reporters in the city on Jan. 31, 2023." width="620" /><p>Following a swift outcry, including a petition with more than 6,000 signatures, Moncton Mayor Dawn Arnold has released the city's first public statement since its decision to not allow a menorah to be displayed outside city hall.</p>
+
+## ‘Where’s my mom?’ daughter of Canadian hostage describes agonizing wait
+ - [https://www.cbc.ca/news/thenational/where-s-my-mom-daughter-of-canadian-hostage-describes-agonizing-wait-1.7048565?cmp=rss](https://www.cbc.ca/news/thenational/where-s-my-mom-daughter-of-canadian-hostage-describes-agonizing-wait-1.7048565?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T14:10:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/984/1019/EVANS_2_MPX.jpg" title="" width="620" /><p>Iris Weinstein Haggai — the daughter of Canadian Judith Weinstein who is feared to be held hostage in Gaza speaks to CBC’s Margaret Evans about what happened to her parents on Oct. 7 — and the agonizing wait to learn if her mother is alive or dead.</p>
+
+## Guard knew risk of restraining Soleiman Faqiri, says policies often followed only when 'convenient'
+ - [https://www.cbc.ca/news/canada/toronto/soleiman-faqiri-inquest-day-11-1.7048457?cmp=rss](https://www.cbc.ca/news/canada/toronto/soleiman-faqiri-inquest-day-11-1.7048457?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T13:58:21+00:00
+
+<img alt="Blood smears were among the hundreds of photos of the scene taken by investigators following Faqiri’s death and obtained by The Fifth Estate. " height="349" src="https://i.cbc.ca/1.4997905.1700505415!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/central-east-correctional.jpg" title="There is no footage of what took place inside the cell. These blood smears were among the hundreds of photos of the scene taken by investigators following Faqiri’s death and obtained by The Fifth Estate. " width="620" /><p>A jail guard directly involved in restraining Soleiman Faqiri on the day of his death says he was trained that handcuffing a person face down behind their back could risk cutting off their air supply, but that policies were often followed only when "convenient."</p>
+
+## Neck laceration protectors now mandatory on all levels of international hockey after ex-NHLer Adam Johnson's death
+ - [https://www.cbc.ca/sports/hockey/iihf-neck-guard-mandatory-1.7048449?cmp=rss](https://www.cbc.ca/sports/hockey/iihf-neck-guard-mandatory-1.7048449?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T13:34:53+00:00
+
+<img alt="A hockey player wears a neck guard." height="349" src="https://i.cbc.ca/1.7048475.1701714749!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1453520229.jpg" title="MONCTON, NB - DECEMBER 31: Logan Cooley #92 of Team USA skates for the puck against Team Finland during the third period during the 2023 IIHF World Junior Championship at Avenir Centre on December 31, 2022 in Moncton, Canada. (Photo by Dale Preston/Getty Images)" width="620" /><p>The International Ice Hockey Federation said the exact date the mandate goes into effect for senior categories will be determined by supply of neck guards.</p>
+
+## Mastermind Toys to close 18 stores, will sell bulk of its business to Unity Acquisitions
+ - [https://www.cbc.ca/news/business/mastermind-toys-acquisition-1.7048307?cmp=rss](https://www.cbc.ca/news/business/mastermind-toys-acquisition-1.7048307?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T13:33:28+00:00
+
+<img alt="A blue and yellow sign affixed to a building says Mastermind Toys." height="349" src="https://i.cbc.ca/1.7048311.1701708119!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/mastermind-toys.jpeg" title="A Mastermind Toys storefront in shown in Toronto&apos;s Rosedale neighbourhood on Friday, Nov. 24, 2023. The Canadian toy retailer says it has reached a deal to sell the bulk of its business to Unity Acquisitions Inc." width="620" /><p>Mastermind GP Inc. says it has reached a deal to sell the bulk of its business to Unity Acquisitions Inc.</p>
+
+## Why Ukraine can't beat Russia’s 'elastic defence' | About That
+ - [https://www.cbc.ca/news/canada/why-ukraine-can-t-beat-russia-s-elastic-defence-about-that-1.7048643?cmp=rss](https://www.cbc.ca/news/canada/why-ukraine-can-t-beat-russia-s-elastic-defence-about-that-1.7048643?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T12:28:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/958/142/1-at-041223.jpg" title="" width="620" /><p>Progress on the battlefield between Russia and Ukraine has slowed in both directions. Andrew Chang explores Russia's "elastic defence" tactic and why Ukraine is struggling to find a strategic edge.</p>
+
+## Large pro-Israel rally planned for Parliament Hill as bus company cancels some transportation
+ - [https://www.cbc.ca/news/politics/pro-israel-rally-parliament-hill-1.7048263?cmp=rss](https://www.cbc.ca/news/politics/pro-israel-rally-parliament-hill-1.7048263?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T11:48:03+00:00
+
+<img alt="People gather holding Israeli and Canadian flags at a demonstration in support of Israel and the release of hostages held by Hamas." height="349" src="https://i.cbc.ca/1.7048266.1701706083!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cda-israel-hamas-rallies-20231112.JPG" title="People gather following a demonstration in support of Israel and the release of hostages, in Toronto, Sunday, Nov. 12, 2023. A large rally is expected on Parliament Hill on Monday." width="620" /><p>Dozens of buses left the Toronto area early Monday destined for a national rally on Parliament Hill to show support for Israel in its war with Hamas in Gaza and denounce a wave of antisemitism in Canada.</p>
+
+## Toronto filmmaker Charles Officer dies at 48
+ - [https://www.cbc.ca/news/canada/toronto/toronto-filmmaker-charles-officer-dies-at-48-1.7047947?cmp=rss](https://www.cbc.ca/news/canada/toronto/toronto-filmmaker-charles-officer-dies-at-48-1.7047947?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T10:23:41+00:00
+
+<img alt="A black and white photo of a man. The camera is close to his face and he is smiling." height="349" src="https://i.cbc.ca/1.4013589.1701703940!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/charles-officer.jpg" title="" width="620" /><p>Charles Officer, a Canadian filmmaker whose work spanned feature film, documentary and television, died at his home in Toronto on Friday, according to his friend and producing partner Jake Yanowski. </p>
+
+## Spotify cutting 17 per cent of workforce in 3rd round of layoffs this year
+ - [https://www.cbc.ca/news/business/spotify-cutting-17-per-cent-workforce-1.7048124?cmp=rss](https://www.cbc.ca/news/business/spotify-cutting-17-per-cent-workforce-1.7048124?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T10:13:15+00:00
+
+<img alt="A green logo for music streaming giant Spotify." height="349" src="https://i.cbc.ca/1.5409362.1701700971!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/spotify-tech-results.JPG" title="The Spotify logo is displayed on a screen on the floor of the New York Stock Exchange (NYSE) in New York, U.S., May 3, 2018." width="620" /><p>Music streaming giant Spotify said on Monday that it will lay off around 1,500 employees, or 17 per cent of its workforce, to bring down costs, after letting 600 of its staff go in January, and 200 more in June.</p>
+
+## Prominent Hong Kong activist Agnes Chow jumps bail and moves to Canada
+ - [https://www.cbc.ca/news/world/agnes-chow-hong-kong-canada-toronto-1.7048087?cmp=rss](https://www.cbc.ca/news/world/agnes-chow-hong-kong-canada-toronto-1.7048087?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T09:15:18+00:00
+
+<img alt="A woman speaks before a large set of microphones." height="349" src="https://i.cbc.ca/1.7048101.1701697420!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1164773236.jpg" title="HONG KONG, CHINA - AUGUST 30: Hong Kong pro-democracy activists Agnes Chow speaks to members of media at the Eastern Magistrates&apos; Courts after being arrested and released on bail on August 30, 2019 in Hong Kong, China. Pro-democracy protesters have continued demonstrations across Hong Kong since 9 June against a controversial bill which allows extraditions to mainland China as the ongoing protests surpassed the Umbrella Movement five years ago, becoming the biggest political crisis since Britain handed its onetime colony back to China in 1997. Hong Kong&apos;s embattled leader Carrie Lam apologized for introducing the bill and declared it &quot;dead&quot;, however the campaign continues to draw large crowds to voice their discontent while many end up in violent clashes with the police a
+
+## Kangaroo on the run in southern Ontario found and captured, police say
+ - [https://www.cbc.ca/news/canada/toronto/oshawa-kangaroo-zoo-1.7048082?cmp=rss](https://www.cbc.ca/news/canada/toronto/oshawa-kangaroo-zoo-1.7048082?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T08:27:53+00:00
+
+<img alt="An image of the kangaroo, taken from a video, when it was on the loose in Oshawa on Friday morning. " height="349" src="https://i.cbc.ca/1.7046906.1701494300!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kangaroo-1.jpg" title="An image of the kangaroo, taken from a video, when it was on the loose in Oshawa on Friday morning. " width="620" /><p>The marsupial that was missing east of Toronto since last week was found and captured early Monday and is set to go to the Oshawa Zoo for a health check up, police in Durham Region said.</p>
+
+## Indonesian volcano eruption leaves 11 confirmed dead, several suffering burns
+ - [https://www.cbc.ca/news/world/indonesia-mount-merapi-eruption-1.7048032?cmp=rss](https://www.cbc.ca/news/world/indonesia-mount-merapi-eruption-1.7048032?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T07:26:49+00:00
+
+<img alt="A large ball of grey smoke is shown rising from a mountaintop." height="349" src="https://i.cbc.ca/1.7048044.1701690081!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1819265046.jpg" title="TOPSHOT - Volcanic ash spews from Mount Marapi during an eruption as seen from Batu Palano village in Agam on December 4, 2023. (Photo by ADI PRIMA / AFP) (Photo by ADI PRIMA/AFP via Getty Images)" width="620" /><p>The bodies of 11 climbers were recovered Monday a day after a furious eruption of the Mount Marapi volcano as Indonesian rescuers searched for 12 apparently still missing.</p>
+
+## Saskatchewan has 5 active fur farms. Critics say they should be banned
+ - [https://www.cbc.ca/news/canada/saskatoon/five-active-fur-farms-in-saskatchewan-1.7046918?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/five-active-fur-farms-in-saskatchewan-1.7046918?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T07:00:45+00:00
+
+<img alt="Fox furs hang waiting to be sold." height="349" src="https://i.cbc.ca/1.5721639.1701470974!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/red-fox-fur-samples-hung-for-sale-at-fur-harvesters-auction-inc.jpeg" title="Hundreds of red fox furs hang waiting for sale at the only Canadian wild fur auction still standing." width="620" /><p>Critics say Saskatchewan and Canada should ban fur farming for public health reasons and to prevent cruelty, but a pro-fur advocate says the industry is a proud Canadian tradition and an important part of the country's economy.</p>
+
+## B.C. doctor fired for refusing COVID-19 shot loses bid to get hospital privileges back
+ - [https://www.cbc.ca/news/canada/british-columbia/theresa-szezepaniak-bc-hospital-appeal-board-covid-vaccine-1.7046988?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/theresa-szezepaniak-bc-hospital-appeal-board-covid-vaccine-1.7046988?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T07:00:00+00:00
+
+<img alt="A person puts a needle in another person&apos;s arm" height="349" src="https://i.cbc.ca/1.6558623.1697677776!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/first-covid-vaccine-in-nova-scotia.jpg" title="Halifax Nurse Danielle Sheaves first to receive the Pfizer-BioNTech Covid-19 vaccine in Nova Scotia. See her getting injection in Halifax on 16 Dec 2020, medium close up." width="620" /><p>The Hospital Appeal Board has found that Dr. Theresa Szezepaniak’s refusal of the shot in 2021 amounted to neglect of her obligations as a hospitalist at Royal Inland Hospital, and the decision to take action on her privileges was appropriate.</p>
+
+## Alberta BMO customer on the hook after almost $10K disappeared from her account
+ - [https://www.cbc.ca/news/canada/edmonton/bmo-camrose-county-10k-line-of-credit-1.7044049?cmp=rss](https://www.cbc.ca/news/canada/edmonton/bmo-camrose-county-10k-line-of-credit-1.7044049?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T06:00:00+00:00
+
+<img alt="A woman wearing a tank top has a neutral expression on her face." height="349" src="https://i.cbc.ca/1.7044070.1701293216!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/charlene.jpg" title="Charlene MacNeil says nearly $10,000 was transferred out of her bank account without her permission in August. Her bank, BMO, has refused to reimburse the full amount." width="620" /><p>An Alberta woman who says her line of credit was drained and then transferred out of her bank account without her permission has been fighting for three months to have the amount reimbursed by the Bank of Montreal. </p>
+
+## Manitoba First Nations dive team brings closure to families after drownings
+ - [https://www.cbc.ca/news/canada/manitoba/island-lake-search-rescue-team-1.7030163?cmp=rss](https://www.cbc.ca/news/canada/manitoba/island-lake-search-rescue-team-1.7030163?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T06:00:00+00:00
+
+<img alt="The Oogoogeek Dive Team do underwater recovery around Island Lake and the waters surrounding other northern communities." height="349" src="https://i.cbc.ca/1.7046770.1701463145!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/island-lake-dive-team.jpg" title="Kurt Mason and two other members of the Oogoogeek Dive Team sit on the edge of boats before plunging into the water to recover a missing community member. " width="620" /><p>The Oogoogeek Dive Team in northeastern Manitoba's Island Lake region, which has members from three of four Island Lake First Nations, does underwater recovery to help bring closure to families and their communities after drownings.</p>
+
+## Volunteer dog walkers in Regina pitch in to help people with mobility issues and their pets
+ - [https://www.cbc.ca/news/canada/saskatchewan/new-regina-volunteer-group-provides-free-dog-walking-service-for-those-with-mobility-issues-1.7046071?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/new-regina-volunteer-group-provides-free-dog-walking-service-for-those-with-mobility-issues-1.7046071?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T06:00:00+00:00
+
+<img alt="Doug Lambert, a volunteer with Dog Paaws,  walking Glenda Jeffries&apos; poodle Josie." height="349" src="https://i.cbc.ca/1.7046099.1701441839!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/doug-lambert.JPG" title="Doug Lambert, a volunteer with Dog Paaws,  walking Glenda Jeffries&apos; poodle Josie." width="620" /><p>A new Regina volunteer organization named Dog Paaws pairs up seniors and those with mobility issues with a volunteer that will walk their dogs and provide pet assistance for free. Since its inception in October, three seniors have been matched with volunteers.</p>
+
+## New Brunswick's peatlands: A little-known industry troubled by rainy weather
+ - [https://www.cbc.ca/news/canada/new-brunswick/nb-peat-industry-troubled-bad-weather-1.7044671?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/nb-peat-industry-troubled-bad-weather-1.7044671?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T05:00:00+00:00
+
+<img alt="Peat bog" height="349" src="https://i.cbc.ca/1.7045074.1701368001!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/peatlands.JPG" title="On New Brunswick&apos;s Acadian Peninsula, peatlands span much of the landscapes and turn bright colours in the fall. The bogs on Miscou Island, including the one pictured, are protected and not used for commercial operations." width="620" /><p>The organic soil underneath the surface of bogs is a big business in northeast New Brunswick, processed and shipped around the world as a starter for everything from roses to tomatoes.</p>
+
+## As the Assembly of First Nations elects a new chief, who's running and how does the election work?
+ - [https://www.cbc.ca/news/indigenous/afn-election-2023-1.7046585?cmp=rss](https://www.cbc.ca/news/indigenous/afn-election-2023-1.7046585?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T04:00:00+00:00
+
+<img alt="A woman sits on stage the background while the Assembly of First Nations logo is see out of focus in the foreground." height="349" src="https://i.cbc.ca/1.7045235.1701389421!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/afn-meeting-20230713.jpg" title="Newly-appointed Interim National Chief of the Assembly of First Nations Joanna Bernard on stage during the AFN annual general assembly in Halifax on Thursday, July 13, 2023. " width="620" /><p>Assembly of First Nations chiefs will try to move past years of top-level turmoil this week in Ottawa when they meet to elect a new national chief — and with the recent leadership controversy throwing the storied, 55-year-old organization’s credibility into question, much will be at stake.</p>
+
+## Can we build them? Yes we can, city officials say of Thunder Bay, Ont.'s housing goals
+ - [https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-housing-strategy-1.7044818?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-housing-strategy-1.7044818?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T04:00:00+00:00
+
+<img alt="Two people measure a wooden bench in a woodworking shop." height="349" src="https://i.cbc.ca/1.7046430.1701451883!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lyndon-wagenaar-and-justin-reid.jpg" title="Lyndon Wagenaar, left, is a full-time instructor for Confederation College&apos;s carpentry apprenticeship program in Thunder Bay, Ont. Justin Reid, right, is one of his students who is working toward getting his Red Seal certification." width="620" /><p>As one of the Ontario municipalities that have met their 2023 new housing targets, Thunder Bay's housing goals for the next three years are lofty, but something city officials say can be met. Here's how the city plans to get it done.</p>
+
+## Pay our teachers and get us back in school, young students tell Quebec premier
+ - [https://www.cbc.ca/news/canada/montreal/strikes-students-children-classroom-legault-1.7046357?cmp=rss](https://www.cbc.ca/news/canada/montreal/strikes-students-children-classroom-legault-1.7046357?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T04:00:00+00:00
+
+<img alt="A person smiling." height="349" src="https://i.cbc.ca/1.7047989.1701691836!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/eva-thomas-paskal.jpg" title="Eva Thomas-Paskal, 17, is in her final year of high school. She supports the province&apos;s teachers in their bid for better pay and working conditions. " width="620" /><p>As labour disputes in Quebec's public sector continue, young students are weighing in and urging the Quebec government to meet the demands of their teachers.</p>
+
+## Power company says it's halting battery storage plan after backlash, death threat
+ - [https://www.cbc.ca/news/canada/ottawa/baseload-power-elizabethtown-kitley-township-lithium-ion-energy-storage-opposition-ontario-power-1.7047393?cmp=rss](https://www.cbc.ca/news/canada/ottawa/baseload-power-elizabethtown-kitley-township-lithium-ion-energy-storage-opposition-ontario-power-1.7047393?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T04:00:00+00:00
+
+<img alt="co friendly battery energy storage system in nature with misty forest in background and fresh grassland in foreground. 3d rendering." height="349" src="https://i.cbc.ca/1.7047735.1701620938!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/eco-friendly-battery-energy-storage-system-in-nature-with-misty.jpeg" title="Eco friendly battery energy storage system in nature with misty forest in background and fresh grassland in foreground. 3d rendering." width="620" /><p>A Toronto-based power corporation says it's halting its proposal for a battery storage facility in the Township of Elizabethtown-Kitley after facing intense local pushback — including someone uttering a death threat during an open house.</p>
+
+## Power company says it's halting battery storage plan after backlash, death threat
+ - [https://www.cbc.ca/news/canada/ottawa/baseload-elizabethtown-kitley-energy-storage-opposition-ontario-power-1.7047393?cmp=rss](https://www.cbc.ca/news/canada/ottawa/baseload-elizabethtown-kitley-energy-storage-opposition-ontario-power-1.7047393?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T04:00:00+00:00
+
+<img alt="A rendering of a battery energy storage system with a misty forest in the background and fresh grassland in the foreground." height="349" src="https://i.cbc.ca/1.7047735.1701697879!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/battery-energy-storage-system-elizabethtown-kitley.jpeg" title="Eco friendly battery energy storage system in nature with misty forest in background and fresh grassland in foreground. 3d rendering." width="620" /><p>A Toronto-based power corporation says it's halting its proposal for a battery storage facility south of Ottawa after facing intense local pushback — including someone uttering a death threat during an open house.</p>
+
+## Southern B.C. set for a soaking as atmospheric river, king tide coincide
+ - [https://www.cbc.ca/news/canada/british-columbia/heavy-rain-south-coast-1.7047928?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/heavy-rain-south-coast-1.7047928?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-04T00:15:18+00:00
+
+<img alt="Two pedestrians are shown holding their umbrellas at an angle to protect them from the wind." height="349" src="https://i.cbc.ca/1.6978797.1695752866!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/vancouver-wind-rain.jpg" title="People are pictured during a period of windy, rainy weather in Vancouver on Monday, Sept.r 25, 2023." width="620" /><p>Drenching rain, heavy snow, strong winds and high tides are converging on coastal and southern British Columbia.</p>
+

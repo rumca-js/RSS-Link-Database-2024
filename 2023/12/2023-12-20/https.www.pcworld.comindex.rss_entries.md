@@ -1,0 +1,63 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Kofax Power PDF 5 review: A powerful Acrobat alternative
+ - [https://www.pcworld.com/article/2166786/kofax-power-pdf-5-review.html](https://www.pcworld.com/article/2166786/kofax-power-pdf-5-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-12-20T14:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Multi-platform</li><li>Advanced editing capabilities</li><li>Easy to use </li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Standard and Mac versions omit some advanced tools</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">Kofax Power PDF 5 makes it easy to edit, annotate, and secure PDF documents but you have to spend a little more for the advanced version to unlock all its capabilities.</p>
+</d
+
+## Microsoft’s wins, fails, and WTF moments of 2023
+ - [https://www.pcworld.com/article/2168757/microsofts-wins-fails-and-wtf-moments-of-2023.html](https://www.pcworld.com/article/2168757/microsofts-wins-fails-and-wtf-moments-of-2023.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-12-20T12:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p><em>The year 2023 was a roller-coaster ride for Microsoft, as the tech giant faced both triumphs and tribulations in its quest to dominate the industry. From launching new products and services, to dealing with lawsuits and scandals, to making some surprising moves and announcements, Microsoft had its share of wins, fails, and WTF moments. </em></p>
+
+
+
+<p>Not bad, huh? I asked Microsoft Copilot to write that, saving me a precious minute or two. And then it happily gave me an example: <em>the launch of Windows 11</em>&hellip;which, of course, actually happened in October of 2021. So, yeah, that was Microsoft&rsquo;s 2023 in a nutshell: All the promise of AI, tempered with the reality that it still needs a <em>lot</em> of work. </p>
+
+
+
+<p>So as we continue our dubious holiday tradition of <a href="https://www.pcworld.com/article/559637/microsofts-wins-fails-and-wt
+
+## Viofo A229 Plus 3ch dash cam review: All the coverage with all the perks
+ - [https://www.pcworld.com/article/2165695/viofo-a229-plus-3ch-review.html](https://www.pcworld.com/article/2165695/viofo-a229-plus-3ch-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-12-20T11:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Front, interior, and rear cameras</li><li>Discrete interior camera for versatile placement</li><li>Colorful, detailed captures</li><li>Rear captures are as  good as the front captures</li><li>Phone connectivity</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Lots of wires to hide</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTo
+
+## Give 10TB of cloud backup for just $99.99
+ - [https://www.pcworld.com/article/2176534/2176534.html](https://www.pcworld.com/article/2176534/2176534.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-12-20T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Cloud backup may not exactly be the most exciting gift of the holiday season, but it&rsquo;s certainly a practical one. After all, what happens if someone runs out of space on their phone for all those holiday pictures? We all could use cloud backup, and <a href="https://shop.pcworld.com/sales/degoo-premium-lifetime-backup-plans-10tb?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=degoo-premium-lifetime-backup-plans-10tb&amp;utm_term=scsf-586298&amp;utm_content=a0xRn0000004h3BIAQ&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Degoo is offering a special deal</a> that runs through Christmas Day. Lock it in now to get 10TB of backup for just $99.99.</p>
+
+
+
+<p>Rated 4.3/5 stars, Degoo offers more storage space than Google Drive, OneDrive, and Dropbox combined with this standard plan. With elite AES 256-bit security to keep your files safe 
+

@@ -1,0 +1,163 @@
+# Source:POLITICO, URL:https://www.politico.eu/feed, language:en-US
+
+## MEP’s assistant injured in Brussels shooting
+ - [https://www.politico.eu/article/mep-sweden-brussels-shooting-injured/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/mep-sweden-brussels-shooting-injured/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T21:57:07+00:00
+
+Four people injured in shooting in Brussels on Wednesday night.
+
+## G7 to sanction Russian diamonds as of January
+ - [https://www.politico.eu/article/g7-russia-diamonds-sanctions-ukraine-war-as-of-january/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/g7-russia-diamonds-sanctions-ukraine-war-as-of-january/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T21:23:49+00:00
+
+Russian diamonds are one of the last resources not sanctioned by the G7, meaning the profits from selling them can go into the Kremlin's war chest.
+
+## German Left Party dissolves parliamentary faction after key member breaks away
+ - [https://www.politico.eu/article/germany-left-party-dissolves-parliament-bundestag-break-sahra-wagenknecht/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/germany-left-party-dissolves-parliament-bundestag-break-sahra-wagenknecht/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T20:15:42+00:00
+
+The faction was forced to officially disband after a prominent member split off to start a new populist party.
+
+## ISIS propaganda seducing ‘new generation of teenagers,’ French domestic intel
+ - [https://www.politico.eu/article/isis-propaganda-france-intelligence-radicalisation-teenagers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/isis-propaganda-france-intelligence-radicalisation-teenagers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T19:34:06+00:00
+
+Security chief warns Islamist ideology is likely to exist for a very long time to come.
+
+## Israel could open second front in Lebanon, defense minister hints
+ - [https://www.politico.eu/article/israel-could-open-second-front-lebanon-defense-minister-hintsgaza-hamas-war-yoav-gallant/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/israel-could-open-second-front-lebanon-defense-minister-hintsgaza-hamas-war-yoav-gallant/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T19:17:47+00:00
+
+Far from reining in military action, Yoav Gallant says Israel must push Hezbollah beyond the Litani river in southern Lebanon.
+
+## UK’s Rishi Sunak unveils plan to deem Rwanda safe for deportations
+ - [https://www.politico.eu/article/uk-rishi-sunak-unveil-plan-deem-rwanda-safe-deportations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/uk-rishi-sunak-unveil-plan-deem-rwanda-safe-deportations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T17:57:39+00:00
+
+Tory MPs pore over legislation aimed at jump-starting policy long snarled in the courts.
+
+## Putin trolls COP28 with oil talks next door
+ - [https://www.politico.eu/article/russia-vladimir-putin-trolls-cop28-with-oil-talks-next-door-to-climate-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/russia-vladimir-putin-trolls-cop28-with-oil-talks-next-door-to-climate-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T17:51:19+00:00
+
+His presence presented a symbolic split screen: Global climate talks in one frame, Putin's oil negotiations in the other.
+
+## Israel advocacy groups outspend pro-Palestinian groups on social media
+ - [https://www.politico.com/news/2023/12/06/israel-palestinian-advocacy-groups-social-media-spending-00130118?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.com/news/2023/12/06/israel-palestinian-advocacy-groups-social-media-spending-00130118?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T16:20:26+00:00
+
+Organizations including AIPAC have vastly outspent pro-Palestinian groups on Facebook and Instagram even as young Americans grow more critical of Israel.
+
+## Germany’s budget crisis: No clear way forward after coalition misses deadline
+ - [https://www.politico.eu/article/germany-budget-crisis-coalition-olaf-scholz-miss-deadline/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/germany-budget-crisis-coalition-olaf-scholz-miss-deadline/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T14:49:02+00:00
+
+Governing parties failed to reach a deal on the 2024 budget, prolonging Germany's fiscal freeze.
+
+## Boris Johnson’s COVID inquiry grilling: all the bombshell moments
+ - [https://www.politico.eu/article/boris-johnson-covid-19-inquiry-hearing-grilling-big-moments-pandemic/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/boris-johnson-covid-19-inquiry-hearing-grilling-big-moments-pandemic/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T13:11:34+00:00
+
+Britain's former prime minister is facing a two-day going-over by the country's official pandemic probe. POLITICO is tracking the key moments.
+
+## UK targets foreign suppliers with new Russia sanctions
+ - [https://www.politico.eu/article/uk-targets-foreign-suppliers-with-new-russia-sanctions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/uk-targets-foreign-suppliers-with-new-russia-sanctions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T12:19:53+00:00
+
+Announcement comes as new Foreign Secretary David Cameron jets off to Washington to stress support for Ukraine.
+
+## Belgian army will be throwing ‘stones’ within hours of a war starting, laments ex-general
+ - [https://www.politico.eu/article/belgian-army-throwing-stones-within-hours-war-ex-general-marc-thys/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/belgian-army-throwing-stones-within-hours-war-ex-general-marc-thys/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T12:07:55+00:00
+
+Crippling shortage of ammo leaves Belgium with Stone Age military.
+
+## Nepal arrests 10 on suspicion of recruiting locals for Russian army
+ - [https://www.politico.eu/article/nepal-arrests-10-local-alleged-russia-army-recruiters-ukraine-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/nepal-arrests-10-local-alleged-russia-army-recruiters-ukraine-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T11:44:27+00:00
+
+At least six Nepalis have already been killed in Ukraine fighting for Moscow, Kathmandu Post reports.
+
+## China rejects EU’s trade deficit complaint
+ - [https://www.politico.eu/article/china-rejects-eus-trade-deficit-complaint/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/china-rejects-eus-trade-deficit-complaint/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T11:31:30+00:00
+
+It makes no sense for the bloc to impose restrictions on high-tech exports and then complain about the trade deficit, says Beijing.
+
+## Boris Johnson hit by protests as he says sorry for UK’s COVID-19 ‘pain’
+ - [https://www.politico.eu/article/boris-johnson-hit-by-protests-as-he-apologizes-for-uks-covid-19-pain/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/boris-johnson-hit-by-protests-as-he-apologizes-for-uks-covid-19-pain/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T10:23:43+00:00
+
+Four protesters — who were quiet, but holding signs aimed at Johnson — were removed from the COVID-19 inquiry.
+
+## US envoy slams Orbán as a leader who ’embraces Putin’
+ - [https://www.politico.eu/article/us-ambassador-slams-hungary-pm-viktor-orban-embracing-russia-over-nato/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/us-ambassador-slams-hungary-pm-viktor-orban-embracing-russia-over-nato/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T08:22:30+00:00
+
+David Pressman also criticizes the Hungarian leader's anti-American rhetoric.
+
+## Oil tankers, golf buddies and explosives: Qatargate suspect’s side hustle
+ - [https://www.politico.eu/article/oil-tankers-golf-buddies-and-explosives-qatargate-suspects-side-hustle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/oil-tankers-golf-buddies-and-explosives-qatargate-suspects-side-hustle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T07:16:18+00:00
+
+Even as he allegedly worked for Qatar and Morocco, Francesco Giorgi was looking for other options.
+
+## France’s AI hopes collide with French love of regulating tech
+ - [https://www.politico.eu/article/thierry-breton-mistral-battle-france-ai-soul-tech-regulation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/thierry-breton-mistral-battle-france-ai-soul-tech-regulation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T05:00:00+00:00
+
+Many companies fear that regulating advanced AI models could deter innovation.
+
+## Trump: I won’t be a dictator ‘except on day one’
+ - [https://www.politico.com/news/2023/12/05/trump-dictator-day-one-00130310?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.com/news/2023/12/05/trump-dictator-day-one-00130310?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T04:24:40+00:00
+
+It’s not clear if he meant that statement to be a promise or a threat.
+
+## Taking medicines from bench to bedside
+ - [https://www.politico.eu/sponsored-content/the-role-of-ip-rights-in-taking-medicines-from-bench-to-bedside/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/sponsored-content/the-role-of-ip-rights-in-taking-medicines-from-bench-to-bedside/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T04:00:00+00:00
+
+The ongoing review of the EU Pharmaceutical Legislation is looking at recalibrating IP incentives. Intellectual Property fuels medical innovations from the research bench to the patient's bedside.
+
+## David Cameron is living his best life — while Boris Johnson squirms
+ - [https://www.politico.eu/article/david-cameron-is-living-his-best-life-while-boris-johnson-squirms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/david-cameron-is-living-his-best-life-while-boris-johnson-squirms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T03:01:00+00:00
+
+Britain's new foreign secretary tells friends he's thrilled to be back from the political graveyard.
+
+## A fixation on death tolls can be a fatal distraction
+ - [https://www.politico.eu/article/israel-hamas-gaza-a-fixation-on-death-tolls-can-be-a-fatal-distraction/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/israel-hamas-gaza-a-fixation-on-death-tolls-can-be-a-fatal-distraction/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T03:00:00+00:00
+
+Only the most trusted sources should be used for death tolls, and the most conservative estimates are often the most accurate.
+
+## China’s paranoid purge
+ - [https://www.politico.eu/article/chinas-paranoid-purge-xi-jinping-li-keqiang-qin-gang-li-shangfu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication](https://www.politico.eu/article/chinas-paranoid-purge-xi-jinping-li-keqiang-qin-gang-li-shangfu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+ - RSS feed: https://www.politico.eu/feed
+ - date published: 2023-12-06T03:00:00+00:00
+
+In a sign of instability in Beijing's top ranks, foreign policy and defense officials are vanishing as Xi roots outs perceived enemies.
+

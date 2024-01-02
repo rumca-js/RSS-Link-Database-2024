@@ -1,0 +1,9 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## 2023 Was a Great Year for Foldables, If You Could Afford One
+ - [https://gizmodo.com/2023-foldables-expensive-samsung-oneplus-google-1851118530](https://gizmodo.com/2023-foldables-expensive-samsung-oneplus-google-1851118530)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-12-22T14:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b80eabce13119bf3dcf052269fa7dad2.jpg" /><p>Last year, I <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/smartphone-apple-android-samsung-google-2023-prediction-1849920715">mused over</a> whether foldable smartphones would ever be affordable. I wanted to see them take off after falling in love with the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/samsung-galaxy-z-fold-4-review-price-positive-worth-it-1849449228">Galaxy Z Fold 4</a>. This year, I got my answer. It’s a resounding “No,” especially with the foldable market as it is right now. Even with the recently launched <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.motorola.com/us/smartphones-razr-gen-3/p" rel="noopener noreferrer" target="_blank">Motorola Razr</a>, a flip…</p><p><a href="https://gizmodo.com/2023-foldables-expensive-samsung
+

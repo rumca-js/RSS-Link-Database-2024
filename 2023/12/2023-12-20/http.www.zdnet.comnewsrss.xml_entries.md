@@ -1,0 +1,184 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## The best cameras of 2023
+ - [https://www.zdnet.com/article/best-camera/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-camera/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T21:37:34+00:00
+
+ZDNET experts gathered the best cameras for entry-level to professional users including top point-and-shoot, mirrorless, and DSLR cameras.
+
+## Apple's Vision Pro may launch in February - with its most sophisticated buying process yet
+ - [https://www.zdnet.com/article/apples-vision-pro-may-launch-in-february-with-its-most-sophisticated-buying-process-yet/#ftag=RSSbaffb68](https://www.zdnet.com/article/apples-vision-pro-may-launch-in-february-with-its-most-sophisticated-buying-process-yet/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T21:34:00+00:00
+
+A Bloomberg report suggests Apple is ramping up Vision Pro production and telling developers to 'get ready,' as the retail launch may happen earlier than many expected.
+
+## The best iPad screen protectors of 2023
+ - [https://www.zdnet.com/article/best-ipad-screen-protector/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-ipad-screen-protector/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T20:28:23+00:00
+
+The best iPad screen protectors can protect against damage, and potentially offer privacy or blue-light screening. Here are our top picks.
+
+## Microsoft Copilot can write songs for you now. Here's how to try it
+ - [https://www.zdnet.com/article/microsoft-copilot-can-now-write-songs-for-you-heres-how-to-try-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-copilot-can-now-write-songs-for-you-heres-how-to-try-it/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T20:14:43+00:00
+
+Thanks to the Suno plug-in, Copilot will not only generate the lyrics for your requested song but also play the tune for you.
+
+## The best iPad keyboard cases of 2023: Expert reviewed
+ - [https://www.zdnet.com/article/best-ipad-keyboard-case/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-ipad-keyboard-case/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T19:25:26+00:00
+
+These are the best iPad keyboard cases for protection and productivity needs.
+
+## The best tablets of 2023: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-tablet/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-tablet/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T19:22:00+00:00
+
+Our tested picks for top tablets will help you choose the best one for your needs.
+
+## I tested the first wireless earbuds with xMEMs drivers, and they've set a new standard for me
+ - [https://www.zdnet.com/article/i-tested-the-first-wireless-earbuds-with-xmems-drivers-and-theyve-set-a-new-standard-for-me/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-tested-the-first-wireless-earbuds-with-xmems-drivers-and-theyve-set-a-new-standard-for-me/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T19:14:00+00:00
+
+I was fully prepared to call xMEMS a gimmick. But the Aurvana Ace 2 earbuds impressed me in ways I never thought possible for a pair priced at $150.
+
+## How to use those new add-ons in Firefox for Android (and why you definitely should)
+ - [https://www.zdnet.com/article/how-to-use-those-new-add-ons-in-firefox-for-android-and-why-you-definitely-should/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-those-new-add-ons-in-firefox-for-android-and-why-you-definitely-should/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T18:50:31+00:00
+
+Firefox Mobile can now use add-ons - aka extensions - to expand the browser's features and improve your overall experience. Here's how to install them.
+
+## This handy Firefox Mobile feature is saving your old tabs for you
+ - [https://www.zdnet.com/article/this-handy-firefox-mobile-feature-is-saving-your-old-tabs-for-you/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-handy-firefox-mobile-feature-is-saving-your-old-tabs-for-you/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T17:46:15+00:00
+
+Ever find some of your browser tabs have gone missing? There's a handy Firefox Mobile feature called Inactive Tabs that's easy to overlook. Here's what it does and how to use it.
+
+## Windows 12 FAQ: Yes, it's coming in 2024 (and more surprising predictions)
+ - [https://www.zdnet.com/article/windows-12-faq-yes-its-coming-in-2024-and-more-surprising-predictions/#ftag=RSSbaffb68](https://www.zdnet.com/article/windows-12-faq-yes-its-coming-in-2024-and-more-surprising-predictions/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T17:39:16+00:00
+
+Microsoft isn't talking, but I've collected rumors, speculation, and wild-ass guesses about the next version of Windows in this FAQ to help you get ready.
+
+## I went to Microsoft to talk about AI. I'm still a little startled (but hopeful too)
+ - [https://www.zdnet.com/article/i-went-to-microsoft-to-talk-about-ai-im-still-a-little-startled-but-hopeful-too/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-went-to-microsoft-to-talk-about-ai-im-still-a-little-startled-but-hopeful-too/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T17:32:38+00:00
+
+One night in 2023 affected my whole year in tech.
+
+## How to quickly check your MacOS Magic Keyboard and Mouse battery level
+ - [https://www.zdnet.com/article/how-to-quickly-check-your-macos-magic-keyboard-and-mouse-battery-level/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-quickly-check-your-macos-magic-keyboard-and-mouse-battery-level/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T16:40:44+00:00
+
+If you have an iMac and are always wondering how much battery life is left in your keyboard and mouse, guess no more! Here's the simple solution to this problem.
+
+## Google quietly adds real-time location sharing to Contacts app on Android
+ - [https://www.zdnet.com/article/google-quietly-releases-real-time-location-sharing-for-contacts-app-on-android-devices/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-quietly-releases-real-time-location-sharing-for-contacts-app-on-android-devices/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T16:36:27+00:00
+
+If you're an Android user, you can now see someone's location right from the Contacts app.
+
+## How to update a style in LibreOffice to reflect changes in your document
+ - [https://www.zdnet.com/home-and-office/work-life/how-to-update-a-style-in-libreoffice-to-reflect-changes-in-your-document/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/how-to-update-a-style-in-libreoffice-to-reflect-changes-in-your-document/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T16:17:37+00:00
+
+If you regularly alter styles you use in LibreOffice, the software has a handy trick up its sleeve to make this considerably easier.
+
+## Are solar-powered headphones the future or a gimmick? I tested them to find out
+ - [https://www.zdnet.com/article/are-solar-powered-headphones-the-future-or-a-gimmick-i-tested-them-to-find-out/#ftag=RSSbaffb68](https://www.zdnet.com/article/are-solar-powered-headphones-the-future-or-a-gimmick-i-tested-them-to-find-out/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T16:03:00+00:00
+
+The Urbanista Los Angeles headphones deliver great sound and a marathon battery life. But does the solar-powered tech live up to the hype?
+
+## How to quickly access recently viewed files and folders in MacOS
+ - [https://www.zdnet.com/article/how-to-quickly-access-recently-viewed-files-and-folders-in-macos/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-quickly-access-recently-viewed-files-and-folders-in-macos/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T16:00:44+00:00
+
+Whether you're having trouble finding a recently accessed file on your Mac, or you simply want a more efficient method of opening previously worked with files and/or applications, MacOS has you covered with this handy feature.
+
+## Why Android users and developers are the big winners in Google's massive antitrust settlement
+ - [https://www.zdnet.com/article/why-android-users-and-developers-are-the-big-winners-in-googles-massive-antitrust-settlement/#ftag=RSSbaffb68](https://www.zdnet.com/article/why-android-users-and-developers-are-the-big-winners-in-googles-massive-antitrust-settlement/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T15:59:21+00:00
+
+As part of the $700 million settlement, Google promises to make it easier for users to access and pay for apps from third-party stores and sideloaded sources.
+
+## The best book lights of 2023
+ - [https://www.zdnet.com/home-and-office/smart-home/best-book-light/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-book-light/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T15:18:00+00:00
+
+ZDNET experts found the best book lights to read in bed, use while traveling, read outdoors, and more.
+
+## Do companies have ethical guidelines for AI use? 56% of professionals are unsure, survey says
+ - [https://www.zdnet.com/article/do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says/#ftag=RSSbaffb68](https://www.zdnet.com/article/do-companies-have-ethical-guidelines-for-ai-use-56-of-professionals-are-unsure-survey-says/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T15:00:00+00:00
+
+Cognitive technologies such as generative AI have the most potential for both social good and serious ethical risk, according to survey respondents in Deloitte's second edition Technology Trust Ethics report.
+
+## The future of generative AI: Here's what technology analysts are saying
+ - [https://www.zdnet.com/article/the-future-of-generative-ai-heres-what-technology-analysts-are-saying/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-future-of-generative-ai-heres-what-technology-analysts-are-saying/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T15:00:00+00:00
+
+Technology analysts have an optimistic view of generative AI and its impact on the future of the enterprise.
+
+## The future of work is more human than you'd think, say these business experts
+ - [https://www.zdnet.com/home-and-office/work-life/the-future-of-work-is-more-human-than-youd-think-say-these-business-experts/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/the-future-of-work-is-more-human-than-youd-think-say-these-business-experts/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T14:04:00+00:00
+
+Generative AI, hybrid work, and a series of other emerging trends altered our jobs forever this year. Here's why a people-first approach is critical for organizations to succeed in 2024.
+
+## Sign up for Verizon 5G Home Internet and get a free Xbox Series X and a $200 Amazon gift card
+ - [https://www.zdnet.com/home-and-office/networking/sign-up-for-verizon-5g-home-internet-and-get-a-free-xbox-series-x-and-a-200-amazon-gift-card/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/sign-up-for-verizon-5g-home-internet-and-get-a-free-xbox-series-x-and-a-200-amazon-gift-card/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T13:37:55+00:00
+
+Verizon's holiday home internet plan deals start at $35 a month and include a ton of big free gifts right now.
+
+## Add CarPlay or Android Auto to your car with this $110 touchscreen display
+ - [https://www.zdnet.com/home-and-office/add-carplay-or-android-auto-to-your-car-with-this-110-touchscreen-display/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/add-carplay-or-android-auto-to-your-car-with-this-110-touchscreen-display/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T13:00:17+00:00
+
+Upgrade your car's info system with this 10-inch car display, which is $90 off right now.
+
+## How to easily change folder and file permissions on Linux
+ - [https://www.zdnet.com/article/how-to-easily-change-folder-and-file-permissions-on-linux/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-easily-change-folder-and-file-permissions-on-linux/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T11:17:20+00:00
+
+File permissions make it possible for you to allow or prevent other users from viewing files on your Linux-powered computer. Here's a simpler way of setting up file permissions from the command line.
+
+## How to get your cut of Apple's $25 million Family Sharing legal settlement
+ - [https://www.zdnet.com/article/how-to-get-your-cut-of-apples-25-million-family-sharing-legal-settlement/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-get-your-cut-of-apples-25-million-family-sharing-legal-settlement/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T10:49:51+00:00
+
+Settling a class action lawsuit, Apple may pay out anywhere from $30 to $50 to each qualifying user of its Family Sharing program. Here's how to try to collect your slice of the bounty.
+
+## How to replace Windows with Linux Mint on your PC
+ - [https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-20T10:02:00+00:00
+
+Sick of Windows? Want to try something different? Then it's time to try the best Linux desktop: Linux Mint 21.2.
+

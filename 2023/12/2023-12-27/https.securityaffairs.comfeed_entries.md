@@ -1,0 +1,30 @@
+# Source:Security Affairs, URL:https://securityaffairs.com/feed, language:en-US
+
+## Barracuda fixed a new ESG zero-day exploited by Chinese group UNC4841
+ - [https://securityaffairs.com/156502/breaking-news/barracuda-fixed-a-new-esg-zero-day-exploited-by-chinese-group-unc4841.html](https://securityaffairs.com/156502/breaking-news/barracuda-fixed-a-new-esg-zero-day-exploited-by-chinese-group-unc4841.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-12-27T14:13:03+00:00
+
+Security firm Barracuda addressed a new zero-day, affecting its Email Security Gateway (ESG) appliances, that is actively exploited by the China-linked UNC4841 group. On December 21, network and email cybersecurity firm Barracuda started releasing security updates to address a zero-day, tracked as CVE-2023-7102, in Email Security Gateway (ESG) appliances. The vulnerability has been actively exploited by [&#8230;]
+
+## Elections 2024, artificial intelligence could upset world balances
+ - [https://securityaffairs.com/156485/security/elections-2024-artificial-intelligence-impact.html](https://securityaffairs.com/156485/security/elections-2024-artificial-intelligence-impact.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-12-27T12:12:51+00:00
+
+Governments should recognize electoral processes as critical infrastructure and enact laws to regulate the use of generative Artificial Intelligence. Elections are scheduled in several countries worldwide in 2024, with potential geopolitical implications. Key events include the European Parliament elections in June, the U.S. presidential elections in November, and the French and German presidential elections in [&#8230;]
+
+## Experts analyzed attacks against poorly managed Linux SSH servers
+ - [https://securityaffairs.com/156466/hacking/threat-actors-linux-ssh-servers-attacks.html](https://securityaffairs.com/156466/hacking/threat-actors-linux-ssh-servers-attacks.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-12-27T11:02:52+00:00
+
+Researchers warn of attacks against poorly managed Linux SSH servers that mainly aim at installing DDoS bot and CoinMiner. Researchers at AhnLab Security Emergency Response Center (ASEC) are warning about attacks targeting poorly managed Linux SSH servers, primarily focused on installing DDoS bots and CoinMiners. In the reconnaissance phase, the threat actors perform IP scanning [&#8230;]
+
+## A cyberattack hit Australian healthcare provider St Vincent’s Health Australia
+ - [https://securityaffairs.com/156445/data-breach/st-vincents-health-australia-cyberattack.html](https://securityaffairs.com/156445/data-breach/st-vincents-health-australia-cyberattack.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-12-27T08:47:20+00:00
+
+St Vincent’s Health Australia, the largest Australian healthcare provider, suffered a data breach after a cyber attack. St Vincent’s Health Australia is the largest non-profit healthcare provider in the country, The healthcare system was hit by a cyberattack that resulted in a data breach. St Vincent’s Health Australia reported the incident to local authorities and [&#8230;]
+

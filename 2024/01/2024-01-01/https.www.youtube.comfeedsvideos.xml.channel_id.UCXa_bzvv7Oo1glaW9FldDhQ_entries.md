@@ -1,0 +1,13 @@
+# Source:GamingBolt, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ, language:en-US
+
+## 45 SINGLE PLAYER GAMES of 2024 And Beyond To Look Forward To
+ - [https://www.youtube.com/watch?v=zWGCdwhgeS8](https://www.youtube.com/watch?v=zWGCdwhgeS8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2024-01-01T13:30:30+00:00
+
+Multiplayer games, be they extraction shooters or some other live service, will always have a place in the public eye. However, the coming years offer much in terms of single-player efforts, even for titles with co-op elements.
+
+Sony has the likes of Rise of the Ronin to look forward to, while other exclusives like Silent Hill 2 Remake, Death Stranding 2 and Marvel's Wolverine wait to receive new details. Meanwhile, Microsoft has Senua's Saga: Hellblade 2 and S.T.A.L.K.E.R. 2: Heart of Chornobyl on top of other blockbusters.
+
+Of course, many are also looking forward to multi-platform titles like Metal Gear Solid Delta: Snake Eater and Grand Theft Auto 6. Let's check out 45 single-player titles of 2024 and beyond to keep an eye on.
+

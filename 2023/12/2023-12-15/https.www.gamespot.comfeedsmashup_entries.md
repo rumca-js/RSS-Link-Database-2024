@@ -1,0 +1,177 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## RIP E3 | Spot On
+ - [https://www.gamespot.com/videos/rip-e3-spot-on/2300-6463109](https://www.gamespot.com/videos/rip-e3-spot-on/2300-6463109)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T21:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4236303-spoton_s1ep023_ripe3_20231215v3.jpg" width="480" /> E3 is officially dead, but is that for better or for worse? What did it represent and offer, and what are we losing?
+
+## This Discounted Hot Wheels Gift Set Features Cars From Pixar And Disney Movies
+ - [https://www.gamespot.com/articles/this-discounted-hot-wheels-gift-set-features-cars-from-pixar-and-disney-movies/1100-6519979/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/this-discounted-hot-wheels-gift-set-features-cars-from-pixar-and-disney-movies/1100-6519979/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T20:55:00+00:00
+
+<p>It's the holiday season, and if you're looking for a last-minute gift that's small, thoughtful, and perfectly tailored for the gearhead in your life, you can't go wrong with a matchbox car. Specifically, anything from the Hot Wheels lineup, as the company's range of diecast vehicles stand the test of time, look great, and are durable enough to survive a tumble off your desk when you play with them a little too vigorously. Amazon and Best Buy have some great deals on <a href="https://www.amazon.com/Hot-Wheels-Disney-Premium-Bundle/dp/B0BBSQ62M9?tag=gamespot-promos-20">select Hot Wheels collectibles that will appeal to Disney</a> and Star Wars fans.</p><ul><li><a href="https://www.amazon.com/Hot-Wheels-Disney-Premium-Bundle/dp/B0BBSQ62M9?tag=gamespot-promos-20">Hot Wheels Premium Disney 100 Bundle (Five cars)</a> -- $20 ($<strike>38</strike>)</li><li><a href="https://www.amazon.com/Hot-Wheels-Lightyear-Character-Car/dp/B09CFMM88K?tag=gamespot-promos-20">Lightyear Hot Wheels five-pac
+
+## Save Over 50% On Hot Wheels: Rift Rally For PlayStation And iOS
+ - [https://www.gamespot.com/articles/save-over-50-on-hot-wheels-rift-rally-for-playstation-and-ios/1100-6515777/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/save-over-50-on-hot-wheels-rift-rally-for-playstation-and-ios/1100-6515777/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T19:48:00+00:00
+
+<div class="norewrite" title="6515777 - Hot Wheels: Rift Rally Deal">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4223546-riftrallystandard.png" />                                 <a href="https://www.amazon.com/Hot-Wheels-Customizable-home-Collectors/dp/B0BVMXK8F7?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/Hot-Wheels-Customizable-home-Collectors/dp/B0BVMXK8F7?tag=gamespot-promos-20">Hot Whee
+
+## Zelda Boss Is Excited About Next Nintendo Console And What "New" Things It Can Do
+ - [https://www.gamespot.com/articles/zelda-boss-is-excited-about-next-nintendo-console-and-what-new-things-it-can-do/1100-6519987/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/zelda-boss-is-excited-about-next-nintendo-console-and-what-new-things-it-can-do/1100-6519987/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T19:42:00+00:00
+
+<p>Nintendo will eventually make another hardware platform. And there will eventually be another Zelda game for it. Neither are 100% confirmed, of course, but both are some of the safest bets anyone could make. Zelda producer Eiji Aonuma has now discussed, at a high level, what Nintendo's designers think about when tackling new hardware.</p><p>Speaking to <a href="https://www.polygon.com/legend-zelda-tears-kingdom/24001489/zelda-tears-of-the-kingdom-totk-developer-interview">Polygon</a>, Aonuma--who has worked on the Zelda series for decades and has been part of the team during multiple console transitions--laid out some of the areas that Nintendo focuses on.</p><p>He said Nintendo's designers think about things like, "'What can we do that's new? 'What will we be able to do?' 'What kind of new themes will we be able to explore?'"</p><a href="https://www.gamespot.com/articles/zelda-boss-is-excited-about-next-nintendo-console-and-what-new-things-it-can-do/1100-6519987/?ftag=CAD-01-10ab
+
+## You Have More Time To Make Your Stadia Controller Useful Again
+ - [https://www.gamespot.com/articles/you-have-more-time-to-make-your-stadia-controller-useful-again/1100-6519988/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/you-have-more-time-to-make-your-stadia-controller-useful-again/1100-6519988/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T19:38:00+00:00
+
+<p>Google has extended the ability to switch Google Stadia controllers from Stadia Wi-Fi mode to Bluetooth mode, allowing them to connect with other devices such as Windows 10, 11, and MacOS 13 PCs with Steam, as well as ChromeOS and Android.</p><p>According to the Stadia's <a href="https://stadia.google.com/controller/">controller webpage</a>, Stadia controllers can now be switched to Bluetooth mode until December 31, 2024. Any controllers that aren't switched by that time will be unable to make the change and they essentially become dead weight. That's because <a href="https://www.gamespot.com/articles/stadia-is-officially-dead/1100-6510708/">Stadia has been shut down</a>, and the ability to switch to Bluetooth mode will disappear.</p><p>The original ending date for the Bluetooth mode switch was December 31, 2023, but now Stadia controller owners have gotten a one year-extension to do so. It's unclear when the end date was updated, but now we at least know.</p><a href="https://www.
+
+## Green Man Gaming's Winter Sale Has Tons Of Stellar PC Game Deals
+ - [https://www.gamespot.com/articles/green-man-gamings-winter-sale-has-tons-of-stellar-pc-game-deals/1100-6519983/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/green-man-gamings-winter-sale-has-tons-of-stellar-pc-game-deals/1100-6519983/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T19:29:00+00:00
+
+<p>Green Man Gaming is running a massive <a href="https://greenmangaming.sjv.io/c/1804712/1219987/15105?subId1=subid_value&amp;u=https://www.greenmangaming.com/winter-sale/">winter sale</a>, slashing prices on everything from <a href="https://greenmangaming.sjv.io/c/1804712/1219987/15105?subId1=subid_value&amp;u=https://www.greenmangaming.com/games/alan-wake-2-epic-pc/">Alan Wake 2</a> to <a href="https://greenmangaming.sjv.io/c/1804712/1219987/15105?subId1=subid_value&amp;u=https://www.greenmangaming.com/games/final-fantasy-vii-remake-intergrade-pc/">Final Fantasy VII Remake Intergrade</a>. As usual, these price cuts are only available on PC games--though the vast majority are offered as Steam keys.</p><p>Square Enix has a big presence in the sale, with the aforementioned <a href="https://greenmangaming.sjv.io/c/1804712/1219987/15105?subId1=subid_value&amp;u=https://www.greenmangaming.com/games/final-fantasy-vii-remake-intergrade-pc/">Final Fantasy VII Remake Intergrade</a> being on
+
+## WoW's Night Elves Are Getting A New Home, And Some Are Upset The Horde Is Welcome
+ - [https://www.gamespot.com/articles/wow-night-elves-are-getting-a-new-home-and-some-are-upset-the-horde-is-welcome/1100-6519986/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wow-night-elves-are-getting-a-new-home-and-some-are-upset-the-horde-is-welcome/1100-6519986/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T19:00:00+00:00
+
+<p>World of Warcraft's next patch will introduce a new Alliance capital city at the base of Azeroth's latest World Tree, one that will first and foremost serve as a new home for Night Elves. But unlike other Alliance capital cities, this one is open to the Horde as well.</p><p dir="ltr">The birth of the new tree, Amirdrassil, and the building of a new city amidst its roots, Bel'ameth, is the culmination of years of in-game storytelling. The Night Elves have been refugees ever since the events of 2018's Battle for Azeroth expansion, which saw the Horde, led by Sylvanas Windrunner, burn down the Night Elves' previous home.</p><p dir="ltr">Over the course of 2020's Shadowlands expansion and now Dragonflight, the Night Elves have been working to grow a new World Tree to call home. That dream has now become reality following patch 10.2, which saw players defending the blossoming World Tree from the Primal Incarnate Fyrakk. Now that Fyrakk has been stopped, the Night Elves are free to sett
+
+## Jason Momoa Casts Doubt On Future As Aquaman Amid DC Universe Evolution
+ - [https://www.gamespot.com/articles/jason-momoa-casts-doubt-on-future-as-aquaman-amid-dc-universe-evolution/1100-6519985/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/jason-momoa-casts-doubt-on-future-as-aquaman-amid-dc-universe-evolution/1100-6519985/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T18:05:00+00:00
+
+<p dir="ltr">Jason Momoa, who currently plays Aquaman in the DC cinematic universe, has expressed uncertainty about his future with the franchise. In an interview with <a href="https://www.etonline.com/jason-momoa-on-the-fate-of-aquaman-and-future-films-its-not-looking-good-exclusive-216487">ET</a>, Momoa addressed speculations that Aquaman and the Lost Kingdom might mark his final stint as the King of Atlantis.</p><p dir="ltr">"I don't necessarily want it to be the end... [but] I don't think it's really, like, a choice," Momoa said, shedding light on discussions with James Gunn and Peter Safran, the architects of DC's future film projects. The actor hinted at the duo's inclination to "start their own new thing up," casting doubts on his continued role as Aquaman.</p><div>          </div><p dir="ltr">"The truth of it is, I mean, if the audience loves it, then there's a possibility," Momoa said. "[But] right now, I'm like, 'It's not looking too good.' I love this character and [I woul
+
+## The Best PC Games Of 2023 According To Metacritic
+ - [https://www.gamespot.com/gallery/the-best-pc-games-of-2023-according-to-metacritic/2900-5000](https://www.gamespot.com/gallery/the-best-pc-games-of-2023-according-to-metacritic/2900-5000)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T18:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4235947-best-reviewed-pc-games_gs-best-of_2023_1.jpg" /><br /><h3><p dir="ltr">Every gaming platform has its advantages, but when it comes to PC, you'd be hard-pressed to find a more flexible environment for your entertainment needs. With more Xbox and PlayStation games migrating over to PC, the biggest hits of the year are easily within reach--especially if you're fielding some fancy hardware inside of your rig.</p><p dir="ltr">So which games were the best to play in 2023 on PC? According to GameSpot sister site Metacritic, fans couldn't get enough of fantasy, old-school action, and console ports on PC. Our list is bookended by two excellent RPGs--the top one being no surprise--and caught in the middle you'll find Capcom flexing its muscles, some of the best horror of the year, and a few odd games that might have flown under your radar. These games didn't escape the attention of the outlets that reviewed them,
+
+## Lego's Newest Set Recreates The Iconic Polaroid Camera
+ - [https://www.gamespot.com/articles/legos-newest-set-recreates-the-iconic-polaroid-camera/1100-6519984/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/legos-newest-set-recreates-the-iconic-polaroid-camera/1100-6519984/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T17:49:00+00:00
+
+<p>If you're feeling nostalgic for the golden age of instant cameras but you don't feel like shelling out big bucks for a retro piece of technology, good news! The latest <a href="https://www.amazon.com/dp/B0CGY4H58V?tag=gamespot-preorders-20">Lego preorder</a> has gone live, and this time, the humble Polaroid camera is in the spotlight. Fresh from the Lego Ideas and designed by the brothers Marc and Nick Corfmat, this $80 building set will allow you to build a replica of the original 1977 Polaroid OneStep SX-70 camera.</p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4236179-polaroid-8.jpg"><img alt="Say cheese!" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4236179-polaroid-8.jpg" /></a><figcaption>Say cheese!</figcaption></figure><figure><div class="image-gallery__label">Gallery</div>   <div class="image-gallery__list hide-scrollbar">       <a href="https://www.gamespot.com/a/uploads/original/1601/16018044/423618
+
+## 8BitDo's Best Controller For Switch And PC Drops To Lowest Price Yet
+ - [https://www.gamespot.com/articles/8bitdos-best-controller-for-switch-and-pc-drops-to-lowest-price-yet/1100-6519270/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/8bitdos-best-controller-for-switch-and-pc-drops-to-lowest-price-yet/1100-6519270/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T17:40:00+00:00
+
+<p>The <a href="https://www.amazon.com/dp/B0B9BDMWWN?tag=gamespot-promos-20">8BitDo Ultimate Bluetooth Controller</a> for Nintendo Switch and PC is on sale at Amazon for only $55.29 (down from $70). This is the lowest price yet for the stellar premium controller, and you can choose between <a href="https://www.amazon.com/dp/B0B9BDMWWN?tag=gamespot-promos-20">white</a> and <a href="https://www.amazon.com/dp/B0B9BGJVLL?tag=gamespot-promos-20">black</a> editions. Both models come with free shipping for Prime members and arrive before Christmas. However, this is a Lightning Deal, so there's a limited number of controllers up for grabs.</p><p>Alternatively, you can grab the red edition for $59.49 or the blue for $63.</p><ul><li><a href="https://www.amazon.com/dp/B0B9BDMWWN?tag=gamespot-promos-20">White</a> -- $55.29 (<del>$70</del>)</li><li dir="ltr"><a href="https://www.amazon.com/dp/B0B9BGJVLL?tag=gamespot-promos-20">Black</a> -- $55.29 (<del>$70</del>)</li><li dir="ltr"><a href="https:
+
+## Pokemon TCG World Championship Decks Feature Cards Played By The Very Best
+ - [https://www.gamespot.com/articles/pokemon-tcg-world-championship-decks-feature-cards-played-by-the-very-best/1100-6519982/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pokemon-tcg-world-championship-decks-feature-cards-played-by-the-very-best/1100-6519982/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T17:15:00+00:00
+
+<p>The Pokemon Trading Card Game remains incredibly popular, with new cards and bundle arriving every few months. Looking ahead to next year, there are already several product slated to launch and available to preorder. Some of <a href="https://www.gamespot.com/articles/preorders-for-new-pokemon-trading-card-collections-and-decks-up-at-best-buy/1100-6519848/">the new bundles</a> arrive in February, while the <a href="https://shop-links.co/1828217981546511219?u1=subid_value">Pokemon TCG: 2023 World Championship Decks</a> arrive a bit later on March 1 Preorders for the <a href="https://shop-links.co/1828217981546511219?u1=subid_value">World Championship Decks</a> are live now at Best Buy, and they only cost $15. The decks will launch alongside the <a href="https://shop-links.co/1828218095778541756?u1=subid_value">Paldea Adventure Chest</a>, a collector's box set that looks pretty darn cool.</p><div class="norewrite" title="6519982 - Pokemon TCG 2023 World Championship Decks">  <div cla
+
+## Where Is Xur Today? (December 15-19) Destiny 2 Exotic Items And Xur Location Guide
+ - [https://www.gamespot.com/articles/where-is-xur-today-december-15-19-destiny-2-exotic-items-and-xur-location-guide/1100-6519974/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/where-is-xur-today-december-15-19-destiny-2-exotic-items-and-xur-location-guide/1100-6519974/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T17:02:00+00:00
+
+<p>It's the jolliest season of the year in Destiny 2, and while you might be busy taking part in <a href="https://www.gamespot.com/articles/destiny-2-the-dawning-event-returns-next-week/1100-6519822/">Dawning-related activities</a>, you'll want to make a quick stop by Xur to grab a few Exotic goods. For PC players who have been looking to hop into Destiny 2, don't forget that you can grab a pretty great bundle deal for the game <a href="https://www.gamespot.com/articles/epic-is-giving-away-a-bunch-of-free-games-over-the-holidays/1100-6519912/">at the low price of absolutely nothing </a>on the Epic Games Store for a limited time. Here's where you can find Xur this week and what he has for sale.</p><p>This week you can find Xur in <strong>The Tower, inside the Hangar</strong>. </p><p>For his weapon, Xur is offering <strong>Black Talon</strong>. Hunters can pick up the <strong>Liar's Handshake </strong>gauntlets; Titans can grab the <strong>Armamentarium </strong>chest armor; and Warloc
+
+## Amazon-Exclusive Dragon Ball Z Collector's Set On Sale For Lowest Price Ever
+ - [https://www.gamespot.com/articles/amazon-exclusive-dragon-ball-z-collectors-set-on-sale-for-lowest-price-ever/1100-6518918/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/amazon-exclusive-dragon-ball-z-collectors-set-on-sale-for-lowest-price-ever/1100-6518918/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T16:50:00+00:00
+
+<p dir="ltr">Dragon Ball Z fans who want to collect the entire anime series will definitely want to check out the current deal at Amazon. Right now, you can snag a Blu-ray collector's box set featuring all nine seasons of the main Dragon Ball Z arc for only $90 (list price is $190). This is the lowest price we've seen since the box set launched exclusively on Amazon in August. Make sure to click the coupon box below the price to slash an additional 10% off the price. This deal is just one of <a href="https://www.amazon.com/gcx/Anime-Deal/gfhz/events?canBeEGifted=false&amp;canBeGiftWrapped=false&amp;categoryId=DVDdealhub4&amp;getItByToday=false&amp;tag=gamespot-promos-20">many stellar anime offers at Amazon</a> at the moment.</p><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/B0C4G32P9S?tag=gamespot-promos-20">See at Amazon</a> </div><p dir="ltr"> </p><p dir="ltr">The set contains the full 291-episode run of the Dragon Ball Z anime series, starting with G
+
+## Dozens Of Popular Anime Series And Movies Are On Sale For Low Prices At Amazon
+ - [https://www.gamespot.com/articles/dozens-of-popular-anime-series-and-movies-are-on-sale-for-low-prices-at-amazon/1100-6519981/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dozens-of-popular-anime-series-and-movies-are-on-sale-for-low-prices-at-amazon/1100-6519981/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T16:21:00+00:00
+
+<p>Looking to fill your shelves with anime? Then Amazon needs to be on your radar. The online retailer is running a <a href="https://www.amazon.com/gcx/Anime-Deal/gfhz/events?canBeEGifted=false&amp;canBeGiftWrapped=false&amp;categoryId=DVDdealhub4&amp;getItByToday=false&amp;scrollState=eyJpdGVtSW5kZXgiOjAsInNjcm9sbE9mZnNldCI6NDg3LjA0Njg3NX0=&amp;sectionManagerState=eyJzZWN0aW9uVHlwZUVuZEluZGV4Ijp7ImFtYWJvdCI6MH19&amp;tag=gamespot-promos-20">gigantic event</a> that's slashing prices on hit series like Pokemon, Dragon Ball, and One Piece, making this the perfect time to catch up on your favorite shows (and movies) for cheap.</p><p>One of the best deals is for the <a href="https://www.amazon.com/dp/B0C4G32P9S?tag=gamespot-promos-20">Dragon Ball Z: Seasons 1-9 Exclusive Box Set</a>. The collection is offered in Blu-ray and consists of every episode of Dragon Ball Z through season 9. It also comes with a nice display box so you can easily store it in your home theater. Best of all, it's s
+
+## Sora Amiibo Preorders Back In Stock At Best Buy
+ - [https://www.gamespot.com/articles/sora-amiibo-preorders-back-in-stock-at-best-buy/1100-6519863/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/sora-amiibo-preorders-back-in-stock-at-best-buy/1100-6519863/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T16:21:00+00:00
+
+<p>The Kingdom Hearts series is wildly popular, so it should come as no surprise that preorders for the upcoming Super Smash Bros. Series Sora amiibo continue to sell out. However, <a href="https://shop-links.co/1827843303217347672?u1=subid_value">preorders</a> are once again live at <a href="https://shop-links.co/1827843303217347672?u1=subid_value">Best Buy</a> and <a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/p/nintendo-super-smash-bros-series-amiibo-figure-sora-kingdom-hearts/-/A-90601966">Target</a>--though you'll have to move fast if you want to reserve a unit before they disappear.</p><div class="norewrite" title="6519863 - Sora Amiibo Preorder">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                    <a href="https://shop-links.co/1827843303217347672?u1=subid_va
+
+## Naughty Dog Has Two Single-Player Games In Development, Described As "Ambitious" And "Brand-New"
+ - [https://www.gamespot.com/articles/naughty-dog-has-two-single-player-games-in-development-described-as-ambitious-and-brand-new/1100-6519980/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/naughty-dog-has-two-single-player-games-in-development-described-as-ambitious-and-brand-new/1100-6519980/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T16:16:00+00:00
+
+<p>Naughty Dog has <a href="https://www.gamespot.com/articles/the-last-of-us-multiplayer-game-canceled-announces-naughty-dog/1100-6519973/">canceled its The Last of Us multiplayer game</a>, as the studio shifts its focus to single-player games. The studio has at least two of these projects in the works now, the company said in a <a href="https://www.naughtydog.com/blog/an_update_on_the_last_of_us_online">blog post. </a></p><p>These games are unannounced. Given the massive success of Naughty Dog's The Last of Us series, many are expecting that The Last of Us: Part III might be one of the upcoming games, but this is not confirmed. Naughty Dog has said it might make The Last of Us: Part III, and <a href="https://www.gamespot.com/articles/the-last-of-us-3-game-has-plot-outline-if-its-made/1100-6490704/">there is already an outline for it</a>, but the company <a href="https://www.gamespot.com/articles/naughty-dog-is-done-with-uncharted-and-might-not-make-last-of-us-3-neil-druckmann-says/1
+
+## 2023's Best Souls-like Games To Play While Waiting For Elden Ring: Shadow Of The Erdtree
+ - [https://www.gamespot.com/gallery/best-2023-souls-likes-to-play-elden-ring-shadow-of-the-erdtree-feature/2900-4967](https://www.gamespot.com/gallery/best-2023-souls-likes-to-play-elden-ring-shadow-of-the-erdtree-feature/2900-4967)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T16:11:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4229146-best-2023-soulslikes-to-play-elden-ring-shadow-of-the-erdtree-feature-.jpg" /><br /><h3><p dir="ltr">We're potentially still a long way from the release of Shadow of the Erdtree, the much-anticipated expansion to <a href="https://www.gamespot.com/games/elden-ring/">Elden Ring</a>. As is now the norm, there have been multiple games this year from other studios inspired to a certain degree by From Software's previous titles.</p><p dir="ltr">There are those that borrow from aesthetics, as well as action shooters and grim Metroidvanias. Whether you're looking for a new challenge or you just want to pass the time, we're taking a look at the best Souls-like games from 2023 that you should consider playing while waiting for Elden Ring: Shadow of the Erdtree.</p></h3></p><br />     <p><h2>Lies of P</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4229147-best-2023-soulslikes-to-play-el
+
+## Tekken 8 Hands On Preview | For Newbies & Vets
+ - [https://www.gamespot.com/videos/tekken-8-hands-on-preview-for-newbies-vets/2300-6463105](https://www.gamespot.com/videos/tekken-8-hands-on-preview-for-newbies-vets/2300-6463105)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T16:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4235880-tekken8_handson_v1.jpg" width="480" /> We got over three hours of gameplay time with Tekken 8 and went through part of the campaign, the new arcade quest, and a whole lot of ghost battles. Here's what we thought and why Tekken 8 looks to be bridging the gap for both new players and veterans alike.
+
+## Elden Ring's Shadow Of The Erdtree DLC Could Release Sooner Than Expected, Leak Suggests
+ - [https://www.gamespot.com/articles/elden-rings-shadow-of-the-erdtree-dlc-could-release-sooner-than-expected-leak-suggests/1100-6519978/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/elden-rings-shadow-of-the-erdtree-dlc-could-release-sooner-than-expected-leak-suggests/1100-6519978/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T15:33:00+00:00
+
+<p>The release date for Elden Ring's first expansion, Shadow of the Erdtree, may have possibly been leaked through a gaming retailer's page. The page has since been taken down, but not before screenshots were taken of it.</p><p>A gaming retailer in the Philippines called <a href="https://www.reddit.com/r/GamingLeaksAndRumours/comments/18ivr60/a_page_for_elden_ring_x_thrustmaster_collab/">Datablitz</a> had a page for a third-party Elden Ring-themed controller and it mentioned it was a collaboration between Bandai Namco and Thrustmaster. However, what's interesting is that the page seemingly said the controller is available in February 2024 in order to "sync with the new Shadow of the Erdtree expansion release."</p><p>There may be additional collaborations in the future as well, including Malenia and Ranni-themed controllers. There's a note that says the designs' releases are to be "synchronized with 2025 Elden Ring major keybeat or new game expansion." This suggests that Shadow of the
+
+## Rebel Moon Review Roundup - What Critics Are Saying About Zack Snyder's Netflix Movie
+ - [https://www.gamespot.com/articles/rebel-moon-review-roundup-what-critics-are-saying-about-zack-snyders-netflix-movie/1100-6519977/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/rebel-moon-review-roundup-what-critics-are-saying-about-zack-snyders-netflix-movie/1100-6519977/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T15:18:00+00:00
+
+<p>Justice League director Zack Snyder's latest movie, the Star Wars-inspired sci-fi film Rebel Moon: A Child of Fire, is in theaters now. How is it faring with critics? The first reviews have begun to appear online, painting a picture of its critical reception.</p><p>Rebel Moon stars Sofia Boutella as Kora, a traveler with a mysterious past who crash lands on a moon and begins a new life in a peaceful farming community. The peace does not last, though, and Kora must fight against Regent Balisarius (Fra Fee) and his emissary, Admiral Noble (Ed Skrein). The movie also stars Cleopatra Coleman and Ray Fisher, along with Michiel Huisman, Charlie Hunnam, Staz Nair, and the voice of Anthony Hopkins.</p><p>Snyder came up with the idea for Rebel Moon years ago and <a href="https://www.gamespot.com/articles/zack-snyder-thought-star-wars-was-in-a-vulnerable-state-when-he-pitched-r-rated-movie/1100-6519546/">pitched it to Lucasfilm as an R-rated Star Wars movie</a>. It didn't go anywhere, and i
+
+## Baldur's Gate 3 Won't Be On Game Pass, Dev Says There Is A "Fair Price" To Pay
+ - [https://www.gamespot.com/articles/baldurs-gate-3-wont-be-on-game-pass-dev-says-there-is-a-fair-price-to-pay/1100-6519975/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/baldurs-gate-3-wont-be-on-game-pass-dev-says-there-is-a-fair-price-to-pay/1100-6519975/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T15:03:00+00:00
+
+<p>Baldur's Gate 3 will not come to Game Pass, at least not anytime soon, according to Larian Studios founder Swen Vincke. Speaking to <a href="https://www.ign.com/articles/baldurs-gate-3-isnt-going-to-be-on-game-pass-insists-larian-boss">IGN</a>, the executive said there is a "fair price to be paid" for a big game like Baldur's Gate 3, and that doesn't include Xbox's popular subscription service.</p><p>"Oh, we always said from the get-go, it wasn't going to be on Game Pass, it's not going to be on Game Pass," Vincke said. He said this after being asked outright if Microsoft offered to pay Larian to put Baldur's Gate 3 on Game Pass.</p><p>"We made a big game, so I think there's a fair price to be paid for that, and I think that that is okay," he added. "We don't charge you any microtransactions on top of it, so you get what you pay for. Upfront it's a big meaty game. So I think that should be able to exist as it is. This is what allows us to continue making other games."</p><a href="
+
+## Bayonetta Creator Hideki Kamiya Says His Next Game Will Be One Only He Can Make
+ - [https://www.gamespot.com/articles/bayonetta-creator-hideki-kamiya-says-his-next-game-will-be-one-only-he-can-make/1100-6519976/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/bayonetta-creator-hideki-kamiya-says-his-next-game-will-be-one-only-he-can-make/1100-6519976/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T14:43:00+00:00
+
+<p>After <a href="https://www.gamespot.com/articles/platinum-games-hideki-kamiya-isnt-retiring-but-cant-create-games-for-a-year/1100-6518369/">parting ways with the game studio</a> that he helped co-found in 2007, former Platinum Games VP Hideki Kamiya has spoken about what he has been up to lately and what he has planned for his next game project. Kamiya revealed that since his September departure, he'd spent some time relaxing as he had no plans lined up for life after Platinum Games. According to the veteran developer, his departure was the result of creative differences and the company moving in a different direction that clashed with his artistic beliefs.</p><p>"I don't think of games as products, but rather as works of art," Kamiya said to <a href="https://www.ign.com/articles/hideki-kamiya-on-why-he-left-platinumgames-his-youtube-channel-and-his-next-game">IGN</a>. "I want to put my artistry into games and deliver games that could only be made by Hideki Kamiya, so that players
+
+## Nintendo Vs. Sega: The SNES-Genesis Game Port Deathmatch
+ - [https://www.gamespot.com/gallery/nintendo-vs-sega-the-snes-genesis-game-port-deathmatch/2900-4998](https://www.gamespot.com/gallery/nintendo-vs-sega-the-snes-genesis-game-port-deathmatch/2900-4998)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T14:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1585/15855271/4235673-3479121-genie.jpg" /><br /><h3><p>It is 2023, and though much less hostile than they used to be, the console wars still rage on, inexplicably firing up every time a port of a Capcom game is missing a strand of Leon Kennedy’s silken locks, or what have you. Fact is, even as insufferable as an Xbox/Sony argument can get now, no gaming generation since has known the sheer strife of the 16-bit days--if for no other reason than most games that come out for multiple systems now are, truly, the same game, plus or minus a few performance issues. Back in the bad old days of the 16-bit era, though, not only was it a crapshoot if the same game on a different platform would look the same, sound the same, have the same features, or get censored for some obtuse reason, but there wasn’t a guarantee you would even get the same game. Imagine something like Alan Wake 2, except Saga Anderson’s chapters were on PS5 and Ala
+
+## The Last Of Us Multiplayer Game Canceled, Naughty Dog Will Focus On Single-Player Games
+ - [https://www.gamespot.com/articles/the-last-of-us-multiplayer-game-canceled-announces-naughty-dog/1100-6519973/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-last-of-us-multiplayer-game-canceled-announces-naughty-dog/1100-6519973/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-15T00:20:00+00:00
+
+<p>The Last of Us multiplayer project, which Naughty Dog says it had been calling <a href="https://www.gamespot.com/games/the-last-of-us-multiplayer-project/">The Last of Us Online</a> internally, has been canceled. The studio revealed the news in a blog post, citing the game's ambitions as being so big that it would require the full attention of the studio, thereby taking any part of the team off of narrative-driven single-player games, the likes of which have been Naughty Dog's M.O. to this point.</p><p>"In ramping up to full production, the massive scope of our ambition became clear," the statement reads in part. "To release and support The Last of Us Online we’d have to put all our studio resources behind supporting post launch content for years to come, severely impacting development on future single-player games. So, we had two paths in front of us: become a solely live service games studio or continue to focus on single-player narrative games that have defined Naughty Dog’s he
+

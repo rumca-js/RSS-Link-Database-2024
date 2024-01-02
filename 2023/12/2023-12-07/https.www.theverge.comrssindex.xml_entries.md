@@ -1,0 +1,319 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Here are the best deals on headphones and wireless earbuds we could find
+ - [https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T22:32:23+00:00
+
+<figure>
+      <img alt="Sony’s WH-1000XM5 black headphones resting on a table." src="https://cdn.vox-cdn.com/thumbor/ZPEjyNPdwabOlHKA0Ljto4UepzU=/0x340:2040x1700/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/68898291/DSCF7805.6.jpg" />
+        <figcaption><em>Sony’s WH-1000XM5 are our favorite pair of noise-canceling headphones and are currently on sale.</em></figcaption>
+    </figure>
+
+  <p id="FcHrfe">When it comes to headphones and true wireless earbuds, there are a ton of brands and products to choose from. However, the sheer range of available models can also make them difficult to shop for, especially since many of them cater to different lifestyles, budgets, and priorities. Some are better suited for long-haul flights and <a href="https://www.theverge.com/23413809/best-workout-fitness-running-earbuds">vigorous workouts</a>, for instance, while others let you tune out noise so you can focus better. </p>
+<div><aside id="Iu26g8"><div></div></aside></div>
+<p id="xpDgIj">Tha
+
+## Now Android phones can automatically send medical data during 911 calls
+ - [https://www.theverge.com/2023/12/7/23992311/google-android-12-personal-safety-emergency-responder-911-rapidsos](https://www.theverge.com/2023/12/7/23992311/google-android-12-personal-safety-emergency-responder-911-rapidsos)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T21:49:05+00:00
+
+<figure>
+      <img alt="Android logo on a green and blue background" src="https://cdn.vox-cdn.com/thumbor/jydqzmiuHqN7q-9RwpCa9xFk77w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72941702/acastro_STK112_android_01.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="erIUr5">Google is pushing a new Android update to enable a potentially lifesaving feature that can <a href="https://rapidsos.com/our-latest/empowering-emergency-response-the-critical-role-of-sharing-911-emergency-health-information/">relay critical medical data to first responders when a user dials 911</a>. </p>
+<p id="MES05P">The technology works by sending important emergency information about the caller entered in the Personal Safety app, like age, weight, blood type, allergies, and more, to a platform called RapidSOS. Over 15,000 911 and field responder agencies are tapped into RapidSOS, which has supported relaying <a href="https://www.theve
+
+## The best deals on MacBooks right now
+ - [https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T21:20:05+00:00
+
+<figure>
+      <img alt="A 15-inch MacBook Air next to a 13-inch MacBook Air." src="https://cdn.vox-cdn.com/thumbor/GAy3GCH5lyEydkILbm8EiauckQw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/69195507/236695_MacBook_Air_AKrales_0091.14.jpg" />
+        <figcaption><em>Apple’s pair of M2 MacBook Airs are some of our top choices among all laptops, and both are discounted.</em> | Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="vOYhrD">Apple sells MacBooks equipped with its own M-series chips in a wide range of sizes and price points. The offerings start with the 13-inch MacBook Air from 2020 at $999 and go all the way up to the latest 16-inch MacBook Pro starting at $2,499. But finding a deal on a current Mac with an M1, M2, or even the new M3 chip — as well as the higher-end M3 Pro and M3 Max — is actually not that difficult.</p>
+<div class="c-float-left c-float-hang">
+<div id="bQleYo"><div></div></div>
+<aside id="iCkjsn"><div></div></
+
+## Linux is getting its own Blue Screen of Death
+ - [https://www.theverge.com/2023/12/7/23992512/linux-blue-screen-of-death-bsod-systemd-update](https://www.theverge.com/2023/12/7/23992512/linux-blue-screen-of-death-bsod-systemd-update)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T20:23:51+00:00
+
+<figure>
+      <img alt="A Blue Screen of Death error message" src="https://cdn.vox-cdn.com/thumbor/E9SAOzc49dUiCCw67QJnT6Af56s=/20x0:620x400/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72941358/Windows_9X_BSOD.0.0.png" />
+        <figcaption>Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="Uo9waa">Linux is getting its own version of a Blue Screen of Death (BSOD). <a href="https://www.phoronix.com/news/systemd-255"><em>Phoronix </em>reports</a> that the latest release of systemd for Linux systems comes with a systemd-bsod service that’s able to generate a full-screen error message on Linux distributions.</p>
+<p id="xS1u5h">Much like how the Blue Screen of Death originated in Windows, Linux’s version will be used as an emergency tool to log errors. If a Linux system fails to boot, it will generate a full-screen message that displays a QR code to get more information on what’s causing the boot issue. This was reportedly added as part of an <a href="https://www.outreachy.or
+
+## One day, your EV might power your home’s A/C
+ - [https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging](https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T19:45:19+00:00
+
+<figure>
+      <img alt="A white thermostat on a wall." src="https://cdn.vox-cdn.com/thumbor/x52ebxn1_gB4NjjDkf1f-u1TzRw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72941187/dseifert_190705_3501_5339.0.jpg" />
+        <figcaption><em>Ford and Resideo are testing an integration that could power your HVAC using a Honeywell Home smart thermostat and a Ford F-150 Lightning EV.</em> | Photo by Dan Seifert / The Verge</figcaption>
+    </figure>
+
+  <p id="GkmgQJ">Smart homes can already help us charge our EVs more efficiently, but using an EV to power our smart homes is still <a href="https://www.theverge.com/2022/10/25/23422522/lucid-ev-charger-air-home-cargo-accessories-launch">largely sci-fi</a>. However, a new partnership between Ford and Resideo (maker of Honeywell Home smart thermostats) may be a glimpse into that future. Today, the companies announced the <a href="https://media.ford.com/content/fordmedia/fna/us/en/news/2023/12/07/ford-and-resideo-launch-ev-home
+
+## Notepad on Windows 11 is finally getting a character count
+ - [https://www.theverge.com/2023/12/7/23992413/microsoft-windows-11-notepad-character-count-widgets-improvements](https://www.theverge.com/2023/12/7/23992413/microsoft-windows-11-notepad-character-count-widgets-improvements)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T18:55:15+00:00
+
+<figure>
+      <img alt="Screenshot of Notepad on Windows 11" src="https://cdn.vox-cdn.com/thumbor/tBhoHCPQVRub86uacZmORQBKTR0=/0x0:948x632/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72940995/notepadcharactercount.5.jpg" />
+        <figcaption><em>It’s like Microsoft Word, but Notepad.</em> | Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="xZuo0s">Microsoft has been gradually improving its built-in Notepad app on Windows 11 in recent years, and now, it’s finally getting a character count. In a new Canary channel test version of Windows 11, Microsoft has added the character count at the bottom much like Microsoft Word’s count of the number of words in a document.</p>
+<p id="87GDyy">“When text is selected, the status bar shows the character count for both the selected text and the entire document,” explains Microsoft’s Windows Insider team <a href="https://blogs.windows.com/windows-insider/2023/12/07/announcing-windows-11-insider-preview-build-26010-canary-channel/https:
+
+## Threads has hashtags now
+ - [https://www.theverge.com/2023/12/7/23992357/threads-hashtags-tags](https://www.theverge.com/2023/12/7/23992357/threads-hashtags-tags)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T18:51:36+00:00
+
+<figure>
+      <img alt="An image showing the Threads logo" src="https://cdn.vox-cdn.com/thumbor/wHhNvK46pl2qzosYow1DatwuFOo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72940973/STK156_Instagram_threads_1.0.jpg" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="EPaQAB">Tags — basically hashtags with a twist — are now rolling out globally on Threads, Instagram head Adam Mosseri <a href="https://www.threads.net/@mosseri/post/C0j585AvsJq">announced on Thursday</a>.</p>
+<p id="pDrJds">Tags work a little differently than hashtags do on platforms like Instagram and X (formerly Twitter). When composing a Threads post, you start a tag by tapping the # symbol and then typing out your topic. But instead of being limited to just one word, you can type out a whole phrase (with spaces!) and add special characters, according to Mosseri. However, you can only make one tag per post.</p>
+<div id="9qYCO0">
+<div class="iframely-embed"><div class=
+
+## Disinformation researcher accuses Meta of meddling in Harvard’s research
+ - [https://www.theverge.com/2023/12/7/23989458/harvard-disinformation-researcher-meta-meddling-joan-donovan](https://www.theverge.com/2023/12/7/23989458/harvard-disinformation-researcher-meta-meddling-joan-donovan)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T17:31:24+00:00
+
+<figure>
+      <img alt="A close-up photo of Joan Donovan looking into the camera waring black glasses, a black shirt, and black leather jacket." src="https://cdn.vox-cdn.com/thumbor/oh_0Cburp9vgQYQchuWM4BJPwKk=/0x0:1536x1024/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72940614/Headshot_Hi_Res_Donovan_1536x1024.0.jpeg" />
+        <figcaption><em>Joan Donovan is a prominent expert on disinformation campaigns.</em> | Image: Whistleblower Aid</figcaption>
+    </figure>
+
+  <p id="oGkKNM">A prominent expert in online disinformation campaigns, Joan Donovan, says Meta pushed her former employer Harvard to shutter a major research project on media manipulation.</p>
+<p id="UVzbTs">Donovan, who led Harvard’s Technology and Social Change Project (TaSC) until it ended this year, revealed her allegations earlier this week in a whistleblower complaint <a href="https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint/">obtained by <em>The Washington Post
+
+## The new Mammoth app is a much simpler take on Mastodon
+ - [https://www.theverge.com/2023/12/7/23991158/mammoth-2-app-mastodon](https://www.theverge.com/2023/12/7/23991158/mammoth-2-app-mastodon)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T17:00:00+00:00
+
+<figure>
+      <img alt="Two phones, showing screenshots of the new Mammoth app." src="https://cdn.vox-cdn.com/thumbor/tTg2UYSLmtYAkC02mR2DhS5padU=/95x0:4289x2796/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72940500/Mammoth_screens.0.png" />
+        <figcaption><em>The new Mammoth app is all about getting into Mastodon quicker.</em> | Image: Mammoth</figcaption>
+    </figure>
+
+  <p id="GUFFgz">One of the best things about Mastodon is the sheer number of apps available for it. The official Mastodon app is fine, but there’s also <a href="https://tapbots.com/ivory/mac/">Ivory</a>, <a href="https://mastodon.social/@MonaApp'">Mona</a>, <a href="https://fedilab.app/">Fedilab</a>, <a href="https://github.com/Dimillian/IceCubesApp">Ice Cubes</a>, <a href="https://elk.zone/">Elk</a>, <a href="https://mastoot.app/">Mastoot</a>, and many others. This openness is part of the whole appeal of the <a href="https://www.theverge.com/2023/4/20/23689570/activitypub-protocol-standard-social-netw
+
+## The best Garmin watches for training and everyday life
+ - [https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T16:20:40+00:00
+
+<figure>
+      <img alt="Several Garmin watches on a colorful background" src="https://cdn.vox-cdn.com/thumbor/D5dtgeyIVuFtgCeI1hMNSF_9Epo=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72245384/236645_Buying_Guide_Garmin_Watches_WJoel.0.jpg" />
+        <figcaption><em>Garmins aren’t just multisport behemoths anymore.</em> | Illustration by Will Joel / The Verge</figcaption>
+    </figure>
+
+
+  		 <p>Garmin may be best known for its hardcore fitness watches, but it’s got an extensive line of lifestyle offerings, too.</p>
+  <p>
+    <a href="https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables">Continue reading&hellip;</a>
+  </p>
+
+## Google’s 4K-ready Chromecast has returned to its Cyber Monday price
+ - [https://www.theverge.com/2023/12/7/23990867/google-pixel-7-pro-chromecast-with-google-tv-4k-ecoflow-delta-pro-deal-sale](https://www.theverge.com/2023/12/7/23990867/google-pixel-7-pro-chromecast-with-google-tv-4k-ecoflow-delta-pro-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T16:10:20+00:00
+
+<figure>
+      <img alt="Google’s 4K-ready Chromecast dongle lying against a black surface with the remote." src="https://cdn.vox-cdn.com/thumbor/-KwAlrcukRXEzFisjyx7BPMXv9E=/180x0:2040x1240/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72940297/Screen_Shot_2022_02_07_at_1.41.20_PM.0.png" />
+        <figcaption><em>Google’s 4K-ready Chromecast makes for a great gift under $50.</em> | Image: The Verge</figcaption>
+    </figure>
+
+  <p id="QEidNA">I don’t know about you, but now that I’m finally starting my holiday shopping, I’m kicking myself for not taking advantage of all those great Cyber Monday deals. Yet, while many of the best have since disappeared, one of our favorites has luckily just resurfaced. Right now, you can buy the <a href="https://www.theverge.com/21495609/google-chromecast-2020-review-streaming-remote-control"><strong>Chromecast with Google TV (4K)</strong></a><strong> </strong>for around $37.98 from <a href="https://www.amazon.com/dp/B08KRV7S22?tag=theverge02-
+
+## WhatsApp is rolling out self-destructing voice messages
+ - [https://www.theverge.com/2023/12/7/23992008/whatsapp-view-once-voice-notes-messages-self-destruct-privacy](https://www.theverge.com/2023/12/7/23992008/whatsapp-view-once-voice-notes-messages-self-destruct-privacy)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T16:01:00+00:00
+
+<figure>
+      <img alt="A graphic about sending voice messages as “View Once.”" src="https://cdn.vox-cdn.com/thumbor/xXHCgCeQLKQTSisGIZqaEgga9l8=/0x0:1826x1217/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72940266/English_WhatsApp_ViewOnce_Header.0.jpg" />
+        <figcaption>Image: Meta</figcaption>
+    </figure>
+
+  <p id="KgPCCK">WhatsApp has officially announced that you’ll soon be able to set voice messages to disappear after their recipient hears them. The “View Once” feature has been <a href="https://www.theverge.com/2021/8/3/22608419/whatsapp-view-once-dissapearing-media-launch-testing-sensitive-info">available for photos and videos since 2021</a>, but it’s now expanding to cover audio messages.</p>
+<p id="UjkoDV">While it’s a little confusing that WhatsApp is using the “View Once” branding for messages that you listen to rather than look at, it’s nice to see the protection available for another of the messaging service’s formats. As a <a href="https://www.theverge.com
+
+## Pokémon Scarlet and Violet’s next DLC will let trainers take flight and turn into monsters
+ - [https://www.theverge.com/2023/12/7/23991976/pokemon-scarlet-violet-indigo-mask-synchro-machine-flight](https://www.theverge.com/2023/12/7/23991976/pokemon-scarlet-violet-indigo-mask-synchro-machine-flight)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T15:24:52+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/XZygpIQVhkbyrOLJ7Um_1Ww_Thw=/500x0:6800x4200/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72940139/Pokemon_SV_The_Hidden_Treasure_of_Area_Zero_Screenshot_1.0.png" />
+    </figure>
+
+  <p id="xRYWKn"><a href="https://www.theverge.com/2023/6/21/23768046/pokemon-scarlet-violet-teal-mask-trailer-2"><em>The Teal Mask</em></a> — <a href="https://www.theverge.com/23462858/pokemon-violet-scarlet-review-nintendo-switch"><em>Pokémon Scarlet</em> and <em>Violet</em>’s first DLC drop</a> — was short and sweet and felt more like <a href="https://www.theverge.com/23880643/pokemon-scarlet-violet-teal-mask-dlc-review">an encapsulated side quest experience</a> than a significant update to the overall game. But the latest trailer for <em>The Indigo Disk</em> — the second planned DLC — makes its many new features seem like the sort of thing that might lure quite a few trainers back to the <a href="https://www.theverge.com/23415407/po
+
+## Amazon’s latest Echo Frames are more style than substance
+ - [https://www.theverge.com/23989893/amazon-echo-frames-review-alexa-carrera-cruiser-smart-glasses](https://www.theverge.com/23989893/amazon-echo-frames-review-alexa-carrera-cruiser-smart-glasses)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T15:00:00+00:00
+
+<p>I felt like a Kardashian reject roaming the streets of New York City, but hey, Alexa could tell me the weather.</p>
+  <p>
+    <a href="https://www.theverge.com/23989893/amazon-echo-frames-review-alexa-carrera-cruiser-smart-glasses">Continue reading&hellip;</a>
+  </p>
+
+## How to watch The Game Awards (and what to expect)
+ - [https://www.theverge.com/2023/12/7/23990722/how-to-watch-game-awards-2023](https://www.theverge.com/2023/12/7/23990722/how-to-watch-game-awards-2023)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T15:00:00+00:00
+
+<figure>
+      <img alt="The Game Awards 2018 - Arrivals" src="https://cdn.vox-cdn.com/thumbor/DzxtixkJX780WYNnx1Swlg8g6iQ=/0x86:2113x1495/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72940043/1078440136.0.jpg" />
+        <figcaption>Photo by Alberto E. Rodriguez / Getty Images</figcaption>
+    </figure>
+
+  <p id="81FdHT">Geoff Keighley’s Happy Holiday Game-a-palooza, also known as The Game Awards (but that’s less fun), kicks off Thursday, December 7th, at 7:30PM ET / 4:30PM PT. You can watch the show on just about anything that permits livestreaming events. The <a href="https://thegameawards.com/watch">list of participating platforms</a> is actually pretty impressive. There are the standards, like <a href="https://www.twitch.tv/thegameawards">Twitch</a> and <a href="https://www.youtube.com/channel/UCqDS7KWjAPKv-7ZSlro9OiQ">YouTube</a>. TikTok makes an appearance, along with X / Twitter (enjoy watching in 720p, though). Then there are platforms like Kick, Instagram Live, and..
+
+## Stellantis makes a big bet on EV battery swapping in new deal with Ample
+ - [https://www.theverge.com/2023/12/7/23991923/stellantis-ample-ev-battery-swap-deal-fiat-500e-spain](https://www.theverge.com/2023/12/7/23991923/stellantis-ample-ev-battery-swap-deal-fiat-500e-spain)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T15:00:00+00:00
+
+<figure>
+      <img alt="EV battery swapping" src="https://cdn.vox-cdn.com/thumbor/ONUkuz2p-qXh8QUTkNV9GtR-fkM=/0x1:2400x1601/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72940034/Ample_Car_lifted_and_battery_being_swapped.0.jpg" />
+        <figcaption>Image: Ample</figcaption>
+    </figure>
+
+  <p id="CKAtym">Stellantis struck a deal with California-based <a href="https://www.theverge.com/23809811/ev-battery-swap-ample-fisker-tesla">EV battery swapping company Ample</a> to power a fleet of shared <a href="https://www.theverge.com/2023/12/5/23988202/fiat-500e-ev-price-specs-photos-city-car">Fiat 500e vehicles</a> in Spain. But the company says the deal could eventually expand to include personally owned EVs in Europe and the US as well. </p>
+<p id="1LUlsq">By becoming one of the first Western automakers to embrace battery swapping technology, Stellantis is betting that EV charging infrastructure in Europe and the US will remain a barrier to adoption in the near future, necessit
+
+## The race to 5G is over — now it’s time to pay the bill
+ - [https://www.theverge.com/23991136/5g-network-att-verizon-tmobile-cost-competition](https://www.theverge.com/23991136/5g-network-att-verizon-tmobile-cost-competition)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T14:15:00+00:00
+
+<figure>
+      <img alt="3D illustration of a 5G tower discarded in a corner covered in cobwebs." src="https://cdn.vox-cdn.com/thumbor/mK4txH0o1TlBE54nQDzdvREJX04=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72938102/236836_Infrastructure_FALSE_PROMISES_OF_5G_Sisi_Kim.0.jpg" />
+        <figcaption>Illustration by Sisi Kim for The Verge</figcaption>
+    </figure>
+
+
+  		 <p>Networks spent years telling us that 5G would change everything. But the flashiest use cases are nowhere to be found — and the race to deploy the tech was costly in more ways than one. </p>
+  <p>
+    <a href="https://www.theverge.com/23991136/5g-network-att-verizon-tmobile-cost-competition">Continue reading&hellip;</a>
+  </p>
+
+## Apple continues its sci-fi push with Constellation in February
+ - [https://www.theverge.com/2023/12/7/23991927/apple-tv-plus-constellation-release-date-sci-fi](https://www.theverge.com/2023/12/7/23991927/apple-tv-plus-constellation-release-date-sci-fi)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T14:00:00+00:00
+
+<figure>
+      <img alt="A still photo of Noomi Rapace&amp;nbsp;in the sci-fi TV series Constellation." src="https://cdn.vox-cdn.com/thumbor/9r55UuFvj_8jXJ1ShnsRrWd6b0U=/325x0:2733x1605/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72939861/Constellation_101_F00462F.0.jpg" />
+        <figcaption><em>Noomi Rapace&nbsp;in </em>Constellation<em>.</em> | Image: Apple</figcaption>
+    </figure>
+
+  <p id="7zBysB">Apple TV Plus has been a solid run of science fiction of late — think <a href="https://www.theverge.com/23932047/invasion-season-2-review-apple-tv-plus"><em>Invasion</em></a>, <a href="https://www.theverge.com/23913217/monarch-legacy-of-monsters-apple-nycc-preview-godzilla"><em>Monarch</em></a>, <a href="https://www.theverge.com/2022/5/16/23075072/for-all-mankind-season-3-is-set-in-the-90s-but-seems-focused-on-a-very-2020s-space-race"><em>For All Mankind</em></a>, and <a href="https://www.theverge.com/23711259/silo-review-season-1-apple-tv-plus"><em>Silo</em></a> — and it lo
+
+## There’s gold (and lithium and cobalt) in all those EV battery packs
+ - [https://www.theverge.com/23981022/redwood-materials-ev-battery-recycling-infrastructure](https://www.theverge.com/23981022/redwood-materials-ev-battery-recycling-infrastructure)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T14:00:00+00:00
+
+<figure>
+      <img alt="3D illustration showing an electric vehicle battery being recycled." src="https://cdn.vox-cdn.com/thumbor/grUqlNwnr0ES663MtV9uiHng4lU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72938101/236836_Infrastructure_RECYCLE_EV_BATTERY_Sisi_Kim.jpg.0.jpg" />
+        <figcaption>Illustration by Sisi Kim for The Verge</figcaption>
+    </figure>
+
+
+  		 <p>Smarter tech and new recycling techniques might just mean our EVs get even greener. Here’s how Redwood Materials is putting recycling at the heart of the burgeoning battery belt.</p>
+  <p>
+    <a href="https://www.theverge.com/23981022/redwood-materials-ev-battery-recycling-infrastructure">Continue reading&hellip;</a>
+  </p>
+
+## Epic kicks off Fortnite’s new era with Lego Fortnite
+ - [https://www.theverge.com/2023/12/7/23990660/lego-fortnite-release-epic](https://www.theverge.com/2023/12/7/23990660/lego-fortnite-release-epic)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T13:05:56+00:00
+
+<figure>
+      <img alt="A screenshot from the video game Lego Fortnite." src="https://cdn.vox-cdn.com/thumbor/kUAIp_5DSuu_qAT-HjWGeRQlp84=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72939770/LEGO_Fortnite_Screenshot_9.0.jpg" />
+        <figcaption>Image: Epic Games</figcaption>
+    </figure>
+
+  <p id="4jSAr7">In what’s becoming increasingly common for <em>Fortnite</em>, the game is fusing with one of the biggest pop culture properties around. This time around, it’s Lego. But the launch of <a href="https://www.theverge.com/2023/12/2/23983057/lego-fortnite-release-date-survival-crafting"><em>Lego Fortnite</em></a> is also much more involved than the typical tie-in — <a href="https://www.theverge.com/2023/12/2/23978521/fortnite-the-big-bang-eminem-chapter-5">and the start of what seems like a new era for <em>Fortnite</em></a>.</p>
+<p id="KagJaa"><em>Lego Fortnite</em> is <a href="https://www.fortnite.com/news/welcome-to-lego-fortnite">a survival crafting game</
+
+## Can rocks absorb enough CO2 to fight climate change? These companies think so
+ - [https://www.theverge.com/2023/12/7/23990979/alphabet-stripe-shopify-lithos-climate-change-carbon-removal-enhanced-weathering](https://www.theverge.com/2023/12/7/23990979/alphabet-stripe-shopify-lithos-climate-change-carbon-removal-enhanced-weathering)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T13:00:00+00:00
+
+<figure>
+      <img alt="A vehicle driving across a field is seen spewing crushed rock." src="https://cdn.vox-cdn.com/thumbor/Qib7n5mRKQyYmOfOKFXUysvgRfY=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72939681/Farm_spreading_wide.0.jpg" />
+        <figcaption><em>A startup called Lithos Carbon spreads crushed basalt across farmlands to trap carbon dioxide in rock.</em> | Image courtesy of Frontier</figcaption>
+    </figure>
+
+  <p id="l2JWN9">Stripe, Alphabet, Shopify, and a slew of other companies plan to spend more than $57 million cumulatively to fight climate change by spreading crushed rock over farmland. </p>
+<p id="SxogrX">The aim is to use rocks’ natural ability to absorb carbon dioxide, which might sound low-tech, but speeding up the process and finding a way to reliably measure how much CO2 is sequestered has proven pretty hard. It’s a tactic for trapping planet-heating carbon dioxide called “enhanced weathering” that researchers have studied for <a hre
+
+## GM’s hydrogen ‘power cubes’ will be used in cement mixers and terminal tractors
+ - [https://www.theverge.com/2023/12/7/23991373/gm-hydrotec-autocar-power-cube-vocational-vehicle](https://www.theverge.com/2023/12/7/23991373/gm-hydrotec-autocar-power-cube-vocational-vehicle)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T13:00:00+00:00
+
+<figure>
+      <img alt="GM’s Hydrotec power cube" src="https://cdn.vox-cdn.com/thumbor/ZRR_eDyS0ocxj5pJmjBBQUUEm3Q=/0x0:5760x3840/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72939741/_S5A1585.0.jpg" />
+        <figcaption>Image: GM</figcaption>
+    </figure>
+
+  <p id="N0JQzA">General Motors struck a deal with commercial vehicle manufacturer Autocar to use its hydrogen fuel-cell technology to power a range of heavy-duty work vehicles. </p>
+<p id="QEX8f9">Hydrogen fuel cells — which use compressed hydrogen as their fuel and release water vapor as its only emission — have been in development for decades. GM has condensed its Hydrotec-branded system into a “power cube” encompassing 300 individual hydrogen fuel cells, the current generation of which can put out 80 kW of net power. </p>
+<p id="0sY8pV">The automaker has said it wants to use the cubes for a variety of appliances, including mobile generators and temporary EV chargers. And now that list has grown to include vocational
+
+## Proton Drive is adding an encrypted photo backup feature on Android
+ - [https://www.theverge.com/2023/12/7/23991301/proton-drive-photos-android-sync](https://www.theverge.com/2023/12/7/23991301/proton-drive-photos-android-sync)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T11:00:00+00:00
+
+<figure>
+      <img alt="A screenshot showing photo management on the Proton Drive app" src="https://cdn.vox-cdn.com/thumbor/g3KO9nISpQI6lsXdFD92TrJNli0=/300x0:2100x1200/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72939450/drive_photo_backup_inline_2x.0.png" />
+        <figcaption>Image: Proton</figcaption>
+    </figure>
+
+  <p id="s67rCf">Proton Drive, the end-to-end encrypted cloud storage app, is getting more like Google Drive. The Android version of the app <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fproton.me%2Fblog%2Fproton-drive-photo-backup&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2023%2F12%2F7%2F23991301%2Fproton-drive-photos-android-sync" rel="sponsored nofollow noopener" target="_blank">now lets you automatically back up</a> and manage the photos on your phone. </p>
+<p id="IBgQ4Y">With the addition of a photo syncing and management feature, it’s becoming more viable as an alternative to mainstream 
+
+## Messenger is finally getting end-to-end encryption by default
+ - [https://www.theverge.com/2023/12/6/23991501/facebook-messenger-default-end-to-end-encryption-meta](https://www.theverge.com/2023/12/6/23991501/facebook-messenger-default-end-to-end-encryption-meta)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-07T00:58:08+00:00
+
+<figure>
+      <img alt="Image of Meta’s wordmark on a red background." src="https://cdn.vox-cdn.com/thumbor/j5SUf7zhyF7OvNN3pDWeeqUp28w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72938518/STK043_VRG_Illo_N_Barclay_6_Meta.0.jpg" />
+        <figcaption>Illustration: Nick Barclay / The Verge</figcaption>
+    </figure>
+
+  <p id="VPs3JO">Meta is rolling out end-to-end encryption for one-on-one chats and calls on Messenger, finally fulfilling a promise that’s been in the works for quite awhile. When end-to-end encryption is on, only you and the person you send a message to in Messenger can see its contents, the company claims.</p>
+<p id="7xxiH4">Encrypted chats were first introduced as an opt-in feature in Messenger <a href="https://www.theverge.com/2016/10/4/13161224/facebook-messenger-encryption-privacy-enable">in 2016</a>, but after <a href="https://www.theverge.com/2021/11/21/22794622/messenger-instagram-end-to-end-encryption-default-2023">a</a> <a href="https:
+

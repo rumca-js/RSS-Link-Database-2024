@@ -1,0 +1,30 @@
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
+
+## 9 Holiday Gear and Gadget Gifts That Will Impress (for Less) in 2023
+ - [https://www.wsj.com/articles/holiday-gear-gadget-gifts-2023-e8e6c11b?mod=rss_Technology](https://www.wsj.com/articles/holiday-gear-gadget-gifts-2023-e8e6c11b?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2023-11-14T22:15:00+00:00
+
+Including a phone-camera lens that adds cinematic effects, a super-charger for Apple devices and…a slingshot
+
+## Khosla Ventures Closes In on $3 Billion for Venture Funds, Defying Startup Slump
+ - [https://www.wsj.com/articles/khosla-ventures-closes-in-on-3-billion-for-venture-funds-defying-startup-slump-84f5a3fc?mod=rss_Technology](https://www.wsj.com/articles/khosla-ventures-closes-in-on-3-billion-for-venture-funds-defying-startup-slump-84f5a3fc?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2023-11-14T16:00:00+00:00
+
+The Silicon Valley firm is hoping to back more deep-tech companies tackling problems like healthcare and climate change.
+
+## iPhone Maker Braces for China's Ire Over Founder's Taiwan Presidential Bid
+ - [https://www.wsj.com/articles/foxconn-profit-rises-as-margins-improve-8c449583?mod=rss_Technology](https://www.wsj.com/articles/foxconn-profit-rises-as-margins-improve-8c449583?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2023-11-14T15:20:00+00:00
+
+Foxconn says it has contingency plans for all possible scenarios as Terry Gou secures enough signatures to contest the January poll.
+
+## New Breed of Supercomputer Aims for the Two Quintillion Mark
+ - [https://www.wsj.com/articles/new-breed-of-supercomputer-aims-for-the-two-quintillion-mark-8caee447?mod=rss_Technology](https://www.wsj.com/articles/new-breed-of-supercomputer-aims-for-the-two-quintillion-mark-8caee447?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2023-11-14T10:30:00+00:00
+
+That’s two billion billion operations a second, enough to explore the brain and discover drugs.
+

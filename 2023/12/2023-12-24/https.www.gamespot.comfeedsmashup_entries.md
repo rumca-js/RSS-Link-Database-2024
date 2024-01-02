@@ -1,0 +1,23 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## The Most Ridiculous Baldur's Gate 3 Kills That Players Have Pulled Off
+ - [https://www.gamespot.com/gallery/baldurs-gate-3-best-kills-ridiculous-kills-feature/2900-4966](https://www.gamespot.com/gallery/baldurs-gate-3-best-kills-ridiculous-kills-feature/2900-4966)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-24T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4230828-baldurs-gate-3-best-kills-memorable-kills-2023-.jpg" /><br /><h3><p dir="ltr"><a href="https://www.gamespot.com/games/baldurs-gate-3/">Baldur's Gate 3</a> is a one-of-a-kind experience that offers players a wild amount of freedom. Freedom goes hand in hand with creativity, especially in how you approach its numerous encounters, as the Baldur's Gate 3 community has demonstrated time and again. With that in mind, we've assembled 14 examples of the outrageous, memorable, and ridiculous ways to take down enemies that players have come up with.</p><p dir="ltr">Whether you're convincing bosses to off themselves, finding ways to skip entire fights, or just making use of certain synergies to annihilate your foes, the game presents numerous options. Of course, do expect that this article contains spoilers.</p></h3></p><br />     <p><h2>Commander Zhalk and the Mind Flayer</h2><img src="https://www.gamespot.com/a/
+
+## Thompson: The Pop Culture Icon’s Strange Legacy - Loadout
+ - [https://www.gamespot.com/videos/thompson-the-pop-culture-icons-strange-legacy-loadout/2300-6463083](https://www.gamespot.com/videos/thompson-the-pop-culture-icons-strange-legacy-loadout/2300-6463083)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-24T15:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1571/15719603/4234130-loadout_thompson_site.jpg" width="480" /> Is it a Chicago Typewriter or a GI Trench Sweeper? From Call of Duty and Battlefield to Mafia and Resident Evil 4, these are the two flavors of the Tommy Gun that we’re used to seeing in our games.  With the help of Keeper of Firearms &amp; Artillery, Jonathan Ferguson, we’ve come to the Royal Armouries museum in the UK to learn more about the unique history of the Thompson, and explore the pop culture legacy of this iconic SMG.
+
+## The State Of PC Gaming Handhelds Shows A Bright Future
+ - [https://www.gamespot.com/articles/the-state-of-pc-gaming-handhelds-shows-a-bright-future/1100-6519923/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-state-of-pc-gaming-handhelds-shows-a-bright-future/1100-6519923/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-24T13:00:00+00:00
+
+<p> </p><p dir="ltr">Last year, Valve irreversibly changed PC gaming with the launch of the Steam Deck. The portable PC platform was certainly not the first attempt of its kind, but with the experience of Valve's engineering and the tight integration with Steam, it quickly became the de facto device to recommend for a powerful and reliable gaming experience on the go. The timing couldn't have been better, too, with the Nintendo Switch only seeing an OLED upgrade the year prior and its heavily rumored specification bump reduced to another lengthy wait for a successor. As a result, the Steam Deck satiated the desire for more demanding gaming in a portable frame, so much so that we suggested it was an inflection point for the market as a whole. But it probably came as a surprise still at how quickly competitors reacted, with 2023 offering a glimpse into a future laden with compelling PC gaming handhelds, each experimenting in eye-catching ways.</p><p dir="ltr">With increasingly expensiv
+

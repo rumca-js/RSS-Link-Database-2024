@@ -1,0 +1,72 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Concordia joins McGill in offering bursaries to counter tuition hikes
+ - [https://www.cbc.ca/news/canada/montreal/concordia-bursaries-tuition-hikes-1.7067773?cmp=rss](https://www.cbc.ca/news/canada/montreal/concordia-bursaries-tuition-hikes-1.7067773?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-22T11:09:07+00:00
+
+<img alt="There is a building on a street." height="349" src="https://i.cbc.ca/1.6632904.1697811002!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/concordia-sex-assault-warning-20171114.jpg" title="As of next fall, new out-of-province students will need to pay $17,000 in tuition for undergraduate programs, a measure that will affect English-language universities like Concordia. " width="620" /><p>The university says eligible students will be automatically considered for the bursaries, which will be pegged to academic performance. Concordia says the bursaries are a response to "concerns that recently imposed tuition fee increases would result in fewer students choosing to study in Quebec."</p>
+
+## The federal government increased her disability payment. Then Nova Scotia reduced it by the same amount
+ - [https://www.cbc.ca/news/canada/nova-scotia/federal-disability-payment-trudy-goold-1.7066272?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/federal-disability-payment-trudy-goold-1.7066272?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-22T05:00:31+00:00
+
+<img alt="A woman in a blue shirt sits in an armchair. " height="349" src="https://i.cbc.ca/1.7066402.1703173656!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trudy-goold.jpg" title="Trudy Goold said she firmly believes in the rights of people with disabilities to live a good life. " width="620" /><p>After a Spryfield, N.S., woman received a small increase to her Canada Pension Plan disability payments to reflect the cost of living, she was shocked when the Nova Scotia government decreased her provincial payments by the same amount. One lawyer says this practice can keep disabled people in deep poverty.</p>
+
+## P.E.I. birders need to learn new names as ornithological society makes big change
+ - [https://www.cbc.ca/news/canada/prince-edward-island/pei-bird-names-changed-ornithological-society-1.7066538?cmp=rss](https://www.cbc.ca/news/canada/prince-edward-island/pei-bird-names-changed-ornithological-society-1.7066538?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-22T05:00:00+00:00
+
+<img alt="A woman in a pink jacket and binoculars stands next to a harbour " height="349" src="https://i.cbc.ca/1.7066764.1703188115!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kathy-martin-pei-birder.jpg" title="Kathy Martin grew up in Stanhope, Prince Edward Island, and is a professor of wildlife ecology at the University of British Columbia.  She is a long-time member, and a former president of the American Ornithological Society. " width="620" /><p>About 25 species of birds seen on Prince Edward Island will have new names in 2024, as the American Ornithological Society moves to change the name of any bird named for a person. The idea has ruffled a few feathers, but Island birders say they're okay with it.</p>
+
+## How months of calls to ease Toronto's financial woes led to some provincial and federal help
+ - [https://www.cbc.ca/news/canada/toronto/toronto-budget-shortfall-funding-federal-government-1.7067045?cmp=rss](https://www.cbc.ca/news/canada/toronto/toronto-budget-shortfall-funding-federal-government-1.7067045?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-22T04:00:37+00:00
+
+<img alt="Mayor elect Olivia Chow is pictured during a press conference at Young Women&apos;s Christian Association of Greater Toronto&apos;s (YWCA) headquarters in Toronto on July 7, 2023." height="349" src="https://i.cbc.ca/1.7040000.1700874098!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/olivia-chow-press-conference.jpg" title="Mayor elect Olivia Chow is pictured during a press conference at Young Women&apos;s Christian Association of Greater Toronto&apos;s (YWCA) headquarters in Toronto on July 7, 2023." width="620" /><p>Toronto will receive close to half a billion in federal funding to build new housing, Prime Minister Justin Trudeau’s office announced Thursday. But the funding falls short of what Mayor Olivia Chow has been calling on the federal government to provide for months, that is for more than housing. </p>
+
+## 'Chilling effect': People expressing pro-Palestinian views censured, suspended from work and school
+ - [https://www.cbc.ca/news/chilling-effect-pro-palestinian-1.7064510?cmp=rss](https://www.cbc.ca/news/chilling-effect-pro-palestinian-1.7064510?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-22T04:00:00+00:00
+
+<img alt="A person waving a large Palestinian flag facing a large crowd of people." height="349" src="https://i.cbc.ca/1.7065122.1703088657!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-israel-hamas-rallies-20231112.jpg" title="A man waves a Palestinian flag during a Pro-Palestine rally in Montreal, Sunday, Nov. 12, 2023. THE CANADIAN PRESS/Graham Hughes" width="620" /><p>Some employees and students across Canada who have publicly stated their pro-Palestinian stance on the Israel-Hamas war have been fired, suspended or faced calls to not be hired based on those views.</p>
+
+## 'Chilling effect': People expressing pro-Palestinian views censured, suspended from work and school
+ - [https://www.cbc.ca/news/canada/chilling-effect-pro-palestinian-1.7064510?cmp=rss](https://www.cbc.ca/news/canada/chilling-effect-pro-palestinian-1.7064510?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-22T04:00:00+00:00
+
+<img alt="A person waving a large Palestinian flag facing a large crowd of people." height="349" src="https://i.cbc.ca/1.7065122.1703088657!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-israel-hamas-rallies-20231112.jpg" title="A man waves a Palestinian flag during a Pro-Palestine rally in Montreal, Sunday, Nov. 12, 2023. THE CANADIAN PRESS/Graham Hughes" width="620" /><p>Some employees and students across Canada who have publicly stated their pro-Palestinian stance on the Israel-Hamas war have been fired, suspended or faced calls to not be hired based on those views.</p>
+
+## Canadian sports had a little bit of everything in 2023
+ - [https://www.cbc.ca/sports/best-moments-2023-1.7063414?cmp=rss](https://www.cbc.ca/sports/best-moments-2023-1.7063414?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-22T04:00:00+00:00
+
+<img alt="A golfer throws his putter in the air." height="349" src="https://i.cbc.ca/1.7063481.1702955512!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/taylor-nick-121823.JPG" title="Nick Taylor throws his putter in the air after making a 72-foot eagle putt to win the Canadian Open in Toronto in June." width="620" /><p>A 72-foot putt for eagle. A new home for women’s hockey. A rousing farewell to a legend. Those are just some of the moments that defined sports in 2023. Here's a look back at the year that was.</p>
+
+## In the market for a diamond? Stones that are manufactured, not mined, are gaining in popularity
+ - [https://www.cbc.ca/news/business/lab-grown-diamonds-1.7066621?cmp=rss](https://www.cbc.ca/news/business/lab-grown-diamonds-1.7066621?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-22T04:00:00+00:00
+
+<img alt="Diamond expert Michael Nehme holds a lab-grown diamond at the Vrai Yorkville, Toronto, showroom on Dec. 8, 2023." height="349" src="https://i.cbc.ca/1.7066727.1703183836!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/vrai-lab-grown-diamonds.jpg" title="Diamond expert Michael Nehme holds a lab-grown diamond at the Vrai Yorkville, Toronto, showroom on Dec. 8, 2023." width="620" /><p>More consumers are choosing diamonds that are created in labs over those that have been mined, both as a way to save money and for ethical and environmental reasons. These lab-grown diamonds now make up nearly 20 per cent of the global diamond jewelry market.</p>
+
+## Ottawa will prevent AI tools from discriminating against potential hires, Anand says
+ - [https://www.cbc.ca/news/politics/anita-anand-artificial-intelligence-1.7066587?cmp=rss](https://www.cbc.ca/news/politics/anita-anand-artificial-intelligence-1.7066587?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-22T04:00:00+00:00
+
+<img alt="A close up photograph of National Defence Minister Anita Anand speaking into a microphone. " height="349" src="https://i.cbc.ca/1.6838595.1699560841!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cda-ukraine-20230510.JPG" title="National Defence Minister Anita Anand responds to a question during a news conference with the Latvian defence minister, Wednesday, May 10, 2023 in Ottawa. " width="620" /><p>The federal government will work to prevent artificial intelligence from discriminating against potential employees in hiring for government departments, says Treasury Board President Anita Anand.</p>
+
+## Women's groups dismayed that officer who threatened to kill ex was demoted, not fired
+ - [https://www.cbc.ca/news/canada/ottawa/yourik-brisebois-discreditable-conduct-sentence-1.7063713?cmp=rss](https://www.cbc.ca/news/canada/ottawa/yourik-brisebois-discreditable-conduct-sentence-1.7063713?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-22T04:00:00+00:00
+
+<img alt="A close-up of the Ottawa police crest on an officer&apos;s uniform." height="349" src="https://i.cbc.ca/1.1479438.1680711239!/httpImage/image.jpg_gen/derivatives/16x9_620/ottawa-police-badge-crest-generic-ops.jpg" title="" width="620" /><p>An Ottawa police officer who threatened to kill his ex and wielded a knife in a 2020 domestic dispute has been demoted for two years, and some who work to support victims of violence against women say they're disappointed but not surprised.</p>
+

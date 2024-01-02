@@ -1,0 +1,44 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Canada earns 4-medal haul in cycling at Parapan Am Games
+ - [https://www.cbc.ca/sports/parapanam/alex-hayward-parapan-am-games-canada-roundup-nov-19-1.7033314?cmp=rss](https://www.cbc.ca/sports/parapanam/alex-hayward-parapan-am-games-canada-roundup-nov-19-1.7033314?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-19T13:13:25+00:00
+
+<img alt="A men&apos;s cyclist rides down the road wearing a Team Canada uniform." height="349" src="https://i.cbc.ca/1.6935086.1691867991!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hayward.jpg" title="Alexandre Hayward finished fifth in the men&apos;s C3 road race on Saturday at the Para road cycling world championships in Dumfries, Scotland." width="620" /><p>Para cyclists Alex Hayward and Mike Sametz picked up gold and bronze medals in the same road race for Canada at the Parapan Am Games on Sunday in Santiago, Chile. Later, teammates Nathan Clement and Charles Moreau earned gold and bronze, respectively.</p>
+
+## Quebec Premier François Legault defends decision to subsidize NHL pre-season games
+ - [https://www.cbc.ca/news/canada/montreal/quebec-subsidize-nhl-pre-season-games-1.7033230?cmp=rss](https://www.cbc.ca/news/canada/montreal/quebec-subsidize-nhl-pre-season-games-1.7033230?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-19T09:57:52+00:00
+
+<img alt="Premier François Legault speaking at a news conference. " height="349" src="https://i.cbc.ca/1.7033235.1700402539!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/quebec-immigration-20231101.jpg" title="Quebec Premier Francois Legault speaks at a news conference on immigration and French language, Wednesday, November 1, 2023 at the legislature in Quebec City. THE CANADIAN PRESS/Jacques Boissinot" width="620" /><p>Quebec plans to spend between $5 million and $7 million to bring the Los Angeles Kings to Quebec City for two pre season hockey matches against the Boston Bruins and Florida Panthers next year.</p>
+
+## Metro Vancouver residents slapped with $166K in fines for defying water restrictions
+ - [https://www.cbc.ca/news/canada/british-columbia/stage-2-water-1.7028182?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/stage-2-water-1.7028182?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-19T09:00:00+00:00
+
+<img alt="A overhead view of a person holding a hose watering plant beds and a green lawn." height="349" src="https://i.cbc.ca/1.5034655.1699997296!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fc-watering-lawn-jpg.jpg" title="Lawn watering restrictions are in effect starting Sunday in Metro Vancouver, with properties only allowed to water their lawns once a week until October." width="620" /><p>Metro Vancouver issued fines ranging from $100 to $500 to residents who did not abide by water restrictions put in place this summer.</p>
+
+## After thousands sent him birthday wishes, a Nova Scotia boy is returning the kindness
+ - [https://www.cbc.ca/news/canada/nova-scotia/greeting-cards-holidays-joey-connolly-1.7031534?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/greeting-cards-holidays-joey-connolly-1.7031534?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-19T05:00:15+00:00
+
+<img alt="A young boy holds envelopes next to a Canada Post mailbox, smiles and gives a thumbs up." height="349" src="https://i.cbc.ca/1.7031894.1700246585!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/joey-connolly.jpg" title="Joey Connolly, 12, has created and sent more than 2,700 postcards to organizations around the Maritimes." width="620" /><p>There might be more than a month before Christmas, but 12-year-old Joey Connolly — also known as The Card King — has been hard at work creating, printing and packaging holiday cards for thousands of lucky recipients around the Maritimes.</p>
+
+## From Saint John to outer space: These astronomy buffs have a new planetary namesake
+ - [https://www.cbc.ca/news/canada/new-brunswick/saint-john-amateur-astronomers-asteroid-1.7031355?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/saint-john-amateur-astronomers-asteroid-1.7031355?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-19T05:00:00+00:00
+
+<img alt="Three men standing behind a red and white telescope. An edited space background is behind them." height="349" src="https://i.cbc.ca/1.7031374.1700230622!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sunday-night-astronomy-show.jpg" title="From left, Paul Owen, Chris Curwin and Mike Powell. The three Saint John amateur astronomers started the Sunday Night Astronomy Show, which is still going strong three years later." width="620" /><p>Three New Brunswickers are enjoying an astronomical surprise: an asteroid has been named after them. It's called Mipach — using the first two letters from their names.</p>
+
+## Research underway aims to make wildfire evacuations smoother
+ - [https://www.cbc.ca/news/canada/edmonton/research-wildfire-evacuations-1.7031755?cmp=rss](https://www.cbc.ca/news/canada/edmonton/research-wildfire-evacuations-1.7031755?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-19T04:00:00+00:00
+
+<img alt="Flames on a highway." height="349" src="https://i.cbc.ca/1.6950476.1693318631!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/flames-through-a-windshield.jpg" title="Franco Nogarin drove into an ominous orange sky while fleeing fires near Hay River, N.W.T., on Aug. 13. There was no warning that the drive out would lead them straight into the flames, until an elderly man stopped them on the highway. " width="620" /><p>After a record-breaking year for wildfire, researchers in Alberta are studying how to make evacuations run more smoothly by zooming in on three cities in the B.C. Interior and two towns in Alberta.</p>
+

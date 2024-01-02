@@ -1,0 +1,163 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss/, language:en-us
+
+## PlayStation Store users won't lose their Discovery TV shows they bought, at least for now
+ - [https://www.neowin.net/news/playstation-store-users-wont-lose-their-discovery-tv-shows-they-bought-at-least-for-now](https://www.neowin.net/news/playstation-store-users-wont-lose-their-discovery-tv-shows-they-bought-at-least-for-now)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T22:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701492599_mythbusters_medium.jpg" /></div>Sony has now reached a new licensing agreement with Warner Bros, allowing people who purchased Discovery TV shows on the PlayStation Store to keep them for at least two and a half more years. <a href="https://www.neowin.net/news/playstation-store-users-wont-lose-their-discovery-tv-shows-they-bought-at-least-for-now">Read more...</a>
+
+## Microsoft will continue working on its HoloLens mixed reality headset for the US Army
+ - [https://www.neowin.net/news/microsoft-will-continue-working-on-its-hololens-mixed-reality-headset-for-the-us-army](https://www.neowin.net/news/microsoft-will-continue-working-on-its-hololens-mixed-reality-headset-for-the-us-army)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T21:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/06/1623216094_picture3-new_medium.jpg" /></div>Microsoft has sent Neowin a statement, saying it will continue to work on the HoloLens-based US Army mixed reality headset even after the end of Windows Mixed Reality platform development. <a href="https://www.neowin.net/news/microsoft-will-continue-working-on-its-hololens-mixed-reality-headset-for-the-us-army">Read more...</a>
+
+## South Park: Snow Day launches March 26, and it has a pretty sweet Collector's Edition
+ - [https://www.neowin.net/news/south-park-snow-day-launches-march-26-and-it-has-a-pretty-sweet-collectors-edition](https://www.neowin.net/news/south-park-snow-day-launches-march-26-and-it-has-a-pretty-sweet-collectors-edition)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T20:56:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703190935_spsd_8_medium.jpg" /></div>THQ Nordic will release the four-player co-op game South Park: Snow Day on March 26, 2024. Preorders for the TV show-based game are now live, and they include a cool Collector&#039;s Edition. <a href="https://www.neowin.net/news/south-park-snow-day-launches-march-26-and-it-has-a-pretty-sweet-collectors-edition">Read more...</a>
+
+## Beeper officially ends its battle with Apple to bring iMessage to Android
+ - [https://www.neowin.net/news/beeper-officially-ends-its-battle-with-apple-to-bring-imessage-to-android](https://www.neowin.net/news/beeper-officially-ends-its-battle-with-apple-to-bring-imessage-to-android)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T20:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703185654_beeper-mini-267_medium.jpg" /></div>Beeper Mini introduced a new workaround that requires a jailbroken iPhone to generate a unique registration code. However, Beeper also says the iMessage experiment on Android is officially over. <a href="https://www.neowin.net/news/beeper-officially-ends-its-battle-with-apple-to-bring-imessage-to-android">Read more...</a>
+
+## Google's Chrome browser is now running Safety Check in the background for better security
+ - [https://www.neowin.net/news/googles-chrome-browser-is-now-running-safety-check-in-the-background-for-better-security](https://www.neowin.net/news/googles-chrome-browser-is-now-running-safety-check-in-the-background-for-better-security)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T19:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/12/1609377157_chrome_logo_2_medium.jpg" /></div>Google is now rolling out an improvement to its Chrome web browser, which lets its Safety Check feature run in the background. It is also rolling out new Memory Saver improvements and more. <a href="https://www.neowin.net/news/googles-chrome-browser-is-now-running-safety-check-in-the-background-for-better-security">Read more...</a>
+
+## The GTA 6 hacker has been sentenced to stay in a secure hospital indefinitely
+ - [https://www.neowin.net/news/the-gta-6-hacker-has-been-sentenced-to-stay-in-a-secure-hospital-indefinitely](https://www.neowin.net/news/the-gta-6-hacker-has-been-sentenced-to-stay-in-a-secure-hospital-indefinitely)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T18:42:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701764290_gta7_medium.jpg" /></div>18-year-old Arion Kurtaj, who has autism, has been sentenced to stay in a UK hospital indefinitely after he was found guilty of hacking into Rockstar Games&#039; server and leaking early GTA 6 footage. <a href="https://www.neowin.net/news/the-gta-6-hacker-has-been-sentenced-to-stay-in-a-secure-hospital-indefinitely">Read more...</a>
+
+## Steam Winter Sale 2023 is here, kicks off two weeks of storewide discounts
+ - [https://www.neowin.net/news/steam-winter-sale-2023-is-here-kicks-off-two-weeks-of-storewide-discounts](https://www.neowin.net/news/steam-winter-sale-2023-is-here-kicks-off-two-weeks-of-storewide-discounts)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T18:08:06+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703180973_d52d640338dc0ab64488f5d2824d6e8a1612fad6_medium.jpg" /></div>The final Steam sale of 2023 is here, discounting almost everything on the PC games store. The Steam Winter Sale will be active for the next two weeks right alongside the latest Steam Awards. <a href="https://www.neowin.net/news/steam-winter-sale-2023-is-here-kicks-off-two-weeks-of-storewide-discounts">Read more...</a>
+
+## Save 66% on a EaseUS Data Recovery Wizard Lifetime Subscription
+ - [https://www.neowin.net/deals/save-66-on-a-easeus-data-recovery-wizard-lifetime-subscription](https://www.neowin.net/deals/save-66-on-a-easeus-data-recovery-wizard-lifetime-subscription)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T18:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701694715_easeus-data-recovery-wizard_medium.jpg" /></div>This powerful software can recover deleted, formatted, or lost files from devices such as PCs, laptops, hard drives, (non TRIM-enabled) SSDs, USB drives, and more, and you can get it at $100 off! <a href="https://www.neowin.net/deals/save-66-on-a-easeus-data-recovery-wizard-lifetime-subscription">Read more...</a>
+
+## Amazon wants you to upgrade to 4K with these 50 inch, 55 inch Smart Fire TV Omni deals
+ - [https://www.neowin.net/deals/amazon-wants-you-to-upgrade-to-4k-with-these-50-inch-55-inch-smart-fire-tv-omni-deals](https://www.neowin.net/deals/amazon-wants-you-to-upgrade-to-4k-with-these-50-inch-55-inch-smart-fire-tv-omni-deals)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T17:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703177436_amazon_fire_tv_omni_4k_medium.jpg" /></div>Amazon is again offering Fire TVs for great discounts today. The deals are in the form of the Omni series 50-inch and 55-inch 4K UHD models with both selling at super enticing prices. <a href="https://www.neowin.net/deals/amazon-wants-you-to-upgrade-to-4k-with-these-50-inch-55-inch-smart-fire-tv-omni-deals">Read more...</a>
+
+## Smart Moves (worth $14) free eBook offer
+ - [https://www.neowin.net/sponsored/smart-moves-worth-14-free-ebook-offer](https://www.neowin.net/sponsored/smart-moves-worth-14-free-ebook-offer)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T17:00:10+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1702984219_w_wile478c82_medium.jpg" /></div>Smart Moves is the ultimate guide for any ambitious woman seeking to make smarter decisions and lead a happy, fulfilling and successful life. Get your copy for free today before it expires. <a href="https://www.neowin.net/sponsored/smart-moves-worth-14-free-ebook-offer">Read more...</a>
+
+## A quick look back at the once lost video of the official (not a joke) Windows XP musical
+ - [https://www.neowin.net/news/a-quick-look-back-at-the-once-lost-video-of-the-official-not-a-joke-windows-xp-musical](https://www.neowin.net/news/a-quick-look-back-at-the-once-lost-video-of-the-official-not-a-joke-windows-xp-musical)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T17:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/10/1635230484_3e5a0950-397c-44e9-8647-e013aa6e4238_medium.jpg" /></div>In October 2001, an official Windows XP musical was performed in Israel to help promote Microsoft&#039;s launch of the operating system. The video of that musical has recently been discovered on YouTube. <a href="https://www.neowin.net/news/a-quick-look-back-at-the-once-lost-video-of-the-official-not-a-joke-windows-xp-musical">Read more...</a>
+
+## Melvor Idle is free to claim on the Epic Games Store today
+ - [https://www.neowin.net/news/melvor-idle-is-free-to-claim-on-the-epic-games-store-today](https://www.neowin.net/news/melvor-idle-is-free-to-claim-on-the-epic-games-store-today)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T16:18:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703174553_mel_medium.jpg" /></div>The Epic Store&#039;s second entry into its daily freebies promotion has turned out to be a copy of Melvor Idle. The holiday giveaway is a casual idling experience, and it&#039;s free for the next 24 hours. <a href="https://www.neowin.net/news/melvor-idle-is-free-to-claim-on-the-epic-games-store-today">Read more...</a>
+
+## Microsoft 365 Copilot will soon let you pin up to 15 chats
+ - [https://www.neowin.net/news/microsoft-365-copilot-will-soon-let-you-pin-up-to-15-chats](https://www.neowin.net/news/microsoft-365-copilot-will-soon-let-you-pin-up-to-15-chats)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T16:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1696075943_windows_copilot_medium.jpg" /></div>A new entry in the Microsoft 365 Roadmap confirms that the company is working on a new Copilot feature that will allow users to pin up to 15 chats for faster access to previous conversations. <a href="https://www.neowin.net/news/microsoft-365-copilot-will-soon-let-you-pin-up-to-15-chats">Read more...</a>
+
+## Samsung's ViewFinity S9 5K monitor with built-in 4K camera gets incredible $679 discount
+ - [https://www.neowin.net/deals/samsungs-viewfinity-s9-5k-monitor-with-built-in-4k-camera-gets-incredible-679-discount](https://www.neowin.net/deals/samsungs-viewfinity-s9-5k-monitor-with-built-in-4k-camera-gets-incredible-679-discount)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T15:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703173112_samsung_viewfinity_s9_medium.jpg" /></div>The Samsung ViewFinity S9 is a unique monitor with 5K resolution, a built-in 4K webcam, anti-glare coating, and a Thunderbolt 4 connection. Right now, it is available with a massive $679 discount. <a href="https://www.neowin.net/deals/samsungs-viewfinity-s9-5k-monitor-with-built-in-4k-camera-gets-incredible-679-discount">Read more...</a>
+
+## WhatsApp Android beta users can now share status updates from companion devices
+ - [https://www.neowin.net/news/whatsapp-android-beta-users-can-now-share-status-updates-from-companion-devices](https://www.neowin.net/news/whatsapp-android-beta-users-can-now-share-status-updates-from-companion-devices)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T15:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/05/1685444258_fotor_2023-5-30_16_56_59_medium.jpg" /></div>WhatsApp is working on the ability to share status updates via companion phones. The feature has started rolling out to limited testers running WhatsApp version 2.24.1.4 beta for Android. <a href="https://www.neowin.net/news/whatsapp-android-beta-users-can-now-share-status-updates-from-companion-devices">Read more...</a>
+
+## NVIDIA GeForce Now adds 11 more games to the cloud streaming service
+ - [https://www.neowin.net/news/nvidia-geforce-now-adds-11-more-games-to-the-cloud-streaming-service](https://www.neowin.net/news/nvidia-geforce-now-adds-11-more-games-to-the-cloud-streaming-service)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T14:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/06/1560882229_tigrex1_medium.jpg" /></div>The NVIDIA GeForce Now cloud game streaming service has added 11 more games to its library of titles. They include Monster Hunter: World, Blasphemous 2, RIDE 5, Dark Envoy, and Nova-Life: Amboise. <a href="https://www.neowin.net/news/nvidia-geforce-now-adds-11-more-games-to-the-cloud-streaming-service">Read more...</a>
+
+## Steam now lets you buy games privately and hide them from public view
+ - [https://www.neowin.net/news/steam-now-lets-you-buy-games-privately-and-hide-them-from-public-view](https://www.neowin.net/news/steam-now-lets-you-buy-games-privately-and-hide-them-from-public-view)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T13:58:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703165906_cartycart_medium.jpg" /></div>Steam users can now opt into a new beta to try out Valve&#039;s new cart and privacy features. With it, Steam games can be purchased and played without them showing up in the history or library. <a href="https://www.neowin.net/news/steam-now-lets-you-buy-games-privately-and-hide-them-from-public-view">Read more...</a>
+
+## New Windows 11 23H2 images are now available with fixes for known issues
+ - [https://www.neowin.net/news/new-windows-11-23h2-images-are-now-available-with-fixes-for-known-issues](https://www.neowin.net/news/new-windows-11-23h2-images-are-now-available-with-fixes-for-known-issues)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T13:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697149010_windows_11_medium.jpg" /></div>Microsoft has released new Windows 11 23H2 images (available on the official website and via the MCT app) with fixes for some known issues, namely the broken Narrator during the initial setup. <a href="https://www.neowin.net/news/new-windows-11-23h2-images-are-now-available-with-fixes-for-known-issues">Read more...</a>
+
+## Grab these Logitech PS5 and Xbox racing wheels and pedals at all time low prices right now
+ - [https://www.neowin.net/deals/grab-these-logitech-ps5-and-xbox-racing-wheels-and-pedals-at-all-time-low-prices-right-now](https://www.neowin.net/deals/grab-these-logitech-ps5-and-xbox-racing-wheels-and-pedals-at-all-time-low-prices-right-now)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T13:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703148748_logitech-g923_medium.jpg" /></div>The Logitech G923 Racing Wheel and Pedals, in both PlayStation and Xbox versions, are perfect for video game racing players. They are at all time low prices of $279.99 each right now at Amazon. <a href="https://www.neowin.net/deals/grab-these-logitech-ps5-and-xbox-racing-wheels-and-pedals-at-all-time-low-prices-right-now">Read more...</a>
+
+## ITC rejects Apple's request to stay the upcoming US sales ban of the Apple Watch Series 9
+ - [https://www.neowin.net/news/itc-rejects-apples-request-to-stay-the-upcoming-us-sales-ban-of-the-apple-watch-series-9](https://www.neowin.net/news/itc-rejects-apples-request-to-stay-the-upcoming-us-sales-ban-of-the-apple-watch-series-9)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T11:44:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1694543965_apple-watch-s9-hero-230912_medium.jpg" /></div>The International Trade Commission (ITC) denied Apple&#039;s last-minute request to stay its previous US sales ban on the Apple Watch  Series 9 and Apple Watch Ultra 2, pending an appeal. <a href="https://www.neowin.net/news/itc-rejects-apples-request-to-stay-the-upcoming-us-sales-ban-of-the-apple-watch-series-9">Read more...</a>
+
+## Save $100 on this 10-Core Acer Aspire desktop PC
+ - [https://www.neowin.net/deals/save-100-on-this-10-core-acer-aspire-desktop-pc](https://www.neowin.net/deals/save-100-on-this-10-core-acer-aspire-desktop-pc)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T10:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703154614_61-ky1lrl9l._ac_sl1500__medium.jpg" /></div>You can now get the Acer Aspire TC-1780-UA92 for $449.99 instead of $549.99 thanks to an 18% discount. The computer has some solid specifications include a 512GB SSD and a 10-Core processor. <a href="https://www.neowin.net/deals/save-100-on-this-10-core-acer-aspire-desktop-pc">Read more...</a>
+
+## LG reveals new PC monitors, including one which switches from a 240Hz to 480Hz refresh rate
+ - [https://www.neowin.net/news/lg-reveals-new-pc-monitors-including-one-which-switches-from-a-240hz-to-480hz-refresh-rate](https://www.neowin.net/news/lg-reveals-new-pc-monitors-including-one-which-switches-from-a-240hz-to-480hz-refresh-rate)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T09:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703150940_lg-ultragear-oled_medium.jpg" /></div>LG has announced a lot of new UltraGear PC OLED monitors ahead of CES 2024. They include a 32-inch monitor that can switch from a 4K 240Hz mode to a faster 480Hz refresh rate, at a reduction to 1080p. <a href="https://www.neowin.net/news/lg-reveals-new-pc-monitors-including-one-which-switches-from-a-240hz-to-480hz-refresh-rate">Read more...</a>
+
+## Microsoft is killing Windows Mixed Reality, a major Windows 10 headlining feature
+ - [https://www.neowin.net/news/microsoft-is-killing-windows-mixed-reality-a-major-windows-10-headlining-feature](https://www.neowin.net/news/microsoft-is-killing-windows-mixed-reality-a-major-windows-10-headlining-feature)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-21T08:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703142751_windows_10_mixed_reality_medium.jpg" /></div>When Microsoft announced Windows 10, it also unveiled its HoloLens and the accompanying Holographic platform, later renamed Windows Mixed Reality. Today, Microsoft has announced its death. <a href="https://www.neowin.net/news/microsoft-is-killing-windows-mixed-reality-a-major-windows-10-headlining-feature">Read more...</a>
+

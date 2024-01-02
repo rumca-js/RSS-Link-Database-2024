@@ -1,0 +1,100 @@
+# Source:All Africa, URL:https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf, language:en
+
+## Africa: Jwaneng Galaxy - the Giant Slayers of African Club Football
+ - [https://allafrica.com/stories/202311300417.html](https://allafrica.com/stories/202311300417.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T15:19:10+00:00
+
+[CAF] Upon the conclusion of the group stages draw last month in Johannesburg, fans of the African game had almost concluded who would advance to the knockout stages of the tournament - purely based on club pedigree and experience on the continent.
+
+## Africa: FIFA Rankings - Comoros Makes a Breakthrough.
+ - [https://allafrica.com/stories/202311300416.html](https://allafrica.com/stories/202311300416.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T15:19:09+00:00
+
+[CAF] World football governing body, FIFA on Thursday, 30 November officially published its latest men's national team global rankings.
+
+## Africa: ntegrating Climate Change Education Into School Curricula: Taking a Canadian Stance
+ - [https://allafrica.com/stories/202311300412.html](https://allafrica.com/stories/202311300412.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T15:13:49+00:00
+
+[Nile Post] Climate change is a global phenomenon that poses significant threats to the environment, ecosystems, and human societies.
+
+## Africa: Speaker Chambers to Attend African Parliamentary Union Conference
+ - [https://allafrica.com/stories/202311300402.html](https://allafrica.com/stories/202311300402.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T15:03:52+00:00
+
+[New Dawn] Liberia's House Speaker Bhofal Chamber has been extended an invitation to participate in the 80th Session of the Executive Committee and the 45th Conference of Presidents of National Parliamentary Assemblies of the African Parliamentary Union (APU). The event is scheduled to take place from December 11 to December 15, 2023, in the vibrant city of Abidjan, C&#xf4;te d'Ivoire.
+
+## Africa: Kampala - Prisons Conference Ends With Goodwill for Proper Maintenance of Correctional Facilities
+ - [https://allafrica.com/stories/202311300327.html](https://allafrica.com/stories/202311300327.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T11:53:37+00:00
+
+[ICRC] "African prisons are faced with overcrowding, poor operations and maintenance presenting serious security and health challenges to inmates and warders alike, leading to human rights abuses."
+
+## Africa: Rick Warren to African Pastors - It Is Your Time to Lead the Global Church
+ - [https://allafrica.com/stories/202311300293.html](https://allafrica.com/stories/202311300293.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T11:18:43+00:00
+
+[New Times] Prominent American preacher Rick Warren has told African evangelists that it is their time to lead the global church as Christianity's "centre of gravity" is shifting towards the Southern Hemisphere.
+
+## Africa: Kenya's Chief Justice Martha Koome and Benin's Vice President Mariam Chabi Talata Nominated for African Female Leader of the Year Award
+ - [https://allafrica.com/stories/202311300290.html](https://allafrica.com/stories/202311300290.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T11:14:34+00:00
+
+[Capital FM] Nairobi -- Kenya's Chief Justice, Martha Koome and Benin's Vice President, Mariam Chabi Talata, have both been nominated for the prestigious African Female Leader of the Year Award in the African Leadership Magazine Persons of the Year Awards.
+
+## Africa: WHO Celebrates the Role of Communities in Driving Progress Towards Ending AIDS
+ - [https://allafrica.com/stories/202311300268.html](https://allafrica.com/stories/202311300268.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T10:04:30+00:00
+
+[WHO] For World AIDS Day, marked on 1 December, the World Health Organization (WHO) is joining international partners to acknowledge the resilience, dedication and innovation exemplified by community leaders and organizations in the response to the HIV epidemic.
+
+## Africa: Eye Health Advocate Hortance Manjo Shuwon Championing Equity in Africa
+ - [https://allafrica.com/stories/202311300250.html](https://allafrica.com/stories/202311300250.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T09:51:42+00:00
+
+[allAfrica] Lusaka, Zambia -- Vision is more than just seeing clearly; it's a gateway to the world, influencing health, prosperity, and opportunities. Yet, millions grapple with impaired sight, facing barriers to quality eye care that limit their potential and hinder societal progress.
+
+## Africa: As the World Watches, Africa Rises to Face the Infectious Disease Epidemic
+ - [https://allafrica.com/stories/202311300249.html](https://allafrica.com/stories/202311300249.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T09:50:51+00:00
+
+[allAfrica] Lusaka, Zambia -- The battle against infectious diseases neglected tropical diseases (NTDs), and antimicrobial resistance (AMR) in Africa is a critical and complex issue that requires urgent attention. While the continent has made significant strides in combating these threats, formidable challenges remain, demanding a unified and strategic response.
+
+## Africa: As UAE COP28 Agenda Raises Scepticism, African Scientists Call for End to New Fossil Fuel Exploration Scramble
+ - [https://allafrica.com/stories/202311300058.html](https://allafrica.com/stories/202311300058.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T08:17:09+00:00
+
+[Daily Maverick] African scientists, experts and some global climate policy leads have called for an ambitious goal-setting COP28 as negotiations start in Dubai, United Arab Emirates, from 30 November to 12 December. Though many are calling for an end to fossil fuel exploration, especially on the African continent, the location of the negotiations has called into question how ambitious the talks will be.
+
+## Africa: Moving Africa's 'Just Transition' Forward
+ - [https://allafrica.com/stories/202311300047.html](https://allafrica.com/stories/202311300047.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T07:15:50+00:00
+
+[allAfrica] Despite contributing a mere 4% of global greenhouse gas (GHG) emissions, Africa disproportionately bears the brunt of climate change's devasting impacts. In fact, Just Transition Africa emphasises that Africa is especially vulnerable owing to its debt burden, high levels of poverty and absence of food, water and energy security.
+
+## Africa: Five-Time NBA Winner Ron Harper Makes Bold Prediction on Future of Basketball in Africa
+ - [https://allafrica.com/stories/202311300007.html](https://allafrica.com/stories/202311300007.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T05:15:26+00:00
+
+[Capital FM] Nairobi -- Five-time NBA Championships winner Ron Harper is emphatic that Africa is a sleeping giant in basketball that will awaken and rule the sport in the next decade.
+
+## Africa: EU Seeks to Bolster Global Efforts Against Migrant Smuggling
+ - [https://allafrica.com/stories/202311300004.html](https://allafrica.com/stories/202311300004.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2023-11-30T04:40:42+00:00
+
+[RFI] The European Union on Tuesday launched an international alliance to strengthen international cooperation against migrant smuggling. The move comes amid worsening conditions on migration routes towards Europe, especially through the Sahara and Mediterranean.
+

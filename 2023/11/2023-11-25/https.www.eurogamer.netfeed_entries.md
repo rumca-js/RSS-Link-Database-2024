@@ -1,0 +1,60 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Valve accidentally released a very early Left 4 Dead prototype in the latest Counter-Strike update
+ - [https://www.eurogamer.net/valve-accidentally-released-a-very-early-left-4-dead-prototype-in-the-latest-counter-strike-update](https://www.eurogamer.net/valve-accidentally-released-a-very-early-left-4-dead-prototype-in-the-latest-counter-strike-update)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-25T20:47:46+00:00
+
+<img src="https://assetsio.reedpopcdn.com/how-left4dead-changed-my-life-for-the-better-1411826746265.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>An "extremely early" Left 4 Dead prototype is now available to play thanks to Counter-Strike's 1.6 update.
+</p><p>According to content creator Gabe Follower, the prototype &ndash; called Terror Strike &ndash; was "accidentally compiled" and added to the Counter-Strike update, showing how the zombie game's DNA lies firmly in the mod for Counter-Strike: Condition Zero and was developed using CS assets, including Counter-Strike weapons.
+</p><p>The files were quickly pulled from the 22nd November update, but not quickly enough to stop them being yoinked and then distributed publicly.
+</p> <p><a href="https://www.eurogamer.net/valve-accidentally-released-a-very-early-left-4-dead-prototype-in-the-latest-counter-strike-update">Read more</a></p>
+
+## Prison Architect 2 has been rated in Korea
+ - [https://www.eurogamer.net/prison-architect-2-has-been-rated-in-korea](https://www.eurogamer.net/prison-architect-2-has-been-rated-in-korea)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-25T19:42:55+00:00
+
+<img src="https://assetsio.reedpopcdn.com/prison-architect-free-for-life.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A rating for Prison Architect 2 has popped up in Korea.
+</p><p>At the time of writing, a sequel to Introversion Software's wildly popular management sim has not been formally announced, yet Prison Architect 2 has been rated as suitable for "juvelines" by Korea's Game Rating and Administration Committee. 
+</p><p>Interestingly, the <a href="https://www.grac.or.kr/Statistics/Popup/Pop_StatisticsDetails.aspx?1dea72aafc45419d2bdd83a0cb94d37fa6c813a6a053e8e5ec12581d53453bb0">link that once led to the rating is now dead</a>, and the game doesn't turn up if you search for it, either in English or Korean. So make of that what you will.
+</p> <p><a href="https://www.eurogamer.net/prison-architect-2-has-been-rated-in-korea">Read more</a></p>
+
+## Roleplay as a landlord in The Sims 4's upcoming real-life "immersive pop-up installation"
+ - [https://www.eurogamer.net/roleplay-as-a-landlord-in-the-sims-4s-upcoming-real-life-immersive-pop-up-installation](https://www.eurogamer.net/roleplay-as-a-landlord-in-the-sims-4s-upcoming-real-life-immersive-pop-up-installation)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-25T18:06:43+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Screenshot-2023-11-25-at-18.03.01.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>To celebrate The Sims 4's upcoming expansion pack, For Rent, EA is inviting you to "become the ultimate property mogul" and join Llandgraab &amp; Sons Estate Agents for a day to sample what it's like to be on the other end of a tenancy agreement. 
+</p><p>On 7th and 8th December 2023, the fictitious agency will be open in central London for fans to get involved in the "immersive pop-up installation" and try out the expansion pack, which &ndash; coincidentally enough &ndash; also releases on 7th December. 
+</p><p>"Aspiring agents and property magnates will not only have the opportunity to get hands-on with the newest expansion pack, but they&rsquo;ll be able to interact with their favourite characters, Simify themselves in pictures and discover the new world of Tomarang!" EA explains. 
+</p> <p><a href="https://www.e
+
+## Borderlands Collection: Pandora's Box has been rated for Switch in Germany
+ - [https://www.eurogamer.net/borderlands-collection-pandoras-box-has-been-rated-for-switch-in-germany](https://www.eurogamer.net/borderlands-collection-pandoras-box-has-been-rated-for-switch-in-germany)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-25T17:34:06+00:00
+
+<img src="https://assetsio.reedpopcdn.com/borderlands-collection-pandoras-box-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A Switch rating for Borderlands Collection: Pandora's Box has popped up in Germany.
+</p><p>Right now, the collection is only available on PlayStation, Xbox, and PC, and has not yet been confirmed for Switch, which only received a Borderlands 3 port back in October, four years after the threequel was released on other platforms.
+</p><p>Interestingly, it was submitted for classification quite some time ago &ndash; the website says Pandora's Box was given its 14+ rating back in August &ndash; but it's only now come to the attention of the eagle-eyed folks on the <a href="https://www.reddit.com/r/GamingLeaksAndRumours/comments/1830dfx/borderlands_collection_pandoras_box_for_nintendo/">Gaming Leaks and Rumours subreddit</a> and has yet to be added to the <a href="https://www.nintendo.co.uk/Search/Search-299117.h
+
+## Activision wants to recommend games to you based on the livestreams you watch
+ - [https://www.eurogamer.net/activision-wants-to-recommend-games-to-you-based-on-the-livestreams-you-watch](https://www.eurogamer.net/activision-wants-to-recommend-games-to-you-based-on-the-livestreams-you-watch)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-25T15:39:41+00:00
+
+<img src="https://assetsio.reedpopcdn.com/TeCAmrQMgmwEW839tfhe4dEJilq924QavM7QEtHv-BKDTF6Rn2girrZJlnSNg9SeEqFPsa47_s_L8y58zJE60_g1flMRSBDaP1PcZQrBjAo.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Activision wants to recommend games to you based on the livestreams you watch.
+</p><p>According to a <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=US414438604&amp;_cid=P10-LP4V24-93467-1">patent</a> filed in July and published publicly just last week &ndash; snappily entitled "systems and methods of dynamically modifying video game content based on non-video game content being concurrently experienced by a user" &ndash; Activision wants to keep track of what you watch and use that data to make personalised recommendations to you.
+</p><p>As spotted by <a href="https://exputer.com/news/industry/activision-patents-games-suggestion/">Exputer</a>, this would make a typically passive viewing experience more interactive, and coul
+
+## Ark: Survival Ascended is a striking upgrade but old problems set alarm bells ringing
+ - [https://www.eurogamer.net/ark-survival-ascended-is-a-striking-upgrade-but-old-problems-set-alarm-bells-ringing](https://www.eurogamer.net/ark-survival-ascended-is-a-striking-upgrade-but-old-problems-set-alarm-bells-ringing)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-25T10:02:35+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ark-survival-ascended-art.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+It's not something I brag about very often - mainly because remembering you once invested nearly 2,000 hours of your life into a single game does tend to trigger a degree of introspection - but Ark: Survival Evolved is easily the most played game in my Steam library. I eventually wrenched myself away shortly after its 1.0 release in 2017, but even today I look back on its early access years with a mixture of fondness and vague PTSD.
+</p><p>
+There's a lot to love about Ark; it's a wildly immersive survival adventure with the kind of premise - live alongside the dinosaurs! - that would have made child-me dizzy with excitement, and it's stuffed with an intoxicating number of ways to turn its vicious corner of unreality into an odd little home. But it's also a game I remember being deeply disrespectful of players' time, perp
+

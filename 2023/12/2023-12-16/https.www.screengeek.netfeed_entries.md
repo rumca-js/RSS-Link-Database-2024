@@ -1,0 +1,34 @@
+# Source:ScreenGeek, URL:https://www.screengeek.net/feed/, language:en-US
+
+## Hulu Resurrects Forgotten Marvel Series With New Season
+ - [https://www.screengeek.net/2023/12/16/hulu-forgotten-marvel-show-new-season](https://www.screengeek.net/2023/12/16/hulu-forgotten-marvel-show-new-season)
+ - RSS feed: https://www.screengeek.net/feed/
+ - date published: 2023-12-16T16:28:13+00:00
+
+<p>In addition to the Marvel Cinematic Universe, which spans both film and television, Marvel has been involved with a number of unrelated adaptations. One such adaptation, a Marvel series available on Hulu, has just been renewed for a new season while other shows on the platform have been canceled. The addition of Disney Plus over [...]</p>
+<p>The post <a href="https://www.screengeek.net/2023/12/16/hulu-forgotten-marvel-show-new-season/">Hulu Resurrects Forgotten Marvel Series With New Season</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
+## Underrated Stephen King Movie Free To Stream Years After Theatrical Release
+ - [https://www.screengeek.net/2023/12/15/underrated-stephen-king-movie-free-stream](https://www.screengeek.net/2023/12/15/underrated-stephen-king-movie-free-stream)
+ - RSS feed: https://www.screengeek.net/feed/
+ - date published: 2023-12-16T02:24:36+00:00
+
+<p>Many horror fans are familiar with Stephen King for his catalog of books and the adaptations they&#8217;ve spawned. Of course, there have been times where adaptations were made less frequently, though in the late 2010&#8217;s they made quite a comeback. Now one such Stephen King adaptation is available to stream for free on Tubi. Mike [...]</p>
+<p>The post <a href="https://www.screengeek.net/2023/12/15/underrated-stephen-king-movie-free-stream/">Underrated Stephen King Movie Free To Stream Years After Theatrical Release</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
+## Obama’s Netflix Movie Faces Backlash Over “Anti-White Racism”
+ - [https://www.screengeek.net/2023/12/15/obama-netflix-movie-backlash-anti-white-racism](https://www.screengeek.net/2023/12/15/obama-netflix-movie-backlash-anti-white-racism)
+ - RSS feed: https://www.screengeek.net/feed/
+ - date published: 2023-12-16T01:00:39+00:00
+
+<p>The movie Leave the World Behind recently premiered on Netflix. Barack Obama and his wife, Michelle Obama, executive produced the project which was produced by his company, Higher Ground. Now the Netflix movie is facing backlash on social media. The premise of the film revolves around two families that have to navigate a crisis during [...]</p>
+<p>The post <a href="https://www.screengeek.net/2023/12/15/obama-netflix-movie-backlash-anti-white-racism/">Obama&#8217;s Netflix Movie Faces Backlash Over &#8220;Anti-White Racism&#8221;</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
+## A Popular Christmas Decoration Has Been Banned
+ - [https://www.screengeek.net/2023/12/15/popular-christmas-decoration-banned](https://www.screengeek.net/2023/12/15/popular-christmas-decoration-banned)
+ - RSS feed: https://www.screengeek.net/feed/
+ - date published: 2023-12-16T00:29:59+00:00
+
+<p>The United States is currently preparing for 2023&#8217;s Christmas holiday. As citizens prepare to decorate for the season, however, it turns out that one popular Christmas decoration has been banned altogether in Washington. As noted via ABC News, the ban for this particular item went into effect in August. Of course, consumers are really going [...]</p>
+<p>The post <a href="https://www.screengeek.net/2023/12/15/popular-christmas-decoration-banned/">A Popular Christmas Decoration Has Been Banned</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+

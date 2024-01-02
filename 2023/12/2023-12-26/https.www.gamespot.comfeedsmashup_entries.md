@@ -1,0 +1,30 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## How Alan Wake II Made Me Face My Fear of Horror Games
+ - [https://www.gamespot.com/videos/how-alan-wake-ii-made-me-face-my-fear-of-horror-games/2300-6463143](https://www.gamespot.com/videos/how-alan-wake-ii-made-me-face-my-fear-of-horror-games/2300-6463143)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-26T18:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1571/15719603/4238424-feature_alan_wake2_horror_yt_main.jpg" width="480" /> Alan Wake II is a horror game through and through, and, more importantly—to me, at least—it’s the first horror game I’ve ever been interested in playing. But why? What was it about Alan Wake that made me Alan Want to give it an Alan Whirl? And what kept me hooked even after I faced down terror after terror?
+
+## 2023 Was A Great Year For Streaming Animation
+ - [https://www.gamespot.com/gallery/2023-was-a-great-year-for-streaming-animation/2900-4995](https://www.gamespot.com/gallery/2023-was-a-great-year-for-streaming-animation/2900-4995)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-26T16:00:00+00:00
+
+<p><h2>2023 Was A Great Year For Streaming Animation</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1603/16030002/4235272-blueeyedsamurai.jpg" /><br /><h3><p dir="ltr">Tons of animation releases every year; it's impossible to watch it all even when someone isn't <a href="https://www.gamespot.com/articles/hbo-max-dumping-36-more-titles-shows-like-infinity-train-may-disappear-entirely/1100-6506608/">removing shows from streaming entirely</a> to nudge their bottom lines. But 2023 in particular was especially good for streaming animation. This list will highlight some of our favorites. Of course, we may have missed a few, since it is--again--impossible to watch it all.</p><p dir="ltr">Among this list are shows with remarkable imagination, exciting action direction, fresh storytelling, and new takes on old ideas. Animation styles tend to take over and become dominant in their times--think of the Pixar movie look, the style of Cartoon Network shows in the mid-'00s, or '80s an
+
+## 2023's Best Games Broke Down Cultural Barriers. 2024 Seems Poised to Continue.
+ - [https://www.gamespot.com/articles/2023s-best-games-broke-down-cultural-barriers-2024-seems-poised-to-continue/1100-6519930/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/2023s-best-games-broke-down-cultural-barriers-2024-seems-poised-to-continue/1100-6519930/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-26T13:00:00+00:00
+
+<p>I knew that I would love <a href="https://www.gamespot.com/reviews/thirsty-suitors-review-im-jala-goddamn-jayaratne/1900-6418160/">Thirsty Suitors</a> from the moment it was first unveiled. If I had to pick a moment where it clicked into place, it'd have to be when the protagonist, Jala, <a href="https://www.youtube.com/watch?v=PH2WP4G-WhY&amp;ab_channel=AnnapurnaInteractive">summoned her mother</a> in battle. Early in the game, you encounter Sergio, Jala's third-grade ex, who has been working deceptively hard in her absence to ingratiate himself in her family and life. As you battle in a diner, Sergio becomes invulnerable to your "thirsty" skills, backing Jala into a corner. With no moves left, she conjures the one thing that can tear a person down in an instant: her own mother. A projection of her mother towers over the arena before slamming Sergio with a chappal. The psychic damage is done, he is emotionally scarred and vulnerable enough to be defeated in battle.</p><p dir="ltr
+
+## Best Of 2023: Disney Dreamlight Valley's Simple Gameplay Hides A Complex Storyline
+ - [https://www.gamespot.com/articles/disney-dreamlight-valley-simple-gameplay-hides-a-complex-storyline/1100-6519913/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/disney-dreamlight-valley-simple-gameplay-hides-a-complex-storyline/1100-6519913/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-26T13:00:00+00:00
+
+<p dir="ltr">Disney Dreamlight Valley entered early access at the end of 2022, and the Animal Crossing-meets-Mickey Mouse gameplay immediately caught on in my house. The light and easy gameplay paired with soft music and the presence of some of the world's most family-friendly characters made for low-stakes gaming sessions that served as a nice break from whatever review was on my slate.</p><p dir="ltr">I honestly didn't expect much from the game; Animal Crossing never leaned heavily into its story so I didn't expect Disney Dreamlight Valley to do more than roughly as much as Nintendo's hit franchise. However, throughout the past year, the writers at Gameloft not only exceeded that expectation, they did so with a real and raw look at childhood, adulthood, and the transition between the two. It was a bold choice--and definitely one that flies in the face of "life simulator starring Mickey Mouse and friends"--but it's a tale I've routinely thought about since completing it.</p><figure 
+

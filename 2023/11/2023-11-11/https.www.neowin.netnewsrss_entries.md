@@ -1,0 +1,51 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss/, language:en-us
+
+## The latest Ara: History Untold dev diary reveals more about its AI system
+ - [https://www.neowin.net/news/the-latest-ara-history-untold-dev-diary-reveals-more-about-its-ai-system](https://www.neowin.net/news/the-latest-ara-history-untold-dev-diary-reveals-more-about-its-ai-system)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-11T19:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/06/1655071477_arahistory_screenshot_09-scaled_medium.jpg" /></div>The latest entry in the Ara: History Untold video dev diary series features Oxide Games software engineer Will Chambers as he talks about the AI system that will be part of the grand strategy game. <a href="https://www.neowin.net/news/the-latest-ara-history-untold-dev-diary-reveals-more-about-its-ai-system">Read more...</a>
+
+## Get a lifetime subscription to KeepSolid VPN Unlimited for only $59.97
+ - [https://www.neowin.net/deals/get-a-lifetime-subscription-to-keepsolid-vpn-unlimited-for-only-5997](https://www.neowin.net/deals/get-a-lifetime-subscription-to-keepsolid-vpn-unlimited-for-only-5997)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-11T18:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/08/1565607209_vpn_02_medium.jpg" /></div>Save a bundle on a Lifetime Plan to KeepSolid VPN Unlimited. Safety first--protect your online activity on 5 devices and browse without restriction for life with today&#039;s highlighted Neowin Deal. <a href="https://www.neowin.net/deals/get-a-lifetime-subscription-to-keepsolid-vpn-unlimited-for-only-5997">Read more...</a>
+
+## A new report allegedly leaks hardware info for Apple's 2nd Gen Vision Pro headset
+ - [https://www.neowin.net/news/a-new-report-allegedly-leaks-hardware-info-for-apples-2nd-gen-vision-pro-headset](https://www.neowin.net/news/a-new-report-allegedly-leaks-hardware-info-for-apples-2nd-gen-vision-pro-headset)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-11T17:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/06/1687152646_apple_vision_pro_headset_medium.jpg" /></div>A new but unconfirmed report claims to have some concrete info on Apple&#039;s second-generation Vision Pro mixed reality headset, which won&#039;t likely be released until late 2025 at the earliest. <a href="https://www.neowin.net/news/a-new-report-allegedly-leaks-hardware-info-for-apples-2nd-gen-vision-pro-headset">Read more...</a>
+
+## Microsoft launches its Bing Webmaster Tools app for Android devices
+ - [https://www.neowin.net/news/microsoft-launches-its-bing-webmaster-tools-app-for-android-devices](https://www.neowin.net/news/microsoft-launches-its-bing-webmaster-tools-app-for-android-devices)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-11T15:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699702922_unnamed_6_medium.jpg" /></div>Microsoft has announced it has launched a version of its Bing Webmaster Tools app for Android smartphones and tablets. It will allow website admins to keep track of site traffic while on the go. <a href="https://www.neowin.net/news/microsoft-launches-its-bing-webmaster-tools-app-for-android-devices">Read more...</a>
+
+## Get this 256GB Apple iPad Mini Wi-Fi tablet  for its lowest price ever at Amazon
+ - [https://www.neowin.net/deals/get-this-256gb-apple-ipad-mini-wi-fi-tablet-for-its-lowest-price-ever-at-amazon](https://www.neowin.net/deals/get-this-256gb-apple-ipad-mini-wi-fi-tablet-for-its-lowest-price-ever-at-amazon)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-11T13:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699701284_apple-ipad-mini-1_medium.jpg" /></div>The 256GB version of the 6th gen Apple iPad Mini with Wi-Fi 6 hardware and 12MP cameras on the front and back is currently available on Amazon for an all-time price low of just $529.99. <a href="https://www.neowin.net/deals/get-this-256gb-apple-ipad-mini-wi-fi-tablet-for-its-lowest-price-ever-at-amazon">Read more...</a>
+
+## Weekend PC Game Deals: Bundles for handhelds, Bethesda classics, and more
+ - [https://www.neowin.net/news/weekend-pc-game-deals-bundles-for-handhelds-bethesda-classics-and-more](https://www.neowin.net/news/weekend-pc-game-deals-bundles-for-handhelds-bethesda-classics-and-more)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-11T09:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/03/1551472859_1_medium.jpg" /></div>This weekend&#039;s PC game deals include a brand-new Choice bundle, Bethesda classics to pick and choose, free events from past eras, an odd freebie to grab from the Epic Store, and a lot more. <a href="https://www.neowin.net/news/weekend-pc-game-deals-bundles-for-handhelds-bethesda-classics-and-more">Read more...</a>
+
+## SpaceX to hog this quiet week in rocket launches - TWIRL #138
+ - [https://www.neowin.net/news/spacex-to-hog-this-quiet-week-in-rocket-launches---twirl-138](https://www.neowin.net/news/spacex-to-hog-this-quiet-week-in-rocket-launches---twirl-138)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-11-11T01:06:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699664423_twirl-138_medium.jpg" /></div>We don&#039;t have too many rocket launches this week but of the ones we do have, SpaceX will be involved. Both of the missions will see Falcon 9 rockets launch various satellites into space. <a href="https://www.neowin.net/news/spacex-to-hog-this-quiet-week-in-rocket-launches---twirl-138">Read more...</a>
+

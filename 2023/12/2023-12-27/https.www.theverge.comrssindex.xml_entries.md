@@ -1,0 +1,147 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Samsung’s new AI-enabled smart fridge can design recipes based on your dietary needs
+ - [https://www.theverge.com/2023/12/27/24016939/samsung-2024-ai-family-hub-smart-fridge-features](https://www.theverge.com/2023/12/27/24016939/samsung-2024-ai-family-hub-smart-fridge-features)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-27T22:53:01+00:00
+
+<figure>
+      <img alt="The newest Samsung Family Hub fridge in a kitchen. " src="https://cdn.vox-cdn.com/thumbor/_0J2CzqsYh-v680fm0lDd4egMc8=/323x0:2237x1276/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73002650/Screen_Shot_2023_12_27_at_12.43.24_PM.0.png" />
+        <figcaption>Samsung</figcaption>
+    </figure>
+
+  <p id="5Fl7AI">Samsung has a smart fridge in the works for the new year that includes some interesting AI features, including an internal camera that can identify individual food items and a connected app that can suggest recipes based what you have in stock. The company plans to unveil the 2024 Bespoke 4-Door Flex Refrigerator with AI Family Hub+ at CES next year. Users can mirror the display of their Galaxy phones to the 32-inch Family Hub touchscreen, and there are even separate apps for TikTok and YouTube videos. </p>
+<p id="9Bj2uO">While neither the internal camera or the Family Hub app are new (the 2023 model <a href="https://www.theverge.com/2023/5/25/2373
+
+## Astrohaus will be shipping its cheapest Freewrite digital typewriter in January
+ - [https://www.theverge.com/2023/12/27/24016791/astrohaus-freewrite-alpha-digital-typewriter-e-ink](https://www.theverge.com/2023/12/27/24016791/astrohaus-freewrite-alpha-digital-typewriter-e-ink)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-27T22:34:07+00:00
+
+<figure>
+      <img alt="A pair of hands using the Freewrite Alpha typewriter" src="https://cdn.vox-cdn.com/thumbor/Z_u6kiRW44ReH_lB-u-0Ufolxkw=/0x0:1600x1067/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73002596/_Q1A7731.0.jpeg" />
+        <figcaption>Image: Freewrite</figcaption>
+    </figure>
+
+  <p id="2yYbRh">Astrohaus will be shipping the cheapest digital typewriter in its Freewright lineup, the <a href="https://www.theverge.com/2022/9/27/23373610/freewrite-alpha-third-gen-distraction-free-keyboard-indiegogo-campaign-pricing-release">Freewright Alpha</a>, in mid-January for $349. You can preorder it now, however, in black or white <a href="https://getfreewrite.com/products/alpha">from the company’s website</a>.</p>
+<p id="Dj7cuv">The Freewrite Alpha is the follow-up to the original $649 Freewrite and the <a href="https://www.theverge.com/21527247/astrohaus-freewrite-traveler-word-processor-review">$499 portable Freewrite Traveler from 2020</a>. Like its predecessors, the 
+
+## Apple resumes Apple Watch sales after ban is paused
+ - [https://www.theverge.com/2023/12/27/24016684/apple-watch-on-sale-again-import-sales-bans-paused](https://www.theverge.com/2023/12/27/24016684/apple-watch-on-sale-again-import-sales-bans-paused)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-27T22:21:20+00:00
+
+<figure>
+      <img alt="Double tap gesture menu on Series 9" src="https://cdn.vox-cdn.com/thumbor/WEAa5lWP_DNTB6ZPYAJwRbQ5t5M=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73002545/236790_Apple_watch_9_Ultra_2_AKrales_0646.0.jpg" />
+        <figcaption>Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="9yQmV7">You can once again buy the latest Apple Watches straight from Apple. The Apple Watch Series 9 and Ultra 2 will be available again in some physical Apple stores starting today, with  wider availability expected by Saturday. Online sales will resume tomorrow by 3PM ET, Apple spokesperson Nikki Rothberg told <em>The Verge</em>.</p>
+<p id="iPnDUt">The restarting of sales comes hours after a federal appeals court <a href="https://www.theverge.com/2023/12/27/24016464/apple-watch-itc-ban-paused">paused a sales and import ban</a> that covered both devices. Apple was <a href="https://www.theverge.com/2023/12/26/24012382/apple-import-ba
+
+## How to take advantage of Chrome’s side panel
+ - [https://www.theverge.com/24016278/chrome-google-side-panel-how-to](https://www.theverge.com/24016278/chrome-google-side-panel-how-to)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-27T20:13:24+00:00
+
+<figure>
+      <img alt="Chrome logo surrounded by small illustrations against a pink background." src="https://cdn.vox-cdn.com/thumbor/yB5VNPKmcyUMnia1h_3L8NN8wzc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73002230/Chrome_HT044_How_To_01.0.jpg" />
+        <figcaption>Illustration by Samar Haddad / The Verge</figcaption>
+    </figure>
+
+  <p id="10Qx9L">When it comes to apps that I’ve used for over a year or so — such as the Chrome browser —I can be very boring. I get into the habit of using the app in a particular way, and after that, when interesting new features pop up, I’ll often put them aside to try out “some other time.” After all, if the app’s working for me as it is, why bother?</p>
+<p id="DKsi5f">The problem is, I <em>should</em> bother — because sometimes those features can be very useful. For example, when I started <a href="https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to">using and saving tab groups in Chrome</a>, it b
+
+## What If…? season 2 doesn’t get good until it really lets loose
+ - [https://www.theverge.com/24015321/marvel-what-if-season-2-kahhori-captain-carter](https://www.theverge.com/24015321/marvel-what-if-season-2-kahhori-captain-carter)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-27T19:45:41+00:00
+
+<figure>
+      <img alt="A tight shot of a young Native American woman whose face is adorned in glowing blue and white markings." src="https://cdn.vox-cdn.com/thumbor/cYSfcHEvGnuP8NmEMnUgYMHuMtA=/697x0:3088x1594/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73002152/206_MFL1160_comp_v002.1038.0.jpg" />
+        <figcaption>Kahhori, one of What If...?’s new characters. | Marvel Studios</figcaption>
+    </figure>
+
+
+  		 <p>What If’s second season is at its best when it’s exploring the edges of Marvel’s established cinematic canon.</p>
+  <p>
+    <a href="https://www.theverge.com/24015321/marvel-what-if-season-2-kahhori-captain-carter">Continue reading&hellip;</a>
+  </p>
+
+## Saving sites: Pocket’s bookmarking app and its alternatives
+ - [https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-27T18:26:12+00:00
+
+<figure>
+      <img alt="Web page showing Collections for Your Pocket, with various articles in gallery." src="https://cdn.vox-cdn.com/thumbor/MOgq_Z5DFC5bxOpgNl2Xwzf5Tvg=/100x0:2308x1472/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70544284/Screenshot_2023_08_14_at_11.11.55_AM.5.png" />
+        <figcaption>Screenshot: Barbara Krasnoff / The Verge</figcaption>
+    </figure>
+
+  <p id="tJVaUL">It’s hard to keep up with all the interesting, important, or just plain fun things you come across on the web. You may come across something you just don’t have time to read right now or want to save because it will come in handy later. But as most of us have discovered, creating a bookmark on a browser for each article and site that we want to read later can result in a huge bookmarky mess.</p>
+<p id="Eha69C">Years ago, I started getting the better of this issue by signing in to Pocket, a popular and long-standing app that allows you to save a bookmarked article to a separate server and t
+
+## This heavy-duty battery pack for travelers is $80 off
+ - [https://www.theverge.com/2023/12/27/24016275/zendure-supertank-pro-apple-14-inch-macbook-pro-deal-sale](https://www.theverge.com/2023/12/27/24016275/zendure-supertank-pro-apple-14-inch-macbook-pro-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-27T17:35:17+00:00
+
+<figure>
+      <img alt="A close-up of the Zendure SuperTank Pro’s built-in OLED, showing charge output levels for the four USB-C devices plugged into its ports below the screen." src="https://cdn.vox-cdn.com/thumbor/AUB9rJFLd2Vr-dcsgEfZKc9cw9c=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73001710/cgartenberg_200828_4164_0005.0.0.jpg" />
+        <figcaption><em>The portable Zendure SuperTank Pro can juice up a pair of MacBook Pros and smartphones at the same time.</em> | Photo by Chaim Gartenberg / The Verge</figcaption>
+    </figure>
+
+  <p id="BTHu9H">If your New Year’s Day plans involve going off-grid or some form of travel, a portable battery pack will come in handy when there are no outlets within reach. Right now, you can scoop up <a href="https://www.theverge.com/21409482/zendure-supertank-pro-charger-review"><strong>Zendure’s 100-watt SuperTank Pro charger</strong></a><strong> </strong>for $149.99 ($80 off) at <a href="https://www.amazon.com/dp/B09D78KLK1
+
+## Apple Watch ban temporarily paused
+ - [https://www.theverge.com/2023/12/27/24016464/apple-watch-itc-ban-paused](https://www.theverge.com/2023/12/27/24016464/apple-watch-itc-ban-paused)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-27T16:55:32+00:00
+
+<figure>
+      <img alt="Iphone moving message in Precision Finding feature on the screen" src="https://cdn.vox-cdn.com/thumbor/jt5cyRtPzwGiZjX8T-W8YqtyXKw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73001537/236790_Apple_watch_9_Ultra_2_AKrales_0380.0.jpg" />
+        <figcaption>Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="hwYN33">Apple has won a temporary pause of <a href="https://www.theverge.com/2023/12/26/24012382/apple-import-ban-watch-series-9-ultra-2">the Apple Watch ban</a> that went into effect on Tuesday. A federal appeals court ordered a halt on the import and sales bans today, after Apple requested that they be paused at least until US Customs can determine if changes it’s making to the Apple Watch would be enough to avoid the patent dispute that led to the ban. Customs is expected to issue its decision on January 12th.</p>
+<p id="eqjJvR">The court’s order means that Apple can resume selling the Apple Watch Serie
+
+## 10 great Windows PC games from 2023
+ - [https://www.theverge.com/23979457/best-windows-pc-games-2023](https://www.theverge.com/23979457/best-windows-pc-games-2023)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-27T14:30:00+00:00
+
+<figure>
+      <img alt="Vector collage featuring art from Baldur’s Gate 3 in the shape of a game controller." src="https://cdn.vox-cdn.com/thumbor/FvYK365kwaSHvjAR0YcMYUWx6w4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73001081/236889_EOY_PC_CVirginia.0.jpg" />
+        <figcaption>The Verge / Image courtesy of Larian Studios</figcaption>
+    </figure>
+
+  <p id="rK0ol3">2023 is likely to go down in history as one of gaming’s greats, and at times it’s been challenging just to keep up. <em>Baldur’s Gate 3 </em>brought the 20-year-old PC franchise back with a bang, and smaller releases like <em>Slay the Princess</em> were a reminder of the important role PCs still hold for indie games.</p>
+<p id="QzU971">Given how cross-platform the vast majority of games are these days, we’re not going to primarily focus on PC exclusives. Instead, the aim is to highlight a great selection of games that show off PC gaming at its best in 2023. So alongside games like <em>Slay the P
+
+## 8 great series and movies to stream on Disney Plus
+ - [https://www.theverge.com/23979424/disney-plus-best-shows-movies-streaming-2023](https://www.theverge.com/23979424/disney-plus-best-shows-movies-streaming-2023)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-27T14:00:00+00:00
+
+<figure>
+      <img alt="Vector photo collage featuring a still from Loki starring Tom Hiddleston." src="https://cdn.vox-cdn.com/thumbor/96aeJpycZAec1Q9400j7oKykTa0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73001027/236889_EOY_DISNEY_PLUS_CVirginia.0.jpg" />
+        <figcaption>The Verge / Photo courtesy of Disney</figcaption>
+    </figure>
+
+  <p id="KBtN3O">Disney Plus is a service built primarily around the company’s core brands of Marvel, <em>Star Wars</em>, and Disney — and that hasn’t changed much this year. 2023’s new releases were still dominated by superheroes and Jedi, but there were some Na’vi and Time Lords thrown in for good measure. In fact, this year the service’s offerings were particularly solid for sci-fi fans, with stories spanning quite a few galaxies and timelines. If you’re new to Disney Plus, here are a few movies and shows to stream first.</p>
+<h2 id="t26nQR"><a href="https://www.theverge.com/23901027/loki-season-2-review-marvel-disney-
+
+## The New York Times is suing OpenAI and Microsoft for copyright infringement
+ - [https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-12-27T13:49:27+00:00
+
+<figure>
+      <img alt="The New York Times Will Report Q2 2023 Results On Tuesday" src="https://cdn.vox-cdn.com/thumbor/6AmVCUVx78Gs3VNG1Wq2M-KsizU=/287x0:2861x1716/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73000963/1599680869.0.jpg" />
+        <figcaption>Photo by Kena Betancur/VIEWpress</figcaption>
+    </figure>
+
+  <p id="BS1V9p"><em>The New York Times</em> <a href="https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html">is suing</a> OpenAI and Microsoft over claims the companies built their AI models by “copying and using millions” of the publication’s articles and now “directly compete” with the outlet’s content.</p>
+<p id="f7kV6B">As outlined in <a href="https://nytco-assets.nytimes.com/2023/12/NYT_Complaint_Dec2023.pdf">the lawsuit</a>, the <em>Times</em> alleges OpenAI and Microsoft’s large language models (LLMs), which power ChatGPT and Copilot, “can generate output that recites Times content verbatim, closely summarizes it
+

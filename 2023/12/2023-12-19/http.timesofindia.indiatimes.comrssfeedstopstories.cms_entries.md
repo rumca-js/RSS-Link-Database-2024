@@ -1,0 +1,597 @@
+# Source:Times of India, URL:http://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## Government tables 6 bills in LS and passes 3, without opposition
+ - [https://timesofindia.indiatimes.com/india/government-tables-6-bills-in-lok-sabha-and-passes-3-without-opposition/articleshow/106137016.cms](https://timesofindia.indiatimes.com/india/government-tables-6-bills-in-lok-sabha-and-passes-3-without-opposition/articleshow/106137016.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T23:11:52+00:00
+
+The government tabled six bills in the Lok Sabha, passed three, and debated three others after opposition protests and suspension of MPs. The House passed bills related to Delhi laws, GST, and provisional collection of taxes. Home Minister Amit Shah tabled bills to replace colonial era laws. The debate continued with participation from BJP, BJD, and Shiv Sena members. The House sitting was extended to allow more members to speak. The bills will be tabled in the Rajya Sabha for passing.
+
+## Advani & Joshi invited to January 22 Ayodhya temple event: VHP
+ - [https://timesofindia.indiatimes.com/india/advani-joshi-invited-to-jan-22-ayodhya-temple-event-says-vhp/articleshow/106136947.cms](https://timesofindia.indiatimes.com/india/advani-joshi-invited-to-jan-22-ayodhya-temple-event-says-vhp/articleshow/106136947.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T23:09:35+00:00
+
+A new twist emerged on Tuesday to the invitee list for the opening of Ram temple in Ayodhya on January 22 with the Vishwa Hindu Parishad stating that BJP veterans L K Advani and Murli Manohar Joshi were invited for the inauguration. The statement came a day after Ram temple trust informed the media that the veterans were requested not to attend owing to their age and the biting cold, which drew criticism from many quarters that the senior leaders, who once led the party and the Ram Janmabhoomi movement, were being sidelined.
+
+## Biometrics put mehndi bar on brides
+ - [https://timesofindia.indiatimes.com/india/biometrics-put-mehndi-bar-on-brides/articleshow/106136810.cms](https://timesofindia.indiatimes.com/india/biometrics-put-mehndi-bar-on-brides/articleshow/106136810.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T23:04:43+00:00
+
+The article discusses how mehndi, a traditional practice during weddings, is causing issues with biometric registration in Bengal. Couples are required to have their thumb impressions recorded twice during the marriage registration process, and mehndi on the fingertips is affecting the capture of fingerprints. Registrars are advising couples to avoid applying mehndi on the left thumb to ensure successful biometric recording. Instances have been reported where marriage registrations had to be delayed due to mehndi on the hands.
+
+## Congress forms panel to fix INDIA seat-sharing issues
+ - [https://timesofindia.indiatimes.com/india/congress-forms-panel-to-fix-india-seat-sharing-issues/articleshow/106136568.cms](https://timesofindia.indiatimes.com/india/congress-forms-panel-to-fix-india-seat-sharing-issues/articleshow/106136568.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T22:54:39+00:00
+
+Congress forms committee for alliances in 2024 Lok Sabha elections, focusing on seat-sharing deals with regional parties. The committee includes Ashok Gehlot, Bhupesh Baghel, Salman Khurshid, Mohan Prakash, and Mukul Wasnik as convenor. The committee aims to address the roadblock in alliance talks and meet the demands of regional parties for early clinching of seat-sharing deals. This move comes ahead of the INDIA alliance meeting, which aims to challenge BJP in the upcoming parliamentary polls.
+
+## PM Modi, Bibi discuss Israel-Hamas war, call for restoration of peace
+ - [https://timesofindia.indiatimes.com/india/pm-modi-bibi-discuss-israel-hamas-war-call-for-restoration-of-peace/articleshow/106136342.cms](https://timesofindia.indiatimes.com/india/pm-modi-bibi-discuss-israel-hamas-war-call-for-restoration-of-peace/articleshow/106136342.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T22:46:10+00:00
+
+Israel PM Benjamin Netanyahu briefed PM Narendra Modi Tuesday about recent developments in the ongoing Israel-Hamas conflict and thanked him for India's support of Israel's "just war" to eliminate the Hamas terrorist organisation. Modi said he highlighted India's consistent position on the conflict. According to Indian authorities, the leaders shared concerns regarding the safety of maritime traffic. Israel said they spoke about the importance of securing freedom of navigation in Bab-el-Mandeb, which is threatened by the "aggression of the Houthis, instigated by Iran".
+
+## DMK mantri convicted in graft case; loses seat, post
+ - [https://timesofindia.indiatimes.com/india/dmk-mantri-convicted-in-graft-case-loses-seat-post/articleshow/106135918.cms](https://timesofindia.indiatimes.com/india/dmk-mantri-convicted-in-graft-case-loses-seat-post/articleshow/106135918.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T22:29:58+00:00
+
+The Madras high court has convicted DMK leader K Ponmudy in a corruption case, resulting in his immediate disqualification as MLA and minister. The court will announce the quantum of jail term on December 21. Ponmudy's wife, P Visalakshi, who was also convicted, will be summoned on the same day. The case pertains to a period from 2006 to 2011 when Ponmudy was the minister for mines &amp; minerals. Judge found that 65% of their wealth was disproportionate to their income.
+
+## Organisational role may be coming Shivraj's way
+ - [https://timesofindia.indiatimes.com/india/organisational-role-may-be-coming-shivrajs-way/articleshow/106135800.cms](https://timesofindia.indiatimes.com/india/organisational-role-may-be-coming-shivrajs-way/articleshow/106135800.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T22:24:52+00:00
+
+Shivraj Singh Chouhan, the former chief minister of Madhya Pradesh, expressed his willingness to take on any responsibility assigned to him by the party. He hinted that he may have an organisational assignment in the party and mentioned his participation in the party's campaign in southern states for the upcoming Lok Sabha polls. Chouhan met with BJP president JP Nadda and stated that he will carry out any role decided by the party. He also addressed the recent videos featuring 'laadli behena' beneficiaries, emphasizing the eternal bond between a brother and a sister.
+
+## Special session for Maratha quota in February: Maha CM Shinde
+ - [https://timesofindia.indiatimes.com/india/special-session-for-maratha-quota-in-february-eknath-shinde/articleshow/106135247.cms](https://timesofindia.indiatimes.com/india/special-session-for-maratha-quota-in-february-eknath-shinde/articleshow/106135247.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T22:04:03+00:00
+
+Chief Minister Eknath Shinde announced that the government will grant reservation to the Maratha community at a special session of the state legislature in February. The Maharashtra State Backward Class Commission is collecting data to ensure foolproof and long-lasting reservation. Maratha quota activist Manoj Jarange set a December 24 deadline for the government to grant reservation, with protests planned if it is not met. The government is taking steps to defend Maratha quota in the Supreme Court, including filing a curative petition and engaging renowned senior lawyers.
+
+## 6 months on, row over missing Nehru photo
+ - [https://timesofindia.indiatimes.com/india/6-months-on-row-over-missing-nehru-photo/articleshow/106135232.cms](https://timesofindia.indiatimes.com/india/6-months-on-row-over-missing-nehru-photo/articleshow/106135232.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T21:51:23+00:00
+
+A controversy broke out in the Madhya Pradesh assembly when Congress realized that a portrait of Jawaharlal Nehru had been removed and replaced with one of Dr Bhimrao Ambedkar. The assembly administration claims that Nehru's portrait was moved to another hall six months ago. Congress MLAs did not protest until the media highlighted the change. Outgoing PCC president Kamal Nath condemned the removal of Nehru's portrait and welcomed the installation of Ambedkar's portrait, suggesting that it could have been placed in a different location.
+
+## Despite hands-off pledge, court battles will help Parivar in 2024
+ - [https://timesofindia.indiatimes.com/india/despite-hands-off-pledge-court-battles-will-help-parivar-in-2024/articleshow/106134965.cms](https://timesofindia.indiatimes.com/india/despite-hands-off-pledge-court-battles-will-help-parivar-in-2024/articleshow/106134965.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T21:12:42+00:00
+
+The Allahabad high court's verdict on the Kashi Vishwanath-Gyanvapi land title suit has potential political ramifications leading up to the 2024 Lok Sabha elections. Legal battles in the Gyanvapi mosque and Krishna Janmabhoomi cases of Varanasi and Mathura are expected to influence political developments. Ayodhya, Kashi, and Mathura were contentious issues during the 1980s, forming the foundation of the saffron brigade's campaign. The RSS's interest in these legal disputes reflects its comprehension of their impact on politics and potential aid to BJP electoral fortunes.
+
+## Caste census will hit national unity, RSS tells BJP, Sena MLAs
+ - [https://timesofindia.indiatimes.com/india/caste-census-will-hit-national-unity-rss-tells-bjp-shiv-sena-mlas/articleshow/106134903.cms](https://timesofindia.indiatimes.com/india/caste-census-will-hit-national-unity-rss-tells-bjp-shiv-sena-mlas/articleshow/106134903.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T20:49:46+00:00
+
+RSS has disapproved of the stand taken by political parties, including BJP, on conducting a nationwide caste census. It spelled out its opposition during a meeting with Maharashtra's BJP and Shiv Sena MLAs who visited the Sangh's headquarters on Tuesday. RSS Vidarbha region chief Shridhar Gadge told TOI that a caste census may benefit some people politically as it would provide data on composition of population of a certain caste, but it is in fact detrimental to national unity.
+
+## 19 more sequences of JN.1 covid variant found
+ - [https://timesofindia.indiatimes.com/india/19-more-sequences-of-jn-1-covid-variant-found/articleshow/106134891.cms](https://timesofindia.indiatimes.com/india/19-more-sequences-of-jn-1-covid-variant-found/articleshow/106134891.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T20:40:39+00:00
+
+Central government forum of labs, has found 19 sequences of BA.2.86 (nicknamed Pirola) descendant JN.1 - one from Maharashtra and 18 from Goa - after the subvariant was first detected in Kerala a few days ago. Experts flagged this subvariant, believed to have been causing a rise in Covid cases in various countries, including the US. Dr Rajeev Jayadevan, co-chairman, National Indian Medical Association (IMA) Covid Task Force. According to official, a recent fatality in Kerala resulted not only from Covid but also from a combination of pre-existing health conditions.
+
+## Calcutta HC stays lawyer's 'civil arrest', says judge must restraint
+ - [https://timesofindia.indiatimes.com/india/calcutta-high-court-stays-lawyers-civil-arrest-says-judge-must-have-restraint/articleshow/106134882.cms](https://timesofindia.indiatimes.com/india/calcutta-high-court-stays-lawyers-civil-arrest-says-judge-must-have-restraint/articleshow/106134882.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T20:37:07+00:00
+
+The Calcutta high court bar association has decided to boycott the court of Justice Gangopadhyay due to his order of civil arrest of a lawyer. The bar association has urged the chief justice to take away all cases from Justice Gangopadhyay. The association's decision to stay away from his court will continue.
+
+## Staffers fight Air India Express in battle of bulge
+ - [https://timesofindia.indiatimes.com/india/staffers-fight-air-india-express-in-battle-of-bulge/articleshow/106134869.cms](https://timesofindia.indiatimes.com/india/staffers-fight-air-india-express-in-battle-of-bulge/articleshow/106134869.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T20:32:25+00:00
+
+Some cabin crew members of Air India Express accused the management of using uncalibrated equipment and under-reporting their height to categorise them at the higher-end of the BMI scale. The legal metrology department in Kochi seized the equipment after finding it uncalibrated. Air India Express secured a stay on further action by the department. Employees lodged complaints with the labour ministry and metrology department, resulting in show cause notices issued to the CEO. The management terminated employees and reduced their contract periods after privatization.
+
+## Ford cancels Chennai plant sale deal with JSW group
+ - [https://timesofindia.indiatimes.com/business/india-business/ford-cancels-chennai-plant-sale-deal-with-jsw-group/articleshow/106134854.cms](https://timesofindia.indiatimes.com/business/india-business/ford-cancels-chennai-plant-sale-deal-with-jsw-group/articleshow/106134854.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T20:23:47+00:00
+
+American car company Ford cancels deal with JSW group for Chennai plant, indicating a possible change in its India exit strategy. The company had also been in talks with Mahindra &amp; Mahindra and Vinfast for the sale of the plant. Sources suggest that Ford may now want to maintain a manufacturing presence in India and is looking to hire people in certain functions. However, Ford has not made a final decision on coming back to India.
+
+## US bankruptcy filing: Ebix's India business may change hands
+ - [https://timesofindia.indiatimes.com/india/us-bankruptcy-filing-ebixs-india-business-may-change-hands/articleshow/106134843.cms](https://timesofindia.indiatimes.com/india/us-bankruptcy-filing-ebixs-india-business-may-change-hands/articleshow/106134843.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T20:19:43+00:00
+
+EbixCash may undergo ownership change as its parent company, Ebix Inc, filed for bankruptcy under Chapter 11. However, EbixCash's operations in India remain unaffected. The bankruptcy proceedings only apply to Ebix entities in the US, while the international entities, including EbixCash in India, are excluded. Ebix Inc had acquired Centrum Direct and Itz Cash in India, and there is interest in reacquiring the forex business. EbixCash's plans for an IPO to repay its parent company will likely be affected by the bankruptcy filing.
+
+## Kharge as opposition's PM face? Mamata, Kejriwal ruffle many
+ - [https://timesofindia.indiatimes.com/india/kharge-as-oppositions-pm-face-mamata-kejriwal-ruffle-many/articleshow/106134840.cms](https://timesofindia.indiatimes.com/india/kharge-as-oppositions-pm-face-mamata-kejriwal-ruffle-many/articleshow/106134840.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T20:18:45+00:00
+
+West Bengal CM Mamata Banerjee and her Delhi counterpart Arvind Kejriwal propose Congress president Mallikarjun Kharge as opposition's prime ministerial candidate, citing his Dalit background. Kejriwal suggests Kharge as the alliance's PM choice, emphasizing the advantage of having a Dalit face. The pitch for Kharge creates awkwardness among participants, including Congress president. The meeting lacks the earlier positive chemistry and many regional party leaders skip the press conference. Seat sharing to be finalized by January 10.
+
+## Razorpay, Cashfree get aggregator nod
+ - [https://timesofindia.indiatimes.com/business/india-business/razorpay-cashfree-get-aggregator-nod/articleshow/106134825.cms](https://timesofindia.indiatimes.com/business/india-business/razorpay-cashfree-get-aggregator-nod/articleshow/106134825.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T20:16:32+00:00
+
+
+
+## 12,000 fraud cases in last 3 fiscals: Government
+ - [https://timesofindia.indiatimes.com/business/india-business/12000-fraud-cases-in-last-3-fiscals-government/articleshow/106134776.cms](https://timesofindia.indiatimes.com/business/india-business/12000-fraud-cases-in-last-3-fiscals-government/articleshow/106134776.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T20:10:09+00:00
+
+
+
+## House conduct shows opposition frustration: PM Modi
+ - [https://timesofindia.indiatimes.com/india/house-conduct-shows-opposition-frustration-pm-modi/articleshow/106134753.cms](https://timesofindia.indiatimes.com/india/house-conduct-shows-opposition-frustration-pm-modi/articleshow/106134753.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T20:02:47+00:00
+
+PM Modi addresses BJP parliamentary party, emphasizes the importance of participating in Parliament despite opposition's disruptive strategy. Highlights the significance of pending bills and expresses disappointment over opposition's lack of participation in debates. Condemns those who indirectly supported the security breach and urges BJP MPs to expose them with civility. Mentions the meeting of INDIA bloc leaders aiming to remove BJP while emphasizing the party's commitment to the betterment of India.
+
+## HC allows suit on ‘restoration’ of temple at Gyanvapi site
+ - [https://timesofindia.indiatimes.com/india/allahabad-high-court-clears-way-for-further-asi-study-at-gyanvapi-mosque-if-required/articleshow/106134690.cms](https://timesofindia.indiatimes.com/india/allahabad-high-court-clears-way-for-further-asi-study-at-gyanvapi-mosque-if-required/articleshow/106134690.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T19:45:55+00:00
+
+The Allahabad high court dismissed petitions by Anjuman Intezamia Masajid (AIM) and UP Sunni Central Waqf Board challenging civil suits seeking the right to worship at the Gyanvapi complex and restoration of a temple. The court clarified that the Places of Worship Act, 1991 does not bar these suits and emphasized the national importance of the dispute. It ruled that the determination of the religious character of the disputed place should be addressed through judicial proceedings.
+
+## Will review held-up insolvency cases: Government
+ - [https://timesofindia.indiatimes.com/business/india-business/will-review-held-up-insolvency-cases-government/articleshow/106134679.cms](https://timesofindia.indiatimes.com/business/india-business/will-review-held-up-insolvency-cases-government/articleshow/106134679.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T19:42:56+00:00
+
+The finance ministry plans to review insolvency cases that are stuck in bankruptcy tribunals. The government aims to address concerns about the slow progress of these cases, which were initially identified by the Reserve Bank of India and the government. The review will help identify pain points for creditors and improve the functioning of the tribunals. Authorities are also examining the roles of bankers and resolution professionals to make the process more transparent and efficient.
+
+## 49 more LS MPs suspended, 141 oppn members out of Parliament
+ - [https://timesofindia.indiatimes.com/india/49-more-lok-sabha-mps-suspended-141-opposition-members-out-of-parliament/articleshow/106134623.cms](https://timesofindia.indiatimes.com/india/49-more-lok-sabha-mps-suspended-141-opposition-members-out-of-parliament/articleshow/106134623.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T19:34:28+00:00
+
+49 more Lok Sabha MPs were suspended for disrupting proceedings, reducing the opposition's strength in the lower House by two-thirds. So far, 141 opposition MPs have been suspended. Congress chief Mallikarjun Kharge said a 'complete purge' was being executed to ensure the passage of 'draconian bills' without debate. The MPs suspended on Tuesday included Farooq Abdullah, Shashi Tharoor, Manish Tewari, Karti Chidambaram, Dimple Yadav, Supriya Sule, S Jagathrakshakan, DNV Senthil Kumar, Giridhari Yadav, Danish Ali, and Sushil Kumar Rinku.
+
+## 2nd ODI: De Zorzi ton guides SA to 8-wicket win over India
+ - [https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/2nd-odi-ton-up-tony-de-zorzi-bowlers-power-south-africa-to-series-levelling-win-over-india/articleshow/106134038.cms](https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/2nd-odi-ton-up-tony-de-zorzi-bowlers-power-south-africa-to-series-levelling-win-over-india/articleshow/106134038.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T18:12:29+00:00
+
+Left-handed opener Tony de Zorzi scored a career-best unbeaten 119 from 122 balls to lead South Africa to an emphatic eight-wicket win over India in the second ODI at St George’s Park on Tuesday and level the three-match series at 1-1. South Africa won the toss and sent India into bat, restricting the visitors to 211 all out in 46.2 overs on a wicket that was not easy to score on. They chased down their target with 45 deliveries remaining to set up a series decider in Paarl on Thursday.
+
+## Rajasthan CM has narrow escape as car veers into sewer
+ - [https://timesofindia.indiatimes.com/india/rajasthan-chief-ministers-car-accident-no-injuries-as-vehicle-veers-off-road/articleshow/106133743.cms](https://timesofindia.indiatimes.com/india/rajasthan-chief-ministers-car-accident-no-injuries-as-vehicle-veers-off-road/articleshow/106133743.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T17:47:42+00:00
+
+
+
+## WHO classifies JN.1 Covid strain as 'variant of interest'
+ - [https://timesofindia.indiatimes.com/india/who-classifies-jn-1-coronavirus-strain-as-variant-of-interest/articleshow/106133650.cms](https://timesofindia.indiatimes.com/india/who-classifies-jn-1-coronavirus-strain-as-variant-of-interest/articleshow/106133650.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T17:30:56+00:00
+
+
+
+## 'Not India or US ... ': Nawaz Sharif takes on Pak army
+ - [https://timesofindia.indiatimes.com/world/pakistan/neither-india-nor-us-but-we-shot-ourselves-in-our-own-foot-says-nawaz-sharif-as-he-blames-army-for-paks-woes/articleshow/106133490.cms](https://timesofindia.indiatimes.com/world/pakistan/neither-india-nor-us-but-we-shot-ourselves-in-our-own-foot-says-nawaz-sharif-as-he-blames-army-for-paks-woes/articleshow/106133490.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T17:18:35+00:00
+
+Former Pakistani Prime Minister Nawaz Sharif blames the Pakistani Military, specifically Gen Faiz Hamid, for orchestrating his oustings from power in 1993, 1999, and 2017. He accuses the military of interfering in court verdicts and coercing senior judges. Sharif also criticizes the judiciary for supporting military dictators and questions their accountability of prime ministers. Recently, Sharif was acquitted in the Al-Azizia Steel mill corruption case, as well as the Avenfield graft case and the Flagship corruption case.
+
+## Uncapped Indian cricketers strike gold in IPL 2024 Auction
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/from-rizvi-to-shahrukh-uncapped-indian-cricketers-strike-gold-in-ipl-2024-auction/articleshow/106132620.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/from-rizvi-to-shahrukh-uncapped-indian-cricketers-strike-gold-in-ipl-2024-auction/articleshow/106132620.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T16:30:23+00:00
+
+Unheralded Indian cricketers emerged as the ultimate victors at the IPL 2024 Auction conducted in Dubai on Tuesday, engaging in exhilarating bidding wars.
+
+## From record-breaking buys to disappointments at IPL auction
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/hits-misses-from-record-breaking-buys-to-heartbreaking-disappointments-at-ipl-2024-auction/articleshow/106131614.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/hits-misses-from-record-breaking-buys-to-heartbreaking-disappointments-at-ipl-2024-auction/articleshow/106131614.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T15:59:35+00:00
+
+The IPL 2024 auction marked historic purchases in the tournament's history, as specific players commanded substantial amounts, with teams engaging in lavish bids. Concurrently, certain renowned players experienced disappointment as teams considered them unsuitable for their respective needs.
+
+## Nikki Haley gets $70m to aim for second place after Trump
+ - [https://timesofindia.indiatimes.com/world/us/nikki-haley-gets-70-million-from-koch-group-to-aim-for-second-place-after-trump/articleshow/106131625.cms](https://timesofindia.indiatimes.com/world/us/nikki-haley-gets-70-million-from-koch-group-to-aim-for-second-place-after-trump/articleshow/106131625.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T15:09:25+00:00
+
+
+
+## ED notice to Gauri Khan over embezzlement-accused brand
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-wife-gauri-khan-receives-notice-from-enforcement-directorate-ed-for-endorsing-brand-accused-of-embezzlement-report/articleshow/106131278.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-wife-gauri-khan-receives-notice-from-enforcement-directorate-ed-for-endorsing-brand-accused-of-embezzlement-report/articleshow/106131278.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T14:43:21+00:00
+
+Gauri Khan, wife of Shah Rukh Khan, has received a notice from the Enforcement Directorate (ED) in connection with the alleged embezzlement of Rs 30 crore by the real estate company, Tulsiani Group. Gauri Khan, an interior designer and brand ambassador for the company, is being investigated for her financial dealings with the firm. She has not yet responded to the notices. Gauri Khan and Shah Rukh Khan were recently seen attending their son AbRam's school function.
+
+## Amid heavy rain, bridge collapses in Tamil Nadu: Top points
+ - [https://timesofindia.indiatimes.com/india/amid-heavy-rain-bridge-collapses-in-tamil-nadu-top-developments/articleshow/106131203.cms](https://timesofindia.indiatimes.com/india/amid-heavy-rain-bridge-collapses-in-tamil-nadu-top-developments/articleshow/106131203.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T14:43:18+00:00
+
+A bridge collapsed near Anthony Puram on the Thoothukudi-Madurai highway in the rain-ravaged Tamil Nadu. The record rainfall has severely affected nearly 40 lakh people in Tirunelveli and Tuticorin districts. The situation remains alarming in Srivaikuntam and Tuticorin towns due to large flooding. CM MK Stalin-led state government has termed the rainfall 'unprecedented'. IAF, Navy, and Coast Guard are rescuing stranded people and providing food. The Indian Air Force has deployed helicopters for rescue efforts. Also, the chief minister has urged the defence minister to deploy more helicopters.
+
+## Indian Navy evacuates injured sailor from hijacked ship
+ - [https://timesofindia.indiatimes.com/india/indian-navy-evacuates-injured-sailor-from-hijacked-ship/articleshow/106131010.cms](https://timesofindia.indiatimes.com/india/indian-navy-evacuates-injured-sailor-from-hijacked-ship/articleshow/106131010.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T14:35:51+00:00
+
+Indian destroyer INS Kochi has evacuated one of the 18 sailors on board the hijacked commercial vessel MV Ruen for urgent medical attention after he was injured in firing by the pirates, even as another warship INS Kolkata has now reached the Gulf of Aden. The injured sailor, a Bulgarian national who has a gunshot injury near his shoulder, was evacuated to INS Kochi off the coast of Somalia in the early hours of Monday after negotiations with the pirates on the hijacked Malta-flagged bulk carrier.
+
+## Domestic renewal of H-1B visas to be trialled in early 2024
+ - [https://timesofindia.indiatimes.com/world/us/pilot-program-for-renewal-of-h-1b-visas-to-start-in-early-2024/articleshow/106130652.cms](https://timesofindia.indiatimes.com/world/us/pilot-program-for-renewal-of-h-1b-visas-to-start-in-early-2024/articleshow/106130652.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T14:14:04+00:00
+
+The pilot program allowing certain H-1B visa holders to renew their visas within the US has been cleared by the Office of Management and Budget. The program, set to be implemented in January-February 2024, initially covers 20,000 principal applicants without their dependents on H-4 visas. However, the US Department of State plans to expand the program in 2024 to include H-4 visa holders and other non-immigrant visa categories.
+
+## PM Modi highlights India's stand in call with Benjamin Netanyahu
+ - [https://timesofindia.indiatimes.com/india/pm-modi-israeli-pm-netanyahu-discuss-houthi-threat-to-maritime-security/articleshow/106129942.cms](https://timesofindia.indiatimes.com/india/pm-modi-israeli-pm-netanyahu-discuss-houthi-threat-to-maritime-security/articleshow/106129942.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T13:37:33+00:00
+
+Prime Minister Narendra Modi and Israeli Prime Minister Benjamin Netanyahu discussed the Israel-Hamas conflict and shared concerns on maritime traffic safety due to attacks by Iran-backed Houthi rebels. They also talked about sending Indian laborers to Israel. The escalating threat led the United States and other nations to form a force to safeguard ships in the Red Sea. Multiple shipping companies issued directives to avoid the Bab el-Mandeb Strait. The attacks involve drones and ballistic missiles fired from Houthi-controlled areas of Yemen.
+
+## MPs suspended: INDIA to hold nationwide protest on Dec 22
+ - [https://timesofindia.indiatimes.com/india/oppn-mps-suspended-india-bloc-to-hold-nationwide-protest-on-december-22-says-mallikarjun-kharge/articleshow/106129125.cms](https://timesofindia.indiatimes.com/india/oppn-mps-suspended-india-bloc-to-hold-nationwide-protest-on-december-22-says-mallikarjun-kharge/articleshow/106129125.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T13:12:26+00:00
+
+
+
+## VHP invites Advani and Joshi for Ram temple consecration
+ - [https://timesofindia.indiatimes.com/india/vhp-invites-bjp-pioneers-advani-and-joshi-for-ram-temple-consecration/articleshow/106128427.cms](https://timesofindia.indiatimes.com/india/vhp-invites-bjp-pioneers-advani-and-joshi-for-ram-temple-consecration/articleshow/106128427.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T12:56:38+00:00
+
+Vishwa Hindu Parishad (VHP) has invited former Deputy Prime Minister LK Advani and Union Minister Murli Manohar Joshi to the grand consecration of the Ram Temple in Ayodhya. The temple trust advised against their attendance due to age and health concerns. Advani and Joshi, pioneers of the Ram Mandir movement, expressed their intention to attend the January 22 event. The Supreme Court's decision in November 2019 allocated the disputed land for the temple construction. PM Modi will participate in the event, which will include the participation of 13 Akharas, 150 sages and saints, and various dignitaries.
+
+## 'Shameful': V-P slams oppn for mimicry act, hits out at Rahul
+ - [https://timesofindia.indiatimes.com/india/shameful-ridiculous-unacceptable-jagdeep-dhankar-slams-trinamool-mp-kalyan-banerjee-for-mimicry-act-hits-out-at-rahul-gandhi-for-making-video/articleshow/106127501.cms](https://timesofindia.indiatimes.com/india/shameful-ridiculous-unacceptable-jagdeep-dhankar-slams-trinamool-mp-kalyan-banerjee-for-mimicry-act-hits-out-at-rahul-gandhi-for-making-video/articleshow/106127501.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T12:48:42+00:00
+
+
+
+## Mamata proposes Mallikarjun Kharge's name as PM face of INDIA bloc
+ - [https://timesofindia.indiatimes.com/india/india-bloc-meet-mamata-banerjee-proposes-mallikarjun-kharges-name-as-pm-face-of-alliance-in-2024/articleshow/106128177.cms](https://timesofindia.indiatimes.com/india/india-bloc-meet-mamata-banerjee-proposes-mallikarjun-kharges-name-as-pm-face-of-alliance-in-2024/articleshow/106128177.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T12:43:13+00:00
+
+
+
+## Who is Sameer Rizvi? The uncapped Indian who hit the jackpot
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/who-is-sameer-rizvi-the-uncapped-indian-who-hit-the-jackpot-in-ipl-2024-auction/articleshow/106128214.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/who-is-sameer-rizvi-the-uncapped-indian-who-hit-the-jackpot-in-ipl-2024-auction/articleshow/106128214.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T12:42:06+00:00
+
+The little-known Sameer Rizvi struck gold in the IPL 2024 auction. The uncapped Indian batsman, initially listed with a base price of Rs 20 lakh, clinched an astonishing Rs 8.40 crore contract with the Chennai Super Kings.
+
+## Google announces Maps feature to save you money & more
+ - [https://timesofindia.indiatimes.com/gadgets-news/google-announces-new-maps-feature-to-save-you-money-and-more/articleshow/106110301.cms](https://timesofindia.indiatimes.com/gadgets-news/google-announces-new-maps-feature-to-save-you-money-and-more/articleshow/106110301.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T11:50:45+00:00
+
+Google announced new features for Indian users, including Address Descriptors to find locations based on landmarks. Lens in Maps allows users to view information about nearby restaurants and cafes. Live View Walking Navigation provides directions and distance markers for pedestrians. A fuel-efficient routing feature for two-wheelers and four-wheelers will be rolled out in India. Google uses AI to minimize fuel and emissions based on real-time traffic data and road elevation.
+
+## Arslan Goni bday: GF Sussanne to host glittery bash tonight
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arslan-goni-birthday-the-actor-to-have-a-working-day-girlfriend-sussanne-khan-to-host-glittery-bash-tonight-exclusive/articleshow/106126003.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arslan-goni-birthday-the-actor-to-have-a-working-day-girlfriend-sussanne-khan-to-host-glittery-bash-tonight-exclusive/articleshow/106126003.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T11:45:32+00:00
+
+Arslan Goni celebrates his birthday amidst a packed shooting schedule for the web series "Tanaav," blending work and festivity. His girlfriend, Sussanne Khan, has curated a special birthday bash for him. Despite his commitment to his current project, Arslan remains grateful for the love and support from friends, family, and fans. Sussanne's exclusive party adds warmth and joy to the actor's special day.
+
+## B2B e-comm Udaan cuts 100-plus jobs: Read comp's statement
+ - [https://timesofindia.indiatimes.com/gadgets-news/b2b-e-commerce-platform-udaan-cuts-100-plus-jobs-read-the-companys-statement/articleshow/106125830.cms](https://timesofindia.indiatimes.com/gadgets-news/b2b-e-commerce-platform-udaan-cuts-100-plus-jobs-read-the-companys-statement/articleshow/106125830.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T11:37:27+00:00
+
+B2B e-commerce platform Udaan has reportedly cut over 100 jobs as part of a restructuring exercise. The company merged its essentials and discretionary business units in September. Udaan recently secured $340 million in funding, but this is the second time in 13 months that the company has laid off employees after raising capital. Udaan aims to use the fresh funds to strengthen customer experience, market penetration, vendor partnerships, and supply-chain capabilities. In FY23, Udaan's operating revenue decreased by 43% to Rs 5,609 crore.
+
+## 141 MPs suspended: Oppn reduced to 1/3 strength in Lok Sabha
+ - [https://timesofindia.indiatimes.com/india/diminished-india-alliance-strength-after-largest-parliament-suspensions-in-countrys-history/articleshow/106122675.cms](https://timesofindia.indiatimes.com/india/diminished-india-alliance-strength-after-largest-parliament-suspensions-in-countrys-history/articleshow/106122675.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T11:23:48+00:00
+
+The Lok Sabha and Rajya Sabha have expelled and suspended several MPs, resulting in minimal opposition for the ruling BJP party. The majority of the suspended MPs belong to the INDIA alliance, a coalition of opposition parties. This move has significantly reduced the strength of the opposition in both houses of Parliament. The suspended MPs include prominent figures such as Shashi Tharoor, Karti Chidambaram, Supriya Sule, Dimple Yadav, and Farooq Abdullah. The opposition has criticized the government for suspending MPs to pass bills without debate.
+
+## INDIA bloc meet under way, seat-sharing top priority
+ - [https://timesofindia.indiatimes.com/india/seat-sharing-top-priority-as-india-bloc-meets-for-first-time-after-debacle-in-assembly-elections/articleshow/106124144.cms](https://timesofindia.indiatimes.com/india/seat-sharing-top-priority-as-india-bloc-meets-for-first-time-after-debacle-in-assembly-elections/articleshow/106124144.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T10:52:27+00:00
+
+The fourth meeting of the 'Indian National Developmental Inclusive Alliance (INDIA) bloc is underway in New Delhi. The meeting addresses the political tensions over the demand for Union Home Minister Amit Shah's statement regarding the Parliament security breach. West Bengal Chief Minister Mamata Banerjee, present in the national capital, expresses her concerns about the suspension of 141 MPs from the Parliament. She emphasizes the importance of one-to-one seat sharing among the majority of political parties. The alliance, led by the Congress, aims to challenge the BJP-led National Democratic Alliance (NDA) in the upcoming Lok Sabha elections.
+
+## IPL Auction: Starc surpasses Cummins to become costliest player
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-auction-mitchell-starc-breaks-pat-cummins-record-to-become-the-most-costliest-player-ever/articleshow/106123773.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-auction-mitchell-starc-breaks-pat-cummins-record-to-become-the-most-costliest-player-ever/articleshow/106123773.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T10:38:24+00:00
+
+Australian fast bowler Mitchell Starc smashed Indian Premier League (IPL) auction record on Tuesday when Kolkata Knight Riders paid 247.5 million rupees ($2.98 million) for his services, a live broadcast showed. Starc, 33, will return to the IPL after an eight-year absence, having previously played for Royal Challengers Bangalore.
+
+## Why India has criticised IMF's reclassification of exchange rate regime
+ - [https://timesofindia.indiatimes.com/business/india-business/india-criticises-imf-for-suggesting-rbi-influenced-value-of-rupee-via-excessive-intervention-in-forex-market/articleshow/106121683.cms](https://timesofindia.indiatimes.com/business/india-business/india-criticises-imf-for-suggesting-rbi-influenced-value-of-rupee-via-excessive-intervention-in-forex-market/articleshow/106121683.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T10:27:54+00:00
+
+India criticises IMF for claiming RBI excessively intervened in forex market; IMF reclassifies India's exchange rate regime; RBI disagrees; IMF report highlights excessive interventions by RBI; RBI Governor states interventions shouldn't be seen in absolute terms; rupee's volatility at lowest level in a decade; intervention helps combat inflation and mitigate currency risk; IMF recommends flexible exchange rate; India's economy projected to grow at 6.3%; IMF calls for reforms and consolidation efforts to address public debt; government targets fiscal deficit reduction.
+
+## Tharoor's clairvoyant post on X mins before suspension
+ - [https://timesofindia.indiatimes.com/india/shashi-tharoor-predicts-suspension-from-lok-sabha-gets-suspended-minutes-later/articleshow/106123047.cms](https://timesofindia.indiatimes.com/india/shashi-tharoor-predicts-suspension-from-lok-sabha-gets-suspended-minutes-later/articleshow/106123047.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T10:25:49+00:00
+
+Congress leader Shashi Tharoor and 48 other Opposition members were suspended from Lok Sabha, joining the 78 members suspended the day before. Tharoor considered the suspension an 'unfair process' and criticized the violation of parliamentary accountability. The suspensions occurred amidst protests over a security breach in the Lok Sabha, with the Opposition demanding that Union home minister Amit Shah address Parliament, which has not happened. Lok Sabha Speaker Om Birla maintained that security matters are under the secretariat's jurisdiction, drawing criticism from the Opposition.
+
+## Mimicking video row: VP, BJP slam oppn for 'unacceptable' incident
+ - [https://timesofindia.indiatimes.com/india/mimicking-video-row-vp-bjp-slam-opposition-for-unacceptable-incident/articleshow/106122957.cms](https://timesofindia.indiatimes.com/india/mimicking-video-row-vp-bjp-slam-opposition-for-unacceptable-incident/articleshow/106122957.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T10:22:53+00:00
+
+During an opposition demonstration at the parliament, Trinamool Congress MP Kalyan Banerjee imitated Vice President Jagdeep Dhankhar, eliciting laughter from fellow members. Rahul Gandhi captured the moment on his mobile phone. Dhankhar called the act "ridiculous and unacceptable". The incident occurred when suspended MPs were protesting for a statement from Home Minister Amit Shah over a security breach. Piyush Goyal criticized the Congress and the BJP slammed Banerjee and Gandhi for mocking the vice president.
+
+## Explained: What is Bhashini? A tool that PM Modi used
+ - [https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-bhashini-the-real-time-translation-tool-that-pm-narendra-modi-used/articleshow/106122854.cms](https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-bhashini-the-real-time-translation-tool-that-pm-narendra-modi-used/articleshow/106122854.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T10:17:13+00:00
+
+Prime Minister Narendra Modi utilized Bhashini, an AI-based translation tool, during a speech in Varanasi. Bhashini breaks language barriers using AI, NLP, and crowdsourcing to enable real-time translation between different Indian languages. It aims to simplify language diversity in the country and provides an open source language database for developers to create native language tools and services. Bhashini works through a website that fosters an inclusive ecosystem and allows users to contribute through transcription and validation initiatives. Contributors receive recognition through Bhasa Samarthak badges.
+
+## How India ordered on Swiggy Instamart in 2023
+ - [https://timesofindia.indiatimes.com/gadgets-news/jaipur-man-places-67-orders-in-a-day-a-rs-31748-order-and-more-how-india-ordered-on-swiggy-instamart-in-2023/articleshow/106122664.cms](https://timesofindia.indiatimes.com/gadgets-news/jaipur-man-places-67-orders-in-a-day-a-rs-31748-order-and-more-how-india-ordered-on-swiggy-instamart-in-2023/articleshow/106122664.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T10:08:40+00:00
+
+This article discusses the online grocery shopping trend during the pandemic. It mentions the high number of orders on Swiggy Instamart, with one customer from Jaipur placing 67 orders in a day. The largest single order worth Rs 31,748 was placed by a customer from Chennai. Delhiites showed a preference for indulgence, with one order consisting of 99 items. The most commonly ordered essentials were onions, tomatoes, and coriander. Grooming essentials and air purifiers were also popular. Bangalore emerged as the top city for mango orders. There was a surge in condom orders in September. Makhana was the most popular snack. Delivery partners covered a significant distance. Delhi had the fastest delivery time for instant noodles.
+
+## Savitri Jindal, India's wealthiest woman, surpasses Ambani, Adani
+ - [https://timesofindia.indiatimes.com/business/india-business/savitri-jindal-indias-richest-woman-sees-staggering-9-6-billion-increase-in-wealth-beats-ambani-adani/articleshow/106120128.cms](https://timesofindia.indiatimes.com/business/india-business/savitri-jindal-indias-richest-woman-sees-staggering-9-6-billion-increase-in-wealth-beats-ambani-adani/articleshow/106120128.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T09:45:58+00:00
+
+Savitri Jindal, the richest woman in India, has seen her wealth grow by $9.6 billion in 2023, surpassing the Ambani and Birla families. Mukesh Ambani remains the richest Indian with a total wealth of $92.3 billion. Jindal, at the age of 73, is the fifth richest Indian.
+
+## Pat Cummins becomes the most expensive buy in IPL history
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pat-cummins-becomes-the-most-expensive-buy-in-ipl-history/articleshow/106120203.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pat-cummins-becomes-the-most-expensive-buy-in-ipl-history/articleshow/106120203.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T09:01:41+00:00
+
+Pat Cummins, the World Cup-winning captain of the Australian cricket team, became the most expensive buy ever at the IPL auction in Dubai. Sunrisers Hyderabad, a shrewd franchise, spent Rs 20.5 crore to secure the services of the talented Australian all-rounder. Cummins, known for his exceptional skills with both the bat and the ball, has consistently proved his mettle in international cricket and is highly sought-after in various T20 leagues worldwide. His exceptional leadership skills were instrumental in Australia's World Cup triumph.
+
+## IPL Auction: Rachin Ravindra in Dhoni camp for IPL debut
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-auction-2024-rachin-ravindra-enters-ms-dhoni-camp-for-ipl-debut/articleshow/106119907.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-auction-2024-rachin-ravindra-enters-ms-dhoni-camp-for-ipl-debut/articleshow/106119907.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T08:53:35+00:00
+
+With Rahul Dravid and Sachin Tendulkar inspiring his first name, the emerging batting talent from New Zealand, Rachin Ravindra, is set to mark his debut in the IPL under another Indian legend, MS Dhoni. CSK secured the services of the 24-year-old New Zealander for a notable sum of Rs. 1.8 crore. Ravindra, who made a significant impact in the recently concluded ODI World Cup, accumulated an impressive total of 578 runs, which included three centuries.
+
+## Siddharth Nigam: I am looking for projects to showcase my talent
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-siddharth-nigam-on-his-journey-with-tv-shows-and-films-i-am-looking-for-characters-and-projects-where-i-get-to-showcase-my-talent/articleshow/106118680.cms](https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-siddharth-nigam-on-his-journey-with-tv-shows-and-films-i-am-looking-for-characters-and-projects-where-i-get-to-showcase-my-talent/articleshow/106118680.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T08:29:55+00:00
+
+Siddharth Nigam, who has been a part of the entertainment industry since childhood, recently completed a decade in showbiz. In an exclusive interview, he discussed his journey with TV and Films, as well as his most challenging character, Aladdin. Despite initial skepticism, Siddharth successfully portrayed the innocence and versatility of the iconic character. The show opened at number one with high TRP ratings, proving his ability to captivate the audience. Siddharth expressed his desire to continue doing good work across various platforms and genres, aiming to bring about positive changes in people's lives through his characters.
+
+## Indian startups lay off over 28,000 employees in 2023
+ - [https://timesofindia.indiatimes.com/business/india-business/in-deep-red-indian-startups-lay-off-over-28000-employees-in-2023/articleshow/106117501.cms](https://timesofindia.indiatimes.com/business/india-business/in-deep-red-indian-startups-lay-off-over-28000-employees-in-2023/articleshow/106117501.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T08:01:06+00:00
+
+New-economy companies in India have laid off over 28,000 employees in the first three quarters of 2023 as a result of major restructuring to conserve cash and prioritize essential operations. The layoffs have been significantly higher compared to the aggressive hiring seen in 2021.
+
+## Oppn’s support to Parl security breach condemnable, says PM
+ - [https://timesofindia.indiatimes.com/india/oppositions-support-to-parliament-security-breach-condemnable-says-pm-modi/articleshow/106117911.cms](https://timesofindia.indiatimes.com/india/oppositions-support-to-parliament-security-breach-condemnable-says-pm-modi/articleshow/106117911.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T07:58:39+00:00
+
+Prime Minister Narendra Modi condemns the recent parliament security breach and criticizes opposition parties for politicizing the incident. He expresses concern over the muted support given by some opposition MPs and emphasizes the need to expose their intentions. The prime minister also addresses Rahul Gandhi's attribution of the incident to unemployment. He asserts that the nation has decided to keep the opposition in their current position. The prime minister urges members to actively participate in parliamentary debates and work towards the success of upcoming elections.
+
+## BB 17: Munawar has an emotional breakdown and seeks an apology
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-17-munawar-faruqui-has-an-emotional-breakdown-and-seeks-an-apology-ayesha-khan-refuses-to-accept-says-you-have-no-idea-what-people-are-talking-about-me/articleshow/106117118.cms](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-17-munawar-faruqui-has-an-emotional-breakdown-and-seeks-an-apology-ayesha-khan-refuses-to-accept-says-you-have-no-idea-what-people-are-talking-about-me/articleshow/106117118.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T07:32:35+00:00
+
+The upcoming Bigg Boss 17 episode takes an emotional toll on Munawar Faruqui, who seeks forgiveness from Ayesha Khan but is refused. Munawar breaks down, apologizing and expressing remorse. Ayesha, with tearful eyes, mentions the accusations against her. Munawar regrets not knowing about the situation and requests to leave the show. Nazila Sitanshi, Munawar's ex-girlfriend, reveals that she was unaware of Ayesha and shares her disappointment. She emphasizes the personal nature of the matter and distances herself from Munawar after watching the recent episode.
+
+## Cops crash party: 12 clients, 2 peddlers held with ecstasy haul
+ - [https://timesofindia.indiatimes.com/city/hyderabad/cops-crash-birthday-party-12-clients-2-peddlers-held-with-ecstasy-haul/articleshow/106116727.cms](https://timesofindia.indiatimes.com/city/hyderabad/cops-crash-birthday-party-12-clients-2-peddlers-held-with-ecstasy-haul/articleshow/106116727.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T07:20:08+00:00
+
+TSNAB arrests drug peddlers and consumers in Hyderabad raid at service apartment in SR Nagar; 40 ecstasy pills worth ₹1.8 lakh seized; peddlers J Ashik Yadav and D Rajesh supplying pills to clients from Nellore, Andhra Pradesh; 12 consumers, including businessmen and IT professionals, tested positive for drug abuse; police seize two cars; peddlers sourced drugs from Bengaluru and Goa; consumers treated as witnesses in the investigation.
+
+## 2024 IPL Teams Players List: Who got whom
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/indian-premier-league-2024-mini-auction-complete-players-list-by-all-ipl-teams/articleshow/106116049.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/indian-premier-league-2024-mini-auction-complete-players-list-by-all-ipl-teams/articleshow/106116049.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T07:17:07+00:00
+
+The IPL governing council handed the franchise a list of 1166, and after all the franchises gave their wish-list, it was pruned to 333. Out of them, 214 are Indians, 119 are overseas, and two are from associate nations. Among the 77 slots available, 30 are earmarked for overseas, and Australians will once again be in demand, although the likes of World Cup-winning skipper Pat Cummins, final hero Travis Head, keeper Jos Inglis, star pacer Mitchell Starc are all in Rs 2 crore category.
+
+## Audience to make IPL Auction debut: Watch reactions
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/fans-audience-to-make-debut-at-ipl-auction-watch-how-team-officials-react-to-that/articleshow/106114700.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/fans-audience-to-make-debut-at-ipl-auction-watch-how-team-officials-react-to-that/articleshow/106114700.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T06:32:54+00:00
+
+In a historic moment for the Indian Premier League (IPL) players' auction, fans and spectators will be present for the first time to witness the bidding battle unfold at Dubai's Coca-Cola Arena on December 19. Team owners, coaches and officials have meticulously planned their strategic wishlists in alignment with their remaining budgets, and the prospect of welcoming fans to the auction hall adds an extra layer of excitement, promising an atmosphere unlike anything seen before.
+
+## Banks not happy with RBI’s penalty charge guidelines
+ - [https://timesofindia.indiatimes.com/business/india-business/loan-borrowers-take-note-banks-not-happy-with-rbis-penalty-charge-guidelines-instead-of-penal-interest-rates-seek-more-time/articleshow/106113142.cms](https://timesofindia.indiatimes.com/business/india-business/loan-borrowers-take-note-banks-not-happy-with-rbis-penalty-charge-guidelines-instead-of-penal-interest-rates-seek-more-time/articleshow/106113142.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T06:20:56+00:00
+
+In a representation to the RBI earlier this month, lenders argued that penal interest rates contribute to better credit discipline. They also stated that they require additional time to reconfigure their internal systems.
+
+## 'Feeling much better...': Pant hopes for a comeback in IPL 2024
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/feeling-much-better-rishabh-pant-aims-for-full-recovery-hopes-for-a-comeback-in-ipl-2024/articleshow/106113470.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/feeling-much-better-rishabh-pant-aims-for-full-recovery-hopes-for-a-comeback-in-ipl-2024/articleshow/106113470.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T06:07:16+00:00
+
+Delhi Capitals captain Rishabh Pant, who escaped a car accident last year, is on the road to recovery and optimistic about making a comeback to competitive cricket during the upcoming Indian Premier League (IPL) season. Pant expressed gratitude for the overwhelming love and support from fans, which played a significant role in his quicker-than-expected recovery. He is currently undergoing rehabilitation at the National Cricket Academy in Bengaluru and is expected to lead the Delhi Capitals in the IPL 2024.
+
+## Why domestic airfares are skyrocketing on some routes
+ - [https://timesofindia.indiatimes.com/business/india-business/pinching-the-pocket-why-domestic-airfares-are-skyrocketing-by-up-to-229-on-some-routes/articleshow/106112186.cms](https://timesofindia.indiatimes.com/business/india-business/pinching-the-pocket-why-domestic-airfares-are-skyrocketing-by-up-to-229-on-some-routes/articleshow/106112186.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T05:52:53+00:00
+
+Airfares on some domestic routes in India have tripled due to reduced competition, with only one or two airlines operating on many routes. Non-stop flights between Srinagar and Leh have seen a 229% increase in fares, while the number of flights on the route has significantly decreased.
+
+## Gyanvapi mosque dispute: HC rejects maintainability plea
+ - [https://timesofindia.indiatimes.com/city/allahabad/allahabad-hc-rejects-gyanvapi-mosque-managements-plea-challenging-maintainability-of-civil-suit/articleshow/106112512.cms](https://timesofindia.indiatimes.com/city/allahabad/allahabad-hc-rejects-gyanvapi-mosque-managements-plea-challenging-maintainability-of-civil-suit/articleshow/106112512.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T05:31:02+00:00
+
+The Allahabad High Court rejected the petitions filed by Gyanvapi mosque management and Sunni Waqf Board challenging the maintainability of the 1991 civil suit. The court ruled that the Hindu side's petition was maintainable. The AIM, which manages Gyanvapi mosque, had challenged the suit filed by the Hindu side seeking restoration of a temple at the site. They argued that the suit is untenable under the Places of Worship Act of 1991. However, the court found that the act does not bar the petitions.
+
+## IPL Auction: The complete wishlist of 10 teams
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-auction-which-team-may-bid-for-whom-a-complete-wishlist/articleshow/106111708.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-auction-which-team-may-bid-for-whom-a-complete-wishlist/articleshow/106111708.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T05:28:38+00:00
+
+Representatives from the ten IPL teams are poised to enter the auction venue in Dubai for the IPL 2024 players' auction, equipped with carefully curated wishlists tailored to their team's needs and aligned with the remaining budget. TOI provides a comprehensive overview, offering insights and wishlist predictions for each of the ten franchises as they gear up for a competitive bidding showdown. The Australian World Cup-winning stars are expected to be in demand the most.
+
+## Gyanvapi mosque dispute: HC rejects maintainability plea
+ - [https://timesofindia.indiatimes.com/india/gyanvapi-mosque-case-allahabad-high-court-rejects-maintainability-plea/articleshow/106111406.cms](https://timesofindia.indiatimes.com/india/gyanvapi-mosque-case-allahabad-high-court-rejects-maintainability-plea/articleshow/106111406.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T04:59:56+00:00
+
+The Allahabad High Court rejects five petitions challenging the maintainability of a civil suit seeking the restoration of a temple at the site of the Gyanvapi mosque. The Anjuman Intezamia Masajid Committee (AIMC) and the UP Sunni Central Waqf Board also challenge a Varanasi court order to survey the mosque. The AIMC disputes the suit's maintainability, claiming the mosque is part of the temple. The petitioners' primary contention is that the suit violates the Places of Worship Act of 1991.
+
+## How Imran Khan used AI from jail to campaign for Pak polls
+ - [https://timesofindia.indiatimes.com/gadgets-news/how-imran-khan-used-ai-from-jail-to-campaign-for-pakistan-elections/articleshow/106110843.cms](https://timesofindia.indiatimes.com/gadgets-news/how-imran-khan-used-ai-from-jail-to-campaign-for-pakistan-elections/articleshow/106110843.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T04:41:38+00:00
+
+Imran Khan, former Prime Minister of Pakistan, is imprisoned on corruption charges. Despite this, he continues to campaign through AI technology, using an AI-generated audio clip to address a virtual rally. The digital voice, created by his party using his script and speech samples, mimics Khan's voice and captivates attendees. The event is hailed as a historic attempt to bypass restrictions on Khan's public appearances. However, concerns are raised about the potential misuse of AI in politically charged environments.
+
+## 'A change with huge impact': IPL to allow two bouncers an over
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/a-very-small-change-with-a-huge-impact-ipl-2024-to-allow-two-bouncers-an-over/articleshow/106110004.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/a-very-small-change-with-a-huge-impact-ipl-2024-to-allow-two-bouncers-an-over/articleshow/106110004.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T04:26:52+00:00
+
+The Indian Premier League has introduced a rule allowing bowlers to deliver two bouncers per over, aiming to create a fair balance between batsmen and bowlers. This change, tested during the 2023-24 Syed Mushtaq Ali Trophy, aims to provide bowlers with a wider range of options and add surprise for batsmen. Veteran bowler Jaydev Unadkat, who has set his base price at INR 50 lakh for the upcoming IPL 2024 auction, believes this change could be a game-changer for bowlers, offering more strategic opportunities.
+
+## Kerala governor calls CM Pinarayi Vijayan a ‘bully’
+ - [https://timesofindia.indiatimes.com/city/kochi/kerala-governor-arif-mohammad-khan-calls-cm-pinarayi-vijayan-bully-says-hes-involved-in-many-murders/articleshow/106110316.cms](https://timesofindia.indiatimes.com/city/kochi/kerala-governor-arif-mohammad-khan-calls-cm-pinarayi-vijayan-bully-says-hes-involved-in-many-murders/articleshow/106110316.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T04:21:03+00:00
+
+The governor's impromptu stroll down SM Street in Kozhikode escalated the governor-government row in Kerala. The incident took place during the chancellor-governor's stay at Calicut University campus, where he defied the SFI's attempts to prevent him from entering. The governor interacted with locals, including schoolchildren, and was joined by BJP leaders. He also criticized CM Pinarayi Vijayan, calling him a 'bully' and accusing him of involvement in murders in Kannur. The SFI protesters and governor did not directly confront each other, but tensions remained high.
+
+## IPL Auction: Australia's WC stars on radar of franchises
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-auction-2024-australias-world-cup-stars-on-radar-of-ipl-franchises/articleshow/106108813.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-auction-2024-australias-world-cup-stars-on-radar-of-ipl-franchises/articleshow/106108813.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T03:23:11+00:00
+
+Demonstrating exceptional skills during the victory at the 2023 ODI World Cup in India last November, Australia's renowned fast-bowling trio comprising Pat Cummins, Mitchell Starc and Josh Hazlewood, along with the dynamic opener Travis Head, are poised to attract lucrative deals as they enter the auction in Dubai on Tuesday for the IPL 2024, where some of the world's top players will be up for grabs. Among the Indian players, allrounder Shardul Thakur (base price Rs 2 cr), should be in demand.
+
+## Rain continues to batter TN; Army, IAF choppers join rescue ops
+ - [https://timesofindia.indiatimes.com/city/chennai/rain-continues-to-batter-south-tamil-nadu-army-iaf-choppers-join-rescue-ops/articleshow/106108776.cms](https://timesofindia.indiatimes.com/city/chennai/rain-continues-to-batter-south-tamil-nadu-army-iaf-choppers-join-rescue-ops/articleshow/106108776.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T03:22:01+00:00
+
+
+
+## 5k+ American diamonds used to make necklace on theme of Ram Temple
+ - [https://timesofindia.indiatimes.com/india/over-5000-american-diamonds-used-to-make-necklace-on-theme-of-ram-temple/articleshow/106108301.cms](https://timesofindia.indiatimes.com/india/over-5000-american-diamonds-used-to-make-necklace-on-theme-of-ram-temple/articleshow/106108301.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T03:21:06+00:00
+
+A diamond merchant from Surat has created a necklace inspired by the Ram Temple using over 5,000 American diamonds. The artist plans to gift it to the Ram Temple in Ayodhya. The enthronement ceremony for Ram Lalla is scheduled for January 22. Vedic rituals will commence on January 16, and a 1008 Hundi Mahayagya is also scheduled. Tent cities are being erected in Ayodhya to accommodate the influx of devotees for the grand consecration of the Ram Temple.
+
+## No overnight stay, but Pakistan plans resort in Kartarpur
+ - [https://timesofindia.indiatimes.com/city/chandigarh/no-overnight-stay-but-pakistan-plans-resort-in-kartarpur/articleshow/106108747.cms](https://timesofindia.indiatimes.com/city/chandigarh/no-overnight-stay-but-pakistan-plans-resort-in-kartarpur/articleshow/106108747.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T03:16:44+00:00
+
+The Tourism Development Corporation of Punjab (TDCP), Pakistan, plans to build a resort near Gurdwara Darbar Sahib, Kartarpur Sahib, to attract Sikh pilgrims and enhance religious tourism. The five-storeyed Darshan Resort, costing 300 million Pakistani rupees, will include 10 suite rooms, a theatre, and a gym offering a panoramic view of Kartarpur corridor and the gurdwara complex. The groundbreaking ceremony is expected in January, with completion by the end of 2024. Indian pilgrims visiting Kartarpur Sahib are currently not allowed to stay overnight.
+
+## Bigg Boss 17: Vicky Jain learns shayari from Munawar and Ayesha
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-17-vicky-jain-learns-shayari-from-munawar-faruqui-and-ayesha-khan-to-prepare-a-special-surprise-for-wife-ankita-lokhandes-birthday/articleshow/106108178.cms](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-17-vicky-jain-learns-shayari-from-munawar-faruqui-and-ayesha-khan-to-prepare-a-special-surprise-for-wife-ankita-lokhandes-birthday/articleshow/106108178.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T03:13:54+00:00
+
+Ankita Lokhande's birthday celebration in Bigg Boss 17 house. Vicky Jain surprises her with a special shayari at midnight. Munawar and Ayesha assist Vicky. They sing 'Happy Birthday song'. Vicky recites the shayari twice, and credits Ayesha and Munawar. Abhishek and Samarth also share shayaris. Ankita is happy with the surprise. They plan to make halwa. Ankita eagerly waited for the wishes. Vicky gives a romantic gift. Celebration continues. Take a look at what Vicky prepared for Ankita's birthday:
+
+## 'New and exciting': Pant on being part of IPL auction
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-something-new-and-exciting-rishabh-pant-on-being-part-of-the-ipl-auction-process/articleshow/106107576.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-something-new-and-exciting-rishabh-pant-on-being-part-of-the-ipl-auction-process/articleshow/106107576.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T02:57:37+00:00
+
+Rishabh Pant, the captain of Delhi Capitals, is set to return to the cricketing scene after recovering from severe injuries from a car accident. Pant, who made his debut in 2016 and has amassed 2838 runs in 98 matches with an impressive strike rate of 147.97, expressed his eagerness for the IPL 2024 auction in Dubai. He has not been part of the auction process before and is eager to participate in the event. Pant's absence from competitive cricket due to the accident prevented him from participating in the last edition of IPL.
+
+## JN.1 sub-variant in Kerala: Bengal back on Covid alert
+ - [https://timesofindia.indiatimes.com/city/kolkata/jn-1-sub-variant-in-kerala-bengal-back-on-covid-alert-keeps-health-infra-ready/articleshow/106107591.cms](https://timesofindia.indiatimes.com/city/kolkata/jn-1-sub-variant-in-kerala-bengal-back-on-covid-alert-keeps-health-infra-ready/articleshow/106107591.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T02:52:33+00:00
+
+
+
+## B'luru: 26-yr-old flooded with obscene texts, child porn videos
+ - [https://timesofindia.indiatimes.com/city/bengaluru/https/example-com/26-year-old-flooded-with-obscene-texts/articleshow/106107404.cms](https://timesofindia.indiatimes.com/city/bengaluru/https/example-com/26-year-old-flooded-with-obscene-texts/articleshow/106107404.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T02:46:55+00:00
+
+A 26-year-old woman in Bengaluru has been receiving sexually explicit messages, video calls, and child porn videos from an unknown number. Despite her attempts to identify the person, the stranger remains unidentified. The woman has filed a complaint with the police, who are making efforts to trace the miscreant. The harassment has left the woman traumatised, and she continues to receive obscene messages even after filing the complaint.
+
+## Tamil Nadu: Man fights with wife, then smashes 20 cars
+ - [https://timesofindia.indiatimes.com/city/chennai/man-fights-with-wife-then-smashes-20-cars/articleshow/106107054.cms](https://timesofindia.indiatimes.com/city/chennai/man-fights-with-wife-then-smashes-20-cars/articleshow/106107054.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T02:29:55+00:00
+
+
+
+## Telecommunication bill focus on user protection, cybersecurity
+ - [https://timesofindia.indiatimes.com/business/india-business/telecommunication-bill-focus-on-user-protection-cybersecurity/articleshow/106106012.cms](https://timesofindia.indiatimes.com/business/india-business/telecommunication-bill-focus-on-user-protection-cybersecurity/articleshow/106106012.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T00:28:12+00:00
+
+The government is overhauling the Indian Telegraph Act of 1885 and related legislations to protect mobile networks from cyberattacks. The new Telecommunications Bill, 2023, imposes a penalty for unsolicited messaging and promotes satellite-based telephony. Over-the-top (OTT) players like WhatsApp and Facebook Messenger are excluded from the legislation. The bill focuses on licensing, spectrum, right of way, and dispute resolution. It also emphasizes efficient use of spectrum and the identification of users for selling SIM cards.
+
+## Man dragged on bonnet for over 3km in Delhi, driver arrested
+ - [https://timesofindia.indiatimes.com/city/delhi/man-dragged-on-bonnet-for-over-3km-in-delhi-driver-arrested/articleshow/106105972.cms](https://timesofindia.indiatimes.com/city/delhi/man-dragged-on-bonnet-for-over-3km-in-delhi-driver-arrested/articleshow/106105972.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T00:19:44+00:00
+
+A man from Noida, Vicky Kumar, experienced a terrifying incident of road rage when he was dragged on the bonnet of a minibus for over 3 kilometers between Lajpat Nagar and DND Flyway. The incident occurred after two vehicles brushed past each other on the South-Ex flyover. Vicky tried to stop the minibus that hit his canter truck, but the driver, Manoj Kumar, continued to speed, forcing Vicky to climb on top of the bonnet. Fortunately, he escaped unscathed.
+
+## Covid: K'taka makes masks must for 60+, those with comorbidities
+ - [https://timesofindia.indiatimes.com/city/bengaluru/covid-ktaka-makes-masks-must-for-60-those-with-comorbidities/articleshow/106105948.cms](https://timesofindia.indiatimes.com/city/bengaluru/covid-ktaka-makes-masks-must-for-60-those-with-comorbidities/articleshow/106105948.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T00:15:53+00:00
+
+Karnataka government mandates face masks for people above 60 years, those with comorbidities, and individuals with symptoms of fever, cold, and cough. No curbs on movements or gatherings for Sabarimala pilgrims returning from Kerala. Monitoring continues in districts bordering Kerala. Official order on face masks to be issued after meeting with technical advisory committee on Covid. Karnataka reports 58 active Covid-19 cases, 11 hospitalizations, and one Covid-related death. Health department orders medical kits, PPE kits, and increased rapid antigen tests. Mock drills assess preparedness of medical infrastructure.
+
+## HC judgment on maintainability of Gyanvapi temple suit today
+ - [https://timesofindia.indiatimes.com/india/high-court-judgment-on-maintainability-of-gyanvapi-temple-suit-today/articleshow/106105908.cms](https://timesofindia.indiatimes.com/india/high-court-judgment-on-maintainability-of-gyanvapi-temple-suit-today/articleshow/106105908.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T00:08:57+00:00
+
+The Allahabad High Court is set to deliver its judgment on Tuesday regarding the five petitions filed by Anjuman Intezamia Masajid (AIM) and others. These petitions challenge the maintainability of a civil suit currently pending before a Varanasi court. The suit seeks the restoration of a temple at the site where the Gyanvapi mosque stands. Additionally, the petition challenges a direction issued by the Varanasi court on April 8, 2021, which called for a comprehensive survey of the Gyanvapi complex.
+
+## Holy 'stone balls' turn out to be fossilised dino eggs
+ - [https://timesofindia.indiatimes.com/india/holy-stone-balls-turn-out-to-be-fossilised-dino-eggs/articleshow/106105867.cms](https://timesofindia.indiatimes.com/india/holy-stone-balls-turn-out-to-be-fossilised-dino-eggs/articleshow/106105867.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T00:01:24+00:00
+
+Faith can move mountains. In MP's Dhar, it was moving palm-sized "stone balls" till a band of experts determined them to be fossilised dinosaur eggs. Vesta Mandaloi (40) of Padlya village had been worshipping these balls as "Kakar Bhairav" following his forefathers' belief that the "kuldevta (totem)" would protect his farmland and cattle from problems and misfortunes. "Kakar" means land or farm and "Bhairav" denotes lord. Like Mandaloi, many others worshipped similar balls that they found during digging activities in Dhar and adjoining districts.
+
+## Holy 'stone balls' turn out to be fossilised dino eggs
+ - [https://timesofindia.indiatimes.com/city/lucknow/holy-stone-balls-turn-out-to-be-fossilised-dino-eggs/articleshow/106105867.cms](https://timesofindia.indiatimes.com/city/lucknow/holy-stone-balls-turn-out-to-be-fossilised-dino-eggs/articleshow/106105867.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-12-19T00:01:24+00:00
+
+Faith can move mountains. In MP's Dhar, it was moving palm-sized "stone balls" till a band of experts determined them to be fossilised dinosaur eggs. Vesta Mandaloi (40) of Padlya village had been worshipping these balls as "Kakar Bhairav" following his forefathers' belief that the "kuldevta (totem)" would protect his farmland and cattle from problems and misfortunes. "Kakar" means land or farm and "Bhairav" denotes lord. Like Mandaloi, many others worshipped similar balls that they found during digging activities in Dhar and adjoining districts.
+

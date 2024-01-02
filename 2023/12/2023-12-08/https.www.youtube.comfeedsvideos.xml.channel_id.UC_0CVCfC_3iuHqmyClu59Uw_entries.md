@@ -1,0 +1,18 @@
+# Source:ETA PRIME, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw, language:en-US
+
+## 680 Edge First Look, A FAST X86 SBC That Has The Power To Game!
+ - [https://www.youtube.com/watch?v=v1GubPFsAZ0](https://www.youtube.com/watch?v=v1GubPFsAZ0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw
+ - date published: 2023-12-08T15:06:00+00:00
+
+Vip-Urcdkey Black Friday Sale Code for software: ETA
+Windows 10 Pro OEM Key($15): https://biitt.ly/KpEmf
+Windows 11 Pro Key($21): https://biitt.ly/RUZiX
+Windows10 Home Key($14): https://biitt.ly/2tPi1
+Office 2019 pro key($46): https://biitt.ly/o0OQT
+Office 2021 pro key($59): https://biitt.ly/iDMHc
+
+In This video we take look at the all new 680 Edge Ryzen Powered X86 Single board computer theta has the Power To Game! Powered by The AMD Ryzen 6800U and backed by 16Gb LPDDR5 ram at 6400MHz this tiny X86 SBC is turning out to be an awesome little Board! We do and unboxing, Overview and test some PC games Like Forza, Spiderman, Skyrim and Cyberpunk 2077.
+
+Learn More Here:https://www.aliexpress.us/item/363729768053749674.html?spm=a2g0o.productlist.main.95.3d4734a20o99DK&amp;algo_pvid=08bfc6af-dec4-49a4-9fa8-8150b1687f48&amp;algo_exp_id=08bfc6af-dec4-49a4-9fa8-8150b1687f48-47&amp;pdp_npi=4%40dis%21USD%2160.90%2160.9%21%21%21434.39%21%21%40210321c317020032575306180e890d%2112000035010979687%2
+

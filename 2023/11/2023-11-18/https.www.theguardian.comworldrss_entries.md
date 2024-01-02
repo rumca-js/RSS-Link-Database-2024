@@ -1,0 +1,86 @@
+# Source:The Guardian - World, URL:https://www.theguardian.com/world/rss, language:en-US
+
+## Investigators identify ‘person of interest’ in LA freeway arson
+ - [https://www.theguardian.com/us-news/2023/nov/18/los-angeles-freeway-arson-fire-suspect](https://www.theguardian.com/us-news/2023/nov/18/los-angeles-freeway-arson-fire-suspect)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T22:55:35+00:00
+
+<p>California state officials seek public’s help in identifying person shown in two photos posted to social media</p><p>Investigators on Saturday identified a “person of interest” in the Los Angeles arson fire last week that closed a central freeway for days, snarling traffic as repair crews continue to work around the clock to fix it.</p><p>The California Department of Forestry and Fire Protection, known as Cal Fire, and the state fire marshal released two photos in a “crime alert notification” posted to social media and said it was seeking the public’s help to identify the person.</p> <a href="https://www.theguardian.com/us-news/2023/nov/18/los-angeles-freeway-arson-fire-suspect">Continue reading...</a>
+
+## Australia news live: federal government to double road funding; Assange’s father to address Melbourne pro-Palestine rally
+ - [https://www.theguardian.com/australia-news/live/2023/nov/19/pro-palestine-rallies-melbourne-sydney-brisbane-adelaide-queensland-bushfires](https://www.theguardian.com/australia-news/live/2023/nov/19/pro-palestine-rallies-melbourne-sydney-brisbane-adelaide-queensland-bushfires)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T21:57:43+00:00
+
+<p>Record crowds expected at pro-Palestine rally in Melbourne, with protests also planned in Sydney, Adelaide and Brisbane. Follow today’s news updates live</p><ul><li>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">morning and afternoon news emails</a>, <a href="https://app.adjust.com/w4u7jx3">free app</a> or <a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl">daily news podcast</a></li></ul><p>The federal government will double funding for the roads to recovery program aimed at improving road safety by allocating more money for local councils.</p><p>Several projects will be merged to streamline investment programs, and funding for federally recognised black spots will rise from $110 million to $150 million per year.</p><p>Big roads and metropolitan highways might get a lot of the attention, but we spend most of our driving lives on local roads around where we live and where we work.</p> <a href="https://www.theguardian.co
+
+## Israeli airstrikes kill 80 in Palestinian refugee camp
+ - [https://www.theguardian.com/world/2023/nov/18/israeli-airstrikes-kill-80-in-palestinian-refugee-camp](https://www.theguardian.com/world/2023/nov/18/israeli-airstrikes-kill-80-in-palestinian-refugee-camp)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T19:41:44+00:00
+
+<p>Fears mount for Gaza refugees as nowhere is deemed safe for civilians in effort to destroy Hamas</p><p><a href="https://www.theguardian.com/world/live/2023/nov/18/israel-hamas-war-live-israel-issues-fresh-warning-to-leave-khan-younis-report-of-26-killed">Israel-Hamas war – live update</a></p><p>Airstrikes on crowded UN shelters in north Gaza’s Jabalia refugee camp killed more than 80 people on Saturday, as Israeli plans to <a href="https://www.theguardian.com/world/2023/nov/18/israel-says-it-will-increase-military-offensive-in-southern-gaza">expand operations into south Gaza</a> deepened fears for hundreds of thousands of civilians who have sought refuge there.</p><p>Underlining the reminder that there is nowhere safe for Gaza’s civilians, an airstrike outside the southern town of Khan Younis killed at least 26 people in the early hours of Saturday morning.</p> <a href="https://www.theguardian.com/world/2023/nov/18/israeli-airstrikes-kill-80-in-palestinian-refugee-camp">Continue r
+
+## ‘Straight out of Utopia’: healthcare workers denounce $558m expansion of Albury base hospital
+ - [https://www.theguardian.com/australia-news/2023/nov/19/straight-out-of-utopia-healthcare-workers-denounce-558m-expansion-of-albury-base-hospital](https://www.theguardian.com/australia-news/2023/nov/19/straight-out-of-utopia-healthcare-workers-denounce-558m-expansion-of-albury-base-hospital)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T19:00:29+00:00
+
+<p>NSW and Victoria government documents show support for push by doctors to combine the Albury and Wodonga hospitals into one new facility –&nbsp;but that’s not what was announced</p><ul><li><a href="https://www.theguardian.com/australia-news/2021/sep/14/sign-up-for-rural-network-guardian-australia-email-newsletter-about-regional-affairs?CMP=cvau_sfl">Sign up for the Rural Network email newsletter</a></li><li><a href="https://www.facebook.com/groups/guardianaustraliaruralnetwork">Join the Rural Network group on Facebook to be part of the community</a></li></ul><p>A $558m redevelopment of Albury Base hospital <a href="https://www.health.nsw.gov.au/news/Pages/20231016_00.aspx">jointly proposed</a> by the New South Wales and Victorian state governments has outraged healthcare workers and community groups, who claim both governments misled them during a years-long consultation.</p><p>“If I was going to design a system to hide the dismal plans they’ve provided us, I’d design it exactly t
+
+## Revealed: obesity jab maker discussed targeting benefit claimants with UK government
+ - [https://www.theguardian.com/business/2023/nov/18/obesity-jab-maker-data-to-profile-benefits-claimants](https://www.theguardian.com/business/2023/nov/18/obesity-jab-maker-data-to-profile-benefits-claimants)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T15:15:54+00:00
+
+<p>Drug firm Novo Nordisk proposed singling out those most likely to return to work with its weight-loss injection</p><p>Obesity jab maker Novo Nordisk suggested to senior government officials that they could “profile” benefit claimants so that those most likely to return to work could be targeted with its weight-loss injections.</p><p>Internal documents obtained by the <em>Observer</em> reveal that Pinder Sahota, corporate vice-president of Novo Nordisk UK, told the then health secretary Steve Barclay, England’s chief medical officer and Treasury officials that “data from the Department for Work and Pensions [DWP] could help profile those who are most likely to return to the labour market”.</p> <a href="https://www.theguardian.com/business/2023/nov/18/obesity-jab-maker-data-to-profile-benefits-claimants">Continue reading...</a>
+
+## Dozens of Wales fans arrested in Armenia before Euro 2024 qualifier
+ - [https://www.theguardian.com/football/2023/nov/18/dozens-of-wales-fans-arrested-in-armenia-before-euro-2024-qualifier](https://www.theguardian.com/football/2023/nov/18/dozens-of-wales-fans-arrested-in-armenia-before-euro-2024-qualifier)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T15:07:07+00:00
+
+<p>Foreign Office says it is supporting families after 32 Wales football fans arrested in Yerevan</p><p>More than 30 Wales football fans have been arrested in Armenia before Saturday’s European Championship qualifier in Yerevan.</p><p>The Football Association of Wales (FAW) confirmed that 32 supporters had been arrested in the Armenian capital and that the Foreign Office was involved.</p> <a href="https://www.theguardian.com/football/2023/nov/18/dozens-of-wales-fans-arrested-in-armenia-before-euro-2024-qualifier">Continue reading...</a>
+
+## Killer of pro cyclist Anna Moriah Wilson sentenced to 90 years
+ - [https://www.theguardian.com/us-news/2023/nov/18/killer-of-pro-cyclist-anna-moriah-wilson-sentenced-to-90-years](https://www.theguardian.com/us-news/2023/nov/18/killer-of-pro-cyclist-anna-moriah-wilson-sentenced-to-90-years)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T14:20:22+00:00
+
+<p>Prosecutors said that Kaitlin Armstrong gunned down cyclist in jealous rage because Wilson dated her boyfriend months earlier</p><p>A Texas jury on Friday sentenced a woman to 90 years in prison for the May 2022 shooting death of rising professional cyclist Anna Moriah “Mo” Wilson in a case that sent investigators on a 43-day <a href="https://www.theguardian.com/us-news/2022/jun/30/suspect-fatal-shooting-elite-cyclist-arrested-costa-rica">international search</a> for the killer.</p><p>Jurors deliberated for just over three hours before delivering the sentence for <a href="https://www.theguardian.com/us-news/2022/may/24/texas-police-woman-death-cyclist-kaitlin-armstrong-anna-wilson">Kaitlin Armstrong</a>, who investigators say tracked Wilson to the apartment where she was staying and shot her three times. They took only two hours on Thursday to convict her of murder.</p> <a href="https://www.theguardian.com/us-news/2023/nov/18/killer-of-pro-cyclist-anna-moriah-wilson-sentenced-to-9
+
+## Buffalo shooting survivor’s mother elected to city council in landslide win
+ - [https://www.theguardian.com/us-news/2023/nov/18/buffalo-shooting-zeneta-everhart-win-election-city-council](https://www.theguardian.com/us-news/2023/nov/18/buffalo-shooting-zeneta-everhart-win-election-city-council)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T12:00:21+00:00
+
+<p>Democrat Zeneta Everhart, mother of Zaire Goodman, who was wounded in the 2022 mass shooting, won 90.8% of the vote </p><p>The single mother of a victim of the 2022 Tops Friendly Market shooting was elected to Buffalo common council this month in a major election day blowout. Democrat Zeneta Everhart won 90.8% of the vote in her home community of Masten, a predominantly Black, low-income district within Buffalo, New York.</p><p>After her swearing in on 1 January 2024, she will serve as one of nine council-members on the Buffalo common council representing the nine municipal districts of the city.</p> <a href="https://www.theguardian.com/us-news/2023/nov/18/buffalo-shooting-zeneta-everhart-win-election-city-council">Continue reading...</a>
+
+## Fight to stop ‘Cop City’ over water pollution fears has day in court
+ - [https://www.theguardian.com/us-news/2023/nov/18/cop-city-atlanta-environmental-lawsuit-water-pollution](https://www.theguardian.com/us-news/2023/nov/18/cop-city-atlanta-environmental-lawsuit-water-pollution)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T12:00:20+00:00
+
+<p>Opponents tell judge that sediment runoff from police campus violates Clean Water Act and thus project should be halted</p><p>A federal judge has to decide whether sediment runoff from the controversial “Cop City” police and fire department training center near Atlanta violates the Clean Water Act and is cause for stopping the project temporarily, after hearing both sides of the argument this week.</p><p>The judge may also dismiss the underlying environmental lawsuit, as defendants have asked the court.</p> <a href="https://www.theguardian.com/us-news/2023/nov/18/cop-city-atlanta-environmental-lawsuit-water-pollution">Continue reading...</a>
+
+## At least 33% of women suffer sexual offences while commuting, BTP finds
+ - [https://www.theguardian.com/world/2023/nov/18/at-least-33-of-women-suffer-sexual-offences-while-commuting-btp-finds](https://www.theguardian.com/world/2023/nov/18/at-least-33-of-women-suffer-sexual-offences-while-commuting-btp-finds)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T07:00:16+00:00
+
+<p>British Transport Police survey respondents said most incidents took place during evening rush hour</p><p>Over a third of women have been subjected to sexual harassment or sexual offences while commuting by train or tube, according to a survey commissioned by British Transport Police (BTP).</p><p>It found that 51% of those who have been victims of sexual offending said that other passengers tried to help them, however, only 18% of people who witnessed an incident reported it to police.</p> <a href="https://www.theguardian.com/world/2023/nov/18/at-least-33-of-women-suffer-sexual-offences-while-commuting-btp-finds">Continue reading...</a>
+
+## ‘Draconian’ conditions come into effect for 93 foreigners released after being illegally detained by Australia
+ - [https://www.theguardian.com/australia-news/2023/nov/18/draconian-conditions-come-into-effect-for-93-foreigners-released-after-being-illegally-detained-by-australia](https://www.theguardian.com/australia-news/2023/nov/18/draconian-conditions-come-into-effect-for-93-foreigners-released-after-being-illegally-detained-by-australia)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T03:29:53+00:00
+
+<p>Labor says ‘significant number’ of released detainees were convicted of serious criminal offences as experts express concern over rushed bill</p><ul><li>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">morning and afternoon news emails</a>, <a href="https://app.adjust.com/w4u7jx3">free app</a> or <a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl">daily news podcast</a></li></ul><p>All 93 foreigners identified by Australia’s home affairs department as being affected by a recent high court judgment that found they were being illegally detained have now been released.</p><p>The immigration minister, Andrew Giles, confirmed on Saturday the 93 people had been released and that all of them would be forced to comply with strict visa restrictions, including wearing electronic monitoring devices.</p><p><strong><a href="https://www.theguardian.com/email-newsletters?CMP=copyembed">Sign up for Guardian Australia’s free morning and a
+
+## Schoolies tragedy: South Australian police commissioner’s teenage son on life support after being hit by car
+ - [https://www.theguardian.com/australia-news/2023/nov/18/so-unjust-teenage-son-of-south-australian-police-commissioner-on-life-support-after-being-run-down-by-car](https://www.theguardian.com/australia-news/2023/nov/18/so-unjust-teenage-son-of-south-australian-police-commissioner-on-life-support-after-being-run-down-by-car)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-11-18T02:58:13+00:00
+
+<p>Grant Stevens’ son Charlie suffers irreversible brain injury, with police alleging car’s 18-year-old driver failed to stop</p><ul><li>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">morning and afternoon news emails</a>, <a href="https://app.adjust.com/w4u7jx3">free app</a> or <a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl">daily news podcast</a></li></ul><p>The son of South Australia’s police commissioner is on life support after being struck by a car while on schoolies celebrations, in an alleged hit-and-run incident.</p><p>Charlie Stevens, 18, sustained an irreversible brain injury after being run down on Friday night in Goolwa, about 90km south-east of Adelaide, SA’s police deputy commissioner, Linda Williams, told reporters.</p><p><strong><a href="https://www.theguardian.com/email-newsletters?CMP=copyembed">Sign up for Guardian Australia’s free morning and afternoon email newsletters for your daily news roundup<
+

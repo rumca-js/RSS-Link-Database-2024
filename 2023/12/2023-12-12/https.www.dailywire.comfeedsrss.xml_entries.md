@@ -1,0 +1,261 @@
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
+
+## Iran Threatens ‘Big Explosion’ In Middle East If Israel Continues To Kill Terrorists
+ - [https://www.dailywire.com/news/iran-threatens-big-explosion-in-middle-east-if-israel-continues-to-kill-terrorists](https://www.dailywire.com/news/iran-threatens-big-explosion-in-middle-east-if-israel-continues-to-kill-terrorists)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T18:13:42+00:00
+
+The Islamic Republic of Iran threatened that a &#8220;big explosion&#8221; could unfold in the Middle East if Israel continues to hunt down the Hamas terrorists responsible for murdering 1,200 Israelis on October 7. &#8220;At least every week, we receive a message from the U.S. telling us that U.S. bases in Syria and Iraq are targeted ...
+
+## ‘Big Bang Theory’ Actress Kate Micucci Announces She Has Lung Cancer: ‘Never Smoked a Cigarette in My Life’
+ - [https://www.dailywire.com/news/big-bang-theory-actress-kate-micucci-announces-she-has-lung-cancer-never-smoked-a-cigarette-in-my-life](https://www.dailywire.com/news/big-bang-theory-actress-kate-micucci-announces-she-has-lung-cancer-never-smoked-a-cigarette-in-my-life)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T17:58:22+00:00
+
+“Big Bang Theory” actress Kate Micucci announced she has lung cancer despite never having been a smoker. The 43-year-old comedic actress made the announcement via social media over the weekend, using humor to share her health update with fans.  “Hey everybody, this is not a TikTok, it&#8217;s a ‘Sick Tok,’” Micucci said in a TikTok ...
+
+## Illinois Agrees To Not Enforce Law Targeting Pro-Life Pregnancy Centers
+ - [https://www.dailywire.com/news/illinois-agrees-to-not-enforce-law-targeting-pro-life-pregnancy-centers](https://www.dailywire.com/news/illinois-agrees-to-not-enforce-law-targeting-pro-life-pregnancy-centers)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T17:40:43+00:00
+
+Illinois has agreed to not enforce a law targeting crisis pregnancy centers in the state after the measure was blocked by a federal judge. The law (SB 1909), which was signed by Governor J.B. Pritzker (D-IL) earlier this year, would have allowed the state’s attorney general to investigate alleged consumer fraud against crisis pregnancy centers ...
+
+## Top New York Court Orders New House Map In Blow To Republicans
+ - [https://www.dailywire.com/news/top-new-york-court-orders-new-house-map-in-blow-to-republicans](https://www.dailywire.com/news/top-new-york-court-orders-new-house-map-in-blow-to-republicans)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T17:39:50+00:00
+
+The top court in New York ordered on Tuesday the creation of a new congressional map, a move that bodes ill for Republicans who made gains in the blue state after the last redistricting cycle. By a 4-3 vote, the New York Court of Appeals ruled the Independent Redistricting Commission is allowed to redraw the ...
+
+## Trump’s Leading Biden — And The Media Are Panicking
+ - [https://www.dailywire.com/news/trumps-leading-biden-and-the-media-are-panicking](https://www.dailywire.com/news/trumps-leading-biden-and-the-media-are-panicking)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T17:28:46+00:00
+
+According to the legacy media, disaster is about to befall America. Donald Trump is the overwhelming favorite to win the Republican presidential nomination. The latest Des Moines Register/NBC News poll shows Trump at 51% in Iowa, up 8% since October, with Ron DeSantis in a distant second at 19% and Nikki Haley at 16%. According ...
+
+## Cruz Rips Durbin For Protecting Those Who Flew On Jeffrey Epstein’s Plane By Not Subpoenaing Flight Logs
+ - [https://www.dailywire.com/news/cruz-rips-durbin-for-protecting-those-who-flew-on-jeffrey-epsteins-plane-by-not-subpoenaing-flight-logs](https://www.dailywire.com/news/cruz-rips-durbin-for-protecting-those-who-flew-on-jeffrey-epsteins-plane-by-not-subpoenaing-flight-logs)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T17:18:27+00:00
+
+Sen. Ted Cruz (R-TX) ripped Senate Judiciary Committee Chairman Dick Durbin (D-IL) for refusing to subpoena convicted child sex predator Jeffrey Epstein&#8217;s flight logs. Cruz made the remarks during an episode of his &#8220;Verdict&#8221; podcast this week with co-host Ben Ferguson, which comes after Durbin falsely claimed that no one wanted to subpoena Epstein&#8217;s flight ...
+
+## Hamas Gunmen Target Palestinian Civilians — From The Top Of Aid Trucks
+ - [https://www.dailywire.com/news/hamas-gunmen-target-palestinian-civilians-from-the-top-of-aid-trucks](https://www.dailywire.com/news/hamas-gunmen-target-palestinian-civilians-from-the-top-of-aid-trucks)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T17:10:14+00:00
+
+Hamas terrorists could be seen in recent videos riding on top of the humanitarian aid trucks as they were driving into Gaza, fully armed and pointing their weapons at civilians in the street below. Other reports in recent weeks have raised the widespread concern that those aid trucks — which are supposed to be delivering ...
+
+## Model Known As ‘Most Beautiful Man’ Leaves Career Behind For Higher Power
+ - [https://www.dailywire.com/news/model-known-as-most-beautiful-man-leaves-career-behind-for-higher-power](https://www.dailywire.com/news/model-known-as-most-beautiful-man-leaves-career-behind-for-higher-power)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T16:54:36+00:00
+
+A model who once earned the title of Italy&#8217;s &#8220;most beautiful man&#8221; said that he&#8217;s leaving the modeling world behind because he&#8217;s been called to a higher power: God. In a video posted on Instagram, Edoardo Santini, told his thousands of followers that &#8220;at 21 years of age, I find myself on the path toward ...
+
+## Texas Woman Denied Abortion Of Baby With Fetal Anomaly Leaves State To Obtain One
+ - [https://www.dailywire.com/news/texas-woman-denied-abortion-of-baby-with-fetal-anomaly-leaves-state-to-obtain-one](https://www.dailywire.com/news/texas-woman-denied-abortion-of-baby-with-fetal-anomaly-leaves-state-to-obtain-one)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T16:50:48+00:00
+
+A woman who was denied an abortion in Texas for her unborn baby with a fetal anomaly has left the state to obtain an abortion elsewhere, her attorneys said Monday. The Texas Supreme Court on Monday ruled against Kate Cox, 31, saying that a lower court was wrong to rule that she was entitled to ...
+
+## Sports Illustrated Publisher Fires CEO After Outlet Allegedly Published AI-Generated Stories With Fake Authors
+ - [https://www.dailywire.com/news/sports-illustrated-publisher-fires-ceo-after-outlet-allegedly-published-ai-generated-stories-with-fake-authors](https://www.dailywire.com/news/sports-illustrated-publisher-fires-ceo-after-outlet-allegedly-published-ai-generated-stories-with-fake-authors)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T16:30:57+00:00
+
+Digital publisher The Arena Group, which owns and operates Sports Illustrated and other major publications, announced this week that it had fired Sports Illustrated CEO Ross Levinsohn effective immediately. &#8220;Today, the board of directors of The Arena Group Holdings, Inc. (NYSE American: AREN) met and took actions to improve the operational efficiency and revenue of ...
+
+## Gov Unions Spent Over Half A Billion Dollars Backing Democrats, The Left During Midterm Elections: Report
+ - [https://www.dailywire.com/news/gov-unions-spent-over-half-a-billion-dollars-backing-democrats-the-left-during-midterm-elections-report](https://www.dailywire.com/news/gov-unions-spent-over-half-a-billion-dollars-backing-democrats-the-left-during-midterm-elections-report)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T16:21:44+00:00
+
+The four largest public sector unions spent nearly $700 million backing Democrats and leftist causes during last year&#8217;s elections, with nearly 60% of the funds coming from union dues, according to an analysis of spending by the Commonwealth Foundation. Of the $708.8 million spent on politics during the 2022 midterm elections by the National Education ...
+
+## TikTok Debate Rages Over Showers: There’s The ‘Right’ Way, And The ‘Unhinged’ Way
+ - [https://www.dailywire.com/news/tiktok-debate-rages-over-showers-theres-the-right-way-and-the-unhinged-way](https://www.dailywire.com/news/tiktok-debate-rages-over-showers-theres-the-right-way-and-the-unhinged-way)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T16:13:41+00:00
+
+A TikTok debate is raging over showering after a creator on the site said she discovered that there are only two ways that people shower — and people immediately began weighing in on whether there&#8217;s a &#8220;right&#8221; way or an &#8220;unhinged&#8221; way. In a video posted by Alexandra Lee that&#8217;s since gone viral, the creator ...
+
+## ‘Queers For Palestine’ Protesters Shut Down Manhattan Bridge
+ - [https://www.dailywire.com/news/queers-for-palestine-protesters-shut-down-manhattan-bridge](https://www.dailywire.com/news/queers-for-palestine-protesters-shut-down-manhattan-bridge)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T16:08:51+00:00
+
+Hundreds of people participating in a “Queers for Palestine” protest blocked the Manhattan Bridge in New York City on Monday evening. The pro-Palestinian protesters marched from the Barclays Center in Brooklyn across the bridge into Manhattan calling for a “Free Palestine.” Pro-Palestinian demonstrations have become more widespread since the terror group Hamas killed roughly 1,200 ...
+
+## Speaker Johnson Holds Firm After Meeting Zelensky: No Ukraine Aid Without Border Reforms
+ - [https://www.dailywire.com/news/speaker-johnson-holds-firm-after-meeting-zelensky-no-ukraine-aid-without-border-reforms](https://www.dailywire.com/news/speaker-johnson-holds-firm-after-meeting-zelensky-no-ukraine-aid-without-border-reforms)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T16:08:01+00:00
+
+House Speaker Mike Johnson (R-LA) refused to budge on his demand for a border security overhaul in exchange for more aid to Ukraine after meeting with Ukrainian President Volodymyr Zelensky on Capitol Hill on Tuesday. Johnson told reporters that &#8220;transformative&#8221; reforms to tackle the border crisis, in addition to more clarity and oversight on money ...
+
+## Biden’s Latest Tall Tale Involves A Brain Aneurysm, A Helicopter, And Ronald Reagan
+ - [https://www.dailywire.com/news/bidens-latest-tall-tale-involves-a-brain-aneurysm-a-helicopter-and-ronald-reagan](https://www.dailywire.com/news/bidens-latest-tall-tale-involves-a-brain-aneurysm-a-helicopter-and-ronald-reagan)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T15:58:04+00:00
+
+President Joe Biden appears to have outdone himself with the latest in a long series of tall tales — that range from minor exaggerations to partial fabrications — telling a crowd that the late President Ronald Reagan had once made him an extraordinary offer in an effort to save his life. Biden was referring to ...
+
+## Oberlin College Suspends ‘Professor Of Peace’ Who Called For Israel’s Elimination After Sexual Harassment Allegations
+ - [https://www.dailywire.com/news/oberlin-college-suspends-professor-of-peace-who-called-for-israels-elimination-after-sexual-harassment-allegations](https://www.dailywire.com/news/oberlin-college-suspends-professor-of-peace-who-called-for-israels-elimination-after-sexual-harassment-allegations)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T15:40:22+00:00
+
+Oberlin College has suspended a long-controversial professor who called for the elimination of Israel after sexual harassment allegations against him came to light. The private Ohio liberal arts college just outside of Cleveland has put tenured professor Mohammad Jafar Mahallati on indefinite administrative leave and scrubbed him from the school&#8217;s website. &#8220;Professor Mahallati was placed ...
+
+## The Growing Movement To Ban ‘Fat Phobia’ Nationwide
+ - [https://www.dailywire.com/news/the-growing-movement-to-ban-fat-phobia-nationwide](https://www.dailywire.com/news/the-growing-movement-to-ban-fat-phobia-nationwide)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T15:29:23+00:00
+
+Without a lot of fanfare, a movement has been underway in this country for some time to outlaw the idea of &#8220;fat phobia,&#8221; which literally means &#8220;fear of fat people.&#8221;  Of course, like most of the other new &#8220;phobias&#8221; that have been discovered in the past fifteen minutes or so, &#8220;fat phobia&#8221; is a misnomer. ...
+
+## Barack Obama Hit Over Character In Netflix Film He Executive Produced Warning Against Trusting ‘White People’
+ - [https://www.dailywire.com/news/barack-obama-hit-over-character-in-netflix-film-he-executive-produced-warning-against-trusting-white-people](https://www.dailywire.com/news/barack-obama-hit-over-character-in-netflix-film-he-executive-produced-warning-against-trusting-white-people)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T15:28:21+00:00
+
+Users on X hit former President Barack Obama over a viral clip from an apocalyptic Netflix film, which he executive produced alongside Michelle Obama, where one of the main characters warns about trusting others, &#8220;especially white people.&#8221; In the movie &#8220;Leave The World Behind&#8221; — based on Rumaan Alam&#8217;s book — two families are forced to ...
+
+## Stefanik’s Office Blisters SNL For Panned Sketch Mocking Rep. In Anti-Semitism Hearing
+ - [https://www.dailywire.com/news/stefaniks-office-blisters-snl-for-panned-sketch-mocking-rep-in-anti-semitism-hearing](https://www.dailywire.com/news/stefaniks-office-blisters-snl-for-panned-sketch-mocking-rep-in-anti-semitism-hearing)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T15:24:47+00:00
+
+Rep. Elise Stefanik&#8217;s (R-NY) office released a statement this week ripping into the NBC sketch comedy show &#8220;Saturday Night Live&#8221; for its widely-panned cold open on the recent congressional hearing on anti-Semitism on college and university campuses across the country. Notably, Saturday&#8217;s cold open bizarrely attacked Stefanik for asking about students&#8217; calls for Jewish genocide ...
+
+## Ford To Slash Planned Production Of Its All-Electric F-150 In Half Citing ‘Changing Market Demand’
+ - [https://www.dailywire.com/news/ford-to-slash-planned-production-of-its-all-electric-f-150-in-half-citing-changing-market-demand](https://www.dailywire.com/news/ford-to-slash-planned-production-of-its-all-electric-f-150-in-half-citing-changing-market-demand)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T15:16:03+00:00
+
+Less than a year after Ford announced it would increase production of the all-electric F-150 Lightning, the motor company has reportedly decided to cut that projected boost in half beginning in 2024.  Earlier this year, Ford planned to produce around 3,200 F-150 Lightinings per week at its Rouge Electric Vehicle Center in Dearborn, Michigan, which ...
+
+## One House Republican Is ‘Struggling’ With Biden Impeachment Inquiry Vote
+ - [https://www.dailywire.com/news/one-house-republican-is-struggling-with-biden-impeachment-inquiry-vote](https://www.dailywire.com/news/one-house-republican-is-struggling-with-biden-impeachment-inquiry-vote)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T14:35:03+00:00
+
+With the GOP-led House expected to vote on formalizing the corruption-focused impeachment inquiry against President Joe Biden this week, one Republican member said on Monday he is &#8220;struggling&#8221; with how to proceed. Rep. Ken Buck (R-CO), who has criticized the probe in the past and could break with the vast majority of his party, explained ...
+
+## Massachusetts Teachers Union Says U.S. Is Complicit In ‘Genocidal Assault’ In Gaza
+ - [https://www.dailywire.com/news/massachusetts-teachers-union-says-u-s-is-complicit-in-genocidal-assault-in-gaza](https://www.dailywire.com/news/massachusetts-teachers-union-says-u-s-is-complicit-in-genocidal-assault-in-gaza)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T14:34:54+00:00
+
+The Massachusetts Teachers Association board of directors issued a statement on Saturday that accuses the United States of being complicit in genocide. The board of directors for the union, which represents 117,000 teachers, faculty, and other professional staff members at Massachusetts public schools and universities, agreed on Saturday to a statement that not only calls ...
+
+## ‘Bulls***!’: Piers Morgan Grills Doctor Who Can’t Stop Defending Hamas
+ - [https://www.dailywire.com/news/bulls-piers-morgan-grills-doctor-who-cant-stop-defending-hamas](https://www.dailywire.com/news/bulls-piers-morgan-grills-doctor-who-cant-stop-defending-hamas)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T14:15:24+00:00
+
+Television host Piers Morgan called &#8220;bulls***&#8221; on his guest — a doctor in Britain&#8217;s National Health Service  — for referring to the October 7th massacre as &#8220;an act of resistance&#8221; and claiming that Hamas was not a terrorist organization but a group of &#8220;freedom fighters.&#8221; Morgan posted a clip from the interview on his show, ...
+
+## Taylor Lorenz Says NY Times Only Allows ‘Right-Wing Opinions’
+ - [https://www.dailywire.com/news/taylor-lorenz-says-ny-times-only-allows-right-wing-opinions](https://www.dailywire.com/news/taylor-lorenz-says-ny-times-only-allows-right-wing-opinions)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T14:01:23+00:00
+
+A former New York Times journalist claimed Monday that the newspaper only allows its writers to express &#8220;right-wing opinions,&#8221; not Left-wing views, prompting raised eyebrows. Taylor Lorenz, a tech reporter who now writes for The Washington Post, made the claim in a post on Instagram&#8217;s Threads. &#8220;Anyone who&#8217;s worked as a journalist at the NYT ...
+
+## He Was Accused Of Sexual Assault But Said He Was The Victim. A Jury Just Awarded Him $15 Million.
+ - [https://www.dailywire.com/news/he-was-accused-of-sexual-assault-but-said-he-was-the-victim-a-jury-just-awarded-him-15-million](https://www.dailywire.com/news/he-was-accused-of-sexual-assault-but-said-he-was-the-victim-a-jury-just-awarded-him-15-million)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T13:45:52+00:00
+
+A federal jury has awarded a former associate professor $15 million after finding him the victim of a gender-biased investigation by his former university. John Abraham, a former Rothman Orthopedic Institute surgeon and former associate professor at Thomas Jefferson University in Philadelphia, said that a second-year resident got him too drunk to consent and forced ...
+
+## Ariana Grande’s ‘Naughty Version’ Of ‘Santa Tell Me’ Disappoints Fans
+ - [https://www.dailywire.com/news/ariana-grandes-naughty-version-of-santa-tell-me-disappoints-fans](https://www.dailywire.com/news/ariana-grandes-naughty-version-of-santa-tell-me-disappoints-fans)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T13:38:44+00:00
+
+Fans were worked up for a new version of an Ariana Grande song that was promoted by an X account, but that excitement turned to disappointment for some when they discovered only two lines had changed. The post that caused a commotion said the &#8220;naughty version&#8221; of  &#8220;Santa Tell Me” would be added to her “Christmas ...
+
+## The Careaga Family Massacre: What You Need To Know As Trial Continues
+ - [https://www.dailywire.com/news/the-careaga-family-massacre-what-you-need-to-know-as-trial-continues](https://www.dailywire.com/news/the-careaga-family-massacre-what-you-need-to-know-as-trial-continues)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T13:20:09+00:00
+
+On January 27, 2017, the tiny town of Seabeck, Washington, was rocked by the murders of Christale Careaga, her son Johnathon Higgins from a previous relationship, and her stepson Hunter Schaap. Two days later, her husband, Johnny Careaga, was found dead in his burnt-out Ford F-150 pickup truck. On the night of the murders, the ...
+
+## ‘Did Not Have The Cojones’: Black Conservative Scholar Allegedly Plagiarized By Harvard President Blasts University For Keeping Her
+ - [https://www.dailywire.com/news/did-not-have-the-cojones-black-conservative-scholar-allegedly-plagiarized-by-harvard-president-blasts-university-for-keeping-her](https://www.dailywire.com/news/did-not-have-the-cojones-black-conservative-scholar-allegedly-plagiarized-by-harvard-president-blasts-university-for-keeping-her)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T13:19:00+00:00
+
+Award-winning conservative political scientist and author Dr. Carol Swain, who was allegedly plagiarized by Harvard president Claudine Gay in her Ph.D. dissertation, blasted Harvard University for not forcing Gay to resign. Swain authored the book “Black Faces, Black Interests: The Representation of African Americans in Congress,” which won the LBJ Foundation’s D.B. Hardeman Prize for ...
+
+## House Freedom Caucus Picks Bob Good As Next Chairman
+ - [https://www.dailywire.com/news/house-freedom-caucus-picks-bob-good-as-next-chairman](https://www.dailywire.com/news/house-freedom-caucus-picks-bob-good-as-next-chairman)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T12:35:14+00:00
+
+The conservative House Freedom Caucus picked Rep. Bob Good (R-VA) to be its next chairman, the group announced on Tuesday. Good was elected on Monday night to lead the caucus, a group of a few dozen members known for clashing with GOP leadership on key issues. He is slated to begin his term in January ...
+
+## Harvard Cancels Event Featuring Democratic Congressman After He Slams Claudine Gay Over House Testimony
+ - [https://www.dailywire.com/news/harvard-cancels-event-featuring-democratic-congressman-after-he-slams-claudine-gay-over-house-testimony](https://www.dailywire.com/news/harvard-cancels-event-featuring-democratic-congressman-after-he-slams-claudine-gay-over-house-testimony)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T11:58:53+00:00
+
+After a Massachusetts Democrat congressman — who is also a Harvard University alumnus — slammed Harvard President Claudine Gay for claiming she supported free speech to bolster her inaction against calls for the genocide of Jews, Harvard canceled an event at which the lawmaker was to speak. On December 8, Harvard’s conservative John Adams Society ...
+
+## He Spent 19 Years In Prison For A Murder He Didn’t Commit. He Was Just Given His Freedom.
+ - [https://www.dailywire.com/news/he-spent-19-years-in-prison-for-a-murder-he-didnt-commit-he-was-just-given-his-freedom](https://www.dailywire.com/news/he-spent-19-years-in-prison-for-a-murder-he-didnt-commit-he-was-just-given-his-freedom)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T11:25:50+00:00
+
+A Minneapolis man who maintained his innocence for 19 years has been freed from prison following a judge’s ruling that his original trial was unfair. Marvin Haynes, 35, was released from prison on Monday after serving 19 years in prison for the murder of 55-year-old Randy Sherer back in 2004, the Associated Press reported. His ...
+
+## Why Establishment Clause Jurisprudence Is Moving From Sour To Sweet
+ - [https://www.dailywire.com/news/why-establishment-clause-jurisprudence-is-moving-from-sour-to-sweet](https://www.dailywire.com/news/why-establishment-clause-jurisprudence-is-moving-from-sour-to-sweet)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T10:54:19+00:00
+
+A casual observer could be forgiven for thinking that times have never been worse for religious liberty in America. Over the last few years, headlines have blared alarmist rhetoric such as “Religious Liberty Under Threat, at Home and Abroad” or “Freedom of religion is as threatened today as it was in 1791.” Anyone who has ...
+
+## Taylor Swift Donates $1 Million To Victims Of Deadly Tennessee Tornadoes
+ - [https://www.dailywire.com/news/taylor-swift-donates-1-million-to-victims-of-deadly-tennessee-tornadoes](https://www.dailywire.com/news/taylor-swift-donates-1-million-to-victims-of-deadly-tennessee-tornadoes)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T10:34:53+00:00
+
+Pop superstar Taylor Swift donated $1 million to the Tennessee Emergency Response Fund at the Community Foundation of Middle Tennessee. Relief organization CEO Hal Cato confirmed Swift’s financial contribution to the fund, per The Tennessean. Donations will provide victims with financial assistance, food, temporary housing, debris clean-up, and animal sheltering, plus other needs. Destructive storms ...
+
+## Harvard’s Highest Governing Body Unanimously Reaffirms Support For President After Troubling Congressional Testimony, Plagiarism Allegations
+ - [https://www.dailywire.com/news/harvards-highest-governing-body-unanimously-reaffirms-support-for-president-after-troubling-congressional-testimony-plagiarism-allegations](https://www.dailywire.com/news/harvards-highest-governing-body-unanimously-reaffirms-support-for-president-after-troubling-congressional-testimony-plagiarism-allegations)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T10:32:52+00:00
+
+Harvard University’s highest governing body is standing by its president, Claudine Gay, amid backlash to her troubling testimony before Congress on anti-Semitism and newly revealed plagiarism allegations.  The Harvard Corporation, a 12-member group, is one of the university&#8217;s two governing bodies, along with the Board of Overseers, and is regarded as the more powerful body ...
+
+## Controversy Erupts When Cop Leaving Job Wants To Keep K9, Police Chief Refuses
+ - [https://www.dailywire.com/news/controversy-erupts-when-cop-leaving-job-wants-to-keep-k9-police-chief-refuses](https://www.dailywire.com/news/controversy-erupts-when-cop-leaving-job-wants-to-keep-k9-police-chief-refuses)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T10:25:03+00:00
+
+Controversy has broken out in a suburb near Cleveland, Ohio, between a police officer and the police chief after the officer decided to take another job and the police chief said he could not take his police K9 with him. Shaker Heights police officer Chad Hagan, who has worked with the six-year-old German shepherd, named ...
+
+## Leftist San Francisco Supervisor Admits City Has A Homeless Problem, Blames Capitalism
+ - [https://www.dailywire.com/news/leftist-san-francisco-supervisor-admits-city-has-a-homeless-problem-blames-capitalism](https://www.dailywire.com/news/leftist-san-francisco-supervisor-admits-city-has-a-homeless-problem-blames-capitalism)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T10:09:16+00:00
+
+As San Francisco continues to take heat for its growing homelessness and drug problem, at least one elected official blames capitalism for the crisis in his neighborhood.  Leftist Supervisor Dean Preston, representing the city and county of San Francisco, acknowledged the homelessness problem in his neighborhood. The Democratic socialist oversees San Francisco’s Tenderloin district, notorious ...
+
+## Feds Sent Nearly $2 Billion To Planned Parenthood And Other Pro-Abortion Groups, Gov’t Report Finds
+ - [https://www.dailywire.com/news/feds-sent-nearly-2-billion-to-planned-parenthood-other-pro-abortion-groups-govt-report-finds](https://www.dailywire.com/news/feds-sent-nearly-2-billion-to-planned-parenthood-other-pro-abortion-groups-govt-report-finds)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-12-12T08:30:41+00:00
+
+Planned Parenthood and other abortion advocacy organizations received nearly $2 billion in federal funding over a three year span, according to a new government report. The Government Accountability Office disclosed in a Tuesday report that $1.89 billion in federal dollars was allocated to multiple different pro-abortion organizations, including those that perform abortion, over the three ...
+

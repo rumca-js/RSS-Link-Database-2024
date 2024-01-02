@@ -1,0 +1,170 @@
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## S&P maintains France's AA credit rating with cautious outlook
+ - [https://www.lemonde.fr/en/economy/article/2023/12/01/s-p-maintains-france-s-aa-credit-rating-with-cautious-outlook_6306749_19.html](https://www.lemonde.fr/en/economy/article/2023/12/01/s-p-maintains-france-s-aa-credit-rating-with-cautious-outlook_6306749_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T22:31:57+00:00
+
+The credit ratings agency said it maintained its negative outlook due to France's high budget deficits and government debt that could reduce its fiscal flexibility.
+
+## George Santos expelled from the US House of Representatives
+ - [https://www.lemonde.fr/en/international/article/2023/12/01/george-santos-expelled-from-the-us-house-of-representatives_6306682_4.html](https://www.lemonde.fr/en/international/article/2023/12/01/george-santos-expelled-from-the-us-house-of-representatives_6306682_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T21:31:23+00:00
+
+The Republican lawmaker who lied his way into Congress by falsifying his background, family and personal life was ousted from office in a landmark vote on Friday.
+
+## Russian decree expands troop numbers by 15%
+ - [https://www.lemonde.fr/en/international/article/2023/12/01/russian-decree-expands-troop-numbers-by-15_6306285_4.html](https://www.lemonde.fr/en/international/article/2023/12/01/russian-decree-expands-troop-numbers-by-15_6306285_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T19:24:30+00:00
+
+This latest decree from President Vladimir Putin would increase active servicemen by some 170,000 soldiers, yet the Russian army has stated that it did not plan on another unpopular mobilization drive.
+
+## South Korea deploys first military spy satellite with SpaceX rocket
+ - [https://www.lemonde.fr/en/international/article/2023/12/01/south-korea-deploys-first-military-spy-satellite-with-spacex-rocket_6306219_4.html](https://www.lemonde.fr/en/international/article/2023/12/01/south-korea-deploys-first-military-spy-satellite-with-spacex-rocket_6306219_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T19:14:09+00:00
+
+The launch comes shortly after North Korea successfully deployed its own spy satellite. Seoul has said that Pyongyang received assistance from Moscow, after supplying Russia with weapons for its war against Ukraine.
+
+## Migrant women from sub-Saharan Africa are the forgotten victims of HIV in France
+ - [https://www.lemonde.fr/en/france/article/2023/12/01/migrant-women-from-sub-saharan-africa-are-the-forgotten-victims-of-hiv-in-france_6306120_7.html](https://www.lemonde.fr/en/france/article/2023/12/01/migrant-women-from-sub-saharan-africa-are-the-forgotten-victims-of-hiv-in-france_6306120_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T18:59:19+00:00
+
+New infections are not decreasing among foreign-born heterosexual women, according to a report published by France's public health authority to mark World AIDS Day on December 1.
+
+## Exoplanets: The Very Large Telescope sharpens its gaze
+ - [https://www.lemonde.fr/en/science/article/2023/12/01/exoplanets-the-very-large-telescope-increases-sensitivity_6306054_10.html](https://www.lemonde.fr/en/science/article/2023/12/01/exoplanets-the-very-large-telescope-increases-sensitivity_6306054_10.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T17:34:25+00:00
+
+Through combining the capabilities of two instruments, the European facility, located in Chile, has improved the quality of its observations.
+
+## First woman US Supreme Court justice Sandra Day O'Connor dies at 93
+ - [https://www.lemonde.fr/en/obituaries/article/2023/12/01/first-woman-us-supreme-court-justice-sandra-day-o-connor-dies-at-93_6305988_15.html](https://www.lemonde.fr/en/obituaries/article/2023/12/01/first-woman-us-supreme-court-justice-sandra-day-o-connor-dies-at-93_6305988_15.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T17:10:24+00:00
+
+O'Connor was appointed to the Supreme Court by president Ronald Reagan in 1981 and stepped down in 2006.
+
+## World leaders take COP28 stage as climate, Gaza share spotlight
+ - [https://www.lemonde.fr/en/environment/article/2023/12/01/world-leaders-take-cop28-stage-as-climate-gaza-share-spotlight_6305954_114.html](https://www.lemonde.fr/en/environment/article/2023/12/01/world-leaders-take-cop28-stage-as-climate-gaza-share-spotlight_6305954_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T17:05:23+00:00
+
+More than 140 kings, presidents and prime ministers will address delegates on Friday and Saturday. But the climate crisis will share the agenda with the Israel-Hamas conflict
+
+## New York Times investigation reports Israel knew about Hamas' October 7 attack plan
+ - [https://www.lemonde.fr/en/israel-palestine/article/2023/12/01/new-york-times-investigation-reports-israel-knew-about-hamas-october-7-attack-plan_6305821_139.html](https://www.lemonde.fr/en/israel-palestine/article/2023/12/01/new-york-times-investigation-reports-israel-knew-about-hamas-october-7-attack-plan_6305821_139.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T16:51:13+00:00
+
+A Hamas document examined by The Times detailed an attack similar to the one on October 7. According to the newspaper, Israeli intelligence officials ignored analysts' warnings and deemed the scenario aspirational.
+
+## Israel-Hamas war: Explosions ring out again in Gaza, after seven days of hard-won truce
+ - [https://www.lemonde.fr/en/international/article/2023/12/01/israel-hamas-war-explosions-ring-out-again-in-gaza-after-seven-days-of-hard-won-truce_6305587_4.html](https://www.lemonde.fr/en/international/article/2023/12/01/israel-hamas-war-explosions-ring-out-again-in-gaza-after-seven-days-of-hard-won-truce_6305587_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T15:45:09+00:00
+
+The truce enabled 80 hostages to be exchanged for 240 Palestinian prisoners, mainly women and children, and humanitarian aid to be brought into the Gaza Strip. It was abruptly broken this morning, negotiations are underway to restore it.
+
+## Israel-Palestine, the stories of two families caught in history's turmoil
+ - [https://www.lemonde.fr/en/m-le-mag/visuel/2023/12/01/israel-palestine-the-stories-of-two-families-caught-in-history-s-turmoil_6305554_117.html](https://www.lemonde.fr/en/m-le-mag/visuel/2023/12/01/israel-palestine-the-stories-of-two-families-caught-in-history-s-turmoil_6305554_117.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T15:30:10+00:00
+
+The Weissmanns dreamed of being 'pioneers' called upon to build the Jewish state. The Redwans, in Gaza, dramed of a Palestinian homeland. Through the story of their turbulent destinies, these two families offer an intimate vision of a never-ending conflict.
+
+## UN top court orders Venezuela not to enflame row over disputed territory
+ - [https://www.lemonde.fr/en/international/article/2023/12/01/un-top-court-orders-venezuela-not-to-enflame-row-over-disputed-territory_6305422_4.html](https://www.lemonde.fr/en/international/article/2023/12/01/un-top-court-orders-venezuela-not-to-enflame-row-over-disputed-territory_6305422_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T15:25:19+00:00
+
+The International Court of Justice told Venezuela not to take any action in a dispute with its neighbor Guyana over the Essequibo territory, two days before a referendum on the topic.
+
+## Russian activists form resistance networks against Putin and the war in Ukraine
+ - [https://www.lemonde.fr/en/international/article/2023/12/01/russian-activists-form-resistance-networks-against-putin-and-the-war-in-ukraine_6305224_4.html](https://www.lemonde.fr/en/international/article/2023/12/01/russian-activists-form-resistance-networks-against-putin-and-the-war-in-ukraine_6305224_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T15:07:37+00:00
+
+Russian civilians are organizing in order to help army deserters, political prisoners and Ukrainians. They met in Brussels for an 'Anti-War Initiatives Congress.'
+
+## 'The closer the European elections get, the more they seem like a referendum for or against the EU'
+ - [https://www.lemonde.fr/en/europe/article/2023/12/01/the-closer-the-european-elections-get-the-more-they-seem-like-a-referendum-for-or-against-the-eu_6305024_143.html](https://www.lemonde.fr/en/europe/article/2023/12/01/the-closer-the-european-elections-get-the-more-they-seem-like-a-referendum-for-or-against-the-eu_6305024_143.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T13:17:13+00:00
+
+Long protected by its institutions and the strength of the 'Republican front,' France today appears as vulnerable to the far right as some of its European allies, writes Françoise Fressoz.
+
+## Rafael Nadal announces his return to the circuit after a year's absence
+ - [https://www.lemonde.fr/en/sports/article/2023/12/01/rafael-nadal-announces-his-return-to-the-circuit-after-a-year-s-absence_6304925_9.html](https://www.lemonde.fr/en/sports/article/2023/12/01/rafael-nadal-announces-his-return-to-the-circuit-after-a-year-s-absence_6304925_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T12:49:52+00:00
+
+The 22-time Grand Slam champion will attempt his comeback at the Brisbane International in January.
+
+## Tensions ramp up between Venezuela and Guyana over oil-rich region
+ - [https://www.lemonde.fr/en/international/article/2023/12/01/tensions-ramp-up-between-venezuela-and-guyana-over-oil-rich-region_6304760_4.html](https://www.lemonde.fr/en/international/article/2023/12/01/tensions-ramp-up-between-venezuela-and-guyana-over-oil-rich-region_6304760_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T11:57:49+00:00
+
+Venezuela is holding a referendum on Sunday, December 3, on the future of the oil-rich region of Essequibo, which takes up two-thirds of Guyana's surface area.
+
+## At home or on the world stage, Macron's shifting stance on climate
+ - [https://www.lemonde.fr/en/environment/article/2023/12/01/at-home-or-on-the-world-stage-macron-s-shifting-stance-on-climate_6304628_114.html](https://www.lemonde.fr/en/environment/article/2023/12/01/at-home-or-on-the-world-stage-macron-s-shifting-stance-on-climate_6304628_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T11:54:20+00:00
+
+The French President still remains one of the most aggressive climate leaders on the international stage. But this stance is in contrast with how he's handling the environmental struggle in France.
+
+## Israel-Hamas war: Tensions in Jerusalem have reached a boiling point
+ - [https://www.lemonde.fr/en/international/article/2023/12/01/israel-hamas-war-tensions-in-jerusalem-are-reaching-a-boiling-point_6304529_4.html](https://www.lemonde.fr/en/international/article/2023/12/01/israel-hamas-war-tensions-in-jerusalem-are-reaching-a-boiling-point_6304529_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T10:33:28+00:00
+
+A shooting in the Holy City, claimed by Hamas, left three Israeli Jews dead on Thursday morning. The attackers came from the Palestinian part of Jerusalem, where security is heavily deployed.
+
+## The death of Elliott Erwitt, the photographer who captured both human and canine wry comedy
+ - [https://www.lemonde.fr/en/obituaries/article/2023/12/01/the-death-of-elliott-erwitt-the-photographer-who-captured-both-human-and-canine-wry-comedy_6304429_15.html](https://www.lemonde.fr/en/obituaries/article/2023/12/01/the-death-of-elliott-erwitt-the-photographer-who-captured-both-human-and-canine-wry-comedy_6304429_15.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T09:10:19+00:00
+
+The gifted photoreporter with a ferocious sense of humor died on Wednesday at the age of 95. His famous dog photos somewhat overshadowed his more cutting political pictures.
+
+## Brexit's 'chilling' effect on UK investment
+ - [https://www.lemonde.fr/en/opinion/article/2023/12/01/brexit-s-chilling-effect-on-uk-investment_6304264_23.html](https://www.lemonde.fr/en/opinion/article/2023/12/01/brexit-s-chilling-effect-on-uk-investment_6304264_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T08:09:26+00:00
+
+After six years of political upheaval following the country's exit from the European Union, London's economic standing has suffered severe damage.
+
+## Israel resumes military operations in Gaza after truce expires
+ - [https://www.lemonde.fr/en/international/article/2023/12/01/israel-resumes-military-operations-in-gaza-after-truce-expires_6304098_4.html](https://www.lemonde.fr/en/international/article/2023/12/01/israel-resumes-military-operations-in-gaza-after-truce-expires_6304098_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T06:50:13+00:00
+
+Air strikes and ground operations relaunched in the Palestinian enclave on Friday after the seven-day truce expired without any further deal.
+
+## Relations between France and Morocco emerge from the Ice Age
+ - [https://www.lemonde.fr/en/le-monde-africa/article/2023/12/01/relations-between-france-and-morocco-emerge-from-the-ice-age_6303930_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2023/12/01/relations-between-france-and-morocco-emerge-from-the-ice-age_6303930_124.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T04:00:04+00:00
+
+The current thaw between the two countries is accompanied by a new approach on the French side. But Rabat's expectations are high, first and foremost on the issue of the Western Sahara.
+
+## London's Big Ben is finally restored, but the rest of Westminster is threatened by decay
+ - [https://www.lemonde.fr/en/united-kingdom/article/2023/12/01/big-ben-in-london-is-finally-restored-but-the-rest-of-westminster-is-threatened-by-decay_6303830_135.html](https://www.lemonde.fr/en/united-kingdom/article/2023/12/01/big-ben-in-london-is-finally-restored-but-the-rest-of-westminster-is-threatened-by-decay_6303830_135.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T03:25:14+00:00
+
+Visits to the iconic tower have resumed after five years of work. The final cost has more than doubled compared with the initial budget, due to the building's fragile condition caused by German bombing raids of May 1941.
+
+## Gaza on Macron's agenda for his COP28 trip to Dubai
+ - [https://www.lemonde.fr/en/international/article/2023/12/01/gaza-is-on-macron-s-agenda-for-his-cop28-trip-to-dubai-and-doha_6303763_4.html](https://www.lemonde.fr/en/international/article/2023/12/01/gaza-is-on-macron-s-agenda-for-his-cop28-trip-to-dubai-and-doha_6303763_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-12-01T01:33:12+00:00
+
+Paris now favors European sanctions against Israeli settlers who commit violent acts against Palestinians. In Brussels, France has also called for measures against Hamas leaders.
+

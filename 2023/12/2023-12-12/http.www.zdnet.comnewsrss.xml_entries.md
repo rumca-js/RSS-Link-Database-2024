@@ -1,0 +1,156 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## The 110 best holiday deals: Apple products, TVs, laptops, and more
+ - [https://www.zdnet.com/article/best-holiday-deals-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-holiday-deals-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T21:05:47+00:00
+
+ZDNET found the best holiday deals on headphones, smartphones, and other gadgets from Amazon, Apple, Best Buy, Walmart, and more for all of your gifting needs.
+
+## The 89 best holiday deals at Newegg 2023
+ - [https://www.zdnet.com/article/best-holiday-newegg-deals-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-holiday-newegg-deals-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T20:43:00+00:00
+
+Newegg is still offering plenty of discounts across their site on tech such as laptops, gaming PCs, graphics cards, and more ahead of the holiday season
+
+## This is the best car diagnostic tool I've ever used, and it's only $60 right now
+ - [https://www.zdnet.com/home-and-office/this-is-the-best-car-diagnostic-tool-ive-ever-used-and-its-only-60-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/this-is-the-best-car-diagnostic-tool-ive-ever-used-and-its-only-60-right-now/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T19:22:46+00:00
+
+With this Bluetooth OBD automotive scanner, the DIY-inclined can take a deep dive into their vehicle's control systems.
+
+## How Google Workspace just made it easier for others to pronounce your name
+ - [https://www.zdnet.com/article/how-google-workspace-just-made-it-easier-for-others-to-pronounce-your-name/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-google-workspace-just-made-it-easier-for-others-to-pronounce-your-name/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T18:57:45+00:00
+
+Your Google profile card can now hold a recording of your name. The new feature is available to users with certain Workspace accounts.
+
+## How Opera's AI bot beats Google at its own game
+ - [https://www.zdnet.com/home-and-office/work-life/operas-aria-beats-google-at-its-own-game/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/operas-aria-beats-google-at-its-own-game/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T17:58:29+00:00
+
+Finally, a reason to love AI! I now use Opera's Aria feature in place of Google searches. Here's why that works so well.
+
+## The 65+ best holiday TV deals
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-holiday-tv-deals-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-holiday-tv-deals-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T17:48:00+00:00
+
+The holiday shopping season is in full-swing, and now is the time to find great deals on TVs from brands like Sony, LG, Samsung, TCL, and more at Amazon, Best Buy, Walmart, and other retailers.
+
+## Don't diss the pigeons: How nature's algorithm rivals AI
+ - [https://www.zdnet.com/article/dont-diss-the-pigeons-how-natures-algorithm-rivals-ai/#ftag=RSSbaffb68](https://www.zdnet.com/article/dont-diss-the-pigeons-how-natures-algorithm-rivals-ai/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T16:35:36+00:00
+
+The unassuming pigeon might not be held in high regard, but there are ways in which the pigeon makes decisions that will impress even its most ardent critics.
+
+## How to use DALL-E 3 in ChatGPT
+ - [https://www.zdnet.com/article/how-to-use-dall-e-3-in-chatgpt/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-dall-e-3-in-chatgpt/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T16:19:37+00:00
+
+If you've been waiting for the moment when ChatGPT can generate images for you, this is it.
+
+## Buy a one-year Costco membership for $20 right now
+ - [https://www.zdnet.com/home-and-office/buy-a-one-year-costco-membership-for-20-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/buy-a-one-year-costco-membership-for-20-right-now/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T15:55:29+00:00
+
+If you buy a Costco membership for $60 right now, you'll get a $40 gift card to use in the store or online with this deal, so you can save on everything from holiday gifts to groceries.
+
+## The best NAS devices of 2023
+ - [https://www.zdnet.com/article/best-network-attached-storage/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-network-attached-storage/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T15:47:00+00:00
+
+The best NAS storage devices feature user-friendly interfaces, fast performance, and excellent app availability.
+
+## The 45 best holiday phone deals: iPhone 15, Google Pixel 8 Pro, Samsung Galaxy Z Fold 5
+ - [https://www.zdnet.com/article/best-holiday-phone-deals-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-holiday-phone-deals-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T15:28:00+00:00
+
+Buying a new phone this holiday season? ZDNET has rounded up the best deals on iPhones, Samsung Galaxy, Google Pixel, and more.
+
+## I tested the world's first robot vacuum with twin motors for extra suction power, and they actually work
+ - [https://www.zdnet.com/article/eufy-x8-pro-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/eufy-x8-pro-review/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T15:23:00+00:00
+
+The Eufy X8 Pro vacuumed my tiled floors incredibly well, but you should buy the robot vacuum for this reason especially.
+
+## Generative AI can save marketers 5 hours weekly, as research finds productivity gains for the future
+ - [https://www.zdnet.com/article/generative-ai-can-save-marketers-5-hours-weekly-as-research-finds-productivity-gains-for-the-future/#ftag=RSSbaffb68](https://www.zdnet.com/article/generative-ai-can-save-marketers-5-hours-weekly-as-research-finds-productivity-gains-for-the-future/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T15:00:00+00:00
+
+Generative AI adoption in marketing reveals promising productivity dividends ahead. Marketers estimate generative AI can save them the equivalent of over a month per year, making room for more meaningful work.
+
+## The 23 best holiday Dell deals at Best Buy, Amazon, Newegg, and more
+ - [https://www.zdnet.com/article/the-23-best-holiday-dell-deals-at-best-buy-amazon-newegg-and-more/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-23-best-holiday-dell-deals-at-best-buy-amazon-newegg-and-more/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T14:50:00+00:00
+
+If you're looking for a monitor to upgrade your work setup or a reliable laptop to work on the go, you can't go wrong with Dell, especially with these deals just in time for the holidays.
+
+## Apple releases iOS 17.2 with Journal app, iPhone 15 Pro perks, and more
+ - [https://www.zdnet.com/article/apple-releases-ios-17-2-with-journal-app-iphone-15-pro-perks-and-more/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-releases-ios-17-2-with-journal-app-iphone-15-pro-perks-and-more/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T14:45:26+00:00
+
+iPhone 15 Pro users will get spatial video recording, faster telephoto focusing, and a new Action Button option, but there are goodies aplenty for everyone.
+
+## Google unveils a search trend time capsule tool to make you feel old
+ - [https://www.zdnet.com/article/google-unveils-a-search-trend-time-capsule-to-make-you-feel-old/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-unveils-a-search-trend-time-capsule-to-make-you-feel-old/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T14:34:21+00:00
+
+Just by answering a quick six questions, you can find out which year your favorites belong to.
+
+## Buy or gift a lifetime of language learning with Rosetta Stone and StackSkills for just $160
+ - [https://www.zdnet.com/article/buy-or-gift-a-liftetime-of-language-learning-with-rosetta-stone-and-stackskills-for-just-160/#ftag=RSSbaffb68](https://www.zdnet.com/article/buy-or-gift-a-liftetime-of-language-learning-with-rosetta-stone-and-stackskills-for-just-160/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T13:58:00+00:00
+
+Get or gift a lifetime of learning and the opportunity for a major life change in 2024, with lifetime access to StackSkills and language lessons in Spanish, French, Chinese, and more at a big discount.
+
+## Get lifetime access to online learning with StackSkills Unlimited for an exclusive $20
+ - [https://www.zdnet.com/education/get-lifetime-access-to-online-learning-with-stackskills-unlimited-for-an-exclusive-20/#ftag=RSSbaffb68](https://www.zdnet.com/education/get-lifetime-access-to-online-learning-with-stackskills-unlimited-for-an-exclusive-20/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T13:45:00+00:00
+
+With instant download and delivery, this online learning platform could be the perfect last-minute gift.
+
+## BeReal is getting four new features, and one is going to make your post that much realer
+ - [https://www.zdnet.com/article/bereal-is-getting-four-new-features-and-one-is-going-to-make-your-post-that-much-realer/#ftag=RSSbaffb68](https://www.zdnet.com/article/bereal-is-getting-four-new-features-and-one-is-going-to-make-your-post-that-much-realer/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T12:00:15+00:00
+
+As if posting an impromptu picture wasn't authentic enough, now you can post the whole moment, too.
+
+## How to use DALL-E 2 to turn your ideas into AI-generated art
+ - [https://www.zdnet.com/article/how-to-use-dall-e-2-to-turn-your-creative-visions-into-ai-generated-art/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-dall-e-2-to-turn-your-creative-visions-into-ai-generated-art/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T11:41:00+00:00
+
+DALL-E 2 is an AI-powered image generator created by OpenAI, the developer behind ChatGPT. We'll walk you through how to create custom art with DALL-E 2.
+
+## Your favorite Adobe apps are getting a makeover. Here's what to expect
+ - [https://www.zdnet.com/article/your-favorite-adobe-apps-are-getting-a-makeover-heres-what-to-expect/#ftag=RSSbaffb68](https://www.zdnet.com/article/your-favorite-adobe-apps-are-getting-a-makeover-heres-what-to-expect/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T11:00:00+00:00
+
+Say goodbye to boring gray, and hello to a brigther, more approachable palette.
+
+## Google Chrome will soon let users build custom AI-generated themes, including US cities
+ - [https://www.zdnet.com/article/google-chrome-will-soon-let-users-build-custom-ai-generated-themes-including-us-cities/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-chrome-will-soon-let-users-build-custom-ai-generated-themes-including-us-cities/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-12-12T02:08:00+00:00
+
+Chrome users will be able to choose from a variety of options to personalize their browser, thanks to AI.
+

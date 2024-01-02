@@ -1,0 +1,22 @@
+# Source:GamingBolt, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ, language:en-US
+
+## 10 Best PS Vita Games of All Time - 2023 Edition
+ - [https://www.youtube.com/watch?v=XOvjGaRwVXA](https://www.youtube.com/watch?v=XOvjGaRwVXA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-12-23T15:30:07+00:00
+
+Sony tried to capitalize on the success of PSP with the PS Vita, but that initiative never really took off with the same magnitude. As a result, the PS Vita became one of Sony's biggest disappointments of the last decade. But it would be wrong to state that PS Vita was a bad console by any means, far from it. 
+
+There have been plenty of great games that leverage the power of the PS Vita to render beautiful worlds and incredible experiences that stay with you long after the credits roll. With this feature, we will be taking a look back at the 10 of the best games that represent the best of what the handheld had to offer.
+
+## 15 Best Graphics of 2023 [4K]
+ - [https://www.youtube.com/watch?v=zCFgCKKhKB4](https://www.youtube.com/watch?v=zCFgCKKhKB4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-12-23T09:30:15+00:00
+
+As much as 2023 has impressed with its diverse range of settings and gameplay mechanics, its games have offered some of the best graphics. Of course, the most realistic-looking visuals aren't the be-all, end-all. There's also top-notch aesthetics and technical innovation to consider.
+
+We're talking about Horizon Forbidden West - Burning Shores and how it evolved cloud generation tech to create massive cloud-scapes. Or Alan Wake 2, which effortlessly combines live-action and gameplay almost effortlessly. Attention to detail in environments or facial expressions also can't be discounted, whether you're navigating the treacherous Ishimura in Dead Space or enjoying the various twists and turns of Mortal Kombat 1's story.
+
+Check out 15 of the best-looking games of 2023 and what made them such visual masterpieces.
+

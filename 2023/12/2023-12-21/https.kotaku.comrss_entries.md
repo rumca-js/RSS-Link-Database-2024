@@ -1,0 +1,79 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## Overwatch 2 Left A Trail Of Broken Promises In 2023
+ - [https://kotaku.com/overwatch-2-skins-characters-reddit-steam-2023-1851119014](https://kotaku.com/overwatch-2-skins-characters-reddit-steam-2023-1851119014)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-12-21T22:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cea511919e043af2adf2a42334b44561.jpg" /><p>Overwatch 2 debuted in late 2022, and the controversial sequel to Blizzard’s beloved hero shooter struggled in its first few months. Messaging around it was confusing (we were meant to get a sequel that shared a multiplayer environment with the original game, instead the original game was shut down), expectations…</p><p><a href="https://kotaku.com/overwatch-2-skins-characters-reddit-steam-2023-1851119014">Read more...</a></p>
+
+## Steam’s Big Winter Sale Slashes Prices On A Ton Of Great Games
+ - [https://kotaku.com/steam-winter-sale-baldurs-gate-3-diablo-4-cheap-1851118995](https://kotaku.com/steam-winter-sale-baldurs-gate-3-diablo-4-cheap-1851118995)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-12-21T21:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0879dbf08866d9470a755868037657ce.jpg" /><p>The winter solstice is upon us and Valve is once again celebrating the cosmological event by discounting a bunch of great PC games big and small. The Steam Winter Sale 2023 is going right now through January 4, 2024 with deals on everything from Baldur’s Gate 3 to Call of Duty: Modern Warfare 3. </p><p><a href="https://kotaku.com/steam-winter-sale-baldurs-gate-3-diablo-4-cheap-1851118995">Read more...</a></p>
+
+## OG Solid Snake David Hayter Finally Played Metal Gear Solid V
+ - [https://kotaku.com/metal-gear-solid-5-v-david-hayter-keifer-sutherland-1851118205](https://kotaku.com/metal-gear-solid-5-v-david-hayter-keifer-sutherland-1851118205)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-12-21T18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bc81b6684434873a387928f17926b86d.jpg" /><p>Metal Gear Solid V: The Phantom Pain was Hideo Kojima’s final Metal Gear Solid game, and it was an odd one. Despite having some of the best sneaking action and gunplay, the open world and “missions” structure didn’t necessarily speak to fans of the more linear, tightly scripted feel of the previous games. </p><p><a href="https://kotaku.com/metal-gear-solid-5-v-david-hayter-keifer-sutherland-1851118205">Read more...</a></p>
+
+## This Cool New Retro Console Is A Great Gift For Atari Fans
+ - [https://kotaku.com/atari-2600-retro-console-hands-on-holiday-gift-1851117665](https://kotaku.com/atari-2600-retro-console-hands-on-holiday-gift-1851117665)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-12-21T18:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b03dbaf34e2cfe6d7cb9aec8430e8eab.jpg" /><p><a href="https://kotaku.com/atari-2600-retro-console-hands-on-holiday-gift-1851117665">Read more...</a></p>
+
+## 18-Year Old GTA 6 Hacker Sentenced To Life In Hospital Prison
+ - [https://kotaku.com/gta-6-hacker-sentenced-prison-life-1851118094](https://kotaku.com/gta-6-hacker-sentenced-prison-life-1851118094)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-12-21T18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d738ce59f30a7a3715338a2a44dd0d98.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250">The 18-year old hacker</a> responsible for stealing and releasing dozens of clips of Grand Theft Auto 6 last year has been sentenced to life in hospital prison. He can only be released in the future if doctors decide he’s no longer a danger to others, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.bbc.com/news/technology-67663128" rel="noopener noreferrer" target="_blank">the BBC reports</a>. </p><p><a href="https://kotaku.com/gta-6-hacker-sentenced-prison-life-1851118094">Read more...</a></p>
+
+## 7 More Things We Just Learned About Final Fantasy VII Rebirth
+ - [https://kotaku.com/final-fantasy-7-vii-rebirth-ps5-rpg-aerith-open-world-1851117862](https://kotaku.com/final-fantasy-7-vii-rebirth-ps5-rpg-aerith-open-world-1851117862)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-12-21T17:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5f62555b2e52219d0016992ec94759a7.jpg" /><p>Every <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-rebirth-vincent-cid-ff7-previews-demo-1850860777">new thing I hear</a> about Final Fantasy VII Rebirth makes the wait for its February 29, 2024 release that much harder. And Square Enix just opened the floodgates on another series of new details, hints, and teases about the upcoming “open-area” RPG remake that have me <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-vii-rebirth-cid-smoke-cigarette-1851085896">even more intrigued</a>.</p><p><a href="https://kotaku.com/final-fantasy-7-vii-rebirth-ps5-rpg-aerith-open-world-1851117862">Read more...</a></p>
+
+## I Started Baldur’s Gate 3 While Sick, Now I’ve Got Faerûn Fever
+ - [https://kotaku.com/baldur-s-gate-3-ps5-first-playthrough-reddit-1851112827](https://kotaku.com/baldur-s-gate-3-ps5-first-playthrough-reddit-1851112827)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-12-21T17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/75c46450fe4edfe640c8b7a6380a9723.jpg" /><p>Just two days after flying back from Los Angeles (where I attended <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/game-awards-2023-fashion-fit-drip-best-dressed-1851085572">The Game Awards 2023 to judge its fashion</a> in person), I felt the familiar creep of sickness at the back of my throat. But this was no mere sniffle—within a few hours my elbows ached, my head pounded, my core temperature rose, air refused to pass…</p><p><a href="https://kotaku.com/baldur-s-gate-3-ps5-first-playthrough-reddit-1851112827">Read more...</a></p>
+
+## Big Metal Gear Solid: Master Collection Update Tries To Fix The PC Versions
+ - [https://kotaku.com/metal-gear-solid-collection-patch-fix-steam-pc-1851117845](https://kotaku.com/metal-gear-solid-collection-patch-fix-steam-pc-1851117845)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-12-21T17:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/aef532880c47658a8a3b39b7a54007fb.jpg" /><p>This October, Konami finally gave us a long-overdue way to access some of the greatest games of all time, the original Metal Gear Solid trilogy. The only problem? They were <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/metal-gear-solid-master-collection-pc-switch-framerate-1850954843">lacking a number of modern features</a> such as higher frame rates and resolutions. Many players have also reported issues with input registration and…</p><p><a href="https://kotaku.com/metal-gear-solid-collection-patch-fix-steam-pc-1851117845">Read more...</a></p>
+
+## Here’s How You Can Beta Test New Starfield Updates
+ - [https://kotaku.com/starfield-bethesda-shattered-space-beta-test-updates-1851117515](https://kotaku.com/starfield-bethesda-shattered-space-beta-test-updates-1851117515)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-12-21T16:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c53bd0e90cefae074b6da274eac70885.jpg" /><p>Starfield launched in September of 2023. But as creative director Todd Howard has stressed in previous interviews, the game was made to be played for a long time. That means updates and changes to the game are likely expand the experience the days and years to come. The most recent update from Bethesda indicates that…</p><p><a href="https://kotaku.com/starfield-bethesda-shattered-space-beta-test-updates-1851117515">Read more...</a></p>
+
+## Kotaku Asks: What’s Your Favorite Game Of 2023?
+ - [https://kotaku.com/best-games-2023-baldurs-gate-3-zelda-totk-spider-man-1851117469](https://kotaku.com/best-games-2023-baldurs-gate-3-zelda-totk-spider-man-1851117469)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-12-21T15:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e5d475ff592dc997b4fb7b1fdd2aa6c5.jpg" /><p>2023 is almost over, folks. I’d say, “We made it,” but who am I kidding? 2024 will begin, and all the same shit that made 2023 a non-stop hellscape will continue in perpetuity. But 2023 did have a lot of cool games, and every December, we gather to talk about our favorites. We’re doing it here at Kotaku, as well. You…</p><p><a href="https://kotaku.com/best-games-2023-baldurs-gate-3-zelda-totk-spider-man-1851117469">Read more...</a></p>
+
+## The Best Video Game Surprises Of 2023
+ - [https://kotaku.com/baldur-s-gate-3-alan-wake-musical-unions-peaches-blade-1851116121](https://kotaku.com/baldur-s-gate-3-alan-wake-musical-unions-peaches-blade-1851116121)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-12-21T14:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/fda74de9b3af560d4d745c22060f9dc3.jpg" /><p>2023 was a rough year for a lot of people. But even a shitty year like this one can offer up tiny moments of happiness or wonderful trinkets that we can all enjoy for a bit before we go back to doomscrolling on whatever social media service we’re using as the best Twitter replacement. </p><p><a href="https://kotaku.com/baldur-s-gate-3-alan-wake-musical-unions-peaches-blade-1851116121">Read more...</a></p>
+

@@ -1,0 +1,520 @@
+# Source:BBC, URL:https://feeds.bbci.co.uk/news/rss.xml, language:en-US
+
+## On becoming a dame and 'Dishy Rishi' being a fan
+ - [https://www.bbc.co.uk/news/entertainment-arts-67843831?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-67843831?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:50:10+00:00
+
+The author speaks to the BBC after being recognised in the 2024 New Year Honours list.
+
+## Jack Grealish burglary: Pep Guardiola says players must be 'careful'
+ - [https://www.bbc.co.uk/sport/football/67845084?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/67845084?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:43:32+00:00
+
+Manchester City manager Pep Guardiola says players must be "careful" after winger Jack Grealish's home was broken into.
+
+## Elizabeth Line: Rail worker honoured for saving 29 lives
+ - [https://www.bbc.co.uk/news/uk-england-london-67796155?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-67796155?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:42:19+00:00
+
+Rizwan Javed has helped vulnerable people and raised awareness about mental health.
+
+## New Year Honours 2024: Kick It Out chairman made MBE
+ - [https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67833979?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67833979?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:40:48+00:00
+
+Sanjay Bhandari, chair of Kick It Out, says the fight against discrimination in football is not over.
+
+## Cambridge organist Anna Lapwood appointed MBE
+ - [https://www.bbc.co.uk/news/uk-england-cambridgeshire-67840972?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-cambridgeshire-67840972?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:40:44+00:00
+
+Anna Lapwood has also introduced her 690,000 TikTok followers to organ music.
+
+## Charity founder, 9, youngest to get honour
+ - [https://www.bbc.co.uk/news/uk-england-kent-67841156?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-kent-67841156?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:37:31+00:00
+
+Tony Hudgell lost both his legs because of injuries inflicted by his birth parents, who were jailed.
+
+## Liz Truss unveils resignation honours list
+ - [https://www.bbc.co.uk/news/uk-politics-67843755?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-67843755?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:32:08+00:00
+
+The ex-PM, who was in office for 49 days, gives supporters and former aides honours, sparking criticism.
+
+## Broad and Lionesses recognised in honours
+ - [https://www.bbc.co.uk/sport/67835939?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/67835939?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:31:27+00:00
+
+Former England cricketer Stuart Broad and England footballers Millie Bright, Mary Earps and Lauren Hemp are recognised in the New Year Honours.
+
+## New Year Honours: Dame Shirley Bassey 'humbled'
+ - [https://www.bbc.co.uk/news/uk-wales-67836515?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-67836515?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:30:28+00:00
+
+Other Welsh recipients include a teenage cancer fundraiser and a water safety campaigner.
+
+## New Year Honours 2024: Michael Eavis and Jilly Cooper lead list
+ - [https://www.bbc.co.uk/news/uk-67834723?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-67834723?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:30:18+00:00
+
+The Glastonbury Festival founder is among hundreds of people featured on this year's honours list.
+
+## New Year Honours: Alex McLeish, Stuart Hogg and Alexander McCall Smith on list
+ - [https://www.bbc.co.uk/news/uk-scotland-67840462?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-67840462?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:30:02+00:00
+
+Alex McLeish, Stuart Hogg and writer Alexander McCall Smith are among the famous names in the 2024 New Year Honours.
+
+## Torchlight kicks off Edinburgh's New Year celebrations
+ - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-67836427?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-67836427?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:18:48+00:00
+
+Thousands took to the streets armed with flaming torches for the return of the traditional walk.
+
+## Premiership: Bristol 14-24 Exeter - Chiefs beat Bears with rare away win
+ - [https://www.bbc.co.uk/sport/rugby-union/67843634?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/67843634?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T22:08:58+00:00
+
+Exeter move top of the Premiership with a rare league victory on the road against Bristol at a packed Ashton Gate.
+
+## Gaza: Baby pulled alive from rubble after Israeli air strike on Rafah
+ - [https://www.bbc.co.uk/news/world-middle-east-67843832?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-67843832?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T21:26:21+00:00
+
+Rescuers clear rubble with their hands to release the girl, before running with her to hospital.
+
+## River Esk deaths: Men 'swept away' in 4x4 identified
+ - [https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-67845166?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-67845166?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T21:13:46+00:00
+
+Three men died on Thursday after they attempted to cross the River Esk in North Yorkshire.
+
+## Third-placed Southampton beat Plymouth
+ - [https://www.bbc.co.uk/sport/football/67798407?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/67798407?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T20:55:31+00:00
+
+Southampton extend their unbeaten run to 17 games and consolidate third place in the Championship after a 2-1 win over Plymouth Argyle.
+
+## Russian influencer Ivleeva fined for hosting 'almost naked' party
+ - [https://www.bbc.co.uk/news/world-europe-67842158?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-67842158?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T20:18:43+00:00
+
+TV presenter and influencer Nastya Ivleeva organised a Moscow party that has sparked a moral backlash.
+
+## Israel Gaza: Palestinian girl shows bombed remains of house next door
+ - [https://www.bbc.co.uk/news/world-middle-east-67844374?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-67844374?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T18:20:27+00:00
+
+Nadin, who has already fled once, shows destroyed beds and pillows in the rubble after a deadly Israeli strike.
+
+## PDC World Championship 2024: Raymond van Barneveld to face teenager Luke Littler in last 16
+ - [https://www.bbc.co.uk/sport/darts/67844530?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/darts/67844530?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T18:15:35+00:00
+
+Former world champion Raymond van Barneveld will face teenager Luke Littler in the last 16 of the PDC World Championship.
+
+## Gemma Wiseman: Team GB and England deaf women's footballer dies aged 33
+ - [https://www.bbc.co.uk/sport/football/67843609?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/67843609?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T17:56:55+00:00
+
+Gemma Wiseman, who represented England and Great Britain's deaf women's teams, has died at the age of 33.
+
+## Poland says Russian missile entered airspace then went into Ukraine
+ - [https://www.bbc.co.uk/news/world-europe-67839340?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-67839340?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T17:48:54+00:00
+
+Poland's air defence system initially detected the object but subsequently lost track of it.
+
+## Ukraine war: At least 30 killed in biggest Russian bombardment yet
+ - [https://www.bbc.co.uk/news/world-europe-67843312?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-67843312?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T17:46:42+00:00
+
+Moscow takes its tactic of hitting cities and suppressing Ukraine's population to a deadly new level.
+
+## Premier League predictions: Chris Sutton v Shed Seven singer Rick Witter
+ - [https://www.bbc.co.uk/sport/football/67837349?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/67837349?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T17:12:28+00:00
+
+BBC Sport football expert Chris Sutton and Shed Seven singer Rick Witter predict the Premier League results.
+
+## Was minister right in veterans row with Vorderman?
+ - [https://www.bbc.co.uk/news/uk-politics-67842826?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-67842826?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T17:10:08+00:00
+
+Carol Vorderman says Johnny Mercer has not met his pledge to veterans - the minister says he has.
+
+## UK sending more air defence missiles to Ukraine after Russia strikes
+ - [https://www.bbc.co.uk/news/uk-67843958?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-67843958?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T16:56:49+00:00
+
+The move to bolster the country's air defence comes after Moscow launched a wave of attacks overnight.
+
+## Woman badly hurt in 'gas explosion' at Staffordshire holiday lodge
+ - [https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-67843466?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-67843466?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T16:45:51+00:00
+
+She suffers serious burns in a fire at a log cabin in Staffordshire, in an area near Alton Towers.
+
+## Odesa church: Clergyman narrowly avoids roof collapse after Russian attack
+ - [https://www.bbc.co.uk/news/world-europe-67844140?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-67844140?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T16:43:50+00:00
+
+CCTV shows debris falling from the from the building's ceiling after Russian strikes hit the area.
+
+## United Cup: Cameron Norrie and Katie Boulter give Great Britain winning start
+ - [https://www.bbc.co.uk/sport/tennis/67839186?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/67839186?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T15:50:47+00:00
+
+Cameron Norrie and Katie Boulter ensure Great Britain make a winning start against hosts Australia at the United Cup in Perth.
+
+## Argentina pulls out of plans to join Brics bloc
+ - [https://www.bbc.co.uk/news/world-latin-america-67842992?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-67842992?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T15:46:28+00:00
+
+It had been due in a few days to join the group, seen as a counterweight to the Western-led world.
+
+## Hamed Traore: Bournemouth midfielder recovering from malaria
+ - [https://www.bbc.co.uk/sport/football/67842962?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/67842962?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T15:30:20+00:00
+
+Bournemouth midfielder Hamed Traore will be out for "some time" after contracting malaria, says manager Andoni Iraola.
+
+## MP defends saying parents to blame for kids struggling
+ - [https://www.bbc.co.uk/news/uk-england-manchester-67842890?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-67842890?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T15:22:49+00:00
+
+James Daly is criticised for saying most children who struggle are the products of bad parents.
+
+## One dead following cheese recall over E. coli
+ - [https://www.bbc.co.uk/news/health-67840758?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-67840758?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T14:46:44+00:00
+
+A person dies in Scotland after an outbreak of the infection in the UK.
+
+## Blackpool Tower fire: Five other times people were fooled by false alarms
+ - [https://www.bbc.co.uk/news/uk-67802959?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-67802959?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T14:15:20+00:00
+
+After orange netting was mistaken for flames, we revisit five other big public "whoops" moments.
+
+## Erik ten Hag: Manchester United manager confident of strong relationship with Ineos
+ - [https://www.bbc.co.uk/sport/football/67841811?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/67841811?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T13:34:35+00:00
+
+Manchester United manager Erik ten Hag says he has not yet spoken with new co-owners Ineos because of the team's condensed schedule - but is confident of a strong relationship.
+
+## Spicy Doritos seasoning sparks Adelaide workplace safety complaint
+ - [https://www.bbc.co.uk/news/world-australia-67841188?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-67841188?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T13:08:14+00:00
+
+Workers at an Adelaide factory have complained of skin irritation and breathing problems, a union says.
+
+## British mother and son killed in French avalanche
+ - [https://www.bbc.co.uk/news/world-europe-67840309?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-67840309?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T12:58:37+00:00
+
+They were part of a group of five people from the same family, with a guide they had known for years.
+
+## M5: E-scooter rider arrested on motorway hard shoulder
+ - [https://www.bbc.co.uk/news/uk-england-somerset-67841162?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-somerset-67841162?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T12:26:11+00:00
+
+A 29-year-old man faces three charges, including being a learner driver on a motorway.
+
+## Crash victim 'devoted his life to others', says family
+ - [https://www.bbc.co.uk/news/uk-england-south-yorkshire-67840348?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-south-yorkshire-67840348?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T12:25:06+00:00
+
+Chris Marriott died when he was hit by a car in Sheffield as he helped an unconscious woman.
+
+## Newcastle boss Eddie Howe says there have been no 'assurances' of funds for January signings
+ - [https://www.bbc.co.uk/sport/football/67838981?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/67838981?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T12:21:32+00:00
+
+The Newcastle manager says there have been no 'assurances' about money for January signings to help with his side's injury list and poor form.
+
+## Snow and rain warning issued as Storm Gerrit clean-up continues
+ - [https://www.bbc.co.uk/news/uk-scotland-67839879?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-67839879?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T12:05:00+00:00
+
+The Met Office yellow alert says there could be up to 20cm of snow on high ground during Saturday.
+
+## River Esk deaths: Men trapped in 4x4 'were swept away'
+ - [https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-67839212?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-67839212?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T11:39:08+00:00
+
+Three men died after they attempted to cross a ford in North Yorkshire and became submerged.
+
+## Woman picks up 100,000 pieces of litter on bus pass odyssey
+ - [https://www.bbc.co.uk/news/articles/c72yljdp5njo?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/articles/c72yljdp5njo?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T11:28:32+00:00
+
+Former teacher Ruth Major, 79, says her litter picking odyssey has given her a new lease of life.
+
+## NFL: Joe Flacco sends the Cleveland Browns to the play-offs with win over the New York Jets
+ - [https://www.bbc.co.uk/sport/av/american-football/67840952?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/american-football/67840952?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T11:22:21+00:00
+
+Watch as quarterback Joe Flacco throws three touchdowns to send the Cleveland Browns to the NFL play-offs with a 37-20 win over the New York Jets.
+
+## Jack Grealish: Man City footballer's Cheshire home targeted by burglars
+ - [https://www.bbc.co.uk/news/uk-england-manchester-67834890?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-67834890?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T09:57:22+00:00
+
+Police were called to the Manchester City footballer's home after reports of a burglary on Wednesday.
+
+## Celtic v Rangers - Who could decide Old Firm derby?
+ - [https://www.bbc.co.uk/sport/football/67835708?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/67835708?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T09:25:06+00:00
+
+State of play, key men & manager focus for the second Old Firm derby of the season.
+
+## Beachgoers swept away as huge wave crashes over wall in California
+ - [https://www.bbc.co.uk/news/world-us-canada-67839430?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-67839430?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T09:03:54+00:00
+
+Eight people were injured as a rogue wave swamped people and vehicles in the city of Ventura.
+
+## House prices end the year 1.8% lower, says Nationwide
+ - [https://www.bbc.co.uk/news/business-67839202?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-67839202?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T08:48:36+00:00
+
+The housing market is set to be subdued in 2024 despite hopes of an interest rate cut.
+
+## Australia v Pakistan: Pat Cummins takes 10 wickets in second Test to seal series
+ - [https://www.bbc.co.uk/sport/cricket/67838974?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/67838974?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T08:30:25+00:00
+
+Pat Cummins finishes with 10 wickets in the match as Australia clinch a series victory over Pakistan in Melbourne.
+
+## NBA round-up: Detroit Pistons equal longest losing run in history with 28th straight defeat
+ - [https://www.bbc.co.uk/sport/basketball/67839110?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/basketball/67839110?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T08:15:13+00:00
+
+The Detroit Pistons equal the longest losing run in NBA history as they are beaten by the Boston Celtics for a 28th consecutive defeat.
+
+## Potty-mouthed politicians turn the air blue in 2023
+ - [https://www.bbc.co.uk/news/uk-politics-67713953?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-67713953?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T07:52:56+00:00
+
+Hit the bleep button: from rude WhatsApps to ministerial outbursts, 2023 saw plenty of political swearing.
+
+## Lee Sun-kyun: A quiet farewell for Parasite star who died in the spotlight
+ - [https://www.bbc.co.uk/news/world-asia-67831513?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-67831513?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T07:49:59+00:00
+
+Relentless media coverage over allegations of drug use stalked Lee Sun-kyun's final months.
+
+## Ukraine war: International students complete exams abroad
+ - [https://www.bbc.co.uk/news/newsbeat-67795692?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/newsbeat-67795692?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T07:45:59+00:00
+
+Foreign students whose degrees were cut short by Russia's invasion are able to complete their studies.
+
+## BBC Weather presenter Carol Kirkwood announces marriage
+ - [https://www.bbc.co.uk/news/uk-67838297?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-67838297?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T07:14:22+00:00
+
+It comes more than a year after she revealed her engagement during a live BBC weather forecast.
+
+## Coco Gauff, Jannik Sinner, Jack Draper, Hannah Klugman - youngsters who could shine in 2024
+ - [https://www.bbc.co.uk/sport/tennis/67754179?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/67754179?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T07:14:08+00:00
+
+With the 2024 tennis season about to start, BBC Sport picks out who could win a Grand Slam as well as an exciting British teenager tipped for the top.
+
+## The stories behind 2023's best sporting photos
+ - [https://www.bbc.co.uk/sport/67761513?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/67761513?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T07:02:28+00:00
+
+Feast your eyes on the most stunning sporting photos of the year as the Getty Images photographers who captured them explain just how they did it.
+
+## Ukraine war: Wave of Russian air strikes reported across Ukraine
+ - [https://www.bbc.co.uk/news/world-europe-67838428?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-67838428?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T06:56:08+00:00
+
+The attacks appear to have been widespread and far-reaching, hitting cities such Kharkiv in the east and Lviv in the far west.
+
+## Blair resisted Soham murders public inquiry, papers reveal
+ - [https://www.bbc.co.uk/news/uk-england-cambridgeshire-67833161?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-cambridgeshire-67833161?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T06:21:08+00:00
+
+Newly-released files show how the-then PM wanted a "short and quick" inquiry into the 2002 child murders.
+
+## Prisons must focus on rehabilitation to cut reoffending, says chief inspector
+ - [https://www.bbc.co.uk/news/uk-67837739?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-67837739?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T05:58:35+00:00
+
+Charlie Taylor says a "fundamental reorientation" of prisons is the only way to reduce reoffending.
+
+## Wrongfully convicted man and ex-hostage on life in captivity
+ - [https://www.bbc.co.uk/news/uk-67763438?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-67763438?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T05:58:06+00:00
+
+Andrew Malkinson and ex-hostage John McCarthy discuss surviving captivity on Radio 4's Today programme.
+
+## Nepal plane crash caused by pilots mistakenly cutting power, says report
+ - [https://www.bbc.co.uk/news/world-asia-67838436?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-67838436?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T04:34:48+00:00
+
+The January incident that killed 72, including two infants, was the country's deadliest in decades.
+
+## Françoise Bettencourt Meyer: L'Oréal heiress first woman to amass $100bn fortune
+ - [https://www.bbc.co.uk/news/business-67838422?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-67838422?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T04:31:24+00:00
+
+The French beauty empire is on track for its best stock market performance in decades.
+
+## Google settles $5bn lawsuit for 'private mode' tracking
+ - [https://www.bbc.co.uk/news/business-67838384?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-67838384?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T02:09:34+00:00
+
+Large technology firms have faced increased scrutiny of their practices in the US and beyond.
+
+## Dangerous high surf pummels California coast and attracts surfers
+ - [https://www.bbc.co.uk/news/world-us-canada-67837890?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-67837890?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T01:52:11+00:00
+
+Officials warn residents to stay out of the water, but the big waves are attracting some daring surfers.
+
+## US lawmakers targeted by swatting hoaxes in multiple states
+ - [https://www.bbc.co.uk/news/world-us-canada-67837637?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-67837637?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T01:30:52+00:00
+
+Officials in multiple states have had armed police called to their homes over the holidays.
+
+## Sushi with Schumacher: Ex-F1 chef on catering for sport's big names
+ - [https://www.bbc.co.uk/sport/formula1/67356057?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/67356057?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T01:05:21+00:00
+
+Former chef Dave Freeman recalls his time catering for some of the biggest names on the track.
+
+## Cheers, cattle and a coronation: Striking photos from the UK in 2023
+ - [https://www.bbc.co.uk/news/in-pictures-67691624?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-67691624?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T01:03:03+00:00
+
+A selection of powerful pictures from around the UK in 2023.
+
+## Book releases 2024: From RuPaul to Salman Rushdie
+ - [https://www.bbc.co.uk/news/entertainment-arts-67646676?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-67646676?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T00:54:58+00:00
+
+Britney, Stephen King and Chigozie Obioma also have new books coming out in the next 12 months.
+
+## Police record rise in religious hate crimes after Israel-Gaza war
+ - [https://www.bbc.co.uk/news/uk-67836607?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-67836607?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T00:44:05+00:00
+
+An increase in antisemitism and Islamophobia is reported by major UK police forces.
+
+## Trump blocked from Maine presidential ballot in 2024
+ - [https://www.bbc.co.uk/news/world-us-canada-67837639?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-67837639?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T00:41:50+00:00
+
+Maine's top election official has ruled Trump cannot run for president next year in the state.
+
+## Premier League title race: Arsenal slip up to give Man City & Liverpool advantage
+ - [https://www.bbc.co.uk/sport/football/67810975?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/67810975?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T00:24:49+00:00
+
+After Arsenal's loss to West Ham and with just six points separating the top five, are we set for a classic Premier League title race?
+
+## Ukraine war: Three ways the conflict could go in 2024
+ - [https://www.bbc.co.uk/news/world-europe-67760067?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-67760067?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T00:15:58+00:00
+
+We asked three military analysts how they think events may unfold in the coming 12 months.
+
+## National Archives: Thatcher was desperate to stop Spycatcher publication
+ - [https://www.bbc.co.uk/news/uk-67835095?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-67835095?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T00:05:26+00:00
+
+Keenly awaited secret files show how determined Thatcher was to block an ex spy's tell-all.
+
+## Tony Blair urged 'radical' measures to cut asylum, archive papers reveal
+ - [https://www.bbc.co.uk/news/uk-politics-67827016?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-67827016?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T00:04:24+00:00
+
+Proposals put to the former PM included building a detention camp on Mull, newly-released files show.
+
+## Former winner Price out of World Championship
+ - [https://www.bbc.co.uk/sport/darts/67837405?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/darts/67837405?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-12-29T00:03:00+00:00
+
+Former champion Gerwyn Price is out of the PDC World Darts Championship after a shock 4-2 defeat by Brendan Dolan.
+

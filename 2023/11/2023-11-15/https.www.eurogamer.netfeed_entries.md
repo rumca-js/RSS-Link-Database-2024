@@ -1,0 +1,241 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Suicide Squad: Kill the Justice League resurfaces with 20-minute gameplay video
+ - [https://www.eurogamer.net/suicide-squad-kill-the-justice-league-resurfaces-with-20-minute-gameplay-video](https://www.eurogamer.net/suicide-squad-kill-the-justice-league-resurfaces-with-20-minute-gameplay-video)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T22:48:59+00:00
+
+<img src="https://assetsio.reedpopcdn.com/suicide-squad-trailer-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Warner Bros. and Rocksteady have given Suicide Squad: Kill the Justice League its first airing since its heavily criticised gameplay debut back in February, with accompanying material confirming, among other things, that it's unpopular live service elements are still in.
+</p><p>
+Suicide Squad: Kill the Justice League was originally due to launch in 2022 but has been delayed twice since then, most recently following the game's <a href="https://www.eurogamer.net/rocksteady-confirms-suicide-squad-post-launch-plans-and-cosmetic-battle-pass">controversial gameplay debut</a>, with Warner Bros. announcing it was <a href="https://www.eurogamer.net/suicide-squad-kill-the-justice-league-delayed-to-february-next-year">pushing its release back</a> to 2nd February 2024 in order to make it "the best quality experience for players".
+<
+
+## Wonder Woman job listing suggests it'll be a live service game
+ - [https://www.eurogamer.net/wonder-woman-job-listing-suggests-itll-be-a-live-service-game](https://www.eurogamer.net/wonder-woman-job-listing-suggests-itll-be-a-live-service-game)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T20:50:37+00:00
+
+<img src="https://assetsio.reedpopcdn.com/wonder-woman-trailer-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+A recently sighted job listing for Warner Bros. and developer Monolith Productions' upcoming Wonder Woman game has hinted it'll be a live service title.
+</p><p>
+Monolith's Wonder Woman was <a href="https://www.eurogamer.net/monolith-is-making-a-wonder-woman-game">announced during 2021's The Game Awards</a>, where it was described a single-player open-world action game. As <a href="https://wccftech.com/wonder-woman-live-service-wb-interactive-doubling-down-on-gaas/">spotted by Wccftech</a>, however, a <a href="https://careers.wbd.com/global/en/job/R000074316/Lead-Software-Engineer-Gameplay">recent advert</a> seeking a 'Lead Software Engineer, Gameplay' for the title on Monolith's website has hinted that Warner Bros. may be looking to incorporate live service elements.
+</p><p>
+The ad, which talks of helping to "deliver a s
+
+## Baldur's Gate 3's Xbox release date will be announced at The Game Awards
+ - [https://www.eurogamer.net/baldurs-gate-3s-xbox-series-xs-release-date-will-be-shared-at-the-game-awards](https://www.eurogamer.net/baldurs-gate-3s-xbox-series-xs-release-date-will-be-shared-at-the-game-awards)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T19:01:05+00:00
+
+<img src="https://assetsio.reedpopcdn.com/baldursgate3_laezel_.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Xbox Series X/S owners eager for a Baldur's Gate 3 release date announcement will have a little longer to wait; developer Larian Studios has confirmed it'll be sharing the news during this year's Geoff-Keighley-hosted The Game Awards on 8th December.
+</p><p>
+Baldur's Gate 3's journey to Xbox has, of course, been a bit of a bumpy one; Larian confirmed the acclaimed RPG <a href="https://www.eurogamer.net/baldurs-gate-3-doesnt-have-playstation-exclusivity-but-isnt-coming-to-xbox-for-now">would be coming Microsoft's platform</a> back February, amid fan fears the game was a PlayStation console exclusive, but noted it had "run into some technical issues - particularly with split-screen co-op."
+</p><p>
+The developer's <a href="https://www.eurogamer.net/baldurs-gate-3-dev-says-xbox-version-still-coming-but-compromises-may-have-to-be-
+
+## PlayStation Plus lineup for November includes day one release Teardown
+ - [https://www.eurogamer.net/playstation-plus-lineup-for-november-includes-day-one-release-teardown](https://www.eurogamer.net/playstation-plus-lineup-for-november-includes-day-one-release-teardown)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T16:57:16+00:00
+
+<img src="https://assetsio.reedpopcdn.com/PS-Plus-nov.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Sony has released its PlayStation Plus lineup for November.
+</p><p>
+PlayStation Plus Extra and Premium subscribers will be able to get their hands on sandbox heist game Teardown (PS5) from today, 15th November. This is a day one release for those on Sony's Extra and Premium tiers.
+</p><p>You can see a little trailer for Teardown in the video below. </p> <p><a href="https://www.eurogamer.net/playstation-plus-lineup-for-november-includes-day-one-release-teardown">Read more</a></p>
+
+## Lewis Hamilton and his vegan bulldog Roscoe are coming to Fortnite
+ - [https://www.eurogamer.net/lewis-hamilton-and-his-vegan-bulldog-roscoe-are-coming-to-fortnite](https://www.eurogamer.net/lewis-hamilton-and-his-vegan-bulldog-roscoe-are-coming-to-fortnite)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T16:55:24+00:00
+
+<img src="https://assetsio.reedpopcdn.com/fortnite-lewis-hamilton-skin.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Fortnite, which is currently <a href="https://www.eurogamer.net/fortnites-huge-popularity-spike-is-both-brilliant-and-devastating">riding high on the nostalgia of a generation</a> pining for the good old days of five years ago, is extending its Icons line of cosmetics this Friday, 17th November, with the arrival of celebrated F1 driver Lewis Hamilton and his bulldog Roscoe.
+</p><p>
+Hamilton joins a steadily growing number of noted sports stars and celebrities to be turned into Fortnite skins as part of the Icons series, including Naomi Osaka, Chloe Kim, <a href="https://www.eurogamer.net/heres-lebron-james-in-fortnite">LeBron James</a>, Neymar Jr., <a href="https://www.eurogamer.net/ariana-grande-headlining-fortnite-concert-series-this-week">Ariana Grande</a>, Bruno Mars, and <a href="https://www.eurogamer.net/10m-pla
+
+## Alan Wake 2's Herald of Darkness, AKA this year's best video game song, just got an official music video
+ - [https://www.eurogamer.net/alan-wake-2s-herald-of-darkness-aka-this-years-best-video-game-song-just-got-an-official-music-video](https://www.eurogamer.net/alan-wake-2s-herald-of-darkness-aka-this-years-best-video-game-song-just-got-an-official-music-video)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T16:04:41+00:00
+
+<img src="https://assetsio.reedpopcdn.com/alan-wake-2-oh-deer.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+If you have played through Alan Wake 2, you will by no doubt be <a href="https://www.eurogamer.net/alan-wake-2s-most-memorable-chapter-was-almost-cut-out">well aware of its musical number</a>. In fact, even if you haven't played it, you may also be aware of this particular moment. It has become quite popular online.
+</p><p>
+Before I go further though, if you have no idea what I am talking about and want to keep as much of Alan Wake 2 a surprise, <strong>please head elsewhere now</strong>. I do not want to spoil this moment for you. 
+</p><p>
+OK, so, for those of you who are still with me, I am of course talking about Herald of Darkness by Old Gods of Asgard (AKA Poets of the Fall). It is an absolute tune, and honestly, for me at least, this song is the best part of Alan Wake 2 (so far at least, I am still not quite finished).
+<
+
+## Starfield's new PC patch delivers the game we should have had at launch
+ - [https://www.eurogamer.net/digitalfoundry-2023-is-starfields-pc-release-finally-fixed-we-tested-the-new-beta-with-dlss-performance-improvements-and-more](https://www.eurogamer.net/digitalfoundry-2023-is-starfields-pc-release-finally-fixed-we-tested-the-new-beta-with-dlss-performance-improvements-and-more)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T15:00:21+00:00
+
+<img src="https://assetsio.reedpopcdn.com/STARFIELD-SITE_aiZ8Li5.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>I think it's fair to say that Starfield <a href="https://www.eurogamer.net/digitalfoundry-2023-starfield-on-pc-is-the-best-way-to-play-but-the-game-still-requires-a-lot-of-work">launched in a poor state on PC</a> in September, with no official DLSS or XeSS upscaling support, no HDR controls, an underwhelming graphics menu and weirdly poor performance - especially on Nvidia and Intel graphics cards. The latest Starfield beta on Steam looks to address a number of these issues, so we tested out the new version to see how the game has changed. </p><p>One of the biggest changes for Nvidia graphics cards owners is the official inclusion of DLSS 2 and DLSS 3, for image reconstruction and frame generation respectively. Weirdly, while DLSS uses Nvidia's preferred nomenclature (quality, balanced, performance), FSR upscaling still uses
+
+## There's an official Witcher 3: Wild Hunt mod editor in the works for PC
+ - [https://www.eurogamer.net/theres-an-official-witcher-3-wild-hunt-mod-editor-in-the-works-for-pc](https://www.eurogamer.net/theres-an-official-witcher-3-wild-hunt-mod-editor-in-the-works-for-pc)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T14:16:46+00:00
+
+<img src="https://assetsio.reedpopcdn.com/F--dtxEXgAAeP53.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+
+The Witcher 3 team has announced a PC mod editor is in the works for Wild Hunt. 
+</p><p>
+According to the official Witcher social media account, this editor will allow users to create their own experiences in the game "by making something completely new or editing existing quests and content". 
+</p><p>
+The team said the mod editor will release some time next year, but did not state any timeframe. It did, however, say when it does release it will be free. 
+</p> <p><a href="https://www.eurogamer.net/theres-an-official-witcher-3-wild-hunt-mod-editor-in-the-works-for-pc">Read more</a></p>
+
+## Super Mario RPG review - soothing role-playing goodness
+ - [https://www.eurogamer.net/super-mario-rpg-review](https://www.eurogamer.net/super-mario-rpg-review)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T14:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Nintendo-Direct-%E2%80%93-21_06_2023-35-32-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+
+Mario is asleep in bed. It's a lovely wooden bed with a warm blanket and fat pillows. The bedroom's a bit odd, though. The room is carved out of rock, and if you were to walk out the door you'd see that it's one of a handful of rooms built into the scrabbly face of a cliff. 
+</p><p>
+
+Something else is a bit odd too. As Mario sleeps, three ghostly figures appear above him. Three enemies come to him while he sleeps to offer a challenge. They call themselves the Musty Fears, and they will hide flags across the world for Mario to discover. When morning comes they're gone. Was it all a dream?
+</p><p>
+It's lovely to have an excuse to return to Super Mario RPG, now shorn of its subtitle and delivered afresh with new graphics, a few new combat tricks, and a real attention to detail. This is a devoted
+
+## More people are playing Skyrim on Steam than Starfield
+ - [https://www.eurogamer.net/more-people-are-playing-skyrim-on-steam-than-starfield](https://www.eurogamer.net/more-people-are-playing-skyrim-on-steam-than-starfield)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T13:19:59+00:00
+
+<img src="https://assetsio.reedpopcdn.com/andreja-in-starfield.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+<a href="https://www.eurogamer.net/starfield-guides-tips-tricks-9352">Starfield</a> released a little over two months ago on PC and Xbox. However, despite a strong start which saw <a href="https://www.eurogamer.net/starfield-hits-6m-players-to-become-biggest-bethesda-game-launch-ever">Starfield become the "biggest Bethesda game launch" of all time</a>, things have tailed off a bit now. In fact, there are currently more people playing Bethesda's earlier RPG, Skyrim, over on Steam. 
+</p><p>
+At the time of writing, there are currently 1610 Steam users playing through 2011's Skyrim release, and 13,776 playing 2016's Special Edition release. That makes a total of 15,386 Skyrimmers at the present time. 
+</p><p>
+Both releases combined have a 24-hour player peak of 25,181. If we pop in the VR players as well, that number is higher st
+
+## Grounded free on Steam until tomorrow
+ - [https://www.eurogamer.net/grounded-free-on-steam-until-tomorrow](https://www.eurogamer.net/grounded-free-on-steam-until-tomorrow)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T12:40:13+00:00
+
+<img src="https://assetsio.reedpopcdn.com/102023_Grounded1.3_HERO_0001-c3c62798f706c3a862a7.jpeg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Grounded is currently available to play for free on Steam, at least until tomorrow.
+</p><p>
+The offer ends on 16th November, 5pm UK time.
+</p><p>
+This is to celebrate the game's new <a href="https://www.eurogamer.net/groundeds-make-it-or-break-it-update-lets-players-build-new-backyards-from-scratch">Make It or Break It update</a> that allows players to create their own backyard playgrounds.
+</p> <p><a href="https://www.eurogamer.net/grounded-free-on-steam-until-tomorrow">Read more</a></p>
+
+## Metal Gear Solid: Master Collection Vol. 1 receives patch but issues remain
+ - [https://www.eurogamer.net/metal-gear-solid-master-collection-vol-1-receives-patch-but-issues-remain](https://www.eurogamer.net/metal-gear-solid-master-collection-vol-1-receives-patch-but-issues-remain)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T12:14:41+00:00
+
+<img src="https://assetsio.reedpopcdn.com/METAL-GEAR-SOLID-MASTER-COLLECTION-Vol-1-_-Gameplay-and-Platforms-Reveal-1-12-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Metal Gear Solid: Master Collection Vol. 1 has received a new patch across all platforms, but issues still remain.
+</p><p>
+Specific changes have been made across all platforms and games in the collection, as well as general minor issues.
+</p><p>
+However, a further list of issues remain under investigation. Further, no widespread frame-rate improvements have been made - a major sticking point of the collection for fans.
+</p> <p><a href="https://www.eurogamer.net/metal-gear-solid-master-collection-vol-1-receives-patch-but-issues-remain">Read more</a></p>
+
+## Avatar: Frontiers of Pandora season pass adds two story packs in 2024
+ - [https://www.eurogamer.net/avatar-frontiers-of-pandora-season-pass-adds-two-story-packs-in-2024](https://www.eurogamer.net/avatar-frontiers-of-pandora-season-pass-adds-two-story-packs-in-2024)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T12:00:07+00:00
+
+<img src="https://assetsio.reedpopcdn.com/front-of-pan.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Ubisoft has detailed its season pass for Avatar: Frontiers of Pandora.
+</p><p>
+This season pass, which you can see a trailer for below, will include two story packs: The Sky Breaker and Secrets of the Spires. 
+</p><p>
+The Sky Breaker is scheduled for release in summer 2024, with Secrets of the Spires following in the autumn. Here's what Ubisoft has to say about those: "Face a mysterious shadow in The Sky Breaker story pack and engage in epic aerial battles as you discover the secret of the new canyon region in the Secrets of the Spires story pack."
+</p> <p><a href="https://www.eurogamer.net/avatar-frontiers-of-pandora-season-pass-adds-two-story-packs-in-2024">Read more</a></p>
+
+## Turok 3 remaster accidentally released early in Europe, as Nintendo misses last-minute delay
+ - [https://www.eurogamer.net/turok-3-remaster-accidentally-released-early-in-europe-as-nintendo-misses-last-minute-delay](https://www.eurogamer.net/turok-3-remaster-accidentally-released-early-in-europe-as-nintendo-misses-last-minute-delay)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T11:36:39+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ss_dcae39c9203558c4c6f05f36d845950cc131c9b1.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The new Turok 3 remaster has slipped out earlier than planned in Europe and Australia, following confusion over <a href="https://www.eurogamer.net/nightdives-turok-3-shadow-of-oblivion-remaster-has-been-delayed-a-few-weeks">the game's recently-delayed launch date</a>. 
+</p><p>
+For fans here in Europe, this means the game is available now but contains bugs and lacks quality-of-life improvements which developer Nightdive Studios had intended to remedy in the version of the game set to officially launch elsewhere in two weeks' time.
+</p><p>
+For fans elsewhere, such as in the US and Canada, Turok 3 is still due to launch on 30th November with those final tweaks included.
+</p> <p><a href="https://www.eurogamer.net/turok-3-remaster-accidentally-released-early-in-europe-as-nintendo-misses-last-minute-delay">Re
+
+## Lies of P update makes early game easier and tweaks combat
+ - [https://www.eurogamer.net/lies-of-p-update-makes-early-game-easier-and-tweaks-combat](https://www.eurogamer.net/lies-of-p-update-makes-early-game-easier-and-tweaks-combat)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T11:35:20+00:00
+
+<img src="https://assetsio.reedpopcdn.com/LIES-SITE.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Lies of P has received a new update that adds a number of new features and tweaks.
+</p><p>
+The game will now be a little easier in the early stages, thanks to adjusted attack speed of some monsters in the field and increased stance break duration, more Quartz available earlier on, and the Rising Dodge now a default ability.
+</p><p>
+Further, balance adjustments have been made to combat, with some weapons now dealing increased damage, plus lighter blades gaining more Guard Regain and heavier blades gaining less.
+</p> <p><a href="https://www.eurogamer.net/lies-of-p-update-makes-early-game-easier-and-tweaks-combat">Read more</a></p>
+
+## The Last of Us season 2 reportedly close to casting its Abby
+ - [https://www.eurogamer.net/the-last-of-us-season-2-reportedly-close-to-casting-its-abby](https://www.eurogamer.net/the-last-of-us-season-2-reportedly-close-to-casting-its-abby)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T11:18:08+00:00
+
+<img src="https://assetsio.reedpopcdn.com/abby-the-last-of-us.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Kaitlyn Dever is reportedly in talks to star as Abby in the second season of The Last of Us. 
+</p><p>
+That's according to a new report by journalist and critic <a href="https://www.theinsneider.com/p/last-of-us-abby-kaitlyn-dever-season-2-ferrari-movie-review">Jeff Sneider</a>, who is known for their film and TV industry scoops. 
+</p><p>
+Sources familiar with the project said Dever was poised to land the role of Abby thanks to her performance in No One Will Save You, an alien invasion movie which premiered on Hulu back in September. However, she is perhaps better known for role as Amy Antsler in Booksmart.
+</p> <p><a href="https://www.eurogamer.net/the-last-of-us-season-2-reportedly-close-to-casting-its-abby">Read more</a></p>
+
+## Like a Dragon: Infinite Wealth is a "monster-class game", says studio head
+ - [https://www.eurogamer.net/like-a-dragon-infinite-wealth-is-a-monster-class-game-says-studio-head](https://www.eurogamer.net/like-a-dragon-infinite-wealth-is-a-monster-class-game-says-studio-head)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T11:08:49+00:00
+
+<img src="https://assetsio.reedpopcdn.com/LIKE-A-DRAGON_-INFINITE-WEALTH-_-DONDOKO-ISLAND-REVEAL-TRAILER---Xbox-Partner-Preview-0-40-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Like a Dragon: Infinite Wealth will be a "monster-class game" longer than any previous game in the series.
+</p><p>
+That's according to Ryu Ga Gotoku studio head Masayoshi Yokoyama, who discussed the forthcoming game's length in an interview with Japanese website <a href="https://game.watch.impress.co.jp/docs/interview/1546296.html">Game Watch</a> (translated by <a href="https://automaton-media.com/en/news/20231114-23005/">Automaton Media</a>).
+</p><p>
+"If you go at it continuously, you'll get sick, and it won't end with just one or two all-nighters," said Yokoyama of Infinite Wealth.
+</p> <p><a href="https://www.eurogamer.net/like-a-dragon-infinite-wealth-is-a-monster-class-game-says-studio-head">Read more</a></p>
+
+## Humble Games latest to announce layoffs
+ - [https://www.eurogamer.net/humble-games-latest-to-announce-layoffs](https://www.eurogamer.net/humble-games-latest-to-announce-layoffs)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T10:54:57+00:00
+
+<img src="https://assetsio.reedpopcdn.com/humble-games_i9mvEMJ.jpeg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Video games publisher Humble Games has announced layoffs at the company. 
+</p><p>
+Humble staff members first discussed the layoffs via social media yesterday, as they began looking for new jobs. It's still unconfirmed how many people are affected.
+</p><p>
+In a statement to <a href="https://videogames.si.com/news/humble-games-layoffs-november-2023">Videogames.si</a>, which first reported the layoffs, Humble confirmed it had said "goodbye to valued coleagues" and blamed the job losses on industry "trends".
+</p> <p><a href="https://www.eurogamer.net/humble-games-latest-to-announce-layoffs">Read more</a></p>
+
+## Five of the Best: Subterranean worlds
+ - [https://www.eurogamer.net/five-of-the-best-subterranean-worlds](https://www.eurogamer.net/five-of-the-best-subterranean-worlds)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T10:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/well_underground.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><em>Five of the Best is a weekly series for <a href="https://www.eurogamer.net/subscribe">supporters of Eurogamer</a>. It's a series that highlights some of the features in games that are often overlooked. It's also about having your say, so don't be shy, use the comments below and join in!</em></p><p><em>Oh and you can find <a href="https://www.eurogamer.net/topics/five-of-the-best">our entire Five of the Best archive</a> elsewhere on the site.</em></p><p>If you can't go up in a game, you can always go down. Simply reverse the progression from up to down and there you go: your game is different. Plus as humans, we're forever fascinated by places we can't go, and down into the fiery core of our planet is absolutely one of them. What's down there - Hell? Dinosaurs? Where there's a gap in our knowledge, there's room for speculation,
+
+## Ark: Survival Ascended's Xbox Series X/S release gets last-minute delay
+ - [https://www.eurogamer.net/ark-survival-ascendeds-xbox-series-xs-release-gets-last-minute-delay](https://www.eurogamer.net/ark-survival-ascendeds-xbox-series-xs-release-gets-last-minute-delay)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-11-15T00:34:36+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ss_41510c0b426ecf626b3d1efd727a9fdd7feeb5ec.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Ark: Survival Ascended - Studio Wildcard's <a href="https://www.eurogamer.net/ark-2-delayed-survival-evolved-official-servers-to-shut-down-later-this-year">controversial</a> Unreal Engine 5 spruce-up of its dinosaur-themed survival game - will no longer launch for Xbox Series X/S on 15th November as originally announced, with the developer now hoping to release the game "later this week".
+</p><p>
+Ark: Survival Ascended is no stranger to delays, of course; the full-price upgrade - which is mandatory for players wishing to continue using Wildcard's official servers - was originally due to launch in August but was delayed to October after Wildcard admitted it "found it challenging working with Unreal Engine 5.2".
+</p><p>
+October did eventually see the <a href="https://www.eurogamer.net/ark-survival-ascende
+

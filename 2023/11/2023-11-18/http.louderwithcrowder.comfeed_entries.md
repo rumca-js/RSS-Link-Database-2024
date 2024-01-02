@@ -1,0 +1,37 @@
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
+
+## FIGHT REVIEW: Dan Bongino & Steven Crowder Breakdown Viral Police Encounters!
+ - [https://www.louderwithcrowder.com/dan-bongino-steven-crowder-fight](https://www.louderwithcrowder.com/dan-bongino-steven-crowder-fight)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-18T13:54:35+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=50509751&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C80" /><br /><br /><p>Fight breakdown with a former Secret Service Agent? Yes, please. </p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">FIGHT REVIEW: Dan Bongino & Steven Crowder Breakdown Viral Police Encounters!</small>
+<small class="image-media media-photo-credit">
+<a href="https://www.youtube.com/watch?v=zmoeAraCXoQ" target="_blank">www.youtube.com</a>
+</small>
+</p>
+
+## Comedian Shares Wild Story On Joe Rogan Podcast: Animal Control Told Me California’s Wild Animals Are On Drugs
+ - [https://www.louderwithcrowder.com/whitney-cummings-racoon](https://www.louderwithcrowder.com/whitney-cummings-racoon)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-18T13:44:44+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50509733&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C294" /><br /><br /><p>For quite some time, liberals have been saying that prohibitions against drugs have triggered a crime wave, and just like the prohibition of alcohol, legal penalties against drugs must end. Some even went as far as to claim that criminal penalties are not a deterrent when it comes to drug use. </p><p>Liberals in California decided to make <a href="https://www.mycaliforniadefenselawyer.com/criminal-charges/cocaine-possession/" rel="noopener noreferrer" target="_blank">simple possession</a> of cocaine a misdemeanor offense. </p><p>Well, things have gotten so bad that even the animals are getting hooked on drugs. </p><p>Doped-out raccoons appear to be the new reality residents may have to deal with in the Golden State. </p><p>The wildlife in California, especially raccoons and coyotes, are tripping on Fentanyl, comedian <a href="
+
+## A wild, sex-crazed, alcohol-fueled Taco Bell Christmas party ends in a lawsuit when someone snitched to HR
+ - [https://www.louderwithcrowder.com/taco-bell-christmas-party-lawsuit](https://www.louderwithcrowder.com/taco-bell-christmas-party-lawsuit)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-18T13:37:13+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=50509712&amp;width=1200&amp;height=600&amp;coordinates=0%2C40%2C0%2C40" /><br /><br /><p>According to a lawsuit, a <a href="https://www.louderwithcrowder.com/taco-bell-going-cashless" target="_blank">Taco Bell</a> employee was forced to quit her job after a wild Christmas party that saw people having threesomes and getting so schnockered they threw up in the plaintiff's guacamole. Apropos of nothing, shout out to <a href="https://www.whiskeyriff.com/2023/11/17/employees-at-a-taco-bell-in-california-threw-a-wild-sex-filled-christmas-party-at-the-restaurant/" target="_blank">Whiskey Riff</a> because I was going to make the same Koe Wetzel joke when I read this story in the <a href="https://nypost.com/2023/11/17/business/taco-bell-christmas-party-included-three-way-sex-romps-lawsuit/" target="_blank">New York Post</a>. IYKYK.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortc
+
+## Of course, the director of Disney's "The Marvels" is blaming her movie tanking on you being a sexist bigot
+ - [https://www.louderwithcrowder.com/why-did-disney-the-marvels-bomb](https://www.louderwithcrowder.com/why-did-disney-the-marvels-bomb)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-18T12:52:44+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=50509488&amp;width=1200&amp;height=800&amp;coordinates=100%2C0%2C100%2C0" /><br /><br /><p>Disney's all-girl comicbook flick <em>The Marvels</em> has tanked at the box office. There are any number of reasons why this is so, but if you ask the director of the movie, the key reason why is YOU. You're too much of a sexist bigot to enjoy her movie. As we've seen since the Girl Ghostbuster movie <a href="https://www.louderwithcrowder.com/why-pro-woman-suicide-squad-made-more-than-ghostbusters" target="_blank">that bombed so badly, it tanked the franchise</a> -- the Girl Ghostbusters franchise, the real Ghostbusters are still solid -- it's never the fault of the movie looking stupid.</p><p>Which <em>The Marvels</em> did. And I say this as someone who enjoyed the <em>Captain Marvel</em> and <em>Ms. Marvel</em> graphic novels, both written by raging leftists I'm sure don't appreciate being mentioned on the Louder with Cro
+

@@ -1,0 +1,142 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## 'No International Students!!' As need grows, Brampton food bank turning some away
+ - [https://www.cbc.ca/news/canada/toronto/no-international-students-as-need-grows-brampton-food-bank-turning-some-away-1.7024375?cmp=rss](https://www.cbc.ca/news/canada/toronto/no-international-students-as-need-grows-brampton-food-bank-turning-some-away-1.7024375?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T18:15:36+00:00
+
+<img alt="Ste Louise Outreach of Peel" height="349" src="https://i.cbc.ca/1.7024415.1699568214!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ste-louise-outreach-of-peel.jpg" title="Ste Louise Outreach of Peel has put out a board &quot;No International Students!!&quot; amid overwhelming demand." width="620" /><p>Ste. Louise Outreach Centre of Peel says it can't provide enough food and other supplies to its customers because of the influx of international students showing up at the food bank since September. But others in the same line of work are calling out the food bank for using anecdotes rather than data to support its decision.</p>
+
+## Nova Scotia MLAs share personal, painful tales of opioid abuse during legislative debate
+ - [https://www.cbc.ca/news/canada/nova-scotia/mla-opioid-abuse-legislative-debate-bill-1.7023906?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/mla-opioid-abuse-legislative-debate-bill-1.7023906?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T15:50:26+00:00
+
+<img alt="A blonde woman with glasses standing wearing a beige coat. " height="349" src="https://i.cbc.ca/1.6790185.1698324025!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kim-masland.jpg" title="Kim Masland, Minister of Public Works announces the Road Trails Act on Friday." width="620" /><p>The comments came during final debate on a bill that would allow Nova Scotia to join other provinces in a class-action lawsuit against opioid manufacturers.</p>
+
+## Trudeau government unveils plans to cut $500 million in spending
+ - [https://www.cbc.ca/news/politics/federal-government-spending-freeze-1.7023982?cmp=rss](https://www.cbc.ca/news/politics/federal-government-spending-freeze-1.7023982?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T14:59:39+00:00
+
+<img alt="A close up photograph of National Defence Minister Anita Anand speaking into a microphone. " height="349" src="https://i.cbc.ca/1.6838595.1699560841!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cda-ukraine-20230510.JPG" title="National Defence Minister Anita Anand responds to a question during a news conference with the Latvian defence minister, Wednesday, May 10, 2023 in Ottawa. " width="620" /><p>Prime Minister Justin Trudeau's government unveiled details of its plan to tighten government spending Thursday — and not all departments are feeling the same impacts.</p>
+
+## 11 people taken to hospital following school bus crash in Burnaby, B.C., paramedics say
+ - [https://www.cbc.ca/news/canada/british-columbia/burnaby-school-bus-crash-11-injured-1.7023882?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/burnaby-school-bus-crash-11-injured-1.7023882?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T13:42:11+00:00
+
+<img alt="A google map showing a red flag in an intersection surrounded by residential homes." height="349" src="https://i.cbc.ca/1.7023885.1699554171!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/canada-way-16th-avenue-burnaby-b-c.JPG" title="The location in Burnaby B.C. where a school bus crashed into a residential home the morning of Thursday, Nov. 9, 2023." width="620" /><p>Paramedics say 11 people were taken to hospital Thursday morning in Burnaby B.C. following a school bus crash on Canada Way at 16th Avenue.</p>
+
+## Police investigating shots fired at 2 Jewish schools in Montreal
+ - [https://www.cbc.ca/news/canada/montreal/jewish-schools-doors-shot-1.7023759?cmp=rss](https://www.cbc.ca/news/canada/montreal/jewish-schools-doors-shot-1.7023759?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T12:11:28+00:00
+
+<img alt="A police car is in front of a building." height="349" src="https://i.cbc.ca/1.7023760.1699549438!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/shots-fired-at-two-jewish-schools-in-montreal-this-morning-image-1.jpg" title="Montreal police say they received two 911 calls, one at around 8:20 a.m., and the second just before 8:50 a.m. " width="620" /><p>Police are investigating whether there is a connection between the two incidents.</p>
+
+## Western University women's hockey coach says she's ready to support team after player threats to boycott games
+ - [https://www.cbc.ca/news/canada/london/western-university-women-s-hockey-coach-says-she-s-ready-to-support-team-after-player-threats-to-boycott-games-1.7023419?cmp=rss](https://www.cbc.ca/news/canada/london/western-university-women-s-hockey-coach-says-she-s-ready-to-support-team-after-player-threats-to-boycott-games-1.7023419?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T09:45:17+00:00
+
+<img alt="A flag flutters on the breeze at Western University in London, Ont." height="349" src="https://i.cbc.ca/1.5946012.1699539784!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/western-university.jpg" title="A flag flutters on the breeze at Western University in London, Ont. " width="620" /><p>Western University's women's hockey coach, who's at the centre of a conflict that saw some players threaten to boycott games, speaks out for the first time, saying she's returning to the ice ready to support the team.</p>
+
+## Western University women's hockey coach says she's ready to support team amid player threats to boycott games
+ - [https://www.cbc.ca/news/canada/london/western-university-women-s-hockey-coach-says-she-s-ready-to-support-team-amid-player-threats-to-boycott-games-1.7023419?cmp=rss](https://www.cbc.ca/news/canada/london/western-university-women-s-hockey-coach-says-she-s-ready-to-support-team-amid-player-threats-to-boycott-games-1.7023419?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T09:45:17+00:00
+
+<img alt="A flag flutters on the breeze at Western University in London, Ont." height="349" src="https://i.cbc.ca/1.5946012.1699539784!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/western-university.jpg" title="A flag flutters on the breeze at Western University in London, Ont. " width="620" /><p>Western University's women's hockey coach, who's at the centre of a conflict that has seen some players threaten to boycott games, speaks out for the first time, saying she's returning to the ice ready to support the team.</p>
+
+## These tiny-home villages for veterans are spreading across Canada
+ - [https://www.cbc.ca/news/canada/edmonton/veteran-village-homes-for-heroes-remembrance-day-soldiers-1.7022449?cmp=rss](https://www.cbc.ca/news/canada/edmonton/veteran-village-homes-for-heroes-remembrance-day-soldiers-1.7022449?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T09:30:00+00:00
+
+<img alt="Man in glasses and a black jacket stands in front of a collection of tiny homes. " height="349" src="https://i.cbc.ca/1.7022499.1699469895!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/michael-schneider.jpg" title="Homes for Heroes case manager Michael Schneider giving a tour of the veteran village at 9320 152A Ave in north Edmonton." width="620" /><p>An idea to create a village of tiny homes to help homeless veterans transition in their civilian lives is expanding from two locations in Alberta to communities in Manitoba and Ontario and organizers hope it's just the beginning. Here's why.</p>
+
+## Requests for medically assisted death in N.L. are multiplying. A handful of MDs are taking them on
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/maid-health-care-shortage-doctors-1.7023354?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/maid-health-care-shortage-doctors-1.7023354?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T07:19:20+00:00
+
+<img alt="Man looking down, purple shirt." height="349" src="https://i.cbc.ca/1.4641376.1699531092!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/dr-aaron-mckim.jpg" title="Dr. Aaron McKim is a St. John&apos;s based family physician and co-ordinator for the medical assistance in dying program at Eastern Health." width="620" /><p>Dr. Aaron McKim, a family physician and the provincial health authority's chief of medical assistance in dying, says applications for medically assisted death in Newfoundland and Labrador are increasing at a pace so that there aren't enough health-care workers available to meet requests.</p>
+
+## Calgary unveils plans to convert 3 downtown office buildings to homes, hotel rooms
+ - [https://www.cbc.ca/news/canada/calgary/calgary-unveils-plans-to-convert-3-downtown-office-buildings-to-homes-hotel-rooms-1.7023265?cmp=rss](https://www.cbc.ca/news/canada/calgary/calgary-unveils-plans-to-convert-3-downtown-office-buildings-to-homes-hotel-rooms-1.7023265?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T07:00:00+00:00
+
+<img alt="Palliser One at 125 Ninth Avenue S.W. is one of three projects flipping office space to residential with the help of $31 million in Calgary taxpayer funding." height="349" src="https://i.cbc.ca/1.6433273.1699544746!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/palliser-one-at-125-ninth-avenue-s-w.jpg" title="Palliser One at 125 Ninth Avenue S.W. is one of three projects flipping office space to residential with the help of $31 million in Calgary taxpayer funding." width="620" /><p>A total of 17 downtown conversion projects in the city’s pipeline would create 2,300 new homes. </p>
+
+## Sudbury chocolatier closing storefront for a time due to outside drug use as BIA, city work on the issue
+ - [https://www.cbc.ca/news/canada/sudbury/toxic-drugs-downtown-sudbury-1.7022599?cmp=rss](https://www.cbc.ca/news/canada/sudbury/toxic-drugs-downtown-sudbury-1.7022599?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T06:00:00+00:00
+
+<img alt="A person asleep outside a downtown storefront." height="349" src="https://i.cbc.ca/1.7022611.1699473244!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/downtown-sudbury-homeless.JPG" title="This alcove outside a vacant downtown Sudbury building is due to be gated off. People experiencing homelessness use areas like these to escape the elements or use drugs." width="620" /><p>A downtown business owner in Sudbury, Ont., says she is closing her storefront for a short time because of open drug use outside her front door. Next month, the city is hosting a summit to help address the issue of toxic drug use.</p>
+
+## N.B. horse transport driver in WWI among the unsung heroes behind the front lines
+ - [https://www.cbc.ca/news/canada/new-brunswick/ralph-johnston-james-hidden-heroes-war-1.7022030?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/ralph-johnston-james-hidden-heroes-war-1.7022030?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T05:00:00+00:00
+
+<img alt="An older man in a blue sports jacket, wearing a poppy, sits in an armchair." height="349" src="https://i.cbc.ca/1.7022905.1699482508!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ralph-johnston.jpg" title="Ralph Johnston says the dangers and hardships his father, along with other logistics soldiers, faced have been little recognized because they were not part of the &apos;fighting force.&apos;" width="620" /><p>James Johnston rode his horse through a small French town toward Vimy Ridge as machine-gun fire sounded around him. He was taking ammunition to troops on the front lines, performing one of the wartime logistics jobs his son believes haven't been celebrated much, despite the dangers. </p>
+
+## With a 'game changer' stroke treatment in doctors' hands comes a new challenge — shaving off the minutes
+ - [https://www.cbc.ca/news/canada/nova-scotia/stroke-treatment-challenges-time-1.7020728?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/stroke-treatment-challenges-time-1.7020728?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T05:00:00+00:00
+
+<img alt="A woman in a blue shirt sits next to a computer screen with an image of a brain on it." height="349" src="https://i.cbc.ca/1.7020882.1699375141!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/noreen-kamal.jpg" title="Noreen Kamal, an associate professor of industrial engineering at Dalhousie University, is shown at her office in Halifax on Tuesday, Nov. 7, 2023.                          " width="620" /><p>A procedure known as endovascular thrombectomy can turn what would be a devastating stroke into something that leaves just a mild disability or none at all. But time is crucial, prompting hospitals to find small efficiencies that can make a huge difference.</p>
+
+## After a lifetime of silence, more female Second World War veterans are telling their stories
+ - [https://www.cbc.ca/news/politics/female-second-world-war-veterans-share-stories-1.7021848?cmp=rss](https://www.cbc.ca/news/politics/female-second-world-war-veterans-share-stories-1.7021848?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T04:00:20+00:00
+
+<img alt="Photograph of three female Second World War veterans sitting together. " height="349" src="https://i.cbc.ca/1.7021849.1699490181!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/betty-phipps-lucille-lane-betty-bell.jpg" title="Veterans Betty Phipps (left), Lucille Lane (centre) and Betty Bell (right) at Perley Health in Ottawa holding photos of themselves in uniform during the Second World War. " width="620" /><p>As the number of Second World War veterans dwindles, more women are stepping out of the shadows and staking a claim to their piece of the war's history.</p>
+
+## 2 restaurants say Ontario unfairly revoked their rights to sell booze
+ - [https://www.cbc.ca/news/canada/ottawa/restaurants-wine-sales-ontario-law-1.7016431?cmp=rss](https://www.cbc.ca/news/canada/ottawa/restaurants-wine-sales-ontario-law-1.7016431?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T04:00:00+00:00
+
+<img alt="Man standing in a grocery store" height="349" src="https://i.cbc.ca/1.7016784.1699479778!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/tony-zacconi.jpeg" title="Tony Zacconi and his family have operated various businesses in Ottawa&apos;s little Italy for decades. He opened Mercato Zacconi in 2021 to take advantage of the new law that allowed licensed restaurants to sell wine and beer to go, " width="620" /><p>Two restaurant owners in Ottawa are fighting for the right to sell takeout alcohol again after being told they weren't allowed because their restaurants are located inside grocery stores, even though they say they are not a grocery store.</p>
+
+## Is that snack chocolate or 'chocolatey'? How skimpflation might be affecting your groceries
+ - [https://www.cbc.ca/news/business/skimpflation-shrinkflation-chocolate-1.7021544?cmp=rss](https://www.cbc.ca/news/business/skimpflation-shrinkflation-chocolate-1.7021544?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T04:00:00+00:00
+
+<img alt="Two boxes of Quaker Dipps granola bars behind a half opened bar showing the chocolately coating. " height="349" src="https://i.cbc.ca/1.7021817.1699482463!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/quaker-dipps-bars.jpg" title="The milk chocolate coating for Quaker Dipps granola bars has now been switched to a &quot;chocolatey&quot; substance made with palm oil. " width="620" /><p>Skimpflation is when companies swap out ingredients in food products for cheaper ones without lowering the price. The practice can be hard to detect because shoppers don't have access to companies' recipes.</p>
+
+## The Windsor, Ont., man behind Creeper Hunter TV has been sentenced. But the story isn't over
+ - [https://www.cbc.ca/news/canada/windsor/creeper-hunter-jason-nassr-windsor-pedophile-vigilantism-1.7015359?cmp=rss](https://www.cbc.ca/news/canada/windsor/creeper-hunter-jason-nassr-windsor-pedophile-vigilantism-1.7015359?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T04:00:00+00:00
+
+<img alt="A bearded man wearing a baseball cap speaks to the camera in a room with computers and audio/visual equipment." height="349" src="https://i.cbc.ca/1.7017602.1699479514!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jason-nassr.jpg" title="Jason Nassr, the Windsor man behind Creeper Hunter TV, in a screen capture from a livestream on the channel. Nassr has since been sentenced for harassment by telecommunications, extortion, and more." width="620" /><p>Documentary maker Matt Gallagher's latest project will focus on families of men who were featured on Jason Nassr's Creeper Hunter TV, a one-man video vigilante project that sought to expose online predators.</p>
+
+## Though winter is coming, fire crews are on the lookout for zombie fires that can spring back to life
+ - [https://www.cbc.ca/news/canada/edmonton/zombie-peat-fires-wildfire-alberta-1.7022806?cmp=rss](https://www.cbc.ca/news/canada/edmonton/zombie-peat-fires-wildfire-alberta-1.7022806?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T04:00:00+00:00
+
+<img alt="A man wearing a yellow shirt and green pants crouches by a tree." height="349" src="https://i.cbc.ca/1.7022818.1699479258!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cold-trailing.jpg" title="Alberta Wildfire winter crew leader Moe Aboughoushe demonstrates how cold trailing works, a process where someone runs their hands through soil to detect if there is any heat, which would indicate embers." width="620" /><p>Though wildfire season in Alberta is officially over, the battle is far from done. Fire crews continue to keep watch for fire that is burning underground and could flare up again in the spring.</p>
+
+## Video of alleged police assault of Mohawk man raises questions about delay in watchdog's probe
+ - [https://www.cbc.ca/news/canada/mohawk-belleville-police-assault-video-1.7023055?cmp=rss](https://www.cbc.ca/news/canada/mohawk-belleville-police-assault-video-1.7023055?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T04:00:00+00:00
+
+<img alt="A man and woman sit at a kitchen table." height="349" src="https://i.cbc.ca/1.7023070.1699488387!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mario-baptiste-jr-and-his-mother-kathy-baptiste.jpg" title="Mario Baptiste Jr and his mother Kathy Baptiste at their home on Tyendinaga Mohawk territory. " width="620" /><p>Ontario's Special Investigations Unit initially balked at investigating an alleged police assault of a Mohawk man that was captured on camera and eventually led to charges against officers from Belleville, Ont., according to recent court testimony.</p>
+
+## Canadian women's hockey team stymied by Frankel as U.S. wins Rivalry Series opener
+ - [https://www.cbc.ca/sports/hockey/canada-united-states-rivalry-series-recap-nov-8-1.7022826?cmp=rss](https://www.cbc.ca/sports/hockey/canada-united-states-rivalry-series-recap-nov-8-1.7022826?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-09T00:29:26+00:00
+
+<img alt="A female hockey goaltender down on the ice stops a shot with her right pad from close range." height="349" src="https://i.cbc.ca/1.7023287.1699508327!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/canada-us-womens-hockey.jpg" title="United States goaltender Aerin Frankel makes a save on Canada forward Jamie Lee Rattray during the second period of Canada&apos;s 3-1 loss in the 2023-24 Rivalry Series opener on Wednesday at Mullett Arena in Tempe, Ariz. " width="620" /><p>Hilary Knight had a goal and an assist, Aerin Frankel stopped 35 shots and the United States beat Canada 3-1 in the opener of the Rivalry Series on Wednesday night in Tempe, Ariz.</p>
+

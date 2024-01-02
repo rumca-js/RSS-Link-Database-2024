@@ -1,0 +1,366 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed/, language:en-US
+
+## Pakistan to announce new monetary policy rate on Dec 12; Here’s what we know
+ - [https://pakobserver.net/pakistan-to-announce-new-monetary-policy-rate-on-dec-12-heres-what-we-know](https://pakobserver.net/pakistan-to-announce-new-monetary-policy-rate-on-dec-12-heres-what-we-know)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T17:13:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/SBP-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan&#8217;s state bank will announce the key policy rate after a meeting of the Monetary Policy Committee (MPC) on Tuesday. As the Asian nation is recovering from the economic crisis, State Bank of Pakistan is expected to keep key interest rates unchanged. The country witnessed a surge of 1.16 percent in the combined consumption groups [&#8230;]
+
+## Bilawal Bhutto Zardari getting engaged this week but who is the girl?
+ - [https://pakobserver.net/bilawal-bhutto-zardari-getting-engaged-this-week-but-who-is-the-girl](https://pakobserver.net/bilawal-bhutto-zardari-getting-engaged-this-week-but-who-is-the-girl)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T16:55:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/bilawal-bhutto-reacts-to-hareem-shah-s-marriage-with-ppp-leader-1625130553-5725-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PPP leader Bilawal Bhutto Zardari is all set to get engaged this week, and the buzz has become the talk of the town, with Pakistanis remain curious about the girl. The country’s youngest foreign minister is all set for his engagement, which is reportedly slated to be held on December 15 or 16. As Bhutto [&#8230;]
+
+## Firing at MQM-P election office in Karachi’s Machar Colony leaves three dead
+ - [https://pakobserver.net/firing-at-mqm-p-election-office-in-karachis-machar-colony-leaves-three-dead](https://pakobserver.net/firing-at-mqm-p-election-office-in-karachis-machar-colony-leaves-three-dead)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T15:42:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/60192ba37e2c3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; In a horrific incident, at least political party workers were killed in Karachi&#8217;s Machar Colony on Monday. MQM Pakistan official Humayun Khan told media that at least three people were killed as two groups exchanged gunfire over dispute. Soon after the triple murder, Karachi police conducted raids and held suspects. To ensure law [&#8230;]
+
+## Honda CD 70 2024 Zero markup installment plan with MCB (Dec 2023)
+ - [https://pakobserver.net/honda-cd-70-2024-zero-markup-installment-plan-with-mcb-dec-2023](https://pakobserver.net/honda-cd-70-2024-zero-markup-installment-plan-with-mcb-dec-2023)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T15:07:35+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/367991189_626177659654900_5691236453566470318_n-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Honda bikes continue to rule Pakistani streets, with its entry-level ride Honda CD 70 remaining among most popular units, making almost more than 50 percent of the total bikes in this category. The cheapest two-wheeler of Japanese auto-giant remained famous for its decent economy if compared to Chinese competitors, and people still prefer the Honda [&#8230;]
+
+## Kuwait Family Visa 2024: Check categories, requirements, eligibility and other details here
+ - [https://pakobserver.net/kuwait-family-visa-2024-check-categories-requirements-eligibility-and-other-details-here](https://pakobserver.net/kuwait-family-visa-2024-check-categories-requirements-eligibility-and-other-details-here)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T14:30:32+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/hhk5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Getting a visa for Kuwait is not easy but the process varies depending on the applicant’s nationality. Generally, the process involves basic documentation, such as a passport, application forms, and possibly additional supporting materials. In a recent update, the Middle Eastern country announced receiving applicants starting next year. Kuwait Family Visa Ministry of Interior announced [&#8230;]
+
+## Weather outlook of Lahore, Punjab; smog/fog continues to persist
+ - [https://pakobserver.net/weather-outlook-of-lahore-punjab-smog-fog-continues-to-persist](https://pakobserver.net/weather-outlook-of-lahore-punjab-smog-fog-continues-to-persist)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T13:36:33+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/fogy-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The Pakistan Meteorological Department (PMD) has predicted mainly cold and dry weather for most parts of Punjab including Lahore during the next couple of days. According to the synoptic situation, continental air prevails over most parts of Pakistan. Under these conditions, mainly cold and dry weather is expected across Punjab on Monday night [&#8230;]
+
+## Punjab imposes toll tax on 18 roads
+ - [https://pakobserver.net/punjab-imposes-toll-tax-on-18-roads](https://pakobserver.net/punjab-imposes-toll-tax-on-18-roads)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T13:14:04+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/toll-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; The Punjab government has decided to impose toll tax on 18 different roads with the purpose to generate revenue for development and maintenance of infrastructure. As per the media reports, the Punjab cabinet has granted approval and notification in this regard would be soon issued by the Finance and Communication and Works departments. [&#8230;]
+
+## LDA demolishes, seals 11 buildings for violation of bylaws in Lahore
+ - [https://pakobserver.net/lda-demolishes-seals-11-buildings-for-violation-of-bylaws-in-lahore](https://pakobserver.net/lda-demolishes-seals-11-buildings-for-violation-of-bylaws-in-lahore)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T12:32:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/LDA0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The Lahore Development Authority has continued operation against violation of bylaws and illegal commercial use in Lahore. On Monday, LDA teams demolished/sealed several buildings in Johar Town and adjoining localities for violation of bylaws and illegal commercial use. LDA team demolished six illegal buildings in Johar Town, Military Accounts Society, Pine Avenue, Al-Hamra [&#8230;]
+
+## Pakistan ready for Australia Test challenge
+ - [https://pakobserver.net/pakistan-ready-for-australia-test-challenge](https://pakobserver.net/pakistan-ready-for-australia-test-challenge)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T12:13:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/MH-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PERTH &#8211; Pakistan Men’s Team director Mohammad Hafeez says the Green Shirts are ready for the Test series challenge against Australia. He vowed that Pakistan are not here to compete but to beat Australia. The first Test match between Pakistan and Australia starts at Perth Stadium on 14 December. Addressing the media after Pakistan’s first [&#8230;]
+
+## Latest update on issuance of arms license in Islamabad
+ - [https://pakobserver.net/latest-update-on-issuance-of-arms-license-in-islamabad](https://pakobserver.net/latest-update-on-issuance-of-arms-license-in-islamabad)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T12:03:08+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/Arms-License-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; The government has made it mandatory for the public to attend three-day training in order to obtain arms license in the country&#8217;s federal capital Islamabad. In this regard, the federal cops took several steps and police will now train citizens who want to get the license. As per the new directives issued by [&#8230;]
+
+## Pakistan Women want to continue winning ways in ODIs
+ - [https://pakobserver.net/pakistan-women-want-to-continue-winning-ways-in-odis](https://pakobserver.net/pakistan-women-want-to-continue-winning-ways-in-odis)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T11:55:08+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/PW-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />QUEENSTOWN &#8211; Nida Dar-led Pakistan women’s cricket team will be eying to repeat the heroics of the T20I series, when they take on New Zealand women’s team in the first of the three-match ODI series tomorrow at the John Davies Oval in Queenstown. The second and third ODIs will be played on 15 and 18 [&#8230;]
+
+## Pakistani rupee’s winning streak against dollar ends; Check latest rates here
+ - [https://pakobserver.net/pakistani-rupees-winning-streak-against-dollar-ends-check-latest-rates-here](https://pakobserver.net/pakistani-rupees-winning-streak-against-dollar-ends-check-latest-rates-here)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T11:40:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/PKR-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; Pakistani rupee witnessed a slight dip, marking the end of winning streak amidst increased pressure for foreign currency demand for imports. Data shared by the central bank shows local currency moving down in the inter-bank market on the first working day of the week. As per the latest rates, the rupee settled at [&#8230;]
+
+## Weather update for Islamabad, Pakistan; smog/fog persists in plains
+ - [https://pakobserver.net/weather-update-for-islamabad-pakistan-smog-fog-persists-in-plains](https://pakobserver.net/weather-update-for-islamabad-pakistan-smog-fog-persists-in-plains)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T11:01:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/fogg-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The Pakistan Meteorological Department (PMD) has forecast mainly cold and dry weather for most parts of Pakistan including Islamabad and Rawalpindi during the next two days. According to the synoptic situation, continental air prevails over most parts of Pakistan. Under these conditions, mainly cold and dry weather is expected in the twin cities [&#8230;]
+
+## ADB approves $155.5mn to enhance women’s access to finance in Pakistan
+ - [https://pakobserver.net/adb-approves-155-5mn-to-enhance-womens-access-to-finance-in-pakistan](https://pakobserver.net/adb-approves-155-5mn-to-enhance-womens-access-to-finance-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T10:45:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/ADB-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Asian Development Bank (ADB) has approved $155.5 million in financing for supporting policy reforms to enhance women’s and women-led micro, small, and medium-sized enterprises’s access to finance. As per media reports, the financing includes a $100 million policy-based loan to support legal and regulatory reforms, a $50 million financial intermediation loan and a $5.5 [&#8230;]
+
+## LHC orders Punjab police to produce Khadija Shah at 2 PM today
+ - [https://pakobserver.net/lhc-orders-punjab-police-to-produce-khadija-shah-at-2-pm-today](https://pakobserver.net/lhc-orders-punjab-police-to-produce-khadija-shah-at-2-pm-today)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T07:59:08+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/Khadija-Shah-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE- The Lahore High Court (LHC) has ordered the Punjab police to produce Khadija Shah, a Pakistan Tehreek-e-Insaf (PTI) activist, before it at 2 PM today. Justice Ali Baqir Najafi passed the orders on plea moved by Jahanzaib Amin, the husband of Khadija Shah, against her house arrest. “If Khadija Shah is not produced before [&#8230;]
+
+## Will petrol price go down in Pakistan on December 16?
+ - [https://pakobserver.net/will-petrol-price-go-down-in-pakistan-on-december-16](https://pakobserver.net/will-petrol-price-go-down-in-pakistan-on-december-16)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T07:40:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/petrol-price-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD- A considerable decrease in the prices of petroleum products is anticipated from December 16, following a $5.49 per barrel reduction in the global market price of petrol. After this reduction, there is a potential for a Rs. 13 decrease in the price of petrol per liter and a Rs. 15 decrease in the price [&#8230;]
+
+## Ushna Shah, others condemn Int’l Zara Brand over controversial shoot
+ - [https://pakobserver.net/ushna-shah-others-condemn-intl-zara-brand-over-controversial-shoot](https://pakobserver.net/ushna-shah-others-condemn-intl-zara-brand-over-controversial-shoot)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T07:17:44+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/Ushna-Shah-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE- Prominent Lollywood actresses Ushna Shah and Mishi Khan, along with a multitude of social media users, are leading a boycott against the international fashion giant &#8216;Zara&#8217; following a contentious photoshoot. The actresses, known for their activism and vocal opinions, have raised questions about the appropriateness of Zara&#8217;s recent campaign. Ushna Shah, famed for her [&#8230;]
+
+## Info Minister confirms February 8, 2024 as poll date
+ - [https://pakobserver.net/info-minister-confirms-february-8-2024-as-poll-date](https://pakobserver.net/info-minister-confirms-february-8-2024-as-poll-date)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T06:59:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/Info-Minister-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD- Caretaker Minister for Information, Broadcasting and Parliamentary Affairs Murtaza Solangi has said that general elections in the country will be held on 8th February next year. Speaking at private television channel program, he said the growing momentum in the election campaign by the political parties is an evidence of the elections in the country. [&#8230;]
+
+## Indian SC upholds Modi-govt’s revocation of Article 370 of IIOJK
+ - [https://pakobserver.net/indian-sc-upholds-modi-govts-revocation-of-article-370-of-iiojk](https://pakobserver.net/indian-sc-upholds-modi-govts-revocation-of-article-370-of-iiojk)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T06:43:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/Indian-SC-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />NEW DEHLI-   The Indian Supreme Court on Monday announced verdict on appeals against the revocation of the special status of occupied Kashmir under Article 370, upholding the decision of the Hindu extremist Modi government dated August 5, 2019. Chief Justice of the Indian Supreme Court, D. V. Chandrachud while heading a five-member bench held that [&#8230;]
+
+## Imran Khan, Shah Mahmood Qureshi granted bail in various cases
+ - [https://pakobserver.net/imran-khan-shah-mahmood-qureshi-granted-bail-in-various-cases](https://pakobserver.net/imran-khan-shah-mahmood-qureshi-granted-bail-in-various-cases)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T06:37:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/khan8-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – An anti-terrorism court in the federal capital granted bail to former Pakistan Tehreek-e-Insaf (PTI) Imran Khan in three cases while his PTI vice president Shah Mahmood Qureshi got bail in two cases. Justice Abul Gasnat Zulqarnain of the anti-terrorism court approved the bail for the founder of PTI and Qureshi. Prosecutor Raja Naveed [&#8230;]
+
+## Cricket Australia to provide alcohol free bay for Pakistani fans
+ - [https://pakobserver.net/cricket-australia-to-provide-alcohol-free-bay-for-pakistani-fans](https://pakobserver.net/cricket-australia-to-provide-alcohol-free-bay-for-pakistani-fans)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T06:27:10+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/perth-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PERTH- In a proactive move, Cricket Australia is set to provide a unique and inclusive experience for Pakistani cricket enthusiasts during the upcoming first Test of the Benaud Qadir Trophy at Perth Stadium on December 14. With significant anticipation surrounding the event, over 18,000 tickets have already been sold for the highly awaited match. To [&#8230;]
+
+## Expected petrol, diesel prices in Pakistan from December 16
+ - [https://pakobserver.net/expected-petrol-diesel-prices-in-pakistan-from-december-16](https://pakobserver.net/expected-petrol-diesel-prices-in-pakistan-from-december-16)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T06:25:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/06/petrol-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Amid declining international prices, the caretaker federal government is expected to provide relief to masses in Pakistan in upcoming fortnightly review of petrol and diesel prices. Reports and $5.49 per barrel decrease has been witnessed in petrol prices in international market. They added that the Pakistan government is likely to decrease the petrol [&#8230;]
+
+## Apply online for learner driving license in Punjab; Step-by-Step process
+ - [https://pakobserver.net/apply-online-for-learner-driving-license-in-punjab-step-by-step-process](https://pakobserver.net/apply-online-for-learner-driving-license-in-punjab-step-by-step-process)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T06:05:35+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/dlims-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The Punjab government has launched an online system to obtain a learner driving license across the province in order to facilitate the citizens. The development comes after crowd was witnessed at offices issuing licenses. Punjab caretaker Chief Minister Mohsin Naqvi had ordered the launch of the service after he visiting various offices in [&#8230;]
+
+## Currency exchange rates in Pakistan today – December 11, 2023
+ - [https://pakobserver.net/currency-exchange-rates-in-pakistan-today-december-11-2023](https://pakobserver.net/currency-exchange-rates-in-pakistan-today-december-11-2023)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T05:40:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/curreny-rate-today-15-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The exchange rate for one US Dollar against Pakistani Rupees was recorded at Rs 283.8 in the local and open market, with a selling rate of Rs 285.9 on Monday, December 11, 2023. Note: Exchange rates can vary based on the location and the Exchange Company or bank involved in the transaction. Below are [&#8230;]
+
+## Gold rate in Pakistan today – 11 December, 2023
+ - [https://pakobserver.net/gold-rate-in-pakistan-today-11-december-2023](https://pakobserver.net/gold-rate-in-pakistan-today-11-december-2023)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T05:19:35+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/gold-rate-in-pakistan-today-24-March-2023-1-1024x576-4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The gold rate of 24-karat is being traded at PKR 216,300 on Monday, December 11, 2023. Similarly, the gold price for 24-karat was recorded at Rs 185,450 per 10g as per the bullion market. Gold Price in Pakistan’s different cities. City Gold Silver Karachi PKR 216,300 PKR 2,450 Lahore PKR 216,300 PKR 2,450 [&#8230;]
+
+## Gold rate in Saudi Arabia today – 11 December 2023
+ - [https://pakobserver.net/gold-rate-in-saudi-arabia-today-11-december-2023](https://pakobserver.net/gold-rate-in-saudi-arabia-today-11-december-2023)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T05:14:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/gold6-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The price of per tola price 24-karat gold in Saudi Arabia on Monday dropped to 2,816 Saudi Riyal (SAR), according to forex.pk. Furthermore, the 10 grams of 24-k gold is being sold for SAR 2,417 in the kingdom while the per ounce gold price stands at SAR 7,516. Note: The gold price across [&#8230;]
+
+## UK Pound to PKR rate today – 11 December 2023
+ - [https://pakobserver.net/uk-pound-to-pkr-rate-today-11-december-2023](https://pakobserver.net/uk-pound-to-pkr-rate-today-11-december-2023)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T05:11:08+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/pound-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The UK Pound Sterling stands at Rs358.5 in Pakistan while its selling rate stands at Rs362 without any change on Monday in open market of Pakistan. GBP to PKR Rate – 11 December 2023 Date  Latest Exchange Rate CHANGE  December 11, 2023 Rs. 358.5 0 December 09, 2023 Rs. 358.5 https://pakobserver.net/dirham-to-pak-rupee-rate-today-aed-to-pkr-28-september-2023/ &#160;
+
+## Saudi Riyal to PKR rate today – 11 December 2023
+ - [https://pakobserver.net/saudi-riyal-to-pkr-rate-today-11-december-2023](https://pakobserver.net/saudi-riyal-to-pkr-rate-today-11-december-2023)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T05:09:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/riyal-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The buying rate for Saudi Arabia Riyal rate in Pakistan stands unchanged at Rs76 while the selling rate is Rs76.8 on Monday, according to forex.pk. SAR to PKR Rate – 11 December 2023 Date  Latest Exchange Rate CHANGE  December 11, 2023 Rs. 76 0 December 09, 2023 Rs. 76 &#160; &#160;
+
+## Dirham to PKR rate today – 11 December 2023
+ - [https://pakobserver.net/dirham-to-pkr-rate-today-11-december-2023](https://pakobserver.net/dirham-to-pkr-rate-today-11-december-2023)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T05:07:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/dirham-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – United Arab Emirates (UAE) Dirham buying rate in open market of Pakistan stands at Rs77.2 on Monday while the selling rate is Rs78. AED to PKR Rate – 11 December 2023 Date  Latest Exchange Rate CHANGE  December 11, 2023 Rs77.2 0 source: forex.pk https://pakobserver.net/currency-exchange-rates-in-pakistan-today-october-13-2023/
+
+## 40000 Prize Bond 2023 – Check Dec Draw Results here
+ - [https://pakobserver.net/40000-prize-bond-2023-check-dec-draw-results-here](https://pakobserver.net/40000-prize-bond-2023-check-dec-draw-results-here)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T04:49:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/40000-premium-prize-bond-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />National Savings Division’s Quetta office holds draw of 40000 Prize Bond, the top denomination that comes with a huge prize of Rs75 million. 40000 Prize Bond 2023 Draw number 27 of Rs 40000 prize bond list 2023 will be announced on December 11, 2023 (Monday) at the Karachi office. Rs40000 Prize Bond 2023 Results Stay [&#8230;]
+
+## 25000 Prize Bond 2023 – check draw results here Dec update
+ - [https://pakobserver.net/25000-prize-bond-2023-check-draw-results-here-dec-update](https://pakobserver.net/25000-prize-bond-2023-check-draw-results-here-dec-update)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T04:39:32+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/25000-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Prize bonds are said to be solid investments as Pakistanis buy bonds with different denominations, and the bond balloting is regulated by the State Bank of Pakistan (SBP). National Savings Division’s Rawalpindi office holds Prize Bond Rs25000 draw No. 12 today December 11, 2023 (Monday). Rs25000 Prize Bond 2023 Rs. 25000 Prize Bond Draw and [&#8230;]
+
+## Pakistan has potential to be world’s fast growing economy: Yi Sang Ho
+ - [https://pakobserver.net/pakistan-has-potential-to-be-worlds-fast-growing-economy-yi-sang-ho](https://pakobserver.net/pakistan-has-potential-to-be-worlds-fast-growing-economy-yi-sang-ho)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:37:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/02-4-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Zubair Yaqoob Karachi Consul General of the Republic of Korea (ROK) Yi Sang Ho has said that Pakistan and Korea relations have grown in all fields especially in trade and investment. While welcoming the chairman &#38; CEO Pakistan Observer Faisal Zahid Malik at Karachi consulate, the CG Republic of Korea Yi Sang Ho said that [&#8230;]
+
+## Pakistan has potential to be world’s fast growing economy: Yi Sang Ho
+ - [https://pakobserver.net/pakistan-has-potential-to-be-worlds-fast-growing-economy-yi-sang-ho-1](https://pakobserver.net/pakistan-has-potential-to-be-worlds-fast-growing-economy-yi-sang-ho-1)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:37:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/02-4-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Consul General of the Republic of Korea Yi Sang Ho and Chairman &#38; CEO of Pakistan Observer Mr. Faisal Zahid Malik discussing the bilateral relations during a meeting at the Karachi Consulate.— PO photo by Nauman &#160; Zubair Yaqoob Karachi Consul General of the Republic of Korea (ROK) Yi Sang Ho has said that Pakistan [&#8230;]
+
+## Zardari calls upon UN to strictly implement its charter on human rights
+ - [https://pakobserver.net/zardari-calls-upon-un-to-strictly-implement-its-charter-on-human-rights](https://pakobserver.net/zardari-calls-upon-un-to-strictly-implement-its-charter-on-human-rights)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:37:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/02/Zardari-serious-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Former president and PPP Co-Chairman Asif Ali Zardarihas called upon the United Nations to play an effective role in ensuring respect for human rights in the world. In his message on the occasion of International Human Rights Day Sunday, Zardari urged the United Nations to strictly implement its Charter on Human Rights. He said that [&#8230;]
+
+## ECP refutes claims of issuing general elections’ schedule
+ - [https://pakobserver.net/ecp-refutes-claims-of-issuing-general-elections-schedule](https://pakobserver.net/ecp-refutes-claims-of-issuing-general-elections-schedule)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:37:26+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/ecp-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Election Commission of Pakistan (ECP) has categorically denied the issuance of any schedule for the upcoming general elections. A spokesman of ECP, strongly denied a news item published in daily Jang is unfounded and having no basis. The spokesperson clarified that the schedule circulating on social media is fraudulent. The Election Commission spokesperson noted [&#8230;]
+
+## Robust revival of Pakistan ideology to guarantee national cohesion: Attique
+ - [https://pakobserver.net/robust-revival-of-pakistan-ideology-to-guarantee-national-cohesion-attique](https://pakobserver.net/robust-revival-of-pakistan-ideology-to-guarantee-national-cohesion-attique)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:37:26+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/08/attique-ahmad-khan_400-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Hameed Shaheen Alvi Rawalpindi Sardar Attique Ahmed Khan ex-Premier AJK has said that robust revival of Pakistan’s ideology at youth level will guarantee stronger national cohesion, forward-march direction, discipline enabling the nation from Karachi to Kashmir to surmount all geo-political odds. Basis of existence of Pakistan and Kashmir struggle is the ideology on which national [&#8230;]
+
+## Political parties appeal to resolve issues of Angoor Adda
+ - [https://pakobserver.net/political-parties-appeal-to-resolve-issues-of-angoor-adda](https://pakobserver.net/political-parties-appeal-to-resolve-issues-of-angoor-adda)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:37:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/pak-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Adam Khan Wazir Wana In a significant development, leaders from various political parties came together to address the prolonged sit-in at Angoor Adda on the Pak-Afghan border, urging the government to initiate positive negotiations with the AhmadzaiWazir tribes who have been protesting for the past 26 days. An emergency press conference was convened at the [&#8230;]
+
+## Three killed, eight injured in road accident
+ - [https://pakobserver.net/three-killed-eight-injured-in-road-accident](https://pakobserver.net/three-killed-eight-injured-in-road-accident)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:37:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/02/kill-33-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Three people were killed while eight others sustained multiple wounds in a road accident, in the jurisdiction of Sadr police station Bhakkar. According to police, Muhammad Asif (40), Muhammad Gulzar (45) and Muhammad Tahir (16) were going to Saraee Muhajir on a motorcycle when a recklessly driven commuters van hit their two-wheeler near Ajnaala road. [&#8230;]
+
+## 425 kg drugs recovered in 10 operations
+ - [https://pakobserver.net/425-kg-drugs-recovered-in-10-operations](https://pakobserver.net/425-kg-drugs-recovered-in-10-operations)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:37:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/ANF-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Anti-Narcotics Force (ANF) in its crackdown against drug traffickers conducted 10 operations across the country and recovered 425 kg drugs besides arresting seven accused, said an ANF Headquarters spokesperson. He informed that 1400 grams Ice drug was recovered from a passenger’s trolley bag at Allama Iqbal International Airport. The accused resident of Lahore was leaving [&#8230;]
+
+## Fair elections to put country on progress
+ - [https://pakobserver.net/fair-elections-to-put-country-on-progress](https://pakobserver.net/fair-elections-to-put-country-on-progress)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:37:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/Raja-Pervaiz-Ashraf-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Former prime minister, speaker National Assembly Raja Pervez Ashraf said that fair, free and transparent elections were imperative to put the country on road to progress in addition to restoring the trust of general public on elected government While talking to media persons, he said that 8th February was fixed for general elections. Hence all [&#8230;]
+
+## Martyrdom anniversary of Sowar Muhammad Hussain observed
+ - [https://pakobserver.net/martyrdom-anniversary-of-sowar-muhammad-hussain-observed](https://pakobserver.net/martyrdom-anniversary-of-sowar-muhammad-hussain-observed)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:37:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/Sowar-Muhammad-Hussain-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The 52nd martyrdom Anniversary of Sowar Muhammad Hussain Shaheed, Nishan-e-Haider was observed on Sunday. A smartly turned out contingent of Pakistan Army presented guard of honour at his mausoleum in Gujar Khan. The officers of Pakistan Army laid floral wreaths at the Mausoleum and offered Fateha and paid tribute to the Sowar Muhammad HussainShaheed. During [&#8230;]
+
+## AJK govt to implement its uplift agenda
+ - [https://pakobserver.net/ajk-govt-to-implement-its-uplift-agenda](https://pakobserver.net/ajk-govt-to-implement-its-uplift-agenda)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:37:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/05/1062546_3629901_chaudhry-anwar-ul-haq_updates-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Azad Jammu and Kashmir (AJK) Prime Minister Chaudhry Anwar ul Haq has said that the coalition government was hectically engaged in its efforts to solve people’s problems and implement its development agenda in the state. While talking to a public delegation that called on him at Jammu Kashmir House in the Federal metropolis on Friday, [&#8230;]
+
+## Mushaal underscores significance of aesthetic medicine
+ - [https://pakobserver.net/mushaal-underscores-significance-of-aesthetic-medicine](https://pakobserver.net/mushaal-underscores-significance-of-aesthetic-medicine)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:25:31+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/a-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Zubair Qureshi Special Advisor to Prime Minister on Human Rights (HR) MushaalMullick on Sunday hailed the establishment of the first-ever Association of Aesthetic Physicians of Pakistan (AAPP) and underscored the significance of aesthetic medicine on the occasion. Addressing as chief guest the inaugural ceremony of the Association of Aesthetic Physicians of Pakistan (AAPP) Mushaal emphasized [&#8230;]
+
+## USAID reaffirms commitment to women empowerment in Pakistan
+ - [https://pakobserver.net/usaid-reaffirms-commitment-to-women-empowerment-in-pakistan](https://pakobserver.net/usaid-reaffirms-commitment-to-women-empowerment-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:25:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/05/USAID-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Zubair Qureshi The ‘16 Days of Activism against Gender-Based Violence’ campaign concluded on Sunday with a commitment from the partners and stakeholders to uphold the cause for women empowerment and support them in actively participating in all spheres of life including business and entrepreneurship, science &#38; technology, politics, medicines, education and other areas. The international [&#8230;]
+
+## 4th BRI Chinese training course for Police inaugurated
+ - [https://pakobserver.net/4th-bri-chinese-training-course-for-police-inaugurated](https://pakobserver.net/4th-bri-chinese-training-course-for-police-inaugurated)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:25:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/tw-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The fourth “Belt and Road” Chinese Training Course for police officers in Pakistan was inaugurated with the aim of improving the language and cross-cultural communication skills of Pakistani police personnel. The initiative also seeks to strengthen police cooperation between China and Pakistan and enhance the friendship and mutual trust between the two countries. The two-week [&#8230;]
+
+## Fawad’s one-day physical remand accepted
+ - [https://pakobserver.net/fawads-one-day-physical-remand-accepted](https://pakobserver.net/fawads-one-day-physical-remand-accepted)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:25:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/10/fawad-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Former federal minister Fawad Chaudhry’s one-day physical remand in a corruption case has been accepted. After the decision, he was handed over to the Anti-Corruption Establishment and would be now presented before an anti-corruption court on Monday, December 11.
+
+## Campaign launched to ensure pedestrians’ rights
+ - [https://pakobserver.net/campaign-launched-to-ensure-pedestrians-rights](https://pakobserver.net/campaign-launched-to-ensure-pedestrians-rights)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:25:26+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/ibd-police-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Islamabad Capital Police has launched a campaign against those involved in parking their vehicles wrongly and creating problems in smooth flow of traffic by occupying footpath areas. Following the directions of Islamabad Capital City Police Officer (ICCPO) Dr. Akbar Nasir Khan, the Islamabad Capital Police has launched this campaign and Chief Traffic Officer Islamabad is [&#8230;]
+
+## DG Customs robbed at gunpoint in Islamabad
+ - [https://pakobserver.net/dg-customs-robbed-at-gunpoint-in-islamabad](https://pakobserver.net/dg-customs-robbed-at-gunpoint-in-islamabad)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:25:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/tw-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In a brazen daylight robbery, armed men snatched mobile phone of the Director General (DG) of Customs while he was on a walk near the Ramna police station in Islamabad on Sunday. This incident has sparked concerns over the rise of robberies and thefts in the federal capital. According to reports, the DG parked his [&#8230;]
+
+## Nafees urges greater responsibility for major polluters
+ - [https://pakobserver.net/nafees-urges-greater-responsibility-for-major-polluters](https://pakobserver.net/nafees-urges-greater-responsibility-for-major-polluters)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:25:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/tw-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Executive Director, Ambassador Dr. M. NafeesZakaria, of the Commission on Science and Technology for Sustainable Development in the South (COMSATS) urges greater responsibility for major polluters. He said this while making his policy interventions on ‘Climate Justice Diplomacy’ at the High-Level Segment of United Nations Climate Change Conference at Dubai. Ambassador Zakaria stated that [&#8230;]
+
+## Commissioner for swift completion of all arrangements for general elections
+ - [https://pakobserver.net/commissioner-for-swift-completion-of-all-arrangements-for-general-elections](https://pakobserver.net/commissioner-for-swift-completion-of-all-arrangements-for-general-elections)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:25:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/tw-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Commissioner of Rawalpindi Division Liaquat Ali Chatta has directed the authorities concerned to swiftly complete all the arrangements for general elections in 2024. According to a commissioner office spokesman, the commissioner had instructed the authorities to finalize the best possible arrangements to ensure the transparent conduct of general elections. The Divisional Administration would provide [&#8230;]
+
+## CTP imposes over Rs135m fine over traffic violations so far
+ - [https://pakobserver.net/ctp-imposes-over-rs135m-fine-over-traffic-violations-so-far](https://pakobserver.net/ctp-imposes-over-rs135m-fine-over-traffic-violations-so-far)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:25:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/police-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />City Traffic Police (CTP) has imposed over Rs 135 million fine by issuing challan tickets to 3,75,400 violators on traffic violations so far during the current fiscal year 2023. The CTP has issued an enforcement report of the ongoing fiscal year in which action was taken on lane line violations, overloading, one-way violations, and other [&#8230;]
+
+## Pneumonia symptoms can vary from so mild to so severe
+ - [https://pakobserver.net/pneumonia-symptoms-can-vary-from-so-mild-to-so-severe](https://pakobserver.net/pneumonia-symptoms-can-vary-from-so-mild-to-so-severe)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-12-11T00:19:45+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/h1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Pneumonia symptoms can vary from so mild you barely notice them, to so severe that hospitalization is required. How your body responds to pneumonia depends on the type germ causing the infection, your age and your overall health. Pneumonia is an infection that affects one or both lungs. It causes the air sacs, or [&#8230;]
+

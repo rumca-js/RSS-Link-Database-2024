@@ -1,0 +1,72 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Olympic medallist among 3 new senators appointed by Trudeau
+ - [https://www.cbc.ca/news/politics/new-senators-mcbean-senior-varone-1.7065448?cmp=rss](https://www.cbc.ca/news/politics/new-senators-mcbean-senior-varone-1.7065448?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-20T15:32:38+00:00
+
+<img alt="Headshots of three people including two women." height="349" src="https://i.cbc.ca/1.7065530.1703103561!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/marnie-mcbean-paulette-senior-toni-varone-composite.jpg" title="Composite illustration featuring Marnie McBean, left, Paulette Senior, centre, and Toni Varone." width="620" /><p>Prime Minister Justin Trudeau has appointed a former Olympian, a philanthropist and the head of the Canadian Women's Foundation to the Senate.</p>
+
+## Winnipeg police search for 3 people after woman assaulted, bound and left in dumpster
+ - [https://www.cbc.ca/news/canada/manitoba/attempted-murder-investigation-winnipeg-1.7065248?cmp=rss](https://www.cbc.ca/news/canada/manitoba/attempted-murder-investigation-winnipeg-1.7065248?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-20T13:09:11+00:00
+
+<img alt="A white police car with black lettering is seen close up and from the side. Blurred yellow police tape is seen in the foreground." height="349" src="https://i.cbc.ca/1.5031367.1678466187!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/winnipeg-police-stock-photo-police-car.JPG" title="A Winnipeg police car on Feb. 23, 2019." width="620" /><p>Winnipeg police are asking for help finding three people they believe violently assaulted and forcibly restrained a 27-year-old woman last week. </p>
+
+## CRA has fired 185 employees for 'inappropriately' claiming pandemic CERB benefits
+ - [https://www.cbc.ca/news/politics/cerb-cra-employees-fired-1.7065204?cmp=rss](https://www.cbc.ca/news/politics/cerb-cra-employees-fired-1.7065204?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-20T12:12:50+00:00
+
+<img alt="A sign outside the Canada Revenue Agency is seen Monday May 10, 2021 in Ottawa. " height="349" src="https://i.cbc.ca/1.6937288.1693579417!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/fedbudget-tax-filing-20230330.JPG" title="A CBC News analysis of Canada Revenue Agency (CRA) call times found taxpayers wait much longer to get through to an agent than the hold times advertised on the agency&apos;s website. Canada&apos;s taxpayers&apos; ombudsperson is launching an inquiry into the sometimes hours-long wait times that callers face." width="620" /><p>The Canada Revenue Agency says 185 employees have been fired to date for claiming a federal COVID-19 benefit when they were not eligible for it.</p>
+
+## Frog Lake First Nation woman hired as etalk's first Indigenous host
+ - [https://www.cbc.ca/news/canada/saskatchewan/frog-lake-first-nation-woman-etalks-first-first-nations-host-1.7064401?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/frog-lake-first-nation-woman-etalks-first-first-nations-host-1.7064401?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-20T06:00:00+00:00
+
+<img alt="person is wearing a little colored short sleeve shirt thats low cut, with long wavy hair. " height="349" src="https://i.cbc.ca/1.7064408.1703022595!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/michaella-montana.JPG" title="Michaella Montana currently lives in Regina but will be making the move to Toronto next month." width="620" /><p>Michaella Montana has been hired as etalk's first Indigenous host, a role she says she worked hard to get for the past five years.</p>
+
+## Miramichiers step up as homeless people wait for out-of-the-cold shelter
+ - [https://www.cbc.ca/news/canada/new-brunswick/miramichi-homeless-out-of-the-cold-shelter-adam-lordon-1.7063829?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/miramichi-homeless-out-of-the-cold-shelter-adam-lordon-1.7063829?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-20T05:00:00+00:00
+
+<img alt="two women in winter coats stand behind folded table in parking lot. table is piled with bags and food." height="349" src="https://i.cbc.ca/1.7064159.1703013670!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/shaundra-crawford-and-crystal-reynolds.jpg" title="Shaundra Crawford (right) and her mother Crystal Reynolds set up a folded table in the Newcastle library parking lot every Thursday and Sunday evening where they give out warm clothes and food to people in need." width="620" /><p>In Miramichi between 75 and 100 people are living on the streets. While they sleep in tents and in bus shelters, community volunteers are stepping up to help with food and warm clothing.</p>
+
+## A N.L. couple's Crown lands fight is over. But their lawyer says there are more like them
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/catalina-crown-lands-settlement-1.7064026?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/catalina-crown-lands-settlement-1.7064026?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-20T04:30:00+00:00
+
+<img alt="Two people sit at a table. The person on the right is wearing a shirt with flowers on it and a necklace. The person on the right wears a baseball hat. Both have grey hair." height="349" src="https://i.cbc.ca/1.6641131.1667587321!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pauline-and-randy-diamond.jpg" title="Pauline, left, and Randy Diamond lived in their Catalina home for nearly 40 years. Now, they want to sell it — but Crown Lands stands in the way." width="620" /><p>Two Catalina seniors are breathing a sigh of relief after reaching a settlement with the provincial government over the land where they lived for nearly 40 years. </p>
+
+## Just 15% of Canadians got updated COVID vaccines this fall, new figures show
+ - [https://www.cbc.ca/news/health/just-15-of-canadians-got-updated-covid-vaccines-this-fall-new-figures-show-1.7064240?cmp=rss](https://www.cbc.ca/news/health/just-15-of-canadians-got-updated-covid-vaccines-this-fall-new-figures-show-1.7064240?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-20T04:00:57+00:00
+
+<img alt="People sit at tables in an arena waiting to be vaccinated." height="349" src="https://i.cbc.ca/1.6900650.1703024970!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-ont-20210627.jpg" title="People receive a dose of the COVID-19 vaccine at a mass vaccination clinic at Scotiabank Arena in Toronto on Sunday, June 27, 2021. THE CANADIAN PRESS/Cole Burston" width="620" /><p>While Canadians raced to get vaccinated against COVID-19 early in the pandemic, only 15 per cent of the population had their updated shot this fall. But the virus is still spreading — and the WHO just identified a new, rapidly spreading 'variant of concern' called JN.1.</p>
+
+## As Christmas tree farmers retire, who will take over?
+ - [https://www.cbc.ca/news/canada/calgary/christmas-tree-farmers-retire-1.7063274?cmp=rss](https://www.cbc.ca/news/canada/calgary/christmas-tree-farmers-retire-1.7063274?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-20T04:00:00+00:00
+
+<img alt="A man in a bright red jacket nad blue jeans is pictured on a Christmas tree farm in this approximately 20-year-old photo." height="349" src="https://i.cbc.ca/1.7063282.1703014379!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brad-clements.jpg" title="Brad Clements, now 82, is pictured at his Christmas tree farm around 2003.  " width="620" /><p>Canada's protracted Christmas tree shortage has been driven in part by an aging cohort of tree growers and a shrinking number of tree farms. It's a heightened example of a broader problem facing agriculture with Canadian farmers aging at a faster clip than the overall population.</p>
+
+## Canada needs hundreds of thousands of public EV charging ports. Who is going to build them?
+ - [https://www.cbc.ca/news/canada/canada-electric-vehicles-charging-ports-1.7058158?cmp=rss](https://www.cbc.ca/news/canada/canada-electric-vehicles-charging-ports-1.7058158?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-20T04:00:00+00:00
+
+<img alt="A woman wearing a black toque and parka holds a young goat." height="349" src="https://i.cbc.ca/1.7058165.1702669595!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/debbie-nightingale.jpeg" title="Debbie Nightingale and one of her goats in front of the EV charging station she installed last year in her farm’s parking lot in Newtonville, Ontario. " width="620" /><p>In order to hit its 2035 targets for zero-emission vehicles, Canada will need hundreds of thousands of public charging ports for electric vehicles, but critics say there’s no cohesive plan to make that happen.</p>
+
+## Trudeau says he's sensed a 'tonal shift' from India since U.S. reported alleged murder plot
+ - [https://www.cbc.ca/news/politics/india-canada-indictment-nijjar-1.7064437?cmp=rss](https://www.cbc.ca/news/politics/india-canada-indictment-nijjar-1.7064437?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-12-20T04:00:00+00:00
+
+<img alt="Prime Minister Justin Trudeau and Indian Prime Minister Narendra Modi wave during a family photo with Partner Countries and International Organizations at the G7 Summit in Schloss Elmau on Monday, June 27, 2022. " height="349" src="https://i.cbc.ca/1.6784836.1695225859!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trudeau-g7-20220627.jpg" title="Prime Minister Justin Trudeau and Indian Prime Minister Narendra Modi wave during a family photo with Partner Countries and International Organizations at the G7 Summit in Schloss Elmau on Monday, June 27, 2022. " width="620" /><p>Prime Minister Justin Trudeau says he believes India's relations with Canada may have undergone "a tonal shift" in the days since the unsealing of a U.S. indictment alleging a conspiracy to murder a Sikh activist on American soil.</p>
+

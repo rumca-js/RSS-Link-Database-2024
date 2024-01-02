@@ -1,0 +1,121 @@
+# Source:Latest Science News -- ScienceDaily, URL:https://www.sciencedaily.com/rss/all.xml, language:en-us
+
+## An old star with ring-like structure: ALMA demonstrates highest resolution yet
+ - [https://www.sciencedaily.com/releases/2023/11/231115113925.htm](https://www.sciencedaily.com/releases/2023/11/231115113925.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:39:25+00:00
+
+ALMA (Atacama Large Millimeter/submillimeter Array) has demonstrated the highest resolution yet with observations of an old star. The observations show that the star is surrounded by a ring-like structure of gas and that gas from the star is escaping to the surrounding space. Future observations with the newly demonstrated high resolution are expected to elucidate, not only the end of a star's life, but also the beginning, when planets are still forming.
+
+## Multiple evolutionary trajectories in aquatic crocodiles
+ - [https://www.sciencedaily.com/releases/2023/11/231115113922.htm](https://www.sciencedaily.com/releases/2023/11/231115113922.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:39:22+00:00
+
+In the geological past, several groups of crocodiles evolved towards a morphology adapted to marine life. However, the extent of these adaptations and their evolutionary trajectories remained unknown. An exhaustive study of their morphology has now shed light on the evolutionary mechanisms at work, thanks to three-dimensional reconstructions.
+
+## Nanoparticles for optimized cancer therapy
+ - [https://www.sciencedaily.com/releases/2023/11/231115113843.htm](https://www.sciencedaily.com/releases/2023/11/231115113843.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:38:43+00:00
+
+Pancreatic cancer is one of the deadliest types of cancers in humans. It is the fourth leading cause of cancer-related deaths in the western world. The early stages of the disease often progress without symptoms, so diagnosis is usually very late.
+
+## Riddle of Kondo effect solved in ultimately thin wires
+ - [https://www.sciencedaily.com/releases/2023/11/231115113840.htm](https://www.sciencedaily.com/releases/2023/11/231115113840.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:38:40+00:00
+
+A research team has now directly measured the so-called Kondo effect, which governs the behavior of magnetic atoms surrounded by a sea of electrons: New observations with a scanning tunneling microscope reveal the effect in one-dimensional wires floating on graphene.
+
+## Surveilling wetlands for infectious bird flu -- and finding it
+ - [https://www.sciencedaily.com/releases/2023/11/231115113838.htm](https://www.sciencedaily.com/releases/2023/11/231115113838.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:38:38+00:00
+
+Recently, morning omelets and holiday dinners have gotten more expensive. One likely cause is bird flu, outbreaks of which led to the deaths of millions of chickens and turkeys from infection or culling in 2022, according to the U.S. Department of Agriculture, and which still demands rigorous monitoring of wild populations. Now, researchers have developed a method that detected infectious bird flu virus in wetlands frequented by waterfowl.
+
+## Colliding ribosomes activate RNA repair
+ - [https://www.sciencedaily.com/releases/2023/11/231115113501.htm](https://www.sciencedaily.com/releases/2023/11/231115113501.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:35:01+00:00
+
+Researchers discover how ribosomes contribute to the recognition and removal of RNA crosslinking damage.
+
+## Climate engineering could slow Antarctic ice loss
+ - [https://www.sciencedaily.com/releases/2023/11/231115113448.htm](https://www.sciencedaily.com/releases/2023/11/231115113448.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:34:48+00:00
+
+A study reports that scattering sunlight-reflecting particles in the atmosphere -- a theoretical form of climate engineering known as 'stratospheric aerosol injection' -- has potential to slow rapid ice melt in Western Antarctica.
+
+## Scientists 3D-print hair follicles in lab-grown skin
+ - [https://www.sciencedaily.com/releases/2023/11/231115113440.htm](https://www.sciencedaily.com/releases/2023/11/231115113440.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:34:40+00:00
+
+Scientists have 3D-printed hair follicles in human skin tissue cultured in the lab. This marks the first time researchers have used the technology to generate hair follicles, which play an important role in skin healing and function. When it comes to engineering human skin, hair may at first seem superfluous. However, hair follicles are quite important: They produce sweat, helping regulate body temperature, and they contain stem cells that help skin heal. The finding has potential applications in regenerative medicine and drug testing, though engineering skin grafts that grow hair are still several years away.
+
+## With unprecedented flares, stellar corpse shows signs of life
+ - [https://www.sciencedaily.com/releases/2023/11/231115113438.htm](https://www.sciencedaily.com/releases/2023/11/231115113438.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:34:38+00:00
+
+After a distant star's explosive death, an active stellar corpse was the likely source of repeated energetic flares observed over several months -- a phenomenon astronomers had never seen before, astronomers report.
+
+## Printed robots with bones, ligaments, and tendons
+ - [https://www.sciencedaily.com/releases/2023/11/231115113428.htm](https://www.sciencedaily.com/releases/2023/11/231115113428.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:34:28+00:00
+
+For the first time, researchers have succeeded in printing a robotic hand with bones, ligaments and tendons made of different polymers using a new laser scanning technique. The new technology makes it possible to 3D print special plastics with elastic qualities in one go. This opens up completely new possibilities for the production of soft robotic structures.
+
+## Novel C. diff structures are required for infection, offer new therapeutic targets
+ - [https://www.sciencedaily.com/releases/2023/11/231115113402.htm](https://www.sciencedaily.com/releases/2023/11/231115113402.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:34:02+00:00
+
+Newly discovered iron storage 'ferrosomes' inside the bacterium C. diff -- the leading cause of hospital-acquired infections -- are important for infection in an animal model and could offer new targets for antibacterial drugs. They also represent a rare demonstration of a membrane-bound structure inside a pathogenic bacterium, upsetting the biological dogma that bacteria do not contain organelles.
+
+## James Webb Space Telescope detects water vapor, sulfur dioxide and sand clouds in the atmosphere of a nearby exoplanet
+ - [https://www.sciencedaily.com/releases/2023/11/231115113353.htm](https://www.sciencedaily.com/releases/2023/11/231115113353.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:33:53+00:00
+
+Astronomers have used recent observations made with the James Webb Space Telescope to study the atmosphere of the nearby exoplanet WASP-107b. Peering deep into the fluffy atmosphere of WASP-107b they discovered not only water vapor and sulfur dioxide, but even silicate sand clouds. These particles reside within a dynamic atmosphere that exhibits vigorous transport of material.
+
+## New laser setup probes metamaterial structures with ultrafast pulses
+ - [https://www.sciencedaily.com/releases/2023/11/231115113350.htm](https://www.sciencedaily.com/releases/2023/11/231115113350.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:33:50+00:00
+
+A new technique offers a safe, reliable, and high-throughput way to dynamically characterize microscale metamaterials. The method could speed up the development of acoustic lenses, impact-resistant films, and other futuristic materials.
+
+## Roaming seabirds need ocean-wide protection
+ - [https://www.sciencedaily.com/releases/2023/11/231115113345.htm](https://www.sciencedaily.com/releases/2023/11/231115113345.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:33:45+00:00
+
+Seabirds roam far and wide in the Indian Ocean -- so they need ocean-wide protection, new research shows.
+
+## This 3D printer can watch itself fabricate objects
+ - [https://www.sciencedaily.com/releases/2023/11/231115113339.htm](https://www.sciencedaily.com/releases/2023/11/231115113339.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:33:39+00:00
+
+Engineers have developed a high-throughput, multimaterial 3D inkjet printer that uses computer vision to rapidly and automatically control the amount of material being deposited during the printing process in real time. This enables the use of a wide range of materials for fabrication.
+
+## New deep learning AI tool helps ecologists monitor rare birds through their songs
+ - [https://www.sciencedaily.com/releases/2023/11/231115113302.htm](https://www.sciencedaily.com/releases/2023/11/231115113302.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:33:02+00:00
+
+Researchers have developed a new deep learning AI tool that generates life-like birdsongs to train bird identification tools, helping ecologists to monitor rare species in the wild.
+
+## Not so silver lining: Microplastics found in clouds could affect the weather
+ - [https://www.sciencedaily.com/releases/2023/11/231115113043.htm](https://www.sciencedaily.com/releases/2023/11/231115113043.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2023-11-15T11:30:43+00:00
+
+From the depths of the seas to snow on mountains and even the air above cities, microplastics are turning up increasingly often. Now, researchers have analyzed microplastics in clouds above mountains. They suggest that these tiny particles could play a role in cloud formation and, in turn, affect weather.
+

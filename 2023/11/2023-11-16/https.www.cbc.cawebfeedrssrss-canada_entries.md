@@ -1,0 +1,135 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## B.C. proposes minimum pay standards and workers' compensation for app-based gig workers
+ - [https://www.cbc.ca/news/canada/british-columbia/labour-standards-app-based-gig-workers-bc-1.7030885?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/labour-standards-app-based-gig-workers-bc-1.7030885?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T17:46:31+00:00
+
+<img alt="A delivery worker carries a red bag reading SkiptheDishes past a restaurant." height="349" src="https://i.cbc.ca/1.7030977.1700175879!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/food-delivery-worker.jpg" title="A worker for a food delivery app transports an order in downtown Vancouver on Nov. 16, 2023. B.C. is proposing amendments to employment standards law to address the growing gig economy." width="620" /><p>The B.C. government is proposing new employment standards for gig workers with ride-hailing and food delivery apps, including a minimum wage, tip protection and workers' compensation coverage.</p>
+
+## Province reveals replacements for 2 N.B. place names containing racial slur
+ - [https://www.cbc.ca/news/canada/new-brunswick/new-brunswick-racism-name-1.7030430?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/new-brunswick-racism-name-1.7030430?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T16:48:30+00:00
+
+<img alt="A woman with long light-brown hair, in a blue suit and black shirt stands outside the legislature and smiles for the camera." height="349" src="https://i.cbc.ca/1.6846775.1684351359!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/tammy-scott-wallace.JPG" title="Minister of Women&apos;s Equality Minister Tammy Scott-Wallace said Wednesday she did not know if the policy should be changed. " width="620" /><p>The provincial government says a mountain in northern New Brunswick will be named Meto’mqwijuig Mountain, doing away with its previous name that included a racist slur.</p>
+
+## Workers at 17 No Frills stores in Ontario could strike as of Monday, union says
+ - [https://www.cbc.ca/news/business/no-frills-strike-1.7030372?cmp=rss](https://www.cbc.ca/news/business/no-frills-strike-1.7030372?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T14:31:09+00:00
+
+<img alt="No Frills shopping carts are shown" height="349" src="https://i.cbc.ca/1.5028302.1700159776!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/no-frills.jpg" title="Loblaw says its accessibility policy doesn&apos;t apply to its 257 No Frills franchises. " width="620" /><p>The union that represents thousands of grocery store workers in Ontario says 17 No Frills stores across the province could be on strike as early as Monday unless the company steps up with improved compensation and working conditions.</p>
+
+## Sask. government introduces law to stop collecting carbon tax on natural gas
+ - [https://www.cbc.ca/news/canada/saskatchewan/government-introduces-law-stop-collecting-carbon-tax-natural-gas-1.7030339?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/government-introduces-law-stop-collecting-carbon-tax-natural-gas-1.7030339?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T13:12:10+00:00
+
+<img alt="A metal pot sits over the blue flame of a gas stove." height="349" src="https://i.cbc.ca/1.6831112.1683139579!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1235800640.jpg" title="A photo illustration shows gas burning on a domestic hob in London on October 10, 2021. - European and UK gas prices surged to record peaks last week, energised by fears of runaway demand in the upcoming northern hemisphere winter." width="620" /><p>Fulfilling a promise it made a few weeks ago, the Saskatchewan Party government has introduced legislation to stop collecting carbon tax from SaskEnergy natural gas customers.</p>
+
+## Nathaniel Veltman guilty of 1st–degree and attempted murder in 2021 attack on Muslim family in London, Ont.
+ - [https://www.cbc.ca/news/canada/london/london-attack-guilty-verdict-1.7029754?cmp=rss](https://www.cbc.ca/news/canada/london/london-attack-guilty-verdict-1.7029754?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T12:54:45+00:00
+
+<img alt="a court sketch of nathaniel veltman. " height="349" src="https://i.cbc.ca/1.6986689.1696444256!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nathaniel-veltman-sketch.jpg" title="A court sketch of Nathaniel Veltman listening to testimony at his murder and terrorism trial on Sept. 28, 2023. " width="620" /><p>After less than six hours of deliberations, the jury in the Nathaniel Veltman murder trial in Windsor, Ont., has reached a verdict of guilty of first-degree murder and attempted murder related to the attack on five members of a Muslim family in London in 2021.</p>
+
+## Man, 79, charged with murder, attempted murder after Toronto vehicle attack
+ - [https://www.cbc.ca/news/canada/toronto/north-york-vehicle-homicide-1.7030250?cmp=rss](https://www.cbc.ca/news/canada/toronto/north-york-vehicle-homicide-1.7030250?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T11:57:25+00:00
+
+<img alt="Toronto police said a driver is in custody after four people were struck by a vehicle on Wednesday around 12:40 p.m. in the parking lot of a North York apartment building." height="349" src="https://i.cbc.ca/1.7029277.1700075412!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/toronto-north-york-people-struck-by-driver.jpg" title="Toronto police said a driver is in custody after four people were struck by a vehicle on Wednesday around 12:40 p.m. in the parking lot of a North York apartment building." width="620" /><p>A 79-year-old Toronto man has been charged with murder and attempted murder, police say, after allegedly driving intentionally into three people in North York Wednesday.</p>
+
+## Feds sign $38.6M contract to buy MV Fanafjord for N.S.-P.E.I. ferry route
+ - [https://www.cbc.ca/news/canada/prince-edward-island/pei-fanafjord-purchase-negotiations-1.7030168?cmp=rss](https://www.cbc.ca/news/canada/prince-edward-island/pei-fanafjord-purchase-negotiations-1.7030168?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T11:47:29+00:00
+
+<img alt="A large ferry with its nose cone opening to let vehicles drive off is shown approaching a dock. " height="349" src="https://i.cbc.ca/1.7030208.1700151859!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mv-fanafjord.jpg" title="MV Fanafjord, launched in 2007, in a photo from the Public Services and Procurement Canada Facebook page. " width="620" /><p>The contract with Nye Fanafjord AS will see the passenger and vehicle ferry replace MV Holiday Island, which was scrapped after an engine fire last year.</p>
+
+## Ryan Reynolds receives Order of B.C. in private ceremony
+ - [https://www.cbc.ca/news/canada/british-columbia/ryan-reynolds-order-of-b-c-1.7030097?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/ryan-reynolds-order-of-b-c-1.7030097?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T11:08:33+00:00
+
+<img alt="Actor Ryan Reynolds, right, who was born, and grew up in Vancouver B.C., received the Order of B.C. from Premier David Eby, left, and Lieutenant Governor Janet Austin." height="349" src="https://i.cbc.ca/1.7030126.1700148121!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/order-of-b-c-ryan-reynolds.jpg" title="Actor Ryan Reynolds, right, who was born, and grew up in Vancouver B.C., received the Order of B.C. from Premier David Eby, left, and Lieutenant Governor Janet Austin." width="620" /><p>Vancouver-born and raised actor and producer Ryan Reynolds received the province's highest honour in a private ceremony on Wednesday with Premier David Eby and Lt.-Gov. Janet Austin.</p>
+
+## Tributes pile in for Cree player, coach and hockey champion Charly Washipabano
+ - [https://www.cbc.ca/news/canada/north/cree-hockey-charly-washipabano-montreal-canadiens-1.7029741?cmp=rss](https://www.cbc.ca/news/canada/north/cree-hockey-charly-washipabano-montreal-canadiens-1.7029741?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T10:53:04+00:00
+
+<img alt="The jumbo screen at the Bell Centre pays tribute to a Cree hockey coach and program director" height="349" src="https://i.cbc.ca/1.7029750.1700160130!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bell-centre-pays-tribute-to-charly.jpg" title="Charly Washipabano died Sunday on his way home from his son Zane&apos;s hockey tournament in Mascouche. Tributes are pouring in from all over the Cree Nation and beyond." width="620" /><p>Charly Washipabano is being remembered for his warmth and work developing hockey program across Cree communities in northern Quebec. He died Sunday after a health emergency, his family says. He was 41.</p>
+
+## B.C. powerlifter inspires documentary and hometown affection — but remains humble
+ - [https://www.cbc.ca/news/canada/british-columbia/clearwater-bc-powerlifter-1.7028596?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/clearwater-bc-powerlifter-1.7028596?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T09:00:00+00:00
+
+<img alt="A man lifts a weight in a gym." height="349" src="https://i.cbc.ca/1.7028599.1700019289!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ken-s-story-about-ryan-s-quest-to-the-special-olympics-2023.jpg" title="Ryan Kealey is pictured as he trains for the Special Olympics World Games in Berlin earlier this year. The Clearwater, B.C. man&apos;s story has inspired a documentary film to be made about him, as well as an event to honour him in his small town." width="620" /><p>Ryan Kealey won three silver medals and one gold at the Berlin Special Olympics while a documentary crew was following him. When he returned to Canada, his town held a reception for him that saw dozens of people turn up.</p>
+
+## Vancouver Island family safe after 2 days stranded on remote logging road
+ - [https://www.cbc.ca/news/canada/british-columbia/family-stranded-on-logging-road-1.7029791?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/family-stranded-on-logging-road-1.7029791?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T07:00:39+00:00
+
+<img alt="A man wearing a baseball hat looks relieved next to a woman wearing a brown hoodie." height="349" src="https://i.cbc.ca/1.7028445.1700011046!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ashlee-cosman-and-willy-john.JPG" title="Ashlee Cosman and her father Willy John after they were rescued." width="620" /><p>Three members of a family, including a six-year-old girl, are safe after their truck got stuck in a culvert on a remote logging road on northern Vancouver Island.</p>
+
+## She survived stomach cancer. Now, she's helping fight the deadly disease
+ - [https://www.cbc.ca/news/canada/toronto/stomach-cancer-research-my-gut-feeling-1.7028266?cmp=rss](https://www.cbc.ca/news/canada/toronto/stomach-cancer-research-my-gut-feeling-1.7028266?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T05:00:00+00:00
+
+<img alt="Katy Kosyachkova is pictured standing in a hospital hallway at Princess Margaret Cancer Centre." height="349" src="https://i.cbc.ca/1.7028275.1700078666!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/katy-kosyachkova.jpg" title="Katy Kosyachkova was diagnosed with stomach cancer in 2011 and went through extensive treatment, including the removal of her stomach. She went on to co-found My Gut Feeling, an advocacy organization for patients battling the disease." width="620" /><p>The Canadian Cancer Society says the average odds of surviving stomach cancer are 29 per cent, but the cancer is not as well known because it’s not that common. Survivor Katy Kosychkova is changing that.</p>
+
+## He was wrongfully kicked out of his apartment. Why hasn't his landlord been fined?
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/nl-residential-tenancies-fines-allan-kitonsa-1.7029102?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-residential-tenancies-fines-allan-kitonsa-1.7029102?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T04:30:00+00:00
+
+<img alt="A bald man has his arms crossed in front of his chest. He is wearing a crisp dress shirt. " height="349" src="https://i.cbc.ca/1.7029072.1700069432!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/allan-kitonsa.jpg" title="Allan Kitonsa has won a residential tenancies dispute with his landlord, after he was kicked out of his apartment without notice in August." width="620" /><p>A CBC News investigation has found no evidence that any fines have been dished out since the Newfoundland and Labrador government beefed up a law five years ago to make sure landlords and tenants were made more accountable.</p>
+
+## Anishinaabe community in Quebec set to finally get electricity
+ - [https://www.cbc.ca/news/canada/montreal/anishinaabe-community-quebec-electricity-off-grid-hydro-quebec-power-1.7029545?cmp=rss](https://www.cbc.ca/news/canada/montreal/anishinaabe-community-quebec-electricity-off-grid-hydro-quebec-power-1.7029545?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T04:00:00+00:00
+
+<img alt="A man wearing orange stands in the snow next to a plaque " height="349" src="https://i.cbc.ca/1.7029546.1700084753!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/this-is-going-to-change-our-life-forever-anishinaabe-community-set-to-get-electricity-by-2025-image-1.jpg" title="Jimmy Papatie is among community members in Kitcisakik who have been advocating for access to electricity for four decades. Residents will soon be connected to the grid through a $32 million Hydro-Quebec project set to complete in 2025." width="620" /><p>Kitcisakik residents will soon be connected to electricity through a $32 million Hydro-Quebec project set to complete in 2025.</p>
+
+## Drugs like Ozempic are popular for weight loss. That's because there's been little other help: obesity doctors
+ - [https://www.cbc.ca/radio/whitecoat/ozempic-weight-loss-obesity-1.7029033?cmp=rss](https://www.cbc.ca/radio/whitecoat/ozempic-weight-loss-obesity-1.7029033?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T04:00:00+00:00
+
+<img alt="A blue needle with the brand name &quot;Ozempic&quot; on the side is pictured in a man&apos;s hand." height="349" src="https://i.cbc.ca/1.6795121.1681939843!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ozempic.jpg" title="Ozempic is pictured in a file photo from May 2022." width="620" /><p>Despite widely publicized reports of rare but severe side effects, obesity doctors say Ozempic and drugs like it have the potential to vastly medical help for a chronic illness that patients have been forced for too long to try to cure on their own.</p>
+
+## RCMP's plan to outfit officers with body cameras delayed again
+ - [https://www.cbc.ca/news/politics/rcmp-body-worn-camera-delay-1.7029591?cmp=rss](https://www.cbc.ca/news/politics/rcmp-body-worn-camera-delay-1.7029591?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T04:00:00+00:00
+
+<img alt="An RCMP officer wears a body camera at the detachment in Bible Hill, N.S. on Sunday, April 18, 2021. Alberta plans to require all police services in the province to wear the devices." height="349" src="https://i.cbc.ca/1.7029601.1700086427!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/alta-body-cams-20230314.jpg" title="An RCMP officer wears a body camera at the detachment in Bible Hill, N.S. on Sunday, April 18, 2021. Alberta plans to require all police services in the province to wear the devices." width="620" /><p>The RCMP’s long-promised plan to equip Mounties across the country with body-worn cameras has been delayed.</p>
+
+## Sioux Lookout, a hub for 33 First Nations, still waiting for Ontario to deliver on 2018 long-term care promise
+ - [https://www.cbc.ca/news/canada/thunder-bay/sioux-lookout-long-term-care-beds-1.7028211?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/sioux-lookout-long-term-care-beds-1.7028211?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T04:00:00+00:00
+
+<img alt="A woman stands outside on a summer day holding a metal shovel." height="349" src="https://i.cbc.ca/1.7028018.1699989841!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aileen-urquhart.jpg" title="Sioux Lookout resident Aileen Urquhart took to social media this summer to push Premier Doug Ford to build the 76 additional long-term care beds he promised back in 2018." width="620" /><p>Over five years ago, the Ontario government vowed to build 76 long-term care beds in Sioux Lookout, which serves as a health-care hub for dozens of remote First Nations. Now running out of room for everyone who needs care, the community is ramping up efforts to get the province to deliver on its promise.</p>
+
+## Social media gets teens hooked while feeding aggression and impulsivity, and researchers think they know why
+ - [https://www.cbc.ca/news/health/smartphone-brain-nov14-1.7029406?cmp=rss](https://www.cbc.ca/news/health/smartphone-brain-nov14-1.7029406?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T04:00:00+00:00
+
+<img alt="Girl watches makeup application on Instagram on a smartphone." height="349" src="https://i.cbc.ca/1.7025296.1699639381!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/growing-up-digital-smartphone-psychiatry.jpg" title="In this Nov. 1, 2018 photo, Laurel Foster looks at Instagram in San Francisco. App developers say as teens scroll through Instagram and Snapchat, tap out texts, or hole up in their rooms watching YouTube, they‚Äôre leaving enormous digital footprints that may offer clues to their psyches. Studies are under way to find out. " width="620" /><p>Both regulation and more parental involvement needed to rein in social media experiment, psychiatrists and scientists say.</p>
+
+## Trial of former RCMP official accused of leaking secrets moves to closing arguments today
+ - [https://www.cbc.ca/news/politics/ortis-closing-arguments-1.7028795?cmp=rss](https://www.cbc.ca/news/politics/ortis-closing-arguments-1.7028795?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-11-16T04:00:00+00:00
+
+<img alt="Cameron Jay Ortis arrives to the Ottawa Courthouse in Ottawa on Friday, Nov. 3, 2023. " height="349" src="https://i.cbc.ca/1.7017784.1699026941!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/rcmp-secrets-20231103.jpg" title="Cameron Jay Ortis arrives to the Ottawa Courthouse in Ottawa on Friday, Nov. 3, 2023. " width="620" /><p>The jury will hear closing arguments today in the trial of a former senior RCMP intelligence official accused of offering top-secret information to police targets for money.</p>
+

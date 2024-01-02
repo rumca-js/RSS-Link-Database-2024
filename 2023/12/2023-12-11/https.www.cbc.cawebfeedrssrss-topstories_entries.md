@@ -1,0 +1,163 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Donald Trump's re-election prospects are now a Supreme Court issue
+ - [https://www.cbc.ca/news/world/supreme-court-trump-analysis-1.7055837?cmp=rss](https://www.cbc.ca/news/world/supreme-court-trump-analysis-1.7055837?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T18:33:56+00:00
+
+<img alt="" height="349" src="https://i.cbc.ca/1.6515159.1657308071!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/climate-hope-remains-in-the-u-s-despite-a-supreme-court-ruling.jpg" title="" width="620" /><p>One of the most consequential questions of the 2024 U.S. presidential election has now been turned over to the Supreme Court in a historic court filing Monday. The fundamental issue being litigated involves whether Donald Trump will be brought to trial before Americans vote in 2024.</p>
+
+## Alberta must do more to fight drug crisis after methamphetamine death of 'perfect baby girl,' inquiry says
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-edmonton-infant-death-methamphetamine-poisoning-1.7055814?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-edmonton-infant-death-methamphetamine-poisoning-1.7055814?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T17:05:57+00:00
+
+<img alt="A hand holds a small baggy containing shards of clear crystal meth." height="349" src="https://i.cbc.ca/1.5420427.1700692163!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/330257822-crystal-meth.jpg" title="A bag of methamphetamine, also known as crystal meth." width="620" /><p>Briella Johanne Brooks died on July 24, 2019, after she was found unresponsive in her family's Edmonton home. She died from methamphetamine toxicity, but it's not clear how she ingested the drug.</p>
+
+## Feds introduce bill to set drinking water standards in First Nations
+ - [https://www.cbc.ca/news/politics/ottawa-bill-protect-first-nations-drinking-water-1.7055352?cmp=rss](https://www.cbc.ca/news/politics/ottawa-bill-protect-first-nations-drinking-water-1.7055352?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T16:30:50+00:00
+
+<img alt="Problems persist at Neskantaga First Nation&apos;s upgraded drinking water plant." height="349" src="https://i.cbc.ca/1.5850043.1702314028!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/marcus-moonias.jpg" title="Marcus Moonias is one of three local water operators from Neskantaga First Nation, who will be trained to take over operations of the community water treatment plant once work on a $16.5 million upgrade is complete." width="620" /><p>The federal government's proposed new bill to set drinking water standards in First Nations is being met with mixed reactions.</p>
+
+## Canadians and Albertans aren't sold on Alberta pension, skeptical about $334B figure, poll suggests
+ - [https://www.cbc.ca/news/canada/calgary/canada-alberta-pension-plan-angus-reid-institute-shachi-kurl-1.7055175?cmp=rss](https://www.cbc.ca/news/canada/calgary/canada-alberta-pension-plan-angus-reid-institute-shachi-kurl-1.7055175?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T16:18:21+00:00
+
+<img alt="Jim Dinning watches as Premier Danielle Smith speaks at the Sept. 21 release of a report about an Alberta pension plan. Dinning, a former provincial finance minister, heads an engagement panel that will hold a series of telephone town halls across Alberta to gauge support for the proposed plan." height="349" src="https://i.cbc.ca/1.7011588.1702328156!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jim-dinning-premier-danielle-smith-alberta-pension.jpg" title="Jim Dinning watches as Premier Danielle Smith speaks at the Sept. 21 release of a report about an Alberta pension plan. Dinning, a former provincial finance minister, heads an engagement panel that will hold a series of telephone town halls across Alberta to gauge support for the proposed plan." width="620" /><p>As the province puts its Alberta Pension Plan consultations on hold and awaits asset transfer figures from the Office of the Chief Actuary of Canada, a new poll suggests Albertans remain unconvinced abo
+
+## 'He's already a pro': Macklin Celebrini turning heads at Canada's world junior hockey camp
+ - [https://www.cbc.ca/sports/hockey/macklin-celebrini-canada-world-junior-hockey-camp-1.7055695?cmp=rss](https://www.cbc.ca/sports/hockey/macklin-celebrini-canada-world-junior-hockey-camp-1.7055695?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T16:11:30+00:00
+
+<img alt="A men&apos;s hockey player skates with a puck during a practice session." height="349" src="https://i.cbc.ca/1.7055752.1702328089!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/hko-world-juniors-canada-20231211.JPG" title="Macklin Celebrini is seen during Canadian World Juniors selection camp in Oakville, Ont., on Monday. The 17-year-old forward is widely regarded as a top prospect for the next NHL draft in June." width="620" /><p>Macklin Celebrini arrived as a bit of an unknown. His fellow invitees at Canada's selection camp for the 2024 world junior hockey championship had seen the highlights. The group is getting an introduction to the 17-year-old centre expected to go high at June's NHL draft in Las Vegas.</p>
+
+## Accused poison seller Kenneth Law charged with murder in multiple Ontario deaths
+ - [https://www.cbc.ca/news/canada/toronto/kenneth-law-charged-murder-ontario-1.7055699?cmp=rss](https://www.cbc.ca/news/canada/toronto/kenneth-law-charged-murder-ontario-1.7055699?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T15:43:23+00:00
+
+<img alt="Kenneth Law is seen outside the Mississauga, Ont. pharmacy where a post office box is linked to him." height="349" src="https://i.cbc.ca/1.6824840.1687389295!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kenneth-law.jpg" title="Kenneth Law is seen outside the Mississauga, Ont. pharmacy where a post office box is linked to him." width="620" /><p></p>
+
+## Kenneth Law charged with murder in multiple Ontario deaths
+ - [https://www.cbc.ca/news/canada/toronto/kenneth-law-charged-with-murder-in-multiple-ontario-deaths-1.7055699?cmp=rss](https://www.cbc.ca/news/canada/toronto/kenneth-law-charged-with-murder-in-multiple-ontario-deaths-1.7055699?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T15:33:04+00:00
+
+<img alt="Kenneth Law is seen outside the Mississauga, Ont. pharmacy where a post office box is linked to him." height="349" src="https://i.cbc.ca/1.6824840.1687389295!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kenneth-law.jpg" title="Kenneth Law is seen outside the Mississauga, Ont. pharmacy where a post office box is linked to him." width="620" /><p>Accused poison seller Kenneth Law has been charged with murder in connection with multiple deaths across Ontario, CBC News has learned.</p>
+
+## Indigenous advisory council for CN resigns, says railway won't accept responsibility
+ - [https://www.cbc.ca/news/indigenous/cn-rail-indigenous-advisory-council-resigns-1.7055553?cmp=rss](https://www.cbc.ca/news/indigenous/cn-rail-indigenous-advisory-council-resigns-1.7055553?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T14:26:01+00:00
+
+<img alt="A man with white hair sits at a table." height="349" src="https://i.cbc.ca/1.6258798.1702322689!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/murray-sinclair.jpg" title="Former senator and co-commissioner of the Aboriginal Justice Inquiry Murray Sinclair on the Independant Investigation Unit: &apos;The reality is that they have a long way to go in order to gain back the credibility that they need to have.&apos;" width="620" /><p>A council of prominent Indigenous leaders tasked with advising Canadian National Railway Co. has resigned over what they say is the company's failure to acknowledge past wrongs and follow its recommendations for reconciliation.</p>
+
+## What happened at the end of Netflix's Leave the World Behind?
+ - [https://www.cbc.ca/news/entertainment/leave-the-world-behind-ending-1.7055259?cmp=rss](https://www.cbc.ca/news/entertainment/leave-the-world-behind-ending-1.7055259?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T13:57:17+00:00
+
+<img alt="Mahershala Ali as G.H., Myha’la as Ruth, Julia Roberts as Amanda and Ethan Hawke as Clay. " height="349" src="https://i.cbc.ca/1.7055388.1702315389!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/leave-the-world-behind-1.jpg" title="Mahershala Ali as G.H., Myha’la as Ruth, Julia Roberts as Amanda and Ethan Hawke as Clay. " width="620" /><p>Leave the World Behind has risen to the No. 1 spot on Netflix's movie rankings, but it's the ending in particular that has people talking.</p>
+
+## Basketball star Shai Gilgeous-Alexander voted Canada's top athlete of the year
+ - [https://www.cbc.ca/sports/basketball/nba/northern-star-award-2023-1.7055461?cmp=rss](https://www.cbc.ca/sports/basketball/nba/northern-star-award-2023-1.7055461?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T13:39:17+00:00
+
+<img alt="Canadian men&apos;s athlete battles for possession of the basketball during game action at the Basketball World Cup." height="349" src="https://i.cbc.ca/1.7055467.1702318000!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gilgeous-alexander-shai-230910-1180.jpg" title="On Monday, Shai Gilgeous-Alexander, left, was named the Northern Star Award winner as Canada&apos;s top athlete of 2023." width="620" /><p>Basketball star Shai Gilgeous-Alexander was voted Canada’s top athlete of the year on Monday, beating Edmonton Oilers superstar Connor McDavid, golfer and Canadian Open champion Nick Taylor, hammer thrower Camryn Rogers and swimmer Summer McIntosh.</p>
+
+## Ontario woman who faked pregnancies pleads guilty to defrauding, harassing doulas
+ - [https://www.cbc.ca/news/canada/london/doula-fraud-guilty-plea-1.7055229?cmp=rss](https://www.cbc.ca/news/canada/london/doula-fraud-guilty-plea-1.7055229?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T13:38:23+00:00
+
+<img alt="Kaitlyn Braun, 24, of Brantford pleaded guilty to 21 of the 52 charges she was facing for defrauding and harassing several doulas across Ontario. " height="349" src="https://i.cbc.ca/1.7055458.1702317692!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kaitlyn-braun.jpg" title="Kaitlyn Braun, 24, of Brantford pleaded guilty to 21 of the 52 charges she was facing for defrauding and harassing several doulas across Ontario. " width="620" /><p>A Brantford woman accused of fraudulently seeking the services of several doulas across Ontario has pleaded guilty to multiple charges including fraud, indecent acts, false pretences and mischief. </p>
+
+## Forced-labour watchdog opens probe against Guess over possible Uyghur slave labour
+ - [https://www.cbc.ca/news/politics/forced-labour-watchdog-guess-1.7055492?cmp=rss](https://www.cbc.ca/news/politics/forced-labour-watchdog-guess-1.7055492?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T13:32:37+00:00
+
+<img alt="Canadian Ombudsperson for Responsible Enterprise (CORE), Sheri Meyerhoffer, holds a news conference in Ottawa on Tuesday, July 11, 2023. Ottawa&apos;s corporate-ethics watchdog has announced investigations into a mining corporation and the Canadian branch of Nike for possible forced labour in supply chains. " height="349" src="https://i.cbc.ca/1.6903874.1689109882!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/responsible-enterprise-20230711.jpg" title="Canadian Ombudsperson for Responsible Enterprise (CORE), Sheri Meyerhoffer, holds a news conference in Ottawa on Tuesday, July 11, 2023. Ottawa&apos;s corporate-ethics watchdog has announced investigations into a mining corporation and the Canadian branch of Nike for possible forced labour in supply chains. " width="620" /><p>Canada's corporate watchdog is launching a probe against the company Guess over possible ties to Uyghur forced labour in China.</p>
+
+## Victims' families, women's advocates demand RCMP halt plan to dispose of Robert Pickton evidence
+ - [https://www.cbc.ca/news/canada/british-columbia/robert-pickton-serial-killer-rcmp-dispose-evidence-1.7055215?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/robert-pickton-serial-killer-rcmp-dispose-evidence-1.7055215?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T11:45:35+00:00
+
+<img alt="A poster showing the faces and names of women." height="349" src="https://i.cbc.ca/1.1489189.1702309154!/httpImage/image.jpg_gen/derivatives/16x9_620/hi-bc-121217-missing-women-poster.jpg" title="Serial killer Robert Pickton was convicted on six counts of second-degree murder, but is suspected of killing dozens of women who went missing from Vancouver&apos;s Downtown Eastside." width="620" /><p>The families of people murdered by Robert Pickton are among those demanding the RCMP halt its plan to return or dump thousands of pieces of evidence seized by police during the investigation into the serial killer.</p>
+
+## A sustainable agricultural industry needs to start addressing mental health of farmers, says researcher
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-farmers-mental-health-anxiety-1.7055123?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-farmers-mental-health-anxiety-1.7055123?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T10:04:53+00:00
+
+<img alt="A stormy sky with grey clouds above a field of canola." height="349" src="https://i.cbc.ca/1.7055131.1702304279!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/year-farmers-mental-health-20231209.jpg" title="Storm clouds build over a farmer&apos;s canola field near Cremona, Alta. on Friday, July 29, 2022. Most farmer families across Canada are familiar with the stresses that agriculture brings compounded by the vagaries of nature, isolation, disease affecting crops and animals, wars and financial pressure, but find themselves silenced by the stigma surrounding mental illness. " width="620" /><p>Christi Friesen remembers her husband saying he knew that the cloud of depression over her was finally lifting when he saw her smile at the end of the gruelling 2016 harvest season.</p>
+
+## Preserving grasslands is good for the planet, ranchers say — and they want to be paid for it
+ - [https://www.cbc.ca/news/canada/calgary/grassland-preservation-ranchers-alberta-emissions-1.7055111?cmp=rss](https://www.cbc.ca/news/canada/calgary/grassland-preservation-ranchers-alberta-emissions-1.7055111?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T09:37:55+00:00
+
+<img alt="Snow crusted cattle stand in a pasture " height="349" src="https://i.cbc.ca/1.7055117.1702303775!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/alta-snowfall-20231023.JPG" title="Snow crusted cattle stand in a pasture near Didsbury, Alta., are pictured in a file photo. An industry group is proposing a scheme for that would pay ranchers for maintaining those grasslands rather than plowing them under or selling land to developers. " width="620" /><p>Fed up with taking heat for their industry's carbon footprint, Canadian ranchers say it's time for government to step up and fund a solution that will reduce emissions while also preserving one of earth's most threatened ecosystems.</p>
+
+## He's just Ken: Ryan Gosling nominated for 2024 Golden Globe Awards
+ - [https://www.cbc.ca/news/entertainment/2024-golden-globe-nominations-1.7055081?cmp=rss](https://www.cbc.ca/news/entertainment/2024-golden-globe-nominations-1.7055081?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T09:23:53+00:00
+
+<img alt="Man in blue and pink suit answers questions " height="349" src="https://i.cbc.ca/1.6892722.1688054214!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ryan-gosling.JPG" title="Ryan Gosling, who plays one of the Kens in the new Barbie film, spoke to CBC News in Toronto on Thursday about working with director Greta Gerwig. " width="620" /><p>The 2024 Golden Globe Awards nominations were announced Monday morning. The awards will take place on Sunday, Jan. 7 and are set to air on CBS and stream on Paramount+.</p>
+
+## We should have been here 10 years ago, says Big Oil at COP28
+ - [https://www.cbc.ca/news/world/bakx-cop28-oilpatch-fossil-fuel-phase-out-1.7055049?cmp=rss](https://www.cbc.ca/news/world/bakx-cop28-oilpatch-fossil-fuel-phase-out-1.7055049?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T07:57:44+00:00
+
+<img alt="People hold up signs, banners, and a pretend pipeline as part of an anti-fossil fuel protest." height="349" src="https://i.cbc.ca/1.7055051.1702294960!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/cop28.jpeg" title="A demonstration at COP28 in Dubai." width="620" /><p>Throughout the two-week climate summit, environmental activists have unleashed a torrent of criticism toward the oilpatch, not only because the industry is a major contributor to global warming, but also because of the sector's large presence at COP28.</p>
+
+## 80,000 Quebec nurses on 4-day walkout, joining escalating public sector strike
+ - [https://www.cbc.ca/news/canada/montreal/fiq-4-day-strike-1.7055054?cmp=rss](https://www.cbc.ca/news/canada/montreal/fiq-4-day-strike-1.7055054?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T07:41:38+00:00
+
+<img alt="People holding FIQ signs on the side of the road during a strike." height="349" src="https://i.cbc.ca/1.7021995.1699448348!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/fiq-protest-nov-8.jpeg" title="" width="620" /><p>The Fédération interprofessionnelle de la santé du Québec (FIQ), which represents 80,000 health-care professionals, is striking for the third time this year to demand better salaries and work conditions.</p>
+
+## India's Supreme Court upholds decision to end Kashmir's special status
+ - [https://www.cbc.ca/news/world/india-kashmir-supreme-court-1.7055041?cmp=rss](https://www.cbc.ca/news/world/india-kashmir-supreme-court-1.7055041?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T07:14:16+00:00
+
+<img alt="Helmeted soldiers stand while wearing camouflaged clothing and rifles across their bodies." height="349" src="https://i.cbc.ca/1.7055055.1702295419!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-kashmir.jpg" title="Indian paramilitary soldiers patrol at the main market in Srinagar, Indian controlled Kashmir, Monday, Dec. 11, 2023. (AP Photo/Mukhtar Khan)" width="620" /><p>India's top court on Monday upheld a 2019 decision by Prime Minister Narendra Modi's government to strip disputed Jammu and Kashmir's special status as a semi-autonomous region with a separate constitution and inherited protections on land and jobs.</p>
+
+## Amnesty International reports 'ongoing violations' of human rights on Wet'suwet'en territory
+ - [https://www.cbc.ca/news/indigenous/amnesty-international-wetsuweten-human-rights-1.7053748?cmp=rss](https://www.cbc.ca/news/indigenous/amnesty-international-wetsuweten-human-rights-1.7053748?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T04:00:00+00:00
+
+<img alt="Two Indigenous men participate in a protest in New York City outside the Museum of Modern Art." height="349" src="https://i.cbc.ca/1.6968414.1694804830!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1682984614.jpg" title="NEW YORK, NEW YORK - SEPTEMBER 15: Wet&apos;suwet&apos;en Hereditary Chief Woos aka Frank Alec speaks as Wet&apos;suwet&apos;en Hereditary Chief Na&apos;moks stands silently as climate activists participate in a rally outside of the Museum of Modern Art (MoMA) on September 15, 2023 in New York City. Climate activists with Extinction Rebellion NYC organized a rally outside MoMA ahead of this weekend&apos;s &quot;March to End Fossil Fuels&quot; calling on the museum to end it&apos;s partnership with KKR, a private equity firm that has invested nearly $15 billion in fossil fuel projects including the Coastal GasLink Pipeline currently being built through Wet’suwet’en territory in Canada. " width="620" /><p>An international human rights group is calli
+
+## Bundle up and look to the sky: It's time for one of the best meteor showers of the year
+ - [https://www.cbc.ca/news/science/2023-geminids-1.7050916?cmp=rss](https://www.cbc.ca/news/science/2023-geminids-1.7050916?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T04:00:00+00:00
+
+<img alt="A photograph shows streaks of meteors through the sky over one night." height="349" src="https://i.cbc.ca/1.4940108.1701972003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/geminids-meteor-shower.jpg" title="This layered image shows dozens of Geminid meteors one photographer captured in one night in Arizona." width="620" /><p>The weather is colder but the nights are longer, which makes it a great time to look for “shooting stars.” And this week is the peak of the annual Geminid meteor shower, one of the best shows of the year.</p>
+
+## City of Ottawa looks at moving parking fine, camera ticket disputes out of court
+ - [https://www.cbc.ca/news/canada/ottawa/ottawa-city-parking-traffic-speeding-ticket-court-1.7054043?cmp=rss](https://www.cbc.ca/news/canada/ottawa/ottawa-city-parking-traffic-speeding-ticket-court-1.7054043?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T04:00:00+00:00
+
+<img alt="Ticket under a windshield wiper" height="349" src="https://i.cbc.ca/1.3935779.1686586749!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ottawa-bylaw-parking-ticket.jpg" title="The city of Ottawa and province could not say how many parking tickets have been thrown out because of court delays since the Jordan decision because they are not tracking the numbers." width="620" /><p>A City of Ottawa tender says staff are planning to move parking and camera-based ticket disputes in-house rather than provincial court, but one lawyer worries that could mean bias.</p>
+
+## Helium startups on the Prairies hope to keep domestic supplies afloat
+ - [https://www.cbc.ca/news/canada/calgary/helium-shortage-prairies-1.7052408?cmp=rss](https://www.cbc.ca/news/canada/calgary/helium-shortage-prairies-1.7052408?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-12-11T04:00:00+00:00
+
+<img alt="A man in a hard hat, black fleece and high-visibility vest is pictured outside a helium purification plant in Alberta." height="349" src="https://i.cbc.ca/1.7052424.1701982200!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/andrew-davidson-royal-helium.JPG" title="Andrew Davidson, president and CEO of Royal Helium, is pictured outside the company&apos;s helium purification plant near Brooks, Alta. " width="620" /><p>The element is most commonly associated with party balloons, but it has myriad other applications. It's also currently in short supply — and fetching high prices.</p>
+

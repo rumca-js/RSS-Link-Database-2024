@@ -1,0 +1,142 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss/, language:en-us
+
+## AMD 23.12.1 driver has support for The Finals, Avatar, and adds a bunch of new features
+ - [https://www.neowin.net/news/amd-23121-driver-has-support-for-the-finals-avatar-and-adds-a-bunch-of-new-features](https://www.neowin.net/news/amd-23121-driver-has-support-for-the-finals-avatar-and-adds-a-bunch-of-new-features)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T21:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701812828_isaak_wong_2-1701368793325_medium.jpg" /></div>AMD&#039;s latest graphics driver brings support for The Finals, Avatar: Frontiers of Pandora, while also bringing a UI refresh, Hardware Accelerated GPU Scheduling for more GPUs, and more. <a href="https://www.neowin.net/news/amd-23121-driver-has-support-for-the-finals-avatar-and-adds-a-bunch-of-new-features">Read more...</a>
+
+## Microsoft reveals its Outlook Lite app for Android phones has had over 5 million downloads
+ - [https://www.neowin.net/news/microsoft-reveals-its-outlook-lite-app-for-android-phones-has-had-over-5-million-downloads](https://www.neowin.net/news/microsoft-reveals-its-outlook-lite-app-for-android-phones-has-had-over-5-million-downloads)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T19:40:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701804078_poster_5_medium.jpg" /></div>Microsoft has announced that its Outlook Lite app made for low-end Android devices, has exceeded 5 million downloads since it launched in August 2022. The app is now available worldwide. <a href="https://www.neowin.net/news/microsoft-reveals-its-outlook-lite-app-for-android-phones-has-had-over-5-million-downloads">Read more...</a>
+
+## Google's Smart Compose AI can now solve math equations
+ - [https://www.neowin.net/news/googles-smart-compose-ai-can-now-solve-math-equations](https://www.neowin.net/news/googles-smart-compose-ai-can-now-solve-math-equations)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T19:28:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/10/1601974069_google-workspace_medium.jpg" /></div>Google Workspace users can now get solutions for math equations using the Smart Compose AI suggestions tool. The new functionality will work with Docs, Sheets, Slides, and Drawings. <a href="https://www.neowin.net/news/googles-smart-compose-ai-can-now-solve-math-equations">Read more...</a>
+
+## Amazon joins Google to complain about Microsoft's restrictive cloud computing practices
+ - [https://www.neowin.net/news/amazon-joins-google-to-complain-about-microsofts-restrictive-cloud-computing-practices](https://www.neowin.net/news/amazon-joins-google-to-complain-about-microsofts-restrictive-cloud-computing-practices)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T19:18:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2016/01/mg_8125-edit-4_medium.jpg" /></div>The CMA has published a letter from Amazon noting that Microsoft&#039;s current business practices are impacting the cloud computing industry and is preventing users from switching to rival companies. <a href="https://www.neowin.net/news/amazon-joins-google-to-complain-about-microsofts-restrictive-cloud-computing-practices">Read more...</a>
+
+## Windows 10 will get three years of extended security updates
+ - [https://www.neowin.net/news/windows-10-will-get-three-years-of-extended-security-updates](https://www.neowin.net/news/windows-10-will-get-three-years-of-extended-security-updates)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T18:00:08+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/06/1686472481_img19_medium.jpg" /></div>While Windows 10 will no longer receive any public updates after October 14, 2025, Microsoft has announced it will offer paid Extended Security Updates for three more years for companies. <a href="https://www.neowin.net/news/windows-10-will-get-three-years-of-extended-security-updates">Read more...</a>
+
+## Save 80% on this Complete Award-Winning Luminar Neo Bundle
+ - [https://www.neowin.net/deals/save-80-on-this-complete-award-winning-luminar-neo-bundle](https://www.neowin.net/deals/save-80-on-this-complete-award-winning-luminar-neo-bundle)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T18:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/05/1683199666_luminar-neo-review-lead_medium.jpg" /></div>An award-winning AI photo editing software paired with a photography course and ready to use templates! Turn ordinary images to stunning masterpieces with this seriously discounted deal. <a href="https://www.neowin.net/deals/save-80-on-this-complete-award-winning-luminar-neo-bundle">Read more...</a>
+
+## The Elder Scrolls V: Skyrim updated with Creations menu, Steam Deck support and more
+ - [https://www.neowin.net/news/the-elder-scrolls-v-skyrim-updated-with-creations-menu-steam-deck-support-and-more](https://www.neowin.net/news/the-elder-scrolls-v-skyrim-updated-with-creations-menu-steam-deck-support-and-more)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T17:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701797541_creations_menu_medium.jpg" /></div>Bethesda Game Studios is rolling out an update to The Elder Scrolls V: Skyrim. It adds a new Creations menu for community-made content and the PC version adds support for Steam Deck and more. <a href="https://www.neowin.net/news/the-elder-scrolls-v-skyrim-updated-with-creations-menu-steam-deck-support-and-more">Read more...</a>
+
+## Waze brings two new driving experiences for the holiday season
+ - [https://www.neowin.net/news/waze-brings-two-new-driving-experiences-for-the-holiday-season](https://www.neowin.net/news/waze-brings-two-new-driving-experiences-for-the-holiday-season)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T17:18:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701796438_waze_spice_gingerbread_man_medium.jpg" /></div>Waze has added two new special driving experiences to its navigation app for the holidays. One of them is Spicy Gingerbread Man which comprises a custom Slay Ride car icon and Snappy Mood. <a href="https://www.neowin.net/news/waze-brings-two-new-driving-experiences-for-the-holiday-season">Read more...</a>
+
+## New Unrecord gameplay footage briefly shows a vehicle chase; compares its visuals to GTA 6
+ - [https://www.neowin.net/news/new-unrecord-gameplay-footage-briefly-shows-a-vehicle-chase-compares-its-visuals-to-gta-6](https://www.neowin.net/news/new-unrecord-gameplay-footage-briefly-shows-a-vehicle-chase-compares-its-visuals-to-gta-6)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T16:36:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701793175_unrecord_medium.jpg" /></div>One of the developers of the upcoming photo-realistic first-person shooter Unrecord posted some new footage of the game on X, comparing it to GTA 6&#039;s graphics and also briefly showing some vehicles. <a href="https://www.neowin.net/news/new-unrecord-gameplay-footage-briefly-shows-a-vehicle-chase-compares-its-visuals-to-gta-6">Read more...</a>
+
+## Weird iOS 17 bug triggers app switcher while typing on the keyboard
+ - [https://www.neowin.net/news/weird-ios-17-bug-triggers-app-switcher-while-typing-on-the-keyboard](https://www.neowin.net/news/weird-ios-17-bug-triggers-app-switcher-while-typing-on-the-keyboard)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T14:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1694796208_ios_17_medium.jpg" /></div>Users are reporting an iOS 17 bug that triggers the app switcher while typing something on the virtual keyboard. The bug is reportedly affecting all the versions of iOS 17, including iOS 17.1.2. <a href="https://www.neowin.net/news/weird-ios-17-bug-triggers-app-switcher-while-typing-on-the-keyboard">Read more...</a>
+
+## Microsoft reveals Copilot features coming soon including GPT-4 Turbo, Deep Search, and more
+ - [https://www.neowin.net/news/microsoft-reveals-copilot-features-coming-soon-including-gpt-4-turbo-deep-search-and-more](https://www.neowin.net/news/microsoft-reveals-copilot-features-coming-soon-including-gpt-4-turbo-deep-search-and-more)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T14:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1696075943_windows_copilot_medium.jpg" /></div>Microsoft has revealed a list of features that it plans to add to its Copilot (formerly Bing Chat) generative AI chatbot in 2024, including incorporating the GPT-4 Turbo model and more. <a href="https://www.neowin.net/news/microsoft-reveals-copilot-features-coming-soon-including-gpt-4-turbo-deep-search-and-more">Read more...</a>
+
+## Many PlayStation gamers are reporting they have been permanently banned from their accounts
+ - [https://www.neowin.net/news/many-playstation-gamers-are-reporting-they-have-been-permanently-banned-from-their-accounts](https://www.neowin.net/news/many-playstation-gamers-are-reporting-they-have-been-permanently-banned-from-their-accounts)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T14:04:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/10/1570538702_ps5_medium.jpg" /></div>Over the last few days, many PlayStation gamers have been notified by Sony their accounts have been permanently banned, with no explanation. So far, Sony has yet to comment on these bans. <a href="https://www.neowin.net/news/many-playstation-gamers-are-reporting-they-have-been-permanently-banned-from-their-accounts">Read more...</a>
+
+## Microsoft finally allows turning off news in Windows Widgets, but beware of bugs
+ - [https://www.neowin.net/news/microsoft-finally-allows-turning-off-news-in-windows-widgets-but-beware-of-bugs](https://www.neowin.net/news/microsoft-finally-allows-turning-off-news-in-windows-widgets-but-beware-of-bugs)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T13:36:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/10/1664958415_windows_widgets_medium.jpg" /></div>Microsoft has started rolling out the updated widgets experience for Windows Insiders in the Beta Channel, allowing them to turn off the news feed. However, the company also confirmed several bugs. <a href="https://www.neowin.net/news/microsoft-finally-allows-turning-off-news-in-windows-widgets-but-beware-of-bugs">Read more...</a>
+
+## Get the SteelSeries Arctis Nova 1 gaming headphones for a rock bottom price right now
+ - [https://www.neowin.net/deals/get-the-steelseries-arctis-nova-1-gaming-headphones-for-a-rock-bottom-price-right-now](https://www.neowin.net/deals/get-the-steelseries-arctis-nova-1-gaming-headphones-for-a-rock-bottom-price-right-now)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T13:24:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701781623_steelseries-nova-headset-2_medium.jpg" /></div>The wired SteelSeries Arctis Nova 1 gaming headphones offer quality audio in a lightweight headset. It&#039;s also priced right now at an all-time rock bottom price of just $39.99 at Amazon <a href="https://www.neowin.net/deals/get-the-steelseries-arctis-nova-1-gaming-headphones-for-a-rock-bottom-price-right-now">Read more...</a>
+
+## NVIDIA releases a hotfix to resolve muted colors in Discord and V-SYNC stutters
+ - [https://www.neowin.net/news/nvidia-releases-a-hotfix-to-resolve-muted-colors-in-discord-and-v-sync-stutters](https://www.neowin.net/news/nvidia-releases-a-hotfix-to-resolve-muted-colors-in-discord-and-v-sync-stutters)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T11:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/07/1690480952_nvidia_logo_in_black_and_green_medium.jpg" /></div>NVIDIA has released a hotfix for the latest driver 546.29 to resolve two issues: muted colors in Discord when streaming gameplay and intermittent stutters after enabling V-SYNC on compatible monitors. <a href="https://www.neowin.net/news/nvidia-releases-a-hotfix-to-resolve-muted-colors-in-discord-and-v-sync-stutters">Read more...</a>
+
+## Microsoft confirms weird printing issues and uncalled HP Smart App installations on Windows
+ - [https://www.neowin.net/news/microsoft-confirms-weird-printing-issues-and-uncalled-hp-smart-app-installations-on-windows](https://www.neowin.net/news/microsoft-confirms-weird-printing-issues-and-uncalled-hp-smart-app-installations-on-windows)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T10:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1694073362_printer_medium.jpg" /></div>Microsoft has updated the official Windows documentation with details about the weird bug with renamed printers and the HP Smart App invading Windows 10 and 11 systems. Here are the details. <a href="https://www.neowin.net/news/microsoft-confirms-weird-printing-issues-and-uncalled-hp-smart-app-installations-on-windows">Read more...</a>
+
+## Rockstar confirms GTA VI for Xbox Series X|S and PlayStation 5, skips PC
+ - [https://www.neowin.net/news/rockstar-confirms-gta-vi-for-xbox-series-xs-and-playstation-5-skips-pc](https://www.neowin.net/news/rockstar-confirms-gta-vi-for-xbox-series-xs-and-playstation-5-skips-pc)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T08:28:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701764239_gta1_medium.jpg" /></div>Rockstar has announced that Grand Theft Auto VI is targeting the console platforms Xbox Series X|S and PlayStation 5. There is no mention of a PC version being in development, at least for now. <a href="https://www.neowin.net/news/rockstar-confirms-gta-vi-for-xbox-series-xs-and-playstation-5-skips-pc">Read more...</a>
+
+## Mosseri explains why Threads search results aren't chronological
+ - [https://www.neowin.net/news/mosseri-explains-why-threads-search-results-arent-chronological](https://www.neowin.net/news/mosseri-explains-why-threads-search-results-arent-chronological)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T07:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/07/1689326263_threads_app_logo_purple_medium.jpg" /></div>Instagram head Adam Mosseri came forward to clarify why Threads can&#039;t display search results in chronological order. Keyword search for Threads was recently rolled out to all the regions globally. <a href="https://www.neowin.net/news/mosseri-explains-why-threads-search-results-arent-chronological">Read more...</a>
+
+## A new trailer shows off The Last of Us Part II PS5 remastered version's No Return mode
+ - [https://www.neowin.net/news/a-new-trailer-shows-off-the-last-of-us-part-ii-ps5-remastered-versions-no-return-mode](https://www.neowin.net/news/a-new-trailer-shows-off-the-last-of-us-part-ii-ps5-remastered-versions-no-return-mode)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T05:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701751532_s20230504_t2r_announcetrailer_gameplay_4_wm_medium.jpg" /></div>Naughty Dog has released a new trailer that shows off the new No Return roguelite survival mode that will be included in the upcoming Playstation 5 remastered version of The Last of Us Part II. <a href="https://www.neowin.net/news/a-new-trailer-shows-off-the-last-of-us-part-ii-ps5-remastered-versions-no-return-mode">Read more...</a>
+
+## Halo Infinite to add Firefight: King of the Hill PvE mode in new update this week.
+ - [https://www.neowin.net/news/halo-infinite-to-add-firefight-king-of-the-hill-pve-mode-in-new-update-this-week](https://www.neowin.net/news/halo-infinite-to-add-firefight-king-of-the-hill-pve-mode-in-new-update-this-week)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-12-05T04:38:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701750214_halo-infinite-king-of-the-hill_medium.jpg" /></div>343 Industries has revealed plans to add a new gameplay mode to Halo: Infinite. The Firefight: King of the Hill mode will let players fight waves of enemies on a hill that needs to be captured. <a href="https://www.neowin.net/news/halo-infinite-to-add-firefight-king-of-the-hill-pve-mode-in-new-update-this-week">Read more...</a>
+

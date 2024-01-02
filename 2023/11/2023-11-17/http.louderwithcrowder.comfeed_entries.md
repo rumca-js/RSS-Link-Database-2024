@@ -1,0 +1,104 @@
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
+
+## New York's “Clean Slate Act”' Puts Criminals First, Further "Dismantles Law And Order" In An Already Lawless State
+ - [https://www.louderwithcrowder.com/clean-slate-act](https://www.louderwithcrowder.com/clean-slate-act)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T19:18:13+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50506094&amp;width=1200&amp;height=800&amp;coordinates=142%2C0%2C176%2C0" /><br /><br /><p>In many jurisdictions, our criminal justice system isn’t working as it should. It is quite clear that many Americans feel less safe today than ten years ago due to failed criminal justice reform, among other things. </p><p>Rather than support law and order, progressives in New York have decided to continue with their radical social experiments. </p><p>Governor Kathy Hochul signed New York’s "Clean Slate Act" into law on Thursday, which seals the criminal records of former convicted criminals when applying for housing and employment.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/NY_Gov_PR/status/1725168533393309859"></a>
+</blockquote>
+<p>Essentially, this hides the criminal history of a lot of convicts and is another unnecessary law that hurts peo
+
+## Watch: High School Students Turn Debate Into An Attack On White Christians
+ - [https://www.louderwithcrowder.com/students-blame-christians](https://www.louderwithcrowder.com/students-blame-christians)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T18:41:01+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50505872&amp;width=1200&amp;height=800&amp;coordinates=381%2C0%2C120%2C0" /><br /><br /><p>Many people on the left say that America was built on slavery. In reality, it is actually the opposite. America was built on freedom, not slavery. </p><p>America was founded on a set of principles and values in pursuit of the ideal of freedom. Unfortunately, there were people who denied this. Mostly <a href="https://texasgop.org/the-democrats-have-always-been-the-party-of-systemic-racism/" target="_blank">Democrats</a>, but that is beside the point right now. </p><p>The fact that there were times in history when our founding principles were not honored in practice did not make it any less valid.</p><p>The New York Times’s<a href="https://www.heritage.org/american-founders/commentary/1776-not-1619" rel="noopener noreferrer" target="_blank"> 1619 Project</a> sought to reset America’s founding date of the country to the day whe
+
+## Watch: Oh my! Kid Rock says he confronted the CEO of Bud Light at the UFC over the Dylan Mulvaney debacle
+ - [https://www.louderwithcrowder.com/kid-rock-confronts-bud-light-ceo](https://www.louderwithcrowder.com/kid-rock-confronts-bud-light-ceo)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T18:32:27+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50504864&amp;width=1200&amp;height=800&amp;coordinates=320%2C0%2C209%2C0" /><br /><br /><p>Kid Rock opened up about his involvement in the Dylan Mulvaney brewhaha for the first time and shared a surprising note. He confronted the CEO of Anheuser-Busch over it.</p><p>Rock was considered the person who started the boycott when he <a href="https://www.louderwithcrowder.com/kid-rock-bud-light" target="_blank">shot up cases of the beer</a> after the company started working with the controversial titface performer. He never called for a boycott, but people assumed. Like when <a href="https://twitter.com/CNN/status/1679113430471417856" target="_blank">CNN went UNDERCOVER to his Nashville restaurant</a>. Then he <a href="https://www.louderwithcrowder.com/kid-rock-caught-drinking-bud-light-in-nashville" target="_blank">was caught drinking the beer</a>.</p><p>As the rocker told Hannity, there is a reason he never called for
+
+## Watch: Speaker Johnson shuts down CNBC Anchor, Delivers Important Civic History Listen On Church And State
+ - [https://www.louderwithcrowder.com/cnbc-johnson-religion](https://www.louderwithcrowder.com/cnbc-johnson-religion)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T17:50:25+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50504551&amp;width=1200&amp;height=800&amp;coordinates=200%2C0%2C0%2C0" /><br /><br /><p>Many people deeply hold onto a false account of this country’s inception in which our founding political ideas developed without reference to Christianity, and that the founders desired a strict separation of church and state. </p><p>But if you actually read the constitution, which the left obviously has not, our founders preserved religious liberty to such a great extent that they made it the first protected right.</p><p>House Speaker Mike Johnson<a href="https://www2.cbn.com/news/us/house-speaker-johnson-boldly-points-out-separation-church-state-not-constitution" rel="noopener noreferrer" target="_blank"> has made it very clear</a> that he will not shy away from letting his faith be a guiding principle in Washington. Earlier this week, he proclaimed that "everybody's vibrant expression of faith" is “such an important part of
+
+## Watch: In Alex Jones' new video game, he fights Bill Clinton on Jeffrey Epstein's island with a giant machine gun
+ - [https://www.louderwithcrowder.com/alex-jones-video-game](https://www.louderwithcrowder.com/alex-jones-video-game)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T17:41:21+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50504054&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Alex Jones loves us and wants us to be happy. That's why he is turning himself into a video game. NWO Wars allows you to save the world from the evil globalists’ plot to turn everyone into bug-eating pod-dwelling libtards!</p><p>Think of all the culture wars we battle during the day against evil forces, whether it be the Biden regime, Big Tech, or the corrupt media. Now think of Contra from the old Nintendo 8-bit. You know what that means...</p><p>Up, Up, Down, Down, Left, Right, Left, Right, B, A, and THEY'RE TURNING THE FROGS GAY!</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="85c79" src="https://www.louderwithcrowder.com/media-library/image.png?id=50504196&amp;width=980" />
+</p><p>One of the biggest battles we had Louder with Crowder, the Louder with Crowder Dot Com websit
+
+## Tennessee Town Bans “Indecent Exposure, Public Indecency” In Public... Why Does Gavin Newsom Think That Means Banning "Gay?"
+ - [https://www.louderwithcrowder.com/tennessee-gay-newsom](https://www.louderwithcrowder.com/tennessee-gay-newsom)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T16:55:01+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50504138&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C8" /><br /><br /><p>The left does not expect certain groups of people that they have labeled “disadvantaged” to meet the same standard of behavior as most people. This is what we call "soft bigotry,” which is a form of prejudice that is mostly characteristic of liberals.<br /></p><p>The left's most recent outburst of public bigotry has manifested in homophobia. </p><p>Murfreesboro passed an ordinance in June banning “indecent behavior,” including “indecent exposure, public indecency, lewd behavior, nudity or sexual conduct.”</p><p>But the left is going insane because one of the city codes that was written in 1949 states that sexual conduct includes homosexuality. </p><p><a href="https://www.dnj.com/story/news/2023/11/16/boropride-aclu-wins-effort-remove-homosexuality-murfreesboro-city-code/71607166007/" target="_blank">According </a>to the city man
+
+## MLB All-Star Game returns to Atlanta, despite Biden's hissyfit and lies over Georgia's "Jim Crow" election laws
+ - [https://www.louderwithcrowder.com/mlb-all-star-game-atlanta](https://www.louderwithcrowder.com/mlb-all-star-game-atlanta)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T15:12:14+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=50503355&amp;width=600&amp;height=600&amp;coordinates=560%2C0%2C0%2C0" /><br /><br /><p>The Major League Baseball All-Star Game was announced for Atlanta in 2025. It was supposed to be played in Atlanta in 2021, but they moved it due to faux-uproar over Georgia's common sense voter integrity reforms that Joe Biden called "Jim Crow on steroids." As we know now, the law passed, Biden lied, and it is no longer raaaaaacist for MLB's top players to play a game in the state.</p><p>Joe Biden gives you so many reasons not to vote for him in 2023 alone; it's important to view every reason he's given us in his first term. 2021 feels like a lifetime ago, so let's take a trip back in time.</p><p>Georgia had proposed common-sense voter integrity laws. As with most common sense voter integrity laws, <a href="https://www.louderwithcrowder.com/jen-psaki-doocy-biden-georgia" target="_blank">Democrats lied about them</a> and called
+
+## DRUG DEAL: Biden Begs Xi Jinping To Stop Sending Fentanyl in Return for This...
+ - [https://www.louderwithcrowder.com/biden-begs-xi-jinping](https://www.louderwithcrowder.com/biden-begs-xi-jinping)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T14:31:17+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=50503254&amp;width=600&amp;height=600&amp;coordinates=0%2C0%2C560%2C0" /><br /><br /><p>Joe Biden meets with Xi Jinping. Is this good for our country?!</p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">DRUG DEAL: Biden Begs Xi Jinping To Stop Sending Fentanyl in Return for This...</small>
+<small class="image-media media-photo-credit">
+<a href="https://www.youtube.com/watch?v=1L76Aplo8CE" target="_blank">www.youtube.com</a>
+</small>
+</p>
+<p><strong>BIDEN & XI’S FENTANYL DEAL</strong></p><ul><li><a href="https://www.youtube.com/watch?v=VP6B8D7laDU" rel="noopener noreferrer" target="_blank">Biden welcomes China's President Xi for high-stakes summit</a></li><li><a href="https://www.youtube.com/watch?v=oewoUpgFn6Y" rel="noopener noreferrer" target="_blank">LIVE: Biden speaks after meeting with P
+
+## Watch: Anti-MAGA actor Michael Rapaport has epic meltdown, will now vote for "pig d*ck" Trump because Biden is terrible
+ - [https://www.louderwithcrowder.com/michael-rapaport-voting-for-trump](https://www.louderwithcrowder.com/michael-rapaport-voting-for-trump)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T14:09:36+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50502932&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>We all have our niche content we enjoy. For me, it's Michael Rapaport videos. It comes from him being one of my least favorite actors (outside of the underrated 1999 flick <em>Beautiful Girls</em>). He's your typical progressive, loudmouth actor. One who lately has been releasing videos where he almost gets it but doesn't quite connect the dots. Now he's apparently threatening to vote for Trump over how terrible Joe Biden is.</p><p>Mind you, this is the same guy who, in April, was partying outside of an NYC courthouse, celebrating Alvin Bragg indicted Trump on  <a href="https://www.louderwithcrowder.com/trump-indictment-too-much-taxes" target="_self">thirty-four counts of NOTHING</a> and <a href="https://www.louderwithcrowder.com/michael-rapaport-antifa-trump-arraignment" target="_blank">almost getting into a fight with a girl A
+
+## Watch: Hysterical sketch on grocery shopping during Bidenomics shows why media's "the economy is fine" schtick won't work
+ - [https://www.louderwithcrowder.com/high-cost-of-groceries-thanksgiving](https://www.louderwithcrowder.com/high-cost-of-groceries-thanksgiving)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T13:14:35+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50502415&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Earlier this week, journalisming hack John Harwood <a href="https://www.louderwithcrowder.com/john-hardwood-better-convey-biden" target="_blank">dropped X that the media</a> needs to do be doing a better job shilling for Joe Biden. As you watch the video I'm about to share, ask yourself whose view of the economy you most relate to. An elitist TV journalismer? Or, a woman so in shock over the cost of groceries it causes her to go into labor? HINT: I've got ten bucks that says Harwood doesn't do his own grocery shopping.</p><p>There's some context missing from this video flagged by <a href="https://www.bizpacreview.com/2023/11/16/this-freaking-rocks-spoof-of-shopping-during-bidenomics-both-sad-and-hilarious-at-the-same-time-1413131/" target="_blank">BizPacReview</a>. The Twitter user who shared it is the one who made the Bidenomic
+
+## Michigan Prison Officers Protest New Strip-Search Policy Based On Gender Identity
+ - [https://www.louderwithcrowder.com/michigan-prison-officers](https://www.louderwithcrowder.com/michigan-prison-officers)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T00:13:03+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=50498273&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Sex-based legal protections were not an easy battle for women. Or a quick one for that matter. But they were and still are very necessary due to the threat of sexual assault. </p>
+<p>But because the denial of reality is so widespread and so coerced, nearly all sex-based rights have become impossible to enforce. </p>
+<p><a href="https://news.yahoo.com/michigan-prison-officers-protest-strip-110018112.html#:~:text=LANSING%20%E2%80%94%20Michigan%20corrections%20officers%20say,strip%2Dsearched%20by%20a%20man." rel="noopener noreferrer" target="_blank">According </a>to reports, Michigan prison officers are concerned by a new Department of Corrections policy in which female officers must perform strip searches on inmates in male prisons who say they don't want to be strip-searched by a man due to the way they “identify.” </p><blockquot
+
+## Charges Dismissed For Canadian Pizzeria Owner Who Served Unvaxxed Customers During Lockdowns
+ - [https://www.louderwithcrowder.com/calgary-covid-charges](https://www.louderwithcrowder.com/calgary-covid-charges)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-11-17T00:11:23+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=50498363&amp;width=1200&amp;height=800&amp;coordinates=83%2C0%2C81%2C0" /><br /><br /><p>Anyone with half a brain knew that widespread lockdowns were going to produce profound economic calamity. But obviously, that was not much of a concern for power-hungry tyrants in power, especially in Canada. </p>
+<p>The dumbest thing about vaccine mandates was that not only did the vaccine not prevent <a href="https://www.dailywire.com/news/citywide-vaccine-mandates-did-nothing-to-stop-spread-of-covid-researchers" target="_blank">transmission</a>, but that was not even what it was created to do. Anyone and everyone who got the vaccine was still able to pass on the invisible sniffles as if they never got the Fauci Ouchie. </p>
+<p>In fact, some may even argue that they are more likely to spread it due to it being allegedly thaaaat good at preventing symptoms. </p>
+<p>This is why vaccine mandates were evil, it was all based on l
+

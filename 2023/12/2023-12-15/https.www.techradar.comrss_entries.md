@@ -1,0 +1,338 @@
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
+
+## Pixel phones can now lock up sensitive info before being sent in for repairs
+ - [https://www.techradar.com/phones/pixel-phones-can-now-lock-up-sensitive-info-before-being-sent-in-for-repairs](https://www.techradar.com/phones/pixel-phones-can-now-lock-up-sensitive-info-before-being-sent-in-for-repairs)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T22:51:22+00:00
+
+Repair Mode prevents other people from looking at your files and limits some of the phone's basic functionality.
+
+## Zeekr's new EV battery can take you 500km from only a 15-minute charge
+ - [https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/zeekrs-new-ev-battery-can-take-you-500km-from-only-a-15-minute-charge](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/zeekrs-new-ev-battery-can-take-you-500km-from-only-a-15-minute-charge)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T22:49:37+00:00
+
+Zeekr's new lithium-ion phosphate battery can charge at 500kW without compromising safety.
+
+## The OnePlus 12 will step out on the world stage this January and it won't be alone
+ - [https://www.techradar.com/phones/the-oneplus-12-will-step-out-on-the-world-stage-this-january-and-it-wont-be-alone](https://www.techradar.com/phones/the-oneplus-12-will-step-out-on-the-world-stage-this-january-and-it-wont-be-alone)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T20:36:15+00:00
+
+The OnePlus 12 will be released alongside the OnePlus 12R, however details on the latter are still rather slim.
+
+## Google's AI powerhouse finds millions of new crystals that could change the fate of humanity forever — and, for better or worse, it is just getting started
+ - [https://www.techradar.com/pro/googles-ai-powerhouse-finds-millions-of-new-crystals-that-could-change-the-fate-of-humanity-forever-and-for-better-or-worse-it-is-just-getting-started](https://www.techradar.com/pro/googles-ai-powerhouse-finds-millions-of-new-crystals-that-could-change-the-fate-of-humanity-forever-and-for-better-or-worse-it-is-just-getting-started)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T19:09:19+00:00
+
+Using a powerful new AI tool, Google DeepMind researchers have dramatically increased the speed of inorganic materials discovery
+
+## More AI, less HiFi. This is Spotify's next venture into artificial intelligence.
+ - [https://www.techradar.com/audio/audio-streaming/more-ai-less-hifi-this-is-spotifys-next-venture-into-artificial-intelligence](https://www.techradar.com/audio/audio-streaming/more-ai-less-hifi-this-is-spotifys-next-venture-into-artificial-intelligence)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T17:57:52+00:00
+
+Plans for more AI features in Spotify are on the way with AI-powered playlists currently being tested.
+
+## I loved this Sony soundbar when I reviewed it, and it’s 40% off in this holiday deal
+ - [https://www.techradar.com/seasonal-sales/i-loved-this-sony-soundbar-when-i-reviewed-it-and-its-40-off-in-this-holiday-deal](https://www.techradar.com/seasonal-sales/i-loved-this-sony-soundbar-when-i-reviewed-it-and-its-40-off-in-this-holiday-deal)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T17:40:49+00:00
+
+The Sony HT-S2000 is one of our favorite budget Dolby Atmos soundbars, and at 40% off, we like it even more.
+
+## Samsung Galaxy S24 cameras: what to expect based on the leaks and rumors
+ - [https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s24-camera](https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s24-camera)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T17:19:24+00:00
+
+What the leaks tell us about the cameras on the Galaxy S24, the Galaxy S24 Plus, and the Samsung Galaxy S24 Ultra.
+
+## Embracer-owned Slipgate Ironworks and 3D Realms reportedly hit with layoffs, employees reveal
+ - [https://www.techradar.com/gaming/embracer-owned-slipgate-ironworks-and-3d-realms-reportedly-hit-with-layoffs-employees-reveal](https://www.techradar.com/gaming/embracer-owned-slipgate-ironworks-and-3d-realms-reportedly-hit-with-layoffs-employees-reveal)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T17:17:12+00:00
+
+A number of Slipgate Ironworks and 3D Realms employees have taken to social media to state that they've been impacted by layoffs.
+
+## Attack on Ledger crypto wallet leads to huge money thefts
+ - [https://www.techradar.com/pro/security/attack-on-ledger-crypto-wallet-leads-to-huge-money-thefts](https://www.techradar.com/pro/security/attack-on-ledger-crypto-wallet-leads-to-huge-money-thefts)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T17:02:13+00:00
+
+At least $610,000 was stolen from victims’ crypto wallets in just two hours before Ledger was able to act.
+
+## Last chance: save up to $2,500 on TVs, appliances, and phones in the massive Samsung holiday sale
+ - [https://www.techradar.com/seasonal-sales/last-chance-save-up-to-dollar2500-on-tvs-appliances-and-phones-in-the-massive-samsung-holiday-sale](https://www.techradar.com/seasonal-sales/last-chance-save-up-to-dollar2500-on-tvs-appliances-and-phones-in-the-massive-samsung-holiday-sale)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T16:29:56+00:00
+
+Today is your last chance for holiday shipping! Don't miss your chance to bag one of these excellent 14 Samsung deals before Christmas.
+
+## Baldur’s Gate 3 director explains why the RPG was never going to be on Xbox Game Pass
+ - [https://www.techradar.com/gaming/xbox/baldurs-gate-3-director-explains-why-the-rpg-was-never-going-to-be-on-xbox-game-pass](https://www.techradar.com/gaming/xbox/baldurs-gate-3-director-explains-why-the-rpg-was-never-going-to-be-on-xbox-game-pass)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T16:18:04+00:00
+
+Baldur's Gate 3 director Swen Vincke has revealed that "from the get-go," the RPG was never going to be on Xbox Game Pass.
+
+## Best Buy just launched a huge last-minute holiday sale - shop the 19 best deals
+ - [https://www.techradar.com/seasonal-sales/best-buy-just-launched-a-huge-last-minute-holiday-sale-shop-the-19-best-deals](https://www.techradar.com/seasonal-sales/best-buy-just-launched-a-huge-last-minute-holiday-sale-shop-the-19-best-deals)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T15:56:58+00:00
+
+Best Buy just launched a massive 3-day holiday sale with last-minute deals on Apple devices, TVs, headphones, laptops and more.
+
+## Searching for a last-minute gift? These 9 headphones are some of our top rated
+ - [https://www.techradar.com/audio/headphones/searching-for-a-last-minute-gift-these-9-headphones-are-some-of-our-top-rated](https://www.techradar.com/audio/headphones/searching-for-a-last-minute-gift-these-9-headphones-are-some-of-our-top-rated)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T15:55:06+00:00
+
+Here's our pick of the top over-ear headphones, from high-end to budget, that will make great presents.
+
+## Huawei's incredible new MatePad Pro is all about the creation of beauty
+ - [https://www.techradar.com/tablets/huaweis-incredible-new-matepad-pro-is-all-about-the-creation-of-beauty](https://www.techradar.com/tablets/huaweis-incredible-new-matepad-pro-is-all-about-the-creation-of-beauty)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T15:25:33+00:00
+
+This exceptional new tablet delivers stunning visuals on a huge and gorgeous display
+
+## Enhancing SaaS app security: Best practices for cloud protection
+ - [https://www.techradar.com/pro/enhancing-saas-app-security-best-practices-for-cloud-protection](https://www.techradar.com/pro/enhancing-saas-app-security-best-practices-for-cloud-protection)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T15:20:16+00:00
+
+Organizations should follow recommended best practices to guarantee the safeguarding of data within their SaaS applications.
+
+## The power of vishing: Why it's effective and how to avoid falling victim
+ - [https://www.techradar.com/pro/the-power-of-vishing-why-its-effective-and-how-to-avoid-falling-victim](https://www.techradar.com/pro/the-power-of-vishing-why-its-effective-and-how-to-avoid-falling-victim)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T15:15:42+00:00
+
+Vishing takes time to build trust, but can be hugely effective. Here's how to protect yourself.
+
+## Xbox Cloud Gaming app brings Game Pass to Meta Quest VR headsets
+ - [https://www.techradar.com/gaming/xbox-cloud-gaming-app-brings-game-pass-to-meta-quest-vr-headsets](https://www.techradar.com/gaming/xbox-cloud-gaming-app-brings-game-pass-to-meta-quest-vr-headsets)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T15:12:20+00:00
+
+The Xbox Cloud Gaming (Beta) app is out now on the Meta Quest Store and works with a Game Pass Ultimate subscription.
+
+## Blockchain systems hijacked for DDoS attacks by seemingly all-new malware tactics
+ - [https://www.techradar.com/pro/security/blockchain-systems-hijacked-for-ddos-attacks-by-seemingly-all-new-malware-tactics](https://www.techradar.com/pro/security/blockchain-systems-hijacked-for-ddos-attacks-by-seemingly-all-new-malware-tactics)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T15:01:46+00:00
+
+NKAbuse, a multi-platform malware written in Go, uses blockchain to ensure anonymity.
+
+## 7 new movies and TV shows to stream on Netflix, Prime Video, Max, and more this weekend (December 15)
+ - [https://www.techradar.com/streaming/7-new-movies-and-tv-shows-to-stream-on-netflix-prime-video-max-and-more-this-weekend-december-15-2023](https://www.techradar.com/streaming/7-new-movies-and-tv-shows-to-stream-on-netflix-prime-video-max-and-more-this-weekend-december-15-2023)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T15:00:55+00:00
+
+From blockbuster summer movies to family-friendly animated adventures, there’s plenty to watch this weekend.
+
+## Samsung's The Frame TV is the ultimate Christmas gift and it's currently $1,000 off
+ - [https://www.techradar.com/seasonal-sales/samsungs-the-frame-tv-is-the-ultimate-christmas-gift-and-its-currently-dollar1000-off](https://www.techradar.com/seasonal-sales/samsungs-the-frame-tv-is-the-ultimate-christmas-gift-and-its-currently-dollar1000-off)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T14:58:54+00:00
+
+Samsung's stunning The Frame TV is the ultimate Christmas gift, and this 75-inch model is on sale for a record-low price.
+
+## Wait, the latest Alienware Aurora R16 gaming PC is actually good value now?
+ - [https://www.techradar.com/computing/gaming-pcs/wait-the-latest-alienware-aurora-r16-gaming-pc-is-actually-good-value-now](https://www.techradar.com/computing/gaming-pcs/wait-the-latest-alienware-aurora-r16-gaming-pc-is-actually-good-value-now)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T14:55:06+00:00
+
+Dell has just listed a fantastic deal on the Alienware Aurora R16 with a massive $400 price cut ahead of Christmas.
+
+## Nvidia could scrap GTX 1650 and 1630 GPUs – but don’t panic, there’s a likely wallet-friendly replacement
+ - [https://www.techradar.com/computing/gpu/nvidia-could-scrap-gtx-1650-and-1630-gpus-but-dont-panic-theres-a-likely-wallet-friendly-replacement](https://www.techradar.com/computing/gpu/nvidia-could-scrap-gtx-1650-and-1630-gpus-but-dont-panic-theres-a-likely-wallet-friendly-replacement)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T14:51:19+00:00
+
+Wave goodbye to Nvidia’s GTX brand, as it’s set to be canceled – but there’s a budget GPU replacement inbound.
+
+## Many tech workers don't think they're getting the training they need
+ - [https://www.techradar.com/pro/many-tech-workers-dont-think-theyre-getting-the-training-they-need](https://www.techradar.com/pro/many-tech-workers-dont-think-theyre-getting-the-training-they-need)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T14:14:55+00:00
+
+Survey finds tech workers aren't happy with their learning opportunities - and that's a big problem for their employers.
+
+## Curb Your Enthusiasm season 12 debuts on Max in 2024 – and it'll be its last
+ - [https://www.techradar.com/streaming/curb-your-enthusiasm-season-12-debuts-on-max-in-2024-and-itll-be-its-last](https://www.techradar.com/streaming/curb-your-enthusiasm-season-12-debuts-on-max-in-2024-and-itll-be-its-last)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T14:13:48+00:00
+
+HBO's longest-running comedy is coming to a close next year, and this time it's (probably) not coming back.
+
+## Purple is ending the year with a bang, thanks to this better-than-Black-Friday mattress deal
+ - [https://www.techradar.com/health-fitness/mattresses/purple-is-ending-the-year-with-a-bang-thanks-to-this-better-than-black-friday-mattress-deal](https://www.techradar.com/health-fitness/mattresses/purple-is-ending-the-year-with-a-bang-thanks-to-this-better-than-black-friday-mattress-deal)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T14:00:54+00:00
+
+Patience has paid off – there's $400 off the top-rated Purple Plus and up tp $400 off the Original
+
+## CES 2024: everything you need to know about this year's huge tech event
+ - [https://www.techradar.com/tech-events/ces-2024](https://www.techradar.com/tech-events/ces-2024)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T14:00:37+00:00
+
+We’ve gathered all the most important information about this year’s CES trade show.
+
+## Kraft Heinz investigating possible cyberattack
+ - [https://www.techradar.com/pro/security/kraft-heinz-investigating-possible-cyberattack](https://www.techradar.com/pro/security/kraft-heinz-investigating-possible-cyberattack)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T13:35:17+00:00
+
+Snatch ransomware group claims to have breached Kraft Heinz’s systems, but it could just be an empty boast.
+
+## It's not just you – YouTube ads on smart TVs are getting painfully long
+ - [https://www.techradar.com/computing/internet/its-not-just-you-youtube-ads-on-smart-tvs-are-getting-painfully-long](https://www.techradar.com/computing/internet/its-not-just-you-youtube-ads-on-smart-tvs-are-getting-painfully-long)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T13:20:18+00:00
+
+Watch YouTube on your TV? The service is now rolling out longer ad breaks – though they should also be less frequent.
+
+## The Google Pixel 9 could get a new AI-powered assistant
+ - [https://www.techradar.com/phones/google-pixel-phones/the-google-pixel-9-could-get-a-new-ai-powered-assistant](https://www.techradar.com/phones/google-pixel-phones/the-google-pixel-9-could-get-a-new-ai-powered-assistant)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T13:05:49+00:00
+
+A new AI assistant called Pixie could soon replace Google Assistant on Pixel phones.
+
+## EU Media Freedom Act and the push to use spyware on journalists
+ - [https://www.techradar.com/computing/cyber-security/eu-media-freedom-act-and-the-push-to-use-spyware-on-journalists](https://www.techradar.com/computing/cyber-security/eu-media-freedom-act-and-the-push-to-use-spyware-on-journalists)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T12:50:11+00:00
+
+The final trilogue meeting is scheduled for December 15. Here we explore who's pushing for more surveillance on journalists and what's at stake.
+
+## Total War studio apologizes for Shadows of Change DLC - commits to ‘ensuring that we better meet your expectations going forward’
+ - [https://www.techradar.com/gaming/pc-gaming/total-war-studio-apologizes-for-shadows-of-change-dlc-commits-to-ensuring-that-we-better-meet-your-expectations-going-forward](https://www.techradar.com/gaming/pc-gaming/total-war-studio-apologizes-for-shadows-of-change-dlc-commits-to-ensuring-that-we-better-meet-your-expectations-going-forward)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T12:49:17+00:00
+
+The vice president Creative Assembly, Roger Collum, has apologized to Total War fans for the series' "missteps."
+
+## Say goodbye to the Netflix app on these old Sony TVs and Blu-ray players
+ - [https://www.techradar.com/streaming/netflix/say-goodbye-to-the-netflix-app-on-these-old-sony-tvs-and-blu-ray-players](https://www.techradar.com/streaming/netflix/say-goodbye-to-the-netflix-app-on-these-old-sony-tvs-and-blu-ray-players)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T12:44:37+00:00
+
+The Netflix app will stop working on some Sony EX, HX and W Series TVs and some Sony Blu-Ray players too.
+
+## Victrix has announced an Xbox version of one of its best controllers
+ - [https://www.techradar.com/gaming/victrix-has-announced-an-xbox-version-of-one-of-its-best-controllers](https://www.techradar.com/gaming/victrix-has-announced-an-xbox-version-of-one-of-its-best-controllers)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T12:41:13+00:00
+
+Hardware brand Victrix has announced The Xbox Pro BFG Wireless Controller, bringing one of their best designs to Xbox.
+
+## Be on your guard - that innocent-looking text message could be a scam
+ - [https://www.techradar.com/pro/security/be-on-your-guard-that-innocent-looking-text-message-could-be-a-scam](https://www.techradar.com/pro/security/be-on-your-guard-that-innocent-looking-text-message-could-be-a-scam)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T12:32:39+00:00
+
+Proofpoint finds conversational text scams have increased by over 300% around the world this year
+
+## Platonic has been renewed for season 2 on Apple TV Plus and there’s already a spoiler
+ - [https://www.techradar.com/streaming/apple-tv-plus/platonic-has-been-renewed-for-season-2-on-apple-tv-plus-and-theres-already-a-spoiler](https://www.techradar.com/streaming/apple-tv-plus/platonic-has-been-renewed-for-season-2-on-apple-tv-plus-and-theres-already-a-spoiler)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T12:27:20+00:00
+
+Apple's brilliant buddy comedy is so popular it's coming back for a second season – and it probably won't feature an alien invasion.
+
+## AMD’s FSR 3 gets a new improved version to combat Nvidia DLSS 3 – and it’s now open source, so it’ll be speeding up frame rates in a lot more PC games
+ - [https://www.techradar.com/computing/gpu/amds-fsr-3-gets-a-new-improved-version-to-combat-nvidia-dlss-3-and-its-now-open-source-so-itll-be-speeding-up-frame-rates-in-a-lot-more-pc-games](https://www.techradar.com/computing/gpu/amds-fsr-3-gets-a-new-improved-version-to-combat-nvidia-dlss-3-and-its-now-open-source-so-itll-be-speeding-up-frame-rates-in-a-lot-more-pc-games)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T12:13:49+00:00
+
+FSR 3 has been lagging behind Nvidia’s DLSS frame generation, but it’s now catching up – and hopefully at a rate of knots.
+
+## The Samsung Galaxy Book 4 laptops are AI-powered MacBook rivals
+ - [https://www.techradar.com/computing/laptops/the-samsung-galaxy-book-4-laptops-are-ai-powered-macbook-rivals](https://www.techradar.com/computing/laptops/the-samsung-galaxy-book-4-laptops-are-ai-powered-macbook-rivals)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T11:55:58+00:00
+
+We've got details of three new Galaxy Book laptops from Samsung – although pricing is yet to be announced.
+
+## LinkedIn shelves plans to move its cloud to Microsoft Azure
+ - [https://www.techradar.com/pro/linkedin-shelves-plans-to-move-its-cloud-to-microsoft-azure](https://www.techradar.com/pro/linkedin-shelves-plans-to-move-its-cloud-to-microsoft-azure)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T11:47:01+00:00
+
+One Microsoft service won’t use another Microsoft service, according to people familiar with LinkedIn’s plans.
+
+## Instagram’s new AI image editor makes your life look more exciting than it is
+ - [https://www.techradar.com/computing/instagram/instagrams-new-ai-image-editor-makes-your-life-look-more-exciting-than-it-is](https://www.techradar.com/computing/instagram/instagrams-new-ai-image-editor-makes-your-life-look-more-exciting-than-it-is)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T11:46:09+00:00
+
+After their announcement at Meta Connect 2023, AI image generating and editing tools are now being rolled out in Instagram.
+
+## Windows 11 is getting a voice-powered ability many users have been longing for, as Microsoft kills off Windows Speech Recognition for the far superior Voice Access tech
+ - [https://www.techradar.com/computing/windows/windows-11-is-getting-a-voice-powered-ability-many-users-have-been-longing-for-as-microsoft-kills-off-windows-speech-recognition-for-the-far-superior-voice-access-tech](https://www.techradar.com/computing/windows/windows-11-is-getting-a-voice-powered-ability-many-users-have-been-longing-for-as-microsoft-kills-off-windows-speech-recognition-for-the-far-superior-voice-access-tech)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T11:18:54+00:00
+
+New preview pushes forward with voice commands which are also now supported across multiple monitors.
+
+## Google is finally killing tracking cookies in Chrome – here’s what that means
+ - [https://www.techradar.com/computing/chrome/google-is-finally-killing-tracking-cookies-in-chrome-heres-what-that-means](https://www.techradar.com/computing/chrome/google-is-finally-killing-tracking-cookies-in-chrome-heres-what-that-means)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T11:13:54+00:00
+
+Google Chrome is rolling out Tracking Prevention, a feature that will block tracking cookies by default.
+
+## Next year’s iPad Pro looks very likely to have a major screen upgrade
+ - [https://www.techradar.com/tablets/ipad-pro/next-years-ipad-pro-looks-very-likely-to-have-a-major-screen-upgrade](https://www.techradar.com/tablets/ipad-pro/next-years-ipad-pro-looks-very-likely-to-have-a-major-screen-upgrade)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T11:05:30+00:00
+
+A supply chain report points again to OLED iPad Pros in 2024, but there's reportedly no clear timeline for a foldable iPhone.
+
+## Microsoft Teams is finally fixing one of its most annoying flaws
+ - [https://www.techradar.com/pro/microsoft-teams-is-finally-fixing-one-of-its-most-annoying-flaws](https://www.techradar.com/pro/microsoft-teams-is-finally-fixing-one-of-its-most-annoying-flaws)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T10:40:10+00:00
+
+Deal with all those irritating calendar notifications right from the Microsoft Teams activity feed.
+
+## World of Warcraft's disjointed story 'is something that we need to improve', says MMO's director, 'I can completely acknowledge that is a weakness'
+ - [https://www.techradar.com/gaming/pc-gaming/world-of-warcrafts-disjointed-story-is-something-that-we-need-to-improve-says-mmos-director-i-can-completely-acknowledge-that-is-a-weakness](https://www.techradar.com/gaming/pc-gaming/world-of-warcrafts-disjointed-story-is-something-that-we-need-to-improve-says-mmos-director-i-can-completely-acknowledge-that-is-a-weakness)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T10:26:33+00:00
+
+World of Warcraft director Ion Hazzikostas aims to fix problems with the MMORPG's story structure.
+
+## You can expect some V-Bucks back if you purchased one of Fortnite's car bundles at full price
+ - [https://www.techradar.com/gaming/you-can-expect-some-v-bucks-back-if-you-purchased-one-of-fortnites-car-bundles-at-full-price](https://www.techradar.com/gaming/you-can-expect-some-v-bucks-back-if-you-purchased-one-of-fortnites-car-bundles-at-full-price)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T10:00:07+00:00
+
+Fortnite will be refunding players who purchased a car bundle at full price following the announcement of a pricing adjustment.
+
+## The Last of Us Online canceled as Naughty Dog didn’t want to ‘become a solely live service games studio’
+ - [https://www.techradar.com/gaming/the-last-of-us-online-canceled-as-naughty-dog-didnt-want-to-become-a-solely-live-service-games-studio](https://www.techradar.com/gaming/the-last-of-us-online-canceled-as-naughty-dog-didnt-want-to-become-a-solely-live-service-games-studio)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T09:59:33+00:00
+
+Naughty Dog has announced that it's stopped development on its multiplayer project, The Last of Us Online.
+
+## The iconic Polaroid SX-70 instant camera will be immortalized as a Lego set in the new year – bring on 2024!
+ - [https://www.techradar.com/cameras/the-iconic-polaroid-sx-70-instant-camera-will-be-immortalized-as-a-lego-set-in-the-new-year-bring-on-2024](https://www.techradar.com/cameras/the-iconic-polaroid-sx-70-instant-camera-will-be-immortalized-as-a-lego-set-in-the-new-year-bring-on-2024)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T09:39:44+00:00
+
+The iconic Polaroid SX-70 looks like a charming Lego set touted for release in the new year.
+
+## Quordle today - hints and answers for Friday, December 15 (game #690)
+ - [https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-15-december-2023](https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-15-december-2023)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-12-15T00:15:07+00:00
+
+Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.
+

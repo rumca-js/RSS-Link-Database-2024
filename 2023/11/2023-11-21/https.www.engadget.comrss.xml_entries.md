@@ -1,0 +1,285 @@
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
+
+## Tesla's idle fees will charge drivers who keep their cars plugged in after they've topped up
+ - [https://www.engadget.com/teslas-idle-fees-will-charge-drivers-who-keep-their-cars-plugged-in-after-theyve-topped-up-230601570.html?src=rss](https://www.engadget.com/teslas-idle-fees-will-charge-drivers-who-keep-their-cars-plugged-in-after-theyve-topped-up-230601570.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T23:06:01+00:00
+
+<p>Tesla, which hosts <a href="https://www.engadget.com/tesla-superchargers-other-evs-france-norway-pilot-152019187.html"><ins>50,000+ supercharging stations</ins></a> for electric vehicles globally, is <a href="https://www.tesla.com/support/charging/supercharger/fees"><ins>rolling out</ins></a> a new fee system that the company hopes will free up charging traffic at its stations. Supercharger idle fees will roll out globally, while congestion fees will specifically be implemented in the US.</p>
+<p>Idles fees will kick in and start charging drivers on a per-minute basis when a car remains stationed at a charging point after it has already been fully recharged. Through the Tesla app, the company says drivers will be alerted when their charge is near complete and once again when their cars reach a full charging threshold. For every additional minute an EV remains parked in a charging station and connected to a Supercharger, Tesla will charge the driver an idle fee of up to 50 cents per
+
+## The Kobo Clara 2E ereader drops to a record-low price for Black Friday
+ - [https://www.engadget.com/the-kobo-clara-2e-ereader-drops-to-a-record-low-price-for-black-friday-221518316.html?src=rss](https://www.engadget.com/the-kobo-clara-2e-ereader-drops-to-a-record-low-price-for-black-friday-221518316.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T22:15:18+00:00
+
+<p>Amazon’s Black Friday deals have dropped the <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0tvYm8tR2xhcmUtRnJlZS1Ub3VjaHNjcmVlbi1Db21mb3J0TGlnaHQtQWRqdXN0YWJsZS9kcC9CMEJDWExRTkNDLz90YWc9Z2RndDBjLXAtby01MjctMjAiLCJjb250ZW50VXVpZCI6Ijc5YTc2OWM3LWUyN2EtNDg2MS05YmY5LWE4MjQ2OWM0MjZkOCJ9&amp;signature=AQAAATDMG5WicvlNpii-QzKWWq80oj1bpVG-FQKju42mihBl&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FKobo-Glare-Free-Touchscreen-ComfortLight-Adjustable%2Fdp%2FB0BCXLQNCC%2F">Kobo Clara 2E ereader</a> to a record-low price. This model is Engadget’s top pick for the <a href="https://www.engadget.com/best-ereader-130013808.html">best ereader in 2023</a>, with its terrific design, intuitive navigation and seamless library book bo
+
+## The 6 best Black Friday streaming deals for 2023
+ - [https://www.engadget.com/best-black-friday-streaming-deals-for-2023-220004474.html?src=rss](https://www.engadget.com/best-black-friday-streaming-deals-for-2023-220004474.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T22:00:04+00:00
+
+<p>With all of the price hikes streaming services <a href="https://www.engadget.com/apple-tv-prices-have-doubled-in-just-over-a-year-150156333.html">have</a> <a href="https://www.engadget.com/disney-is-raising-prices-and-cracking-down-on-account-sharing-001637934.html">undergone</a> <a href="https://www.engadget.com/netflix-jacks-price-of-its-premium-plan-up-to-23-a-month-201116571.html">lately</a>, Engadget recently asked whether streaming was <a href="https://www.engadget.com/is-streaming-video-even-still-worth-it-192651141.html">still worth it</a>. Ultimately, our answer is yes, but we can't help but notice how much more expensive these services are now than they once were. Now that Black Friday is here, you have an opportunity to save a little on the monthly costs of your TV subscription services. Max, Hulu, Paramount+, and a few of the live TV streaming services are currently running discounts, with savings of up to 85 percent. These are the best streaming deals we found for Bla
+
+## Binance founder Changpeng Zhao steps down as CEO, will plead guilty to federal charges
+ - [https://www.engadget.com/binance-founder-changpeng-zhao-steps-down-as-ceo-will-plead-guilty-to-federal-charges-210627469.html?src=rss](https://www.engadget.com/binance-founder-changpeng-zhao-steps-down-as-ceo-will-plead-guilty-to-federal-charges-210627469.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T21:06:27+00:00
+
+<p><a href="https://www.engadget.com/tag/binance/"><ins>Binance</ins></a> CEO Changpeng Zhao is set to <a class="no-affiliate-link" href="https://www.washingtonpost.com/national-security/2023/11/21/binance-changpeng-zhao-guilty-fine/"><ins>plead guilty</ins></a> to federal money laundering charges and step down from his position at the company he founded. Zhao and the cryptocurrency exchange have reached a plea deal with the government, which conducted a multi-year investigation into the company, <a class="no-affiliate-link" href="https://www.cnbc.com/2023/11/21/binance-ceo-changpeng-zhao-to-plead-guilty-to-federal-charges-step-down.html"><em><ins>CNBC</ins></em></a> reports. As part of the settlement, Binance will forfeit $2.5 billion and pay a $1.8 billion fine. Zhao is slated to personally pay $50 million.</p>
+<p>Zhao will be prohibited from having any involvement with Binance for three years. As part of the plea deal, Zhao will plead guilty later on Tuesday to violating and causi
+
+## AutoZone warns almost 185,000 customers of a data breach
+ - [https://www.engadget.com/autozone-warns-almost-185000-customers-of-a-data-breach-202533437.html?src=rss](https://www.engadget.com/autozone-warns-almost-185000-customers-of-a-data-breach-202533437.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T20:25:33+00:00
+
+<p>AutoZone alerted authorities on Tuesday that it had been a victim of the Clop ransomware gang's MOVEit attacks earlier this year. According to a <a href="https://apps.web.maine.gov/online/aeviewer/ME/40/4b650bee-f556-4b08-8659-f0e1207aa969.shtml">breach notification</a> filed with the Office of the Maine Attorney General, the data leak from the auto parts retailer impacted 184,995 people. The hackers acquired personal information, including full names and social security numbers, the notification said.&nbsp;</p>
+<p>The incident happened in May, as a part of a string of attacks linked to Clop. The hackers exploited a vulnerability in file transfer software MOVEit, attacking more then 2,000 organizations and impacting 62 million people, according to <a class="no-affiliate-link" href="https://www.emsisoft.com/en/blog/44123/unpacking-the-moveit-breach-statistics-and-analysis/">researchers at Emsisoft</a>.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>AutoZone realized it had fall
+
+## Anthropic's ChatGPT rival Claude can now analyze 150,000 words in one prompt
+ - [https://www.engadget.com/anthropics-chatgpt-rival-claude-can-now-analyze-150000-words-in-one-prompt-201033756.html?src=rss](https://www.engadget.com/anthropics-chatgpt-rival-claude-can-now-analyze-150000-words-in-one-prompt-201033756.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T20:10:33+00:00
+
+<p>OpenAI rival Anthropic <a class="no-affiliate-link" href="https://www.anthropic.com/index/claude-2-1">launched</a> Claude 2.1 today. The latest version of the <a href="https://www.engadget.com/anthropics-claude-ai-is-guided-by-10-secret-foundational-pillars-of-fairness-193058471.html">ChatGPT rival</a> boosts its context window to 200,000 tokens, allowing you to paste the entirety of Homer’s <em>The Odyssey</em> for AI analysis. (Tokens are chunks of text it uses to organize information, and a context window is the set limit of tokens it can parse in a single request.) The company said version 2.1 also halves Claude’s hallucination rate, leading to fewer erroneous answers (like those <a href="https://www.engadget.com/a-lawyer-faces-sanctions-after-he-used-chatgpt-to-write-a-brief-riddled-with-fake-citations-175720636.html">the ChatGPT lawyer</a> trusted far too much). Coincidentally or not, the update arrives as the tech world watches Anthropic’s rival <a href="https://www.engadge
+
+## Black Friday 2023: The 60 best deals you can get right now from Amazon, Target, Walmart and others
+ - [https://www.engadget.com/black-friday-2023-the-60-best-deals-you-can-get-right-now-from-amazon-target-walmart-and-others-200420919.html?src=rss](https://www.engadget.com/black-friday-2023-the-60-best-deals-you-can-get-right-now-from-amazon-target-walmart-and-others-200420919.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T20:04:20+00:00
+
+<p>Black Friday is right around the corner, but we wouldn’t blame you if you’ve felt like it’s been here for quite some time already. As its name suggests, Black Friday has typically been a one-day affair that’s brought limited-time deals across a wide range of products — including consumer tech. But the past couple of years have brought Black Friday deals earlier and earlier to the internet, and this year is no different. <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2JsYWNrZnJpZGF5P3RhZz1nZGd0MGMtcC1vLTUyNS0yMCIsImNvbnRlbnRVdWlkIjoiM2E0ZDUzZTQtYjYyMS00ZDQ3LTkyMDgtNjBhZTNiZWFhM2FiIn0&amp;signature=AQAAAaVGLizmtNrIQbRTwxjFocLgXWS0x74xUQq69Wl7nfW9&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fblackfriday">Amazon</a>
+
+## Sonos' long-rumored headphones will reportedly arrive by April 2024
+ - [https://www.engadget.com/sonos-long-rumored-headphones-will-reportedly-arrive-by-april-2024-195833525.html?src=rss](https://www.engadget.com/sonos-long-rumored-headphones-will-reportedly-arrive-by-april-2024-195833525.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T19:58:33+00:00
+
+<p>Sonos is planning to enter new markets over the next couple of years. The company, which currently makes smart speakers and soundbars, is gearing up to launch high-end, over-the-ear headphones, smaller in-ear wireless earbuds and a streaming box for TVs, according to a <em>Bloomberg</em> <a class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2023-11-21/sonos-plans-400-500-headphones-tv-set-top-box-video-roam-2-new-sound-bar?utm_medium=social&amp;utm_content=tech&amp;cmpid%3D=socialflow-twitter-tech&amp;utm_source=twitter&amp;utm_campaign=socialflow-organic&amp;sref=10lNAhZ9">report</a>. The new headphones would directly compete with Apple’s AirPods Max and AirPods, as well as devices from Sony and Bose, while the streaming box would compete with the Apple TV and devices from Roku and Amazon.</p>
+<p>Sonos reportedly plans to charge more than $400 for the over-the-ear headphones — around the same as Sony's $400 <a class="no-affiliate-link" href="https://www.engad
+
+## Teenage Engineering made a toy car that costs $250
+ - [https://www.engadget.com/teenage-engineering-made-a-toy-car-that-costs-250-194638118.html?src=rss](https://www.engadget.com/teenage-engineering-made-a-toy-car-that-costs-250-194638118.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T19:46:38+00:00
+
+<p>Teenage Engineering just revealed a, uh, <a href="https://teenage.engineering/store/grip-car/?color=red"><ins>toy car/doodad that costs $250.</ins></a> Yes, it’s $250 for a little piece of metal with wheels that you can roll around a desk for a bit before getting bored. The company tends to releases two kinds of products. There are the extremely expensive, <a href="https://www.engadget.com/teenage-engineering-tp7-cm15-field-series-review-170052292.html"><ins>yet pretty darn cool,</ins></a> audio devices and, well, everything else. Today’s surprise release falls squarely in the latter camp.</p>
+<p>This might not be quite as egregious as the <a href="https://teenage.engineering/products/field-desk"><ins>company’s $1,600 desk</ins></a> that you have to assemble yourself or <a href="https://gizmodo.com/teenage-engineering-musical-toy-singing-wooden-dolls-1849769032#:~:text=Teenage%20Engineering's%20New%20Toy%20is%20a%20%242%2C000%20Choir%20of%20Singing%20Dolls"><ins>those little woode
+
+## Meta’s Content Library provides researchers with digital ‘clean room’ for data access
+ - [https://www.engadget.com/metas-content-library-provides-researchers-with-digital-clean-room-for-data-access-190829440.html?src=rss](https://www.engadget.com/metas-content-library-provides-researchers-with-digital-clean-room-for-data-access-190829440.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T19:08:29+00:00
+
+<p>Meta <a href="https://about.fb.com/news/2023/11/new-tools-to-support-independent-research/"><ins>announced</ins></a> that it is rolling out new tools that will give eligible researchers access to data from its social media apps Facebook and Instagram in an effort to “support public interest research.” The <a href="https://transparency.fb.com/en-gb/researchtools/meta-content-library"><ins>Meta Content Library and Content Library API tools</ins></a>, which were previously made available for beta testing, will share real-time information about the user-generated content including metrics like the number of times a Reel on Instagram is viewed or the amount of posts that are made on a Facebook page.</p>
+<p>The Meta Content Library will exist on the web through a controlled-access &quot;<a href="https://www.technologyreview.com/2023/11/21/1083760/meta-transparency-research-database-nick-clegg/"><ins>clean room</ins></a>&quot; that prohibits the export of data. All analysis and review of
+
+## Sam Altman is said to be in talks with the OpenAI board about a possible return
+ - [https://www.engadget.com/sam-altman-is-said-to-be-in-talks-with-the-openai-board-about-a-possible-return-185425350.html?src=rss](https://www.engadget.com/sam-altman-is-said-to-be-in-talks-with-the-openai-board-about-a-possible-return-185425350.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T18:54:25+00:00
+
+<p>Even though it seemed that former OpenAI CEO Sam Altman would lead a <a href="https://www.engadget.com/microsoft-snatches-sam-altman-and-former-openai-colleagues-to-form-its-own-ai-research-team-082755685.html">new AI research division at Microsoft</a>, he might still get his old job back. According to <a class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return"><em>Bloomberg</em></a>, the OpenAI board — which <a href="https://www.engadget.com/what-is-going-on-with-openai-and-sam-altman-215725312.html">caused chaos at the company</a> when it <a href="https://www.engadget.com/openai-ceo-sam-altman-ousted-as-board-no-longer-has-confidence-in-his-leadership-204924006.html">fired Altman on Friday</a> — has reopened discussions with the former chief executive regarding his possible reinstatement.</p>
+<p>The talks are said to involve board member (and Quora CEO) Adam D’Angelo as well as OpenAI inve
+
+## LG Black Friday deals: Save up to $300 on 2023 OLED TV sets
+ - [https://www.engadget.com/lg-black-friday-deals-save-up-to-300-on-2023-oled-tv-sets-183847464.html?src=rss](https://www.engadget.com/lg-black-friday-deals-save-up-to-300-on-2023-oled-tv-sets-183847464.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T18:38:47+00:00
+
+<p><a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL3N0b3Jlcy9wYWdlLzkyNzYwNzZGLTBENzAtNDFENC05MDQ1LUUzREEwRDA2ODM1Qz90YWc9Z2RndDBjLXAtby01MjEtMjAiLCJjb250ZW50VXVpZCI6IjE5NDJkNDcxLTg4ZGUtNDFhMC05NzFlLTU4Yjc0NDgxMDU0ZiJ9&amp;signature=AQAAASUeM_2Rn-Ee4qjsLWCm1EfPSoM5syfyYMSURO7SI_CF&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fstores%2Fpage%2F9276076F-0D70-41D4-9045-E3DA0D06835C">LG Black Friday deals</a> include a number of decent discounts on its 2023 OLED TVs, and a couple of noteworthy sales on 2022 models as well. You can currently save $300 on this <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;
+
+## Spotify confirms it won't offer payouts for songs with fewer than 1,000 plays
+ - [https://www.engadget.com/spotify-confirms-it-wont-offer-payouts-for-songs-with-fewer-than-1000-plays-181501465.html?src=rss](https://www.engadget.com/spotify-confirms-it-wont-offer-payouts-for-songs-with-fewer-than-1000-plays-181501465.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T18:15:01+00:00
+
+<p>Spotify has officially <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system"><ins>unveiled its new streaming payment policy</ins></a> for artists and labels, and the details are pretty much exactly <a href="https://www.engadget.com/spotify-looks-set-to-overhaul-its-royalty-model-next-year-081722667.html"><ins>what has been reported for weeks.</ins></a> In other words, smaller artists are getting something of a shaft here, as songs that don’t meet the minimum threshold of 1,000 streams per year will not be eligible for any payment whatsoever.</p>
+<p>Spotify was already notorious for underpaying artists, but now many will get nothing at all, aside from the opportunity and privilege to exist on its servers. Spotify says this is to eliminate fraud, and indicates that the money that used to go to these smaller artists and alleged fraudsters will be redistributed to those above that 1,000 play per year threshold.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>Als
+
+## Cities: Skylines II developer delays DLC to to focus on fixing the base game
+ - [https://www.engadget.com/cities-skylines-ii-developer-delays-dlc-to-to-focus-on-fixing-the-base-game-180702925.html?src=rss](https://www.engadget.com/cities-skylines-ii-developer-delays-dlc-to-to-focus-on-fixing-the-base-game-180702925.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T18:07:02+00:00
+
+<p><em>Cities: Skylines II</em> developer Colossal Order is delaying the city building simulation’s expansion roadmap. After numerous complaints about the PC game’s performance (and <a href="https://www.engadget.com/cities-skylines-ii-will-hit-ps5-and-xbox-series-xs-in-spring-2024-173416073.html">the delay of console versions until 2024</a>), the team decided to pause rapid patches, digging instead into more time-consuming performance and bug fixes. CEO Mariina Hallikainen apologized for the delay in a <a class="no-affiliate-link" href="https://forum.paradoxplaza.com/forum/developer-diary/co-word-of-the-week-4.1611897/">blog post</a>, explaining, “We must not rush new content out before the base [game] is ready for it.”</p>
+<p>The development delay <a class="no-affiliate-link" href="https://store.steampowered.com/news/app/949230/view/3845572543573372578">pushes</a> most <em>Cities: Skylines II</em> expansion pass content back by a quarter. The Beach Properties asset pack has been pos
+
+## Amazon's latest Echo Buds get new features including tap-to-start playlists
+ - [https://www.engadget.com/amazons-latest-echo-buds-get-new-features-including-tap-to-start-playlists-170939952.html?src=rss](https://www.engadget.com/amazons-latest-echo-buds-get-new-features-including-tap-to-start-playlists-170939952.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T17:09:39+00:00
+
+<p>Amazon’s Echo Buds just got a spate of new features via a software update, though most of these tools are only available for the <a href="https://www.engadget.com/amazon-echo-buds-2023-review-50-goes-a-long-way-170007670.html">recently-released 2023 lineup of earbuds.</a> First up, you can now tap the earbuds to start a recommended playlist, so you don’t need to fumble with your phone to launch a playlist or even speak out loud to ask Alexa for help. It’s all in the tap.</p>
+<p>You can launch playlists via one triple tap or a single long press, which is adjusted via the settings in the associated Alexa app. It looks like this feature works with all of the major streaming platforms, as Amazon says it accesses “your preferred audio provider” to find the playlist. Just look for “Tap Controls” in the Echo Buds device settings to get started.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>There’s also a new audio personalization tool that lets you tailor the sound to better integra
+
+## Apple Watch Series 9 falls to a new low of $329 in an Amazon Black Friday deal
+ - [https://www.engadget.com/apple-watch-series-9-falls-to-a-new-low-of-329-in-an-amazon-black-friday-deal-164517938.html?src=rss](https://www.engadget.com/apple-watch-series-9-falls-to-a-new-low-of-329-in-an-amazon-black-friday-deal-164517938.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T16:45:17+00:00
+
+<p>Just a couple of months after its debut, you can already score a great deal on the Apple Watch Series 9 thanks to an Amazon Black Friday discount. <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0FwcGxlLVdhdGNoLVN0YXJsaWdodC1BbHVtaW51bS1TcG9ydC9kcC9CMENIWDNQQlJYP3RhZz1nZGd0MGMtcC1vLTUxei0yMCIsImNvbnRlbnRVdWlkIjoiMGVmNzY4NjgtOTVjNS00NjFhLWI5YzktZjg2MWZmODUyMDk5In0&amp;signature=AQAAAeXNqgkonLtyfAhXuh5uMP_Ia_mzYjLyUAB_EC7GeUlD&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Starlight-Aluminum-Sport%2Fdp%2FB0CHX3PBRX">The smartwatch has dropped to $329,</a> which is $80 or 18 percent off the regular price of $399. The previous low we saw for the Apple Watch Series 9 was $349 <a href="https://www.engadget.co
+
+## Dyson Black Friday deals include up to $250 off its cordless vacuums
+ - [https://www.engadget.com/dyson-black-friday-deals-include-up-to-250-off-its-cordless-vacuums-163102157.html?src=rss](https://www.engadget.com/dyson-black-friday-deals-include-up-to-250-off-its-cordless-vacuums-163102157.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T16:31:02+00:00
+
+<p>Dyson is taking $175 off the <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=8b96b196-8902-4854-bf81-2e614eba034c&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Dyson&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5keXNvbi5jb20vdmFjdXVtLWNsZWFuZXJzL2NvcmRsZXNzL3YxNS9kZXRlY3QtYWJzb2x1dGUtaGVwYS1nb2xkIiwiY29udGVudFV1aWQiOiJjZjI5ZjBjMy1hNTM4LTRmYTctYjZlMy1iYzA4MWIzYTNlZjAifQ&amp;signature=AQAAAQP4lbMvrkEzre7k96k0xK9ZJPvI3plcge2X2virOAWL&amp;gcReferrer=https%3A%2F%2Fwww.dyson.com%2Fvacuum-cleaners%2Fcordless%2Fv15%2Fdetect-absolute-hepa-gold">V15 Detect Absolute</a> stick vacuum. The device won’t only clean your floors; it will show you how much dirt it’s sucking up, thanks to a built-in laser light and dust particle counter. The early Black Friday deal brings the powerful stick vac’s price down to $575 from its standard $750. A similar model, the <a class="rapid-with
+
+## Sunbird shuts down its iMessage app for Android after major privacy concerns
+ - [https://www.engadget.com/sunbird-shuts-down-its-imessage-app-for-android-after-major-privacy-concerns-160713312.html?src=rss](https://www.engadget.com/sunbird-shuts-down-its-imessage-app-for-android-after-major-privacy-concerns-160713312.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T16:07:13+00:00
+
+<p>The Sunbird messaging app for Android has flown the solar coop. The app has completely shut down following massive privacy concerns, <a href="https://9to5google.com/2023/11/21/sunbird-shut-down-android-security-concerns/"><ins>as reported by </ins><em><ins>9to5Google.</ins></em></a> This comes after the app received increased scrutiny when it partnered with Nothing to act as the basis of the smartphone manufacturer’s Nothing Chats app. Nothing’s app was <a href="https://www.engadget.com/nothing-pulls-its-imessage-compatible-chats-app-amid-widespread-privacy-concerns-165157058.html"><ins>only available for less than one day</ins></a> before the aforementioned privacy concerns came to light and it was pulled.</p>
+<p>The app’s gone from <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9y
+
+## Nintendo Black Friday deals: Get a new Switch OLED bundle and a bunch of discounted games
+ - [https://www.engadget.com/nintendo-black-friday-deals-get-a-new-switch-oled-bundle-and-a-bunch-of-discounted-games-155016053.html?src=rss](https://www.engadget.com/nintendo-black-friday-deals-get-a-new-switch-oled-bundle-and-a-bunch-of-discounted-games-155016053.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T15:50:16+00:00
+
+<p>Nintendo has formally rolled out its set of Black Friday deals for the year. While there aren't any straight cash discounts on Switch hardware, the company is offering a <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=3719d8d4-5edd-4817-998a-91f3229e7323&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Walmart&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy53YWxtYXJ0LmNvbS9pcC9OaW50ZW5kby1Td2l0Y2gtT0xFRC1Nb2RlbC1TdXBlci1TbWFzaC1Ccm9zLVVsdGltYXRlLUJ1bmRsZS1GdWxsLUdhbWUtRG93bmxvYWQtMy1Nby1OaW50ZW5kby1Td2l0Y2gtT25saW5lLU1lbWJlcnNoaXAtSW5jbHVkZWQvNTAyMDIzMzE4NyIsImNvbnRlbnRVdWlkIjoiYTJhMDRkMTgtMTM5YS00OWVlLWJmOTMtZGNkODM0ZTNiNzczIn0&amp;signature=AQAAAY3lblDNky0JZyC9Zge1OB-KXA4wOyIKmP4IAPfyZOoB&amp;gcReferrer=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-OLED-Model-Super-Smash-Bros-Ultimate-Bundle-Full-Game-Download-3-Mo-Nintendo-Switch-Online-Membership-Included
+
+## When will your phone get Android 14?
+ - [https://www.engadget.com/when-will-your-phone-get-android-14-152432975.html?src=rss](https://www.engadget.com/when-will-your-phone-get-android-14-152432975.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T15:24:32+00:00
+
+<p>While Google may have officially released Android 14 at the start of October, there’s a good chance you’re still waiting for the update to arrive on your device. In recent years, the company has done its best to reduce the lag between when the latest version of Android arrives on its own Pixel phones and those from third-party partners, but that gap still exists in 2023. As of the writing of this article, many phone manufacturers are still beta testing their Android 14 skins.</p>
+<p>Engadget reached out to nearly every major phone manufacturer in the US market to find out how close they are to releasing a stable build of Android 14. If you’re unsure if your phone will receive the new OS, this article will answer that question too.</p>
+<span id="end-legacy-contents"></span><h2>ASUS</h2>
+<figure><img alt="ASUS Zenfone 9 in " src="https://s.yimg.com/os/creatr-uploaded-images/2022-07/c7166b00-0e6e-11ed-abb9-e20f077b9ade" style="height: 1000px; width: 1600px;" /><figcaption></figcaptio
+
+## The 60 best Black Friday deals you can get right now at Amazon, Walmart, Target and more
+ - [https://www.engadget.com/the-60-best-black-friday-deals-you-can-get-right-now-at-amazon-walmart-target-and-more-144505299.html?src=rss](https://www.engadget.com/the-60-best-black-friday-deals-you-can-get-right-now-at-amazon-walmart-target-and-more-144505299.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T14:45:05+00:00
+
+<p>Black Friday is almost here, but we wouldn't blame you if you've felt like it's <em>been</em> here for a while. What was once a one-day event filled with limited-time deals has grown into a month-long event with a plethora of sales to sift through each day. This year, <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2JsYWNrZnJpZGF5P3RhZz1nZGd0MGMtcC1vLTR6by0yMCIsImNvbnRlbnRVdWlkIjoiYjBhMTNmNmEtYzFjMS00MWZkLTkzODYtZmU1YjA5OGM4Yzk3In0&amp;signature=AQAAAQG6x8TLREjPRsHE2iSHW0_LbKlj-Y5fkpRkKPASfhAt&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fblackfriday">Amazon</a>, <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=827d7835-78d6-4491-ae04-c042cab1d6e7&amp;siteId=us-engadget&amp;pageId=1p-
+
+## Smarter public transit comes at the cost of rider anonymity
+ - [https://www.engadget.com/smarter-public-transit-comes-at-the-cost-of-rider-anonymity-143054155.html?src=rss](https://www.engadget.com/smarter-public-transit-comes-at-the-cost-of-rider-anonymity-143054155.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T14:30:54+00:00
+
+<p>Security experts were <a class="no-affiliate-link" href="https://www.fastcompany.com/90788367/the-mtas-switch-to-omny-machines-is-a-privacy-nightmare"><ins>skeptical about the New York MTA’s switch to an OMNY</ins></a> tap-and-go system when it was first announced years ago. Then, in August, <a class="no-affiliate-link" href="https://www.404media.co/i-tracked-nyc-subway-rider-home-omny-mta/"><ins>a 404 Media investigation</ins></a> revealed riders were right to be concerned. As it turned out, the ability to check trip history could be used by nearly anyone to follow specific riders' location patterns. MTA <a class="no-affiliate-link" href="https://www.darkreading.com/risk/new-york-subway-disables-trip-history-feature-tap-and-go-privacy-concerns"><ins>disabled the feature</ins></a>, but it pointed to a deeper problem that exists across modern public transit systems: they make it harder to opt out of having our sensitive data collected,</p>
+<p>“You're building a better system, but y
+
+## Chase Bliss and Goodhertz's Lossy is a pedal that makes your guitar sound like a crappy MP3
+ - [https://www.engadget.com/chase-bliss-and-goodhertzs-lossy-is-a-pedal-that-makes-your-guitar-sound-like-a-crappy-mp3-141611147.html?src=rss](https://www.engadget.com/chase-bliss-and-goodhertzs-lossy-is-a-pedal-that-makes-your-guitar-sound-like-a-crappy-mp3-141611147.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T14:16:11+00:00
+
+<p>If you've read any of my music gear reviews on Engadget, then you probably know that I love all things <a href="https://www.engadget.com/cooper-fx-arcades-review-lo-fi-guitar-multi-effects-pedal-stompbox-music-120043113.html">broken</a> and <a href="https://www.engadget.com/what-we-bought-our-favorite-gadgets-of-2022-irl-153051451.html">lo-fi sounding</a>. And you might also know that <a href="https://www.engadget.com/chase-bliss-habit-review-guitar-effects-pedal-delay-looper-130017678.html">Chase Bliss</a> is one of the best out there when it comes to making your instruments sound like they're coughing up <a href="https://www.engadget.com/arturia-sq-80-v-ensoniq-virtual-synth-hands-on-superbooth-160036483.html">digital dust</a> after crawling out of a decades long hibernation. The company's latest pedal, <a href="https://www.chasebliss.com/lossy">Lossy</a>, is a collaboration with Goodhertz, a top notch plugin maker that has an incredible lo-fi pedigree all its own. In fact, it's
+
+## The best outdoor gifts for 2023
+ - [https://www.engadget.com/best-outdoor-gifts-140004525.html?src=rss](https://www.engadget.com/best-outdoor-gifts-140004525.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T14:00:04+00:00
+
+<p>The great outdoors can be enjoyed all year round, so we’ve compiled a list of the best gifts for the backyard lounger, patio napper or woodland hiker on your list this holiday season. We even offer help with items to improve your tailgate or next beach trip. With everything from grilling gadgets to drinkware and hammocks to splash-proof speakers, there’s something for everyone – no matter how long or how often they venture outside. What’s more, you don’t have to break the bank.</p>
+<h2>BrüMate Hopsulator Trio</h2>
+<p></p>
+<h2>Ultimate Ears Wonderboom 3</h2>
+<p></p>
+<h2>Stanley IceFlow Straw Tumbler</h2>
+<p></p>
+<h2>Thermacell EL55</h2>
+<p></p>
+<h2>Solo Stove Ranger 2.0</h2>
+<p></p>
+<h2>Meater+ thermometer</h2>
+<p></p>
+<h2>ThermoWorks Thermapen One</h2>
+<p></p>
+<h2>MiiR Aero Flask</h2>
+<p></p>
+<h2>Wise Owl Outfitters Hammock</h2>
+<p></p>
+<h2>RTIC Soft Pack Cooler</h2>
+<p></p>
+<h2>Solo Stove Pi Prime</h2>
+<p></p>
+<h2>Traeger Flat Top Grill Essentials</h2>
+<p></p>
+<h2>Shibumi Shade</
+
+## Insta360's Ace Pro is a Leica-branded action cam with AI enhancements
+ - [https://www.engadget.com/insta360s-ace-pro-is-a-leica-branded-action-cam-with-ai-enhancements-133003809.html?src=rss](https://www.engadget.com/insta360s-ace-pro-is-a-leica-branded-action-cam-with-ai-enhancements-133003809.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T13:30:03+00:00
+
+<p>We've already seen <a href="https://www.engadget.com/djis-osmo-action-4-camera-comes-with-a-larger-sensor-and-a-higher-price-130027897.html">DJI's Osmo Action 4</a> and <a href="https://www.engadget.com/gopro-hero-12-review-new-features-143039315.html">GoPro's Hero 12</a> representing the rugged action cams of 2023, and now, it's <a href="https://www.engadget.com/tag/insta360/">Insta360's</a> turn to unveil its take on this category — one that focuses more on video quality than, say, its <a href="https://www.engadget.com/insta360s-latest-tiny-action-cam-comes-with-a-wireless-display-130001905.html">Go series' versatility</a>. In a nutshell, Insta360's brand new <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3N0b3JlLmluc3RhMzYwLmNvbS9wcm9kdWN0L2FjZS1wcm8iLCJjb250ZW50VXVpZCI6IjJmZTJiZDlkLTMzYWYtNGIzMy05OTEzLT
+
+## The best air fryers for 2023, tested and reviewed
+ - [https://www.engadget.com/best-air-fryers-133047180.html?src=rss](https://www.engadget.com/best-air-fryers-133047180.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T13:15:12+00:00
+
+<p>Are you tempted by an air fryer, but fear you might just get another ill-fated kitchen gadget that takes up space in your tiny kitchen? We’re here to help you out. The air fryer, which comes in several different shapes and sizes, can be a versatile addition to many kitchens, once you know what it’s capable of. In the last year, shapes and sizes of air fryers have settled, and like the Instant Pot that came before, it's a kitchen gadget that often appears at major online sales like Black Friday or Prime Day.</p>
+<p>The function has even proved so popular that several all-in-one kitchen appliances, and even conventional ovens, now include an air fryer setting. This versatility will be useful for smaller kitchens with less space. Some air fryers offer two different cooking areas meaning you can synchronize cooking two different items without letting anything cool. On top of that, air fryers are really for anyone, from cooking novices to experts.</p>
+<span id="end-legacy-contents"></s
+
+## Hulu's Black Friday deal gives you one year of the ad-supported plan for only $12
+ - [https://www.engadget.com/hulus-black-friday-deal-gives-you-one-year-of-the-ad-supported-plan-for-only-12-130023223.html?src=rss](https://www.engadget.com/hulus-black-friday-deal-gives-you-one-year-of-the-ad-supported-plan-for-only-12-130023223.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T13:00:23+00:00
+
+<p>Hulu is offering an enormous discount on its <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=ca19dea0-e7ad-4f54-beed-6302bce56589&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Hulu&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5odWx1LmNvbS93ZWxjb21lIiwiY29udGVudFV1aWQiOiI3ZWJiMTU2NS03YjUzLTRjMzgtOWI3MS1lNmZmMjYzZDI2NTMifQ&amp;signature=AQAAAQX96RZOOOKZZqrTxn8NpuU2AGllQyZ7R6FNjX0YykwG&amp;gcReferrer=https%3A%2F%2Fwww.hulu.com%2Fwelcome">ad-supported plan for Black Friday</a>. The streaming service will give you a year of Hulu (With Ads) for a mere $12. The plan typically costs $80 annually, giving you 85 percent off.</p>
+<p></p>
+<p>Hulu offers films, current-season episodes of popular broadcast television series and older TV. In addition, the Disney-owned service has original programming, like <em>The Bear</em>, <em>Only Murders in the Building</em> and <em>The H
+
+## The Morning After: Tinder's ‘rizz-first’ redesign just ruined rizz for everyone
+ - [https://www.engadget.com/the-morning-after-tinders-rizz-first-redesign-just-ruined-rizz-for-everyone-121537687.html?src=rss](https://www.engadget.com/the-morning-after-tinders-rizz-first-redesign-just-ruined-rizz-for-everyone-121537687.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T12:15:37+00:00
+
+<p>Tinder is adding many new, pretty basic, features, including the profile prompts and basic info tags other dating apps, like Hinge or Bumble, have. Profile prompts, for example, are a long-standing feature on both, with Tinder users now able to share their responses to statements like “The first item on my bucket list is… ” or “Two truths and a lie.”</p>
+<p>The dating app points to Gen Z’s responses in its recent Future of Dating report as motivation for the updates, saying: “At Tinder, we understand that connecting today is about authenticity, depth and the desire for connections that go beyond the surface.”</p>
+<p>The company calls it a “<a href="https://www.engadget.com/tinder-profiles-just-got-a-rizz-first-redesign-131015062.html">rizz-first redesign</a>,” which equates to these new prompts, zodiac sign info and… new animations. Is that rizz-first? I’m not sure it is.</p>
+<p>— Mat Smith</p>
+<p>​​<em>You can get these reports delivered daily direct to your inbox. </em><a href="
+
+## Google admits YouTube's war on ad blockers is resulting in 'suboptimal viewing' experiences
+ - [https://www.engadget.com/google-admits-youtubes-war-on-ad-blockers-is-resulting-in-suboptimal-viewing-experiences-115041371.html?src=rss](https://www.engadget.com/google-admits-youtubes-war-on-ad-blockers-is-resulting-in-suboptimal-viewing-experiences-115041371.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T11:50:41+00:00
+
+<p>Some YouTube viewers who use Firefox or Edge instead of Chrome have reported having to wait around five seconds every time they try to load a video. In <a href="https://www.reddit.com/r/firefox/comments/17zdpkl/this_behaviour_from_google_is_beyond_disgusting/?utm_source=share&amp;utm_medium=web2x&amp;context=3">screen recordings</a> shared on Reddit and other online forums, users show how their screen goes blank for a short period when they click on a YouTube video before the page loads. But when they switch to Chrome, that waiting period seemed to be non-existent. <a href="https://www.androidauthority.com/youtube-reportedly-slowing-down-videos-firefox-3387206/?ref=404media.co"><em>Android Authority</em></a> and <a href="https://www.404media.co/youtube-says-new-5-second-video-load-delay-is-supposed-to-punish-ad-blockers-not-firefox-users/"><em>404media</em></a>, which reported on the users' complaints, weren't able to replicate the phenomenon. We also didn't notice any difference 
+
+## Apple Watch SE falls to another new low in Black Friday sale
+ - [https://www.engadget.com/apple-watch-se-falls-to-another-new-low-in-black-friday-sale-110511086.html?src=rss](https://www.engadget.com/apple-watch-se-falls-to-another-new-low-in-black-friday-sale-110511086.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T11:05:11+00:00
+
+<p>There's never been a better time to buy the Apple Watch SE (2nd Gen), as it has fallen to another new low on Amazon. Both sizes (40mm and 44mm) are available with discounts of $70, with the 40mm GPS Watch SE <a href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsInN0b3JlSWQiOiI2NmVhNTY3YS1jOTg3LTRjMmUtYTJmZi0wMjkwNGVmZGU2ZWEiLCJsYW5kaW5nVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BcHBsZS1XYXRjaC1TRS1HUFMtNDBtbS9kcC9CMDlHOTNCRFFQP3RhZz1nZGd0MGMtcC1vLTI1dy0yMCIsImNvbnRlbnRVdWlkIjoiZjE2MDZmZGEtMmNjYi00YmRjLWJmZGQtMTFlMTdlYjczMjY5In0&amp;signature=AQAAAQBtI-OGvg6NfpVhaRbXADSTZxQZsYjQUp0JSbS-KeqY&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-SE-GPS-40mm%2Fdp%2FB09G93BDQP&amp;uuid=o57q66PYdSpKCAer0741">starting at just $179</a>, or 28 percent ($70) off and the 44mm model starting at $209 (25 pe
+
+## Starfield update brings DLSS support and a number of fixes
+ - [https://www.engadget.com/starfield-update-brings-dlss-support-and-a-number-of-fixes-092050462.html?src=rss](https://www.engadget.com/starfield-update-brings-dlss-support-and-a-number-of-fixes-092050462.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T09:20:50+00:00
+
+<p>Starfield just received some key updates <a href="https://www.engadget.com/starfield-will-add-dlss-and-other-pc-features-missing-at-launch-191530723.html">promised by Bethesda</a> a couple of months ago, the developer <a href="https://bethesda.net/en/game/starfield/article/3V830KanHH0I2zTIKraEih/starfield-update-1-8-86-notes-november-20-2023">announced</a>. Version 1.8.86 comes with DLSS support that finally gives users with supported NVIDIA cards features including DLSS Super Resolution, Deep Learning Anti-aliasing (DLAA), Reflex Low Latency and DLSS frame generation. That should assuage numerous grumbling users, many of whom used a <a href="https://www.ign.com/articles/starfield-paid-dlss-mod-creator-hits-back-at-pirates-threatens-to-add-hidden-mines-in-future-mods">controversial DLSS mod</a> to tide themselves over.&nbsp;</p>
+<p>Along with DLSS, the update includes GPU performance optimizations that will help users with higher-end cards. Bethesda has also addressed memory leaks
+
+## US Senator calls for the public release of AT&T ‘Hemisphere’ surveillance records
+ - [https://www.engadget.com/us-senator-calls-for-the-public-release-of-att-hemisphere-surveillance-records-083627787.html?src=rss](https://www.engadget.com/us-senator-calls-for-the-public-release-of-att-hemisphere-surveillance-records-083627787.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T08:36:27+00:00
+
+<p>US Senator Ron Wyden <a href="https://www.wyden.senate.gov/news/press-releases/wyden-urges-justice-department-to-release-information-about-hemisphere-phone-surveillance-program-that-would-outrage-americans-and-congress">wants the public</a> to know about the details surrounding the long-running Hemisphere phone surveillance program. Wyden has written US Attorney General Merrick Garland a <a href="https://www.wyden.senate.gov/imo/media/doc/wyden_hemisphere_surveillance_letter_112023.pdf">letter</a> (PDF), asking him to release additional information about the project that apparently gives law enforcement agencies access to trillions of domestic phone records. In addition, he said that federal, state, local and Tribal law enforcement agencies have the ability to request &quot;often-warrantless searches&quot; from the project's phone records that <a href="https://www.engadget.com/2016-10-26-atandt-reportedly-spies-on-its-customers-for-government-cash.html">AT&amp;T has been collectin
+
+## X lawsuit accuses Media Matters of running a campaign to drive advertisers away from its website
+ - [https://www.engadget.com/x-lawsuit-accuses-media-matters-of-running-a-campaign-to-drive-advertisers-away-from-its-website-040022933.html?src=rss](https://www.engadget.com/x-lawsuit-accuses-media-matters-of-running-a-campaign-to-drive-advertisers-away-from-its-website-040022933.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-11-21T04:00:22+00:00
+
+<p>X has <a href="https://www.nytimes.com/2023/11/20/technology/x-sues-media-matters-antisemitic-posts.html">filed a lawsuit</a> against media watchdog group Media Matters over the latter's research that showed ads on the social network appearing next to antisemitic content. The company's owner, Elon Musk, promised to file a &quot;thermonuclear lawsuit&quot; against the organization late last week following an advertiser exodus. In its <a href="https://www.plainsite.org/dockets/52oouzfga/texas-northern-district-court/x-corp-v-media-matters-for-america-et-al/">complaint</a>, X said Media Matters &quot;knowingly and maliciously manufactured side-by-side images depicting advertisers' posts on X Corp.'s social media platform beside Neo-Nazi and white national fringe content.&quot; It added that the group portrayed the &quot;manufactured images&quot; as if they represented the typical user's experience in the platform. &quot;Media Matters designed both these images and the resulting media
+

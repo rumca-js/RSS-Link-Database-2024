@@ -1,0 +1,44 @@
+# Source:Techdirt, URL:https://www.techdirt.com/feed/, language:en-US
+
+## Brew Works’ Rude Elf’s Reserve: How IP Bullying Birthed The Brand That Remains 20 Years Later
+ - [https://www.techdirt.com/2023/12/11/brew-works-rude-elfs-reserve-how-ip-bullying-birthed-the-brand-that-remains-20-years-later](https://www.techdirt.com/2023/12/11/brew-works-rude-elfs-reserve-how-ip-bullying-birthed-the-brand-that-remains-20-years-later)
+ - RSS feed: https://www.techdirt.com/feed/
+ - date published: 2023-12-11T23:40:25+00:00
+
+One of my favorite ways that lame trademark fights end is when the victim of the bullying makes slight changes to their branding such that it pokes the bully in the eye while still getting the victim out of legal harm&#8217;s way. When you couple that with the beer industry, all the more so. After [&#8230;]
+
+## House Committees Offer Up Competing Section 702 Reform Bills. Only One Has Any Actual Reforms.
+ - [https://www.techdirt.com/2023/12/11/house-committees-offer-up-competing-section-702-reform-bills-only-one-has-any-actual-reforms](https://www.techdirt.com/2023/12/11/house-committees-offer-up-competing-section-702-reform-bills-only-one-has-any-actual-reforms)
+ - RSS feed: https://www.techdirt.com/feed/
+ - date published: 2023-12-11T21:29:00+00:00
+
+As is the case any time surveillance powers are up for renewal, there&#8217;s always a chance to reform them. Most of these efforts tend to get derailed by a majority of legislators who just want to push things through before any lively discussion takes place. Every so often, legislation is passed that modifies authorized powers [&#8230;]
+
+## ‘Free Speech Absolutist’ Elon Musk Is Also ‘Libel Tourist, Vexatious SLAPPer’ Elon Musk
+ - [https://www.techdirt.com/2023/12/11/free-speech-absolutist-elon-musk-is-also-libel-tourist-vexatious-slapper-elon-musk](https://www.techdirt.com/2023/12/11/free-speech-absolutist-elon-musk-is-also-libel-tourist-vexatious-slapper-elon-musk)
+ - RSS feed: https://www.techdirt.com/feed/
+ - date published: 2023-12-11T20:02:06+00:00
+
+We’ve already talked a bit about Elon Musk’s obvious censorial bullshit lawsuit against Media Matters. It’s quite obvious from the lawsuit that his intent is to intimidate critics and suppress speech about hateful content on ExTwitter. So far, it’s not working, as that lawsuit seems to have inspired more people to find more ads next [&#8230;]
+
+## Letter From Sen. Wyden To The DOJ Says Governments Are Gathering Push Notification Data From Google, Apple
+ - [https://www.techdirt.com/2023/12/11/letter-from-sen-wyden-to-the-doj-says-governments-are-gathering-push-notification-data-from-google-apple](https://www.techdirt.com/2023/12/11/letter-from-sen-wyden-to-the-doj-says-governments-are-gathering-push-notification-data-from-google-apple)
+ - RSS feed: https://www.techdirt.com/feed/
+ - date published: 2023-12-11T18:49:49+00:00
+
+If nothing else, Senator Ron Wyden is keeping us on top of the surveillance curve. The privacy-focused senator has asked more uncomfortable questions of more federal agencies than anyone since the Church Committee. Sometimes it&#8217;s new stuff. Sometimes it&#8217;s stuff that&#8217;s been around for years, but no one bothered to question it until Wyden. Sometimes [&#8230;]
+
+## Apple’s Nonsensical Attack On Beeper For Making Apple’s Own Users Safer
+ - [https://www.techdirt.com/2023/12/11/apples-nonsensical-attack-on-beeper-for-making-apples-own-users-safer](https://www.techdirt.com/2023/12/11/apples-nonsensical-attack-on-beeper-for-making-apples-own-users-safer)
+ - RSS feed: https://www.techdirt.com/feed/
+ - date published: 2023-12-11T17:37:29+00:00
+
+Apple has spent the past few years pushing the marketing message that it, alone among the big tech companies, is dedicated to your privacy. This has always been something of an exaggeration, but certainly less of Apple’s business is based around making use of your data, and the company has built in some useful encryption [&#8230;]
+
+## 2023: The Year ‘Cord Cutting’ Became The Majority Norm
+ - [https://www.techdirt.com/2023/12/11/2023-the-year-cord-cutting-became-the-majority-norm](https://www.techdirt.com/2023/12/11/2023-the-year-cord-cutting-became-the-majority-norm)
+ - RSS feed: https://www.techdirt.com/feed/
+ - date published: 2023-12-11T13:31:29+00:00
+
+It wasn&#8217;t that long ago that cable TV execs were trying to claim that &#8220;cord cutting&#8221; was either outright fiction, or a fad that would end once Millennials started procreating. The willful denial among cable execs was downright palpable for the better part of the last decade. Now they all just pretend like they never [&#8230;]
+

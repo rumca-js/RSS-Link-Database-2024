@@ -1,0 +1,205 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## There's A Lost Boys Musical Being Developed, Because Why Not?
+ - [https://www.gamespot.com/articles/theres-a-lost-boys-musical-being-developed-because-why-not/1100-6519933/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/theres-a-lost-boys-musical-being-developed-because-why-not/1100-6519933/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T21:10:00+00:00
+
+<p>Musical adaptations of books, television shows, and even movies are hardly anything new. Broadway is going back in time with a Back to the Future musical and it's probably only a matter of time before we get a Die Hard adaptation...oh wait. That's already <a href="https://www.youtube.com/watch?v=YmvVqc_aaLw">a thing</a>. So it should come as no surprise that a musical based on the 1987 cult classic vampire The Lost Boys is officially in production. </p><p><a href="https://deadline.com/2023/12/the-lost-boys-broadway-1235666285/">Deadline</a> is reporting that Patrick Wilson, James Carpinello, and Marcus Chait (Million Dollar Baby) are on board to adapt with a book by Michael Arden, David Hornsby (It's Always Sunny in Philadelphia), and Broadway actor Chris Hoch. </p><p>Music will be by pop-rock band The Rescues with Ethan Popp (Tina: The Tina Turner Musical) serving as Music Supervisor. </p><a href="https://www.gamespot.com/articles/theres-a-lost-boys-musical-being-developed-becaus
+
+## Blumhouse's Wolf Man Brings In Christopher Abbott For Titular Universal Monster
+ - [https://www.gamespot.com/articles/blumhouses-wolf-man-brings-in-christopher-abbott-for-titular-universal-monster/1100-6519931/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/blumhouses-wolf-man-brings-in-christopher-abbott-for-titular-universal-monster/1100-6519931/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T20:46:00+00:00
+
+<p>Christopher Abbott (Poor Things, Kraven the Hunter) has officially signed on for Leigh Whannell's Wolf Man, a reimagining of the classic Universal monster movie. The actor replaces Ryan Gosling, who has been attached to the project for three years. While Gosling dropped out of acting in the project, he remains an executive producer.</p><p>The new Wolf Man will mark Whannell's second Universal reimagining after 2020's The Invisible Man with Elisabeth Moss, and his fourth collaboration with Blumhouse. The official synopsis for the film describes it as "Abbott as a man whose family is being terrorized by a lethal predator." Much like Invisible Man, look for this remake to have a more contemporary twist.</p><p>The film was written by Whannell, Corbett Tuck, Lauren Schuker Blum, and Rebecca Angelo (Dumb Money). Wolf Man is a Blumhouse and Motel Movies production.</p><a href="https://www.gamespot.com/articles/blumhouses-wolf-man-brings-in-christopher-abbott-for-titular-universal-monster
+
+## Dune: Part 2 Comes To MW3 And Warzone With Paul Atreides And Feyd-Rautha Operator Bundles
+ - [https://www.gamespot.com/articles/dune-part-2-comes-to-mw3-and-warzone-with-paul-atreides-and-feyd-rautha-operator-bundles/1100-6519928/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dune-part-2-comes-to-mw3-and-warzone-with-paul-atreides-and-feyd-rautha-operator-bundles/1100-6519928/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T19:54:00+00:00
+
+<p>Dune: Part Two protagonist Paul Atreides is now available in <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty: Modern Warfare III</a> and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a>, with his arch-enemy, the cunning Feyd-Rautha Harkonnen, slated to release on December 16.</p><p dir="ltr">Paul and Feyd-Rautha will be separate operator bundles, with the two in-game characters modeled from the respective actors, Timothée Chalamet and Austin Butler, who play them in the upcoming sci-fi epic. The Paul Atreides <a href="https://x.com/charlieINTEL/status/1735002170515173775?s=20">bundle</a> comes with a special finishing move, a crysknife melee weapon, two gun skins, a weapon charm, an emblem, and a playercard. In addition to the operator bundles, <a href="https://x.com/charlieINTEL/status/1734997476610879623?s=20">a limited-time event</a>, called Dune: Trial of Power, will let players claim additional rewards like the 
+
+## See Whether You Played Zelda Or Mario More With Nintendo's Switch Year-In-Review Website
+ - [https://www.gamespot.com/articles/see-whether-you-played-zelda-or-mario-more-with-nintendos-switch-year-in-review-website/1100-6519927/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/see-whether-you-played-zelda-or-mario-more-with-nintendos-switch-year-in-review-website/1100-6519927/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T19:50:00+00:00
+
+<p dir="ltr">Nintendo has joined the end-of-year party with a website detailing your most-played Switch games, total hours spent playing titles on the system, and more. Called the Switch Year in Review, the wrap-up offers personalized stats and might settle which game consumed more of 2023 for you--The Legend of Zelda: Tears of the Kingdom or Super Mario Bros. Wonder?</p><p dir="ltr"><a href="https://year-in-review.nintendo.com/en-us/">The Switch Year in Review</a> follows in the footsteps of <a href="https://www.gamespot.com/articles/playstation-wrap-up-2023-is-live-will-remind-you-of-literal-days-spent-playing-ps5/1100-6519888/">the PlayStation Wrap-Up for 2023</a> and <a href="https://www.gamespot.com/articles/see-your-most-played-xbox-games-and-other-stats-for-2023-with-this-year-in-review-tool/1100-6519895/">Xbox's own Year in Review tool</a>. Sony showcases trophies earned, while Microsoft obviously reveals the amount of achievements unlocked. Nintendo doesn't have a comparable
+
+## Best Honkai: Star Rail Hanya Build, Skills, And Team Comps
+ - [https://www.gamespot.com/articles/best-honkai-star-rail-hanya-build-skills-and-team-comps/1100-6519877/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/best-honkai-star-rail-hanya-build-skills-and-team-comps/1100-6519877/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T19:24:00+00:00
+
+<p dir="ltr">Hanya solves a long-neglected pain point in <a href="https://www.gamespot.com/games/honkai-star-rail/">Honkai: Star Rail</a> turn economy: skill point regeneration. The Ten-Lords Commission judge stars in the Foxian Tale of the Haunted as the coworker of Foxian healer, Huohuo. Her deadpan expression and no-nonsense attitude are a strength in her role as an interrogator, where she decides the fate of criminals and records their misdeeds with her trusty Oracle Brush. These same tools are what she'll use to increase DMG and keep skill points aplenty.</p><p dir="ltr">Here's what Hanya can do, her best Relics and Light Cones, and her best team comps.</p><h2 dir="ltr">Hanya abilities</h2><div>          </div><p>Hanya's main utility is buffing teammates and regenerating skill points. She regenerates skill points with "Burden," a status effect she applies to enemies using her Skill. Burdened enemies take more damage and regenerate skill points when allies hit them with enough at
+
+## James Gunn Doesn't Like "Cameo Porn" In Superhero Movies
+ - [https://www.gamespot.com/articles/james-gunn-doesnt-like-cameo-porn-in-superhero-movies/1100-6519926/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/james-gunn-doesnt-like-cameo-porn-in-superhero-movies/1100-6519926/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T19:23:00+00:00
+
+<p>DCU boss James Gunn criticized what he calls "cameo porn" in superhero films on <a href="https://www.threads.net/@jamesgunn/post/C0wvpFFAMgS">Threads</a>, stating that such appearances should contribute meaningfully to the overall narrative. Responding to a fan praising his approach of treating superheroes as developed characters rather than fan-service tools, Gunn writes, "If a character is in a film, they have to have a reason to be there story-wise."</p><p dir="ltr">The director acknowledged that minor appearances are acceptable as long as they do not disrupt the narrative flow. "I don't mind actual cameos--if it's a glimpse or a moment, an Easter egg," Gunn explained. "What bothers me is when they mangle an elegant story by shoehorning characters in. They aren't there because the story calls for it, but for some other reason."</p><p dir="ltr">The upcoming DCU film, Superman: Legacy, features an ensemble cast with David Corenset as Superman, Rachel Brosnahan as Lois Lane, Nicho
+
+## George Clooney Teases "Really Good Script" For Another Ocean's 11 Movie
+ - [https://www.gamespot.com/articles/george-clooney-teases-really-good-script-for-another-oceans-11-movie/1100-6519925/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/george-clooney-teases-really-good-script-for-another-oceans-11-movie/1100-6519925/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T19:10:00+00:00
+
+<p>George Clooney famously starred in the Ocean's 11 series of heist films as the ringleader Danny Ocean, and many are wondering if Clooney and company might get back together for another movie. That was the plan, but when series star Bernie Mac passed away, <a href="https://www.gamespot.com/articles/don-cheadle-says-steven-soderbergh-is-thinking-about-oceans-14/1100-6493388/">plans for future installments with the main crew were put on hold</a>. But now, Clooney has said there is a "really good script" in place for another Ocean's movie.</p><p>"We have a really good script for another Ocean's now, so we may end up doing another one. It's actually a great script," Clooney told <a href="https://uproxx.com/movies/george-clooney-the-boys-in-the-boat/">Uproxx</a>.</p><p>Asked if it would be called Ocean's 14, Clooney said, "Well, I don't want to call it that." Instead, Clooney said the movie idea is for something like the film Going In Style, which follows a group of senior citizens who 
+
+## Netflix Games 2024 Slate Includes Sonic Mania Plus, Cozy Grove 2, And More
+ - [https://www.gamespot.com/articles/netflix-games-2024-slate-includes-sonic-mania-plus-cozy-grove-2-and-more/1100-6519924/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/netflix-games-2024-slate-includes-sonic-mania-plus-cozy-grove-2-and-more/1100-6519924/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T18:47:00+00:00
+
+<p dir="ltr">After announcing that the Grand Theft Auto PS2 trilogy is joining the service this month, Netflix Games has offered a brief look at what subscribers can expect in 2024. Among the announced titles is a sequel to a 2021 indie hit, as well as a retro adventure starring a certain blue hedgehog.</p><p dir="ltr">Sonic Mania Plus will join the Netflix Games roster in 2024, as the game makes its mobile debut exclusively with the streaming service. The full console experience--which include every mode, zone, and playable character--will be available through the Netflix app when it launches.</p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/3/37852/4235098-sonic.jpg"><img alt="Sonic Mania Plus" src="https://www.gamespot.com/a/uploads/original/3/37852/4235098-sonic.jpg" /></a><figcaption>Sonic Mania Plus</figcaption></figure><p dir="ltr">The announcement also revealed Cozy Grove: Camp Spirit, a surprise sequel to the 2021 indie hit. The game--wh
+
+## The Switch Topples Xbox 360 To Become No. 3 Best-Selling Console Ever In The US
+ - [https://www.gamespot.com/articles/the-switch-topples-xbox-360-to-become-no-3-best-selling-console-ever-in-the-us/1100-6519921/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-switch-topples-xbox-360-to-become-no-3-best-selling-console-ever-in-the-us/1100-6519921/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T18:30:00+00:00
+
+<p>The Nintendo Switch continues to soar and it's now reached a huge new sales milestone. The hybrid console has surpassed the lifetime sales of the Xbox 360 in the United States.</p><p>The milestone came in November, Circana analyst Mat Piscatella said. The PS2 and the Nintendo DS are the top two best-selling systems ever, in that order, meaning Switch is now No. 3 all time in the United States. The NPD does not disclose specific sales numbers, however.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Circana November 2023 US Video Game Sales Fun Fact - Lifetime US unit sales of Nintendo Switch surpassed those of Xbox 360 during November, and now Switch trails only Nintendo DS and PlayStation 2 (Tracking period of 1995-Current).</p>  — Mat Piscatella (@MatPiscatella) <a href="https://twitter.com/MatPiscatella/status/1734993930670985723?ref_src=twsrc^tfw">December 13, 2023</a></blockquote>              </div><p>According to Nintendo's public data, the DS has <a h
+
+## How Prince Of Persia: The Lost Crown Leans Into Its Shonen Anime Inspirations
+ - [https://www.gamespot.com/articles/how-prince-of-persia-the-lost-crown-leans-into-its-shonen-anime-inspirations/1100-6519919/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-prince-of-persia-the-lost-crown-leans-into-its-shonen-anime-inspirations/1100-6519919/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T18:15:00+00:00
+
+<p>Prince of Persia exists in such a strange place for me. I'm a huge fan of Assassin's Creed, a series clearly built on the bones of a Prince of Persia sequel we never got, but I've never played any of the original Prince of Persia games that inspired that first Assassin's Creed. So to see the series return in 2024 with <a href="https://www.gamespot.com/games/prince-of-persia-the-lost-crown/">Prince of Persia: The Lost Crown</a> is exciting--I can finally see why people liked the lore and mythology of this series without going back to play games over two decades old (and even older if you're counting the original Broderbund titles).</p><p dir="ltr">I got to play just under four hours of The Lost Crown during a preview event and thoroughly enjoyed it. The game's first hours feature frenetic combat that encourages you to master cool-looking combos, challenging and intense boss battles, atmospheric music, and memorable characters. And that "The Eye of the Wanderer" feature that pins yo
+
+## The Best Switch Games Of 2023 According To Metacritic
+ - [https://www.gamespot.com/gallery/the-best-switch-games-of-2023-according-to-metacritic/2900-4989](https://www.gamespot.com/gallery/the-best-switch-games-of-2023-according-to-metacritic/2900-4989)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T18:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4233980-best-reviewed-switch-games_gs-best-of_2023_1.jpg" /><br /><h3><p dir="ltr">Nearly seven years into its lifecycle, the Nintendo Switch has cemented itself as one of the greatest consoles of all time. While we're still waiting to see when a successor will be officially revealed, there's no denying that Nintendo's hybrid gaming system feels like it is reaching the end of its time. Competitors are showing up and the limits of its hardware are becoming more evident, but if this is the twilight of the console, it's going out with a bang.</p><p dir="ltr">We've gathered up the data on the most critically acclaimed games of the year from our sister site Metacritic, and while some games were an obvious inclusion, we also had quite a few surprises when counting the numbers. Traditional role-playing games continue to be a big hit on the Switch, but surprisingly, so are visual-novels, puzzle games, and remasters. On
+
+## Lego Fortnite: Where To Get Marble
+ - [https://www.gamespot.com/articles/lego-fortnite-where-to-get-marble/1100-6519904/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/lego-fortnite-where-to-get-marble/1100-6519904/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T17:43:00+00:00
+
+<p>For your first couple hours in <a href="https://www.gamespot.com/gallery/lego-fortnite-tips-and-tricks/2900-4985/">Lego Fortnite</a>, you can pretty much get by with the stuff that's near where you originally spawned. But eventually, you'll need to upgrade to a better class of materials, and that classic granite isn't going to get the job done anymore. You'll need the next tier of building material: marble. Unlike the first tier of materials, this stuff isn't just lying around all over the place. You'll have to go looking for it.</p><h2>Where to find marble in Lego Fortnite</h2><p>Marble cannot be found anywhere on the surface--you'll need to venture into a cave to find it. You should stick with the temperate caves, for now, because the caves in the desert and snowy regions are probably more than you can handle right now if you're playing on normal survival rules.</p><figure style="width: 1920px;"><a href="https://www.gamespot.com/a/uploads/original/1757/17577455/4234314-legofortn
+
+## Xbox Wireless Controllers Receive Big Price Cuts At Amazon And Walmart
+ - [https://www.gamespot.com/articles/xbox-wireless-controllers-receive-big-price-cuts-at-amazon-and-walmart/1100-6519917/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-wireless-controllers-receive-big-price-cuts-at-amazon-and-walmart/1100-6519917/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T17:30:00+00:00
+
+<p>One of the best Black Friday Xbox deals is back. Official Xbox Wireless Controllers are now available for $45 (down from $60). Only select colors are available with the generous price cut, though you'll find the deal at both <a href="https://www.amazon.com/Xbox-Core-Wireless-Controller-Gaming-Console/dp/B0BY3LT3Z9?tag=gamespot-promos-20">Amazon</a> and <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.walmart.com/ip/Microsoft-Xbox-Wireless-Controller-Electric-Volt/2813843293">Walmart</a>.</p><p>Depending on your model and shipping address, there's a chance the product will arrive before Christmas. That includes the standard <a href="https://www.amazon.com/Microsoft-Xbox-WL-Controller-Gaming-Console/dp/B088GJR4B9?tag=gamespot-promos-20&amp;tag=gamespot-buybutton-20">Carbon Black</a> and flashy <a href="https://www.amazon.com/Xbox-Core-Wireless-Controller-Gaming-Console/dp/B0BY3LT3Z9?tag=gamespot-promos-20">Velocity Green</a> 
+
+## PlayStation Plus Free Games For Premium/Extra In December Revealed, Headlined By GTA 5
+ - [https://www.gamespot.com/articles/playstation-plus-free-games-for-premium-extra-in-december-revealed-headlined-by-gta-5/1100-6519916/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/playstation-plus-free-games-for-premium-extra-in-december-revealed-headlined-by-gta-5/1100-6519916/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T16:56:00+00:00
+
+<p>Sony has announced the next wave of additions to the PlayStation Plus catalog for Extra and Premium subscribers, and there are a number of games on the way soon.</p><p>December's lineup goes live on December 19, with Rockstar's Grand Theft Auto V headlining the new additions. GTA has been in the news a lot lately with the recent unveiling of GTA VI. Beyond that, though, GTA Online just recently added a huge new update that introduces animals to the multiplayer game for the first time.</p><p>Also arriving in December is the Final Fantasy game Stranger of Paradise, as well as the rhythm-action game Metal: Hellsinger. The racing game Moto GP23 lands that day, too, alongside Salt and Sacrifice and Moonscars, among others.</p><a href="https://www.gamespot.com/articles/playstation-plus-free-games-for-premium-extra-in-december-revealed-headlined-by-gta-5/1100-6519916/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## 6,000 PC Games Discounted In Massive Winter Sale
+ - [https://www.gamespot.com/articles/6000-pc-games-discounted-in-massive-winter-sale/1100-6519915/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/6000-pc-games-discounted-in-massive-winter-sale/1100-6519915/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T16:33:00+00:00
+
+<p>Seasonal Steam sales might be the most popular way to snag cheap PC games, but don’t sleep on GOG. The online retailer regularly lists games at prices similar to (or cheaper than) the popular storefront, and that's once again true for the holidays. Swing by GOG right now, and you'll find roughly <a href="https://www.dpbolvw.net/click-100770772-15232592?sid=subid_value&amp;url=https://www.gog.com/en/promo/2023_winter_sale">6,000 game deals</a> across basically every genre you can think of. </p><p>If you haven't explored the wild world of Yakuza, the <a href="https://www.dpbolvw.net/click-100770772-15232592?sid=subid_value&amp;url=https://www.gog.com/en/game/yakuza_complete_series">Yakuza Complete Series</a> is on sale for just $28 (down from $112). The bundle includes Yakuza 0, Kiwami, Kiwami 2, 3 Remastered, 4 Remastered, 5 Remastered, and The Song of Life. Combined, that's hundreds of hours of quirky action to explore. Nearly every game in the collection was well-received by both
+
+## Epic Is Giving Away A Bunch Of Free Games Over The Holidays, Starting With Destiny 2: Legacy Collection
+ - [https://www.gamespot.com/articles/epic-is-giving-away-a-bunch-of-free-games-over-the-holidays/1100-6519912/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/epic-is-giving-away-a-bunch-of-free-games-over-the-holidays/1100-6519912/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T16:31:00+00:00
+
+<p>The Epic Games Store is celebrating the festive season with not only a themed holiday sale, but also a daily free game. You'll have 24 hours to claim each one of these games, and once you do, they're yours to keep forever.</p><p>The first game that people can grab is Destiny 2: Legacy Collection, with the daily giveaway starting next week on December 19 and ending on January 4, which means you can get one free game each day for 15 days.</p><div class="norewrite" title="">           <a href="https://store.epicgames.com/en-US/free-games">Get today&#039;s free game on The Epic Games Store</a> </div><p>Epic has regularly given games away during the holiday season since 2019, and there are usually a great selection of games to add to your library every year. For example, last year saw games like Death Stranding, Sable, and Wolfenstein: The New Order given away to EGS members.</p><a href="https://www.gamespot.com/articles/epic-is-giving-away-a-bunch-of-free-games-over-the-holidays/1100-
+
+## OD Trailer Seems To Contain Silent Hills Reference
+ - [https://www.gamespot.com/articles/od-trailer-seems-to-contain-silent-hills-reference/1100-6519914/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/od-trailer-seems-to-contain-silent-hills-reference/1100-6519914/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T16:31:00+00:00
+
+<p> </p><p dir="ltr">When Hideo Kojima unveiled his newest game OD last week, the teaser trailer probably created more questions than answers. Apparently the Death Stranding director provided a fun Easter egg as well--a possible reference to his canceled Konami project Silent Hills.</p><p dir="ltr"><a href="https://www.videogameschronicle.com/news/hideo-kojima-appears-to-have-snuck-a-silent-hill-reference-into-his-od-trailer/">VGC</a> backed up what <a href="https://twitter.com/centralxboxbr/status/1734042992963383685">Central Xbox</a> first noticed in the OD trailer, which are letters briefly appearing in the mouth of actor Udo Kier. Five letters show up above his tongue to create the word "Atami." That's the name of a seaside city found within the Shizuoka Prefecture, and this is reportedly where the Silent Hills reference comes into play. Spelled out in Kanji, Shizuoka can be separated and translated to Silent Hill.</p><a href="https://www.gamespot.com/articles/od-trailer-seems-to
+
+## Patrick Rothfuss' Best-Selling Kingkiller Chronicle Series Is Steeply Discounted At Amazon
+ - [https://www.gamespot.com/articles/patrick-rothfuss-best-selling-kingkiller-chronicle-series-is-steeply-discounted-at-amazon/1100-6519903/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/patrick-rothfuss-best-selling-kingkiller-chronicle-series-is-steeply-discounted-at-amazon/1100-6519903/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T16:31:00+00:00
+
+<p dir="ltr">The latest book in Patrick Rothfuss' Kingkiller Chronicle fantasy series, <a href="https://www.amazon.com/Narrow-Road-Between-Desires/dp/0756419174?tag=gamespot-promos-20">The Narrow Road Between Desires</a>, just released a few weeks ago on November 14, but it's already on sale for a big discount at Amazon. You can grab the best-selling fantasy novel for just $18.72 (normally $26).</p><div class="norewrite" title="">           <a href="https://www.amazon.com/Narrow-Road-Between-Desires/dp/0756419174?tag=gamespot-promos-20">See at Amazon</a> </div><p dir="ltr">To get the full discount price, make sure you click the coupon box on the book's Amazon page, which will drop the final total from $23.40 to $18.72 during checkout. Amazon is offering an additional 20% off a <em>ton </em>of books this week, with The Narrow Road Between Desires being just one of them. Side note: We also have roundups of <a href="https://www.gamespot.com/articles/amazon-has-manga-box-sets-for-the-bes
+
+## Fallout 4's PS5 And Xbox Series X|S Update Delayed To 2024
+ - [https://www.gamespot.com/articles/fallout-4s-ps5-and-xbox-series-x-s-update-delayed-to-2024/1100-6519911/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fallout-4s-ps5-and-xbox-series-x-s-update-delayed-to-2024/1100-6519911/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T16:04:00+00:00
+
+<p>Bethesda has confirmed that the upcoming PlayStation 5 and Xbox Series X|S update for Fallout 4 won't release until 2024. In a social media post, the official Fallout account thanked fans for their patience, as the update was originally due to arrive before the end of 2023.</p><p>"But we need a bit more time and look forward to an exciting return to the Commonwealth in 2024," Bethesda said.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Thank you for your patience with us as we work on the Fallout 4 next-gen update. We know you're excited, and so are we! But we need a bit more time and look forward to an exciting return to the Commonwealth in 2024.</p>  — Fallout (@Fallout) <a href="https://twitter.com/Fallout/status/1734966577177534610?ref_src=twsrc^tfw">December 13, 2023</a></blockquote>              </div><p>The update was <a href="https://www.gamespot.com/articles/fallout-4-is-getting-free-ps5-and-xbox-series-x-s-upgrades-in-2023/1100-6508551/">announced
+
+## Best Exclusive Xbox Games Of 2023
+ - [https://www.gamespot.com/videos/best-exclusive-xbox-games-of-2023/2300-6463086](https://www.gamespot.com/videos/best-exclusive-xbox-games-of-2023/2300-6463086)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T16:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4234900-best-xbox_gs-best-of_2023_1.png" width="480" /> In 2023, Xbox-exclusive games had a great year, with five titles standing out from the rest. These are the titles you should play on your Xbox Series X|S.
+
+## Warframe Adds Cross-Save With Whispers In The Walls Story Update
+ - [https://www.gamespot.com/articles/warframe-adds-cross-save-with-whispers-in-the-walls-story-update/1100-6519907/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/warframe-adds-cross-save-with-whispers-in-the-walls-story-update/1100-6519907/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T16:00:00+00:00
+
+<p><a href="https://www.gamespot.com/games/warframe/">Warframe</a>'s final cinematic expansion of 2023, Whispers in the Walls, brings new enemy types, a new Syndicate, the 55th Warframe, Qorvex, and the most sought-after feature players have been asking Digital Extremes to add for years: cross-platform save. Cross-platform save is now live alongside the launch of Whispers in the Walls.</p><p>In December 2022, Warframe released its cross-play functionality that allowed players from different platforms to play the decade-long live-service game with each other. Now, cross-platform save is live for eligible players, which allows Warframe players to merge their Warframe accounts to play on a variety of different platforms. Today, the first wave of players will be able to use cross-platform saves, since Digital Extremes is taking precautions not to overwhelm by opening the floodgates all at once, so it can properly verify that the feature is working as intended. Cross-platform save carries
+
+## Antonline's Holiday Sale Includes Some Stellar Xbox Series X|S Bundle Deals
+ - [https://www.gamespot.com/articles/antonlines-holiday-sale-includes-some-stellar-xbox-series-x-s-bundle-deals/1100-6519909/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/antonlines-holiday-sale-includes-some-stellar-xbox-series-x-s-bundle-deals/1100-6519909/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T15:45:00+00:00
+
+<p>Last-minute holiday sales are officially upon us, and folks shopping for an Xbox Series X or Xbox Series S should put Antonline on their shopping list. The retailer is currently running nice discounts on Xbox Series X|S console bundles as part of its <a href="https://www.jdoqocy.com/click-100770772-15324736?sid=subid_value&amp;url=https://www.antonline.com/HolidayHeroDeals">Holiday Hero Deals</a>.</p><p>One of the best bundles is for <a href="https://www.dpbolvw.net/click-100770772-15324736?sid=subid_value&amp;url=https://www.antonline.com/Microsoft/Electronics/Gaming_Devices/Gaming_Consoles/1453740">Xbox Series X with an extra wireless controller</a>, which can be bought for just $400 (down from $560). The bundle is available with an extra <a href="https://www.dpbolvw.net/click-100770772-15324736?sid=subid_value&amp;url=https://www.antonline.com/Microsoft/Electronics/Gaming_Devices/Gaming_Consoles/1453740">white controller</a> or <a href="https://www.dpbolvw.net/click-100770772-1
+
+## Devs Creator Alex Garland Imagines Modern Day Civil War In New Movie Trailer
+ - [https://www.gamespot.com/articles/devs-creator-alex-garland-imagines-modern-day-civil-war-in-new-movie-trailer/1100-6519910/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/devs-creator-alex-garland-imagines-modern-day-civil-war-in-new-movie-trailer/1100-6519910/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T15:22:00+00:00
+
+<p>Annihilation and Devs director is back with a brand-new feature from A24 that feels all too real some days. Announced back in January 2022, Alex Garland <a href="https://www.telegraph.co.uk/films/0/ex-machinas-alex-garland-did-marvel-movie-would-disaster/">describes Civil War</a> as a "companion piece" to Men, and "serves as a sci-fi allegory for our currently polarised predicament."</p><p>In the feature's first trailer, we start with radio announcements that briefly look at the world's backdrop. 19 states have seceded from the Union and a new American civil war has started. The President (Nick Offerman) gives a state of the union-type of address adding more insight about who the nation is targeting and his determination to wipe them out. Check it out below.</p><div>          </div><p>Joining Offerman, Civil War stars Kirsten Dunst as a reporter on the run, Wagner Moura, Jesse Plemons, Stephen McKinley Henderson, Jonica T. Gibbs, Karl Glusman, and Cailee Spaeny.</p><a href="https:
+
+## Florida Joker Threatens Lawsuit Over GTA 6 Character, Wants Millions
+ - [https://www.gamespot.com/articles/florida-joker-threatens-lawsuit-over-gta-6-character-wants-millions/1100-6519908/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/florida-joker-threatens-lawsuit-over-gta-6-character-wants-millions/1100-6519908/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T15:19:00+00:00
+
+<p>Florida Joker--real name Lawrence Sullivan--has again taken to TikTok to complain about <a href="https://www.gamespot.com/games/grand-theft-auto-vi/">Grand Theft Auto 6</a>. Sullivan is claiming that a brief moment in the debut GTA 6 trailer references his 2017 mugshot, amongst several other real-life incidents in Florida. Similar to that viral image, the GTA 6 trailer features a mugshot of a man with dyed hair--purple instead of green when compared to Sullivan's picture--and an assortment of facial tattoos. Sullivan is now threatening legal action against developer Rockstar Games, unless they pay him several million dollars in compensation.</p><p>"GTA, I'm giving you the biggest free marketing [you've] got in the entire history of running this GTA game," Sullivan said in a new <a href="https://www.tiktok.com/@lawrence.sullivan0/video/7311699252420349227">TikTok video</a> while sporting freshly dyed purple hair. "For that, I want an extra million dollars. You're all taking forever
+
+## Top 20 Best-Selling Games For November 2023 In The US
+ - [https://www.gamespot.com/gallery/top-20-best-selling-games-for-november-2023-in-the-us/2900-4992](https://www.gamespot.com/gallery/top-20-best-selling-games-for-november-2023-in-the-us/2900-4992)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T14:38:00+00:00
+
+<p><h2>The Best Sellers</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4234980-screenshot2023-12-13at10.09.16am.png" /><br /><h3><p>As it does each month, Circana has released its latest monthly sales report, shining a light on how the US video game industry is performing from a business perspective. Total sales for November are down compared to last year, falling 7% to $5.9 billion.</p><p>Circana said the drop-off was due in part to hardware spending falling by a massive 24%, with game sales sliding 3%. For the year so far, however, spending overall in the US was up 1% across all categories, landing at $49.3 billion so far.</p><p>But what games sold the best in November? The best-selling game should surprise no one. The header image in this story might even give it away... In any event, you can see the full list of November 2023's best-selling games for the US in this gallery.</p><p>Titles marked with an asterisk (*) do not include digital sales. Addition
+
+## Apple Testing Out Theft-Protection Feature For iPhones - Report
+ - [https://www.gamespot.com/articles/apple-testing-out-theft-protection-feature-for-iphones-report/1100-6519906/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/apple-testing-out-theft-protection-feature-for-iphones-report/1100-6519906/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T14:21:00+00:00
+
+<p dir="ltr">Losing an iPhone to a thief stinks. But it becomes even worse when the robber has your passcode, too, letting them lock you out of iCloud photos, access other accounts, and more. That's why <a href="https://www.wsj.com/tech/personal-tech/apple-iphone-ios-update-stolen-device-protection-698d760e">The Wall Street Journal</a> reports Apple is testing a new feature called Stolen Device Protection.</p><p dir="ltr">Apparently, enabling this new setting will add safeguards to sensitive data on your iPhone. For example, if the device detects the user is located somewhere unfamiliar, biometrics (face or touch) will be needed to tinker with Apple ID accounts. Even then, an hour delay will go into effect, with biometrics required again after that time period to gain access to Apple ID. This same method will be utilized to protect robbers from turning off the Find My feature on the smartphone as well.</p><p dir="ltr">Stolen Device Protection has reportedly been rolled out to beta te
+
+## Pathfinder Tabletop RPG Bundle Includes 24 Rulebooks, Campaigns, And More For Only $25
+ - [https://www.gamespot.com/articles/pathfinder-tabletop-rpg-bundle-includes-24-rulebooks-campaigns-and-more-for-only-25/1100-6519902/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pathfinder-tabletop-rpg-bundle-includes-24-rulebooks-campaigns-and-more-for-only-25/1100-6519902/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T14:19:00+00:00
+
+<p dir="ltr">Attention tabletop roleplayers: Humble has a new bundle that includes up to 24 Pathfinder 2nd Edition rulebooks, supplements, and pre-made adventure modules for just $25--though there are also smaller, cheaper bundles that are perfect for curious first-time players looking to try out a new tabletop system.</p><div class="norewrite" title="">           <a href="https://www.dpbolvw.net/click-100770772-14555742?sid=subid_value&amp;url=https://www.humblebundle.com/books/pathfinder-second-edition-legacy-bundle-paizo-books">See at Humble</a> </div><p dir="ltr">The bundle options start at $5 for a collection that features PDF versions of the Pathfinder Beginner Box, the Age of Ashes: Hellknight Hill adventure module and player's guide, The Fall of Plaguestone standalone adventure, and a printable Fall of Plaguestone playmat.</p><p dir="ltr">The second bundle option is a $15 package that adds the Pathfinder 2E core rulebook and a handful of other gameplay supplements and pre-mad
+
+## PlateUp! Console Announcement Trailer
+ - [https://www.gamespot.com/videos/plateup-console-announcement-trailer/2300-6463084](https://www.gamespot.com/videos/plateup-console-announcement-trailer/2300-6463084)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T14:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4234814-platuo1.jpg" width="480" /> PlateUp! is making its way to PlayStation 4 and 5, XBox One X and S, and Nintendo Switch on February 15th!
+
+## 15 Minutes Of God Of War Ragnarök Valhalla Gameplay
+ - [https://www.gamespot.com/videos/15-minutes-of-god-of-war-ragnarok-valhalla-gameplay/2300-6463085](https://www.gamespot.com/videos/15-minutes-of-god-of-war-ragnarok-valhalla-gameplay/2300-6463085)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-12-13T08:57:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4234901-gameplay_godofwarragnarokvalhalla_20231212v4.png" width="480" /> Kratos receives a mysterious invitation to Valhalla, the Norse realm for those that have died in combat. There, he questions his place in the new order, and faces wave upon waves of foes long since vanquished.
+
