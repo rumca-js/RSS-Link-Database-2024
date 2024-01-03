@@ -1,0 +1,184 @@
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## Resale platform Vinted has transformed the way we buy clothes, for the better?
+ - [https://www.lemonde.fr/en/economy/article/2024/01/02/resale-platform-vinted-has-transformed-the-way-we-buy-clothes-for-the-better_6397076_19.html](https://www.lemonde.fr/en/economy/article/2024/01/02/resale-platform-vinted-has-transformed-the-way-we-buy-clothes-for-the-better_6397076_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T19:45:10+00:00
+
+The second-hand clothing platform is beating traffic records while delivering an environmentally friendly message. But it's questionable whether it's really leading to more sustainable practices.
+
+## Hamas deputy head killed in Israeli strike on Beirut suburb, say security officials
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/hamas-deputy-head-killed-in-israeli-strike-on-beirut-suburb-say-security-officials_6396977_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/hamas-deputy-head-killed-in-israeli-strike-on-beirut-suburb-say-security-officials_6396977_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T19:02:48+00:00
+
+Saleh al-Arouri, one of Hamas's principal military strategists, was reportedly killed in an attack that marked an escalation of the nearly three-month war in Gaza between Hamas and Israel
+
+## Harvard president resigns amid plagiarism claims, backlash from antisemitism testimony
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/harvard-president-resigns-amid-plagiarism-claims-backlash-from-antisemitism-testimony_6396877_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/harvard-president-resigns-amid-plagiarism-claims-backlash-from-antisemitism-testimony_6396877_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T18:47:30+00:00
+
+Claudine Gay had come under pressure over testimony at a congressional hearing where she was unable to say unequivocally that calls on campus for the genocide of Jews would violate the school's conduct policy.
+
+## Snoop Dogg to be Paris Olympics special correspondent for NBC
+ - [https://www.lemonde.fr/en/sports/article/2024/01/02/snoop-dogg-to-be-paris-olympics-special-correspondent-for-nbc_6396810_9.html](https://www.lemonde.fr/en/sports/article/2024/01/02/snoop-dogg-to-be-paris-olympics-special-correspondent-for-nbc_6396810_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T18:11:10+00:00
+
+The acclaimed rapper will reprise his star turn at the Tokyo Games that delighted viewers.
+
+## One day, there was a miracle: 'I walked into a bar and ordered my last beer'
+ - [https://www.lemonde.fr/en/intimacy/article/2024/01/02/one-day-there-was-a-miracle-i-walked-into-a-bar-and-ordered-my-last-beer_6396711_310.html](https://www.lemonde.fr/en/intimacy/article/2024/01/02/one-day-there-was-a-miracle-i-walked-into-a-bar-and-ordered-my-last-beer_6396711_310.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T17:32:59+00:00
+
+Jacques Alexandre, 73, remembers August 25, 1990. He was suffering from a severe addiction to alcohol but had also just fallen in love.
+
+## Filmmaker Paul Schrader: 'If I am gonna make a film about dying, I better hurry up'
+ - [https://www.lemonde.fr/en/culture/article/2024/01/02/filmmaker-paul-schrader-if-i-am-gonna-make-a-film-about-dying-i-better-hurry-up_6396644_30.html](https://www.lemonde.fr/en/culture/article/2024/01/02/filmmaker-paul-schrader-if-i-am-gonna-make-a-film-about-dying-i-better-hurry-up_6396644_30.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T17:18:49+00:00
+
+As he puts the finishing touches to his new film, "Oh, Canada," the American director and screenwriter shares his views on the state of the industry.
+
+## Israel army says it's investigating soldier over killing of detained Gazan
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/israel-army-says-it-s-investigating-soldier-over-killing-of-detained-gazan_6396478_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/israel-army-says-it-s-investigating-soldier-over-killing-of-detained-gazan_6396478_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T16:53:17+00:00
+
+The soldier is suspected of shooting dead a Palestinian who had been captured and detained by troops in the Gaza Strip.
+
+## Images of the major earthquake that hit Japan
+ - [https://www.lemonde.fr/en/international/video/2024/01/02/images-of-the-major-earthquake-that-hit-japan_6396346_4.html](https://www.lemonde.fr/en/international/video/2024/01/02/images-of-the-major-earthquake-that-hit-japan_6396346_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T15:07:03+00:00
+
+More than 150 aftershocks have been recorded following the magnitude 7.6 earthquake that hit the western part of the country on January 1.
+
+## Taiwanese foreign affairs minister claims Chinese interference is increasingly sophisticated
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/taiwanese-foreign-affairs-minister-claims-chinese-interference-is-increasingly-sophisticated_6396246_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/taiwanese-foreign-affairs-minister-claims-chinese-interference-is-increasingly-sophisticated_6396246_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T14:35:31+00:00
+
+In an exclusive interview with Le Monde, Joseph Wu criticizes Beijing's failure to respect the military status quo in the Taiwan Strait but says that 'war with China is neither imminent nor inevitable.'
+
+## Israeli Supreme Court deals major blow to Netanyahu
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/israeli-supreme-court-deals-major-blow-to-netanyahu_6396147_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/israeli-supreme-court-deals-major-blow-to-netanyahu_6396147_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T14:03:00+00:00
+
+The key provision of the government's reform aimed at reducing the power of judges was invalidated by the Supreme Court on Monday.
+
+## Nadal back in form after 'emotional and important' match victory
+ - [https://www.lemonde.fr/en/sports/article/2024/01/02/nadal-back-in-form-after-emotional-and-important-match-victory_6396048_9.html](https://www.lemonde.fr/en/sports/article/2024/01/02/nadal-back-in-form-after-emotional-and-important-match-victory_6396048_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T11:50:29+00:00
+
+The Spanish 22-time Grand Slam champion came back after a year of layoff and two rounds of hip surgery, to defeat former US Open champion Dominic Thiem 7-5, 6-1 at the Brisbane International in Australia.
+
+## Turkey detains 33 alleged Israeli spies
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/turkey-detains-33-alleged-israeli-spies_6395980_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/turkey-detains-33-alleged-israeli-spies_6395980_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T11:38:51+00:00
+
+The detainees have been accused of planning abductions and spying on behalf of Israel's Mossad intelligence service, as part of mounting tensions between Israel and Turkey since the October 7 terrorist attacks and Israel's assault on Gaza.
+
+## 'There's Still Tomorrow,' the hit Italian film that sparked revolt against the patriarchy
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/there-s-still-tomorrow-the-hit-italian-film-that-sparked-revolt-against-the-patriarchy_6395914_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/there-s-still-tomorrow-the-hit-italian-film-that-sparked-revolt-against-the-patriarchy_6395914_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T11:26:39+00:00
+
+This first feature film by actor and director Paola Cortellesi, which portrays women's emancipation in macho post-war Italy, has packed cinemas and sparked intense debate – after the femicide of 22-year-old Giulia Cecchettin, which outraged the entire country.
+
+## Putin promises to 'intensify' strikes on Ukraine after shelling of Russian city of Belgorod
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/putin-promises-to-intensify-strikes-on-ukraine-after-shelling-of-russian-city-of-belgorod_6395748_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/putin-promises-to-intensify-strikes-on-ukraine-after-shelling-of-russian-city-of-belgorod_6395748_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T10:27:07+00:00
+
+In the wake of the deadliest strikes to date on the Russian border city of Belgorod, the Russian leader boasted of his nation's unity and declared it would 'never back down.'
+
+## Japan: Tsunami warnings lifted but other major quake could occur
+ - [https://www.lemonde.fr/en/environment/article/2024/01/02/japan-tsunami-warnings-lifted-but-other-major-quake-could-occur_6395649_114.html](https://www.lemonde.fr/en/environment/article/2024/01/02/japan-tsunami-warnings-lifted-but-other-major-quake-could-occur_6395649_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T10:02:17+00:00
+
+Japan's Meteorological Agency advises heightened vigilance along the coastal areas stretching from Hokkaido to Kyushu.
+
+## Japan Airlines plane on fire on runway at Tokyo's Haneda airport
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/japan-airlines-plane-on-fire-on-runway-at-tokyo-s-haneda-airport_6395582_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/japan-airlines-plane-on-fire-on-runway-at-tokyo-s-haneda-airport_6395582_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T09:39:55+00:00
+
+Television footage showed flames coming out of the plane's windows and nose on the ground as rescue workers sprayed it.
+
+## Israel-Hamas war: On board the 'Dixmude,' where the French navy treats Palestinian civilians
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/israel-hamas-war-on-board-the-dixmude-where-the-french-navy-treats-palestinian-civilians_6395481_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/israel-hamas-war-on-board-the-dixmude-where-the-french-navy-treats-palestinian-civilians_6395481_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T09:13:23+00:00
+
+This French amphibious helicopter carrier anchored off Gaza has been transformed into a hospital to treat wounded people evacuated from the Strip.
+
+## Russian missiles kill one and injure dozens in strikes on Ukraine
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/russian-missiles-kill-one-and-injure-dozens-in-strikes-on-ukraine_6395217_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/russian-missiles-kill-one-and-injure-dozens-in-strikes-on-ukraine_6395217_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T07:22:40+00:00
+
+The attacks came a day after Putin said his forces would intensify strikes on military targets, in reprisals for an unprecedented Ukrainian attack over the weekend on the Russian city of Belgorod.
+
+## Hong Kong publisher Jimmy Lai pleads 'not guilty' to sedition charges
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/hong-kong-publisher-jimmy-lai-pleads-not-guilty-to-sedition-charges_6395151_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/hong-kong-publisher-jimmy-lai-pleads-not-guilty-to-sedition-charges_6395151_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T06:39:54+00:00
+
+The pro-democracy activist and tycoon is on trial for two charges, including 'conspiracy to collude with foreign forces to endanger national security,' which carries a penalty of up to life in prison under the 2020 security law imposed by Beijing.
+
+## How humor helps Ukrainians cope with the war
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/how-humor-helps-ukrainians-cope-with-the-war_6394622_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/how-humor-helps-ukrainians-cope-with-the-war_6394622_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T04:30:08+00:00
+
+Sasha and Olga Kurovska, two Ukrainian sisters, one living in Kyiv and the other in Paris, have been publishing letters in Le Monde since the start of the Russian invasion, giving an intimate account of their lives turned upside down by the war. In a letter posted from Kyiv, Sasha explains humor's central role in Ukrainian daily life.
+
+## Wolfgang Schäuble, major political figure and architect of German reunification, dies
+ - [https://www.lemonde.fr/en/obituaries/article/2024/01/02/wolfgang-schauble-major-political-figure-and-architect-of-german-reunification-dies_6394457_15.html](https://www.lemonde.fr/en/obituaries/article/2024/01/02/wolfgang-schauble-major-political-figure-and-architect-of-german-reunification-dies_6394457_15.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T04:14:40+00:00
+
+This conservative, committed European and guardian of the strictest budgetary orthodoxy, left his mark on his country's political life for five decades. He died of cancer on December 26, at the age of 81.
+
+## South Korean opposition leader is injured by an unidentified man
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/south-korean-opposition-leader-is-injured-by-an-unidentified-man_6394358_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/south-korean-opposition-leader-is-injured-by-an-unidentified-man_6394358_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T03:17:35+00:00
+
+Lee Jae-myung was stabbed in the neck on Tuesday while talking to reporters in the port city of Busan. Yonhap news agency said he was bleeding but conscious as he was taken to hospital.
+
+## Miami is overwhelmed by its septic tanks
+ - [https://www.lemonde.fr/en/m-le-mag/article/2024/01/02/miami-is-overwhelmed-by-its-septic-tanks_6394160_117.html](https://www.lemonde.fr/en/m-le-mag/article/2024/01/02/miami-is-overwhelmed-by-its-septic-tanks_6394160_117.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T02:47:54+00:00
+
+Florida's canals and city parks have fecal bacteria in them. The cause is rising ocean levels and intense rainfall events that cause saturated septic systems to spread.
+
+## For their first-class passengers, airlines are betting on fine wines and bubbles
+ - [https://www.lemonde.fr/en/economy/article/2024/01/02/for-their-first-class-passengers-airlines-are-betting-on-fine-wines-and-bubbles_6394060_19.html](https://www.lemonde.fr/en/economy/article/2024/01/02/for-their-first-class-passengers-airlines-are-betting-on-fine-wines-and-bubbles_6394060_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T02:17:25+00:00
+
+To stand out from the crowd and flatter their elite clientele, the big names in the sector are investing in renowned champagnes and wines.
+
+## In Mexico, the mezcal boom is leading to deforestation and threatening wild agaves
+ - [https://www.lemonde.fr/en/environment/article/2024/01/02/in-mexico-the-mezcal-boom-is-leading-to-deforestation-and-threatening-wild-agaves_6393994_114.html](https://www.lemonde.fr/en/environment/article/2024/01/02/in-mexico-the-mezcal-boom-is-leading-to-deforestation-and-threatening-wild-agaves_6393994_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T01:32:19+00:00
+
+Alcohol production has increased tenfold in eight years, driven by high demand abroad. Agave monocultures are expanding across the country.
+
+## Major Japan quake kills at least six
+ - [https://www.lemonde.fr/en/international/article/2024/01/02/major-japan-quake-kills-at-least-six_6393927_4.html](https://www.lemonde.fr/en/international/article/2024/01/02/major-japan-quake-kills-at-least-six_6393927_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-01-02T00:15:15+00:00
+
+A 7.5-magnitude tremor struck the center of the country on Monday, triggering tsunami waves over a meter high, damaging homes and sparking a major blaze. More major quakes could hit the area over the next week, especially in the next two or three days.
+

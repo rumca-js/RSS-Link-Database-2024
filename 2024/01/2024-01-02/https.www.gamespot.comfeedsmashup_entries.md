@@ -1,0 +1,142 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Baldur's Gate 3 Wins Game Of The Year At The Steam Awards
+ - [https://www.gamespot.com/articles/baldurs-gate-3-wins-game-of-the-year-at-the-steam-awards/1100-6520090/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/baldurs-gate-3-wins-game-of-the-year-at-the-steam-awards/1100-6520090/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T20:16:00+00:00
+
+<p>Valve announced its winners for the 2023 Steam Awards, which are determined by Steam users. Games such as <a href="https://www.gamespot.com/games/baldurs-gate-3/">Baldur's Gate 3</a>, <a href="https://www.gamespot.com/games/hogwarts-legacy/">Hogwarts Legacy</a>, and <a href="https://www.gamespot.com/games/starfield/">Starfield</a> have all walked away with accolades.</p><p>For the biggest category, Baldur's Gate 3 snagged another Game of the Year award, beating out games such as <a href="https://www.gamespot.com/games/resident-evil-4/">Resident Evil 4</a>, Lethal Company, and Hogwarts Legacy. What's especially notable about this is that it is yet another Game of the Year Larian Studios managed to secure. During <a href="https://www.gamespot.com/gallery/all-the-game-awards-2023-winners-revealed/2900-4977/">The Game Awards</a>, it won the same award, and it was also <a href="https://www.gamespot.com/articles/baldurs-gate-3-is-gamespots-game-of-the-year-2023/1100-6519739/">GameSpot's
+
+## Lego Fortnite Player Recreates Iconic Lord Of The Rings: The Two Tower Location
+ - [https://www.gamespot.com/articles/lego-fortnite-player-recreates-iconic-lord-of-the-rings-the-two-tower-location/1100-6520088/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/lego-fortnite-player-recreates-iconic-lord-of-the-rings-the-two-tower-location/1100-6520088/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T19:36:00+00:00
+
+<p dir="ltr">There may not be thousands of Uruk-hai ready to knock down the walls, but a resourceful <a href="https://www.gamespot.com/games/fortnite/">Lego Fortnite</a> player has constructed a virtual Helm's Deep inside the game. The location serves as the setting for one of the most famous battle scenes in cinema history in the movie The Lord of the Rings: The Two Towers.</p><p dir="ltr"><a href="https://twitter.com/Dexerto/status/1742063672757776812">Dexerto</a> posted a clip from Lego Fortnite on X (formerly known as Twitter) showcasing the refuge for the people of Rohan in the The Lord of the Rings universe. The person behind the digital recreation is <a href="https://www.reddit.com/user/Crownedpepper/submitted/">Reddit user Crownedpepper</a>, who's also <a href="https://www.reddit.com/r/LEGOfortnite/comments/18p8stu/there_is_only_one_lord_of_the_ring/">built the Eye of Sauron inside the game</a>. Crownedpepper stated that Helm's Deep was "made with mostly the castle building p
+
+## Jack Black Joins Jason Momoa In Minecraft Movie
+ - [https://www.gamespot.com/articles/jack-black-joins-jason-momoa-in-minecraft-movie/1100-6520086/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/jack-black-joins-jason-momoa-in-minecraft-movie/1100-6520086/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T19:06:00+00:00
+
+<p>Jack Black is joining Jason Momoa in the upcoming Minecraft movie, according to <a href="https://deadline.com/2024/01/minecraft-jack-black-1235693816/">Deadline</a>. The announcement of Black joining the cast comes just before production is set to begin in New Zealand.</p><p>The movie also stars Emma Myers, Sebastian Eugene Hansen, and Danielle Brooks.</p><p>The Minecraft movie is <a href="https://www.gamespot.com/articles/minecraft-movie-starring-jason-momoa-gets-release-date-aquaman-2-to-release-early/1100-6513011/">set for release in April 2025</a>, and it will be directed by Jared Hess. He previously directed Black in Nacho Libre and is also known for the movies Napoleon Dynamite and Gentlemen Broncos.</p><a href="https://www.gamespot.com/articles/jack-black-joins-jason-momoa-in-minecraft-movie/1100-6520086/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Pokemon Help "Finish The Fight" In This Pokemon Snap-Halo 2 Animated Video
+ - [https://www.gamespot.com/articles/pokemon-help-finish-the-fight-in-this-pokemon-snap-halo-2-animated-video/1100-6520085/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pokemon-help-finish-the-fight-in-this-pokemon-snap-halo-2-animated-video/1100-6520085/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T18:55:00+00:00
+
+<p>The age-old question of what Pokemon would look like in the world of Halo has finally been answered in a video where <a href="https://www.gamespot.com/games/new-pokemon-snap/">Pokemon Snap</a> meets Halo.</p><p dir="ltr">Thanks to YouTuber <a href="https://www.youtube.com/@HatLovingGamer/featured">Hat-Loving Gamer</a> (via <a href="https://www.gamesradar.com/machamp-goes-on-a-rampage-as-pokemon-snap-meets-halo-2/">GamesRadar</a>), we now know how many guns a Machamp can hold and what a Togepi's weapon of choice is. The video shows the photographer talking to Professor Oak before being transported to Coagulation, a multiplayer map featured in <a href="https://www.gamespot.com/games/halo-2/">Halo 2</a>. Once the photographer loads into the map from the safety of their pod, they're greeted by a Dodrio losing one of its heads as soon as the battle starts.</p><div>          </div><p dir="ltr">As the video goes on, we're shown various things, such as how the original three starter Pokem
+
+## Firewall Ultra Developer Closes Down After Eight Years Due To Lack Of VR Support
+ - [https://www.gamespot.com/articles/firewall-ultra-developer-closes-down-after-eight-years-due-to-lack-of-vr-support/1100-6520087/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/firewall-ultra-developer-closes-down-after-eight-years-due-to-lack-of-vr-support/1100-6520087/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T18:52:00+00:00
+
+<p>Firewall Ultra developer First Contact Entertainment has shut down after eight years. The studio cites the general lack of virtual reality support in the video games industry as the main reason.</p><p>In a <a href="https://www.facebook.com/100063726062552/posts/863564889111039/?mibextid=WC7FNe">Facebook post</a> before Christmas, First Contact Entertainment said that it would close its doors by the end of 2023. "The lack of support for VR within the industry has eventually taken its toll," the studio said. "As a AAA VR game developer, we are just not able to justify the expense needed gouging forward. We are a team of fearless innovators willing to push new technologies to its limits."</p><p>First Contact Entertainment developed 2018's Firewall Zero Hour for PlayStation VR and 2023's Firewall Ultra for PlayStation VR2. There has been no word on whether either game will be pulled from the PlayStation Store or if their servers will be closing as well.</p><a href="https://www.gamespo
+
+## WoW Adds Dragonriding To All Of Azeroth, NPC Follower Dungeons In First 2024 Update
+ - [https://www.gamespot.com/articles/wow-adds-dragonriding-to-all-of-azeroth-npc-follower-dungeons-in-first-2024-update/1100-6520084/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wow-adds-dragonriding-to-all-of-azeroth-npc-follower-dungeons-in-first-2024-update/1100-6520084/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T18:43:00+00:00
+
+<p><a href="https://www.gamespot.com/games/world-of-warcraft/">World of Warcraft's</a> first update of 2024 is just around the corner, and although it's technically labeled as a "minor" patch, it will add some game-changing new features to Blizzard's MMORPG.</p><p dir="ltr">Blizzard has announced WoW's next update, Seeds of Renewal, will arrive on January 16. Update 10.2.5 will bring Dragonflight's excellent dragonriding flight system to all of Azeroth, something players have requested ever since they first got their hands on the new type of in-game flight during Dragonflight's Alpha test. It will also allow players to run normal difficulty <a href="https://www.gamespot.com/articles/wow-dragonflight-will-soon-let-players-run-dungeons-with-npc-companions/1100-6519243/">dungeons with NPC followers</a>, letting newer players, or players new to particular classes or roles like healing or tanking, a way to brush up on their skills before jumping into groups with real players.</p><p dir="l
+
+## Star Wars Director Says It's About Time A Woman Makes A Star Wars Movie
+ - [https://www.gamespot.com/articles/star-wars-director-says-its-about-time-a-woman-makes-a-star-wars-movie/1100-6520083/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-wars-director-says-its-about-time-a-woman-makes-a-star-wars-movie/1100-6520083/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T18:05:00+00:00
+
+<p>Oscar-winning documentary filmmaker Sharmeed Obaid-Chinoy is directing an upcoming Star Wars movie that brings back Daisy Ridley in the role of Rey. Obaid-Chinoy will become the first woman to direct a Star Wars film, dating back to the franchise's origins in the 1970s. Speaking about this, Obaid-Chinoy told <a href="https://edition.cnn.com/videos/world/2023/12/31/exp-nye-2024-pakistan-obaid-chinoy-123111aseg3-cnni-world.cnn">CNN</a> that she is "very thrilled" to make the movie and create something that is "very special."</p><p>"We're in 2024 now, and I think it's about time we had a woman come forward to shape the story in a galaxy far, far away," she said.</p><p>Obaid-Chinoy won Best Documentary, Short Subjects Academy Awards for Saving Face (2012) and A Girl in the River: The Price of Forgiveness (2015).</p><a href="https://www.gamespot.com/articles/star-wars-director-says-its-about-time-a-woman-makes-a-star-wars-movie/1100-6520083/?ftag=CAD-01-10abi2f/">Continue Reading at Ga
+
+## PSA: Recording Explicit Baldur's Gate 3 Romance Scenes May Get Your Xbox Account Banned
+ - [https://www.gamespot.com/articles/psa-recording-explicit-baldurs-gate-3-romance-scenes-may-get-your-xbox-account-banned/1100-6520082/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/psa-recording-explicit-baldurs-gate-3-romance-scenes-may-get-your-xbox-account-banned/1100-6520082/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T17:24:00+00:00
+
+<p dir="ltr">Building up a romantic relationship with a companion of choice in Baldur's Gate 3 will earn players an intimate scene with the chosen party member. If you're on Xbox, however, be warned: Recording the scene could get you banned from Xbox Live, as one member of the game's Reddit community has reported.</p><p dir="ltr">Reddit user <a href="https://www.reddit.com/r/BaldursGate3/comments/18u5pnj/xbox_users_do_not_record_game_clips/?utm_source=embedv2&amp;utm_medium=post_embed&amp;utm_content=whitespace&amp;embed_host_url=https://ovogaming.com/news/baldurs-gate-3-player-gets-one-year-suspension-on-xbox/">u/Daddy_Magic</a> shared his plight on the BG3 forum, as they said they recorded three separate videos of a particular tryst in the player character's camp. As is routine, the videos were uploaded to the Xbox servers after capture for sharing purposes, but when the uploads were completed, each video was reportedly marked as an infraction..</p><figure style="width: 1280px;"><a
+
+## In 2023, The Best Games Put My Decisions First
+ - [https://www.gamespot.com/articles/in-2023-the-best-games-put-my-decisions-first/1100-6520081/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/in-2023-the-best-games-put-my-decisions-first/1100-6520081/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T17:04:00+00:00
+
+<p>As someone who has been playing games for as long as my pudgy little toddler hands could hold a Super Nintendo controller, it's been interesting for me to see how my taste in games has changed over the years. What started out as an intense love for mascot platformers eventually turned into a deep appreciation for simulation games. Over time, this passion turned to RPGs, and then action-adventure games, often with RPG elements and condensed, <em>purposeful </em>worlds. Yet despite all their differences, there's a thread through them all that this year's new releases made me aware of--and I'm now compelled to tug at it.</p><p dir="ltr">Recently, GameSpot named Baldur's Gate 3 its game of the year--a choice I heavily advocated for. During our deliberations, I told my colleagues, "I don't think it's the most cinematic game this year, or the most 'artistic,' but I do think it is the best <em>game</em>." My second favorite game of 2023 was The Legend of Zelda: Tears of the Kingdom, whic
+
+## Star Wars Outlaws Release Date Set For Late 2024
+ - [https://www.gamespot.com/articles/star-wars-outlaws-release-date-set-for-late-2024/1100-6520079/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-wars-outlaws-release-date-set-for-late-2024/1100-6520079/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T16:29:00+00:00
+
+<p><a href="https://www.gamespot.com/games/star-wars-outlaws/">Star Wars Outlaws</a>, the new Star Wars action game from the team at Ubisoft that made The Division, now has a narrower release window. A <a href="https://disneyparks.disney.go.com/blog/2024/01/24-oooh-worthy-things-at-disney-experiences-in-2024/">blog post from Disney</a> outlining the company's plans for 2024 includes mention of Outlaws and specifically a release date being "late this year."</p><p>Previously, Outlaws was only confirmed for release sometime in 2024.</p><p>Outlaws is an open-world Star Wars game where players take on the role of Kay Vess, a scoundrel trying to start a new life. The game is set between The Empire Strikes Back and Return of the Jedi--when the civil war between the Empire and the Rebellion is at its height, providing an <a href="https://www.gamespot.com/articles/star-wars-outlaws-will-feature-an-iconic-location-from-the-original-trilogy/1100-6516226/">opportunity for crime and outlaws to th
+
+## 10 Upcoming Open World Shooters In 2024 And Beyond
+ - [https://www.gamespot.com/videos/10-upcoming-open-world-shooters-in-2024-and-beyond/2300-6463125](https://www.gamespot.com/videos/10-upcoming-open-world-shooters-in-2024-and-beyond/2300-6463125)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T16:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4237733-best_upcoming_openworld_shooters_site.jpg" width="480" /> Open world shooter fans have plenty to get excited about in 2024 and beyond, from Star Wars Outlaws to S.T.A.L.K.E.R. 2, here are 10 upcoming titles you’ll want to wishlist immediately.
+
+## Zack Snyder Wants To See A 20-Year-Old James Bond And A Movie That Digs Into His Trauma
+ - [https://www.gamespot.com/articles/zack-snyder-wants-to-see-a-20-year-old-james-bond-and-a-movie-that-digs-into-his-trauma/1100-6520078/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/zack-snyder-wants-to-see-a-20-year-old-james-bond-and-a-movie-that-digs-into-his-trauma/1100-6520078/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T15:53:00+00:00
+
+<p>Director Zack Snyder has said it would be fun to see a James Bond movie tell a story about a young Bond that digs into the super-spy's past and upbringing. Snyder told <a href="https://www.theatlantic.com/culture/archive/2023/12/zack-snyder-director-movies-rebel-moon/676903/">The Atlantic</a> that he believes audiences would show up to learn about Bond's early days and the trauma that made him who he is.</p><p>"It'd be cool to see, like, 20-year-old James Bond," Snyder said (<a href="https://variety.com/2023/film/news/zack-snyder-james-bond-movie-20-year-old-007-pitch-1235851237/">via Variety</a>). "The humble roots that he comes from. Whatever trauma of youth that makes you be able to be James Bond. There has to be something there."</p><p>The 2012 James Bond movie Skyfall saw Bond return to his childhood home, but there hasn't been a proper prequel that shows Bond's upbringing. In 2022, actor Tom Holland said he <a href="https://www.gamespot.com/articles/tom-holland-pitched-sony-
+
+## Paul Giamatti Describes The Bond Villain He'd Like To Play
+ - [https://www.gamespot.com/articles/paul-giamatti-describes-the-bond-villain-hed-like-to-play/1100-6520080/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/paul-giamatti-describes-the-bond-villain-hed-like-to-play/1100-6520080/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T15:47:00+00:00
+
+<p>Paul Giamatti has almost 120 film and television credits to his name and is looking to grab his second Oscar nomination this year for The Holdovers. He is also the most recent actor talking to GQ about breaking down his most iconic roles and characters. Giamatti spoke at length with behind-the-scenes stories--he broke his hand in John Adams, and didn't realize Kenny Rushton was a real person--but also a role he's yet to play that he's desperate to.</p><p>When <a href="https://www.youtube.com/shorts/_RoDbsFaIfM">asked about his wanting to play a Bond villain</a>, Giamatti describes the type of archetype he'd love to be in the James Bond world.</p><div>          </div><p>"I'd want an accent of some kind. I'd definitely want an accent. It'd be nice to have an animal with me of some kind," Giamatti responded. "Not necessarily a cat, but something. Any animal, maybe. Not a parrot or something. Something real. I don't know. An accent, though, of some kind I'd have to have. A guy who's a
+
+## GTA 5 Will Leave Xbox Game Pass Soon, Six Months After Returning To The Service
+ - [https://www.gamespot.com/articles/gta-5-will-leave-xbox-game-pass-soon-six-months-after-returning-to-the-service/1100-6520075/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/gta-5-will-leave-xbox-game-pass-soon-six-months-after-returning-to-the-service/1100-6520075/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T15:09:00+00:00
+
+<p dir="ltr">The start of 2024 will see a few huge departures for Xbox Game Pass. Grand Theft Auto V, Persona 3 Portable, and Persona 4 Golden will reportedly leave the subscription service on January 15, per <a href="https://twitter.com/IdleSloth84_/status/1742123848349139071">X user Idle Sloth</a>.</p><p dir="ltr">GameSpot can confirm from the Xbox Game Pass app that all three games are listed under the Leaving Soon section, though no specific date is mentioned. The other titles joining them on console and PC are Garden Story and MotoGP 22.</p><p dir="ltr"><a href="https://www.gamespot.com/articles/gta-5-gets-surprise-xbox-game-pass-release-other-additions-for-july-revealed/1100-6515664/">GTA V was a surprise addition to Xbox Game Pass</a> in July 2023, so that means the Rockstar title will have been available for roughly six months. Previously, <a href="https://www.gamespot.com/articles/gta-5-is-leaving-xbox-game-pass-again-three-months-after-rejoining-the-service/1100-6494420/">G
+
+## Mickey Mouse Is Public Domain Now,  Here Come The Cheap Horror Movies
+ - [https://www.gamespot.com/articles/mickey-mouse-is-public-domain-now-here-come-the-cheap-horror-movies/1100-6520077/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/mickey-mouse-is-public-domain-now-here-come-the-cheap-horror-movies/1100-6520077/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T14:59:00+00:00
+
+<p>At 12:01 AM Monday, the earliest version of Mickey Mouse went into the public domain. It took little time for projects featuring Mickey and his gloveless hands to be made into anything. From erotic prints to logos on shirts for labor rights. There were also more elaborate projects like <a href="https://www.gamespot.com/articles/mickey-mouse-must-be-exterminated-in-new-horror-game-infestation-88/1100-6520070/">"edgy" video games</a> and even two slasher films: Mickey's Mouse Trap, and <a href="https://twitter.com/DiscussingFilm/status/1742188058001256615">another untitled movie</a> where a deranged mouse goes after ferry guests. </p><p>In Mickey's Mouse Trap, young Alex is stuck at work on her birthday at an arcade. When her friends decide to surprise her, a masked killer dressed as Mickey Mouse appears and hunts them down for sport. The film was shot, edited, and directed by Jamie Bailey and written by Simon Phillips. Check out the trailer below.</p><div>          </div><p>You mig
+
+## The Office Star Craig Robinson Discusses If He'd Come Back For A Reboot
+ - [https://www.gamespot.com/articles/the-office-star-craig-robinson-discusses-if-hed-come-back-for-a-reboot/1100-6520076/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-office-star-craig-robinson-discusses-if-hed-come-back-for-a-reboot/1100-6520076/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T14:54:00+00:00
+
+<p>Craig Robinson, who played Darryl on The Office and appeared in more than 100 episodes, has commented on the possibility of a remake and if he'd be interested in appearing in it. Speaking to <a href="https://www.avclub.com/craig-robinson-is-down-for-a-reboot-of-the-office-1851129551">AV Club</a>, Robinson said if there is a new show in the works, he hasn't heard about it.</p><p>"I only hear that when I do interviews [laughs]. 'I heard that there was something going on...' It hasn't been mentioned to me. If it does [happen], I would love to reprise Darryl at some point," he said. "But right now, I don't know. Nor do I think so."</p><div>          </div><p>Darryl is a fan favorite character on The Office who sees his career shift from the warehouse, to the office, and eventually to the Philadelphia-based sports marketing company Athlead (later Athleap). Darryl's story ended on a high note, as he <a href="https://theoffice.fandom.com/wiki/Darryl_Philbin">became an executive at Athlea
+
+## Miyamoto Has No Plans To Retire But Is Thinking About It "In Case Something Does Happen"
+ - [https://www.gamespot.com/articles/miyamoto-has-no-plans-to-retire-but-is-thinking-about-it-in-case-something-does-happen/1100-6520073/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/miyamoto-has-no-plans-to-retire-but-is-thinking-about-it-in-case-something-does-happen/1100-6520073/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T13:55:00+00:00
+
+<p>Shigeru Miyamoto--the creator of Mario, Donkey Kong, and other characters and games over his 40-plus years at Nintendo--is 71 years old and has no plans to retire. Speaking to <a href="https://www.theguardian.com/culture/2023/dec/30/nintendo-shigeru-miyamoto-interview-mario-zelda-switch-pikmin-splatoon">The Guardian</a>, Miyamoto said he is thinking about a succession plan, but he plans to work for some time more.</p><p>"More so than retiring, I'm thinking about the day I fall over," he said with a smile. "In this day and age you have to think about things in a five-year timespan, so I do think about who I can pass things on to, in case something does happen."</p><p>Miyamoto went on to comment on his legacy, saying he is thankful there is "so much energy" around the things he has created. "They've been cultivated by others, other people have been raising them, helping them grow, so in that sense I don't feel too much ownership over them any more," Miyamoto said.</p><a href="https:
+
+## Square Enix Intends To Be Aggressive With AI
+ - [https://www.gamespot.com/articles/square-enix-intends-to-be-aggressive-with-ai/1100-6520074/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/square-enix-intends-to-be-aggressive-with-ai/1100-6520074/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T13:49:00+00:00
+
+<p>Square Enix said that it plans to be aggressive in applying AI to both its game development and publishing pipelines.</p><p>In Square Enix's "<a href="https://www.hd.square-enix.com/eng/news/2024/html/a_new_years_letter_from_the_president_4.html">A New Year's Letter from the President</a>," Square Enix president Takashi Kiryu said, "I believe that generative AI has the potential not only to reshape what we create, but also to fundamentally change the processes by which we create, including programming."</p><p>"In the short term, our goal will be to enhance our development productivity and achieve greater sophistication in our marketing efforts," he continued. "In the longer term, we hope to leverage those technologies to create new forms of content for consumers, as we believe that technological innovation represents business opportunities."</p><a href="https://www.gamespot.com/articles/square-enix-intends-to-be-aggressive-with-ai/1100-6520074/?ftag=CAD-01-10abi2f/">Continue Readi
+
+## Adam Driver On Star Wars: "I'm Not Doing Any More"
+ - [https://www.gamespot.com/articles/adam-driver-on-star-wars-im-not-doing-any-more/1100-6520071/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/adam-driver-on-star-wars-im-not-doing-any-more/1100-6520071/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T13:29:00+00:00
+
+<p>Actor Adam Driver played Kylo Ren in the new Star Wars trilogy, but don't expect him to return to the sci-fi series anytime soon. He said on the <a href="https://podcasts.apple.com/in/podcast/adam-driver/id1521578868?i=1000639495334">SmartLess podcast</a> recently that he's aware that Lucasfilm is producing more Star Wars content, "but not with me."</p><p>Driver went on to say, "I'm not doing any more." Asked if he was finished with Star Wars because of Kylo Ren's death in The Rise of Skywalker, Driver confirmed that is indeed the case (<a href="https://screenrant.com/star-wars-adam-driver-done/">via ScreenRant</a>).</p><p>Before this, Driver discussed how <a href="https://www.gamespot.com/articles/star-wars-kylo-ren-wasnt-originally-supposed-to-be-redeemed-says-adam-driver/1100-6519944/">Kylo Ren's arc in the new Star Wars trilogy was not originally set to unfold the way it did</a>. In the finished movie, Kylo Ren refined himself as Ben Solo. But the original plan was for Ben to 
+
+## CD Projekt Red Is Not Interested In Being Acquired
+ - [https://www.gamespot.com/articles/cd-projekt-red-is-not-interested-in-being-acquired/1100-6520072/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cd-projekt-red-is-not-interested-in-being-acquired/1100-6520072/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-02T13:23:00+00:00
+
+<p>CD Projekt Red has confirmed that it has no interest in being bought out or part of a larger corporation, and wants to maintain its independence.</p><p>In an interview with <a href="https://www.parkiet.com/technologie/art39620191-adam-kicinski-ceo-cd-projektu-jestesmy-znow-na-ringu-w-pelni-sil">Parkiet</a>, CD Projekt Red CEO Adam Kicinski said, "We are not interested in being incorporated into some larger entity. We have worked all our lives to reach our current position. We believe that in a few years we will be even bigger and even stronger."</p><p>Kicinski also confirmed that CD Projekt Red don't have any acquisitions itself planned at the moment, and isn't interested in mergers where the only goal is to consolidate financial results as he doesn't see the value in that. This has been CD Projekt's Red stance for several years so Kicinski's <a href="https://www.gamespot.com/articles/cd-projekt-red-shoots-down-rumors-of-a-sony-acquisition/1100-6514629/">continued insistence</a> a
+
