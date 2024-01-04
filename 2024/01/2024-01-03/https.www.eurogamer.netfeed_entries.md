@@ -1,0 +1,74 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Twitch updates attire policy to prohibit implied nudity
+ - [https://www.eurogamer.net/twitch-updates-attire-policy-to-prohibit-implied-nudity](https://www.eurogamer.net/twitch-updates-attire-policy-to-prohibit-implied-nudity)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-01-03T17:14:15+00:00
+
+<img src="https://assetsio.reedpopcdn.com/twitch-safety-shield-logo.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Twitch has updated its attire policy to prohibit implied nudity on the streaming platform, which goes into effect today.
+</p><p>
+The update is in response to a recent wave of streamers using black censor bars or items to block their bodies, implying full or partial nudity.
+</p><p>
+Twitch notes, in a <a href="https://safety.twitch.tv/s/article/An-Update-to-Our-Attire-Policy?language=en_US">new blog post on the change</a>, "while most streamers have labelled this content appropriately with the Sexual Themes label and are wearing clothing behind the object or outside the camera frame, for many users, the thumbnails of this content can be disruptive to their experience on Twitch."
+</p> <p><a href="https://www.eurogamer.net/twitch-updates-attire-policy-to-prohibit-implied-nudity">Read more</a></p>
+
+## Stray Souls developer shuts down following publisher's closure, cyberbullying and poor sales
+ - [https://www.eurogamer.net/stray-souls-developer-shuts-down-following-publishers-closure-cyberbullying-and-poor-sales](https://www.eurogamer.net/stray-souls-developer-shuts-down-following-publishers-closure-cyberbullying-and-poor-sales)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-01-03T15:46:55+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ss_b3e600bcc1fd64af06f587f227ed7173060bd08d.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Stray Souls developer Jukai Studio is shutting down. The decision to close was in light of its <a href="https://www.eurogamer.net/indie-publisher-versus-evil-staff-say-tinybuild-laid-them-off-at-the-start-of-our-christmas-break">publisher Versus Evil also shutting down</a>, but the studio additionally cited cyberbullying, Stray Souls' poor reception and bad sales as contributing factors. 
+</p><p>
+The studio announced it was closing in December, the same day Versus Evil closed, via a <a href="https://twitter.com/JukaiStudio/status/1738327876032774630/photo/1">social media post</a> (thanks, <a href="https://www.gamesindustry.biz/stray-souls-developer-jukai-studio-announces-closure">GamesIndustry.biz</a>). "We are aware you had high expectations for Stray Souls, but we never informed you that only two core
+
+## Assassin's Creed Valhalla headlines first wave of Xbox Game Pass titles for 2024
+ - [https://www.eurogamer.net/assassins-creed-valhalla-headlines-first-wave-of-xbox-game-pass-titles-for-2024](https://www.eurogamer.net/assassins-creed-valhalla-headlines-first-wave-of-xbox-game-pass-titles-for-2024)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-01-03T14:51:43+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ss_5e527e1e063ef041ca6680f503081274dcc5513a.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Microsoft has revealed its first batch of Game Pass titles for January. 
+</p><p>
+Headlining this collection is Assassin's Creed Valhalla (Cloud, Console, and PC), which will be available from 9th January. In this instalment of Ubisoft's assassin series, players take on the role of Viking raider Eivor Varinsdottir. 
+</p><p>
+Another highlight from this wave is Capcom's remake of Resident Evil 2 (Cloud, Console, and PC), which arrives on 16th January. Nothing says new year's cheer like fighting off waves of flesh-eating zombies. 
+</p> <p><a href="https://www.eurogamer.net/assassins-creed-valhalla-headlines-first-wave-of-xbox-game-pass-titles-for-2024">Read more</a></p>
+
+## Infestation studio changes game name following concern over Neo-Nazi symbolism
+ - [https://www.eurogamer.net/infestation-studio-changes-game-name-following-concern-over-neo-nazi-symbolism](https://www.eurogamer.net/infestation-studio-changes-game-name-following-concern-over-neo-nazi-symbolism)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-01-03T14:21:02+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ss_d50c71d585c341504cf01ebfe235676a75d60d70.1920x1080.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Nightmare Forge Games has changed the name of horror game Infestation 88 after speculation that the number in its title was a Neo-Nazi symbol.
+</p><p>
+Originally titled Infestation 88 and later stylised as '88, the studio has now removed the number entirely from its name. The game, which had its <a href="https://www.eurogamer.net/original-mickey-mouse-now-in-public-domain-so-of-course-hes-inspired-a-horror-game">debut trailer earlier this week</a> after the original Steamboat Willie Disney cartoon entered the public domain, is now known as Infestation: Origins.
+</p><p>
+The studio has since stated the number 88 was originally chosen for its "symmetrical design" and insisted any connection with Neo-Nazi connotations was unintentional.
+</p> <p><a href="https://www.eurogamer.net/infestation-studio
+
+## Frogwares now sole publisher of The Sinking City following dispute with Nacon
+ - [https://www.eurogamer.net/frogwares-now-sole-publisher-of-the-sinking-city-following-dispute-with-nacon](https://www.eurogamer.net/frogwares-now-sole-publisher-of-the-sinking-city-following-dispute-with-nacon)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-01-03T12:57:29+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ss_77fa724d83b06ac931e469cbec93b1e637db89cf.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Ukrainian studio Frogwares is now the sole publisher of Lovecraft-inspired detective adventure The Sinking City. This follows the conclusion of a legal dispute with publisher Nacon, in which Frogwares accused the company of claiming copyright of The Sinking City after its release, withholding milestone payments, and owing the developer unpaid royalties.
+</p><p>
+The dispute between the two companies saw Frogwares attempting to remove The Sinking City from PC storefront Steam in a bid to sever its ties to Nacon. In February 2021, Frogwares then told people <a href="https://www.eurogamer.net/the-sinking-city-dev-tells-people-not-to-buy-its-own-game-from-steam">not to buy its game from Steam</a> and the following month it issued <a href="https://www.eurogamer.net/the-sinking-city-dev-dmcas-its-own-game-to-f
+
+## Jack Black reportedly to star as Minecraft's Steve in upcoming film
+ - [https://www.eurogamer.net/jack-black-reportedly-to-star-as-minecrafts-steve-in-upcoming-film](https://www.eurogamer.net/jack-black-reportedly-to-star-as-minecrafts-steve-in-upcoming-film)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-01-03T11:41:57+00:00
+
+<img src="https://assetsio.reedpopcdn.com/jack-black-minecraft.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Jack Black is reportedly set to take on the role of Minecraft's Steve in the upcoming film adaptation. 
+</p><p>
+<a href="https://deadline.com/2024/01/minecraft-jack-black-1235693816/">Deadline</a> states that Black - who has also lent his talents to The Super Mario Bros. Movie and the forthcoming Borderlands adaptation - recently joined the cast of the <a href="https://www.eurogamer.net/jason-momoa-reportedly-joining-cast-of-minecraft-live-action-film">Jason Momoa-fronted film</a>. 
+</p><p>
+Black, meanwhile, has seemingly confirmed this report with a playful <a href="https://www.instagram.com/p/C1nL-49ybaV/?igsh=MXBjbW95c2c3dDhtOA%3D%3D">social media post</a>. The performer shared an image of himself reading a Minecraft Basics textbook, captioning it: "An actor prepares." 
+</p> <p><a href="https://www.eurogamer.net/jack-black
+
