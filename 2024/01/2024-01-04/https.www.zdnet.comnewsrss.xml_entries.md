@@ -1,0 +1,191 @@
+# Source:ZDNET, URL:https://www.zdnet.com/news/rss.xml, language:en-US
+
+## CES 2024: 3 trends to watch to see what's next in tech
+ - [https://www.zdnet.com/article/ces-2024-3-trends-to-watch/#ftag=RSSbaffb68](https://www.zdnet.com/article/ces-2024-3-trends-to-watch/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T22:49:55+00:00
+
+From integrating AI into products to streamline daily life to leaps forward in VR and XR to 100-inch TVs you can actually afford, CES 2024 is coming in hot.
+
+## Best snow blower of 2024
+ - [https://www.zdnet.com/home-and-office/yard-outdoors/best-snow-blower/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/yard-outdoors/best-snow-blower/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T22:01:43+00:00
+
+Snow and ice don't stand a chance against the best snow blowers we found.
+
+## The best AT&T phone deals in 2024
+ - [https://www.zdnet.com/article/att-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/att-deals/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T21:20:34+00:00
+
+AT&amp;T customers can enjoy great deals on the latest smartphones and accessories from Apple, Samsung, Google, and more.
+
+## The best Verizon deals in 2024: Get an iPhone 15 for $1,000 off
+ - [https://www.zdnet.com/article/verizon-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/verizon-deals/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T20:19:31+00:00
+
+Verizon has great deals right now on the latest phones and accessories from Apple, Samsung, and more.
+
+## Samsung plans to extend its smart home tech to your Kia or Hyundai vehicle
+ - [https://www.zdnet.com/home-and-office/smart-home/samsung-plans-to-extend-its-smart-home-tech-to-your-kia-or-hyundai-vehicle/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/samsung-plans-to-extend-its-smart-home-tech-to-your-kia-or-hyundai-vehicle/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T20:09:52+00:00
+
+You'll soon be able to control your connected car from your smart home - and your smart home from your car.
+
+## How to add music recognition to your MacOS Menu Bar - no Siri needed!
+ - [https://www.zdnet.com/article/how-to-add-music-recognition-to-your-macos-menu-bar-no-siri-needed/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-add-music-recognition-to-your-macos-menu-bar-no-siri-needed/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T20:01:18+00:00
+
+Want to know what song is playing? Thanks to a handy new feature in MacOS Sonoma 14.2​, your Mac can listen and identify the music. Here's how to enable and use it.
+
+## Apple pulled latest iOS beta after reports that it's bricking iPhones
+ - [https://www.zdnet.com/article/apple-pulled-latest-ios-beta-after-reports-that-its-bricking-iphones/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-pulled-latest-ios-beta-after-reports-that-its-bricking-iphones/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T19:41:00+00:00
+
+This serves as a good reminder of why you shouldn't install a beta operating system on your main device.
+
+## This one amazing feature makes Pixel Buds Pro my new favorite earbuds
+ - [https://www.zdnet.com/article/this-one-amazing-feature-makes-pixel-buds-pro-my-new-favorite-earbuds/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-one-amazing-feature-makes-pixel-buds-pro-my-new-favorite-earbuds/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T19:40:52+00:00
+
+The great sound quality - coupled with 'Conversation Detection' - sets Google's earbuds apart from similar wearables. Here's how to take advantage of this great feature.
+
+## The best headphone deals of 2024: AirPods, Beats, Bose, and more
+ - [https://www.zdnet.com/article/best-headphone-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-headphone-deals/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T19:34:25+00:00
+
+ZDNET found the best headphone deals available now, no matter your budget.
+
+## The best AR glasses of 2024
+ - [https://www.zdnet.com/article/best-ar-glasses/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-ar-glasses/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T18:30:55+00:00
+
+AR/XR headsets are a great tool for professionals looking to redefine how they work, collaborate, and create. Here are the best AR glasses you can buy now.
+
+## The Pixel 8 parts store is now open - but these repairs don't come cheap
+ - [https://www.zdnet.com/article/the-pixel-8-parts-store-is-now-open-but-these-repairs-dont-come-cheap/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-pixel-8-parts-store-is-now-open-but-these-repairs-dont-come-cheap/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T18:11:23+00:00
+
+You can now buy authentic Google parts to fix your Pixel 8 or Pixel 8 Pro phone. No surprise that screens and cameras are the priciest components.
+
+## This iPhone keyboard case turns it into the BlackBerry it once conquered
+ - [https://www.zdnet.com/article/this-iphone-keyboard-case-turns-it-into-the-blackberry-it-once-conquered/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-iphone-keyboard-case-turns-it-into-the-blackberry-it-once-conquered/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T18:00:17+00:00
+
+As much as slabs of glass have predominated in the smartphone world, there are still those who miss the BlackBerry form factor for faster typing.
+
+## Meta tracks your Facebook link history, but now you can opt out
+ - [https://www.zdnet.com/article/meta-tracks-your-facebook-link-history-but-now-you-can-opt-out/#ftag=RSSbaffb68](https://www.zdnet.com/article/meta-tracks-your-facebook-link-history-but-now-you-can-opt-out/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T17:37:14+00:00
+
+The setting is being turned on by default on all Facebook accounts. Don't want to be tracked? Here's how to turn it off.
+
+## SpaceX launches first Starlink satellites to provide cell service in remote areas
+ - [https://www.zdnet.com/article/spacex-launches-first-starlink-satellites-designed-to-provide-cell-service-in-remote-areas/#ftag=RSSbaffb68](https://www.zdnet.com/article/spacex-launches-first-starlink-satellites-designed-to-provide-cell-service-in-remote-areas/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T17:14:07+00:00
+
+The six satellites will offer direct-to-cell-coverage in dead zones, initially limited to text messages but expanding to voice and data as early as next year.
+
+## Prep for the CompTIA and other IT exams with this $40 bundle
+ - [https://www.zdnet.com/home-and-office/prep-for-the-comptia-and-other-it-exams-with-this-40-bundle/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/prep-for-the-comptia-and-other-it-exams-with-this-40-bundle/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T16:30:16+00:00
+
+Get lifetime access to this CompTIA and IT exam course bundle for just $40 now.
+
+## Expecting lossless audio from your new earbuds? It's not happening and here's why
+ - [https://www.zdnet.com/article/expecting-lossless-audio-from-your-new-earbuds-its-not-happening-and-heres-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/expecting-lossless-audio-from-your-new-earbuds-its-not-happening-and-heres-why/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T16:21:54+00:00
+
+Achieving magnificent audio quality on mobile devices isn't a matter of finding the right headphones. In fact, Google, Apple, and Samsung device owners are just plain out of luck.
+
+## ZDNET's guide to CES 2024: What is it, when is it, and who can attend?
+ - [https://www.zdnet.com/article/zdnets-guide-to-ces-2024-what-is-it-and-who-can-attend/#ftag=RSSbaffb68](https://www.zdnet.com/article/zdnets-guide-to-ces-2024-what-is-it-and-who-can-attend/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T16:10:00+00:00
+
+The annual tech trade show, CES, is back for another year where we'll see some of the most impressive tech reveals of the year. We take a closer look at exactly what CES is, when it's taking place, and who can attend.
+
+## This wall-mounted smart heater keeps you toasty without taking up space
+ - [https://www.zdnet.com/home-and-office/this-wall-mounted-smart-heater-keeps-you-toasty-without-taking-up-space/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/this-wall-mounted-smart-heater-keeps-you-toasty-without-taking-up-space/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T15:58:10+00:00
+
+If you're looking to add warmth to a room, basement, or garage this winter, this Dreo space heater works like a champ and has all the features you need.
+
+## Boost your workflow with over 240 apps for Mac from Setapp for just $73
+ - [https://www.zdnet.com/home-and-office/boost-your-workflow-with-over-240-apps-for-mac-from-setapp-for-just-73/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/boost-your-workflow-with-over-240-apps-for-mac-from-setapp-for-just-73/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T15:38:41+00:00
+
+Setapp hooks users up with a wide range of apps for Macs that can enhance productivity and make the most out of their devices.
+
+## What is immutable Linux? Here's why you'd run an immutable Linux distro
+ - [https://www.zdnet.com/article/what-is-immutable-linux-heres-why-youd-run-an-immutable-linux-distro/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-immutable-linux-heres-why-youd-run-an-immutable-linux-distro/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T15:24:15+00:00
+
+Safety and security are immutable Linux's calling cards.
+
+## I paid for Twitter Blue (aka X Premium) for six months. Was it worth it?
+ - [https://www.zdnet.com/article/i-paid-for-twitter-blue-aka-x-premium-for-six-months-was-it-worth-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-paid-for-twitter-blue-aka-x-premium-for-six-months-was-it-worth-it/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T15:01:59+00:00
+
+Let's look at the numbers.
+
+## The best portable power stations of 2024
+ - [https://www.zdnet.com/home-and-office/energy/best-portable-power-station/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/energy/best-portable-power-station/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T14:00:21+00:00
+
+Going off grid, or need power in a pinch? The best portable power stations keep your devices charged and running during an outage.
+
+## Look out, Apple: Qualcomm's new VR chip competes directly with Vision Pro, with much cheaper headsets
+ - [https://www.zdnet.com/article/look-out-apple-qualcomms-new-vr-chip-competes-directly-with-vision-pro-with-much-cheaper-headsets/#ftag=RSSbaffb68](https://www.zdnet.com/article/look-out-apple-qualcomms-new-vr-chip-competes-directly-with-vision-pro-with-much-cheaper-headsets/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T14:00:00+00:00
+
+The Snapdragon XR2+ Gen 2 chipset, made in partnership with Google and Samsung, supports 4.3K per eye resolution and more than 12 concurrent cameras.
+
+## Business success and growth is dependent upon trust, data, and AI
+ - [https://www.zdnet.com/article/business-success-depends-on-trust-ai-data/#ftag=RSSbaffb68](https://www.zdnet.com/article/business-success-depends-on-trust-ai-data/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T11:25:05+00:00
+
+The future of business is AI-driven. And the value of AI in your organization will depend on trusted data.
+
+## Dell is refreshing its popular XPS laptop line with all the AI features (and they still look good)
+ - [https://www.zdnet.com/article/dell-is-refreshing-its-popular-xps-laptop-line-with-all-the-ai-features-and-they-still-look-good/#ftag=RSSbaffb68](https://www.zdnet.com/article/dell-is-refreshing-its-popular-xps-laptop-line-with-all-the-ai-features-and-they-still-look-good/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T11:00:00+00:00
+
+The new models are lightweight and powerful, now come in 14- and 16-inch sizes, and will each house a button for Windows Copilot AI.
+
+## This company says AI can help design sustainable smart home appliances
+ - [https://www.zdnet.com/article/this-company-says-ai-can-help-design-sustainable-smart-home-appliances/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-company-says-ai-can-help-design-sustainable-smart-home-appliances/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T09:47:10+00:00
+
+Arçelik Hitachi Home Appliances is applying artificial intelligence to various aspects of its business with the aim of boosting production efficiencies.
+
+## Microsoft is making its biggest change to Windows keyboards in decades
+ - [https://www.zdnet.com/article/microsoft-is-adding-a-new-copilot-key-to-your-windows-pc/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-is-adding-a-new-copilot-key-to-your-windows-pc/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-01-04T08:01:14+00:00
+
+How much does Microsoft believe in Copilot? This new key says it all.
+

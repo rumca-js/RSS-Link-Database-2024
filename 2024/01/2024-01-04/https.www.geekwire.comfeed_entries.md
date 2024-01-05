@@ -1,0 +1,30 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed/, language:en-US
+
+## Tech Moves: Amazon sports VP departing; AI product leader leaving Microsoft; and more
+ - [https://www.geekwire.com/2024/tech-moves-amazon-sports-vp-departs-ai-product-leader-leaving-microsoft-and-more](https://www.geekwire.com/2024/tech-moves-amazon-sports-vp-departs-ai-product-leader-leaving-microsoft-and-more)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-01-04T21:14:06+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="800" src="https://cdn.geekwire.com/wp-content/uploads/2024/01/1660569524433.jpeg" width="800" /><br />— Marie Donoghue, a vice president at Amazon who helped lead its sports streaming and video production arm, is leaving the company. The former longtime ESPN executive joined Amazon in 2018. Donoghue is &#8220;one of the most powerful women in sports media,&#8221; according to Sportico. Amazon bolstered its sports arm during Donoghue&#8217;s tenure, including a massive deal with the NFL to exclusively stream Thursday Night Football through 2033, as well as an array of other partnerships with teams and leagues. Amazon streamed the first Black Friday game in NFL history in November. The New York Post first reported Donoghue&#8217;s departure Thursday.&#8230; <a href="https://www.geekwire.com/2024/tech-moves-amazon-sports-vp-departs-ai-product-leader-leaving-microsoft-and-more/">Read More</a>
+
+## Amazon shuts down last remaining Fresh Pickup location in Seattle
+ - [https://www.geekwire.com/2024/amazon-shuts-down-last-remaining-fresh-pickup-location-in-seattle](https://www.geekwire.com/2024/amazon-shuts-down-last-remaining-fresh-pickup-location-in-seattle)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-01-04T18:27:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="930" src="https://cdn.geekwire.com/wp-content/uploads/2017/03/Image-uploaded-from-iOS-3-1240x930.jpg" width="1240" /><br />Amazon closed the last of its only two Amazon Fresh Pickup locations, marking the end of another effort by the tech giant to disrupt how and where people get their groceries. The location at the base of the Starbucks headquarters building in Seattle&#8217;s SoDo neighborhood closed in December. Another Fresh Pickup location, on 15th Avenue N.W. in Ballard, closed last January. They were Amazon&#8217;s only two such operations in the U.S. “Like any retailer, we periodically assess our portfolio and make optimization decisions around how we operate,&#8221; Amazon spokesperson Jessica Martin said in an emailed statement to GeekWire, adding that&#8230; <a href="https://www.geekwire.com/2024/amazon-shuts-down-last-remaining-fresh-pickup-location-in-seattle/">Read More</a>
+
+## Univ. of Washington set to break ground on 69-acre redevelopment to create Seattle innovation hub
+ - [https://www.geekwire.com/2024/univ-of-washington-set-to-break-ground-on-69-acre-redevelopment-to-create-seattle-innovation-hub](https://www.geekwire.com/2024/univ-of-washington-set-to-break-ground-on-69-acre-redevelopment-to-create-seattle-innovation-hub)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-01-04T17:15:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="839" src="https://cdn.geekwire.com/wp-content/uploads/2024/01/UW.Site-W27.Aerial-crop-1260x839.jpg" width="1260" /><br />The University of Washington this year expects to break ground on a new building that will anchor an ambitious, innovation-focused redevelopment called Portage Bay Crossing. The project will cover 69 acres of the southwest portion of the Seattle campus, revitalizing and unifying an area of buildings that officials called old and underutilized. UW leaders recently shared the name of the inaugural structure, which they&#8217;re calling Brightwork &#8212; a nautical term for the varnished wood on boats, as well as an allusion to the quality of research and entrepreneurship that hopefully takes place in the facility. &#8220;The intellectual work that will&#8230; <a href="https://www.geekwire.com/2024/univ-of-washington-set-to-break-ground-on-69-acre-redevelopment-to-create-seattle-innovation-hub/">Read Mo
+
+## Windows 11 keyboards will get new ‘Copilot’ AI key on new devices from Microsoft and PC makers
+ - [https://www.geekwire.com/2024/windows-11-keyboards-will-get-new-copilot-ai-key-on-new-devices-from-microsoft-and-pc-makers](https://www.geekwire.com/2024/windows-11-keyboards-will-get-new-copilot-ai-key-on-new-devices-from-microsoft-and-pc-makers)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-01-04T08:01:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="521" src="https://cdn.geekwire.com/wp-content/uploads/2024/01/copilot.png" width="829" /><br />AI is coming to the PC keyboard. Microsoft and computer makers plan to start shipping Windows 11 notebooks and other devices with a dedicated &#8220;Copilot&#8221; key to quickly invoke the company&#8217;s &#8220;Copilot for Windows&#8221; artificial intelligence technology. It&#8217;s the &#8220;first significant change to the Windows PC keyboard in nearly three decades,&#8221; joining the ubiquitous Windows key as &#8220;a core part of the PC keyboard,&#8221; according to a post by Yusuf Mehdi, Microsoft executive vice president and consumer chief marketing officer, announcing the plan. The move illustrates one of the advantages that Microsoft&#8217;s widely used operating system gives the company as&#8230; <a href="https://www.geekwire.com/2024/windows-11-keyboards-will-get-new-copilot-ai-key-on-new-devices-from-microsoft-a
+

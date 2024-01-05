@@ -1,0 +1,311 @@
+# Source:Epoch Times - World, URL:https://feed.theepochtimes.com/world/feed, language:en-US
+
+## US Airstrike Kills Iraqi Militia Leader Pentagon Says Was Plotting Attacks on US Troops
+ - [https://www.theepochtimes.com/world/us-airstrike-kills-iraqi-militia-leader-pentagon-says-was-plotting-attacks-on-us-troops-5558632](https://www.theepochtimes.com/world/us-airstrike-kills-iraqi-militia-leader-pentagon-says-was-plotting-attacks-on-us-troops-5558632)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T23:39:40+00:00
+
+A drone flies by at Creech Air Force Base in Indian Springs, Nev., on Aug. 8, 2007. (Ethan Miller/Getty Images)
+
+## Doctor Quits UBC After 30 Years Over Concerns of Anti-Semitism
+ - [https://www.theepochtimes.com/world/doctor-quits-ubc-after-30-years-over-concerns-of-anti-semitism-5558621](https://www.theepochtimes.com/world/doctor-quits-ubc-after-30-years-over-concerns-of-anti-semitism-5558621)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T23:12:44+00:00
+
+The UBC sign displayed at the University of British Columbia in Vancouver in a file photo. (The Canadian Press/Jonathan Hayward)
+
+## Russia Using North Korean Missiles in Ukraine: White House
+ - [https://www.theepochtimes.com/world/russia-using-north-korean-missiles-in-ukraine-white-house-5558616](https://www.theepochtimes.com/world/russia-using-north-korean-missiles-in-ukraine-white-house-5558616)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T22:57:21+00:00
+
+Firefighters work at a site of an industrial warehouse damaged by a Russian drone strike, amid Moscow's attack on Ukraine, in Lviv,  on Sept. 19, 2023. (State Emergency Service of Ukraine/Handout via Reuters)
+
+## Australian PM Set to Bolster Local Manufacturing
+ - [https://www.theepochtimes.com/world/australian-pm-set-to-bolster-local-manufacturing-5558155](https://www.theepochtimes.com/world/australian-pm-set-to-bolster-local-manufacturing-5558155)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T22:51:43+00:00
+
+Australia's Prime Minister Anthony Albanese reacts as he speaks during a press conference in Sydney on Dec. 20, 2023. (David Gray/AFP via Getty Images)
+
+## Canadians Less Concerned About Pharmacare Than Other Health Issues: Study
+ - [https://www.theepochtimes.com/world/canadians-less-concerned-about-pharmacare-than-other-health-issues-study-5558604](https://www.theepochtimes.com/world/canadians-less-concerned-about-pharmacare-than-other-health-issues-study-5558604)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T22:44:47+00:00
+
+Pharmacist Denis Boissinot checks a bottle on a shelf at his pharmacy in Quebec City in this file photo. (The Canadian Press/Jacques Boissinot)
+
+## ‘Backbone’ of Australian Electricity Grid Facing Industrial Action
+ - [https://www.theepochtimes.com/world/backbone-of-australian-electricity-grid-facing-industrial-action-5558624](https://www.theepochtimes.com/world/backbone-of-australian-electricity-grid-facing-industrial-action-5558624)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T22:05:06+00:00
+
+A stock image of an electricity tower going through a rural property in Sydney, Tuesday, October 17, 2017. (AAP Image/Brendan Esposito) NO ARCHIVING
+
+## Canadian Safety Watchdog Pitching in on Probe Into Fatal Japan Airlines Crash
+ - [https://www.theepochtimes.com/world/canadian-safety-watchdog-pitching-in-on-probe-into-fatal-japan-airlines-crash-5558581](https://www.theepochtimes.com/world/canadian-safety-watchdog-pitching-in-on-probe-into-fatal-japan-airlines-crash-5558581)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T21:34:28+00:00
+
+Officials investigate the wreckage of Japan Airlines plane at Haneda airport in Tokyo on Jan. 4, 2024. (The Canadian Press/Kyodo News via AP)
+
+## CRTC to Draft Newsroom ‘Code of Conduct’
+ - [https://www.theepochtimes.com/world/crtc-to-draft-newsroom-code-of-conduct-5558430](https://www.theepochtimes.com/world/crtc-to-draft-newsroom-code-of-conduct-5558430)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T21:27:52+00:00
+
+A person navigates to the online social media pages of the Canadian Radio-television and Telecommunications Commission (CRTC) on a cell phone in Ottawa on May 17, 2021. (The Canadian PressS/Sean Kilpatrick)
+
+## Australia’s Goal of ‘Stabilisation’ with Beijing a Failure: Expert
+ - [https://www.theepochtimes.com/china/australias-goal-of-stabilisation-with-beijing-a-failure-expert-5557965](https://www.theepochtimes.com/china/australias-goal-of-stabilisation-with-beijing-a-failure-expert-5557965)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T21:00:47+00:00
+
+Australia’s Prime Minister Anthony Albanese meets with Chinese leader Xi Jinping at the Great Hall of the People in Beijing, China, on Nov. 6, 2023. (AAP Image/Lukas Coch)
+
+## Florida Surgeon General’s Warning to Halt Use of mRNA Shots Based on Canadian Study
+ - [https://www.theepochtimes.com/world/florida-surgeon-generals-warning-to-halt-use-of-mrna-shots-based-on-canadian-study-5558216](https://www.theepochtimes.com/world/florida-surgeon-generals-warning-to-halt-use-of-mrna-shots-based-on-canadian-study-5558216)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T20:41:46+00:00
+
+Florida Surgeon Gen. Dr. Joseph Ladapo speaks during an event in a file photograph. (Chris O'Meara/AP Photo)
+
+## Prospective Cost of Living Relief Rules Out Cash Handouts
+ - [https://www.theepochtimes.com/world/prospective-cost-of-living-relief-rules-out-cash-handouts-5558074](https://www.theepochtimes.com/world/prospective-cost-of-living-relief-rules-out-cash-handouts-5558074)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T20:30:05+00:00
+
+A customer looks at the price of limes at a fruit stand in the central business district in Sydney, Australia, on Aug. 16, 2022. (Lisa Maree Williams/Getty Images)
+
+## Food Prices Yet to ‘Stabilize’ Despite Assurances From Ottawa: StatCan Figures
+ - [https://www.theepochtimes.com/world/food-prices-yet-to-stabilize-despite-assurances-from-ottawa-statcan-figures-5558448](https://www.theepochtimes.com/world/food-prices-yet-to-stabilize-despite-assurances-from-ottawa-statcan-figures-5558448)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T20:21:03+00:00
+
+People shop for produce and seafood at a store in Vancouver on July 20, 2022. (The Canadian Press/Darryl Dyck)
+
+## Sir John A. Macdonald’s Work-Life Balance
+ - [https://www.theepochtimes.com/opinion/sir-john-a-macdonalds-work-life-balance-5556295](https://www.theepochtimes.com/opinion/sir-john-a-macdonalds-work-life-balance-5556295)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T20:12:11+00:00
+
+A statue of Canada’s first prime minister Sir John A. Macdonald on Parliament Hill in Ottawa on June 3, 2021. (The Canadian Press/Sean Kilpatrick)
+
+## Vancouver Police Deploy Body-Worn Cameras to 85 Officers in Pilot Project
+ - [https://www.theepochtimes.com/world/vancouver-police-deploy-body-worn-cameras-to-85-officers-in-pilot-project-5558523](https://www.theepochtimes.com/world/vancouver-police-deploy-body-worn-cameras-to-85-officers-in-pilot-project-5558523)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T20:03:17+00:00
+
+Police cars are seen parked outside Vancouver Police Department headquarters in Vancouver, on Jan. 9, 2021. (The Canadian Press/Darryl Dyck)
+
+## William Clouston: Britain Is Addicted to Debt and Immigration. We Need to Kick These Habits | British Thought Leaders
+ - [https://www.theepochtimes.com/epochtv/william-clouston-british-thought-leaders-5556969](https://www.theepochtimes.com/epochtv/william-clouston-british-thought-leaders-5556969)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T19:59:18+00:00
+
+William Clouston
+
+## BC Debt Surge Looms Amid Rapid Rise in Govt. Spending
+ - [https://www.theepochtimes.com/world/bc-debt-surge-looms-amid-rapid-rise-in-govt-spending-5558355](https://www.theepochtimes.com/world/bc-debt-surge-looms-amid-rapid-rise-in-govt-spending-5558355)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T18:50:45+00:00
+
+Office towers, condos and apartment buildings are seen in downtown and the west end of Vancouver, on Jan. 19, 2023. (The Canadian Press/Darryl Dyck)
+
+## ISIS Claims Responsibility for Deadly Blasts in Iran
+ - [https://www.theepochtimes.com/world/isis-claims-responsibility-for-deadly-blasts-in-iran-5558415](https://www.theepochtimes.com/world/isis-claims-responsibility-for-deadly-blasts-in-iran-5558415)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T18:42:30+00:00
+
+People disperse near the scene where explosions occurred in Kerman, Iran, on Jan. 3, 2024. (MAHDI/Middle East Images/AFP via Getty Images)
+
+## Phone Plan Prices Going Up for Canadian Consumers, Rogers Says
+ - [https://www.theepochtimes.com/world/phone-plan-prices-going-up-for-canadian-consumers-rogers-says-5558341](https://www.theepochtimes.com/world/phone-plan-prices-going-up-for-canadian-consumers-rogers-says-5558341)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T17:37:59+00:00
+
+A person uses a cell phone in Ottawa in a file photo. (The Canadian Press/Sean Kilpatrick)
+
+## ER Doctors Don’t Want to Deter People From Seeking Care Amid Crowding: Association
+ - [https://www.theepochtimes.com/world/er-doctors-dont-want-to-deter-people-from-seeking-care-amid-crowding-association-5558354](https://www.theepochtimes.com/world/er-doctors-dont-want-to-deter-people-from-seeking-care-amid-crowding-association-5558354)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T17:26:28+00:00
+
+A paramedic loads his stretcher back into the ambulance after bringing a patient to the emergency room at a hospital in Montreal, on Apr. 14, 2022. (The Canadian Press/Ryan Remiorz)
+
+## Sunak All but Rules out Spring Poll as Starmer Seeks to Make Election About the Economy
+ - [https://www.theepochtimes.com/world/sunak-all-but-rules-out-spring-poll-as-starmer-seeks-to-make-election-about-the-economy-5558222](https://www.theepochtimes.com/world/sunak-all-but-rules-out-spring-poll-as-starmer-seeks-to-make-election-about-the-economy-5558222)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T17:01:20+00:00
+
+Labour Party leader Sir Keir Starmer gives a speech, at the National Composites Centre at 
+Bristol and Bath Science Park in Bristol, England on Jan. 4, 2024.  (Stefan Rousseau/PA)
+
+## 1984 Murder Convictions Overturned: Two NB Men in Court Today to Learn Fate
+ - [https://www.theepochtimes.com/world/1984-murder-convictions-overturned-two-nb-men-in-court-today-to-learn-fate-5558307](https://www.theepochtimes.com/world/1984-murder-convictions-overturned-two-nb-men-in-court-today-to-learn-fate-5558307)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T16:51:08+00:00
+
+Walter (Wally) Gillespie (L) and Robert (Bobby) Mailman pose in the south-end neighbourhood where they grew up in Saint John, N.B., on Aug. 18, 2020. (The Canadian Press/Darren Calabrese)
+
+## Heads of 17 Environmental Charities Receive Salaries on Par With Provincial Premiers
+ - [https://www.theepochtimes.com/world/heads-of-17-environmental-charities-receive-salaries-on-par-with-provincial-premiers-5558265](https://www.theepochtimes.com/world/heads-of-17-environmental-charities-receive-salaries-on-par-with-provincial-premiers-5558265)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T16:49:38+00:00
+
+Canada Geese fly over Richmond Park on Jan. 25, 2021 in London, England. (Chris Jackson/Getty Images)
+
+## VIA’s 2023 Operating Woes Will Increase in 2024, $430 Million Deficit Predicted: Report
+ - [https://www.theepochtimes.com/world/vias-2023-operating-woes-will-increase-in-2024-430-million-deficit-predicted-report-5558230](https://www.theepochtimes.com/world/vias-2023-operating-woes-will-increase-in-2024-430-million-deficit-predicted-report-5558230)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T15:51:49+00:00
+
+Signage at a Via Rail station in Ottawa on July 11, 2022. (Sean Kilpatrick/The Canadian Press)
+
+## Oscar Pistorius, Track Star Turned Convicted Murderer, Set to Leave Jail
+ - [https://www.theepochtimes.com/world/oscar-pistorius-track-star-turned-convicted-murderer-set-to-leave-jail-5558229](https://www.theepochtimes.com/world/oscar-pistorius-track-star-turned-convicted-murderer-set-to-leave-jail-5558229)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T15:49:32+00:00
+
+Olympic and Paralympic track star Oscar Pistorius is escorted by police officers as he arrives for his sentencing for the 2013 murder of his girlfriend Reeva Steenkamp at North Gauteng High Court in Pretoria, South Africa, on July 6, 2016. (Siphiwe Sibeko/Reuters)
+
+## Iran Vows Revenge Following Deadliest Terror Attack in Country’s Modern History
+ - [https://www.theepochtimes.com/world/iran-vows-revenge-following-deadliest-terror-attack-in-countrys-modern-history-5558228](https://www.theepochtimes.com/world/iran-vows-revenge-following-deadliest-terror-attack-in-countrys-modern-history-5558228)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T15:43:55+00:00
+
+An Iranian surface-to-surface missile displayed next to a portrait of Iran's supreme leader, Ayatollah Ali Khamenei, in Tehran, Iran, on Sept. 27, 2023. (Atta Kenare/AFP via Getty Images)
+
+## Prosecutors Have File on Parliamentary Researcher Accused of Spying for China
+ - [https://www.theepochtimes.com/world/prosecutors-have-file-on-parliamentary-researcher-accused-of-spying-for-china-5558201](https://www.theepochtimes.com/world/prosecutors-have-file-on-parliamentary-researcher-accused-of-spying-for-china-5558201)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T15:20:36+00:00
+
+A general view of Scotland Yard in London, on Sept. 25, 2020.  (Hollie Adams/Getty Images)
+
+## ‘Unethical’ Food Imports Could Be Flagged With Low Quality Labels
+ - [https://www.theepochtimes.com/world/unethical-food-imports-could-be-flagged-with-low-quality-labels-5558161](https://www.theepochtimes.com/world/unethical-food-imports-could-be-flagged-with-low-quality-labels-5558161)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T15:08:46+00:00
+
+A customer shops for vegetables in the fruit and vegetable section of a Sainsbury's supermarket in east London on Feb. 20, 2023. (Daniel Leal/AFP via Getty Images)
+
+## Scenes of Loss Play Out Across Japan’s Western Coastline After Quake Kills 84
+ - [https://www.theepochtimes.com/world/scenes-of-loss-play-out-across-japans-western-coastline-after-quake-kills-84-post-5558219](https://www.theepochtimes.com/world/scenes-of-loss-play-out-across-japans-western-coastline-after-quake-kills-84-post-5558219)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T15:02:19+00:00
+
+Firefighters look at the rubble and wreckage of a burned-out marketplace after a large fire caused by earthquakes in Wajima, Ishikawa prefecture, Japan, on Jan. 3, 2024. (Kyodo News via AP)
+
+## Canada to Have Interest Rate Cuts in Spring and Return to Growth by Year’s End, Deloitte Predicts
+ - [https://www.theepochtimes.com/world/deloitte-predicts-rate-cuts-in-late-spring-and-return-to-growth-by-years-end-5558209](https://www.theepochtimes.com/world/deloitte-predicts-rate-cuts-in-late-spring-and-return-to-growth-by-years-end-5558209)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T15:00:12+00:00
+
+A Deloitte logo is pictured on a sign outside the company's offices in London, England, on Sept. 25, 2017. (Daniel Leal-Olivas/AFP via Getty Images)
+
+## Statistics Watchdog Scrutinises Government Claim on Clearing Asylum Backlog
+ - [https://www.theepochtimes.com/world/statistics-watchdog-scrutinises-government-claim-on-clearing-asylum-backlog-5558127](https://www.theepochtimes.com/world/statistics-watchdog-scrutinises-government-claim-on-clearing-asylum-backlog-5558127)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T14:41:27+00:00
+
+A group of illegal immigrants are brought by a Border Force vessel to Dover, Kent, on July 18, 2023. (Gareth Fuller/PA Media)
+
+## Carrefour Says It Will Not Sell PepsiCo Goods Due to Price Hikes
+ - [https://www.theepochtimes.com/business/carrefour-says-it-will-not-sell-pepsico-goods-due-to-price-hikes-5558205](https://www.theepochtimes.com/business/carrefour-says-it-will-not-sell-pepsico-goods-due-to-price-hikes-5558205)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T14:06:48+00:00
+
+A sign reading "Shrinkflation, This product has seen its weight decrease and the price charged by our supplier increase" at a Carrefour supermarket in Montesson near Paris, France, on Sept. 13, 2023. (Sarah Meyssonnier/Reuters)
+
+## ANALYSIS: Canada’s Spike in Youth Crime Induced by Culture Shift, Addiction
+ - [https://www.theepochtimes.com/world/analysis-canadas-spike-in-youth-crime-caused-by-shift-in-culture-addictions-5557493](https://www.theepochtimes.com/world/analysis-canadas-spike-in-youth-crime-caused-by-shift-in-culture-addictions-5557493)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T13:59:44+00:00
+
+RCMP officers arrive to court in Meadow Lake, Sask., where a teen was undergoing trial related to the killing of four people in a school in Saskatchewan, on Oct. 28, 2016. (The Canadian Press/Amber Bracken)
+
+## Big Rise in Turkish Illegal Immigrants Crossing Channel to Come to Britain
+ - [https://www.theepochtimes.com/world/big-rise-in-turkish-illegal-immigrants-crossing-channel-to-come-to-britain-5558140](https://www.theepochtimes.com/world/big-rise-in-turkish-illegal-immigrants-crossing-channel-to-come-to-britain-5558140)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T13:56:39+00:00
+
+Illegal immigrants crossing the English Channel in a small boat traveling from France off the coast of Dover, England on Aug. 29, 2023. (Gareth Fuller/PA)
+
+## Russia and Ukraine Stage Major POW Exchange After UAE Mediation
+ - [https://www.theepochtimes.com/world/russia-and-ukraine-stage-major-pow-exchange-after-uae-mediation-5558168](https://www.theepochtimes.com/world/russia-and-ukraine-stage-major-pow-exchange-after-uae-mediation-5558168)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T12:56:43+00:00
+
+Ukrainian prisoners of war (POWs) pose after a swap at an unknown location in Ukraine, on Jan. 3, 2024. (Head of Ukraine's Presidential Office Andriy Yermak via Telegram/Handout via Reuters)
+
+## Elon Musk’s SpaceX Launches 1st Ever ‘Direct to Cell’ Starlink Satellites With T-Mobile
+ - [https://www.theepochtimes.com/business/elon-musks-spacex-launches-1st-ever-direct-to-cell-starlink-satellites-with-t-mobile-5558079](https://www.theepochtimes.com/business/elon-musks-spacex-launches-1st-ever-direct-to-cell-starlink-satellites-with-t-mobile-5558079)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T11:02:46+00:00
+
+A SpaceX Falcon 9 rocket is launched with  a batch of 53 Starlink satellites from Cape Canaveral, Fla., on June 17, 2022. (SpaceX via AP/Screenshot via The Epoch Times)
+
+## World’s Oldest Multi-Purpose Appliance Performs 8 Functions and Still Going Strong After 98 Years
+ - [https://www.theepochtimes.com/bright/worlds-oldest-multi-purpose-appliance-performs-8-functions-and-still-going-strong-after-98-years-5553824](https://www.theepochtimes.com/bright/worlds-oldest-multi-purpose-appliance-performs-8-functions-and-still-going-strong-after-98-years-5553824)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T10:50:14+00:00
+
+(SWNS)
+
+## Weak Response to Red Sea Houthi Attacks Exposes Our Defence Issues
+ - [https://www.theepochtimes.com/opinion/weak-response-to-red-sea-houthi-attacks-exposes-our-defence-issues-5557942](https://www.theepochtimes.com/opinion/weak-response-to-red-sea-houthi-attacks-exposes-our-defence-issues-5557942)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T07:52:53+00:00
+
+China's Premier Li Qiang (L) and Australia's Prime Minister Anthony Albanese shake hands during the opening ceremony of the sixth China International Import Expo (CIIE) in Shanghai on Nov. 5, 2023. (HECTOR RETAMAL/AFP via Getty Images)
+
+## Sudden Deaths and ‘White Lungs’ Heighten COVID-19 Concerns in China
+ - [https://www.theepochtimes.com/article/sudden-deaths-and-white-lungs-heighten-covid-19-concerns-in-china-5558047](https://www.theepochtimes.com/article/sudden-deaths-and-white-lungs-heighten-covid-19-concerns-in-china-5558047)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T05:50:22+00:00
+
+Workers in protective gear handle a coffin at Dongjiao Funeral Parlor, reportedly designated to handle COVID-19 fatalities, in Beijing on Dec. 19, 2022. (Bloomberg via Getty Images)
+
+## Military Recovers Black Box From Deadly US Military Osprey Crash in Japan
+ - [https://www.theepochtimes.com/world/military-recovers-black-box-from-deadly-us-military-osprey-crash-in-japan-5558048](https://www.theepochtimes.com/world/military-recovers-black-box-from-deadly-us-military-osprey-crash-in-japan-5558048)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T05:04:59+00:00
+
+An MV-22B Osprey with Marine Operational Test and Evaluation Squadron (VMX) 1 transports ordnance during an Expeditionary Advanced Base Operation (EABO) exercise to Old Highway 101 near Marine Corps Base Camp Pendleton, Calif., on May 25, 2022. (U.S. Marine Corps via AP)
+
+## How Japan Airlines Crew Led 367 Passengers to Safety From a Burning Plane
+ - [https://www.theepochtimes.com/world/how-japan-airlines-crew-led-367-passengers-to-safety-from-a-burning-plane-5557591](https://www.theepochtimes.com/world/how-japan-airlines-crew-led-367-passengers-to-safety-from-a-burning-plane-5557591)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T04:52:44+00:00
+
+Firefighters work on a burning Japan Airlines' A350 airplane at Haneda International Airport in Tokyo on Jan. 2, 2024. (Issei Kato/Reuters)
+
+## Albanese Must Answer for Qantas Boss Meeting: Opposition
+ - [https://www.theepochtimes.com/world/albanese-must-answer-for-qantas-boss-meeting-opposition-5558053](https://www.theepochtimes.com/world/albanese-must-answer-for-qantas-boss-meeting-opposition-5558053)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T04:14:33+00:00
+
+Qantas Group Chief Executive Officer Alan Joyce speaks during a press conference in Sydney, Australia, on Aug. 25, 2022. (Lisa Maree Williams/Getty Images)
+
+## Cost of Living No Roadblock as Aussie Car Sales Smash Record
+ - [https://www.theepochtimes.com/world/cost-of-living-no-roadblock-as-aussie-car-sales-smash-record-5558027](https://www.theepochtimes.com/world/cost-of-living-no-roadblock-as-aussie-car-sales-smash-record-5558027)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T03:10:42+00:00
+
+Traffic is seen leaving Brisbane and heading south towards the Gold Coast on the Pacific Motorway (M1) at Tanah Merah in Logan City, Queensland, Australia on Oct. 29, 2021. (AAP Image/Darren England)
+
+## 2 Out of 3 in BC Have Received Scam Phone Calls in Cantonese, Mandarin
+ - [https://www.theepochtimes.com/world/2-out-of-3-in-bc-have-received-scam-phone-calls-in-cantonese-mandarin-5557712](https://www.theepochtimes.com/world/2-out-of-3-in-bc-have-received-scam-phone-calls-in-cantonese-mandarin-5557712)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T02:24:53+00:00
+
+A person uses a cell phone in Ottawa on July 18, 2022. (The Canadian Press/Sean Kilpatrick)
+
+## 6 Things We Learned From the Australia V Pakistan 2nd Cricket Test
+ - [https://www.theepochtimes.com/opinion/6-things-we-learned-from-australia-v-pakistan-2nd-cricket-test-5557879](https://www.theepochtimes.com/opinion/6-things-we-learned-from-australia-v-pakistan-2nd-cricket-test-5557879)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-04T01:05:15+00:00
+
+Steve Smith of Australia (C) celebrates with teammates after catching out Mir Hamza of Pakistan off a delivery from Mitchell Starc of Australia to defeat Pakistan in the Second Test match between Australia and Pakistan at the Melbourne Cricket Ground (MCG) in Melbourne, Australia on Dec. 29, 2023. (AAP Image/James Ross)
+

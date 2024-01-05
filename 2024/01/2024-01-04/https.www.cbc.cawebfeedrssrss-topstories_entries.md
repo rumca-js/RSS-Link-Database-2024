@@ -1,0 +1,135 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Avian flu detected in polar bear in Alaska
+ - [https://www.cbc.ca/news/canada/north/alaska-polar-bear-h5n1-infection-1.7074528?cmp=rss](https://www.cbc.ca/news/canada/north/alaska-polar-bear-h5n1-infection-1.7074528?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T17:59:10+00:00
+
+<img alt="A polar bear walking on the sea ice." height="349" src="https://i.cbc.ca/1.2851220.1704407832!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/polar-bears.jpg" title="This handout photo provided by the US Geological Survey, taken in 2005, shows a male polar bear approaching biologists in Beaufort Sea, Alaska. A new U.S.-Canada study says a key polar bear population fell nearly in half in the past decade, with scientists seeing a dramatic increase in young cubs dying. Researchers chiefly blame shrinking sea ice from global warming. Scientists from the US Geological Survey and Environment Canada tagged and released polar bears in the southern Beaufort Sea from 2001 to 2010. The bear population shrank to about 900 in 2010, down from about 1600 in 2004. (AP Photo/Steven C. Amstrup, USGS) " width="620" /><p>Wildlife officials in Alaska have confirmed the first known case of a polar bear that died from avian flu — highlighting growing concerns about the virus's potential spr
+
+## Court decision barring Chinese student sends message about espionage risk, experts say
+ - [https://www.cbc.ca/news/politics/federal-court-china-spy-university-waterloo-1.7074365?cmp=rss](https://www.cbc.ca/news/politics/federal-court-china-spy-university-waterloo-1.7074365?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T17:54:16+00:00
+
+<img alt="The University of Waterloo campus in Waterloo, Ontario on Thursday, June 29, 2023. " height="349" src="https://i.cbc.ca/1.7074727.1704404674!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ont-uwaterloo-stabbing-20230629.jpg" title="The University of Waterloo campus in Waterloo, Ontario on Thursday, June 29, 2023. " width="620" /><p>In a court decision that could have ripple effects on universities across the country, a Federal Court judge has denied a Chinese resident entry into Canada, arguing the engineering student could be pressured by Beijing into spying.</p>
+
+## Iowa police say Grade 6 student killed, 17-year-old suspect dead in school shooting
+ - [https://www.cbc.ca/news/world/perry-iowa-school-shooting-1.7074588?cmp=rss](https://www.cbc.ca/news/world/perry-iowa-school-shooting-1.7074588?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T17:03:18+00:00
+
+<img alt="Multiple police vehicles lined up in the distance as a group of people walk toward a school signboard." height="349" src="https://i.cbc.ca/1.7074619.1704401038!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/school-shooting-iowa.jpg" title="Police respond to Perry High School in Perry, Iowa., Thursday, Jan. 4, 2024. Police say there has been a shooting at the city&apos;s high school." width="620" /><p>A 17-year-old opened fire at a small-town Iowa high school on the first day of school after the winter break, killing a Grade 6 student and wounding five others as students barricaded in offices and fled in panic.</p>
+
+## Canadian ice dancer reportedly under investigation by integrity commission for alleged sexual assault
+ - [https://www.cbc.ca/sports/olympics/winter/figure-skating/nikolaj-soerensen-accused-sexual-assault-1.7074661?cmp=rss](https://www.cbc.ca/sports/olympics/winter/figure-skating/nikolaj-soerensen-accused-sexual-assault-1.7074661?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T16:52:51+00:00
+
+<img alt="A male figure skater looks to his right while competing during an ice dance event." height="349" src="https://i.cbc.ca/1.7074703.1704404398!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/soerensen-495604357.jpg" title="Canadian ice dance champion Nikolaj Soerensen, pictured in November, is scheduled to compete at the national championships Jan. 8-14 in Calgary." width="620" /><p>USA Today has reported that Canadian ice dance champion Nikolaj Soerensen is under investigation by Canada's Office of the Sport Integrity Commissioner for an alleged sexual assault in 2012.</p>
+
+## Glynis Johns, who played Mrs. Banks in Mary Poppins and sang Send in the Clowns on Broadway, dead at 100
+ - [https://www.cbc.ca/news/entertainment/glynis-johns-actor-obituary-1.7074624?cmp=rss](https://www.cbc.ca/news/entertainment/glynis-johns-actor-obituary-1.7074624?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T16:46:21+00:00
+
+<img alt="Actor Glynis Johns is seen in a file photo dating back to September 1982." height="349" src="https://i.cbc.ca/1.7074630.1704404606!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/actor-glynis-johns-seen-in-september-1982-photo.jpg" title="Actress Glynis Johns is shown, Sept. 11, 1982. Johns, a Tony Award-winning stage and screen star who played the mother opposite Julie Andrews in the classic movie “Mary Poppins” and introduced the world to the bittersweet standard-to-be “Send in the Clowns” by Stephen Sondheim, has died, Thursday, Jan. 3, 2023. She was 100." width="620" /><p>Glynis Johns, the husky-voiced British actress most widely known for her role as a suffragette who reconnects with her children thanks to a magical nanny in the blockbuster 1964 movie musical Mary Poppins, has died at the age of 100.</p>
+
+## Senate ordered to reinstate executive who alleged he was fired because of racism
+ - [https://www.cbc.ca/news/politics/senate-ordered-reinstate-executive-fired-over-alleged-racism-1.7074636?cmp=rss](https://www.cbc.ca/news/politics/senate-ordered-reinstate-executive-fired-over-alleged-racism-1.7074636?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T16:26:28+00:00
+
+<img alt="The Senate chamber sits empty in Ottawa." height="349" src="https://i.cbc.ca/1.6369103.1704402928!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/parliament-buildings-new-senate.jpg" title="P.E.I. has four seats in the Senate but soon, two of those seats will be vacated.  " width="620" /><p>A federal tribunal has ordered the Senate to restore an executive who said he was fired on the basis of racial discrimination.</p>
+
+## Microsoft to add AI chatbot button to computer keyboards
+ - [https://www.cbc.ca/news/business/microsoft-keyboard-chatbot-ai-1.7074215?cmp=rss](https://www.cbc.ca/news/business/microsoft-keyboard-chatbot-ai-1.7074215?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T11:37:32+00:00
+
+<img alt="The Microsoft logo is seen on display at an event in Barcelona, Spain, in March 2023." height="349" src="https://i.cbc.ca/1.7074232.1704385982!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/microsoft-logo-seen-at-mobile-world-congress-event-in-2023-in-barcelona.jpg" title="The Microsoft logo is pictured at the Mobile World Congress 2023 in Barcelona, Spain, on March 2, 2023.  Microsoft and Meta have released initiatives designed to help voters know when they see a political ad containing altered images, video or audio. Meta owns Facebook and Instagram and says it will put labels on political ads created using artificial intelligence. " width="620" /><p>Computer keyboards are making room for an artificial intelligence chatbot button as Microsoft unveils its first major keyboard redesign in three decades.</p>
+
+## Did you know Tetris can be beaten? It can, and looks like this kid did
+ - [https://www.cbc.ca/news/world/did-you-know-tetris-can-be-beaten-it-can-and-looks-like-this-kid-did-1.7074296?cmp=rss](https://www.cbc.ca/news/world/did-you-know-tetris-can-be-beaten-it-can-and-looks-like-this-kid-did-1.7074296?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T11:25:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/200/227/CLIP_TETRIS_WIN_DIGI.jpg" title="" width="620" /><p>Willis Gibson, 13, is believed to be the first person ever to beat the classic video game.</p>
+
+## Watch this Oklahoma teen win the ultimate Tetris level up
+ - [https://www.cbc.ca/news/world/watch-this-oklahoma-teen-win-the-ultimate-tetris-level-up-1.7074296?cmp=rss](https://www.cbc.ca/news/world/watch-this-oklahoma-teen-win-the-ultimate-tetris-level-up-1.7074296?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T11:25:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/200/227/CLIP_TETRIS_WIN_DIGI.jpg" title="" width="620" /><p>Willis Gibson, 13, is believed to be the first person ever to beat the classic video game.</p>
+
+## Vegas defendant leaps to attack judge in court
+ - [https://www.cbc.ca/news/world/nevada-judge-attack-defendant-1.7074116?cmp=rss](https://www.cbc.ca/news/world/nevada-judge-attack-defendant-1.7074116?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T10:05:55+00:00
+
+<img alt="A man leaps to attack a judge seated in a court." height="349" src="https://i.cbc.ca/1.7074117.1704379284!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-court-attack.JPG" title="Deobra Redden, who is attending his sentencing hearing for a charge of attempted battery with substantial bodily harm, lunges at Judge Mary Kay Holthus as she hands down the sentence at a court in Las Vegas, Nevada, U.S. January 3, 2024 in this still image taken from video.   " width="620" /><p>A Nevada judge was attacked Wednesday by a defendant in a felony battery case who leaped over a defence table and the judge's bench, landing atop her and sparking a bloody brawl involving court officials and attorneys, officials and witnesses said.</p>
+
+## Vatican tries to calm bishops over blessings for same-sex couples
+ - [https://www.cbc.ca/news/world/vatican-lgbt-blessings-1.7074077?cmp=rss](https://www.cbc.ca/news/world/vatican-lgbt-blessings-1.7074077?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T09:02:36+00:00
+
+<img alt="A photo of St. Peter&apos;s Basilica at the Vatican." height="349" src="https://i.cbc.ca/1.7023549.1699542883!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/vatican-transgender-catholics.jpg" title="A view of St. Peter&apos;s Basilica at the Vatican, March 11, 2020. In the United States, the national conference of Catholic bishops rejects the concept of gender transition, leaving many transgender Catholics feeling excluded. On Wednesday, Nov. 8, 2023, the Vatican made public a sharply contrasting statement, saying it’s permissible, under certain circumstances, for trans Catholics to be baptized and serve as godparents. " width="620" /><p>The Vatican on Thursday moved to calm Catholic bishops in some countries who have reacted negatively to last month's approval of blessings for same-sex couples, telling them that the measure is not "heretical" or "blasphemous."</p>
+
+## Iran vows revenge for deadliest attack since Islamic Revolution
+ - [https://www.cbc.ca/news/world/iran-explosion-1.7074053?cmp=rss](https://www.cbc.ca/news/world/iran-explosion-1.7074053?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T07:43:49+00:00
+
+<img alt="A man raises a finger as he speaks in front of an image of a bearded man." height="349" src="https://i.cbc.ca/1.7074057.1704370146!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/iran-explosions.jpg" title="Iranian President Ebrahim Raisi speaks during a commemoration for the late Revolutionary Guard Gen. Qassem Soleimani, shown in a screen at background, at the Imam Khomeini grand mosque in Tehran, Iran, Wednesday, Jan. 3, 2024. Two bombs exploded Wednesday at a commemoration for a prominent Iranian general slain by the U.S. in a 2020 drone strike, Iranian officials said, as the Middle East remains on edge over Israel&apos;s war on Hamas in the Gaza Strip. (AP Photo/Vahid Salemi)" width="620" /><p>Iran's elite Revolutionary Guards and First Vice-President Mohammad Mokhber vowed revenge on Thursday for explosions that killed nearly 100 people at a ceremony to commemorate top commander Qassem Soleimani, who was killed by a U.S. drone in 2020 in Iraq.</p>
+
+## 'Not enough snow to really do anything': Business owners say warm weather taking toll on winter offerings
+ - [https://www.cbc.ca/news/canada/british-columbia/warm-winter-impacts-businesses-1.7073693?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/warm-winter-impacts-businesses-1.7073693?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T07:00:00+00:00
+
+<img alt="A person walks through a slush puddle." height="349" src="https://i.cbc.ca/1.7073686.1704316512!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/whistler-weather-20231229.JPG" title="A person walks through a slush puddle at Whistler, B.C., on Friday, December 29, 2023. Whistler has been experiencing warm weather and little snow this season, contributing to poor snow sports conditions during peak season. THE CANADIAN PRESS/Ethan Cairns" width="620" /><p>Some owners of winter activity businesses in B.C. say the warm weather and lack of snowfall is taking a toll, bringing poor, even dangerous, conditions on ski hills and backcountry trails.</p>
+
+## When a small Labrador school needed textiles for a sewing class, donations came from overseas
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/sewing-class-donations-1.7070237?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/sewing-class-donations-1.7070237?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T04:30:00+00:00
+
+<img alt="Two young people and one adult look at a sewing machine in a classroom. " height="349" src="https://i.cbc.ca/1.7070278.1703774313!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/heidi-jackson.jpg" title="Teacher Heidi Jackson (center) wanted to offer the textile and sewing class to hopefully help the kids find a new hobby or passion while learning some life skills. " width="620" /><p>The teacher behind a revived sewing and textile class at a Labrador school says there's enough fabric to run the program this year and into the future, thanks to donations that came from as far away as New Zealand. </p>
+
+## He slept on night buses and in a storage locker to avoid homeless shelters
+ - [https://www.cbc.ca/news/canada/ottawa/homelessness-shelters-buses-storage-locker-housing-ottawa-1.7073506?cmp=rss](https://www.cbc.ca/news/canada/ottawa/homelessness-shelters-buses-storage-locker-housing-ottawa-1.7073506?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T04:00:00+00:00
+
+<img alt="A man at an outdoor bus station." height="349" src="https://i.cbc.ca/1.7073529.1704375017!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/grant-yusak.jpg" title="Grant Yusak at Billings Bridge Station. He&apos;s spent nights riding buses around Ottawa to stay sheltered while homeless." width="620" /><p>After losing his home in June, John Grant Yusak headed to a Walmart parking lot in south Ottawa. That was only the beginning of his journey.</p>
+
+## I'm overprotective because of my son's deadly allergy but he wants me to trust him
+ - [https://www.cbc.ca/radio/nowornever/first-person-overprotective-son-s-deadly-allergy-1.7057974?cmp=rss](https://www.cbc.ca/radio/nowornever/first-person-overprotective-son-s-deadly-allergy-1.7057974?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T04:00:00+00:00
+
+<img alt="A woman and man smile and stand on either side of a smiling boy with their arms around him." height="349" src="https://i.cbc.ca/1.7057996.1702492832!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/morgan-klachefsky-and-family.JPG" title="Morgan Klachefsky, left, and Job Khaoniam, right, worry about their nine-year-old son Simon, centre, because he has a deadly allergy to cashews and pistachios." width="620" /><p>Her son’s deadly nut allergy had a Winnipeg mom living in fear. But as he grows up and asks for more freedom, Morgan Klachefsky had been forced to find ways to cope.</p>
+
+## Ministry report cites allegation of sexual abuse at long-term care home in Six Nations, Ont.
+ - [https://www.cbc.ca/news/canada/hamilton/iroquois-lodge-inspection-1.7073619?cmp=rss](https://www.cbc.ca/news/canada/hamilton/iroquois-lodge-inspection-1.7073619?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T04:00:00+00:00
+
+<img alt="A bed can be seen with white sheets and a white blanket on top." height="349" src="https://i.cbc.ca/1.3961236.1704346443!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hospital-bed-linens-stock-image.jpg" title="" width="620" /><p>A long-term care home in Six Nations of the Grand River is under review by the elected council after an Ontario government inspection revealed allegations a staff member had sexually abused a resident, among other issues.</p>
+
+## Ontario's accessibility legislation is failing. Advocates say lack of enforcement, complaints process to blame
+ - [https://www.cbc.ca/news/canada/toronto/aoda-ontario-accessibility-enforement-1.7053294?cmp=rss](https://www.cbc.ca/news/canada/toronto/aoda-ontario-accessibility-enforement-1.7053294?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T04:00:00+00:00
+
+<img alt="Someone walks down a street using a blind cane. " height="349" src="https://i.cbc.ca/1.7069747.1703693345!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/visually-impaired.JPG" title="A visually impaired person crosses a street in downtown Vancouver, British Columbia on Friday, November 20, 2020. " width="620" /><p>Ontario's Accessibility for Ontarians with Disabilities Act is failing because of a lack of enforcement and a complaints mechanism, advocates say.</p>
+
+## 'Prolific' killer whale matriarch presumed dead after nearly a year without a sighting
+ - [https://www.cbc.ca/news/canada/british-columbia/bc-biggs-killer-whale-wake-presumed-dead-1.7074033?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/bc-biggs-killer-whale-wake-presumed-dead-1.7074033?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-04T01:22:51+00:00
+
+<img alt="The dorsal fin of a killer whale sticks out above the water." height="349" src="https://i.cbc.ca/1.7074034.1704348057!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/t46-wake.jpg" title=" The transient killer whale known as T46 or Wake is shown during her last sighting, near Alert Bay, B.C. Feb. 20, 2023.                           " width="620" /><p>An orca matriarch known as "one of the most prolific female killer whales" on record is presumed dead after nearly a year without a sighting on the West Coast, according to B.C. researchers.</p>
+
