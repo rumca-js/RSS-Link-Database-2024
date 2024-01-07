@@ -1,0 +1,541 @@
+# Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## ‘Call on temple event very soon’
+ - [https://timesofindia.indiatimes.com/india/will-decide-very-soon-whether-or-not-to-join-temple-ceremony-says-mallikarjun-kharge/articleshow/106603278.cms](https://timesofindia.indiatimes.com/india/will-decide-very-soon-whether-or-not-to-join-temple-ceremony-says-mallikarjun-kharge/articleshow/106603278.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T22:16:08+00:00
+
+
+
+## Nigar Shaji: Smiling woman who led Aditya-L1 mission
+ - [https://timesofindia.indiatimes.com/india/nigar-shaji-smiling-woman-who-led-aditya-l1-mission/articleshow/106603154.cms](https://timesofindia.indiatimes.com/india/nigar-shaji-smiling-woman-who-led-aditya-l1-mission/articleshow/106603154.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T22:11:14+00:00
+
+The Indian Space Research Organization (Isro) is leading a complex scientific mission to put India's first solar observatory, Aditya-L1, at the Langrang point. Isro's project director for this mission is Nigar Shaji, who has worked tirelessly with her team for eight years to ensure its success. Shaji, who joined Isro in 1987, has risen through the ranks and is now the programme director for all lower orbit and planetary missions. She has never faced gender discrimination in Isro and attributes her success to the support of her parents and seniors.
+
+## Ajay Maken, Jairam Ramesh in Congress publicity panel for LS polls
+ - [https://timesofindia.indiatimes.com/india/ajay-maken-jairam-ramesh-in-congress-publicity-panel-for-ls-polls/articleshow/106603143.cms](https://timesofindia.indiatimes.com/india/ajay-maken-jairam-ramesh-in-congress-publicity-panel-for-ls-polls/articleshow/106603143.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T22:06:59+00:00
+
+Congress sets up publicity committee with AICC treasurer Ajay Maken as convener and party general secretaries Jairam Ramesh and K C Venugopal as members. State election committees constituted for Kerala, Rajasthan, Chhattisgarh, Telangana, Himachal Pradesh, Nagaland, Manipur, and Tripura. MP to have pradesh election committee and political affairs committee headed by Jitu Patwari and AICC general secretary Jitendra Singh. Rajasthan election committee led by Govind Singh Dotasra with Ashok Gehlot, Sachin Pilot, and Jitendra Singh. Kerala election committee led by PCC K Sudhakaran with V D Satheeshan, A K Antony, K C Venugopal, and Ramesh Chennithala.
+
+## NIA attaches four properties of Lawrence Bishnoi gang
+ - [https://timesofindia.indiatimes.com/india/nia-attaches-four-properties-of-lawrence-bishnoi-gang/articleshow/106603126.cms](https://timesofindia.indiatimes.com/india/nia-attaches-four-properties-of-lawrence-bishnoi-gang/articleshow/106603126.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:59:39+00:00
+
+The NIA attached five properties, including an SUV, in the terrorist-gangster-drug smuggler nexus case. The properties were used to hatch terror conspiracies and commit serious crimes. The NIA teams in Haryana, Punjab, and Uttar Pradesh attached the properties owned by members of the Lawrence Bishnoi gang. In another case related to the 2022 Chanapora arms seizure of Kashmir, the NIA attached the house of key conspirator Aamir Mushtaq Ganaie. Ganaie and his associates were cadres of Lashker-e-Taiba arm The Resistance Front (TRF).
+
+## Lost hope, better to die in jail: Teary Goyal to court
+ - [https://timesofindia.indiatimes.com/india/lost-hope-better-to-die-in-jail-teary-goyal-to-court/articleshow/106603122.cms](https://timesofindia.indiatimes.com/india/lost-hope-better-to-die-in-jail-teary-goyal-to-court/articleshow/106603122.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:58:11+00:00
+
+Jet Airways founder Naresh Goyal, arrested in a money laundering case, cried in court about his deteriorating health and expressed his desire to die in jail. The judge assured him that his mental and physical health will be taken care of. Goyal had never previously insisted on being produced before the court physically. He is suffering from continuous tremors, swelling and pain in his knees, and frequent urination problems. Goyal has become weak and finds it troublesome to travel to the hospital for treatment.
+
+## Cong suspends rape-accused Raj ex-MLA as clips go viral
+ - [https://timesofindia.indiatimes.com/india/congress-suspends-rape-accused-rajasthan-ex-mla-as-obscene-clips-go-viral/articleshow/106603115.cms](https://timesofindia.indiatimes.com/india/congress-suspends-rape-accused-rajasthan-ex-mla-as-obscene-clips-go-viral/articleshow/106603115.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:52:20+00:00
+
+Congress suspended former Barmer MLA Mewaram Jain, accused in gang rape case, after obscene video clips featuring him went viral. Case involves Jain and his close aide Ramswaroop Acharya, against whom a woman lodged a complaint alleging rape, sexual assault, and harassment. The woman also accused Jain, Ramswaroop, and six others, including a Rajasthan Police Service officer, of ensnaring her in a false case. BJP criticized the previous Congress government for the rise in atrocities against women.
+
+## Now, women in key positions in Railway Board
+ - [https://timesofindia.indiatimes.com/india/now-women-in-key-positions-in-railway-board/articleshow/106603098.cms](https://timesofindia.indiatimes.com/india/now-women-in-key-positions-in-railway-board/articleshow/106603098.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:49:36+00:00
+
+Women now hold key positions in the Railway Board, the top decision-making body of the railway ministry. Seema Kumar has been appointed as member in charge of operations and business development, Naveen Kumar as director general of HR, and Satish Kumar as member in charge of traction and rolling stock. This is a historic moment as it marks the first time that women have held such positions in the Board. Last year, Jaya Verma Sinha became the first woman to head the Board as chairman and CEO.
+
+## 'Yet another landmark': PM Modi hails Aditya-L1 feat
+ - [https://timesofindia.indiatimes.com/india/yet-another-landmark-pm-modi-hails-aditya-l1-feat/articleshow/106603088.cms](https://timesofindia.indiatimes.com/india/yet-another-landmark-pm-modi-hails-aditya-l1-feat/articleshow/106603088.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:44:25+00:00
+
+Prime Minister Narendra Modi hailed Isro scientists for putting India's Aditya-L1 in the halo orbit, while President Droupadi Murmu congratulated space scientists for the mission. Project director Nigar Shaji is leading the mission. President Murmu also highlighted the significant participation of women scientists in Isro missions. Union home minister Amit Shah called it another milestone in Bharat's journey through space, while space minister Jitendra Singh said Aditya L1 will discover the mysteries of the Sun-Earth connection.
+
+## Hit by speeding car on Uttarakhand road, 6-year-old tiger dies
+ - [https://timesofindia.indiatimes.com/india/hit-by-speeding-car-on-uttarakhand-road-6-year-old-tiger-dies/articleshow/106603073.cms](https://timesofindia.indiatimes.com/india/hit-by-speeding-car-on-uttarakhand-road-6-year-old-tiger-dies/articleshow/106603073.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:43:10+00:00
+
+
+
+## Day after attack on ED officials, hunt begins for TMC leader
+ - [https://timesofindia.indiatimes.com/india/day-after-attack-on-ed-officials-hunt-begins-for-tmc-leader-sheikh-shahjahan/articleshow/106603062.cms](https://timesofindia.indiatimes.com/india/day-after-attack-on-ed-officials-hunt-begins-for-tmc-leader-sheikh-shahjahan/articleshow/106603062.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:34:03+00:00
+
+A look out circular (LoC) was issued against Sheikh Shahjahan, the TMC strongman, following Friday's attack on ED officers in Sandeshkhali. The BSF has been alerted to prevent Shahjahan from crossing over to Bangladesh. A purported audio clip has surfaced in which Shahjahan asserts his innocence and claims to have nothing to fear from central agencies. Three FIRs have been filed, including one based on an ED email detailing the attack and video footage. Police are investigating attempts-to-murder by ED and criminal trespass allegations against Shahjahan's caretaker. BJP has staged demonstrations in protest of the attack.
+
+## ED arrests aide of Bengal minister in ration scam
+ - [https://timesofindia.indiatimes.com/india/ed-arrests-aide-of-bengal-minister-jyotipriya-mallick-in-ration-scam/articleshow/106602958.cms](https://timesofindia.indiatimes.com/india/ed-arrests-aide-of-bengal-minister-jyotipriya-mallick-in-ration-scam/articleshow/106602958.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:26:44+00:00
+
+An aide of Bengal minister Jyotipriya Mallick, who is jailed in a ration scam, was arrested amidst protests and dramatic scenes. The arrest of TMC's Shankar Adhya, a former chairman of the Bongaon municipality, was met with resistance from his supporters. The ED officers seized Rs 8.5 lakh in alleged unaccounted cash from Adhya's home. Adhya is accused of helping Mallick launder money through his Full-Fledged Money Changers (FFMC) business. The ED claims that the ration scam linked to Adhya is worth at least Rs 10,000 crore.
+
+## Woman can’t file DV plaint against bahu’s kin: Bombay HC
+ - [https://timesofindia.indiatimes.com/india/woman-cant-file-dv-plaint-against-bahus-kin-bombay-hc/articleshow/106602957.cms](https://timesofindia.indiatimes.com/india/woman-cant-file-dv-plaint-against-bahus-kin-bombay-hc/articleshow/106602957.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:26:15+00:00
+
+The Bombay high court ruled that a mother-in-law's domestic violence complaint against her daughter-in-law is maintainable under the DV Act. However, the complaint is not maintainable against the daughter-in-law's father and brother. The daughter-in-law, Zareena, her father, and brother moved to quash the complaint and summons. The court quashed the complaint against the father and brother, but maintained the complaint against Zareena, subject to satisfaction of other DV criteria.
+
+## Minor quarrels not sufficient to prove cruelty offence: Kerala HC
+ - [https://timesofindia.indiatimes.com/india/minor-quarrels-not-sufficient-to-prove-cruelty-offence-kerala-hc/articleshow/106602953.cms](https://timesofindia.indiatimes.com/india/minor-quarrels-not-sufficient-to-prove-cruelty-offence-kerala-hc/articleshow/106602953.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:21:14+00:00
+
+The Kerala high court has acquitted a husband who was accused of pushing his wife to suicide as the prosecution was unable to prove the cruelty or harassment angle as the trigger. The court found no evidence of cruelty or harassment from the husband towards his wife, as there was no complaint made by the wife before her death and no evidence of ill treatment or manhandling. The prosecution also failed to produce treatment records or the doctor who treated the deceased, and suppressed material evidence regarding her accidental death.
+
+## Political plot: Baghel on ED's Mahadev app chargesheet
+ - [https://timesofindia.indiatimes.com/india/political-plot-bhupesh-baghel-on-eds-mahadev-app-chargesheet/articleshow/106602952.cms](https://timesofindia.indiatimes.com/india/political-plot-bhupesh-baghel-on-eds-mahadev-app-chargesheet/articleshow/106602952.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:21:07+00:00
+
+Former Chhattisgarh CM Bhupesh Baghel has been mentioned in the second prosecution complaint filed by the Enforcement Directorate (ED) in connection with the Mahadev app scam. Baghel has called it a "political conspiracy" and accused the central agency of coercing people to give statements against him. Baghel reacted strongly, stating that the ED's mention of his name is part of a political conspiracy and that the allegations have no basis. He also criticized the ED for turning the investigation into a tool for political pressure and defamation instead of focusing on the actual crime.
+
+## Name not on IPS elevation list, ex-cricketer approaches high court
+ - [https://timesofindia.indiatimes.com/india/name-not-on-ips-elevation-list-ex-cricketer-approaches-high-court/articleshow/106602950.cms](https://timesofindia.indiatimes.com/india/name-not-on-ips-elevation-list-ex-cricketer-approaches-high-court/articleshow/106602950.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:15:55+00:00
+
+Former cricketer Joginder Sharma has moved the Punjab and Haryana high court over his exclusion from the list of candidates considered for elevation to the Indian Police Service (IPS) cadre. Sharma, who serves as a DSP in Haryana Police, claims that despite joining in 2007 and completing probation earlier than many others on the list, his name was left out. He argues that the state authorities wrongly mentioned in a letter that his service was confirmed after training, which goes against the appointment letter and relevant rules.
+
+## Rajnath Singh: Gurukuls to provide impetus to cultural development
+ - [https://timesofindia.indiatimes.com/india/rajnath-singh-gurukuls-to-provide-impetus-to-cultural-development/articleshow/106602939.cms](https://timesofindia.indiatimes.com/india/rajnath-singh-gurukuls-to-provide-impetus-to-cultural-development/articleshow/106602939.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:10:02+00:00
+
+Union defence minister Rajnath Singh laid the foundation stone of the "world's largest gurukul" in Haridwar. The event was hosted by the Patanjali group, led by yoga guru Swami Ramdev. Singh emphasized the importance of gurukuls in preserving Indian culture and promoting cultural development. He praised the modern gurukuls for their use of state-of-the-art facilities and encouraged them to incorporate emerging technologies like artificial intelligence. Ramdev announced plans for a significant investment in the Gurukul Mahavidyalaya, which has a rich history and has been visited by five PMs in the past.
+
+## 'Courier' reiterates cash was given to Baghel: ED
+ - [https://timesofindia.indiatimes.com/india/courier-reiterates-cash-was-given-to-bhupesh-baghel-ed/articleshow/106602930.cms](https://timesofindia.indiatimes.com/india/courier-reiterates-cash-was-given-to-bhupesh-baghel-ed/articleshow/106602930.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T21:06:52+00:00
+
+The Enforcement Directorate has informed a special court in Raipur that Asim Das, who was arrested earlier, claims that the unaccounted cash found on him was meant to be delivered to former Chhattisgarh CM Bhupesh Baghel. Asim Das stated that he visited Dubai twice in October on the instructions of Shubham Soni, one of the promoters of the Mahadev app. The ED has quoted Asim Das's statement to say that he was coerced into giving a retraction of his earlier statement. The ED has emphasized that Asim Das's statement on November 3 is true and correct.
+
+## Delhi Police urges court to frame charges against Brij Bhushan
+ - [https://timesofindia.indiatimes.com/india/delhi-police-urges-court-to-frame-charges-against-bjp-mp-brij-bhushan/articleshow/106602916.cms](https://timesofindia.indiatimes.com/india/delhi-police-urges-court-to-frame-charges-against-bjp-mp-brij-bhushan/articleshow/106602916.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T20:56:59+00:00
+
+Delhi Police urged the court to frame charges against former wrestling federation chief BJP MP Brij Bhushan Sharan Singh, accused of sexually harassing women wrestlers. The police argued that the incidents of alleged harassment, both within and outside India, were part of the same offense. The accused had justified his acts of touching the breasts of wrestlers as a fatherly gesture to check their breathing capacity. The court will have the next hearing on January 20. Delhi Police has filed a chargesheet against Singh under various sections of IPC.
+
+## Court verdict on ASI Gyanvapi report petition on January 24
+ - [https://timesofindia.indiatimes.com/india/court-verdict-on-asi-gyanvapi-report-petition-on-january-24/articleshow/106602905.cms](https://timesofindia.indiatimes.com/india/court-verdict-on-asi-gyanvapi-report-petition-on-january-24/articleshow/106602905.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T20:51:05+00:00
+
+The district judge ruled that the ASI's report on the scientific study and survey of Gyanvapi mosque will be submitted to the fast-track court on January 19. The court decided to dispose of the applications seeking the opening and disclosure of the ASI's report on January 24. The ASI conducted the study to determine if the mosque is built on a Hindu temple structure. The court also deferred the opening and disclosure of the report for four weeks.
+
+## Rooster booster: Fighter cocks get Viagra dose
+ - [https://timesofindia.indiatimes.com/india/rooster-booster-fighter-cocks-get-viagra-dose/articleshow/106602902.cms](https://timesofindia.indiatimes.com/india/rooster-booster-fighter-cocks-get-viagra-dose/articleshow/106602902.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T20:48:11+00:00
+
+Cockfights in rural Andhra Pradesh are facing a challenge as roosters have been affected by a disease called 'Ranikhet'. In order to revitalize the birds for the upcoming Sankranti celebrations, breeders are resorting to feeding them aphrodisiacs like Viagra 100, Shilajit, and vitamins. However, experts warn that these hormone-boosting drugs not only harm the birds in the long run but also lead to mutations that can be harmful when consumed by humans. Despite concerns about the effectiveness of such drugs, breeders claim that the results have been encouraging so far.
+
+## Focus on cybersecurity, legal reforms as PM meets top cops
+ - [https://timesofindia.indiatimes.com/india/focus-on-cybersecurity-legal-reforms-as-pm-meets-top-cops/articleshow/106602897.cms](https://timesofindia.indiatimes.com/india/focus-on-cybersecurity-legal-reforms-as-pm-meets-top-cops/articleshow/106602897.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T20:45:57+00:00
+
+Prime Minister Narendra Modi engages with police chiefs at the 58th national conference of director generals and inspector generals of police in Jaipur. The conference focuses on cybersecurity, internal security, legal reforms, and human trafficking. PM Modi receives a detailed briefing on cybersecurity efforts and interacts with officers during a lunch break. Discussions are held on changing laws, increasing punishments and fines, and addressing the issue of human trafficking. Police take swift action against NSUI state president Abhishek Chaudhary and detain members for threatening the PM.
+
+## Ambati Rayudu ends YSRCP innings 10 days after joining party
+ - [https://timesofindia.indiatimes.com/india/ambati-rayudu-ends-ysrcp-innings-10-days-after-joining-party/articleshow/106602888.cms](https://timesofindia.indiatimes.com/india/ambati-rayudu-ends-ysrcp-innings-10-days-after-joining-party/articleshow/106602888.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T20:41:27+00:00
+
+Cricketer Ambati Rayudu quit YSRCP after finding the pitch queered for a Lok Sabha poll ticket from Guntur. He joined YSRCP on December 28 and praised state schemes. Rayudu had conveyed his preference for Guntur before joining. He retired from all forms of cricket and announced his retirement from international cricket after being overlooked for the 2019 World Cup. Rayudu played for Mumbai Indians and Chennai Super Kings in the IPL.
+
+## 'Selected Ram Lalla idol of dark stone, standing posture'
+ - [https://timesofindia.indiatimes.com/india/selected-ram-lalla-idol-of-dark-stone-in-standing-posture-temple-trusts-champat-rai/articleshow/106602869.cms](https://timesofindia.indiatimes.com/india/selected-ram-lalla-idol-of-dark-stone-in-standing-posture-temple-trusts-champat-rai/articleshow/106602869.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T20:33:21+00:00
+
+The idol of Ram Lalla to be installed in the Ram temple's sanctum sanctorum will be "shyamal (dark)" in complexion and in standing posture, crafted by Karnataka sculptors Arun Yogiraj or Ganesh Bhatt. Its height will be 51 inches. The chosen idol will be made of dark Karnataka granite stones. The stone used in the idol will not be affected by water or milk. The age of the temple stones is 1,000 years, but sunlight, wind, and water will not affect it as a layer of granite has been installed below. No iron has been used in the temple's construction.
+
+## Bombay HC: Divorced Muslim woman entitled to maintenance
+ - [https://timesofindia.indiatimes.com/india/bombay-hc-divorced-muslim-woman-entitled-to-maintenance-even-if-she-remarries/articleshow/106602852.cms](https://timesofindia.indiatimes.com/india/bombay-hc-divorced-muslim-woman-entitled-to-maintenance-even-if-she-remarries/articleshow/106602852.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T20:21:03+00:00
+
+The Bombay high court has held that a divorced Muslim woman is entitled to receive maintenance under the Muslim Women (Protection of Rights on Divorce) Act (MWPA), 1986, even if she had remarried. Justice Rajesh Patil dismissed the husband's challenge to pay his ex-wife lump sum maintenance. The husband's advocates argued that he was not liable to pay maintenance because she had remarried, but Justice Patil stated that the protection under MWPA is unconditional and does not limit the rights of the former wife based on remarriage.
+
+## Man declared dead, then alive, dies in Odisha
+ - [https://timesofindia.indiatimes.com/india/man-declared-dead-then-alive-dies-in-odisha/articleshow/106602840.cms](https://timesofindia.indiatimes.com/india/man-declared-dead-then-alive-dies-in-odisha/articleshow/106602840.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T20:17:40+00:00
+
+
+
+## Kovind-led panel seeks public opinion on ‘One Nation, One Election
+ - [https://timesofindia.indiatimes.com/india/ram-nath-kovind-led-panel-seeks-public-opinion-on-one-nation-one-election/articleshow/106602777.cms](https://timesofindia.indiatimes.com/india/ram-nath-kovind-led-panel-seeks-public-opinion-on-one-nation-one-election/articleshow/106602777.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T20:04:07+00:00
+
+Former President Ram Nath Kovind-led panel on 'One Nation, One Election' has invited suggestions from the public for making appropriate changes in existing legal administrative framework to enable simultaneous elections in the country. The committee has set a deadline of January 15 for receiving these suggestions. People can submit their suggestions on the committee's website or via email. The committee has already held two meetings and has reached out to political parties for their views on the proposal. The panel aims to examine and make recommendations for holding simultaneous elections to various levels of government bodies.
+
+## Banks quietly raise interest rates on car, personal loans
+ - [https://timesofindia.indiatimes.com/india/banks-quietly-raise-interest-rates-on-car-personal-loans/articleshow/106602771.cms](https://timesofindia.indiatimes.com/india/banks-quietly-raise-interest-rates-on-car-personal-loans/articleshow/106602771.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T19:58:59+00:00
+
+Interest rates on retail loans, including home loans, have started increasing as banks revise their marginal cost of lending rate (MCLR). While home loans are linked to the repo rate, other loans are not. SBI has raised its auto loan rates from 8.65% to 8.85% for clients with high credit scores. Bank of Baroda has increased auto loan rates to 8.8% and reintroduced processing fees. Union Bank of India and IDFC First Bank have also hiked rates on auto and personal loans. Bank of Maharashtra reduced its home loan interest rates to 8.35%.
+
+## From 25,000 in '13, creches for poor kids down to just 3.9k
+ - [https://timesofindia.indiatimes.com/india/from-25000-in-13-creches-for-poor-kids-down-to-just-3-9-thousand/articleshow/106602747.cms](https://timesofindia.indiatimes.com/india/from-25000-in-13-creches-for-poor-kids-down-to-just-3-9-thousand/articleshow/106602747.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T19:47:21+00:00
+
+The number of creches under the National Creche Scheme dramatically decreased due to a combination of factors, including financial irregularities and changes in funding patterns. The scheme's fund utilisation worsened over time, leading to a slash in allocation from the centre. Several states, including Uttar Pradesh and Bihar, no longer have any creches. The scheme was renamed Palna Scheme under Mission Shakti, but it has struggled to get off the ground. The new scheme aims for 17,000 anganwadi cum creches by 2025-26, but there are concerns about meeting the demand and maintaining funding allocation.
+
+## Bangladesh polls: Amid geopolitical slugfest, India watches gingerly
+ - [https://timesofindia.indiatimes.com/world/south-asia/bangladesh-polls-amid-geopolitical-slugfest-india-watches-gingerly/articleshow/106602061.cms](https://timesofindia.indiatimes.com/world/south-asia/bangladesh-polls-amid-geopolitical-slugfest-india-watches-gingerly/articleshow/106602061.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T17:54:08+00:00
+
+Bangladesh PM Sheikh Hasina is set to win her fourth term in office as the main opposition party, BNP, did not contest the elections due to a lack of a caretaker government. The outcome is seen as a foregone conclusion, backed by India and China but lacking credibility in the West. India's interest lies in maintaining peace and stability in the region, as well as controlling any fallout from the lack of acceptance for Hasina. The turnout for the elections is crucial for credibility. Russia's reaction is also being observed.
+
+## 'Lost all hope, let me die in jail': Jet's Goyal to judge
+ - [https://timesofindia.indiatimes.com/business/india-business/lost-every-hope-allow-me-to-die-in-jail-jet-airways-naresh-goyal-breaks-down-in-court/articleshow/106601936.cms](https://timesofindia.indiatimes.com/business/india-business/lost-every-hope-allow-me-to-die-in-jail-jet-airways-naresh-goyal-breaks-down-in-court/articleshow/106601936.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T17:41:29+00:00
+
+
+
+## British Airways steward dies mid-flight in front of shocked flyers
+ - [https://timesofindia.indiatimes.com/world/uk/52-year-old-british-airways-steward-dies-mid-flight-second-steward-death-in-a-month/articleshow/106601775.cms](https://timesofindia.indiatimes.com/world/uk/52-year-old-british-airways-steward-dies-mid-flight-second-steward-death-in-a-month/articleshow/106601775.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T17:32:04+00:00
+
+A 52-year-old steward from British Airways tragically passed away on a flight from London Heathrow to Hong Kong. Despite medical assistance, the steward could not be resuscitated. Passengers were informed that the New Year's Eve flight would be cancelled. This marks the second recent loss for British Airways, as another steward passed away on December 23. The crew member was discovered lifeless in his hotel room during a stopover between flights. The flight from Newark to London Heathrow was cancelled.
+
+## Meghan Markle 'wants answers from King Charles': Expert
+ - [https://timesofindia.indiatimes.com/world/uk/meghan-markle-wants-answers-from-king-charles-royal-expert/articleshow/106600588.cms](https://timesofindia.indiatimes.com/world/uk/meghan-markle-wants-answers-from-king-charles-royal-expert/articleshow/106600588.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T15:33:14+00:00
+
+Meghan Markle demands answers from King Charles regarding the different treatment she and Prince Harry are receiving compared to other members of the British royal family. She sent a letter requesting a one-to-one meeting to discuss the problems she has encountered since joining the monarchy. Meghan is upset about the scrutiny she faces for interviews and publicized projects while other royals engage in similar activities without as much criticism. The Duchess of Sussex is particularly bothered by the different rules applied to Sarah Ferguson, who appears on TV shows, sells books, and does advertisements as a royal family member.
+
+## 'Cook ke jaane ke baad...': Sehwag's dig at England
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/yeh-zaroorat-cook-ke-jaane-ke-baad-padhi-sehwags-hilarious-dig-at-england-after-reports-emerge-they-will-travel-with-personal-chef/articleshow/106600832.cms](https://timesofindia.indiatimes.com/sports/cricket/news/yeh-zaroorat-cook-ke-jaane-ke-baad-padhi-sehwags-hilarious-dig-at-england-after-reports-emerge-they-will-travel-with-personal-chef/articleshow/106600832.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T15:32:04+00:00
+
+Known for his clever posts on social media, former India opener Virender Sehwag once again displayed his comedic brilliance after reports surfaced that England would be touring India with their own chef.
+
+## In or Out: Rohit, Virat T20 selection dilemma continues
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharma-virat-kohlis-selection-conundrum-continues-ahead-of-afghanistan-t20is/articleshow/106599876.cms](https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharma-virat-kohlis-selection-conundrum-continues-ahead-of-afghanistan-t20is/articleshow/106599876.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T14:28:43+00:00
+
+Their eyes trained on the big-ticket T20 World Cup in the Americas in June, the national selectors aren't finding it easy to pick just one among Rohit Sharma and Virat Kohli for the upcoming Afghanistan series.
+
+## Why Sheikh Hasina's imminent win matters for both India & China
+ - [https://timesofindia.indiatimes.com/world/south-asia/sheikh-hasinas-assured-victory-in-bangladesh-polls-a-rare-point-of-agreement-between-india-china/articleshow/106598721.cms](https://timesofindia.indiatimes.com/world/south-asia/sheikh-hasinas-assured-victory-in-bangladesh-polls-a-rare-point-of-agreement-between-india-china/articleshow/106598721.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T14:05:24+00:00
+
+Bangladesh Nationalist Party (BNP) boycotts election as US and other western nations raise concerns over government's actions. Hasina government accused of arresting rival politicians and paralyzing opposition. India and China take softer tone, each for their own interests. India needs friendly regime in Bangladesh for security and connectivity. China's investments and presence in Bangladesh concern India and US. Hasina balances India and China in foreign policy approach.
+
+## Watch: Ashwin bursts into laughter after Ntini sings Bollywood song
+ - [https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/watch-r-ashwin-bursts-into-laughter-after-makhaya-ntini-sings-kabhi-kabhi-mere-dil-mein-for-csk-fans/articleshow/106599984.cms](https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/watch-r-ashwin-bursts-into-laughter-after-makhaya-ntini-sings-kabhi-kabhi-mere-dil-mein-for-csk-fans/articleshow/106599984.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T14:04:31+00:00
+
+Following India's historic triumph over South Africa in the second and final Test at Newlands, a video circulating on social media captures the lighthearted exchanges between Indian off-spinner Ravichandran Ashwin and former Proteas pacer Makhaya Ntini. Ashwin requested Ntini to share a few words for CSK fans and the former South African pacer delighted everyone by entertainingly singing the popular Bollywood song 'Kabhi Kabhi Mere Dil Mein.' Ntini's rendition of a song had Ashwin bursting into laughter that showed the excellent camaraderie between the two players.
+
+## Alaska Airlines horror: DGCA asks Indian carriers to check emergency exits of Boeing planes
+ - [https://timesofindia.indiatimes.com/india/alaska-airlines-fallout-dgca-asks-indian-carriers-to-immediately-conduct-one-time-checks-on-emergency-exits-of-their-b737-max/articleshow/106599726.cms](https://timesofindia.indiatimes.com/india/alaska-airlines-fallout-dgca-asks-indian-carriers-to-immediately-conduct-one-time-checks-on-emergency-exits-of-their-b737-max/articleshow/106599726.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T13:43:34+00:00
+
+The Directorate General of Civil Aviation (DGCA) has directed Air India Express, Akasa Air and SpiceJet to "carry out a one time inspection of the emergency exits immediately on all Boeing 737-8 Max aircraft currently operating as part of their fleet." The regulator issued this directive as an "abundant precautionary measure" following an Alaska Airlines B737-9 Max saw a mid cabin emergency exit assembly and portion of the plane’s fuselage blow out shortly after take off in the US. No Indian carrier operates the B737-9 variant of the Max yet and they have the B737-8 Max in their fleets.
+
+## EU antitrust chief to meet prominent tech CEOs, here's why
+ - [https://timesofindia.indiatimes.com/gadgets-news/eu-antitrust-chief-to-meet-tim-cook-sundar-pichai-and-other-tech-ceos-heres-why/articleshow/106582424.cms](https://timesofindia.indiatimes.com/gadgets-news/eu-antitrust-chief-to-meet-tim-cook-sundar-pichai-and-other-tech-ceos-heres-why/articleshow/106582424.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T13:11:29+00:00
+
+EU antitrust chief Margrethe Vestager is set to meet with the CEOs of Apple, Alphabet, Broadcom, and Nvidia during her visit to the US next week. The discussions will focus on European digital regulation, competition policy, and Vestager's tougher stance on merger and competition probes. Additionally, Vestager will meet with Mira Murati, CTO of OpenAI, and Jason Kwon, chief strategy officer of OpenAI.
+
+## Hackers are selling X accounts with gold verification on dark web
+ - [https://timesofindia.indiatimes.com/gadgets-news/hackers-are-selling-x-accounts-with-gold-verification-on-dark-web-how-users-can-stay-safe/articleshow/106582301.cms](https://timesofindia.indiatimes.com/gadgets-news/hackers-are-selling-x-accounts-with-gold-verification-on-dark-web-how-users-can-stay-safe/articleshow/106582301.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T13:09:21+00:00
+
+Elon Musk introduced paid verification on X (previously Twitter) in 2022, allowing users to purchase blue ticks. Now, hackers are selling accounts with gold verification on the dark web. CloudSEK reports that these accounts can be used to send malicious tweets, steal personal information, spread false information, promote scams, and financial frauds. The dark web advertisements for these accounts can be traced back to multiple online shops and their marketing partners. Prices for these accounts range from $35 to $2,000. Users should be cautious of unidentified accounts with blue or gold ticks and watch out for suspicious links.
+
+## After 16 yrs, Greece unveils palace where Alexander the great became king
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/after-16-year-restoration-greece-unveils-palace-where-alexander-the-great-became-king/articleshow/106599120.cms](https://timesofindia.indiatimes.com/world/rest-of-world/after-16-year-restoration-greece-unveils-palace-where-alexander-the-great-became-king/articleshow/106599120.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T13:00:14+00:00
+
+It was the largest building of classical Greece: the palace where Alexander the Great was proclaimed king before he launched a conquest that took him as far as modern-day Afghanistan. The Palace of Aigai in northern Greece was fully reopened Friday following a 16-year renovation that cost more than 20 million euros ($22 million) and included financial support from the European Union. It was built more than 2,300 years ago during the reign of Alexander's father, Phillip II.
+
+## Watch: Players in dhoti-kurta, commentary in Sanskrit
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/watch-players-in-dhoti-kurta-commentary-in-sanskrit-in-unique-bhopal-cricket-tournament/articleshow/106598391.cms](https://timesofindia.indiatimes.com/sports/cricket/news/watch-players-in-dhoti-kurta-commentary-in-sanskrit-in-unique-bhopal-cricket-tournament/articleshow/106598391.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T12:24:39+00:00
+
+Vedic pandits clad in dhoti-kurta and with religious marks on the forehead are facing off on a cricket pitch in Bhopal as part of an annual tournament aimed at promoting Sanskrit.
+
+## Australia topple India from WTC top spot
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/australia-topple-india-from-wtc-top-spot-with-series-sweep-over-pakistan/articleshow/106597455.cms](https://timesofindia.indiatimes.com/sports/cricket/news/australia-topple-india-from-wtc-top-spot-with-series-sweep-over-pakistan/articleshow/106597455.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T11:35:56+00:00
+
+The Australian team has surpassed India in the ICC World Test Championship 2023-25 standings after their eight-wicket victory over Pakistan in the Sydney Cricket Ground (SCG) Test.
+
+## 'If India produce turning tracks, it will...': Bairstow
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/if-india-produce-turning-tracks-it-will-jonny-bairstow-on-upcoming-test-series/articleshow/106596934.cms](https://timesofindia.indiatimes.com/sports/cricket/news/if-india-produce-turning-tracks-it-will-jonny-bairstow-on-upcoming-test-series/articleshow/106596934.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T11:07:39+00:00
+
+England wicketkeeper batter Johnny Bairstow feels if India opt for turning pitches during the five-Test series later this month, "it will negate bit of their strength in their seam attack".
+
+## Aditya L1 enters ‘halo orbit’; PM lauds 'extraordinary feat'
+ - [https://timesofindia.indiatimes.com/home/science/aditya-reaches-halo-orbit-around-l1-point-sun-study-to-begin-soon/articleshow/106594444.cms](https://timesofindia.indiatimes.com/home/science/aditya-reaches-halo-orbit-around-l1-point-sun-study-to-begin-soon/articleshow/106594444.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T10:46:56+00:00
+
+Isro successfully maneuvered India's Aditya-L1 space probe into a halo orbit around the Sun-Earth Lagrange's Point 1 (L1). Isro will perform periodic maneuvers to keep the spacecraft in the intended orbit so that it can employ its seven payloads to study the Sun. The suit of Aditya L1 payloads will provide crucial information to understand coronal heating, Coronal Mass Ejection (CME), and space weather. Understanding space weather is important as it affects the functioning of space assets and can cause disturbances in the near Earth space environment.
+
+## Why the highest-selling products on e-com sites may change soon
+ - [https://timesofindia.indiatimes.com/gadgets-news/how-what-sells-most-on-amazon-flipkart-and-other-online-shopping-websites-may-be-changing/articleshow/106595402.cms](https://timesofindia.indiatimes.com/gadgets-news/how-what-sells-most-on-amazon-flipkart-and-other-online-shopping-websites-may-be-changing/articleshow/106595402.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T09:47:36+00:00
+
+This article discusses the resurgence of brick-and-mortar stores for big-ticket electronics, signaling a shift in consumer behavior post-pandemic. Smartphone and television sales online have declined, while the contribution of in-store purchases has increased. The return of the in-store experience is attributed to premiumization and narrowing price gaps between online and offline channels. On the other hand, e-commerce continues to thrive for fast-moving consumer goods (FMCG) due to quick commerce platforms. FMCG companies are seeing a 3-5% increase in e-commerce contribution, with alternate channels accounting for a quarter of total sales. While the trend favors quick commerce for essentials, discretionary purchases like apparel and electronics are correcting after a surge in online sales during the pandemic.
+
+## Why Pandya? Why no Rohit?: Fans on IND vs PAK T20 WC poster
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/why-hardik-pandya-why-no-rohit-sharma-fans-set-social-media-ablaze-over-india-vs-pakistan-t20-world-cup-poster/articleshow/106595095.cms](https://timesofindia.indiatimes.com/sports/cricket/news/why-hardik-pandya-why-no-rohit-sharma-fans-set-social-media-ablaze-over-india-vs-pakistan-t20-world-cup-poster/articleshow/106595095.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T09:42:38+00:00
+
+The much-awaited clash between India and arch-rivals Pakistan is set for June 9 at Eisenhower Park in Nassau County, New York, during the 2024 ICC Men’s T20 World Cup. This prestigious tournament, co-hosted by the West Indies and the United States, runs from June 1 to June 29. India, champions of the inaugural 2007 T20 World Cup under MS Dhoni's leadership, is placed in Group A alongside Pakistan, USA, Canada, and Ireland. India initiates their campaign against Ireland on June 5 in New York before the intense showdown against Pakistan on June 9.
+
+## Trudeau's plane breaks down again ... this time in Jamaica
+ - [https://timesofindia.indiatimes.com/world/us/canadian-pm-justin-trudeaus-plane-breaks-down-again-this-time-in-jamaica-delhi-g20-summit-glitch/articleshow/106595045.cms](https://timesofindia.indiatimes.com/world/us/canadian-pm-justin-trudeaus-plane-breaks-down-again-this-time-in-jamaica-delhi-g20-summit-glitch/articleshow/106595045.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T09:41:24+00:00
+
+The Canadian Armed Forces sent a second plane to Jamaica after the military aircraft that transported Prime Minister Justin Trudeau became "unserviceable". This is the second time in four months that Trudeau's plane has had mechanical problems. Trudeau flew to Jamaica for a vacation with his family and was scheduled to return to Canada on January 4. A maintenance issue was discovered during an inspection, but the aircraft was returned to serviceability and Trudeau's plane returned to Canada on January 4. The military's newer Challenger aircraft were used for both the trip and maintenance crew transport.
+
+## 'Loser Trump': Biden finally delivers speech Democrats wanted to hear
+ - [https://timesofindia.indiatimes.com/world/us/loser-trump-president-joe-biden-finally-delivers-a-speech-that-democrats-were-getting-desperate-to-hear/articleshow/106594071.cms](https://timesofindia.indiatimes.com/world/us/loser-trump-president-joe-biden-finally-delivers-a-speech-that-democrats-were-getting-desperate-to-hear/articleshow/106594071.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T09:11:55+00:00
+
+US President Joe Biden launches a fiery attack against Donald Trump for the violent mob at the United States Capitol, emphasizing the former president's refusal to accept the peaceful transfer of power in 2020. Biden questions whether democracy is still America's sacred cause and asserts that the 2024 election is about this fundamental question. He accuses Trump of exhausting every legal avenue to overturn the election and calls him a loser. Biden condemns political violence and lays blame for the Capitol attack directly at Trump's feet.
+
+## Christian Oliver and two daughters killed in devastating plane crash
+ - [https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-christian-oliver-and-two-daughters-killed-in-devastating-caribbean-plane-crash/articleshow/106593836.cms](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-christian-oliver-and-two-daughters-killed-in-devastating-caribbean-plane-crash/articleshow/106593836.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T08:25:21+00:00
+
+German-born US actor Christian Oliver and his two daughters tragically died in a plane crash off the coast of a Caribbean island. The single-engine aircraft they were on departed from Bequia, a small island in St Vincent and the Grenadines, and encountered difficulties shortly after takeoff. The bodies of Christian Oliver, his daughters, and the plane's pilot and owner, Robert Sachs, were recovered. Christian Oliver had a successful career in Hollywood, appearing in films alongside stars like Tom Cruise and George Clooney.
+
+## Alaska Airlines grounds all Boeing 737-9 aircraft following midair window blowout
+ - [https://timesofindia.indiatimes.com/world/us/alaska-airlines-grounds-boeing-737-9-fleet-following-midair-window-blowout/articleshow/106593638.cms](https://timesofindia.indiatimes.com/world/us/alaska-airlines-grounds-boeing-737-9-fleet-following-midair-window-blowout/articleshow/106593638.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T08:14:31+00:00
+
+Alaska Airlines grounds all Boeing 737-9 MAX aircraft following a midair incident where a window and part of the fuselage blew out, causing cabin depressurization. Flight 1282, en route to Ontario, California, made an emergency landing in Portland. The airline has not released details about injuries or the cause. The National Transportation Safety Board (NTSB) and the Federal Aviation Administration (FAA) are conducting investigations. The Boeing 737-9 MAX, certified two months ago, has been under scrutiny due to previous crashes and manufacturing flaws.
+
+## GTA V leaving soon from Xbox Game Pass
+ - [https://timesofindia.indiatimes.com/gadgets-news/gta-v-leaving-soon-from-xbox-game-pass-heres-what-you-need-to-know-about-it/articleshow/106593104.cms](https://timesofindia.indiatimes.com/gadgets-news/gta-v-leaving-soon-from-xbox-game-pass-heres-what-you-need-to-know-about-it/articleshow/106593104.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T07:49:49+00:00
+
+Xbox Game Pass is removing GTA V from its subscription-based service. Both the Xbox One and Xbox Series X/S versions will be leaving soon. The game will be removed within two weeks but the exact date is unknown. Xbox Game Pass offers over 100 titles without additional cost, but games eventually leave the service. However, GTA V will still be available for purchase from the Xbox store and players can keep it permanently in their library.
+
+## Salman Khan, Katrina Kaif's Tiger 3 to drop on OTT soon
+ - [https://timesofindia.indiatimes.com/web-series/news/hindi/salman-khan-and-katrina-kaifs-tiger-3-to-drop-on-ott-soon-see-all-deets-inside/articleshow/106593128.cms](https://timesofindia.indiatimes.com/web-series/news/hindi/salman-khan-and-katrina-kaifs-tiger-3-to-drop-on-ott-soon-see-all-deets-inside/articleshow/106593128.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T07:49:18+00:00
+
+Earlier, soon after release Salman Khan had shared a message addressing the potential spoilers of the film. In his note shared on X, the actor urges the audience to be mindful of sharing spoilers, emphasizing the importance of preserving the cinematic experience for everyone. He wrote, “We have made #Tiger3 with a lot of passion &amp; we are counting on you to protect our spoilers when you see the film. Spoilers can ruin the movie-watching experience. We trust you to do what is right. We hope #Tiger3 is the perfect Diwali gift from us to you!!"
+
+## Virat Kohli, Rohit are still great fielders: Gavaskar
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-and-rohit-sharma-are-still-great-fielders-says-sunil-gavaskar/articleshow/106592753.cms](https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-and-rohit-sharma-are-still-great-fielders-says-sunil-gavaskar/articleshow/106592753.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T07:42:32+00:00
+
+Cricket icon Sunil Gavaskar recently highlighted the enduring zeal of Indian captain Rohit Sharma and batting sensation Virat Kohli, emphasising their ability to spark up the field with remarkable fielding skills. Gavaskar also praised Virat's outstanding performance in the ICC ODI World Cup 2023, where India reached the final but narrowly missed the title, falling short against Australia in the championship clash. Gavaskar  also believes that India's victory in the T20 World Cup, led by Dhoni, played a significant role in fostering the growth of the shortest format of the game within the country.
+
+## How to schedule an Instagram post
+ - [https://timesofindia.indiatimes.com/gadgets-news/how-to-schedule-an-instagram-post/articleshow/106592388.cms](https://timesofindia.indiatimes.com/gadgets-news/how-to-schedule-an-instagram-post/articleshow/106592388.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T07:13:32+00:00
+
+This article discusses two ways to schedule your Instagram posts. The first way is to use the native Instagram tool which allows you to schedule posts and Reels, but not Stories. You can select the photo or video, edit it, and then toggle the switch to schedule the post for a specific date and time. The second way is to use a third-party scheduling app like Later, Hootsuite, or Planoly, which offer more features and scheduling options. Additional tips include planning your content in advance, maintaining a consistent visual style, engaging with your audience, avoiding over-scheduling, and analyzing post performance.
+
+## Apple may face ‘Google-like’ legal battle from the US govt
+ - [https://timesofindia.indiatimes.com/gadgets-news/apple-may-face-google-like-legal-battle-from-the-us-government-in-2024/articleshow/106592310.cms](https://timesofindia.indiatimes.com/gadgets-news/apple-may-face-google-like-legal-battle-from-the-us-government-in-2024/articleshow/106592310.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T07:11:09+00:00
+
+The US Department of Justice (DOJ) is investigating Apple and could file an antitrust case against the iPhone maker. The investigation focuses on Apple's control over hardware and software services, making it harder for competitors to compete and for customers to switch. The DOJ has looked into how the Apple Watch works better with iPhones and how Apple limits access to its iMessage service. They also examined Apple's payment system, preventing other financial firms from offering similar services. The investigation is still under review, but the DOJ could proceed with the lawsuit this year.
+
+## Explained: What is crypto phishing scam and how you can stay safe
+ - [https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-crypto-phishing-scam-and-how-you-can-stay-safe/articleshow/106592236.cms](https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-crypto-phishing-scam-and-how-you-can-stay-safe/articleshow/106592236.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T07:10:00+00:00
+
+A crypto phishing scam is a fraudulent attempt to trick people into revealing their private keys or other sensitive information related to their cryptocurrency holdings, ultimately leading to the theft of their digital assets. Some common phishing scam techniques include pretending to be a legitimate company or platform, phishing links and malware, fake customer support, and social engineering. To stay protected, never share private keys, be cautious of unsolicited offers, verify platform legitimacy, use strong passwords and two-factor authentication, keep software updated with reputable antivirus, and report suspicious activity.
+
+## New Ather 450 Apex launched with more power & range: Check details
+ - [https://timesofindia.indiatimes.com/auto/electric-bikes/ather-450-apex-launched-in-india-at-rs-1-89-lakh-more-range-power-heres-whats-new/articleshow/106592007.cms](https://timesofindia.indiatimes.com/auto/electric-bikes/ather-450-apex-launched-in-india-at-rs-1-89-lakh-more-range-power-heres-whats-new/articleshow/106592007.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T06:59:49+00:00
+
+Bengaluru-based EV maker Ather Energy has launched the Ather 450 Apex, its flagship electric scooter, with a more powerful 7.0 kW/26 Nm motor that can surpass 100 kmph and achieve 40 kmph from a standstill in just 2.9 seconds. The scooter has an enhanced claimed range of 157 km on a single charge and features the new 'Warp+' mode for enhanced acceleration. It also comes with a new form of regenerative braking called 'Magic Twist' and an extended 5-year/60,000km battery warranty.
+
+## B'desh polls: Why Hasina's party wants cadres to vote for oppn
+ - [https://timesofindia.indiatimes.com/world/south-asia/bangladesh-elections-why-sheikh-hasinas-awami-league-is-asking-cadres-to-vote-for-opposition-candidates/articleshow/106590775.cms](https://timesofindia.indiatimes.com/world/south-asia/bangladesh-elections-why-sheikh-hasinas-awami-league-is-asking-cadres-to-vote-for-opposition-candidates/articleshow/106590775.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T06:12:52+00:00
+
+Bangladesh faces severe political deadlock as it prepares for the general elections on January 7. The ruling Awami League (AL) under Prime Minister Sheikh Hasina is in a bitter standoff with the opposition Bangladesh Nationalist Party (BNP). The BNP has boycotted the elections, citing authoritarian practices and economic mismanagement by the government. This boycott escalates tensions and threatens the legitimacy of the elections. The international community, including the United States, is concerned about human rights abuses and the erosion of democratic processes in Bangladesh.
+
+## Apple & Google have removed these apps after govt order
+ - [https://timesofindia.indiatimes.com/gadgets-news/app-ban-apple-and-google-have-removed-these-two-apps-after-government-order/articleshow/106591028.cms](https://timesofindia.indiatimes.com/gadgets-news/app-ban-apple-and-google-have-removed-these-two-apps-after-government-order/articleshow/106591028.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T06:08:27+00:00
+
+Google and Apple have removed the eSIM apps Airalo and Holafly from their app stores in India following orders from the Department of Telecommunications (DoT) to curb cyber fraud. The DoT has also instructed internet service providers and telecom companies to block the websites of these apps. The apps were banned because fraudsters were using unauthorized eSIMs with international phone numbers to commit cybercrimes in India. Other eSIM providers like Nomad eSIM and aloSIM are still available for users in India.
+
+## $200 for girls, threesomes: Disturbing details from Epstein docs
+ - [https://timesofindia.indiatimes.com/world/us/new-jeffrey-epstein-documents-unveil-disturbing-details-200-payments-for-girls-and-twisted-threesomes/articleshow/106590774.cms](https://timesofindia.indiatimes.com/world/us/new-jeffrey-epstein-documents-unveil-disturbing-details-200-payments-for-girls-and-twisted-threesomes/articleshow/106590774.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T05:54:16+00:00
+
+The latest release of previously sealed court documents related to Jeffrey Epstein reveals disturbing details about his criminal activities. Tony Figueroa, who dated Virginia Roberts Guiffre, testified that he was paid for bringing girls to Epstein's mansion. The documents also include information about Epstein, Guiffre, and Ghislaine Maxwell's sexual activities. Handwritten phone messages from Les Wexner's wife, Abigail, were also found. Epstein exercised his constitutional right to avoid self-incrimination during his deposition, responding with 'Fifth' to hundreds of questions.
+
+## 'Hope I put a smile...': Warner bids emotional farewell
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/hope-i-put-a-smile-on-everyones-face-david-warner-bids-emotional-farewell/articleshow/106590585.cms](https://timesofindia.indiatimes.com/sports/cricket/news/hope-i-put-a-smile-on-everyones-face-david-warner-bids-emotional-farewell/articleshow/106590585.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T05:48:52+00:00
+
+Australia's David Warner bid an emotional farewell to Test cricket with a 3-0 series win against Pakistan, marking the end of his illustrious career. In a heartfelt post-match interview, Warner reflected on his Test career, expressed gratitude towards his teammates, and acknowledged the pivotal role his family played in his cricketing journey. He praised the Australian cricket team for their 18 months to 2 years of success, including a World Test Championship win, Ashes series draw, and the World Cup.
+
+## Aditya-L1 to reach vantage point today, here’s all you need to know
+ - [https://timesofindia.indiatimes.com/home/science/aditya-l1-to-reach-vantage-point-today-heres-all-you-need-to-know/articleshow/106590236.cms](https://timesofindia.indiatimes.com/home/science/aditya-l1-to-reach-vantage-point-today-heres-all-you-need-to-know/articleshow/106590236.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T05:27:53+00:00
+
+In addition to reaching its final destination, Isro needs to track the spacecraft's position and perform periodic manoeuvres to maintain its intended orbit. Lagrange Points L2, L3, L4, and L5 are other positions in space where objects can stay with reduced fuel consumption. The Sun is the source of solar energy for the entire solar system and its gravity holds everything together. Space weather, influenced by the Sun's radiation, particles, and magnetic fields, is important to study for the functioning of space assets. Early warning of solar events is crucial for protecting spacecraft and astronauts from disturbances.
+
+## Vaibhav Suryavanshi, aged 12, creates buzz with Ranji debut
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-suryavanshi-aged-12-creates-buzz-with-debut-in-ranji-trophy/articleshow/106589676.cms](https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-suryavanshi-aged-12-creates-buzz-with-debut-in-ranji-trophy/articleshow/106589676.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T04:55:35+00:00
+
+Vaibhav Suryavanshi, a 12-year-old from Bihar, made his first-class debut in India's Ranji Trophy season. He is one of the youngest debutants in the sport, surpassing legends like Sachin Tendulkar and Yuvraj Singh. Vaibhav's debut took place in a match against Mumbai at the Moin-ul-Haq Stadium in Patna. If Vaibhav's age claim is accurate, he would be younger than Yuvraj Singh and Sachin Tendulkar at the time of a first-class debut.
+
+## Mahadev betting: ED names Baghel in supplementary chargesheet
+ - [https://timesofindia.indiatimes.com/india/mahadev-betting-app-case-ed-names-former-chhattisgarh-cm-baghel-in-supplementary-chargesheet-bjp-attacks-congress/articleshow/106589602.cms](https://timesofindia.indiatimes.com/india/mahadev-betting-app-case-ed-names-former-chhattisgarh-cm-baghel-in-supplementary-chargesheet-bjp-attacks-congress/articleshow/106589602.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T04:48:07+00:00
+
+The Enforcement Directorate (ED) has named former Chhattisgarh chief minister Bhupesh Baghel in a supplementary charge sheet filed on January 1, 2024, under the Prevention of Money Laundering Act. Baghel is accused of receiving bribes totaling around Rs 508 crore from the promoters of the Mahadev App. The charge sheet also lists other accused individuals, including Subham Soni, Anil Kumar Agrawal, Rohit Gulati, Bhim Singh Yadav, and Asim Das. The Bharatiya Janata Party (BJP) has alleged corruption against the Congress party in response to this development.
+
+## Ex-cricketer on Virat Kohli and Rohit Sharma's T20 WC plans
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-and-rohit-sharmas-t20-world-cup-plans/articleshow/106589495.cms](https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-and-rohit-sharmas-t20-world-cup-plans/articleshow/106589495.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T04:44:11+00:00
+
+Team India, captained by Rohit Sharma alongside batting powerhouse Virat Kohli, aims to bounce back from the heartbreak of losing the ODI World Cup on home soil. Their sights are now firmly set on securing triumph in the imminent T20 World Cup, mere months away. Not since 2007, under the leadership of Mahendra Singh Dhoni, has India claimed the T20 World Cup title. The recent six-wicket loss to Australia in the ODI World Cup final has fueled their determination to excel in the upcoming tournament.
+
+## Watch: Pakistan's tactical fielding leads to Smith's dismissal
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/watch-pakistan-captain-shan-masoods-tactical-fielding-and-babar-azams-brilliance-lead-to-steve-smiths-dismissal/articleshow/106589264.cms](https://timesofindia.indiatimes.com/sports/cricket/news/watch-pakistan-captain-shan-masoods-tactical-fielding-and-babar-azams-brilliance-lead-to-steve-smiths-dismissal/articleshow/106589264.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T04:26:17+00:00
+
+Pakistan's captain Shan Masood successfully dismissed Australian batting maestro Steve Smith during the third Test with a strategic fielding placement. Pacer Mir Hamza's precise delivery led to Smith falling into a trap, resulting in a crucial wicket for Pakistan. Masood strategically positioned three fielders at covers, creating an opportunity for Smith to drive. Mir Hamza capitalized on the plan, delivering a fuller delivery outside off stump. Smith, known for his aggressive stroke play, took the bait but was caught by the clever fielding placement.
+
+## Warner bids adieu with a flourish as Australia sweep series
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/3rd-test-david-warner-bids-adieu-with-a-flourish-as-australia-sweep-series-against-pakistan/articleshow/106588595.cms](https://timesofindia.indiatimes.com/sports/cricket/news/3rd-test-david-warner-bids-adieu-with-a-flourish-as-australia-sweep-series-against-pakistan/articleshow/106588595.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T03:44:35+00:00
+
+David Warner's 57-run innings led Australia to a comprehensive eight-wicket victory over Pakistan, securing a 3-0 series sweep. Despite being denied the chance to score the match-winning runs, Warner's contribution played a pivotal role in Australia's pursuit of a modest target of 130 runs. Pakistan, aiming to break a 16-game losing streak in Australia since 1995, added 47 runs but fell short, being dismissed for 115. Warner, playing in his 112th and final Test match, received a guard of honor from the Pakistani team.
+
+## 'Indiana Jones' actor Christian Olive, 2 daughters killed in plane crash
+ - [https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/indiana-jones-actor-christian-oliver-and-his-2-daughters-killed-in-a-plane-crash-in-the-caribbean-report/articleshow/106588525.cms](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/indiana-jones-actor-christian-oliver-and-his-2-daughters-killed-in-a-plane-crash-in-the-caribbean-report/articleshow/106588525.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T03:25:48+00:00
+
+US actor Christian Oliver and his two daughters died in a plane crash near a private island in St. Vincent and the Grenadines. The crash occurred near Petit Nevis island as the plane headed for St. Lucia. The pilot, Robert Sachs, also died. The cause of the crash is unknown. Oliver had numerous film and TV roles, including 'Speed Racer' and 'The Good German'. He appeared in 'Saved by the Bell: The New Class'.
+
+## Two Muslim women set to bring Ramjyoti from Ayodhya to Kashi
+ - [https://timesofindia.indiatimes.com/city/varanasi/two-muslim-women-to-bring-ramjyoti-from-ayodhya-to-kashi-news-publication/articleshow/106588438.cms](https://timesofindia.indiatimes.com/city/varanasi/two-muslim-women-to-bring-ramjyoti-from-ayodhya-to-kashi-news-publication/articleshow/106588438.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T03:22:00+00:00
+
+Two Muslim women from Varanasi will bring the 'Ramjyoti' from Ayodhya to spread the message that Lord Ram is their ancestor and the DNA of every Indian is the same. They are supported by scores of Muslim women. The soil of Ayodhya, the holy water of the Saryu, and Ramjyoti will be brought to Kashi. The distribution of Ramjyoti will start on January 21. The women will leave for Ayodhya on Saturday and return with Ramjyoti on Sunday. The consecration of Shri Ram in Patalpuri Math is planned for January 22 as part of the Ram Parivar Bhakti Movement.
+
+## Forgot your iPhone passcode, here’s how to access it without deleting
+ - [https://timesofindia.indiatimes.com/gadgets-news/forgot-your-iphone-passcode-heres-how-to-access-your-iphone-without-deleting-everything/articleshow/106588342.cms](https://timesofindia.indiatimes.com/gadgets-news/forgot-your-iphone-passcode-heres-how-to-access-your-iphone-without-deleting-everything/articleshow/106588342.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T03:19:06+00:00
+
+Apple makes it difficult to access iPhones without the passcode, leaving users locked out. iOS 17 update introduces a passcode reset option for users who changed their passcode within 72 hours and remember the previous one. To reset the passcode, go to Settings → Face ID &amp; Passcode → Expire Previous Passcode Now → Expire Now. However, after the 72 hour window, the old method of resetting the entire iPhone is still applicable.
+
+## Explained: Facebook Link History, how to use and more
+ - [https://timesofindia.indiatimes.com/gadgets-news/explained-facebook-link-history-how-to-use-and-more/articleshow/106582494.cms](https://timesofindia.indiatimes.com/gadgets-news/explained-facebook-link-history-how-to-use-and-more/articleshow/106582494.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T03:16:22+00:00
+
+Facebook introduces Link History, a feature that tracks users' clicked links within the app for up to 30 days. It aims to personalize ad experience by using the data to show targeted ads. Privacy concerns arise as some worry about potential tracking beyond Facebook. However, Facebook assures that Link History won't be shared with third-party companies but can be used for its own advertising. The feature is optional, allowing users to turn it on or off and delete their Link History data at any time.
+
+## How woman in Maharashtra lost Rs 27L Bitcoin, clicking on Fb ad
+ - [https://timesofindia.indiatimes.com/gadgets-news/how-a-woman-in-maharashtra-lost-rs-27-lakh-bitcoin-scam-after-clicking-on-facebook-ad/articleshow/106588126.cms](https://timesofindia.indiatimes.com/gadgets-news/how-a-woman-in-maharashtra-lost-rs-27-lakh-bitcoin-scam-after-clicking-on-facebook-ad/articleshow/106588126.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T03:13:33+00:00
+
+A woman from Dhokali, Maharashtra lost Rs 27 lakh to a Facebook Bitcoin investment scam. The ad promised high returns for minimal investment, luring the victim into downloading a mobile app and creating a profile. The scammer presented a website showing unrealized profits to further deceive her. The victim paid for 'upgrades,' 'fees,' and 'taxes,' but was unable to withdraw any money, realizing she had been duped.
+
+## Drunk youths making Insta reels in speeding car kill mother, son
+ - [https://timesofindia.indiatimes.com/city/jaipur/drunk-youths-making-insta-reelsin-speeding-car-kill-mother-son/articleshow/106587905.cms](https://timesofindia.indiatimes.com/city/jaipur/drunk-youths-making-insta-reelsin-speeding-car-kill-mother-son/articleshow/106587905.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T03:05:29+00:00
+
+
+
+## Body of ex-model killed in Gurgaon yet to be found, SIT formed
+ - [https://timesofindia.indiatimes.com/city/gurgaon/3-days-on-cops-still-look-for-body-of-ex-model-form-sit/articleshow/106586860.cms](https://timesofindia.indiatimes.com/city/gurgaon/3-days-on-cops-still-look-for-body-of-ex-model-form-sit/articleshow/106586860.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T02:05:53+00:00
+
+Police form SIT to investigate the murder of Divya Pahuja, former model and girlfriend of gangster Sandeep Gadoli. The SIT, led by DCP Vijay Pratap Singh, includes the SHO of Sector 14 police station and the in-charge of the crime unit. Divya's body has not been found, but the abandoned BMW car used to transport the body was discovered in Patiala. CCTV footage shows the main accused, Abhijeet Singh, with Divya and an associate, Balraj, at the hotel. Abhijeet, the owner of the hotel, was arrested and police are trying to determine the events leading up to Divya's murder.
+
+## Suspected arson on B'desh train kills 4 ahead election
+ - [https://timesofindia.indiatimes.com/world/south-asia/suspected-arson-on-bangladesh-train-kills-4-ahead-of-sunday-election/articleshow/106586473.cms](https://timesofindia.indiatimes.com/world/south-asia/suspected-arson-on-bangladesh-train-kills-4-ahead-of-sunday-election/articleshow/106586473.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T01:00:16+00:00
+
+Four people were killed and many injured after suspected arsonists set fire to the Benapole Express, a passenger train traveling from Benapole to Dhaka. The incident occurred two days before Bangladesh's general elections, which have been boycotted by the main opposition BNP. The train's carriages were set on fire near Kamalapur railway station. The motive behind the attack is believed to be an act of sabotage to intimidate people before the election. Several fire-wounded individuals were taken to Dhaka Medical College Hospital's burn unit for treatment.
+
+## Bigg Boss 17: Capt Ankita takes decision to evict Abhishek Kumar
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-17-captain-ankita-lokhande-takes-decision-to-evict-abhishek-kumar-from-the-show-the-latter-requests-please-ankita-ji/articleshow/106586330.cms](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-17-captain-ankita-lokhande-takes-decision-to-evict-abhishek-kumar-from-the-show-the-latter-requests-please-ankita-ji/articleshow/106586330.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T00:36:31+00:00
+
+In a shocking turn of events, Abhishek Kumar is evicted from Bigg Boss 17 after a physical fight with Samarth Jurel. Ankita Lokhande, the captain of the house, announces the decision with a heavy heart, stating that Abhishek broke an important rule. This eviction has surprised everyone, including Abhishek's fans who are demanding his return. Earlier, Abhishek got into a heated argument with Isha Malviya and Samarth Jurel, during which derogatory comments were made about his mental health. In the heat of the moment, Abhishek slapped Samarth, but later apologized for his actions.
+
+## Another Hindu temple defaced with pro-Khalistan graffiti in US
+ - [https://timesofindia.indiatimes.com/world/us/another-hindu-temple-is-defaced-with-pro-khalistan-graffiti-in-california/articleshow/106586314.cms](https://timesofindia.indiatimes.com/world/us/another-hindu-temple-is-defaced-with-pro-khalistan-graffiti-in-california/articleshow/106586314.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-06T00:27:56+00:00
+
+
+

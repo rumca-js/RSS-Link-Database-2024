@@ -1,0 +1,51 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Apple is sending out checks for ‘batterygate’  class action claims
+ - [https://www.theverge.com/2024/1/6/24028162/apple-batterygate-payments-issued-class-action-lawsuit](https://www.theverge.com/2024/1/6/24028162/apple-batterygate-payments-issued-class-action-lawsuit)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-06T22:55:07+00:00
+
+<figure>
+      <img alt="The iPhone 7 and 7 Plus, standing next to one another." src="https://cdn.vox-cdn.com/thumbor/UvGKOjQrQCQogP4smkKITA2D3e8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73030523/jbareham_160909_1215_A_0023_compressed.0.0.1473768038.0.jpg" />
+        <figcaption>Photo by James Bareham / The Verge</figcaption>
+    </figure>
+
+  <p id="G65Q1T">Checks are apparently hitting the bank accounts of people affected by Apple’s decision to slow down iPhones with older batteries back in 2017. <a href="https://www.macrumors.com/2024/01/06/apple-starts-iphone-batterygate-payouts/"><em>MacRumors </em>reported</a> that readers of its site said they’d seen checks deposited to their accounts amounting to $92.17, later updating the story with an <a href="https://x.com/mbrkhrdt/status/1743663751146946929?s=20">embedded post</a> from one of the readers. Indeed, the <a href="https://www.smartphoneperformancesettlement.com/">website set up for the settlement</a> w
+
+## Boeing 737 Max planes are grounded after a hole blew in one mid-flight
+ - [https://www.theverge.com/2024/1/6/24027943/boeing-737-max-9-planes-grounded-faa-fuselage-hole-alaska-airlines](https://www.theverge.com/2024/1/6/24027943/boeing-737-max-9-planes-grounded-faa-fuselage-hole-alaska-airlines)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-06T19:35:07+00:00
+
+<figure>
+      <img alt="A picture of a Boeing 737 Max 9 plane sitting at a gate at an airport in Seattle." src="https://cdn.vox-cdn.com/thumbor/21EvCujnOP-TEjUOV9mziOYji4Y=/337x0:7668x4887/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73030054/1905416517.0.jpg" />
+        <figcaption><em>An Alaska Airlines Boeing 737 Max 9 in Seattle on January 6, 2024.</em> | Photo by Stephen Brashear / Getty Images</figcaption>
+    </figure>
+
+  <p id="uKPWTX">The Federal Aviation Administration (FAA) has ordered the “temporary grounding” of 171 Boeing 737 Max 9 airplanes this morning after section of fuselage separated off the side of an Alaska Airlines flight on Friday, leaving a gaping hole in the side of the plane. The agency <a href="https://www.faa.gov/newsroom/faa-statement-temporary-grounding-certain-boeing-737-max-9-aircraft">said in its announcement</a> that it will send an Emergency Airworthiness Directive out soon to require an inspection of all of the grounded planes that “will t
+
+## The luxe DreameBot L20 Ultra vacuum is selling for its lowest price of $1,049
+ - [https://www.theverge.com/2024/1/6/24027023/dreamebot-l20-ultra-robovac-humble-tabletop-digital-game-bundle-deal-sale](https://www.theverge.com/2024/1/6/24027023/dreamebot-l20-ultra-robovac-humble-tabletop-digital-game-bundle-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-06T16:27:34+00:00
+
+<figure>
+      <img alt="The DreameBot L20 Ultra robot vacuum and mop sitting docked in its auto-emptying station." src="https://cdn.vox-cdn.com/thumbor/RhevrRxttEMrnHKf63I51-DEGps=/0x0:5760x3840/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73029634/2023_10_23_10.14.59.0.jpeg" />
+        <figcaption>Photo by Jennifer Pattison Tuohy / The Verge</figcaption>
+    </figure>
+
+  <p id="IA1L9L">The <strong>DreameBot L20 Ultra</strong> robot vacuum / mop is <a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner">one of our top picks</a> when it comes to robovacs, as long as you don’t mind spending a fair bit of coin. But there’s good news today, as the L20 Ultra is now cheaper than ever before. As a reader of <em>The</em> <em>Verge</em>, you can get the premium DreameBot for $1,049 ($450 off) at <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.wellbots.com%2Fproducts%2Fdreametech-l20-ultra-robotic-vacuum&amp;referrer=theverge.com&
+
+## Jackery’s rooftop tent is also a powerful solar generator
+ - [https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-06T14:27:47+00:00
+
+<figure>
+      <img alt="A pickup truck sits in an open field while the rooftop tent is unfurled on the truck’s roof, with the giant solar array angled at the sun." src="https://cdn.vox-cdn.com/thumbor/elOrIEY-nTIyQPL1T5apkkyh-D0=/0x0:3500x2333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73029352/CO3234387_2.0.jpg" />
+        <figcaption><em>The retractable panels help generate up to 4.96kWh per day in the western US, according to Jackery. </em> | Image: Jackery</figcaption>
+    </figure>
+
+  <p id="aPQ20U">Jackery has converted the humble rooftop tent into a powerful solar generator that lets any car escape the grid for a weekend or longer. Although it’s just a concept on show at CES right now, Jackery says it will put the tent into production sometime near the end of 2024.</p>
+<p id="MiLfyl">The retractable solar panels are said to produce up to 1000W when the car is parked and the tent is open and facing south. That’s enough to generate 4.96kWh per day in the western US, or
+

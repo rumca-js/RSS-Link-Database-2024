@@ -1,0 +1,86 @@
+# Source:The Guardian - World, URL:https://www.theguardian.com/world/rss, language:en-US
+
+## Victoria and southern parts of NSW prepare for thunderstorms and possible flash flooding
+ - [https://www.theguardian.com/australia-news/2024/jan/07/victoria-and-southern-parts-of-nsw-prepare-for-thunderstorms-and-possible-flash-flooding](https://www.theguardian.com/australia-news/2024/jan/07/victoria-and-southern-parts-of-nsw-prepare-for-thunderstorms-and-possible-flash-flooding)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T22:48:20+00:00
+
+<p>‘The amount of moisture across Victoria at the moment is incredible,’ the Bureau of Meteorology says  </p><p>Thunderstorms and heavy rain are forecast for south-eastern Australia with Victoria and southern parts of New South Wales expected to receive the worst of the wet weather sweeping across from South Australia.</p><p>Some Victorians have been told to prepare for rainfall totals as high as 200mm with the thunderstorms forecast for Sunday afternoon and continuing into Monday.</p> <a href="https://www.theguardian.com/australia-news/2024/jan/07/victoria-and-southern-parts-of-nsw-prepare-for-thunderstorms-and-possible-flash-flooding">Continue reading...</a>
+
+## Man arrested after four stabbing attacks in Melbourne overnight with one woman critically injured
+ - [https://www.theguardian.com/australia-news/2024/jan/07/man-arrested-after-four-stabbing-attacks-in-melbourne-overnight-with-one-woman-critically-injured](https://www.theguardian.com/australia-news/2024/jan/07/man-arrested-after-four-stabbing-attacks-in-melbourne-overnight-with-one-woman-critically-injured)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T21:49:48+00:00
+
+<p>Victoria police say random attacks were not terror-related with 31-year-old man being questioned in custody</p><p>A man has been arrested in Melbourne following a series of stabbings that left one woman fighting for life and three other people in hospital.</p><p>Police say three violent incidents in inner Melbourne are not believed to be terror-related but were random attacks. Investigators were probing whether a fourth stabbing was also linked.</p> <a href="https://www.theguardian.com/australia-news/2024/jan/07/man-arrested-after-four-stabbing-attacks-in-melbourne-overnight-with-one-woman-critically-injured">Continue reading...</a>
+
+## Testify under oath about Jeffrey Epstein abuse scandal, Prince Andrew urged
+ - [https://www.theguardian.com/us-news/2024/jan/06/testify-under-oath-about-jeffrey-epstein-abuse-scandal-prince-andrew-urged](https://www.theguardian.com/us-news/2024/jan/06/testify-under-oath-about-jeffrey-epstein-abuse-scandal-prince-andrew-urged)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T19:05:56+00:00
+
+<p>Duke of York must answer to claims in new documents while ‘facing all the trappings of the law’, says victims’ lawyer</p><p>Prince Andrew must testify under oath about his role in the Jeffrey Epstein abuse scandal so that he faces the threat of prison if he lies, a lawyer for several of Epstein’s victims has said.</p><p>Amid growing calls for a police investigation into allegations of sexual assault against the royal, Spencer Kuvin, a Florida-based attorney, told the <em>Observer</em> that the Duke of York “needs to answer for what is now coming out” and should give his account with “all the trappings of the law” so that he is legally obliged to tell the truth.</p> <a href="https://www.theguardian.com/us-news/2024/jan/06/testify-under-oath-about-jeffrey-epstein-abuse-scandal-prince-andrew-urged">Continue reading...</a>
+
+## More than 1,000 ‘distressing’ social media posts removed at Australian government’s request in 2023
+ - [https://www.theguardian.com/australia-news/2024/jan/07/more-than-1000-distressing-social-media-posts-removed-at-australian-governments-request-in-2023](https://www.theguardian.com/australia-news/2024/jan/07/more-than-1000-distressing-social-media-posts-removed-at-australian-governments-request-in-2023)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T19:00:02+00:00
+
+<p>Figures show rise in incidents of online extremism and violent content, partly fuelled by Israel-Gaza conflict</p><p>More than 1,000 violent and extremist posts have been taken down from social media at the federal government’s request following an increase in referrals brought on in part by the conflict between Israel and Hamas in Gaza.</p><p>It follows a warning by the communications minister, Michelle Rowland, in the days following Hamas’s 7 October attacks against southern Israel that it was the job of social media companies to “prevent the spread of distressing violent and terrorist content”.</p> <a href="https://www.theguardian.com/australia-news/2024/jan/07/more-than-1000-distressing-social-media-posts-removed-at-australian-governments-request-in-2023">Continue reading...</a>
+
+## Perth overtakes east coast to become Australia’s hottest capital city property market
+ - [https://www.theguardian.com/australia-news/2024/jan/07/perth-overtakes-east-coast-to-become-australias-hottest-capital-city-property-market](https://www.theguardian.com/australia-news/2024/jan/07/perth-overtakes-east-coast-to-become-australias-hottest-capital-city-property-market)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T19:00:01+00:00
+
+<p>Buyers and renters compete for limited stock as the Western Australian capital favours sellers and landlords, CoreLogic analysts say</p><p></p><p>The Australian property boom has shifted from east to west, with buyers and renters tussling for a limited number of Perth homes and creating a housing crisis for those left behind.</p><p>Perth has become the hottest selling market among state capitals, with homes listed for a median 11 days before being sold, according to CoreLogic data calculated for Guardian Australia.</p> <a href="https://www.theguardian.com/australia-news/2024/jan/07/perth-overtakes-east-coast-to-become-australias-hottest-capital-city-property-market">Continue reading...</a>
+
+## Former NRA chief of staff admits wrongdoing before corruption trial
+ - [https://www.theguardian.com/us-news/2024/jan/06/nra-joshua-powell-settles-wrongdoing-corruption-trial](https://www.theguardian.com/us-news/2024/jan/06/nra-joshua-powell-settles-wrongdoing-corruption-trial)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T18:19:04+00:00
+
+<p>Joshua Powell, one of five defendants in lawsuit including former CEO Wayne LaPierre, has agreed to pay $100,000</p><p>A former chief of staff to Wayne LaPierre – who <a href="https://www.theguardian.com/us-news/2024/jan/05/wayne-lapierre-nra-resigns">resigned</a> as the National Rifle Association’s chief executive on Friday – has agreed to a $100,000 settlement in connection with a civil lawsuit filed by the New York attorney general’s office.</p><p>As part of the settlement announced on Saturday, Joshua Powell – one of five defendants in the lawsuit against the NRA, a gun-rights organization – admitted to wrongdoing in failing to fulfill his fiduciary responsibilities and misusing charitable funds.</p> <a href="https://www.theguardian.com/us-news/2024/jan/06/nra-joshua-powell-settles-wrongdoing-corruption-trial">Continue reading...</a>
+
+## Pentagon reveals that defense secretary has been hospitalized since Monday
+ - [https://www.theguardian.com/us-news/2024/jan/06/pentagon-lloyd-austin-hospitalized-since-monday](https://www.theguardian.com/us-news/2024/jan/06/pentagon-lloyd-austin-hospitalized-since-monday)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T16:50:15+00:00
+
+<p>Press secretary acknowledged Lloyd Austin was admitted five days ago after minor elective procedure</p><p>The US defense secretary <a href="https://www.theguardian.com/world/2023/dec/18/us-defence-secretary-holds-talks-with-israel-over-gaza-tactics">Lloyd Austin</a> has been hospitalized since Monday due to complications after a minor elective medical procedure, his press secretary said, in the first official acknowledgement that Austin had been admitted five days earlier to Walter Reed national military medical center.</p><p>Air Force Maj Gen Pat Ryder said Friday that Austin was “recovering well”, but it was not clear when the secretary would be released from the hospital.</p> <a href="https://www.theguardian.com/us-news/2024/jan/06/pentagon-lloyd-austin-hospitalized-since-monday">Continue reading...</a>
+
+## Wife of financier who called for Harvard head’s exit faces plagiarism allegations
+ - [https://www.theguardian.com/education/2024/jan/06/neri-oxman-bill-ackman-plagiarism-accusations](https://www.theguardian.com/education/2024/jan/06/neri-oxman-bill-ackman-plagiarism-accusations)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T16:40:54+00:00
+
+<p>After Claudine Gay was ousted amid accusations of plagiarism, Neri Oxman was accused of copying from Wikipedia in dissertation</p><p>The wife of Bill Ackman, <a href="https://www.theguardian.com/education/2024/jan/03/bill-ackman-billionaire-attacks-claudine-gay-harvard-twitter-x">the hedge fund billionaire</a> who accused Claudine Gay of being a plagiarist and led calls for her resignation as Harvard president, is now facing allegations of plagiarism herself.</p><p>Neri Oxman, a prominent former professor at the Massachusetts Institute of Technology, has apologized after Business Insider <a href="https://www.businessinsider.com/neri-oxman-plagiarize-wikipedia-mit-dissertation-2024-1">identified</a> multiple instances in which she lifted passages from other scholars’ work without proper attribution in her 2010 dissertation. She also pledged to review the primary sources and request the necessary corrections.</p> <a href="https://www.theguardian.com/education/2024/jan/06/neri-oxman-
+
+## Woman in 90s pulled alive from rubble five days after Japan earthquake
+ - [https://www.theguardian.com/world/2024/jan/06/woman-in-90s-pulled-alive-from-rubble-five-days-after-japan-earthquake](https://www.theguardian.com/world/2024/jan/06/woman-in-90s-pulled-alive-from-rubble-five-days-after-japan-earthquake)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T15:47:54+00:00
+
+<p>Boy, five, among 126 people dead, after boiling water spilled on him during Monday’s 7.6 magnitude quake</p><p>A woman in her 90s has been pulled alive from a collapsed house in western Japan, 124 hours after a major earthquake hit the region, killing at least 126 people, toppling buildings and setting off landslides.</p><p>The woman in Suzu city, Ishikawa prefecture, survived for more than five days after the 7.6 magnitude quake on Monday. Nationally broadcast news footage showed helmeted rescue workers covering the view of the area with blue plastic, and the woman was not visible.</p> <a href="https://www.theguardian.com/world/2024/jan/06/woman-in-90s-pulled-alive-from-rubble-five-days-after-japan-earthquake">Continue reading...</a>
+
+## New York solar firm accused of union busting after furloughing staff
+ - [https://www.theguardian.com/us-news/2024/jan/06/empower-solar-new-york-union-election-workers-furloughed-united-auto-workers](https://www.theguardian.com/us-news/2024/jan/06/empower-solar-new-york-union-election-workers-furloughed-united-auto-workers)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T12:00:09+00:00
+
+<p>EmPower Solar suspended 40% of its workforce but says action is unrelated to recent successful election of workers to join UAW</p><p>A New York-based solar panel business has been accused of being a “poster child” of union busting after furloughing 40% of its workforce for more than a year, days after a victorious union election.</p><p>Installers and technicians at EmPower Solar, in Bethpage – concerned about poor working conditions and <a href="https://www.longislandpress.com/2023/12/18/oped-why-the-renewable-energy-industry-needs-unionizing/">issues</a> they faced on the job – reached out to the United Auto Workers after the gains it won during the “stand up” strikes at the big three automakers.</p> <a href="https://www.theguardian.com/us-news/2024/jan/06/empower-solar-new-york-union-election-workers-furloughed-united-auto-workers">Continue reading...</a>
+
+## Unit owners in Sydney’s Mascot Towers offered chance to wipe debts years after defects found
+ - [https://www.theguardian.com/australia-news/2024/jan/06/unit-owners-in-sydneys-mascot-towers-offered-chance-to-wipe-debts-years-after-defects-found](https://www.theguardian.com/australia-news/2024/jan/06/unit-owners-in-sydneys-mascot-towers-offered-chance-to-wipe-debts-years-after-defects-found)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T03:35:56+00:00
+
+<p>Deal suggested by NSW building commissioner comes after residents were forced to evacuate in 2019</p><p>Owners of apartments in Sydney’s Mascot Towers may reach a potential settlement to clear <a href="https://www.theguardian.com/australia-news/2019/jun/19/mascot-towers-unit-owners-face-bill-of-more-than-1m-for-repairs-and-other-costs">massive debts</a> for the first time since being forced to evacuate their units due to defects.</p><p>The New South Wales <a href="https://www.theguardian.com/australia-news/2023/nov/19/chris-minns-insists-nsw-can-have-quantity-and-quality-when-it-comes-to-new-housing">building commissioner, David Chandler</a>, has offered a lifeline to residents of the buildings, in the city’s inner-south, who have been faced with significant repair bills since<a href="https://www.theguardian.com/australia-news/2019/jun/15/residents-of-sydneys-mascot-towers-evacuated-after-cracks-emerge"> cracks were discovered in the basement in 2019</a>.</p><p><strong><a href="ht
+
+## Baby in critical condition in Victoria after being delivered in ‘freebirth’
+ - [https://www.theguardian.com/australia-news/2024/jan/06/baby-in-critical-condition-in-victoria-after-being-delivered-in-freebirth](https://www.theguardian.com/australia-news/2024/jan/06/baby-in-critical-condition-in-victoria-after-being-delivered-in-freebirth)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2024-01-06T00:04:24+00:00
+
+<p>Ambulance Victoria says woman and baby taken to hospital after incident in town of Ocean Grove</p><p>A newborn baby is in a critical condition in hospital after being delivered in an apparent “freebirth” in regional Victoria.</p><p>The medical industry has <a href="https://www.theguardian.com/lifeandstyle/2020/dec/05/women-give-birth-alone-the-rise-of-freebirthing#:~:text=Meanwhile%2C%20freebirthing%2C%20though%20legal%2C,%2C%E2%80%9D%20O'Brien%20says.">expressed concern</a> about the practice, which is typically characterised as a birth without help from a healthcare professional.</p><p><strong><a href="https://www.theguardian.com/australia-news/2021/dec/21/sign-up-for-five-great-reads-guardian-australias-wrap-of-our-best-summer-stories">Sign up for a weekly email featuring our best reads</a></strong></p> <a href="https://www.theguardian.com/australia-news/2024/jan/06/baby-in-critical-condition-in-victoria-after-being-delivered-in-freebirth">Continue reading...</a>
+
