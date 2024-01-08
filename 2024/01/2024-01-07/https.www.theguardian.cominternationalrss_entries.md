@@ -1,0 +1,58 @@
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
+
+## Dorival Júnior set to be named Brazil head coach after leaving São Paulo
+ - [https://www.theguardian.com/football/2024/jan/07/dorival-junior-set-to-be-named-brazil-head-coach-after-leaving-sao-paulo](https://www.theguardian.com/football/2024/jan/07/dorival-junior-set-to-be-named-brazil-head-coach-after-leaving-sao-paulo)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-01-07T22:48:58+00:00
+
+<ul><li>61-year-old Brazilian to take job after sacking of interim Diniz</li><li>Carlo Ancelotti turned down the role to stay at Real Madrid</li></ul><p>Dorival Júnior has resigned as head coach of São Paulo to take charge of Brazil’s national team, the club said in a statement on Sunday.</p><p>Dorival, 61, was the preferred choice after the Brazilian Football Confederation (CBF) failed to recruit Italian coach Carlo Ancelotti, who <a href="https://www.theguardian.com/football/2023/dec/29/carlo-ancelotti-extends-contract-with-real-madrid-until-2026#:~:text=Carlo%20Ancelotti%20extends%20contract%20with%20Real%20Madrid%20until%202026">chose to extend his contract with Real Madrid</a> after months of speculation linking him with the Seleção job.</p> <a href="https://www.theguardian.com/football/2024/jan/07/dorival-junior-set-to-be-named-brazil-head-coach-after-leaving-sao-paulo">Continue reading...</a>
+
+## NFL roundup: Bills, Bucs and Steelers reach playoffs as Belichick suffers in snow
+ - [https://www.theguardian.com/sport/2024/jan/07/nfl-roundup-bills-bucs-and-steelers-reach-playoffs-as-belichick-suffers-in-snow](https://www.theguardian.com/sport/2024/jan/07/nfl-roundup-bills-bucs-and-steelers-reach-playoffs-as-belichick-suffers-in-snow)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-01-07T21:39:18+00:00
+
+<ul><li>Jacksonville loss hands sports to Buffalo and Pittsburgh</li><li>Patriots end painful season with loss to Jets</li></ul><p>Trevor Lawrence had every chance to lead the Jacksonville Jaguars into the playoffs for a second straight year as the AFC South champions. He wound up stopped short of the goalline with 7:13 left, and he also turned the ball over on downs with 1:47 left as the Tennessee Titans eliminated the Jaguars from the playoff hunt in the final Sunday of the regular season.</p><p>The Jaguars (9-8) came in needing a win to clinch a second straight AFC South title for their first back-to-back crowns since 1998 and 1999. Their 28-20 loss makes Houston the division champs, costing the Jaguars their only way into the postseason after Pittsburgh <a href="https://www.theguardian.com/sport/2024/jan/06/nfl-scores-texans-colts-steelers-ravens">also won on Saturday</a>.</p> <a href="https://www.theguardian.com/sport/2024/jan/07/nfl-roundup-bills-bucs-and-steelers-reach-playoff
+
+## Dakar Rally: motorcyclist Carles Falcón flown to hospital after major crash
+ - [https://www.theguardian.com/sport/2024/jan/07/dakar-rally-motorcyclist-carles-falcon-flown-to-hospital-after-major-crash](https://www.theguardian.com/sport/2024/jan/07/dakar-rally-motorcyclist-carles-falcon-flown-to-hospital-after-major-crash)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-01-07T19:36:54+00:00
+
+<ul><li>Race director says Falcón lacked pulse but was resuscitated</li><li>Falcón was riding over jagged rocks and winding sand dunes</li></ul><p>Spanish motorcycle rider Carles Falcón<em><strong> </strong></em>was flown to hospital with serious injuries after he crashed near the end of Sunday’s second stage of the Dakar Rally in the deserts of Saudi Arabia.</p><p>Race director David Castera told reporters Falcón, an experienced off-road rider, had lacked a pulse but was resuscitated by the first doctor to arrive on the scene.</p> <a href="https://www.theguardian.com/sport/2024/jan/07/dakar-rally-motorcyclist-carles-falcon-flown-to-hospital-after-major-crash">Continue reading...</a>
+
+## Ellyse Perry slogs six to level T20 series with India in 300th Australia game
+ - [https://www.theguardian.com/sport/2024/jan/07/india-australia-second-womens-t20-international-cricket-match-report](https://www.theguardian.com/sport/2024/jan/07/india-australia-second-womens-t20-international-cricket-match-report)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-01-07T19:20:23+00:00
+
+<ul><li>2nd women’s T20: Australia, 4-133, beat India, 8-130, by 6 wkts</li><li>Perry hits six to clinch game on 300th international appearance</li></ul><p>With a slog-sweep over midwicket for six, Ellyse Perry levelled Australia’s T20 series with India, underscored her enduring and evolving class, and commemorated her 300th game in green and gold.</p><p>The 33-year-old top-scored in Australia’s six-wicket win as the tourists chased down India’s eight for 130 with an over to spare.</p> <a href="https://www.theguardian.com/sport/2024/jan/07/india-australia-second-womens-t20-international-cricket-match-report">Continue reading...</a>
+
+## European roundup: Napoli’s dire Scudetto defence takes another hit
+ - [https://www.theguardian.com/football/2024/jan/07/european-roundup-napolis-dire-scudetto-defence-takes-another-hit](https://www.theguardian.com/football/2024/jan/07/european-roundup-napolis-dire-scudetto-defence-takes-another-hit)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-01-07T18:19:10+00:00
+
+<ul><li>Parthenopeans’ struggles linger on after damaging 3-0 defeat</li><li>Milan win 3-0 with Loftus-Cheek and Giroud on target</li></ul><p><strong>Napoli’s</strong> Serie A title defence suffered another setback as they lost 3-0 at <strong>Torino</strong> on Sunday, with strikes by Antonio Sanabria, Nikola Vlasic and Alessandro Buongiorno moving the hosts into the Top 10.</p><p>With only one win in their past six league games, Napoli fell to ninth in the standings with the defeat, <a href="https://www.theguardian.com/football/2024/jan/06/european-football-inter-leave-it-very-late-to-sink-verona-in-wild-finish">trailing leaders Inter by 20 points</a> at the halfway stage of the season.</p> <a href="https://www.theguardian.com/football/2024/jan/07/european-roundup-napolis-dire-scudetto-defence-takes-another-hit">Continue reading...</a>
+
+## Germany save two championship points in United Cup final win over Poland
+ - [https://www.theguardian.com/sport/2024/jan/07/united-cup-final-tennis-germany-poland-alexander-zverev-iga-swiatek-wins](https://www.theguardian.com/sport/2024/jan/07/united-cup-final-tennis-germany-poland-alexander-zverev-iga-swiatek-wins)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-01-07T15:33:47+00:00
+
+<ul><li>Alexander Zverev beats Hubert Hurkacz to set up decider</li><li>Laura Siegemund and Zverez win mixed doubles to claim title</li></ul><p>Germany fought back from the brink of defeat to beat Poland and win the United Cup in Sydney. Alexander Zverev saved two championship points in his second-set tie-break against Hubert Hurkacz before going on to win 6-7 (3), 7-6 (6), 6-4.</p><p>The subsequent doubles decider then saw Zverev and Laura Siegemund triumph against Hurkacz and Iga Swiatek 6-4, 5-7, 10-4. The four-times grand slam champion Swiatek had earlier beaten Aneglique Kerber 6-3, 6-0.</p> <a href="https://www.theguardian.com/sport/2024/jan/07/united-cup-final-tennis-germany-poland-alexander-zverev-iga-swiatek-wins">Continue reading...</a>
+
+## Manchester United’s Hannibal Mejbri set for loan to either Sevilla or Everton
+ - [https://www.theguardian.com/football/2024/jan/07/manchester-united-hannibal-mejbri-set-for-loan-to-either-sevilla-or-everton](https://www.theguardian.com/football/2024/jan/07/manchester-united-hannibal-mejbri-set-for-loan-to-either-sevilla-or-everton)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-01-07T13:39:53+00:00
+
+<ul><li>Midfielder has struggled for first-team minutes at Old Trafford</li><li>United close to agreement with Dortmund over Sancho loan</li></ul><p>Manchester United midfielder Hannibal Mejbri is expected to join either Sevilla or Everton on loan this month.</p><p>The Tunisian has been a regular in match day squads this season but has struggled for minutes on the pitch and is eager to get further experience of first-team football.</p> <a href="https://www.theguardian.com/football/2024/jan/07/manchester-united-hannibal-mejbri-set-for-loan-to-either-sevilla-or-everton">Continue reading...</a>
+
+## Quarterlife by Satya Doyle Byock review – too little, too late for young adults
+ - [https://www.theguardian.com/books/2024/jan/07/quarterlife-search-for-self-in-early-adulthood-by-satya-doyle-byock-review](https://www.theguardian.com/books/2024/jan/07/quarterlife-search-for-self-in-early-adulthood-by-satya-doyle-byock-review)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-01-07T11:00:19+00:00
+
+<p>For all her empathy, the psychotherapist doesn’t offer much insight or research into the demands of twentysomething life</p><p>The term “quarterlife” was coined more than two decades ago by Abby Wilner, co-author (with Alexandra Robbins) of <em>Quarterlife Crisis: The Unique Challenges of Life in Your Twenties</em>. Although psychotherapist <a href="https://satyabyock.com/">Satya Doyle Byock</a>’s <em>Quarterlife: The Search for Self in Early Adulthood</em> credits Wilner with the neologism, it also often gives the impression that the struggle and quest for purpose in early adulthood is something its author has discovered; a therapeutic specialism of her own creation, rather than, say, a juncture of individual human uncertainty you can read about <a href="https://en.wikipedia.org/wiki/Parable_of_the_Prodigal_Son">in the Bible</a>.</p><p>Indeed, a key argument of the author, who practises in Portland, Oregon, is that quarterlife is “overlooked” and underexplored. The marketing blur
+

@@ -1,0 +1,198 @@
+# Source:Epoch Times - World, URL:https://feed.theepochtimes.com/world/feed, language:en-US
+
+## One Dead in Helicopter Crash Near Revelstoke, BC, RCMP Confirms
+ - [https://www.theepochtimes.com/world/one-dead-in-helicopter-crash-near-revelstoke-bc-rcmp-confirms-5560179](https://www.theepochtimes.com/world/one-dead-in-helicopter-crash-near-revelstoke-bc-rcmp-confirms-5560179)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T23:06:02+00:00
+
+The RCMP logo is seen outside Royal Canadian Mounted Police "E" Division Headquarters, in Surrey, B.C., on Apr. 13, 2018. (The Canadian Press/Darryl Dyck)
+
+## MPs Criticize Toronto Police for Bringing Coffee to Protesters Targeting Jewish Neighbourhood
+ - [https://www.theepochtimes.com/world/mps-criticize-toronto-police-for-bringing-coffee-to-protesters-targeting-jewish-neighbourhood-5560026](https://www.theepochtimes.com/world/mps-criticize-toronto-police-for-bringing-coffee-to-protesters-targeting-jewish-neighbourhood-5560026)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T22:39:57+00:00
+
+A Toronto Police Service (TPS) logo is seen at TPS headquarters in Toronto on Aug. 9, 2019. (The Canadian Press/Christopher Katsarov)
+
+## Quebec’s ‘Common Front’ Public Sector Unions Will Vote on New Contract
+ - [https://www.theepochtimes.com/world/quebecs-common-front-public-sector-unions-will-vote-on-new-contract-5560143](https://www.theepochtimes.com/world/quebecs-common-front-public-sector-unions-will-vote-on-new-contract-5560143)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T20:24:27+00:00
+
+(L–R) Leaders of Quebec’s “common front” public sector union CSQ president Eric Gingras, FTQ president Magali Picard, APTS president Robert Comeau, and CSN vice-president Francois Enault speak at a news conference in Montreal on Jan. 7, 2024. (The Canadian Press/Graham Hughes)
+
+## Canada Senate Committee on Budgets and Administration Proposes Record-High Senate Budget
+ - [https://www.theepochtimes.com/world/canada-senate-committee-on-budgets-and-administration-proposes-record-high-senate-budget-5560024](https://www.theepochtimes.com/world/canada-senate-committee-on-budgets-and-administration-proposes-record-high-senate-budget-5560024)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T19:59:53+00:00
+
+The Senate Chamber in the Senate of Canada building is seen in Ottawa on Feb. 18, 2019. (The Canadian Press/Sean Kilpatrick)
+
+## Nova Scotia’s Pioneer Cemeteries Are Disappearing, but Not Without a Fight
+ - [https://www.theepochtimes.com/world/nova-scotias-pioneer-cemeteries-are-disappearing-but-not-without-a-fight-5560082](https://www.theepochtimes.com/world/nova-scotias-pioneer-cemeteries-are-disappearing-but-not-without-a-fight-5560082)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T18:37:14+00:00
+
+Steve Skafte, a photographer and writer based in Nova Scotia's Annapolis Valley, works to stabilize a grave marker in a small, long-abandoned cemetery in West Paradise, N.S. on Oct. 21, 2021. (The Canadian Press/Andrew Vaughan)
+
+## Partner Charged With Second-Degree Murder of 29-Year-Old Woman in Granby, Que.
+ - [https://www.theepochtimes.com/world/partner-charged-with-second-degree-murder-of-29-year-old-woman-in-granby-que-5560078](https://www.theepochtimes.com/world/partner-charged-with-second-degree-murder-of-29-year-old-woman-in-granby-que-5560078)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T17:59:48+00:00
+
+A Quebec provincial police emblem is seen on an officer’s uniform in Montreal on Aug. 22, 2023. (The Canadian Press/Christinne Muschi)
+
+## Rafael Nadal Withdraws From Australian Open With Hip Muscle Injury, Comeback on Hold
+ - [https://www.theepochtimes.com/sports/rafael-nadal-withdraws-from-australian-open-with-hip-muscle-injury-comeback-on-hold-5560060](https://www.theepochtimes.com/sports/rafael-nadal-withdraws-from-australian-open-with-hip-muscle-injury-comeback-on-hold-5560060)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T17:46:58+00:00
+
+Rafael Nadal of Spain looks dejected between games in his quarterfinal match against Jordan Thompson of Australia during the Brisbane International tennis tournament in Brisbane, Australia, on Jan. 5, 2024. (Tertius Pickard/AP Photo)
+
+## Person Killed in New York Bus Crash Was Canadian, Global Affairs Says
+ - [https://www.theepochtimes.com/world/person-killed-in-new-york-bus-crash-was-canadian-global-affairs-says-5560068](https://www.theepochtimes.com/world/person-killed-in-new-york-bus-crash-was-canadian-global-affairs-says-5560068)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T16:57:51+00:00
+
+This still image from WTEN-TV video shows emergency response personnel at the site of a roll over bus accident on the Adirondack Northway, in the town of Lake George, N.Y., on Jan. 5, 2024. (The Canadian Press/WTEN-TV via AP)
+
+## ‘Bonds of Trust’ Broken Between Some Families and Schools Since COVID, Says Report
+ - [https://www.theepochtimes.com/world/bonds-of-trust-broken-between-some-families-and-schools-since-covid-says-report-5560016](https://www.theepochtimes.com/world/bonds-of-trust-broken-between-some-families-and-schools-since-covid-says-report-5560016)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T15:54:14+00:00
+
+Undated photo of pupils raising their hands during a class. (PA)
+
+## Australian Business Leaders Call for Urgent Government Action on Housing Crisis
+ - [https://www.theepochtimes.com/world/australian-business-leaders-call-for-urgent-government-action-on-housing-crisis-5559984](https://www.theepochtimes.com/world/australian-business-leaders-call-for-urgent-government-action-on-housing-crisis-5559984)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T11:48:32+00:00
+
+A general view of homes in the suburb of Balmain is seen in Sydney, Australia, on Sept. 7, 2022. (Lisa Maree Williams/Getty Images)
+
+## Sunak Hints Tax Cuts Will Be Paid for Through ‘Difficult Decisions’ on Welfare
+ - [https://www.theepochtimes.com/world/sunak-hints-tax-cuts-will-be-paid-for-through-difficult-decisions-on-welfare-5560000](https://www.theepochtimes.com/world/sunak-hints-tax-cuts-will-be-paid-for-through-difficult-decisions-on-welfare-5560000)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T10:33:51+00:00
+
+Prime Minister Rishi Sunak during a visit to La Dolce Vita cafe in Marple, Stockport in North West England, on Jan. 5, 2024. (Jacob King/PA Wire)
+
+## Warning of flooded properties and transport disruption as river levels rise
+ - [https://www.theepochtimes.com/world/warning-of-flooded-properties-and-transport-disruption-as-river-levels-rise-5559994](https://www.theepochtimes.com/world/warning-of-flooded-properties-and-transport-disruption-as-river-levels-rise-5559994)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T10:08:54+00:00
+
+Undated handout photo issued by David Walters of a flooded Cresslands Touring Park in South Lincolnshire, England. (David Walters/PA)
+
+## Pro-Palestine Protesters Rally at Road Cycling Titles
+ - [https://www.theepochtimes.com/world/pro-palestine-protesters-rally-at-road-cycling-titles-5559987](https://www.theepochtimes.com/world/pro-palestine-protesters-rally-at-road-cycling-titles-5559987)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T07:30:36+00:00
+
+Pro-Palestinian protesters are seen during a protest in downtown Ottawa on Nov. 25, 2023. (The Canadian Press/Spencer Colby
+
+## Thousands of Extremists Posts Removed From Social Media
+ - [https://www.theepochtimes.com/world/thousands-of-extremists-posts-removed-from-social-media-5559986](https://www.theepochtimes.com/world/thousands-of-extremists-posts-removed-from-social-media-5559986)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T07:26:44+00:00
+
+The icons of mobile apps are seen on the screen of a smart phone in New Delhi, India, on May 26, 2021. (Sajjad Hussain/AFP via Getty Images)
+
+## Bangladesh Poll Booths Burn on Election Eve, as Train Arson Kills 4
+ - [https://www.theepochtimes.com/world/bangladesh-poll-booths-burn-on-election-eve-as-train-arson-kills-4-post-5559859](https://www.theepochtimes.com/world/bangladesh-poll-booths-burn-on-election-eve-as-train-arson-kills-4-post-5559859)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T04:59:58+00:00
+
+Firefighters try to extinguish a fire caught on a passenger train, ahead of the general election in Dhaka, Bangladesh, on Jan. 5, 2024. (Mohammad Ponir Hossain/Reuters)
+
+## Dominican Judge Orders Conditional Release of Rays Shortstop Wander Franco While Probe Continues
+ - [https://www.theepochtimes.com/world/dominican-judge-orders-conditional-release-of-rays-shortstop-wander-franco-while-probe-continues-5559873](https://www.theepochtimes.com/world/dominican-judge-orders-conditional-release-of-rays-shortstop-wander-franco-while-probe-continues-5559873)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T04:59:54+00:00
+
+Tampa Bay Rays shortstop Wander Franco, center,  is escorted by police to court in Puerto Plata, Dominican Republic, on Jan. 5, 2024. (Ricardo Hernández/AP Photo)
+
+## A Woman in Her 90S Is Rescued Alive 5 Days After Japan’s Deadly Earthquake
+ - [https://www.theepochtimes.com/world/a-woman-in-her-90s-is-rescued-alive-5-days-after-japans-deadly-earthquake-5559843](https://www.theepochtimes.com/world/a-woman-in-her-90s-is-rescued-alive-5-days-after-japans-deadly-earthquake-5559843)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T04:59:31+00:00
+
+Police officers go into a building at the premises of a temple to search for victims in Wajima in the Noto peninsula, facing the Sea of Japan, northwest of Tokyo, on Jan. 6, 2024. (Hiro Komae/AP Photo)
+
+## A Minibus Explodes in Kabul, Killing at Least 2 Civilians and Wounding 14 Others
+ - [https://www.theepochtimes.com/world/a-minibus-explodes-in-kabul-killing-at-least-2-civilians-and-wounding-14-others-5559855](https://www.theepochtimes.com/world/a-minibus-explodes-in-kabul-killing-at-least-2-civilians-and-wounding-14-others-5559855)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T04:58:39+00:00
+
+This is a locator map for Afghanistan with its capital, Kabul. (AP Photo)
+
+## Search for Missing Helicopter Underway Near Revelstoke, BC
+ - [https://www.theepochtimes.com/world/search-for-missing-helicopter-underway-near-revelstoke-bc-5559954](https://www.theepochtimes.com/world/search-for-missing-helicopter-underway-near-revelstoke-bc-5559954)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T02:17:09+00:00
+
+A search and rescue helicopter heads toward a deadly avalanche site in a March 14, 2010 photo near Revelstoke, British Columbia. (The Canadian Press/Jeff McIntosh)
+
+## How Suspicious Voter Numbers Resulted in Violence, Destruction in Serbia
+ - [https://www.theepochtimes.com/opinion/how-suspicious-voter-numbers-resulted-in-violence-destruction-in-serbia-5558819](https://www.theepochtimes.com/opinion/how-suspicious-voter-numbers-resulted-in-violence-destruction-in-serbia-5558819)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T02:14:35+00:00
+
+A voter casts his ballot in a ballot box at a polling station during parliamentary and local elections in Belgrade, Serbia, on Dec. 17, 2023. (Vladimir Zivojinovic/Getty Images)
+
+## Anthony Furey: Media Wire Services Should Remain Unbiased Sources of News
+ - [https://www.theepochtimes.com/opinion/anthony-furey-the-media-bias-problem-now-extends-to-wire-services-5559774](https://www.theepochtimes.com/opinion/anthony-furey-the-media-bias-problem-now-extends-to-wire-services-5559774)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T02:05:56+00:00
+
+A man reads a newspaper while sitting on a park bench in downtown Vancouver in a file photo. (Darryl Dyck/The Canadian Press)
+
+## Mario Zagallo, the World Cup winning player and coach for Brazil, dies at age 92
+ - [https://www.theepochtimes.com/sports/mario-zagallo-the-world-cup-winning-player-and-coach-for-brazil-dies-at-age-92-post-5559846](https://www.theepochtimes.com/sports/mario-zagallo-the-world-cup-winning-player-and-coach-for-brazil-dies-at-age-92-post-5559846)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T01:47:16+00:00
+
+Brazil's soccer star Pele, left, embraces Mario Zagallo after the latter's appointment as coach of the Brazilian national soccer team, in Rio De Janeiro, Brazil, in March 1970. (AP Photo)
+
+## Fifth Death Linked to Residential Fires in Quebec in Two Days
+ - [https://www.theepochtimes.com/world/fifth-death-linked-to-residential-fires-in-quebec-in-two-days-5559950](https://www.theepochtimes.com/world/fifth-death-linked-to-residential-fires-in-quebec-in-two-days-5559950)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T01:46:28+00:00
+
+Quebec provincial police headquarters is seen in Montreal, on  Apr. 17, 2019. (The Canadian Press/Ryan Remiorz)
+
+## 29-Year-Old Woman Found Dead in Quebec Apartment, 32-Year-Old Man Arrested
+ - [https://www.theepochtimes.com/world/29-year-old-woman-found-dead-in-quebec-apartment-32-year-old-man-arrested-5559946](https://www.theepochtimes.com/world/29-year-old-woman-found-dead-in-quebec-apartment-32-year-old-man-arrested-5559946)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T01:39:18+00:00
+
+A Quebec provincial police car is pictured on July 22, 2020 (The Canadian Press/Paul Chiasson)
+
+## Canadian Airlines Say They’re Unaffected by Boeing 737-9 Max Jetliner Incident
+ - [https://www.theepochtimes.com/world/canadian-airlines-say-theyre-unaffected-by-boeing-737-9-max-jetliner-incident-5559943](https://www.theepochtimes.com/world/canadian-airlines-say-theyre-unaffected-by-boeing-737-9-max-jetliner-incident-5559943)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T01:20:38+00:00
+
+The first Alaska Airlines passenger flight on a Boeing 737-9 Max airplane takes off on a flight to San Diego from Seattle-Tacoma International Airport in Seattle, on Mar. 1, 2021. (Ted S. Warren/AP Photo)
+
+## NB Wrongful Convictions: A Story of Undisclosed Evidence, Recanting Witnesses
+ - [https://www.theepochtimes.com/world/nb-wrongful-convictions-a-story-of-undisclosed-evidence-recanting-witnesses-5559934](https://www.theepochtimes.com/world/nb-wrongful-convictions-a-story-of-undisclosed-evidence-recanting-witnesses-5559934)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T00:46:51+00:00
+
+Robert Mailman (L) and Walter Gillespie speak to media as Ron Dalton (R) co-president of Innocence Canada, looks on after their hearing at Saint John Law Courts in Saint John, N.B., on Jan. 4, 2024. (The Canadian Press/Michael Hawkins)
+
+## Fatal New York Bus Crash: Officials Say Most People on Board Were Canadian
+ - [https://www.theepochtimes.com/world/fatal-new-york-bus-crash-officials-say-most-people-on-board-were-canadian-5559928](https://www.theepochtimes.com/world/fatal-new-york-bus-crash-officials-say-most-people-on-board-were-canadian-5559928)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T00:16:05+00:00
+
+This still image from WTEN-TV video shows emergency response personnel at the site of a roll over bus accident on the Adirondack Northway, in the town of Lake George, N.Y., on Jan. 5, 2024. (The Canadian Press/WTEN-TV via AP)
+
+## Major Chinese Media Deletes Yearend Special Featuring Those Who Passed Away in 2023
+ - [https://www.theepochtimes.com/china/major-chinese-media-deletes-yearend-special-featuring-those-who-passed-away-in-2023-post-5559847](https://www.theepochtimes.com/china/major-chinese-media-deletes-yearend-special-featuring-those-who-passed-away-in-2023-post-5559847)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-01-07T00:04:58+00:00
+
+Staffers walk past a billboard at the Caixin Media offices in Beijing on Jan. 18, 2018. (Mark Schiefelbein/AP Photo)
+
