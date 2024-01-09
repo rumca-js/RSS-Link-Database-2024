@@ -1,0 +1,522 @@
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
+
+## Samsung intros a new interface at CES 2024 that turns its TVs into smart home control hubs
+ - [https://www.engadget.com/samsung-has-a-new-interface-that-turns-its-tvs-into-smart-home-control-hubs-232050767.html?src=rss](https://www.engadget.com/samsung-has-a-new-interface-that-turns-its-tvs-into-smart-home-control-hubs-232050767.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T23:20:50+00:00
+
+<p>If your home is filled with Samsung and SmartThings-compatible products, an upcoming feature might simplify your life. At its <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> press conference here in Las Vegas, the company <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL25ld3Muc2Ftc3VuZy5jb20vdXMvc21hcnR0aGluZ3MtY3JlYXRlcy10di1jZW50ZXJlZC1zbWFydC1ob21lLWV4cGVyaWVuY2VzLWZvci11c2Vycy8iLCJjb250ZW50VXVpZCI6IjhjNmQ0MjNjLTM3NDEtNDYwMS1hMzRlLTI1YmI2NDU4NzEwNiJ9&amp;signature=AQAAATjJxVhyZpiek5pb0ZB-AUPFGyOPiXpn6ZzGpMbVuiAc&amp;gcReferrer=https%3A%2F%2Fnews.samsung.com%2Fus%2Fsmartthings-creates-tv-centered-smart-home-experiences-for-users%2F">unveiled a new service </a>called Now+ that incorporates smart home controls into the TV's interface. With this, not onl
+
+## Alienware m16 R2 hands-on: A sleeker gaming laptop design for CES 2024
+ - [https://www.engadget.com/alienware-m16-r2-hands-on-a-sleeker-gaming-laptop-design-for-ces-2024-230059369.html?src=rss](https://www.engadget.com/alienware-m16-r2-hands-on-a-sleeker-gaming-laptop-design-for-ces-2024-230059369.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T23:00:59+00:00
+
+<p>Despite launching an <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=b1bb23c9-a2d4-4e4e-bfac-7a560ebe7641&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Dell&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5kZWxsLmNvbS9lbi11cy9zaG9wL2N0eS9wZHAvc3BkL2FsaWVud2FyZS1tMTYtcjEtbGFwdG9wIiwiY29udGVudFV1aWQiOiIzZDM5MGYxZi0zMzE5LTQ5ZTktODhjMC03MDIxN2VhZGM1YmYifQ&amp;signature=AQAAAXd4LC-6vAJT4g36ns98HXAjDKRzsrneZX4yfqzFVpyN&amp;gcReferrer=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fcty%2Fpdp%2Fspd%2Falienware-m16-r1-laptop">all-new version of the m16 last year</a>, Alienware has completely redesigned its mainstream 16-inch gaming laptop again for 2024 to address customer feedback while optimizing performance for the most popular configs. I got to check out the new m16 R2 ahead of <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html"
+
+## Lenovo Yoga Pro 9i and Yoga 9i 2-in-1 now have have AI chips and a generative art suite
+ - [https://www.engadget.com/lenovo-yoga-pro-9i-and-yoga-9i-2-in-1-now-have-have-ai-chips-and-a-generative-art-suite-230059936.html?src=rss](https://www.engadget.com/lenovo-yoga-pro-9i-and-yoga-9i-2-in-1-now-have-have-ai-chips-and-a-generative-art-suite-230059936.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T23:00:59+00:00
+
+<p>Lenovo’s updated consumer laptop lineup at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> is (unsurprisingly) focused on AI. The company unveiled an array of Yoga and Ideapad notebooks on Monday in Las Vegas, including new versions of the <a href="https://www.engadget.com/lenovos-new-slim-pro-9i-laptop-includes-a-mini-led-display-and-rtx-4070-graphics-130025162.html">Yoga Pro 9i</a> and <a href="https://www.engadget.com/lenovo-yoga-9-i-review-possibly-2022-s-best-2-in-1-specs-price-133006813.html">Yoga 9i 2-in-1</a>.</p>
+<p>The 2024 Yoga Pro 9i and Yoga 9i 2-in-1 still have a military-spec rating (MIL-STD-810H) for durability. Both get a spec bump to <a href="https://www.engadget.com/intel-unveils-core-ultra-its-first-chips-with-npus-for-ai-work-150021289.html">the latest Intel Core Ultra “Meteor Lake” processors</a> — up to Intel Core Ultra 5 / 7/ 9 H Series in the Pro 9i and up to Intel Evo Edition powered by Core Ultra 7 
+
+## The Lenovo ThinkBook Plus Gen 5 is the funkiest gadget mashup at CES 2024
+ - [https://www.engadget.com/the-lenovo-thinkbook-plus-gen-5-is-the-funkiest-gadget-mashup-at-ces-2024-230059087.html?src=rss](https://www.engadget.com/the-lenovo-thinkbook-plus-gen-5-is-the-funkiest-gadget-mashup-at-ces-2024-230059087.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T23:00:59+00:00
+
+<p>Typically a 2-in-1 is something that can transform into multiple modes (e.g., a notebook that converts to tablet or vice versa). But with the ThinkBook Plus Gen 5 hybrid, Lenovo smashed two gadgets together to create one of the funkiest and most interesting laptops we've seen here at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> in Las Vegas.</p>
+<p>At first glance, the ThinkBook Plus looks like an ordinary clamshell. However, if you pull up on the display, it lifts right off and becomes a 14-inch tablet while the bottom contains everything needed to power a traditional Windows PC (well, aside from a screen). From there, you can use the tablet as a standalone Android device, a wireless monitor for the laptop base, or a Wacom-like inking display via Lenovo’s Freestyle app. Meanwhile, you can use ThinkBook’s deck as a mini desktop just by plugging in an external screen.</p>
+<span id="end-legacy-contents"></span><p>The number 
+
+## Alienware teases a 32-inch 4K QD-OLED gaming monitor at CES
+ - [https://www.engadget.com/alienware-teases-a-32-inch-4k-qd-oled-gaming-monitor-at-ces-230045701.html?src=rss](https://www.engadget.com/alienware-teases-a-32-inch-4k-qd-oled-gaming-monitor-at-ces-230045701.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T23:00:45+00:00
+
+<p>Alienware is following up its <a href="https://www.engadget.com/alienware-34-curved-qd-oled-gaming-monitor-2022-162001604.html">34-inch ultrawide QD-OLED display</a> with a pair of upgraded models that promise to deliver enhanced in-game visuals: 4K QD-OLED and 360Hz QD-OLED monitors. The company unveiled them at CES 2024 in Las Vegas, and is touting each as a “world’s first” in some regard.&nbsp;</p>
+<p>First up, there’s the Alienware 32 4K QD-OLED (AW3225QF), which the company calls the “world’s first 4K QD-OLED gaming monitor.” This display has Dolby Vision HDR, a curved panel and a peak luminance up to 1000 nits. The AW3225QF also boasts a 240Hz native refresh rate, a 0.03ms gray-to-gray response time and NVIDIA G-Sync compatibility.</p>
+<span id="end-legacy-contents"></span><p>You can expect inky dark black levels and lots of color coverage. In fact, Alienware promises blacks that are 10 times darker than a standard picture. It also claims you’ll have access to “colors never 
+
+## The Acer Predator Helios 18 has the most mesmerizing hinge on a laptop at CES 2024
+ - [https://www.engadget.com/the-acer-predator-helios-18-has-the-most-mesmerizing-hinge-on-a-laptop-at-ces-2024-230045775.html?src=rss](https://www.engadget.com/the-acer-predator-helios-18-has-the-most-mesmerizing-hinge-on-a-laptop-at-ces-2024-230045775.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T23:00:45+00:00
+
+<p>Without a new generation of NVIDIA GPUs to accommodate, this year at <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a> in Las Vegas, laptop manufacturers have been forced to come up with other ways of getting attention. Some OEMs have opted for complete redesigns while others have introduced smaller (and super light) versions of existing models. But on the 2024 Predator Helios 18, Acer has opted for the flashiest method yet, featuring a captivating new hinge along with updated specs.</p>
+<p>Compared to last year’s model, the outside of the Helios 18 doesn’t look that much different. It features a familiar matte black chassis and, at 7.17 pounds and 1.14 inches thick, it’s about the same size and weight as well. But then you get to the back where its new hinge is waiting to dazzle you with a seemingly endless series of RGB lights to gawk at. It’s a cool effect that Acer has dubbed the Infinity Mirror lighting bar, and whil
+
+## Razer’s Blade laptop lineup shines bright with stunning screens at CES 2024
+ - [https://www.engadget.com/razers-blade-laptop-lineup-shines-bright-with-stunning-screens-at-ces-2024-230044688.html?src=rss](https://www.engadget.com/razers-blade-laptop-lineup-shines-bright-with-stunning-screens-at-ces-2024-230044688.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T23:00:44+00:00
+
+<p>Razer was so proud of the screens on its updated Blade laptops it announced some details a <a href="https://www.engadget.com/razers-2024-blade-16-laptop-will-have-a-240hz-oled-display-172153672.html"><ins>week before CES.</ins></a> Now that I’ve seen them, I can say they look even better in person.</p>
+<p>The big upgrade for the Blade 16 is without a doubt its screen, which Razer says is the world’s first 16-inch 240Hz OLED display. The impressive thing is that, even when compared to the Blade 14 and Blade 18’s panels which both look great, the one on the 16 just pops a little bit more. Colors look rich and it covers 100 percent of DCI-P3 color gamut, plus its response time of just 0.2ms is super fast. You also get VESA ClearMR 11000 and DisplayHDR True Black 500 certifications. And while its QHD+ resolution isn’t quite 4K, you can always opt for the dual mode mini LED screen Razer <a href="https://www.engadget.com/razer-blade-16-and-blade-18-hands-on-all-out-mobile-powerhouses-ce
+
+## Shokz debuts its OpenSwim Pro bone conduction waterproof headphones at CES 2024
+ - [https://www.engadget.com/shokz-debuts-its-openswim-pro-bone-conduction-waterproof-headphones-at-ces-2024-230036513.html?src=rss](https://www.engadget.com/shokz-debuts-its-openswim-pro-bone-conduction-waterproof-headphones-at-ces-2024-230036513.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T23:00:36+00:00
+
+<p><a href="http://www.shokz.com/">Shokz</a> has making Bluetooth bone conduction headsets for years, including a personal favorite: the <a href="https://www.engadget.com/aftershokz-shokz-openrun-pro-bone-conduction-headphones-bass-030031419.html">OpenRun Pro</a>. However, you may have overlooked one of company's more niche variants. In 2019 the company launched a model called <a href="https://www.engadget.com/2019-01-07-aftershokz-xtrainerz-optishokz-revvez-bone-conduction-sunglasses.html">Xtrainerz</a>, a bone conduction headset with an IP68 waterproof rating, 4GB of onboard storage and no Bluetooth. This was pitched as an all around training headset with a focus on swimmers. Recently it was renamed OpenSwim, but today at <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a> in Las Vegas the company has announced its improved successor, the OpenSwim Pro waterproof headphones.</p>
+<p>As with many products being announced at CES
+
+## Lenovo announces new gaming laptops at CES that feature proprietary cooling tech and performance-enhancing AI chips
+ - [https://www.engadget.com/lenovo-announces-new-gaming-laptops-at-ces-that-feature-proprietary-cooling-tech-and-performance-enhancing-ai-chips-230035119.html?src=rss](https://www.engadget.com/lenovo-announces-new-gaming-laptops-at-ces-that-feature-proprietary-cooling-tech-and-performance-enhancing-ai-chips-230035119.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T23:00:35+00:00
+
+<p>Lenovo just announced a handful of new gaming laptops at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> in Las Vegas. Each of these computers features the company’s proprietary Legion Coldfront: Hyper cooling technology that keeps temperatures low while making sure the fans don’t get too loud. They're also packed with AI chips for improved speed and performance. These laptops ship with Windows 11 and come with three free months of <a href="https://www.engadget.com/microsoft-game-pass-comments-phil-spencer-214044898.html">Xbox Game Pass Ultimate.</a></p>
+<p>The Lenovo Legion 9i is the flagship model with the most features and the highest asking price. This is a refresh of the <a href="https://www.engadget.com/lenovo-announces-its-first-16-inch-legion-gaming-laptop-040004058.html">similarly named laptop</a> that was released back in September, but this one packs a 14th-gen Intel CoreTM Gen i9-14900HX CPU and up to the NVIDIA G
+
+## MSI is going big with three new 18-inch gaming laptops at CES 2024
+ - [https://www.engadget.com/msi-is-going-big-with-three-new-18-inch-gaming-laptops-at-ces-2024-230028061.html?src=rss](https://www.engadget.com/msi-is-going-big-with-three-new-18-inch-gaming-laptops-at-ces-2024-230028061.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T23:00:28+00:00
+
+<p>CES often sets the tone for all of a manufacturer’s products that year. And apparently the theme for <a href="https://us.msi.com/">MSI</a> in 2024 is “big.” It’s kicking things with three new 18-inch gaming laptops at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>, plus one of the best-looking budget systems around.</p>
+<p>As usual, MSI’s roster of gaming notebooks is headlined by the Titan series, in this case the Titan 18 HX. For those familiar with the previous generations, you may notice a lack of a two-letter tag in front of the system’s names (e.g., GT, GE, et cetera), a move MSI is making across all of its laptops to simplify its naming scheme.</p>
+<span id="end-legacy-contents"></span><p>In addition to a revamped design based on a new magnesium alloy chassis, the Titan 18 HX is crammed full of the most powerful components you can fit in a laptop including up to a 14th-gen Intel Core i9-14900HX chip, RTX 4090 GPU, 128
+
+## Intel reveals its full 14th-gen CPU family at CES, including a powerful 24-core laptop chip
+ - [https://www.engadget.com/intel-14th-gen-hx-cpu-launch-230005176.html?src=rss](https://www.engadget.com/intel-14th-gen-hx-cpu-launch-230005176.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T23:00:05+00:00
+
+<p>While Intel is leaning heavily on AI PCs with its <a href="https://www.engadget.com/intel-unveils-core-ultra-its-first-chips-with-npus-for-ai-work-150021289.html">Core Ultra notebook chips</a>, it still has plenty of new products for gamers and speed demons who demand power above all. At <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> in Las Vegas, Intel revealed its complete 14th-generation CPU family, which includes powerful "HX" series chips like the 24-core i9-14900HX, as well as new mainstream desktop CPUs. And for the other end of the power spectrum, Intel also unveiled the Core U Processor Series 1, which balances performance and efficiency in thin and light notebooks.</p>
+<p>Sure, it's confusing to see Intel juggle two completely different laptop chip platforms — its Core Ultra chips and 14th-gen hardware — but they each serve a different purpose. (And really, it's not too different from Intel's typical split between 
+
+## Samsung's Ballie robot ball showed up at CES 2024 with a new look and a built-in projector
+ - [https://www.engadget.com/samsungs-ballie-robot-ball-showed-up-at-ces-2024-with-a-new-look-and-a-built-in-projector-224231693.html?src=rss](https://www.engadget.com/samsungs-ballie-robot-ball-showed-up-at-ces-2024-with-a-new-look-and-a-built-in-projector-224231693.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T22:42:31+00:00
+
+<p>It wouldn't be CES without Samsung showing off a <a href="https://www.engadget.com/2020-01-06-samsung-robot-ballie-smart-home.html">strange and strangely lovable robot</a>, and this year is the same. At its CES 2024 press conference today, the company showed off a robot named Ballie that has a projector built in. Interestingly, though, according to <a href="https://www.washingtonpost.com/technology/2024/01/08/samsung-ballie-home-robot-projector/">a report from <em>The Washington Post</em></a>, Samsung said the robotic sphere will actually available for sale within the year.</p>
+<p>We first saw an early iteration of Ballie in 2020, when Samsung brought the device onstage, with an executive cupping the oversized tennis ball-like gadget in their hands. When it was introduced back then, Ballie was touted as a household assistant and <a href="https://twitter.com/SamsungNewsUS/status/1214380668785872898">potential fitness assistant</a>, with <a href="https://twitter.com/SamsungNewsUS/st
+
+## Philips' smart deadbolt will unlock a door by looking at your palm
+ - [https://www.engadget.com/philips-smart-deadbolt-will-unlock-a-door-by-looking-at-your-palm-224040003.html?src=rss](https://www.engadget.com/philips-smart-deadbolt-will-unlock-a-door-by-looking-at-your-palm-224040003.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T22:40:40+00:00
+
+<p>At <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html"><ins>CES 2024 this week</ins></a>, <a href="https://www.engadget.com/philips-hue-gets-into-home-surveillance-with-its-new-secure-cameras-063036218.html"><ins>Philips</ins></a> teased its first-ever smart deadbolt that works using a touch-free palm reading system that allows homeowners to unlock their front doors. The Philips 5000 Series Wi-Fi Palm Recognition Smart Deadbolt, will go on sale in the US early this year and will retail for $360.</p>
+<p>The deadbolt will join the Philips home security smart lock product lineup and will integrate with the Phillips Home Access app where users can remotely control the lock system through  <br />smart home assistants like Amazon Alexa or Google Assistant. It’ll also have built-in Wi-Fi that makes it easier to pair and link to other smart devices.</p>
+<span id="end-legacy-contents"></span><p>The system works by automatically detecting unique palm v
+
+## Mophie resurrects the Juice Pack for the iPhone 15 series
+ - [https://www.engadget.com/mophie-resurrects-the-juice-pack-for-the-iphone-15-series-220713020.html?src=rss](https://www.engadget.com/mophie-resurrects-the-juice-pack-for-the-iphone-15-series-220713020.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T22:07:13+00:00
+
+<p>Mophie’s Juice Pack, once <a href="https://www.engadget.com/2016-05-31-mophie-brings-wireless-charging-to-new-iphone-battery-cases.html">practically synonymous with smartphone battery cases</a>, is making a comeback at <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a>. With Apple having discontinued its <a href="https://www.engadget.com/apple-iphone-12-magsafe-battery-pack-175601349.html">MagSafe Battery Pack</a> as part of its purge of Lightning accessories, the <a href="https://www.engadget.com/2016-02-02-zagg-buys-battery-phone-case-maker-mophie-for-100-million.html">Zagg-owned</a> Mophie has seized the moment to reintroduce the Juice Pack for the first time in five years. The new version of the battery case is designed for the <a href="https://www.engadget.com/apple-iphone-15-review-the-most-substantial-update-to-the-regular-iphone-in-years-173204712.html">iPhone 15</a> series (with the notable exception of the 15 Plu
+
+## Sennheiser Accentum Plus headphones swap buttons for swipe touch controls, but keep the 50-hour battery life
+ - [https://www.engadget.com/sennheiser-accentum-plus-headphones-swap-buttons-for-swipe-touch-controls-but-keep-the-50-hour-battery-life-213043463.html?src=rss](https://www.engadget.com/sennheiser-accentum-plus-headphones-swap-buttons-for-swipe-touch-controls-but-keep-the-50-hour-battery-life-213043463.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T21:37:22+00:00
+
+<p>Sennheiser just introduced its more affordable <a href="https://www.engadget.com/sennheiser-accentum-wireless-headphones-offer-50-hour-battery-life-for-180-220058335.html">Accentum</a> noise-canceling headphones in September, aiming to offer some of the best parts of its pricier Momentum cans at a lower price. At <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a>, the company is already adding a second Accentum model, the Accentum Plus, that carries much of what made last year's installment an attractive alternative to flagship headphones. Sennheiser has spilled all of the details in Las Vegas, and thankfully, the 50-hour battery life remains from the previous version.&nbsp;</p>
+<p>While the design is still inspired by the Momentum line, the key difference on the Accentum Plus is the addition of touch controls. Gone are some of the physical buttons that adorned the 2023 model, for better or worse depending on your preferen
+
+## Sennheiser Momentum Sport earbuds bring heart rate and body temp sensors to your workout
+ - [https://www.engadget.com/sennheiser-momentum-sport-earbuds-bring-heart-rate-and-body-temp-sensors-to-your-workout-213047758.html?src=rss](https://www.engadget.com/sennheiser-momentum-sport-earbuds-bring-heart-rate-and-body-temp-sensors-to-your-workout-213047758.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T21:30:47+00:00
+
+<p>There are earbuds aplenty at <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a> and today Sennheiser revealed its two latest models in Las Vegas. The company has updated its flagship Momentum line with a new premium model, the Momentum True Wireless 4, while also debuting its first tech-filled set of fitness earbuds in the Momentum Sport. Both sit at the top end of the company's lineup and will cost you $300 or more when they arrive later this year.&nbsp;</p>
+<p>Sennheiser says it took over three years of work to build the Momentum Sport, combining fitness tech with its trademark sound quality. Inside, a photoplethysmography (PPG) heart rate sensor and a body temperature sensor can send workout biometrics to apps like Apple Health, Garmin Connect, Strava, Peloton and Polar Flow. The earbuds only send body temp info to that last app though. Sennheiser says the Momentum Sport marks the first time ever that a non-Polar produc
+
+## ViXion01 glasses reduce eyestrain by doing the focusing for you
+ - [https://www.engadget.com/vixion01-glasses-reduce-eyestrain-by-doing-the-focusing-for-you-205106281.html?src=rss](https://www.engadget.com/vixion01-glasses-reduce-eyestrain-by-doing-the-focusing-for-you-205106281.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T20:51:06+00:00
+
+<p>CES is the type of show where one is likely to come across all sorts of dorky, Geordi La Forge-esque smart glasses, but some do manage to include some practical features — like ViXion's auto-focus eyewear. The company, which is a spin-off of Japanese optics specialist Hoya, showed off its the <a href="https://vixion.jp/en/vixion01/">ViXion01</a>, at CES Unveiled 2024, and it's aimed at people who struggle to focus their eyes due to strain, old age or the time of day. After a quick demo, I could also see myself benefitting from it on a daily basis. I even dig the futuristic look on these glasses, which are the work of Japanese design firm, <a href="https://www.engadget.com/tag/nendo/">Nendo</a>.</p>
+<p>At the heart of the ViXion01 is its front-facing ToF (time of flight) sensor, which lets it measure the distance of your target object and quickly adjust its lenses on the go. The basic concept is similar to a <a href="https://www.engadget.com/2017-01-30-electronic-glasses-auto-focus
+
+## Watch LG's CES 2024 keynote in 10 minutes
+ - [https://www.engadget.com/watch-lgs-ces-2024-keynote-in-10-minutes-194905188.html?src=rss](https://www.engadget.com/watch-lgs-ces-2024-keynote-in-10-minutes-194905188.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T19:49:05+00:00
+
+<p>LG has been trickling in news about its latest product drops at CES this year, with some first-of-its-kind headliners including its <a href="https://www.engadget.com/lg-brought-the-worlds-first-wireless-transparent-oled-tv-to-ces-2024-071151174.html"><ins>wireless transparent OLED TV</ins></a>, an ultra <a href="https://www.engadget.com/lg-is-bringing-a-4k-projector-with-a-weird-handle-to-ces-2024-163420538.html"><ins>portable 4K projector</ins></a> and a friendly looking <a href="https://www.engadget.com/lg-developed-a-two-legged-ai-powered-robot-that-can-watch-your-pets-for-you-192034931.html"><ins>two-legged robot</ins></a> that can roam your house and watch your pets.</p>
+<p>The 77-inch signature OLED T has turned heads with its unique &quot;transparent&quot; look and wireless audio and video capabilities. It's also powered by a processor that improves overall display performance and visuals by 70 percent compared to the precious gen chip, according to LG. Its OLED TV lineup i
+
+## Watch NVIDIA's CES 2024 keynote in 10 minutes
+ - [https://www.engadget.com/watch-nvidias-ces-2024-keynote-in-10-minutes-192533238.html?src=rss](https://www.engadget.com/watch-nvidias-ces-2024-keynote-in-10-minutes-192533238.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T19:25:33+00:00
+
+<p><a href="https://www.engadget.com/tag/nvidia/">NVIDIA</a> was one of the first big names to hold a keynote at CES 2024. If you don't have time to watch the full video but still want to find out how NVIDIA revealed its news, you can watch our supercut, which boils the event down to just under 10 minutes.</p>
+<p>As expected, the company <a href="https://www.engadget.com/nvidia-reveals-rtx-40-super-gpus-at-ces-2024-163041585.html">refreshed its lineup of graphics cards</a> with RTX 40 Super GPUs that are slated to deliver performance boosts at lower prices. The RTX 4080 Super ($999) and RTX 4070 Ti Super ($799) are set to go on sale later this month and are said to be faster than their predecessors.</p>
+<span id="end-legacy-contents"></span><p>NVIDIA hasn't divulged the full specs of the latest GPUs yet, but the RTX 4070 Ti Super will have 16GB of memory, compared with the previous model's 12GB. With DLSS enabled, the 4080 Super is said to deliver twice the performance of the 3080 Ti
+
+## Peregrine spacecraft experiences ‘anomaly’ that could threaten moon landing
+ - [https://www.engadget.com/peregrine-spacecraft-experiences-anomaly-that-could-threaten-moon-landing-191221991.html?src=rss](https://www.engadget.com/peregrine-spacecraft-experiences-anomaly-that-could-threaten-moon-landing-191221991.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T19:12:21+00:00
+
+<p>The Peregrine spacecraft has experienced an ‘anomaly’ that could endanger its planned moon landing, <a href="https://www.bbc.com/news/science-environment-67915696?at_medium=RSS&amp;at_campaign=KARANGA"><ins>as reported by the </ins><em><ins>BBC.</ins></em></a><em>&nbsp;</em>Astrobotic, the private company behind the project, says this anomaly prevents the spacecraft from pointing its solar panels at the sun. In other words, the vehicle can’t charge its battery. Without power, the planned lunar landing for February might have to be canceled.</p>
+<p>Astrobotic engineers are working the problem and will provide updates as they become available. The launch itself <a href="https://twitter.com/NASA/status/1744285355392598021"><ins>went off without a hitch</ins></a> early this morning, as the issue popped up during post-launch checks after communications had been established. The team behind the launch suggest the most likely cause of the anomaly is a problem with propulsion. Unfortunate
+
+## TCL came to CES 2024 with a 115-inch MiniLED Quantum Dot TV
+ - [https://www.engadget.com/tcl-came-to-ces-2024-with-a-115-inch-miniled-quantum-dot-tv-190047876.html?src=rss](https://www.engadget.com/tcl-came-to-ces-2024-with-a-115-inch-miniled-quantum-dot-tv-190047876.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T19:00:47+00:00
+
+<p>Until now, TCL has perhaps been best known not for the quality of its TVs, but <a href="https://www.engadget.com/best-budget-home-entertainment-streaming-devices-cheap-tvs-for-students-123020749.html">its reasonable prices</a>. This week at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>, however, the company seems like it’s trying to reintroduce itself as the sort of premium player that can could compete with the likes of Samsung, LG and Sony. The brand just debuted a new 115-inch set <a href="https://www.engadget.com/how-to-watch-tcl-unveil-its-latest-devices-at-ces-2024-190011437.html">at its CES press conference</a>, the 115QM89, which it claims is the largest MiniLED TV with Quantum Dot technology.</p>
+<p>The TV is an offshoot from TCL’s broader QM8 line, which includes premium TVs in the 65- to 98-inch range. The new set brings over some features from TCL’s previous QM8 TVs, but it adds a 6.2.2 channel speaker system th
+
+## TCL's NXTPAPER 14 Pro is somewhere between a tablet and a giant e-reader
+ - [https://www.engadget.com/tcls-nxtpaper-14-pro-is-somewhere-between-a-tablet-and-a-giant-e-reader-190047895.html?src=rss](https://www.engadget.com/tcls-nxtpaper-14-pro-is-somewhere-between-a-tablet-and-a-giant-e-reader-190047895.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T19:00:47+00:00
+
+<p>TCL is going for <em>different</em> with its new pro tablet, revealed at CES 2024. There aren’t that many premium tablets beyond the annual updates from Apple and Samsung, and TCL plans to make its new 14- and 10-inch slates stand out with their display tech, featuring its next-gen NXTPAPER 3.0. It's aimed at striking a middle-ground between e-readers and tablets. It’s not about them being sharper or faster, but gentler on our very human eyes.</p>
+<p>The TCL NXTPAPER 14 Pro’s display features heavily focus on eye comfort, with a new VersaView interface that can switch between a black-and-white reader mode and the standard tablet views. The 14-inch 2.8K display (2,880 x 1,800) features the company’s new NXTPAPER 3.0, aimed at better reflecting, literally, how the human eye reads natural paper, but on a digital display. NXTPAPER is TCL’s display tech that tries to offer a tablet experience with a paper-like reading surface. We’ve written about earlier iterations found in devices lik
+
+## Watch the AMD keynote from CES 2024 in 7 minutes
+ - [https://www.engadget.com/watch-amds-ces-2024-keynote-in-7-minutes-185209130.html?src=rss](https://www.engadget.com/watch-amds-ces-2024-keynote-in-7-minutes-185209130.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T18:52:09+00:00
+
+<p>AMD gave the first big keynote of <a href="https://www.engadget.com/how-to-watch-sonys-ces-2024-press-conference-220051103.html">many</a> <a href="https://www.engadget.com/how-to-watch-samsungs-ces-2024-press-conference-focused-on-ai-for-all-190053615.html">to</a> <a href="https://www.engadget.com/how-to-watch-the-panasonic-ces-2024-press-conference-180058304.html">come</a> for <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> and revealed a couple of interesting products arriving this year. Chief among those is the <a href="https://www.engadget.com/amd-debuts-the-radeon-rx-7600-xt-at-ces-for-entry-level-1440p-gaming-153023517.html">$329 Radeon RX 7600 XT GPU</a> designed for entry-level gaming, going on sale on January 24th. The main takeaway is that it's designed for 1440p gaming and should be a solidly more capable GPU than the RX 7600, though we didn't see any benchmarks against its main rival, NVIDIA's RTX 4060 8GB.&nbsp;<
+
+## How to watch Honda unveil its new EV series at CES 2024
+ - [https://www.engadget.com/how-to-watch-honda-unveil-its-new-ev-series-at-ces-2024-183012049.html?src=rss](https://www.engadget.com/how-to-watch-honda-unveil-its-new-ev-series-at-ces-2024-183012049.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T18:30:12+00:00
+
+<p>For some companies, <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a> has started in earnest which means we'll soon get to see major car manufacturers show off what they've been working on. One of those is Honda, with its <a href="https://www.youtube.com/watch?v=jYdfi_zkQDQ">event live streaming on YouTube</a> on June 9 at 1:30PM ET and features Honda's global CEO and EVP Toshihiro Mibe and Shinji Aoyama, respectively.</p>
+<p><strong>What we expect</strong></p>
+<span id="end-legacy-contents"></span><p>Honda announced back in December that its <a href="https://www.engadget.com/honda-will-reveal-a-new-ev-series-at-ces-2024-182012834.html">new EV series would make its worldwide debut at CES 2024</a>. "Honda will showcase the global EV series models and several key technologies that illustrate the significant transformation Honda is currently undergoing," the <a href="https://hondanews.com/en-US/honda-corporate/releases/relea
+
+## NVIDIA is bringing day passes and G-Sync to GeForce Now
+ - [https://www.engadget.com/nvidia-is-bringing-day-passes-and-g-sync-to-geforce-now-182518914.html?src=rss](https://www.engadget.com/nvidia-is-bringing-day-passes-and-g-sync-to-geforce-now-182518914.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T18:25:18+00:00
+
+<p><a href="https://www.engadget.com/tag/nvidia/">NVIDIA</a> had more news up its sleeve at CES 2024 beyond <a href="https://www.engadget.com/nvidia-reveals-rtx-40-super-gpus-at-ces-2024-163041585.html">a slew of new GPUs</a>. The company <a href="https://blogs.nvidia.com/blog/ces-2024-geforce-now-activision-blizzard-day-passes-g-sync/">announced</a> a bunch of updates for its GeForce Now cloud gaming service, including the addition of <a href="https://www.engadget.com/tag/g-sync/">G-Sync tech</a> and day passes for its paid subscriptions.</p>
+<p>Cloud G-Sync support, which is coming soon, will work on displays with variable refresh rates as well as monitors that are compatible with G-Sync. GeForce Now will adjust the display’s refresh rate to match the streaming rate, in the aim of minimizing latency and stutter to deliver smoother gameplay.</p>
+<span id="end-legacy-contents"></span><p>If you're an Ultimate subscriber, you'll also have access to increased NVIDIA Reflex support on ce
+
+## The Morning After: CES 2024 kicks off with transparent displays from Samsung and LG
+ - [https://www.engadget.com/the-morning-after-ces-2024-kicks-off-with-transparent-displays-from-samsung-and-lg-182001128.html?src=rss](https://www.engadget.com/the-morning-after-ces-2024-kicks-off-with-transparent-displays-from-samsung-and-lg-182001128.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T18:20:01+00:00
+
+<p>Viva Las Vegas! I am contractually obliged to write that in at least one of our posts at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>. So I’m getting it out of the way early. This year, LG and Samsung brought out the big guns, both revealing similar (but technically very different) transparent displays for assembled media and analysts to gaze at and wonder… <em>why</em>.</p>
+<p>I’m being cynical, of course. LG, first of all, revealed a <a href="https://www.engadget.com/lg-brought-the-worlds-first-wireless-transparent-oled-tv-to-ces-2024-071151174.html">wireless transparent OLED</a>. The 77-inch OLED T also taps into the company’s work in wireless transmission technology, reducing wiring needs to power alone. To ensure the display still offers black-enough blacks, a contrast screen rolls down into a box at the base of the OLED T.</p>
+<p>A few hours later, Samsung revealed its <a href="https://www.engadget.com/samsung-debuts
+
+## Waymo's driveless cars are hitting Phoenix's freeways at long last
+ - [https://www.engadget.com/waymos-driveless-cars-are-hitting-phoenixs-freeways-at-long-last-180009825.html?src=rss](https://www.engadget.com/waymos-driveless-cars-are-hitting-phoenixs-freeways-at-long-last-180009825.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T18:00:09+00:00
+
+<p>Waymo just announced it’s ready to start <a href="https://waymo.com/blog/2024/01/from-surface-streets-to-freeways-safely.html"><ins>testing driverless vehicles on highways and freeways.</ins></a> The experiments start in and around Phoenix in the next few weeks and include the autonomous Jaguar I-Pace SUV. The company <a href="https://www.engadget.com/uber-starts-offering-fully-autonomous-waymo-rides-in-phoenix-153055331.html"><ins>had already partnered with Uber</ins></a> to offer driverless taxis throughout the city, but the vehicles were restricted to city streets at low speeds. Now, these robo-taxis will be careening down the highway, bringing us one step closer to a world where we won’t have to sully ourselves with the task of driving.</p>
+<p>Unlike the Waymo One service, which is available to regular customers, these autonomous highway tests will only be available to company employees and their guests. This will change when the vehicles have been on the road for a while with
+
+## Exobrew is the latest machine trying to make homebrewing beer beginner friendly
+ - [https://www.engadget.com/exobrew-is-the-latest-machine-trying-to-make-homebrewing-beer-beginner-friendly-174055765.html?src=rss](https://www.engadget.com/exobrew-is-the-latest-machine-trying-to-make-homebrewing-beer-beginner-friendly-174055765.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T17:40:55+00:00
+
+<p><a href="https://www.exobrew.com/">Exobrew</a> is latest in a long line of companies to try and make homebrew beer as compact and beginner friendly as possible. Everyone from startups like <a href="https://www.engadget.com/2018-03-01-picobrew-pico-c-review.html">Picobrew</a> and <a href="https://www.engadget.com/2018-03-01-brewie-plus-automated-homebrew-machine.html">Brewie</a>, to major corporations like <a href="https://www.engadget.com/2018-12-11-lgs-homebrew-craft-beer-system-ces-2019.html">LG</a> and <a href="https://www.engadget.com/2016-05-31-whirlpool-vessi-homebrew-beer-fermentor-tap.html">Whirlpool</a> have taken a stab at an all-in-one brewing systems with varying amounts of success (or <a href="https://www.engadget.com/picobrew-going-out-of-business-120554019.html">lack there of</a>).  On the surface the Exobrew doesn't seem to stray too far from those who have gone before it, other than the eye-catching keg in a lovely shade of orange.</p>
+<p>That keg is the heart of 
+
+## Anker power banks and charging gear are up to 43 percent off right now
+ - [https://www.engadget.com/anker-power-banks-and-charging-gear-are-up-to-43-percent-off-right-now-171544198.html?src=rss](https://www.engadget.com/anker-power-banks-and-charging-gear-are-up-to-43-percent-off-right-now-171544198.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T17:15:44+00:00
+
+<p>Team Engadget is on the ground at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> to bring you all the biggest (and strangest) tech news from Las Vegas this week. To help make that happen, our editors and reporters need to keep their phone and laptop batteries topped up, and that's where power banks come in. While you might not be running around the showfloor at a convention center, you may need to juice up your devices while you're on the go too. As such, there's some good news for you, since many of Anker's <a href="https://www.engadget.com/best-power-bank-143048526.html"><ins>power banks</ins></a> and charging accessories are <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d
+
+## Mojawa put an AI running coach in its bone-conducting headphones
+ - [https://www.engadget.com/mojawa-put-an-ai-running-coach-in-its-bone-conducting-headphones-170054566.html?src=rss](https://www.engadget.com/mojawa-put-an-ai-running-coach-in-its-bone-conducting-headphones-170054566.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T17:00:54+00:00
+
+<p>Mojawa, maker of bone-conduction headphones, has turned up to <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a> in Las Vegas with its new HaptiFit Terra. Unlike many other bone-conduction bands, it comes with a built-in AI sports trainer that, the company promises, will help you meet your goals. The AI can cook up custom exercise plans and tracks your heart rate, step count, pace, calories burned and distance. If you’re a swimmer, it’ll also monitor your swimming lap and distance, offering haptic feedback to keep you aware of how you’re doing.</p>
+<p>HaptiFit Terra boasts clear, dynamic sound with magnetically-levitated bass with an elegant design. The band also packs glowing lights that’ll glow when you’re running the darkness and warn you if your heart rate gets too high. And the haptic guidance will buzz you to let you know how you’re doing and also offer 3D pressure-sensitive controls for fine-grain control on the go.
+
+## Victrola's latest streaming turntable, the Stream Sapphire, costs an eye-popping $1,499
+ - [https://www.engadget.com/victrolas-latest-streaming-turntable-the-stream-sapphire-costs-an-eye-popping-1499-170037014.html?src=rss](https://www.engadget.com/victrolas-latest-streaming-turntable-the-stream-sapphire-costs-an-eye-popping-1499-170037014.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T17:00:37+00:00
+
+<p>Victrola has made a somewhat surprising move into high-end, streaming-capable turntables over the last few years, and it's showing off the latest in the lineup at <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a>. The Victrola Stream Sapphire is a $1,499 turntable with "premium" components and materials that can connect to Sonos and Roon streaming systems and also supports the Universal Plug and Play protocol (UPnP). It can also output up to 24-bit/48kHz lossless FLAC audio.&nbsp;</p>
+<p>Getting beyond the jargon, this means that the Stream Sapphire can output your vinyl to a Sonos system once it's set up on the same network as your Sonos speakers. I've tried this with the Stream Carbon turntable from 2022 and it works pretty seamlessly and is easy to set up, so I wager the Sapphire will be similarly straightforward.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>As for Roon, it's a <a class="no-affiliate-link" href="
+
+## NVIDIA reveals RTX 40 Super GPUs at CES 2024, including the $999 4080 Super
+ - [https://www.engadget.com/nvidia-reveals-rtx-40-super-gpus-at-ces-2024-163041585.html?src=rss](https://www.engadget.com/nvidia-reveals-rtx-40-super-gpus-at-ces-2024-163041585.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T16:30:41+00:00
+
+<p>After rounding out its RTX 40 GPUs in 2023 with the <a href="https://www.engadget.com/nvidia-geforce-rtx-4060-299-cheapest-40-series-gpu-130000067.html">RTX 4060 </a>and <a href="https://www.engadget.com/nvidia-rtx-3060-ti-review-170018640.html">4060 Ti</a>, NVIDIA has brought the inevitable follow-ups to <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>: slightly faster Super cards! In Las Vegas today, NVIDIA has unveiled the RTX 4080 Super, RTX 4070 Ti Super and RTX 4070 Super GPUs, upgrades over its previous GPUs which aim to compete directly with AMD's cheaper high-end cards. And of course, NVIDIA can't help but tout how useful they'll be for on-device AI tasks.</p>
+<p>The RTX 4080 Super will sell for $999 when it arrives on January 31, while the RTX 4070 Ti Super will go for $799 on January 24th. <a href="https://www.engadget.com/amd-radeon-7900-xtx-xt-review-better-4k-gaming[...]
+
+## Volkswagen thinks ChatGPT integration will make its in-car voice assistant good
+ - [https://www.engadget.com/volkswagen-thinks-chatgpt-integration-will-make-its-in-car-voice-assistant-good-160033466.html?src=rss](https://www.engadget.com/volkswagen-thinks-chatgpt-integration-will-make-its-in-car-voice-assistant-good-160033466.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T16:00:33+00:00
+
+<p>AI is literally everywhere, so it's not a big surprise to learn that Volkswagen is planning to bring <a href="https://www.engadget.com/how-openais-chatgpt-has-changed-the-world-in-just-a-year-140050053.html">ChatGPT</a> to its vehicles. As part of its CES 2024 announcements, the automaker says that its existing IDA voice assistant will work with ChatGPT across a range of its newer models. VW isn't the first to try this — <a href="https://www.engadget.com/mercedes-tries-putting-chatgpt-in-your-car-162822051.html">Mercedes-Benz announced ChatGPT integration</a> in June of last year, so it seems like this is certainly a thing we're all going to have to get used to.</p>
+<p>Specifically, VW says that ChatGPT will be enabled in these specific models with the latest generation of the company's infotainment systems: ID.7 (pictured above), ID.4, ID.5, ID.3, the new Volkswagen Tiguan, the new Passat and the new Golf. It'll roll out ChatGPT as [...]
+
+## LG S95TR and SG10TY first look: Two takes on wireless Dolby Atmos for home theater
+ - [https://www.engadget.com/lg-s95tr-and-sg10ty-first-look-two-takes-on-wireless-dolby-atmos-for-home-theater-154551736.html?src=rss](https://www.engadget.com/lg-s95tr-and-sg10ty-first-look-two-takes-on-wireless-dolby-atmos-for-home-theater-154551736.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T15:45:51+00:00
+
+<p>LG is one of many companies that <a href="https://www.engadget.com/lg-sc9-se6-soundbars-first-look-ces-2023-164512242.html">usually shows off new soundbars</a> in Las Vegas, and at <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a>, that trend continues. While the new models are designed to compliment LG TVs, they offer something different in terms of audio, design and features. The most robust option, the S95TR, is a 9.1.5-channel setup that comes bundled with a subwoofer and rear speakers.&nbsp;</p>
+<p>The flagship S95TR musters an output of 810 watts and is what the company calls the first Atmos-equipped soundbar with triple up-firing channels. Those include what LG says is the industry's first center up-firing speaker. That center driver helps with the dimensionality of the sound by boosting clarity and the overall soundstage. Two tweeters handle the treble while a passiv[...]
+
+## AMD brings AI to Ryzen 8000G desktop chips at CES 2024
+ - [https://www.engadget.com/amd-brings-ai-to-ryzen-8000g-desktop-chips-at-ces-2024-153032800.html?src=rss](https://www.engadget.com/amd-brings-ai-to-ryzen-8000g-desktop-chips-at-ces-2024-153032800.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T15:30:32+00:00
+
+<p>AMD was the first company to deliver x86 laptop chips with NPUs for AI acceleration last year — now, at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> it's doing the same for desktops. The company's new Ryzen 8000G processors, which debuted today in Las Vegas (but have <a href="https://www.tomshardware.com/pc-components/cpus/pricing-leaks-for-three-amd-ryzen-8000g-desktop-am5-apus-ranging-from-dollar190-to-dollar400-new-am4-cpus-too">already been leaked by retailers</a>), are once again NPU pioneers among x86 desktop chips. And on top of that, the company claims its built-in Radeon 700M graphics are the fastest ever seen on a desktop chip.</p>
+<p>While the Ryzen 8000G chips aren't AMD's most powerful desktop offerings — <a href="https://www.engadget.com/amd-ryzen-7000-desktop-cps-shipping-september-27th-042518920.html">the Ryzen 7700X and above </a>all offer higher clock speeds[...]
+
+## AMD debuts the Radeon RX 7600 XT at CES for entry-level 1440p gaming
+ - [https://www.engadget.com/amd-debuts-the-radeon-rx-7600-xt-at-ces-for-entry-level-1440p-gaming-153023517.html?src=rss](https://www.engadget.com/amd-debuts-the-radeon-rx-7600-xt-at-ces-for-entry-level-1440p-gaming-153023517.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T15:30:23+00:00
+
+<p>Even though gamers have been eager to see new high-end GPUs from AMD, the company isn't ready to refresh the <a href="https://www.engadget.com/amd-radeon-7900-xtx-xt-review-better-4k-gaming-140002305.html">Radeon RX 7900 and 7900 XT</a> at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>. Instead, AMD is unveiling the $329 Radeon RX 7600 XT in Las Vegas, a slightly souped-up version of <a href="https://www.engadget.com/amds-rx-7600-graphics-card-promises-smooth-1080p-gaming-for-lower-269-price-130024012.html">last year's entry-level RX 7600</a> with higher clock speeds and 16GB of VRAM. While that earlier card was laser-focused on 1080p gameplay, AMD is positioning the RX 7600 XT as a potential upgrade for entry-level 1440p gaming, as well as a better card for running AI tasks.</p>
+<p>The Radeon RX 7600 XT features the same basic specs as its predecessor: 32 compute units and ray[...]
+
+## Garmin debuts a 'first of its kind' heart rate monitor that works with sports bras
+ - [https://www.engadget.com/garmin-debuts-a-first-of-its-kind-heart-rate-monitor-that-works-with-sports-bras-144910862.html?src=rss](https://www.engadget.com/garmin-debuts-a-first-of-its-kind-heart-rate-monitor-that-works-with-sports-bras-144910862.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T14:49:10+00:00
+
+<p>Brands are sharing <a href="https://www.engadget.com/the-withings-beamo-is-an-all-in-one-thermometer-ecg-and-stethoscope-010017439.html">new health tech</a> all over <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>, and Garmin is no exception. Once known solely for its GPS systems, the company has introduced a few new wearables this year, including the<a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=4c7f75f5-4803-438a-a506-12a0ccb4ede4&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Garmin&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5nYXJtaW4uY29tL2VuLVVTL3AvMTEzMjA5NCIsImNvbnRlbnRVdWlkIjoiYmU3ZGI3OGMtNTNiOS00ZmU4LThjNGYtZmUyMzljZWE2MmJmIn0&amp;signature=AQAAAfd2uYBoESauCW9VvXITxBxk6iTvaDr4qnYpVhumOKyO&amp;gcReferrer=https%3A%2F%2Fwww.garmin.com%2Fen-US%2Fp%2F11[...]
+
+## The Apple Vision Pro goes on sale in the US on February 2 for $3,499
+ - [https://www.engadget.com/the-apple-vision-pro-goes-on-sale-in-the-us-on-february-2-for-3499-142006153.html?src=rss](https://www.engadget.com/the-apple-vision-pro-goes-on-sale-in-the-us-on-february-2-for-3499-142006153.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T14:20:06+00:00
+
+<p>Those who've been yearning for a chance to try the <a href="https://www.engadget.com/apple-vision-pro-hands-on-a-new-milestone-for-mixed-reality-060943291.html">Apple Vision Pro</a> headset and have the cash to spare won't need to wait much longer to snap one up. The company says the hotly anticipated device will arrive in the US on February 2. Pre-orders for the mixed reality headset, which starts at $3,499 for 256GB of storage, will open on January 19. The device will be available at all US Apple Store locations as well as through the company's web store.</p>
+<p>Those who require vision correction will need to snap up Zeiss optical inserts and attach them to the headset magnetically (Vision Pro doesn't work with glasses). Readers will cost $99, while prescription lenses will set you back $149. The inserts will only be available for purchase online, so don't expect to be able to wander into an Apple Store to pick them up. Naturally,[...]
+
+## HP's new 4K 240Hz OLED gaming monitor lets you drag and drop files across devices
+ - [https://www.engadget.com/hps-new-4k-240hz-oled-gaming-monitor-lets-you-drag-and-drop-files-across-devices-140507464.html?src=rss](https://www.engadget.com/hps-new-4k-240hz-oled-gaming-monitor-lets-you-drag-and-drop-files-across-devices-140507464.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T14:05:07+00:00
+
+<p>HP has unveiled the Omen Transcend 32 OLED gaming monitor with high-end specs and new features that should make it a pretty darn good productivity monitor, too. It's part of the company's newly launched Omen lineup at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>, which includes the <a href="https://www.engadget.com/hp-unveiled-the-lightest-14-inch-gaming-laptop-in-the-world-at-ces-2024-130024558.html">world's lightest gaming laptop</a>.&nbsp;</p>
+<p>The Omen Transcend 32 looks like an impressive gaming monitor, even before looking at the other new tricks. It uses LG's latest QD-OLED tech and features a 31.5-inch screen with 4K resolution and a 240Hz refresh rate, with a 0.3-millisecond response time. It's the company's first Omen display that's Dolby Vision certified, offering 99 percent DCI-P3 coverage and VESA DisplayHDR True Black 400 certification with peak brightness up [...]
+
+## JBL brings new microphones to CES 2024, including a wireless clip-on model
+ - [https://www.engadget.com/jbl-brings-new-microphones-to-ces-2024-including-a-wireless-clip-on-model-130058745.html?src=rss](https://www.engadget.com/jbl-brings-new-microphones-to-ces-2024-including-a-wireless-clip-on-model-130058745.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T13:00:58+00:00
+
+<p>JBL is best known for <a href="https://www.engadget.com/2020-01-06-jbl-quantum-gaming-headphones-speaker.html">speakers, earbuds and headphones,</a> but the company has <a href="https://www.engadget.com/jbl-usb-quantum-stream-gaming-mic-130057253.html">recently pivoted to microphones</a> to meet the needs of modern content creators. It all started with the Quantum Stream line of condenser microphones, and the company has brought a trio of updated mics in the series to <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a> in Las Vegas.</p>
+<p>The Quantum Stream Talk, as the name suggests, is primarily for podcasters and streamers. The condenser boasts a super cardioid pickup pattern so it only captures what’s directly in front of it, which will be your mouth. This drastically reduces background noise, as that’s the bane of any podcaster. The shock-absorbing base assists with nois[...]
+
+## JBL brings its touchscreen smart case to three new wireless earbud models
+ - [https://www.engadget.com/jbl-brings-its-touchscreen-smart-case-to-three-new-wireless-earbud-models-130052055.html?src=rss](https://www.engadget.com/jbl-brings-its-touchscreen-smart-case-to-three-new-wireless-earbud-models-130052055.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T13:00:52+00:00
+
+<p>Last year in Las Vegas, JBL showed off a set of true wireless earbuds that featured <a href="https://www.engadget.com/jbl-tour-pro-2-hands-on-ces-2023-201533741.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAD1vqtjY7w8ZxW7inqh4dhaL8T3MneEHBWNXekdBEbqesSbD08e693KtxxHth9YDGJRetRIPBFHd6cAi5A8nfypniozNxo_tXIJtKyfMZZdu3M3xP9gKWtexnXXSsTf4L2i-cqwcQq5ZnNaaZJRYTrM6rX2qyO8h3twrsBYfc4on">a touchscreen-equipped "smart case,"</a> but it was only available on that model. For <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a>, the company is expanding the availability for the fancy charging accessory across three new earbud designs, while giving it a slight design update in the process. The Live Buds 3, Live Beam 3 and Live Flex 3 all feature customizable adaptive noise cancellation, LDAC support for high-res listening, six mics for calls, wi[...]
+
+## JBL debuts replaceable batteries for its new portable Bluetooth speakers at CES 2024
+ - [https://www.engadget.com/jbl-debuts-replaceable-batteries-for-its-new-portable-bluetooth-speakers-at-ces-2024-130031746.html?src=rss](https://www.engadget.com/jbl-debuts-replaceable-batteries-for-its-new-portable-bluetooth-speakers-at-ces-2024-130031746.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T13:00:31+00:00
+
+<p>When it comes to <a href="https://www.engadget.com/best-portable-bluetooth-speakers-133004551.html">portable Bluetooth speakers</a>, battery life has always been a sticking point and JBL’s latest updates are focused on improving just that. As part of its announcement today at <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a> in Las Vegas, the company presented two updated PartyBox models and three new personal portable iterations. Aside from the battery upgrades, they all support Bluetooth 5.3 with LE audio and Auracast for wirelessly connecting countless other Auracast-enabled JBL speakers. Additionally, recycled fabric and plastic play a role in their construction.</p>
+<p>The new large-format JBL PartyBox Club 120 ($400) and PartyBox Stage 320 ($600) now include easily swappable batteries so you can party well beyond the boundaries of a single charge. The next-gen personal[...]
+
+## JBL covers the headphone gamut with six new models at CES 2024
+ - [https://www.engadget.com/jbl-covers-the-headphone-gamut-with-six-new-models-at-ces-2024-130025848.html?src=rss](https://www.engadget.com/jbl-covers-the-headphone-gamut-with-six-new-models-at-ces-2024-130025848.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T13:00:25+00:00
+
+<p>It wouldn't be <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES</a> without a massive amount of JBL portable audio devices. The company has six new sets of headphones in Las Vegas to go along with several new <a href="https://www.engadget.com/jbl-brings-its-touchscreen-smart-case-to-three-new-wireless-earbud-models-130052055.html">earbuds</a>, speakers and microphones. As it typically does, the company is covering a range of preferences with on-ear and over-ear options as well as those with active noise cancellation (ANC) and some without it.&nbsp;</p>
+<p>The JBL Live range is the more premium option, with the on-ear 670NC and over-ear 770NC offering identical spec sheets. The only differences are the wear style and the price. Inside, 40mm drivers power JBL Spatial Sound with adaptive ANC and a "smart" ambient mode. There are two microphones for calls, multipoint Bluetooth connectiv[...]
+
+## HP unveiled the lightest 14-inch gaming laptop in the world at CES 2024
+ - [https://www.engadget.com/hp-unveiled-the-lightest-14-inch-gaming-laptop-in-the-world-at-ces-2024-130024558.html?src=rss](https://www.engadget.com/hp-unveiled-the-lightest-14-inch-gaming-laptop-in-the-world-at-ces-2024-130024558.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T13:00:24+00:00
+
+<p>Sometimes the never-ending quest to shave an extra gram or millimeter off a new laptop can become a bore. However, when a company can do it without cutting too many corners, that deserves some attention. And that’s what HP has done with the new Omen Transcend 14, which is making its debut at <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a> as the lightest 14-inch gaming laptop in the world.</p>
+<p>Weighing just 3.5 pounds (1.6 kg), the Omen Transcend 14 is much closer in size and lightness to an ultraportable than an average gaming laptop. To put that into context, that’s just 0.1 pounds heavier than a 14-inch MacBook Pro and 0.15 pounds lighter than rival super-portable gaming laptops like the <a href="https://www.engadget.com/asus-zephyrus-g14-review-amd-ryzen-radeon-173016459.html">ASUS ROG Zepyrys G14</a>. And while it’s not quite as powerful as the larger <a class="rap[...]
+
+## The best Wi-Fi extenders in 2024
+ - [https://www.engadget.com/best-wifi-extender-130021313.html?src=rss](https://www.engadget.com/best-wifi-extender-130021313.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T12:50:38+00:00
+
+<p>If you get spotty Wi-Fi in your basement or in your backyard, it may be worthwhile to get a Wi-Fi extender. These relatively affordable gadgets, as their name suggests, extend the reaches of your home’s Wi-Fi network. With so many of us working from home even just part of the time now, and with so many connected devices under one roof, it’s even more important now to have reliable coverage that hits even the furthest points of your property. You could take the plunge and upgrade your whole <a href="https://www.engadget.com/best-mesh-wifi-system-130028701.html">Wi-Fi router system</a>, but that’s a big decision that also requires more money. Wi-Fi extenders can come in handy if all you want to do is get a bit more coverage throughout your home without spending a ton. We tested out a number of Wi-Fi extenders to come up with our top picks.</p>
+<h2>How do Wi-Fi extenders work?</h2>
+<p>These handy wireless devices do exactly what their n[...]
+
+## Google Pixel phones and smartwatches are up to 21 percent off
+ - [https://www.engadget.com/google-pixel-phones-and-smartwatches-are-up-to-21-percent-off-120544932.html?src=rss](https://www.engadget.com/google-pixel-phones-and-smartwatches-are-up-to-21-percent-off-120544932.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T12:05:44+00:00
+
+<p>If you're a Google Pixel fan, this week is starting off well for you. A range of <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RlYWwvNDU5MmNkNzQ_dGFnPWdkZ3QwYy1wLW8tNWF5LTIwIiwiY29udGVudFV1aWQiOiIwNDRmM2VlNi0wMDFjLTQ1OGUtYjNhYy02N2M4NDVmMGMwNTcifQ&amp;signature=AQAAAf1PoKDGsMxqj-tnNShJux1hXMvZ74FKrO0_DfZCKfbg&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdeal%2F4592cd74">Google Pixel phones are currently on sale</a>. For starters, the Google Pixel 8 is back down to its <a href="https://www.engadget.com/google-black-friday-deals-the-pixel-7a-is-25-percent-off-and-cheaper-than-ever-223006599.html">Black Friday price</a> of $549, dropping from $699. The 21 percent di[...]
+
+## The Apple Watch Ultra 2 is just $709 right now
+ - [https://www.engadget.com/the-apple-watch-ultra-2-is-just-709-right-now-105032595.html?src=rss](https://www.engadget.com/the-apple-watch-ultra-2-is-just-709-right-now-105032595.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T10:50:32+00:00
+
+<p>The Apple Watch Ultra 2 was recently <a href="https://www.engadget.com/the-apple-watch-ban-is-here-why-apple-is-no-longer-selling-the-watch-series-9-and-watch-ultra-203706971.html">banned from sale</a> due to a patent dispute, but has now <a href="https://www.engadget.com/apple-is-selling-its-contested-watch-models-again-after-import-ban-pause-193824245.html">returned</a> to the market pending an appeal by Apple. Now that you can buy one again, it's available with a solid discount from Amazon, priced at just $709 (with the Olive Alpine Loop strap) instead of $799 thanks to a $40 coupon and six percent discount — near it's all-time-low price.</p>
+<p></p>
+<p>The <a href="https://www.engadget.com/apple-watch-ultra-2-and-series-9-first-impressions-double-tap-is-accurate-and-tricky-203116431.html">Apple Watch Ultra 2</a> arrived this fall with the new S9 SiP (system in package) chip, allowing you to double tap your thumb and forefinger to[...]
+
+## Netflix and Hulu pick up TV Golden Globes as Succession dominates
+ - [https://www.engadget.com/netflix-and-hulu-pick-up-tv-golden-globes-as-succession-dominates-102514804.html?src=rss](https://www.engadget.com/netflix-and-hulu-pick-up-tv-golden-globes-as-succession-dominates-102514804.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T10:25:14+00:00
+
+<p>The 2024 Golden Globes represented a return to normalcy after a year dominated by <a href="https://www.engadget.com/the-hollywood-writers-strike-may-soon-end-after-tentative-deal-is-struck-082357469.html">strikes in the entertainment industry</a>. Streamers continued to get recognition for their shows, with Netflix, Hulu and Max picking up <a href="https://goldenglobes.com/winners-nominees/">a combined 12 television awards</a>.</p>
+<p>Max (<a href="https://www.engadget.com/hbo-max-will-just-be-called-max-when-it-folds-in-discovery-171611258.html">formerly HBO Max</a>) won the most awards, garnering four for the final season of <em>Succession</em>, including best drama television series. Best performance by an actress and actor in that category went to Sarah Snook and Kieran Culkin, who played siblings Roman and Shiv Roy on the series. Matthew Macfayden rounded out <em>Succession</em>'s wins by taking home the award for best performan[...]
+
+## Belkin's Stand Pro iPhone dock uses Apple's DockKit to track you around a room
+ - [https://www.engadget.com/belkins-stand-pro-iphone-dock-uses-apples-dockkit-to-track-you-around-a-room-095605017.html?src=rss](https://www.engadget.com/belkins-stand-pro-iphone-dock-uses-apples-dockkit-to-track-you-around-a-room-095605017.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T09:56:05+00:00
+
+<p>Belkin has launched a new wireless charging dock that can perform a neat trick: it can swivel and tilt to track you while you move around a room. The <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=e6618fee-bbbf-4638-9bf5-e216442c18d0&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Belkin&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5iZWxraW4uY29tL2F1dG8tdHJhY2tpbmctc3RhbmQtcHJvLXdpdGgtZG9ja2tpdC9QLU1NQTAwOC5odG1sIiwiY29udGVudFV1aWQiOiJhODQ0OGNiZC1hMzkyLTQ5NjQtOTRkZC0xMmFiNzU3NTY0ZmIifQ&amp;signature=AQAAAfwQ0prETnqkmQkAC16KmznXvM1J3IK77lnsBw4lmtj3&amp;gcReferrer=https%3A%2F%2Fwww.belkin.com%2Fauto-tracking-stand-pro-with-dockkit%2FP-MMA008.html">Auto-Tracking Stand Pro</a> does that by being the first device to exploit Apple's DockKit framework that allows it to connect directly to an iPhone without the need for a [...]
+
+## The Oppo Find X7 Ultra is the first phone with two periscope zoom cameras
+ - [https://www.engadget.com/the-oppo-find-x7-ultra-is-the-first-phone-with-two-periscope-zoom-cameras-085332818.html?src=rss](https://www.engadget.com/the-oppo-find-x7-ultra-is-the-first-phone-with-two-periscope-zoom-cameras-085332818.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T08:53:32+00:00
+
+<p>There was a time when smartphone makers rushed to quad-camera claims, most of which did so by throwing in a mediocre fourth camera — usually for macro shots, if not a monochrome filter or just a depth sensor. Nowadays, though, we are blessed with legit quad "main" cameras on some flagship phones, so brands need to be more creative to further differentiate themselves. In Oppo's case, it decided to feature not just one, but two periscope telephoto cameras on its new <a href="https://www.engadget.com/qualcomms-snapdragon-8-gen-3-brings-on-device-generative-ai-to-more-android-phones-190019288.html">Snapdragon 8 Gen 3</a>-powered <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5vcHBvLmNvbS9jbi9zbWFydHBob25lcy9zZXJpZXMtZmluZC14L2ZpbmQteDctdWx0cmEvIiwiY29udGVudFV[...]
+
+## Unistellar's latest smart telescopes take the hassle out of backyard astronomy
+ - [https://www.engadget.com/unistellars-latest-smart-telescopes-take-the-hassle-out-of-backyard-astronomy-084239993.html?src=rss](https://www.engadget.com/unistellars-latest-smart-telescopes-take-the-hassle-out-of-backyard-astronomy-084239993.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T08:42:39+00:00
+
+<p>French telescope company Unistellar has launched two new tech-infused models at CES 2024 promising to eliminate the tedious parts of backyard astronomy. The new <a href="https://shop.unistellar.com/products/odyssey?variant=40831246958615">Odyssey</a> and <a href="https://shop.unistellar.com/products/odyssey-pro?variant=40831247056919">Odyssey Pro</a> smart telescopes use new technology to focus on both nearby objects like Jupiter and distant stars or nebulae. They also feature new Nikon optics and an updated smartphone app that helps you align and focus the telescope, while automatically finding targets to image.&nbsp;</p>
+<p>Unistellar's current smart telescopes, the eVscope 2 and eQuinox 2, are primarily designed to image distant galaxies, stars, clusters and the like — they can also image planets, but focus can be tricky. However, the Odyssey and Odyssey Pro use what the company calls Multi-Depth technology to focus equally well o[...]
+
+## LG brought the world's first wireless transparent OLED TV to CES 2024
+ - [https://www.engadget.com/lg-brought-the-worlds-first-wireless-transparent-oled-tv-to-ces-2024-071151174.html?src=rss](https://www.engadget.com/lg-brought-the-worlds-first-wireless-transparent-oled-tv-to-ces-2024-071151174.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T07:11:51+00:00
+
+<p>LG typically shows off a host of new TVs <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">at CES</a> each year, but they're usually the more traditional flat screens. This year in Las Vegas, the company is debuting something quite different in addition to <a href="https://www.engadget.com/lg-reveals-new-oled-tvs-with-high-144hz-refresh-rates-ahead-of-ces-2024-164550931.html">M- and G-series updates</a>. The OLED T is what the company calls the first wireless transparent OLED TV, with 4K resolution and LG's wireless transmission tech for audio and video. The unit also features a contrast screen that rolls down into a box at its base that you can raise or lower with the press of a bottom.&nbsp;</p>
+<p>The OLED T is powered by LG's new Alpha 11 AI processor with four times the performance of the previous-gen chip. The extra power offers 70 percent greater graphics performance and 30 percent faster processing speeds, according to the com
+
+## Samsung debuts the world's first transparent MicroLED screen at CES 2024
+ - [https://www.engadget.com/samsung-debuts-the-worlds-first-transparent-microled-screen-at-ces-2024-042634398.html?src=rss](https://www.engadget.com/samsung-debuts-the-worlds-first-transparent-microled-screen-at-ces-2024-042634398.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T04:26:34+00:00
+
+<p>There's always a number of surprises at CES and during its First Look event, Samsung teased the world's first transparent MicroLED display.&nbsp;</p>
+<p>While there's still no word on how much it costs or when this tech will find its way into retail devices, Samsung showcased not one but three different transparent micro LED displays with slightly different designs. Two of the demo units featured tinted glass which made it easier to ignore any potential districting objects behind the panels, while another appeared to be as transparent as regular glass while also boasting a frameless design.&nbsp;</p>
+<span id="end-legacy-contents"></span><figure><img alt="A side view of what Samsung is calling the world's first transparent micro LED display. " src="https://s.yimg.com/os/creatr-uploaded-images/2024-01/542008e0-addc-11ee-b77b-9c2a2ab74bac" style="height: 1200px; width: 2000px;" /><figcaption></figcaption><div class="photo-credit">Photo by Sam Rutherford/Engadget</div></figure>
+<p>In
+
+## The Flappie AI cat door stops your pet from gifting you dead mice
+ - [https://www.engadget.com/the-flappie-ai-cat-door-stops-your-pet-from-gifting-you-dead-mice-033237654.html?src=rss](https://www.engadget.com/the-flappie-ai-cat-door-stops-your-pet-from-gifting-you-dead-mice-033237654.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T03:32:37+00:00
+
+<p>Finding weird pet-related technology is a CES tradition, and <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">this year</a> is no exception. Take Flappie, for example. <a class="no-affiliate-link" href="https://www.flappie.ch/en/">The Swiss start-up</a> is showing off an AI-powered cat door that automatically locks if your kitty tries to bring in prey it caught from the outside.&nbsp;</p>
+<p>On the side of the door facing the outside, you'll find a motion sensor and night-vision camera. Flappie says it has compiled a "unique and proprietary" dataset over the years, with a focus on diversity — this means getting lots of different kinds of cats as well as prey, filmed in a variety of different lighting conditions. The company says that its AI-powered detection system is accurate more than 90 percent of the time, which means your cat could still get a mouse inside. But hopefully that'll happen a lot less frequently.&nbsp;</p>
+<span id="end-le
+
+## Someone made a Peloton-esque display for the world's most ubiquitous rowing machine
+ - [https://www.engadget.com/someone-made-a-peloton-esque-display-for-the-worlds-most-ubiquitous-rowing-machine-031001362.html?src=rss](https://www.engadget.com/someone-made-a-peloton-esque-display-for-the-worlds-most-ubiquitous-rowing-machine-031001362.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T03:10:01+00:00
+
+<p>It was at <a href="https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html">CES 2024</a>, in a Las Vegas ballroom with a carpet so static I was getting an electric shock every few minutes, that I finally saw one of my longest-held dreams come true. You see, I own a <a href="https://www.engadget.com/2019-08-27-what-were-buying-concept2-model-d-with-pm5-rowing-machine.html">Concept2 Model D rowing machine</a>, hands down the best rowing machine on the market. But the company has always refused to build a display that doesn’t look like it comes from the early ‘80s. When the PM5 was launched, it looked dated, but in a world where <a href="https://www.engadget.com/hydrow-wave-smaller-cheaper-smart-rowing-machine-140012022.html">Hydrow</a> and Peloton can offer gorgeous touchscreen displays and live classes, it looked ancient. Which is why I’m so elated that I stumbled across <a href="https://www.myrow.com/">Myrow</a> and its 22-inch retrofit display for C
+
+## Govee’s chatbot programs your smart lights for you
+ - [https://www.engadget.com/govees-ai-chatbot-programs-your-smart-lights-for-you-030217383.html?src=rss](https://www.engadget.com/govees-ai-chatbot-programs-your-smart-lights-for-you-030217383.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T03:02:17+00:00
+
+<p>At <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>, <a href="https://www.engadget.com/amazon-knocks-up-to-41-percent-off-govee-smart-lights-151928476.html">Govee</a> not only revealed an upgraded AI Sync Box Kit, Neon Rope Light 2 and, because it’s 2024, there’s even a dedicated chatbot. While it wasn't available for testing at CES Unveiled, the media preview event that takes place two days before the CES show floor opens, Govee’s AI Lighting Bot will eventually be bundled into the company’s smartphone app, where you’ll apparently be able to cajole it into generating using natural language inputs, a la ChatGPT.</p>
+<p>As you can see in Govee’s concept video, it’ll apparently source lighting designs and transmit them to your Govee lights, whether they’re lighting spots, strips or anything else. In one example in Govee’s video, a user asked for a “Barbie Dreamhouse-inspired lighting effect” for their outdoor lights and spotligh
+
+## Samsung's Q990D soundbar has the one thing the 2023 version didn't: HDMI 2.1
+ - [https://www.engadget.com/samsungs-q990d-soundbar-has-the-one-thing-the-2023-version-didnt-hdmi-21-030059753.html?src=rss](https://www.engadget.com/samsungs-q990d-soundbar-has-the-one-thing-the-2023-version-didnt-hdmi-21-030059753.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T03:00:59+00:00
+
+<p>When I reviewed <a href="https://www.engadget.com/samsung-hw-q990c-soundbar-review-an-all-inclusive-atmos-setup-160049530.html">Samsung's HW-Q990C</a> last year, my main gripe with the flagship soundbar was the fact that it didn't offer HDMI 2.1. That meant that it didn't have the 4K/120 passthrough for things like gaming consoles and streaming devices the competition did. At <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>, the company is addressing that concern. With the HW-Q990D (note the one letter difference), HDMI 2.1 is onboard even though the overall design hasn't changed. Samsung's priciest soundbar once again supports wireless Dolby Atmos with an 11.1.4-channel sonic setup, making it the most robust option in the company's 2024 home theater lineup.&nbsp;</p>
+<p>Samsung packed in several new features for the Q990D. First, a Private Listening mode turns off all front-firing drivers and only uses the rear speakers so as
+
+## Samsung’s 2024 TV lineup at CES 2024 includes AI aplenty and a ‘glare-free’ OLED model
+ - [https://www.engadget.com/samsungs-2024-tv-lineup-at-ces-2024-includes-ai-aplenty-and-a-glare-free-oled-model-030046720.html?src=rss](https://www.engadget.com/samsungs-2024-tv-lineup-at-ces-2024-includes-ai-aplenty-and-a-glare-free-oled-model-030046720.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T03:00:46+00:00
+
+<p>Samsung’s <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> TV rollout is here. The company typically reserves finer product details (including pricing) for later, but it provided Engadget with a quick rundown of its <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=f85e63cd-e13c-4f9d-991c-9fbaadede3ac&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Samsung+Electronics&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5zYW1zdW5nLmNvbS91cy90dnMvIiwiY29udGVudFV1aWQiOiJmNzc0MThjYS0yY2E1LTQ5YTgtYTU4ZS02MTc4NTM1NTMyMTgifQ&amp;signature=AQAAAUpQIHq3YaT8PiuM5bRc0-zrAUmIGBYkbJCBrvjIHXXF&amp;gcReferrer=https%3A%2F%2Fwww.samsung.com%2Fus%2Ftvs%2F">new television lineup</a> ahead of its press conference on Monday. Its new 8K TVs have new AI-powered features, including upscaling technology (to help with the scarcity of native 8K
+
+## Samsung debuts Music Frame speaker to pair with your Frame TV at CES 2024
+ - [https://www.engadget.com/samsung-debuts-music-frame-speaker-to-pair-with-your-frame-tv-at-ces-2024-030024733.html?src=rss](https://www.engadget.com/samsung-debuts-music-frame-speaker-to-pair-with-your-frame-tv-at-ces-2024-030024733.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T03:00:24+00:00
+
+<p>Samsung's <a href="https://www.engadget.com/samsung-the-frame-tv-irl-153546368.html">The Frame</a> TV has become a key part of its home entertainment lineup since the product debuted <a href="https://www.engadget.com/2017-05-16-samsung-the-frame-tv-first-look.html">in 2017</a>. The company has upgraded it a few times over the years, but at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> in Las Vegas, Samsung revealed a new audio accessory to accompany the TV that doubles as a showcase for art and photos. The company calls it Music Frame (HW-LS60D): a wireless speaker that once pulls double duty as home decor, much like its television counterpart. This unit doesn't have a screen, though, instead it holds printed photos or art that you'll need to swap out manually. However, the basic idea is the same: a piece of home theater gear with the appearance of a picture frame.</p>
+<p>Inside are two woofers, two tweeters and two mid-ran
+
+## Samsung updates its smart monitor that works without a PC for CES 2024
+ - [https://www.engadget.com/samsung-updates-its-smart-monitor-that-works-without-a-pc-for-ces-2024-030013578.html?src=rss](https://www.engadget.com/samsung-updates-its-smart-monitor-that-works-without-a-pc-for-ces-2024-030013578.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T03:00:13+00:00
+
+<p>Samsung always has a major presence at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> in Las Vegas, and this year is no exception. The company just unveiled an update to its <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=f85e63cd-e13c-4f9d-991c-9fbaadede3ac&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Samsung+Electronics&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5zYW1zdW5nLmNvbS91cy9jb21wdXRpbmcvbW9uaXRvcnMvc21hcnQtbW9uaXRvcnMvIiwiY29udGVudFV1aWQiOiIyZmVkMDA5NC1iNDY2LTQ0NzUtYWY5Ni04ZGRiMDY4NDMzOGEifQ&amp;signature=AQAAAYXL25nPTLf6OU9vZwdkeG9gmLYp0BUixe9QnqnsWJo-&amp;gcReferrer=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fmonitors%2Fsmart-monitors%2F">existing line of smart monitors.</a> This is a modest refresh of last year's Smart Monitor M8, which was already feature-packed. This one looks to k
+
+## Samsung debuts Premiere projectors that turn any surface into an interactive display for your home theater
+ - [https://www.engadget.com/samsung-debuts-premiere-projectors-that-turn-any-surface-into-an-interactive-display-for-your-home-theater-030006840.html?src=rss](https://www.engadget.com/samsung-debuts-premiere-projectors-that-turn-any-surface-into-an-interactive-display-for-your-home-theater-030006840.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T03:00:06+00:00
+
+<p>To go along with its new TVs and soundbars in Las Vegas, Samsung also <a href="https://www.engadget.com/samsung-2023-freestyle-portable-projector-cloud-gaming-edge-blending-031336930.html">announced new projectors</a> to fill out its home theater lineup. At <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>, the company has four new Premiere models to choose from, and while the Premiere 8K and Premiere 5 are the two most interesting, the entire lineup for this year is getting a feature called Lightwarp that turns any object or surface into an interactive display.&nbsp;</p>
+<p>Samsung says this is the first time that projection mapping has been available outside of a professional environment and in consumer-grade devices. The tool allows you to project any content on any surface, including a customizable dashboard full of widgets for a clock, weather and more. The company says you'll be able to tap on the projection to interact w
+
+## LG Gram Pro 2-in-1 hands-on: A lightweight convertible laptop gets a better, faster OLED screen
+ - [https://www.engadget.com/lg-gram-pro-2-in-1-hands-on-a-lightweight-convertible-gets-a-better-faster-oled-screen-025942736.html?src=rss](https://www.engadget.com/lg-gram-pro-2-in-1-hands-on-a-lightweight-convertible-gets-a-better-faster-oled-screen-025942736.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T02:59:42+00:00
+
+<p>In recent years, LG has rolled into every CES with an update to its Gram series of super thin and light laptops. And each time, I delight in seeing how hard (or easy) it is to squeeze in a quick arm workout on the showfloor with the newest version. This year at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>, the company is <a href="https://www.engadget.com/lgs-latest-gram-laptops-are-predictably-stuffed-with-ai-features-163910204.html">launching a pair of Pro models</a> that feature upgraded OLED panels that support touch input and variable refresh rates. They also come with Intel's Meteor Lake processors and up to NVIDIA's RTX 3070 graphics cards.&nbsp;</p>
+<p>This generation of LG's Gram Pros come in 16- and 17-inch models, with OLED and IPS display options to choose from. The company also upgraded its stylus so it recharges when magnetically attached to the laptops. The stylus available at the showfloor was not working, s
+
+## Mui's whimsical wooden smart home controller hits Kickstarter tomorrow as CES 2024 kicks off
+ - [https://www.engadget.com/muis-whimsical-wooden-smart-home-controller-hits-kickstarter-tomorrow-022119102.html?src=rss](https://www.engadget.com/muis-whimsical-wooden-smart-home-controller-hits-kickstarter-tomorrow-022119102.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T02:21:19+00:00
+
+<p>Mui is no stranger to <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES</a> — the company's first wooden smart home control board <a href="https://www.engadget.com/2019-01-06-mui-wooden-smart-display.html">was shown off way back in 2019</a>, and the company has been working on a second generation model for <a href="https://design-milk.com/mui-board-2nd-gen-takes-matter-into-the-users-hands/">at least a year now</a>. But, finally, it looks like the new Mui Board will be something you can order, and hopefully get before the end of 2024.</p>
+<p>Like the original, the new Mui Board is a wooden, touch-sensitive surface that lets you control smart devices around your home. When it's not in use, it looks like a minimalist little wooden ledge, but when you tap it, the display lights up. It's kind of like a classier, less obtrusive version of a Nest Hub. The smart home controls apply, like adjusting thermostats, turning lights on, locking doors,
+
+## How to watch Sony’s CES 2024 press conference
+ - [https://www.engadget.com/how-to-watch-sonys-ces-2024-press-conference-220051103.html?src=rss](https://www.engadget.com/how-to-watch-sonys-ces-2024-press-conference-220051103.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T01:00:51+00:00
+
+<p>The annual Consumer Technology Association (CES) trade show is nearly upon us, having already turned Las Vegas into a high-tech wonderland. Sony’s <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=15919d69-aefa-41ae-a977-fdcae58a803c&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Sony&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5zb255LmNvbS9lbi9Tb255SW5mby9ibG9nLzIwMjMvMTIvMTUvIiwiY29udGVudFV1aWQiOiJjZWNlOTNiYi0wZWU4LTQ2ZjItYjIxZS1jNDBlOTNiNzgzZTAifQ&amp;signature=AQAAAYiRTuRhmxH0O8wRMO21mtOrAm-Wjj41VeqdfRsWjYAs&amp;gcReferrer=https%3A%2F%2Fwww.sony.com%2Fen%2FSonyInfo%2Fblog%2F2023%2F12%2F15%2F">holding a press conference</a> the day before <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a> exhibitions open, on January 8 at 8PM EST. You can stream it live <a href="https://square.sony.com/ces2024/">via Sony Squ
+
+## The Withings BeamO is an all-in-one thermometer, ECG and stethoscope
+ - [https://www.engadget.com/the-withings-beamo-is-an-all-in-one-thermometer-ecg-and-stethoscope-010017439.html?src=rss](https://www.engadget.com/the-withings-beamo-is-an-all-in-one-thermometer-ecg-and-stethoscope-010017439.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-01-08T01:00:17+00:00
+
+<p><a href="https://www.engadget.com/withings-scanwatch-2-features-a-body-temperature-sensor-and-improved-health-tracking-160037052.html">Withings</a> has a knack for turning up at CES with a gizmo that <a href="https://www.engadget.com/withings-u-scan-handsaon-video-ces-2023-232906933.html">garners plenty of attention</a> in the health-tech space. This year, at <a href="https://www.engadget.com/ces-2024-live-coverage-from-ces-unveiled-000021968.html">CES 2024</a>, it’s showing off something called the BeamO, an all-in-one diagnostic tool that follows in the footsteps of its existing contact-free thermometer. Dubbed a “multiscope,” the $250 device will tell you how warm (or not) you’re feeling, measure your blood oxygenation, run a one-lead ECG and even act as a digital stethoscope. Put this to your chest and you can listen to the sounds your chest is making, or send the file to your physician for further analysis.</p>
+<p>In the hand, the candybar-shaped BeamO is almost troublingly l
+
