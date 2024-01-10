@@ -1,0 +1,702 @@
+# Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## Sale of generic versions of cancer drug banned
+ - [https://timesofindia.indiatimes.com/india/sale-of-generic-versions-of-cancer-drug-stops-as-delhi-hc-prohibits-patent-infringement/articleshow/106680023.cms](https://timesofindia.indiatimes.com/india/sale-of-generic-versions-of-cancer-drug-stops-as-delhi-hc-prohibits-patent-infringement/articleshow/106680023.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T23:45:22+00:00
+
+
+
+## On Gujarat summit-eve, PM Modi inks MoUs with UAE prez
+ - [https://timesofindia.indiatimes.com/india/on-gujarat-summit-eve-pm-modi-inks-mous-with-uae-president/articleshow/106679222.cms](https://timesofindia.indiatimes.com/india/on-gujarat-summit-eve-pm-modi-inks-mous-with-uae-president/articleshow/106679222.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T22:50:02+00:00
+
+
+
+## Boeing CEO: Alaska Airlines incident 'our mistake'
+ - [https://timesofindia.indiatimes.com/world/us/boeing-ceo-alaska-airlines-incident-our-mistake-vows-transparency/articleshow/106678706.cms](https://timesofindia.indiatimes.com/world/us/boeing-ceo-alaska-airlines-incident-our-mistake-vows-transparency/articleshow/106678706.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T22:43:17+00:00
+
+
+
+## Armed men storm an Ecuador TV studio during live broadcast
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/armed-men-storm-an-ecuador-tv-studio-during-a-live-broadcast-as-attacks-in-the-country-escalate/articleshow/106677970.cms](https://timesofindia.indiatimes.com/world/rest-of-world/armed-men-storm-an-ecuador-tv-studio-during-a-live-broadcast-as-attacks-in-the-country-escalate/articleshow/106677970.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T22:26:01+00:00
+
+Masked men armed with guns and explosives stormed Ecuador's TC Television network in Guayaquil, causing the country's president to declare an "internal armed conflict." Shots were heard during the live broadcast, but it remains unclear if anyone was injured. The assailants threatened station personnel with bombs and some attempted to hide in the building before being apprehended by the police.
+
+## AMU is national, not of a particular faith: Centre
+ - [https://timesofindia.indiatimes.com/india/amu-is-national-not-of-a-particular-faith-centre/articleshow/106677731.cms](https://timesofindia.indiatimes.com/india/amu-is-national-not-of-a-particular-faith-centre/articleshow/106677731.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T21:45:22+00:00
+
+The Union government has informed the Supreme Court that Aligarh Muslim University (AMU) cannot be considered as an institution of any religion or religious denomination as it has a national character. The government argued that AMU, like Banaras Hindu University (BHU), is of national importance and therefore cannot be classified as a minority institution.
+
+## AAP: Talks on for tie-up in 5 states
+ - [https://timesofindia.indiatimes.com/india/aap-talks-on-for-tie-up-in-5-states/articleshow/106677726.cms](https://timesofindia.indiatimes.com/india/aap-talks-on-for-tie-up-in-5-states/articleshow/106677726.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T21:40:42+00:00
+
+
+
+## India, UK set to boost defence R&D collaboration
+ - [https://timesofindia.indiatimes.com/india/india-uk-set-to-boost-defence-rd-collaboration/articleshow/106677718.cms](https://timesofindia.indiatimes.com/india/india-uk-set-to-boost-defence-rd-collaboration/articleshow/106677718.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T21:36:17+00:00
+
+
+
+## Washer on a Boeing 737 Max found missing during checks
+ - [https://timesofindia.indiatimes.com/india/washer-on-a-boeing-737-max-found-missing-during-checks/articleshow/106677548.cms](https://timesofindia.indiatimes.com/india/washer-on-a-boeing-737-max-found-missing-during-checks/articleshow/106677548.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T21:30:50+00:00
+
+
+
+## Big chill across Delhi, all stations log 'cold day' conditions
+ - [https://timesofindia.indiatimes.com/city/delhi/max-at-13-4c-big-chill-across-delhi-all-stations-log-cold-day-conditions/articleshow/106677518.cms](https://timesofindia.indiatimes.com/city/delhi/max-at-13-4c-big-chill-across-delhi-all-stations-log-cold-day-conditions/articleshow/106677518.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T21:22:34+00:00
+
+
+
+## A Harvard fellow who made it to list of best women in AI ethics
+ - [https://timesofindia.indiatimes.com/india/a-harvard-fellow-who-made-it-to-list-of-best-women-in-ai-ethics/articleshow/106677513.cms](https://timesofindia.indiatimes.com/india/a-harvard-fellow-who-made-it-to-list-of-best-women-in-ai-ethics/articleshow/106677513.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T21:16:06+00:00
+
+
+
+## Lakshadweep’s lakshya: New airport, more hotels
+ - [https://timesofindia.indiatimes.com/india/lakshadweeps-lakshya-new-airport-more-hotels/articleshow/106677489.cms](https://timesofindia.indiatimes.com/india/lakshadweeps-lakshya-new-airport-more-hotels/articleshow/106677489.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T21:11:32+00:00
+
+Lakshadweep plans to improve aerial connectivity with a dual-use airfield in Minicoy for civilian and military purposes, accommodating Airbus A320/Boeing 737-size planes and fighter jets. The extension of Agatti's airstrip will also allow A320s to operate there. Taj hotels will open new branches in Suheli and Kadmat islands by 2026, and the administration is promoting cruise tourism. The mandatory e-permit process has been shifted online.
+
+## 'Reconsidering ban on donor eggs, sperm in surrogacy'
+ - [https://timesofindia.indiatimes.com/india/reconsidering-ban-on-donor-eggs-sperm-in-surrogacy-govt-to-sc/articleshow/106677448.cms](https://timesofindia.indiatimes.com/india/reconsidering-ban-on-donor-eggs-sperm-in-surrogacy-govt-to-sc/articleshow/106677448.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T20:58:00+00:00
+
+
+
+## Cong wants Uddhav to scale back his 23-seat claim, seeks 26
+ - [https://timesofindia.indiatimes.com/india/congress-wants-uddhav-thackeray-to-scale-back-his-23-seat-claim-seeks-26-for-itself/articleshow/106677389.cms](https://timesofindia.indiatimes.com/india/congress-wants-uddhav-thackeray-to-scale-back-his-23-seat-claim-seeks-26-for-itself/articleshow/106677389.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T20:39:37+00:00
+
+Congress contests Shiv Sena's claim to seats in Maharashtra, calling it unrealistic. NCP does not voice specific demands. Hard negotiations expected in seat-sharing dialogues. Congress positioning as important player. Sena's position seen as bargaining chip. NCP and Sena may need contingency plans. Unity emphasized to guard against BJP. Next round likely with Sonia Gandhi, Pawar, and Thackeray.
+
+## Reduced enquiries, plummeting prices for vacation in Maldives
+ - [https://timesofindia.indiatimes.com/india/reduced-enquiries-plummeting-prices-for-vacation-in-maldives/articleshow/106677364.cms](https://timesofindia.indiatimes.com/india/reduced-enquiries-plummeting-prices-for-vacation-in-maldives/articleshow/106677364.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T20:28:59+00:00
+
+
+
+## Startup CEO smothered son, tried to slit own wrist: Cops
+ - [https://timesofindia.indiatimes.com/india/startup-ceo-smothered-son-tried-to-slit-own-wrist-cops/articleshow/106677312.cms](https://timesofindia.indiatimes.com/india/startup-ceo-smothered-son-tried-to-slit-own-wrist-cops/articleshow/106677312.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T20:20:17+00:00
+
+
+
+## US co buys Bengaluru cybersecurity startup PingSafe for $100m
+ - [https://timesofindia.indiatimes.com/business/india-business/us-company-buys-bengaluru-cybersecurity-startup-pingsafe-for-100million/articleshow/106677271.cms](https://timesofindia.indiatimes.com/business/india-business/us-company-buys-bengaluru-cybersecurity-startup-pingsafe-for-100million/articleshow/106677271.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T20:07:53+00:00
+
+NYSE-listed SentinelOne is acquiring Bengaluru-based cloud security platform PingSafe for $100 million is dubbed as the largest acquisition in the Indian cybersecurity startup space. Barclays, in its report, said the acquisition is a combination of stock and cash. After the acquisition, PingSafe is set to mint a new crop of dollar millionaires. The deal is expected to close in the first quarter of FY25. Last year, it raised $3.3 million in seed funding led by Peak XV Partners.
+
+## Fuel leak forces US company to abandon moon landing attempt
+ - [https://timesofindia.indiatimes.com/world/us/fuel-leak-forces-us-company-to-abandon-moon-landing-attempt/articleshow/106676899.cms](https://timesofindia.indiatimes.com/world/us/fuel-leak-forces-us-company-to-abandon-moon-landing-attempt/articleshow/106676899.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T18:58:26+00:00
+
+The first US lunar lander in more than 50 years rocketed to space gave up its hopes on Moon landing after the lander faced a "critical" fuel leak on Tuesday. Informing that there was "no chance of a soft landing on the Moon", the company said, "given the propellant fuel leak, there is, unfortunately, no chance of a soft landing on the Moon". The robotic lander, Peregrine, built by a private company Astrobotic had been facing several technical problems since its launch Monday.
+
+## India, Maldives discussed Muizzu visit but it may take time
+ - [https://timesofindia.indiatimes.com/india/india-maldives-discussed-muizzu-visit-but-it-may-take-time/articleshow/106676206.cms](https://timesofindia.indiatimes.com/india/india-maldives-discussed-muizzu-visit-but-it-may-take-time/articleshow/106676206.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T18:02:16+00:00
+
+India and the Maldives have been talking about a possible visit by President Mohamed Muizzu, despite the apparent strife in bilateral ties as the newly elected president leans towards China, while reviewing defence and security cooperation with India. However, with Muizzu having chosen to visit Beijing, India is not in a hurry to host him and will wait for the right occasion to welcome him. Diplomatic sources both here and in Male said the Maldives had discussed with India in November last year, around the time he assumed office, the possibility of a visit by Muizzu.
+
+## '26/11 mastermind Hafiz Saeed serving 78-yr jail sentence in Pak'
+ - [https://timesofindia.indiatimes.com/world/pakistan/mumbai-terror-attack-mastermind-hafiz-saeed-in-pakistan-custody-serving-78-year-jail-sentence-un-information/articleshow/106675958.cms](https://timesofindia.indiatimes.com/world/pakistan/mumbai-terror-attack-mastermind-hafiz-saeed-in-pakistan-custody-serving-78-year-jail-sentence-un-information/articleshow/106675958.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T17:39:37+00:00
+
+
+
+## 'Talk in one voice': Kharge's appeal after JD(U)'s dig at Cong
+ - [https://timesofindia.indiatimes.com/india/talk-in-one-voice-congress-president-kharges-appeal-a-day-after-jdus-dig-at-grand-old-party/articleshow/106675205.cms](https://timesofindia.indiatimes.com/india/talk-in-one-voice-congress-president-kharges-appeal-a-day-after-jdus-dig-at-grand-old-party/articleshow/106675205.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T16:48:52+00:00
+
+
+
+## 'You don't find Kohli skipping Test cricket to play BBL'
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/you-dont-find-virat-kohli-skipping-test-cricket-to-play-bbl-former-sa-legend/articleshow/106674663.cms](https://timesofindia.indiatimes.com/sports/cricket/news/you-dont-find-virat-kohli-skipping-test-cricket-to-play-bbl-former-sa-legend/articleshow/106674663.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T15:52:34+00:00
+
+Cricket South Africa faced substantial criticism from both current and former players for its decision to unveil a second-string team for the Test tour of New Zealand.  South Africa named as many as seven uncapped players, including a new captain, for the two-Test series, while top South African cricketers will play the second season of the SA20. Former South African legend Brian McMillan also joined the chorus expressing his disappointment over CSA's move and commended India and Virat Kohli for giving priority to Test cricket.
+
+## Seamless highway connectivity from Delhi to Surat soon; details here
+ - [https://timesofindia.indiatimes.com/business/india-business/delhi-mumbai-expressway-update-delhi-to-surat-section-of-india-longest-expressway-to-open-by-march-april/articleshow/106674230.cms](https://timesofindia.indiatimes.com/business/india-business/delhi-mumbai-expressway-update-delhi-to-surat-section-of-india-longest-expressway-to-open-by-march-april/articleshow/106674230.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T15:28:41+00:00
+
+Delhi-Mumbai Expressway update:  Delhi-Surat connectivity via the Delhi-Mumbai expressway is expected to be operational by March, except for a minor section in Rajasthan spanning an 8-kilometer tunnel.
+
+## Tour operators in Maldives seek normalisation of ties with India
+ - [https://timesofindia.indiatimes.com/india/sincerely-apologise-tour-operators-in-the-maldives-seek-normalisation-of-ties-with-india/articleshow/106673472.cms](https://timesofindia.indiatimes.com/india/sincerely-apologise-tour-operators-in-the-maldives-seek-normalisation-of-ties-with-india/articleshow/106673472.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T14:44:24+00:00
+
+
+
+## Exclusive: How will Vande Bharat sleeper be better than Rajdhani? Top facts
+ - [https://timesofindia.indiatimes.com/business/india-business/vande-bharat-sleeper-train-better-than-rajdhani-express-top-passenger-friendly-features-photos-facts/articleshow/106673575.cms](https://timesofindia.indiatimes.com/business/india-business/vande-bharat-sleeper-train-better-than-rajdhani-express-top-passenger-friendly-features-photos-facts/articleshow/106673575.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T14:43:29+00:00
+
+The new Vande Bharat sleeper train, which is said to be superior to Rajdhani Express, is being manufactured by BEML in collaboration with Indian Railways Integral Coach Factory. We take a look at features that are better than the Rajdhani Express train:
+
+## 'Pak players used to tamper with the ball more than others'
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-players-used-to-tamper-with-the-ball-more-than-others-reveals-former-india-pacer-praveen-kumar/articleshow/106673510.cms](https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-players-used-to-tamper-with-the-ball-more-than-others-reveals-former-india-pacer-praveen-kumar/articleshow/106673510.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T14:34:29+00:00
+
+Former India pacer Praveen Kumar, who has claimed 77 wickets from 68 ODIs, expressed his views candidly. He asserted that teams across international cricket adopt the common practice of roughing up one side of the cricket ball intentionally. This practice is aimed at facilitating reverse swing, an art that involves making the older ball move unpredictably in the air. The art of reverse swinging in white-ball cricket is diminishing due to the shift that occurred with the introduction of two new balls in 2011.
+
+## Will America's first moon mission in 50 years end in heartbreak?
+ - [https://timesofindia.indiatimes.com/world/us/moon-landing-failure-nasa-peregrine-fuel-leak-critical-america-nasa/articleshow/106673302.cms](https://timesofindia.indiatimes.com/world/us/moon-landing-failure-nasa-peregrine-fuel-leak-critical-america-nasa/articleshow/106673302.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T14:28:25+00:00
+
+The United States' first moon landing attempt in over 50 years faces jeopardy as a private company's spacecraft, Peregrine, developed a "critical" fuel leak merely hours after its Monday liftoff from Cape Canaveral Space Force Station. According to the company, a propulsion system problem "threatens the ability of the spacecraft to soft land on the moon." Shortly after the launch, Astrobotic managed to orient the lander towards the sun for solar charging as a team investigated a "failure in the propulsion system."
+
+## Russian journo, who vowed to expose 'big corruption', found dead
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/russian-war-journo-who-vowed-to-expose-gigantic-corruption-found-dead/articleshow/106672713.cms](https://timesofindia.indiatimes.com/world/rest-of-world/russian-war-journo-who-vowed-to-expose-gigantic-corruption-found-dead/articleshow/106672713.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T14:26:19+00:00
+
+Russian war journalist Alexander Rybin, 39, was found dead near Shakhty, Russia, after promising to expose 'gigantic corruption' in Mariupol, a Ukrainian city invaded by Vladimir Putin, as reported by Daily Mail.​Rybin, who initially endorsed Putin's annexation of the Donbas region visited Mariupol and presented a critical report on air, showing the slow progress of reconstruction in the city. Despite acknowledging an increase in immigrants and substantial funds from Russia for reconstruction, he strongly denounced the widespread corruption.
+
+## Paytm offers 10% discount on all flight bookings to Lakshadweep
+ - [https://timesofindia.indiatimes.com/gadgets-news/paytm-offers-flat-10-discount-on-all-flight-bookings-to-lakshadweep-with-this-code/articleshow/106672792.cms](https://timesofindia.indiatimes.com/gadgets-news/paytm-offers-flat-10-discount-on-all-flight-bookings-to-lakshadweep-with-this-code/articleshow/106672792.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T14:05:18+00:00
+
+Paytm is offering a 10% discount on flights to Lakshadweep with the promo code 'FLYLAKSHA'. The offer is in response to a 50-fold increase in searches for travel to Lakshadweep on Paytm. Paytm has also introduced a 'free cancellation' feature, allowing users to modify their travel plans without a cancellation fee. Flights to Lakshadweep can be accessed through Cochin International Airport, with Air India being the only carrier.
+
+## 'Highly improper': Uddhav objects to speaker, Shinde's meeting
+ - [https://timesofindia.indiatimes.com/india/can-a-judge-uddhav-objects-to-maha-speakers-highly-improper-meeting-with-cm-shinde-ahead-of-verdict-on-shiv-sena-mlas-disqualification-plea/articleshow/106671644.cms](https://timesofindia.indiatimes.com/india/can-a-judge-uddhav-objects-to-maha-speakers-highly-improper-meeting-with-cm-shinde-ahead-of-verdict-on-shiv-sena-mlas-disqualification-plea/articleshow/106671644.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T13:21:21+00:00
+
+
+
+## How Israel responded to 'BoycottMaldives' hashtag on X
+ - [https://timesofindia.indiatimes.com/gadgets-news/how-israel-responded-to-boycottmaldives-hashtag-on-x/articleshow/106671872.cms](https://timesofindia.indiatimes.com/gadgets-news/how-israel-responded-to-boycottmaldives-hashtag-on-x/articleshow/106671872.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T13:08:02+00:00
+
+
+
+## B'luru woman CEO tried to kill herself after murdering son: Police
+ - [https://timesofindia.indiatimes.com/india/suchana-seth-attempted-suicide-after-killing-her-son-in-goa-apartment-says-police/articleshow/106671519.cms](https://timesofindia.indiatimes.com/india/suchana-seth-attempted-suicide-after-killing-her-son-in-goa-apartment-says-police/articleshow/106671519.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T13:06:06+00:00
+
+The CEO of a Bengaluru start-up company was arrested for allegedly murdering her 4-year-old son at a hotel in Goa. After committing the crime, she allegedly tried to end her own life. The motive behind the murder is unknown, but the woman mentioned that she and her husband were estranged and going through a divorce. She has been booked under murder and destruction of evidence charges.
+
+## How this Chinese tech giant lost $32 billion, why more losses in store
+ - [https://timesofindia.indiatimes.com/gadgets-news/how-this-chinese-tech-giant-lost-32-billion-and-why-more-losses-may-be-in-store/articleshow/106671753.cms](https://timesofindia.indiatimes.com/gadgets-news/how-this-chinese-tech-giant-lost-32-billion-and-why-more-losses-may-be-in-store/articleshow/106671753.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T13:00:58+00:00
+
+The Chinese government issued new guidelines and curbs for gaming companies, impacting Tencent Holdings. Tencent's stock value dropped by $32 billion, 8% below pre-announcement level. Concerns raised about impact on Tencent's gaming business, which contributed 21% of total revenue in Q3. However, JPMorgan analyst believes regulations aim to curb excessive spending, not stifle overall consumption. Tencent launched "Dream Star" to gain market share and adjust practices. Tencent's aggressive share buyback program continues. Investors cautious about future performance due to proposed regulations.
+
+## Maldives president's appeal to China amid Indian boycott
+ - [https://timesofindia.indiatimes.com/india/maldives-president-muizzus-appeal-to-china-amid-indian-tourist-backlash/articleshow/106671314.cms](https://timesofindia.indiatimes.com/india/maldives-president-muizzus-appeal-to-china-amid-indian-tourist-backlash/articleshow/106671314.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T12:55:49+00:00
+
+
+
+## 'I will miss you': Surya, Rashid's social media interaction
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/i-will-miss-you-suryakumar-yadav-and-rashid-khan-engage-in-a-social-media-interaction/articleshow/106671386.cms](https://timesofindia.indiatimes.com/sports/cricket/news/i-will-miss-you-suryakumar-yadav-and-rashid-khan-engage-in-a-social-media-interaction/articleshow/106671386.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T12:52:29+00:00
+
+Players from India and Afghanistan maintain a strong camaraderie both on and off the field, a bond that has been evident in the past. A recent exchange on social media between Suryakumar Yadav and Rashid Khan further exemplifies the depth of their connection.
+
+## Google is facing a $7 billion AI 'problem,' here's why
+ - [https://timesofindia.indiatimes.com/gadgets-news/google-faces-a-7-billion-problem-for-its-ai-technology-in-us/articleshow/106669733.cms](https://timesofindia.indiatimes.com/gadgets-news/google-faces-a-7-billion-problem-for-its-ai-technology-in-us/articleshow/106669733.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T12:12:34+00:00
+
+Google is set to appear before a federal jury in Boston for a trial regarding allegations of patent infringement. Singular Computing, founded by Joseph Bates, claims that Google copied his technology to power AI features in Google services. Singular is seeking up to $7 billion in damages. Google denies the validity of the patents and asserts that they independently developed their processors. The trial is expected to last two to three weeks.
+
+## Congress takes jibe at PM Modi over India-Maldives row
+ - [https://timesofindia.indiatimes.com/india/pm-modi-takes-everything-personally-congress-president-mallikarjun-kharge-on-india-maldives-row/articleshow/106669723.cms](https://timesofindia.indiatimes.com/india/pm-modi-takes-everything-personally-congress-president-mallikarjun-kharge-on-india-maldives-row/articleshow/106669723.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T12:02:27+00:00
+
+
+
+## Who is Gabriel Attal, France's youngest and first openly gay PM
+ - [https://timesofindia.indiatimes.com/world/europe/who-is-gabriel-attal-frances-youngest-and-first-openly-gay-pm/articleshow/106669000.cms](https://timesofindia.indiatimes.com/world/europe/who-is-gabriel-attal-frances-youngest-and-first-openly-gay-pm/articleshow/106669000.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T11:34:20+00:00
+
+
+
+## Watch: Apple recreates the ‘iPhone moment’ with Vision Pro
+ - [https://timesofindia.indiatimes.com/gadgets-news/watch-apple-recreates-the-iphone-moment-with-its-first-vision-pro-ad/articleshow/106669159.cms](https://timesofindia.indiatimes.com/gadgets-news/watch-apple-recreates-the-iphone-moment-with-its-first-vision-pro-ad/articleshow/106669159.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T11:32:36+00:00
+
+Apple released the first ad for its Vision Pro headset, titled 'Get Ready.' The ad draws similarities to the original commercial for the iPhone and features clips of characters wearing goggles, helmets, and masks from popular movies and TV shows. The Vision Pro, priced at $3,499, will be available for pre-orders on January 19 and in stores on February 2 in the United States.
+
+## If China invades Taiwan, it'd cost world economy $10 trillion
+ - [https://timesofindia.indiatimes.com/world/china/if-china-invades-taiwan-it-would-cost-world-economy-10-trillion/articleshow/106664628.cms](https://timesofindia.indiatimes.com/world/china/if-china-invades-taiwan-it-would-cost-world-economy-10-trillion/articleshow/106664628.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T11:28:46+00:00
+
+
+
+## Maestro Rashid Khan passes away after battle with cancer
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maestro-rashid-khan-passes-away-after-battle-with-cancer-reports/articleshow/106669040.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maestro-rashid-khan-passes-away-after-battle-with-cancer-reports/articleshow/106669040.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T11:28:00+00:00
+
+Renowned classical music maestro Ustad Rashid Khan has tragically passed away after battling prostate cancer, as confirmed by Mamata Banerjee. The 55-year-old virtuoso, who had been receiving treatment in a Kolkata hospital, was put on a ventilator and required oxygen support.
+
+## Shortest-ever Test: ICC rates Newlands pitch as...
+ - [https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/shortest-ever-completed-test-icc-rates-newlands-pitch-as-/articleshow/106668272.cms](https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/shortest-ever-completed-test-icc-rates-newlands-pitch-as-/articleshow/106668272.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T11:10:59+00:00
+
+The International Cricket Council (ICC) on Tuesday rated the Newlands pitch for the second Test between India and South Africa as "unsatisfactory" after it ended inside five sessions. India defeated the hosts by seven wickets in the match, which turned out to be the shortest-ever in the history of Test cricket. The victory allowed India to draw the two-match series 1-1. The decision was made under the ICC Pitch and Outfield Monitoring Process. Only 642 balls could be bowled in the match.
+
+## 22-yr-old Yash fan passed away in a road accident in Karnataka
+ - [https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/another-yash-fan-passed-away-in-a-road-accident-near-mulgund-karnataka/articleshow/106668063.cms](https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/another-yash-fan-passed-away-in-a-road-accident-near-mulgund-karnataka/articleshow/106668063.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T11:05:44+00:00
+
+In a series of tragic events linked to actor Yash's fan engagements, Karnataka witnessed another sorrowful incident. A 22-year-old fan, traveling to meet Yash in Suranagi village, faced a fatal collision between his bike and a police vehicle near Mulgund. Despite receiving medical care at Gadag Institute of Medical Sciences (GIMS), the fan's injuries proved fatal, as per sources affiliated with News18 on Tuesday morning.
+
+## Watch: Sony used a PlayStation controller to drive its electric car
+ - [https://timesofindia.indiatimes.com/gadgets-news/ces-2024-sony-drove-its-electric-car-onto-the-stage-using-the-playstation-controller/articleshow/106661611.cms](https://timesofindia.indiatimes.com/gadgets-news/ces-2024-sony-drove-its-electric-car-onto-the-stage-using-the-playstation-controller/articleshow/106661611.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T10:59:28+00:00
+
+Sony's Afeela car, showcased at CES, uses Unreal Engine 5.3 for 3D graphics and visuals. Passengers enjoy 3D maps, virtual spaces, and augmented reality views. The car's safety features are provided by Qualcomm, while Microsoft Azure computing infrastructure and AI technology will be utilized. Sony collaborates with Polyphony Digital to incorporate gaming expertise in the car's development.
+
+## 'Mubarak ho lala': Kohli congratulates Shami
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/mubarak-ho-lala-virat-kohli-congratulates-mohammed-shami-for-arjuna-award/articleshow/106667295.cms](https://timesofindia.indiatimes.com/sports/cricket/news/mubarak-ho-lala-virat-kohli-congratulates-mohammed-shami-for-arjuna-award/articleshow/106667295.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T10:41:06+00:00
+
+Star Indian batsman Virat Kohli sent his congratulations to pacer Mohammed Shami for being honored with the Arjuna Award, acknowledging his outstanding performance in the year 2023.
+
+## BJP using Ram Mandir inauguration to do 'gimmick': Mamata
+ - [https://timesofindia.indiatimes.com/india/bjp-using-ram-mandir-inauguration-to-do-a-gimmick-ahead-of-lok-sabha-polls-mamata-banerjee/articleshow/106666311.cms](https://timesofindia.indiatimes.com/india/bjp-using-ram-mandir-inauguration-to-do-a-gimmick-ahead-of-lok-sabha-polls-mamata-banerjee/articleshow/106666311.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T10:17:57+00:00
+
+
+
+## NEET PG 2024 dates announced: Exam postponed to July 7
+ - [https://timesofindia.indiatimes.com/education/news/neet-pg-2024-dates-announced-exam-postponed-to-july-7-check-official-notice-here/articleshow/106664682.cms](https://timesofindia.indiatimes.com/education/news/neet-pg-2024-dates-announced-exam-postponed-to-july-7-check-official-notice-here/articleshow/106664682.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T09:27:58+00:00
+
+The NEET PG 2024 exam has been officially postponed to July 7, 2024 by the National Board of Examinations in Medical Sciences (NBEMS). The National Eligibility cum Entrance Test postgraduate (NEET PG) was originally scheduled for March 3, 2024. Additionally, the registration process for NEET PG 2024 is expected to begin soon.
+
+## 8 Aadhaar services you can access without registering your mobile
+ - [https://timesofindia.indiatimes.com/gadgets-news/how-to-access-these-8-services-without-registering-your-mobile-number/articleshow/106664607.cms](https://timesofindia.indiatimes.com/gadgets-news/how-to-access-these-8-services-without-registering-your-mobile-number/articleshow/106664607.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T09:26:46+00:00
+
+This article discusses various Aadhaar services that can be accessed without mobile number registration, including ordering Aadhaar PVC cards, checking the status of previously ordered PVC cards, verifying Aadhaar enrollment and update status, locating nearby Aadhaar Seva Kendras, scheduling appointments for enrollment or updates, checking Aadhaar validity, filing complaints, and verifying complaint statuses.
+
+## India plans new Lakshadweep airport as 'Boycott Maldives' trends
+ - [https://timesofindia.indiatimes.com/india/as-boycott-maldives-trends-online-india-plans-new-airport-for-lakshadweep/articleshow/106664221.cms](https://timesofindia.indiatimes.com/india/as-boycott-maldives-trends-online-india-plans-new-airport-for-lakshadweep/articleshow/106664221.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T09:26:12+00:00
+
+
+
+## What led Bengaluru woman CEO to kill her son, Goa Police reveal murder intent
+ - [https://timesofindia.indiatimes.com/city/goa/what-led-woman-ceo-to-kill-her-son-goa-police-reveals-murder-intent/articleshow/106663235.cms](https://timesofindia.indiatimes.com/city/goa/what-led-woman-ceo-to-kill-her-son-goa-police-reveals-murder-intent/articleshow/106663235.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T08:56:49+00:00
+
+
+
+## Developer resubmits app to App Store after addressing Apple's claims
+ - [https://timesofindia.indiatimes.com/gadgets-news/developer-resubmits-app-to-app-store-after-addressing-apples-bullshit-claims/articleshow/106663622.cms](https://timesofindia.indiatimes.com/gadgets-news/developer-resubmits-app-to-app-store-after-addressing-apples-bullshit-claims/articleshow/106663622.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T08:55:32+00:00
+
+Basecamp, the company behind Hey, requires users to sign up via a browser. But Apple's App Store rules mandate that most paid services must offer users the option to pay and sign up through the app, for which Apple receives a commission of up to 30%. This way, the developer avoids paying the ‘Apple tax’.
+
+## 'Lalit Modi called...': Ex-India cricketer reveals IPL career threat
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/lalit-modi-called-me-and-former-india-cricketer-reveals-ipl-career-threat-over-choice-of-franchise/articleshow/106662909.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/lalit-modi-called-me-and-former-india-cricketer-reveals-ipl-career-threat-over-choice-of-franchise/articleshow/106662909.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T08:41:34+00:00
+
+Former Indian fast bowler revealed that he faced significant pressure during the Indian Premier League (IPL)'s inaugural season over his choice of franchise, Royal Challengers Bangalore (RCB). He stated that RCB was not his preferred team and his reluctance to join led to a severe reaction from IPL commissioner Lalit Modi. The pacer initially preferred Delhi Daredevils, citing factors such as distance, lack of English knowledge, and unfavorable food. He wished to play for Delhi Daredevils.
+
+## ‘Missing washer’ found in India-operated Boeing 737 Max: DGCA
+ - [https://timesofindia.indiatimes.com/business/india-business/missing-washer-found-in-a-boeing-737-max-operated-by-an-indian-carrier-dgca/articleshow/106662936.cms](https://timesofindia.indiatimes.com/business/india-business/missing-washer-found-in-a-boeing-737-max-operated-by-an-indian-carrier-dgca/articleshow/106662936.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T08:37:21+00:00
+
+Boeing 737 MAX aircraft operated by Indian carriers, including Air India Express, SpiceJet, and Akasa, were subjected to safety checks after a loose bolt was found in one plane. Boeing instructed operators globally to inspect specific tie rods controlling rudder movement for potential loose hardware. Among the 40 Boeing 737 MAX in India, inspections revealed a missing washer on one aircraft. The Directorate General of Civil Aviation (DGCA) confirmed rectification actions were taken before releasing the aircraft for service.
+
+## Lakshadweep high for this small-cap stock!
+ - [https://timesofindia.indiatimes.com/business/india-business/lakshadweep-high-for-this-small-cap-stock-how-a-multibagger-has-surged-almost-39-in-2-days/articleshow/106661522.cms](https://timesofindia.indiatimes.com/business/india-business/lakshadweep-high-for-this-small-cap-stock-how-a-multibagger-has-surged-almost-39-in-2-days/articleshow/106661522.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T08:28:12+00:00
+
+Following Prime Minister Narendra Modi's visit to Lakshadweep, the small-cap stock Praveg experienced a surge of up to 39%. Investors are optimistic about Praveg benefiting from the 'Chalo Lakshadweep' campaign amid the India-Maldives dispute. Praveg has recently received a work order for developing luxury resorts on Agatti Island, contributing to the expansion of its portfolio to nine operational properties. In response to the controversy, Easy Trip Planners ceased flight bookings to the Maldives and recommended exploring Lakshadweep. The Maldives government took action by suspending three ministers who had made disparaging remarks about PM Modi.
+
+## Popular video game software provider lays off 1,800 employees
+ - [https://timesofindia.indiatimes.com/gadgets-news/popular-video-game-software-provider-lays-off-1800-employees-all-the-details/articleshow/106662116.cms](https://timesofindia.indiatimes.com/gadgets-news/popular-video-game-software-provider-lays-off-1800-employees-all-the-details/articleshow/106662116.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T08:26:52+00:00
+
+Unity announced that it plans to reduce approximately 1,800 employee roles, or approximately 25% of its current workforce. The company said that the layoffs are taking place “as it restructures and refocuses on its core business, and to position itself for long-term and profitable growth.”
+
+## CEO kills son in Goa: Who is Bengaluru's killer mom Suchana
+ - [https://timesofindia.indiatimes.com/city/goa/who-is-suchana-seth-mindful-ai-lab-ceo-woman-ceo-kills-son-in-goa-what-police-said-about-bengalurus-killer-mom-and-chilling-murder/articleshow/106661615.cms](https://timesofindia.indiatimes.com/city/goa/who-is-suchana-seth-mindful-ai-lab-ceo-woman-ceo-kills-son-in-goa-what-police-said-about-bengalurus-killer-mom-and-chilling-murder/articleshow/106661615.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T08:21:04+00:00
+
+
+
+## Land-for-jobs scam: ED files chargesheet against Rabri Devi
+ - [https://timesofindia.indiatimes.com/india/land-for-jobs-scam-ed-files-chargesheet-against-rabri-devi-daughter-misa-bharti/articleshow/106660409.cms](https://timesofindia.indiatimes.com/india/land-for-jobs-scam-ed-files-chargesheet-against-rabri-devi-daughter-misa-bharti/articleshow/106660409.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T08:05:22+00:00
+
+The Enforcement Directorate (ED) filed its inaugural chargesheet on Tuesday in a money laundering case linked to the land-for-jobs scam. Former Bihar CM Rabri Devi and her daughter Misa Bharti are among the five individuals named in the extensive 4,751-page chargesheet. Two companies, AB Export and AK Infosystems, are also implicated. AK Infosystems' promoter, Amit Katyal, a close associate of Rashtriya Janata Dal (RJD) chief Lalu Prasad's family, was arrested last year. The case is set for consideration on January 16.
+
+## 'I am a devotee of Lord Hanuman and Lord Ram': Keshav Maharaj
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/i-am-a-devotee-of-lord-hanuman-and-lord-ram-keshav-maharaj-on-ram-siya-ram-song/articleshow/106660670.cms](https://timesofindia.indiatimes.com/sports/cricket/news/i-am-a-devotee-of-lord-hanuman-and-lord-ram-keshav-maharaj-on-ram-siya-ram-song/articleshow/106660670.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T07:47:59+00:00
+
+South Africa's spinner, Keshav Maharaj, finds the 'Ram Siya Ram' song played during his entrance quite fitting and resonant with his presence on the field. In the recent second Test match between India and South Africa in Cape Town, the devotional song accompanied Maharaj as he walked out to bat on Day 1. Notably, India's formidable batsman, Virat Kohli, acknowledged the moment by joining his hands together in a gesture resembling pulling a bow string as the song played, showcasing a respectful acknowledgment of Maharaj's entrance.
+
+## Pics: ONGC begins production in Godavari basin
+ - [https://timesofindia.indiatimes.com/business/india-business/in-pics-ongc-begins-production-from-krishna-godavari-basin-in-bay-of-bengal-why-its-remarkable/articleshow/106659581.cms](https://timesofindia.indiatimes.com/business/india-business/in-pics-ongc-begins-production-from-krishna-godavari-basin-in-bay-of-bengal-why-its-remarkable/articleshow/106659581.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T07:27:45+00:00
+
+State-owned ONGC has started oil production from its long-awaited deep-sea project in the Krishna Godavari basin, which is expected to reverse declining output. The initial oil flow from the KG-DWN-98/2 block took place on January 7.
+
+## ‘Loose hardware’, flights still running: Alaska Airlines' latest
+ - [https://timesofindia.indiatimes.com/world/us/loose-hardware-on-737-9-max-jets-flights-still-running-heres-the-latest-in-the-alaska-airline-investigation/articleshow/106655090.cms](https://timesofindia.indiatimes.com/world/us/loose-hardware-on-737-9-max-jets-flights-still-running-heres-the-latest-in-the-alaska-airline-investigation/articleshow/106655090.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T07:06:21+00:00
+
+Alaska Airlines flight 1282 made an emergency landing due to a mid-flight incident. The incident has raised concerns about flight safety worldwide. Investigations are underway to determine the cause. Alaska Airlines reported the discovery of "loose hardware" during fleet inspections. United Airlines also faced similar issues with their Boeing jets. The National Transportation Safety Board (NTSB) has recovered the missing part and is conducting further analysis. Precautionary measures, including grounding Max 9 jets, have been taken by several airline companies.
+
+## Watch: Poco X6 Pro makes an appearance on Salman Khan’s Bigg Boss 17
+ - [https://timesofindia.indiatimes.com/gadgets-news/watch-poco-x6-pro-makes-appearance-on-salman-khans-bigg-boss-17-weekend-ka-vaar/articleshow/106658931.cms](https://timesofindia.indiatimes.com/gadgets-news/watch-poco-x6-pro-makes-appearance-on-salman-khans-bigg-boss-17-weekend-ka-vaar/articleshow/106658931.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T06:51:14+00:00
+
+
+
+## Watch: Shami, para-archer Sheetal receive Arjuna awards
+ - [https://timesofindia.indiatimes.com/sports/more-sports/others/national-sports-awards-2023-mohammed-shami-para-archer-sheetal-devi-receive-arjuna-awards-watch/articleshow/106658464.cms](https://timesofindia.indiatimes.com/sports/more-sports/others/national-sports-awards-2023-mohammed-shami-para-archer-sheetal-devi-receive-arjuna-awards-watch/articleshow/106658464.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T06:40:51+00:00
+
+Indian pacer Mohammed Shami has been awarded the Arjuna Award, India's second-highest sporting honor, for his outstanding performance over the past four years. The award, presented by President Droupadi Murmu at the National Sports Awards ceremony, recognizes athletes for their leadership, sportsmanship, and discipline. Shami, who is currently undergoing ankle rehabilitation, received the award from President Droupadi Murmu. The ceremony, held at Rashtrapati Bhavan, honored various sportspersons, coaches, and entities for their outstanding contributions to sports in India.
+
+## Adani Ports & SEZ shares reach record high: What's; driving the rally
+ - [https://timesofindia.indiatimes.com/business/india-business/multibagger-adani-ports-and-special-economic-zone-shares-hit-lifetime-high-whats-driving-the-rally/articleshow/106658426.cms](https://timesofindia.indiatimes.com/business/india-business/multibagger-adani-ports-and-special-economic-zone-shares-hit-lifetime-high-whats-driving-the-rally/articleshow/106658426.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T06:39:50+00:00
+
+Shares of Adani Ports and Special Economic Zone witnessed a nearly 4% surge, hitting an all-time high of Rs 1,213.25 on the National Stock Exchange on Tuesday.
+
+## Watch: This Pak cricketer wants Brad Pitt in his biopic
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/watch-this-pakistan-cricketer-wants-brad-pitt-to-play-him-in-his-biopic/articleshow/106657757.cms](https://timesofindia.indiatimes.com/sports/cricket/news/watch-this-pakistan-cricketer-wants-brad-pitt-to-play-him-in-his-biopic/articleshow/106657757.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T06:33:50+00:00
+
+Ahmed Shehzad's entry into the international arena came in 2009 when he debuted for Pakistan in limited-overs cricket. His distinctive ability to take on bowlers with confidence and his elegant stroke-making quickly earned him recognition. Notably, his aggressive approach at the crease often sets the tempo for Pakistan's innings. Shehzad's career milestones include becoming the youngest Pakistani to score a century in a Test match at the age of 22 against Sri Lanka in 2014.
+
+## 'Bitcoin Rodney' arrested in multi-million crypto scam
+ - [https://timesofindia.indiatimes.com/gadgets-news/bitcoin-rodney-arrested-in-multi-million-hyperverse-crypto-scam-that-duped-lakhs-of-investors/articleshow/106657871.cms](https://timesofindia.indiatimes.com/gadgets-news/bitcoin-rodney-arrested-in-multi-million-hyperverse-crypto-scam-that-duped-lakhs-of-investors/articleshow/106657871.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T06:23:03+00:00
+
+Rodney Burton, alias "Bitcoin Rodney," is accused of promoting a fraudulent crypto investment scheme, marking the first arrest in the HyperVerse saga. The US Internal Revenue Service (IRS) alleges Burton ran an unlicensed money transmitting business, receiving over $7.8 million from investors. HyperFund, operating under various names, promised daily rewards but collapsed, leaving investors with worthless "Hyper Units." Investigations are underway into Australian businessmen Sam Lee and Ryan Xu's involvement in the case.
+
+## Senior citizens: Unlock up to 8.1% interest on 3-yr FD
+ - [https://timesofindia.indiatimes.com/business/india-business/fixed-deposit-interest-rates-for-senior-citizens-avail-interest-rate-of-up-to-8-1-on-3-year-bank-fixed-deposits-check-complete-list-here/articleshow/106657252.cms](https://timesofindia.indiatimes.com/business/india-business/fixed-deposit-interest-rates-for-senior-citizens-avail-interest-rate-of-up-to-8-1-on-3-year-bank-fixed-deposits-check-complete-list-here/articleshow/106657252.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T06:18:34+00:00
+
+Private sector banks offer senior citizens up to 8.1% interest rates on fixed deposits (FDs) below Rs 2 crore. DCB Bank provides an 8.1% interest rate for FDs maturing between 26 months and less than 37 months. RBL Bank offers 8% interest for FDs maturing between 24 months 1 day and 36 months. IndusInd Bank also provides 8% interest for FDs maturing between 2 years 9 months and 3 years 3 months. Additionally, TDS gets deducted if a senior citizen's cumulative interest income exceeds Rs 50,000, but they can prevent deduction by submitting Form 15H.
+
+## Asus ROG Phone 8 with new design, gaming features launched
+ - [https://timesofindia.indiatimes.com/gadgets-news/asus-rog-phone-8-with-new-design-improved-camera-and-gaming-features-launched-price-features-and-more/articleshow/106646759.cms](https://timesofindia.indiatimes.com/gadgets-news/asus-rog-phone-8-with-new-design-improved-camera-and-gaming-features-launched-price-features-and-more/articleshow/106646759.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T06:11:25+00:00
+
+Asus Republic of Gamers (ROG) has announced the new ROG Phone 8 series, succeeding the ROG Phone 7. The series features the Snapdragon 8 Gen 3 chipset, gimbal-like image stabilisation, and an IP68 rating. It also has the GameCool8 thermal design and supports the AeroActive Cooler X clip-on cooler. The display is a 6.78-inch flexible AMOLED with LPTO technology. The camera setup includes a 50MP main camera with 6-Axis Hybrid Gimbal Stabilizer 3.0 and offers 10x HyperClarity zoom. Other features include AirTrigger ultrasonic controls, a 3.5mm audio jack with Dirac Virtuo technology, and support for Qualcomm aptX adaptive. The ROG Phone 8 series will be available at Vijay Sales Store, Asus E-Shop, ASUS Exclusive Store, and ROG Store.
+
+## Zee shares plummet 10% on buzz of Sony calling off merger
+ - [https://timesofindia.indiatimes.com/business/india-business/zee-shares-plummet-10-on-buzz-of-sony-calling-off-10-billion-merger/articleshow/106656861.cms](https://timesofindia.indiatimes.com/business/india-business/zee-shares-plummet-10-on-buzz-of-sony-calling-off-10-billion-merger/articleshow/106656861.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T06:08:54+00:00
+
+Shares of Zee Entertainment Enterprises Ltd (ZEEL) have plummeted following reports of Sony Group Corp considering calling off the $10 billion merger. The decision is attributed to regulatory hurdles faced by Zee Entertainment's Managing Director, Punit Goenka.
+
+## 'WTC has made it worse for Test cricket'
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/world-test-championship-has-made-it-worse-for-test-cricket/articleshow/106656808.cms](https://timesofindia.indiatimes.com/sports/cricket/news/world-test-championship-has-made-it-worse-for-test-cricket/articleshow/106656808.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T05:59:52+00:00
+
+Former England Test batter Mark Butcher has criticised the International Cricket Council's World Test Championship (WTC), arguing that it has done more harm than good to the longest format of the game. He believes the WTC fails to capture the imagination of fans and players, which is essential for maintaining competitiveness and interest in the bilateral series.
+
+## Yash urges responsible display of affection after three fans died
+ - [https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-urges-a-responsible-display-of-affection-after-three-fans-lost-their-lives-getting-electrocuted/articleshow/106656769.cms](https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-urges-a-responsible-display-of-affection-after-three-fans-lost-their-lives-getting-electrocuted/articleshow/106656769.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T05:55:55+00:00
+
+Three fans lost their lives in an electrocution accident while setting up a towering cut-out of Rocking Star Yash on his birthday. Yash expressed deep sadness and stressed the need for genuine affection instead of dangerous fandom. He requested his supporters to prioritize their health and safety. Yash also urged caution during the COVID-19 pandemic and emphasized group responsibility. He promised financial support to the families of the deceased fans.
+
+## Former Shark takes dig at Bollywood actor amid Maldives debate
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/former-shark-ashneer-grover-takes-a-dig-at-this-bollywood-actor-amid-the-maldives-vs-lakshadweep-debate-on-social-media/articleshow/106656819.cms](https://timesofindia.indiatimes.com/tv/news/hindi/former-shark-ashneer-grover-takes-a-dig-at-this-bollywood-actor-amid-the-maldives-vs-lakshadweep-debate-on-social-media/articleshow/106656819.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T05:54:04+00:00
+
+Indian celebs and Bollywood performers frequent the Maldives for relaxation and luxury resorts. However, the recent dispute between Lakshadweep and the Maldives has caused outrage on social media. TV actors express support for Lakshadweep, while Ashneer Grover from Shark Tank India makes a witty remark. The controversy has led to a boycott of the Maldives with the hashtag #ChaloLakshadweep trending. Bollywood actor Vir Das comments on the situation, and Ashneer Grover responds indirectly, drawing attention on social media.
+
+## Son Ye Ji, Hyun Bin make 150 mil Won donation for kids, single moms
+ - [https://timesofindia.indiatimes.com/web-series/news/korean/son-ye-jin-and-hyun-bin-make-a-generous-donation-of-150-million-won-towards-welfare-of-kids-and-single-mothers/articleshow/106654957.cms](https://timesofindia.indiatimes.com/web-series/news/korean/son-ye-jin-and-hyun-bin-make-a-generous-donation-of-150-million-won-towards-welfare-of-kids-and-single-mothers/articleshow/106654957.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T05:13:27+00:00
+
+Son Ye Jin's agency, MSteam Entertainment, confirmed her join contribution with husband Hyun Bin to the Asan Medical Center aims to cover children's medical expenses. Son Ye Jin expressed that the donation serves as a Christmas gift, bringing warmth to children in need. Son Ye Jin and Hyun Bin also contributed to the Jusarang Community Foundation, supporting programs for single mothers and their children.
+
+## Huge 200-car rally organized in US ahead of Ram Mandir consecration
+ - [https://timesofindia.indiatimes.com/auto/cars/wheels-of-worship-huge-200-car-rally-organized-in-us-ahead-of-ram-mandir-consecration/articleshow/106654705.cms](https://timesofindia.indiatimes.com/auto/cars/wheels-of-worship-huge-200-car-rally-organized-in-us-ahead-of-ram-mandir-consecration/articleshow/106654705.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T04:55:35+00:00
+
+Over 200 cars adorned with Hindu symbols and saffron flags held a grand rally in Houston, Texas, organized by the Indian-American community to express excitement and devotion ahead of the upcoming consecration of the Ram Mandir in Ayodhya. The convoy, which visited 11 temples, was initiated at Sri Meenakshi Temple and concluded at Sri Sharad Amba Temple. The rally covered 160 km, with 2,000 devotees welcoming the procession at the temples.
+
+## Infosys senior VP Binny Mathews joins Accenture, shares new role
+ - [https://timesofindia.indiatimes.com/gadgets-news/infosys-senior-vp-binny-mathews-joins-global-it-major-accenture-shares-new-role/articleshow/106654761.cms](https://timesofindia.indiatimes.com/gadgets-news/infosys-senior-vp-binny-mathews-joins-global-it-major-accenture-shares-new-role/articleshow/106654761.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T04:55:15+00:00
+
+Binny Mathews, an Infosys veteran, has joined Accenture as the chief procurement officer and head of Procurement Plus (P+) capability. Margaret Smith, senior managing director at Accenture, praised Mathews for his role in powering innovation and growth. The year 2023 has seen several senior IT executives leaving both Infosys and Wipro, resulting in lawsuits and allegations of unethical poaching tactics. In September 2023, Accenture announced company-wide restructuring, appointing five senior-level executives.
+
+## BB17's Ankita Lokhande: 'Mere papa ki death hui hai, aap mat bolo'
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-17-ankita-lokhandes-mother-in-law-reveals-her-father-in-law-had-called-her-mother-when-she-had-kicked-vicky-jain-former-says-mere-papa-ki-death-hui-hai-aap-mat-bolo-please/articleshow/106654629.cms](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-17-ankita-lokhandes-mother-in-law-reveals-her-father-in-law-had-called-her-mother-when-she-had-kicked-vicky-jain-former-says-mere-papa-ki-death-hui-hai-aap-mat-bolo-please/articleshow/106654629.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T04:53:22+00:00
+
+In the upcoming episode of Bigg Boss 17, the contestants will have a special family week where they get to meet their loved ones. This time, Ankita Lokhande and Vicky Jain's mothers have entered the house to meet their children. Ankita's mother expressed her concern about the fights that have been happening in the house. Vicky's mother brought a light-hearted atmosphere with her witty one-liners. The Family Week in Bigg Boss 17 promises emotional reunions and candid conversations between the contestants and their loved ones.
+
+## 24 cases of JN.1 reported in Delhi, other variants circulating
+ - [https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-in-delhi-24-cases-of-jn-1-reported-here-are-the-other-variants-circulating/articleshow/106654588.cms](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-in-delhi-24-cases-of-jn-1-reported-here-are-the-other-variants-circulating/articleshow/106654588.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T04:52:42+00:00
+
+COVID cases are increasing. India has logged 605 new cases of Covid, while the number of active cases of the infection stood at 4,002, the health ministry said on Monday. Four deaths -- two from Kerala and one each from Karnataka and Tripura -- have been reported in a span of 24 hours, according to the ministry's data. Of the total active cases, a large majority of these (around 92 per cent) are recovering under home isolation.
+
+## Ex-India cricketer criticizes Virat & Rohit's T20I return
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/i-thought-the-team-had-moved-on-former-india-cricketer-criticizes-virat-kohli-and-rohit-sharmas-return-to-t20i-setup/articleshow/106653950.cms](https://timesofindia.indiatimes.com/sports/cricket/news/i-thought-the-team-had-moved-on-former-india-cricketer-criticizes-virat-kohli-and-rohit-sharmas-return-to-t20i-setup/articleshow/106653950.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T04:37:21+00:00
+
+The return of Virat Kohli and Rohit Sharma to the T20I format for the upcoming three-match series against Afghanistan has sparked controversy, with former India cricketer Deep Dasgupta criticizing the team selection. While former India captains Sourav Ganguly and Sunil Gavaskar supported the comeback, Dasgupta compared it to the 2022 T20 World Cup situation. The duo's absence allowed for the emergence of young talents, leading to a transition phase and the nurturing of a younger squad.
+
+## DRDO launches assault rifle 'Ugram' for Indian Army
+ - [https://timesofindia.indiatimes.com/city/pune/drdo-launches-assault-rifle-ugram-for-indian-army/articleshow/106653712.cms](https://timesofindia.indiatimes.com/city/pune/drdo-launches-assault-rifle-ugram-for-indian-army/articleshow/106653712.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T04:15:48+00:00
+
+
+
+## Vehicle crashes into White House gate, driver taken into custody
+ - [https://timesofindia.indiatimes.com/world/us/vehicle-crashes-into-white-house-gate-driver-taken-into-custody/articleshow/106651874.cms](https://timesofindia.indiatimes.com/world/us/vehicle-crashes-into-white-house-gate-driver-taken-into-custody/articleshow/106651874.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T04:11:26+00:00
+
+A vehicle crashed into the White House complex gate on Monday, prompting the US Secret Service to take the driver into custody. The motive behind the collision remains unclear, raising questions about whether it was a traffic accident or an intentional attack. President Joe Biden was away at the time. An ongoing investigation by the Secret Service is determining the cause. This follows a recent drunk driving incident involving a Delaware man crashing into Biden's motorcade. There was no protective interest linked to this event, according to the Secret Service.
+
+## Ex-Pak cricketer's post goes viral amid Maldives controversy
+ - [https://timesofindia.indiatimes.com/sports/off-the-field/former-pakistan-cricketers-cryptic-post-goes-viral-amid-maldives-controversy/articleshow/106653003.cms](https://timesofindia.indiatimes.com/sports/off-the-field/former-pakistan-cricketers-cryptic-post-goes-viral-amid-maldives-controversy/articleshow/106653003.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T03:53:05+00:00
+
+Former Pakistan spinner Danish Kaneria has joined the debate on the Maldives controversy expressing support for local beaches and travel destinations in India. The controversy began when a Maldivian minister accused India of targeting the island nation after Prime Minister Narendra Modi's visit to Lakshadweep. Indian celebrities and citizens have been expressing their support for local destinations on social media.
+
+## Gas leak in Doon, residents complain of breathing issue
+ - [https://timesofindia.indiatimes.com/city/dehradun/dehradun-chlorine-gas-leak-residents-complain-of-breathing-difficlty-after-gas-leak-in-dehradun/articleshow/106652566.cms](https://timesofindia.indiatimes.com/city/dehradun/dehradun-chlorine-gas-leak-residents-complain-of-breathing-difficlty-after-gas-leak-in-dehradun/articleshow/106652566.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T03:39:00+00:00
+
+
+
+## Ambani, Adani, Chandrasekaran to attend Ram mandir consecration
+ - [https://timesofindia.indiatimes.com/business/india-business/ambani-adani-n-chandrasekaran-birla-among-top-business-tycoons-readying-to-attend-ram-mandir-consecration-ceremony-in-ayodhya/articleshow/106652185.cms](https://timesofindia.indiatimes.com/business/india-business/ambani-adani-n-chandrasekaran-birla-among-top-business-tycoons-readying-to-attend-ram-mandir-consecration-ceremony-in-ayodhya/articleshow/106652185.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T03:33:04+00:00
+
+India's top business leaders, including Mukesh Ambani, Kumar Mangalam Birla, N Chandrasekaran, and Gautam Adani, are preparing to attend the consecration ceremony of the Ram Mandir in Ayodhya on January 22. The event will witness the presence of business tycoons, entertainment, sports, politics, faith, public life, and arts personalities.
+
+## Salman Khan seen at Mumbai airport after farmhouse break-in
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-spotted-at-mumbai-airport-with-tight-security-hours-after-two-men-tried-to-enter-his-farmhouse/articleshow/106652770.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-spotted-at-mumbai-airport-with-tight-security-hours-after-two-men-tried-to-enter-his-farmhouse/articleshow/106652770.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T03:32:26+00:00
+
+Salman Khan spotted at the Kalina airport in a causal avatar as he waved at the paparazzi after two men tried to intrude his farm house and a complaint was filed against them on Monday...
+
+## Govt mandates strict emission standards for flex-fuel vehicles
+ - [https://timesofindia.indiatimes.com/auto/policy-and-industry/road-transport-ministry-mandates-stringent-emission-standards-for-flex-fuel-vehicles-details/articleshow/106652299.cms](https://timesofindia.indiatimes.com/auto/policy-and-industry/road-transport-ministry-mandates-stringent-emission-standards-for-flex-fuel-vehicles-details/articleshow/106652299.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T03:22:21+00:00
+
+The Ministry of Road Transport and Highways (MoRTH) has introduced stricter emission standards for flex-fuel vehicles in India. The new rules require vehicles that can use bi-fuel with flex-fuel options to undergo tests for both gas and particulate pollutants. Additionally, vehicles running on Hydrogen only need to be tested for nitrogen oxide. The notification from MoRTH also states that vehicles fuelled with biodiesel blends above 7 percent will be tested with respective blends.
+
+## 'Opener' Smith can break Lara's 400 record: Clarke
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/opener-steve-smith-can-break-brian-laras-400-record-michael-clarke/articleshow/106651937.cms](https://timesofindia.indiatimes.com/sports/cricket/news/opener-steve-smith-can-break-brian-laras-400-record-michael-clarke/articleshow/106651937.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T03:13:04+00:00
+
+Former Australia captain Michael Clarke has expressed confidence in Steve Smith's potential to become the world's best Test opener within a year. Clarke believes that Smith's technical prowess, ability to judge deliveries, and excellent hand-eye coordination make him a strong candidate. As selectors prepare to announce the squad for the first Test against West Indies, the focus has shifted from selecting a specialist opener to incorporating all-rounder Cameron Green or potentially allowing Smith to take on the opening role.
+
+## Our pace attack can challenge any team in the world: Shami
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/our-pace-attack-can-challenge-any-team-in-the-world-mohammed-shami/articleshow/106651852.cms](https://timesofindia.indiatimes.com/sports/cricket/news/our-pace-attack-can-challenge-any-team-in-the-world-mohammed-shami/articleshow/106651852.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T03:08:49+00:00
+
+Premier fast bowler Mohammed Shami, currently recovering from an ankle injury, is anticipated to stage his return to international cricket during the upcoming five-Test series against England on home turf. Scheduled to receive the prestigious Arjuna award, Shami shared with TOI that his rehabilitation progress at the National Cricket Academy (NCA) has been promising, expressing readiness for selection in the England series. Despite his inclusion in the squad, Shami was sidelined from the recent two-Test away series against South Africa due to the injury.
+
+## ChatGPT creator says The New York Times' case is 'without merit'
+ - [https://timesofindia.indiatimes.com/gadgets-news/chatgpt-creator-says-new-york-times-case-is-without-merit/articleshow/106651598.cms](https://timesofindia.indiatimes.com/gadgets-news/chatgpt-creator-says-new-york-times-case-is-without-merit/articleshow/106651598.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T03:01:36+00:00
+
+OpenAI responds to the lawsuit filed by The New York Times, stating that they disagree with the claims of copyright infringement. OpenAI sees the lawsuit as an opportunity to clarify its business practices and intentions. The company is actively collaborating with news organizations and industry groups to address concerns and create mutually beneficial opportunities. OpenAI asserts that training AI models using publicly available internet materials is fair use and necessary for innovation and US competitiveness.
+
+## Woman SI heckled by 20 drunk men in Chennai
+ - [https://timesofindia.indiatimes.com/city/chennai/woman-cop-heckled-and-attacked-by-drunk-men-in-chennai-latest-news/articleshow/106651201.cms](https://timesofindia.indiatimes.com/city/chennai/woman-cop-heckled-and-attacked-by-drunk-men-in-chennai-latest-news/articleshow/106651201.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T02:49:52+00:00
+
+
+
+## Ranji Trophy: Captain Yash Dhull sacked after Delhi defeat
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-captain-yash-dhull-sacked-after-delhi-suffer-9-wicket-loss-to-puducherry-at-home/articleshow/106651088.cms](https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-captain-yash-dhull-sacked-after-delhi-suffer-9-wicket-loss-to-puducherry-at-home/articleshow/106651088.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T02:48:06+00:00
+
+Monday morning marked a dismal chapter in Delhi cricket's history. Facing Puducherry, a team new to First-Class cricket for just five years, Delhi suffered a humbling defeat by nine wickets at their home ground in the opening match of the Ranji Trophy season. Amidst Puducherry's understandable celebration, Delhi's unexpected collapse against a less experienced opponent has once again highlighted the longstanding issues within the Delhi and District Cricket Association (DDCA). Himmat Singh has assumed the leadership role, while Ayush Badoni continues as vice-captain.
+
+## In Maha, JN.1 emerges as predominant Covid strain
+ - [https://timesofindia.indiatimes.com/city/mumbai/in-maha-jn-1-emerges-as-predominant-covid-strain/articleshow/106651136.cms](https://timesofindia.indiatimes.com/city/mumbai/in-maha-jn-1-emerges-as-predominant-covid-strain/articleshow/106651136.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T02:47:19+00:00
+
+
+
+## Delhi interfaith love: Ankit's family torn apart in 6 yrs
+ - [https://timesofindia.indiatimes.com/city/delhi/tragic-story-dead-father-ailing-mother-and-family-torn-apart/articleshow/106651022.cms](https://timesofindia.indiatimes.com/city/delhi/tragic-story-dead-father-ailing-mother-and-family-torn-apart/articleshow/106651022.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T02:43:24+00:00
+
+Ankit Saxena's mother demands capital punishment and death sentence for the convicted killers who slit her son's neck in public. She wants nothing less than the death sentence as it was her husband's last wish. Ankit was the sole bread earner in the family, and after his death, they had no family income. The mother's financial condition was hit by the murder, and she currently receives some money from an NGO and a monthly pension.
+
+## Ayodhya: Celeb chef to prepare 7,000kg Ram Halwa
+ - [https://timesofindia.indiatimes.com/city/nagpur/ayodhya-celeb-chef-vishnu-manohar-to-prepare-7000kg-ram-halwa/articleshow/106650963.cms](https://timesofindia.indiatimes.com/city/nagpur/ayodhya-celeb-chef-vishnu-manohar-to-prepare-7000kg-ram-halwa/articleshow/106650963.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T02:40:10+00:00
+
+
+
+## Hanumangarhi Laddu all set to join the elite GI tag club
+ - [https://timesofindia.indiatimes.com/city/varanasi/ayodhyas-hanumangarhi-laddu-all-set-to-join-the-elite-gi-tag-club/articleshow/106650910.cms](https://timesofindia.indiatimes.com/city/varanasi/ayodhyas-hanumangarhi-laddu-all-set-to-join-the-elite-gi-tag-club/articleshow/106650910.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T02:36:14+00:00
+
+Ayodhya's famous Hanumangarhi Laddu is likely to receive the prestigious Geographical Indication (GI) tag before the Ram temple consecration ceremony. The application for the GI tag was accepted by the GI Registry in Chennai. The handmade laddu made of gram flour and desi ghee is prepared for the bhog of Lord Hanuman at the Hanuman Garhi temple. About 200 Ayodhya residents are engaged in making these laddus, with 20-25 quintals prepared daily.
+
+## Rs 1 lakh reward for finding Noida cat
+ - [https://timesofindia.indiatimes.com/city/noida/couple-offers-rs-1-lakh-for-cheeku-the-missing-cat/articleshow/106650774.cms](https://timesofindia.indiatimes.com/city/noida/couple-offers-rs-1-lakh-for-cheeku-the-missing-cat/articleshow/106650774.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T02:25:55+00:00
+
+A ginger cat named Cheeku has gone missing from Harmony Apartments in Sector 62, Noida. Cheeku, who has a ginger coat with a dash of white on the neck, has been a beloved member of the Kumar household for 18 months. The couple is offering a cash prize of Rs 1 lakh for anyone who can find and bring Cheeku home. The RWA president, RK Upreti, has been assisting Ajay Kumar in his search for the missing cat.
+
+## Maldives row: How Lakshadweep has set this worldwide record
+ - [https://timesofindia.indiatimes.com/gadgets-news/maldives-row-how-lakshadweep-has-set-this-worldwide-record-on-google/articleshow/106650476.cms](https://timesofindia.indiatimes.com/gadgets-news/maldives-row-how-lakshadweep-has-set-this-worldwide-record-on-google/articleshow/106650476.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T02:00:12+00:00
+
+The 'Boycott Maldives' call has led to a worldwide record for Lakshadweep on Google. According to PTI, Google searches for Lakshadweep are at their highest in 20 years, reflecting a hockey stick graph. The searches have increased by a huge margin. MakeMyTrip and Ixigo have also observed a significant surge in searches for Lakshadweep. The furore started after Prime Minister Narendra Modi's visit to the island, where he shared pictures and posts about the beautiful beaches and adventure activities.
+
+## Microsoft, Google expanding Saudi offices amid state pressure
+ - [https://timesofindia.indiatimes.com/gadgets-news/microsoft-and-google-expanding-saudi-offices-amid-state-pressure-heres-what-companies-have-to-say/articleshow/106650451.cms](https://timesofindia.indiatimes.com/gadgets-news/microsoft-and-google-expanding-saudi-offices-amid-state-pressure-heres-what-companies-have-to-say/articleshow/106650451.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T01:56:57+00:00
+
+Global technology giants, including Google, Microsoft, and Apple, are establishing regional headquarters in Saudi Arabia to comply with the government's new rules for state contracts. The Saudi government aims to limit 'economic leakage' by awarding contracts to companies with a substantial presence in the country. Other companies, such as Airbus, Oracle, and Pfizer, have also received licenses to establish headquarters in Riyadh. This move is seen as an attempt by Saudi Arabia to compete with Dubai as a preferred business destination in the Middle East.
+
+## 'Boycott Maldives': What travel websites EaseMyTrip, MakeMyTrip say
+ - [https://timesofindia.indiatimes.com/gadgets-news/boycott-maldives-what-senior-execs-of-indian-travel-websites-easemytrip-makemytrip-and-ixigo-have-to-say/articleshow/106650430.cms](https://timesofindia.indiatimes.com/gadgets-news/boycott-maldives-what-senior-execs-of-indian-travel-websites-easemytrip-makemytrip-and-ixigo-have-to-say/articleshow/106650430.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T01:54:12+00:00
+
+The 'Boycott Maldives' call gains momentum as Indian travel companies, including EaseMyTrip, MakeMyTrip, and Ixigo, suspend Maldives flight bookings. MakeMyTrip reports a 3,400% increase in on-platform searches for Lakshadweep after PM Modi's visit, prompting the launch of a 'Beaches of India' campaign. Ixigo sees a 2,900% surge in searches to Lakshadweep and highlights India as the top source of tourists in Maldives. Travel industry veteran Subhash Goyal appeals to boycott Maldives and divert tourism to Lakshadweep and other destinations in the Indian Ocean region.
+
+## 'We're Hindus': Shivakumar defends special puja on Jan 22
+ - [https://timesofindia.indiatimes.com/city/bengaluru/were-hindus-deputy-cm-defends-spl-puja-on-jan-22/articleshow/106650101.cms](https://timesofindia.indiatimes.com/city/bengaluru/were-hindus-deputy-cm-defends-spl-puja-on-jan-22/articleshow/106650101.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T01:17:13+00:00
+
+Deputy Chief Minister DK Shivakumar defended the Congress government's decision to organize special puja in 34,000 state-owned temples for the consecration ceremony of the Ram temple. The state government issued a circular asking temples to conduct special pujas for the Pran Pratishtapan of the Ram idol in Ayodhya. Shivakumar stated that being Hindus, there is nothing wrong in attending the consecration ceremony. The AICC will soon decide on attending the function.
+
+## TN: Woman, 19, burned to death for marrying dalit
+ - [https://timesofindia.indiatimes.com/city/chennai/woman-19-burned-to-death-for-marrying-dalit-in-tamil-nadu/articleshow/106649946.cms](https://timesofindia.indiatimes.com/city/chennai/woman-19-burned-to-death-for-marrying-dalit-in-tamil-nadu/articleshow/106649946.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T01:00:41+00:00
+
+
+
+## AI to enhance potency of social engineering attacks
+ - [https://timesofindia.indiatimes.com/india/artificial-intelligence-to-enhance-potency-of-social-engineering-attacks/articleshow/106649681.cms](https://timesofindia.indiatimes.com/india/artificial-intelligence-to-enhance-potency-of-social-engineering-attacks/articleshow/106649681.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T00:24:18+00:00
+
+
+
+## United Airlines finds loose bolts on Boeing 737 Max 9 planes
+ - [https://timesofindia.indiatimes.com/world/us/united-airlines-finds-loose-bolts-on-several-boeing-737-max-9-planes/articleshow/106649572.cms](https://timesofindia.indiatimes.com/world/us/united-airlines-finds-loose-bolts-on-several-boeing-737-max-9-planes/articleshow/106649572.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-01-09T00:15:56+00:00
+
+United Airlines discovers loose bolts and installation issues on some Boeing 737 Max 9 jets during inspections following a mid-flight fuselage blowout on an Alaska Airlines jet. The FAA grounds Max 9s operated by Alaska and United, as well as some flown by foreign airlines. The NTSB will examine the pressurization light issue and analyze the recovered door plug for further insights into the blowout incident.
+

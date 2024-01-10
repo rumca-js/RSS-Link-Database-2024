@@ -1,0 +1,42 @@
+# Source:ScreenGeek, URL:https://www.screengeek.net/feed/, language:en-US
+
+## ‘Stranger Things’ Season 5 Begins Production With First Photo
+ - [https://www.screengeek.net/2024/01/09/stranger-things-season-5-begins-production-first-photo](https://www.screengeek.net/2024/01/09/stranger-things-season-5-begins-production-first-photo)
+ - RSS feed: https://www.screengeek.net/feed/
+ - date published: 2024-01-09T19:47:10+00:00
+
+<p>The fourth season of Netflix&#8217;s Stranger Things concluded on July 1, 2022. Now, close to two years later, fans are ecstatic to know that Stranger Things Season 5 is finally entering production. The new season is intended to be the final outing for the flagship series. Of course, Netflix has several spin-off projects in the [...]</p>
+<p>The post <a href="https://www.screengeek.net/2024/01/09/stranger-things-season-5-begins-production-first-photo/">&#8216;Stranger Things&#8217; Season 5 Begins Production With First Photo</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
+## Marvel Brings Back Fan-Favorite Avenger
+ - [https://www.screengeek.net/2024/01/09/marvel-brings-back-fan-favorite-avenger](https://www.screengeek.net/2024/01/09/marvel-brings-back-fan-favorite-avenger)
+ - RSS feed: https://www.screengeek.net/feed/
+ - date published: 2024-01-09T19:29:11+00:00
+
+<p>The Marvel Cinematic Universe is taking full advantage of its Multiverse. A number of fan-favorite heroes and villains have made surprising appearances in recent years. We&#8217;ve seen Professor X appear in Doctor Strange in the Multiverse of Madness, and both Tobey Maguire and Andrew Garfield reprised their versions of Peter Parker for Spider-Man: No Way [...]</p>
+<p>The post <a href="https://www.screengeek.net/2024/01/09/marvel-brings-back-fan-favorite-avenger/">Marvel Brings Back Fan-Favorite Avenger</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
+## R-Rated Comic Book Movie Tops Charts On Netflix
+ - [https://www.screengeek.net/2024/01/09/netflix-r-rated-comic-book-tops-charts](https://www.screengeek.net/2024/01/09/netflix-r-rated-comic-book-tops-charts)
+ - RSS feed: https://www.screengeek.net/feed/
+ - date published: 2024-01-09T18:51:28+00:00
+
+<p>Many comic book movies tend to be PG-13. It&#8217;s an easy way for studios to guarantee their accessibility and that they&#8217;ll have the widest opportunity to become a blockbuster. Some films, however, defy the odds. This is the case with one R-rated comic book movie that&#8217;s currently topping the charts on Netflix. The film broke [...]</p>
+<p>The post <a href="https://www.screengeek.net/2024/01/09/netflix-r-rated-comic-book-tops-charts/">R-Rated Comic Book Movie Tops Charts On Netflix</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
+## James Gunn Responds To Accusations Of Visiting Epstein Island
+ - [https://www.screengeek.net/2024/01/09/james-gunn-epstein-island-response](https://www.screengeek.net/2024/01/09/james-gunn-epstein-island-response)
+ - RSS feed: https://www.screengeek.net/feed/
+ - date published: 2024-01-09T18:36:27+00:00
+
+<p>James Gunn has faced numerous examples of criticism and backlash following his takeover of DC Studios. Now, however, things have reached a new level as James Gunn now has to respond to accusations of having visited Jeffrey Epstein&#8217;s island. The controversy surrounding Epstein has found newfound attention in the media since flight logs regarding those [...]</p>
+<p>The post <a href="https://www.screengeek.net/2024/01/09/james-gunn-epstein-island-response/">James Gunn Responds To Accusations Of Visiting Epstein Island</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
+## Jon Favreau To Direct New Star Wars Movie ‘The Mandalorian & Grogu’
+ - [https://www.screengeek.net/2024/01/09/the-mandalorian-and-grogu-movie-jon-favreau](https://www.screengeek.net/2024/01/09/the-mandalorian-and-grogu-movie-jon-favreau)
+ - RSS feed: https://www.screengeek.net/feed/
+ - date published: 2024-01-09T18:19:48+00:00
+
+<p>The Star Wars franchise is currently in the midst of telling a number of stories set in different eras. Now one of these most popular storylines, which first began with The Mandalorian, will be headed to the big screen as The Mandalorian &#38; Grogu movie. Fans will be excited to know that Jon Favreau, creator [...]</p>
+<p>The post <a href="https://www.screengeek.net/2024/01/09/the-mandalorian-and-grogu-movie-jon-favreau/">Jon Favreau To Direct New Star Wars Movie &#8216;The Mandalorian &#038; Grogu&#8217;</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
