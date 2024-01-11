@@ -1,0 +1,9 @@
+# Source:LinuxGizmos.com, URL:https://linuxgizmos.com/feed/, language:en-US
+
+## Espressif Launches ESP32-C61 with Advanced Wi-Fi 6 and Bluetooth 5 Technologies
+ - [https://linuxgizmos.com/espressif-launches-esp32-c61-with-advanced-wi-fi-6-and-bluetooth-5-technologies](https://linuxgizmos.com/espressif-launches-esp32-c61-with-advanced-wi-fi-6-and-bluetooth-5-technologies)
+ - RSS feed: https://linuxgizmos.com/feed/
+ - date published: 2024-01-10T01:11:46+00:00
+
+Espressif Systems unveils the upcoming&#160; release of the ESP32-C61, a cutting-edge System-on-Chip that integrates Wi-Fi 6 and Bluetooth 5 technologies in addition to expanded memory options, and optimized peripherals. This release follows the ESP32-C2 and ESP32-C3 models to address the growing demand for Wi-Fi 6 capabilities. At its core, the ESP32-C61 features a 32-bit single-core [&#8230;]
+

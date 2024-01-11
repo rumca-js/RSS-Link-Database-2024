@@ -1,0 +1,527 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed/, language:en-US
+
+## KMC to organize annual marigold festival tomorrow
+ - [https://pakobserver.net/kmc-to-organize-annual-marigold-festival-tomorrow](https://pakobserver.net/kmc-to-organize-annual-marigold-festival-tomorrow)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:19:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/02/murtaza-wahab-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Mayor Karachi Barrister Murtaza Wahab has said that KMC is going to organize the annual Marigold Festival from Friday at the Frere Hall Lawn which will continue for three days. A large number of citizens will enjoy this festival in the winter season. The entry of citizens to the flower exhibition will be free. [&#8230;]
+
+## Home department claims significant decline in crime rate
+ - [https://pakobserver.net/home-department-claims-significant-decline-in-crime-rate](https://pakobserver.net/home-department-claims-significant-decline-in-crime-rate)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:19:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />During the tenure of the interim government from August 14th to December 18th, 2023, Sindh maintained a commendable law and order situation, largely owing to the effective performance of the Sindh Police and Pakistan Rangers Sindh.   A report compiled by the Provincial Home Department, reviewed by the Sindh Caretaker Minister for Home and Prison, Brig. [&#8230;]
+
+## KE to shut Gadap, Memon Goth Grids for maintenance today
+ - [https://pakobserver.net/ke-to-shut-gadap-memon-goth-grids-for-maintenance-today](https://pakobserver.net/ke-to-shut-gadap-memon-goth-grids-for-maintenance-today)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:19:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/K-Electric-800x445-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KE will be undertaking a critical maintenance activity at Gadap and Memon Goth Grids today (Thursday), January 11, 2024, to ensure the stability and reliability of power supply to consumers residing in these areas. The activity requires a shutdown from 09:00 AM to 06:00 PM for Gadap and Memon Goth Grids, during which there may [&#8230;]
+
+## Karachi was systematically ruined: Ahmed Shah
+ - [https://pakobserver.net/karachi-was-systematically-ruined-ahmed-shah](https://pakobserver.net/karachi-was-systematically-ruined-ahmed-shah)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:19:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/02-6-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By our correspondentCaretaker Provincial Minister for Information, Minority Affairs, and Social Protection, President Arts Council of Pakistan Karachi Muhammad Ahmed Shah, visited the Karachi Chamber of Commerce and Industry (KCCI) to discuss key issues affecting the city&#8217;s business landscape. The President of the Karachi Chamber of Commerce and Industry, Iftikhar Ahmed Sheikh, Vice President Tanveer [&#8230;]
+
+## Murder case of private company’s finance manager registered
+ - [https://pakobserver.net/murder-case-of-private-companys-finance-manager-registered](https://pakobserver.net/murder-case-of-private-companys-finance-manager-registered)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:19:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/02/MURDER-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Police on Wednesday registered a murder case of a private company’s finance manager, who was shot dead in Liaquatabad Underpass on Tuesday. Shakeel Shaikh, who was working as a finance manager in a private company located in Karachi’s Korangi area was targeted by unknown armed men inside Liaqutabad underpass when he was going to the [&#8230;]
+
+## Disappointed with PPP; Jakhrani to contest as independent candidate
+ - [https://pakobserver.net/disappointed-with-ppp-jakhrani-to-contest-as-independent-candidate](https://pakobserver.net/disappointed-with-ppp-jakhrani-to-contest-as-independent-candidate)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:18:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan People’s Party’s (PPP) former MPA Mir Mumtaz Hussain Jakhrani on Wednesday announced to contest election from PS-3 Jacobabad as an independent candidate, parting ways with the party as he was denied the party ticket. Disappointed with the party’s decision, Mir Mumtaz Hussain Jakhrani said that Aurangzaib Panhwar who was defeated in the last polls [&#8230;]
+
+## Envoy invites Pakistani workers to explore opportunities in Croatia
+ - [https://pakobserver.net/envoy-invites-pakistani-workers-to-explore-opportunities-in-croatia](https://pakobserver.net/envoy-invites-pakistani-workers-to-explore-opportunities-in-croatia)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:18:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/KCCI-Croatia-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Ambassador of Republic of Croatia Dr Drago Stambuk, inviting Pakistani workers to explore employment opportunities in Croatia, said that his country was demographically falling down and it needed human resource especially skilled and young people.   The Croatian envoy, while speaking at a meeting during his visit to Karachi Chamber of Commerce and Industry (KCCI) [&#8230;]
+
+## Free motorbikes, phones for street crime victims: Governor Sindh
+ - [https://pakobserver.net/free-motorbikes-phones-for-street-crime-victims-governor-sindh](https://pakobserver.net/free-motorbikes-phones-for-street-crime-victims-governor-sindh)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:18:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/01/Kamran-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Sindh Governor Kamran Tessori has announced free motorbikes and cellphones as gifts for those who have fallen victim to street crimes in Karachi. Sindh Governor Muhammad Kamran Khan Tessori said more than 1,700 motorcycles were stolen in Karachi last year. Bring original Computerized National Identity Cards (CNICs) and First Information Reports (FIRs) to Governor [&#8230;]
+
+## One killed in road mishap
+ - [https://pakobserver.net/one-killed-in-road-mishap-2](https://pakobserver.net/one-killed-in-road-mishap-2)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:18:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/02/kill-32-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; One person was killed and another sustained injury when two motorcycles collided in Karachi late Tuesday night, police said on Wednesday. According to details, the accident occurred near the Water Pump Pull area of Karachi where two motorcycles collided due to over-speeding, killing one person on the spot and another wounded. Rescue teams reached [&#8230;]
+
+## IGP chairs Sindh police ADP meeting
+ - [https://pakobserver.net/igp-chairs-sindh-police-adp-meeting](https://pakobserver.net/igp-chairs-sindh-police-adp-meeting)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:18:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Inspector General of Police Sindh, Riffat Mukhtar Raja, chaired a meeting on Wednesday at the Central Police Office to discuss the Annual Development Project (ADP) of Sindh Police. The meeting delved into the ongoing and completed schemes within the Sindh Police Department. The Superintendent Engineer of CPO and AIGP Estate &#38; Management provided a comprehensive [&#8230;]
+
+## AI’s revolution: Impacting every facet of life
+ - [https://pakobserver.net/ais-revolution-impacting-every-facet-of-life](https://pakobserver.net/ais-revolution-impacting-every-facet-of-life)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:04:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/article-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Artificial Intelligence (AI) is already revolutionizing the world. Let’s explore what AI is and how it impacts daily life, from work to healthcare and even online activities. AI, though not familiar to everyone, has been around since the 1950s, coinciding with the birth of computers. It pervades our lives. A report forecasts AI software reaching [&#8230;]
+
+## Alive living rooms . . !
+ - [https://pakobserver.net/alive-living-rooms](https://pakobserver.net/alive-living-rooms)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:03:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/02/rb-11-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />THERE was once a time not too long ago when the living room of a home reflected the kind of people living it; not how much money they possessed but how much warmth existed within. You could sink into inviting easy chair and be sure moments later your host would be as informal, easy going [&#8230;]
+
+## Voice of the People
+ - [https://pakobserver.net/voice-of-the-people-1514](https://pakobserver.net/voice-of-the-people-1514)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T23:03:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/op-1-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Articles and letters may be edited for the purposes of clarity and space. Economic indicators Some of the economic indicators are showing a sign of hope in the country. The trend in rupee appreciation is stable and sustained except for a few hiccups. The trend is mostly driven by exporters selling dollars in response to [&#8230;]
+
+## Samsung Galaxy Z Fold 5 latest price, PTA Tax in Pakistan 2024
+ - [https://pakobserver.net/samsung-galaxy-z-fold-5-latest-price-pta-tax-in-pakistan-2024](https://pakobserver.net/samsung-galaxy-z-fold-5-latest-price-pta-tax-in-pakistan-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T17:58:45+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/galaxy-z-fold5-highlights-spen-mo-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Tech giant Samsung remains the top Andriod maker and its high-end devices like the Samsung Galaxy Z Fold 5 have redefined the double-screen game. The novel foldable screen of the Samsung Z Fold 5 is impressive, but its price makes it one of the most expensive devices. The phone is an exciting device for those [&#8230;]
+
+## Two Pakistani troops martyred in exchange of fire with terrorists in Lakki Marwat
+ - [https://pakobserver.net/two-pakistani-troops-martyred-in-exchange-of-fire-with-terrorists-in-lakki-marwat](https://pakobserver.net/two-pakistani-troops-martyred-in-exchange-of-fire-with-terrorists-in-lakki-marwat)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T17:05:38+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/980971_7483190_Untitled-1_updates-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAKKI MARWAT &#8211; Two soldiers of Pakistan Army were martyred during an exchange of fire with militants in Khyber Pakhtunkhwa on Wednesday, the military’s media wing said. In a statement, the Inter-Services Public Relations (ISPR) said two soldiers embraced martyrdom after a gun battles with militants in KP’s Lakki Marwat. ISPR said soldiers martyred after [&#8230;]
+
+## US eases visa requirements for visit, and study visas; Check all details inside
+ - [https://pakobserver.net/us-eases-visa-requirements-for-visit-and-study-visas-check-all-details-inside](https://pakobserver.net/us-eases-visa-requirements-for-visit-and-study-visas-check-all-details-inside)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T16:24:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/us-visa-agencies-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; The United States announced easing visa restrictions, as it shared updated eligibility requirements for non-immigrant visa interviews. Washington hosted a large number of international students, with the country remaining among top destinations for higher education due to its finest educational institutions, diverse academic programs, and research opportunities. Lately, the US Department of State [&#8230;]
+
+## PSL media rights witnesses massive increase
+ - [https://pakobserver.net/psl-media-rights-witnesses-massive-increase](https://pakobserver.net/psl-media-rights-witnesses-massive-increase)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T16:02:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/ZA-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; HBL Pakistan Super League had yet another historic day on Tuesday, when its live-streaming and broadcast rights saw an increase of 113 and 45 per cent for the 2024 and 2025 editions, respectively. ARY Communications (Pvt) Limited (ARY) submitted the highest bid, pursuant to a public tender process, to broadcast HBL Pakistan Super [&#8230;]
+
+## Dense fog disrupts traffic on Motorways, National Highway
+ - [https://pakobserver.net/dense-fog-disrupts-traffic-on-motorways-national-highway](https://pakobserver.net/dense-fog-disrupts-traffic-on-motorways-national-highway)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T15:41:59+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/fog-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The Pakistan Meteorological Department (PMD) has predicted mainly cold and dry weather for Lahore and most parts of Pakistan during the next two days. As per the synoptic situation, continental air prevails over most parts of Pakistan. Under these conditions, mainly cold and dry weather is expected in Lahore and most parts of [&#8230;]
+
+## 15% of global companies face cyber attacks due to insufficient investment
+ - [https://pakobserver.net/15-of-global-companies-face-cyber-attacks-due-to-insufficient-investment](https://pakobserver.net/15-of-global-companies-face-cyber-attacks-due-to-insufficient-investment)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T15:33:52+00:00
+
+ISLAMABAD &#8211; According to a recent study by Kaspersky, a global cybersecurity and digital privacy company, 15% of companies globally have experienced cyber incidents due to insufficient cybersecurity investment in the last two years. Alarmingly, critical infrastructure, oil &#38; gas, and energy organizations suffered the most significant number of cyber incidents due to improper budget [&#8230;]
+
+## Peshawar, Khyber Pakhtunkhwa weather update; dense fog prevails
+ - [https://pakobserver.net/peshawar-khyber-pakhtunkhwa-weather-update-dense-fog-prevails](https://pakobserver.net/peshawar-khyber-pakhtunkhwa-weather-update-dense-fog-prevails)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T15:29:06+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/weathe-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PESHAWAR – The Pakistan Meteorological Department (PMD) has predicted the prevailing cold wave to persist in Peshawar and parts of Khyber Pakhtunkhwa during the next two days. As per the synoptic situation, continental air prevails over most parts of Pakistan. Under these conditions, mainly cold and dry weather is expected in Peshawar and most parts [&#8230;]
+
+## Gold rates in Pakistan moves down amid negative global cues
+ - [https://pakobserver.net/gold-rates-in-pakistan-moves-down-amid-negative-global-cues](https://pakobserver.net/gold-rates-in-pakistan-moves-down-amid-negative-global-cues)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T14:47:04+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/gg44-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; After moving up in local market this week, gold witnessed a negative trend in the global market. Data shared by sarafa market shows that the price of the precious metal moves down to Rs216,100 per tola after suffering losses of around Rs300. A further 10-gram gold was sold at Rs185,270 after a decrease [&#8230;]
+
+## Weather outlook of Islamabad, Pakistan; cold wave persists
+ - [https://pakobserver.net/weather-outlook-of-islamabad-pakistan-cold-wave-persists](https://pakobserver.net/weather-outlook-of-islamabad-pakistan-cold-wave-persists)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T14:21:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/ffog-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The Pakistan Meteorological Department (PMD) has forecast the prevailing cold wave to persist in Islamabad and most parts of Pakistan during the next two days. As per the synoptic situation, continental air prevails over most parts of Pakistan. Under these conditions, mainly cold and dry weather is expected in Islamabad and most parts [&#8230;]
+
+## British High Commissioner lauds UK-Pakistan’s strong ties during visit to Mirpur
+ - [https://pakobserver.net/british-high-commissioner-lauds-uk-pakistans-strong-ties-during-visit-to-mirpur](https://pakobserver.net/british-high-commissioner-lauds-uk-pakistans-strong-ties-during-visit-to-mirpur)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T14:13:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/hh2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; British High Commissioner to Pakistan, Jane Marriott, visited Mirpur where she interacted with local business community members and interacted with the UK-Pakistani diaspora. The delegation comprising Jane Marriot, and Head of Pakistan Department at the Foreign, Commonwealth, and Development Office, Richard Lindsay visited the second largest city of Azad Kashmir. Ms Marriot, CMG [&#8230;]
+
+## Karachi experiences coldest day of winter
+ - [https://pakobserver.net/karachi-experiences-coldest-day-of-winter](https://pakobserver.net/karachi-experiences-coldest-day-of-winter)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T13:32:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/fg-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Cold and dry weather prevailed in Karachi and most parts of Sindh on Wednesday with experts predicting the similar conditions to persist during the next two days. Mohenjo-Daro and Mithi remained the coldest places in Sindh where the mercury dropped to 04 degrees Celsius. In Mohenjo-Daro, relative humidity in the evening was recorded [&#8230;]
+
+## Free bikes, mobile phones for street crimes victims in Karachi, announces Sindh Governor
+ - [https://pakobserver.net/free-bikes-mobile-phones-for-street-crimes-victims-in-karachi-announces-sindh-governor](https://pakobserver.net/free-bikes-mobile-phones-for-street-crimes-victims-in-karachi-announces-sindh-governor)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T13:30:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/gghh2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; Harrowing incidents of street crimes in Karachi continue to make headlines while citizens were also killed by muggers over resistance but now the government announced free motorbikes and mobile phones for those who have fallen victim to street crimes. Sindh Governor made the announcement, quoting the shocking numbers of street crimes. It said [&#8230;]
+
+## Punjab registers 1m farmers through Strengthening of Performance Management System
+ - [https://pakobserver.net/punjab-registers-1m-farmers-through-strengthening-of-performance-management-system](https://pakobserver.net/punjab-registers-1m-farmers-through-strengthening-of-performance-management-system)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T12:32:13+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/anim-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PUNJAB &#8211; More than one million farmers from Punjab have registered through the Strengthening of Performance Management System (SPMS-9211) in 2023. This was told in a progress review meeting presided over by Punjab Information Technology Board chairman Faisal Yousaf at Arfa Software Technology Park. More than 8.5 million animals have been vaccinated through the system [&#8230;]
+
+## Pakistan records remittances inflow of $2.4b during December 2023
+ - [https://pakobserver.net/pakistan-records-remittances-inflow-of-2-4b-during-december-2023](https://pakobserver.net/pakistan-records-remittances-inflow-of-2-4b-during-december-2023)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T12:09:44+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/remittances-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; Pakistan recorded workers’ remittances inflow of $2.4 billion during December 2023. As per the data released by the State Bank of Pakistan (SBP) on Wednesday, worker’s remittances increased by 5.4 per cent on month on month and 13.4 per cent on year on year basis. Workers’ remittances inflow of $ 13.4 billion has [&#8230;]
+
+## Punjab announces schools winter holidays for another week amid cold weather
+ - [https://pakobserver.net/punjab-announces-schools-winter-holidays-for-another-week-amid-cold-weather](https://pakobserver.net/punjab-announces-schools-winter-holidays-for-another-week-amid-cold-weather)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T12:07:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/l_388317_120306_updates-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Winter vacation in Punjab schools has been extended for another week due to cold weather conditions, Punjab interim government announced Wednesday. In an announcement, Punjab interim chief minister Mohsin Naqvi said classes for school students in Class one and below (Nursery, Prep, and KG) will remain suspended for one week. The government announced [&#8230;]
+
+## Embattled Supreme Court judge Mazahar Ali Naqvi resigns amid misconduct complaints
+ - [https://pakobserver.net/embattled-supreme-court-judge-mazahar-ali-naqvi-resigns-amid-misconduct-complaints](https://pakobserver.net/embattled-supreme-court-judge-mazahar-ali-naqvi-resigns-amid-misconduct-complaints)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T11:35:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/justice-mazahar-naqvi-faces-reference-for-misconduct-in-supreme-judicial-council-1677140308-8090-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Justice Mazahar Ali Akbar Naqvi has submitted his resignation as Supreme Court judge as he faced misconduct allegations in the Supreme Judicial Council. In letter to President Dr Arif Alvi, Justice Mazahir Naqvi called it honour to serve as Judge first of the Lahore High Court, Lahore and then as the Supreme Court [&#8230;]
+
+## SBP unveils details of Gold imports during 2023 December
+ - [https://pakobserver.net/sbp-unveils-details-of-gold-imports-during-2023-december](https://pakobserver.net/sbp-unveils-details-of-gold-imports-during-2023-december)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T10:08:10+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/gold-and-dollars-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The State Bank of Pakistan on Wednesday unveiled the intricate details of gold imports for December 2023. The central bank said that the nation experienced a noteworthy downturn of 6.8% in gold imports over the first six months of the current fiscal year, resulting in a total of $13.43 billion in gold imports [&#8230;]
+
+## Imran Khan’s appeal to contest elections from Mianwali rejected
+ - [https://pakobserver.net/imran-khans-appeal-to-contest-elections-from-mianwali-rejected](https://pakobserver.net/imran-khans-appeal-to-contest-elections-from-mianwali-rejected)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T09:57:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/Imran-Khan-determined-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; The Election Tribunal on Wednesday ruled that Imran Khan, the founder of Pakistan Tehreek-e-Insaf (PTI), is ineligible to participate in the upcoming elections not only from Lahore but also from Mianwali. The decision came after Returning Officer in NA-89 Mianwali rejected the nomination papers of Imran Khan, prompting Khan to file an appeal [&#8230;]
+
+## SC upholds death penalty of Pervez Musharraf in treason case
+ - [https://pakobserver.net/sc-upholds-death-penalty-of-pervez-musharraf-in-treason-case](https://pakobserver.net/sc-upholds-death-penalty-of-pervez-musharraf-in-treason-case)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T09:34:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/Musharraf-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211;   The Supreme Court of Pakistan on Wednesday maintained the death penalty for former President General (Retired) Pervez Musharraf in the high-profile treason case. A SC four-member bench headed by Chief Justice of Pakistan Qazi Faez Isa passed the order.  Justice Mansoor Ali Shah, Justice Amin-ud-Din Khan, and Justice Atir Mahmood were the other [&#8230;]
+
+## Transgender Nayab Ali allowed to contest election
+ - [https://pakobserver.net/transgender-nayab-ali-allowed-to-contest-election](https://pakobserver.net/transgender-nayab-ali-allowed-to-contest-election)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T09:05:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/352002_1988733_updates-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />MULTAN &#8211; In a recent development, the Election Tribunal has decisively dismissed an appeal challenging the acceptance of nomination papers for transgender Nayaab Ali’s electoral bid. The appeal, lodged by Multan voter sought to contest the approval of Nayaab Ali’s candidacy. The hearing, presided over by Justice Arbab Muhammad Tahir of the Islamabad High Court’s [&#8230;]
+
+## TRUMP AND IMRAN KHAN
+ - [https://pakobserver.net/trump-and-imran-khan](https://pakobserver.net/trump-and-imran-khan)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T07:15:31+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/TRUMP-AND-IMRAN-KHAN-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Current year is an election year almost all over the world including the United States, Pakistan, India and Bangladesh. Ironically, the essence of true democratic values is fading away and instead the trend of fan or cult following is taking roots even in the most developed democratic societies of the world. Such trends have relegated [&#8230;]
+
+## PAF, Qatar Emiri Air Force joint aerial Exercise Zilzal-II begins
+ - [https://pakobserver.net/paf-qatar-emiri-air-force-joint-aerial-exercise-zilzal-ii-begins](https://pakobserver.net/paf-qatar-emiri-air-force-joint-aerial-exercise-zilzal-ii-begins)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T06:53:06+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/10303758961704865921-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Pakistan Air Force (PAF) and Qatar Emiri Air Force joint aerial Exercise Zilzal-II has kicked off in Qatar. The exercise is one of the most complex joint air force exercises, which aims at promoting interoperability between the two allied nations. The exercise will mimic a near realistic aerial warfare scenario coupled with real-time [&#8230;]
+
+## Kohli surpasses Babar in ICC Test batting rankings
+ - [https://pakobserver.net/kohli-surpasses-babar-in-icc-test-batting-rankings](https://pakobserver.net/kohli-surpasses-babar-in-icc-test-batting-rankings)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T06:46:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/kohli-1663911143-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Virat Kohli, the former Indian captain, showcased a stellar performance against South Africa, securing the sixth position in the latest ICC Test batting rankings.  Kohli&#8217;s contributions included scores of 38 and 76 in Centurion, along with a crucial 46 in the Cape Town Test, ultimately playing a pivotal role in India&#8217;s series victory, [&#8230;]
+
+## SC disposes of PTI’s plea for BAT symbol as withdrawn
+ - [https://pakobserver.net/sc-disposes-of-ptis-plea-for-bat-symbol-as-withdrawn](https://pakobserver.net/sc-disposes-of-ptis-plea-for-bat-symbol-as-withdrawn)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T06:22:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/21091038108653c-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; The Supreme Court of Pakistan concluded the Pakistan Tehreek-e-Insaf (PTI) plea challenging the Peshawar High Court&#8217;s interim order that revoked the party&#8217;s election symbol, the bat. PTI withdrew its petition during the proceedings, citing a similar case ongoing in the PHC regarding the restoration of the &#8216;bat&#8217; symbol. The three-member bench, led by [&#8230;]
+
+## Nadra new smart ID card fee structure for 2024
+ - [https://pakobserver.net/nadra-new-smart-id-card-fee-structure-for-2024](https://pakobserver.net/nadra-new-smart-id-card-fee-structure-for-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T06:03:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/nicopfee-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; New Smart National Identity Card (NIC) is issued to the citizens of Pakistan by the National Registration and Database Authority (Nadra). The unique 13 digit identification number is recognised all over the country. It is the first requirement of individuals as it is mandatory to obtain documents like license, NTN, bank account, passport, [&#8230;]
+
+## Honda CD 70 Red latest price, Meezan Bank installment plan January 2024
+ - [https://pakobserver.net/honda-cd-70-red-latest-price-meezan-bank-installment-plan-january-2024](https://pakobserver.net/honda-cd-70-red-latest-price-meezan-bank-installment-plan-january-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T05:37:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/cd70-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The Honda CD 70 is an ideal choice for bike riders due to combination of fascinating design with super econo-power and smoke-free 4-Stroke engine. The motorcycle comes in three colours – Red, Black and Blue. Honda CD 70 2024 Red Latest Price The price of red-colour Honda CD 70 2024 model stands at [&#8230;]
+
+## Currency exchange rates in Pakistan today – January 10, 2024
+ - [https://pakobserver.net/currency-exchange-rates-in-pakistan-today-january-10-2024](https://pakobserver.net/currency-exchange-rates-in-pakistan-today-january-10-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T05:09:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/curreny-rate-today-15-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The exchange rate for one US Dollar against Pakistani Rupees was recorded at Rs 281 in the local and open market, with a selling rate of Rs 283.5 on Wednesday, January 10, 2024. Note: Exchange rates can vary based on the location and the Exchange Company or bank involved in the transaction. Below are [&#8230;]
+
+## Gold rate in Pakistan today – 10 January, 2024
+ - [https://pakobserver.net/gold-rate-in-pakistan-today-10-january-2024](https://pakobserver.net/gold-rate-in-pakistan-today-10-january-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T05:06:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/gold-rate-in-pakistan-today-24-March-2023-1-1024x576-4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The gold rate of 24-karat is being traded at PKR 220,100 on Wednesday, January 10, 2024. Similarly, the gold price for 24-karat was recorded at Rs 188,700 per 10g as per the bullion market. Gold Price in Pakistan’s different cities. City Gold Silver Karachi PKR 220,100 PKR 2,450 Lahore PKR 220,100 PKR 2,450 [&#8230;]
+
+## Gold rate in Saudi  Arabia today – 10 January 2024
+ - [https://pakobserver.net/gold-rate-in-saudi-arabia-today-10-january-2024](https://pakobserver.net/gold-rate-in-saudi-arabia-today-10-january-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T04:58:33+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/gold6-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The price of per tola price 24-karat gold in Saudi Arabia on Wednesday stands at 2,854 Saudi Riyal (SAR), according to forex.pk. Furthermore, the 10 grams of 24-k gold is being sold for SAR 2,449 in the kingdom while the per ounce gold price stands at SAR 7,618. Note: The gold price across [&#8230;]
+
+## UK Pound to PKR rate today – 10 January 2024
+ - [https://pakobserver.net/uk-pound-to-pkr-rate-today-10-january-2024](https://pakobserver.net/uk-pound-to-pkr-rate-today-10-january-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T04:53:40+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/pound-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The buying rate of the UK Pound Sterling stands at Rs357.5 in Pakistan while its selling rate stands at Rs360.5 on Wednesday in open market of Pakistan. GBP to PKR Rate – 10 January 2024 Date  Latest Exchange Rate CHANGE  January 10, 2024 Rs. 357.5 0 January 09, 2024 Rs. 357.5 https://pakobserver.net/dirham-to-pak-rupee-rate-today-aed-to-pkr-28-september-2023/ &#160;
+
+## Saudi Riyal to PKR rate today – 10 January 2024
+ - [https://pakobserver.net/saudi-riyal-to-pkr-rate-today-10-january-2024](https://pakobserver.net/saudi-riyal-to-pkr-rate-today-10-january-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T04:48:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/riyal-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The buying rate for Saudi Arabia Riyal rate in Pakistan stands at Rs74.7 while the selling rate is Rs75.4 on Wednesday, according to forex.pk. SAR to PKR Rate – 10 January 2024 Date  Latest Exchange Rate CHANGE  January 10, 2024 Rs. 74.7 0 January 09, 2024 Rs. 74.7 &#160; &#160;
+
+## Dirham to PKR rate today – 10 January 2024
+ - [https://pakobserver.net/dirham-to-pkr-rate-today-10-january-2024](https://pakobserver.net/dirham-to-pkr-rate-today-10-january-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T04:40:47+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/dirham-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – United Arab Emirates (UAE) Dirham buying rate in open market of Pakistan stands at Rs776.6 on Wednesday while the selling rate is Rs77.35. AED to PKR Rate – 10 January 2024 Date  Latest Exchange Rate CHANGE  January 10, 2024 Rs76.6 -0 source: forex.pk https://pakobserver.net/currency-exchange-rates-in-pakistan-today-october-13-2023/
+
+## PM stresses need to strengthen trade, economic ties with African countries
+ - [https://pakobserver.net/pm-stresses-need-to-strengthen-trade-economic-ties-with-african-countries](https://pakobserver.net/pm-stresses-need-to-strengthen-trade-economic-ties-with-african-countries)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:55:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/PM-Kakar-Nov-23-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Caretaker Prime Minister Anwaar-ul-Haq Kakar on Tuesday said that Pakistan and Africa had enjoyed excellent political relations over the years and stressed the need to strengthen trade and economic linkages which were yet to realize their full potential. Highlighting the importance Pakistan attached to Africa, he expressed the desire to enhance relations with African countries, [&#8230;]
+
+## Islamabad, Ankara, Riyadh mull over ties in defence sector
+ - [https://pakobserver.net/islamabad-ankara-riyadh-mull-over-ties-in-defence-sector](https://pakobserver.net/islamabad-ankara-riyadh-mull-over-ties-in-defence-sector)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:55:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/Untitled-12-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan, Turkiye and Saudi Arabia mulled over prospects of trilateral cooperation in the defence sector, particularly defence equipment technologies including research and development (R&#38;D), the Inter-Services Public Relations (ISPR) said in a statement on Tuesday. As per the military’s media wing, the said issue came under discussion in the second meeting of Pakistan, Saudi Arabia [&#8230;]
+
+## Two Policemen martyred in yet another assault on Polio team
+ - [https://pakobserver.net/two-policemen-martyred-in-yet-another-assault-on-polio-team](https://pakobserver.net/two-policemen-martyred-in-yet-another-assault-on-polio-team)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:55:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Tariq Saeed Peshawar Within short span of twenty four hours, unknown terrorists launched another assault on the security forces providing cover to the Polio vaccination team leaving at least two cops martyred and equal number of others seriously wounded this time in Bannu district of Khyber Pakhtunkhwa on Tuesday. Five Cops, it may be recalled, [&#8230;]
+
+## US, UK say Bangladesh polls were not free, fair
+ - [https://pakobserver.net/us-uk-say-bangladesh-polls-were-not-free-fair](https://pakobserver.net/us-uk-say-bangladesh-polls-were-not-free-fair)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:55:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The US and UK on Monday criticized the Bangladesh general election that saw the ruling Awami League retain power as “not free” nor democratic as the polls held a day earlier were boycotted by the opposition after months of violence. The two Western allies also condemned the incidents of violence and alleged intimidation of opposition [&#8230;]
+
+## 3 killed in explosion in Kabul
+ - [https://pakobserver.net/3-killed-in-explosion-in-kabul](https://pakobserver.net/3-killed-in-explosion-in-kabul)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:55:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />At least three people were killed Tuesday in a bomb blast in the Afghan capital, according to an official. “Today at around 3:50 PM, a land mine exploded on the road behind a Mercedes car in the Alokhilo area of the 16th district of Kabul. Unfortunately, 3 civilians were martyred and 4 others were injured,” [&#8230;]
+
+## CM Naqvi distributes environment-friendly e-motorcycles among students
+ - [https://pakobserver.net/cm-naqvi-distributes-environment-friendly-e-motorcycles-among-students](https://pakobserver.net/cm-naqvi-distributes-environment-friendly-e-motorcycles-among-students)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:55:08+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/Pic09-026-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Punjab Chief Minister Syed MohsinNaqvi on Tuesday distributed cheaper electric motorcycles (e-motorcycles) to the students and people belonging to different professions as part of the provincial government’s efforts to combat air pollution that was the cause of smog in Lahore and other cities of Punjab. Addressing the bikes distribution ceremony in Lahore, the CM said [&#8230;]
+
+## Make new headway in major-country diplomacy with Chinese characteristics, build an even closer China-Pakistan community with a shared future in the new era
+ - [https://pakobserver.net/make-new-headway-in-major-country-diplomacy-with-chinese-characteristics-build-an-even-closer-china-pakistan-community-with-a-shared-future-in-the-new-era](https://pakobserver.net/make-new-headway-in-major-country-diplomacy-with-chinese-characteristics-build-an-even-closer-china-pakistan-community-with-a-shared-future-in-the-new-era)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:54:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/Chinese-ambassador-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />At the recent Central Conference on Work Relating to Foreign Affairs held in China, President Xi Jinping delivered an important address, in which he presented a systematic review of the historic achievements and valuable experience of major-country diplomacy with Chinese characteristics in the new era, gave a profound exposition on the international environment and historical [&#8230;]
+
+## Court issues notices to Asif Zardari, Faryal Talpur in fake bank accounts case
+ - [https://pakobserver.net/court-issues-notices-to-asif-zardari-faryal-talpur-in-fake-bank-accounts-case](https://pakobserver.net/court-issues-notices-to-asif-zardari-faryal-talpur-in-fake-bank-accounts-case)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:47:45+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A banking court in Karachi on Tuesday once again issued notices to former president and Pakistan Peoples Party Parliamentarian (PPPP) President Asif Ali Zardari and his sister Faryal Talpur in fake bank accounts case. As per the version given by their lawyer Farooq H. Naek, both Zardari and Faryal did not appear in the court [&#8230;]
+
+## Nomination papers of Usman Dar’s mother accepted
+ - [https://pakobserver.net/nomination-papers-of-usman-dars-mother-accepted](https://pakobserver.net/nomination-papers-of-usman-dars-mother-accepted)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:47:45+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/Usman-Dar-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Declaring the returning officer’s (RO) decision null and void, an appellate election tribunal on Tuesday accepted the nomination papers of RehanaImtiaz Dar, mother of ex-PTI leader Usman Dar, for the National Assembly (NA) seat (NA-71), Sialkot. The tribunal comprised of Justice Shakeel Ahmad. She is up against her son’s longtime rival Pakistan Muslim League Nawaz [&#8230;]
+
+## MQM-P backs Shehbaz, three other PML-N candidates for NA in Karachi
+ - [https://pakobserver.net/mqm-p-backs-shehbaz-three-other-pml-n-candidates-for-na-in-karachi](https://pakobserver.net/mqm-p-backs-shehbaz-three-other-pml-n-candidates-for-na-in-karachi)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:47:44+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/shehbz-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Removing all possible hurdles, the MQM-P on Tuesday decided to withdraw its candidate Mustafa Kamal from NA-242 and back the junior Sharif in the February 8 elections, sources say, as the two parties have fine-tuned the complex seat adjustment details in an attempt to stage upset in Sindh – the PPP stronghold. With PML-N President [&#8230;]
+
+## MS Nursing classes to be started in IUB
+ - [https://pakobserver.net/ms-nursing-classes-to-be-started-in-iub](https://pakobserver.net/ms-nursing-classes-to-be-started-in-iub)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:29:26+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/04/Islamia-University-Bahawalpur-iub-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan Nursing and Midwifery Council has given permission to University College of Nursing the Islamia University of Bahawalpur to start MS Nursing classes. In this regard,Pakistan Nursing and Midwifery Council has initially approved 20 seats for MS Nursing. The Higher Education Commission has already approved the Islamia University of Bahawalpur for MS Nursing. Vice Chancellor [&#8230;]
+
+## Inquiry ordered to probe Hazara accident
+ - [https://pakobserver.net/inquiry-ordered-to-probe-hazara-accident](https://pakobserver.net/inquiry-ordered-to-probe-hazara-accident)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:26:34+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/Syed-Arshad-Hussain-Shah-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Chief Minister KP Justice (R) Arshad Hussain Shah ordered an inquiry on Tuesday to investigate the road accident on Hazara Motorway, where six people lost their lives and eight others sustained injuries. According to the details, the Chief Minister of KP, upon taking notice of the road accident, directed the Commissioner of Hazara Division to [&#8230;]
+
+## 64 foreigners involved in drug trafficking in 2023 arrested
+ - [https://pakobserver.net/64-foreigners-involved-in-drug-trafficking-in-2023-arrested](https://pakobserver.net/64-foreigners-involved-in-drug-trafficking-in-2023-arrested)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:26:32+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/pak-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Ijaz Kakakhel Islamabad A legislative body of Upper House of parliament on Tuesday was informed that Anti-Narcotics Force (ANF) arrested 64 foreigners involved in drug trafficking during the year 2003. In the same year, the ANF made total seizures were 73875 across the country. These revelations were made during Senate Standing Committee on Narcotics Control, [&#8230;]
+
+## All eyes on Nowshera’s NA seats as papers of heavyweights accepted
+ - [https://pakobserver.net/all-eyes-on-nowsheras-na-seats-as-papers-of-heavyweights-accepted](https://pakobserver.net/all-eyes-on-nowsheras-na-seats-as-papers-of-heavyweights-accepted)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:26:32+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/pak-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />All eyes are on the two national assembly’s constituencies of Nowshera district for the general election 2024 where tough electoral battle is expected among political stalwarts. The candidates of all mainstream political parties blew up horns after their nomination papers were accepted for two national and five provincial assembly seats in the politically fertile Nowshera [&#8230;]
+
+## Cold, cloudy weather expected
+ - [https://pakobserver.net/cold-cloudy-weather-expected-2](https://pakobserver.net/cold-cloudy-weather-expected-2)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:26:31+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/met-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Mainly cold and cloudy weather is expected in most of upper parts of the country, while very cold in northern parts and north Balochistan during the next twenty-four hours Dense fog and smog is likely to persist in plain areas of Punjab, Khyber Pakhtunkhwa and upper Sindh. Temperature of major cities recorded this morning: [&#8230;]
+
+## KP Bar Council boycotts court proceedings
+ - [https://pakobserver.net/kp-bar-council-boycotts-court-proceedings](https://pakobserver.net/kp-bar-council-boycotts-court-proceedings)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:26:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/pak-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />On the call of the Khyber Pakhtunkhwa Bar Council, the lawyers in eleven districts of the province and on the principal seat of the Peshawar High Court (PHC) have boycotted the court proceedings in protest against the incident of shooting and killing within the judicial complex here the other day. They expressed concern over an [&#8230;]
+
+## Dr Saif launches Startup Fund to catalyze investments for Pakistan
+ - [https://pakobserver.net/dr-saif-launches-startup-fund-to-catalyze-investments-for-pakistan](https://pakobserver.net/dr-saif-launches-startup-fund-to-catalyze-investments-for-pakistan)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:23:39+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/1.Dr-Umar-Saif-news-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Federal Minister for Information Technology Dr Umar Saif on Tuesday launched the Pakistan Startup Fund, aimed at catalyzing investments in Pakistani startups. The launching ceremony was attended by local and international venture capitalists, diplomats, and renowned technology companies. Dr Saif, while addressing the event, said that the government had allocated Rs 2 billion for the [&#8230;]
+
+## PM orders fast-track privatization of PIA
+ - [https://pakobserver.net/pm-orders-fast-track-privatization-of-pia](https://pakobserver.net/pm-orders-fast-track-privatization-of-pia)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:23:38+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/PM-news-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Caretaker Prime Minister Anwaar-ul-Haq Kakar on Tuesday directed the authorities concerned to pace up the privatization process of Pakistan International Airlines (PIA), the national flag career. In a meeting with his Adviser on Aviation Air Marshal (retd) Farhat Hussain, the prime minister emphasized ensuring transparency in the process of privatization. PM Kakar said privatization of [&#8230;]
+
+## SCCI demands uninterrupted electricity, gas supply to industries
+ - [https://pakobserver.net/scci-demands-uninterrupted-electricity-gas-supply-to-industries](https://pakobserver.net/scci-demands-uninterrupted-electricity-gas-supply-to-industries)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:23:38+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/scci-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />President Sarhad Chamber of Commerce and Industry, Fuad Ishaq said the resolution of industrialists and traders’ community is amongst the topmost priority of the chamber and urged federal and provincial governments to ensure uninterrupted electricity and gas supply to industries in Khyber Pakhtunkhwa. He was speaking at a luncheon hosted in his honour by the [&#8230;]
+
+## Pakistan, Egypt agree to focus on collaboration in key economic sectors
+ - [https://pakobserver.net/pakistan-egypt-agree-to-focus-on-collaboration-in-key-economic-sectors](https://pakobserver.net/pakistan-egypt-agree-to-focus-on-collaboration-in-key-economic-sectors)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T03:23:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/Gohar-Ijaz-news-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan and Egypt on Tuesday agreed to focus on fostering collaboration in key economic sectors, including agriculture, textiles, engineering, and services. Dr. Gohar Ejaz, Federal Minister for Commerce, Industries and Investments, engaged in discussions with Ahmed Samir, the Minister of Commerce of Egypt and Chief Guest of the 4th Pakistan-Africa Trade Development Conference (PATDC) and [&#8230;]
+
+## Late birdie lifts Kirk to PGA victory
+ - [https://pakobserver.net/late-birdie-lifts-kirk-to-pga-victory](https://pakobserver.net/late-birdie-lifts-kirk-to-pga-victory)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T02:55:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/36391df2-a192-4b48-8326-64094d344d23-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Chris Kirk’s eighth birdie of the day at the 17th lifted him to a one-stroke win over Sahith Theegala in the US PGA Tour Sentry tournament at Kapalua in Hawaii. Kirk’s eight-under-par 65 gave him a 29-under total of 263 on the par-73 Plantation course, where he started the day with a one-stroke lead. He [&#8230;]
+
+## Africa the next frontier for trophy hunter Salah
+ - [https://pakobserver.net/africa-the-next-frontier-for-trophy-hunter-salah](https://pakobserver.net/africa-the-next-frontier-for-trophy-hunter-salah)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T02:55:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/afp_346p7ea-jpg-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Serial goal scorer Mohamed Salah has conquered the world, Europe and England with Liverpool. Now he dreams of leading Egypt to African glory. He has come agonisingly close twice with his country, being part of the teams that lost the 2017 and 2022 Africa Cup of Nations finals to Cameroon and Senegal respectively. In between [&#8230;]
+
+## South African Klaasen quits Test cricket
+ - [https://pakobserver.net/south-african-klaasen-quits-test-cricket](https://pakobserver.net/south-african-klaasen-quits-test-cricket)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T02:55:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/Heinrich-Klaasen-of-South-Africa-during-2023-1st-Betway-Test-Match-match-between-South-Africa-and-West-Indies-Picture-Sydney-Mahlangu-BackpagePix-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />South African wicket-keeper/batter Heinrich Klaasen has retired from red-ball cricket despite the country’s Test coach Shukri Conrad suggesting he would form part of his plans in 2024. Klaasen has become a mainstay of the South African white-ball side, with his record-breaking 174 against Australia in a ODI in September. He played four Tests between 2019 [&#8230;]
+
+## Reason behind  Ronaldo’s snub in 2022 World Cup revealed
+ - [https://pakobserver.net/reason-behind-ronaldos-snub-in-2022-world-cup-revealed](https://pakobserver.net/reason-behind-ronaldos-snub-in-2022-world-cup-revealed)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T02:55:18+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/526374_4546031_updates-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Cristiano Ronaldo, who has been Portugal’s most potent asset on the pitch for years, was surprisingly benched during the national side’s 2022 World Cup run in Qatar — a move that remains highly controversial among football fans. Ronaldo witnessed his team’s quarter-final exit from the sidelines after Portugal head coach Fernando Santos decided to bench [&#8230;]
+
+## Kobayashi wins third Four Hills ski jump title
+ - [https://pakobserver.net/kobayashi-wins-third-four-hills-ski-jump-title](https://pakobserver.net/kobayashi-wins-third-four-hills-ski-jump-title)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T02:55:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/Page-13-4-column1704633891-0-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Japan’s Ryoyu Kobayashi became only the sixth man to win the prestigious Four Hills ski jumping tournament on three occasions. Kobayashi added the 2024 title to triumphs in 2019, when he swept all four rounds, and 2022 after finishing in second place in the last of the four events at Bischofshofen in Austria. The 27-year-old [&#8230;]
+
+## Daily Cartoon 10-01-2024
+ - [https://pakobserver.net/daily-cartoon-10-01-2024](https://pakobserver.net/daily-cartoon-10-01-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T02:51:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/car-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />
+
+## Voice of the people
+ - [https://pakobserver.net/voice-of-the-people-1513](https://pakobserver.net/voice-of-the-people-1513)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T02:51:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/op-1-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Articles and letters may be edited for the purposes of clarity and space. SC’s historic verdict Supreme Court’s judgment did away with the lifetime ban for politicians seeking to run for any legislative assembly. With the current political climate as charged as it is, many readers, especially those supporting the down-on-its-luck PTI, will allege that [&#8230;]
+
+## Leadership is building leaders…!
+ - [https://pakobserver.net/leadership-is-building-leaders](https://pakobserver.net/leadership-is-building-leaders)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T02:50:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/op-1-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />THERE’S an aspect of leadership, most so-called leaders don’t like, and that is building others to become leaders. Many don’t realise that ‘building’ is as much an important part of leadership as ‘leading’! Some pretend to build, but just install a weak, proxy leader and hold court from behind. Which begs the question, why don’t [&#8230;]
+
+## The new global economy
+ - [https://pakobserver.net/the-new-global-economy](https://pakobserver.net/the-new-global-economy)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T02:49:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/article-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />THE US government&#8217;s shift towards local manufacturing, as highlighted in Joe Biden&#8217;s first address to Congress, marks a new era in the global economy. Joe Biden&#8217;s statement about producing wind turbine blades in Pittsburgh instead of Beijing is seen as a significant change, marking a move away from the current global economic system and potentially [&#8230;]
+
+## Ethnic cleansing
+ - [https://pakobserver.net/ethnic-cleansing](https://pakobserver.net/ethnic-cleansing)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-01-10T02:47:48+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/Ali-Gilani-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />AFTER World War-II, millions of unfortunate innocent souls departed and world powers around the globe came to a realisation that in order to protect their young ones and to nurture peaceful societies, they needed to come up with some contingency plan. That plan depended on peace. And for peace to achieve some crucial steps needed [&#8230;]
+
