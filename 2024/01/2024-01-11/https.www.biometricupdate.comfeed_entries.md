@@ -1,0 +1,152 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## NYC venue company MSGE loses bid to dismiss biometric privacy suit
+ - [https://www.biometricupdate.com/202401/nyc-venue-company-msge-loses-bid-to-dismiss-biometric-privacy-suit](https://www.biometricupdate.com/202401/nyc-venue-company-msge-loses-bid-to-dismiss-biometric-privacy-suit)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T20:52:06+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1536" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/14154408/facial-recognition-nyc-scaled.jpg" width="2048" />
+		A lawsuit in New York City over the use of face scans to prevent some lawyers from attending Madison Square Garden Entertainment events has survived a second motion to dismiss.
+
+A judge addressing pretrial issues before the suit formally goes to court <a href="https://www.bloomberglaw.com/public/desktop/document/AARONGROSSetanoPlaintiffsvMADISONSQUAREGARDENENTCORPDefendantNo23?doc_id=X1L6MKN90000N">says</a> it can proceed as a question about violating the city's Biometric Identifier Information Protection <a href="https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-42626">Law</a>. Other arguments for dismissal in case 23-cv-3380 were rejected in the District Court for the Southern District of New York.
+
+At issue is a <a href="https://www.poll
+
+## Deepfakes are a global election issue and a major threat to global stability: WEF
+ - [https://www.biometricupdate.com/202401/deepfakes-are-a-global-election-issue-and-a-major-threat-to-global-stability-wef](https://www.biometricupdate.com/202401/deepfakes-are-a-global-election-issue-and-a-major-threat-to-global-stability-wef)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T20:28:44+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1376" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/tag/deepfakes">Deepfakes</a> are turning from a tech buzzword into an issue of significant international concern, as nations begin to understand the threat that misinformation, disinformation and biometric hacking present to fair elections and the global economy. Biometrics and cybersecurity firms are mounting a defense with new tools and approaches to authentication. But with 2024 to see several elections that could have massive ramifications on a wobbly global order – according to <a href="https://www.cnbc.com/2024/01/10/how-fbi-nsa-are-preparing-for-deepfakes-ahead-of-2024-elections.html">CNBC</a>, this year more half the world’s adult population will be eligible to cast a vote – there is fresh urgency to the question of how to add
+
+## Malaysia’s digital ID system, Mimos move ministries
+ - [https://www.biometricupdate.com/202401/malaysias-digital-id-system-mimos-move-ministries](https://www.biometricupdate.com/202401/malaysias-digital-id-system-mimos-move-ministries)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T20:21:12+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="960" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/01161610/digital-id-malaysia.jpg" width="1280" />
+		Malaysian Communications Minister Fahmi Fadzil has announced the Cabinet has agreed to a number of changes, including new homes for its digital ID system and the public corporation developing it. Digital Nasional Berhad (DNB), which operates Malaysia's 5G network, and Cybersecurity Malaysia will also operate under the Digital Ministry, according to <a href="https://www.malaymail.com/news/malaysia/2024/01/10/fahmi-confirms-dnb-among-agencies-going-to-gobinds-digital-ministry/111636"><em>Malay Mail</em></a>.
+
+Mimos Berhad will move from JPM to the Science, Technology and Innovation Ministry. While Malaysia’s <a href="https://www.biometricupdate.com/202312/malaysia-rolls-out-national-digital-id-clarifies-biometric-enrollment-details">digital ID system</a>, developed by Mimos 
+
+## Bangladesh’s government wins election campaigning on DPI
+ - [https://www.biometricupdate.com/202401/bangladeshs-government-wins-election-campaigning-on-dpi](https://www.biometricupdate.com/202401/bangladeshs-government-wins-election-campaigning-on-dpi)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T20:16:20+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="496" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/11/30130646/micro-merchant-bangladesh.png" width="949" />
+		After Bangladesh’s ruling Awami League secured a victory in a <a href="https://www.bbc.com/news/world-asia-67889387">controversial election</a> last Sunday, all eyes are on the government’s plan to boost the country’s digital public infrastructure (DPI) ecosystem.
+
+A major part of Prime Minister Sheikh Hasina’s campaign to win over voters was the country’s digitalization project and its economy, <a href="https://www.aljazeera.com/news/2024/1/4/as-opposition-boycott-tarnishes-vote-young-bangladeshis-seek-new-narrative">according</a> to Al Jazeera.
+
+In preparation for the national elections, which took place on January 7th, the government <a href="https://en.somoynews.tv/news/2023-12-27/everyone-in-smart-bangladesh-to-get-unique-health-id">promised</a> in its manifesto 
+
+## AI innovates in forensic biometrics; finds not all fingerprints unique
+ - [https://www.biometricupdate.com/202401/ai-innovates-in-forensic-biometrics-finds-not-all-fingerprints-unique](https://www.biometricupdate.com/202401/ai-innovates-in-forensic-biometrics-finds-not-all-fingerprints-unique)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T18:53:00+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1311" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/06131844/fingerprint-scan-scaled.jpg" width="2048" />
+		An AI algorithm looked at multitudes of fingerprints in an uncommon way and reportedly learned that they are not as unique as they are assumed to be.
+
+There's a big but non-fatal caveat. Duplicate and near-duplicate prints occur on multiple fingers of an individual's hand, which makes them matchable.
+
+(For the time being, everyone has unique prints compared to others.)
+
+Columbia University engineering researchers, at least some of whom had no experience in forensic biometrics, decided to use a deep contrastive network to see if all fingerprints are, indeed, unique. The research was led by an undergraduate who began the work as a first-year student.
+
+They initially pointed the code at a NIST database of 60,000 fingerprints for intra-hand matching.
+
+The algorithm's accu
+
+## Passkey orchestration platform integrates Xperix flagship biometric scanner
+ - [https://www.biometricupdate.com/202401/passkey-orchestration-platform-integrates-xperix-flagship-biometric-scanner](https://www.biometricupdate.com/202401/passkey-orchestration-platform-integrates-xperix-flagship-biometric-scanner)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T18:36:13+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="447" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/11133528/biomini-slim-2.png" width="826" />
+		<a href="https://www.biometricupdate.com/companies/xperix">Xperix</a> has integrated its BioMini Slim 2 fingerprint biometric scanner with the <a href="https://idmelon.com/">IDmelon</a>’s passkeys platform in a new strategic collaboration.
+
+The IDmelon Orchestration Platform now supports FIDO2 authentication with passkeys for passwordless logical access control.
+
+The BioMini Slim 2 is Xperix’ best-selling product, and Bahram Piri, CEO and founder at IDmelon, calls it “one of the world’s best biometric fingerprint scanners.” The scanner features versatile, high-quality fingerprint capture capabilities, according to the announcement, with tolerance for wet and dry fingers and direct sunlight. It includes an embedded liveness detection algorithm, which is confirmed for compliance t
+
+## EAB Lunch Talk – Evaluating Morphing Attack Detectors: an overview of the Bologna Online Evaluation Platform
+ - [https://www.biometricupdate.com/202401/eab-lunch-talk-evaluating-morphing-attack-detectors-an-overview-of-the-bologna-online-evaluation-platform](https://www.biometricupdate.com/202401/eab-lunch-talk-evaluating-morphing-attack-detectors-an-overview-of-the-bologna-online-evaluation-platform)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T17:58:40+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1080" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/11125729/1704981812024.jpg" width="1920" />
+		<strong><a href="https://eab.org/events/program/334?ts=1704995434336">EAB Lunch Talk - Evaluating Morphing Attack Detectors: an overview of the Bologna Online Evaluation Platform</a></strong>
+<strong>Online</strong>
+<strong>Jan 23, 2024 at 12:30 CET</strong>
+
+European Association for Biometrics (<a href="https://www.biometricupdate.com/companies/european-association-for-biometrics-eab">EAB</a>) is hosting its first lunch talk of 2024 on January 23. 
+
+During this talk, Lorenzo Pellegrini from the University of Bologna (Alma Mater Studiorum – Università di Bologna) will give an overview of the Bologna Online Evaluation Platform (BOEP), which can be used to evaluate the performance of face morphing attack detection (MAD) algorithms. 
+
+<a href="https://eab.org/events/registration/3
+
+## Sierra Leone urges citizens to obtain biometric ID cards for security, services
+ - [https://www.biometricupdate.com/202401/sierra-leone-urges-citizens-to-obtain-biometric-id-cards-for-security-services](https://www.biometricupdate.com/202401/sierra-leone-urges-citizens-to-obtain-biometric-id-cards-for-security-services)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T16:12:11+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/28184625/digital-identity-scaled.jpg" width="2048" />
+		The National Civil Registration Authority of Sierra Leone (NCRA) is calling on citizens and residents in the country to acquire biometric national ID cards <a href="https://www.biometricupdate.com/202302/sierra-leone-launches-biometric-id-card-to-upgrade-crvs-kenyas-upi-goes-birth-to-death">introduced early last year</a>.
+
+Personalization for the cards with ICAO-compliant biometrics and public key infrastructure for signing that data is provided by <a href="https://www.biometricupdate.com/companies/x-infotech">X Infotech</a>, according to a <a href="https://www.x-infotech.com/x-infotech-eid-issuance-solution-for-sierra-leone-3/" rel="noopener" target="_blank">case study</a> from the company.
+
+The campaign for the uptake of the ID is intended to enhance holders’ person
+
+## Intellicheck aces independent fake ID detection test
+ - [https://www.biometricupdate.com/202401/intellicheck-aces-independent-fake-id-detection-test](https://www.biometricupdate.com/202401/intellicheck-aces-independent-fake-id-detection-test)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T16:10:16+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/12/01155656/document-verification-scaled.jpg" width="2048" />
+		An independent assessment of <a href="https://www.biometricupdate.com/companies/intellicheck">Intellicheck</a>’s ability to detect fake IDs indicates 100 percent accuracy, according to a company announcement.
+
+International fraud consultancy <a href="http://www.greenway-solutions.com">Greenway Solutions</a> produced the report from customer research and laboratory testing.
+
+Greenway’s Fraud Red Team procured 20 fake driver’s licenses and tested them against Intellicheck’s identity document validation technology, using a barcode scan, and an alternative document verification solution, which required scans of the cards’ front and back. While Intellicheck successfully identified all 20 as fakes, the competitor incorrectly passed one.
+
+Customers interviewed for the r
+
+## StateRAMP security certification added to Socure platform
+ - [https://www.biometricupdate.com/202401/stateramp-security-certification-added-to-socure-platform](https://www.biometricupdate.com/202401/stateramp-security-certification-added-to-socure-platform)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T15:41:46+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1366" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg" width="2048" />
+		Socure's ID+ platform has been certified for a spot in StateRAMP, a cybersecurity standards-focused marketplace for vendors selling systems to U.S. state and local governments.
+
+StateRAMP, or the State Risk and Authorization Management Program, is a local-government version of FedRAMP. ID+ was <a href="https://www.biometricupdate.com/202311/socure-launches-sigma-synthetic-fraud-v4-as-id-added-to-fedramp-marketplace">added</a> to FedRAMP in November.
+
+It is significant for the digital ID verification and anti-fraud <a href="https://www.biometricupdate.com/companies/socure">software maker</a>. It's recognition of the vendor's efforts to meet strict government requirements including NIST 800-53 cloud security.
+
+From a buyer's perspective, a product being authori
+
+## Ghana swaps indelible ink for biometric voter verification
+ - [https://www.biometricupdate.com/202401/ghana-swaps-indelible-ink-for-biometric-voter-verification](https://www.biometricupdate.com/202401/ghana-swaps-indelible-ink-for-biometric-voter-verification)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T15:36:01+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1024" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/21122004/liberia-national-id-biometric-registration.png" width="1536" />
+		In Ghana, the National Democratic Congress (NDC) has expressed concerns about the negative consequences of abandoning indelible ink in favor of strictly <a href="https://www.biometricupdate.com/202308/ghana-zambia-plan-biometric-voter-registration-drives-for-september">biometric verification</a> for voter verification, ahead of general elections scheduled for December 2024.
+
+According to <a href="https://www.modernghana.com/news/1284261/2024-elections-ndc-opposes-removal-of-indelible.html">Modern Ghana</a>, National Chairman of the NDC Johnson Asiedu Nketiah spoke at a press conference on the issue, explaining the NDC is against the removal of the indelible ink “because it visibly, transparently, and physically verifies voters in addition to biometr
+
+## New benchmark proposed for keystroke dynamics verification
+ - [https://www.biometricupdate.com/202401/new-benchmark-proposed-for-keystroke-dynamics-verification](https://www.biometricupdate.com/202401/new-benchmark-proposed-for-keystroke-dynamics-verification)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-01-11T15:31:36+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/20155817/passwordless-authentication-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/201612/explainer-keystroke-recognition">Keystroke dynamics</a>, a biometric template that identifies individuals based on their typing, has been tempting researchers as an easy way to verify a person: All that's necessary for verification is a keyboard. But the technology has also been facing obstacles as a person’s typing may change over time.
+
+A new paper published by IEEE Access, a journal run by the Institute of Electrical and Electronics Engineers, proposes a new framework to benchmark biometric verification based on keystroke dynamics.
+
+Similar to how voice, signature, giant and touch gestures recognize behavioral biometric traits, keystroke dynamics, also called keystroke recognition, uses a unique biometric t
+

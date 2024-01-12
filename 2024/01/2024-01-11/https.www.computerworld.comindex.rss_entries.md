@@ -1,0 +1,72 @@
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
+
+## Google targets retail sector with new genAI tools, hardware
+ - [https://www.computerworld.com/article/3712281/google-targets-retail-sector-with-new-genai-tools-hardware.html#tk.rss_all](https://www.computerworld.com/article/3712281/google-targets-retail-sector-with-new-genai-tools-hardware.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2024-01-11T22:23:00+00:00
+
+<article>
+	<section class="page">
+<p>Google’s latest foray into the world of generative AI (genAI) is focused on the retail industry with custom chatbots, intelligent inventory assistants, and edge devices customized for retail businesses.</p><p>The retail-oriented chatbot and other features<a href="https://www.googlecloudpresscorner.com/2024-01-11-Google-Cloud-Debuts-New-Generative-AI-Technologies-for-Retailers-Worldwide" rel="noopener nofollow" target="_blank"> were announced Thursday</a> ahead of the <a href="https://nrfbigshow.nrf.com" rel="noopener nofollow" target="_blank">National Retail Federation’s annual convention</a>. Google dubbed the chatbot a “conversational commerce solution,” designed to work with a user’s inventory data via websites or mobile apps. The idea is to provide businesses with an easy way to graft an AI-powered assistant — or salesperson — into existing points of sale. Google also noted the chatbot program can go from genesis to deployment in “a couple of 
+
+## Microsoft unveils new generative AI capabilities for retailers
+ - [https://www.computerworld.com/article/3712263/microsoft-unveils-new-generative-ai-capabilities-for-retailers.html#tk.rss_all](https://www.computerworld.com/article/3712263/microsoft-unveils-new-generative-ai-capabilities-for-retailers.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2024-01-11T18:49:00+00:00
+
+<article>
+	<section class="page">
+<p style="font-weight: 400;">Microsoft has released new <a href="https://www.infoworld.com/article/3689973/what-is-generative-ai-artificial-intelligence-that-creates.html">generative AI</a> (genAI) capabilities along with other updates to help retailers create better <a href="https://www.cio.com/article/189113/customer-experience-the-new-it-imperative.html" rel="noopener" target="_blank">customer experiences</a> for online shoppers.</p><p style="font-weight: 400;">The new features include a <a href="https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.html">Copilot</a> template, currently available in preview, that lets retailers build personalized shopping experiences that can be later embedded into an app or website allowing shoppers to make queries in natural language.</p><p class="jumpTag"><a href="/article/3712263/microsoft-unveils-new-generative-ai-capabilities-for-retailers.html#jump">To read this 
+
+## Why Apple must support MDM with Vision Pro
+ - [https://www.computerworld.com/article/3712260/why-apple-must-support-mdm-with-vision-pro.html#tk.rss_all](https://www.computerworld.com/article/3712260/why-apple-must-support-mdm-with-vision-pro.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2024-01-11T16:32:00+00:00
+
+<article>
+	<section class="page">
+<p>This really shouldn’t be controversial. Apple seriously needs to introduce a mobile device management (MDM) system for its Vision Pro headsets, because enterprise deployments will demand that it do so.</p><p>Apple will <a href="https://www.computerworld.com/article/3712023/apple-vision-pro-on-sale-feb-2-in-us-pre-orders-soon.html">soon begin selling Vision Pro</a>, the first product in its eventual <a href="https://www.computerworld.com/article/3712160/how-to-think-about-apple-and-spatial-computing.html">spatial computing</a> range. <a href="https://www.computerworld.com/article/3698690/with-vision-pro-apple-shows-computings-future-but-whos-it-for.html">Announced in June 2023</a> and set to ship next month, the device will cost $3,500 per unit and is expected to be sold to relatively affluent early adopters and consumers. It will also likely be picked up by developer and enterprise customers eager to <a href="https://www.applemust.com/vision-pro-d
+
+## OpenAI launches GPT Store to expand user base and add revenue streams
+ - [https://www.infoworld.com/article/3712202/openai-launches-gpt-store-to-expand-user-base-and-add-revenue-streams.html#tk.rss_all](https://www.infoworld.com/article/3712202/openai-launches-gpt-store-to-expand-user-base-and-add-revenue-streams.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2024-01-11T12:37:00+00:00
+
+OpenAI’s GPT store promises to expand the user base for the company and will contribute to the growing AI ecosystem.
+
+## Alphabet lays off hundreds from engineering, hardware, and digital assistant teams
+ - [https://www.computerworld.com/article/3712222/alphabet-lays-off-hundreds-from-engineering-hardware-and-digital-assistant-teams.html#tk.rss_all](https://www.computerworld.com/article/3712222/alphabet-lays-off-hundreds-from-engineering-hardware-and-digital-assistant-teams.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2024-01-11T12:24:00+00:00
+
+<article>
+	<section class="page">
+<p>Alphabet has confirmed that it has laid off hundreds of employees from several teams, including engineering and the teams responsible for its <a href="https://www.computerworld.com/article/3703729/whats-going-on-with-google-assistant.html">digital voice assistant</a> and hardware products, including <a href="https://www2.computerworld.com.au/article/668193/google-taps-fitness-tracker-market-2-1-billion-bid-fitbit/" rel="nofollow">Fitbit wearable devices</a> and <a href="https://www.computerworld.com/article/3622244/pixel-phone-overview.html">Pixel smartphones</a>.</p><p>“As we’ve said, we’re responsibly investing in our company’s biggest priorities and the significant opportunities ahead. To best position us for these opportunities, throughout the second half of 2023, a number of our teams made changes to become more efficient and work better, and to align their resources to their biggest product priorities,” a company spokesperson said in a state
+
+## Hey Gen. Z, you’re looking for tech jobs in all the wrong places
+ - [https://www.computerworld.com/article/3712180/hey-gen-z-youre-looking-for-tech-jobs-in-all-the-wrong-places.html#tk.rss_all](https://www.computerworld.com/article/3712180/hey-gen-z-youre-looking-for-tech-jobs-in-all-the-wrong-places.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2024-01-11T11:00:00+00:00
+
+<article>
+	<section class="page">
+<p>For generation Z, finding a job seems to be more difficult than it's been in recent years, and part of the problem is a lack of experience or skills companies want at a time when technology is changing at breakneck speed.</p><p>More than half of 1,000 workers ages 21 to 25 in the UK <a href="https://www.wiley.com/edge/diversity-in-tech-2023-uk-report/" rel="noopener nofollow" target="_blank">polled recently by Wiley Edge</a>, a reskilling training provider, said they needed as much as nine months to find their first entry-level role, with 37% of Gen Z tech workers needing more than six months to do so. (Half the respondents were in a tech or IT-based job; the other half were in other types of jobs.)</p><p class="jumpTag"><a href="/article/3712180/hey-gen-z-youre-looking-for-tech-jobs-in-all-the-wrong-places.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Global semiconductor market rebound in sight, but tethered to the rise of AI
+ - [https://www.computerworld.com/article/3712221/global-semiconductor-market-rebound-in-sight-but-tethered-to-the-rise-of-ai.html#tk.rss_all](https://www.computerworld.com/article/3712221/global-semiconductor-market-rebound-in-sight-but-tethered-to-the-rise-of-ai.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2024-01-11T09:56:00+00:00
+
+<article>
+	<section class="page">
+<p>After a period of slow growth, signs are emerging of a rebound in the global semiconductor market, fueled by a surge in demand for AI technologies.</p><p>The Semiconductor Industry Association (SIA) reported this week that global sales in the semiconductor industry reached $48 billion in November 2023. This figure represents a 5.3% rise compared to the $45.6 billion recorded in November 2022 and shows a 2.9% increase from the $46.6 billion total in October 2023.</p><p>“Global semiconductor sales increased on a year-to-year basis in November for the first time since August 2022, an indication that the global chip market is continuing to gain strength as we enter the new year,” said John Neuffer, SIA president and CEO. “Looking ahead, the global semiconductor market is projected to experience double-digit growth in 2024.”</p><p class="jumpTag"><a href="/article/3712221/global-semiconductor-market-rebound-in-sight-but-tethered-to-the-rise-of-ai.html#
+
+## AI-enabled PCs will drive PC sales growth in 2024, say research firms
+ - [https://www.computerworld.com/article/3712201/ai-enabled-pcs-will-drive-pc-sales-growth-in-2024-say-research-firms.html#tk.rss_all](https://www.computerworld.com/article/3712201/ai-enabled-pcs-will-drive-pc-sales-growth-in-2024-say-research-firms.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2024-01-11T09:20:00+00:00
+
+<article>
+	<section class="page">
+<p>The global PC market remained nearly flat in 2023 but AI-driven workloads are expected to drive growth in 2024.</p><p>“2023 was a challenging year for the PC industry, but companies have remained resilient and can now look forward to an improving landscape,” said Himani Mukka, research manager at Canalys. “The cautious optimism across key players in the market has been borne out by a stronger holiday season compared to last year, and inventory corrections in the previous quarters have helped support renewed sell-in.”</p><p>Shipments of notebooks hit 51.6 million units, up 4% from 2022, while desktop shipments landed at 13.7 million units, declining 1%, Canalys said in a press release.</p><p class="jumpTag"><a href="/article/3712201/ai-enabled-pcs-will-drive-pc-sales-growth-in-2024-say-research-firms.html#jump">To read this article in full, please click here</a></p></section></article>
+
