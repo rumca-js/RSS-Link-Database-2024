@@ -1,0 +1,51 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Prince Of Persia: The Lost Crown - All Athra Surges Guide
+ - [https://www.gamespot.com/gallery/prince-of-persia-lost-crown-athra-surge-locations-guide/2900-5035](https://www.gamespot.com/gallery/prince-of-persia-lost-crown-athra-surge-locations-guide/2900-5035)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-15T22:52:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4246081-prince-of-persia-lost-crown-athra-surge-unlock-guide-.jpg" /><br /><h3><p>Athra Surges in <a href="https://www.gamespot.com/games/prince-of-persia-the-lost-crown/"><strong>Prince of Persia: The Lost Crown</strong></a> are akin to combat skills. These abilities grant offensive boosts to Sargon, making him even deadlier in battle. They can be unleashed once you've filled up your meter by hitting enemies. Our Prince of Persia: The Lost Crown Athra Surge locations guide discusses where you can find these moves as you delve deeper into Mount Qaf.</p><p>Note that our guide is organized based on when we acquired Athra Surges during our playthrough. Moreover, some of these are obtained as part of campaign progression, while others are found in far-flung places, often held by Sargon's clones/doppelgangers. Last but not least, please be reminded that this article contains <strong>spoilers</strong>.</p></h3></p><b
+
+## Prince Of Persia: The Lost Crown - Amulet Upgrades Guide
+ - [https://www.gamespot.com/gallery/prince-of-persia-lost-crown-amulet-holder-slots-upgrade-guide/2900-5034](https://www.gamespot.com/gallery/prince-of-persia-lost-crown-amulet-holder-slots-upgrade-guide/2900-5034)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-15T22:51:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4246066-prince-of-persia-lost-crown-amulet-holder-amulet-slot-upgrades-guide-.jpg" /><br /><h3><p>Amulets can truly change the way you approach combat in <strong><a href="https://www.gamespot.com/games/prince-of-persia-the-lost-crown/">Prince of Persia: The Lost Crown</a></strong>. Some of these accessories have healing properties, while others grant boosted offensive capabilities. However, you can only wear a select few until you gain additional slots. Our Prince of Persia: The Lost Crown Amulet Holder locations guide discusses where you can find upgrades that increase your equipment slots.</p></h3></p><br />     <p><h2>The Mage vendor</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4246067-prince-of-persia-lost-crown-amulet-holder-amulet-slot-upgrades-guide-1b.jpg" /><br /><h3><p>The Mage, a vendor NPC in the Haven hub in the Lower City, sells just one Amulet Holder for 240 crystals
+
+## Prince Of Persia: The Lost Crown - Clock Puzzle In The Upper City Guide
+ - [https://www.gamespot.com/articles/prince-of-persia-lost-crown-clock-puzzle-upper-city-guide/1100-6520325/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/prince-of-persia-lost-crown-clock-puzzle-upper-city-guide/1100-6520325/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-15T22:45:00+00:00
+
+<p>The Upper City Clock Puzzle in <a href="https://www.gamespot.com/games/prince-of-persia-the-lost-crown/"><strong>Prince of Persia: The Lost Crown</strong></a> can be somewhat tricky. That's because certain objects are hard to reach, and you need them to repair a mechanism. Our guide discusses just what you need to do to complete this portion of the campaign.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to solve the Upper City Clock Puzzle in Prince of Persia: The Lost Crown</a><ul><li><a href="https://www.gamespot.com">Puzzle room #1 (bottom chamber)</a></li><li><a href="https://www.gamespot.com">Puzzle room #2 (left chamber)</a></li><li><a href="https://www.gamespot.com">Puzzle room #3 (right chamber)</a></li><li><a href="https://www.gamespot.com">How to fix the clock hands</a></li></ul></div><h2 id="How_to_solve_the_Upper_City_Clock_Puzzle_in_P
+
+## Prince Of Persia: The Lost Crown - Sacred Archives Time Puzzle Guide
+ - [https://www.gamespot.com/articles/prince-of-persia-lost-crown-sacred-archives-puzzle-time-power/1100-6520324/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/prince-of-persia-lost-crown-sacred-archives-puzzle-time-power/1100-6520324/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-15T22:12:00+00:00
+
+<p>The world of <a href="https://www.gamespot.com/games/prince-of-persia-the-lost-crown/"><strong>Prince of Persia: The Lost Crown</strong></a> is filled with wonder, mystery, and a bunch of puzzles, too. One, in particular, requires you to use cloned versions of your character, Sargon, just to clear a path. Our Prince of Persia: The Lost Crown Sacred Archives time puzzle guide discusses how you can solve this tricky brain teaser.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to solve the Sacred Archives time puzzle in Prince of Persia: The Lost Crown</a></li></ul></div><p> </p><h2 id="How_to_solve_the_Sacred_Archives_time_puzzle_in_Prince_of_Persia__The_Lost_Crown">How to solve the Sacred Archives time puzzle in Prince of Persia: The Lost Crown</h2><p>The Prince of Persia: The Lost Crown Sacred Archives time puzzle is part of a main quest called the
+
+## Prince Of Persia: The Lost Crown - All Time Powers Guide
+ - [https://www.gamespot.com/gallery/prince-of-persia-the-lost-crown-all-time-powers-guide/2900-5033](https://www.gamespot.com/gallery/prince-of-persia-the-lost-crown-all-time-powers-guide/2900-5033)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-15T22:10:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4246030-prince-of-persia-time-powers-guide-.jpg" /><br /><h3><p>In <a href="https://www.gamespot.com/games/prince-of-persia-the-lost-crown/"><strong>Prince of Persia: The Lost Crown</strong></a>, the young Immortal bodyguard, Sargon, already has some nifty tricks up his sleeve. However, there are still a select few skills that you can obtain along the way. Our Prince of Persia: The Lost Crown time powers guide discusses the abilities that you can unlock as you progress further into the campaign. Likewise, please be reminded that this article contains spoilers.</p><p>Note that certain traversal mechanics, such as wall-jumping and dodging, are already available by default. As such, we'll only focus on those that are acquired at later sections of the game.</p></h3></p><br />     <p><h2>Rush of the Simurgh</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4246031-prince-of-persia-time-power
+
+## The Complete PRINCE OF PERSIA Timeline Explained!
+ - [https://www.gamespot.com/videos/the-complete-prince-of-persia-timeline-explained/2300-6463199](https://www.gamespot.com/videos/the-complete-prince-of-persia-timeline-explained/2300-6463199)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-15T15:34:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1571/15719603/4246005-timeline_princeofpersia_site.jpg" width="480" /> The Prince of Persia franchise has a long and storied history, which spans 4 different timelines and 11 games - and that doesn’t even include the 4 separate versions of the Forgotten Sands. With the release of Prince of Persia: The Lost Crown, there is no better time to dive back into the lore and timeline of Ubisoft’s adventure franchise.   This is the Prince of Persia franchise fully explained.
+
+## 30 Cozy Games We're Excited For In 2024
+ - [https://www.gamespot.com/gallery/cozy-games-were-excited-for-in-2024/2900-5016](https://www.gamespot.com/gallery/cozy-games-were-excited-for-in-2024/2900-5016)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-15T14:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1639/16394322/4242070-fieldsofmistria-officialtrailer_wholesomedirect20230-4screenshot.png" /><br /><h3><p>Regardless of whether you're looking for a thirsty farm sim, a heartfelt narrative, or a chill management game, there is no shortage of cozy games headed our way in 2024. We've rounded up 30 of the ones we are most excited for, along with a small description of what you can expect from them and their respective release date, if announced. We'll be sure to update this list with release dates and additional titles as more are revealed.</p></h3></p><br />     <p><h2>Sunnyside</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1639/16394322/4242197-ss_908e8947cf583ed9095c332a8dc62c6f710b0fff.1920x1080.jpg" /><br /><h3><p>Billing itself as a game that "bridges the gap between tradition and modernism," SunnySide is a Japanese-inspired RPG farm sim that sends players to rural Japan to tend to a once-forgotten plot of
+
