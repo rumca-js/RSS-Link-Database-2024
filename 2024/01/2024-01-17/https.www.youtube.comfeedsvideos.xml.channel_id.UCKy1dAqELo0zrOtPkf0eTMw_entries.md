@@ -1,0 +1,208 @@
+# Source:Ign - YouTube, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw, language:en-US
+
+## Ted’s Max Burkholder on NOT doing a Mark Wahlberg impression. #ted #maxburkholder #markwahlberg
+ - [https://www.youtube.com/watch?v=__YIbIEJkvU](https://www.youtube.com/watch?v=__YIbIEJkvU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T23:30:00+00:00
+
+
+
+## Prince of Persia: All Mystery Chest Locations
+ - [https://www.youtube.com/watch?v=HAKpWk_6B7I](https://www.youtube.com/watch?v=HAKpWk_6B7I)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T23:01:20+00:00
+
+Find every mystery chest location in Prince of Persia: The Lost Crown with our handy dandy Prince of Persia: The Lost Crown Mystery Chest Guide. Mystery Chests are secret chests that require you to perform a specific action or complete a mini puzzle in order to open them. There are 9 of these throughout the world of Prince of Persia: The Lost Crown, and they are all part of The Architect Sidequest.
+
+## Steven Ogg might resent being recognized as Trevor from GTA V #gta5 #gtav #grandtheftauto
+ - [https://www.youtube.com/watch?v=ZkiCGaGawqw](https://www.youtube.com/watch?v=ZkiCGaGawqw)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T22:43:19+00:00
+
+
+
+## Plants vs. Zombies 3: Welcome to Zomburbia - Official Trailer
+ - [https://www.youtube.com/watch?v=oCBmXCK7bm4](https://www.youtube.com/watch?v=oCBmXCK7bm4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T21:00:23+00:00
+
+Watch the Plants vs. Zombies 3: Welcome to Zomburbia trailer for a look at the new main line Plants vs. Zombies game. 
+
+PvZ3 is a story-driven mobile game with an episodic narrative. Return to the familiar combat of the first Plants vs Zombies game and complete tower defense challenges in the wacky world of Neighborville. Prepare to meet new plants, decor, and more as you work your way through each neighborhood.
+
+Plants vs. Zombies 3: Welcome to Zomburbia is available on mobile devices (Android and iOS) in Early Access in select regions, including the UK, Netherlands, Australia, and Philippines. The game will launch worldwide later this year.
+
+## Nightingale - Exclusive Apex Creature Humbaba Gameplay
+ - [https://www.youtube.com/watch?v=qoPjCLn5ars](https://www.youtube.com/watch?v=qoPjCLn5ars)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T20:46:14+00:00
+
+Watch as a group of Realm Walkers locates, hunts, and battles the formidable Humbaba, the apex creature of the swamp biome, in this exclusive Nightingale gameplay. Nightingale is a shared-world survival crafting RPG where hunting these huge apex creatures is just one of many, many different things to do and strive for. This Nightingale multiplayer gameplay should give you a good look at what a full end-game hunt will be like with friends.
+
+Nightingale will be released in early access on February 22, 2024.
+
+## Mario vs. Donkey Kong - Official Cinematic Trailer
+ - [https://www.youtube.com/watch?v=jxjoFgRjuBA](https://www.youtube.com/watch?v=jxjoFgRjuBA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T19:34:29+00:00
+
+Check out the latest trailer for Mario vs. Donkey Kong, an updated version of the Game Boy Advance game. When all the Mini-Marios sell out, Donkey Kong takes matters into his own hands! Track them down when Mario vs. Donkey Kong launches on Nintendo Switch on February 16, 2024.
+
+## Skull and Bones - Official Premium Edition Trailer
+ - [https://www.youtube.com/watch?v=U38x7e_B174](https://www.youtube.com/watch?v=U38x7e_B174)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T18:00:14+00:00
+
+Watch the latest trailer for Skull and Bones for another look at the game and see what's available in the Premium Edition, featuring the Ballad of Bloody Bones Collection including a captain outfit and cosmetic ship items, two extra missions, and more.
+
+Skull and Bones will be available on PS5, Xbox Series X/S, Amazon Luna, and Windows PC through the Epic Games Store and the Ubisoft Store on February 16th, 2024, and it will be available to play up to 3 days early with the Premium Edition, or by subscribing to Ubisoft+.
+
+#SkullAndBones #Gaming #IGN
+
+## Molli and Max in the Future: Exclusive Trailer (2024) Zosia Mamet, Aristotle Athari
+ - [https://www.youtube.com/watch?v=GQx8H3wQcx0](https://www.youtube.com/watch?v=GQx8H3wQcx0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T17:00:11+00:00
+
+A sci-fi rom-com about a man and woman whose orbits repeatedly collide over the course of 12 years, 4 planets, 3 dimensions and 1 space-cult. Molli and Max in the Future takes the character-driven romance of When Harry Met Sally and combines it with an eclectic sci-fi universe like Futurama. Classic practical effects combined with cutting edge technology create Molli and Max’s unique universe.
+
+Written and directed by Micheal Lukk Litwak (The Life and Death of Tommy Chaos and Stacey Danger, Go90 Series “Snatchers") and starring Zosia Mamet ("The Flight Attendant,” “Girls") and Aristotle Athari (“SNL,” “Silicone Valley").
+
+Level 33 Entertainment will release Molli and Max in the Future in theaters on February 9, 2024.
+
+#IGN #MolliAndMaxInTheFuture #2024
+
+## Dead by Daylight x Alan Wake - Official Spotlight Trailer
+ - [https://www.youtube.com/watch?v=Q2RM_vB2uS0](https://www.youtube.com/watch?v=Q2RM_vB2uS0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T16:25:41+00:00
+
+Watch the new Dead by Daylight Alan Wake trailer. Alan Wake is coming to The Fog. Check out the latest trailer for Dead by Daylight to learn about Alan Wake's character perks: Champion of Light, Boon: Illumination, and Deadline.
+
+Dead by Daylight is a multiplayer action/horror game where one player takes on the role of a brutal Killer and the other four play as Survivors. Alan Wake will be available in Dead by Daylight on January 30, 2024.
+
+#AlanWake #DeadByDaylight #Gaming
+
+## Winter Survival: The First 16 Minutes of Gameplay
+ - [https://www.youtube.com/watch?v=Ejf7L6-KPUM](https://www.youtube.com/watch?v=Ejf7L6-KPUM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T15:00:18+00:00
+
+Check out the first 16 minutes of gameplay from Winter Survival, the upcoming survival game that developer DRAGO Entertainment describes as a "story-driven, sanity-testing sandbox" experience. It will be released in Steam Early Access on February 28, 2024, and don't miss the playable demo on January 29.
+
+#IGN #Gaming #WinterSurvival
+
+## Tekken 8 - Official Lee Chaolan Gameplay Reveal Trailer
+ - [https://www.youtube.com/watch?v=XOTpRPqtYdU](https://www.youtube.com/watch?v=XOTpRPqtYdU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T14:30:20+00:00
+
+Lee Chaolan takes the spotlight in this latest gameplay trailer for Tekken 8. Check it out to see the character in action in the upcoming fighting game. Tekken 8 will be available on PlayStation 5 (PS5), Xbox Series X/S, and PC on January 26, 2024, and a demo is available now.
+
+#Tekken #Tekken8 #Gaming
+
+## HARM: Weather Warfare – Official Announcement Trailer
+ - [https://www.youtube.com/watch?v=6teme4mV1pg](https://www.youtube.com/watch?v=6teme4mV1pg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T14:00:08+00:00
+
+Get your first look at HARM: Weather Warfare, a new story-driven first-person survival game in which you play a father who must save his daughter amidst a slew of devastating, unpredictable, and unseasonable weather anomalies. And to make matters worse, you'll have to battle a deranged cult that's taken over the abandoned HARM base. HARM: Weather Warfare is coming to Steam Early Access this year. 
+
+Wishlist it on Steam:  https://store.steampowered.com/app/2704310/HARM_Weather_Warfare/
+
+#IGN #Gaming #HARMWeatherWarfare
+
+## Wakerunners - Official Teaser Trailer
+ - [https://www.youtube.com/watch?v=vR4KoEMb8jc](https://www.youtube.com/watch?v=vR4KoEMb8jc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T13:01:00+00:00
+
+Check out the Wakerunners trailer for the upcoming 4v4 and 5v5 top-down team battle action game set in a dystopian sci-fi future. 
+
+A ravaged Earth is now the site of skirmishes between surviving factions. Switch between your Wakerunners characters mid-battle and use their unique abilities and battle styles to win.
+
+Wakerunners is coming soon to PC via Steam. There will be seven playable characters and five different game modes available in the upcoming Steam Next Fest demo, including Raider, Escort, Team Deathmatch, Control Conquest, and Command Siege.
+
+#Gaming #IGN #Games
+
+## Ace Combat 7: Skies Unknown - Official Nintendo Switch & PS4 Comparison Trailer
+ - [https://www.youtube.com/watch?v=Iugj4QWxH34](https://www.youtube.com/watch?v=Iugj4QWxH34)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T13:00:17+00:00
+
+Check out this side-by-side comparison of Ace Combat 7 Skies Unknown on PS4 & Nintendo Switch!!! The Nintendo Switch version will faithfully recreate the thrilling experience and explosive action of the original game. Sor through an expanse of clouds over richly detailed terrain and landscapes with exhilarating speed.
+
+Ace Combat 7: Skies Unknown Deluxe Edition will be available on Nintendo Switch on July 11th, 2024.
+
+#IGN #Gaming
+
+## Ace Combat 7: Skies Unknown Deluxe Edition - Official Nintendo Switch Announcement Trailer
+ - [https://www.youtube.com/watch?v=DlbojIIkcM4](https://www.youtube.com/watch?v=DlbojIIkcM4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T13:00:11+00:00
+
+The narrative-driven air combat game is bringing the Lighthouse War to Nintendo Switch. The deluxe edition will include six DLC packs and special bonuses released for the original game.
+
+Ace Combat 7 Skies Unknown Deluxe Edition will be available on Nintendo Switch on July 11th, 2024.
+
+#IGN #Gaming
+
+## The Last of Us Part 2 Remastered - 18 Minutes of No Return Gameplay
+ - [https://www.youtube.com/watch?v=RKf_d-JBTig](https://www.youtube.com/watch?v=RKf_d-JBTig)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T06:25:47+00:00
+
+Watch two full encounters of No Return, the new Rogue-Like mode included in The Last Of Us Part II Remastered on PS5. Ellie takes on the WLF and Infected (with help from Jesse) across two different encounters, affected by different mods. You can also see Ellie preparing for future rounds in the safehouse. The Last Of Us Part II Remastered releases for PS5 on January 19th, 2024.
+
+## GTA 5 Michael actor gives advice to GTA 6’s Lucia #gta #gta5 #gta6 #nedluke #grandtheftauto
+ - [https://www.youtube.com/watch?v=W8yOHsz229k](https://www.youtube.com/watch?v=W8yOHsz229k)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T02:34:41+00:00
+
+
+
+## Take-Two Interactive says Remedy Entertainment’s new logo is too similar to Rockstar Games. #gta
+ - [https://www.youtube.com/watch?v=7_iTRNCFa_Y](https://www.youtube.com/watch?v=7_iTRNCFa_Y)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T02:01:38+00:00
+
+
+
+## Marvel Studios' Echo - Official 'Family' Trailer (2023) Alaqua Cox, Zahn McClarnon, Charlie Cox
+ - [https://www.youtube.com/watch?v=tPmMGB4KOIk](https://www.youtube.com/watch?v=tPmMGB4KOIk)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T02:00:29+00:00
+
+Take a look at the latest trailer for Marvel Studios' Echo honing in on the main focal point through the entire series, family.
+
+Marvel Studios' Echo stars Alaqua Cox, Zahn McClarnon, Vincent D'Onofrio, Charlie Cox, Devery Jacobs, Dannie McCallum, Alejandra Jaime, Alexis Capozzi, and more. The series is directed by Catriona McKenzie and Sydney Freeland alongside Kevin Feige, Amy Rardin, Brad Winderbaum, and Etan Cohen as producers. 
+
+All 5 episodes of Marvel Studios’ Echo are streaming now exclusively on Disney Plus and Hulu.
+
+#ign #marvel
+
+## Bleeding Love - Official Trailer (2024) Ewan McGregor, Clara McGregor
+ - [https://www.youtube.com/watch?v=EtZgsHcJDTQ](https://www.youtube.com/watch?v=EtZgsHcJDTQ)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T01:00:06+00:00
+
+Starring real-life father and daughter Ewan and Clara McGregor, Bleeding Love is a gritty, emotional tale about healing familial wounds through re-connection. After a drastic incident in her life, a young woman (Clara) embarks on an impromptu road trip with her estranged father (Ewan). En route to their destination of Santa Fe, New Mexico, the two are forced to confront the issues of their past that have led to their frail relationship, while encountering an eccentric array of characters along the way, in order to bring them closer together again.
+
+#IGN #Movies
+
+## Ted’s Charly Jordan is playing Super Mario Galaxy and her favorite game is Halo 2! #ted #gaming
+ - [https://www.youtube.com/watch?v=9KfVTau-0Pw](https://www.youtube.com/watch?v=9KfVTau-0Pw)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T00:59:32+00:00
+
+
+
+## Minecraft - Official Planet Earth 3 Trailer
+ - [https://www.youtube.com/watch?v=J6zyF_5PPXE](https://www.youtube.com/watch?v=J6zyF_5PPXE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-17T00:00:08+00:00
+
+The Planet Earth 3 DLC has arrived to the hit sandbox creative game Minecraft. Players can explore the trials and tribulations behind majestic creatures such as the great white shark, the Arctic wolf, the musk ox, and more. Explore how all of these animals coexist with one another whether it be predator or friend. The Planet Earth 3 DLC is available now for Minecraft Education and on the Minecraft Marketplace.
+
+#ign #minecraft
+

@@ -1,0 +1,37 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Notley made Alberta NDP a winner and planted unlikely dream: winning again
+ - [https://www.cbc.ca/news/canada/calgary/notley-resigns-alberta-ndp-winner-analysis-1.7085776?cmp=rss](https://www.cbc.ca/news/canada/calgary/notley-resigns-alberta-ndp-winner-analysis-1.7085776?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-01-17T04:00:36+00:00
+
+<img alt="a blond woman in profile touches her nose, as her eyes water." height="349" src="https://i.cbc.ca/1.7085785.1705445519!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/alta-notley-20240116.jpg" title="Rachel Notley got emotional Tuesday as she announced she&apos;ll step down as Alberta NDP leader when her party elects a replacement." width="620" /><p>There's no clear frontrunner in the race to replace Notley. But the next leader's goal will be clear: return Alberta NDP to government, not back to its small traditional base.</p>
+
+## Cash for keys: Some tenants who face eviction demand thousands from landlords amid tribunal delays
+ - [https://www.cbc.ca/news/canada/toronto/landlord-tenant-cash-for-keys-1.7050393?cmp=rss](https://www.cbc.ca/news/canada/toronto/landlord-tenant-cash-for-keys-1.7050393?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-01-17T04:00:00+00:00
+
+<img alt="A woman with long dark hair stands in the open doorway to a bedroom." height="349" src="https://i.cbc.ca/1.7081693.1705065566!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pema-zela.jpg" title="Pema Zela said her tenant refused to leave and  stopped paying rent. Zela and her family were forced to rent an apartment to live in while awaiting a hearing at the Landlord and Tenant Board." width="620" /><p>Amid delays at Ontario’s Landlord and Tenant Board, the demand for cash for keys — when a landlord pays a tenant to leave peacefully and in a timely manner — is on the rise, paralegals say. They say some tenants are taking advantage, but tenant advocates argue they're simply seeking fair compensation for the disruption and cost of eviction.</p>
+
+## Former Cree grand chief spends 4 days in an ER hallway after travelling to Montreal for health care
+ - [https://www.cbc.ca/news/canada/montreal/former-cree-grand-chief-matthew-mukash-montreal-health-care-hospital-er-wait-1.7085709?cmp=rss](https://www.cbc.ca/news/canada/montreal/former-cree-grand-chief-matthew-mukash-montreal-health-care-hospital-er-wait-1.7085709?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-01-17T04:00:00+00:00
+
+<img alt="A woman stands at a man&apos;s bedside. He is in a bed in the emergency room. " height="349" src="https://i.cbc.ca/1.7085710.1705446091!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jade-mukash-matthew-mukash-hospital.jpg" title="Matthew Mukash waited in the emergency department for four days. Now his family is sharing his story to highlight the additional barriers some Cree and Inuit patients can face accessing health care after travelling south." width="620" /><p>Matthew Mukash's family is speaking out after he spent four days in a congested ER in Montreal. They say his experience highlights the struggles of Cree and Inuit patients who can get stuck waiting for care after travelling south to hospitals.</p>
+
+## Loblaw ending 50% discount on some food items raises concerns about anti-competitive behaviour
+ - [https://www.cbc.ca/news/business/loblaws-discount-competition-1.7085484?cmp=rss](https://www.cbc.ca/news/business/loblaws-discount-competition-1.7085484?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-01-17T04:00:00+00:00
+
+<img alt="Two people by shopping carts in the fruit and vegetable section of a grocery store." height="349" src="https://i.cbc.ca/1.6918146.1690377739!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/grocery-store-toronto.JPG" title="People shop in the produce aisle of a grocery store in Toronto on July 17, 2023. " width="620" /><p>While a move by Loblaw to end its 50 per cent discount on perishable foods like meat, fruit and vegetables as they near their best-before dates may anger some consumers, there's nothing to suggest it runs afoul of competition laws or is an act of collusion, some experts say.</p>
+
+## Ontario woman who faked pregnancies, harassed doulas faces sentencing hearing today
+ - [https://www.cbc.ca/news/canada/london/kaitlyn-braun-sentencing-1.7085430?cmp=rss](https://www.cbc.ca/news/canada/london/kaitlyn-braun-sentencing-1.7085430?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-01-17T04:00:00+00:00
+
+<img alt="Kaitlyn Braun, 24, of Brantford pleaded guilty to 21 of the 52 charges she was facing for defrauding and harassing several doulas across Ontario. " height="349" src="https://i.cbc.ca/1.7055458.1702317692!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kaitlyn-braun.jpg" title="Kaitlyn Braun, 24, of Brantford pleaded guilty to 21 of the 52 charges she was facing for defrauding and harassing several doulas across Ontario. " width="620" /><p>A Brantford woman who pleaded guilty last month to faking pregnancies and fraudulently seeking the services of dozens of doulas across Ontario faces a sentencing hearing today, when victims will also share how her actions have affected their lives.</p>
+
