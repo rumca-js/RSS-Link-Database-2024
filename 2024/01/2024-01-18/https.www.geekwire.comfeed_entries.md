@@ -1,0 +1,23 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed/, language:en-US
+
+## Seattle cybersecurity startup Oleria raises $33M
+ - [https://www.geekwire.com/2024/seattle-cybersecurity-startup-oleria-raises-33m](https://www.geekwire.com/2024/seattle-cybersecurity-startup-oleria-raises-33m)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-01-18T16:57:04+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="872" src="https://cdn.geekwire.com/wp-content/uploads/2024/01/jim_taher_and_jagadeesh-1260x872.jpeg" width="1260" /><br />Oleria, a Seattle startup helping companies manage employee access to applications and data, raised $33.1 million in a Series A round. GeekWire previously reported on the funding after we spotted an SEC filing. The company is now providing more details about the cash and growth plans, including the tripling of its 20-person team over the next year. Oleria emerged from stealth mode last year with software designed to help companies prevent and respond to breaches in an ever-changing cybersecurity landscape. The idea is to automate many security-related tasks and make it easier to get a handle on internal access to&#8230; <a href="https://www.geekwire.com/2024/seattle-cybersecurity-startup-oleria-raises-33m/">Read More</a>
+
+## The most promising pitches from Techstars Seattle Demo Day 2024
+ - [https://www.geekwire.com/2024/the-most-promising-pitches-from-techstars-seattle-demo-day-2024](https://www.geekwire.com/2024/the-most-promising-pitches-from-techstars-seattle-demo-day-2024)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-01-18T14:00:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2024/01/IMG_0457-2-1260x945.jpeg" width="1260" /><br />The 2011 cohort of Techstars Seattle will be hard to beat. Three of the ten startups in the accelerator that year (Remitly, Outreach, Zipline) went on to become billion-dollar companies — a 30% unicorn rate. But the 2024 group may have a chance. &#8220;I&#8217;m confident that in the years to come, this cohort will compare very favorably,&#8221; said Bill Bryant, a longtime Seattle-area venture capitalist and Techstars Seattle mentor, speaking at Demo Day on Wednesday evening at the Museum of Pop Culture. This year&#8217;s cohort, under the direction of managing director Marius Ciocirlan, doubled in size to 24 companies. Startups spent&#8230; <a href="https://www.geekwire.com/2024/the-most-promising-pitches-from-techstars-seattle-demo-day-2024/">Read More</a>
+
+## Three Pacific Northwest space companies win awards from Space Force venture fund
+ - [https://www.geekwire.com/2024/pacific-northwest-space-companies-awards-space-force-venture-fund](https://www.geekwire.com/2024/pacific-northwest-space-companies-awards-space-force-venture-fund)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-01-18T02:23:04+00:00
+
+<img alt="Illustration: Gravitics space station module in orbit" class="webfeedsFeaturedVisual wp-post-image" height="709" src="https://cdn.geekwire.com/wp-content/uploads/2024/01/240117-gravitics-1260x709.jpg" width="1260" /><br />SpaceWERX, which essentially serves as a venture fund for the U.S. Space Force, has awarded contracts worth as much as $1.7 million each to 18 companies &#8212; including three startups headquartered in the Seattle area. The Washington state awardees are Marysville-based Gravitics, which is working on next-generation space station modules; Bothell-based Portal Space Systems, which is focusing on systems for in-space mobility and orbital debris removal; and Tukwila-based Starfish Space, which is developing spacecraft and software for on-orbit satellite servicing. The awards were made through the 2023 SpaceWERX Tactically Responsive Space Challenge, conducted in partnership with Space Safari. The challenge&#8230; <a href="https://www.geekwire.com/2024/pacifi
+
