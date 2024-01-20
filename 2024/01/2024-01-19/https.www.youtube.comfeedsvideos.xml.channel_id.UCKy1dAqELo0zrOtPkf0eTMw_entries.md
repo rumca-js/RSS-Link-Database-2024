@@ -1,0 +1,197 @@
+# Source:Ign - YouTube, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw, language:en-US
+
+## Palworld Sells 1 Million Copies in 8 Hours, and Steam's Servers Are Struggling - IGN Daily Fix
+ - [https://www.youtube.com/watch?v=M2l1pZr0ilk](https://www.youtube.com/watch?v=M2l1pZr0ilk)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T23:14:58+00:00
+
+In today's Daily Fix:
+Palworld, yes the "Pokémon with guns" game, has sold 1 million copies in just 8 hours, according to developer Pocketpair. The game arrived on Steam and Xbox, and it's been getting so much traffic, Steam servers are struggling to stay connected. In other news, Sony is issuing refunds to those who were eligible for the $10 upgrade, but paid full price for a second time. And speaking of Sony, we have a list of games leaving PlayStation Plus Extra next month. Play 'em while you can!
+
+#IGN #Gaming #Palworld
+
+## How Dragon's Dogma 2 Realizes the Vision of the Original Game - Hideaki Itsuno Interview
+ - [https://www.youtube.com/watch?v=eGFfyHj3as8](https://www.youtube.com/watch?v=eGFfyHj3as8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T21:00:19+00:00
+
+The first Dragon's Dogma was a wonderfully unique RPG back in 2012, but it was held back by technical limitations that prevented Director Hideaki Itsuno from realizing his true vision for the project. Find out how things have changed now with the upcoming Dragon's Dogma 2.
+
+## Playing Prince of Persia: The Lost Crown? Here are some tips! Presented by @Ubisoft
+ - [https://www.youtube.com/watch?v=hYOmb9GcMEA](https://www.youtube.com/watch?v=hYOmb9GcMEA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T20:00:28+00:00
+
+
+
+## AI Limit - Official Gameplay Trailer
+ - [https://www.youtube.com/watch?v=kgEggSrMA7Q](https://www.youtube.com/watch?v=kgEggSrMA7Q)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T19:00:21+00:00
+
+Check out the AI Limit gameplay trailer for the upcoming post-apocalyptic sci-fi ARPG. 
+
+Following natural disasters and wars, civilization has been wiped out. In the centuries that have followed, a strange substance known as the Mud has spread everywhere, causing monsters to emerge. You will step into the last city of mankind, Havenswell, exploring cold and damp sewers, the sky city above the lake, and more in search of the truth about the destruction of civilization. Face mysterious and deadly enemies and put an end to an eerie and desperate history. Get a look at what to expect in this action-packed trailer.
+
+Developed by Chinese indie game studio, SenseGames, and published by CE-Asia, AI Limit has a planned release window of 2024 on PlayStation 5 (PS5) and PC via Steam.
+
+## Ravenswatch - Official Dark Tales Update Teaser Trailer
+ - [https://www.youtube.com/watch?v=khojXp_M23A](https://www.youtube.com/watch?v=khojXp_M23A)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T18:00:47+00:00
+
+Watch the latest teaser trailer for Ravenswatch for a peek at the Dark Tales update coming to the roguelike action game on February 1, 2024.
+
+Ravenswatch is now in Early Access, and it will be available in 2024 on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, and Nintendo Switch.
+
+#Ravenswatch #Gaming #IGN
+
+## Peacock gave us this exclusive clip from Ted for your viewing pleasure so SMASH those buttons PLS
+ - [https://www.youtube.com/watch?v=CYcL1pZvvCs](https://www.youtube.com/watch?v=CYcL1pZvvCs)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T17:54:43+00:00
+
+
+
+## Deviator - Official Gameplay Trailer
+ - [https://www.youtube.com/watch?v=Z8HUELoNayE](https://www.youtube.com/watch?v=Z8HUELoNayE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T17:00:24+00:00
+
+Watch the new Deviator gameplay trailer for the upcoming 2D hand-drawn Metroidvania game from Gami Studio. Search for the truth in this chaotic world, discover strange creatures, and explore mysterious cities and unknown wilderness. Use your deflect ability to build momentum as you take on a variety of enemies along the way. Check out this extended Deviator gameplay for a good look at what to expect. 
+
+Deviator will be released in 2024, with a limited-time demo release planned for February. It will also feature in Steam Next Fest, which runs from February 5-12.
+
+#Gaming #IGN #Deviator
+
+## Ted - Exclusive Clip (2024) Seth MacFarlane, Max Burkholder, Giorgia Whigham
+ - [https://www.youtube.com/watch?v=YdCYc_zuggc](https://www.youtube.com/watch?v=YdCYc_zuggc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T17:00:24+00:00
+
+In this scene from Episode 6 of the Peacock series, Ted and John talk to Blaire about her fight with Matty.
+
+In this comedic prequel event series to the Ted films, it's 1993, and Ted the bear’s (Seth MacFarlane) moment of fame has passed. He’s now living back home in Framingham, Massachusetts with his best friend, 16-year-old John Bennett (Max Burkholder), along with John’s parents, Matty and Susan (Scott Grimes and Alanna Ubach) and cousin Blaire (Giorgia Whigham).
+
+Ted may be a lousy influence on John, but at the end of the day, he’s a loyal pal who’s always willing to go out on a limb for friendship.
+
+## Masters of the Air - Exclusive Behind the Scenes Clip (2024) Austin Butler, Tom Hanks
+ - [https://www.youtube.com/watch?v=0WKdz9xCWZM](https://www.youtube.com/watch?v=0WKdz9xCWZM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T17:00:01+00:00
+
+From executive producers Steven Spielberg, Tom Hanks and Gary Goetzman, the series features a stellar cast led by Academy Award nominee Austin Butler, Callum Turner, Anthony Boyle, Nate Mann, Rafferty Law, Academy Award nominee Barry Keoghan, Josiah Cross, Branden Cook and Ncuti Gatwa. “Masters of the Air'' will premiere on Apple TV+ with two episodes on Friday, January 26th, followed by one new episode every Friday through March 15, 2024.
+
+Based on Donald L. Miller’s book of the same name, and scripted by John Orloff, “Masters of the Air” follows the men of the 100th Bomb Group (the “Bloody Hundredth”) as they conduct perilous bombing raids over Nazi Germany and grapple with the frigid conditions, lack of oxygen and sheer terror of combat conducted at 25,000 feet in the air. Portraying the psychological and emotional price paid by these young men as they helped destroy the horror of Hitler’s Third Reich, is at the heart of “Masters of the Air.” Some were shot down and captur
+
+## Could Maya Lopez Become a Member of the X-Men?
+ - [https://www.youtube.com/watch?v=GsN45wSc6Zk](https://www.youtube.com/watch?v=GsN45wSc6Zk)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T16:12:00+00:00
+
+In Marvel's Echo, Maya Lopez (Alaqua Cox) returns home after facing off with Kingpin (Vincent D'Onofrio) at the end of Hawkeye to reconnect with her family. In her fight to protect her family and take Kingpin down for good, Maya unlocks ancestral powers that draw on her ancestor's strengths and course through her. Examining the anticipation for mutants/X-Men to officially debut, Ms. Marvel/Kamala Khan's comics-to-live-action adaptation that led to her being labeled a mutant, Maya's own comics history, and even Echo's thematic clues, it seems like the MCU is laying down the groundwork to make Maya the future host of the Phoenix Force. Executive producers Brad Winderbaum and Richie Palmer shared their thoughts on the theory.
+
+## Nightingale: The Final Preview
+ - [https://www.youtube.com/watch?v=xCIpW6NjO3w](https://www.youtube.com/watch?v=xCIpW6NjO3w)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T15:00:53+00:00
+
+Watch our Nightingale preview for the upcoming PvE open-world survival crafting RPG set in an all-new fantasy universe. Nightingale isn’t necessarily the game you’d expect from seasoned ex-Bioware devs, but the years of experience behind its ideation is evident in what we saw in more than six hours of gameplay: a stylish take on a shared-world survival crafting game. Preview written by Casey DeFreitas.
+
+Nightingale will be released in PC Early Access on Steam and Epic Games Store on February 22, 2024.
+
+#IGN #Gaming
+
+## Arena Breakout - Official Season 3 Cinematic Launch Trailer
+ - [https://www.youtube.com/watch?v=SRfJTa-r-N8](https://www.youtube.com/watch?v=SRfJTa-r-N8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T14:00:31+00:00
+
+Arena Breakout is a free-to-play mobile tactical extraction first-person shooter developed by MoreFun Studios. Season 3 titled ‘Enter The Vault’ for Arena Breakout has been released bringing new weapons, a new map, and new bosses to engage with. Take a look at the cinematic launch trailer for Arena Breakout, available now for iOS and Android.
+
+#IGN #Gaming
+
+## Switch 2: How Handheld PCs are Becoming Nintendo's Next-Gen Competition - Next-Gen Console Watch
+ - [https://www.youtube.com/watch?v=en1K_t7lsko](https://www.youtube.com/watch?v=en1K_t7lsko)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T14:00:27+00:00
+
+Welcome back to Next-Gen Console Watch, our show following everything happening with the latest gaming hardware. This week Daemon Hatfield is joined by IGN’s Executive Editor of Tech, Bo Moore. And IGN Tech Reporter Taylor Lyles. Both of which were in attendance at CES last week.
+
+And this week we’re discussing the surprising circumstances of the growing handheld gaming PC industry. It started with the Steam Deck a couple years ago, and now there are several alternatives like the ASUS ROG Ally, the Lenovo Legion Go, Logitech G Cloud, and others. With the Switch 2 presumably coming at some point, do these new handheld gaming PC's represent a serious challenge to Nintendo?
+
+## The Last of Us Part 2 Remastered - All Lost Levels Walkthrough (with Commentary)
+ - [https://www.youtube.com/watch?v=OFQbzCzTVh8](https://www.youtube.com/watch?v=OFQbzCzTVh8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T04:47:48+00:00
+
+Neil Druckmann introduces us to the three Lost Levels, released with the new The Last of Us Part II Remastered on PS5. These levels are unfinished and unpolished, but they are still representative of how they would have played were they included in the original release. Each level includes developer commentary in the form of interactable speech bubbles, where a developer from the team explores the rationale behind the design of these levels. The three levels are called "Jackson Party", "Seattle Sewers" and "The Hunt".
+
+Timestamps:
+00:00 - Jackson Party
+11:22 - Seattle Sewers
+27:33 - The Hunt
+
+## Ted (2024) vs. Ted 2 (2015)… Some things never change. #ted #comparison #movie #tv
+ - [https://www.youtube.com/watch?v=HpMNUPJ4n1I](https://www.youtube.com/watch?v=HpMNUPJ4n1I)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T02:26:08+00:00
+
+
+
+## Outpost: Infinity Siege - Official Release Date Trailer
+ - [https://www.youtube.com/watch?v=7DP_x7LzM80](https://www.youtube.com/watch?v=7DP_x7LzM80)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T02:00:06+00:00
+
+Enjoy this lengthy new release date trailer for Outpost: Infinity Siege, an upcoming first-person shooter from Team Ranger that includes base-building and RPG elements. Oh, and piloting mechs, too. It will be released for PC on March 26, 2024.
+
+#IGN #Gaming #OutpostInfinitySiege
+
+## The Last of Us Part 2 Remastered - 9 Essential Tips for No Return
+ - [https://www.youtube.com/watch?v=u0HLOSe4DDY](https://www.youtube.com/watch?v=u0HLOSe4DDY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T01:30:24+00:00
+
+Naughty Dog has included a new Rogue-like mode in the release of The Last of Us Part II Remastered called No Return. Players are forced to adapt to dynamic and unique combat scenarios with a large roster of playable characters, making do with randomized weapons, modifiers and maps. We’ve braved Clickers, Seraphites and the WLF in order to give you these essential tips for No Return.
+
+Timestamps:
+00:00 - Intro
+00:43 - 1. Don't Hide, Adapt
+01:12 - 2. Play To Your Character's Strengths
+01:37 - 3. Prioritise Picking Up Materials
+02:04 - 4. How To Extend The Countdown Timer
+02:24 - 5. How Mods Affect No Return
+02:58 - 6. Use Negative Mods To Your Advantage
+03:24 - 7. Save Your Money in the Early Rounds
+03:43 - 8. Use Your Hideout To Prepare
+03:59 - 9. How To Customise No Return
+
+If you're feeling stuck, we have plenty of walkthroughs, tips and guides in our complete The Last of Us Part 2 Wiki!
+https://www.ign.com/wikis/the-last-of-us-part-ii
+
+## Scott Grimes is the only actor in Ted that is also in Oppenheimer. #scottgrimes #ted #americandad
+ - [https://www.youtube.com/watch?v=9VGz83wAGs4](https://www.youtube.com/watch?v=9VGz83wAGs4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T01:19:03+00:00
+
+
+
+## Madame Web - "Who Is Madame Web" Behind The Scenes Clip (2024) Dakota Johnson
+ - [https://www.youtube.com/watch?v=uZLU_7cedxM](https://www.youtube.com/watch?v=uZLU_7cedxM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T00:49:25+00:00
+
+"Meanwhile, in another universe…” In a switch from the typical genre, Madame Web tells the standalone origin story of one of Marvel publishing's most enigmatic heroines. The suspense-driven thriller stars Dakota Johnson as Cassandra Webb, a paramedic in Manhattan who may have clairvoyant abilities. Forced to confront revelations about her past, she forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.
+
+A world of change begins with her. Madame Web will hit theaters on February 14th.
+
+#ign #marvel
+
+## Street Fighter 6 - Official Ed Teaser Trailer
+ - [https://www.youtube.com/watch?v=QaF4MigAKpY](https://www.youtube.com/watch?v=QaF4MigAKpY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2024-01-19T00:30:15+00:00
+
+Ed takes the spotlight in this latest teaser trailer for Street Fighter 6. Check it out to meet the character. Ed, the psycho-powered bad boy of boxing (with a heart), is almost ready to show you he's the true high-def picture of strength. Owners of the Deluxe and Ultimate Edition or the Year 1 Character Pass and Ultimate Pass of Street Fighter 6 will obtain Ed when he releases in February 2024.
+
