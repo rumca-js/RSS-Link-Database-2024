@@ -1,0 +1,34 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed/, language:en-US
+
+## Company Makes A Chapstick That Tastes Like Ranch Dressing And Fans Lose Their Minds Over It
+ - [https://www.louderwithcrowder.com/burt-s-bees-ranch](https://www.louderwithcrowder.com/burt-s-bees-ranch)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-01-20T12:18:45+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51137173&amp;width=1245&amp;height=700&amp;coordinates=125%2C0%2C125%2C0" /><br /><br /><p>I can think of a million flavors for chapstick that would probably taste good. When it comes to cosmetics and skincare, the masses tend to lean towards sweet rather than savory. That is just how humans have adapted over time. But Burt’s Bees disagreed and broke massive barriers with this one. Subsequently, my faith in humanity has reached a whole new level of disappointment I could never have imagined. </p><p>Burt’s Bees released four new chapstick flavors. Those flavors were ranch, carrots, buffalo, and celery. Yes, we all see what they did there. And it is wrong. These are crimes against buffalo wings and it is unlikely they will be held accountable for these actions. </p><blockquote class="instagram-media">
+<div style="padding: 8px;">
+<div style="line-height: 0; margin-top: 40px; padding: 50% 0; text-align: center
+
+## Watch: Michigan Coach Jim Harbaugh Shares Strong Pro Family Message At The March For Life
+ - [https://www.louderwithcrowder.com/harbaugh-football-weather](https://www.louderwithcrowder.com/harbaugh-football-weather)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-01-20T12:15:26+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51137162&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C4" /><br /><br /><p>Friday was the perfect day for a pro-life March, according to Coach Jim Harbaugh. </p><p>This was not the first time Harbaugh proudly shared a pro-life message but it was the first year he attended March for Life. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/greg_price11/status/1748419808222445659"></a>
+</blockquote>
+<p><a href="https://www.dcnewsnow.com/news/michigan-coach-jim-harbaugh-attends-march-for-life-rally/" rel="noopener noreferrer" target="_blank">According to DC News Now: </a></p><blockquote>“Despite the snow and cold temperatures, thousands gathered on the National Mall in Washington, D.C. for the March for Life rally Friday, including Michigan football coach Jim Harbaugh.<br /><br />
+‘It’s a great day, this is football weather
+
+## Watch: WEF's Klaus Schwab Wants To Take Away Your Right To Vote... Because AI Is Better At Predictions Than Democracy
+ - [https://www.louderwithcrowder.com/schwab-ai-elections](https://www.louderwithcrowder.com/schwab-ai-elections)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-01-20T12:12:41+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51132528&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C173%2C0" /><br /><br /><p>Artificial Intelligence is believed to be at the behest of the programmers. And as it stands, AI is dangerously <a href="https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech" target="_blank">woke</a>. Klaus Schwab, who has an opinion on everything and was elected by no one, says that it is time we say goodbye to any form of Democracy that is left in the world because AI should make those decisions for us. </p><p>He even went as far as to claim that AI can predict the future. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/KingsleyCortes/status/1748012986084589672"></a>
+</blockquote>
+<p>What does any of that even mean? </p><p>"The next step could be to go into a prescriptive mode, which means you do not even have to have
+

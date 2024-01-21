@@ -1,0 +1,72 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Delta, B.C., firefighter killed in UBC parkade crash, officials confirm
+ - [https://www.cbc.ca/news/canada/british-columbia/delta-firefighter-dies-ubc-parkade-1.7090151?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/delta-firefighter-dies-ubc-parkade-1.7090151?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-20T16:27:07+00:00
+
+<img alt="Police officers stand in the snow  in front of a concrete parkade. The shot is fuzzy, but what looks like the shape of a vehicle can be seen sticking out of a hole in the concrete wall." height="349" src="https://i.cbc.ca/1.7086757.1705523978!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ubc-parkade-rescue.jpg" title="Vancouver Fire Rescue Services says numerous first responders are on the scene after a vehicle crashed through a concrete wall and nose-dived to the ground from the second-storey of a parking garage on the city&apos;s westside." width="620" /><p>Vancouver fire officials have confirmed that a Delta, B.C., firefighter was killed after his car crashed through the second storey of a parkade at the University of British Columbia on Wednesday.</p>
+
+## New York Islanders hire Patrick Roy as head coach
+ - [https://www.cbc.ca/sports/hockey/nhl/islanders-fire-lane-lambert-hire-patrick-roy-1.7090166?cmp=rss](https://www.cbc.ca/sports/hockey/nhl/islanders-fire-lane-lambert-hire-patrick-roy-1.7090166?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-20T16:25:49+00:00
+
+<img alt="A close up of a bearded man speaking into a microphone during a press conference." height="349" src="https://i.cbc.ca/1.7090176.1705785605!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/hko-remparts-roy-20230613.JPG" title="NHL legend Patrick Roy, pictured last June, coached the Colorado Avalanche for three seasons from 2013-16 before abruptly resigning a month before training camp." width="620" /><p>The New York Islanders fired coach Lane Lambert and replaced him with Hall of Fame goaltender Patrick Roy. President of hockey operations and general manager Lou Lamoriello announced the stunning move Saturday.</p>
+
+## Toronto police say 2 drivers in hospital, vehicle recovered after crashing into Lake Ontario
+ - [https://www.cbc.ca/news/canada/toronto/vehicle-underwater-lakeshore-cherry-1.7090033?cmp=rss](https://www.cbc.ca/news/canada/toronto/vehicle-underwater-lakeshore-cherry-1.7090033?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-20T10:40:24+00:00
+
+<img alt="First responders on the scene of a car crash near Lake Ontario." height="349" src="https://i.cbc.ca/1.7090192.1705786773!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lake-ontario-crash.jpg" title="Police said a vehicle crashed into the ice and went underwater after colliding with another vehicle in the area of Lakeshore Boulevard and Cherry Street at around 8:43 a.m." width="620" /><p>Toronto police say two people are in hospital, with one of them in life-threatening condition, after a collision Saturday morning resulted in a vehicle crashing into Lake Ontario.</p>
+
+## Skilled labourers in India eager for work in Israel despite ongoing conflict in Gaza
+ - [https://www.cbc.ca/news/world/india-labour-israel-1.7089290?cmp=rss](https://www.cbc.ca/news/world/india-labour-israel-1.7089290?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-20T08:00:00+00:00
+
+<img alt="Skilled workers in Indian are seen leaving a university building in Rohtak, India, after taking a skill-related test." height="349" src="https://i.cbc.ca/1.7089322.1705694582!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/skilled-workers-in-india-leave-a-building-after-taking-a-test-in-rohtak-india.JPG" title="Skilled workers leave a building after their skill test at a Haryana state government recruitment drive to send workers to Israel, at Maharshi Dayanand University in Rohtak, India, January 17, 2024. " width="620" /><p>Thousands of Indian labourers are hoping to land work in Israel as labourers, saying the wages they can earn there would be significantly higher their income prospects at home.</p>
+
+## Ukraine is looking for more than bland security 'assurances' in talks with Canada, expert says
+ - [https://www.cbc.ca/news/politics/ukraine-canada-security-assurances-russia-1.7089606?cmp=rss](https://www.cbc.ca/news/politics/ukraine-canada-security-assurances-russia-1.7089606?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-20T04:00:44+00:00
+
+<img alt="Prime Minister Justin Trudeau and Ukrainian President Volodymyr Zelenskyy shaking hands and taking selfies with supporters at a rally in Toronto." height="349" src="https://i.cbc.ca/1.6976470.1695436364!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/zelenskyy-visit-toronto-20230922.jpg" title="Prime Minister Justin Trudeau and Ukrainian President Volodymyr Zelenskyy greet supporters after a rally at the Fort York Armoury in Toronto on Friday, September 22, 2023." width="620" /><p>Canada gave Kyiv a draft of its proposed security assurances plan for Ukraine this past week — a major event in Ukrainian news media circles that passed without comment in Ottawa.</p>
+
+## Adults who don't know they have ADHD can struggle. Here's how a diagnosis can help
+ - [https://www.cbc.ca/radio/whitecoat/adults-undiagnosed-adhd-1.7087547?cmp=rss](https://www.cbc.ca/radio/whitecoat/adults-undiagnosed-adhd-1.7087547?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-20T04:00:00+00:00
+
+<img alt="A woman stands and smiles at the camera. She&apos;s in a school setting, standing in front of flowery wallpaper." height="349" src="https://i.cbc.ca/1.7087573.1705696584!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nikki-houde-2.jpg" title="Nikki Houde was diagnosed with ADHD in 2021, at the age of 41." width="620" /><p>Roughly four to six per cent of Canadian adults are diagnosed with ADHD, but thousands more are undiagnosed, experts say, because they don't match the stereotypical image of someone living with the condition.</p>
+
+## Foreign interference inquiry will be 'deeply uncomfortable' for Beijing, Canada's ambassador to China says
+ - [https://www.cbc.ca/news/politics/foreign-interference-inquiry-china-canada-1.7088853?cmp=rss](https://www.cbc.ca/news/politics/foreign-interference-inquiry-china-canada-1.7088853?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-20T04:00:00+00:00
+
+<img alt="A woman sits in a living room." height="349" src="https://i.cbc.ca/1.6880303.1687024723!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cda-indo-pacific-strategy-20220928.JPG" title="Jennifer May, Canada&apos;s Ambassador to China, is shown in Ottawa, on Wednesday, Sept. 28, 2022. THE CANADIAN PRESS/Justin Tang" width="620" /><p>Canada's ambassador to China says the coming inquiry into foreign interference in Canadian elections will be a difficult moment for Beijing, but Canada must move forward with a balance of co-operation and resilience in its relationship with China.</p>
+
+## How war in Ukraine has extended to Russian border region's doorstep
+ - [https://www.cbc.ca/news/world/belgorod-russia-ukraine-war-events-1.7088085?cmp=rss](https://www.cbc.ca/news/world/belgorod-russia-ukraine-war-events-1.7088085?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-20T04:00:00+00:00
+
+<img alt="People are seen waiting at a bus stop in Belgorod, Russia, in mid-January 2024." height="349" src="https://i.cbc.ca/1.7088088.1705612570!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/people-waiting-at-a-bus-stop-near-concrete-block-walls-in-belgorod-russia.jpg" title="People wait at a bus stop protected with concrete blocks following recent alleged Ukrainian shelling attacks in Belgorod, the main city of Russia&apos;s southwestern Belgorod region bordering Ukraine, on January 15, 2024." width="620" /><p>Analysts say Belgorod lies on a part of the map that is within Ukraine's reach and also where Russia has placed logistical and military elements that are worthy of disruption by Kyiv. Add that all up, and it becomes apparent why the bounds of the conflict have extended into this particular border region, no matter what motive Moscow attributes to Ukraine's publicly unacknowledged countermeasures.</p>
+
+## Mixing up the conversation around mocktails
+ - [https://www.cbc.ca/news/canada/ottawa/mixing-up-the-conversation-around-mocktails-1.7089668?cmp=rss](https://www.cbc.ca/news/canada/ottawa/mixing-up-the-conversation-around-mocktails-1.7089668?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-20T04:00:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/895/243/DSC00073.jpg" title="" width="620" /><p>Mixologist Aryn Pepper says ordering a mocktail doesn't have to carry stigma and non-alcoholic cocktails can stand on their own, rather than existing only as alternatives to alcoholic classics.</p>
+
+## Once touted as a COVID-19 'game changer,' Paxlovid is now a question mark for clinicians
+ - [https://www.cbc.ca/news/health/once-touted-as-a-covid-19-game-changer-paxlovid-is-now-a-question-mark-for-clinicians-1.7088078?cmp=rss](https://www.cbc.ca/news/health/once-touted-as-a-covid-19-game-changer-paxlovid-is-now-a-question-mark-for-clinicians-1.7088078?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-20T04:00:00+00:00
+
+<img alt="Staff members work at an ICU in an Alberta hospital during the COVID-19 pandemic." height="349" src="https://i.cbc.ca/1.6183711.1671136248!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/icu-alberta-covid.jpg" title="Staff members work at an ICU in an Alberta hospital during the COVID-19 pandemic." width="620" /><p>Early trials showed Paxlovid could be a 'game changer' to keep people out of hospital. Yet the COVID-19 landscape has changed since then, with most people now protected against serious illness thanks to vaccination or past infections. So who should get the Pfizer antiviral going forward?</p>
+
