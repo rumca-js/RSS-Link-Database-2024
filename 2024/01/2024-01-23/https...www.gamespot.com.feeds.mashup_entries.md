@@ -1,0 +1,282 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Diablo 4 Season 3: All Seasonal Journey Rewards And Objectives
+ - [https://www.gamespot.com/articles/diablo-4-season-3-all-seasonal-journey-rewards-and-objectives/1100-6520552/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/diablo-4-season-3-all-seasonal-journey-rewards-and-objectives/1100-6520552/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T23:20:00+00:00
+
+<p><a href="https://www.gamespot.com/games/diablo-iv/">Diablo 4</a> Season 3, Season of the Construct, has arrived, bringing fresh content to the dungeon crawler. Among the new content is the Seasonal Journey, which offers battle pass XP and other rewards for completing different milestones in the new season. While you will need to roll a new character to participate, the journey objectives are tailored to match the activities you do as you level up to 100 for the new season. Before you can move onto the next chapter of Seasonal Journey objectives, you will need to complete a certain number of objectives, which varies from chapter to chapter. Below you can find each chapter's objectives and rewards for Season 3 of Diablo 4.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">Chapter 1</a></li></ul></div><h2 dir="ltr" id="Chapter_1">Chapter 1</h2><figur
+
+## Oscars 2024: Where To Watch Every Academy Award-Nominated Movie
+ - [https://www.gamespot.com/gallery/oscars-2024-where-to-watch-every-academy-award-nominated-movie/2900-5048](https://www.gamespot.com/gallery/oscars-2024-where-to-watch-every-academy-award-nominated-movie/2900-5048)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T22:11:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1562/15626911/4250061-0.png" /><br /><h3><p dir="ltr">The 96th Academy Awards are coming up quickly. Taking place on March 10, this year's event will honor tremendous achievements in filmmaking over the past year. While many people are figuring out who are the favorites to win in each category, others are like, "I am not familiar with a whole lot of these Oscar-nominated films."</p><p dir="ltr">Don't worry, as there are plenty of these movies we weren't aware of as well--what are Oppenheimer and Barbie, anyway? However, in 2024, there's a plethora of ways to watch the vast majority of these movies. That's right: You can sit back on the couch and watch almost every nominated movie right this second.</p><p dir="ltr">But where can you watch them, which ones will you have to pay for, and which ones are on various streaming services? Don't worry, as we have all the info you need. Below, you'll find every feature-length, O
+
+## Reality Vs. The Silver Screen: How Actors Compare To Their Real-Life Counterparts
+ - [https://www.gamespot.com/gallery/reality-vs-the-silver-screen-how-actors-compare-to-their-real-life-counterparts/2900-5047](https://www.gamespot.com/gallery/reality-vs-the-silver-screen-how-actors-compare-to-their-real-life-counterparts/2900-5047)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T21:43:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1757/17577455/4249962-copenheimer.jpg" /><br /><h3><p>The biography, or biopic, is an evergreen film genre--Hollywood never gets tired of based-on-a-true-story movies about famous people, and neither do audiences, apparently. Two of these sorts of movies--Christopher Nolan's Oppenheimer and Bradley Cooper's Maestro--dominated the <a href="https://www.gamespot.com/articles/2024-oscar-nominations-revealed-oppenheimer-and-barbie-clean-up/1100-6520529/">2024 Oscar nominations</a>, with Oppenheimer earning the most nods of any film this year.</p><p dir="ltr">Casting an actor to play a real, famous person can often be a pretty tall task. We love to get hung up on the look of the person, often at the expense of the substance, which is unfortunate because very often the right person for the job doesn't necessarily <em>look</em> right for the part at first glance. On the other hand, sometimes you have somebody like Austin But
+
+## Diablo 4 Season 3 Battle Pass Rewards: All Cosmetics, Titles, And Emotes
+ - [https://www.gamespot.com/gallery/diablo-4-season-3-battle-pass-rewards-all-cosmetics-titles-and-emotes/2900-5049](https://www.gamespot.com/gallery/diablo-4-season-3-battle-pass-rewards-all-cosmetics-titles-and-emotes/2900-5049)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T20:56:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1599/15997278/4250215-d4s3bpthumb.jpeg" /><br /><h3><p><a href="https://www.gamespot.com/games/diablo-iv/">Diablo 4</a> Season 3, Season of the Construct, brings a brand-new season filled with limited-time content, including a newbattle pass, which offers 90 tiers of rewards, like the new Awoken Adamant Armor set and the Awoken Spheral Barding Mount Armor. There is also a ton of new weapon cosmetics, town portal skins, and emotes for all five classes in Diablo 4. The battle pass costs 1,000 Platinum (roughly $10 USD) for the premium version. There is also an accelerated version for 2,800 Platinum (about $28 USD), which comes with the first 20 tiers of the pass already unlocked and an exclusive cosmetic.</p><p dir="ltr">Season of the Construct features the Loom, an ancient technology built by Zoltun Kulle, which has been taken over by the Demon Malphas. This season features dangerous vaults, filled with traps. New fea
+
+## CoD: Modern Warfare 3 And Warzone Season 2 Release Date And Details
+ - [https://www.gamespot.com/articles/cod-modern-warfare-3-and-warzone-season-2-release-date-and-details/1100-6520550/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-modern-warfare-3-and-warzone-season-2-release-date-and-details/1100-6520550/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T20:09:00+00:00
+
+<p dir="ltr">Season 1 is winding down for Call of Duty, meaning a brand-new season of content is expected for <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a> and <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Modern Warfare 3</a>. Here's all the rumors and details we know so far about Season 2 for multiplayer, Zombies, and battle royale.</p><h2 dir="ltr">Call of Duty Season 2 start times</h2><p dir="ltr">Based on the amount of days left in the Season 1 battle pass, Season 2 of Modern Warfare 3 and Warzone will likely arrive on Wednesday, February 7. These updates usually go live at 9 AM PT / 12 PM ET / 5 PM BST across all platforms.</p><h2 dir="ltr">What to expect from Season 2</h2><p dir="ltr">Season 2 of Modern Warfare 3 and Warzone will include a new battle pass to level up and unlock more weapons and cosmetics. Seasonal passes usually contain at least one operator and two DLC weapons.</p><a href="https://www.gamespot.c
+
+## CoD: Warzone And MW3 Season 1 Reloaded Patch Notes Include Big Changes For Aftermarket Parts
+ - [https://www.gamespot.com/articles/cod-warzone-and-mw3-season-1-reloaded-patch-notes-include-big-changes-for-aftermarket-parts/1100-6520547/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-warzone-and-mw3-season-1-reloaded-patch-notes-include-big-changes-for-aftermarket-parts/1100-6520547/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T18:32:00+00:00
+
+<p dir="ltr">A new update arrived to both <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty: Modern Warfare 3</a> and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a> on January 23. The update makes changes to aftermarket parts, gives players a new way to purchase bundles, and adjusts the limited-time Supe'd Up multiplayer mode. Here's everything you need to know.</p><p dir="ltr">For multiplayer, Season 1 Reloaded's new Supe'd Up LTM has a major change that allows players to now earn Temp V abilities more than once per life. The update also adjusts the columns displayed on the in-match scoreboard. It will now show: Kills, Confirms, Denies.</p><p dir="ltr">Some of Modern Warfare 3's new aftermarket parts received balancing. The developer explains this update was made because part of the goal for aftermarket parts is to have conversion kits that offer players "fun and unexpected experiences" with familiar weapons.</
+
+## Call Of Duty's New Anti-Toxicity Voice Detection Is Working, 2 Million Accounts Already Investigated
+ - [https://www.gamespot.com/articles/call-of-dutys-new-anti-toxicity-voice-detection-is-working-2-million-accounts-already-investigated/1100-6520546/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/call-of-dutys-new-anti-toxicity-voice-detection-is-working-2-million-accounts-already-investigated/1100-6520546/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T18:16:00+00:00
+
+<p>For the launch of Modern Warfare III, Activision released a new anti-toxicity voice moderation program that could automatically detect toxic speech and take action. Activision <a href="https://www.callofduty.com/blog/2024/01/call-of-duty-ricochet-modern-warfare-iii-warzone-anti-cheat-progress-report">now says</a> this program has been very successful so far, leading to more than 2 million accounts having action taken against them for "disruptive" voice chat.</p><p>The program rolled out originally in North America in English only, but it has since expanded everywhere in the world (except Asia) and has added support for Spanish and Portuguese moderation. This voice moderation is also up and running for Modern Warfare II and Warzone.</p><p>Activision also shared some findings from the voice moderation program so far. The company said only one in five users reported toxic speech when its own systems detected it, which Activision said was "unfortunate." Activision can take act
+
+## Fortnite Adds Even More Skins From Metal Gear Solid, TMNT, And Family Guy
+ - [https://www.gamespot.com/articles/fortnite-adds-even-more-skins-from-metal-gear-solid-tmnt-and-family-guy/1100-6520545/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fortnite-adds-even-more-skins-from-metal-gear-solid-tmnt-and-family-guy/1100-6520545/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T17:59:00+00:00
+
+<p dir="ltr"><a href="https://www.gamespot.com/gallery/fortnite-battle-pass-chapter-5-season-1-all-skins-emotes-and-rewards/2900-4969/">Fortnite Chapter 5 Season 1</a> is in full swing, but ever since it began back in December, there's one skin we haven't been able to try out yet: Solid Snake, the hero of Metal Gear Solid, was shown in the debut trailer and has teased us on the landing page ever since. Today, Fortnite finally gets a taste of tactical espionage action, but as it turns out, Snake isn't coming alone. Not only is a friend from MGS joining the fun, but two other collaborations are about to get major expansions.</p><p dir="ltr">First, Snake's partner-in-stealth--Metal Gear Solid 2's Raiden--will be hitting the Item Shop soon, after he was featured in a teaser video for Snake's arrival. According to prominent Fortnite leaker <a href="https://twitter.com/ifiremonkey/status/1749723142791061919">iFireMonkey</a>, the Raiden skin will come with an alternate masked style,
+
+## Where To Get A Cardboard Box In Fortnite For Metal Gear Solid Quest
+ - [https://www.gamespot.com/articles/where-to-get-a-cardboard-box-in-fortnite-for-metal-gear-solid-quest/1100-6520548/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/where-to-get-a-cardboard-box-in-fortnite-for-metal-gear-solid-quest/1100-6520548/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T17:57:00+00:00
+
+<p>In the latest <a href="https://www.gamespot.com/games/fortnite/">Fortnite</a> update, battle pass owners can unlock Metal Gear Solid's hero, Solid Snake, as well as a host of other items tied to the series and its main character. But one of them, to hide in a cardboard box for 10 seconds, requires you find the new Mythic-tier cardboard box item--a nod to the stealth-action series from Konami, of course. Here's where to find a coardboad box in Fortnite.</p><h2>Fortnite cardboard box location</h2><p>The most unlikely of all <a href="https://www.gamespot.com/gallery/everything-new-in-fortnite-chapter-5-season-1/2900-4968/">Mythic items in Fortnite</a>, the simple-looking cardboard box, can be found randomly in any given round via chests all across the island. But if you're like me, you'll want something more reliable to get your challenge completed quickly.</p><figure style="width: 864px;"><a href="https://www.gamespot.com/a/uploads/original/1632/16320660/4249986-fortnite1_23
+
+## Death Stranding iOS Release Date Announced, 50% Off If You Preorder
+ - [https://www.gamespot.com/articles/death-stranding-ios-release-date-announced-50-off-if-you-preorder/1100-6520541/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/death-stranding-ios-release-date-announced-50-off-if-you-preorder/1100-6520541/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T17:19:00+00:00
+
+<p>With the iPhone 15 Pro line, Apple is making a concerted effort to expand into gaming. If you happen to be an owner of that phone--or the bigger Pro Max version--and you're looking to justify your purchase with a AAA game to push the high-tech internal hardware, you can save 50% on a preorder for Death Stranding ahead of its release on January 31. The regular price on this weird post-apocalyptic postal game is $40, but its preorder price is $20.</p><div class="norewrite" title="">           <a href="https://howl.me/cltYoQMK2qt">Get preorder deal</a> </div><p>If you never played it on PlayStation or PC, <a href="https://www.gamespot.com/reviews/death-stranding-directors-cut-review-the-limits-of-the-dead/1900-6417746/">Death Stranding is a strangely meditative game</a> set in a world where humanity is on the verge of being wiped out. A mysterious extinction event almost destroyed humanity, and as Sam Porter, it's up to you to travel the land and form new connections while av
+
+## Immortality Dev Teases New Survival-Horror And Cinematic Projects
+ - [https://www.gamespot.com/articles/immortality-dev-teases-new-survival-horror-and-cinematic-projects/1100-6520544/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/immortality-dev-teases-new-survival-horror-and-cinematic-projects/1100-6520544/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T17:18:00+00:00
+
+<p>Half Mermaid, the developer behind 2022's <a href="https://www.gamespot.com/games/immortality/">Immortality</a>, is teasing two upcoming projects on the Steam store. <a href="https://store.steampowered.com/app/2640200/Project_D/">Project D</a> seems to be a survival-horror game set in 1983, while <a href="https://store.steampowered.com/app/2771630/Project_C/">Project C</a> is set to be a cinematic experience. Neither project has a release window as of the time of publication.</p><p>The descriptions of both games are heavily redacted. Project D, which might stand for Doors as per <a href="https://x.com/Wario64/status/1749842887465160881?s=20">Steam's database registry</a>, is "a survival-horror" with the keywords 1983, nurse, be careful, and nightmare. There's also mention of "something bad," "some doors," and "home?" elsewhere on the page. Imagery involves eyes, a red backdrop with the word "America" in it, and of course, doors.</p><p>Project C is even more ominous. The fi
+
+## Peanut Butter Pup: How AGDQ's Top (Actual) Dog Became An Expert Gamer
+ - [https://www.gamespot.com/articles/peanut-butter-pup-how-agdqs-top-actual-dog-became-an-expert-gamer/1100-6520543/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/peanut-butter-pup-how-agdqs-top-actual-dog-became-an-expert-gamer/1100-6520543/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T17:15:00+00:00
+
+<p>If you watched only one run from 2024's Awesome Games Done Quick event, it was almost certainly Peanut Butter the dog playing Gyromite--putting ROB to shame with his flawless navigation in the pursuit of victory and cheese. Training a dog to do anything isn't easy, and training a Shiba Inu to do anything is even more of a challenge, but streamer and longtime speedrunner JSR_ knew that his furry friend was up to the challenge. He was so sure of it, in fact, that the two spent nine months training in preparation for the challenge, and JSR_ sat down with GameSpot at AGDQ in Pittsburgh to talk about the experience.</p><p dir="ltr">JSR_ recognized Peanut Butter's intelligence and aptitude for training right away, using positivity (pawsitivity?) training to teach him typical dog tricks early on. He wanted to get him involved in other challenges, but rather than enroll him in agility competitions, JSR_ opted to combine Peanut Butter's love of training with his own project: a ques
+
+## The Hobbit Graphic Novel Releases In February, Preorders Live Now
+ - [https://www.gamespot.com/articles/the-hobbit-graphic-novel-releases-in-february-preorders-live-now/1100-6520542/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-hobbit-graphic-novel-releases-in-february-preorders-live-now/1100-6520542/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T17:01:00+00:00
+
+<p>The Hobbit is one of the most beloved fantasy novels ever, and now, nearly 90 years later, it's getting new life as a graphic novel. <a href="https://www.amazon.com/Hobbit-Graphic-J-R-Tolkien/dp/0063388464?tag=gamespot-preorderguides-20">The Hobbit: A Graphic Novel</a> is a bold reimagining of the iconic journey, and it's now available for preorder ahead of its <strong>February 27</strong> launch.</p><div class="norewrite" title="6520542 - The Hobbit: A Graphic Novel Preorders">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                    <a href="https://www.amazon.com/Hobbit-Graphic-J-R-Tolkien/dp/0063388464?tag=gamespot-preorderguides-20">The Hobbit: A Graphic Novel</a>       </h2>                                   <h3 class="item-deck">                      <a href="https://www.amazon.com/Hobbit-Graphic-J-R-Tolkie
+
+## Like A Dragon: Infinite Wealth - All Ounabara Vocational School Quiz Answers
+ - [https://www.gamespot.com/articles/like-a-dragon-infinite-wealth-all-ounabara-vocational-school-quiz-answers/1100-6520519/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/like-a-dragon-infinite-wealth-all-ounabara-vocational-school-quiz-answers/1100-6520519/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T16:42:00+00:00
+
+<p>In <a href="https://www.gamespot.com/games/like-a-dragon-infinite-wealth/">Like A Dragon: Infinite Wealth</a>, your social stats can be pretty important. One of the best ways to increase your stats is the Ounabara Vocational School. At the Ounabara Vocational School you can take quizzes, which will improve your social stats if you pass. The topics range widely, from sports to nature and history. The school is located in the southwestern part of Honolulu, right off of Harbor St.</p><p dir="ltr">Each quiz has a pool of 10 questions, five of which will be randomly given to you for the exam. You have 30 seconds to answer the question, although pulling up your console's dashboard will pause the timer, at least on Xbox. The order of the answers is not consistent from quiz to quiz. For answers that are pictures, the correct image has been described, and in some cases, is shown in the image for that quiz. <strong>To pass a quiz, you need to get three out of five questions correct,
+
+## How To Make Money Fast In Like A Dragon: Infinite Wealth
+ - [https://www.gamespot.com/articles/how-to-make-money-fast-in-like-a-dragon-infinite-wealth/1100-6520517/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-make-money-fast-in-like-a-dragon-infinite-wealth/1100-6520517/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T16:41:00+00:00
+
+<p>Despite the title, in the early chapters of <a href="https://www.gamespot.com/games/like-a-dragon-infinite-wealth/">Like A Dragon: Infinite Wealth</a> Ichiban Kasuga and his crew will be strapped for cash. While there are plenty of options for making money early on, the majority of these don't pay out a ton, but there are a few efficient ways to grind for cash and a few ways to save yourself some money. Here are the best ways to make money in Like A Dragon: Infinite Wealth.</p><h2 dir="ltr">Collect everything</h2><p dir="ltr">There are items to be collected everywhere in Like A Dragon: Infinite Wealth. While some of the items you find, like plates, are worth a decent amount of money at the local pawn shop, the biggest boon here is collecting crafting resources, health items, and even weapons. Collecting these items in the open world, especially health items and weapons, means you don't need to spend money on buying these things. Items can be found in shiny spots and metal 
+
+## Like A Dragon: Infinite Wealth Tips For Beginners
+ - [https://www.gamespot.com/gallery/like-a-dragon-infinite-wealth-tips-for-beginners/2900-5044](https://www.gamespot.com/gallery/like-a-dragon-infinite-wealth-tips-for-beginners/2900-5044)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T16:41:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1599/15997278/4249611-ladthumblarge.jpeg" /><br /><h3><p><a href="https://www.gamespot.com/games/like-a-dragon-infinite-wealth/">Like A Dragon: Infinite Wealth</a> might be Ichiban Kasuga's second adventure, but if this is your first time with the Yakuza/Like A Dragon franchise, there are a ton of things you should know before starting. From knowing what to look for in the environment, how to excel in turn-based combat, or even the best ways to bond with your party, there are plenty of small things that can vastly improve your experience. Here are 10 tips to help you get started in Like A Dragon: Infinite Wealth.</p></h3></p><br />     <p><h2>I'm the trash man</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1599/15997278/4249612-trashlarge.jpeg" /><br /><h3><p>While Ichiban might have a wealth of powerful allies at his side, he doesn't have a wealth of resources. Luckily, Hawaii is covered in resources a
+
+## Netflix Drops Trailer For Live-Action Avatar: The Last Airbender Series
+ - [https://www.gamespot.com/articles/netflix-drops-trailer-for-live-action-avatar-the-last-airbender-series/1100-6520540/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/netflix-drops-trailer-for-live-action-avatar-the-last-airbender-series/1100-6520540/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T16:34:00+00:00
+
+<p dir="ltr">Netflix has released a new trailer for its live-action series adaptation of Avatar: The Last Airbender, based on the 2005 animated series. The project received a straight-to-series order from Netflix in 2018, with the premiere of the initial eight-episode season scheduled for February 22.</p><p dir="ltr">The series tracks Aang, the young Avatar, on his journey to master the four elements and bring balance to a world endangered by the Fire Nation. An official show synopsis further sets the stage: "Water. Earth. Fire. Air. The four nations once lived in harmony, with the Avatar, master of all four elements, keeping peace between them. But everything changed when the Fire Nation attacked and wiped out the Air Nomads..." In the trailer, Gordon Cormier, portraying Aang, declares, "I'm the Avatar, and I'm going to save the world--with my friends." Check it out below.</p><div>          </div><p dir="ltr">The cast includes Daniel Dae Kim as Fire Lord Ozai, Paul Sun-Hyung
+
+## PSN's Most Popular Games In 2023 Included Wizards, Soccer, And Batman
+ - [https://www.gamespot.com/articles/psns-most-popular-games-in-2023-included-wizards-soccer-and-batman/1100-6520538/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/psns-most-popular-games-in-2023-included-wizards-soccer-and-batman/1100-6520538/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T16:33:00+00:00
+
+<p>The PlayStation Network was busy last year, as 2023 saw dozens of high-profile releases on that platform. But which games were the most-downloaded on PS5 and PS4? <a href="https://blog.playstation.com/2024/01/23/playstation-stores-top-downloads-of-2023/">Sony has revealed</a> the top PlayStation Store downloads across all of 2023, and while the number one game on that list won't be too surprising, there are some unexpected entries on the list.</p><p>In the US and Canada, Hogwarts Legacy was the most-downloaded game of the year on PS5, and came in second place on PS4 to Call of Duty: Modern Warfare III. The impact of the Harry Potter game was massive, as thanks to the strength of the brand and it having a long headstart with its February 2023 release, <a href="https://www.gamespot.com/articles/something-we-havent-seen-in-15-years-of-us-video-game-sales-just-happened/1100-6519940/">it broke a longstanding record</a> of the No. 1 best-selling title of the year in the US being
+
+## Palworld Is About 60% Finished, Dev Considering PvP
+ - [https://www.gamespot.com/articles/palworld-is-about-60-finished-dev-considering-pvp/1100-6520539/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/palworld-is-about-60-finished-dev-considering-pvp/1100-6520539/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T16:27:00+00:00
+
+<p>Palworld launched on January 19 in early access, and the developer's CEO estimates the game is about 60% feature-complete. Pocketpair CEO Takuro Mizobe told <a href="https://automaton-media.com/en/interviews/20240123-25950/">Automaton</a> that "all the basic functions" are in place for Palworld. Looking ahead, Pocketpair will look to further refine the game and introduce new functionality, including potentially PvP.</p><p>"PvP is really difficult. First of all, we need to think about why we are introducing PvP to Palworld. To begin with, there are many other games that offer a fun PvP experience, so we need to make sure that there is a reason for Palworld players to play PvP," Mizobe said. "Of course, using Pals you caught in battle is one unique point, but only games that give players a good reason to play can survive in the long term. In this sense, I think it's a very harsh territory."</p><p>Mizobe said Pocketpair is "not very optimistic" about adding PvP to Palworld, a
+
+## The Most-Anticipated Nintendo Switch Games Of 2024 And Beyond
+ - [https://www.gamespot.com/gallery/the-most-anticipated-nintendo-switch-games-of-2024-and-beyond/2900-5045](https://www.gamespot.com/gallery/the-most-anticipated-nintendo-switch-games-of-2024-and-beyond/2900-5045)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T16:25:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1585/15855271/4249785-switchgames2024%281%29.jpg" /><br /><h3><p dir="ltr">Following up on one of the <a href="https://www.gamespot.com/articles/2023-has-been-front-loaded-with-amazing-games/1100-6514739/">best gaming years in recent memory</a> is no easy task, but the Nintendo Switch appears to have another strong year ahead. Nintendo's first-party line-up is still largely mysterious, aside from a few games like Mario vs Donkey Kong, Princess Peach: Showtime, and a remake of Paper Mario: The Thousand-Year Door. Surely the company has plenty more to announce that it will be detailing as the year goes on.</p><p dir="ltr">In the meantime, third parties are picking up the slack. We already have announced release dates for huge RPGs like Eiyuden Chronicle: Hundred Heroes and Unicorn Overlord, remasters like the Tomb Raider Trilogy, and charming new games like The Plucky Squire. We also expect to get release dates for pro
+
+## Limited-Edition Neo Geo Pocket Steelbook Bundle For Switch Is Exclusive To Amazon
+ - [https://www.gamespot.com/articles/limited-edition-neo-geo-pocket-steelbook-bundle-for-switch-is-exclusive-to-amazon/1100-6520537/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/limited-edition-neo-geo-pocket-steelbook-bundle-for-switch-is-exclusive-to-amazon/1100-6520537/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T16:17:00+00:00
+
+<div><div class="norewrite" title="6520537 - Neo Geo Pocket Color V2 Steelbook">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4249948-neo-geo-2.jpg" />                                 <a href="https://www.amazon.com/dp/B0CSZCPB1T?tag=gamespot-preorderguides-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/dp/B0CSZCPB1T?tag=gamespot-preorderguides-20">Neo Geo Pocket Color Selection Vol. 2 Steelbook Bundle</a>   
+
+## Palworld: YouTuber Behind Pokemon Mod Claims "Nintendo Has Come For Me"
+ - [https://www.gamespot.com/articles/palworld-youtuber-behind-pokemon-mod-claims-nintendo-has-come-for-me/1100-6520536/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/palworld-youtuber-behind-pokemon-mod-claims-nintendo-has-come-for-me/1100-6520536/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T15:55:00+00:00
+
+<p dir="ltr">If you mess around, you're gonna find out when it comes to modding Nintendo characters into popular games--especially one in Palworld, which already has heavy Pokemon inspirations. YouTuber ToastedShoes apparently found this out <a href="https://twitter.com/ToastedShoes/status/1749711480050827433?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1749711480050827433|twgr^9e9d17381f08da292e492f0fb7d43dece2591ff5|twcon^s1_&amp;ref_url=https://www.ign.com/articles/modder-who-put-pokmon-into-palword-says-nintendo-has-come-for-me">on X (formerly known as Twitter)</a>.</p><p dir="ltr">Spotted by <a href="https://www.ign.com/articles/modder-who-put-pokmon-into-palword-says-nintendo-has-come-for-me">IGN</a>, ToastedShoes posted on the social media site that "Nintendo has come for me" while screenshotting that <a href="https://www.gamespot.com/articles/palworld-misty-has-a-gun-in-this-pokemon-mod/1100-6520507/">his Pokemon mod teaser video--in which Misty has a gun--for Palworld<
+
+## Cyberpunk 2077 Sequel Could Add Multiplayer In Some Form
+ - [https://www.gamespot.com/articles/cyberpunk-2077-sequel-could-add-multiplayer-in-some-form/1100-6520535/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cyberpunk-2077-sequel-could-add-multiplayer-in-some-form/1100-6520535/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T15:45:00+00:00
+
+<p>The Cyberpunk 2077 sequel could include a multiplayer element. CD Projekt joint CEO Adam Badowski told <a href="https://www.reuters.com/technology/cd-projekt-aims-start-production-phase-polaris-2024-2024-01-22/">Reuters</a> that the Polish studio is considering putting multiplayer elements in the sequel, though nothing has been decided yet and the game remains in the conceptual phase.</p><p>It's natural and expected that, at this early stages of development, a developer would be exploring possibilities before production begins in earnest.</p><p>Badowski did not share any further information about possibilities for multiplayer in the Cyberpunk sequel. It's possible it could be in the form of co-op, PvP, or some other form of multiplayer.</p><a href="https://www.gamespot.com/articles/cyberpunk-2077-sequel-could-add-multiplayer-in-some-form/1100-6520535/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Nintendo Launching Limited-Edition Pastel Pink Joy-Con Alongside Princess Peach: Showtime
+ - [https://www.gamespot.com/articles/nintendo-launching-limited-edition-pastel-pink-joy-con-alongside-princess-peach-showtime/1100-6520534/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nintendo-launching-limited-edition-pastel-pink-joy-con-alongside-princess-peach-showtime/1100-6520534/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T15:41:00+00:00
+
+<p>Nintendo released a <a href="https://www.youtube.com/watch?v=kGJIpCAkc-0">new trailer</a> for Princess Peach: Showtime, giving fans a closer look at all the roles they'll be playing on stage, including Ninja Peach, Cowgirl Peach, and Swordfighter Peach. Along with the trailer, Nintendo announced that a set of new pastel pink Jon-Con controllers are launching with the game on March 22. This is the third pastel Jon-Con release--and they're bound to be popular when they arrive later this winter.</p><div class="norewrite" title="6520534 - Pastel Pink Joy-Con Preorders">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                    <a href="https://twitter.com/NintendoAmerica/status/1749796140545909112?s=20">Pastel Pink Jon-Con</a>       </h2>                                   <h3 class="item-deck">                      <a 
+
+## We Might Already Know Death Stranding 2's Official Title
+ - [https://www.gamespot.com/articles/we-might-already-know-death-stranding-2s-official-title/1100-6520533/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/we-might-already-know-death-stranding-2s-official-title/1100-6520533/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T15:21:00+00:00
+
+<p>We might already know the official title for Hideo Kojima's upcoming game, Death Stranding 2. Additionally, it could be revealed in the upcoming weeks.</p><p>The website <a href="https://www.dealabs.com/magazine/ds2-death-stranding-2-voici-le-veritable-titre-du-successeur-de-death-stranding-39537">Dealabs</a> claimed that the official title for the game is Death Stranding 2: On The Beach. This indicates that the game may take place mostly at sea as opposed to the land-trekking affair of the first. When <a href="https://www.gamespot.com/articles/death-stranding-2-story-theories-and-everything-we-know/1100-6516214/">Death Stranding 2</a> was first revealed, the trailer showed main characters Sam Porter Bridges and Fragile in a giant ship at sea.</p><p>Dealabs also reported that another announcement about the game is coming soon. While the site wasn't able to lock down exactly when it'll happen, it claimed that it will occur within the next 15 days. GiantBomb's <a href="https
+
+## Like A Dragon: Infinite Wealth GameSpot Video Review
+ - [https://www.gamespot.com/videos/like-a-dragon-infinite-wealth-gamespot-video-review/2300-6463246](https://www.gamespot.com/videos/like-a-dragon-infinite-wealth-gamespot-video-review/2300-6463246)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T15:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4249813-review_ladinfinitewealth_v1_site.jpg" width="480" /> Infinite Wealth takes one step forward and two steps back and undermines the series' storytelling strengths, but its incredible character moments and standout RPG systems shine.
+
+## Like A Dragon: Infinite Wealth Review - The Things Money Can't Buy
+ - [https://www.gamespot.com/reviews/like-a-dragon-infinite-wealth-review-the-things-money-cant-buy/1900-6418170/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/like-a-dragon-infinite-wealth-review-the-things-money-cant-buy/1900-6418170/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T15:00:00+00:00
+
+<p dir="ltr">On paper, <a href="https://www.gamespot.com/games/like-a-dragon-infinite-wealth/">Like A Dragon: Infinite Wealth</a> has everything I could possibly ask for in a game from RGG Studio: Kasuga Ichiban from the 2020 RPG <a href="https://www.gamespot.com/games/yakuza-like-a-dragon/">Yakuza: Like A Dragon</a> co-leading with series legend Kazuma Kiryu--two characters I love dearly fighting alongside one of the most memorable supporting casts in recent years. It's the best of both Yakuza worlds coming together for a story about life, legacy, and the daunting realities of the world we live in--but, more than anything, atonement and the various forms it can take. It also comes with greatly improved RPG systems that nail the tactical joy of turn-based combat while upholding Yakuza's identity in remarkable ways. And in splitting its time in Hawaii with Yokohama, you get two robust and detailed locations to explore new and old ideas through the biggest suite of side activit
+
+## A Batman Game Was Canceled Due To Leaks, Voice Actor Says
+ - [https://www.gamespot.com/articles/a-batman-game-was-canceled-due-to-leaks-voice-actor-says/1100-6520530/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-batman-game-was-canceled-due-to-leaks-voice-actor-says/1100-6520530/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T14:51:00+00:00
+
+<p>A voice actor who claims to have worked on a canceled Batman game has said Warner Bros. scuttled the project due to leaks. Josh Keaton said on a recent Twitch livestream that he was going to play Damian Wayne in an upcoming game from <a href="https://www.gamespot.com/articles/new-batman-game-coming-from-arkham-origins-dev-as-/1100-6446372/">WB Games Montreal</a> that we first learned about in 2016. Keaton said he did a few voice sessions for this game, but after the leaks, the higher-ups reportedly pulled the plug.</p><p>"They leaked everything, the whole plotline, not only the enemies and villains and the rogues gallery, but also the concept art for them. They were doing such a different take on so many of the rogues gallery it gave away everything that was different about the game. So, it kinda sucked," he said (<a href="https://www.ign.com/articles/damien-wayne-batman-game-canceled-following-leaks-voice-actor-says">via IGN</a>). "The leaks killed the project. The leaks 
+
+## 2024 Oscar Nominations Revealed, Oppenheimer And Barbie Clean Up
+ - [https://www.gamespot.com/articles/2024-oscar-nominations-revealed-oppenheimer-and-barbie-clean-up/1100-6520529/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/2024-oscar-nominations-revealed-oppenheimer-and-barbie-clean-up/1100-6520529/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T14:45:00+00:00
+
+<p dir="ltr">Barbenheimer might have started as a joke, but now it's an Oscar force to be reckoned with. That's because Barbie and Oppenheimer have received 21 Academy Award nominations combined, with the former pulling 8 and the latter leading the way overall with 13.</p><p dir="ltr">Oppenheimer has a chance to clean up most of the major categories at the Oscars. For instance, the biopic was nominated for Best Picture, Best Actor (Cillian Murphy), Best Supporting Actor (Robert Downey Jr.), Best Supporting Actress (Emily Blunt), and Best Director (Christopher Nolan).</p><div>          </div><p dir="ltr">Barbie also got a Best Picture nod, though Greta Gerwig wasn't nominated for Best Director. Margot Robbie also isn't up for Best Actress. That said, Ryan Gosling will compete for a Best Supporting Actor award, and America Ferrera will do the same for Best Supporting Actress.</p><a href="https://www.gamespot.com/articles/2024-oscar-nominations-revealed-oppenheimer-and-barbie-cl
+
+## Nier Reincarnation Is Shutting Down, But More Content Is Coming First
+ - [https://www.gamespot.com/articles/nier-reincarnation-is-shutting-down-but-more-content-is-coming-first/1100-6520531/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nier-reincarnation-is-shutting-down-but-more-content-is-coming-first/1100-6520531/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T14:45:00+00:00
+
+<p>Square Enix has announced that Nier Reincarnation's final chapter will be released on March 28 and the game will shut down on April 29.</p><p>"We regret to inform you that NieR Re[in]carnation will be ending service with the conclusion of The People and the World," Square Enix said in a <a href="https://nierreincarnation.com/news/story_completion_countdown_en/">statement</a>. However, more content, characters, events, and campaigns will be released until the game fully comes to an end.</p><figure style="width: 768px;"><a href="https://www.gamespot.com/a/uploads/original/1646/16465123/4249817-9404162224-intro.jpg"><img alt="Final roadmap for Nier Reincarnation" src="https://www.gamespot.com/a/uploads/original/1646/16465123/4249817-9404162224-intro.jpg" /></a><figcaption>Final roadmap for Nier Reincarnation</figcaption></figure><p>The Premium Shop has been discontinued, along the ability to purchase items with real-world currency. As such, Square Enix will adjust reward and 
+
+## AyaNeo's New Mini PC Looks Like A High-Tech NES, Ships Out Soon
+ - [https://www.gamespot.com/articles/ayaneo-new-mini-pc-looks-like-a-high-tech-nes-ships-out-soon/1100-6520524/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ayaneo-new-mini-pc-looks-like-a-high-tech-nes-ships-out-soon/1100-6520524/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T14:35:00+00:00
+
+<p>If you've been looking at getting a new PC but you don't want it to claim too much of your desktop real estate, the new AyaNeo Retro Mini PC AM02 might catch your eye. The company has lifted the lid on its new project, a mini PC that blends an old-school NES-inspired design with powerful hardware within its compact frame. There's an eye-catching multi-function touchscreen built into it, and internally, it's designed to appeal to retro gaming enthusiasts and hobbyist developers.</p><div>          </div><p>While the standard model will be priced at $500 when it releases, anyone looking for an early-bird special can get the AMO2 PC for $440 <a href="https://www.indiegogo.com/projects/ayaneo-am02-7840hs-retro-mini-pc-with-a-4-screen">through AyeNeo's Indiegogo campaign</a>. This bare-bones Windows 11 model comes with an AMD Ryzen 7 7840HS APU, 16GB of DDR5 RAM, and a 512GB SSD. Other models with beefed-up memory and internal storage will also be available, for an additional pr
+
+## Pokemon Sleep's Newest Update Adds A New Sleep Area, Pokemon Species, And Recipes To Cook
+ - [https://www.gamespot.com/articles/pokemon-sleeps-newest-update-adds-a-new-sleep-area-pokemon-species-and-recipes-to-cook/1100-6520528/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pokemon-sleeps-newest-update-adds-a-new-sleep-area-pokemon-species-and-recipes-to-cook/1100-6520528/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T14:31:00+00:00
+
+<p>This week, <a href="https://www.gamespot.com/games/pokemon-sleep/">Pokemon Sleep</a> will get its largest update since launch with a new sleeping area, recipes to cook with a brand new ingredient, more Pokemon species to discover snoozing, and energy replenishing features. This new update also attempts to fix many of the game's bugs such as Pokemon not using energy, while players sleep, and Pokemon having less energy in the morning than the night before.</p><p>Lapis Lakeside is Pokemon Sleep's newest research area and brings the total research area number to five, joining Greengrass Isle, Cyan Beach, Taupe Hollow, and Snowdrop Tundra. To unlock Lapis Lakeside, players will need to have registered 240 Sleep Styles. This new area brings nine new Pokemon species to discover in Lapis Lakeside such as Dratini, Stufful, and Ralts.</p><p>The update also adds seven more recipes alongside a new ingredient, Greengrass Corn. It can be assumed that the nine new Pokemon will have Green
+
+## Palworld Breaks CS: GO's Steam Concurrent Record, Now No. 2 All Time
+ - [https://www.gamespot.com/articles/palworld-breaks-cs-gos-steam-concurrent-record-now-no-2-all-time/1100-6520527/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/palworld-breaks-cs-gos-steam-concurrent-record-now-no-2-all-time/1100-6520527/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T14:01:00+00:00
+
+<p>Palworld continues to break records. The "Pokemon with guns" game that has courted intrigue and drama since it was released on January 19 has now surpassed CS: GO's all-time peak concurrent record of 1.81 million. Palworld reached 1.83 million peak concurrent players.</p><p>Palworld is now <a href="https://steamdb.info/charts/?sort=peak">No. 2 on the all-time list for peak concurrent players</a>, but it trails the No. 1 game--PUBG--by a wide margin. That game reached an astonishing 3.2 million peak concurrent players on Steam in January 2018. PUBG achieved that milestone when it was a paid game, too, so Palworld remains No. 2 all time for peak concurrent players for both free and paid games on Steam.</p><p>Palworld has now sold more than 6 million copies across PC and Xbox. The game has surely reached a much bigger audience than that, though, as it's also available on Xbox Game Pass. The player population could be even larger <a href="https://www.gamespot.com/articles/palw
+
+## Tekken 8 Review - The Heat Of Battle
+ - [https://www.gamespot.com/reviews/tekken-8-review-the-heat-of-battle/1900-6418169/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/tekken-8-review-the-heat-of-battle/1900-6418169/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T14:00:00+00:00
+
+<p dir="ltr">Tekken 8's greatest challenge is building on a fighting game experience that has been refined to close to perfection over the course of eight-plus years, without feeling like it retreading old ground or needlessly upending the foundation laid by its predecessor. Thankfully, it's a challenge that developer Bandai Namco meets by introducing an improved fighting system focused on aggression, an impressive roster of 32 fighters, and one of the most rock-solid online experiences I've ever seen in a fighting game.</p><p dir="ltr">The main draw of Tekken 8 is the Heat system, which represents a new wrinkle to an already-satisfying set of brawling mechanics. Certain moves in each fighter's repertoire emit a burst of white energy on contact which, in turn, activates an aura of that same energy around the character's limbs. While in this state, characters can inflict more damage when blocked, gain access to a quick Heat Dash or powerful Heat Smash, and receive a few unique
+
+## Monday Night RAW Is Moving To Netflix In 2025
+ - [https://www.gamespot.com/articles/monday-night-raw-is-moving-to-netflix-in-2025/1100-6520526/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/monday-night-raw-is-moving-to-netflix-in-2025/1100-6520526/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T13:39:00+00:00
+
+<p>Monday Night RAW has found a new home, as the long-running WWE flagship show is moving to Netflix from January 2025. From next year, WWE fans in the US, Canada, United Kingdom, and Latin America will be able to watch RAW exclusively on Netflix.</p><p>The deal will also see all of WWE's premium live events--including WrestleMania, SummerSlam and Royal Rumble--included, while other WWE shows such as Smackdown and NXT will also be available internationally from 2025.</p><p>"We are excited to have WWE Raw, with its huge and passionate multigenerational fan base, on Netflix," said Netflix Chief Content Officer, Bela Bajaria. "By combining our reach, recommendations, and fandom with WWE, we'll be able to deliver more joy and value for their audiences and our members. Raw is the best of sports entertainment, blending great characters and storytelling with live action 52 weeks a year and we’re thrilled to be in this long-term partnership with WWE."</p><a href="https://www.gamespot
+
+## WWE Monday Night Raw Is Moving To Netflix In 2025
+ - [https://www.gamespot.com/articles/wwes-monday-night-raw-is-moving-to-netflix-in-2025/1100-6520526/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wwes-monday-night-raw-is-moving-to-netflix-in-2025/1100-6520526/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T13:39:00+00:00
+
+<p>Monday Night Raw has found a new home, as the long-running WWE flagship show is moving to Netflix from January 2025. From next year, WWE fans in the US, Canada, United Kingdom, and Latin America will be able to watch Raw exclusively on Netflix.</p><p>The deal will also see all of WWE's premium live events--including WrestleMania, SummerSlam and Royal Rumble--included, while other WWE shows such as Smackdown and NXT will also be available internationally from 2025.</p><p>"We are excited to have WWE Raw, with its huge and passionate multigenerational fan base, on Netflix," said Netflix Chief Content Officer, Bela Bajaria. "By combining our reach, recommendations, and fandom with WWE, we'll be able to deliver more joy and value for their audiences and our members. Raw is the best of sports entertainment, blending great characters and storytelling with live action 52 weeks a year and we’re thrilled to be in this long-term partnership with WWE."</p><a href="https://www.gamespot
+
+## Oliver Stone Apologizes After Saying Ryan Gosling Was "Wasting His Time" Making Barbie
+ - [https://www.gamespot.com/articles/oliver-stone-apologizes-after-saying-ryan-gosling-was-wasting-his-time-making-barbie/1100-6520525/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/oliver-stone-apologizes-after-saying-ryan-gosling-was-wasting-his-time-making-barbie/1100-6520525/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T13:16:00+00:00
+
+<p>Director Oliver Stone has issued an apology after saying Ryan Gosling was "wasting his time" starring in the Barbie movie and should instead focus on "more serious films."</p><p>Posting on <a href="https://twitter.com/TheOliverStone/status/1749613529248813190">social media</a>, Stone said he "had little to no knowledge" of what the Barbie movie was beyond its title when he made his comments in June 2023. When he saw the movie, he said he "appreciated the film for its originality and its themes."</p><p>"I found the filmmakers' approach certainly different than what I expected. I apologize for speaking ignorantly."</p><a href="https://www.gamespot.com/articles/oliver-stone-apologizes-after-saying-ryan-gosling-was-wasting-his-time-making-barbie/1100-6520525/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## New On Disney Plus In February 2024: The Marvels, Bad Batch
+ - [https://www.gamespot.com/articles/new-on-disney-plus-in-february-2024-the-marvels-bad-batch/1100-6520523/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-on-disney-plus-in-february-2024-the-marvels-bad-batch/1100-6520523/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T03:01:00+00:00
+
+<p> As February draws closer, Disney+ has released the list of movies, TV shows, and documentaries that will be coming to the service next month. Here's everything that will be added to Disney's streaming service starting February 1.</p><p>Making its premiere on Disney+ is The Marvels, the last major film to be released as part of the MCU's phase five. The film sees an epic team up between Carol Danvers, Kamala Khan, and Monica Rambeau as they investigate why their powers have become entangled with each other. Premiering alongside the blockbuster film on February 7 is a documentary about its production called Assembled: The Making of The Marvels.</p><div>          </div><p><span>We're also getting more Star Wars in February, with the premiere of the third and final season of animated series The Bad Batch. Following a group of defective but talented clones who turned against the newly formed Empire, the series follows on from The Clone Wars animated series, and sees the return
+
+## Amid Plagiarism Accusations, Palworld CEO Asks People To Stop Harassing Devs
+ - [https://www.gamespot.com/articles/amid-plagiarism-accusations-palworld-ceo-asks-people-to-stop-harassing-devs/1100-6520522/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/amid-plagiarism-accusations-palworld-ceo-asks-people-to-stop-harassing-devs/1100-6520522/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T00:56:00+00:00
+
+<p>Pocketpair's survival game <a href="https://www.gamespot.com/games/palworld/">Palworld</a> recently went into <a href="https://www.gamespot.com/articles/palworld-pokemon-with-guns-enters-early-access-in-january-2024/1100-6514980/">Steam Early Access and Xbox Game Preview</a>, and the studio has already found itself in some hot water.</p><p dir="ltr">At face value, Palworld looks like a Pokemon game with guns because of how similar the monsters look to the Nintendo property. Thanks to <a href="https://www.videogameschronicle.com/news/palworld-pokemon-plagiarism-accusations-pile-up-as-ceo-responds/">VGC</a>, we know that some people have begun to accuse the studio of plagiarism.</p><p dir="ltr">A significant reason why these accusations became popular was because of <a href="https://twitter.com/byofrog">X/Twitter user @ byofrog</a>. On January 20, the user began to upload a series of <a href="https://twitter.com/byofrog/status/1748890830495010870/photo/1">photos/videos</a> a
+
+## Riot Games Lays Off 530 Employees, Sunsetting Riot Forge
+ - [https://www.gamespot.com/articles/riot-games-lays-off-530-employees-sunsetting-riot-forge/1100-6520520/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/riot-games-lays-off-530-employees-sunsetting-riot-forge/1100-6520520/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-01-23T00:04:00+00:00
+
+<p>Riot Games, the team behind <a href="https://www.gamespot.com/games/league-of-legends/">League of Legends</a> and <a href="https://www.gamespot.com/games/valorant/">Valorant</a>, has announced that it has laid off 530 employees. This equates to roughly 11% of the workforce at the studio.</p><p dir="ltr">The news comes from a <a href="https://www.riotgames.com/en/news/2024-rioter-update">Riot Games blog post</a> where A. Dylan Jadeja, the CEO of Riot Games, wrote, "I'm accountable for the changes we're making and where we're headed in the future. So, I think it's important for me to share how we got here and how the next few days will work."</p><p dir="ltr">A big reason why Jadeja claims the layoffs are happening is because, in 2019, the company decided to create "new experiences" and broaden its portfolio. The company was forced to bring more people on board within just a few years.</p><a href="https://www.gamespot.com/articles/riot-games-lays-off-530-employees-sunsetting-
+
