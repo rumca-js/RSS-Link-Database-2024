@@ -1,0 +1,30 @@
+# Source:Security Affairs, URL:https://securityaffairs.com/feed, language:en-US
+
+## 5379 GitLab servers vulnerable to zero-click account takeover attacks
+ - [https://securityaffairs.com/158075/hacking/gitlab-servers-vulnerable-cve-2023-7028.html](https://securityaffairs.com/158075/hacking/gitlab-servers-vulnerable-cve-2023-7028.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2024-01-24T19:05:48+00:00
+
+Thousands of GitLab servers are vulnerable to zero-click account takeover attacks exploiting the flaw CVE-2023-7028. GitLab has recently released security updates to address two critical vulnerabilities impacting both the Community and Enterprise Edition. The most critical vulnerability, tracked as CVE-2023-7028 (CVSS score 10), is an account takeover via Password Reset. The flaw can be exploited [&#8230;]
+
+## Experts released PoC exploit for Fortra GoAnywhere MFT flaw CVE-2024-0204
+ - [https://securityaffairs.com/158043/hacking/goanywhere-mft-cve-2024-0204-poc-exploit.html](https://securityaffairs.com/158043/hacking/goanywhere-mft-cve-2024-0204-poc-exploit.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2024-01-24T14:37:32+00:00
+
+Researchers released PoC exploit code for a recently disclosed critical authentication bypass flaw in Fortra&#8217;s GoAnywhere MFT (Managed File Transfer). Researchers with cybersecurity firm Horizon3&#8217;s Attack Team published technical details of the recently disclosed vulnerability CVE-2024-0204 impacting Fortra GoAnywhere MFT. The security experts also published a proof-of-concept (PoC) exploit that allows the creation of new admin users on vulnerable [&#8230;]
+
+## Akira ransomware attack on Tietoevry disrupted the services of many Swedish organizations
+ - [https://securityaffairs.com/158031/cyber-crime/tietoevry-akira-ransomware-attack.html](https://securityaffairs.com/158031/cyber-crime/tietoevry-akira-ransomware-attack.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2024-01-24T11:09:29+00:00
+
+A ransomware attack against the Finnish IT services provider Tietoevry disrupted the services of some Swedish government agencies and shops. The online services of multiple Swedish government agencies, universities, and commercial activities were disrupted by an Akira ransomware attack that hit the Finnish IT services and enterprise cloud hosting Tietoevry. Tietoevry is a Finnish multinational [&#8230;]
+
+## Splunk fixed high-severity flaw impacting Windows versions
+ - [https://securityaffairs.com/158019/security/splunk-flaw-windows-installs.html](https://securityaffairs.com/158019/security/splunk-flaw-windows-installs.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2024-01-24T08:35:48+00:00
+
+Splunk addressed multiple vulnerabilities in Splunk Enterprise, including a high-severity flaw impacting Windows installs. Splunk addressed multiple vulnerabilities in Splunk Enterprise, including a high-severity flaw, tracked as CVE-2024-23678 (CVSS score 7.5), impacting the Windows version. According to the advisory, Splunk Enterprise for Windows versions below 9.0.8 and 9.1.3 does not correctly sanitize path input data. [&#8230;]
+

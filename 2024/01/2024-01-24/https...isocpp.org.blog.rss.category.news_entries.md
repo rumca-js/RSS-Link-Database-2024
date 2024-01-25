@@ -1,0 +1,65 @@
+# Source:Standard C++ | News, URL:https://isocpp.org/blog/rss/category/news, language:en
+
+## Subtle C++ Compiler Error with std::optional and the Conditional Operator -- Giovanni Dicanio
+ - [https://isocpp.org//blog/2024/01/subtle-cpp-compiler-error-with-stdoptional-and-the-conditional-operator-gio](https://isocpp.org//blog/2024/01/subtle-cpp-compiler-error-with-stdoptional-and-the-conditional-operator-gio)
+ - RSS feed: https://isocpp.org/blog/rss/category/news
+ - date published: 2024-01-24T19:21:47+00:00
+
+<p>
+	An example of writing clear code with good intention, but getting an unexpected C++ compiler error:</p>
+<blockquote>
+	<h3>
+		<a href="https://giodicanio.com/2024/01/12/subtle-c-plus-plus-compiler-error-with-std-optional-and-the-conditional-operator/">Subtle C++ Compiler Error with std::optional and the Conditional Operator</a></h3>
+</blockquote>
+<blockquote>
+	<p>
+		by Giovanni Dicanio</p>
+</blockquote>
+<p>
+	From the article:</p>
+<blockquote>
+	<p>
+		I was asked: &ldquo;What&rsquo;s the problem here? Are there limitations of using the {} syntax to specify nothing?&rdquo;</p>
+	<p>
+		This is a good question. So, clearly, the C++ compiler didn&rsquo;t interpret the {} syntax as a way to default-initialize the std::optional in case the string was not empty (i.e. the second &ldquo;branch&rdquo; in the conditional ternary operator).</p>
+	<p>
+		A first step to help the C++ compiler figuring out the programmer&rsquo;s intention could be to be more explicit. So, instead of using {}
+
+## IEEE Floating Point and the Radar Range Equation in C++ -- John Farrier
+ - [https://isocpp.org//blog/2024/01/ieee-floating-point-and-the-radar-range-equation-in-cpp](https://isocpp.org//blog/2024/01/ieee-floating-point-and-the-radar-range-equation-in-cpp)
+ - RSS feed: https://isocpp.org/blog/rss/category/news
+ - date published: 2024-01-24T19:20:20+00:00
+
+<p>
+	The implementation of mathematical equations demands a keen awareness of the computational environment. This article uses a practical example of implementing the Radar Range Equation, a cornerstone formula in radar technology, to illustrate the importance of considering IEEE floating point representation in C++ for accurate and reliable computations.</p>
+<blockquote>
+	<h3>
+		<a href="https://johnfarrier.com/engineering-mathematics-a-focus-on-ieee-floating-point-and-the-radar-range-equation-in-c/">Engineering Mathematics: A Focus on IEEE Floating Point and the Radar Range Equation in C++</a></h3>
+	<p>
+		by John Farrier</p>
+</blockquote>
+<p>
+	From the Article:</p>
+<blockquote>
+	<p>
+		The nature of IEEE floating-point numbers in C++ brings certain challenges, especially when dealing with large or small numbers and operations like multiplication and division. Precision issues can significantly impact the accuracy of computations, making it essential to adapt the implementati
+
+## The Double Life of Objects -- Andrzej Krzemieński
+ - [https://isocpp.org//blog/2024/01/the-double-life-of-objects-andrzej-krzemieski](https://isocpp.org//blog/2024/01/the-double-life-of-objects-andrzej-krzemieski)
+ - RSS feed: https://isocpp.org/blog/rss/category/news
+ - date published: 2024-01-24T17:44:06+00:00
+
+<p>
+	<img alt="doublelife-1.png" src="https://isocpp.org/files/img/doublelife-1.png" style="width: 372px; margin: 10px; float: right;" />In the world of C++, the concept of object lifetime and <code>const</code>ness can become a bit hazy when copy elision, a popular optimization technique, comes into play. In this article, Andrzej Krzemie&#324;ski explores the intricacies of object lifetimes and <code>const</code>ness, using a class called <code>Rng</code> to illustrate how objects can appear <code>const</code> in one context and non-<code>const</code> in another due to copy elision. He'll also delve into the motivations behind C++'s handling of <code>const</code> objects and how it impacts program behavior.</p>
+<blockquote>
+	<h3>
+		<a href="https://akrzemi1.wordpress.com/2023/12/18/the-double-life-of-objets/">The Double Life of Objects</a></h3>
+	<p>
+		by Andrzej Krzemie&#324;ski</p>
+</blockquote>
+<p>
+	From the article:</p>
+<blockquote>
+	<p>
+		Some common knowledge: the lifet
+

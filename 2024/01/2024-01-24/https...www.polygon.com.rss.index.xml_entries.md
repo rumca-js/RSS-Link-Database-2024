@@ -1,0 +1,489 @@
+# Source:Polygon -  All, URL:https://www.polygon.com/rss/index.xml, language:en
+
+## How to get Gallowvine in Diablo 4 and why you need it
+ - [https://www.polygon.com/diablo-4-guides/24049624/gallowvine-alchemist-where-to-farm](https://www.polygon.com/diablo-4-guides/24049624/gallowvine-alchemist-where-to-farm)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T22:19:36+00:00
+
+<figure>
+      <img alt="A Rogue and his Construct stands near a batch of Gallowvine in Diablo 4" src="https://cdn.vox-cdn.com/thumbor/Z1o0OQeas9ENtXjKHn7rMYFvVjo=/341x127:1568x817/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73082412/Diablo_4_Screenshot_2024.01.24___15.04.13.78.0.png" />
+        <figcaption>Image: Blizzard Entertainment</figcaption>
+    </figure>
+
+  <p>Everything you need to know about Diablo 4’s most versatile herb</p>
+  <p>
+    <a href="https://www.polygon.com/diablo-4-guides/24049624/gallowvine-alchemist-where-to-farm">Continue reading&hellip;</a>
+  </p>
+
+## How to increase your inventory in Enshrouded
+ - [https://www.polygon.com/enshrouded-guides/24049645/increase-inventory-how-to-backpack-extension](https://www.polygon.com/enshrouded-guides/24049645/increase-inventory-how-to-backpack-extension)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T22:13:10+00:00
+
+<figure>
+      <img alt="Enshrouded Character menu with the backpack extension selected" src="https://cdn.vox-cdn.com/thumbor/9xHFEfR1B9I5caoX_gv6TA1SD7A=/0x0:2560x1440/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73082392/Enshrouded_backpack_extension.0.png" />
+        <figcaption>Image: Keen Games via Polygon</figcaption>
+    </figure>
+
+  <p>Make a bigger backpack with the Hunter</p>
+  <p>
+    <a href="https://www.polygon.com/enshrouded-guides/24049645/increase-inventory-how-to-backpack-extension">Continue reading&hellip;</a>
+  </p>
+
+## There’s a new Death Stranding-inspired phone controller, and it’s pee-colored
+ - [https://www.polygon.com/2024/1/24/24049119/death-stranding-directors-cut-backbone-one-controller-iphone-android](https://www.polygon.com/2024/1/24/24049119/death-stranding-directors-cut-backbone-one-controller-iphone-android)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T21:57:00+00:00
+
+<figure>
+      <img alt="A render of the yellow Death Stranding Backbone One controller holding an iPhone that is displaying Death Stranding." src="https://cdn.vox-cdn.com/thumbor/xL_EaTefpAPPMCRWlZoyRx7ATfs=/0x0:3840x2160/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73082337/04_240115_Backbone_Kojima_Game_PR.0.jpg" />
+        <figcaption>Image: Backbone/Kojima Productions</figcaption>
+    </figure>
+
+  <p>Paging Norman Peedus</p>
+  <p>
+    <a href="https://www.polygon.com/2024/1/24/24049119/death-stranding-directors-cut-backbone-one-controller-iphone-android">Continue reading&hellip;</a>
+  </p>
+
+## How to get Ancient Technology Points in Palworld
+ - [https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get](https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T21:55:24+00:00
+
+<figure>
+      <img alt="Defeating a boss for the first time in Palworld rewards you with an ancient technology point." src="https://cdn.vox-cdn.com/thumbor/dHPero9MXY0zKNgk9qELvT6luH0=/0x0:1600x900/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73082331/ancienttechnologypoints_palworld.0.jpg" />
+        <figcaption>Image: Pocketpair via Johnny Yu</figcaption>
+    </figure>
+
+  <p>Defeat bosses to farm Ancient Technology Points</p>
+  <p>
+    <a href="https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get">Continue reading&hellip;</a>
+  </p>
+
+## All tower boss locations and best tower boss order in Palworld
+ - [https://www.polygon.com/palworld-guides/24049473/tower-boss-locations-bosses-order](https://www.polygon.com/palworld-guides/24049473/tower-boss-locations-bosses-order)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T21:55:22+00:00
+
+<figure>
+      <img alt="The five Palworld tower bosses all lined up" src="https://cdn.vox-cdn.com/thumbor/YKCZE552foHcNXmbNhs7e_x2DTM=/0x0:1920x1080/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73082329/20240119_Palworld_Screenshot_07.0.png" />
+        <figcaption>Image: Pocketpair</figcaption>
+    </figure>
+
+  <p>Where are the five tower bosses in Palworld?</p>
+  <p>
+    <a href="https://www.polygon.com/palworld-guides/24049473/tower-boss-locations-bosses-order">Continue reading&hellip;</a>
+  </p>
+
+## The second Pokémon TCG expansion of 2024 is now available for pre-order
+ - [https://www.polygon.com/deals/24049353/pokemon-tcg-scarlet-violet-temporal-forces-booster-boxes-pre-order-buy](https://www.polygon.com/deals/24049353/pokemon-tcg-scarlet-violet-temporal-forces-booster-boxes-pre-order-buy)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T21:40:00+00:00
+
+<figure>
+      <img alt="Key art for the Temporal Forces expansion for the Pokémon TCG" src="https://cdn.vox-cdn.com/thumbor/YnvSzPspTsNXtbqSTnsaEwtwo50=/0x2:578x327/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73082285/sv05_banner.0.png" />
+        <figcaption>Image: The Pokémon Company</figcaption>
+    </figure>
+
+  <p>The new expansion launches Mar. 22. Here’s where to pre-order</p>
+  <p>
+    <a href="https://www.polygon.com/deals/24049353/pokemon-tcg-scarlet-violet-temporal-forces-booster-boxes-pre-order-buy">Continue reading&hellip;</a>
+  </p>
+
+## Nintendo’s pastel pink Joy-Cons are now available to pre-order
+ - [https://www.polygon.com/deals/24049424/switch-joy-cons-pastel-pink-princess-peach-pre-order-buy](https://www.polygon.com/deals/24049424/switch-joy-cons-pastel-pink-princess-peach-pre-order-buy)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T20:35:00+00:00
+
+<figure>
+      <img alt="A photo of two Nintendo Switch Joy-Con controllers in pastel pink color." src="https://cdn.vox-cdn.com/thumbor/-0gN4DdqLm9Y9nRPx_e-4-mZYbA=/0x106:2040x1254/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73082086/nswpastelpinkJB.0.jpg" />
+        <figcaption>Photo: Nintendo</figcaption>
+    </figure>
+
+  <p>Launching alongside Princess Peach: Showtime! on Mar. 22</p>
+  <p>
+    <a href="https://www.polygon.com/deals/24049424/switch-joy-cons-pastel-pink-princess-peach-pre-order-buy">Continue reading&hellip;</a>
+  </p>
+
+## Metallic Rouge is a cyberpunk mystery worth unraveling
+ - [https://www.polygon.com/24048071/metallic-rouge-cyberpunk-anime-impressions](https://www.polygon.com/24048071/metallic-rouge-cyberpunk-anime-impressions)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T20:30:00+00:00
+
+<figure>
+      <img alt="An anime girl with red highlights in her hair stands in an alien forest with glowing plants, a glowing halo hovering over her body with a bolt of lighting surging in the foreground in Metallic Rouge." src="https://cdn.vox-cdn.com/thumbor/Udm7CHNJwPd_1jFqXiYEY1DVSBE=/0x0:1280x720/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73082057/episodes1.0.jpg" />
+        <figcaption>Image: Bones/Crunchyroll</figcaption>
+    </figure>
+
+  <p>Studio Bones’ latest ‘tech noir’ anime is a shaping up to be one of the season’s best</p>
+  <p>
+    <a href="https://www.polygon.com/24048071/metallic-rouge-cyberpunk-anime-impressions">Continue reading&hellip;</a>
+  </p>
+
+## Inside Robot Dreams, the Oscars’ surprise Best Animated Feature nominee
+ - [https://www.polygon.com/24049361/robot-dreams-best-animated-feature-nominee-release-date](https://www.polygon.com/24049361/robot-dreams-best-animated-feature-nominee-release-date)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T20:21:39+00:00
+
+<figure>
+      <img alt="An image of an anthropomorphic cartoon dog carrying a briefcase, smiling and holding hands with a tall, gangly robot, as they walk through the streets of the East Village in New York City in the animated feature Robot Dreams" src="https://cdn.vox-cdn.com/thumbor/ixrFCK336X0NQmrkZHNZ-s1T85U=/0x0:2500x1406/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73082025/RoboDreams.0.jpg" />
+        <figcaption>Image: Neon</figcaption>
+    </figure>
+
+
+  		<p>Most people haven’t heard about this movie yet — here’s why</p>
+  <p>
+    <a href="https://www.polygon.com/24049361/robot-dreams-best-animated-feature-nominee-release-date">Continue reading&hellip;</a>
+  </p>
+
+## Juice up your rig with Nvidia’s new 40-series GPUs
+ - [https://www.polygon.com/deals/24049093/where-to-buy-nvidia-rtx-geforce-4070-4080-ti-super-gpu-graphics-card](https://www.polygon.com/deals/24049093/where-to-buy-nvidia-rtx-geforce-4070-4080-ti-super-gpu-graphics-card)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T19:50:51+00:00
+
+<figure>
+      <img alt="Stock image of the various SKUs for the Nvidia 40-series Super graphics cards" src="https://cdn.vox-cdn.com/thumbor/gxym4WOjSVbwRr2QsVlFjQcYXLw=/0x447:8000x4947/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081931/rtx_4070Ti_SUPER_partner_models.0.jpg" />
+        <figcaption>Image: Nvidia</figcaption>
+    </figure>
+
+  <p>Nvidia’s fastest GPUs have arrived, and here’s where you can buy them</p>
+  <p>
+    <a href="https://www.polygon.com/deals/24049093/where-to-buy-nvidia-rtx-geforce-4070-4080-ti-super-gpu-graphics-card">Continue reading&hellip;</a>
+  </p>
+
+## The miracle of Palworld isn’t its popularity, it’s that it exists at all
+ - [https://www.polygon.com/24048044/palworld-history](https://www.polygon.com/24048044/palworld-history)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T19:10:00+00:00
+
+<figure>
+      <img alt="An image of three Lamballs jumping up for joy in Palworld. They look like round little sheep." src="https://cdn.vox-cdn.com/thumbor/wxefdl8KU0CeNL1ZJs1d2jxVlgw=/0x0:1920x1080/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081789/Palworld_Paldeck_07.0.png" />
+        <figcaption>Image: Pocketpair</figcaption>
+    </figure>
+
+
+  		<p>The road to Palworld was rocky, to say the least </p>
+  <p>
+    <a href="https://www.polygon.com/24048044/palworld-history">Continue reading&hellip;</a>
+  </p>
+
+## The best horror movies you can watch right now
+ - [https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T18:56:57+00:00
+
+<figure>
+      <img alt="Four people in their early 20s stand in the woods with backpacks and raincoats on in 2016’s Blair Witch sequel " src="https://cdn.vox-cdn.com/thumbor/a2BLQn3EorPVrygKCRkInOzZQnk=/0x114:4240x2499/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/70005007/MCDBLWI_EC035.133.jpg" />
+        <figcaption>Photo: Lions Gate/Courtesy Everett Collection</figcaption>
+    </figure>
+
+
+  		<p>From Netflix to Hulu to Max, the eeriest, scariest, and best horror to watch at home... or else</p>
+  <p>
+    <a href="https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo">Continue reading&hellip;</a>
+  </p>
+
+## How to find eggs and build the egg incubator in Palworld
+ - [https://www.polygon.com/palworld-guides/24049149/egg-incubator-materials-locations-hatch-eggs](https://www.polygon.com/palworld-guides/24049149/egg-incubator-materials-locations-hatch-eggs)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T18:16:09+00:00
+
+<figure>
+      <img alt="A Palworld player in front of a pink and white striped egg" src="https://cdn.vox-cdn.com/thumbor/duy6ojuhc9BpFUM8E8lJdmCeHyQ=/0x0:1953x1099/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081652/Palworld_Win64_Shipping_2024_01_24_10_50_15.0.jpg" />
+        <figcaption>Image: Pocketpair via Polygon</figcaption>
+    </figure>
+
+  <p>And what to know about egg sizes and types</p>
+  <p>
+    <a href="https://www.polygon.com/palworld-guides/24049149/egg-incubator-materials-locations-hatch-eggs">Continue reading&hellip;</a>
+  </p>
+
+## The first details on Eve Online’s massive new 4X board game
+ - [https://www.polygon.com/tabletop-games/24047322/eve-online-board-game-kickstarter-preview](https://www.polygon.com/tabletop-games/24047322/eve-online-board-game-kickstarter-preview)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T18:00:00+00:00
+
+<figure>
+      <img alt="A capsulleer, as Eve’s avatars are called, stands on the bridge of a starship working a virtual display that hovers in the air before them. In the distance four or five starships prepare to enter a wormhole." src="https://cdn.vox-cdn.com/thumbor/rAjOdreXO4GO8GMNufxgOq3vpOM=/0x0:3543x1993/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081592/EVE_WarForNewEden_CoverArtwork_cropped.0.jpg" />
+        <figcaption>Image: Titan Forge and CCP Games</figcaption>
+    </figure>
+
+
+  		<p>The miniature masters at Titan Forge also have something big up their sleeves</p>
+  <p>
+    <a href="https://www.polygon.com/tabletop-games/24047322/eve-online-board-game-kickstarter-preview">Continue reading&hellip;</a>
+  </p>
+
+## Jon Stewart returns to host The Daily Show — part-time
+ - [https://www.polygon.com/entertainment/24049247/jon-stewart-returns-to-the-daily-show-host-2024](https://www.polygon.com/entertainment/24049247/jon-stewart-returns-to-the-daily-show-host-2024)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T17:47:52+00:00
+
+<figure>
+      <img alt="Jon Stewart amidst hosting the Daily Show in 2015." src="https://cdn.vox-cdn.com/thumbor/vt7fakgEDFOwzEJReiQXazCyos0=/0x0:4256x2394/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081531/483209632.0.jpg" />
+        <figcaption>Photo by Brad Barket/Getty Images for Comedy Central</figcaption>
+    </figure>
+
+  <p>Getting ready for Biden vs. Trump Part II </p>
+  <p>
+    <a href="https://www.polygon.com/entertainment/24049247/jon-stewart-returns-to-the-daily-show-host-2024">Continue reading&hellip;</a>
+  </p>
+
+## The biggest sci-fi/fantasy award has been accused of censorship, and the situation is a mess
+ - [https://www.polygon.com/24049021/hugo-awards-controversy-china-censorship-babel](https://www.polygon.com/24049021/hugo-awards-controversy-china-censorship-babel)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T17:45:15+00:00
+
+<figure>
+      <img alt="A collage of the covers of Babel: Or the Necessity of Violence and Iron Widow and the poster for Netflix’s Sandman series, each with a red X over the image. In the background is the tiled logo of WorldCon 2023." src="https://cdn.vox-cdn.com/thumbor/qWM93dY0WNQOmLR9TbJtTZaTpq4=/0x110:2040x1258/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081513/hugos_censorship.0.jpg" />
+        <figcaption>Graphic: Matt Patches/Polygon | Source images: Chengdu Worldcon; HarperCollins Publishers; Penguin Random House; Netflix; Getty Images</figcaption>
+    </figure>
+
+
+  		<p>The 2023 awards, held in China, saw several nominees mysteriously declared ineligible</p>
+  <p>
+    <a href="https://www.polygon.com/24049021/hugo-awards-controversy-china-censorship-babel">Continue reading&hellip;</a>
+  </p>
+
+## Please don’t make me hot for Fire Lord Ozai
+ - [https://www.polygon.com/entertainment/24049223/avatar-the-last-airbender-netflix-fire-lord-flaming-hot](https://www.polygon.com/entertainment/24049223/avatar-the-last-airbender-netflix-fire-lord-flaming-hot)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T17:32:33+00:00
+
+<figure>
+      <img alt="Shirtless Daniel Dae Kim prepares for a duel in Avatar: The Last Airbender" src="https://cdn.vox-cdn.com/thumbor/nIzGGWopfvcb9CZOXLA0asCdpMw=/272x0:3152x1620/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081473/AVTR_035_130_marketing_stills_20240116__1_.0.jpg" />
+        <figcaption>Image: Netflix</figcaption>
+    </figure>
+
+  <p>Nooo don’t conquer the entire world, you’re so sexy</p>
+  <p>
+    <a href="https://www.polygon.com/entertainment/24049223/avatar-the-last-airbender-netflix-fire-lord-flaming-hot">Continue reading&hellip;</a>
+  </p>
+
+## All flying mounts in Palworld, and where to find them
+ - [https://www.polygon.com/palworld-guides/24047076/flying-mounts-locations-fastest-saddle](https://www.polygon.com/palworld-guides/24047076/flying-mounts-locations-fastest-saddle)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T17:04:54+00:00
+
+<figure>
+      <img alt="Playable character in Palworld riding the legendary Jetragon Pal." src="https://cdn.vox-cdn.com/thumbor/asYIG3i715lOsFC0KYPeQ0FnjJ0=/0x0:1920x1080/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081385/jetragon_palworld.0.jpg" />
+        <figcaption>Image: Pocketpair via Johnny Yu</figcaption>
+    </figure>
+
+  <p>Plus, learn about the fastest flying mount</p>
+  <p>
+    <a href="https://www.polygon.com/palworld-guides/24047076/flying-mounts-locations-fastest-saddle">Continue reading&hellip;</a>
+  </p>
+
+## Is it possible to get better at Suika Game? Maybe not
+ - [https://www.polygon.com/gaming/24049020/how-to-beat-suika-game-impossible](https://www.polygon.com/gaming/24049020/how-to-beat-suika-game-impossible)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T16:21:34+00:00
+
+<figure>
+      <img alt="A box full of cute fruit with faces filling in the games in Suika Game, with a honeydew melon in the center with peaches and asian pears surrounding it." src="https://cdn.vox-cdn.com/thumbor/d4RIHC8JcrknZu8A5LwJ73z64UU=/0x38:1705x997/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081257/suika.0.jpg" />
+        <figcaption>Image: popIn via Polygon</figcaption>
+    </figure>
+
+  <p>Damn watermelons</p>
+  <p>
+    <a href="https://www.polygon.com/gaming/24049020/how-to-beat-suika-game-impossible">Continue reading&hellip;</a>
+  </p>
+
+## Dolly Parton gave us 2023’s best needle-drop
+ - [https://www.polygon.com/24044036/dolly-parton-priscilla-best-needle-drops-2023](https://www.polygon.com/24044036/dolly-parton-priscilla-best-needle-drops-2023)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T16:02:00+00:00
+
+<figure>
+      <img alt="Dolly Parton performs at Georgia Tech Coliseum, Atlanta, in 1977. She’s wearing pink and has a huge blonde hairdo" src="https://cdn.vox-cdn.com/thumbor/PIdE835vr216P-ysv3eskWG_vKw=/0x0:3000x1688/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081183/82626356.0.jpg" />
+        <figcaption>Photo: Tom Hill/WireImage via Getty</figcaption>
+    </figure>
+
+
+  		<p>The many layers to one 50-year-old song</p>
+  <p>
+    <a href="https://www.polygon.com/24044036/dolly-parton-priscilla-best-needle-drops-2023">Continue reading&hellip;</a>
+  </p>
+
+## The Day Before dev lashes out at ‘anonymous’ detractors, bloggers after game shuts down
+ - [https://www.polygon.com/24048997/the-day-before-fntastic-shut-down-accusations](https://www.polygon.com/24048997/the-day-before-fntastic-shut-down-accusations)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T15:34:58+00:00
+
+<figure>
+      <img alt="A player character aims at a group of zombies in a dark room in a screenshot from The Day Before" src="https://cdn.vox-cdn.com/thumbor/Mz7rVyqfJuhihD6iJiPZlwWw37c=/0x0:2560x1440/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081041/zombies.0.jpg" />
+        <figcaption>Image: Fntastic/Mytona</figcaption>
+    </figure>
+
+  <p>Fntastic shouts a final defense into the void</p>
+  <p>
+    <a href="https://www.polygon.com/24048997/the-day-before-fntastic-shut-down-accusations">Continue reading&hellip;</a>
+  </p>
+
+## Where to find clay in Enshrouded
+ - [https://www.polygon.com/enshrouded-guides/24048490/clay-where-to-find-how-to-get](https://www.polygon.com/enshrouded-guides/24048490/clay-where-to-find-how-to-get)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T15:27:14+00:00
+
+<figure>
+      <img alt="Enshrouded player standing in front of a clay deposit" src="https://cdn.vox-cdn.com/thumbor/iCOpTjGqF9mhdbTidPmocsJACGU=/0x0:2560x1440/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73081001/Enshrouded_clay.0.png" />
+        <figcaption>Image: Keen Games via Polygon</figcaption>
+    </figure>
+
+  <p>Find a lump of clay and build a kiln</p>
+  <p>
+    <a href="https://www.polygon.com/enshrouded-guides/24048490/clay-where-to-find-how-to-get">Continue reading&hellip;</a>
+  </p>
+
+## It’s not every day that a Panasonic 4K Blu-ray player costs just $128
+ - [https://www.polygon.com/deals/24049030/panasonic-4k-blu-ray-player-deal-ub150k](https://www.polygon.com/deals/24049030/panasonic-4k-blu-ray-player-deal-ub150k)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T15:24:58+00:00
+
+<figure>
+      <img alt="An image of the Panasonic UB150-K 4K Blu-ray player imposed on a custom blue background." src="https://cdn.vox-cdn.com/thumbor/UssAc57DCeT6sVRnOrg-4NMR85Y=/0x122:2328x1432/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73080999/panasonicUB150Khero.0.jpg" />
+        <figcaption>Image: Panasonic via Polygon</figcaption>
+    </figure>
+
+  <p>It’s not as packed with features as Panasonic’s pricier models, but it gets the job done</p>
+  <p>
+    <a href="https://www.polygon.com/deals/24049030/panasonic-4k-blu-ray-player-deal-ub150k">Continue reading&hellip;</a>
+  </p>
+
+## How to make metal sheets in Enshrouded
+ - [https://www.polygon.com/enshrouded-guides/24047901/metal-sheets-dirt-charcoal-how-to-make-blacksmith-forge](https://www.polygon.com/enshrouded-guides/24047901/metal-sheets-dirt-charcoal-how-to-make-blacksmith-forge)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T15:00:00+00:00
+
+<figure>
+      <img alt="Enshrouded player in a base standing in front of the Blacksmith" src="https://cdn.vox-cdn.com/thumbor/WnO69jgjplYE2ZE0emRpxtu94m0=/0x0:2560x1440/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73080885/Enshrouded_metal_sheets_Blacksmith_cover.0.png" />
+        <figcaption>Image: Keen Games via Polygon</figcaption>
+    </figure>
+
+  <p>Find the Blacksmith and build a Forge</p>
+  <p>
+    <a href="https://www.polygon.com/enshrouded-guides/24047901/metal-sheets-dirt-charcoal-how-to-make-blacksmith-forge">Continue reading&hellip;</a>
+  </p>
+
+## Where to find metal scraps in Enshrouded
+ - [https://www.polygon.com/enshrouded-guides/24047319/metal-scraps-where-to-find-how-to-get](https://www.polygon.com/enshrouded-guides/24047319/metal-scraps-where-to-find-how-to-get)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T15:00:00+00:00
+
+<figure>
+      <img alt="Enshrouded player standing over a slain wolf" src="https://cdn.vox-cdn.com/thumbor/yujIS_HtupA3VCJeaWrra9ZJMmk=/0x1:2880x1621/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73080877/Enshrouded_metal_scraps_1.0.jpg" />
+        <figcaption>Image: Keen Games via Polygon</figcaption>
+    </figure>
+
+  <p>Find metal to make nails, better tools, and armor</p>
+  <p>
+    <a href="https://www.polygon.com/enshrouded-guides/24047319/metal-scraps-where-to-find-how-to-get">Continue reading&hellip;</a>
+  </p>
+
+## Where to find salt in Enshrouded
+ - [https://www.polygon.com/enshrouded-guides/24048414/salt-where-to-find-how-to-get-dried-fur](https://www.polygon.com/enshrouded-guides/24048414/salt-where-to-find-how-to-get-dried-fur)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T15:00:00+00:00
+
+<figure>
+      <img alt="Enshrouded character with a pickaxe next to a salt deposit" src="https://cdn.vox-cdn.com/thumbor/cghIGXLXWsGeYtDu2dh4-VT2yS8=/0x0:2560x1440/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73080886/Enshrouded_salt_mine.0.png" />
+        <figcaption>Image: Keen Games via Polygon</figcaption>
+    </figure>
+
+  <p>Make dried fur and expand your inventory at the Hunter</p>
+  <p>
+    <a href="https://www.polygon.com/enshrouded-guides/24048414/salt-where-to-find-how-to-get-dried-fur">Continue reading&hellip;</a>
+  </p>
+
+## Where to find torn cloth in Enshrouded
+ - [https://www.polygon.com/enshrouded-guides/24047133/torn-cloth-where-to-find-how-to-get](https://www.polygon.com/enshrouded-guides/24047133/torn-cloth-where-to-find-how-to-get)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T15:00:00+00:00
+
+<figure>
+      <img alt="Enshrouded player standing on a hill wearing ragged clothes" src="https://cdn.vox-cdn.com/thumbor/3FIuvuRsEqTB8HjayRIiIQbAwIM=/0x1:2880x1621/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73080878/Enshrouded_torn_cloth_2.0.jpg" />
+        <figcaption>Image: Keen Games via Polygon</figcaption>
+    </figure>
+
+  <p>Find rags to make some clothes and bandages</p>
+  <p>
+    <a href="https://www.polygon.com/enshrouded-guides/24047133/torn-cloth-where-to-find-how-to-get">Continue reading&hellip;</a>
+  </p>
+
+## The weakest part of Palworld is, unfortunately, the Pals
+ - [https://www.polygon.com/24048413/palworld-creatures-design-behavior-early-access](https://www.polygon.com/24048413/palworld-creatures-design-behavior-early-access)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T14:56:24+00:00
+
+<figure>
+      <img alt="A series of small, cute Pals that look like green, leafy chipmunks are working tirelessly on an industrial assembly line. The scene is bleak and menacingly, and the Pals are under duress." src="https://cdn.vox-cdn.com/thumbor/C1HNcyE7AL4iNcvZDz6gZkid7Iw=/0x0:3840x2160/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73080874/Palworld_Screenshot_13.0.jpeg" />
+        <figcaption>Image: Pocketpair</figcaption>
+    </figure>
+
+  <p>I struggle to adore these little beasts</p>
+  <p>
+    <a href="https://www.polygon.com/24048413/palworld-creatures-design-behavior-early-access">Continue reading&hellip;</a>
+  </p>
+
+## Nintendo will turn off all online play for 3DS and Wii U on April 8
+ - [https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff](https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T14:46:10+00:00
+
+<figure>
+      <img alt="new 3ds xl home picture" src="https://cdn.vox-cdn.com/thumbor/WnbBZHLK9IszYgK_L2_oClUGeUQ=/0x54:1024x630/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/72719362/new_3ds_xl_open.0.0.png" />
+        <figcaption>Image: Nintendo</figcaption>
+    </figure>
+
+  <p>Support for every online mode — except Pokémon Bank — ends this year</p>
+  <p>
+    <a href="https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff">Continue reading&hellip;</a>
+  </p>
+
+## Palworld’s future includes crossplay, PVP, according to new roadmap
+ - [https://www.polygon.com/24048974/palworld-roadmap-2024-crossplay-pvp-raids](https://www.polygon.com/24048974/palworld-roadmap-2024-crossplay-pvp-raids)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T14:19:40+00:00
+
+<figure>
+      <img alt="Three Palworld characters fly on Pals" src="https://cdn.vox-cdn.com/thumbor/IWQMYTfaXD6FqPE2bHye5YjTikI=/0x0:3840x2160/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73080803/Palworld_Screenshot_09.0.jpeg" />
+        <figcaption>Image: Pocketpair</figcaption>
+    </figure>
+
+  <p>Developer Pocketpair outlines the future of Palworld</p>
+  <p>
+    <a href="https://www.polygon.com/24048974/palworld-roadmap-2024-crossplay-pvp-raids">Continue reading&hellip;</a>
+  </p>
+
+## A few of the best games Amazon Prime members can play for free
+ - [https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go](https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T14:14:03+00:00
+
+<figure>
+      <img alt="Key art of the free games available for Amazon Prime members in January " src="https://cdn.vox-cdn.com/thumbor/_abq40LgXwW3qVagkmrZjsKORJE=/0x0:1280x720/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/72395525/Jan_Prime_Gamnes.24.jpg" />
+        <figcaption>Image: Amazon</figcaption>
+    </figure>
+
+  <p>Atari Mania, Apico, Asteroids Recharged, and more are free for Prime subscribers for a limited time</p>
+  <p>
+    <a href="https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go">Continue reading&hellip;</a>
+  </p>
+
+## Hellblade took big swings for a AAA game, and now is the time to nab it for $3
+ - [https://www.polygon.com/gaming/2024/1/24/24048335/hellblade-senuas-sacrifice-game-story](https://www.polygon.com/gaming/2024/1/24/24048335/hellblade-senuas-sacrifice-game-story)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-01-24T14:00:00+00:00
+
+<figure>
+      <img alt="Senua standing in front of a burning tree in Hellblade: Senua’s Sacrifice." src="https://cdn.vox-cdn.com/thumbor/POZ7m02QbJF7fMdwMRIEpi3Frm4=/0x0:3840x2160/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73080744/hellblade_senua_tree.0.jpg" />
+        <figcaption>Image: Ninja Theory</figcaption>
+    </figure>
+
+
+  		<p>It might be almost 7 years old, but its complicated depiction of mental illness is worth experiencing, especially with a steep discount on Steam</p>
+  <p>
+    <a href="https://www.polygon.com/gaming/2024/1/24/24048335/hellblade-senuas-sacrifice-game-story">Continue reading&hellip;</a>
+  </p>
+
