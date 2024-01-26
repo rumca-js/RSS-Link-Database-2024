@@ -1,0 +1,19 @@
+# Source:Electronic Frontier Foundation, URL:https://www.eff.org/rss/updates.xml, language:en
+
+## Tell the FTC: It's Time to Act on the Right to Repair
+ - [https://www.eff.org/deeplinks/2024/01/tell-ftc-its-time-act-right-repair](https://www.eff.org/deeplinks/2024/01/tell-ftc-its-time-act-right-repair)
+ - RSS feed: https://www.eff.org/rss/updates.xml
+ - date published: 2024-01-25T23:22:19+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>Do you care about being able to fix and modify your stuff? Then it's time to speak up and tell the Federal Trade Commission that you care about your right to repair.</p>
+<p>As we have said before, you own what you buy—and you should be able do what you want with it. That should be the end of the story, whether we’re talking about a <a href="https://www.eff.org/deeplinks/2021/06/eff-files-amicus-brief-defending-right-repair-massachusetts">car</a>, <a href="https://www.vice.com/en/article/xgdazj/john-deere-hit-with-class-action-lawsuit-for-alleged-tractor-repair-monopoly">a tractor</a>, a <a href="https://www.cnet.com/tech/mobile/apples-new-self-service-repair-program-what-it-means-for-you-and-your-apple-devices/">smartphone, or a computer</a>. If something breaks, you should be able to fix it yourself, or choose who you want to take c
+
+## San Francisco: Vote No on Proposition E to Stop Police from Testing Dangerous Surveillance Technology on You
+ - [https://www.eff.org/deeplinks/2024/01/san-francisco-vote-no-proposition-e-stop-police-testing-dangerous-surveillance](https://www.eff.org/deeplinks/2024/01/san-francisco-vote-no-proposition-e-stop-police-testing-dangerous-surveillance)
+ - RSS feed: https://www.eff.org/rss/updates.xml
+ - date published: 2024-01-25T18:14:27+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p><span>San Francisco voters will confront a looming threat to their privacy and civil liberties on the March 5, 2024 ballot. If Proposition E passes, we can expect the San Francisco Police Department (SFPD) will use untested and potentially dangerous technology on the public, any time they want, for a full year without oversight. How do we know this? Because the </span><a href="https://www.sf.gov/sites/default/files/2023-10/20231017_PoliceDepartmentMeasure.pdf?_gl=1*1giu43p*_ga*MzE5ODgwNzU5LjE3MDU5NTgxNTg.*_ga_BT9NDE0NFC*MTcwNjEyNzY5OS4yLjAuMTcwNjEyNzY5OS4wLjAuMA..*_ga_63SCS846YP*MTcwNjEyNzY5OS4yLjAuMTcwNjEyNzY5OS4wLjAuMA.."><span>text of the proposition</span></a><span> explicitly permits this, and because a city government proponent of the measure has publicly said as much.</span></p>
+<p class="center-image"><span> </span></p>
+<div 
+

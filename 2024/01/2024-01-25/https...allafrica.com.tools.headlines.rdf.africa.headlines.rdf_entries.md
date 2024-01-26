@@ -1,0 +1,58 @@
+# Source:All Africa, URL:https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf, language:en
+
+## Africa: ICJ to Rule On South Africa's Request to Stop Israeli Attacks On Gaza
+ - [https://allafrica.com/stories/202401250308.html](https://allafrica.com/stories/202401250308.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-01-25T10:30:35+00:00
+
+[Premium Times] South Africa wants the ICJ, as a matter of extreme urgency, to ask Israel to immediately suspend its military operations in and against Gaza.
+
+## Africa: Afcon 2023 Review - Heavyweights Knocked Down, North Africans Feel Heat As Nsue Leads Scorers' Chart
+ - [https://allafrica.com/stories/202401250307.html](https://allafrica.com/stories/202401250307.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-01-25T10:19:53+00:00
+
+[Premium Times] Heavyweights were demystified, and a surety is that at least three teams ranked outside the top 10 will be in the quarterfinals.
+
+## Africa: Afcon 2023 - CAF Hammer Falls On Morocco, DR Congo
+ - [https://allafrica.com/stories/202401250183.html](https://allafrica.com/stories/202401250183.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-01-25T09:31:28+00:00
+
+[Premium Times] Following its investigation, the Disciplinary Board found both Morocco, DR Congo football federations, and Morocco's coach guilty
+
+## Africa: Tracing Family Roots Beyond the DNA
+ - [https://allafrica.com/stories/202401250111.html](https://allafrica.com/stories/202401250111.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-01-25T09:07:02+00:00
+
+[Africa Renewal] Three genealogists describe the brick walls and breakthroughs in researching African American ancestry
+
+## Africa: Health, Safety Compromised for People Living With Long Covid and Intimate Partner Violence
+ - [https://allafrica.com/stories/202401250055.html](https://allafrica.com/stories/202401250055.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-01-25T08:01:03+00:00
+
+[The Conversation Africa] What happens when a person is experiencing long COVID and intimate partner violence at the same time? There has been no attention paid to this question anywhere in the world since the onset of the pandemic in 2020.
+
+## Africa: Matchmaking for Green Cities? Accelerating Climate Finance in Urban Areas
+ - [https://allafrica.com/stories/202401250054.html](https://allafrica.com/stories/202401250054.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-01-25T07:58:50+00:00
+
+[IPS] By Liam O Connor, Francisco Martes Porto Macedo and Omar Siddique
+
+## Africa: Tiny Water-Walking Bugs Provide Scientists With Insights On How Microplastics Are Pushed Underwater
+ - [https://allafrica.com/stories/202401250053.html](https://allafrica.com/stories/202401250053.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-01-25T07:53:56+00:00
+
+[The Conversation Africa] Microplastics are tiny plastic particles that can cause big problems when they enter the water supply. One way my fluid dynamics lab explores microplastic movement is by studying how tiny water-walking insects are pushed underwater by raindrops.
+
+## Africa: Five Books About the Covid Pandemic to Look Out for in 2024
+ - [https://allafrica.com/stories/202401250049.html](https://allafrica.com/stories/202401250049.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-01-25T07:09:22+00:00
+
+[The Conversation Africa] Vi-fi, short for virus fiction, describes contemporary fiction that features the devastating events of world-changing outbreaks and epidemics. Rooted in science fiction, vi-fi draws on bio-thrilling realism and parallel worlds with multiple, dystopian possibilities.
+
