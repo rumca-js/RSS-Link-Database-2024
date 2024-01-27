@@ -1,0 +1,149 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Handling the Undead Is the Most Somber Zombie Movie You'll Ever See
+ - [https://gizmodo.com/handling-the-undead-norway-zombie-movie-sundance-review-1851200729](https://gizmodo.com/handling-the-undead-norway-zombie-movie-sundance-review-1851200729)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T23:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6cbd8ab5a41bb315ec5f4a9755ae81ad.jpg" /><p>Earlier in io9's 2024 <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/sundance-2024-genre-films-pedro-pascal-kristen-stewart-1851160191">Sundance Film Festival</a> coverage, we reviewed <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/in-a-violent-nature-sundance-horror-review-shudder-1851179970">In a Violent Nature</a>, one of the most unconventional <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-blood-soaked-history-of-slasher-movies-1732271150">slasher movies</a> ever made. That theme continues with Handling the Undead—a most unusual zombie movie, and one that offers proof (<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/10-recent-zombie-standouts-sadness-all-of-us-are-dead-1849447106">yet aga
+
+## Elon Musk's Brain Implant Company Neuralink Fined for 'Hazardous Materials' Violation
+ - [https://gizmodo.com/neuralink-hazardous-materials-fine-brain-implant-musk-1851202293](https://gizmodo.com/neuralink-hazardous-materials-fine-brain-implant-musk-1851202293)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T22:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/32b646f2f4fedc3b488a3d3c99d9ea6a.jpg" /><p>Elon Musk’s brain implant company Neuralink has been in more trouble with the federal government than previously known. A Reuters <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.reuters.com/technology/musk-brain-implant-company-violated-us-hazardous-material-transport-rules-2024-01-26/" rel="noopener noreferrer" target="_blank">report</a> published Friday says that the U.S. Department of Transportation recently fined Neuralink for violating rules governing the movement of hazardous materials. The DOT has since settled…</p><p><a href="https://gizmodo.com/neuralink-hazardous-materials-fine-brain-implant-musk-1851202293">Read more...</a></p>
+
+## James Cameron’s Aliens Is Getting Its Own Marvel What If...?
+ - [https://gizmodo.com/aliens-carter-burke-marvel-what-if-paul-reiser-cameron-1851202033](https://gizmodo.com/aliens-carter-burke-marvel-what-if-paul-reiser-cameron-1851202033)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T22:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/fae0b6a33892626b605236f6bc1525d7.jpg" /><p>We already knew the world of Alien was <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/alien-show-noah-hawley-movies-backstory-1851165819">returning both on TV</a> and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/new-alien-movie-timeframe-fede-alvarez-cailee-spaeny-1851053519">at the movies</a>. But now, it’s returning to the world of comics too, in a very unexpected way. Marvel just announced that Aliens, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/moms-the-word-on-the-anniversary-of-james-camerons-alie-1847281734">James Cameron’s 1986 sequel</a>, is getting a five-issue “What If...?” spin-off focusing on Carter Burke, the evil company man…</p><p><a href="https://gizmodo.com/aliens-carter-burke-marvel-what-if-paul-reiser-cameron
+
+## The History of Thrawn's Secret Invasion Weapon in Star Wars' Expanded Universe
+ - [https://gizmodo.com/star-wars-katana-fleet-thrawn-ahsoka-eu-disney-1851202045](https://gizmodo.com/star-wars-katana-fleet-thrawn-ahsoka-eu-disney-1851202045)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T21:00:20+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bf0df6c50831ebda63bc79089c630a24.jpg" /><p>Grand Admiral Thrawn’s return at the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/ahsoka-spoilers-burning-question-star-wars-disney-plus-1850900191">climax of Ahsoka</a> heralds the beginning of a Star Wars story long in the making—whatever <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dave-filoni-jonathan-favreau-star-wars-movie-cameos-1850386118">Dave Filoni has planned</a> in adapting one of the most famous stories in the old Expanded Universe, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/how-good-are-the-best-star-wars-books-really-1794126129">Heir to the Empire</a>, across TV shows and even a movie. But another element from that saga could…</p><p><a href="https://gizmodo.com/star-wars-katana-fleet-thrawn-ahsoka-eu-disney-18
+
+## The Jig is Up: NSA Is Buying Your Browser History, Says U.S. Senator
+ - [https://gizmodo.com/nsa-buying-your-browser-history-says-u-s-senator-1851201650](https://gizmodo.com/nsa-buying-your-browser-history-says-u-s-senator-1851201650)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T20:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6bd109d6fa56f6a87fd06523a66efb8b.jpg" /><p>The National Security Agency (NSA) is purchasing Americans’ internet records, according to government documents made public on Friday. U.S. Senator Ron Wyden, a Democrat from Oregon, wrote <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.wyden.senate.gov/imo/media/doc/signed_wyden_letter_to_dni_re_nsa_purchase_of_domestic_metadata_and_ftc_order_on_data_brokers_with_attachments.pdf" rel="noopener noreferrer" target="_blank">a letter</a> claiming the NSA goes through backchannel avenues to purchase your browsing records and location data, which government…</p><p><a href="https://gizmodo.com/nsa-buying-your-browser-history-says-u-s-senator-1851201650">Read more...</a></p>
+
+## A Rare but Deadly Fungal Infection Is Cropping Up in More States
+ - [https://gizmodo.com/blastomycosis-cases-us-vermont-fungal-diseases-1851201569](https://gizmodo.com/blastomycosis-cases-us-vermont-fungal-diseases-1851201569)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T20:02:57+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ff8de0d3cf14cb002aea80f40790c099.jpg" /><p>A dangerous fungal infection has seeded its spores farther across the United States than previously assumed. Research out this week details evidence that cases of blastomycosis are regularly showing up in Vermont, outside of the established areas of the U.S. where it’s thought to be endemic.</p><p><a href="https://gizmodo.com/blastomycosis-cases-us-vermont-fungal-diseases-1851201569">Read more...</a></p>
+
+## Timothée Chalamet Is Self-Conscious About His Sand Worm Riding in Dune 2
+ - [https://gizmodo.com/dune-2-sandworm-timothee-chalamet-zendaya-scifi-warners-1851201502](https://gizmodo.com/dune-2-sandworm-timothee-chalamet-zendaya-scifi-warners-1851201502)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c9403bc7ee08f684d835e68c28705e7c.jpg" /><p>It’s the moment everyone has been waiting for. To see Timothée Chalamet’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dune-part-2-trailer-cinemacon-timothee-chalamet-zendaya-1850374953">Paul Atreides ride a sandworm</a> in Denis Villeneuve’s Dune. The moment was teased at the very end of the first film and now, in <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dune-2-trailer-timothee-chalamet-zendaya-warner-bros-1851092841">Dune: Part Two</a>, it will become a reality. If only Chalamet <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dune-2-popcorn-bucket-sandworm-holy-crap-wtf-1851200572">knew where to put his arms.</a></p><p><a href="https://gizmodo.com/dune-2-sandworm-timothee-chalamet-zendaya-scifi-warners-1851201502">Read more.
+
+## The Moogai Puts a Monstrous Spin on Generational Trauma
+ - [https://gizmodo.com/moogai-australian-folk-horror-review-sundance-festival-1851194931](https://gizmodo.com/moogai-australian-folk-horror-review-sundance-festival-1851194931)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6437f8eba44272515d1df2eb0635ce14.jpg" /><p>A modern <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/interview-bishal-dutta-folk-horror-film-it-lives-inside-1850851810">folk horror tale</a> that draws upon <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/australias-secret-history-as-a-white-utopia-1739916322">Australia’s troubled history</a> to enhance its monstrous elements, The Moogai also includes an exploration of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/horror-pregnancy-movies-rosemarys-baby-dead-ringers-1850309608">postpartum depression</a>. Unfortunately, its one-dimensional plot ultimately detracts from the elements that make it an otherwise unique story.</p><p><a href="https://gizmodo.com/moogai-australian-folk-horror-review-sundance-festival-1851194931">Read more.
+
+## Nintendo 'Switch 2' With an 8-inch LCD Display Could be Coming Later This Year
+ - [https://gizmodo.com/nintendo-switch-2-8inch-display-lcd-console-1851200285](https://gizmodo.com/nintendo-switch-2-8inch-display-lcd-console-1851200285)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ffcc92756d97907ba0494f56b3c4629f.jpg" /><p>The next version of the Nintendo Switch might be released later this year and feature an 8-inch LCD display, based on <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.bloomberg.com/news/articles/2024-01-26/switch-2-nintendo-s-next-gen-console-to-have-8-inch-lcd-screen-omdia-says?leadSource=uverify%20wall" rel="noopener noreferrer" target="_blank">reporting from Bloomberg.</a></p><p><a href="https://gizmodo.com/nintendo-switch-2-8inch-display-lcd-console-1851200285">Read more...</a></p>
+
+## Satellites Are Getting a Constellation of Traffic Cops
+ - [https://gizmodo.com/northstar-spire-satellites-space-situational-awareness-1851198300](https://gizmodo.com/northstar-spire-satellites-space-situational-awareness-1851198300)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/aaec019444a9cbe320663986b97a7118.png" /><p>Earth’s orbit will be monitored by a watchful set of robotic eyes, the first commercial constellation of satellites with the ability to keep track of objects in space to avoid collisions between spacecraft.</p><p><a href="https://gizmodo.com/northstar-spire-satellites-space-situational-awareness-1851198300">Read more...</a></p>
+
+## Super7's Awesome Godzilla Minus One Figure Is Getting a Black and White Version, Too
+ - [https://gizmodo.com/godzilla-minus-one-figure-black-white-toho-super7-kaiju-1851199202](https://gizmodo.com/godzilla-minus-one-figure-black-white-toho-super7-kaiju-1851199202)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cfa9cf6db7dc561633c605eea20d1ead.jpg" /><p>The world was already a pretty excellent place for Godzilla fans considering a) <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/godzilla-minus-one-review-toho-kaiju-1851046649">Godzilla Minus One exists</a> and is in theaters, and b) its black and white version, Godzilla Minus One/Minus Color, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/godzilla-minus-one-black-and-white-us-release-date-1851172755">is also in now in theaters for a limited time</a>. One thing could make it better though. Maybe, say, a new <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/super7-godzilla-minus-one-ultimates-price-release-date-1851058355">limited edition…</a></p><p><a href="https://gizmodo.com/godzilla-minus-one-figure-black-white-toho-super7-kaiju-18511
+
+## The Most Precious Human Relics Left in Space
+ - [https://gizmodo.com/space-history-most-important-human-objects-1849950095](https://gizmodo.com/space-history-most-important-human-objects-1849950095)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T15:17:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/epumtiwsrkiti3w77ojx.jpg" /><p>Being the space nerd that I am, I often imagine a museum  filled with the most important objects ever sent to space. We couldn’t possibly build a place like this, but we can speculate as to which human artifacts deserve a place in our imaginary spaceflight museum. </p><p><a href="https://gizmodo.com/space-history-most-important-human-objects-1849950095">Read more...</a></p>
+
+## George Carlin’s Family Takes This AI Bullsh*t to Court
+ - [https://gizmodo.com/george-carlin-family-sues-will-sasso-ai-standup-1851200265](https://gizmodo.com/george-carlin-family-sues-will-sasso-ai-standup-1851200265)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7742349172eb0c0e8e6cb5256f1147d1.jpg" /><p>Earlier in the month, a comedy special featuring an <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dumbest-ai-student-robot-george-carlin-standup-1851164038">AI-generated George Carlin</a> showed up on YouTube. The jokes weren’t that great and there were questions about using a dead person’s likeness without permission, and on Thursday, a lawsuit from the legendary comedian’s family made it clear that this isn’t a laughing…</p><p><a href="https://gizmodo.com/george-carlin-family-sues-will-sasso-ai-standup-1851200265">Read more...</a></p>
+
+## Samsung Has Made Repairing the Galaxy S24 Ultra a Breeze
+ - [https://gizmodo.com/samsung-galaxy-s24-ultra-repairs-diy-easy-android-1851200225](https://gizmodo.com/samsung-galaxy-s24-ultra-repairs-diy-easy-android-1851200225)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f2328f7661d6a4178e024bf7ff7e9c72.jpg" /><p>The <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/samsung-galaxy-s24-performance-benchmarks-android-1851181931">Samsung Galaxy S24 Ultra has a lot going for it</a> just in terms of the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/samsung-galaxy-s24-ai-paid-two-years-1851175759">smorgasbord of AI software</a> it’s packing, but under the hood, it’s also a very interesting specimen. It didn’t take long before the first DIYers pried back the shell on Samsung’s latest premium phone, and from the looks of things, the South Korean…</p><p><a href="https://gizmodo.com/samsung-galaxy-s24-ultra-repairs-diy-easy-android-1851200225">Read more...</a></p>
+
+## Thunderbolts Might Be Close to Finding a Steven Yeun Replacement
+ - [https://gizmodo.com/thunderbolts-marvel-lewis-pullman-steven-yeun-mcu-1851198209](https://gizmodo.com/thunderbolts-marvel-lewis-pullman-steven-yeun-mcu-1851198209)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4e7451dc45e285a98f5b68764ae089e5.png" /><p>Netflix wants to make a sequel to Leo already. Go behind the scenes on Ghosbusters: The Frozen Empire. Plus, Wolf Pack will howl no more at Paramount. Spoilers, away!<br /></p><p><a href="https://gizmodo.com/thunderbolts-marvel-lewis-pullman-steven-yeun-mcu-1851198209">Read more...</a></p>
+
+## 7 Endangered U.S. Animals That Don't Get Enough Love
+ - [https://gizmodo.com/little-known-endangered-species-usa-1850080343](https://gizmodo.com/little-known-endangered-species-usa-1850080343)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T14:39:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2fe6fa48c191d4be19a6abdcbd59a514.jpg" /><p>A conservation group released a report in 2023finding that <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/endangered-species-natureserve-extinction-us-1850077840">more than 40% of all animal species in the U.S. are at risk of going extinct</a>. Most in danger were small, not-so-exciting animals—snails, crayfish, mussels—that nevertheless make up key cornerstones of our ecosystems.<br /></p><p><a href="https://gizmodo.com/little-known-endangered-species-usa-1850080343">Read more...</a></p>
+
+## Alienware’s Gorgeous 32-Inch Curved QD-OLED Is Like a Massage for My Eyeballs
+ - [https://gizmodo.com/alienware-32-inch-curved-qd-oled-hands-on-gaming-1851198391](https://gizmodo.com/alienware-32-inch-curved-qd-oled-hands-on-gaming-1851198391)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T13:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7efc5670c9267ff6930ce8105df511c2.jpg" /><p>If you’ve still not had a chance to experience a real, large gaming OLED display, then jumping in front of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/alienware-qd-oled-32-inch-4k-240hz-1851137764">Alienware’s AW3225QF QD-OLED monitor</a> is akin to submerging your eyes in a warm bath of color. It’s a pleasant feeling, the kind of thing you hope to get from an ultra-premium device. Like a massage, the first…</p><p><a href="https://gizmodo.com/alienware-32-inch-curved-qd-oled-hands-on-gaming-1851198391">Read more...</a></p>
+
+## An Ambitious Mission to Venus Is Set to Launch in 2031
+ - [https://gizmodo.com/envision-venus-orbiter-mission-esa-launch-date-1851196368](https://gizmodo.com/envision-venus-orbiter-mission-esa-launch-date-1851196368)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T13:02:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4a80789eb43dd382fc0aee43d1b19ebb.png" /><p>The EnVision mission to Venus was officially adopted by the European Space Agency on Thursday, which means the organization has committed to getting the spacecraft Venus-bound by the early 2030s.</p><p><a href="https://gizmodo.com/envision-venus-orbiter-mission-esa-launch-date-1851196368">Read more...</a></p>
+
+## Here's Why You Shouldn't Mess With a Wild Iguana That Wants Your Cake
+ - [https://gizmodo.com/heres-why-you-shouldnt-mess-with-a-wild-iguana-that-wan-1851197132](https://gizmodo.com/heres-why-you-shouldnt-mess-with-a-wild-iguana-that-wan-1851197132)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T12:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1c08a711a296b94a30540adffb1e102f.jpg" /><p>Welcome to another installment of Gizmodo’s Animal Crime of the Week. Last week, we admired the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/trash-stealing-cockatoos-parrots-australia-1851179761">trash-stealing parrots of Australia</a>. This week features a bitey, cake-stealing iguana that added injury to insult by giving its victim a nasty, rare infection.</p><p><a href="https://gizmodo.com/heres-why-you-shouldnt-mess-with-a-wild-iguana-that-wan-1851197132">Read more...</a></p>
+
+## David Lynch's Dune Is Bringing Its Glorious Weirdness Back to Theaters
+ - [https://gizmodo.com/dune-1984-david-lynch-theater-rerelease-fathom-events-1851198890](https://gizmodo.com/dune-1984-david-lynch-theater-rerelease-fathom-events-1851198890)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T00:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/60df56c355ceea00d5e9bc139abd3c5d.jpg" /><p>The excitement over <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dune-2-trailer-timothee-chalamet-zendaya-warner-bros-1851092841">Dune: Part Two</a>’s March 1 arrival is building—so much so that other movies are trying to capitalize on it. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/tenet-rerelease-dune-part-2-imax-christopher-nolan-wb-1851194528">Christopher Nolan’s Tenet is returning to theaters</a> accompanied by a special tease of Denis Villeneuve’s sequel—but first, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/david-lynch-dune-making-of-book-excerpt-frank-herbert-1850763825">David Lynch’s take on Dune</a> will be getting its due.</p><p><a href="https://gizmodo.com/dune-1984-david-lynch-theater-rerelease-fathom-events-1851
+
+## The Apple iPhone Is Becoming More Like Android When it Comes to Cloud Gaming
+ - [https://gizmodo.com/apple-iphone-gamestreaming-nvidia-android-dma-1851198535](https://gizmodo.com/apple-iphone-gamestreaming-nvidia-android-dma-1851198535)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-01-26T00:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2dd3c2817f8eb2c6feb14b3cb4bd3fcc.jpg" /><p>Apple is granting more access to its manicured walled garden to comply with the Digital Markets Act (DMA) in the European Union (EU). In a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/" rel="noopener noreferrer" target="_blank">press release</a>, the company announced a heaping of forthcoming iOS, Safari, and the App Store changes, including support for apps from third-party app stores and the ability to set…</p><p><a href="https://gizmodo.com/apple-iphone-gamestreaming-nvidia-android-dma-1851198535">Read more...</a></p>
+

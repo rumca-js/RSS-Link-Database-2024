@@ -1,0 +1,23 @@
+# Source:Dicebreaker Latest Articles Feed, URL:https://www.dicebreaker.com/feed, language:en
+
+## Marvel Multiverse creators on staying true to the comics, going behind the mask of superheroes and making ‘Avengers moments’ in the tabletop RPG
+ - [https://www.dicebreaker.com/games/marvel-multiverse-role-playing-game/interview/marvel-multiverse-creators-faithful-to-comics-avengers-moments-in-tabletop-rpg?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/marvel-multiverse-role-playing-game/interview/marvel-multiverse-creators-faithful-to-comics-avengers-moments-in-tabletop-rpg?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-01-26T13:37:34+00:00
+
+<img src="https://assetsio.reedpopcdn.com/marvel-multiverse-rpg-artwork-kang-sourcebook-kang-the-conquerer.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>2023 marked the beginning of a new era for the Marvel Cinematic Universe, laying down the groundwork for the fifth phase of the sprawling franchise&rsquo;s ever-evolving superhero roster and converging storylines. Last year wasn&rsquo;t only a notable year for Marvel on-screen, but on the tabletop too, as the comic-book giant fully launched its latest tabletop RPG (and first <a href="https://www.dicebreaker.com/games/marvel-heroic-roleplaying/feature/marvel-heroic-roleplaying-greatest-comic-book-rpg">in over a decade</a>): the Marvel Multiverse Role-Playing Game.</p><p>In keeping with the years-long storytelling of its big-screen counterparts, Marvel Multiverse took its time to come to the table, with the game <a href="https://www.dicebreaker.com/games/marvel-multiverse-role-
+
+## This mystery-solving RPG is a Scooby-Doo game in everything but name
+ - [https://www.dicebreaker.com/games/the-mystery-business/news/mystery-business-rpg?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/the-mystery-business/news/mystery-business-rpg?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-01-26T12:31:16+00:00
+
+<img src="https://assetsio.reedpopcdn.com/mystery-business-rpg-artwork-2.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A new tabletop roleplaying game lets players form their own group of mystery-hunters in the vein of the iconic animated franchise, Scooby-Doo.</p><p>The Mystery Business is a new <a href="https://www.dicebreaker.com/categories/roleplaying-game/best-games/best-tabletop-rpgs">tabletop RPG</a> that has players investigating various &lsquo;haunted&rsquo; locations in search of the truth behind the apparent horror happenings. In classic Scooby-Doo fashion, players take the role of a group of friends &ndash; each bringing their own skills and approaches to the investigation &ndash; and their unusual companion, as they find themselves escaping from scary encounters with supposedly spooky creatures and occurrences.</p><p>Unlike in the many series and iterations of Scooby-Doo, the scary goings-on in The Mystery Busine
+
+## Sci-fi MMO EVE Online warps to the tabletop with massive 4X strategy board game
+ - [https://www.dicebreaker.com/games/eve-war-for-new-eden/news/eve-online-mmo-becomes-massive-board-game?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/eve-war-for-new-eden/news/eve-online-mmo-becomes-massive-board-game?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-01-26T11:42:32+00:00
+
+<img src="https://assetsio.reedpopcdn.com/eve-online-board-game-full-key-art-header.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Massive space MMO EVE Online will trade keyboard for cardboard in the upcoming 4X strategy board game EVE: War for New Eden. Icelandic publisher CCP Games has partnered with miniature expert Titan Forge Games to produce a sprawling translation that strives to capture the politicking and resource management of the storied video game.</p><p><a href="https://www.dicebreaker.com/games/eve-online-the-board-game/news/eve-online-board-game-announced">EVE: War for New Eden</a> has launched a Kickstarter campaign with hopes of shipping out boxes by the end of 2024. While there&rsquo;s no way to capture the famous (and often infamous) exploits of its player base in a single box, Titan Forge will attempt to give tabletop players a vertical slice of EVE&rsquo;s factional conflict, exploration and economic spar
+
