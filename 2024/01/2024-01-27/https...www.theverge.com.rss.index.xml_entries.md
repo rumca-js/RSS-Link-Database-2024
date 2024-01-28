@@ -1,0 +1,102 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## X appears to block Taylor Swift searches... barely
+ - [https://www.theverge.com/2024/1/27/24052841/taylor-swift-search-blocked-x-twitter-ai-images](https://www.theverge.com/2024/1/27/24052841/taylor-swift-search-blocked-x-twitter-ai-images)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-27T19:08:12+00:00
+
+<figure>
+      <img alt="Twitter’s “X” logo on a purple and blue background" src="https://cdn.vox-cdn.com/thumbor/DIUy-hfFwSShVZfNaTk9KYQjDcE=/1x0:3001x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73090220/STK160_X_Twitter_0010.0.jpg" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="O9u52W">X appears to have blocked searches for Taylor Swift as a reaction to a recent trend of graphic AI fakes of the world-famous recording artist being <a href="https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending">posted to the site</a>. Right now, if you search “Taylor Swift” or “Taylor Swift AI” on X, formerly Twitter, you may see a “Something went wrong” message. After <em>Platformer</em>’s Casey Newton <a href="https://www.threads.net/@crumbler/post/C2nOH02PUuM">posted</a> about the apparent block, we tried some other searches. If X is intentionally blocking searches for illicit AI-generated images of Swif
+
+## Microsoft tests Windows 11 with a built-in fix for bad meeting audio
+ - [https://www.theverge.com/2024/1/27/24052759/microsoft-windows-background-noise-suppression-voice-clarity-zoom-teams-meetings-surface-x64-arm](https://www.theverge.com/2024/1/27/24052759/microsoft-windows-background-noise-suppression-voice-clarity-zoom-teams-meetings-surface-x64-arm)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-27T17:58:44+00:00
+
+<figure>
+      <img alt="Windows logo on a blue background with several vertical lines flanking it." src="https://cdn.vox-cdn.com/thumbor/14TS8UXT6WOexzKPwRBiqvtsJ_Q=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73090040/acastro_180504_1777_microsoft_0002.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="i6HPMP">Microsoft released a new <a href="https://click.linksynergy.com/deeplink?id=nOD%2FrLJHOac&amp;mid=24542&amp;u1=verge&amp;murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsoftware-download%2Fwindowsinsiderpreviewiso" rel="sponsored nofollow noopener" target="_blank">Canary test build</a> for Windows yesterday that brings the company’s Voice Clarity feature, which previously <a href="https://www.theverge.com/2022/4/5/23011228/microsoft-windows-11-eye-contact-automatic-framing-background-blur">only worked on Surface devices</a>, to all Windows machines, including those using ARM CPUs. The company
+
+## Nomad’s 3-in-1 MagSafe Charger and the Sonos One are down to their best prices
+ - [https://www.theverge.com/2024/1/27/24051664/nomad-base-max-3-in-1-charger-samsung-frame-tv-sonos-one-speaker-deal-sale](https://www.theverge.com/2024/1/27/24051664/nomad-base-max-3-in-1-charger-samsung-frame-tv-sonos-one-speaker-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-27T16:20:59+00:00
+
+<figure>
+      <img alt="An iPhone, Apple Watch, and AirPods case charging on a black Nomad Base One Max 3-in-1 charger." src="https://cdn.vox-cdn.com/thumbor/Ot5VNccK5hZ6Zd9U-j2sfqK-ReI=/1205x833:5001x3364/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73089864/Nomad_BaseOneMax_07.0.jpg" />
+        <figcaption><em>Nomad’s minimalist Base One Max 3-in-1 is on sale for $95.</em> | Image: Nomad</figcaption>
+    </figure>
+
+  <p id="Zc2KPX">Fancy phone chargers are nice, but they’re often too expensive to justify the cost. <strong>Nomad’s Base One Max 3-in-1 </strong>is one of those rare unicorns that delivers a lot of value for your money, however, thus making it worth the splurge. After all, the device can simultaneously charge a MagSafe-compatible phone, your Apple Watch, and a pair of AirPods (or another Qi-compatible device) — that’s something not even <a href="https://www.theverge.com/2023/12/20/24009185/nomad-stand-qi2-wireless-charger-price-fast-magsafe">Nomad’s fort
+
+## Google’s Lumiere brings AI video closer to real than unreal
+ - [https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika](https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-27T15:30:00+00:00
+
+<figure>
+      <img alt="Single frame from a video showing multiple AI-generated clips" src="https://cdn.vox-cdn.com/thumbor/eueCMhjgVlkUj2t7Ya_obeDCwfc=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73089772/videoframe_42397.0.png" />
+        <figcaption><em>Still frame from a teaser reel of Lumiere clips</em> | Image: Google</figcaption>
+    </figure>
+
+  <p id="067MSJ">Google’s new video generation AI model <a href="https://lumiere-video.github.io/">Lumiere</a> uses a <a href="https://arxiv.org/abs/2401.12945">new diffusion model called</a> Space-Time-U-Net, or STUNet, that figures out where things are in a video (space) and how they simultaneously move and change (time). <a href="https://arstechnica.com/information-technology/2024/01/googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals/"><em>Ars Technica</em></a><em> </em>reports this method lets Lumiere create the video in one process instead of putting smaller still fram
+
+## This MIDI guitar is my favorite new way to make music
+ - [https://www.theverge.com/24049757/jamstik-classic-midi-guitar-review](https://www.theverge.com/24049757/jamstik-classic-midi-guitar-review)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-27T14:30:00+00:00
+
+<figure>
+      <img alt="The Jamstik Classic sitting on a couch, with its USB-A cable hanging over it." src="https://cdn.vox-cdn.com/thumbor/7DYfS-GrrZEyWuKx9Ko-sifZrjg=/0x2:2048x1367/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73089640/246988_Jamstik_Classic_review_AMarino_001.0.jpg" />
+        <figcaption>The Jamstik Classic.</figcaption>
+    </figure>
+
+  <p id="tPGAnH">For many years now, my Stratocaster has been a memento hanging on my wall representing the time before I got a MacBook. I swapped my electric guitar out for a 25-key keyboard controller and a library of virtual instruments once my career headed to podcasting. In Logic Pro or Ableton, the Stratocaster could only sound like a Stratocaster, but the MIDI keyboard could be anything I needed it to be for my music or sound design work.</p>
+<p id="HjNGmi">But recently, I bought a new guitar that offers those very same strengths: <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A
+
+## How to keep track of friends and family on Android
+ - [https://www.theverge.com/24051696/android-google-location-track-how-to](https://www.theverge.com/24051696/android-google-location-track-how-to)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-27T14:00:00+00:00
+
+<figure>
+      <img alt="Vector collage featuring the Google Maps logo." src="https://cdn.vox-cdn.com/thumbor/hnEXYMj3UDZHY68hgk59EDQkiCc=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73089581/HT012_Google_Maps.0.png" />
+        <figcaption>Image: The Verge</figcaption>
+    </figure>
+
+  <p id="bx7xBq">Many of us are hyperaware of the multitude of ways <a href="https://www.theverge.com/21401280/android-101-location-tracking-history-stop-how-to">we can be tracked</a> with modern technology, so you may feel like you don’t need to add another to the mix. But knowing the whereabouts of trusted friends and family can be useful a lot of the time, and it’s something you can do from your Android phone.</p>
+<p id="dfI4cZ">It’s worth saying at the start that you stay in control of who can see you and when — and you can stop location sharing at any time if someone in your life goes from being trusted to distrusted. </p>
+<p id="om6Prv">I’ve used this many times to fig
+
+## Here are the best Apple Watch deals right now
+ - [https://www.theverge.com/21289209/best-apple-watch-deals](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-27T01:03:20+00:00
+
+<figure>
+      <img alt="Woman holding a purse while modeling the Stripes watchface on the Apple Watch SE (2022)" src="https://cdn.vox-cdn.com/thumbor/0HWF-qObVE-YjFHAlIeCdaLu2kQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/66976955/226292_Apple_Watch_SE_PHO_akrales_0047.34.jpg" />
+        <figcaption><em>The entry-level Apple Watch SE is a gateway smartwatch if there ever was one.</em> | Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="iTARMr"><em>Editor’s note: Apple was recently banned from selling the Apple Watch Series 9 and Ultra 2 due to a </em><a href="https://www.theverge.com/24006607/apple-watch-series-9-ultra-2-itc-import-ban"><em>patent dispute</em></a><em> with medical device maker Masimo. A federal appeals court recently stayed the resulting import ban, however, forcing Apple to begin </em><a href="https://www.theverge.com/2024/1/17/24042395/apple-watch-ultra-2-series-9-ban-blood-oxygen-stores"><em>selling bo
+
+## Satya Nadella says the explicit Taylor Swift AI fakes are ‘alarming and terrible’
+ - [https://www.theverge.com/2024/1/26/24052196/satya-nadella-microsoft-ai-taylor-swift-fakes-response](https://www.theverge.com/2024/1/26/24052196/satya-nadella-microsoft-ai-taylor-swift-fakes-response)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-01-27T00:30:20+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/IN5BHa8egd8-HofHt96iSpbyt9c=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73088773/VRG_Illo_STK178_L_Normand_SatyaNadella_Neutral.0.jpg" />
+        <figcaption>Laura Normand / The Verge</figcaption>
+    </figure>
+
+  <p id="2LeYqh">Microsoft CEO Satya Nadella has responded to a controversy over <a href="https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending">sexually explicit AI-made fake images of Taylor Swift</a>. In an interview with <em>NBC Nightly News </em>that will air next Tuesday, Nadella calls the proliferation of nonconsensual simulated nudes “alarming and terrible,” telling interviewer Lester Holt that “I think it behooves us to move fast on this.”</p>
+<p id="RTtyrn">In a transcript distributed by NBC ahead of the January 30th show, Holt asks Nadella to react to the internet “exploding with fake, and I emphasize fake, sexually explicit images of 
+
