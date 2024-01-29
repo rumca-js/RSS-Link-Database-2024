@@ -1,0 +1,79 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## He’s not just designing guitar pedals — he’s bringing new sounds to life
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/he-s-not-just-designing-guitar-pedals-he-s-bringing-new-sounds-to-life-1.7097139?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/he-s-not-just-designing-guitar-pedals-he-s-bringing-new-sounds-to-life-1.7097139?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-28T16:30:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/9/778/pedals_new_new_z.jpg" title="" width="620" /><p>In a St. John’s basement, Mark Bennett is bringing new sounds into the world through his custom-designed guitar pedals. See how it’s done, and hear how a songwriter like Nick Earle can be inspired by one of Bennett’s creations.</p>
+
+## Affordability remains centre stage as federal parties gear up for spring sitting of Parliament
+ - [https://www.cbc.ca/news/politics/affordability-issues-parliament-return-1.7097448?cmp=rss](https://www.cbc.ca/news/politics/affordability-issues-parliament-return-1.7097448?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-28T15:46:00+00:00
+
+<img alt="Conservative Leader Pierre Poilievre rises during question period in the House of Commons on Parliament Hill in Ottawa on Wednesday, Dec. 13, 2023. " height="349" src="https://i.cbc.ca/1.7082113.1705080881!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/commons-20231213.jpg" title="Conservative Leader Pierre Poilievre rises during question period in the House of Commons on Parliament Hill in Ottawa on Wednesday, Dec. 13, 2023. " width="620" /><p>Canadians' struggle with the cost of living is high on the agenda for political parties as they prepare to return to regular House of Commons sittings this week.</p>
+
+## Byelection called for Durham, Ont., seat vacated by Erin O'Toole retirement
+ - [https://www.cbc.ca/news/politics/durham-byelection-called-1.7097055?cmp=rss](https://www.cbc.ca/news/politics/durham-byelection-called-1.7097055?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-28T12:10:55+00:00
+
+<img alt="Elections Canada workers place signage at the Halifax Convention Centre as they prepare for the polls to open in the federal election in Halifax on Monday, Sept. 20, 2021." height="349" src="https://i.cbc.ca/1.6765199.1677763032!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/fedelxn-vote-20210920.jpg" title="Canada&apos;s cyberspy agency, the Communications Security Establishment, said in its annual report that it had launched a defensive operation to protect the 2021 federal election," width="620" /><p>Prime Minister Justin Trudeau announced Sunday a byelection for the riding of Durham, Ont., will be held on March 4.</p>
+
+## Un-bee-lievable: B.C. honey wins best in show at U.S. competition
+ - [https://www.cbc.ca/news/canada/british-columbia/b-c-honey-best-honey-in-north-america-1.7094651?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/b-c-honey-best-honey-in-north-america-1.7094651?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-28T09:00:00+00:00
+
+<img alt="A woman dressed in beekeeping outfit holding a frame with colony of bees." height="349" src="https://i.cbc.ca/1.7095362.1706391417!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/honey-bee-zen.jpg" title="Amanda Goodman Lee at her Creston-based apiary. She and her husband Jeff Lee own Honey Bee Zen Apiaries.  " width="620" /><p>Amanda Goodman Lee and her husband, Jeff Lee own Honey Bee Zen apiaries, which won several awards at the North American Honey Show and American Honey Show.</p>
+
+## Jannik Sinner rallies to win Australian Open final, clinches 1st major tennis title
+ - [https://www.cbc.ca/sports/tennis/australian-open-2024-roundup-jan-28-1.7097285?cmp=rss](https://www.cbc.ca/sports/tennis/australian-open-2024-roundup-jan-28-1.7097285?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-28T07:12:02+00:00
+
+<img alt="A men&apos;s tennis player waves to the crowd." height="349" src="https://i.cbc.ca/1.7097310.1706446051!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1959671724.jpg" title="Italy&apos;s Jannik Sinner celebrates victory against Russia&apos;s Daniil Medvedev during their men&apos;s singles final match of the Australian Open tennis tournament in Melbourne on Sunday." width="620" /><p>Jannik Sinner rallied from two sets down to take the Australian Open final from Daniil Medvedev 3-6, 3-6, 6-4, 6-4, 6-3 on Sunday in Melbourne and clinch his first Grand Slam title.</p>
+
+## Putting our EV charging network to the test; Calling all Marketplace superfans! CBC's Marketplace cheat sheet
+ - [https://www.cbc.ca/news/business/marketplace-cheat-sheet-jan28-1.7095778?cmp=rss](https://www.cbc.ca/news/business/marketplace-cheat-sheet-jan28-1.7095778?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-28T07:00:00+00:00
+
+<img alt="An EV charging logo on a road." height="349" src="https://i.cbc.ca/1.7094678.1706206815!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ev-charging-stations.jpg" title="The federal government has said expanding the electric vehicle charging network is key to meeting the country&apos;s climate goals, but an investigation by CBC&apos;s Marketplace has exposed a wide range in pricing as well as inconsistencies in performance and reliability at public charging stations." width="620" /><p>CBC's Marketplace rounds up the consumer and health news you need from the week.</p>
+
+## What's in a name? Why Nova Scotia has many duplicate place names
+ - [https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-duplicate-place-names-1.7090053?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-duplicate-place-names-1.7090053?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-28T05:00:00+00:00
+
+<img alt="A side-by-side image shows a sign welcoming people to Cole Harbour, Nova Scotia, while the other part of the image shows a picturesque seaside community that is also called Cole Harbour." height="349" src="https://i.cbc.ca/1.7092258.1706033182!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cole-harbour-n-s.jpg" title="One Cole Harbour, N.S., is well known for the hockey superstars who grew up in the community, while Nova Scotia&apos;s other Cole Harbour is a picturesque seaside community." width="620" /><p>Cole Harbour, N.S., might be the home of Sidney Crosby. Or it might be in Guysborough County. Among Nova Scotia's roughly 2,000 communities, there are 78 names that are duplicated, accounting for 178 communities.</p>
+
+## For professional sports, climate change could create a whole new ball game
+ - [https://www.cbc.ca/news/climate/extreme-winter-weather-sports-1.7094593?cmp=rss](https://www.cbc.ca/news/climate/extreme-winter-weather-sports-1.7094593?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-28T04:00:00+00:00
+
+<img alt="A row of seats sit partially cleared of snow at Highmark Stadium before an NFL football game in Buffalo, N.Y." height="349" src="https://i.cbc.ca/1.7094808.1706210911!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/steelers-bills-football.jpg" title="Extreme winter weather, including heavy snowfall and high winds, forced the Buffalo Bills to reschedule their game on Jan. 13, 2024." width="620" /><p>Research shows cold weather affects sports equipment, as well as athletic performance. If extreme cold weather becomes more common, how will it affect the future of professional sports?</p>
+
+## Get control of chronic back pain with a full spectrum of therapy options, experts say
+ - [https://www.cbc.ca/radio/whitecoat/get-control-of-chronic-back-pain-with-a-full-spectrum-of-therapy-options-experts-say-1.7094501?cmp=rss](https://www.cbc.ca/radio/whitecoat/get-control-of-chronic-back-pain-with-a-full-spectrum-of-therapy-options-experts-say-1.7094501?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-28T04:00:00+00:00
+
+<img alt="A man hunches over in visible pain, clutching his back while stabilizing his body against a desk." height="349" src="https://i.cbc.ca/1.5315281.1706194940!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/posture-fixes-for-back-pain-and-stress.jpg" title="" width="620" /><p>Millions of people worldwide suffer from chronic back pain, often not knowing if it will ever improve. Physicians Brenda Lau andTed Findlay say successful treatment requires both education and rehabilitation.</p>
+
+## In New York City, centuries worth of Indigenous history is being uncovered — and celebrated
+ - [https://www.cbc.ca/radio/unreserved/unmapped-new-york-city-history-1.7094597?cmp=rss](https://www.cbc.ca/radio/unreserved/unmapped-new-york-city-history-1.7094597?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-28T04:00:00+00:00
+
+<img alt="More than three dozen cement blocks, each inscribed with a word, form an uneven circle on rectangular paved stones." height="349" src="https://i.cbc.ca/1.7096316.1706300645!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/earth-s-eye-collect-pond-park.jpg" title="Earth&apos;s Eye was a temporary installation by Alan Michelson at Collect Pond Park in New York City. The stones traced the outline of a pond that served as a gathering place for the Lenape, but has since been covered by pavement." width="620" /><p>New York City has one of the largest urban populations of Indigenous people in the United States, but for many, that history has been hidden — and artists, researchers and community leaders are working to shed light on it.</p>
+
+## Royal privacy and public life: Health concerns for King and Princess of Wales reveal different priorities
+ - [https://www.cbc.ca/news/world/princess-of-wales-king-charles-health-privacy-influence-1.7092190?cmp=rss](https://www.cbc.ca/news/world/princess-of-wales-king-charles-health-privacy-influence-1.7092190?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-01-28T04:00:00+00:00
+
+<img alt="A composite shot of two people looking straight ahead." height="349" src="https://i.cbc.ca/1.7096489.1706304731!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/king-charles-and-catherine-princess-of-wales.jpg" title="Caption info for Charles: EDINBURGH, SCOTLAND - JULY 03: King Charles III during his visit to Kinneil House during the British Royal Family&apos;s Royal Week in Scotland on July 3, 2023 in Edinburgh, Scotland. The British Royal family will carry out traditional engagements in Scotland until Thursday. This includes the presentation of the Honours of Scotland to King Charles III and Queen Camilla at a National Service of Thanksgiving on July 05. (Photo by Andrew Milligan/WPA/Getty Images) Caption info for Kate: Britain&apos;s Kate, the Princess of Wales, Patron of The Forward Trust visits HMP High Down in Sutton, England, Tuesday, Sept. 12, 2023, to learn about how the charity is supporting those in the criminal justice system to manage and recove
+
