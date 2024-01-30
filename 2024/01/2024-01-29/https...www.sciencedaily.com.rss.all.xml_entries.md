@@ -1,0 +1,156 @@
+# Source:Latest Science News -- ScienceDaily, URL:https://www.sciencedaily.com/rss/all.xml, language:en-us
+
+## Back from the dead: Tropical tree fern repurposes its dead leaves
+ - [https://www.sciencedaily.com/releases/2024/01/240129122507.htm](https://www.sciencedaily.com/releases/2024/01/240129122507.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:25:07+00:00
+
+Plant biologists report that a species of tree fern found only in Panama reanimates its own dead leaf fronds, converting them into root structures that feed the mother plant. The fern, Cyathea rojasiana, reconfigures these 'zombie leaves,' reversing the flow of water to draw nutrients back into the plant.
+
+## How did humans learn to walk? New evolutionary study offers an earful
+ - [https://www.sciencedaily.com/releases/2024/01/240129122501.htm](https://www.sciencedaily.com/releases/2024/01/240129122501.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:25:01+00:00
+
+A new study, which centers on evidence from skulls of a 6-million-year-old fossil ape, Lufengpithecus, offers important clues about the origins of bipedal locomotion courtesy of a novel method: analyzing its bony inner ear region using three-dimensional CT-scanning. The inner ear appears to provide a unique record of the evolutionary history of ape locomotion.
+
+## Alzheimer's disease acquired from historic medical treatments
+ - [https://www.sciencedaily.com/releases/2024/01/240129122459.htm](https://www.sciencedaily.com/releases/2024/01/240129122459.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:59+00:00
+
+Five cases of Alzheimer's disease are believed to have arisen as a result of medical treatments decades earlier, reports a team researchers.
+
+## Hydroxyurea significantly reduces infections in children with sickle cell anemia
+ - [https://www.sciencedaily.com/releases/2024/01/240129122456.htm](https://www.sciencedaily.com/releases/2024/01/240129122456.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:56+00:00
+
+Researchers have revealed that hydroxyurea significantly reduces infections in children with sickle cell anemia. Their findings enhance strong evidence of hydroxyurea's effectiveness and could ultimately reduce death in children in Africa, the continent most burdened by the disease.
+
+## Rising sea levels could lead to more methane emitted from wetlands
+ - [https://www.sciencedaily.com/releases/2024/01/240129122451.htm](https://www.sciencedaily.com/releases/2024/01/240129122451.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:51+00:00
+
+A Bay Area wetlands ecosystem that was expected to serve as a carbon sink is emitting surprisingly high levels of methane, a potent greenhouse gas. The study suggests factors governing carbon cycles in these habitats are even more complex than we thought.
+
+## Study urges people to think twice before going on a diet
+ - [https://www.sciencedaily.com/releases/2024/01/240129122448.htm](https://www.sciencedaily.com/releases/2024/01/240129122448.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:48+00:00
+
+A new qualitative study highlights the negative interpersonal and psychological consequences associated with 'yo-yo dieting,' also known as weight cycling. The work underscores how toxic yo-yo dieting can be and how difficult it can be for people to break the cycle.
+
+## Excavated dolmen in Sweden one of the oldest in Scandinavia
+ - [https://www.sciencedaily.com/releases/2024/01/240129122440.htm](https://www.sciencedaily.com/releases/2024/01/240129122440.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:40+00:00
+
+The first analysis results now confirm that the grave in Tiarp is one of the oldest stone burial chambers in Sweden. The researchers noted that some parts of the people buried in the grave are missing, such as skulls and thigh bones, posing intriguing questions for archaeologists.
+
+## First-ever sighting of a live newborn great white
+ - [https://www.sciencedaily.com/releases/2024/01/240129122437.htm](https://www.sciencedaily.com/releases/2024/01/240129122437.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:37+00:00
+
+Great whites, the largest predatory sharks in the world with the most fatal attacks on humans, are tough to imagine as newborn babies. That is partially because no one has seen one in the wild, it seems, until now.
+
+## Destroying tumor cells with calcium
+ - [https://www.sciencedaily.com/releases/2024/01/240129122431.htm](https://www.sciencedaily.com/releases/2024/01/240129122431.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:31+00:00
+
+Calcium ions are essential for cells, but can be toxic in higher concentrations. A team of researchers has now designed and prepared a combination drug that kills tumor cells by modulating the calcium influx into the cell. An external calcium source is not necessary because only the calcium ions already present in the tumor tissue are used, according to a new study.
+
+## Expert warns red light myopia therapy can injure retina
+ - [https://www.sciencedaily.com/releases/2024/01/240129122429.htm](https://www.sciencedaily.com/releases/2024/01/240129122429.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:29+00:00
+
+An optometry researcher is warning that the use of low-level red-light therapy as a method to control nearsightedness may cause injury to the retina, especially in children.
+
+## High-efficiency carbon dioxide electroreduction system reduces our carbon footprint and progressing carbon neutrality goals
+ - [https://www.sciencedaily.com/releases/2024/01/240129122424.htm](https://www.sciencedaily.com/releases/2024/01/240129122424.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:24+00:00
+
+Global warming continues to pose a threat to human society and the ecological systems, and carbon dioxide accounts for the largest proportion of the greenhouse gases that dominate climate warming. To combat climate change and move towards the goal of carbon neutrality, researchers have developed a durable, highly selective and energy-efficient carbon dioxide (CO2) electroreduction system that can convert CO2 into ethylene for industrial purposes to provide an effective solution for reducing CO2 emissions.
+
+## Researchers control biofilm formation using optical traps
+ - [https://www.sciencedaily.com/releases/2024/01/240129122421.htm](https://www.sciencedaily.com/releases/2024/01/240129122421.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:21+00:00
+
+Researchers showed that biofilm formation can be controlled with laser light in the form of optical traps. The findings could allow scientists to harness biofilms for various bioengineering applications.
+
+## Playing an instrument linked to better brain health in older adults
+ - [https://www.sciencedaily.com/releases/2024/01/240129122415.htm](https://www.sciencedaily.com/releases/2024/01/240129122415.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:15+00:00
+
+Engaging in music throughout your life is associated with better brain health in older age, according to a new study. Scientists working on PROTECT, an online study open to people aged 40 and over, reviewed data from more than a thousand adults over the age of 40 to see the effect of playing a musical instrument -- or singing in a choir -- on brain health.
+
+## Robot trained to read braille at twice the speed of humans
+ - [https://www.sciencedaily.com/releases/2024/01/240129122413.htm](https://www.sciencedaily.com/releases/2024/01/240129122413.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:13+00:00
+
+Researchers have developed a robotic sensor that incorporates artificial intelligence techniques to read braille at speeds roughly double that of most human readers.
+
+## Scientists develop novel method to estimate biodiversity loss in Singapore over the past two centuries
+ - [https://www.sciencedaily.com/releases/2024/01/240129122408.htm](https://www.sciencedaily.com/releases/2024/01/240129122408.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:08+00:00
+
+Scientists have employed novel statistical methods to reveal the extent of biodiversity loss in Singapore over the past two centuries. The study paints the most accurate picture to date of the ecological impact of deforestation and urban development in the tropical city-state. From a comprehensive dataset, the study estimated that Singapore has lost 37 per cent of its species.
+
+## Cosmic building blocks of life discovered through the electron microscope
+ - [https://www.sciencedaily.com/releases/2024/01/240129122405.htm](https://www.sciencedaily.com/releases/2024/01/240129122405.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:05+00:00
+
+Meteorites are fragments of asteroids which find their way to Earth as shooting stars and provide information on the origins of our solar system. A team of researchers has examined the so-called Winchcombe meteorite and demonstrated the existence in it of nitrogen compounds such as amino acids and heterocyclic hydrocarbons -- without applying any chemical treatment and by using a new type of detector design.
+
+## How obesity dismantles our mitochondria
+ - [https://www.sciencedaily.com/releases/2024/01/240129122402.htm](https://www.sciencedaily.com/releases/2024/01/240129122402.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:24:02+00:00
+
+Researchers found that when mice were fed a high-fat diet, mitochondria within their fat cells broke apart and were less able to burn fat, leading to weight gain. They also found they could reverse the effect by targeting a single gene, suggesting a new treatment strategy for obesity.
+
+## How does a 'reverse sprinkler' work? Researchers solve decades-old physics puzzle
+ - [https://www.sciencedaily.com/releases/2024/01/240129122359.htm](https://www.sciencedaily.com/releases/2024/01/240129122359.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:23:59+00:00
+
+For decades scientists have been trying to solve Feynman's Sprinkler Problem: How does a sprinkler running in reverse work? Through a series of experiments, a team of mathematicians has figured out how flowing fluids exert forces and move structures, thereby revealing the answer to this long-standing mystery.
+
+## Old area in the brain turns out to be more important than expected
+ - [https://www.sciencedaily.com/releases/2024/01/240129122354.htm](https://www.sciencedaily.com/releases/2024/01/240129122354.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:23:54+00:00
+
+Researchers have discovered that a brain area preserved through evolution, called the superior colliculus, is more crucial for vision than we thought.
+
+## Education and information can increase the acceptance of climate policies
+ - [https://www.sciencedaily.com/releases/2024/01/240129122352.htm](https://www.sciencedaily.com/releases/2024/01/240129122352.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:23:52+00:00
+
+An important question for policymakers worldwide is how to make climate and environmental policies acceptable among the populations. A new study sheds light on the preferences in five East African countries. The study shows, among others, that education and information about how revenues from carbon taxes are used are important factors.
+
+## Utilizing active microparticles for artificial intelligence
+ - [https://www.sciencedaily.com/releases/2024/01/240129122349.htm](https://www.sciencedaily.com/releases/2024/01/240129122349.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:23:49+00:00
+
+Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists have now created a type of neural network that works not with electricity but with so-called active colloidal particles.The researchers describe how these microparticles can be used as a physical system for artificial intelligence and the prediction of time series.
+
+## Researchers map genome for cats, dolphins, birds, and dozens of other animals
+ - [https://www.sciencedaily.com/releases/2024/01/240129122332.htm](https://www.sciencedaily.com/releases/2024/01/240129122332.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-01-29T12:23:32+00:00
+
+Researchers mapped genetic blueprints for 51 species including cats, dolphins, kangaroos, penguins, sharks, and turtles, a discovery that deepens our understanding of evolution and the links between humans and animals. The researchers developed novel algorithms and computer software that cut the sequencing time from months -- or decades in the case of the human genome -- to a matter of days.
+
