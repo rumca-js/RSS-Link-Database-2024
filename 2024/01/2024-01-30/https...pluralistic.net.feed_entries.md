@@ -1,0 +1,9 @@
+# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
+
+## Pluralistic: My McLuhan lecture on enshittification (30 Jan 2024)
+ - [https://pluralistic.net/2024/01/30/go-nuts-meine-kerle](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle)
+ - RSS feed: https://pluralistic.net/feed
+ - date published: 2024-01-30T10:17:45+00:00
+
+Today's links My McLuhan lecture on enshittification: Live from Berlin. Hey look at this: Delights to delectate. This day in history: 2014, 2019, 2023 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading My McLuhan lecture on enshittification (permalink) Last night, I gave the annual Marshall McLuhan lecture at the Transmediale festival in Berlin. The event was sold out and while there's a video that'll be posted soon, they couldn't get a streaming setup installed in the Canadian embassy, where the talk was held: https://transmediale.de/en/2024/event/mcluhan-2024 The talk went of fabulously, and was followed by commentary from Frederike Kaltheuner (Human Rights Watch) and a discussion moderated by Helen Starr. While you'll have to wait a bit for the video, I thought that I'd post my talk notes from last night for the impatient among you. I want to thank the festival and the embassy staff for their hard work on an excellent even
+
