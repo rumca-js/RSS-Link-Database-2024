@@ -71,6 +71,11 @@ With these data we can perform further analysis:
  - I am using raspberry PI at the moment. With it I cannot track all of the sources in the world. Therefore I track only 'well established' sources, or the ones I am really interested in
  - Is the data relevant, or useful for anyone but me?
 
+# Q & A
+
+Q: Why are you using sources like daily mail? This does not make any sense!
+A: This project aims to capture time capsule of day, or year. In statistics sometimes it is too late to capture "new" data. For analysis only credible, and reliable sources could be used
+
 # Ending notes
 
 All links belong to us!
