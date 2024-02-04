@@ -1,0 +1,58 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Matthew Vaughn Says Deadpool 3 Will Fix All of Marvel's Prolems
+ - [https://gizmodo.com/deadpool-3-matthew-vaughn-revitalize-mcu-1851223175](https://gizmodo.com/deadpool-3-matthew-vaughn-revitalize-mcu-1851223175)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-03T21:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c9dd1a56f1f8916ba5a163466684b39b.png" /><p>The upcoming <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/deadpool-3-filming-ryan-reynolds-fox-disney-marvel-hugh-1851185869">Deadpool 3</a> unexpectedly has a lot riding on it. Not only is it going to serve as the first example of how mutants and more <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/jon-bernthal-thinks-mcu-punisher-cant-be-another-family-1848160959">R-rated characters</a> will interact with the MCU, it’s also got to appease those excited by the return of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/deadpool-3-logan-canon-shawn-levy-hugh-jackman-reynolds-1850977637">Hugh Jackman’s Wolverine</a>. Unfortunately, it’s also got another expectation it…</p><p><a href="https://gizmodo.com/deadpool-3-matthew-vaughn-revital
+
+## Netflix's Changes to Avatar Sound Like a Mixed Bag
+ - [https://gizmodo.com/avatar-last-airbender-netflix-changes-adaptation-1851223024](https://gizmodo.com/avatar-last-airbender-netflix-changes-adaptation-1851223024)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-03T19:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/111ecc0f9964a3fe82a70be04feb2e7f.jpg" /><p>With <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/avatar-last-airbender-netflix-original-creators-exit-1851111716">Avatar: The Last Airbender</a> premeiring later in the month, Netflix has gradually started to pull back the curtain on its adaptation of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/avatar-last-airbender-netflix-live-action-trailer-1851004124">the 2005 cartoon</a>. The show was never going to be a complete one-to-one of the original, but it does feel like some of the additions and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/avatar-last-airbender-netflix-sozin-comet-1851202942">tweaks to the show</a>—like tampering down <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/avatar-net
+
+## The Last of Us Adds Catherine O'Hara to Its List of Season 2 Stars
+ - [https://gizmodo.com/catherine-o-hara-last-of-us-season-2-hbo-1851222515](https://gizmodo.com/catherine-o-hara-last-of-us-season-2-hbo-1851222515)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-03T17:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1f1beed67b6de009a2ee4ae72172ab4d.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/beetlejuice-2-official-title-michael-keaton-jenna-orteg-1851216567">Beetlejuice Beetlejuice</a>star Catherine O’Hara has signed on to join HBO’s next season of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/last-of-us-season-2-abby-casting-update-pedro-pascal-1850743760">The Last of Us</a>.<br /></p><p><a href="https://gizmodo.com/catherine-o-hara-last-of-us-season-2-hbo-1851222515">Read more...</a></p>
+
+## Pinocchio Co-Director Mark Gustafson Has Died at Age 64
+ - [https://gizmodo.com/obituary-mark-gustafson-pinocchio-netflix-age-64-1851222450](https://gizmodo.com/obituary-mark-gustafson-pinocchio-netflix-age-64-1851222450)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-03T15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/388eb261c5e7586f3961645a66ce13ef.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/pinocchio-netflix-art-book-screenplay-1849941461">Mark Gustafson</a>, co-director on <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/pinocchio-2022-review-guillermo-del-toro-netflix-disney-1849866730">Guillermo del Toro’s Pinocchio</a>, died on Thursday, February 1 after a heart attack.<br /></p><p><a href="https://gizmodo.com/obituary-mark-gustafson-pinocchio-netflix-age-64-1851222450">Read more...</a></p>
+
+## Did Your Wallet Survive the Apple Vision Pro and Samsung Galaxy S24 Launch This Week?
+ - [https://gizmodo.com/did-your-wallet-survive-the-apple-vision-pro-and-samsun-1851220690](https://gizmodo.com/did-your-wallet-survive-the-apple-vision-pro-and-samsun-1851220690)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-03T10:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/399d586d866c914ee93153be8155b181.jpg" /><p><br />The <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/apple-vision-pro-pricing-release-date-specs-1851205316">Apple Vision Pro</a> is finally on sale, and we’ve got all the info you need on it before you decide to spend  $3,500 on a mixed-reality headset. The <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/which-samsung-galaxy-s24-is-right-for-you-1851210473">Samsung Galaxy S24</a> was also released this week, and its best features might actually surprise you. Oh, and we found a giant digital calendar that should help organize…</p><p><a href="https://gizmodo.com/did-your-wallet-survive-the-apple-vision-pro-and-samsun-1851220690">Read more...</a></p>
+
+## DC Casts Supergirl, Kurt Russell Dishes on The Thing, and More Top io9 Stories of the Week
+ - [https://gizmodo.com/top-stories-lego-star-wars-dune-star-trek-dc-supergirl-1851220686](https://gizmodo.com/top-stories-lego-star-wars-dune-star-trek-dc-supergirl-1851220686)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-03T09:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/543acdebad93b899bfe44b4e427df73d.jpg" /><p>This week, DC cast a House of the Dragon standout as superhero Supergirl, Lego shared Dune and Star Wars sets worth adding to your collection, 28 Years Later notched an important update to its zombie saga—and Star Trek marked the anniversaries of two of its most memorably weird episodes. - Cheryl Eddy</p><p><a href="https://gizmodo.com/top-stories-lego-star-wars-dune-star-trek-dc-supergirl-1851220686">Read more...</a></p>
+
+## Our First Look at a Newborn Great White Shark
+ - [https://gizmodo.com/our-first-look-at-a-newborn-great-white-shark-1851220688](https://gizmodo.com/our-first-look-at-a-newborn-great-white-shark-1851220688)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-03T09:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f4f378f94468a25e0aeccc21ad2a399a.jpg" /><p>This week, we saw the first-ever image of a newborn great white shark; scientists figured out what’s really happening when insects fly around artificial lights; and mathematicians reversed the sprinkler. Click through for our top science stories of the week. </p><p><a href="https://gizmodo.com/our-first-look-at-a-newborn-great-white-shark-1851220688">Read more...</a></p>
+
+## Pigeon Suspected of Being Chinese Spy Released After 8 Months in Captivity
+ - [https://gizmodo.com/pigeon-china-spy-india-microchip-espionage-1851222339](https://gizmodo.com/pigeon-china-spy-india-microchip-espionage-1851222339)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-03T00:52:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5c9639641432e560fc81ce3ec254727f.jpg" /><p>A pigeon that was suspected of being a Chinese secret agent has been cleared of wrongdoing and released following a period of months-long  captivity. Yes, you read that right and, no, I am not fucking with you.</p><p><a href="https://gizmodo.com/pigeon-china-spy-india-microchip-espionage-1851222339">Read more...</a></p>
+
