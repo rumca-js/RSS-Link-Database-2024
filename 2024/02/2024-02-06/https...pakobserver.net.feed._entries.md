@@ -1,0 +1,478 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed/, language:en-US
+
+## Daily Cartoon 07-02-2024
+ - [https://pakobserver.net/daily-cartoon-07-02-2024](https://pakobserver.net/daily-cartoon-07-02-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:59:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/cartoon-2-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />
+
+## Voice of the people
+ - [https://pakobserver.net/voice-of-the-people-1541](https://pakobserver.net/voice-of-the-people-1541)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:57:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/op-1-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Articles and letters may be edited for the purposes of clarity and space. &#160; &#160; Harnessing the youth vote The recent surge in the number of young voters, from 46.43 million to an impressive 56.86 million, signifies a significant shift in our political landscape. This surge isn’t merely a numerical increase; it represents a dynamic [&#8230;]
+
+## Tackling death and the unknown..!
+ - [https://pakobserver.net/tackling-death-and-the-unknown](https://pakobserver.net/tackling-death-and-the-unknown)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:56:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/02/rb-10-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />MOST everyone is scared of the unknown. When we board a plane, we are just a bit terrified, as we know that soon we will not be in control. When we leave our home in the morning, we spy a black cat and wonder what’s in store for us, even as we avoid walking under [&#8230;]
+
+## Retributive politics
+ - [https://pakobserver.net/retributive-politics](https://pakobserver.net/retributive-politics)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:55:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/article-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />THE beauty of democracy is its ability to embrace conflicting opinions, make adjustments for all participating parties, and work together for the betterment of the people. Over the years, intolerance in Pakistan has reached unprecedented levels. Party leaders and their supporters enjoy attacking their rivals and any talks of reconciliation with rival parties are shot [&#8230;]
+
+## Election 2024 — let the people win
+ - [https://pakobserver.net/election-2024-let-the-people-win](https://pakobserver.net/election-2024-let-the-people-win)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:53:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/Dr-Zafar-Khan-Safdar-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PAKISTAN is witnessing its 14th general election tomorrow (8 February 2024) in which more than 128 million registered Pakistani voters will have the chance to cast their vote for candidates to Provincial and National Assemblies. There are a total of 336 seats in the National Assembly, out of which 266 are general seats while the [&#8230;]
+
+## Observations on the ‘Indo-Pacific’ strategy
+ - [https://pakobserver.net/observations-on-the-indo-pacific-strategy](https://pakobserver.net/observations-on-the-indo-pacific-strategy)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:51:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/Zhao-Shiren-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />WITH the recent news of the six US senior trade officials intending to resign from their positions mainly due to the lacklustre implementation of the Indo-Pacific Economic Framework (IPEF), one of the key pillars of the US geo-economic policy towards Asia-Pacific region plus the Indian Ocean, the intrinsic flaws of the Indo-Pacific Strategy (IPS) have [&#8230;]
+
+## Pakistan’s unresolved problems with Afghanistan
+ - [https://pakobserver.net/pakistans-unresolved-problems-with-afghanistan](https://pakobserver.net/pakistans-unresolved-problems-with-afghanistan)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:50:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/04/Akbar-Jan-Marwat-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />WHILE interaction and engagement between Pakistan and Afghanistan continue at different levels, the main issue of contention between the two powers is nowhere near resolution. Pakistan’s genuine security concerns from Tehreek-e-Taliban Pakistan (TTP), based in Afghanistan, have not been addressed in any meaningful way by the Afghan Government. Pakistan’s repeated warnings and protests seem to [&#8230;]
+
+## Kashmir Solidarity Day and situation in IIOJ&K
+ - [https://pakobserver.net/kashmir-solidarity-day-and-situation-in-iiojk](https://pakobserver.net/kashmir-solidarity-day-and-situation-in-iiojk)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:49:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/Col-Muhammad-Hanif-Retired-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />THE people of Pakistan and Kashmiris around the world commemorate the 5th of February each year as Kashmir Solidarity Day. They reiterate their persistent support and send a loud and clear message to the world that Kashmiris are not alone in their struggle against the Indian occupying forces. This day is observed as a holiday [&#8230;]
+
+## Further hike in gas tariff
+ - [https://pakobserver.net/further-hike-in-gas-tariff](https://pakobserver.net/further-hike-in-gas-tariff)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:48:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />IN a disheartening development for gas consumers nationwide, the Oil and Gas Regulatory Authority (OGRA) has dealt a substantial blow by increasing the gas tariffs for both Sui Northern and Sui Southern. The latest hike, with an increment of 35.13 percent for Sui Northern and 8.57 percent for Sui Southern, is set to be applied [&#8230;]
+
+## Satisfactory arrangements for polls
+ - [https://pakobserver.net/satisfactory-arrangements-for-polls](https://pakobserver.net/satisfactory-arrangements-for-polls)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:48:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />SUSTAINED propaganda by vested interests notwithstanding, the Election Commission of Pakistan (ECP), in close coordination with other state apparatus, has taken all possible measures in a satisfactory manner to make the electoral exercise free, fair and transparent in the true sense of the word. As election campaign ended two days before the polling day to [&#8230;]
+
+## China’s Diplomatic Pivot: Shaping Afghanistan’s Future Amidst Global Challenges
+ - [https://pakobserver.net/chinas-diplomatic-pivot-shaping-afghanistans-future-amidst-global-challenges](https://pakobserver.net/chinas-diplomatic-pivot-shaping-afghanistans-future-amidst-global-challenges)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:28:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/02/CPEC-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In a groundbreaking development, Chinese President Xi Jinping formally acknowledged Mawlavi Asadullah, also known as Bilal Karimi, as the Ambassador Extraordinary and Plenipotentiary of the Islamic Emirate of Afghanistan. This unprecedented move positions China as the first nation to extend formal recognition to the Taliban-led government, showcasing both the country&#8217;s pragmatic diplomacy and its commitment [&#8230;]
+
+## CPEC Phase-II & Xinjiang: Exploring Possibilities of greater connectivity
+ - [https://pakobserver.net/cpec-phase-ii-xinjiang-exploring-possibilities-of-greater-connectivity](https://pakobserver.net/cpec-phase-ii-xinjiang-exploring-possibilities-of-greater-connectivity)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T22:28:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/01-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The upgrade vision and possible inclusion of a third party in CPEC Phase-II have become a “new normal” due to rapidly changing socio-economic, geopolitical and geostrategic scenarios in the region and beyond. Additionally, with the formation of the Special Investment Facilitation Council (SIFC) and the desire for greater economic integration with the UAE, Saudi Arabia, [&#8230;]
+
+## Launching ceremony of Arif Anees’ book ‘Jeo Jani’ held in Lahore
+ - [https://pakobserver.net/launching-ceremony-of-arif-anees-book-jeo-jani-held-in-lahore](https://pakobserver.net/launching-ceremony-of-arif-anees-book-jeo-jani-held-in-lahore)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T18:06:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/b1315c41-65ad-4529-ac21-475376ba3e69-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The launching ceremony of renowned author Arif Anees&#8217;s new book &#8220;Jeo Jani&#8221; was held at Flatties Hotel in Punjab capital city of Lahore. The event was presided over by chairman of Maulana Zafar Ali Khan Trust and former federal secretary Khalid Mehmood. Akhuwat Foundation founder Dr. Amjad Saqib, Farrukh Sohail Goindi, Aamir Khakwani, [&#8230;]
+
+## iPhone X, iPhone XS Max latest PTA tax in Pakistan 2024
+ - [https://pakobserver.net/iphone-x-iphone-xs-max-latest-pta-tax-in-pakistan-2024](https://pakobserver.net/iphone-x-iphone-xs-max-latest-pta-tax-in-pakistan-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T18:01:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/Apple-Store-India-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />iPhone X was Apple&#8217;s device that changed the whole game for Tech giant. The company loaded X with OLED displays, for the first time and other companies followed suit. Besides the fine display, iPhone X is known for its operating system, regular updates, and seamless integration, and it still holds its place in markets. Apple [&#8230;]
+
+## Inside colorful Mayun of Arisha Razi
+ - [https://pakobserver.net/inside-colorful-mayun-of-arisha-razi](https://pakobserver.net/inside-colorful-mayun-of-arisha-razi)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T17:49:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/0102-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Wedding season in Pakistan continues in full swing and actress and social media sensation Arisha Razi also remains in limelight. Very talented and elegant starlet enchanted viewers for years and now it&#8217;s her wedding festivities that kept fans on their toes. Arisha’s Mayun was a traditional celebration and bride-to-be looked exquisite in a traditional dress [&#8230;]
+
+## Honda Civic Feb 2024 Price in Pakistan
+ - [https://pakobserver.net/honda-civic-feb-2024-price-in-pakistan](https://pakobserver.net/honda-civic-feb-2024-price-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T17:31:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/FotoJet-2023-08-06T234640.676-635x430-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Honda remains a mile ahead of other automakers as the company enjoys a reputation for producing safe and reliable cars. Among the company&#8217;s top models is Honda Civic, the famous sedan known for quality, reliability and resale value. The cars&#8217; robust performance remains in center focus as Honda i-VTEC engines continue to advance its legacy. [&#8230;]
+
+## Hooria Batool: Meet Pakistani student who became youngest female Chartered Accountant
+ - [https://pakobserver.net/hooria-batool-meet-pakistani-student-who-became-youngest-female-chartered-accountant](https://pakobserver.net/hooria-batool-meet-pakistani-student-who-became-youngest-female-chartered-accountant)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T16:58:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/imresizer-1707149070393-768x538-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; Pakistani women excelled in academic fields in the country and parts of the world. As more and more women are availing opportunities to excel in various academic disciplines, the latest who made Pakistan proud is Hooria Batool. Batool, an accomplished Chartered Accountant and Financial Analyst, etched her name in history books as she [&#8230;]
+
+## Hooria Batool: Meet Pakistani student who became youngest female Chartered Accountant
+ - [https://pakobserver.net/hooria-batool-meet-pakistani-student-who-became-youngest-chartered-accountant](https://pakobserver.net/hooria-batool-meet-pakistani-student-who-became-youngest-chartered-accountant)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T16:58:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/pakistan-s-hooria-batool-becomes-world-s-youngest-chartered-accountant-1707138455-4508-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; Pakistani women excelled in academic fields in the country and parts of the world. As more and more women are availing opportunities to excel in various academic disciplines, the latest who made Pakistan proud is Hooria Batool. Batool, an accomplished Chartered Accountant and Financial Analyst, etched her name in history books as she [&#8230;]
+
+## Snap presidential elections in Azerbaijan
+ - [https://pakobserver.net/snap-presidential-elections-in-azerbaijan](https://pakobserver.net/snap-presidential-elections-in-azerbaijan)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T16:30:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/457273-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By Omey Aimen The reason for the snap presidential elections in Azerbaijan The first reason is the full restoration of sovereignty of Azerbaijan. The elections mark the end of an era. In September 2023, Azerbaijan concluded such an era, which was an epochal event. There has been no similar Victory in the centuries-old history of [&#8230;]
+
+## 100 Prize bond February 2024 – Check Balloting, Draw Date online
+ - [https://pakobserver.net/100-prize-bond-february-2024-check-balloting-draw-date-online](https://pakobserver.net/100-prize-bond-february-2024-check-balloting-draw-date-online)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T16:25:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/100-prize-bond-draw-date-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />100 Prize Bond 2024 Results: Hundreds of thousands Pakistanis try their luck in Prize bonds every year as they are known to be the most peculiar investment vehicle, and give you a chance to win bumper cash prize lottery in exchange for no interest. Despite so many options, Prize Bonds especially those with lower denominations [&#8230;]
+
+## From ‘Dynamic Youth to Digital Pakistan’: Here’s Jamaat-e-Islami’s promising plan to navigate Pakistan’s future
+ - [https://pakobserver.net/from-dynamic-youth-to-digital-pakistan-heres-jamaat-e-islamis-promising-plan-to-navigate-pakistans-future](https://pakobserver.net/from-dynamic-youth-to-digital-pakistan-heres-jamaat-e-islamis-promising-plan-to-navigate-pakistans-future)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T15:25:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/t44-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As political bigwigs have failed to go beyond clichéd promises and present a clear roadmap for the revival of the country’s ailing economy in their manifesto documents, Jamaat-e-Islami taps on real issues for the masses. From Inclusive Growth and Accountability to the rule of Human Rights &#38; Welfare, and Women&#8217;s Welfare to Dynamic Youth, the [&#8230;]
+
+## Smuggled tyres back in market despite crackdown
+ - [https://pakobserver.net/smuggled-tyres-back-in-market-despite-crackdown](https://pakobserver.net/smuggled-tyres-back-in-market-despite-crackdown)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T14:20:58+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/tyres-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; Smuggled tyres of all sizes are now readily available in the market after a visible slow down last year due to government crackdown. Though of inferior quality, people usually prefer smuggled tyres due to their low prices without knowing the repercussions. Out of annual sale of 14.5 million tyres in Pakistan, around 25 [&#8230;]
+
+## Internet services likely to be suspended in parts of Pakistan on Election Day
+ - [https://pakobserver.net/internet-services-likely-to-be-suspended-in-parts-of-pakistan-on-election-day](https://pakobserver.net/internet-services-likely-to-be-suspended-in-parts-of-pakistan-on-election-day)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T13:14:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/elections-7-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Pakistanis are set to vote to decide which political party is going to rule 240 million people but the country is facing serious security threats, prompting the government to take stern measures including suspension of internet and mobile phone services. Ahead of Feb 8 parliamentary election, the country saw violence against political parties [&#8230;]
+
+## SBP announces bank holiday on February 8
+ - [https://pakobserver.net/sbp-announces-bank-holiday-on-february-8](https://pakobserver.net/sbp-announces-bank-holiday-on-february-8)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T13:12:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/holiday-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The State Bank of Pakistan will remain closed on February 8, 2024 (Thursday) being public holiday. SBP, allied offices and banks will remain closed on February 8, 2024. #SBP will remain closed on February 8, 2024 being a public holiday as notified by the Election Commission of Pakistan.https://t.co/DDq9cHEAd4#Elections2024 #PakistanElection pic.twitter.com/Z4VFzZAusi &#8212; SBP (@StateBank_Pak) [&#8230;]
+
+## Weather outlook of Murree, Galyat; more snowfall likely
+ - [https://pakobserver.net/weather-outlook-of-murree-galyat-more-snowfall-likely](https://pakobserver.net/weather-outlook-of-murree-galyat-more-snowfall-likely)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T12:51:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/murree-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The Pakistan Meteorological Department (PMD) has predicted partly cloudy weather and snowfall for Murree and Galyat on Tuesday evening/night, Wednesday and Thursday. As per the synoptic situation, continental air prevails over most parts of Pakistan. A shallow westerly wave is likely to affect north-eastern parts of Balochistan and southern Punjab during the next [&#8230;]
+
+## Weather outlook of Punjab; rain likely in Multan, southern districts
+ - [https://pakobserver.net/weather-outlook-of-punjab-rain-likely-in-multan-southern-districts](https://pakobserver.net/weather-outlook-of-punjab-rain-likely-in-multan-southern-districts)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T12:12:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/Rain-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The Pakistan Meteorological Department (PMD) has predicted cold and dry weather for Lahore and parts of Punjab on Tuesday evening/night, Wednesday and Thursday. As per the synoptic situation, continental air prevails over most parts of Pakistan. A shallow westerly wave is likely to affect north-eastern parts of Balochistan and southern Punjab in next [&#8230;]
+
+## CJCSC Gen Sahir Shamshad discusses bilateral, strategic cooperation with Saudi Defence Minister
+ - [https://pakobserver.net/cjcsc-gen-sahir-shamshad-discusses-bilateral-strategic-cooperation-with-saudi-defence-minister](https://pakobserver.net/cjcsc-gen-sahir-shamshad-discusses-bilateral-strategic-cooperation-with-saudi-defence-minister)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T12:09:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/210-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Rawalpindi &#8211; Chairman Joint Chiefs of Staff Committee (CJCSC) General Sahir Shamshad Mirza — who is currently in Saudi Arabia, called on Kingdom’s Minister of Defence, Prince Khalid Bin Salman Bin Abdulaziz Al-Saud and discussed matters of bilateral strategic interest and regional security. Pakistan’s senior military leader and the Saudi defence minister discussed ways to [&#8230;]
+
+## Punjab expands scope of February anti-polio campaign
+ - [https://pakobserver.net/punjab-expands-scope-of-february-anti-polio-campaign](https://pakobserver.net/punjab-expands-scope-of-february-anti-polio-campaign)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T11:53:42+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/vacc-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Sub-national polio campaign which was set to begin by February-end has been converted to National Immunization Days which will be held all over Punjab. Decision was taken at a meeting chaired by Emergency Operations Cente Coordinator Khizer Afzaal on Tuesday to review the quality of January and November National Immunization Days. District Health [&#8230;]
+
+## Army troops start arriving in Lahore, other districts for election duty
+ - [https://pakobserver.net/army-troops-start-arriving-in-lahore-other-districts-for-election-duty](https://pakobserver.net/army-troops-start-arriving-in-lahore-other-districts-for-election-duty)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T11:52:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/528158_9477028_updates-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Armed forces play a crucial role in ensuring security during the electoral process, and fresh platoons of troops started arriving in Lahore, and parts of the country to assist the administration in the conduct of Feb 8 elections. As the country is set to hold polls this week, police, and paramilitary forces &#8211; [&#8230;]
+
+## Islamabad, Pakistan weather update; isolated rain, snowfall likely
+ - [https://pakobserver.net/islamabad-pakistan-weather-update-isolated-rain-snowfall-likely](https://pakobserver.net/islamabad-pakistan-weather-update-isolated-rain-snowfall-likely)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T11:28:26+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/ISD1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The Pakistan Meteorological Department (PMD) has predicted cold and dry weather for Islamabad and most parts of Pakistan on Tuesday evening/night, Wednesday and Thursday. As per the synoptic situation, continental air prevails over most parts of Pakistan. A shallow westerly wave is likely to affect north-eastern parts of Balochistan and southern Punjab in [&#8230;]
+
+## Earthquake jolts Swat, parts of KP
+ - [https://pakobserver.net/earthquake-jolts-swat-parts-of-kp](https://pakobserver.net/earthquake-jolts-swat-parts-of-kp)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T11:12:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/powerful-earthquake-jolts-lahore-other-parts-of-pakistan-1686643626-1478-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />SWAT &#8211; A earthquake measuring 4.7 on the Richter scale hit Swat and adjoining areas of Khyber Pakhtunkhuwa on Tuesday. National Seismic Monitoring Centre (NSMC) confirmed that earthquake was felt in Swat and other surrounding areas. The depth of the quake was recorded 190 kilometres and its epicentre was in the Hindukush range in Afghanistan. [&#8230;]
+
+## Peshawar, Khyber Pakhtunkhwa weather update for two days
+ - [https://pakobserver.net/peshawar-khyber-pakhtunkhwa-weather-update-for-two-days](https://pakobserver.net/peshawar-khyber-pakhtunkhwa-weather-update-for-two-days)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T10:50:40+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/KPS-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PESHAWAR – The Pakistan Meteorological Department (PMD) has predicted cold and dry weather for Peshawar and most parts of Khyber Pakhtunkhwa on Tuesday evening/night, Wednesday and Thursday. As per the synoptic situation, continental air prevails over most parts of Pakistan. A shallow westerly wave is likely to affect north-eastern parts of Balochistan and southern Punjab [&#8230;]
+
+## Karachi likely to receive light rain/drizzle
+ - [https://pakobserver.net/karachi-likely-to-receive-light-rain-drizzle](https://pakobserver.net/karachi-likely-to-receive-light-rain-drizzle)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T10:28:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/PE-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The Pakistan Meteorological Department (PMD) has predicted partly cloudy weather and light rain/drizzle for Karachi and surroundings on Tuesday evening/night. As per the synoptic situation, continental air prevails over most parts of Pakistan. A shallow westerly wave is likely to affect north-eastern parts of Balochistan and southern Punjab in next 24 hours. Under [&#8230;]
+
+## Qaumi Bachat Bank profit rate for Savings Account Feb 2024 update
+ - [https://pakobserver.net/qaumi-bachat-bank-profit-rate-for-savings-account-feb-2024-update](https://pakobserver.net/qaumi-bachat-bank-profit-rate-for-savings-account-feb-2024-update)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T09:54:40+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/bachat-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The National Savings or Qaumi Bachat Bank has revised the profit rate for various products to attract more investment from Pakistani national and overseas Pakistanis. However, the profit rate for Savings Account has been kept unchanged at 20.50 percent since October 2023. The Savings Account can be opened by Pakistani nationals as well [&#8230;]
+
+## Mohsin Naqvi elected new PCB chairman
+ - [https://pakobserver.net/mohsin-naqvi-elected-new-pcb-chairman](https://pakobserver.net/mohsin-naqvi-elected-new-pcb-chairman)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T09:45:14+00:00
+
+<img alt="Mohsin Raza Naqvi" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/01/1-2-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Mohsin Naqvi has been elected unopposed as the new chairman of the Pakistan Cricket Board (PCB), sources confirmed to Pakistan Observer here on Monday. &#160; More info to follow&#8230;
+
+## UAE work visa protector fee in Pakistan Feb 2024 update
+ - [https://pakobserver.net/uae-work-visa-protector-fee-in-pakistan-feb-2024-update](https://pakobserver.net/uae-work-visa-protector-fee-in-pakistan-feb-2024-update)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T08:56:45+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/protector-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Pakistani citizens intending to go abroad, including the United Arab Emirates (UAE), on a work visa are required to get their foreign employment agreement protected from the Protectorate of Emigrants (PE) office. The department imposed a protector stamp on the passport of the applicant after receiving OPF, registration, life insurance and OEC fees, [&#8230;]
+
+## Terrorist ring leader among two killed in North Waziristan operation
+ - [https://pakobserver.net/terrorist-ring-leader-among-two-killed-in-north-waziristan-operation](https://pakobserver.net/terrorist-ring-leader-among-two-killed-in-north-waziristan-operation)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T08:17:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/waz-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI – Security forces have killed two terrorists during an intense exchange of fire in North Waziristan district. The incident happened on night between 5 and 6 February after forces conducted an intelligence-based operation on reported presence of terrorists. “During the conduct of operation, intense fire exchange took place between own troops and terrorists as [&#8230;]
+
+## IELTS Fee update in Pakistan for Canada Express Entry 2024
+ - [https://pakobserver.net/ielts-fee-update-in-pakistan-for-canada-express-entry-2024](https://pakobserver.net/ielts-fee-update-in-pakistan-for-canada-express-entry-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T07:17:35+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/ielts-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Canada runs the Express Entry, an online system that is used to manage immigration applications from skilled workers. Eligible applicants from Pakistan can also apply for the program to immigrate to Canada. There are three immigration programs managed through Express Entry: Canadian Experience Class The program is for skilled workers who have Canadian work experience. [&#8230;]
+
+## PPP candidate from Mirpur Khas injured in gun attack ahead of Feb 8 polls
+ - [https://pakobserver.net/ppp-candidate-from-mirpur-khas-injured-in-gun-attack-ahead-of-feb-8-polls](https://pakobserver.net/ppp-candidate-from-mirpur-khas-injured-in-gun-attack-ahead-of-feb-8-polls)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T06:56:33+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/zulfiqart-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Pakistan Peoples Party (PPP) candidate Zulfiqar Ali Shah from PS-46 Mirpur Khas was injured in a gun attack amid ongoing massive campaigns for the general elections 2024 scheduled for Feb 8. Police said that unknown gunmen fired more than six bullets at his vehicle and escaped from the scene, leaving him injured. The [&#8230;]
+
+## Lahore ATC indicts Yasmin Rashid, Mehmoodur Rasheed and others in May 9 case
+ - [https://pakobserver.net/lahore-atc-indicts-yasmin-rashid-mehmoodur-rasheed-and-others-in-may-9-case](https://pakobserver.net/lahore-atc-indicts-yasmin-rashid-mehmoodur-rasheed-and-others-in-may-9-case)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T06:27:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/03/yasmin-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – An anti-terrorism court (ATC) in Lahore on Tuesday indicted Pakistan Tehreek-e-Insaf leaders Yasmin Rashid, Main Mehmoodur Rasheed and Ejaz Chaudhry in the May 9 violence case. The case was registered against them at the Shadman police station for vandalism during the May 9 protests that sparked following the arrest of former prime minister [&#8230;]
+
+## These vehicles banned from using motorways in Pakistan from Feb 5; Details inside
+ - [https://pakobserver.net/these-vehicles-banned-from-using-motorways-in-pakistan-from-feb-5-details-inside](https://pakobserver.net/these-vehicles-banned-from-using-motorways-in-pakistan-from-feb-5-details-inside)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T06:02:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/mtag-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The National Highway and Motorway Authority (NHMA) has announced that vehicles will not be allowed to use all motorways without M-Tag registration, starting from February 5, 2024. The authority in a statement said that the decision aimed at reducing waiting time at entry and exits points of motorways as previously motorists had to [&#8230;]
+
+## Pakistan announces another hike in gas prices
+ - [https://pakobserver.net/pakistan-announces-another-hike-in-gas-prices](https://pakobserver.net/pakistan-announces-another-hike-in-gas-prices)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T05:30:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/gas-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The Oil and Gas Regularly Authority (Ogra) has approved further hike in the gas tariff to mitigate the shortfall of Rs98 billion. The revised rates will be applicable from January 1, 2024 till June 30, 2024, putting an additional burden on masses facing skyrocketing inflation. This is the second time the government has [&#8230;]
+
+## Gold rates in Saudi Arabia today – 06 February 2024
+ - [https://pakobserver.net/gold-rates-in-saudi-arabia-today-06-february-2024](https://pakobserver.net/gold-rates-in-saudi-arabia-today-06-february-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T05:03:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/gold6-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The price of per tola price 24-karat gold in Saudi Arabia on Tuesday dropped to 2,841 Saudi Riyal (SAR), according to forex.pk. Furthermore, the 10 grams of 24-k gold is being sold for SAR 2,438 in the kingdom while the per ounce gold price stands at SAR 7,583. Note: The gold price across [&#8230;]
+
+## UK Pound to PKR rate today – 06 February 2024
+ - [https://pakobserver.net/uk-pound-to-pkr-rate-today-06-february-2024](https://pakobserver.net/uk-pound-to-pkr-rate-today-06-february-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T05:02:38+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/pound-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The buying rate of the UK Pound Sterling stands at Rs356.5 in Pakistan while its selling rate stands at Rs360 on Tuesday in the open market of Pakistan. Data available on forex.pk showed that the Pound remained unchanged against the Pakistani rupee in the open market. GBP to PKR Rate – 06 February [&#8230;]
+
+## Saudi Riyal to PKR rate today – 06 February 2024
+ - [https://pakobserver.net/saudi-riyal-to-pkr-rate-today-06-february-2024](https://pakobserver.net/saudi-riyal-to-pkr-rate-today-06-february-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T05:01:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/riyal-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The buying rate for Saudi Arabia Riyal in Pakistan dropped to Rs74.45 while the selling rate stands at Rs75.2 on Tuesday, according to forex.pk. Data available on the currency website showed the Saudi Riyal saw no change against Pakistani currency. SAR to PKR Rate – 06 February 2024 Date  Latest Exchange Rate CHANGE  [&#8230;]
+
+## Dirham to PKR rate today – 06 February 2024
+ - [https://pakobserver.net/dirham-to-pkr-rate-today-06-february-2024](https://pakobserver.net/dirham-to-pkr-rate-today-06-february-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T05:00:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/dirham-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The United Arab Emirates (UAE) Dirham buying rate in the open market of Pakistan remained unchanged at Rs76.6 on Tuesday while the selling rate is Rs77.5, according to forex.pk. The UAE Dirham saw no change as compared to the previous trading day&#8217;s closing of Rs76.6 in the open market of the South Asian [&#8230;]
+
+## Currency exchange rates in Pakistan today – February 06, 2024
+ - [https://pakobserver.net/currency-exchange-rates-in-pakistan-today-february-06-2024](https://pakobserver.net/currency-exchange-rates-in-pakistan-today-february-06-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T04:37:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/curreny-rate-today-15-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The exchange rate for one US Dollar against Pakistani rupees was recorded at Rs 280.1 in the local and open market, with a selling rate of Rs 281.8 on Tuesday, February 6, 2024. Note: Exchange rates can vary based on the location and the Exchange Company or bank involved in the transaction. Below are [&#8230;]
+
+## Gold rate in Pakistan today – 06 February, 2024
+ - [https://pakobserver.net/gold-rate-in-pakistan-today-06-february-2024](https://pakobserver.net/gold-rate-in-pakistan-today-06-february-2024)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T04:34:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/gold-rate-in-pakistan-today-24-March-2023-1-1024x576-4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The gold rate of 24-karat is traded at PKR 223,100 on Tuesday, February 6, 2024. Similarly, the bullion market recorded the gold price for 24-karat at Rs 191,280 per 10g. Gold Price in Pakistan’s different cities. City Gold Silver Karachi PKR 223,100 PKR 2,450 Lahore PKR 223,100 PKR 2,450 Islamabad PKR 223,100 PKR [&#8230;]
+
+## Any aggression to be responded with full military might: COAS
+ - [https://pakobserver.net/any-aggression-to-be-responded-with-full-military-might-coas](https://pakobserver.net/any-aggression-to-be-responded-with-full-military-might-coas)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T01:14:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/ispr-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Prime Minister Anwarul Haq Kakar and Chief of Army Staff General Syed Asim Munir visited Muzaffarabad to observe Kashmir Solidarity Day on Monday, a solemn occasion to express unwavering support for the people of Kashmir. The dignitaries commenced their visit by laying a floral wreath at the Martyrs’ Monument at Jammu and Kashmir Monument Muzaffarabad, [&#8230;]
+
+## Pak keeps close watch on Indian state terrorism in IIOJK: Kakar
+ - [https://pakobserver.net/pak-keeps-close-watch-on-indian-state-terrorism-in-iiojk-kakar](https://pakobserver.net/pak-keeps-close-watch-on-indian-state-terrorism-in-iiojk-kakar)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T01:11:45+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/PM-54788-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Caretaker Prime Minister Anwaar-ul-HaqKakar has said that state terrorism of India in Indian Illegally Occupied Jammu &#38; Kashmir was not hidden from anyone and Pakistan keeps a close watch on it. Addressing the Azad Jammu and Kashmir Legislative Assembly on Kashmir Solidarity Day, the prime minister said that for last many years, India was presenting [&#8230;]
+
+## Kashmir Solidarity Day….
+ - [https://pakobserver.net/kashmir-solidarity-day-5](https://pakobserver.net/kashmir-solidarity-day-5)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T01:11:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/Pic05-041-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />On Kashmir Solidarity Day on Monday the passion for Kashmiri self-determination burned bright across Pakistan and Azad Jammu and Kashmir. Large-scale demonstrations, symbolic gestures, and passionate speeches marked the day, highlighting the ongoing struggle and demanding international intervention. In Muzaffarabad, the capital of Azad Kashmir, a grand ceremony unfolded at Azadi Chowk. Participants waved flags, [&#8230;]
+
+## Nawaz promises Islamabad to Murree train service
+ - [https://pakobserver.net/nawaz-promises-islamabad-to-murree-train-service](https://pakobserver.net/nawaz-promises-islamabad-to-murree-train-service)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T01:11:41+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/nawaz-sharif-03-600-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan Muslim League-N supremo Nawaz Sharif on Monday promised a train service starting from Islamabad to Murree and Muzaffarabad after coming into power. Addressing a public meeting in Murree, he said the youth are standing by his party. Pakistan has always stood by the people of Indian illegally Jammu and Kashmir, he added. The former [&#8230;]
+
+## Will change Karachi’s fortune in five years: Bilawal
+ - [https://pakobserver.net/will-change-karachis-fortune-in-five-years-bilawal](https://pakobserver.net/will-change-karachis-fortune-in-five-years-bilawal)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T01:11:38+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/Pic05-074-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan People’s Party Chairman Bilawal Bhutto Zardari on Monday stated that if the people of Karachi elected PPP candidates from at least 20 National Assembly seats, the city’s landscape will change within five years. As part of his electoral campaign, Bilawal addressed the public in various areas of Karachi on Monday, delivering speeches in the [&#8230;]
+
+## S Korea, Saudi Arabia sign agreement on defence cooperation
+ - [https://pakobserver.net/s-korea-saudi-arabia-sign-agreement-on-defence-cooperation](https://pakobserver.net/s-korea-saudi-arabia-sign-agreement-on-defence-cooperation)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T01:11:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />South Korea and Saudi Arabia has signed a memorandum of understanding to expand defence cooperation, Seoul’s Defense Acquisition Program Administration said, as Seoul looks to ink further arms sales in the region. The agreement will see the two establish a joint committee to form a working group for weapons systems research and development as well [&#8230;]
+
+## Over 100 foreign observers present for Feb 8 polls, CEC says
+ - [https://pakobserver.net/over-100-foreign-observers-present-for-feb-8-polls-cec-says](https://pakobserver.net/over-100-foreign-observers-present-for-feb-8-polls-cec-says)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T01:11:34+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/07/ecp-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Chief Election Commissioner (CEC) Sikandar Sultan Raja has said that over 100 foreign observers are present in the country for the Feb 8 general elections. A statement from the Election Commission of Pakistan said that the CEC explained to a Commonwealth observer group that Pakistan had adopted an “open door policy” for foreign poll observers.
+
+## Pakistan naval forces rescue 9 Indian seamen stranded at sea
+ - [https://pakobserver.net/pakistan-naval-forces-rescue-9-indian-seamen-stranded-at-sea](https://pakobserver.net/pakistan-naval-forces-rescue-9-indian-seamen-stranded-at-sea)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T01:11:31+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In a commendable display of maritime cooperation, the Pakistan Navy, in coordination with the Pakistan Maritime Security Agency (PMSA), undertook a successful Search &#38; Rescue Operation, saving the lives of 9 Indian seamen, the crew of the Ocean Tug SAS-5, stranded at sea. The distressing situation unfolded when the Ocean Tug, registered at St Kitts [&#8230;]
+
+## IMF asks Pakistan to further hike gas tariff
+ - [https://pakobserver.net/imf-asks-pakistan-to-further-hike-gas-tariff](https://pakobserver.net/imf-asks-pakistan-to-further-hike-gas-tariff)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T01:11:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/08/IMF-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The International Monetary Fund on Sunday asked Pakistan to further hike the gas tariff. According to sources, the IMF demanded Pakistan to increase gas prices till mid-February, the hike in gas prices could go up to 41 percent. Sources said that the IMF refused to provide subsidies on the power tariff except for the subsidies [&#8230;]
+
+## Kashmiris created new history of courage, steadfastness against Indian oppression: Solangi
+ - [https://pakobserver.net/kashmiris-created-new-history-of-courage-steadfastness-against-indian-oppression-solangi](https://pakobserver.net/kashmiris-created-new-history-of-courage-steadfastness-against-indian-oppression-solangi)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T01:11:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/sh43-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Caretaker Federal Minister for Information, Broadcasting and Parliamentary Affairs Murtaza Solangi Monday said that every generation of Kashmir had created a new story of courage, bravery and steadfastness by resisting illegal Indian occupation of their homeland. Delivering his speech at Kashmir Solidarity Day rally here he said the people of Kashmir had been raising their [&#8230;]
+
+## With a single word ‘lover’ Trump employs familiar play book in tweaking his investigators
+ - [https://pakobserver.net/with-a-single-word-lover-trump-employs-familiar-play-book-in-tweaking-his-investigators](https://pakobserver.net/with-a-single-word-lover-trump-employs-familiar-play-book-in-tweaking-his-investigators)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T00:23:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2019/10/423423423-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Each time Donald Trump refers to a Georgia prosecutor ‘s colleague as her “lover,” he’s invoking a strikingly familiar turn of phrase. After all, Trump as president repeatedly used the same word to mock two FBI officials, including an agent who helped lead the Russia election interference probe, after revelations that the pair had an [&#8230;]
+
+## Putin will visit Turkiye soon to discuss new Black Sea grain export ideas for Ukraine, minister says
+ - [https://pakobserver.net/putin-will-visit-turkiye-soon-to-discuss-new-black-sea-grain-export-ideas-for-ukraine-minister-says](https://pakobserver.net/putin-will-visit-turkiye-soon-to-discuss-new-black-sea-grain-export-ideas-for-ukraine-minister-says)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T00:23:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/12/be-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Russian President Vladimir Putin will visit Turkiye soon, the Turkish foreign minister said late Sunday. It would be Putin’s first trip to a NATO country since Russia’s full-scale invasion of Ukraine two years ago. Foreign Minister Hakan Fidan told the A Haber private TV channel that Putin’s meeting with Turkish President Recep Tayyip Erdogan will [&#8230;]
+
+## Annie Lennox calls for Gaza ceasefire at the end of emotionally charged Grammy Awards performance
+ - [https://pakobserver.net/annie-lennox-calls-for-gaza-ceasefire-at-the-end-of-emotionally-charged-grammy-awards-performance](https://pakobserver.net/annie-lennox-calls-for-gaza-ceasefire-at-the-end-of-emotionally-charged-grammy-awards-performance)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T00:23:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/4213051-835467335-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Scottish singer-songwriter and political activist Annie Lennox called for a ceasefire in Gaza at the end of her performance at Sunday night’s Grammy Awards. Lennox paid tribute to the late Sinéad O’Connor – who converted to Islam and changed her name to Shuhada’ Sadaqat in 2018 – during a lengthy in memoriam segment, in which [&#8230;]
+
+## ISSF SG discusses ways to enhance coordi with OIC GS
+ - [https://pakobserver.net/issf-sg-discusses-ways-to-enhance-coordi-with-oic-gs](https://pakobserver.net/issf-sg-discusses-ways-to-enhance-coordi-with-oic-gs)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T00:23:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/tadaamun-jpeg-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Youth and Sports Department of the General Secretariat of the Organization of Islamic Cooperation (OIC) held a meeting with His Excellency Mr. Nasser Al-Majali, Secretary-General of the Islamic Solidarity Sports Federation (ISSF), at the General Secretariat headquarters in Jeddah, today, Sunday, 4/2/ 2024. The meeting was attended by Dr. Amina Al Hajri, Director General [&#8230;]
+
+## Italy to become target if it joins attacks against Yemen
+ - [https://pakobserver.net/italy-to-become-target-if-it-joins-attacks-against-yemen](https://pakobserver.net/italy-to-become-target-if-it-joins-attacks-against-yemen)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T00:22:58+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/4213221-1525348089-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Italy will become a target if it takes part in attacks against Yemen, a senior official from Yemen’s Iran-aligned Houthis said in an interview published on Monday. Mohamed Ali Al-Houthi, head of the Houthi’s supreme revolutionary committee, told daily La Repubblica that Italy must be neutral in the Israeli-Palestinian conflict and put pressure on Israel [&#8230;]
+
+## 857 Kashmiris martyred since Aug 2019 in IIOJK
+ - [https://pakobserver.net/857-kashmiris-martyred-since-aug-2019-in-iiojk](https://pakobserver.net/857-kashmiris-martyred-since-aug-2019-in-iiojk)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T00:22:57+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/kashmiri-martyre-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Unrelenting military and police siege imposed by Narendra Modi-led Hindutva Indian government on August 05, 2019 continues to take a heavy toll on daily life of the people in Indian illegally occupied Jammu and Kashmir. A report released by the Research Section of Kashmir Media Service, today, said that the life of Kashmiris has been [&#8230;]
+
+## Mumbai tense after arrest of renowned Islamic preacher
+ - [https://pakobserver.net/mumbai-tense-after-arrest-of-renowned-islamic-preacher](https://pakobserver.net/mumbai-tense-after-arrest-of-renowned-islamic-preacher)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T00:22:57+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/Islamic-preacher-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The detention of prominent Islamic preacher Mufti Salman Azhari by the Gujarat Anti-Terrorism Squad has ignited tensions in Mumbai, leading to widespread protests by outside in the city. According to Kashmir Media Service, he was arrested in connection with a speech. Currently held at the Ghatkopar police station, Mufti Salman’s arrest has caused a significant [&#8230;]
+
+## Pakistan’s diplomatic missions observe Kashmir Solidarity Day
+ - [https://pakobserver.net/pakistans-diplomatic-missions-observe-kashmir-solidarity-day](https://pakobserver.net/pakistans-diplomatic-missions-observe-kashmir-solidarity-day)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T00:22:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/kashmir-1-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The diplomatic missions of Pakistan across the world on Monday observed the Kashmir Solidarity Day to express support the struggle of the people of Indian Illegally Occupied Kashmir (IIOJK) for their right to self-determination. The Friends of Kashmir in Dallas, United States, organized a seminar to show solidarity with the people of Kashmir that was [&#8230;]
+
+## IIOJK leaders, organizations thank Pakistan for observing day
+ - [https://pakobserver.net/iiojk-leaders-organizations-thank-pakistan-for-observing-day](https://pakobserver.net/iiojk-leaders-organizations-thank-pakistan-for-observing-day)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T00:22:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/06/APHC-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />All Parties Hurriyat Conference leaders and organizations have thanked Pakistan for observing, today, Kashmir Solidarity Day to express solidarity with the oppressed Kashmiri people in Indian illegally occupied Jammu and Kashmir. According to Kashmir Media Service, APHC leaders Fayaz Hussain Jafari, Syed Sibt Shabbir Qummi and Abdul Samad Inqilabi in their statements in Srinagar termed [&#8230;]
+
+## Shabbir thanks people, Govt of Pakistan for supporting Kashmir cause
+ - [https://pakobserver.net/shabbir-thanks-people-govt-of-pakistan-for-supporting-kashmir-cause](https://pakobserver.net/shabbir-thanks-people-govt-of-pakistan-for-supporting-kashmir-cause)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2024-02-06T00:22:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/Shabbir-Ahmed-Shah-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Illegally detained senior All Parties Hurriyat Conference (APHC) leader Shabbir Ahmad Shah has expressed gratitude to the people and the Government of Pakistan for their sincere support to the Kashmiris’ struggle for right to self-determination. According to Kashmir Media Service, Shabbir Ahmad Shah in a thanksgiving message from Indian notorious Tihar jail said the observance [&#8230;]
+
