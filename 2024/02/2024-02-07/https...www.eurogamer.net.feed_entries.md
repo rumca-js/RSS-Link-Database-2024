@@ -1,0 +1,164 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Promising Sims-like Paralives gets seven-minute gameplay video, is hitting Steam early access next year
+ - [https://www.eurogamer.net/promising-sims-like-paralives-gets-seven-minute-gameplay-video-hitting-early-access-next-year?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/promising-sims-like-paralives-gets-seven-minute-gameplay-video-hitting-early-access-next-year?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T22:34:22+00:00
+
+<img src="https://assetsio.reedpopcdn.com/paralives_8FhrFRp.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+If you're a fan of The Sims and Sims-like experiences, it&rsquo;s quite an exciting time; The Sims 5, or whatever it&rsquo;ll be called, is slowly fomenting over at EA, then there&rsquo;s the imminent release of Paradox&rsquo;s Life By You following a number of delays, and even the <a href="https://store.steampowered.com/app/1651490/Tiny_Life/">charmingly lo-fi Tiny Life</a> for old-school Sims fans. Perhaps the game that&rsquo;s generated the most excitement since its unveiling back in 2019 is Paralives, and after a long old wait - and five years of crowdfunding support - developer Paralives Studio has announced it'll be entering early access next year.
+</p><p>
+That bit of information comes via Paralives new live mode gameplay video - live mode in Sims parlance is the bit where digital chracters actively go about their 
+
+## Marvel's Spider-Man 2 New Game Plus swings onto PS5 next month
+ - [https://www.eurogamer.net/marvels-spider-man-2-new-game-plus-swings-onto-ps5-next-month?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/marvels-spider-man-2-new-game-plus-swings-onto-ps5-next-month?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T17:34:10+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Marvels-Spiderman-2.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><a href="https://www.eurogamer.net/spider-man-2-walkthrough-9356">Marvel's Spider-Man 2</a>'s much anticipated New Game Plus mode will arrive next month - on 7th March - which means soon we can all <em>swing</em> back around and go for another <em>spin</em> with Peter and Miles.</p><p>Along with this new mode, players can also expect some new suits for the two Spider-Men and "more" when the update goes live.</p><p>The Marvel's Spider-Man 2 team has promised it will share a complete list of upcoming features a bit closer to this update's release. We will, of course, keep you posted.</p> <p><a href="https://www.eurogamer.net/marvels-spider-man-2-new-game-plus-swings-onto-ps5-next-month?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Death Stranding's iOS and MacOS ports are a mixed bag
+ - [https://www.eurogamer.net/digitalfoundry-2024-death-strandings-ios-and-macos-ports-are-a-mixed-bag?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/digitalfoundry-2024-death-strandings-ios-and-macos-ports-are-a-mixed-bag?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T15:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/DS-SITE_rL6HAXN.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+In parallel with development of a stunning-looking sequel, Kojima Productions has continued to work on the original Death Stranding, delivering a series of ports - and the latest is exceptionally intriguing, targeting MacOS and selected iOS devices. A single purchase gets you access to a game that runs on Apple Silicon Macs and iPads - as well as the iPhone 15 Pro. The promise is mouthwatering, especially on iOS: the full Death Stranding experience on portable, fanless devices.
+</p><p>
+Cutting to the chase, Apple's iPhone 15 Pro comes surprisingly close to the console experience in Death Stranding. The basic visual setup is convincing, with visual settings not too far from its PS4 counterpart. Pausing on the opening shot of gameplay, there are some differences - the rain is less prominent on iPhone, the foliage looks diffe
+
+## Final Fantasy 8 would need reworked battle system in hypothetical remake, says series producer
+ - [https://www.eurogamer.net/final-fantasy-8-would-need-reworked-battle-system-in-hypothetical-remake-says-series-producer?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/final-fantasy-8-would-need-reworked-battle-system-in-hypothetical-remake-says-series-producer?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T14:49:47+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ff8-squall-rinoa.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Final Fantasy 8 director, and series producer, Yoshinori Kitase has said he would change its combat system in a hypothetical remake.
+</p><p>
+The eighth game in the series is more experimental than others, in particular with its Junction system used to boost the stats of player characters. 
+</p><p>
+Kitase told <a href="https://www.ign.com/articles/final-fantasy-8-director-would-change-the-combat-system-in-a-remake">IGN</a> he would "really rework the battle system", mentioning the Junction system specifically.
+</p> <p><a href="https://www.eurogamer.net/final-fantasy-8-would-need-reworked-battle-system-in-hypothetical-remake-says-series-producer?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Dreams PC, PlayStation 5 ports reportedly canned
+ - [https://www.eurogamer.net/dreams-pc-playstation-5-ports-reportedly-canned?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/dreams-pc-playstation-5-ports-reportedly-canned?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T14:02:42+00:00
+
+<img src="https://assetsio.reedpopcdn.com/dreams-logo.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+PC and PlayStation 5 versions of game creation platform Dreams were previously in development, it's been claimed. 
+</p><p>
+During a recent <a href="https://clips.twitch.tv/PoisedSmilingChamoisThisIsSparta-DDV_Y6VJVD5YHvFY">livestream</a> (thanks, <a href="https://wccftech.com/dreams-pc-ps5-enhanced-port-ray-tracing/">wccftech</a>), industry insider Lance McDonald discussed unannounced plans to bring Dreams, released for PS4 in 2020, to both PC and PS5 - and that versions of these projects were near-complete. 
+</p><p>
+Back in 2020, <a href="https://www.eurogamer.net/why-did-dreams-take-seven-years-to-make">Eurogamer was told by developer Media Molecule that Dreams already ran on PS5</a>, though this version was part of the studio simply "exploring" the hardware. Separately, Eurogamer had heard of the game's PC port being in dev
+
+## Layoffs hit WWE, Lego 2K Drive studio Visual Concepts Austin
+ - [https://www.eurogamer.net/layoffs-hit-wwe-lego-2k-drive-studio-visual-concepts-austin?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/layoffs-hit-wwe-lego-2k-drive-studio-visual-concepts-austin?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T14:00:34+00:00
+
+<img src="https://assetsio.reedpopcdn.com/lego-2k-drive-face.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Visual Concepts Austin - known for its work on WWE 2K23, NBA 2K24, and Lego 2K Drive - is the latest studio to be affected by layoffs across the video games industry.</p><p>While the exact number of those impacted by these recent layoffs remains unclear, the studio's former art manager Brad Bowling said he and a "group of very talented developers" were affected. "The games industry bloodletting continues," Bowling wrote on <a href="https://www.linkedin.com/feed/update/urn:li:activity:7160728671496929280/">LinkedIn</a>.</p><p>Software engineer Sydney F. is another known to be laid off from Visual Concepts Austin this month. "It's definitely rough," she <a href="https://www.linkedin.com/feed/update/urn:li:activity:7160702307158933508/">wrote</a>, stating she is one of "several other amazing colleagues" to have been affecte
+
+## Homeworld 3 demo available on Steam
+ - [https://www.eurogamer.net/homeworld-3-demo-available-on-steam?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/homeworld-3-demo-available-on-steam?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T13:04:41+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ss_7503e27e878fef4f562361ea1c3a165bff8f66aa.1920x1080.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Homeworld 3 is currently playable on Steam in demo form. </p><p>The game is one month away from <a href="https://www.eurogamer.net/over-20-years-later-homeworld-3-arrives-in-2024">release on 8th March</a>, after a number of delays. </p><p>The demo lets players try out its new <a href="https://store.steampowered.com/news/app/1840080/view/4042612166517679259?l=english">War Games</a> mode - a roguelike take on Homeworld's RTS gameplay where players will be given randomised combat challenges. Upon completion, players will be able to upgrade their ships for the next run.</p> <p><a href="https://www.eurogamer.net/homeworld-3-demo-available-on-steam?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Counter-Strike 2 major update sees return of Arms Race
+ - [https://www.eurogamer.net/counter-strike-2-major-update-sees-return-of-arms-race?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/counter-strike-2-major-update-sees-return-of-arms-race?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T12:43:54+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Counter-Stike-2-header.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Arms Race has returned to Counter-Strike thanks to a new CS2 patch. 
+</p><p>
+"Grab your guns and brace yourself for a chaotic race to the top," the Counter-Strike 2 team <a href="https://store.steampowered.com/sale/armsrace">implored</a>. "Work your way up to the knife stage and earn the final kill to secure the win. Go! Go! Go!"
+</p><p>
+This mode also comes with two maps, known as "Baggage" and "Shoots", for players to blast their way around. These are reworked versions of the maps that appeared in CS:GO. Baggage - which is set in an airport bagging handling facility - even has player-operated controls for the conveyer belts in the level.
+</p> <p><a href="https://www.eurogamer.net/counter-strike-2-major-update-sees-return-of-arms-race?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Lies of P gets free Wo Long gear DLC on Valentine's Day
+ - [https://www.eurogamer.net/lies-of-p-gets-free-wo-long-gear-dlc-on-valentines-day?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/lies-of-p-gets-free-wo-long-gear-dlc-on-valentines-day?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T11:38:02+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Lies-of-P-x-Wo-Long_-Fallen-Dynasty-Collaboration-Trailer-0-43-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Wo Long: Fallen Dynasty crossover DLC for Lies of P is on the way ready for Valentine's Day.
+</p><p>
+A free update to Lies of P on 14th February will add the Azure Dragon Crescent Glaive weapon and Armor of the Honorable and Bandana of the Honorable costumes. It means you'll be able to dress up the puppet P in Three Kingdoms China gear.
+</p><p>
+This crossover follows the Lies of P collection made available in Wo Long last September - now that will be included in the newly announced Wo Long: Fallen Dynasty Complete Edition.
+</p> <p><a href="https://www.eurogamer.net/lies-of-p-gets-free-wo-long-gear-dlc-on-valentines-day?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Palworld patch saves breeding Pals from falling asleep and never waking up
+ - [https://www.eurogamer.net/palworld-patch-saves-breeding-pals-from-falling-asleep-and-never-waking-up?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/palworld-patch-saves-breeding-pals-from-falling-asleep-and-never-waking-up?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T11:20:58+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Palworld_tUdR3NY.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><a href="https://www.eurogamer.net/palworld-beginner-tips-tricks-9409">Palworld</a> developer Pocketpair has detailed a patch that will ensure all those Pals sent to the breeding farm will no longer be so exhausted from reproducing they go to sleep and never wake up.</p><p>In addition to this life saving fix, the studio has also addressed game crashes that would corrupt save data when the number of Pals captured by the guild reached approximately 7000. It noted following its previous patch, "save data that had already been in this state (for servers, the server's world data) remained in a broken state that made it impossible to load". However, this latest Palworld patch will resolve that.</p><p>Pocketpair has also implemented a variety of countermeasures against some cheats and exploits, but it has not gone into specifics.
+
+## WWE 2K24 scrubs Brock Lesnar from special edition cover
+ - [https://www.eurogamer.net/wwe-2k24-scrubs-brock-lesnar-from-special-edition-cover?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/wwe-2k24-scrubs-brock-lesnar-from-special-edition-cover?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T11:07:38+00:00
+
+<img src="https://assetsio.reedpopcdn.com/wwe-2k24-art.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+High-profile wrestler Brock Lesnar has been removed from WWE 2K24's special edition box art, following the publication of a lawsuit regarding disgraced former WWE boss Vince McMahon.
+</p><p>
+The lawsuit alleges McMahon sexually assaulted and sex trafficked an employee while running WWE, and claims an unnamed wrestler then requested an explicit video of the victim from McMahon during a contract renegotiation. 
+</p><p>
+The Wall Street Journal has said that wrestler is Lesnar. McMahon has denied the allegations in the lawsuit. Lesnar has not responded to requests for comment.
+</p> <p><a href="https://www.eurogamer.net/wwe-2k24-scrubs-brock-lesnar-from-special-edition-cover?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Call of Duty: Modern Warfare 3 gets free multiplayer trial
+ - [https://www.eurogamer.net/call-of-duty-modern-warfare-3-gets-free-multiplayer-trial?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/call-of-duty-modern-warfare-3-gets-free-multiplayer-trial?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T11:05:45+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ss_7f4c9c08a0c89d53436370ef39957ba4e53e31e0.1920x1080.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Modern Warfare 3 is offering a free multiplayer trial this weekend, during the launch of Season 2.</p><p><a href="https://www.eurogamer.net/warzone-modern-warfare-3-season-2-release-date-mw3-9428">Modern Warfare Season 2</a> begins later today at 5pm GMT / 12pm ET, and will add three new 6v6 maps called Stash House, Vista, and Departures.</p><p>Both Vista and Departures are medium-sized maps, while Stash House is small-sized. Here's a quick look at them from Activision.</p> <p><a href="https://www.eurogamer.net/call-of-duty-modern-warfare-3-gets-free-multiplayer-trial?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Five of the Best: Shadow drops
+ - [https://www.eurogamer.net/five-of-the-best-shadow-drops?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/five-of-the-best-shadow-drops?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T10:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/pt_silent_hill.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><em>Five of the Best is a weekly series for </em><a href="https://www.eurogamer.net/subscribe"><em>supporters of Eurogamer</em></a><em>. It's a series that highlights some of the features in games that are often overlooked. It's also about having your say, so don't be shy, use the comments below and join in!</em></p><p><em>Oh and if you want to read more, you can - you can find </em><a href="https://www.eurogamer.net/topics/five-of-the-best"><em>our entire Five of the Best archive</em></a><em> elsewhere on the site.</em></p><p>Come on, there's nothing more fun than watching a conference and seeing someone demo a game and then announce: "It's available right now!" Whatever the game is, it produces a jolt of excitement. It's an occasion! It's a talking point. And they seem to be more popular now than ever.</p> <p><a href="http
+
+## Crusader Kings 3's 2024 roadmap brings legendary tales, the Black Death, French fashion, and more
+ - [https://www.eurogamer.net/crusader-kings-3s-2024-roadmap-brings-legendary-tales-the-black-death-and-more?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/crusader-kings-3s-2024-roadmap-brings-legendary-tales-the-black-death-and-more?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T00:34:38+00:00
+
+<img src="https://assetsio.reedpopcdn.com/crusader-kings-3-legends-of-the-dead.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+If your nights spent kingly (or queenly) crusading have been growing a little stale of late, Paradox Interactive would like you to know there's a busy year ahead for its acclaimed medieval grand strategy game, with its newly revealed 2024 Crusader Kings 3 roadmap promising two new large-scale expansions and more to freshen up that sandbox.
+</p><p>
+2024 marks the start of what Paradox is calling Crusader Kings 3: Chapter 3, which includes the aforementioned two expansions - Legends of the Dead and Roads to Power - plus the Wandering Nobles event pack, and the Couture of the Capets cosmetic clothing DLC.
+</p><p>
+Legends of the Dead is up first, falling under the banner of what Paradox likes to call a Core Expansion - which is to say, <em>sizeable</em> but not quite as sizeable as Crusader Kings 3's Major
+
+## Final Fantasy is a "toy box", says series producer Yoshinori Kitase
+ - [https://www.eurogamer.net/final-fantasy-is-a-toy-box-says-series-producer-yoshinori-kitase?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/final-fantasy-is-a-toy-box-says-series-producer-yoshinori-kitase?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T00:01:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/EN_20_ff7rebirth_SS_1208_Trailer_png_jpgcopy.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+"My take on Final Fantasy, and this is quite deliberate, is I don't restrict it to being any one thing," says series producer Yoshinori Kitase. I'd asked him what he felt was the essence of Final Fantasy, especially as so many fans have their own ideas of what the series should be.
+</p><p>
+"We talk about Final Fantasy as being a toy box," he continues. "The idea that you take the lid off the toy box and you've got all kinds of different things in there. There's a dinosaur here, you've got your football here and your baseball here. And there are so many different things to play with and have fun. And that to me, that's what Final Fantasy is."
+</p><p>
+I'm chatting with Kitase at a preview event for Final Fantasy 7 Rebirth, the next game in the series and second in the planned trilogy of remakes. 
+
+## I'm going to lose hours playing cards in Final Fantasy 7 Rebirth
+ - [https://www.eurogamer.net/im-going-to-lose-hours-playing-cards-in-final-fantasy-7-rebirth?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/im-going-to-lose-hours-playing-cards-in-final-fantasy-7-rebirth?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-07T00:01:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/final-fantasy-7-rebirth-060823-(6).jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The grasslands lay out before me, the greens and blues seemingly luminous compared to the polluted, labyrinthine city of Midgar. The map screen is a tantalising glimpse of how sprawling this particular region is and icons at the top of the screen tempt me towards the main quest. But all I can think about is playing more cards.
+</p><p>
+The original Final Fantasy 7 had plenty of minigames, but not a card game. It was follow-up Final Fantasy 8 that introduced Triple Triad, which later found new life in Final Fantasy 14, while Final Fantasy 9 gave us the similar Tetra Master, later included in Final Fantasy 11. These card games are some of the most popular minigames in the series - there's now a real life trading card game too.
+</p><p>
+Which brings us to Final Fantasy 7 Rebirth. Queen's Blood is this game's 
+
