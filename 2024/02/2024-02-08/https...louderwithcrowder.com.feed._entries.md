@@ -1,0 +1,65 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed/, language:en-US
+
+## Watch: Democrat official says the quiet part out loud, wants illegals given priority over our veterans
+ - [https://www.louderwithcrowder.com/maine-migrant-veterans](https://www.louderwithcrowder.com/maine-migrant-veterans)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-08T22:03:12+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51423696&amp;width=1245&amp;height=700&amp;coordinates=0%2C154%2C0%2C0" /><br /><br /><p>When you believe that no human is illegal, that often means prioritizing foreign nationals over veterans who risked their lives for this country. At least for some Democrats in Maine, it does.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/TheMaineWire/status/1755208019363631580"></a>
+</blockquote>
+<p><a href="https://townhall.com/tipsheet/leahbarkoukis/2024/02/08/maine-votes-to-create-new-office-to-help-illegal-immigrants-n2634959" rel="noopener noreferrer" target="_blank">According to <em>Townhall: </em></a></p><blockquote>Maine Republicans are sounding off against a Democratic plan to create an Office of New Americans that aims to assist in the economic and civic integration of “immigrants" in the state.<br /><br />
+The State and Local Go
+
+## Trans daycare worker sexually abuses a baby, gets ZERO jail time after taking a plea deal
+ - [https://www.louderwithcrowder.com/maria-mark-childers](https://www.louderwithcrowder.com/maria-mark-childers)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-08T22:00:20+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51424140&amp;width=1200&amp;height=800&amp;coordinates=34%2C0%2C0%2C0" /><br /><br /><p>Child abuse is one of the worst crimes someone can commit. But the only crime that is worse than that is child sexual abuse. But for some reason, a trans pedophile in Kentucky got NO jail after he pleaded guilty to sexually abusing a BABY.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/MrAndyNgo/status/1755364277282918593"></a>
+</blockquote>
+<p><a href="https://thepostmillennial.com/kentucky-trans-pedophile-receives-no-jail-time-after-pleading-guilty-to-sex-abuse-of-a-baby" rel="noopener noreferrer" target="_blank">According to The <em>Post Millennial: </em></a></p><blockquote>“A Kentucky trans-identified biological male who has been charged with sexually abusing a baby will not face jail time after reaching a plea agreement with prosecutors.
+
+## Watch this superintendent squirm when a mother exposes the sexually inappropriate assignments given to middle schoolers
+ - [https://www.louderwithcrowder.com/lakeland-inappropriate-assignments](https://www.louderwithcrowder.com/lakeland-inappropriate-assignments)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-08T18:21:16+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51421840&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Sage Ops posted undercover footage that exposed how a Lakeland Copper Beech Middle School assigned “sexually inappropriate assignments”.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/libsoftiktok/status/1755364566718955853"></a>
+</blockquote>
+<p><a href="https://twitter.com/SageOps_/status/1743382843944812610" rel="noopener noreferrer" target="_blank">According to Sage Ops: </a></p><blockquote>“For years, a 7th-grade science teacher has had 11 & 12 yo students take a personality test that reveals their ‘romantic’ tendencies. Other class assignments included links to The Best S*x Dolls, S*x Toys, P*nis Pumps…<br /><br />
+A Lakeland Copper Beech Middle School (NY) mother covertly recorded a meeting with the school’s principal and a science teac
+
+## Watch: Chippewa Falls School Responds, We Debunk Their Bullsh*t!
+ - [https://www.louderwithcrowder.com/debunking-chippewa-falls](https://www.louderwithcrowder.com/debunking-chippewa-falls)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-08T17:19:54+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=51420630&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>The Chippewa Falls School District decided to double down on its decision to not tell parents and leave them in the dark about the manifesto after the police report was leaked on the show. Subsequently, they have also decided to attack the messenger. Today’s show debunks the false claims they made.</p><div class="rm-embed embed-media"></div><p>The district told parents in a letter sent out yesterday that no one “was in jeopardy at any time” because of the incident.<br /></p><p>"The student was dangerous enough to be suspended and then expelled,” Crowder said. </p><p>It took five weeks from the time he was suspended to be expelled. </p><p>“That’s the danger zone,” Crowder said. “For five weeks, parents had no idea that this person was there.” </p><p>They also claimed that there was no unusual police presence, which is why
+
+## Joe Biden saw dead people for second time this month, claims he had conversation with German Chancellor four years after his death
+ - [https://www.louderwithcrowder.com/joe-biden-german-chancellor](https://www.louderwithcrowder.com/joe-biden-german-chancellor)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-08T14:28:41+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=51419455&amp;width=1200&amp;height=800&amp;coordinates=92%2C0%2C168%2C0" /><br /><br /><p>Something tells me Karine Jean-Pierre is going to avoid eye contact with Doocy today. <a href="https://www.louderwithcrowder.com/kjp-rabbit-hole" target="_blank">Less than 24 hours after getting snippy with him</a> for asking about Joe Biden seeing dead people, there are reports that Joe Biden claimed to see another dead person. Either this is a brilliant campaign tact to make Biden look like he's lost what's left of his marbles, or someone needs to be arrested for elder abuse.</p><p>According to a WH pool report, Joe Biden -- <a href="https://www.louderwithcrowder.com/biden-hamas-border" target="_blank">who needed a reporter to remind him what Hamas was</a> -- was at a fundraiser where he was talking about how shortly after he beat Donald Trump; he went to the G7 and told other world leaders that America was back. Bi
+
+## Aaron Rodgers declares himself two-time COVID MVP as he roasts Jimmy Kimmel over feud: "I don't give a f***"
+ - [https://www.louderwithcrowder.com/aaron-rodgers-joe-rogan-jimmy-kimmel](https://www.louderwithcrowder.com/aaron-rodgers-joe-rogan-jimmy-kimmel)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-08T13:12:09+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51416220&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C200%2C0" /><br /><br /><p>Aaron Rodgers joined Joe Rogan, and they dunked on Jimmy Kimmel some more. I doubt it will get as much attention as Rodgers on the Pat McAfee show. The Left thinks they can control McAfee since he's on ESPN (spoiler: <a href="https://theathletic.com/5196345/2024/01/11/rodgers-mcafee-show-espn-appearance-nfl/" target="_blank">nope</a>). $250 million and a Spotify renewal later, I think they've given up on othering Rogan.</p><p>Which is a shame. Rodgers declaring himself a two-time SCHMOVID MVP is hilarious and the media outrage over it would have been delightful. It has the bonus of being true; he was a two-time NFL MVP during the SCHMOVID era. But if you're a gatekeeper of "the narrative," I doubt you'll see the humor in it. Or in Rodgers' comments on the controversy surrounding <a href="https://www.louderwithcrowder.c
+
+## Sources: Chippewa Falls School Responds, We Debunk Their Bullsh*t!
+ - [https://www.louderwithcrowder.com/sources-february-8-2024](https://www.louderwithcrowder.com/sources-february-8-2024)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-08T11:11:12+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51419825&amp;width=1200&amp;height=800&amp;coordinates=300%2C0%2C0%2C0" /><br /><br /><p>Chippewa Falls School District doubled down on its decision not to tell the parents after we leaked the police report. We have major updates for you. Also, Biden is holding Americans hostage over the border crisis.</p><div class="rm-embed embed-media"></div><p><strong>INTERNATIONAL SWAT COMPETITON</strong><br /></p><ul><li><a href="https://x.com/Lukewearechange/status/1754588249526276477?s=20" rel="noopener noreferrer" target="_blank">Chile decided to highlight an all-women’s SWAT team for international competition in the UAE</a></li><li><a href="https://twitter.com/i/status/1754704387384172850" rel="noopener noreferrer" target="_blank">The men competing</a></li><li><a href="https://twitter.com/i/status/1736816228004499887" rel="noopener noreferrer" target="_blank">Delta Airlines goes WOKE!</a></li><li><a href="https:/
+

@@ -1,0 +1,163 @@
+# Source:Npr, URL:https://feeds.npr.org/1001/rss.xml, language:en-US
+
+## Senators ask CEOs why their drugs cost so much more in the U.S.
+ - [https://www.npr.org/sections/health-shots/2024/02/08/1230174586/high-us-drug-prices](https://www.npr.org/sections/health-shots/2024/02/08/1230174586/high-us-drug-prices)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T22:35:23+00:00
+
+The Senate HELP committee questioned pharmaceutical CEOs about how much more Americans pay for the same drugs sold for less in Canada, Japan and Europe.
+
+## Snoop Dogg and Master P sue Walmart and Post for trying to sabotage its cereal
+ - [https://www.npr.org/2024/02/08/1230071380/snoop-dogg-master-p-walmart-lawsuit-cereal-brand-off-shelves](https://www.npr.org/2024/02/08/1230071380/snoop-dogg-master-p-walmart-lawsuit-cereal-brand-off-shelves)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T21:46:34+00:00
+
+The rappers say that Walmart and Post Consumer Foods neglected their cereal brand and intentionally hid it in stockrooms to prevent it from being sold to customers.
+
+## Pakistanis wait for election results
+ - [https://www.npr.org/2024/02/08/1230152221/pakistan-election-voting-imran-khan-nawaz-sharif](https://www.npr.org/2024/02/08/1230152221/pakistan-election-voting-imran-khan-nawaz-sharif)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T20:58:00+00:00
+
+Thursday's general elections came amid economic woes and continued political polarization. After voting began, authorities cut mobile phone and internet services, citing "deteriorating security."
+
+## Read the special counsel's report on Biden's handling of classified documents
+ - [https://www.npr.org/2024/02/08/1229805332/special-counsel-report-biden-classified-documents](https://www.npr.org/2024/02/08/1229805332/special-counsel-report-biden-classified-documents)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T20:25:10+00:00
+
+Justice Department special counsel Robert Hur has released his report on an investigation into President Biden's handling of classified documents.
+
+## Justice Department will not charge Biden in classified documents probe
+ - [https://www.npr.org/2024/02/08/1200897377/biden-classified-documents-investigation](https://www.npr.org/2024/02/08/1200897377/biden-classified-documents-investigation)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T19:57:44+00:00
+
+After classified documents were discovered in Biden's home and a Washington, D.C. office, the DOJ tasked special counsel Robert Hur to investigate.
+
+## Drivers using Apple Vision Pro headsets prompt road safety concerns
+ - [https://www.npr.org/2024/02/08/1230001568/apple-vision-pro-drivers-safety](https://www.npr.org/2024/02/08/1230001568/apple-vision-pro-drivers-safety)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T18:13:52+00:00
+
+Videos of Apple's new mixed-reality headset being used behind the wheel have led to concerns about distracted driving. Experts say they pose dangers since they don't perfectly reproduce human vision.
+
+## The FCC says AI voices in robocalls are illegal
+ - [https://www.npr.org/2024/02/08/1230052884/the-fcc-says-ai-voices-in-robocalls-are-illegal](https://www.npr.org/2024/02/08/1230052884/the-fcc-says-ai-voices-in-robocalls-are-illegal)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T18:05:30+00:00
+
+The federal agency's ruling follows concerns over how the cutting-edge technology is being used to scam people and mislead voters.
+
+## Ukraine's Zelenskyy is replacing the army's leader in a war strategy shake-up
+ - [https://www.npr.org/2024/02/08/1230053272/ukraine-zelenskyy-replaces-army-leader](https://www.npr.org/2024/02/08/1230053272/ukraine-zelenskyy-replaces-army-leader)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T17:14:44+00:00
+
+Ukrainian President Volodymyr Zelenskyy thanked Gen. Valerii Zaluzhnyi for his two years of service as commander-in-chief and discussed possible replacements for the top military job.
+
+## Disney gets stock bump after talking Fortnite, Taylor Swift, Moana
+ - [https://www.npr.org/2024/02/08/1229995199/disney-gets-stock-bump-after-talking-fortnite-taylor-swift-moana-earnings](https://www.npr.org/2024/02/08/1229995199/disney-gets-stock-bump-after-talking-fortnite-taylor-swift-moana-earnings)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T17:00:00+00:00
+
+At Disney's earnings call, CEO Bob Iger shared plans for a major investment in an Epic Games partnership. Also, a new Moana movie is heading to theaters, and Taylor Swift's concert film to Disney+.
+
+## Sexual violence is an ancient and often unseen war crime. Is it inevitable?
+ - [https://www.npr.org/sections/goatsandsoda/2024/02/08/1229815241/sexual-violence-is-an-ancient-and-often-unseen-war-crime-is-it-inevitable](https://www.npr.org/sections/goatsandsoda/2024/02/08/1229815241/sexual-violence-is-an-ancient-and-often-unseen-war-crime-is-it-inevitable)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T16:32:12+00:00
+
+"Conflict-related sexual violence" is as old as the Bible and as topical as current wars around the world. We talk to three experts about why it persists, why it's underreported and how to stop it.
+
+## Virginia lawmakers consider proposal to legalize physician-assisted death
+ - [https://www.npr.org/2024/02/08/1229935048/virginia-lawmakers-consider-proposal-to-legalize-physician-assisted-death](https://www.npr.org/2024/02/08/1229935048/virginia-lawmakers-consider-proposal-to-legalize-physician-assisted-death)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T14:34:31+00:00
+
+In ten states and Washington D.C., some patients with terminal illnesses can request medication from their doctor to end their lives.
+
+## Supreme Court to hear Trump ballot case; U.S. strike kills Iran-backed militia leader
+ - [https://www.npr.org/2024/02/08/1229980669/supreme-court-to-hear-trump-ballot-case-u-s-strike-kills-iran-backed-militia-lea](https://www.npr.org/2024/02/08/1229980669/supreme-court-to-hear-trump-ballot-case-u-s-strike-kills-iran-backed-militia-lea)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T13:09:03+00:00
+
+The Supreme Court considers whether Donald Trump should be disqualified from Colorado's ballot. A U.S. strike in Baghdad kills a leader of an Iran-backed militia.
+
+## Taken by Russia, then rescued, young Ukrainians speak out
+ - [https://www.npr.org/2024/02/08/1228453066/taken-by-russia-then-rescued-young-ukrainians-speak-out](https://www.npr.org/2024/02/08/1228453066/taken-by-russia-then-rescued-young-ukrainians-speak-out)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T11:56:13+00:00
+
+The charity Save Ukraine brought young Ukrainians to Washington D.C. to tell Congress about being abducted by Russia.
+
+## TikTok Shop is taking on Amazon — one viral video at a time
+ - [https://www.npr.org/2024/02/08/1228226459/tiktok-shop-amazon-social-media-business-ecommerce](https://www.npr.org/2024/02/08/1228226459/tiktok-shop-amazon-social-media-business-ecommerce)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T10:45:05+00:00
+
+TikTok has surged into the e-commerce space, positioning itself as a kind of Amazon for the social media age. Analysts say it might work, but users and sellers are asking: At what price?
+
+## South Korea's president calls handbag scandal 'political maneuvering' by his critics
+ - [https://www.npr.org/2024/02/08/1229972863/south-korea-president-luxury-handbag-scandal](https://www.npr.org/2024/02/08/1229972863/south-korea-president-luxury-handbag-scandal)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T10:11:12+00:00
+
+In a television interview, President Yoon Suk Yeol acknowledged it being "regretful" that his wife didn't reject being given a Christian Dior handbag as a gift.
+
+## Beyond the primary, Nevada Democrats have to turn policy playbook into actual votes
+ - [https://www.npr.org/2024/02/08/1229599748/nevada-democrats-biden-primary-results-election](https://www.npr.org/2024/02/08/1229599748/nevada-democrats-biden-primary-results-election)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T10:01:12+00:00
+
+Democrats are looking to keep Nevada voters in Biden's corner this year and they hope his policies to do it. But communicating the federal dollars isn't the easiest way to excite voters.
+
+## Question marks over China's economy have stocks on a long downward slide
+ - [https://www.npr.org/2024/02/08/1228271299/china-economy-uncertainty-stocks-downward-slide](https://www.npr.org/2024/02/08/1228271299/china-economy-uncertainty-stocks-downward-slide)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T10:01:12+00:00
+
+Benchmark indexes are near a five-year low, after a rough start to the year. China's CSI 300 index is down nearly 20% over the past 12 months. Analysts say the malaise is a symptom of bigger problems.
+
+## California sea otters nearly went extinct. Now they're rescuing their coastal habitat
+ - [https://www.npr.org/2024/02/08/1229808022/california-sea-otters-nearly-went-extinct-now-theyre-rescuing-their-coastal-habi](https://www.npr.org/2024/02/08/1229808022/california-sea-otters-nearly-went-extinct-now-theyre-rescuing-their-coastal-habi)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T10:00:42+00:00
+
+California sea otter populations have rebounded in recent decades. New research finds that by feasting on shore crabs, these otters are helping to protect their coastal marsh habitat against erosion.
+
+## For LGBT asylum-seekers, coming to the U.S. is hardly the end of a harrowing journey
+ - [https://www.npr.org/2024/02/08/1220480721/immigration-lgbtq-violence-asylum](https://www.npr.org/2024/02/08/1220480721/immigration-lgbtq-violence-asylum)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T10:00:42+00:00
+
+Gay and trans migrants often faced violence in their home countries. Many face similar persecution from their countrymen in the U.S.
+
+## On Caucus Day in Nevada, Trump's pitch is all about November
+ - [https://www.npr.org/2024/02/08/1229854209/nevada-primary-vs-caucus-trump-republican-party-biden](https://www.npr.org/2024/02/08/1229854209/nevada-primary-vs-caucus-trump-republican-party-biden)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T10:00:42+00:00
+
+While many eyes are on Trump's primary battle with former S.C. Gov. Nikki Haley in her home state, the former president is increasingly turning his focus to his next likely opponent: President Biden.
+
+## AI fakes raise election risks as lawmakers and tech companies scramble to catch up
+ - [https://www.npr.org/2024/02/08/1229641751/ai-deepfakes-election-risks-lawmakers-tech-companies-artificial-intelligence](https://www.npr.org/2024/02/08/1229641751/ai-deepfakes-election-risks-lawmakers-tech-companies-artificial-intelligence)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T10:00:13+00:00
+
+As AI-generated deepfakes are being used to spread false information in elections in the U.S. and around the world, policymakers, tech platforms and governments are trying to catch up.
+
+## In Gaza, anger grows at Hamas along with fury at Israel
+ - [https://www.npr.org/2024/02/08/1229749527/in-gaza-anger-grows-at-hamas](https://www.npr.org/2024/02/08/1229749527/in-gaza-anger-grows-at-hamas)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T10:00:13+00:00
+
+Gazans are increasingly voicing their anger at Hamas' handling of the war and the heavy costs civilians have paid.
+
+## 'Nipplegate' was 20 years ago — but has the treatment of female stars improved?
+ - [https://www.npr.org/2024/02/08/1229334473/nipplegate-20-years-ago-janet-jackson-justin-timberlake-treatment-female-stars](https://www.npr.org/2024/02/08/1229334473/nipplegate-20-years-ago-janet-jackson-justin-timberlake-treatment-female-stars)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-02-08T10:00:12+00:00
+
+The new book <em>Toxic: Women, Fame, and the Tabloid 2000s </em>reassesses a time when popular culture policed, ridiculed and even took down a variety of women in the public eye.
+
