@@ -1,0 +1,199 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Hideo Kojima says he decided to make Physint for fans after sickness made him reconsider his priorities
+ - [https://www.eurogamer.net/hideo-kojima-says-he-decided-to-make-physint-for-fans-after-sickness-made-him-reconsider-his-priorities?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/hideo-kojima-says-he-decided-to-make-physint-for-fans-after-sickness-made-him-reconsider-his-priorities?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T18:12:20+00:00
+
+<img src="https://assetsio.reedpopcdn.com/State-of-Play-_-January-31%2C-2024-42-30-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Hideo Kojima <a href="https://www.eurogamer.net/hideo-kojima-making-new-metal-gear-solid-style-game-and-movie-for-playstation">dropped a bombshell</a> at the end of January, announcing that - alongside development of Death Stranding 2 - he would also be returning to the action-espionage genre that put him on the map with the Metal Gear series, in the form of Physint for PlayStation 5. And now, in a <a href="https://www.youtube.com/watch?v=8SegRMGH_K4">new episode of his HideoTube web series</a>, the designer has explained how a period of sickness and surgery - and thoughts of his own mortality - convinced him to 'change his priorities' and do something fans had been asking him to do for years.
+</p><p>
+During the hour-long episode (thanks <a href="https://www.gamespot.com/articles/hideo-k
+
+## Baldur's Gate 3 update improves snogging next week
+ - [https://www.eurogamer.net/baldurs-gate-3-update-improves-snogging-next-week?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/baldurs-gate-3-update-improves-snogging-next-week?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T17:01:35+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Untitled-1_2rtTRkx.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The brilliant Baldur's Gate 3 will let you lock lips with your love interest better than ever before as part of its big Patch 6 update, due next week. 
+</p><p>
+Just in time for Valentine's Day, your hero's affection for their romance option now includes more realistic smooching and a soft forehead kiss, as seen in a brief clip you can see below.
+</p><p>
+But that's not all, of course. Patch 6 also includes new idle animations for your party while in camp, plus new Legendary Actions if you're brave enough to tackle Baldur's Gate 3's Honour Mode. 
+</p> <p><a href="https://www.eurogamer.net/baldurs-gate-3-update-improves-snogging-next-week?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Dead Cells developer ends support, focusing on new projects
+ - [https://www.eurogamer.net/dead-cells-developer-ends-support-focusing-on-new-projects?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/dead-cells-developer-ends-support-focusing-on-new-projects?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T15:34:51+00:00
+
+<img src="https://assetsio.reedpopcdn.com/evil-empire-dead-cells-cartoon.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Dead Cells developer Evil Empire is no longer working on the game, bringing to a close five years of updates.
+</p><p>
+The roguelite Metroidvania has received four DLC expansions, 18 updates, and crossovers with <a href="https://www.eurogamer.net/dead-cells-return-to-castlevania-dlc-will-let-you-play-as-richter-belmont">Castlevania</a>, Hollow Knight, and more, with Evil Empire acting as a subsidiary of developer Motion Twin to support the game long term.
+</p><p>
+In a statement from Evil Empire, it explained the team is now working in full on "secret projects" to be revealed "very soon".
+</p> <p><a href="https://www.eurogamer.net/dead-cells-developer-ends-support-focusing-on-new-projects?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## GTA 5 closes in on 200m copies sold
+ - [https://www.eurogamer.net/gta-5-closes-in-on-200m-copies-sold?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/gta-5-closes-in-on-200m-copies-sold?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T15:03:12+00:00
+
+<img src="https://assetsio.reedpopcdn.com/gta-5-cheats-cheat-codes-ps4-ps3-xbox-one-xbox-360-pc-5115-1556720861045.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+GTA 5 will soon pass the astonishing milestone of having sold 200m copies.
+</p><p>
+The game currently sits on 195m copies sold to date, with more than five million copies shifted over the past three months, publisher Take-Two <a href="https://ir.take2games.com/static-files/f3fdf5c5-663b-4ac2-8924-d63dc410c60a">revealed</a> in its latest financial results. 
+</p><p>
+If its current momentum continues, GTA 5 will pass the 200m mark before the summer. That's around 100m more copies sold than Tetris, and behind only Minecraft (which has sold around 300m copies, it's believed).
+</p> <p><a href="https://www.eurogamer.net/gta-5-closes-in-on-200m-copies-sold?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Watch Pikachu get abducted and electrocute an entire stadium in new music video
+ - [https://www.eurogamer.net/watch-pikachu-get-abducted-and-electrocute-an-entire-stadium-in-new-music-video?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/watch-pikachu-get-abducted-and-electrocute-an-entire-stadium-in-new-music-video?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T14:26:13+00:00
+
+<img src="https://assetsio.reedpopcdn.com/jax-jones-pikachu.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Pikachu stars in the music video for Jax Jones' new single Never Be Lonely.</p><p>The single, which features German singer-songwriter Zoe Wees, was released today and accompanied by a music video. The video is a collaboration between Jones and The Pok&eacute;mon Company International, and sees Pikachu being abducted onto a UFO-turned-stadium where Jones and Wees are performing.</p><p>Pikachu isn't that mad about being abducted though, as he happily greets the two and dances along before illuminating (or rather electrocuting) the entire stadium. Ceruledge also makes a sneaky appearance towards the beginning of the video, as a projection onto the sides of some buildings. </p> <p><a href="https://www.eurogamer.net/watch-pikachu-get-abducted-and-electrocute-an-entire-stadium-in-new-music-video?utm_source=feed&amp;utm_medium=r
+
+## Ubisoft boss says £70 Skull and Bones is a "quadruple-A" live-service game
+ - [https://www.eurogamer.net/ubisoft-boss-says-70-skull-and-bones-is-a-quadruple-a-live-service-game?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/ubisoft-boss-says-70-skull-and-bones-is-a-quadruple-a-live-service-game?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T13:44:53+00:00
+
+<img src="https://assetsio.reedpopcdn.com/skull-and-bones-header_3irFU7I.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Ubisoft's live-service pirate ship game Skull and Bones is a "quadruple-A" project, company boss Yves Guillemot has said. 
+</p><p>
+Discussing the long-awaited project with investors last night, Guillemot justified the live service game launching with a &pound;70 price tag as it being a fully-formed experience that was also supported by a battle pass, premium currency and an in-game store.
+</p><p>
+"You will see that Skull and Bones is a full-fledged game," Guillemot said. "It's a very big game and we feel that people will really see how vast and complete that game is. So it's a really full triple-A, quadruple-A game that will deliver in the long run."
+</p> <p><a href="https://www.eurogamer.net/ubisoft-boss-says-70-skull-and-bones-is-a-quadruple-a-live-service-game?utm_source=feed&amp;utm_medium=rss&amp;utm_ca
+
+## Final Fantasy 7 Rebirth fans are getting creative with its in-game piano
+ - [https://www.eurogamer.net/final-fantasy-7-rebirth-fans-are-getting-creative-with-its-in-game-piano?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/final-fantasy-7-rebirth-fans-are-getting-creative-with-its-in-game-piano?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T13:25:11+00:00
+
+<img src="https://assetsio.reedpopcdn.com/EN_01_ff7rebirth_SS_0923_minigame_png_jpgcopy.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+<a href="https://www.eurogamer.net/everything-we-know-about-final-fantasy-7-rebirth-ff7-9403">Final Fantasy 7 Rebirth</a> players are already sharing piano covers from the <a href="https://www.eurogamer.net/final-fantasy-7-rebirth-demo-out-tonight-leak-suggests">game's demo</a>, just days after its release.
+
+</p><p>
+The demo takes place in Nibelheim where, as Cloud, players can snoop around in Tifa's house and play her piano - fans of the original will remember this is how you unlock her ultimate limit break.
+</p><p>
+Now, in Rebirth, the piano is freely playable in a little minigame, so players have been busy creating covers of Final Fantasy tunes and pop songs. 
+</p> <p><a href="https://www.eurogamer.net/final-fantasy-7-rebirth-fans-are-getting-creative-with-its-in-game-piano?utm_source=feed&
+
+## Ori and the Blind Forest studio delays upcoming action-RPG
+ - [https://www.eurogamer.net/ori-and-the-blind-forest-studio-delays-upcoming-action-rpg?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/ori-and-the-blind-forest-studio-delays-upcoming-action-rpg?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T13:04:15+00:00
+
+<img src="https://assetsio.reedpopcdn.com/no-rest-for-the-wicked-steam-ss.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The next game from Ori and the Blind Forest developer Moon Studios has been delayed slightly.</p><p>No Rest for the Wicked, an isometric action-RPG with darker visuals, is a departure from the Ori games. It was revealed in December <a href="https://www.eurogamer.net/ori-and-the-blind-forest-studio-announces-action-rpg-no-rest-for-the-wicked">at The Game Awards</a>, and the developer gave an early access release window on Steam of the first three months of 2024. </p><p>However, the game's early access launch has now been delayed to Q1 of the financial year 2025 (or Q2 of the calendar year 2024), as revealed in <a href="https://ir.take2games.com/static-files/7f54c735-9f22-413b-8bc6-a1694967c6df">Take-Two's earning report</a> for Q3 2024.</p> <p><a href="https://www.eurogamer.net/ori-and-the-blind-forest-studio
+
+## Ed joins Street Fighter 6 roster at the end of February
+ - [https://www.eurogamer.net/ed-joins-street-fighter-6-roster-at-the-end-of-february?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/ed-joins-street-fighter-6-roster-at-the-end-of-february?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T12:39:41+00:00
+
+<img src="https://assetsio.reedpopcdn.com/SF6---Ed-Art-Work.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Beefy boxer Ed joins the Street Fighter 6 roster on 27th February.
+</p><p>
+The <a href="https://www.eurogamer.net/next-street-fighter-6-dlc-fighter-arrives-in-february">fighter was previously announced</a> as the next DLC character, but now we have the release date along with a new gameplay trailer.
+
+</p><p>
+Ed will be the 21st playable character in the game, following the <a href="https://www.eurogamer.net/street-fighter-6-adds-rashid-later-this-month">returning Rashid</a> and <a href="https://www.eurogamer.net/street-fighter-6s-newest-character-aki-shown-in-action-for-first-time">newcomer A.K.I</a> last year.
+</p> <p><a href="https://www.eurogamer.net/ed-joins-street-fighter-6-roster-at-the-end-of-february?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Ubisoft backs away from VR after disappointing Assassin's Creed Nexus sales
+ - [https://www.eurogamer.net/ubisoft-backs-away-from-vr-after-disappointing-assassins-creed-nexus-sales?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/ubisoft-backs-away-from-vr-after-disappointing-assassins-creed-nexus-sales?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T12:17:40+00:00
+
+<img src="https://assetsio.reedpopcdn.com/acnx-screenshot-02.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Ubisoft CEO Yves Guillemot has said the company won't be increasing its investment into VR due to poor sales of Assassin's Creed Nexus VR.</p><p>The Meta Quest exclusive released in November 2023, and lets players step into the shoes of series protagonists Ezio, Kassandra, and Connor.</p><p>Nexus VR isn't mentioned at all in <a href="https://staticctf.ubisoft.com/8aefmxkxpxwl/52CZPA6t2S0cuqWQNd7HFo/55f5a6a5ce31644077755e0b93233b04/Ubisoft_FY24_Q3_PR_English.pdf">Ubisoft's Q3 earnings press release</a>, but the game was addressed by Guillemot during its conference call (as reported by <a href="https://www.videogameschronicle.com/news/ubisoft-was-disappointed-by-assassins-creed-nexus-vr-sales-will-not-increase-vr-investment/">VGC</a>).</p> <p><a href="https://www.eurogamer.net/ubisoft-backs-away-from-vr-after-disappointing
+
+## Foamstars review - fun-ish bathtime Splatoon lacking commitment to the bit
+ - [https://www.eurogamer.net/foamstars-review?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/foamstars-review?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T12:12:39+00:00
+
+<img src="https://assetsio.reedpopcdn.com/foamstars-review-header.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>When Square Enix announced its all-new multiplayer shooter Foamstars, the internet expectedly reacted with Splatoon comparisons and endless jokes about, err, bodily fluids, on account of all the frothy foam that you'll be pumping on opponents. Funnily enough, both sentiments are only kinda true. The game's foam actually does ooze out of at least one character's body, somehow, while the rest is sourced through nuclear-type factories. Oh, and the game only sort of resembles Splatoon in both fun and unflattering ways.</p><p>Foamstar's 4v4 competitive matches have you spraying the map with coloured foam, at which point you can surf across the bits that your team has foamed for an extra speed boost (like Splatoon), although marking the map in your team's colour isn't the goal here, in any game mode.</p><p>Foaming enemies
+
+## Game of the Week: Hauntii is a ghostly game that never runs out of ideas
+ - [https://www.eurogamer.net/game-of-the-week-hauntii-is-a-ghostly-game-that-never-runs-out-of-ideas?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/game-of-the-week-hauntii-is-a-ghostly-game-that-never-runs-out-of-ideas?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T12:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Hauntii_7sI7rAq.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>I love demos, so it's no surprise really that our game of the week is a Steam Next Fest demo. There are plenty I could have chosen, but <a href="https://store.steampowered.com/app/2060790/Hauntii/">the one that has stolen my heart is Hauntii</a>.</p><p>Hauntii's first draw is its art style. It's black and white for the most part - or rather it's monochrome with various tints. And it has that stylish hand-sketched look that would be equally at home in a Mac Barnett kids' book or a New Yorker cartoon. (If Mac Barnett is new to you, BTW, do check their work out. I recommend Leo: A Ghost Story or any of his books with Jon Klassen as a great place to start.)</p><p>Before I shoot off on a major kids' book tangent, let's come back to Hauntii. And it's harmonious, really, because Hauntii is always itching to go off on a tangent. It
+
+## Honkai Star Rail delights with a moreish Americana nightmare in Penacony update
+ - [https://www.eurogamer.net/honkai-star-rail-delights-with-a-moreish-americana-nightmare-in-penacony-update?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/honkai-star-rail-delights-with-a-moreish-americana-nightmare-in-penacony-update?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T12:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Honkai-Star-Rail-delights-with-a-moreish-Americana-nightmare-in-Penacony-update-cover.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Exploring Penacony in Honkai: Star Rail is like having the keys to Disneyland for a midnight soir&eacute;e, but all the guests are sleazy film noir extras, and Mickey Mouse has taken the night off to let an anthropomorphic clock with the ability to manipulate people's emotions fill in. It's a morally dubious constructed paradise where everybody tells you what a great time they're having while the cheery facade is crumbling around them. Why yes, this does sound like regular old Disneyland, and it's this unexpected commentary on packaged 'happiness' that surprised me the most about the game's big version 2.0 update. But it's certainly not its only impressive addition.</p><p>For those not familiar with it yet, Penacony is supposed to be the "Planet of Festiv
+
+## Suicide Squad: Kill the Justice League calendar Easter egg teases more Batman
+ - [https://www.eurogamer.net/suicide-squad-kill-the-justice-league-calendar-easter-egg-teases-more-batman?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/suicide-squad-kill-the-justice-league-calendar-easter-egg-teases-more-batman?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T11:50:25+00:00
+
+<img src="https://assetsio.reedpopcdn.com/MTA_ART_KA_SQ_1to1_2160x2160_Batman_244_F1.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+A series of Easter eggs point to us seeing more of Batman in Suicide Squad: Kill the Justice League, presumably as part of a forthcoming post-launch update. 
+</p><p>
+In-game calendar pages posted around the game's Metropolis map have been spotted by <a href="https://www.youtube.com/watch?v=U5vaLChABjc&amp;ab_channel=BatmanArkhamVideos">Batman Arkham Videos</a>, and verified by Eurogamer. Each features a circled date, with a hidden code that spells out a secret message.
+</p><p>
+Substituting the date marked on each calendar page (the eighth of January, for example) with the corresponding letter of the alphabet (H, the eighth letter) spells out the following phrase:  "He Will Return". 
+</p> <p><a href="https://www.eurogamer.net/suicide-squad-kill-the-justice-league-calendar-easter-egg-teases-more-ba
+
+## Sega blames poor financial quarter on "weak" sales of recent games
+ - [https://www.eurogamer.net/sega-blames-poor-financial-quarter-on-weak-sales-of-recent-games?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/sega-blames-poor-financial-quarter-on-weak-sales-of-recent-games?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T11:35:11+00:00
+
+<img src="https://assetsio.reedpopcdn.com/SONIC-SUPERSTARS_20231012171945.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Sega has reported poor financial results for the past quarter, due to the "weak" performance of some recent releases.
+</p><p>
+While specific sales have not been noted in its latest report, games released in the last quarter include Sonic Superstars, Persona 5 Tactica, Total War: Pharaoh, and Like a Dragon Gaiden: The Man Who Erased His Name.
+</p><p>
+However, its latest releases suggest a more positive quarter is on the horizon, despite the company lowering its forecast.
+</p> <p><a href="https://www.eurogamer.net/sega-blames-poor-financial-quarter-on-weak-sales-of-recent-games?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Take-Two has "no current plans" for layoffs to reduce costs
+ - [https://www.eurogamer.net/take-two-has-no-current-plans-for-layoffs-to-reduce-costs?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/take-two-has-no-current-plans-for-layoffs-to-reduce-costs?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T11:12:37+00:00
+
+<img src="https://assetsio.reedpopcdn.com/gta_5_guide_michael.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Take-Two CEO Strauss Zelnick has said the company, publisher of Grand Theft Auto and Red Dead Redemption, has "no current plans" to layoff staff as it continues to pursue its cost reduction program.</p><p>Details of the cost reduction program were discussed by Zelnick during <a href="https://ir.take2games.com/static-files/7f54c735-9f22-413b-8bc6-a1694967c6df">Take-Two's Q3 2024 financial report</a>, which was released yesterday. </p><p>During the <a href="https://ir.take2games.com/static-files/c54c669f-05f9-414c-9be6-484c38d6bbf9">earnings call with investors</a>, Zelnick said Take-Two is "currently working on a significant cost reduction program". A similar cost reduction program was announced by Take-Two in its third quarter report for 2023, which resulted in some layoffs last year.</p> <p><a href="https://www.eurogam
+
+## What we've been playing
+ - [https://www.eurogamer.net/what-weve-been-playing-146?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/what-weve-been-playing-146?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T11:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/lego_city_undercover.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Hello! Welcome back to our regular feature where we write a little bit about some of the games we've been playing over the past few days. This week: thumbs, Game Boys, and Lego GTA.</p><p>If you fancy catching up on some of the older editions of What We've Been Playing, <a href="https://www.eurogamer.net/topics/what-weve-been-playing">here's our archive</a>.</p><p>Have you ever performed stretches specifically to play a game? I suppose you can't get away from it in Wii Fit and Ring Fit, but what about in an ordinary kind of game?</p> <p><a href="https://www.eurogamer.net/what-weve-been-playing-146?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## GTA 6 release expected after April 2025 and will be "positive" for the industry, Ubisoft says
+ - [https://www.eurogamer.net/gta-6-release-expected-after-april-2025-and-will-be-positive-for-the-industry-ubisoft-says?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/gta-6-release-expected-after-april-2025-and-will-be-positive-for-the-industry-ubisoft-says?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T10:56:13+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Grand-Theft-Auto-VI-Trailer-1-1-9-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Ubisoft CEO Yves Guillemot believes the launch of <a href="https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357">GTA 6</a> will be "positive for the market" and expects it to launch after April 2025.
+</p><p>
+Take-Two itself has provided a release window of 2025, but Guillemot expects it "closer to our financial year '26 than our financial year '25".
+</p><p>
+Whenever GTA 6 releases, Guillemot said it will be good for the industry when questioned during the company's Q3 earnings call yesterday.
+</p> <p><a href="https://www.eurogamer.net/gta-6-release-expected-after-april-2025-and-will-be-positive-for-the-industry-ubisoft-says?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Epic Games Store's latest freebies are Doki Doki Literature Club Plus! and Lost Castle
+ - [https://www.eurogamer.net/epic-games-stores-latest-freebies-are-doki-doki-literature-club-plus-and-lost-castle?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/epic-games-stores-latest-freebies-are-doki-doki-literature-club-plus-and-lost-castle?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-09T00:11:03+00:00
+
+<img src="https://assetsio.reedpopcdn.com/doki-doki-literature-club-plus.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+A fresh set of weekly freebies has now arrived on the Epic Games Store, this time in the form of acclaimed visual novel Doki Doki Literature Club Plus! and rogue-like brawling RPG Lost Castle - with Dakar Desert Racing to follow next week.
+</p><p>
+Starting with <a href="https://store.epicgames.com/en-US/p/doki-doki-literature-club-plus">Doki Doki Literature Club Plus!</a>, it's the enhanced and expanded version of developer Team Salvato renowned 2017 freeware visual novel of the same name (minus the 'Plus!' bit, obviously) that starts out innocently enough - with players taking on the role of a new student who can romance the anime-styled members of the titular club - before taking a metatextual turn into considerably darker territory.
+</p><p>
+If that's not your thing - and its Epic Games Store listing makes
+

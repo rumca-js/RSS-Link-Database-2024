@@ -1,0 +1,177 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Uber Eats peanut butter gaffe shows how a Super Bowl ad can go awry
+ - [https://www.cbc.ca/news/business/uber-eats-superbowl-peanut-butter-1.7110653?cmp=rss](https://www.cbc.ca/news/business/uber-eats-superbowl-peanut-butter-1.7110653?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T16:26:00+00:00
+
+<img alt="A man with a swollen eye and hives breaking out on his forward reads the label of a peanut butter jar. " height="349" src="https://i.cbc.ca/1.7110683.1707504873!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ubereats-peanut-butter.jpg" title="A SuperBowl commercial for Uber Eats shows a man having an anaphylactic reaction after forgetting that peanuts are the main ingredient in peanut butter. After backlash from food allergy advocates, the company said it will remove the scene from its ad when the spot airs during the SuperBowl on Sunday." width="620" /><p>Uber Eats will apparently remove a scene from its Super Bowl ad that depicts a man having an allergic reaction to peanut butter, following backlash from some consumers and food allergy advocates,</p>
+
+## Poilievre pledges to establish minimum prison sentences for extortion
+ - [https://www.cbc.ca/news/politics/poilievre-minimum-sentence-extortion-crimes-1.7110600?cmp=rss](https://www.cbc.ca/news/politics/poilievre-minimum-sentence-extortion-crimes-1.7110600?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T14:38:32+00:00
+
+<img alt="Conservative Party Leader Pierre Poilievre speaks about his car theft policy during a news conference at the Port of Montreal on Tuesday" height="349" src="https://i.cbc.ca/1.7106470.1707244391!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/poilievre.JPG" title="Conservative Party Leader Pierre Poilievre speaks about his car theft policy during a news conference at the Port of Montreal on Tuesday" width="620" /><p>Pierre Poilievre is promising to establish minimum prison sentences for criminals convicted of extortion, including tougher punishments for people who use firearms to extort others or act on the behalf of gangs.</p>
+
+## Behold, the Ballbecue: Quebec tailgating creation turning heads at Super Bowl LVIII
+ - [https://www.cbc.ca/news/canada/montreal/behold-the-ballbecue-quebec-tailgating-creation-turning-heads-at-super-bowl-lviii-1.7109895?cmp=rss](https://www.cbc.ca/news/canada/montreal/behold-the-ballbecue-quebec-tailgating-creation-turning-heads-at-super-bowl-lviii-1.7109895?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T12:00:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/103/795/16x9_MPX_Thumbnail_(14).jpg" title="" width="620" /><p>Stéphan Genest came up with the idea for the 'ballbecue' after tailgating in Los Angeles 15 years ago. He spent years perfecting the design and construction of his football shaped barbecue.</p>
+
+## Putin sat down with Tucker Carlson and lectured him on the Ukraine war
+ - [https://www.cbc.ca/news/world/tucker-carlson-vladimir-putin-interview-1.7110120?cmp=rss](https://www.cbc.ca/news/world/tucker-carlson-vladimir-putin-interview-1.7110120?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T11:44:56+00:00
+
+<img alt="Two people sitting in chairs for a TV interview, under studio lights." height="349" src="https://i.cbc.ca/1.7110601.1707502094!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/russia-putin-carlson.JPG" title="Russian President Vladimir Putin listens during an interview with U.S. television host Tucker Carlson in Moscow, Russia February 6, 2024." width="620" /><p>When Tucker Carlson sat down with Russian President Vladimir Putin for a more than two-hour-long interview at the Kremlin this week, both men had something to gain from the rare and highly publicized exchange.</p>
+
+## Mexican-style corn salad kits and bean dip recalled in Canada after listeria outbreak in U.S.
+ - [https://www.cbc.ca/news/health/canada-recalls-salad-bean-listera-1.7110215?cmp=rss](https://www.cbc.ca/news/health/canada-recalls-salad-bean-listera-1.7110215?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T10:57:53+00:00
+
+<img alt="Two packaged salads and a pack of bean dip." height="349" src="https://i.cbc.ca/1.7110350.1707493838!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/salads-and-dip.jpg" title="Brands of salads and dip recalled because they include cheese linked to an outbreak of listeria food poisoning that killed two people and sickened more than two dozen in the U.S. Feb. 9, 2024." width="620" /><p>The Canadian Food Inspection Agency is recalling two types of Mexican-style corn salad kits and a brand of six-layer black bean dip due to possible listeria contamination after an outbreak in the U.S.</p>
+
+## Canadian writer Mark Steyn ordered to pay climate scientist $1M US after defamation trial
+ - [https://www.cbc.ca/news/world/us-trial-mann-defamation-steyn-simberg-1.7110203?cmp=rss](https://www.cbc.ca/news/world/us-trial-mann-defamation-steyn-simberg-1.7110203?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T10:33:38+00:00
+
+<img alt="A bearded man wearing a blazer and collared shirt is shown speaking in a still taken from a video recording." height="349" src="https://i.cbc.ca/1.2555165.1707489347!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/author-mark-steyn.jpg" title="Author Mark Steyn on CBC News Network&apos;s Power &amp; Politics." width="620" /><p>A jury on Thursday awarded $1 million US to climate scientist Michael Mann, who sued a pair of conservative writers 12 years ago after they compared his depictions of global warming to convicted Penn State child molester Jerry Sandusky.</p>
+
+## New NASA climate satellite will keep eye on plankton, clouds. Here's why
+ - [https://www.cbc.ca/news/science/nasa-pace-1.7110230?cmp=rss](https://www.cbc.ca/news/science/nasa-pace-1.7110230?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T10:31:30+00:00
+
+<img alt="A round metal object with points sticking out of it floats in space." height="349" src="https://i.cbc.ca/1.7110249.1707492369!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/nasa-satellite-launch.jpg" title="In this image taken from NASA video, the Pace (Plankton, Aerosol, Cloud, Ocean Ecosystem) satellite detaches from a SpaceX rocket in orbit, Thursday, Feb. 8, 2024.  NASA’s newest climate satellite rocketed into orbit Thursday to survey the world’s oceans and atmosphere in never-before-seen detail. " width="620" /><p>NASA’s newest climate satellite rocketed into orbit Thursday to survey the world’s oceans and atmosphere in never-before-seen detail.</p>
+
+## Former Pakistani PM Nawaz Sharif will seek coalition government as his party trails in election
+ - [https://www.cbc.ca/news/world/pakistan-elections-imran-khan-1.7110166?cmp=rss](https://www.cbc.ca/news/world/pakistan-elections-imran-khan-1.7110166?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T09:49:00+00:00
+
+<img alt="A man smiles slightly and waves." height="349" src="https://i.cbc.ca/1.7110363.1707494271!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/pakistan-elections.jpg" title="Pakistan&apos;s Former Prime Minister Nawaz Sharif waves to supporters following initial results of the country&apos;s parliamentary election, in Lahore, Pakistan, Friday, Feb. 9, 2024. Sharif is changing tack and said on Friday that he will seek to form a coalition government after his party trailed the independent candidates of his rival Imran Khan in preliminary results following the country’s parliamentary election. (AP Photo/K.M. Chaudary)" width="620" /><p>Pakistan's former prime minister Nawaz Sharif changed tack on Friday and said he will seek to form a coalition government after his party trailed independent candidates backed by his rival Imran Khan in preliminary results a day after the country's parliamentary election.</p>
+
+## Supreme Court declares Indigenous child welfare law constitutional
+ - [https://www.cbc.ca/news/indigenous/supreme-court-c92-child-welfare-ruling-1.7110141?cmp=rss](https://www.cbc.ca/news/indigenous/supreme-court-c92-child-welfare-ruling-1.7110141?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T09:46:25+00:00
+
+<img alt="Exterior of the Supreme Court of Canada building in the winter." height="349" src="https://i.cbc.ca/1.7102000.1706816651!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/the-supreme-court-of-canada-exterior-winter.JPG" title="The Supreme Court of Canada is pictured in Ottawa on Friday, March 3, 2023. " width="620" /><p>The Supreme Court of Canada has unanimously upheld the Trudeau government's Indigenous child welfare law, dismissing Quebec's appeal in a landmark opinion affirming Indigenous Peoples' jurisdiction over child and family services.</p>
+
+## Canada's economy added 37,000 jobs in January as unemployment declines to 5.7%
+ - [https://www.cbc.ca/news/business/labour-force-survey-january-1.7110161?cmp=rss](https://www.cbc.ca/news/business/labour-force-survey-january-1.7110161?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T08:41:43+00:00
+
+<img alt="A person&apos;s silhouette is seen from outside a window." height="349" src="https://i.cbc.ca/1.6950745.1693328752!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sfu-protest-workers.jpg" title="An employee is pictured in an office at Simon Fraser University in Burnaby, British Columbia on Thursday, March 30, 2023. " width="620" /><p>The Canadian economy added 37,000 jobs in January as unemployment fell slightly to 5.7 per cent, the first decline since December 2022, according to a Friday report from Statistics Canada.</p>
+
+## Famed former Boston Symphony, TSO conductor Seiji Ozawa dead at 88
+ - [https://www.cbc.ca/news/entertainment/obit-conductor-ozawa-1.7110105?cmp=rss](https://www.cbc.ca/news/entertainment/obit-conductor-ozawa-1.7110105?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T08:38:28+00:00
+
+<img alt="An older, clean-shaven man wearing a ribbon around his neck bows in appreciation." height="349" src="https://i.cbc.ca/1.7110132.1707483577!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/people-ozawa.jpg" title="FILE - In this Dec. 6, 2015, file photo, conductor Seiji Ozawa stops to greet a young child in the audience as he arrives for a reception for himself and the other Kennedy Center Honors honorees in the East Room of the White House in Washington. The Boston Symphony Orchestra, among other organizations around the world, is celebrating Ozawa&apos;s 85th birthday Tuesday, Sept. 1, 2020, proclaimed as &quot;Seiji Ozawa Day&quot; by Boston Mayor Marty Walsh. Ozawa is the longest-serving conductor in Boston Symphony history, holding the title of music director for 29 years from 1973 until 2002. (AP Photo/Andrew Harnik, File)" width="620" /><p>Seiji Ozawa, the Japanese conductor who amazed audiences with the lithe physicality of his performances during thre
+
+## Real estate firm sues Edmonton homeless organization for breach of contract over $5M donation
+ - [https://www.cbc.ca/news/canada/edmonton/katz-group-launches-court-battle-with-edmonton-homeless-organization-over-5-million-donation-1.7109439?cmp=rss](https://www.cbc.ca/news/canada/edmonton/katz-group-launches-court-battle-with-edmonton-homeless-organization-over-5-million-donation-1.7109439?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T08:00:00+00:00
+
+<img alt=" A boarded up building stands across the street from a lare silver stadium. " height="349" src="https://i.cbc.ca/1.7109557.1707426523!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/boyle-rogers.jpg" title="The shuttered, former Boyle Street Community Services building sits on land just northeast of Rogers Place. The Katz Group, which has led development of Edmonton&apos;s Rogers Place and the surrounding Ice District, bought the property and is now suing Boyle Street Community Services over breach of contract " width="620" /><p>A subsidiary company of the Katz Group is suing a local agency that provides services to the city’s homeless population for breach of contract.</p>
+
+## Israel presses on in Gaza even as Biden calls military response 'over the top'
+ - [https://www.cbc.ca/news/world/israel-hamas-war-day-126-1.7110090?cmp=rss](https://www.cbc.ca/news/world/israel-hamas-war-day-126-1.7110090?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T07:11:33+00:00
+
+<img alt="Two destroyed vehicles are shown with concrete debris atop and around then, as a person wearing a hood is shown in the foreground." height="349" src="https://i.cbc.ca/1.7110096.1707476752!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rafah-2-9-24.jpg" title="A child stands amid the destruction in the aftermath of Israeli bombardment in Rafah in the southern Gaza Strip on February 9, 2024, as battles continue between Israel and the Palestinian Hamas movement.  " width="620" /><p>Israeli forces carried out deadly airstrikes on Gaza on Friday, hours after U.S. President Joe Biden described the military response to the Oct. 7 attack on Israel by the Palestinian territory's ruling Hamas movement as "over the top."</p>
+
+## Number of pensioners receiving OAS abroad dropped during pandemic, then increased
+ - [https://www.cbc.ca/news/politics/oas-payments-canadians-abroad-pandemic-1.7109516?cmp=rss](https://www.cbc.ca/news/politics/oas-payments-canadians-abroad-pandemic-1.7109516?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:46+00:00
+
+<img alt="seniors sit on a bench" height="349" src="https://i.cbc.ca/1.5435295.1707426551!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/seniors-on-bench.jpg" title="The senior citizens pictured in this stock photo might be contemplating their future as their demographic heads into retirement." width="620" /><p>The total dollar value of Old Age Security (OAS) payments sent to retired Canadians living abroad — which has increased steadily over the past ten years — suddenly dropped during the pandemic when global travel restrictions slammed the brakes on international travel.</p>
+
+## A court battle between the CRA and the Toronto Maple Leafs captain could be pivotal for other pro athletes
+ - [https://www.cbc.ca/news/business/john-tavares-maple-leafs-taxes-1.7109215?cmp=rss](https://www.cbc.ca/news/business/john-tavares-maple-leafs-taxes-1.7109215?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:00+00:00
+
+<img alt="A male ice hockey captain lines up for a face off." height="349" src="https://i.cbc.ca/1.7108322.1707349526!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1737513081.jpg" title="John Tavares signed a seven-year, $77-million US contract to join his hometown Maple Leafs in 2018. The appeal argues that his signing bonus was eligible for the reduced tax rate of 15 per cent under a Canada-US Tax Treaty provision that sets lower rates for inducements paid to artists, musicians, actors and athletes." width="620" /><p>Toronto Maple Leafs captain John Tavares is taking the Canada Revenue Agency to court over an $8 million tax bill in a case experts say could be pivotal for some pro athletes, perhaps affecting with which teams they sign.</p>
+
+## At 76, I love walking and hiking. But an ice storm forced me to face my body's limitations
+ - [https://www.cbc.ca/news/canada/montreal/first-person-ice-storm-senior-limitations-1.7107996?cmp=rss](https://www.cbc.ca/news/canada/montreal/first-person-ice-storm-senior-limitations-1.7107996?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:00+00:00
+
+<img alt="A selfie of a woman wearing her winter jacket hood covered with snow." height="349" src="https://i.cbc.ca/1.7107997.1707338622!/fileImage/httpImage/image.png_gen/derivatives/16x9_620/edit-ice-storm-image-1.png" title="" width="620" /><p>Keeping active is a huge part of life for 76-year-old Isobel Cunningham. But when an ice storm hit, she was forced to come to terms with her aging body's limitations and tap into new strengths.</p>
+
+## Canadians are signing up for apprenticeships again
+ - [https://www.cbc.ca/news/canada/calgary/canada-apprenticeships-certification-1.7108158?cmp=rss](https://www.cbc.ca/news/canada/calgary/canada-apprenticeships-certification-1.7108158?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:00+00:00
+
+<img alt="A woman wearing a black long-sleeved t-shirt, safety glasses and ear protection poses in the carpentry lab at the Southern Alberta Institute of Technology." height="349" src="https://i.cbc.ca/1.7108210.1707344360!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/carpentry-apprentice-amy-spiers-is-pictured-at-the-southern-alberta-institute-of-technology.jpg" title="Carpentry apprentice Amy Spiers is pictured at the Southern Alberta Institute of Technology." width="620" /><p>Registrations in apprenticeship programs have rebounded from pandemic lows and are at their highest level since 2014, according to the latest available data from Statistics Canada.</p>
+
+## Daughters want inquest after their dad fell 3 floors from a Windsor retirement home 2 years ago
+ - [https://www.cbc.ca/news/canada/windsor/retirement-home-inquest-investigation-1.7105759?cmp=rss](https://www.cbc.ca/news/canada/windsor/retirement-home-inquest-investigation-1.7105759?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:00+00:00
+
+<img alt="Two women sit on a couch holding hands." height="349" src="https://i.cbc.ca/1.7109511.1707435162!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/joanne-vandereerden-susan-dixon.jpg" title="Joanne Vandereerden, left, and her sister, Susan Dixon, right, requested an inquest into their father&apos;s death in September 2022. They still don&apos;t know whether an inquest will be granted. " width="620" /><p>About three weeks after moving her father into a Windsor, Ont., retirement home, Joanne Vandereerden didn't expect she'd get a call telling her that the 80-year-old had been rushed to hospital after falling out of his third-storey window. Nearly two years later, the family is still looking for answers. </p>
+
+## Human trafficking victim says he was forced to target Canadians in crypto investment scam
+ - [https://www.cbc.ca/news/business/crypto-scam-human-trafficking-1.7105454?cmp=rss](https://www.cbc.ca/news/business/crypto-scam-human-trafficking-1.7105454?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:00+00:00
+
+<img alt="The back of an anonymous man facing a city at nighttime." height="349" src="https://i.cbc.ca/1.7105566.1707169000!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/anon-scammer.jpg" title="A Malaysian man, whose face is not being revealed to protect his safety, says he was forced to scam Canadians and others online after accepting what he thought was a job at a casino in Cambodia. " width="620" /><p>A man who targeted Canadians for cryptocurrency investment scams is speaking out after escaping the Cambodian compound where he was forced to do it.</p>
+
+## Korean 'orphans' find long-lost family, hope after CBC report on falsified adoption papers
+ - [https://www.cbc.ca/news/investigates/korean-canadian-paper-orphan-biological-1.7101609?cmp=rss](https://www.cbc.ca/news/investigates/korean-canadian-paper-orphan-biological-1.7101609?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:00+00:00
+
+<img alt="A woman sits at a table full of Korean food." height="349" src="https://i.cbc.ca/1.7105334.1707159864!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/mi-hwa-taylor.jpeg" title="Mi Hwa Taylor in New Jersey, U.S., celebrating her real birthday with her newfound Korean family members. Taylor&apos;s birthday was wrong on her adoption records, and she only discovered her new birthdate a few months ago." width="620" /><p>Last year, CBC published a story about Korean Canadian adoptees who believed they were orphans their whole lives, only to discover that wasn't the case. Since then, other "paper orphans" have learned they were stolen from their biological parents or their families were still alive and searching for them.</p>
+
+## NDP threatens stalling tactics, end of agreement with Liberals over slow pace of pharmacare talks
+ - [https://www.cbc.ca/news/politics/ndp-liberal-pharmacare-singh-trudeau-1.7109692?cmp=rss](https://www.cbc.ca/news/politics/ndp-liberal-pharmacare-singh-trudeau-1.7109692?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:00+00:00
+
+<img alt="Two men smile at each other while shaking hands." height="349" src="https://i.cbc.ca/1.6570334.1662602562!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trudeau-singh-20191114.jpg" title="NDP leader Jagmeet Singh meets with Prime Minister Justin Trudeau on Parliament Hill in Ottawa on Thursday, Nov. 14, 2019. " width="620" /><p>The federal NDP has warned its Parliament Hill staff to prepare themselves for the possible sudden termination of the party's supply-and-confidence deal with the Liberals — a bipartisan cooperation agreement which may be holding off an early election.</p>
+
+## Private jets, yachts and parties: Ontario landlords flaunted lavish lifestyle as business began to crumble
+ - [https://www.cbc.ca/news/canada/hamilton/investors-bankruptcy-protection-1.7108994?cmp=rss](https://www.cbc.ca/news/canada/hamilton/investors-bankruptcy-protection-1.7108994?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:00+00:00
+
+<img alt="woman and man stand on a yacht deck" height="349" src="https://i.cbc.ca/1.7109309.1707422058!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sid-developments.jpg" title="Robby Clark and Aruba Butt are seen on a yacht." width="620" /><p>In a 2022 promotional video, Robby Clark stands at the bow of a yacht, arms raised to the sky as a camera circles overhead. "You can stick me in the desert with nothing and I’m going to come out owning the desert," he says. Less than two years later, his Ontario real estate empire is under bankruptcy protection, owing hundreds of lenders tens of millions of dollars.</p>
+
+## The Promised Land is a true Mads Mikkelsen marvel — if you have a strong stomach
+ - [https://www.cbc.ca/news/entertainment/promised-land-mikkelsen-review-1.7109820?cmp=rss](https://www.cbc.ca/news/entertainment/promised-land-mikkelsen-review-1.7109820?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:00+00:00
+
+<img alt="A man in historical garb stands in a field at night. Behind him people work the field. The field is partially ablaze." height="349" src="https://i.cbc.ca/1.7109828.1707435283!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/the-promised-land.jpg" title="Mads Mikkelsen appears in a still from The Promised Land. The film is an impressive piece of historical fiction — even if it isn&apos;t a masterpiece. " width="620" /><p>The Promised Land, which releases in Toronto and Vancouver on Feb. 9, is an impressively directed piece of historical fiction — even if it isn't a masterpiece.</p>
+
+## Victoria named itself the cycling capital of Canada. Does it deserve the title?
+ - [https://www.cbc.ca/news/canada/british-columbia/victoria-cycling-capital-1.7109605?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/victoria-cycling-capital-1.7109605?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:00+00:00
+
+<img alt="A red car is pictured stopped on the elephant dotted crosswalk lines, just inches away from an adult cycling a child in a wagon in front of the bike. " height="349" src="https://i.cbc.ca/1.6895575.1707434194!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/bicycle-crossiing.jpg" title="Motorists are expected to yield to bikes and pedestrians at elephant&apos;s feet crosswalks. Cyclists must yield to pedestrians.  " width="620" /><p>The city has the highest percentage of people who bike to work in Canada, according to StatsCan, and 95 per cent of Victoria residents now live within 500 metres of an all-ages-and-abilities bike route.</p>
+
+## Violent online groups are pressuring youth into harming themselves, authorities warn
+ - [https://www.cbc.ca/news/canada/online-groups-pressuring-youth-self-harm-1.7107885?cmp=rss](https://www.cbc.ca/news/canada/online-groups-pressuring-youth-self-harm-1.7107885?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-02-09T04:00:00+00:00
+
+<img alt="Authorities in Canada and the U.S. are warning the public about violent online groups that deliberately target vulnerable minors and pressure them into recording or livestreaming self harm and producing child sexual abuse material. " height="349" src="https://i.cbc.ca/1.7108135.1707345954!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cu.jpg" title="Authorities in Canada and the U.S. are warning the public about violent online groups that deliberately target vulnerable minors and pressure them into recording or livestreaming self harm and producing child sexual abuse material. " width="620" /><p>Authorities in Canada and the U.S. are warning the public about violent online groups that deliberately target vulnerable minors and pressure them into recording or livestreaming self-harm and producing child sexual abuse material.</p>
+
