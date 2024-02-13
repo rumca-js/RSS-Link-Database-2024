@@ -1,0 +1,170 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Amazon’s 'Buy Box' Allegedly Tricks You Into Paying More, Lawsuit Claims
+ - [https://gizmodo.com/amazon-buy-box-tricks-you-into-paying-more-lawsuit-1851249927](https://gizmodo.com/amazon-buy-box-tricks-you-into-paying-more-lawsuit-1851249927)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T22:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/700883f26e2e470b2810503cc60abd56.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/amazon-wants-you-to-pay-for-alexa-1851176378">Amazon</a> allegedly tricked users into buying more expensive products through the use of its “Buy Box,” according to a class action lawsuit filed last week. The Buy Box, which features a “Buy Now” and “Add to Cart” button next to eligible items, funnels users into terrible deals through the ease of one-click shopping…</p><p><a href="https://gizmodo.com/amazon-buy-box-tricks-you-into-paying-more-lawsuit-1851249927">Read more...</a></p>
+
+## Anakin's Return in Ahsoka Was a Bucket-List Goal for Hayden Christensen
+ - [https://gizmodo.com/ahsoka-star-wars-hayden-christensen-return-anakin-vader-1851249652](https://gizmodo.com/ahsoka-star-wars-hayden-christensen-return-anakin-vader-1851249652)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ffd2ce3830e54101e377327da6943e6f.png" /><p>Seeing Hayden Christensen get his due and recognition has been one the best things to come out of the Dave Filoni and Jon Favreau universe of shows. From donning the suit as Darth Vader on <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/obi-wan-kenobi-darth-vader-ewan-mcgregor-christensen-1850317103">Obi-Wan Kenobi</a> to playing a Force ghost as well as Clone Wars Anakin Skywalker in <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/new-star-wars-galaxy-dave-filoni-baylan-skoll-lucasfilm-1851039303">Ahsoka</a>, it’s been amazing to see Christensen…</p><p><a href="https://gizmodo.com/ahsoka-star-wars-hayden-christensen-return-anakin-vader-1851249652">Read more...</a></p>
+
+## What Do You Want From the Next Apple iPhone?
+ - [https://gizmodo.com/what-do-you-want-from-iphone-16-1851249512](https://gizmodo.com/what-do-you-want-from-iphone-16-1851249512)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T21:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/36d7bd0fcae303f4eda7a23687962b71.jpg" /><p>What do you want from the next iPhone? Now is your chance to let Apple know by telling us instead. There have been many rumors about what’s next for the<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/apple-iphone-16-1851244717"> iPhone 16</a>, which we expect to arrive later this year. The phone is currently in manufacturing, getting its ends polished off for approval by the big bosses managing…</p><p><a href="https://gizmodo.com/what-do-you-want-from-iphone-16-1851249512">Read more...</a></p>
+
+## Former NASA Astronaut Leland Melvin on the “Overview Effect”
+ - [https://gizmodo.com/former-nasa-astronaut-leland-melvin-on-the-overview-ef-1851249551](https://gizmodo.com/former-nasa-astronaut-leland-melvin-on-the-overview-ef-1851249551)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T20:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a343fbdf636984918738a7431c2e373b.jpg" /><p><a href="https://gizmodo.com/former-nasa-astronaut-leland-melvin-on-the-overview-ef-1851249551">Read more...</a></p>
+
+## Super Bowl LVIII, Told by AI Deepfakes
+ - [https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522](https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T20:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/94c818ab12b088cb5c4870edec8dba6a.png" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/2024-super-bowl-trailers-deadpool-3-wicked-twisters-cbs-1851230444">Super Bowl XVIII</a> was jam-packed with celebrities, love stories, angry outbursts, and even some football. Many of us watched the Super Bowl on TV with our own two eyes, but Gizmodo set out to learn what the big game would have looked like through the eyes of an AI image generator.</p><p><a href="https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522">Read more...</a></p>
+
+## Dungeons & Dragons' 50th Anniversary Brings Huge New Books and Vecna's Return
+ - [https://gizmodo.com/dungeons-dragons-50th-anniversary-pbh-dmg-vecna-wotc-1851249000](https://gizmodo.com/dungeons-dragons-50th-anniversary-pbh-dmg-vecna-wotc-1851249000)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a77e0483b93f4ad2dead76361eb43d76.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dungeons-dragons-fallbacks-novel-jaleigh-johnson-1850919810">Dungeons & Dragons</a> <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dungeons-and-dragons-dnd-lego-ideas-fan-contest-1849619093">turns 50 this year</a>, and as you’d expect, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dungeons-and-dragons-ogl-1-1-explained-wizards-of-the-c-1850006448">Wizards of the Coast</a> is marking the anniversary with big announcements—some of which look to the tabletop roleplaying giant’s rich past. Announced today: six book releases, upcoming gaming events, and brand collaborations that run the gamut from “makes sense”…</p><p><a href="https://gizmodo.com/dungeons-dragons-50th-anniversary-pbh-dmg-vec
+
+## How to Test Drive an Apple Vision Pro Without Buying One
+ - [https://gizmodo.com/apple-vision-pro-demos-1851249286](https://gizmodo.com/apple-vision-pro-demos-1851249286)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T20:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f9ec035596b072a35bd9b68df6b0b2e5.jpg" /><p>Have you got 30 minutes to check out one of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/will-apple-s-vision-pro-make-your-real-life-unbearably-1851235426">Apple’s biggest, riskiest, and most controversial product launches</a> of the last several decades? The tech giant is still hosting demos for its <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/apple-vision-pro-reviews-mixed-vr-ar-1851208941">Apple Vision Pro</a> <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/apple-vision-pro-forgot-password-take-to-apple-store-1851229219">in stores</a> across the U.S. If you’re like us, and you don’t have $3,500 lying around in a coat pocket–or else you…</p><p><a href="https://gizmodo.com/apple-vision-pro-demos-1851249286">Read more...</a></p>
+
+## How Buddy Cops and the Shaw Brothers Influenced Godzilla x Kong: The New Empire
+ - [https://gizmodo.com/godzilla-x-kong-new-empire-buddy-cop-movie-adam-wingard-1851248663](https://gizmodo.com/godzilla-x-kong-new-empire-buddy-cop-movie-adam-wingard-1851248663)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4dcf19b54c629ede13cfe1a8ea7b01f5.jpg" /><p>In 2021, it was <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/godzilla-vs-kong-cant-be-saved-not-even-by-good-dumb-1846531851">Godzilla versus Kong</a>. But <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/godzilla-kong-new-empire-trailer-legendary-1851069102">Godzilla x Kong: The New Empire</a> <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/monsterverse-sequel-godzilla-king-kong-new-empire-title-1850353261">sees the foes team up</a>—reluctantly—to take on a new threat. The dynamic between them might be unfamiliar based on what we’ve seen in the Monsterverse so far, but movie fans may recognize its origins in... ‘80s buddy-cop movies?</p><p><a href="https://gizmodo.com/godzilla-x-kong-new-empire-buddy-cop-movie-adam-wingard-1851248663
+
+## 3,000-Year-Old Trove Includes Treasure Forged From a Meteorite
+ - [https://gizmodo.com/villena-treasure-iron-meteorite-origins-late-bronze-age-1851248710](https://gizmodo.com/villena-treasure-iron-meteorite-origins-late-bronze-age-1851248710)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T19:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d68946cb13b99fae129c7b9f1747d031.png" /><p>A bracelet and possible sword pommel found in a 3,000-year-old treasure hoard were forged from meteoritic iron, according to a team of researchers that recently studied the pieces. In other words, yes: some Bronze Age Iberian was rocking space jewelry and wielding a space weapon.<br /></p><p><a href="https://gizmodo.com/villena-treasure-iron-meteorite-origins-late-bronze-age-1851248710">Read more...</a></p>
+
+## First Reactions to Bad Batch's Final Season Tease Big Star Wars Connections
+ - [https://gizmodo.com/star-wars-bad-batch-season-3-first-reactions-disney-1851248662](https://gizmodo.com/star-wars-bad-batch-season-3-first-reactions-disney-1851248662)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a69516909287c512c244b5c32cff0651.png" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/bad-batch-season-3-trailer-release-date-star-wars-disne-1851185578">The Bad Batch</a> returns in an <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-wars-bad-batch-season-3-disney-plus-1850306000">epic final season</a> where the squad has their bonds tested as they fight to reunite with Omega. The youngest member remains inside a remote Imperial science lab facing challenges of her own. The Star Wars show premieres February 21 on Disney+ to tie everything together for the gang as they…</p><p><a href="https://gizmodo.com/star-wars-bad-batch-season-3-first-reactions-disney-1851248662">Read more...</a></p>
+
+## Breaking Down the Mutant Mayhem of Deadpool & Wolverine's Trailer
+ - [https://gizmodo.com/breaking-down-the-mutant-mayhem-of-deadpool-wolverine-1851247437](https://gizmodo.com/breaking-down-the-mutant-mayhem-of-deadpool-wolverine-1851247437)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T17:45:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6b3dddc40860a516d17577ad0eb27e9a.jpg"><source src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6b3dddc40860a516d17577ad0eb27e9a.mp4" type="video/mp4" /></video><p>Yesterday’s Super Bowl brought us our first look at Deadpool 3—now formally <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/deadpool-3-trailer-ryan-reynolds-hugh-jackman-marvel-1851235379">Deadpool & Wolverine</a>—and a taste of what’s to come as Ryan Reynolds’ infamous mercenary storms his way into <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/mcu-timeline-earth-616-vs-earth-199999-confirmed-marvel-1850972538">Marvel’s sacred timeline</a>. But what else can we glean from the trailer about the world of the X-Men’s first major foray into the MCU?<br /></p><p><a href="https://gizmodo.com/breaking-down-the-mutant-mayhem-of-deadpool-wolverine-1851247437">Read 
+
+## NASA's New 'Hybrid Antenna' Boosts Links to Deep Space
+ - [https://gizmodo.com/nasa-hybrid-antenna-revolution-in-space-communication-1851248214](https://gizmodo.com/nasa-hybrid-antenna-revolution-in-space-communication-1851248214)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T17:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/135d8ba4d6b1fbd96a52828069125fa3.jpg" /><p>NASA outfitted its aging communications network with a hybrid antenna that allowed it to receive both radio frequency and  laser signals for the first time, helping the space agency keep up with its increasing number of missions traveling through deep space.</p><p><a href="https://gizmodo.com/nasa-hybrid-antenna-revolution-in-space-communication-1851248214">Read more...</a></p>
+
+## After an Explosive First Attempt, Japan Will Try Again to Launch the H3 Rocket
+ - [https://gizmodo.com/after-an-explosive-first-attempt-japan-will-try-again-1851248287](https://gizmodo.com/after-an-explosive-first-attempt-japan-will-try-again-1851248287)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T16:38:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b22934e1e3c7078b16777fbf6d78e062.jpg" /><p>The H3 rocket—11 years in the making—is set for its second launch, following a flubbed debut in March 2023. Japan urgently needs the rocket to succeed, with a second failure risking further delays and monumental headaches for Japan’s space program.<br /></p><p><a href="https://gizmodo.com/after-an-explosive-first-attempt-japan-will-try-again-1851248287">Read more...</a></p>
+
+## A Cat in Oregon Gave Bubonic Plague to Its Owner
+ - [https://gizmodo.com/a-cat-in-oregon-gave-bubonic-plague-to-its-owner-1851248276](https://gizmodo.com/a-cat-in-oregon-gave-bubonic-plague-to-its-owner-1851248276)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T16:24:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5fe150346bcdd0ecab2b2f2fa7122ed8.jpg" /><p>A rare case of plague has been found in Oregon. Local health officials reported a U.S. case of the bacterial menace earlier this month—the first seen within the state in nearly a decade. The victim has been hospitalized as a result, but appears to be responding well to treatment, officials say.</p><p><a href="https://gizmodo.com/a-cat-in-oregon-gave-bubonic-plague-to-its-owner-1851248276">Read more...</a></p>
+
+## Elon Musk Bought Twitter to Settle His Jet-Tracking Beef, New Book Claims
+ - [https://gizmodo.com/elon-musk-bought-twitter-settle-his-jet-tracking-beef-1851248192](https://gizmodo.com/elon-musk-bought-twitter-settle-his-jet-tracking-beef-1851248192)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T15:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/581029cd492cf1c6e506b53cb07c2aa8.jpg" /><p>Twitter is one of the internet’s favorite places for internet beef and Elon Musk is no stranger to it. A particular beef involving a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/elon-musk-legal-action-elonjet-jack-sweeney-1849897068">college student tracking his private jet</a> was the catalyst for the billionaire purchasing shares of Twitter, commencinghis takeover of the social media platform, according to a new book…</p><p><a href="https://gizmodo.com/elon-musk-bought-twitter-settle-his-jet-tracking-beef-1851248192">Read more...</a></p>
+
+## Sonequa Martin-Green Teases a Big Twist in Star Trek: Discovery's Final Season
+ - [https://gizmodo.com/star-trek-discovery-season-5-sonequa-martin-green-twist-1851246950](https://gizmodo.com/star-trek-discovery-season-5-sonequa-martin-green-twist-1851246950)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/299978cbc0d89258f72fc7015dc1ba1d.png" /><p>Game of Thrones’ Sophie Turner and Kit Harington are reuniting for a new gothic horror. The minions generate A.I. art in a new look at Despicable Me 4. Plus, what’s to come on The Walking Dead: The Ones Who Live. Spoilers, away!<br /></p><p><a href="https://gizmodo.com/star-trek-discovery-season-5-sonequa-martin-green-twist-1851246950">Read more...</a></p>
+
+## Joe Biden Trolls Conspiracy Theorists Who Think He Rigged the Super Bowl
+ - [https://gizmodo.com/joe-biden-super-bowl-conspiracy-taylor-swift-support-1851247753](https://gizmodo.com/joe-biden-super-bowl-conspiracy-taylor-swift-support-1851247753)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T14:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a90afb58a5993e01d84ba6a6196ed43f.png" /><p>President Joe Biden has a message for the right-wing conspiracy theorists who were convinced he was rigging the Super Bowl in favor of Taylor Swift’s boyfriend: The plan went off without a hitch.</p><p><a href="https://gizmodo.com/joe-biden-super-bowl-conspiracy-taylor-swift-support-1851247753">Read more...</a></p>
+
+## Today Is Not National Poop Day
+ - [https://gizmodo.com/today-is-not-national-poop-day-1851243374](https://gizmodo.com/today-is-not-national-poop-day-1851243374)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/69bc4e409442d61e3c44a90af4b2f0b7.png" /><p>Last month, Gizmodo got an email from WastewaterSCAN, a company that monitors sewage for traces of infectious disease. The outfit had a pitch for us: February 12th is “National Poop Day,” the company said. Would we like to talk to an expert for our Poop Day coverage?</p><p><a href="https://gizmodo.com/today-is-not-national-poop-day-1851243374">Read more...</a></p>
+
+## Your Mac Is Not Virus Proof. It Never Has Been.
+ - [https://gizmodo.com/your-mac-is-not-virus-proof-it-never-has-been-1851244442](https://gizmodo.com/your-mac-is-not-virus-proof-it-never-has-been-1851244442)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ff2480890c36aefcf2701f054bcb1a64.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/hands-on-with-the-apple-m3-macbook-pro-1850976095">Apple computer</a> owners have long felt free to roam the internet without a care in the world. You float out of the Apple Store with a white box that perfectly slides apart when you open it at your home, and inside is your impenetrable, space-grey fortress of solitude with anApple logo just waiting to shine for you.…</p><p><a href="https://gizmodo.com/your-mac-is-not-virus-proof-it-never-has-been-1851244442">Read more...</a></p>
+
+## iPhone 16: Everything We Know So Far
+ - [https://gizmodo.com/apple-iphone-16-1851244717](https://gizmodo.com/apple-iphone-16-1851244717)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/303bac66e67e0d9543962e61e8d69168.jpg" /><p>You probably upgraded to the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/apple-iphone-15-review-is-worth-the-upgrade-1850887870">iPhone 15</a> over the holiday season. But now that Samsung has just finished its <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/samsung-galaxy-s24-performance-benchmarks-android-1851181931">flagship launch</a> fanfare for the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/which-samsung-galaxy-s24-is-right-for-you-1851210473">Galaxy S24 series</a>, it’s time to start talking about what’s next. The next major smartphone we expect from Apple is the iPhone 16 and iPhone 16 Pro series.<br /></p><p><a href="https://gizmodo.com/apple-iphone-16-1851244717">Read more...</a></p>
+
+## Gizmodo Monday Puzzle: Who Won the Super Bowl?
+ - [https://gizmodo.com/gizmodo-monday-puzzle-super-bowl-1851232384](https://gizmodo.com/gizmodo-monday-puzzle-super-bowl-1851232384)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T12:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cc4163144938ae7bdaacb004e3c83f9a.jpg" /><p>If every American, from newborns to centenarians, from vegans to pescatarians, ate four chicken wings each today, we’d still be about 100 million wings shy of yesterday’s consumption. At least, that’s according to the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.nationalchickencouncil.org/americans-to-eat-1-45-billion-chicken-wings-for-the-big-game/" rel="noopener noreferrer" target="_blank">National Chicken Council</a>, who seems to know their trade.<br /></p><p><a href="https://gizmodo.com/gizmodo-monday-puzzle-super-bowl-1851232384">Read more...</a></p>
+
+## Crowd Sets Waymo Self-Driving Car on Fire: ‘They Couldn’t Even Recognize the Vehicle’
+ - [https://gizmodo.com/waymo-fire-self-driving-car-san-francisco-vandals-1851247725](https://gizmodo.com/waymo-fire-self-driving-car-san-francisco-vandals-1851247725)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T11:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/facc5f53913b22dd05684a50e8899ff4.jpg" /><p>A crowd in San Francisco vandalized a Waymo self-driving car carrying no passengers on Saturday night, breaking its windshield and setting it ablaze. Once firefighters got the situation under control, only a burned husk of the Waymo remained.<br /></p><p><a href="https://gizmodo.com/waymo-fire-self-driving-car-san-francisco-vandals-1851247725">Read more...</a></p>
+
+## IF Conjures Up a New Teaser for Its Imaginary Friends
+ - [https://gizmodo.com/if-superbowl-trailer-paramount-krasinksi-ryan-reynolds-1851241421](https://gizmodo.com/if-superbowl-trailer-paramount-krasinksi-ryan-reynolds-1851241421)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T02:17:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0fd7e9f288ae288feadc7942304d1509.jpg" /><p>John Krasinski and Paramount aren’t just bringing <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/quiet-place-day-one-first-trailer-lupita-nyongo-aliens-1851228025">sound-seeking aliens </a>to the theater this year. In May, the actor is directing (and writing) his first kiddie movie, the Ryan Reynolds-starring <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/if-movie-trailer-ryan-reynolds-john-krasinski-carell-1851099502">IF</a>, which came to the Super Bowl with a new trailer on hand.<br /></p><p><a href="https://gizmodo.com/if-superbowl-trailer-paramount-krasinksi-ryan-reynolds-1851241421">Read more...</a></p>
+
+## Twisters' First Trailer Is Here to Blow You Away
+ - [https://gizmodo.com/twisters-first-teaser-tornado-disaster-movie-glen-powel-1851227851](https://gizmodo.com/twisters-first-teaser-tornado-disaster-movie-glen-powel-1851227851)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-02-12T00:21:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2853028e08ca252aefe09bcad8ecd86f.jpg" /><p>In 1996, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/suck-it-haters-why-were-proud-to-love-twister-1692454290">when Twister was released</a>, “<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/most-people-globally-support-whatever-it-takes-to-lim-1851060852">climate change</a>” didn’t quite carry the very real, very <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/study-reveals-shrinking-timeframe-to-contain-global-war-1850976106">doom-laden weight</a> that it does now. These days, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/future-city-water-power-needs-climate-impact-1850980633">dangerously freaky weather</a> grabs alarmingly <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="htt
+

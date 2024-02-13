@@ -1,0 +1,114 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## Upcoming Game Delays Release To Avoid 'Busy' February
+ - [https://kotaku.com/the-thaumaturge-rpg-delayed-busy-february-ps5-xbox-1851249845](https://kotaku.com/the-thaumaturge-rpg-delayed-busy-february-ps5-xbox-1851249845)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T21:39:26+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0eae2cd5d183d7dd30688997c6c768cb.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/most-anticipated-video-games-2024-kotaku-1851112338/slides/5#:~:text=out%20of%20EA-,The%20Thaumaturge,-The%20Plucky%20Squire">The Thaumaturge</a>, an upcoming narrative-focused, turn-based RPG, was planned to launch in just a few days on February 20. However, the game has now been delayed until March as the developers and publishers hope to avoid a “busy” February and give the game more “breathing room.” </p><p><a href="https://kotaku.com/the-thaumaturge-rpg-delayed-busy-february-ps5-xbox-1851249845">Read more...</a></p>
+
+## Twisters Is A Sequel To The Best Movie Of All Time, Not A Remake Of It
+ - [https://kotaku.com/twisters-2024-trailer-sequel-remake-super-bowl-1851249701](https://kotaku.com/twisters-2024-trailer-sequel-remake-super-bowl-1851249701)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f6b9f5ae3e04e3b9da310864ed77ca90.jpg" /><p>During <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/super-bowl-58-lviii-commercials-ads-2024-ranked-1851249089">Super Bowl LVIII</a>, a teaser trailer dropped that baffled a lot of viewers—it wasn’t the Despicable Me 4 one making fun of AI, but an action-packed Twister teaser. The trailer showcased the July 2024 movie starring Normal People’s Daisy Edgar Jones and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/microsoft-flight-simulator-bumps-top-gun-dlc-to-2022-1847625605">Top Gun: Maverick</a>’s Glen Powell as storm chasers. It featured…</p><p><a href="https://kotaku.com/twisters-2024-trailer-sequel-remake-super-bowl-1851249701">Read more...</a></p>
+
+## Yellow Paint Is Once Again Breaking People’s Brains
+ - [https://kotaku.com/yellow-paint-debate-ff7-rebirth-demo-resident-evil-4-1851249608](https://kotaku.com/yellow-paint-debate-ff7-rebirth-demo-resident-evil-4-1851249608)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T20:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/25bb1ad5e148fca6cbd8d830d5e28cbb.jpg" /><p>Last week, thanks to the Final Fantasy VII Rebirth demo, some old video game discourse returned and overtook social media: The use of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/resident-evil-4-remake-design-crate-signposting-obvious-1850238136">yellow paint to mark certain in-game objects or ledges</a>. All it took was a now-<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://twitter.com/DaveOshry/status/1755469586999505137" rel="noopener noreferrer" target="_blank">viral tweet</a> of Cloud climbing some yellow rocks in the new demo and a comment about how yellow paint was a…</p><p><a href="https://kotaku.com/yellow-paint-debate-ff7-rebirth-demo-resident-evil-4-1851249608">Read more...</a></p>
+
+## Xbox Will Share Big News On Thursday…Via Its Podcast
+ - [https://kotaku.com/xbox-podcast-episode-exclusivity-rumors-ps5-switch-1851249184](https://kotaku.com/xbox-podcast-episode-exclusivity-rumors-ps5-switch-1851249184)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/13c7ff833525f5d9cc6e4efc33c2616a.jpg" /><p>After over a week of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/indiana-jones-starfield-ps5-hi-fi-rush-sea-of-thieves-1851225324">swirling rumors</a> that have sent the Xbox community into <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/xbox-fans-content-creators-ps5-ports-starfield-rumors-1851230962">meltdown</a> over the future of the console and its exclusive games, the company is ready to clear the air on what’s to come. The <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://twitter.com/Xbox/status/1757102346000286155" rel="noopener noreferrer" target="_blank">Xbox Twitter account posted today</a> that it will be releasing a special edition of the Official Xbox Podcast on…</p><p><a href="https://kotaku.com/xbox-podcast-episode-exclusivity-rumor
+
+## The 31 Best Super Bowl LVIII Commercials, Ranked From Solid To Iconic
+ - [https://kotaku.com/super-bowl-58-lviii-commercials-ads-2024-ranked-1851249089](https://kotaku.com/super-bowl-58-lviii-commercials-ads-2024-ranked-1851249089)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/008ac8f5f71e4a3137b27c7893d77af8.jpg" /><p>Super Bowl LVIII, with its thrilling overtime finish and luxury box shots of Taylor Swift and Blake Lively, has come and gone, and so now we must honor those generous corporate patrons who shell out millions so Tom Brady can stay on television. This is all we have, for the staff of The A.V. Club has spent far more…</p><p><a href="https://kotaku.com/super-bowl-58-lviii-commercials-ads-2024-ranked-1851249089">Read more...</a></p>
+
+## The Week In Games: Reignited Rivalries And More New Releases
+ - [https://kotaku.com/february-games-this-week-mario-vs-donkey-kong-1851248769](https://kotaku.com/february-games-this-week-mario-vs-donkey-kong-1851248769)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T18:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1366f974178ecb2acb5f8a1c2644221e.jpg" /><p><a href="https://kotaku.com/february-games-this-week-mario-vs-donkey-kong-1851248769">Read more...</a></p>
+
+## Lost F-Zero Games Recreated By Fans Are Now Playable
+ - [https://kotaku.com/fzero-bs-grand-prix-lost-games-now-playable-1851248984](https://kotaku.com/fzero-bs-grand-prix-lost-games-now-playable-1851248984)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5e522d83672a0b67217c6a18587a3a2c.jpg" /><p>It’s been too long since <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/nintendo-fan-f-zero-40k-5-million-yen-stock-investor-1849131627">F-Zero</a> fans got a full-fledged new entry in the series (sorry<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.youtube.com/watch?v=Z0-Iu-p52ek&amp;embeds_referring_euri=https%3A%2F%2Fwww.pressthebuttons.com%2F&amp;source_ve_path=Mjg2NjY" rel="noopener noreferrer" target="_blank"> F-Zero 99</a>, you don’t count). And while the latest F-Zero news isn’t of that long-awaited next game, it might be even more fascinating for fans of the franchise. Thanks to the work of the F-Zero community, two lost games in the…</p><p><a href="https://kotaku.com/fzero-bs-grand-prix-lost-games-now-playable-1851248984">Read more...</a></p>
+
+## Helldivers 2 Is Too Popular For Its Own Good
+ - [https://kotaku.com/helldivers-2-server-down-status-ps5-pc-steam-1851248827](https://kotaku.com/helldivers-2-server-down-status-ps5-pc-steam-1851248827)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4ac738861a5615e7f0476356d7afde15.jpg" /><p>Helldivers 2, the third-person shooter that launched on PS5 and PC on February 8, is enjoying a fair bit of popularity. It rocketed to the top of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://steambase.io/games/helldivers-2#steam-charts" rel="noopener noreferrer" target="_blank">Steam charts</a> shortly after launch, and it quickly <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.pcgamer.com/helldivers-2-is-now-playstations-biggest-pc-launch-by-a-factor-of-two/" rel="noopener noreferrer" target="_blank">soared past God of War</a>’s top concurrent player count to become PlayStation’s biggest PC launch. It’s so popular, in fact,…</p><p><a href="https://kotaku.com/helldivers-2-server-down-status-ps5-pc-steam-1851248827">Read more...</a></p>
+
+## Report: Xbox Boss Tells Staff It Will Continue To Make Consoles
+ - [https://kotaku.com/is-xbox-leaving-console-business-starfield-phil-spencer-1851248711](https://kotaku.com/is-xbox-leaving-console-business-starfield-phil-spencer-1851248711)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T17:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/678258cb3ee0918ce7fb63e18d39ef23.jpg" /><p>A new report claims Xbox boss Phil Spencer told employees that Microsoft has no plans to exit the console business. This comes during <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/xbox-fans-content-creators-ps5-ports-starfield-rumors-1851230962">a large online firestorm around Xbox and its future</a> following rumors that some big exclusives might land on PlayStation 5. </p><p><a href="https://kotaku.com/is-xbox-leaving-console-business-starfield-phil-spencer-1851248711">Read more...</a></p>
+
+## PSA: FF7 Rebirth Spoilers Leak On Tiktok, Reddit, And Twitter
+ - [https://kotaku.com/final-fantasy-7-rebirth-leak-tiktok-reddit-cloud-aerith-1851248573](https://kotaku.com/final-fantasy-7-rebirth-leak-tiktok-reddit-cloud-aerith-1851248573)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/90a8f9b81371751e1f319c5de4c589bc.jpg" /><p>Watch out, Final Fantasy VII fans. It looks like clips and details about <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-rebirth-ff7-demo-ps5-preview-1851224200">Final Fantasy VII Rebirth</a> are starting to leak out onto the internet. If you’re looking forward to the game and want to go in without any spoilers beyond the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-ff7-rebirth-remake-release-date-trailer-1851169708">incredibly spoiler-filled trailer Square put out</a>at its PlayStation State of Play, log…</p><p><a href="https://kotaku.com/final-fantasy-7-rebirth-leak-tiktok-reddit-cloud-aerith-1851248573">Read more...</a></p>
+
+## Deadpool And Wolverine Trailer Sees The Return Of 'Marvel Jesus'
+ - [https://kotaku.com/deadpool-3-trailer-wolverine-tva-mcu-1851248530](https://kotaku.com/deadpool-3-trailer-wolverine-tva-mcu-1851248530)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T17:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bf3af8f3aa43b6b31cdd89f61f3f1a3a.jpg" /><p>Marvel Studios is only releasing one movie this year—but, from the looks of it, it’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/deadpool-3-matthew-vaughn-revitalize-mcu-1851223175">going to be unforgettable</a>. That movie, of course, is Deadpool & Wolverine, which brings the R-rated, fourth-wall-breaking hero from Fox’s X-Men Universe into the Marvel Cinematic Universe. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/deadpool-3-spoilers-comment-ryan-reynolds-xmen-marvel-1851077681">Ryan Reynolds stars</a> and, this time, he’s…</p><p><a href="https://kotaku.com/deadpool-3-trailer-wolverine-tva-mcu-1851248530">Read more...</a></p>
+
+## Two Great, Bloody Action Games Are Hitting Game Pass This Week
+ - [https://kotaku.com/resident-evil-3-bloodstained-game-pass-february-xbox-1851248486](https://kotaku.com/resident-evil-3-bloodstained-game-pass-february-xbox-1851248486)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/afdf58ec3320490da5f5bd51986dfb82.jpg" /><p>This week love is in the air, but so are monstrous demons, brain-dead zombies, sword-swinging heroes, and plenty of gunfire. If you’re a Game Pass subscriber, you’ll be able to download 2020’s remake of Resident Evil 3 on February 13, and Bloodstained: Ritual of the Night on February 14. </p><p><a href="https://kotaku.com/resident-evil-3-bloodstained-game-pass-february-xbox-1851248486">Read more...</a></p>
+
+## 25 Years Later, Final Fantasy VIII Is Still The Series' Best Love Story
+ - [https://kotaku.com/final-fantasy-8-is-the-series-best-love-story-25-years-1851248443](https://kotaku.com/final-fantasy-8-is-the-series-best-love-story-25-years-1851248443)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4e3cbb12469f2dc24da0c2f7d4adec31.jpg" /><p>From the moment protagonist <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/is-squall-really-dead-final-fantasy-producer-addresses-1800007113">Squall Leonhart</a> is dragged onto the dance floor by a headstrong girl in the opening hours of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/returning-to-final-fantasy-viii-after-20-years-is-letti-1837931144">Final Fantasy VIII</a>, I knew it was love. I would grow to adore this game and appreciate it despite its flaws, and much of that was because of the central story of Squall and Rinoa. In the 25 years…</p><p><a href="https://kotaku.com/final-fantasy-8-is-the-series-best-love-story-25-years-1851248443">Read more...</a></p>
+
+## FF7 Rebirth Director Teases A Happy Ending, With A Catch
+ - [https://kotaku.com/final-fantasy-7-rebirth-remake-happy-ending-aerith-1851248205](https://kotaku.com/final-fantasy-7-rebirth-remake-happy-ending-aerith-1851248205)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T15:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/640770f44b1e21f0675ffe275af64074.jpg" /><p>If you’ve played the original <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-rebirth-ff7-demo-ps5-preview-1851224200">Final Fantasy VII</a>, you know the game ends on a bittersweet note. Sure, the day is saved by the remnants of the revolutionary group Avalanche, but as illustrated in the film <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/ff7-rebirth-advent-children-movie-theaters-tickets-1851123951">Final Fantasy VII: Advent Children</a>, the gang is left to deal with a lot of residual trauma from their journey.…</p><p><a href="https://kotaku.com/final-fantasy-7-rebirth-remake-happy-ending-aerith-1851248205">Read more...</a></p>
+
+## Valkyrae On The Family Plan, Working Retail, And How To Stream Authentically
+ - [https://kotaku.com/valkyrae-rachell-hofstetter-family-plan-apple-interview-1851243875](https://kotaku.com/valkyrae-rachell-hofstetter-family-plan-apple-interview-1851243875)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/88613084646a7a41b18fd681bc48190d.jpg" /><p>Rachell Hofstetter always wants to do more. With four million subscribers on <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.youtube.com/@Valkyrae" rel="noopener noreferrer" target="_blank">YouTube</a>, the streamer known as <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/top-female-streamer-becomes-part-owner-of-massive-espor-1846638350">Valkyrae</a> has become one of the top women creators in gaming since she started back in 2015. Viewers can’t get enough of her bubbly personality and quirky antics, devouring her streams as she trash-talks in <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/valorant-patch-704-notes-jett-nerf-ben-batman-affleck-1850783849">Valora…</a></p><p><a href="https://kotaku.com/valkyrae-rachell-hofstetter-family-plan-apple
+
+## 2018’s Best Co-Op Game Almost Made My Partner Dump Me
+ - [https://kotaku.com/a-way-out-co-op-almost-ended-my-relationship-1851244415](https://kotaku.com/a-way-out-co-op-almost-ended-my-relationship-1851244415)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-02-12T14:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/dd55279917a01afeec5c65b2063f7771.jpg" /><p>There is a lot of advice out there about how to maintain a healthy relationship with your significant other. Communicate effectively, set aside time to spend with each other, things like that. Having been in a relationship with my partner for nine years, I like to think we are pretty good at these things. Not much can…</p><p><a href="https://kotaku.com/a-way-out-co-op-almost-ended-my-relationship-1851244415">Read more...</a></p>
+
