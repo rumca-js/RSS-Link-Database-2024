@@ -1,0 +1,223 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Waymo Recalls and Updates Robotaxi Software After Two Cars Crashed
+ - [https://tech.slashdot.org/story/24/02/13/2228240/waymo-recalls-and-updates-robotaxi-software-after-two-cars-crashed?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/02/13/2228240/waymo-recalls-and-updates-robotaxi-software-after-two-cars-crashed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T23:32:00.551231+00:00
+
+Sean O'Kane reports via TechCrunch: Waymo is voluntarily recalling the software that powers its robotaxi fleet after two vehicles crashed into the same towed pickup truck in Phoenix, Arizona, in December. It's the company's first recall. Waymo chief safety officer Mauricio Pena described the crashes as "minor" in a blog post, and said neither vehicle was carrying passengers at the time. There were no injuries. He also said Waymo's ride-hailing service -- which is live in Phoenix, San Francisco, Los Angeles, and Austin -- "is not and has not been interrupted by this update." The company declined to share video of the crashes with TechCrunch.
+ 
+Waymo said it developed, tested, and validated a fix to the software that it started deploying to its fleet on December 20. All of its robotaxis received that software update by January 12. "This voluntary recall reflects how seriously we take our responsibility to safely deploy our technology and to transparently communicate with the pu
+
+## OpenAI CEO Warns That 'Societal Misalignments' Could Make AI Dangerous
+ - [https://slashdot.org/story/24/02/13/1957259/openai-ceo-warns-that-societal-misalignments-could-make-ai-dangerous?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/02/13/1957259/openai-ceo-warns-that-societal-misalignments-could-make-ai-dangerous?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T23:31:59.061440+00:00
+
+Speaking at the World Governments Summit in Dubai on Tuesday, OpenAI CEO Sam Altman warned that "very subtle societal misalignments" could make artificial intelligence systems wreak havoc. The Associated Press reports: 
+"There's some things in there that are easy to imagine where things really go wrong. And I'm not that interested in the killer robots walking on the street direction of things going wrong," Altman said. "I'm much more interested in the very subtle societal misalignments where we just have these systems out in society and through no particular ill intention, things just go horribly wrong." However, Altman stressed that the AI industry, like OpenAI, shouldn't be in the driver's seat when it comes to making regulations governing the industry. "We're still in the stage of a lot of discussion. So there's you know, everybody in the world is having a conference. Everyone's got an idea, a policy paper, and that's OK," Altman said. "I think we're still at a time where 
+
+## Estate Agents Embrace AI To Stage Rental Listings
+ - [https://tech.slashdot.org/story/24/02/13/1747204/estate-agents-embrace-ai-to-stage-rental-listings?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/02/13/1747204/estate-agents-embrace-ai-to-stage-rental-listings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T22:28:35.550081+00:00
+
+Estate agents are increasingly using AI tools to digitally furnish empty rental flats, a practice known as "virtual staging," to make them look occupied in listings. While virtual staging has existed for years, AI advancements have made the process faster and cheaper. One major UK estate agency already offers AI staging services to customers, Vice reported this week. Industry insiders cited by Vice said AI virtual staging is likely to become more widespread as costs fall. The unrealistic furniture from AI staging can be noticeable, such as bunk beds with overlapping ladders. But the technology continues advancing in quality. The story adds: Although some agents have experimented with using popular AI image generators like Dall-e and Midjourney to "fix" property pictures, the results are usually pretty bizarre, like in this example, where the AI has envisioned bookcases in every corner of the living room and put a hob at perfect height for a toddler. Companies like Virtual Sta
+
+## OpenAI Gets Some of Sarah Silverman's Suit Cut in Mixed Ruling
+ - [https://yro.slashdot.org/story/24/02/13/181205/openai-gets-some-of-sarah-silvermans-suit-cut-in-mixed-ruling?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/02/13/181205/openai-gets-some-of-sarah-silvermans-suit-cut-in-mixed-ruling?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T22:28:34.015942+00:00
+
+OpenAI must face a claim that it violated California unfair competition law by using copyrighted books from comedian Sarah Silverman and other authors to train ChatGPT without permission. From a report: But US District Judge Araceli Martinez-Olguin on Monday also dismissed a number of Silverman and her coplaintiffs' other legal claims, including allegations of vicarious copyright infringement, violations of the Digital Millennium Copyright Act, negligence, and unjust enrichment. The judge gave the authors the opportunity to amend their proposed class action by March 13 to fix the defects in the complaint. 
+
+The core of the lawsuit remains alive, as OpenAI's motion to dismiss, filed last summer, didn't address Silverman's claim of direct copyright infringement for copying millions of books across the internet without permission. Courts haven't yet determined whether using copyrighted work to train AI models falls under copyright law's fair use doctrine, shielding the companies
+
+## Apple's iMessage Avoids EU's Digital Markets Act Regulation
+ - [https://apple.slashdot.org/story/24/02/13/1941232/apples-imessage-avoids-eus-digital-markets-act-regulation?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/02/13/1941232/apples-imessage-avoids-eus-digital-markets-act-regulation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T21:21:39.933430+00:00
+
+An anonymous reader quotes a report from MacRumors: Apple's iMessage will avoid regulation requiring interoperability with other messaging platforms under the EU's Digital Markets Act (DMA), following the conclusion of an investigation by the regulator (via Bloomberg). The probe concluded that the iMessage platform and Microsoft's Bing do not hold a dominant enough position to be brought under the DMA's strict rules for services provided by big tech's so-called digital "gatekeepers," which include Apple, Meta, Google, Amazon, and TikTok, according to the EU.
+ 
+The EU has been working on legislation under the DMA that would have required Apple to make changes to iMessage to make it available on other platforms. The interoperability rules would have meant that Meta apps like WhatsApp or Messenger could request to interoperate with Apple's iMessage framework, and Apple would have been forced to comply within the EU. However, the EU probe found that iMessage falls outside the leg
+
+## FTC Chair Khan: Stop Monopolies Before They Happen
+ - [https://news.slashdot.org/story/24/02/13/1810210/ftc-chair-khan-stop-monopolies-before-they-happen?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/02/13/1810210/ftc-chair-khan-stop-monopolies-before-they-happen?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T21:21:38.390128+00:00
+
+FTC chair Lina Khan is hunting for evidence that Microsoft, Google and Amazon require cloud computing spend, board seats or exclusivity deals in return for their investments in AI startups. From a report: At a Friday event, Khan framed today's AI landscape as an inflection point for tech that is "enormously important for opening up markets and injecting competition and disrupting existing incumbents." The FTC chair offered Axios' Sara Fischer new details of how she's handling a market inquiry into the relationship between Big Tech companies and AI startups, in an interview at the Digital Content Next Summit in Charleston, S.C. 
+
+In handling the surge in AI innovation and its impacts on the broader tech and media landscape, Khan said she aims to tackle monopoly "before it becomes fully fledged."
+She said the FTC is looking for chokepoints in each layer of the AI tech stack: "chips. compute, foundational models, applications." Khan said she's also paying close attention to vert
+
+## Walmart In Talks To Buy Vizio For More Than $2 Billion
+ - [https://entertainment.slashdot.org/story/24/02/13/2041215/walmart-in-talks-to-buy-vizio-for-more-than-2-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/24/02/13/2041215/walmart-in-talks-to-buy-vizio-for-more-than-2-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T21:21:35.788783+00:00
+
+According to the Wall Street Journal, Walmart is in talks to buy TV manufacturer Vizio for more than $2 billion. Shares of Vizio jumped 36% after the report, while Walmart's shares were down about 1%. From the report: Walmart, including its Sam's Club chain, has historically been Vizio's largest customer. Vizio is historically the largest television brand sold at Walmart by sales. The deal talks demonstrate the importance of consumer data and ad space for major retailers as they build out their ad businesses and compete with Amazon. In addition to being an e-commerce behemoth, Amazon is among the biggest ad players in the U.S. behind Google parent Alphabet and Facebook owner Meta Platforms. Amazon has also been building its own smart TV business. Developing...<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Walmart+In+Talks+To+Buy+Vizio+For+More+Than+%242+Billion%3A+https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F24%2F02%2F13%2F204
+
+## Sam Altman's $7 Trillion Chip Dreams Are Way Off the Mark, Says Nvidia CEO
+ - [https://hardware.slashdot.org/story/24/02/13/1732244/sam-altmans-7-trillion-chip-dreams-are-way-off-the-mark-says-nvidia-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/02/13/1732244/sam-altmans-7-trillion-chip-dreams-are-way-off-the-mark-says-nvidia-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T19:58:00.613549+00:00
+
+Jensen Huang took an indirect jab at Sam Altman when he said $7 trillion can buy "apparently all the GPUs." From a report: The Nvidia CEO made the quip at the World Governments Summit in Dubai on Monday when asked how many GPU chips that much money could buy. Altman, the OpenAI chief, is reportedly trying to raise trillions to boost supplies of the chips needed for AI processing. Huang told the United Arab Emirates' AI minister, Omar Al Olama, that developing AI wouldn't cost as much as the amount Altman is seeking to raise. The Nvidia CEO said AI infrastructure costs would be considerably less than the $5 trillion to $7 trillion Altman is reportedly trying to raise because of expected advances in computing. 
+
+"You can't assume just that you will buy more computers. You have to also assume that the computers are going to become faster and therefore the total amount that you need is not as much," Huang said. He also suggested that the cost of building AI data centers globally 
+
+## NYC Fails Controversial Remote Learning Snow Day 'Test,' Public Schools Chancellor Says
+ - [https://news.slashdot.org/story/24/02/13/1832236/nyc-fails-controversial-remote-learning-snow-day-test-public-schools-chancellor-says?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/02/13/1832236/nyc-fails-controversial-remote-learning-snow-day-test-public-schools-chancellor-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T19:57:58.934149+00:00
+
+New York City's public schools chancellor said the city did not pass Tuesday's remote learning "test" due to technical issues. From a report: "As I said, this was a test. I don't think that we passed this test," David Banks said during a news briefing, adding that he felt "disappointed, frustrated and angry" as a result of the technical issues. NYC Public Schools did a lot of work to prepare for the remote learning day, Banks said, but shortly before 8 a.m. they were notified that parents and students were having difficulty signing onto remote learning. 
+
+This is the first time NYC Public Schools has implemented remote learning on a snow day since introducing the no snow day policy in 2022. The district serves 1.1 million students in more than 1,800 schools. Banks blamed the technical issues on IBM, which helps facilitate the city's remote learning program. "IBM was not ready for primetime," Banks said, adding that the company was overwhelmed with the surge of people signing 
+
+## Backblaze's Geriatric Hard Drives Kicked the Bucket More in 2023
+ - [https://hardware.slashdot.org/story/24/02/13/1640247/backblazes-geriatric-hard-drives-kicked-the-bucket-more-in-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/02/13/1640247/backblazes-geriatric-hard-drives-kicked-the-bucket-more-in-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T18:32:31.229515+00:00
+
+Backblaze has published a report on hard drive failures for 2023, finding that rates increased during the year due to aging drives that it plans to upgrade. From a report: Backblaze, which focuses on cloud-based storage services, claims to have more than three exabytes of data storage under its management. As of the end of last year, the company monitored 270,222 hard drives used for data storage, some of which are excluded from the statistics because they are still being evaluated. That still left a collection of 269,756 hard drives comprised of 35 drive models. Statistics on SSDs used as boot drives are reported separately. 
+
+Backblaze found one drive model exhibited zero failures for all of 2023, the Seagate 8 TB ST8000NM000A. However, this came with the caveat that there are only 204 examples in service, and these were deployed only since Q3 2022, so have accumulated a limited number of drive days (total time operational). Nevertheless, as Backblaze's principal cloud stor
+
+## Cloudflare Defeats Another Patent Troll With Crowd-Sourced Prior-Art Army
+ - [https://yro.slashdot.org/story/24/02/13/1654247/cloudflare-defeats-another-patent-troll-with-crowd-sourced-prior-art-army?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/02/13/1654247/cloudflare-defeats-another-patent-troll-with-crowd-sourced-prior-art-army?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T18:32:27.830266+00:00
+
+When it comes to defeating patent trolls with crowd-sourced prior art, Cloudflare is now two-for-two after winning its latest case against Sable Networks. The Register: Sable Networks, which owns patents originally given to defunct "flow-based router" company Caspian Networks, sued Cloudflare and five other companies in 2021 alleging a whole host of violations of four patents now owned by Sable. A lot has changed since the case was filed in the US District Court for the Western District of Texas, leading to a jury verdict last week that found Cloudflare not only didn't infringe on the single patent that made it to trial, but that the final patent claim at issue was invalid as well. It took the jury just two hours to return the result, Cloudflare said. 
+
+"Since Sable first sued us, we've invalidated significant parts of three Sable patents, hamstringing their ability to bring lawsuits against other companies," Cloudflare's in-house counsel boasted on Monday. Cloudflare said th
+
+## Superlist is the New Wunderlist, After Microsoft Killed the Original
+ - [https://tech.slashdot.org/story/24/02/13/1627223/superlist-is-the-new-wunderlist-after-microsoft-killed-the-original?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/02/13/1627223/superlist-is-the-new-wunderlist-after-microsoft-killed-the-original?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T17:20:51.039787+00:00
+
+Wunderlist, a beloved to-do app known for its delightful design, was acquired by Microsoft in 2015 and discontinued years later. Now Wunderlist co-founder Christian Reber -- who apparently attempted to buy back Wunderlist to no luck -- has launched Superlist to revive its spirit. The new app focuses on centralized project management by compiling tasks, notes, files and more into shareable lists. It then automatically organizes tasks into a daily agenda. 
+
+Superlist starts at $8 a month, but offers "uinlimited tasks, notes, and reminders, and unlimited private lists" for individuals at no cost.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Superlist+is+the+New+Wunderlist%2C+After+Microsoft+Killed+the+Original%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F02%2F13%2F1627223%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.c
+
+## Infosys Subsidiary Named as Source of Bank of America Data Leak
+ - [https://it.slashdot.org/story/24/02/13/1448248/infosys-subsidiary-named-as-source-of-bank-of-america-data-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/02/13/1448248/infosys-subsidiary-named-as-source-of-bank-of-america-data-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T16:15:08.495301+00:00
+
+Indian tech services giant Infosys has been named as the source of a data leak suffered by the Bank of America. From a report: Infosys disclosed the breach in a November 3, 2023, filing that revealed its US subsidiary Infosys McCamish Systems LLC (IMS) "has become aware of a cyber security incident resulting in non-availability of certain applications and systems in IMS." A data breach notification filed in the US state of Maine this week describes the incident as "External system breach (hacking)" and reveals the improperly accessed data includes "Name or other personal identifier in combination with: Social Security Number." 
+
+The notification was submitted by an outside attorney working on behalf of the Bank of America, names IMS as the source, and revealed that information on 57,028 people was leaked. A sample of the letter sent to those impacted by the incident reveals that on November 24, "IMS told Bank of America that data concerning deferred compensation plans service
+
+## Investors in Airbnb Arbitrage Business Allege They Were Defrauded
+ - [https://tech.slashdot.org/story/24/02/13/1514214/investors-in-airbnb-arbitrage-business-allege-they-were-defrauded?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/02/13/1514214/investors-in-airbnb-arbitrage-business-allege-they-were-defrauded?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T16:15:05.874684+00:00
+
+A company called Hands-Free Automation (HFA) has been accused of improperly relisting properties on Airbnb at higher prices after taking listings from hotel and short-term rental sites, according to a lawsuit filed in February. HFA founder Anthony Agyeman allegedly promised investors returns in 3-6 months for $20,000-30,000 investments in owning stakes in Airbnb listings. However, Airbnb prohibits the practice, and HFA has not been authorized by property owners, CNBC reported this week. The Federal Trade Commission has accused similar companies previously of making false promises of profits. Airbnb said it was unaware of contact from regulators regarding HFA.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Investors+in+Airbnb+Arbitrage+Business+Allege+They+Were+Defrauded%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F02%2F13%2F1514214%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_lar
+
+## FCC Commissioner Wants To Investigate Apple Over Beeper Mini Shutdown
+ - [https://apple.slashdot.org/story/24/02/13/0759208/fcc-commissioner-wants-to-investigate-apple-over-beeper-mini-shutdown?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/02/13/0759208/fcc-commissioner-wants-to-investigate-apple-over-beeper-mini-shutdown?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T15:08:07.822444+00:00
+
+Republican Commissioner Brendan Carr is calling on the Federal Communications Commission to investigate Apple's response to Beeper Mini -- the app that briefly brought iMessage to Android. From a report: During the State of the Net Conference on Monday, Carr said the FCC should look into whether Apple's move "complies with the FCC's Part 14 rules" about accommodating users with disabilities. 
+
+Beeper Mini launched last year, allowing Android users to gain access to iMessage features, including blue message bubbles and the ability to send high-quality photos and videos. However, Apple quickly blocked Beeper Mini users and continued to shut down attempts to make the app work, leading its developers to eventually just give up. The FCC's Part 14 rules lay out requirements that "advanced communications service," such as iMessage, must follow to ensure they're accessible.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=FCC+Commissioner+Want
+
+## Nvidia's Chat With RTX is a AI Chatbot That Runs Locally On Your PC
+ - [https://tech.slashdot.org/story/24/02/13/1423207/nvidias-chat-with-rtx-is-a-ai-chatbot-that-runs-locally-on-your-pc?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/02/13/1423207/nvidias-chat-with-rtx-is-a-ai-chatbot-that-runs-locally-on-your-pc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T15:08:04.684230+00:00
+
+Nvidia is releasing an early version of Chat with RTX today, a demo app that lets you run a personal AI chatbot on your PC. From a report: You can feed it YouTube videos and your own documents to create summaries and get relevant answers based on your own data. It all runs locally on a PC, and all you need is an RTX 30- or 40-series GPU with at least 8GB of VRAM. I've been briefly testing out Chat with RTX over the past day, and although the app is a little rough around the edges, I can already see this being a valuable part of data research for journalists or anyone who needs to analyze a collection of documents. Chat with RTX can handle YouTube videos, so you simply input a URL, and it lets you search transcripts for specific mentions or summarize an entire video.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Nvidia's+Chat+With+RTX+is+a+AI+Chatbot+That+Runs+Locally+On+Your+PC%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F02%2F
+
+## France Uncovers a Vast Russian Disinformation Campaign In Europe
+ - [https://tech.slashdot.org/story/24/02/13/077205/france-uncovers-a-vast-russian-disinformation-campaign-in-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/02/13/077205/france-uncovers-a-vast-russian-disinformation-campaign-in-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T13:51:42.776172+00:00
+
+An anonymous reader quotes a report from The Economist: Russia hasbeen at the forefront ofinternet disinformationtechniques at least since 2014, when it pioneered the use of bot farms to spread fake news about its invasion of Crimea. According to French authorities, the Kremlin is at it again. On February 12th Viginum, the French foreign-disinformation watchdog, announced it had detected preparations for a large disinformation campaign in France, Germany, Poland and other European countries, tied in part to the second anniversary of Vladimir Putin's invasion of Ukraine and the elections to the European Parliament in June. Viginum said it had uncovered a Russian network of 193 websites which it codenames "Portal Kombat." Most of these sites, such as topnews.uz.ua, were created years ago and many were left dormant. Over 50 of them, such as news-odessa.ru and pravda-en.com, have been created since 2022. Current traffic to these sites, which exist in various languages including F
+
+## Amazon Prime Video Drops Dolby Vision, Atmos Unless You Pay Extra
+ - [https://news.slashdot.org/story/24/02/13/070255/amazon-prime-video-drops-dolby-vision-atmos-unless-you-pay-extra?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/02/13/070255/amazon-prime-video-drops-dolby-vision-atmos-unless-you-pay-extra?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T10:32:57.500790+00:00
+
+Amazon Prime Video has cut Dolby Vision and Atmos support from their ad tier subscription. "That's on top of the ads that Amazon injected into the service on January 29th," reports The Verge. "Now, when you pay $2.99 a month to remove those ads, you can get Dolby Vision and Dolby Atmos back as well." The Verge reports: That's the word from 4KFilme, which discovered that their smart TVs from Sony, LG, and Samsung were now displaying content in HDR10 with Dolby Digital 5.1 as opposed to the higher fidelity options they'd enjoyed previously. Amazon spokesperson Katie Barker confirms to The Verge that it's a deliberate move: "Dolby Vision and Dolby Atmos capabilities are only available on the ad free option, on relevant titles."
+ 
+While price hikes are no longer remotely unusual in the streaming video space, where Netflix now charges $22.99 a month for its 4K tier, it's a bit harder to compare Amazon's prices to Netflix. Prime Video is also available as an $8.99-per-month standal
+
+## 28-Ton, 1.2-Megawatt Tidal Kite Is Now Exporting Power To the Grid
+ - [https://hardware.slashdot.org/story/24/02/13/0651241/28-ton-12-megawatt-tidal-kite-is-now-exporting-power-to-the-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/02/13/0651241/28-ton-12-megawatt-tidal-kite-is-now-exporting-power-to-the-grid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T07:12:00.017455+00:00
+
+Minesto, a marine energy tech developer based in Sweden, has deployed their new Dragon 12 tidal energy harvester to the Faroe Islands. Operating like an underwater kite, the Dragon 12 "uses lift generated by tidal flows to fly patterns faster than the currents, harvesting renewable energy," reports New Atlas. From the report: Where devices like Orbital's O2 tidal turbine more or less just sit there in the water harvesting energy from tidal currents, Minesto's Dragon series are anchored to the sea bed, and fly around like kites, treating the currents like wind. Just as land-based wind energy kites fly in figure 8 patterns to accelerate themselves faster than the wind, so does the Dragon underwater. This, says Minesto, lets the Dragon pull more energy from a given tidal current than other designs -- and it also changes the economic equations for relevant sites, making slower tidal flows worth exploiting.
+ 
+These are by no means small kites -- the Dragon 12 needs to be disassemb
+
+## Climate Change Reversing Gains In Air Quality Across the US, Study Finds
+ - [https://news.slashdot.org/story/24/02/13/0122214/climate-change-reversing-gains-in-air-quality-across-the-us-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/02/13/0122214/climate-change-reversing-gains-in-air-quality-across-the-us-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T03:55:26.169547+00:00
+
+An anonymous reader quotes a report from Axios: After decades of progress in the U.S. toward cleaner air, climate change-related events will cause a steady deterioration through 2054. New research from the nonprofit First Street Foundation is part of a hyperlocal air quality model showing shifts down to the property level between 2024 and 2054. Its conclusions flow from methods contained in three peer-reviewed studies published by the coauthors. The report itself is not peer reviewed, however. The study finds that climate change is increasing the prevalence of two of the air pollutants most harmful to human health: particulate matter, commonly referred to as PM2.5, and tropospheric ozone.
+ 
+PM2.5 are tiny particles emitted by vehicles, power plants, wildfires and other sources. They can get lodged in people's lungs and enter the bloodstream, causing or exacerbating numerous health problems. Through the use of air quality observations and the development of the new model, Firs
+
+## Threads Starts Testing Trending Topics Section
+ - [https://tech.slashdot.org/story/24/02/13/019207/threads-starts-testing-trending-topics-section?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/02/13/019207/threads-starts-testing-trending-topics-section?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T02:50:14.855304+00:00
+
+In a post on Threads today, Meta CEO Mark Zuckerberg announced that the Twitter rival is rolling out a new test in the U.S. that shows a list of popular topics that other people are discussing. It's a core feature of Twitter (now "X") that should help make it easier to find new posts and users on Threads. The Verge reports: The list will appear on the search page and in the For You feed, allowing you to browse through posts about a particular topic. In addition to testing a way to save posts, Meta recently said it will add controls to limit political content recommendations on Threads. Instagram head Adam Mosseri says Threads uses machine learning AI systems to determine what goes on the list. It takes into account how many people are talking about a certain topic, as well as how many people have interacted with posts about it.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Threads+Starts+Testing+Trending+Topics+Section%3A+https%3A%2
+
+## Early Blood Test To Predict Dementia Is Step Closer As Biological Markets Identified
+ - [https://science.slashdot.org/story/24/02/13/0115238/early-blood-test-to-predict-dementia-is-step-closer-as-biological-markets-identified?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/02/13/0115238/early-blood-test-to-predict-dementia-is-step-closer-as-biological-markets-identified?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T02:50:11.178002+00:00
+
+Researchers have made significant progress toward developing a blood test that can predict the risk of dementia up to 15 years before clinical diagnosis. The Guardian reports: Hopes for the test were raised after scientists discovered biological markers for the condition in blood samples collected from more than 50,000 healthy volunteers enrolled in the UK Biobank project. Analysis of the blood identified patterns of four proteins that predicted the onset of dementia in general, and Alzheimer's disease and vascular dementia specifically, in older age. When combined with more conventional risk factors such as age, sex, education and genetic susceptibility, the protein profiles allowed researchers to predict dementia with an estimated 90% accuracy nearly 15 years before people received clinical confirmation of the disease.
+ 
+For the latest study, blood samples from 52,645 UK adults without dementia were collected and frozen between 2006 and 2010 and analyzed 10 to 15 years late
+
+## Spotify's Layoffs Put an End To a Musical Encyclopedia
+ - [https://entertainment.slashdot.org/story/24/02/12/2240216/spotifys-layoffs-put-an-end-to-a-musical-encyclopedia?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/24/02/12/2240216/spotifys-layoffs-put-an-end-to-a-musical-encyclopedia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T01:45:08.136738+00:00
+
+An anonymous reader quotes a report from TechCrunch: On a brutal December day, 17% of Spotify employees found out they had been laid off in the company's third round of job cuts last year. Not long after, music fans around the world realized that the cult-favorite website Every Noise at Once (EveryNoise), an encyclopedic goldmine for music discovery, had stopped working. These two events were not disconnected. Spotify data alchemist Glenn McDonald, who created EveryNoise, was one of the 1,500 employees who was let go that day, but his layoff had wider-reaching implications; now that McDonald doesn't have access to internal Spotify data, he can no longer maintain EveryNoise, which became a pivotal resource for the most obsessive music fans to track new releases and learn more about the sounds they love.
+ 
+"The project is to understand the communities of listening that exist in the world, figure out what they're called, what artists are in them and what their audiences are," Mc
+
+## Amazon Hides Cheaper Items With Faster Delivery, Lawsuit Alleges
+ - [https://yro.slashdot.org/story/24/02/13/012258/amazon-hides-cheaper-items-with-faster-delivery-lawsuit-alleges?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/02/13/012258/amazon-hides-cheaper-items-with-faster-delivery-lawsuit-alleges?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T01:45:06.579068+00:00
+
+A class-action lawsuit alleges (PDF) that Amazon manipulates its platform through a biased algorithm to favor the "Buy Box" for items that generate higher fees for Amazon, often leading consumers to overpay for products that could be obtained cheaper and just as quickly from other sellers on the platform. Ars Technica reports: The lawsuit claims that a biased algorithm drives Amazon's "Buy Box," which appears on an item's page and prompts shoppers to "Buy Now" or "Add to Cart." According to customers suing, nearly 98 percent of Amazon sales are of items featured in the Buy Box, because customers allegedly "reasonably" believe that featured items offer the best deal on the platform.
+ 
+"But they are often wrong," the complaint said, claiming that instead, Amazon features items from its own retailers and sellers that participate in Fulfillment By Amazon (FBA), both of which pay Amazon higher fees and gain secret perks like appearing in the Buy Box. "The result is that consumers 
+
+## WhatsApp Image Sender Becomes First Convicted Cyber-Flasher
+ - [https://yro.slashdot.org/story/24/02/12/2225212/whatsapp-image-sender-becomes-first-convicted-cyber-flasher?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/02/12/2225212/whatsapp-image-sender-becomes-first-convicted-cyber-flasher?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-02-13T00:41:35.185111+00:00
+
+A registered sex offender has become the first person in England and Wales to be convicted of cyber-flashing. The BBC reports: Nicholas Hawkes, 39, of Basildon, Essex, sent unsolicited photos of his erect penis to a 15-year-old girl and a woman on Friday. The woman took screenshots of the image on WhatsApp and reported Hawkes to Essex Police the same day.
+Hawkes admitted two charges when he appeared before magistrates in Southend earlier. He is the first person to be convicted of the new offense of cyber-flashing, which was brought in under the Online Safety Act and came into effect on January 31.
+ 
+After pleading guilty to two counts of sending a photograph or film of genitals to cause alarm, distress, or humiliation, he was remanded in custody until March 11, when he will be sentenced at Basildon Crown Court. Hawkes is a registered sex offender until November 2033 after he was convicted and given a community order for sexual activity with a child under 16 and exposure last 
+

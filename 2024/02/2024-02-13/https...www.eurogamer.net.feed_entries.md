@@ -1,0 +1,175 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Tomb Raider 1-3 Remastered - a carefully measured, well-executed endeavour
+ - [https://www.eurogamer.net/digitalfoundry-2024-tomb-raider-1-3-remastered-tech-review?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/digitalfoundry-2024-tomb-raider-1-3-remastered-tech-review?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T18:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/TOMB-RAIDER-SITE.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>There was a time when Tomb Raider stood as one of the most recognisable game series in the world, but decades later the original entries are largely unknown to those that didn't grow up with them. That's where Tomb Raider 1-3 Remastered comes into play, a collection of brand-new versions of the first three titles with enhanced lighting, improved detail, high-res textures and better performance. Remastered feels both fresh and retro at the same time - and I've been playing it over the last week to determine how it stacks up against the original games in terms of visuals, controls and more. </p><p>Back in 2016, I created an episode of <a href="https://www.youtube.com/watch?v=VutzIK3DqZE">DF Retro covering the original Tomb Raider</a> where I compared the PlayStation, Saturn and PC versions while showcasing some of the underl
+
+## Tomb Raider 1-3 Remastered review - you were never going to smooth these games out
+ - [https://www.eurogamer.net/tomb-raider-i-iii-remastered-review?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/tomb-raider-i-iii-remastered-review?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T18:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/tomb-raider-remastered-art-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Games can be beautiful because they are timeless, but they can also be beautiful because they are timely. When it comes to timelessness, you're going to struggle to beat Tetris. Its stark and nested blocks face every age with the same eternal silence, while the impulse to organise and tidy that they inspire is so deeply rooted in living things that it probably transcends species. Just this morning I watched a crow on TikTok working a stick into a clear plastic tube to dislodge a treat. This crow, that lives in a tree somewhere and probably eats the eggs of other birds because it is compelled to, this crow was ready for Tetris.</p><p>For timeliness, though, I give you Tomb Raider - the early Core games. These are the same games that have just been repackaged and remastered in a new collection with an annoying
+
+## Tomb Raider 1-3 Remastered adds racial and ethnic content warning
+ - [https://www.eurogamer.net/tomb-raider-1-3-remastered-adds-racial-and-ethnic-content-warning?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/tomb-raider-1-3-remastered-adds-racial-and-ethnic-content-warning?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T17:08:13+00:00
+
+<img src="https://assetsio.reedpopcdn.com/tomb-raider-remastered-art-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Tomb Raider 1-3 Remastered begins with a content warning that explains the trilogy contains "offensive depictions of people and cultures rooted in racial and ethnic prejudices". 
+</p><p>
+The message states that these depictions are "inexcusable" but have been kept intact to acknowledge their "deeply harmful" inclusion and learn from it.
+</p><p>
+There's no detail in the statement on which specific elements of the games it refers to - though one likely example can be found in Tomb Raider 3, Eurogamer fans of the games tell me, where stereotypical South Pacific islanders attack Lara Croft with bows and arrows. 
+</p> <p><a href="https://www.eurogamer.net/tomb-raider-1-3-remastered-adds-racial-and-ethnic-content-warning?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Nearly 1 in 5 gamers are LGBT+, says new GLAAD study
+ - [https://www.eurogamer.net/nearly-1-in-5-gamers-are-lgbt-says-new-glaad-study?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/nearly-1-in-5-gamers-are-lgbt-says-new-glaad-study?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T14:37:28+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Untitled-1_2rtTRkx.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Nearly one in five gamers are members of the LGBT+ community, yet LGBT+ storylines and characters account for less than two percent of all games.
+</p><p>
+That's according to the first ever GLAAD Gaming Report, the global leader in advocacy for LGBT+ representation, alongside market research company Nielson.
+</p><p>
+A previous report from Nielson three years ago stated 10 percent of gamers were LGBT+. Now that's up to 17 percent - an increase of 70 percent.
+</p> <p><a href="https://www.eurogamer.net/nearly-1-in-5-gamers-are-lgbt-says-new-glaad-study?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Team Ninja's Rise of the Ronin won't release in Korea, Sony confirms
+ - [https://www.eurogamer.net/team-ninjas-rise-of-the-ronin-wont-release-in-korea-sony-confirms?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/team-ninjas-rise-of-the-ronin-wont-release-in-korea-sony-confirms?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T13:33:30+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Rise-of-the-Ronin---Behind-the-Scenes.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Team Ninja's ambitious next game, Rise of the Ronin, will not be released in South Korea.</p><p>The news was covered by several Korean outlets yesterday, after the game was pulled from the Korean PlayStation Store and all promotional material except for for trailer was removed from PlayStation's Korean YouTube channel.</p><p>As reported on Korean community site <a href="https://bbs.ruliweb.com/news/read/193264">Ruliweb</a>, Sony Interactive Entertainment Korea has released a statement confirming Rise of Ronin won't be released in Korea physically or digitally.  </p> <p><a href="https://www.eurogamer.net/team-ninjas-rise-of-the-ronin-wont-release-in-korea-sony-confirms?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Inkulinati headed to PlayStation, Switch, as it leaves early access
+ - [https://www.eurogamer.net/inkulinati-headed-to-playstation-switch-as-it-leaves-early-access?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/inkulinati-headed-to-playstation-switch-as-it-leaves-early-access?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T12:51:40+00:00
+
+<img src="https://assetsio.reedpopcdn.com/inkulinati-4.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Inkulinati will leave early access later this month, on 22nd February, at which point it will become available for the first time on Nintendo Switch and PlayStation. 
+</p><p>
+Previously, Inkulinati was only available on PC via Steam Early Access and on Xbox through Game Preview.
+</p><p>
+"Your support and feedback during the Early Access period have been invaluable to us. Your comments, suggestions, feedback, reviews, and words of encouragement have made Inkulinati a better game. And behind the scenes, we've worked really hard on making Inkulinati an engaging and polished experience," Yaza Games and the teams at Daedalic wrote on <a href="https://store.steampowered.com/app/957960/Inkulinati/">Steam</a>.
+</p> <p><a href="https://www.eurogamer.net/inkulinati-headed-to-playstation-switch-as-it-leaves-early-access?utm_source=feed&
+
+## No, Arceus won't be included in Pokémon Go Tour: Sinnoh
+ - [https://www.eurogamer.net/no-arceus-wont-be-included-in-pokemon-go-tour-sinnoh?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/no-arceus-wont-be-included-in-pokemon-go-tour-sinnoh?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T12:35:31+00:00
+
+<img src="https://assetsio.reedpopcdn.com/1_C7ZFzQ4ngR_UZiG-dIKScg.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Arceus, the god Pok&eacute;mon, won't turn up in Pok&eacute;mon Go for this month's upcoming Go Tour: Sinnoh. 
+</p><p>
+Its <a href="https://www.eurogamer.net/theres-no-sign-of-arceus-yet-in-pokemon-gos-sinnoh-tour">apparent absence had been hotly debated by fans</a>, though has now been confirmed to Eurogamer by developer Niantic. It means Go Tour: Sinnoh will be the first one of Pok&eacute;mon Go's popular annual Tour events not to let players complete their Pok&eacute;dex for the corresponding region.
+</p><p>
+Two other Sinnoh species will also be absent: Mythical creatures Manaphy and Phione. 
+</p> <p><a href="https://www.eurogamer.net/no-arceus-wont-be-included-in-pokemon-go-tour-sinnoh?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Two lost F-Zero Satellaview games recreated by fans
+ - [https://www.eurogamer.net/two-lost-f-zero-satellaview-games-recreated-by-fans?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/two-lost-f-zero-satellaview-games-recreated-by-fans?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T12:01:32+00:00
+
+<img src="https://assetsio.reedpopcdn.com/f-zero99-race-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Two F-Zero games exclusively released on Nintendo's Satellaview SNES service have been restored by fans and are available to play for free.
+</p><p>
+The BS F-Zero Grand Prix games were first made available in a series of broadcasts in 1996 and 1997, including remixed courses from the original SNES game and some exclusive tracks too.
+</p><p>
+However, these games appeared to be lost in the mute city of time - until now.
+</p> <p><a href="https://www.eurogamer.net/two-lost-f-zero-satellaview-games-recreated-by-fans?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## In Summerhouse, every home hides a story
+ - [https://www.eurogamer.net/summerhouse-every-home-hides-a-story?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/summerhouse-every-home-hides-a-story?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T12:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Summerhouse-demo-solo-house-build.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>This deceptively simple house-building game from Friedemann is surprisingly good at prompting stories. Once you enter a world, you are left alone to create homes or buildings with a fair amount of resources and very little restriction. It&rsquo;s a lot of fun by itself, but over time the ease of placing things led to me creating deep backstories for everything I was making. Summerhouse simply lets you be. Your imagination is allowed to wander wherever it desires in that moment.</p><p>Soon after starting the demo, I found that I was asking myself, &lsquo;Who lives here? What do they do?&rsquo; I would start asking these questions with one building, and often that would prompt the beginning of a story that would span the rest of the street. It helps that, although there isn&rsquo;t an endless amount of choic
+
+## Lethal Company mobile app is a "scam", developer warns
+ - [https://www.eurogamer.net/lethal-company-mobile-app-is-a-scam-developer-warns?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/lethal-company-mobile-app-is-a-scam-developer-warns?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T11:55:22+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Lethal-Company_3Wzt7lG.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+A mobile version of hit survival horror Lethal Company has popped up on the iPhone App Store and Google Play - but isn't what it seems. The game's developer Zeekerss has warned players this is "likely a scam of some sort", and not made with its permission.
+</p><p>
+Lethal Company has become incredibly popular since its debut last year, and prompted praise for the game's mix of genuine horror and almost slapstick comedy. Now, it appears others are trying to profit off Zeekerss' success by releasing their own rip-off of Lethal Company on mobile. Don't be fooled.
+</p><p>
+Writing on the <a href="https://discord.com/invite/jKuCvk6">Lethal Company Discord</a>, a moderator stated this mobile version "was made with no explicit permission and is most likely a scam". They asked users to refrain from linking to any fake games, 
+
+## Dead Cells "abrupt termination" was a bid to promote publisher's new game, ex-dev says
+ - [https://www.eurogamer.net/dead-cells-abrupt-termination-was-a-bid-to-promote-publishers-new-game-ex-dev-says?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/dead-cells-abrupt-termination-was-a-bid-to-promote-publishers-new-game-ex-dev-says?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T11:47:08+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ss_b7cf2ca21fe3648c53f808b80393cc727815dcc5.1920x1080.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Former lead designer S&eacute;bastien Benard has further discussed the decision made by publisher Motion Twin to end Dead Cell's development - something he previously dubbed <a href="https://www.eurogamer.net/dead-cells-designer-calls-decision-to-end-development-the-worst-imaginable-asshole-move">"the worst imaginable asshole move"</a>.
+</p><p>Benard originally shared his sentiments on the <a href="https://www.eurogamer.net/dead-cells-developer-ends-support-focusing-on-new-projects">end of Dead Cells development</a> via the game's Discord server, where he said the official statement from Motion Twin was "total marketing bullshit" from a company he called "greedy". </p><p>Now, Benard has shared an update with further thoughts on his <a href="https://deepnight.net/blog/regarding-dead-cell
+
+## What The Golf? heading to PlayStation next month
+ - [https://www.eurogamer.net/what-the-golf-heading-to-playstation-next-month?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/what-the-golf-heading-to-playstation-next-month?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T11:10:20+00:00
+
+<img src="https://assetsio.reedpopcdn.com/what-the-golf-Titlescreen%2B01.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Hit comedy game What The Golf? is coming to PlayStation consoles next month.
+</p><p>
+The game will be available on both PlayStation 4 and 5 from 14th March, in addition to its previous releases on mobile (Apple Arcade), PC (Steam, Epic, GoG), and Switch.
+</p><p>
+If you haven't played it yet, then, there's really no excuse. It's hilarious stuff.
+</p> <p><a href="https://www.eurogamer.net/what-the-golf-heading-to-playstation-next-month?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Helldivers 2 PC patch takes aim at server capacity and progression issues
+ - [https://www.eurogamer.net/helldivers-2-pc-patch-takes-aim-at-server-capacity-and-progression-issues?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/helldivers-2-pc-patch-takes-aim-at-server-capacity-and-progression-issues?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T11:06:28+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Helldivers-2_q4ReqSo.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Developer Arrowhead has released a new patch for its PC version of Helldivers 2.
+</p><p>
+With this update in play, users should be able to get into games a little more easily. In addition, this patch addresses some progression issues, with the developer stating it has now "fixed the daily and difficulty progression error". 
+</p><p>
+Arrowhead said many of the issues in Helldivers 2 were being caused by a large number of users in the game and server capacity. Writing on <a href="https://store.steampowered.com/news/app/553850?emclan=103582791473678397&amp;emgid=4022346438970380903">Steam</a>, the developer said this cocktail had created "unexpected behaviours". 
+</p> <p><a href="https://www.eurogamer.net/helldivers-2-pc-patch-takes-aim-at-server-capacity-and-progression-issues?utm_source=feed&amp;utm_medium=rss&amp;utm_c
+
+## Microsoft's PC and Xbox exclusive Pentiment reportedly coming to PS5 and Switch
+ - [https://www.eurogamer.net/microsofts-pc-and-xbox-exclusive-pentiment-reportedly-coming-to-ps5-and-switch?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/microsofts-pc-and-xbox-exclusive-pentiment-reportedly-coming-to-ps5-and-switch?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T11:02:41+00:00
+
+<img src="https://assetsio.reedpopcdn.com/pentiment-gamescom-header.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Microsoft's Xbox and PC exclusive Pentiment will make its way to PS5 and Nintendo Switch, alongside the <a href="https://www.eurogamer.net/hi-fi-rush-t-shirt-datamine-offers-more-evidence-of-switch-and-playstation-release">previously-leaked Hi-Fi Rush</a>.
+</p><p>
+That's according to a new report from <a href="https://www.theverge.com/2024/2/12/24067370/microsoft-xbox-playstation-switch-games-future-hardware">The Verge</a> ahead of Thursday's podcast from Microsoft gaming boss Phil Spencer, Xbox president Sarah Bond and head of Xbox game studios Matt Booty, where the trio will reveal Xbox's new business strategy - including, it's believed, the launch of exclusive games on rival platforms.
+
+</p><p>
+Sources confirmed to The Verge that Hi-Fi Rush and Pentiment will be the first two games on the way, with Sea of Thie
+
+## Honor Magic V2 RSR Porsche Design review: a thin foldable with a sublime display
+ - [https://www.eurogamer.net/digitalfoundry-2024-honor-magic-v2-rsr-porsche-design-review?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/digitalfoundry-2024-honor-magic-v2-rsr-porsche-design-review?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T11:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Honor-Magic-V2-RSR-Porsche-Design-5.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The Honor Magic V2 RSR Porsche Design is perhaps the most sublimely designed foldable to date. With a bigger battery than competitors, as well as being much thinner, it's one of the first options we've seen that compares well in size and capacity to more standard form factor phones. The standard variant, priced at <a href="https://www.amazon.co.uk/dp/B0CQRSD5SH?tag=eurgam-df-uk-21" rel="sponsored">&pound;1700</a>, is dearer than competitors from Samsung, Google, and OnePlus, and it's expected that this special model will be even dearer when pricing is unveiled at MWC in a couple of weeks time. For the price though, you&rsquo;re getting a truly incredible phone with a lot to like about it.</p><p>For the outlay however, the Magic V2 RSR has quite the capable feature set, with a Snapdragon 8 Gen 2 processor
+
+## Helldivers 2's double-A energy is an antidote to video game malaise
+ - [https://www.eurogamer.net/helldivers-2s-double-a-energy-is-an-antidote-to-video-game-malaise?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/helldivers-2s-double-a-energy-is-an-antidote-to-video-game-malaise?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T10:19:06+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Helldivers-2-Failed-To-Join-Error.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Ragdoll physics! Friendly fire! Connectivity issues! On-the-nose satire! Bugs! Double-A gaming is back, baby. You could argue it never really went anywhere, but still: what a breath of fresh air this one's proven to be.</p><p>Helldivers 2 is a blast; a messy, frenetic, straight-into-the-action whirlwind of quickfire jokes quickplay matches (when they're working). If you played even the slightest bit of the first Helldivers, though, none of this should come as a surprise.</p><p>"This is also the latest game from Magicka developer Arrowhead Game Studios - a studio, right, whose logo <em>shows an arrow going through somebody's head</em>. In other words, you should expect a few quirks. The biggest of these is friendly fire: it is so terribly easy to shoot your own team-mates in Helldivers. It's so terribly eas
+
+## The best way to explore in Europa is by defying gravity
+ - [https://www.eurogamer.net/the-best-way-to-explore-in-europa-is-by-defying-gravity?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/the-best-way-to-explore-in-europa-is-by-defying-gravity?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-13T09:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/20240207155932_1.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A little boy steps out into the world for the first time. The landscape is full of lush meadows, striking blue rivers, and wildlife gently pottering around. It holds such serenity that I almost feel commanded to stop and drink in every detail.</p><p>I played the Europa demo like this at first. I walked slowly along the trodden paths, retracing the same steps the creator of Zee, our android protagonist, took. As Zee's creator narrated the words of his collectible journal pages, it turned out the beautiful world before me hid something darker.</p><p>An attempt to terraform Europa into a paradise for humans, and to leave behind Earth in its human-induced environmental destruction, was successful at first. But by the time Zee arrives on Europa, civilisation has fallen, leaving the world feeling empty. Its beauty turned hauntin
+

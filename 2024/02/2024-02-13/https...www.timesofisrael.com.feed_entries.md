@@ -1,0 +1,479 @@
+# Source:The Times of Israel, URL:https://www.timesofisrael.com/feed, language:en-US
+
+## Houthi bypass: Quietly, goods forge overland path to Israel via Saudi Arabia, Jordan
+ - [https://www.timesofisrael.com/houthi-bypass-quietly-goods-forge-overland-path-to-israel-via-saudi-arabia-jordan](https://www.timesofisrael.com/houthi-bypass-quietly-goods-forge-overland-path-to-israel-via-saudi-arabia-jordan)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T22:47:51+00:00
+
+<p>Avoiding attacks on ships in the Red Sea, Israel-based firms run trucking routes from the ports of Dubai and Bahrain to Haifa</p>
+<p>The post <a href="https://www.timesofisrael.com/houthi-bypass-quietly-goods-forge-overland-path-to-israel-via-saudi-arabia-jordan/">Houthi bypass: Quietly, goods forge overland path to Israel via Saudi Arabia, Jordan</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/01/AP24019511201734-1024x640.jpg" title="Houthi bypass: Quietly, goods forge overland path to Israel via Saudi Arabia, Jordan" width="160" /></figure>
+
+## Instagram removes accounts for leading NYC pro-Palestinian group Within Our Lifetime
+ - [https://www.timesofisrael.com/instagram-removes-accounts-for-leading-nyc-pro-palestinian-group-within-our-lifetime](https://www.timesofisrael.com/instagram-removes-accounts-for-leading-nyc-pro-palestinian-group-within-our-lifetime)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T22:47:44+00:00
+
+<p>After being used to express support for Hamas and its Oct. 7 atrocities, pages of the organization and its founder Nerdeen Kiswani are deactivated</p>
+<p>The post <a href="https://www.timesofisrael.com/instagram-removes-accounts-for-leading-nyc-pro-palestinian-group-within-our-lifetime/">Instagram removes accounts for leading NYC pro-Palestinian group Within Our Lifetime</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/20231013_untitled_04959-2160x1200-1-1024x640.jpg" title="Instagram removes accounts for leading NYC pro-Palestinian group Within Our Lifetime" width="160" /></figure>
+
+## Autonomous vehicles expected on the road in next 2 years, says Mobileye CEO
+ - [https://www.timesofisrael.com/autonomous-vehicles-expected-on-the-road-in-next-2-years-says-mobileye-ceo](https://www.timesofisrael.com/autonomous-vehicles-expected-on-the-road-in-next-2-years-says-mobileye-ceo)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T22:26:10+00:00
+
+<p>Amnon Shashua predicts thousands of robotaxis that can ferry passengers without a driver will begin hitting streets in 2026</p>
+<p>The post <a href="https://www.timesofisrael.com/autonomous-vehicles-expected-on-the-road-in-next-2-years-says-mobileye-ceo/">Autonomous vehicles expected on the road in next 2 years, says Mobileye CEO</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AFP__20221026__1436743124__v1__HighRes__IntelSAutonomousDrivingCompanyMobileyeBegins-1024x640.jpg" title="Autonomous vehicles expected on the road in next 2 years, says Mobileye CEO" width="160" /></figure>
+
+## Majority of US Jews feel less safe than they did last year, survey says
+ - [https://www.timesofisrael.com/majority-of-us-jews-feel-less-safe-than-they-did-last-year-survey-says](https://www.timesofisrael.com/majority-of-us-jews-feel-less-safe-than-they-did-last-year-survey-says)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T21:40:30+00:00
+
+<p>Almost half of those polled say they have altered the way they dress or behave to hide the fact they are Jewish</p>
+<p>The post <a href="https://www.timesofisrael.com/majority-of-us-jews-feel-less-safe-than-they-did-last-year-survey-says/">Majority of US Jews feel less safe than they did last year, survey says</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2023/04/2023-04-21-e1682050807830-1024x640.jpg" title="Majority of US Jews feel less safe than they did last year, survey says" width="160" /></figure>
+
+## Hezbollah chief says won’t stop shelling north until Israel ends Gaza ‘aggression’
+ - [https://www.timesofisrael.com/hezbollah-chief-says-wont-stop-shelling-north-until-israel-ends-gaza-aggression](https://www.timesofisrael.com/hezbollah-chief-says-wont-stop-shelling-north-until-israel-ends-gaza-aggression)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T21:38:08+00:00
+
+<p>In sixth speech since Oct. 7, Nasrallah dismisses diplomatic attempts to end hostilities on the Lebanon border, claims Lebanese civilians in combat area support his terror group</p>
+<p>The post <a href="https://www.timesofisrael.com/hezbollah-chief-says-wont-stop-shelling-north-until-israel-ends-gaza-aggression/">Hezbollah chief says won&#8217;t stop shelling north until Israel ends Gaza &#8216;aggression&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AP24044544209572-1024x640.jpg" title="Hezbollah chief says won&#8217;t stop shelling north until Israel ends Gaza &#8216;aggression&#8217;" width="160" /></figure>
+
+## Biden calls Trump ‘dangerous’ and ‘un-American’ over NATO comments
+ - [https://www.timesofisrael.com/biden-calls-trump-dangerous-and-un-american-over-nato-comments](https://www.timesofisrael.com/biden-calls-trump-dangerous-and-un-american-over-nato-comments)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T21:13:21+00:00
+
+<p>Former US president said he once warned he would allow Russia to 'do whatever it wants' to weaker 'delinquent' NATO allies</p>
+<p>The post <a href="https://www.timesofisrael.com/biden-calls-trump-dangerous-and-un-american-over-nato-comments/">Biden calls Trump &#8216;dangerous&#8217; and &#8216;un-American&#8217; over NATO comments</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AP24044705463476-1024x640.jpg" title="Biden calls Trump &#8216;dangerous&#8217; and &#8216;un-American&#8217; over NATO comments" width="160" /></figure>
+
+## IDF chief: Military achievements in Gaza ‘very high’ but still a ‘long way to go’
+ - [https://www.timesofisrael.com/idf-chief-military-achievements-in-gaza-very-high-but-still-a-long-way-to-go](https://www.timesofisrael.com/idf-chief-military-achievements-in-gaza-very-high-but-still-a-long-way-to-go)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T20:39:52+00:00
+
+<p>Halevi says IDF launches special op ‘every week’ to try and save hostages, will work to evacuate Rafah of civilians before offensive</p>
+<p>The post <a href="https://www.timesofisrael.com/idf-chief-military-achievements-in-gaza-very-high-but-still-a-long-way-to-go/">IDF chief: Military achievements in Gaza ‘very high’ but still a ‘long way to go’</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/WhatsApp_Image_2024-02-13_at_18.19.35-1024x640.jpeg" title="IDF chief: Military achievements in Gaza ‘very high’ but still a ‘long way to go’" width="160" /></figure>
+
+## IDF airs footage of Hamas leader Sinwar in Gaza tunnel: ‘The hunt will not stop’
+ - [https://www.timesofisrael.com/idf-airs-footage-of-hamas-leader-sinwar-in-gaza-tunnel-the-hunt-will-not-stop](https://www.timesofisrael.com/idf-airs-footage-of-hamas-leader-sinwar-in-gaza-tunnel-the-hunt-will-not-stop)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T20:25:10+00:00
+
+<p>Army said to identify terror chief, whose back is to camera along with family, by size of his ears and with AI; spokesperson says clip shows Hamas leaders only care for themselves</p>
+<p>The post <a href="https://www.timesofisrael.com/idf-airs-footage-of-hamas-leader-sinwar-in-gaza-tunnel-the-hunt-will-not-stop/">IDF airs footage of Hamas leader Sinwar in Gaza tunnel: ‘The hunt will not stop’</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/3SXMxug-1-1024x640.jpg" title="IDF airs footage of Hamas leader Sinwar in Gaza tunnel: ‘The hunt will not stop’" width="160" /></figure>
+
+## Declaring blanket exemption ‘needs to end,’ Lapid demands ultra-Orthodox enlistment
+ - [https://www.timesofisrael.com/declaring-blanket-exemption-needs-to-end-lapid-demands-ultra-orthodox-enlistment](https://www.timesofisrael.com/declaring-blanket-exemption-needs-to-end-lapid-demands-ultra-orthodox-enlistment)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T19:48:46+00:00
+
+<p>'We need a lot more soldiers. The army is too small for all its challenges,' opposition leader says of government's recently unveiled military service bill</p>
+<p>The post <a href="https://www.timesofisrael.com/declaring-blanket-exemption-needs-to-end-lapid-demands-ultra-orthodox-enlistment/">Declaring blanket exemption &#8216;needs to end,&#8217; Lapid demands ultra-Orthodox enlistment</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/Lapid-presser-1024x640.jpg" title="Declaring blanket exemption &#8216;needs to end,&#8217; Lapid demands ultra-Orthodox enlistment" width="160" /></figure>
+
+## Guy Azar, 23: Had a ‘beautiful smile’ and dreams of a fashion label
+ - [https://www.timesofisrael.com/guy-azar-23-had-a-beautiful-smile-and-dreams-of-a-fashion-label](https://www.timesofisrael.com/guy-azar-23-had-a-beautiful-smile-and-dreams-of-a-fashion-label)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T19:43:45+00:00
+
+<p>Murdered at the Supernova music festival on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/guy-azar-23-had-a-beautiful-smile-and-dreams-of-a-fashion-label/">Guy Azar, 23: Had a &#8216;beautiful smile&#8217; and dreams of a fashion label</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/243513805_4093391314123382_4753051305793783163_n-e1707600691763-1024x640.jpg" title="Guy Azar, 23: Had a &#8216;beautiful smile&#8217; and dreams of a fashion label" width="160" /></figure>
+
+## Staff Sgt. Shahaf Nissani, 20: ‘Angel’ observation soldier set to demob
+ - [https://www.timesofisrael.com/staff-sgt-shahaf-nissani-20-angel-observation-soldier-set-to-demob](https://www.timesofisrael.com/staff-sgt-shahaf-nissani-20-angel-observation-soldier-set-to-demob)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T19:40:45+00:00
+
+<p>Killed when Hamas terrorists overran the Nahal Oz IDF outpost on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/staff-sgt-shahaf-nissani-20-angel-observation-soldier-set-to-demob/">Staff Sgt. Shahaf Nissani, 20: &#8216;Angel&#8217; observation soldier set to demob</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/Untitled-design-2024-02-11T221835.564-1024x640.jpg" title="Staff Sgt. Shahaf Nissani, 20: &#8216;Angel&#8217; observation soldier set to demob" width="160" /></figure>
+
+## Arik Kraunik, 54: Be’eri security chief who set out first on Oct. 7
+ - [https://www.timesofisrael.com/arik-kraunik-54-beeri-security-chief-who-set-out-first-on-oct-7](https://www.timesofisrael.com/arik-kraunik-54-beeri-security-chief-who-set-out-first-on-oct-7)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T19:35:36+00:00
+
+<p>Killed battling a Hamas invasion of Kibbutz Be'eri on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/arik-kraunik-54-beeri-security-chief-who-set-out-first-on-oct-7/">Arik Kraunik, 54: Be&#8217;eri security chief who set out first on Oct. 7</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/Untitled-design-2024-02-10T231003.661-1024x640.jpg" title="Arik Kraunik, 54: Be&#8217;eri security chief who set out first on Oct. 7" width="160" /></figure>
+
+## Shlomi Sividia, 37: Software engineer with music ‘flowing in his veins’
+ - [https://www.timesofisrael.com/shlomi-sividia-37-software-engineer-with-music-flowing-in-his-veins](https://www.timesofisrael.com/shlomi-sividia-37-software-engineer-with-music-flowing-in-his-veins)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T19:31:52+00:00
+
+<p>Murdered while trying to flee the Supernova music festival on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/shlomi-sividia-37-software-engineer-with-music-flowing-in-his-veins/">Shlomi Sividia, 37: Software engineer with music &#8216;flowing in his veins&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/Untitled-design-2024-02-08T174119.091-1024x640.jpg" title="Shlomi Sividia, 37: Software engineer with music &#8216;flowing in his veins&#8217;" width="160" /></figure>
+
+## Hamas captor ‘raped hostage at gunpoint’: Freed captive recounts girl’s assault
+ - [https://www.timesofisrael.com/hamas-captor-raped-hostage-at-gunpoint-freed-captive-recounts-girls-assault](https://www.timesofisrael.com/hamas-captor-raped-hostage-at-gunpoint-freed-captive-recounts-girls-assault)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T18:42:03+00:00
+
+<p>Fresh testimony by Agam Goldstein-Almog excerpted from forthcoming documentary by former Meta COO Sheryl Sandberg on sexual violence perpetrated by terror group</p>
+<p>The post <a href="https://www.timesofisrael.com/hamas-captor-raped-hostage-at-gunpoint-freed-captive-recounts-girls-assault/">Hamas captor &#8216;raped hostage at gunpoint&#8217;: Freed captive recounts girl&#8217;s assault</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/vlcsnap-2024-02-13-17h30m13s906-1024x640.jpg" title="Hamas captor &#8216;raped hostage at gunpoint&#8217;: Freed captive recounts girl&#8217;s assault" width="160" /></figure>
+
+## Terrorist ‘sexually assaulted hostage at gunpoint’: Freed captive recounts testimony
+ - [https://www.timesofisrael.com/terrorist-sexually-assaulted-hostage-at-gunpoint-freed-captive-recounts-testimony](https://www.timesofisrael.com/terrorist-sexually-assaulted-hostage-at-gunpoint-freed-captive-recounts-testimony)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T18:42:03+00:00
+
+<p>Fresh account by Agam Goldstein-Almog excerpted from forthcoming documentary by former Meta COO Sheryl Sandberg on sexual violence perpetrated by terror group</p>
+<p>The post <a href="https://www.timesofisrael.com/terrorist-sexually-assaulted-hostage-at-gunpoint-freed-captive-recounts-testimony/">Terrorist &#8216;sexually assaulted hostage at gunpoint&#8217;: Freed captive recounts testimony</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/vlcsnap-2024-02-13-17h30m13s906-1024x640.jpg" title="Terrorist &#8216;sexually assaulted hostage at gunpoint&#8217;: Freed captive recounts testimony" width="160" /></figure>
+
+## How the internet reacted to the first-ever Super Bowl ad about antisemitism
+ - [https://www.timesofisrael.com/how-the-internet-reacted-to-the-first-ever-super-bowl-ad-about-antisemitism](https://www.timesofisrael.com/how-the-internet-reacted-to-the-first-ever-super-bowl-ad-about-antisemitism)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T18:31:00+00:00
+
+<p>Some chalk the commercial up as a win, critics say it glosses over Jew hatred in an attempt to be universal, and yet others seize it as a chance to criticize Israel</p>
+<p>The post <a href="https://www.timesofisrael.com/how-the-internet-reacted-to-the-first-ever-super-bowl-ad-about-antisemitism/">How the internet reacted to the first-ever Super Bowl ad about antisemitism</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/Clarence-Jones-1024x640.jpg" title="How the internet reacted to the first-ever Super Bowl ad about antisemitism" width="160" /></figure>
+
+## Feral dogs from Gaza enter Israel, compounding nature authority’s war woes
+ - [https://www.timesofisrael.com/feral-dogs-from-gaza-enter-israel-compounding-nature-authoritys-war-woes](https://www.timesofisrael.com/feral-dogs-from-gaza-enter-israel-compounding-nature-authoritys-war-woes)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T18:10:21+00:00
+
+<p>Ending 2023 with NIS 150 million deficit, Israel Nature and Parks Authority has one worker in Hamas captivity, 310 serving in the IDF reserves, 118  evacuated from their homes</p>
+<p>The post <a href="https://www.timesofisrael.com/feral-dogs-from-gaza-enter-israel-compounding-nature-authoritys-war-woes/">Feral dogs from Gaza enter Israel, compounding nature authority&#8217;s war woes</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/WhatsApp-Image-2024-02-13-at-15.48.44_e2679659-1024x640.jpg" title="Feral dogs from Gaza enter Israel, compounding nature authority&#8217;s war woes" width="160" /></figure>
+
+## Ditching controversial candidate, Starmer says UK Labour ‘changed’ on antisemitism
+ - [https://www.timesofisrael.com/starmer-says-labour-changed-on-antisemitism-after-ditching-controversial-candidate](https://www.timesofisrael.com/starmer-says-labour-changed-on-antisemitism-after-ditching-controversial-candidate)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T17:57:36+00:00
+
+<p>Opposition leader says decision to withdraw support from Azhar Ali, who claimed Israel deliberately allowed Oct. 7 onslaught, proves he meant what he said when he pledged reform</p>
+<p>The post <a href="https://www.timesofisrael.com/starmer-says-labour-changed-on-antisemitism-after-ditching-controversial-candidate/">Ditching controversial candidate, Starmer says UK Labour &#8216;changed&#8217; on antisemitism</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AFP__20240207__34HW77N__v1__HighRes__BritainPoliticsGovernment-1024x640.jpg" title="Ditching controversial candidate, Starmer says UK Labour &#8216;changed&#8217; on antisemitism" width="160" /></figure>
+
+## South Africa petitions Hague to block Israeli operation against Hamas in Rafah
+ - [https://www.timesofisrael.com/south-africa-petitions-hague-to-block-israeli-operation-against-hamas-in-rafah](https://www.timesofisrael.com/south-africa-petitions-hague-to-block-israeli-operation-against-hamas-in-rafah)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T17:33:36+00:00
+
+<p>Pretoria claims offensive could violate the Genocide Convention, in move that comes after ICJ last month refused South Africa's request to order unilateral ceasefire</p>
+<p>The post <a href="https://www.timesofisrael.com/south-africa-petitions-hague-to-block-israeli-operation-against-hamas-in-rafah/">South Africa petitions Hague to block Israeli operation against Hamas in Rafah</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/01/AP24011488497435-1024x640.jpg" title="South Africa petitions Hague to block Israeli operation against Hamas in Rafah" width="160" /></figure>
+
+## Iran sentences Mahsa Amini’s uncle to five-year prison sentence
+ - [https://www.timesofisrael.com/iran-sentences-mahsa-aminis-uncle-to-five-year-prison-sentence](https://www.timesofisrael.com/iran-sentences-mahsa-aminis-uncle-to-five-year-prison-sentence)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T17:12:54+00:00
+
+<p>Safa Aeli imprisoned on charges of taking part in protests, anti-government propaganda and insulting supreme leader Khamenei</p>
+<p>The post <a href="https://www.timesofisrael.com/iran-sentences-mahsa-aminis-uncle-to-five-year-prison-sentence/">Iran sentences Mahsa Amini&#8217;s uncle to five-year prison sentence</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2022/12/000_333Z3BE-e1671232157162-1024x640.jpg" title="Iran sentences Mahsa Amini&#8217;s uncle to five-year prison sentence" width="160" /></figure>
+
+## ‘No words to describe our joy’: Rescued hostages hail special forces who saved them
+ - [https://www.timesofisrael.com/no-words-to-describe-our-joy-rescued-hostages-hail-special-forces-who-saved-them](https://www.timesofisrael.com/no-words-to-describe-our-joy-rescued-hostages-hail-special-forces-who-saved-them)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T17:07:28+00:00
+
+<p>'You called us diamonds, but you are the diamonds in the crown,' says Louis Har, who was freed with Fernando Marman; relative says they never received meds, despite Qatar's promise</p>
+<p>The post <a href="https://www.timesofisrael.com/no-words-to-describe-our-joy-rescued-hostages-hail-special-forces-who-saved-them/">‘No words to describe our joy’: Rescued hostages hail special forces who saved them</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/Untitled-1-1-1024x640.jpg" title="‘No words to describe our joy’: Rescued hostages hail special forces who saved them" width="160" /></figure>
+
+## Embrace a world-class education  at The Hebrew University of Jerusalem - Sponsored Content
+ - [https://www.timesofisrael.com/spotlight/embrace-a-world-class-education-at-the-hebrew-university-of-jerusalem](https://www.timesofisrael.com/spotlight/embrace-a-world-class-education-at-the-hebrew-university-of-jerusalem)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T16:22:14+00:00
+
+<p>Exploring new perspectives: The hidden gems of studying a BA degree in Israel</p>
+<p>The post <a href="https://www.timesofisrael.com/spotlight/embrace-a-world-class-education-at-the-hebrew-university-of-jerusalem/">Embrace a world-class education  at The Hebrew University of Jerusalem</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/MAIN-image-credit-Yonit-Schiller-1024x640.jpg" title="Embrace a world-class education  at The Hebrew University of Jerusalem" width="160" /></figure>
+
+## France sanctions 28 Israeli ‘extremist’ settlers accused of attacks
+ - [https://www.timesofisrael.com/france-sanctions-28-israeli-extremist-settlers-accused-of-attacks](https://www.timesofisrael.com/france-sanctions-28-israeli-extremist-settlers-accused-of-attacks)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T15:48:42+00:00
+
+<p>Paris cites spiraling West Bank violence in recent months, says onus is on Israel's government to stop it</p>
+<p>The post <a href="https://www.timesofisrael.com/france-sanctions-28-israeli-extremist-settlers-accused-of-attacks/">France sanctions 28 Israeli &#8216;extremist&#8217; settlers accused of attacks</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AFP__20240213__34JC23W__v2__HighRes__CorrectionPalestinianIsraelConflict-1024x640.jpg" title="France sanctions 28 Israeli &#8216;extremist&#8217; settlers accused of attacks" width="160" /></figure>
+
+## Progress reported toward six-week-long hostage deal as intel chiefs huddle in Cairo
+ - [https://www.timesofisrael.com/progress-reported-toward-six-week-long-hostage-deal-as-intel-chiefs-huddle-in-cairo](https://www.timesofisrael.com/progress-reported-toward-six-week-long-hostage-deal-as-intel-chiefs-huddle-in-cairo)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T15:40:07+00:00
+
+<p>Top officials from Israel, Egypt, Qatar and US discuss truce that would include guarantees the parties will continue talks toward a permanent ceasefire</p>
+<p>The post <a href="https://www.timesofisrael.com/progress-reported-toward-six-week-long-hostage-deal-as-intel-chiefs-huddle-in-cairo/">Progress reported toward six-week-long hostage deal as intel chiefs huddle in Cairo</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AFP__20240213__34JC4WD__v1__HighRes__ComboEgyptIsraelPalestinianUsQatarPoliticsDiplo-e1707829984293-1024x640.jpg" title="Progress reported toward six-week-long hostage deal as intel chiefs huddle in Cairo" width="160" /></figure>
+
+## Australia to ban doxxing after pro-Palestinian activists target hundreds of Jews
+ - [https://www.timesofisrael.com/australia-to-ban-doxxing-after-pro-palestinian-activists-target-hundreds-of-jews](https://www.timesofisrael.com/australia-to-ban-doxxing-after-pro-palestinian-activists-target-hundreds-of-jews)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T15:31:01+00:00
+
+<p>Details of some 600 people on a private WhatsApp group were leaked online; Jewish community leadership welcomes move as protection against 'shameful and dangerous practice'</p>
+<p>The post <a href="https://www.timesofisrael.com/australia-to-ban-doxxing-after-pro-palestinian-activists-target-hundreds-of-jews/">Australia to ban doxxing after pro-Palestinian activists target hundreds of Jews</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2023/10/cropped-WhatsApp-Image-2023-10-15-at-7.12.28-AM-1024x640.jpeg" title="Australia to ban doxxing after pro-Palestinian activists target hundreds of Jews" width="160" /></figure>
+
+## As Israelis negotiate in Cairo, far-right presses PM to reject ‘irresponsible deal’
+ - [https://www.timesofisrael.com/as-israelis-negotiate-in-cairo-far-right-presses-pm-to-reject-irresponsible-deal](https://www.timesofisrael.com/as-israelis-negotiate-in-cairo-far-right-presses-pm-to-reject-irresponsible-deal)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T15:08:07+00:00
+
+<p>Ben Gvir says he trusts Netanyahu to halt negotiations after medicines not delivered to hostages; Smotrich suggests Mossad's time better spent in Gaza</p>
+<p>The post <a href="https://www.timesofisrael.com/as-israelis-negotiate-in-cairo-far-right-presses-pm-to-reject-irresponsible-deal/">As Israelis negotiate in Cairo, far-right presses PM to reject &#8216;irresponsible deal&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/IMG-20240212-WA0022-1024x640.jpg" title="As Israelis negotiate in Cairo, far-right presses PM to reject &#8216;irresponsible deal&#8217;" width="160" /></figure>
+
+## House committee to investigate Columbia’s ‘inadequate response’ to campus antisemitism
+ - [https://www.timesofisrael.com/house-committee-to-investigate-columbias-inadequate-response-to-campus-antisemitism](https://www.timesofisrael.com/house-committee-to-investigate-columbias-inadequate-response-to-campus-antisemitism)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T14:57:55+00:00
+
+<p>16-page letter slams the school for allowing a hostile atmosphere for Jewish students to thrive for over 2 decades, including through antisemitic statements by faculty after Oct. 7</p>
+<p>The post <a href="https://www.timesofisrael.com/house-committee-to-investigate-columbias-inadequate-response-to-campus-antisemitism/">House committee to investigate Columbia&#8217;s &#8216;inadequate response&#8217; to campus antisemitism</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2023/10/AP23287817661676-1024x640.jpg" title="House committee to investigate Columbia&#8217;s &#8216;inadequate response&#8217; to campus antisemitism" width="160" /></figure>
+
+## Families of Israeli hostages to file war crimes complaint against Hamas in The Hague
+ - [https://www.timesofisrael.com/families-of-israeli-hostages-to-file-war-crimes-complaint-against-hamas-in-the-hague](https://www.timesofisrael.com/families-of-israeli-hostages-to-file-war-crimes-complaint-against-hamas-in-the-hague)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T14:45:27+00:00
+
+<p>Some 100 relatives of Israelis held in Gaza will submit charges of kidnapping, sexual violence, torture and other allegations to the International Criminal Court on Wednesday</p>
+<p>The post <a href="https://www.timesofisrael.com/families-of-israeli-hostages-to-file-war-crimes-complaint-against-hamas-in-the-hague/">Families of Israeli hostages to file war crimes complaint against Hamas in The Hague</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/0c983b60-dc17-4a59-9f4f-d01a1bad03a3-1024x640.jpeg" title="Families of Israeli hostages to file war crimes complaint against Hamas in The Hague" width="160" /></figure>
+
+## Senior Hamas official involved in West Bank attacks nabbed in Jenin raid
+ - [https://www.timesofisrael.com/senior-hamas-official-involved-in-west-bank-attacks-nabbed-in-jenin-raid](https://www.timesofisrael.com/senior-hamas-official-involved-in-west-bank-attacks-nabbed-in-jenin-raid)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T14:29:47+00:00
+
+<p>Omar Fayed, identified as a head of terror group's military infrastructure, allegedly participated in recent shootings at IDF soldiers, planned further assaults</p>
+<p>The post <a href="https://www.timesofisrael.com/senior-hamas-official-involved-in-west-bank-attacks-nabbed-in-jenin-raid/">Senior Hamas official involved in West Bank attacks nabbed in Jenin raid</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/01/F231214NI22-1024x640.jpg" title="Senior Hamas official involved in West Bank attacks nabbed in Jenin raid" width="160" /></figure>
+
+## NY Times: Tunnel under Al-Shifa Hospital used by Hamas ‘for cover, weapons storage’
+ - [https://www.timesofisrael.com/ny-times-tunnel-under-al-shifa-hospital-used-by-hamas-for-cover-weapons-storage](https://www.timesofisrael.com/ny-times-tunnel-under-al-shifa-hospital-used-by-hamas-for-cover-weapons-storage)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T14:25:19+00:00
+
+<p>Citing classified intelligence information, newspaper says tunnel under Gaza's main hospital was twice as long as IDF has said, had water supply and apparent communications area</p>
+<p>The post <a href="https://www.timesofisrael.com/ny-times-tunnel-under-al-shifa-hospital-used-by-hamas-for-cover-weapons-storage/">NY Times: Tunnel under Al-Shifa Hospital used by Hamas ‘for cover, weapons storage’</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/01/AP24003176091797-1024x640.jpg" title="NY Times: Tunnel under Al-Shifa Hospital used by Hamas ‘for cover, weapons storage’" width="160" /></figure>
+
+## Israel plans to move Rafah civilians to 15 tent cities along the coast – report
+ - [https://www.timesofisrael.com/israel-plans-to-move-rafah-civilians-to-15-tent-cities-along-the-coast-report](https://www.timesofisrael.com/israel-plans-to-move-rafah-civilians-to-15-tent-cities-along-the-coast-report)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T14:15:31+00:00
+
+<p>According to Wall Street Journal, Israel showed Egypt a proposal to get civilians out of Gaza's southern city ahead of ground op; PM's Office says several plans being discussed</p>
+<p>The post <a href="https://www.timesofisrael.com/israel-plans-to-move-rafah-civilians-to-15-tent-cities-along-the-coast-report/">Israel plans to move Rafah civilians to 15 tent cities along the coast &#8211; report</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AFP__20240212__34JA2QJ__v1__HighRes__PalestinianIsraelConflictHostages-e1707769233581-1024x640.jpg" title="Israel plans to move Rafah civilians to 15 tent cities along the coast &#8211; report" width="160" /></figure>
+
+## Jewish Canadian politician fired, gets death threat after snark about pre-Zionist Palestine
+ - [https://www.timesofisrael.com/jewish-canadian-politician-fired-gets-death-threat-after-snark-about-pre-zionist-palestine](https://www.timesofisrael.com/jewish-canadian-politician-fired-gets-death-threat-after-snark-about-pre-zionist-palestine)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T14:04:51+00:00
+
+<p>Progressive British Columbia minister Selina Robinson forced to step down after anti-Israel activists demand her ouster for calling pre-state Israel a 'crappy piece of land'</p>
+<p>The post <a href="https://www.timesofisrael.com/jewish-canadian-politician-fired-gets-death-threat-after-snark-about-pre-zionist-palestine/">Jewish Canadian politician fired, gets death threat after snark about pre-Zionist Palestine</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/image1-1024x640.png" title="Jewish Canadian politician fired, gets death threat after snark about pre-Zionist Palestine" width="160" /></figure>
+
+## US Senate passes $95 billion aid bill for Ukraine and Israel, but House battle brews
+ - [https://www.timesofisrael.com/us-senate-passes-95-billion-aid-bill-for-ukraine-and-israel-but-house-battle-brews](https://www.timesofisrael.com/us-senate-passes-95-billion-aid-bill-for-ukraine-and-israel-but-house-battle-brews)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T13:09:33+00:00
+
+<p>Aid package approved 70-29 in early morning vote after overnight session dominated by GOP filibuster, amid growing doubts about legislation's fate in hands of Republicans</p>
+<p>The post <a href="https://www.timesofisrael.com/us-senate-passes-95-billion-aid-bill-for-ukraine-and-israel-but-house-battle-brews/">US Senate passes $95 billion aid bill for Ukraine and Israel, but House battle brews</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AP24039564890706-1024x640.jpg" title="US Senate passes $95 billion aid bill for Ukraine and Israel, but House battle brews" width="160" /></figure>
+
+## London theater apologizes after comedian, crowd berate Israeli attending show
+ - [https://www.timesofisrael.com/london-theater-apologizes-after-comedian-crowd-berate-israeli-attending-show](https://www.timesofisrael.com/london-theater-apologizes-after-comedian-crowd-berate-israeli-attending-show)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T13:03:20+00:00
+
+<p>Comedian Paul Currie accused of haranguing audience member who refused to stand for Palestinian flag; watchdog mulling legal action over 'discriminatory abuse against Jews'</p>
+<p>The post <a href="https://www.timesofisrael.com/london-theater-apologizes-after-comedian-crowd-berate-israeli-attending-show/">London theater apologizes after comedian, crowd berate Israeli attending show</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/vlcsnap-2024-02-13-14h15m39s314-1024x640.jpg" title="London theater apologizes after comedian, crowd berate Israeli attending show" width="160" /></figure>
+
+## US calls for ‘urgent’ probe into alleged IDF killing of 6-year-old Gazan girl
+ - [https://www.timesofisrael.com/us-calls-for-urgent-probe-into-alleged-idf-killing-of-6-year-old-gazan-girl](https://www.timesofisrael.com/us-calls-for-urgent-probe-into-alleged-idf-killing-of-6-year-old-gazan-girl)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T12:55:32+00:00
+
+<p>State Department says administration ‘devastated’ at death of Hind Rajab, who had begged for rescue, expects timely results of Israeli investigation; IDF says it opened probe</p>
+<p>The post <a href="https://www.timesofisrael.com/us-calls-for-urgent-probe-into-alleged-idf-killing-of-6-year-old-gazan-girl/">US calls for &#8216;urgent&#8217; probe into alleged IDF killing of 6-year-old Gazan girl</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AFP__20240210__34HY87U__v1__Preview__FilesPalestinianIsraelConflict-1024x640.jpg" title="US calls for &#8216;urgent&#8217; probe into alleged IDF killing of 6-year-old Gazan girl" width="160" /></figure>
+
+## Mother, teen son seriously hurt in Hezbollah rocket attack on Kiryat Shmona
+ - [https://www.timesofisrael.com/mother-teen-son-seriously-hurt-in-hezbollah-rocket-attack-on-kiryat-shmona](https://www.timesofisrael.com/mother-teen-son-seriously-hurt-in-hezbollah-rocket-attack-on-kiryat-shmona)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T12:18:06+00:00
+
+<p>15-year-old boy, 47-year-old woman reported in serious condition, taken to hospital by chopper; terror group says attack response to Israeli airstrikes, to support Gazans</p>
+<p>The post <a href="https://www.timesofisrael.com/mother-teen-son-seriously-hurt-in-hezbollah-rocket-attack-on-kiryat-shmona/">Mother, teen son seriously hurt in Hezbollah rocket attack on Kiryat Shmona</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/F240213AMA15-1024x640.jpg" title="Mother, teen son seriously hurt in Hezbollah rocket attack on Kiryat Shmona" width="160" /></figure>
+
+## Daily Briefing Feb. 13: Day 130 – Deep, deep under the Red Sea, a new threat looms
+ - [https://www.timesofisrael.com/daily-briefing-feb-13-day-130-deep-deep-under-the-red-sea-a-new-threat-looms](https://www.timesofisrael.com/daily-briefing-feb-13-day-130-deep-deep-under-the-red-sea-a-new-threat-looms)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T12:11:00+00:00
+
+<p>Zman Yisrael editor on Houthis' new target - fiber optic cables - and a French proposal for the Lebanon border; legal reporter Jeremy Sharon on settler violence and wartime voting</p>
+<p>The post <a href="https://www.timesofisrael.com/daily-briefing-feb-13-day-130-deep-deep-under-the-red-sea-a-new-threat-looms/">Daily Briefing Feb. 13: Day 130 &#8211; Deep, deep under the Red Sea, a new threat looms</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AP24026556803159-2-1024x640.jpg" title="Daily Briefing Feb. 13: Day 130 &#8211; Deep, deep under the Red Sea, a new threat looms" width="160" /></figure>
+
+## Families of hostages complain of online abuse from truce deal opponents
+ - [https://www.timesofisrael.com/families-of-hostages-complain-of-online-abuse-from-truce-deal-opponents](https://www.timesofisrael.com/families-of-hostages-complain-of-online-abuse-from-truce-deal-opponents)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T11:18:03+00:00
+
+<p>Representatives reportedly tell war cabinet staff they are labeled 'leftists' and have received messages from some who say they wish the captives would die</p>
+<p>The post <a href="https://www.timesofisrael.com/families-of-hostages-complain-of-online-abuse-from-truce-deal-opponents/">Families of hostages complain of online abuse from truce deal opponents</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/F240210AVS05-1024x640.jpg" title="Families of hostages complain of online abuse from truce deal opponents" width="160" /></figure>
+
+## Resilience via absurdity: Israeli orchestra launches Monty Python show
+ - [https://www.timesofisrael.com/resilience-through-absurdity-israeli-orchestra-launches-monty-python-show](https://www.timesofisrael.com/resilience-through-absurdity-israeli-orchestra-launches-monty-python-show)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T09:52:33+00:00
+
+<p>Revolution Orchestra's 90-minute 'The Passion of Monty Python' is ode to the 70s-era British comedy troupe</p>
+<p>The post <a href="https://www.timesofisrael.com/resilience-through-absurdity-israeli-orchestra-launches-monty-python-show/">Resilience via absurdity: Israeli orchestra launches Monty Python show</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/תזמורת-המהפכה-הבשורה-על-פי-מונטי-פייתון-צילום-משה-ציטיאת-1-1024x640.jpg" title="Resilience via absurdity: Israeli orchestra launches Monty Python show" width="160" /></figure>
+
+## New York set to vote on replacement for disgraced Rep. Santos in Congress
+ - [https://www.timesofisrael.com/new-york-set-to-vote-on-replacement-for-disgraced-rep-santos-in-congress](https://www.timesofisrael.com/new-york-set-to-vote-on-replacement-for-disgraced-rep-santos-in-congress)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T09:18:30+00:00
+
+<p>Former congressman Tom Suozzi faces Ethiopia-born Israeli-American Mazi Pilip in race for seat formerly held by figure who lied about Jewish heritage, allegedly stole from donors</p>
+<p>The post <a href="https://www.timesofisrael.com/new-york-set-to-vote-on-replacement-for-disgraced-rep-santos-in-congress/">New York set to vote on replacement for disgraced Rep. Santos in Congress</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2023/01/Untitled-6-4-1024x640.jpg" title="New York set to vote on replacement for disgraced Rep. Santos in Congress" width="160" /></figure>
+
+## US House speaker rips Ukraine, Israel aid package as senators forge ahead on bill
+ - [https://www.timesofisrael.com/us-house-speaker-rips-ukraine-israel-aid-package-as-senators-forge-ahead-on-bill](https://www.timesofisrael.com/us-house-speaker-rips-ukraine-israel-aid-package-as-senators-forge-ahead-on-bill)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T09:13:15+00:00
+
+<p>Senate leaders, trying to support US allies, look to vote on $95 million plan despite opposition from Republicans who say it's lacking on border security; House future uncertain</p>
+<p>The post <a href="https://www.timesofisrael.com/us-house-speaker-rips-ukraine-israel-aid-package-as-senators-forge-ahead-on-bill/">US House speaker rips Ukraine, Israel aid package as senators forge ahead on bill</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AP24038051688911-1024x640.jpg" title="US House speaker rips Ukraine, Israel aid package as senators forge ahead on bill" width="160" /></figure>
+
+## UK’s Labour disowns candidate who said Israel wanted Oct. 7 as pretext to invade Gaza
+ - [https://www.timesofisrael.com/uks-labour-disowns-candidate-who-said-israel-wanted-oct-7-as-pretext-to-invade-gaza](https://www.timesofisrael.com/uks-labour-disowns-candidate-who-said-israel-wanted-oct-7-as-pretext-to-invade-gaza)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T09:12:25+00:00
+
+<p>Azhar Ali apologizes, but senior party figures withdraw backing, calling comments 'totally unacceptable'</p>
+<p>The post <a href="https://www.timesofisrael.com/uks-labour-disowns-candidate-who-said-israel-wanted-oct-7-as-pretext-to-invade-gaza/">UK&#8217;s Labour disowns candidate who said Israel wanted Oct. 7 as pretext to invade Gaza</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/eC_J8BVw_400x400-1024x640.jpg" title="UK&#8217;s Labour disowns candidate who said Israel wanted Oct. 7 as pretext to invade Gaza" width="160" /></figure>
+
+## Likud minister Akunis tapped to fill New York consul general post
+ - [https://www.timesofisrael.com/likud-minister-akunis-tapped-to-fill-new-york-consul-general-post](https://www.timesofisrael.com/likud-minister-akunis-tapped-to-fill-new-york-consul-general-post)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T08:48:12+00:00
+
+<p>Position has been empty for nearly a year following former consul's resignation in protest of judicial reform; nomination of May Golan was withdrawn over incendiary comments</p>
+<p>The post <a href="https://www.timesofisrael.com/likud-minister-akunis-tapped-to-fill-new-york-consul-general-post/">Likud minister Akunis tapped to fill New York consul general post</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2023/03/F230129YS60-e1678187951635-1024x640.jpg" title="Likud minister Akunis tapped to fill New York consul general post" width="160" /></figure>
+
+## Woman who opened fire in Houston church left antisemitic writings, police say
+ - [https://www.timesofisrael.com/woman-who-opened-fire-in-houston-church-left-antisemitic-writings-police-say](https://www.timesofisrael.com/woman-who-opened-fire-in-houston-church-left-antisemitic-writings-police-say)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T08:30:21+00:00
+
+<p>Authorities looking into mental illness, dispute with Jewish former in-laws as motive for Genesse Moreno, who stormed megachurch with rifle sporting 'Palestine' sticker</p>
+<p>The post <a href="https://www.timesofisrael.com/woman-who-opened-fire-in-houston-church-left-antisemitic-writings-police-say/">Woman who opened fire in Houston church left antisemitic writings, police say</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AP24042787256636-1024x640.jpg" title="Woman who opened fire in Houston church left antisemitic writings, police say" width="160" /></figure>
+
+## On Be’eri, bulldozers begin kibbutz rebuild by clearing out rubble of October 7
+ - [https://www.timesofisrael.com/on-beeri-bulldozers-begin-kibbutz-rebuild-by-clearing-out-rubble-of-october-7](https://www.timesofisrael.com/on-beeri-bulldozers-begin-kibbutz-rebuild-by-clearing-out-rubble-of-october-7)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T08:22:19+00:00
+
+<p>At least 1 in 3 homes were badly damaged in the Gaza-adjacent community, where a 2-year rehabilitation plan will cost more than NIS 300 million</p>
+<p>The post <a href="https://www.timesofisrael.com/on-beeri-bulldozers-begin-kibbutz-rebuild-by-clearing-out-rubble-of-october-7/">On Be&#8217;eri, bulldozers begin kibbutz rebuild by clearing out rubble of October 7</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/DSC_8507-1024x640.jpg" title="On Be&#8217;eri, bulldozers begin kibbutz rebuild by clearing out rubble of October 7" width="160" /></figure>
+
+## Commander, 2 troops killed in Gaza blast, raising ground operation death toll to 232
+ - [https://www.timesofisrael.com/commander-2-troops-killed-in-gaza-blast-raising-ground-operation-death-toll-to-232](https://www.timesofisrael.com/commander-2-troops-killed-in-gaza-blast-raising-ground-operation-death-toll-to-232)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T07:15:56+00:00
+
+<p>Two other soldiers from Southern Brigade's 630th Battalion seriously wounded in same battle with Hamas in Khan Younis; rocket siren sounds in Gaza border community</p>
+<p>The post <a href="https://www.timesofisrael.com/commander-2-troops-killed-in-gaza-blast-raising-ground-operation-death-toll-to-232/">Commander, 2 troops killed in Gaza blast, raising ground operation death toll to 232</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/fallen3-1024x640.jpeg" title="Commander, 2 troops killed in Gaza blast, raising ground operation death toll to 232" width="160" /></figure>
+
+## A Holocaust museum that predates WWII, London’s Wiener Library turns 90 this month
+ - [https://www.timesofisrael.com/a-holocaust-museum-that-predates-wwii-londons-wiener-library-turns-90-this-month](https://www.timesofisrael.com/a-holocaust-museum-that-predates-wwii-londons-wiener-library-turns-90-this-month)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T06:35:48+00:00
+
+<p>Founded in 1934 by Alfred Wiener, the museum exposed Nazis, helped the Allies battle them, and led to their conviction. Now it's one of the world's preeminent research institutions</p>
+<p>The post <a href="https://www.timesofisrael.com/a-holocaust-museum-that-predates-wwii-londons-wiener-library-turns-90-this-month/">A Holocaust museum that predates WWII, London&#8217;s Wiener Library turns 90 this month</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/Wiener-L_0006_WL4117_WL6283-scaled-e1707765075208-1024x640.jpg" title="A Holocaust museum that predates WWII, London&#8217;s Wiener Library turns 90 this month" width="160" /></figure>
+
+## France proposes Israel-Lebanon truce deal pushing Hezbollah 10 km from border
+ - [https://www.timesofisrael.com/france-proposes-israel-lebanon-truce-deal-pushing-hezbollah-10-km-from-border](https://www.timesofisrael.com/france-proposes-israel-lebanon-truce-deal-pushing-hezbollah-10-km-from-border)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T06:23:49+00:00
+
+<p>Plan, which envisions talks on delineating land border, would leave terror group deep inside UN-mandated buffer zone south of Litani River, but neuter anti-tank missile threat</p>
+<p>The post <a href="https://www.timesofisrael.com/france-proposes-israel-lebanon-truce-deal-pushing-hezbollah-10-km-from-border/">France proposes Israel-Lebanon truce deal pushing Hezbollah 10 km from border</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AFP__20240207__34HW4DT__v3__HighRes__TopshotLebanonIsraelPalestinianConflict-1024x640.jpg" title="France proposes Israel-Lebanon truce deal pushing Hezbollah 10 km from border" width="160" /></figure>
+
+## Israel to send delegation to Cairo hostage talks as Biden touts push for 6-week pause
+ - [https://www.timesofisrael.com/israel-to-send-delegation-to-cairo-hostage-talks-as-biden-touts-push-for-6-week-pause](https://www.timesofisrael.com/israel-to-send-delegation-to-cairo-hostage-talks-as-biden-touts-push-for-6-week-pause)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T04:41:53+00:00
+
+<p>Jerusalem to dispatch Mossad, Shin Bet heads to Egyptian capital, following US pressure, as tentative negotiations resume on deal for truce, hostage release</p>
+<p>The post <a href="https://www.timesofisrael.com/israel-to-send-delegation-to-cairo-hostage-talks-as-biden-touts-push-for-6-week-pause/">Israel to send delegation to Cairo hostage talks as Biden touts push for 6-week pause</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AP24043806452201-1024x640.jpg" title="Israel to send delegation to Cairo hostage talks as Biden touts push for 6-week pause" width="160" /></figure>
+
+## France makes proposal for Hezbollah withdrawal, border talks for Israel-Lebanon truce
+ - [https://www.timesofisrael.com/liveblog-february-13-2024](https://www.timesofisrael.com/liveblog-february-13-2024)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T02:28:01+00:00
+
+<p>Jordan’s King Abdullah says October 7 attacks cannot be accepted by any Muslim * Biden: PA must urgently reform so it can effectively deliver for Palestinians</p>
+<p>The post <a href="https://www.timesofisrael.com/liveblog-february-13-2024/">France makes proposal for Hezbollah withdrawal, border talks for Israel-Lebanon truce</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/F240208AMA07-1024x640.jpg" title="France makes proposal for Hezbollah withdrawal, border talks for Israel-Lebanon truce" width="160" /></figure>
+
+## Jordan king calls for ‘lasting’ ceasefire, says Oct. 7 attack unacceptable to Muslims
+ - [https://www.timesofisrael.com/jordan-king-calls-for-lasting-ceasefire-says-oct-7-attack-unacceptable-to-muslims](https://www.timesofisrael.com/jordan-king-calls-for-lasting-ceasefire-says-oct-7-attack-unacceptable-to-muslims)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T02:15:36+00:00
+
+<p>Speaking alongside Biden, Abdullah II says international community must step up efforts to reach 'comprehensive peace'; US president touts deal in works for pause in fighting</p>
+<p>The post <a href="https://www.timesofisrael.com/jordan-king-calls-for-lasting-ceasefire-says-oct-7-attack-unacceptable-to-muslims/">Jordan king calls for &#8216;lasting&#8217; ceasefire, says Oct. 7 attack unacceptable to Muslims</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/AFP__20240212__34JA7BU__v1__Preview__UsJordanPoliticsDiplomacy-1024x640.jpg" title="Jordan king calls for &#8216;lasting&#8217; ceasefire, says Oct. 7 attack unacceptable to Muslims" width="160" /></figure>
+
+## New essay on Musk and the Jews - Sponsored Content
+ - [https://www.timesofisrael.com/spotlight/new-essay-on-musk-and-the-jews](https://www.timesofisrael.com/spotlight/new-essay-on-musk-and-the-jews)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T01:51:46+00:00
+
+<p>The political turning of Elon Musk is so abrupt, so wild and unexpected, that it verges on the inexplicable, and speculations range from the psychological to the pharmaceutical."</p>
+<p>The post <a href="https://www.timesofisrael.com/spotlight/new-essay-on-musk-and-the-jews/">New essay on Musk and the Jews</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/JQ-landscape-ad-1024x640.jpeg" title="New essay on Musk and the Jews" width="160" /></figure>
+
+## ‘My heart is whole’: Families of rescued hostages ‘stunned’ by their return from Gaza
+ - [https://www.timesofisrael.com/my-heart-is-whole-families-of-rescued-hostages-stunned-by-their-return-from-gaza](https://www.timesofisrael.com/my-heart-is-whole-families-of-rescued-hostages-stunned-by-their-return-from-gaza)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-02-13T00:59:00+00:00
+
+<p>Rinat, Louis Har's daughter, says they went hungry for days, spoke about soccer in captivity; Fernando Marman's niece says they argued over extent of efforts to free them</p>
+<p>The post <a href="https://www.timesofisrael.com/my-heart-is-whole-families-of-rescued-hostages-stunned-by-their-return-from-gaza/">&#8216;My heart is whole&#8217;: Families of rescued hostages &#8216;stunned&#8217; by their return from Gaza</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/IMG-20240212-WA0015-1024x640.jpg" title="&#8216;My heart is whole&#8217;: Families of rescued hostages &#8216;stunned&#8217; by their return from Gaza" width="160" /></figure>
+

@@ -1,0 +1,37 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed/, language:en-US
+
+## Seattle game studio Threshold Games shuts down
+ - [https://www.geekwire.com/2024/seattle-game-studio-threshold-games-shuts-down](https://www.geekwire.com/2024/seattle-game-studio-threshold-games-shuts-down)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-13T18:06:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="249" src="https://cdn.geekwire.com/wp-content/uploads/2024/02/Threshold-Games-logo.jpg" width="605" /><br />Seattle‚Äôs Threshold Games, a remote-first independent game developer, has shut down due to ‚Äúextenuating circumstances.‚Äù The announcement was made via Threshold‚Äôs LinkedIn page on Feb. 9. The 12-person company was founded in 2019 by Jessica Bean and June Saphry, and billed itself as an ‚Äúindie, queer-led studio‚Äù that made games ‚Äúthat tell diverse stories set in helpful, defiant futures.‚Äù It included developers from Riot Games, Warner Bros. Games, and Bellevue, Wash.-based Sucker Punch. GeekWire has reached out to the studio for comment. Threshold‚Äôs official X account has posted a thread that lists all the affected employees, in an attempt to&#8230; <a href="https://www.geekwire.com/2024/seattle-game-studio-threshold-games-shuts-down/">Read More</a>
+
+## Tech accelerator for Washington and Oregon startups encourages underserved applicants
+ - [https://www.geekwire.com/2024/tech-accelerator-for-washington-and-oregon-startups-encourages-underserved-applicants](https://www.geekwire.com/2024/tech-accelerator-for-washington-and-oregon-startups-encourages-underserved-applicants)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-13T17:56:39+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="445" src="https://cdn.geekwire.com/wp-content/uploads/2024/02/DevonHorace.jpeg" width="588" /><br />RAIN Catalysts, a Pacific Northwest-based nonprofit promoting entrepreneurship for underrepresented groups, is accepting applications for its first tech accelerator. The free and virtual 10-week program, funded by the U.S. Economic Development Administration, is for tech startups located in Oregon or Washington state. Devon Horace, director of the RAIN Tech Accelerator, said the program is accepting 50 applicants, and is encouraging underserved women and BIPOC founders and rural-based startups to apply. Startups and ideas can be from a wide range of tech disciplines, including ag-tech, artificial intelligence, Internet of Things, bio tech, clean/green tech, cloud computing, cybersecurity, robotics and more. Horace,&#8230; <a href="https://www.geekwire.com/2024/tech-accelerator-for-washington-and-oregon-startups-en
+
+## ProfoundBio raises $112M to support clinical-stage oncology pipeline
+ - [https://www.geekwire.com/2024/profoundbio-raises-112m-to-support-clinical-stage-oncology-pipeline](https://www.geekwire.com/2024/profoundbio-raises-112m-to-support-clinical-stage-oncology-pipeline)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-13T17:51:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="688" src="https://cdn.geekwire.com/wp-content/uploads/2024/02/Baiteng-Zhou.png" width="508" /><br />ProfoundBio&#160;raised $112 million to support development of its pipeline of antibody-drug conjugates (ADCs), agents that recognize a molecular target via an antibody and deliver a toxin or other compound to cells. The company, which has locations in Seattle and Suzhou, China, has three clinical-stage ADC candidates focused on solid tumors. Its lead candidate (targeting folate receptor alpha) is in phase 2 studies for ovarian and endometrial cancers. Phase 1 trials are ongoing for two other ADCs (targeting CD70 and PTK7), and a fourth ADC is expected to enter the clinic in 2024. ‚ÄúWith this support, we are better positioned to&#8230; <a href="https://www.geekwire.com/2024/profoundbio-raises-112m-to-support-clinical-stage-oncology-pipeline/">Read More</a>
+
+## Tech Moves: Rivian hires former Amazon and Meta leader as new marketing chief
+ - [https://www.geekwire.com/2024/tech-moves-rivian-hires-former-amazon-and-meta-leader-as-new-marketing-chief](https://www.geekwire.com/2024/tech-moves-rivian-hires-former-amazon-and-meta-leader-as-new-marketing-chief)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-13T16:36:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="800" src="https://cdn.geekwire.com/wp-content/uploads/2024/02/1655322682645.jpeg" width="800" /><br />Jennifer Prenner, a former marketing leader at Amazon and Meta, joined EV giant Rivian as its new vice president of marketing and CMO. Prenner, based in Seattle, most recently was a vice president at Meta working with its Reality Labs business before taking a year-long sabbatical. She was previously head of marketing for Fire TV at Amazon, and spent more than eight years at Verizon. &#8220;I’m so excited by the mission, the opportunity ahead and all of the amazing people I’ve already met,&#8221; Prenner said in a LinkedIn post. Founded in 2009 and based in Irvine, Calif., Rivian raised billions&#8230; <a href="https://www.geekwire.com/2024/tech-moves-rivian-hires-former-amazon-and-meta-leader-as-new-marketing-chief/">Read More</a>
+
+## Spy cameras found in two Expedia bathrooms; former employee charged with voyeurism
+ - [https://www.geekwire.com/2024/spy-cameras-found-in-expedia-bathrooms-former-employee-charged-with-voyeurism-case-bolstered-by-electronics-sniffing-dog](https://www.geekwire.com/2024/spy-cameras-found-in-expedia-bathrooms-former-employee-charged-with-voyeurism-case-bolstered-by-electronics-sniffing-dog)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-13T15:41:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="673" src="https://cdn.geekwire.com/wp-content/uploads/2024/02/voyeurcamera.png" width="969" /><br />A Lynnwood, Wash., man has been charged with voyeurism based on allegations that he placed cameras under the sinks in two bathrooms at the Expedia Group headquarters on the Seattle waterfront in December and January. Marcelo F. Vargas-Fernandez, 42, who was an Expedia Group employee at the time of the alleged incidents, was arrested Feb. 1 by Seattle police, who found at least 33 additional spy cameras when executing a search warrant inside his apartment, according to a probable cause affidavit accompanying the charges. A specially trained, electronics-detecting dog helped investigators locate some of the equipment during their search of&#8230; <a href="https://www.geekwire.com/2024/spy-cameras-found-in-expedia-bathrooms-former-employee-charged-with-voyeurism-case-bolstered-by-electronics-sniffing-dog/">Read More<
+
