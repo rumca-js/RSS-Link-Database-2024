@@ -1,0 +1,184 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## The UK’s Online Safety Act is live; now for the hard part
+ - [https://www.biometricupdate.com/202402/the-uks-online-safety-act-is-live-now-for-the-hard-part](https://www.biometricupdate.com/202402/the-uks-online-safety-act-is-live-now-for-the-hard-part)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T23:27:32+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/13150618/teen-tablet-scaled.jpg" width="2048" />
+		The UK’s pioneering regulatory effort on internet safety has provided direction and arrived at a significant consensus on desired outcomes, but has arrived at a set of thorny questions around age assurance and online anonymity. A Westminster eForum event on “Next steps for online safety policy and practice in the UK” sought to clarify what those questions are, and begin to answer them.
+
+Ofcom’s <a href="https://www.ofcom.org.uk/consultations-and-statements/category-1/protecting-people-from-illegal-content-online">first consultation</a> on implementing the Act closes at the end of February.
+
+Ofcom Online Safety Principal Jessica Smith gave an overview of the Online Safety Act implementation and its aims. An implementation timeline she shared showed the categorizatio
+
+## Fingerprint scans for 7-year-olds? Could happen at EU borders this year
+ - [https://www.biometricupdate.com/202402/fingerprint-scans-for-7-year-olds-could-happen-at-eu-borders-this-year](https://www.biometricupdate.com/202402/fingerprint-scans-for-7-year-olds-could-happen-at-eu-borders-this-year)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T23:15:28+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1351" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/03170204/borders-migration-EU-scaled.jpg" width="2048" />
+		The popular image of government biometrics is video with CGI framing faces in a crowd and thumbs pressed onto scanners. Opponents of identifier collection tend to see the systems as tools enabling a weapon – deliberate misuse of identifiers.
+
+That has offered the industry a degree of insulation as the public is concerned with motives, policies and laws.
+
+But what if the scanners themselves started to be seen, visibly, as the weapon?
+
+Leaders in the European Union are deliberating new rules for irregular immigration that would mandate, among other provisions, fingerprint scans of everyone as young as seven years at borders. And guards would be able to use “proportionate coercion” to get scans from children who resist.
+
+Anyone 15 years and older must submit 
+
+## SIDI Hub brings together digital ID orgs to tackle global interoperability
+ - [https://www.biometricupdate.com/202402/sidi-hub-brings-together-digital-id-orgs-to-tackle-global-interoperability](https://www.biometricupdate.com/202402/sidi-hub-brings-together-digital-id-orgs-to-tackle-global-interoperability)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T23:03:14+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="624" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16200347/digital-identity-interest-group-scaled.jpg" width="2048" />
+		A new joint initiative among 17 open standards groups working in digital identity aims to address the challenge of creating a digital ID that is interoperable across borders, by turning the current fragmented approach into something more universal.
+
+A release says the Sustainable and Interoperable Digital Identity (SIDI) Hub will work to accelerate and define what is needed for the development of cross-border interoperability, which it considers crucial for a fair and inclusive digital society. Its membership includes <a href="https://www.biometricupdate.com/tag/openid-foundation">OpenID</a>, <a href="https://www.biometricupdate.com/companies/fido-alliance">FIDO Alliance</a>, the <a href="https://www.biometricupdate.com/202311/facetec-brings-on-s
+
+## IDnow, IOTA Foundation, and others join a compliance consortium for European AML
+ - [https://www.biometricupdate.com/202402/idnow-iota-foundation-and-others-join-a-compliance-consortium-for-european-aml](https://www.biometricupdate.com/202402/idnow-iota-foundation-and-others-join-a-compliance-consortium-for-european-aml)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T22:27:50+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="848" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/15175306/data-privacy-2-scaled.jpg" width="2048" />
+		The <a href="https://www.iota.org/">IOTA Foundation</a>, <a href="https://www.biometricupdate.com/companies/idnow">IDnow</a>, <a href="https://walt.id/">walt.id</a>, <a href="https://spyce5.com/">SPYCE.5</a>, and <a href="https://bloomwallet.io/">Bloom Labs</a> are forming a consortium to make crypto asset service providers (CASPs) compliant with the European AML Regulation and the Transfer of Funds Regulation, according to an announcement.
+
+CASPs currently must comply with the <a href="https://www.biometricupdate.com/202305/gdpr-5-years-on-spain-ireland-lead-in-issuing-fines-meta-hit-hardest">GDPR</a> by not storing PII on blockchains or distributed ledgers. At the same time, they must comply with new KYC regulations. TFR requires that crypto transactions must i
+
+## UK business registry says “yes, chef” to hundreds of cloned IDs and restaurants
+ - [https://www.biometricupdate.com/202402/uk-business-registry-says-yes-chef-to-hundreds-of-cloned-ids-and-restaurants](https://www.biometricupdate.com/202402/uk-business-registry-says-yes-chef-to-hundreds-of-cloned-ids-and-restaurants)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T22:17:23+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1329" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14131236/companies-house-scaled.jpg" width="2048" />
+		Take a bunch of celebrity chefs; add biometric technology, bad intentions, a handful of bank accounts, a tablespoon of misspellings and a healthy sprinkling of lax verification safeguards. This is apparently the recipe for an identity cloning scam that has hit high profile chefs in the UK, which <a href="https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-68156910.amp">the BBC says</a> has enabled fraudsters to siphon money from fake loans and other sources.
+
+Celebrated gourmets <a href="https://www.theguardian.com/tv-and-radio/2020/jan/21/heston-blumenthal-the-most-intimate-relationship-you-can-have-with-your-breath">Heston Blumenthal</a> and <a href="https://ottolenghi.co.uk/recipes">Yotam Ottolenghi</a> are among those who had identities stole
+
+## ComplyCube receives UK certification for biometric age verification
+ - [https://www.biometricupdate.com/202402/complycube-receives-uk-certification-for-biometric-age-verification](https://www.biometricupdate.com/202402/complycube-receives-uk-certification-for-biometric-age-verification)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T22:13:24+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/25135626/online-age-verification-scaled.jpg" width="2048" />
+		Identity verification provider <a href="https://www.biometricupdate.com/companies/complycube">ComplyCube</a>, announced it has received the Age Check Certification Scheme (ACCS) Technical Requirements for Age Check Systems and Data Protection and Privacy Certification with zero non-conformities.
+
+ComplyCube's age verification with biometric liveness detection and customizable automation gives businesses the tools they need to meet age restriction regulations without compromising the user experience, the company says.
+
+It also aligns with privacy-by-design and redacts PII to ensure users only share necessary information. Businesses can also opt for the <a href="https://www.biometricupdate.com/202310/complycube-releases-no-id-age-estimation-tool-as-regula
+
+## Idemia’s automated biometric lanes to open to all foreigners entering Singapore
+ - [https://www.biometricupdate.com/202402/idemias-automated-biometric-lanes-to-open-to-all-foreigners-entering-singapore](https://www.biometricupdate.com/202402/idemias-automated-biometric-lanes-to-open-to-all-foreigners-entering-singapore)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T22:03:05+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1001" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/15160114/Idemia-biometric-kiosks-Singapore.png" width="2048" />
+		All foreigner visitors to Singapore will soon be able to enter the country using <a href="https://www.biometricupdate.com/202305/singapore-announces-passport-free-biometric-clearance-at-borders-from-2024-updated">automated biometric lanes</a> at land, sea and air checkpoints, with technology provided by <a href="https://www.biometricupdate.com/companies/idemia">Idemia</a>.
+
+<a href="https://www.straitstimes.com/singapore/all-foreigners-can-use-automated-lanes-at-checkpoints-from-second-half-of-2024-ica">The Straits Times reports</a> that the Immigration and Checkpoints Authority (ICA)’s new clearance concept (NCC) will not require pre-registration, and that travelers leaving Singapore will not need to show their passports on exiting. The transition w
+
+## Facial recognition service says it is for suspicious lovers, not stalking
+ - [https://www.biometricupdate.com/202402/facial-recognition-service-says-it-is-for-suspicious-lovers-not-stalking](https://www.biometricupdate.com/202402/facial-recognition-service-says-it-is-for-suspicious-lovers-not-stalking)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T21:53:41+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14164647/suspicious-not-stalking-scaled.jpg" width="2048" />
+		Are you spending Valentine’s Day paranoid that your partner is cheating on you with the help of dating apps? A new online service can help you track down their Tinder, Hinge or Bumble profiles with facial recognition. There is scant assurance, however, that it will not be abused.
+
+OopsBusted advertises itself as a service that continuously scans popular dating apps to monitor your partner's presence. The service allows users to enter the name and location of the person they are looking for and receive a detailed report on their dating profiles, including profile images and text. Customizable search parameters such as age, interests and more can help narrow the search.
+
+Those who are in constant fear of infidelity can enroll in a paid service that sends 
+
+## This Valentine’s Day, fight romance scams with ID verification
+ - [https://www.biometricupdate.com/202402/this-valentines-day-fight-romance-scams-with-id-verification](https://www.biometricupdate.com/202402/this-valentines-day-fight-romance-scams-with-id-verification)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T20:20:11+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1362" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14151900/catfish-romance-scam-scaled.jpg" width="2048" />
+		Romance scams, or scams where bad actors leverage online dating to extract money from its victims, can happen year round but are especially notable on <a href="https://www.biometricupdate.com/202402/data-released-on-rise-in-romance-scams-as-valentines-day-looms">Valentine's Day</a>. Online daters express concern and would like to see more identity verification take place.
+
+Cases of romance scams have grown exponentially in recent years. In 2022, the <a href="https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed#ft1">U.S. Federal Trade Commission</a> received almost 70,000 cases totalling $1.3 billion in losses, while it saw less than 53,000 cases in 2020 and just over 11,000 in 2016. This may repr
+
+## Warrantless face-matching opposed in 2 US state capitals
+ - [https://www.biometricupdate.com/202402/warrantless-face-matching-opposed-in-2-us-state-capitals](https://www.biometricupdate.com/202402/warrantless-face-matching-opposed-in-2-us-state-capitals)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T19:56:03+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1325" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/07/10101537/face-biometric-close-up.jpg" width="1312" />
+		Two U.S. commonwealths are acting to restrict the use by police of facial recognition without warrants.
+
+Massachusetts and Kentucky lawmakers are working on legislation to restrain law enforcement agencies from using biometric face matching reflexively.
+
+Kentucky could vote to ban warrantless face recognition by commonwealth and local police. And the bill would also create biometric information privacy regulations.
+
+In Massachusetts, a joint<a href="https://www.biometricupdate.com/202311/massachusetts-lawmakers-propose-restrictions-on-facial-recognition-technology"> Judiciary committee</a> this week approved for further discussion House Bill <a href="https://legiscan.com/MA/bill/H4359/2023">4359</a>. That bill would restrict all use of facial recognition by mo
+
+## Portugal and France make mobile driver’s licenses available almost immediately
+ - [https://www.biometricupdate.com/202402/portugal-and-france-make-mobile-drivers-licenses-available-almost-immediately](https://www.biometricupdate.com/202402/portugal-and-france-make-mobile-drivers-licenses-available-almost-immediately)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T19:54:48+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11140505/car-driver-monitoring-scaled.jpg" width="2048" />
+		Portugal and France have made digital identity cards and other official forms as legal as physical documents.
+
+The governments have independently joined the slowly growing group of nations adding legal standing to mDLs and national IDs. Legislation authorized the change, making them legal now.
+
+<a href="https://www.biometricupdate.com/202401/many-airports-adopt-face-biometrics-for-easier-travel-but-some-see-a-blunt-security-tool">Portugal </a>officials amended law 19-A/2024, putting documents available on the country’s <a href="https://id.gov.pt/">id.gov wallet app</a> -- including vehicle titles, licenses and public employee health cards -- on the same legal and probative footing as conventional forms, <a href="https://www.dnoticias.pt/2024/2/12/393816-c
+
+## Voter registration plan makes Ghana Card ‘political tool,’ claims opposition
+ - [https://www.biometricupdate.com/202402/voter-registration-plan-makes-ghana-card-political-tool-claims-opposition](https://www.biometricupdate.com/202402/voter-registration-plan-makes-ghana-card-political-tool-claims-opposition)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T16:51:06+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="720" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/24172138/ghana-card.jpg" width="960" />
+		Ghana’s main opposition party, the National Democratic Congress (NDC), says it strongly stands against an ongoing move to make the country’s national ID (Ghana Card) the only credential required for voter registration ahead of general elections in December.
+
+The Electoral Commission (EC) raised the proposal last year through a Constitutional Instrument presented to parliament for examination.
+
+There has been no conclusive move on the proposal yet given the strong disapproval it has attracted, <a href="https://www.biometricupdate.com/202304/sole-requirement-of-ghana-card-for-voter-registration-rejected-by-parliament">including from lawmakers</a>.
+
+The EC however <a href="https://3news.com/featured/2024-polls-ndc-will-oppose-move-to-use-ghana-card-as-sole-identity-document-mah
+
+## Passkeys face growing pains that come with rapid adoption and wide unfamiliarity
+ - [https://www.biometricupdate.com/202402/passkeys-face-growing-pains-that-come-with-rapid-adoption-and-wide-unfamiliarity](https://www.biometricupdate.com/202402/passkeys-face-growing-pains-that-come-with-rapid-adoption-and-wide-unfamiliarity)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T16:37:07+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1298" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg" width="2048" />
+		The discourse on passkeys has cooled in the first months of 2024, as biometrics and digital ID observers wonder if the hype has overshot what users are actually comfortable with. While last year saw <a href="https://www.biometricupdate.com/202305/google-introduces-passkey-sign-in-with-farewell-note-to-passwords">flamboyant goodbyes</a> to passwords and heralded the arrival of passkeys, some are taking a more measured approach to the transition.
+
+That said, the technology is still relatively young, and proponents such as the FIDO Alliance continue to work to make passkeys accessible and trustworthy. In a recent webinar now available on demand, <a href="https://event.on24.com/wcc/r/4470398/BA7ABC09FE052C4CA2C6FDC19DA50BF8">Next-Gen Authentication:
+
+## Critical Infrastructure Protection & Resilience North America
+ - [https://www.biometricupdate.com/202402/critical-infrastructure-protection-resilience-north-america-3](https://www.biometricupdate.com/202402/critical-infrastructure-protection-resilience-north-america-3)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T00:34:06+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="492" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/13193316/CIPRNA-logo.jpg" width="960" />
+		<strong><a href="https://ciprna-expo.com/">Critical Infrastructure Protection & Resilience North America</a></strong>
+<strong>Lake Charles, LA</strong>
+<strong>March 12-14, 2024</strong>
+
+The ever changing nature of threats, whether natural through climate change, or man-made through terrorism activities, either physical or cyber-attacks, means the need to continually review and update policies, practices and technologies to meet these demands.
+
+Critical Infrastructure Protection and Resilience North America will bring together leading stakeholders from industry, operators, agencies and governments to collaborate on securing North America.
+
+The conference will look at developing on the theme of previous events in helping to create better understanding of the issues and the 
+
+## ID4Africa Livecast – Digital healthcare in Africa: Challenges & opportunities
+ - [https://www.biometricupdate.com/202402/id4africa-livecast-digital-healthcare-in-africa-challenges-opportunities](https://www.biometricupdate.com/202402/id4africa-livecast-digital-healthcare-in-africa-challenges-opportunities)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-02-14T00:32:16+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1147" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/13184449/GFzlcT9W8AAD7u4-scaled.jpg" width="2048" />
+		<strong><a href="https://id4africa.com/ep47-digital-identity-in-healthcare/">ID4Africa Livecast - Digital healthcare in Africa: Challenges &amp; opportunities</a></strong>
+<strong>Online</strong>
+<strong>February 28, 2024 at 13:30 GMT</strong>
+
+<a href="https://www.biometricupdate.com/tag/id4africa">ID4Africa</a> is hosting a livecast on February 28 to discuss the pivotal role of digital identity in transforming healthcare systems.
+
+Healthcare requires more than just basic identity systems. It calls for functional IDs that accommodate various needs while prioritizing privacy due to the sensitive nature of health data. The sector also requires interoperability among health systems to streamline operations and eradicate fragmentation. This creates a hotbed for in
+
