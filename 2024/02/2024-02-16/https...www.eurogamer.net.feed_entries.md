@@ -1,0 +1,187 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## 700 Ubisoft workers strike in France over failed salary negotiations
+ - [https://www.eurogamer.net/700-ubisoft-workers-strike-in-france-over-failed-salary-negotiations?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/700-ubisoft-workers-strike-in-france-over-failed-salary-negotiations?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T20:08:39+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ubisoft-strike-stjv.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Over 700 unionised Ubisoft employees working across the company's French studios have taken part in an organised day of strike action after annual salary negotiations collapsed.
+</p><p>
+The strike, organised by French game workers union STJV (Syndicat des Travailleurs et Travailleuses du Jeu Vid&eacute;o), took place on 14th February across Ubisoft's Paris, Montpellier, Annecy, Lyon, and Bordeaux studios. The STJV had called for action at the start of this month, saying annual salary negotiations had reached an unsatisfactory conclusion.
+</p><p>
+"In recent weeks," the STJV wrote in a <a href="https://www.stjv.fr/2024/02/le-14-fevrier-ubisoft-en-greve-pour-des-salaires-dignes/">statement shared at the time</a>, "Mandatory Annual Negotiations on salaries have taken place in several Ubisoft entities in France, and the STJ
+
+## Nintendo Switch 2 release date now Q1 2025 - report
+ - [https://www.eurogamer.net/nintendo-switch-2-release-date-now-q1-2025-report?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/nintendo-switch-2-release-date-now-q1-2025-report?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T17:57:33+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Untitled-1_pfqFVmC.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+A report claiming <a href="https://www.eurogamer.net/nintendo-switch-2-everything-we-know">Nintendo Switch 2</a> will now launch in Q1 2025 is spreading online. 
+</p><p>
+Brazilian games journalist <a href="https://www.videogameschronicle.com/news/nintendo-switch-2-could-now-launch-in-2025-its-claimed/#:~:text=Pedro%20Henrique%20Lutti%20Lippe">Pedro Henrique Lutti Lippe</a> has stated Nintendo is now looking to release its next console in early 2025, though still within the 2024 financial year. The report is based on development sources now targeting that quarter for launch.
+</p><p>
+Eurogamer has heard similar whispers of an early 2025 launch from industry sources this week, though has not been able to concretely substantiate them. <a href="https://www.eurogamer.net/nintendo-switch-successor-reportedly-due-late-2024">Nin
+
+## Palworld studio admits it can't "keep up" with cheaters, says anti-cheat solution on the way
+ - [https://www.eurogamer.net/palworld-studio-admits-its-cant-keep-up-with-cheaters-says-anti-cheat-solution-on-the-way?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/palworld-studio-admits-its-cant-keep-up-with-cheaters-says-anti-cheat-solution-on-the-way?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T17:33:51+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Palworld_tUdR3NY.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Palworld developer Pocketpair has acknowledged the significant impact "cheating and the influence of fraudulent activities" is having on ordinary players of its hugely popular survival game, and has outlined some of the steps it'll be taking - including the introduction of an "external anti-cheat solution - to tackle the problem.
+</p><p>
+Writing in a <a href="https://store.steampowered.com/news/app/1623730/view/6090625297485741627?l=english">post shared on Steam</a>, Pocketpair admitted that, despite the studio "dealing with each issue on a daily basis and taking measures", there are "many cases where we are not able to keep up" with cheating and fraudulent activities - which, it acknowledged, has led to "some players [being] unable to play the game properly."
+</p><p>
+Pocketpair apologised for "any inconvenience this may 
+
+## What did we think of Microsoft's multiplatform Xbox soft launch?
+ - [https://www.eurogamer.net/what-did-we-think-of-microsofts-multiplatform-xbox-soft-launch?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/what-did-we-think-of-microsofts-multiplatform-xbox-soft-launch?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T17:26:51+00:00
+
+<img src="https://assetsio.reedpopcdn.com/xbox-game-pass-graphic.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+This week on the <a href="https://www.eurogamer.net/topics/newscast">Eurogamer Newscast</a>, we discuss Microsoft's business update that brought us confirmation <a href="https://www.eurogamer.net/four-xbox-exclusive-games-heading-to-ps5-and-switch-according-to-phil-spencer">Xbox will launch four console exclusives</a> - for now - on PlayStation and Nintendo Switch.</p><p>But why did Microsoft choose not to name those four games (even though Hi-Fi Rush, Pentiment, Grounded and Sea of Thieves were immediately reported to be the titles in question)? What happened to the previously-reported plans to include larger games such as Starfield? And where will Microsoft draw the line for what to launch elsewhere? Right now, these four feel like something of a soft launch for Microsoft's multiplatform strategy, </p><p>As well a
+
+## Apex Legends studio making Star Wars Mandalorian game - report
+ - [https://www.eurogamer.net/apex-legends-studio-making-star-wars-mandalorian-game-report?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/apex-legends-studio-making-star-wars-mandalorian-game-report?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T17:16:24+00:00
+
+<img src="https://assetsio.reedpopcdn.com/TheMandalorian_Poster_Season3.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+One of the three upcoming Star Wars games in development at Apex Legends and Titanfall studio Respawn is reportedly a bounty hunter game where you play as a Mandalorian. 
+</p><p>
+That's according to <a href="https://insider-gaming.com/star-wars-mandalorian-game/">Insider Gaming</a>, which said the project was still in the early stages of development, but was a first-person shooter starring a Mandalorian bounty hunter during the time of the Galactic Empire.
+</p><p>
+The report stops short of confirming the Mandalorian bounty hunter as Din Djarin, star of Disney+ hit TV series and upcoming Mandalorian movie. A time period set during the height of the Galactic Empire would also place the game prior to the TV series - making a Baby Yoda appearance unlikely.
+</p> <p><a href="https://www.eurogamer.net/apex-legends-s
+
+## Helldivers 2 delivers a solid, smooth experience on both PS5 and PC
+ - [https://www.eurogamer.net/digitalfoundry-2024-helldivers-2-delivers-a-solid-smooth-experience-on-both-ps5-and-pc?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/digitalfoundry-2024-helldivers-2-delivers-a-solid-smooth-experience-on-both-ps5-and-pc?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T17:04:20+00:00
+
+<img src="https://assetsio.reedpopcdn.com/HELLDIVERS-SITE.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Helldivers 2 is one of the most refreshing - and straightforward - multiplayer games I've played in a while. It's a third-person bug-shooting blitzkrieg, offering simple sets of objectives and a broad armament to help satisfy them. The actual action of defeating the game's foes is a lot of fun, with hordes of enemies to shoot into gibs with a four-person player squad. But does all that multiplayer chaos come with strings attached? Few games try to achieve destruction at this scale, especially factoring in the unpredictability of multiplayer gameplay, so what kind of visuals and performance should we expect in the game's console outing on PS5 and how does the quality of the PC port fare?
+</p><p>
+Visually, Helldivers 2 hardly advances the state of the art, but that's not to say that its visual make-up - and its environments 
+
+## Bandai Namco cancels development of "at least" five games
+ - [https://www.eurogamer.net/bandai-namco-cancels-development-of-at-least-five-games?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/bandai-namco-cancels-development-of-at-least-five-games?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T15:53:46+00:00
+
+<img src="https://assetsio.reedpopcdn.com/tekken-8-devil-jin.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Bandai Namco has revealed it cancelled development of "at least" five projects following a review to implement "stricter standards" and an "emphasis on quality" in its upcoming games.</p><p>The information comes from the company's <a href="https://www.bandainamco.co.jp/files/E_240214E6A5ADE7B8BEE4BA88E683B3E381AEE4BFAEE6ADA3.pdf">latest financial report</a> for Q3 of FY2024, which  contained changes to its projections of profits and sales for the full fiscal year.</p><p>The Tekken 8 and Elden Ring publisher lowered its projections for profits due to "valuation losses". These losses include "loss on disposal of titles following a review of the composition of the titles within the next mid-term plan in mind", the company stated in its report.</p> <p><a href="https://www.eurogamer.net/bandai-namco-cancels-development-of-at-
+
+## Epic secures iOS developer account, Europe mobile store and Fortnite launch this year
+ - [https://www.eurogamer.net/epic-secures-ios-developer-account-europe-mobile-store-and-fortnite-launch-this-year?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/epic-secures-ios-developer-account-europe-mobile-store-and-fortnite-launch-this-year?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T15:39:13+00:00
+
+<img src="https://assetsio.reedpopcdn.com/fortnite-raiden-skin.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Epic Games will begin developing a mobile version of the Epic Games Store for launch on iOS in Europe, the company has said, now it has officially received an Apple Developer Account. 
+</p><p>
+The store's launch will also herald the return of Fortnite to iPhones, years after its previous version was locked down after <a href="https://www.eurogamer.net/fortnite-adds-cheaper-mobile-payment-option-to-circumvent-apple-google-fees">Epic Games added the abililty to make direct in-game payments</a>, circumventing Apple's standard 33 percent cut.
+</p><p>
+Epic said today it planned to launch the Epic Games Store on iOS in 2024, operated by Epic Games Sweden.
+</p> <p><a href="https://www.eurogamer.net/epic-secures-ios-developer-account-europe-mobile-store-and-fortnite-launch-this-year?utm_source=feed&amp;utm_medium=rss&amp;utm_
+
+## Baldur's Gate 3 smooches update now live
+ - [https://www.eurogamer.net/baldurs-gate-3-smooches-update-now-live?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/baldurs-gate-3-smooches-update-now-live?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T14:33:04+00:00
+
+<img src="https://assetsio.reedpopcdn.com/7b24bf087f09def052f6e1446fe8e43b64909154.gif?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The latest, and very timely, update for Baldur's Gate 3 is now live across PC, PlayStation 5, and Xbox Series X/S.</p><p>Patch 6 has been teased by Larian Studios since last week, when we learned it would include more <a href="https://www.eurogamer.net/baldurs-gate-3-update-improves-snogging-next-week">kissing animations</a> and <a href="https://www.eurogamer.net/baldurs-gate-3-update-streamlines-party-management">easier party management</a>, but we didn't know when it would be rolling out - or everything else it would contain.</p><p>Well, the update is now live, and with it comes the usual delight of <a href="https://baldursgate3.game/news/patch-6-now-live_108">patch notes</a> a la Larian, which are too lengthy to be contained in Steam's character limit (of course).</p> <p><a href="https://www.euro
+
+## Tomb Raider super fan reveals they were behind trilogy remaster
+ - [https://www.eurogamer.net/tomb-raider-super-fan-reveals-they-were-behind-trilogy-remaster?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/tomb-raider-super-fan-reveals-they-were-behind-trilogy-remaster?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T14:31:37+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Tomb-Raider-Remastered.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+A Tomb Raider fan and modder has revealed that they put their own personal projects on hold for a very good reason: they have actually been leading the development of Tomb Raider 1-3 Remastered.
+</p><p>
+XProger is the brains behind <a href="https://www.facebook.com/OpenLaraTR/about">OpenLara</a>, an open-source cross-platform engine of the classic Tomb Raider series. However, this project and others are now on hold, as XProger was scooped up by Aspyr's parent company Saber Interactive to work on its official Tomb Raider project.
+</p><p>
+"For the past year I've been busy with a dream project that has become the culmination of the last eight years of my life - Tomb Raider 1-3 Remastered," <a href="https://twitter.com/XProger_san/status/1757892574092636206">XProger</a> shared on X, thanking Saber for "trusting me to le
+
+## Payday 3 is finally getting an offline mode
+ - [https://www.eurogamer.net/payday-3-is-finally-getting-an-offline-mode?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/payday-3-is-finally-getting-an-offline-mode?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T12:41:46+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Payday-3_AJXa8mR.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Payday 3 will finally be getting an offline mode - although we don't know exactly when.</p><p>Payday 3 hasn't exactly had the best of launches. It was plagued with <a href="https://www.eurogamer.net/payday-3-players-endure-second-consecutive-day-of-server-issues-preventing-them-from-playing">matchmaking issues</a> and <a href="https://www.eurogamer.net/payday-3-requires-an-always-on-online-connection">online-only requirements</a> on release, and subsequent patches were delayed. All this lead to developer <a href="https://www.eurogamer.net/payday-3-developer-seeks-long-term-success-after-disappointing-launch">Starbreeze admitting that sales and player activity were lower than it had hoped</a>, but it would endeavour to turn this around with a series of prioritised improvements.</p><p>Now, we know more about what these upcom
+
+## Helldivers 2 boss praying servers survive next few days
+ - [https://www.eurogamer.net/helldivers-2-boss-praying-servers-survive-next-few-days?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/helldivers-2-boss-praying-servers-survive-next-few-days?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T12:09:32+00:00
+
+<img src="https://assetsio.reedpopcdn.com/helldivers-2-this-is-fine.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><a href="https://www.eurogamer.net/best-helldivers-2-stratagems-9414">Helldivers 2</a> director Johan Pilestedt is hoping the game's second weekend will go much smoother than its first.</p><p>In a thread posted on <a href="https://twitter.com/Pilestedt/status/1758296996622856558">X</a>, Pilestedt reflected on the changes developer Arrowhead Game Studios has made since Helldivers 2 released to huge success on 8th February for PC and PlayStation 5.</p><p>"I am completely exhausted by the success," he stated, but "very, very pleased."</p> <p><a href="https://www.eurogamer.net/helldivers-2-boss-praying-servers-survive-next-few-days?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Game of the Week: Helldivers 2 is a reminder to always bet on Double-A
+ - [https://www.eurogamer.net/game-of-the-week-helldivers-2-is-a-reminder-to-always-bet-on-double-a?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/game-of-the-week-helldivers-2-is-a-reminder-to-always-bet-on-double-a?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T12:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Big-explosion.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>When my daughter was learning to write her own stories at school - learning composition, I guess, in the language of education - she'd come home with poetry and essays about animals and little bits of this and that, all of which she was fine with, but never more than fine. When it all clicked is when they wrote stories - specifically silly, scary stories with ghosts and people falling on their butts and all that kind of jazz.</p><p>Silly, slightly scary stuff really clicked in fact - not just with my daughter, but with the whole class. For a few glorious weeks, alongside spelling and long division and the bus-stop method (something to do with division too I think?), the class was busy turning out pulps. She loved it. They all loved it. I loved it.</p><p>This came to mind this week when we realised that Helldivers 2 wasn't jus
+
+## Flock feels like the video game equivalent of throwing open the window for a breath of fresh air
+ - [https://www.eurogamer.net/flock-feels-like-the-video-game-equivalent-of-throwing-open-the-window-for-a-breath-of-fresh-air?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/flock-feels-like-the-video-game-equivalent-of-throwing-open-the-window-for-a-breath-of-fresh-air?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T11:30:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Flocl.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+I've wondered for a while how best to explain my time with Flock's demo. The whole experience was a testament to the joy of flight - <a href="https://www.eurogamer.net/hohokums-spiritual-successor-takes-flight-in-flock">much as developers Richard Hogg and co intended</a> - and I relished being able to glide effortlessly over the world. It felt free and easy. Yes, the flying in Flock was certainly a joy. 
+</p><p>
+But that is not why I found myself so enamoured by the whole thing. Rather, it was because in a time when the world feels so full of noise and chaos, Flock gave me a sense of calm, away from the pressures and anxieties that come with everyday life. 
+</p><p>
+Allow me to explain further. In Flock, you are essentially a shepherd, but rather than just your traditional land-based sheep, you are collecting a mixed bunch of eclecti
+
+## Phil Spencer unsure "who it helps" Helldivers 2 isn't on Xbox
+ - [https://www.eurogamer.net/phil-spencer-unsure-who-it-helps-helldivers-2-isnt-on-xbox?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/phil-spencer-unsure-who-it-helps-helldivers-2-isnt-on-xbox?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T11:07:20+00:00
+
+<img src="https://assetsio.reedpopcdn.com/helldivers-2-this-is-fine.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+As Microsoft opts to launch <a href="https://www.eurogamer.net/four-xbox-exclusive-games-heading-to-ps5-and-switch-according-to-phil-spencer">at least some of its Xbox exclusives on rival consoles</a>, the company's gaming boss Phil Spencer has reflected on <a href="https://www.eurogamer.net/helldivers-2-studio-wants-more-developers-so-it-can-accelerate-and-beef-up-content-plans">Sony's recent, hugely-successful launch of online, cross-platform shooter Helldivers 2</a> on PC and PlayStation 5.
+</p><p>
+"I will say, when I look at a game like Helldivers 2 - and it's a great game, kudos to the team shipping on PC and PlayStation - I'm not exactly sure who it helps in the industry by not being on Xbox," Spencer told <a href="https://www.gamefile.news/p/microsoft-four-games-rival-consoles">Game File</a>. "If you try t
+
+## What we've been playing
+ - [https://www.eurogamer.net/what-weve-been-playing-147?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/what-weve-been-playing-147?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T10:50:22+00:00
+
+<img src="https://assetsio.reedpopcdn.com/tombraider_laracroft.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Hello! Welcome back to our regular feature where we write a little bit about some of the games we've been playing over the past few days. This week: tombs, maps, and bats.</p><p>If you fancy catching up on some of the older editions of What We've Been Playing, <a href="https://www.eurogamer.net/topics/what-weve-been-playing">here's our archive</a>.</p><p>Nothing says Valentine's Day like launching someone you dearly love off of the side of a cliff, which is exactly what I did. Before you get all concerned, my husband is fine; I am of course talking about the one and only Lara Croft.</p> <p><a href="https://www.eurogamer.net/what-weve-been-playing-147?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Alan Wake 2 fastest-selling Remedy game, but yet to turn a profit
+ - [https://www.eurogamer.net/alan-wake-2-fastest-selling-remedy-game-but-yet-to-turn-a-profit?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/alan-wake-2-fastest-selling-remedy-game-but-yet-to-turn-a-profit?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T10:41:25+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Saga-Anderson-in-Alan-Wake-2.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Alan Wake 2 is developer Remedy's fastest-selling game to date, but the studio is still to recuperate the project's development and marketing costs. 
+</p><p>
+In its latest <a href="https://investors.remedygames.com/announcements/remedy-entertainment-plc-remedy-announces-sales-information-for-alan-wake-2/">financial report</a>, Remedy said Alan Wake 2 had now sold 1.3m units, with 1m of those occurring by the end of last year. This equates to 50 percent more copies and over three times more digital copies of Alan Wake 2 sold in the game's first two months than its previous release Control managed in its first four months (though it's worth noting Alan Wake 2 was a digital-only release).
+</p><p>
+Control has since gone on to sell over 4m units, and Remedy said it expected a similar trend with Alan Wake 2, as "a g
+
+## Narrative RPG Cabernet gives morality systems a vampiric bite
+ - [https://www.eurogamer.net/narrative-rpg-cabernet-gives-morality-systems-a-vampiric-bite?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/narrative-rpg-cabernet-gives-morality-systems-a-vampiric-bite?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T10:13:58+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Cabernet-Header.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>I've always found the concept of immortality to be horrific. How, as the years churn by, new memories and experiences drown the ones which lie at the foundations of your personality, eroding them until a new person inhabits your skin. You are not yourself anymore. Vampire mythology adds a physical stake to this curse - to be a vampire is to be a monster in body and appetite, but whether you become one in spirit is up to you. Do you try to preserve your humanity or indulge in the hedonism your new form makes so easy? Or become a creature trapped between the two? It&rsquo;s these questions Cabernet, an upcoming narrative RPG, seeks to explore through its protagonist Liza - recently deceased.</p><p>While Cabernet may begin with Liza's funeral, she doesn&rsquo;t truly comprehend her new vampiric nature until witnessing a fellow
+
+## Phil Spencer says Game Pass now has 34m "fully paid" subscribers
+ - [https://www.eurogamer.net/phil-spencer-says-game-pass-now-has-34m-fully-paid-subscribers?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/phil-spencer-says-game-pass-now-has-34m-fully-paid-subscribers?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-16T01:46:37+00:00
+
+<img src="https://assetsio.reedpopcdn.com/xbox-game-pass-graphic.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Microsoft has shared updated Game Pass membership figures for the first time since January 2022, saying the on-demand gaming service now has 34m "fully paid" subscribers, with "significant growth" coming from PC and cloud.
+</p><p>
+That update comes via Microsoft gaming boss Phil Spencer, speaking to journalist Stephen Totilo for his <a href="https://www.gamefile.news/p/microsoft-four-games-rival-consoles">Game File newsletter</a> (<a href="https://www.videogameschronicle.com/news/xbox-game-pass-has-34-million-fully-paid-subscribers/">thanks VGC)</a> ahead of this week's <a href="https://www.youtube.com/watch?v=KGlD9SO3rKU">hotly anticipated Xbox 'business update' podcast</a> - in which the company finally discussed its much rumoured plans to bring a number of its formerly Xbox-exclusive first-party games to PS5 and 
+

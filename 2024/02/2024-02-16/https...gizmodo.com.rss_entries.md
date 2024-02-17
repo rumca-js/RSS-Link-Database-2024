@@ -1,0 +1,177 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## I Finally Watched The Last Airbender, and It Wasn't Worth It
+ - [https://gizmodo.com/last-airbender-avatar-movie-14-year-retrospective-1851250518](https://gizmodo.com/last-airbender-avatar-movie-14-year-retrospective-1851250518)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T23:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3d48db830a97a8f67612fdaed2ccaa7c.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/3-body-problem-chinese-adaptation-peacock-first-netflix-1851244164">Adaptations</a> can be tricky, particularly when the source material is animated. More often than not, they’re reviled <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/live-action-remakes-annoying-netflix-one-piece-avatar-1850552004">upon reveal</a>, because they often feel like they’re going through the motions or twisting the original thing into something it’s not. It can be a dismal prospect to see something you grew up with lose its…</p><p><a href="https://gizmodo.com/last-airbender-avatar-movie-14-year-retrospective-1851250518">Read more...</a></p>
+
+## Defeat Clintin the Mini-Boss in Steam’s New ‘Epstein’ Island Game
+ - [https://gizmodo.com/jeffrey-epstein-island-video-game-steam-1851265617](https://gizmodo.com/jeffrey-epstein-island-video-game-steam-1851265617)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T23:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/035967a82c97a3899af2126086b2d5b9.png" /><p>A new video game popped up online on Friday, swiftly capturing quite a few people’s attention. The game’s name? “Epstein.” Notably, it’s set on an island. If you progress far enough into the gameplay, you end up fighting Mini-Bosses, including characters dubbed “Clintin,” “Havking,” and “Minwell.” </p><p><a href="https://gizmodo.com/jeffrey-epstein-island-video-game-steam-1851265617">Read more...</a></p>
+
+## Take a Look at John Williams' Original Music Manuscript for the Star Wars Theme
+ - [https://gizmodo.com/john-williams-star-wars-sheet-music-auction-darth-vader-1851265635](https://gizmodo.com/john-williams-star-wars-sheet-music-auction-darth-vader-1851265635)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T22:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7c7a083c730521eb93a7da03c721876e.jpg" /><p>For the last 50 years, when you think of music and movies, one name stands above the rest: <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/john-williams-documentary-steven-spielberg-ron-howard-1850013176">John Williams</a>. Williams is one of the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/john-williams-indiana-jones-5-dial-of-destiny-spielberg-1850556037">most celebrated and successful</a> composers of all time thanks to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/composer-john-williams-turns-90-today-so-enjoy-9-of-hi-1848501618">his music for</a>Jaws, Superman, Jurassic Park, Home Alone, Harry Potter, Indiana Jones, and on and on.</p><p><a href="https://gizmodo.com/john-williams-star-wars-sheet-music-auction-darth-vader-185126
+
+## Justice for Lisa Frankenstein
+ - [https://gizmodo.com/defense-of-lisa-frankenstein-horror-movie-diablo-cody-1851261426](https://gizmodo.com/defense-of-lisa-frankenstein-horror-movie-diablo-cody-1851261426)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/43dd49b2deaed6774cf46b7d7c7cbdf1.png" /><p>The lifespan of a movie these days can be very unpredictable. Take for instance Sydney Sweeney’s surprise hit Anyone But You (not <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/madame-web-review-spiderman-sony-marvel-sydney-sweeney-1851250124">Madame Web</a>) and Pixar’s Elemental—two films which ended up getting legs after a few weeks of release. Here’s hoping that’s the case with <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/lisa-frankenstein-focus-features-horror-comedy-2024-1850927293">Lisa Frankenstein</a>, that it chops off some legs and…</p><p><a href="https://gizmodo.com/defense-of-lisa-frankenstein-horror-movie-diablo-cody-1851261426">Read more...</a></p>
+
+## Want Gemini and ChatGPT to Write Political Campaigns? Just Gaslight Them
+ - [https://gizmodo.com/want-gemini-chatgpt-write-political-campaigns-1851265399](https://gizmodo.com/want-gemini-chatgpt-write-political-campaigns-1851265399)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/24a85b7d3de051c2b698b1ff123aad04.jpg" /><p>These days, we hear a lot about all the safeguards <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/googles-gemini-ai-keeps-your-conversations-three-years-1851253573">Gemini</a> and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/openai-chatgpt-probably-won-t-make-bioweapon-1851214338">ChatGPT</a> have in place. But all you need to do is gaslight them and they’ll spit out anything you need for <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/was-ron-desantis-running-on-chatgpt-this-whole-time-1851184734">your political campaign</a>. </p><p><a href="https://gizmodo.com/want-gemini-chatgpt-write-political-campaigns-1851265399">Read more...</a></p>
+
+## Amazon Joins SpaceX in Fight to Declare U.S. Labor Board 'Unconstitutional'
+ - [https://gizmodo.com/amazon-spacex-lawsuit-labor-board-unconstitutional-1851264407](https://gizmodo.com/amazon-spacex-lawsuit-labor-board-unconstitutional-1851264407)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T21:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2d8700dea206bbcd0d99f3854d0a9832.jpg" /><p>Amazon has <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.cnbc.com/2023/12/01/amazon-broke-federal-labor-law-by-racially-disparaging-union-leaders.html" rel="noopener noreferrer" target="_blank">broken federal labor laws</a> repeatedly and has been accused countless times of being a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.dol.gov/newsroom/releases/osha/osha20230201-0" rel="noopener noreferrer" target="_blank">terrible employer</a>. As such, it should surprise literally no one that the e-commerce giant has joined a chorus of other craven corporations to claim that the National Labor Relations Board is “unconstitutional.”</p><p><a href="https://gizmodo.com/amazon-spacex-lawsuit-labor-board-unconstitutional-1851264407">Read more...</a></p>
+
+## Uber and Lyft Drivers Get Tips On Less Than 3 out of 10 Rides
+ - [https://gizmodo.com/uber-lyft-drivers-get-tips-on-28-rides-in-latest-study-1851264494](https://gizmodo.com/uber-lyft-drivers-get-tips-on-28-rides-in-latest-study-1851264494)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/087976d4fcba24b53f207e5c19e2d508.jpg" /><p>Uber and Lyft drivers in the U.S. are receiving tips for rides just 28% of the time, according to a study by gig worker tech company Gridwise. And that might help explain part of the reason why thousands of gig workers staged a strike <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/don-t-cross-the-uber-lyft-picket-line-on-valentines-day-1851251533">on Valentine’s Day over low pay</a>.<br /></p><p><a href="https://gizmodo.com/uber-lyft-drivers-get-tips-on-28-rides-in-latest-study-1851264494">Read more...</a></p>
+
+## A New Version of Dengue Is Plaguing Florida: 'Unprecedented' Outbreaks
+ - [https://gizmodo.com/new-strain-dengue-florida-outbreaks-mosquitoes-1851264836](https://gizmodo.com/new-strain-dengue-florida-outbreaks-mosquitoes-1851264836)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T20:36:12+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/72fe25c92b1c76f8bf61e271836b2c5c.jpg" /><p>Florida has been playing host to an emerging version of the dengue virus, new research  shows. The study found that the state has experienced an “unprecedented” number of cases caused by dengue virus serotype 3 over the past two years, including locally acquired cases. Outbreaks have remained relatively small and…</p><p><a href="https://gizmodo.com/new-strain-dengue-florida-outbreaks-mosquitoes-1851264836">Read more...</a></p>
+
+## Prepping the Sandworm Scenes in Dune: Part Two
+ - [https://gizmodo.com/prepping-the-sandworm-scenes-in-dune-part-two-1851261628](https://gizmodo.com/prepping-the-sandworm-scenes-in-dune-part-two-1851261628)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/10c558317fcdd7db3882955bcd5b9040.jpg" /><p><a href="https://gizmodo.com/prepping-the-sandworm-scenes-in-dune-part-two-1851261628">Read more...</a></p>
+
+## Big Tech Companies Pledge to Fight Election Deepfakes but Free Speech Issues Remain
+ - [https://gizmodo.com/big-tech-pledge-to-fight-election-deepfakes-1851264693](https://gizmodo.com/big-tech-pledge-to-fight-election-deepfakes-1851264693)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T20:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/19c55bfc56f20acfc34706da92ce4d5f.png" /><p>Major tech companies announced a new pact at the Munich Security Conference on Friday pledging to fight <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/youll-be-fooled-by-an-ai-deepfake-this-year-1851240169">AI-generated fakes</a> that are intended to deceive the public and influence elections. The press conference, which was livestreamed online, featured leaders from Big Tech firms who’ve been under immense pressure in…</p><p><a href="https://gizmodo.com/big-tech-pledge-to-fight-election-deepfakes-1851264693">Read more...</a></p>
+
+## Hot Toys' Latest Spider-Man 2 Figure Is Literally Superior
+ - [https://gizmodo.com/marvel-spider-man-2-superior-suit-hot-toys-collectible-1851264880](https://gizmodo.com/marvel-spider-man-2-superior-suit-hot-toys-collectible-1851264880)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T19:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ddd767dfdf48abc73a939f7bf2572e05.jpg" /><p>Spider-Man is known for changing suit designs with reliable frequency, and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/spiderman-2-suits-ranked-playstation-5-peter-miles-ps5-1850930764">there’s no better showcase for his evolving wardrobe</a> than <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/spider-man-2-review-ps5-marvel-sony-venom-kraven-1850914245">his array of video games</a>. Now you can own a Hot Toys figure showcasing one of the most fan-beloved: the Superior Suit from <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/spider-man-2-ps5-spoilers-interview-venom-miles-cindy-1850955935">Marvel’s Spider-Man 2</a>.<br /></p><p><a href="https://gizmodo.com/marvel-spider-man-2-superior-suit-hot-toys-collectible-1851264880">Read more
+
+## Android 15 Preview Heads to Developers With Promises of More Privacy
+ - [https://gizmodo.com/android-15-preview-heads-developer-promise-more-privacy-1851264892](https://gizmodo.com/android-15-preview-heads-developer-promise-more-privacy-1851264892)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3b622ddf6e06f12545739fb0cb3ed725.jpg" /><p>Android 15 preview is out today for developers, and with it comes the latest version of Google’s Privacy Sandbox, which <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/google-chrome-cookie-privacy-sandbox-launch-date-jan-4-1851098807">killed third-party cookies</a> just last month. <br /><br />The new OS will also make available extensions to give more control for a device’s camera so it can be used to its full capabilities, and it will provide…</p><p><a href="https://gizmodo.com/android-15-preview-heads-developer-promise-more-privacy-1851264892">Read more...</a></p>
+
+## NASA’s Fire-in-Space Experiment Ends in Flames
+ - [https://gizmodo.com/nasa-fire-in-space-experiment-ends-in-flames-saffire-1851264484](https://gizmodo.com/nasa-fire-in-space-experiment-ends-in-flames-saffire-1851264484)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T18:37:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4f05afc7d3de659248e5b9a63cda4bca.jpg" /><p>After eight years of experimenting with flames in space, NASA lit a fire inside a cargo spacecraft for the last time and sent its Saffire experiment toward a burning reentry into Earth’s atmosphere.</p><p><a href="https://gizmodo.com/nasa-fire-in-space-experiment-ends-in-flames-saffire-1851264484">Read more...</a></p>
+
+## Florida Tops the List of Deadliest Places to Ride a Bike
+ - [https://gizmodo.com/the-deadliest-states-for-riding-a-bicycle-1851264624](https://gizmodo.com/the-deadliest-states-for-riding-a-bicycle-1851264624)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T17:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e096904502b401133e8f59034ec21f17.jpg" /><p>If you’re getting on a bicycle anytime soon in the great state of Florida, you may want to say goodbye to your family first. Cycling is dangerous no matter where you hit the road, but according to a new analysis of federal highway data, Florida takes 7 of the 10 top spots for biking deaths, as reported by <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.theguardian.com/us-news/2024/feb/13/florida-county-most-cyclist-deaths-bike" rel="noopener noreferrer" target="_blank">the Guardian</a>.<br /></p><p><a href="https://gizmodo.com/the-deadliest-states-for-riding-a-bicycle-1851264624">Read more...</a></p>
+
+## X-Men '97's Take on Morph Is Already Making Bigots Mad
+ - [https://gizmodo.com/x-men-97-morph-non-binary-marvel-disney-plus-1851264528](https://gizmodo.com/x-men-97-morph-non-binary-marvel-disney-plus-1851264528)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T17:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/fc1e55f2b4d46d36e0ea503e40a364de.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/x-men-97-trailer-breakdown-easter-eggs-krakoa-magneto-1851261936">X-Men ‘97's love-letter continuation</a> of the original X-Men animated series is not just a chance to revisit the world left behind by this particular take on Marvel mutantdom, but incorporate more ideas and interpretations of the metaphor mutantkind has provided across decades of comics. This is, of course, already…</p><p><a href="https://gizmodo.com/x-men-97-morph-non-binary-marvel-disney-plus-1851264528">Read more...</a></p>
+
+## Stone Age Megastructure Found at the Bottom of the Baltic Sea
+ - [https://gizmodo.com/stone-age-megastructure-found-at-the-bottom-of-the-balt-1851264285](https://gizmodo.com/stone-age-megastructure-found-at-the-bottom-of-the-balt-1851264285)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T17:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/abc8de3f1e1efa1f5fc597eeb6ab56ad.jpg" /><p>Divers working off the coast of Rostock, Germany, have found the broken-up remains of a wall on the bottom of the Baltic Sea. Researchers believe the Stone Age construction is over 10,000 years old, potentially making it the oldest human megastructure in Europe, and was likely used to herd prey during hunts.</p><p><a href="https://gizmodo.com/stone-age-megastructure-found-at-the-bottom-of-the-balt-1851264285">Read more...</a></p>
+
+## OpenAI's Effort to Trademark ‘GPT’ Crushed by Feds
+ - [https://gizmodo.com/openai-gpt-trademark-denied-us-patent-office-ai-1851263772](https://gizmodo.com/openai-gpt-trademark-denied-us-patent-office-ai-1851263772)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T17:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/aa65e682db19bdd031e486364f33b4f5.jpg" /><p>Ever since OpenAI debuted its ChatGPT chatbot in November 2022, effectively piquing the world’s interest in the technology and setting off an AI arms race, the company has been trying to prevent other businesses from using the acronym “GPT.” This month, the U.S. Patent and Trademark Office said the answer was “no”…</p><p><a href="https://gizmodo.com/openai-gpt-trademark-denied-us-patent-office-ai-1851263772">Read more...</a></p>
+
+## One of Dune's Biggest, Non-Spoiler Questions Is Answered in Sandworm Poop
+ - [https://gizmodo.com/dune-2-sandworms-thumpers-arrakis-denis-villeneuve-wb-1851256651](https://gizmodo.com/dune-2-sandworms-thumpers-arrakis-denis-villeneuve-wb-1851256651)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T16:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cc60db676aad929beab7323113e3bd28.jpg" /><p>You can’t talk about <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dune-part-2-denis-villeneuve-dave-bautista-stellan-wb-1851239206">the world of Dune</a> without talking about sandworms. The massive, monolithic creatures are at the heart of not just Frank Herbert’s original novel, but<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dune-2-trailer-timothee-chalamet-zendaya-warner-bros-1851092841"> both halves of Denis Villeneuve</a>’s epic film adaptation. And if you’re talking about sandworms, you’re probably going to talk about thumpers.</p><p><a href="https://gizmodo.com/dune-2-sandworms-thumpers-arrakis-denis-villeneuve-wb-1851256651">Read more...</a></p>
+
+## Universal Basic Income Has Been Tried Over and Over Again. It Works Every Time.
+ - [https://gizmodo.com/universal-basic-income-has-been-tried-over-and-over-aga-1851255547](https://gizmodo.com/universal-basic-income-has-been-tried-over-and-over-aga-1851255547)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/70562640429882fc5f1c54e4485369f7.jpg" /><p> As AI becomes a bigger and bigger part of our lives, the threat of job automation becomes an increasing possibility for many people. Lately, there’s been a lot of talk about <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/we-might-finally-get-a-basic-income-1843342132">universal basic income</a>, the experimental form of welfare distribution that gives unconditional cash payments to people so that they can meet…</p><p><a href="https://gizmodo.com/universal-basic-income-has-been-tried-over-and-over-aga-1851255547">Read more...</a></p>
+
+## New Google Feature Will Wait on Hold for You
+ - [https://gizmodo.com/google-feature-waits-on-hold-until-a-human-picks-up-1851264252](https://gizmodo.com/google-feature-waits-on-hold-until-a-human-picks-up-1851264252)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T16:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6de263e05a5663a1bad435dbcea58563.jpg" /><p>Google’s testing a new feature called “Talk to a Live Representative” that will contact businesses for you, navigate their phone trees, wait on hold, and then call you when a real human being is ready to chat. It could solve one of the more frustrating parts of dealing with corporations, and it brings us one step…</p><p><a href="https://gizmodo.com/google-feature-waits-on-hold-until-a-human-picks-up-1851264252">Read more...</a></p>
+
+## OpenAI’s Sora Is Coming for Your Video Games
+ - [https://gizmodo.com/openai-sora-is-coming-for-your-video-games-1851264042](https://gizmodo.com/openai-sora-is-coming-for-your-video-games-1851264042)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T15:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2d3c4b0a1c18fa7ed5e05a037b9c4ffb.png" /><p>OpenAI’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/openai-video-generator-sora-is-breathtaking-terrifying-1851261593">premier video generator Sora</a> shocked the world on Thursday with <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/openais-sora-is-a-giant-f-ck-you-to-reality-1851261587">worryingly realistic videos</a>, but the model seems even better at creating video game worlds. Sora has an uncanny ability to recreate Minecraft and “simulate digital worlds,” according to a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://openai.com/research/video-generation-models-as-world-simulators?ref=upstract.com" rel="noopener noreferrer" target="_blank">technical paper</a> from OpenAI published late last night,…</p><p><a href="https://gizmodo.com/ope
+
+## Updates From Joker: Folie a Deux and More
+ - [https://gizmodo.com/joker-folie-a-deux-2-joaquin-phoenix-lady-gaga-pictures-1851261864](https://gizmodo.com/joker-folie-a-deux-2-joaquin-phoenix-lady-gaga-pictures-1851261864)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/24b3fa2360374e9bcacb970507357702.png" /><p>Amazon has found itself the home of Flying Lotus’ new sci-fi thriller Ash. Gerard Butler is back to be menaced by comets in Greenland 2. Plus, what’s to come as True Detective: Night Country nears its end. Spoilers, away!<br /></p><p><a href="https://gizmodo.com/joker-folie-a-deux-2-joaquin-phoenix-lady-gaga-pictures-1851261864">Read more...</a></p>
+
+## The Best Big Phones You Can Buy Right Now
+ - [https://gizmodo.com/the-best-big-phones-samsung-appple-google-1851263107](https://gizmodo.com/the-best-big-phones-samsung-appple-google-1851263107)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T14:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/68b8cd9f8f5ad7b0f9140d2eca31786c.jpg" /><p>I don’t like big phones. They are cumbersome to carry, they don’t fit into most of my size of pockets or purses, and I’m constantly dropping them. I wasn’t made for larger phones. But I can’t deny that they have their advantages. The bigger the phone you go, the longer the battery you’ll have so you can watch TV and…</p><p><a href="https://gizmodo.com/the-best-big-phones-samsung-appple-google-1851263107">Read more...</a></p>
+
+## Air Canada Ordered to Pay Passenger Damages After Chatbot Lied About Bereavement Discounts
+ - [https://gizmodo.com/air-canada-chatbot-lied-bereavement-discount-refund-1851263670](https://gizmodo.com/air-canada-chatbot-lied-bereavement-discount-refund-1851263670)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f54db735d5ab64f75ef37346f25e2752.png" /><p>A Canadian tribunal has ruled that Air Canada must pay damages to one of its passengers for misleading advice given by its customer service chatbot, which resulted in the passenger paying nearly double for their plane tickets.</p><p><a href="https://gizmodo.com/air-canada-chatbot-lied-bereavement-discount-refund-1851263670">Read more...</a></p>
+
+## How to Screen Record on Android and iPhone
+ - [https://gizmodo.com/how-to-screen-record-on-android-and-iphone-1851262355](https://gizmodo.com/how-to-screen-record-on-android-and-iphone-1851262355)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-16T13:00:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/57b297695c2ea443b00e0d283fc24230.jpg"><source src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/57b297695c2ea443b00e0d283fc24230.mp4" type="video/mp4" /></video><p>Have you ever found yourself in a situation where you need your parents to perform a complicated (well, complicated for them) task on their phone, but they can’t quite follow written instructions? Well, let’s hope your folks are better visual learners. It’s easy to screen record on both <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/what-do-you-want-from-iphone-16-1851249512">iOS</a> and Android and now your…</p><p><a href="https://gizmodo.com/how-to-screen-record-on-android-and-iphone-1851262355">Read more...</a></p>
+
