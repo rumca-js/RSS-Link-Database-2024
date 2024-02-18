@@ -1,0 +1,16 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed/, language:en-US
+
+## GeekWire Podcast: OpenAI’s Sora, a new Amazon book, and 5 days a week in the office
+ - [https://www.geekwire.com/2024/geekwire-podcast-openais-sora-a-new-amazon-book-and-5-days-a-week-in-the-office](https://www.geekwire.com/2024/geekwire-podcast-openais-sora-a-new-amazon-book-and-5-days-a-week-in-the-office)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-17T16:32:04+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="709" src="https://cdn.geekwire.com/wp-content/uploads/2024/02/geekwire-podcast-openais-sora-a-1260x709.jpg" width="1260" /><br />This week on the GeekWire Podcast, stick around to the end for a late-breaking addition to the show — a bonus segment about OpenAI&#8217;s new text-to-video technology Sora. Joining us is Rahul Sood, CEO and co-founder of Irreverent Labs, a Seattle-area startup that is working on AI to turn images and text into video. Also on this week&#8217;s show:
+
+## Researchers take a freeze-frame reading of electrons energized in a stream of water
+ - [https://www.geekwire.com/2024/freeze-frame-electrons-water](https://www.geekwire.com/2024/freeze-frame-electrons-water)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-17T00:45:13+00:00
+
+<img alt="Illustration: Laser pulses used to probe an atom&#039;s excited electron" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2024/02/240216-attosecond-1260x945.jpg" width="1260" /><br />An international team of scientists has blazed a new trail for studying how atoms respond to radiation, by tracking the energetic movement of electrons when a sample of liquid water is blasted with X-rays. The experiment, described in this week&#8217;s issue of the journal Science, required &#8220;freezing&#8221; the motion of the atoms with which the electrons were associated, on a scale of mere attoseconds. An attosecond is one-quintillionth of a second &#8212; or, expressed another way, a millionth of a trillionth of a second. Attosecond-scale observations could provide scientists with new insights into how radiation exposure affects objects and people.&#8230; <a href="https://www.geekwire.com/2024/freeze-frame-electrons-wate
+

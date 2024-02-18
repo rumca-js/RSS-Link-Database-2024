@@ -1,0 +1,9 @@
+# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
+
+## Pluralistic: An excerpt from The Bezzle (17 Feb 2024)
+ - [https://pluralistic.net/2024/02/17/the-steve-soul-caper](https://pluralistic.net/2024/02/17/the-steve-soul-caper)
+ - RSS feed: https://pluralistic.net/feed
+ - date published: 2024-02-17T17:42:24+00:00
+
+Today's links An excerpt from The Bezzle: A George Clinton/Leonard Cohen-inspired royalty-theft caper. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading An excerpt from The Bezzle (permalink) Today, I'm bringing you an excerpt from Chapter 14 of The Bezzle, my next novel, which drops on Feb 20. It's an ice-cold revenge technothriller starring Martin Hench, a two-fisted forensic accountant specialized in high-tech fraud: https://us.macmillan.com/books/9781250865878/thebezzle Hench is the Zelig of high-tech fraud, a character who's spent 40 years in Silicon Valley unwinding every tortured scheme hatched by tech-bros who view the spreadsheet as a teleporter that whisks other peoples' money into their own bank-accounts. This setup is allowing me to write a whole string of these books, each of which unwinds a different scam from tech's past
+
