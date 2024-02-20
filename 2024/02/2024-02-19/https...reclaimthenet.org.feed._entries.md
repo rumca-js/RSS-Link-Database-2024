@@ -1,0 +1,42 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
+
+## Meta Is Expanding Its Controversial “Fact-Checking” Program to Other Platforms
+ - [https://reclaimthenet.org/meta-is-expanding-its-controversial-fact-checking-program-to-other-platforms](https://reclaimthenet.org/meta-is-expanding-its-controversial-fact-checking-program-to-other-platforms)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2024-02-19T19:40:54+00:00
+
+<a href="https://reclaimthenet.org/meta-is-expanding-its-controversial-fact-checking-program-to-other-platforms" rel="nofollow" title="Meta Is Expanding Its Controversial “Fact-Checking” Program to Other Platforms"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2024/02/threads-bg-scaled.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="2560" /></a><p>Threads starts rolling out a “fact-checking” program.</p>
+<p>The post <a href="https://reclaimthenet.org/meta-is-expanding-its-controversial-fact-checking-program-to-other-platforms">Meta Is Expanding Its Controversial “Fact-Checking” Program to Other Platforms</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## Facial Recognition Technology To Hit New Zealand Grocery Stores
+ - [https://reclaimthenet.org/facial-recognition-technology-to-hit-new-zealand-grocery-stores](https://reclaimthenet.org/facial-recognition-technology-to-hit-new-zealand-grocery-stores)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2024-02-19T17:42:40+00:00
+
+<a href="https://reclaimthenet.org/facial-recognition-technology-to-hit-new-zealand-grocery-stores" rel="nofollow" title="Facial Recognition Technology To Hit New Zealand Grocery Stores"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2024/02/new-zealand-face-scaled.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="2560" /></a><p>A major rollout of the controversial technology for the next six months.</p>
+<p>The post <a href="https://reclaimthenet.org/facial-recognition-technology-to-hit-new-zealand-grocery-stores">Facial Recognition Technology To Hit New Zealand Grocery Stores</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## Russia Creates Blacklist of YouTubers
+ - [https://reclaimthenet.org/russia-creates-blacklist-of-youtubers](https://reclaimthenet.org/russia-creates-blacklist-of-youtubers)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2024-02-19T17:32:19+00:00
+
+<a href="https://reclaimthenet.org/russia-creates-blacklist-of-youtubers" rel="nofollow" title="Russia Creates Blacklist of YouTubers"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2024/02/russ-yt-scaled.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="2560" /></a><p>A new move to force Russian citizens to use national platforms that are forced to abide by speech laws.</p>
+<p>The post <a href="https://reclaimthenet.org/russia-creates-blacklist-of-youtubers">Russia Creates Blacklist of YouTubers</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## House Republicans Accuse State Department of Threats To Obstruct Online Censorship Investigation
+ - [https://reclaimthenet.org/house-republicans-accuse-state-department-of-threats-to-obstruct-online-censorship-investigation](https://reclaimthenet.org/house-republicans-accuse-state-department-of-threats-to-obstruct-online-censorship-investigation)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2024-02-19T17:26:22+00:00
+
+<a href="https://reclaimthenet.org/house-republicans-accuse-state-department-of-threats-to-obstruct-online-censorship-investigation" rel="nofollow" title="House Republicans Accuse State Department of Threats To Obstruct Online Censorship Investigation"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2024/02/blinken-scaled.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="2560" /></a><p>If you're tired of censorship and dystopian threats against civil liberties, subscribe to Reclaim The Net. House Republicans are claiming that their investigation into government censorship of US companies is under threat by the State Department. The investigation has been focused on the State Department&#8217;s Global Engagement Center (GEC) providing financial support to the Global [&#8230;]</p>
+<p>The post <a href="https://reclaimthenet.org/house-republicans-accuse-state-department-of-threats-to-obs
+
+## Did the Leak of Alleged Russia National Security Threat Kill The Bill To Reform Warrantless Surveillance?
+ - [https://reclaimthenet.org/russia-national-security-threat-kill-the-bill-to-reform-warrantless-surveillance](https://reclaimthenet.org/russia-national-security-threat-kill-the-bill-to-reform-warrantless-surveillance)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2024-02-19T15:49:40+00:00
+
+<a href="https://reclaimthenet.org/russia-national-security-threat-kill-the-bill-to-reform-warrantless-surveillance" rel="nofollow" title="Did the Leak of Alleged Russia National Security Threat Kill The Bill To Reform Warrantless Surveillance?"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2024/02/fisa-delay-scaled.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="2560" /></a><p>At the last minute, a new excuse not to end warrantless surveillance is found.</p>
+<p>The post <a href="https://reclaimthenet.org/russia-national-security-threat-kill-the-bill-to-reform-warrantless-surveillance">Did the Leak of Alleged Russia National Security Threat Kill The Bill To Reform Warrantless Surveillance?</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+

@@ -1,0 +1,80 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed/, language:en-US
+
+## Democrat bill demands insurance companies report how many firearms you have in your home, or else
+ - [https://www.louderwithcrowder.com/insurance-gun-bill](https://www.louderwithcrowder.com/insurance-gun-bill)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-19T22:03:25+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=51505155&amp;width=1200&amp;height=800&amp;coordinates=245%2C0%2C246%2C0" /><br /><br /><p><a href="https://wyoleg.gov/InterimCommittee/2019/01-201910313-04Handout.pdf" rel="noopener noreferrer" target="_blank">Hitler </a>once said, ‚ÄúTo conquer a nation, first disarm its citizens.‚Äù</p><p>Can you think of anywhere in the United States where gun control has worked? Can you think of anywhere in the country where infringing on the Second Amendment has contributed to less crime? Can you think of anywhere in the nation where disarming law-abiding citizens have helped anyone? </p><p><a href="https://www.louderwithcrowder.com/gun-control-change-my-mind" target="_blank">Me neither.</a></p><p>That‚Äôs because gun control seems to always be concerned with taking guns away from people who are not only unlikely to commit a crime, but it does nothing to stop criminals from obtaining firearms. </p><p>So of course, pr
+
+## Watch: The shrill harpies from "The View" demand Trump be censored in debates, because otherwise, Biden will choke
+ - [https://www.louderwithcrowder.com/the-view-debate](https://www.louderwithcrowder.com/the-view-debate)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-19T22:01:19+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51505266&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>John Milton once <a href="https://socialsci.libretexts.org/Courses/Fresno_City_College/COMM_1%3A_Introduction_to_Public_Speaking/15%3A_Ethics_in_Public_Speaking/15.01%3A_Sources_of_Ethical_Stances_on_Communication_and_Public_Speaking#:~:text=One%20of%20the%20bases%20of,debate%20of%20all%20ideas%E2%80%9D%20originated." target="_blank">said </a>that ‚Äúthe truth will arise from debate of all ideas." </p><p>Most people can agree that debates are good for democracy and elections. </p><p>But according to the ladies on <em>The View, </em>that‚Äôs only true if conservatives are not allowed to speak. Because that‚Äôs what they think you do in a free country that respects the will of the people. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a href="https://twitter.com/NickFon
+
+## Pharmaceutically induced male breast milk is every bit as good as female breast milk, claims federal health agency
+ - [https://www.louderwithcrowder.com/nhs-male-milk](https://www.louderwithcrowder.com/nhs-male-milk)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-19T21:57:50+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=51504573&amp;width=1245&amp;height=700&amp;coordinates=0%2C180%2C0%2C181" /><br /><br /><p>I hate to state the obvious, but no mammal can produce milk unless it‚Äôs a female. Even the dumbest species among us know that. But the NHS is dumber than the most braindead animals in existence because they have just declared that biological males who ‚Äúlactate‚Äù due to receiving a hormonal pharmaceutical cocktail produce milk that is equally comparable to female breast milk.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a href="https://twitter.com/BreitbartLondon/status/1564306888476561409"></a>
+</blockquote>
+<p><a href="https://www.breitbart.com/europe/2024/02/19/drug-induced-transgender-chestfeeding-as-safe-as-milk-from-mothers-claims-nhs-trust/" rel="noopener noreferrer" target="_blank">According to <em>Breitbart</em></a><em>:</em></p><blockquote>A local t
+
+## Listen: KC mayor blasts MO Governor, accuses him of "dog whistle" for calling thugs who shot up Super Bowl parade "thugs"
+ - [https://www.louderwithcrowder.com/lucas-parson-thugs](https://www.louderwithcrowder.com/lucas-parson-thugs)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-19T17:55:20+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51504158&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p><a href="https://www.dictionary.com/browse/thug" target="_blank">According </a>to Dictionary.com, a ‚Äúthug‚Äù is ‚Äúa violent, lawless, or vicious person, especially one who commits a crime such as assault, robbery, or murder.‚Äù Nowhere in that definition does it mention race. Subsequently, anyone with a fraction of a brain would know that the word thug is not racist. </p><p>But Kansas City Mayor Quinton Lucas does not have a brain. Because he accused Missouri Gov. Mike Parson of using a racial ‚Äúdog whistle‚Äù when he called the suspected shooters at the Super Bowl ‚Äúthugs.‚Äù</p><p>But in reality, this makes Lucas the racist one considering he is now equating a thug with a certain race. And unlike Lucas, everyone reading this knows that race has nothing to do with whether or not someone is a ‚Äúviolent‚Äù and ‚Äúla
+
+## Watch: Black Harvard professor released study saying cops are not racially biased, he needed armed security as a result
+ - [https://www.louderwithcrowder.com/fryer-police-study](https://www.louderwithcrowder.com/fryer-police-study)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-19T17:49:42+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51503441&amp;width=1245&amp;height=700&amp;coordinates=71%2C0%2C12%2C0" /><br /><br /><p>People on the left tend to suffer from ‚Äúmotivated reasoning.‚Äù This is a social response in which individuals suffer from uncontrollable and emotionally motivated biases that often affect how facts or new information is perceived. This is also why we often see the media seek out and use information that confirms the leftist narrative, and ignore information that contradicts it. </p><p>There is a politically correct narrative one must adhere to concerning all things police and racism, or lack thereof. Everyone reading already knows that police are not by definition ‚Äúracist.‚Äù But facts are not something that leftists care about when it comes to much of anything. That is why ‚Äúall hell broke loose‚Äù when a professor at Harvard published a study that found no evidence of racial bias in police shootings.</p><blockq
+
+## Crowder exposes the APPALLING Trump NY ruling: "They want to send the message to you that if you have the wrong political point..."
+ - [https://www.louderwithcrowder.com/trump-civil-fraud](https://www.louderwithcrowder.com/trump-civil-fraud)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-19T17:04:13+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51503827&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>There is a double standard when it comes to Friday‚Äôs $355M fraud ruling against President Trump. Today‚Äôs show gets into that.</p><div class="rm-embed embed-media"></div><p>A judge <a href="https://www.youtube.com/watch?v=5WXysc7iuto&amp;list=RDNSDT5jDcXVm6E&amp;index=3" target="_blank">ruled </a>Friday that Trump and his company have been fined $354 million in the civil fraud case where the state argued that he inflated his net worth and falsified records in order to win favorable returns on loans. He is also barred from doing business in New York for three years.<br /></p><p>"What they are basically saying is that Donald Trump committed a crime when he gave the bank his opinion on the value of his property. He did exactly what anyone would do,‚Äù Crowder said. "They want to send the message to you that if you have t
+
+## Watch: TMZ manages to prove Ann Coulter's shocking claim RIGHT that the Super Bowl parade shooters weren't "white males"
+ - [https://www.louderwithcrowder.com/ann-coulter-super-bowl-parade](https://www.louderwithcrowder.com/ann-coulter-super-bowl-parade)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-19T13:39:09+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51502681&amp;width=2000&amp;height=1500&amp;coordinates=0%2C0%2C320%2C0" /><br /><br /><p>
+	I'm not sure if I'm still allowed to be complimentary of Ann Coulter. She has been critical of Donald Trump, and I know how much that hurts people's feelings. But she made an astute observation on Real Time with Bill Maher about the Super Bowl parade shooting and how we knew the shooters were not straight white men. A new TMZ video might provide some evidence to back that up.
+</p><p>
+	To recap, at a parade in Kansas City to celebrate the Chiefs winning the Super Bowl, <a href="https://www.louderwithcrowder.com/hero-tackles-kansas-city-shooter" target="_blank">there were shots fired</a>. A woman was killed, and multiple others were injured.
+</p><blockquote>
+<strong>LWC Next Gen Stats: Kansas City</strong><br />
+<li>Democrat Mayor Quinton Lewis won reelection in 2023 by 80%<br />
+<a href="https://www.kceb.org/useruplo
+
+## Watch: Rude customer messes around, finds out when teen blasts them in the face with a power hose
+ - [https://www.louderwithcrowder.com/indiana-car-wash](https://www.louderwithcrowder.com/indiana-car-wash)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-19T12:45:05+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51502265&amp;width=2000&amp;height=1500&amp;coordinates=160%2C0%2C161%2C0" /><br /><br /><p>There are two schools of thought when it comes to retail. One is the classic "the customer is always right." An opposing theory has been put forth by retail shopping expert Shannon Hamilton that says, "the customer is always an asshole." The video you are about to see falls into the latter category, where some schmuck threw a cup of lemonade at a car wash employee... who was armed.</p><p>Anna Harycki is an Indiana native working at the local car wash when a loser tossed her beverage out the window.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="22a77" src="https://www.louderwithcrowder.com/media-library/image.png?id=51502457&amp;width=980" />
+</p><p>The driver, in her rush to be a raging biyatch, didn't think her plan out. If you are going to throw something at a
+
+## Sources: Putin's Biggest Rival Dies in Gulag! Was He Russia's Trump?!
+ - [https://www.louderwithcrowder.com/sources-february-19-2024](https://www.louderwithcrowder.com/sources-february-19-2024)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-19T12:43:49+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51503126&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>We‚Äôre highlighting the double standard of Friday‚Äôs $355M Fraud ruling against President Trump, we‚Äôve got the whole story on longtime Putin critic Alexei Navalny who recently died in a Siberian prison colony, how the American Left falsely equates Trump to Putin, and more!</p><div class="rm-embed embed-media"></div><p><br /></p><p><strong>ALEXEI NAVALNY DIES; WHAT EVERYONE IS MISSING</strong></p><ul><li><a href="https://www.youtube.com/watch?v=guS87gDs5vg" rel="noopener noreferrer" target="_blank">Alexei Navalny, One of the Kremlin‚Äôs Most Vocal Critics, Has Died</a></li><li><a href="https://www.youtube.com/watch?v=guS87gDs5vg" rel="noopener noreferrer" target="_blank"></a><a href="https://www.aljazeera.com/news/2024/2/17/more-than-100-detained-at-navalny-memorials-in-russia-rights-group" rel="noopener noreferrer" t
+
