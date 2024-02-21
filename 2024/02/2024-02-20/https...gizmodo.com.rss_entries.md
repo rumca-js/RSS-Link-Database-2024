@@ -1,0 +1,156 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Disney Movie Club Is Ending Right When Physical Media Is Resurging
+ - [https://gizmodo.com/disney-movie-club-closing-blu-ray-dvd-physical-media-1851271856](https://gizmodo.com/disney-movie-club-closing-blu-ray-dvd-physical-media-1851271856)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T23:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/de957ba6e221cf04d3afd56ba5650bfe.jpg" /><p>Despite what <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/best-buy-plans-stop-selling-dvds-and-blu-rays-1850925457">Best Buy</a> will tell you, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/netflix-physical-scarecrow-video-dvd-by-mail-interview-1850887439">physical media</a>, including <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/prey-4k-bluray-dvd-predator-arnold-schwarzenegger-amber-1850884290">Blu-rays</a>, is back in style—spurred along by the panic that comes when <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/westworld-the-nevers-hbo-max-removal-is-coming-1849889571">streamers remove content</a> and a movie or TV show becomes suddenly very inaccessible. While most <a class="sc-1out364-
+
+## Signal's New Usernames Will Let You Keep Your Phone Number Private
+ - [https://gizmodo.com/signal-app-privacy-phone-numbers-usernames-meredith-whi-1851272341](https://gizmodo.com/signal-app-privacy-phone-numbers-usernames-meredith-whi-1851272341)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T22:57:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/28f0a2f3ebeb53ab0cdf3bf3937d21e5.jpg" /><p>For those who care about digital privacy, few apps are more beloved than <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/meredith-whittaker-new-president-of-signal-messaging-1849501653">Signal</a>. For years, the end-to-end encrypted messenger has  offered some of the best privacy protections on the web. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/signal-rolls-out-encrypted-group-video-calls-1845885669">Strong encryption</a>, zero subscription fees, and virtually <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/confused-feds-subpoena-signal-for-data-it-doesnt-collec-1846780583">no data collection</a>? What’s not to like? </p><p><a href="https://gizmodo.com/signal-app-privacy-phone-numbers-usernames-meredith-whi-1851272341">Read more.
+
+## Elon Musk Says Neuralink's First Patient Can Move a Computer Mouse With Their Thoughts
+ - [https://gizmodo.com/elon-musk-neuralink-patient-computer-mouse-with-thought-1851272510](https://gizmodo.com/elon-musk-neuralink-patient-computer-mouse-with-thought-1851272510)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T21:57:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ce52f44667ac67cbd3cd55a1c28c1566.jpg" /><p>The first human implanted with a Neuralink brain chip can control a computer mouse with their thoughts, Elon Musk claimed in an X Spaces event Monday. The anonymous patient has recovered fully, according to Musk, after <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/elon-musk-neuralink-brain-chip-first-human-x-twitter-1851207445">having a Neuralink chip implanted into their brain</a> just a few weeks ago.</p><p><a href="https://gizmodo.com/elon-musk-neuralink-patient-computer-mouse-with-thought-1851272510">Read more...</a></p>
+
+## Meet 'Groq,' the AI Chip That Leaves Elon Musk’s Grok in the Dust
+ - [https://gizmodo.com/meet-groq-ai-chip-leaves-elon-musk-s-grok-in-the-dust-1851271871](https://gizmodo.com/meet-groq-ai-chip-leaves-elon-musk-s-grok-in-the-dust-1851271871)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T21:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ce054f1d16864c1c7c88ef982343460f.jpg" /><p>Groq, an AI chip company, wants everyone to forget about Elon Musk’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/enter-grok-elon-musks-anti-woke-chatbot-1850994584">snarky chatbot with nearly the same name, Grok</a>. Lightning-fast demos from Groq went viral this weekend,  making current versions of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/openai-chatgpt-probably-won-t-make-bioweapon-1851214338">ChatGPT</a>, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/googles-gemini-ai-keeps-your-conversations-three-years-1851253573">Gemini</a> and even Grok look sluggish. Groq claims to provide “the world’s fastest large language models,” and…</p><p><a href="https://gizmodo.com/meet-groq-ai-chip-leaves-elon-musk-s-grok-in-the-dust-185127
+
+## Nesting Doll Stars Proposed as Solution to General Relativity
+ - [https://gizmodo.com/nesting-gravastars-solution-general-relativity-einstein-1851265012](https://gizmodo.com/nesting-gravastars-solution-general-relativity-einstein-1851265012)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T21:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/332726213e877bd0f33608849c5ea121.jpg" /><p>If you asked an astrophysicist what is yet to be discovered in the universe, there’s a good chance they’d paraphrase Donald Rumsfeld: It’s full of known unknowns. </p><p><a href="https://gizmodo.com/nesting-gravastars-solution-general-relativity-einstein-1851265012">Read more...</a></p>
+
+## Elizabeth Warren Reveals ‘Dream Blunt Rotation’ as Crypto Fanatic Launches Bid Against Her
+ - [https://gizmodo.com/elizabeth-warren-reveals-dream-blunt-rotation-as-cryp-1851270953](https://gizmodo.com/elizabeth-warren-reveals-dream-blunt-rotation-as-cryp-1851270953)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T20:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f5778b7012587dfdf635b35fe7d3daf2.png" /><p>One of the most pressing questions in American politics has finally been answered: Who would Elizabeth Warren most want to smoke copious amounts of weed with?</p><p><a href="https://gizmodo.com/elizabeth-warren-reveals-dream-blunt-rotation-as-cryp-1851270953">Read more...</a></p>
+
+## What Drew Noomi Rapace to Constellation?
+ - [https://gizmodo.com/what-drew-noomi-rapace-to-constellation-1851265349](https://gizmodo.com/what-drew-noomi-rapace-to-constellation-1851265349)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/26bcd413afd0ce3f7c5228fe209cdc15.jpg" /><p><a href="https://gizmodo.com/what-drew-noomi-rapace-to-constellation-1851265349">Read more...</a></p>
+
+## Helldivers 2 Is Giving Starship Troopers the Renaissance It Deserves
+ - [https://gizmodo.com/helldivers-2-starship-troopers-movie-disney-1851271784](https://gizmodo.com/helldivers-2-starship-troopers-movie-disney-1851271784)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T19:43:08+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8d484f58aef8f338a3809ca605677804.jpg" /><p>This story <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/helldivers-2-starship-troopers-movie-disney-1851269272">originally appeared on Kotaku</a>.</p><p><a href="https://gizmodo.com/helldivers-2-starship-troopers-movie-disney-1851271784">Read more...</a></p>
+
+## New Weight Loss Drugs Show Promise in Reducing Opioid Cravings
+ - [https://gizmodo.com/glp1-drugs-weight-loss-opioid-cravings-addiction-1851271171](https://gizmodo.com/glp1-drugs-weight-loss-opioid-cravings-addiction-1851271171)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T19:31:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a5803b2cbb9ef2a761e4278116c89645.jpg" /><p>Medications used to treat diabetes and obesity may also show promise in reducing opioid cravings, recently released research suggests. The small study found that people with opioid use disorder who took the GLP-1 drug liraglutide reported noticeably fewer cravings afterward. The findings are the latest to indicate…</p><p><a href="https://gizmodo.com/glp1-drugs-weight-loss-opioid-cravings-addiction-1851271171">Read more...</a></p>
+
+## Hackers Got PSP Games Running on a PlayStation Portal, Making It Almost Useful
+ - [https://gizmodo.com/google-hacker-run-psp-games-on-playstation-portal-1851271425](https://gizmodo.com/google-hacker-run-psp-games-on-playstation-portal-1851271425)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T19:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/970791fd1463d2dbeb30071974cfc309.jpg" /><p>Sony’s $200 <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/playstation-portal-review-ps5-performance-1851039484">PlayStation Portal</a> is one step closer to being an actually fun device. Out of the box, the Portal can only stream games from a PS5, and users are barred from remotely accessing the company’s sizable cloud gaming library service. But now, thanks to two Google engineers, you may soon be able to hack the…</p><p><a href="https://gizmodo.com/google-hacker-run-psp-games-on-playstation-portal-1851271425">Read more...</a></p>
+
+## This Concept Art for an Animated Batman Beyond Movie Pitch Is Extremely Schway
+ - [https://gizmodo.com/batman-beyond-animated-movie-concept-art-spider-verse-1851271478](https://gizmodo.com/batman-beyond-animated-movie-concept-art-spider-verse-1851271478)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3badce26f3448a44929c07481cc9789f.jpg" /><p>There’s already <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dc-comics-public-domain-batman-superman-wonder-woman-wb-1851177451">plenty of Batman</a> coming in James Gunn’s new DC universe, between Brave and the Bold and the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/let-nic-cage-play-egghead-in-the-batman-sequel-you-cow-1848661979">sequel to The Batman</a>. But hey, it’s Batman, and when has DC been known to not simply keep doing even more Batman? Which is why this incredible concept art for a Beyond movie, by the way of Spider-Verse, has us…</p><p><a href="https://gizmodo.com/batman-beyond-animated-movie-concept-art-spider-verse-1851271478">Read more...</a></p>
+
+## Everything You Should Know About the PlayStation 5 'Pro'
+ - [https://gizmodo.com/playstation-5-pro-1851271262](https://gizmodo.com/playstation-5-pro-1851271262)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T18:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/292f83d476371e2e79eb36eaf118da75.jpg" /><p>Are you disappointed that <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/nintendo-switch-2-1851242349">Nintendo may not release the Switch 2 in 2024</a>? Well, Sony may have something to bandage your bleeding heart. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/sony-playstation-ps5-pro-rumors-2024-1851089598">The PlayStation 5 Pro</a>, rumored as “Project Viola,” may be looking for space in consumer’s carts sometime later this year. Just as past upgraded PlayStation models of past console…</p><p><a href="https://gizmodo.com/playstation-5-pro-1851271262">Read more...</a></p>
+
+## Viral Story About Kid Rock Canceling New York Tour Dates to Support Trump Is Totally Fake
+ - [https://gizmodo.com/viral-story-kid-rock-canceling-tour-dates-trump-is-fake-1851271186](https://gizmodo.com/viral-story-kid-rock-canceling-tour-dates-trump-is-fake-1851271186)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T18:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/be532de88813511c6c249c513fd07a58.jpg" /><p>Have you seen on social media that Kid Rock and Jason Aldean are canceling their New York tour dates? The story, which is going viral on X, insists the musicians are doing it to support Donald Trump after a New York judge ordered the former president to pay $355 million last week. But it’s completely fake.<br /></p><p><a href="https://gizmodo.com/viral-story-kid-rock-canceling-tour-dates-trump-is-fake-1851271186">Read more...</a></p>
+
+## Cate Blanchett Stuns in First Look at Inevitably Bad Borderlands Movie
+ - [https://gizmodo.com/borderlands-movie-first-look-cate-blanchett-lilith-1851270978](https://gizmodo.com/borderlands-movie-first-look-cate-blanchett-lilith-1851270978)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T17:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2457ca84801234b47a3b171ff0e3b7bf.png" /><p>If it feels like you’ve been hearing about the Borderlands movie for an awfully long time, well—our first glimpse of Cate Blanchett as red-headed bounty hunter Lilith <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/borderlands-first-look-at-cate-blanchett-as-lilith-is-1847007420">came in June 2021</a>. Now we have a much better look at her character beyond that enigmatic silhouette, and she looks great. The movie itself, well... TBD.<br /></p><p><a href="https://gizmodo.com/borderlands-movie-first-look-cate-blanchett-lilith-1851270978">Read more...</a></p>
+
+## Fastest-Growing Black Hole Is Eating a Sun Per Day
+ - [https://gizmodo.com/fastest-growing-black-hole-is-eating-a-sun-per-day-1851270789](https://gizmodo.com/fastest-growing-black-hole-is-eating-a-sun-per-day-1851270789)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1ab0b132d7aea559d43735e69552213c.jpg" /><p>Our Sun is about 330,000 times the mass of Earth, yet it is dwarfed by the black holes that lurk at the centers of galaxies. A team of astronomers recently found the fastest-growing of this group: a 17-billion solar mass black hole in the distant universe, which is growing at the rate of one solar mass per day.</p><p><a href="https://gizmodo.com/fastest-growing-black-hole-is-eating-a-sun-per-day-1851270789">Read more...</a></p>
+
+## Odysseus Lander Snaps Gorgeous Photos of Earth Ahead of Moon Landing
+ - [https://gizmodo.com/odysseus-lander-first-photos-moon-intuitive-machines-1851270366](https://gizmodo.com/odysseus-lander-first-photos-moon-intuitive-machines-1851270366)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T16:36:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0470296318808677222092b505fcbb9c.jpg" /><p>Intuitive Machines’ Odysseus is gearing up for its attempt at a potentially historic landing on the Moon’s surface later this week. Things are looking good so far for the lunar lander, which beamed back breathtaking views of Earth from space.</p><p><a href="https://gizmodo.com/odysseus-lander-first-photos-moon-intuitive-machines-1851270366">Read more...</a></p>
+
+## If You Own a Wyze Cam, Strangers Might Have Watched You on Friday
+ - [https://gizmodo.com/if-you-own-a-wyze-cam-strangers-might-have-watched-you-1851270553](https://gizmodo.com/if-you-own-a-wyze-cam-strangers-might-have-watched-you-1851270553)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/fa0b55a12b8b740e7c255de88f5d31ba.jpg" /><p>Home surveillance company Wyze announced a glitch caused some 13,000 customers to see each other’s camera footage on Friday, according to a report in <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.theverge.com/2024/2/19/24077233/wyze-security-camera-breach-13000-customers-events" rel="noopener noreferrer" target="_blank">The Verge</a>. The company originally disclosed the breach last week, but said it had only identified 14 affected customers. As it turns out, the tally adds up to a few more…</p><p><a href="https://gizmodo.com/if-you-own-a-wyze-cam-strangers-might-have-watched-you-1851270553">Read more...</a></p>
+
+## Reddit Signs $60 Million Deal to Scrape Your Online Community for AI Parts: Report
+ - [https://gizmodo.com/reddit-signs-deal-scrape-your-online-community-ai-parts-1851270475](https://gizmodo.com/reddit-signs-deal-scrape-your-online-community-ai-parts-1851270475)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T15:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d0414f49d9533924154457c7fa175b8a.jpg" /><p>Reddit reportedly signed a $60 million deal with a “large AI company” to allow its online communities to be <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/reddit-blackout-protest-traffic-back-up-subreddit-1850570817">scraped for AI training data</a>, according to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.bloomberg.com/news/articles/2024-02-16/reddit-is-said-to-sign-ai-content-licensing-deal-ahead-of-ipo?sref=P6Q0mxvj" rel="noopener noreferrer" target="_blank">Bloomberg</a> on Friday. The unnamed AI company will sift through millions of posts on Reddit, and train a large language model on Reddit’s threads.</p><p><a href="https://gizmodo.com/reddit-signs-deal-scrape-your-online-community-ai-parts-1851270475">Read more...</a></p>
+
+## Son of Former YouTube CEO Susan Wojcicki Found Dead in Dorm
+ - [https://gizmodo.com/marco-troper-dies-son-of-youtube-ceo-susan-wojcicki-1851270134](https://gizmodo.com/marco-troper-dies-son-of-youtube-ceo-susan-wojcicki-1851270134)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/16be7a4f94f76a277f895fd766378234.jpg" /><p>Marco Troper, the 19-year-old son of former YouTube CEO Susan Wojcicki, was found dead last week in his dorm room at the University of Berkeley.<br /></p><p><a href="https://gizmodo.com/marco-troper-dies-son-of-youtube-ceo-susan-wojcicki-1851270134">Read more...</a></p>
+
+## The New Civil War Trailer Sets Lincoln's Legacy on Fire
+ - [https://gizmodo.com/civil-war-new-trailer-alex-garland-american-war-dystopi-1851265954](https://gizmodo.com/civil-war-new-trailer-alex-garland-american-war-dystopi-1851265954)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e8d1fd092378270f59bd9710c5e9cd9e.jpg" /><p>We’ve already gotten <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/civil-war-2024-trailer-alex-garland-kirsten-dunst-a24-1851094318">one scary look at Civil War</a>, and the new trailer for <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/28-years-later-zombie-danny-boyle-alex-garland-sequel-1851157453">Alex Garland</a>’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/sci-fi-visionary-alex-garland-details-his-discomfort-wi-1838828482">near-future</a> action thriller is just as chilling—it’s light on fresh plot details, but heavy on disturbing atmosphere. America has splintered into factions at war with each other, with civilians, cities, and even beloved national…</p><p><a href="https://gizmodo.com/civil-war-new-trailer-alex-garland-a
+
+## Apple Officially Warns Users Not to Put Wet iPhones in Rice
+ - [https://gizmodo.com/apple-warning-against-wet-iphone-rice-bath-heat-1851269963](https://gizmodo.com/apple-warning-against-wet-iphone-rice-bath-heat-1851269963)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T12:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/36fa25b63f8862ff3ada8c476431a49a.jpg" /><p>Saving a wet iPhone by putting it in a bowl or bag of uncooked rice has been a popular go-to rescue methods for years, with the logic being that the rice absorbs the excess water from the phone. However, the God of iPhones has recently come out to warn poor mortals against resorting to rice in these situations, saying…</p><p><a href="https://gizmodo.com/apple-warning-against-wet-iphone-rice-bath-heat-1851269963">Read more...</a></p>
+
+## Fujifilm X100VI Hands-on: One Hell of a Snappy Digital Camera for the TikTok Generation
+ - [https://gizmodo.com/fujifilm-x100vi-hands-on-1851265192](https://gizmodo.com/fujifilm-x100vi-hands-on-1851265192)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2024-02-20T06:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2591b6a082f2083eda6f241aa2cfa48d.jpg" /><p>Sometimes, or–hell–most of the time, you need something simple to remind you of life’s simple pleasures. The newly-announced X100VI camera from Fujifilm can <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/digital-camera-sensor-best-explained-crop-full-frame-1850094987">capture some of those golden moments</a> with some impressive depth of color. Still, the $1,600 digital camera and the return of the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/fujifilms-new-x100v-could-make-a-great-everyday-travel-1841450474">still-popular X100 lineup</a> itself…</p><p><a href="https://gizmodo.com/fujifilm-x100vi-hands-on-1851265192">Read more...</a></p>
+

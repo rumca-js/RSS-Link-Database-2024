@@ -1,0 +1,366 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Nitro Deck Nintendo Switch Controller Bundles Get Limited-Time Discounts
+ - [https://www.gamespot.com/articles/nitro-deck-nintendo-switch-controller-bundles-get-limited-time-discounts/1100-6519892/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nitro-deck-nintendo-switch-controller-bundles-get-limited-time-discounts/1100-6519892/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T22:07:00+00:00
+
+<div class="norewrite" title="6519892 - CRKD Nitro Deck Deal">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4252382-nitrodeckmodule.png" />                                 <a href="https://www.amazon.com/dp/B0CGMDN95S?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/dp/B0CGMDN95S?tag=gamespot-promos-20">Nitro Deck Controller + Carrying Case Bundles</a>           </p>                         
+
+## The History Of Final Fantasy 7
+ - [https://www.gamespot.com/videos/the-history-of-final-fantasy-7/2300-6463446](https://www.gamespot.com/videos/the-history-of-final-fantasy-7/2300-6463446)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T22:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4261840-historyof_ff7_site.jpg" width="480" /> Final Fantasy 7 has gone down in the history books as one of the greatest and most influential video games of all time. To celebrate the release of Final Fantasy 7 Rebirth, let’s take a look at the history of Final Fantasy VII.
+
+## People Really Want Helldivers 2 On Xbox, Including Some PlayStation Fans
+ - [https://www.gamespot.com/articles/people-really-want-helldivers-2-on-xbox-including-some-playstation-fans/1100-6521227/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/people-really-want-helldivers-2-on-xbox-including-some-playstation-fans/1100-6521227/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T21:38:00+00:00
+
+<p dir="ltr"><a href="https://www.gamespot.com/games/helldivers-2/">Helldivers 2</a>, one of 2024's most well-received games so far, launched exclusively on PlayStation 5 and PC. And since its release, it's been not just Xbox players, but also those on PlayStation who have been pleading with Arrowhead Game Studios to port the game to Xbox.</p><p dir="ltr">This trend recently started to gain a lot of traction when Xbox boss <a href="https://www.gamespot.com/articles/xbox-confirms-four-first-party-games-are-coming-to-playstation-and-nintendo-switch/1100-6521128/">Phil Spencer announced that four unnamed Xbox exclusives will be making their way to PlayStation and Nintendo Switch</a>. Coincidentally, this was around the same time that a challenging in-game Helldivers 2 event began, which revolves around Automatons invading human-controlled planets.</p><p dir="ltr">Following the Xbox announcement and the Automatons invasion, some PlayStation players have been asking for support, s
+
+## Halo Devs Pitched A "Really Dark" Halo Game, And Many More That Never Got Made
+ - [https://www.gamespot.com/articles/halo-devs-pitched-a-really-dark-halo-game-and-many-more-that-never-got-made/1100-6521225/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/halo-devs-pitched-a-really-dark-halo-game-and-many-more-that-never-got-made/1100-6521225/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T21:08:00+00:00
+
+<p>A former Halo developer has commented on the many ideas for new Halo games that were pitched to higher-ups, including one concept that was "really dark."</p><p>Kevin Schmitt, who worked at 343 Industries for 12 years, <a href="https://twitter.com/kevindschmitt/status/1759296817689395286">replied to a thread on social media</a> about ideas for Halo games that never got made. Schmitt said the team pitched as many as 30 games that he believed would have "totally worked in the Halo universe."</p><p>"Many [single-player] &amp; [multiplayer] ODST-themed ones. Some galaxy-spanning, some more intimate…and one that was really dark. lol," he wrote.</p><a href="https://www.gamespot.com/articles/halo-devs-pitched-a-really-dark-halo-game-and-many-more-that-never-got-made/1100-6521225/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Sony Loses $10 Billion In Market Value Due To PS5 Sales Forecast Cut
+ - [https://www.gamespot.com/articles/sony-loses-10-billion-in-market-value-due-to-ps5-sales-forecast-cut/1100-6521224/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/sony-loses-10-billion-in-market-value-due-to-ps5-sales-forecast-cut/1100-6521224/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T20:30:00+00:00
+
+<p dir="ltr">Last week, Sony significantly decreased its forecast for the number of PS5s it expects to sell before the end of March, from 25 million down to 21 million. Following this, the company's stock dropped roughly $10 billion in value. However, according to <a href="https://www.cnbc.com/2024/02/19/sony-gaming-margin-questioned-after-ps5-sales-cut-sparks-stock-plunge.html">CNBC</a>, analysts say that the declining margins in Sony's core gaming business might be the bigger worry.</p><p dir="ltr">Sony's operating margin in the gaming business was just 6% last quarter, compared to 9% in the corresponding quarter of 2022. One equity analyst, Atul Goyal, told CNBC that they would expect the margins to be higher than single-digits due to "various tailwinds," making the number especially disappointing. Goyal also cited Sony's record-breaking revenue in digital sales, add-on content, and downloads as other reasons why the margin should be higher. Another analyst, Serkan Toto, s
+
+## Grab The Entire Three-Body Problem Series For Cheap Ahead Of Its Netflix Adaptation
+ - [https://www.gamespot.com/articles/grab-the-entire-three-body-problem-series-for-cheap-ahead-of-its-netflix-adaptation/1100-6521188/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/grab-the-entire-three-body-problem-series-for-cheap-ahead-of-its-netflix-adaptation/1100-6521188/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T20:21:00+00:00
+
+<p dir="ltr">One of Netflix's soon-to-be released series, 3 Body Problem, is an adaptation of the <a href="https://www.amazon.com/Three-Body-Problem-Boxed-Set-Remembrance/dp/1250254493?tag=gamespot-promos-20">Remembrance of Earth's Past trilogy</a> of sci-fi novels written by Cixin Liu and translated into English by Ken Liu and Joel Martinsen. The Remembrance of Earth's Past follows humanity through multiple time periods after they make contact with a hostile alien civilization that is on course to invade Earth in a few hundred years. The series is considered one of the best modern sci-fi stories, nabbing numerous accolades, including the Hugo Award, for its exploration of theoretical physics and other scientific concepts in an accessible and entertaining way.</p><p dir="ltr"><a href="https://www.gamespot.com/articles/netflixs-3-body-problem-gets-first-trailer-at-ces-2024-watch-it-now/1100-6520216/">Netflix's 3 Body Problem</a> is produced by Game of Thrones showrunners David
+
+## Lego Is Teasing A Collaboration With D&D
+ - [https://www.gamespot.com/articles/lego-is-teasing-a-collaboration-with-dd/1100-6521223/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/lego-is-teasing-a-collaboration-with-dd/1100-6521223/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T20:07:00+00:00
+
+<p>After years of making Dungeons and Dragons (D&amp;D)-adjacent builds and minifigs, it appears that Lego will now collaborate with D&amp;D to make official sets.</p><p dir="ltr">The news comes from the <a href="https://twitter.com/LEGO_Group/status/1759623921005982013">official Lego X/Twitter account</a>, where it posted a video of a Gelatinous Cube, an iconic D&amp;D monster, consuming various legos. The post reads:</p><p dir="ltr">"Time to party up. We're oozing with anticipation! Are you ready to build awesome adventures? #LEGODnD"</p><a href="https://www.gamespot.com/articles/lego-is-teasing-a-collaboration-with-dd/1100-6521223/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Dune 2 Box Office: Here's How Much The Movie Could Make In First Weekend
+ - [https://www.gamespot.com/articles/dune-2-box-office-heres-how-much-the-movie-could-make-in-first-weekend/1100-6521222/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dune-2-box-office-heres-how-much-the-movie-could-make-in-first-weekend/1100-6521222/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:49:00+00:00
+
+<p>Dune: Part II releases in theaters March 1, but how much money is the star-studded sci-fi film expected to make for its first weekend?</p><p>The film is projected to make between $60 million and $80 million in the US alone for its first weekend, <a href="https://variety.com/2024/film/features/dune-2-box-office-revive-hollywood-denis-villeneuve-sequel-1235907288/">according to Variety</a>. If it can reach those heights, it would be the first movie to crack $50 million over its first weekend since Five Nights at Freddy's in October 2023.</p><div>          </div><p>For comparison, 2021's Dune earned $41 million in the US for its opening weekend, going on to bank $400 million over the course of its theatrical run worldwide. That movie was released simultaneously in theaters and on Max (then known as HBO Max) due to the pandemic.</p><a href="https://www.gamespot.com/articles/dune-2-box-office-heres-how-much-the-movie-could-make-in-first-weekend/1100-6521222/?ftag=CAD-01-10abi2f
+
+## Lady Gaga Not Only Figures Out What Fortnite Is, But She's Also Coming To The Game
+ - [https://www.gamespot.com/articles/lady-gaga-not-only-figures-out-what-fortnite-is-but-shes-also-coming-to-the-game/1100-6521220/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/lady-gaga-not-only-figures-out-what-fortnite-is-but-shes-also-coming-to-the-game/1100-6521220/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:27:00+00:00
+
+<p dir="ltr">A star is about to be born in Fortnite. Actress and pop icon Lady Gaga has teased her addition to Fortnite Festival on February 22, years after asking what the game was on social media and rumors swirling about her appearing in the massively popular title.</p><p dir="ltr"><a href="https://twitter.com/ladygaga/status/1759986415415459972">On X</a> (formerly known as Twitter), Lady Gaga hilariously riffed on one of her posts from over four years ago to make her Fortnite debut official. In October 2019, <a href="https://www.gamespot.com/articles/what-is-fortnite-who-is-ninja-lady-gaga-continues-/1100-6470584/">she asked "what's fortnight,"</a> and today, the musician corrected herself with "*fortnite" and a teaser image of her skin in Fortnite Festival. (Another amusing part of the 2019 post is popular streamer Ninja answering her "fortnight" question, to which Gaga replied: "who are you.")</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">*fortni
+
+## Minecraft Adds Official Mods This Month As A Test, Third-Party Mods Still Supported
+ - [https://www.gamespot.com/articles/minecraft-adds-official-mods-this-month-as-a-test-third-party-mods-still-supported/1100-6521196/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/minecraft-adds-official-mods-this-month-as-a-test-third-party-mods-still-supported/1100-6521196/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:27:00+00:00
+
+<p>Minecraft is still growing and evolving, as Mojang and Microsoft have confirmed that a new type of DLC, add-ons, are coming to the Minecraft Marketplace.</p><p>Mojang said fans can think of add-ons as mods in that they "change the way that things in the game look and behave." These add-ons, which can be added to existing worlds, allow players to set custom blocks, items, mobs, recipes, and whatever else they can think of.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Add-ons are here! Starting today, you can easily add custom blocks, items, mobs, recipes, and other game content to your Minecraft worlds on <a href="https://twitter.com/hashtag/NintendoSwitch?src=hash&amp;ref_src=twsrc^tfw">#NintendoSwitch</a>! <a href="https://t.co/1atT41aep2">pic.twitter.com/1atT41aep2</a></p>  — Nintendo of America (@NintendoAmerica) <a href="https://twitter.com/NintendoAmerica/status/1760001378179514760?ref_src=twsrc^tfw">February 20, 2024</a></blockquote>         
+
+## Nightingale Guides Hub
+ - [https://www.gamespot.com/articles/nightingale-guides-hub/1100-6521174/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-guides-hub/1100-6521174/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:27:00+00:00
+
+<p>The story of <a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a> takes place at a time when society's collapse caused intrepid explorers to search the Faewilds. This leads to countless adventures, as you and your friends create portals that take you to new realms. Our Nightingale guides hub should aid you as you set forth on your journey.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">Nightingale guides hub</a><ul><li><a href="https://www.gamespot.com">General info and basic guides</a></li></ul></div><h2 id="Nightingale_guides_hub">Nightingale guides hub</h2><p>Our Nightingale guides are divided into several sections. Each one pertains to a particular facet of the game.</p><h3 id="General_info_and_basic_guides">General info and basic guides</h3><p><a href="https://www.gamespot.com/articles/nightingale-fast-tra
+
+## Activision Removes Most Expensive Call Of Duty Bundle Ever Due To "Pricing Error"
+ - [https://www.gamespot.com/articles/activision-removes-most-expensive-call-of-duty-bundle-ever-due-to-pricing-error/1100-6521221/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/activision-removes-most-expensive-call-of-duty-bundle-ever-due-to-pricing-error/1100-6521221/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:26:00+00:00
+
+<p>The price of certain weapon skins and other cosmetics has steadily creeped up in recent years, and some Call of Duty players recently raised their eyebrows at the Gassed Up Weapon Vault Bundle, which cost 3400 COD points ($34). Now, Activision has removed the bundle from <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-ii/">Modern Warfare 3</a> and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a>, saying in a post on X that the bundle suffered from a "pricing error."</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">❗️ <a href="https://twitter.com/hashtag/MW3?src=hash&amp;ref_src=twsrc^tfw">#MW3</a> <a href="https://twitter.com/hashtag/Warzone?src=hash&amp;ref_src=twsrc^tfw">#Warzone</a><br />The Gassed Up Weapon Vault Bundle has been temporarily removed from the Store due to a pricing error. The intended price is 2,400 COD Points.<br />Players who purchased this Bundle for 3,400 COD Points will soon be refun
+
+## Nightingale - How To Fast Travel And Use Estate Cairns
+ - [https://www.gamespot.com/articles/nightingale-fast-travel-estate-cairn-guide/1100-6521175/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-fast-travel-estate-cairn-guide/1100-6521175/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:25:00+00:00
+
+<p>There are numerous worlds to explore in <a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a>. However, only one can be truly called your home. You also need a particular structure to help with your base. Here's our guide on how to fast travel and use Estate Cairns in Nightingale.</p><h2>How to fast travel and use Estate Cairns in Nightingale</h2><p>The Nightingale fast travel system is primarily done by way of an object called the Estate Cairn. This structure can only be built in Abeyance Realms, and it requires 20x Rocks and 5x Stone Block.</p><h3>The functions of the Estate Cairn</h3><p>Upon placing an Estate Cairn and activating it, the Abeyance Realm that you're in will be saved as your home realm. Regardless of whichever world you go to, you can always fast-travel back to your home realm by opening the map and clicking on the "Travel to Respite Realm" button. Be forewarned that you might not be able to return to the same world that yo
+
+## Nightingale - How To Get Gems, Ore, And Ingots
+ - [https://www.gamespot.com/articles/nightingale-gems-ore-ingots-glass-guide/1100-6521176/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-gems-ore-ingots-glass-guide/1100-6521176/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:24:00+00:00
+
+<p>You're going to have to farm a lot of materials that are needed for crafting in <a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a>. Some of these are available fairly early in the campaign. Here's our guide on how to get Gems, Ore, and Ingots in Nightingale.</p><h2>How to get Gems, Ore, and Ingots in Nightingale</h2><p>You can get Gems and Ore by using a Simple Mining Pick to break apart mineral deposits. Here's a quick summary:</p><ul><li>The Simple Mining Pick is crafted via a Simple Workbench. It requires 1x Stone Block, 1x Wood Bundle, and 2x Straps.  <ul><li>Stone Blocks and Wood Bundles are readily gathered by breaking down stone and chopping down trees with a Mining Pick and Wood Axe, respectively.</li><li>Straps, meanwhile, need to be crafted by placing <a href="https://www.gamespot.com/articles/nightingale-animal-meat-leather-hide-guide/1100-6521179/"><strong>Animal Hides</strong></a> in a Tanning Rack.</li></ul></li><li>Mineral
+
+## Nightingale - How To Get More Essence
+ - [https://www.gamespot.com/articles/nightingale-essence-farm-guide/1100-6521177/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-essence-farm-guide/1100-6521177/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:23:00+00:00
+
+<p>You're going to need a certain currency if you want to purchase blueprints or repair your gear in <a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a>. Thankfully, there are ways for you to amass this resource. Here's our guide on how to get more Essence in Nightingale.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to get more Essence in Nightingale</a></li></ul></div><h2 id="How_to_get_more_Essence_in_Nightingale">How to get more Essence in Nightingale</h2><p>You can get more Essence through the following means:</p><ul><li>Use the "Extract" option on unneeded resources.</li><li>Collect from enemy drops.</li><li>Obtain from treasure chests.</li><li>Acquire as clusters in mini-dungeons.</li></ul><p>Note that there are four Essence tiers denoting their rarity. You should be able to amass higher-tier Essences
+
+## Nightingale - How To Cook Food And Manage Hunger
+ - [https://www.gamespot.com/articles/nightingale-cook-food-hunger-guide/1100-6521178/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-cook-food-hunger-guide/1100-6521178/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:19:00+00:00
+
+<p><a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a> is an open-world survival game. We should emphasize the word "survival" since there's one particular mechanic that can cause hassles to no end, leading to unexpected character deaths. Here's our guide on how to cook food and manage hunger in Nightingale.</p><h2>How to cook food and manage hunger in Nightingale</h2><p>You can cook food by collecting ingredients and placing them in a Campfire. Here's a quick summary:</p><ul><li>You can easily gather ingredients like Berries and Mushrooms by pressing the "E" key when you're right beside the resource. You won't need tools at all.</li><li>Likewise, if you kill wild animals, you can skin them for <a href="https://www.gamespot.com/articles/nightingale-animal-meat-leather-hide-guide/1100-6521179/"><strong>hide, leather, and meat</strong></a>, too.</li><li>It's even possible to <a href="https://www.gamespot.com/articles/nightingale-fishing-guide/
+
+## Nightingale - How To Get Animal Meat And Leather
+ - [https://www.gamespot.com/articles/nightingale-animal-meat-leather-hide-guide/1100-6521179/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-animal-meat-leather-hide-guide/1100-6521179/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:17:00+00:00
+
+<p>You're going to fight all sorts of creatures in <a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a>. Still, with all the fauna surrounding you, there's an opportunity to gather more materials for crafting and cooking. Here's our guide on how to get Animal Meat and Leather in Nightingale.</p><h2>How to get Animal Meat and Leather in Nightingale</h2><p>You can get Animal Meat and Leather by defeating a wild creature and using the Hunting Knife on them. Here's a quick summary:</p><ul><li>By default, you should have access to the Makeshift Hunting Knife, which can be crafted if you have 3x Rocks, 3x Sticks, and 6x Plant Fiber.</li><li>After building a Simple Workbench, you can craft a Simple Hunting Knife, which should be used on higher-level enemies. You can craft it once you have 1x Stone Block, 1x Wood Bundle, and 2x Straps.</li><li>When you defeat an animal with any type of weapon, make sure a Hunting Knife is equipped. Switch to it and s
+
+## Nightingale - How To Upgrade And Infuse Weapons
+ - [https://www.gamespot.com/articles/nightingale-upgrade-weapons-infuse-weapons-guide/1100-6521180/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-upgrade-weapons-infuse-weapons-guide/1100-6521180/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:16:00+00:00
+
+<p>You'll use all sorts of armaments and tools in <a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a>. However, there will come a time when you need to improve their damage and capabilities. Here's our guide on how upgrade and infuse weapons in Nightingale.</p><h2>How to upgrade and infuse weapons in Nightingale</h2><p>You can infuse and upgrade weapons via the Simple Enchanter's Focus and Simple Upgrade Bench, respectively. Take note that simple-tier options are just early-game workbenches. There are higher-end variants that can be unlocked later, and you need those to create even better refinements.</p><h3>How to build and use the Simple Upgrade Bench</h3><p>The Simple Upgrade Bench can be built if you have 4x Lumber, 2x Ingot, and 3x Twine. Note that you may need to buy the blueprint itself from an <a href="https://www.gamespot.com/articles/nightingale-essence-farm-guide/1100-6521177/"><strong>Essence Trader</strong></a>. In any case, her
+
+## Nightingale - How To Craft And Use Realm Cards
+ - [https://www.gamespot.com/articles/nightingale-realm-cards-crafting-guide/1100-6521181/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-realm-cards-crafting-guide/1100-6521181/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:14:00+00:00
+
+<p>The core gameplay loop in <a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a> requires you to combine different types of card modifiers so you can enter portals and reach new realms. A lot of dangers await, given various types of enemies and even environmental hazards. Still, before you set out on your journey, you might be wondering just what you need to activate portals in the first place. Here's our guide on how to craft and use Realm Cards in Nightingale.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to craft and use Realm Cards in Nightingale</a><ul><li><a href="https://www.gamespot.com">Types of Realm Cards</a></li></ul></div><h2 id="How_to_craft_and_use_Realm_Cards_in_Nightingale">How to craft and use Realm Cards in Nightingale</h2><p>The Nightingale Realm Cards come from various sources. Here are 
+
+## Nightingale - How To Use Realmic Transmuters
+ - [https://www.gamespot.com/articles/nightingale-realmic-transmuter-guide/1100-6521182/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-realmic-transmuter-guide/1100-6521182/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:12:00+00:00
+
+<p><a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a> allows you to explore strange new worlds by going through dimensional portals. Still, there's a particular feature that lets you make changes to your current location, offering benefits and maybe some dangers, too. Here's our guide on how to use the Realmic Transmuter in Nightingale.</p><h2>How to use the Realmic Transmuter in Nightingale</h2><p>The Realmic Transmuter is a type of machine that can be found in random locations in certain worlds. For instance, in the first Abeyance Forest Realm that we visited, it was located in the northeastern corner of the map. However, procedural generation might mean that its location would be different for other players.</p><p>There's also a chance that you might see one at the very top of a Fae Tower. These imposing structures have tough challenges for you to tackle. But if you reach the very top, you could reveal the entirety of the region, making 
+
+## Nightingale - How To Complete Bastille Challenges
+ - [https://www.gamespot.com/articles/nightingale-bastille-challenge-guide/1100-6521183/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-bastille-challenge-guide/1100-6521183/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:10:00+00:00
+
+<p>You're going to battle a lot of Bound enemies, as well as wild creatures in <a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a>. But there are certain activities that don't usually involve combat, and they can be quite rewarding, too. Here's our guide on how to complete Bastille Challenges in Nightingale.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to complete Bastille Challenges in Nightingale</a><ul><li><a href="https://www.gamespot.com">Bastille of Agility objective</a></li></ul></div><h2 id="How_to_complete_Bastille_Challenges_in_Nightingale">How to complete Bastille Challenges in Nightingale</h2><p>There are various kinds of Bastille Challenges in Nightingale. We list some examples below, and we discuss the objectives in detail in their respective sections:</p><ul><li>Bastille of Agility</li><li>Ba
+
+## Nightingale - How To Manage Inventory Storage
+ - [https://www.gamespot.com/articles/nightingale-inventory-storage-guide/1100-6521184/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-inventory-storage-guide/1100-6521184/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:10:00+00:00
+
+<p>As you explore the realms of <a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a>, you're going to find a lot of loot. With so many materials and craftable items to carry, your character will likely get over-encumbered. Thankfully, there are a few methods to help you carry the load, perhaps even literally. Here's our guide on how to manage inventory storage in Nightingale.</p><h2>How to manage inventory storage in Nightingale</h2><p>You can manage inventory storage by crafting containers or transferring items to an NPC companion. We discuss both methods in their respective sections below. However, bear in mind two things:</p><ul><li>Your character has a carry weight value. Going slightly above this value prevents you from sprinting, and going well past this amount will limit you to walking very slowly.</li><li>Your character has 75 inventory slots. This means you can only carry up to 75 stacks of items irrespective of their weight.</li></u
+
+## Nightingale Everything To Know
+ - [https://www.gamespot.com/videos/nightingale-everything-to-know/2300-6463441](https://www.gamespot.com/videos/nightingale-everything-to-know/2300-6463441)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T19:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4261545-etk_nightingale_site.jpg" width="480" /> Survival games are having a big moment in 2024, and the release of another major entry in that category is here. Presented by Nightingale.
+
+## Rainbow Six SMOL Is The Next Netflix Games Exclusive From Ubisoft, Out Now
+ - [https://www.gamespot.com/articles/rainbow-six-smol-is-the-next-netflix-games-exclusive-from-ubisoft-out-now/1100-6521195/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/rainbow-six-smol-is-the-next-netflix-games-exclusive-from-ubisoft-out-now/1100-6521195/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T18:00:00+00:00
+
+<p dir="ltr">During the Rainbow Six Siege Six Invitational in Sao Paulo, Brazil, Ubisoft announced its next exclusive for the Netflix Games mobile platform. The game is Rainbow Six SMOL, and it offers a much different look at the Operators of R6 than fans are used to.</p><p dir="ltr">Rainbow Six SMOL is a isometric roguelite shooter where players will create a new recruit and use them to lead a group of Operators through different missions. Each Operator will have unique abilities--Sledge, for example, can bash obstacles with his hammer--and mission objectives range from defusing bombs to rescuing hostages.</p><p dir="ltr">The game features five different game modes and 10 different enemy groups, which include standard soldiers with guns as well as dragons and demons. Also, as this is a roguelite, if the player's recruit dies in any of these modes, they'll have to start again with a new recruit.</p><a href="https://www.gamespot.com/articles/rainbow-six-smol-is-the-next-netfli
+
+## Helldivers 2 Hunter - Where To Find And Kill 25 Hunters
+ - [https://www.gamespot.com/articles/helldivers-2-hunter-where-to-find-and-kill-25-hunters/1100-6521216/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/helldivers-2-hunter-where-to-find-and-kill-25-hunters/1100-6521216/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T17:32:00+00:00
+
+<p dir="ltr"><a href="https://www.gamespot.com/games/helldivers-2/">Helldivers 2</a> Hunters are the focus of some in-game challenges, called Personal Orders, tied to spreading Managed Democracy like a true patriot. The campaign against the bugs continues apace, but every loyal Helldiver needs to know their enemies to bring managed democracy to the stars. That’s where we come in. Read on to find out about Hunters in Helldivers 2.</p><h2 dir="ltr">What are Hunters?</h2><p dir="ltr">Hunters are average-sized bugs that are largely white, with reddish-orange wings on the sides of their heads they deploy when they are about to attack. They jump long distances and attack rapidly with scythe-like arms, making it easy to be overwhelmed by them in the heat of battle.</p><p dir="ltr">There are smaller versions of them that travel in packs with their orange (basic) and green (bile) counterparts, but those don’t count towards Personal Order kills.</p><a href="https://www.gamespot.com/art
+
+## Gigantic: Rampage Edition Revives The Indie MOBA After Five Years Away
+ - [https://www.gamespot.com/articles/gigantic-rampage-edition-revives-the-indie-moba-after-five-years-away/1100-6521200/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/gigantic-rampage-edition-revives-the-indie-moba-after-five-years-away/1100-6521200/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T17:00:00+00:00
+
+<p>After being released in 2017 by Motiga and only lasting a year before the servers were turned off, a cult favorite MOBA is returning with new devs and new ideas. Gearbox Publishing and Abstraction Games have announced Gigantic: Rampage Edition, which will launch April 9 for consoles and PC.</p><p dir="ltr">Gigantic: Rampage Edition will retain the five-on-five multiplayer online battle arena gameplay of its original release, as well as all of the content from that first go-round. However, this new Rampage Edition makes some key changes that the developers hope will keep history from repeating itself.</p><div>          </div><figure><div class="image-gallery__label">Gallery</div>   <div class="image-gallery__list hide-scrollbar">       <a href="https://www.gamespot.com/a/uploads/original/3/37852/4261438-gig_re_grennguardian_picarobay.png">       <img alt="Gallery image 1" src="https://www.gamespot.com/a/uploads/square_avatar/3/37852/4261438-gig_re_grennguardian_picarobay.jp
+
+## Helldivers 2 Smashes GTA 5's Concurrent Steam Player Record Amid Server Issues
+ - [https://www.gamespot.com/articles/helldivers-2-smashes-gta-5s-concurrent-steam-player-record-amid-server-issues/1100-6521213/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/helldivers-2-smashes-gta-5s-concurrent-steam-player-record-amid-server-issues/1100-6521213/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T16:59:00+00:00
+
+<p>Helldivers 2 is a smash hit by any standard, but as online shooter fans well-know, huge player count can also cause major drawbacks. Recently, Arrowhead Game Studio's latest game hit a staggering 411,359 concurrent players amid server stability issues as the game struggles to accommodate so many new faces.</p><p dir="ltr">As shown by <a href="https://steamdb.info/charts/?sort=peak">SteamCharts</a>, the PvE shooter has smashed the peak concurrent player counts for many other high-profile games, most recently GTA 5. The ongoing server problems have resulted in players suffering long queue times or mysterious bugs as a result. For example, on the Helldivers 2 subreddit, a popular post (apparently from an official QA source) indicates that a <a href="https://www.reddit.com/r/Helldivers/comments/1av86qs/psa_the_black_screen_bug_relates_to_the_server/">black-screen glitch</a> that players have been reporting is related to servers being at capacity.</p><p dir="ltr">Over the weeke
+
+## Fanatical Bundlefest Brings Budget-Friendly PC Game Bundles Every Day This Week
+ - [https://www.gamespot.com/articles/fanatical-bundlefest-brings-budget-friendly-pc-game-bundles-every-day-this-week/1100-6521211/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fanatical-bundlefest-brings-budget-friendly-pc-game-bundles-every-day-this-week/1100-6521211/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T16:34:00+00:00
+
+<p>Fanatical is running another one of its popular <a href="https://www.dpbolvw.net/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/bundle">Bundlefest events</a>, giving you a chance to score dozens of PC games for cheap. New bundles will be added to the promotion through Friday, February 23. The majority of games in its catalog are sold as Steam keys, and if you don’t see a bundle that catches your eye, make sure to keep checking back throughout the week. </p><p><strong>Fanatical Bundlefest: Quick look</strong></p><ul><li>February 19 - <a href="https://www.anrdoezrs.net/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/bundle/killer-bundle-very-positive-edition">Killer Bundle: Very Positive Edition</a></li><li>February 20 - <a href="https://www.jdoqocy.com/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/pick-and-mix/build-your-own-premiere-bundle">Build Your Own Premiere Bundle 2</a></li>
+
+## Warframe Is Finally On Mobile After 11 Years
+ - [https://www.gamespot.com/articles/warframe-is-finally-on-mobile-after-11-years/1100-6521212/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/warframe-is-finally-on-mobile-after-11-years/1100-6521212/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T16:34:00+00:00
+
+<p>Digital Extremes has <a href="https://www.warframe.com/news/warframe-on-ios">announced</a> that Warframe is now available on iOS, and the Android version will be released at a later date.</p><p>Warframe was released almost 11 years ago, back in 2013, and has finally made its way to mobile platforms. It features cross-save and cross-platform functionality so players can play with friends at any time with any device and maintain their progress. Players also have access to all of the same gameplay and story content, including the recently released Whispers in the Walls update.</p><p>Those who log in during the iOS version's launch week can claim a three-day affinity booster and a Bombyx Syandana cosmetic. Digital Extremes recommends playing on iPhones and iPad hardware released in 2018 and 2019 or later, respectively.</p><a href="https://www.gamespot.com/articles/warframe-is-finally-on-mobile-after-11-years/1100-6521212/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Netflix Puts One Of Its Best Movies On YouTube For Free
+ - [https://www.gamespot.com/articles/netflix-puts-one-of-its-best-movies-on-youtube-for-free/1100-6521214/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/netflix-puts-one-of-its-best-movies-on-youtube-for-free/1100-6521214/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T16:21:00+00:00
+
+<p>Netflix has released Oscar-nominated Nimona on <a href="https://www.youtube.com/watch?v=i4CFWTYFRlw">YouTube</a>, where it's now free to stream. The animated movie, based on the award-winning graphic novel by ND Stevenson, follows the titular teenager, a trouble-making shapeshifter voiced by Chloë Grace Moretz, as she assists knight Ballister Boldheart (Riz Ahmed) in clearing his name for the murder of his queen. The movie was recently nominated for Best Animated Feature for the Academy Awards.</p><p>Standing with generally favorable reviews over at our sister site <a href="https://www.metacritic.com/movie/nimona/">Metacritic</a> with a 73, Netflix released the movie to get a wider audience for its Oscar campaign. Stevenson previously worked on Netflix's She-Ra: Princess of Power animated reboot.</p><div>          </div><p>Originally a production of Blue Sky Studios, it was set to be directed by Oscar winner Patrick Osborne, with a 2020 release date. However, when Walt Dis
+
+## The Fallout: New Vegas Limp Bizkit Mod Has Finally Been Rediscovered And Approved By Fred Durst
+ - [https://www.gamespot.com/articles/the-fallout-new-vegas-limp-bizkit-mod-has-finally-been-rediscovered-and-approved-by-fred-durst/1100-6521208/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-fallout-new-vegas-limp-bizkit-mod-has-finally-been-rediscovered-and-approved-by-fred-durst/1100-6521208/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T16:16:00+00:00
+
+<p>One of the most important pieces of gaming history has been rediscovered, as Fallout: New Vegas fans can load up the game and once again roll into town for a meeting with Limp Bizkit frontman Fred Durst. In fact, they might want to keep on rollin' once they find him.</p><p>There's a fun bit of history behind this mod, as it was released many years ago and gained some notoriety by 2015. The redcap menace could be found in the game once the mod had been installed, and Durst's digital doppelganger would reply with Limp Bizkit sound bites when you started a conversation with him.</p><p>Almost a decade ago, the mod vanished from its home on NexusMods and its creator confirmed that it was lost to the sands of time. "I recently reformatted my computer so doubt I have any of the files left over here," Lb8068 wrote in the YouTube comments section for the video showing off the mod.</p><a href="https://www.gamespot.com/articles/the-fallout-new-vegas-limp-bizkit-mod-has-finally-been-r
+
+## A Complete Version Of Shin Megami Tensei 5 Could Be Coming
+ - [https://www.gamespot.com/articles/a-complete-version-of-shin-megami-tensei-5-could-be-coming/1100-6521210/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-complete-version-of-shin-megami-tensei-5-could-be-coming/1100-6521210/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T15:51:00+00:00
+
+<p>Shin Megami Tensei V: Vengeance has been ranted by the Game Rating and Administration Committee in Korea, but the listing has since been deleted.</p><p>Spotted by <a href="https://www.gematsu.com/2024/02/shin-megami-tensei-v-vengeance-rated-in-korea">Gematsu</a>, the listing said that it is a complete version of Shin Megami Tensei V containing improvements and additional content. The game has received bits of paid DLC in the form of experience and money boosters, as well as extra battles. In particular, the protagonist of Shin Megami Tensei III, the Demi-Fiend, was an optional boss battle in the Return of the True Demon DLC.</p><p>A potential "complete" version of Shin Megami Tensei V could include the already released DLC content, and "improvements" could refer to new quality of life features or technical refinements.</p><a href="https://www.gamespot.com/articles/a-complete-version-of-shin-megami-tensei-5-could-be-coming/1100-6521210/?ftag=CAD-01-10abi2f/">Continue Readin
+
+## America Is Torn Apart In New Trailer For Alex Garland's Civil War
+ - [https://www.gamespot.com/articles/america-is-torn-apart-in-new-trailer-for-alex-garlands-civil-war/1100-6521207/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/america-is-torn-apart-in-new-trailer-for-alex-garlands-civil-war/1100-6521207/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T15:48:00+00:00
+
+<p>The newest trailer for Alex Garland's Civil War has landed, showcasing a fresh look at a film that shows a near-future America on the brink of civil war. In the trailer, the US President--played by Nick Offerman--delivers a message to the Florida Alliance and the Western Forces of Texas and California, which have seceded and are now taking hostile action.</p><p>Offerman's president says they will be "welcomed back to these United States as soon as their illegal secessionist government is deposed." It doesn't look like this will happen peacefully or potentially at all, as the trailer teases major battles in environments that look like they could be from HBO's The Last of Us. The trailer's use of the song "America the Beautiful" as the scenes of tumult play out makes for a haunting experience. Here's the trailer:</p><div>          </div><p>Civil War stars Kirsten Dunst, Wagner Moura, Stephen McKinley Henderson, Cailee Spaeny, and Jesse Plemons, in addition to Offerman.</p><a
+
+## Frank Miller's Batman Origin Story Is Gettin A Fancy New Re-Release
+ - [https://www.gamespot.com/articles/frank-millers-batman-origin-story-is-gettin-a-fancy-new-re-release/1100-6521100/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/frank-millers-batman-origin-story-is-gettin-a-fancy-new-re-release/1100-6521100/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T15:46:00+00:00
+
+<p>Batman: Year One has long been regarded as a must-read story for any Caped Crusader fan, and if you're looking to rediscover that classic tale from a new perspective, then you won't want to miss out on the upcoming release of Batman's rookie year in Gotham. <a href="https://www.amazon.com/dp/B0CK7T4WVJ?tag=gamespot-preorders-20">Batman: Year One Artist's Edition</a> will be released on July 16, and you can save on this release with a preorder at Amazon, where it has been discounted to $135 (normally $150).</p><div><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/B0CK7T4WVJ?tag=gamespot-preorders-20">Preorder at Amazon</a> </div></div><p> </p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4259970-batman-year-ae-2.jpg"><img alt="No Caption Provided" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4259970-batman-year-ae-2.jpg" /></a></figure><p>What makes this particular version so 
+
+## Frank Miller's Batman Origin Story Is Getting A Fancy New Re-Release
+ - [https://www.gamespot.com/articles/frank-millers-batman-origin-story-is-getting-a-fancy-new-re-release/1100-6521100/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/frank-millers-batman-origin-story-is-getting-a-fancy-new-re-release/1100-6521100/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T15:46:00+00:00
+
+<p>Batman: Year One has long been regarded as a must-read story for any Caped Crusader fan, and if you're looking to rediscover that classic tale from a new perspective, then you won't want to miss out on the upcoming release of Batman's rookie year in Gotham. <a href="https://www.amazon.com/dp/B0CK7T4WVJ?tag=gamespot-preorders-20">Batman: Year One Artist's Edition</a> will be released on July 16, and you can save on this release with a preorder at Amazon, where it has been discounted to $135 (normally $150).</p><div><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/B0CK7T4WVJ?tag=gamespot-preorders-20">Preorder at Amazon</a> </div></div><p> </p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4259970-batman-year-ae-2.jpg"><img alt="No Caption Provided" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4259970-batman-year-ae-2.jpg" /></a></figure><p>What makes this particular version so 
+
+## Fortnite Wireless Controller Preorder Comes With In-Game Content
+ - [https://www.gamespot.com/articles/fortnite-wireless-controller-preorder-comes-with-in-game-content/1100-6521206/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fortnite-wireless-controller-preorder-comes-with-in-game-content/1100-6521206/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T15:44:00+00:00
+
+<p>A handful of Fortnite accessories are arriving later this week, giving you a chance to add a <a href="https://www.amazon.com/dp/B0CT5K4WGC?tag=gamespot-preorderguides-20">stylish new wireless controller</a>, <a href="https://www.amazon.com/dp/B0CT559B2P?tag=gamespot-preorderguides-20">Switch carry case</a>, and <a href="https://www.amazon.com/dp/B0CT5C1YF1?tag=gamespot-preorderguides-20">gaming earbuds</a> to your setup. All the products feature slick designs inspired by the iconic battle royale--but perhaps more importantly for some, they all come with an exclusive in-game item. The two controllers up for grabs are likely to be the most popular, though Switch owners will also want to check out the upcoming <a href="https://www.amazon.com/dp/B0CT5C1YF1?tag=gamespot-preorderguides-20">wired earbuds</a> and <a href="https://www.amazon.com/dp/B0CT559B2P?tag=gamespot-preorderguides-20">PowerA Carrying Case</a>. Here's a look at all four Fortnite accessories releasing this Frid
+
+## Aquaman 2 Gets Streaming Release Date For Max
+ - [https://www.gamespot.com/articles/aquaman-2-gets-streaming-release-date-for-max/1100-6521209/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/aquaman-2-gets-streaming-release-date-for-max/1100-6521209/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T15:26:00+00:00
+
+<p>DC and Warner Bros.' Aquaman and the Lost Kingdom will be arriving exclusively on Max on February 27, just two months after its theatrical opening. The Max official Twitter account posted the announcement Tuesday morning. It is the final entry of the DCEU that ran from 2013-2023, with the new DC movies being rebooted next year with Superman: Legacy.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">The tide is turning. <a href="https://twitter.com/hashtag/Aquaman?src=hash&amp;ref_src=twsrc^tfw">#Aquaman</a> and the Lost Kingdom will be available to stream February 27 exclusively on Max. <a href="https://t.co/Z2kVtpbDnW">pic.twitter.com/Z2kVtpbDnW</a></p>  â€” Max (@StreamOnMax) <a href="https://twitter.com/StreamOnMax/status/1759956129784680523?ref_src=twsrc^tfw">February 20, 2024</a></blockquote>              </div><p>Aquaman and the Lost Kingdom stars Jason Momoa, along with Patrick Wilson as Orn, Yahya Abdul-Mateen II as Black Manta, and Nicole Kidma
+
+## Assassin's Creed Mirage Finally Gets A Big Feature Today
+ - [https://www.gamespot.com/articles/assassins-creed-mirage-finally-gets-a-big-feature-today/1100-6521205/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/assassins-creed-mirage-finally-gets-a-big-feature-today/1100-6521205/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T15:12:00+00:00
+
+<p>Ubisoft has revealed that Assassin's Creed Mirage's new update today will add its long-awaited permadeath mode after a few months of delay.</p><p>The game's permadeath mode is called <a href="https://www.ubisoft.com/en-us/game/assassins-creed/mirage/news-updates/3gdkT1ypxbASuq3exfUA9A">Full Synchronization Challenge</a>. In this mode, if Basim dies, your save file is permanently deleted. Basim also needs to avoid any illegal actions, such as killing citizens or going outside of authorized map locations. Doing so results in deletion as well. Instead of a game over screen if any of that happens, a new display pops up which shows various statistics. These include gameplay time, number of conflicts, cause of death, number of enemies killed, and chosen difficulty.</p><p>Furthermore, Full Synchronization can only be enabled when starting a new game from the title screen, and cannot be turned off once the game as started. To avoid any craft runarounds, both cross-progression betw
+
+## Xbox Game Pass Loses These Two Games Very Soon
+ - [https://www.gamespot.com/articles/xbox-game-pass-loses-these-two-games-very-soon/1100-6521204/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-game-pass-loses-these-two-games-very-soon/1100-6521204/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T15:01:00+00:00
+
+<p>Microsoft has confirmed a list of all the titles leaving the Xbox Game Pass library at the end of the month, and the good news is that there are only a couple titles getting dumped.</p><p>On February 29, Microsoft will remove Madden NFL 22 (console, PC) and Soul Hackers 2 (console, PC, cloud) from the Game Pass library. If you're a football fan, it might be some consolation to know that the newest entry in the series, Madden NFL 24, was just recently added to the Game Pass library (and Madden NFL 23 is still on Game Pass as well via EA Play). Soul Hackers 2 was released on Game Pass on February 28, 2023, so it seems Atlus/Sega might have had a one-year deal with Microsoft.</p><p>As usual, Game Pass subscribers who want to keep playing can buy these games outright for 20% off. Earlier this month, Microsoft <a href="https://www.gamespot.com/articles/game-pass-dumps-these-two-games-very-soon/1100-6520847/">removed Galactic Civilizations III and Opus: Echo of Starsong from Gam
+
+## Pacific Drive Review - Road Trippy
+ - [https://www.gamespot.com/reviews/pacific-drive-review-road-trippy/1900-6418183/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/pacific-drive-review-road-trippy/1900-6418183/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T15:00:00+00:00
+
+<p dir="ltr">In my personal life, I loathe driving, but video games have a way of making it more fun. Rarely does a video game make driving as engaging and enjoyable as <a href="https://www.gamespot.com/games/pacific-drive/">Pacific Drive</a> does, even though it can be much more challenging than any real-life drive I've ever taken. With a ton of gameplay depth, an intoxicating atmosphere, and a New Weird story I obsessed over, the debut game from Ironwood Studios dazzled me even though it occasionally left me stranded in the breakdown lane.</p><p dir="ltr">In both story and gameplay terms, I've not played a game much like Pacific Drive before. Stuck in a mysterious section of the Pacific Northwest called the Olympic Exclusion Zone (OEZ) that's been closed off for years due to science-defying activity, you're meant to find a way out of a region known to swallow almost anyone who enters it. You'll do this in roguelite runs in which you drive a station wagon through a semi-rand
+
+## Princess Peach: Showtime Is A Tasting Menu Of Different Genres
+ - [https://www.gamespot.com/articles/princess-peach-showtime-is-a-tasting-menu-of-different-genres/1100-6521202/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/princess-peach-showtime-is-a-tasting-menu-of-different-genres/1100-6521202/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T15:00:00+00:00
+
+<p dir="ltr">Princess Peach: Showtime defies easy categorization. Princess Peach has had her own starring vehicle before, the 2005 DS game Super Princess Peach, but that game was a straightforward platformer. Every new trailer for Showtime displays such a variety of mechanics I've been left wondering: <em>What the heck is this game?</em> Having now gotten an extended hands-on, the answer isn't as mysterious as I'd thought. It's a sampler of different genres, presented simply, seemingly intended to help new players get a hang of them. That may mean it doesn't scratch the itch of experienced capital-G Gamers, but it's a sweet idea to let Princess Peach--fresh off her starring role in the blockbuster Mario movie--be the one to gently usher in a new generation of players.</p><p dir="ltr">The story begins when Peach and her loyal Toad companions are invited to a playhouse and decide to take in the show. Shortly after arriving, the theater is taken over by a villainess named Grape 
+
+## Snag A 1TB SanDisk MicroSD Card For Steam Deck For Cheap
+ - [https://www.gamespot.com/articles/snag-a-1tb-sandisk-microsd-card-for-steam-deck-for-cheap/1100-6520989/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/snag-a-1tb-sandisk-microsd-card-for-steam-deck-for-cheap/1100-6520989/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T14:56:00+00:00
+
+<p>If you're running out of space on your Steam Deck or Nintendo Switch and you're not a fan of deleting games, it's probably time to upgrade to a high-capacity microSD card. In the grand scheme of storage formats, microSD cards are pretty darn cheap, but the price tends to jump dramatically once you go beyond 512GB. Right now, you can get rare discounts on SanDisk's highest capacity microSDs card at Amazon. The <a href="https://www.amazon.com/SanDisk-Ultra-microSDXC-Memory-Adapter/dp/B0B7NYN3N3?tag=gamespot-promos-20">SanDisk Ultra 1TB microSD card is on sale for only $70</a>, while the <a href="https://www.amazon.com/dp/B0CJMRW771?tag=gamespot-promos-20">1.5TB model is available for $120 (was $150)</a>. The offer on the 1TB model is one of Amazon's current Lightning Deals, so you should act fast if interested.</p><div class="norewrite" title="6520989 - SanDisk Ultra 1.5TB Lightning Deal">  <div class="buylink-container">                                                      
+
+## Netflix's Pokemon Concierge Gets An Exciting Update
+ - [https://www.gamespot.com/articles/netflixs-pokemon-concierge-gets-an-exciting-update/1100-6521203/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/netflixs-pokemon-concierge-gets-an-exciting-update/1100-6521203/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T14:46:00+00:00
+
+<p dir="ltr">Pokemon Concierge, Netflix chooses you for more episodes. The stop-motion series will be receiving additional stories in the future after initially debuting December 28 on the streaming service.</p><p dir="ltr">The <a href="https://twitter.com/netflix/status/1759714480454283652">official Netflix account on X</a> (formerly known as Twitter) announced that new episodes are "in production" for the show. It's almost been a year since <a href="https://www.gamespot.com/articles/new-pokemon-stop-motion-series-announced-for-netflix-features-pokemon-on-vacation/1100-6511835/">the unveiling of Pokemon Concierge</a>, which follows a woman named Haru looking after Pokemon at a resort.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">NEW EPISODES OF POKÃ‰MON CONCIERGE ARE IN PRODUCTION!!! ðŸŒ´ <a href="https://t.co/XiJrY1vA4q">pic.twitter.com/XiJrY1vA4q</a></p>  â€” Netflix (@netflix) <a href="https://twitter.com/netflix/status/1759714480454283652?ref_src
+
+## New Borderlands Movie Photos Show Off Cate Blanchett And Company's Killer Fashion Sense
+ - [https://www.gamespot.com/articles/new-borderlands-movie-photos-show-off-cate-blanchett-and-companys-killer-fashion-sense/1100-6521201/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-borderlands-movie-photos-show-off-cate-blanchett-and-companys-killer-fashion-sense/1100-6521201/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T14:44:00+00:00
+
+<p>Its been a long time since there have been any updates on the Borderlands movie, but this week, new images for the film have finally arrived alongside fresh plot details ahead of its August 9 release.</p><p>As seen on <a href="https://people.com/borderlands-photos-cate-blanchett-jamie-lee-curtis-kevin-hart-exclusive-8584919">People</a>, Cate Blanchett is the spitting image of Lilith, a notorious outlaw in the Borderlands games who wields both guns and vast psychic powers as one of the handful of Sirens in the galaxy. In the film adaptation of the Gearbox Software game, Lilith is tasked by Atlas (Edgar Ramirez) to find his missing daughter on the harsh planet of Pandora, a world inhabited by bloodthirsty bandits and lethal wildlife.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Red-Haired Cate Blanchett Teams Up with Jamie Lee Curtis, Kevin Hart and More in Borderlands First Look (Exclusive) <a href="https://t.co/On2fYasUNQ">https://t.co/On2fYasUNQ</
+
+## Next Xbox Game Pass Releases Announced, And There's A Lot Of Games Coming
+ - [https://www.gamespot.com/articles/next-xbox-game-pass-releases-announced-and-theres-a-lot-of-games-coming/1100-6521199/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/next-xbox-game-pass-releases-announced-and-theres-a-lot-of-games-coming/1100-6521199/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T14:25:00+00:00
+
+<p>Microsoft has announced the next set of additions to the Xbox Game Pass library, and it includes two games that are out right now.</p><p>Available today is the action-RPG Tales of Arise and the narrative adventure game Return to Grace, both of which are available across console, PC, and the cloud. Then on February 22, Game Pass adds Bluey: The Video Game, which is based on the TV series.</p><p>On February 27, Game Pass adds the humorous killer shark game Maneater on console, cloud, and PC, while Madden NFL 24 adds cloud support that day (it was previously added to Game Pass on console).</p><a href="https://www.gamespot.com/articles/next-xbox-game-pass-releases-announced-and-theres-a-lot-of-games-coming/1100-6521199/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Google Engineers Hacked The PlayStation Portal And Turned It Into A PSP Emulator
+ - [https://www.gamespot.com/articles/google-engineers-hacked-the-playstation-portal-and-turned-it-into-a-psp-emulator/1100-6521198/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/google-engineers-hacked-the-playstation-portal-and-turned-it-into-a-psp-emulator/1100-6521198/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T14:23:00+00:00
+
+<p>Sony's PlayStation Portal handheld is designed to stream games from your PS5, but that hasn't stopped Google engineers from hacking the device to run emulated PSP games. Google security engineer Calle Svensson and cloud vulnerability researcher Andy Nguyen showed off some of their work on X/Twitter, revealing a PlayStation Portal running the PSP version of Grand Theft Auto 3 through the PPSSPP emulator. </p><p>Nguyn added in a second tweet that the hack is entirely software-based, allowing the engineers to exploit vulnerabilities in the handheld without needing to change its hardware. Don't expect this hack to go public, as <a href="https://twitter.com/theflow0/status/1759634540501565586">Nguyen said</a> there are currently no plans to release it.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">After more than a month of hard work, PPSSPP is running natively on PlayStation Portal. Yes, we hacked it. With help from xyz and <a href="https://twitter.com/
+
+## Apple's New WW2 Series Masters Of The Air Breaks Records
+ - [https://www.gamespot.com/articles/apples-new-ww2-series-masters-of-the-air-breaks-records/1100-6521197/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/apples-new-ww2-series-masters-of-the-air-breaks-records/1100-6521197/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T14:11:00+00:00
+
+<p>Masters of the Air, the new World War II series from the team that made Band of Brothers and The Pacific, is breaking records for Apple TV+. According to <a href="https://variety.com/2024/tv/news/masters-of-the-air-premiere-ratings-apple-tv-plus-1235916408/">Variety</a>, the show reached more viewers during its first weekend than any other Apple TV+ series ever, beating the numbers from Apple's other high-profile shows like Severance, Ted Lasso, The Morning Show, and Hijack.</p><p>Apple did not release the exact number of viewers for Masters of the Air or any of its other shows, however. That said, Apple reported that viewership increased 65% worldwide a week after Masters of the Air premiered on January 26. This suggests people watched, enjoyed it, and told their friends to watch as well after the initial debut.</p><div>          </div><p>There are nine episodes in the mini-series, and new episodes air weekly on Fridays until the show wraps up on March 15.</p><a href="htt
+
+## Madame Web Box Office: How Did The Movie Do In Its First Weekend?
+ - [https://www.gamespot.com/articles/madame-web-box-office-how-did-the-movie-do-in-its-first-weekend/1100-6521193/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/madame-web-box-office-how-did-the-movie-do-in-its-first-weekend/1100-6521193/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T14:09:00+00:00
+
+<p>The Spider Man spin-off movie Madame Web from Sony Pictures opened on Valentine's Day, and the <a href="https://www.gamespot.com/articles/madame-web-is-not-off-to-a-good-start-at-the-box-office/1100-6521165/">early box office results were not great</a>. However, the movie is doing slightly better than some expected, bringing in <a href="https://www.boxofficemojo.com/title/tt11057302/?ref_=bo_se_r_1">$52 million worldwide</a> for its opening period.</p><p>This was an abnormal opening period, as the film opened on Wednesday, February 14, and these numbers cover a six-day period spanning through Monday, February 19 for the Presidents' Day holiday. The movie earned $26 million over six days in the US and, as mentioned, $52 million worldwide over that time span.</p><p>The movie was estimated to have cost $80 million to produce (prior to marketing expenses), which means it has not yet broken even. However, <a href="https://deadline.com/2024/02/box-office-bob-marley-one-love-mada
+
+## In A Full Circle Moment, Helldivers 2 Has Helped More People Discover Starship Troopers
+ - [https://www.gamespot.com/articles/in-a-full-circle-moment-helldivers-2-has-helped-more-people-discover-starship-troopers/1100-6521194/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/in-a-full-circle-moment-helldivers-2-has-helped-more-people-discover-starship-troopers/1100-6521194/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T13:20:00+00:00
+
+<p>Helldivers 2 is essentially a Starship Troopers game in everything but name, and fittingly, the bug-blasting sequel has helped dramatically increase the viewership numbers of the classic 1997 action film. Possibly due to players needing to something to watch while waiting for their chance to play on the game's heavily populated servers.</p><p>According to online TV ratings tracker <a href="https://televisionstats.com/m/starship-troopers">Television Stats</a> (via <a href="https://www.eurogamer.net/helldivers-2-prompting-people-to-rediscover-starship-troopers-which-game-director-says-is-incredible">Eurogamer</a>), interest in Starship Troopers began to spike around February 18 and has continued to climb since then, and at the time of writing, it was the 25th most popular film online. Game director Johan Pilestedt had a brief response to the resurgence of interest in Starship Troopers:</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">This is incredible! 
+
+## PS5 Pro Could Launch Just In Time For GTA 6, Analysts Predict
+ - [https://www.gamespot.com/articles/ps5-pro-could-launch-just-in-time-for-gta-6-analysts-predict/1100-6521192/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ps5-pro-could-launch-just-in-time-for-gta-6-analysts-predict/1100-6521192/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T13:01:00+00:00
+
+<p>Analysts are predicting a PS5 Pro might enter the market soon, possibly as a way to boost interest in the console brand and have a more powerful platform ready for the release of Grand Theft Auto 6.</p><p>"There seems to be a broad consensus in the game industry that Sony is indeed preparing a launch of a PS5 Pro in the second half of 2024," Serkan Toto, CEO of Tokyo-based games consultancy firm Kantan Games, said to <a href="https://www.cnbc.com/2024/02/20/ps5-pro-sony-to-release-refreshed-playstation-5-in-2024-analysts-say.html">CNBC</a>. "And Sony will want to make sure to have a great piece of hardware ready when GTA 6 hits in 2025, a launch that will be a shot in the arm for the entire gaming industry."</p><p>During last week's earnings call, Sony predicted a gradual decline in unit sales and has since cut its PS5 sales forecast for the current fiscal year ending in March. Originally predicting to sell 25 million units, <a href="https://www.gamespot.com/articles/ps5-m
+
+## Nintendo Direct: Partner Showcase Announced For This Week
+ - [https://www.gamespot.com/articles/nintendo-direct-partner-showcase-announced-for-this-week/1100-6521191/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nintendo-direct-partner-showcase-announced-for-this-week/1100-6521191/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T12:20:00+00:00
+
+<p>A Nintendo Direct is coming this week, and fans can look forward to "around 25 minutes" of reveals on February 21 at 6 AM PT / 9 AM ET. This Nintendo Direct will be focused on third-party games arriving in the first half of 2024 and will be broadcast on Nintendo's YouTube channel.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">A <a href="https://twitter.com/hashtag/NintendoDirect?src=hash&amp;ref_src=twsrc^tfw">#NintendoDirect</a>: Partner Showcase is coming! Watch on-demand via YouTube on 2/21 at 6am PT for around 25 mins of info focused on <a href="https://twitter.com/hashtag/NintendoSwitch?src=hash&amp;ref_src=twsrc^tfw">#NintendoSwitch</a> games coming in the first half of 2024 from our publishing and development partners.<br />Stay tuned here: <a href="https://t.co/ZIAs64iWbK">https://t.co/ZIAs64iWbK</a> <a href="https://t.co/CTrAC02G4d">pic.twitter.com/CTrAC02G4d</a></p>  â€” Nintendo of America (@NintendoAmerica) <a href="https://twitter.com/N
+
+## Pokemon Presents Livestream Confirmed For The End Of February
+ - [https://www.gamespot.com/articles/pokemon-presents-livestream-confirmed-for-the-end-of-february/1100-6521190/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pokemon-presents-livestream-confirmed-for-the-end-of-february/1100-6521190/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-20T12:18:00+00:00
+
+<p>An official Pokemon Presents livestream for Pokemon Day 2024 on February 27 has been announced. The broadcast is scheduled for 6 AM PT / 9 AM ET and will feature "exciting Pokemon news," according to The Pokemon Company.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Did somebody say <a href="https://twitter.com/hashtag/PokemonPresents?src=hash&amp;ref_src=twsrc^tfw">#PokemonPresents</a>? ðŸ‘€<br />Tune in to our official YouTube channel at 6:00 a.m. PST on February 27th to view exciting PokÃ©mon news in celebration of <a href="https://twitter.com/hashtag/PokemonDay?src=hash&amp;ref_src=twsrc^tfw">#PokemonDay</a> 2024! ðŸŽ‰<br />See you there, Trainers! <br />ðŸ“º: <a href="https://t.co/eDWO5LvlWq">https://t.co/eDWO5LvlWq</a> <a href="https://t.co/plsFcIJ2eS">pic.twitter.com/plsFcIJ2eS</a></p>  â€” PokÃ©mon (@Pokemon) <a href="https://twitter.com/Pokemon/status/1759850669333160265?ref_src=twsrc^tfw">February 20, 2024</a></blockquote>              </d
+

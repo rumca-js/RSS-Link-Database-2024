@@ -1,0 +1,80 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed/, language:en-US
+
+## Our USDA is funding research into edible bugs. Edible bugs, that they feed with trash...
+ - [https://www.louderwithcrowder.com/usda-trash-fed-bugs](https://www.louderwithcrowder.com/usda-trash-fed-bugs)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-20T23:01:04+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=51515459&amp;width=1245&amp;height=700&amp;coordinates=0%2C246%2C0%2C246" /><br /><br /><p>You will eat ze bugs and you vill be happy. </p><p>In order for the <a href="https://www.youtube.com/watch?v=R2qxwiLoXTM" target="_blank">climate </a>prophets to control the direction of the wind and how many inches of snow the midwest will get, the federal government is now force-feeding bugs with garbage. But that‚Äôs not even the best part, the kicker is that the bugs are intended to be what you end up eating </p><p>The USDA has been funding research on ‚Äútrash-fed crickets‚Äù as they believe this is more ‚Äúsustainable‚Äù than the status quo. </p><p>They do say you are what you eat. And the federal government thinks that you are no better than an insect that eats trash. That is what they think of you. </p><p>But you are not trash. The USDA is trash. </p><blockquote class="rm-embed twitter-tweet">
+<div style="mar
+
+## Biden's Secretary of State warns his staff against using offensive language... like "manpower" and "mother"
+ - [https://www.louderwithcrowder.com/antony-blinken-language](https://www.louderwithcrowder.com/antony-blinken-language)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-20T22:47:54+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51515566&amp;width=1245&amp;height=700&amp;coordinates=100%2C0%2C68%2C0" /><br /><br /><p>When you are part of a cult that thinks that words are violent, and at the same time thinks silence is violence, you end up with this story. </p><p>Sec. of State Antony Blinken informed his staff that they should not be using words that are "problematic" such as "manpower‚Äù and ‚Äúmother." </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a href="https://twitter.com/TPostMillennial/status/1759975991404118343"></a>
+</blockquote>
+<p><a href="https://thepostmillennial.com/bidens-woke-sec-of-state-antony-blinken-scolded-staffers-over-problematic-language-like-manpower" rel="noopener noreferrer" target="_blank">According to The<em> Post Millennial: </em></a></p><blockquote>Biden administration Sec. of State Antony Blinken told staffers at the State Department not to use "
+
+## Trans activist facing charges of endangering autistic son in their "feces-covered" home
+ - [https://www.louderwithcrowder.com/trans-feces-house](https://www.louderwithcrowder.com/trans-feces-house)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-20T22:44:12+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51515541&amp;width=1245&amp;height=700&amp;coordinates=0%2C117%2C0%2C7" /><br /><br /><p>One of the many problems with being ‚Äúinclusive‚Äù, to the point of including all people in all things, is that you end up including all people in all things. And under the leftist altar of diversity, society has condoned mental illness to the point that it‚Äôs glorified all because of deranged people living under<em> their truth</em>. And because of all that, we now have a horrifying story of a 10-year-old autistic boy who has been abused. </p><p>I must warn you, this story is deeply disturbing. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a href="https://twitter.com/ReduxxMag/status/1759632559003038101"></a>
+</blockquote>
+<p><a href="https://reduxx.info/exclusive-trans-activist-family-bloggers-who-lived-in-feces-covered-home-arrested-on-charges-of-endangering-t
+
+## Foul-mouthed twins go viral with explicit rant on inflation: "Been saying this for the last f*cking three years..."
+ - [https://www.louderwithcrowder.com/twin-brothers-inflation](https://www.louderwithcrowder.com/twin-brothers-inflation)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-20T19:34:40+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51514477&amp;width=1245&amp;height=700&amp;coordinates=0%2C1%2C0%2C0" /><br /><br /><p>Everywhere from haircuts, <a href="https://www.louderwithcrowder.com/grocery-cost-monthly" target="_blank">groceries</a>, and just about everything else in between, the elephant in the room remains the same. And that is the impact of inflation under the Biden administration. Or in other words, Bidenomics. </p>
+<p>The average American has taken a hit with the constant increase in <a href="https://www.louderwithcrowder.com/joe-biden-blames-grocery-stores" target="_blank">prices</a>. And if you haven't, you will likely know someone complaining about their empty wallet. That is why two twin brothers from New York have gone viral after posting a series of relatable rants about the rising cost of living.  </p>
+<p><a href="https://nypost.com/2024/02/19/us-news/exclusive-staten-island-twins-gone-viral-on-tiktok-for-inflation-ran
+
+## Blue state now providing your children with a map to show where they can get free condoms
+ - [https://www.louderwithcrowder.com/washington-condom-map](https://www.louderwithcrowder.com/washington-condom-map)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-20T17:54:31+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=51511422&amp;width=1200&amp;height=800&amp;coordinates=0%2C178%2C0%2C178" /><br /><br /><p>Not too long ago you would never believe it if someone told you that state officials would be telling minors where to get free condoms, vapes, tattoos, and abortions. But now you better believe it because that is the status quo for Washington State.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a href="https://twitter.com/DailyCaller/status/1759752227160273056"></a>
+</blockquote>
+<p><a href="https://dailycaller.com/2024/02/19/washington-promotes-map-directs-minors-condom-map/#:~:text=The%20map%2C%20linked%20on%20the,parlors%20as%20offering%20free%20protection." rel="noopener noreferrer" target="_blank">According to The <em>Daily Caller: </em></a></p><blockquote>The map, linked on the Washington State Department of Health‚Äôs Teen Health Hub, directs viewers to pla
+
+## Watch: Foreign invaders are destroying America from within and here's how
+ - [https://www.louderwithcrowder.com/us-foreign-invaders](https://www.louderwithcrowder.com/us-foreign-invaders)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-20T17:01:25+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51511094&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Are foreign invaders destroying the country from within? Today‚Äôs <a href="https://www.louderwithcrowder.com/sources-february-20-2024" target="_blank">show</a> breaks it down.</p><div class="rm-embed embed-media"></div><p>Foreign nationals are now working on American election commissions.<br /></p><p>"At what point does your government cease to represent you?" Crowder said. "It comes down to Americans feeling as though they are not represented by the people they have elected. It is about people who can abuse the system and effectively never be ousted. They are part of the system and have designed the system in a way that is no longer representative of American citizenry.‚Äù</p><p>A Hong Kong <a href="https://twitter.com/EndWokeness/status/1759568984691687896?s=20" target="_blank">immigrant </a>named Kelly Wong is offici
+
+## Watch: Girls basketball team forced to forfeit after THREE players were injured by a six-foot dude who claims to be a girl
+ - [https://www.louderwithcrowder.com/girls-basketball-team-forfeits](https://www.louderwithcrowder.com/girls-basketball-team-forfeits)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-20T13:52:48+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51509405&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>It's a tale as old as time. Guy can't compete against guys. Guy "transitions" to a girl. "Girl" now dominates other girls on the court and sometimes injures them. That's what happened in Massachusetts, where a female basketball player who was born with a penis injured so many real girls on the other team, they were forced to forfeit. the game.</p><p>It was KIPP Academy vs. Collegiate Charter School of Lowell. KIPP had the dude playing for them. Collegiate had playoffs to think about and had to make a decision <a href="https://thepostmillennial.com/girls-high-school-basketball-team-forfeits-after-trans-player-injures-3-players-in-massachusetts" target="_blank">after the THIRD player went down in injury</a>.</p><blockquote>"The bench was already depleted going into the game with the 12-player roster having four players una
+
+## Watch: CNN's question to Biden about GOP "having blood on their hands" is proof you don't hate the media enough
+ - [https://www.louderwithcrowder.com/cnn-biden-gop-blood-hands](https://www.louderwithcrowder.com/cnn-biden-gop-blood-hands)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-20T12:59:20+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51508979&amp;width=600&amp;height=600&amp;coordinates=230%2C0%2C330%2C0" /><br /><br /><p>Russian anti-corruption activist Alexei Navalny died in a Russian prison last week, but the real enemy are a Republican congressmen for not sending Ukraine any more of your tax dollars. That's what CNN Senior White House Correspondent MJ Lee was getting at as she attempted to do a journalism with Joe Biden as he returned from yet another vacation.</p><p><a href="https://www.louderwithcrowder.com/sources-february-19-2024" target="_blank">We covered the Navalny story on yesterday's show</a>. Here are five key things you need to know:</p><ol><li>Alexei Navalny was poisoned on a business trip in 2020 and sent to a Siberian prison.</li><li>In 2021, <a href="https://www.politico.com/video/2024/02/16/biden-warns-of-devastating-consequences-for-russia-if-navalny-died-1226948" target="_blank">Biden claimed there would be "deva
+
+## Sources: Foreign Invaders Are Destroying The US From Within
+ - [https://www.louderwithcrowder.com/sources-february-20-2024](https://www.louderwithcrowder.com/sources-february-20-2024)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-20T11:11:45+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51509986&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C300%2C0" /><br /><br /><p>A Professor at Harvard did a study on police bias showing that the entire BLM movement is based on a lie; we sent a team to Nikki Haley's Dallas rally, as foreign nationals working on American election commissions, and more!</p><p>Our Full Investigation into Illicit Chinese Marijuana Farms in Oklahoma: <a href="https://rumble.com/v4ap973-inside-chinas-conspiracy-to-destabalize-americas-heartland-triads-drugs-and.html" target="_blank">Inside The China Plot to Destroy America From Within: Triads, Drugs & Murder</a></p><div class="rm-embed embed-media"></div><p><strong>HARVARD STUDY</strong><br /></p><ul><li><a href="https://x.com/hodgetwins/status/1758875813108224062?s=20" rel="noopener noreferrer" target="_blank">Watch: Black Harvard professor released study saying cops are not racially biased, he needed armed security 
+

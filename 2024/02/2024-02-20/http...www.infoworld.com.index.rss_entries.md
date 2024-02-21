@@ -1,0 +1,76 @@
+# Source:InfoWorld, URL:http://www.infoworld.com/index.rss, language:en-us
+
+## Graal Cloud Native adds Google Cloud Platform support
+ - [https://www.infoworld.com/article/3713004/graal-cloud-native-adds-google-cloud-platform-support.html#tk.rss_all](https://www.infoworld.com/article/3713004/graal-cloud-native-adds-google-cloud-platform-support.html#tk.rss_all)
+ - RSS feed: http://www.infoworld.com/index.rss
+ - date published: 2024-02-20T20:24:00+00:00
+
+<article>
+	<section class="page">
+<p>Oracle has introduced Graal Cloud Native 4.2.1, a curated, Oracle-supported build of the open source <a href="https://www.infoworld.com/article/3658968/intro-to-micronaut-a-cloud-native-java-framework.html">Micronaut</a> framework, which provides a full-stack JVM platform for developing modular <a href="https://www.infoworld.com/article/3445043/what-are-microservices-your-next-software-architecture.html">microservices</a> and <a href="https://www.infoworld.com/article/3406501/what-is-serverless-serverless-computing-explained.html">serverless</a> applications.</p><p>Graal Cloud Native 4.2.1 was <a href="https://blogs.oracle.com/java/post/announcing-graal-cloud-native-421" rel="nofollow">unveiled January 30</a>. Offering out-of-the-box support for native compilation, Graal Cloud Native modules have integrated APIs and libraries for Google Cloud Platform services including Cloud Storage, Cloud SQL for MySQL, Secret Manager, Cloud Trace, Cloud
+
+## ngrok unveils API gateway-as-a-service
+ - [https://www.infoworld.com/article/3713080/ngrok-unveils-api-gateway-as-a-service.html#tk.rss_all](https://www.infoworld.com/article/3713080/ngrok-unveils-api-gateway-as-a-service.html#tk.rss_all)
+ - RSS feed: http://www.infoworld.com/index.rss
+ - date published: 2024-02-20T17:02:00+00:00
+
+<article>
+	<section class="page">
+<p><a href="https://www.infoworld.com/article/3711524/infoworlds-2023-technology-of-the-year-award-winners.html?page=2">Ngrok</a>, provider of an ingress service that delivers traffic from developer platforms to the internet, has <a href="https://ngrok.com/blog-post/introducing-ngrok-api-gateway" rel="nofollow">unveiled an API gateway-as-a-service</a>, which is <a href="https://ngrok.com/use-cases/api-gateway" rel="nofollow">now available in an early access developer preview</a>.</p><p>Ngrok’s API gateway enables developers to use the global ngrok network as an API gateway-as-a-service. Announced <a href="https://ngrok.com/blog-post/introducing-ngrok-api-gateway" rel="nofollow">February 15</a>, the API gateway offers capabilities such as JWT (JSON Web Token) authentication and authorization, global rate limiting, flexible request/response manipulation, and fine-grained traffic routing, powered by a new policy engine and ngrok’s global network
+
+## BrandPost: Retrieval augmented generation (RAG): The open-book test for generative AI
+ - [https://www.infoworld.com/article/3713062/retrieval-augmented-generation-rag-the-open-book-test-for-generative-ai.html#tk.rss_all](https://www.infoworld.com/article/3713062/retrieval-augmented-generation-rag-the-open-book-test-for-generative-ai.html#tk.rss_all)
+ - RSS feed: http://www.infoworld.com/index.rss
+ - date published: 2024-02-20T16:27:00+00:00
+
+<article>
+	<section class="page">
+<p>The release of ChatGPT in November 2022 marked a groundbreaking moment for AI, introducing the world to an entirely new realm of possibilities created by the fusion of generative AI (genAI) and machine learning foundation models, or large language models (LLMs).</p><p>In order to truly unlock the power of LLMs, organizations need to not only access the innovative commercial and open-source models but also feed them vast amounts of quality internal and up-to-date data. By combining a mix of proprietary and public data in the models, organizations can expect more accurate and relevant LLM responses that better mirror what's happening at the moment.</p><p>The ideal way to do this today is by leveraging retrieval-augmented generation (RAG), a powerful approach in natural language processing (NLP) that combines information retrieval and text generation. Most people by now are familiar with the concept of prompt engineering, which is essentially
+
+## BrandPost: How to avoid generative AI sprawl and complexity
+ - [https://www.infoworld.com/article/3713061/how-to-avoid-generative-ai-sprawl-and-complexity.html#tk.rss_all](https://www.infoworld.com/article/3713061/how-to-avoid-generative-ai-sprawl-and-complexity.html#tk.rss_all)
+ - RSS feed: http://www.infoworld.com/index.rss
+ - date published: 2024-02-20T16:21:00+00:00
+
+<article>
+	<section class="page">
+<p>There's no doubt that generative AI (genAI) and large language models (LLMs) are disruptive forces that will continue to transform our industry and economy in profound ways. But there's also something very familiar about the path organizations are taking to tap into gen AI capabilities.</p><p>It's the same journey that happens any time there's a need for data that serves a very specific and narrow purpose. We've seen it with search where bolt-on full-text search engines have proliferated, resulting in search-specific domains and expertise required to deploy and maintain. We've also seen it with time-series data where the need to deliver real-time experiences while solving for intermittent connectivity has resulted in a proliferation of edge-specific solutions for handling time-stamped data.</p><p class="jumpTag"><a href="/article/3713061/how-to-avoid-generative-ai-sprawl-and-complexity.html#jump">To read this article in full, please click 
+
+## BrandPost: How to stand out from the crowd when everyone uses generative AI
+ - [https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html#tk.rss_all](https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html#tk.rss_all)
+ - RSS feed: http://www.infoworld.com/index.rss
+ - date published: 2024-02-20T16:12:00+00:00
+
+<article>
+	<section class="page">
+<p>The arrival of generative AI (genAI) powered by Large Language Models (LLMs) in 2022 has captivated business leaders and everyday consumers due to its revolutionary potential. As the dawn of another new era in technology begins, the gold rush is on to leverage genAI and drive disruption in markets or risk becoming a victim of said disruption. Now, a vast array of vendors is bringing to market genAI enablers and products. This proliferation of fast-followers leaves executives and software developers feeling overwhelmed.</p><p><strong>The document model — a perfect fit for AI use cases</strong></p><p>Success doesn't necessarily equate to differentiation, especially when everyone has access to the same tools. In this environment, the key to market differentiation is layering your own unique proprietary data on top of genAI and LLMs. Documents, the underlying data model for MongoDB Atlas, allow you to combine your proprietary data with LLM-pow
+
+## Improving performance in hybrid cloud deployments
+ - [https://www.infoworld.com/article/3712980/improving-performance-in-hybrid-cloud-deployments.html#tk.rss_all](https://www.infoworld.com/article/3712980/improving-performance-in-hybrid-cloud-deployments.html#tk.rss_all)
+ - RSS feed: http://www.infoworld.com/index.rss
+ - date published: 2024-02-20T10:00:00+00:00
+
+<article>
+	<section class="page">
+<p>What we mean by “<a href="https://www.networkworld.com/article/964498/what-is-hybrid-cloud-computing.html">hybrid cloud</a>” has always needed to be clarified for the cloud industry. Once defined as a private cloud paired with a public cloud, it’s now a catch-all for any system that’s not a public cloud working together with a public cloud.</p><p>Hybrid clouds have become the battle cry for every enterprise hardware and software company looking to stay relevant. They can’t afford to build a public cloud with billions of buy-in. However, they can sell systems that work with public clouds, a cheap way to modernize your 20-year-old technology.</p><h2>GenAI changes everything</h2>
+<p>The interest in <a href="https://www.infoworld.com/article/3689973/what-is-generative-ai-artificial-intelligence-that-creates.html">generative AI</a> is pushing more enterprises toward hybrid clouds. In most instances, companies are looking to leverage their data 
+
+## Low-code doesn’t mean low quality
+ - [https://www.infoworld.com/article/3712666/low-code-doesn-t-mean-low-quality.html#tk.rss_all](https://www.infoworld.com/article/3712666/low-code-doesn-t-mean-low-quality.html#tk.rss_all)
+ - RSS feed: http://www.infoworld.com/index.rss
+ - date published: 2024-02-20T10:00:00+00:00
+
+<article>
+	<section class="page">
+<p>There is a certain artistry to elegantly written computer code. Programmers pride themselves on the craftsmanship that goes into program design, including attention to detail and functionality. Superior craftsmanship also requires superior tools, which is why more developers are adopting <a href="https://www.infoworld.com/article/3628183/what-is-low-code-development-faster-app-creation.html">low-code development</a> solutions. They want to focus on application services, not the coding process.</p><p>Some argue that software stacks and low-code solutions are limited in their capabilities, reducing the elegance of coding to a series of sophisticated dialog boxes and drag-and-drop interfaces that offer limited functionality. Granted, no-code platforms make it easy to get the stack up and running to support back-office workflows, but what about supporting those outside the workflow? Does low-code offer the functionality and flexibility to supp
+
+## Making cloud infrastructure programmable for developers
+ - [https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html#tk.rss_all](https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html#tk.rss_all)
+ - RSS feed: http://www.infoworld.com/index.rss
+ - date published: 2024-02-20T10:00:00+00:00
+
+<article>
+	<section class="page">
+<p>Most developers don’t use infrastructure as code (IaC), <a href="https://twitter.com/chrismunns/status/1754633277313261993" rel="nofollow">argues AWS tech lead Chris Munns</a>. But to those top 10% to 15% of developers who do use modern development technologies such as IaC go the spoils. Even if the audience for IaC remains relatively small, interest in Python and artificial intelligence is accelerating adoption, as Pulumi CEO Joe Duffy notes in an interview. In enterprises that see tech as a competitive advantage, developers are digging deep into infrastructure. IaC is their tool of choice to do this successfully.</p><h2>The new IT normal</h2>
+<p>In the days when developers had to request resources from IT, they were largely insulated from the worlds of databases, key-value stores, message queues, networking, and other hard-core "infrastructure" concerns. Developers owned application code, enterprise architects owned application infrastru
+
