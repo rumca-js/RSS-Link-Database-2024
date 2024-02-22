@@ -1,0 +1,457 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Final Fantasy 7 Rebirth Preorder Guide - Get Retailer-Exclusive Bonuses While You Still Can
+ - [https://www.gamespot.com/articles/final-fantasy-7-rebirth-preorder-guide/1100-6514519/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/final-fantasy-7-rebirth-preorder-guide/1100-6514519/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T23:04:00+00:00
+
+<div class="norewrite" title="6514519 - Final Fantasy 7 Rebirth preorder guide">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4193176-ff7rebirthcoverart.png" />                                 <a href="https://www.amazon.com/dp/B0CGXZQ4CD?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/dp/B0CGXZQ4CD?tag=gamespot-preorders-20">Preorder Final Fantasy 7 Rebirth Standard Edition</a>         
+
+## Final Fantasy 7 Remake Full Story Recap
+ - [https://www.gamespot.com/videos/final-fantasy-7-remake-full-story-recap/2300-6463464](https://www.gamespot.com/videos/final-fantasy-7-remake-full-story-recap/2300-6463464)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T23:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4262820-storyrecap_ff7remake_site.jpg" width="480" /> We’re days away from players getting their hands on the next chapter of the Final Fantasy VII Remake trilogy, Rebirth, which will dive into a large chunk of the original game’s story. But, there’s been so much story already, that even if you played Remake back in 2020, you might need a refresher.  So let’s go on this journey together, as we recap the story so far leading up to the opening moments of Final Fantasy VII Rebirth.
+
+## Lego Fortnite Update Adds Fishing And A Much Needed Tool
+ - [https://www.gamespot.com/articles/lego-fortnite-update-adds-fishing-and-a-much-needed-tool/1100-6521278/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/lego-fortnite-update-adds-fishing-and-a-much-needed-tool/1100-6521278/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T22:12:00+00:00
+
+<p>The latest <a href="https://www.gamespot.com/games/fortnite/">Lego Fortnite</a> update adds fishing to the survival-crafting game, alongside some quality-of-life additions, like a Compass. New update V28.30, titled Gone Fishin', adds fish, four different tiers of fishing rods, and new seafood recipes.</p><p dir="ltr">The <a href="https://www.fortnite.com/news/lego-fortnite-v28-30-gone-fishin">Gone Fishin' update</a> adds a new tool, the Fishing Rod. It comes in four tiers: common, uncommon, rare, and epic. You can unlock these new recipes by having a Cord, Knotroot Rod, Flexwood Rod, and Frostpine Rod in your inventory, respectively. You will also need to have the appropriate level of <a href="https://www.gamespot.com/articles/how-to-upgrade-the-crafting-bench-in-lego-fortnite/1100-6520027/">crafting bench</a>.</p><p dir="ltr">The update also adds 15 fish for you to catch, spread across different biomes and weather. The 15 fish added in the update are:</p><a href="https://
+
+## Great Pretender Anime Deluxe Edition Preorders Are Live At Crunchyroll
+ - [https://www.gamespot.com/articles/great-pretender-anime-deluxe-edition-preorders-are-live-at-crunchyroll/1100-6521070/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/great-pretender-anime-deluxe-edition-preorders-are-live-at-crunchyroll/1100-6521070/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T21:59:00+00:00
+
+<p>If you've been looking for an anime to watch that offers something different from the usual power fantasy and Isekai series that often dominate the charts, you can't go wrong with <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://store.crunchyroll.com/products/great-pretender-the-complete-series-blu-ray-deluxe-edition-82666324496.html">Great Pretender</a>. A show all about heists, scams, and swindles, The Great Pretender is an energetic dive into the high-stakes world of pulling a fast one and leaving no trace behind. It's now available for preorder for $160 ahead of its March 12 release, and this deluxe edition of the entire series is loaded with extras.</p><div><div class="norewrite" title="">           <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://store.crunchyroll.com/products/great-pretender-the-complete-series-blu-ray-deluxe-edition-82666324496.html">Preorder
+
+## Discounted Mavix Gaming Chairs Come With Free Heated Massagers For A Limited-Time
+ - [https://www.gamespot.com/articles/discounted-mavix-gaming-chairs-come-with-free-heated-massagers-for-a-limited-time/1100-6521231/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/discounted-mavix-gaming-chairs-come-with-free-heated-massagers-for-a-limited-time/1100-6521231/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T21:45:00+00:00
+
+<p dir="ltr">From now until the end of the month, Mavix is offering a special leap-year deal that reduces the base price on select gaming chairs and upgrades your order with free accessories, saving you over $200 on some of the <a href="https://www.gamespot.com/articles/mavix-m9-gaming-chair-review/1100-6487907/">best gaming chairs available.</a></p><div class="norewrite" title="">           <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.mavix.com/collections/gaming-chairs">See all gaming chair deals at Mavix</a> </div><p dir="ltr"> </p><p dir="ltr">The total savings differ between models, as do the specific bonus accessories you get. The high-end <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.mavix.com/collections/gaming-chairs/products/m9?variant=44567726162240">M9 Gaming Chair</a>, for example, comes with a free Elemax ergonomic back pad (which normally c
+
+## Hundreds Of Anime, Manga, And Collectibles Are On Clearance At Crunchyroll
+ - [https://www.gamespot.com/articles/hundreds-of-anime-manga-and-collectibles-are-on-clearance-at-crunchyroll/1100-6521277/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/hundreds-of-anime-manga-and-collectibles-are-on-clearance-at-crunchyroll/1100-6521277/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T21:24:00+00:00
+
+<p dir="ltr">Crunchyroll is holding a massive <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://store.crunchyroll.com/collections/sale-last-chance/">Last Chance Sale</a> with hundreds of items available at low prices. There are deals on manga, comics, Blu-rays, collectible figures, apparel, and more. All products included in the sale are on clearance--meaning once they're sold out, they're likely gone for good. The sale started a few days ago, and while many items are no longer available, there are still over 1,000 deals up for grabs. We've rounded up a batch of noteworthy discounts below, and you can browse the full sale at Crunchyroll's online store.</p><div><div class="norewrite" title="">           <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://store.crunchyroll.com/collections/sale-last-chance/">See all clearance deals at Crunchyroll</a> </div></div><p dir="ltr"> 
+
+## The Texas Chain Saw Massacre Is Adding A Horror Legend In Upcoming DLC
+ - [https://www.gamespot.com/articles/the-texas-chain-saw-massacre-is-adding-a-horror-legend-in-upcoming-dlc/1100-6521280/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-texas-chain-saw-massacre-is-adding-a-horror-legend-in-upcoming-dlc/1100-6521280/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T21:23:00+00:00
+
+<p><a href="https://www.gamespot.com/games/the-texas-chain-saw-massacre/">The Texas Chain Saw Massacre</a> is adding another original character to its suite of survivors--or "Victims," as they're called in-game. Virginia is the character's name, and most notably she'll feature the voice and likeness of Barbara Crampton, the prolific horror actor who has been featured in many horror movies spanning several decades, including retro hits Re-Animator and From Beyond, as well as modern favorites like You're Next and We're Still Here.</p><figure style="width: 2048px;"><a href="https://www.gamespot.com/a/uploads/original/1632/16320660/4262863-unnamed%288%29.jpg"><img alt="Barbara Crampton will soon arrive as the voice and likeness behind a playable character." src="https://www.gamespot.com/a/uploads/scale_super/1632/16320660/4262863-unnamed%288%29.jpg" /></a><figcaption>Barbara Crampton will soon arrive as the voice and likeness behind a playable character.</figcaption></figure><p>H
+
+## The Best Weapons In Helldivers 2
+ - [https://www.gamespot.com/gallery/best-weapons-in-helldivers-2/2900-5105](https://www.gamespot.com/gallery/best-weapons-in-helldivers-2/2900-5105)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T21:05:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1632/16320660/4259748-1%2813%29.jpg" /><br /><h3><p dir="ltr">Your <a href="https://www.gamespot.com/games/helldivers-2/">Helldivers 2</a> weapon is your most important ally, alongside your fellow Helldivers, of course. Know yourself, know your enemy, choose the right weapon, and no enemy of freedom will defeat you. From marksman rifles to automatic shotguns, machine pistols to grenades, these are the best weapons in Helldivers 2.</p></h3></p><br />     <p><h2>Breaker - Shotgun</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1632/16320660/4262792-breaker.png" /><br /><h3><ul><li dir="ltr">Traits: Light Armor Penetrating</li><li dir="ltr">How To Unlock: Page 4 of Standard Warbond</li></ul><p dir="ltr">The Breaker is my favorite weapon in the game, and there are many reasons for that. It has very high damage, letting you chunk down enemies of all sizes. It has very low damage drop-off, meaning you’ll be ab
+
+## Prime Video May Have Ads Now, But Amazon Won't Shut Down Freevee
+ - [https://www.gamespot.com/articles/prime-video-may-have-ads-now-but-amazon-wont-shut-down-freevee/1100-6521276/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/prime-video-may-have-ads-now-but-amazon-wont-shut-down-freevee/1100-6521276/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T20:53:00+00:00
+
+<p dir="ltr">Rumors are swirling regarding Amazon's intentions for its ad-supported streaming service, Freevee, in light of recent changes to Prime Video. According to a February 21 report by <a href="https://www.adweek.com/convergent-tv/amazon-sunset-freevee/">Adweek</a>, a pair of unnamed sources suggested Amazon might "sunset" Freevee, potentially before a key advertiser event in late April. However, Amazon says it has no plans to shut down Freevee.</p><p dir="ltr">With the launch of ads on Prime Video last month, speculation has been mounting about Amazon's strategic direction, even though the decision was addressed during Amazon's fourth-quarter earnings call. Earlier this month, CFO Brian Olsavsky informed Wall Street analysts that executives are pleased with the initial results of the move, considering it (via <a href="https://deadline.com/2024/02/prime-video-advertising-amazon-streaming-1235811891/">Deadline</a>) "an important part of [Prime's] total business model."<
+
+## Pacific Drive Guides Hub
+ - [https://www.gamespot.com/articles/pacific-drive-guides-hub/1100-6521060/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pacific-drive-guides-hub/1100-6521060/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T20:11:00+00:00
+
+<p>The world of <a href="https://www.gamespot.com/games/pacific-drive/"><strong>Pacific Drive</strong></a> is both eerie and spellbinding, with landscapes and scenes that are bound to make you stare in awe. Still, there are countless dangers that lurk in every corner, be it from the environment itself or the strange anomalies that occur.</p><p>Our Pacific Drive guides hub has all the tips you need to stay alive in this challenging roguelite game.</p><h2>Pacific Drive guides hub</h2><p><a href="https://www.gamespot.com/gallery/pacific-drive-beginners-guide-survival-tips/2900-5090/"><strong>Beginner's guide</strong></a> - Learn the ins and outs if you want to have more successful runs. We've got various tips to help you survive the deadly wilderness.</p><a href="https://www.gamespot.com/articles/pacific-drive-guides-hub/1100-6521060/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Pacific Drive Door Code - How To Unlock The Keypad Door In The Auto Shop
+ - [https://www.gamespot.com/articles/pacific-drive-door-code-keypad-door-auto-shop-guide/1100-6521068/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pacific-drive-door-code-keypad-door-auto-shop-guide/1100-6521068/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T20:06:00+00:00
+
+<p>The Auto Shop is your main hub in <a href="https://www.gamespot.com/games/pacific-drive/"><strong>Pacific Drive</strong></a>. While there's lots of stuff that you can do while you're relaxing in this area, one thing might perplex you early on. Here's our guide on how to unlock the keypad door in Pacific Drive.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to unlock the Auto Shop keypad door in Pacific Drive</a><ul><li><a href="https://www.gamespot.com">From the Auto Shop hub to the Mid-Zone</a></li></ul></div><h2 id="How_to_unlock_the_Auto_Shop_keypad_door_in_Pacific_Drive">How to unlock the Auto Shop keypad door in Pacific Drive</h2><p>Believe it or not, you unlock the Auto Shop keypad door in Pacific Drive once you've successfully completed the "Mid-Zone Crossing" mission. The code--4735--is actually mentioned by Tobias via radio. Howeve
+
+## Spider-Man 2 Adding New Suits In DLC For Charity, New Game Plus Update Dated
+ - [https://www.gamespot.com/articles/spider-man-2-adding-new-suits-in-dlc-for-charity-new-game-plus-update-dated/1100-6521274/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/spider-man-2-adding-new-suits-in-dlc-for-charity-new-game-plus-update-dated/1100-6521274/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T20:05:00+00:00
+
+<p dir="ltr">After winning more awards at the recent DICE Awards than any other nominated game, Marvel's Spider-Man 2's next update is just around the corner. Sony and Insomniac Games have announced the Version 1.002 update for the web-slinging adventure, and it will bring new modes, new suits, and more on March 7.</p><p dir="ltr">The main update within the Version 1.002 patch is the oft-requested New Game Plus mode. Spider-Man 2's take on the mode--along with the standard progression carryover and enhanced difficulty--will also include "Ultimate Levels, Golden Gadget styles, and more," according to the official <a href="https://blog.playstation.com/2024/02/21/marvels-spider-man-2-update-adds-new-game-plus-and-new-suits-on-march-7/?sf271840832=1">PlayStation Blog</a> post.</p><figure style="width: 1600px;"><a href="https://www.gamespot.com/a/uploads/original/3/37852/4262779-spidey-boi-2.jpg"><img alt="Suits from the The Fly N’ Fresh Suit Pack" src="https://www.gamespot.com/a/
+
+## Pacific Drive - How To Reach The Mid-Zone
+ - [https://www.gamespot.com/articles/pacific-drive-mid-zone-crossing-guide/1100-6521067/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pacific-drive-mid-zone-crossing-guide/1100-6521067/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T20:02:00+00:00
+
+<p>Things are about to get even more dangerous in <a href="https://www.gamespot.com/games/pacific-drive/"><strong>Pacific Drive</strong></a>, especially once you move further into unstable areas. New dangers await from pitch-black darkness to a hazy and irradiated marshland. Here's our guide on how to reach the Mid-Zone in Pacific Drive.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to reach the Mid-Zone in Pacific Drive</a></li></ul></div><h2 id="How_to_reach_the_Mid_Zone_in_Pacific_Drive">How to reach the Mid-Zone in Pacific Drive</h2><p>You reach the Mid-Zone as part of the game's critical path by completing a mission that's aptly named "Mid-Zone Crossing." You receive this task a few hours into the campaign after successfully finishing some of the objectives set forth by Oppy and co. Oppy will then tell you that you have to go to the Mid-
+
+## Elden Ring DLC's Map Is As Big Or Bigger Than Limgrave
+ - [https://www.gamespot.com/articles/elden-ring-dlcs-map-is-as-big-or-bigger-than-limgrave/1100-6521275/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/elden-ring-dlcs-map-is-as-big-or-bigger-than-limgrave/1100-6521275/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:54:00+00:00
+
+<p><a href="https://www.gamespot.com/games/elden-ring/">Elden Ring</a>: <a href="https://www.gamespot.com/articles/elden-ring-dlc-shadow-of-the-erdtree-releasing-in-june-first-trailer-shows-melanias-family/1100-6521250/">Shadow of the Erdtree</a>, the upcoming <a href="https://www.gamespot.com/articles/no-current-plans-for-elden-ring-2-or-more-dlc-but-from-software-isnt-ruling-it-out/1100-6521272/">DLC</a> for From Software's epic RPG, will reportedly feature a map equal to the size of Limgrave, if not larger. Speaking to <a href="https://www.ign.com/articles/hidetaka-miyazaki-elden-ring-shadow-of-the-erdtree-interview">IGN</a>, Elden Ring director Hidetaka Miyazaki compared it to the first major area you can explore in the base game, which includes both Stormhill and the entire Stormveil Castle.</p><p>"It's hard to answer without giving away too much and to a high degree of accuracy, but if you think in terms of scale or size, it's probably comparable, if not larger, than th
+
+## Pacific Drive - How To Increase Your Inventory Storage
+ - [https://www.gamespot.com/articles/pacific-drive-increase-inventory-storage-guide/1100-6521065/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pacific-drive-increase-inventory-storage-guide/1100-6521065/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:49:00+00:00
+
+<p>You'll find a lot of resources and materials in <a href="https://www.gamespot.com/games/pacific-drive/"><strong>Pacific Drive</strong></a>. However, lacking the space would mean you won't be able to carry all of them back to your base. Here's our guide on how to increase inventory storage in Pacific Drive.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to increase inventory storage in Pacific Drive</a></li></ul></div><h2 id="How_to_increase_inventory_storage_in_Pacific_Drive">How to increase inventory storage in Pacific Drive</h2><p>You can increase inventory storage by unlocking certain blueprints via the Fabrication Station. First, take note that there are technically three types of inventories in the game:</p><ul><li>Player inventory - These are the items that your character has at all times, even while they're on foot.</li><li>Car inven
+
+## Pacific Drive - How To Repair Your Car
+ - [https://www.gamespot.com/articles/pacific-drive-repair-car-guide/1100-6521063/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pacific-drive-repair-car-guide/1100-6521063/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:46:00+00:00
+
+<p>You'll spend most of your time on the road in <a href="https://www.gamespot.com/games/pacific-drive/"><strong>Pacific Drive</strong></a>. The journey is perilous, and you'll likely find yourself facing numerous environmental hazards and anomalies. Naturally, you'll want to keep your vehicle running. Here's our guide on how to repair your car in Pacific Drive.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to repair your car in Pacific Drive</a><ul><li><a href="https://www.gamespot.com">What are the parts of your vehicle</a></li></ul></div><h2 id="How_to_repair_your_car_in_Pacific_Drive">How to repair your car in Pacific Drive</h2><p>You can repair your car by making use of craftable items, such as the Repair Putty, Sealant Kit, Mechanic's Kit, and Electrician's Kit. There are also methods, like the Friendly Dumpster and Matter Regenerator, 
+
+## Pacific Drive Garbage Pearls - How To Open Them With The Matter Deconstructor
+ - [https://www.gamespot.com/articles/pacific-drive-garbage-pearls-matter-deconstructor/1100-6521066/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pacific-drive-garbage-pearls-matter-deconstructor/1100-6521066/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:42:00+00:00
+
+<p><a href="https://www.gamespot.com/games/pacific-drive/"><strong>Pacific Drive</strong></a> is a game that emphasizes crafting upgrades so you can survive longer in the wilds. As such, it's important to gather materials, even from objects and parts that you no longer need. Here's our guide on how to use Garbage Pearls and the Matter Deconstructor in Pacific Drive.</p><h2>How to use Garbage Pearls and the Matter Deconstructor in Pacific Drive</h2><p>You can use Garbage Pearls in Pacific Drive by feeding them into Matter Deconstructors. That sounds straightforward enough, so here's a quick summary:</p><ul><li>Garbage Pearls look like shiny blobs, akin to a compacted trash heap.</li><li>They're also fairly rare. It's possible to find them when you interact with Friendly Dumpsters in the junctions that you visit all over the zone. You might also discover some in a select few containers, albeit as random loot.</li><li>Once you've built the Matter Deconstructor (more on this in t
+
+## Pacific Drive - How To Craft Headlights, Flashlights, And Flares
+ - [https://www.gamespot.com/articles/pacific-drive-headlights-flashlights-flares-guide/1100-6521064/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pacific-drive-headlights-flashlights-flares-guide/1100-6521064/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:38:00+00:00
+
+<p>Roaming the countryside in <a href="https://www.gamespot.com/games/pacific-drive/"><strong>Pacific Drive</strong></a> can be a harrowing experience. Apart from anomalies, you also have to contend with a day-night cycle, and the nights are extremely dark. Here's our guide on how to make Headlights, Flashlights, and Flares in Pacific Drive.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to get Headlights, Flashlights, and Flares in Pacific Drive</a><ul><li><a href="https://www.gamespot.com">Road Flares and Relightable Flares</a></li></ul></div><h2 id="How_to_get_Headlights__Flashlights__and_Flares_in_Pacific_Drive">How to get Headlights, Flashlights, and Flares in Pacific Drive</h2><p>You can craft Headlights, Flashlights, and Flares by unlocking their respective blueprints in the Fabrication Station. You'll find these under the Lights catego
+
+## Pacific Drive - How To Get Electronics And Circuit Boards
+ - [https://www.gamespot.com/articles/pacific-drive-electronics-circuit-boards-guide/1100-6521062/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pacific-drive-electronics-circuit-boards-guide/1100-6521062/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:36:00+00:00
+
+<p>Crafting new components is pretty much a given in <a href="https://www.gamespot.com/games/pacific-drive/"><strong>Pacific Drive</strong></a>. Since you need new machines to keep your car in good condition, you might as well acquire the necessary materials. Here's our guide on how to get Electronics and Circuit Boards in Pacific Drive.</p><h2>How to get Electronics and Circuit Boards in Pacific Drive</h2><p>You can get Electronics in Pacific Drive by dismantling appliances with the Scrapper. Here's a quick summary:</p><ul><li>The Scrapper tool is unlocked early in the game. It can be crafted via the Workbench (in your hub) or Craft Mat (in your car's trunk). Each Scrapper requires 3x Scrap Metal and 6x Plastic.</li><li>Appliances are often found inside cabins, trailers, and houses that dot the wilderness. These include phones, TVs, cash registers, radios, and more.</li><li>With the Scrapper equipped, hold the left mouse button to start dismantling the object. Then, pick up 
+
+## Pacific Drive - How To Get More Gas For Your Car
+ - [https://www.gamespot.com/articles/pacific-drive-fuel-gas-car-guide/1100-6521061/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pacific-drive-fuel-gas-car-guide/1100-6521061/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:35:00+00:00
+
+<p>Heading out on your next run in <a href="https://www.gamespot.com/games/pacific-drive/"><strong>Pacific Drive</strong></a> can be quite an experience. After all, it's almost a given that you'll try to swerve past hazards or rush past anomalies. But what happens once your car stops running? Here's our guide on how to get more gas/fuel in Pacific Drive.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to get more fuel for your car in Pacific Drive</a><ul><li><a href="https://www.gamespot.com">How to use the pumps in gas stations</a></li></ul></div><h2 id="How_to_get_more_fuel_for_your_car_in_Pacific_Drive">How to get more fuel for your car in Pacific Drive</h2><p>You can get more fuel by siphoning it from abandoned vehicles or by looking for gas stations. Likewise, you can build various upgrades for your car so you can bring more fuel for the r
+
+## Review Roundup For Dune 2: Here's What The Critics Are Saying
+ - [https://www.gamespot.com/articles/review-roundup-for-dune-2-heres-what-the-critics-are-saying/1100-6521271/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/review-roundup-for-dune-2-heres-what-the-critics-are-saying/1100-6521271/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:34:00+00:00
+
+<p>Dune: Part II comes to theaters on March 1, but ahead of that, reviews for the sci-fi film have begun to appear online. To help you get an idea about whether the film is worth your time and money, we're collecting review scores and excerpts from a variety of publications across the internet.</p><p>Here at GameSpot, our <a href="https://www.gamespot.com/reviews/dune-part-two-review/1900-6418185/">Dune 2 review</a> scored the movie a 9/10. Reviewer Phil Owen said the movie is "much weirder and more fun" than the 2021 original.</p><p>Dune: Part II is a sequel to 2021's Dune, which was released simultaneously in theaters and on Max (then known as HBO Max) due to the pandemic. The sequel brings back director Denis Villenueve and main cast members Timothee Chalamet and Zendaya. Austin Butler joins the sequel as Feyd Rautha. Beyond telling the next chapter of the story, much has been said about the <a href="https://www.gamespot.com/articles/dune-2-stars-react-to-movies-viral-popc
+
+## Pacific Drive - Anomalies And Enemies Guide
+ - [https://www.gamespot.com/gallery/pacific-drive-anomalies-enemies-guide/2900-5089](https://www.gamespot.com/gallery/pacific-drive-anomalies-enemies-guide/2900-5089)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:31:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4261224-pacific-drive-anomalies-enemies-guide-.jpg" /><br /><h3><p><a href="https://www.gamespot.com/games/pacific-drive/"><strong>Pacific Drive</strong></a> is a roguelite survival game. Survival is somewhat of an understatement, because so many things can annihilate your vehicle. Of course, without your trusty car, you can bet that your character will perish eventually. Here's our Pacific Drive anomalies and enemies guide so you can prepare for the game's many confusing threats during your runs.</p><h2> </h2></h3></p><br />     <p><h2>Hurricane Squall</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4261228-pacific-drive-anomalies-enemies-guide-1c.jpg" /><br /><h3><p>A Hurricane Squall is an extremely dangerous weather anomaly that can occur in certain junctions. Denoted by a huge, light green radius, heading inside this area will cause your car to get constantly pushed to va
+
+## Pacific Drive Tips And Secrets
+ - [https://www.gamespot.com/gallery/pacific-drive-beginners-guide-survival-tips/2900-5090](https://www.gamespot.com/gallery/pacific-drive-beginners-guide-survival-tips/2900-5090)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:28:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4261207-pacific-drive-beginners-guide-survival-tips-.jpg" /><br /><h3><p>You're bound to encounter a lot of car problems in <a href="https://www.gamespot.com/games/pacific-drive/"><strong>Pacific Drive</strong></a>. Actually, car problems will probably lead to your character's untimely demise, and a quick respawn back at the auto shop. Still, there are ways to prolong your run if you're careful enough. Here's our Pacific Drive beginner's guide with several tips to help you survive your journey.</p></h3></p><br />     <p><h2>Make sure your car is parked if you're on foot</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4261209-pacific-drive-beginners-guide-survival-tips-1.jpg" /><br /><h3><p>We can't stress this enough: You should always put the car in park whenever you're going on foot. The reason for this is simple: The wilderness is full of uneven roads and sloping paths. Not
+
+## "No Current Plans" For Elden Ring 2 Or More DLC, But From Software Isn't Ruling It Out
+ - [https://www.gamespot.com/articles/no-current-plans-for-elden-ring-2-or-more-dlc-but-from-software-isnt-ruling-it-out/1100-6521272/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/no-current-plans-for-elden-ring-2-or-more-dlc-but-from-software-isnt-ruling-it-out/1100-6521272/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:06:00+00:00
+
+<p>Elden Ring 2, or a second DLC expansion for the original <a href="https://www.gamespot.com/games/elden-ring/">Elden Ring</a>, are not currently in the works, according to From Software's Hidetaka Miyazaki.</p><p dir="ltr">Speaking with <a href="https://www.ign.com/articles/hidetaka-miyazaki-elden-ring-shadow-of-the-erdtree-interview">IGN</a>, Miyazaki, who served as game director for Elden Ring, said he doesn't want the game's <a href="https://www.gamespot.com/articles/elden-ring-dlc-shadow-of-the-erdtree-releasing-in-june-first-trailer-shows-melanias-family/1100-6521250/">upcoming Shadow of the Erdtree DLC</a> to be "the end of the Elden Ring saga." However, for now, there are no plans for a sequel or more DLC.</p><p dir="ltr">"I think we said a similar thing at the end of Dark Souls 3," Miyazaki said. "We didn't want to flatten those possibilities or put a pin in them just at that time. It's a similar story with Elden Ring. We don't want to discourage the possibilities f
+
+## How To Respec Mastery And Skill Points In Last Epoch
+ - [https://www.gamespot.com/articles/how-to-respec-mastery-and-skill-points-in-last-epoch/1100-6521217/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-respec-mastery-and-skill-points-in-last-epoch/1100-6521217/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T19:03:00+00:00
+
+<p>There are dozens of different skill trees you can access in <a href="https://www.gamespot.com/games/last-epoch/">Last Epoch</a>, but you're not stuck with the choices you make. No matter what class you're using or how far along you are in the game, you're able to fully respec both your Mastery and Skill Points in Last Epoch. The guide below shows exactly how you can respec both kinds of skills and the cost to do so.</p><h2>Respec Mastery Skills in Last Epoch</h2><p>First up, we have the <strong>Mastery Points</strong>, which are also called <strong>Passives</strong> in Last Epoch. These are the skills you unlock after reaching a new level and are specific to your class. These skills apply to your class as a whole and not individual skills you use to attack enemies, buff your character, etc. You can look at the Mastery Points tree by going to the "Passives" menu in Last Epoch.</p><p>Here, you can see all of your class' Passives, both for your class in general and the Master
+
+## CoD: Warzone And MW3 Season 2 Reloaded Release Date And Details
+ - [https://www.gamespot.com/articles/cod-warzone-and-mw3-season-2-reloaded-release-date-and-details/1100-6521270/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-warzone-and-mw3-season-2-reloaded-release-date-and-details/1100-6521270/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T18:49:00+00:00
+
+<p dir="ltr"><a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty: Modern Warfare 3</a> and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a>'s Season 2 Reloaded update should arrive next month. Here is everything already announced for the big update, including more weapons, additional multiplayer maps, more Warzone features, and a new Zombies story act.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">Call of Duty Season 2 Reloaded start times</a></li><li><a href="https://www.gamespot.com">What to expect from Season 2 Reloaded</a></li></ul></div><h2 dir="ltr" id="Call_of_Duty_Season_2_Reloaded_start_times">Call of Duty Season 2 Reloaded start times</h2><p dir="ltr">Given the number of days left in the battle pass, the mid-point should occur around Wednesday, March 6. And if this update foll
+
+## Borderlands Trailer Breakdown - All The Easter Eggs You Might Have Missed
+ - [https://www.gamespot.com/gallery/borderlands-trailer-breakdown-all-the-easter-eggs-you-might-have-missed/2900-5103](https://www.gamespot.com/gallery/borderlands-trailer-breakdown-all-the-easter-eggs-you-might-have-missed/2900-5103)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T18:47:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4262365-borderlands.jpg" /><br /><h3><p>The <a href="https://www.gamespot.com/articles/first-borderlands-trailer-is-full-of-chaos-carnage-and-a-bullet-pooping-claptrap/1100-6521237/">first trailer for the Borderlands movie</a> has arrived, and while it is set in a completely different timeline to the original games, it's still packed with plenty of nods to the shoot-and-loot franchise. Director Eli Roth--with some assistance from Deadpool's Tim Miller--had plenty to work with when filming began, as by 2021, there were multiple mainline Borderlands games and spin-offs that fleshed out the hostile galaxy of alien vaults, meat-bicycle-obsessed bandits, and corporations with unchecked power.</p><p>We've gathered up the best of these Easter eggs below, and if the first proper look at the film has you excited to see the full feature film, you can catch Borderlands in theaters from August 9.</p></h3></p><br />
+
+## How To Play Mother 3 And Other Japan-Only Games With Nintendo Switch Online
+ - [https://www.gamespot.com/articles/how-to-play-mother-3-and-other-japan-only-games-with-nintendo-switch-online/1100-6521269/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-play-mother-3-and-other-japan-only-games-with-nintendo-switch-online/1100-6521269/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T18:31:00+00:00
+
+<p>One of the best features of the Nintendo Switch comes with the Nintendo Switch Online subscription, which gives you access to classic Nintendo games. The $20/year subscription gives you access to a collection of NES, SNES, and Game Boy games, with the $50 a year Expansion Pack subscription adding N64 and Game Boy Advance games. The collection isn't identical in every region, with titles like Mother 3 for the Game Boy Advance only available on the Japanese version of the collection. Luckily, the Nintendo Switch isn't region locked, so you can download and play these games without needing a second subscription.</p><h2 dir="ltr">Make a Japanese Nintendo Switch account</h2><p dir="ltr">The first step is to create a Japanese Nintendo Switch account, that way you can access that version of the eShop. Go to <a href="https://accounts.nintendo.com/">accounts.nintendo.com</a> and create a new account. You will need a different email address from your normal account and when filling 
+
+## Theoretical Bloodborne Remake Could Receive "Value" From New Hardware, Miyazaki Says
+ - [https://www.gamespot.com/articles/theoretical-bloodborne-remake-could-receive-value-from-new-hardware-miyazaki-says/1100-6521268/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/theoretical-bloodborne-remake-could-receive-value-from-new-hardware-miyazaki-says/1100-6521268/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T18:15:00+00:00
+
+<p><a href="https://www.gamespot.com/games/bloodborne/">Bloodborne</a> and <a href="https://www.gamespot.com/games/elden-ring/">Elden Ring</a> director Hidetaka Miyazaki wouldn't state outright if a Bloodborne remake for more modern hardware is in the works during a new interview, but he did say new hardware in a general sense gives "remakes value," adding fuel to the fire for the game's passionate fanbase.</p><p dir="ltr">From Software's classic action-RPG laced with gothic horror trappings was only ever released on PlayStation 4, leaving many fans clamoring for a Bloodborne re-release or remake that would take advantage of more recent hardware like the PS5 or modern PCs. Speaking with <a href="https://www.eurogamer.net/elden-ring-boss-discusses-bloodborne-remake-benefits-of-waiting-for-new-hardware">Eurogamer</a>, Miyazaki didn't have anything to officially announce or confirm when it came to a Bloodborne remake but did speak on how new hardware benefits remakes of older ga
+
+## Microsoft Confirms Plans To Launch These Four Xbox Games On Rival Platforms
+ - [https://www.gamespot.com/articles/microsoft-confirms-plans-to-launch-these-four-games-on-rival-platforms/1100-6521266/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/microsoft-confirms-plans-to-launch-these-four-games-on-rival-platforms/1100-6521266/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T18:03:00+00:00
+
+<p>Confirming rumors and reports, Microsoft today officially announced that its first-party games Sea of Thieves, Grounded, Hi-Fi Rush, and Pentiment are coming to rival platforms.</p><p>Pentiment comes to PS4, PS5, and Switch on February 22. <a href="https://www.gamespot.com/articles/xbox-exclusive-hi-fi-rush-releases-on-ps5-in-march-deleted-trailer-reveals/1100-6521258/">Hi-Fi Rush lands on PlayStation 5 on March 19</a>, with preorders opening February 21 (there was no mention of a Switch release). Grounded, meanwhile, comes to PS4, PS5, and Nintendo Switch on April 16. Cross-play will be available between all console platforms as well as PC.</p><p>Finally, Sea of Thieves is coming to PS5 on April 30, and there will be cross-play support between Xbox, PlayStation, and PC. Microsoft did not say anything about bringing Sea of Thieves to Switch.</p><a href="https://www.gamespot.com/articles/microsoft-confirms-plans-to-launch-these-four-games-on-rival-platforms/1100-6521266/?ft
+
+## 8BitDo's Unique Retro Mechanical Gaming Keyboard Drops To Lowest Price Yet
+ - [https://www.gamespot.com/articles/8bitdos-unique-retro-mechanical-gaming-keyboard-drops-to-lowest-price-yet/1100-6521257/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/8bitdos-unique-retro-mechanical-gaming-keyboard-drops-to-lowest-price-yet/1100-6521257/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T18:00:00+00:00
+
+<p>There's no shortage of great mechanical keyboards on the market, but few are as intriguing as the <a href="https://www.tkqlhce.com/click-100770772-13142092?sid=subid_value&amp;url=https://electronics.woot.com/offers/8bitdo-8bitdo-retro-mechanical-keyboard-blueto">8BitDo Retro Fami Edition</a>. Along with the usual features you'd expect a mechanical keyboard to offer--such as responsive switches, multiple connectivity options, and customization software--it features a stylish, Famicom-inspired design. Typically sold for $100, it's now available for its lowest-ever price of $80. Alternatively, you can <a href="https://www.amazon.com/Mechanical-Keyboard-Bluetooth-Swappable-Programmable-PC/dp/B0CCP8KYGG?tag=gamespot-promos-20">grab the NES-inspired model for $90 directly from Amazon</a>. And just like other 8BitDo products, you're getting a whole lot of value for the price--it's a fantastic keyboard.</p><div class="norewrite" title="6521257 - 8BitDo Keyboard Deal">  <div class
+
+## Monster Hunter Stories Gets Remastered For PS4, PC, And Switch This Summer
+ - [https://www.gamespot.com/articles/monster-hunter-stories-gets-remastered-for-ps4-pc-and-switch-this-summer/1100-6521267/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/monster-hunter-stories-gets-remastered-for-ps4-pc-and-switch-this-summer/1100-6521267/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T17:51:00+00:00
+
+<p>During the <a href="https://www.gamespot.com/gallery/nintendo-direct-february-2024-all-the-biggest-announcements/2900-5100/">February 2024 Nintendo Partner Direct</a>, Capcom has announced that Monster Hunter Stories is coming to PC, Nintendo Switch, and PlayStation 4 this summer. It's a spin-off of the Monster Hunter series that focuses on turn-based combat at monster collecting similar to the Pokémon franchise.</p><p>This remaster boasts quite a few new features, including refined graphics with enhanced and improved modeling, as well as higher definition lighting. The original 3DS version didn't have any voiceovers at all, but the remaster will be fully voiced with both Japanese and English voices.</p><p>There will be additional language support too, including Chinese, Korea, Russian, Brazilian, Portuguese, Polish and Arabic. A newly added Museum mode allows players to check out the game's background music and developer sketches.</p><a href="https://www.gamespot.com/arti
+
+## Skull And Bones Review - Dead In The Water
+ - [https://www.gamespot.com/reviews/skull-and-bones-review-dead-in-the-water/1900-6418186/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/skull-and-bones-review-dead-in-the-water/1900-6418186/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T17:25:00+00:00
+
+<p dir="ltr">Skull and Bones doesn't make a good first impression. Given its troubled development, this isn't the least bit surprising; it's tough to approach Ubisoft's latest without a heavy dose of trepidation. Nonetheless, after six separate delays, several scrapped concepts, and 11 years in development hell, the game's opening hours fail to put Skull and Bones' best foot forward, instead indulging in its very worst aspects. The gradual prevalence of combat does marginally improve things, particularly once your options open up and you're able to tinker with your ship and its various weaponry, but this isn't enough to save it from the dregs of mediocrity. Forget about scurvy; this swashbuckling adventure is beset with a severe case of live-service insipidity.</p><p dir="ltr">Skull and Bones' tutorial preamble kicks things off by making sure you know how to talk to NPCs and cut down trees. If your idea of pirating on the high seas revolves around the kind of resource-gatheri
+
+## Nightingale - How To Increase Gear Score
+ - [https://www.gamespot.com/articles/nightingale-increase-gear-score-guide/1100-6521261/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nightingale-increase-gear-score-guide/1100-6521261/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T17:10:00+00:00
+
+<p>Progression in <a href="https://www.gamespot.com/games/nightingale/"><strong>Nightingale</strong></a> might seem unclear at first. Apart from jumping back and forth mysterious worlds, you still need to boost your character's equipment just to gain access to certain areas. Here's our guide on how to increase gear score in Nightingale.</p><h2>How to increase gear score in Nightingale</h2><p>You can increase item level or gear score by upgrading your equipment. We've got all the details for you in our <a href="https://www.gamespot.com/articles/nightingale-upgrade-weapons-infuse-weapons-guide/1100-6521180/"><strong>item upgrade and infusion guide</strong></a>, but here's a quick summary nonetheless:</p><ul><li>Your total gear score is calculated based on the following items that you have equipped:  <ul><li>Main hand weapon or tool; the off-hand item is not counted.</li><li>Headgear</li><li>Gear/coat</li><li>Backpack/cloak/poncho</li><li>Shirt</li><li>Pants</li><li>Gloves</li><
+
+## Dune 2 Star Says Temperatures Reached 110 Degrees And People Passed Out On Set
+ - [https://www.gamespot.com/articles/dune-2-star-says-temperatures-reached-110-degrees-and-people-passed-out-on-set/1100-6521253/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dune-2-star-says-temperatures-reached-110-degrees-and-people-passed-out-on-set/1100-6521253/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T17:07:00+00:00
+
+<p>Dune: Part II takes place in a hot desert, and the filmmaking experience was similarly scorching, it seems. Austin Butler, who joins the cast for the sequel as Feyd-Rautha, said in a new interview with <a href="https://ew.com/dune-part-two-timothee-chalamet-zendaya-austin-butler-florence-pugh-cover-story-8584736?utm_medium=social&amp;utm_campaign=entertainmentweekly_ew&amp;utm_source=twitter.com&amp;utm_content= link&amp;utm_term=20240220">Entertainment Weekly</a> that temperatures reached 110 degrees on the soundstage and that people passed out due to heat-related exhaustion.</p><p>"It was 110 degrees and so hot," Butler said. "I had the bald cap on, and it was between two soundstages that were just these gray boxes of 200-foot walls and sand. It became like a microwave. There were people passing out from heatstroke. And that was just my first week."</p><div>          </div><p>Despite what sounds like unpleasant conditions, Butler said this environment helped bring everyo
+
+## World Of Goo 2 Release Date Revealed For May
+ - [https://www.gamespot.com/articles/world-of-goo-2-release-date-revealed-for-may/1100-6521260/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/world-of-goo-2-release-date-revealed-for-may/1100-6521260/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T17:07:00+00:00
+
+<p dir="ltr">More than 15 years since the original game launched, World of Goo 2 will release May 23 on Nintendo Switch and PC. The sequel is set to introduce new types of goo--like explosive, growing, and shrinking--to the physics-based puzzle series.</p><p dir="ltr">The World of Goo 2 release date was revealed at today's <a href="https://www.gamespot.com/gallery/nintendo-direct-february-2024-all-the-biggest-announcements/2900-5100/">Nintendo Direct</a>. The game will debut as a console exclusive for Switch, including four-player local co-op only found on the hybrid system. A press release adds the sequel will feature more than 64 levels.</p><div>          </div><p dir="ltr"><a href="https://www.gamespot.com/articles/world-of-goo-2-announced-coming-in-2024/1100-6519792/">World of Goo 2 was unveiled at The Game Awards</a> in December. The trailer for the sequel shows classic bridge-building with the goo, as well as terraforming and what look like goo cannons. The puzzle game 
+
+## First Borderlands Trailer Is Full Of Chaos, Carnage, And A Bullet-Pooping Claptrap
+ - [https://www.gamespot.com/articles/first-borderlands-trailer-is-full-of-chaos-carnage-and-a-bullet-pooping-claptrap/1100-6521237/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/first-borderlands-trailer-is-full-of-chaos-carnage-and-a-bullet-pooping-claptrap/1100-6521237/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T17:01:00+00:00
+
+<p>After years of radio silence, the first trailer for Eli Roth's Borderlands movie has arrived. A loose adaptation of the Gearbox-developed games, the first proper look at the game is full of bullets, bandits, and at least one explosive tea party.</p><div>          </div><p> </p><p>It has been a long road for the <a href="https://www.gamespot.com/articles/new-borderlands-movie-photos-show-off-cate-blanchett-and-companys-killer-fashion-sense/1100-6521201/">Borderlands movie</a>, as after principal photography was <a href="https://www.gamespot.com/articles/the-borderlands-movie-has-finished-filming/1100-6493159/">completed in June 2021</a>, there was a lengthy period of post-production work. Deadpool's Tim Miller was brought on to direct reshoots while Roth worked on Thanksgiving, a horror film based on the mock trailer seen in Quentin Tarantino &amp; Robert Rodriguez's Grindhouse double feature.</p><a href="https://www.gamespot.com/articles/first-borderlands-trailer-is-full-o
+
+## Dune: Part Two Review - A More Subversive Angle
+ - [https://www.gamespot.com/reviews/dune-part-two-review/1900-6418185/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/dune-part-two-review/1900-6418185/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T17:00:00+00:00
+
+<p dir="ltr">Dune: Part Two filmmaker Denis Villeneuve, to me, is the sort of guy who likes to bite off more than he can theoretically chew with his projects. That's left him as a director whose work I respect more than I enjoy--stuff like Arrival and the first Dune movie are impeccably crafted, but they work more on a vibes level than an academic one.</p><p dir="ltr">But I knew he was capable of making something that hit me in both my brain and my heart, because he nailed it a decade ago with his first big Hollywood studio movie, Prisoners. And Dune: Part Two is Villeneuve's first film since that one to really work for me in that same overall way. It's still longer than it probably needs to be--it drags in the mid-section, like so many long movies do--but it's still a big step up from the first one.</p><p dir="ltr">Dune: Part Two picks up directly from the end of the first movie, with the Harkonnens once again in charge of the spice harvesting operations on Arrakis, and with
+
+## Level Zero: Extraction Looks Like Alien: Isolation With Multiplayer
+ - [https://www.gamespot.com/articles/level-zero-extraction-looks-like-alien-isolation-with-multiplayer/1100-6521226/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/level-zero-extraction-looks-like-alien-isolation-with-multiplayer/1100-6521226/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T17:00:00+00:00
+
+<p dir="ltr">In an industry obsessed with sequels, we somehow never got a follow-up to the brilliant <a href="https://www.gamespot.com/games/alien-isolation/">Alien: Isolation</a> from Creative Assembly. In <a href="https://www.gamespot.com/games/level-zero/">Level Zero: Extraction</a>, plenty of things are different; the development team, the number of players, and the win conditions all come to mind. But elements such as the claustrophobic atmosphere and predator-versus-prey gameplay loop are very much still present and clearly inspired by the sci-fi horror classic, giving this upcoming multiplayer horror game a strong first step in a quickly growing genre.</p><p dir="ltr">Level Zero: Extraction (LZE) combines two ongoing trends in multiplayer games: extraction shooters, such as Escape from Tarkov, and asymmetrical horror, like Dead By Daylight. While those two games may be the titans in their respective fields, LZE is made with the hope that mixing them together alongside 
+
+## PlayStation Pulse Elite Wireless Headset For PS5 Has Finally Arrived
+ - [https://www.gamespot.com/articles/playstation-pulse-elite-wireless-headset-for-ps5-has-finally-arrived/1100-6521256/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/playstation-pulse-elite-wireless-headset-for-ps5-has-finally-arrived/1100-6521256/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T16:45:00+00:00
+
+<p>The <a href="https://www.amazon.com/PULSE-3D-Wireless-Headset-PlayStation-5/dp/B08FC6QLKN?tag=gamespot-promos-20">Pulse 3D Headset</a> was quite popular when it first launched for PS5. With a sleek black and white design, support for 3D Audio, and comfortable earcups designed for long play sessions, it was the ideal companion for the new-gen console. Fast-forward to today, and the headset is finally getting an upgraded successor. Months after the release of the new <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.walmart.com/ip/PlayStation-PULSE-Explore-Wireless-Earbuds/5113283042">Pulse Explore Wireless Earbuds</a>, The <a href="https://www.amazon.com/PlayStation-Pulse-Elite-Wireless-Headset-5/dp/B0CMDH9M5W?tag=gamespot-promos-20">Pulse Elite Wireless Headset</a> is finally on store shelves, and it takes everything folks loved about the Pulse 3D and makes them even better.</p><div class="norewrite" title="6521256 -
+
+## Xbox Exclusive Hi-Fi Rush Releases On PS5 In March, Deleted Trailer Reveals
+ - [https://www.gamespot.com/articles/xbox-exclusive-hi-fi-rush-releases-on-ps5-in-march-deleted-trailer-reveals/1100-6521258/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-exclusive-hi-fi-rush-releases-on-ps5-in-march-deleted-trailer-reveals/1100-6521258/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T16:13:00+00:00
+
+<p>It looks like Hi-Fi Rush is coming to PlayStation 5 on March 18. In an announcement trailer that has now gone private, Bethesda Latin America revealed the port with the game's Spanish voiceovers.</p><p>According to the <a href="https://www.youtube.com/watch?v=2wiNXZPuFRU">trailer's description</a>, it seems like Hi-Fi Rush on PS5 will support DualSense features and include all previously released content, including the Arcade Challenge update as well as two additional game modes: Full Time and Tower Assault.</p><p>Preorders for the game will start on February 22, and Digital Deluxe Edition owners will receive new cosmetics and in-game currency to upgrade their skills.</p><a href="https://www.gamespot.com/articles/xbox-exclusive-hi-fi-rush-releases-on-ps5-in-march-deleted-trailer-reveals/1100-6521258/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## All The New Games You Can Play On Switch Today After The Nintendo Direct
+ - [https://www.gamespot.com/gallery/all-the-new-games-you-can-play-on-switch-today-after-the-nintendo-direct/2900-5102](https://www.gamespot.com/gallery/all-the-new-games-you-can-play-on-switch-today-after-the-nintendo-direct/2900-5102)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T16:02:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1814/18142392/4262495-pyo_keyart_3840x2160_nologos.jpg" /><br /><h3><p>The <a href="https://www.gamespot.com/gallery/nintendo-direct-february-2024-all-the-biggest-announcements/2900-5100/">February 2024 Nintendo Direct</a> took place earlier today, featuring an array of third-party titles. Some were brand-new announcements, including <a href="https://www.gamespot.com/articles/shin-megami-tensei-5-vengeance-announced-coming-to-more-than-just-switch/1100-6521244/">Shin Megami Tensei 5: Vengeance</a> and <a href="https://www.gamespot.com/articles/star-wars-battlefront-classic-collection-releasing-on-switch-in-march/1100-6521243/">Star Wars Battlefront: Classic Collection</a>, to name a few, which we'll be seeing more of throughout 2024. In the meantime, there's a sizable number of games available today.</p><p>From surprise releases to additions for <a href="https://www.gamespot.com/articles/5-classic-rare-games-announce
+
+## Borderlands Movie Character Posters Reveal Who's Who In The Video Game Film
+ - [https://www.gamespot.com/gallery/borderlands-movie-character-posters-reveal-whos-who-in-the-video-game-film/2900-5101](https://www.gamespot.com/gallery/borderlands-movie-character-posters-reveal-whos-who-in-the-video-game-film/2900-5101)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T15:52:00+00:00
+
+<p><h2>Who's who in the Borderlands movie</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4262459-screenshot2024-02-21at10.39.38am.png" /><br /><h3><p>It's been a long time coming, but the Borderlands movie is finally coming to theaters this year. The movie has a star-studded cast that includes Cate Blanchett as Lilith, Kevin Hart as Roland, Ariana Greenblatt as Tiny Tina, Jamie Lee Curtis as Tannis, and Jack Black as the voice of Claptrap. That's right, the Borderlands movie has two Oscar-winners in its main cast (Blanchett and Curtis). </p><p>Movie studio Lionsgate released character posters for each of the main characters, and you can get a closer look in this gallery.</p><p>The Borderlands film was directed by Eli Roth (Hostel, Inglourious Basterds), as well as Deadpool's Tim Miller, who came in to work on the re-shoots. Gearbox's Randy Pitchford is an executive producer on the project.</p><p>It's not immediately clear what the story for the Bor
+
+## Parasite Director's Next Movie Starring Robert Pattinson Has Been Delayed
+ - [https://www.gamespot.com/articles/parasite-directors-next-movie-starring-robert-pattinson-has-been-delayed/1100-6521255/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/parasite-directors-next-movie-starring-robert-pattinson-has-been-delayed/1100-6521255/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T15:39:00+00:00
+
+<p dir="ltr">Warner Bros. has pushed back Mickey 17 almost a full year, as the sci-fi movie from Parasite director Bong Joon-ho will now drop on January 31, 2025. Previously, the film starring Robert Pattinson was supposed to premiere next month before Godzilla x Kong: The New Empire took over its release date.</p><p dir="ltr">According to <a href="https://variety.com/2024/film/news/bong-joon-ho-robert-pattinson-mickey-17-2025-release-date-1235917744/">Variety</a>, Mickey 17 was initially moved off its March 29, 2024 release date to give the production additional time after being affected by <a href="https://www.gamespot.com/articles/how-the-hollywood-writers-strike-will-affect-your-favorite-tv-show/1100-6513755/">the Hollywood strikes last year</a>. In addition, the new 2025 debut reportedly gives the sci-fi flick the opportunity to debut on IMAX screens. The IMAX schedule is apparently filled up until then.</p><div>          </div><p dir="ltr">While January seems like a dea
+
+## Elden Ring: Shadow Of The Erdtree Preorders Are Live
+ - [https://www.gamespot.com/articles/elden-ring-shadow-of-the-erdtree-preorders-are-live/1100-6521254/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/elden-ring-shadow-of-the-erdtree-preorders-are-live/1100-6521254/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T15:17:00+00:00
+
+<p>Elden Ring: Shadow of the Erdtree <a href="https://store.playstation.com/en-us/product/UP0700-PPSA04610_00-ELDENRINGSOTEPB0">preorders are starting to go live</a> ahead of its June 21 release date. The highly anticipated expansion to From Software's beloved open-world adventure was <a href="https://www.gamespot.com/articles/elden-ring-dlc-shadow-of-the-erdtree-releasing-in-june-first-trailer-shows-melanias-family/1100-6521250/">shown off for the first time</a> this week. Shadow of the Erdtree will launch on PS5, Xbox Series X|S, PS4, Xbox One, and PC. The expansion requires the base game to play, but a new edition compiling Elden Ring and Shadow of the Erdtree will launch on the same day. For big Elden Ring fans, there's also the <a href="https://store.bandainamcoent.eu/elden-ring-physical-full-game-ps5-shadow-of-the-erdtree-collector-edition/">Shadow of the Erdtree Collector's Edition</a> to consider. Let's take a look at all of the Elden Ring: Shadow of the Erdtree preor
+
+## Nintendo Stock Drops Significantly After Switch 2 Reportedly Delayed To 2025
+ - [https://www.gamespot.com/articles/nintendo-stock-drops-significantly-after-switch-2-reportedly-delayed-to-2025/1100-6521251/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nintendo-stock-drops-significantly-after-switch-2-reportedly-delayed-to-2025/1100-6521251/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T15:17:00+00:00
+
+<p>Rumors have swirled about Nintendo's next console for years, but some are more consequential than others. Recently, the company's stock dropped as much as 8.8% after a report that the company has pushed back the launch of its Switch successor to 2025.</p><p dir="ltr">Last week, <a href="https://www.bloomberg.com/news/articles/2024-02-17/nintendo-is-telling-game-publishers-switch-2-will-be-delayed">Bloomberg</a> reported that Nintendo told game publishers that its unannounced next-generation console has been pushed into the early months of 2025. According to VGC and other sources, the console was <a href="https://www.videogameschronicle.com/news/sources-nintendo-switch-2-targets-2024-with-next-gen-console/">widely expected</a> to launch in 2024, but the launch date slipped into next year for unknown reasons. The company's stock eventually recovered to a <a href="https://www.bnnbloomberg.ca/nintendo-plunges-after-game-makers-say-switch-2-pushed-to-2025-1.2036331">5.8% drop</
+
+## Elden Ring DLC Shadow Of The Erdtree Releasing In June, First Trailer Shows Melania's Family
+ - [https://www.gamespot.com/articles/elden-ring-dlc-shadow-of-the-erdtree-releasing-in-june-first-trailer-shows-melanias-family/1100-6521250/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/elden-ring-dlc-shadow-of-the-erdtree-releasing-in-june-first-trailer-shows-melanias-family/1100-6521250/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T15:05:00+00:00
+
+<p>The first trailer for the highly-anticipated expansion for Elden Ring, Shadow of the Erdtree, has finally arrived, giving us a look at many of the new bosses preparing to challenge you as well as some of the content's main antagonists.</p><p>As correctly predicted by many when first announced, Shadow of the Erdtree will feature Miquella, brother of infamously brutal boss Melania, as well as their mother, Queen Marika. There's mention of the player joining Marika in the shadow realm, which might explain why so many of the areas featured in the gameplay look so different to what you might remember from The Lands Between.</p><p>Elden Ring: Shadow of the Erdtree launches on June 21, 2024, for PC, Xbox Series X|S, and PlayStation 5. It will be skipping previous-generation consoles.</p>
+
+## Marvel's Next Avengers Movie Drops Kang From Its Title - Report
+ - [https://www.gamespot.com/articles/marvels-next-avengers-movie-drops-kang-from-its-title-report/1100-6521252/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvels-next-avengers-movie-drops-kang-from-its-title-report/1100-6521252/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T15:04:00+00:00
+
+<p>Movie titles are a funny thing. Productions are named and renamed all the time and nobody is immune to that, including Marvel Studios. The next Avengers movie might be the next in line for a name change, as Avengers: The Kang Dynasty is reportedly going through a rebrand.</p><p>Due to the nine-month-long <a href="https://www.gamespot.com/articles/mcu-and-creed-iii-star-jonathan-majors-arrested-for-alleged-assault-reps-say-hes-innocent/1100-6512725/">Jonathan Majors assault scandal</a>, <a href="https://www.gamespot.com/articles/marvel-drops-jonathan-majors-after-being-found-guilty-of-assault-and-harassment/1100-6520024/?ftag=CAD-01-10abi2f&amp;utm_source=dlvr.it&amp;utm_medium=twitter/">and the eventual firing of the actor</a>, Marvel found itself faced with a choice of whether to de-emphasize or recast his role as Kang. Sources close to <a href="https://www.hollywoodreporter.com/movies/movie-news/marvel-fantastic-four-avengers-movies-1235830951/">The Hollywood Reporter</a
+
+## 5 Classic Rare Games Announced For Switch, Out Right Now
+ - [https://www.gamespot.com/articles/5-classic-rare-games-announced-for-switch-out-right-now/1100-6521249/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/5-classic-rare-games-announced-for-switch-out-right-now/1100-6521249/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T15:01:00+00:00
+
+<p>As part of the Nintendo Direct Partner Showcase, Nintendo announced that five classic titles from esteemed British game studio Rare are coming to Nintendo Switch. Subscribers to Nintendo Switch Online and Nintendo Switch Online + Expansion Pack don't have to wait to play the games, either, as they're all launching today.</p><p>Rare's fighting game Killer Instinct and the beat-em-up Battletoads In Battlemaniacs are joining the SNES classic games library, while Snake Rattle N Roll and R.C. Pro-Am are joining the catalog of classic NES titles. The fifth game is the vehicular action game Blast Corps, which is being added to the Nintendo 64 catalog of classic games available to subscribers.</p><p>Of note, the entire Nintendo 64 classic games catalog requires the more expensive Nintendo Switch Online + Expansion Pack membership.</p><a href="https://www.gamespot.com/articles/5-classic-rare-games-announced-for-switch-out-right-now/1100-6521249/?ftag=CAD-01-10abi2f/">Continue Readi
+
+## Mother 3 Is Finally Coming To Nintendo Switch--In Japan
+ - [https://www.gamespot.com/articles/mother-3-is-finally-coming-to-nintendo-switch-in-japan/1100-6521247/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/mother-3-is-finally-coming-to-nintendo-switch-in-japan/1100-6521247/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T14:57:00+00:00
+
+<p>The <a href="https://www.gamespot.com/gallery/nintendo-direct-february-2024-all-the-biggest-announcements/2900-5100/">Nintendo Direct Partner Showcase</a> offered plenty of updates on new and upcoming titles, and while there was plenty for Western audiences to chew on, a certain piece of news from the Japanese version of the video has raised some eyebrows. Mother 3, the sequel to cult-hit RPG Earthbound that's previously only been released in Japan, is making its way to the list of Nintendo Switch Online Game Boy Advance offerings--but once again only in Japan.</p><p dir="ltr">The move was revealed via a minute-long trailer during the Japanese Nintendo Direct Partner Showcase, which was then highlighted by <a href="https://x.com/geoffkeighley/status/1760307017653408157?s=20">Geoff Keighley on X</a>. The game was not featured during the North American Partner Showcase, nor was it mentioned in the official press release from Nintendo afterward. It is possible to play Nintend
+
+## Borderlands Boss Teases Next Game: "Greatest Thing We've Ever Done"
+ - [https://www.gamespot.com/articles/borderlands-boss-teases-next-game-greatest-thing-weve-ever-done/1100-6521240/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/borderlands-boss-teases-next-game-greatest-thing-weve-ever-done/1100-6521240/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T14:56:00+00:00
+
+<p>Gearbox boss Randy Pitchford has teased the company's next game, boasting that it's the "greatest" thing the studio has ever made. Speaking to <a href="https://www.ign.com/articles/borderlands-4-teased-by-gearbox-founder-randy-pitchford">IGN</a>, Pitchford did not name this title outright and said an announcement will come in due course. As background, Pitchford gave his comments after being asked to name his favorite Borderlands game. Many are taking this to mean he might have been referring to the unannounced Borderlands 4.</p><p>"Look, we haven't even announced anything of it," Pitchford said. "Clearly, we're working on something. And I know what we're working on, and holy shit... It's the greatest thing we've ever done. And I can't wait, but it's not time yet. It's not time yet. There will be a time."</p><p>Gearbox has been releasing "the story so far" video recaps for the Borderlands series on social media, and some believe this is part of a campaign that could culmin
+
+## Epic Mickey Getting "Enhanced" Version For Nintendo Switch This Year
+ - [https://www.gamespot.com/articles/epic-mickey-getting-enhanced-version-for-nintendo-switch-this-year/1100-6521246/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/epic-mickey-getting-enhanced-version-for-nintendo-switch-this-year/1100-6521246/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T14:39:00+00:00
+
+<p> As part of the Nintendo Direct Partner Showcase, Nintendo and Disney announced Disney Epic Mickey: Rebrushed. This is an updated version of 2010's Epic Mickey, featuring "a variety of upgrades" in what's described as an overall "enhanced" edition of the 3D platformer that was originally released for the Wii. </p><p>According to Nintendo's announcement, Mickey now has a "whole new set of skills and more," and you can get a brief glimpse in the trailer below. </p><div>          </div><p> </p><a href="https://www.gamespot.com/articles/epic-mickey-getting-enhanced-version-for-nintendo-switch-this-year/1100-6521246/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Endless Ocean: Luminous Dives Onto Nintendo Switch In May
+ - [https://www.gamespot.com/articles/endless-ocean-luminous-dives-onto-nintendo-switch-in-may/1100-6521245/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/endless-ocean-luminous-dives-onto-nintendo-switch-in-may/1100-6521245/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T14:26:00+00:00
+
+<p dir="ltr">Those who dove into today's <a href="https://www.gamespot.com/gallery/nintendo-direct-february-2024-all-the-biggest-announcements/2900-5100/">Nintendo Direct Partner Showcase</a> found underwater treasure in the last announcement, as Endless Ocean: Luminous--a new underwater adventure and sequel to 2010's Endless Ocean: Blue World--served as the anchor for the video.</p><p dir="ltr">The three-minute trailer introduces players to the Veiled Sea, an underwater area that changes with every dive. Up to 30 players can explore together via online play, and progress will be shared between those who group together.</p><div>          </div><p dir="ltr">The game features over 500 different underwater species able to be discovered, which includes both "mythical" creatures and some thought to be extinct. Some examples shown in the trailer are the Tomato Clownfish, the Long-Spine Porcupinefish, and the Mosasaurus.</p><a href="https://www.gamespot.com/articles/endless-ocean-lu
+
+## Nintendo Direct February 2024: All The Biggest Announcements
+ - [https://www.gamespot.com/gallery/nintendo-direct-february-2024-all-the-biggest-announcements/2900-5100](https://www.gamespot.com/gallery/nintendo-direct-february-2024-all-the-biggest-announcements/2900-5100)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T14:19:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4261409-nintendo-1.jpg" /><br /><h3><p>February just wouldn't feel the same without a Nintendo Direct, and fortunately, the Japanese gaming giant has a fresh livestream locked and loaded with new reveals. This 25-minute long broadcast was focused on games from Nintendo's third-party partners, and most of the titles appearing in this video are currently scheduled to be released in the first half of the year.</p><p>If you don't have time to catch the entire broadcast, we'll be recapping the entire event below for you to easily scroll through. You can refresh the page for updates, as we're expecting a collection of cozy indie games, sharp ports, and maybe even a big surprise or two.</p><p>Nintendo fans can also tune in next week for a new <a href="https://www.gamespot.com/articles/pokemon-presents-livestream-confirmed-for-the-end-of-february/1100-6521190/">Pokemon Presents livestream</a>, with "exciting" n
+
+## Shin Megami Tensei 5: Vengeance Announced, Coming To More Than Just Switch
+ - [https://www.gamespot.com/articles/shin-megami-tensei-5-vengeance-announced-coming-to-more-than-just-switch/1100-6521244/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/shin-megami-tensei-5-vengeance-announced-coming-to-more-than-just-switch/1100-6521244/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T14:19:00+00:00
+
+<p>Atlus has officially unveiled Shin Megami Tensei V: Vengeance, a new edition of the RPG that features an additional storyline. The title is slated to launch June 21.</p><p>Announced as part of today's <a href="https://www.gamespot.com/gallery/nintendo-direct-february-2024-all-the-biggest-announcements/2900-5100/">Nintendo Direct</a>, Shin Megami Tensei V: Vengeance will also be coming to PC, PS4, PS5, Xbox One, and Xbox Series X|S. In fact, this will mark the RPG's first time appearing on other consoles after originally being a Switch exclusive. Shin Megami Tensei V released in November 2021. </p><div>          </div><p><em>Developing...</em></p>
+
+## A Wonderful Solitaire Horse-Racing Game (Just Go With Us On This) Is Coming To Switch
+ - [https://www.gamespot.com/articles/a-wonderful-solitaire-horse-racing-game-just-go-with-us-on-this-is-coming-to-switch/1100-6521242/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-wonderful-solitaire-horse-racing-game-just-go-with-us-on-this-is-coming-to-switch/1100-6521242/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T14:07:00+00:00
+
+<p>Pocket Card Jockey has come home to a Nintendo platform. The remastered game Pocket Card Jockey: Ride On debuted on <a href="https://www.gamespot.com/articles/pocket-card-jockey-coming-to-apple-arcade/1100-6510249/">Apple Arcade in 2023</a> and was <a href="https://www.gamespot.com/articles/pocket-card-jockey-coming-to-apple-arcade/1100-6510249/">one of our favorite mobile games</a> last year. That exclusivity period appears to have ended now, as Nintendo announced during its <a href="https://www.gamespot.com/gallery/nintendo-direct-february-2024-all-the-biggest-announcements/2900-5100/">Nintendo Direct Partner Showcase</a> that the game is out on Switch today.</p><p>Pocket Card Jockey has you play simple rounds of solitaire on a timer to spur on your horse and gather energy, then spend it racing toward the finish line. You can also plan your route around the other horses, care for them in the stable and upgrade their stats, get special modifiers that influence your strate
+
+## Star Wars Battlefront: Classic Collection Releasing On Switch In March
+ - [https://www.gamespot.com/articles/star-wars-battlefront-classic-collection-releasing-on-switch-in-march/1100-6521243/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-wars-battlefront-classic-collection-releasing-on-switch-in-march/1100-6521243/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T14:04:00+00:00
+
+<p>Star Wars Battlefront is getting a new lease on life on Nintendo Switch. Announced during the Nintendo Partner Showcase, the Battlefront Classic Collection is releasing on Nintendo Switch, bringing back the first two Battlefront games, complete with additional and previously platform-exclusive content. It's releasing on March 14.</p><p>Battlefront is focused on massive battles for up to 64 players, spanning the original and prequel trilogies. The Classic Collection compiles them all into one set and includes extra content like the Jedi warrior Kit Fisto and the Jabba's Palace map. The brief trailer also noted you can play Hero Assault mode to pit famous Star Wars characters against each other like Luke Skywalker, Darth Vader, General Grevious, and more.</p><p>Star Wars Battlefront: Classic Collection is coming March 14, and preorders are now available.</p>
+
+## Disney Dreamlight Valley Update Adds Monsters Inc. Characters, Scrooge Store Improvements, And More
+ - [https://www.gamespot.com/articles/disney-dreamlight-valley-update-adds-monsters-inc-characters-scrooge-store-improvements-and-more/1100-6521234/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/disney-dreamlight-valley-update-adds-monsters-inc-characters-scrooge-store-improvements-and-more/1100-6521234/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T14:00:00+00:00
+
+<p>Gameloft has revealed a new <a href="https://www.gamespot.com/games/disney-dreamlight-valley/">Disney Dreamlight Valley</a> update titled The Laugh Floor, which includes the arrival of Monsters Inc. characters, a new Star Path, improvements to Scrooge McDuck's store, and more. Even better, it lands on all platforms next Wednesday, February 28.</p><p>The Laugh Floor is centered around the all-new Monster Inc. realm that is accessed from within the Dream Castle, introducing beloved monster duo Mike Wazowski and Sulley as characters you can invite to your valley after completing their unique quests.</p><p>The Monsters Inc. love doesn't stop with a new realm and characters, though, as this update's Lovely Monsters Star Path is also filled with exciting decorations and items, including special Dream Styles for both Mike and Sulley. Even the Premium Shop is receiving some items straight from Monstropolis, such as the Snuggly Duckling Tavern house style, a Boo Onsie, and a sushi 
+
+## Fortnite Festival Adds Lady Gaga Skins And Songs For Season 2
+ - [https://www.gamespot.com/articles/fortnite-festival-adds-lady-gaga-skins-and-songs-for-season-2/1100-6521229/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fortnite-festival-adds-lady-gaga-skins-and-songs-for-season-2/1100-6521229/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T14:00:00+00:00
+
+<p><a href="https://www.gamespot.com/games/fortnite/">Fortnite</a> Festival Season 2 will be headlined by Lady Gaga when it kicks off on Thursday Feb. 22, giving us a new punchline to Gaga's famous "What's fortnight" tweet from 2019. Lady Gaga is getting the same treatment that The Weeknd got in Season 1--a skin, jam track, and related instruments in the new Festival Pass, and another skin and accompanying bundle of instruments and other cosmetics in the item shop.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">*fortnite <a href="https://t.co/1FwPHmMfRJ">https://t.co/1FwPHmMfRJ</a> <a href="https://t.co/9BSG6S23zh">pic.twitter.com/9BSG6S23zh</a></p>  — Lady Gaga (@ladygaga) <a href="https://twitter.com/ladygaga/status/1759986415415459972?ref_src=twsrc^tfw">February 20, 2024</a></blockquote>              </div><p>Season 2 will bring eight new Lady Gaga jam tracks to the game: Applause, Bloody Mary, Born This Way, The Edge of Glory, Just Dance, Rain on Me
+
+## Xbox's Grounded And Pentiment Are Coming To Nintendo Switch
+ - [https://www.gamespot.com/articles/xboxs-grounded-and-pentiment-are-coming-to-nintendo-switch/1100-6521241/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xboxs-grounded-and-pentiment-are-coming-to-nintendo-switch/1100-6521241/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T13:58:00+00:00
+
+<p>Microsoft has announced the first of its Xbox games to come to Nintendo Switch (outside of Minecraft), and they are Obsidian's Grounded and Pentiment. Pentiment arrives tomorrow, February 22, while Grounded is headed to Switch on April 16.</p><p>Microsoft recently announced that it would bring <a href="https://www.gamespot.com/articles/xbox-confirms-four-first-party-games-are-coming-to-playstation-and-nintendo-switch/1100-6521128/">four of its games to rival platforms</a>, and Grounded and Pentiment were two of the titles that were rumored. Hi-Fi Rush and Sea of Thieves are the other two that have been rumored for release on competing systems. As of yet, however, there have been no announcements about these two games, or any games for PlayStation.</p><div>          </div><p>Nintendo announced the release of Grounded and Pentiment on Switch as part of the February 21 Nintendo Direct Partner Showcase.</p><a href="https://www.gamespot.com/articles/xboxs-grounded-and-pentiment
+
+## Next Jurassic World Movie Brings On Star Wars' Gareth Edwards To Direct - Report
+ - [https://www.gamespot.com/articles/next-jurassic-world-movie-brings-on-star-wars-gareth-edwards-to-direct-report/1100-6521239/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/next-jurassic-world-movie-brings-on-star-wars-gareth-edwards-to-direct-report/1100-6521239/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T13:51:00+00:00
+
+<p>The next Jurassic World movie might have found a director. <a href="https://deadline.com/2024/02/jurassic-world-gareth-edwards-1235831353/">Deadline</a> reports that Universal is in "final negotiations" to hire Gareth Edwards to make the next entry in the dinosaur series.</p><p>Edwards is known for directing 2014's Godzilla and the Star Wars movie Rogue One. His newest movie was 2023's The Creator, which starred John David Washington. John Wick's David Leitch was <a href="https://www.gamespot.com/articles/new-jurassic-world-movie-will-not-tap-john-wicks-david-leitch-to-direct/1100-6520844/">previously said to be in discussions before Edwards</a>. According to the report, Edwards impressed producers Steven Spielberg and Frank Marshall.</p><p>As previously reported, the new Jurassic movie is described as a totally new take and will not feature the stars of the Jurassic World series, Chris Pratt and Bryce Dallas Howard, or the main cast from the original Jurassic Park films.<
+
+## Final Fantasy 7 Rebirth Demo Expands With New Junon Area And Performance Mode Upgrades
+ - [https://www.gamespot.com/articles/final-fantasy-7-rebirth-demo-expands-with-new-junon-area-and-performance-mode-upgrades/1100-6521238/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/final-fantasy-7-rebirth-demo-expands-with-new-junon-area-and-performance-mode-upgrades/1100-6521238/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T13:25:00+00:00
+
+<p>Ahead of the release of <a href="https://www.gamespot.com/articles/final-fantasy-7-rebirth-everything-we-know/1100-6506556/">Final Fantasy 7 Rebirth</a> next week, Square Enix has updated the demo for the game with a new playable section. While the first part of the demo was focused on the infamous Nibelheim incident--<a href="https://www.gamespot.com/articles/final-fantasy-7-rebirth-has-an-almost-shot-for-shot-recreation-of-an-infamous-flashback/1100-6520995/">recreated almost shot-for-shot in Rebirth</a>--this update will allow you to explore some of the expanded area around Junon.</p><p>This is a fairly large size of digital terrain to cover and is accessible once the Nibelheim episode has been completed. You'll be able to roam around this section, take on monsters roaming the frontier, and even battle more challenging beasts. Junon also has a mission available to take on, to give you a better taste of what to expect from the full game. Square Enix did add that the area
+
+## Nintendo Direct February 2024: How To Watch, Start Time, And What To Expect
+ - [https://www.gamespot.com/articles/nintendo-direct-february-2024-how-to-watch-start-time-and-what-to-expect/1100-6521236/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nintendo-direct-february-2024-how-to-watch-start-time-and-what-to-expect/1100-6521236/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T10:29:00+00:00
+
+<p>A Nintendo Direct in February has become a longrunning tradition for the company over the last couple of years, and that streak is being kept alive with a brand-new broadcast on February 21. This is the first Nintendo Direct in several months, and while it's not the longest showcase on upcoming Switch games, you can expect a healthy number of announcements for upcoming titles set to be released in the first half of the year.</p><h2>How to watch the Nintendo Direct</h2><p>Like previous broadcasts, the Nintendo Direct presentation will be available to stream via Nintendo's official <a href="https://www.youtube.com/@NintendoAmerica/featured">YouTube</a> and <a href="https://www.twitch.tv/nintendo">Twitch</a> channels.</p><h2>Nintendo Direct start time</h2><p>Grab a cup of coffee and a comfy seat, because this livestream is kicking off early. The new Nintendo Direct will begin on February 21 at 6 AM PT / 9 AM ET and is scheduled to run for 25 minutes.</p><a href="https://www.g
+
+## Dozens Of Popular Board Games Are On Sale At Amazon This Week
+ - [https://www.gamespot.com/articles/dozens-of-popular-board-games-are-on-sale-at-amazon-this-week/1100-6521228/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dozens-of-popular-board-games-are-on-sale-at-amazon-this-week/1100-6521228/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T01:17:00+00:00
+
+<p>Amazon is hosting a <a href="https://www.amazon.com/deal/98d10929?pf_rd_r=CR1FE4C1KTDQSW12MG68&amp;pf_rd_t=Events&amp;pf_rd_i=deals&amp;pf_rd_p=af471026-3c71-4c8a-9e09-5b7ad4595701&amp;pf_rd_s=slot-14&amp;ref=dlx_deals_gd_dcl_img_2_98d10929_dt_sl14_01&amp;tag=gamespot-promos-20">huge sale on select board games</a>, card games, and tabletop RPGs right now. The deals include well-known classics like <a href="https://www.amazon.com/Hasbro-Gaming-Trivial-Pursuit-Game/dp/B08TPQDFP7?tag=gamespot-promos-20">Trivial Pursuit</a> and <a href="https://www.amazon.com/USAOPOLY-MU011-000-001600-06-Munchkin-Marvel-Edition/dp/B019KGG3RI?tag=gamespot-promos-20">Munchkin</a>; sprawling miniature-based strategy games like <a href="https://www.amazon.com/Fantasy-Flight-Games-Star-Legion/dp/B07SWT1S13?tag=gamespot-promos-20">Star Wars: Legion</a> and <a href="https://www.amazon.com/Atomic-CP01en-Marvel-Crisis-Protocol/dp/B07WNKW1DT?tag=gamespot-promos-20">Marvel: Crisis Protocol</a>; dungeon c
+
+## Xbox Still Plans On Having Activision Blizzard Games Appear Day One On Game Pass
+ - [https://www.gamespot.com/articles/xbox-still-plans-on-having-activision-blizzard-games-appear-day-one-on-game-pass/1100-6521233/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-still-plans-on-having-activision-blizzard-games-appear-day-one-on-game-pass/1100-6521233/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-02-21T00:23:00+00:00
+
+<p>Since <a href="https://www.gamespot.com/articles/microsoft-officially-acquires-activision-nearly-two-years-later-bobby-kotick-resi/1100-6516016/">Microsoft acquired Activision Blizzard for $68.7 billion</a> last year, people have wondered if games like Call of Duty would be coming to Game Pass. Microsoft still plans on having first-party Xbox games come to Game Pass on day one, which very well could mean games like Call of Duty</p><p>In an <a href="https://www.gamefile.news/p/microsoft-phil-spencer-xbox-cloud-interview">interview with Game File</a>, head of Xbox Phil Spencer shared that it's still Xbox's plan to have first-party games appear on Game Pass day one.</p><p dir="ltr">"Our intent is the full portfolio of games from ZeniMax, Activision Blizzard, and XGS--Xbox Game Studios--will be on Game Pass, day one."</p><a href="https://www.gamespot.com/articles/xbox-still-plans-on-having-activision-blizzard-games-appear-day-one-on-game-pass/1100-6521233/?ftag=CAD-01-10abi2f/
+
