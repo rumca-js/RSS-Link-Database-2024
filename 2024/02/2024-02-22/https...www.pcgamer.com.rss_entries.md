@@ -1,0 +1,296 @@
+# Source:pcgamer, URL:https://www.pcgamer.com/rss, language:en-US
+
+## Sons of the Forest 1.0 launches with creative mode, a new ending, and an answer to one of the game's biggest mysteries
+ - [https://www.pcgamer.com/sons-of-the-forest-10-launches-with-creative-mode-a-new-ending-and-an-answer-to-one-of-the-games-biggest-mysteries](https://www.pcgamer.com/sons-of-the-forest-10-launches-with-creative-mode-a-new-ending-and-an-answer-to-one-of-the-games-biggest-mysteries)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T23:16:13+00:00
+
+That mysterious artifact can now be fully assembled and used… but for what?
+
+## Larian is working on official mod support for Baldur's Gate 3 and it'll be cross-platform: 'We love our modding community and we want to support them'
+ - [https://www.pcgamer.com/larian-is-working-on-official-mod-support-for-baldurs-gate-3-and-itll-be-cross-platform-we-love-our-modding-community-and-we-want-to-support-them](https://www.pcgamer.com/larian-is-working-on-official-mod-support-for-baldurs-gate-3-and-itll-be-cross-platform-we-love-our-modding-community-and-we-want-to-support-them)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T23:15:23+00:00
+
+Baldur's Gate 3 mods are coming to consoles.
+
+## Yes, Team Fortress 2 players recently did a big trade involving an IRL dog and, no, they're not monsters and it's quite above-board and sweet actually
+ - [https://www.pcgamer.com/yes-team-fortress-2-players-recently-did-a-big-trade-involving-an-irl-dog-and-no-theyre-not-monsters-and-its-quite-above-board-and-sweet-actually](https://www.pcgamer.com/yes-team-fortress-2-players-recently-did-a-big-trade-involving-an-irl-dog-and-no-theyre-not-monsters-and-its-quite-above-board-and-sweet-actually)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T22:37:22+00:00
+
+Their mistake was a bit of friendly shitposting.
+
+## Magic: The Gathering's Fallout crossover understands they're RPGs about reading lore on terminals and hoarding junk until you're encumbered
+ - [https://www.pcgamer.com/magic-the-gatherings-fallout-crossover-understands-theyre-rpgs-about-reading-lore-on-terminals-and-hoarding-junk-until-youre-encumbered](https://www.pcgamer.com/magic-the-gatherings-fallout-crossover-understands-theyre-rpgs-about-reading-lore-on-terminals-and-hoarding-junk-until-youre-encumbered)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T22:00:38+00:00
+
+I need to carry a spare gun for every ammo type, and I'll find a use for these clipboards any day now.
+
+## Palworld has achieved more players in 2 months than Elden Ring and Hogwarts Legacy managed in a year
+ - [https://www.pcgamer.com/palworld-has-achieved-more-players-in-2-months-than-elden-ring-and-hogwarts-legacy-managed-in-a-year](https://www.pcgamer.com/palworld-has-achieved-more-players-in-2-months-than-elden-ring-and-hogwarts-legacy-managed-in-a-year)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T21:52:43+00:00
+
+Pocketpair says Palworld has now surpassed 25 million players across Steam and Xbox.
+
+## Last Epoch director admits his optimistic launch expectations 'aged like milk' as its servers struggle under the weight of 160K players
+ - [https://www.pcgamer.com/last-epoch-director-admits-his-optimistic-launch-expectations-aged-like-milk-as-its-servers-struggle-under-the-weight-of-160k-players](https://www.pcgamer.com/last-epoch-director-admits-his-optimistic-launch-expectations-aged-like-milk-as-its-servers-struggle-under-the-weight-of-160k-players)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T21:04:37+00:00
+
+The offline mode seems to be the safest way to play still.
+
+## How to maximize your island sanctuary in Final Fantasy 14 without being too sweaty
+ - [https://www.pcgamer.com/how-to-maximize-your-island-sanctuary-in-final-fantasy-14-without-being-too-sweaty](https://www.pcgamer.com/how-to-maximize-your-island-sanctuary-in-final-fantasy-14-without-being-too-sweaty)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T21:04:16+00:00
+
+Or how I learned to stop min-maxing and love the journey.
+
+## Helldivers 2 is one of the funniest games in recent memory
+ - [https://www.pcgamer.com/helldivers-2-is-one-of-the-funniest-games-in-recent-memory](https://www.pcgamer.com/helldivers-2-is-one-of-the-funniest-games-in-recent-memory)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T20:12:15+00:00
+
+Both the game and its players are on fire with their Super Earth jingoism gags.
+
+## Solo survival players, rejoice: Nightingale is 'prioritizing and developing an offline mode'
+ - [https://www.pcgamer.com/solo-survival-players-rejoice-nightingale-is-prioritizing-and-developing-an-offline-mode](https://www.pcgamer.com/solo-survival-players-rejoice-nightingale-is-prioritizing-and-developing-an-offline-mode)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T20:05:45+00:00
+
+"...we misjudged what some of you were looking for in your experience," says developer Inflexion Games.
+
+## Another wall crumbles in the console exclusivity war: Sony is bringing official PSVR2 support to PC
+ - [https://www.pcgamer.com/another-wall-crumbles-in-the-console-exclusivity-war-sony-testing-psvr2-on-pc](https://www.pcgamer.com/another-wall-crumbles-in-the-console-exclusivity-war-sony-testing-psvr2-on-pc)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T20:00:31+00:00
+
+Sony "hopes" to launch official PC support in 2024.
+
+## Paragon can't catch a break: Less than two years after being brought back to life, it's closing again
+ - [https://www.pcgamer.com/paragon-cant-catch-a-break-less-than-two-years-after-being-brought-back-to-life-its-closing-again](https://www.pcgamer.com/paragon-cant-catch-a-break-less-than-two-years-after-being-brought-back-to-life-its-closing-again)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T19:10:02+00:00
+
+The original MOBA was shut down in 2018, but was resurrected at the end of 2022 as Paragon: The Overprime.
+
+## Nobody likes the new name for Riot's fighting game, but we're all having fun arguing about how to pronounce it
+ - [https://www.pcgamer.com/nobody-likes-the-new-name-for-riots-fighting-game-but-were-all-having-fun-arguing-about-how-to-pronounce-it](https://www.pcgamer.com/nobody-likes-the-new-name-for-riots-fighting-game-but-were-all-having-fun-arguing-about-how-to-pronounce-it)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T19:08:49+00:00
+
+Is 2XKO a fighting game or a K-Pop group?
+
+## Grocery delivery service Instacart has been using AI to make up impossible recipes and generate images of horrifying and hilarious food
+ - [https://www.pcgamer.com/grocery-delivery-service-instacart-has-been-using-ai-to-make-up-impossible-recipes-and-generate-images-of-horrifying-and-hilarious-food](https://www.pcgamer.com/grocery-delivery-service-instacart-has-been-using-ai-to-make-up-impossible-recipes-and-generate-images-of-horrifying-and-hilarious-food)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T17:27:25+00:00
+
+AI-generated dinner, anyone? Anyone at all?
+
+## Miyazaki says Bloodborne is 'a title we hold very dear' but remains maddeningly vague about whether it'll ever come to PC
+ - [https://www.pcgamer.com/miyazaki-says-bloodborne-is-a-title-we-hold-very-dear-but-remains-maddeningly-vague-about-whether-itll-ever-come-to-pc](https://www.pcgamer.com/miyazaki-says-bloodborne-is-a-title-we-hold-very-dear-but-remains-maddeningly-vague-about-whether-itll-ever-come-to-pc)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T17:14:02+00:00
+
+Grant us eyes. Please.
+
+## I didn't have System Shock Pinball on my 2024 list but I'll take it
+ - [https://www.pcgamer.com/i-didnt-have-system-shock-pinball-on-my-2024-list-but-ill-take-it](https://www.pcgamer.com/i-didnt-have-system-shock-pinball-on-my-2024-list-but-ill-take-it)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T17:08:28+00:00
+
+A perfect, immortal machine.
+
+## Old School RuneScape players revolt after new big money owners say bots are fine, actually, devs furiously walk it back and say they banned 7 million bots last year
+ - [https://www.pcgamer.com/old-school-runescape-players-revolt-after-new-big-money-owners-say-bots-are-fine-actually-devs-furiously-walk-it-back-and-say-they-banned-7-million-bots-last-year](https://www.pcgamer.com/old-school-runescape-players-revolt-after-new-big-money-owners-say-bots-are-fine-actually-devs-furiously-walk-it-back-and-say-they-banned-7-million-bots-last-year)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T17:07:56+00:00
+
+A quote from an anonymous source close to Jagex's new owners sent OSRS fans into overdrive.
+
+## PC Gamer Chat Log Episode 49: What's in a (genre) name?
+ - [https://www.pcgamer.com/pc-gamer-chat-log-episode-49-whats-in-a-genre-name](https://www.pcgamer.com/pc-gamer-chat-log-episode-49-whats-in-a-genre-name)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T17:00:24+00:00
+
+Mollie, Lauren and Harvey try and dissect the great genre debate.
+
+## Riot's Project L fighting game finally gets a proper title, will hopefully be out sometime in 2025
+ - [https://www.pcgamer.com/riots-project-l-fighting-game-finally-gets-a-proper-title-will-hopefully-be-out-sometime-in-2025](https://www.pcgamer.com/riots-project-l-fighting-game-finally-gets-a-proper-title-will-hopefully-be-out-sometime-in-2025)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T16:54:26+00:00
+
+Say hello to 2XKO.
+
+## Karlach teams up with Baldur's Gate 3's sex noise man to raise money for a good cause: SpecialEffect, which helps create kit and software for physically disabled gamers
+ - [https://www.pcgamer.com/karlach-teams-up-with-baldurs-gate-3s-sex-noise-man-to-raise-money-for-a-good-cause-specialeffect-which-helps-create-kit-and-software-for-physically-disabled-gamers](https://www.pcgamer.com/karlach-teams-up-with-baldurs-gate-3s-sex-noise-man-to-raise-money-for-a-good-cause-specialeffect-which-helps-create-kit-and-software-for-physically-disabled-gamers)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T16:53:41+00:00
+
+Bringing the joy of video games to everyone.
+
+## 8 tips to triumph as a solo player in Helldivers 2
+ - [https://www.pcgamer.com/helldivers-2-solo-play-tips](https://www.pcgamer.com/helldivers-2-solo-play-tips)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T15:57:02+00:00
+
+When matchmaking can't find a game, you can always go solo.
+
+## Evil playthroughs of Baldur's Gate 3 aren't just weird and lonely—they're mechanically harder, too
+ - [https://www.pcgamer.com/evil-playthroughs-of-baldurs-gate-3-arent-just-weird-and-lonelytheyre-mechanically-harder-too](https://www.pcgamer.com/evil-playthroughs-of-baldurs-gate-3-arent-just-weird-and-lonelytheyre-mechanically-harder-too)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T15:43:24+00:00
+
+Keeping your enemies close, and your friends dead.
+
+## This co-op looter shooter where you scavenge from corpses 'under the shadow of terrifying and gargantuan war machines' looks rad as heck
+ - [https://www.pcgamer.com/this-co-op-looter-shooter-where-you-scavenge-from-corpses-under-the-shadow-of-terrifying-and-gargantuan-war-machines-looks-rad-as-heck](https://www.pcgamer.com/this-co-op-looter-shooter-where-you-scavenge-from-corpses-under-the-shadow-of-terrifying-and-gargantuan-war-machines-looks-rad-as-heck)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T15:28:42+00:00
+
+The Forever Winter drops you into an apocalyptic war where you're a nobody.
+
+## One of the the largest ransomware outfits in the world has been magnificently trolled by the Swedish police and Europol
+ - [https://www.pcgamer.com/one-of-the-the-largest-ransomware-outfits-in-the-world-has-been-magnificently-trolled-by-the-swedish-police-and-europol](https://www.pcgamer.com/one-of-the-the-largest-ransomware-outfits-in-the-world-has-been-magnificently-trolled-by-the-swedish-police-and-europol)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T15:14:02+00:00
+
+A taste of your own medicine? Why certainly, with extra salt.
+
+## Elden Ring: Shadow of the Erdtree is over double the price of previous FromSoft DLCs, and is it weird that excites me?
+ - [https://www.pcgamer.com/elden-ring-shadow-of-the-erdtree-is-over-double-the-price-of-previous-fromsoft-dlcs-and-is-it-weird-that-excites-me](https://www.pcgamer.com/elden-ring-shadow-of-the-erdtree-is-over-double-the-price-of-previous-fromsoft-dlcs-and-is-it-weird-that-excites-me)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T15:06:06+00:00
+
+As a wise man once said, just shut up and take my money.
+
+## The new Nvidia App killing GeForce Experience: new overlay, system monitoring, 120fps capture, and lets you add HDR to any game
+ - [https://www.pcgamer.com/nvidia-app-beta-release](https://www.pcgamer.com/nvidia-app-beta-release)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T14:17:10+00:00
+
+The Nvidia App is currently in beta but will also replace the Nvidia Control Panel eventually.
+
+## Amidst dire industry layoffs, FromSoftware's Miyazaki says his studio is 'very blessed' to have long-term hires now taking director roles: 'games can be directed by others, not only myself'
+ - [https://www.pcgamer.com/amidst-dire-industry-layoffs-fromsoftwares-miyazaki-says-his-studio-is-very-blessed-to-have-long-term-hires-now-taking-director-roles-games-can-be-directed-by-others-not-only-myself](https://www.pcgamer.com/amidst-dire-industry-layoffs-fromsoftwares-miyazaki-says-his-studio-is-very-blessed-to-have-long-term-hires-now-taking-director-roles-games-can-be-directed-by-others-not-only-myself)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T13:32:59+00:00
+
+"I'm aware of the situation in the games industry, [it's] quite harrowing."
+
+## AMD CEO Dr. Lisa Su to deliver the opening keynote at Computex 2024 because whatever Jensen can do, Su can do too
+ - [https://www.pcgamer.com/amd-ceo-dr-lisa-su-to-deliver-the-opening-keynote-at-computex-2024-because-whatever-jensen-can-do-su-can-do-too](https://www.pcgamer.com/amd-ceo-dr-lisa-su-to-deliver-the-opening-keynote-at-computex-2024-because-whatever-jensen-can-do-su-can-do-too)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T13:03:40+00:00
+
+Jensen Huang opened the show last year, but this time around it's Dr. Lisa Su's turn to take to the stage.
+
+## A free weekend, a big update, and a Reloaded Edition await in Dying Light 2: Stay Human
+ - [https://www.pcgamer.com/a-free-weekend-a-big-update-and-a-reloaded-edition-await-in-dying-light-2-stay-human](https://www.pcgamer.com/a-free-weekend-a-big-update-and-a-reloaded-edition-await-in-dying-light-2-stay-human)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T13:00:33+00:00
+
+The parkour zombie sequel has come along in leaps and bounds since its release two years ago.
+
+## I'm calling time on stick drift and getting Hall effect in every one of my controllers in 2024
+ - [https://www.pcgamer.com/im-calling-time-on-stick-drift-and-getting-hall-effect-in-every-one-of-my-controllers-in-2024](https://www.pcgamer.com/im-calling-time-on-stick-drift-and-getting-hall-effect-in-every-one-of-my-controllers-in-2024)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T12:24:57+00:00
+
+I never want to experience stick drift again in my life, and Hall effect is an easy answer.
+
+## Deep Rock Galactic auto-battler nixes upsetting 'die like your mother did' voice line so as to not 'remind some players of tragic events in their life'
+ - [https://www.pcgamer.com/deep-rock-galactic-auto-battler-nixes-upsetting-die-like-your-mother-did-voice-line-so-as-to-not-remind-some-players-of-tragic-events-in-their-life](https://www.pcgamer.com/deep-rock-galactic-auto-battler-nixes-upsetting-die-like-your-mother-did-voice-line-so-as-to-not-remind-some-players-of-tragic-events-in-their-life)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T11:46:36+00:00
+
+But the line endures in standard DRG.
+
+## Helldivers 2 finally adds a much-requested AFK kick timer, stopping undemocratic glory hounds from twiddling their thumbs in perpetuity
+ - [https://www.pcgamer.com/helldivers-2-finally-adds-a-much-requested-afk-kick-timer-stopping-undemocratic-glory-hounds-from-twiddling-their-thumbs-in-perpetuity](https://www.pcgamer.com/helldivers-2-finally-adds-a-much-requested-afk-kick-timer-stopping-undemocratic-glory-hounds-from-twiddling-their-thumbs-in-perpetuity)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T11:18:39+00:00
+
+Managed Democracy just became that much more efficient.
+
+## Apple issues rice advice, saying its not the way you should dry out your wet iPhone
+ - [https://www.pcgamer.com/apple-issues-rice-advice-saying-its-not-the-way-you-should-dry-out-your-wet-iphone](https://www.pcgamer.com/apple-issues-rice-advice-saying-its-not-the-way-you-should-dry-out-your-wet-iphone)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T06:02:34+00:00
+
+Debunks an urban myth.
+
+## 10 tips for surviving Pacific Drive's deadly exclusion zone
+ - [https://www.pcgamer.com/pacific-drive-tips](https://www.pcgamer.com/pacific-drive-tips)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T04:57:06+00:00
+
+Before you start your drive, here's a guide on how to survive.
+
+## Where to find ThermoSap Crystals in Pacific Drive
+ - [https://www.pcgamer.com/pacific-drive-thermosap-crystals](https://www.pcgamer.com/pacific-drive-thermosap-crystals)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T04:55:01+00:00
+
+If you want to turn your car into a tank you'll need ThermoSap Crystals to craft armored doors and puncture-proof tires.
+
+## How to get lead platelets in Pacific Drive
+ - [https://www.pcgamer.com/pacific-drive-lead-platelets-location](https://www.pcgamer.com/pacific-drive-lead-platelets-location)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T04:54:41+00:00
+
+Lead is a key resource to crafting radiation protection and bigger batteries, and its location can be hard to find.
+
+## How to open Dumpster Pearls in Pacific Drive
+ - [https://www.pcgamer.com/pacific-drive-dumpster-pearls-how-to-open](https://www.pcgamer.com/pacific-drive-dumpster-pearls-how-to-open)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T04:54:23+00:00
+
+These big weird nuggets are full of goodies if you can crack them open.
+
+## How to get Unstable Energy and Corrupt Energy in Pacific Drive
+ - [https://www.pcgamer.com/pacific-drive-unstable-energy-corrupt-energy](https://www.pcgamer.com/pacific-drive-unstable-energy-corrupt-energy)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T04:54:07+00:00
+
+Your fabrication station needs different  energy types to unlock new crafting recipes. Here's how to find them.
+
+## Nvidia's earnings beat Wall Street expectations as it rakes in cash on the back of surging AI demand
+ - [https://www.pcgamer.com/nvidias-earnings-beat-wall-street-expectations-as-it-rakes-in-cash-on-the-back-of-surging-ai-demand](https://www.pcgamer.com/nvidias-earnings-beat-wall-street-expectations-as-it-rakes-in-cash-on-the-back-of-surging-ai-demand)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T04:30:35+00:00
+
+Revenue is up by 265% if you don't mind.
+
+## Today's Wordle answer for Thursday, February 22
+ - [https://www.pcgamer.com/wordle-answer-today-february-22-2024](https://www.pcgamer.com/wordle-answer-today-february-22-2024)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T04:04:07+00:00
+
+Help with today's Wordle if you need it.
+
+## Shin Megami Tensei 5 breaks Switch exclusivity for an expanded PC release
+ - [https://www.pcgamer.com/shin-megami-tensei-5-breaks-switch-exclusivity-for-an-expanded-pc-release](https://www.pcgamer.com/shin-megami-tensei-5-breaks-switch-exclusivity-for-an-expanded-pc-release)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T03:29:38+00:00
+
+Another big JRPG hits PC this June.
+
+## Intel announces new 14A node at IFS Direct Connect 2024, and its aggressive 'five nodes in four years' roadmap remains on track
+ - [https://www.pcgamer.com/intel-announces-new-14a-node-at-ifs-direct-connect-2024-and-its-aggressive-five-nodes-in-four-years-roadmap-remains-on-track](https://www.pcgamer.com/intel-announces-new-14a-node-at-ifs-direct-connect-2024-and-its-aggressive-five-nodes-in-four-years-roadmap-remains-on-track)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T02:16:42+00:00
+
+On the path to the Angstrom era.
+
+## Cozy MMO Palia is threatening players with an increasingly enormous stuffed frog if they keep wishlisting it on Steam
+ - [https://www.pcgamer.com/cozy-mmo-palia-is-threatening-players-with-an-increasingly-enormous-stuffed-frog-if-they-keep-wishlisting-it-on-steam](https://www.pcgamer.com/cozy-mmo-palia-is-threatening-players-with-an-increasingly-enormous-stuffed-frog-if-they-keep-wishlisting-it-on-steam)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-02-22T00:05:58+00:00
+
+To celebrate Palia's launch on Steam next month, Palia is rewarding players with "Giga Frogbert."
+
