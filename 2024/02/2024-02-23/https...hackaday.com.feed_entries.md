@@ -1,0 +1,79 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## Op-Amp Drag Race Turns Out Poorly for 741
+ - [https://hackaday.com/2024/02/23/op-amp-drag-race-turns-out-poorly-for-741](https://hackaday.com/2024/02/23/op-amp-drag-race-turns-out-poorly-for-741)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-23T21:00:02+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/02/op-amp_test.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>When it was first introduced in 1968, Fairchild&#8217;s 741 op-amp made quite a splash. And with good reason; it packed a bunch of components into a compact package, and the <a class="read-more" href="https://hackaday.com/2024/02/23/op-amp-drag-race-turns-out-poorly-for-741/">&#8230;read more</a>
+
+## Intuitive Machines’ Nova-C Makes It to the Lunar Surface in US Return After Half a Century
+ - [https://hackaday.com/2024/02/23/intuitive-machines-nova-c-makes-it-to-the-lunar-surface-in-us-return-after-half-a-century](https://hackaday.com/2024/02/23/intuitive-machines-nova-c-makes-it-to-the-lunar-surface-in-us-return-after-half-a-century)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-23T19:30:15+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="379" src="https://hackaday.com/wp-content/uploads/2024/02/intutiive_machine_im-1_lander_with_two_payloads.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Intuitive Machines&#8217; first mission (IM-1) featuring the Nova-C Odysseus lunar lander was launched on top of a SpaceX Falcon 9 on February 15th, 2024, as part of NASA&#8217;s Commercial Lunar <a class="read-more" href="https://hackaday.com/2024/02/23/intuitive-machines-nova-c-makes-it-to-the-lunar-surface-in-us-return-after-half-a-century/">&#8230;read more</a>
+
+## Ask Hackaday: What’s in Your Garage?
+ - [https://hackaday.com/2024/02/23/ask-hackaday-whats-in-your-garage](https://hackaday.com/2024/02/23/ask-hackaday-whats-in-your-garage)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-23T18:00:52+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="551" src="https://hackaday.com/wp-content/uploads/2024/02/garage.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>No matter what your hack of choice is, most of us harbor a secret fantasy that one day, we will create something world-changing, right? For most of us, that isn&#8217;t <a class="read-more" href="https://hackaday.com/2024/02/23/ask-hackaday-whats-in-your-garage/">&#8230;read more</a>
+
+## Hackaday Podcast Episode 259: Twin-T, Three-D, and Driving to a Tee
+ - [https://hackaday.com/2024/02/23/hackaday-podcast-episode-259-twin-t-three-d-and-driving-to-a-tee](https://hackaday.com/2024/02/23/hackaday-podcast-episode-259-twin-t-three-d-and-driving-to-a-tee)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-23T17:00:18+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="484" src="https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Hackaday Editors Elliot Williams and Al Williams sat down to compare notes on their favorite Hackaday posts of the week. You can listen in on this week&#8217;s podcast. The guys <a class="read-more" href="https://hackaday.com/2024/02/23/hackaday-podcast-episode-259-twin-t-three-d-and-driving-to-a-tee/">&#8230;read more</a>
+
+## Tool Demagnetizers and the Magnetic Stray Field
+ - [https://hackaday.com/2024/02/23/tool-demagnetizers-and-the-magnetic-stray-field](https://hackaday.com/2024/02/23/tool-demagnetizers-and-the-magnetic-stray-field)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-23T16:00:00+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="360" src="https://hackaday.com/wp-content/uploads/2024/02/magnetiser_demagnetiser_drawing.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>If you&#8217;ve ever found yourself wondering how those tool magnetizer/demagnetizer gadgets worked, [Electromagnetic Videos] has produced a pretty succinct and informative video on the subject. While the magnetizing step is <a class="read-more" href="https://hackaday.com/2024/02/23/tool-demagnetizers-and-the-magnetic-stray-field/">&#8230;read more</a>
+
+## This Week in Security: Wyze, ScreenConnect, and Untrustworthy Job Postings
+ - [https://hackaday.com/2024/02/23/this-week-in-security-wyze-screenconnect-and-untrustworthy-job-postings](https://hackaday.com/2024/02/23/this-week-in-security-wyze-screenconnect-and-untrustworthy-job-postings)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-23T15:00:17+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="484" src="https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>For a smart home company with an emphasis on cloud-connected cameras, what could possibly be worse than accidentally showing active cameras to the wrong users? Doing it again, to far <a class="read-more" href="https://hackaday.com/2024/02/23/this-week-in-security-wyze-screenconnect-and-untrustworthy-job-postings/">&#8230;read more</a>
+
+## Your Noisy Fingerprints Vulnerable to New Side-Channel Attack
+ - [https://hackaday.com/2024/02/23/your-noisy-fingerprints-vulnerable-to-new-side-channel-attack](https://hackaday.com/2024/02/23/your-noisy-fingerprints-vulnerable-to-new-side-channel-attack)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-23T12:00:01+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/02/fingerprint_phone.jpeg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Here&#8217;s a warning we never thought we&#8217;d have to give: when you&#8217;re in an audio or video call on your phone, avoid the temptation to doomscroll or use an app <a class="read-more" href="https://hackaday.com/2024/02/23/your-noisy-fingerprints-vulnerable-to-new-side-channel-attack/">&#8230;read more</a>
+
+## ESP32 Oscilloscope Skips Screen for the Browser
+ - [https://hackaday.com/2024/02/23/esp32-oscilloscope-skips-screen-for-the-browser](https://hackaday.com/2024/02/23/esp32-oscilloscope-skips-screen-for-the-browser)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-23T09:00:20+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="625" src="https://hackaday.com/wp-content/uploads/2024/02/oscilloscope.png?w=798" style="margin: 0 auto; margin-bottom: 15px;" width="798" /></div>An oscilloscope can be an expensive piece of equipment, but not every measurement needs four channels and gigahertz sampling rates. For plenty of home labs, old oscilloscopes with CRTs can <a class="read-more" href="https://hackaday.com/2024/02/23/esp32-oscilloscope-skips-screen-for-the-browser/">&#8230;read more</a>
+
+## The Latest Advancements in Portable N64 Modding
+ - [https://hackaday.com/2024/02/22/the-latest-advancements-in-portable-n64-modding](https://hackaday.com/2024/02/22/the-latest-advancements-in-portable-n64-modding)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-23T06:00:02+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/02/My-16th-N64-Portable-The-5th-GeN64-Why-Am-I-Still-Doing-This_-5-40-screenshot.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>[Chris Downing] has been in the mod scene a long time, and his 5th GeN64 Portable is his most modern portable Nintendo 64 yet. The new build has an improved <a class="read-more" href="https://hackaday.com/2024/02/22/the-latest-advancements-in-portable-n64-modding/">&#8230;read more</a>
+
+## The ELIZA Archaeology Project: Uncovering the Original ELIZA
+ - [https://hackaday.com/2024/02/22/the-eliza-archaeology-project-uncovering-the-original-eliza](https://hackaday.com/2024/02/22/the-eliza-archaeology-project-uncovering-the-original-eliza)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-23T03:00:02+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="374" src="https://hackaday.com/wp-content/uploads/2024/02/joseph_weizenbaum_eliza_cacm_1966_heading.jpg?w=795" style="margin: 0 auto; margin-bottom: 15px;" width="795" /></div>Since ELIZA was created by [Joseph Weizenbaum] in the 1960s, its success had led to many variations and ports being written over the intervening decades. The goal of the ELIZA <a class="read-more" href="https://hackaday.com/2024/02/22/the-eliza-archaeology-project-uncovering-the-original-eliza/">&#8230;read more</a>
+
+## Making Wooden Shingles with Hand Tools
+ - [https://hackaday.com/2024/02/22/making-wooden-shingles-with-hand-tools](https://hackaday.com/2024/02/22/making-wooden-shingles-with-hand-tools)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-23T00:00:52+00:00
+
+<div><img alt="A man standing next to a log holds a wooden mallet and a grey froe with a wooden handle. The froe&#039;s long straight blade sits atop the end of the log. Several cuts radiate out from the center of the log going through the length of the wood." class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/02/Making-Roof-Shingles-With-Hand-Tools-YouTube-0-12-59.jpeg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>While they have mostly been replaced with other roofing technologies, wooden shingles have a certain rustic charm. If you&#8217;re curious about how to make them by hand, [Harry Rogers] takes <a class="read-more" href="https://hackaday.com/2024/02/22/making-wooden-shingles-with-hand-tools/">&#8230;read more</a>
+

@@ -1,0 +1,224 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Prince of Persia: The Lost Crown getting free new content and modes "soon"
+ - [https://www.eurogamer.net/prince-of-persia-the-lost-crown-getting-free-new-content-and-modes-starting-soon?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/prince-of-persia-the-lost-crown-getting-free-new-content-and-modes-starting-soon?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T21:54:53+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Sargon-in-Prince-of-Persia-The-Lost-Crown.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Ubisoft has teased its future plans for Prince of Persia: The Lost Crown, saying the acclaimed Metroidvania will be getting new content and modes in free updates starting "soon".
+</p><p>
+Prince of Persia: The Lost Crown enjoyed significant critical acclaim when it launched back in January - Eurogamer's Christian Donlan called it a "real delight...that revels in both its genre and its own heritage" in his <a href="https://www.eurogamer.net/prince-of-persia-the-lost-crown-getting-free-new-content-and-modes-starting-soon">four star review</a> - and while early reports have suggested it hasn't fared quite so well commercially, Ubisoft clearly isn't done with the title yet.
+</p><p>
+In a short video message <a href="https://x.com/princeofpersia/status/1760711217029509525?s=20">shared on social media</a>
+
+## Digital-only Xbox Series X reportedly launching "June or July" this year
+ - [https://www.eurogamer.net/digital-only-xbox-series-x-reportedly-launching-june-or-july-this-year?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/digital-only-xbox-series-x-reportedly-launching-june-or-july-this-year?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T19:50:27+00:00
+
+<img src="https://assetsio.reedpopcdn.com/xbox-console-leak-digital.jpeg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Microsoft is reportedly preparing to launch a new white, digital-only version of its top-end Xbox Series X console in "June or July" this year.
+</p><p>
+An "adorably all-digital" Xbox Series X refresh, planned for a 2024 release, first surfaced as part of a <a href="https://www.eurogamer.net/new-xbox-series-xs-consoles-detailed-in-enormous-microsoft-leak">mammoth leak of official Microsoft documentation</a> during last year's court battle with the FTC. However, Xbox boss Phil Spencer later insisted "so much has changed" since the plans detailed in the leak had been drawn up, leaving the all-digital console's future uncertain.
+</p><p>
+But now, noted leaker eXtas1s (<a href="https://exputer.com/exputer/all-digital-white-xbox-series-x-development/">writing for Exputer</a>) has claimed that not only are Microsoft's a
+
+## No Man's Sky is free to play again because it went so well last weekend
+ - [https://www.eurogamer.net/no-mans-sky-is-free-to-play-again-this-weekend-because-it-went-so-well-last-time?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/no-mans-sky-is-free-to-play-again-this-weekend-because-it-went-so-well-last-time?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T16:56:28+00:00
+
+<img src="https://assetsio.reedpopcdn.com/no-mans-sky-omega-screenshot.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+If you didn't get chance to put No Man's Sky through its paces during its free to play event last weekend - or if you did and you want to do it all over again, no purchase required - developer Hello Games has announced its exploratory space sim is free to download and play right now  for the next few days because it all proved so popular last time.
+</p><p>
+In its free weekend round two announcement, Hello Games says its first attempt "worked better than expected" and No Man's Sky "started the year with more players than we've EVER had at this time of year", adding, "Our large and friendly community did us proud and jumped at the opportunity to welcome these new Travellers with open arms and show them the ropes."
+</p><p>
+As before, No Man's Sky's free weekend is open to players on all platforms - Switch, Xbox, 
+
+## Palworld teams up with Microsoft for Xbox Series S giveaway
+ - [https://www.eurogamer.net/palworld-teams-up-with-microsoft-for-xbox-series-s-giveaway?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/palworld-teams-up-with-microsoft-for-xbox-series-s-giveaway?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T16:45:44+00:00
+
+<img src="https://assetsio.reedpopcdn.com/GHBpN1BbsAAy9WW.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Xbox is running a giveaway competition in collaboration with <a href="https://www.eurogamer.net/palworld-beginner-tips-tricks-9409">Palworld</a>, where one lucky person can win a custom Xbox Series X and controllers featuring the titular Pals.</p><p>The giveaway was announced <a href="https://twitter.com/Xbox/status/1761028639855173778">by Xbox</a> over on X (n&eacute;e Twitter), alongside what I assume is a mock-up of the final design. </p><p>The console features the game's cover art and logo, while the four controllers bundled with it come in four different colours with four different Pals on: yellow (Grizzbolt), green (Mammorest), blue (Pengullet), and pink (Cattiva).</p> <p><a href="https://www.eurogamer.net/palworld-teams-up-with-microsoft-for-xbox-series-s-giveaway?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=f
+
+## SteamWorld Build underperformed, says publisher Thunderful
+ - [https://www.eurogamer.net/steamworld-build-underperformed-says-publisher-thunderful?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/steamworld-build-underperformed-says-publisher-thunderful?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T16:37:21+00:00
+
+<img src="https://assetsio.reedpopcdn.com/steamworld-build-art-no-logo.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+SteamWorld Build publisher Thunderful said the game "fell slightly short of expectations", as its company restructure is "off to a good start".
+</p><p>
+The game was the latest in the SteamWorld series that turned to strategy and base building gameplay, and was released at the start of December last year.
+</p><p>
+During the company's latest financial reporting, Thunderful CEO Martin Walfisz put the blame on genre choice not being suited to the Switch, where the series is traditionally stronger (thanks <a href="https://www.gamedeveloper.com/business/thunderful-says-steamworld-build-underperformed-reveals-it-s-looking-to-sell-headup">Game Developer</a>). That's despite the game's sales contributing to a record high Q4.
+
+</p> <p><a href="https://www.eurogamer.net/steamworld-build-underperformed-says-publisher-thun
+
+## Mother creator says "please talk to Nintendo, not me" about missing western launch
+ - [https://www.eurogamer.net/mother-creator-says-please-talk-to-nintendo-not-me-about-missing-western-launch?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/mother-creator-says-please-talk-to-nintendo-not-me-about-missing-western-launch?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T15:40:54+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Nintendo-Direct-%E3%82%BD%E3%83%95%E3%83%88%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%83%E3%83%97-2024.2.21-24-4-screenshot-(1).png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Western Earthbound fans were crushed earlier this week when Nintendo revealed Mother 3 was on its way to Switch Online - but only in Japan.
+</p><p>
+The <a href="https://www.eurogamer.net/everything-announced-in-the-nintendo-direct-partner-showcase">Nintendo Direct Partner Showcase earlier this week</a> revealed a host of games still on the way to the Switch later this year, but the <a href="https://www.youtube.com/watch?v=RzXHbR9NzL8&amp;t=1s">Japanese version of the showcase</a> additionally included the Game Boy Advance game Mother 3 as part of the expansion pass.
+</p><p>
+Fans were up in arms on social media, even going as far as to pester series creator Shigesato Itoi.
+</p> 
+
+## Suicide Squad: Kill the Justice League fails to meet Warner Bros. expectations
+ - [https://www.eurogamer.net/suicide-squad-kill-the-justice-league-fails-to-meet-warner-bros-expectations?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/suicide-squad-kill-the-justice-league-fails-to-meet-warner-bros-expectations?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T15:04:34+00:00
+
+<img src="https://assetsio.reedpopcdn.com/King-shark-Suicide-Squad-Kill-the-Justice-League.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Suicide Squad: Kill the Justice League has failed to meet publisher Warner Bros' expectations.</p><p>During a financial call, Warner Bros. Discovery's chief financial officer Gunnar Wiedenfels said Rocksteady's recent release had "fallen short of our expectations" (thanks, <a href="https://www.ign.com/articles/suicide-squad-kill-the-justice-league-has-fallen-short-of-our-expectations-warner-bros-says">IGN</a>).</p><p>The executive did not share any sales figures for Suicide Squard: Kill the Justice League during this call, but admitted it had left the company with a "tough year" ahead when it comes to year-on-year comparisons. Last year, Warner Bros. published Mortal Kombat 1 and Hogwarts Legacy, the latter of which became the <a href="https://www.polygon.com/24026887/hogwarts-legacy-call-of
+
+## AMD's Radeon RX 6700 is a ringer for the PS5 GPU - but which is faster?
+ - [https://www.eurogamer.net/digitalfoundry-2024-amds-radeon-rx-6700-is-a-ringer-for-the-ps5-gpu-but-which-is-faster?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/digitalfoundry-2024-amds-radeon-rx-6700-is-a-ringer-for-the-ps5-gpu-but-which-is-faster?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T15:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/6700-SITE2.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>What if AMD produced a desktop graphics card that effectively mirrored console GPU specifications? Would such a product guarantee console-level performance in the PC space, or is it the case that there are already console-equivalent GPUs currently available that already do the job - and if so, how much do they cost? It's been known for a while now that AMD's Radeon RX 6700 10GB (the non-XT) model has startling similarities to the technological make-up of the PlayStation 5's GPU - so a while back, I bought one used from eBay and the head-to-head results are certainly intriguing. </p><p>Looking at the core specs, the RX 6700 certainly looks like a ringer for the PS5's GPU - to a certain extent. Both have 2,304 shaders across 36 AMD dual compute units. Both are based on the RDNA 2 graphics architecture. Both have 144 texture mappin
+
+## Nightingale offline play a priority, developer says
+ - [https://www.eurogamer.net/nightingale-offline-play-a-priority-developer-says?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/nightingale-offline-play-a-priority-developer-says?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T14:52:17+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Nightingale-header_p6ISKgL.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Inflexion is prioritising an offline play mode for Nightingale. This follows on from player feedback, with many questioning the developer's decision to make Nightingale online-only on its early access release earlier this month.</p><p>In an update on <a href="https://store.steampowered.com/news/app/1928980/view/4197988091801474417">Steam</a>, the Nightingale team said its vision was always to "create an interconnected series of Realms, with the idea of allowing for co-operative exploration in mind - a universe bigger than a single Realm or server". </p><p>As such, the studio made the decision early on to support co-op from day one, rather than focus on an offline mode.
+</p> <p><a href="https://www.eurogamer.net/nightingale-offline-play-a-priority-developer-says?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=
+
+## Fortnite begins teasing ancient Greek season
+ - [https://www.eurogamer.net/fortnite-begins-teasing-ancient-greek-season?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/fortnite-begins-teasing-ancient-greek-season?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T14:43:30+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Fallen_Love_Ranger_-_Promo_-_Fortnite.webp?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Fortnite has begun teasing its next season - Chapter 5 Season 2 - in-game, with a series of intriguing changes. 
+</p><p>
+Meanwhile, fans peering inside of Fortnite's files have datamined some surprising map updates set to herald the start of an Ancient Greek mythology period.
+</p><p>
+A new NPC character named Odyssey can be found just outside Risky Reels who you can chat to for an update on the current season's storyline (which has so far been pretty threadbare) and a tease for what's next: something to do with an ancient power named the Mosaic. 
+</p> <p><a href="https://www.eurogamer.net/fortnite-begins-teasing-ancient-greek-season?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Spider-Man 2 fans debate game's ending, after earlier draft appears online
+ - [https://www.eurogamer.net/spider-man-2-fans-debate-games-ending-after-earlier-draft-appears-online?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/spider-man-2-fans-debate-games-ending-after-earlier-draft-appears-online?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T13:41:56+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Marvels-Spider-Man-2_G98l51L.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Several months down the line from Spider-Man 2's launch, fans have been discussing the game's ending and whether elements should have played out differently.</p><p>This discussion has been prompted by the apparent emergence of an early plan for Spider-Man 2's story shared on <a href="https://www.reddit.com/r/GamingLeaksAndRumours/comments/1axeftd/some_parts_of_the_old_marvels_spiderman_2_story/">reddit</a>, originating from the files <a href="https://www.eurogamer.net/sony-investigating-insomniac-hack-which-reportedly-leaked-wolverine-files-and-employees-personal-data">stolen by hackers who targeted Insomniac Games</a>. In that early draft, one particular plot element was different - sparking debate now on whether it was a good thing Insomniac apparently changed its mind. </p><p>Please note, <strong>the rest of
+
+## League of Legends free-to-play fighter officially named 2XKO
+ - [https://www.eurogamer.net/league-of-legends-free-to-play-fighter-officially-named-2xko?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/league-of-legends-free-to-play-fighter-officially-named-2xko?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T13:37:27+00:00
+
+<img src="https://assetsio.reedpopcdn.com/2XKO_KeyArt_Ahri%2BEkko_1920x1080_Final-(1).png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Riot Games has revealed the official title for its free-to-play, 2D fighter League of Legends spin-off: 2XKO.</p><p>If you're in any doubt, it's pronounced how it's spelled, <a href="https://twitter.com/Play2XKO/status/1760698787021070342">Riot</a> said over on X. Previously it had been referred to as Project L.</p><p>I'm going to assume the name is supposed to mean "two KOs", given 2XKO is a 2v2 tag-based fighting game. That also means my brain will call the game 2KO rather than 2XKO. I'm starting to fear this might be a "n&eacute;e Project L" situation...</p> <p><a href="https://www.eurogamer.net/league-of-legends-free-to-play-fighter-officially-named-2xko?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Elden Ring Shadow of the Erdtree trailer analysed
+ - [https://www.eurogamer.net/elden-ring-shadow-of-the-erdtree-trailer-analysed?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/elden-ring-shadow-of-the-erdtree-trailer-analysed?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T12:45:35+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ELDEN-RING-Shadow-of-the-Erdtree-_-Official-Gameplay-Reveal-Trailer-1-44-screenshot-(1).png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+After what has seemed like forever since its initial announcement a year ago, on Wednesday we finally got a full trailer for <a href="https://www.eurogamer.net/elden-ring-shadow-of-the-erdtree-dlc-everything-we-know-9415">Elden Ring DLC</a> Shadow of the Erdtree. 
+</p><p>
+<a href="https://www.eurogamer.net/elden-ring-shadow-of-the-erdtree-is-fromsoftwares-largest-expansion-ever">Eurogamer spoke to creator Hidetaka Miyazaki</a> to gain some more details: it's FromSoftware's biggest DLC to date, is based on previous workings from George R. R. Martin, and has a developed world design that blurs the line between field areas and dungeons.
+</p><p>
+But is there more we can garner from the trailer itself? Let's go into detail.
+</p> <p><a href="https://www.euro
+
+## Mortal Kombat 1 gets crossplay next week
+ - [https://www.eurogamer.net/mortal-kombat-1-gets-crossplay-next-week?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/mortal-kombat-1-gets-crossplay-next-week?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T12:16:45+00:00
+
+<img src="https://assetsio.reedpopcdn.com/mk1-peacemaker.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Warner Bros. Games has announced crossplay will be added to Mortal Kombat 1 in a patch next week, which is also when John Cena's Peacemaker will be available in early access.</p><p>Crossplay, er I mean Krossplay, will be available for players on PlayStation 5, Xbox Series X/S, and PC (Steam and Epic Games Store) from 28th February. Players of the <a href="https://www.eurogamer.net/70-mortal-kombat-1-switch-version-called-robbery-as-graphical-comparisons-flood-the-internet">heavily criticised Nintendo Switch version of Mortal Kombat 1</a> will miss out on 1v1 Kombat League and Kasual matches, 1v1 private matches, and leaderboard stats across the other platforms.</p><p>On 28th February, Peacemaker will be available to play as in early access for those who've bought the Kombat Pack. Warner Bros. Games released a gameplay traile
+
+## Solium Infernum launches, as developer faces uncertain future
+ - [https://www.eurogamer.net/solium-infernum-launches-as-developer-faces-uncertain-future?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/solium-infernum-launches-as-developer-faces-uncertain-future?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T12:02:06+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Solium-Infernum---Official-Launch-Trailer-0-2-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Cult classic strategy game revival Solium Infernum is now available on Steam, as its developer League of Geeks continues to face an uncertain future. 
+</p><p>
+This <a href="https://www.eurogamer.net/solium-infernum-revival-announced-from-league-of-geeks">new version of Solium Infernum</a> - where you aim to claim the Infernal Throne of Hell by navigating political intrigue, military strategy and beytrayal - boasts an all-new single-player campaign and asynchronous multiplayer, alongside a visual refresh. 
+</p><p>
+But behind the scenes, its developer's fate seems to remain uncertain. League of Geeks, previously behind the well-received strategy board game Armello, suffered layoffs in December, with around half of its 70-something team let go. 
+</p> <p><a href="https://www.eurogamer.n
+
+## Baldur's Gate 3 cross-platform mod support coming
+ - [https://www.eurogamer.net/baldurs-gate-3-cross-platform-mod-support-coming?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/baldurs-gate-3-cross-platform-mod-support-coming?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T11:49:34+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Baldurs-gate-3-mod.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Baldur's Gate 3 will be getting official mod support down the line, including cross-platform support for consoles.
+</p><p>
+Larian's director of publishing Michael Douse described plans for this official support as "robust", but did not yet give an exact date for when it will arrive - other than to say it was planned for sometime this year. 
+</p><p>
+"We have a system but it needs to be tested and still requires work," Douse explained, noting that the team wanted to avoid any player frustration from game updates breaking mods. 
+</p> <p><a href="https://www.eurogamer.net/baldurs-gate-3-cross-platform-mod-support-coming?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Palworld reaches 25m players in first month
+ - [https://www.eurogamer.net/palworld-reaches-25m-players-in-first-month?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/palworld-reaches-25m-players-in-first-month?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T11:32:12+00:00
+
+<img src="https://assetsio.reedpopcdn.com/palworld-011924-(9).jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><a href="https://www.eurogamer.net/palworld-beginner-tips-tricks-9409">Palworld</a> has reached an astonishing 25m players within its first month. </p><p>The numbers, revealed by developer <a href="https://twitter.com/Palworld_EN/status/1760682105171062876">Pocketpair</a>, also confirm 15m players jumped into the action-adventure, monster-taming, survival game on Steam. The other 10m have dived in on Xbox, though Pocketpair didn't specify how many of these were players who bought a copy of the game versus how many were playing via Xbox Game Pass. </p><p>15m copies of Palworld sold on Steam will have made Pocketpair about $315m, which is around &pound;250m, after taking off Valve's 30 percent cut. That money will surely go a long way to helping Pocketpair with its <a href="https://www.eurogamer.net/palworld-is-spending-3
+
+## WWE 2K2K final roster confirms McMahon, Lesnar unplayable
+ - [https://www.eurogamer.net/wwe-2k2k-final-roster-confirms-mcmahon-lesnar-unplayable?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/wwe-2k2k-final-roster-confirms-mcmahon-lesnar-unplayable?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T11:05:53+00:00
+
+<img src="https://assetsio.reedpopcdn.com/wwe-2k24-art.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The final rundown of wrestlers playable in WWE 2K24 has now confirmed the removal of Vince McMahon and Brock Lesnar, following allegations surrounding both men surfacing last month.
+</p><p>
+Many fans had expected former WWE boss McMahon and frequent WWE champion Lesnar to be cut from the game's playable roster as a result, despite the title's focus on the past 40 years of Wrestlemania. Indeed, earlier this month, <a href="https://www.eurogamer.net/wwe-2k24-scrubs-brock-lesnar-from-special-edition-cover">Lesnar was spotted by fans as having been quietly removed from artwork</a> used on the game's cover. 
+</p><p>2K published the final roster yesterday on its website via a simple <a href="https://wwe.2k.com/2k24/roster-list/">blog post</a>. 204 wrestlers will be available.</p> <p><a href="https://www.eurogamer.net/wwe-2k2k-final
+
+## Borderlands movie start of "Cinematic Universe", Randy Pitchford says
+ - [https://www.eurogamer.net/borderlands-movie-start-of-cinematic-universe-randy-pitchford-says?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/borderlands-movie-start-of-cinematic-universe-randy-pitchford-says?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T11:00:10+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Cate-Blancett-as-Lilith-in-Borderlands-film.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The upcoming Cate Blanchett-fronted Borderlands film is the start of a "Borderlands Cinematic Universe",  according to Gearbox founder Randy Pitchford. 
+</p><p>
+Speaking with <a href="https://www.ign.com/articles/borderlands-movie-trailer-breakdown-randy-pitchford-ign-fan-fest-2024">IGN</a> about the recent Borderlands trailer, Pitchford discussed the film's place in the video game universe, saying it "lives side by side". 
+</p><p>
+"Of course, the characters are there and authentic in the themes and even some of the storylines. But they're independent storylines," Pitchford told the publication, stating the film isn't either Borderlands 1 or 2. Rather, it is "the first of the Borderlands Cinematic Universe", which means fans of the series will "see some characters from some of the different part
+
+## Game of the Week: Finally, a game with the guts to ask, "What if middle child syndrome was a Volvo?"
+ - [https://www.eurogamer.net/game-of-the-week-finally-a-game-with-the-guts-to-ask-what-if-middle-child-syndrome-was-a-volvo?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/game-of-the-week-finally-a-game-with-the-guts-to-ask-what-if-middle-child-syndrome-was-a-volvo?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T11:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/pacific-drive-1.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>In the Zone, causality goes into the blender. The past and the present and the future do not always follow in polite order. No wonder, then, that I knew Pacific Drive would one day be our Game of the Week when I played a demo build and almost died because I grabbed my car's windscreen wipers instead of the steering wheel. Sometimes you can stir things apart.</p><p>We'll get back to that. This week, I was very moved to read Carlo Rovelli's beautiful, sonorous book, White Holes. Rovelli is a wizard, not just because he managed to make the science of the event horizon palatable to me, an idiot, but because at the end he performed a lovely handbrake turn to land on this thought:</p><p>"I happen to think that we should always address the universe as 'you', to understand it and to understand ourselves, a 'you' that recognises our
+
+## What we've been playing
+ - [https://www.eurogamer.net/what-weve-been-playing-148?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/what-weve-been-playing-148?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T11:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/alittletotheleft.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Hello! Welcome back to our regular feature where we write a little bit about some of the games we've been playing over the past few days. This week: deliveries, hotlines, and awkwardly hung paintings.</p><p>If you fancy catching up on some of the older editions of What We've Been Playing, <a href="https://www.eurogamer.net/topics/what-weve-been-playing">here's our archive</a>.</p><p>I'm playing through Death Stranding at the moment, and it's the perfect drizzly game for February. Has there ever been a game so in love with the rain? Not just when it's falling, but the way it leaves the landscape after it's stopped, and the way you feel when you know that rain is coming. Death Stranding is the very spirit of that magical, sonorous word Petrichor. Just looked it up properly: the smell of rain.</p> <p><a href="https://www.euro
+
+## Helldivers 2 raises player cap yet again, ahead of expected busy weekend
+ - [https://www.eurogamer.net/helldivers-2-raises-player-cap-yet-again-ahead-of-expected-busy-weekend?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/helldivers-2-raises-player-cap-yet-again-ahead-of-expected-busy-weekend?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-23T10:46:15+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Helldivers-2-Failed-To-Join-Error.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Helldivers 2 has increased its player cap even further, ahead of what's expected to be another busy weekend for the game's servers.
+</p><p>
+Game director Johan Pilestedt revealed the game's new concurrent user cap now stands at 700,000 players, via a <a href="https://x.com/Pilestedt/status/1760864817961709982?s=20">post</a> on X. Helldivers 2 is expected to hit this number, although he added: "We believe that the wait times will be much more bearable".
+</p><p>
+Patch notes on <a href="https://store.steampowered.com/news/app/553850/view/4192358592272626253?l=english">Steam</a> confirm the raised server cap, as well as a fix for an issue where players would get stuck in cinematics.
+</p> <p><a href="https://www.eurogamer.net/helldivers-2-raises-player-cap-yet-again-ahead-of-expected-busy-weekend?utm_source=fe
+

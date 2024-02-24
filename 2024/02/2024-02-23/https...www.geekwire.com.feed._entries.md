@@ -1,0 +1,37 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed/, language:en-US
+
+## Seattle city council president Sara Nelson ‘very worried’ about fallout from food delivery shake-up
+ - [https://www.geekwire.com/2024/seattle-city-council-president-sara-nelson-very-worried-about-fallout-from-food-delivery-shake-up](https://www.geekwire.com/2024/seattle-city-council-president-sara-nelson-very-worried-about-fallout-from-food-delivery-shake-up)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-23T20:22:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="841" src="https://cdn.geekwire.com/wp-content/uploads/2024/02/nelson-headshot-1260x841.jpeg" width="1260" /><br />A controversial new minimum wage law for gig workers in Seattle that is drawing ire from tech giants has become one of Sara Nelson&#8217;s first policy issues to tackle in her new role as city council president. Nelson, elected to the council in 2021 and appointed as president in January, spoke to GeekWire this week about the ordinance that went into effect last month and sets a minimum per-minute and per-mile amount for app-based workers. DoorDash and Uber Eats responded by adding substantial new fees for consumers — $5 for each order — and say demand has fallen substantially in the subsequent weeks. Uber published&#8230; <a href="https://www.geekwire.com/2024/seattle-city-council-president-sara-nelson-very-worried-about-fallout-from-food-delivery-shake-up/">Read More</a>
+
+## Flexport relaunches Convoy trucking marketplace after acquiring tech from Seattle startup
+ - [https://www.geekwire.com/2024/flexport-relaunches-convoy-trucking-marketplace-after-acquiring-tech-from-seattle-startup](https://www.geekwire.com/2024/flexport-relaunches-convoy-trucking-marketplace-after-acquiring-tech-from-seattle-startup)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-23T15:30:10+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2023/06/Go-Trailer-13-1260x840.jpg" width="1260" /><br />Convoy&#8217;s digital marketplace is back on the market following the demise of the Seattle startup and subsequent technology acquisition by Flexport. Logistics giant Flexport this week launched the &#8220;Convoy Platform&#8221; that connects shippers and truckers. The launch comes less than four months after Flexport acquired technology assets from Convoy, a one-time Seattle startup darling that reached a $3.8 billion valuation in 2022 before its surprising collapse late last year. &#8220;I&#8217;m so proud to see Convoy&#8217;s technology platform and marketplace relaunch this week within Flexport,&#8221; Convoy co-founder and former CEO Dan Lewis wrote on LinkedIn. &#8220;The feedback from the trucking community&#8230; <a href="https://www.geekwire.com/2024/flexport-relaunches-convoy-trucking-market
+
+## Seattle tech leaders lament departure of Techstars but remain bullish on new opportunities
+ - [https://www.geekwire.com/2024/seattle-tech-leaders-lament-departure-of-techstars-but-remain-bullish-on-new-opportunities](https://www.geekwire.com/2024/seattle-tech-leaders-lament-departure-of-techstars-but-remain-bullish-on-new-opportunities)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-23T14:32:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2019/05/techstarsdemoday2019_9693-1260x840.jpg" width="1260" /><br />Techstars Seattle is done. What does it mean for the city&#8217;s startup ecosystem? That&#8217;s a question on our minds in the immediate aftermath of the surprising news this week from Techstars to shut down its Seattle program. &#8220;It&#8217;s a serious loss for our remarkable community,&#8221; Isaac Kato, former Techstars Seattle managing director, told GeekWire. More than 160 startups participated in the core Techstars Seattle accelerator since it launched in 2010. The program, based at the University of Washington&#8217;s Startup Hall, served as a key hub for budding startup founders who needed mentorship and capital as they built the next great&#8230; <a href="https://www.geekwire.com/2024/seattle-tech-leaders-lament-departure-of-techstars-but-remain-bullish-on-new-opportunities/">R
+
+## Techstars CEO responds to former Seattle managing director, tells him to check his facts
+ - [https://www.geekwire.com/2024/techstars-ceo-responds-to-former-seattle-managing-director-tells-him-to-check-his-facts](https://www.geekwire.com/2024/techstars-ceo-responds-to-former-seattle-managing-director-tells-him-to-check-his-facts)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-23T05:47:39+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2022/06/IMG_5136-1260x945.jpg" width="1260" /><br />Techstars CEO Maëlle Gavet on Thursday criticized a blog post penned by Chris DeVore, a longtime Seattle investor who ran Techstars Seattle as managing director from 2014 to 2019. In the blog post, titled &#8220;What went wrong at Techstars,&#8221; DeVore called out strategic decisions such as leaning on corporate sponsors &#8220;at the expense of founders&#8221; and altering the incentive system for local managing directors. DeVore published his post Wednesday following news that Techstars was shutting down its Seattle program amid other changes at the global accelerator company. Gavet responded to DeVore&#8217;s post on LinkedIn. &#8220;Chris &#8211; now I understand the&#8230; <a href="https://www.geekwire.com/2024/techstars-ceo-responds-to-former-seattle-managing-director-tells-him-to-check-his-facts/">R
+
+## Healionics lands $5.5M to complete human trial of artificial blood vessel for dialysis patients
+ - [https://www.geekwire.com/2024/healionics-lands-5-5m-to-complete-human-trial-of-artificial-blood-vessel-for-dialysis-patients](https://www.geekwire.com/2024/healionics-lands-5-5m-to-complete-human-trial-of-artificial-blood-vessel-for-dialysis-patients)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2024-02-23T00:10:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="710" src="https://cdn.geekwire.com/wp-content/uploads/2019/02/Stargraft-vascular-graft-1260x710.jpeg" width="1260" /><br />Healionics, a Seattle-based medical technology company, raised $5.5 million in new financing aimed at helping the company complete an ongoing human trial and pursue regulatory clearance and commercialization of its artificial blood vessel for kidney dialysis patients. The investment was led by Keiretsu Capital, which previously led a $4.7 million round in 2021. Healionics also raised $3.8 million for its tech in 2019. Founded in 2007 and led by CEO Mike Connolly, Healionics has been working on its STARgraft vascular graft for years as a solution to the challenge of providing reliable vascular access for dialysis patients. According to Healionics,&#8230; <a href="https://www.geekwire.com/2024/healionics-lands-5-5m-to-complete-human-trial-of-artificial-blood-vessel-for-dialysis-patients/">Read
+
