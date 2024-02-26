@@ -1,0 +1,436 @@
+# Source:Home - CBSNews.com, URL:https://www.cbsnews.com/latest/rss/main, language:en
+
+## Suspect in murder of nursing student entered U.S. illegally, ICE says
+ - [https://www.cbsnews.com/news/jose-ibarra-suspect-murder-georgia-nursing-student-illegal-entry-venezuela](https://www.cbsnews.com/news/jose-ibarra-suspect-murder-georgia-nursing-student-illegal-entry-venezuela)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T22:29:28+00:00
+
+The suspect in the murder of Georgia nursing student Laken Hope Riley​ entered the U.S. illegally from Venezuela and had been previously arrested, officials said Sunday.
+
+## 2/25: The Takeout: North Carolina Congressman Patrick McHenry
+ - [https://www.cbsnews.com/video/225-the-takeout-north-carolina-congressman-patrick-mchenry](https://www.cbsnews.com/video/225-the-takeout-north-carolina-congressman-patrick-mchenry)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T22:00:45+00:00
+
+North Carolina Republican Congressman and House Financial Services Chairman Patrick McHenry joins Major Garrett for this week's episode of "The Takeout" to discuss House Speaker Mike Johnson and the divide in the House over funding for Ukraine.
+
+## Full transcript of "Face the Nation," Feb. 25, 2024
+ - [https://www.cbsnews.com/news/face-the-nation-full-transcript-02-25-2024](https://www.cbsnews.com/news/face-the-nation-full-transcript-02-25-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T19:56:00+00:00
+
+On this "Face the Nation" broadcast, Israeli Prime Minister Benjamin Netanyahu and U.S. Rep. Debbie Dingell join Margaret Brennan.
+
+## 2/25: Face The Nation
+ - [https://www.cbsnews.com/video/225-face-the-nation-1](https://www.cbsnews.com/video/225-face-the-nation-1)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T19:00:29+00:00
+
+This week on "Face the Nation," Margaret Brennan interviews Israeli Prime Minister Benjamin Netanyahu amid the growing crisis in the Middle East. Plus, Democratic Rep. Debbie Dingell of Michigan joins ahead of her state's primary on Tuesday.
+
+## Michigan will be "purple from now until November," Rep. Debbie Dingell says
+ - [https://www.cbsnews.com/news/michigan-purple-rep-debbie-dingell-face-the-nation](https://www.cbsnews.com/news/michigan-purple-rep-debbie-dingell-face-the-nation)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T18:38:24+00:00
+
+Michiganders are heading to the polls on Tuesday, as President Biden faces a key test in the swing state.
+
+## Russian President Vladimir Putin has "created a martyr" in Alexei Navalny, Fiona Hill says
+ - [https://www.cbsnews.com/video/russian-president-vladimir-putin-has-created-a-martyr-in-alexei-navalny-fiona-hill-says](https://www.cbsnews.com/video/russian-president-vladimir-putin-has-created-a-martyr-in-alexei-navalny-fiona-hill-says)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T18:33:00+00:00
+
+Former White House Russia expert Fiona Hill tells "Face the Nation" that Vladimir Putin has "created a martyr" after the death of Alexey Navalny.
+
+## Ukrainian ambassador the U.S. Oksana Markarova says war is "winnable"
+ - [https://www.cbsnews.com/video/ukrainian-ambassador-the-u-s-oksana-markarova-says-war-is-winnable](https://www.cbsnews.com/video/ukrainian-ambassador-the-u-s-oksana-markarova-says-war-is-winnable)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T18:23:00+00:00
+
+Ukrainian ambassador the U.S. Oksana Markarova tells "Face the Nation" that Russia's war against her country is "winnable, if we have supply of weapons and support."
+
+## Reps. Brian Fitzpatrick and Jared Golden say they have expedited their border security bill
+ - [https://www.cbsnews.com/video/reps-brian-fitzpatrick-and-jared-golden-say-they-have-expedited-their-border-security-bill](https://www.cbsnews.com/video/reps-brian-fitzpatrick-and-jared-golden-say-they-have-expedited-their-border-security-bill)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T18:14:00+00:00
+
+Although House Speaker Mike Johnson has said the Senate's border security bill is dead on arrival in the House, Reps. Brian Fitzpatrick and Jared Golden tell "Face the Nation" that they have a bipartisan bill and they have filed to expedite it in the House.
+
+## Michigan will be "purple from now until November," Rep. Debbie Dingell says
+ - [https://www.cbsnews.com/video/michigan-will-be-purple-from-now-until-november-rep-debbie-dingell-says](https://www.cbsnews.com/video/michigan-will-be-purple-from-now-until-november-rep-debbie-dingell-says)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T18:09:00+00:00
+
+Ahead of Michigan's primary on Tuesday, Democratic Rep. Debbie Dingell of Michigan tells "Face the Nation" that President Biden will need to meet with the "both sides" amid the war between Israel and Hamas is a "very important issue here." But, she noted, "Michigan's a purple state" and the state is "going to be purple from now until November."
+
+## Face The Nation: Dingell, Fitzpatrick, Markarova
+ - [https://www.cbsnews.com/video/face-the-nation-dingell-fitzpatrick-markarova](https://www.cbsnews.com/video/face-the-nation-dingell-fitzpatrick-markarova)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T18:07:02+00:00
+
+Missed the second half of the show? The latest on... Michigan's  presidential primary, US border security and support for Ukraine.
+
+## Transcript: Fiona Hill on "Face the Nation," Feb. 25, 2024
+ - [https://www.cbsnews.com/news/fiona-hill-face-the-nation-transcript-02-25-2024](https://www.cbsnews.com/news/fiona-hill-face-the-nation-transcript-02-25-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T17:36:00+00:00
+
+The following is a transcript of an interview with fomrer White House Russia expert Fiona Hill that aired on Feb. 25, 2024.
+
+## Transcript: Oksana Markarova on "Face the Nation," Feb. 25, 2024
+ - [https://www.cbsnews.com/news/oksana-markarova-ukrainian-ambassador-face-the-nation-transcript-02-25-2024](https://www.cbsnews.com/news/oksana-markarova-ukrainian-ambassador-face-the-nation-transcript-02-25-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T17:32:00+00:00
+
+The following is a transcript of an interview with Ukrainian ambassador to the U.S. Oksana Markarova that aired on Feb. 25, 2024.
+
+## Transcript: Reps. Brian Fitzpatrick and Jared Golden on "Face the Nation," Feb. 25, 2024
+ - [https://www.cbsnews.com/news/brian-fitzpatrick-jared-golden-face-the-nation-transcript-02-25-2024](https://www.cbsnews.com/news/brian-fitzpatrick-jared-golden-face-the-nation-transcript-02-25-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T17:28:00+00:00
+
+The following is a transcript of an interview with Reps. Brian Fitzpatrick, Republican of Pennsylvania, and Jared Golden, Democrat of Maine, that aired on Feb. 25, 2024.
+
+## Transcript: Rep. Debbie Dingell on "Face the Nation," Feb. 25, 2024
+ - [https://www.cbsnews.com/news/debbie-dingell-face-the-nation-transcript-02-25-2024](https://www.cbsnews.com/news/debbie-dingell-face-the-nation-transcript-02-25-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T17:07:00+00:00
+
+The following is a transcript of an interview with Rep. Debbie Dingell, Democrat of Michigan, that aired on Feb. 25, 2024.
+
+## Netanyahu says the U.S. would be "doing a hell of a lot more" after a terror attack
+ - [https://www.cbsnews.com/news/israeli-prime-minister-benjamin-netanyahu-terror-attack](https://www.cbsnews.com/news/israeli-prime-minister-benjamin-netanyahu-terror-attack)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T16:47:41+00:00
+
+Israeli Prime Minister Benjamin told "Face the Nation" that unless Israel has "total victory" in the war against Hamas, "we can't have peace."
+
+## Full interview: Israeli Prime Minister Benjamin Netanyahu on "Face the Nation," Feb. 25, 2024
+ - [https://www.cbsnews.com/video/full-interview-israeli-prime-minister-benjamin-netanyahu-on-face-the-nation-feb-25-2024](https://www.cbsnews.com/video/full-interview-israeli-prime-minister-benjamin-netanyahu-on-face-the-nation-feb-25-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T16:38:00+00:00
+
+Watch Margaret Brennan's extended interview with Israeli Prime Minister Benjamin Netanyahu on Feb. 25, 2024.
+
+## Here Comes the Sun: Taylor Tomlinson and more
+ - [https://www.cbsnews.com/video/here-comes-the-sun-taylor-tomlinson-and-more](https://www.cbsnews.com/video/here-comes-the-sun-taylor-tomlinson-and-more)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T16:31:02+00:00
+
+Comedian and television host Taylor Tomlinson sits down with Luke Burbank to discuss her latest Netflix special and her late-night TV show "After Midnight." Then, Conor Knighton visits South Bend, Indiana, to attend the International Jugglers' Association's annual festival. "Here Comes the Sun" is a closer look at some of the people, places and things we bring you every week on "CBS Sunday Morning."
+
+## Benjamin Netanyahu says the U.S. would be "doing a hell of a lot more" after a terror attack
+ - [https://www.cbsnews.com/video/benjamin-netanyahu-says-the-u-s-would-be-doing-a-hell-of-a-lot-more-after-a-terror-attack](https://www.cbsnews.com/video/benjamin-netanyahu-says-the-u-s-would-be-doing-a-hell-of-a-lot-more-after-a-terror-attack)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T16:22:00+00:00
+
+Israeli Prime Minister Benjamin Netanyahu tells "Face the Nation" that Israel "can't have victory" in the war against Hamas until Hamas is "eliminated." If a terror attack similar to the Oct. 7 attack happened in the U.S., Netanyahu said the United States would be "doing a hell of a lot more."
+
+## Donald Trump trounces Nikki Haley in South Carolina primary
+ - [https://www.cbsnews.com/video/donald-trump-trounces-nikki-haley-in-south-carolina-primary](https://www.cbsnews.com/video/donald-trump-trounces-nikki-haley-in-south-carolina-primary)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T15:58:00+00:00
+
+Saturday's South Carolina primary turned out as expected with a big win for former President Donald Trump, despite it being Nikki Haley's home state. Even Haley's campaign donors are privately acknowledging Super Tuesday will be a "crossroads" for her campaign, Robert Costa reports from Charleston.
+
+## Open: This is "Face the Nation with Margaret Brennan," Feb. 25, 2024
+ - [https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-feb-25-2024](https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-feb-25-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T15:58:00+00:00
+
+This week on "Face the Nation," Margaret Brennan interviews Israeli Prime Minister Benjamin Netanyahu amid the growing crisis in the Middle East. Plus, Democratic Rep. Debbie Dingell of Michigan joins ahead of her state's primary on Tuesday.
+
+## Transcript: Israeli Prime Minister Benjamin Netanyahu on "Face the Nation," Feb. 25, 2024
+ - [https://www.cbsnews.com/news/benjamin-netanyahu-israel-prime-minister-face-the-nation-transcript-02-25-2024](https://www.cbsnews.com/news/benjamin-netanyahu-israel-prime-minister-face-the-nation-transcript-02-25-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T15:42:55+00:00
+
+The following is a transcript of an interview with Israeli Prime Minister Benjamin Netanyahu that aired on Feb. 25, 2024.
+
+## Nature: Snowy woods
+ - [https://www.cbsnews.com/video/nature-snowy-woods](https://www.cbsnews.com/video/nature-snowy-woods)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T15:30:00+00:00
+
+We leave you this Sunday at the Reinstein Woods Nature Preserve in Depew, New York. Videographer: Carl Mrozek.
+
+## David Sedaris on why you should dress like a corpse
+ - [https://www.cbsnews.com/news/david-sedaris-on-why-you-should-dress-like-a-corpse](https://www.cbsnews.com/news/david-sedaris-on-why-you-should-dress-like-a-corpse)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T15:24:09+00:00
+
+The humorist has noticed that some people just don't know when to dress their best. C'mon, people, is it so hard to put on a tie?
+
+## David Sedaris on why you should dress like a corpse
+ - [https://www.cbsnews.com/video/david-sedaris-on-why-you-should-dress-like-a-corpse](https://www.cbsnews.com/video/david-sedaris-on-why-you-should-dress-like-a-corpse)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T15:23:00+00:00
+
+The humorist has noticed that some people just don't know when to dress their best. C'mon, people, is it so hard to put on a tie?
+
+## Bill Bradley reflects on a life of wins and losses
+ - [https://www.cbsnews.com/news/bill-bradley-reflects-on-a-life-of-wins-and-losses](https://www.cbsnews.com/news/bill-bradley-reflects-on-a-life-of-wins-and-losses)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T15:17:23+00:00
+
+He was a college basketball star, Rhodes scholar, and part of the world champion New York Knicks in the early 1970s, before embarking on a political career in the U.S. Senate. That was just a small part of a full life.
+
+## One-on-one with Bill Bradley
+ - [https://www.cbsnews.com/video/one-on-one-with-bill-bradley](https://www.cbsnews.com/video/one-on-one-with-bill-bradley)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T15:15:00+00:00
+
+He was a college basketball star, Rhodes scholar, Olympic gold medalist, and part of the world champion New York Knicks in the early 1970s, before embarking on a political career in the U.S. Senate. Today, Bill Bradley looks back at his successes and failures on and off the court in a new film streaming on Max, "Bill Bradley: Rolling Along." He shares his secrets for living a full life – and shoots some hoops – with "Sunday Morning" anchor Jane Pauley.
+
+## Transforming grief into forgiveness
+ - [https://www.cbsnews.com/video/transforming-grief-into-forgiveness](https://www.cbsnews.com/video/transforming-grief-into-forgiveness)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T15:09:00+00:00
+
+When Staci Green's mother was killed by a speeding driver in 2020, Staci was filled with grief, and rage; she wanted the driver, a woman named Nikia Cherry, to pay dearly for her crime. That rage pulled Staci into a depression she wasn't sure she'd ever escape, until she was inspired to take a different approach. Correspondent Steve Hartman reports on a remarkable story of forgiveness and compassion.
+
+## Rock legend Rod Stewart on recording some oldies-but-goodies
+ - [https://www.cbsnews.com/news/rock-legend-rod-stewart-on-recording-jazz-classics-swing-fever](https://www.cbsnews.com/news/rock-legend-rod-stewart-on-recording-jazz-classics-swing-fever)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T15:01:19+00:00
+
+The rock 'n' roller shares an enthusiasm for model trains, and music, with big-band leader Jools Holland. So, when the two decided to record jazz classics from the 1930s and '40s, they were definitely on the same track.
+
+## Rod Stewart and Jools Holland record swing era jazz classics
+ - [https://www.cbsnews.com/video/rod-stewart-and-jools-holland-record-swing-era-jazz-classics](https://www.cbsnews.com/video/rod-stewart-and-jools-holland-record-swing-era-jazz-classics)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T14:59:00+00:00
+
+Rock 'n' roller Rod Stewart and big-band leader Jools Holland share an enthusiasm for model trains, and music. So, when the two decided to get together to make an album of jazz classics from the 1930s and '40s, they were definitely on the same track. But the 79-year-old rocker tells correspondent Mark Phillips that performing old swing-era hits doesn't mean he's slowing down.
+
+## U.S. Army restores honor to Black soldiers hanged in Jim Crow-era South
+ - [https://www.cbsnews.com/news/u-s-army-restores-honor-to-black-soldiers-hanged-in-jim-crow-era-south](https://www.cbsnews.com/news/u-s-army-restores-honor-to-black-soldiers-hanged-in-jim-crow-era-south)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T14:50:09+00:00
+
+In 1917 in Houston, where the all-Black 24th Infantry Regiment was stationed, 110 soldiers were convicted following a race riot; 19 were sentenced to death and hanged. More than a century later, the Army has moved to make amends.
+
+## U.S. Army corrects miscarriage of justice in Jim Crow-era Texas
+ - [https://www.cbsnews.com/video/u-s-army-corrects-miscarriage-of-justice-in-jim-crow-era-texas](https://www.cbsnews.com/video/u-s-army-corrects-miscarriage-of-justice-in-jim-crow-era-texas)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T14:47:00+00:00
+
+In 1917, at an Army training camp in Houston where members of the all-Black 24th Infantry Regiment were stationed, a series of run-ins with white police and a false rumor that Black soldiers were about to be attacked set off a race riot. One-hundred-and-ten soldiers, all Black, were convicted; 19 were sentenced to death and hanged. CBS News national security correspondent David Martin talks with families of the executed men, and with Army officials about its decision, more than a century later, to reverse all convictions and restore honor to the Black soldiers who suffered a miscarriage of justice.
+
+## Passage: In memoriam
+ - [https://www.cbsnews.com/video/passage-in-memoriam-2-25-2024](https://www.cbsnews.com/video/passage-in-memoriam-2-25-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T14:43:00+00:00
+
+"Sunday Morning" remembers some of the notable figures who left us this week, including James Bond and "Doctor Who" actress Pamela Salem.
+
+## The adventurous life of Billy Dee Williams
+ - [https://www.cbsnews.com/news/billy-dee-williams-interview-star-wars-what-have-we-here](https://www.cbsnews.com/news/billy-dee-williams-interview-star-wars-what-have-we-here)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T14:35:58+00:00
+
+Celebrated for romantic roles that earned him a nickname as "the Black Clark Gable," and for playing the swashbuckling Lando Calrissian in the "Star Wars" films, the actor admits it has been easier for him to be someone else than to be Billy Dee Williams.
+
+## Billy Dee Williams on his memoir, "What Have We Here?"
+ - [https://www.cbsnews.com/video/billy-dee-williams-on-his-memoir-what-have-we-here](https://www.cbsnews.com/video/billy-dee-williams-on-his-memoir-what-have-we-here)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T14:33:00+00:00
+
+The actor celebrated for romantic roles (such as in "Lady Sings the Blues") that earned him a nickname as "the Black Clark Gable," and who brought swashbuckling to his performance as Lando Calrissian in the "Star Wars" films, admits it has been easier to be someone else than to be Billy Dee Williams. He talks with Turner Classic Movies host Ben Mankiewicz about his new memoir, "What Have We Here?: Portraits of a Life," and why the 86-year-old actor has always been – all evidence to the contrary – rather shy.
+
+## The rise and fall of President Martin Van Buren
+ - [https://www.cbsnews.com/news/the-rise-and-fall-of-president-martin-van-buren](https://www.cbsnews.com/news/the-rise-and-fall-of-president-martin-van-buren)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T14:23:44+00:00
+
+Our eighth president - the first born an American citizen - was a polished politician with out-there sideburns, best known for creating our two-party system, and presiding over the worst depression the U.S. had yet experienced.
+
+## The rise and fall of Martin Van Buren
+ - [https://www.cbsnews.com/video/the-rise-and-fall-of-martin-van-buren](https://www.cbsnews.com/video/the-rise-and-fall-of-martin-van-buren)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T14:22:00+00:00
+
+Martin Van Buren was our eighth president and the first to be born an American citizen. But what was the polished politician with the out-there sideburns best known for? Besides creating our two-party system, how about a presidency that corresponded with the worst depression the U.S. had experienced up to that time? Correspondent Mo Rocca talks with historian Ted Widmer, whose biography aimed to make an obscure president less obscure; and visits Lindenwald, the Hudson Valley home in New York State where Van Buren spent the remainder of his life, which proved more successful than his time in the White House.
+
+## Almanac: February 25
+ - [https://www.cbsnews.com/video/almanac-february-25](https://www.cbsnews.com/video/almanac-february-25)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T14:19:00+00:00
+
+"Sunday Morning" looks back at historical events on this date.
+
+## UAW president Shawn Fain on labor's comeback: "This is what happens when workers get power"
+ - [https://www.cbsnews.com/news/united-auto-workers-president-shawn-fain-on-comeback-of-labor-movement](https://www.cbsnews.com/news/united-auto-workers-president-shawn-fain-on-comeback-of-labor-movement)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T14:11:33+00:00
+
+Last year striking workers won more generous contacts from the Big Three automakers, making up for pay cuts taken during the Great Recession, and marking a comeback for the labor movement.
+
+## UAW president Shawn Fain on labor's comeback
+ - [https://www.cbsnews.com/video/uaw-president-shawn-fain-on-labors-comeback](https://www.cbsnews.com/video/uaw-president-shawn-fain-on-labors-comeback)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T14:09:00+00:00
+
+Last year unionized auto workers who walked out at the big three car makers won generous contracts, making up for pay cuts they'd taken during the Great Recession. It marked a comeback for the labor movement, and a notable achievement for United Auto Workers president Shawn Fain, who came up the ranks as an auto plant electrician, and still carries his grandfather's union pay stub in his pocket. CBS News chief election & campaign correspondent Robert Costa talks with Fain about the increase in public support for unions; and about efforts to organize auto workers in Southern states that are traditionally less friendly to unions.
+
+## Eiffel Tower reopens to visitors after six-day employee strike
+ - [https://www.cbsnews.com/news/eiffel-tower-reopens-after-strike](https://www.cbsnews.com/news/eiffel-tower-reopens-after-strike)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T13:49:36+00:00
+
+The Eiffel Tower is typically open 365 days a year.
+
+## The People v. Kouri Richins
+ - [https://www.cbsnews.com/video/the-people-v-kouri-richins](https://www.cbsnews.com/video/the-people-v-kouri-richins)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T07:00:39+00:00
+
+When her husband is found dead of an apparent overdose, Kouri Richins writes a children's book about grief. Soon after she’s charged with his murder. "48 Hours" contributor Natalie Morales reports.
+
+## Alisa Mathewson's Night Terrors
+ - [https://www.cbsnews.com/video/alisa-mathewsons-night-terrors-1](https://www.cbsnews.com/video/alisa-mathewsons-night-terrors-1)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T06:46:13+00:00
+
+A woman is attacked in her sleep and kidnapped by her estranged husband. The dramatic story of her captivity and rescue. "48 Hours" correspondent Peter Van Sant reports.
+
+## Eye on America: Combatting cartel smuggling, addressing L.A.’s homelessness epidemic
+ - [https://www.cbsnews.com/video/eye-on-america-combatting-cartel-smuggling-addressing-l-a-s-homelessness-epidemic](https://www.cbsnews.com/video/eye-on-america-combatting-cartel-smuggling-addressing-l-a-s-homelessness-epidemic)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T06:36:12+00:00
+
+In Arizona, we witness how smuggling at the border is leading to increasingly dangerous high-speed pursuits. Then in California, we speak with the mayor of Los Angeles to learn how her administration is addressing the city’s homelessness epidemic. Watch these stories and more on "Eye on America" with host Michelle Miller.
+
+## South Carolina voter exit polls show how Trump won state's 2024 GOP primary
+ - [https://www.cbsnews.com/news/trump-2024-south-carolina-primary-voter-exit-polls](https://www.cbsnews.com/news/trump-2024-south-carolina-primary-voter-exit-polls)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T05:05:00+00:00
+
+How Trump defeated Haley in the 2024 South Carolina Republican primary election, according to CBS News' exit polling.
+
+## 2/24: CBS Weekend News
+ - [https://www.cbsnews.com/video/022424-cbs-weekend-news](https://www.cbsnews.com/video/022424-cbs-weekend-news)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T05:00:48+00:00
+
+Trump projected to win South Carolina GOP primary; The couple behind one of the largest African-American art collections in the world
+
+## U.S., U.K. launch fourth round of joint airstrikes on Houthi targets
+ - [https://www.cbsnews.com/video/us-uk-launch-fourth-round-of-joint-airstrikes-on-houthi-targets](https://www.cbsnews.com/video/us-uk-launch-fourth-round-of-joint-airstrikes-on-houthi-targets)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T04:56:14+00:00
+
+The U.S. and U.K., with the support of its allies, launched a fourth round of retaliatory airstrikes Saturday on Iranian-backed Houthi targets in Yemen.
+
+## Lithium-ion battery caused deadly Harlem apartment fire, FDNY says
+ - [https://www.cbsnews.com/news/deadly-harlem-apartment-fire-lithium-ion-battery](https://www.cbsnews.com/news/deadly-harlem-apartment-fire-lithium-ion-battery)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T04:50:00+00:00
+
+One person was killed, 17 were injured and dozens of people were displaced.
+
+## Arizona sector becomes No. 1 hotspot for migrant crossings
+ - [https://www.cbsnews.com/news/arizona-sector-no-1-hotspot-migrant-crossings-border-walls-treacherous-terrain](https://www.cbsnews.com/news/arizona-sector-no-1-hotspot-migrant-crossings-border-walls-treacherous-terrain)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T04:47:00+00:00
+
+Undeterred by miles of border wall, violent Mexican cartels and treacherous terrain with extreme temperatures, migrants have been crossing into the Tucson sector by the hundreds, and sometimes by the thousands, each day.
+
+## Vigils held across U.S. for nonbinary Oklahoma teen who died after a fight at school
+ - [https://www.cbsnews.com/news/nex-benedict-oklahoma-nonbinary-school-fight-vigils-held](https://www.cbsnews.com/news/nex-benedict-oklahoma-nonbinary-school-fight-vigils-held)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T04:23:00+00:00
+
+Vigils were held across the country for Nex Benedict, a nonbinary teenager who died one day after a fight in a high school bathroom.
+
+## "CBS Weekend News" headlines for Saturday, February 24, 2024
+ - [https://www.cbsnews.com/video/cbs-weekend-news-headlines-for-saturday-february-24-2024](https://www.cbsnews.com/video/cbs-weekend-news-headlines-for-saturday-february-24-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T04:09:14+00:00
+
+Here's a look at the top stories making headlines on the "CBS Weekend News" with Nancy Cordes.
+
+## Did Utah mom charged in husband's death poison him with a cocktail?
+ - [https://www.cbsnews.com/news/kouri-richins-utah-husband-eric-richins-death-poison-cocktail-48-hours](https://www.cbsnews.com/news/kouri-richins-utah-husband-eric-richins-death-poison-cocktail-48-hours)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T04:00:34+00:00
+
+A medical examiner ruled Eric Richins, a Utah father of three, died of a lethal dose of fentanyl. His wife Kouri was charged in his death.
+
+## Suspect arrested in murder of student on Kentucky college campus
+ - [https://www.cbsnews.com/news/suspect-arrested-murder-student-kentucky-campbellsville-university](https://www.cbsnews.com/news/suspect-arrested-murder-student-kentucky-campbellsville-university)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T03:56:00+00:00
+
+The suspect, a 21-year-old man, was also a student at the school.
+
+## "Oppenheimer" wins top prize at Screen Actors Guild Awards
+ - [https://www.cbsnews.com/news/oppenheimer-screen-actors-guild-awards-top-prize](https://www.cbsnews.com/news/oppenheimer-screen-actors-guild-awards-top-prize)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T03:40:46+00:00
+
+As the Academy Awards draw closer, Christopher Nolan's blockbuster biopic has increasingly looked like the run-away favorite.
+
+## Florida mom on rescue after being held captive: "I'd been pulled from hell"
+ - [https://www.cbsnews.com/news/alisa-mathewson-trevor-summers-held-captive-by-estranged-husband-florida-48-hours](https://www.cbsnews.com/news/alisa-mathewson-trevor-summers-held-captive-by-estranged-husband-florida-48-hours)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T02:58:00+00:00
+
+Father used children as pawns as a fake attempt at reconciliation turned into a horrific 55-hour ordeal – one that almost cost Alisa Mathewson her life.
+
+## Wake Forest fans collide with Duke star Kyle Filipowski while storming court
+ - [https://www.cbsnews.com/news/duke-star-kyle-filipowski-collides-wake-forest-fans-storming-court](https://www.cbsnews.com/news/duke-star-kyle-filipowski-collides-wake-forest-fans-storming-court)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T01:29:32+00:00
+
+The incident comes roughly a month after Iowa basketball star Caitlin Clark was accidentally knocked down by a fan.
+
+## The couple behind one of the largest African-American art collections in the world
+ - [https://www.cbsnews.com/video/the-couple-behind-one-of-the-largest-african-american-art-collections-in-the-world](https://www.cbsnews.com/video/the-couple-behind-one-of-the-largest-african-american-art-collections-in-the-world)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T01:23:51+00:00
+
+Bernard and Shirley Kinsey started their art collection in the early 1970s. It now numbers more than 700 pieces and counting, and is recognized as one of the largest, most encompassing collections chronicling the Black American experience. Elise Preston has their story.
+
+## CBS News projects Trump wins South Carolina primary
+ - [https://www.cbsnews.com/video/cbs-news-projects-donald-trump-wins-south-carolina-primary](https://www.cbsnews.com/video/cbs-news-projects-donald-trump-wins-south-carolina-primary)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T01:08:16+00:00
+
+CBS News projects that former President Donald Trump will win the South Carolina GOP primary, defeating former United Nations Ambassador Nikki Haley in her home state. Haley however has vowed to press forward in the GOP nomination contest whatever the outcome. Lana Zak speaks to CBS News political reporter Olivia Rinaldi as Trump is about to speak at CPAC, and CBS News senior election and campaign correspondent Robert Costa reports from Haley's headquarters.
+
+## Simmering tension between U.S, Israel over West Bank
+ - [https://www.cbsnews.com/video/simmering-tension-between-u-s-israel-over-west-bank](https://www.cbsnews.com/video/simmering-tension-between-u-s-israel-over-west-bank)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T00:58:00+00:00
+
+Around 500,000 Israeli settlers live in the West Bank on occupied territory. While the settlements are widely regarded as illegal under international law, there are now several prominent settlers in Israel's cabinet, and there has been an uptick in violent clashes in the West Bank since the Oct 7 attack on Israel. Holly Williams has more.
+
+## Migrants brave treacherous conditions along Arizona border
+ - [https://www.cbsnews.com/video/migrants-brave-treacherous-conditions-along-arizona-border](https://www.cbsnews.com/video/migrants-brave-treacherous-conditions-along-arizona-border)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T00:48:00+00:00
+
+Undeterred by border walls, violent Mexican cartels and treacherous terrain, hundreds of migrants are crossing the Arizona desert each day. Camilo Montoya-Galvez has more.
+
+## Alexey Navalny's body released to his mother
+ - [https://www.cbsnews.com/video/alexey-navalnys-body-released-to-his-mother](https://www.cbsnews.com/video/alexey-navalnys-body-released-to-his-mother)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T00:40:00+00:00
+
+The body of Russian opposition leader Alexey Navalny was finally released to his mother Saturday. Navalny's mother and lawyers have been trying to retrieve his body since he died at an Arctic penal colony late last week.
+
+## On 2-year mark of war, Ukraine finds itself outgunned and outnumbered
+ - [https://www.cbsnews.com/video/on-2-year-mark-of-war-ukraine-finds-itself-outgunned-and-outnumbered](https://www.cbsnews.com/video/on-2-year-mark-of-war-ukraine-finds-itself-outgunned-and-outnumbered)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T00:40:00+00:00
+
+Two years on from Russia's full-scale invasion, Ukraine is still under attack, and again against the ropes. At an airfield outside of Kyiv Saturday, Ukrainian President Volodymyr Zelenskyy issued a rallying cry reminiscent of that defiant selfie on the streets of the capital in the first days of the invasion. Charlie D'Agata has the latest.
+
+## Trump projected to win South Carolina GOP primary
+ - [https://www.cbsnews.com/video/trump-projected-to-win-south-carolina-gop-primary](https://www.cbsnews.com/video/trump-projected-to-win-south-carolina-gop-primary)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-02-25T00:36:00+00:00
+
+CBS News projects that former President Donald Trump has won the South Carolina Republican presidential primary, defeating former United Nations ambassador Nikki Haley in her home state. Robert Costa has more.
+

@@ -1,0 +1,16 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed/, language:en-US
+
+## Watch: Shane Gillis CRUSHES long awaited SNL appearance with jokes on Down Syndrome, Trump shoes
+ - [https://www.louderwithcrowder.com/shane-gillis-snl-monolauge-trump](https://www.louderwithcrowder.com/shane-gillis-snl-monolauge-trump)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-25T12:58:57+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51558758&amp;width=1200&amp;height=800&amp;coordinates=200%2C0%2C0%2C0" /><br /><br /><p>Shane Gillis made his long-awaited appearance on SNL last night, and not unlike during the rare instances when they allow actual comedians on the sketch comedy show, he crushed. It'll probably be the last time SNL lets it happen this season.</p><p>The Gillis drama <a href="https://www.louderwithcrowder.com/snl-goes-in-on-cancel-culture-and-cans-shane-gillis-he-responds-with-class" target="_blank">goes back to 2019</a>. Shane, a working comedian, was hired as a cast member for SNL, an alleged comedy show. Then a cancel blogger <a href="https://www.louderwithcrowder.com/watch-bill-burr-jim-jeffries-excoriate-snl-for-cancelling-shane-gillis" target="_blank">revealed mean jokes he made on a podcast</a>, like every other comedian who does podcasts. This was back when Twitter 1.0 was a thing and you had Marxist twats manipul
+
+## Watch: Libs of TikTok founder wrecks elderly tech blogger Taylor Lorenz with facts, reason, and an amazing t-shirt
+ - [https://www.louderwithcrowder.com/taylor-lorenz-interviews-chaya-raichik](https://www.louderwithcrowder.com/taylor-lorenz-interviews-chaya-raichik)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-25T12:19:07+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51558621&amp;width=1200&amp;height=800&amp;coordinates=200%2C0%2C0%2C0" /><br /><br /><p>On behalf of all of us here at the Louder with Crowder Dot Com website... what in the blue hell was Taylor Lorenz thinking? She released an interview with her arch nemesis Chaya Raichik, owner of the Libs of TikTok X-Twitter account. For someone who is supposed to be the corporate journalisiming's expert in social media, the elderly tech blogger has no idea how the internet works.</p><p>To set the stage, this is Chaya, wearing a t-shirt of the infamous crying meme. It's from an NBC News puff piece on Lorenz where she cried, we all made fun of her, and then she complained about NBC News being responsible for her being "bullied." It's the "Cry Bully" photo.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Good evening everyone! Even the haters and the losers üòò <a href="https://t.co/WhVy9onwd6">pi
+
