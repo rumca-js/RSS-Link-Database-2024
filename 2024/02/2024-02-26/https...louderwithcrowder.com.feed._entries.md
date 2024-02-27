@@ -1,0 +1,70 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed/, language:en-US
+
+## Watch: Gavin Newsom Launches Insane Abortion Ad Where Teen Is Handcuffed To Hospital Bed
+ - [https://www.louderwithcrowder.com/newsom-abortion-pac](https://www.louderwithcrowder.com/newsom-abortion-pac)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-26T22:52:42+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51569758&amp;width=1245&amp;height=700&amp;coordinates=0%2C3%2C0%2C17" /><br /><br /><p>At least 99 percent of women who obtain an abortion do so for reasons <a href="https://www.usatoday.com/story/news/nation/2019/05/24/rape-and-incest-account-few-abortions-so-why-all-attention/1211175001/" rel="noopener noreferrer" target="_blank">other </a>than rape. But the left does not care about reality because their entire platform is a fear-mongering death cult. That is why they make up things to scare people into thinking that there is an epidemic of 14-year-olds ‚Äúneeding‚Äù abortions as a result of assault. But anyone with a fraction of a brain knows that couldn't be further from the truth. </p><p>If it were not for Republicans, teenage girls would be shackled to hospital beds and forced to give birth. Well, that is at least according to Gov. Gavin Newsom's super PAC Abortion Ad that intends to mislead the pub
+
+## BLM Professor: I Gotta "Feeling" That Taylor Swift Fans Are Totally White Supremacist
+ - [https://www.louderwithcrowder.com/abdullah-taylor-swift](https://www.louderwithcrowder.com/abdullah-taylor-swift)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-26T22:51:04+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51569752&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C4" /><br /><br /><p>People on the left don‚Äôt tend to let facts get in the way of their worldview. That is why feelings often dictate their reality at the expense of truth. A perfect example of that is gender ideology. A woman is nothing more than a ‚Äúfeeling‚Äù no matter the fact that they have no way to describe such an ambiguous statement. So of course a professor at California State University Los Angeles said she has a ‚Äúfeeling‚Äù that Taylor Swift fans are white supremacists.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a href="https://twitter.com/DocMellyMel/status/1756817657184366767"></a>
+</blockquote>
+<p>I cannot think of anything more painful than attending a Taylor Swift concert, but that has nothing to do with race and everything to do with the fact that I cannot stand 
+
+## Joy Reid Goes On Race-Fueled Rant In Favor Of Depopulation, ‚ÄúWhy do we need more kids?‚Äù
+ - [https://www.louderwithcrowder.com/joy-reid-kids](https://www.louderwithcrowder.com/joy-reid-kids)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-26T22:46:29+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=51569742&amp;width=1200&amp;height=600&amp;coordinates=0%2C80%2C0%2C0" /><br /><br /><p>More often than not, people on the left are very miserable self-loathers who hate just about everything, including humanity. Every cause that the left fights for has an anti-human sentiment. This includes abortion, climate change, gender ideology, and just about everything else. And they disguise their wrath for the human population by pretending all they want to do is help the little guy. But in reality, anything the left fights for makes everyone worse off. </p><p>Joy Reid went on a race-fueled rant about there being too many kids in the world, especially in Alabama, and then said that the only reason there should be kids is because of slavery and that the only reason that Republicans want more kids in the world is because of child labor. </p><p>As illogical and painfully stupid as all that sounds, she really said tha
+
+## "All you care about is illegal aliens": AOC gets ROASTED by her own constituents
+ - [https://www.louderwithcrowder.com/aoc-illegals-hecklers](https://www.louderwithcrowder.com/aoc-illegals-hecklers)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-26T18:47:27+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51568378&amp;width=1200&amp;height=800&amp;coordinates=196%2C0%2C286%2C0" /><br /><br /><p>Can anyone name one good thing AOC has done to improve the lives of the people she represents? No? Didn‚Äôt think so. </p><p>The reason why AOC is so good at pissing people off is that she acts as if she is an authority on every single subject when she is painfully ignorant in regard to the majority of things. And on top of that, it‚Äôs hard to find someone more arrogant than her. </p><p>It‚Äôs unclear why AOC is so naive. It could be because she is unable to grasp a line of logic - to the point that she will stubbornly cling to her opinions, no matter how irrational they all are. </p><p>Two famous quotes come to mind when thinking about the former bartender gone lawmaker. </p><p>‚ÄúNever argue with stupid people, they will drag you down to their level and beat you with experience.‚Äù </p><p>And: ‚ÄúCast not pearls b
+
+## "The left does not want you to know": Watch the full story of the illegal who murdered a college student
+ - [https://www.louderwithcrowder.com/laken-riley-murder](https://www.louderwithcrowder.com/laken-riley-murder)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-26T17:12:22+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51567704&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>The suspect who has been charged with the murder of 22-year-old nursing student Laken Riley entered this country illegally in 2022 from Venezuela and had previously been arrested in New York. Today‚Äôs show breaks it down for you.</p><div class="rm-embed embed-media"></div><p><em>"</em>This is another example of a fake victim culture creating real victims," Crowder said. <em> </em>"Not one violent illegal immigrant should be filling our prison systems."<br /></p><p><a href="https://www.fox5atlanta.com/news/ice-confirms-georgia-student-murder-suspect-entered-us-illegally-was-previously-arrested-in-nyc" target="_blank">According to Fox 5: </a></p><blockquote>In a statement to Fox News Digital, ICE confirmed he had been encountered by Customs and Border Protection (CBP) on Sept. 8, 2022 after entering near El Paso and was "
+
+## Watch: Bath & Body Works employee gets pepper sprayed confronting shoplifters, so of course SHE gets fired
+ - [https://www.louderwithcrowder.com/bath-body-works-fires-exployee](https://www.louderwithcrowder.com/bath-body-works-fires-exployee)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-26T13:20:58+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51565546&amp;width=1200&amp;height=600&amp;coordinates=0%2C40%2C0%2C40" /><br /><br /><p>An employee from Bath & Body Works got pepper sprayed by shoplifters. Of course, the company fired HER for leaving the store. Making any attempt to stop thievery goes against corporate policy. You know, in the name of keeping employees safe.</p><p>Side note: Bath & Body Works Inc. is <a href="https://www.wallstreetzen.com/stocks/us/nyse/bbwi/ownership" target="_blank">a publicly traded company</a> whose 2nd and 3rd latest shareholders are <a href="https://www.louderwithcrowder.com/california-sheriff-target" target="_blank">Vanguard</a> and <a href="https://www.louderwithcrowder.com/lululemon-fires-two-employees" target="_blank">Blackrock</a>.</p><p>The anonymous female employee told local media that two women filled bags of stolen goods, telling the employees to "have a nice day" as they left the store. The employee fo
+
+## Watch: Pro-Hamas supporters charge Jerry Seinfeld with genocide, and he handles it perfectly
+ - [https://www.louderwithcrowder.com/jerry-seinfeld-protestors](https://www.louderwithcrowder.com/jerry-seinfeld-protestors)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-26T12:10:53+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51565211&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C80" /><br /><br /><p>
+	Jerry Seinfeld attended an event hosted by Bari Weiss over the weekend. No, he can't hide. Because idiots protesting outside the building charge him with genocide. Yes, the hateful pro-Hamas protest took place in NYC. Yes, they echoed the opinions <a href="https://www.louderwithcrowder.com/nyc-jewish-palestinian-hate-crime" target="_blank">of a notable pro-Hamas social media influencer</a> who <a href="https://www.louderwithcrowder.com/libs-of-tiktok-confronts-aoc" target="_blank">has a side hustle as a Democrat member of Congress</a>. There is no way to confirm if the protestors were NYC Democrats themselves. They only sound like it.
+</p><blockquote>
+<strong>LWC Next Gen Stats: Manhattan<br />
+</strong><em></em><li><em>Voted 86% for Democrat </em>Joe Biden<em> in 2020</em><br />
+<em></em></li><li><em>Voted 82%. for D
+
+## Sources: U.S. Airman Burned Himself Alive In Support of...Palestine!?
+ - [https://www.louderwithcrowder.com/sources-february-26-2024](https://www.louderwithcrowder.com/sources-february-26-2024)
+ - RSS feed: https://louderwithcrowder.com/feed/
+ - date published: 2024-02-26T12:09:02+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51566493&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C120" /><br /><br /><p>
+	Donald Trump dominated Nikki Haley in South Carolina on Saturday, U.S. Airman Aaron Bushnell burned himself alive in support of Palestine, we‚Äôve also got the full story on the illegal migrant who murdered a 22-year-old Georgia college student on campus last week, and more!</p><div class="rm-embed embed-media"></div><p><strong>USAF MAN KILLS HIMSELF WITH FIRE</strong><br /></p><ul>
+<li><a href="https://x.com/Lowkey0nline/status/1762018555900359005?s=20" rel="noopener noreferrer" target="_blank">Aaron Bushnell, a 25-year-old member of the US Air Force</a></li>
+<li><a href="https://time.com/6821425/israel-embassy-air-force-protest-fire-self-immolation-aaron-bushnell-latest-updates/" rel="noopener noreferrer" target="_blank">U.S. Air Force Member Sets Self on Fire Outside Israel‚Äôs Embassy in D.C. to Protest War in Ga
+

@@ -1,0 +1,136 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## The PC industry is losing the race for local AI
+ - [https://www.pcworld.com/article/2247160/the-pc-industry-is-losing-the-race-for-local-ai.html](https://www.pcworld.com/article/2247160/the-pc-industry-is-losing-the-race-for-local-ai.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-02-26T20:47:32+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It&rsquo;s not enough to champion AI hardware that supports local large language models, generative AI, and the like. Hardware vendors need to step up and serve as a middleman &mdash; if not an outright developer &mdash; for those local AI apps, too.</p>
+
+
+
+<p>Qualcomm almost has it. At MWC 2024 (formerly known as Mobile World Congress, aka one of the world&rsquo;s largest mobile trade shows), the company this week announced a Qualcomm AI Hub, a repository of more than 75 AI models specifically optimized for Qualcomm and Snapdragon platforms. Qualcomm also showed off a seven-billion-parameter local LLM, running on a (presumably Snapdragon-powered) PC, that can accept audio inputs. Finally, Qualcomm demonstrated an additional seven-billion-parameter LLM running on Snapdragon phones.</p>
+
+
+
+<p>That&rsquo;s all well and good, but more PC and chip vendors wi
+
+## Save $850 on this AMOLED touchscreen Samsung laptop
+ - [https://www.pcworld.com/article/2247968/save.html](https://www.pcworld.com/article/2247968/save.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-02-26T15:43:57+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re looking to save a ton of money on a versatile 2-in-1 laptop with a gorgeous AMOLED touchscreen display, you&rsquo;re in luck. Best Buy&rsquo;s selling the <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book2-pro-360-2-in-1-15-6-amoled-touch-screen-laptop-intel-12th-gen-evo-core-i7-16gb-ddr5-memory-1tb-ssd-silver%2F6501593.p%3FskuId%3D6501593&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed&amp;u1=2-1-2247968-1-0-0" rel="nofollow">Samsung Galaxy Book2 Pro 360 for just $799.99</a>, which is a massive savings of $850. In addition to the AMOLED touchscreen and convertible form factor, you&rsquo;re also getting decent hardware as well as a good amount of storage. According to one review on Best Buy, it has good battery life a
+
+## Backblaze review: No-hassle online backup with unlimited storage
+ - [https://www.pcworld.com/article/407288/backblaze-review-no-hassle-online-backup.html](https://www.pcworld.com/article/407288/backblaze-review-no-hassle-online-backup.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-02-26T15:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a Glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Very affordable for unlimited backup</li><li>Unlimited storage for one PC</li><li>Great if you&rsquo;re not sure what to back up</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Limited retention of deletions and revisions with default plans</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict<
+
+## Windows 11 hot patches could update your PC without rebooting
+ - [https://www.pcworld.com/article/2247976/windows-11-will-soon-no-longer-require-reboots-microsoft-tests-hot-patching.html](https://www.pcworld.com/article/2247976/windows-11-will-soon-no-longer-require-reboots-microsoft-tests-hot-patching.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-02-26T15:07:26+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>One of the constant annoyances of Windows 11 are the reboots after installing updates. Sometimes a Windows PC even has to reboot several times in a row until it finally completes all the updates. But this should soon be a thing of the past, at least for security updates categorized as &ldquo;critical.&rdquo;</p>
+
+
+
+<p>In the Windows 11 Insider Preview Build 26058 for Windows Insider Canary/Dev testers, Microsoft is trialing &ldquo;<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://learn.microsoft.com/en-us/windows-server/get-started/hotpatch?ranMID=24542&amp;ranEAID=kXQk6*ivFEQ&amp;ranSiteID=kXQk6.ivFEQ-2VfpnnmL2KVoEhAFMKpjaQ&amp;epi=kXQk6.ivFEQ-2VfpnnmL2KVoEhAFMKpjaQ&amp;irgwc=1&amp;OCID=AIDcmm549zy227_aff_7593_1243925&amp;tduid=(ir__jnaf9dtbgokfdju9nnhte62tpf2x9cruxtklztsr00)(7593)(1243925)(kXQk6.ivFEQ-2VfpnnmL2KVoEhAFMKpjaQ)()&am
+
+## 50 antivirus and PC security terms everyone should know
+ - [https://www.pcworld.com/article/2233800/antivirus-pc-security-terms.html](https://www.pcworld.com/article/2233800/antivirus-pc-security-terms.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-02-26T14:19:31+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Internet security is a complex topic even for experts in the field, and for average people the terminology can be downright confusing. While you may not need to know every technical term out there, having a working vocabulary of basic terms can help you stay informed enough to protect yourself against major threats. </p>
+
+
+
+<p>If you know what a phishing email is, for example, you can be on the lookout and avoid this common danger. This lexicon of the most important security terms will help you make sense of security alerts and help equip you to take appropriate steps to protect your home network and computers.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Further reading: <a href="https://www.pcworld.com/article/407277/best-antivirus-for-windows-pc.html">PCWorld picks the best antivirus software of 2024</a></p>
+</blockquote>
+
+
+
+<h2 class="wp-block-headi
+
+## AMD drops the Radeon RX 7700 XT price by $30
+ - [https://www.pcworld.com/article/2246503/amd-drops-the-radeon-rx-7700-xt-price-by-30.html](https://www.pcworld.com/article/2246503/amd-drops-the-radeon-rx-7700-xt-price-by-30.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-02-26T14:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Graphics card street prices are so fluid and mutable that the retail price hardly seems to matter these days. But every once in a while we&rsquo;ll get some good news that the manufacturer is issuing an official price drop, and that generally means that the GPU itself (and all of its various packaged derivatives) will reliably get more affordable. So it is with AMD&rsquo;s mid-range Radeon RX 7700 XT, which today drops from $449.99 to $419.99. </p>
+
+
+
+<p>With an RDNA3-based chip and a roomy 12GB of GDDR6 RAM, the 7700 XT competes with Nvidia&rsquo;s RTX 4070, beating the $600 card in price, memory, and memory bus. PCWorld executive editor Brad Chacos <a href="https://www.pcworld.com/article/2055699/amd-radeon-rx-7700-xt-and-7800-xt-review.html" rel="noreferrer noopener" target="_blank">said in his September review</a>, &ldquo;&hellip;the Radeon RX 7700 X
+
+## Is a $100 standing desk worth buying?
+ - [https://www.pcworld.com/article/2243608/is-a-100-standing-desk-worth-buying.html](https://www.pcworld.com/article/2243608/is-a-100-standing-desk-worth-buying.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-02-26T11:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>As someone who works at a computer more or less all day every day and has chronic back problems, a standing desk is an important part of my office setup. I&rsquo;ve been using one for over ten years and back then it was something of a luxury. But lately I&rsquo;ve been seeing motorized standing desks, not dissimilar in design to the one I bought all those years ago, popping up for shockingly low prices. Are these super-cheap desks worth your money?&nbsp;</p>
+
+
+
+<p>I&rsquo;ve used three different desks in the last decade of working from home and writing about technology &mdash; maybe four, depending on how you count all the various parts and components. And I reviewed another model for one of my previous employers, all from different suppliers, so I feel like I know what I&rsquo;m talking about here. My latest one is something of a behemoth, to deal with 
+
+## Get extra savings off this flight deal alert service now
+ - [https://www.pcworld.com/article/2247199/get-extra-savings-off-this-flight-deal-alert-service-now.html](https://www.pcworld.com/article/2247199/get-extra-savings-off-this-flight-deal-alert-service-now.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-02-26T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Traveling the world is a noble aspiration, but it&rsquo;s also a very expensive one &mdash; especially these days. As airfare goes up, you can fight back with the help of Dollar Flight Club. This leading flight deal alert service monitors thousands of flights around the world every day and lets you know when to get the <a href="https://shop.pcworld.com/sales/dollar-flight-club-premium-plus-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=dollar-flight-club-premium-plus-lifetime-subscription&amp;utm_term=scsf-591108&amp;utm_content=a0xRn000000QeD7IAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">best fares to destinations all over the world</a>. Right now, you can get a lifetime Premium or Premium Plus+ subscription at an extra discount.</p>
+
+
+
+<p>Dollar Flight Club has helped more than one million members w
+
