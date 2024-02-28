@@ -1,0 +1,30 @@
+# Source:3DPrinting.com, URL:https://3dprinting.com/feed, language:en-US
+
+## Researchers Gain Understanding of Pore Evolution in DED - 3DPrinting.com
+ - [https://3dprinting.com/news/researchers-gain-understanding-of-pore-evolution-in-ded](https://3dprinting.com/news/researchers-gain-understanding-of-pore-evolution-in-ded)
+ - RSS feed: https://3dprinting.com/feed
+ - date published: 2024-02-27T21:00:32+00:00
+
+<div style="display: flex;"><div><h2><a href="https://3dprinting.com/news/researchers-gain-understanding-of-pore-evolution-in-ded/" target="_blank">Researchers Gain Understanding of Pore Evolution in DED</a></h2><span style="color: #777; font-size: 14px; margin-top: auto;">February 27</span></div><div><img alt="Researchers Gain Understanding of Pore Evolution in DED" class="attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image" height="500" src="https://3dprinting.com/wp-content/uploads/image1-100-500x500.jpg" style="border-radius: 10px; overflow: hidden;" width="500" /></div></div>
+
+## Tetra Pak to Recycle Waste into 3D Printing Feedstock - 3DPrinting.com
+ - [https://3dprinting.com/news/tetra-pak-to-recycle-waste-into-3d-printing-feedstock](https://3dprinting.com/news/tetra-pak-to-recycle-waste-into-3d-printing-feedstock)
+ - RSS feed: https://3dprinting.com/feed
+ - date published: 2024-02-27T18:53:13+00:00
+
+<div style="display: flex;"><div><h2><a href="https://3dprinting.com/news/tetra-pak-to-recycle-waste-into-3d-printing-feedstock/" target="_blank">Tetra Pak to Recycle Waste into 3D Printing Feedstock</a></h2><span style="color: #777; font-size: 14px; margin-top: auto;">February 27</span></div><div><img alt="Tetra Pak to Recycle Waste into 3D Printing Feedstock" class="attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image" height="464" src="https://3dprinting.com/wp-content/uploads/image3-127-500x464.png" style="border-radius: 10px; overflow: hidden;" width="500" /></div></div>
+
+## Alaska Turns to 3D Printing for Affordable Housing - 3DPrinting.com
+ - [https://3dprinting.com/news/alaska-turns-to-3d-printing-for-affordable-housing](https://3dprinting.com/news/alaska-turns-to-3d-printing-for-affordable-housing)
+ - RSS feed: https://3dprinting.com/feed
+ - date published: 2024-02-27T03:00:58+00:00
+
+<div style="display: flex;"><div><h2><a href="https://3dprinting.com/news/alaska-turns-to-3d-printing-for-affordable-housing/" target="_blank">Alaska Turns to 3D Printing for Affordable Housing</a></h2><span style="color: #777; font-size: 14px; margin-top: auto;">February 27</span></div><div><img alt="Alaska Turns to 3D Printing for Affordable Housing" class="attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image" height="500" src="https://3dprinting.com/wp-content/uploads/image3-126-500x500.png" style="border-radius: 10px; overflow: hidden;" width="500" /></div></div>
+
+## Coast Guard Turns to 3D Printing for Lighthouse Repairs - 3DPrinting.com
+ - [https://3dprinting.com/news/coast-guard-turns-to-3d-printing-for-lighthouse-repairs](https://3dprinting.com/news/coast-guard-turns-to-3d-printing-for-lighthouse-repairs)
+ - RSS feed: https://3dprinting.com/feed
+ - date published: 2024-02-27T02:00:30+00:00
+
+<div style="display: flex;"><div><h2><a href="https://3dprinting.com/news/coast-guard-turns-to-3d-printing-for-lighthouse-repairs/" target="_blank">Coast Guard Turns to 3D Printing for Lighthouse Repairs</a></h2><span style="color: #777; font-size: 14px; margin-top: auto;">February 27</span></div><div><img alt="Coast Guard Turns to 3D Printing for Lighthouse Repairs" class="attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image" height="318" src="https://3dprinting.com/wp-content/uploads/image1-165.png" style="border-radius: 10px; overflow: hidden;" width="400" /></div></div>
+
