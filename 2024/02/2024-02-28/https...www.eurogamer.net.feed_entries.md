@@ -1,0 +1,212 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## EA announces further lay offs, this time affecting around 670 employees
+ - [https://www.eurogamer.net/ea-announces-further-lay-offs-this-time-likely-to-affect-around-670-employees?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/ea-announces-further-lay-offs-this-time-likely-to-affect-around-670-employees?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T23:00:30+00:00
+
+<img src="https://assetsio.reedpopcdn.com/electronic-arts-logo_kHRV9uz.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Following its decision to cut six percent of its workforce last March, EA has announced another round of layoffs - this time affecting 5 percent of staff (around 670 employees) - as it moves away from "future licensed IP" toward its "owned IP, sports, and massive online communities".
+</p><p>
+In an <a href="https://www.ea.com/news/continuing-to-evolve-our-business-and-teams">email to staff announcing today's layoffs</a>, EA CEO Andrew Wilson said the cuts were part of a continuing effort to "optimise our global real estate footprint to best support our business". 
+</p><p>
+In order to achieve its goals, Wilson said EA will be "streamlining [its] company operations", "sunsetting games and moving away from development of future licensed IP that we do not believe will be successful in our changing industry". Additi
+
+## Paranormal Activity game on the way from The Mortuary Assistant developer
+ - [https://www.eurogamer.net/theres-a-new-paranormal-activity-game-coming-from-renowned-indie-horror-publisher-dreadxp?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/theres-a-new-paranormal-activity-game-coming-from-renowned-indie-horror-publisher-dreadxp?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T21:32:56+00:00
+
+<img src="https://assetsio.reedpopcdn.com/paranormal-activity-game-logo.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Paranormal Activity - the found-footage horror series that's spawned seven movies since its debut instalment blew up the box office in 2009 - is being turned into a game by The Mortuary Assistant developer DarkStone Digital horror and renowned indie horror publisher DreadXP.
+</p><p>
+DreadXP's newly announced Paranormal Activity project, which follows the launch of last year's VR-focused Paranormal Activity: The Lost Soul from VRWERX, is being made in conjunction with Paramount Game Studios and promises to "bring the franchise's groundbreaking found-footage style to horror enthusiasts in surprising new ways".
+</p><p>
+Specifics are limited at this seemingly early juncture, but DarkStone Digital (AKA solo developer Brian Clarke, who's also co-director and creative director of DreadXP) makes mention of a dynamic 
+
+## Call of Duty: Warzone Mobile gets global iOS and Android launch this March
+ - [https://www.eurogamer.net/call-of-duty-warzone-mobile-gets-worldiwde-ios-and-android-release-this-march?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/call-of-duty-warzone-mobile-gets-worldiwde-ios-and-android-release-this-march?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T19:29:34+00:00
+
+<img src="https://assetsio.reedpopcdn.com/call-of-duty-warzone-mobile-promo-image.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Call of Duty: Warzone Mobile, the iOS and Android version of Activision Blizzard's battle royale hit, is officially getting its worldwide launch on 21st March following a limited release in select counties over the course of the last year.
+</p><p>
+Warzone Mobile, which is being developed by Activision's Digital Legends, Beenox, Shanghai, and Solid State studios, initially launched in Australia back in November 2022. Following its roll-out across a number of other countries, Activision announced it would be getting its full release in autumn last year - but plans changed in October, when the publisher confirmed it had <a href="https://www.eurogamer.net/call-of-duty-warzone-mobile-has-been-delayed-to-2024">made the decision to postpone its launch</a> to "spring" 2024 in order to "polish up" the experi
+
+## Remedy Entertainment buys Control series rights from 505 Games for €17m
+ - [https://www.eurogamer.net/remedy-entertainment-buys-control-series-rights-from-505-games-for-17m?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/remedy-entertainment-buys-control-series-rights-from-505-games-for-17m?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T18:08:04+00:00
+
+<img src="https://assetsio.reedpopcdn.com/control-1_f1wBd5A.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Alan Wake developer Remedy Entertainment has announced it's acquired the full rights to its Control series from publisher 505 Games for &euro;17m.
+</p><p>
+As <a href="https://investors.remedygames.com/announcements/remedy-entertainment-plc-inside-information-remedy-acquires-full-rights-to-the-control-franchise-from-505-games/">detailed in an investor announcement</a> on Remedy's website, the rights acquisition - which includes those for publishing, distribution, and marketing - cover the full Control franchise, including the supernatural third-person shooter's 2019 debut game, the upcoming Control 2 and multiplayer spin-off codenamed Condor, and all future titles in the series.
+</p><p>
+Remedy's publishing agreement with 505 Games for Control 2 and Condor terminates immediately, and 505 will continue to serve as the publi
+
+## Will Pokémon Legends: Z-A be a Switch 2 launch title?
+ - [https://www.eurogamer.net/eurogamer-newscast-will-pokemon-take-palworld-down-1?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/eurogamer-newscast-will-pokemon-take-palworld-down-1?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T17:34:39+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Pok%C3%A9mon-Legends_-Z-A-releases-simultaneously-worldwide-in-2025!_-1-9-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+This week on the <a href="https://www.eurogamer.net/topics/newscast">Eurogamer Newscast</a>, we discuss the shocking news that the next big Pok&eacute;mon game is mysteriously set to arrive in 2025. Hey, that sounds a lot like the intro to last week's episode, when we were discussing <a href="https://www.eurogamer.net/nintendo-switch-2-everything-we-know">Switch 2</a>! Say, could <a href="https://www.eurogamer.net/pokemon-legends-z-a-everything-we-know">Pok&eacute;mon Legends: Z-A</a> also be set to arrive on Nintendo's next console?</p><p>It's been a long time since Nintendo didn't launch a major Pok&eacute;mon game or expansion in a calendar year, and Pok&eacute;mon Legends: Z-A's arrival in 2025 certainly looks suspicious - as does <a href="https://www
+
+## Jar-Jar Binks actor sets tongues wagging with Activision tease
+ - [https://www.eurogamer.net/jar-jar-binks-actor-sets-tongues-wagging-with-activision-tease?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/jar-jar-binks-actor-sets-tongues-wagging-with-activision-tease?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T17:17:17+00:00
+
+<img src="https://assetsio.reedpopcdn.com/jarjar.webp?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Ahmed Best, who's best known for his performance as Jar-Jar Binks in the Star Wars prequels, has issued a cryptic tease that has set Star Wars fans' tongues wagging.
+</p><p>
+"Just when I thought I was out, they pull me back in," Best posted on <a href="https://www.instagram.com/p/C332uAERUog/">Instagram</a>, alongside a photo of himself clad in a performance capture suit. He accompanied the caption with a string of hashtags:  "#mocap #starwars #jarjarbinks #activision #jedi #sithlord #kelleranbeq"
+</p><p>
+It's unclear what Best is back in a performance capture suit for, though the mention of Activision has fans pondering whether the actor is secretly working on a new Star Wars game from the publisher, or whether he's performing mo-cap for some kind of Call of Duty crossover.
+</p> <p><a href="https://www.eurogamer.net/jar-jar-binks
+
+## PlayStation Plus games for March announced
+ - [https://www.eurogamer.net/playstation-plus-games-for-march-announced?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/playstation-plus-games-for-march-announced?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T17:06:05+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Destiny-2-The-Witch-Queen_tBj6IHq.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Sony has announced its PlayStation Plus games for March.</p><p>As <a href="https://www.eurogamer.net/first-playstation-plus-essential-game-for-march-leaks">previously reported</a>, Sloclap's third-person brawler Sifu will be arriving on the service next month. It will be available on both PlayStation 4 and PS5. Joining it are  three other games - or rather, two others plus the Destiny 2: Witch Queen expansion (for which you'll need Destiny 2 in your library to play). </p><p>The full list of PlayStation Plus games for March includes:</p> <p><a href="https://www.eurogamer.net/playstation-plus-games-for-march-announced?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Spelunky studio's long-awaited 8-bit game anthology UFO 50 due "second half" of 2024
+ - [https://www.eurogamer.net/spelunky-studios-long-awaited-8-bit-game-anthology-ufo-50-due-second-half-of-2024?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/spelunky-studios-long-awaited-8-bit-game-anthology-ufo-50-due-second-half-of-2024?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T16:46:22+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ufo-50-artwork.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+It's been a long old wait for UFO 50 - the 50-strong anthology of 8-bit-inspired games from Spelunky creator Derek Yu's Mossmouth studio - but as the seventh anniversary of its announcement approaches this August, Yu has revealed the promising project is currently on track to release in the second half of this year.
+</p><p>
+When UFO 50 was <a href="https://www.eurogamer.net/spelunky-downwell-and-more-indie-devs-announce-retro-game-anthology-ufo-50">announced in 2017</a>, the goal was to launch it the following year; that, obviously, did't happen, with Yu last year explaining the longer-the-expected development time was simply down to the team having wildly underestimated how long it would take to make 50 games, particularly given Spelunky 2 was being made in the middle of it all.
+</p><p>
+UFO 50, if you're unfamiliar, isn't 
+
+## Star Citizen developer hit with layoffs amid claims of a "highly toxic company"
+ - [https://www.eurogamer.net/star-citizen-developer-hit-with-layoffs-amid-claims-of-a-highly-toxic-company?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/star-citizen-developer-hit-with-layoffs-amid-claims-of-a-highly-toxic-company?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T16:39:07+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Star-Citizen-Alpha-3.18-_-Lasting-Legacies-0-46-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Star Citizen developer Cloud Imperium Games has suffered layoffs amid unrest due to relocation and accusations of a "highly toxic company", reports suggest.
+</p><p>
+Game director Todd Papy left the studio last month, according to <a href="https://www.linkedin.com/in/todd-papy-180b71/">LinkedIn</a>. <a href="https://massivelyop.com/2024/02/26/star-citizen-followers-uncover-additional-layoffs-at-cig-that-reference-relocation-and-restructuring/">MassivelyOP</a> has since reported a number of other high profile losses at the company (via <a href="https://www.gamedeveloper.com/business/report-star-citizen-dev-cig-laid-off-staff-following-studio-relocation">Game Developer</a>), including lead producer Jake Ross, level designer Dane Kubicka, Austin QA lead Vincent Sinatra, and Austin sen
+
+## Tomb Raider 1-3 Remastered "more polished" on Epic Games Store, fans say
+ - [https://www.eurogamer.net/tomb-raider-1-3-remastered-more-polished-on-epic-game-store-fans-say?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/tomb-raider-1-3-remastered-more-polished-on-epic-game-store-fans-say?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T13:47:28+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Tomb-Raider-Remastered-header.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>If you are playing through Tomb Raider 1-3 Remastered on the Epic Games Store, you may find it is a little different to other versions.</p><p>As noted by <a href="https://twitter.com/small_medipack">Small Medipack</a>, the Epic Games Store version  has a range of improvements when compared to other platforms. For example, the Nevada level in Tomb Raider 3 is, overall, "more polished", thanks to better textures and animations.</p><p>Meanwhile, there are more poses on the Epic Games Store version's photo mode - 21 in total.</p> <p><a href="https://www.eurogamer.net/tomb-raider-1-3-remastered-more-polished-on-epic-game-store-fans-say?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## The Simpsons' Mario Kart parody is the closest we've got to a Hit & Run sequel
+ - [https://www.eurogamer.net/the-simpsons-mario-kart-parody-is-the-closest-weve-got-to-a-hit-run-sequel?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/the-simpsons-mario-kart-parody-is-the-closest-weve-got-to-a-hit-run-sequel?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T13:28:52+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Simpsons-Mario-Kart-Dream-0-3-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>We're now 20 years on from the release of The Simpsons: Hit &amp; Run and we're still without a sequel. That said, we now have a nightmarish glimpse into what could have been, perhaps, with a Mario Kart parody sequence in the latest episode of the animated series. </p><p>Episode 12 of season 35, Lisa Gets an F1, aired on 25th February, and follows Lisa as she becomes a professional kid go-kart racer whilst dealing with her anxiety stemming from Homer's dangerous driving. As Homer worries about Lisa's safety, one night he has a nightmare where he, Lisa, and a number of other children are driving in an off-kilter version of <a href="https://www.youtube.com/watch?v=IFVBtXFkVF4">Mario Kart</a>.</p><p>"It's me, Lisa Mario," Lisa proclaims at the starting line of Rainbow Road, fully decked out with a blue
+
+## Resident Evil 4 Remake development was so buggy its director worried about a game delay
+ - [https://www.eurogamer.net/resident-evil-4-remake-development-was-so-buggy-its-director-worried-about-a-game-delay?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/resident-evil-4-remake-development-was-so-buggy-its-director-worried-about-a-game-delay?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T13:16:39+00:00
+
+<img src="https://assetsio.reedpopcdn.com/resident-evil-4-remake-leon-kennedy_xGy2vsH.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A new documentary has shed more light on Resident Evil 4 Remake's development, and shows its director concerned the game would not be ready for its release date.</p><p>A <a href="https://www3.nhk.or.jp/nhkworld/en/ondemand/video/5001412/">recent episode</a> of <a href="https://www3.nhk.or.jp/nhkworld/en/ondemand/program/video/100cameras/">100 Cameras</a> - a Japanese documentary series which puts 100 cameras in situ to capture the goings on in any given place - focused on Capcom. Along with a look behind the scenes of Street Fighter 6, the episode also showed a slice of Resident Evil 4 Remake's development (thanks, <a href="https://www.gamesradar.com/resident-evil-4-remake-devs-were-convinced-it-would-be-delayed-because-of-tech-issues-ive-never-seen-bugs-like-this/">GamesRadar</a>).</p><p>At the 
+
+## Call of Duty veteran announces new studio BulletFarm
+ - [https://www.eurogamer.net/call-of-duty-veteran-announces-new-studio-bulletfarm?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/call-of-duty-veteran-announces-new-studio-bulletfarm?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T13:02:28+00:00
+
+<img src="https://assetsio.reedpopcdn.com/image001_8J8opKV.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Former Call of Duty: Black Ops design director David Vonderhaar has established BulletFarm, a new AAA game studio, <a href="https://www.eurogamer.net/call-of-duty-developer-david-vonderhaar-leaves-treyarch">following his departure from Treyarch last summer</a>. 
+</p><p>
+BulletFarm will be remote-first with an office in Los Angeles, and is another game studio to be funded by Chinese gaming firm NetEase.
+</p><p>
+The studio's first project will be a AAA first-person game built in Unreal Engine 5 and set in an original universe "with an emphasis on co-operative gameplay", a press release stated. 
+</p> <p><a href="https://www.eurogamer.net/call-of-duty-veteran-announces-new-studio-bulletfarm?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Persona 3 Reload datamine points to The Answer expansion being reinstated as DLC
+ - [https://www.eurogamer.net/persona-3-reload-datamine-points-to-the-answer-expansion-being-reinstated-as-dlc?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/persona-3-reload-datamine-points-to-the-answer-expansion-being-reinstated-as-dlc?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T12:54:37+00:00
+
+<img src="https://assetsio.reedpopcdn.com/P3R_Aigis_Screenshot_1.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Fans are hopeful that expansion The Answer will come to Persona 3 Reload after dataminers discovered references to DLC.
+</p><p>
+Persona 3 Reload released last month as a remake of the 2006 original. However, it was criticised for being incomplete without the inclusion of The Answer expansion and the female protagonist featured in revised versions Persona 3 FES and Persona 3 Portable.
+</p><p>
+The latest hint to an expansion comes from <a href="https://www.youtube.com/watch?v=LYh0C7mJ8Rs">YouTuber Faz</a> (thanks <a href="https://www.pcgamer.com/persona-3-reload-is-almost-certainly-getting-the-classic-the-answer-expansion-at-this-point/">PCGamer</a>), who discovered an in-game message for completing the game on the highest Merciless difficulty (or at least using a cheat engine to skip ahead).
+
+</p> <p><a href="https:/
+
+## Children face social pressures to spend money in games, study suggests
+ - [https://www.eurogamer.net/children-face-social-pressures-to-spend-money-in-games-study-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/children-face-social-pressures-to-spend-money-in-games-study-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T12:22:46+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Fortnite-Chapter-4_-Season-OG-Gameplay-Trailer-0-7-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A study conducted by Norwegian researchers has suggested children feel increasing social pressure to spend money in games.</p><p>The study, commissioned by the Norwegian government's Ministry of Children and Family Affairs, was conducted by researchers Clara Julia Reich and Kamilla Knutsen Steinnes at Oslo Metropolitan University's National Institute for Consumer Research.</p><p>An overview of the two resulting reports, originally written in Norwegian, by <a href="https://partner.sciencenorway.no/bullying-children-and-adolescents-computer-games/fear-being-bullied-children-pay-to-become-popular-in-video-games/2307469">ScienceNorway.no</a> reveals children the pair spoke to worried about being bullied and being unable to make friends unless they spent money to buy cosmetic items (
+
+## Sony layoffs reportedly impact 10% of Horizon Forbidden West developer
+ - [https://www.eurogamer.net/sony-layoffs-reportedly-impact-10-of-horizon-forbidden-west-developer?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/sony-layoffs-reportedly-impact-10-of-horizon-forbidden-west-developer?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T11:08:19+00:00
+
+<img src="https://assetsio.reedpopcdn.com/aloy-forbidden-west.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Horizon Forbidden West developer Guerrilla Games is reportedly cutting 10 percent of its staff.</p><p>These reductions at the studio come as part of yesterday's announcement that <a href="https://www.eurogamer.net/sony-laying-off-900-playstation-employees-london-studio-to-close-in-its-entirety">900 PlayStation employees will lose their jobs</a> across <a href="https://www.eurogamer.net/playstation-studios-head-confirms-projects-cancelled-in-wake-of-layoffs">multiple studios and departments</a>. In total, this equates to eight percent of PlayStation's workforce.</p><p>According to Dutch newspaper <a href="https://www.ad.nl/games/ontslagronde-bij-nederlandse-gamemaker-guerrilla-tientallen-medewerkers-op-straat~a492e6fb/"><strong>AD</strong></a> (via <a href="https://www.videogameschronicle.com/news/horizon-studio-guerrill
+
+## Nintendo sues Switch emulator creator for facilitating piracy "at a colossal scale"
+ - [https://www.eurogamer.net/nintendo-sues-switch-emulator-creator-for-facilitating-piracy-at-a-colossal-scale?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/nintendo-sues-switch-emulator-creator-for-facilitating-piracy-at-a-colossal-scale?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T11:04:06+00:00
+
+<img src="https://assetsio.reedpopcdn.com/zelda-holds-master-sword-tears-of-the-kingdom.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Nintendo is suing the creators of Switch emulator Yuzu, and claims more than 1m copies of <a href="https://www.eurogamer.net/zelda-tears-of-the-kingdom-walkthrough-tips-9343">Zelda: Tears of the Kingdom</a> were pirated ahead of its release.
+</p><p>
+The lawsuit is against Tropic Haze, the creator of the Yuzu game emulator, which Nintendo said allows users to play its games illegally by circumventing its software encryption.
+</p><p>
+As such, Nintendo claimed Yuzu facilitates piracy "at a colossal scale", with pirated versions of Tears of the Kingdom used as an example.
+</p> <p><a href="https://www.eurogamer.net/nintendo-sues-switch-emulator-creator-for-facilitating-piracy-at-a-colossal-scale?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Epic Games hacked and data stolen, ransomware group claims
+ - [https://www.eurogamer.net/epic-games-hacked-and-data-stolen-ransomware-group-claims?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/epic-games-hacked-and-data-stolen-ransomware-group-claims?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T11:03:33+00:00
+
+<img src="https://assetsio.reedpopcdn.com/fortnite-og-pass-outfits-1920x1080-27e8807a93b6.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Fortnite maker Epic Games has reportedly suffered a ransomware attack, with almost 200GB of data stolen from the company.
+</p><p>
+That's according to group behind the alleged attack, Mogilevich, as reported by <a href="https://www.cyberdaily.au/culture/10241-fortnite-game-dev-epic-games-allegedly-hacked">Cyber Daily</a>. Epic Games is yet to respond.
+</p><p>
+The hacked data allegedly includes "email, passwords, full name, payment information, source code and many other data" - though it's unclear if this refers to the details of Epic Games employees, customers, or both. 
+</p> <p><a href="https://www.eurogamer.net/epic-games-hacked-and-data-stolen-ransomware-group-claims?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## GTA 6 looks stellar - and it could be a huge moment for disability representation
+ - [https://www.eurogamer.net/gta-6-looks-stellar-and-it-could-be-a-huge-moment-for-disability-representation?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/gta-6-looks-stellar-and-it-could-be-a-huge-moment-for-disability-representation?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T10:02:16+00:00
+
+<img src="https://assetsio.reedpopcdn.com/gta-6-vice-city-nightlife.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The greatest gaming event of 2023 was the GTA 6 reveal trailer. I am still thinking about it now. Rockstar has mastered the art of making the gaming world pause for a few minutes to experience something lavish and mind-blowing. Their games encourage grandiose thinking. I want this new version of Vice City&rsquo;s map to be the biggest in history, even though I&rsquo;m currently exhausted of massive open-world games.</p><p>I&rsquo;m attracted to an open-world sandbox for the chance to catch that fleeting and ephemeral feeling of immersion. GTA 6&rsquo;s trailer delivered the real essence of immersion for me. If you ask me, a crucial part of immersion is the game&rsquo;s power to remain in your consciousness even after you&rsquo;ve put the controller down and turned off the TV, blurring the barrier between the ficti
+
+## Five of the Best: Card games within games
+ - [https://www.eurogamer.net/five-of-the-best-card-games-within-games?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/five-of-the-best-card-games-within-games?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T10:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/gwent_yennefer_2.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><em>Five of the Best is a weekly series for </em><a href="https://www.eurogamer.net/subscribe"><em>supporters of Eurogamer</em></a><em>. It's a series that highlights some of the features in games that are often overlooked. It's also about having your say, so don't be shy, use the comments below and join in!</em></p><p><em>Oh and if you want to read more, you can - you can find </em><a href="https://www.eurogamer.net/topics/five-of-the-best"><em>our entire Five of the Best archive</em></a><em> elsewhere on the site.</em></p><p>Oh snap! It's card-game time. Have you ever played a game only to lose yourself inside a game inside that game? What a sentence. And has that 'game inside the game' ever been a game of cards? Don't lie to me!</p> <p><a href="https://www.eurogamer.net/five-of-the-best-card-games-within-games?utm_sourc
+
+## Inside and Limbo studio's long-in-the-works third game resurfaces in new concept art
+ - [https://www.eurogamer.net/inside-and-limbo-studios-long-in-the-works-third-game-resurfaces-in-new-concept-art?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/inside-and-limbo-studios-long-in-the-works-third-game-resurfaces-in-new-concept-art?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-28T00:57:48+00:00
+
+<img src="https://assetsio.reedpopcdn.com/playdead-project-3-tractor.jpeg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+It's been over seven years since Limbo and Inside developer Playdead first began teasing its mysterious third project, and now - nearly five years since Eurogamer last has cause to write about a sneaky bit of concept art - the studio has shared a handful of new images, confirming (in case there was any doubt) the project is still alive and well.
+</p><p>
+A first enigmatic bit of concept art for Playdead's untitled third game was <a href="https://www.eurogamer.net/inside-and-limbo-dev-teases-its-next-game">shared by the developer in 2017</a>, around six months after Inside launched to critical acclaim. At the time, the studio confirmed work was underway on its "next adventure", with the accompanying artwork pointing to a lonely adventure with sci-fi undertones.
+</p><p>
+Since then, further bits of atmospheric conc
+

@@ -1,0 +1,72 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## Making a Dye-Sensitized Solar Cell Is Almost DIY-able
+ - [https://hackaday.com/2024/02/28/making-a-dye-sensitized-solar-cell-is-almost-diy-able](https://hackaday.com/2024/02/28/making-a-dye-sensitized-solar-cell-is-almost-diy-able)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-28T21:00:35+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="451" src="https://hackaday.com/wp-content/uploads/2024/02/1354711708683532648-e1709033364601.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>We see plenty of solar projects here on Hackaday, but they primarily consist of projects that use an off-the-shelf solar panel to power something else. We see very few projects <a class="read-more" href="https://hackaday.com/2024/02/28/making-a-dye-sensitized-solar-cell-is-almost-diy-able/">&#8230;read more</a>
+
+## The Strange Metal Phase and Its Implications for Superconductivity
+ - [https://hackaday.com/2024/02/28/the-strange-metal-phase-and-its-implications-for-superconductivity](https://hackaday.com/2024/02/28/the-strange-metal-phase-and-its-implications-for-superconductivity)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-28T19:30:43+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="277" src="https://hackaday.com/wp-content/uploads/2024/02/Nanowire-BY-LiyangChen.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>The behavior of electrons and the exact fundamentals underlying the phenomenon we call &#8216;electricity&#8217; are still the subject of many competing theories and heated debates. This is most apparent in <a class="read-more" href="https://hackaday.com/2024/02/28/the-strange-metal-phase-and-its-implications-for-superconductivity/">&#8230;read more</a>
+
+## Ethernet For Hackers: Equipment Exploration
+ - [https://hackaday.com/2024/02/28/ethernet-for-hackers-equipment-exploration](https://hackaday.com/2024/02/28/ethernet-for-hackers-equipment-exploration)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-28T18:00:45+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="533" src="https://hackaday.com/wp-content/uploads/2024/02/ethernet_cable_featured.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Last time, we talked about the surface-level details of Ethernet. They are fundamental to know for Ethernet hacking, but they&#8217;re also easy to pick up from bits and pieces online, <a class="read-more" href="https://hackaday.com/2024/02/28/ethernet-for-hackers-equipment-exploration/">&#8230;read more</a>
+
+## The Photodiode You Never Knew You Had
+ - [https://hackaday.com/2024/02/28/the-photodiode-you-never-knew-you-had](https://hackaday.com/2024/02/28/the-photodiode-you-never-knew-you-had)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-28T16:30:13+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/02/led-photodiode-featured.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Optoelectronics hold a range of possibilities for the hardware experimenter &#8212; indeed who among us hasn&#8217;t added LEDs aplenty to our work? What many of us may be unaware of <a class="read-more" href="https://hackaday.com/2024/02/28/the-photodiode-you-never-knew-you-had/">&#8230;read more</a>
+
+## Air Canada’s Chatbot: Why RAG is Better Than an LLM For Facts
+ - [https://hackaday.com/2024/02/28/air-canadas-chatbot-why-rag-is-better-than-an-llm-for-facts](https://hackaday.com/2024/02/28/air-canadas-chatbot-why-rag-is-better-than-an-llm-for-facts)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-28T15:00:07+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="464" src="https://hackaday.com/wp-content/uploads/2024/02/AirCanada.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Recently Air Canada was in the news regarding the outcome of Moffatt v. Air Canada, in which Air Canada was forced to pay restitution to Mr. Moffatt after the latter had <a class="read-more" href="https://hackaday.com/2024/02/28/air-canadas-chatbot-why-rag-is-better-than-an-llm-for-facts/">&#8230;read more</a>
+
+## Avoid I2C Address Conflicts On ESP32 By Pin Muxing
+ - [https://hackaday.com/2024/02/28/avoid-i2c-address-conflicts-on-esp32-by-pin-muxing](https://hackaday.com/2024/02/28/avoid-i2c-address-conflicts-on-esp32-by-pin-muxing)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-28T12:00:27+00:00
+
+<div><img alt="A breadboard showing a tiny ESP32 board and two HMC5883L sensors connected to it on different pins" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/02/hadimg_esp32_i2cmux_feat.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Using hardware I2C on an ESP32? Do you need to connect multiple I2C devices with the same address? Normally, you wouldn&#8217;t be able to do that without extra parts, but <a class="read-more" href="https://hackaday.com/2024/02/28/avoid-i2c-address-conflicts-on-esp32-by-pin-muxing/">&#8230;read more</a>
+
+## ESP32 Weather Station Looks Great With Color E-Paper Display
+ - [https://hackaday.com/2024/02/28/esp32-weather-station-looks-great-with-color-e-paper-display](https://hackaday.com/2024/02/28/esp32-weather-station-looks-great-with-color-e-paper-display)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-28T09:00:59+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/02/DIY-ESP32-Color-E-Paper-Weather-Station-1-41-screenshot.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>[educ8s.tv] has built weather stations before, but his latest is his best yet. It&#8217;s all thanks to its low-power design, enabled by its e-paper display. The build is based around <a class="read-more" href="https://hackaday.com/2024/02/28/esp32-weather-station-looks-great-with-color-e-paper-display/">&#8230;read more</a>
+
+## Wire Wrap Odyssey: a 7400-series Homebrew 8-bit Computer
+ - [https://hackaday.com/2024/02/27/wire-wrap-odyssey-a-7400-series-homebrew-8-bit-computer](https://hackaday.com/2024/02/27/wire-wrap-odyssey-a-7400-series-homebrew-8-bit-computer)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-28T06:00:59+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="436" src="https://hackaday.com/wp-content/uploads/2024/02/wire_wrap_odyssey_desktop_web.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>As part of his computer science curriculum at Texas A&#38;M University in the early 2000s, [Paul Krizak] took a computer architecture course on the basics of their functioning. This and <a class="read-more" href="https://hackaday.com/2024/02/27/wire-wrap-odyssey-a-7400-series-homebrew-8-bit-computer/">&#8230;read more</a>
+
+## Blast From the Past: Schematic Templates
+ - [https://hackaday.com/2024/02/27/blast-from-the-past-schematic-templates](https://hackaday.com/2024/02/27/blast-from-the-past-schematic-templates)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-28T03:00:06+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="600" src="https://hackaday.com/wp-content/uploads/2024/02/temp.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>If you want to draw schematics today, you probably sit down at your computer. Why not? There are a ton of programs made to do the work easily, and the <a class="read-more" href="https://hackaday.com/2024/02/27/blast-from-the-past-schematic-templates/">&#8230;read more</a>
+
+## Wireless Telescope Guidance You Can Build On The Cheap
+ - [https://hackaday.com/2024/02/27/wireless-telescope-guidance-you-can-build-on-the-cheap](https://hackaday.com/2024/02/27/wireless-telescope-guidance-you-can-build-on-the-cheap)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-02-28T00:00:34+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/02/AEROPICs-wireless-pushto-DSC-3-42-screenshot.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Telescopes are fun to point around the sky, but they&#8217;re even better when you have some idea of what you&#8217;re actually looking at. Experienced sky-gazers love nothing more than whipping <a class="read-more" href="https://hackaday.com/2024/02/27/wireless-telescope-guidance-you-can-build-on-the-cheap/">&#8230;read more</a>
+
