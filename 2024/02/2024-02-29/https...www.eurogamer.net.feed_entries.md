@@ -1,0 +1,186 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Open-world Terminator: Survivors heading to Steam early access in October
+ - [https://www.eurogamer.net/nacons-open-world-terminator-survivors-heading-to-steam-early-access-in-october?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/nacons-open-world-terminator-survivors-heading-to-steam-early-access-in-october?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T22:53:57+00:00
+
+<img src="https://assetsio.reedpopcdn.com/terminator-survivors-screen-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Terminator: Survivors, the previously untitled open-world Terminator game <a href="https://www.eurogamer.net/terminator-resistance-developer-making-new-robocop-game">announced by publisher Nacon</a> back in July 2022, has resurfaced with a new cinematic trailer and a Steam early access launch day of 24th October this year.
+</p><p>
+Terminator: Survivors is being developed by Nacon Studio Milan, the team behind motorcycle racer Rims Racing and TT Isle of Man: Ride on the Edge 3, and is set four years after the catastrophic Judgment Day prophesised in the first two Terminator films.
+</p><p>
+Cast as a survivor of humanity's near-extinction, players - either working solo or co-operatively with up to three friends - must attempt to "reestablish some semblance of society in a world that seems hell-bent on elimina
+
+## Activision's Skylanders, Crash Bandicoot studio Toys for Bob going independent
+ - [https://www.eurogamer.net/activisions-skylanders-crash-bandicoot-studio-toys-for-bob-going-independent?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/activisions-skylanders-crash-bandicoot-studio-toys-for-bob-going-independent?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T20:32:21+00:00
+
+<img src="https://assetsio.reedpopcdn.com/crash-bandicoot-4-its-about-time-ps5-km-2841584866.jpeg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Toys for Bob - the Activision Blizzard studio behind the likes of Skylanders, Crash Bandicoot 4, and the Spyro remasters - has announced it's parting ways with Activision to become an independent company once more. It also says it's "exploring a possible partnership" with Microsoft as development on its new game gets underway.
+</p><p>
+Toys for Bob, which was founded back in 1989, formed a publishing partnership with Activision in the 2000s that would lead to the studio's acquisition by the publisher in 2005. Toys for Bob has been part of Activision Blizzard ever since, initially working on the hugely popular toys-to-life Skylanders series before developing 2018 remaster Spyro Reignited Trilogy and 2020's well-received Crash Bandicoot 4: It's About Time. Since then, it's <a href="https://
+
+## Embracer Group sale of Borderlands studio Gearbox reportedly in "late stages" of finalisation
+ - [https://www.eurogamer.net/embracer-sale-of-borderlands-studio-gearbox-reportedly-in-late-stages-of-finalisation?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/embracer-sale-of-borderlands-studio-gearbox-reportedly-in-late-stages-of-finalisation?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T19:04:41+00:00
+
+<img src="https://assetsio.reedpopcdn.com/borderlands-collection-pandoras-box-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Following reports last year that Embracer Group was <a href="https://www.eurogamer.net/embracer-reportedly-considering-selling-borderlands-developer-gearbox">considering selling Borderlands studio Gearbox</a> as part of its ongoing "comprehensive restructuring programme", it's now being claimed a sale to a third party is in the "late stages" of being finalised.
+</p><p>
+That's <a href="https://kotaku.com/borderlands-4-gearbox-embracer-acquisition-1851297286">according to Kotaku</a>, which says Gearbox CEO and co-founder Randy Pitchford had previously told staff the studio was facing one of three possible scenarios: it would either stay with Embracer, be sold, or would finance a buyout and become independent once more. However, Pitchford reportedly shared an update with employees earlier this week, s
+
+## WRC and latest Theatrhythm have stopped working because it's a leap day
+ - [https://www.eurogamer.net/wrc-and-theatrhythm-final-bar-line-have-stopped-working-because-its-a-leap-day?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/wrc-and-theatrhythm-final-bar-line-have-stopped-working-because-its-a-leap-day?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T17:30:35+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ea-sports-wrc-screen-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Leap day is now upon us and a couple of games aren't happy about this sudden affront to their usual calendar expectations. Both EA Sports WRC and Theatrhythm Final Bar Line are currently protesting at the arrival of 29th February by refusing to function on consoles - but, luckily for rally fans and beat tappers, there's a pretty straightforward workaround.
+</p><p>
+Theatrhythm Final Bar Line players noticed the Final Fantasy-themed PS4 and Switch rhythm game was failing to connect to Square Enix's servers after the clock struck midnight heralding the arrival 29th February, leaving it functionally unplayable.
+</p><p>
+Similarly, EA took to social media earlier today to <a href="https://x.com/EAHelp/status/1763192737300390238?s=20">acknowledge</a> Codemasters' World Championship Rally was encountering an "issue on co
+
+## Embracer to sell Star Wars: Knights of the Old Republic remake developer Saber
+ - [https://www.eurogamer.net/embracer-to-sell-star-wars-knights-of-the-old-republic-remake-developer-saber?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/embracer-to-sell-star-wars-knights-of-the-old-republic-remake-developer-saber?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T16:57:37+00:00
+
+<img src="https://assetsio.reedpopcdn.com/kotor-remake-trailer-revan.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Embracer Group is set to sell Saber Interactive in a deal worth up to $500m, according to a report from <a href="https://www.bloomberg.com/news/articles/2024-02-29/embracer-group-to-sell-saber-subsidiary-in-500-million-deal">Bloomberg</a>.
+
+</p><p>
+Saber will continue to work on its remake of Star Wars: The Knights of the Old Republic after development was removed from Aspyr in 2022.
+</p><p>
+This deal is just the latest from Embracer as part of its restructuring programme that's already seen over a thousand staff laid off and studios closed.
+</p> <p><a href="https://www.eurogamer.net/embracer-to-sell-star-wars-knights-of-the-old-republic-remake-developer-saber?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Get ready for Amazon's Fallout adaptation with March's Prime Gaming
+ - [https://www.eurogamer.net/get-ready-for-amazons-fallout-adaptation-with-marchs-prime-gaming?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/get-ready-for-amazons-fallout-adaptation-with-marchs-prime-gaming?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T16:56:27+00:00
+
+<img src="https://assetsio.reedpopcdn.com/fallout-2-cover.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Amazon is offering eight games to Prime Gaming subscribers in March, including <strong>Fallout 2</strong> and <strong>Invincible Presents: Atom Eve</strong>. </p><p>The month will start out with Fallout 2 to promote Amazon's <a href="https://www.eurogamer.net/fallout-tv-series-launch-date-revealed">upcoming Fallout adaptation</a>, which is set to premiere on 12th April. We got a good look at the show in December when Amazon released a <a href="https://www.eurogamer.net/the-fallout-tv-show-trailer-is-here-and-it-looks-good-really-really-good">teaser trailer</a>, following <a href="https://www.eurogamer.net/new-fallout-tv-show-set-leaks-show-vault-tec-building-and-armour">numerous set leaks</a> and <a href="https://www.eurogamer.net/fallout-show-images-give-ghoul-ish-look-at-upcoming-series">official promotional photos</a>.</
+
+## Final Fantasy 7 Rebirth tech review: an excellent but inconsistent experience
+ - [https://www.eurogamer.net/digitalfoundry-2024-final-fantasy-7-rebirth-tech-review-an-excellent-but-inconsistent-experience?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/digitalfoundry-2024-final-fantasy-7-rebirth-tech-review-an-excellent-but-inconsistent-experience?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T16:20:07+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ff7r-site_G6CSX5B.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The second part of the long-awaited Final Fantasy 7 remake trilogy is finally here. Final Fantasy 7 Rebirth releases today, an expansive RPG that is perhaps this year's most significant PS5 console exclusive. We took a <a href="https://www.eurogamer.net/digitalfoundry-2024-final-fantasy-7-rebirth-accomplished-and-impressive-but-not-above-criticism">quick look at the first few hours in a piece last week</a>, but with all embargo restrictions now removed, now it's time to crack open the full game and see what's under the hood. How does the Unreal Engine 4-powered Rebirth take advantage of PS5 hardware? What are the enhancements over Remake? And are there any unexpected visual follies along the way? 
+</p><p>Let's start with what Final Fantasy 7 Rebirth does well and that begins with its excellent cutscenes. These are bombast
+
+## Ghostrunner 2 publisher 505 closes offices in Germany, Spain and France
+ - [https://www.eurogamer.net/ghostrunner-2-publisher-505-closes-offices-in-germany-spain-and-france?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/ghostrunner-2-publisher-505-closes-offices-in-germany-spain-and-france?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T16:16:51+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Ghostrunner-2-header.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Ghostrunner 2 publisher 505 Games has shut down offices in Germany, Spain and France. 
+</p><p>
+The office closures were first reported today by <a href="https://www.gamereactor.es/otra-ronda-de-despidos-505-games-echa-el-cierre-en-espana-francia-y-alemania-1121483/">Gamereactor</a>, though 505 told Eurogamer this is part of a previously announced review.  
+</p><p>
+"Today's news regarding our European offices is a part of our original announcement from November regarding 505's business review," 505 told Eurogamer.</p> <p><a href="https://www.eurogamer.net/ghostrunner-2-publisher-505-closes-offices-in-germany-spain-and-france?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Sony studio Firesprite has been shedding talent amidst accusations of toxic culture, staff say
+ - [https://www.eurogamer.net/sony-studio-firesprite-has-been-shedding-talent-amidst-accusations-of-toxic-culture-staff-say?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/sony-studio-firesprite-has-been-shedding-talent-amidst-accusations-of-toxic-culture-staff-say?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T16:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/firesprite-horizon-artwork.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Sony-acquired studio Firesprite has recently suffered high profile exits amid accusations of a toxic workplace culture, Eurogamer has been told, as part of an investigation into the studio begun ahead of the layoffs announced by Sony this week.
+</p><p>
+The Liverpool-based developer released PlayStation VR2 launch title Horizon Call of the Mountain last year, after being acquired by Sony in 2021. But the impact of crunch for that game's release and changes in the company's senior leadership have subsequently led to discontent within the studio, staff have told Eurogamer - something one source described as "death by a thousand cuts".
+</p><p>
+Most concerning are reports from sources that two senior leaders from Sony support studio XDev, brought in to help lead Firesprite, have since been accused of sexual discrimin
+
+## Star Wars: Dark Forces Remaster review - A meticulous overhaul of a shooter that still blasts with the best
+ - [https://www.eurogamer.net/star-wars-dark-forces-remaster-review-a-meticulous-overhaul-of-a-shooter-that-still-blasts-with-the-best?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/star-wars-dark-forces-remaster-review-a-meticulous-overhaul-of-a-shooter-that-still-blasts-with-the-best?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T15:21:08+00:00
+
+<img src="https://assetsio.reedpopcdn.com/starwars_darkforces_headline.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Dark Forces emerges from Nightdive's bacta tank refreshed and ready for action, combining classic FPS mayhem with thrilling espionage-themed missions.</p><p>"This is too easy" quips Kyle Katarn as he snatches the Death Star plans in Dark Forces' opening mission. What took Rogue One two-and-a-half ponderous hours to unspool, LucasArts' shooter pulls off in ten thrilling minutes. For Katarn, a cocky mercenary in tentative accord with the Rebel Alliance, stealing the Death Star plans is just another contract. In, out, job done.</p><p>Katarn's confidence and competence is echoed both in Dark Forces at large and Nightdive's work restoring it. The remaster is a consummately professional overhaul, making the game look just how you remember it in a way that belies the work involved to get it to this stage. In doing so,
+
+## There's a Final Fantasy 7 Chocobo treat waiting for you on Google
+ - [https://www.eurogamer.net/theres-a-final-fantasy-7-chocobo-treat-waiting-for-you-on-google?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/theres-a-final-fantasy-7-chocobo-treat-waiting-for-you-on-google?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T14:30:59+00:00
+
+<img src="https://assetsio.reedpopcdn.com/FINAL-FANTASY-VII-REBIRTH_20240213145113-Cropped.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>If you go down to your web browser today, you're sure of a big surprise.</p><p>To honour today's release of <a href="https://www.eurogamer.net/final-fantasy-7-rebirth-guides-tips-tricks-9403">Final Fantasy 7 Rebirth</a>, Google has hidden a little Chocobo treat for us all. All you have to do is type the words "Chocobo" or "Final Fantasy" into the search bar, and you will be met with a little Chocobo icon in the lower right corner.</p><p>Hit this button, and soon your screen will be full of charging Chocobos, their feet pounding away making everything shake and shimmy. Cloud even pops up riding on the back of one, his Buster Sword held aloft as though he is riding into battle. You can see how it looks in the video below.</p> <p><a href="https://www.eurogamer.net/theres-a-final-fantasy-7-choco
+
+## Glasgow's infamous Willy Wonka Experience lives on through The Sims 4
+ - [https://www.eurogamer.net/glasgows-infamous-willy-wonka-experience-lives-on-through-the-sims-4?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/glasgows-infamous-willy-wonka-experience-lives-on-through-the-sims-4?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T13:09:50+00:00
+
+<img src="https://assetsio.reedpopcdn.com/the-sims-willy-wronka-oompa-loompa.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>If you, like the rest of the internet, have been swept up in the trainwreck that was the Willy Wonka Experience held in an empty warehouse in Glasgow last weekend, we have good news. While you may no longer be able to witness the real event in person, you can always relive it vicariously through your Sims. </p><p>Glasgow's Willy Wonka Experience has gone viral for its <a href="https://twitter.com/f0X_j3n/status/1762851003588583680/photo/1">emptily-decorated space</a>, its <a href="https://twitter.com/shockproofbeats/status/1762849884485353695">AI-generated scripts</a>, and the random shadowy figure called <a href="https://twitter.com/Karn_EX/status/1762834753810469077">The Unknown</a> who was scaring children.</p><p>The whole thing went so badly, it was <a href="https://www.bbc.co.uk/news/articles/czrlr3d
+
+## Helldivers 2 has a Dungeons and Dragons-style GM behind the scenes
+ - [https://www.eurogamer.net/helldivers-2-has-a-dungeons-and-dragons-style-gm-behind-the-scenes?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/helldivers-2-has-a-dungeons-and-dragons-style-gm-behind-the-scenes?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T12:46:38+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Dungeons-and-Dragons-wallpaper.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Today I learned there is a Dungeons and Dragons-like Game Master (GM) working behind the scenes on Helldivers 2.</p><p>His name is Joel, and his job title at Arrowhead is, well, Game Master. "We have a lot of systems built into the game where the Game Master has a lot of control over the play experience. It's something that we're continuously evolving based on what's happening in the game," Helldivers 2 game director Johan Pilestedt told <a href="https://www.pcgamer.com/we-have-an-actual-person-with-the-title-of-game-master-a-single-helldivers-2-dev-named-joel-is-pulling-the-strings-on-its-galactic-war-like-an-all-powerful-dandd-dungeon-master-war-will-become-more-and-more-sophisticated-over-time/">PC Gamer</a>.</p><p>This continuous evolution has actually seen Joel getting up at unsociable hours to sort out 
+
+## Baldur's Gate 3 hotfix makes Minthara a little more willing to follow the party
+ - [https://www.eurogamer.net/baldurs-gate-3-hotfix-makes-minthara-a-little-more-willing-to-follow-the-party?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/baldurs-gate-3-hotfix-makes-minthara-a-little-more-willing-to-follow-the-party?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T12:07:50+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Minthara-Baldurs-Gate-3.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Larian has released another Baldur's Gate 3 hotfix across PC, PS5 and Mac. It is expected to arrive on Xbox at a later date. 
+</p><p>
+This hotfix takes aim at several bugs and quirks still lingering in Baldur's Gate 3. This includes a fix for banding and shader issues in cinematics and those times characters claimed to be too busy to talk to you. "They were lying," Larian explained.</p><p>Meanwhile, Minthara should no longer refuse to follow along with the party in Acts 2 and 3. In the developer's own words: "You should find her more willing to fall in line now - at least in terms of keeping up. She's still something of a free spirit."
+</p> <p><a href="https://www.eurogamer.net/baldurs-gate-3-hotfix-makes-minthara-a-little-more-willing-to-follow-the-party?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Re
+
+## Helldivers 2 footage shows someone already using a playable mech
+ - [https://www.eurogamer.net/helldivers-2-footage-shows-someone-using-a-playable-mech?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/helldivers-2-footage-shows-someone-using-a-playable-mech?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T12:07:02+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Helldivers-2---Report-for-Duty-Trailer-_-PS5-%26-PC-Games-1-7-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Gameplay footage of Helldivers 2 shows off in-game playable mechs - something that isn't currently available to users in the public version of the game.
+</p><p>
+We already knew these were on the way - the game's Report for Duty trailer (below) features mechs captioned "coming soon after launch", plus the first game featured mechs.
+</p><p>
+But now that <a href="https://www.eurogamer.net/helldivers-2-player-cap-boosted-again-this-time-to-800000">server issues due to the game's popularity have been sorted</a>, it seems developer Arrowhead Studios is finally moving on to more interesting improvements.
+
+</p> <p><a href="https://www.eurogamer.net/helldivers-2-footage-shows-someone-using-a-playable-mech?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a>
+
+## Immortals of Aveum will grow for "years and years" like Dead Space, director says
+ - [https://www.eurogamer.net/immortals-of-aveum-will-grow-for-years-and-years-like-dead-space-director-says?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/immortals-of-aveum-will-grow-for-years-and-years-like-dead-space-director-says?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T12:04:48+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Immortals-of-Aveum-jak.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Immortals of Aveum is a game which will continue to be discovered by players for "years and years" like Dead Space, according to its director.</p><p>Ascendant Studios founder Bret Robbins, who also served as creative director on the first Dead Space game, made the comment in an interview with <a href="https://www.gamesindustry.biz/the-immortals-of-aveum-story-isnt-written-yet">GamesIndustry.biz</a> reflecting on the launch and future of the developer's debut game.</p><p>Despite initial poor sales and lacklustre reviews for Immortals of Aveum when it released in August 2023, Robbins said he believes the game's future will be successful like Dead Space. "People were discovering [Dead Space] for years and years," Robbins stated, "I think Immortals will be the same."</p> <p><a href="https://www.eurogamer.net/immortals-of
+
+## Rockstar tells Grand Theft Auto 6 developers to return to office full-time
+ - [https://www.eurogamer.net/rockstar-tells-grand-theft-auto-6-developers-to-return-to-office-full-time?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/rockstar-tells-grand-theft-auto-6-developers-to-return-to-office-full-time?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T10:53:50+00:00
+
+<img src="https://assetsio.reedpopcdn.com/GTA-6-Jason-Lucia-art.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Employees at Rockstar have been asked to return to the office five days a week, now that <a href="https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357">GTA 6</a> enters its final year of development.</p><p>As reported by Bloomberg, an email sent to staff by Rockstar's head of publishing Jenn Kolbe stated the decision to end hybrid work was made - in part - with security reasons in mind.</p><p>Rockstar was the subject of a high profile hack in 2022, in which <a href="https://www.eurogamer.net/90-gta-6-videos-and-screenshots-have-allegedly-leaked-online">over 90 screenshots and videos were released online</a> showing work on the then unannounced GTA 6. Then, last year, the studio released its <a href="https://www.eurogamer.net/gta-6-first-trailer-released-early">first official GTA 6 trailer ahead of schedule</
+
+## EA studio closure a "gut punch", Marcus Lehto says
+ - [https://www.eurogamer.net/ea-studio-closure-a-gut-punch-marcus-lehto-says?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/ea-studio-closure-a-gut-punch-marcus-lehto-says?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T10:48:58+00:00
+
+<img src="https://assetsio.reedpopcdn.com/bf2042_ojtv1oJ_QOEfIMk.webp?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+EA's closure of Ridgeline Games last night was a "gut punch", the company's former boss Marcus Lehto has now said. 
+</p><p>
+Ridgeline - previously led by ex-Halo co-creator Lehto - had been working on a narrative-led Battlefield campaign. The project will now be completed by Need for Speed studio Criterion Games.
+</p><p>
+Writing on social media platform X last night, Lehto <a href="https://twitter.com/game_fabricator/status/1762971612977262814">said</a>: "Gut punched to see EA lay off my team. So many very talented devs who were incredibly valuable to the Battlefield franchise."
+</p> <p><a href="https://www.eurogamer.net/ea-studio-closure-a-gut-punch-marcus-lehto-says?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Balatro review - near-infinite poker possibilities
+ - [https://www.eurogamer.net/balatro-review?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/balatro-review?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-02-29T10:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/balatro1080-(1).png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A week into Balatro - Balatro were jesters and fools in ancient Rome; I googled it - I'd say that this is the Goldberg Variations of Poker. It's Poker: Possibility Space Edition. It's a roguelike deckbuilder that starts with the basic poker hands and then allows you to level up the winnings of those hands, add new cards to the deck and alter existing ones, and bring in a range of jokers that modify the game rules in bizarre ways. And yet, it's still poker underneath it all. (Actually, <a href="https://www.pcgamer.com/i-dont-play-poker-at-all-says-solo-developer-who-made-the-poker-roguelike-i-cant-stop-playing/">the solo dev says it's Big Two</a>, and I will take their word for it.) So, like the Goldbergs, it's expansive, ingenious, eager to turn every closet over and every pocket inside out. But also, like the Goldbergs, it
+
