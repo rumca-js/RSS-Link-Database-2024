@@ -1,0 +1,44 @@
+# Source:Tabletop Gaming News – TGN, URL:https://www.tabletopgamingnews.com/feed, language:en-US
+
+## February 2024 Brings Updates from Paizo for Pathfinder and Starfinder Fans
+ - [https://www.tabletopgamingnews.com/february-2024-brings-updates-from-paizo-for-pathfinder-and-starfinder-fans](https://www.tabletopgamingnews.com/february-2024-brings-updates-from-paizo-for-pathfinder-and-starfinder-fans)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-01T21:21:09+00:00
+
+<a href="https://www.tabletopgamingnews.com/february-2024-brings-updates-from-paizo-for-pathfinder-and-starfinder-fans/" rel="nofollow" title="February 2024 Brings Updates from Paizo for Pathfinder and Starfinder Fans"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/PZO12001-PE-1.png" style="display: block; margin: auto; margin-bottom: 5px;" width="979" /></a>Paizo Inc. has announced a series of new releases and updates for its Pathfinder and Starfinder game lines this February, aiming to enhance the gaming experience for its dedicated community. These updates include new editions of core rulebooks, engaging adventure scenarios, and practical gaming accessories. Pathfinder Introduces Pocket Editions: The Pathfinder Player Core and GM &#8230;
+
+## Pandasaurus Games Announces US Launch of “Courtisans” in Collaboration with Catch Up Games
+ - [https://www.tabletopgamingnews.com/pandasaurus-games-announces-us-launch-of-courtisans-in-collaboration-with-catch-up-games](https://www.tabletopgamingnews.com/pandasaurus-games-announces-us-launch-of-courtisans-in-collaboration-with-catch-up-games)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-01T21:15:12+00:00
+
+<a href="https://www.tabletopgamingnews.com/pandasaurus-games-announces-us-launch-of-courtisans-in-collaboration-with-catch-up-games/" rel="nofollow" title="Pandasaurus Games Announces US Launch of &#8220;Courtisans&#8221; in Collaboration with Catch Up Games"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="684" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/Courtisans_PTG24_043.webp" style="display: block; margin: auto; margin-bottom: 5px;" width="1024" /></a>Pandasaurus Games, in collaboration with Catch Up Games, has revealed plans to introduce &#8220;Courtisans&#8221; to the US market. Scheduled for release in May 2024, &#8220;Courtisans&#8221; represents a new addition to the board gaming community, designed to offer a competitive and engaging gameplay experience. Designed by Romaric Galonnier and Anthony Perone, with art by Noëmie Chevalier, &#8230;
+
+## Torchlight Brigade Pre-Order Now Available for Infinity Fans
+ - [https://www.tabletopgamingnews.com/torchlight-brigade-pre-order-now-available-for-infinity-fans](https://www.tabletopgamingnews.com/torchlight-brigade-pre-order-now-available-for-infinity-fans)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-01T21:10:00+00:00
+
+<a href="https://www.tabletopgamingnews.com/torchlight-brigade-pre-order-now-available-for-infinity-fans/" rel="nofollow" title="Torchlight Brigade Pre-Order Now Available for Infinity Fans"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="458" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/antorch-cover.jpg" style="display: block; margin: auto; margin-bottom: 5px;" width="815" /></a>The official Infinity website recently announced an exciting development for its player community: the introduction of a new sectorial army known as the Torchlight Brigade. This announcement coincides with Adepticon, marking a tradition by Corvus Belli to launch new Action Packs that facilitate the start of sectorial armies in the game. The Torchlight Brigade represents &#8230;
+
+## Tin Hat Games Initiates Kickstarter for “Weird World” TTRPG
+ - [https://www.tabletopgamingnews.com/tin-hat-games-initiates-kickstarter-for-weird-world-ttrpg](https://www.tabletopgamingnews.com/tin-hat-games-initiates-kickstarter-for-weird-world-ttrpg)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-01T21:04:39+00:00
+
+<a href="https://www.tabletopgamingnews.com/tin-hat-games-initiates-kickstarter-for-weird-world-ttrpg/" rel="nofollow" title="Tin Hat Games Initiates Kickstarter for &#8220;Weird World&#8221; TTRPG"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="386" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/Screenshot-2024-03-01-at-22-04-04-Weird-World-A-weird-post-post-post-apocalyptic-TTRPG.png" style="display: block; margin: auto; margin-bottom: 5px;" width="599" /></a>Tin Hat Games Initiates Kickstarter for &#8220;Weird World&#8221; TTRPG Tin Hat Games has recently introduced a Kickstarter campaign for &#8220;Weird World,&#8221; a tabletop role-playing game (TTRPG) set in a futuristic post-apocalyptic Earth. The campaign, aiming to raise $4,974, has already exceeded its target with $11,965 pledged by 125 backers, with 14 days left until its &#8230;
+
+## KessCo Announces Partnership with Toei Animation for One Piece and Digimon Licensed Products
+ - [https://www.tabletopgamingnews.com/kessco-announces-partnership-with-toei-animation-for-one-piece-and-digimon-licensed-products](https://www.tabletopgamingnews.com/kessco-announces-partnership-with-toei-animation-for-one-piece-and-digimon-licensed-products)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-01T20:42:17+00:00
+
+<a href="https://www.tabletopgamingnews.com/kessco-announces-partnership-with-toei-animation-for-one-piece-and-digimon-licensed-products/" rel="nofollow" title="KessCo Announces Partnership with Toei Animation for One Piece and Digimon Licensed Products"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="486" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/KessCo-logo-on-blue-background-875x486-1.png" style="display: block; margin: auto; margin-bottom: 5px;" width="875" /></a>KessCo has announced a licensing agreement with Toei Animation to create a new line of products based on the beloved anime series One Piece and Digimon. This partnership comes as both franchises celebrate their 25th anniversaries, with plans to launch tabletop games and outdoor toys designed for release between 2024 and 2025. The collaboration will &#8230;
+
+## Sidereal Venture’s “The Creator’s Compendium” Surpasses Funding Goal
+ - [https://www.tabletopgamingnews.com/sidereal-ventures-the-creators-compendium-surpasses-funding-goal](https://www.tabletopgamingnews.com/sidereal-ventures-the-creators-compendium-surpasses-funding-goal)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-01T20:34:10+00:00
+
+<a href="https://www.tabletopgamingnews.com/sidereal-ventures-the-creators-compendium-surpasses-funding-goal/" rel="nofollow" title="Sidereal Venture&#8217;s &#8220;The Creator&#8217;s Compendium&#8221; Surpasses Funding Goal"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="655" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/Screenshot-2024-03-01-at-21-32-56-The-Creators-Compendium.png" style="display: block; margin: auto; margin-bottom: 5px;" width="600" /></a>&#8220;The Creator&#8217;s Compendium,&#8221; a Kickstarter project by Sidereal Venture, has significantly exceeded its funding goal, amassing over $17,000 from a $2,500 target, with 27 days remaining until its completion on March 29. The project, which has attracted 250 backers so far, is a comprehensive guide aimed at storytellers, game masters, fiction writers, and those with &#8230;
+

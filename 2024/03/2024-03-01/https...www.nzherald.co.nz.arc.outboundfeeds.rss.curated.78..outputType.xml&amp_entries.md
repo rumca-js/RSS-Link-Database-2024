@@ -1,0 +1,247 @@
+# Source:New Zealand Herald, URL:https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp, language:en
+
+## Nick Hoogwerf and Donna Miers: Tenants, landlords and customers left out of pocket by mother and son duo
+ - [https://www.nzherald.co.nz/nz/nick-hoogwerf-donna-miers-tenants-landlords-and-customers-left-out-of-pocket-by-mother-and-son-duo/ZS3AP726WZAKVM5MWEL4TNIV2I](https://www.nzherald.co.nz/nz/nick-hoogwerf-donna-miers-tenants-landlords-and-customers-left-out-of-pocket-by-mother-and-son-duo/ZS3AP726WZAKVM5MWEL4TNIV2I)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T23:00:00+00:00
+
+Nick Hoogwerf & Donna Miers: Tenants, landlords customers left out of pocket.
+
+## Brian Tamaki’s Freedom and Rights Coalition to march at Auckland Domain: Call for Luxon to ‘defend free speech’
+ - [https://www.nzherald.co.nz/nz/brian-tamakis-freedom-and-rights-coalition-to-march-at-auckland-domain-call-for-luxon-to-defend-free-speech/LXPB3XCNUZBNHG5PFTEC4KUDLY](https://www.nzherald.co.nz/nz/brian-tamakis-freedom-and-rights-coalition-to-march-at-auckland-domain-call-for-luxon-to-defend-free-speech/LXPB3XCNUZBNHG5PFTEC4KUDLY)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T22:30:53+00:00
+
+Tamaki's past protests extremely disruptive, but he slammed the public for complaining.
+
+## New Zealand vs Australia live: Black Caps look to limit Australia’s second-innings lead
+ - [https://www.nzherald.co.nz/sport/new-zealand-vs-australia-live-black-caps-look-to-limit-australias-second-innings-lead/22WTTU4ZWZHZ5JH3BJW3R4L2XA](https://www.nzherald.co.nz/sport/new-zealand-vs-australia-live-black-caps-look-to-limit-australias-second-innings-lead/22WTTU4ZWZHZ5JH3BJW3R4L2XA)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T21:50:00+00:00
+
+Live updates of day three between the Black Caps and Australia.
+
+## Kourtney Kardashian and Blink-182′s Travis Barker spotted in Auckland
+ - [https://www.nzherald.co.nz/entertainment/kourtney-kardashian-and-blink-182s-travis-barker-spotted-in-auckland/NZ4NJCS2VZBRNB7LLSKLOANVQU](https://www.nzherald.co.nz/entertainment/kourtney-kardashian-and-blink-182s-travis-barker-spotted-in-auckland/NZ4NJCS2VZBRNB7LLSKLOANVQU)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T21:24:56+00:00
+
+Kourtney Kardashian and her Blink-182 beau have landed in NZ with their 4-month-old baby.
+
+## Rotorua teen prostitution ring: Clayton Fox victim speaks about grooming, drug abuse, indecent assault
+ - [https://www.nzherald.co.nz/rotorua-daily-post/news/rotorua-teen-prostitution-ring-clayton-fox-victim-speaks-about-grooming-drug-abuse-indecent-assault/5ZE25F64PNGXLHDKCSWN74T5SY](https://www.nzherald.co.nz/rotorua-daily-post/news/rotorua-teen-prostitution-ring-clayton-fox-victim-speaks-about-grooming-drug-abuse-indecent-assault/5ZE25F64PNGXLHDKCSWN74T5SY)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T21:09:01+00:00
+
+'It happens so easily and you don’t even realise before it’s too late.'
+
+## Lady Gabriella Windsor’s husband Thomas Kingston died from ‘catastrophic’ head wound
+ - [https://www.nzherald.co.nz/lifestyle/lady-gabriella-windsors-husband-thomas-kingston-died-from-catastrophic-head-wound/5JT5MUKRZFFFXAEBLTMDOH353U](https://www.nzherald.co.nz/lifestyle/lady-gabriella-windsors-husband-thomas-kingston-died-from-catastrophic-head-wound/5JT5MUKRZFFFXAEBLTMDOH353U)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T20:48:21+00:00
+
+The 45-year-old was found dead with a gun by his side at his parents’ home.
+
+## Popular jewellery store Silvermoon goes into liquidation
+ - [https://www.nzherald.co.nz/business/popular-jewellery-store-silvermoon-goes-into-liquidation/NJ2MCUZYNZHDPPAXJWPAEOWKTE](https://www.nzherald.co.nz/business/popular-jewellery-store-silvermoon-goes-into-liquidation/NJ2MCUZYNZHDPPAXJWPAEOWKTE)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T19:42:30+00:00
+
+Harsh economic conditions blamed for store's sad demise.
+
+## Intense weather ahead: Autumn storm to sweep New Zealand after cloudy day today
+ - [https://www.nzherald.co.nz/nz/intense-weather-ahead-autumn-storm-to-sweep-new-zealand-after-cloudy-day-today/X5YXBPP7SVB6TISJGULKZGFY3U](https://www.nzherald.co.nz/nz/intense-weather-ahead-autumn-storm-to-sweep-new-zealand-after-cloudy-day-today/X5YXBPP7SVB6TISJGULKZGFY3U)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T17:30:25+00:00
+
+In the meantime, Auckland has a forecast high of 23C for Saturday, 24C for Sunday, Monday.
+
+## Flaxmere New World closure: What happens to other businesses when a supermarket shuts up shop?
+ - [https://www.nzherald.co.nz/hawkes-bay-today/news/flaxmere-new-world-closure-what-happens-to-other-businesses-when-a-supermarket-shuts-up-shop/GN5Y2PUPWFG5THDDYNZYJQQ3GY](https://www.nzherald.co.nz/hawkes-bay-today/news/flaxmere-new-world-closure-what-happens-to-other-businesses-when-a-supermarket-shuts-up-shop/GN5Y2PUPWFG5THDDYNZYJQQ3GY)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T17:00:00+00:00
+
+Variety store owner Thomas Park hoped for a few customers, but the car park was empty.
+
+## Blood cancer crisis: Retired doctor sells family home to buy myeloma medication
+ - [https://www.nzherald.co.nz/nz/blood-cancer-crisis-retired-doctor-sells-family-home-to-buy-myeloma-medication/UZ6KEJPHCJBIHMP6UTJZXCMLY4](https://www.nzherald.co.nz/nz/blood-cancer-crisis-retired-doctor-sells-family-home-to-buy-myeloma-medication/UZ6KEJPHCJBIHMP6UTJZXCMLY4)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T16:00:00+00:00
+
+Dr Logan McLennan's former patients are stepping forward to help the beloved GP.
+
+## Faith Fruean fleeced young relatives by controlling bank accounts, taking out loans
+ - [https://www.nzherald.co.nz/nz/faith-fruean-fleeced-young-relatives-by-controlling-bank-accounts-taking-out-loans/R46CNECPKNFNJLRYGQHFUHZICE](https://www.nzherald.co.nz/nz/faith-fruean-fleeced-young-relatives-by-controlling-bank-accounts-taking-out-loans/R46CNECPKNFNJLRYGQHFUHZICE)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T16:00:00+00:00
+
+Faith Fruean took advantage of the migrants, using their wages to live a bling lifestyle.
+
+## Family who lost child Tegan Ariel Chen in freak accident: ‘The pain has to be felt’
+ - [https://www.nzherald.co.nz/nz/the-pain-has-to-be-felt-family-describes-heartache-of-losing-child-in-freak-accident/CALRZTWYJRCQZIMONLDFGIZWQQ](https://www.nzherald.co.nz/nz/the-pain-has-to-be-felt-family-describes-heartache-of-losing-child-in-freak-accident/CALRZTWYJRCQZIMONLDFGIZWQQ)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T16:00:00+00:00
+
+Tegan Chen's family have shared an achingly honest account of their grief.
+
+## Former worker claims Air New Zealand ignored previous near-misses at site where man was crushed by forklift
+ - [https://www.nzherald.co.nz/nz/former-worker-claims-air-new-zealand-ignored-previous-near-misses-at-site-where-man-was-crushed-by-forklift/VMCDB7N2PFH7HKYWLEK4XOHA3Y](https://www.nzherald.co.nz/nz/former-worker-claims-air-new-zealand-ignored-previous-near-misses-at-site-where-man-was-crushed-by-forklift/VMCDB7N2PFH7HKYWLEK4XOHA3Y)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T16:00:00+00:00
+
+Man describes site as dangerous and said accident should never have happened.
+
+## Funeral fraud: how scammers make money out of fake Facebook links
+ - [https://www.nzherald.co.nz/nz/funeral-fraud-how-scammers-make-money-out-of-fake-facebook-links/3EEFW3DXKFAMJETVS5VM7NPGMM](https://www.nzherald.co.nz/nz/funeral-fraud-how-scammers-make-money-out-of-fake-facebook-links/3EEFW3DXKFAMJETVS5VM7NPGMM)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T16:00:00+00:00
+
+Scammers increasingly target communities mourning the deaths of loved ones.
+
+## Labour Party problems: When ideas are lacking and credibility goes - Bruce Cotteril
+ - [https://www.nzherald.co.nz/business/labour-party-problems-when-ideas-are-lacking-and-credibility-goes-bruce-cotteril/5WAHWTAPPRBVZDJHIC5FQJ7TRQ](https://www.nzherald.co.nz/business/labour-party-problems-when-ideas-are-lacking-and-credibility-goes-bruce-cotteril/5WAHWTAPPRBVZDJHIC5FQJ7TRQ)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T16:00:00+00:00
+
+OPINION: Some might survive if the rhetoric changes; meanwhile it’s looking embarrassing.
+
+## Nadine and Dan Higgins’ baby joy: ‘We’ve hit the jackpot!’
+ - [https://www.nzherald.co.nz/lifestyle/nadine-and-dan-higgins-baby-joy-weve-hit-the-jackpot/SMPDW2PQCNC2LER4CS5K2FS2SQ](https://www.nzherald.co.nz/lifestyle/nadine-and-dan-higgins-baby-joy-weve-hit-the-jackpot/SMPDW2PQCNC2LER4CS5K2FS2SQ)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T16:00:00+00:00
+
+The broadcaster describes how grateful she is after years of trying to conceive.
+
+## New Zealand v Australia: Black Caps spooked by old ghosts in first test - Andrew Alderson
+ - [https://www.nzherald.co.nz/sport/new-zealand-v-australia-black-caps-spooked-by-old-ghosts-in-first-test-andrew-alderson/4WXVTXPTDZD7PEBWJIOC5ZE7DU](https://www.nzherald.co.nz/sport/new-zealand-v-australia-black-caps-spooked-by-old-ghosts-in-first-test-andrew-alderson/4WXVTXPTDZD7PEBWJIOC5ZE7DU)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T16:00:00+00:00
+
+New Zealand made a meal of their attempt to upset Australia at the Basin Reserve.
+
+## Rumours swirl amid concern over the Princess of Wales
+ - [https://www.nzherald.co.nz/lifestyle/rumours-swirl-amid-concern-over-the-princess-of-wales/YCIQ3VO7DJCOPHJI4RUYAW7YYQ](https://www.nzherald.co.nz/lifestyle/rumours-swirl-amid-concern-over-the-princess-of-wales/YCIQ3VO7DJCOPHJI4RUYAW7YYQ)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T16:00:00+00:00
+
+New York Times: Catherine hasn't been seen in public since Christmas Day.
+
+## Should I pay down debt or invest my money?  - Mary Holm
+ - [https://www.nzherald.co.nz/business/should-i-pay-down-debt-or-invest-my-money-mary-holm/5J452YMA5NCNDB2GNNCFPBTH54](https://www.nzherald.co.nz/business/should-i-pay-down-debt-or-invest-my-money-mary-holm/5J452YMA5NCNDB2GNNCFPBTH54)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T16:00:00+00:00
+
+OPINION: Mary Holm says there are two things to consider.
+
+## Blues v Highlanders result: Blues make it two from two in Super Rugby Pacific
+ - [https://www.nzherald.co.nz/sport/blues-v-highlanders-result-blues-make-it-two-from-two-in-super-rugby-pacific/TS6KUC3TE5H6LKKHULHPLFOXAE](https://www.nzherald.co.nz/sport/blues-v-highlanders-result-blues-make-it-two-from-two-in-super-rugby-pacific/TS6KUC3TE5H6LKKHULHPLFOXAE)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T09:12:44+00:00
+
+There is nothing subtle about Vern Cotter’s Blues.
+
+## Blues v Highlanders live, Super Rugby Pacific round two clash
+ - [https://www.nzherald.co.nz/sport/blues-v-highlanders-live-super-rugby-pacific-round-two-clash/D7LDBRJHQJFQJODRUIDFD54IZU](https://www.nzherald.co.nz/sport/blues-v-highlanders-live-super-rugby-pacific-round-two-clash/D7LDBRJHQJFQJODRUIDFD54IZU)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T06:45:00+00:00
+
+The Blues and Highlanders clash in Melbourne.
+
+## New Zealand v Australia: Black Caps deliver grisly cricket on day two of first test at Basin Reserve
+ - [https://www.nzherald.co.nz/sport/new-zealand-v-australia-black-caps-deliver-some-of-their-grisliest-cricket-in-a-decade-on-day-two-of-first-test/25RV2YHNX5DUPJIGGGVXZRRZLM](https://www.nzherald.co.nz/sport/new-zealand-v-australia-black-caps-deliver-some-of-their-grisliest-cricket-in-a-decade-on-day-two-of-first-test/25RV2YHNX5DUPJIGGGVXZRRZLM)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T06:02:31+00:00
+
+New Zealand ended day two of the first test against Australia hoping for another miracle.
+
+## Coroner’s findings on Olivia Keightley-Trigg crash death in Taranaki released
+ - [https://www.nzherald.co.nz/nz/coroner-releases-findings-into-the-crash-death-of-taranakis-olivia-keightley-trigg/5ISV7HBLZVH3LM7RZJ3CDSJKG4](https://www.nzherald.co.nz/nz/coroner-releases-findings-into-the-crash-death-of-taranakis-olivia-keightley-trigg/5ISV7HBLZVH3LM7RZJ3CDSJKG4)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T05:13:03+00:00
+
+Olivia Keightley-Trigg was killed in 2018 by a dangerous driver.
+
+## Christopher Luxon’s short-lived attempt to claim taxpayer funded accommodation allowance was never going to be defensible
+ - [https://www.nzherald.co.nz/nz/politics/christopher-luxons-short-lived-attempt-to-claim-taxpayer-funded-accommodation-allowance-was-never-going-to-be-defensible/IC7WOUAWHBASDIOJTHCRY7H3BM](https://www.nzherald.co.nz/nz/politics/christopher-luxons-short-lived-attempt-to-claim-taxpayer-funded-accommodation-allowance-was-never-going-to-be-defensible/IC7WOUAWHBASDIOJTHCRY7H3BM)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T04:24:03+00:00
+
+Luxon caved in on the allowance for his apartment within two hours of defending it.
+
+## Newshub closure: Freelancers, contractors also set to lose jobs but weren’t in ‘all-staff’ meeting
+ - [https://www.nzherald.co.nz/nz/newshub-closure-freelancers-contractors-also-set-to-lose-jobs-but-werent-in-all-staff-meeting/O2IKGOSP3ZANLBBXHTYBJXDLQE](https://www.nzherald.co.nz/nz/newshub-closure-freelancers-contractors-also-set-to-lose-jobs-but-werent-in-all-staff-meeting/O2IKGOSP3ZANLBBXHTYBJXDLQE)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T03:59:32+00:00
+
+A source told the Herald freelance workers weren’t invited to this week’s meeting.
+
+## The Willy Wonka Experience in Glasgow, sort of explained
+ - [https://www.nzherald.co.nz/entertainment/the-willy-wonka-glasgow-experience-in-glasgow-sort-of-explained/XFPEEUMG3NHGXKARYRPPBEQ7SM](https://www.nzherald.co.nz/entertainment/the-willy-wonka-glasgow-experience-in-glasgow-sort-of-explained/XFPEEUMG3NHGXKARYRPPBEQ7SM)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T03:26:06+00:00
+
+In case you missed it, here's why everyone is talking about this 'immersive experience'.
+
+## AT Transit bus passenger stabbed driver with hunting knife in unprovoked Mt Roskill attack
+ - [https://www.nzherald.co.nz/nz/crime/at-transit-bus-passenger-stabbed-driver-with-hunting-knife-in-unprovoked-mt-roskill-attack/QI6OEENREBEQ7OXQ64WN2BP3AU](https://www.nzherald.co.nz/nz/crime/at-transit-bus-passenger-stabbed-driver-with-hunting-knife-in-unprovoked-mt-roskill-attack/QI6OEENREBEQ7OXQ64WN2BP3AU)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T03:00:00+00:00
+
+The driver had allowed a passenger to ride for free, but he became enraged anyway.
+
+## Christopher Luxon’s $52k accommodation allowance: Prime Minister insists he’s ‘entitled’; Labour blasts ‘hypocrisy’
+ - [https://www.nzherald.co.nz/nz/politics/pm-christopher-luxon-says-hes-entitled-to-52k-accommodation-allowance/RHF2L5U45ZFTXM5JK5PI7EENRU](https://www.nzherald.co.nz/nz/politics/pm-christopher-luxon-says-hes-entitled-to-52k-accommodation-allowance/RHF2L5U45ZFTXM5JK5PI7EENRU)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T02:57:04+00:00
+
+Labour says PM 'treating hard-working Kiwis like a bottomless ATM'.
+
+## Heath Ledger’s death: New details revealed by Hollywood director
+ - [https://www.nzherald.co.nz/entertainment/heath-ledgers-death-new-details-revealed-by-hollywood-director/7AFNWTL5E5AKHKQ5KCG3FIMVQI](https://www.nzherald.co.nz/entertainment/heath-ledgers-death-new-details-revealed-by-hollywood-director/7AFNWTL5E5AKHKQ5KCG3FIMVQI)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T02:16:24+00:00
+
+A Hollywood director has shared details about the moments after the star was found.
+
+## Herald afternoon quiz: March 1
+ - [https://www.nzherald.co.nz/nz/herald-afternoon-quiz-march-1/3NWFYTFVPFES5JXHLCAW3KCISA](https://www.nzherald.co.nz/nz/herald-afternoon-quiz-march-1/3NWFYTFVPFES5JXHLCAW3KCISA)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T02:00:00+00:00
+
+Test your knowledge with the Herald's afternoon quiz.
+
+## Government instructs banks to urgently implement new safeguards to protect customers from scams
+ - [https://www.nzherald.co.nz/nz/government-instructs-banks-to-urgently-implement-new-safeguards-to-protect-customers-from-scams/BOB3HHL3PZA4FGALGSCHTOSTHI](https://www.nzherald.co.nz/nz/government-instructs-banks-to-urgently-implement-new-safeguards-to-protect-customers-from-scams/BOB3HHL3PZA4FGALGSCHTOSTHI)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T01:16:44+00:00
+
+Banks have been told to investigate a voluntary reimbursement scheme for victims.
+
+## Auckland man arrested for allegedly offering gift vouchers for ‘sexual activity’ with underage girls
+ - [https://www.nzherald.co.nz/nz/auckland-man-arrested-over-gift-vouchers-for-sexual-activity-with-underage-girls-allegations/WFILNDQQJNDJRAGRGPIOPQQ7K4](https://www.nzherald.co.nz/nz/auckland-man-arrested-over-gift-vouchers-for-sexual-activity-with-underage-girls-allegations/WFILNDQQJNDJRAGRGPIOPQQ7K4)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T01:04:49+00:00
+
+The 49-year-old talked to 'a number of' underage girls through social media, police say.
+
+## 9 ways to survive small talk at parties and social events
+ - [https://www.nzherald.co.nz/lifestyle/9-ways-to-survive-small-talk-at-parties-and-social-events/MQV2GMXEBVGBVLKNSHXTXF77EU](https://www.nzherald.co.nz/lifestyle/9-ways-to-survive-small-talk-at-parties-and-social-events/MQV2GMXEBVGBVLKNSHXTXF77EU)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T01:01:00+00:00
+
+If you're socialising this weekend, here are some expert tips for the art of conversation.
+
+## Prince Harry and Meghan Markle to get increased NYPD protection after ‘near catastrophic car chase’
+ - [https://www.nzherald.co.nz/lifestyle/prince-harry-and-meghan-markle-to-get-increased-nypd-protection-after-near-catastrophic-car-chase/UOJYOQBYQFA3NGZD23MM4ASW3M](https://www.nzherald.co.nz/lifestyle/prince-harry-and-meghan-markle-to-get-increased-nypd-protection-after-near-catastrophic-car-chase/UOJYOQBYQFA3NGZD23MM4ASW3M)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T00:46:41+00:00
+
+Changes were made after a review found ‘dangerous and unacceptable behaviour’.
+
+## Media Insider: Newshub, TVNZ bosses’ secret discussions for joint news service one week before closure announcement
+ - [https://www.nzherald.co.nz/business/media-insider-newshub-tvnz-bosses-secret-discussions-for-joint-news-service-one-week-before-closure-announcement/M5AAXXL5O5BNVI7HBSJ37PZC4A](https://www.nzherald.co.nz/business/media-insider-newshub-tvnz-bosses-secret-discussions-for-joint-news-service-one-week-before-closure-announcement/M5AAXXL5O5BNVI7HBSJ37PZC4A)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-03-01T00:04:01+00:00
+
+It is understood the proposal went to an extraordinary general meeting of the TVNZ board.
+

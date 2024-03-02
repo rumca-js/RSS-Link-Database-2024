@@ -1,0 +1,201 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Police Now Need Warrant For IP Addresses, Canada's Top Court Rules
+ - [https://news.slashdot.org/story/24/03/01/2136253/police-now-need-warrant-for-ip-addresses-canadas-top-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/01/2136253/police-now-need-warrant-for-ip-addresses-canadas-top-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T23:38:09.493624+00:00
+
+The Supreme Court of Canada ruled today that police must now have a warrant or court order to obtain a person or organization's IP address. CBC News reports: The top court was asked to consider whether an IP address alone, without any of the personal information attached to it, was protected by an expectation of privacy under the Charter. In a five-four split decision, the court said a reasonable expectation of privacy is attached to the numbers making up a person's IP address, and just getting those numbers alone constitutes a search. Writing for the majority, Justice Andromache Karakatsanis wrote that an IP address is "the crucial link between an internet user and their online activity." "Thus, the subject matter of this search was the information these IP addresses could reveal about specific internet users including, ultimately, their identity." Writing for the four dissenting judges, Justice Suzanne Cote disagreed with that central point, saying there should be no expect
+
+## Hands Up If You Want To Volunteer For Layoffs, IBM Tells Staff
+ - [https://slashdot.org/story/24/03/01/2143247/hands-up-if-you-want-to-volunteer-for-layoffs-ibm-tells-staff?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/01/2143247/hands-up-if-you-want-to-volunteer-for-layoffs-ibm-tells-staff?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T23:38:07.960291+00:00
+
+Paul Kunert writes in an exclusive report for The Register: IBM is asking staff who want to take voluntary redundancy to raise their hand as it embarks on a new round of global job cuts, though roles in Europe and within a handful of departments are expected to shoulder the brunt. The Resource Action, as Big Blue likes to euphemistically refer to layoffs, shouldn't be a massive surprise to anyone with more than a passing interest in IBM as it was signaled last month in a Q4 earnings call. Insiders told us this latest process is not considered to be financial but "transformative," although IBM was quite clear in January when CFO James Kavanaugh discussed achieving "$3 billion annual run rate in savings by the end of 2024." This is a third bigger than the initial ambition. The Reg understands that 80 percent of the reduction target is aimed at Enterprise Operations &amp; Support (EO&amp;S) and Q2C missions, Finance &amp; Operations (including Procurement, CIO, HR, Marketing &am
+
+## A Leaky Database Spilled 2FA Codes For the World's Tech Giants
+ - [https://developers.slashdot.org/story/24/03/01/2130254/a-leaky-database-spilled-2fa-codes-for-the-worlds-tech-giants?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://developers.slashdot.org/story/24/03/01/2130254/a-leaky-database-spilled-2fa-codes-for-the-worlds-tech-giants?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T22:33:36.087571+00:00
+
+An anonymous reader quotes a report from TechCrunch: A technology company that routes millions of SMS text messages across the world has secured an exposed database that was spilling one-time security codes that may have granted users' access to their Facebook, Google and TikTok accounts. The Asian technology and internet company YX International manufactures cellular networking equipment and provides SMS text message routing services. SMS routing helps to get time-critical text messages to their proper destination across various regional cell networks and providers, such as a user receiving an SMS security code or link for logging in to online services. YX International claims to send 5 million SMS text messages daily. But the technology company left one of its internal databases exposed to the internet without a password, allowing anyone to access the sensitive data inside using only a web browser, just with knowledge of the database's public IP address.
+ 
+Anurag Sen, a goo
+
+## Worldwide Obesity Tops 1 Billion
+ - [https://news.slashdot.org/story/24/03/01/190220/worldwide-obesity-tops-1-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/01/190220/worldwide-obesity-tops-1-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T21:27:58.039460+00:00
+
+Rates of obesity in the U.S. and around the world have more than doubled over the past three decades, according to a new study in The Lancet. From a report: More than 1 billion people worldwide now have obesity, a sign of worsening nutrition that's also raising the risk of leading causes of death and disease such as high blood pressure, cancer and diabetes. The global rate of obesity more than doubled among women, from 8.8% to 18.5%, and nearly tripled in men, from 4.8% to 14.0%, between 1990 and 2022, according to research that pulls from over 3,600 studies. 
+
+The obesity rate among children and adolescents increased by roughly four times, from 1.7% to 6.9% in girls and 2.1% to 9.3% in boys. Just over 4 in 10 adults and 2 in 5 kids in the U.S. are obese. The U.S. now has the world's 10th-highest male obesity rate and 36th-highest female obesity rate. In 1990, the U.S. had the world's 17th-highest male obesity rate and the 41st-highest female obesity rate.<p><div class="share
+
+## Stack Overflow To Charge LLM Developers For Access To Its Coding Content
+ - [https://developers.slashdot.org/story/24/03/01/1912250/stack-overflow-to-charge-llm-developers-for-access-to-its-coding-content?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://developers.slashdot.org/story/24/03/01/1912250/stack-overflow-to-charge-llm-developers-for-access-to-its-coding-content?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T21:27:56.497988+00:00
+
+Stack Overflow has launched an API that will require all AI models trained on its coding question-and-answer content to attribute sources linking back to its posts. And it will cost money to use the site's content. From a report: "All products based on models that consume public Stack Overflow data are required to provide attribution back to the highest relevance posts that influenced the summary given by the model," it confirmed in a statement. The Overflow API is designed to act as a knowledge database to help developers build more accurate and helpful code-generation models. Google announced it was using the service to access relevant information from Stack Overflow via the API and integrate the data with its latest Gemini models, and for its cloud storage console.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Stack+Overflow+To+Charge+LLM+Developers+For+Access+To+Its+Coding+Content%3A+https%3A%2F%2Fdevelopers.slashdot.org%2Fstory
+
+## Russia Acknowledges Continuing Air Leak From Its Segment of Space Station
+ - [https://slashdot.org/story/24/03/01/1551242/russia-acknowledges-continuing-air-leak-from-its-segment-of-space-station?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/01/1551242/russia-acknowledges-continuing-air-leak-from-its-segment-of-space-station?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T20:25:11.320870+00:00
+
+Russian space officials have acknowledged a continuing air leak from the Russian segment of the International Space Station, but said it poses no danger to its crew. From a report: The Roscosmos state corporation said that specialists were monitoring the leak and the crew "regularly conducts work to locate and fix possible spots of the leak." It said in a statement carried by Russian news agencies: "There is no threat to the crew or the station itself." Joel Montalbano, Nasa's station project manager, had noted on Wednesday that the leak in the Russian segment has increased but emphasised that it remained small and posed no threat to the crew's safety or vehicle operations. 
+
+As the space outpost is ageing, the crew has to spend more time to repair and maintain it, Roscosmos said. Russian space officials first reported a leak in the Zvezda module in August 2020 and later that year Russian crew members located what they believed was its source and tried to fix it. In November 
+
+## Nikon and NASA Are Putting a Mirrorless Camera on the Moon
+ - [https://science.slashdot.org/story/24/03/01/1734224/nikon-and-nasa-are-putting-a-mirrorless-camera-on-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/03/01/1734224/nikon-and-nasa-are-putting-a-mirrorless-camera-on-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T20:25:09.762807+00:00
+
+Nikon is working with NASA to make a mirrorless camera that astronauts will use during the agency's incoming Artemis III mission to document their return to the Moon. From a report: On Thursday, NASA announced that it had entered a Space Act agreement with Nikon to develop the Handheld Universal Lunar Camera (HULC), a camera system designed to capture imagery in low light and survive the harsh lunar environment. The crewed Artemis III mission -- which will launch "no earlier than September 2026" -- aims to explore the lunar south pole, a region of the Moon that contains water ice within permanently shadowed craters. 
+
+That makes it an area of scientific interest, but the extreme lighting and temperature conditions pose particular technical challenges for operating equipment within the lunar south pole region. Nikon's full-frame Z9 flagship has already been used in thermal, vacuum, and radiation testing before the agreement, with a modified version of the camera forming the ba
+
+## The Business of Winding Down Startups is Booming
+ - [https://slashdot.org/story/24/03/01/1821259/the-business-of-winding-down-startups-is-booming?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/01/1821259/the-business-of-winding-down-startups-is-booming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T20:25:08.253423+00:00
+
+Startup wind-down services are seeing rapid growth as failed startups look for help shutting down. Pitchbook: On the phone with a founder who recently wound down his seed-stage software startup, I asked him what his plan was next. Having laid off all of his employees in autumn of last year, he was the last man standing: tasked with the thankless job of shutting down the company, returning capital, and dealing with tax documents. To handle the bureaucracy, the founder used Sunset, one of the companies that sprung up last year to respond to the burgeoning industry of failed startups. 
+
+In a sign of the times, such wind-down startups are growing rapidly. Sunset saw 9x quarter-over-quarter revenue growth and a 65% monthly customer growth rate between November 2023 and January 2024. Competitor SimpleClosure, which closed a $4 million seed round this month led by Infinity Ventures, has passed the $1 million mark in annualized revenue and also recorded a monthly growth rate of over 
+
+## Carbon Emissions Reached Record High in 2023, IEA Says
+ - [https://news.slashdot.org/story/24/03/01/1854225/carbon-emissions-reached-record-high-in-2023-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/01/1854225/carbon-emissions-reached-record-high-in-2023-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T20:25:06.728879+00:00
+
+Energy-related emissions of carbon dioxide hit a record high in 2023, the International Energy Agency (IEA) said in a report on Friday. The IEA analysis showed that it rose by 410 million tonnes, or 1.1%, in 2023 to 37.4 billion tonnes. From a report: "Far from falling rapidly -- as is required to meet the global climate goals set out in the Paris Agreement -- CO2 emissions reached a new record high," the IEA said. However, the Paris-based watchdog also found clean energy including wind and solar energy, as well as electric vehicles, had helped to offset the impact of the continued burning of coal and oil growth, which was 1.3% in 2022. 
+
+The reopening of China's economy after the COVID-19 pandemic and a recovery in the aviation sector contributed to an overall rise, the IEA said in its report. Severe droughts last year in China, the United States, India, and other countries hampered hydropower production. It accounted for around 40% of the rise in emissions or 170 million to
+
+## Apple Backtracks on Removing EU Home Screen Web Apps in iOS 17.4
+ - [https://apple.slashdot.org/story/24/03/01/1652251/apple-backtracks-on-removing-eu-home-screen-web-apps-in-ios-174?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/03/01/1652251/apple-backtracks-on-removing-eu-home-screen-web-apps-in-ios-174?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T17:58:03.396662+00:00
+
+Apple is reversing its previous decision to remove support for Home Screen web apps in iOS 17.4 for EU users. Apple's statement: Previously, Apple announced plans to remove the Home Screen web apps capability in the EU as part of our efforts to comply with the DMA. The need to remove the capability was informed by the complex security and privacy concerns associated with web apps to support alternative browser engines that would require building a new integration architecture that does not currently exist in iOS. 
+
+We have received requests to continue to offer support for Home Screen web apps in iOS, therefore we will continue to offer the existing Home Screen web apps capability in the EU. This support means Home Screen web apps continue to be built directly on WebKit and its security architecture, and align with the security and privacy model for native apps on iOS. 
+
+Developers and users who may have been impacted by the removal of Home Screen web apps in the beta release
+
+## Number of Government Agencies Have Concerns About 'Sideloading' on iPhone, Apple Says
+ - [https://apple.slashdot.org/story/24/03/01/1454216/number-of-government-agencies-have-concerns-about-sideloading-on-iphone-apple-says?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/03/01/1454216/number-of-government-agencies-have-concerns-about-sideloading-on-iphone-apple-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T16:52:36.105739+00:00
+
+A number of government agencies in the European Union and elsewhere have voiced concerns about security risks as Apple opens up its iPhones and iPads to rival app stores to comply with EU tech rules, Apple said on Friday. From a report: Under the Digital Markets Act, from March 7 Apple will be required to offer alternative app stores on iPhones and allow developers to opt out of using its in-app payment system, which charges fees of up to 30%. The U.S. tech giant, which on Jan. 24 detailed the changes to bring its App Store in line with the EU rules, said "sideloading" has sparked concerns from both EU and non-EU government agencies and users.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Number+of+Government+Agencies+Have+Concerns+About+'Sideloading'+on+iPhone%2C+Apple+Says%3A+https%3A%2F%2Fapple.slashdot.org%2Fstory%2F24%2F03%2F01%2F1454216%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_i
+
+## HP Wants You To Pay Up To $36/Month To Rent a Printer That It Monitors
+ - [https://hardware.slashdot.org/story/24/03/01/1615254/hp-wants-you-to-pay-up-to-36month-to-rent-a-printer-that-it-monitors?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/03/01/1615254/hp-wants-you-to-pay-up-to-36month-to-rent-a-printer-that-it-monitors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T16:52:34.604420+00:00
+
+HP launched a subscription service this week that rents people a printer, allots them a specific amount of printed pages, and sends them ink for a monthly fee. From a report: HP is framing its service as a way to simplify printing for families and small businesses, but the deal also comes with monitoring and a years-long commitment. Prices range from $6.99 per month for a plan that includes an HP Envy printer (the current model is the 6020e) and 20 printed pages. The priciest plan includes an HP OfficeJet Pro rental and 700 printed pages for $35.99 per month. 
+
+HP says it will provide subscribers with ink deliveries when they're running low and 24/7 support via phone or chat (although it's dubious how much you want to rely on HP support). Support doesn't include on or offsite repairs or part replacements. The subscription's terms of service (TOS) note that the service doesn't cover damage or failure caused by, unsurprisingly, "use of non-HP media supplies and other products" 
+
+## Google is Blocking RCS on Rooted Android Devices
+ - [https://tech.slashdot.org/story/24/03/01/146214/google-is-blocking-rcs-on-rooted-android-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/01/146214/google-is-blocking-rcs-on-rooted-android-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T15:47:40.999662+00:00
+
+Google is cracking down on rooted Android devices, blocking multiple people from using the RCS message feature in Google Messages. From a report: Users with rooted phones -- a process that unlocks privileged access to the Android operating system, like jailbreaking iPhones -- have made several reports on the Google Messages support page, Reddit, and XDA's web forum over the last few months, finding they're suddenly unable to send or receive RCS messages. One example from Reddit user u/joefuf shows that RCS messages would simply vanish after hitting the send button. Several reports also mention that Google Messages gave no indication that RCS chat was no longer working, and was still showing as connected and working in Google Messages. In a statement sent to the Verge where we asked if Google is blocking rooted devices from using RCS, Google communications manager Ivy Hunt said the company is "ensuring that message-issuing/receiving devices are following the operating measures
+
+## Google Pulls Popular Indian Apps From Store Over Fees Violation
+ - [https://tech.slashdot.org/story/24/03/01/1441203/google-pulls-popular-indian-apps-from-store-over-fees-violation?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/01/1441203/google-pulls-popular-indian-apps-from-store-over-fees-violation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T14:42:53.115651+00:00
+
+An anonymous reader shares a report: Google pulled more than a dozen popular Indian apps including recruitment platform Naukri, matrimony service Shaadi, audio storytelling platforms Kuku FM and Stage and real-estate manager 99acres from Play Store on Friday after warning that it will be taking actions against developers who have persistently not complied with its billing policies, escalating a three-year dispute in what is the company's largest market by users. Google said that 10 companies in the country, including "many well-established" names it did not disclose, had avoided paying fees despite benefiting from the platform. 
+
+The Android-maker, owned by Alphabet, said a small group of developers in India had more than three years to prepare and comply with Play Store&#226;(TM)s payments policy but opted against it. These firms continue to comply with payment policies of other app stores, Google said. Some Android apps of matrimony platforms Shaadi, Matrimony.com and Bhara
+
+## How the Pentagon Learned To Use Targeted Ads To Find Its Targets
+ - [https://yro.slashdot.org/story/24/02/29/2352251/how-the-pentagon-learned-to-use-targeted-ads-to-find-its-targets?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/02/29/2352251/how-the-pentagon-learned-to-use-targeted-ads-to-find-its-targets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T13:37:58.377883+00:00
+
+An anonymous reader quotes an excerpt from a Wired article: In 2019, a government contractor and technologist named Mike Yeagley began making the rounds in Washington, DC. He had a blunt warning for anyone in the country's national security establishment who would listen: The US government had a Grindr problem. A popular dating and hookup app, Grindr relied on the GPS capabilities of modern smartphones to connect potential partners in the same city, neighborhood, or even building. The app can show how far away a potential partner is in real time, down to the foot. But to Yeagley, Grindr was something else: one of the tens of thousands of carelessly designed mobile phone apps that leaked massive amounts of data into the opaque world of online advertisers. That data, Yeagley knew, was easily accessible by anyone with a little technical know-how. So Yeagley -- a technology consultant then in his late forties who had worked in and around government projects nearly his entire care
+
+## Elon Musk Sues OpenAI and Sam Altman
+ - [https://slashdot.org/story/24/03/01/1218218/elon-musk-sues-openai-and-sam-altman?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/01/1218218/elon-musk-sues-openai-and-sam-altman?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T12:32:38.903833+00:00
+
+Elon Musk has sued OpenAI, its co-founders Sam Altman and Greg Brockman and affiliated entities, alleging the ChatGPT makers have breached their original contractual agreements by pursuing profits instead of the non-profit's founding mission to develop AI that benefits humanity. TechCrunch: Musk, a co-founder and early backer of OpenAI, claims Altman and Brockman convinced him to help found and bankroll the startup in 2015 with promises it would be a non-profit focused on countering the competitive threat from Google. The founding agreement required OpenAI to make its technology "freely available" to the public, the lawsuit alleges. 
+
+The lawsuit, filed in a court in San Francisco late Thursday, says that OpenAI, the world's most valuable AI startup, has shifted to a for-profit model focused on commercializing its AGI research after partnering with Microsoft, the world's most valuable company that has invested about $13 billion into the startup. "In reality, however, OpenAI, 
+
+## Government Watchdog Hacked US Federal Agency To Stress-Test Its Cloud Security
+ - [https://yro.slashdot.org/story/24/02/29/2335241/government-watchdog-hacked-us-federal-agency-to-stress-test-its-cloud-security?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/02/29/2335241/government-watchdog-hacked-us-federal-agency-to-stress-test-its-cloud-security?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T10:22:13.124726+00:00
+
+In a series of tests using fake data, a U.S. government watchdog was able to steal more than 1GB of seemingly sensitive personal data from the cloud systems of the U.S. Department of the Interior. The experiment is detailed in a new report by the Department of the Interior's Office of the Inspector General (OIG), published last week. TechCrunch reports: The goal of the report was to test the security of the Department of the Interior's cloud infrastructure, as well as its "data loss prevention solution," software that is supposed to protect the department's most sensitive data from malicious hackers. The tests were conducted between March 2022 and June 2023, the OIG wrote in the report. The Department of the Interior manages the country's federal land, national parks and a budget of billions of dollars, and hosts a significant amount of data in the cloud. According to the report, in order to test whether the Department of the Interior's cloud infrastructure was secure, the OI
+
+## AI-Generated Articles Prompt Wikipedia To Downgrade CNET's Reliability Rating
+ - [https://news.slashdot.org/story/24/02/29/2331206/ai-generated-articles-prompt-wikipedia-to-downgrade-cnets-reliability-rating?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/02/29/2331206/ai-generated-articles-prompt-wikipedia-to-downgrade-cnets-reliability-rating?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T08:04:16.136508+00:00
+
+Wikipedia has downgraded tech website CNET's reliability rating following extensive discussions among its editors regarding the impact of AI-generated content on the site's trustworthiness. "The decision reflects concerns over the reliability of articles found on the tech news outlet after it began publishing AI-generated stories in 2022," adds Ars Technica. Futurism first reported the news. From the report: Wikipedia maintains a page called "Reliable sources/Perennial sources" that includes a chart featuring news publications and their reliability ratings as viewed from Wikipedia's perspective. Shortly after the CNET news broke in January 2023, Wikipedia editors began a discussion thread on the Reliable Sources project page about the publication. "CNET, usually regarded as an ordinary tech RS [reliable source], has started experimentally running AI-generated articles, which are riddled with errors," wrote a Wikipedia editor named David Gerard. "So far the experiment is not g
+
+## ExxonMobil Is Suing Investors Who Want Faster Climate Action
+ - [https://yro.slashdot.org/story/24/02/29/233215/exxonmobil-is-suing-investors-who-want-faster-climate-action?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/02/29/233215/exxonmobil-is-suing-investors-who-want-faster-climate-action?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T03:40:16.604508+00:00
+
+An anonymous reader quotes a report from NPR: ExxonMobil faces dozens of lawsuits from states and localities alleging the company lied for decades about its role in climate change and the dangers of burning fossil fuels. But now, ExxonMobil is going on the offensive with a lawsuit targeting investors who want the company to slash pollution that's raising global temperatures. Investors in publicly-traded companies like ExxonMobil try to shape corporate policies by filing shareholder proposals that are voted on at annual meetings. ExxonMobil says it's fed up with a pair of investor groups that it claims are abusing the system by filing similar proposals year after year in an effort to micromanage its business.
+ 
+ExxonMobil's lawsuit points to growing tensions between companies and activist investors calling for corporations to do more to shrink their climate impact and prepare for a hotter world. Interest groups on both sides of the case say it could unleash a wave of corporate
+
+## Calendar Meeting Links Used To Spread Mac Malware
+ - [https://news.slashdot.org/story/24/02/29/2249235/calendar-meeting-links-used-to-spread-mac-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/02/29/2249235/calendar-meeting-links-used-to-spread-mac-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T02:35:06.191710+00:00
+
+Hackers targeting individuals in the cryptocurrency sector are using a sophisticated phishing scheme that begins with a malicious link on Calendly. "The attackers impersonate established cryptocurrency investors and ask to schedule a video conference call," reports Krebs on Security. "But clicking the meeting link provided by the scammers prompts the user to run a script that quietly installs malware on macOS systems." From the report: A search in Google for a string of text from that script turns up a December 2023 blog post from cryptocurrency security firm SlowMist about phishing attacks on Telegram from North Korean state-sponsored hackers. "When the project team clicks the link, they encounter a region access restriction," SlowMist wrote. "At this point, the North Korean hackers coax the team into downloading and running a 'location-modifying' malicious script. Once the project team complies, their computer comes under the control of the hackers, leading to the theft of 
+
+## The FBI Is Using Push Notifications To Catch Sexual Predators
+ - [https://yro.slashdot.org/story/24/02/29/2231222/the-fbi-is-using-push-notifications-to-catch-sexual-predators?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/02/29/2231222/the-fbi-is-using-push-notifications-to-catch-sexual-predators?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T01:30:30.523136+00:00
+
+According to the Washington Post (paywalled), the FBI is using mobile push notification data to unmask people suspected of serious crimes, such as pedophilia, terrorism, and murder. Gizmodo reports: The Post did a little digging into court records and found evidence of at least 130 search warrants filed by the feds for push notification data in cases spanning 14 states. In those cases, FBI officials asked tech companies like Google, Apple, and Facebook to fork over data related to a suspect's mobile notifications, then used the data to implicate the suspect in criminal behavior linked to a particular app, even though many of those apps were supposedly anonymous communication platforms, like Wickr.
+ 
+How exactly is this possible? Push notifications, which are provided by a mobile operating system provider, include embedded metadata that can be examined to understand the use of the mobile apps on a particular phone. Apps come laced with a quiet identifier, a "push token," which
+
+## Court Orders Maker of Pegasus Spyware To Hand Over Code To WhatsApp
+ - [https://tech.slashdot.org/story/24/02/29/2239229/court-orders-maker-of-pegasus-spyware-to-hand-over-code-to-whatsapp?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/02/29/2239229/court-orders-maker-of-pegasus-spyware-to-hand-over-code-to-whatsapp?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T01:30:28.800601+00:00
+
+Stephanie Kirchgaessner reports via The Guardian: NSO Group, the maker of one the world's most sophisticated cyber weapons, has been ordered by a US court to hand its code for Pegasus and other spyware products to WhatsApp as part of the company's ongoing litigation. The decision by Judge Phyllis Hamilton is a major legal victory for WhatsApp, the Meta-owned communication app which has been embroiled in a lawsuit against NSO since 2019, when it alleged that the Israeli company's spyware had been used against 1,400 WhatsApp users over a two-week period.
+ 
+NSO's Pegasus code, and code for other surveillance products it sells, is seen as a closely and highly sought state secret. NSO is closely regulated by the Israeli ministry of defense, which must review and approve the sale of all licences to foreign governments. In reaching her decision, Hamilton considered a plea by NSO to excuse it of all its discovery obligations in the case due to "various US and Israeli restrictions."
+ 
+
+## Ford EV Owners Can Now Charge On Tesla's Network
+ - [https://hardware.slashdot.org/story/24/02/29/2139210/ford-ev-owners-can-now-charge-on-teslas-network?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/02/29/2139210/ford-ev-owners-can-now-charge-on-teslas-network?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T00:11:21.762793+00:00
+
+Starting today, Ford electric vehicle owners can use one of Tesla's 2,400+ superchargers, but there's a hitch. "They'll need to get an adapter that Ford will provide for free, although the company won't start shipping those until the end of March," notes the Associated Press. Product Reviewer MKBHD also notes that non-Teslas will need to park in a spot that blocks 2 spots where a Tesla would take up one. "If the charge station fills up the remaining spots with Teslas, the app will show 1 charger as available but the parking spot is blocked by the Mach-E," adds MKBHD. From the report: Last May, Ford became the first automaker to reach an agreement with the Austin, Texas-based Tesla to charge on its network, which is the largest and most well-placed in the U.S. Tesla has more than 26,000 plugs and nearly 2,400 Supercharger stations across the U.S. and Canada. Ford said its owners will have access to about 15,000 Tesla fast-charging plugs that are located strategically along tra
+
+## Self-Pay Gas Station Pumps Break Across NZ As Software Can't Handle Leap Day
+ - [https://tech.slashdot.org/story/24/02/29/2148251/self-pay-gas-station-pumps-break-across-nz-as-software-cant-handle-leap-day?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/02/29/2148251/self-pay-gas-station-pumps-break-across-nz-as-software-cant-handle-leap-day?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-01T00:11:19.758917+00:00
+
+An anonymous reader quotes a report from Ars Technica: Today is Leap Day, meaning that for the first time in four years, it's February 29. That's normally a quirky, astronomical factoid (or a very special birthday for some). But that unique calendar date broke gas station payment systems across New Zealand for much of the day. As reported by numerous international outlets, self-serve pumps in New Zealand were unable to accept card payments due to a problem with the gas pumps' payment processing software. The New Zealand Herald reported that the outage lasted "more than 10 hours." This effectively shuttered some gas stations, while others had to rely on in-store payments. The outage affected suppliers, including Allied Petroleum, BP, Gull, Waitomo, and Z Energy, and has reportedly been fixed. In-house payment solutions, such as BP fuel cards and the Waitomo app, reportedly still worked during the outage. A representative for Petroleum, when prompted via Facebook to "maybe reme
+
