@@ -1,0 +1,856 @@
+# Source:Associated Press News: Breaking News, Latest Headlines and Videos, URL:https://apnews.com/index.rss, language:en
+
+## Domask and Shannon help No. 13 Illinois win 91-83 to continue Wisconsin's slide
+ - [https://apnews.com/article/illinois-wisconsin-score-2bb2d4932a27c629e4bc0c0ff3b4831d](https://apnews.com/article/illinois-wisconsin-score-2bb2d4932a27c629e4bc0c0ff3b4831d)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T20:28:24+00:00
+
+Marcus Domask scored 31 points, Terrence Shannon Jr. added 23 and No. 13 Illinois continued its recent mastery of Wisconsin by defeating the slumping Badgers 91-83.
+
+## Monahan gets tiebreaking goal as Jets rally from three-goal deficit for 5-3 win over Hurricanes
+ - [https://apnews.com/article/jets-hurricanes-score-06e01c628d073546233fe810d005fe9d](https://apnews.com/article/jets-hurricanes-score-06e01c628d073546233fe810d005fe9d)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T20:22:23+00:00
+
+Sean Monahan scored the tiebreaking goal with 3:13 left and the Winnipeg Jets rallied from a three-goal deficit in the third period to beat the Carolina Hurricanes 5-3 on Saturday.
+
+## Eric Bieniemy officially named UCLA's associate head coach and offensive coordinator
+ - [https://apnews.com/article/ucla-eric-bieniemy-b756eedd4a91a07c0523a1676b6e4f53](https://apnews.com/article/ucla-eric-bieniemy-b756eedd4a91a07c0523a1676b6e4f53)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T20:05:42+00:00
+
+Eric Bieniemy will be UCLA’s associate head coach and offensive coordinator as the school officially announced the hiring on Saturday.
+
+## Oil spill, fertilizer leak from sinking of cargo ship highlight risks to Red Sea from Houthi attacks
+ - [https://apnews.com/article/red-sea-environment-cargo-ship-sinking-houthis-1e130e15ca0863ab40966ea9676cf42b](https://apnews.com/article/red-sea-environment-cargo-ship-sinking-houthis-1e130e15ca0863ab40966ea9676cf42b)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T20:04:06+00:00
+
+A vibrant fishing industry, some of the world’s largest coral reefs and desalination plants supplying millions with drinking water.
+
+## Villa scores 89th-minute winner to beat Luton and strengthen place in Champions League spots
+ - [https://apnews.com/article/luton-aston-villa-score-watkins-3e730f8d3b335ab9ae347ccaef461c7e](https://apnews.com/article/luton-aston-villa-score-watkins-3e730f8d3b335ab9ae347ccaef461c7e)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:59:32+00:00
+
+Ollie Watkins scores two first-half goals and Lucas Digne grabs an 89th-minute winner for Aston Villa in its 3-2 victory over Luton in the English Premier League.
+
+## Sturdivant, Ndongo lead Georgia Tech to 85-76 win over Florida State in final home game
+ - [https://apnews.com/article/florida-state-georgia-tech-basketball-score-f35b5f39b3b155c3504d575cda4b7eac](https://apnews.com/article/florida-state-georgia-tech-basketball-score-f35b5f39b3b155c3504d575cda4b7eac)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:58:57+00:00
+
+Kyle Sturdivant scored 17 of his 20 points in the second half, Baye Ndongo finished with 15 points and 14 rebounds and Georgia Tech pulled away to beat Florida State 85-76 on Saturday in the Yellow Jackets’ final home game.
+
+## Goldin scores 21 in Florida Atlantic's 79-73 victory over Tulane
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-vladislav-goldin-florida-atlantic-owls-cb2eedc3656f4a6aac3ad309d9bd3c2b](https://apnews.com/sports/mens-college-basketball-college-basketball-vladislav-goldin-florida-atlantic-owls-cb2eedc3656f4a6aac3ad309d9bd3c2b)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:57:08+00:00
+
+Led by Vladislav Goldin's 21 points and 12 rebounds, the Florida Atlantic Owls defeated the Tulane Green Wave 79-73.
+
+## Klaczek scores 16 off the bench, Saint Joseph's takes down Fordham 82-69
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-kacper-klaczek-saint-josephs-hawks-b210739a50974df4982538b87fb6105a](https://apnews.com/sports/mens-college-basketball-college-basketball-kacper-klaczek-saint-josephs-hawks-b210739a50974df4982538b87fb6105a)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:57:08+00:00
+
+Kacper Klaczek scored 16 points off of the bench to help lead the Saint Joseph's Hawks over the Fordham Rams 82-69. Kyle Rose had 31 points and six rebounds for Fordham.
+
+## Saturday's Transactions
+ - [https://apnews.com/sports/sports-transactions-hockey-bb43d7d9e984c0be0ce47af737a537b0](https://apnews.com/sports/sports-transactions-hockey-bb43d7d9e984c0be0ce47af737a537b0)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:55:07+00:00
+
+BASEBALL Major League Baseball National League ST.
+
+## Records scores 12, Colgate takes down Lehigh 63-60
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-9b40b9dc6bff4c2ba3e586eae6da4ff8](https://apnews.com/sports/mens-college-basketball-college-basketball-9b40b9dc6bff4c2ba3e586eae6da4ff8)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:42:01+00:00
+
+Led by Keegan Records' 12 points, the Colgate Raiders defeated the Lehigh Mountain Hawks 63-60
+
+## Morales' 20 help Boston University beat Holy Cross 94-84
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-1bdfcdfceb704cada284cbd95fcb8df0](https://apnews.com/sports/mens-college-basketball-college-basketball-1bdfcdfceb704cada284cbd95fcb8df0)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:40:48+00:00
+
+Led by Anthony Morales' 20 points, the Boston University Terriers defeated the Holy Cross Crusaders 94-84
+
+## Moore scores 15, Villanova beats Providence 71-60
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-96d350fb8a2241de9a7a3813685ffe33](https://apnews.com/sports/mens-college-basketball-college-basketball-96d350fb8a2241de9a7a3813685ffe33)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:40:47+00:00
+
+Led by Justin Moore's 15 points, the Villanova Wildcats defeated the Providence Friars 71-60
+
+## Johnson's 3-pointer lifts No. 18 South Carolina to 82-76 comeback victory over No. 24 Florida
+ - [https://apnews.com/article/florida-south-carolina-basketball-score-15d1ab2ff2b72c497f9738690ca9bbdd](https://apnews.com/article/florida-south-carolina-basketball-score-15d1ab2ff2b72c497f9738690ca9bbdd)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:39:05+00:00
+
+Meechie Johnson scored 25 points including a tie-breaking 3-pointer with 43.4 seconds to play as No. 18 South Carolina rallied for an 82-76 victory over No. 24 Florida.
+
+## Sports analytics may be outnumbered when it comes to artificial intelligence
+ - [https://apnews.com/article/sports-analytics-artificial-intelligence-b950403fbe69bfb204c00e86338f46d8](https://apnews.com/article/sports-analytics-artificial-intelligence-b950403fbe69bfb204c00e86338f46d8)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:38:57+00:00
+
+When it comes to artificial intelligence, the sports analytics crowd may be outnumbered. The people who turned NBA games into a 3-point shooting contest aren’t quite sure what will happen when AI fully invades sports.
+
+## Lawyers who successfully argued Musk pay package was illegal seek $5.6 billion in Tesla stock
+ - [https://apnews.com/article/musk-tesla-legal-fees-pay-package-f23bd43fa831f65386320360484cf6f3](https://apnews.com/article/musk-tesla-legal-fees-pay-package-f23bd43fa831f65386320360484cf6f3)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:29:50+00:00
+
+The lawyers who successfully argued that a massive pay package for Tesla CEO Elon Musk was illegal and should be voided are asking the presiding judge to award company stock worth $5.6 billion as legal fees.
+
+## Davis' 24 lead Butler past DePaul 82-63
+ - [https://apnews.com/sports/college-basketball-mens-college-basketball-dj-davis-depaul-blue-demons-butler-bulldogs-e7c6a07f01f2447189346b513a60e042](https://apnews.com/sports/college-basketball-mens-college-basketball-dj-davis-depaul-blue-demons-butler-bulldogs-e7c6a07f01f2447189346b513a60e042)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:26:14+00:00
+
+Led by DJ Davis' 24 points, the Butler Bulldogs defeated the DePaul Blue Demons 82-63
+
+## Braves star Ronald Acuña Jr. is dealing with some right knee irritation
+ - [https://apnews.com/article/acuna-braves-bc1c7c448fb508de3f449c577b1cc164](https://apnews.com/article/acuna-braves-bc1c7c448fb508de3f449c577b1cc164)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:24:13+00:00
+
+Atlanta Braves star Ronald Acuña Jr. has some irritation around his meniscus in his surgically repaired right knee. The reigning NL MVP had an MRI on Friday.
+
+## Violence and rights abuses threaten South Sudan's stability, a UN report warns
+ - [https://apnews.com/article/south-sudan-human-rights-election-un-report-0b7604473772b6d77b7c6c682a343fd0](https://apnews.com/article/south-sudan-human-rights-election-un-report-0b7604473772b6d77b7c6c682a343fd0)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:23:08+00:00
+
+A U.N. commission has warned that mass violence and gross human rights violations in South Sudan continue unabated ahead of landmark elections due to take place in December, saying the already dire humanitarian situation in the country will deteriorate further.
+
+## Dybala scores again as Roma renaissance continues under De Rossi with win at Monza
+ - [https://apnews.com/article/roma-monza-serie-a-dybala-e7917334ee26c2f3404019d534e5316b](https://apnews.com/article/roma-monza-serie-a-dybala-e7917334ee26c2f3404019d534e5316b)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:20:13+00:00
+
+Paulo Dybala has scored again and set up another as Roma won at Monza 4-1 in Serie A to continue its renaissance under coach Daniele De Rossi.
+
+## Medical incident likely led to SUV crashing into Walmart store, authorities say
+ - [https://apnews.com/article/michigan-walmart-crash-965e50afb9d8d4daa84d2efa082349eb](https://apnews.com/article/michigan-walmart-crash-965e50afb9d8d4daa84d2efa082349eb)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:18:30+00:00
+
+A driver who crashed her sport-utility vehicle into a Walmart store in suburban Detroit was likely having a health incident at the time.
+
+## A Texas girl allegedly killed by a family friend is remembered as 'precious' during funeral service
+ - [https://apnews.com/article/audrii-cunningham-missing-texas-killed-funeral-c4d04ca05e6a21bdcb62d0003da3bf52](https://apnews.com/article/audrii-cunningham-missing-texas-killed-funeral-c4d04ca05e6a21bdcb62d0003da3bf52)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:09:48+00:00
+
+An 11-year-old Texas who was found dead in a river near Houston is remembered as a loving kind animal lover. Rosary had been held Saturday for Audrii Cunningham.
+
+## Tyler Kolek and Oso Ighodaro sit out No. 5 Marquette's game at No. 12 Creighton
+ - [https://apnews.com/article/marquette-tyler-kolek-7b2d3ee277c7c9e85975bccb550686e2](https://apnews.com/article/marquette-tyler-kolek-7b2d3ee277c7c9e85975bccb550686e2)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T19:03:32+00:00
+
+Marquette’s Tyler Kolek and Oso Ighodaro are missing the No. 5 Golden Eagles’ game against No. 12 Creighton because of health issues.
+
+## NASCAR caught Joey Logano wearing an amphibious-like glove in a cheating violation
+ - [https://apnews.com/article/nascar-las-vegas-logano-glove-982d3104c884b0ac202833c1657ec2fa](https://apnews.com/article/nascar-las-vegas-logano-glove-982d3104c884b0ac202833c1657ec2fa)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T18:59:44+00:00
+
+NASCAR has displayed a clearly altered glove that Joey Logano wore in qualifying at Atlanta Motor Speedway, where aerodynamic-deflecting alterations were so obvious it looked as if he was wearing part of an amphibious costume.
+
+## Ex-Wisconsin coach Howard Moore honored at game after car wreck
+ - [https://apnews.com/article/wisconsin-badgers-howard-moore-e4c892eb9ec232f027ab514ec8c1dc28](https://apnews.com/article/wisconsin-badgers-howard-moore-e4c892eb9ec232f027ab514ec8c1dc28)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T18:58:49+00:00
+
+Former Wisconsin player and assistant coach Howard Moore received a standing ovation in his first public appearance at the Kohl Center since a 2019 car wreck killed his wife and daughter and left him with serious injuries.
+
+## Andy Russell dies: Linebacker helped Steelers become champs
+ - [https://apnews.com/article/andy-russell-dead-pittsburgh-steelers-nfl-e0a576df0e72a136ffad5d8d8ba4e2e6](https://apnews.com/article/andy-russell-dead-pittsburgh-steelers-nfl-e0a576df0e72a136ffad5d8d8ba4e2e6)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T18:45:48+00:00
+
+Andy Russell, the standout linebacker who was an integral part of the Pittsburgh Steelers’ evolution from perennial losers to champions, has died. He was 82.
+
+## David scores as Lille wins at Reims to climb up to fourth place in Ligue 1
+ - [https://apnews.com/article/marseille-lille-french-league-3eede4a23bec55061ad6f56ca0d06401](https://apnews.com/article/marseille-lille-french-league-3eede4a23bec55061ad6f56ca0d06401)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T18:18:24+00:00
+
+Canada striker Jonathan David profited from a defensive error to settle a tight game as Lille won at Reims 1-0 to move up to fourth place in the French league.
+
+## Big 12 scoring leader Kevin McCullar is back in the lineup for No. 7 Kansas at No. 15 Baylor
+ - [https://apnews.com/article/kansas-mccullar-efe60c6177950ec1d6529acaecf185d1](https://apnews.com/article/kansas-mccullar-efe60c6177950ec1d6529acaecf185d1)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T18:11:16+00:00
+
+Big 12 scoring leader Kevin McCullar is back in the lineup for seventh-ranked Kansas for only the second time in six games.
+
+## A bridge where firefighters rescued the driver of a semi dangling over the Ohio River remains closed
+ - [https://apnews.com/article/bridge-kentucky-indiana-ohio-river-semi-rescue-1f352e8c40145dc5cd6c92a903e03f24](https://apnews.com/article/bridge-kentucky-indiana-ohio-river-semi-rescue-1f352e8c40145dc5cd6c92a903e03f24)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T18:05:05+00:00
+
+A bridge connecting Kentucky and Indiana remained closed Saturday following a harrowing crash and rescue of a tractor-trailer driver left hanging over the bridge’s edge.
+
+## West Ham grabs 2 stoppage-time goals to win after Beto scores and misses penalty for Everton
+ - [https://apnews.com/article/everton-west-ham-score-beto-e8308d5164e65c37060028549e488893](https://apnews.com/article/everton-west-ham-score-beto-e8308d5164e65c37060028549e488893)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T18:02:59+00:00
+
+West Ham has scored twice in stoppage time to come from behind for a win at Goodison Park as a mixed afternoon for Everton striker Beto ended in a 3-1 defeat in the English Premier League.
+
+## Newcastle beats Wolves for first EPL home win since December. Rock star Knopfler on hand
+ - [https://apnews.com/article/newcastle-wolves-score-knopfler-8d476258a047f5dc6c53e90f32316b5f](https://apnews.com/article/newcastle-wolves-score-knopfler-8d476258a047f5dc6c53e90f32316b5f)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T17:52:35+00:00
+
+Newcastle manager Eddie Howe has managed to get a tune out of his team in front of rock star Mark Knopfler in a 3-0 English Premier League win over Wolverhampton.
+
+## In Rio, rife with dengue, bacteria-infected mosquitoes are making a difference
+ - [https://apnews.com/article/brazil-dengue-science-mosquitoes-health-rio-pilot-9e1eecd29a74649e834db65919210074](https://apnews.com/article/brazil-dengue-science-mosquitoes-health-rio-pilot-9e1eecd29a74649e834db65919210074)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T16:07:29+00:00
+
+Since Rio de Janeiro declared a public health emergency after an outbreak of dengue fever last month, the city has ramped up testing capacities, opened up a dozen of dengue health centers and trained medical staff to attend the ever-growing needs of its population.
+
+## Body parts of 2 people found in Long Island park and police are trying to identify them
+ - [https://apnews.com/article/arm-leg-head-babylon-new-york-severed-a3224d2ad64ca301c93690392da94320](https://apnews.com/article/arm-leg-head-babylon-new-york-severed-a3224d2ad64ca301c93690392da94320)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T15:35:48+00:00
+
+Police on New York's Long Island are trying to identify human remains found in a popular suburban park that appear to be from a man and a woman.
+
+## Pennsylvania train derailment leaves cars on riverbank, in water
+ - [https://apnews.com/article/train-derailment-pennsylvania-3491b1e1c9496414bc88262b54c3d250](https://apnews.com/article/train-derailment-pennsylvania-3491b1e1c9496414bc88262b54c3d250)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T15:25:15+00:00
+
+Authorities say a train derailment in eastern Pennsylvania has left some railroad cars along a riverbank and at least one partially in the river itself.
+
+## Real Sociedad loses again before facing PSG in Champions League, falling 3-2 at Sevilla
+ - [https://apnews.com/article/real-madrid-valencia-vinicius-a7f4ed766e809f90255b76e8d39d2c4f](https://apnews.com/article/real-madrid-valencia-vinicius-a7f4ed766e809f90255b76e8d39d2c4f)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T15:15:23+00:00
+
+Real Sociedad has lost 3-2 at Sevilla as the Basque Country club continued to struggle before it hosts Paris Saint-Germain in the Champions League.
+
+## Third baseman Matt Chapman and Giants reach a $54 million, 3-year deal, AP source says
+ - [https://apnews.com/article/matt-chapman-giants-d8ed8ad88cd3e16fd528d4622196d681](https://apnews.com/article/matt-chapman-giants-d8ed8ad88cd3e16fd528d4622196d681)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T15:14:34+00:00
+
+A person familiar with the negotiations says third baseman Matt Chapman and the San Francisco Giants have agreed to a $54 million, three-year contract.
+
+## Syme, Brown share lead at SDC Championship on the European tour. They are 2 shots clear of chasers
+ - [https://apnews.com/article/sdc-championship-golf-european-tour-88a56a3d4ae1615ab7e6639c5dbf3018](https://apnews.com/article/sdc-championship-golf-european-tour-88a56a3d4ae1615ab7e6639c5dbf3018)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T15:11:35+00:00
+
+Connor Syme of Scotland and Daniel Brown of England share the lead and are two shots clear of the chasers heading into the final round of the SDC Championship on the European tour.
+
+## Tunisian authorities investigate a fire at a synagogue, question a suspect in custody
+ - [https://apnews.com/article/tunisia-sfax-synagogue-fire-f30d60b82ce034c997da8e26115fbfe4](https://apnews.com/article/tunisia-sfax-synagogue-fire-f30d60b82ce034c997da8e26115fbfe4)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T15:03:11+00:00
+
+Tunisian officials say they're questioning a man on suspicion of starting a fire in a garden at a synagogue in the east of the country.
+
+## Niemann takes a 2-shot lead in Saudi Arabia. Anthony Kim has another 76 in his LIV debut
+ - [https://apnews.com/article/joaquin-niemann-liv-anthony-kim-saudi-arabia-1a869fb47ebe925d65e7694d184e2c9f](https://apnews.com/article/joaquin-niemann-liv-anthony-kim-saudi-arabia-1a869fb47ebe925d65e7694d184e2c9f)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T15:00:11+00:00
+
+Joaquin Niemann is in position for another victory in LIV Golf. Niemann won the season opener in the Saudi-funded league.
+
+## Today in Sports - No. 2 Syracuse beats No. 19 Louisville 58-49 to tie the Big East record for wins
+ - [https://apnews.com/sports/louisville-cardinals-syracuse-orange-los-angeles-3aa1f0f57b153f84be25341746ced1b5](https://apnews.com/sports/louisville-cardinals-syracuse-orange-los-angeles-3aa1f0f57b153f84be25341746ced1b5)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T15:00:08+00:00
+
+Today in Sports, March 3 - No. 2 Syracuse beats No. 19 Louisville 58-49 to tie the Big East record for wins
+
+## WNBA teams see increase in ticket sales after Caitlin Clark announces plans to enter draft
+ - [https://apnews.com/article/caitlin-clark-wnba-indiana-fever-tickets-843171ca69ffa6972f856ff80bf32628](https://apnews.com/article/caitlin-clark-wnba-indiana-fever-tickets-843171ca69ffa6972f856ff80bf32628)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T15:00:07+00:00
+
+Soon after Caitlin Clark announced her plans to enter the WNBA draft, the Indiana Fever’s ticket offices got noticeably busier.
+
+## Sports on TV for Sunday, Mar. 3
+ - [https://apnews.com/sports/mens-college-basketball-golf-womens-college-basketball-boston-5f577c187bbda55456148e0e4c0839d6](https://apnews.com/sports/mens-college-basketball-golf-womens-college-basketball-boston-5f577c187bbda55456148e0e4c0839d6)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T15:00:06+00:00
+
+(All times Eastern) Schedule subject to change and/or blackouts Sunday, Mar. 3 AUTO RACING 3:30 p.m. FOX — NASCAR Cup Series: The Pennzoil 400 presented by Jiffy Lube, Las Vegas Motor Speedway, Las Vegas
+
+## A fusion of eras, cultures and styles hits Paris Fashion Week runways
+ - [https://apnews.com/article/paris-fashion-week-readytowear-d7e01583f1be72dde828bd34b2265941](https://apnews.com/article/paris-fashion-week-readytowear-d7e01583f1be72dde828bd34b2265941)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T14:15:38+00:00
+
+On a rain-soaked Saturday in Paris, the fashion world was treated to a spectacle of contrasts, where the audacious spirit of Vivienne Westwood's punk melded with the whispers of historical elegance.
+
+## Fear of Trump outweighs anger at Biden for these Minnesota Democrats
+ - [https://apnews.com/article/biden-dean-phillips-trump-minnesota-super-tuesday-17f10e9a8f23dcdbf9b26befa49178d2](https://apnews.com/article/biden-dean-phillips-trump-minnesota-super-tuesday-17f10e9a8f23dcdbf9b26befa49178d2)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T14:03:44+00:00
+
+Democratic voters in suburban Minneapolis seem far less interested in sending President Joe Biden a message of dissatisfaction with him than they are in keeping Republican Donald Trump from returning to the White House.
+
+## Arrest made in slaying of pregnant Pennsylvania Amish woman
+ - [https://apnews.com/article/amish-woman-killed-pennsylvania-arrest-ba56817e10a88be554966ef740d5b3c4](https://apnews.com/article/amish-woman-killed-pennsylvania-arrest-ba56817e10a88be554966ef740d5b3c4)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T14:02:11+00:00
+
+Shawn C. Cranston, 52, of Corry, has been charged with criminal homicide and criminal homicide of an unborn child, Pennsylvania State Police said.
+
+## How clean is the dirt on Hunter Biden? A key Republican source is charged with lying to the FBI
+ - [https://apnews.com/article/hunter-biden-fbi-informant-smirnov-ukraine-impeachment-113c1104052dbdc9302606f6d42c9939](https://apnews.com/article/hunter-biden-fbi-informant-smirnov-ukraine-impeachment-113c1104052dbdc9302606f6d42c9939)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T13:33:29+00:00
+
+An FBI informant who was once held up by Republicans as a credible source of information about Hunter Biden now finds himself charged with lying to federal authorities.
+
+## Norway's hospitalized king gets a pacemaker in Malaysia after falling ill during vacation
+ - [https://apnews.com/article/norway-king-harald-malaysia-hospital-pacemaker-heart-b68e290c6bbfc4c6a055b1137e65ee3b](https://apnews.com/article/norway-king-harald-malaysia-hospital-pacemaker-heart-b68e290c6bbfc4c6a055b1137e65ee3b)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T13:27:38+00:00
+
+The royal house of Norway says King Harald has been implanted with a temporary pacemaker at a hospital in Malaysia’s resort island of Langkawi.
+
+## Christian nightclub in Nashville, The Cove, mixes party and praise
+ - [https://apnews.com/article/religion-christian-dance-club-youth-nashville-da3ed45aa9ee39b1114ff132515a960e](https://apnews.com/article/religion-christian-dance-club-youth-nashville-da3ed45aa9ee39b1114ff132515a960e)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T13:19:23+00:00
+
+The Cove is a pop-up, 18-and-up Christian nightclub in Nashville, Tennessee. It was launched last year by seven Black Christian men in their 20s who sought to build a thriving community and a safe space for young Christians outside houses of worship.
+
+## Where will you be for the April 8 total solar eclipse? There's still time to grab a spot
+ - [https://apnews.com/article/total-solar-eclipse-travel-14b52646d918184922d651bf8c8daab2](https://apnews.com/article/total-solar-eclipse-travel-14b52646d918184922d651bf8c8daab2)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T13:05:06+00:00
+
+There are just a few weeks left to pick your spot to see the total solar eclipse on April 8 in North America.
+
+## Germany investigates a purported recording leaked by Russia of officers discussing aid to Ukraine
+ - [https://apnews.com/article/germany-ukraine-russia-recording-22716852db21d8260e85d9f2bf058db4](https://apnews.com/article/germany-ukraine-russia-recording-22716852db21d8260e85d9f2bf058db4)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T13:03:22+00:00
+
+German Chancellor Olaf Scholz says authorities are investigating after Russian state media published a purported recording in which German military officers discuss support for Ukraine, including the potential use of Taurus missiles.
+
+## Firefighters face difficult weather conditions as they battle the largest wildfire in Texas history
+ - [https://apnews.com/article/texas-panhandle-fire-weather-firefighters-e00e345808351aa015779a28ec494392](https://apnews.com/article/texas-panhandle-fire-weather-firefighters-e00e345808351aa015779a28ec494392)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T12:38:20+00:00
+
+Firefighters battling the largest wildfire in Texas history face increasingly difficult weather conditions.
+
+## Israeli strikes kill 7 Hezbollah members in south Lebanon
+ - [https://apnews.com/article/lebanon-israel-hezbollah-hamas-gaza-a96b74c0a1520880b8b7d0d548279f5d](https://apnews.com/article/lebanon-israel-hezbollah-hamas-gaza-a96b74c0a1520880b8b7d0d548279f5d)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T12:17:51+00:00
+
+Lebanese officials and media say an Israeli drone strike hit a car in south Lebanon and killed three Hezbollah members.
+
+## PSL double-header in Rawalpindi called off because of rain
+ - [https://apnews.com/article/pakistan-super-league-lahore-peshawar-quetta-cecc09d9c3dfd5de9ebabe018ec33dab](https://apnews.com/article/pakistan-super-league-lahore-peshawar-quetta-cecc09d9c3dfd5de9ebabe018ec33dab)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T12:17:20+00:00
+
+Two-time defending champion Lahore Qalandars finally got their first point in the Pakistan Super League after rain disrupted the country’s premier T20 tournament.
+
+## Deadly chaos at Gaza aid convoy is a symbol of the desperation enveloping the territory
+ - [https://apnews.com/article/israel-hamas-war-news-03-02-2024-531593c27931a2764357b6f7b11ce394](https://apnews.com/article/israel-hamas-war-news-03-02-2024-531593c27931a2764357b6f7b11ce394)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T12:11:53+00:00
+
+The chaos punctuated by heavy Israeli fire that killed 115 people trying to get bags of flour from an aid convoy is a sign of the desperation of the hundreds of thousands of Palestinians struggling to survive in northern Gaza.
+
+## A ship earlier hit by Yemen's Houthi rebels sinks in the Red Sea, the first vessel lost in conflict
+ - [https://apnews.com/article/yemen-houthi-rebels-rubymar-sinks-red-sea-fb64a490ce935756337ee3606e15d093](https://apnews.com/article/yemen-houthi-rebels-rubymar-sinks-red-sea-fb64a490ce935756337ee3606e15d093)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T11:27:29+00:00
+
+Officials say a ship attacked by Yemen’s Houthi rebels has sunk in the Red Sea after days of taking on water.
+
+## Lara Gut-Behrami wins a super-G to pad lead over Mikaela Shiffrin in overall World Cup standings
+ - [https://apnews.com/article/skiing-world-cup-gutbehrami-shiffrin-b6448c0aa84dfcbbff391cfc37112c28](https://apnews.com/article/skiing-world-cup-gutbehrami-shiffrin-b6448c0aa84dfcbbff391cfc37112c28)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T11:26:19+00:00
+
+Swiss ski star Lara Gut-Behrami is gliding toward the overall World Cup title in the extended absence of defending champion Mikaela Shiffrin since a crash in January.
+
+## FIFA rules panel scraps plan for blue cards. Idea was to send players to 'sin bin'
+ - [https://apnews.com/article/fifa-ifab-soccer-rules-blue-cards-ac2fa46ebf47d974c43b51b9d3fa328d](https://apnews.com/article/fifa-ifab-soccer-rules-blue-cards-ac2fa46ebf47d974c43b51b9d3fa328d)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T11:19:25+00:00
+
+There will be no blue cards shown in soccer. FIFA president Gianni Infantino has made the announcement ahead of the annual meeting of soccer’s rule-making panel.
+
+## Navalny's mother brings flowers to his grave a day after thousands attended his funeral in Moscow
+ - [https://apnews.com/article/navalny-russia-funeral-crackdown-75b6e92ae75507eda08a9d7eb5cfc2ea](https://apnews.com/article/navalny-russia-funeral-crackdown-75b6e92ae75507eda08a9d7eb5cfc2ea)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T11:14:14+00:00
+
+The mother and mother-in-law of Russian opposition leader Alexei Navalny were among mourners who brought flowers to his grave in Moscow a day after thousands turned his funeral into one of the largest recent displays of dissent.
+
+## South African soldier kills a colleague and himself in eastern Congo
+ - [https://apnews.com/article/south-africa-soldiers-congo-shooting-deaths-340335fbc6800271d5943ddc6814be62](https://apnews.com/article/south-africa-soldiers-congo-shooting-deaths-340335fbc6800271d5943ddc6814be62)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T11:11:39+00:00
+
+A South African soldier deployed in Congo has shot dead a colleague and then turned the gun on himself.
+
+## Acing drills at the NFL scouting combine can lead to riches but don't forecast football greatness
+ - [https://apnews.com/article/nfl-scouting-combine-best-players-7cb4dbdd283e948244e4b050055e2156](https://apnews.com/article/nfl-scouting-combine-best-players-7cb4dbdd283e948244e4b050055e2156)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T11:00:06+00:00
+
+All eyes may be on the draft prospects at the NFL scouting combine as they run the 40-yard dash, bench press 225 pounds and see how high and far they can jump and how quick they are.
+
+## FIA president: Red Bull boss Christian Horner controversy is ‘damaging the sport’ - report
+ - [https://apnews.com/article/horner-f1-sulayem-bahrain-red-bull-4fa8520465d841dc503f79d2f14c71bb](https://apnews.com/article/horner-f1-sulayem-bahrain-red-bull-4fa8520465d841dc503f79d2f14c71bb)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T10:58:54+00:00
+
+The president of Formula 1’s governing body tells the Financial Times the controversy around Red Bull team principal Christian Horner is damaging the sport but that the FIA won’t conduct its own inquiry unless it receives a complaint.
+
+## Russia-Ukraine war: Russian drone strike on the Ukrainian port city of Odesa kills 3
+ - [https://apnews.com/article/russia-ukraine-odesa-drone-war-2b50da6d882182b7491959c0e9c3a08f](https://apnews.com/article/russia-ukraine-odesa-drone-war-2b50da6d882182b7491959c0e9c3a08f)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T10:12:54+00:00
+
+Four people were killed when debris from a Russian drone hit an apartment block in the southern Ukrainian port city of Odesa overnight, the regional governor said.
+
+## Iran elections: Hard-liners are leading in parliamentary election
+ - [https://apnews.com/article/iran-parliamentary-election-protests-mahsa-amini-1717e510c2d912d2d19afd7c352be2c3](https://apnews.com/article/iran-parliamentary-election-protests-mahsa-amini-1717e510c2d912d2d19afd7c352be2c3)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T10:10:34+00:00
+
+Officials have not yet released the total voter turnout. However, IRNA said it was 41%, based on unofficial reports, which maybe the lowest turnout.
+
+## 13-man Moana Pasifika holds on to beat Fijian Drua 39-36 in Super Rugby Pacific
+ - [https://apnews.com/article/super-rugby-pacific-e8108bef8ab2edd4eb6fbf25e56fea00](https://apnews.com/article/super-rugby-pacific-e8108bef8ab2edd4eb6fbf25e56fea00)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:55:15+00:00
+
+Moana Pasifika has held on with 13 men to beat the Fijian Drua 39-36 in the first match of the season between the Pacific Island teams in Super Rugby Pacific.
+
+## Sullinger leads Kent State against Central Michigan
+ - [https://apnews.com/sports/college-basketball-central-michigan-chippewas-mens-college-basketball-kent-state-golden-flashes-michigan-c6ab720b4d2d402b8ad4e79bc379cf39](https://apnews.com/sports/college-basketball-central-michigan-chippewas-mens-college-basketball-kent-state-golden-flashes-michigan-c6ab720b4d2d402b8ad4e79bc379cf39)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:22+00:00
+
+Kent State hosts the Central Michigan Chippewas after Jalen Sullinger scored 30 points in Kent State's 76-64 win over the Buffalo Bulls.
+
+## Battle leads Arkansas against No. 16 Kentucky after 36-point performance
+ - [https://apnews.com/sports/kentucky-wildcats-mens-college-basketball-college-basketball-arkansas-razorbacks-kentucky-c98df1d806c241259ec62e6a8e5b8bbd](https://apnews.com/sports/kentucky-wildcats-mens-college-basketball-college-basketball-arkansas-razorbacks-kentucky-c98df1d806c241259ec62e6a8e5b8bbd)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:21+00:00
+
+Arkansas takes on the No. 16 Kentucky Wildcats after Khalif Battle scored 36 points in the Razorbacks' 85-82 loss to the Vanderbilt Commodores.
+
+## No. 24 Florida takes on No. 18 South Carolina following Samuel's 28-point game
+ - [https://apnews.com/sports/college-basketball-mens-college-basketball-south-carolina-gamecocks-florida-gators-a61a9ea9aed6448a90ae86a82683d4cb](https://apnews.com/sports/college-basketball-mens-college-basketball-south-carolina-gamecocks-florida-gators-a61a9ea9aed6448a90ae86a82683d4cb)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:21+00:00
+
+No. 24 Florida visits the No. 18 South Carolina Gamecocks after Tyrese Samuel scored 28 points in the Gators' 83-74 victory against the Missouri Tigers.
+
+## Brooks leads Washington against USC
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-southern-california-trojans-washington-huskies-2f72a9f321a040b49f383853928741e8](https://apnews.com/sports/mens-college-basketball-college-basketball-southern-california-trojans-washington-huskies-2f72a9f321a040b49f383853928741e8)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:20+00:00
+
+Washington faces the USC Trojans after Keion Brooks Jr. scored 32 points in Washington's 94-77 win against the UCLA Bruins.
+
+## Miami (OH) visits Eastern Michigan after Osojnik's 22-point game
+ - [https://apnews.com/sports/mens-college-basketball-eastern-michigan-eagles-college-basketball-miami-redhawks-michigan-f0e92a2ecb284bdcbdbe167738cabb08](https://apnews.com/sports/mens-college-basketball-eastern-michigan-eagles-college-basketball-miami-redhawks-michigan-f0e92a2ecb284bdcbdbe167738cabb08)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:20+00:00
+
+Eastern Michigan plays the Miami (OH) RedHawks after Arne Osojnik scored 22 points in Eastern Michigan's 70-67 win against the Western Michigan Broncos.
+
+## No. 15 Baylor Bears play the No. 7 Kansas Jayhawks
+ - [https://apnews.com/sports/kansas-jayhawks-college-basketball-mens-college-basketball-baylor-bears-47792ebce17d44c2847f7596fbb5f08d](https://apnews.com/sports/kansas-jayhawks-college-basketball-mens-college-basketball-baylor-bears-47792ebce17d44c2847f7596fbb5f08d)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:20+00:00
+
+The No. 15 Baylor Bears host the No. 7 Kansas Jayhawks. Saturday's game is the second meeting this season between the two teams.
+
+## No. 6 Arizona hosts Evans and Oregon
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-oregon-ducks-arizona-wildcats-96ca8fab01aa4adaa24754d35da9f5e1](https://apnews.com/sports/mens-college-basketball-college-basketball-oregon-ducks-arizona-wildcats-96ca8fab01aa4adaa24754d35da9f5e1)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:20+00:00
+
+Oregon faces the No. 6 Arizona Wildcats after Kwame Evans Jr. scored 22 points in the Ducks' 78-71 victory over the Oregon State Beavers.
+
+## Pittsburgh visits Boston College after Post's 24-point performance
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-boston-college-eagles-pittsburgh-panthers-virginia-cavaliers-d7a8829872be4f6a84ad085288c9a4ca](https://apnews.com/sports/mens-college-basketball-college-basketball-boston-college-eagles-pittsburgh-panthers-virginia-cavaliers-d7a8829872be4f6a84ad085288c9a4ca)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:20+00:00
+
+Boston College hosts the Pittsburgh Panthers after Quinten Post scored 24 points in Boston College's 72-68 loss to the Virginia Cavaliers.
+
+## Winthrop hosts Stieber and Gardner-Webb
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-77c408cbb8e64eda87950ec3c673231f](https://apnews.com/sports/mens-college-basketball-college-basketball-77c408cbb8e64eda87950ec3c673231f)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:20+00:00
+
+Gardner-Webb visits the Winthrop Eagles after Lucas Stieber scored 20 points in the Runnin' Bulldogs' 72-69 win against the Longwood Lancers.
+
+## Wisconsin hosts No. 13 Illinois following Shannon's 29-point showing
+ - [https://apnews.com/sports/illinois-fighting-illini-mens-college-basketball-college-basketball-wisconsin-badgers-minnesota-golden-gophers-c5407a3e30cc4285955b59b3b0e314c8](https://apnews.com/sports/illinois-fighting-illini-mens-college-basketball-college-basketball-wisconsin-badgers-minnesota-golden-gophers-c5407a3e30cc4285955b59b3b0e314c8)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:20+00:00
+
+No. 13 Illinois visits the Wisconsin Badgers after Terrence Shannon Jr. scored 29 points in the Fighting Illini's 105-97 win against the Minnesota Golden Gophers.
+
+## Cohen, UMass Minutemen to visit Huffman, Davidson Wildcats
+ - [https://apnews.com/sports/college-basketball-mens-college-basketball-massachusetts-minutemen-davidson-wildcats-ffe4b5f57edf4ead9faf7b7c175bbd74](https://apnews.com/sports/college-basketball-mens-college-basketball-massachusetts-minutemen-davidson-wildcats-ffe4b5f57edf4ead9faf7b7c175bbd74)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:19+00:00
+
+Davidson and UMass will face off in a matchup of A-10 foes. Saturday's meeting is the first of the season for the two teams.
+
+## Florida State visits Kelly and Georgia Tech
+ - [https://apnews.com/sports/georgia-tech-yellow-jackets-florida-state-seminoles-college-basketball-mens-college-basketball-georgia-a1da05b102414a55a8c8581888016d06](https://apnews.com/sports/georgia-tech-yellow-jackets-florida-state-seminoles-college-basketball-mens-college-basketball-georgia-a1da05b102414a55a8c8581888016d06)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:19+00:00
+
+Georgia Tech hosts the Florida State Seminoles after Miles Kelly scored 25 points in Georgia Tech's 80-76 win against the Miami Hurricanes.
+
+## Hampton visits Dorsey and William & Mary
+ - [https://apnews.com/sports/gabe-dorsey-mens-college-basketball-college-basketball-1eddd512ce084f6fad50c6ff4e99ed3d](https://apnews.com/sports/gabe-dorsey-mens-college-basketball-college-basketball-1eddd512ce084f6fad50c6ff4e99ed3d)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:19+00:00
+
+William &amp; Mary faces the Hampton Pirates after Gabe Dorsey scored 20 points in William &amp; Mary's 76-71 loss to the Elon Phoenix.
+
+## Hofstra visits Charleston (SC) after Smith's 32-point showing
+ - [https://apnews.com/sports/college-basketball-charleston-cougars-mens-college-basketball-charleston-77310185736f43aeb5fe7529f927e25e](https://apnews.com/sports/college-basketball-charleston-cougars-mens-college-basketball-charleston-77310185736f43aeb5fe7529f927e25e)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:19+00:00
+
+Charleston (SC) hosts the Hofstra Pride after Reyne Smith scored 32 points in Charleston (SC)'s 96-73 win over the Campbell Fighting Camels.
+
+## Jimerson and Saint Louis host Rhode Island
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-saint-louis-billikens-rhode-island-rams-dc72421bcc4040ccac6f6eda1d5b0650](https://apnews.com/sports/mens-college-basketball-college-basketball-saint-louis-billikens-rhode-island-rams-dc72421bcc4040ccac6f6eda1d5b0650)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:19+00:00
+
+Saint Louis visits the Rhode Island Rams after Gibson Jimerson scored 21 points in the Billikens' 80-64 loss to the Richmond Spiders.
+
+## Lipsey and the No. 8 Iowa State Cyclones take on conference foe UCF
+ - [https://apnews.com/sports/iowa-state-cyclones-college-basketball-mens-college-basketball-central-florida-knights-big-12-conference-0d8af27478b04b00b294308c2b88ef51](https://apnews.com/sports/iowa-state-cyclones-college-basketball-mens-college-basketball-central-florida-knights-big-12-conference-0d8af27478b04b00b294308c2b88ef51)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:19+00:00
+
+UCF takes on No. 8 Iowa State in a matchup of Big 12 teams. Saturday's meeting is the first of the season for the teams.
+
+## Mississippi State plays No. 11 Auburn following Hubbard's 34-point outing
+ - [https://apnews.com/sports/mens-college-basketball-auburn-tigers-college-basketball-mississippi-state-bulldogs-auburn-72967577751b44729da0714b4c68fa75](https://apnews.com/sports/mens-college-basketball-auburn-tigers-college-basketball-mississippi-state-bulldogs-auburn-72967577751b44729da0714b4c68fa75)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:19+00:00
+
+Mississippi State visits the No. 11 Auburn Tigers after Josh Hubbard scored 34 points in the Bulldogs' 91-89 loss to the Kentucky Wildcats.
+
+## Providence hosts Villanova after Dixon's 22-point outing
+ - [https://apnews.com/sports/college-basketball-mens-college-basketball-georgetown-hoyas-providence-friars-2ce1503b01d6453aa1bca0868358f3eb](https://apnews.com/sports/college-basketball-mens-college-basketball-georgetown-hoyas-providence-friars-2ce1503b01d6453aa1bca0868358f3eb)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:19+00:00
+
+Villanova faces the Providence Friars after Eric Dixon scored 22 points in the Wildcats' 75-47 win against the Georgetown Hoyas.
+
+## Binghamton hosts Woodyard and New Hampshire
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-new-hampshire-493b07e3d3754e80a974872d4eaafc16](https://apnews.com/sports/mens-college-basketball-college-basketball-new-hampshire-493b07e3d3754e80a974872d4eaafc16)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:18+00:00
+
+New Hampshire takes on the Binghamton Bearcats after Trey Woodyard scored 21 points in the Wildcats' 91-67 loss to the Albany (NY) Great Danes.
+
+## Cochran leads Toledo against Buffalo after 27-point game
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-toledo-rockets-buffalo-bulls-65d095549a8b4216bb9f3316358667eb](https://apnews.com/sports/mens-college-basketball-college-basketball-toledo-rockets-buffalo-bulls-65d095549a8b4216bb9f3316358667eb)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:18+00:00
+
+Toledo visits the Buffalo Bulls after Tyler Cochran scored 27 points in the Rockets' 75-72 loss to the Northern Illinois Huskies.
+
+## Felton, East Carolina Pirates to visit Scott, North Texas Mean Green
+ - [https://apnews.com/sports/north-texas-mean-green-college-basketball-mens-college-basketball-east-carolina-pirates-df362b89965447ceaf9e891873e471da](https://apnews.com/sports/north-texas-mean-green-college-basketball-mens-college-basketball-east-carolina-pirates-df362b89965447ceaf9e891873e471da)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:18+00:00
+
+The North Texas Mean Green will play host to conference opponent East Carolina. Sunday's meeting will be the second of the season between the two teams.
+
+## Thomas and Norfolk State host Delaware State
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-a202668a28f144719d869d273280ba29](https://apnews.com/sports/mens-college-basketball-college-basketball-a202668a28f144719d869d273280ba29)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:18+00:00
+
+Norfolk State plays the Delaware State Hornets after Jamarii Thomas scored 20 points in the Spartans' 85-82 victory over the Morgan State Bears.
+
+## Buchanan leads George Washington against La Salle after 21-point outing
+ - [https://apnews.com/sports/college-basketball-mens-college-basketball-george-washington-la-salle-explorers-george-washington-colonials-4a130ef18ea14dca8e6cfbcac5520633](https://apnews.com/sports/college-basketball-mens-college-basketball-george-washington-la-salle-explorers-george-washington-colonials-4a130ef18ea14dca8e6cfbcac5520633)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:17+00:00
+
+George Washington takes on the La Salle Explorers after Darren Buchanan Jr. scored 21 points in the Revolutionaries' 69-57 loss to the UMass Minutemen.
+
+## BYU takes home win streak into matchup with TCU
+ - [https://apnews.com/sports/college-basketball-mens-college-basketball-brigham-young-cougars-texas-christian-horned-frogs-0a3144d4958a40918decf89f992b6611](https://apnews.com/sports/college-basketball-mens-college-basketball-brigham-young-cougars-texas-christian-horned-frogs-0a3144d4958a40918decf89f992b6611)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:17+00:00
+
+BYU will try to keep its four-game home win streak alive when the Cougars face TCU. The teams match up Saturday for the first time this season.
+
+## Jones leads Western Carolina against Chattanooga after 20-point game
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-253e768a69f14a6aa48fc2463d887418](https://apnews.com/sports/mens-college-basketball-college-basketball-253e768a69f14a6aa48fc2463d887418)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:17+00:00
+
+Western Carolina visits the Chattanooga Mocs after Russell Jones scored 20 points in the Catamounts' 85-77 victory over the Furman Paladins.
+
+## Liberty hosts Frazier and UTEP
+ - [https://apnews.com/sports/college-basketball-mens-college-basketball-liberty-flames-jacksonville-state-gamecocks-397ae4c93b7e4bf299bd80db6565f46d](https://apnews.com/sports/college-basketball-mens-college-basketball-liberty-flames-jacksonville-state-gamecocks-397ae4c93b7e4bf299bd80db6565f46d)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:17+00:00
+
+UTEP takes on the Liberty Flames after Otis Frazier III scored 24 points in the Miners' 72-65 win over the Jacksonville State Gamecocks.
+
+## No. 12 Creighton plays No. 5 Marquette after Kalkbrenner's 23-point outing
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-marquette-golden-eagles-creighton-bluejays-b9b3e02b7a4747909c44eff79544ba9e](https://apnews.com/sports/mens-college-basketball-college-basketball-marquette-golden-eagles-creighton-bluejays-b9b3e02b7a4747909c44eff79544ba9e)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:17+00:00
+
+No. 12 Creighton plays the No. 5 Marquette Golden Eagles after Ryan Kalkbrenner scored 23 points in Creighton's 85-64 victory over the Seton Hall Pirates.
+
+## Noll leads Stony Brook against Delaware after 21-point outing
+ - [https://apnews.com/sports/college-basketball-mens-college-basketball-delaware-b4131b3760d64819aaf23ce3de621000](https://apnews.com/sports/college-basketball-mens-college-basketball-delaware-b4131b3760d64819aaf23ce3de621000)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:17+00:00
+
+Stony Brook hosts the Delaware Fightin' Blue Hens after Dean Noll scored 21 points in Stony Brook's 90-86 loss to the Drexel Dragons.
+
+## Pearson and Ball State host Western Michigan
+ - [https://apnews.com/sports/college-basketball-ball-state-cardinals-central-michigan-chippewas-mens-college-basketball-western-michigan-broncos-c512ea792a5742c09cc215cb3c43b160](https://apnews.com/sports/college-basketball-ball-state-cardinals-central-michigan-chippewas-mens-college-basketball-western-michigan-broncos-c512ea792a5742c09cc215cb3c43b160)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T08:42:17+00:00
+
+Ball State hosts the Western Michigan Broncos after Mickey Pearson Jr. scored 25 points in Ball State's 79-71 win against the Central Michigan Chippewas.
+
+## Last surviving member of the first team to conquer Mount Everest says it is crowded and dirty now
+ - [https://apnews.com/article/nepal-mount-everest-sherpa-guide-f78454e9cd3c984ebe43f16052517743](https://apnews.com/article/nepal-mount-everest-sherpa-guide-f78454e9cd3c984ebe43f16052517743)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T07:56:47+00:00
+
+The only surviving member of the mountaineering expedition that first conquered Mount Everest says the world’s highest peak is too crowded and too dirty and the mountain is a god that needs to be respected.
+
+## Haruki Murakami unveils his new short story at a Tokyo literary event
+ - [https://apnews.com/article/japan-murakami-new-story-reading-2fa9e1ddc1d294744ee3d056bf3493f9](https://apnews.com/article/japan-murakami-new-story-reading-2fa9e1ddc1d294744ee3d056bf3493f9)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T07:38:19+00:00
+
+Only 1,100 lucky audience members were there to hear the yet-to-be published short story “Kaho,” read aloud by bestselling Japanese author Haruki Murakami himself.
+
+## A party like no other? Asia's richest man celebrates son's prenuptials with a star-studded bash
+ - [https://apnews.com/article/india-tycoon-mukesh-ambani-son-prewedding-bash-d36e73d8b83229b7684e6253d84e23d5](https://apnews.com/article/india-tycoon-mukesh-ambani-son-prewedding-bash-d36e73d8b83229b7684e6253d84e23d5)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T07:26:22+00:00
+
+Tycoons from around the world, heads of state, as well as Hollywood and Bollywood stars have descended on the small western Indian city of Jamnagar where billionaire industrialist Mukesh Ambani is kickstarting a big fat wedding celebration for his youngest son.
+
+## Ayaka Furue takes 2-stroke lead into the final round of the LPGA tournament in Singapore
+ - [https://apnews.com/article/lpga-singapore-asia-3c2ecc02e51c7d82ea828b5ba9d0b548](https://apnews.com/article/lpga-singapore-asia-3c2ecc02e51c7d82ea828b5ba9d0b548)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T06:34:17+00:00
+
+Ayaka Furue of Japan took a two-stroke lead after three rounds of the LPGA Tour’s HSBC Women’s World Championship with a 4-under 68.
+
+## Watson and Norris help Loyola Chicago top No. 21 Dayton 77-72
+ - [https://apnews.com/sports/college-basketball-mens-college-basketball-braden-norris-dayton-utah-650e41c4168857a11c4efbe22e8ca606](https://apnews.com/sports/college-basketball-mens-college-basketball-braden-norris-dayton-utah-650e41c4168857a11c4efbe22e8ca606)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T06:13:28+00:00
+
+CHICAGO (AP) — Des Watson scored 24 points and Braden Norris made two crucial 3-pointers down the stretch, finishing with 19 points and 11 assists as Loyola Chicago defeated No. 21 Dayton 77-72 on Friday night.
+
+## In Senegal's capital, Nicaragua is a hot ticket among travel agents as migrants try to reach US
+ - [https://apnews.com/article/migrants-senegal-nicaragua-united-states-02a14204c050961157e3c21662a7921c](https://apnews.com/article/migrants-senegal-nicaragua-united-states-02a14204c050961157e3c21662a7921c)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T06:10:54+00:00
+
+In Senegal's capital, Nicaragua is a hot ticket among travel agents serving people who want to live in the United States.
+
+## Martinez scores 21 to help No. 22 Utah State top Air Force 72-60
+ - [https://apnews.com/article/air-force-utah-state-basketball-score-2f375fdc0cc6824eacc09b8a4b626d81](https://apnews.com/article/air-force-utah-state-basketball-score-2f375fdc0cc6824eacc09b8a4b626d81)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T06:08:36+00:00
+
+Ian Martinez scored 21 points to lead No. 22 Utah State to a 72-60 victory over Air Force on Friday night.
+
+## Lucas puts up 21 as Nevada takes down Fresno State 74-66
+ - [https://apnews.com/sports/fresno-nevada-college-basketball-mens-college-basketball-fresno-state-bulldogs-0cd40b2bf7964e718adf3ad498954638](https://apnews.com/sports/fresno-nevada-college-basketball-mens-college-basketball-fresno-state-bulldogs-0cd40b2bf7964e718adf3ad498954638)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T06:01:50+00:00
+
+Led by Jarod Lucas' 21 points, the Nevada Wolf Pack defeated the Fresno State Bulldogs 74-66
+
+## Dostal stops Hughes' penalty shot with 2.1 seconds left in the Anaheim Ducks' 4-3 win over Devils
+ - [https://apnews.com/article/ducks-devils-score-c92a7ad6fa614e03f4b53e6bd8730f55](https://apnews.com/article/ducks-devils-score-c92a7ad6fa614e03f4b53e6bd8730f55)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:58:30+00:00
+
+Lukas Dostal made 52 saves and stopped Jack Hughes’ penalty shot attempt with 2.1 seconds to play, and the Anaheim Ducks held on for a 4-3 victory over the New Jersey Devils.
+
+## Clippers use Harden's 21-point quarter in win over Wizards but lose Westbrook to broken hand
+ - [https://apnews.com/article/clippers-wizards-harden-kuzma-westbrook-score-0e9d1ddee4c9cba21b70333bed9b3143](https://apnews.com/article/clippers-wizards-harden-kuzma-westbrook-score-0e9d1ddee4c9cba21b70333bed9b3143)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:54:03+00:00
+
+James Harden scored 21 of his 28 points in the second quarter and the Los Angeles Clippers beat the Washington Wizards 140-115 on Friday night.
+
+## Giannis Antetokounmpo has 46 points, 16 rebounds in Bucks' 113-97 victory over Bulls
+ - [https://apnews.com/article/bucks-bulls-score-59bc0a9699e40fa0e35010846a2a6fb8](https://apnews.com/article/bucks-bulls-score-59bc0a9699e40fa0e35010846a2a6fb8)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:49:56+00:00
+
+Giannis Antetokounmpo dominated with 46 points and 16 rebounds and the Milwaukee Bucks beat the Chicago Bulls 113-97 on Friday night.
+
+## Alaska's Iditarod dogs get neon visibility harnesses after 5 were fatally hit
+ - [https://apnews.com/article/iditarod-race-across-alaska-dog-danger-c6253e0122f487887993282d17c8a13a](https://apnews.com/article/iditarod-race-across-alaska-dog-danger-c6253e0122f487887993282d17c8a13a)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:27:06+00:00
+
+The Iditarod is set to get underway Saturday with a new focus on safety after five dogs died and eight were injured in collisions while training.
+
+## Texas Attorney General Ken Paxton beat impeachment. Now he wants Super Tuesday revenge on his foes
+ - [https://apnews.com/article/paxton-revenge-texas-primary-impeachment-586a44aa499b7b35b18d03634cc8082e](https://apnews.com/article/paxton-revenge-texas-primary-impeachment-586a44aa499b7b35b18d03634cc8082e)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:25:49+00:00
+
+Texas Attorney General Ken Paxton beat impeachment, and now he wants political revenge. The conservative Republican attorney general is waging a bruising campaign to oust dozens of his fellow GOP lawmakers in the upcoming Super Tuesday primary.
+
+## Clippers guard Russell Westbrook breaks left hand in first half against Wizards
+ - [https://apnews.com/article/clippers-westbrook-injury-cd15007b509c03d9689d1ba8de98e7aa](https://apnews.com/article/clippers-westbrook-injury-cd15007b509c03d9689d1ba8de98e7aa)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:20:16+00:00
+
+Russell Westbrook fractured his left hand in the first half of the Los Angeles Clippers’ 140-115 win over the Washington Wizards.
+
+## 2 races, including crowded chief justice campaign, could push Arkansas court further to the right
+ - [https://apnews.com/article/arkansas-supreme-court-election-abortion-92b6fdc37f045aff03185bf453b0a8f3](https://apnews.com/article/arkansas-supreme-court-election-abortion-92b6fdc37f045aff03185bf453b0a8f3)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:11:55+00:00
+
+Two races for the Arkansas Supreme Court could push a court that's been targeted by outside conservative groups even further to the right.
+
+## North Carolina is among GOP states to change its voting rules. The primary will be a test
+ - [https://apnews.com/article/voting-laws-voter-id-republicans-north-carolina-1c2d5b033620244a7ea5012adf669b30](https://apnews.com/article/voting-laws-voter-id-republicans-north-carolina-1c2d5b033620244a7ea5012adf669b30)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:10:15+00:00
+
+North Carolina’s Super Tuesday ballot has plenty to draw voters, with primaries for governor and president in a swing state that will be among the most closely watched in November.
+
+## Michigan GOP expected to unite behind Trump despite internal strife at nominating convention
+ - [https://apnews.com/article/michigan-gop-trump-delegates-convention-karamo-048a00150da0ed99ed5949f70a98e145](https://apnews.com/article/michigan-gop-trump-delegates-convention-karamo-048a00150da0ed99ed5949f70a98e145)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:09:03+00:00
+
+Michigan Republicans are set to hold a nominating convention Saturday in Grand Rapids where they will allocate 39 of the state's 55 GOP presidential delegates.
+
+## Ukrainian troops are rationing ammo. But House Republicans plan to take weeks to consider aid
+ - [https://apnews.com/article/congress-ukraine-resupply-aid-republicans-53db93c5db8ab249503e93b558da5bd8](https://apnews.com/article/congress-ukraine-resupply-aid-republicans-53db93c5db8ab249503e93b558da5bd8)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:08:19+00:00
+
+Shortages of ammo and supplies are quickly resulting in Ukraine losing ground, U.S. congressional leaders warn.
+
+## Republicans in Idaho, Missouri and Michigan will meet to weigh in on the presidential race
+ - [https://apnews.com/article/republican-caucuses-idaho-missouri-michigan-trump-haley-5d3934acc54d6919427cfb025002f15c](https://apnews.com/article/republican-caucuses-idaho-missouri-michigan-trump-haley-5d3934acc54d6919427cfb025002f15c)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:07:37+00:00
+
+More delegates are up for grabs Saturday as Donald Trump looks to get closer to clinching the Republican nomination and Nikki Haley continues seeking her first win.
+
+## Peace, music and memories: As the 1960s fade, historians scramble to capture Woodstock's voices
+ - [https://apnews.com/article/woodstock-music-festival-museum-bethel-oral-history-b01faae2d19d38e28180c98146891c30](https://apnews.com/article/woodstock-music-festival-museum-bethel-oral-history-b01faae2d19d38e28180c98146891c30)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:05:44+00:00
+
+An estimated 450,000 people attended the Woodstock festival in August 1969. It was a haphazard event that now evokes memories about a society’s state of mind nearing the end of a tumultuous decade.
+
+## As Sweden joins NATO, it bids farewell to centuries of neutrality
+ - [https://apnews.com/article/sweden-nato-policy-of-neutrality-nonaligment-74ae8d15b2e27f9467634d7cde414625](https://apnews.com/article/sweden-nato-policy-of-neutrality-nonaligment-74ae8d15b2e27f9467634d7cde414625)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:05:40+00:00
+
+The ceremonial formalities are expected soon, after 18 months of delays while Turkey and Hungary sought concessions from other members of the alliance.
+
+## Palestinian women detained by Israel allege abuse in Israeli custody
+ - [https://apnews.com/article/israel-hamas-gaza-detainee-palestinian-deaths-hospitals-51d4727a1365b9e06198579c3eb856f8](https://apnews.com/article/israel-hamas-gaza-detainee-palestinian-deaths-hospitals-51d4727a1365b9e06198579c3eb856f8)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:02:09+00:00
+
+Palestinians in Gaza returning from wartime detention in Israeli custody are reporting physical abuse and medical neglect inside Israel's prisons.
+
+## A New Jersey city that limited street parking hasn’t had a traffic death in 7 years
+ - [https://apnews.com/article/hoboken-zero-traffic-deaths-daylighting-pedestrian-safety-007dec67706c1c09129da1436a3d9762](https://apnews.com/article/hoboken-zero-traffic-deaths-daylighting-pedestrian-safety-007dec67706c1c09129da1436a3d9762)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T05:01:54+00:00
+
+Hoboken, New Jersey, recently marked seven consecutive years without a traffic death. Officials there credit their decision to take away some street parking, a change that increases visibility for motorists, cyclists and pedestrians.
+
+## Louisiana secures 77-61 win over Southern Miss
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-louisiana-6c610388a712404aa24a19f6a16b096a](https://apnews.com/sports/mens-college-basketball-college-basketball-louisiana-6c610388a712404aa24a19f6a16b096a)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T04:57:03+00:00
+
+Led by Joe Charles' 16 points, the Louisiana Ragin' Cajuns defeated the Southern Miss Golden Eagles 77-61
+
+## Loyola Chicago defeats No. 21 Dayton 77-72 behind Watson's 24 points
+ - [https://apnews.com/article/dayton-loyola-chicago-score-5f0773aa3f963c2622de398134c57cd4](https://apnews.com/article/dayton-loyola-chicago-score-5f0773aa3f963c2622de398134c57cd4)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T04:53:38+00:00
+
+Des Watson scored 24 points and Braden Norris made two crucial 3-pointers down the stretch, finishing with 19 points and 11 assists as Loyola Chicago defeated No. 21 Dayton 77-72.
+
+## No. 1 seed Jessica Pegula reaches semifinals of San Diego Open
+ - [https://apnews.com/article/san-diego-tennis-d28c6e702a4989244855306df62e86b4](https://apnews.com/article/san-diego-tennis-d28c6e702a4989244855306df62e86b4)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T04:52:04+00:00
+
+Top-seeded Jessica Pegula beat Anna Blinkova 6-1, 2-6, 6-2 on Friday to advance to the semifinals of the San Diego Open.
+
+## Raptors star Scottie Barnes out indefinitely with broken middle finger on left hand
+ - [https://apnews.com/article/scottie-barnes-raptors-finger-a9a8b77909f1138822c89fa94ce97d37](https://apnews.com/article/scottie-barnes-raptors-finger-a9a8b77909f1138822c89fa94ce97d37)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T04:40:24+00:00
+
+Toronto Raptors star Scottie Barnes will be sidelined indefinitely after he broke the middle finger on his left hand during the first half of Friday night’s loss to Golden State.
+
+## Federal officials will investigate Oklahoma school following nonbinary teenager's death
+ - [https://apnews.com/article/nonbinary-teen-oklahoma-investigation-nex-benedict-ce3c70d0be818acb766f099e6853e238](https://apnews.com/article/nonbinary-teen-oklahoma-investigation-nex-benedict-ce3c70d0be818acb766f099e6853e238)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T04:40:16+00:00
+
+Federal officials are opening an investigation into the Oklahoma school district where a nonbinary 16-year-old high school student was in a fight before dying last month.
+
+## Pruitt scores 23, Lipscomb beats Eastern Kentucky 81-67
+ - [https://apnews.com/sports/mens-college-basketball-college-basketball-2fa1228769f84e2983bdd531826f9772](https://apnews.com/sports/mens-college-basketball-college-basketball-2fa1228769f84e2983bdd531826f9772)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T04:37:12+00:00
+
+Led by Will Pruitt's 23 points, the Lipscomb Bisons defeated the Eastern Kentucky Colonels 81-67
+
+## Sykes scores 30, Texas State knocks off Troy 82-79 in OT
+ - [https://apnews.com/sports/college-basketball-mens-college-basketball-davion-sykes-texas-state-bobcats-81bc53384d84461e9f16916afade573d](https://apnews.com/sports/college-basketball-mens-college-basketball-davion-sykes-texas-state-bobcats-81bc53384d84461e9f16916afade573d)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-03-02T04:37:12+00:00
+
+The Texas State Bobcats defeated the Troy Trojans 82-79 in overtime led by Davion Sykes' 30 points
+

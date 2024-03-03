@@ -1,0 +1,195 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Can NASA Return Mars Samples to Earth?  New Audit Raises Doubts
+ - [https://science.slashdot.org/story/24/03/02/2243252/can-nasa-return-mars-samples-to-earth-new-audit-raises-doubts?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/03/02/2243252/can-nasa-return-mars-samples-to-earth-new-audit-raises-doubts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T23:10:09.823603+00:00
+
+Space.com writes that NASA's plan to return samples from Mars to the earth "is facing major challenges, according to a new report. 
+
+"Design, cost and scheduling are all significant obstacles, an audit report of NASA's Mars Sample Return (MSR) Program by the agency's Office of Inspector General (OIG) finds..."
+
+It involves landing on Mars to collect samples taken by the Perseverance rover and launching those samples to rendezvous with an orbiter, which will haul them to Earth. Perseverance is already on Mars, snagging and storing samples. But the program still needs to build a Sample Retrieval Lander and an Earth Return Orbiter, the latter being developed and funded by the European Space Agency. The Mars Sample Return program is one of the most technically complex, operationally demanding and ambitious robotic science missions ever undertaken by NASA, according to the OIG report. 
+
+The report notes design, architecture and schedule issues with the Capture Containment and Retu
+
+## Microsoft Begins Adding 'Copilot' Icon to Windows 11 Taskbars
+ - [https://tech.slashdot.org/story/24/03/02/2146213/microsoft-begins-adding-copilot-icon-to-windows-11-taskbars?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/02/2146213/microsoft-begins-adding-copilot-icon-to-windows-11-taskbars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T22:04:19.644769+00:00
+
+Microsoft is "delighted to introduce some useful new features" for its "Copilot Preview for Windows 11," according to a recent blog post. 
+
+TechRepublic adds that "most features will be enabled by default... rolling out from today until April 2024."
+
+Windows 11 users will be able to change system settings through prompts typed directly into Copilot in Windows, currently accessible in the Copilot Preview via an icon on the taskbar, or by pressing Windows + C. Microsoft Copilot will be able to perform the following actions: 
+
+- Turn on/off battery saver.
+- Show device information.
+- Show system information.
+- Show battery information.
+- Open storage page.
+- Launch Live Captions.
+- Launch Narrator.
+- Launch Screen Magnifier.
+- Open Voice Access page.
+- Open Text size page.
+- Open contrast themes page.
+- Launch Voice input.
+- Show available Wi-Fi network.
+- Display IP Address.
+- Show Available Storage. 
+
+The new third-party app integrations for Copilot will give Windows 11 users 
+
+## TurboTax and H&amp;R Block Want 'Permission to Blab Your Money Secrets'
+ - [https://news.slashdot.org/story/24/03/02/079232/turbotax-and-hr-block-want-permission-to-blab-your-money-secrets?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/02/079232/turbotax-and-hr-block-want-permission-to-blab-your-money-secrets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T21:01:13.119076+00:00
+
+Americans filing their taxes could face privacy threats, reports the Washington Post:
+"We just need your OK on a couple of things," TurboTax says as you prepare your tax return. 
+
+Alarm bells should be ringing in your head at the innocuous tone. 
+
+This is where America's most popular tax-prep website asks you to sign away the ironclad privacy protections of your tax return, including the details of your income, home mortgage and student loan payments. With your permission to blab your money secrets, the company earns extra income from showing you advertisements for the next three years for things like credit cards and mortgage offers targeted to your financial situation. 
+
+You have the legal right to say no when TurboTax asks for your permission to "share your data" or use your tax information to "improve your experience...." 
+The article complains that granting permission allows TurboTax to share details with "sibling" companies "such as your salary, the amount of your tax r
+
+## New Study Shows Like-Charged Particles Attract or Repel in Solution
+ - [https://science.slashdot.org/story/24/03/02/1851208/new-study-shows-like-charged-particles-attract-or-repel-in-solution?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/03/02/1851208/new-study-shows-like-charged-particles-attract-or-repel-in-solution?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T19:59:02.683316+00:00
+
+You know how like-charged objects repel &mdash; and do so regardless of the sign of their electrical charge? Maybe not always, according to new research published in Nature. 
+
+"We demonstrate experimentally that the solvent plays a hitherto unforeseen but crucial role in interparticle interactions," they write. But more importantly, "interactions in the fluid phase can break charge-reversal symmetry. 
+
+ We show that in aqueous solution, negatively charged particles can attract at long range while positively charged particles repel. [In solvents like alcohols "that exhibit an inversion of the net molecular dipole at an interface"], positively charged particles may attract whereas negatives repel. 
+
+The observations hold across a wide variety of surface chemistries: from inorganic silica and polymeric particles to polyelectrolyte- and polypeptide-coated surfaces in aqueous solution. 
+
+A theory of interparticle interactions that invokes solvent structuring at an interface captur
+
+## Two New 'Star Wars' Movies Will Begin Filming
+ - [https://entertainment.slashdot.org/story/24/03/02/049248/two-new-star-wars-movies-will-begin-filming?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/24/03/02/049248/two-new-star-wars-movies-will-begin-filming?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T18:53:54.057871+00:00
+
+"The Mandalorian &amp; Grogu and Daisy Ridley's untitled Star Wars movie have received working titles ahead of their respective production starts," reports CBR:
+
+ According to The Cosmic Circus, The Mandalorian and Grogu will be filmed under the working title "Thunder Alley", while Ridley's Star Wars movie will be known as "New Jedi Order..." The Mandalorian &amp; Grogu will be the first Star Wars movie to enter production since 2019's The Rise of Skywalker, the ninth and final installment in The Skywalker Saga... 
+
+[In Ridley's untitled Star Wars movie], Ridley will reprise her role from the Star Wars sequel trilogy as Rey, with the new movie set to follow the fan-favorite Jedi as she rebuilds the Jedi Order roughly 15 years after the events of The Rise of Skywalker... Other Star Wars movies in the works include James Mangold's upcoming feature about the origins of The Force, set during the Dawn of the Jedi era; and Dave Filoni's feature-length film set in the New Republic e
+
+## Watch the Moment 43 Unionized YouTube Contractors Were All Laid Off
+ - [https://news.slashdot.org/story/24/03/02/0638217/watch-the-moment-43-unionized-youtube-contractors-were-all-laid-off?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/02/0638217/watch-the-moment-43-unionized-youtube-contractors-were-all-laid-off?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T17:48:53.379399+00:00
+
+An anonymous Slashdot reader shared this report from The Washington:
+
+A YouTube contractor was addressing the Austin City Council on Thursday, calling on them to urge Google to negotiate with his union, when a colleague interrupted him with jaw-dropping news: His 43-person team of contractors had all been laid off... 
+
+The YouTube workers, who work for Google and Cognizant, unanimously voted to unionize under the Alphabet Workers Union-CWA in April 2023. Since then, the workers say that Google has refused to bargain with them. Thursday's layoff signifies continued tensions between Google and its workers, some of whom in 2021 formed a union... 
+
+Workers had about 20 minutes to gather their belongings and leave the premises before they were considered trespassing. 
+
+Video footage of the moment is embedded at the top of the article. "I was speechless, shocked," said the contractor who'd been speaking. He told the Washington Post "I didn't know what to do. But angered, that was t
+
+## Threads' API Is Coming in June
+ - [https://tech.slashdot.org/story/24/03/02/0247258/threads-api-is-coming-in-june?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/02/0247258/threads-api-is-coming-in-june?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T16:43:50.749802+00:00
+
+In 2005 Gabe Rivera was a compiler software engineer at Intel &mdash; before starting the tech-news aggregator Techmeme. And last year his Threads profile added the words "This is a little self-serving, but I want all social networks to be as open as possible." 
+
+Friday Threads engineer Jesse Chen posted that it was Rivera's post when Threads launched asking for an API that "convinced us to go for it." And Techmeme just made its first post using the API, according to Chen.
+The Verge reports :
+
+Threads plans to release its API by the end of June after testing it with a limited set of partners, including Hootsuite, Sprinklr, Sprout Social, Social News Desk, and Techmeme. The API will let developers build third-party apps for Threads and allow sites to publish directly to the platform. 
+
+
+More from TechCrunch:
+
+ Engineer Jesse Chen posted that the company has been building the API for the past few months. The API currently allows users to authenticate, publish threads and fetch 
+
+## Ransomware Attack Hampers Prescription Drug Sales at 90% of US Pharmacies
+ - [https://yro.slashdot.org/story/24/03/02/071229/ransomware-attack-hampers-prescription-drug-sales-at-90-of-us-pharmacies?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/02/071229/ransomware-attack-hampers-prescription-drug-sales-at-90-of-us-pharmacies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T15:38:42.856735+00:00
+
+"A ransomware gang once thought to have been crippled by law enforcement has snarled prescription processing for millions of Americans over the past week..." reports the Washington Post. 
+
+"The hackers stole data about patients, encrypted company files and demanded money to unlock them, prompting the company to shut down most of its network as it worked to recover."
+
+Insurance giant UnitedHealthcare Group said the hackers struck its Change Health business unit, which routes prescription claims from pharmacies to companies that determine whether patients are covered by insurance and what they should pay... Change Health and a rival, CoverMyMeds, are the two biggest players in the so-called switch business, charging pharmacies a small fee for funneling claims to insurers. "When one of them goes down, obviously it's a major problem," said Patrick Berryman, a senior vice president at the National Community Pharmacists Association... 
+
+UnitedHealth estimated that more than 90 perc
+
+## Spotify, Epic Games, and Others Argue Apple's App Store Changes Do Not Comply With DMA
+ - [https://apple.slashdot.org/story/24/03/02/0118225/spotify-epic-games-and-others-argue-apples-app-store-changes-do-not-comply-with-dma?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/03/02/0118225/spotify-epic-games-and-others-argue-apples-app-store-changes-do-not-comply-with-dma?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T13:28:47.522744+00:00
+
+An anonymous reader quotes a report from MacRumors: Spotify, Epic Games, Deezer, Paddle, and several other developers and EU associations today sent a joint letter to the European Commission to complain about Apple's "proposed scheme for compliance" with the Digital Markets Act (DMA). The 34 companies and associations do not believe Apple's plans "meet the law's requirements." Apple's changes "disregard both the spirit and letter of the law" and if left unchanged, will "make a mockery of the DMA," according to the letter. Several specific components of Apple's plan are highlighted, including the Core Technology Fee, the Notarization process, and the terms that developers must accept: 
+- Apple's requirement to stay with the current App Store terms or opt in to new terms provides developers with "an unworkable choice" that adds complexity and confusion. The letter suggests that neither option is DMA compliant and would "consolidate Apple's stronghold over digital markets."
+- Th
+
+## Copilot For OneDrive Will Fetch Your Files and Summarize Them
+ - [https://tech.slashdot.org/story/24/03/02/016213/copilot-for-onedrive-will-fetch-your-files-and-summarize-them?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/02/016213/copilot-for-onedrive-will-fetch-your-files-and-summarize-them?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T10:13:31.668643+00:00
+
+An upcoming April release of Copilot for OneDrive will be able to find, summarize, and extract information from a wide range of files, including text documents, presentations, spreadsheets, HTML pages and PDF files. "Users can ask Copilot to tailor summaries to their liking, such as only including key points or highlights from a specific section," reports The Verge. From the report: The chatbot will also be able to respond to natural language prompts and answer highly specific questions about the contents of a user's files. Some examples given by Microsoft included asking Copilot to tabulate a week's worth of beverage sales and throw the data in a table view by day. Or, asking it to list the pros and cons of a project, or display the most recent or relevant files. Users can even ask Copilot for advice on how to make their documents better. Copilot on OneDrive will also be able to create outlines, tables, and lists for users, based on existing files. A few examples given were:
+
+## Rogue Editors Started a Competing Wikipedia That's Only About Roads
+ - [https://news.slashdot.org/story/24/03/01/2246227/rogue-editors-started-a-competing-wikipedia-thats-only-about-roads?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/01/2246227/rogue-editors-started-a-competing-wikipedia-thats-only-about-roads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T08:05:58.604263+00:00
+
+An anonymous reader quotes a report from Gizmodo: For 20 years, a loosely organized group of Wikipedia editors toiled away curating a collection of 15,000 articles on a single subject: the roads and highways of the United States. Despite minor disagreements, the US Roads Project mostly worked in harmony, but recently, a long-simmering debate over the website's rules drove this community to the brink. Efforts at compromise fell apart. There was a schism, and in the fall of 2023, the editors packed up their articles and moved over to a website dedicated to roads and roads alone. It's called AARoads, a promised land where the editors hope, at last, that they can find peace. "Roads are a background piece. People drive on them every day, but they don't give them much attention," said editor Michael Gronseth, who goes by Imzadi1979 on Wikipedia, where he dedicated his work to Michigan highways, specifically. But a road has so much to offer if you look beyond the asphalt. It's the n
+
+## California Approves Waymo Robotaxi Services In LA, SF Neighboring Cities
+ - [https://tech.slashdot.org/story/24/03/01/2255216/california-approves-waymo-robotaxi-services-in-la-sf-neighboring-cities?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/01/2255216/california-approves-waymo-robotaxi-services-in-la-sf-neighboring-cities?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T08:05:55.880357+00:00
+
+The California Public Utilities Commission (CPUC) approved Alphabet's Waymo robotaxi service to operate in Los Angeles and some cities near San Francisco. Reuters reports: Waymo, which already operates in San Francisco and Phoenix, applied on Jan 19 to expand its driverless services, saying it would work with policymakers, first responders and community organizations. Last month, the CPUC suspended the application "for further staff review." "Waymo may begin fared driverless passenger service operations in the specified areas of Los Angeles and the San Francisco Peninsula, effective today," the regulator said on a notice posted to its website Friday.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=California+Approves+Waymo+Robotaxi+Services+In+LA%2C+SF+Neighboring+Cities%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F03%2F01%2F2255216%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_lar
+
+## Meta Says It's Deleting All Oculus Accounts At the End of the Month
+ - [https://tech.slashdot.org/story/24/03/01/2258257/meta-says-its-deleting-all-oculus-accounts-at-the-end-of-the-month?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/01/2258257/meta-says-its-deleting-all-oculus-accounts-at-the-end-of-the-month?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T08:05:53.821881+00:00
+
+Emma Roth reports via The Verge: If you still haven't migrated your Oculus account to a Meta one, you might want to do that soon. In an email sent to users, the company says it will delete Oculus accounts on March 29th, 2024, preventing you from reactivating or retrieving your apps, in-app purchases, store credits, and more. You'll lose your achievements, friends list, and any content created with your Oculus account if you don't migrate to a Meta account before then.
+ 
+Oculus accounts have been on the way out since 2020, when the company then known as Facebook started requiring new users to sign up with Facebook accounts instead. However, it added the ability to create a Meta account in 2022, offering an alternative to users who didn't want to link their Facebook account to their Quest headset. Meta stopped letting users log in to their Oculus accounts in January 2023. If you've got a Quest gathering dust in a drawer somewhere, now's your last chance to migrate your Oculus a
+
+## Yelp Says Remote-First Policy Boosted Job Apps By 43%, Led To a More Satisfied Workforce
+ - [https://it.slashdot.org/story/24/03/01/2312238/yelp-says-remote-first-policy-boosted-job-apps-by-43-led-to-a-more-satisfied-workforce?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/03/01/2312238/yelp-says-remote-first-policy-boosted-job-apps-by-43-led-to-a-more-satisfied-workforce?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T08:05:51.526577+00:00
+
+Since implementing a remote-first policy in 2021, Yelp says it's experienced a surge in job applications and a more satisfied workforce. Fortune reports: Last year, the total number of job applicants was 43% higher compared to 2021, according to Yelp's 2024 Remote Work Report released earlier this month. The number of applicants for sales roles skyrocketed by 103%, and prospects for its general and administrative (G&amp;A) positions shot up 52% over the same time period. Those increases fall in line with data that shows a tidal wave of applicants clamoring for remote jobs. "It's rewarding to see both the level of interest and the quality of our applicants," Carmen Amara, chief people officer at Yelp, told Fortune. "Remote work has allowed us to attract a number of candidates who previously would not have applied to Yelp due to their location."
+ 
+Despite arguments that remote work weakens workers' connections and growth opportunities, Yelp says it has found the opposite to be 
+
+## Helium Discovery In Northern Minnesota May Be Biggest Ever In North America
+ - [https://news.slashdot.org/story/24/03/01/2320203/helium-discovery-in-northern-minnesota-may-be-biggest-ever-in-north-america?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/01/2320203/helium-discovery-in-northern-minnesota-may-be-biggest-ever-in-north-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T08:05:49.341195+00:00
+
+An anonymous reader quotes a report from CBS News: Scientists and researchers are celebrating what they call a "dream" discovery after an exploratory drill confirmed a high concentration of helium buried deep in Minnesota's Iron Range. Thomas Abraham-James, CEO of Pulsar Helium, said the confirmed presence of helium could be one of the most significant such finds in the world. CBS News Minnesota toured the drill site soon after the drill rig first broke ground at the beginning of February. The discovery happened more than three weeks later at about 2 a.m. Thursday, as a drill reached its depth of 2,200 feet below the surface. According to Abraham-James, the helium concentration was measured at 12.4%, which is higher than forecasted and roughly 30 times the industry standard for commercial helium. "12.4% is just a dream. It's perfect," he said.
+ 
+Now that helium is confirmed to be underground in Babbitt, Abraham-James said the next phase of the project is a feasibility study b
+
+## The Desert Planet In 'Dune' Is Plausible, According To Science
+ - [https://science.slashdot.org/story/24/03/01/2328228/the-desert-planet-in-dune-is-plausible-according-to-science?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/03/01/2328228/the-desert-planet-in-dune-is-plausible-according-to-science?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-02T08:05:47.119570+00:00
+
+The desert planet Arrakis in Frank Herbert's science fiction novel Dune is plausible, says Alexander Farnsworth, a climate modeler at the University of Bristol in England. According to Science News, the world would be a harsh place for humans to live, and they probably wouldn't have to worry about getting eaten by extraterrestrial helminths. From the report: For their Arrakis climate simulation, which you can explore at the website Climate Archive, Farnsworth and colleagues started with the well-known physics that drive weather and climate on Earth. Using our planet as a starting point makes sense, Farnsworth says, partly because Herbert drew inspiration for Arrakis from "some sort of semi-science of looking at dune systems on the Earth itself." The team then added nuggets of information about the planet from details in Herbert's novels and in the Dune Encyclopedia. According to that intel, the fictional planet's atmosphere is similar to Earth's with a couple of notable diffe
+

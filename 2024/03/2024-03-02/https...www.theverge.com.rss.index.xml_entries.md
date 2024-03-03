@@ -1,0 +1,65 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## California gives Waymo the green light to expand robotaxi operations
+ - [https://www.theverge.com/2024/3/2/24088454/waymo-california-highway-expansion-los-angeles-bay-area](https://www.theverge.com/2024/3/2/24088454/waymo-california-highway-expansion-los-angeles-bay-area)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-03-02T17:36:26+00:00
+
+<figure>
+      <img alt="A self-driving Waymo car drives on a road in Santa Monica on February 21st, 2023." src="https://cdn.vox-cdn.com/thumbor/OXvXqBu2BPB9jWLvU4jrTOLBIYc=/0x0:5472x3648/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73178000/1247366716.0.jpg" />
+        <figcaption>Photo by Allen J. Schaben / Los Angeles Times via Getty Images</figcaption>
+    </figure>
+
+  <p id="u14oBf">Waymo is now allowed to operate its self-driving robotaxis on highways in parts of Los Angeles and in the Bay Area following a California regulator’s approval of its expansion (<a href="https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf">PDF</a>) plans on Friday. This means the company’s cars will now be allowed to drive at up to 65mph on local roads and highways in approved areas. In a <a href="https://www.washingtonpost.com/technology/2024/03/01/waymo-expands-
+
+## Apple is taking up to $150 off the Beats Studio Pro and Studio Buds Plus
+ - [https://www.theverge.com/2024/3/2/24087574/beats-studio-pro-buds-plus-eufy-smarttrack-card-item-tracker-deal-sale](https://www.theverge.com/2024/3/2/24087574/beats-studio-pro-buds-plus-eufy-smarttrack-card-item-tracker-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-03-02T15:29:05+00:00
+
+<figure>
+      <img alt="A product photo of the Beats Studio Pro noise-canceling headphones." src="https://cdn.vox-cdn.com/thumbor/jAI-ntoMU8jfcEu0HvhYsdI8a34=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73177770/DSCF2651_Enhanced_NR.0.jpg" />
+        <figcaption><em>The Apple-owned Beats Studio Pro support both iOS and Android devices.</em> | Photo by Chris Welch / The Verge</figcaption>
+    </figure>
+
+  <p id="0mQ5BY">Apple rarely discounts its own products, which is why I was pleasantly surprised to find Apple welcoming the weekend with some terrific deals on Beats headphones and earbuds. Both the <a href="https://www.theverge.com/23799799/beats-studio-pro-review-apple-google-features"><strong>Beats Studio Pro</strong></a> and <a href="https://www.theverge.com/23725921/beats-studio-buds-plus-earbuds-review-translucent-clear"><strong>Beats Studio Buds Plus</strong></a><strong> </strong>are down to some of their best prices to date, with numerous third-
+
+## Halo’s latest episode showed us the best a Spartan could be
+ - [https://www.theverge.com/2024/3/2/24087962/halo-paramount-plus-episode-five-aleria](https://www.theverge.com/2024/3/2/24087962/halo-paramount-plus-episode-five-aleria)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-03-02T14:00:00+00:00
+
+<figure>
+      <img alt="Image from Halo episode 4, “Reach,” featuring Natasha Culzac as Spartan Riz-028 wielding a large minigun as sparks fly around her." src="https://cdn.vox-cdn.com/thumbor/d7Jwgfkpsu4Dz4M3XUjKdRwxyzk=/0x0:1920x1280/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73177589/Halo_204_AS_1103_1020_RT.0.jpeg" />
+        <figcaption>Image: Adrienn Szabo / Paramount Plus</figcaption>
+    </figure>
+
+  <p id="EHVQZh">When <a href="https://www.theverge.com/24063618/halo-season-2-premiere-review-paramount-plus"><em>Halo </em>season 2</a> finally covered the fall of the planet Reach — a foundational, emotional moment in <em>Halo</em> lore — I figured that I’d write a few words of praise about it. But then I saw the episode after, “Aleria,” and that episode, not “Reach,” is the one that truly delivers a <em>Halo</em> experience worthy of the games yet so wonderfully unlike them.</p>
+<p id="GFZKdL"><em><strong>Spoilers for </strong></em><strong>Halo</strong><em><st
+
+## How to manage app permissions on your iPhone
+ - [https://www.theverge.com/24087604/iphone-app-permissions-how-to](https://www.theverge.com/24087604/iphone-app-permissions-how-to)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-03-02T14:00:00+00:00
+
+<figure>
+      <img alt="iPhone with homepage icons against an illustrated background" src="https://cdn.vox-cdn.com/thumbor/Lr3pSKlw5wHNRR4dzFHWAAIK0xw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73177579/HT015_S_Haddad_ios_iphone_14_01.0.jpg" />
+        <figcaption>Illustration by Samar Haddad / The Verge</figcaption>
+    </figure>
+
+  <p id="OIQX2c">Every time you install an app on your iPhone, it comes with permissions attached — permissions that determine what it can and can’t do. These permissions cover some pretty fundamental parts of iOS, including access to the iPhone camera, microphone, and current location. The permissions get asked for one by one as they’re needed, so you’ve got plenty of control over how your apps are behaving. </p>
+<p id="Lu961c">But sometimes, especially when you’re in a hurry, it’s easy to accidentally give permission for an app to access data it doesn’t really require. Does your note-taking app <em>really</em> need to see
+
+## Roblox says it hasn’t blocked Linux or Steam Deck, but it’s reportedly toast there
+ - [https://www.theverge.com/2024/3/1/24088114/roblox-linux-steam-deck-workarounds-wine-not-supported](https://www.theverge.com/2024/3/1/24088114/roblox-linux-steam-deck-workarounds-wine-not-supported)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-03-02T00:22:41+00:00
+
+<figure>
+      <img alt="An illustration of the Roblox logo." src="https://cdn.vox-cdn.com/thumbor/lBC3WJD2LFIJTs3A0g1VkgJ5Z9c=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73177000/STK146_Roblox_02.0.jpg" />
+        <figcaption>Image: The Verge</figcaption>
+    </figure>
+
+  <p id="arSVTg">Bad news for Roblox fans on Linux — the workarounds are dead. <a href="https://www.gamingonlinux.com/2024/03/game-over-for-roblox-on-linux-steam-deck-as-its-now-blocked/"><em>GamingOnLinux</em> reports</a> that the latest version of Roblox “forcefully blocks it from working with Wine,” throwing a “Wine is not supported” error message even when Roblox-specific tools <a href="https://vinegarhq.org/">like Vinegar</a> <a href="https://gitlab.com/brinkervii/grapejuice">and Grapejuice</a> are added. Wine is the compatibility layer that lets many Windows games run on Linux systems.</p>
+<p id="FheENW">But Roblox claims it’s not personal. “Confirming there has been no change on 
+
