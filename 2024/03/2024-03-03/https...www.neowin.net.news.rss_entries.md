@@ -1,0 +1,51 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Get a lifetime subscription to PDF Extra Personal Ultimate at 58% off
+ - [https://www.neowin.net/deals/get-a-lifetime-subscription-to-pdf-extra-personal-ultimate-at-58-off](https://www.neowin.net/deals/get-a-lifetime-subscription-to-pdf-extra-personal-ultimate-at-58-off)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-03T18:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697535958_pdf-extra_medium.jpg" /></div>With today&#039;s highlighted Price Dropped deal, unlock endless PDF possibilities: edit, combine, annotate, fill, sign, convert and save more than half off the normal cost. Get it today via Neowin Deals. <a href="https://www.neowin.net/deals/get-a-lifetime-subscription-to-pdf-extra-personal-ultimate-at-58-off/">Read more...</a>
+
+## How to install Windows 11 Moment 5 and turn on its features
+ - [https://www.neowin.net/guides/how-to-install-windows-11-moment-5-and-turn-on-its-features](https://www.neowin.net/guides/how-to-install-windows-11-moment-5-and-turn-on-its-features)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-03T16:10:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1709481358_windows_11_moment_5_medium.jpg" /></div>Did you hear that Microsoft has started rolling out a new feature update for Windows 11? It is now available in the Stable Channel, but getting &quot;Moment 5&quot; it is a little tricky; here is how to do it. <a href="https://www.neowin.net/guides/how-to-install-windows-11-moment-5-and-turn-on-its-features/">Read more...</a>
+
+## A quick look back at Microsoft Train Simulator and how it influenced a non-Microsoft series
+ - [https://www.neowin.net/news/a-quick-look-back-at-microsoft-train-simulator-and-how-it-influenced-a-non-microsoft-series](https://www.neowin.net/news/a-quick-look-back-at-microsoft-train-simulator-and-how-it-influenced-a-non-microsoft-series)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-03T12:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1709463929_microsoft-train-simulator_1_medium.jpg" /></div>Microsoft Train Simulator was released in 2001. It was a one-and-done game, but its original development team later made a similar game for EA and went on to create its own train sim titles. <a href="https://www.neowin.net/news/a-quick-look-back-at-microsoft-train-simulator-and-how-it-influenced-a-non-microsoft-series/">Read more...</a>
+
+## Microsoft 365 Weekly: Outlook to add new work location features and more
+ - [https://www.neowin.net/news/microsoft-365-weekly-outlook-to-add-new-work-location-features-and-more](https://www.neowin.net/news/microsoft-365-weekly-outlook-to-add-new-work-location-features-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-03T11:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/06/1623452685_microsoft_teams_9_medium.jpg" /></div>In this week&#039;s look back at new entries on the Microsoft 365 Roadmap website, the new Outlook will soon add a feature for remote workers so they can change their work location and more. <a href="https://www.neowin.net/news/microsoft-365-weekly-outlook-to-add-new-work-location-features-and-more/">Read more...</a>
+
+## Get this big Gigabyte 34-inch ultrawide gaming PC monitor for its lowest price ever
+ - [https://www.neowin.net/deals/get-this-big-gigabyte-34-inch-ultrawide-gaming-pc-monitor-for-its-lowest-price-ever](https://www.neowin.net/deals/get-this-big-gigabyte-34-inch-ultrawide-gaming-pc-monitor-for-its-lowest-price-ever)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-03T10:24:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1709458871_gigabyte-34-inch-monitor_medium.jpg" /></div>The 34-inch Gigabyte M34WQ ultrawide gaming PC monitor has a 1440p resolution and a 144Hz refresh rate. It&#039;s currently available on Amazon for a new all-time low price of only $369.99. <a href="https://www.neowin.net/deals/get-this-big-gigabyte-34-inch-ultrawide-gaming-pc-monitor-for-its-lowest-price-ever/">Read more...</a>
+
+## OpenAI reportedly told employees Elon Musk's lawsuit stems from regrets about his departure
+ - [https://www.neowin.net/news/openai-reportedly-told-employees-elon-musks-lawsuit-stems-from-regrets-about-his-departure](https://www.neowin.net/news/openai-reportedly-told-employees-elon-musks-lawsuit-stems-from-regrets-about-his-departure)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-03T09:44:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/03/1678432502_levart_photographer-7q-ke4szzvq-unsplash_medium.jpg" /></div>A new report claims that OpenAI sent its employees a memo about Elon Musk&#039;s lawsuit against the company, claiming that it comes from Musk&#039;s regrets about leaving the company he helped to start. <a href="https://www.neowin.net/news/openai-reportedly-told-employees-elon-musks-lawsuit-stems-from-regrets-about-his-departure/">Read more...</a>
+
+## Microsoft Weekly: more supported CPUs for Windows 11, botched Edge updates, and more
+ - [https://www.neowin.net/news/microsoft-weekly-more-supported-cpus-for-windows-11-botched-edge-updates-and-more](https://www.neowin.net/news/microsoft-weekly-more-supported-cpus-for-windows-11-botched-edge-updates-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-03T09:14:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/02/1708855158_microsoft_weekly_medium.jpg" /></div>Catch up with everything new in the world of Microsoft in our latest Weekly. Windows 11 &quot;Moment 5,&quot; botched Edge updates, new officially supported processors, new Copilot features, and more. <a href="https://www.neowin.net/news/microsoft-weekly-more-supported-cpus-for-windows-11-botched-edge-updates-and-more/">Read more...</a>
+

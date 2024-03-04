@@ -1,0 +1,30 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## How Final Fantasy VII Changed EVERYTHING
+ - [https://www.gamespot.com/videos/how-final-fantasy-vii-changed-everything/2300-6463554](https://www.gamespot.com/videos/how-final-fantasy-vii-changed-everything/2300-6463554)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-03T18:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4267694-ff7_changedeverything_site.jpg" width="480" /> There's a reason Final Fantasy VII REMAKE and Final Fantasy VII Rebirth mean so much to so many people. When Final Fantasy 7 first came to the states, JRPGs had nowhere near the popularity they now enjoy. FF7 changed all of that.
+
+## Final Fantasy 7 Rebirth - Pirate King's Treasure Guide
+ - [https://www.gamespot.com/articles/final-fantasy-7-rebirth-pirate-kings-treasure-guide/1100-6521550/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/final-fantasy-7-rebirth-pirate-kings-treasure-guide/1100-6521550/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-03T16:48:00+00:00
+
+<p>There are a lot of items to find in <a href="https://www.gamespot.com/games/final-fantasy-vii-rebirth/"><strong>Final Fantasy 7 Rebirth</strong></a>. Some might be lost at sea, though there's a way for you to still acquire them. Here's our guide on how to get the Pirate King's Treasure in Final Fantasy 7 Rebirth. Likewise, please be reminded that this guide contains <strong>minor spoilers</strong>.</p><h2>How to get the Pirate King's Treasure in Final Fantasy 7 Rebirth</h2><p>The Pirate King's Treasure discovery becomes available at the start of Chapter 12: A Golden Key. This is when the Tiny Bronco crash lands, becoming a naval vessel instead.</p><p>You can start the activity at Costa del Sol. Simply head to the pier where the Tiny Bronco is docked and open the chest that has ethereal purple crossed swords. A treasure map will appear to show you the locations of four Pirate's Grottoes. You can visit these in any order, though we've numbered them based on how close they ar
+
+## Final Fantasy 7 Rebirth - How To Get The Gilgamesh Summon
+ - [https://www.gamespot.com/gallery/final-fantasy-7-rebirth-gilgamesh-summon-guide/2900-5135](https://www.gamespot.com/gallery/final-fantasy-7-rebirth-gilgamesh-summon-guide/2900-5135)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-03T16:47:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4267775-final-fantasy-7-rebirth-gilgamesh-summon-guide-.jpg" /><br /><h3><p><a href="https://www.gamespot.com/games/final-fantasy-vii-rebirth/"><strong>Final Fantasy 7 Rebirth</strong></a> allows you to summon powerful entities to aid you in battle. Some are available by default or preorders, while others need to be unlocked via the Combat Simulator. Still, there's one eccentric swordsman that you'll cross paths with, and you might just be able to make use of his capabilities. Here's our guide on how to get the Gilgamesh summon in Final Fantasy 7 Rebirth. Likewise, please be reminded that this article contains <strong>minor spoilers</strong>.</p><h2>How to get Gilgamesh in Final Fantasy 7 Rebirth</h2><p>The process to get the Final Fantasy 7 Rebirth Gilgamesh summon is quite a doozy:</p><ul><li>Generally speaking, though, you need to obtain <a href="https://www.gamespot.com/gallery/final-fantasy-7-rebir
+
+## This Yuffie Build Completely Breaks Final Fantasy 7 Rebirth
+ - [https://www.gamespot.com/videos/this-yuffie-build-completely-breaks-final-fantasy-7-rebirth/2300-6463555](https://www.gamespot.com/videos/this-yuffie-build-completely-breaks-final-fantasy-7-rebirth/2300-6463555)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-03T15:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4267727-guide_ff7rebirth_yuffieninjastorm_site.jpg" width="480" /> We found a Yuffie build in Final Fantasy 7 Rebirth that is so powerful is might just cause your PS5 to struggle under the weight.
+

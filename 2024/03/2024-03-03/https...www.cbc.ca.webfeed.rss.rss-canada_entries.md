@@ -1,0 +1,44 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Toronto police reviewing pro-Palestinian protest that prompted Trudeau team to scrap event
+ - [https://www.cbc.ca/news/canada/toronto-pro-palestinian-protest-trudeau-art-gallery-of-ontario-1.7132664?cmp=rss](https://www.cbc.ca/news/canada/toronto-pro-palestinian-protest-trudeau-art-gallery-of-ontario-1.7132664?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-03T16:33:41+00:00
+
+<img alt="Protesters wave flags as police stand guard outside a building." height="349" src="https://i.cbc.ca/1.7132667.1709500062!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/trudeau-meloni-20240302.JPG" title="Protesters wave flags and sing as police line the entrance to the Art Gallery of Ontario, where a cancelled event for Canada&apos;s Prime Minister Justin Trudeau and Italy&apos;s Prime Minister Giorgia Meloni, was to take place, in Toronto, Saturday, Mar. 2, 2024.   THE CANADIAN PRESS/Cole Burston" width="620" /><p>Investigators with the Toronto Police Service (TPS) are reviewing whether illegal activity occurred during a Saturday pro-Palestinian protest that led Prime Minister Justin Trudeau's team to cancel a reception to host a visiting G7 leader, the TPS said Sunday.</p>
+
+## Canadian surfer Sanoa Dempfle-Olin secures Olympic spot, Erin Brooks eliminated early at worlds
+ - [https://www.cbc.ca/sports/olympics/summer/surfing/sanoa-dempfle-olin-canadians-surfing-worlds-puerto-rico-1.7132661?cmp=rss](https://www.cbc.ca/sports/olympics/summer/surfing/sanoa-dempfle-olin-canadians-surfing-worlds-puerto-rico-1.7132661?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-03T16:13:00+00:00
+
+<img alt="Canadian female surfer rides the wave during competition at the world championships in Arecibo, Puerto Rico." height="349" src="https://i.cbc.ca/1.7132668.1709500109!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/dempfle-olin-sanoa-1180.jpg" title="Canada&apos;s Sanoa Demple-Olin, pictured competing at the surfing world championships this week in Puerto Rico, posted the single-highest wave score and heat total, surpassing reigning Olympic gold medallist and five-time world champion Carissa Moore of Honolulu." width="620" /><p>It was far from a lost week for Canada at the surfing world championships in Puerto Rico despite falling short of expectations to qualify multiple athletes for the Paris Olympics in July.</p>
+
+## Cat Lake First Nation's nursing station burns down, leaving remote community without health-care hub
+ - [https://www.cbc.ca/news/canada/thunder-bay/cat-lake-first-nation-nursing-station-fire-1.7132613?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/cat-lake-first-nation-nursing-station-fire-1.7132613?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-03T14:46:19+00:00
+
+<img alt="A structure is seen on fire, surrounded by snow, trees and dark grey smoke." height="349" src="https://i.cbc.ca/1.7132626.1709494456!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cat-lake-first-nation-nursing-station-fire.jpg" title="Cat Lake First Nation&apos;s nursing station is described as a &quot;total loss&quot; after a fire broke out at the building Saturday night." width="620" /><p>A fire has completely destroyed the nursing station in Cat Lake First Nation, a remote Ojibway community in northwestern Ontario. Here's what we know so far about the blaze, and how Kiiwetinoong MPP Sol Mamakwa says it speaks to broader health care inadequacies in northern Ontario.</p>
+
+## Health minister says he hopes some provinces will have pharmacare plan in place by end of 2024
+ - [https://www.cbc.ca/news/politics/pharmacare-provinces-deal-2024-1.7132534?cmp=rss](https://www.cbc.ca/news/politics/pharmacare-provinces-deal-2024-1.7132534?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-03T14:42:35+00:00
+
+<img alt="A man listens to a question from reporters." height="349" src="https://i.cbc.ca/1.7091474.1709492722!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cabinet-retreat-20240122.JPG" title="Minister of Health Mark Holland speaks to the media during the federal cabinet retreat in Montreal, Monday, Jan. 22, 2024." width="620" /><p>Mark Holland says he's hoping that some Canadians will be able to take advantage of new diabetes and contraception coverage by the end of the year.</p>
+
+## Alberta's $200 electric vehicle registration tax is sparking debate among owners
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-electric-vehicle-tax-1.7132365?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-electric-vehicle-tax-1.7132365?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-03T11:00:00+00:00
+
+<img alt="Kim Burney charges her Tesla, Wednesday, Jan. 17, 2024, in Ann Arbor, Mich. A subzero cold snap across the nation has exposed a big vulnerability for electric vehicle owners. It&apos;s difficult to charge the batteries in single-digit temperatures. Experts say it&apos;s simple chemistry, that the electrons move slowly and don&apos;t take in or release as much energy.(AP Photo/Carlos Osorio)" height="349" src="https://i.cbc.ca/1.7087365.1705582638!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/electric-vehicles-frigid-weather-explainer.jpg" title="Kim Burney charges her Tesla, Wednesday, Jan. 17, 2024, in Ann Arbor, Mich. A subzero cold snap across the nation has exposed a big vulnerability for electric vehicle owners. It&apos;s difficult to charge the batteries in single-digit temperatures. Experts say it&apos;s simple chemistry, that the electrons move slowly and don&apos;t take in or release as much energy.(AP Photo/Carlos Osorio)" width="620" /><p>The prov
+
+## More than hockey: Dalhousie's Bélanger leads program to help children with Down syndrome
+ - [https://www.cbc.ca/news/canada/nova-scotia/dalhousie-hockey-player-down-syndrome-volunteer-1.7126648?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/dalhousie-hockey-player-down-syndrome-volunteer-1.7126648?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-03T05:00:00+00:00
+
+<img alt="A group of student volunteers are shown with the participants of a program that provides a place for children with Down syndrome and their siblings to play." height="349" src="https://i.cbc.ca/1.7132219.1709407922!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alec-belanger.jpg" title="Dalhousie University hockey player Alec Bélanger, 21, is the recipient of this year&apos;s Atlantic University Sport student-athlete community service award. He started a program that pairs student volunteers with children with Down syndrome and their siblings, offering them a place to play and do activities." width="620" /><p>Dalhousie University hockey player Alec Bélanger, 21, has started a program that pairs student volunteers with children with Down syndrome and their siblings, offering them a place to play and do activities.</p>
+
