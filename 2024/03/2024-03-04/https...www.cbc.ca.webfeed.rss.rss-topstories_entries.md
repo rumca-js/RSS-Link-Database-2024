@@ -1,0 +1,156 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Hamilton cyber incident paralyzing services for over a week caused by ransomware attack: city
+ - [https://www.cbc.ca/news/canada/hamilton/ransomware-attack-1.7133457?cmp=rss](https://www.cbc.ca/news/canada/hamilton/ransomware-attack-1.7133457?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T17:48:53+00:00
+
+<img alt="A city building seen from outside on a sunny day." height="349" src="https://i.cbc.ca/1.7132647.1709495616!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/hamilton-city-hall.jpg" title="The Hamilton City Hall is pictured on a sunny winter day. " width="620" /><p>City manager Marnie Cluckie named the nature of the cyber attack for the first time during a virtual call Monday afternoon, alongside Mayor Andrea Horwath. The call was the city's first media conference since the breach began on Feb. 25. </p>
+
+## As Camilla reportedly takes a week off from royal duties, rumours reach fever pitch
+ - [https://www.cbc.ca/news/world/camilla-off-royals-rumours-1.7132871?cmp=rss](https://www.cbc.ca/news/world/camilla-off-royals-rumours-1.7132871?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T16:14:51+00:00
+
+<img alt="An older woman in a blue gown smiles at  the camera" height="349" src="https://i.cbc.ca/1.7132883.1709571039!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/camilla.jpg" title="Britain&apos;s Queen Camilla smiles during a reception for the BBC&apos;s 500 Words Finalists at Buckingham Palace on Feb. 28, 2024 in London." width="620" /><p>Queen Camilla is reportedly taking a week off from royal duties, raising rumours and speculation about Britain's Royal Family to a fever pitch amid little public information about the health of King Charles and Princess Catherine.</p>
+
+## 1 dead in Revelstoke avalanche, as special warning for much of B.C. extended
+ - [https://www.cbc.ca/news/canada/british-columbia/avalanche-canada-warning-b-c-extended-1.7133321?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/avalanche-canada-warning-b-c-extended-1.7133321?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T15:35:35+00:00
+
+<img alt="Mountains." height="349" src="https://i.cbc.ca/1.7097904.1709585322!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/halser.jpg" title="An Avalanche Canada file photo of the Hasler riding area in northeast B.C. One person was killed in the region, west of Chetwynd, on Jan. 27, 2024." width="620" /><p>A special avalanche warning for British Columbia issued last week is being extended until Thursday as hazardous conditions persist in the backcountry — conditions that claimed the life of a man in the Revelstoke area on Sunday. </p>
+
+## How to watch to CBC's live coverage of the Durham byelection
+ - [https://www.cbc.ca/news/politics/durham-byelection-how-to-watch-1.7133264?cmp=rss](https://www.cbc.ca/news/politics/durham-byelection-how-to-watch-1.7133264?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T15:34:57+00:00
+
+<img alt="Alt text" height="349" src="https://i.cbc.ca/1.7133287.1709579967!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/special-coverage.jpg" title="" width="620" /><p></p>
+
+## Body Shop Canada's parent took its cash, pushed it $3.3M into debt, court docs show
+ - [https://www.cbc.ca/news/business/body-shop-canada-took-revenue-left-company-in-debt-1.7133312?cmp=rss](https://www.cbc.ca/news/business/body-shop-canada-took-revenue-left-company-in-debt-1.7133312?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T15:24:34+00:00
+
+<img alt="A woman and her dog walk by a storefront with a sign reading The Body Shop." height="349" src="https://i.cbc.ca/1.7131457.1709324319!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/body-shop-canada.jpg" title="A Body Shop storefront is shown with a sale sign in the window in Toronto, on March 1, 2024. It&apos;s one of the 33 stores that the cosmetics company will sell as it files for creditor protection." width="620" /><p>The Body Shop Canada Ltd. is seeking creditor protection and closing a third of its stores because its parent company stripped the Canadian arm of cash and pushed it into debt, according to court documents.</p>
+
+## Conservative accuses Liberals of shutting down debate on Winnipeg lab security breach
+ - [https://www.cbc.ca/news/politics/conservative-liberals-winnipeg-lab-debate-1.7133074?cmp=rss](https://www.cbc.ca/news/politics/conservative-liberals-winnipeg-lab-debate-1.7133074?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T14:19:02+00:00
+
+<img alt="It is “strictly” enforcing screening for all staff and visitors and requires visitors to be accompanied at all times." height="349" src="https://i.cbc.ca/1.2751163.1709320108!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/national-lab-new-director.jpg" title="The National Microbiology Laboratory in Winnipeg is shown in a file photo. The team from the lab has been pulled as a precaution.  " width="620" /><p>A Conservative MP is accusing the Liberals of shutting down debate on how two scientists studying deadly viruses at a special lab in Winnipeg were able to work closely and covertly with China — and how the federal  government responded to the national security scandal.</p>
+
+## With NHL playoff berths at stake, flurry of deals expected before Friday deadline
+ - [https://www.cbc.ca/sports/hockey/nhl/nhl-trade-deadline-primer-2024-1.7133203?cmp=rss](https://www.cbc.ca/sports/hockey/nhl/nhl-trade-deadline-primer-2024-1.7133203?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T13:45:39+00:00
+
+<img alt="Composite photo of a Calgary Flames goaltender and Pittsburgh Penguins forward keeping their eye on the puck during separate NHL games." height="349" src="https://i.cbc.ca/1.7133231.1709577446!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/markstrom-jacob-guentzel-jake-1180.jpg" title="From left: Flames goalie Jacob Markstrom and Penguins forward Jake Guentzel could be among the big-name NHL players changing places prior to Friday&apos;s 3 p.m. ET trade deadline." width="620" /><p>The weekend provided some much-needed clarity around the NHL one year after the 2023 trade season featured a ton of big-name players changing places. Expect several moves this week ahead of Friday's 3 p.m. ET deadline.</p>
+
+## Jack Teixeira pleads guilty to leaking hundreds of classified U.S. documents
+ - [https://www.cbc.ca/news/world/pentagon-leak-guilty-plea-1.7132865?cmp=rss](https://www.cbc.ca/news/world/pentagon-leak-guilty-plea-1.7132865?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T13:08:04+00:00
+
+<img alt="A man in a military jacket and tie is shown in a personal photo." height="349" src="https://i.cbc.ca/1.6810372.1681467712!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/leaks-suspect.jpg" title="An undated picture shows Jack Douglas Teixeira, a 21-year-old member of the U.S. Air National Guard, who was arrested by the FBI, over his alleged involvement in leaks online of classified documents, posing for a selfie at an unidentified location.  " width="620" /><p>Jack Teixeira, a member of the Massachusetts Air National Guard charged with leaking classified military documents on a social media platform, pleaded guilty on Monday to carrying out one of the most serious U.S. national security breaches in years.</p>
+
+## TikTok videos claim Canada erased Palestine from passports — but Ottawa says rules unchanged
+ - [https://www.cbc.ca/news/politics/tiktok-videos-canada-passport-palestine-1.7131805?cmp=rss](https://www.cbc.ca/news/politics/tiktok-videos-canada-passport-palestine-1.7131805?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T13:02:23+00:00
+
+<img alt="An image of a 90-year-old woman&apos;s most recent passport, which lists &quot;El Bassa, Palestine&quot; as her place of birth. The woman was mistakenly told she couldn&apos;t list &quot;Palestine&quot; as the place of birth on her new passport." height="349" src="https://i.cbc.ca/1.7133095.1709571890!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/passport.jpeg" title="An image of a 90-year-old woman&apos;s most recent passport, which lists &quot;El Bassa, Palestine&quot; as her place of birth. The woman was mistakenly told she couldn&apos;t list &quot;Palestine&quot; as the place of birth on her new passport." width="620" /><p>An apparent clerical error by the federal government caused a Palestinian-Canadian woman to be told mistakenly she couldn't list "Palestine" as her place of birth on her passport — and the error has been driving the spread of misleading online posts ever since.</p>
+
+## Ottawa says it will bypass Quebec's immigration cap to speed up family reunification
+ - [https://www.cbc.ca/news/canada/montreal/family-reunification-federal-minister-quebec-1.7132823?cmp=rss](https://www.cbc.ca/news/canada/montreal/family-reunification-federal-minister-quebec-1.7132823?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T12:57:19+00:00
+
+<img alt="Immigration minister Marc Miller at a news conference. " height="349" src="https://i.cbc.ca/1.7133119.1709573329!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-israel-gaza-families-20231221.jpg" title="Immigration Minister Marc Miller pictured at a news conference in Ottawa in December 2023. " width="620" /><p>Federal Immigration Minister Marc Miller says his government will provide permanent residency to more than 20,000 people waiting to move to Quebec to be with their loved ones, regardless of the province's self-imposed cap of 10,000 applicants that can be accepted in a given year.</p>
+
+## Pope mandates retired judge to investigate sexual assault allegations against Quebec City cardinal
+ - [https://www.cbc.ca/news/canada/montreal/pope-mandate-investigation-quebec-archbishop-1.7133131?cmp=rss](https://www.cbc.ca/news/canada/montreal/pope-mandate-investigation-quebec-archbishop-1.7133131?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T12:48:36+00:00
+
+<img alt="A priest sitting in front of a drawer with religious artifacts." height="349" src="https://i.cbc.ca/1.6521200.1657837711!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gerald-cyprien-lacroix.jpg" title="Quebec Archbishop Gérald Cyprien Lacroix has confirmed he will personally give Pope Francis the open letter. " width="620" /><p>Pope Francis has tasked retired Quebec judge André Denis to investigate allegations of sexual assault against Cardinal Gérald Cyprien Lacroix, the Archbishop of Quebec, following a class-action lawsuit.</p>
+
+## New satellite will track elusive methane pollution from oil and gas industry globally
+ - [https://www.cbc.ca/news/climate/methanesat-launch-climate-1.7132770?cmp=rss](https://www.cbc.ca/news/climate/methanesat-launch-climate-1.7132770?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T12:28:48+00:00
+
+<img alt="An animated rendering of a satellite hovering above the Earth. A beam shoots down as it scans for hotspots of methane, a potent greenhouse gas." height="349" src="https://i.cbc.ca/1.7132777.1709569367!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/methanesat-rendering.jpg" title="MethaneSAT, a satellite designed to hunt for &apos;super-emitters&apos; of the potent greenhouse gas, shown in an animated rendering. " width="620" /><p>Experts say a satellite designed to track methane could be one of our best tools in the fight against climate change in the near future. MethaneSAT will spot large emitters of the greenhouse gas that is 80 times more potent than carbon dioxide in our atmosphere.</p>
+
+## 'Broken': America's border crisis with Mexico, explained | About That
+ - [https://www.cbc.ca/news/canada/broken-america-s-border-crisis-with-mexico-explained-about-that-1.7133226?cmp=rss](https://www.cbc.ca/news/canada/broken-america-s-border-crisis-with-mexico-explained-about-that-1.7133226?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T12:07:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/200/11/ab_b1_mpx_copy.jpg" title="" width="620" /><p>The crisis at the U.S. southern border is set to be a major issue in the 2024 presidential election. More than two million migrants were apprehended at the Texas-Mexico border last year alone. Andrew Chang explains the complexities of the growing issue and what's dialing it up.</p>
+
+## Chrystia Freeland to table federal budget on April 16
+ - [https://www.cbc.ca/news/politics/federal-budget-april-16-2024-1.7132999?cmp=rss](https://www.cbc.ca/news/politics/federal-budget-april-16-2024-1.7132999?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T11:35:34+00:00
+
+<img alt="Deputy Prime Minister and Minister of Finance Chrystia Freeland responds to a question during a weekly news conference" height="349" src="https://i.cbc.ca/1.7133020.1709568471!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/economic-update-20240227.JPG" title="Deputy Prime Minister and Minister of Finance Chrystia Freeland responds to a question during a weekly news conference, Tuesday, February 27, 2024 in Ottawa." width="620" /><p>Canadians will get a look at the federal finances when Deputy Prime Minister Chrystia Freeland tables her budget next month.</p>
+
+## U.S. Supreme Court allows Trump to stay on Colorado primary ballot
+ - [https://www.cbc.ca/news/world/ussc-trump-colorado-ballot-1.7132814?cmp=rss](https://www.cbc.ca/news/world/ussc-trump-colorado-ballot-1.7132814?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T10:16:33+00:00
+
+<img alt="An older, cleanshaven man in a suit and tie stands with fists raised on a stage, with a backdrop of at least three American flags." height="349" src="https://i.cbc.ca/1.7132818.1709548831!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2024-trump.jpg" title="Republican presidential candidate former President Donald Trump gestures at a campaign rally Saturday, March 2, 2024, in Richmond, Va.  " width="620" /><p>The U.S. Supreme Court on Monday restored Donald Trump to this year's presidential primary ballots, rejecting state attempts to hold the Republican former president accountable for his actions leading to the Jan. 6, 2021 Capitol riot.</p>
+
+## U.S. presidents are older than ever while Canada's PMs are getting younger. Why?
+ - [https://www.cbc.ca/news/world/president-prime-minister-age-1.7131860?cmp=rss](https://www.cbc.ca/news/world/president-prime-minister-age-1.7131860?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T09:56:50+00:00
+
+<img alt="A illustration showing various president and prime minister pairs in circles." height="349" src="https://i.cbc.ca/1.7132917.1709563424!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gfx-dd-li-us-can-leaders-age.jpg" title="U.S. presidents are generally getting older, while prime ministers are getting younger." width="620" /><p>Joe Biden is the oldest president in U.S. history, punctuating a long-term trend that shows American presidents are generally getting older. But the same can't be said about Canada's prime ministers.</p>
+
+## Apple fined almost $2B by the EU in music streaming antitrust probe
+ - [https://www.cbc.ca/news/business/apple-fined-2b-european-union-music-streaming-1.7132896?cmp=rss](https://www.cbc.ca/news/business/apple-fined-2b-european-union-music-streaming-1.7132896?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T09:33:44+00:00
+
+<img alt="Several people are shown in silhouette in front of an Apple store." height="349" src="https://i.cbc.ca/1.4902889.1709561460!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/apple-stocks-trillion.jpg" title="Customers walk past an Apple logo inside of an Apple store at Grand Central Station in New York, U.S., August 1, 2018.  REUTERS/Lucas Jackson - RC1F50E1E400" width="620" /><p>The European Union levelled its first antitrust penalty against Apple on Monday, fining the U.S. tech giant nearly $2 billion US for breaking the bloc's competition laws by unfairly favouring its own music streaming service over rivals. </p>
+
+## Haiti state of emergency in effect after police killings, massive prison break
+ - [https://www.cbc.ca/news/world/haiti-violence-curfew-1.7132831?cmp=rss](https://www.cbc.ca/news/world/haiti-violence-curfew-1.7132831?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T07:57:02+00:00
+
+<img alt="Large amounts of dark smoke are seen rising from a tire set on fire on a street as several people are seen standing on a sidewalk." height="349" src="https://i.cbc.ca/1.7132836.1709556578!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2049062680.jpg" title="TOPSHOT - This screen grab taken from AFPTV shows tires on fire near the main prison of Port-au-Prince, Haiti, on March 3, 2024, after a breakout by several thousand inmates. At least a dozen people died as gang members attacked the main prison in Haiti&apos;s capital, triggering a breakout by several thousand inmates, an AFP reporter and an NGO said on March 3. &quot;We counted many prisoners&apos; bodies,&quot; said Pierre Esperance of the National Network for Defense of Human Rights, adding that only around 100 of the National Penitentiary&apos;s estimated 3,800 inmates were still inside the facility after the gang assault overnight on March 2.  " width="620" /><p>Authorities have ordered a nighttime 
+
+## Retired N.B. scientist to launch balloon for high-altitude view of solar eclipse
+ - [https://www.cbc.ca/news/canada/new-brunswick/balloon-total-solar-eclipse-1.7131124?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/balloon-total-solar-eclipse-1.7131124?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T05:00:00+00:00
+
+<img alt="A man looking through some binoculars." height="349" src="https://i.cbc.ca/1.7131168.1709316665!/fileImage/httpImage/image.png_gen/derivatives/16x9_620/david-hunter.png" title="David Hunter has always been interested in science and astronomy. He&apos;s a retired medical physicist. " width="620" /><p>David Hunter's hometown of Florenceville-Bristol is in the path of totality for the eclipse April 8, but he wanted more than the front-row seat he already has. So he built a balloon-borne telescope.</p>
+
+## Can a compulsory curriculum lead to a deeper understanding of Black history?
+ - [https://www.cbc.ca/news/education-mandatory-black-history-1.7124113?cmp=rss](https://www.cbc.ca/news/education-mandatory-black-history-1.7124113?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T04:00:00+00:00
+
+<img alt="A high school teacher and students sit around tables listening to an adult speaker, turned away from the camera. " height="349" src="https://i.cbc.ca/1.7129431.1709222064!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/students-at-frank-hurt-secondary-school-s-black-students-union-m.jpg" title="Students from Frank Hurt Secondary School&apos;s Black Students Union meet in Surrey, B.C., on Wednesday, February 28, 2024." width="620" /><p>How much Black history Canadian students learn varies greatly from classroom to classroom, dependent on choices made by individual teachers, but Ontario is making it compulsory learning in three grades. That's welcome news and an inspiration for those already weaving the Black experience into their classrooms — yet some educators are worried about how it will roll out.</p>
+
+## Demanding a proper say, Cat Lake First Nation's injunction pauses First Mining Gold's road work for project
+ - [https://www.cbc.ca/news/canada/thunder-bay/cat-lake-first-nation-first-mining-gold-1.7131255?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/cat-lake-first-nation-first-mining-gold-1.7131255?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T04:00:00+00:00
+
+<img alt="A person with long dark hair and a red plaid shirt stands in a room with a neutral expression on their face." height="349" src="https://i.cbc.ca/1.7131281.1709319481!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chief-russell-wesley.jpg" title="Chief Russell Wesley of Cat Lake First Nation says his community lacks the capacity to deal with the surge of mining permits it&apos;s seeing. He says he is not opposed to development but needs the resources to make sure his community is part of the process." width="620" /><p>Cat Lake First Nation Chief Russell Wesley says he had no choice but to bring First Mining Gold to court over road permits approved by the Ontario government. The Ojibway First Nation won an injunction that's paused construction on a temporary road to an exploration camp for what's being called one of the biggest gold projects in Canada.</p>
+
+## From Kyiv, with fraud: Why Canada is a main target of investment scammers
+ - [https://www.cbc.ca/news/ukraine-call-centre-canada-crypto-scam-1.7127166?cmp=rss](https://www.cbc.ca/news/ukraine-call-centre-canada-crypto-scam-1.7127166?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-04T04:00:00+00:00
+
+<img alt="A building in a busy city." height="349" src="https://i.cbc.ca/1.7127230.1709062551!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kyiv-building.jpg" title="" width="620" /><p>There's a call centre in the Ukrainian capital of Kyiv where employees have one job: to steal the life savings of Canadians through a variety of investment scams, according to a whistleblower who used to work in the industry.</p>
+

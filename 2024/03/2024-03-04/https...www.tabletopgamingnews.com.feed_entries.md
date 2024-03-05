@@ -1,0 +1,51 @@
+# Source:Tabletop Gaming News – TGN, URL:https://www.tabletopgamingnews.com/feed, language:en-US
+
+## Thunder Road: Vendetta RPG Set to Rev Engines in 2025
+ - [https://www.tabletopgamingnews.com/thunder-road-vendetta-rpg-set-to-rev-engines-in-2025](https://www.tabletopgamingnews.com/thunder-road-vendetta-rpg-set-to-rev-engines-in-2025)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-04T22:43:58+00:00
+
+<a href="https://www.tabletopgamingnews.com/thunder-road-vendetta-rpg-set-to-rev-engines-in-2025/" rel="nofollow" title="Thunder Road: Vendetta RPG Set to Rev Engines in 2025"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2321" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/TRV_Logo2024.png" style="display: block; margin: auto; margin-bottom: 5px;" width="2550" /></a>9th Level Games, in collaboration with Restoration Games, LLC, has announced the upcoming launch of a new roleplaying game, &#8220;Thunder Road: Vendetta Roleplaying Game,&#8221; expected to arrive in 2025. This game extends the universe of the Thunder Road: Vendetta board game, placing players in the roles of drivers navigating a post-apocalyptic landscape. The development team, &#8230;
+
+## Black Oak Workshop Unveils Polyhedral Dice Advent-ure Calendars 14-16 on Kickstarter
+ - [https://www.tabletopgamingnews.com/black-oak-workshop-unveils-polyhedral-dice-advent-ure-calendars-14-16-on-kickstarter](https://www.tabletopgamingnews.com/black-oak-workshop-unveils-polyhedral-dice-advent-ure-calendars-14-16-on-kickstarter)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-04T22:35:42+00:00
+
+<a href="https://www.tabletopgamingnews.com/black-oak-workshop-unveils-polyhedral-dice-advent-ure-calendars-14-16-on-kickstarter/" rel="nofollow" title="Black Oak Workshop Unveils Polyhedral Dice Advent-ure Calendars 14-16 on Kickstarter"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="552" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/Screenshot-2024-03-04-at-23-34-54-Polyhedral-Dice-Advent-ure-Calendars-14-16.png" style="display: block; margin: auto; margin-bottom: 5px;" width="982" /></a>Black Oak Workshop has launched its latest Kickstarter campaign, featuring the 2024 edition of its Polyhedral Dice Advent-ure Calendars, numbers 14 through 16. The campaign has already surpassed its funding goal of US$ 40,000, with contributions exceeding US$ 44,258 from 341 backers, and with 20 days remaining until its conclusion on March 25. This year&#8217;s &#8230;
+
+## Hoard of Tales Celebrates Women in Gaming Month with TTRPG Event
+ - [https://www.tabletopgamingnews.com/hoard-of-tales-celebrates-women-in-gaming-month-with-ttrpg-event](https://www.tabletopgamingnews.com/hoard-of-tales-celebrates-women-in-gaming-month-with-ttrpg-event)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-04T21:48:09+00:00
+
+<a href="https://www.tabletopgamingnews.com/hoard-of-tales-celebrates-women-in-gaming-month-with-ttrpg-event/" rel="nofollow" title="Hoard of Tales Celebrates Women in Gaming Month with TTRPG Event"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/7548ba73-cb70-4ed4-9ab3-53d79d43a7fc-channel_offline_image-1920x1080-1.jpeg" style="display: block; margin: auto; margin-bottom: 5px;" width="1920" /></a>This March, Hoard of Tales has announced the return of its Women in Gaming Month event, aligning with Women’s History Month to spotlight women and femme talents in the tabletop role-playing game (TTRPG) community, especially those from marginalized communities and residing outside the United States. The event is set to kick off on International Women&#8217;s &#8230;
+
+## The Far Roofs” Achieves Kickstarter Success
+ - [https://www.tabletopgamingnews.com/the-far-roofs-achieves-kickstarter-success](https://www.tabletopgamingnews.com/the-far-roofs-achieves-kickstarter-success)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-04T21:39:02+00:00
+
+<a href="https://www.tabletopgamingnews.com/the-far-roofs-achieves-kickstarter-success/" rel="nofollow" title="The Far Roofs&#8221; Achieves Kickstarter Success"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="434" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/Screenshot-2024-03-04-at-22-37-29-The-Far-Roofs.png" style="display: block; margin: auto; margin-bottom: 5px;" width="718" /></a>A new tabletop roleplaying game titled &#8220;The Far Roofs&#8221; has successfully surpassed its funding goal on Kickstarter, reaching US$ 37,190 of its initial US$ 25,000 target. The campaign, which is set to conclude on April 2, has attracted 617 backers with 28 days left. This funding will support the final production stages of a 220-page &#8230;
+
+## Modiphius Entertainment to Release “Mass Effect the Board Game – Priority: Hagalaz” in 2024
+ - [https://www.tabletopgamingnews.com/modiphius-entertainment-to-release-mass-effect-the-board-game-priority-hagalaz-in-2024](https://www.tabletopgamingnews.com/modiphius-entertainment-to-release-mass-effect-the-board-game-priority-hagalaz-in-2024)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-04T21:28:04+00:00
+
+<a href="https://www.tabletopgamingnews.com/modiphius-entertainment-to-release-mass-effect-the-board-game-priority-hagalaz-in-2024/" rel="nofollow" title="Modiphius Entertainment to Release &#8220;Mass Effect the Board Game &#8211; Priority: Hagalaz&#8221; in 2024"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/63284bee-95ed-33ec-4472-82e47c0d6f17.png" style="display: block; margin: auto; margin-bottom: 5px;" width="800" /></a>Modiphius Entertainment Ltd. has announced a new addition to its lineup: &#8220;Mass Effect the Board Game &#8211; Priority: Hagalaz.&#8221; This board game, crafted by Eric M. Lang and Calvin Wong Tze Loon, offers a cooperative, narrative-driven experience for 1-4 players, set within the acclaimed Mass Effect 3 universe. The storyline of the game unfolds in &#8230;
+
+## Galactic Cruise Kickstarter Campaign Surpasses Funding Goal
+ - [https://www.tabletopgamingnews.com/galactic-cruise-kickstarter-campaign-surpasses-funding-goal](https://www.tabletopgamingnews.com/galactic-cruise-kickstarter-campaign-surpasses-funding-goal)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-04T20:47:10+00:00
+
+<a href="https://www.tabletopgamingnews.com/galactic-cruise-kickstarter-campaign-surpasses-funding-goal/" rel="nofollow" title="Galactic Cruise Kickstarter Campaign Surpasses Funding Goal"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/pic7556819.webp" style="display: block; margin: auto; margin-bottom: 5px;" width="577" /></a>Kinson Key Games has initiated a Kickstarter campaign for its new board game, &#8220;Galactic Cruise,&#8221; which has quickly surpassed its funding goal. The campaign has raised US$ 303,258, significantly exceeding the initial target of US$ 50,000. With 29 days left and 2,596 backers, the project is shaping up to be a notable success. &#8220;Galactic Cruise&#8221; &#8230;
+
+## Knight Models Announces Kickstarter for “Harry Potter: Wizarding Duels”
+ - [https://www.tabletopgamingnews.com/knight-models-announces-kickstarter-for-harry-potter-wizarding-duels](https://www.tabletopgamingnews.com/knight-models-announces-kickstarter-for-harry-potter-wizarding-duels)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-04T20:36:07+00:00
+
+<a href="https://www.tabletopgamingnews.com/knight-models-announces-kickstarter-for-harry-potter-wizarding-duels/" rel="nofollow" title="Knight Models Announces Kickstarter for &#8220;Harry Potter: Wizarding Duels&#8221;"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="576" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/Screenshot-2024-03-04-at-21-34-29-a9cf95f43b68856b9daadbe446114f31_original.jpg-AVIF-Image-1024-×-576-pixels.png" style="display: block; margin: auto; margin-bottom: 5px;" width="1024" /></a>Knight Models has unveiled plans to launch a Kickstarter campaign for the &#8220;Harry Potter Miniatures Adventure Game: Wizarding Duels.&#8221; The campaign is scheduled to start tomorrow at 5 p.m. UTC+1, inviting fans to explore a new addition to the Harry Potter gaming universe. The campaign will offer the core box of the game at an &#8230;
+

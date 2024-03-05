@@ -1,0 +1,138 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## There's an official SpongeBob SquarePants Xbox Series X on the way
+ - [https://www.eurogamer.net/theres-an-official-spongebob-squarepants-xbox-series-x-on-the-way?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/theres-an-official-spongebob-squarepants-xbox-series-x-on-the-way?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T21:33:27+00:00
+
+<img src="https://assetsio.reedpopcdn.com/spongebob-xbox-series-x.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Behold the ultimate form of the Xbox Series X; Microsoft has unveiled an official SpongeBob SquarePants special editon of the console that makes the best, most glorious use of its oblong form yet. Unfortunately, it US-only at present, so boo.
+</p><p>
+Microsoft's new 'Xbox Series X &ndash; Nickelodeon All-Star Brawl 2 Special Edition Bundle' has, as its name very strongly suggests, been created to promote last year's Nickelodeon All-Star Brawl 2, a Smash Bros.-style fighter that pits (yes) a bunch of Nickelodeon characters against each other in a family friendly fight to the family friendly death. That includes Invader Zim and Rocko from Rocko's Modern Life, so you'll hear no bad words from me. Needs more Pete &amp; Pete though.
+</p><p>
+Anyway, the highlight of Microsoft's new Xbox Series X is undoubtedly the consol
+
+## Switch emulator Yuzu shuts down as creator agrees to pay Nintendo $2.4m
+ - [https://www.eurogamer.net/switch-emulator-yuzu-shuts-down-as-creator-agrees-to-pay-nintendo-24m?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/switch-emulator-yuzu-shuts-down-as-creator-agrees-to-pay-nintendo-24m?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T20:11:56+00:00
+
+<img src="https://assetsio.reedpopcdn.com/switch-being-poked-by-man-finger.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Tropical Haze, the developer of open-source Switch emulator Yuzu, has agreed to pay $2.4m in damages to Nintendo and cease all operations in response to the Mario maker's recent lawsuit.
+</p><p>
+News of Nintendo's <a href="https://www.eurogamer.net/nintendo-sues-switch-emulator-creator-for-facilitating-piracy-at-a-colossal-scale">legal action against Yuzu</a> surfaced last week, with the company claiming the emulator facilitated piracy "at a colossal scale". By way of example, it said over 1m copies of The Legend of Zelda: Tears of the Kingdom had been illegally downloaded ahead of its official launch - and that "many" pirate websites specified the game file was playable on Yuzu.
+</p><p>
+"Defendant [Tropic Haze] is thus secondarily liable for the infringement committed by the users to whom it distributes Y
+
+## Fortnite's giant hand event was a return to the game's uniqueness of old
+ - [https://www.eurogamer.net/fortnites-giant-hand-event-was-a-return-to-the-games-uniqueness-of-old?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/fortnites-giant-hand-event-was-a-return-to-the-games-uniqueness-of-old?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T18:51:12+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Fortnite-The-Hand-Cinematic-Event-0-28-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+This weekend, <a href="https://www.eurogamer.net/fortnite-best-weapons-tier-list-ranked-9306">Fortnite</a> simultaneously did something it had never done before, and something it hadn't done in ages. On the game's storied battle royale Island, players looked on as a giant hand made out of rapidly-cooling lava burst out of the ground, clasping an enormous treasure box that then lay, danging, high up in the air. 
+</p><p>
+The hand's appearance had been much anticipated. Rhythmic rumblings had been tracked by fans to a spot outside Ruined Reels - a sort-of Greek amphitheature turned open-air cinema - and a slowly widening crack in the ground nearby. A new character, the aptly-named Odyssey, had already appeared nearby to dole out some much-needed exposition and teasing for Fortnite's incoming 
+
+## Pokémon-like Temtem ditching monetisation in June ahead of one last major patch
+ - [https://www.eurogamer.net/pokemon-like-temtem-ditching-monetisation-in-june-ahead-of-one-last-major-patch?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/pokemon-like-temtem-ditching-monetisation-in-june-ahead-of-one-last-major-patch?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T18:36:14+00:00
+
+<img src="https://assetsio.reedpopcdn.com/temtem-best-starter-type-chart.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Developer Crema has announced it'll be removing all monetisation from its Pokemon-like creature-battler Temtem in an update scheduled for June, with one final major patch to follow before updates refocus on bug fixing and balance changes.
+</p><p>
+Crema shared the news in a <a href="https://steamcommunity.com/app/745920/eventcomments/4299320215881394940?snr=1_2108_9__2107">lengthy post on Steam</a>, which spent a lot of time addressing ongoing player complaints around a lack of major new content since launch, such as more islands, new Temtem, or additional multiplayer features. Broadly, the studio says Temtem's early access demonstrated major new content didn't have a significant impact on the game's player base, making it difficult to justify the development resources required - although other issues, such a
+
+## Dune: Awakening won't feature sandworm-riding at launch - and no penis-sliders either
+ - [https://www.eurogamer.net/dune-awakening-wont-feature-sandworm-riding-at-launch-and-no-penis-sliders-either?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/dune-awakening-wont-feature-sandworm-riding-at-launch-and-no-penis-sliders-either?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T18:14:14+00:00
+
+<img src="https://assetsio.reedpopcdn.com/DA_Screenshot_8.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Sandworms play a major part in Dune: Awakening, the big survival MMO coming some time soon from Funcom, the developers behind Conan: Exiles - but the game won't feature the novel's famous sandworm-riding come launch. And, presumably much more importantly for Conan fans, there'll be no penis sliders either.</p><p>There will be sand-walking, though, and there's no ruling out of sandworm-riding down the line. We spoke with <a href="https://www.eurogamer.net/dune-awakening-devs-explain-their-alt-history-approach-to-the-vast-intricate-follow-up-to-conan-exiles">Dune: Awakening's creative director Joel Bylos at some length in our preview</a>, and he explained the decision like this:</p><p>"We actually looked into it. It's just a very strong technical cost, and also a very - it needs a purpose. And we haven't got what the movie ha
+
+## Now someone's made the Glasgow Willy Wonka Experience in Fortnite
+ - [https://www.eurogamer.net/now-someones-made-the-glasgow-willy-wonka-experience-in-fortnite?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/now-someones-made-the-glasgow-willy-wonka-experience-in-fortnite?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T17:32:24+00:00
+
+<img src="https://assetsio.reedpopcdn.com/fortnite-creative-wonka.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>"Explore Jonesy's whimsical chocolate factory!" says the tagline for Jonesy's Chocolate Factory Experience. Billed as appropriate for 3 years and above, and advertising fun and exploration, I used up 40GB of my precious, SSD space to install <a href="https://www.eurogamer.net/fortnite-best-weapons-tier-list-ranked-9306">Fortnite</a> and visit Jonesy's whimsical chocolate factory.</p><p>Yes, I'm still thinking about the infamous Willy Wonka Experience held in a sadly-decorated warehouse in Glasgow. I didn't visit it in real life for myself, but all of us have already been able to experience it vicariously through memes, quotes from frustrated parents, and interviews with the poor actors who had no idea what they were getting themselves into when they signed their contracts.</p><p>And now it's in Fortnite. After tryin
+
+## Dune: Awakening devs explain their "alt history" approach to the vast, intricate follow-up to Conan: Exiles
+ - [https://www.eurogamer.net/dune-awakening-devs-explain-their-alt-history-approach-to-the-vast-intricate-follow-up-to-conan-exiles?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/dune-awakening-devs-explain-their-alt-history-approach-to-the-vast-intricate-follow-up-to-conan-exiles?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T17:30:30+00:00
+
+<img src="https://assetsio.reedpopcdn.com/DA_Screenshot_1.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>It's hard to think of a science fiction universe as inseparable from its canon as Dune. And yet at the same time, it's a universe where so much can vary from one interpretation to the next  (as you'll be swiftly reminded any time you catch a stray set photo of a greased-up Sting.)</p><p>With that in mind it probably makes a lot of sense for Dune: Awakening, the survival MMO from Conan: Exiles developer Funcom, to take its "alternate history" approach. Dune: Awakening takes place "a few years" before the events of the books, but those events are entirely different timelines, with Awakening imagining a scenario where a "significant moment" in the books, where someone makes a decision of some kind, is decided differently.</p><p>Joel Bylos, Funcom's chief creative officer and creative director on Dune: Awakening, was coy about 
+
+## Xbox Partner Preview broadcast announced for this week
+ - [https://www.eurogamer.net/xbox-partner-preview-broadcast-announced-for-this-week?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/xbox-partner-preview-broadcast-announced-for-this-week?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T16:06:10+00:00
+
+<img src="https://assetsio.reedpopcdn.com/tales-of-kenzera-zau_QaKqC31.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Xbox has announced its latest Partner Preview broacast will air this Wednesday, 6th March at 6pm UK time, showcasing upcoming third-party games.</p><p>The video presentation will last 30 minutes, <a href="https://news.xbox.com/en-us/2024/03/04/xbox-partner-preview-march-2024-announce/">Microsoft said</a> today, and contain a mix of trailers, gameplay videos, and additional behind-the-scenes information posted to Xbox Wire.</p><p>Xbox has teased a closer look at combat and traversal in the EA-published Metroidvania<a href="https://www.eurogamer.net/tales-of-kenzera-zau-has-the-heart-to-heighten-its-spin-on-the-metroidvania">Tales of Kenzera: Zau</a> from Assassin's Creed Origin star Abubakar Salim, new gameplay of Capcom's <a href="https://www.eurogamer.net/capcom-reveals-path-of-the-goddess-at-xbox-games-showca
+
+## Final Fantasy 7 Rebirth patch will fix "very scary" lighting on some characters' faces
+ - [https://www.eurogamer.net/final-fantasy-7-rebirth-patch-will-fix-very-scary-lighting-on-some-characters-faces?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/final-fantasy-7-rebirth-patch-will-fix-very-scary-lighting-on-some-characters-faces?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T14:30:54+00:00
+
+<img src="https://assetsio.reedpopcdn.com/FINAL-FANTASY-VII-REBIRTH_20240207174841_GYbbwkG.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>There's a <a href="https://www.eurogamer.net/final-fantasy-7-rebirth-guides-tips-tricks-9403">Final Fantasy 7 Rebirth</a> patch in the pipeline, which will aim to improve the graphics in the game's Performance Mode, and "very scary" lighting on some characters' faces.</p><p>Speaking to <a href="https://onemoregame.ph/2024/03/final-fantasy-vii-rebirth-visualpatchcoming/">One More Game</a>, the game's director Naoki Hamaguchi said the Rebirth team had received "a lot of feedback" on the graphics in the game's Performance mode from fans wondering if anything will be improved.</p><p>"We hear you, and we are currently working on an update patch to improve that aspect," Hamaguchi said, adding he doesn't think a release date will be "far away from now".</p> <p><a href="https://www.eurogamer.net/fin
+
+## Sony Xperia 5 V review: Compact and powerful with a great camera
+ - [https://www.eurogamer.net/digitalfoundry-2024-sony-xperia-5-v-review-compact-and-powerful-with-a-great-camera?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/digitalfoundry-2024-sony-xperia-5-v-review-compact-and-powerful-with-a-great-camera?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T14:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Sony-Xperia-5-V-Header.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Sony's Xperia 5 V was described to me by a representative as their more trendy flagship, designed for younger people and influencers. Well, on the first part, I feel like I'm the target market; the second part perhaps not so much. Priced at <a href="https://www.amazon.co.uk/dp/B0CH3RJ7J1?tag=eurgam-df-uk-21" rel="sponsored">&pound;819</a> and seemingly only available in the UK at present, the Xperia 5 V represents the mid-range option with Sony's latest Xperia lineup of handsets, flanked by the flagship Xperia 1 V and the much more affordable Xperia 10 V.</p><p>The Xperia 5 V comes with last year's flagship Qualcomm chipset, the Snapdragon 8 Gen 2 processor (the same as the recently reviewed <a href="https://www.eurogamer.net/digitalfoundry-2024-honor-magic-v2-rsr-porsche-design-review">Honor Magic V2 RSR Porsche Des
+
+## Halo composer Marty O'Donnell announces Republican bid for Congress
+ - [https://www.eurogamer.net/halo-composer-marty-odonnell-announces-republican-bid-for-congress?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/halo-composer-marty-odonnell-announces-republican-bid-for-congress?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T11:51:18+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Untitled-1_AWRpJa5.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Marty O'Donnell, the former Bungie composer best known for his Halo and Destiny soundtracks, has announced his intention to run for US Congress as a Republican candidate. 
+</p><p>
+In a lengthy <a href="https://twitter.com/MartyTheElder/status/1764445788556665041">post</a> on social media platform X, O'Donnell said he "never wanted to be a politician and I still don't" but felt he needed to "step up" after seeing "the leaders of our country being influenced by the toxic divisions that are tearing apart our families and society".
+</p><p>
+O'Donnell's campaign website is now live, with a notable Halo-esque vibe. Visitors can donate to O'Donnell's war fund, learn more about the composer's history in the video games industry, and "join Marty's army" to receive campaign  updates.
+</p> <p><a href="https://www.eurogamer.net/halo
+
+## Here's what's leaving Xbox Game Pass this month
+ - [https://www.eurogamer.net/heres-whats-leaving-xbox-game-pass-this-month?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/heres-whats-leaving-xbox-game-pass-this-month?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T11:34:11+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ss_927a350f64c6e2be8a35df3e64e2110a6d725be4.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Xbox recently updated its Game Pass page, revealing three games that will be leaving the service soon.</p><p>Shredders, Ni no Kuni Wrath of the White Witch Remastered and Hardspace: Shipbreaker will all be removed from the Game Pass catalogue in the next two weeks.</p><p>If you want to keep playing any of these games once they have left the service, you will need to purchase them. Game Pass members will get a 20 percent discount.</p> <p><a href="https://www.eurogamer.net/heres-whats-leaving-xbox-game-pass-this-month?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Octopath Traveler delisted from Nintendo eShop
+ - [https://www.eurogamer.net/octopath-traveler-delisted-from-nintendo-eshop?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/octopath-traveler-delisted-from-nintendo-eshop?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T10:53:06+00:00
+
+<img src="https://assetsio.reedpopcdn.com/octopath-traveler-ss.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Square Enix's RPG Octopath Traveler has been delisted - temporarily, at least - from the Nintendo eShop.</p><p>The game's disappearance was <a href="https://twitter.com/Wario64/status/1763600660573098491">noticed</a> at the end of last week, though it's still available on Steam and the Microsoft Store.</p><p>Some fans have linked Octopath Traveler's delisting due to an apparent change in publisher. Archived versions of the game's eShop product page show that its publisher was changed from <a href="https://web.archive.org/web/20240211184959/https://www.nintendo.com/us/store/products/octopath-traveler-switch/">Nintendo</a> to <a href="https://web.archive.org/web/20240301185216/https://www.nintendo.com/us/store/products/octopath-traveler-switch/">Square Enix</a> a some point between 11th February and 1st March.</p> <p><a 
+
+## EA's Star Wars strategy game still in development, following layoffs
+ - [https://www.eurogamer.net/eas-star-wars-strategy-game-still-in-development-following-layoffs?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/eas-star-wars-strategy-game-still-in-development-following-layoffs?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T10:48:10+00:00
+
+<img src="https://assetsio.reedpopcdn.com/FJ86ctAVQAgrMOu.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The Star Wars strategy game from Bit Reactor and EA is still in development, following the cancellation of a Star Wars shooter by Apex Legends studio Respawn last week.
+</p><p>
+EA's latest round of layoffs will <a href="https://www.eurogamer.net/ea-announces-further-lay-offs-this-time-likely-to-affect-around-670-employees">affect five percent of staff - around 670 employees</a>. The publisher said it planned to move away from "future licensed IP" toward its "owned IP, sports, and massive online communities". EA said this decision would not impact every team at the company directly.
+</p><p>
+ Now, developer Bit Reactor has shared an update on X, confirming its Star Wars strategy game was "unaffected" by the changes at EA. 
+</p> <p><a href="https://www.eurogamer.net/eas-star-wars-strategy-game-still-in-development-following-l
+
+## What is going on with layoffs in the video games industry?
+ - [https://www.eurogamer.net/what-is-going-on-with-the-video-games-industry?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/what-is-going-on-with-the-video-games-industry?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-04T10:25:58+00:00
+
+<img src="https://assetsio.reedpopcdn.com/AdobeStock_563798408.jpeg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+<a href="https://www.eurogamer.net/zelda-tears-of-the-kingdom-walkthrough-tips-9343">Zelda: Tears of the Kingdom</a> shipped 10m copies in a weekend. Hogwarts Legacy sold 24m units in a year. Palworld is on 25 million players. Spider-Man 2 was Sony's fastest-selling game. <a href="https://www.eurogamer.net/starfield-guides-tips-tricks-9352">Starfield</a> broke Bethesda records.  And then there's been Diablo 4, Super Mario Bros Wonder, Baldur's Gate 3, Star Wars Jedi: Survivor, Resident Evil 4... sales records have been broken consistently over the past 12 months. 
+</p><p>
+But then there have been those other headlines. You've seen them, too. 860 layoffs at Epic. 1800 redundancies at Unity. 1900 by Xbox. 900 by PlayStation. 530 at Riot. Nearly 700 at EA. I would give a running total of how many people have publicly lo
+
