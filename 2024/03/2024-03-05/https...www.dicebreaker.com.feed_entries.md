@@ -1,0 +1,37 @@
+# Source:Dicebreaker Latest Articles Feed, URL:https://www.dicebreaker.com/feed, language:en
+
+## NASA (yes, that NASA) has released its first D&D-compatible tabletop RPG adventure
+ - [https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/nasa-dnd-compatible-adventure-the-lost-universe-hubble-telescope?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/nasa-dnd-compatible-adventure-the-lost-universe-hubble-telescope?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-03-05T17:23:26+00:00
+
+<img src="https://assetsio.reedpopcdn.com/the-lost-universe-nasa-tabletop-rpg-key-art-dragon-hubble-telescope.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>In a turn of events that makes a lot more sense than you might think at first blush, the National Aeronautics and Space Administration (NASA) just published a <a href="https://www.dicebreaker.com/categories/roleplaying-game/best-games/10-best-dungeons-dragons-5e-rpg-campaigns">5E-compatible tabletop RPG adventure</a> about saving the Hubble Space Telescope.</p><p>The Lost Universe adventure was designed by Christina Mitchell, senior production specialist at the <a href="https://www.nasa.gov/goddard/">NASA Goddard Space Flight Center</a> in Maryland, and is a 43-page romp through Aldastron, a fantasy city on the rogue planet of Exlaris. According to NASA&rsquo;s website, both astronomical researchers and the Hubble Space telescope have abruptly disappeared, and it&rsquo;ll 
+
+## 12 Best Into the Inklands cards in Disney Lorcana
+ - [https://www.dicebreaker.com/games/disney-lorcana/best-games/best-into-the-inklands-cards?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/disney-lorcana/best-games/best-into-the-inklands-cards?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-03-05T17:01:23+00:00
+
+<img src="https://assetsio.reedpopcdn.com/disney-lorcana-best-cards-featured-image.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Into the Inklands is the newest set released for Disney Lorcana and includes 204 cards for players to use to build their next winning decks with. A new set means more potential strategies for you to employ in your Lorcana games, but which should you choose?</p><p>That can depend on which of the trading card game's ink types you favour: do you like the fun combo potential of amethyst? Or perhaps the tricks and mischief of emerald? Maybe the defensive potential of steel? The cards in Into the Inklands could even swing you to try a different ink type - with some of the new strategic options offering fresh and exciting ways of approaching Lorcana.</p><p>This list features the best of the best for every ink type in the latest set, giving you a good overview of what each colour can offer you in Into the I
+
+## Puerto Rico 1897 publisher promises no AI art in final release after deluxe edition backlash
+ - [https://www.dicebreaker.com/games/puerto-rico-1897/news/puerto-rico-1897-promises-no-ai-art-after-deluxe-edition-backlash?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/puerto-rico-1897/news/puerto-rico-1897-promises-no-ai-art-after-deluxe-edition-backlash?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-03-05T12:00:58+00:00
+
+<img src="https://assetsio.reedpopcdn.com/puerto-rico-1897-special-edition-box-cover-art-header.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Alleged AI-generated artwork used to promote a special edition of the Puerto Rico 1897 board game has been removed from its Gamefound crowdfunding campaign after licence-holder Ravensburger stepped in.</p><p>A <a href="https://gamefound.com/en/projects/awaken-realms/puerto-rico-special-edition">preview of the campaign</a> went live on February 27th, and potential backers quickly spotted what they called tell-tale signs of AI generative tools in the promotional images and the potential box art used by publisher Awakened Realms.</p><p>Comments on the campaign page mentioned six-fingered hands and weird, greebly bits on the architecture and vehicles, and Dice Tower board game previewer Ella Ampongan posted some pretty compelling examples <a href="https://twitter.com/meampongan/status/17633
+
+## Shakespeare and Hamlet battle with barbed words in latest Unmatched release
+ - [https://www.dicebreaker.com/games/unmatched-slings-and-arrows/news/unmatched-slings-and-arrows?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/unmatched-slings-and-arrows/news/unmatched-slings-and-arrows?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-03-05T11:00:32+00:00
+
+<img src="https://assetsio.reedpopcdn.com/unmatched-slings-and-arrows-front-cover-2.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Legendary wordsmith William Shakespeare battles against his own creations in the next release for the Unmatched board game series.</p><p>Unmatched is a series of board games that combines elements of miniature wargames with card-driven strategy games. Each entry in the series includes a collection of characters - from either fiction or real history - for players to choose from, with previous examples being King Arthur, Achilles, Ms Marvel and Bloody Mary.</p><p>These characters each have their own decks of cards and miniatures, with players using their cards to move their chosen character&rsquo;s miniature/s and perform attacks and/or abilities. Every deck is themed around the character it&rsquo;s attached to, with characters having certain powers or allies that reflect their personalities or stori
+
+## First look at Halo: Flashpoint miniature game revels in the video game's intense multiplayer
+ - [https://www.dicebreaker.com/games/halo-flashpoint/news/halo-flashpoint-miniatures-game-first-details?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/halo-flashpoint/news/halo-flashpoint-miniatures-game-first-details?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-03-05T02:40:07+00:00
+
+<img src="https://assetsio.reedpopcdn.com/halo-flashpoint-screenshot-mantic-games-spartans-running.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Halo&rsquo;s upcoming tabletop translation released a teaser trailer and press release that dropped a few big details amongst a whole lot of nothing. Thanks to new information from publisher Mantic Games at GAMA Expo 2024, we know very little more than that Halo: Flashpoint will contain a whole mess of Master Chiefs doing violence at each other.</p><p>To be fair, that&rsquo;s because Dicebreaker and most of its readers aren&rsquo;t &ldquo;key retailers&rdquo;, the audience for an early preview that the makers of fantasy wargame Kings of War and The Walking Dead-themed <a href="https://www.dicebreaker.com/games/the-walking-dead-all-out-war/news/the-walking-dead-all-out-war-miniatures-game-returning-in-2024">All Out War</a> hosted at the Kentucky-based event on March 3rd. What trickled
+

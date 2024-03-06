@@ -1,0 +1,79 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed, language:en-US
+
+## Man Lands Himself A Two-Year Prison Sentence For (Check Notes) Sharing Politically Incorrect Stickers
+ - [https://www.louderwithcrowder.com/u-k-samuel-melia](https://www.louderwithcrowder.com/u-k-samuel-melia)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-05T23:28:34+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=51647714&amp;width=600&amp;height=600&amp;coordinates=262%2C0%2C0%2C0" /><br /><br /><p>"The sentence would have been much longer had you actually committed a crime.‚Äù That was one of the last things Samuel Melia heard from the judge who threw him in prison for being politically incorrect. </p><p>Sticker art is when a message or image is publicly displayed. This is referred to as ‚Äústickering‚Äù However, this is considered a jailworthy offense when the sticker has a message that authorities in the U.K. despise. </p><p>A 34-year-old man named Samuel Melia was sentenced to two years in prison for ‚Äúinciting racial hatred.‚Äù </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a href="https://twitter.com/EndWokeness/status/1764908185440092528"></a>
+</blockquote>
+<p><a href="https://www.bbc.com/news/uk-england-leeds-68448867" rel="noopener noreferrer" target=
+
+## Lawmakers Move To Offer A New Path For First-Time Home Buyers, But Only If You Are Here Illegally
+ - [https://www.louderwithcrowder.com/california-undocumented-loans](https://www.louderwithcrowder.com/california-undocumented-loans)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-05T22:21:48+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=51647231&amp;width=600&amp;height=600&amp;coordinates=764%2C0%2C764%2C0" /><br /><br /><p>Lawmakers in California have a clear message to people who break federal immigration laws: You may buy homes with zero-down loans up to 20 percent of the price and it does not acquire interest. And no, it does not look like lawmakers will extend that offer to more Americans. <br /></p><p><br /></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a href="https://twitter.com/BrianDahleCA/status/1762884121020522872"></a>
+</blockquote>
+<p><a href="https://thepostmillennial.com/california-moves-to-allow-illegals-immigrants-to-buy-homes-with-no-payment-zero-down-loans" rel="noopener noreferrer" target="_blank">According to The <em>Post Millennial: </em></a></p><blockquote>California lawmakers proposed legislation that would expand the zero-down, no-payment home "loan" program 
+
+## Memphis Mayor to gangs: Please stop stealing cars, killing each other for seven days
+ - [https://www.louderwithcrowder.com/memphis-mayor-crime](https://www.louderwithcrowder.com/memphis-mayor-crime)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-05T22:20:16+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51647502&amp;width=1200&amp;height=800&amp;coordinates=187%2C0%2C141%2C0" /><br /><br /><p>Memphis has reached a 17-year high with violent crime rates. And in 2022, it was considered the most <a href="https://www.statista.com/statistics/217685/most-dangerous-cities-in-north-america-by-crime-rate/" target="_blank">dangerous </a>city in the country by some <a href="https://www.fox13memphis.com/news/memphis-crime-rate-hits-record-high-car-thefts-on-decline-data-shows/article_6910df56-bfeb-11ee-acf3-ebb7ffd30658.html" target="_blank">measurements</a>. Nearly 400 people fell victim to homicide, which is an insane jump from the less than 200 victims just several years ago. </p><p>In other words, there is a crime problem in Memphis. And because Democrats have their unique way of dealing with crimes, which is not dealing with crime, Memphis Mayor Paul Young has done just that. </p><p>Young did not meet with some o
+
+## Doritos hires deranged brand ambassador with a history of, allegedly, endorsing pedophilia
+ - [https://www.louderwithcrowder.com/doritos-samantha-hudson](https://www.louderwithcrowder.com/doritos-samantha-hudson)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-05T22:13:40+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51647434&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C200%2C0" /><br /><br /><p>Why does it seem that as long as someone identifies as trans, any aberrant things they have said or done never matter? And that even some of the most deranged people in the world are rewarded and celebrated all because they claim to be the opposite gender.</p><p>Doritos has a new Spanish brand ambassador who is allegedly a ‚Äúself-described pedophile‚Äù but coincidentally, he also identifies as transgender.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a href="https://twitter.com/EndWokeness/status/1764787501183459385"></a>
+</blockquote>
+<p><a href="https://dailycaller.com/2024/03/04/doritos-terrifying-brand-ambassador-dylan-mulvaney-sydney-sweeney-pepsi/" rel="noopener noreferrer" target="_blank">According to The <em>Daily Caller: </em></a></p><blockquote>Doritos‚Ä
+
+## WH admits: they've been secretly transporting illegals on flights all over America
+ - [https://www.louderwithcrowder.com/secret-migrant-flights](https://www.louderwithcrowder.com/secret-migrant-flights)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-05T17:24:55+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51643842&amp;width=1200&amp;height=800&amp;coordinates=177%2C0%2C53%2C0" /><br /><br /><p>In the United States, you need an unexpired government-issued ID or a passport from your country of origin to travel through security. The name on your boarding pass must also match the name on your ID. Well, unless you are a migrant being flown in by the Biden Administration. Flying in undocumented immigrants from foreign airports is an exception to this  rule. These foreign nationals get special treatment and United States citizens get none of that, while also paying for their flights.<br /></p><p>The White House admitted they have been transporting migrants on secret flights and lawyers for immigration agencies claim there could be national ‚Äúvulnerabilities‚Äù if the secret locations are revealed to the public. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a 
+
+## "Sometimes you need Donald Trump": Enjoying the media meltdowns over the 9-0 SCOTUS decision
+ - [https://www.louderwithcrowder.com/scotus-media-takes](https://www.louderwithcrowder.com/scotus-media-takes)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-05T17:08:09+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51643740&amp;width=1200&amp;height=800&amp;coordinates=300%2C0%2C0%2C0" /><br /><br /><p>The <a href="https://www.nationalreview.com/news/the-supreme-court-must-be-stopped-liberal-pundits-melt-down-after-justices-refuse-to-do-their-bidding-in-colorado-ballot-case/" rel="noopener noreferrer" target="_blank">media </a>had a meltdown yesterday after the Supreme Court <a href="https://www.louderwithcrowder.com/scotus-trump-ballot" target="_self">ruled </a>9-0 that individual states could not keep presidential candidates off the ballot.</p><div class="rm-embed embed-media"></div><p><a href="https://www.youtube.com/watch?v=DT7jJylPuZM" rel="noopener noreferrer" target="_blank">Trump </a>responded to the decision and went all in on Biden and demanded he stop ‚Äúweaponizing‚Äù the Justice System.<br /></p><p>‚ÄúThe voters can take the person out of the race very quickly, but a court shouldn‚Äôt be doing that and t
+
+## Watch: Jason Kelce celebrates importance of fatherhood in NFL¬† retirement speech and the internet LOVES it
+ - [https://www.louderwithcrowder.com/jason-kelce-retirement-fatherhood](https://www.louderwithcrowder.com/jason-kelce-retirement-fatherhood)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-05T14:14:21+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51642187&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C82" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Philadelphia Eagles Jason Kelce announced his retirement from football on Monday. Not to be confused with his brother Travis Kelce on the Kansas City Chiefs, who your favorite MAGA influencer lied to you about being part of a deep state psyop to endorse Biden. Everything Jason is known for has been done on the field. But out of all Kelce's accolades -- 7x Pro Bowl, 6x all-pro, <a href="https://www.louderwithcrowder.com/chris-stapleton-national-anthem" target="_blank">and a Super Bowl ring</a> -- being a father is his greatest achievement.</p><p>He 
+
+## "It's f*cked up": AOC's words come back to haunt her as she's confronted in public for not being pro-Hamas enough
+ - [https://www.louderwithcrowder.com/aoc-confronted-outside-movie](https://www.louderwithcrowder.com/aoc-confronted-outside-movie)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-05T12:47:00+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51641671&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C80" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Super popular social media influencer Rep. AOC was accosted outside of a movie theater in New York City on Monday. The accoster wanted to know why the influencer won't accuse Israel of "genocide." Yes, we're at a point where Rep. AOC isn't anti-Israel enough for many of her stans.</p><p>What's funny, other than Rep. AOC's trademark overreaction to all the things, is that in her side hustle as a member of Congress, she's an officer in the Democrat Hamas Congressional Caucus. <a href="https://www.louderwithcrowder.com/rashida-tlaib-biden" target="_bl
+
+## Sources: Trump's Back! Supreme Court Triggers Leftist Media Meltdown!
+ - [https://www.louderwithcrowder.com/sources-march-5-2024](https://www.louderwithcrowder.com/sources-march-5-2024)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-05T11:38:43+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51642449&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C120" /><br /><br /><p>It‚Äôs Super Tuesday! Yesterday morning, the Supreme Court ruled 9-0 that individual states could not keep presidential candidates off the ballot. Why did so many in the lower courts and the media insist on pushing something they knew was unconstitutional? The usual suspects on the left had a meltdown about it and we‚Äôre bringing you the highlights in case you missed it. In other news, veteran CBS journalist Catherine Herridge is being held in contempt for refusing to reveal her confidential sources regarding her investigations of Joe and Hunter Biden, highlighting a trend of the weaponization of Government against journalism and freedom of speech in America, the Biden administration secretly flying illegals in to reduce border crossing statistics, and so much more!</p><div class="rm-embed embed-media"></div><p><stron
+
