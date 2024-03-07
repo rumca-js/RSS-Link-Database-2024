@@ -1,0 +1,107 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Reports of fake immigration lawyers rise in lockstep with refugees in Windsor, Ont.
+ - [https://www.cbc.ca/news/canada/windsor/refugees-windsor-fake-immigration-lawyers-increase-1.7135135?cmp=rss](https://www.cbc.ca/news/canada/windsor/refugees-windsor-fake-immigration-lawyers-increase-1.7135135?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T15:06:25+00:00
+
+<img alt="Two women and two men dressed in traditional clothes descend an airport staircase onto the airport tarmac." height="349" src="https://i.cbc.ca/1.6168394.1704739665!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/afghanistan-conflict.JPG" title="Afghan refugees who supported Canada&apos;s mission in Afghanistan arrive at Toronto Pearson International Airport in Canada on Aug. 24, 2021. " width="620" /><p>There's a growing threat from people posing as immigration lawyers and consultants in Windsor, Ont., according to a refugee claimant support organization and legal aid officials. Similar complaints about fraudulent lawyers preying on newcomers were also recently brought to light in Montreal.</p>
+
+## Canada Infrastructure Bank partners with First Nations Bank to finance projects
+ - [https://www.cbc.ca/news/business/canada-infrastructure-bank-first-nations-bank-1.7135486?cmp=rss](https://www.cbc.ca/news/business/canada-infrastructure-bank-first-nations-bank-1.7135486?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T14:25:23+00:00
+
+<img alt="Two CEOs in suits pose for a photo holding up a sign with the logos of CIB and FNBC." height="349" src="https://i.cbc.ca/1.7135609.1709752165!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/canada-infrastructure-bank-cib-and-first-nations-bank-of-canada.jpg" title="FNBC CEO Bill Lomax (left) and CIB CEO Ehren Cory are pictured in a photo handout, as part of their respective banks announcing a partnership." width="620" /><p>The Canada Infrastructure Bank has signed a $100-million deal with the First Nations Bank of Canada to help Indigenous communities borrow money to build infrastructure.</p>
+
+## Quebec court temporarily bans protests near several Jewish institutions after groups clash
+ - [https://www.cbc.ca/news/canada/montreal/injunction-montreal-protest-real-estate-1.7135106?cmp=rss](https://www.cbc.ca/news/canada/montreal/injunction-montreal-protest-real-estate-1.7135106?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T12:08:33+00:00
+
+<img alt="Two groups of protesters demonstrate outside a Montreal synagogue separated by police tape and officers." height="349" src="https://i.cbc.ca/1.7135108.1709729746!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/opposite-protests-outside-montreal-synagogue.jpg" title="Two groups of protesters demonstrate outside a Montreal synagogue on March 5, 2024. Protesters on the left say a real estate firm is trying to sell properties on occupied land to members of Montreal&apos;s Jewish community." width="620" /><p>A Quebec court has issued a temporary injunction prohibiting protests near several Jewish institutions in Montreal's Côte-des-Neiges–Notre-Dame-de-Grâce borough following back-to-back demonstrations outside community buildings in recent days. </p>
+
+## Bank of Canada holds key interest rate at 5% again
+ - [https://www.cbc.ca/news/business/bank-of-canada-march-6-interest-rates-1.7135198?cmp=rss](https://www.cbc.ca/news/business/bank-of-canada-march-6-interest-rates-1.7135198?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T09:51:36+00:00
+
+<img alt="A building that says Bank of Canada on it." height="349" src="https://i.cbc.ca/1.7052841.1701998574!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bank-of-canada.jpg" title="The Bank of Canada is seen Wednesday September 6, 2017 in Ottawa. " width="620" /><p>The Bank of Canada has held its key interest rate at five per cent again, as economists had expected.</p>
+
+## BlackBerry, Sort Of, Little Bird dominate Canadian Screen Award nominations
+ - [https://www.cbc.ca/news/entertainment/canadian-screen-awards-nominations-2024-1.7134778?cmp=rss](https://www.cbc.ca/news/entertainment/canadian-screen-awards-nominations-2024-1.7134778?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T07:00:00+00:00
+
+<img alt="Two men sit in profile" height="349" src="https://i.cbc.ca/1.7024073.1709683559!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/blackberry3.jpeg" title="Jay Baruchel (foreground) and Glenn Howerton as Mike Lazaridis and Jim Balsillie in BlackBerry." width="620" /><p>The Succession-style tech drama BlackBerry, dramedy Sort Of and Sixties Scoop-inspired miniseries Little Bird lead the nominations for the 2024 Canadian Screen Awards, announced Wednesday.</p>
+
+## Future of proposed emergency shelter in limbo after Saskatoon city council passes new location rules
+ - [https://www.cbc.ca/news/canada/saskatoon/future-of-emergency-shelter-in-saskatoon-in-limbo-1.7134753?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/future-of-emergency-shelter-in-saskatoon-in-limbo-1.7134753?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T07:00:00+00:00
+
+<img alt="fire hall in Saskatoon." height="349" src="https://i.cbc.ca/1.7114409.1709173311!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/fire-hall-turns-into-emergency-shelter.JPG" title="The proposed shelter in Saskatoon&apos;s Sutherland neighborhood was chosen to offer 30 beds for people with complex needs. Two neighborhood information sessions on the proposed shelter planned for this week had already been postponed twice. " width="620" /><p>A recent vote by Saskatoon city council has left the future of a proposed emergency shelter in limbo as the city looks for an alternative location.</p>
+
+## Victims' families say low autopsy rate depriving them of answers
+ - [https://www.cbc.ca/news/canada/british-columbia/bc-autopsy-rate-drug-overdose-victims-1.7125963?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/bc-autopsy-rate-drug-overdose-victims-1.7125963?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T07:00:00+00:00
+
+<img alt="Gregory Sword, whose 14-year-old daughter Kamilah died of an apparent drug overdose is pictured in Port Coquitlam, Monday February 26, 2023. " height="349" src="https://i.cbc.ca/1.7129887.1709235586!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/autopsy-shortage.jpg" title="Gregory Sword, whose 14-year-old daughter Kamilah died of an apparent drug overdose is pictured in Port Coquitlam, Monday February 26, 2023. " width="620" /><p>B.C.'s autopsy rate has steadily declined over the course of a decade while toxic drug deaths mount. Medical examiners says the province could be missing out on crucial public health information because of it.</p>
+
+## She ended up on Zoom with the man accused of raping her. She doesn't want it to happen to other students
+ - [https://www.cbc.ca/news/canada/nova-scotia/universite-sainte-anne-sa-change-now-campaign-1.7025375?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/universite-sainte-anne-sa-change-now-campaign-1.7025375?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T05:00:00+00:00
+
+<img alt="an outline of a woman next to a Université Sainte-Anne sign" height="349" src="https://i.cbc.ca/1.7134727.1709732724!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/universite-sainte-anne.jpg" title="The young woman whose story was a driving force behind the SA Change Now campaign wants Université Sainte-Anne to rethink how it handles cases of sexual assault on campus." width="620" /><p>A student who alleges she was sexually assaulted on campus is continuing to call for change at Université Sainte-Anne in Church Point, N.S., saying the school needs to do more to support its students.</p>
+
+## These unclaimed dead bodies are stuck in limbo in freezers outside the Health Sciences Centre
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/health-sciences-centre-cold-storage-bodies-1.7132964?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/health-sciences-centre-cold-storage-bodies-1.7132964?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T04:30:00+00:00
+
+<img alt="Five white trucking containers are placed on a concrete slab. A green dumpster is next to them. " height="349" src="https://i.cbc.ca/1.7133199.1709575534!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/freezer-containers-health-sciences-centre.jpg" title="These freezer containers sit in an alley between the Janeway Children&apos;s Hospital and MUN&apos;s school of medicine. " width="620" /><p>Cold storage containers outside of the Health Sciences Centre in St. John's house approximately 28 unclaimed cadavers, and there's no immediate plan to cremate or bury them.</p>
+
+## Can collective ownership solve housing affordability? These Black communities in N.S. are working on it
+ - [https://www.cbc.ca/news/canada/nova-scotia/land-trust-black-community-nova-scotia-1.7131390?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/land-trust-black-community-nova-scotia-1.7131390?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T04:00:00+00:00
+
+<img alt="Four images of Black community leaders in Nova Scotia. Two are women, two are men." height="349" src="https://i.cbc.ca/1.7131395.1709322778!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/collage.jpg" title="From left to right: Nova Scotia community land trust advocates Lynn Jones, Curtis Whiley, Shekara Grant, and Treno Morton." width="620" /><p>Five years ago, the 'community land trust' concept was almost unknown in Nova Scotia. But as the challenge of finding affordable housing increases, at least four new trusts have begun to organize to meet that need.</p>
+
+## Health Canada clarifies eligibility for seniors under national dental care plan
+ - [https://www.cbc.ca/news/politics/senior-coverage-eligibility-private-insurance-pension-plan-website-updated-1.7134748?cmp=rss](https://www.cbc.ca/news/politics/senior-coverage-eligibility-private-insurance-pension-plan-website-updated-1.7134748?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T04:00:00+00:00
+
+<img alt="A dental hygienist dressed in scrubs, gloves and a mask peers inside the mouth of a patient doing an exam." height="349" src="https://i.cbc.ca/1.7071059.1703904087!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/dental-care-for-seniors.jpg" title="A dental hygienist in Ottawa performs an exam on John Kelso in his retirement home." width="620" /><p>The federal government has updated information on its website about who is eligible for the Canadian Dental Care Plan. Seniors who purchased insurance themselves, or opted out of pension programs they can't rejoin, will qualify for the national public program, Ottawa now says.</p>
+
+## Hoping for 'seamless' March Break travel from Toronto this year? Airport officials have tips
+ - [https://www.cbc.ca/news/canada/toronto/march-break-airport-travel-1.7134221?cmp=rss](https://www.cbc.ca/news/canada/toronto/march-break-airport-travel-1.7134221?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T04:00:00+00:00
+
+<img alt="Passengers walk around an airport terminal." height="349" src="https://i.cbc.ca/1.7134420.1709666513!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/pearson-airport-travel.jpg" title="Travellers are photographed at Toronto Pearson International Airport on July 3, 2023." width="620" /><p>As the March Break school holiday approaches, officials at Canada's busiest airport are sharing tips to help passengers travelling by plane get to their destinations as easily as possible.</p>
+
+## Still in crisis, Cat Lake First Nation awaits temporary replacement for nursing station razed by fire
+ - [https://www.cbc.ca/news/canada/thunder-bay/cat-lake-first-nation-fire-update-1.7134594?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/cat-lake-first-nation-fire-update-1.7134594?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T04:00:00+00:00
+
+<img alt="A person with long dark hair and glasses is seen from the side, sitting at a table and speaking into a microphone." height="349" src="https://i.cbc.ca/1.7134614.1709674063!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cat-lake-chief-russell-wesley.jpg" title="Cat Lake First Nation&apos;s Chief Russell Wesley, seen in this file photo from the Nishnawbe Aski Nation winter chiefs assembly in February 2024. Wesley says he is grateful for how people have come together to support Cat Lake after the loss of its nursing station in a fire Saturday night." width="620" /><p>Cat Lake First Nation in northwestern Ontario remains in crisis mode after losing its only nursing station in a fire Saturday night, amid a boil-water advisory that pre-dates the blaze. Here's how different partners and government officials say they're helping the community look ahead.</p>
+
+## The PWHL makes me feel seen and inspires me to become a sports archivist
+ - [https://www.cbc.ca/news/canada/first-person-pwhl-sports-archivist-1.7133660?cmp=rss](https://www.cbc.ca/news/canada/first-person-pwhl-sports-archivist-1.7133660?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T04:00:00+00:00
+
+<img alt="Two smiling women pose for a selfie. One of them is wearing a PWHL jersey." height="349" src="https://i.cbc.ca/1.7134232.1709660428!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sarah-nurse-and-sali.jpg" title="Sali Lafrenie, right, was thrilled when she met Sarah Nurse at the PWHL Toronto outdoor rink practice during the all-star weekend in February." width="620" /><p>Growing up, Sali Lafrenie didn’t have many sports role models who looked like her, but watching the PWHL’s inaugural season has made her feel seen. And now she wants to help other racialized athletes and archivists feel that way, too.</p>
+
+## Lightning strikes plane after takeoff from Vancouver airport
+ - [https://www.cbc.ca/news/canada/british-columbia/lightning-strikes-plane-vancouver-airport-1.7135041?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/lightning-strikes-plane-vancouver-airport-1.7135041?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-06T00:28:24+00:00
+
+<img alt="Lightning strikes a plane departing from Vancouver International Airport." height="349" src="https://i.cbc.ca/1.7135057.1709701724!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/lightning-strikes-plane.JPG" title="Student pilot Ethan West captured footage of lightning striking a plane departing from Vancouver International Airport." width="620" /><p>A student pilot and aviation enthusiast captured video of an airplane in B.C. being struck by lightning.</p>
+

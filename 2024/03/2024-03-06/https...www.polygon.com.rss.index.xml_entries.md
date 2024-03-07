@@ -1,0 +1,277 @@
+# Source:Polygon -  All, URL:https://www.polygon.com/rss/index.xml, language:en
+
+## Warner Bros. is killing Red vs. Blue production company Rooster Teeth
+ - [https://www.polygon.com/24092726/rooster-teeth-shut-down-warner-bros](https://www.polygon.com/24092726/rooster-teeth-shut-down-warner-bros)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T23:18:02+00:00
+
+<figure>
+      <img alt="Geoff Ramsey (L) and Burnie Burns of the television show “Rooster Teeth” for the AT&amp;amp;T Audience Network speak during the Summer 2018 Television Critics Association Press Tour at Beverly Hilton Hotel on July 27, 2018 in Beverly Hills, California. (GETTY)" src="https://cdn.vox-cdn.com/thumbor/4RzPIOkBbjDB2XpO8wdqEvfsyiA=/0x0:3000x1688/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73187692/1006375840.0.jpg" />
+        <figcaption>Photo: Frederick M. Brown/Getty Images</figcaption>
+    </figure>
+
+  <p>The company has existed for 21 years</p>
+  <p>
+    <a href="https://www.polygon.com/24092726/rooster-teeth-shut-down-warner-bros">Continue reading&hellip;</a>
+  </p>
+
+## How to beat Fort Condor in FF7 Rebirth
+ - [https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091678/fort-condor-stage-3-4-walkthrough](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091678/fort-condor-stage-3-4-walkthrough)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T22:21:14+00:00
+
+<figure>
+      <img alt="Polygonal Gilgamesh standing menacingly in Fort Condor in Final Fantasy 7 Rebirth" src="https://cdn.vox-cdn.com/thumbor/UYj5Jfg32jwXGw2fpxyExDlOVZI=/0x0:1451x816/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73187551/fortcondor_ff7r.0.jpg" />
+        <figcaption>Image: Square Enix via Johnny Yu</figcaption>
+    </figure>
+
+  <p>Trebuchets can launch 90 kg projectiles 300 meters, even in Final Fantasy 7 Rebirth</p>
+  <p>
+    <a href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091678/fort-condor-stage-3-4-walkthrough">Continue reading&hellip;</a>
+  </p>
+
+## How to get Focus Activity Packages in Destiny 2
+ - [https://www.polygon.com/destiny-2-guide-walkthrough/24091997/focus-activity-packages-skimmer-guardian-games](https://www.polygon.com/destiny-2-guide-walkthrough/24091997/focus-activity-packages-skimmer-guardian-games)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T22:04:44+00:00
+
+<figure>
+      <img alt="Three Guardians use their new Skimmer hoverboards in Destiny 2" src="https://cdn.vox-cdn.com/thumbor/_SxNWdI1A9LSvt6J27-kWt7nOZk=/0x0:1920x1080/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73187519/2024_Guardian_Games_Press_Kit_Skimmer_COMPRESSED_002.0.jpg" />
+        <figcaption>Image: Bungie</figcaption>
+    </figure>
+
+  <p>Login at the right time and play the featured playlists for these special rewards</p>
+  <p>
+    <a href="https://www.polygon.com/destiny-2-guide-walkthrough/24091997/focus-activity-packages-skimmer-guardian-games">Continue reading&hellip;</a>
+  </p>
+
+## This iPhone controller that works natively with PS5 Remote Play is $30 off
+ - [https://www.polygon.com/deals/24092666/backbone-one-iphone-lightning-gaming-deal-amazon](https://www.polygon.com/deals/24092666/backbone-one-iphone-lightning-gaming-deal-amazon)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T21:34:26+00:00
+
+<figure>
+      <img alt="A person holding the Backbone One controller" src="https://cdn.vox-cdn.com/thumbor/p6AsDWIjCS1U1W-jVUr6d9h3vr4=/0x139:1730x1112/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73187406/top_image_cropped.0.jpg" />
+        <figcaption>Image: Backbone</figcaption>
+    </figure>
+
+  <p>This discount is for the Backbone One made for the iPhone 14 and earlier models</p>
+  <p>
+    <a href="https://www.polygon.com/deals/24092666/backbone-one-iphone-lightning-gaming-deal-amazon">Continue reading&hellip;</a>
+  </p>
+
+## The best action movies of the year so far
+ - [https://www.polygon.com/24091121/best-action-movies-2024-watch](https://www.polygon.com/24091121/best-action-movies-2024-watch)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T21:00:00+00:00
+
+<figure>
+      <img alt="Scott Adkins wears a bulletproof vest and holds a gun while going up an airport escalator in One More Shot." src="https://cdn.vox-cdn.com/thumbor/rxBMhUvX66ObNV6c1fsYNdMsVjA=/0x0:1024x576/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73187290/OneMoreShot_Unit_Photography_Harris_082A7118.0.jpg" />
+        <figcaption>Image: Sony Pictures Entertainment</figcaption>
+    </figure>
+
+
+  		<p>From all around the world</p>
+  <p>
+    <a href="https://www.polygon.com/24091121/best-action-movies-2024-watch">Continue reading&hellip;</a>
+  </p>
+
+## The Thaumaturge is an ambitious, compelling RPG that’s a diamond in the rough
+ - [https://www.polygon.com/reviews/24091697/the-thaumaturge-rpg-review-pc-xbox-ps5](https://www.polygon.com/reviews/24091697/the-thaumaturge-rpg-review-pc-xbox-ps5)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T20:00:00+00:00
+
+<figure>
+      <img alt="Protagonist Wiktor Szulski standing next to a salutor bathed in red light. " src="https://cdn.vox-cdn.com/thumbor/sKVTwCQme72HVy8-vu3vDjV-jRM=/0x0:4181x2352/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73187147/thaumaturge_key_art.0.jpg" />
+        <figcaption>Image: Fool’s Theory/11 bit studios</figcaption>
+    </figure>
+
+
+  		<p>Real-world history meets Slavic mythology</p>
+  <p>
+    <a href="https://www.polygon.com/reviews/24091697/the-thaumaturge-rpg-review-pc-xbox-ps5">Continue reading&hellip;</a>
+  </p>
+
+## Persona 3 Reload DLC will add missing PS2 bonus chapter
+ - [https://www.polygon.com/24092403/persona-3-reload-dlc-the-answer](https://www.polygon.com/24092403/persona-3-reload-dlc-the-answer)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T19:01:04+00:00
+
+<figure>
+      <img alt="Three teens and a dog get ready to battle in Persona 3 Reload" src="https://cdn.vox-cdn.com/thumbor/T0sUPmnJ6X6uwSHFgxn4LnuQunU=/0x0:1920x1080/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73186901/Persona_3_Reload.0.png" />
+        <figcaption>Image: Atlus/Sega</figcaption>
+    </figure>
+
+  <p>A big thing missing from the hit remake will be included in the game’s Expansion Pass</p>
+  <p>
+    <a href="https://www.polygon.com/24092403/persona-3-reload-dlc-the-answer">Continue reading&hellip;</a>
+  </p>
+
+## Creatures of Ava looks like a sweet alternative to Palworld, with hugs instead of guns
+ - [https://www.polygon.com/24091654/creatures-of-ava-xbox-pc-game-pass](https://www.polygon.com/24091654/creatures-of-ava-xbox-pc-game-pass)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T19:00:00+00:00
+
+<figure>
+      <img alt="Heroine Vic hugs an antelope-like creature, while another diminutive animal looks on, in a screenshot from Creatures of Ava" src="https://cdn.vox-cdn.com/thumbor/iEXLtmw8O0OHb9aYCK1rympNdQI=/0x0:3840x2160/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73186875/Creatures_of_Ava_screenshot_04.0.jpg" />
+        <figcaption>Image: Inverge Studios, Chibig/11-bit Studios</figcaption>
+    </figure>
+
+  <p>Pokémon-style creature collection, with a conscience</p>
+  <p>
+    <a href="https://www.polygon.com/24091654/creatures-of-ava-xbox-pc-game-pass">Continue reading&hellip;</a>
+  </p>
+
+## Shōgun episode 3 sets up its most important character by keeping him out of the limelight
+ - [https://www.polygon.com/24091458/shogun-episode-3-review-toranaga-actor-hiroyuki-sanada](https://www.polygon.com/24091458/shogun-episode-3-review-toranaga-actor-hiroyuki-sanada)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T19:00:00+00:00
+
+<figure>
+      <img alt="Toranaga (Hiroyuki Sanada) in the middle of battle" src="https://cdn.vox-cdn.com/thumbor/fMLqGiP_ejMagyrSpWmPlW7BYjI=/0x0:3000x1688/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73186870/SHOGUN_103_07813R.0.jpg" />
+        <figcaption>Photo: Katie Yu/FX</figcaption>
+    </figure>
+
+  <p>As Hiroyuki Sanada says: It’s about the right balance</p>
+  <p>
+    <a href="https://www.polygon.com/24091458/shogun-episode-3-review-toranaga-actor-hiroyuki-sanada">Continue reading&hellip;</a>
+  </p>
+
+## All the new video games launching in 2024
+ - [https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming](https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T18:45:16+00:00
+
+<figure>
+      <img alt="A collage shows screenshots from various games releasing in 2024" src="https://cdn.vox-cdn.com/thumbor/uRP-YLliY3Po1U0qYctrjXwb0q8=/0x156:3000x1844/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/72683414/video_games_2024_release_dates.0.jpg" />
+        <figcaption>Graphic: Michael McWhertor/Polygon | Source images: Various</figcaption>
+    </figure>
+
+
+  		<p>2024 will be a massive year for new games </p>
+  <p>
+    <a href="https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming">Continue reading&hellip;</a>
+  </p>
+
+## All the big announcements from Xbox’s March 2024 Partner Preview
+ - [https://www.polygon.com/24092248/xbox-partner-showcase-preview-2024-announcements-release-dates](https://www.polygon.com/24092248/xbox-partner-showcase-preview-2024-announcements-release-dates)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T18:45:00+00:00
+
+<figure>
+      <img alt="Screenshots and artwork from Persona 3 Reload, Creatures of Ava, Kunitsu-Gami: Path of the Goddess, and Final Fantasy 14 Online, arranged in a grid" src="https://cdn.vox-cdn.com/thumbor/tNnVej3pnGD19Pm8GBVr7anXZr8=/0x122:2319x1426/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73186805/polygon_background.0.jpg" />
+        <figcaption>Graphic: Polygon&nbsp;| Source images: Atlus/Sega, Inverge Studios/11 bit Studios, Capcom, Square Enix</figcaption>
+    </figure>
+
+  <p>New games, new release dates, and new trailers from the latest Xbox showcase</p>
+  <p>
+    <a href="https://www.polygon.com/24092248/xbox-partner-showcase-preview-2024-announcements-release-dates">Continue reading&hellip;</a>
+  </p>
+
+## Fortnite’s ‘Titan Hand’ shows Epic is the gold standard for in-game events
+ - [https://www.polygon.com/24091680/fortnite-titan-hand-event-chapter-5-season-2-release](https://www.polygon.com/24091680/fortnite-titan-hand-event-chapter-5-season-2-release)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T18:00:00+00:00
+
+<figure>
+      <img alt="An image of a giant open chest next to a giant titan hand in Fortnite. It has fiery flames swirling up from it." src="https://cdn.vox-cdn.com/thumbor/5NmJkIqjUZazsKIM_BVO9fj77mU=/0x0:1920x1080/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73186658/Fortnite___3_5_2024_4_44_38_PM.0.png" />
+        <figcaption>Image: Epic Games via Polygon</figcaption>
+    </figure>
+
+  <p>There’s nothing quite like it</p>
+  <p>
+    <a href="https://www.polygon.com/24091680/fortnite-titan-hand-event-chapter-5-season-2-release">Continue reading&hellip;</a>
+  </p>
+
+## Kung Fu Panda 4 wastes its super-cool villain
+ - [https://www.polygon.com/reviews/24092345/kung-fu-panda-4-review-chameleon-jack-black-viola-davis](https://www.polygon.com/reviews/24092345/kung-fu-panda-4-review-chameleon-jack-black-viola-davis)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T17:03:33+00:00
+
+<figure>
+      <img alt="A scaly panda with glowing blue eyes  on a blue background juxtaposed next to a regular-looking Po the panda on a red background, both ready to throw down" src="https://cdn.vox-cdn.com/thumbor/A4Jli4wXJ8BbUKt9FEFvyKRpBB4=/989x0:7012x3388/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73186519/10E57_FP_01120.0.jpg" />
+        <figcaption>Image: DreamWorks Animation</figcaption>
+    </figure>
+
+
+  		<p>Why have Viola Davis as a cunning shapeshifter without a cunning agenda?</p>
+  <p>
+    <a href="https://www.polygon.com/reviews/24092345/kung-fu-panda-4-review-chameleon-jack-black-viola-davis">Continue reading&hellip;</a>
+  </p>
+
+## You’ll believe an Adam Sandler can fly in this behind-the-scenes look at Spaceman
+ - [https://www.polygon.com/24092182/adam-sandler-spaceman-special-effects-behind-the-scenes](https://www.polygon.com/24092182/adam-sandler-spaceman-special-effects-behind-the-scenes)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T16:00:00+00:00
+
+<figure>
+      <img alt="Adam Sandler in a spacesuit suspended on wires for Spaceman" src="https://cdn.vox-cdn.com/thumbor/FIGd8psmKhrQ2CbYFUiNh3Uln2g=/0x183:3035x1890/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73186330/SPMN_20210525_07374_R_copy.0.jpg" />
+        <figcaption>Photo: Netflix</figcaption>
+    </figure>
+
+  <p>The psychological space drama tested the actor more than Rob Schneider ever could</p>
+  <p>
+    <a href="https://www.polygon.com/24092182/adam-sandler-spaceman-special-effects-behind-the-scenes">Continue reading&hellip;</a>
+  </p>
+
+## Steam’s Women’s Day Sale is happening, and these 6 games are worth buying
+ - [https://www.polygon.com/24092139/steam-what-to-play-womens-day-sale-march-24](https://www.polygon.com/24092139/steam-what-to-play-womens-day-sale-march-24)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T15:20:18+00:00
+
+<figure>
+      <img alt="Videoverse screenshot showing a fictional video game console that looks like a bulky Nintendo 3DS, as well as some magazines, soda, and a calendar on a desk." src="https://cdn.vox-cdn.com/thumbor/DXm77M5Z5GmOBimuspAf4YwG3hw=/0x0:1920x1080/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73186254/ss_1829d82d2db610f5a908400cc3a6eb8d74713c32.0.jpg" />
+        <figcaption>Image: Kinmoku</figcaption>
+    </figure>
+
+  <p>Celebrating studios led by people of marginalized genders</p>
+  <p>
+    <a href="https://www.polygon.com/24092139/steam-what-to-play-womens-day-sale-march-24">Continue reading&hellip;</a>
+  </p>
+
+## Helldivers 2 patch nerfs the best builds, but throws in fire tornadoes
+ - [https://www.polygon.com/24092190/helldivers-2-patch-nerfs-railgun-breaker-energy-shield-backpack](https://www.polygon.com/24092190/helldivers-2-patch-nerfs-railgun-breaker-energy-shield-backpack)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T15:09:11+00:00
+
+<figure>
+      <img alt="A squad of Helldivers in Helldivers 2 fight off an army of bugs on a desert planet" src="https://cdn.vox-cdn.com/thumbor/Wq-AUb7HVtJepc10zWh1sfAxfGE=/0x0:1920x1080/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73186229/helldivers_2.0.jpg" />
+        <figcaption>Image: Arrowhead Game Studios</figcaption>
+    </figure>
+
+  <p>Arrowhead giveth and it taketh away</p>
+  <p>
+    <a href="https://www.polygon.com/24092190/helldivers-2-patch-nerfs-railgun-breaker-energy-shield-backpack">Continue reading&hellip;</a>
+  </p>
+
+## Dune: Part Two is really Zendaya’s movie
+ - [https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance](https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T14:02:00+00:00
+
+<figure>
+      <img alt="zendaya as her character chani with blue eyes in the dune movie" src="https://cdn.vox-cdn.com/thumbor/W3G_Q6lD-MNt9VXxhAgAlhySO1Y=/0x0:1920x1080/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73186029/zendaya_dune_movie_blue_eyes.0.jpg" />
+        <figcaption>Photo: Chiabella James/Warner Bros. Pictures</figcaption>
+    </figure>
+
+
+  		<p>It’s Paul’s story, but Chani is the actual protagonist by the end of the film</p>
+  <p>
+    <a href="https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance">Continue reading&hellip;</a>
+  </p>
+
+## What time does Fortnite Chapter 5 Season 2 start?
+ - [https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time](https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time)
+ - RSS feed: https://www.polygon.com/rss/index.xml
+ - date published: 2024-03-06T12:00:00+00:00
+
+<figure>
+      <img alt="Fortnite Titan’s hand dangling Pandora’s box" src="https://cdn.vox-cdn.com/thumbor/3jHKm8v7K_cPg8GHCDBJwFttg3E=/0x0:1920x1080/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/73185720/Fortnite_C5S2_cover.0.png" />
+        <figcaption>Image: Epic Games</figcaption>
+    </figure>
+
+  <p>C5S2 brings Greek mythology to Fortnite</p>
+  <p>
+    <a href="https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time">Continue reading&hellip;</a>
+  </p>
+

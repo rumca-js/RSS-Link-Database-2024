@@ -1,0 +1,114 @@
+# Source:All Africa, URL:https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf, language:en
+
+## Africa: UN Special Envoy for Road Safety Launches Global #MakeASafetyStatement in C&#xf4;te d'Ivoire
+ - [https://allafrica.com/stories/202403060528.html](https://allafrica.com/stories/202403060528.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T18:20:57+00:00
+
+[allAfrica] Geneva -- The United Nations Special Envoy for Road Safety, Jean Todt, has launched the UN Global Campaign for Road Safety for the first time in Africa, in Bouak&#xe9;, C&#xf4;te d'Ivoire, aimed at a continent with some of the world's most dangerous roads.
+
+## Africa: Women in Parliament - Slow Progress Towards Equal Representation
+ - [https://allafrica.com/stories/202403060524.html](https://allafrica.com/stories/202403060524.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T17:35:44+00:00
+
+[UN News] Progress on women's representation in national legislatures was "slow and mixed" in 2023, registering a growth of 0.4 per cent over the preceding year, the Inter Parliamentary Union (IPU) reported on Tuesday.
+
+## Africa: Artists' Residencies On the Rise Across Africa
+ - [https://allafrica.com/stories/202403060517.html](https://allafrica.com/stories/202403060517.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T17:23:46+00:00
+
+[Independent (Kampala)] From Accra to Dakar, Marrakech to Lagos, Nairobi and now, Cape Town, art residence programs are on the rise, often initiated by successful African artists and now also by public-private partnerships.
+
+## Africa: African Seed Trade Members Meet to Boost Seed Adoption, Distribution
+ - [https://allafrica.com/stories/202403060513.html](https://allafrica.com/stories/202403060513.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T17:20:53+00:00
+
+[VOA] Nairobi -- More than 350 delegates from governments, research institutions and seed production companies are gathering in Kenya this week to address challenges in getting good-quality seeds to African farmers. Experts say the lack of good seeds is hampering food production across the continent and contributing to the hunger crisis in many countries.
+
+## Africa: DR Congo, Nigeria, Ethiopia Join Global Push to Stop Most Preventable Cancer
+ - [https://allafrica.com/stories/202403060399.html](https://allafrica.com/stories/202403060399.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T14:46:41+00:00
+
+[allAfrica] Every two minutes, a woman dies from cervical cancer, despite the existence of effective tools, like vaccinating against the major cause of HPV to prevent the majority of cases and eventually eliminate this disease.
+
+## Africa: Anti-Doping Agency Suspends Only Drug Testing Lab in Africa
+ - [https://allafrica.com/stories/202403060327.html](https://allafrica.com/stories/202403060327.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T12:43:50+00:00
+
+[Leadership] Less than five months before the commencement of the Paris 2024 Olympics, the World Anti-Doping Agency (WADA) has suspended work at the only approved testing laboratory in Africa.
+
+## Africa: DR Congo Civilians in Firing Line As Use of Heavy Weapons Signals New Phase
+ - [https://allafrica.com/stories/202403060285.html](https://allafrica.com/stories/202403060285.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T12:22:13+00:00
+
+[ICRC] Goma -- A sharp uptick in the numbers of civilians wounded by heavy weapons in eastern Democratic Republic of Congo (DRC) is threatening to overwhelm health facilities already struggling to provide care, further worsening one of the world's largest and most complex humanitarian crises, Robert Mardini, director general of the International Committee of the Red Cross (ICRC), warned during a five-day visit to the country.
+
+## Africa: Malicious Actors - Five Ways to Detect Coordinated Electoral Disinformation Campaigns
+ - [https://allafrica.com/stories/202403060248.html](https://allafrica.com/stories/202403060248.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T11:38:13+00:00
+
+[Daily Maverick] Find out how to identify the digital deceptions used to derail electoral integrity as African countries prepare for crucial polls.
+
+## Africa: Roses Are Red, Violets Are Blue, Women Need Equality
+ - [https://allafrica.com/stories/202403060071.html](https://allafrica.com/stories/202403060071.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T09:06:14+00:00
+
+[New Times] As we prepare to celebrate the International Women's Day (IWD) on March 8, we need to keep in mind what the day is about and how we can make the most of it. And yes, it is not mother's day - which many people confuse it to be.
+
+## Africa: Uganda's Agather Atuhaire Wins International Women of Courage Award
+ - [https://allafrica.com/stories/202403060048.html](https://allafrica.com/stories/202403060048.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T08:53:15+00:00
+
+[Independent (Kampala)] Washington, Us -- Journalist, lawyer and human rights advocate Agather Atuhaire has been recognised for her work to promote the rule of law in Uganda.
+
+## Africa: 'Mega Election' 2024 Could Be a Landmark for Democracy - UN Rights Chief
+ - [https://allafrica.com/stories/202403060037.html](https://allafrica.com/stories/202403060037.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T06:28:11+00:00
+
+[UN News] Dozens of elections taking place this year around the world will likely be "free from hatred" and respect the will of the people, but there are warning signs that several polls may not - from Bangladesh to Chad, Hungary, Russia and Senegal, UN rights chief Volker T&#xfc;rk warned on Monday.
+
+## Africa: Wave of New Commitments Marks Historic Step Towards the Elimination of Cervical Cancer
+ - [https://allafrica.com/stories/202403060022.html](https://allafrica.com/stories/202403060022.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T04:39:05+00:00
+
+[WHO] Governments, donors, multilateral institutions, and partners today announced major new policy, programmatic and financial commitments, including nearly US$ 600 million in new funding, to eliminate cervical cancer. If these ambitions to expand vaccine coverage and strengthen screening and treatment programs are fully realized, the world could eliminate a cancer for the first time.
+
+## Africa: AUC Joins WHO and Unicef Campaign to Halt Spiralling Overweight and Obesity Rates in Africa
+ - [https://allafrica.com/stories/202403060012.html](https://allafrica.com/stories/202403060012.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T04:28:37+00:00
+
+[African Union] The African Union (AU) Commission joins the AU Member States and development partners worldwide to commemorate 2024 World Obesity Day under the theme "Let's Talk About Obesity and..." endeavouring to be a part of the global response to the obesity crisis.
+
+## Africa: The African Union Is Weak Because Its Members Want It That Way - Experts Call for Action On Its Powers
+ - [https://allafrica.com/stories/202403060006.html](https://allafrica.com/stories/202403060006.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T04:17:47+00:00
+
+[The Conversation Africa] The African Union (AU) comes in for a lot of criticism. Most recently this is from within its own ranks. The AU Commission chairperson, Moussa Faki Mahamat, set out his frustrations after an AU summit in February 2024. The commission is the executive organ which runs the AU's daily activities. Mahamat accused member states of getting in the way of the commission doing its work, and failing to match rhetoric with action:
+
+## Africa: Drought Hits Southern Africa's Farmers, Putting Key Maize Supplies At Risk - How to Blunt the Impact
+ - [https://allafrica.com/stories/202403060003.html](https://allafrica.com/stories/202403060003.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T04:17:45+00:00
+
+[The Conversation Africa] South Africa, Zambia and Zimbabwe have recently published reports indicating a potential decline in grain harvest because of intense El Ni&#xf1;o-induced dryness. These developments could put the entire Southern Africa maize supply chain at risk, with Zambia and South Africa hard hit by heatwaves and dryness. The neighbouring small producers such as Zimbabwe, Botswana, Lesotho and Namibia are also struggling with dryness.
+
+## Africa: From Nigeria to Libya - Linked Through Migration and Armed Conflict
+ - [https://allafrica.com/stories/202403060002.html](https://allafrica.com/stories/202403060002.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-03-06T04:17:44+00:00
+
+[Chatham House] This episode discusses transnational links between the movement of people and armed conflict - from Edo State in Nigeria, through Niger, to Libya.
+

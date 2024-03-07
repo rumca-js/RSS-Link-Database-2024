@@ -1,0 +1,31 @@
+# Source:GamingBolt, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ, language:en-US
+
+## The Outlast Trials Review - The Final Verdict
+ - [https://www.youtube.com/watch?v=VwDB22_xbGY](https://www.youtube.com/watch?v=VwDB22_xbGY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2024-03-06T21:00:30+00:00
+
+The Outlast Trials isn't for the weak of heart. The sheer range of gore and shock value is overwhelming, and that's before the Psychosis kicks in. Red Barrels' latest title is co-op focused, though still playable solo, with players controlling subjects in Murkoff Corporation's sinister Trials. 
+
+Though presented as "rehabilitation," the objectives range from silencing snitches to mulching bodies. It's a bit much, but despite the repetitious objectives throughout, the gameplay holds up mechanically over multiple playthroughs. 
+
+The Ex-Pops and major villains also keep the action exciting, if more than a little stressful (especially when you're alone). Despite a more hands-off approach with its setting, a few AI nags and some Rigs that could do with some better balancing, The Outlast Trials is a frightening experience that hardly lets up.
+
+## Dragon’s Dogma 2 - 11 NEW Things You Need To Know Before You Purchase
+ - [https://www.youtube.com/watch?v=eTs6hKvKPDs](https://www.youtube.com/watch?v=eTs6hKvKPDs)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2024-03-06T17:00:24+00:00
+
+RPG fans have been waiting for Dragon's Dogma 2 ever since it was announced a while ago. Thankfully, it is finally right around the corner, and ahead of its imminent release, the developer has been leaving no stone unturned in its attempts to generate excitement. 
+
+Plenty of details and gameplay footage have been revealed for the game so far, revealing information on its world, combat, role-playing mechanics, optional content, and more, and though there’s plenty of that that we’ve spoken of in previous features, there’s plenty else left that we’ve yet to discuss. Here, that’s exactly what we’ll be doing.
+
+## 10 BIG Questions Final Fantasy 7: Rebirth Still DOESN'T ANSWER
+ - [https://www.youtube.com/watch?v=4L79-VvyL6s](https://www.youtube.com/watch?v=4L79-VvyL6s)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2024-03-06T09:30:00+00:00
+
+We had a hundred different burning questions that we desperately wanted answers to heading into Final Fantasy 7 Rebirth, and while many of them were of course answered, they’ve been replaced by several new ones. The game raises tantalizing questions from beginning to end, and similar to its predecessor, in its final chapters, it bombards you with major new revelations and twists that takes further still, something that is compounded by the fact that this remake trilogy is clearly not content with just sticking to the original’s script. 
+
+With the developer wanting to tell new things, in the aftermath of Rebirth, we’re left with several huge questions about how the trilogy’s final chapter is going to bring all of the pieces set by its predecessor together.
+
