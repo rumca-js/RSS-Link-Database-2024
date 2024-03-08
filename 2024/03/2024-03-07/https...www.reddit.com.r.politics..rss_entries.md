@@ -1,0 +1,289 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Trump loses bid to delay $83.3 million E. Jean Carroll judgment
+ - [https://www.reddit.com/r/politics/comments/1b97d7q/trump_loses_bid_to_delay_833_million_e_jean](https://www.reddit.com/r/politics/comments/1b97d7q/trump_loses_bid_to_delay_833_million_e_jean)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T22:24:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b97d7q/trump_loses_bid_to_delay_833_million_e_jean/"> <img alt="Trump loses bid to delay $83.3 million E. Jean Carroll judgment" src="https://external-preview.redd.it/WIpasGEpEfEcKXEWxZdjkG2B20iWCpQ-i_PjlUiG4NM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d496fbc55495a44130e180d6ca9e6e78b5a6a101" title="Trump loses bid to delay $83.3 million E. Jean Carroll judgment" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tabrizzi"> /u/tabrizzi </a> <br /> <span><a href="https://www.cnbc.com/2024/03/07/trump-loses-bid-to-delay-83point3-million-e-jean-carroll-judgment.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b97d7q/trump_loses_bid_to_delay_833_million_e_jean/">[comments]</a></span> </td></tr></table>
+
+## Trump ordered to pay $382,000 in legal fees for failed ‘Steele Dossier’ lawsuit
+ - [https://www.reddit.com/r/politics/comments/1b96uy4/trump_ordered_to_pay_382000_in_legal_fees_for](https://www.reddit.com/r/politics/comments/1b96uy4/trump_ordered_to_pay_382000_in_legal_fees_for)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T22:03:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b96uy4/trump_ordered_to_pay_382000_in_legal_fees_for/"> <img alt="Trump ordered to pay $382,000 in legal fees for failed ‘Steele Dossier’ lawsuit" src="https://external-preview.redd.it/ictQz--7V8L5pIoN8gLO4xRTXt0vpBPKu9NBAGy3lYw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b8e0c0a31fc38ebe7747ef8ee16fd26654bb0582" title="Trump ordered to pay $382,000 in legal fees for failed ‘Steele Dossier’ lawsuit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tabrizzi"> /u/tabrizzi </a> <br /> <span><a href="https://www.cnbc.com/2024/03/07/trump-must-pay-legal-fees-for-steele-dossier-lawsuit.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b96uy4/trump_ordered_to_pay_382000_in_legal_fees_for/">[comments]</a></span> </td></tr></table>
+
+## Texas student suspended over his hair to attend SOTU as Congressional Black Caucus guest
+ - [https://www.reddit.com/r/politics/comments/1b9621x/texas_student_suspended_over_his_hair_to_attend](https://www.reddit.com/r/politics/comments/1b9621x/texas_student_suspended_over_his_hair_to_attend)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T21:32:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b9621x/texas_student_suspended_over_his_hair_to_attend/"> <img alt="Texas student suspended over his hair to attend SOTU as Congressional Black Caucus guest" src="https://external-preview.redd.it/e58rkSmt8VI_ODJ1bXvNNmaEmafXwAR3mytEXeopUGs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=598b90333478ee9507aa44a164de4b46be09aa9f" title="Texas student suspended over his hair to attend SOTU as Congressional Black Caucus guest" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/keyjan"> /u/keyjan </a> <br /> <span><a href="https://thehill.com/homenews/race-politics/4517070-texas-student-suspended-hairstyle-congressional-black-caucus-sotu-crown-act/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b9621x/texas_student_suspended_over_his_hair_to_attend/">[comments]</a></span> </td></tr></table>
+
+## FACT SHEET: President Biden Announces Plan to Lower Housing Costs for Working Families
+ - [https://www.reddit.com/r/politics/comments/1b94d77/fact_sheet_president_biden_announces_plan_to](https://www.reddit.com/r/politics/comments/1b94d77/fact_sheet_president_biden_announces_plan_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T20:25:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b94d77/fact_sheet_president_biden_announces_plan_to/"> <img alt="FACT SHEET: President Biden Announces Plan to Lower Housing Costs for Working Families" src="https://external-preview.redd.it/D4ApVTqUzlai30E0NQT1Y_RowF1Ep9U50QtDLAsxB34.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27928d9be45d463a3b4051943a3034a17f93310c" title="FACT SHEET: President Biden Announces Plan to Lower Housing Costs for Working Families" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TradingAllIn"> /u/TradingAllIn </a> <br /> <span><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b94d77/fact_sheet_president_biden_announces_plan_to/">[comments]</a></span> </td></tr></table>
+
+## President Biden to push corporate, billionaire tax hikes at State of the Union, drawing contrast with Trump
+ - [https://www.reddit.com/r/politics/comments/1b94bab/president_biden_to_push_corporate_billionaire_tax](https://www.reddit.com/r/politics/comments/1b94bab/president_biden_to_push_corporate_billionaire_tax)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T20:23:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b94bab/president_biden_to_push_corporate_billionaire_tax/"> <img alt="President Biden to push corporate, billionaire tax hikes at State of the Union, drawing contrast with Trump" src="https://external-preview.redd.it/Iw46jz6WzmS9c-yldJcH3IaeUs2qXVk_trtPKkbauWA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c6fd500610aec08e10cc04052e8e0364599fa77" title="President Biden to push corporate, billionaire tax hikes at State of the Union, drawing contrast with Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/croato87"> /u/croato87 </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/2024/03/07/president-biden-to-propose-corporate-tax-hikes-at-state-of-the-union/72878064007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b94bab/president_biden_to_push_corporate_billionaire_tax/">[comments]</a></span> </td></tr></table>
+
+## Trump is ordered to pay legal fees after failed lawsuit over the Steele dossier
+ - [https://www.reddit.com/r/politics/comments/1b93ot1/trump_is_ordered_to_pay_legal_fees_after_failed](https://www.reddit.com/r/politics/comments/1b93ot1/trump_is_ordered_to_pay_legal_fees_after_failed)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T19:59:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b93ot1/trump_is_ordered_to_pay_legal_fees_after_failed/"> <img alt="Trump is ordered to pay legal fees after failed lawsuit over the Steele dossier" src="https://external-preview.redd.it/_JtcAFoxpPPz8WoX83wsHXIdXoDc5UKep99DHsPBvK4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b98cad70690558485614fead3ade4b2e9b72505" title="Trump is ordered to pay legal fees after failed lawsuit over the Steele dossier" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aresef"> /u/aresef </a> <br /> <span><a href="https://apnews.com/article/55427915a83f33a8ead484109b8a89f6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b93ot1/trump_is_ordered_to_pay_legal_fees_after_failed/">[comments]</a></span> </td></tr></table>
+
+## "Drill, baby, drill": Trump's plan to curb food inflation? He doesn't seem to have one
+ - [https://www.reddit.com/r/politics/comments/1b92xx6/drill_baby_drill_trumps_plan_to_curb_food](https://www.reddit.com/r/politics/comments/1b92xx6/drill_baby_drill_trumps_plan_to_curb_food)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T19:25:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b92xx6/drill_baby_drill_trumps_plan_to_curb_food/"> <img alt="&quot;Drill, baby, drill&quot;: Trump's plan to curb food inflation? He doesn't seem to have one" src="https://external-preview.redd.it/oVJKh_cRv3UJG3q8MN1UUsMRQaivmB-ER3oqQBbSSew.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b429d8601acb8cd5b0858682c26e37031e052e3e" title="&quot;Drill, baby, drill&quot;: Trump's plan to curb food inflation? He doesn't seem to have one" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/devlinadl"> /u/devlinadl </a> <br /> <span><a href="https://www.salon.com/2024/03/07/drill-baby-drill-plan-to-curb-inflation-he-doesnt-seem-to-have-one/?utm_source=pocket_mylist">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b92xx6/drill_baby_drill_trumps_plan_to_curb_food/">[comments]</a></span> </td></tr></table>
+
+## Johnson’s Hilarious SOTU Warning to House GOP Tells Us Everything - House Speaker Mike Johnson is reportedly begging Republicans to not act like total animals at the State of the Union.
+ - [https://www.reddit.com/r/politics/comments/1b917mb/johnsons_hilarious_sotu_warning_to_house_gop](https://www.reddit.com/r/politics/comments/1b917mb/johnsons_hilarious_sotu_warning_to_house_gop)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T18:04:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b917mb/johnsons_hilarious_sotu_warning_to_house_gop/"> <img alt="Johnson’s Hilarious SOTU Warning to House GOP Tells Us Everything - House Speaker Mike Johnson is reportedly begging Republicans to not act like total animals at the State of the Union." src="https://external-preview.redd.it/Acph8hW0xBfltZjqEYEfB02wF19O3Av4jsPHr30P_cw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32621eb65d8e99c064d607ac677f89cbffd7e4e0" title="Johnson’s Hilarious SOTU Warning to House GOP Tells Us Everything - House Speaker Mike Johnson is reportedly begging Republicans to not act like total animals at the State of the Union." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://newrepublic.com/post/179641/mike-johnson-state-of-union-warning-republicans">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b917m
+
+## Donald Trump told to pay six-figure costs of firm he sued
+ - [https://www.reddit.com/r/politics/comments/1b9109l/donald_trump_told_to_pay_sixfigure_costs_of_firm](https://www.reddit.com/r/politics/comments/1b9109l/donald_trump_told_to_pay_sixfigure_costs_of_firm)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T17:56:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b9109l/donald_trump_told_to_pay_sixfigure_costs_of_firm/"> <img alt="Donald Trump told to pay six-figure costs of firm he sued" src="https://external-preview.redd.it/uJ33l14K2n37QRL-LiSPUWXmuHLV7gOJpyZ-mCAHuOg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9974481492fc7196c18ba332aeb9d82da38f7c71" title="Donald Trump told to pay six-figure costs of firm he sued" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nosotros_road_sodium"> /u/nosotros_road_sodium </a> <br /> <span><a href="https://www.bbc.com/news/uk-68499543">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b9109l/donald_trump_told_to_pay_sixfigure_costs_of_firm/">[comments]</a></span> </td></tr></table>
+
+## Trump calls for debates with Biden after skipping GOP events
+ - [https://www.reddit.com/r/politics/comments/1b90zi7/trump_calls_for_debates_with_biden_after_skipping](https://www.reddit.com/r/politics/comments/1b90zi7/trump_calls_for_debates_with_biden_after_skipping)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T17:55:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b90zi7/trump_calls_for_debates_with_biden_after_skipping/"> <img alt="Trump calls for debates with Biden after skipping GOP events" src="https://external-preview.redd.it/ql6mqNcUjkK6JQpQhihSL1wnAlO58qYWWqnjX0D7Vr4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eefc0ee7ef57a2975c5bb0bf978935e576e5bd2a" title="Trump calls for debates with Biden after skipping GOP events" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plastic-Age5205"> /u/Plastic-Age5205 </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4515602-trump-calls-for-debates-with-biden/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b90zi7/trump_calls_for_debates_with_biden_after_skipping/">[comments]</a></span> </td></tr></table>
+
+## Biden to announce 'emergency' US military mission to build port off Gaza coast to deliver aid
+ - [https://www.reddit.com/r/politics/comments/1b90o06/biden_to_announce_emergency_us_military_mission](https://www.reddit.com/r/politics/comments/1b90o06/biden_to_announce_emergency_us_military_mission)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T17:43:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b90o06/biden_to_announce_emergency_us_military_mission/"> <img alt="Biden to announce 'emergency' US military mission to build port off Gaza coast to deliver aid" src="https://external-preview.redd.it/B25U1ucil_s4Q7tzb5Owpn81or63t6jauUkQxyrU3AU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3cf3fc7ccf7e505bf7a6c5e6685ae806714c362d" title="Biden to announce 'emergency' US military mission to build port off Gaza coast to deliver aid" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MopsyTat"> /u/MopsyTat </a> <br /> <span><a href="https://abcnews.go.com/Politics/sotu-biden-announce-emergency-us-military-mission-build/story?id=107889126">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b90o06/biden_to_announce_emergency_us_military_mission/">[comments]</a></span> </td></tr></table>
+
+## Sweden formally joins Nato military alliance
+ - [https://www.reddit.com/r/politics/comments/1b8zbcy/sweden_formally_joins_nato_military_alliance](https://www.reddit.com/r/politics/comments/1b8zbcy/sweden_formally_joins_nato_military_alliance)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T16:50:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8zbcy/sweden_formally_joins_nato_military_alliance/"> <img alt="Sweden formally joins Nato military alliance" src="https://external-preview.redd.it/WN3ArKbf1rHbtwNPQn4TSaA7PZ1l-eOW6mRbJ34kpdA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1586942fd207f28ad778fad57371886cc811279" title="Sweden formally joins Nato military alliance" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ConsciousStop"> /u/ConsciousStop </a> <br /> <span><a href="https://www.bbc.com/news/world-europe-68506223">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8zbcy/sweden_formally_joins_nato_military_alliance/">[comments]</a></span> </td></tr></table>
+
+## Why Donald Trump is probably still going on trial March 25 in New York
+ - [https://www.reddit.com/r/politics/comments/1b8z7mb/why_donald_trump_is_probably_still_going_on_trial](https://www.reddit.com/r/politics/comments/1b8z7mb/why_donald_trump_is_probably_still_going_on_trial)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T16:46:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8z7mb/why_donald_trump_is_probably_still_going_on_trial/"> <img alt="Why Donald Trump is probably still going on trial March 25 in New York" src="https://external-preview.redd.it/27TepA9exlwhbd0o3fjoEM0VU0L6GtiTs_v8KdO29zc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=066dec849303ede156feff22f7ae39bd19959a04" title="Why Donald Trump is probably still going on trial March 25 in New York" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Beta_Nerdy"> /u/Beta_Nerdy </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/2024/03/02/supreme-court-trump-immunity-trial-dates/72790582007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8z7mb/why_donald_trump_is_probably_still_going_on_trial/">[comments]</a></span> </td></tr></table>
+
+## Fulton County ethics board drops Fani Willis complaints from hearing
+ - [https://www.reddit.com/r/politics/comments/1b8z0ae/fulton_county_ethics_board_drops_fani_willis](https://www.reddit.com/r/politics/comments/1b8z0ae/fulton_county_ethics_board_drops_fani_willis)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T16:36:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8z0ae/fulton_county_ethics_board_drops_fani_willis/"> <img alt="Fulton County ethics board drops Fani Willis complaints from hearing" src="https://external-preview.redd.it/fv_6xv4R8GmLXzcIQjM1fXruPetnVGs3ZRnl1qCTkvk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ca6411450242209fd5eea479ed7c21b985ca452" title="Fulton County ethics board drops Fani Willis complaints from hearing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/keyjan"> /u/keyjan </a> <br /> <span><a href="https://thehill.com/homenews/4516182-fulton-county-ethics-board-fani-willis/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8z0ae/fulton_county_ethics_board_drops_fani_willis/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Favorite Doctor Has Been Lying About His Military Rank: Report | Former White House physician Ronny Jackson was quietly demoted from his rank of Rear Admiral after a scathing DOD investigation into allegations of misconduct
+ - [https://www.reddit.com/r/politics/comments/1b8yppx/trumps_favorite_doctor_has_been_lying_about_his](https://www.reddit.com/r/politics/comments/1b8yppx/trumps_favorite_doctor_has_been_lying_about_his)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T16:20:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8yppx/trumps_favorite_doctor_has_been_lying_about_his/"> <img alt="Trump’s Favorite Doctor Has Been Lying About His Military Rank: Report | Former White House physician Ronny Jackson was quietly demoted from his rank of Rear Admiral after a scathing DOD investigation into allegations of misconduct" src="https://external-preview.redd.it/AKwIb9M2OYn3YNWQuVLWrT7PgX5_s0AsD-EFgd3iAWE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8ff694a44f0b7191774aa3dd9f59eb13e826d80" title="Trump’s Favorite Doctor Has Been Lying About His Military Rank: Report | Former White House physician Ronny Jackson was quietly demoted from his rank of Rear Admiral after a scathing DOD investigation into allegations of misconduct" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newfrontier58"> /u/newfrontier58 </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/ronny-jackson-
+
+## Taylor Swift can teach us all a lesson in how democracy works - Democracy, by its nature, requires participation. You have to give a damn. Taylor Swift does, and so should we all
+ - [https://www.reddit.com/r/politics/comments/1b8y8dy/taylor_swift_can_teach_us_all_a_lesson_in_how](https://www.reddit.com/r/politics/comments/1b8y8dy/taylor_swift_can_teach_us_all_a_lesson_in_how)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T16:00:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8y8dy/taylor_swift_can_teach_us_all_a_lesson_in_how/"> <img alt="Taylor Swift can teach us all a lesson in how democracy works - Democracy, by its nature, requires participation. You have to give a damn. Taylor Swift does, and so should we all" src="https://external-preview.redd.it/vMGgQmHsXo4lzTgCqykx-TzBgLzFZzjRXWanJxlhhIk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f0fd6215f3211cd566e823d593b100bd4d15c30" title="Taylor Swift can teach us all a lesson in how democracy works - Democracy, by its nature, requires participation. You have to give a damn. Taylor Swift does, and so should we all" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.theguardian.com/commentisfree/2024/mar/07/taylor-swift-us-elections">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8y8dy/taylor_swift_ca
+
+## Lara Trump's plans for the GOP could spectacularly backfire
+ - [https://www.reddit.com/r/politics/comments/1b8y2le/lara_trumps_plans_for_the_gop_could_spectacularly](https://www.reddit.com/r/politics/comments/1b8y2le/lara_trumps_plans_for_the_gop_could_spectacularly)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T15:53:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8y2le/lara_trumps_plans_for_the_gop_could_spectacularly/"> <img alt="Lara Trump's plans for the GOP could spectacularly backfire" src="https://external-preview.redd.it/xhLUo5kD_RU70S0xUG9CHjYfp4yAMj_SWYhCtxu1HKo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f5570ad53ed9138bdd8c896df4a5cac419b8123" title="Lara Trump's plans for the GOP could spectacularly backfire" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br /> <span><a href="https://www.newsweek.com/lara-trump-republican-party-chair-latest-1876447">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8y2le/lara_trumps_plans_for_the_gop_could_spectacularly/">[comments]</a></span> </td></tr></table>
+
+## Pete Buttigieg leaves pro-Trump news anchor speechless with his defense of “simple fact”
+ - [https://www.reddit.com/r/politics/comments/1b8xwmh/pete_buttigieg_leaves_protrump_news_anchor](https://www.reddit.com/r/politics/comments/1b8xwmh/pete_buttigieg_leaves_protrump_news_anchor)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T15:47:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8xwmh/pete_buttigieg_leaves_protrump_news_anchor/"> <img alt="Pete Buttigieg leaves pro-Trump news anchor speechless with his defense of “simple fact”" src="https://external-preview.redd.it/Osq27a6ZNYYy30DKmRkZm-onTspK0GD3kUVXyVlOARo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27749b6ed8dce794d7ce3a9e93164b0fed5870a2" title="Pete Buttigieg leaves pro-Trump news anchor speechless with his defense of “simple fact”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KC_8580"> /u/KC_8580 </a> <br /> <span><a href="https://www.lgbtqnation.com/2024/03/pete-buttigieg-leaves-pro-trump-news-anchor-speechless-with-his-defense-of-simple-fact/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8xwmh/pete_buttigieg_leaves_protrump_news_anchor/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Money Problems Are Very Real and Very Bad
+ - [https://www.reddit.com/r/politics/comments/1b8xnr7/trumps_money_problems_are_very_real_and_very_bad](https://www.reddit.com/r/politics/comments/1b8xnr7/trumps_money_problems_are_very_real_and_very_bad)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T15:37:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8xnr7/trumps_money_problems_are_very_real_and_very_bad/"> <img alt="Trump’s Money Problems Are Very Real and Very Bad" src="https://external-preview.redd.it/CxcrFztl1vB0AD8n6ddwoG6Yhd-HdhkHJHGj98B-LMs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=96f597b7ae3dfe19dcc6d3eebef207f979238856" title="Trump’s Money Problems Are Very Real and Very Bad" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.theatlantic.com/ideas/archive/2024/03/trump-financial-legal-troubles/677662/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8xnr7/trumps_money_problems_are_very_real_and_very_bad/">[comments]</a></span> </td></tr></table>
+
+## Navy demoted Ronny Jackson after probe into White House behavior
+ - [https://www.reddit.com/r/politics/comments/1b8xct2/navy_demoted_ronny_jackson_after_probe_into_white](https://www.reddit.com/r/politics/comments/1b8xct2/navy_demoted_ronny_jackson_after_probe_into_white)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T15:25:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8xct2/navy_demoted_ronny_jackson_after_probe_into_white/"> <img alt="Navy demoted Ronny Jackson after probe into White House behavior" src="https://external-preview.redd.it/sgzdInfmJn19jX5u5uS9WPnE0PGK1ABjD4r57vJgdFE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81ebf4e3e3e6e4aafa430ff5a532bacb64ed83e7" title="Navy demoted Ronny Jackson after probe into White House behavior" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nutritionvegan"> /u/nutritionvegan </a> <br /> <span><a href="https://www.washingtonpost.com/nation/2024/03/07/ronny-jackson-demotion-white-house-medical-unit-navy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8xct2/navy_demoted_ronny_jackson_after_probe_into_white/">[comments]</a></span> </td></tr></table>
+
+## Legal expert: Trump lawyer begging for “mercy” suggests he’s “having difficulty” coming up with bond
+ - [https://www.reddit.com/r/politics/comments/1b8xb1i/legal_expert_trump_lawyer_begging_for_mercy](https://www.reddit.com/r/politics/comments/1b8xb1i/legal_expert_trump_lawyer_begging_for_mercy)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T15:23:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8xb1i/legal_expert_trump_lawyer_begging_for_mercy/"> <img alt="Legal expert: Trump lawyer begging for “mercy” suggests he’s “having difficulty” coming up with bond" src="https://external-preview.redd.it/j1U1S5B_FxJ-ODVsCEO7Wec1y4CJDKIaGHHcSc3e2lk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e0e841440d716ff410c56db80ff8334994015843" title="Legal expert: Trump lawyer begging for “mercy” suggests he’s “having difficulty” coming up with bond" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BelleAriel"> /u/BelleAriel </a> <br /> <span><a href="https://www.salon.com/2024/03/07/legal-expert-lawyer-begging-for-mercy-suggests-hes-having-difficulty-coming-up-with-bond/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8xb1i/legal_expert_trump_lawyer_begging_for_mercy/">[comments]</a></span> </td></tr></table>
+
+## Mike Johnson Tells Republicans To Behave During State Of The Union Address: Report
+ - [https://www.reddit.com/r/politics/comments/1b8we76/mike_johnson_tells_republicans_to_behave_during](https://www.reddit.com/r/politics/comments/1b8we76/mike_johnson_tells_republicans_to_behave_during)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T14:45:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8we76/mike_johnson_tells_republicans_to_behave_during/"> <img alt="Mike Johnson Tells Republicans To Behave During State Of The Union Address: Report" src="https://external-preview.redd.it/D-nkvCfGwLWKMCFqGhcB0HreIod8zarEBIG8VUzhx7A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f771dc60d6fe7bcb817ce30a5e811a612d9064c" title="Mike Johnson Tells Republicans To Behave During State Of The Union Address: Report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newnemo"> /u/newnemo </a> <br /> <span><a href="https://www.huffpost.com/entry/mike-johnson-state-of-union-decorum_n_65e9931ee4b024897f7b940a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8we76/mike_johnson_tells_republicans_to_behave_during/">[comments]</a></span> </td></tr></table>
+
+## Trump and his Republican base are actively scaring away undecided voters -spelling potential disaster in the election
+ - [https://www.reddit.com/r/politics/comments/1b8w1hi/trump_and_his_republican_base_are_actively](https://www.reddit.com/r/politics/comments/1b8w1hi/trump_and_his_republican_base_are_actively)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T14:30:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8w1hi/trump_and_his_republican_base_are_actively/"> <img alt="Trump and his Republican base are actively scaring away undecided voters -spelling potential disaster in the election" src="https://external-preview.redd.it/nr8pENX5APeLIkUrONEN4KeylLSE4LW8YDrTyS2e_4I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=57927f3b43aeeaf4e503cf439ddb84a892a4fe7e" title="Trump and his Republican base are actively scaring away undecided voters -spelling potential disaster in the election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IntelligentExcuse5"> /u/IntelligentExcuse5 </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-maga-republicans-losing-voters-b2508210.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8w1hi/trump_and_his_republican_base_are_actively/">[comments]</a></span> </td></tr></table>
+
+## Arizona’s Trump electors subpoenaed in grand jury investigation
+ - [https://www.reddit.com/r/politics/comments/1b8uqwm/arizonas_trump_electors_subpoenaed_in_grand_jury](https://www.reddit.com/r/politics/comments/1b8uqwm/arizonas_trump_electors_subpoenaed_in_grand_jury)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T13:33:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8uqwm/arizonas_trump_electors_subpoenaed_in_grand_jury/"> <img alt="Arizona’s Trump electors subpoenaed in grand jury investigation" src="https://external-preview.redd.it/i7JZC8OTt3SMb8ryfF9wcz-ZV1QliiJPWolE0lxb-8E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f187c0f72258ce47129837f63f572d4c8ec2004" title="Arizona’s Trump electors subpoenaed in grand jury investigation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iaincaradoc"> /u/iaincaradoc </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/03/06/trump-arizona-electors-subpoenas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8uqwm/arizonas_trump_electors_subpoenaed_in_grand_jury/">[comments]</a></span> </td></tr></table>
+
+## Florida Senate passes bill blocking local rules protecting workers from heat
+ - [https://www.reddit.com/r/politics/comments/1b8ulqt/florida_senate_passes_bill_blocking_local_rules](https://www.reddit.com/r/politics/comments/1b8ulqt/florida_senate_passes_bill_blocking_local_rules)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T13:26:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8ulqt/florida_senate_passes_bill_blocking_local_rules/"> <img alt="Florida Senate passes bill blocking local rules protecting workers from heat" src="https://external-preview.redd.it/PocgJ3R8kCK4XA0QTQZiEhx_oyvOQ_4fHkhSKdBshTI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26f2dba98de70c1c621b6ef9e14aea306abc55cf" title="Florida Senate passes bill blocking local rules protecting workers from heat" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/coasterghost"> /u/coasterghost </a> <br /> <span><a href="https://www.nbcnews.com/science/science-news/floridas-senate-passes-bill-block-local-regulations-protecting-workers-rcna142021">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8ulqt/florida_senate_passes_bill_blocking_local_rules/">[comments]</a></span> </td></tr></table>
+
+## Eyebrows raised as Viktor Orbán to visit Donald Trump in Florida
+ - [https://www.reddit.com/r/politics/comments/1b8ug32/eyebrows_raised_as_viktor_orbán_to_visit_donald](https://www.reddit.com/r/politics/comments/1b8ug32/eyebrows_raised_as_viktor_orbán_to_visit_donald)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T13:18:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8ug32/eyebrows_raised_as_viktor_orbán_to_visit_donald/"> <img alt="Eyebrows raised as Viktor Orbán to visit Donald Trump in Florida" src="https://external-preview.redd.it/T3jHZRywTlsxLrmO6f4XhwXwHcFAy2yvxvdtVveUioQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c7c2bfda8bfdd63e975e02e49c19a382b3372d6" title="Eyebrows raised as Viktor Orbán to visit Donald Trump in Florida" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kejmarcz"> /u/Kejmarcz </a> <br /> <span><a href="https://www.theguardian.com/world/2024/mar/07/viktor-orban-to-visit-donald-trump-in-florida-hungary">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8ug32/eyebrows_raised_as_viktor_orbán_to_visit_donald/">[comments]</a></span> </td></tr></table>
+
+## Arizona Is on Brink of Charging People Close to Trump Over 2020 Election | Yet another state seems poised to hand down charges over Trump’s 2020 election interference.
+ - [https://www.reddit.com/r/politics/comments/1b8uf74/arizona_is_on_brink_of_charging_people_close_to](https://www.reddit.com/r/politics/comments/1b8uf74/arizona_is_on_brink_of_charging_people_close_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T13:17:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8uf74/arizona_is_on_brink_of_charging_people_close_to/"> <img alt="Arizona Is on Brink of Charging People Close to Trump Over 2020 Election | Yet another state seems poised to hand down charges over Trump’s 2020 election interference." src="https://external-preview.redd.it/nr5Kg1eWMrwM3P3qiUDfJYTqM0-VIbq9XGaCw9b-WAs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33636ce3b6df672c1145bb9d304b02081b640091" title="Arizona Is on Brink of Charging People Close to Trump Over 2020 Election | Yet another state seems poised to hand down charges over Trump’s 2020 election interference." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenewrepublic"> /u/thenewrepublic </a> <br /> <span><a href="https://newrepublic.com/post/179629/arizona-brink-charging-trump-aides-2020-election">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8uf74/arizona_is_on_br
+
+## More Black women say abortion is their top issue in the 2024 election, a survey finds
+ - [https://www.reddit.com/r/politics/comments/1b8u0fm/more_black_women_say_abortion_is_their_top_issue](https://www.reddit.com/r/politics/comments/1b8u0fm/more_black_women_say_abortion_is_their_top_issue)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T12:57:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8u0fm/more_black_women_say_abortion_is_their_top_issue/"> <img alt="More Black women say abortion is their top issue in the 2024 election, a survey finds" src="https://external-preview.redd.it/CbO5l-IyKo2-5s0QKz6z3FlHRu_JRrQYTwS4iCaQZV0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=69fce44da21127fd62330d5e0aaa8d8e72421676" title="More Black women say abortion is their top issue in the 2024 election, a survey finds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AprilPrather"> /u/AprilPrather </a> <br /> <span><a href="https://apnews.com/article/black-women-abortion-top-issue-election-voters-da88c34a9390732b89f25c9c11f262f0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8u0fm/more_black_women_say_abortion_is_their_top_issue/">[comments]</a></span> </td></tr></table>
+
+## Six House Dems accuse Netanyahu of ‘utter disregard for Palestinian lives’ after Israel visit
+ - [https://www.reddit.com/r/politics/comments/1b8te82/six_house_dems_accuse_netanyahu_of_utter](https://www.reddit.com/r/politics/comments/1b8te82/six_house_dems_accuse_netanyahu_of_utter)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T12:25:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8te82/six_house_dems_accuse_netanyahu_of_utter/"> <img alt="Six House Dems accuse Netanyahu of ‘utter disregard for Palestinian lives’ after Israel visit" src="https://external-preview.redd.it/XgS7aRTb0MIVoXjz-Z1JYZhmc-JOfgzALvRbJS6xiAY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99dfec363aa27c3eb723c7ca9cef4f4d02b000bb" title="Six House Dems accuse Netanyahu of ‘utter disregard for Palestinian lives’ after Israel visit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsspotter"> /u/newsspotter </a> <br /> <span><a href="https://www.jpost.com/american-politics/article-789825">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8te82/six_house_dems_accuse_netanyahu_of_utter/">[comments]</a></span> </td></tr></table>
+
+## Steve Bannon’s Refusal to Pay His Bills Is Costing Him Big
+ - [https://www.reddit.com/r/politics/comments/1b8tbab/steve_bannons_refusal_to_pay_his_bills_is_costing](https://www.reddit.com/r/politics/comments/1b8tbab/steve_bannons_refusal_to_pay_his_bills_is_costing)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T12:21:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8tbab/steve_bannons_refusal_to_pay_his_bills_is_costing/"> <img alt="Steve Bannon’s Refusal to Pay His Bills Is Costing Him Big" src="https://external-preview.redd.it/GqpKAV1HRaTfUcTUSbXDS-RlF8GK2VQPRocUT6p40T0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a677a8c0a1ddbe1c43724199afaa9d27e750332" title="Steve Bannon’s Refusal to Pay His Bills Is Costing Him Big" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HeHateMe337"> /u/HeHateMe337 </a> <br /> <span><a href="https://www.thedailybeast.com/steve-bannons-refusal-to-pay-his-bills-is-costing-him-big">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8tbab/steve_bannons_refusal_to_pay_his_bills_is_costing/">[comments]</a></span> </td></tr></table>
+
+## Biden campaign tries to court Haley supporters, says Trump is driving them away
+ - [https://www.reddit.com/r/politics/comments/1b8t8f8/biden_campaign_tries_to_court_haley_supporters](https://www.reddit.com/r/politics/comments/1b8t8f8/biden_campaign_tries_to_court_haley_supporters)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T12:17:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8t8f8/biden_campaign_tries_to_court_haley_supporters/"> <img alt="Biden campaign tries to court Haley supporters, says Trump is driving them away" src="https://external-preview.redd.it/-h_VJHoNuVFYutaJylASNeaRfWdBzbCVZfIOKY3NdxM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aefe8260eb32b910aac9929ccf9161736cdfc044" title="Biden campaign tries to court Haley supporters, says Trump is driving them away" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SportsGod3"> /u/SportsGod3 </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4514169-biden-campaign-tries-to-court-haley-supporters-says-trump-is-driving-them-away/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8t8f8/biden_campaign_tries_to_court_haley_supporters/">[comments]</a></span> </td></tr></table>
+
+## The Republicans Who Sold Their Souls to Vladimir Putin
+ - [https://www.reddit.com/r/politics/comments/1b8t3p3/the_republicans_who_sold_their_souls_to_vladimir](https://www.reddit.com/r/politics/comments/1b8t3p3/the_republicans_who_sold_their_souls_to_vladimir)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T12:09:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8t3p3/the_republicans_who_sold_their_souls_to_vladimir/"> <img alt="The Republicans Who Sold Their Souls to Vladimir Putin" src="https://external-preview.redd.it/86falqV68CHgKin7B2Jsuh6Ly2LfLlX8q9re4nAZINo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7f2e4549173e4944bf0ea4880a6c778b9024194" title="The Republicans Who Sold Their Souls to Vladimir Putin" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OtmShanks55"> /u/OtmShanks55 </a> <br /> <span><a href="https://newrepublic.com/article/179393/republican-vladimir-putin-2024-shift">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8t3p3/the_republicans_who_sold_their_souls_to_vladimir/">[comments]</a></span> </td></tr></table>
+
+## Dr. John Gartner: The world is watching "a fundamental breakdown in Trump’s ability to use language"
+ - [https://www.reddit.com/r/politics/comments/1b8t3d6/dr_john_gartner_the_world_is_watching_a](https://www.reddit.com/r/politics/comments/1b8t3d6/dr_john_gartner_the_world_is_watching_a)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T12:09:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8t3d6/dr_john_gartner_the_world_is_watching_a/"> <img alt="Dr. John Gartner: The world is watching &quot;a fundamental breakdown in Trump’s ability to use language&quot;" src="https://external-preview.redd.it/MrQuSarEMvFTzZKJg4keZ_XC2g4qVBbmoGZHQT391cQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c2469e6f465124e146ac5d89c240fe258b63b0b" title="Dr. John Gartner: The world is watching &quot;a fundamental breakdown in Trump’s ability to use language&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.salon.com/2024/03/07/dr-john-gartner-the-world-is-watching-a-fundamental-breakdown-in-trumps-ability-to-use-language/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8t3d6/dr_john_gartner_the_world_is_watching_a/">[comments]</a></span> </td></tr></table>
+
+## Mark Robinson, the North Carolina GOP nominee for governor, is off the rails even by MAGA standards
+ - [https://www.reddit.com/r/politics/comments/1b8sses/mark_robinson_the_north_carolina_gop_nominee_for](https://www.reddit.com/r/politics/comments/1b8sses/mark_robinson_the_north_carolina_gop_nominee_for)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T11:52:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8sses/mark_robinson_the_north_carolina_gop_nominee_for/"> <img alt="Mark Robinson, the North Carolina GOP nominee for governor, is off the rails even by MAGA standards" src="https://external-preview.redd.it/UTaQZN8OmhT_vhxVSQBnjoUCrXGThFu265CW69mwLGI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3d548a64e7a5f8c298b901ac11456d9515c250e" title="Mark Robinson, the North Carolina GOP nominee for governor, is off the rails even by MAGA standards" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.vox.com/politics/24092798/mark-robinson-north-carolina-governors-race-2024">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8sses/mark_robinson_the_north_carolina_gop_nominee_for/">[comments]</a></span> </td></tr></table>
+
+## What Has Biden Accomplished? Look at These 10 Metrics, Not the Polls
+ - [https://www.reddit.com/r/politics/comments/1b8sr3t/what_has_biden_accomplished_look_at_these_10](https://www.reddit.com/r/politics/comments/1b8sr3t/what_has_biden_accomplished_look_at_these_10)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T11:50:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8sr3t/what_has_biden_accomplished_look_at_these_10/"> <img alt="What Has Biden Accomplished? Look at These 10 Metrics, Not the Polls" src="https://external-preview.redd.it/evIamiva0GZ_3kqnZltASVPvVivYtu9VrexlOyxDyOs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c20143eb2552c437cdaa1a644e802e5c855db49" title="What Has Biden Accomplished? Look at These 10 Metrics, Not the Polls" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloombergopinion"> /u/bloombergopinion </a> <br /> <span><a href="https://www.bloomberg.com/graphics/2024-opinion-biden-accomplishment-data/?srnd=opinion">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8sr3t/what_has_biden_accomplished_look_at_these_10/">[comments]</a></span> </td></tr></table>
+
+## Fact Focus: Claims Biden administration is secretly flying migrants into the country are unfounded
+ - [https://www.reddit.com/r/politics/comments/1b8sp5m/fact_focus_claims_biden_administration_is](https://www.reddit.com/r/politics/comments/1b8sp5m/fact_focus_claims_biden_administration_is)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T11:47:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8sp5m/fact_focus_claims_biden_administration_is/"> <img alt="Fact Focus: Claims Biden administration is secretly flying migrants into the country are unfounded" src="https://external-preview.redd.it/f26_WXFUcG8dipJXw-BrwL0njPJIJMGoAyibFUJA--k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ab759d96d2521fb7da6d017343f3b7b0ab66cce" title="Fact Focus: Claims Biden administration is secretly flying migrants into the country are unfounded" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UncleSoaky"> /u/UncleSoaky </a> <br /> <span><a href="https://apnews.com/article/fact-check-misinformation-immigrants-parole-biden-trump-musk-dbd634820b3f8d07b859b8a05b2b20a7?utm_campaign=TrueAnthem&amp;utm_medium=AP&amp;utm_source=Twitter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8sp5m/fact_focus_claims_biden_administration_is/">[comments]</a></span> <
+
+## On Israel, Trump Is Even Worse Than Biden
+ - [https://www.reddit.com/r/politics/comments/1b8pkd0/on_israel_trump_is_even_worse_than_biden](https://www.reddit.com/r/politics/comments/1b8pkd0/on_israel_trump_is_even_worse_than_biden)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T08:26:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8pkd0/on_israel_trump_is_even_worse_than_biden/"> <img alt="On Israel, Trump Is Even Worse Than Biden" src="https://external-preview.redd.it/PxzvkzPcfS-du_eo_zX2xG1opZVImdgd8KwzRb-kCPg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b65c03e0ffef0f9ad1344d9fc8efd5f638bdb4ec" title="On Israel, Trump Is Even Worse Than Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Yourehan"> /u/Yourehan </a> <br /> <span><a href="https://theintercept.com/2024/03/04/trump-biden-israel/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8pkd0/on_israel_trump_is_even_worse_than_biden/">[comments]</a></span> </td></tr></table>
+
+## Republicans Just Nominated a Conspiracy Theorist Who Compared Gay People to Maggots
+ - [https://www.reddit.com/r/politics/comments/1b8mmov/republicans_just_nominated_a_conspiracy_theorist](https://www.reddit.com/r/politics/comments/1b8mmov/republicans_just_nominated_a_conspiracy_theorist)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T05:33:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8mmov/republicans_just_nominated_a_conspiracy_theorist/"> <img alt="Republicans Just Nominated a Conspiracy Theorist Who Compared Gay People to Maggots" src="https://external-preview.redd.it/URVy_Tme3yjUhp6OPEIRnJ0GMsPikBJd_EyrAhtR4gw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5fb1003b00b877192775a7aecf8af7a891ce9549" title="Republicans Just Nominated a Conspiracy Theorist Who Compared Gay People to Maggots" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KC_8580"> /u/KC_8580 </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/mark-robinson-north-carolina-gop-primary-governor-1234981673/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8mmov/republicans_just_nominated_a_conspiracy_theorist/">[comments]</a></span> </td></tr></table>
+
+## Biden campaign goes on attack over Trump allies' "Project 2025" vision
+ - [https://www.reddit.com/r/politics/comments/1b8lzul/biden_campaign_goes_on_attack_over_trump_allies](https://www.reddit.com/r/politics/comments/1b8lzul/biden_campaign_goes_on_attack_over_trump_allies)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T04:59:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8lzul/biden_campaign_goes_on_attack_over_trump_allies/"> <img alt="Biden campaign goes on attack over Trump allies' &quot;Project 2025&quot; vision" src="https://external-preview.redd.it/ciaJ6-ytSsKWj4ZNiMaJrrVYEvnijrWppuQ8OeBzaKo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b65299669449ab70e1480a72e6246857f68168c2" title="Biden campaign goes on attack over Trump allies' &quot;Project 2025&quot; vision" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/urmomsloosevag"> /u/urmomsloosevag </a> <br /> <span><a href="https://www.axios.com/2024/03/06/biden-trump-project-2025">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8lzul/biden_campaign_goes_on_attack_over_trump_allies/">[comments]</a></span> </td></tr></table>
+
+## I voted for Trump – twice. Liz Cheney's book and DOJ Jan. 6 indictment changed my mind
+ - [https://www.reddit.com/r/politics/comments/1b8l46j/i_voted_for_trump_twice_liz_cheneys_book_and_doj](https://www.reddit.com/r/politics/comments/1b8l46j/i_voted_for_trump_twice_liz_cheneys_book_and_doj)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T04:13:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8l46j/i_voted_for_trump_twice_liz_cheneys_book_and_doj/"> <img alt="I voted for Trump – twice. Liz Cheney's book and DOJ Jan. 6 indictment changed my mind" src="https://external-preview.redd.it/ZgVw0BFVxdyeSmGJLHD9xZuV1oPWmS5aF8UQe9B7dxo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=82e5bfa676bcc09d41fb9aff259f443c4d8fe1b3" title="I voted for Trump – twice. Liz Cheney's book and DOJ Jan. 6 indictment changed my mind" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TigreSauvage"> /u/TigreSauvage </a> <br /> <span><a href="https://www.oklahoman.com/story/opinion/2024/03/03/opinion-guest-republican-trump-supporter-liz-cheney-book-2024-election/72743082007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8l46j/i_voted_for_trump_twice_liz_cheneys_book_and_doj/">[comments]</a></span> </td></tr></table>
+
+## Ex-GOP Congressional Candidate Is Wanted for Vegas Murder
+ - [https://www.reddit.com/r/politics/comments/1b8ingq/exgop_congressional_candidate_is_wanted_for_vegas](https://www.reddit.com/r/politics/comments/1b8ingq/exgop_congressional_candidate_is_wanted_for_vegas)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-07T02:18:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1b8ingq/exgop_congressional_candidate_is_wanted_for_vegas/"> <img alt="Ex-GOP Congressional Candidate Is Wanted for Vegas Murder" src="https://external-preview.redd.it/oYk9LLvX4dq__puwbK4jTiTkb5AsbST_GjEM6bVcdYM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d10798aeeb1e9214a2ace5eaec81b1034ac3e94c" title="Ex-GOP Congressional Candidate Is Wanted for Vegas Murder" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marji80"> /u/marji80 </a> <br /> <span><a href="https://www.thedailybeast.com/ex-gop-congressional-candidate-and-former-wwe-wrestler-daniel-rodimer-is-wanted-for-murder">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1b8ingq/exgop_congressional_candidate_is_wanted_for_vegas/">[comments]</a></span> </td></tr></table>
+

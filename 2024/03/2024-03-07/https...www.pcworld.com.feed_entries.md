@@ -1,0 +1,179 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## Watch us build bigger in Fractal Design’s North XL PC case
+ - [https://www.pcworld.com/article/2259384/watch-us-build-bigger-in-fractal-designs-north-xl-pc-case.html](https://www.pcworld.com/article/2259384/watch-us-build-bigger-in-fractal-designs-north-xl-pc-case.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-07T16:51:58+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The Fractal Design North might just be the <a href="https://www.pcworld.com/article/1430365/the-full-nerd-awards-our-favorite-pc-hardware-of-2022.html" rel="noreferrer noopener" target="_blank">most desirable PC case around</a>, at least if you&rsquo;re not enamored with a Vegas Strip&rsquo;s worth of RGB lighting. The understated geometry and gorgeous wood accent makes it a popular choice for anyone who wants their setup to look a little more grown-up. The company just released an XL version, and we&rsquo;re playing with it in the latest PCWorld YouTube video. </p>
+
+
+
+<p>Unsurprisingly, the North XL is a super-sized version of the North, its extra space in all dimensions allowing for even more cooling configurations and extra-long graphics cards at up to 413mm. That gives it room for E-ATX motherboards and super-deluxe cooling setups, including 420mm-lo
+
+## Best dash cams 2024: Your second set of eyes on the road
+ - [https://www.pcworld.com/article/428348/best-dash-cam-reviews.html](https://www.pcworld.com/article/428348/best-dash-cam-reviews.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-07T16:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>While you drive, there&rsquo;s a lot happening, so a second pair of eyes can help you stay safe. A dash cam provides this extra vigilance and helps give you peace of mind while out on the road. The best dash cams monitor in high-res video what&rsquo;s happening while you&rsquo;re behind the wheel, with timestamps and GPS coordinates. They can even record while your car is parked, helping you keep tabs on your car while you&rsquo;re away.</p>
+
+
+
+<p>When choosing the best dash cam for your needs you should first consider if you want a front, front/interior, or front/rear model. Additionally, you&rsquo;ll want to decide on how wide a viewing angle you&rsquo;ll need. Then there are special features to take into account, such as voice control or parking assist. Since there are a number of reasons to use a dash cam, we understand that there isn&rsquo;t a one-s
+
+## Foxit PDF eliminates 50 security vulnerabilities
+ - [https://www.pcworld.com/article/2259442/foxit-eliminates-50-vulnerabilities-in-its-pdf-programmes.html](https://www.pcworld.com/article/2259442/foxit-eliminates-50-vulnerabilities-in-its-pdf-programmes.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-07T15:55:17+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The free Foxit PDF Reader is available in the new version 2024.1 for Windows and macOS. There are also corresponding updates for the premium <a href="https://www.pcworld.com/article/2163281/foxit-pdf-editor-review.html">Foxit PDF Editor</a>, one of <a href="https://www.pcworld.com/article/407214/best-pdf-editors.html">the best PDF editors we&rsquo;ve tested</a>. Foxit Software has closed 50 security vulnerabilities in both versions, most of which are classified as high risk. There are currently no known attacks that would exploit one of the vulnerabilities.</p>
+
+
+
+<p>According to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.foxit.com/support/security-bulletins.html&amp;xcust=2-1-2259442-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Foxit Security Bulletins</a> from March 5, all Reader versions
+
+## AMD sets higher speed standards for FreeSync monitors
+ - [https://www.pcworld.com/article/2259242/amd-sets-higher-standards-for-freesync-monitors-and-laptops.html](https://www.pcworld.com/article/2259242/amd-sets-higher-standards-for-freesync-monitors-and-laptops.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-07T15:42:03+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>AMD&rsquo;s FreeSync <a href="https://www.pcworld.com/article/423202/g-sync-vs-freesync-amd-nvidia-monitor.html" rel="noreferrer noopener" target="_blank">anti-tearing adaptive sync technology</a> is a more popular standard than Nvidia&rsquo;s G-Sync, if only because the former doesn&rsquo;t require pricey additional hardware to meet its more stringent demands. But AMD isn&rsquo;t letting just any screen claim to work. A new set of higher standards for FreeSync-compatible screens has been released. </p>
+
+
+
+<p>For the regular, no-frills version of FreeSync, most smaller monitors will need at least 144Hz of refresh rate in order to be certified compatible with FreeSync. &ldquo;Smaller&rdquo; in this case means under 3440 horizontal lines of resolution, basically under a 34-inch ultrawide like <a href="https://www.pcworld.com/article/1440675/alienware-aw342
+
+## After leaks, Microsoft confirms Surface, Windows AI event for March
+ - [https://www.pcworld.com/article/2259163/microsoft-sets-march-event-date-for-new-surface-devices.html](https://www.pcworld.com/article/2259163/microsoft-sets-march-event-date-for-new-surface-devices.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-07T14:42:36+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Did Microsoft <a href="https://www.pcworld.com/article/2256275/report-surface-pro-10-surface-laptop-6-to-offer-key-upgrades.html" rel="noreferrer noopener" target="_blank">see its newest Surface devices leak</a> in all their incrementally-increased glory, and decide that it was time to set a date? Or was the event coming all along and the leak was just happenstance? The world may never know&hellip;not that it&rsquo;s all that important. After a pretty sizeable leak earlier this week, Microsoft has confirmed that a new &ldquo;Digital event&rdquo; will take place on March 21st. </p>
+
+
+
+<p>&ldquo;Advancing the new era of work with Copilot,&rdquo; says the headline <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://modernworkannounce.event.microsoft.com/?ranMID=24542&amp;xcust=2-1-2259163-1-0-0&amp;sref=https://www.pcworld.com/feed" rel
+
+## Best external drives 2024: Backup, storage, and portability
+ - [https://www.pcworld.com/article/406861/best-external-drives.html](https://www.pcworld.com/article/406861/best-external-drives.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-07T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>External USB/Thunderbolt drives are a super-convenient way to quickly back up your important files, as well as store any data that you don&rsquo;t need on your computer&rsquo;s internal storage. They&rsquo;re also an extremely handy way to transport data between locations and devices.</p>
+
+
+
+<p>While any of these would be a great reason to pick up an external drive, the advantages of having reliable backup is the number-one reason your setup isn&rsquo;t complete without one. Why? Chances are you have important data on your PC that you can&rsquo;t afford to lose. To protect that data you&rsquo;ll want to do two things: <a href="https://www.pcworld.com/article/407149/online-cloud-backup-services-carbonite-idrive-backblaze-livedrive.html" rel="noreferrer noopener" target="_blank">store it off-site on the cloud</a> if possible and back it up to an external d
+
+## Air Explorer Pro review: Sync to, from, and between your online storage accounts
+ - [https://www.pcworld.com/article/2241296/air-explorer-pro-review.html](https://www.pcworld.com/article/2241296/air-explorer-pro-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-07T13:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Connects to nearly any online storage service</li><li>A wide variety of sync options</li><li>Zips uploads</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Zips to local drive did not work</li><li>Sometimes counterintuitive interface </li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">There&rsquo;s no arguing with Air Explorer Pro&rsquo;s wide support of online storage service or the options
+
+## Chat GPT now has a voice
+ - [https://www.pcworld.com/article/2257576/chat-gpt-now-has-a-voice.html](https://www.pcworld.com/article/2257576/chat-gpt-now-has-a-voice.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-07T12:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Open AI has announced via a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/OpenAI/status/1764712432939995549&amp;xcust=2-1-2257576-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">post on X</a> that its chatbot Chat GPT now has a new feature to help users with visual impairments. In the chatbot&rsquo;s Android and iOS apps, Chat GPT can now read out its responses to you. Simply tap on a message from the chatbot and select &ldquo;Read Aloud.&rdquo;</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet"><p dir="ltr" lang="en">ChatGPT can now read responses to you.<br /><br />On iOS or Android, tap and hold the message and then tap &ldquo;Read Aloud&rdquo;. We&rsquo;ve also started rolling on web &nd
+
+## How to prevent (or survive) a ransomware attack
+ - [https://www.pcworld.com/article/2256644/how-to-prevent-or-survive-a-ransomware-attack.html](https://www.pcworld.com/article/2256644/how-to-prevent-or-survive-a-ransomware-attack.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-07T11:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Of all the common PC security threats today, ransomware may be the most pernicious and painful for users. Not only can it lock up your device and prevent you from accessing your PC and data, but it can also send all your data to attackers over the internet and potentially give them access to your online accounts through the saved credentials in your browser. </p>
+
+
+
+<p>For victims of ransomware, the sudden sense of panic as the screen displays a message that the PC has been infected&mdash;and they must pay to regain control&mdash;typically turns to rage as they attempt to get to their files back and then realize the awful truth. If you&rsquo;ve been hit ransomware, keep your cool and don&rsquo;t send any money to the attackers. </p>
+
+
+
+<p>In this guide, we&rsquo;ll give you important tips to prevent a ransomware attack, and the tell you what to do if you
+
+## The 5 laptop features that matter most in 2024
+ - [https://www.pcworld.com/article/2250639/the-5-laptop-features-that-matter-most-in-2024.html](https://www.pcworld.com/article/2250639/the-5-laptop-features-that-matter-most-in-2024.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-07T11:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re in the market for a new laptop, it&rsquo;s easy to get overwhelmed by the literal hundreds of choices. And it seems like every laptop out there advertises a different set of &ldquo;must-have features&rdquo; adding to the confusion. But the truth is, most of that is just hype to get your hard earned dollars. And, realistically, most laptops share the same basic features you should care about and only after you settle on those do you need to worry about any extras specific to your needs.</p>
+
+
+
+<p>We&rsquo;ve narrowed down the five laptop features that really matter. That said, if all you want is the absolute best laptop recommendation, whether it&rsquo;s for gaming or day-to-day tasks, we <a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html">have that covered for you too</a>. But if you prefer a &ldquo;choos
+
+## File your taxes with H&R Block for under $25 this year
+ - [https://www.pcworld.com/article/2258138/file-your-taxes-with-hr-block-for-under-25-this-year.html](https://www.pcworld.com/article/2258138/file-your-taxes-with-hr-block-for-under-25-this-year.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-07T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Tax season is here and if you&rsquo;re dreading sitting down with your CPA or, heaven forbid, doing your taxes yourself, it&rsquo;s time to call in the professionals. Fortunately, you can do so for an incredible price. During our Sitewide Sale, you can get a PC or Mac download of <a href="https://shop.pcworld.com/sales/h-r-block-tax-software-deluxe-federal-state-2023-pc-mac-download?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=h-r-block-tax-software-deluxe-federal-state-2023-pc-mac-download&amp;utm_term=scsf-591675&amp;utm_content=a0xRn000000U3jdIAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">H&amp;R Block Tax Software</a> for a Federal and State return for an extra 20% off at just $23.99 when you use promo code ENJOY20.</p>
+
+
+
+<p>H&amp;R Block is a nationwide leader in tax preparation and their software has helped million
+
