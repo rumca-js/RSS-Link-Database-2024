@@ -1,0 +1,82 @@
+# Source:Popular Science, URL:https://www.popsci.com/feed, language:en-US
+
+## The best folding electric bikes for 2024
+ - [https://www.popsci.com/gear/best-folding-electric-bikes](https://www.popsci.com/gear/best-folding-electric-bikes)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-08T21:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--productTable">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="The best folding electric bikes in 2024 on a plain white background." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="936" src="https://www.popsci.com/uploads/2024/03/08/The-best-folding-electric-bikes-in-2024.jpg?auto=webp&amp;width=1440&amp;height=936" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><div class="orgnc-SingleImage-creditTop">Brandt Ranj / Popular Science </div></figure><p>When it comes to easily transportable e-bikes, you gotta know when to hold ’em, know when to fold ’em, know when to ride away, and when the battery’s done. </p>
+<p>The post <a href="https://www.popsci.com/gear/best-folding-electric-bikes/">The best folding electric bikes for 2024</a> appeared first on <a href="https://www.popsci.com">Popular Science</a>.</
+
+## ‘Alien’ signal was likely a very big truck
+ - [https://www.popsci.com/science/uap-seismic-data-truck](https://www.popsci.com/science/uap-seismic-data-truck)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-08T18:15:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Google Earth Image of seismic center and truck road" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2024/03/08/Low-Res_manus-island.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">The area near the seismic station in Manus Island, based on satellite images acquired on March 23, 2023. <span class="orgnc-SingleImage-credit"><a href="https://hub.jhu.edu/2024/03/07/alien-meteor-truck/">CREDIT: ROBERTO MOLAR CANDANOSA AND BENJAMIN FERNANDO/JOHNS HOPKINS UNIVERSITY, WITH IMAGERY FROM CNES/AIRBUS VIA GOOGLE</a></span></figcaption></figure><p>Researchers took a deeper look at seismic data taken during the 2014 fireball 
+
+## These extinct termites have been stuck in a mating position for 38 million years
+ - [https://www.popsci.com/science/extinct-termites-stuck-mating](https://www.popsci.com/science/extinct-termites-stuck-mating)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-08T17:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="two termites trapped in an oval shaped bit of amber" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2024/03/08/amber-fossil-termite.png?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">This pair of extinct E. affinis termites was trapped in tree resin almost 40 million years ago and preserved until today in a Baltic amber fossil. <span class="orgnc-SingleImage-credit">Aleš Buček (OIST/The Czech Academy of Sciences)</span></figcaption></figure><p>The fossilized insects were found preserved in amber.</p>
+<p>The post <a href="https://www.popsci.com/science/extinct-termites-stuck-mating/">These extinct termites have been
+
+## Get a 75-inch Samsung TV and 3.1 surround soundbar for just $839 during this massive TV sale
+ - [https://www.popsci.com/gear/samsung-spring-2024-tv-soundbar-sale](https://www.popsci.com/gear/samsung-spring-2024-tv-soundbar-sale)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-08T16:52:37+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Samsung TVs and soundbars arranged on a plain background with soundbars" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2024/03/08/samsung-75-inch-tv-soundbar-deal-header.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption"><span class="orgnc-SingleImage-credit">Stan Horaczek</span></figcaption></figure><p>Even if you don't need a soundbar, you can save up to half-off Samsung's best QLED TVs up to 85 inches.</p>
+<p>The post <a href="https://www.popsci.com/gear/samsung-spring-2024-tv-soundbar-sale/">Get a 75-inch Samsung TV and 3.1 surround soundbar for just $839 during this massive TV sale</a> appeared first on <a hr
+
+## Sandy ‘Reef Stars’ help bring life back to coral reefs hurt by dynamite fishing’
+ - [https://www.popsci.com/environment/reef-stars-coral-dynamite-fishing](https://www.popsci.com/environment/reef-stars-coral-dynamite-fishing)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-08T16:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="fish swimming by a healthy coral reef" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2024/03/08/healthy-reef.png?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">A healthy coral reef in Sulawesi, Indonesia. Reefs like this provide islands with protection from storms and erosion and are a critical habitat for many species. <span class="orgnc-SingleImage-credit">Ines Lange</span></figcaption></figure><p>Transplanting coral and using these stakes helped restore degraded coral reefs in Indonesia in only four years.</p>
+<p>The post <a href="https://www.popsci.com/environment/reef-stars-coral-dynamite-fishing/">Sandy &#82
+
+## Get a refurbished Microsoft Surface Pro 6 for just $376
+ - [https://www.popsci.com/sponsored-content/microsoft-surface-6-pro-refurbished-deal](https://www.popsci.com/sponsored-content/microsoft-surface-6-pro-refurbished-deal)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-08T14:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A refurbished Microsoft Surface 6 Pro" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="800" src="https://www.popsci.com/uploads/2024/03/07/image-4.png?auto=webp" style="display: block; margin: auto; margin-bottom: 5px;" width="1067" /></div><figcaption class="orgnc-SingleImage-caption"><span class="orgnc-SingleImage-credit">Stack Commerce</span></figcaption></figure><p>Save 20% and the planet.</p>
+<p>The post <a href="https://www.popsci.com/sponsored-content/microsoft-surface-6-pro-refurbished-deal/">Get a refurbished Microsoft Surface Pro 6 for just $376</a> appeared first on <a href="https://www.popsci.com">Popular Science</a>.</p>
+
+## Your child’s medicine probably wasn’t fully vetted. Here’s why.
+ - [https://www.popsci.com/health/children-medicine-clinical-trials](https://www.popsci.com/health/children-medicine-clinical-trials)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-08T14:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Child getting medicine from parent" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2024/03/08/child-getting-medicine-from-parent.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">Kids’ medications don’t meet the same bar that everyone expects for adults. <span class="orgnc-SingleImage-credit">E+/Getty Images</span></figcaption></figure><p>Most pharmaceuticals are developed and approved for use only in adults. Researchers are working to create change.</p>
+<p>The post <a href="https://www.popsci.com/health/children-medicine-clinical-trials/">Your child’s medicine probably wasn’t fully vetted. Here’s why.</a> appeare
+
+## How to edit messages and turn off read receipts on Instagram
+ - [https://www.popsci.com/diy/how-to-edit-messages-turn-off-read-receipts-instagram](https://www.popsci.com/diy/how-to-edit-messages-turn-off-read-receipts-instagram)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-08T12:03:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="screenshot of instagram messaging" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2024/03/07/00-header-1.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">Instagram is getting better as a messenger. <span class="orgnc-SingleImage-credit">Instagram</span></figcaption></figure><p>The photo-sharing app just got a big messaging upgrade.</p>
+<p>The post <a href="https://www.popsci.com/diy/how-to-edit-messages-turn-off-read-receipts-instagram/">How to edit messages and turn off read receipts on Instagram</a> appeared first on <a href="https://www.popsci.com">Popular Science</a>.</p>
+
+## This top-rated 13-in-1 docking station is now an additional 20% off for a limited time
+ - [https://www.popsci.com/sponsored-content/13-in-1-docking-station-limited-deal](https://www.popsci.com/sponsored-content/13-in-1-docking-station-limited-deal)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-08T12:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A 13-in-1 docking station with many things plugged into it." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="800" src="https://www.popsci.com/uploads/2024/03/07/image-3.png?auto=webp" style="display: block; margin: auto; margin-bottom: 5px;" width="1067" /></div><figcaption class="orgnc-SingleImage-caption"><span class="orgnc-SingleImage-credit">Stack Commerce</span></figcaption></figure><p>Enjoy extra savings through March 10 with code ENJOY20.</p>
+<p>The post <a href="https://www.popsci.com/sponsored-content/13-in-1-docking-station-limited-deal/">This top-rated 13-in-1 docking station is now an additional 20% off for a limited time</a> appeared first on <a href="https://www.popsci.com">Popular Science</a>.</p>
+

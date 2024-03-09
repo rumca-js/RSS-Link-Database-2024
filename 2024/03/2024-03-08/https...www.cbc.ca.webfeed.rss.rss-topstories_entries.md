@@ -1,0 +1,191 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Nishnawbe Aski Police Service's chief suspended over misconduct allegations
+ - [https://www.cbc.ca/news/canada/thunder-bay/nishnawbe-aski-police-service-chief-suspended-1.7138689?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/nishnawbe-aski-police-service-chief-suspended-1.7138689?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T16:42:00+00:00
+
+<img alt="A person stands in front of flags." height="349" src="https://i.cbc.ca/1.5095702.1709933576!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/roland-morrison-nishnawbe-aski-police-service-chief.jpg" title="Roland Morrison is the new Nishnawbe Aski Police Service Chief. He is a member of the Chapleau Cree First Nation, and is the first Nishnawbe Aski Nation recruit to rise through the ranks and take over the top job. " width="620" /><p>The board of directors for the Nishnawbe Aski Police Service (NAPS), which serves 34 First Nations across northern Ontario, has suspended Chief Roland Morrison over allegations of misconduct. Here's what we know so far about the investigation.</p>
+
+## The aliens have not landed. Decades of UFOs spotted in U.S. were 'ordinary objects,' Pentagon says
+ - [https://www.cbc.ca/news/world/ufo-report-pentagon-1.7138106?cmp=rss](https://www.cbc.ca/news/world/ufo-report-pentagon-1.7138106?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T15:52:26+00:00
+
+<img alt="Aerial view of heavily fortified five-sided complex, the Pentagon" height="349" src="https://i.cbc.ca/1.6868918.1709924474!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pentagon-ufos.jpg" title="The Pentagon is seen from Air Force One as it flies over Washington, March 2, 2022. A new Pentagon office set up to track reports of unidentified flying objects has received â€œseveral hundredsâ€ of new reports, but no evidence so far of alien life. That&apos;s according to the leadership of the All-domain Anomaly Resolution Office.  (AP Photo/Patrick Semansky, File)" width="620" /><p>There's no verifiable evidence that any UFO sighting in the U.S. was actually extraterrestrial, according to a new Pentagon report that addresses a long-held belief that the U.S. government is covering up the existence of aliens.</p>
+
+## Here are all the Canadian Oscar nominees to cheer for at the Academy Awards
+ - [https://www.cbc.ca/news/entertainment/canadian-oscar-nominees-1.7137098?cmp=rss](https://www.cbc.ca/news/entertainment/canadian-oscar-nominees-1.7137098?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T15:02:02+00:00
+
+<img alt="A man in a light blue suit smiles and waves at the camera." height="349" src="https://i.cbc.ca/1.7137245.1709848256!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/96th-academy-awards-oscar-nominees-luncheon-arrivals.jpg" title="Ryan Gosling arrives at the 96th Academy Awards Oscar nominees luncheon on Feb. 12, 2024 at the Beverly Hilton Hotel in Beverly Hills, Calif. " width="620" /><p>The 96th Academy Awards are coming up this weekend, and there is no shortage of Canadian nominees. Here are the Canadians who will be competing for Hollywood's top prizes at Sunday's ceremony. </p>
+
+## ArriveCan contractor exec became public servant after project was completed, company says
+ - [https://www.cbc.ca/news/politics/dalian-enterprise-david-yeo-arrive-can-employee-1.7138383?cmp=rss](https://www.cbc.ca/news/politics/dalian-enterprise-david-yeo-arrive-can-employee-1.7138383?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T14:59:14+00:00
+
+<img alt="David Yeo of firm Dalian Enterprises Inc. is pictured during a House of Commons committee meeting." height="349" src="https://i.cbc.ca/1.7127273.1709063859!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/david-yeo.jpg" title="David Yeo&apos;s firm Dalian Enterprises Inc. was contracted to work on the ArriveCan app." width="620" /><p>Dalian Enterprises, one of the contractors that worked on the controversial ArriveCan app, says its president and founder David Yeo only became a public servant after the project was completed.</p>
+
+## Lawsuit claiming fertility-tracking app shared intimate data with Facebook greenlit as Canadian class action
+ - [https://www.cbc.ca/news/canada/british-columbia/flo-health-privacy-class-action-1.7137600?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/flo-health-privacy-class-action-1.7137600?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T14:56:03+00:00
+
+<img alt="A blonde woman in a white shirt holding a cellphone with a purple case walks down a city sidewalk." height="349" src="https://i.cbc.ca/1.7138356.1709924199!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pride-flowers.jpg" title="Flower artworks are pictured made by Fleurs de Villes marking Yaletown Pride in Vancouver on July 27, 2022. " width="620" /><p>A Canadian class-action lawsuit accusing a popular fertility-tracking app of sending users’ intimate health information — including details about their periods, sex lives and pregnancies — to companies like Facebook without their knowledge has been allowed to go ahead.</p>
+
+## Canada confirms it will resume funding United Nations relief agency for Palestinians
+ - [https://www.cbc.ca/news/politics/canada-unrwa-funding-confirmed-1.7137991?cmp=rss](https://www.cbc.ca/news/politics/canada-unrwa-funding-confirmed-1.7137991?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T14:49:38+00:00
+
+<img alt="A warehouse worker wraps a pallet." height="349" src="https://i.cbc.ca/1.7107923.1707337173!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg" title="United Nations and Red Crescent workers prepare aid for distribution to Palestinians at the UNRWA warehouse in Deir Al-Balah, Gaza Strip on Monday, Oct. 23, 2023." width="620" /><p>The Canadian government has confirmed it will restore funding for the United Nations Relief and Works Agency for Palestine Refugees. The government suspended funding in January after Israel alleged 12 employees of the agency were involved in the October 7 attack on Israel by Hamas and Palestinian Islamic Jihad.</p>
+
+## Canadian 1st baseman, former MVP Joey Votto agrees to camp deal with Blue Jays
+ - [https://www.cbc.ca/sports/baseball/mlb/mlb-joey-votto-blue-jays-sign-1.7138321?cmp=rss](https://www.cbc.ca/sports/baseball/mlb/mlb-joey-votto-blue-jays-sign-1.7138321?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T13:53:59+00:00
+
+<img alt="A baseball player jogs off the field." height="349" src="https://i.cbc.ca/1.7138337.1709923598!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/votto-joey-2-030824.jpg" title="Cincinnati Reds first baseman Joey Votto, seen above in 2023, agreed to a non-roster invite to spring training with the Toronto Blue Jays on Friday." width="620" /><p>Joey Votto has agreed to a non-roster invite with the Toronto Blue Jays, the former National League MVP said on social media.</p>
+
+## No charges as RCMP conclude probe into Alberta's 2017 UCP leadership race
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-rcmp-ucp-leadership-fraud-investigation-1.7137976?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-rcmp-ucp-leadership-fraud-investigation-1.7137976?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T13:53:54+00:00
+
+<img alt="A man in a blue suit stands before the Alberta flag. " height="349" src="https://i.cbc.ca/1.6451784.1709913855!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/alta-kenney-20220325.jpg" title="Alberta Premier Jason Kenney speaks at a news conference in March. " width="620" /><p>No charges will be laid following an RCMP investigation into allegations of voter fraud and identity theft in Alberta’s 2017 United Conservative Party leadership race won by Jason Kenney.</p>
+
+## Trump claims concern over possible TikTok ban, years after he tried to ban platform himself
+ - [https://www.cbc.ca/news/world/trump-tiktok-us-ban-pushback-1.7138066?cmp=rss](https://www.cbc.ca/news/world/trump-tiktok-us-ban-pushback-1.7138066?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T12:27:11+00:00
+
+<img alt="Former U.S. president Donald Trump is seen in Palm Beach, Fla., in March 2024." height="349" src="https://i.cbc.ca/1.7138091.1709916988!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/former-u-s-president-donald-trump-in-palm-beach-fla-in-march-2024.jpg" title="Former U.S. president and 2024 presidential hopeful Donald Trump attends a Super Tuesday election night watch party at Mar-a-Lago Club in Palm Beach, Florida, on March 5, 2024. " width="620" /><p>U.S. presidential candidate Donald Trump raised concerns about banning TikTok ahead of a vote next week by the U.S. House of Representatives that would give TikTok owner ByteDance about six months to divest the popular short video app.</p>
+
+## A woman's place is in the home? That's what Ireland's Constitution still says, but it may change
+ - [https://www.cbc.ca/news/world/ireland-referendum-constitution-women-1.7137831?cmp=rss](https://www.cbc.ca/news/world/ireland-referendum-constitution-women-1.7137831?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T12:23:56+00:00
+
+<img alt="A  button that says &apos;yes&apos; is pinned to a pink material" height="349" src="https://i.cbc.ca/1.7137859.1709910397!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ireland-vote.jpg" title="&apos;Yes&apos; campaigners pose at a photo call organized by the National Women&apos;s Council in Dublin, Ireland on March 5, 2024, ahead of the Irish Referendum on Friday. Ireland prepares to vote Friday on constitutional references to the family and women&apos;s role in the home after campaigns that have honed in on vague wording, &apos;mansplaining&apos; and panic over polygamy." width="620" /><p>According to Ireland's Constitution, a woman's place is in the home. Voters will decide on Friday — International Women's Day — whether to change the 87-year-old document to remove passages the government says are outdated and sexist.</p>
+
+## RCMP commissioner says Mounties have 'credible' info about alleged Chinese 'police stations'
+ - [https://www.cbc.ca/news/politics/rcmp-chinese-police-stations-1.7138022?cmp=rss](https://www.cbc.ca/news/politics/rcmp-chinese-police-stations-1.7138022?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T11:52:02+00:00
+
+<img alt="RCMP Commissioner Mike Duheme waits to appear before the House of Commons Access to Information, Privacy and Ethics committee, Tuesday, February 27, 2024 in Ottawa. " height="349" src="https://i.cbc.ca/1.7127316.1709065625!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/rcmp-snc-lavalin-20240227.jpg" title="RCMP Commissioner Mike Duheme waits to appear before the House of Commons Access to Information, Privacy and Ethics committee, Tuesday, February 27, 2024 in Ottawa. " width="620" /><p>As two Montreal-area Chinese groups accused of hosting clandestine Chinese government "police stations” sue the RCMP for defamation, the head of the national police service maintains his officers are acting on “credible” information. </p>
+
+## Amid a pilot shortage in Canada, Thunder Bay hopes to inspire more women and young people to take flight
+ - [https://www.cbc.ca/news/canada/thunder-bay/aviation-pilots-women-youth-thunder-bay-1.7138076?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/aviation-pilots-women-youth-thunder-bay-1.7138076?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T09:58:17+00:00
+
+<img alt="Two young women pose for a photo inside a plane cockpit. " height="349" src="https://i.cbc.ca/1.7138145.1709918326!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wasaya-airlines-flight.jpg" title="Wasaya Airlines, a carrier based in Thunder Bay, Ont., hosted a women in aviation event this week to help encourage more women and girls to consider the industry as a career option. " width="620" /><p></p>
+
+## Canada's economy added 41,000 jobs in February
+ - [https://www.cbc.ca/news/business/labour-force-survey-february-1.7137734?cmp=rss](https://www.cbc.ca/news/business/labour-force-survey-february-1.7137734?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T08:37:25+00:00
+
+<img alt="White text that reads &apos;Breaking News&apos; on a red background." height="349" src="https://i.cbc.ca/1.4492356.1683057791!/fileImage/httpImage/image.png_gen/derivatives/16x9_620/breaking-news.png" title="" width="620" /><p>Canada's economy added 41,000 jobs in February while the unemployment rate rose to 5.8 per cent, Statistics Canada said Friday.</p>
+
+## Historical sexual abuse charges filed against B.C. minister belonging to church with no name
+ - [https://www.cbc.ca/news/canada/british-columbia/sex-abuse-charges-church-with-no-name-1.7121218?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/sex-abuse-charges-church-with-no-name-1.7121218?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T07:00:00+00:00
+
+<img alt="A man and four women walk with backs to camera." height="349" src="https://i.cbc.ca/1.7134469.1709668940!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/2x2.jpg" title="Members of a Christian sect with not official name but commonly referred to as 2x2s attend a gospel meeting at a funeral chapel in Port Coquitlam on Sunday March 3, 2023. " width="620" /><p>The religious organization has no official name but is known as the 2x2s, The Way, The Truth, and the Church With No Name.</p>
+
+## What do cities face when hit by a ransomware attack? Cyber experts explain, as Hamilton issue continues
+ - [https://www.cbc.ca/news/canada/hamilton/ransomware-attack-1.7136902?cmp=rss](https://www.cbc.ca/news/canada/hamilton/ransomware-attack-1.7136902?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T07:00:00+00:00
+
+<img alt="Mandatory Credit: Photo by Ritchie B Tongo/EPA/Shutterstock (8819968a) A programer shows a sample of decrypting source code in Taipei, Taiwan, 13 May, 2017. According to news reports, a &apos;WannaCry&apos; ransomware cyber attack hits thousands of computers in 99 countries encrypting files from affected computer units and demanding 300 US dollars through bitcoin to decrypt the files. Taiwan Ransomware, Taipei - 13 May 2017" height="349" src="https://i.cbc.ca/1.7015028.1698849659!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ransomware-attack.jpg" title="Mandatory Credit: Photo by Ritchie B Tongo/EPA/Shutterstock (8819968a) A programer shows a sample of decrypting source code in Taipei, Taiwan, 13 May, 2017. According to news reports, a &apos;WannaCry&apos; ransomware cyber attack hits thousands of computers in 99 countries encrypting files from affected computer units and demanding 300 US dollars through bitcoin to decrypt the files. Taiwan Ransomware, Ta
+
+## Dragon Ball creator Akira Toriyama dead at 68
+ - [https://www.cbc.ca/news/entertainment/obit-toriyama-dragon-ball-1.7137676?cmp=rss](https://www.cbc.ca/news/entertainment/obit-toriyama-dragon-ball-1.7137676?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T06:56:02+00:00
+
+<img alt="A boy or young man turns his back to the camera to show off the back of his Tshirt while standing next to a monument of a comic book character." height="349" src="https://i.cbc.ca/1.7137685.1709898571!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2059266780.jpg" title="A tourist wearing a T-shirt of Dragon Ball has his photographs taken with a statue of Dragon Ball character Son Goku in Tokyo on Friday, after it was learned that the creator of Japan&apos;s hugely popular series, Akira Toriyama, had died at 68.  " width="620" /><p>Japanese manga comic creator Akira Toriyama, best known for his Dragon Ball series that spawned widely popular films, video games and TV shows, died on March 1 from a blood clot in his brain, his production studio said on Friday. He was 68.</p>
+
+## Storm walloping parts of Newfoundland, with St. John's getting up to 85 cm of snow
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/storm-march-9-1.7137670?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/storm-march-9-1.7137670?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T06:03:35+00:00
+
+<img alt="Picture from front step of house onto snow covered street." height="349" src="https://i.cbc.ca/1.7137689.1709896475!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/march-8-weather.JPG" title="Schools, government offices and businesses are closed throughout parts of Newfoundland in the midst of a weather alert." width="620" /><p>A winter storm has shuttered businesses, schools as well as government offices and people are advised to stay off the road.</p>
+
+## Biden's comeback blueprint: State of the union reveals re-election strategy
+ - [https://www.cbc.ca/news/world/biden-state-of-the-union-sotu-2024-analysis-1.7137609?cmp=rss](https://www.cbc.ca/news/world/biden-state-of-the-union-sotu-2024-analysis-1.7137609?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T05:00:00+00:00
+
+<img alt="Biden, mouth open while speaking animatedly. VP Harris behind him, standing and clapping; beside her, Speaker Johnson seated and looking glum. Behind them all, an American flag" height="349" src="https://i.cbc.ca/1.7137628.1709866774!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-biden-congress.JPG" title="US President Joe Biden delivers his third State of the Union address in the House Chamber of the US Capitol in Washington, DC, USA, 07 March 2024.   " width="620" /><p>What we saw in Thursday's state of the union address was U.S. President Joe Biden's re-election strategy — a blueprint for a comeback, as he's down in the polls. It revealed four things about the campaign he intends to fight.</p>
+
+## A Mountie botched her assault investigation when she was 14. The RCMP apologized 20 years later
+ - [https://www.cbc.ca/news/politics/rcmp-apology-jennifer-johner-sexual-assault-allegation-1.7134196?cmp=rss](https://www.cbc.ca/news/politics/rcmp-apology-jennifer-johner-sexual-assault-allegation-1.7134196?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T04:00:00+00:00
+
+<img alt="Jennifer Johner says she&apos;s been haunted by how the RCMP handled her sexual assault allegation more than two decades ago." height="349" src="https://i.cbc.ca/1.7134544.1709888379!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/jennifer-johner-3.JPG" title="Jennifer Johner says she&apos;s been haunted by how the RCMP handled her sexual assault allegation more than two decades ago." width="620" /><p>The RCMP is apologizing after an officer failed to properly investigate Jennifer Johner's claim 20 years ago that she was attacked while fighting off a sexual advance.</p>
+
+## Dead bodies are going unclaimed in Ontario, and the numbers are climbing
+ - [https://www.cbc.ca/news/canada/london/ontario-dead-bodies-numbers-increasing-1.7136677?cmp=rss](https://www.cbc.ca/news/canada/london/ontario-dead-bodies-numbers-increasing-1.7136677?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T04:00:00+00:00
+
+<img alt="A stock image of a coroner covering up a dead body with a white sheet in a hospital or morgue setting. " height="349" src="https://i.cbc.ca/1.7136736.1709841899!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/shutterstock-large-file.jpg" title="The number of bodies not getting claimed by loved ones is surging in Ontario. " width="620" /><p>Since 2019, there's been a 170 per cent increase in the number of dead people not being claimed by family, loved ones or organizations, according to Ontario's Office of the Chief Coroner, which has released its 2023 figures.</p>
+
+## Endangered sage grouse could soon disappear from the Canadian Prairies
+ - [https://www.cbc.ca/news/canada/edmonton/sage-grouse-endangered-alberta-saskatchewan-1.7136758?cmp=rss](https://www.cbc.ca/news/canada/edmonton/sage-grouse-endangered-alberta-saskatchewan-1.7136758?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T04:00:00+00:00
+
+<img alt="A brown with a white chest and fanned tail sits in a field. " height="349" src="https://i.cbc.ca/1.2483767.1709833759!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/sage-grouse-hunting.jpg" title="The emergency protection order grew out of a 2012 court case brought by several environmental groups to force the federal government to live up to its Species At Risk legislation." width="620" /><p>The greater sage grouse, which once numbered in the thousands in Western Canada, is coming perilously close to extinction on the Prairies, new government research shows.</p>
+
+## Federal government looked into airlifts to bring 12,000 Afghans to Canada after Kabul fell
+ - [https://www.cbc.ca/news/politics/afghanistan-kabul-airlift-1.7136729?cmp=rss](https://www.cbc.ca/news/politics/afghanistan-kabul-airlift-1.7136729?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T04:00:00+00:00
+
+<img alt="CBC News has learned the Canadian government was hoping to facilitate air travel out of Afghanistan at least up to spring 2022." height="349" src="https://i.cbc.ca/1.7136746.1709833255!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/taliban-at-airport.JPG" title="FILE PHOTO: Taliban forces patrol near the entrance gate of Hamid Karzai International Airport, a day after U.S troops withdrawal, in Kabul, Afghanistan August 31, 2021.  CBC News has learned the Canadian government was hoping to facilitate air travel out of Afghanistan at least up to a year later. REUTERS/Stringer/File Photo" width="620" /><p>Nearly a year after it closed its embassy in Afghanistan following Kabul's fall to the Taliban in 2021, the federal government was trying to plan flights out of the country to bring in an estimated 12,000 Afghans it believed were "current and future" clients of Immigration Canada, CBC News has learned.</p>
+
+## Hidden camera investigation reveals driving school instructors offering shortcuts to new drivers for a fee
+ - [https://www.cbc.ca/news/business/marketplace-driving-schools-education-fee-1.7134557?cmp=rss](https://www.cbc.ca/news/business/marketplace-driving-schools-education-fee-1.7134557?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T04:00:00+00:00
+
+<img alt="A hidden camera image of a blurred man showing his driving instructor licence. " height="349" src="https://i.cbc.ca/1.7135245.1709738069!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/marketplace-driving-school-hidden-camera.jpg" title="Marketplace met with a driving instructor who offered to help file information with the Ontario government saying drivers completed a Beginner Driver Education course without completing a single lesson." width="620" /><p>CBC’s Marketplace documented driving schools and instructors in Ontario offering a shortcut to beginner driver education certificates for a fee, making drivers eligible for insurance discounts and a reduced wait for road tests.</p>
+
+## Is Italy ready for cricket-powder pizza?
+ - [https://www.cbc.ca/news/world/cricket-powder-food-italy-1.7136422?cmp=rss](https://www.cbc.ca/news/world/cricket-powder-food-italy-1.7136422?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T04:00:00+00:00
+
+<img alt="A man slices a pizza on a counter." height="349" src="https://i.cbc.ca/1.7135534.1709813194!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cricket-pizza-italy.JPG" title="Chef Carlo Del Buono slices a vegetable pizza made with cricket powder, at La Rambla pizzeria in Maccarese, Italy. He says he&apos;ll call it a &apos;protein pizza&apos; on the menu." width="620" /><p>Italy greenlit the sale of insect products late last year, but included strict regulations on supermarket placement and labelling. One chef is already using cricket powder in his pizza.</p>
+
+## This disease is spiking in an Ontario city.  But there's a vaccine — if you can afford it
+ - [https://www.cbc.ca/news/health/meningitis-vaccine-kids-1.7135194?cmp=rss](https://www.cbc.ca/news/health/meningitis-vaccine-kids-1.7135194?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T04:00:00+00:00
+
+<img alt="A woman in a mask prepares a syringe" height="349" src="https://i.cbc.ca/1.7135224.1709736615!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/tph-school-vax-clinic.jpg" title="A Toronto Public Health nurse provides vaccinations at a clinic at the North York Civic Centre on Jan. 25, 2024." width="620" /><p>Can you put a price on protecting your children from a potentially deadly meningitis-causing bacteria? It's about $320, unless you happen to have private insurance that covers a vaccine recommended by public health officials in Kingston, Ont. — one of a handful of regions in Canada seeing a spike in local cases of invasive meningococcal disease.</p>
+
+## What happened to Malaysia Airlines Flight 370? 10 years after its disappearance, no one really knows
+ - [https://www.cbc.ca/news/world/mh370-10th-anniversary-1.7135415?cmp=rss](https://www.cbc.ca/news/world/mh370-10th-anniversary-1.7135415?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T04:00:00+00:00
+
+<img alt="A woman signs a blue board for MH370." height="349" src="https://i.cbc.ca/1.7135500.1709749789!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/malaysia-missing-plane-families.jpg" title="A woman writes well messages on the message board during the tenth annual remembrance event at a shopping mall, in Subang Jaya, on the outskirts of Kuala Lumpur, Malaysia, Sunday, March 3, 2024. Ten years ago, a Malaysia Airlines Flight 370, had disappeared March 8, 2014 while en route from Kuala Lumpur to Beijing with over 200 people on board. (AP Photo/FL Wong)" width="620" /><p>The disappearance of a plane carrying 239 passengers and crew has baffled experts for a decade, sparked wild conspiracy theories and triggered one of the largest searches in aviation history.</p>
+
+## Biden touts accomplishments in feisty state of the union, as he bids for 2nd White House term
+ - [https://www.cbc.ca/news/world/biden-state-of-the-union-2024-1.7137617?cmp=rss](https://www.cbc.ca/news/world/biden-state-of-the-union-2024-1.7137617?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-08T00:12:51+00:00
+
+<img alt="President Joe Biden stands speaks at a microphone, pointing a finger on his right hand, in the bottom right corner of the frame with Vice President Kamala Harris standing up and clapping in the upper left corner next to seated Speaker of the House Mike Johnson. " height="349" src="https://i.cbc.ca/1.7137633.1709867273!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/president-joe-biden-state-of-the-union-address.jpg" title="President Joe Biden delivers the State of the Union address to a joint session of Congress at the U.S. Capitol, Thursday March 7, 2024, in Washington, as Vice President Kamala Harris and House Speaker Mike Johnson of La., watch. " width="620" /><p>President Joe Biden delivered a defiant argument for a second term in his state of the union speech Thursday night, lacing into Republican front-runner Donald Trump for espousing "resentment, revenge and retribution" and for jeopardizing freedom at home and abroad.</p>
+
