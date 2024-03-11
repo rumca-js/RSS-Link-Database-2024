@@ -1,0 +1,24 @@
+# Source:Simon Willison's Weblog, URL:https://simonwillison.net/atom/everything, language:en-us
+
+## S3 is files, but not a filesystem
+ - [https://simonwillison.net/2024/Mar/10/s3-is-not-a-filesystem/#atom-everything](https://simonwillison.net/2024/Mar/10/s3-is-not-a-filesystem/#atom-everything)
+ - RSS feed: https://simonwillison.net/atom/everything
+ - date published: 2024-03-10T11:47:34+00:00
+
+<p><a href="https://calpaterson.com/s3.html">S3 is files, but not a filesystem</a></p>
+<p>Cal Paterson helps some concepts click into place for me: S3 imitates a file system but has a number of critical missing features, the most important of which is the lack of partial updates. Any time you want to modify even a few bytes in a file you have to upload and overwrite the entire thing. Almost every database system is dependent on partial updates to function, which is why there are so few databases that can use S3 directly as a backend storage mechanism.</p>
+
+    <p>Via <a href="https://lobste.rs/s/t9d5z4/s3_is_files_not_filesystem">Lobste.rs</a></p>
+
+## datasette/studio
+ - [https://simonwillison.net/2024/Mar/10/datasette-studio-on-codespaces/#atom-everything](https://simonwillison.net/2024/Mar/10/datasette-studio-on-codespaces/#atom-everything)
+ - RSS feed: https://simonwillison.net/atom/everything
+ - date published: 2024-03-10T03:03:42+00:00
+
+<p><a href="https://github.com/datasette/studio">datasette/studio</a></p>
+<p>I&#x27;m trying a new way to make Datasette available for small personal data manipulation projects using GitHub Codespaces.</p>
+
+<p>This repository is designed to be opened directly in Codespaces - detailed instructions in the README.</p>
+
+<p>When the container starts it installs the datasette-studio family of plugins - including CSV upload, some enrichments and a few other useful feature - then starts the server running and provides a big green button to click to access the server via GitHub&#x27;s port forwarding mechanism.</p>
+
