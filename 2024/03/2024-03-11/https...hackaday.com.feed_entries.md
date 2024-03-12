@@ -1,0 +1,65 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## Playing ZX Spectrum’s Manic Miner on the Arduino Uno
+ - [https://hackaday.com/2024/03/11/playing-zx-spectrums-manic-miner-on-the-arduino-uno](https://hackaday.com/2024/03/11/playing-zx-spectrums-manic-miner-on-the-arduino-uno)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-03-11T20:00:03+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="427" src="https://hackaday.com/wp-content/uploads/2024/03/manic_miner_arduino_uno_gameplay.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Although it seems many have moved on to 32-bit MCUs these days for projects, there is still a lot of fun to be had in the 8-bit AVR world, as <a class="read-more" href="https://hackaday.com/2024/03/11/playing-zx-spectrums-manic-miner-on-the-arduino-uno/">&#8230;read more</a>
+
+## Hack Makes Microwave Cookies Fast and Not Terrible
+ - [https://hackaday.com/2024/03/11/hack-makes-microwave-cookies-fast-and-not-terrible](https://hackaday.com/2024/03/11/hack-makes-microwave-cookies-fast-and-not-terrible)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-03-11T18:30:00+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/03/cookie.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Making a chocolate chip cookie is easy. Making a good chocolate chip cookie is a little harder. Making a good chocolate chip cookie quickly is a pretty tall order, but <a class="read-more" href="https://hackaday.com/2024/03/11/hack-makes-microwave-cookies-fast-and-not-terrible/">&#8230;read more</a>
+
+## Share Your Projects: KiCad Automations And Pretty Renders
+ - [https://hackaday.com/2024/03/11/share-your-projects-kicad-automations-and-pretty-renders](https://hackaday.com/2024/03/11/share-your-projects-kicad-automations-and-pretty-renders)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-03-11T17:00:13+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="464" src="https://hackaday.com/wp-content/uploads/2018/04/circuitvr.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>I have a pretty large GitHub repository, with all of my boards open-sourced there. Now, I&#8217;m finally facing the major problem it has &#8211; it can be uncomfortable for others <a class="read-more" href="https://hackaday.com/2024/03/11/share-your-projects-kicad-automations-and-pretty-renders/">&#8230;read more</a>
+
+## Generator Control Panel Unlocked with Reverse Engineering Heroics
+ - [https://hackaday.com/2024/03/11/generator-control-panel-unlocked-with-reverse-engineering-heroics](https://hackaday.com/2024/03/11/generator-control-panel-unlocked-with-reverse-engineering-heroics)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-03-11T15:30:00+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/03/generator_hack.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Scoring an interesting bit of old gear on the second-hand market is always a bit of a thrill &#8212; right up to the point where you realize the previous owner <a class="read-more" href="https://hackaday.com/2024/03/11/generator-control-panel-unlocked-with-reverse-engineering-heroics/">&#8230;read more</a>
+
+## On an Aging Space Station, Air Leaks Become Routine
+ - [https://hackaday.com/2024/03/11/on-an-aging-space-station-air-leaks-become-routine](https://hackaday.com/2024/03/11/on-an-aging-space-station-air-leaks-become-routine)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-03-11T14:00:24+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="484" src="https://hackaday.com/wp-content/uploads/2022/03/ISS.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Anyone who&#8217;s ever owned an older car will know the feeling: the nagging worry at the back of your mind that today might be the day that something important actually <a class="read-more" href="https://hackaday.com/2024/03/11/on-an-aging-space-station-air-leaks-become-routine/">&#8230;read more</a>
+
+## Reducing Seams In FDM Prints With Scarf Joint Seams
+ - [https://hackaday.com/2024/03/11/reducing-seams-in-fdm-prints-with-scarf-joint-seams](https://hackaday.com/2024/03/11/reducing-seams-in-fdm-prints-with-scarf-joint-seams)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-03-11T11:00:00+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="374" src="https://hackaday.com/wp-content/uploads/2024/03/scarf_joint_FDM_theory.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>One unavoidable aspect of FDM 3D printing is that each layer consists out of one or more lines that have a beginning and an end. Where these join up, a <a class="read-more" href="https://hackaday.com/2024/03/11/reducing-seams-in-fdm-prints-with-scarf-joint-seams/">&#8230;read more</a>
+
+## Measuring Nanometers at Home
+ - [https://hackaday.com/2024/03/11/measuring-nanometers-at-home](https://hackaday.com/2024/03/11/measuring-nanometers-at-home)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-03-11T08:00:00+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="625" src="https://hackaday.com/wp-content/uploads/2024/03/gap.png?w=780" style="margin: 0 auto; margin-bottom: 15px;" width="780" /></div>If someone asked you to measure a change in distance at about one ten thousandths of the diameter of a proton, you&#8217;d probably assume you would need access a high-tech <a class="read-more" href="https://hackaday.com/2024/03/11/measuring-nanometers-at-home/">&#8230;read more</a>
+
+## μRepRap: Taking RepRap Down to Micrometer-Level Manufacturing
+ - [https://hackaday.com/2024/03/10/%ce%bcreprap-taking-reprap-down-to-micrometer-level-manufacturing](https://hackaday.com/2024/03/10/%ce%bcreprap-taking-reprap-down-to-micrometer-level-manufacturing)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-03-11T05:00:00+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="426" src="https://hackaday.com/wp-content/uploads/2024/03/microreprap.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>When the RepRap project was started in 2005 by [Dr Adrian Bowyer], the goal was to develop low-cost 3D printers, capable of printing most of their own components. The project <a class="read-more" href="https://hackaday.com/2024/03/10/%ce%bcreprap-taking-reprap-down-to-micrometer-level-manufacturing/">&#8230;read more</a>
+
+## Got to Go Fast: The Rise of Super-Fast FPV Drones
+ - [https://hackaday.com/2024/03/10/got-to-go-fast-the-rise-of-super-fast-fpv-drones](https://hackaday.com/2024/03/10/got-to-go-fast-the-rise-of-super-fast-fpv-drones)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-03-11T02:00:00+00:00
+
+<div><img alt="Fastest FPV drone, pending official confirmation. (Credit: Luke Maximo Bell)" class="attachment-large size-large wp-post-image" height="369" src="https://hackaday.com/wp-content/uploads/2024/03/fastest_fpv_drone_luke_bell.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Generally when one considers quadcopter drones, the term &#8216;fast&#8217; doesn&#8217;t come to mind, but with the rise of FPV  (First Person View) drones, they have increasingly been designed to go <a class="read-more" href="https://hackaday.com/2024/03/10/got-to-go-fast-the-rise-of-super-fast-fpv-drones/">&#8230;read more</a>
+

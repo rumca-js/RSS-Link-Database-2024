@@ -1,0 +1,121 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## Rise Of The Ronin Is A Cat Lover’s Paradise
+ - [https://kotaku.com/rise-ronin-ps5-cats-folklore-increase-powers-gear-1851325827](https://kotaku.com/rise-ronin-ps5-cats-folklore-increase-powers-gear-1851325827)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T22:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/23475e69650df196d1030a937e8ef790.jpg" /><p>Just as I arrive in Yokohama, one of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/rise-of-the-ronin-release-date-game-awards-trailer-1851085777">Rise of the Ronin</a>’s three major cities, I hear a soft meowing in the distance. Spurred by what must be the cutest of cats, I sprint off in the direction of the mews when I encounter a dilapidated bandit camp. I kill everyone there, not just because the game’s swordplay is…</p><p><a href="https://kotaku.com/rise-ronin-ps5-cats-folklore-increase-powers-gear-1851325827">Read more...</a></p>
+
+## Dataminer Discovers Alternate Elden Ring Intro
+ - [https://kotaku.com/elden-ring-fans-uncover-game-secrets-alt-intro-1851326601](https://kotaku.com/elden-ring-fans-uncover-game-secrets-alt-intro-1851326601)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T21:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ed161ceba2dd6c76ecf999f3187171db.jpg" /><p>I thought we were done with the base <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/elden-ring-fromsoftware-review-hidetaka-miyazaki-dark-s-1848694257">Elden Ring</a> narrative and, instead, had moved onto figuring out <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/elden-ring-shadow-of-the-erdtree-dlc-trailer-details-1851275252">the Shadow of the Erdtree clues</a> director Hidetaka Miyazaki left behind. But it turns out that FromSoftware’s magnum opus really is an endless treasure trove of cool lore and interesting stories, as a dataminer has…</p><p><a href="https://kotaku.com/elden-ring-fans-uncover-game-secrets-alt-intro-1851326601">Read more...</a></p>
+
+## FF7 Rebirth: All Cactuar Caper Locations In Costa Del Sol
+ - [https://kotaku.com/final-fantasy-7-rebirth-cactuar-caper-locations-1851326489](https://kotaku.com/final-fantasy-7-rebirth-cactuar-caper-locations-1851326489)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f351ab4404da9b67631e9cbf3f82331c.jpg" /><p>In Chapter 6 of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-rebirth-review-ps5-1851276129">Final Fantasy VII Rebirth</a>, the latest in the ongoing <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/ff7-final-fantasy-7-remake-rebirth-should-you-play-1851177768">remake project</a> of the 1997 RPG, you’ll be tasked with earning your way onto the ritzy beach by unlocking some appropriate beach attire. In order to do so, you’ll have to complete a few mini-games. </p><p><a href="https://kotaku.com/final-fantasy-7-rebirth-cactuar-caper-locations-1851326489">Read more...</a></p>
+
+## Dragon’s Dogma 2 Sickos Are Making Their Favorite Characters In-Game
+ - [https://kotaku.com/dragons-dogma-2-character-creator-celebrities-1851326312](https://kotaku.com/dragons-dogma-2-character-creator-celebrities-1851326312)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T20:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/baf8291096288fa15f18c5db2a10991d.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/dragon-dogma-2-preview-1851309086">Dragon’s Dogma 2</a> is the latest in a surprisingly long line of 2024 RPGs that are trying to suck up all my free time. Before it’s even launched, Capcom’s released the game’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/dragons-dogma-2-free-character-creator-storage-1851319737">character creator</a> free of charge, proving that this game is going to be a lovely time suck. We know the upcoming RPG is massive, with <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/dragons-dogma-2-mystic-spearhand-strider-class-capcom-1851321764">vastly…</a></p><p><a href="https://kotaku.com/dragons-dogma-2-character-creator-celebrities-1851326312">Read more...</a></p>
+
+## Godzilla Was The True Golden Boy Of The Oscars
+ - [https://kotaku.com/oscars-2024-godzilla-minus-one-action-figures-shoes-1851326296](https://kotaku.com/oscars-2024-godzilla-minus-one-action-figures-shoes-1851326296)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ee00625be0850c9b18e1d5d80f65b339.png" /><p>The <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/oscar-winners-2024-oppenheimer-poor-things-barbie-1851321251">Oscars award ceremony</a> is a night for the stars of Hollywood to gather together and celebrate cinema, while also looking incredibly glamorous is lavishly expensive and immaculately presented couture. And yet no one at last nights awards—no one—could beat the hottest look of the night: a soft <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/super7-godzilla-minus-one-ultimates-price-release-date-1851058355">vinyl monster toy</a> spray…</p><p><a href="https://kotaku.com/oscars-2024-godzilla-minus-one-action-figures-shoes-1851326296">Read more...</a></p>
+
+## The Week In Games: A Star Wars Classic Returns & More New Releases
+ - [https://kotaku.com/march-games-this-week-llamasoft-star-wars-battlefront-1851326176](https://kotaku.com/march-games-this-week-llamasoft-star-wars-battlefront-1851326176)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8de249df93ef0e496d69c1813dcd1970.jpg" /><p><a href="https://kotaku.com/march-games-this-week-llamasoft-star-wars-battlefront-1851326176">Read more...</a></p>
+
+## Fallout Show Creators ‘Know All About Fallout 5’
+ - [https://kotaku.com/fallout-5-show-todd-howard-amazon-1851325762](https://kotaku.com/fallout-5-show-todd-howard-amazon-1851325762)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T17:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4c2489be5dbe38f7f23638766ffe9f66.jpg" /><p>The press cycle for Amazon’s upcoming <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/fallout-amazon-show-trailer-breakdown-1851316282">Fallout</a> TV show is in full swing, and a side effect is that we’re already getting some morsels of information about upcoming games. Co-creator Jonathan Nolan recently claimed that the upcoming series was essentially “<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/fallout-prime-series-fallout-5-1851300965">Fallout 5</a>,” which set off some alarms for folks for some reason.</p><p><a href="https://kotaku.com/fallout-5-show-todd-howard-amazon-1851325762">Read more...</a></p>
+
+## Sydney Sweeney's Boobs Are Being Used To Spread Malware On Twitter
+ - [https://kotaku.com/sydney-sweeney-boobs-nude-leak-twitter-malware-adware-1851325652](https://kotaku.com/sydney-sweeney-boobs-nude-leak-twitter-malware-adware-1851325652)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b9c4d820836fb44a43ea4a2feb8f7440.jpg" /><p>According to a new report, a lot of people are trying to find images of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/madame-web-movie-reviews-rotten-tomatoes-reaction-1851264337">Madame Web</a> star Sydney Sweeney’s bare breasts on X, formerly Twitter, and a load of hackers, trolls, and other nefarious players are taking advantage of this <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/why-everyones-horny-for-hades-1845245468">horny</a> search and filling the social media site with malware links.<br /></p><p><a href="https://kotaku.com/sydney-sweeney-boobs-nude-leak-twitter-malware-adware-1851325652">Read more...</a></p>
+
+## Final Fantasy XVI PC Port Is In ‘Final Stages,’ Producer Says
+ - [https://kotaku.com/final-fantasy-16-pc-version-1851325538](https://kotaku.com/final-fantasy-16-pc-version-1851325538)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/141f2e43f03550b9d27ee273f1346a2c.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/review-final-fantasy-16-ffxvi-ps5-rpg-release-date-1850558485">Final Fantasy XVI</a>, the latest mainline entry in Square Enix’s iconic <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/best-final-fantasy-games-rpg-7-6-10-12-square-enix-ff-1850560934">RPG franchise</a>, released in June of last year for PS5, but PC players are still waiting to find out when they’ll get their hands on the game. Well that time might be coming sooner rather than later, according to producer <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/ffxvi-square-enix-naoki-yoshida-ff16-release-date-1849744847">Naoki Yoshida</a>. In a recent <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.gameinfor
+
+## The Best Mario Games, According To You
+ - [https://kotaku.com/best-mario-games-galaxy-world-64-sunshine-kart-odyssey-1851325267](https://kotaku.com/best-mario-games-galaxy-world-64-sunshine-kart-odyssey-1851325267)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T16:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/53b9d707af59825fb5ff5dc4a31aee87.jpg" /><p>Another Mar10 Day has come and gone, and with it came several surprisingly <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/mario-day-2024-movie-sequel-switch-online-lego-1851324929">big announcements</a>. While Nintendo celebrated the Italian plumber’s holiday by solidifying release dates for the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/paper-mario-thousand-year-door-switch-remake-direct-1850838071">Paper Mario: The Thousand Year Door remake</a> and officially announcing a new animated movie, we here at Kotaku celebrated by asking…</p><p><a href="https://kotaku.com/best-mario-games-galaxy-world-64-sunshine-kart-odyssey-1851325267">Read more...</a></p>
+
+## Yu-Gi-Oh And Hello Kitty Combine In New McDonald’s Happy Meal Crossover
+ - [https://kotaku.com/yugioh-hello-kitty-mcdonalds-happy-meal-toys-1851325182](https://kotaku.com/yugioh-hello-kitty-mcdonalds-happy-meal-toys-1851325182)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T15:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bcab54ab7b950e660b53dd6fdced3f37.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/mcdonalds-grimaces-birthday-gameboy-free-game-pc-1850534656">McDonald’s latest attempt at getting kids</a> (and weebs) excited about eating at the fast-food chain involves mixing Hello Kitty characters with <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/yugioh-kazuki-takahashi-duel-monsters-1849152770">Yu-Gi-Oh</a> creatures to create new Happy Meal toys as part of a limited-time collaboration.</p><p><a href="https://kotaku.com/yugioh-hello-kitty-mcdonalds-happy-meal-toys-1851325182">Read more...</a></p>
+
+## Ex-PlayStation Boss Has Mixed Feelings About Console Exclusives
+ - [https://kotaku.com/sony-playstation-shawn-layden-console-exclusive-1851325009](https://kotaku.com/sony-playstation-shawn-layden-console-exclusive-1851325009)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5019a1f8095fea8b50102a26a657e597.jpg" /><p>During the PS4 and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/sony-playstation-ps5-2023-spider-man-2-naughty-dog-1851102763">PS5</a> era, PlayStation has established itself as a destination platform for exclusive series like <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/marvel-spider-man-2-review-ps5-venom-miles-morales-1850929271">Spider-Man</a>, God of War, and The Last of Us. And now, former PlayStation boss Shawn Layden, who ran Sony’s gaming division from 2014 to 2019, has shared some ambivalent opinions on the nature of console…</p><p><a href="https://kotaku.com/sony-playstation-shawn-layden-console-exclusive-1851325009">Read more...</a></p>
+
+## Former Activision Boss Bobby Kotick Wants To Buy Tiktok: Report
+ - [https://kotaku.com/tiktok-sale-bobby-kotick-1851325000](https://kotaku.com/tiktok-sale-bobby-kotick-1851325000)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/afb44d8e16cb87c2de0a74d1889587a7.jpg" /><p>TikTok is in an exceptionally tough spot these days. Despite everyone you know using it for hours on end, the video-sharing app is currently facing legislation that would force its ban in the U.S pending a potential sale, and prospective buyers are lining up. Regrettably, one of these buyers is reportedly <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/activision-blizzard-bobby-kotick-xbox-controversy-1851133675">Bobby Kotick</a>,…</p><p><a href="https://kotaku.com/tiktok-sale-bobby-kotick-1851325000">Read more...</a></p>
+
+## Everything Nintendo Announced On Mario Day 2024
+ - [https://kotaku.com/mario-day-2024-movie-sequel-switch-online-lego-1851324929](https://kotaku.com/mario-day-2024-movie-sequel-switch-online-lego-1851324929)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d8f801cb2899b73ac4e8787110e85381.jpg" /><p>Over the weekend Nintendo celebrated its annual <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://twitter.com/NintendoAmerica/status/1766909650480349386" rel="noopener noreferrer" target="_blank">Mario Day</a> celebration on March 10. That celebration included a cornucopia of sales on Switch games and accessories—some of which you can still take advantage of by checking out our <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/mario-day-sales-switch-games-accessories-1851319986">sales guide</a>— and a few surprise announcements from Nintendo itself in honor of the beloved…</p><p><a href="https://kotaku.com/mario-day-2024-movie-sequel-switch-online-lego-1851324929">Read more...</a></p>
+
+## Multiversus, WB's Smash Clone, Is Coming Back This Spring
+ - [https://kotaku.com/multiversus-release-date-smash-bros-unreal-pve-rollback-1851324881](https://kotaku.com/multiversus-release-date-smash-bros-unreal-pve-rollback-1851324881)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/dfc74e8e095f188fcebef74bd4f489d9.jpg" /><p>After going away <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/multiversus-shut-down-refund-season-crash-team-warner-1850270501">for almost a full year</a> in 2023, Multiversus, the free-to-play Warner Bros. Super Smash Bros-esque brawler, is coming back. Developer Player First Games has released a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.youtube.com/watch?v=W1Yx-Cz0l9U" rel="noopener noreferrer" target="_blank">new developer diary video</a> confirming the game will relaunch on May 28.<br /></p><p><a href="https://kotaku.com/multiversus-release-date-smash-bros-unreal-pve-rollback-1851324881">Read more...</a></p>
+
+## FF7 Rebirth Has More In Common With 2022’s Best RPG Than You Think
+ - [https://kotaku.com/ff7-rebirth-scale-environments-xenoblade-chronicles-3-1851321496](https://kotaku.com/ff7-rebirth-scale-environments-xenoblade-chronicles-3-1851321496)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5fc4b764058a355bc2d1893af2828035.jpg" /><p>Stepping out into the seaside region of Junon at the start of chapter four of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/ff7-rebirth-towns-ranked-vibes-1851297637">Final Fantasy VII Rebirth</a>, I can feel the sun beaming down on <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-cloud-strife-dad-glenn-lodbrok-rebirth-1851278721">Cloud</a> and the gang as it was setting along the ocean’s horizon and painting the fields in a soothing orange glow. The craggy cliffs pave routes for my new rock-climbing <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-rebirth-chocobo-ice-cream-1851298647">chocobo</a> to…</p><p><a href="https://kotaku.com/ff7-rebirth-scale-environments-xenoblade-chronicles-3-1851321496">Read mor
+
+## Switch 2 Needs To Let Mario's Buddies Shine
+ - [https://kotaku.com/switch-2-mario-day-luigi-peach-wario-waluigi-1851321393](https://kotaku.com/switch-2-mario-day-luigi-peach-wario-waluigi-1851321393)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-11T13:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b8f889f5e1630a606f3c462d6aef050d.jpg" /><p>Every <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/mario-day-sales-switch-games-accessories-1851319986">March 10</a> (MAR10), we gather around and sing the praises of Nintendo’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/nintendo-switch-super-mario-bros-best-ranked-odyssey-1850286446">Mario series</a> and its eponymous hero, and for good reason! <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/super-mario-bros-best-nintendo-switch-odyssey-galaxy-1850356723">Mario and his respective franchise</a> are basically the unofficial mascot for all of video games, and there’s little the guy hasn’t done over the years. Beginning as a beleaguered, but…</p><p><a href="https://kotaku.com/switch-2-mario-day-luigi-peach-wario-waluigi-1851321393">Re
+

@@ -1,0 +1,146 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## Norwegian BankID digital ID now biometric, available on smartphones
+ - [https://www.biometricupdate.com/202403/norwegian-bankid-digital-id-now-biometric-available-on-smartphones](https://www.biometricupdate.com/202403/norwegian-bankid-digital-id-now-biometric-available-on-smartphones)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T22:08:16+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1138" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/03/11180417/bankid-norway.png" width="1711" />
+		Norway’s biggest digital identity provider, BankID, is coming to smartphones.
+
+Starting on Monday, the platform is rolling out a feature allowing users to scan their passports or national ID cards into the BankID app. Users also enroll their biometrics for comparison with the ID document and subsequent authentications. The digital document can be presented at post offices and government-owned alcoholic beverages retailer Vinmonopolet, among more than 100 services.
+
+BankID is also hoping to become the preferred way to pick up medication at pharmacies. <a href="https://www.tek.no/nyheter/nyhet/i/dwx9JO/bankid-skal-gi-deg-digital-id-paa-mobilen">according </a>to Norwegian media outlet Tek.no. Norwegians can already pick up prescription medication by showing their driver's 
+
+## Ethiopia begins issuing refugees digital ID cards to facilitate service access
+ - [https://www.biometricupdate.com/202403/ethiopia-begins-issuing-refugees-digital-id-cards-to-facilitate-service-access](https://www.biometricupdate.com/202403/ethiopia-begins-issuing-refugees-digital-id-cards-to-facilitate-service-access)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T21:30:12+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1286" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/28125132/ethiopia-fayda-biometric-registration.jpg" width="1938" />
+		The distribution of digital ID cards to Ethiopian refugees and returnees, as part of a pilot with tripartite support, has begun in the country’s capital Addis Ababa.
+
+The cards, which contain a unique identification number dubbed Fayda, are intended to enable this category of persons get access to importance social services, according to an announcement by the UN Refugees Agency (UNHCR).
+
+The plan is to distribute digital IDs to 77,000 refugees living in the capital, before extending the distribution to about one million others mainly coming from neighbouring countries like Eritrea, Somalia, South Sudan and Sudan. It was unveiled last year following the <a href="https://www.biometricupdate.com/202310/ethiopia-to-give-refugees-digital-id-to-improv
+
+## Delhi airport adds more Digi Yatra checkpoints amid concerns over security breaches
+ - [https://www.biometricupdate.com/202403/delhi-airport-adds-more-digi-yatra-checkpoints-amid-concerns-over-security-breaches](https://www.biometricupdate.com/202403/delhi-airport-adds-more-digi-yatra-checkpoints-amid-concerns-over-security-breaches)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T19:07:19+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1062" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/10142814/india-airports-digi-yatra.png" width="1900" />
+		India’s largest airport has unveiled a new expansion and with it, more checkpoints utilizing biometric security clearance system Digi Yatra.
+
+The expansion of Terminal 1 will allow the Indira Gandhi International Airport in Delhi to handle 100 million passengers. The newly expanded terminal will have Digi Yatra at all entry gates alongside a host of other self-service systems, LiveMint <a href="https://www.livemint.com/news/india/delhi-airport-will-now-handle-100-mn-passengers-with-expanded-terminal-1-11710057719254.html">reported</a> last Sunday.
+
+"Through this project, we have reimagined a seamless journey facilitated by facial recognition, self-service kiosks, and automated baggage systems," says Prabhakara Rao, group deputy managing director at GMR Group
+
+## Ghana EC finally aborts plan to require national ID for upcoming voter registration
+ - [https://www.biometricupdate.com/202403/ghana-ec-finally-aborts-plan-to-require-national-id-for-upcoming-voter-registration](https://www.biometricupdate.com/202403/ghana-ec-finally-aborts-plan-to-require-national-id-for-upcoming-voter-registration)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T18:26:29+00:00
+
+<img alt="ghana-biometric-voter-verification-africa" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="504" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/19162937/ghana-biometric-voter-verification-africa.jpeg" width="880" />
+		The Electoral Commission of Ghana (EC) will not go ahead with its plan to make the Ghana Card the only identity credential allowed for voter registration.
+
+This decision was arrived at last week during an Inter-Party Advisory Committee meeting held in Accra and presided over by EC Chairperson Jean Mensa, as <a href="https://gna.org.gh/2024/03/election-2024-ec-shelves-use-of-ghana-card-as-sole-identity-document/">reported</a> by the Ghana News Agency (GNA).
+
+This development puts an end to <a href="https://www.biometricupdate.com/202304/ec-presses-on-with-plan-to-make-ghana-card-lone-id-for-voter-registration">a lingering battle</a> by the EC to push through a Constitutional Instrument (CI) which sought 
+
+## Burkina Faso’s digital transformation gets $150M World Bank support
+ - [https://www.biometricupdate.com/202403/burkina-fasos-digital-transformation-gets-150m-world-bank-support](https://www.biometricupdate.com/202403/burkina-fasos-digital-transformation-gets-150m-world-bank-support)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T18:11:17+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1157" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/03/11140233/world-bank-ida-scaled.jpg" width="2048" />
+		Efforts by the government of Burkina Faso to speed up the country’s digital public infrastructure (DPI) pursuits will receive financial backing from the World Bank through the <a href="https://ida.worldbank.org/">International Development Association</a> (IDA).
+
+The funds, totaling $150 million, were approved by the Bretton Woods institution early this year, and they’ll be used to improve access to infrastructure, public services, and digital skills in the West African country under a project labelled “Digital Acceleration Project.”
+
+With the World Bank funding, the Burkinabé government will be able to expand digital connectivity in order to provide services aimed at vulnerable populations such as internally displaced persons (IDPs) and underserved communities w
+
+## Biometrics stocks: quarterlies, annuals, SEC actions
+ - [https://www.biometricupdate.com/202403/biometrics-stocks-quarterlies-annuals-sec-actions](https://www.biometricupdate.com/202403/biometrics-stocks-quarterlies-annuals-sec-actions)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T18:04:38+00:00
+
+<img alt="stock-market" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="501" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/09172121/stock-market.jpg" width="890" />
+		<em>March 11, 2024 - </em><a href="https://www.biometricupdate.com/companies/onespan">OneSpan</a> neatly nipped off a fourth quarter loss that it recorded in fiscal 2022, but its unaudited loss for 2023 was twice that of fiscal 2022. Despite the disappointing annual figure, there was room for broader optimism in the coming year.
+
+For the year ended December 31, 2023, the cybersecurity company <a href="https://investors.onespan.com/news-releases/news-release-details/onespan-reports-fourth-quarter-and-full-year-2023-financial">reported</a> a $29.7 million loss, or $0.74 cents per basic and diluted share, on revenue of $235.1 million. OneSpan reported a $14.4 million loss, or $0.36, for the preceding year, on revenue of $219 million for the same period a year ago.
+
+## Worldcoin fights Spanish regulator’s ban in court
+ - [https://www.biometricupdate.com/202403/worldcoin-fights-spanish-regulators-ban-in-court](https://www.biometricupdate.com/202403/worldcoin-fights-spanish-regulators-ban-in-court)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T17:52:02+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1030" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/19134925/worldcoin-orb.jpg" width="1374" />
+		After the Spanish data protection regulator temporarily <a href="https://www.biometricupdate.com/202403/spain-is-the-latest-country-to-block-worldcoin-over-data-protection-concerns">banned</a> Worldcoin from collecting personal information last week, the biometric-based cryptocurrency and proof-of-personhood project has hit back with a lawsuit against the agency.
+
+<a href="https://www.biometricupdate.com/companies/worldcoin">Worldcoin</a> developer Tools for Humanity <a href="https://worldcoin.org/blog/worldcoin/worldcoin-aepd-spain">announced</a> on Friday that it filed a suit against the order from the Agencia Española de Protección de Datos (AEPD).
+
+“It is unfortunate that the Spanish data protection authority (AEPD) is circumventing established procedures under GDPR
+
+## Telangana police tender a big biometric upgrade with a short turnaround
+ - [https://www.biometricupdate.com/202403/telangana-police-tender-a-big-biometric-upgrade-with-a-short-turnaround](https://www.biometricupdate.com/202403/telangana-police-tender-a-big-biometric-upgrade-with-a-short-turnaround)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T17:40:52+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="793" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/03/11131600/Telangana-police-fingerprint-bureau.png" width="1062" />
+		The Indian state of Telangana has <a href="https://tsts.telangana.gov.in/tenders/1287/pdf/21e462b3591c3fd96385e3e7e89542ae.pdf">published</a> a rushed tender call to upgrade the police’s automated multimodal biometric identification hardware and software.
+
+The state’s Finger Print Bureau wants to hear from service firms interested in updating the OEM system in place. Submissions have to be on the government’s procurement portal by March 18.
+
+Officials want an overnight changeover, at least during a five-station pilot.
+
+The automated print ID system, made by Russia-based <a href="https://papillonsystems.com/">Papillon</a>, is used in state districts to process chance fingerprints collected at crime scenes. It is off warranty and legislation subsequen
+
+## Texas’ online age verification law upheld on appeal
+ - [https://www.biometricupdate.com/202403/texas-online-age-verification-law-upheld-on-appeal](https://www.biometricupdate.com/202403/texas-online-age-verification-law-upheld-on-appeal)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T16:40:24+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/13150618/teen-tablet-scaled.jpg" width="2048" />
+		Imposing age verification for access to pornography does not violate the First Amendment, according to the U.S. Court of Appeals for the Fifth Circuit.
+
+The <a href="https://www.texasattorneygeneral.gov/sites/default/files/images/press/Age%20Verification%205th%20Circuit%20Opinion.pdf">appellate court decision</a> partially overturns an injunction placed on the bill by a <a href="https://www.biometricupdate.com/202309/texas-law-paused-age-verification-for-porn-sites-put-on-hold">district court</a> at the end of last August.  The Fifth Circuit had granted a stay on the injunction in November, allowing the state to enforce the law pending the latest decision.
+
+The court upheld an injunction against requiring health warnings to be displayed on all pornographic websites
+
+## New chief execs appointed at Fingerprint Cards, Socure, Proof and Liminal
+ - [https://www.biometricupdate.com/202403/new-chief-execs-appointed-at-fingerprint-cards-socure-proof-and-liminal](https://www.biometricupdate.com/202403/new-chief-execs-appointed-at-fingerprint-cards-socure-proof-and-liminal)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T16:14:53+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="947" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/28142030/appointments-new-jobs-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/fingerprint-cards-ab">Fingerprint Cards</a> says <a href="https://www.linkedin.com/in/fredrikhhedlund/">Fredrik Hedlund</a> will be its new chief financial officer, effective March 18.
+
+“I am energized to join Fingerprints’ executive leadership team,” Hedlund <a href="https://www.fingerprints.com/2024/03/11/fingerprint-cards-ab-publ-appoints-fredrik-hedlund-as-cfo-2403111108/">said</a> in a company statement. He replaces Per Sundqvist.
+
+Fingerprint Cards CEO Adam Philpott said Hedlund’s experience “transforming businesses” would be an important skill. The new CFO has 25 years of experience in corporate finance and operational roles.
+
+<a href="https://www.biometricupdate.com/companies/socure">Socure</a>, me
+
+## This is what AI needs to become the primary tool for police investigations
+ - [https://www.biometricupdate.com/202403/this-is-what-ai-needs-to-become-the-primary-tool-for-police-investigations](https://www.biometricupdate.com/202403/this-is-what-ai-needs-to-become-the-primary-tool-for-police-investigations)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T10:12:58+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/11164314/crime-scene-scaled.jpg" width="2048" />
+		<em>By </em><em>Jan Lunter, CEO at <a href="https://www.innovatrics.com/">Innovatrics</a></em>
+
+Back in 2023, Crime and Policing Minister of the UK, <a href="https://www.gov.uk/government/news/police-urged-to-double-ai-enabled-facial-recognition-searches#:~:text=AI%20technology%2C%20such%20as%20facial,and%20carrying%20out%20complex%20investigations.">Chris Philp</a>, emphasized, “AI technology is a powerful tool for good, with huge opportunities to advance policing and cut crime. We are committed to making sure police have the systems they need to solve and prevent crimes, bring offenders to justice, and protect the public.”
+
+AI enables law enforcement to reach these goals in several ways. For starters, AI-driven <a href="https://www.biometricupdate.com/202402/expa
+
+## EyeLock and GalvanEyes merge to create BioCenturion LLC
+ - [https://www.biometricupdate.com/202403/eyelock-and-galvaneyes-merge-to-create-biocenturion-llc](https://www.biometricupdate.com/202403/eyelock-and-galvaneyes-merge-to-create-biocenturion-llc)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-03-11T10:01:07+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1408" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/07140653/iris-biometric-scaled.jpg" width="2048" />
+		VOXX International subsidiary <a href="https://www.biometricupdate.com/companies/eyelock-inc">EyeLock LLC</a>, which provides iris biometrics for identity verification, has announced its merger with GalvanEyes Partners LLC to form a new company, BioCenturion LLC. The joint venture agreement will see the companies combine their technology, R&amp;D, sales, marketing, and business development units, with an eye to new avenues for growth.
+
+<a href="https://www.galvaneyesbiometric.com/about-galvaneyes/">GalvanEyes</a> was already the <a href="https://www.biometricupdate.com/202105/eyelock-signs-iris-biometrics-distribution-deal-with-galvaneyes">exclusive distributor of EyeLock products</a> in the EU, Switzerland, Puerto Rico, Malaysia and Singapore. The new joint ven
+
