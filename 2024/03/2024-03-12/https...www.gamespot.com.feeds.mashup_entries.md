@@ -1,0 +1,254 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## New Disney Plus Star Wars And Marvel 4K Blu-Rays Are Up For Preorder Now
+ - [https://www.gamespot.com/articles/new-disney-plus-star-wars-and-marvel-4k-blu-rays-are-up-for-preorder-now/1100-6521604/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-disney-plus-star-wars-and-marvel-4k-blu-rays-are-up-for-preorder-now/1100-6521604/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T22:50:00+00:00
+
+<div class="norewrite" title="6521604 - More Disney Plus Shows To Blu-ray">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4268867-falcon.jpg" />                                 <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.walmart.com/ip/The-Falcon-and-the-Winter-Soldier-The-Complete-First-Season-4K-Ultra-HD/5321227128&amp;p=http://www.gamespot.com/feeds/news/&amp;ref=&amp;event_type=click"></a>                              </div>                   <
+
+## Disney Dreamlight Valley: How To Change The Time Of Day
+ - [https://www.gamespot.com/articles/disney-dreamlight-valley-how-to-change-the-time-of-day/1100-6521794/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/disney-dreamlight-valley-how-to-change-the-time-of-day/1100-6521794/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T22:10:00+00:00
+
+<p><a href="https://www.gamespot.com/games/disney-dreamlight-valley/">Disney Dreamlight Valley</a> provides cozy game enthusiasts plenty of tasks to keep up with to ensure there's always something to cross off a checklist. But because the game runs on a real-time clock, those who can only play during one time of day will often miss an opportunity to enjoy their valley when it's sunny. Luckily, you can head into your menu to change the time of day in Disney Dreamlight Valley, and we'll tell you where to find this setting below.</p><h2>How to change the time of day in Disney Dreamlight Valley</h2><p>To change the time of day in Disney Dreamlight Valley, all you have to do is open your menu and navigate to <strong>Settings</strong>. Scroll down to <strong>Graphics</strong> to find the <strong>"Offset Time of Day"</strong> slider. Once you've accessed this menu, you can offset the time of day twelve hours ahead or twelve hours behind the current time. You can then set it back to 
+
+## WWE 2K24 Feature Has Players Uploading Porn To The Game
+ - [https://www.gamespot.com/articles/wwe-2k24-feature-has-players-uploading-porn-to-the-game/1100-6521806/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wwe-2k24-feature-has-players-uploading-porn-to-the-game/1100-6521806/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T21:33:00+00:00
+
+<p><a href="https://www.gamespot.com/games/wwe-2k24/">WWE 2K24</a> launched last week, but in the game's community creations hub, some players are already up to their old tricks. The new Create-A-Sign feature allows users to create and share custom signs for audience NPCs to hold during matches. Instead of having signs with the usual WWE banter on them, some players are uploading sexually explicit images.</p><p dir="ltr">It's worth noting that there is a system that allows players to flag content as inappropriate, but despite that, many of them have made their way to the top of the Most Downloaded and Most Upvoted pages. Some images are featured prominently despite even being days old, making it unclear whether the flagging system is unreliable or if players just aren't flagging them in the first place.</p><p>WWE 2K is rated T by the ESRB, but wrestling games are often played by younger kids, and in any event, the sexually explicit content exceeds even an M rating. Having adu
+
+## Video Game Industry Layoffs Are Worse Than Ever. How Did We Get Here?
+ - [https://www.gamespot.com/articles/video-game-industry-layoffs-are-worse-than-ever-how-did-we-get-here/1100-6521799/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/video-game-industry-layoffs-are-worse-than-ever-how-did-we-get-here/1100-6521799/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T21:00:00+00:00
+
+<p dir="ltr">On February 27, Sony announced it would lay off 900 people across its worldwide games business, affecting several games studios. Among them were Naughty Dog and Insomniac Games, both of which had just released big, noteworthy titles--<a href="https://www.gamespot.com/games/marvels-spider-man-2/">Marvel's Spider-Man 2</a> launched in October to audience and critical acclaim, while <a href="https://www.gamespot.com/games/the-last-of-us-part-ii/">The Last of Us Part II Remastered</a> dropped in January with an updated version that included new content. The Sony layoffs constituted some 8% of the people working in its games division.</p><p dir="ltr">On February 28, Electronic Arts announced it would lay off 670 people--5% of its workforce. In a statement to staff, CEO Andrew Wilson said EA is "moving away from development of future licensed IP [intellectual property] that we do not believe will be successful in our changing industry." In <a href="https://ir.ea.com/pr
+
+## Cult of the Lamb Is Expanding Beyond Games
+ - [https://www.gamespot.com/articles/cult-of-the-lamb-is-expanding-beyond-games/1100-6521804/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cult-of-the-lamb-is-expanding-beyond-games/1100-6521804/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T19:16:00+00:00
+
+<p>The eerie yet cute vibes of <a href="https://www.gamespot.com/games/cult-of-the-lamb/">Cult of the Lamb</a> are expanding beyond games. In collaboration with Oni Press, publisher Devolver Digital has announced a series of comics and graphic novels based around developer Massive Monster's roguelite.</p><p>The "ongoing publishing program," according to a press release, is kicking things off with the graphic novel Cult of the Lamb: The First Verse, which has its own <a href="https://www.kickstarter.com/projects/onipress/cult-of-the-lamb">Kickstarter</a> campaign. The $10,000 goal was surpassed <a href="https://x.com/OniPress/status/1767553736392516075?s=20">minutes after launch</a>, and bonuses include variant covers, slipcased editions, and an array of related merch.</p><p>The First Verse features writer Alex Paknadel (All Against All, Red Goblin) and artist Troy Little (Rick and Morty vs. Dungeons &amp; Dragons, Fear &amp; Loathing in Las Vegas), set on expanding the game's
+
+## Scream 7 Brings Back Long-Time Star Neve Campbell After Skipping Last Movie
+ - [https://www.gamespot.com/articles/scream-7-brings-back-long-time-star-neve-campbell-after-skipping-last-movie/1100-6521803/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/scream-7-brings-back-long-time-star-neve-campbell-after-skipping-last-movie/1100-6521803/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T19:11:00+00:00
+
+<p dir="ltr">Scream franchise star Neve Campbell is set to reprise her iconic role as Sidney Prescott in the upcoming seventh installment of the series. The announcement came via <a href="https://www.instagram.com/p/C4bG052PMhE/?hl=en">Campbell's Instagram</a> on Tuesday, where she expressed her excitement and gratitude for the opportunity.</p><p dir="ltr">"It's always been such a blast and an honor to get to play Sidney in the Scream movies," Campbell wrote. "My appreciation for these films and for what they have meant to me has never waned… Sidney Prescott is coming back!!!" You can check out her full post, including her watermarked copy of the script dated Tuesday, below.</p><div><blockquote class="instagram-media"><div style="padding: 16px;"><div style="display: flex;"> </div><div style="padding: 19% 0;"> </div><div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"> </div><div style="padding-top: 8px;"><div style="color: #3897f0; font-family: Arial,s
+
+## X-Men '97 Creator Beau DeMayo Fired Just Before Debut
+ - [https://www.gamespot.com/articles/x-men-97-creator-beau-demayo-fired-just-before-debut/1100-6521802/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/x-men-97-creator-beau-demayo-fired-just-before-debut/1100-6521802/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T19:10:00+00:00
+
+<p>Just ahead of the debut of the Disney+ Marvel TV series X-Men '97, Disney has fired writer-producer Beau DeMayo, according to <a href="https://www.hollywoodreporter.com/tv/tv-news/marvel-shocker-x-men-97-creator-beau-demayo-fired-1235850423/">The Hollywood Reporter. </a></p><p>DeMayo also wrote for Moon Knight and contributed to early drafts of the upcoming Blade movie. But The Hollywood Reporter said as of last week, Marvel and DeMayo ended their relationship. The report said DeMayo's company email was deactivated and <a href="https://www.instagram.com/beau_demayo/?hl=en">his Instagram account was deleted</a>.</p><p>Crew working on the show were told he was gone, but no explanation for his exit has been confirmed as of yet. Marvel did not comment when approached by THR.</p><a href="https://www.gamespot.com/articles/x-men-97-creator-beau-demayo-fired-just-before-debut/1100-6521802/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## WoW Classic Is Still Growing, And Players Can't Get Enough
+ - [https://www.gamespot.com/articles/wow-classic-is-still-growing-and-players-cant-get-enough/1100-6521800/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wow-classic-is-still-growing-and-players-cant-get-enough/1100-6521800/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T18:53:00+00:00
+
+<p>At BlizzCon 2013, then-<a href="https://www.gamespot.com/games/world-of-warcraft/">World of Warcraft</a> executive producer (and later, Blizzard president) J. Allen Brack infamously said, "You think you do, but you don't," in response to a fan asking about being able to replay old expansions from World of Warcraft's history.</p><p dir="ltr">Flash forward to 2024, and there's not just one old-school, "Classic" version of Blizzard's enduring MMORPG to play, but four. It's an impressive accomplishment for a bite-sized team of a few dozen developers that exists within the larger WoW development team at Blizzard. GameSpot recently sat down with WoW Classic lead software engineer Nora Valletta and associate production director Clayton Stone to learn more about how, exactly, such a small team is able to operate so many different versions of the same game concurrently, its most recent seasonal experiments, and the team's goals for the future.</p><p dir="ltr">WoW Classic, which lau
+
+## Payday CEO Is Gone After Game's Bad Start And Low Player Numbers
+ - [https://www.gamespot.com/articles/payday-ceo-is-gone-after-games-bad-start-and-low-player-numbers/1100-6521797/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/payday-ceo-is-gone-after-games-bad-start-and-low-player-numbers/1100-6521797/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T18:39:00+00:00
+
+<p>Starbreeze's CEO, Tobias Sjogren, is no longer with the company following the troubled launch of <a href="https://www.gamespot.com/games/payday-3/">Payday 3</a> and its ongoing issues attracting and retaining players.</p><p>Starbreeze said in a <a href="https://corporate.starbreeze.com/en/press/press-releases/2024-03-12-juergen-goeldner-appointed-as-interim-ceo-of-starbreeze/">news release</a> that the company has assigned board member Juergen Goeldner to become interim CEO immediately as the company seeks a permanent CEO to replace Sjogren. Goeldner has been in the video game industry for 40 years and was previously the CEO of Focus Home. He has been on Starbreeze's board since 2023.</p><p>Chairman of the board, Torgny Hellstrom, said Starbreeze now has a "clear strategy" focused on its own franchises and its licensed games. The board decided to replace Sjogren as CEO after conducting a "consolidated assessment" to reach its ambitions, the company said.</p><a href="https:
+
+## WoW Dungeons Are Getting A Difficulty Overhaul, And It's More Than A Little Confusing
+ - [https://www.gamespot.com/articles/wow-dungeons-are-getting-a-difficulty-overhaul-and-its-more-than-a-little-confusing/1100-6521798/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wow-dungeons-are-getting-a-difficulty-overhaul-and-its-more-than-a-little-confusing/1100-6521798/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T18:22:00+00:00
+
+<p><a href="https://www.gamespot.com/games/world-of-warcraft/">World of Warcraft</a> is dramatically overhauling its dungeon difficulties moving forward, and while the changes feel long overdue, they're more than a little confusing.</p><p dir="ltr">Blizzard outlined all the dungeon difficulty updates in a new <a href="https://worldofwarcraft.blizzard.com/en-us/news/24072151/dragonflight-season-4-dungeon-changes-ahead">blog post</a>. Come Dragonflight Season 4 and the game's upcoming The War Within expansion, Heroic, Mythic 0, and Mythic+ keystone dungeons will all have their difficulties tweaked significantly. The changes came as a result of player feedback in regards to the lack of relevancy for Heroic and Mythic 0 dungeons, as well as a dislike of having timers associated with lower level Mythic+ dungeons, Blizzard said.</p><p dir="ltr">Specifically, Heroic dungeons will be scaled up to what is currently Mythic 0 difficulty. Conversely, Mythic 0 will become the equivalent o
+
+## How To Stream Or Buy All The 2024 Oscar Winners
+ - [https://www.gamespot.com/articles/how-to-stream-or-buy-all-the-2024-oscar-winners/1100-6521801/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-stream-or-buy-all-the-2024-oscar-winners/1100-6521801/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T18:20:00+00:00
+
+<p dir="ltr">If Sunday's Academy Awards have you looking to catch up on last year's best movies, you're in luck. All ten Best Picture nominees and numerous winners in other categories like Best Documentary are available to stream, buy, or rent online. Of course, they're not all available on every platform--some are exclusive to services like Netflix or Prime Video, while others are only available to rent through stores like iTunes.</p><p dir="ltr">To help make watching all the <a href="https://www.gamespot.com/articles/here-are-all-the-2024-oscar-winners-plus-naked-john-cena/1100-6521740/">2024 Oscar-winning films</a> easier, we've rounded up a list of all the winners and notable nominees, along with links to watch or buy. If you've already watched some of the Oscar winners and nominees, you may be interested in <a href="https://www.gamespot.com/articles/read-the-books-that-inspired-2024-oscar-winners-and-nominees/1100-6521772/">reading the books that inspired five of the Bes
+
+## The Batman 2 Delayed To 2026
+ - [https://www.gamespot.com/articles/the-batman-2-delayed-to-2026/1100-6521796/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-batman-2-delayed-to-2026/1100-6521796/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T18:09:00+00:00
+
+<p>The Batman 2 has been delayed by a year. The Robert Pattinson-led sequel is now slated for release on October 2, 2026. The movie was originally pegged for October 2025.</p><p>Warner Bros. announced the shift on Tuesday, according to <a href="https://www.hollywoodreporter.com/movies/movie-news/the-batman-ii-delayed-a-year-1235108760/">The Hollywood Reporter</a>, but did not offer an explanation for the push.</p><p>The Batman, directed by Matt Reeves, premiered in March 2022 and earned more than $770 million worldwide. In addition to Pattinson as Batman, the movie starred Paul Dano as The Riddler and Colin Farrell as Penguin. Zoe Kravitz played Catwoman, Andy Serkis suited up as Alfred, and Jeffrey Wright portrayed Commissioner Gordon. Barry Keoghan played Joker at the end of the film, presumably teeing up a bigger role in the sequel (though this is unconfirmed at this stage).</p><a href="https://www.gamespot.com/articles/the-batman-2-delayed-to-2026/1100-6521796/?ftag=CAD-0
+
+## GTA Online Cluckin' Bell Farm Raid - All Weapon And Gear Loadouts
+ - [https://www.gamespot.com/articles/gta-online-cluckin-bell-farm-raid-loadouts-weapons/1100-6521795/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/gta-online-cluckin-bell-farm-raid-loadouts-weapons/1100-6521795/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T18:00:00+00:00
+
+<p>During the "Concealed Weapons" mission in the <a href="https://www.gamespot.com/gallery/gta-online-how-to-beat-the-cluckin-bell-farm-raid/2900-5146/">GTA Online Cluckin' Bell Farm Raid</a>, you have the option to select between three different locations. At these locations, you can steal different loadouts of weapons and gear for your upcoming heist at the cartel factory.</p><p>While you can choose to visit all three locations separately and see which loadout is right for you, we have listed all the weapons and gear you can find at each location so you can go straight to the one you want. Check out the guide below to see all of your available loadout options.</p><h2>All loadout options in Concealed Weapons</h2><figure style="width: 2560px;"><a href="https://www.gamespot.com/a/uploads/original/1745/17457013/4271980-grandtheftautovscreenshot2024.03.07-13.23.22.11.png"><img alt="GTA Online" src="https://www.gamespot.com/a/uploads/scale_super/1745/17457013/4271980-grandtheftau
+
+## Rise of the Ronin Everything To Know
+ - [https://www.gamespot.com/videos/rise-of-the-ronin-everything-to-know/2300-6463633](https://www.gamespot.com/videos/rise-of-the-ronin-everything-to-know/2300-6463633)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T17:59:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4271984-ronin_site.jpg" width="480" /> War, swords, politics. That’s Rise of the Ronin on the surface, but this upcoming PlayStation exclusive gets much deeper than that. Will it be the Assassin’s Creed replacement you’ve been waiting for? I don’t know, but here's everything I do know about Rise of the Ronin.
+
+## Star Trek 3 40th Anniversary Edition Comes With Exclusive Collectibles At Walmart
+ - [https://www.gamespot.com/articles/star-trek-3-40th-anniversary-edition-comes-with-exclusive-collectibles-at-walmart/1100-6521776/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-trek-3-40th-anniversary-edition-comes-with-exclusive-collectibles-at-walmart/1100-6521776/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T17:58:00+00:00
+
+<p>If you've been looking to fill a Spock-shaped hole in your Star Trek movie collection, you can now set a course for Walmart and grab a <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.walmart.com/ip/Star-Trek-III-Search-for-Spock-40th-Anniversay-Steelbook-Walmart-Exclusive-4K-Ultra-HD-Blu-ray-Digital-Copy/5329429638">fancy 40th anniversary edition of Star Trek 3: The Search for Spock</a> ahead of its <strong>May 28</strong> release.</p><p>This 4K restoration of the classic Star Trek film is available in steelbook format at multiple retailers, but <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.walmart.com/ip/Star-Trek-III-Search-for-Spock-40th-Anniversay-Steelbook-Walmart-Exclusive-4K-Ultra-HD-Blu-ray-Digital-Copy/5329429638">Walmart</a> has an exclusive edition that comes with a poster of the film's key art and a booklet. Not only are you getting a pair of 
+
+## Get 25 Cyberpunk Novels For Only $15 For A Limited Time
+ - [https://www.gamespot.com/articles/get-25-cyberpunk-novels-for-only-15-for-a-limited-time/1100-6521785/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/get-25-cyberpunk-novels-for-only-15-for-a-limited-time/1100-6521785/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T17:42:00+00:00
+
+<p>Fanatical might be best known for its rotating selection of budget-friendly PC game bundles, but the site also sells other digital goods, including bundles of cheap ebooks. That's especially true right now, you can pick up <strong>25 ebooks for just $15</strong> with the new <a href="https://www.dpbolvw.net/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/pick-and-mix/cyberpunk-stories-build-your-own-bundle">Cyberpunk Stories Build Your Own Bundle</a>. There's also the option to snag five ebooks for $5 or 10 ebooks for $8 if you want to save a bit of cash.</p><div class="norewrite" title="">           <a href="https://www.dpbolvw.net/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/pick-and-mix/cyberpunk-stories-build-your-own-bundle">See deal at Fanatical</a> </div><p>The Cyberpunk Stories Bundle lets you choose from a selection of 25 ebooks, including Windswept by Adam Rakunas (a featured finalist for the Philip K
+
+## Everything We Know About The Next James Bond Movie
+ - [https://www.gamespot.com/gallery/everything-we-know-about-the-next-james-bond-movie/2900-5158](https://www.gamespot.com/gallery/everything-we-know-about-the-next-james-bond-movie/2900-5158)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T17:34:00+00:00
+
+<p><h2>Bond 26 is in the works</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4271956-screenshot2024-03-12at1.13.48pm.png" /><br /><h3><p> The popular James Bond film series is undergoing a major shift for the next installment, as Daniel Craig's five-movie run ended with 2021's No Time To Die. That means someone else, for the first time since 2006's Casino Royale, is stepping up to play James Bond. The producers have also talked about a "reinvention" of the character for the inevitable next movie, which will be the 26th since the series first appeared on the scene back in 1962 with Dr. No.</p><p dir="ltr">There is a lot of hype around the next James Bond movie, and there is still plenty of information we don't know. At the same time, people involved with the series have shared some morsels of insight into what to expect, and some actors and directors have responded to rumors they might be involved. So we're rounding up everything we know so far abo
+
+## The Best WWE 2K24 Create-A-Superstars To Expand Your Roster
+ - [https://www.gamespot.com/gallery/wwe-2k24-caws-the-best-create-a-superstars-to-expand-your-roster/2900-5156](https://www.gamespot.com/gallery/wwe-2k24-caws-the-best-create-a-superstars-to-expand-your-roster/2900-5156)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T16:55:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1632/16320660/4271891-wwe2k24%281%29.jpg" /><br /><h3><p>The WWE 2K series has long been known for its deep suite of community creations. In WWE 2K24, the bar is once again raised thanks to some incredibly detailed custom superstars, often called Create-A-Wrestlers or simply CAWs. The massive WWE Universe wastes no time in creating legendary wrestlers of decades past, rival brands' biggest stars, and even some more comical characters like the stars of long-running cartoon sitcoms. Virtually anyone you can think of comes to WWE 2K each year--I once had Captain Underpants fight President Joe Biden, The Sopranos' Christopher Moltisanti, and Super Mario. Meltzer would've given it five stars.</p><p>For a look at the best WWE 2K24 CAWs available today, check out our lengthy gallery which includes the important hashtag and creator details so you can weed out these ideal versions among a sea of copycats.</p></h3></p><br />  
+
+## We Could Be Getting Final Fantasy 7 Rebirth Queen's Blood Expansions
+ - [https://www.gamespot.com/articles/we-could-be-getting-final-fantasy-7-rebirth-queens-blood-expansions/1100-6521792/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/we-could-be-getting-final-fantasy-7-rebirth-queens-blood-expansions/1100-6521792/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T16:42:00+00:00
+
+<p>Square Enix is open to expanding <a href="https://www.gamespot.com/gallery/final-fantasy-7-rebirth-best-queens-blood-cards-guide/2900-5111/">Queen's Blood</a>, the in-game card game in Final Fantasy VII Rebirth. The minigame has been incredibly popular and well-received.</p><p>"There are 145 cards in total. We haven't decided anything in terms of future development for Queenâ€™s Blood," said director Naoki Hamaguchi in an <a href="https://www.redbull.com/us-en/final-fantasy-vii-rebirth-developer-interview">interview with Red Bull</a>. "But so far, the media who played it have provided very positive feedback on it, so we want to consider further expansions as a possibility."</p><p>Hamaguchi explained that while there aren't any current plans to expand Queen's Blood, there's still the possibility that new cards could be added. Hamaguchi also said that Queen's Blood was <a href="https://www.gamespot.com/articles/final-fantasy-7-rebirths-queens-blood-card-game-takes-inspiratio
+
+## System Shock Remake Is Out In May For Consoles
+ - [https://www.gamespot.com/articles/system-shock-remake-is-out-in-may-for-consoles/1100-6521791/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/system-shock-remake-is-out-in-may-for-consoles/1100-6521791/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T16:29:00+00:00
+
+<p>The System Shock remake, first released for PC back in May 2023, is finally becoming available on consoles a year later. This revision of the classic immersive shooter will become available for PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S on May 21st.</p><p>Shared by <a href="https://www.youtube.com/watch?v=Zct6_8yhQG0">IGN</a>, the latest trailer gives an overview of the game's story and revamped visuals--just in case you missed the PC version on purpose and have been waiting to play comfortably from your couch instead. As of now, developer Nightdive Studios hasn't disclosed any console-exclusive features or details about performance settings.</p><p>Even if you're not a console player, the release date reveal is also a potentially interesting announcement for the PC version. As stated in the December 2023 Update over at the game's <a href="https://www.kickstarter.com/projects/1598858095/system-shock/posts/3891664">Kickstarter</a> campaign, the team has been
+
+## Toonami Is Airing A Dragon Ball Z Marathon This Week To Honor Creator Akira Toriyama
+ - [https://www.gamespot.com/articles/toonami-is-airing-a-dragon-ball-z-marathon-this-week-to-honor-creator-akira-toriyama/1100-6521788/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/toonami-is-airing-a-dragon-ball-z-marathon-this-week-to-honor-creator-akira-toriyama/1100-6521788/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T16:00:00+00:00
+
+<p>To pay tribute to the <a href="https://www.gamespot.com/articles/akira-toriyama-dragon-ball-manga-creator-dies-at-68/1100-6521704/">late creator of Dragon Ball, Akira Toriyama</a>, Toonami has announced that it'll run a marathon of Dragon Ball Z Kai episodes on Saturday, March 16. This broadcast of the first eight episodes will begin at 2 AM ET and will end at 6 AM. More of a mini-marathon, the Toriyama tribute will cover the arrival of Goku's brother Raditz, the first death of Goku, his training with King Kai, and the arrival of Nappa and Vegeta on Earth.</p><p>"As a tribute to anime legend Akira Toriyama (1955-2024), we're celebrating his legacy Saturday night with a DBZ Kai marathon from 2 AM to 6 AM," Toonami wrote in a <a href="https://www.facebook.com/Toonami/posts/pfbid08BCB3D9fA8kZHcVemJ8TR6xw4WRiSGfJwznxTuVYc1yrm53AAA8255qwE53Vttdgl">Facebook post</a>. "May he rest in Super Saiyan power."</p><p>While not perfect, Dragon Ball Z Kai is generally considered the best 
+
+## Contra: Operation Galuga Review - Corps Run
+ - [https://www.gamespot.com/reviews/contra-operation-galuga-review-corps-run/1900-6418195/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/contra-operation-galuga-review-corps-run/1900-6418195/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T15:41:00+00:00
+
+<p dir="ltr">More than almost any other game from its era, Contra made its name on being brutally difficult: a legacy with an impact that can still be felt today. Even cultural touchstones like the Konami Code owe at least some of their fame to the Contra series--after all, half the reason we memorized that particular sequence of button presses was to get extra lives for our battle against the alien hordes. With Contra: Operation Galuga, WayForward had a peculiar challenge: Sand off the rough edges of the original Contra to make it tolerable to modern audiences without losing the mystique that owes so much to its absurd difficulty. Thanks to some smart improvements, it's found an enjoyable balance, although it's not enough to elevate Galuga to greatness.</p><p dir="ltr">This is a retelling of the first game, which means that once again you're Contra operatives Bill and Lance dispatched to the island of Galuga to get to the bottom of strange goings-on there. After a slightly t
+
+## Christopher Nolan Got Paid $100 Million For Oppenheimer - Report
+ - [https://www.gamespot.com/articles/christopher-nolan-got-paid-100-million-for-oppenheimer-report/1100-6521790/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/christopher-nolan-got-paid-100-million-for-oppenheimer-report/1100-6521790/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T15:20:00+00:00
+
+<p>Christopher Nolan finally won the Oscar for Best Director for the megahit Oppenheimer--which <a href="https://www.gamespot.com/articles/here-are-all-the-2024-oscar-winners-plus-naked-john-cena/1100-6521740/">won seven awards</a> including Best Picture--but it also helped bring Nolan his biggest payday as a filmmaker. It's a first-time feat for the director, who didn't even profit as much from his Dark Knight trilogy.</p><p>While a representative for the filmmaker didnâ€™t respond to a request for comment, <a href="https://variety.com/2024/film/news/christopher-nolan-oppenheimer-pay-1235938430/">Variety</a> is reporting that with his initial director fee added to this role as a producer and the Oscar wins, Nolan received about $100 million for the feature. Most of that came from the backend, including the box office escalation fees. </p><p>Oppenheimer was released last summer, made for $100 million, becoming half of the Barbenheimer tag team, eventually earning $958 million
+
+## Helldivers 2 Community Event Could See Big, Permanent Changes To Galaxy
+ - [https://www.gamespot.com/articles/helldivers-2-community-event-could-see-big-permanent-changes-to-galaxy/1100-6521786/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/helldivers-2-community-event-could-see-big-permanent-changes-to-galaxy/1100-6521786/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T15:08:00+00:00
+
+<p>The latest <a href="https://www.gamespot.com/games/helldivers-2/">Helldivers 2</a> community event has arrived, and this time, players can expect to take part in a campaign to permanently remove the Terminid menace from a cluster of planets near Super-Earth. These Major Order community events are also a good opportunity to earn a stack of medals for the Warbond battle pass, with this particular event offering 50 medals for participating in it. Combined with personal orders, you can quickly rack up a supply of in-game currency to spend on unlocking <a href="https://www.gamespot.com/articles/helldivers-2-breaks-out-electrifying-new-weapons-in-cutting-edge-update/1100-6521665/">some of the new weapons</a> arriving this month.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">MAJOR ORDER: Activate the Terminid Control System, Helldivers! <a href="https://t.co/0UmUD4GESL">pic.twitter.com/0UmUD4GESL</a></p>  â€” HELLDIVERSâ„¢ 2 (@helldivers2) <a href="https:/
+
+## My Little Pony Open-World Game Trots Onto Console And PC In May
+ - [https://www.gamespot.com/articles/my-little-pony-open-world-game-trots-onto-console-and-pc-in-may/1100-6521777/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/my-little-pony-open-world-game-trots-onto-console-and-pc-in-may/1100-6521777/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T15:00:00+00:00
+
+<p>Publisher Outright Games and Hasbro have revealed My Little Pony: A Zephyr Heights Mystery, a new open-world game set in the popular My Little Pony franchise. This new game follows the ponies Sunny, Izzy, Misty, Pipp, Zipp, and Hitch as they race to stop strange magic from turning the world upside down. The game will be available from May 17 for PC, PS5, PS4, Xbox Series X|S, Xbox One, and Switch.</p><div>          </div><p>Developed by Drakhar Studio, the developer behind games like Ginger: Beyond the Crystal and Grumpy Reaper. Like the animated source material, My Little Pony: A Zephyr Heights Mystery looks like lighthearted fun set inside the kingdom of Equestria. When players aren't stopping magical calamities from occurring, they can engage in replayable mini-games like Pipp's Photo Shoot, Hitch is on the Trail, and Sunny's Smoothie Delivery. The game will also feature collectibles to chase down, photo opportunities, and cosmetics for your pony.</p><p>My Little Pony h
+
+## Dave The Diver Anniversary Edition Features A Very Unexpected Crossover
+ - [https://www.gamespot.com/articles/dave-the-diver-physical-edition-nintendo-switch-preorder/1100-6521784/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dave-the-diver-physical-edition-nintendo-switch-preorder/1100-6521784/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T14:17:00+00:00
+
+<p>Ahead of its first anniversary, Dave the Diver is getting a physical Switch edition release on May 30 from Guilty Gear developer Arc System Works. The studio behind the popular fighting game franchise is also collaborating with Dave the Diver, with themed boat and character skin cosmetics included in this $40 physical edition. Dave the Diver was previously a digital-only game.</p><div><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/B0CXS7FTPY?tag=gamespot-preorders-20">Preorder at Amazon</a> </div></div><p> </p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4271822-dave-the-diver-2.jpg"><img alt="Dave the Diver physical edition box art" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4271822-dave-the-diver-2.jpg" /></a><figcaption>Dave the Diver physical edition box art</figcaption></figure><p>Another neat addition is access to the song "The Disaster of Passion," a pretty cool t
+
+## Star Wars And God Of War Veteran Announces New Studio Working On AAA Unreal Engine 5 Single-Player Game
+ - [https://www.gamespot.com/articles/star-wars-and-god-of-war-veteran-announces-new-studio-working-on-aaa-unreal-engine-5-single-player-game/1100-6521780/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-wars-and-god-of-war-veteran-announces-new-studio-working-on-aaa-unreal-engine-5-single-player-game/1100-6521780/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T14:00:00+00:00
+
+<p>Star Wars Jedi boss Stig Asmussen <a href="https://www.gamespot.com/articles/star-wars-jedi-boss-stig-asmussen-leaves-ea/1100-6517702/">left Respawn in 2023</a>, and now he's revealed his next project. Asmussen, who also directed God of War games, founded a new gaming studio called Giant Skull, and it features talent from Respawn, Rockstar, Rocksteady, Epic, Sony Santa Monica, and Blizzard. The studio is making "gameplay-driven, story-immersed, AAA action adventure games."</p><p dir="ltr">Giant Skull is based in Los Angeles and also supports remote work. Asmussen said in a news release that the studio's ambition is to "craft a rich universe that players will want to lose themselves in for years to come."</p><figure style="width: 1454px;"><a href="https://www.gamespot.com/a/uploads/original/1179/11799911/4271798-screenshot2024-03-12at9.03.09am.png"><img alt="Giant Skull has opened its doors" src="https://www.gamespot.com/a/uploads/scale_super/1179/11799911/4271798-screensho
+
+## The Last Case of Benedict Fox Comes To PS5 This Month With Some Big Upgrades
+ - [https://www.gamespot.com/articles/the-last-case-of-benedict-fox-comes-to-ps5-this-month-with-some-big-upgrades/1100-6521758/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-last-case-of-benedict-fox-comes-to-ps5-this-month-with-some-big-upgrades/1100-6521758/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T14:00:00+00:00
+
+<p>One of the more intriguing games of 2023, <a href="https://www.gamespot.com/games/the-last-case-of-benedict-fox/">The Last Case of Benedict Fox</a>, will be released for PS5 on March 26. Originally available on Xbox and PC, the metroidvania will launch with new combat arenas, quests, and puzzles as part of the definitive-edition release.</p><p>Xbox and PC owners of the game will also receive these major updates when the game is upgraded on those platforms. Developer Plot Twist says that this version of The Last Case of Benedict Fox also includes overhauled combat, traversal changes, and an accelerated pace to speed up combat. The studio added that players will see improved and adjusted animations to match the enhanced visuals and combat, and several gameplay-important items are being put onto the main path rather than being put out of view.</p><p>"The team at Plot Twist has been hard at work updating The Last Case of Benedict Fox to incorporate the feedback of our passiona
+
+## Destiny 2 Ghostbusters Cosmetics Will Let You Cruise Around The Galaxy In An Ecto-1 Spaceship
+ - [https://www.gamespot.com/articles/destiny-2-ghostbusters-cosmetics-will-let-you-cruise-around-the-galaxy-in-an-ecto-1-spaceship/1100-6521782/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2-ghostbusters-cosmetics-will-let-you-cruise-around-the-galaxy-in-an-ecto-1-spaceship/1100-6521782/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T13:34:00+00:00
+
+<p>Destiny 2 is no stranger to collaborations, and its next IP alliance will see the Bungie-developed game team up with Ghostbusters. As part of a promotion for Ghostbusters: Frozen Empire, three Ghostbusters-themed cosmetics will be added to Destiny 2 on March 19.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">There's something strange in our neighborhood...<br />Destiny 2 x Ghostbusters ðŸ‘» March 19, 2024 <a href="https://t.co/C4DvaTuaBn">pic.twitter.com/C4DvaTuaBn</a></p>  â€” Destiny 2 (@DestinyTheGame) <a href="https://twitter.com/DestinyTheGame/status/1767173634810872298?ref_src=twsrc^tfw">March 11, 2024</a></blockquote>              </div><p>These include a new Slimer cosplay shell for your Ghost companion, a new spaceship inspired by the Ghostbuster's Ecto-1, and a Sparrow influenced by the spooky design of Frozen Empire's villain Garraka. Strangely, there are no themed armor cosmetics at all, so anyone looking to don a familiar khaki flight-su
+
+## Ewan McGregor "Waiting For The Call" About Obi-Wan Season 2
+ - [https://www.gamespot.com/articles/ewan-mcgregor-waiting-for-the-call-about-obi-wan-season-2/1100-6521783/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ewan-mcgregor-waiting-for-the-call-about-obi-wan-season-2/1100-6521783/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T13:31:00+00:00
+
+<p>Ewan McGregor <a href="https://www.gamespot.com/articles/obi-wan-season-2-ewan-mcgregor-and-hayden-christensen-want-to-come-back/1100-6504831/">wants to come back to make Obi-Wan Season 2</a>, but if it's going to happen, he hasn't heard about it yet. Appearing on <a href="https://www.youtube.com/watch?v=yUloZGhT3Yk">The Tonight Show with Jimmy Fallon</a>, McGregor was asked for an update on a potential Season 2, and his answer might not be what fans want to hear.</p><p>"I have no news to tell. I'm waiting for the call. I don't know that it's happening," he said.</p><p>McGregor was sitting next to his wife, Mary Elizabeth Winstead, who stars in the Star Wars TV show Ahsoka as Hera Syndulla. She had more positive news to share, <a href="https://www.gamespot.com/articles/ahsoka-season-2-is-officially-in-the-works-at-disney-plus/1100-6520209/">re-confirming that Ahsoka Season 2 is now in the works. </a></p><a href="https://www.gamespot.com/articles/ewan-mcgregor-waiting-for-t
+
+## Lego Atari 2600 Discounted To Best Price Yet, But You Should Hurry
+ - [https://www.gamespot.com/articles/lego-atari-2600-discounted-to-best-price-yet-but-you-should-hurry/1100-6520830/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/lego-atari-2600-discounted-to-best-price-yet-but-you-should-hurry/1100-6520830/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T13:21:00+00:00
+
+<p>If you're nostalgic for the Atari era, the Lego Atari 2600 is an extremely cool building kit that accurately recreates the unique design of the iconic console. Normally $240, the <strong><a href="https://www.amazon.com/dp/B01N9DA98E?tag=gamespot-promos-20">Lego Atari 2600 is currently on sale for only $168 at Amazon</a></strong>, which is the lowest price ever at the retailer. As such, we wouldn't be surprised to see this deal sell out. In fact, it <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.kohls.com/product/prd-6016897/lego-atari-2600-10306-building-kit.jsp">already sold out at this price at Kohl's</a>, the retailer Amazon is matching.</p><div><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/B01N9DA98E?tag=gamespot-promos-20">See at Amazon</a> </div></div><p> </p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4255204-lego-atari-26
+
+## Christopher Nolan Is Writing His Next Movie - Report
+ - [https://www.gamespot.com/articles/christopher-nolan-is-writing-his-next-movie-report/1100-6521781/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/christopher-nolan-is-writing-his-next-movie-report/1100-6521781/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T13:19:00+00:00
+
+<p dir="ltr">Fresh off big-time Oscar wins, Christopher Nolan is reportedly already toiling away on his next movie script. The Oppenheimer filmmaker just received golden statues for Best Picture and Best Director <a href="https://www.gamespot.com/articles/here-are-all-the-2024-oscar-winners-plus-naked-john-cena/1100-6521740/">at the 96th Academy Awards</a> over the weekend.</p><p dir="ltr">According to <a href="https://puck.news/newsletter_content/what-im-hearing-oscars-inanity-lourds-shadow-party-langleys-big-year-2/">Puck.news</a>, Nolan is busy penning the screenplay to his next film. Previously, the Dark Knight Trilogy <a href="https://www.gamespot.com/app.php/articles/christopher-nolan-provides-clues-about-his-next-movie/1100-6520731/">director provided clues about what's next for him</a>, noting it won't be small. "I'm drawn to working at a large scale because I know how fragile the opportunity to marshal those resources is," he said earlier this year to Time Magazine.<
+
+## New Helldivers 2 Patch Makes Chargers Easier To Kill, If You're Brave Enough
+ - [https://www.gamespot.com/articles/new-helldivers-2-patch-makes-chargers-easier-to-kill-if-youre-brave-enough/1100-6521779/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-helldivers-2-patch-makes-chargers-easier-to-kill-if-youre-brave-enough/1100-6521779/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T12:49:00+00:00
+
+<p>A new patch for <a href="https://www.gamespot.com/games/helldivers-2/">Helldivers 2</a> has gone live and has introduced some big changes for some of the toughest Terminid enemies in the game. After Bile Titans and Chargers became significantly more challenging to battle <a href="https://www.gamespot.com/articles/helldivers-2-gets-lethal-planetary-conditions-in-new-patch/1100-6521624/">following a recent balance update in Helldivers 2</a>--and a nerf for the magic trio combo of the Breaker shotgun, Railgun, and shield generator backpack--Arrowhead has fine-tuned the spawn rate of these titanic monsters.</p><p>These Terminids had begun popping up in greater numbers during missions on higher difficulty levels, leveling teams as they shrugged off attacks with their mostly bulletproof design, but Arrowhead says that this "spawn spike" has been addressed. "We have reduced the spawn rate of Chargers and Bile Titans on difficulties 7 and up," Arrowhead explained in the <a href="h
+
+## TopSpin 2K25 Release Date, Playable Pros, Early Access, And Different Editions Announced
+ - [https://www.gamespot.com/articles/topspin-2k25-release-date-playable-pros-early-access-and-different-editions-announced/1100-6521778/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/topspin-2k25-release-date-playable-pros-early-access-and-different-editions-announced/1100-6521778/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T12:19:00+00:00
+
+<p>2K Sports has confirmed more details for <a href="https://www.gamespot.com/games/topspin-2k25/">TopSpin 2K25</a>, the company's <a href="https://www.gamespot.com/articles/10-years-later-2k-revives-its-professional-tennis-franchise-with-a-new-name/1100-6520354/">first new entry in the professional tennis series in 10+ years</a>, including its release date, player roster, different editions, and more. Hangar 13, the studio behind 2K's recent Mafia games, is developing the title.</p><p>TopSpin 2K25 releases on April 26, but people who buy the Deluxe or Grand Slam edition can get started three days earlier, beginning April 23. The game will be available across PS4, PS5, Xbox One, Xbox Series X|S, and PC.</p><div>          </div><p>Tennis legends Roger Federer and Serena Williams grace the cover of the standard edition, with Carlos Alcaraz, Iga Świątek, and Francis Tiafoe headlining the cover of the deluxe edition.</p><a href="https://www.gamespot.com/articles/topspin-2k25-rele
+
+## Exclusivity Is AAA Games' "Achilles' Heel" Says Former PlayStation Boss
+ - [https://www.gamespot.com/articles/exclusivity-is-aaa-games-achilles-heel-says-former-playstation-boss/1100-6521775/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/exclusivity-is-aaa-games-achilles-heel-says-former-playstation-boss/1100-6521775/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T06:58:00+00:00
+
+<p>Shawn Layden, the former CEO of Sony Computer Entertainment America, has never been shy about sharing his thoughts on the state of the industry, and this time he's taking aim at console exclusive titles. In an interview with <a href="https://venturebeat.com/games/how-former-playstation-boss-views-gamings-tumultuous-time-shawn-layden-interview/">GamesBeat</a>, the industry veteran has called AAA console exclusives an "Achilles' heel," saying companies need to consider how the market has changed.</p><p>"When your costs for a game exceed $200 million, exclusivity is your Achilles' heel," Layden said, agreeing that releasing games across platforms is essential to market growth. "It reduces your addressable market. Particularly when you're in the world of live service gaming or free-to-play."</p><p>"Another platform is just another way of opening the funnel, getting more people in. In a free-to-play world, as we know, 95% percent of those people will never spend a nickel. The b
+
+## PlayStation-Partnered Studio From Ex-COD Devs Has Closed
+ - [https://www.gamespot.com/articles/playstation-partnered-studio-from-ex-cod-devs-has-closed/1100-6521774/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/playstation-partnered-studio-from-ex-cod-devs-has-closed/1100-6521774/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-03-12T06:23:00+00:00
+
+<p> Deviation Games, the studio <a href="https://www.gamespot.com/articles/deviation-games-is-a-new-studio-working-on-a-playstation-exclusive/1100-6492682/">founded by Call of Duty veterans Dave Anthony and Jason Blundell</a> back in 2021, has closed, according to a <a href="https://www.linkedin.com/feed/update/urn:li:activity:7172027709047468032/">LinkedIn post</a> by Deviation's head of HR. The studio had partnered with Sony to develop a new IP that would have been a PlayStation exclusive.</p><p>"It is with a heavy heart that we announce the closure of Deviation Games," the post from Deviation chief HR officer Kriste Stull reads. "I want to express my deepest gratitude to our entire team. Thank you for all your hard work, dedication, and contributions to Deviation; I'm incredibly grateful for the opportunity to have worked with each and every one of you."</p><p>Stull also announces that Deviation will be holding a networking event for its former employees, encouraging other
+

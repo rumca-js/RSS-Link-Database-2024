@@ -1,0 +1,303 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Mike Johnson Completely Blindsided by Resignation in His Own Party: House Speaker Mike Johnson had no idea Representative Ken Buck is quitting, as the GOP is in complete shambles.
+ - [https://www.reddit.com/r/politics/comments/1bd8nab/mike_johnson_completely_blindsided_by_resignation](https://www.reddit.com/r/politics/comments/1bd8nab/mike_johnson_completely_blindsided_by_resignation)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T21:08:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd8nab/mike_johnson_completely_blindsided_by_resignation/"> <img alt="Mike Johnson Completely Blindsided by Resignation in His Own Party: House Speaker Mike Johnson had no idea Representative Ken Buck is quitting, as the GOP is in complete shambles." src="https://external-preview.redd.it/HqFAEnyM1kOojDtWNgvrddRv959bFg9waOPtTkRwHB4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd969be2378e2a72d7825c3b4697f94f209d384d" title="Mike Johnson Completely Blindsided by Resignation in His Own Party: House Speaker Mike Johnson had no idea Representative Ken Buck is quitting, as the GOP is in complete shambles." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenewrepublic"> /u/thenewrepublic </a> <br /> <span><a href="https://newrepublic.com/post/179770/mike-johnson-no-idea-ken-buck-quitting-house-gop">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comment
+
+## New polling shows female support for Trump has dropped
+ - [https://www.reddit.com/r/politics/comments/1bd78p1/new_polling_shows_female_support_for_trump_has](https://www.reddit.com/r/politics/comments/1bd78p1/new_polling_shows_female_support_for_trump_has)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T20:12:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd78p1/new_polling_shows_female_support_for_trump_has/"> <img alt="New polling shows female support for Trump has dropped" src="https://external-preview.redd.it/ngbMvrsKJOK9Mo8cMQ9zD_25nfAokGo6qKsrK-uhlrE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d60221cb37a64a274348292e21e9dbbe990f3df6" title="New polling shows female support for Trump has dropped" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/A-Dog22"> /u/A-Dog22 </a> <br /> <span><a href="https://www.nbcnews.com/now/video/new-polling-shows-female-support-for-trump-has-dropped-206210117618">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd78p1/new_polling_shows_female_support_for_trump_has/">[comments]</a></span> </td></tr></table>
+
+## Robert Hur Admits Telling Biden He Seemed To Have 'Photographic Recall'
+ - [https://www.reddit.com/r/politics/comments/1bd7528/robert_hur_admits_telling_biden_he_seemed_to_have](https://www.reddit.com/r/politics/comments/1bd7528/robert_hur_admits_telling_biden_he_seemed_to_have)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T20:08:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd7528/robert_hur_admits_telling_biden_he_seemed_to_have/"> <img alt="Robert Hur Admits Telling Biden He Seemed To Have 'Photographic Recall'" src="https://external-preview.redd.it/Vo3-KxrhZbs7eYLwodKR2BeAeYdNzkzMFyu3koo2w_o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2875051da8ad7ea565f533489d2896fba7cfb2a0" title="Robert Hur Admits Telling Biden He Seemed To Have 'Photographic Recall'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UWCG"> /u/UWCG </a> <br /> <span><a href="https://www.huffpost.com/entry/robert-hur-biden-photographic-recall-eric-swalwell_n_65f0920ae4b01707c6d1f807">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd7528/robert_hur_admits_telling_biden_he_seemed_to_have/">[comments]</a></span> </td></tr></table>
+
+## Republican Announces Abrupt Exit From Congress: ‘This Place Is Dysfunctional
+ - [https://www.reddit.com/r/politics/comments/1bd6lt9/republican_announces_abrupt_exit_from_congress](https://www.reddit.com/r/politics/comments/1bd6lt9/republican_announces_abrupt_exit_from_congress)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T19:47:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd6lt9/republican_announces_abrupt_exit_from_congress/"> <img alt="Republican Announces Abrupt Exit From Congress: ‘This Place Is Dysfunctional" src="https://external-preview.redd.it/013mRcRkyJNhWOxObnyq0XFO2kndhliiPvQys9Q_pb8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2f066c995e4c9eb74664e8d2e21a2223adcd7d8" title="Republican Announces Abrupt Exit From Congress: ‘This Place Is Dysfunctional" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SingleandSober"> /u/SingleandSober </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/ken-buck-resignation-house-1234986122/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd6lt9/republican_announces_abrupt_exit_from_congress/">[comments]</a></span> </td></tr></table>
+
+## Pete Buttigieg forced to explain that lead is poisonous to obtuse Republican. Drinking lead can damage people's brains, but Kansas Attorney General Kris Kobach opposes a plan to remove lead water pipes.
+ - [https://www.reddit.com/r/politics/comments/1bd57b1/pete_buttigieg_forced_to_explain_that_lead_is](https://www.reddit.com/r/politics/comments/1bd57b1/pete_buttigieg_forced_to_explain_that_lead_is)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T18:53:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd57b1/pete_buttigieg_forced_to_explain_that_lead_is/"> <img alt="Pete Buttigieg forced to explain that lead is poisonous to obtuse Republican. Drinking lead can damage people's brains, but Kansas Attorney General Kris Kobach opposes a plan to remove lead water pipes." src="https://external-preview.redd.it/qv0lkeYXEvUrygAo7OZQQqd_CJRRL1rhAouOK9j6DVo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac5ac03415efc1fcf533071667d7dcff6cc983a5" title="Pete Buttigieg forced to explain that lead is poisonous to obtuse Republican. Drinking lead can damage people's brains, but Kansas Attorney General Kris Kobach opposes a plan to remove lead water pipes." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> <span><a href="https://www.lgbtqnation.com/2024/03/pete-buttigieg-forced-to-explain-that-lead-is-poisonous-to-obtuse-republican/">[link]</a></span>
+
+## Republican Rep. Ken Buck is leaving Congress, further eroding GOP majority
+ - [https://www.reddit.com/r/politics/comments/1bd4c3m/republican_rep_ken_buck_is_leaving_congress](https://www.reddit.com/r/politics/comments/1bd4c3m/republican_rep_ken_buck_is_leaving_congress)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T18:19:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd4c3m/republican_rep_ken_buck_is_leaving_congress/"> <img alt="Republican Rep. Ken Buck is leaving Congress, further eroding GOP majority" src="https://external-preview.redd.it/wf-Fdl12CUBAOgLcLZUDVrlHO0DriZ0f5LZG3621p74.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc010b9d5c8c70b9a76be4a162ec2a702e642329" title="Republican Rep. Ken Buck is leaving Congress, further eroding GOP majority" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br /> <span><a href="https://www.nbcnews.com/politics/congress/republican-rep-ken-buck-leaving-congress-eroding-gop-majority-rcna143046">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd4c3m/republican_rep_ken_buck_is_leaving_congress/">[comments]</a></span> </td></tr></table>
+
+## Democrats use clips of Trump to counter Biden memory claims
+ - [https://www.reddit.com/r/politics/comments/1bd3f6w/democrats_use_clips_of_trump_to_counter_biden](https://www.reddit.com/r/politics/comments/1bd3f6w/democrats_use_clips_of_trump_to_counter_biden)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T17:43:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd3f6w/democrats_use_clips_of_trump_to_counter_biden/"> <img alt="Democrats use clips of Trump to counter Biden memory claims" src="https://external-preview.redd.it/8mcw-XmS-9aBCZ6DbPODXGk0k7WPpeY_b6ItqFM-vms.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=854c86846def2ab955e1bc92c5aedeea2a32c51a" title="Democrats use clips of Trump to counter Biden memory claims" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equalizer6338"> /u/Equalizer6338 </a> <br /> <span><a href="https://thehill.com/homenews/house/4526604-democrats-trump-statements-biden-memory-claims/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd3f6w/democrats_use_clips_of_trump_to_counter_biden/">[comments]</a></span> </td></tr></table>
+
+## “Can’t make it up”: Experts say transcript shows special counsel Robert Hur “lied” about Biden
+ - [https://www.reddit.com/r/politics/comments/1bd3a34/cant_make_it_up_experts_say_transcript_shows](https://www.reddit.com/r/politics/comments/1bd3a34/cant_make_it_up_experts_say_transcript_shows)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T17:38:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd3a34/cant_make_it_up_experts_say_transcript_shows/"> <img alt="“Can’t make it up”: Experts say transcript shows special counsel Robert Hur “lied” about Biden" src="https://external-preview.redd.it/kHYWsf4V_MDEAL_ylHkW9M7Y6xC4b1l6iOuuqHWwDGg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f222a818b29c5210fa1985a27f48728bc07a3e0c" title="“Can’t make it up”: Experts say transcript shows special counsel Robert Hur “lied” about Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/devlinadl"> /u/devlinadl </a> <br /> <span><a href="https://www.salon.com/2024/03/12/cant-make-it-up-experts-say-transcript-shows-special-counsel-robert-hur-lied-about-biden/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd3a34/cant_make_it_up_experts_say_transcript_shows/">[comments]</a></span> </td></tr></table>
+
+## Republican group planning $50M campaign to block Trump from reelection
+ - [https://www.reddit.com/r/politics/comments/1bd2zoa/republican_group_planning_50m_campaign_to_block](https://www.reddit.com/r/politics/comments/1bd2zoa/republican_group_planning_50m_campaign_to_block)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T17:27:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd2zoa/republican_group_planning_50m_campaign_to_block/"> <img alt="Republican group planning $50M campaign to block Trump from reelection" src="https://external-preview.redd.it/Yt6eVViCr1RJ-RKmoUuLewnfzX6Q5ZbHn_Fpa0NcoNw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a81e73bfebc30287b02ae6e2b84101cada4524b" title="Republican group planning $50M campaign to block Trump from reelection" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equalizer6338"> /u/Equalizer6338 </a> <br /> <span><a href="https://thehill.com/homenews/state-watch/4526513-republican-group-planning-50m-campaign-to-block-trump-from-reelection/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd2zoa/republican_group_planning_50m_campaign_to_block/">[comments]</a></span> </td></tr></table>
+
+## Trump Is Threatening to Gut Social Security. Take His Word for It.
+ - [https://www.reddit.com/r/politics/comments/1bd2ysx/trump_is_threatening_to_gut_social_security_take](https://www.reddit.com/r/politics/comments/1bd2ysx/trump_is_threatening_to_gut_social_security_take)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T17:26:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd2ysx/trump_is_threatening_to_gut_social_security_take/"> <img alt="Trump Is Threatening to Gut Social Security. Take His Word for It." src="https://external-preview.redd.it/TM3HtYwLnvV7B2Ar3RDuOZ-_tCqjbvSBSuSjxuMnOoY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2c09939a4ad46a008628f9cefa11ff5a500fd7a" title="Trump Is Threatening to Gut Social Security. Take His Word for It." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/harsh2k5"> /u/harsh2k5 </a> <br /> <span><a href="https://newrepublic.com/post/179744/trump-gut-social-security-medicare">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd2ysx/trump_is_threatening_to_gut_social_security_take/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: 2024 Presidential Primaries in Georgia, Washington State, Mississippi, Plus Democrats Abroad and Hawaii GOP Caucus
+ - [https://www.reddit.com/r/politics/comments/1bd27xz/discussion_thread_2024_presidential_primaries_in](https://www.reddit.com/r/politics/comments/1bd27xz/discussion_thread_2024_presidential_primaries_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T16:57:03+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>News and News Analysis:</strong></p> <ul> <li><p>AP: <a href="https://apnews.com/article/trump-biden-primary-georgia-washington-mississippi-hawaii-15bb0084ad656903ffef14cfae822abd">Biden and Trump could clinch nominations in Tuesday’s contests, ushering in general election</a></p></li> <li><p>NBC: <a href="https://www.nbcnews.com/politics/2024-election/plan-your-vote-2024-elections-every-state-rcna125363">Plan your vote: Everything you need to know about the voting rules where you live.</a></p></li> <li><p>U.S. News and World Report: <a href="https://www.usnews.com/news/best-states/articles/2024-03-11/what-to-know-about-the-march-12-primaries">What to Know About the March 12 Primaries</a></p></li> <li><p>NPR: <a href="https://www.npr.org/2024/03/12/1237582399/georgia-trump-biden-2024-election-weakness">Georgia on the mind of the Trump and Biden campaigns as the key state holds primary</a></p></li> </ul> <p><strong>Results:</strong></p
+
+## Poll Shows 74 Percent of Republicans Like Donald Trump’s Dictator Plan
+ - [https://www.reddit.com/r/politics/comments/1bd1sfu/poll_shows_74_percent_of_republicans_like_donald](https://www.reddit.com/r/politics/comments/1bd1sfu/poll_shows_74_percent_of_republicans_like_donald)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T16:40:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd1sfu/poll_shows_74_percent_of_republicans_like_donald/"> <img alt="Poll Shows 74 Percent of Republicans Like Donald Trump’s Dictator Plan" src="https://external-preview.redd.it/GDmj4bsvt0SNrCoRNPmR6njMJXGD6330P1SrJKVmOBk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=30e37b9be8b386d52d5ceed69d2b70ed738e1c75" title="Poll Shows 74 Percent of Republicans Like Donald Trump’s Dictator Plan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TigreSauvage"> /u/TigreSauvage </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-features/trump-dictator-poll-americans-1234962755/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd1sfu/poll_shows_74_percent_of_republicans_like_donald/">[comments]</a></span> </td></tr></table>
+
+## Biden Transcript Calls Into Question Special Counsel’s Bombshell Memory Claims - The president was never even asked about the timing of his son’s death.
+ - [https://www.reddit.com/r/politics/comments/1bd1o7r/biden_transcript_calls_into_question_special](https://www.reddit.com/r/politics/comments/1bd1o7r/biden_transcript_calls_into_question_special)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T16:35:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd1o7r/biden_transcript_calls_into_question_special/"> <img alt="Biden Transcript Calls Into Question Special Counsel’s Bombshell Memory Claims - The president was never even asked about the timing of his son’s death." src="https://external-preview.redd.it/frKZUIa3dPPALfy9dBFyGwNs-FvOf2Lwr3sOkkJe3gs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c4c8e70c0e89ba6225ee36cf0425f79942d965d" title="Biden Transcript Calls Into Question Special Counsel’s Bombshell Memory Claims - The president was never even asked about the timing of his son’s death." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.thedailybeast.com/biden-transcript-calls-into-question-hurs-bombshell-memory-claims">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd1o7r/biden_transcript_calls_into_question_special/">[comm
+
+## “Absolute bloodbath”: Republicans nervous as Trumpers purge RNC staff following MAGA takeover
+ - [https://www.reddit.com/r/politics/comments/1bd1cp6/absolute_bloodbath_republicans_nervous_as](https://www.reddit.com/r/politics/comments/1bd1cp6/absolute_bloodbath_republicans_nervous_as)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T16:23:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd1cp6/absolute_bloodbath_republicans_nervous_as/"> <img alt="“Absolute bloodbath”: Republicans nervous as Trumpers purge RNC staff following MAGA takeover" src="https://external-preview.redd.it/Sb0muC14e5rEeIcQpZ4unSiYuBX5ygaGh-kLxl0VM60.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=49cdbaaca2e7b2c10ec3e9500c31aa9485d31e84" title="“Absolute bloodbath”: Republicans nervous as Trumpers purge RNC staff following MAGA takeover" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/devlinadl"> /u/devlinadl </a> <br /> <span><a href="https://www.salon.com/2024/03/12/absolute-bloodbath-nervous-as-trumpers-purge-rnc-staff-following-maga-takeover/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd1cp6/absolute_bloodbath_republicans_nervous_as/">[comments]</a></span> </td></tr></table>
+
+## Dems Kick Off High-Profile Hearing With Supercut of Trump’s Mental Gaffes
+ - [https://www.reddit.com/r/politics/comments/1bd070a/dems_kick_off_highprofile_hearing_with_supercut](https://www.reddit.com/r/politics/comments/1bd070a/dems_kick_off_highprofile_hearing_with_supercut)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T15:36:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bd070a/dems_kick_off_highprofile_hearing_with_supercut/"> <img alt="Dems Kick Off High-Profile Hearing With Supercut of Trump’s Mental Gaffes" src="https://external-preview.redd.it/p21qGYAFHjkMBZXLd-JUa99Ans8egzWcx5QebtV-ctc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c43a153ce5e0c9e6584fef158bb157326baca0ce" title="Dems Kick Off High-Profile Hearing With Supercut of Trump’s Mental Gaffes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/democrats-supercut-trump-gaffes-robert-hur-hearing-1234985918/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bd070a/dems_kick_off_highprofile_hearing_with_supercut/">[comments]</a></span> </td></tr></table>
+
+## Biden campaign: Trump praise for Hitler ‘disgraceful but wholly unsurprising’
+ - [https://www.reddit.com/r/politics/comments/1bczvsq/biden_campaign_trump_praise_for_hitler](https://www.reddit.com/r/politics/comments/1bczvsq/biden_campaign_trump_praise_for_hitler)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T15:23:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bczvsq/biden_campaign_trump_praise_for_hitler/"> <img alt="Biden campaign: Trump praise for Hitler ‘disgraceful but wholly unsurprising’" src="https://external-preview.redd.it/1PZ1RDwTAqXoJx5s3IgRw-ZZ-JTkVWJpre_RkQkM8M4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbc10d010b6889578fc7ce3ab1d8072c49b67563" title="Biden campaign: Trump praise for Hitler ‘disgraceful but wholly unsurprising’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UWCG"> /u/UWCG </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4526186-biden-campaign-trump-praise-for-hitler-disgraceful-but-wholly-unsurprising/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bczvsq/biden_campaign_trump_praise_for_hitler/">[comments]</a></span> </td></tr></table>
+
+## Former Texas GOP official handed over 400 years for child sexual abuse
+ - [https://www.reddit.com/r/politics/comments/1bczkr3/former_texas_gop_official_handed_over_400_years](https://www.reddit.com/r/politics/comments/1bczkr3/former_texas_gop_official_handed_over_400_years)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T15:11:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bczkr3/former_texas_gop_official_handed_over_400_years/"> <img alt="Former Texas GOP official handed over 400 years for child sexual abuse" src="https://external-preview.redd.it/_yopYYqaoTQ9NSh-11Fk7x89Oo1pKUwsRxbkvZlW-PY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=06ae0c77b554674e5ed32e3ab0788070ac6b7b60" title="Former Texas GOP official handed over 400 years for child sexual abuse" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_katykakes"> /u/_katykakes </a> <br /> <span><a href="https://www.mysanantonio.com/news/local/article/bo-michael-dresner-sentenced-18920917.php">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bczkr3/former_texas_gop_official_handed_over_400_years/">[comments]</a></span> </td></tr></table>
+
+## Key classified documents witness who worked at Mar-a-Lago for 20 years comes forward and says Trump case is 'not a witch hunt'
+ - [https://www.reddit.com/r/politics/comments/1bcz119/key_classified_documents_witness_who_worked_at](https://www.reddit.com/r/politics/comments/1bcz119/key_classified_documents_witness_who_worked_at)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T14:48:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcz119/key_classified_documents_witness_who_worked_at/"> <img alt="Key classified documents witness who worked at Mar-a-Lago for 20 years comes forward and says Trump case is 'not a witch hunt'" src="https://external-preview.redd.it/b23rBhFTSbVczhYV9sr7JYdlvfePBnzFojAUhTNLoUk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2eb83475c4ff73ab7fe66577f8a4cf328ed4304f" title="Key classified documents witness who worked at Mar-a-Lago for 20 years comes forward and says Trump case is 'not a witch hunt'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bored-now"> /u/bored-now </a> <br /> <span><a href="https://www.businessinsider.com/witness-trump-classified-documents-case-it-witch-hunt-2024-3">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcz119/key_classified_documents_witness_who_worked_at/">[comments]</a></span> </td></tr></table>
+
+## Ex-Trump employee says ‘anybody’ could access Mar-a-Lago rooms where records were stored
+ - [https://www.reddit.com/r/politics/comments/1bcys46/extrump_employee_says_anybody_could_access](https://www.reddit.com/r/politics/comments/1bcys46/extrump_employee_says_anybody_could_access)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T14:37:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcys46/extrump_employee_says_anybody_could_access/"> <img alt="Ex-Trump employee says ‘anybody’ could access Mar-a-Lago rooms where records were stored" src="https://external-preview.redd.it/EN7Zr7LibeFOM_uoTofycyfNfDeOm1uF5J5duHFK0yQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce19021f36e8b586534eee50c226f8706f1bf0d0" title="Ex-Trump employee says ‘anybody’ could access Mar-a-Lago rooms where records were stored" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UGMadness"> /u/UGMadness </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/mar/12/trump-classified-docs-mar-a-lago-records-room">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcys46/extrump_employee_says_anybody_could_access/">[comments]</a></span> </td></tr></table>
+
+## Biden special counsel Robert Hur’s resignation from DOJ makes his testimony “even more problematic”
+ - [https://www.reddit.com/r/politics/comments/1bcy62u/biden_special_counsel_robert_hurs_resignation](https://www.reddit.com/r/politics/comments/1bcy62u/biden_special_counsel_robert_hurs_resignation)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T14:10:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcy62u/biden_special_counsel_robert_hurs_resignation/"> <img alt="Biden special counsel Robert Hur’s resignation from DOJ makes his testimony “even more problematic”" src="https://external-preview.redd.it/ehpqKdBDbVueYdP_98053dy42RdYyadn7WkTAndEHgs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6bbc139fb27e757091b7efba53a9d8405c856edd" title="Biden special counsel Robert Hur’s resignation from DOJ makes his testimony “even more problematic”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plastic-Age5205"> /u/Plastic-Age5205 </a> <br /> <span><a href="https://www.salon.com/2024/03/12/biden-special-counsel-robert-hurs-resignation-from-doj-makes-his-testimony-even-more-problematic/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcy62u/biden_special_counsel_robert_hurs_resignation/">[comments]</a></span> </td></tr></table>
+
+## How the Media Whitewashes the Trump-MAGA Threat—Revealed by an Insider
+ - [https://www.reddit.com/r/politics/comments/1bcy4bo/how_the_media_whitewashes_the_trumpmaga](https://www.reddit.com/r/politics/comments/1bcy4bo/how_the_media_whitewashes_the_trumpmaga)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T14:08:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcy4bo/how_the_media_whitewashes_the_trumpmaga/"> <img alt="How the Media Whitewashes the Trump-MAGA Threat—Revealed by an Insider" src="https://external-preview.redd.it/YwD0klAJBb4slmv4I5L0jyruV3JZx3UjR6kI4uxueFY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf8cd1fdcea220ab8c7d54b970e6cc9329603a6f" title="How the Media Whitewashes the Trump-MAGA Threat—Revealed by an Insider" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://newrepublic.com/article/179751/media-whitewashes-trump-maga-threat">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcy4bo/how_the_media_whitewashes_the_trumpmaga/">[comments]</a></span> </td></tr></table>
+
+## /r/Politics' 2024 US Elections Live Thread, Part 4
+ - [https://www.reddit.com/r/politics/comments/1bcy44w/rpolitics_2024_us_elections_live_thread_part_4](https://www.reddit.com/r/politics/comments/1bcy44w/rpolitics_2024_us_elections_live_thread_part_4)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T14:08:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcy44w/rpolitics_2024_us_elections_live_thread_part_4/"> <img alt="/r/Politics' 2024 US Elections Live Thread, Part 4" src="https://b.thumbs.redditmedia.com/V0gHmPqnC-dATky1cioXlCQRu4rbapg0xT6jYPYlrpI.jpg" title="/r/Politics' 2024 US Elections Live Thread, Part 4" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PoliticsModeratorBot"> /u/PoliticsModeratorBot </a> <br /> <span><a href="https://www.reddit.com/r/politics/comments/1b81n47/rpolitics_2024_us_elections_live_thread_part_3/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcy44w/rpolitics_2024_us_elections_live_thread_part_4/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump said Adolf Hitler "did some good things" and praised Vladimir Putin on more than one occasion during his time in the White House, his former chief of staff has claimed.
+ - [https://www.reddit.com/r/politics/comments/1bcy3fe/donald_trump_said_adolf_hitler_did_some_good](https://www.reddit.com/r/politics/comments/1bcy3fe/donald_trump_said_adolf_hitler_did_some_good)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T14:07:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcy3fe/donald_trump_said_adolf_hitler_did_some_good/"> <img alt="Donald Trump said Adolf Hitler &quot;did some good things&quot; and praised Vladimir Putin on more than one occasion during his time in the White House, his former chief of staff has claimed." src="https://external-preview.redd.it/zidgaeSNnPZX_Z47FNBGNygK2N2uLoHbXnYh8m9LGPA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a11260d8be1209987724feb7ad4928b611d0593" title="Donald Trump said Adolf Hitler &quot;did some good things&quot; and praised Vladimir Putin on more than one occasion during his time in the White House, his former chief of staff has claimed." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Lengthiness6724"> /u/Ok_Lengthiness6724 </a> <br /> <span><a href="https://news.sky.com/story/donald-trump-praised-hitler-putin-and-kim-jong-un-former-chief-of-staff-claims-13092843?dcmp=snt-sf-twitter">[li
+
+## Another Rising GOP Star Succumbs To Their Own Buffoonery
+ - [https://www.reddit.com/r/politics/comments/1bcxmzm/another_rising_gop_star_succumbs_to_their_own](https://www.reddit.com/r/politics/comments/1bcxmzm/another_rising_gop_star_succumbs_to_their_own)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T13:46:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcxmzm/another_rising_gop_star_succumbs_to_their_own/"> <img alt="Another Rising GOP Star Succumbs To Their Own Buffoonery" src="https://external-preview.redd.it/xJvUnE3E3eci2VlPSb-DCvJuPYjJdv8Yw8LEwPqnLtc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=634e483e202d972e759f2aaf01f918013477f0fa" title="Another Rising GOP Star Succumbs To Their Own Buffoonery" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Arrest_The_President"> /u/Arrest_The_President </a> <br /> <span><a href="https://talkingpointsmemo.com/morning-memo/katie-britt-sex-trafficking-lie-state-of-the-union-response">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcxmzm/another_rising_gop_star_succumbs_to_their_own/">[comments]</a></span> </td></tr></table>
+
+## Team Trump Begs Him to Keep His Mouth Shut at NYC Criminal Trial
+ - [https://www.reddit.com/r/politics/comments/1bcxdgx/team_trump_begs_him_to_keep_his_mouth_shut_at_nyc](https://www.reddit.com/r/politics/comments/1bcxdgx/team_trump_begs_him_to_keep_his_mouth_shut_at_nyc)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T13:34:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcxdgx/team_trump_begs_him_to_keep_his_mouth_shut_at_nyc/"> <img alt="Team Trump Begs Him to Keep His Mouth Shut at NYC Criminal Trial" src="https://external-preview.redd.it/YTFsIRMWwrj7BAoWuzrP2PJRrXceMiS4Hk5EM5JQm9A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c3ba3839da208c8f2eceec4590134538c5bcbe5" title="Team Trump Begs Him to Keep His Mouth Shut at NYC Criminal Trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-features/team-trump-mouth-shut-new-york-criminal-trial-1234985735/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcxdgx/team_trump_begs_him_to_keep_his_mouth_shut_at_nyc/">[comments]</a></span> </td></tr></table>
+
+## Trump access bought by Anthony Pratt, longtime Mar-a-Lago employee alleges
+ - [https://www.reddit.com/r/politics/comments/1bcwrkw/trump_access_bought_by_anthony_pratt_longtime](https://www.reddit.com/r/politics/comments/1bcwrkw/trump_access_bought_by_anthony_pratt_longtime)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T13:04:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcwrkw/trump_access_bought_by_anthony_pratt_longtime/"> <img alt="Trump access bought by Anthony Pratt, longtime Mar-a-Lago employee alleges" src="https://external-preview.redd.it/xHsLAB80YpVxizOcENT0cNCtVq1uiEYnb450bjdo9v8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3b596fd95e993ba69c2d39ca6c3d95472d6e1d0" title="Trump access bought by Anthony Pratt, longtime Mar-a-Lago employee alleges" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FortheFun1113"> /u/FortheFun1113 </a> <br /> <span><a href="https://www.smh.com.au/world/north-america/red-flags-went-up-former-mar-a-lago-worker-tells-of-pratt-s-relationship-with-trump-20240312-p5fbto.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcwrkw/trump_access_bought_by_anthony_pratt_longtime/">[comments]</a></span> </td></tr></table>
+
+## Biden Is Daring Republicans to Oppose Soaking the Rich
+ - [https://www.reddit.com/r/politics/comments/1bcwadi/biden_is_daring_republicans_to_oppose_soaking_the](https://www.reddit.com/r/politics/comments/1bcwadi/biden_is_daring_republicans_to_oppose_soaking_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T12:40:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcwadi/biden_is_daring_republicans_to_oppose_soaking_the/"> <img alt="Biden Is Daring Republicans to Oppose Soaking the Rich" src="https://external-preview.redd.it/vsGsRvy93KEDrDFQSykkpem4JBrOMmVo279KMef9SBg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8292bd83477215b55c02486e802ec97b852c83d" title="Biden Is Daring Republicans to Oppose Soaking the Rich" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OtmShanks55"> /u/OtmShanks55 </a> <br /> <span><a href="https://newrepublic.com/article/179749/biden-budget-taxes-daring-republicans-soak-rich">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcwadi/biden_is_daring_republicans_to_oppose_soaking_the/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump stung as new poll shows how unpopular he is
+ - [https://www.reddit.com/r/politics/comments/1bcvqzf/donald_trump_stung_as_new_poll_shows_how](https://www.reddit.com/r/politics/comments/1bcvqzf/donald_trump_stung_as_new_poll_shows_how)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T12:12:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcvqzf/donald_trump_stung_as_new_poll_shows_how/"> <img alt="Donald Trump stung as new poll shows how unpopular he is" src="https://external-preview.redd.it/go2KM3bzZvxofcIxI12L2rFnTGNLHsOC5HNqlzhdBOM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ab4ae5de5a2b4931eaf553c1cae1d8715c7decd" title="Donald Trump stung as new poll shows how unpopular he is" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BelleAriel"> /u/BelleAriel </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-unpopular-polls-2024-election-1877870">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcvqzf/donald_trump_stung_as_new_poll_shows_how/">[comments]</a></span> </td></tr></table>
+
+## In states with laws targeting LGBTQ issues, school hate crimes quadrupled
+ - [https://www.reddit.com/r/politics/comments/1bcvogi/in_states_with_laws_targeting_lgbtq_issues_school](https://www.reddit.com/r/politics/comments/1bcvogi/in_states_with_laws_targeting_lgbtq_issues_school)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T12:08:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcvogi/in_states_with_laws_targeting_lgbtq_issues_school/"> <img alt="In states with laws targeting LGBTQ issues, school hate crimes quadrupled" src="https://external-preview.redd.it/6rxcWoaTbIbMZWiANdifcI4nj1cOx9griO7Hc1dvUB4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e0d6949b53eeca5c66ea7fbea038e94ebfc0013" title="In states with laws targeting LGBTQ issues, school hate crimes quadrupled" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Sweet-8495"> /u/Ok-Sweet-8495 </a> <br /> <span><a href="https://www.washingtonpost.com/education/2024/03/12/school-lgbtq-hate-crimes-incidents/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzEwMjE2MDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzExNTk4Mzk5LCJpYXQiOjE3MTAyMTYwMDAsImp0aSI6ImViNTVlYzBhLWU2N2EtNDAzNi05MGU3LTI1NzE2MmNhYzM2YSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lZHVjYXRpb24
+
+## RNC Has Become 'Trump's Toilet,' Republican Complains
+ - [https://www.reddit.com/r/politics/comments/1bcvbgy/rnc_has_become_trumps_toilet_republican_complains](https://www.reddit.com/r/politics/comments/1bcvbgy/rnc_has_become_trumps_toilet_republican_complains)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T11:48:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcvbgy/rnc_has_become_trumps_toilet_republican_complains/"> <img alt="RNC Has Become 'Trump's Toilet,' Republican Complains" src="https://external-preview.redd.it/DMlp7OLpUOcjaslWb99UEhAu-5Jxpuv4ZYjUmr9WTH4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e60f52d952ab8fce91905878b231e00ba0474bc" title="RNC Has Become 'Trump's Toilet,' Republican Complains" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SingleandSober"> /u/SingleandSober </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-republican-national-committee-toilet-adam-kinzinger-lara-trump-1878238">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcvbgy/rnc_has_become_trumps_toilet_republican_complains/">[comments]</a></span> </td></tr></table>
+
+## Former Trump employee recounts situation where he thinks foreign businessman obtained sensitive information from meeting with Trump
+ - [https://www.reddit.com/r/politics/comments/1bcv69j/former_trump_employee_recounts_situation_where_he](https://www.reddit.com/r/politics/comments/1bcv69j/former_trump_employee_recounts_situation_where_he)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T11:40:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcv69j/former_trump_employee_recounts_situation_where_he/"> <img alt="Former Trump employee recounts situation where he thinks foreign businessman obtained sensitive information from meeting with Trump" src="https://external-preview.redd.it/gcGtUYWjll8nyElEHtNyUP-lKLwmR5CfYbGaqcwAXPo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=11c15aa9e6370826768795068c17770ccd98c11f" title="Former Trump employee recounts situation where he thinks foreign businessman obtained sensitive information from meeting with Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JulesVelour"> /u/JulesVelour </a> <br /> <span><a href="https://www.cnn.com/videos/politics/2024/03/12/anthony-pratt-trump-classified-information-brian-butler-tsc-hnk-vpx.cnn">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcv69j/former_trump_employee_recounts_situation_where_he/">[comme
+
+## Trump asked Elon Musk if he wanted to buy Truth Social
+ - [https://www.reddit.com/r/politics/comments/1bcuyy5/trump_asked_elon_musk_if_he_wanted_to_buy_truth](https://www.reddit.com/r/politics/comments/1bcuyy5/trump_asked_elon_musk_if_he_wanted_to_buy_truth)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T11:29:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcuyy5/trump_asked_elon_musk_if_he_wanted_to_buy_truth/"> <img alt="Trump asked Elon Musk if he wanted to buy Truth Social " src="https://external-preview.redd.it/XhLLbD2haAkzvTo9-APUUvcuDy559-SrVJE8F58CL2o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a7798b06d3a0ac575f7f11429c2bd3bf29b552a" title="Trump asked Elon Musk if he wanted to buy Truth Social " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AzuleEyez"> /u/AzuleEyez </a> <br /> <span><a href="https://www.washingtonpost.com/technology/2024/03/12/trump-musk-truth-social-sale/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcuyy5/trump_asked_elon_musk_if_he_wanted_to_buy_truth/">[comments]</a></span> </td></tr></table>
+
+## Anti-Trump Group of Republicans Lays Out $50 Million Plan of Attack
+ - [https://www.reddit.com/r/politics/comments/1bcumbb/antitrump_group_of_republicans_lays_out_50](https://www.reddit.com/r/politics/comments/1bcumbb/antitrump_group_of_republicans_lays_out_50)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T11:07:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcumbb/antitrump_group_of_republicans_lays_out_50/"> <img alt="Anti-Trump Group of Republicans Lays Out $50 Million Plan of Attack" src="https://external-preview.redd.it/FZVIYSTv9C-fZwIaeSm2YInIGj6WMO-Aq0oxzwNXKQ0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=997e6ceea5cde192aec6e6540f8ae4e9dc815ba7" title="Anti-Trump Group of Republicans Lays Out $50 Million Plan of Attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SingleandSober"> /u/SingleandSober </a> <br /> <span><a href="https://www.nytimes.com/2024/03/12/us/politics/republican-voters-against-trump.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcumbb/antitrump_group_of_republicans_lays_out_50/">[comments]</a></span> </td></tr></table>
+
+## Republican women don't care about rape victims
+ - [https://www.reddit.com/r/politics/comments/1bcukr6/republican_women_dont_care_about_rape_victims](https://www.reddit.com/r/politics/comments/1bcukr6/republican_women_dont_care_about_rape_victims)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T11:05:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcukr6/republican_women_dont_care_about_rape_victims/"> <img alt="Republican women don't care about rape victims" src="https://external-preview.redd.it/SBidPJSkLEpKjEzlzIBdWVBifFTdDo2MoAlaOErsNWA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a1c1d1330655b8c14b858717615cc0283fefc01" title="Republican women don't care about rape victims" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.salon.com/2024/03/12/women-dont-care-about-rape-victims/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcukr6/republican_women_dont_care_about_rape_victims/">[comments]</a></span> </td></tr></table>
+
+## "Obviously low IQ": Former DHS official says "Donald Trump has apparent repeated memory lapses"
+ - [https://www.reddit.com/r/politics/comments/1bcuk5e/obviously_low_iq_former_dhs_official_says_donald](https://www.reddit.com/r/politics/comments/1bcuk5e/obviously_low_iq_former_dhs_official_says_donald)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T11:04:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcuk5e/obviously_low_iq_former_dhs_official_says_donald/"> <img alt="&quot;Obviously low IQ&quot;: Former DHS official says &quot;Donald Trump has apparent repeated memory lapses&quot;" src="https://external-preview.redd.it/s3jVnO8eseTG8fFa3RWS50AmVWyqdriQmQEX6_z43PE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=671dac5e47e20b038c7ca66904adf0680fbddd0d" title="&quot;Obviously low IQ&quot;: Former DHS official says &quot;Donald Trump has apparent repeated memory lapses&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/devlinadl"> /u/devlinadl </a> <br /> <span><a href="https://www.salon.com/2024/03/12/obviously-low-iq-former-dhs-official-says-donald-has-apparent-repeated-memory-lapses/?utm_source=pocket_saves">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcuk5e/obviously_low_iq_former_dhs_official_says_donald/">[comments]</a></span
+
+## Trump’s love for Viktor Orbán hints at what another Trump term will look like
+ - [https://www.reddit.com/r/politics/comments/1bctyz0/trumps_love_for_viktor_orbán_hints_at_what](https://www.reddit.com/r/politics/comments/1bctyz0/trumps_love_for_viktor_orbán_hints_at_what)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T10:27:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bctyz0/trumps_love_for_viktor_orbán_hints_at_what/"> <img alt="Trump’s love for Viktor Orbán hints at what another Trump term will look like" src="https://external-preview.redd.it/0t4EdVqsPm0R6KIbCMU9YAoVSvZORweERxb6xMjD7gc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=96416e75956f1a5a458c1c6fc2142e843726634c" title="Trump’s love for Viktor Orbán hints at what another Trump term will look like" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ready_Panda"> /u/Ready_Panda </a> <br /> <span><a href="https://www.theguardian.com/commentisfree/2024/mar/12/trump-viktor-orban-reelection">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bctyz0/trumps_love_for_viktor_orbán_hints_at_what/">[comments]</a></span> </td></tr></table>
+
+## E. Jean Carroll lawyer suggests third Trump defamation lawsuit possible after new comments
+ - [https://www.reddit.com/r/politics/comments/1bcs2ru/e_jean_carroll_lawyer_suggests_third_trump](https://www.reddit.com/r/politics/comments/1bcs2ru/e_jean_carroll_lawyer_suggests_third_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T08:18:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcs2ru/e_jean_carroll_lawyer_suggests_third_trump/"> <img alt="E. Jean Carroll lawyer suggests third Trump defamation lawsuit possible after new comments" src="https://external-preview.redd.it/4cjRTK4e7Mz5vD7CYLASyZiNprlwcIJekhYCOslmwrk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=24204738330590ff99f3dd00ee109805ae93b52d" title="E. Jean Carroll lawyer suggests third Trump defamation lawsuit possible after new comments" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CL-Young"> /u/CL-Young </a> <br /> <span><a href="https://www.cnbc.com/2024/03/11/trump-again-attacks-e-jean-carroll-as-he-appeals-rape-defamation-penalties.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcs2ru/e_jean_carroll_lawyer_suggests_third_trump/">[comments]</a></span> </td></tr></table>
+
+## Trump says one of his first actions would be freeing imprisoned Jan. 6 rioters
+ - [https://www.reddit.com/r/politics/comments/1bcmsjw/trump_says_one_of_his_first_actions_would_be](https://www.reddit.com/r/politics/comments/1bcmsjw/trump_says_one_of_his_first_actions_would_be)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T03:04:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcmsjw/trump_says_one_of_his_first_actions_would_be/"> <img alt="Trump says one of his first actions would be freeing imprisoned Jan. 6 rioters" src="https://external-preview.redd.it/z2NB-TfyzJ3PHscl8wjf5wVqH-o_d8hZXxNZFO2dHbQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b0feeae55fc66df5f291fb44662e21bff4ff8ca" title="Trump says one of his first actions would be freeing imprisoned Jan. 6 rioters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jlbhappy"> /u/jlbhappy </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4525258-trump-says-one-of-his-first-actions-would-be-freeing-imprisoned-jan-6-rioters/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcmsjw/trump_says_one_of_his_first_actions_would_be/">[comments]</a></span> </td></tr></table>
+
+## Trump’s TikTok reversal suggests his China policy is for sale
+ - [https://www.reddit.com/r/politics/comments/1bclogs/trumps_tiktok_reversal_suggests_his_china_policy](https://www.reddit.com/r/politics/comments/1bclogs/trumps_tiktok_reversal_suggests_his_china_policy)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T02:10:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bclogs/trumps_tiktok_reversal_suggests_his_china_policy/"> <img alt="Trump’s TikTok reversal suggests his China policy is for sale" src="https://external-preview.redd.it/ku5kLLi0cfRSaeND5IFEwXY6KIjr_rly4WJhEvwQQ6U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7da740c45872867c4e7b9a40a60714a08e96cfe9" title="Trump’s TikTok reversal suggests his China policy is for sale" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/croato87"> /u/croato87 </a> <br /> <span><a href="https://www.washingtonpost.com/opinions/2024/03/11/trump-tiktok-donor-china-foreign-policy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bclogs/trumps_tiktok_reversal_suggests_his_china_policy/">[comments]</a></span> </td></tr></table>
+
+## Trump RNC 'purge' has some committee members nervous about party footing his legal bills
+ - [https://www.reddit.com/r/politics/comments/1bcldpt/trump_rnc_purge_has_some_committee_members](https://www.reddit.com/r/politics/comments/1bcldpt/trump_rnc_purge_has_some_committee_members)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T01:56:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcldpt/trump_rnc_purge_has_some_committee_members/"> <img alt="Trump RNC 'purge' has some committee members nervous about party footing his legal bills" src="https://external-preview.redd.it/eQgdAIr4AgU6aA1uuoAn2ji-4b_l2mvDTt5bQihRqp8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=539d408aca13adc63ebefdd873edddb95f2f8bb1" title="Trump RNC 'purge' has some committee members nervous about party footing his legal bills" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/croato87"> /u/croato87 </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/elections/2024/03/07/trump-rnc-purge/72856982007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcldpt/trump_rnc_purge_has_some_committee_members/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Biden Mockery Upsets People Who Stutter: ‘We’ve Heard This Before’
+ - [https://www.reddit.com/r/politics/comments/1bckhyd/trumps_biden_mockery_upsets_people_who_stutter](https://www.reddit.com/r/politics/comments/1bckhyd/trumps_biden_mockery_upsets_people_who_stutter)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T01:17:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bckhyd/trumps_biden_mockery_upsets_people_who_stutter/"> <img alt="Trump’s Biden Mockery Upsets People Who Stutter: ‘We’ve Heard This Before’" src="https://external-preview.redd.it/0ia0o6Kgc8Z7Y9SGWP8MesCscHKamZGRt03LZQC6yq8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=759e2fb27199d6f234e9dfc7760e0aa6866cf676" title="Trump’s Biden Mockery Upsets People Who Stutter: ‘We’ve Heard This Before’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zaparthes"> /u/zaparthes </a> <br /> <span><a href="https://www.nytimes.com/2024/03/11/us/politics/trump-mocks-biden-stutter.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bckhyd/trumps_biden_mockery_upsets_people_who_stutter/">[comments]</a></span> </td></tr></table>
+
+## Former Mar-a-Lago worker comes forward and describes moving materials in Trump classified docs case
+ - [https://www.reddit.com/r/politics/comments/1bckeui/former_maralago_worker_comes_forward_and](https://www.reddit.com/r/politics/comments/1bckeui/former_maralago_worker_comes_forward_and)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T01:13:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bckeui/former_maralago_worker_comes_forward_and/"> <img alt="Former Mar-a-Lago worker comes forward and describes moving materials in Trump classified docs case" src="https://external-preview.redd.it/SDFGgKt6qQ66RhMVm8BP1DIpMUY5XlDDaiAYWOYTQf4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c41fcb2abd491e95cc2840bb6627ba8a8d786e7" title="Former Mar-a-Lago worker comes forward and describes moving materials in Trump classified docs case" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ben_watson_jr"> /u/ben_watson_jr </a> <br /> <span><a href="https://www.nbcnews.com/politics/donald-trump/former-mar-lago-worker-describes-moving-materials-trump-classified-doc-rcna142869">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bckeui/former_maralago_worker_comes_forward_and/">[comments]</a></span> </td></tr></table>
+
+## ‘Absolute bloodbath’ at RNC as new leadership loyal to Trump purges staff
+ - [https://www.reddit.com/r/politics/comments/1bcit6l/absolute_bloodbath_at_rnc_as_new_leadership_loyal](https://www.reddit.com/r/politics/comments/1bcit6l/absolute_bloodbath_at_rnc_as_new_leadership_loyal)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-03-12T00:02:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bcit6l/absolute_bloodbath_at_rnc_as_new_leadership_loyal/"> <img alt="‘Absolute bloodbath’ at RNC as new leadership loyal to Trump purges staff" src="https://external-preview.redd.it/mtBG1KALwTOEKohMQKo6RluK4WJ4jKPMoCdcVzhCZlk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6a6a36c34f4e5787b4bfe49ab9ea02560e4bc74" title="‘Absolute bloodbath’ at RNC as new leadership loyal to Trump purges staff" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SnooWords6443"> /u/SnooWords6443 </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/mar/11/new-rnc-leadership-trump-loyals-purge-staff">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bcit6l/absolute_bloodbath_at_rnc_as_new_leadership_loyal/">[comments]</a></span> </td></tr></table>
+

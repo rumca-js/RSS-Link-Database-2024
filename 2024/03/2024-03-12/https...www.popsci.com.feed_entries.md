@@ -1,0 +1,82 @@
+# Source:Popular Science, URL:https://www.popsci.com/feed, language:en-US
+
+## The best fire pit tables in 2024
+ - [https://www.popsci.com/gear/best-fire-pit-tables](https://www.popsci.com/gear/best-fire-pit-tables)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-12T20:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--productTable">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="The best fire pit tables of 2024 on a plain white background." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="936" src="https://www.popsci.com/uploads/2024/03/12/The-best-fire-pit-tables-of-2024.jpg?auto=webp&amp;width=1440&amp;height=936" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><div class="orgnc-SingleImage-creditTop">Brandt Ranj / Popular Science </div></figure><p>Warm up your backyard get-togethers with the best fire pit tables, which are aesthetically pleasing and highly functional. </p>
+<p>The post <a href="https://www.popsci.com/gear/best-fire-pit-tables/">The best fire pit tables in 2024</a> appeared first on <a href="https://www.popsci.com">Popular Science</a>.</p>
+
+## Dish soap, hotel key cards, and confusion: Boeing FAA audit unearths dozens of issues
+ - [https://www.popsci.com/technology/boeing-faa-audit](https://www.popsci.com/technology/boeing-faa-audit)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-12T19:00:50+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="The FAA conducted an audit of Boeing’s 737 Max production facility after a door plug blew off during a commercial flight in January." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2024/03/12/boeing-door-plug.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">The FAA conducted an audit of Boeing’s 737 Max production facility after a door plug blew off during a commercial flight in January. <span class="orgnc-SingleImage-credit">PATRICK T. FALLON/AFP via Getty Images</span></figcaption></figure><p>'This won’t be back to business as usual...'</p>
+<p>The post <a href="https://www.popsci.com/technology/boeing-faa-audit
+
+## Save 50% on a wireless outdoor security system from Blink at Amazon
+ - [https://www.popsci.com/gear/blink-outdoor-security-cameras-amazon-deal](https://www.popsci.com/gear/blink-outdoor-security-cameras-amazon-deal)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-12T17:55:30+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A Blink outdoor camera on a fence" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="626" src="https://www.popsci.com/uploads/2024/03/12/Blink-Camera-Amazon-deal.jpg?auto=webp" style="display: block; margin: auto; margin-bottom: 5px;" width="1000" /></div><figcaption class="orgnc-SingleImage-caption"><span class="orgnc-SingleImage-credit">Blink</span></figcaption></figure><p>This deal will be gone in the blink of an eye if you wait. </p>
+<p>The post <a href="https://www.popsci.com/gear/blink-outdoor-security-cameras-amazon-deal/">Save 50% on a wireless outdoor security system from Blink at Amazon</a> appeared first on <a href="https://www.popsci.com">Popular Science</a>.</p>
+
+## Why Ski-Doo is the only snowmobile permitted in Yellowstone
+ - [https://www.popsci.com/technology/snowmobiles-yellowstone-ski-doo](https://www.popsci.com/technology/snowmobiles-yellowstone-ski-doo)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-12T17:04:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Two snowmobiles ride on the snow next to a river with a mountain and forest in the background" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="960" src="https://www.popsci.com/uploads/2024/03/11/Ben-Dann_Ski-Doo-12.jpg?auto=webp&amp;width=1440&amp;height=960" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">Snowmobiles have been permitted inside Yellowstone since 1963, and must be approved sleds that have fewer than 6,000 miles on the odometer. <span class="orgnc-SingleImage-credit">Ben Dann/Ski-Doo</span></figcaption></figure><p>The park's rules protect wildlife–and keep things quiet.</p>
+<p>The post <a href="https://www.popsci.com/technology/snowmobiles-yellowstone-ski-doo/">Why Ski-Doo is the on
+
+## Sorry, Darwin: Most male mammals aren’t bigger than females
+ - [https://www.popsci.com/environment/male-female-mammal-size](https://www.popsci.com/environment/male-female-mammal-size)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-12T16:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="a group of black and white ring-tailed lemurs sitting in green trees." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2024/03/12/lemurs-in-tree.png?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">Male and female lemurs tend to be the same size, unlike some other primates like gorillas. <span class="orgnc-SingleImage-credit"><a href="https://depositphotos.com/photo/lemur-family-14109475.html">Deposit Photos</a></span></figcaption></figure><p>'It’s very Victorian Era thinking about gender roles.'</p>
+<p>The post <a href="https://www.popsci.com/environment/male-female-mammal-size/">Sorry, Darwin: Most male mammals aren
+
+## Huge 60-foot-tall buoy uses ocean waves to create clean energy
+ - [https://www.popsci.com/technology/buoy-wave-generator](https://www.popsci.com/technology/buoy-wave-generator)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-12T14:20:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="CorPower C4 buoy turbine in ocean" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2024/03/12/CPO-PT_11-10-23_199.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">The buoy shifts into a passive 'transparent' mode when the waters get too choppy. <span class="orgnc-SingleImage-credit"><a href="https://company-230277.frontify.com/d/R8YsMrfLrpiK">CorPower</a></span></figcaption></figure><p>CorPower’s C4 prototype just completed a successful six-month test run off the coast of Portugal. Here are the results.</p>
+<p>The post <a href="https://www.popsci.com/technology/buoy-wave-generator/">Huge 60-foot-tall buoy uses oce
+
+## Detergent pods are only the start of clothing’s microplastic pollution problem
+ - [https://www.popsci.com/environment/detergent-pods-clothing-microplastic-pollution](https://www.popsci.com/environment/detergent-pods-clothing-microplastic-pollution)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-12T13:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="The Pods Are Plastic bill faces uncertain prospects in the New York City Council. If it does pass, however, it will only go a short way toward mitigating laundry-related microplastic pollution. " class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2024/03/12/detergent-pods.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">The Pods Are Plastic bill faces uncertain prospects in the New York City Council. If it does pass, however, it will only go a short way toward mitigating laundry-related microplastic pollution. <span class="orgnc-SingleImage-credit"><a href="https://depositphotos.com/photo/washing-capsules-capsules-li
+
+## Level up your tech with a Grade A refurbished Lenovo ThinkCentre M92 SFF, now $139.99
+ - [https://www.popsci.com/sponsored-content/refurbished-lenovo-thinkcentre-m920-sff-deal](https://www.popsci.com/sponsored-content/refurbished-lenovo-thinkcentre-m920-sff-deal)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-12T13:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A black refurbished Lenovo ThinkCentre M92 SFF on a plain background." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="800" src="https://www.popsci.com/uploads/2024/03/11/image-1.png?auto=webp" style="display: block; margin: auto; margin-bottom: 5px;" width="1067" /></div><figcaption class="orgnc-SingleImage-caption"><span class="orgnc-SingleImage-credit">Stack Commerce</span></figcaption></figure><p>Quantities are limited—grab one, before they run out.</p>
+<p>The post <a href="https://www.popsci.com/sponsored-content/refurbished-lenovo-thinkcentre-m920-sff-deal/">Level up your tech with a Grade A refurbished Lenovo ThinkCentre M92 SFF, now $139.99</a> appeared first on <a href="https://www.popsci.com">Popular Science</a>.</p>
+
+## How to use iPhone Focus modes to avoid distractions
+ - [https://www.popsci.com/diy/how-to-customize-iphone-focus-mode](https://www.popsci.com/diy/how-to-customize-iphone-focus-mode)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2024-03-12T12:13:11+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Is your phone too distracting? Focus modes can help." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2024/03/11/iphone_focus_modes_annie-1.jpg?auto=webp&amp;width=1440&amp;height=810.432" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">Is your phone too distracting? Focus modes can help. <span class="orgnc-SingleImage-credit">PopSci</span></figcaption></figure><p>Customize your settings for work, sleep, fitness, or anything really.</p>
+<p>The post <a href="https://www.popsci.com/diy/how-to-customize-iphone-focus-mode/">How to use iPhone Focus modes to avoid distractions</a> appeared first on <a href="https://www.popsci.com">Popular Science</a>.</p>
+

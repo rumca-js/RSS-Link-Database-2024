@@ -1,0 +1,30 @@
+# Source:Dicebreaker Latest Articles Feed, URL:https://www.dicebreaker.com/feed, language:en
+
+## Almost a fifth of money raised by Kickstarter projects goes to scam campaigns, report alleges
+ - [https://www.dicebreaker.com/companies/kickstarter/news/fifth-of-money-raised-by-kickstarter-projects-goes-to-scams-report-alleges?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/companies/kickstarter/news/fifth-of-money-raised-by-kickstarter-projects-goes-to-scams-report-alleges?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-03-12T15:08:52+00:00
+
+<img src="https://assetsio.reedpopcdn.com/kickstarter-laptop-image.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Fraud is allegedly rampant on Kickstarter, a new report has claimed, with nearly a fifth of revenue raised on the crowdfunding giant going toward scams.</p><p>That&rsquo;s according to a lengthy report in <a href="https://fortune.com/crypto/2024/03/11/kickstarter-blockchain-a16z-crypto-secret-investment-chris-dixon/">Fortune</a> [<em>paywalled</em>] covering the crowdfunding platform&rsquo;s turbulent history and current difficulties in the wake of its controversial blockchain plans and emerging rivals, which cited Kickstarter&rsquo;s own alleged internal data in estimating that up to 18% of revenue originates from fraudulent projects.</p><p>While the claim didn&rsquo;t break down the figure by different categories on the crowdfunding site - which has built up particular popularity among tabletop creators looking t
+
+## Dune: Imperium Digital lets the spice flow on mobile and Xbox as it exits early access on PC tomorrow
+ - [https://www.dicebreaker.com/games/dune-imperium/news/dune-imperium-digital-release-date-mobile-xbox-pc?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/dune-imperium/news/dune-imperium-digital-release-date-mobile-xbox-pc?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-03-12T13:40:14+00:00
+
+<img src="https://assetsio.reedpopcdn.com/dune-imperium-digital-gameplay-cards.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Dune: Imperium, the board game hybrid of deckbuilding cardplay and worker-placement management set in the spicy sci-fi universe, will see a full digital release tomorrow. The app&rsquo;s arrival on mobile devices and Xbox consoles accompanies its PC port exiting early access.</p><p>Dune: Imperium Digital first brought designer Paul Dennen&rsquo;s race for victory points as the likes of Paul Atreides and Baron Harkonnen, building up your unique deck of resource and action cards to send out agents, command troops and collect valuable spice, to PC last year.</p><p>By using their cards carefully to sway the political factions of the Duniverse for advantages and outdo their opponents in fights for additional rewards at the end of each round, players advance their way to a winning 10 victory points.</p> <p><a
+
+## Former Arkham Horror LCG lead dev Maxine Newman joins Earthborne Rangers studio as eco card game's lead designer
+ - [https://www.dicebreaker.com/games/earthborne-rangers/news/former-arkham-horror-lcg-lead-dev-joins-earthborne-rangers-studio?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/earthborne-rangers/news/former-arkham-horror-lcg-lead-dev-joins-earthborne-rangers-studio?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-03-12T12:31:34+00:00
+
+<img src="https://assetsio.reedpopcdn.com/earthborne-rangers-maxine-newman-artwork.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The co-creator and former lead developer for the Arkham Horror <a href="https://www.dicebreaker.com/categories/trading-card-game/best-games/best-trading-collectible-expandable-card-games">living card game</a> has reunited with the game&rsquo;s ex-creative director at newfounded studio Earthborne Games, where she&rsquo;ll work on its debut co-op card game Earthborne Rangers as lead designer.</p><p>Maxine &lsquo;MJ&rsquo; Newman <a href="https://www.dicebreaker.com/games/arkham-horror-the-card-game/news/arkham-horror-lcg-co-creator-leaves-fantasy-flight">departed Fantasy Flight Games last week</a>, having spent more than a decade working on the publisher&rsquo;s living card games including The Lord of the Rings: The Card Game and Arkham Horror: The Card Game. She co-created and headed up the latter as
+
+## 5 best Yu-Gi-Oh! structure decks in the TCG’s history
+ - [https://www.dicebreaker.com/games/yu-gi-oh-tcg/best-games/best-yu-gi-oh-structure-decks?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/yu-gi-oh-tcg/best-games/best-yu-gi-oh-structure-decks?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-03-12T11:42:44+00:00
+
+<img src="https://assetsio.reedpopcdn.com/yu-gi-oh-tcg-25th-anniversary-event-legend-of-duelist-quarter-century-duel-closeup.JPG?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Structure decks in Yu-Gi-Oh! have an interesting history, both in terms of their competitive relevancy and existence as a value proposition to new and long-time players.</p><p>The first structure decks, not to be confused with starter decks like the iconic sets for Yugi and Kaiba in the early 2000s and the recent 2-Player Starter Set, first released in 2005 and were generally bad. While technically playable, many felt ill-considered; beyond giving new players a full deck of 40 cards they could learn the ropes with - and most likely lose in battle due to being filled with cards generally not useful in competitive battle - their value almost solely resided in their place as a cheap way to get then-staple cards like Heavy Storm.</p><p>In a way, many modern Yu-G
+

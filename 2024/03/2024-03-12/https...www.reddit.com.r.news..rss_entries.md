@@ -1,0 +1,212 @@
+# Source:Reddit - News, URL:https://www.reddit.com/r/news/.rss, language:en-US
+
+## Israeli border police kills 12-year-old Palestinian child at refugee camp in Jerusalem, Israeli police say
+ - [https://www.reddit.com/r/news/comments/1bdboik/israeli_border_police_kills_12yearold_palestinian](https://www.reddit.com/r/news/comments/1bdboik/israeli_border_police_kills_12yearold_palestinian)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T23:09:34+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Taffarr"> /u/Taffarr </a> <br /> <span><a href="https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-03-12-24/h_4a3cd08ede94989f5ac6b397b64f3dba">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bdboik/israeli_border_police_kills_12yearold_palestinian/">[comments]</a></span>
+
+## No End in Sight for National ADHD Drug Shortage
+ - [https://www.reddit.com/r/news/comments/1bdagew/no_end_in_sight_for_national_adhd_drug_shortage](https://www.reddit.com/r/news/comments/1bdagew/no_end_in_sight_for_national_adhd_drug_shortage)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T22:19:27+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AtrusHomeboy"> /u/AtrusHomeboy </a> <br /> <span><a href="https://www.medscape.com/viewarticle/no-end-sight-national-adhd-drug-shortage-2024a10004me?form=fpf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bdagew/no_end_in_sight_for_national_adhd_drug_shortage/">[comments]</a></span>
+
+## Students scale fence at Taft High School in Woodland Hills after shooting threat sparks concern
+ - [https://www.reddit.com/r/news/comments/1bd9hik/students_scale_fence_at_taft_high_school_in](https://www.reddit.com/r/news/comments/1bd9hik/students_scale_fence_at_taft_high_school_in)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T21:41:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/MadScienceBro"> /u/MadScienceBro </a> <br /> <span><a href="https://abc7.com/taft-high-school-woodland-hills-shooting-threat/14517349/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd9hik/students_scale_fence_at_taft_high_school_in/">[comments]</a></span>
+
+## New York police used stun gun on migrant holding toddler, video shows | New York
+ - [https://www.reddit.com/r/news/comments/1bd97ql/new_york_police_used_stun_gun_on_migrant_holding](https://www.reddit.com/r/news/comments/1bd97ql/new_york_police_used_stun_gun_on_migrant_holding)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T21:30:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/caveatlector73"> /u/caveatlector73 </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/mar/12/nyc-police-stun-gun-migrant">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd97ql/new_york_police_used_stun_gun_on_migrant_holding/">[comments]</a></span>
+
+## Gaza hostage deal: Hamas agrees to US proposal for Gaza ceasefire - report
+ - [https://www.reddit.com/r/news/comments/1bd8tg3/gaza_hostage_deal_hamas_agrees_to_us_proposal_for](https://www.reddit.com/r/news/comments/1bd8tg3/gaza_hostage_deal_hamas_agrees_to_us_proposal_for)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T21:15:17+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Jwagginator"> /u/Jwagginator </a> <br /> <span><a href="https://m.jpost.com/breaking-news/article-791645">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd8tg3/gaza_hostage_deal_hamas_agrees_to_us_proposal_for/">[comments]</a></span>
+
+## Yulia Navalnaya asks Russians to join anti-Putin polling station protest
+ - [https://www.reddit.com/r/news/comments/1bd76bf/yulia_navalnaya_asks_russians_to_join_antiputin](https://www.reddit.com/r/news/comments/1bd76bf/yulia_navalnaya_asks_russians_to_join_antiputin)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T20:10:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Snowberry00"> /u/Snowberry00 </a> <br /> <span><a href="https://www.theguardian.com/world/2024/mar/06/yulia-navalnaya-urges-voters-protest-against-vladimir-putin-presidential-election">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd76bf/yulia_navalnaya_asks_russians_to_join_antiputin/">[comments]</a></span>
+
+## Uvalde police chief announces resignation after report on Robb Elementary School shooting
+ - [https://www.reddit.com/r/news/comments/1bd5hwk/uvalde_police_chief_announces_resignation_after](https://www.reddit.com/r/news/comments/1bd5hwk/uvalde_police_chief_announces_resignation_after)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T19:03:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Green_Flamingo_5835"> /u/Green_Flamingo_5835 </a> <br /> <span><a href="https://www.nbcnews.com/news/us-news/uvalde-police-chief-announces-resignation-report-robb-elementary-schoo-rcna143063">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd5hwk/uvalde_police_chief_announces_resignation_after/">[comments]</a></span>
+
+## Ex-Arizona GOP chair accused of hitting woman with pieces of paper
+ - [https://www.reddit.com/r/news/comments/1bd5b81/exarizona_gop_chair_accused_of_hitting_woman_with](https://www.reddit.com/r/news/comments/1bd5b81/exarizona_gop_chair_accused_of_hitting_woman_with)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T18:57:08+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/NBCspec"> /u/NBCspec </a> <br /> <span><a href="https://www.azfamily.com/2024/03/06/ex-arizona-gop-chair-accused-hitting-woman-with-fist-pieces-paper/https://www.azfamily.com/2024/03/06/ex-arizona-gop-chair-accused-hitting-woman-with-fist-pieces-paper/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd5b81/exarizona_gop_chair_accused_of_hitting_woman_with/">[comments]</a></span>
+
+## 15-year-old arrested after brutal fight leads to severe head injury near St. Louis school
+ - [https://www.reddit.com/r/news/comments/1bd4ro1/15yearold_arrested_after_brutal_fight_leads_to](https://www.reddit.com/r/news/comments/1bd4ro1/15yearold_arrested_after_brutal_fight_leads_to)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T18:36:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/pissin_in_the_wind"> /u/pissin_in_the_wind </a> <br /> <span><a href="https://wpde.com/news/nation-world/15-year-old-arrested-after-brutal-fight-leads-to-severe-brain-injury-near-st-louis-school-missouri-congressional-candidate-and-st-louis-county-prosecuting-attorney-wesley-bell-hazelwood-school-district">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd4ro1/15yearold_arrested_after_brutal_fight_leads_to/">[comments]</a></span>
+
+## Double-swiping the rewards card led to free gas for months — and a felony theft charge
+ - [https://www.reddit.com/r/news/comments/1bd4gwt/doubleswiping_the_rewards_card_led_to_free_gas](https://www.reddit.com/r/news/comments/1bd4gwt/doubleswiping_the_rewards_card_led_to_free_gas)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T18:24:29+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AudibleNod"> /u/AudibleNod </a> <br /> <span><a href="https://apnews.com/article/gas-pump-glitch-28000-nebraska-29f36cfa9846e18daea309b79145c5b7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd4gwt/doubleswiping_the_rewards_card_led_to_free_gas/">[comments]</a></span>
+
+## US announces new weapons package for Ukraine following months of warnings there was no money left | CNN Politics
+ - [https://www.reddit.com/r/news/comments/1bd3xr0/us_announces_new_weapons_package_for_ukraine](https://www.reddit.com/r/news/comments/1bd3xr0/us_announces_new_weapons_package_for_ukraine)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T18:03:41+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TheGreatestOrator"> /u/TheGreatestOrator </a> <br /> <span><a href="https://www.cnn.com/2024/03/12/politics/us-announces-weapons-package-ukraine/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd3xr0/us_announces_new_weapons_package_for_ukraine/">[comments]</a></span>
+
+## India's ‘zero-food’ children shame: 6.7m kids have nothing to eat for entire day
+ - [https://www.reddit.com/r/news/comments/1bd23ip/indias_zerofood_children_shame_67m_kids_have](https://www.reddit.com/r/news/comments/1bd23ip/indias_zerofood_children_shame_67m_kids_have)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T16:52:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/vismizviprez"> /u/vismizviprez </a> <br /> <span><a href="https://www.telegraphindia.com/india/indias-zero-food-children-shame-6-7m-kids-have-nothing-to-eat-for-entire-day/cid/2004741">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd23ip/indias_zerofood_children_shame_67m_kids_have/">[comments]</a></span>
+
+## Human rights activist charged over alleged kidnapping and assault of a man
+ - [https://www.reddit.com/r/news/comments/1bd0nle/human_rights_activist_charged_over_alleged](https://www.reddit.com/r/news/comments/1bd0nle/human_rights_activist_charged_over_alleged)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T15:55:46+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Dvbrch"> /u/Dvbrch </a> <br /> <span><a href="https://abc.net.au/news/2024-03-12/human-rights-activist-charged-with-kidnapping/103578202">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd0nle/human_rights_activist_charged_over_alleged/">[comments]</a></span>
+
+## UK unemployment rises and wages growth falls in recession | UK unemployment and employment statistics
+ - [https://www.reddit.com/r/news/comments/1bd0l5l/uk_unemployment_rises_and_wages_growth_falls_in](https://www.reddit.com/r/news/comments/1bd0l5l/uk_unemployment_rises_and_wages_growth_falls_in)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T15:53:01+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ninjascotsman"> /u/ninjascotsman </a> <br /> <span><a href="https://www.theguardian.com/business/2024/mar/12/uk-unemployment-rises-wages-recession">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd0l5l/uk_unemployment_rises_and_wages_growth_falls_in/">[comments]</a></span>
+
+## Number of bodies recovered by police from Hull funeral parlour rises to 35 | UK news
+ - [https://www.reddit.com/r/news/comments/1bd0jhm/number_of_bodies_recovered_by_police_from_hull](https://www.reddit.com/r/news/comments/1bd0jhm/number_of_bodies_recovered_by_police_from_hull)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T15:51:06+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ninjascotsman"> /u/ninjascotsman </a> <br /> <span><a href="https://www.theguardian.com/uk-news/2024/mar/12/two-bailed-as-police-investigating-hull-funeral-directors-recover-35-bodies">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd0jhm/number_of_bodies_recovered_by_police_from_hull/">[comments]</a></span>
+
+## Andrew Tate and brother Tristan can be extradited to UK, Romanian court rules
+ - [https://www.reddit.com/r/news/comments/1bd0aol/andrew_tate_and_brother_tristan_can_be_extradited](https://www.reddit.com/r/news/comments/1bd0aol/andrew_tate_and_brother_tristan_can_be_extradited)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T15:41:02+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/WillowUPS"> /u/WillowUPS </a> <br /> <span><a href="https://www.bbc.co.uk/news/uk-68547871">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bd0aol/andrew_tate_and_brother_tristan_can_be_extradited/">[comments]</a></span>
+
+## Gaza medics tell BBC that Israeli troops beat and humiliated them after hospital raid
+ - [https://www.reddit.com/r/news/comments/1bczlvt/gaza_medics_tell_bbc_that_israeli_troops_beat_and](https://www.reddit.com/r/news/comments/1bczlvt/gaza_medics_tell_bbc_that_israeli_troops_beat_and)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T15:12:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/lonehorse1"> /u/lonehorse1 </a> <br /> <span><a href="https://www.bbc.co.uk/news/world-middle-east-68513408">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bczlvt/gaza_medics_tell_bbc_that_israeli_troops_beat_and/">[comments]</a></span>
+
+## Swedish police forcibly remove Greta Thunberg from parliament entrance
+ - [https://www.reddit.com/r/news/comments/1bcxqri/swedish_police_forcibly_remove_greta_thunberg](https://www.reddit.com/r/news/comments/1bcxqri/swedish_police_forcibly_remove_greta_thunberg)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T13:51:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/davetowers646"> /u/davetowers646 </a> <br /> <span><a href="https://www.theguardian.com/world/2024/mar/12/swedish-police-forcibly-remove-greta-thunberg-parliament-climate-protest">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcxqri/swedish_police_forcibly_remove_greta_thunberg/">[comments]</a></span>
+
+## County DA, sheriff investigating allegations of abuse at Academy at Ivy Ridge, victims urged to come forward
+ - [https://www.reddit.com/r/news/comments/1bcwbnw/county_da_sheriff_investigating_allegations_of](https://www.reddit.com/r/news/comments/1bcwbnw/county_da_sheriff_investigating_allegations_of)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T12:42:23+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ninjascotsman"> /u/ninjascotsman </a> <br /> <span><a href="https://northcountrynow.com/stories/county-da-sheriff-investigating-allegations-of-abuse-at-academy-at-ivy-ridge-victims-urged-to,230980">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcwbnw/county_da_sheriff_investigating_allegations_of/">[comments]</a></span>
+
+## 3 children, 2 adults killed in school bus crash in Illinois
+ - [https://www.reddit.com/r/news/comments/1bcu97f/3_children_2_adults_killed_in_school_bus_crash_in](https://www.reddit.com/r/news/comments/1bcu97f/3_children_2_adults_killed_in_school_bus_crash_in)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T10:45:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/tomytronics"> /u/tomytronics </a> <br /> <span><a href="https://www.cbsnews.com/chicago/news/school-bus-crash-downstate-illinois/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcu97f/3_children_2_adults_killed_in_school_bus_crash_in/">[comments]</a></span>
+
+## Haitian Prime Minister Ariel Henry agrees to resign, bowing to international and internal pressure
+ - [https://www.reddit.com/r/news/comments/1bcu3wy/haitian_prime_minister_ariel_henry_agrees_to](https://www.reddit.com/r/news/comments/1bcu3wy/haitian_prime_minister_ariel_henry_agrees_to)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T10:36:10+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Barack_Odrama_007"> /u/Barack_Odrama_007 </a> <br /> <span><a href="https://www.cbsnews.com/news/haiti-prime-minister-ariel-henry-resigning-once-transitional-council-formed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcu3wy/haitian_prime_minister_ariel_henry_agrees_to/">[comments]</a></span>
+
+## Boeing whistleblower found dead in US
+ - [https://www.reddit.com/r/news/comments/1bcsp5x/boeing_whistleblower_found_dead_in_us](https://www.reddit.com/r/news/comments/1bcsp5x/boeing_whistleblower_found_dead_in_us)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T09:02:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/tearsaresweat"> /u/tearsaresweat </a> <br /> <span><a href="https://www.bbc.com/news/business-68534703">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcsp5x/boeing_whistleblower_found_dead_in_us/">[comments]</a></span>
+
+## Andrew Tate and brother detained in Romania over UK arrest warrant
+ - [https://www.reddit.com/r/news/comments/1bcrro6/andrew_tate_and_brother_detained_in_romania_over](https://www.reddit.com/r/news/comments/1bcrro6/andrew_tate_and_brother_detained_in_romania_over)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T07:57:24+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/blocksberg"> /u/blocksberg </a> <br /> <span><a href="https://www.bbc.co.uk/news/uk-68542187">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcrro6/andrew_tate_and_brother_detained_in_romania_over/">[comments]</a></span>
+
+## Passenger on Boeing flight that suddenly dropped says pilot told him he lost control after instrument failure | CNN
+ - [https://www.reddit.com/r/news/comments/1bcrqaw/passenger_on_boeing_flight_that_suddenly_dropped](https://www.reddit.com/r/news/comments/1bcrqaw/passenger_on_boeing_flight_that_suddenly_dropped)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T07:54:29+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/tearsaresweat"> /u/tearsaresweat </a> <br /> <span><a href="https://www.cnn.com/2024/03/12/australia/latam-airlines-flight-injuries-new-zealand-tuesday-intl-hnk/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcrqaw/passenger_on_boeing_flight_that_suddenly_dropped/">[comments]</a></span>
+
+## The sad and powerful story of 20-year-old Kahi Simon's suicide.
+ - [https://www.reddit.com/r/news/comments/1bcrov0/the_sad_and_powerful_story_of_20yearold_kahi](https://www.reddit.com/r/news/comments/1bcrov0/the_sad_and_powerful_story_of_20yearold_kahi)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T07:51:29+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TheLastRockGod"> /u/TheLastRockGod </a> <br /> <span><a href="https://www.newcastleherald.com.au/story/8551241/kahi-simons-suicide-exposed-gaps-in-nsws-mental-health-system/?cs=305">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcrov0/the_sad_and_powerful_story_of_20yearold_kahi/">[comments]</a></span>
+
+## Warden ousted as FBI again searches California federal women’s prison plagued by sexual abuse
+ - [https://www.reddit.com/r/news/comments/1bcmrw2/warden_ousted_as_fbi_again_searches_california](https://www.reddit.com/r/news/comments/1bcmrw2/warden_ousted_as_fbi_again_searches_california)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T03:03:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/nosotros_road_sodium"> /u/nosotros_road_sodium </a> <br /> <span><a href="https://apnews.com/article/federal-prisons-dublin-sexual-abuse-fbi-d59870c859d58e1ab2b158392adaee57">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcmrw2/warden_ousted_as_fbi_again_searches_california/">[comments]</a></span>
+
+## Eric Carmen, The Raspberries Frontman and Power Pop Hitmaker, Dead at 74
+ - [https://www.reddit.com/r/news/comments/1bcmiuq/eric_carmen_the_raspberries_frontman_and_power](https://www.reddit.com/r/news/comments/1bcmiuq/eric_carmen_the_raspberries_frontman_and_power)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T02:50:46+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ToffeeFever"> /u/ToffeeFever </a> <br /> <span><a href="https://consequence.net/2024/03/eric-carmen-raspberries-hitmaker-dead/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcmiuq/eric_carmen_the_raspberries_frontman_and_power/">[comments]</a></span>
+
+## Air Force wants to retire 250 aircraft as part of $188B FY25 budget request
+ - [https://www.reddit.com/r/news/comments/1bcmd8y/air_force_wants_to_retire_250_aircraft_as_part_of](https://www.reddit.com/r/news/comments/1bcmd8y/air_force_wants_to_retire_250_aircraft_as_part_of)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T02:43:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/EskimoeJoeYeeHaw"> /u/EskimoeJoeYeeHaw </a> <br /> <span><a href="https://breakingdefense.com/2024/03/air-force-budget-fy25-plane-retirement-a10-f22-f16/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcmd8y/air_force_wants_to_retire_250_aircraft_as_part_of/">[comments]</a></span>
+
+## U.S. Army sergeant accused of exchanging sensitive military information with co-conspirator in Hong Kong
+ - [https://www.reddit.com/r/news/comments/1bcl1w6/us_army_sergeant_accused_of_exchanging_sensitive](https://www.reddit.com/r/news/comments/1bcl1w6/us_army_sergeant_accused_of_exchanging_sensitive)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T01:42:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AtrusHomeboy"> /u/AtrusHomeboy </a> <br /> <span><a href="https://www.nbcnews.com/news/us-news/us-army-sergeant-accused-exchanging-sensitive-military-information-co-rcna142352">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcl1w6/us_army_sergeant_accused_of_exchanging_sensitive/">[comments]</a></span>
+
+## Texas mom arrested for allegedly mixing drink that sent bullied son's classmate to hospital
+ - [https://www.reddit.com/r/news/comments/1bcjru3/texas_mom_arrested_for_allegedly_mixing_drink](https://www.reddit.com/r/news/comments/1bcjru3/texas_mom_arrested_for_allegedly_mixing_drink)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-03-12T00:44:47+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DementedCrazoid"> /u/DementedCrazoid </a> <br /> <span><a href="https://www.cbsnews.com/news/mother-mixed-drink-sons-classmate-hospitalized-bexar-county-texas/?linkId=354041106">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1bcjru3/texas_mom_arrested_for_allegedly_mixing_drink/">[comments]</a></span>
+
