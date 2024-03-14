@@ -1,0 +1,51 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## New bill lays groundwork for Alberta provincial police
+ - [https://www.cbc.ca/news/canada/edmonton/new-bill-lays-groundwork-for-alberta-provincial-police-1.7142996?cmp=rss](https://www.cbc.ca/news/canada/edmonton/new-bill-lays-groundwork-for-alberta-provincial-police-1.7142996?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-13T16:12:11+00:00
+
+<img alt="Ellis" height="349" src="https://i.cbc.ca/1.6556667.1682033634!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mike-ellis.jpg" title="Associate Minister of Health and Addictions Mike Ellis announced $5 million in funding for recovery-oriented programs on Friday." width="620" /><p>The Alberta government is introducing legislation that will lay the groundwork for a new provincial police agency that is made up of sheriffs. But there is no timeline or budget for when the changeover would take place.</p>
+
+## Canadian military demonstrates Arctic defence capabilities amid global tensions
+ - [https://www.cbc.ca/news/canada/north/canada-showcases-ability-to-defend-arctic-amid-global-tensions-1.7141865?cmp=rss](https://www.cbc.ca/news/canada/north/canada-showcases-ability-to-defend-arctic-amid-global-tensions-1.7141865?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-13T11:57:02+00:00
+
+<img alt="Two dark figures stand on a snowy landscape." height="349" src="https://i.cbc.ca/1.7141923.1710280074!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nanook-2024.jpg" title="Two military personnel walk during Operation Nanook-Nunalivut in Resolute Bay, Nunavut on March 7. Temperatures dipped to below –50 C during the tour." width="620" /><p>The high Arctic community of Resolute Bay holds what military personnel describe as a top of the line training facility that houses anywhere from 12 to 400 people.</p>
+
+## He doesn't remember getting a $127 ticket 19 years ago. It just sunk his credit score
+ - [https://www.cbc.ca/news/canada/ottawa/insanely-old-city-ticket-wreaks-havoc-on-ottawa-man-s-credit-score-1.7141166?cmp=rss](https://www.cbc.ca/news/canada/ottawa/insanely-old-city-ticket-wreaks-havoc-on-ottawa-man-s-credit-score-1.7141166?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-13T04:00:45+00:00
+
+<img alt="Richard McGrath" height="349" src="https://i.cbc.ca/1.7142078.1710286318!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/richard-mcgrath.jpg" title="Richard McGrath" width="620" /><p>Richard McGrath got an alert last Friday that his credit score took a nosedive for an unpaid $127 ticket he was physically handed in 2005 on Elgin Street. He isn't alone.</p>
+
+## Hackers stole 100,000 of her Aeroplan points. She wants to warn others about how they did it
+ - [https://www.cbc.ca/news/canada/montreal/aeroplan-hack-emails-1.7141173?cmp=rss](https://www.cbc.ca/news/canada/montreal/aeroplan-hack-emails-1.7141173?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-13T04:00:00+00:00
+
+<img alt="Woman." height="349" src="https://i.cbc.ca/1.7141690.1710272971!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jacinthe-dupuis.jpg" title="Jacinthe Dupuis says she&apos;ll make sure all of her online accounts have a two-step verification process from now on, &apos;even if it&apos;s annoying.&apos;" width="620" /><p>A woman living on Montreal's South Shore lost 100,000 Aeroplan points after being hacked. She wants to warn others about email bombing, the technique that was used to distract her from what was happening.</p>
+
+## Less than half of daycare spaces promised by Ottawa have been created ahead of 2026 deadline
+ - [https://www.cbc.ca/news/politics/child-care-ten-dollars-day-trudeau-daycare-1.7141421?cmp=rss](https://www.cbc.ca/news/politics/child-care-ten-dollars-day-trudeau-daycare-1.7141421?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-13T04:00:00+00:00
+
+<img alt="A baby plays with blocks." height="349" src="https://i.cbc.ca/1.7141827.1710276503!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/child-care.jpg" title="Critics are warning that, without additional federal funding, Ottawa&apos;s plan to create 250,000 new child-care spaces at an average cost of $10 per day by the end of March 2026 may not be feasible." width="620" /><p>The launch of a new national daycare program fuelled high hopes among Canadian families three years ago, but new figures show Ottawa is still a long way from meeting its goal of offering affordable spaces to "all families who need it" by 2026.</p>
+
+## Scan your receipt to exit? Loblaw facing backlash as it tests receipt scanners at self-checkout
+ - [https://www.cbc.ca/news/business/loblaw-receipt-scanners-1.7141850?cmp=rss](https://www.cbc.ca/news/business/loblaw-receipt-scanners-1.7141850?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-13T04:00:00+00:00
+
+<img alt="A device next to a metal gate has a sign that says &quot;Please scan your receipt barcode.&quot;" height="349" src="https://i.cbc.ca/1.7142040.1710296325!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/receipt-scanner-at-oakville-superstore.jpg" title="A shopper discovered this receipt scanner at an Oakville Superstore and posted it on online. Oakville is one of four stores trialling the scanner which is placed at the self-checkout exit. " width="620" /><p>In an attempt to combat theft, Loblaw is testing receipt scanners at four of its stores, the grocery giant told CBC News. Customers who use self-checkout must scan their receipt's barcode — confirming that they paid something — which opens a metal gate, letting them leave.</p>
+
+## What we can learn from Canada's record wildfire season, as a new one approaches
+ - [https://www.cbc.ca/news/climate/canada-wildfire-season-ahead-1.7141411?cmp=rss](https://www.cbc.ca/news/climate/canada-wildfire-season-ahead-1.7141411?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-13T04:00:00+00:00
+
+<img alt="A charred gas station whose fill-up stations have all been razed." height="349" src="https://i.cbc.ca/1.6958921.1710288468!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/wildfires-bc-20230906.jpg" title="A gas station destroyed by the Bush Creek East wildfire is seen in Squilax, B.C., on Wednesday, Sept. 6, 2023." width="620" /><p>Fire crews across much of Canada are already on high alert for the coming wildfire season, only months after the conclusion of the worst one on record. Researchers are taking stock of last year's historic wildfires, and analyzing what can be done differently.</p>
+

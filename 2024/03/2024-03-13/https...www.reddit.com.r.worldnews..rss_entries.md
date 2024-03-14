@@ -1,0 +1,317 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## YouTube blocks access to Fifth Estate story on killing of B.C. Sikh activist at demand of India
+ - [https://www.reddit.com/r/worldnews/comments/1be4bhr/youtube_blocks_access_to_fifth_estate_story_on](https://www.reddit.com/r/worldnews/comments/1be4bhr/youtube_blocks_access_to_fifth_estate_story_on)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T22:05:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1be4bhr/youtube_blocks_access_to_fifth_estate_story_on/"> <img alt="YouTube blocks access to Fifth Estate story on killing of B.C. Sikh activist at demand of India" src="https://external-preview.redd.it/NkBlILiB5aUZLWxU90AgZ9c2waIBgAfsx5g4Xu2_g8U.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=19ee9d01b1a355090bec7bdaad3a5de3c037f89a" title="YouTube blocks access to Fifth Estate story on killing of B.C. Sikh activist at demand of India" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RaspberryBirdCat"> /u/RaspberryBirdCat </a> <br /> <span><a href="https://www.cbc.ca/news/canada/india-fifth-estate-video-story-1.7142721">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1be4bhr/youtube_blocks_access_to_fifth_estate_story_on/">[comments]</a></span> </td></tr></table>
+
+## U.S. State Department approves additional military aid for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1be39ee/us_state_department_approves_additional_military](https://www.reddit.com/r/worldnews/comments/1be39ee/us_state_department_approves_additional_military)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T21:23:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1be39ee/us_state_department_approves_additional_military/"> <img alt="U.S. State Department approves additional military aid for Ukraine" src="https://external-preview.redd.it/7OSH8SUr2KbqJ5c0Escf2S_-EYcoCvtSbWOGArVzPok.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a7dc672cf90acbfe37eccb40e7ac13fccf7f890" title="U.S. State Department approves additional military aid for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KrzyHooy"> /u/KrzyHooy </a> <br /> <span><a href="https://tvpworld.com/76419811/us-state-department-approves-additional-military-aid-for-ukraine">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1be39ee/us_state_department_approves_additional_military/">[comments]</a></span> </td></tr></table>
+
+## A Chinese airline warned passengers not to throw coins into plane engines after an Airbus A350 was delayed for 4 hours
+ - [https://www.reddit.com/r/worldnews/comments/1be36mr/a_chinese_airline_warned_passengers_not_to_throw](https://www.reddit.com/r/worldnews/comments/1be36mr/a_chinese_airline_warned_passengers_not_to_throw)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T21:20:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1be36mr/a_chinese_airline_warned_passengers_not_to_throw/"> <img alt="A Chinese airline warned passengers not to throw coins into plane engines after an Airbus A350 was delayed for 4 hours" src="https://external-preview.redd.it/DxHXk3raSxdYNATs7c5dUl0bdbuPK2gk1qtbM0no75c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a9403e50c6d5178c729d87cfbd3de6ac7cf7f68" title="A Chinese airline warned passengers not to throw coins into plane engines after an Airbus A350 was delayed for 4 hours" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thisisinsider"> /u/thisisinsider </a> <br /> <span><a href="https://www.businessinsider.com/passenger-threw-coins-into-engine-delayed-flight-4-hours-2024-3?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=insider-worldnews-sub-post">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1be36mr/a_chinese_airline_
+
+## Another top manager in Russia's oil and gas sector found dead
+ - [https://www.reddit.com/r/worldnews/comments/1be1nst/another_top_manager_in_russias_oil_and_gas_sector](https://www.reddit.com/r/worldnews/comments/1be1nst/another_top_manager_in_russias_oil_and_gas_sector)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T20:20:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1be1nst/another_top_manager_in_russias_oil_and_gas_sector/"> <img alt="Another top manager in Russia's oil and gas sector found dead" src="https://external-preview.redd.it/sJ7x98zCw3KLMIGiYLExHnsOzwIZ-wmaSgpfY2eNi98.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f780249d08bb3eda6069743edfa81dd88c7fd945" title="Another top manager in Russia's oil and gas sector found dead" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/scythian_kg"> /u/scythian_kg </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/03/13/7446342/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1be1nst/another_top_manager_in_russias_oil_and_gas_sector/">[comments]</a></span> </td></tr></table>
+
+## Italian women are eschewing motherhood as Italy’s birth rate plunges to one of Europe’s lowest
+ - [https://www.reddit.com/r/worldnews/comments/1be0y7r/italian_women_are_eschewing_motherhood_as_italys](https://www.reddit.com/r/worldnews/comments/1be0y7r/italian_women_are_eschewing_motherhood_as_italys)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T19:52:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1be0y7r/italian_women_are_eschewing_motherhood_as_italys/"> <img alt="Italian women are eschewing motherhood as Italy’s birth rate plunges to one of Europe’s lowest" src="https://external-preview.redd.it/cBILw9nQcDm0AW-qOAc_DyY3xNEYUHFJHDeUJ4QGUgU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d45eac69fb56699fcef76b3ad01d052186e89e3a" title="Italian women are eschewing motherhood as Italy’s birth rate plunges to one of Europe’s lowest" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/deadpools0"> /u/deadpools0 </a> <br /> <span><a href="https://fortune.com/europe/2024/03/11/italian-women-eschewing-motherhood-italy-birth-rate-plunges-europes-lowest/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1be0y7r/italian_women_are_eschewing_motherhood_as_italys/">[comments]</a></span> </td></tr></table>
+
+## Putin does not want war with NATO and will limit himself to “asymmetric activity” – US intelligence
+ - [https://www.reddit.com/r/worldnews/comments/1be0aor/putin_does_not_want_war_with_nato_and_will_limit](https://www.reddit.com/r/worldnews/comments/1be0aor/putin_does_not_want_war_with_nato_and_will_limit)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T19:26:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1be0aor/putin_does_not_want_war_with_nato_and_will_limit/"> <img alt="Putin does not want war with NATO and will limit himself to “asymmetric activity” – US intelligence" src="https://external-preview.redd.it/TLQZdERisMAadB5mVMsmGBTzl4lJW5d9ZlFP2mxTQiY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ac49361ba0fdbdde096195318e91dd4f5020ce0" title="Putin does not want war with NATO and will limit himself to “asymmetric activity” – US intelligence" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ds445"> /u/ds445 </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/03/12/7446017/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1be0aor/putin_does_not_want_war_with_nato_and_will_limit/">[comments]</a></span> </td></tr></table>
+
+## Putin says he will re-deploy troops along Finland border in response to NATO accession
+ - [https://www.reddit.com/r/worldnews/comments/1bdysfu/putin_says_he_will_redeploy_troops_along_finland](https://www.reddit.com/r/worldnews/comments/1bdysfu/putin_says_he_will_redeploy_troops_along_finland)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T18:27:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdysfu/putin_says_he_will_redeploy_troops_along_finland/"> <img alt="Putin says he will re-deploy troops along Finland border in response to NATO accession " src="https://external-preview.redd.it/bmaOKXgDaRHRRnEAT_5QZsJDa9BXiUWJfSupT3M5-9E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cf618d914fba1ed87f6b09c91a0b9a38116b03f" title="Putin says he will re-deploy troops along Finland border in response to NATO accession " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ethereal3xp"> /u/ethereal3xp </a> <br /> <span><a href="https://www.upi.com/Top_News/World-News/2024/03/13/Putin-threatens-Finland-border-troop-redeployment/2751710329197/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdysfu/putin_says_he_will_redeploy_troops_along_finland/">[comments]</a></span> </td></tr></table>
+
+## Poland’s Duda Warns Putin Will Attack Others If Russia Wins in Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1bdy5x6/polands_duda_warns_putin_will_attack_others_if](https://www.reddit.com/r/worldnews/comments/1bdy5x6/polands_duda_warns_putin_will_attack_others_if)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T18:03:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdy5x6/polands_duda_warns_putin_will_attack_others_if/"> <img alt="Poland’s Duda Warns Putin Will Attack Others If Russia Wins in Ukraine" src="https://external-preview.redd.it/WzvQpw8eYQb9PUV12GhxraUjfbu_o5UmoOTsxwhsLAo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=971cd0c781ae9023ccfaab7ef715eb35f9925e81" title="Poland’s Duda Warns Putin Will Attack Others If Russia Wins in Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UnscheduledCalendar"> /u/UnscheduledCalendar </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-03-12/duda-warns-putin-will-attack-others-if-russia-wins-in-ukraine">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdy5x6/polands_duda_warns_putin_will_attack_others_if/">[comments]</a></span> </td></tr></table>
+
+## Canada pledges help for Palestinian sex-crime victims, angering Israeli envoy
+ - [https://www.reddit.com/r/worldnews/comments/1bdxf3t/canada_pledges_help_for_palestinian_sexcrime](https://www.reddit.com/r/worldnews/comments/1bdxf3t/canada_pledges_help_for_palestinian_sexcrime)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T17:33:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdxf3t/canada_pledges_help_for_palestinian_sexcrime/"> <img alt="Canada pledges help for Palestinian sex-crime victims, angering Israeli envoy" src="https://external-preview.redd.it/DRcMzxBEqAZYtN5T6UyyYPa8JEnUxzCpcf0NggfwERo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=057787d42240b78535bf672517aa6a049aeed719" title="Canada pledges help for Palestinian sex-crime victims, angering Israeli envoy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Electronic_Fox_6383"> /u/Electronic_Fox_6383 </a> <br /> <span><a href="https://www.vancouverisawesome.com/national-news/canada-pledges-help-for-palestinian-sex-crime-victims-angering-israeli-envoy-8438765">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdxf3t/canada_pledges_help_for_palestinian_sexcrime/">[comments]</a></span> </td></tr></table>
+
+## EU agrees €5 billion boost in military aid for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1bdxdsk/eu_agrees_5_billion_boost_in_military_aid_for](https://www.reddit.com/r/worldnews/comments/1bdxdsk/eu_agrees_5_billion_boost_in_military_aid_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T17:32:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdxdsk/eu_agrees_5_billion_boost_in_military_aid_for/"> <img alt="EU agrees €5 billion boost in military aid for Ukraine" src="https://external-preview.redd.it/NwvjkncHyj-6ZxGNSvh6uENtnMLYt931CWQbIrnX1cs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d85d28ad64022562fed4fcefc9da760543101124" title="EU agrees €5 billion boost in military aid for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Youri_shadow"> /u/Youri_shadow </a> <br /> <span><a href="https://www.dw.com/en/eu-agrees-5-billion-boost-in-military-aid-for-ukraine/a-68515348?maca=en-rss-en-all-1573-rdf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdxdsk/eu_agrees_5_billion_boost_in_military_aid_for/">[comments]</a></span> </td></tr></table>
+
+## Finnish PM: Russia preparing for 'long conflict with West'
+ - [https://www.reddit.com/r/worldnews/comments/1bdwmim/finnish_pm_russia_preparing_for_long_conflict](https://www.reddit.com/r/worldnews/comments/1bdwmim/finnish_pm_russia_preparing_for_long_conflict)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T17:02:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdwmim/finnish_pm_russia_preparing_for_long_conflict/"> <img alt="Finnish PM: Russia preparing for 'long conflict with West'" src="https://external-preview.redd.it/G0h1GiE0yZyEtiJ1q-JrQnBcr5aXVP5hPjwyCXG2NKs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=75e366c40316222e4fde5dd72940a7d8830298a7" title="Finnish PM: Russia preparing for 'long conflict with West'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thealejandrotauber"> /u/thealejandrotauber </a> <br /> <span><a href="https://euobserver.com/eu-political/158219">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdwmim/finnish_pm_russia_preparing_for_long_conflict/">[comments]</a></span> </td></tr></table>
+
+## Enough of red lines – Lithuanian President on foreign troops in Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1bdwjju/enough_of_red_lines_lithuanian_president_on](https://www.reddit.com/r/worldnews/comments/1bdwjju/enough_of_red_lines_lithuanian_president_on)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T16:59:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdwjju/enough_of_red_lines_lithuanian_president_on/"> <img alt="Enough of red lines – Lithuanian President on foreign troops in Ukraine" src="https://external-preview.redd.it/WIHVGklrKfCltI8BDj7SN2okOYxxjEP-yBcuBMcSaJs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a7c7eec52d0720ba6d2bea5b4ab3c836446d6c4" title="Enough of red lines – Lithuanian President on foreign troops in Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EsperaDeus"> /u/EsperaDeus </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/03/13/7446327/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdwjju/enough_of_red_lines_lithuanian_president_on/">[comments]</a></span> </td></tr></table>
+
+## ‘Deluded’ Hamas made a ‘catastrophic miscalculation’, say Palestinian analysts
+ - [https://www.reddit.com/r/worldnews/comments/1bdwhyc/deluded_hamas_made_a_catastrophic_miscalculation](https://www.reddit.com/r/worldnews/comments/1bdwhyc/deluded_hamas_made_a_catastrophic_miscalculation)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T16:57:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdwhyc/deluded_hamas_made_a_catastrophic_miscalculation/"> <img alt="‘Deluded’ Hamas made a ‘catastrophic miscalculation’, say Palestinian analysts" src="https://external-preview.redd.it/wUn63r-dnUszvtwP1LqcTHslVs0x9rNkNsAH5a0qREU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6927311f7fa958cc39119dd8fbbdc5e897e2df79" title="‘Deluded’ Hamas made a ‘catastrophic miscalculation’, say Palestinian analysts" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BreadNo2957"> /u/BreadNo2957 </a> <br /> <span><a href="https://www.thejc.com/news/uk/deluded-hamas-made-a-catastrophic-miscalculation-say-palestinian-analysts-bem2bcow">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdwhyc/deluded_hamas_made_a_catastrophic_miscalculation/">[comments]</a></span> </td></tr></table>
+
+## Israel Claims Responsibility for Strike on Car Resulting in Death of 'Significant' Hamas Member
+ - [https://www.reddit.com/r/worldnews/comments/1bdw7wv/israel_claims_responsibility_for_strike_on_car](https://www.reddit.com/r/worldnews/comments/1bdw7wv/israel_claims_responsibility_for_strike_on_car)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T16:46:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdw7wv/israel_claims_responsibility_for_strike_on_car/"> <img alt="Israel Claims Responsibility for Strike on Car Resulting in Death of 'Significant' Hamas Member" src="https://external-preview.redd.it/uNHxYeGUgpLWEFEYUpNDWMjoAW-6i6VPQhctpvlhxqE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be60f18dcf174c35aac27a40491c0265895816d1" title="Israel Claims Responsibility for Strike on Car Resulting in Death of 'Significant' Hamas Member" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/manishakad"> /u/manishakad </a> <br /> <span><a href="https://www.mindders.com/2024/03/israel-claims-responsibility-for-strike.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdw7wv/israel_claims_responsibility_for_strike_on_car/">[comments]</a></span> </td></tr></table>
+
+## Ukraine troops will start to get artillery shells under Czech scheme by June
+ - [https://www.reddit.com/r/worldnews/comments/1bdvqbt/ukraine_troops_will_start_to_get_artillery_shells](https://www.reddit.com/r/worldnews/comments/1bdvqbt/ukraine_troops_will_start_to_get_artillery_shells)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T16:27:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdvqbt/ukraine_troops_will_start_to_get_artillery_shells/"> <img alt="Ukraine troops will start to get artillery shells under Czech scheme by June" src="https://external-preview.redd.it/YjodkFIUSGcnn3ylzadxEyyBWPmsikBw7R8t5_FFukI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ec85c62fc3ce1c81a98c2eb0e30b0aa9360f67d" title="Ukraine troops will start to get artillery shells under Czech scheme by June" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br /> <span><a href="https://www.reuters.com/world/europe/ukrainian-troops-get-czech-sourced-artillery-shells-foreseeable-future-2024-03-13/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdvqbt/ukraine_troops_will_start_to_get_artillery_shells/">[comments]</a></span> </td></tr></table>
+
+## Putin again threatens to use nuclear weapons, claims Russia's arsenal "much more" advanced than America's
+ - [https://www.reddit.com/r/worldnews/comments/1bdu51n/putin_again_threatens_to_use_nuclear_weapons](https://www.reddit.com/r/worldnews/comments/1bdu51n/putin_again_threatens_to_use_nuclear_weapons)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T15:22:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdu51n/putin_again_threatens_to_use_nuclear_weapons/"> <img alt="Putin again threatens to use nuclear weapons, claims Russia's arsenal &quot;much more&quot; advanced than America's" src="https://external-preview.redd.it/EV71daB1L3ny8sgrlIR2macJzgaCSgUodP9t8mclwyA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=957e36cb50cd61fe0bcaf557d2b3f5c250542937" title="Putin again threatens to use nuclear weapons, claims Russia's arsenal &quot;much more&quot; advanced than America's" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maki23"> /u/maki23 </a> <br /> <span><a href="https://www.cbsnews.com/news/putin-nuclear-weapons-new-threat-claim-russia-nuclear-arsenal-better-us/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdu51n/putin_again_threatens_to_use_nuclear_weapons/">[comments]</a></span> </td></tr></table>
+
+## Terror suspects arrested in Europe had images of Jewish, Israeli targets — report
+ - [https://www.reddit.com/r/worldnews/comments/1bdtv9n/terror_suspects_arrested_in_europe_had_images_of](https://www.reddit.com/r/worldnews/comments/1bdtv9n/terror_suspects_arrested_in_europe_had_images_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T15:11:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdtv9n/terror_suspects_arrested_in_europe_had_images_of/"> <img alt="Terror suspects arrested in Europe had images of Jewish, Israeli targets — report" src="https://external-preview.redd.it/E5MxMKeeXxC1fIeTLga8-O8HY85RTACTRaOcBg2CGSI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a30fe903f8b16dc25e8fc2b13e813b339893104" title="Terror suspects arrested in Europe had images of Jewish, Israeli targets — report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Needforspeed4"> /u/Needforspeed4 </a> <br /> <span><a href="https://www.timesofisrael.com/terror-suspects-arrested-in-europe-had-images-of-jewish-israeli-targets-report/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdtv9n/terror_suspects_arrested_in_europe_had_images_of/">[comments]</a></span> </td></tr></table>
+
+## US House passes bill to force ByteDance to divest TikTok or face ban
+ - [https://www.reddit.com/r/worldnews/comments/1bdtk62/us_house_passes_bill_to_force_bytedance_to_divest](https://www.reddit.com/r/worldnews/comments/1bdtk62/us_house_passes_bill_to_force_bytedance_to_divest)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T14:59:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdtk62/us_house_passes_bill_to_force_bytedance_to_divest/"> <img alt="US House passes bill to force ByteDance to divest TikTok or face ban" src="https://external-preview.redd.it/hBCkNW9rUhEpuBLgMVl6l1YeGPKsJdxhWzTlZtKA4q4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=38db75040d261a9655741a174e35e839fc0a7014" title="US House passes bill to force ByteDance to divest TikTok or face ban" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ExactlySorta"> /u/ExactlySorta </a> <br /> <span><a href="https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdtk62/us_house_passes_bill_to_force_bytedance_to_divest/">[comments]</a></span> </td></tr></table>
+
+## It would take the average Canadian 39 years to save the required down payment to purchase a home in the greater Toronto Area
+ - [https://www.reddit.com/r/worldnews/comments/1bdthkj/it_would_take_the_average_canadian_39_years_to](https://www.reddit.com/r/worldnews/comments/1bdthkj/it_would_take_the_average_canadian_39_years_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T14:56:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdthkj/it_would_take_the_average_canadian_39_years_to/"> <img alt="It would take the average Canadian 39 years to save the required down payment to purchase a home in the greater Toronto Area" src="https://external-preview.redd.it/vt8BU5HNktyCzkZrDad-ZNC9csppf7bUw-mebKpdfWs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=07a617d678f9a1afec5c97c69294ed5d642f0499" title="It would take the average Canadian 39 years to save the required down payment to purchase a home in the greater Toronto Area" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fun_Ad6371"> /u/Fun_Ad6371 </a> <br /> <span><a href="https://www.blogto.com/real-estate-toronto/2024/03/39-years-average-person-buy-home-gta/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdthkj/it_would_take_the_average_canadian_39_years_to/">[comments]</a></span> </td></tr></table>
+
+## Ukraine launches new wave of strikes against Russia’s oil facilities
+ - [https://www.reddit.com/r/worldnews/comments/1bdsr86/ukraine_launches_new_wave_of_strikes_against](https://www.reddit.com/r/worldnews/comments/1bdsr86/ukraine_launches_new_wave_of_strikes_against)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T14:24:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdsr86/ukraine_launches_new_wave_of_strikes_against/"> <img alt="Ukraine launches new wave of strikes against Russia’s oil facilities" src="https://external-preview.redd.it/7NouU-b7VI7qBFzmQ9EHQTPibrKM8OLWKcU2fXuWRdw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=706beae9e84d9d8d236fb4d5db1d1d0b386c92c5" title="Ukraine launches new wave of strikes against Russia’s oil facilities" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/washingtonpost"> /u/washingtonpost </a> <br /> <span><a href="https://www.washingtonpost.com/world/2024/03/13/ukraine-russia-war-drone-strikes-oil-facilities/?utm_campaign=wp_main&amp;utm_medium=social&amp;utm_source=reddit.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdsr86/ukraine_launches_new_wave_of_strikes_against/">[comments]</a></span> </td></tr></table>
+
+## US pause on funding UN relief agency for Palestinians may become permanent
+ - [https://www.reddit.com/r/worldnews/comments/1bds3gd/us_pause_on_funding_un_relief_agency_for](https://www.reddit.com/r/worldnews/comments/1bds3gd/us_pause_on_funding_un_relief_agency_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T13:57:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bds3gd/us_pause_on_funding_un_relief_agency_for/"> <img alt="US pause on funding UN relief agency for Palestinians may become permanent" src="https://external-preview.redd.it/2oAugyDa17OyqP5mNTprMVIOolfcYh_HUwG2llx7LWc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5caa209225c7fae563327435c6f4232d0b06036" title="US pause on funding UN relief agency for Palestinians may become permanent" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Powawwolf"> /u/Powawwolf </a> <br /> <span><a href="https://www.reuters.com/world/us-pause-funding-un-relief-agency-palestinians-may-become-permanent-2024-03-13/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bds3gd/us_pause_on_funding_un_relief_agency_for/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian drones damage Russian oil refineries in second day of attacks
+ - [https://www.reddit.com/r/worldnews/comments/1bdry0l/ukrainian_drones_damage_russian_oil_refineries_in](https://www.reddit.com/r/worldnews/comments/1bdry0l/ukrainian_drones_damage_russian_oil_refineries_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T13:50:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdry0l/ukrainian_drones_damage_russian_oil_refineries_in/"> <img alt="Ukrainian drones damage Russian oil refineries in second day of attacks" src="https://external-preview.redd.it/iFx80BCo6VhMjMmXEj7vSKZ9Jzk-fcDjpQ7oXoIGXJ4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d66fecd0b8b6716e9c4e99796ae4792cc6a5d5c" title="Ukrainian drones damage Russian oil refineries in second day of attacks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/javelin3000"> /u/javelin3000 </a> <br /> <span><a href="https://www.channelnewsasia.com/world/ukrainian-drones-damage-russian-oil-refineries-second-day-attacks-4191396">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdry0l/ukrainian_drones_damage_russian_oil_refineries_in/">[comments]</a></span> </td></tr></table>
+
+## Squatters not yet leaving Russian billionaire’s Amsterdam home after EU sanctions change
+ - [https://www.reddit.com/r/worldnews/comments/1bdrhww/squatters_not_yet_leaving_russian_billionaires](https://www.reddit.com/r/worldnews/comments/1bdrhww/squatters_not_yet_leaving_russian_billionaires)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T13:30:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdrhww/squatters_not_yet_leaving_russian_billionaires/"> <img alt="Squatters not yet leaving Russian billionaire’s Amsterdam home after EU sanctions change" src="https://external-preview.redd.it/niOBwDHTzH2gJ8NdfXs1I6n9DE5c_7ML1mXQt_A2u7Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=740cf5a1dd2a9bfcb0b6cb40e2fe482fe34392a3" title="Squatters not yet leaving Russian billionaire’s Amsterdam home after EU sanctions change" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MC_Transparent"> /u/MC_Transparent </a> <br /> <span><a href="https://nltimes.nl/2024/03/13/squatters-yet-leaving-russian-billionaires-amsterdam-home-eu-sanctions-change">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdrhww/squatters_not_yet_leaving_russian_billionaires/">[comments]</a></span> </td></tr></table>
+
+## Pro-Kyiv Militias Urge Russians in Border Regions to Evacuate
+ - [https://www.reddit.com/r/worldnews/comments/1bdr6yb/prokyiv_militias_urge_russians_in_border_regions](https://www.reddit.com/r/worldnews/comments/1bdr6yb/prokyiv_militias_urge_russians_in_border_regions)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T13:16:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdr6yb/prokyiv_militias_urge_russians_in_border_regions/"> <img alt="Pro-Kyiv Militias Urge Russians in Border Regions to Evacuate" src="https://external-preview.redd.it/nAtbq22j6kGksCrkiQtTk0MDBpm2qypFporWDEP8Heg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42c9439d83014d9fe2b0e747a3989c3207e17c7f" title="Pro-Kyiv Militias Urge Russians in Border Regions to Evacuate" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/4920185"> /u/4920185 </a> <br /> <span><a href="https://www.themoscowtimes.com/2024/03/13/pro-kyiv-militias-urge-russians-in-border-regions-to-evacuate-a84448">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdr6yb/prokyiv_militias_urge_russians_in_border_regions/">[comments]</a></span> </td></tr></table>
+
+## Putin announces deployment of troops and weapons systems on Finnish border
+ - [https://www.reddit.com/r/worldnews/comments/1bdpo12/putin_announces_deployment_of_troops_and_weapons](https://www.reddit.com/r/worldnews/comments/1bdpo12/putin_announces_deployment_of_troops_and_weapons)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T11:57:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdpo12/putin_announces_deployment_of_troops_and_weapons/"> <img alt="Putin announces deployment of troops and weapons systems on Finnish border" src="https://external-preview.redd.it/myf4Tt3JeER4JNB8g9-ViRRmH5yTJ_FbCiFVMrh6Fgg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a938098c7d82339b9240c0439d256c113ce24eb5" title="Putin announces deployment of troops and weapons systems on Finnish border" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/duckanroll"> /u/duckanroll </a> <br /> <span><a href="https://novayagazeta.eu/articles/2024/03/13/putin-announces-deployment-of-troops-and-weapons-systems-on-finnish-border-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdpo12/putin_announces_deployment_of_troops_and_weapons/">[comments]</a></span> </td></tr></table>
+
+## Roman Polanski to face trial over alleged 1973 rape of a girl
+ - [https://www.reddit.com/r/worldnews/comments/1bdpfwa/roman_polanski_to_face_trial_over_alleged_1973](https://www.reddit.com/r/worldnews/comments/1bdpfwa/roman_polanski_to_face_trial_over_alleged_1973)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T11:45:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdpfwa/roman_polanski_to_face_trial_over_alleged_1973/"> <img alt="Roman Polanski to face trial over alleged 1973 rape of a girl" src="https://external-preview.redd.it/3v_jdlE0KakWHXt1NQ_zawcVHH3XodOBCtEdQeT-26A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b889fd98da60c98876349ee18af277182fe8d1ea" title="Roman Polanski to face trial over alleged 1973 rape of a girl" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/world-news/2024/03/13/roman-polanski-trial-alleged-1973-rape-girl/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdpfwa/roman_polanski_to_face_trial_over_alleged_1973/">[comments]</a></span> </td></tr></table>
+
+## Russia reportedly fires navy chief after attacks by Ukraine on Black Sea fleet
+ - [https://www.reddit.com/r/worldnews/comments/1bdpcsp/russia_reportedly_fires_navy_chief_after_attacks](https://www.reddit.com/r/worldnews/comments/1bdpcsp/russia_reportedly_fires_navy_chief_after_attacks)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T11:40:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdpcsp/russia_reportedly_fires_navy_chief_after_attacks/"> <img alt="Russia reportedly fires navy chief after attacks by Ukraine on Black Sea fleet" src="https://external-preview.redd.it/8O0zEAScdObcbzfqwfnnfk8gpfzrb5DCyF5VPCwq1YE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aab18be4cebffc81d8436adf2cfcee6042dd4928" title="Russia reportedly fires navy chief after attacks by Ukraine on Black Sea fleet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/blazegunboy"> /u/blazegunboy </a> <br /> <span><a href="https://www.theguardian.com/world/2024/mar/13/russia-reportedly-fires-navy-chief-attacks-black-sea-fleet-ukraine">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdpcsp/russia_reportedly_fires_navy_chief_after_attacks/">[comments]</a></span> </td></tr></table>
+
+## Ukraine achieves independence from Russian influence in nuclear industry
+ - [https://www.reddit.com/r/worldnews/comments/1bdovuh/ukraine_achieves_independence_from_russian](https://www.reddit.com/r/worldnews/comments/1bdovuh/ukraine_achieves_independence_from_russian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T11:12:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdovuh/ukraine_achieves_independence_from_russian/"> <img alt="Ukraine achieves independence from Russian influence in nuclear industry" src="https://external-preview.redd.it/UoixipbAK-M_wIHpjP8NW7HXGrAY9_5QDJ1YNq3kiGY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c519354fda85e98b54cd19e683930518b0b3a29" title="Ukraine achieves independence from Russian influence in nuclear industry" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/03/13/7446255/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdovuh/ukraine_achieves_independence_from_russian/">[comments]</a></span> </td></tr></table>
+
+## Nigerian Islamic police arrest non-fasting Muslims during Ramadan
+ - [https://www.reddit.com/r/worldnews/comments/1bdomxl/nigerian_islamic_police_arrest_nonfasting_muslims](https://www.reddit.com/r/worldnews/comments/1bdomxl/nigerian_islamic_police_arrest_nonfasting_muslims)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T10:58:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdomxl/nigerian_islamic_police_arrest_nonfasting_muslims/"> <img alt="Nigerian Islamic police arrest non-fasting Muslims during Ramadan" src="https://external-preview.redd.it/gXwC9bEHeYgR-GlXFehpTWQl4oIRVqSmOvhaSPmBjVY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb3c671864ea909ec44cadb3537b4381f5727625" title="Nigerian Islamic police arrest non-fasting Muslims during Ramadan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UnscheduledCalendar"> /u/UnscheduledCalendar </a> <br /> <span><a href="https://www.bbc.com/news/world-africa-68552431">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdomxl/nigerian_islamic_police_arrest_nonfasting_muslims/">[comments]</a></span> </td></tr></table>
+
+## Russian Women Fined For Kissing In Video
+ - [https://www.reddit.com/r/worldnews/comments/1bdoakp/russian_women_fined_for_kissing_in_video](https://www.reddit.com/r/worldnews/comments/1bdoakp/russian_women_fined_for_kissing_in_video)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T10:36:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdoakp/russian_women_fined_for_kissing_in_video/"> <img alt="Russian Women Fined For Kissing In Video" src="https://external-preview.redd.it/N8UJj1E32I5WMljF9lUQox564dcVfqsTYfcL_25q6l0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2022001809b11d243a9379c7523026b8b816a632" title="Russian Women Fined For Kissing In Video" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gym_fun"> /u/gym_fun </a> <br /> <span><a href="https://www.rferl.org/a/russia-women-fined-kissing/32859873.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdoakp/russian_women_fined_for_kissing_in_video/">[comments]</a></span> </td></tr></table>
+
+## Russia Celebrates as Hungary's Orban Says Trump Will Force Ukraine to Surrender to Putin
+ - [https://www.reddit.com/r/worldnews/comments/1bdo58r/russia_celebrates_as_hungarys_orban_says_trump](https://www.reddit.com/r/worldnews/comments/1bdo58r/russia_celebrates_as_hungarys_orban_says_trump)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T10:27:08+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/8088777"> /u/8088777 </a> <br /> <span><a href="https://www.meidastouch.com/news/russia-celebrates-as-orban-says-trump-will-force-ukraine-to-surrender-to-putin">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdo58r/russia_celebrates_as_hungarys_orban_says_trump/">[comments]</a></span>
+
+## ‘Thousands of lives’ depend on Republican vote on Ukraine aid
+ - [https://www.reddit.com/r/worldnews/comments/1bdnea1/thousands_of_lives_depend_on_republican_vote_on](https://www.reddit.com/r/worldnews/comments/1bdnea1/thousands_of_lives_depend_on_republican_vote_on)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T09:40:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdnea1/thousands_of_lives_depend_on_republican_vote_on/"> <img alt="‘Thousands of lives’ depend on Republican vote on Ukraine aid" src="https://external-preview.redd.it/hcsKD3iJn59rG5M8_CWzij2swm8MVmjy_RJQWYKYsPY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39bedf3f96b0aa9287f2589740a38567a1c6670b" title="‘Thousands of lives’ depend on Republican vote on Ukraine aid" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Yavee17"> /u/Yavee17 </a> <br /> <span><a href="https://tvpworld.com/76409370/thousands-of-lives-depend-on-republican-vote-on-ukraine-aid-polish-pm">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdnea1/thousands_of_lives_depend_on_republican_vote_on/">[comments]</a></span> </td></tr></table>
+
+## China warns proposed TikTok ban will 'come back to bite' US
+ - [https://www.reddit.com/r/worldnews/comments/1bdn3su/china_warns_proposed_tiktok_ban_will_come_back_to](https://www.reddit.com/r/worldnews/comments/1bdn3su/china_warns_proposed_tiktok_ban_will_come_back_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T09:21:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdn3su/china_warns_proposed_tiktok_ban_will_come_back_to/"> <img alt="China warns proposed TikTok ban will 'come back to bite' US" src="https://external-preview.redd.it/Ag4NfEQQWsE4PCWiS315gLAApNKNsoLdpP04NG7mkXU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf6030949d48672ce0e34bd68b5da773221bd0c9" title="China warns proposed TikTok ban will 'come back to bite' US" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/javelin3000"> /u/javelin3000 </a> <br /> <span><a href="https://www.channelnewsasia.com/asia/china-warns-proposed-tiktok-ban-will-come-back-bite-us-4192031">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdn3su/china_warns_proposed_tiktok_ban_will_come_back_to/">[comments]</a></span> </td></tr></table>
+
+## US announces surprise $300m for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1bdmn3o/us_announces_surprise_300m_for_ukraine](https://www.reddit.com/r/worldnews/comments/1bdmn3o/us_announces_surprise_300m_for_ukraine)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T08:47:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdmn3o/us_announces_surprise_300m_for_ukraine/"> <img alt="US announces surprise $300m for Ukraine" src="https://external-preview.redd.it/Pcwnd4ukpuyLblDBsJsOH6HXV49JM19w89io_FSBaf0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c669e7a604d9d35c2db407fad32108049d68c56" title="US announces surprise $300m for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/us/news/2024/03/12/us-announces-surprise-300m-military-aid-for-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdmn3o/us_announces_surprise_300m_for_ukraine/">[comments]</a></span> </td></tr></table>
+
+## President Milei shuts Argentina's main news agency
+ - [https://www.reddit.com/r/worldnews/comments/1bdl5ay/president_milei_shuts_argentinas_main_news_agency](https://www.reddit.com/r/worldnews/comments/1bdl5ay/president_milei_shuts_argentinas_main_news_agency)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T07:01:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdl5ay/president_milei_shuts_argentinas_main_news_agency/"> <img alt="President Milei shuts Argentina's main news agency" src="https://external-preview.redd.it/BMeh3-8QhWpLL5--ZDyv5GUpbAIR0P1NEBUSNfOLb2Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=046a19db90f6656a412bbecce8acc243d089e260" title="President Milei shuts Argentina's main news agency" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anna_avian"> /u/anna_avian </a> <br /> <span><a href="https://www.lemonde.fr/en/international/article/2024/03/12/president-milei-shuts-argentina-s-main-news-agency_6611210_4.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdl5ay/president_milei_shuts_argentinas_main_news_agency/">[comments]</a></span> </td></tr></table>
+
+## Owners of cars with Russian plates looking at €400 fine from Wednesday
+ - [https://www.reddit.com/r/worldnews/comments/1bdkf4l/owners_of_cars_with_russian_plates_looking_at_400](https://www.reddit.com/r/worldnews/comments/1bdkf4l/owners_of_cars_with_russian_plates_looking_at_400)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T06:12:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdkf4l/owners_of_cars_with_russian_plates_looking_at_400/"> <img alt="Owners of cars with Russian plates looking at €400 fine from Wednesday" src="https://external-preview.redd.it/klI-B4nEkHpMpcaDXZtx0gO9av3rxqBy9Skyw93xMUM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9dccbd703539488cb3ebe2d105e5c202ccf405dd" title="Owners of cars with Russian plates looking at €400 fine from Wednesday" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DerGun88"> /u/DerGun88 </a> <br /> <span><a href="https://news.err.ee/1609279491/owners-of-cars-with-russian-plates-looking-at-400-fine-from-wednesday">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdkf4l/owners_of_cars_with_russian_plates_looking_at_400/">[comments]</a></span> </td></tr></table>
+
+## Russia’s Ryazan Refinery Is on Fire After Drone Attack
+ - [https://www.reddit.com/r/worldnews/comments/1bdk974/russias_ryazan_refinery_is_on_fire_after_drone](https://www.reddit.com/r/worldnews/comments/1bdk974/russias_ryazan_refinery_is_on_fire_after_drone)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T06:02:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdk974/russias_ryazan_refinery_is_on_fire_after_drone/"> <img alt="Russia’s Ryazan Refinery Is on Fire After Drone Attack" src="https://external-preview.redd.it/ifgFD8J_1Ztou8cOQi-gfkLfUNDp5rteskGxZbQFmqg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c649c88f9c7b337dc04d76fce151681ff75cecc" title="Russia’s Ryazan Refinery Is on Fire After Drone Attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UNITED24Media"> /u/UNITED24Media </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-03-13/russia-s-ryazan-refinery-is-on-fire-after-drone-attack-tass-says">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdk974/russias_ryazan_refinery_is_on_fire_after_drone/">[comments]</a></span> </td></tr></table>
+
+## Putin Says Ukraine Deal Requires Security Pledges for Russia
+ - [https://www.reddit.com/r/worldnews/comments/1bdj8ru/putin_says_ukraine_deal_requires_security_pledges](https://www.reddit.com/r/worldnews/comments/1bdj8ru/putin_says_ukraine_deal_requires_security_pledges)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T05:00:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdj8ru/putin_says_ukraine_deal_requires_security_pledges/"> <img alt="Putin Says Ukraine Deal Requires Security Pledges for Russia" src="https://external-preview.redd.it/Rpo50_FNnOd-DIcZdIJHz8xuY2oU9gNCy5K0mQEqry0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=18e113a9e4038653d008d933ad1e8186028f3ea9" title="Putin Says Ukraine Deal Requires Security Pledges for Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/4920185"> /u/4920185 </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-03-13/putin-says-ukraine-deal-hinges-on-security-guarantees-for-russia?srnd=politics-vp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdj8ru/putin_says_ukraine_deal_requires_security_pledges/">[comments]</a></span> </td></tr></table>
+
+## Putin says Russia ready for nuclear war, but 'not everything rushing to it'
+ - [https://www.reddit.com/r/worldnews/comments/1bdj67v/putin_says_russia_ready_for_nuclear_war_but_not](https://www.reddit.com/r/worldnews/comments/1bdj67v/putin_says_russia_ready_for_nuclear_war_but_not)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T04:56:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdj67v/putin_says_russia_ready_for_nuclear_war_but_not/"> <img alt="Putin says Russia ready for nuclear war, but 'not everything rushing to it'" src="https://external-preview.redd.it/AU7gXnNCNlcfMm-bRqde-9RJTk17ItVfj_RB2myd8rA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b75f32d2a5372734f4098f43a688a169a6308b87" title="Putin says Russia ready for nuclear war, but 'not everything rushing to it'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DET_SWAT"> /u/DET_SWAT </a> <br /> <span><a href="https://www.reuters.com/world/europe/putin-says-russia-ready-nuclear-war-not-everything-rushing-it-2024-03-13/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdj67v/putin_says_russia_ready_for_nuclear_war_but_not/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 749, Part 1 (Thread #895)
+ - [https://www.reddit.com/r/worldnews/comments/1bdi5ek/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1bdi5ek/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T04:02:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdi5ek/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 749, Part 1 (Thread #895)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 749, Part 1 (Thread #895)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdi5ek/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## White House to provide $300 million weapons package for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1bdgnsy/white_house_to_provide_300_million_weapons](https://www.reddit.com/r/worldnews/comments/1bdgnsy/white_house_to_provide_300_million_weapons)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T02:50:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdgnsy/white_house_to_provide_300_million_weapons/"> <img alt="White House to provide $300 million weapons package for Ukraine" src="https://external-preview.redd.it/UnYBf1JsYneATLCaLFPFdf_G59Jlvrld1rd7tMx3umE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81885dad029cdfcc73f4786c893d790132194241" title="White House to provide $300 million weapons package for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/new974517"> /u/new974517 </a> <br /> <span><a href="https://www.nbcnews.com/politics/white-house-provide-300-million-weapons-package-ukraine-rcna143021">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdgnsy/white_house_to_provide_300_million_weapons/">[comments]</a></span> </td></tr></table>
+
+## Thousands of people took to the streets of Slovakia's capital Bratislava on Tuesday to show support for Ukraine and protest against the Slovak government, which critics say has veered too close to Russia
+ - [https://www.reddit.com/r/worldnews/comments/1bdg69z/thousands_of_people_took_to_the_streets_of](https://www.reddit.com/r/worldnews/comments/1bdg69z/thousands_of_people_took_to_the_streets_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T02:28:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdg69z/thousands_of_people_took_to_the_streets_of/"> <img alt="Thousands of people took to the streets of Slovakia's capital Bratislava on Tuesday to show support for Ukraine and protest against the Slovak government, which critics say has veered too close to Russia" src="https://external-preview.redd.it/OrlJir2OKfg-0--SM8Mu62nUhVl1YZh03_kyv48K3x0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa123497cdea74b6fd4fe67dcfd8aaaee4862cfe" title="Thousands of people took to the streets of Slovakia's capital Bratislava on Tuesday to show support for Ukraine and protest against the Slovak government, which critics say has veered too close to Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br /> <span><a href="https://www.reuters.com/world/europe/thousands-protest-slovakia-against-governments-policy-toward-russia-2024-03-12/">[link]</
+
+## United States Announces Additional Military Assistance for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1bdg51e/united_states_announces_additional_military](https://www.reddit.com/r/worldnews/comments/1bdg51e/united_states_announces_additional_military)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T02:26:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdg51e/united_states_announces_additional_military/"> <img alt="United States Announces Additional Military Assistance for Ukraine" src="https://external-preview.redd.it/Rn1-iMZqsBSgYojidPkB4EhaDbkv07R7zoROLXNqGzI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=201657e0e6c068d5108d3a6c442061fa7fb19a49" title="United States Announces Additional Military Assistance for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br /> <span><a href="https://www.state.gov/united-states-announces-additional-military-assistance-for-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdg51e/united_states_announces_additional_military/">[comments]</a></span> </td></tr></table>
+
+## In White House visit, Polish president pushes NATO to ramp up spending, calls on US to fund Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1bdel9x/in_white_house_visit_polish_president_pushes_nato](https://www.reddit.com/r/worldnews/comments/1bdel9x/in_white_house_visit_polish_president_pushes_nato)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T01:15:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdel9x/in_white_house_visit_polish_president_pushes_nato/"> <img alt="In White House visit, Polish president pushes NATO to ramp up spending, calls on US to fund Ukraine" src="https://external-preview.redd.it/_JFx6Bm_QIk-C9rArWybjgFxLrlGZeAsOA4_48kPuWg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7346ab5b4cdae87b0e61b794d29744de7581ec72" title="In White House visit, Polish president pushes NATO to ramp up spending, calls on US to fund Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gym_fun"> /u/gym_fun </a> <br /> <span><a href="https://apnews.com/article/poland-us-ukraine-biden-white-house-66b04d8c3917be6fe5b9ea5e016f7f5b">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdel9x/in_white_house_visit_polish_president_pushes_nato/">[comments]</a></span> </td></tr></table>
+
+## Argentina’s Milei accused of double standards in a scandal over a 48% pay raise
+ - [https://www.reddit.com/r/worldnews/comments/1bdeafb/argentinas_milei_accused_of_double_standards_in_a](https://www.reddit.com/r/worldnews/comments/1bdeafb/argentinas_milei_accused_of_double_standards_in_a)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-03-13T01:01:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bdeafb/argentinas_milei_accused_of_double_standards_in_a/"> <img alt="Argentina’s Milei accused of double standards in a scandal over a 48% pay raise" src="https://external-preview.redd.it/kXAo4fMAuQhzDL_-8gqNR71qXOcsnQ9Q7gvycRquyuw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=44f2f14a24a6fb1f95c78b0c5b3ce2c15f72ea01" title="Argentina’s Milei accused of double standards in a scandal over a 48% pay raise" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/smallbatter"> /u/smallbatter </a> <br /> <span><a href="https://www.cnbc.com/2024/03/12/argentina-milei-accused-of-hypocrisy-in-a-scandal-over-a-48percent-pay-rise.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bdeafb/argentinas_milei_accused_of_double_standards_in_a/">[comments]</a></span> </td></tr></table>
+

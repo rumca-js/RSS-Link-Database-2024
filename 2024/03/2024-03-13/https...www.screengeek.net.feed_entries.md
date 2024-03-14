@@ -1,0 +1,42 @@
+# Source:ScreenGeek, URL:https://www.screengeek.net/feed, language:en-US
+
+## Al Pacino Responds To Oscars “Controversy”
+ - [https://www.screengeek.net/2024/03/13/al-pacino-oscars-controversy-response](https://www.screengeek.net/2024/03/13/al-pacino-oscars-controversy-response)
+ - RSS feed: https://www.screengeek.net/feed
+ - date published: 2024-03-13T23:40:19+00:00
+
+<p>Actor Al Pacino recently participated in the 2024 Academy Awards ceremony for the Oscars. The Scarface star presented the best picture category. However, he did so in a very unconventional manner, and now Al Pacino has taken the time to respond to his viral Oscars moment. As noted by Variety, viewers were surprised when Al [...]</p>
+<p>The post <a href="https://www.screengeek.net/2024/03/13/al-pacino-oscars-controversy-response/">Al Pacino Responds To Oscars &#8220;Controversy&#8221;</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
+## Marvel Actor Remembers “Soul-Destroying” MCU Experience
+ - [https://www.screengeek.net/2024/03/13/marvel-actor-mcu-soul-destroying](https://www.screengeek.net/2024/03/13/marvel-actor-mcu-soul-destroying)
+ - RSS feed: https://www.screengeek.net/feed
+ - date published: 2024-03-13T19:28:49+00:00
+
+<p>The Marvel Cinematic Universe can be a different experience for many. Though there are numerous stars that are grateful for the experience, others have had varying results, just like the reception for projects can range from positive to negative. Now one Marvel actor has referenced their MCU experience which they describe as &#8220;soul-destroying.&#8221; Obviously no [...]</p>
+<p>The post <a href="https://www.screengeek.net/2024/03/13/marvel-actor-mcu-soul-destroying/">Marvel Actor Remembers &#8220;Soul-Destroying&#8221; MCU Experience</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
+## Dakota Johnson Responds To ‘Madame Web’ Backlash
+ - [https://www.screengeek.net/2024/03/13/madame-web-backlash-dakota-johnson-response](https://www.screengeek.net/2024/03/13/madame-web-backlash-dakota-johnson-response)
+ - RSS feed: https://www.screengeek.net/feed
+ - date published: 2024-03-13T15:42:15+00:00
+
+<p>Sony has certainly had trouble with the release of Madame Web. The Spider-Man spin-off film flopped at the box office and received intensely negative reviews from both fans and critics. Now Madame Web star Dakota Johnson has responded to the backlash. Interestingly, however, she didn&#8217;t have anything negative to say to viewers. In fact, she [...]</p>
+<p>The post <a href="https://www.screengeek.net/2024/03/13/madame-web-backlash-dakota-johnson-response/">Dakota Johnson Responds To &#8216;Madame Web&#8217; Backlash</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
+## Beloved Movie Franchise Finally Getting Another Sequel
+ - [https://www.screengeek.net/2024/03/13/movie-franchise-another-sequel](https://www.screengeek.net/2024/03/13/movie-franchise-another-sequel)
+ - RSS feed: https://www.screengeek.net/feed
+ - date published: 2024-03-13T15:27:08+00:00
+
+<p>We live at a time when the entertainment industry is greenlighting all kinds of sequels and revivals of beloved franchises. Now it&#8217;s been confirmed that one other such beloved franchise is finally getting a movie sequel quite a few years after the most recent installment was released. In fact, the most recent installment was released [...]</p>
+<p>The post <a href="https://www.screengeek.net/2024/03/13/movie-franchise-another-sequel/">Beloved Movie Franchise Finally Getting Another Sequel</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
+## ‘X-Men ’97’ Creator Beau DeMayo Fired Before Series Premiere
+ - [https://www.screengeek.net/2024/03/13/x-men-97-creator-fired](https://www.screengeek.net/2024/03/13/x-men-97-creator-fired)
+ - RSS feed: https://www.screengeek.net/feed
+ - date published: 2024-03-13T15:09:18+00:00
+
+<p>Beau DeMayo has been involved with a number of Marvel projects for Disney Plus, including the animated series revival X-Men &#8217;97. In fact, DeMayo is credited as the creator of the series, though he&#8217;s now been fired before the premiere of the series has even taken place. DeMayo&#8217;s other credits with the studio include work [...]</p>
+<p>The post <a href="https://www.screengeek.net/2024/03/13/x-men-97-creator-fired/">&#8216;X-Men &#8217;97&#8217; Creator Beau DeMayo Fired Before Series Premiere</a> appeared first on <a href="https://www.screengeek.net">ScreenGeek</a>.</p>
+
