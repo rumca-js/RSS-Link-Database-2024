@@ -1,0 +1,187 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Your Next Pair of Walmart Pants Could Be 3D Woven
+ - [https://hardware.slashdot.org/story/24/03/14/215228/your-next-pair-of-walmart-pants-could-be-3d-woven?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/03/14/215228/your-next-pair-of-walmart-pants-could-be-3d-woven?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T23:56:37.568063+00:00
+
+An anonymous reader quotes a report from Wired: We've been ableto design and 3D-print plastic phone cases and toys at home for a decade now. For almost every other consumer product made in a factory, the robots have taken over the heavy lifting. But fashion is still stuck in the 20th century. Take a typical pair of chinos. Cotton threads are woven on a large loom at a mill somewhere in Asia, then shipped to a dye house, then shipped (usually a great distance) to a garment factory somewhere else in Asia. There, the fabric is laid flat and cut into shapes, with the excess fabric being landfilled, incinerated, or (very rarely) recycled. Underpaid and exploited garment workers hand-sew those pieces of fabric into pants, which are then shipped across the ocean to a fulfillment warehouse or a store near you. This global apparel supply chain is inefficient and emissions-heavy -- an estimated 4 percent of global waste and 2 to 4 percent of greenhouse gas emissions are attributed to f
+
+## Court Docs Reveal Epic CEO's Anger At Steam's 30% Fees
+ - [https://yro.slashdot.org/story/24/03/14/2041238/court-docs-reveal-epic-ceos-anger-at-steams-30-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/14/2041238/court-docs-reveal-epic-ceos-anger-at-steams-30-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T22:51:32.867479+00:00
+
+New emails from before the launch of the Epic Games Store in 2018 show just how angry Epic CEO Tim Sweeney was with the "assholes" at companies like Valve and Apple for squeezing "the little guy" with what he saw as inflated fees. "The emails, which came out this week as part of Wolfire's price-fixing case against Valve (as noticed by the GameDiscoverCo newsletter), confront Valve managers directly for platform fees Sweeney says are 'no longer justifiable,'" writes Ars Technica's Kyle Orland. "They also offer a behind-the-scenes look at the fury Sweeney and Epic would unleash against Apple in court proceedings starting years later. From the report: The first mostly unredacted email chain from the court documents, from August 2017 (PDF), starts with Valve co-founder Gabe Newell asking Sweeney if there is "anything we [are] doing to annoy you?" That query was likely prompted by Sweeney's public tweets at the time questioning "why Steam is still taking 30% of gross [when] Master
+
+## Refund Fraud Schemes Promoted Online Are Costing Amazon and Other Retailers Billions
+ - [https://news.slashdot.org/story/24/03/14/2059205/refund-fraud-schemes-promoted-online-are-costing-amazon-and-other-retailers-billions?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/14/2059205/refund-fraud-schemes-promoted-online-are-costing-amazon-and-other-retailers-billions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T22:51:31.358147+00:00
+
+Refund fraud groups are exploiting lenient refund policies, resulting in significant losses for retailers like Amazon and prompting civil lawsuits and arrests. The scheme has become so pervasive that groups now market their services on Reddit, TikTok and Telegram. CNBC reports: Fraud groups are taking advantage of retailers' lenient return policies, experts told CNBC, which often include unlimited free returns and sometimes even a preference that customers keep the items. It's ballooned into a massive problem for retailers, costing them more than $101 billion last year, according to a survey by the National Retail Federation and Appriss Retail. The figure includes multiple forms of fraud, such as sending back clothing after it's been worn, known as "wardrobing," and returning shoplifted merchandise, the survey said.
+ 
+In December, Amazon filed a lawsuit against Page and 47 other people across the globe with alleged ties to Rekk, accusing them of conspiring to steal millions o
+
+## Massively Popular Safe Locks Have Secret Backdoor Codes
+ - [https://it.slashdot.org/story/24/03/14/1820202/massively-popular-safe-locks-have-secret-backdoor-codes?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/03/14/1820202/massively-popular-safe-locks-have-secret-backdoor-codes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T21:46:50.475695+00:00
+
+Two of the biggest manufacturers of locks used in commercial safes have been accused of essentially putting backdoors in at least some of their products in a new letter by Senator Ron Wyden. 404 Media: Wyden is urging the U.S. government to explicitly warn the public about the vulnerabilities, which Wyden says could be exploited by foreign adversaries to steal what U.S. businesses store in safes, such as trade secrets. The little known "manufacturer" or "manager" reset codes could let third parties -- such as spies or criminals -- bypass locks without the owner's consent and are sometimes not disclosed to customers. Wyden's office also found that while the U.S. Department of Defense (DoD) bans such locks for sensitive and classified U.S. government use in part due to the security vulnerability reset codes pose, the government has deliberately not warned the public about the existence of these backdoors. 
+
+The specific companies named in Wyden's letter are China-based SECURAM 
+
+## How Nintendo's Destruction of Yuzu Is Rocking the Emulator World
+ - [https://games.slashdot.org/story/24/03/14/2029238/how-nintendos-destruction-of-yuzu-is-rocking-the-emulator-world?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/03/14/2029238/how-nintendos-destruction-of-yuzu-is-rocking-the-emulator-world?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T21:46:48.999280+00:00
+
+An anonymous reader quotes a report from The Verge: When Nintendo sued the developers of Yuzu out of existence on March 4th, it wasn't just an attack on the leading way to play Nintendo Switch games without a Switch. It was a warning to anyone building a video game emulator. Seven developers have now stepped away from projects, are shutting them down, or have left the emulation scene entirely. Of those that remain, many are circling the wagons, getting quieter and more careful, trying not to paint targets on their backs. Four developers declined to talk to The Verge, telling me they didn't want to draw attention. One even tried to delete answers to my questions after we'd begun, suddenly scared of attracting press.
+ 
+Not everyone is so afraid. Four other emulator teams tell me they're optimistic Nintendo won't challenge them, that they're on strong legal footing, and that Yuzu may have been an unusually incriminating case. One decade-long veteran tells me everyone's just a bi
+
+## US Investigators Say Video Footage Overwritten of Work On Boeing Jet's Door Plug
+ - [https://news.slashdot.org/story/24/03/14/1815254/us-investigators-say-video-footage-overwritten-of-work-on-boeing-jets-door-plug?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/14/1815254/us-investigators-say-video-footage-overwritten-of-work-on-boeing-jets-door-plug?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T20:41:46.808282+00:00
+
+The head of the National Transportation Safety Board (NTSB) says investigators still do not know who worked on a Boeing 737 MAX 9 door plug involved in a Jan. 5 Alaska Airlines midair emergency and that video footage was overwritten. From a report: NTSB Chair Jennifer Homendy said in a letter to senators that investigators sought security camera footage when the door plug was opened and closed in September but were informed the material was overwritten. "The absence of those records will complicate the NTSB's investigation moving forward," Homendy said. "To date, we still do not know who performed the work to open, reinstall, and close the door plug on the accident aircraft." 
+
+The NTSB said previously four key bolts were missing from the door plug that blew out on the plane. Last week, Homendy said she spoke to Boeing CEO David Calhoun "and asked for the names of the people who performed the work. He stated he was unable to provide that information and maintained that Boeing
+
+## Microsoft Drops Azure Egress Fees
+ - [https://slashdot.org/story/24/03/14/183245/microsoft-drops-azure-egress-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/14/183245/microsoft-drops-azure-egress-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T19:36:14.414958+00:00
+
+Microsoft has eliminated egress fees for customers removing data from its Azure cloud, joining Amazon Web Services and Google in this move. The decision comes as the European Data Act's provisions targeting lock-in terms are set to take effect in 2025. Microsoft adds: Azure already offers the first 100GB/month of egressed data for free to all customers in all Azure regions around the world. If you need to egress more than 100GB/month, please follow these steps to claim your credit. Contact Azure Support for details on how to start the data transfer-out process. Please comply with the instructions to be eligible for the credit. Azure Support will apply the credit when the data transfer process is complete and all Azure subscriptions associated to the account have been canceled. The exemption on data transfer out to the internet fees also aligns with the European Data Act and is accessible to all Azure customers globally and from any Azure region.<p><div class="share_submission
+
+## Record Breach of French Government Exposes Up To 43 Million People's Data
+ - [https://it.slashdot.org/story/24/03/14/187223/record-breach-of-french-government-exposes-up-to-43-million-peoples-data?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/03/14/187223/record-breach-of-french-government-exposes-up-to-43-million-peoples-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T19:36:12.502953+00:00
+
+France Travail, the government agency responsible for assisting the unemployed, has fallen victim to a massive data breach exposing the personal information of up to 43 million French citizens dating back two decades, the department announced on Wednesday. The incident, which has been reported to the country's data protection watchdog (CNIL), is the latest in a series of high-profile cyber attacks targeting French government institutions and underscores the growing threat to citizens' private data. From a report: The department's statement reveals that names, dates of birth, social security numbers, France Travail identifiers, email addresses, postal addresses, and phone numbers were exposed. Passwords and banking details aren't affected, at least. That said, CNIL warned that the data stolen during this incident could be linked to stolen data in other breaches and used to build larger banks of information on any given individual. It's not clear whether the database's entire c
+
+## Code.org Tells Court Zuckerberg-Backed Byju's Undermines Mission To Teach Kids CS
+ - [https://developers.slashdot.org/story/24/03/14/1758247/codeorg-tells-court-zuckerberg-backed-byjus-undermines-mission-to-teach-kids-cs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://developers.slashdot.org/story/24/03/14/1758247/codeorg-tells-court-zuckerberg-backed-byjus-undermines-mission-to-teach-kids-cs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T18:33:47.026010+00:00
+
+theodp writes: Tech-backed nonprofit Code.org on Wednesday fired the latest salvo in its legal battle over $3 million in unpaid licensing fees for the use of Code.org's free [for non-commercial purposes] K-12 computer science curriculum by WhiteHat Jr., the learn-to-code edtech company with a controversial past that was bought for $300M in 2020 by Byju's, another edtech firm that received a $50M investment from Mark Zuckerberg's venture firm that still touts its ties to Zuckerberg on its Investors page. 
+
+In a filing in support of a motion for default judgement, Code.org founder and CEO Hadi Partovi wrote: "Whitehat's continued use of Code.org's platform and content without payment following Code.org's termination of the Agreement has caused, and is continuing to cause, irreparable injury to Code.org, because it undermines Code.org's charitable and nonprofit purpose of expanding access to computer science in schools and increasing participation by young women and students fro
+
+## Google's Safe Browsing Protection in Chrome Goes Real-Time
+ - [https://tech.slashdot.org/story/24/03/14/1624218/googles-safe-browsing-protection-in-chrome-goes-real-time?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/14/1624218/googles-safe-browsing-protection-in-chrome-goes-real-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T17:28:10.451344+00:00
+
+Google announced a major change to its Safe Browsing feature in Chrome today that will make the service work in real time by checking against a server-side list -- all without sharing your browsing habits with Google. From a report: Previously, Chrome downloaded a list of known sites that harbor malware, unwanted software and phishing scams once or twice per hour. Now, Chrome will move to a system that will send the URLs you are visiting to its servers and check against a rapidly updated list there. The advantage of this is that it doesn't take up to an hour to get an updated list because, as Google notes, the average malicious site doesn't exist for more than 10 minutes. 
+
+The company claims that this new server-side system can catch up to 25 percent more phishing attacks than using local lists. These local lists have also grown in size, putting more of a strain on low-end machines and low-bandwidth connections. Google is rolling out this new system to desktop and iOS users 
+
+## Amazon Tells Warehouse Workers To Close Their Eyes and Think Happy Thoughts
+ - [https://slashdot.org/story/24/03/14/1719200/amazon-tells-warehouse-workers-to-close-their-eyes-and-think-happy-thoughts?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/14/1719200/amazon-tells-warehouse-workers-to-close-their-eyes-and-think-happy-thoughts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T17:28:08.892931+00:00
+
+Amazon is telling workers to close their eyes and dream of being somewhere else while they're standing in a warehouse. From a report: A worker in one of Amazon's fulfillment centers, who we've granted anonymity, sent 404 Media a photo they took of a screen imploring them to try "savoring" the idea of something that makes them happy -- as in, not being at work, surrounded by robots and packages. "Savoring," the screen says, in a black font over a green block of color. "Close your eyes and think about something that makes you happy." Under that text -- which I can't emphasize enough: it looks like something a 6th grader would make in Powerpoint -- there's a bunch of white space, and a stock illustration of a faceless person in an Amazon vest. He's being urged on by an anthropomorphic stack of Amazon packages with wheels and arms. There's also a countdown timer that says "repeat until timer ends." In the image we saw, it said 10 seconds.<p><div class="share_submission">
+<a class
+
+## Outdoor Voices To Close All Stores This Week
+ - [https://slashdot.org/story/24/03/14/1528227/outdoor-voices-to-close-all-stores-this-week?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/14/1528227/outdoor-voices-to-close-all-stores-this-week?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T16:23:06.392861+00:00
+
+Outdoor Voices, an athletic apparel company, is closing all its stores on Sunday, The New York Times reported this week, citing four employees at four different stores. From the report: In an internal Slack message reviewed by The New York Times, some employees were notified on Wednesday that "Outdoor Voices is embarking on a new chapter as we transition to an exclusively online business." Products in stores are going to be discounted 50 percent, according to the Slack message. The news came as a surprise, two of the employees said, adding that they were not offered severance. 
+
+Outdoor Voices, which lists 16 retail locations on its website, did not immediately respond to a request for comment. Founded in 2014 by Ty Haney, the brand became popular for its muted tones and highly Instagrammable aesthetics. Think matching crop tops and leggings in pale shades of earthy tones. Its hashtag and company mantra, #DoingThings, became popular on social media, where brand loyalists woul
+
+## Undersea Cable Damage Causes Internet Outages Across Africa
+ - [https://tech.slashdot.org/story/24/03/14/166232/undersea-cable-damage-causes-internet-outages-across-africa?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/14/166232/undersea-cable-damage-causes-internet-outages-across-africa?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T16:23:04.518721+00:00
+
+Damage to at least three subsea cables off the west coast of Africa is disrupting internet services across the continent. From a report: The West Africa Cable System, MainOne and ACE sea cables -- arteries for telecommunications data -- were all affected on Thursday, triggering outages and connectivity issues for mobile operators and internet service providers, according to data from internet analysis firms including NetBlocks, Kentik and Cloudflare. The cause of the cable faults has not yet been determined. 
+
+Data show a major disruption to connectivity in eight West African countries, with Ivory Coast, Liberia and Benin being the most affected, NetBlocks, an internet watchdog, said in a post on X. Ghana, Nigeria, and Cameroon are among other countries impacted. Several companies have also reported service disruptions in South Africa. "This is a devastating blow to internet connectivity along the west coast of Africa, which will be operating in a degraded state for weeks to 
+
+## Craig Wright Is Not Bitcoin Creator Satoshi Nakamoto, Judge Declares
+ - [https://slashdot.org/story/24/03/14/1428252/craig-wright-is-not-bitcoin-creator-satoshi-nakamoto-judge-declares?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/14/1428252/craig-wright-is-not-bitcoin-creator-satoshi-nakamoto-judge-declares?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T15:18:10.832178+00:00
+
+A judge in the UK High Court has declared that Australian computer scientist Craig Wright is not Satoshi Nakamoto, the creator of Bitcoin, marking the end of a years-long debate. From a report: "The evidence is overwhelming," said Honourable Mr. Justice James Mellor, delivering a surprise ruling at the close of the trial. "Dr. Wright is not the author of the Bitcoin white paper. Dr. Wright is not the person that operated under the pseudonym Satoshi Nakamoto. Dr. Wright is not the person that created the Bitcoin system. Nor is Dr. Wright the author of the Bitcoin software," he said. 
+
+The ruling brings to a close a six-week trial, in which the Crypto Open Patent Alliance, a nonprofit consortium of crypto companies, asked the court to declare that Wright is not Satoshi on the basis that he had allegedly fabricated his evidence and contorted his story repeatedly as new inconsistencies came to light. "After all the evidence in this remarkable trial, it is clear beyond doubt that 
+
+## Paul Alexander, 'The Man In the Iron Lung', Has Died
+ - [https://science.slashdot.org/story/24/03/14/055244/paul-alexander-the-man-in-the-iron-lung-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/03/14/055244/paul-alexander-the-man-in-the-iron-lung-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T14:12:52.465138+00:00
+
+An anonymous reader quotes a report from the BBC: The polio survivor known as "the man in the iron lung" has died at the age of 78. Paul Alexander contracted polio in 1952 when he was six, leaving him paralyzed from the neck down. The disease left him unable to breathe independently, leading doctors to place him in the metal cylinder, where he would spend the rest of his life. He would go on to earn a law degree -- and practice law -- as well as publish a memoir. [...] In 1952, when he became ill, doctors in his hometown of Dallas operated on him, saving his life. But polio meant his body was no longer able to breathe on his own. The answer was to place him in a so-called iron lung &mdash; a metal cylinder enclosing his body up to his neck.
+ 
+The lung, which he called his "old iron horse," allowed him to breathe. Bellows sucked air out of the cylinder, forcing his lungs to expand and take in air. When the air was let back in, the same process in reverse made his lungs deflate
+
+## China Hits Out at US Push To Ban TikTok
+ - [https://slashdot.org/story/24/03/14/143255/china-hits-out-at-us-push-to-ban-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/14/143255/china-hits-out-at-us-push-to-ban-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T14:12:50.663385+00:00
+
+Beijing has hit out at US legislation to ban TikTok as former Treasury secretary Steven Mnuchin said he was assembling a consortium to buy the app from its Chinese owner. From a report: Foreign ministry spokesperson Wang Wenbin said on Thursday that the US had shown a "robber's logic" towards the app (non-paywalled link), which has 170mn users in America. "When you see other people's good things, you must find ways to own them," Wang said. 
+
+The US House of Representatives on Wednesday approved a bill that would force TikTok owner ByteDance to sell the app to a non-Chinese company within six months or be banned from US app stores. It still needs Senate approval and President Joe Biden's signature. Mnuchin said in an interview with CNBC on Thursday that he was putting together an investor group to attempt to take over the short-video app. "It's a great business," he said. "It should be owned by a US business. There's no way the Chinese would ever let a US company run something
+
+## SXSW Audiences Loudly Boo Festival Videos Touting the Virtues of AI
+ - [https://news.slashdot.org/story/24/03/14/0456245/sxsw-audiences-loudly-boo-festival-videos-touting-the-virtues-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/14/0456245/sxsw-audiences-loudly-boo-festival-videos-touting-the-virtues-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T10:28:35.731145+00:00
+
+At this year's SXSW festival, discussions on artificial intelligence's future sparked controversy during screenings of premiers like "The Fall Guy" and "Immaculate." Variety reports: The quick-turnaround video editors at SXSW cut a daily sizzle reel highlighting previous panels, premieres and other events, which then runs before festival screenings. On Tuesday, the fourth edition of that daily video focused on the wide variety of keynotes and panelists in town to discuss AI. Those folks sure seem bullish on artificial intelligence, and the audiences at the Paramount -- many of whom are likely writers and actors who just spent much of 2023 on the picket line trying to reign in the potentially destructive power of AI -- decided to boo the video. Loudly. And frequently.
+ 
+Those boos grew the loudest toward the end of the sizzle, when OpenAI's VP of consumer product and head of ChatGPT Peter Deng declares on camera, "I actually think that AI fundamentally makes us more human." Th
+
+## FAA Grants License For SpaceX's Third Starship Launch
+ - [https://science.slashdot.org/story/24/03/14/0446221/faa-grants-license-for-spacexs-third-starship-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/03/14/0446221/faa-grants-license-for-spacexs-third-starship-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T07:13:30.260043+00:00
+
+The FAA today awarded a launch license to SpaceX for Starship's third-ever test flight on March 14. "The FAA determined SpaceX met all safety, environmental, policy and financial responsibility requirements," the agency wrote in a post on X this afternoon. Space.com reports: The megarocket has two test flights under its belt so far, which took place in April and November of last year. Starship's two stages failed to separate as planned on the April flight, however, which ended after just four minutes. Things went better in November -- stage separation occurred as planned, for example -- but both stages ended up exploding high in the sky on that mission as well. The FAA wrapped up its investigation into what happened on the November flight late last month. But the agency took some additional time before awarding a license for launch number three today.
+ 
+Thursday's flight will be different, and bolder, than its predecessors. "The third flight test aims to build on what we've l
+
+## Playing Thriving Reef Sounds On Underwater Speakers 'Could Save Damaged Corals'
+ - [https://news.slashdot.org/story/24/03/13/2258227/playing-thriving-reef-sounds-on-underwater-speakers-could-save-damaged-corals?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/13/2258227/playing-thriving-reef-sounds-on-underwater-speakers-could-save-damaged-corals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T03:58:23.529978+00:00
+
+An anonymous reader quotes a report from The Guardian: Underwater speakers that broadcast the hustle and bustle of thriving coral could bring life back to more damaged and degraded reefs that are in danger of becoming ocean graveyards, researchers say. Scientists working off the US Virgin Islands in the Caribbean found that coral larvae were up to seven times more likely to settle at a struggling reef where they played recordings of the snaps, groans, grunts and scratches that form the symphony of a healthy ecosystem. "We're hoping this may be something we can combine with other efforts to put the good stuff back on the reef," said Nadeege Aoki at the Woods Hole Oceanographic Institution in Massachusetts. "You could leave a speaker out for a certain amount of time and it could be attracting not just coral larvae but fish back to the reef."
+ 
+The world has lost half its coral reefs since the 1950s through the devastating impact of global heating, overfishing, pollution, habita
+
+## Trying Out Microsoft's Pre-Release OS/2 2.0
+ - [https://tech.slashdot.org/story/24/03/13/2333243/trying-out-microsofts-pre-release-os2-20?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/13/2333243/trying-out-microsofts-pre-release-os2-20?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T01:48:22.202097+00:00
+
+Last month, the only known surviving copy of 32-bit OS/2 from Microsoft was purchased for $650. "Now, two of the internet's experts in getting early PC operating systems running today have managed to fire it up, and you can see the results," reports The Register. From the report: Why such interest in this nearly third-of-a-century old, unreleased OS? Because this is the way the PC industry very nearly went. This SDK came out in June 1990, just one month after Windows 3.0. If 32-bit OS/2 had launched as planned, Windows 3 would have been the last version before it was absorbed into OS/2 and disappeared. There would never have been any 32-bit versions: no Windows NT, no Windows 95; no Explorer, no Start menu or taskbars. That, in turn, might well have killed off Apple as well. No iPod, no iPhone, no fondleslabs. Twenty-first century computers would be unimaginably different. The surprise here is that we can see a glimpse of this world that never happened. The discovery of this 
+
+## Cognition Emerges From Stealth To Launch AI Software Engineer 'Devin'
+ - [https://tech.slashdot.org/story/24/03/13/2347209/cognition-emerges-from-stealth-to-launch-ai-software-engineer-devin?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/13/2347209/cognition-emerges-from-stealth-to-launch-ai-software-engineer-devin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T01:48:20.126082+00:00
+
+Longtime Slashdot reader ahbond shares a report from VentureBeat: Today, Cognition, a recently formed AI startup backed by Peter Thiel's Founders Fund and tech industry leaders including former Twitter executive Elad Gil and Doordash co-founder Tony Xu, announced a fully autonomous AI software engineer called "Devin." While there are multiple coding assistants out there, including the famous Github Copilot, Devin is said to stand out from the crowd with its ability to handle entire development projects end-to-end, right from writing the code and fixing the bugs associated with it to final execution. This is the first offering of this kind and even capable of handling projects on Upwork, the startup has demonstrated. [...]
+ 
+In a blog post today on Cognition's website, Scott Wu, the founder and CEO of Cognition and an award-winning sports coder, explained Devin can access common developer tools, including its own shell, code editor and browser, within a sandboxed compute envir
+
+## Modern Workplace Tech Linked To Lower Employee Well-Being, Study Finds
+ - [https://it.slashdot.org/story/24/03/13/2246235/modern-workplace-tech-linked-to-lower-employee-well-being-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/03/13/2246235/modern-workplace-tech-linked-to-lower-employee-well-being-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-14T00:43:09.912023+00:00
+
+According to a new study from the Institute for the Future of Work, contemporary technology often has a negative impact on workers' quality of life. The think tank surveyed over 6,000 people to learn how four categories of workplace technologies affected their wellbeing. TechSpot reports the findings: The study found that increased exposure to three of the categories tended to worsen workers' mental state and health. The three areas that negatively impact people most are wearable and remote sensing technologies, which covers CCTV cameras and wearable trackers; robotics, consisting of automated machines, self-driving vehicles, and other equipment; and, unsurprisingly, technologies relating to AI and ML, which includes everything from decision management to biometrics. Only one of the categories was found to be beneficial to employees, and it's one that has been around for decades: ICT tech such as laptops, tablets, phones, and real-time messaging tools.<p><div class="share_sub
+
