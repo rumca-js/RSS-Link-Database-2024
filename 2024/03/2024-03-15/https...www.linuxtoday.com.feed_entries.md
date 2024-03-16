@@ -1,0 +1,66 @@
+# Source:Linux Today, URL:https://www.linuxtoday.com/feed, language:en-US
+
+## How to Install GNOME Shell Extensions on Ubuntu and Other Linux Distros
+ - [https://www.linuxtoday.com/developer/how-to-install-gnome-shell-extensions-on-ubuntu-and-other-linux-distros](https://www.linuxtoday.com/developer/how-to-install-gnome-shell-extensions-on-ubuntu-and-other-linux-distros)
+ - RSS feed: https://www.linuxtoday.com/feed
+ - date published: 2024-03-15T22:40:13+00:00
+
+<p>Discover a step-by-step guide to setup GNOME shell extensions on Ubuntu and other Linux distros, and later install your favorite GNOME extensions.</p>
+<p>The post <a href="https://www.linuxtoday.com/developer/how-to-install-gnome-shell-extensions-on-ubuntu-and-other-linux-distros/" rel="nofollow">How to Install GNOME Shell Extensions on Ubuntu and Other Linux Distros</a> appeared first on <a href="https://www.linuxtoday.com" rel="nofollow">Linux Today</a>.</p>
+
+## digiKam 8.3 Automatically Tags Images Using Deep Learning Neural Network
+ - [https://www.linuxtoday.com/news/digikam-8-3-automatically-tags-images-using-deep-learning-neural-network](https://www.linuxtoday.com/news/digikam-8-3-automatically-tags-images-using-deep-learning-neural-network)
+ - RSS feed: https://www.linuxtoday.com/feed
+ - date published: 2024-03-15T20:00:39+00:00
+
+<p>digiKam 8.3 open-source, free, and cross-platform advanced digital photo management application is now available for download as a major release that introduces new features and fixes numerous bugs and issues.</p>
+<p>The post <a href="https://www.linuxtoday.com/news/digikam-8-3-automatically-tags-images-using-deep-learning-neural-network/" rel="nofollow">digiKam 8.3 Automatically Tags Images Using Deep Learning Neural Network</a> appeared first on <a href="https://www.linuxtoday.com" rel="nofollow">Linux Today</a>.</p>
+
+## System76 Refreshes Its Adder WS Linux Laptop With an HX-Class 14th Gen Intel CPU
+ - [https://www.linuxtoday.com/news/system76-refreshes-its-adder-ws-linux-laptop-with-an-hx-class-14th-gen-intel-cpu](https://www.linuxtoday.com/news/system76-refreshes-its-adder-ws-linux-laptop-with-an-hx-class-14th-gen-intel-cpu)
+ - RSS feed: https://www.linuxtoday.com/feed
+ - date published: 2024-03-15T18:00:25+00:00
+
+<p>It’s been almost a year since System76 refreshed the Adder WS laptop, which was the company’s first Linux notebook to feature the NVIDIA 40 GPU series, including the NVIDIA GeForce RTX 4050, NVIDIA GeForce RTX 4060, and NVIDIA GeForce RTX 4070.</p>
+<p>The post <a href="https://www.linuxtoday.com/news/system76-refreshes-its-adder-ws-linux-laptop-with-an-hx-class-14th-gen-intel-cpu/" rel="nofollow">System76 Refreshes Its Adder WS Linux Laptop With an HX-Class 14th Gen Intel CPU</a> appeared first on <a href="https://www.linuxtoday.com" rel="nofollow">Linux Today</a>.</p>
+
+## PipeWire 1.0.4 Is Here as a Massive Bugfix Release
+ - [https://www.linuxtoday.com/news/pipewire-1-0-4-is-here-as-a-massive-bugfix-release](https://www.linuxtoday.com/news/pipewire-1-0-4-is-here-as-a-massive-bugfix-release)
+ - RSS feed: https://www.linuxtoday.com/feed
+ - date published: 2024-03-15T17:07:01+00:00
+
+<p>PipeWire 1.0.4 debuts with vital bug fixes, enhancing audio/MIDI latency and ensuring smoother media handling. Here&#8217;s what&#8217;s new!</p>
+<p>The post <a href="https://www.linuxtoday.com/news/pipewire-1-0-4-is-here-as-a-massive-bugfix-release/" rel="nofollow">PipeWire 1.0.4 Is Here as a Massive Bugfix Release</a> appeared first on <a href="https://www.linuxtoday.com" rel="nofollow">Linux Today</a>.</p>
+
+## Linux 4.14’s Long-Term Support Will Live On After All, Thanks to This Alliance
+ - [https://www.linuxtoday.com/news/linux-4-14s-long-term-support-will-live-on-after-all-thanks-to-this-alliance](https://www.linuxtoday.com/news/linux-4-14s-long-term-support-will-live-on-after-all-thanks-to-this-alliance)
+ - RSS feed: https://www.linuxtoday.com/feed
+ - date published: 2024-03-15T16:00:35+00:00
+
+<p>The six-year-old Linux kernel seemed doomed until this alliance of CIQ, Oracle, and SUSE stepped up. But why go to all this trouble?</p>
+<p>The post <a href="https://www.linuxtoday.com/news/linux-4-14s-long-term-support-will-live-on-after-all-thanks-to-this-alliance/" rel="nofollow">Linux 4.14&#8217;s Long-Term Support Will Live On After All, Thanks to This Alliance</a> appeared first on <a href="https://www.linuxtoday.com" rel="nofollow">Linux Today</a>.</p>
+
+## Proton Mail Desktop App Now Available for Linux
+ - [https://www.linuxtoday.com/news/proton-mail-desktop-app-now-available-for-linux](https://www.linuxtoday.com/news/proton-mail-desktop-app-now-available-for-linux)
+ - RSS feed: https://www.linuxtoday.com/feed
+ - date published: 2024-03-15T15:20:22+00:00
+
+<p>New Proton Mail desktop app brings distraction-free, secure email to Windows, macOS, and Linux (beta). Free trial available.</p>
+<p>The post <a href="https://www.linuxtoday.com/news/proton-mail-desktop-app-now-available-for-linux/" rel="nofollow">Proton Mail Desktop App Now Available for Linux</a> appeared first on <a href="https://www.linuxtoday.com" rel="nofollow">Linux Today</a>.</p>
+
+## Top 8 Best Email Clients for Linux
+ - [https://www.linuxtoday.com/it-management/top-8-best-email-clients-for-linux](https://www.linuxtoday.com/it-management/top-8-best-email-clients-for-linux)
+ - RSS feed: https://www.linuxtoday.com/feed
+ - date published: 2024-03-15T02:00:52+00:00
+
+<p>Here&#8217;s a list of the best desktop email clients available on the Linux platform along with their features.</p>
+<p>The post <a href="https://www.linuxtoday.com/it-management/top-8-best-email-clients-for-linux/" rel="nofollow">Top 8 Best Email Clients for Linux</a> appeared first on <a href="https://www.linuxtoday.com" rel="nofollow">Linux Today</a>.</p>
+
+## How to Install Latest Android Studio (Iguana) on Linux
+ - [https://www.linuxtoday.com/developer/how-to-install-latest-android-studio-iguana-on-linux](https://www.linuxtoday.com/developer/how-to-install-latest-android-studio-iguana-on-linux)
+ - RSS feed: https://www.linuxtoday.com/feed
+ - date published: 2024-03-15T00:45:54+00:00
+
+<p>In this guide, you will learn about Android Studio, its features, and different ways to install Android Studio on your preferred Linux distribution.</p>
+<p>The post <a href="https://www.linuxtoday.com/developer/how-to-install-latest-android-studio-iguana-on-linux/" rel="nofollow">How to Install Latest Android Studio (Iguana) on Linux</a> appeared first on <a href="https://www.linuxtoday.com" rel="nofollow">Linux Today</a>.</p>
+

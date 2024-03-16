@@ -1,0 +1,300 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## This sneaky SIM-jacking attack can empty out your bank account. Here’s how to stop it
+ - [https://www.pcworld.com/article/2267803/this-sneaky-sim-jacking-attack-can-empty-out-your-bank-account-heres-how-to-stop-it.html](https://www.pcworld.com/article/2267803/this-sneaky-sim-jacking-attack-can-empty-out-your-bank-account-heres-how-to-stop-it.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T19:42:22+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>You&rsquo;ve done the usual things to protect your sensitive accounts. You use a unique password. You have alerts sent to your phone. But a thief could still bypass all that with a simple &ldquo;hack&rdquo;&mdash;stealing your phone number from right under your nose. And now there&rsquo;s a new variant of it in the wild.</p>
+
+
+
+<h2 class="wp-block-heading" id="whats-sim-jacking">What&rsquo;s SIM jacking?</h2>
+
+
+
+<p>This attack is called <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://en.wikipedia.org/wiki/SIM_swap_scam&amp;xcust=2-1-2267803-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">SIM jacking</a>, where someone transfers your phone number to a SIM card in their possession. Afterward, they break into your bank account (and any others that rely on phone calls or SMS for verification). They don&rsquo;t need your p
+
+## Intel approved to sell ‘delidded’ Core chips in gaming PCs
+ - [https://www.pcworld.com/article/2267760/pc-makers-approved-to-sell-delidded-core-chips-in-gaming-pcs.html](https://www.pcworld.com/article/2267760/pc-makers-approved-to-sell-delidded-core-chips-in-gaming-pcs.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T19:05:14+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Intel will officially offer a &ldquo;delidded&rdquo; version of the Core i9-14900KS through its PC partners, including a warranty, an official representative confirmed Friday. The company&rsquo;s new option was reported earlier <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://youtu.be/PEvszQIRIU4?si=q7t4Uf5cKq9G6LjY&amp;t=245&amp;xcust=2-1-2267760-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">via YouTube Roman &lsquo;der8auer&rsquo; Hartung</a> and then at Tom&rsquo;s Hardware, which <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.tomshardware.com/pc-components/cpus/delidded-core-i9-14900ks-pcs-on-sale-with-intel-approval-and-warranty-maingear-among-first-partners&amp;xcust=2-1-2267760-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">picked up</a> on the news. </p>
+
+
+
+<p>CPUs t
+
+## Intel’s Advanced Optimization tech embraces more games – and older CPUs
+ - [https://www.pcworld.com/article/2267647/intel-upgrades-its-game-boosting-tech-alongside-its-latest-powerhouse-chip.html](https://www.pcworld.com/article/2267647/intel-upgrades-its-game-boosting-tech-alongside-its-latest-powerhouse-chip.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T18:24:10+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Intel has tacked an additional dozen games to its Intel Application Optimization technology, meaning that several popular games will receive a higher framerate if you&rsquo;re using a supported processor and the technology is turned on. Better yet, it should work on older processors now, with a little legwork.</p>
+
+
+
+<p>Intel updated the technology in conjunction with the <a href="https://www.pcworld.com/article/2264250/intel-launches-the-fastest-pc-processor-ever-at-6-2ghz.html">launch of the Core i9-14900KS</a> &mdash; which, at speeds of up to 6.2GHz, should already be exceptionally fast by itself. But IAO adds an even higher speed boost &mdash; up to 11 percent faster performance in <em>Metro: Exodus</em>, according to an Intel presentation.</p>
+
+
+
+<p>Intel&rsquo;s IAO launched alongside the 14th-gen Core lineup with only support for <em>Metro: Exodu
+
+## Intel’s Core i9-14900KS breaks Super Pi record after launching on Pi Day
+ - [https://www.pcworld.com/article/2267493/new-core-i9-14900ks-cpu-breaks-super-pi-record-on-pi-day.html](https://www.pcworld.com/article/2267493/new-core-i9-14900ks-cpu-breaks-super-pi-record-on-pi-day.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T16:04:26+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It was hardly a secret that Intel was working on a new, suped-up version of its fastest Core i9 processor &mdash; it was leaking all over the place <a href="https://www.pcworld.com/article/2254174/intels-answer-to-amds-x3d-series-is-already-in-the-wild.html">earlier this month</a>. But it seems particularly fitting that the company <a href="https://www.pcworld.com/article/2264250/intel-launches-the-fastest-pc-processor-ever-at-6-2ghz.html">released the i9-14900KS yesterday on March 14th</a>, known to math nerds as <a href="https://www.pcworld.com/article/511387/a-brief-history-of-pi.html">Pi Day</a>. (Get it?) The new chip was used to break records for the Super Pi benchmark program. </p>
+
+
+
+<p>If you didn&rsquo;t know, Super Pi is a Windows program that <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://en.wikipedia.org/wiki/Super_
+
+## Best external SSD for gaming 2024: Portable performance drives
+ - [https://www.pcworld.com/article/553786/best-external-ssd-for-gaming.html](https://www.pcworld.com/article/553786/best-external-ssd-for-gaming.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T16:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Maybe your gaming laptop doesn&rsquo;t have enough storage. Or you simply want an easy way to make your game library portable. An external SSD can fix both of these issues (and more) by providing an easy way to expand storage that you can take on the go.</p>
+
+
+
+<p>But choosing an external SSD means sorting through a dizzying array of options, and making a poor choice can leave you feeling hard done by. Lucky for you, we&rsquo;ve done the testing and can offer some sure-fire recommendations that are guaranteed to help, and not hinder, your gaming setup.</p>
+
+
+
+<p><strong>Why you should trust us:</strong> We are PCWorld. Our reviewers have been putting computer hardware through its paces for decades. Our external drive evaluations are thorough and rigorous, testing the limits of every product &mdash; from performance benchmarks to the practicalities of reg
+
+## Feds bust two fake antivirus sellers for millions in fraud
+ - [https://www.pcworld.com/article/2267256/feds-bust-two-fake-antivirus-sellers-for-millions-in-fraud.html](https://www.pcworld.com/article/2267256/feds-bust-two-fake-antivirus-sellers-for-millions-in-fraud.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T15:23:35+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you frequent certain portions of the internet, you&rsquo;ve almost certainly seen pop-ups warning you that your PC is infested with all manner of creepy-crawly viruses. The ad is fake, and so is the software that it asks you to pay for, according to a new Federal Trade Commission lawsuit against a pair of phony antivirus sellers. </p>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ftc.gov/news-events/news/press-releases/2024/03/tech-support-firms-will-pay-26-million-settle-ftc-charges-they-deceived-consumers-buying-repair&amp;xcust=2-1-2267256-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">FTC investigators allege</a> that Restoro and Reimage, two companies run out of the same office in the Republic of Cyprus, have been scamming customers with fake antivirus software for years. The two companies have se
+
+## This $22 PC gaming accessory tames desk chaos and saved my sanity
+ - [https://www.pcworld.com/article/2265608/this-22-pc-gaming-accessory-tames-desk-chaos-and-saved-my-sanity.html](https://www.pcworld.com/article/2265608/this-22-pc-gaming-accessory-tames-desk-chaos-and-saved-my-sanity.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>I&rsquo;m the king of configuration in companion apps like Razer Synapse. I also never miss an opportunity to set up onboard profiles in my gaming devices. But one thing I&rsquo;ve learnt over the years is that no amount of configuration will substitute for swapping <a href="https://www.pcworld.com/article/406235/best-gaming-keyboard.html">keyboards</a> and <a href="https://www.pcworld.com/article/452384/best-gaming-mice.html">mice</a> out at times for better gaming performance &ndash; so I keep a bunch of different types handy.</p>
+
+
+
+<p>Take my keyboard preferences, for example: For FPS games like <em>Counter-Strike 2</em>, I can&rsquo;t go past my <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/New-SteelSeries-Apex-Wireless-2023/dp/B0BF67DM6K&amp;xcust=2-1-2265608-1-0-0&amp;sref=https://www.pcworld.com/feed" rel
+
+## This versatile $750 Asus laptop is on sale for $499
+ - [https://www.pcworld.com/article/2267164/nab-this-amd-loaded-everyday-asus-laptop-for-just-500.html](https://www.pcworld.com/article/2267164/nab-this-amd-loaded-everyday-asus-laptop-for-just-500.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T14:20:43+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re looking to pick up a powerful laptop on the cheap, you&rsquo;ve come to the right place. Best Buy&rsquo;s selling the <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-vivobook-16-laptop-amd-ryzen-7-5800hs-with-12gb-memory-512gb-ssd-quiet-blue%2F6535990.p%3FskuId%3D6535990&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed&amp;u1=2-1-2267164-1-0-0" rel="nofollow">Asus Vivobook 16 for $499.99</a>, which is a savings of $250. This machine comes loaded with AMD hardware and a spacious 16-inch 1080p display. The blue color scheme is also quite chic. According to one review on Best Buy, this laptop is lightweight and it&rsquo;s fast enough to run multiple tabs at the same time. Bootup times are blazing fast, too.</p>
+
+
+
+<p>Let&rsquo;s dive 
+
+## The FCC just quadrupled minimum broadband Internet speeds
+ - [https://www.pcworld.com/article/2267195/the-fcc-says-your-pokey-isp-doesnt-count-as-broadband-anymore.html](https://www.pcworld.com/article/2267195/the-fcc-says-your-pokey-isp-doesnt-count-as-broadband-anymore.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T14:01:11+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>There are a ton of different ways to get your internet connection, which is why &ldquo;broadband&rdquo; is something of a blanket term that just means &ldquo;fast service.&rdquo; But what counts as fast? Not many of the home connections available in the US, according to the United States Federal Communications Commission. </p>
+
+
+
+<p>A new federal government definition of broadband raises the minimum threshold to 100 megabits down, 20 megabits up, thanks to <a href="https://www.pcworld.com/article/2009098/the-fcc-wants-your-internet-to-suck-less.html">a long-awaited ruling</a> that comes into effect today. That&rsquo;s a 400 percent/600 percent increase over the previous minimums set in order to advertise for wired broadband service, 25Mbps down/3Mbps up. </p>
+
+
+
+<p>For a quick example, the cheapest &ldquo;broadband&rdquo; package advertised by my local I
+
+## Texans scramble for VPNs after adult sites go dark: Here are some great ones
+ - [https://www.pcworld.com/article/1807277/texas-pornhub-law-dark-best-vpn.html](https://www.pcworld.com/article/1807277/texas-pornhub-law-dark-best-vpn.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T13:06:16+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Today, in response to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ca5.uscourts.gov/opinions/pub/23/23-50627-CV0.pdf&amp;xcust=2-1-1807277-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Texas&rsquo;s age-verification law being upheld</a>, the ultra-popular PornHub and numerous other adult sites operated by parent company Aylo went dark in the state. Replacing the NSFW videos you&rsquo;d normally expect to see, a message decrying government overreach and proposed compromises has been posted.</p>
+
+
+
+<p>It&rsquo;s a similar chain of events to what happened last year <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.cnn.com/2023/05/02/tech/pornhub-utah-age-verification/index.html&amp;xcust=2-1-1807277-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">when Utah enacted a law req
+
+## Cherry K5V2 keyboard review: Great switches at a high price
+ - [https://www.pcworld.com/article/2264318/cherry-k5v2-keyboard-review.html](https://www.pcworld.com/article/2264318/cherry-k5v2-keyboard-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Great switches and stabilizers</li><li>Tons of Fn layer tools</li><li>Hot-swap sockets</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Expensive</li><li>No programming software</li><li>ABS keycaps</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">Cherry&rsquo;s new pre-lubed switches are great&hellip;if only the keyboard they were in was as good. You&rsquo;d be better off buying them on t
+
+## Alienware Pro Wireless review: A stylish speed demon of a gaming mouse
+ - [https://www.pcworld.com/article/2261571/alienware-pro-wireless-review.html](https://www.pcworld.com/article/2261571/alienware-pro-wireless-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>4KHz wireless polling rate </li><li>The buttons are soft and have a quick debounce</li><li>The Alienware styling looks awesome</li><li>One of the most precise mouse wheels I&rsquo;ve used</li><li>Weighs just over 2 ounces</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>The back could do with more height</li><li>There&rsquo;s no RGB lighting</li><li>I
+
+## How to protect your Chrome passwords with Windows Hello
+ - [https://www.pcworld.com/article/2257372/how-to-protect-your-chrome-passwords-with-windows-hello.html](https://www.pcworld.com/article/2257372/how-to-protect-your-chrome-passwords-with-windows-hello.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Passwords stored in Chrome are convenient, but they can also expose you to risk. Share your device with someone else, and they can log into any website with saved credentials. At least, they can if you haven&rsquo;t enabled Chrome&rsquo;s built-in protections.</p>
+
+
+
+<p>On Windows PCs, you can <a href="https://www.pcworld.com/article/394379/windows-hello-webcams-you-can-buy-right-now.html">use Windows Hello</a> to lockdown access to your Chrome passwords. When turned on, you&rsquo;ll have to enter a PIN or use a biometric authentication method (like a fingerprint or webcam) before Chrome will fill in a login form with your user name and password.</p>
+
+
+
+<p>Here&rsquo;s how to enable the feature.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading:</strong><a href="https://www.pcworld.com/article/394379/windows-hello-webcams-you-can-buy-
+
+## Windows Hello can protect your Chrome passwords. Here’s how
+ - [https://www.pcworld.com/article/2257372/windows-hello-protect-your-chrome-passwords-how.html](https://www.pcworld.com/article/2257372/windows-hello-protect-your-chrome-passwords-how.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Passwords stored in Chrome are convenient, but they can also expose you to risk. Share your device with someone else, and they can log into any website with saved credentials. At least, they can if you haven&rsquo;t enabled Chrome&rsquo;s built-in protections.</p>
+
+
+
+<p>On Windows PCs, you can <a href="https://www.pcworld.com/article/394379/windows-hello-webcams-you-can-buy-right-now.html">use Windows Hello</a> to lockdown access to your Chrome passwords. When turned on, you&rsquo;ll have to enter a PIN or use a biometric authentication method (like a fingerprint or webcam) before Chrome will fill in a login form with your user name and password.</p>
+
+
+
+<p>Here&rsquo;s how to enable the feature.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading:</strong><a href="https://www.pcworld.com/article/394379/windows-hello-webcams-you-can-buy-
+
+## This beginner-friendly drone is $50 off this week only
+ - [https://www.pcworld.com/article/2266504/this-beginner-friendly-drone-is-40-off-this-week-only.html](https://www.pcworld.com/article/2266504/this-beginner-friendly-drone-is-40-off-this-week-only.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Interested in learning how to fly a drone? Now is a great time to do it because this this <a href="https://shop.pcworld.com/sales/4k-dual-camera-obstacle-avoidance-drone-for-beginners-black?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=4k-dual-camera-obstacle-avoidance-drone-for-beginners-black&amp;utm_term=scsf-592227&amp;utm_content=a0xRn000000ZTAPIA4&amp;scsonar=1" rel="noreferrer noopener" target="_blank">4K Dual-Camera Drone for Beginners with Intelligent Obstacle Avoidance</a> is $50 off this week only.</p>
+
+
+
+<p>This drone has a 4K HD 90&ordm; front camera and a 120&ordm; wide-angle bottom camera, allowing you to capture incredible photos and video while high above the ground. With optical flow positioning, the drone can get more stable footage while hovering and can send a first-person view transmission from up to 328 feet away.
+
+## Chrome’s Safe Browsing protections just got a lot stronger
+ - [https://www.pcworld.com/article/2266571/chromes-safe-browsing-protections-just-got-a-lot-stronger.html](https://www.pcworld.com/article/2266571/chromes-safe-browsing-protections-just-got-a-lot-stronger.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T09:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>A modern browser does more than just serve up webpages. Good ones protect you from malicious sites, too. Chrome calls its take on this feature Safe Browsing &mdash; and the default version of it just got a boost.</p>
+
+
+
+<p>Before Thursday&rsquo;s upgrade, which was announced in a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://blog.google/products/chrome/google-chrome-safe-browsing-real-time/&amp;xcust=2-1-2266571-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Google blog post</a>, Chrome automatically checked links against a list of known bad sites, which was kept on your device and updated every 30 to 60 minutes. This standard mode in <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://support.google.com/chrome/answer/9890866&amp;xcust=2-1-2266571-1-0-0&amp;sref=https://www.pcworld.com/feed" re
+
+## Grab a 2K portable monitor for $25 off this week only
+ - [https://www.pcworld.com/article/2266495/grab-a-2k-portable-monitor-for-25-off-this-week-only-2.html](https://www.pcworld.com/article/2266495/grab-a-2k-portable-monitor-for-25-off-this-week-only-2.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-15T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Whether you prefer working with a second screen or you need a monitor to display information in conference room meetings, the <a href="https://shop.pcworld.com/sales/13-3-2k-portable-ips-display-monitor?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=13-3-2k-portable-ips-display-monitor&amp;utm_term=scsf-592230&amp;utm_content=a0xRn000000ZTS9IAO&amp;scsonar=1" rel="noreferrer noopener" target="_blank">13.3&Prime; 2K Portable IPS Display Monitor</a> is a great option. This week only, you can grab this 2K monitor for $25 off.</p>
+
+
+
+<p>The lightweight, versatile external display has a 16:10 aspect ratio and 2560&times;1600 resolution, along with a 1000:1 contrast ratio and 60Hz refresh rate to deliver crisp visuals. It&rsquo;s extremely portable and offers wide compatibility with USB-C and HDMI ports that support laptops, desktops, smartpho
+
