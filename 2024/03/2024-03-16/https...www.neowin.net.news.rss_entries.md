@@ -1,0 +1,72 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Concept imagines "Windows 12" as bloatware and telemetry free, with cool gaming features
+ - [https://www.neowin.net/news/concept-imagines-windows-12-as-bloatware-and-telemetry-free-with-cool-gaming-features](https://www.neowin.net/news/concept-imagines-windows-12-as-bloatware-and-telemetry-free-with-cool-gaming-features)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-16T22:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1710622774_windows_12_concept_source_addy_visual_youtube_4_medium.jpg" /></div>While Microsoft may or may not release Windows &quot;12&quot; this year or ever, there is a cool concept out there which shows the possibilities if it were an OS without bloatware and telemetry. <a href="https://www.neowin.net/news/concept-imagines-windows-12-as-bloatware-and-telemetry-free-with-cool-gaming-features/">Read more...</a>
+
+## Cheat Happens Premium lifetime subscription is now 50% off
+ - [https://www.neowin.net/deals/save-50-on-a-premium-lifetime-subscription-to-cheat-happens](https://www.neowin.net/deals/save-50-on-a-premium-lifetime-subscription-to-cheat-happens)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-16T18:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/09/1662017774_fxvh_y7usaajmky_medium.jpg" /></div>With today&#039;s highlighted deal, gain unlimited access to 27,000+ trainers and over 6,000 PC games including Battlefield 1 and more and save half off with a Premium subscription via Neowin Deals. <a href="https://www.neowin.net/deals/save-50-on-a-premium-lifetime-subscription-to-cheat-happens/">Read more...</a>
+
+## Reddit says it is being investigated by the FTC over its AI data licensing programs
+ - [https://www.neowin.net/news/reddit-says-it-is-being-investigated-by-the-ftc-over-its-ai-data-licensing-programs](https://www.neowin.net/news/reddit-says-it-is-being-investigated-by-the-ftc-over-its-ai-data-licensing-programs)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-16T16:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/05/1683913382_reddit_logo_black_medium.jpg" /></div>Reddit revealed late on Friday that the online forum is under investigation by the Federal Trade Commission over its deals to license its data to be used by generative AI companies. <a href="https://www.neowin.net/news/reddit-says-it-is-being-investigated-by-the-ftc-over-its-ai-data-licensing-programs/">Read more...</a>
+
+## The latest Ara: History Untold video dev diary offers answers to community questions
+ - [https://www.neowin.net/news/the-latest-ara-history-untold-video-dev-diary-offers-answers-to-community-questions](https://www.neowin.net/news/the-latest-ara-history-untold-video-dev-diary-offers-answers-to-community-questions)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-16T15:56:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1702147979_5991e36b00ba629e14982fc73260ae2234b417eb_medium.jpg" /></div>The latest video dev diary for the upcoming Microsoft-published strategy game Ara: History Untold has Oxide Games&#039; Michelle Menard answering some questions from the game&#039;s community. <a href="https://www.neowin.net/news/the-latest-ara-history-untold-video-dev-diary-offers-answers-to-community-questions/">Read more...</a>
+
+## The cool looking boomer shooter Phantom Fury will launch for the PC on April 23
+ - [https://www.neowin.net/news/the-cool-looking-boomer-shooter-phantom-fury-will-launch-for-the-pc-on-april-23](https://www.neowin.net/news/the-cool-looking-boomer-shooter-phantom-fury-will-launch-for-the-pc-on-april-23)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-16T14:54:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1710598943_charging_medium.jpg" /></div>3D Realms will release Phantom Fury, the boomer shooter with lots of similarities to the Duke Nukem series of games on April 23 for the PC via Steam and GoG.com with console versions coming later. <a href="https://www.neowin.net/news/the-cool-looking-boomer-shooter-phantom-fury-will-launch-for-the-pc-on-april-23/">Read more...</a>
+
+## Get the Razer BlackWidow V4 X wired mechanical keyboard for a new low price of $109.99
+ - [https://www.neowin.net/deals/get-the-razer-blackwidow-v4-x-wired-mechanical-keyboard-for-a-new-low-price-of-10999](https://www.neowin.net/deals/get-the-razer-blackwidow-v4-x-wired-mechanical-keyboard-for-a-new-low-price-of-10999)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-16T14:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/07/1689880536_blackwidow_v4_x-269_r2_medium.jpg" /></div>The Razer BlackWidow V4 X wired mechanical keyboard uses clicky Green switches and includes six dedicated macro keys. It just got its first discount since launch, with a price of $109.99. <a href="https://www.neowin.net/deals/get-the-razer-blackwidow-v4-x-wired-mechanical-keyboard-for-a-new-low-price-of-10999/">Read more...</a>
+
+## A quick look back at EverQuest that launched 25 years ago today
+ - [https://www.neowin.net/news/a-quick-look-back-at-everquest-that-launched-25-years-ago-today](https://www.neowin.net/news/a-quick-look-back-at-everquest-that-launched-25-years-ago-today)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-16T13:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1710592329_10187749-everquest-windows-in-an-ice-cave_medium.jpg" /></div>On March 16, 1999, the fantasy MMO EverQuest officially launched. It became a massive hit and 25 years later it remains one of the most influential titles ever released in PC game history. <a href="https://www.neowin.net/news/a-quick-look-back-at-everquest-that-launched-25-years-ago-today/">Read more...</a>
+
+## Two missions to the ISS will see a new batch of astronauts and cargo arrive - TWIRL #156
+ - [https://www.neowin.net/news/two-missions-to-the-iss-will-see-a-new-batch-of-astronauts-and-cargo-arrive---twirl-156](https://www.neowin.net/news/two-missions-to-the-iss-will-see-a-new-batch-of-astronauts-and-cargo-arrive---twirl-156)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-16T11:18:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1710586963_twirl-156_medium.jpg" /></div>We have several launches coming up this week, the most interesting will be two to the International Space Station. One is a crewed mission by Roscosmos and the other is a cargo mission by SpaceX. <a href="https://www.neowin.net/news/two-missions-to-the-iss-will-see-a-new-batch-of-astronauts-and-cargo-arrive---twirl-156/">Read more...</a>
+
+## Microsoft finally killing 1024-bit TLS so Windows stops loading old outdated shady web apps
+ - [https://www.neowin.net/news/microsoft-finally-killing-1024-bit-tls-so-windows-stops-loading-old-outdated-shady-web-apps](https://www.neowin.net/news/microsoft-finally-killing-1024-bit-tls-so-windows-stops-loading-old-outdated-shady-web-apps)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-16T09:42:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/10/1666776970_windows_11_logo_medium.jpg" /></div>Microsoft is finally making a change to Windows that has been long overdue. The company is killing support for 1024-bit RSA keys for TLS authentication making future Windows more secure. <a href="https://www.neowin.net/news/microsoft-finally-killing-1024-bit-tls-so-windows-stops-loading-old-outdated-shady-web-apps/">Read more...</a>
+
+## Weekend PC Game Deals: Massive spring sales, Deus Ex freebie, trials from Ubisoft, and more
+ - [https://www.neowin.net/news/weekend-pc-game-deals-massive-spring-sales-deus-ex-freebie-trials-from-ubisoft-and-more](https://www.neowin.net/news/weekend-pc-game-deals-massive-spring-sales-deus-ex-freebie-trials-from-ubisoft-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-16T09:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/03/1551472859_1_medium.jpg" /></div>This weekend&#039;s PC game deals include a huge amount of spring discounts from Steam and other stores, a Deus Ex freebie from Epic, double free weekend offers from ubisoft, and much more. <a href="https://www.neowin.net/news/weekend-pc-game-deals-massive-spring-sales-deus-ex-freebie-trials-from-ubisoft-and-more/">Read more...</a>
+

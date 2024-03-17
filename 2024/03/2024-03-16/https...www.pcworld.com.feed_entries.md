@@ -1,0 +1,34 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## Flash Sale: Get 20TB of cloud storage for just $90
+ - [https://www.pcworld.com/article/2267931/flash-sale-get-20tb-of-cloud-storage-for-just-90.html](https://www.pcworld.com/article/2267931/flash-sale-get-20tb-of-cloud-storage-for-just-90.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-16T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Everybody today needs cloud storage to handle their data. Our devices simply don&rsquo;t have enough storage space to handle our entire digital lives, making cloud storage an essential tool. But it doesn&rsquo;t have to be an expensive one, especially during our St. Paddy&rsquo;s Day Flash Sale. This 48-hour sale is running until 11:59 pm PT on March 17, and until then, you can get a lifetime subscription to 20TB of <a href="https://shop.pcworld.com/sales/prism-drive-secure-cloud-storage-20tb-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=prism-drive-secure-cloud-storage-20tb-lifetime-subscription&amp;utm_term=scsf-592240&amp;utm_content=a0xRn000000ZUZVIA4&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Prism Drive Secure Cloud Storage</a> for just $89.97.</p>
+
+
+
+<p>Prism Drive utilizes AES 256-bit and HTTP
+
+## 48 hours only: save $450 on Microsoft Visual Studio
+ - [https://www.pcworld.com/article/2267919/48-hours-only-save-450-on-microsoft-visual-studio.html](https://www.pcworld.com/article/2267919/48-hours-only-save-450-on-microsoft-visual-studio.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-16T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Developers today have more ways to build and collaborate than ever. Sometimes, though, that can get overwhelming. That&rsquo;s why a tool like <a href="https://shop.pcworld.com/sales/microsoft-visual-studio-professional-2022?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-visual-studio-professional-2022&amp;utm_term=scsf-592237&amp;utm_content=a0xRn000000ZUODIA4&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Microsoft Visual Studio Professional 2022 for Windows</a> is so useful. This fully-featured 64-bit IDE makes it easier to collaborate and work through complex projects, and for the next 48 hours, you can get it for just $39.97.</p>
+
+
+
+<p>Microsoft Visual Studio makes it easier to write multiple languages and platforms in the same interface, keeping your project workflow all in the same place. You can collaborate wi
+
