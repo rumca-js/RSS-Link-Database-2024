@@ -1,0 +1,18 @@
+# Source:9to5Linux News, URL:https://9to5linux.com/category/news/feed, language:en-US
+
+## Mozilla Firefox 124 Is Now Available for Download, Here’s What’s New
+ - [https://9to5linux.com/mozilla-firefox-124-is-now-available-for-download-heres-whats-new](https://9to5linux.com/mozilla-firefox-124-is-now-available-for-download-heres-whats-new)
+ - RSS feed: https://9to5linux.com/category/news/feed
+ - date published: 2024-03-18T14:03:53+00:00
+
+<p>Mozilla Firefox 124 open-source web browser is now available for download with improved Caret Browsing mode, Screen Wake Lock API support, and more.</p>
+<p>The post <a href="https://9to5linux.com/mozilla-firefox-124-is-now-available-for-download-heres-whats-new">Mozilla Firefox 124 Is Now Available for Download, Here&#8217;s What&#8217;s New</a> appeared first on <a href="https://9to5linux.com">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>
+
+## 4MLinux 45.0 Released with Linux Kernel 6.6 LTS, New Printing Drivers
+ - [https://9to5linux.com/4mlinux-45-0-released-with-linux-kernel-6-6-lts-new-printing-drivers](https://9to5linux.com/4mlinux-45-0-released-with-linux-kernel-6-6-lts-new-printing-drivers)
+ - RSS feed: https://9to5linux.com/category/news/feed
+ - date published: 2024-03-18T12:30:55+00:00
+
+<p>4MLinux 45.0 independent distribution is now available for download powered by Linux kernel 6.6 LTS and Mesa 23.3 graphics stack. Here's what's new!</p>
+<p>The post <a href="https://9to5linux.com/4mlinux-45-0-released-with-linux-kernel-6-6-lts-new-printing-drivers">4MLinux 45.0 Released with Linux Kernel 6.6 LTS, New Printing Drivers</a> appeared first on <a href="https://9to5linux.com">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>
+

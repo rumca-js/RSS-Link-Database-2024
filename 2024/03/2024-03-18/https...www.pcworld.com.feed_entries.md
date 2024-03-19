@@ -1,0 +1,240 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## Best laptops for college students 2024: Top picks and expert advice
+ - [https://www.pcworld.com/article/557622/the-best-laptop-for-college.html](https://www.pcworld.com/article/557622/the-best-laptop-for-college.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T18:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Gone are the days of backpacks overloaded with binders and the chronic hand-cramps from trying to write as fast as possible. Nowadays, a good laptop elevates your productivity and allows you to keep all your important lesson materials in one place. Whether you&rsquo;re new to campus or heading into your final year, having a laptop that&rsquo;s capable, sturdy, and portable &mdash; with good battery life, natch &mdash; will help keep you on top of your studies, or gaming (no judgement). </p>
+
+
+
+<p><strong>Why you should trust us:</strong> It&rsquo;s in our name, PCWorld. We&rsquo;ve been reviewing laptops for decades, with exacting standards applied to all facets of the user experience, from performance benchmarks to features to the rigors of daily use. Our experts know their stuff and have curated a comprehensive list of the best laptops for college stud
+
+## Microsoft will share a Surface and Windows ‘AI vision’ in May
+ - [https://www.pcworld.com/article/2269179/microsoft-signals-a-second-surface-ai-event-for-may.html](https://www.pcworld.com/article/2269179/microsoft-signals-a-second-surface-ai-event-for-may.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T18:29:28+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Microsoft will kick off its Build conference with a special event on May 20 focusing on the company&rsquo;s &ldquo;AI vision,&rdquo; the company said Monday.</p>
+
+
+
+<p>&ldquo;Satya Nadella will share our AI vision across hardware and software as part of a dedicated news briefing,&rdquo; the company said, the day before Microsoft Build kicks off in Seattle. The &ldquo;hardware&rdquo; in question is expected to be the consumer version of the Surface Pro 10 and the Surface Laptop 6, which should ship with versions of the Qualcomm Snapdragon X Elite (Arm) chip inside, according to reports.</p>
+
+
+
+<p>Microsoft said that the event will not be livestreamed.</p>
+
+
+
+<p>That Microsoft would combine hardware and software &mdash; or in this case, AI &mdash; isn&rsquo;t surprising. Surface hardware has typically been a showcase for Microsoft&rsquo;s latest software, 
+
+## Microsoft Office 2024 will release as a one-time purchase
+ - [https://www.pcworld.com/article/2269136/microsoft-office-2024-release-subscription-and-one-off-purchase-windows-10-support-price.html](https://www.pcworld.com/article/2269136/microsoft-office-2024-release-subscription-and-one-off-purchase-windows-10-support-price.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T18:25:50+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The rumors have now become facts. This follows speculation that Microsoft would offer the latest version of Office <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.office.com/&amp;xcust=2-1-2269136-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">(officially Microsoft 365)</a> not only as a subscription, but also as a one-off purchase again. Well, Microsoft has made it official!</p>
+
+
+
+<p>The next version of Microsoft 365 (aka Microsoft Office) will be released later in 2024. In addition to Microsoft offering it as a one-off purchase, there will also be a Mac version of the program and it will support both 32- and 64-bit versions. Here&rsquo;s what we know about it:</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><a href="https://www.pcworld.com/article/2256430/idrive-adds-unlimited-cloud-to-cloud-backup-of-microsoft-
+
+## Best Windows Hello webcams 2024: Add biometric login to your PC
+ - [https://www.pcworld.com/article/394379/windows-hello-webcams-you-can-buy-right-now.html](https://www.pcworld.com/article/394379/windows-hello-webcams-you-can-buy-right-now.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T16:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The best Windows Hello webcams add something your PC may lack: a quick, secure way to log in using just your face.</p>
+
+
+
+<p>Why buy a Windows Hello webcam? Most laptops now include a webcam of some form or another, some with Windows Hello built in. Desktops don&rsquo;t, however, and you&rsquo;ll need at least a <a href="https://www.pcworld.com/article/393756/1080p-webcam-buying-guide.html">recommended 1080p webcam</a> to make sure you look your best. And if you share an apartment with someone else (or just want to avoid typing in your password), Microsoft&rsquo;s <a href="https://www.pcworld.com/article/2953512/hands-on-with-windows-10s-windows-hello-it-just-works.html">biometric Windows Hello system </a>uses a depth camera plus facial-recognition technology to log you in to Windows 10 or Windows 11 in a split second. </p>
+
+
+
+<p>Below, we&rsquo;ve liste
+
+## Get a giant 49-inch Samsung ultrawide monitor for just $700
+ - [https://www.pcworld.com/article/2268918/get-a-giant-49-inch-samsung-ultrawide-monitor-for-just-700.html](https://www.pcworld.com/article/2268918/get-a-giant-49-inch-samsung-ultrawide-monitor-for-just-700.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T15:13:20+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>There&rsquo;s no such thing as a monitor that&rsquo;s too big, at least according to Samsung. But you can certainly have a price that&rsquo;s too big, and most of their gigantic screens are out of reach when they launch. But today not one, but two 49-inch ultrawide monitors are on sale. Depending on what speed you need, they&rsquo;re going for <a href="https://www.bhphotovideo.com/c/product/1449627-REG/samsung_lc49rg90ssnxza_c49rg90s_49_lcd_monitor.html?BI=21883&amp;KBID=28249" rel="nofollow">$699.99</a> or <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B0CP6HW894?&amp;ascsubtag=2-1-2268918-1-0-0" rel="nofollow" target="_blank">$799.99</a>. </p>
+
+
+
+<p>First up is the Odyssey G9 C49RG9, which first hit the market in 2020. With a resolution of 5120&times;1440, it&rsquo;s essentially two 1440p monitors squished into o
+
+## How to create custom Windows icons from your own images
+ - [https://www.pcworld.com/article/2262198/how-to-create-windows-icons-from-your-own-images.html](https://www.pcworld.com/article/2262198/how-to-create-windows-icons-from-your-own-images.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Ever since we started controlling our computers with a mouse, icons have been central to our operating systems. By clicking on small, simple images representing a folder, trash can, or magnifying glass, we can quickly and easily trigger certain events.</p>
+
+
+
+<p>The appearance of the icons is controlled by the operating system, and in most cases there is no reason to change. It would be impractical, for example, if the trash can suddenly resembled a calculator or the search tool became a folder.</p>
+
+
+
+<p>However, there are times when it is actually practical to change the appearance of the icons &mdash; for example, when it comes to your own folders and shortcuts.</p>
+
+
+
+<p>If you have a lot of icons, it can be more attractive and clearer if they don&rsquo;t all look the same. Many of us have an image memory, and if the folders have different colors, it
+
+## Hackers attack Apex Legends players in live tournament
+ - [https://www.pcworld.com/article/2268817/hackers-attack-apex-legends-players-in-live-tournament.html](https://www.pcworld.com/article/2268817/hackers-attack-apex-legends-players-in-live-tournament.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T14:11:19+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Accusations of cheating or &ldquo;hax&rdquo; tend to be flung around a lot in online shooter games. But for two high-level competitors in the <em>Apex Legends</em> battle royal, the cheating was both indisputable&hellip;and apparently completely unwanted. Evidence of multiple hacking attacks on players during a live-streamed tournament has the community reeling. </p>
+
+
+
+<p>According to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.pcgamer.com/games/battle-royale/apex-legends-streamers-warned-to-perform-a-clean-os-reinstall-as-soon-as-possible-after-hacks-during-na-finals-match/&amp;xcust=2-1-2268817-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">a report from PCGamer</a>, the <em>Apex Legends</em> Global Series experienced hacking attacks while two players were in the middle of their games and streaming live to
+
+## AMD Radeon RX 7600 XT: Is the 16GB graphics card worth the money?
+ - [https://www.pcworld.com/article/2262427/amd-radeon-rx-7600-xt-is-the-16-gb-graphics-card-worth-the-money.html](https://www.pcworld.com/article/2262427/amd-radeon-rx-7600-xt-is-the-16-gb-graphics-card-worth-the-money.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T13:10:38+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/ASUS-DisplayPort-Axial-tech-Technology-Auto-Extreme/dp/B0CS8Z9YBB&amp;xcust=2-1-2262427-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">AMD Radeon RX 7600 XT</a> is undoubtedly an extremely interesting graphics card that stands out from the crowd with its impressive 16GB of graphics memory. Its release in January 2024 was intended to close the gap between the existing <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/XFX-Speedster-SWFT210-Graphics-RX-76PSWFTFY&amp;xcust=2-1-2262427-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">RX 7600</a> and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/GIGABYTE-Graphics-WINDFORCE-GV-R77XTGAMING-OC-12GD/dp/B0C
+
+## What is an adjustable actuation keyboard?
+ - [https://www.pcworld.com/article/2250508/what-is-an-adjustable-actuation-keyboard.html](https://www.pcworld.com/article/2250508/what-is-an-adjustable-actuation-keyboard.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T13:07:18+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Mechanical keyboards are all the rage right now, especially for PC gamers. But the trend has been going for over a decade at this point, and there are only so many LEDs you can stick inside a plastic case before consumers ache for something new. That new hotness is adjustable actuation, a technological leap forward in the way keyboards work. And unlike some of the more nebulous features of high-end keyboards, this has tangible benefits in terms of what they can actually do.&nbsp;</p>
+
+
+
+<p>That said, it&rsquo;s also pretty complicated, and the benefits offered by adjustable actuation are so niche that many users might not even notice them. Let&rsquo;s demystify this new tech, so you can decide if it&rsquo;s worth the considerable premium over a standard keyboard.&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading: </strong><a hre
+
+## HP Omen Transcend 14 review: Power and beauty in a compact package
+ - [https://www.pcworld.com/article/2267802/hp-omen-transcend-14-review.html](https://www.pcworld.com/article/2267802/hp-omen-transcend-14-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T13:05:32+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Beautiful OLED screen</li><li>Compact and lightweight</li><li>Solid performance for the price</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Keyboard is a tad mushy</li><li>Annoying bloatware</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The HP Omen Transcend 14 
+
+## How to download YouTube videos for free with 4K Video Downloader+
+ - [https://www.pcworld.com/article/2267368/download-youtube-videos-free-with-4k-video-downloader.html](https://www.pcworld.com/article/2267368/download-youtube-videos-free-with-4k-video-downloader.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T12:43:19+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>YouTube is a wonderful place, whether you&rsquo;re looking for an instructional video to help you put up some shelves, or just settling down to enjoy some laughs with your favorite online personality, it&rsquo;s the place to be. Now, that&rsquo;s all well and good when you have internet access, but what about those times when you don&rsquo;t?</p>
+
+
+
+<p>If you&rsquo;re about to set off on a long-haul flight, or if you&rsquo;re planning on trekking the outback with no cellphone reception, then how are you supposed to catch up with your favorite YouTube creators? Don&rsquo;t worry, we&rsquo;ve got you covered.</p>
+
+
+
+<p>In this article, we&rsquo;ll teach you how to download YouTube videos in full quality (up to 8K) so you can watch them anywhere, all without needing to spend a penny.</p>
+
+
+
+<h2 class="wp-block-heading" id="what-is-4k-video-downloader">What 
+
+## Enjoy unlimited web hosting for just $50
+ - [https://www.pcworld.com/article/2268218/enjoy-unlimited-web-hosting-for-just-50.html](https://www.pcworld.com/article/2268218/enjoy-unlimited-web-hosting-for-just-50.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Running a website can get expensive with domain costs and monthly web hosting fees. But you can cut back on one of those things with a lifetime subscription to <a href="https://shop.pcworld.com/sales/doroyal-jester-s-plan-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=doroyal-jester-s-plan-lifetime-subscription&amp;utm_term=scsf-591128&amp;utm_content=a0xRn000000QlePIAS&amp;scsonar=1" rel="noreferrer noopener" target="_blank">DoRoyal Website Hosting</a>.&nbsp;</p>
+
+
+
+<p>DoRoyal has been supporting websites since 2012 and has a 4.3/5-star rating on Trustpilot. With DoRoyal, you&rsquo;ll have everything you need to get your website up and running with ease. You&rsquo;ll get unmetered bandwidth and web space, security support from antivirus tech and a Spam Assassin, an online file manager, and Softaculous script instal
+
+## Upgrade to Windows 11 Pro for just $30
+ - [https://www.pcworld.com/article/2268210/upgrade-to-windows-11-pro-for-just-30.html](https://www.pcworld.com/article/2268210/upgrade-to-windows-11-pro-for-just-30.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-18T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Ready to upgrade your PC to <a href="https://shop.pcworld.com/sales/microsoft-windows-11-pro?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-windows-11-pro&amp;utm_term=scsf-592705&amp;utm_content=a0xRn000000d34TIAQ&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Microsoft Windows 11 Pro</a>? Now is a great time to do it because, through March 24, you can make the switch for just $29.97.</p>
+
+
+
+<p>Rated 4.6/5 stars, Windows 11 Pro is a game-changing operating system, designed for modern professionals in the hybrid working world. It has a host of security and productivity features and a seamless interface that&rsquo;s easier on the eyes and made for convenience. With features like snap layouts, seamless redocking, and improved voice typing, you can tap into new degrees of productivity. Security features like TPM 2.0 and 
+
