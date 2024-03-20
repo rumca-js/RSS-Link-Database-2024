@@ -1,0 +1,187 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Kids' Cartoons Get a Free Pass From YouTube's Deepfake Disclosure Rules
+ - [https://news.slashdot.org/story/24/03/19/2117213/kids-cartoons-get-a-free-pass-from-youtubes-deepfake-disclosure-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/19/2117213/kids-cartoons-get-a-free-pass-from-youtubes-deepfake-disclosure-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T23:41:02.916357+00:00
+
+An anonymous reader quotes a report from Wired: YouTube has updated its rulebook for the era of deepfakes. Starting today, anyone uploading video to the platform must disclose certain uses of synthetic media, including generative AI, so viewers know what they're seeing isn't real. YouTube says it applies to "realistic" altered media such as "making it appear as if a real building caught fire" or swapping"the face of one individual with another's." The new policy shows YouTube taking steps that could help curb the spread of AI-generated misinformation as the US presidential election approaches. It is also striking for what it permits: AI-generated animations aimed at kids are not subject to the new synthetic content disclosure rules.
+ 
+YouTube's new policies exclude animated content altogether from the disclosure requirement. This means that the emerging scene of get-rich-quick, AI-generated content hustlers can keep churning out videos aimed at children without having to disc
+
+## Job Boards Are Rife With 'Ghost Jobs'
+ - [https://slashdot.org/story/24/03/19/2125252/job-boards-are-rife-with-ghost-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/19/2125252/job-boards-are-rife-with-ghost-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T23:41:01.392598+00:00
+
+"Job openings across the country are seemingly endless," writes longtime Slashdot reader smooth wombat. "Millions of jobs are listed, but are they real? Companies may post job openings with no intent to ever fill it. These are known as ghost jobs and there are more than most people realize. The BBC reports: Clarify Capital, a New York-based business loan provider, surveyed 1,000 hiring managers, and found nearly seven in 10 jobs stay open for more than 30 days, with 10% unfilled for more than half a year. Half the respondents reported they keep job listings open indefinitely because they "always open to new people." More than one in three respondents said they kept the listings active to build a pool of applicants in case of turnover -- not because a role needs to be filled in a timely manner.
+ 
+The posted roles are more than just a talent vacuum sucking up resumes from applicants. They are also a tool for shaping perception inside and outside of the company. More than 40% of
+
+## AT&amp;T Says Leaked Data of 70 Million People Is Not From Its Systems
+ - [https://yro.slashdot.org/story/24/03/19/2043224/att-says-leaked-data-of-70-million-people-is-not-from-its-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/19/2043224/att-says-leaked-data-of-70-million-people-is-not-from-its-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T22:36:05.608042+00:00
+
+An anonymous reader quotes a report from BleepingComputer: AT&amp;T says a massive trove of data impacting 71 million people did not originate from its systems after a hacker leaked it on a cybercrime forum and claimed it was stolen in a 2021 breach of the company. While BleepingComputer has not been able to confirm the legitimacy of all the data in the database, we have confirmed some of the entries are accurate, including those whose data is not publicly accessible for scraping. The data is from an alleged 2021 AT&amp;T data breach that a threat actor known as ShinyHunters attempted to sell on the RaidForums data theft forum for a starting price of $200,000 and incremental offers of $30,000. The hacker stated they would sell it immediately for $1 million.
+ 
+AT&amp;T told BleepingComputer then that the data did not originate from them and that its systems were not breached. "Based on our investigation today, the information that appeared in an internet chat room does not app
+
+## AI Researchers Have Started Reviewing Their Peers Using AI Assistance
+ - [https://slashdot.org/story/24/03/19/2057245/ai-researchers-have-started-reviewing-their-peers-using-ai-assistance?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/19/2057245/ai-researchers-have-started-reviewing-their-peers-using-ai-assistance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T22:36:04.112220+00:00
+
+Academics in the artificial intelligence field have started using generative AI services to help them review the machine learning work of their peers. In a new paper on arXiv, researchers analyzed the peer reviews of papers submitted to leading AI conferences, including ICLR 2024, NeurIPS 2023, CoRL 2023 and EMNLP 2023. The Register reports on the findings: The authors took two sets of data, or corpora -- one written by humans and the other one written by machines. And they used these two bodies of text to evaluate the evaluations -- the peer reviews of conference AI papers -- for the frequency of specific adjectives. "[A]ll of our calculations depend only on the adjectives contained in each document," they explained. "We found this vocabulary choice to exhibit greater stability than using other parts of speech such as adverbs, verbs, nouns, or all possible tokens."
+ 
+It turns out LLMs tend to employ adjectives like "commendable," "innovative," and "comprehensive" more freque
+
+## Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence
+ - [https://slashdot.org/story/24/03/19/2131209/saudi-arabia-plans-40-billion-push-into-artificial-intelligence?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/19/2131209/saudi-arabia-plans-40-billion-push-into-artificial-intelligence?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T22:36:02.627281+00:00
+
+According to the New York Times, Saudi Arabia's government plans to create a fund of about $40 billion to invest in artificial intelligence. Reuters reports: Representatives of Saudi Arabia's Public Investment Fund (PIF) have discussed a potential partnership with U.S. venture capital firm Andreessen Horowitz and other financiers in recent weeks, the newspaper reported. Andreessen Horowitz and PIF governor Yasir Al-Rumayyan have discussed the possibility of the U.S. firm setting up an office in Riyadh, according to the report. PIF officials also discussed what role Andreessen Horowitz could play and how such a fund would work, the newspaper said, adding the plans could still change. Other venture capitalists may participate in kingdom's artificial intelligence fund, which is expected to commence in the second half of 2024, the newspaper said.
+ 
+Saudi representatives have indicated to potential partners that the country is interested in supporting a variety of tech start-ups a
+
+## Nicholas Hawkes, 39, Becomes First in England To Be Jailed for Cyber Flashing
+ - [https://news.slashdot.org/story/24/03/19/1838200/nicholas-hawkes-39-becomes-first-in-england-to-be-jailed-for-cyber-flashing?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/19/1838200/nicholas-hawkes-39-becomes-first-in-england-to-be-jailed-for-cyber-flashing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T19:12:29.921172+00:00
+
+A man has been sentenced for cyber flashing in England for the first time. From a report: Nicholas Hawkes, 39, from Basildon in Essex, was jailed for 66 weeks at Southend Crown Court today after he sent unsolicited photos of his erect penis to a 15-year-old girl and a woman on 9 February. The older victim took screenshots of the offending image on WhatsApp and reported Hawkes to the police the same day. 
+
+Cyber flashing became a criminal offence in England with the passage of the Online Safety Act on 31 January. It has been a crime in Scotland since 2010. The offence covers the sending of an unsolicited sexual image to people via social media, dating apps, text message or data-sharing services such as Bluetooth and AirDrop. Victims of cyber flashing get lifelong anonymity from the time they report the offence, as it also falls under the Sexual Offences Act.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Nicholas+Hawkes%2C+39%2C+Becom
+
+## Mozilla Firefox 124 Is Now Available for Download
+ - [https://news.slashdot.org/story/24/03/19/169231/mozilla-firefox-124-is-now-available-for-download?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/19/169231/mozilla-firefox-124-is-now-available-for-download?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T18:08:00.572636+00:00
+
+An anonymous reader writes: Mozilla Firefox 124 looks like a small update that only updates the Caret Browsing mode to also work in the PDF viewer and adds support for the Screen Wake Lock API to prevent devices from dimming or locking the screen when an application needs to keep running. The Firefox View feature has been updated as well in this release to allow users to sort open tabs by either recent activity (default setting) or tab order. Also, Firefox 124 expands Qwant's availability to all languages in the France region along with Belgium, Italy, Netherlands, Spain, and Switzerland. 
+
+This release also adds support for using HTTP(S) and relative URLs when creating WebSockets, as well as support for the AbortSignal: any() static method, which takes an iterable of abort signals and returns an AbortSignal (more details are available here). For Android users, Firefox 124 enables the Pull to Refresh feature, which is now more robust than ever, by default and adds support for
+
+## Google DeepMind's New AI Assistant Helps Elite Soccer Coaches Get Even Better
+ - [https://tech.slashdot.org/story/24/03/19/180257/google-deepminds-new-ai-assistant-helps-elite-soccer-coaches-get-even-better?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/19/180257/google-deepminds-new-ai-assistant-helps-elite-soccer-coaches-get-even-better?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T18:07:59.059721+00:00
+
+Soccer teams are always looking to get an edge over their rivals. Whether it's studying players' susceptibility to injury, or opponents' tactics -- top clubs look at reams of data to give them the best shot of winning. They might want to add a new AI assistant developed by Google DeepMind to their arsenal. From a report: It can suggest tactics for soccer set-pieces that are even better than those created by professional club coaches. The system, called TacticAI, works by analyzing a dataset of 7,176 corner kicks taken by players for Liverpool FC, one of the biggest soccer clubs in the world. Corner kicks are awarded to an attacking team when the ball passes over the goal line after touching a player on the defending team. In a sport as free-flowing and unpredictable as soccer, corners -- like free kicks and penalties -- are rare instances in the game when teams can try out pre-planned plays. 
+
+TacticAI uses predictive and generative AI models to convert each corner kick scena
+
+## Apple Working on Solution for App Store Fee That Could Bankrupt Viral Apps
+ - [https://apple.slashdot.org/story/24/03/19/1550209/apple-working-on-solution-for-app-store-fee-that-could-bankrupt-viral-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/03/19/1550209/apple-working-on-solution-for-app-store-fee-that-could-bankrupt-viral-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T17:02:56.543172+00:00
+
+Joe_Dragon shares a report: Since Apple announced plans for the 0.50 euro Core Technology Fee that apps distributed using the new EU App Store business terms must pay, there have been ongoing concerns about what that fee might mean for a developer that suddenly has a free app go viral. Apple's VP of regulatory law Kyle Andeers today met with developers during a workshop on Apple's Digital Markets Act compliance. iOS developer Riley Testut, best known for Game Boy Advance emulator GBA4iOS, asked what Apple would do if a young developer unwittingly racked up millions in fees. 
+
+Testut explained that when he was younger, that exact situation happened to him. Back in 2014 as an 18-year-old high school student, he released GBA4iOS outside of the App Store using an enterprise certificate. The app was unexpectedly downloaded more than 10 million times, and under Apple's new rules with Core Technology Fee, Testut said that would have cost $5 million euros, bankrupting his family. He 
+
+## Microsoft Hires DeepMind Co-Founder Suleyman To Run Consumer AI, Hires Most of Inflection AI Startup Staff
+ - [https://slashdot.org/story/24/03/19/1614200/microsoft-hires-deepmind-co-founder-suleyman-to-run-consumer-ai-hires-most-of-inflection-ai-startup-staff?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/19/1614200/microsoft-hires-deepmind-co-founder-suleyman-to-run-consumer-ai-hires-most-of-inflection-ai-startup-staff?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T17:02:55.011936+00:00
+
+Microsoft has named Mustafa Suleyman head of its consumer artificial intelligence business, hiring most of the staff from his Inflection AI startup as the software giant seeks to fend off Alphabet's Google in the fiercely contested market for AI products. From a report: Suleyman, who co-founded Google's DeepMind, will report to Chief Executive Officer Satya Nadella and oversee a range of projects, such as integrating an AI Copilot into Windows and adding conversational elements to the Bing search engine. His hiring will put Microsoft's consumer AI work under one leader for the first time. 
+
+Inflection, a rival of Microsoft's key AI partner OpenAI, is exiting its Pi consumer chatbot effort and shifting to selling AI software to businesses. Karen Simonyan, Inflection's co-founder, will join Microsoft as chief scientist for the new consumer AI group. In the past year, Nadella has been revamping his company's major products around artificial intelligence technology from OpenAI. U
+
+## Intermittent Fasting Linked To Higher Risk of Cardiovascular Death, Research Suggests
+ - [https://science.slashdot.org/story/24/03/19/1517228/intermittent-fasting-linked-to-higher-risk-of-cardiovascular-death-research-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/03/19/1517228/intermittent-fasting-linked-to-higher-risk-of-cardiovascular-death-research-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T15:58:01.823282+00:00
+
+Several readers shared the following report: Intermittent fasting, a diet pattern that involves alternating between periods of fasting and eating, can lower blood pressure and help some people lose weight, past research has indicated. But an analysis presented Monday at the American Heart Association's scientific sessions in Chicago challenges the notion that intermittent fasting is good for heart health. Instead, researchers from Shanghai Jiao Tong University School of Medicine in China found that people who restricted food consumption to less than eight hours per day had a 91% higher risk of dying from cardiovascular disease over a median period of eight years, relative to people who ate across 12 to 16 hours. 
+
+It's some of the first research investigating the association between time-restricted eating (a type of intermittent fasting) and the risk of death from cardiovascular disease. The analysis -- which has not yet been peer-reviewed or published in an academic journal 
+
+## Nokia Tells Reddit It Infringes Some Patents in Lead-Up To IPO
+ - [https://yro.slashdot.org/story/24/03/19/1445229/nokia-tells-reddit-it-infringes-some-patents-in-lead-up-to-ipo?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/19/1445229/nokia-tells-reddit-it-infringes-some-patents-in-lead-up-to-ipo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T14:53:12.072751+00:00
+
+An anonymous reader shares a report: Reddit, the social media platform gearing up for an initial public offering this week, said Nokia has accused it of infringing some of their patents. Nokia Technologies, the company's licensing business, sent Reddit a letter on Monday with the claims, and Reddit is evaluating them, according to a filing made Tuesday. Nokia's claims come as Reddit prepares for an initial public offering in an effort to raise hundreds of millions of dollars. The company has been working toward a listing for years, and its public market debut this week is set to become a high-profile addition to the year's roster of newly and soon-to-be public companies. Reddit said in the filing: "On March 18, 2024, Nokia sent us a letter indicating they believed that Reddit infringes certain of their patents. We will evaluate their claims. As we face increasing competition and become increasingly high profile, the possibility of receiving more intellectual property claims a
+
+## C++ Creator Rebuts White House Warning
+ - [https://developers.slashdot.org/story/24/03/19/019240/c-creator-rebuts-white-house-warning?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://developers.slashdot.org/story/24/03/19/019240/c-creator-rebuts-white-house-warning?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T13:47:12.683025+00:00
+
+An anonymous reader quotes a report from InfoWorld: C++ creator Bjarne Stroustrup has defended the widely used programming language in response to a Biden administration report that calls on developers to use memory-safe languages and avoid using vulnerable ones such as C++ and C. In a March 15 response to an inquiry from InfoWorld, Stroustrup pointed out strengths of C++, which was designed in 1979. "I find it surprising that the writers of those government documents seem oblivious of the strengths of contemporary C++ and the efforts to provide strong safety guarantees," Stroustrup said. "On the other hand, they seem to have realized that a programming language is just one part of a tool chain, so that improved tools and development processes are essential."
+ 
+Safety improvement always has been a goal of C++ development efforts, Stroustrup stressed. "Improving safety has been an aim of C++ from day one and throughout its evolution. Just compare the K&amp;R C language with th
+
+## Astronaut Thomas Stafford, Commander of Apollo 10, Dies At 93
+ - [https://science.slashdot.org/story/24/03/19/013234/astronaut-thomas-stafford-commander-of-apollo-10-dies-at-93?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/03/19/013234/astronaut-thomas-stafford-commander-of-apollo-10-dies-at-93?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T10:30:14.596177+00:00
+
+The Associated Press reports on the passing of astronaut Thomas P. Stafford, the commander of a dress rehearsal flight for the 1969 moon landing and the first U.S.-Soviet space linkup. He was 93. From the report: Stafford, a retired Air Force three-star general, took part in four space missions. Before Apollo 10, he flew on two Gemini flights, including the first rendezvous of two U.S. capsules in orbit. He died in a hospital near his Space Coast Florida home, said Max Ary, director of the Stafford Air &amp; Space Museum in Weatherford, Oklahoma. Stafford was one of 24 NASA astronauts who flew to the moon, but he did not land on it. Only seven of them are still alive. After he put away his flight suit, Stafford was the go-to guy for NASA when it sought independent advice on everything from human Mars missions to safety issues to returning to flight after the 2003 space shuttle Columbia accident. He chaired an oversight group that looked into how to fix the then-flawed Hubble 
+
+## Commercial Bank of Ethiopia Glitch Lets Customers Withdraw Millions
+ - [https://it.slashdot.org/story/24/03/19/0626215/commercial-bank-of-ethiopia-glitch-lets-customers-withdraw-millions?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/03/19/0626215/commercial-bank-of-ethiopia-glitch-lets-customers-withdraw-millions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T07:13:33.301340+00:00
+
+Ethiopia's biggest commercial bank is scrambling to recoup large sums of money withdrawn by customers after a "systems glitch." From a report: The customers discovered early on Saturday that they could take out more cash than they had in their accounts at the Commercial Bank of Ethiopia (CBE). More than $40m was withdrawn or transferred to other banks, local media reported. 
+
+It took several hours for the institution to freeze transactions. Much of the money was withdrawn from state-owned CBE by students, bank president Abe Sano told journalists on Monday. News of the glitch spread across universities largely via messaging apps and phone calls. Long lines formed at campus ATMs, with a student in western Ethiopia telling BBC Amharic people were withdrawing money until police officers arrived on campus to stop them.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Commercial+Bank+of+Ethiopia+Glitch+Lets+Customers+Withdraw+Millions%3A+htt
+
+## Global Ocean Heat Has Hit a New Record Every Single Day For the Last Year
+ - [https://news.slashdot.org/story/24/03/18/225202/global-ocean-heat-has-hit-a-new-record-every-single-day-for-the-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/18/225202/global-ocean-heat-has-hit-a-new-record-every-single-day-for-the-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T07:13:31.778422+00:00
+
+According to new data from the National Oceanic and Atmospheric Administration (NOAA), the world's oceans have hit a new temperature record every day since mid-March last year, fueling concerns for marine life and extreme weather across the planet. From a report: Global average ocean temperatures in 2023 were 0.25 degrees Celsius warmer than the previous year, said Gregory C. Johnson, a NOAA oceanographer. That rise is "is equivalent to about two decades' worth of warming in a single year," he told CNN. "So it is quite large, quite significant, and a bit surprising." Scientists have said ocean heat is being supercharged by human-caused global warming, boosted by El Nino, a natural climate pattern marked by higher-than-average ocean temperatures. The main consequences are on marine life and global weather. Global ocean warmth can add more power to hurricanes and other extreme weather events, including scorching heat waves and intense rainfall. [...]
+ 
+"At times, the records (i
+
+## EPA Bans Chrysotile Asbestos
+ - [https://yro.slashdot.org/story/24/03/18/2159209/epa-bans-chrysotile-asbestos?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/18/2159209/epa-bans-chrysotile-asbestos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T03:59:50.293193+00:00
+
+An anonymous reader quotes a report from the Associated Press: The Environmental Protection Agency on Monday announced a comprehensive ban on asbestos, a carcinogen that kills tens of thousands of Americans every year but is still used in some chlorine bleach, brake pads and other products. The final rule marks a major expansion of EPA regulation under a landmark 2016 law that overhauled regulations governing tens of thousands of toxic chemicals in everyday products, from household cleaners to clothing and furniture. The new rule would ban chrysotile asbestos, the only ongoing use of asbestos in the United States. The substance is found in products such as brake linings and gaskets and is used to manufacture chlorine bleach and sodium hydroxide, also known as caustic soda, including some that is used for water purification. [...]
+ 
+The 2016 law authorized new rules for tens of thousands of toxic chemicals found in everyday products, including substances such as asbestos and t
+
+## Nvidia Reveals Blackwell B200 GPU, the 'World's Most Powerful Chip' For AI
+ - [https://hardware.slashdot.org/story/24/03/18/2149257/nvidia-reveals-blackwell-b200-gpu-the-worlds-most-powerful-chip-for-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/03/18/2149257/nvidia-reveals-blackwell-b200-gpu-the-worlds-most-powerful-chip-for-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T02:49:36.505306+00:00
+
+Sean Hollister reports via The Verge: Nvidia's must-have H100 AI chip made it a multitrillion-dollar company, one that may be worth more than Alphabet and Amazon, and competitors have been fighting to catch up. But perhaps Nvidia is about to extend its lead -- with the new Blackwell B200 GPU and GB200 "superchip." Nvidia says the new B200 GPU offers up to 20 petaflops of FP4 horsepower from its 208 billion transistors and that a GB200 that combines two of those GPUs with a single Grace CPU can offer 30 times the performance for LLM inference workloads while also potentially being substantially more efficient. It "reduces cost and energy consumption by up to 25x" over an H100, says Nvidia.
+ 
+Training a 1.8 trillion parameter model would have previously taken 8,000 Hopper GPUs and 15 megawatts of power, Nvidia claims. Today, Nvidia's CEO says 2,000 Blackwell GPUs can do it while consuming just four megawatts. On a GPT-3 LLM benchmark with 175 billion parameters, Nvidia says the
+
+## Indiana Becomes 9th State To Make CS a High School Graduation Requirement
+ - [https://news.slashdot.org/story/24/03/18/2036252/indiana-becomes-9th-state-to-make-cs-a-high-school-graduation-requirement?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/18/2036252/indiana-becomes-9th-state-to-make-cs-a-high-school-graduation-requirement?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T01:44:58.374474+00:00
+
+Longtime Slashdot reader theodp writes: Last October, tech-backed nonprofit Code.org publicly called out Indiana in its 2023 State of Computer Science Education report, advising the Hoosier state it needed to heed Code.org's new policy recommendation and "adopt a graduation requirement for all high school students in computer science." Having already joined 49 other Governors who signed a Code.org-organized compact calling for increased K-12 CS education in his state after coming under pressure from hundreds of the nation's tech, business, and nonprofit leaders, Indiana Governor Eric J. Holcomb apparently didn't need much convincing. "We must prepare our students for a digitally driven world by requiring Computer Science to graduate from high school," Holcomb proclaimed in his January State of the State Address. Two months later -- following Microsoft-applauded testimony for legislation to make it so by Code.org partners College Board and Nextech (the Indiana Code.org Regiona
+
+## Hertz CEO Resigns After Blowing Big Gamble On EVs
+ - [https://tech.slashdot.org/story/24/03/18/2044220/hertz-ceo-resigns-after-blowing-big-gamble-on-evs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/18/2044220/hertz-ceo-resigns-after-blowing-big-gamble-on-evs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T01:44:56.583393+00:00
+
+Press2ToContinue quotes a report from the Gateway Pundit: Stephen Scherr, chief executive officer of Hertz Global Holdings Inc. and a member of its board of directors, will step down on March 31, following the car rental company's largest quarterly loss since 2020 after a risky bet on electric vehicles. According to Fox Business, Scherr is working with Gil West, former chief operating officer of Delta Airlines and General Motors' Cruise unit, to ensure a smooth transition. West will officially start his new role at Hertz on April 1.
+ 
+Scherr, 59, joined Hertz two years ago as the company was emerging from bankruptcy and putting a big focus on EVs during that time. Hertz soon discovered that EVs are more expensive to maintain than they had initially thought. Scherr reportedly told investors that Hertz's profits experienced a $348 million loss, which he blamed EVs for. In January, Hertz announced its plan to offload 20,000 electric vehicles from its U.S. fleet throughout 2024, 
+
+## BitTorrent Is No Longer the 'King' of Upstream Internet Traffic
+ - [https://yro.slashdot.org/story/24/03/18/2020209/bittorrent-is-no-longer-the-king-of-upstream-internet-traffic?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/18/2020209/bittorrent-is-no-longer-the-king-of-upstream-internet-traffic?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-19T00:38:14.526638+00:00
+
+An anonymous reader quotes a report from TorrentFreak: Back in 2004, in the pre-Web 2.0 era, research indicated that BitTorrent was responsible for an impressive 35% of all Internet traffic. At the time, file-sharing via peer-to-peer networks was the main traffic driver as no other services consumed large amounts of bandwidth. Fast-forward two decades and these statistics are ancient history. With the growth of video streaming, including services such as YouTube, Netflix, and TikTok, file-sharing traffic is nothing more than a drop in today's data pool. [...]
+ 
+This week, Canadian broadband management company Sandvine released its latest Global Internet Phenomena Report which makes it clear that BitTorrent no longer leads any charts. The latest data show that video and social media are the leading drivers of downstream traffic, accounting for more than half of all fixed access and mobile data worldwide. Needless to say, BitTorrent is nowhere to be found in the list of 'top ap
+
