@@ -1,0 +1,716 @@
+# Source:Home - CBSNews.com, URL:https://www.cbsnews.com/latest/rss/main, language:en
+
+## Dan Schneider responds to "Quiet on Set" accusations
+ - [https://www.cbsnews.com/news/dan-schneider-apology-quiet-on-set-documentary-nickelodeon](https://www.cbsnews.com/news/dan-schneider-apology-quiet-on-set-documentary-nickelodeon)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T23:12:00+00:00
+
+Ex-Nickelodeon producer Dan Schneider was accused of inappropriate and abusive behavior in the docuseries, "Quiet on Set: The Dark Side of Kids TV."
+
+## "CBS Evening News" headlines for Wednesday, March 20, 2024
+ - [https://www.cbsnews.com/video/cbs-evening-news-headlines-for-wednesday-march-20-2024](https://www.cbsnews.com/video/cbs-evening-news-headlines-for-wednesday-march-20-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T23:10:00+00:00
+
+Here's a look at the top stories making headlines on the "CBS Evening News with Norah O'Donnell."
+
+## Biden makes predictions for 2024 March Madness tournaments
+ - [https://www.cbsnews.com/news/biden-2024-ncaa-march-madness-brackets](https://www.cbsnews.com/news/biden-2024-ncaa-march-madness-brackets)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T23:08:24+00:00
+
+Former President Barack Obama was the first president to release a bracket each year, and Mr. Biden has continued the tradition since he took office.
+
+## After backlash, Social Security to overhaul how it claws back benefits
+ - [https://www.cbsnews.com/news/social-security-overpayment-clawback-reform-10-percent-of-benefit](https://www.cbsnews.com/news/social-security-overpayment-clawback-reform-10-percent-of-benefit)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T22:35:00+00:00
+
+The Social Security Administration said it's overhauling how it recovers benefits from people after an outcry over its policies.
+
+## Biden announces $8.5 billion federal investment in Intel computer chip plants
+ - [https://www.cbsnews.com/video/biden-85-billion-investment-intel-computer-chip-plants](https://www.cbsnews.com/video/biden-85-billion-investment-intel-computer-chip-plants)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T22:27:00+00:00
+
+On Wednesday, President Biden unveiled an $8.5 billion agreement with tech giant Intel in Arizona. The funding is part of the CHIPS Act and will create 30,000 manufacturing and construction jobs. Jared Bernstein, White House economic adviser, joins "America Decides" to discuss.
+
+## Government funding deal includes ban on U.S. aid to UNRWA, sources say
+ - [https://www.cbsnews.com/news/israel-gaza-government-funding-deal-includes-ban-on-u-s-aid-to-unrwa-until-2025-sources](https://www.cbsnews.com/news/israel-gaza-government-funding-deal-includes-ban-on-u-s-aid-to-unrwa-until-2025-sources)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T22:23:00+00:00
+
+The funding deal reached between Congress and the White House will include a ban on direct U.S. funding for the U.N. Relief and Works Agency for Palestine Refugees until March 2025, sources say.
+
+## U.S. may ban funding for U.N. Palestinian agency until 2025
+ - [https://www.cbsnews.com/video/us-may-ban-funding-unrwa-until-2025](https://www.cbsnews.com/video/us-may-ban-funding-unrwa-until-2025)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T22:11:00+00:00
+
+Sources tell CBS News the spending bill agreed to by congressional leaders and the White House will include a ban on all direct funding to the United Nations agency for Palestinian refugees until March 2025. Israel has accused over a dozen UNRWA employees of participating in the Oct. 7 attack. CBS News chief foreign affairs correspondent and "Face the Nation" moderator Margaret Brennan joins "America Decides" with analysis.
+
+## Latino voters in Arizona discuss 2024 race as Biden makes appeal
+ - [https://www.cbsnews.com/video/latino-voters-arizona-discuss-2024-race-biden-makes-appeal](https://www.cbsnews.com/video/latino-voters-arizona-discuss-2024-race-biden-makes-appeal)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T22:07:00+00:00
+
+President Biden is wrapping up a Southwest trip to Nevada and Arizona. There, he highlighted his economic policies and appealed to Latino voters. CBS News' Fin Gómez and Weijia Jiang have more.
+
+## 3 Idaho officers shot taking inmate out of hospital, manhunt underway
+ - [https://www.cbsnews.com/news/idaho-officers-shot-ambushed-skylar-meade-escaped-inmate](https://www.cbsnews.com/news/idaho-officers-shot-ambushed-skylar-meade-escaped-inmate)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T21:20:41+00:00
+
+Inmate Skylar Meade and the shooter are believed to have escaped together, triggering a manhunt across Idaho's Treasure Valley.
+
+## 3rd Mississippi "Goon Squad" officer sentenced for torturing Black men
+ - [https://www.cbsnews.com/video/mississippi-goon-squad-officer-sentenced-for-torturing-black-men](https://www.cbsnews.com/video/mississippi-goon-squad-officer-sentenced-for-torturing-black-men)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T21:03:02+00:00
+
+Former Rankin County sheriff's deputy Daniel Opdyke was sentenced to 17.5 years in prison Wednesday. He is the third of six former Mississippi law enforcement officers who pleaded guilty to subjecting two Black men to torture in 2023. CBS News' Errol Barnett reports.
+
+## Why India's Bengaluru is running out of water
+ - [https://www.cbsnews.com/video/why-bengaluru-india-is-running-out-of-water](https://www.cbsnews.com/video/why-bengaluru-india-is-running-out-of-water)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T21:00:58+00:00
+
+The city of Bengaluru in southern India is facing a water crisis as levels run dangerously low. Some families there are being limited to five gallons of water per week. Sibi Arasu, a climate change reporter for the Associated Press, joins CBS News with a look at the shortage.
+
+## Get a great deal on the best laptops during the Amazon Big Spring Sale
+ - [https://www.cbsnews.com/essentials/best-laptop-deals-amazon-big-spring-sale](https://www.cbsnews.com/essentials/best-laptop-deals-amazon-big-spring-sale)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T20:52:00+00:00
+
+Shop deals on laptops that'll save you hundreds on popular brands like Acer, Razer, Alienware, and more.
+
+## EPA announces new tailpipe emissions rules
+ - [https://www.cbsnews.com/video/epa-announces-new-tailpipe-emissions-rules](https://www.cbsnews.com/video/epa-announces-new-tailpipe-emissions-rules)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T20:50:30+00:00
+
+The Biden administration announced new tailpipe emission standards for new passenger cars that aim to cut over 7 billion tons of carbon emissions, as well as other harmful air pollutants. CBS News national correspondent Dave Malkoff has more on the tactic to reduce carbon emissions and other harmful air pollutants.
+
+## What is Biden's strategy to win over latino voters in Arizona?
+ - [https://www.cbsnews.com/video/what-is-biden-strategy-to-win-over-latino-voters-in-arizona](https://www.cbsnews.com/video/what-is-biden-strategy-to-win-over-latino-voters-in-arizona)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T20:48:00+00:00
+
+President Biden is finishing up his trip to the West with a visit to Arizona as his campaign unveils efforts to win over Latino voters in the battleground state. CBS News senior White House correspondent Weijia Jiang reports from Phoenix.
+
+## Congress works to avert partial shutdown, Republicans continue Biden impeachment probe
+ - [https://www.cbsnews.com/video/congress-works-avert-partial-shutdown-republicans-continue-biden-impeachment](https://www.cbsnews.com/video/congress-works-avert-partial-shutdown-republicans-continue-biden-impeachment)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T20:45:45+00:00
+
+Congress is working on approving a deal to fund the government before a partial government shutdown deadline Friday. Meanwhile, two former Hunter Biden associates are testifying before a House committee as part of Republicans' efforts to impeach President Biden. CBS News congressional correspondent Scott MacFarlane has more.
+
+## One of your favorite cookies could soon taste different
+ - [https://www.cbsnews.com/news/chips-ahoy-chocolate-chip-cookie-recipe-change](https://www.cbsnews.com/news/chips-ahoy-chocolate-chip-cookie-recipe-change)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T20:22:10+00:00
+
+Chips Ahoy! Is introducing a new recipe for its chocolate chip cookies. The company says it's the biggest update in nearly a decade.
+
+## Where to buy silver bars and coins
+ - [https://www.cbsnews.com/news/where-to-buy-silver-bars-and-coins](https://www.cbsnews.com/news/where-to-buy-silver-bars-and-coins)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T20:02:00+00:00
+
+There are multiple ways to get invested in silver bars and coins. Here are three to know.
+
+## 3 closet space-saving tips from a cleaning expert
+ - [https://www.cbsnews.com/news/space-saving-tips-cleaning-expert](https://www.cbsnews.com/news/space-saving-tips-cleaning-expert)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T19:11:14+00:00
+
+TikTok star Melissa Pateras, known as the the "Laundry Lesbian," shared tips to keep even small spaces tidy this spring.
+
+## Federal Reserve holds interest rates steady
+ - [https://www.cbsnews.com/video/federal-reserve-holds-interest-rates-steady-1](https://www.cbsnews.com/video/federal-reserve-holds-interest-rates-steady-1)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T18:38:02+00:00
+
+The Federal Reserve announced Wednesday it's leaving the central bank's benchmark interest rate unchanged for now as the U.S. economy shows some signs of inflation persisting in certain sectors. CBS News contributor J.D. Durkin joins business analyst Jill Schlesinger with more on the news.
+
+## Appeals court hearing arguments on Texas immigration law
+ - [https://www.cbsnews.com/video/appeals-court-hearing-arguments-on-texas-immigration-law](https://www.cbsnews.com/video/appeals-court-hearing-arguments-on-texas-immigration-law)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T18:34:50+00:00
+
+A federal appeals court is hearing arguments on a controversial Texas immigration law on Wednesday a day after it temporarily blocked the legislation known as SB4 from going into effect. Just hours before, Supreme Court allowed Texas officials to begin enforcing the law. CBS News' Omar Villafranca is following the latest.
+
+## The Fed holds interest rates steady. Here's the impact on your money.
+ - [https://www.cbsnews.com/news/federal-reserve-meeting-rate-decision-march-2024](https://www.cbsnews.com/news/federal-reserve-meeting-rate-decision-march-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T18:32:20+00:00
+
+The Fed left its benchmark interest rate unchanged amid persistent inflation. Bankers are predicting three rate cuts later this year.
+
+## Blinken to visit Israel as Netanyahu vows to move forward with Rafah operation
+ - [https://www.cbsnews.com/video/blinken-to-visit-israel-as-netanyahu-vows-to-move-forward-with-rafah-operation](https://www.cbsnews.com/video/blinken-to-visit-israel-as-netanyahu-vows-to-move-forward-with-rafah-operation)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T18:31:02+00:00
+
+Secretary of State Antony Blinken is expected to visit Israel Friday on his latest trip to the Middle East. This comes as Israeli Prime Minister Benjamin Netanyahu vows to move forward with his plan to expand military operations into Rafah. CBS News foreign correspondent Chris Livesay reports.
+
+## Most popular dog breed rankings released. Some are not happy.
+ - [https://www.cbsnews.com/news/most-popular-dog-breed-rankings-french-bulldogs-fans-not-happy](https://www.cbsnews.com/news/most-popular-dog-breed-rankings-french-bulldogs-fans-not-happy)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T18:22:17+00:00
+
+The American Kennel Club released its latest round of canine rankings, with French bulldogs remaining the most commonly registered purebreds.
+
+## Bus company sued by NYC agrees to temporarily stop transporting migrants
+ - [https://www.cbsnews.com/news/roadrunners-charters-agrees-to-temporarily-stop-transporting-migrants-to-nyc](https://www.cbsnews.com/news/roadrunners-charters-agrees-to-temporarily-stop-transporting-migrants-to-nyc)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T18:21:31+00:00
+
+Roadrunners Charters, Inc. said it will no longer bus migrants to New York City or the surrounding area while the case is pending.
+
+## What to know before the Fed's interest rate announcement
+ - [https://www.cbsnews.com/video/what-to-know-before-the-fed-interest-rate-announcement](https://www.cbsnews.com/video/what-to-know-before-the-fed-interest-rate-announcement)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T18:19:53+00:00
+
+The Federal Reserve will announce its decision on interest rates Wednesday as the U.S. continues to combat inflation. CBS News senior business and technology correspondent Jo Ling Kent breaks down what to know before the announcement.
+
+## Deciding between debt relief and bankruptcy? Here are the factors to consider
+ - [https://www.cbsnews.com/news/key-factors-to-consider-when-deciding-between-debt-relief-and-bankruptcy](https://www.cbsnews.com/news/key-factors-to-consider-when-deciding-between-debt-relief-and-bankruptcy)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T18:16:38+00:00
+
+Both bankruptcy and debt relief can help you get your finances back on track. Here's how to decide between them.
+
+## Smokin'-hot deals on grills during the Amazon Big Spring Sale
+ - [https://www.cbsnews.com/essentials/the-best-deals-on-grills-at-the-amazon-big-spring-sale](https://www.cbsnews.com/essentials/the-best-deals-on-grills-at-the-amazon-big-spring-sale)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T18:09:48+00:00
+
+Amazon has cooked up some ways to save cash on a new grill during its Big Spring Sale.
+
+## The Fed is keeping interest rates high. Here are 3 things savers should do now.
+ - [https://www.cbsnews.com/news/fed-keeping-interest-rates-high-things-savers-should-do-now](https://www.cbsnews.com/news/fed-keeping-interest-rates-high-things-savers-should-do-now)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T18:06:39+00:00
+
+An interest cut has been delayed once again. Here are three ways savers can take advantage now.
+
+## Making a restaurant reservation? That will cost you $100.
+ - [https://www.cbsnews.com/news/restaurant-reservation-fee-cancellation](https://www.cbsnews.com/news/restaurant-reservation-fee-cancellation)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T17:55:32+00:00
+
+Some fine dining establishments are charging customers $25-$50 per person just for a dinner reservation to fight no-shows.
+
+## For first time ever, no White men lead any of the U.K.'s 4 governments
+ - [https://www.cbsnews.com/news/wales-vaughan-gething-election-black-leader-uk](https://www.cbsnews.com/news/wales-vaughan-gething-election-black-leader-uk)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T17:53:08+00:00
+
+Wales has elected its first Black leader, and Vaughan Gething's historic win means none of the U.K. governments are led by a White man.
+
+## Doctor comments on new study on intermittent fasting
+ - [https://www.cbsnews.com/video/doctor-study-intermittent-fasting](https://www.cbsnews.com/video/doctor-study-intermittent-fasting)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T17:27:22+00:00
+
+A new study looks at possible health risks of intermittent fasting, where people restrict their eating to eight hours or less each day. The study was not published or peer-reviewed. Dr. Sean Heffron, a preventive cardiologist for NYU Langone Heart, joined CBS News to discuss.
+
+## 97% of voters have early voting option this election, report finds
+ - [https://www.cbsnews.com/video/97-of-voters-have-early-voting-option-this-election-report-finds](https://www.cbsnews.com/video/97-of-voters-have-early-voting-option-this-election-report-finds)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T17:24:39+00:00
+
+About 97% of voters will have the option to cast their general election ballots early this year, according to a new report from the Center for Election Innovation and Research. Only about 40% of voters were able to do so back in 2000. CBS News election law contributor David Becker founded the Center for Election Innovation and Research and oversaw the team that worked on the report. He shed some light on the significance of the increase in early voting access.
+
+## Judge allows Trump, others to appeal Fani Willis decision
+ - [https://www.cbsnews.com/video/judge-allows-trump-others-to-appeal-fani-willis-decision](https://www.cbsnews.com/video/judge-allows-trump-others-to-appeal-fani-willis-decision)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T17:23:00+00:00
+
+The judge who ruled Fulton County District Attorney Fani Willis can stay on Georgia's election interference case against former President Donald Trump and others as long as special prosecutor Nathan Wade steps aside will allow the defendants to appeal the decision. The case against Trump will continue while an appeal is heard, but could eventually be delayed again. CBS News congressional correspondent Nikole Killion has more.
+
+## This TikTok-famous upholstery cleaner erased months-old stains — and now it's 21% off on Amazon
+ - [https://www.cbsnews.com/essentials/bissell-little-green-machine-upholstery-cleaner-sale](https://www.cbsnews.com/essentials/bissell-little-green-machine-upholstery-cleaner-sale)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T17:14:00+00:00
+
+Get this viral cleaning tool for less than $100 during Amazon's Big Spring Sale.
+
+## How to watch today's Grambling vs. Montana State NCAA First Four men's college basketball game: Livestream options
+ - [https://www.cbsnews.com/essentials/how-to-watch-todays-grambling-vs-montana-state-ncaa-first-four-college-basketball-game-2024-03-20](https://www.cbsnews.com/essentials/how-to-watch-todays-grambling-vs-montana-state-ncaa-first-four-college-basketball-game-2024-03-20)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T17:07:50+00:00
+
+Find out how and what time to watch tonight's Grambling vs. Montana State men's NCAA First Four basketball game.
+
+## How to watch today's Colorado vs. Boise State NCAA First Four college basketball game: Livestream options, more
+ - [https://www.cbsnews.com/essentials/how-to-watch-todays-colorado-vs-boise-state-ncaa-first-four-college-basketball-game](https://www.cbsnews.com/essentials/how-to-watch-todays-colorado-vs-boise-state-ncaa-first-four-college-basketball-game)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T17:02:06+00:00
+
+Colorado and Boise State face off tonight. Find out how and what time to stream the men's NCAA First Four game.
+
+## Can you get a HELOC on a second home?
+ - [https://www.cbsnews.com/news/can-you-get-a-heloc-on-a-second-home](https://www.cbsnews.com/news/can-you-get-a-heloc-on-a-second-home)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T16:31:38+00:00
+
+You have the option to tap into your second home's equity with a HELOC, but keep these considerations in mind.
+
+## Electronic waste is growing 5 times faster than it's being recycled
+ - [https://www.cbsnews.com/news/electronic-waste-ewaste-span-equator-growing](https://www.cbsnews.com/news/electronic-waste-ewaste-span-equator-growing)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T16:21:22+00:00
+
+From cell phones to freezers, e-waste is trashing the planet – and a new report says the world isn't doing enough to stop it from getting worse.
+
+## Federal Reserve to make interest rate decision
+ - [https://www.cbsnews.com/video/federal-reserve-to-issue-interest-rate-decision](https://www.cbsnews.com/video/federal-reserve-to-issue-interest-rate-decision)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:49:02+00:00
+
+The Federal Reserve could cut interest rates Wednesday afternoon, though early reports indicate there won't be any major reduction. For more on the announcement, CBS News was joined by Kristin Myers, editor-in-chief for ETF.com, a company that helps investors and advisers.
+
+## Netanyahu, U.S. at odds on Gaza, Palestinian two-state solution
+ - [https://www.cbsnews.com/video/netanyahu-us-at-odds-on-gaza-palestinian-two-state-solution](https://www.cbsnews.com/video/netanyahu-us-at-odds-on-gaza-palestinian-two-state-solution)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:49:02+00:00
+
+As the Biden administration has continued calls for a cease-fire in Gaza and a two-state solution between Israel and Palestine, Israeli Prime Minister Benjamin Netanyahu has been unwavering in his calls for a ground offensive in the Gaza city of Rafah and his rejection of a two-state solution. CBS News intelligence and national security reporter Olivia Gazis has more.
+
+## Busy day on Capitol Hill includes Netanyahu address, TikTok briefing
+ - [https://www.cbsnews.com/video/busy-day-on-capitol-includes-netanyahu-address-tiktok-briefing](https://www.cbsnews.com/video/busy-day-on-capitol-includes-netanyahu-address-tiktok-briefing)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:49:01+00:00
+
+Senate Republicans will hear a virtual address from Israeli Prime Minister Benjamin Netanyahu Wednesday, a week after Democratic Senate Majority Leader Chuck Schumer said Netanyahu had lost his way and called for a new election in Israel. U.S. intelligence officials will also brief senators on Tiktok as they continue weighing the House-passed bill that could lead to a ban on the app. CBS News congressional correspondent Nikole Killion has more.
+
+## EPA's new auto emissions rules boost electric vehicles and hybrids
+ - [https://www.cbsnews.com/news/epa-new-rules-carbon-emissions-boosts-electric-vehicles-hybrids](https://www.cbsnews.com/news/epa-new-rules-carbon-emissions-boosts-electric-vehicles-hybrids)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:45:28+00:00
+
+The Biden administration announced new auto emissions standards in effort to cut global-warming emissions from passenger vehicles.
+
+## Lil Jon swaps crunk for calm with new album "Total Meditation"
+ - [https://www.cbsnews.com/news/lil-jon-swaps-crunk-for-calm-with-new-album-total-meditation](https://www.cbsnews.com/news/lil-jon-swaps-crunk-for-calm-with-new-album-total-meditation)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:42:39+00:00
+
+In a surprising pivot from his signature Southern "crunk" style, rapper, DJ and producer Lil Jon released a new album titled "Total Meditation."
+
+## Inside Trump-backed Bernie Moreno's GOP Senate primary win
+ - [https://www.cbsnews.com/video/inside-trump-backed-bernie-morenos-gop-senate-primary-win](https://www.cbsnews.com/video/inside-trump-backed-bernie-morenos-gop-senate-primary-win)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:41:39+00:00
+
+CBS News projects Trump-backed businessman Bernie Moreno will win Ohio's Senate Republican primary, setting up a November battle with incumbent Democratic Sen. Sherrod Brown. CBS News campaign reporter Shawna Mizelle has more.
+
+## Delta pilot gets 10 months in jail for showing up to flight drunk
+ - [https://www.cbsnews.com/news/delta-pilot-scotland-drunk-half-empty-bottle-lawrence-russell-jr](https://www.cbsnews.com/news/delta-pilot-scotland-drunk-half-empty-bottle-lawrence-russell-jr)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:28:18+00:00
+
+When Delta pilot Lawrence Russell Jr. sent his bag through an X-ray scanner, it was found to contain two bottles of Jägermeister.
+
+## Get a new iRobot Roomba robot vacuum for $170 at Amazon's Big Spring Sale today
+ - [https://www.cbsnews.com/essentials/irobot-roomba-692-robot-vacuum-deal](https://www.cbsnews.com/essentials/irobot-roomba-692-robot-vacuum-deal)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:25:21+00:00
+
+If you're in the market for a robot vacuum, you won't want to be left out on this sizzling spring Amazon discount.
+
+## Judge says Trump can appeal decision keeping Willis on Georgia 2020 election case
+ - [https://www.cbsnews.com/news/trump-can-appeal-keeping-fani-willis-on-georgia-election-case](https://www.cbsnews.com/news/trump-can-appeal-keeping-fani-willis-on-georgia-election-case)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:23:00+00:00
+
+Fulton County Superior Court Judge Scott McAfee said last week that Fani Willis could remain on the 2020 election case involving former President Donald Trump if Nathan Wade resigned.
+
+## Our favorite mop for spring cleaning is $10 off at Amazon's Big Spring Sale
+ - [https://www.cbsnews.com/essentials/o-cedar-easywring-rinseclean-mop-system-review](https://www.cbsnews.com/essentials/o-cedar-easywring-rinseclean-mop-system-review)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:17:00+00:00
+
+Enjoy a rare discount on O-Cedar's Easywring Rinseclean mop system during Amazon's Big Spring Sale.
+
+## Coach Dan Monson leads Long Beach State to NCAA Tournament after announcing departure
+ - [https://www.cbsnews.com/video/coach-dan-monson-leads-long-beach-state-to-ncaa-tournament-after-announcing-departure](https://www.cbsnews.com/video/coach-dan-monson-leads-long-beach-state-to-ncaa-tournament-after-announcing-departure)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:10:09+00:00
+
+Coach Dan Monson and Long Beach State agreed to part ways last week after 17 years. Despite this, Monson was allowed to coach in the Big West Conference Tournament, where his squad suddenly caught fire, winning the title and earning an automatic bid to the Big Dance. This means that tomorrow, Coach Monson and his team will face No. 2 seed Arizona in the first round of the NCAA Tournament.
+
+## The best cast iron skillet is just $20 at Amazon's Big Spring Sale today
+ - [https://www.cbsnews.com/essentials/lodge-cast-iron-skillet-on-sale](https://www.cbsnews.com/essentials/lodge-cast-iron-skillet-on-sale)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:09:00+00:00
+
+Save 42% on Lodge's classic cast iron skillet today during Amazon's Big Spring Sale.
+
+## Our favorite food storage containers are 38% off at Amazon's Big Spring Sale
+ - [https://www.cbsnews.com/essentials/food-storage-container-sale-amazon](https://www.cbsnews.com/essentials/food-storage-container-sale-amazon)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:06:16+00:00
+
+Tidy up your kitchen pantry for spring cleaning with these customer-loved food storage containers.
+
+## App innovates dating for people with disabilities
+ - [https://www.cbsnews.com/video/app-innovates-dating-for-people-with-disabilities](https://www.cbsnews.com/video/app-innovates-dating-for-people-with-disabilities)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T15:04:02+00:00
+
+In our "Changing the Game" series, we highlight extraordinary women who are making a difference now and for future generations. Jacqueline and Alexa Child launched their free dating app called "Dateability" in 2022. It came after Jacqueline's own struggles with dating while dealing with chronic illnesses. The app now has nearly 17,000 users with disabilities in North America.
+
+## Save hundreds with all the best deals from Amazon's Big Spring Sale
+ - [https://www.cbsnews.com/essentials/best-amazon-big-spring-sale-deals](https://www.cbsnews.com/essentials/best-amazon-big-spring-sale-deals)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T14:59:04+00:00
+
+From must-have kitchen goods to family-sized grills, nab these discounts now during the Amazon Big Spring Sale.
+
+## Congrats, you just got a "dry promotion" — no raise included
+ - [https://www.cbsnews.com/news/dry-promotion-without-salary-raise-how-to-respond](https://www.cbsnews.com/news/dry-promotion-without-salary-raise-how-to-respond)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T14:54:02+00:00
+
+A growing number of employers are upgrading workers' titles — and loading on more responsibility — without offering more money.
+
+## New York AG disputes Trump's claim that he can't secure $464 million bond
+ - [https://www.cbsnews.com/news/trump-fraud-judgment-bond-new-york-attorney-general](https://www.cbsnews.com/news/trump-fraud-judgment-bond-new-york-attorney-general)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T14:51:43+00:00
+
+A lawyer for New York attorney general disputed former President Donald Trump's claim that he can't secure more than $460 million needed to post bond and appeal his civil fraud ruling.
+
+## Chipotle plans rare 50-for-1 stock split as share price nears $3,000
+ - [https://www.cbsnews.com/news/chipotle-stock-price-split-cmg-restaurant](https://www.cbsnews.com/news/chipotle-stock-price-split-cmg-restaurant)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T14:50:00+00:00
+
+The Mexican-themed restaurant chain known for charging extra for guacamole is experiencing "record revenues, profits and growth."
+
+## Lil Jon talks journey into creating balance through meditation and music
+ - [https://www.cbsnews.com/video/lil-jon-talks-journey-into-creating-balance-through-meditation-and-music](https://www.cbsnews.com/video/lil-jon-talks-journey-into-creating-balance-through-meditation-and-music)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T14:48:48+00:00
+
+Rap icon Lil Jon is exploring a new realm of wellness with his latest album "Total Meditation." Venturing beyond his musical roots, he aims to guide fans toward a healthier lifestyle and inner tranquility.
+
+## U.K. authorities probe possible Princess Kate medical record breach
+ - [https://www.cbsnews.com/news/kate-middleton-medical-record-breach-report-princess-of-wales-health](https://www.cbsnews.com/news/kate-middleton-medical-record-breach-report-princess-of-wales-health)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T14:43:00+00:00
+
+A British regulator is look into a report that the Princess of Wales' medical records may have been breached by a hospital worker.
+
+## 2 more deputies from Mississippi "Goon Squad" to be sentenced
+ - [https://www.cbsnews.com/news/goon-squad-rankin-county-sheriff-office-daniel-opdyke-christian-dedmon-sentencing](https://www.cbsnews.com/news/goon-squad-rankin-county-sheriff-office-daniel-opdyke-christian-dedmon-sentencing)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T14:42:19+00:00
+
+Daniel Opdyke and Christian Dedmon are expected to be sentenced by U.S. District Judge Tom Lee for their role in torturing two Black men.
+
+## A deep dive into the UConn Huskies' championship culture
+ - [https://www.cbsnews.com/video/a-deep-dive-into-the-uconn-huskies-championship-culture](https://www.cbsnews.com/video/a-deep-dive-into-the-uconn-huskies-championship-culture)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T14:34:02+00:00
+
+On the eve of March Madness, the UConn Huskies stand out not just for their impressive 31-win season and Big East championship but for their pursuit of back-to-back national titles, a testament to the program's enduring culture of success.
+
+## 5 low-risk ways to earn 5% or more on your money this spring, according to experts
+ - [https://www.cbsnews.com/news/low-risk-ways-to-earn-more-on-your-money-this-spring-according-to-experts](https://www.cbsnews.com/news/low-risk-ways-to-earn-more-on-your-money-this-spring-according-to-experts)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T14:20:01+00:00
+
+There are several ways to earn relatively high returns without taking on much risk this spring. Here's what to know.
+
+## Judge rejects Apple's request to toss out lawsuit over AirTag stalking
+ - [https://www.cbsnews.com/news/apple-air-tags-stalking-judge-denies-request-to-dismiss-lawsuit](https://www.cbsnews.com/news/apple-air-tags-stalking-judge-denies-request-to-dismiss-lawsuit)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T14:02:01+00:00
+
+Class-action lawsuit accuses Apple of failing to take action to prevent stalkers from using the company's AirTag devices to track their victims.
+
+## Is gold or silver a better investment when inflation cools?
+ - [https://www.cbsnews.com/news/is-gold-or-silver-a-better-investment-when-inflation-cools](https://www.cbsnews.com/news/is-gold-or-silver-a-better-investment-when-inflation-cools)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T13:40:31+00:00
+
+Both gold and silver have unique benefits for investors. But which one is better as inflation cools?
+
+## Cruise ship stranded in 2019 narrowly avoided disaster, report says
+ - [https://www.cbsnews.com/news/viking-sky-cruise-ship-stranded-2019-norway-report-disaster](https://www.cbsnews.com/news/viking-sky-cruise-ship-stranded-2019-norway-report-disaster)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T13:30:26+00:00
+
+The Norwegian Safety Investigation Authority's investigation found the cruise ship should have never left port.
+
+## Eye Opener: Texas immigration law on hold hours after Supreme Court approval
+ - [https://www.cbsnews.com/video/eye-opener-texas-immigration-law-on-hold-hours-after-supreme-court-approval](https://www.cbsnews.com/video/eye-opener-texas-immigration-law-on-hold-hours-after-supreme-court-approval)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T13:23:01+00:00
+
+A controversial Texas immigration law is on hold hours after the Supreme Court allowed it to take effect temporarily. Also, CBS Mornings talks to Americans in Haiti desperate to evacuate as the gang violence gets worse. All that and all that matters in today’s Eye Opener.
+
+## Study reveals lead contamination in Chicago's drinking water
+ - [https://www.cbsnews.com/video/study-reveals-lead-contamination-in-chicagos-drinking-water](https://www.cbsnews.com/video/study-reveals-lead-contamination-in-chicagos-drinking-water)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T13:22:09+00:00
+
+A disturbing report has uncovered that an estimated 75% of residential blocks in Chicago experienced lead contamination in their drinking water from 2016 to 2023. CBS News investigative correspondent Anna Werner delves into the details of the study, shedding light on the scope and severity of the contamination.
+
+## Interest rates hit 23-year peak as Federal Reserve battles inflation
+ - [https://www.cbsnews.com/video/interest-rates-hit-23-year-peak-as-federal-reserve-battles-inflation](https://www.cbsnews.com/video/interest-rates-hit-23-year-peak-as-federal-reserve-battles-inflation)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T13:19:27+00:00
+
+In a move to combat rising inflation, interest rates have soared to their highest in nearly a quarter-century. The Federal Reserve is concluding a two-day policy meeting today. Their decisions could significantly impact borrowing costs for consumers.
+
+## Appeals court decision temporarily blocks Texas from implementing SB4
+ - [https://www.cbsnews.com/video/appeals-court-decision-temporarily-blocks-texas-from-implementing-sb4](https://www.cbsnews.com/video/appeals-court-decision-temporarily-blocks-texas-from-implementing-sb4)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T13:03:02+00:00
+
+An appeals court decision has temporarily blocked Texas from implementing SB4, legislation granting extensive powers to detain suspected migrants. This ruling follows the Supreme Court's decision to lift a previous stay, intensifying the political showdown between President Biden and Texas Governor Abbott.
+
+## Biden, Trump focus on securing pivotal Latino vote
+ - [https://www.cbsnews.com/video/biden-trump-focus-on-securing-pivotal-latino-vote](https://www.cbsnews.com/video/biden-trump-focus-on-securing-pivotal-latino-vote)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T13:03:02+00:00
+
+President Biden takes his campaign to Arizona, focusing on securing the pivotal Latino vote. CBS News polling suggests an advantage for Biden among Latino voters, yet the battle is far from over.
+
+## Mississippi "Goon Squad" officers convicted in racially charged assault
+ - [https://www.cbsnews.com/video/mississippi-goon-squad-officers-convicted-in-racially-charged-assault](https://www.cbsnews.com/video/mississippi-goon-squad-officers-convicted-in-racially-charged-assault)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T13:03:02+00:00
+
+Two ex-sheriff's deputies in Mississippi have been sentenced for their part in the racially charged assault of two Black men. Hunter Elward and Jeffrey Middleton, members of the self-proclaimed "Goon Squad," received sentences of approximately 20 years and 17.5 years, respectively, for their part.
+
+## Texas migrant law blocked again, appeals court to hear case
+ - [https://www.cbsnews.com/video/texas-migrant-law-blocked-again-appeals-court-to-hear-case](https://www.cbsnews.com/video/texas-migrant-law-blocked-again-appeals-court-to-hear-case)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T13:03:02+00:00
+
+Hours after the Supreme Court gave Texas officials permission to jail and prosecute migrants suspected of crossing the U.S. southern border without authorization, an appeals court late Tuesday blocked the state from enforcing the controversial immigration law, known as SB4. A hearing is scheduled for Wednesday morning over the law. CBS News' Jan Crawford and Camilo Montoya-Galvez have the latest on this developing story.
+
+## U.S. explores evacuation options amid Haiti gang violence
+ - [https://www.cbsnews.com/video/us-explores-evacuation-options-amid-haiti-gang-violence](https://www.cbsnews.com/video/us-explores-evacuation-options-amid-haiti-gang-violence)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T13:03:02+00:00
+
+As gang violence engulfs Haiti, the State Department is considering ways to evacuate American citizens caught in the turmoil.
+
+## What the future of Texas SB4 Law could look like
+ - [https://www.cbsnews.com/video/what-the-future-of-texas-sb4-law-could-look-like](https://www.cbsnews.com/video/what-the-future-of-texas-sb4-law-could-look-like)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T13:03:02+00:00
+
+CBS News immigration reporter Camilo Montoya-Galvez sheds light on the potential implications of SB4 enforcement.
+
+## Rare "Cougar's Shadow" emerges in Arizona
+ - [https://www.cbsnews.com/news/cougars-shadow-superstition-mountains-arizona-spring-equinox](https://www.cbsnews.com/news/cougars-shadow-superstition-mountains-arizona-spring-equinox)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T12:56:00+00:00
+
+The rare event occurs in the Superstition Mountains, an area known as the "home of the thunder gods."
+
+## Man pleads guilty in polygamous scheme involving underage girls
+ - [https://www.cbsnews.com/news/moroni-johnson-samuel-bateman-polygamous-sect-scheme-orchestrate-sexual-acts-underage-girls](https://www.cbsnews.com/news/moroni-johnson-samuel-bateman-polygamous-sect-scheme-orchestrate-sexual-acts-underage-girls)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T12:44:00+00:00
+
+A businessman pleaded guilty to conspiring with the leader of a small polygamous group near the Arizona-Utah border, in a sex crimes scheme involving minors.
+
+## U.S. looks at Haiti evacuation options as gang violence traps hundreds
+ - [https://www.cbsnews.com/news/haiti-news-us-citizens-evacuation-options-americans-trapped-gang-violence](https://www.cbsnews.com/news/haiti-news-us-citizens-evacuation-options-americans-trapped-gang-violence)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T12:22:56+00:00
+
+The State Department says nearly 1,000 people in Haiti have filled out a crisis form seeking help, as 10 Americans manage to flee on a charter flight.
+
+## Biden administration to invest $8.5 billion in Intel's chip plants
+ - [https://www.cbsnews.com/news/biden-intel-chips-8-5-billion-investment-arizona-ohio-new-mexico-oregon](https://www.cbsnews.com/news/biden-intel-chips-8-5-billion-investment-arizona-ohio-new-mexico-oregon)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T12:08:00+00:00
+
+The funding will go to computer chip plants in Arizona, Ohio, New Mexico and Oregon, and help support 30,000 new jobs.
+
+## Delivery driver who bit off customer's thumb pleads guilty
+ - [https://www.cbsnews.com/news/jenniffer-rocha-food-delivery-driver-bit-off-customers-thumb-pleads-guilty](https://www.cbsnews.com/news/jenniffer-rocha-food-delivery-driver-bit-off-customers-thumb-pleads-guilty)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T11:41:00+00:00
+
+Stephen Jenkinson ordered a pizza and ended up with a severed thumb that had to be replaced with part of his toe.
+
+## Georgia execution set for today would be state's first in over 4 years
+ - [https://www.cbsnews.com/news/willie-james-pye-georgia-first-execution-over-4-years](https://www.cbsnews.com/news/willie-james-pye-georgia-first-execution-over-4-years)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T11:19:00+00:00
+
+Willie James Pye, convicted of killing former girlfriend, is set to be put to death by Georgia. It would be the state's first execution in over four years.
+
+## Lawmakers seek breakthrough to provide federal protections for IVF
+ - [https://www.cbsnews.com/news/ivf-lawmakers-seek-bipartisan-breakthrough-federal-protections](https://www.cbsnews.com/news/ivf-lawmakers-seek-bipartisan-breakthrough-federal-protections)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T11:00:01+00:00
+
+Rep. Susan Wild is trying to forge a bipartisan coalition on a politically charged issue: federal legislation to offer broad protections for in vitro fertilization treatment.
+
+## Man admits eagle "killing spree" to sell body parts on black market
+ - [https://www.cbsnews.com/news/eagle-killing-spree-black-market-travis-branson-to-plead-guilty](https://www.cbsnews.com/news/eagle-killing-spree-black-market-travis-branson-to-plead-guilty)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T10:42:00+00:00
+
+Travis Branson and Simon Paul allegedly killed about 3,600 birds on the Flathead Indian Reservation and elsewhere.
+
+## At least 8 killed as chemical tanker capsizes off Japan's coast
+ - [https://www.cbsnews.com/news/japan-chemical-tanker-capsize-deaths-rescue-south-korea-vessel](https://www.cbsnews.com/news/japan-chemical-tanker-capsize-deaths-rescue-south-korea-vessel)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T09:54:56+00:00
+
+By the time Japan's coast guard reached the South Korean tanker sending out a distress call, the vessel was completely overturned.
+
+## Some Americans want a 40-year retirement. Can they afford it?
+ - [https://www.cbsnews.com/news/retirement-income-how-to-fund-40-years-of-retirement](https://www.cbsnews.com/news/retirement-income-how-to-fund-40-years-of-retirement)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T09:00:18+00:00
+
+About 1 in 8 workers think they'll retire by age 61. But the reality of saving for decades of expenses is daunting.
+
+## Unticketed passenger removed from Delta flight in Salt Lake City, police say
+ - [https://www.cbsnews.com/news/unticketed-passenger-removed-delta-flight-salt-lake-city](https://www.cbsnews.com/news/unticketed-passenger-removed-delta-flight-salt-lake-city)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T07:25:00+00:00
+
+The FBI is investigating after a man authorities say was an unticketed passenger was removed from a Delta Air Lines flight at Salt Lake City International Airport.
+
+## Shohei Ohtani targeted by bomb threat, prompting police investigation in South Korea
+ - [https://www.cbsnews.com/news/dodgers-star-shohei-ohtani-targeted-by-bomb-threat-prompting-police-investigation-in-south-korea](https://www.cbsnews.com/news/dodgers-star-shohei-ohtani-targeted-by-bomb-threat-prompting-police-investigation-in-south-korea)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T06:29:34+00:00
+
+A reported bomb threat against the Los Angeles Dodgers' newest star Shohei Ohtani prompted a massive investigation in South Korea as the team prepares for their first game of the season in the Seoul Series.
+
+## SB4 blocked again, hours after Supreme Court allowed Texas to arrest migrants
+ - [https://www.cbsnews.com/news/sb4-texas-immigration-law-blocked-again-after-supreme-court-allowed-state-to-arrest-migrants](https://www.cbsnews.com/news/sb4-texas-immigration-law-blocked-again-after-supreme-court-allowed-state-to-arrest-migrants)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T04:06:04+00:00
+
+Passed by the Texas legislature last year, SB4 empowers state officials to arrest and jail migrants suspected of entering the U.S. illegally.
+
+## 3/19: CBS Evening News
+ - [https://www.cbsnews.com/video/031924-cbs-evening-news](https://www.cbsnews.com/video/031924-cbs-evening-news)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T04:00:30+00:00
+
+Supreme Court allows controversial Texas immigration bill to go into effect; Hospital's smallest-ever premature baby finally goes home
+
+## Mega Millions jackpot nears billion dollar mark, at $977 million
+ - [https://www.cbsnews.com/news/mega-millions-jackpot-near-billion-977-million](https://www.cbsnews.com/news/mega-millions-jackpot-near-billion-977-million)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T03:04:00+00:00
+
+The Mega Millions jackpot has grown to an estimated $977 million during the 29 drawings with no winner since Dec. 8.
+
+## Winning numbers drawn for estimated $893 million Mega Millions jackpot
+ - [https://www.cbsnews.com/news/mega-millions-winning-numbers-drawn-893-million-dollar-jackpot](https://www.cbsnews.com/news/mega-millions-winning-numbers-drawn-893-million-dollar-jackpot)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T03:03:00+00:00
+
+The Mega Millions jackpot has grown to an estimated $893 million during the 28 drawings with no winner since Dec. 8.
+
+## 3/19: Prime Time with John Dickerson
+ - [https://www.cbsnews.com/video/031924-cbs-news-prime-time](https://www.cbsnews.com/video/031924-cbs-news-prime-time)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T03:00:01+00:00
+
+John Dickerson reports on Texas enforcing a controversial immigration law known as SB4, why Hong Kong's national security law is sparking concerns about freedoms, and the top climate questions experts say voters should use to evaluate the presidential candidates.
+
+## 3 juveniles, including 2 tweens, arrested for alleged Houston bank robbery
+ - [https://www.cbsnews.com/news/houston-wells-fargo-bank-robbery-juveniles-arrested-little-rascals](https://www.cbsnews.com/news/houston-wells-fargo-bank-robbery-juveniles-arrested-little-rascals)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T01:32:57+00:00
+
+"All three suspects known as the 'little rascals' are in custody," FBI Houston said on Tuesday. The suspects are three boys aged 11, 12 and 16.
+
+## 2 ex-Mississippi deputies get decadeslong sentences in racist torture case
+ - [https://www.cbsnews.com/video/ex-mississippi-deputies-decadeslong-sentences-racist-torture-case](https://www.cbsnews.com/video/ex-mississippi-deputies-decadeslong-sentences-racist-torture-case)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T01:31:00+00:00
+
+A judge on Tuesday sentenced two former Mississippi sheriff's deputies to decades in prison for the racially motivated torture of two Black men. CBS News national correspondent Errol Barnett has the details.
+
+## John Dickerson on Pence declining to endorse Trump
+ - [https://www.cbsnews.com/video/john-dickerson-on-pence-declining-to-endorse-trump](https://www.cbsnews.com/video/john-dickerson-on-pence-declining-to-endorse-trump)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T01:10:00+00:00
+
+On Sunday, former Vice President Mike Pence told Face the Nation's Margaret Brennan he was not endorsing Donald Trump's 2024 White House bid. CBS News chief political analyst John Dickerson examines the significance of the move.
+
+## Where Biden, Trump stand on climate change as U.N. sounds "red alert"
+ - [https://www.cbsnews.com/video/where-biden-trump-stand-on-climate-change](https://www.cbsnews.com/video/where-biden-trump-stand-on-climate-change)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T01:08:00+00:00
+
+2024 could be the hottest year ever, according to a new prediction from the U.N.'s weather agency. Leah Stokes, associate professor of environmental politics at the University of California, Santa Barbara, joins CBS News to discuss how the new report raises the stakes on the 2024 presidential election.
+
+## MacKenzie Scott donates $640 million to hundreds of nonprofits
+ - [https://www.cbsnews.com/news/billionaire-philanthropist-mackenzie-scott-donates-640-million-to-hundreds-of-nonprofits](https://www.cbsnews.com/news/billionaire-philanthropist-mackenzie-scott-donates-640-million-to-hundreds-of-nonprofits)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T01:07:01+00:00
+
+MacKenzie Scott, who co-founded Amazon, originally planned to grant $250 million, but expanded the awardee pool after receiving so many impressive applications.
+
+## What's next in legal fight over controversial Texas immigration law?
+ - [https://www.cbsnews.com/video/whats-next-legal-fight-texas-immigration-law](https://www.cbsnews.com/video/whats-next-legal-fight-texas-immigration-law)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T01:04:00+00:00
+
+The Supreme Court on Tuesday allowed a controversial Texas immigration law to take effect as a lower court reviews its legality. Known as SB4, the law lets state officials arrest, jail and prosecute migrants suspected of crossing the southern border illegally. CBS News immigration and politics reporter Camilo Montoya-Galvez joins to explain what happens next.
+
+## Hong Kong passes new security law to crack down on dissent
+ - [https://www.cbsnews.com/video/hong-kong-new-security-law-dissent-crackdown](https://www.cbsnews.com/video/hong-kong-new-security-law-dissent-crackdown)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T01:01:00+00:00
+
+A new law in Hong Kong will crack down on all forms of dissent. John Tai, senior adviser at Pamir Consulting, joins CBS News to discuss how the new legislation could affect freedoms for people and foreign businesses.
+
+## Mexico says it won't accept deportees from Texas as SB4 takes effect
+ - [https://www.cbsnews.com/video/mexico-says-it-wont-accept-deportees-from-texas-as-sb4-takes-effect](https://www.cbsnews.com/video/mexico-says-it-wont-accept-deportees-from-texas-as-sb4-takes-effect)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T00:53:00+00:00
+
+Texas authorities may now arrest and prosecute migrants suspected of crossing the southern border illegally after the Supreme Court allowed a state law known as SB4 to go into effect Tuesday while a lawsuit plays out in the lower courts. CBS News senior White House and political correspondent Ed O'Keefe reports.
+
+## Congress strikes funding deal, but will it pass in time to avoid shutdown?
+ - [https://www.cbsnews.com/video/congress-strikes-funding-deal-will-it-pass-in-time](https://www.cbsnews.com/video/congress-strikes-funding-deal-will-it-pass-in-time)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T00:52:00+00:00
+
+Congressional leaders have cleared a path to keep the government funded through late September, but the bill still has to pass both chambers by midnight Friday. CBS News congressional correspondent Scott MacFarlane has more.
+
+## Antony Blinken says all of Gaza needs humanitarian assistance
+ - [https://www.cbsnews.com/video/antony-blinken-says-all-of-gaza-needs-humanitarian-assistance](https://www.cbsnews.com/video/antony-blinken-says-all-of-gaza-needs-humanitarian-assistance)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T00:14:00+00:00
+
+Secretary of State Antony Blinken said Tuesday that all of the people in Gaza are facing "severe levels of acute food insecurity" and are in need of humanitarian assistance as the Israel-Hamas war continues.
+
+## How 2 companies are approaching carbon capture
+ - [https://www.cbsnews.com/news/carbon-capture-heirloom-carbon-graphyte](https://www.cbsnews.com/news/carbon-capture-heirloom-carbon-graphyte)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T00:04:22+00:00
+
+2023 was confirmed as the hottest year on record and rising temperatures led to the loss of 1 million square kilometers of arctic ice​.
+
+## U.S. drops from top 20 happiest countries list, new data shows
+ - [https://www.cbsnews.com/news/happiest-countries-world-list-2024-united-states-gallup](https://www.cbsnews.com/news/happiest-countries-world-list-2024-united-states-gallup)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-03-20T00:01:06+00:00
+
+Here's where the U.S. ranks in the 2024 World Happiness Report — and which country is on top.
+

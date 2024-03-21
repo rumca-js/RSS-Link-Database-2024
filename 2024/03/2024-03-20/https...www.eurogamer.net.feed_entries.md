@@ -1,0 +1,179 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Fall Guys support to continue, despite game assets and characters coming to Fortnite
+ - [https://www.eurogamer.net/fall-guys-support-to-continue-despite-game-assets-and-characters-coming-to-fortnite?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/fall-guys-support-to-continue-despite-game-assets-and-characters-coming-to-fortnite?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T22:30:22+00:00
+
+<img src="https://assetsio.gnwcdn.com/1111_y13jII5.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Epic Games has discussed the future of Fall Guys, following today's announcement that its game assets, animations and characters are coming to Fortnite's UEFN creative mode. 
+</p><p>
+Players will be able to make and play their own custom Fall Guys levels in Fortnite from May, <a href="https://www.eurogamer.net/state-of-unreal-everything-announced-for-unreal-engine-fortnite">Epic Games announced today during its State of Unreal presentation</a>. Lego and Rocket Racing game assets arrive in UEFN today, meanwhile.
+</p><p>
+Speaking to Eurogamer, Epic Games executive vice president Saxs Persson said the addition of Fall Guys characters and gameplay to Fortnite will benefit players by the nature of it being accessible from within Fortnite, where millions play already. That said, the original Fall Guys game will also still continue on.
+
+
+## Horizon Forbidden West: hands-on with the eagerly anticipated PC port
+ - [https://www.eurogamer.net/digitalfoundry-2024-horizon-forbidden-west-hands-on-with-the-eagerly-anticipated-pc-port?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/digitalfoundry-2024-horizon-forbidden-west-hands-on-with-the-eagerly-anticipated-pc-port?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T19:35:33+00:00
+
+<img src="https://assetsio.gnwcdn.com/q3RPdw6EIQpNvK0NVOWZDpsVfBxDptxGE869Vd6gb5s.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>One of the most technologically-advanced games on PlayStation 5 is coming imminently to PC. Horizon Forbidden West is acclaimed for its beautiful rendering and smooth performance on PS5, and we were fascinated to see how porting specialists Nixxes have adapted it to PC - and to see how accurate its (entirely reasonable) recommended specs are in-game. The studio continues to work on and refine the game up until launch, but we have had around a week with preview builds and can offer our initial impressions. </p><p>In preparing this piece, I did have time to speak with Guerrilla Games and Nixxes (and we'll be publishing an interview soon), where I was intrigued to learn that the studios are aiming for a 'console-like experience' in terms of ease-of-use and snappiness, while retaining the ability to twea
+
+## Sea of Thieves' bumper 2024 bringing windy horns, grapple guns, a roaming warship, and loads more
+ - [https://www.eurogamer.net/sea-of-thieves-bumper-2024-bringing-windy-horns-grapple-guns-a-roaming-warship-and-loads-more?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/sea-of-thieves-bumper-2024-bringing-windy-horns-grapple-guns-a-roaming-warship-and-loads-more?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T18:39:22+00:00
+
+<img src="https://assetsio.gnwcdn.com/sea-of-thieves-2024-grab.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Sea of Thieves is celebrating its sixth anniversary today, 20th March, and to celebrate, Rare has given an unprecedented look at the year ahead for its multiplayer pirate game, with 2024 bringing the likes of windy horns, roaming warships, and portable grappling guns that let you whizz around the place with giddy abandon.
+</p><p>
+ALl this new stuff starts spewing forth with the arrival of Season 12 on 30th April, which marks the first time Sea of Thieves has received new weapons since the game's launch back in 2018. First up, there's the new double-barrelled flintlock, designed for shorter-range combat, which is capable of rapidly firing two shots individually before a reload is required. Alternatively, both shots can be fired simultaenously for a more powerful attack.
+</p><p>
+That's joined by the new throwing knife, 
+
+## State of Unreal: Everything announced for Unreal Engine, Fortnite
+ - [https://www.eurogamer.net/state-of-unreal-everything-announced-for-unreal-engine-fortnite?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/state-of-unreal-everything-announced-for-unreal-engine-fortnite?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T17:49:23+00:00
+
+<img src="https://assetsio.gnwcdn.com/1_iinjpfM.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Epic Games has shown off the future of its powerful Unreal Engine, including a first glimpse at Amy Hennig's Captain America and Black Panther game, and closer integration of the eye-catching MetaHumans tech into UEN, during this year's annual State of Unreal broadcast by the company. 
+</p><p>
+The show's highlight was <a href="https://www.eurogamer.net/heres-a-jaw-dropping-look-at-amy-hennigs-new-captain-america-and-black-panther-game">its peek at Marvel 1943: Rise of Hydra, Hennig's highly-anticipated World War 2 superhero game</a>, which is built in Unreal Engine and shows off its latest features - including improved Nanite tesselation to make high-quality 3D geometry more memory efficient, and photo-realistic character animation using MetaHumans.
+</p><p>
+A preview build of Unreal Engine 5.4 launches today, ahead of its full relea
+
+## Here's a jaw-dropping look at Amy Hennig's new Captain America and Black Panther game
+ - [https://www.eurogamer.net/heres-a-jaw-dropping-look-at-amy-hennigs-new-captain-america-and-black-panther-game?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/heres-a-jaw-dropping-look-at-amy-hennigs-new-captain-america-and-black-panther-game?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T17:05:14+00:00
+
+<img src="https://assetsio.gnwcdn.com/Captain-America-in-Amy-Hennig-Marvel-game.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+At today's State of Unreal livestream, we were given a look at the upcoming Captain America and Black Panther game from Amy Hennig, or to give its official, newly-announced name, Marvel 1943: Rise of Hydra.
+</p><p>
+The trailer itself is quite the spectacle, something Hennig said was all possible thanks to the Unreal engine. The game uses Epic's MetaHuman Creator, and hoo boy it's impressive. The detail on Marvel 1943: Rise of Hydra's characters is really quite remarkable. Speaking following the trailer, Hennig herself called the detail in each character "insane".
+</p><p>
+"Working with the MetaHuman process, we have been able to honour our amazing actors' performances and faithfully transform them into equally powerful digital performances," Hennig said. You can check out the latest trailer for Marvel 
+
+## Remedy blames revenue drop on €7.2m cost to reboot Project Vanguard
+ - [https://www.eurogamer.net/remedy-blames-revenue-drop-on-72m-cost-to-reboot-project-vanguard?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/remedy-blames-revenue-drop-on-72m-cost-to-reboot-project-vanguard?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T16:30:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Alan-Wake-2-header_7hLX9Tq.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Alan Wake and Control developer Remedy Entertainment has seen its revenue drop by 22.2 percent for the year.</p><p>In the studio's recently published <a href="https://investors.remedygames.com/announcements/remedy-entertainment-plc-financial-statements-release-january-december-2023-challenging-year-results-in-two-established-franchises-after-the-successful-alan-wake-2-launch/">financial results</a>, Remedy said its revenue fell to &euro;33.9m, posting an operating loss of &euro;28.6m. This is even with the launch of Alan Wake 2 in October, which is <a href="https://www.eurogamer.net/alan-wake-2-fastest-selling-remedy-game-but-yet-to-turn-a-profit">yet to recuperate its development and marketing costs</a>.</p><p>Remedy CEO Tero Virtala said this decline was due to "increased investments" in the studio's games, as well
+
+## Dragon's Dogma 2 review - endless discoveries paired with limitless potential
+ - [https://www.eurogamer.net/dragons-dogma-2-review?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/dragons-dogma-2-review?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T15:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Dragons-Dogma-2_Bjlxze2.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+
+As I launched Dragon's Dogma 2 for the first time, I told myself that I should go into it with a more critical eye than I usually would. I think I was afraid that my overzealous love for the original might cloud my judgement. Then I blinked, and 10 hours had flown by. It was suddenly 3 a.m. on a Tuesday, and I'd been so engrossed in Dragon's Dogma 2 that I'd regressed back into the gaming schedule of my teenage years. I was now acutely aware of how tired I was, so I told myself I would save at the next available opportunity and go to bed. As I approached a nearby campsite, I spotted a troll and a dragon duking it out in the distance. I joined Team Troll, the clear underdog, and subsequently spent another 20 minutes avenging his death against the dragon. After a hard won fight, I decided it couldn't hurt to explore the
+
+## The Callisto Protocol gets a roguelike spin-off
+ - [https://www.eurogamer.net/the-callisto-protocol-gets-a-roguelike-spin-off?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/the-callisto-protocol-gets-a-roguelike-spin-off?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T14:51:46+00:00
+
+<img src="https://assetsio.gnwcdn.com/callisto-protocol-project-birdseye.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The Callisto Protocol developer Striking Distance Studios has announced a spin-off to its sci-fi horror game is in the works.</p><p>Currently codenamed Project Birdseye, the game is a "fast-action roguelike experience" set within the same universe as The Callisto Protocol.</p><p>Specifically, it's set in Black Iron Prison where players will be tasked with fighting their way out of the prison through levels filled with biophage monsters. It looks much brighter than The Callisto Protocol, thanks to colours other than grey or black and the comic book artstyle.</p> <p><a href="https://www.eurogamer.net/the-callisto-protocol-gets-a-roguelike-spin-off?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Obsidian espionage RPG Alpha Protocol returns to PC, following 2019 licensing drama
+ - [https://www.eurogamer.net/obsidian-espionage-rpg-alpha-protocol-returns-to-pc-following-2019-licensing-drama?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/obsidian-espionage-rpg-alpha-protocol-returns-to-pc-following-2019-licensing-drama?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T14:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/pr_facebook_post-(1).png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Obsidian's espionage RPG Alpha Protocol is today making a grand return to PC on the GOG store, 14 years after its debut.
+</p><p>
+The re-release is a collaboration between Obsidian, GOG and Sega, after the game was <a href="https://www.eurogamer.net/alpha-protocol-pulled-from-steam-as-sega-publishing-rights-expire">pulled from Steam in 2019</a> due to expired music rights.
+
+</p><p>
+Now the game will return DRM free with its licensed soundtrack and performance improvements compatible with modern PCs. Below is its original trailer.
+</p> <p><a href="https://www.eurogamer.net/obsidian-espionage-rpg-alpha-protocol-returns-to-pc-following-2019-licensing-drama?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Red Dead Redemption 2 gets first proper update in 18 months
+ - [https://www.eurogamer.net/red-dead-redemption-2-gets-first-proper-update-in-18-months?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/red-dead-redemption-2-gets-first-proper-update-in-18-months?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T13:51:17+00:00
+
+<img src="https://assetsio.gnwcdn.com/Red-Dead-Online-%E2%80%93-Community-Update-%E2%80%93-7-7-2022-%E2%80%93-Image-1.webp?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Rockstar Games has issued a fresh update for Red Dead Redemption 2 - the game's first meaningful patch in 18 months. But, to the disappointment of fans, there's sadly no new content and no sign of any visual upgrades for players on newer console hardware.
+</p><p>
+Title Update 1.32 is available to download for PC, PlayStation 4 and Xbox One versions of the game, and includes "general fixes" for Red Dead Online plus a list of general bugs that have been squashed. Voice chat now defaults to off, <a href="https://support.rockstargames.com/articles/27571099657235/Red-Dead-Redemption-2-Title-Update-1-32-Notes-PS4-Xbox-One-PC">patch notes</a> state. On PC, there's now support for HDR10+ Gaming on compatible displays.
+</p><p>
+Rockstar's previous major patch for the game 
+
+## EA, Jagex, and Miniclip broke loot box advertising rules
+ - [https://www.eurogamer.net/ea-jagex-and-miniclip-broke-loot-box-advertising-rules?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/ea-jagex-and-miniclip-broke-loot-box-advertising-rules?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T12:52:42+00:00
+
+<img src="https://assetsio.gnwcdn.com/ea-jagex-miniclip.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The UK's Advertising Standards Authority has upheld complaints against EA, Jagex, and Miniclip for failing to disclose the presence of loot boxes in their adverts.</p><p>The complaints were filed to the ASA by researcher Leon Y. Xiao, who has previously conducted studies on the <a href="https://www.eurogamer.net/new-study-claims-belgiums-loot-box-law-isnt-being-enforced">effectiveness of Belgium's loot box ban</a> and the <a href="https://www.eurogamer.net/study-finds-rating-board-loot-box-warnings-inconsistently-applied">consistency of loot box warnings</a> on games.</p><p>Xiao's complaints challenged ads by EA, Jagex and Miniclip for being "misleading because they omitted material information" - the presence of loot boxes - in paid promotions on Facebook. Current <a href="https://www.eurogamer.net/asa-issues-new-guidance-to
+
+## Star Wars: Battlefront Classic Collection gets first patch following troubled launch
+ - [https://www.eurogamer.net/star-wars-battlefront-classic-collection-gets-first-patch-following-troubled-launch?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/star-wars-battlefront-classic-collection-gets-first-patch-following-troubled-launch?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T12:16:07+00:00
+
+<img src="https://assetsio.gnwcdn.com/ss_549296499d26bcfbd4f7f8e94ecb53b72b9f3446.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Star Wars: Battlefront Classic Collection did not have a good debut. On its release, players were met with a myriad of bugs and limited servers for each platform, resulting in many asking for a refund. The collection currently sits with an "Overwhelmingly Negative" review average on Steam.</p><p><a href="https://www.eurogamer.net/players-criticise-star-wars-battlefront-classic-collection-for-bugs-server-woes-at-launch">Aspyr acknowledged the poor launch state</a> soon after the collection was released, stating it had "experienced critical errors", and would work to address the many issues. Now, it is starting to make good on that promise, with the first patch for its Star Wars: Battlefront Classic Collection.</p><p>This patch aims to address a multitude of issues across multiplayer, audio and visuals
+
+## Destiny 2 reveals a horde mode
+ - [https://www.eurogamer.net/destiny-2-reveals-a-horde-mode?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/destiny-2-reveals-a-horde-mode?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T11:39:27+00:00
+
+<img src="https://assetsio.gnwcdn.com/uhk4f8jpjbUPdTUo3FKWBa.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Destiny 2 developer Bungie has announced Onslaught, a new horde mode for the game. The offering is set to arrive for all players on 9th April, as a core component of Destiny 2's upcoming Into the Light update.
+</p><p>
+Onslaught is a three-person wave-based activity set on a selection of familiar but slightly-tweaked Crucible maps, where you and your allies must defend a war asset from taking too much damage. The aim is to protect the asset and keep each other alive for as long as possible.
+</p><p>
+Between waves, you can quickly acquire and place down a series of defensive options, including turrets, tripwires, and - brilliantly - a decoy Sweeper Bot, which will happily soak up bullets while tidying away debris.
+</p> <p><a href="https://www.eurogamer.net/destiny-2-reveals-a-horde-mode?utm_source=feed&amp;utm_medium=rss&a
+
+## Apex Legends developer ups in-game security after tournament hack
+ - [https://www.eurogamer.net/apex-legends-developer-ups-in-game-security-after-tournament-hack?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/apex-legends-developer-ups-in-game-security-after-tournament-hack?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T11:23:31+00:00
+
+<img src="https://assetsio.gnwcdn.com/Apex-Legends_hbXOK5n.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Developer Respawn has addressed the recent Apex Legends hacks.  
+</p><p>
+Earlier this week, a hacking incident occurred during the Apex Legends Global Series that resulted in the tournament being halted for safety concerns. Following reports of this hack, <a href="https://www.eurogamer.net/apex-legends-tournament-hack-sparks-wider-worries-on-safety-of-easy-anti-cheat">Easy Anti-Cheat released a statement</a> stating it was "confident" its software was not the issue, after some had expressed concern. 
+</p><p>
+Now, in a statement shared today, Respawn has confirmed players were hacked during the tournament, adding it will be releasing a "series of updates" which will add extra protection to the game.
+</p> <p><a href="https://www.eurogamer.net/apex-legends-developer-ups-in-game-security-after-tournament-hack?utm_source=feed&
+
+## Stardew Valley breaks Steam record as players flock back following new update
+ - [https://www.eurogamer.net/stardew-valley-breaks-steam-record-as-players-flock-back-following-new-update?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/stardew-valley-breaks-steam-record-as-players-flock-back-following-new-update?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T11:19:26+00:00
+
+<img src="https://assetsio.gnwcdn.com/F1kwPzGWYAA_4El.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The 1.6 update for Stardew Valley has caused a massive spike of interest, resulting in a new record Steam concurrent player count.
+</p><p>
+The previous peak was set back in January 2021 with around 95,000 concurrent players, according to <a href="https://steamdb.info/app/413150/charts/#all">SteamDB</a>. Now that's leapt to over 146,000 players.
+</p><p>
+It's also now inside the Steam store top 10 top sellers, aided by a 20 percent discount - it's available for just &pound;8.79.
+</p> <p><a href="https://www.eurogamer.net/stardew-valley-breaks-steam-record-as-players-flock-back-following-new-update?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Five of the Best: Road trips
+ - [https://www.eurogamer.net/five-of-the-best-road-trips?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/five-of-the-best-road-trips?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T10:47:44+00:00
+
+<img src="https://assetsio.gnwcdn.com/final_fantasy_15_ff15_car.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><em>Five of the Best is a weekly series for </em><a href="https://www.eurogamer.net/subscribe"><em>supporters of Eurogamer</em></a><em>. It's a series that highlights some of the features in games that are often overlooked. It's also about having your say, so don't be shy, use the comments below and join in!</em></p><p><em>Oh and if you want to read more, you can - you can find </em><a href="https://www.eurogamer.net/topics/five-of-the-best"><em>our entire Five of the Best archive</em></a><em> elsewhere on the site.</em></p><p>I went on a road trip to Scotland a couple of years ago, during the pandemic, and it was wonderful. We drove from the bottom of the British Isles to almost the top of them, taking in Edinburgh and the Isle of Mull and the spectacular Scottish Highlands along the way. I don't think I'd done a pro
+
+## Bungie's Marathon reboot gets new director as part of creative leadership shakeup
+ - [https://www.eurogamer.net/bungies-marathon-reboot-gets-new-director-as-part-of-creative-leadership-shakeup?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/bungies-marathon-reboot-gets-new-director-as-part-of-creative-leadership-shakeup?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-20T00:27:22+00:00
+
+<img src="https://assetsio.gnwcdn.com/marathon-bungie-art-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Bungie is reportedly in the midst of a creative leadership shakeup that has resulted in the studio replacing game directors on its <a href="https://www.eurogamer.net/bungie-returns-to-its-roots-with-a-pvp-twist-on-classic-fps-series-marathon">PvP reimagining of classic 90s shooter series Marathon</a>, with former Valorant game director Joe Ziegler now confirmed to be in the role.
+</p><p>
+Bungie designer Christopher Barrett was previously leading the project - described as a "sci-fi PvP extraction shooter" - but when reports began circling that he was no longer in the role, Joe Ziegler took to social media to <a href="https://x.com/Ziegler_Dev/status/1770144111518941682?s=20">confirm</a> he was now in the game director's chair for Marathon.
+</p><p>
+"For the last nine Months I've been working on Marathon as the game dir
+

@@ -1,0 +1,58 @@
+# Source:Tabletop Gaming News – TGN, URL:https://www.tabletopgamingnews.com/feed, language:en-US
+
+## LEGO Ideas Unveils Dungeons & Dragons Set to Mark 50 Years of D&D
+ - [https://www.tabletopgamingnews.com/lego-ideas-unveils-dungeons-dragons-set-to-mark-50-years-of-dd](https://www.tabletopgamingnews.com/lego-ideas-unveils-dungeons-dragons-set-to-mark-50-years-of-dd)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-20T22:55:24+00:00
+
+<a href="https://www.tabletopgamingnews.com/lego-ideas-unveils-dungeons-dragons-set-to-mark-50-years-of-dd/" rel="nofollow" title="LEGO Ideas Unveils Dungeons &#038; Dragons Set to Mark 50 Years of D&#038;D"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="800" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/21348.webp" style="display: block; margin: auto; margin-bottom: 5px;" width="673" /></a>LEGO has introduced a new set through its LEGO Ideas platform, the DUNGEONS &#38; DRAGONS: Red Dragon’s Tale, in celebration of the 50th anniversary of Dungeons &#38; Dragons. The unveiling is set to be accompanied by a special event on April 6th, aiming to highlight the collaborative and imaginative spirit shared between LEGO and D&#38;D &#8230;
+
+## “Six Forms” Surpasses Kickstarter Goal, Introducing Chess-Inspired Trading Card Gameplay
+ - [https://www.tabletopgamingnews.com/six-forms-surpasses-kickstarter-goal-introducing-chess-inspired-trading-card-gameplay](https://www.tabletopgamingnews.com/six-forms-surpasses-kickstarter-goal-introducing-chess-inspired-trading-card-gameplay)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-20T22:42:03+00:00
+
+<a href="https://www.tabletopgamingnews.com/six-forms-surpasses-kickstarter-goal-introducing-chess-inspired-trading-card-gameplay/" rel="nofollow" title="&#8220;Six Forms&#8221; Surpasses Kickstarter Goal, Introducing Chess-Inspired Trading Card Gameplay"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="477" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/Screenshot-2024-03-20-at-23-40-37-Six-Forms-–-A-Chess-Style-TCG-for-Competitive-Players.png" style="display: block; margin: auto; margin-bottom: 5px;" width="718" /></a>The Kickstarter campaign for &#8220;Six Forms,&#8221; a new trading card game that merges chess-like strategic elements with high-fantasy art, has successfully exceeded its funding goal. The campaign has raised US$ 18,724, surpassing its initial goal of US$ 11,992, with 77 backers and 26 days remaining until its conclusion on April 16. This innovative game is &#8230;
+
+## Portal Games Launches “Printing Press” Board Game
+ - [https://www.tabletopgamingnews.com/portal-games-launches-printing-press-board-game](https://www.tabletopgamingnews.com/portal-games-launches-printing-press-board-game)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-20T22:26:56+00:00
+
+<a href="https://www.tabletopgamingnews.com/portal-games-launches-printing-press-board-game/" rel="nofollow" title="Portal Games Launches &#8220;Printing Press&#8221; Board Game"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/Printing_Press_released_1080x1080-1024x1024-1.webp" style="display: block; margin: auto; margin-bottom: 5px;" width="1024" /></a>Portal Games has announced the release of their new board game, &#8220;Printing Press.&#8221; This game invites players to immerse themselves in the competitive world of 16th-century publishing, aiming to establish the most prestigious print shop of the Renaissance era. &#8220;Printing Press&#8221; is designed to be a family-friendly game that requires players to excel in drafting &#8230;
+
+## Mystic Punks: A New Kickstarter Campaign Conjures Up Paranormal TTRPG Action
+ - [https://www.tabletopgamingnews.com/mystic-punks-a-new-kickstarter-campaign-conjures-up-paranormal-ttrpg-action](https://www.tabletopgamingnews.com/mystic-punks-a-new-kickstarter-campaign-conjures-up-paranormal-ttrpg-action)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-20T22:13:02+00:00
+
+<a href="https://www.tabletopgamingnews.com/mystic-punks-a-new-kickstarter-campaign-conjures-up-paranormal-ttrpg-action/" rel="nofollow" title="Mystic Punks: A New Kickstarter Campaign Conjures Up Paranormal TTRPG Action"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="552" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/Screenshot-2024-03-20-at-23-11-41-Mystic-Punks-Tabletop-Roleplaying-Game.png" style="display: block; margin: auto; margin-bottom: 5px;" width="982" /></a>Exalted Funeral has initiated a Kickstarter campaign for &#8220;Mystic Punks,&#8221; a new tabletop role-playing game (TTRPG). The game invites players to tackle paranormal threats in a unique setting. With a funding goal of US$ 45,000, the campaign has secured over US$ 15,000 from 234 backers, and there are 30 days remaining to make a pledge. &#8230;
+
+## Port Arthur: A Strategy Game Set During the Russo-Japanese War Hits Stores March 28th
+ - [https://www.tabletopgamingnews.com/port-arthur-a-strategy-game-set-during-the-russo-japanese-war-hits-stores-march-28th](https://www.tabletopgamingnews.com/port-arthur-a-strategy-game-set-during-the-russo-japanese-war-hits-stores-march-28th)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-20T22:05:20+00:00
+
+<a href="https://www.tabletopgamingnews.com/port-arthur-a-strategy-game-set-during-the-russo-japanese-war-hits-stores-march-28th/" rel="nofollow" title="Port Arthur: A Strategy Game Set During the Russo-Japanese War Hits Stores March 28th"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/800x600-nuts_publishing-22082-port_arthur-mockup.jpg" style="display: block; margin: auto; margin-bottom: 5px;" width="800" /></a>The board game world is set to welcome a new addition as Port Arthur, developed by Nuts Publishing and designed by Yasushi Nakaguro — known for 300: Earth &#38; Water — begins shipping to stores. The game is scheduled to be available in US stores starting March 28th. Port Arthur is a strategy game that &#8230;
+
+## “Adventures in the Household” Ignites Kickstarter with Tiny yet Grand RPG Adventures
+ - [https://www.tabletopgamingnews.com/adventures-in-the-household-ignites-kickstarter-with-tiny-yet-grand-rpg-adventures](https://www.tabletopgamingnews.com/adventures-in-the-household-ignites-kickstarter-with-tiny-yet-grand-rpg-adventures)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-20T21:57:55+00:00
+
+<a href="https://www.tabletopgamingnews.com/adventures-in-the-household-ignites-kickstarter-with-tiny-yet-grand-rpg-adventures/" rel="nofollow" title="&#8220;Adventures in the Household&#8221; Ignites Kickstarter with Tiny yet Grand RPG Adventures"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="616" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/Screenshot-2024-03-20-at-22-55-09-Adventures-in-the-Household-5E.png" style="display: block; margin: auto; margin-bottom: 5px;" width="693" /></a>The Kickstarter campaign for &#8220;Adventures in the Household,&#8221; a new supplement for the 5E role-playing game system, has successfully exceeded its funding goal, securing $53,406 against an initial target of $10,869, with 420 backers contributing. The campaign is set to conclude on April 4, indicating strong interest with 15 days left for additional support. Developed &#8230;
+
+## Achtung Panzer! Introduces Players to Tank Warfare
+ - [https://www.tabletopgamingnews.com/achtung-panzer-introduces-players-to-tank-warfare](https://www.tabletopgamingnews.com/achtung-panzer-introduces-players-to-tank-warfare)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-20T21:44:14+00:00
+
+<a href="https://www.tabletopgamingnews.com/achtung-panzer-introduces-players-to-tank-warfare/" rel="nofollow" title="Achtung Panzer! Introduces Players to Tank Warfare"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1153" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/9781915319739_Achtung-Panzer_001-108_1st-561-edited-2048x1153-1.jpg" style="display: block; margin: auto; margin-bottom: 5px;" width="2048" /></a>In a detailed Q&#38;A session, game designers Mike Bradford and Roger Gerrish recently provided insights into their latest creation, Achtung Panzer!, a tabletop game centered around World War II tank battles. The session was aimed at addressing queries from the gaming community. The designers shared that the duration of a standard game ranges from one &#8230;
+
+## “Requiem: Downfall of Magic” Surpasses Kickstarter Goal: A Cooperative Dark Fantasy Set in the Luther Era, Invites Players to Thwart Necromantic Cultists
+ - [https://www.tabletopgamingnews.com/requiem-downfall-of-magic-surpasses-kickstarter-goal-a-cooperative-dark-fantasy-set-in-the-luther-era-invites-players-to-thwart-necromantic-cultists](https://www.tabletopgamingnews.com/requiem-downfall-of-magic-surpasses-kickstarter-goal-a-cooperative-dark-fantasy-set-in-the-luther-era-invites-players-to-thwart-necromantic-cultists)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-03-20T21:37:11+00:00
+
+<a href="https://www.tabletopgamingnews.com/requiem-downfall-of-magic-surpasses-kickstarter-goal-a-cooperative-dark-fantasy-set-in-the-luther-era-invites-players-to-thwart-necromantic-cultists/" rel="nofollow" title="&#8220;Requiem: Downfall of Magic&#8221; Surpasses Kickstarter Goal: A Cooperative Dark Fantasy Set in the Luther Era, Invites Players to Thwart Necromantic Cultists"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="575" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/03/Screenshot-2024-03-20-at-22-34-17-Requiem-Downfall-of-Magic.png" style="display: block; margin: auto; margin-bottom: 5px;" width="757" /></a>The Kickstarter campaign for &#8220;Requiem: Downfall of Magic,&#8221; a cooperative dark fantasy adventure game, has successfully exceeded its funding goal. Originally seeking $108,699, the campaign has collected $187,801 from 1,274 backers with 16 days remaining until it concludes on April 5. Set in the year 1530 in Wittenbe
+
