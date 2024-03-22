@@ -1,0 +1,215 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Hackers Found a Way To Open Any of 3 Million Hotel Keycard Locks In Seconds
+ - [https://yro.slashdot.org/story/24/03/21/2133211/hackers-found-a-way-to-open-any-of-3-million-hotel-keycard-locks-in-seconds?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/21/2133211/hackers-found-a-way-to-open-any-of-3-million-hotel-keycard-locks-in-seconds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T23:50:35.479205+00:00
+
+An anonymous reader quotes a report from Wired: When thousands of security researchers descend on Las Vegas every August for what's come to be known as "hacker summer camp," the back-to-back Black Hat and Defcon hacker conferences, it's a given that some of them will experiment with hacking the infrastructure of Vegas itself, the city's elaborate array of casino and hospitality technology. But at one private event in 2022, a select group of researchers were actually invited to hack a Vegas hotel room, competing in a suite crowded with their laptops and cans of Red Bull to find digital vulnerabilities in every one of the room's gadgets, from its TV to its bedside VoIP phone. One team of hackers spent those days focused on the lock on the room's door, perhaps its most sensitive piece of technology of all. Now, more than a year and a half later, they're finally bringing to light the results of that work: a technique they discovered that would allow an intruder to open any of mil
+
+## Broadcom Is 'Holding the Sector To Ransom' With VMware License Changes, Claims CISPE
+ - [https://tech.slashdot.org/story/24/03/21/2043244/broadcom-is-holding-the-sector-to-ransom-with-vmware-license-changes-claims-cispe?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/21/2043244/broadcom-is-holding-the-sector-to-ransom-with-vmware-license-changes-claims-cispe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T22:45:27.610581+00:00
+
+couchslug shares a report from ITPro: A European cloud trade body has called for an investigation into Broadcom amid concerns over changes it has made to VMware licensing structures. The Cloud Infrastructure Service Providers in Europe (CISPE) consortium called on regulatory and legislative bodies across Europe to investigate the changes Broadcom has made to the VMware operating model, which it says will "decimate" the region's cloud infrastructure. "CISPE calls upon regulators, legislators and courts across Europe to swiftly scrutinize the actions of Broadcom in unilaterally canceling license terms for essential virtualization software," the trade body said in a statement. Since acquiring VMware in November 2023, Broadcom has embarked on a comprehensive overhaul of software licensing at the firm, which has drawn widespread criticism from customers. Broadcom stated it would continue to support customers under a perpetual licensing agreement for the period defined in the contr
+
+## Threads Opens Beta To 'Fediverse Sharing'
+ - [https://tech.slashdot.org/story/24/03/21/2124216/threads-opens-beta-to-fediverse-sharing?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/21/2124216/threads-opens-beta-to-fediverse-sharing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T22:45:26.121923+00:00
+
+In a Threads post today, Meta CEO Mark Zuckerberg announced that the Twitter rival is rolling out a beta of its fediverse integration in the U.S., Canada, and Japan. With the feature enabled, Threads users will be able to cross-post and view likes from other federated platforms, like Mastodon. The Verge reports: Threads previewed its fediverse integration earlier this week during the FediForum. As outlined on its support page, Meta says that you must have a public account to turn on fediverse sharing, which will allow users on other servers to "search for and follow your profile, view your posts, interact with your content, and share your content to anyone on or off their server."
+ 
+There are still a few limitations, though. The beta currently doesn't let users view replies and follows from the fediverse, for example. Meta also can't promise that when you delete a federated post on Threads, it will also get deleted on the other platforms it was shared on.<p><div class="share_
+
+## India 'Screwed Up': How the US Lobbied New Delhi To Reverse Laptop Rules
+ - [https://tech.slashdot.org/story/24/03/21/199222/india-screwed-up-how-the-us-lobbied-new-delhi-to-reverse-laptop-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/21/199222/india-screwed-up-how-the-us-lobbied-new-delhi-to-reverse-laptop-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T21:42:03.589213+00:00
+
+India reversed a laptop licensing policy after behind-the-scenes lobbying by U.S. officials, who however remain concerned about New Delhi's compliance with WTO obligations and new rules it may issue, according to U.S. trade officials and government emails seen by Reuters. From the report: In August, India imposed rules requiring firms like Apple, Dell and HP to obtain licences for all shipments of imported laptops, tablets, personal computers and servers, raising fears that the process could slow down sales. But New Delhi rolled back the policy within weeks, saying it will only monitor the imports and decide on next steps a year later. 
+
+The U.S. government emails -- obtained under a U.S. open records request -- underline the level of alarm the Indian curbs caused in Washington, and how the U.S. scored a rare lobbying win by persuading Prime Minister Narendra Modi's usually inflexible government to reverse policy. U.S. officials have often been concerned about India's sudden 
+
+## UN Adopts First Global Artificial Intelligence Resolution
+ - [https://yro.slashdot.org/story/24/03/21/2034257/un-adopts-first-global-artificial-intelligence-resolution?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/21/2034257/un-adopts-first-global-artificial-intelligence-resolution?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T21:42:01.684878+00:00
+
+An anonymous reader quotes a report from Reuters: The United Nations General Assembly on Thursday unanimously adopted the first global resolution on artificial intelligence to encourage protecting personal data, monitoring AI for risks, and safeguarding human rights, U.S. officials said. The nonbinding resolution, proposed by the United States and co-sponsored by China and 121 other nations, took three months to negotiate and also advocates strengthening privacy policies, the officials said, briefing reporters before the resolution's passage. "We're sailing in choppy waters with the fast-changing technology, which means that its more important than ever to steer by the light of our values," said one of the senior administration officials, describing the resolution as the "first-ever truly global consensus document on AI."
+ 
+"The improper or malicious design, development, deployment and use of artificial intelligence systems ... pose risks that could ... undercut the protectio
+
+## Epic, Spotify, Others Back DOJ Lawsuit Against Apple
+ - [https://yro.slashdot.org/story/24/03/21/1812222/epic-spotify-others-back-doj-lawsuit-against-apple?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/21/1812222/epic-spotify-others-back-doj-lawsuit-against-apple?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T20:32:00.349570+00:00
+
+The Coalition for App Fairness, an industry body that represents Epic, Spotify, Match Group and Proton among others, issued the following statement following the U.S. announcing it had sued Apple: "With today's announcement, the Department of Justice is taking a strong stand against Apple's stranglehold over the mobile app ecosystem, which stifles competition and hurts American consumers and developers alike. The DOJ complaint details Apple's long history of illegal conduct -- abusing their App Store guidelines and developer agreements to increase prices, extract exorbitant fees, degrade user experiences, and choke off competition. The DOJ joins regulators around the world, who have recognized the many harms of Apple's abusive behavior and are working to address it. As this case unfolds in the coming years more must be done now to end the anticompetitive practices of all mobile app gatekeepers. It remains imperative that Congress pass bipartisan legislation, like the Open App
+
+## Motorola Spoiled a Good Budget Phone With Bloatware
+ - [https://tech.slashdot.org/story/24/03/21/1830255/motorola-spoiled-a-good-budget-phone-with-bloatware?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/21/1830255/motorola-spoiled-a-good-budget-phone-with-bloatware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T20:31:58.202417+00:00
+
+Motorola's 2024 Moto G Power impresses with its soft-touch back and contoured edges at a $300 price point, despite an underwhelming camera and LCD panel. Except one thing: the bloatware. The Verge: Scroll through the app drawer and you'll see a handful of automatically downloaded "folders." They are not folders; they are apps. I first encountered them on last year's Moto G Stylus 5G, and I hate them very much. There are three main offenders -- Shopping, Entertainment, and GamesHub -- and each of these apps acts as a little hub. Icons for apps that you have legitimately downloaded will appear in the corresponding "folder." You'll also find tons of other suggested apps to download -- pages and pages of them! Apps as far as the eye can see! 
+
+Dismissing the suggested apps section replaces it with a "Discover" section. In the shopping app, it invites you to "Unlock the power of shopping" with links to buy stuff like kitschy Easter decor from TJ Maxx. Mercifully, there's a toggle 
+
+## Cloud Software Group Snubs GPL Obligations, Say Critics
+ - [https://tech.slashdot.org/story/24/03/21/190215/cloud-software-group-snubs-gpl-obligations-say-critics?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/21/190215/cloud-software-group-snubs-gpl-obligations-say-critics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T20:31:56.253064+00:00
+
+An anonymous reader shares a report: Even if you decide to stop offering free editions, you don't get to stop providing the source code to FOSS, users of JasperReports Server are complaining. Cloud Software Group -- the post-merger offspring of Citrix and Tibco -- has decided to withdraw the community edition of its JasperReports Server. Now all you can get is the commercial edition, with a 30-day free trial. Effectively, this seems like a similar tactic to Red Hat's unpopular changes to the way that the RHEL source code is distributed. Some of the JasperReports source code is still on Github, but not everything. The JasperSoft community website has the grumbling of unhappy users -- as does Reddit. 
+
+One user on the community website commented: "Are you aware Jasper Server CE was under the Affero GPL, and you can't delete everything? "You cannot just change the license of the previous versions and call it a day. I mean, we the users, have the right to fork it using the same l
+
+## Google is Bringing Satellite Messaging To Android 15
+ - [https://tech.slashdot.org/story/24/03/21/193238/google-is-bringing-satellite-messaging-to-android-15?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/21/193238/google-is-bringing-satellite-messaging-to-android-15?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T20:31:54.508118+00:00
+
+Google's second developer preview for Android 15 has arrived, bringing long-awaited support for satellite connectivity alongside several improvements to contactless payments, multi-language recognition, volume consistency, and interaction with PDFs via apps. From a report: These developer-focused betas are a proving ground for features that will likely make it into the final public release scheduled for later this year. According to Google, public beta releases should be available to test between April and July. The latest developer preview addresses some nuisances and security concerns experienced by Android users, such as making apps more aware of why some services might be unavailable when devices are using a satellite connection. This is also the first official confirmation that Android 15 will come with satellite messaging, with Google's press release saying that the new preview includes support for "preloaded RCS applications to use satellite connectivity for sending an
+
+## Unpatchable Vulnerability in Apple Chip Leaks Secret Encryption Keys
+ - [https://apple.slashdot.org/story/24/03/21/1736222/unpatchable-vulnerability-in-apple-chip-leaks-secret-encryption-keys?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/03/21/1736222/unpatchable-vulnerability-in-apple-chip-leaks-secret-encryption-keys?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T18:22:57.480438+00:00
+
+A newly discovered vulnerability baked into Apple's M-series of chips allows attackers to extract secret keys from Macs when they perform widely used cryptographic operations, academic researchers have revealed in a paper published Thursday. From a report: The flaw -- a side channel allowing end-to-end key extractions when Apple chips run implementations of widely used cryptographic protocols -- can't be patched directly because it stems from the microarchitectural design of the silicon itself. Instead, it can only be mitigated by building defenses into third-party cryptographic software that could drastically degrade M-series performance when executing cryptographic operations, particularly on the earlier M1 and M2 generations. The vulnerability can be exploited when the targeted cryptographic operation and the malicious application with normal user system privileges run on the same CPU cluster. 
+
+The threat resides in the chips' data memory-dependent prefetcher, a hardware 
+
+## Microsoft Unveils Surface Pro 10 and Surface Laptop 6 for Business, Its First AI PCs
+ - [https://tech.slashdot.org/story/24/03/21/1623242/microsoft-unveils-surface-pro-10-and-surface-laptop-6-for-business-its-first-ai-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/21/1623242/microsoft-unveils-surface-pro-10-and-surface-laptop-6-for-business-its-first-ai-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T17:17:26.801388+00:00
+
+Microsoft has announced two new Surface devices, the Surface Pro 10 for Business and Surface Laptop 6 for Business, both featuring Intel's latest Core Ultra processors, a dedicated Neural Processing Unit (NPU), and a new Copilot key for AI-powered features in Windows 11. 
+
+The devices, which will start shipping to commercial customers on April 9th, have been designed exclusively for businesses and will not be sold directly to consumers. The Surface Pro 10 for Business, starting at $1,199, offers a choice between Core Ultra 5 135U and Core Ultra 7 165U options, with up to 64GB of RAM and a 256GB Gen4 SSD. It also features an improved 13-inch display with an antireflective coating and a 1440p front-facing camera with a 114-degree field of view. 
+
+The Surface Laptop 6 for Business, also starting at $1,199, is powered by Intel's Core Ultra H-series chips and is available with up to 64GB of RAM and a 1TB Gen4 SSD. The 15-inch model includes two USB-C Thunderbolt 4 ports, while the
+
+## First Human Transplant of a Genetically Modified Pig Kidney Performed
+ - [https://science.slashdot.org/story/24/03/21/1459204/first-human-transplant-of-a-genetically-modified-pig-kidney-performed?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/03/21/1459204/first-human-transplant-of-a-genetically-modified-pig-kidney-performed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T16:11:50.431248+00:00
+
+For the first time, surgeons have transplanted a kidney from a genetically modified pig into a living person, doctors in Boston said Thursday. From a report: Richard Slayman, 62, of Weymouth, Mass., who is suffering from end-stage kidney disease, received the organ Saturday in a four-hour procedure, Massachusetts General Hospital announced. He is recovering well and is expected to be discharged soon, the hospital said. "I saw it not only as a way to help me, but a way to provide hope for the thousands of people who need a transplant to survive," Slayman said in a statement released by the hospital. 
+
+The procedure is the latest development in a fast-moving race to create genetically modified pigs to provide kidneys, livers, hearts and other organs to help alleviate the shortage of organs for people who need transplants. "Our hope is that this transplant approach will offer a lifeline to millions of patients worldwide who are suffering from kidney failure," said Dr. Tatsuo Kaw
+
+## Universities Have a Computer-Science Problem
+ - [https://news.slashdot.org/story/24/03/21/1536234/universities-have-a-computer-science-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/21/1536234/universities-have-a-computer-science-problem?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T16:11:48.908768+00:00
+
+theodp writes: "Last year," Ian Bogost writes in Universities Have a Computer-Science Problem, "18 percent of Stanford University seniors graduated with a degree in computer science, more than double the proportion of just a decade earlier. Over the same period at MIT, that rate went up from 23 percent to 42 percent. These increases are common everywhere: The average number of undergraduate CS majors at universities in the U.S. and Canada tripled in the decade after 2005, and it keeps growing. Students' interest in CS is intellectual -- culture moves through computation these days -- but it is also professional. Young people hope to access the wealth, power, and influence of the technology sector. That ambition has created both enormous administrative strain and a competition for prestige." 
+
+"Another approach has gained in popularity," Bogost notes. "Universities are consolidating the formal study of CS into a new administrative structure: the college of computing. [...] Whe
+
+## US Sues Apple, Alleges Tech Giant Exploits Illegal Monopoly
+ - [https://news.slashdot.org/story/24/03/21/1325225/us-sues-apple-alleges-tech-giant-exploits-illegal-monopoly?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/21/1325225/us-sues-apple-alleges-tech-giant-exploits-illegal-monopoly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T15:06:31.681240+00:00
+
+The Justice Department sued Apple on Thursday, alleging the tech giant blocked software developers and mobile gaming companies from offering better options on the iPhone, resulting in higher prices for consumers. WSJ: The government's antitrust complaint, filed in a New Jersey federal court, alleges Apple used its control of the iPhone to prevent competitors from offering innovative services such as digital wallets and limited the functionality of hardware products that compete with Apple's own devices. The suit also claims that Apple makes it difficult for users to switch to devices that don't use Apple's operating system, such as Android smartphones. 
+
+"Consumers should not have to pay higher prices because companies violate the antitrust laws," Attorney General Merrick Garland said in a statement. Apple said it plans to vigorously defend against the lawsuit. "This lawsuit threatens who we are and the principles that set Apple products apart in fiercely competitive markets,
+
+## Superconductor Scientist Engaged in Research Misconduct, Probe Finds
+ - [https://science.slashdot.org/story/24/03/21/1443224/superconductor-scientist-engaged-in-research-misconduct-probe-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/03/21/1443224/superconductor-scientist-engaged-in-research-misconduct-probe-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T15:06:30.209742+00:00
+
+A physicist who shot to fame with claims of the discovery of a room-temperature superconductor engaged in research misconduct, a committee tapped to examine his work has concluded after a monthslong investigation. From a report: Ranga Dias, a physicist at the University of Rochester in New York, has had at least four papers he co-wrote, including three involving superconductivity, retracted in the past 18 months by the journals that published them. A committee of outside experts tapped by the university "identified data-reliability concerns in those papers," a Rochester spokesperson told The Wall Street Journal. "The committee concluded, in accordance with university policy and federal regulations, that Dias engaged in research misconduct," the spokesperson said in an emailed statement. 
+
+The work in the papers was funded by the National Science Foundation, the Energy Department, and the Gordon and Betty Moore Foundation, a private organization that funds scientific research.
+
+## Reddit Prices IPO At $34 Per Share, the Top of the Range
+ - [https://slashdot.org/story/24/03/21/0430238/reddit-prices-ipo-at-34-per-share-the-top-of-the-range?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/03/21/0430238/reddit-prices-ipo-at-34-per-share-the-top-of-the-range?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T14:00:36.699400+00:00
+
+An anonymous reader writes: Reddit priced its stock on Wednesday at $34 a share, the top of the anticipated range, a signal that investors are excited about the company's IPO on Thursday. The social media giant raised nearly $500 million in the offering. Excluding employee stock options, the 19-year old company's valuation will start at $5.4 billion, a far cry from its last private market value of $10 billion, set in August 2021, the top of the last tech markets boom. The stock, which is the most anticipated offering of the year so far, will debut on New York Stock Exchange on Thursday with the ticker symbol "RDDT."<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Reddit+Prices+IPO+At+%2434+Per+Share%2C+the+Top+of+the+Range%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F03%2F21%2F0430238%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.fa
+
+## Justice Department To Sue Apple For Antitrust Violations
+ - [https://news.slashdot.org/story/24/03/21/1325225/justice-department-to-sue-apple-for-antitrust-violations?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/21/1325225/justice-department-to-sue-apple-for-antitrust-violations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T14:00:35.209086+00:00
+
+The Justice Department is poised to sue Apple as soon as Thursday, accusing the world's second most valuable tech company of violating antitrust laws by blocking rivals from accessing hardware and software features of its iPhone. From a report: The suit, which is expected to be filed in federal court, according to people familiar with the matter, escalates the Biden administration's antitrust fights against most of the biggest US technology giants. The Justice Department is already suing Alphabet's Google for monopolization, while the Federal Trade Commission is pursuing antitrust cases against Meta and Amazon. The coming case will mark the third time that the Justice Department has sued Apple for antitrust violations in the past 14 years, but it is the first case accusing the iPhone maker of illegally maintaining its dominant position.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Justice+Department+To+Sue+Apple+For+Antitrust+Viola
+
+## GNOME 46 Released
+ - [https://tech.slashdot.org/story/24/03/21/0426230/gnome-46-released?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/21/0426230/gnome-46-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T10:44:34.926443+00:00
+
+prisoninmate shares a report from 9to5Linux: Dubbed "Kathmandu" after the host city of the GNOME.Asia 2023 conference in Kathmandu, Nepal, the GNOME 46 desktop environment is here to introduce major new features like headless remote desktop support that lets you connect to your GNOME system remotely without there being an existing session. While experimental, Variable Refresh Rate (VRR) support is another major new feature in GNOME 46, which will allow you to change the variable refresh rate of your monitor from the GNOME Settings app in the Displays section. Talking about GNOME Settings, the GNOME 46 release brings a new System panel that incorporates the Region, Language, Date, Time, Users, Remote Desktop, and About panels, as well as new Secure Shell settings. Check out the release notes and the official release video here.
+ 
+GNOME 46 will be available shortly in many distributions, such as Fedora 40 and Ubuntu 24.04. You can try it today by looking for a beta release here
+
+## Neuralink Shows First Brain-Chip Patient Playing Online Chess Using His Mind
+ - [https://science.slashdot.org/story/24/03/21/0419206/neuralink-shows-first-brain-chip-patient-playing-online-chess-using-his-mind?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/03/21/0419206/neuralink-shows-first-brain-chip-patient-playing-online-chess-using-his-mind?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T07:28:53.876602+00:00
+
+Neuralink, the brain-chip startup founded by Elon Musk, showed its first patient using his mind to play online chess. Reuters reports: Noland Arbaugh, the 29-year-old patient who was paralyzed below the shoulder after a diving accident, played chess on his laptop and moved the cursor using the Neuralink device. The implant seeks to enable people to control a computer cursor or keyboard using only their thoughts. Arbaugh had received an implant from the company in January and could control a computer mouse using his thoughts, Musk said last month.
+ 
+"The surgery was super easy," Arbaugh said in the video streamed on Musk's social media platform X, referring to the implant procedure. "I literally was released from the hospital a day later. I have no cognitive impairments. I had basically given up playing that game," Arbaugh said, referring to the game Civilization VI, "you all (Neuralink) gave me the ability to do that again and played for 8 hours straight."
+ 
+Elaborating on hi
+
+## Formula 1 Chief Appalled To Find Team Using Excel To Manage 20,000 Car Parts
+ - [https://tech.slashdot.org/story/24/03/20/2142229/formula-1-chief-appalled-to-find-team-using-excel-to-manage-20000-car-parts?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/20/2142229/formula-1-chief-appalled-to-find-team-using-excel-to-manage-20000-car-parts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T04:11:42.627377+00:00
+
+An anonymous reader quotes a report from Ars Technica: Starting in early 2023, Williams team principal James Vowles and chief technical officer Pat Fry started reworking the F1 team's systems for designing and building its car. It would be painful, but the pain would keep the team from falling even further behind. As they started figuring out new processes and systems, they encountered what they considered a core issue: Microsoft Excel. The Williams car build workbook, with roughly 20,000 individual parts, was "a joke," Vowles recently told The Race. "Impossible to navigate and impossible to update." This colossal Excel file lacked information on how much each of those parts cost and the time it took to produce them, along with whether the parts were already on order. Prioritizing one car section over another, from manufacture through inspection, was impossible, Vowles suggested.
+ 
+"When you start tracking now hundreds of thousands of components through your organization movi
+
+## EPA Sets Strict New Limits On Tailpipe Emissions That Could Boost EV Sector
+ - [https://tech.slashdot.org/story/24/03/20/2116247/epa-sets-strict-new-limits-on-tailpipe-emissions-that-could-boost-ev-sector?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/03/20/2116247/epa-sets-strict-new-limits-on-tailpipe-emissions-that-could-boost-ev-sector?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T03:06:46.909216+00:00
+
+sinij shares a report from the New York Post: The Biden administration finalized its crackdown on gas cars Wednesday, with the Environmental Protection Agency announcing drastic climate regulations meant to ensure more than two-thirds of passenger cars and light trucks sold by 2032 are electric or hybrid vehicles. The EPA rule imposes strict limits on tailpipe pollution, limits the agency says can be met if 56% of new vehicles sold in the US are electric by eight years from now, along with 13% that are plug-in hybrids or other partially electric cars. That would be a huge increase over current EV sales, which rose to 7.6% of new vehicle sales last year, up from 5.8% in 2022. [...] The new rule slows implementation of stricter pollution standards from 2027 through 2029, before ramping up to near the level the EPA preferred by 2032. "Personal car ownership is about to get A LOT more expensive as it will have to carry the costs of deep discounts to entice EV sales," adds Slashdo
+
+## Woman With $2.5 Billion In Bitcoin Convicted of Money Laundering
+ - [https://yro.slashdot.org/story/24/03/20/2110212/woman-with-25-billion-in-bitcoin-convicted-of-money-laundering?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/20/2110212/woman-with-25-billion-in-bitcoin-convicted-of-money-laundering?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T02:01:59.892505+00:00
+
+mrspoonsi shares a report from the BBC: A former takeaway worker found with Bitcoin worth more than $2.5 billion has been convicted at Southwark Crown Court of a crime linked to money laundering. Jian Wen, 42, from Hendon in north London, was involved in converting the currency into assets including multi-million-pound houses and jewelry. On Monday she was convicted of entering into or becoming concerned in a money laundering arrangement. The Met said the seizure is the largest of its kind in the UK.
+ 
+Although Wen was living in a flat above a Chinese restaurant in Leeds when she became involved in the criminal activity, her new lifestyle saw her move into a six-bedroom house in north London in 2017 which was rented for more than $21,000 per month. She posed as an employee of an international jewelry business and moved her son to the UK to attend private school, the Crown Prosecution Service (CPS) said. That same year, Wen tried to buy a string of expensive houses in London, 
+
+## Epic Games Store To Launch On iOS and Android This Year, Will Take 12% Cut of Sales In EU
+ - [https://games.slashdot.org/story/24/03/20/2059237/epic-games-store-to-launch-on-ios-and-android-this-year-will-take-12-cut-of-sales-in-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/03/20/2059237/epic-games-store-to-launch-on-ios-and-android-this-year-will-take-12-cut-of-sales-in-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T02:01:58.334792+00:00
+
+During its State of Unreal presentation at GDC 2024 today, Epic Games confirmed its plans to bring the Epic Games Store to iOS and Android before the end of the year. The company also shared more details about its app marketplace for iOS in the European Union. As reported by 9to5Mac, Epic Games said it will take a 12% commission from sales. From the report: Epic says the terms for developers will be the same via the Epic Games Store on mobile as they are on the Epic Games Store on PC. As such, the company will take a 12% commission on all sales through the Epic Games Store. The revenue share is 100% for the developer during the first six months on the Epic Games Store. The Epic Games Store will feature Epic's own content, including Fortnite, alongside a selection of third-party partners. The company says it will share additional details in the lead-up to the launch later this year.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Epic+
+
+## macOS Sonoma 14.4 Bug 'Destroys Saved Versions In iCloud Drive'
+ - [https://apple.slashdot.org/story/24/03/20/2035233/macos-sonoma-144-bug-destroys-saved-versions-in-icloud-drive?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/03/20/2035233/macos-sonoma-144-bug-destroys-saved-versions-in-icloud-drive?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T00:56:37.984153+00:00
+
+The macOS Sonoma 14.4 update introduces a bug affecting iCloud Drive's versioning system, where users with "Optimize Mac Storage" enabled can lose all previous versions of a file removed from local storage. MacRumors reports: Versions are normally created automatically when users save files using apps that work with the version system in macOS. According to The Eclectic Light Company's Howard Oakley, users running macOS 14.4 that have "Optimize Mac Storage" enabled should be aware that they are at risk of losing all previously saved versions of a file if they opt to remove it from iCloud Drive local storage: "In previous versions of macOS, when a file is evicted from local storage in iCloud Drive [using the Remove Download option in the right-click contextual menu], all its saved versions have been preserved. Download that file again from iCloud Drive, and versions saved on that Mac (but not other Macs or devices) have remained fully accessible. Do that in 14.4, and all previ
+
+## India Will Fact-Check Online Posts About Government Matters
+ - [https://yro.slashdot.org/story/24/03/20/2044240/india-will-fact-check-online-posts-about-government-matters?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/20/2044240/india-will-fact-check-online-posts-about-government-matters?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-03-21T00:56:36.054441+00:00
+
+An anonymous reader quotes a report from TechCrunch: In India, a government-run agency will now monitor and undertake fact-checking for government related matters on social media even as tech giants expressed grave concerns about it last year. The Ministry of Electronics and IT on Wednesday wrote in a gazette notification that it is amending the IT Rules 2021 to cement into law the proposal to make the fact checking unit of Press Information Bureau the dedicated arbiter of truth for New Delhi matters. Tech companies as well as other firms that serve more than 5 million users in India will be required to "make reasonable efforts" to not display, store, transmit or otherwise share information that deceives or misleads users about matters pertaining to the government, the IT ministry said. India's move comes just weeks ahead of the general elections in the country. Relying on a government agency such as the Press Information Bureau as the sole source to fact-check government bus
+

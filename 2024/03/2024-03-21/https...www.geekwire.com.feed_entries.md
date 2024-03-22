@@ -1,0 +1,44 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## Bezos Earth Fund puts $60M to alternative meat research — and a Seattle founder has suggestions
+ - [https://www.geekwire.com/2024/bezos-earth-fund-puts-60m-to-alternative-meat-research-and-a-seattle-founder-has-suggestions](https://www.geekwire.com/2024/bezos-earth-fund-puts-60m-to-alternative-meat-research-and-a-seattle-founder-has-suggestions)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-03-21T22:16:10+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="406" src="https://cdn.geekwire.com/wp-content/uploads/2024/03/copy_of_christiewithrebylshero_720.jpg" width="720" /><br />As Amazon founder Jeff Bezos funnels $60 million into support for alternative meats, Rebellyous Foods founder Christie Lagally has some suggestions, one entrepreneur to another. “We have the recipes for a lot of products that are of very high quality,” Lagally said of the sector in general. “We need to find tools that take it to a scale that is outside of the scope of the kitchen.” The Bezos Earth Fund recently shared that over the next five years it will create university centers to research ways to improve environmentally friendly alternatives to the protein that comes from cows, pigs,&#8230; <a href="https://www.geekwire.com/2024/bezos-earth-fund-puts-60m-to-alternative-meat-research-and-a-seattle-founder-has-suggestions/">Read More</a>
+
+## Microsoft announces new Surface PCs for businesses, with AI integration
+ - [https://www.geekwire.com/2024/microsoft-announces-new-surface-pcs-for-businesses-with-ai-integration](https://www.geekwire.com/2024/microsoft-announces-new-surface-pcs-for-businesses-with-ai-integration)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-03-21T16:01:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="520" src="https://cdn.geekwire.com/wp-content/uploads/2024/03/msft-surface-1260x520.jpg" width="1260" /><br />Microsoft unveiled what it described as its first AI-powered Surface PCs for businesses, the Surface Pro 10 and Surface Laptop 6, with Intel Core Ultra processors and Neural Processing Units that the company says will power advanced artificial intelligence applications and experiences. The devices, set for availability in April, were announced Thursday morning as part of a virtual event. It&#8217;s the latest move by Microsoft to make its Copilot AI tools a standard for businesses, part of its broader competition with other enterprise tech providers including Google, Salesforce, Amazon, and others. As part of the event, the company detailed ongoing&#8230; <a href="https://www.geekwire.com/2024/microsoft-announces-new-surface-pcs-for-businesses-with-ai-integration/">Read More</a>
+
+## DOJ suit over Apple iPhone cites failures of Amazon Fire Phone and Microsoft Windows Phone
+ - [https://www.geekwire.com/2024/doj-suit-over-apple-iphone-references-failures-of-amazon-fire-phone-and-microsoft-windows-phone](https://www.geekwire.com/2024/doj-suit-over-apple-iphone-references-failures-of-amazon-fire-phone-and-microsoft-windows-phone)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-03-21T15:49:47+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="679" src="https://cdn.geekwire.com/wp-content/uploads/2014/06/bezosfirephone-1024x679.jpg" width="1024" /><br />The U.S. Justice Department&#8217;s landmark antitrust lawsuit Thursday morning against Apple, which accuses the company of illegally maintaining an iPhone smartphone monopoly, reads at times like a technology history lesson. That&#8217;s due in part to repeated references and comparisons in the suit to the DOJ&#8217;s prior antitrust case against Microsoft over its Windows monopoly in the late 1990s. But the suit also cites as evidence the inability of many other tech giants, including Microsoft and Amazon, to compete against Apple in smartphones. Here&#8217;s the veritable smartphone graveyard laid out in one portion of the suit: Many prominent, well-financed companies have&#8230; <a href="https://www.geekwire.com/2024/doj-suit-over-apple-iphone-references-failures-of-amazon-fire-phone-and-microsoft-
+
+## Washington state will use drones to restore areas affected by graffiti
+ - [https://www.geekwire.com/2024/washington-state-will-use-drones-to-restore-areas-affected-by-graffiti](https://www.geekwire.com/2024/washington-state-will-use-drones-to-restore-areas-affected-by-graffiti)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-03-21T15:15:35+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1007" src="https://cdn.geekwire.com/wp-content/uploads/2024/03/51856225462_b79aa36dbf_k-1260x1007.jpg" width="1260" /><br />Drone technology is already being used in Washington state to help fight wildfires and aid police. Now state transportation officials will use drones to address graffiti vandalism. Gov. Jay Inslee last week signed House Bill 1989, which directs the Washington State Department of Transportation to operate a pilot program that will test &#8220;spray drone technology&#8221; to cover up existing graffiti. WSDOT said last year it had spent $1.4 million over a two-year span on graffiti removal and expected to spend more in the future. It cited one specific example of graffiti removal on overhead highway signs that cost the state&#8230; <a href="https://www.geekwire.com/2024/washington-state-will-use-drones-to-restore-areas-affected-by-graffiti/">Read More</a>
+
+## Analysis: Microsoft’s big hires foreshadow bold new move into consumer AI
+ - [https://www.geekwire.com/2024/microsofts-bold-move-into-consumer-ai](https://www.geekwire.com/2024/microsofts-bold-move-into-consumer-ai)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-03-21T15:00:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2019/05/20190506_Microsoft_Build_411-1260x840.jpg" width="1260" /><br />Microsoft is a powerhouse in the enterprise and has always recognized that the consumer market is important for the company&#8217;s growth, but it has often struggled to win the right level of consumer mindshare. With the company’s latest bet on world-class talent from Inflection.ai, Microsoft is setting its sights on taking its success with Copilots to the AI native apps that will dominate in the coming years. Microsoft has pursued innovation and acquisition as routes into the consumer market in the past. Several years ago, we saw Microsoft flirt briefly with acquiring TikTok, the popular social media app that has&#8230; <a href="https://www.geekwire.com/2024/microsofts-bold-move-into-consumer-ai/">Read More</a>
+
+## Brinc launches unified ‘LiveOps’ software for public safety drones, incident coordination, and evidence
+ - [https://www.geekwire.com/2024/brinc-launches-unified-liveops-software-for-public-safety-drones-incident-coordination-and-evidence](https://www.geekwire.com/2024/brinc-launches-unified-liveops-software-for-public-safety-drones-incident-coordination-and-evidence)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-03-21T13:40:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="781" src="https://cdn.geekwire.com/wp-content/uploads/2024/03/LiveOps-Multiple-Monitors.png" width="1022" /><br />Public safety technology company Brinc announced a new software platform called LiveOps for managing and monitoring drone fleets, with live streaming, real-time maps, communications, and evidence storage. The browser-based software expands the Seattle-based company&#8217;s scope beyond drone pilots to crisis negotiations specialists, command staff, and other members of emergency response teams. For example, LiveOps offers independent feeds for each team member, separate from what a drone operator is seeing during an incident. With the inclusion of evidence storage and management in the software, Brinc is edging further onto the turf of Axon, the maker of body cameras and Tasers, whose&#8230; <a href="https://www.geekwire.com/2024/brinc-launches-unified-liveops-software-for-public-safety-drones-incide
+
