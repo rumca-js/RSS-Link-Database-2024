@@ -1,0 +1,163 @@
+# Source:Npr, URL:https://feeds.npr.org/1001/rss.xml, language:en-US
+
+## House appropriations bill would increase border enforcement capacity
+ - [https://npr.org/2024/03/22/1240273427/immigration-migrants-house-budget-border-patrol-ice-enforcement](https://npr.org/2024/03/22/1240273427/immigration-migrants-house-budget-border-patrol-ice-enforcement)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T22:16:49+00:00
+
+The budget approved by the Republican-led House includes over $9.5 billion for Immigration and Customs Enforcement.
+
+## A Visit to a Town Under Fire in Eastern Ukraine
+ - [https://npr.org/2024/03/22/1196979965/a-visit-to-a-town-under-fire-in-eastern-ukraine](https://npr.org/2024/03/22/1196979965/a-visit-to-a-town-under-fire-in-eastern-ukraine)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T20:32:54+00:00
+
+We go to a town in Eastern Ukraine that is close to the front lines and under constant fire. Russians are advancing in Eastern Ukraine as Ukrainian forces run low on ammunition and weapons.
+
+## A State Department official warns Israel of 'major' reputational damage in Gaza war
+ - [https://npr.org/2024/03/22/1240148688/israel-gaza-war-state-department-memo-damage-reputation](https://npr.org/2024/03/22/1240148688/israel-gaza-war-state-department-memo-damage-reputation)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T19:20:52+00:00
+
+Assistant Secretary of State Bill Russo told Israeli officials last week the Gaza war is damaging Israel's global reputation, potentially lasting a generation, according to a readout obtained by NPR.
+
+## New Indiana law requires professors to promote 'intellectual diversity' to keep tenure
+ - [https://npr.org/2024/03/22/1239534856/new-indiana-law-requires-professors-to-promote-intellectual-diversity-to-keep-te](https://npr.org/2024/03/22/1239534856/new-indiana-law-requires-professors-to-promote-intellectual-diversity-to-keep-te)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T19:08:16+00:00
+
+A new Indiana law requires professors to promote "intellectual diversity" to receive tenure. Critics worry the measure will dissuade academics from staying in the state.
+
+## Deaths and injuries are reported after an attack on a concert hall outside Moscow
+ - [https://npr.org/2024/03/22/1240246465/russia-moscow-shooting-attack-fire-concert-hall](https://npr.org/2024/03/22/1240246465/russia-moscow-shooting-attack-fire-concert-hall)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T19:00:00+00:00
+
+Reports from Moscow say two to five gunmen attacked a concert hall outside the capital. A fire broke out after the attack. According to Tass news agency, some people remain trapped in the building.
+
+## An American reporter offers a first-hand account of Japan's toughest crime bosses
+ - [https://npr.org/2024/03/22/1239879553/an-american-reporter-offers-a-first-hand-account-of-japans-toughest-crime-bosses](https://npr.org/2024/03/22/1239879553/an-american-reporter-offers-a-first-hand-account-of-japans-toughest-crime-bosses)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T17:24:51+00:00
+
+Reporter Jake Adelstein's memoir about covering the organized crime beat in Japan is the basis of the Max series <em>Tokyo Vice</em>, now in its second season. <em>Originally broadcast Nov. 9, 2009. </em>
+
+## FBI letter tells Alaska Airlines passengers they are 'a possible victim of a crime'
+ - [https://npr.org/2024/03/22/1240167313/boeing-alaska-airlines-door-plug-fbi](https://npr.org/2024/03/22/1240167313/boeing-alaska-airlines-door-plug-fbi)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T17:18:35+00:00
+
+"We want answers, accountability, and safer planes" — and a federal investigation will help, an attorney representing passengers who were on the plane that lost its door plug tells NPR.
+
+## Medicare plans can now cover Wegovy for patients at risk of heart disease
+ - [https://npr.org/sections/health-shots/2024/03/22/1240170094/wegovy-medicare-part-d-weight-loss-drugs](https://npr.org/sections/health-shots/2024/03/22/1240170094/wegovy-medicare-part-d-weight-loss-drugs)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T15:37:28+00:00
+
+This change follows the recent FDA approval of the weight-loss drug for preventing heart attack and stroke in people with overweight or obesity.
+
+## Buying or selling a home? How the real estate fee structure impacts you
+ - [https://npr.org/2024/03/22/1239486107/realtor-fee-commission-homes-for-sale](https://npr.org/2024/03/22/1239486107/realtor-fee-commission-homes-for-sale)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T13:38:37+00:00
+
+A settlement by the National Realtors Association promises to change the way real estate agents are compensated. It could spell an end to 6% commissions, which are higher than people pay elsewhere.
+
+## Blinken meets with Netanyahu in Israel as Gaza cease-fire resolution fails at the U.N.
+ - [https://npr.org/2024/03/22/1240143220/blinken-netanyahu-israel-visit-un-gaza-ceasefire](https://npr.org/2024/03/22/1240143220/blinken-netanyahu-israel-visit-un-gaza-ceasefire)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T13:28:17+00:00
+
+Blinken's sixth time in the region since the Oct. 7 Hamas attacks on Israel comes as cease-fire and hostage release talks continue in Doha, Qatar, and Russia and China veto U.S. cease-fire resolution.
+
+## The ultimate green burial? Human composting lets you replenish the earth after death
+ - [https://npr.org/sections/health-shots/2024/03/22/1240080757/the-ultimate-green-burial-human-composting-lets-you-replenish-the-earth-after-de](https://npr.org/sections/health-shots/2024/03/22/1240080757/the-ultimate-green-burial-human-composting-lets-you-replenish-the-earth-after-de)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T13:14:41+00:00
+
+Only seven states have legalized human composting as a burial practice. That's why 29 percent of the bodies brought to Recompose, a composting facility in Seattle, come from out of state.
+
+## Trump is on the verge of a windfall of billions of dollars. Here are 3 things to know
+ - [https://npr.org/2024/03/22/1240116446/trump-truth-social-dwac-stock-listing-legal-troubles](https://npr.org/2024/03/22/1240116446/trump-truth-social-dwac-stock-listing-legal-troubles)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T12:35:03+00:00
+
+The company behind Trump's Truth Social is on the verge of going public. It could earn the former president billions of dollars at a time when he faces mounting legal problems.
+
+## Blinken visits Israel amid tensions over Rafah invasion plan; DOJ sues Apple
+ - [https://npr.org/2024/03/22/1240130912/up-first-newsletter-blinken-israel-tensions-defense-department-apple](https://npr.org/2024/03/22/1240130912/up-first-newsletter-blinken-israel-tensions-defense-department-apple)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T12:08:09+00:00
+
+Secretary of State Antony Blinken makes his sixth visit to Israel since the war in Gaza began. The DOJ is suing Apple, alleging the tech giant is abusing its power as a monopoly.
+
+## A push is underway for voters to make Florida the next state to expand Medicaid
+ - [https://npr.org/2024/03/22/1240124290/medicaid-florida-health-care-ballot-voters-expansion-obamacare](https://npr.org/2024/03/22/1240124290/medicaid-florida-health-care-ballot-voters-expansion-obamacare)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T11:27:57+00:00
+
+For a decade, Florida lawmakers have debated whether to expand Medicaid under the Affordable Care Act. Advocates are trying to circumvent the legislature and take the issue directly to voters.
+
+## Russia attacks Ukrainian electrical power facilities, causing widespread outages
+ - [https://npr.org/2024/03/22/1240115385/russia-attacks-ukrainian-electrical-power-facilities-causing-widespread-outages](https://npr.org/2024/03/22/1240115385/russia-attacks-ukrainian-electrical-power-facilities-causing-widespread-outages)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T09:50:22+00:00
+
+The Ukrainian energy minister said the nighttime drone and rocket attacks were "the largest attack on the Ukrainian energy sector in recent times." At least three people were killed, officials said.
+
+## Tennessee becomes the first state to protect musicians and other artists against AI
+ - [https://npr.org/2024/03/22/1240114159/tennessee-protect-musicians-artists-ai](https://npr.org/2024/03/22/1240114159/tennessee-protect-musicians-artists-ai)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T09:50:17+00:00
+
+The Ensuring Likeness Voice and Image Security Act, or ELVIS Act, is an updated version of the state's right of publicity law. The new legislation includes AI-specific protections.
+
+## As the DOJ investigates Boeing, crash victims' families wonder why it's taken so long
+ - [https://npr.org/2024/03/22/1239993830/boeing-737-max-9-door-plug-blowout-doj-investigation-alaska-airlines](https://npr.org/2024/03/22/1239993830/boeing-737-max-9-door-plug-blowout-doj-investigation-alaska-airlines)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T09:00:48+00:00
+
+Boeing made big promises to the Justice Department to avoid prosecution after two fatal crashes of 737 Max jets. That deal now faces heightened scrutiny after a door plug blew off a jet in midair.
+
+## Despite church prohibitions, Catholics still choose IVF to have children
+ - [https://npr.org/2024/03/22/1239879602/despite-church-prohibitions-catholics-still-choose-ivf-to-have-children](https://npr.org/2024/03/22/1239879602/despite-church-prohibitions-catholics-still-choose-ivf-to-have-children)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T09:00:48+00:00
+
+Religions hold a variety of views toward IVF. Catholicism has one of the strongest negative judgments against the practice. Yet many in the church still use the procedure in order to have children.
+
+## This week's quiz has happiness and happy dogs. You're welcome
+ - [https://npr.org/2024/03/22/1239843374/quiz-cigarettes-shohei-ohtani-kate-middleton-elon-musk-banksy](https://npr.org/2024/03/22/1239843374/quiz-cigarettes-shohei-ohtani-kate-middleton-elon-musk-banksy)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T09:00:48+00:00
+
+Last year's most popular dog is still top, and the happiest nation is still the most contented. March is still madness and shutdowns still loom.
+
+## Supporters of arrested Indian opposition politician protest in New Delhi
+ - [https://npr.org/2024/03/22/1240108362/supporters-of-arrested-indian-opposition-politician-protest-in-new-delhi](https://npr.org/2024/03/22/1240108362/supporters-of-arrested-indian-opposition-politician-protest-in-new-delhi)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T07:51:07+00:00
+
+Arvind Kejriwal, New Delhi's top elected official, was arrested Thursday amid accusations his party and ministers accepted bribes. Opposition parties say it's part of a crackdown by Modi's government.
+
+## Most animals don't go through menopause. So why do these whales?
+ - [https://npr.org/2024/03/22/1198909539/menopause-humans-whales-evolution](https://npr.org/2024/03/22/1198909539/menopause-humans-whales-evolution)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T07:00:59+00:00
+
+Across the animal kingdom, menopause is something of an evolutionary blip. We humans are one of the few animals to experience it. But <a href="https://psychology.exeter.ac.uk/people/profile/index.php?web_id=samuel_ellis">Sam Ellis</a>, a researcher in animal behavior, argues that this isn't so surprising. "The best way to propagate your genes is to get as many offspring as possible into the next generation," says Ellis. "The best way to do <em>that</em> is almost always to reproduce your whole life." <br /><br />So how did menopause evolve? The answer may lie in whales. Ellis and his team at the University of Exeter recently <a href="https://www.nature.com/articles/s41586-024-07159-9">published a study</a> in the journal <em>Nature</em> that studies the evolution of menopause in the undersea animals most known for it. What they uncovered may even help explain menopause in humans. <br /><br /><em>Curious about other animal behavior mysteries? Email us at </em><a href="mailto:s
+
+## Friday's Mega Millions jackpot soars to nearly $1 billion. Here's what to know
+ - [https://npr.org/2024/03/22/1240105913/mega-millions-jackpot-soars-billion](https://npr.org/2024/03/22/1240105913/mega-millions-jackpot-soars-billion)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T05:57:21+00:00
+
+Since three months have passed without a winner, the Mega Millions jackpot has grown to an estimated $977 million. The jackpot ranks as the 10th largest in U.S. lottery history
+
+## Oklahoma prosecutors will not press charges in Nex Benedict case
+ - [https://npr.org/2024/03/21/1240079971/nex-benedict-case-tulsa-da](https://npr.org/2024/03/21/1240079971/nex-benedict-case-tulsa-da)
+ - RSS feed: https://feeds.npr.org/1001/rss.xml
+ - date published: 2024-03-22T02:51:16+00:00
+
+Nex, a nonbinary teen, died by suicide after a high school fight. The Tulsa County District Attorney says the fight was mutual and there's not enough evidence to press charges.
+

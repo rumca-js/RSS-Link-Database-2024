@@ -1,0 +1,149 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## MLB investigating allegations of illegal gambling, theft involving Ohtani and his interpreter
+ - [https://www.cbc.ca/sports/baseball/mlb/mlb-launches-investigation-shohei-ohtani-interpreter-1.7153164?cmp=rss](https://www.cbc.ca/sports/baseball/mlb/mlb-launches-investigation-shohei-ohtani-interpreter-1.7153164?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T18:30:29+00:00
+
+<img alt="Two men stand at a podium with microphones." height="349" src="https://i.cbc.ca/1.7153172.1711146216!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/dodgers-ohtani-baseball.jpg" title="Japanese baseball superstar Shohei Ohtani, left, and his interpreter Ippei Mizuhara speak during a news conference on Dec. 14 after Ohtani signed a $700 million US contract with the Los Angeles Dodgers." width="620" /><p>Major League Baseball has opened a formal investigation into illegal gambling and theft allegations involving Los Angeles Dodgers star Shohei Ohtani and his interpreter, Ippei Mizuhara.</p>
+
+## Scientists try to unravel the case of 1,300 mysteriously preserved human brains
+ - [https://www.cbc.ca/radio/asithappens/brain-preservation-study-1.7151672?cmp=rss](https://www.cbc.ca/radio/asithappens/brain-preservation-study-1.7151672?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T18:09:05+00:00
+
+<img alt="A woman with chin-length curly hair holds up a jar with two halves of a shrunken human brain. She&apos;s smiling at the camera and wearing a lab coat with blue gloves. " height="349" src="https://i.cbc.ca/1.7151702.1711060645!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/alexandra-morton-hayward.jpeg" title="Alexandra Morton-Hayward, forensic anthropologist and doctoral candidate at the University of Oxford, holds the two cerebellar hemispheres of a 200 year-old brain, preserved in formalin. (Image credit: Graham Poulter)" width="620" /><p>An undertaker-turned-scientist at Oxford University is trying to figure out why some human brains remain remarkably well-preserved after death, sometimes for thousands of years, even when all other soft tissue has long decayed. </p>
+
+## 'I ended up in a crazy situation,' says B.C. man with more than 200 cats now in SPCA care
+ - [https://www.cbc.ca/news/canada/british-columbia/200-cats-houston-bcspca-rescue-1.7152586?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/200-cats-houston-bcspca-rescue-1.7152586?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T17:22:20+00:00
+
+<img alt="Several cats pictured together at a home in Houston, B.C. More than 200 cats and kittens will be taken in by the BC SPCA in one of the largest animal intakes since the 1990&apos;s. " height="349" src="https://i.cbc.ca/1.7152685.1711133470!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cats-in-houston-b-c.jpg" title="Several cats pictured at a home in Houston, B.C. More than 200 cats and kittens will be taken in by the BC SPCA in one of the largest animal intakes since the 1990&apos;s. " width="620" /><p>More than 200 cats and kittens from a Houston, B.C. property will be cared for by the BC SPCA, following a request for help by the animals' owner. The BC SPCA says the level of care needed will be a major drain on resources.</p>
+
+## Manitoba, federal governments promise $20M each for search of Prairie Green Landfill
+ - [https://www.cbc.ca/news/canada/manitoba/landfill-search-mmiwg-amc-funding-1.7152844?cmp=rss](https://www.cbc.ca/news/canada/manitoba/landfill-search-mmiwg-amc-funding-1.7152844?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T16:30:36+00:00
+
+<img alt="A person holds a sign reading, &apos;Search the landfill. We are not garbage. We are not disposable.&apos;" height="349" src="https://i.cbc.ca/1.6927229.1691104649!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/landfill-search-round-dance-sign-aug-3-2023.jpeg" title="Many at the event on Thursday held signs with messages that called for a search of the landfill." width="620" /><p>The federal and provincial governments have each committed $20 million toward searching the Prairie Green Landfill.</p>
+
+## Ontario risks $357M in housing funds if action plan isn't replaced today: federal minister
+ - [https://www.cbc.ca/news/canada/toronto/ontario-housing-funds-1.7152800?cmp=rss](https://www.cbc.ca/news/canada/toronto/ontario-housing-funds-1.7152800?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T15:53:47+00:00
+
+<img alt="Street of suburban houses in Ontario" height="349" src="https://i.cbc.ca/1.6396024.1711136720!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/housing-homes-townhouses-suburban.jpg" title="" width="620" /><p>Ontario risks losing $357 million in federal funding for affordable housing if the provincial government does not submit a revised action plan to meet its federal housing targets by the end of the day Friday, federal housing minister Sean Fraser said in a letter Thursday.</p>
+
+## Second Alberta family comes forward after patient discharged from hospital to hotel
+ - [https://www.cbc.ca/news/canada/edmonton/second-alberta-family-comes-forward-after-patient-discharged-from-hospital-to-hotel-1.7151956?cmp=rss](https://www.cbc.ca/news/canada/edmonton/second-alberta-family-comes-forward-after-patient-discharged-from-hospital-to-hotel-1.7151956?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T14:34:17+00:00
+
+<img alt="A grey and white building with a sign reading &quot;Park Inn&quot; can be seen." height="349" src="https://i.cbc.ca/1.7151957.1711085237!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/park-inn.JPG" title="Clients with Contentment Social Services have been staying at the Park Inn in Leduc." width="620" /><p>Alberta politicians have been peppered with questions since CBC News broke the story of how a hospital patient expecting to be moved to a care home was instead taken to a hotel.</p>
+
+## Read Princess Catherine's full statement on her cancer diagnosis
+ - [https://www.cbc.ca/news/world/princess-catherine-cancer-diagnosis-statement-1.7152583?cmp=rss](https://www.cbc.ca/news/world/princess-catherine-cancer-diagnosis-statement-1.7152583?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T14:26:16+00:00
+
+<img alt="People lean in to watch a video on a phone featuring a woman speaking." height="349" src="https://i.cbc.ca/1.7152630.1711132327!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/britain-royals-kate.JPG" title="People watch Britain&apos;s Catherine, Princess of Wales&apos; announcement about her health, outside Buckingham Palace in London, Britain, March 22, 2024. REUTERS/Hollie Adams" width="620" /><p>The Princess of Wales announced on Friday that she is undergoing chemotherapy to treat cancer found after her surgery.</p>
+
+## 'An appeal to compassion': What royal watchers are saying about Princess of Wales's surprise cancer disclosure
+ - [https://www.cbc.ca/news/world/princess-of-wales-cancer-prince-edward-senior-members-royal-family-1.7153032?cmp=rss](https://www.cbc.ca/news/world/princess-of-wales-cancer-prince-edward-senior-members-royal-family-1.7153032?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T14:18:29+00:00
+
+<img alt="A television shows a person sitting on a bench in a garden." height="349" src="https://i.cbc.ca/1.7153124.1711144935!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2097700766.jpg" title="LONDON, ENGLAND - MARCH 22: A relative of the photographer watches television, as Catherine, The Princess of Wales announces that she is receiving a preventative course of chemotherapy for cancer on March 22, 2024 in London, England. The Princess of Wales had abdominal surgery earlier this year and has revealed that cancer has subsequently been found. She said she has been receiving chemotherapy and asked for privacy for her and her family. (Photo by Leon Neal/Getty Images)" width="620" /><p></p>
+
+## KateGate took the internet by storm. Now the tone has changed to sympathy and regret
+ - [https://www.cbc.ca/news/world/catherine-cancer-rumours-reaction-1.7152689?cmp=rss](https://www.cbc.ca/news/world/catherine-cancer-rumours-reaction-1.7152689?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T14:18:29+00:00
+
+<img alt="A person holds a phone in their lap, as a video of  a woman plays" height="349" src="https://i.cbc.ca/1.7152869.1711137538!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/catherine.jpg" title="A woman in the village of Marsden, northern England, watches a recording of Britain&apos;s Catherine, Princess of Wales, announcing her cancer diagnosis, on March 22, 2024. " width="620" /><p></p>
+
+## Catherine, Princess of Wales, being treated for cancer
+ - [https://www.cbc.ca/news/world/kate-middleton-surgery-update-royals-1.7152496?cmp=rss](https://www.cbc.ca/news/world/kate-middleton-surgery-update-royals-1.7152496?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T14:05:36+00:00
+
+<img alt="Catherine, Princess of Wales, is seen attending a Christmas Day service at Sandringham Church in the U.K. in December of last year." height="349" src="https://i.cbc.ca/1.7152509.1711129280!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kate-middleton-the-princess-of-wales-in-sandringham-norfolk-u-k.jpg" title="Catherine, Princess of Wales attends the Christmas Morning Service at Sandringham Church on December 25, 2023 in Sandringham, Norfolk. " width="620" /><p>Catherine, Princess of Wales, is being treated for an undisclosed form of cancer, she revealed Friday.</p>
+
+## Stellantis recalls 10,000 vehicles in Canada for airbag defects
+ - [https://www.cbc.ca/news/business/stellantis-recall-ten-thousand-vehicles-canada-1.7152450?cmp=rss](https://www.cbc.ca/news/business/stellantis-recall-ten-thousand-vehicles-canada-1.7152450?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T13:55:10+00:00
+
+<img alt="A large blue logo reading Stellantis is affixed to a building." height="349" src="https://i.cbc.ca/1.7152456.1711127800!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/stellantis-recall.jpg" title="The Stellantis sign appears outside the Chrysler Technology Center in Auburn Hills, Mich, on Jan. 19, 2021. The automaker has recalled more than 10,000 Dodge and Chrysler sedans in Canada due to defective airbags. " width="620" /><p>Stellantis has recalled more than 10,000 Dodge and Chrysler sedans in Canada due to defective airbags.</p>
+
+## Multiple gunmen open fire at Moscow concert hall, Russian media report plumes of smoke above venue
+ - [https://www.cbc.ca/news/world/russia-moscow-concert-hall-attack-1.7152498?cmp=rss](https://www.cbc.ca/news/world/russia-moscow-concert-hall-attack-1.7152498?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T13:49:17+00:00
+
+<img alt="A large black plume of smoke rises above a city scape. Large flames can be seen in the distance. " height="349" src="https://i.cbc.ca/1.7152538.1711130165!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/moscow-crocus-city-hall-attack-fire.JPG" title="Smoke rises above the Crocus City Hall concert venue following a reported shooting incident, on the outskirts of Moscow, Russia, March 22, 2024." width="620" /><p>Several gunmen in combat fatigues burst into a big concert hall in Moscow on Friday and fired automatic weapons at the crowd, injuring an unspecified number of people, Russian media said.</p>
+
+## Prime Minister Justin Trudeau to testify before foreign interference inquiry
+ - [https://www.cbc.ca/news/politics/trudeau-public-inquiry-foreign-interference-1.7152309?cmp=rss](https://www.cbc.ca/news/politics/trudeau-public-inquiry-foreign-interference-1.7152309?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T12:35:52+00:00
+
+<img alt="Prime Minister Justin Trudeau leaves caucus on Parliament Hill in Ottawa on Wednesday, March 20, 2024. " height="349" src="https://i.cbc.ca/1.7152342.1711124171!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/liberal-caucus-20240320.jpg" title="Prime Minister Justin Trudeau leaves caucus on Parliament Hill in Ottawa on Wednesday, March 20, 2024. " width="620" /><p>Prime Minister Justin Trudeau will be one of 40 witnesses to testify before the commission probing allegations of foreign electoral interference over the next few weeks, as Commissioner Marie-Josée Hogue and her team sort through what the government knew, or didn't, about claims that China meddled in the past two federal campaigns.</p>
+
+## Family struggles to move mother across country to B.C. care home
+ - [https://www.cbc.ca/news/canada/british-columbia/family-struggles-to-move-mother-across-country-to-b-c-care-home-1.7151209?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/family-struggles-to-move-mother-across-country-to-b-c-care-home-1.7151209?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T08:00:00+00:00
+
+<img alt="Elaine Guyan doesn&apos;t apply for subsidized assisted living in B.C. because of the province&apos;s residency requirements. Her daughters say they don&apos;t have the capability to take care for her complex needs at home." height="349" src="https://i.cbc.ca/1.7151509.1711055542!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/elaine-guyan.jpg" title="Elaine Guyan doesn&apos;t apply for subsidized assisted living in B.C. because of the province&apos;s residency requirements. Her daughters say they don&apos;t have the capability to take care for her complex needs at home." width="620" /><p>The daughters of an assisted care patient in P.E.I. are running into roadblocks as they try to transfer their mother into B.C. subsidized care.</p>
+
+## UN set to vote on U.S.-led Gaza ceasefire resolution
+ - [https://www.cbc.ca/news/world/israel-hamas-war-day-168-1.7151983?cmp=rss](https://www.cbc.ca/news/world/israel-hamas-war-day-168-1.7151983?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T07:55:36+00:00
+
+<img alt="Small children are seen in an urban setting characterized by massive chunks of concrete and other debris, along with damaged buildings." height="349" src="https://i.cbc.ca/1.7151994.1711106817!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians.JPG" title="A boy holds a tray with food as he walks near destroyed houses, amid the ongoing conflict between Israel and the Palestinian Islamist group Hamas, in Rafah, in the southern Gaza Strip, March 22, 2024.  " width="620" /><p>Secretary of State Antony Blinken met with Israeli leaders in Tel Aviv on Friday on the final stop in his sixth urgent trip to the region since the start of the war, as the U.S. planned to put a resolution calling for an immediate truce in Gaza to a vote of the UN Security Council, intensifying pressure on its ally.</p>
+
+## Fish harvesters reach deal with N.L. government to allow catch to be sold to outside buyers
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/fisheries-protests-day-3-1.7151989?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/fisheries-protests-day-3-1.7151989?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T07:42:15+00:00
+
+<img alt="Three men standing in the back of a truck. The guy in the middle is holding a megaphone." height="349" src="https://i.cbc.ca/1.7152339.1711124093!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/spingle-efford-pretty.JPG" title="Jason Spingle, John Efford Jr. and Greg Pretty addressed a crowd of fish harvesters on Friday afternoon, telling them a deal had been reached with the provincial government to end days of protests." width="620" /><p>The provincial government has committed to allowing fishermen to sell any species to any outside buyer, according to the Fish, Food & Allied Workers union.</p>
+
+## The PWHL this week: Ottawa back in playoff picture after busy trade deadline
+ - [https://www.cbc.ca/sports/hockey/pwhl/pwhl-this-week-ottawa-playoffs-toronto-winning-1.7151458?cmp=rss](https://www.cbc.ca/sports/hockey/pwhl/pwhl-this-week-ottawa-playoffs-toronto-winning-1.7151458?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T04:00:50+00:00
+
+<img alt="A hockey player handles the puck on the ice while teammates watch on from the bench." height="349" src="https://i.cbc.ca/1.7151496.1711054915!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pwhl-new-york-vs-ottawa-at-tma.jpg" title="PWHL NY vs Ottawa on March 20, 2024 at Total Mortgage Arena" width="620" /><p>Around the PWHL, Toronto keeps winning, while former Premier Hockey Federation MVP Mikyla Grant-Mentis gets a fresh start in Montreal.</p>
+
+## Albertans have lost at least $156M to fraud this decade. Many others don't report the crime
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-fraud-money-victims-1.7146751?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-fraud-money-victims-1.7146751?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T04:00:00+00:00
+
+<img alt="Selective focus on man two hand typing laptop/PC/computer keyboard in night dark tone low key; Shutterstock ID 492858532; Cost Ctr: redownload; Manager: redownload; Email: redownload; Project: redownload" height="349" src="https://i.cbc.ca/1.6945190.1694824581!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/shutterstock-medium-file.jpg" title="In the case of a loved one&apos;s sudden death, artificial intelligence can help grieving families to gather their thoughts and find the right words. " width="620" /><p>The money defrauded from Albertans has grown more than fivefold since 2020, while the number of victims has stayed relatively the same, data shows. Experts and stakeholders say technological advancements are the driving factor.</p>
+
+## From AI dating to flirt coaches: How AI is changing dating, for better or worse
+ - [https://www.cbc.ca/news/canada/artificial-intelligence-relationships-1.7148866?cmp=rss](https://www.cbc.ca/news/canada/artificial-intelligence-relationships-1.7148866?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T04:00:00+00:00
+
+<img alt="Photo illustration of a blonde woman sitting at a desk. A robot is on the computer screen. " height="349" src="https://i.cbc.ca/1.7148913.1710881111!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ai-technology-relationship.jpg" title="Some companies have developed AI-simulated first dates while others have developed chatbots for people to date." width="620" /><p>In the last year, a bunch of new AI-powered dating tools launched on app stores, but some researchers worry about how these services will impact people’s dating life.</p>
+
+## Ghostbusters: Frozen Empire is bloated, nostalgic — and surprisingly good
+ - [https://www.cbc.ca/news/entertainment/ghostbusters-frozen-empire-review-1.7151710?cmp=rss](https://www.cbc.ca/news/entertainment/ghostbusters-frozen-empire-review-1.7151710?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T04:00:00+00:00
+
+<img alt="A man holding a mechanical device inspects a golden ball. He is surrounded by four other people." height="349" src="https://i.cbc.ca/1.7151719.1711061446!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/11296394-ghostbusters-frozen-empire.jpg" title="A still from Ghostbusters: Frozen Empire is shown. " width="620" /><p>The fifth installment in the live-action Ghostbusters franchise is overburdened with characters and callbacks — but still fun.</p>
+
+## Jeff Gustafson became the 1st Canadian to reel in Bassmaster Classic title. Can he do it twice in a row?
+ - [https://www.cbc.ca/news/canada/thunder-bay/bassmaster-classic-oklahoma-jeff-gustafson-kenora-1.7150850?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/bassmaster-classic-oklahoma-jeff-gustafson-kenora-1.7150850?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-03-22T04:00:00+00:00
+
+<img alt="A man holds a huge trophy surrounded by confetti flying around him. " height="349" src="https://i.cbc.ca/1.6794479.1680094905!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jeff-gustafson-bassmaster-classic-champion.jpg" title="Jeff Gustafson won the Bassmaster Classic fishing derby in Knoxville, Tenn., considered the Super Bowl of fishing. " width="620" /><p>Jeff Gustafson of Kenora, Ont., turned a childhood obsession into a career. Last spring, he became the first Canadian to win the Bassmaster Classic and just the second non-American to win the tournament in its 53-year history. Now, he's aims to repeat the feat, in Tulsa, Okla., this weekend.</p>
+

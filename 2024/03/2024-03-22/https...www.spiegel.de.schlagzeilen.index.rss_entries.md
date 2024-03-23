@@ -1,0 +1,850 @@
+# Source:DER SPIEGEL - Schlagzeilen, URL:https://www.spiegel.de/schlagzeilen/index.rss, language:de
+
+## Boeing-Notlandung: FBI informiert Boeing-Passagiere über mögliches »Verbrechen«
+ - [https://www.spiegel.de/panorama/boeing-notlandung-fbi-informiert-boeing-passagiere-ueber-moegliches-verbrechen-a-e43a54aa-7c01-4c3e-b9e7-160dd48c46d9#ref=rss](https://www.spiegel.de/panorama/boeing-notlandung-fbi-informiert-boeing-passagiere-ueber-moegliches-verbrechen-a-e43a54aa-7c01-4c3e-b9e7-160dd48c46d9#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T22:54:00+00:00
+
+Nach dem dramatischen Zwischenfall mit einer Alaska-Airlines-Boeing haben die Passagiere Post vom FBI erhalten: Die Fluggäste gelten demnach »als mögliches Opfer eines Verbrechens«.
+
+## Anschlag bei Moskau: Dutzende Tote bei Angriff auf Konzerthalle, Täter wohl flüchtig
+ - [https://www.spiegel.de/ausland/anschlag-bei-moskau-dutzende-tote-bei-angriff-auf-konzerthalle-taeter-wohl-fluechtig-a-dae40752-90aa-47ac-a591-2a4da80b8f1c#ref=rss](https://www.spiegel.de/ausland/anschlag-bei-moskau-dutzende-tote-bei-angriff-auf-konzerthalle-taeter-wohl-fluechtig-a-dae40752-90aa-47ac-a591-2a4da80b8f1c#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T22:33:00+00:00
+
+Bei einem Anschlag auf eine Stadthalle nahe Moskau sind mindestens 40 Menschen getötet und mehr als 100 verletzt worden. Der »IS« reklamiert den Angriff für sich, die Täter sind bisher offenbar nicht gefasst.
+
+## Verdi schlägt Tarifschlichtung für Luftsicherheitspersonal vor
+ - [https://www.spiegel.de/wirtschaft/verdi-schlaegt-tarif-schlichtung-fuer-luftsicherheitspersonal-vor-a-71d865ea-7941-4ce3-8fa9-6470de9c59d3#ref=rss](https://www.spiegel.de/wirtschaft/verdi-schlaegt-tarif-schlichtung-fuer-luftsicherheitspersonal-vor-a-71d865ea-7941-4ce3-8fa9-6470de9c59d3#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T21:04:00+00:00
+
+Auch die sechste Verhandlungsrunde im Arbeitskampf des Luftsicherheitspersonals bleibt ohne Ergebnis. Jetzt fordert die Gewerkschaft Ver.di eine Schlichtung. Weitere Streiks seien ohne diese nicht ausgeschlossen.
+
+## Donald Trump kehrt laut Medienberichten mit lukrativem Medien-Deal an Börse zurück
+ - [https://www.spiegel.de/ausland/donald-trump-kehrt-laut-medienberichten-mit-lukrativem-medien-deal-an-boerse-zurueck-a-972a99b4-8a53-451b-99b6-c6a9c40dd548#ref=rss](https://www.spiegel.de/ausland/donald-trump-kehrt-laut-medienberichten-mit-lukrativem-medien-deal-an-boerse-zurueck-a-972a99b4-8a53-451b-99b6-c6a9c40dd548#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T20:43:00+00:00
+
+Donald Trump muss nach seinen Gerichtsprozessen hunderte Millionen an Strafen und Zinsen zahlen. Eine Fusion und der Börsengang seiner Medienfirma dürften dem Ex-Präsidenten nun Milliarden einbringen.
+
+## Prinzessin Kates Videobotschaft: »Jeden Tag werde ich stärker«
+ - [https://www.spiegel.de/ausland/jeden-tag-werde-ich-staerker-a-65ea3d44-65b2-4c60-9da7-7fed58b0062e#ref=rss](https://www.spiegel.de/ausland/jeden-tag-werde-ich-staerker-a-65ea3d44-65b2-4c60-9da7-7fed58b0062e#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T20:07:00+00:00
+
+Sie hat Krebs: Mit dieser Videobotschaft richtet sich Prinzessin Kate an die Öffentlichkeit. Sie erklärt, wie es ihr ergangen ist und weshalb sie sich für eine Weile aus der Öffentlichkeit zurückziehen will.
+
+## Hatte Israel den Norden von Gaza je unter Kontrolle?
+ - [https://www.spiegel.de/ausland/hatte-israel-den-norden-von-gaza-je-unter-kontrolle-a-627287b8-ce2f-4717-95c4-539d1b85e917#ref=rss](https://www.spiegel.de/ausland/hatte-israel-den-norden-von-gaza-je-unter-kontrolle-a-627287b8-ce2f-4717-95c4-539d1b85e917#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T20:02:00+00:00
+
+Erneut liefert sich Israels Armee intensive Gefechte in Nordgaza. Das wirft Fragen bezüglich der militärischen Erfolge auf. Fast sechs Monate nach Kriegsbeginn ist die Hamas geschwächt – gebrochen ist sie nicht.
+
+## Grüne fordern Aufklärung im Fall des CSU-Abgeordneten Ferber
+ - [https://www.spiegel.de/politik/deutschland/gruene-fordern-aufklaerung-im-fall-des-csu-abgeordneten-ferber-a-34964da3-ff6a-4b4a-a2a2-6051ff494489#ref=rss](https://www.spiegel.de/politik/deutschland/gruene-fordern-aufklaerung-im-fall-des-csu-abgeordneten-ferber-a-34964da3-ff6a-4b4a-a2a2-6051ff494489#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T19:59:00+00:00
+
+Hat der CSU-Europaabgeordneten Ferber unlautere Geschäftsbeziehungen in die Finanzbranche gepflegt? Nach SPIEGEL-Informationen fordern die Grünen von der Parlamentspräsidentin ein Prüfungsverfahren.
+
+## Prinzessin Kate: Rishi Sunak lobt mutige Botschaft
+ - [https://www.spiegel.de/panorama/prinzessin-kate-rishi-sunak-lobt-mutige-botschaft-a-27b8db9d-3462-4c39-9385-85c23df0ad47#ref=rss](https://www.spiegel.de/panorama/prinzessin-kate-rishi-sunak-lobt-mutige-botschaft-a-27b8db9d-3462-4c39-9385-85c23df0ad47#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T19:39:00+00:00
+
+Prinzessin Kate hat ihre Krebserkrankung öffentlich gemacht. Nun erreichen sie etliche Genesungswünsche. Premier Sunak kritisiert die vorhergehenden Spekulationen über ihren Zustand.
+
+## FC Bundestag über DFB-Ausrüsterwechsel zu Nike: »Solange wir gewinnen, spiele ich auch nackt«
+ - [https://www.spiegel.de/politik/deutschland/fc-bundestag-ueber-dfb-ausruesterwechsel-zu-nike-solange-wir-gewinnen-spiele-ich-auch-nackt-a-2a84300b-1c68-4bf4-a4af-a73104029fd4#ref=rss](https://www.spiegel.de/politik/deutschland/fc-bundestag-ueber-dfb-ausruesterwechsel-zu-nike-solange-wir-gewinnen-spiele-ich-auch-nackt-a-2a84300b-1c68-4bf4-a4af-a73104029fd4#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T19:25:00+00:00
+
+Die Spieler des FC Bundestag laufen genau wie die Nationalmannschaft bislang in Adidas-Trikots auf. Vom Wechsel des DFB zu Nike sind die Abgeordneten überrascht – aber nicht alle kritisieren ihn.
+
+## Kriminalität - Zunahme von Straftaten: »Da entsteht ein Zerrbild von Kriminalität«
+ - [https://www.spiegel.de/panorama/justiz/kriminalitaet-zunahme-von-straftaten-da-entsteht-ein-zerrbild-von-kriminalitaet-a-22581f5a-7dae-44b1-a706-81e3d1d6b0ac#ref=rss](https://www.spiegel.de/panorama/justiz/kriminalitaet-zunahme-von-straftaten-da-entsteht-ein-zerrbild-von-kriminalitaet-a-22581f5a-7dae-44b1-a706-81e3d1d6b0ac#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T19:22:00+00:00
+
+Die Polizei registriert mehr Straftaten. Der Kriminologe Dirk Baier erklärt, warum Ausländer in der Statistik häufiger auffällig werden – und warum er den Fokus darauf für gefährlich hält.
+
+## Schüsse und Explosionen bei Moskau: Viele Opfer nach Angriff auf Konzerthalle
+ - [https://www.spiegel.de/ausland/schuesse-und-explosionen-bei-moskau-viele-opfer-nach-angriff-auf-konzerthalle-a-dfeb3fea-f661-4b35-a458-1e94800aadd7#ref=rss](https://www.spiegel.de/ausland/schuesse-und-explosionen-bei-moskau-viele-opfer-nach-angriff-auf-konzerthalle-a-dfeb3fea-f661-4b35-a458-1e94800aadd7#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T19:19:00+00:00
+
+In einer Stadthalle bei Moskau haben offenbar mehrere Angreifer das Feuer eröffnet, es gibt Berichte über viele Tote und Verletzte. In dem Gebäude kam es offenbar auch zu Explosionen. Die aktuellen Entwicklungen.
+
+## Fußball-EM 2024 in Deutschland: Zu wenig Rollstuhlplätze in Stadien
+ - [https://www.spiegel.de/panorama/fussball-em-2024-in-deutschland-zu-wenig-rollstuhlplaetze-in-stadien-a-cf0796bb-c5cd-4e82-b4ec-eb8d71c2cc7d#ref=rss](https://www.spiegel.de/panorama/fussball-em-2024-in-deutschland-zu-wenig-rollstuhlplaetze-in-stadien-a-cf0796bb-c5cd-4e82-b4ec-eb8d71c2cc7d#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T19:11:00+00:00
+
+Die deutschen EM-Stadien haben zusätzliche Plätze für Rollstühle geschaffen. Doch nach SPIEGEL-Informationen erreicht kein Spielort die gewünschte Quote.
+
+## Berlin: Wie nützlich sind die neuen Countdown-Ampeln?
+ - [https://www.spiegel.de/auto/berlin-wie-nuetzlich-sind-die-neuen-countdown-ampeln-a-04fa5e14-a672-4c68-89fe-752249e848f2#ref=rss](https://www.spiegel.de/auto/berlin-wie-nuetzlich-sind-die-neuen-countdown-ampeln-a-04fa5e14-a672-4c68-89fe-752249e848f2#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T18:51:00+00:00
+
+Bei Grün gehen, bei Rot stehen. So lernt es jedes Kind. Aber was, wenn die Ampel zu früh auf Rot springt? Hier will Berlin mit einer zusätzlichen Anzeige Abhilfe schaffen. Kritiker bezweifeln den erhofften Mehrwert.
+
+## Ukraine: Antonow - größtes Frachtflugzeug der Welt rostet vor sich hin
+ - [https://www.spiegel.de/ausland/ukraine-antonow-groesstes-frachtflugzeug-der-welt-rostet-vor-sich-hin-a-36d7846e-f461-4641-a1be-3be4e2dbe8e3#ref=rss](https://www.spiegel.de/ausland/ukraine-antonow-groesstes-frachtflugzeug-der-welt-rostet-vor-sich-hin-a-36d7846e-f461-4641-a1be-3be4e2dbe8e3#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T18:47:00+00:00
+
+Der Flughafen Hostomel nahe Kiew wurde zum Beginn des russischen Überfalls verwüstet. Und mit ihm das größte Transportflugzeug der Welt. Ob es je wieder fliegt, steht in den Sternen.
+
+## Gaza-Krieg: Warum die Uno-Resolution für sofortige Waffenruhe gescheitert ist
+ - [https://www.spiegel.de/ausland/gaza-krieg-warum-die-uno-resolution-fuer-sofortige-waffenruhe-gescheitert-ist-a-1ea0dd31-1b3c-4435-a2e7-c04cb114a3ce#ref=rss](https://www.spiegel.de/ausland/gaza-krieg-warum-die-uno-resolution-fuer-sofortige-waffenruhe-gescheitert-ist-a-1ea0dd31-1b3c-4435-a2e7-c04cb114a3ce#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T18:33:00+00:00
+
+Erstmals verlangten die USA mit einem Uno-Resolutionsentwurf eine sofortige Waffenruhe in Gaza. Doch auch dieser Vorstoß scheiterte im Weltsicherheitsrat. Russland und China verfolgen andere Interessen.
+
+## Kasia Lenhardt: NDA und ihr verletztes Ohr – Podcast, Folge 2
+ - [https://www.spiegel.de/panorama/justiz/kasia-lenhardt-nda-und-ihr-verletztes-ohr-podcast-folge-2-a-d4c09176-229d-4554-9c2c-c7da813a2f30#ref=rss](https://www.spiegel.de/panorama/justiz/kasia-lenhardt-nda-und-ihr-verletztes-ohr-podcast-folge-2-a-d4c09176-229d-4554-9c2c-c7da813a2f30#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T18:30:00+00:00
+
+Kasia Lenhardt und Jérôme Boateng sind offiziell ein Jahr zusammen, als der Fußballspieler dem Model eine Verschwiegenheitsvereinbarung vorgelegt haben soll. Kurz darauf ist ihr Ohr verletzt. Was ist passiert?
+
+## Shakira, Tyla, Waxahatchee, Christin Nichols – Album der Woche
+ - [https://www.spiegel.de/kultur/musik/shakira-tyla-waxahatchee-christin-nichols-album-der-woche-a-1b6cbae8-d738-4308-b198-663397336f49#ref=rss](https://www.spiegel.de/kultur/musik/shakira-tyla-waxahatchee-christin-nichols-album-der-woche-a-1b6cbae8-d738-4308-b198-663397336f49#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T18:13:00+00:00
+
+Latinpop-Queen Shakira rechnet auf ihrem Comeback-Album »Las Mujeres Ya No Lloran« noch einmal mit Ex-Lover Gerard Piqué ab. Aber ist das noch spektakulär? Außerdem: Das Debüt der südafrikanischen Newcomerin Tyla.
+
+## Prinzessin Kate macht Krebserkrankung öffentlich
+ - [https://www.spiegel.de/panorama/prinzessin-kate-macht-krebserkrankung-oeffentlich-a-0353a733-7fbf-4426-8907-de1b44af1789#ref=rss](https://www.spiegel.de/panorama/prinzessin-kate-macht-krebserkrankung-oeffentlich-a-0353a733-7fbf-4426-8907-de1b44af1789#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T18:09:00+00:00
+
+Lange wurde über ihren Gesundheitszustand spekuliert. Nun hat Prinzessin Kate in einer Videobotschaft mitgeteilt, dass sie an Krebs erkrankt ist. Sie muss sich einer Chemotherapie unterziehen.
+
+## Moskau: Tote und Verletzte nach Schüssen und Explosion in Konzerthalle
+ - [https://www.spiegel.de/ausland/moskau-tote-und-verletzte-nach-schuessen-und-explosion-in-konzerthalle-a-bfa77ecf-32b4-482e-b383-f1e894476cf3#ref=rss](https://www.spiegel.de/ausland/moskau-tote-und-verletzte-nach-schuessen-und-explosion-in-konzerthalle-a-bfa77ecf-32b4-482e-b383-f1e894476cf3#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T17:51:00+00:00
+
+In einer Stadthalle in Moskau haben offenbar mehrere Angreifer das Feuer eröffnet, es gibt Berichte über viele Tote und Verletzte. In dem Gebäude kam es offenbar auch zu Explosionen.
+
+## BASF-Chef Martin Brudermüller verlangt Verstaatlichung der Stromnetze
+ - [https://www.spiegel.de/wirtschaft/unternehmen/basf-chef-martin-brudermueller-verlangt-verstaatlichung-der-stromnetze-a-e06ca564-7eb1-4262-8fc3-3a7b384377d1#ref=rss](https://www.spiegel.de/wirtschaft/unternehmen/basf-chef-martin-brudermueller-verlangt-verstaatlichung-der-stromnetze-a-e06ca564-7eb1-4262-8fc3-3a7b384377d1#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T17:42:00+00:00
+
+Die deutsche Industrie ächzt unter den im internationalen Vergleich hohen Strompreisen. BASF-Chef Brudermüller fordert deshalb nun, der Staat müsse die Netze »allen unentgeltlich zur Verfügung stellen«.
+
+## Essen: Tochter und Frau aus Fenster geworfen – Mann muss mehr als 13 Jahre in Haft
+ - [https://www.spiegel.de/panorama/justiz/essen-tochter-und-frau-aus-fenster-geworfen-mann-muss-mehr-als-13-jahre-in-haft-a-ba9d538a-d9c1-4877-867f-b330228433aa#ref=rss](https://www.spiegel.de/panorama/justiz/essen-tochter-und-frau-aus-fenster-geworfen-mann-muss-mehr-als-13-jahre-in-haft-a-ba9d538a-d9c1-4877-867f-b330228433aa#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T17:36:00+00:00
+
+Ein Mann verübte brutale Gewalttaten an seiner Familie, seine Partnerin und seine Tochter warf er aus dem Fenster. Jahre später stieß er seine Ex-Frau von einem Essener Bahnsteig. Nun wurde er verurteilt.
+
+## Israel-Gaza-Krieg: Vier EU-Länder wollen palästinensischen Staat anerkennen
+ - [https://www.spiegel.de/politik/israel-gaza-krieg-vier-eu-laender-wollen-palaestinensischen-staat-anerkennen-a-e55ecbaa-5601-4415-9f90-926b0331a225#ref=rss](https://www.spiegel.de/politik/israel-gaza-krieg-vier-eu-laender-wollen-palaestinensischen-staat-anerkennen-a-e55ecbaa-5601-4415-9f90-926b0331a225#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T17:32:00+00:00
+
+Die EU fordert beim Gipfel in Brüssel schärfer denn je eine Waffenruhe in Gaza – doch vier Mitgliedsländern reicht das nicht. Sie kündigen erste Schritte zur Anerkennung eines palästinensischen Staats an.
+
+## News des Tages: Cannabis-Legalisierung, DFB wechselt von Adidas zu Nike, E-Autos
+ - [https://www.spiegel.de/politik/deutschland/news-des-tages-cannabis-legalisierung-dfb-wechselt-von-adidas-zu-nike-e-autos-a-85520814-6271-4988-9877-967c1f862a95#ref=rss](https://www.spiegel.de/politik/deutschland/news-des-tages-cannabis-legalisierung-dfb-wechselt-von-adidas-zu-nike-e-autos-a-85520814-6271-4988-9877-967c1f862a95#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T17:30:00+00:00
+
+Der Bundesrat beschließt die Legalisierung von Cannabis. Der DFB kassiert viel Geld dafür, dass er künftig Trikots von Nike bezieht. Und die Deutschen haben wenig Lust auf Elektroautos. Das ist die Lage am Freitagabend.
+
+## Oliver Bierhoff zum DFB-Nike-Deal: »Aus der Politik kommt reiner Populismus«
+ - [https://www.spiegel.de/sport/fussball/oliver-bierhoff-zum-dfb-nike-deal-aus-der-politik-kommt-reiner-populismus-a-1c4338d5-4f9d-47a4-9592-64d607e62663#ref=rss](https://www.spiegel.de/sport/fussball/oliver-bierhoff-zum-dfb-nike-deal-aus-der-politik-kommt-reiner-populismus-a-1c4338d5-4f9d-47a4-9592-64d607e62663#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T17:12:00+00:00
+
+18 Jahre lang hat Oliver Bierhoff das Marketing beim DFB verantwortet. Den Ausrüster-Deal mit Nike hält er für absolut vernünftig – er selbst strebte schon 2007 einen lukrativen Wechsel zu dem US-Konzern an.
+
+## Cannabis-Gesetz: Gründer eines »Cannabis Social Clubs« über die Teillegalisierung
+ - [https://www.spiegel.de/panorama/cannabis-gesetz-gruender-eines-cannabis-social-clubs-ueber-die-teillegalisierung-a-763816ee-edd6-4c92-83a6-2a167da7c5fa#ref=rss](https://www.spiegel.de/panorama/cannabis-gesetz-gruender-eines-cannabis-social-clubs-ueber-die-teillegalisierung-a-763816ee-edd6-4c92-83a6-2a167da7c5fa#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T16:53:00+00:00
+
+Die Teillegalisierung ist beschlossen. Was der Gründer eines »Cannabis Social Clubs« vom neuen Gesetz hält und welche Chancen er darin sieht: Ein Besuch in Brandenburg.
+
+## Libyen: Uno-Organisation meldet Fund von mindestens 65 toten Migranten
+ - [https://www.spiegel.de/ausland/libyen-uno-organisation-meldet-fund-von-mindestens-65-toten-migranten-a-286e85a8-fa76-43ff-869b-8e351e34067a#ref=rss](https://www.spiegel.de/ausland/libyen-uno-organisation-meldet-fund-von-mindestens-65-toten-migranten-a-286e85a8-fa76-43ff-869b-8e351e34067a#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T16:49:00+00:00
+
+Der Weg Richtung Mittelmeer endet für Flüchtlinge in Afrika immer wieder tödlich. Nun berichtet die Internationale Organisation für Migration von einem Fund etlicher Leichen im Südwesten Libyens.
+
+## Polizist stirbt wenige Stunden nach Einsatz – Ermittler sehen keinen Zusammenhang zu Attacke
+ - [https://www.spiegel.de/panorama/justiz/polizist-stirbt-wenige-stunden-nach-einsatz-ermittler-sehen-keinen-zusammenhang-zu-attacke-a-04c1dcf4-ce1c-4fa4-8b4b-f23ac6075e76#ref=rss](https://www.spiegel.de/panorama/justiz/polizist-stirbt-wenige-stunden-nach-einsatz-ermittler-sehen-keinen-zusammenhang-zu-attacke-a-04c1dcf4-ce1c-4fa4-8b4b-f23ac6075e76#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T16:45:00+00:00
+
+Ein 30-jähriger Bundespolizist ist kurz nach einem Einsatz am Nürnberger Hauptbahnhof gestorben. Dort war er von einem Mann attackiert worden. Laut vorläufigem Obduktionsbericht ist sein Tod keine Folge des Angriffs.
+
+## Iraqi Marshlands Under Threat: The Garden of Eden Dries Up
+ - [https://www.spiegel.de/international/world/the-garden-of-eden-dries-up-iraqi-marshlands-under-threat-a-ccedbf40-a2cd-4ffd-9384-161e66494b59#ref=rss](https://www.spiegel.de/international/world/the-garden-of-eden-dries-up-iraqi-marshlands-under-threat-a-ccedbf40-a2cd-4ffd-9384-161e66494b59#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T16:39:00+00:00
+
+Some say the Garden of Eden was located between the Tigris and Euphrates rivers in present-day Iraq. Now, the wetlands there are drying up. The man fighting to save the marshes is risking his life to do so.
+
+## Gazakrieg: Militäroffensive in Rafah könnte Israel laut Antony Blinken international isolieren
+ - [https://www.spiegel.de/ausland/gazakrieg-militaeroffensive-in-rafah-koennte-israel-laut-antony-blinken-international-isolieren-a-cda96c1d-bb50-48a3-8211-8d946e27e73b#ref=rss](https://www.spiegel.de/ausland/gazakrieg-militaeroffensive-in-rafah-koennte-israel-laut-antony-blinken-international-isolieren-a-cda96c1d-bb50-48a3-8211-8d946e27e73b#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T16:31:00+00:00
+
+Zahlreiche Staaten wollen Israel von einem Einmarsch in die Stadt Rafah im Gazastreifen abbringen. Die eindringlichen Worte des US-Außenministers Blinken lassen Israels Premierminister Netanyahu aber unbeeindruckt.
+
+## Deutsche Bahn zu Stuttgart 21: Kopfbahnhof soll auch 2026 noch in Betrieb sein
+ - [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-zu-stuttgart-21-kopfbahnhof-soll-auch-2026-noch-in-betrieb-sein-a-d66ee398-6585-41f4-abbf-5b6ed97ddf3f#ref=rss](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-zu-stuttgart-21-kopfbahnhof-soll-auch-2026-noch-in-betrieb-sein-a-d66ee398-6585-41f4-abbf-5b6ed97ddf3f#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T16:29:00+00:00
+
+Das umstrittene Bahnprojekt Stuttgart 21 soll den Hauptbahnhof der baden-württembergischen Landeshauptstadt unter die Erde verlagern. Der überirdische Kopfbahnhof wird nun jedoch länger gebraucht als geplant.
+
+## Hunde verstehen, was ein Frisbee ist
+ - [https://www.spiegel.de/wissenschaft/natur/hunde-verstehen-was-ein-frisbee-ist-a-46204c5e-f585-49e6-9a43-0b29c96981a7#ref=rss](https://www.spiegel.de/wissenschaft/natur/hunde-verstehen-was-ein-frisbee-ist-a-46204c5e-f585-49e6-9a43-0b29c96981a7#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T16:24:00+00:00
+
+Sitz, Platz, Bleib: Hunde können bestimmte Wörter lernen und sich dementsprechend verhalten. Nun legt eine Studie nahe, dass ihr Verständnis noch viel weiter reicht.
+
+## E-Mail-Anhang: Kreml-Hacker greifen deutsche Parteien an
+ - [https://www.spiegel.de/netzwelt/e-mail-anhang-kreml-hacker-greifen-deutsche-parteien-an-a-c1d230a1-bff3-4f26-a04d-72e1766d0f81#ref=rss](https://www.spiegel.de/netzwelt/e-mail-anhang-kreml-hacker-greifen-deutsche-parteien-an-a-c1d230a1-bff3-4f26-a04d-72e1766d0f81#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T15:49:00+00:00
+
+Eine berüchtigte russische Hacker-Gruppierung hat deutsche Parteien attackiert. Um die Opfer zur Installation von Schadsoftware zu bringen, erfanden die Angreifer gar ein Abendessen der CDU.
+
+## Skylar Meade: Aus Haft in Idaho ausgebrochener US-Neonazi wieder gefasst
+ - [https://www.spiegel.de/panorama/justiz/skylar-meade-aus-haft-in-idaho-ausgebrochener-us-neonazi-wieder-gefasst-a-8f5a01e3-73c4-4a9d-9256-23155b62c165#ref=rss](https://www.spiegel.de/panorama/justiz/skylar-meade-aus-haft-in-idaho-ausgebrochener-us-neonazi-wieder-gefasst-a-8f5a01e3-73c4-4a9d-9256-23155b62c165#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T15:45:00+00:00
+
+Seine Zeit im Gefängnis sollte nicht vor 2036 enden – doch dann gelang einem Neonazi in Idaho mithilfe eines Komplizen die Flucht, drei Mitarbeiter wurden dabei verletzt. Nach 36 Stunden Fahndung hat die Polizei die beiden aufgespürt.
+
+## Biodiesel: Bundesrat stimmt Einführung von HVO an Tankstellen zu
+ - [https://www.spiegel.de/auto/biodiesel-bundesrat-stimmt-einfuehrung-von-hvo-an-tankstellen-zu-a-9bb2194f-cdb7-445a-ba70-94e7417a63af#ref=rss](https://www.spiegel.de/auto/biodiesel-bundesrat-stimmt-einfuehrung-von-hvo-an-tankstellen-zu-a-9bb2194f-cdb7-445a-ba70-94e7417a63af#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T15:41:00+00:00
+
+Ohne Erdöl erzeugter Sprit soll nun auch in Deutschland an die Tankstellen kommen: Der Bundesrat macht den Weg für reinen Biodiesel frei. Dafür könnten die Zapfsäulen von klassischem Benzin Platz machen.
+
+## BSW: Ehepaar spendet Sahra Wagenknechts Partei fast 4,1 Millionen Euro
+ - [https://www.spiegel.de/politik/deutschland/bsw-ehepaar-spendet-sahra-wagenknechts-partei-fast-4-1-millionen-euro-a-8e86f263-3737-4c97-8d67-b42648e777a1#ref=rss](https://www.spiegel.de/politik/deutschland/bsw-ehepaar-spendet-sahra-wagenknechts-partei-fast-4-1-millionen-euro-a-8e86f263-3737-4c97-8d67-b42648e777a1#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T15:37:00+00:00
+
+Bereits im Januar hatte das Paar aus Mecklenburg eine Million Euro an Sahra Wagenknechts neue Partei gespendet. Nun legen die Gönner nach – zur Freude der Parteichefin.
+
+## Ukraine: Russland kontert Kiews Drohnenattacken mit schweren Raketenangriffen
+ - [https://www.spiegel.de/ausland/ukraine-russland-kontert-kiews-drohnenattacken-mit-schweren-raketenangriffen-a-b594692d-00f7-44df-a4b3-3366b503531f#ref=rss](https://www.spiegel.de/ausland/ukraine-russland-kontert-kiews-drohnenattacken-mit-schweren-raketenangriffen-a-b594692d-00f7-44df-a4b3-3366b503531f#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T15:37:00+00:00
+
+Mit heftigen Luftangriffen reagiert Moskau auf Kiews Drohnenattacken. Der ukrainischen Flugabwehr fehlt es vor allem an amerikanischen Patriot-Raketen. Gewinnt Russland endgültig die Lufthoheit, wären die Folgen dramatisch.
+
+## Kermit: Forscher benennen Vorfahre von Amphibien nach der »Muppet Show«
+ - [https://www.spiegel.de/wissenschaft/natur/kermit-forscher-benennen-vorfahre-von-amphibien-nach-der-muppet-show-a-3e36164d-bff1-4ee5-882f-cb5a90d47e56#ref=rss](https://www.spiegel.de/wissenschaft/natur/kermit-forscher-benennen-vorfahre-von-amphibien-nach-der-muppet-show-a-3e36164d-bff1-4ee5-882f-cb5a90d47e56#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T15:09:00+00:00
+
+In den Achtzigern fand ein Paläontologe ein winziges Fossil. Nun haben sich Forscher die Überreste genauer angesehen – und eine neue Gattung identifiziert. Beim Namen ließen sie sich von der »Muppet Show« inspirieren.
+
+## Verkehrsministerium lässt Deutschlandticket durch Gutachten doppelt prüfen
+ - [https://www.spiegel.de/politik/deutschland/verkehrsministerium-laesst-deutschlandticket-durch-gutachten-doppelt-pruefen-a-ba45d00f-ba4d-4c3d-bfb5-79d22d29a909#ref=rss](https://www.spiegel.de/politik/deutschland/verkehrsministerium-laesst-deutschlandticket-durch-gutachten-doppelt-pruefen-a-ba45d00f-ba4d-4c3d-bfb5-79d22d29a909#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T15:02:00+00:00
+
+Ein Gutachten für das Verkehrsministerium soll Aufschluss über den Erfolg des Deutschlandtickets geben. Fachleute rechnen mit Kosten in Millionenhöhe. Dabei haben Bund und Länder eine solche Untersuchung bereits in Auftrag gegeben.
+
+## Bundestagswahl: Mit Markus Söderals Kanzlerkandidat hätte die Union laut Umfrage die besten Chancen
+ - [https://www.spiegel.de/politik/deutschland/bundestagswahl-mit-markus-soederals-kanzlerkandidat-haette-die-union-laut-umfrage-die-besten-chancen-a-2239be28-bac0-4953-b809-20476a2eac47#ref=rss](https://www.spiegel.de/politik/deutschland/bundestagswahl-mit-markus-soederals-kanzlerkandidat-haette-die-union-laut-umfrage-die-besten-chancen-a-2239be28-bac0-4953-b809-20476a2eac47#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T15:00:00+00:00
+
+Noch haben CDU und CSU sich nicht auf einen Kanzlerkandidaten für die kommende Bundestagswahl verständigt. Eine Umfrage lässt nun erkennen, mit wem die Erfolgsaussichten aktuell am größten wären.
+
+## Wassermangel und hohe Temperaturen in Deutschland: Die Dürre ist vorbei – nur wie lange?
+ - [https://www.spiegel.de/wissenschaft/mensch/wassermangel-und-hohe-temperaturen-in-deutschland-die-duerre-ist-vorbei-nur-wie-lange-a-524cfa41-6a3f-44f9-b598-20a44baa8faa#ref=rss](https://www.spiegel.de/wissenschaft/mensch/wassermangel-und-hohe-temperaturen-in-deutschland-die-duerre-ist-vorbei-nur-wie-lange-a-524cfa41-6a3f-44f9-b598-20a44baa8faa#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T14:57:00+00:00
+
+Meteorologen haben die Dürre in Deutschland für beendet erklärt. Doch sie warnen, dass sich die Situation schnell wieder ändern kann. In Südeuropa kündigt sich schon der nächste Katastrophensommer an.
+
+## Welches Deutschlandtrikot ist Ihr Favorit? Stimmen Sie ab!
+ - [https://www.spiegel.de/sport/fussball/welches-deutschlandtrikot-ist-ihr-favorit-stimmen-sie-ab-a-495b6b8f-6206-4f97-910c-9bad88a3fe6f#ref=rss](https://www.spiegel.de/sport/fussball/welches-deutschlandtrikot-ist-ihr-favorit-stimmen-sie-ab-a-495b6b8f-6206-4f97-910c-9bad88a3fe6f#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T14:52:00+00:00
+
+Ende einer Ära: Ab 2027 ist Nike der neue Ausstatter des Deutschen Fußball-Bundes und löst Adidas ab. Hier ist eine Auswahl aller Trikots der deutschen Nationalelf. Was ist Ihr Lieblingsjersey?
+
+## Inka von Puttkamer: Kampfverband der Marine wird erstmals von Frau geführt
+ - [https://www.spiegel.de/politik/deutschland/inka-von-puttkamer-kampfverband-der-marine-wird-erstmals-von-frau-gefuehrt-a-b648ffa4-db4a-4eaa-8bd6-97db139bc1ca#ref=rss](https://www.spiegel.de/politik/deutschland/inka-von-puttkamer-kampfverband-der-marine-wird-erstmals-von-frau-gefuehrt-a-b648ffa4-db4a-4eaa-8bd6-97db139bc1ca#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T14:51:00+00:00
+
+Frauen sind bei der Bundeswehr noch immer eine Minderheit. Bei der Marine übernimmt nun erstmals eine Soldatin ein Geschwader. Die Fregattenkapitänin Inka von Puttkamer war zuvor auf Minenjagdbooten aktiv.
+
+## Bundesrat stimmt für Abbau von Agrardiesel-Subventionen
+ - [https://www.spiegel.de/wirtschaft/soziales/bundesrat-laesst-abbau-von-agrardiesel-subventionen-passieren-a-3334b148-9fbc-4a8a-8880-60c4f69bf76b#ref=rss](https://www.spiegel.de/wirtschaft/soziales/bundesrat-laesst-abbau-von-agrardiesel-subventionen-passieren-a-3334b148-9fbc-4a8a-8880-60c4f69bf76b#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T14:44:00+00:00
+
+Trotz wochenlanger Bauernproteste hat der Bundesrat die Subventionsstreichung beim Agrardiesel durchgewinkt. Die Bundesregierung verspricht den Bauern nun andere Entlastungen.
+
+## Debatte um englisches Fußballtrikot: Premier Rishi Sunak äußert sich kritisch
+ - [https://www.spiegel.de/sport/fussball/debatte-um-englisches-fussballtrikot-premier-rishi-sunak-aeussert-sich-kritisch-a-a104009c-33e6-41a4-afb5-6d81c6da1828#ref=rss](https://www.spiegel.de/sport/fussball/debatte-um-englisches-fussballtrikot-premier-rishi-sunak-aeussert-sich-kritisch-a-a104009c-33e6-41a4-afb5-6d81c6da1828#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T14:44:00+00:00
+
+Der Sportartikelhersteller Nike hat beim neuen Trikot der englischen Nationalmannschaft das Georgskreuz farblich verändert. Der Schritt sorgt in dem Land für kontroverse Debatten. Jetzt hat sich Premier Rishi Sunak eingeschaltet.
+
+## Banken: EU-Gipfel dringt auf Vollendung von Kapitalmarktunion
+ - [https://www.spiegel.de/wirtschaft/unternehmen/banken-eu-gipfel-dringt-auf-vollendung-von-kapitalmarktunion-a-3a0922a6-ec09-4c05-b5c9-646dceca441e#ref=rss](https://www.spiegel.de/wirtschaft/unternehmen/banken-eu-gipfel-dringt-auf-vollendung-von-kapitalmarktunion-a-3a0922a6-ec09-4c05-b5c9-646dceca441e#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T14:38:00+00:00
+
+Durch die Kapitalmarktunion in Europa soll mehr privates Geld für Start-ups oder die grüne Transformation zur Verfügung stehen. Nach jahrelangen Diskussionen soll das Megaprojekt nun endlich vorankommen.
+
+## Fußball-EM 2024: Israel verpasst Teilnahme – Im Schatten des Krieges
+ - [https://www.spiegel.de/sport/fussball/fussball-em-2024-israel-verpasst-teilnahme-im-schatten-des-krieges-a-9d6b6c68-bc6e-4187-b49b-77ea82e7d202#ref=rss](https://www.spiegel.de/sport/fussball/fussball-em-2024-israel-verpasst-teilnahme-im-schatten-des-krieges-a-9d6b6c68-bc6e-4187-b49b-77ea82e7d202#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T14:37:00+00:00
+
+Fußball in Zeiten der Gewalt: Israels Nationalteam träumte von seiner ersten Qualifikation für eine Europameisterschaft und dem Glück, das damit verbunden wäre. Doch die Partie gegen Island wurde zum Fiasko.
+
+## Lebensmittelindustrie will 240 Millionen Schokohasen verkaufen
+ - [https://www.spiegel.de/wirtschaft/lebensmittelindustrie-will-240-millionen-schoko-hasen-verkaufen-a-8138e80b-0724-4a30-9b0d-a279b18b54d0#ref=rss](https://www.spiegel.de/wirtschaft/lebensmittelindustrie-will-240-millionen-schoko-hasen-verkaufen-a-8138e80b-0724-4a30-9b0d-a279b18b54d0#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T14:17:00+00:00
+
+Deutschlands Supermarktregale dürften gut mit Schoko-Osterhasen gefüllt sein: Rund 118 Millionen Exemplare gehen hierzulande in den Verkauf, auch ins Ausland wird kräftig exportiert. Verbraucherschützer kritisieren die Preise.
+
+## »Die Sims« als Film angekündigt: Margot Robbie bringt Computerspiel auf die Leinwand
+ - [https://www.spiegel.de/kultur/kino/die-sims-als-film-angekuendigt-margot-robbie-bringt-computerspiel-auf-die-leinwand-a-6a59b407-e583-4ef6-9101-3a2b9c8e8331#ref=rss](https://www.spiegel.de/kultur/kino/die-sims-als-film-angekuendigt-margot-robbie-bringt-computerspiel-auf-die-leinwand-a-6a59b407-e583-4ef6-9101-3a2b9c8e8331#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T14:10:00+00:00
+
+»Die Sims« sind eines der erfolgreichsten Videospiele weltweit, mehr als 200 Millionen Mal wurde das Game verkauft. Jetzt soll es in die Kinos kommen.
+
+## Kirchen und Parteien kritisieren Sitzungszwang für Bundeswahlausschuss am Karfreitag
+ - [https://www.spiegel.de/politik/deutschland/kirchen-und-parteien-kritisieren-sitzungszwang-fuer-bundeswahlausschuss-am-karfreitag-a-88d78852-8253-441d-b9dc-72e7f8417930#ref=rss](https://www.spiegel.de/politik/deutschland/kirchen-und-parteien-kritisieren-sitzungszwang-fuer-bundeswahlausschuss-am-karfreitag-a-88d78852-8253-441d-b9dc-72e7f8417930#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T14:05:00+00:00
+
+An einem der höchsten christlichen Feiertage muss der Bundeswahlausschuss arbeiten: Das Europawahlgesetz lässt keinen anderen Termin zu. Nun werden Stimmen aus Kirche und Politik laut, dies zu ändern.
+
+## Island: Vulkanwolke zieht über Europa
+ - [https://www.spiegel.de/wissenschaft/natur/island-vulkanwolke-zieht-ueber-europa-a-dcd654e8-a868-472e-b7af-a091ddaaf898#ref=rss](https://www.spiegel.de/wissenschaft/natur/island-vulkanwolke-zieht-ueber-europa-a-dcd654e8-a868-472e-b7af-a091ddaaf898#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:59:00+00:00
+
+Der Vulkanausbruch nahe dem Küstenort Grindavík war kilometerweit zu sehen. Inzwischen sind Spuren der Eruption auch über Kontinentaleuropa zu finden. Wolken aus Rauch und Asche ziehen über mehrere Staaten hinweg.
+
+## Alexej-Nawalny-Tod: EU verhängt Sanktionen gegen Russen
+ - [https://www.spiegel.de/ausland/alexej-nawalny-tod-eu-verhaengt-sanktionen-gegen-russen-a-86a8e389-4bb2-437e-9e2d-7c5cfbff4571#ref=rss](https://www.spiegel.de/ausland/alexej-nawalny-tod-eu-verhaengt-sanktionen-gegen-russen-a-86a8e389-4bb2-437e-9e2d-7c5cfbff4571#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:58:00+00:00
+
+Mit dutzenden Sanktionen straft die EU bereits den russischen Angriff auf die Ukraine. Nun ist auch der Tod von Kremlkritiker Nawalny ein Grund für neue Strafen geworden: Gleich 33 Personen sind betroffen.
+
+## München: Passanten heben Auto hoch und helfen 31-Jähriger
+ - [https://www.spiegel.de/panorama/justiz/muenchen-passanten-heben-auto-hoch-und-helfen-31-jaehriger-a-d738a858-0145-4311-8e62-71555230a92b#ref=rss](https://www.spiegel.de/panorama/justiz/muenchen-passanten-heben-auto-hoch-und-helfen-31-jaehriger-a-d738a858-0145-4311-8e62-71555230a92b#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:48:00+00:00
+
+In München ist einer Autofahrerin laut Polizei ein folgenschwerer Fehler passiert, es kam zu einem Unfall. Zeugen halfen einer jungen Frau, die schwer verletzt in ein Krankenhaus kam.
+
+## Uganda: Yoweri Museveni beruft seinen Sohn an die Spitze der Armee
+ - [https://www.spiegel.de/ausland/uganda-yoweri-museveni-beruft-seinen-sohn-an-die-spitze-der-armee-a-69d74cb4-d0b7-41ed-b6b9-85f37fb54ead#ref=rss](https://www.spiegel.de/ausland/uganda-yoweri-museveni-beruft-seinen-sohn-an-die-spitze-der-armee-a-69d74cb4-d0b7-41ed-b6b9-85f37fb54ead#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:47:00+00:00
+
+Der frühere Rebellenführer Yoweri Museveni steht seit mehr als 30 Jahren als Alleinherrscher an der Spitze Ugandas.
+Nun rückt sein Sohn Muhoozi Kainerugaba Stück für Stück in die Nachfolge.
+
+## Großbritannien: James Cleverly soll Privatjet für Abschiebe-Deal gebucht haben
+ - [https://www.spiegel.de/ausland/grossbritannien-james-cleverly-soll-privatjet-fuer-abschiebe-deal-gebucht-haben-a-1d5bb997-2f31-44e6-9e7f-b68283257de5#ref=rss](https://www.spiegel.de/ausland/grossbritannien-james-cleverly-soll-privatjet-fuer-abschiebe-deal-gebucht-haben-a-1d5bb997-2f31-44e6-9e7f-b68283257de5#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:40:00+00:00
+
+Großbritannien will Schutzsuchende nach Ruanda abschieben, das Projekt ist umstritten. Der britische Innenminister James Cleverly buchte laut einem Medienbericht einen teuren Privatjet, um den Deal zu unterzeichnen.
+
+## Austausch von Abteilungsleitern: Faeser baut ihr Ministerium um
+ - [https://www.spiegel.de/politik/deutschland/austausch-von-abteilungsleitern-faeser-baut-ihr-ministerium-um-a-31912323-741f-482e-8b0e-cf4ccd393e37#ref=rss](https://www.spiegel.de/politik/deutschland/austausch-von-abteilungsleitern-faeser-baut-ihr-ministerium-um-a-31912323-741f-482e-8b0e-cf4ccd393e37#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:36:00+00:00
+
+Bundesinnenministerin Nancy Faeser will nach der Niederlage bei der Hessen-Wahl wieder in die Offensive kommen. Die SPD-Politikerin wechselt mehrere Spitzenbeamten in ihrem Haus aus. Zwei Abteilungsleiter schickt sie in den Ruhestand.
+
+## Gazastreifen: Uno-Sicherheitsrat kann sich nicht auf Waffenruhe einigen
+ - [https://www.spiegel.de/ausland/gazastreifen-uno-sicherheitsrat-kann-sich-nicht-auf-waffenruhe-einigen-a-f5a2ce9e-8fa1-4fd9-9741-c8bf3ebe29f5#ref=rss](https://www.spiegel.de/ausland/gazastreifen-uno-sicherheitsrat-kann-sich-nicht-auf-waffenruhe-einigen-a-f5a2ce9e-8fa1-4fd9-9741-c8bf3ebe29f5#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:33:00+00:00
+
+Immer mehr Länder verurteilen das Vorgehen Israels im Gazastreifen. Der Sicherheitsrat der Vereinten Nationen konnte sich jedoch nicht zum Aussprechen einer Waffenruhe durchringen.
+
+## DFB-Wechsel von Adidas zu Nike: Die deutsche Nation in Aufruhr
+ - [https://www.spiegel.de/wirtschaft/dfb-wechsel-von-adidas-zu-nike-die-deutsche-nation-in-aufruhr-a-5029d9e5-4c25-4a1e-a394-45556e6a5618#ref=rss](https://www.spiegel.de/wirtschaft/dfb-wechsel-von-adidas-zu-nike-die-deutsche-nation-in-aufruhr-a-5029d9e5-4c25-4a1e-a394-45556e6a5618#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:17:00+00:00
+
+Die deutsche Auswahl läuft ab 2027 in Trikots von Nike und nicht mehr Adidas über den Rasen – und die Nation gerät in Aufruhr. Heimatverrat? Symbol des drohenden Untergangs der hiesigen Wirtschaft? Blödsinn!
+
+## DFB-Wechsel von Adidas zu Nike: Die deutsche Nation in Aufruhr - Kommentar
+ - [https://www.spiegel.de/wirtschaft/unternehmen/dfb-wechsel-von-adidas-zu-nike-die-deutsche-nation-in-aufruhr-a-5029d9e5-4c25-4a1e-a394-45556e6a5618#ref=rss](https://www.spiegel.de/wirtschaft/unternehmen/dfb-wechsel-von-adidas-zu-nike-die-deutsche-nation-in-aufruhr-a-5029d9e5-4c25-4a1e-a394-45556e6a5618#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:17:00+00:00
+
+Die deutsche Auswahl läuft ab 2027 in Trikots von Nike und nicht mehr Adidas über den Rasen – und die Nation gerät in Aufruhr. Heimatverrat? Symbol des drohenden Untergangs der hiesigen Wirtschaft? Blödsinn!
+
+## Guatemala: Las Vacas, der Fluss aus Müll
+ - [https://www.spiegel.de/wissenschaft/guatemala-las-vacas-der-fluss-aus-muell-a-b9ee182d-bb0e-4719-bd79-53160f0dbede#ref=rss](https://www.spiegel.de/wissenschaft/guatemala-las-vacas-der-fluss-aus-muell-a-b9ee182d-bb0e-4719-bd79-53160f0dbede#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:12:00+00:00
+
+Der Fluss Las Vacas in Guatemala besteht mittlerweile zu einem großen Teil aus Müll. Der Rest ist Abwasser, berichtet ein Anwohner. Doch das Problem geht über Guatemala hinaus.
+
+## Venezuela: Kommende Präsidentschaftswahl - Nicolás Maduros Demokratietheater
+ - [https://www.spiegel.de/ausland/venezuela-kommende-praesidentschaftswahl-nicolas-maduros-demokratietheater-a-4971f4fc-b355-422d-9e8b-a31262dd8d7c#ref=rss](https://www.spiegel.de/ausland/venezuela-kommende-praesidentschaftswahl-nicolas-maduros-demokratietheater-a-4971f4fc-b355-422d-9e8b-a31262dd8d7c#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:12:00+00:00
+
+Der Wahltermin ist verkündet, Beobachter sind eingeladen. Hält sich Venezuelas Staatschef Nicolás Maduro nun an die demokratischen Grundregeln? Kann er, denn die einzige Kontrahentin ist schon ausgehebelt.
+
+## Schalke 04: Gerald Asamoah muss gehen – Klub-Ikone von Sparkurs betroffen
+ - [https://www.spiegel.de/sport/fussball/schalke-04-gerald-asamoah-muss-gehen-klub-ikone-von-sparkurs-betroffen-a-6cba3322-a977-42e4-a922-38a6ae2a4daf#ref=rss](https://www.spiegel.de/sport/fussball/schalke-04-gerald-asamoah-muss-gehen-klub-ikone-von-sparkurs-betroffen-a-6cba3322-a977-42e4-a922-38a6ae2a4daf#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:09:00+00:00
+
+Eine Schalker Ikone muss gehen: Gerald Asamoah blieb seinem Herzensklub nach der aktiven Karriere als Funktionär erhalten. Weil aber Schalke finanziell in großen Schwierigkeiten steckt, trennen sich nun die Wege.
+
+## Cannabis-Legalisierung: So endete der Krimi im Bundesrat
+ - [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-so-endete-der-krimi-im-bundesrat-a-5b4ce3ed-7985-4ccc-b009-25a051c8646a#ref=rss](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-so-endete-der-krimi-im-bundesrat-a-5b4ce3ed-7985-4ccc-b009-25a051c8646a#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:06:00+00:00
+
+Der Bundesrat stimmte der Cannabislegalisierung zu, trotz Widerstand in den Ländern. Damit steht der Umsetzung nichts mehr im Weg – oder?
+
+## Von der Steinzeit bis heute: Mensch, hast du dich verändert – Geschichte-Newsletter
+ - [https://www.spiegel.de/geschichte/von-der-steinzeit-bis-heute-mensch-hast-du-dich-veraendert-geschichte-newsletter-a-bef0c1b8-b8c0-4807-a58a-90ae82edb5c4#ref=rss](https://www.spiegel.de/geschichte/von-der-steinzeit-bis-heute-mensch-hast-du-dich-veraendert-geschichte-newsletter-a-bef0c1b8-b8c0-4807-a58a-90ae82edb5c4#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T13:00:00+00:00
+
+Der Forschung zur Steinzeit sind sensationelle Durchbrüche gelungen. Das Bild von der Welt unserer erstaunlichen Vorfahren wird immer detailreicher, vom Neandertaler bis zu Ötzi.
+
+## Rheinmetall-Chef Armin Papperger macht Kasse für Immobilienkäufe
+ - [https://www.spiegel.de/wirtschaft/rheinmetall-chef-armin-papperger-macht-kasse-fuer-immobilienkaeufe-a-8c436e60-e16a-46d7-b026-a710bfb829b2#ref=rss](https://www.spiegel.de/wirtschaft/rheinmetall-chef-armin-papperger-macht-kasse-fuer-immobilienkaeufe-a-8c436e60-e16a-46d7-b026-a710bfb829b2#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:54:00+00:00
+
+Eigentlich sind Vorstandsmitglieder eher dazu angehalten, Aktien ihrer Unternehmen zu kaufen. Spitzenkräfte von Rheinmetall und Telekom machten jüngst das Gegenteil. Der Beweggrund ist der gleiche.
+
+## Slowakei vor Präsidentschaftswahlen: Siegt der Gefolgsmann des autoritären Langzeit-Premiers Robert Fico?
+ - [https://www.spiegel.de/ausland/slowakei-vor-praesidentschaftswahlen-siegt-der-gefolgsmann-des-autoritaeren-langzeit-premiers-robert-fico-a-9b5fd8bf-b757-422c-9ebb-51d85750b2c9#ref=rss](https://www.spiegel.de/ausland/slowakei-vor-praesidentschaftswahlen-siegt-der-gefolgsmann-des-autoritaeren-langzeit-premiers-robert-fico-a-9b5fd8bf-b757-422c-9ebb-51d85750b2c9#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:49:00+00:00
+
+Die Slowakei steht bei den Präsidentschaftswahlen vor einer Richtungsentscheidung. Siegt der Gefolgsmann des autoritären Langzeitpremiers Robert Fico, droht endgültig der Rückfall in längst überwunden geglaubte Zeiten.
+
+## Deutschland und Frankreich einigen sich auf Details in neuer Militärkooperation
+ - [https://www.spiegel.de/politik/deutschland-und-frankreich-einigen-sich-auf-details-in-neuer-militaerkooperation-a-39882f4a-66fe-455e-8926-ebd1a6ee7cda#ref=rss](https://www.spiegel.de/politik/deutschland-und-frankreich-einigen-sich-auf-details-in-neuer-militaerkooperation-a-39882f4a-66fe-455e-8926-ebd1a6ee7cda#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:38:00+00:00
+
+Berlin und Paris wollen militärisch enger zusammenarbeiten, doch bei der konkreten Umsetzung hakt es oft. Nun haben sich beiden Länder auf Details zur Entwicklung eines neuen Panzersystems verständigt.
+
+## Ukrainische Vizepremierministerin sieht russische Ölraffinerien als legitime Ziele
+ - [https://www.spiegel.de/ausland/ukrainische-vizepremierministerin-sieht-russische-oelraffinerien-als-legitime-ziele-a-77af1ad4-2c92-4708-9489-d8f9e635d965#ref=rss](https://www.spiegel.de/ausland/ukrainische-vizepremierministerin-sieht-russische-oelraffinerien-als-legitime-ziele-a-77af1ad4-2c92-4708-9489-d8f9e635d965#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:33:00+00:00
+
+Die USA wollen laut einem Zeitungsbericht, dass die Ukraine von Attacken auf Russlands Energieinfrastruktur absieht. Eine ranghohe Regierungsvertreterin Kiews äußerte sich nun deutlich.
+
+## Saudi-Arabien: Legendäre Manga-Serie »Dragon Ball« bekommt eigenen Freizeitpark
+ - [https://www.spiegel.de/kultur/saudi-arabien-legendaere-manga-serie-dragon-ball-bekommt-eigenen-freizeitpark-a-02fbe002-52e8-4ce1-9edf-9226f6ceca96#ref=rss](https://www.spiegel.de/kultur/saudi-arabien-legendaere-manga-serie-dragon-ball-bekommt-eigenen-freizeitpark-a-02fbe002-52e8-4ce1-9edf-9226f6ceca96#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:29:00+00:00
+
+Erst war »Dragon Ball« nur ein erfolgreicher Manga, dann eine weltweit beliebte Serie. Nun kriegt das japanische Abenteuerepos auch noch einen Themenpark: In Saudi-Arabien soll er auf 500.000 Quadratmetern entstehen.
+
+## Ukraine-Krieg: Geheimnisvoller Deal - Tschechien versorgt Ukraine mit Granaten
+ - [https://www.spiegel.de/ausland/ukraine-krieg-geheimnisvoller-deal-tschechien-versorgt-ukraine-mit-granaten-a-c97af400-7ba6-48cd-879a-56395a260d9e#ref=rss](https://www.spiegel.de/ausland/ukraine-krieg-geheimnisvoller-deal-tschechien-versorgt-ukraine-mit-granaten-a-c97af400-7ba6-48cd-879a-56395a260d9e#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:26:00+00:00
+
+Prag hat Munitionsnachschub für die Ukraine organisiert. Bis Jahresende will das Land rund 800.000 Geschosse im außereuropäischen Ausland zusammenkaufen. Wo Tschechien die Granaten herhat? Da bleibt Prag diskret.
+
+## FC Bundestag will keine AfD-Mitglieder mehr in seinen Reihen
+ - [https://www.spiegel.de/politik/deutschland/fc-bundestag-will-keine-afd-mitglieder-mehr-in-seinen-reihen-a-6bdc099c-ba02-48d5-8ed1-0f8cce731d24#ref=rss](https://www.spiegel.de/politik/deutschland/fc-bundestag-will-keine-afd-mitglieder-mehr-in-seinen-reihen-a-6bdc099c-ba02-48d5-8ed1-0f8cce731d24#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:21:00+00:00
+
+Als Fußballteam des Parlaments versteht sich der FC Bundestag als parteiübergreifende Freizeitmannschaft. Doch Mitglieder der AfD sind künftig nicht mehr willkommen.
+
+## Bundesregierung verzeichnet massiven Anstieg bei Dienstreisen zwischen Bonn und Berlin
+ - [https://www.spiegel.de/politik/deutschland/bundesregierung-verzeichnet-massiven-anstieg-bei-dienstreisen-zwischen-bonn-und-berlin-a-c0b54b1a-8b0d-4d69-9f76-1946751ea277#ref=rss](https://www.spiegel.de/politik/deutschland/bundesregierung-verzeichnet-massiven-anstieg-bei-dienstreisen-zwischen-bonn-und-berlin-a-c0b54b1a-8b0d-4d69-9f76-1946751ea277#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:14:00+00:00
+
+Corona hat das Arbeiten verändert – auch innerhalb der Regierung gab es den Trend zu Homeoffice und Videokonferenzen. Inzwischen pendeln Beamte aber wieder deutlich mehr zwischen Bonn und Berlin.
+
+## »Polizeiruf 110« - »Schweine« mit Gisa Flake: Alles Schweine. Vor allem die Menschen
+ - [https://www.spiegel.de/kultur/tv/polizeiruf-110-schweine-mit-gisa-flake-alles-schweine-vor-allem-die-menschen-a-0959056b-a80e-4ef7-941f-3d1ca66da5b9#ref=rss](https://www.spiegel.de/kultur/tv/polizeiruf-110-schweine-mit-gisa-flake-alles-schweine-vor-allem-die-menschen-a-0959056b-a80e-4ef7-941f-3d1ca66da5b9#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:12:00+00:00
+
+Die einen ringen um ihre Existenz, die anderen um die Macht: Im »Polizeiruf« treffen verarmte Schweinebauern auf Juristenschnösel. Ein weiterer Neuanfang beim gebeutelten deutsch-polnischen TV-Revier.
+
+## Wirtschaftsweise: Veronika Grimms Aufsichtsratsmandat bei Siemens Energy wurde nur formlos geprüft
+ - [https://www.spiegel.de/wirtschaft/wirtschaftsweise-veronika-grimms-aufsichtsratsmandat-bei-siemens-energy-wurde-nur-formlos-geprueft-a-c2009795-6a29-4ad4-b63f-73903e43d028#ref=rss](https://www.spiegel.de/wirtschaft/wirtschaftsweise-veronika-grimms-aufsichtsratsmandat-bei-siemens-energy-wurde-nur-formlos-geprueft-a-c2009795-6a29-4ad4-b63f-73903e43d028#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:07:00+00:00
+
+Eine Wirtschaftsweise im Aufsichtsrat von Siemens Energy? Veronika Grimm verteidigte ihre umstrittene Berufung, alles sei mit dem Wirtschaftsministerium geklärt worden. Nur: An der dortigen Führungsebene ging die Personalie womöglich vorbei.
+
+## Bundeswehr: Militärischer Abschirmdienst entschärft Meldepflicht für AfD-Anhänger
+ - [https://www.spiegel.de/politik/deutschland/bundeswehr-militaerischer-abschirmdienst-entschaerft-meldepflicht-fuer-afd-anhaenger-a-47c40b84-d000-4e52-a856-d959787487ed#ref=rss](https://www.spiegel.de/politik/deutschland/bundeswehr-militaerischer-abschirmdienst-entschaerft-meldepflicht-fuer-afd-anhaenger-a-47c40b84-d000-4e52-a856-d959787487ed#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:06:00+00:00
+
+Der Militärische Abschirmdienst forderte die Truppe kürzlich auf, Mitgliedschaften in als rechtsextrem eingestuften AfD-Organisationen sofort zu melden. Nach SPIEGEL-Informationen musste dies deutlich abgemildert werden.
+
+## Flüchtlinge: Zahl der Neuankömmlinge aus der Ukraine steigt
+ - [https://www.spiegel.de/politik/deutschland/fluechtlinge-zahl-der-neuankoemmlinge-aus-der-ukraine-steigt-a-2fc44d0a-433d-46e1-91ef-d8b3ddad6fec#ref=rss](https://www.spiegel.de/politik/deutschland/fluechtlinge-zahl-der-neuankoemmlinge-aus-der-ukraine-steigt-a-2fc44d0a-433d-46e1-91ef-d8b3ddad6fec#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:06:00+00:00
+
+Immer mehr Menschen aus der Ukraine suchen in der Bundesrepublik Schutz vor Wladimir Putins Krieg. Ihre Zahl liegt sogar höher als die der Asylsuchenden, die nach Deutschland kommen. Die Migrationsbehörden sind besorgt.
+
+## Der SPIEGEL vor 50 Jahren: Kulturkampf um die Mengenlehre
+ - [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kulturkampf-um-die-mengenlehre-a-0f3e6a37-8b57-4b5e-9fe4-7ec2de4f6aa5#ref=rss](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kulturkampf-um-die-mengenlehre-a-0f3e6a37-8b57-4b5e-9fe4-7ec2de4f6aa5#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:00:00+00:00
+
+Pädagogenjargon x (rote + blaue + gelbe Plättchen) = reichlich Elternzorn. So lautete die Formel, die Grundschulkinder verwirrte und gestandene Lehrkräfte verstimmte: »Mengenlehre« war das Reizwort des Jahres 1974.
+
+## Genderverbot in Bayern: Ein Hoch auf die Wurstigkeit - Kolumne
+ - [https://www.spiegel.de/politik/deutschland/genderverbot-in-bayern-ein-hoch-auf-die-wurstigkeit-kolumne-a-620041ba-9f02-41b4-8c7e-503300779f19#ref=rss](https://www.spiegel.de/politik/deutschland/genderverbot-in-bayern-ein-hoch-auf-die-wurstigkeit-kolumne-a-620041ba-9f02-41b4-8c7e-503300779f19#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:00:00+00:00
+
+Gut, dass Bayerns Behörden und Bildungseinrichtungen künftig »klare und verständliche« Sprache benutzen sollen. Aber warum macht Markus Söders Staatskanzlei nicht mit?
+
+## Verteidigungsausschuss: Endlich geheim - Glosse
+ - [https://www.spiegel.de/politik/deutschland/verteidigungsausschuss-endlich-geheim-glosse-a-05ad51be-79b2-4e56-bee8-517e2f62da16#ref=rss](https://www.spiegel.de/politik/deutschland/verteidigungsausschuss-endlich-geheim-glosse-a-05ad51be-79b2-4e56-bee8-517e2f62da16#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T12:00:00+00:00
+
+Nach dem Streit über ein Leak im Verteidigungsausschuss plant dessen Vorsitzende Strack-Zimmermann eine radikale Reform des Gremiums: Künftig soll nur noch ein kleinster Kreis Zugang bekommen.
+
+## Cannabis: Christian Lindner freut sich über Legalisierung
+ - [https://www.spiegel.de/politik/deutschland/cannabis-christian-lindner-freut-sich-ueber-legalisierung-a-bca0ec70-03fd-4a22-887f-446a66904626#ref=rss](https://www.spiegel.de/politik/deutschland/cannabis-christian-lindner-freut-sich-ueber-legalisierung-a-bca0ec70-03fd-4a22-887f-446a66904626#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T11:50:00+00:00
+
+Der Bundesrat verzögert die Cannabislegalisierung nicht durch einen Vermittlungsausschuss. Finanzminister Lindner freut sich, Gesundheitsminister Lauterbach mahnt zur Vorsicht – und aus den Ländern kommt neue Kritik.
+
+## Israel beschlagnahmt 800 Hektar Land im besetzten Westjordanland
+ - [https://www.spiegel.de/ausland/israel-beschlagnahmt-800-hektar-land-im-besetzten-westjordanland-a-63906acd-5784-4c73-b67e-3cc984702f2a#ref=rss](https://www.spiegel.de/ausland/israel-beschlagnahmt-800-hektar-land-im-besetzten-westjordanland-a-63906acd-5784-4c73-b67e-3cc984702f2a#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T11:47:00+00:00
+
+Die Lage zwischen Israel und den Palästinensern ist seit dem neuen Gazakrieg angespannt, das Westjordanland blieb bisher jedoch weitestgehend unbehelligt. Nun hat Israel palästinensisches Areal zum »Staatsgebiet« erklärt.
+
+## Ostfriesland: Ostfriesen bauen jetzt Wein an - so schmeckt er
+ - [https://www.spiegel.de/stil/ostfriesland-ostfriesen-bauen-jetzt-wein-an-so-schmeckt-er-a-6c5babca-f998-4a9d-8639-2d74bc9dc874#ref=rss](https://www.spiegel.de/stil/ostfriesland-ostfriesen-bauen-jetzt-wein-an-so-schmeckt-er-a-6c5babca-f998-4a9d-8639-2d74bc9dc874#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T11:42:00+00:00
+
+Grauer Himmel, Niesel, schlammige Felder: In der norddeutschen Tiefebene beackern Winzerinnen und Winzer neuerdings junge Weinfelder. Strohgelb mit grünlichen Reflexen zeigt sich der erste Jahrgang im Glas. Überzeugt er?
+
+## DFB und Adidas: Entscheidend is aufm Konto - der neue Deal mit Nike und die Hintergründe
+ - [https://www.spiegel.de/sport/fussball/dfb-und-adidas-entscheidend-is-aufm-konto-der-neue-deal-mit-nike-und-die-hintergruende-a-c9ca124c-79a8-4d7d-8998-e2195f5d1a6d#ref=rss](https://www.spiegel.de/sport/fussball/dfb-und-adidas-entscheidend-is-aufm-konto-der-neue-deal-mit-nike-und-die-hintergruende-a-c9ca124c-79a8-4d7d-8998-e2195f5d1a6d#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T11:17:00+00:00
+
+Der Deutsche Fußball-Bund und Adidas – beide schienen untrennbar miteinander verbunden. Aber die Geldnot des Verbands beendet auch die engsten Beziehungen: Zu dem Nike-Angebot konnte der DFB nicht Nein sagen.
+
+## Gazakrieg: Israel meldet Hunderte getötete Hamas-Kämpfer im Schifa-Krankenhaus
+ - [https://www.spiegel.de/ausland/gazakrieg-israel-meldet-hunderte-getoetete-hamas-kaempfer-im-schifa-krankenhaus-a-ef996ed8-9fd8-420a-9236-d434127619f5#ref=rss](https://www.spiegel.de/ausland/gazakrieg-israel-meldet-hunderte-getoetete-hamas-kaempfer-im-schifa-krankenhaus-a-ef996ed8-9fd8-420a-9236-d434127619f5#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T11:14:00+00:00
+
+Überraschend startete Israels Militär zu Wochenbeginn einen neuen Sturm auf die Schifa-Klinik. Die israelische Bilanz des Einsatzes fällt nun deutlich tödlicher aus als zunächst bekannt.
+
+## Unesco: Wasserknappheit könnte Frieden weltweit bedrohen
+ - [https://www.spiegel.de/wissenschaft/mensch/unesco-wasserknappheit-koennte-frieden-weltweit-bedrohen-a-e1aa5c5b-cc47-4bcd-aa61-7c66aaa7f102#ref=rss](https://www.spiegel.de/wissenschaft/mensch/unesco-wasserknappheit-koennte-frieden-weltweit-bedrohen-a-e1aa5c5b-cc47-4bcd-aa61-7c66aaa7f102#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T11:04:00+00:00
+
+Verschmutztes Trinkwasser, Dürren, kein Zugang zu Sanitäreinrichtungen: Die zunehmende Wasserknappheit hat laut Unesco das Potenzial, weltweit Konflikte anzufachen. Dabei gebe es Wege, die Lage zu entschärfen.
+
+## »Stay Informed«: Techmagazin berichtet von Sicherheitslücke bei beliebter Kita-App
+ - [https://www.spiegel.de/netzwelt/web/stay-informed-techmagazin-berichtet-von-sicherheitsluecke-bei-beliebter-kita-app-a-5074d96c-2db3-4b04-8eeb-4dca1f931aa7#ref=rss](https://www.spiegel.de/netzwelt/web/stay-informed-techmagazin-berichtet-von-sicherheitsluecke-bei-beliebter-kita-app-a-5074d96c-2db3-4b04-8eeb-4dca1f931aa7#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T10:57:00+00:00
+
+Tausende Kitas, Schulen und Horte nutzen den Service Stay Informed, um mit Eltern zu kommunizieren. Einem Medienbericht zufolge hatte die App jedoch bis vor Kurzem eine Sicherheitslücke.
+
+## Verurteilter Ex-Fußballprofi: Neymars Vater will Dani Alves nicht weiter unterstützen
+ - [https://www.spiegel.de/sport/fussball/verurteilter-ex-fussballprofi-neymars-vater-will-dani-alves-nicht-weiter-unterstuetzen-a-9b728367-5032-476e-b93b-890628c05eb6#ref=rss](https://www.spiegel.de/sport/fussball/verurteilter-ex-fussballprofi-neymars-vater-will-dani-alves-nicht-weiter-unterstuetzen-a-9b728367-5032-476e-b93b-890628c05eb6#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T10:53:00+00:00
+
+Wegen sexuellen Missbrauchs wurde Dani Alves zu viereinhalb Jahren Haft verurteilt. Für die Kaution kamen die Neymars auf, Alves selbst hätte sie nicht bezahlen können. Doch erneute finanzielle Hilfe ist ausgeschlossen.
+
+## Cannabis: Bundesrat lässt Legalisierung passieren
+ - [https://www.spiegel.de/politik/deutschland/cannabis-bundesrat-billigt-legalisierung-a-86ed2890-c788-4ce7-877a-21dced023219#ref=rss](https://www.spiegel.de/politik/deutschland/cannabis-bundesrat-billigt-legalisierung-a-86ed2890-c788-4ce7-877a-21dced023219#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T10:38:00+00:00
+
+Die Cannabislegalisierung kann kommen: Das Projekt hat den Bundesrat passiert. Bis zuletzt war unklar, ob die Länderkammer das Vorhaben der Ampel in den Vermittlungsausschuss verweist – und damit ausbremst.
+
+## Julian Schuster wird Christian Streichs Nachfolger als Trainer in Freiburg
+ - [https://www.spiegel.de/sport/fussball/julian-schuster-wird-christian-streichs-nachfolger-als-trainer-in-freiburg-a-b598279d-d743-4715-a5da-1d9056621aa6#ref=rss](https://www.spiegel.de/sport/fussball/julian-schuster-wird-christian-streichs-nachfolger-als-trainer-in-freiburg-a-b598279d-d743-4715-a5da-1d9056621aa6#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T10:00:00+00:00
+
+Jetzt ist es offiziell: Ex-Kapitän Julian Schuster tritt beim SC Freiburg die Nachfolge von Trainer Christian Streich an. Wie der Klub mitteilte, übernimmt der 38-Jährige den Fußball-Bundesligisten zur neuen Saison.
+
+## DFB-Wechsel von Adidas zu Nike: Politiker Karl Lauterbach und Markus Söder äußern sich
+ - [https://www.spiegel.de/sport/fussball/dfb-wechsel-von-adidas-zu-nike-politiker-karl-lauterbach-und-markus-soeder-aeussern-sich-a-9c4334e1-78bf-43e0-876a-9a55ac92ccf6#ref=rss](https://www.spiegel.de/sport/fussball/dfb-wechsel-von-adidas-zu-nike-politiker-karl-lauterbach-und-markus-soeder-aeussern-sich-a-9c4334e1-78bf-43e0-876a-9a55ac92ccf6#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T09:53:00+00:00
+
+Der Deutsche Fußball-Bund wechselt von Adidas zu Nike und sorgt damit in der Politik für Empörung. Karl Lauterbach postete ein Foto in Adidas-Trainingsjacke, Markus Söder findet es »schade und auch unverständlich«.
+
+## Donald Trump vor Gericht: Wie er die Justiz vor der US-Präsidentschaftswahl ausbremst
+ - [https://www.spiegel.de/ausland/donald-trump-vor-gericht-wie-er-die-justiz-vor-der-us-praesidentschaftswahl-ausbremst-a-425aa106-0e78-415a-8373-34adba8374a3#ref=rss](https://www.spiegel.de/ausland/donald-trump-vor-gericht-wie-er-die-justiz-vor-der-us-praesidentschaftswahl-ausbremst-a-425aa106-0e78-415a-8373-34adba8374a3#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T09:38:00+00:00
+
+Die Justiz soll Donald Trump vor der Präsidentschaftswahl stoppen – das ist die Hoffnung vieler US-Demokraten. Doch der Republikaner verzögert die Strafprozesse. Kommt er einfach davon?
+
+## Hamburg-Wilhelmsburg: Bauarbeiter stürzen durch Lichtschacht – ein Toter
+ - [https://www.spiegel.de/panorama/hamburg-wilhelmsburg-bauarbeiter-stuerzen-durch-lichtschacht-ein-toter-a-4f478c7b-33a5-4b02-a45f-112983b8482a#ref=rss](https://www.spiegel.de/panorama/hamburg-wilhelmsburg-bauarbeiter-stuerzen-durch-lichtschacht-ein-toter-a-4f478c7b-33a5-4b02-a45f-112983b8482a#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T09:35:00+00:00
+
+Zwei Männer sind auf einer Hamburger Baustelle in die Tiefe gestürzt. Einer erlag seinen Verletzungen, der andere landete auf einem Gerüst und konnte gerettet werden.
+
+## Bundesrat stimmt Wachstumschancengesetz zu
+ - [https://www.spiegel.de/wirtschaft/bundesrat-stimmt-wachstumschancengesetz-zu-a-a1b37652-75cf-4de7-8d7e-db2eb478358e#ref=rss](https://www.spiegel.de/wirtschaft/bundesrat-stimmt-wachstumschancengesetz-zu-a-a1b37652-75cf-4de7-8d7e-db2eb478358e#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T09:16:00+00:00
+
+Der Bundesrat hat dem Wachstumschancengesetz mit deutlicher Mehrheit zugestimmt. Damit ist der Weg für die geplanten milliardenschweren steuerlichen Entlastungen von Unternehmen frei.
+
+## DFB-Wechsel von Adidas zu Nike: Nike zahlt dem DFB offenbar jährlich 100 Millionen Euro
+ - [https://www.spiegel.de/sport/fussball/dfb-wechsel-von-adidas-zu-nike-nike-zahlt-dem-dfb-offenbar-jaehrlich-100-millionen-euro-a-7f95e2b8-7512-479a-9228-352f26dac60f#ref=rss](https://www.spiegel.de/sport/fussball/dfb-wechsel-von-adidas-zu-nike-nike-zahlt-dem-dfb-offenbar-jaehrlich-100-millionen-euro-a-7f95e2b8-7512-479a-9228-352f26dac60f#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T08:54:00+00:00
+
+Der Deutsche Fußball-Bund wechselt ab 2027 den Ausrüster. Wohl vor allem aus wirtschaftlichen Gründen: Laut einem Bericht des »Handelsblatts« soll US-Gigant Nike doppelt so viel Geld wie Adidas zahlen.
+
+## Gewalt gegen Frauen: Was der Fall Kasia Lenhardt lehrt
+ - [https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-was-der-fall-kasia-lenhardt-lehrt-a-e9822c0e-1990-48a4-8c2e-9b87e01ca0fb#ref=rss](https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-was-der-fall-kasia-lenhardt-lehrt-a-e9822c0e-1990-48a4-8c2e-9b87e01ca0fb#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T08:42:00+00:00
+
+Alltäglich werden Frauen von ihren Partnern misshandelt, geschlagen, vergewaltigt. Die Politik handelt zögerlich. Und viel zu viele sehen weg.
+
+## Niedrige Geburtenraten: In fast allen Ländern wird die Bevölkerung bald schrumpfen
+ - [https://www.spiegel.de/wissenschaft/mensch/niedrige-geburtenraten-in-fast-allen-laendern-wird-die-bevoelkerung-bald-schrumpfen-a-efd964f2-f346-43d9-9ad3-19b563f471e1#ref=rss](https://www.spiegel.de/wissenschaft/mensch/niedrige-geburtenraten-in-fast-allen-laendern-wird-die-bevoelkerung-bald-schrumpfen-a-efd964f2-f346-43d9-9ad3-19b563f471e1#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T08:35:00+00:00
+
+Weltweit bekommen Frauen immer weniger Kinder. Familienförderung hilft dagegen nur bedingt, legt eine Studie nahe. Doch eine Expertin warnt vor einem Trugschluss.
+
+## Dresden: CDU stimmt für AfD-Antrag zu Bezahlkarte für Asylsuchende im Stadtrat
+ - [https://www.spiegel.de/politik/deutschland/dresden-stadtrat-stimmt-fuer-afd-antrag-zu-bezahlkarte-fuer-asylsuchende-a-4418f6ad-92ae-4b22-8c0a-1151a7d66931#ref=rss](https://www.spiegel.de/politik/deutschland/dresden-stadtrat-stimmt-fuer-afd-antrag-zu-bezahlkarte-fuer-asylsuchende-a-4418f6ad-92ae-4b22-8c0a-1151a7d66931#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T08:26:00+00:00
+
+Die Brandmauer zur AfD bekommt Risse: In Dresden hat der Stadtrat mit Stimmen von CDU, FDP und Freien Wählern einen Antrag der Rechts-außen-Partei gebilligt. Es geht um Bezahlkarten für Asylsuchende.
+
+## Stärkstes Minus seit 2000: Immobilienpreise sinken 2023 um 8,4 Prozent
+ - [https://www.spiegel.de/wirtschaft/staerkstes-minus-seit-2000-immobilienpreise-sinken-2023-um-8-4-prozent-a-5fe092ec-9c05-4c8c-b6e9-bc1cfa9aa3b6#ref=rss](https://www.spiegel.de/wirtschaft/staerkstes-minus-seit-2000-immobilienpreise-sinken-2023-um-8-4-prozent-a-5fe092ec-9c05-4c8c-b6e9-bc1cfa9aa3b6#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T08:15:00+00:00
+
+Das Statistische Bundesamt hat zusammengerechnet, wie stark die Preise für Wohnungen und Häuser im vergangenen Jahr gesunken sind. Besonders Hausbesitzer sollten jetzt stark sein.
+
+## USA drängen Ukraine, Angriffe auf russische Ölraffinerien zu stoppen
+ - [https://www.spiegel.de/ausland/usa-draengen-ukraine-angriffe-auf-russische-oelraffinerien-zu-stoppen-a-b445e235-7afb-484c-bbad-db7f792c03b1#ref=rss](https://www.spiegel.de/ausland/usa-draengen-ukraine-angriffe-auf-russische-oelraffinerien-zu-stoppen-a-b445e235-7afb-484c-bbad-db7f792c03b1#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T08:13:00+00:00
+
+Russland überzieht die Ukraine mit massiven Angriffen auf das Energienetz, Kiew greift mit Drohnen russische Ölraffinerien an. Doch laut der »Financial Times« sieht Washington die Attacken der Ukraine kritisch.
+
+## Wirtschaftsexperte erwartet kaum Impulse von der Fußball-EM
+ - [https://www.spiegel.de/wirtschaft/wirtschaftsexperte-erwartet-kaum-impulse-von-der-fussball-em-a-eb9d9c9e-f521-4056-810a-09a257c7a768#ref=rss](https://www.spiegel.de/wirtschaft/wirtschaftsexperte-erwartet-kaum-impulse-von-der-fussball-em-a-eb9d9c9e-f521-4056-810a-09a257c7a768#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T07:59:00+00:00
+
+Die Fußball-EM im Sommer soll endlich wieder für heitere Momente sorgen. Doch in einem Punkt warnen Experten: Als Konjunktur-Lokomotive taugt sie nicht.
+
+## Brasilianische Bundespolizei verhaftet Ex-Fußballstar Robinho
+ - [https://www.spiegel.de/sport/fussball/brasilianische-bundespolizei-verhaftet-ex-fussballstar-robinho-a-03efb6c9-19de-435c-8d0a-3b01c25cece8#ref=rss](https://www.spiegel.de/sport/fussball/brasilianische-bundespolizei-verhaftet-ex-fussballstar-robinho-a-03efb6c9-19de-435c-8d0a-3b01c25cece8#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T07:53:00+00:00
+
+Vor sieben Jahren wurde der frühere brasilianische Nationalspieler Robinho in Italien wegen Vergewaltigung verurteilt. Jetzt ist er in seinem Heimatland festgenommen worden. Er muss neun Jahre ins Gefängnis.
+
+## Ukraine: Stromausfälle nach mehreren massiven russischen Luftschlägen
+ - [https://www.spiegel.de/ausland/ukraine-stromausfaelle-nach-mehreren-massiven-russischen-luftschlaegen-a-4396c9ce-c3ad-4012-bb78-9ead24e7d49f#ref=rss](https://www.spiegel.de/ausland/ukraine-stromausfaelle-nach-mehreren-massiven-russischen-luftschlaegen-a-4396c9ce-c3ad-4012-bb78-9ead24e7d49f#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T07:51:00+00:00
+
+Russland überzieht die Ukraine mit schweren Luftangriffen gegen das Energienetz. In mehreren Städten ist die Stromversorgung ausgefallen. Präsident Selenskyj forderte den Westen zu mehr Unterstützung auf.
+
+## Australien: Forscher findet neue Käfergattung beim Camping
+ - [https://www.spiegel.de/wissenschaft/natur/australien-forscher-findet-neue-kaefergattung-beim-camping-a-479aff2a-47a8-49f2-89c8-08f23233746b#ref=rss](https://www.spiegel.de/wissenschaft/natur/australien-forscher-findet-neue-kaefergattung-beim-camping-a-479aff2a-47a8-49f2-89c8-08f23233746b#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T07:35:00+00:00
+
+Zunächst hielt der Wissenschaftler seine Entdeckung in Australien für Vogelkot. Dann wurde ihm klar: Es handelt sich um ein Exemplar einer bis dahin noch unbekannten Gattung von Käfern. Das Tier wirft Fragen auf.
+
+## Von der Leyen plant höheren Importzoll für russisches Getreide
+ - [https://www.spiegel.de/wirtschaft/von-der-leyen-plant-hoeheren-importzoll-fuer-russisches-getreide-a-cbc69e1a-54fe-4c79-b75d-2f572f3a6f9b#ref=rss](https://www.spiegel.de/wirtschaft/von-der-leyen-plant-hoeheren-importzoll-fuer-russisches-getreide-a-cbc69e1a-54fe-4c79-b75d-2f572f3a6f9b#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T07:32:00+00:00
+
+Der Export von teils in der Ukraine gestohlenem Getreide trägt seinen Teil zur Finanzierung von Moskaus Krieg gegen Kiew bei. Dem will die EU jetzt einen Riegel vorschieben.
+
+## Donald Trump will mit Wahlkampf-Spenden seine Anwaltskosten zahlen
+ - [https://www.spiegel.de/ausland/donald-trump-will-mit-wahlkampf-spenden-seine-anwaltskosten-zahlen-a-60768919-6d45-445f-b555-4fd944de975c#ref=rss](https://www.spiegel.de/ausland/donald-trump-will-mit-wahlkampf-spenden-seine-anwaltskosten-zahlen-a-60768919-6d45-445f-b555-4fd944de975c#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T07:05:00+00:00
+
+Spenden dürfen laut US-Recht nur für den Wahlkampf ausgegeben werden. Doch mit einem Trick will Ex-Präsident Trump nun Gelder an seine Anwälte weiterleiten. Seine Geldstrafen kann er damit jedoch kaum begleichen.
+
+## DFB-Wechsel von Adidas zu Nike: Ist das schon Landesverrat?
+ - [https://www.spiegel.de/sport/fussball/dfb-wechsel-von-adidas-zu-nike-ist-das-schon-landesverrat-a-527f0c16-c13c-49d4-9b41-aab1f0e11794#ref=rss](https://www.spiegel.de/sport/fussball/dfb-wechsel-von-adidas-zu-nike-ist-das-schon-landesverrat-a-527f0c16-c13c-49d4-9b41-aab1f0e11794#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T06:57:00+00:00
+
+Eine jahrzehntelange Liebe geht zu Ende: Deutschlands Fußballnationalmannschaften werden künftig nicht mehr von Adidas beliefert, sondern vom US-Konkurrenten Nike. Ist das schon Landesverrat?
+
+## DFB-Wechsel von Adidas zu Nike: Ist das schon Landesverrat? - Kommentar
+ - [https://www.spiegel.de/kultur/dfb-wechsel-von-adidas-zu-nike-ist-das-schon-landesverrat-a-527f0c16-c13c-49d4-9b41-aab1f0e11794#ref=rss](https://www.spiegel.de/kultur/dfb-wechsel-von-adidas-zu-nike-ist-das-schon-landesverrat-a-527f0c16-c13c-49d4-9b41-aab1f0e11794#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T06:57:00+00:00
+
+Eine jahrzehntelange Liebe geht zu Ende: Deutschlands Fußballnationalmannschaften werden künftig nicht mehr von Adidas beliefert, sondern vom US-Konkurrenten Nike. Ist das schon Landesverrat?
+
+## Tengelmann-Erben versteigern wertvolle Briefmarken ihres Patriarchen
+ - [https://www.spiegel.de/wirtschaft/tengelmann-erben-versteigern-wertvolle-briefmarken-ihres-patriarchen-a-794285e5-aa6d-4838-ae2c-ac6cb6ebbf03#ref=rss](https://www.spiegel.de/wirtschaft/tengelmann-erben-versteigern-wertvolle-briefmarken-ihres-patriarchen-a-794285e5-aa6d-4838-ae2c-ac6cb6ebbf03#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T06:56:00+00:00
+
+Erivan Haub machte die Tengelmann-Gruppe zu einer der größten Einzelhandelsketten weltweit. Weniger bekannt ist seine Leidenschaft für Briefmarken. Nun kommen wohl letztmals Raritäten seiner Sammlung unter den Hammer.
+
+## Rechtsextremismus: Die geheimen Geldgeber des »Compact«-Magazins
+ - [https://www.spiegel.de/politik/deutschland/rechtsextremismus-die-geheimen-geldgeber-des-compact-magazins-a-d3b664ff-0a25-44f3-8b31-eaa6534bd50a#ref=rss](https://www.spiegel.de/politik/deutschland/rechtsextremismus-die-geheimen-geldgeber-des-compact-magazins-a-d3b664ff-0a25-44f3-8b31-eaa6534bd50a#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T06:31:00+00:00
+
+Jürgen Elsässer hat das »Compact«-Magazin zu einem führenden Medium für Rechtsextreme, Russlandfreunde und Verschwörungsanhänger aufgebaut. SPIEGEL-Recherchen zeigen, wer ihn dabei finanziert.
+
+## Bornheim bei Bonn: Hysterische Schreie beim Gamen lösen Polizeieinsatz aus
+ - [https://www.spiegel.de/panorama/justiz/bornheim-bei-bonn-hysterische-schreie-beim-gamen-loesen-polizeieinsatz-aus-a-23ea19f3-fb0f-458c-ad20-65195caeadd2#ref=rss](https://www.spiegel.de/panorama/justiz/bornheim-bei-bonn-hysterische-schreie-beim-gamen-loesen-polizeieinsatz-aus-a-23ea19f3-fb0f-458c-ad20-65195caeadd2#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T06:08:00+00:00
+
+Aus einer Wohnung bei Bonn drang Gebrüll – so laut, dass ein Passant die Polizei informierte. Der Anlass war harmlos, die Eltern des »Täters« gelobten Besserung.
+
+## Israel drängt auf Rafah-Offensive auch ohne US-Zustimmung – hofft aber auf neue Waffen
+ - [https://www.spiegel.de/ausland/israel-draengt-auf-rafah-offensive-auch-ohne-us-zustimmung-hofft-aber-auf-neue-waffen-a-05edaa40-76e8-4699-b70a-e98b75fc5463#ref=rss](https://www.spiegel.de/ausland/israel-draengt-auf-rafah-offensive-auch-ohne-us-zustimmung-hofft-aber-auf-neue-waffen-a-05edaa40-76e8-4699-b70a-e98b75fc5463#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T05:53:00+00:00
+
+Israels Regierung setzt weiter auf eine Bodenoffensive im Süden Gazas, auch unter Missbilligung seines engsten Verbündeten USA. Dennoch soll Washington laut einem Medienbericht eine Wunschliste mit US-Waffen vorgelegt werden.
+
+## DHL erwartet wahren Osterboom an Paketen
+ - [https://www.spiegel.de/wirtschaft/unternehmen/dhl-erwartet-wahren-oster-boom-an-paketen-a-377fae17-ec76-4b97-9005-6b80b2fd5565#ref=rss](https://www.spiegel.de/wirtschaft/unternehmen/dhl-erwartet-wahren-oster-boom-an-paketen-a-377fae17-ec76-4b97-9005-6b80b2fd5565#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T05:40:00+00:00
+
+Offenbar nutzen viele die freien Tage vor Ostern, um in den Verkaufsregalen der Onlinehändler zu stöbern. Paketboten haben alle Hände voll zu tun.
+
+## DHL erwartet wahren Oster-Boom an Paketen
+ - [https://www.spiegel.de/wirtschaft/dhl-erwartet-wahren-oster-boom-an-paketen-a-377fae17-ec76-4b97-9005-6b80b2fd5565#ref=rss](https://www.spiegel.de/wirtschaft/dhl-erwartet-wahren-oster-boom-an-paketen-a-377fae17-ec76-4b97-9005-6b80b2fd5565#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T05:40:00+00:00
+
+Offenbar nutzen viele die freien Tage vor Ostern, um in den Verkaufsregalen der Online-Händler zu stöbern. Paketboten haben alle Hände voll zu tun.
+
+## Coaching »Zuversicht gewinnen«, Schritt 6: Das Glück liegt im »trotzdem«
+ - [https://www.spiegel.de/psychologie/coaching-zuversicht-gewinnen-schritt-6-das-glueck-liegt-im-trotzdem-a-26f0f8a6-0ec7-438d-bd55-a955b23e25b5#ref=rss](https://www.spiegel.de/psychologie/coaching-zuversicht-gewinnen-schritt-6-das-glueck-liegt-im-trotzdem-a-26f0f8a6-0ec7-438d-bd55-a955b23e25b5#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T05:32:00+00:00
+
+Belastungen aus der Vergangenheit sind wie schwere Pakete, die wir mit uns herumschleppen. Doch oft lässt sich in ihnen etwas Positives finden. Hier lernen Sie, wie man das trainieren kann.
+
+## Fall Jérôme Boateng und Kasia Lenhardt: Was Sie zu NDA wissen müssen
+ - [https://www.spiegel.de/panorama/justiz/fall-jerome-boateng-und-kasia-lenhardt-was-sie-zu-nda-wissen-muessen-a-4d79824f-e67f-43b5-826b-0d43a46ab8ab#ref=rss](https://www.spiegel.de/panorama/justiz/fall-jerome-boateng-und-kasia-lenhardt-was-sie-zu-nda-wissen-muessen-a-4d79824f-e67f-43b5-826b-0d43a46ab8ab#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T05:28:00+00:00
+
+Kasia Lenhardt sprach öffentlich nicht über mögliche Gewalt in ihrer Beziehung mit Jérôme Boateng – wohl auch wegen eines sogenannten NDA. Was sind das für Dokumente und sind sie überhaupt wirksam? Die wichtigsten Antworten.
+
+## Škoda Superb Combi: Fünf Meter »Preiswürdigkeit«
+ - [https://www.spiegel.de/auto/fahrberichte/skoda-superb-combi-fuenf-meter-preiswuerdigkeit-a-a19e759f-23c8-46e3-83c4-93c1e34bb856#ref=rss](https://www.spiegel.de/auto/fahrberichte/skoda-superb-combi-fuenf-meter-preiswuerdigkeit-a-a19e759f-23c8-46e3-83c4-93c1e34bb856#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T04:52:00+00:00
+
+Der Škoda Superb Combi ist schicker als ein Audi A4, günstiger als ein Passat und geräumiger als beide. So wird das neue Modell zur ersten Wahl für viele Kunden – und bringt das Puzzle der VW-Konzernmarken durcheinander.
+
+## News: Bundesrat, Cannabis, Agrardiesel, Biberach, Grüne, Gewalt, EU-Gipfel, Gaza, Ukraine
+ - [https://www.spiegel.de/politik/deutschland/news-bundesrat-cannabis-agrardiesel-biberach-gruene-gewalt-eu-gipfel-gaza-ukraine-a-c1d3d38a-f9ae-4235-89b8-6478a24abaa1#ref=rss](https://www.spiegel.de/politik/deutschland/news-bundesrat-cannabis-agrardiesel-biberach-gruene-gewalt-eu-gipfel-gaza-ukraine-a-c1d3d38a-f9ae-4235-89b8-6478a24abaa1#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T04:49:00+00:00
+
+Der Bundesrat verschiebt womöglich die Cannabislegalisierung. Biberach will die Gewaltexzesse vom Politischen Aschermittwoch aufarbeiten. Und die EU ringt um eine Position zu Gaza. Das ist die Lage am Freitagmorgen.
+
+## UNRWA: US-Kongress streicht dauerhaft Finanzhilfen für Palästinenserhilfswerk
+ - [https://www.spiegel.de/ausland/unrwa-us-kongress-streicht-dauerhaft-finanzhilfen-fuer-palaestinenserhilfswerk-a-16313dab-fe07-41d0-8a78-ba01d5282334#ref=rss](https://www.spiegel.de/ausland/unrwa-us-kongress-streicht-dauerhaft-finanzhilfen-fuer-palaestinenserhilfswerk-a-16313dab-fe07-41d0-8a78-ba01d5282334#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T04:29:00+00:00
+
+Aus den USA gibt es auch 2025 kein Geld mehr für das UNRWA. Das kündigte der Sprecher des Repräsentantenhauses an. Das Hilfswerk habe Terroristen beschäftigt, die an den Anschlägen in Israel beteiligt waren.
+
+## Erster Test gegen europäisches Team seit Kriegsbeginn – Russland gewinnt gegen Serbien
+ - [https://www.spiegel.de/sport/fussball/erster-test-gegen-europaeisches-team-seit-kriegsbeginn-russland-gewinnt-gegen-serbien-a-2030eec6-90e7-456c-bb65-b969449c02f3#ref=rss](https://www.spiegel.de/sport/fussball/erster-test-gegen-europaeisches-team-seit-kriegsbeginn-russland-gewinnt-gegen-serbien-a-2030eec6-90e7-456c-bb65-b969449c02f3#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T02:53:00+00:00
+
+Seit Beginn des Angriffskriegs auf die Ukraine spielte die russische Nationalmannschaft nicht mehr gegen europäische Mannschaften. Nun entsandte Serbien seine Auswahl nach Moskau.
+
+## Nex Benedict: Staatsanwaltschaft sieht keinen Hinweis auf Verbrechen nach Tod von nicht-binärem Teenager
+ - [https://www.spiegel.de/panorama/justiz/nex-benedict-staatsanwaltschaft-sieht-keinen-hinweis-auf-verbrechen-nach-tod-von-nicht-binaerem-teenager-a-1179b477-6b34-454e-a2a8-06feb45cd1e9#ref=rss](https://www.spiegel.de/panorama/justiz/nex-benedict-staatsanwaltschaft-sieht-keinen-hinweis-auf-verbrechen-nach-tod-von-nicht-binaerem-teenager-a-1179b477-6b34-454e-a2a8-06feb45cd1e9#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T02:39:00+00:00
+
+Der nicht-binäre Teenager Nex Benedict nahm sich einen Tag nach einem Angriff auf einer Schultoilette das Leben. Der Staatsanwalt spricht nun von einem fairen Kampf. Er will keine Anklage erheben.
+
+## Cannabis-Legalisierung: CDU-Chef Merz droht mit Rückgängigmachung bei Wahlsieg 2025
+ - [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cdu-chef-merz-droht-mit-rueckgaengigmachung-bei-wahlsieg-2025-a-f1e4c8cb-de40-447d-89b9-19f74bee8a6b#ref=rss](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cdu-chef-merz-droht-mit-rueckgaengigmachung-bei-wahlsieg-2025-a-f1e4c8cb-de40-447d-89b9-19f74bee8a6b#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T01:13:00+00:00
+
+Noch ist unklar, ob Cannabis wie geplant zum 1. April legalisiert wird. Aber CDU-Chef Merz kündigt in den Funke Medien schon mal an, dass sich die CDU das Gesetz vorknöpfen werde – falls sie 2025 gewinnt.
+
+## Ukraine-Hilfe: IWF genehmigt Kredit von 880 Millionen Dollar
+ - [https://www.spiegel.de/ausland/ukraine-hilfe-iwf-genehmigt-kredit-von-880-millionen-dollar-a-9ea084e0-c399-4f3a-b646-fce288c75c97#ref=rss](https://www.spiegel.de/ausland/ukraine-hilfe-iwf-genehmigt-kredit-von-880-millionen-dollar-a-9ea084e0-c399-4f3a-b646-fce288c75c97#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-03-22T00:03:00+00:00
+
+Die Ukraine hat alle Anforderungen des Internationalen Währungsfonds erfüllt – und bekommt nun einen weiteren Teil des milliardenschweren Kreditprogramms ausgezahlt.
+

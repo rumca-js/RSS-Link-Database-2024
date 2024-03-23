@@ -1,0 +1,352 @@
+# Source:NYT > Top Stories, URL:https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, language:en-us
+
+## After Oakland University Upset Kentucky, Students Bask in the NCAA Spotlight
+ - [https://www.nytimes.com/2024/03/22/us/oakland-university-march-madness-ncaa.html](https://www.nytimes.com/2024/03/22/us/oakland-university-march-madness-ncaa.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T23:20:56+00:00
+
+Supporters of the little-known college on Friday celebrated its moment of fame after a shocking first-round win.
+
+## Laurent de Brunhoff, Artist Who Made Babar Famous, Dies at 98
+ - [https://www.nytimes.com/2024/03/22/books/laurent-de-brunhoff-dead.html](https://www.nytimes.com/2024/03/22/books/laurent-de-brunhoff-dead.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T23:18:28+00:00
+
+After his father, who created the character, died, he continued the series of books about a modest elephant and his escapades in Paris for seven decades.
+
+## Chicago Voters Reject Real Estate Tax Change to Fund Homeless Programs
+ - [https://www.nytimes.com/2024/03/22/us/chicago-real-estate-tax-vote.html](https://www.nytimes.com/2024/03/22/us/chicago-real-estate-tax-vote.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T23:02:46+00:00
+
+The referendum, backed by progressives but criticized by the real estate industry, called for raising transfer taxes on properties that sell for more than $1 million.
+
+## Diagnosis of Princess Kate’s Cancer Followed Familiar Pattern, Doctors Say
+ - [https://www.nytimes.com/2024/03/22/health/kate-middleton-cancer-chemotherapy.html](https://www.nytimes.com/2024/03/22/health/kate-middleton-cancer-chemotherapy.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T22:37:14+00:00
+
+The Princess of Wales did not reveal the type of cancer she has, but oncologists say the disease is often identified during other procedures.
+
+## After Princess Kate’s Diagnosis, Here’s How to Talk to Your Kids About Cancer
+ - [https://www.nytimes.com/2024/03/22/well/live/cancer-children-princess-kate.html](https://www.nytimes.com/2024/03/22/well/live/cancer-children-princess-kate.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T22:27:37+00:00
+
+These conversations are among the more important and delicate discussions that parents can have, experts said.
+
+## Will the Rotters Keep Hounding Kate?
+ - [https://www.nytimes.com/2024/03/22/opinion/kate-middleton-princess-cancer.html](https://www.nytimes.com/2024/03/22/opinion/kate-middleton-princess-cancer.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T22:08:49+00:00
+
+Cancer is a very personal thing, but the 42-year-old princess is a public figure saddled with an insatiable press corps.
+
+## The Supreme Court and Young Voter Turnout
+ - [https://www.nytimes.com/2024/03/22/us/politics/the-supreme-court-and-young-voter-turnout.html](https://www.nytimes.com/2024/03/22/us/politics/the-supreme-court-and-young-voter-turnout.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T22:08:29+00:00
+
+A 2013 ruling triggered a slew of laws that attached restrictions to voting.
+
+## U.S. Measles Cases Surpass 2023 Levels, C.D.C. Says
+ - [https://www.nytimes.com/2024/03/22/well/live/measles-cases-united-states.html](https://www.nytimes.com/2024/03/22/well/live/measles-cases-united-states.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T21:39:44+00:00
+
+There are several factors driving the spread of the highly infectious virus, experts said.
+
+## Gunmen Killed Dozens at a Moscow Concert Hall
+ - [https://www.nytimes.com/2024/03/22/briefing/moscow-concert-hall-attack-trump-billions.html](https://www.nytimes.com/2024/03/22/briefing/moscow-concert-hall-attack-trump-billions.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T21:28:10+00:00
+
+Also, Princess Kate announced that she has cancer. Here’s the latest at the end of Friday.
+
+## The Royal Family Doth Explain Too Much
+ - [https://www.nytimes.com/live/2024/03/19/opinion/thepoint/kate-middleton-royal-family](https://www.nytimes.com/live/2024/03/19/opinion/thepoint/kate-middleton-royal-family)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T21:15:07+00:00
+
+Let the public yammer, and let Kate give health information as she feels comfortable.
+
+## George Santos Says He Is Done With the G.O.P. (The Feeling Is Mutual.)
+ - [https://www.nytimes.com/2024/03/22/nyregion/santos-leaves-republicans-independent.html](https://www.nytimes.com/2024/03/22/nyregion/santos-leaves-republicans-independent.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T20:50:57+00:00
+
+Mr. Santos said he would no longer seek the Republican line in a House race on Long Island, and planned to run as an independent.
+
+## Wyoming Bans Gender Transition Care for Minors
+ - [https://www.nytimes.com/2024/03/22/us/wyoming-transgender-ban.html](https://www.nytimes.com/2024/03/22/us/wyoming-transgender-ban.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T20:38:13+00:00
+
+The governor signed a bill that prohibited the practice for children, making Wyoming the 24th state to have passed such a ban.
+
+## As More Members Leave, House G.O.P. Will Be Able to Spare Just 1 Vote
+ - [https://www.nytimes.com/2024/03/22/us/politics/house-republican-majority-mike-gallagher.html](https://www.nytimes.com/2024/03/22/us/politics/house-republican-majority-mike-gallagher.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T20:22:54+00:00
+
+The unexpectedly early departure next month of Representative Mike Gallagher of Wisconsin came shortly after Speaker Mike Johnson had said he believed “that’s the end of the exits for now.”
+
+## Kate Middleton Is Yet Another Victim of the Royal Circus
+ - [https://www.nytimes.com/live/2024/03/19/opinion/thepoint/kate-middleton-cancer](https://www.nytimes.com/live/2024/03/19/opinion/thepoint/kate-middleton-cancer)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T20:21:48+00:00
+
+Cancer complicates the image of perfection that the masses cruelly tried to project on her.
+
+## F.B.I. Tells Passengers on Alaska Flight They May Have Been Crime Victims
+ - [https://www.nytimes.com/2024/03/22/us/politics/fbi-investigation-boeing.html](https://www.nytimes.com/2024/03/22/us/politics/fbi-investigation-boeing.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T20:05:28+00:00
+
+Letters sent by the bureau’s Seattle office are a sign that the Justice Department’s investigation into Boeing, the maker of the plane whose fuselage panel blew off, is ramping up.
+
+## Does the Mormon Church Empower Women? A Social Media Storm Answers.
+ - [https://www.nytimes.com/2024/03/22/us/mormon-church-women-latter-day-saints.html](https://www.nytimes.com/2024/03/22/us/mormon-church-women-latter-day-saints.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T18:14:32+00:00
+
+A church Instagram post tapped into a long-running seam of discontent among some women, who have chafed at restrictions.
+
+## Princess Kate’s Cancer Diagnosis: A Timeline of the Last Few Months
+ - [https://www.nytimes.com/article/princess-kate-middleton-royal-family-timeline.html](https://www.nytimes.com/article/princess-kate-middleton-royal-family-timeline.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T18:12:38+00:00
+
+After months of speculation about her whereabouts, Catherine, Princess of Wales, announced that she is being treated for an undisclosed type of cancer.
+
+## Valentino’s Creative Director Is Departing
+ - [https://www.nytimes.com/2024/03/22/fashion/valentino-creative-director-pierpaolo-piccioli.html](https://www.nytimes.com/2024/03/22/fashion/valentino-creative-director-pierpaolo-piccioli.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T18:01:52+00:00
+
+Pierpaolo Piccioli, known for his bold use of color and studded leather shoes, had been at the fashion house for 25 years.
+
+## Greene Threatens to Oust Johnson Over Spending Bill
+ - [https://www.nytimes.com/2024/03/22/us/politics/greene-oust-johnson-spending-bill.html](https://www.nytimes.com/2024/03/22/us/politics/greene-oust-johnson-spending-bill.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T16:56:24+00:00
+
+The hard-right Georgia Republican called the $1.2 trillion legislation an “atrocious attack on the American people” and said the speaker had betrayed his G.O.P. colleagues.
+
+## Insurers Report Rising Hail Damage Claims
+ - [https://www.nytimes.com/2024/03/22/your-money/insurers-report-rising-hail-damage-claims.html](https://www.nytimes.com/2024/03/22/your-money/insurers-report-rising-hail-damage-claims.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T16:03:05+00:00
+
+Inflation is driving up the cost of materials and labor to repair roofs and cars. Adding to insurers’ costs is increased development in areas affected by severe storms.
+
+## LSU’s Flau’Jae Johnson Drops New Song With NLE Choppa As NCAA Tournament Starts
+ - [https://www.nytimes.com/2024/03/22/arts/music/flaujae-johnson-lsu-basketball-rap.html](https://www.nytimes.com/2024/03/22/arts/music/flaujae-johnson-lsu-basketball-rap.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T16:02:22+00:00
+
+The sophomore guard is prepping collaborations with hip-hop heavyweights like Lil Wayne and NLE Choppa as she helps L.S.U. defend its basketball title in the N.C.A.A. tournament.
+
+## Israel designates more West Bank land for possible settlement use.
+ - [https://www.nytimes.com/live/2024/03/22/world/israel-hamas-war-gaza-news/israel-designates-more-west-bank-land-for-possible-settlement-use](https://www.nytimes.com/live/2024/03/22/world/israel-hamas-war-gaza-news/israel-designates-more-west-bank-land-for-possible-settlement-use)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T15:43:23+00:00
+
+
+
+## Investors Pour Money Into Wall St. as Stocks Set New Highs
+ - [https://www.nytimes.com/2024/03/22/business/stock-market-rally.html](https://www.nytimes.com/2024/03/22/business/stock-market-rally.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T15:41:28+00:00
+
+The influx of cash reflects optimism about the economy and company earnings despite high interest rates and stubborn inflation.
+
+## Met Museum Hires Its First Head of Provenance Research
+ - [https://www.nytimes.com/2024/03/22/arts/met-museum-first-provenance-research-head.html](https://www.nytimes.com/2024/03/22/arts/met-museum-first-provenance-research-head.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T15:00:20+00:00
+
+Lucian Simmons is leaving Sotheby’s to lead the museum’s increased efforts to review its collection, which has recently returned looted artifacts, including dozens last year.
+
+## Ronna McDaniel, Former R.N.C. Chair, Joins NBC News
+ - [https://www.nytimes.com/2024/03/22/business/media/ronna-mcdaniel-nbc-msnbc.html](https://www.nytimes.com/2024/03/22/business/media/ronna-mcdaniel-nbc-msnbc.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T14:55:37+00:00
+
+Her new role as a commentator on NBC and MSNBC programs comes shortly after she stepped down as the leader of the Republican National Committee.
+
+## Trump Media Merger Is Approved, Providing Fresh Source of Cash
+ - [https://www.nytimes.com/2024/03/22/business/trump-media-merger-truth-social.html](https://www.nytimes.com/2024/03/22/business/trump-media-merger-truth-social.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T14:48:15+00:00
+
+The deal will pump money into Trump Media, which will allow Truth Social to keep operating. Mr. Trump’s personal stake in the company will be worth more than $3 billion on paper.
+
+## Sherrod Brown Embarks on the Race of His Life
+ - [https://www.nytimes.com/2024/03/22/us/politics/sherrod-brown-ohio.html](https://www.nytimes.com/2024/03/22/us/politics/sherrod-brown-ohio.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T14:36:39+00:00
+
+Ohio will almost certainly go for Donald Trump this November. The Democratic senator will need to defy the gravity of the presidential contest to win a fourth term.
+
+## Congress Races to Pass $1.2 Trillion Spending Bill Before Shutdown Deadline
+ - [https://www.nytimes.com/2024/03/22/us/politics/congress-spending-bill-government-shutdown.html](https://www.nytimes.com/2024/03/22/us/politics/congress-spending-bill-government-shutdown.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T13:48:26+00:00
+
+A surge of conservative Republican anger about the bipartisan package threatened to derail the measure as lawmakers in both chambers worked to avoid a funding lapse.
+
+## Obama Feared ‘One-Term Presidency’ After Passing Health Care Law
+ - [https://www.nytimes.com/2024/03/22/us/politics/obama-obamacare-oral-history.html](https://www.nytimes.com/2024/03/22/us/politics/obama-obamacare-oral-history.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T13:46:49+00:00
+
+A set of oral histories released on Friday documents the behind-the-scenes drama of President Barack Obama’s drive to pass the Affordable Care Act, his most important legislative achievement.
+
+## What’s It Like to Be Cinderella in March? These Schools Know.
+ - [https://www.nytimes.com/2024/03/22/business/ncaa-tournament-upset-victories.html](https://www.nytimes.com/2024/03/22/business/ncaa-tournament-upset-victories.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T13:11:11+00:00
+
+As administrators at universities like St. Peter’s, Fairleigh Dickinson and Florida Gulf Coast can attest, upset victories bring attention, alumni donations and a lot of work.
+
+## In the Markets, a Tug of War Between Big Tech and the Fed
+ - [https://www.nytimes.com/2024/03/22/business/ai-federal-reserve-stock-market.html](https://www.nytimes.com/2024/03/22/business/ai-federal-reserve-stock-market.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T13:00:09+00:00
+
+On Wall Street, excitement about A.I. outweighs concern about interest rates. But rocketing stocks could make it tough for the Federal Reserve to cut rates.
+
+## How Peer Pressure Affects Voting
+ - [https://www.nytimes.com/2024/03/22/briefing/2024-black-voting.html](https://www.nytimes.com/2024/03/22/briefing/2024-black-voting.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T10:34:11+00:00
+
+Why some voters of color no longer support the Democratic Party.
+
+## U.S. to Push For Gaza Cease-Fire, Apple Gets Sued and More
+ - [https://www.nytimes.com/2024/03/22/podcasts/us-to-push-for-gaza-cease-fire-apple-gets-sued-and-more.html](https://www.nytimes.com/2024/03/22/podcasts/us-to-push-for-gaza-cease-fire-apple-gets-sued-and-more.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T10:05:02+00:00
+
+Plus, don’t mess with Elvis.
+
+## A Sit-Down With Schumer After His Break With Netanyahu
+ - [https://www.nytimes.com/2024/03/22/podcasts/the-daily/chuch-schumer-israel.html](https://www.nytimes.com/2024/03/22/podcasts/the-daily/chuch-schumer-israel.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T10:04:43+00:00
+
+The Senate majority leader, Chuck Schumer, explains why he decided to speak out against Benjamin Netanyahu, the Israeli prime minister.
+
+## The Supreme Court Is Playing a Dangerous Game
+ - [https://www.nytimes.com/2024/03/22/opinion/supreme-court-legitimacy-trump.html](https://www.nytimes.com/2024/03/22/opinion/supreme-court-legitimacy-trump.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T09:06:20+00:00
+
+The justices are betting that they can’t be held to account.
+
+## Steve Daines, the Trump Whisperer
+ - [https://www.nytimes.com/2024/03/22/opinion/senate-republicans-trump.html](https://www.nytimes.com/2024/03/22/opinion/senate-republicans-trump.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T09:06:06+00:00
+
+Senate Republicans may win back the chamber in November because they finally learned some lessons from election losses.
+
+## March Madness Spotlights a Sport Relegated to Pittsburgh’s Shadows: Basketball
+ - [https://www.nytimes.com/2024/03/22/us/pittsburgh-march-madness.html](https://www.nytimes.com/2024/03/22/us/pittsburgh-march-madness.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T09:05:39+00:00
+
+A city that pro basketball abandoned in the early 1970s, and whose college teams have only flirted with relevance for decades, has basketball roots that run deep.
+
+## The A.C.L.U. Said a Worker Used Racist Tropes and Fired Her. But Did She?
+ - [https://www.nytimes.com/2024/03/22/us/politics/aclu-employee-fired-race-bias.html](https://www.nytimes.com/2024/03/22/us/politics/aclu-employee-fired-race-bias.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T09:05:24+00:00
+
+The civil liberties group is defending itself in an unusual case that weighs what kind of language may be evidence of bias against Black people.
+
+## Jailed in Putin’s Russia for Speaking the Truth
+ - [https://www.nytimes.com/2024/03/22/opinion/gershkovich-kurmasheva-russia-putin.html](https://www.nytimes.com/2024/03/22/opinion/gershkovich-kurmasheva-russia-putin.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T09:05:23+00:00
+
+Two Americans are among the 22 journalists behind bars in Russia.
+
+## The Great Rupture in American Jewish Life
+ - [https://www.nytimes.com/2024/03/22/opinion/israel-american-jews-zionism.html](https://www.nytimes.com/2024/03/22/opinion/israel-american-jews-zionism.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T09:04:24+00:00
+
+What happens when liberalism and Zionism can no longer be reconciled?
+
+## Utility-Caused Wildfires Are Becoming a National Problem
+ - [https://www.nytimes.com/2024/03/22/business/energy-environment/electric-utilities-wildfires-climate-change.html](https://www.nytimes.com/2024/03/22/business/energy-environment/electric-utilities-wildfires-climate-change.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T09:04:13+00:00
+
+Climate change is raising the risk of blazes that are started by power lines and other utility equipment in many parts of the U.S. besides California.
+
+## Joan Jonas on Cape Breton, Her Island of Wonder and Inspiration
+ - [https://www.nytimes.com/2024/03/22/arts/design/joan-jonas-cape-breton-canada.html](https://www.nytimes.com/2024/03/22/arts/design/joan-jonas-cape-breton-canada.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T09:03:27+00:00
+
+For 50 years the artist has found inspiration for storytelling videos and installations on Cape Breton Island. Her nephew Toby Coulson set out to capture the magic.
+
+## Inside Merrick Garland’s Effort to Prosecute Trump Over Jan. 6
+ - [https://www.nytimes.com/2024/03/22/us/politics/trump-jan-6-merrick-garland.html](https://www.nytimes.com/2024/03/22/us/politics/trump-jan-6-merrick-garland.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T09:00:43+00:00
+
+In trying to avoid even the smallest mistakes, Attorney General Merrick B. Garland might have made one big one: ending up in a race against the clock.
+
+## New York’s Marijuana Scorecard: 85 Legal Shops, 2,000 Illegal Ones
+ - [https://www.nytimes.com/2024/03/22/nyregion/nyc-cannabis-dispensary-legal.html](https://www.nytimes.com/2024/03/22/nyregion/nyc-cannabis-dispensary-legal.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T07:00:16+00:00
+
+The lack of legal dispensaries and the overwhelming proliferation of illegal ones are the biggest concerns of the rollout three years after legalization.
+
+## ‘Stormy’ Reveals the Flawed Feminist Icon Looming Over Trump’s Trial
+ - [https://www.nytimes.com/2024/03/22/nyregion/stormy-reveals-the-flawed-feminist-icon-looming-over-trumps-trial.html](https://www.nytimes.com/2024/03/22/nyregion/stormy-reveals-the-flawed-feminist-icon-looming-over-trumps-trial.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T07:00:14+00:00
+
+A documentary about Stormy Daniels explores the life of a woman whose silence former President Donald J. Trump is charged with trying to buy.
+
+## ‘Stormy’ Reveals the Flawed Feminist Icon Looming Over Trump’s Trial
+ - [https://www.nytimes.com/2024/03/22/nyregion/stormy-daniels-documentary-trump.html](https://www.nytimes.com/2024/03/22/nyregion/stormy-daniels-documentary-trump.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T07:00:14+00:00
+
+A documentary about Stormy Daniels explores the life of a woman whose silence former President Donald J. Trump is charged with trying to buy.
+
+## India’s TikTok Ban: What Lessons Does It Hold for the U.S.
+ - [https://www.nytimes.com/2024/03/22/business/tiktok-india-ban.html](https://www.nytimes.com/2024/03/22/business/tiktok-india-ban.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T04:31:58+00:00
+
+The United States is agonizing over the possibility of a ban, but India did it at a stroke. Indians adjusted quickly, and Instagram and YouTube built big audiences.
+
+## Arkansas Airport Executive Dies After Shootout With A.T.F.
+ - [https://www.nytimes.com/2024/03/21/us/arkansas-airport-director-bryan-malinowski.html](https://www.nytimes.com/2024/03/21/us/arkansas-airport-director-bryan-malinowski.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T02:51:17+00:00
+
+The authorities said they were executing a search warrant at the home of the executive, whom they accused of illegally selling firearms. His family said the action was unnecessary.
+
+## Lorrie Moore Is Among National Book Critics Circle Award Winners
+ - [https://www.nytimes.com/2024/03/21/books/lorrie-moore-national-book-critics-circle-awards.html](https://www.nytimes.com/2024/03/21/books/lorrie-moore-national-book-critics-circle-awards.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T00:30:06+00:00
+
+The awards included a lifetime achievement honor given to Judy Blume.
+
+## Sixteen States Sue Biden Administration Over Gas Permit Pause
+ - [https://www.nytimes.com/2024/03/21/climate/states-sue-biden-lng-pause.html](https://www.nytimes.com/2024/03/21/climate/states-sue-biden-lng-pause.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-03-22T00:29:54+00:00
+
+President Biden halted approvals for new exports of liquefied natural gas to study its effect on the climate, national security and the economy. Major oil- and gas-producing states are angry.
+
