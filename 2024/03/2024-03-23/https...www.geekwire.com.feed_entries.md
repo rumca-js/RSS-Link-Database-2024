@@ -1,0 +1,16 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## GeekWire Podcast: Microsoft’s big AI hires, U.S. vs. Apple, and graffiti-fighting drones
+ - [https://www.geekwire.com/2024/geekwire-podcast-microsofts-big-ai-hires-u-s-vs-apple-and-graffiti-fighting-drones](https://www.geekwire.com/2024/geekwire-podcast-microsofts-big-ai-hires-u-s-vs-apple-and-graffiti-fighting-drones)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-03-23T14:44:26+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png" width="960" /><br />This week on the GeekWire Podcast: We peel back the layers of Microsoft&#8217;s hiring of AI pioneer Mustafa Suleyman and colleagues from Inflection AI, considering how it plays into the trend of the Redmond company striking deals that look a lot like acquisitions, without actually being acquisitions. Then, we delve into the U.S. Justice Department’s landmark antitrust lawsuit against Apple, and consider the parallels to the DOJ&#8217;s prior case against Microsoft. And finally, we ponder Washington state&#8217;s plan to fight graffiti with drones. Additional Links
+
+## Researchers find a way to detect signs of extraterrestrial life in a single grain of ice
+ - [https://www.geekwire.com/2024/europa-clipper-life-jupiter-ice-grains](https://www.geekwire.com/2024/europa-clipper-life-jupiter-ice-grains)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-03-23T03:43:51+00:00
+
+<img alt="Illustration: Europa Clipper above Europa, with Jupiter in background" class="webfeedsFeaturedVisual wp-post-image" height="656" src="https://cdn.geekwire.com/wp-content/uploads/2024/03/240321-europa2-1260x656.jpg" width="1260" /><br />Scientists have verified that a method to look for cellular life on Europa, an ice-covered moon of Jupiter, just might work. The technique could be put to the test in the 2030s, when NASA&#8217;s Europa Clipper probe is due to make multiple flybys over the Jovian moon. The technique involves analyzing grains of ice that scientists expect one of the instruments on Europa Clipper &#8212; known as the Surface Dust Analyzer, or SUDA &#8212; to pick up as it flies through plumes of frozen water rising up from Europa&#8217;s surface. &#8220;It&#8217;s astonishing how the analysis of these tiny ice grains&#8230; <a href="https://www.geekwire.com/2024/europa-clipper-life-jupiter-ice-grains/">Read More</a>
+
