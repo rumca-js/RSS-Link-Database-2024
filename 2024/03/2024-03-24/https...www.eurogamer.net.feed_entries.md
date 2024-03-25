@@ -1,0 +1,58 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Final Fantasy 9 references in Final Fantasy 14 Dawntrail are "secret", says director
+ - [https://www.eurogamer.net/final-fantasy-9-references-in-final-fantasy-14-dawntrail-are-secret-says-director?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/final-fantasy-9-references-in-final-fantasy-14-dawntrail-are-secret-says-director?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-24T19:17:17+00:00
+
+<img src="https://assetsio.gnwcdn.com/FFXIV_PUB_FANFESTIVAL_2023_in_LAS_VEGAS_28_png_jpgcopy.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Yes, there are a <em>lot</em> of references to Final Fantasy 9 in Final Fantasy 14 Dawntrail's collector's edition&hellip; and no, that's not a coincidence.</p><p>"You may have noticed a lot of Final Fantasy 9 references here&hellip; And the reason is a secret," producer/director Naoki "Yoshi-P" Yoshida said via translator during his <a href="https://www.twitch.tv/videos/2099153074">PAX East panel</a>. He then mimed zipping his mouth closed, and steadfastly refused to reveal anything more. The tease.</p><p>It's not totally a secret, of course. Some of you may remember that rumours of a remake began when Final Fantasy 9 was one of several unannounced games leaked by the GeForce Now database leak a couple of years back, which also included the Final Fantasy 7 Remake, Kingdom Hearts 4, and th
+
+## Dragon Ball Sparkling! Zero has secured an ESRB rating as a hidden video pops up on the EU YouTube account
+ - [https://www.eurogamer.net/dragon-ball-sparkling-zero-has-secured-an-esrb-rating-as-a-hidden-video-pops-up-on-the-eu-youtube-account?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/dragon-ball-sparkling-zero-has-secured-an-esrb-rating-as-a-hidden-video-pops-up-on-the-eu-youtube-account?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-24T18:34:07+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2024-03-24-at-18.29.01.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Dragon Ball Sparkling! Zero has secured an ESRB rating, leading to hopes the game is content-complete and we'll get a formal release date soon.</p><p>At the same time, <a href="https://www.reddit.com/r/GamingLeaksAndRumours/comments/1bm8l4d/unlisted_dragon_ball_sparking_zero_video_on/?utm_source=share&amp;utm_medium=web2x&amp;context=3">eagle-eyed fans</a> have noted that the Bandai Namco Europe YouTube channel has at least one unlisted video &ndash; the sister American account does not &ndash; leading to speculation that it may be a pre-prepared launch date reveal teaser.</p><p>Without formal confirmation from Bandai Namco all of this can only be taken with the requisite bucket full of salt, but some hope that we'll know more around 9th May, colloquially known as "Goku Day".</p> <p><a href="https://www.euroga
+
+## Here's our first look at Fall Guys-inspired mobile game, Sonic Toys Party
+ - [https://www.eurogamer.net/heres-our-first-look-at-fall-guys-inspired-mobile-game-sonic-toys-party?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/heres-our-first-look-at-fall-guys-inspired-mobile-game-sonic-toys-party?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-24T17:53:24+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2024-03-24-at-17.49.49.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Our first look at the gameplay of Sonic Toys Party &ndash; which is a Sonic and Fall Guys-esque mash-up &ndash; has popped up online.</p><p>YouTuber The Sonic Show has shared an all-new Japanese trailer for the upcoming mobile game, which not only shows the high-octane gameplay, but also some of the game's monetisation systems, which looks to include a premium battle pass.</p><p>You can see the video embedded below. Jump to 6:10 to get straight to the trailer in full:</p> <p><a href="https://www.eurogamer.net/heres-our-first-look-at-fall-guys-inspired-mobile-game-sonic-toys-party?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Bend Studios' next project will be a "AAA live service" game
+ - [https://www.eurogamer.net/bend-studios-next-project-will-be-a-aaa-live-service-game?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/bend-studios-next-project-will-be-a-aaa-live-service-game?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-24T17:15:20+00:00
+
+<img src="https://assetsio.gnwcdn.com/days-gone-medievil-and-friday-the-13th-are-octobers-appropriately-spooky-playstation-now-additions-1602005830169.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Bend Studios' next game will be a "AAA live service" game.</p><p>That's according to a new recruitment <a href="https://boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5082808004">advert</a> posted to the studio's website, which reveals the team is looking to secure a new lead project manager with "hands on game development experience in leadership roles shipping AAA live service games".</p><p>The role also specifically seeks someone with experience in "redefining studios from traditional 'boxed product' focussed game development into live service development studios in a key leadership role".</p> <p><a href="https://www.eurogamer.net/bend-studios-next-project-will-be-a-aaa-live-service-game?utm_source=feed&amp;utm_medi
+
+## Here's why CD Projekt Red's games have brilliant side quests
+ - [https://www.eurogamer.net/heres-why-cd-projekt-reds-games-have-brilliant-side-quests?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/heres-why-cd-projekt-reds-games-have-brilliant-side-quests?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-24T15:49:15+00:00
+
+<img src="https://assetsio.gnwcdn.com/viktorvektor.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>CD Projekt Red says it turns down "over 90 per cent" of its team's side quest pitches.</p><p>Talking at GDC this week, lead quest designer Pawe&amp;lstrok Sasko said in a presentation that even a "good designer" has just 10 per cent of their ideas accepted.</p><p>"If someone has 10 per cent, this is probably one of the best people we have in the team," Sasko explained.</p> <p><a href="https://www.eurogamer.net/heres-why-cd-projekt-reds-games-have-brilliant-side-quests?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Spyro studio Toys for Bob secures deal with Microsoft for its first independent game
+ - [https://www.eurogamer.net/spyro-studio-toys-for-bob-secures-deal-with-microsoft-for-its-first-independent-game?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/spyro-studio-toys-for-bob-secures-deal-with-microsoft-for-its-first-independent-game?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-24T15:28:33+00:00
+
+<img src="https://assetsio.gnwcdn.com/spyro_deal.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Spyro studio Toys for Bob has reportedly reached an agreement with Microsoft for its first independent game.</p><p>That's according to Window Central's Jaz Corden, who revealed over the weekend that the deal first teased by studio heads Paul Yan and Avery Lodato has now been finalised.</p><p>Toys for Bob - the Activision Blizzard studio behind the likes of Skylanders, Crash Bandicoot 4, and the Spyro remasters - <a href="https://www.eurogamer.net/activisions-skylanders-crash-bandicoot-studio-toys-for-bob-going-independent">announced it was parting ways with Activision to become an independent company again</a> back in January. It also said that it was "exploring a possible partnership" with Microsoft as development on its new game gets underway.</p> <p><a href="https://www.eurogamer.net/spyro-studio-toys-for-bob-secures-deal-with-mi
+
+## Darkly comic horror game, HappyFunland VR shows promise but it might not be worth the price of admission
+ - [https://www.eurogamer.net/darkly-comic-horror-game-happyfunland-vr-shows-promise-but-it-might-not-be-worth-the-price-of-admission?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/darkly-comic-horror-game-happyfunland-vr-shows-promise-but-it-might-not-be-worth-the-price-of-admission?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-24T14:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/b1_mvOllE7.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Let's start this week's VR Corner on a positive note shall we? Whoever was behind the art and level design of HappyFunland VR absolutely <em>smashed</em> it out of the (theme)park! The detail to the world and its props is top notch, the environmental storytelling is excellent and it often had me laughing out loud and the character design is both imaginative <em>and</em> suitably creepy.</p><p>It's a real shame then that the fundamental VR mechanics that tie it all together, plus some really bizarre design choices, cheapen the entire experience altogether. Smooth locomotion but no smooth turn? Horribly garbled, aggravating narrator audio but no subtitles? Clumsy, non-immersive interations? These are just a few things from a long line of annoyances that rob HappyFunland VR of its fast-pass to a must-play VR title.</p><p>If you'd like 
+
+## Lucas Pope's new Playdate puzzler is a lovely, silly game about community
+ - [https://www.eurogamer.net/lucas-popes-new-playdate-puzzler-is-a-lovely-silly-game-about-community?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/lucas-popes-new-playdate-puzzler-is-a-lovely-silly-game-about-community?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-03-24T10:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Mars-After-Midnight-2024-03-20-11.28.56.gif?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Not to brag, but I'm pretty sure I know what Mars After Midnight smells like. I reckon Mars After Midnight smells of church halls and community centres, which means it smells like warm dust, floor polish and feet. These are the kinds of places that cater to many different parts of the community, altering and reorganising themselves as the hour dictates. The line dancers are in at seven, and then the book club comes at nine. Will the model railway enthusiasts remember to switch off and lock up?</p><p>All of which should tell you that, while Mars After Midnight is a Lucas Pope game, it's a very different kind of Lucas Pope game, as different - if such a thing is possible - as it is familiar. This makes sense, I guess. Mars After Midnight is a game made specifically for the Playdate, that funny little handh
+
