@@ -1,0 +1,82 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed, language:en-US
+
+## Watch: P*do Hunter Reveals How He Exposes Child Predators...
+ - [https://www.louderwithcrowder.com/rosen-crowder-interview](https://www.louderwithcrowder.com/rosen-crowder-interview)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-25T22:53:39+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51831838&amp;width=1200&amp;height=600&amp;coordinates=0%2C13%2C0%2C67" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Mug Club partnered with Alex Rosen, the founder of Predator Poachers, an organization that conducts sting operations on child predators, and conducted its first exclusive collaboration with Predator Poachers.</p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">P*do Hunter Reveals How He Exposes Child Predators...</small>
+<small class="image-media media-photo-credit">
+<a href="https://www.youtube.com/watch?v=Ixy7eh04uN4&amp;t=
+
+## Lego DEMANDS police department stop using "brick heads" to comply with state law about mugshots
+ - [https://www.louderwithcrowder.com/police-department-lego](https://www.louderwithcrowder.com/police-department-lego)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-25T20:56:01+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.webp?id=51831679&amp;width=1200&amp;height=600&amp;coordinates=0%2C39%2C0%2C39" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>The Murrieta Police Department has to go back to the drawing board regarding how it will release mugshots after Lego requested they stop using Lego heads. </p><p>Last week we <a href="https://www.louderwithcrowder.com/legos-murrieta-police" target="_blank">reported </a>that the local police department had released mugshots of suspects but got a little creative and posted them with Lego heads to comply with a newly enacted California state law that bars the release of mugshots. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1e
+
+## Boston Reparations Activists To "White Churches:" Publicly Atone For The Sins Of Slavery To The Tune Of $15 Billion
+ - [https://www.louderwithcrowder.com/boston-white-churches](https://www.louderwithcrowder.com/boston-white-churches)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-25T20:39:36+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=51831493&amp;width=1200&amp;height=600&amp;coordinates=0%2C306%2C0%2C307" /><br /><br /><p>
+<em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em>
+</p><p>
+	God does not punish individuals based on the sins of their ancestors. However, some Boston reparations activists have demanded that ‚Äúwhite churches commit to reparations‚Äù in their effort to get the city to fork over billions of dollars for black residents.
+</p><p>
+	In other words, people who have never been slaves are demanding billions from people who never owned slaves. And that is exactly how logical the demand for reparations is.
+</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a hr
+
+## NYC Mayor meets for Burger King with drug deals, allegedly offers them jobs after they offer him drugs
+ - [https://www.louderwithcrowder.com/adams-drug-dealers](https://www.louderwithcrowder.com/adams-drug-dealers)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-25T18:05:38+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.webp?id=51830268&amp;width=980" /><br /><br /><p>Even though Eric Adams was a former police officer and is the current Mayor of New York City, he appears to have forgotten that drug dealing is a crime. </p><p>As an elected official, he believed it was a good idea to meet with alleged drug dealers who hang out outside a Burger King and have a meal with them. According to one witness, he even offered them a job. However, it is unclear as to what skills these individuals may have that would be of benefit to The Big Apple. </p><p><br /></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a href="https://twitter.com/nypmetro/status/1771519662473302076"></a>
+</blockquote>
+<p><a href="https://nypost.com/2024/03/23/us-news/mayor-adams-visits-nyc-burger-king-resident-claims-is-open-air-drug-bazaar/" rel="noopener noreferrer" target="_blank">According to The <em>New York Post
+
+## Watch: Clueless ‚Äúclimate expert‚Äù gets WRECKED by GOP Senator after claim carbon dioxide's "a huge part of our atmosphere"
+ - [https://www.louderwithcrowder.com/kennedy-climate-expert](https://www.louderwithcrowder.com/kennedy-climate-expert)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-25T16:28:26+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51829408&amp;width=1200&amp;height=800&amp;coordinates=64%2C0%2C136%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Carbon Dioxide makes up only about 0.04 percent of our <a href="https://news.climate.columbia.edu/2019/07/30/co2-drives-global-warming/#:~:text=CO2%20makes%20up%20only%20about,vary%20from%200%20to%204%25." rel="noopener noreferrer" target="_blank">atmosphere</a>. We breathe out oxygen and it then becomes plant food. All of this information is so blatant that a second-grader should know it. But not the ‚Äúclimate expert‚Äù whom Democrats used as their "expert witness" to advocate in favor of passing legislation that will somehow "reduce carbon emi
+
+## "Shouldn't society be judged by how we help our children from predators?": Crowder & Predator Poachers take down vile pedo
+ - [https://www.louderwithcrowder.com/rosen-catches-predator](https://www.louderwithcrowder.com/rosen-catches-predator)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-25T16:11:22+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51829458&amp;width=1200&amp;height=800&amp;coordinates=59%2C0%2C141%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Today, Louder with Crowder showed its first exclusive collaboration with Alex Rosen and Predator Poachers.</p><div class="rm-embed embed-media"></div><p>"Shouldn't society be judged by how we help our children from predators?" Crowder said. "I cannot imagine a scenario where someone is more helpless than a child."<br /></p><p>In 2005, a man named Allen Lee <a href="https://publicsite.dps.texas.gov/SexOffenderRegistry/Search/Rapsheet?Sid=05549113" target="_blank">Doughtery </a>was charged with the sexual assault of a 15-year-old. He received no ja
+
+## Sources: EXCLUSIVE COLLAB! Predator Poachers Catch Vile Pedo
+ - [https://www.louderwithcrowder.com/sources-march-25-2024](https://www.louderwithcrowder.com/sources-march-25-2024)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-25T12:01:04+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51828512&amp;width=1200&amp;height=800&amp;coordinates=112%2C0%2C188%2C0" /><br /><br /><p>Today, a new sexual orientation just dropped and it might be the dumbest one yet, our very first exclusive collaboration with Alex Rosen and Predator Poachers, and we finally announce the Ford RAPTOR Giveaway Winner!</p><div class="rm-embed embed-media"></div><p><strong>ECO SEXUALS</strong><br /></p><ul><li><a href="https://x.com/JamesEsses/status/1770884732034724179?s=20" target="_blank">Here is a  Channel 4  clip about ‚ÄòEcosexuality‚Äô.</a></li><li><a href="https://x.com/JamesEsses/status/1770884732034724179?s=20" rel="noopener noreferrer" target="_blank"></a><a href="https://nypost.com/2022/06/03/im-in-a-relationship-with-my-red-chevy-heres-how-i-have-sex-with-the-car/" rel="noopener noreferrer" target="_blank">I‚Äôm in a relationship with my 1998 Chevy ‚Äî and our sex life is so special</a></li><li><a href="htt
+
+## Outrage as trans dart player steals women's title two weeks after competing as a man, two female players quit
+ - [https://www.louderwithcrowder.com/trans-dart-championship](https://www.louderwithcrowder.com/trans-dart-championship)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-25T11:50:34+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51827383&amp;width=600&amp;height=600&amp;coordinates=560%2C0%2C0%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Add European dart playing to the list if sports where boys steal title from girls by pretending to be one. Or, "identifying" as one because of being born in the wrong body and yackity schmackity. Two Dutch players quit the team after trans teammate Noa-Lynn van Leuven crushed the competition, two weeks after competing as a man.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">VICTORY FOR VAN LEUVEN! üá≥üá±<br /><br />Noa-Lynn van Leuven clinches her maiden PDC Women's Series title in Wigan! üèÜ<br /><br />Van Leuven overcom
+
+## "The flow of migrants will continue": Mexican President has the stones to list his demands in order to stop Biden's border crisis
+ - [https://www.louderwithcrowder.com/mexican-president-60-minutes](https://www.louderwithcrowder.com/mexican-president-60-minutes)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-03-25T11:01:02+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=51827068&amp;width=600&amp;height=600&amp;coordinates=560%2C0%2C0%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Exhibit Q in how little respect world leaders have for our pudding-headed president is this <em>60 Minutes</em> interview with Mexico president Andres Manuel Lopez Obrador. I can't imagine Obrador going on American television and listing his demands when Donald Trump was president. Of course, there wasn't a border crisis when Trump was president, as Joe Biden started it on literally his first day in office. But none of that is the issue here.</p><p>Obrador says the "flow of migrants will continue" unless the following demands are met:</p><ul><li>$2
+
