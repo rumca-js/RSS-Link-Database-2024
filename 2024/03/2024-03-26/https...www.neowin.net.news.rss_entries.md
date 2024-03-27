@@ -1,0 +1,219 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Forza Horizon 5 gets 'Race-Off' update with six exclusive cars, props, and a new car pack
+ - [https://www.neowin.net/news/forza-horizon-5-gets-race-off-update-with-six-exclusive-cars-props-and-a-new-car-pack](https://www.neowin.net/news/forza-horizon-5-gets-race-off-update-with-six-exclusive-cars-props-and-a-new-car-pack)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T23:16:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711493404_forza_horizon_5_2_medium.jpg" /></div>Playground Games has announced a new content update for Forza Horizon 5. The free &quot;Race-Off&quot; update is now available for download with new cars, props, collectibles, and a new four-car pack. <a href="https://www.neowin.net/news/forza-horizon-5-gets-race-off-update-with-six-exclusive-cars-props-and-a-new-car-pack/">Read more...</a>
+
+## Intel launches a new program to help smaller software developers make apps for "AI PCs"
+ - [https://www.neowin.net/news/intel-launches-a-new-program-to-help-smaller-software-developers-make-apps-for-ai-pcs](https://www.neowin.net/news/intel-launches-a-new-program-to-help-smaller-software-developers-make-apps-for-ai-pcs)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T23:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711492207_e2c-ai-implementation_medium.jpg" /></div>Intel has announced it has launched the AI PC Developer Program, which is designed to help smaller PC software developers make apps that will work with new &quot;AI PCs&quot; like the Intel Core Ultra CPU. <a href="https://www.neowin.net/news/intel-launches-a-new-program-to-help-smaller-software-developers-make-apps-for-ai-pcs/">Read more...</a>
+
+## Company IT admins can now get faster access to non-security Windows 11 updates
+ - [https://www.neowin.net/news/company-it-admins-can-now-get-faster-access-to-non-security-windows-11-updates](https://www.neowin.net/news/company-it-admins-can-now-get-faster-access-to-non-security-windows-11-updates)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T22:24:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697149010_windows_11_medium.jpg" /></div>Microsoft has announced that company IT administrators can now expedite non-security updates for Windows 11 PCs for their businesses to get faster access to bug fixes and features. <a href="https://www.neowin.net/news/company-it-admins-can-now-get-faster-access-to-non-security-windows-11-updates/">Read more...</a>
+
+## Get the TP-Link AX1500 Wi-Fi Extender for 44 percent off at its lowest price ever
+ - [https://www.neowin.net/deals/get-the-tp-link-ax1500-wi-fi-extender-for-44-percent-off-at-its-lowest-price-ever](https://www.neowin.net/deals/get-the-tp-link-ax1500-wi-fi-extender-for-44-percent-off-at-its-lowest-price-ever)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T22:08:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711488692_tp-link-router-1_medium.jpg" /></div>The TP-Link AX1500 Wi-Fi Extender expands the reach of your home Wi-Fi router by 1,500 square feet up to Wi-Fi 6 speeds. It&#039;s now available for an all-time low price of $49.99 or 44% off its MSRP. <a href="https://www.neowin.net/deals/get-the-tp-link-ax1500-wi-fi-extender-for-44-percent-off-at-its-lowest-price-ever/">Read more...</a>
+
+## KB5035941: Windows 10 gets new Lock Screen widgets and Windows Spotlight desktop backgrounds
+ - [https://www.neowin.net/news/kb5035941-windows-10-gets-new-lock-screen-widgets-and-windows-spotlight-desktop-backgrounds](https://www.neowin.net/news/kb5035941-windows-10-gets-new-lock-screen-widgets-and-windows-spotlight-desktop-backgrounds)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T21:52:11+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/06/1686472481_img19_medium.jpg" /></div>The March 2024 optional non-security update, KB5035941, is now rolling out to Windows 10 users. It adds new Lock Screen widgets, Windows Spotlight desktop wallpapers, and other changes. <a href="https://www.neowin.net/news/kb5035941-windows-10-gets-new-lock-screen-widgets-and-windows-spotlight-desktop-backgrounds/">Read more...</a>
+
+## KB5035942: Microsoft releases Windows 11 Moment 5 as optional update for all users
+ - [https://www.neowin.net/news/kb5035942-microsoft-releases-windows-11-moment-5-as-optional-update-for-all-users](https://www.neowin.net/news/kb5035942-microsoft-releases-windows-11-moment-5-as-optional-update-for-all-users)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T21:35:38+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703339547_windows_11_moment_5_medium.jpg" /></div>Microsoft has released Windows 11 &quot;Moment 5&quot; to all users with PCs running Windows 11 versions 22H2 and 23H2. KB5035942 is now available as an optional non-security March 2024 update.  <a href="https://www.neowin.net/news/kb5035942-microsoft-releases-windows-11-moment-5-as-optional-update-for-all-users/">Read more...</a>
+
+## Microsoft Gaming head Phil Spencer would like to see other gaming stores on Xbox consoles
+ - [https://www.neowin.net/news/microsoft-gaming-head-phil-spencer-would-like-to-see-other-gaming-stores-on-xbox-consoles](https://www.neowin.net/news/microsoft-gaming-head-phil-spencer-would-like-to-see-other-gaming-stores-on-xbox-consoles)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T21:34:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/03/1678375861_epic-games-store-top-titles_medium.jpg" /></div>In a new interview, Microsoft Gaming head Phil Spencer said he would like to see other digital gaming stores on the company&#039;s Xbox consoles, similar to the many PC digital game stores. <a href="https://www.neowin.net/news/microsoft-gaming-head-phil-spencer-would-like-to-see-other-gaming-stores-on-xbox-consoles/">Read more...</a>
+
+## Microsoft pulls Edge 123 from the Stable Channel with its 'Microsoft Copilot' app
+ - [https://www.neowin.net/news/microsoft-pulls-edge-123-from-the-stable-channel-with-its-microsoft-copilot-app](https://www.neowin.net/news/microsoft-pulls-edge-123-from-the-stable-channel-with-its-microsoft-copilot-app)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T20:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1700652305_edge_medium.jpg" /></div>Microsoft has pulled the recently released Edge 123 from the Stable Channel. The latest browser update is no longer available for download with its mysterious &quot;Microsoft Copilot&quot; app. <a href="https://www.neowin.net/news/microsoft-pulls-edge-123-from-the-stable-channel-with-its-microsoft-copilot-app/">Read more...</a>
+
+## Some Microsoft Xbox Insiders can test out mouse and keyboard support for Xbox Cloud Gaming
+ - [https://www.neowin.net/news/some-microsoft-xbox-insiders-can-test-out-mouse-and-keyboard-support-for-xbox-cloud-gaming](https://www.neowin.net/news/some-microsoft-xbox-insiders-can-test-out-mouse-and-keyboard-support-for-xbox-cloud-gaming)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T19:04:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/11/1668620806_example-tv_jpg-91ce69504bc4982c2360_medium.jpg" /></div>Microsoft is allowing some members of its Xbox Insider program to try out mouse and keyboard support for the company&#039;s Xbox Cloud Gaming service. At the moment, it supports a small selection of games. <a href="https://www.neowin.net/news/some-microsoft-xbox-insiders-can-test-out-mouse-and-keyboard-support-for-xbox-cloud-gaming/">Read more...</a>
+
+## Get this 1.5TB microSD card from SanDisk with a 27% discount and don't run out of storage
+ - [https://www.neowin.net/deals/get-this-15tb-microsd-card-from-sandisk-with-a-27-discount-and-dont-run-out-of-storage](https://www.neowin.net/deals/get-this-15tb-microsd-card-from-sandisk-with-a-27-discount-and-dont-run-out-of-storage)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T18:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711478086_sandisk_1.5tb_1_medium.jpg" /></div>If your phone, tablet, or any other microSD-compatible device is low on space, SanDisk has a radical solution for you: get this 1.5TB card with a 27% discount and never run out of storage again. <a href="https://www.neowin.net/deals/get-this-15tb-microsd-card-from-sandisk-with-a-27-discount-and-dont-run-out-of-storage/">Read more...</a>
+
+## Better than Cheesy Poofs: You could win a South Park: Snow Day Xbox Series S console
+ - [https://www.neowin.net/news/better-than-cheesy-poofs-you-could-win-a-south-park-snow-day-xbox-series-s-console](https://www.neowin.net/news/better-than-cheesy-poofs-you-could-win-a-south-park-snow-day-xbox-series-s-console)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T18:14:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711475542_gjm08zpbmaahd1o_medium.jpg" /></div>Microsoft is giving away four custom Xbox Series X consoles and controllers, each one with a member of the South Park cast as they appear in the new video game South Park: Snow Day. <a href="https://www.neowin.net/news/better-than-cheesy-poofs-you-could-win-a-south-park-snow-day-xbox-series-s-console/">Read more...</a>
+
+## Apple will host WWDC 24 on June 10-14
+ - [https://www.neowin.net/news/apple-will-host-wwdc-24-on-june-10-14](https://www.neowin.net/news/apple-will-host-wwdc-24-on-june-10-14)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T17:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711473788_wwdc_24_medium.jpg" /></div>Apple has officially confirmed dates for this year&#039;s Worldwide Developer Conference. WWDC 24, Apple&#039;s biggest developer event, is happening on June 10-14, 2024, in Cupertino, California. <a href="https://www.neowin.net/news/apple-will-host-wwdc-24-on-june-10-14/">Read more...</a>
+
+## Microsoft Teams Phone and Rooms add new features like click-to-call and more
+ - [https://www.neowin.net/news/microsoft-teams-phone-and-rooms-add-new-features-like-click-to-call-and-more](https://www.neowin.net/news/microsoft-teams-phone-and-rooms-add-new-features-like-click-to-call-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T17:30:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711470174_c2c_blog_image_medium.jpg" /></div>Microsoft has announced a number of new features for enterprise users for both Teams Rooms and Teams Phone. They include click-to-call for Teams Phone, which is now available, and more. <a href="https://www.neowin.net/news/microsoft-teams-phone-and-rooms-add-new-features-like-click-to-call-and-more/">Read more...</a>
+
+## Diablo IV on PC Game Pass will need Battle.net, here's how to connect and play
+ - [https://www.neowin.net/news/diablo-iv-on-pc-game-pass-will-need-battlenet-heres-how-to-connect-and-play](https://www.neowin.net/news/diablo-iv-on-pc-game-pass-will-need-battlenet-heres-how-to-connect-and-play)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T17:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711470716_diablo_iv-1920x1080-1-6f5400465a850f1681a3_medium.jpg" /></div>Microsoft and Blizzard are finally bringing Diablo IV to Xbox and PC Game Pass this week. The game will require PC players to have a Battle.net account and the client to download and play. <a href="https://www.neowin.net/news/diablo-iv-on-pc-game-pass-will-need-battlenet-heres-how-to-connect-and-play/">Read more...</a>
+
+## Save 91% on Microsoft Visual Studio Professional 2022 for Windows
+ - [https://www.neowin.net/deals/save-91-on-microsoft-visual-studio-professional-2022-for-windows](https://www.neowin.net/deals/save-91-on-microsoft-visual-studio-professional-2022-for-windows)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T17:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/02/1706794669_visual2022_nw_medium.jpg" /></div>Enhance your productivity, write high-quality code, and re-imagine collaboration with an advanced suite of tools and built-in integrations to tackle the most challenging workflows for a deep discount. <a href="https://www.neowin.net/deals/save-91-on-microsoft-visual-studio-professional-2022-for-windows/">Read more...</a>
+
+## Google launches Chrome for Windows on ARM
+ - [https://www.neowin.net/news/google-launches-chrome-for-windows-on-arm](https://www.neowin.net/news/google-launches-chrome-for-windows-on-arm)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T16:47:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/07/1659082426_windows_chrome_medium.jpg" /></div>Google is finally launching Chrome for Windows on ARM, making the most popular browser in the world faster and more efficient on Windows computers powered by Snapdragon processors. <a href="https://www.neowin.net/news/google-launches-chrome-for-windows-on-arm/">Read more...</a>
+
+## Microsoft will add new Copilot features to Teams, including meeting enhancements and more
+ - [https://www.neowin.net/news/microsoft-will-add-new-copilot-features-to-teams-including-meeting-enhancements-and-more](https://www.neowin.net/news/microsoft-will-add-new-copilot-features-to-teams-including-meeting-enhancements-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T16:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711465749_meeting-chat-1_medium.jpg" /></div>Microsoft has just announced a number of new Copilot features it plans to add to its Teams collaboration service in the coming months, including some new meetings enhancements and more. <a href="https://www.neowin.net/news/microsoft-will-add-new-copilot-features-to-teams-including-meeting-enhancements-and-more/">Read more...</a>
+
+## February iPhone shipments in China sunk by 33% vs last year due to stiff competition
+ - [https://www.neowin.net/news/february-iphone-shipments-in-china-sunk-by-33-vs-last-year-due-to-stiff-competition](https://www.neowin.net/news/february-iphone-shipments-in-china-sunk-by-33-vs-last-year-due-to-stiff-competition)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T16:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1694604511_iphone_15_and_15_pro_medium.jpg" /></div>Around 33% fewer iPhones were sold in February 2024 as compared to last year in China as part of the continuing trend in the slowdown of iPhone sales as competition toughens and the market slumps.  <a href="https://www.neowin.net/news/february-iphone-shipments-in-china-sunk-by-33-vs-last-year-due-to-stiff-competition/">Read more...</a>
+
+## Microsoft launches Xbox Wireless Arctic Camo Special Edition Controller worldwide
+ - [https://www.neowin.net/news/microsoft-launches-xbox-wireless-arctic-camo-special-edition-controller-worldwide](https://www.neowin.net/news/microsoft-launches-xbox-wireless-arctic-camo-special-edition-controller-worldwide)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T15:34:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711465466_arctic_camo_special_edition_controller_1_medium.jpg" /></div>About a year ago, Microsoft launched the Xbox Wireless Arctic Camo Special Edition Controller in the United States. Today, this stealthy-looking gamepad is making its worldwide debut. <a href="https://www.neowin.net/news/microsoft-launches-xbox-wireless-arctic-camo-special-edition-controller-worldwide/">Read more...</a>
+
+## Apple iPhone 16 Pro may get two new titanium color options
+ - [https://www.neowin.net/news/apple-iphone-16-pro-may-get-two-new-titanium-color-options](https://www.neowin.net/news/apple-iphone-16-pro-may-get-two-new-titanium-color-options)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T15:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1694550254_iphone_15_pro_4_medium.jpg" /></div>iPhone 16 Pro models might get new color options this year, according to a new rumor coming out of China. Apple is expected to ditch the Blue Titanium and Natural Titanium color options. <a href="https://www.neowin.net/news/apple-iphone-16-pro-may-get-two-new-titanium-color-options/">Read more...</a>
+
+## Microsoft Gaming CEO Phil Spencer offers his thoughts on a possible Xbox handheld and more
+ - [https://www.neowin.net/news/microsoft-gaming-ceo-phil-spencer-offers-his-thoughts-on-a-possible-xbox-handheld-and-more](https://www.neowin.net/news/microsoft-gaming-ceo-phil-spencer-offers-his-thoughts-on-a-possible-xbox-handheld-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T14:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/02/1707583592_phil-spencer_medium.jpg" /></div>In two new interviews, Microsoft Gaming CEO Phil Spencer offers thoughts on possible Xbox handhelds in both hardware and software, along with the current status of the game industry. <a href="https://www.neowin.net/news/microsoft-gaming-ceo-phil-spencer-offers-his-thoughts-on-a-possible-xbox-handheld-and-more/">Read more...</a>
+
+## Amazon Pharmacy brings same-day deliveries to NYC and LA
+ - [https://www.neowin.net/news/amazon-pharmacy-brings-same-day-deliveries-to-nyc-and-la](https://www.neowin.net/news/amazon-pharmacy-brings-same-day-deliveries-to-nyc-and-la)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T14:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711461014_amazon-pharmacy_medium.jpg" /></div>Amazon Pharmacy has announced that same-day deliveries are now available in New York City and Los Angeles. The company discussed how it&#039;s adapting its operations based on the character of each city. <a href="https://www.neowin.net/news/amazon-pharmacy-brings-same-day-deliveries-to-nyc-and-la/">Read more...</a>
+
+## Get this 34-inch LG 34WP65G-B ultrawide PC monitor for only $199.99 at its lowest price ever
+ - [https://www.neowin.net/deals/get-this-34-inch-lg-34wp65g-b-ultrawide-pc-monitor-for-only-19999-at-its-lowest-price-ever](https://www.neowin.net/deals/get-this-34-inch-lg-34wp65g-b-ultrawide-pc-monitor-for-only-19999-at-its-lowest-price-ever)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T13:40:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711458888_lg-ultrawide-monitor_medium.jpg" /></div>You can get a 34-inch ultrawide PC monitor from LG, the 34WP65G-B, with a 2,560 x 1,080 resolution, for a new all-time low price of only $199.99 at Amazon, a 50 percent cut from its normal MSRP. <a href="https://www.neowin.net/deals/get-this-34-inch-lg-34wp65g-b-ultrawide-pc-monitor-for-only-19999-at-its-lowest-price-ever/">Read more...</a>
+
+## Report: Playables mobile games inside the YouTube app are going away soon
+ - [https://www.neowin.net/news/report-playables-mobile-games-inside-the-youtube-app-are-going-away-soon](https://www.neowin.net/news/report-playables-mobile-games-inside-the-youtube-app-are-going-away-soon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T11:56:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/12/1607027171_youtube_5_medium.jpg" /></div>YouTube will soon remove its Playables experimental feature that lets you play video games inside its video streaming app. The feature was introduced to limited testers in September last year. <a href="https://www.neowin.net/news/report-playables-mobile-games-inside-the-youtube-app-are-going-away-soon/">Read more...</a>
+
+## Microsoft's Bing boss Mikhail Parakhin to step down after new AI leader
+ - [https://www.neowin.net/news/microsofts-bing-boss-mikhail-parakhin-to-step-down-after-new-ai-leader](https://www.neowin.net/news/microsofts-bing-boss-mikhail-parakhin-to-step-down-after-new-ai-leader)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T10:30:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/10/1601911866_microsoft_bing_logo_medium.jpg" /></div>Microsoft is shaking up its AI leadership, moving consumer products like Bing under a new division headed by DeepMind co-founder. Bing executive Mikhail Parakhin will leave his current role. <a href="https://www.neowin.net/news/microsofts-bing-boss-mikhail-parakhin-to-step-down-after-new-ai-leader/">Read more...</a>
+
+## Microsoft: We didn't block Windows Terminal on old CPUs without SSE4.2 (PopCnt) on purpose
+ - [https://www.neowin.net/news/microsoft-we-didnt-block-windows-terminal-on-old-cpus-without-sse42-popcnt-on-purpose](https://www.neowin.net/news/microsoft-we-didnt-block-windows-terminal-on-old-cpus-without-sse42-popcnt-on-purpose)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T09:44:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/09/1663128574_terminal-themes_medium.jpg" /></div>Microsoft confirms that the recent Windows Terminal block experienced by users on older CPUs (without SSE4.2) was not on purpose, and it has urged folks not to indulge in conspiracy theories. <a href="https://www.neowin.net/news/microsoft-we-didnt-block-windows-terminal-on-old-cpus-without-sse42-popcnt-on-purpose/">Read more...</a>
+
+## WhatsApp starts rolling out video forward/rewind functionality
+ - [https://www.neowin.net/news/whatsapp-starts-rolling-out-video-forwardrewind-functionality](https://www.neowin.net/news/whatsapp-starts-rolling-out-video-forwardrewind-functionality)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T06:22:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1702017531_whatsapp_logo_image_medium.jpg" /></div>You can now skip videos in WhatsApp by 10 seconds using the double-tap gesture. After testing for several months, the feature has started rolling to everyone on WhatsApp for iOS v24.6.77. <a href="https://www.neowin.net/news/whatsapp-starts-rolling-out-video-forwardrewind-functionality/">Read more...</a>
+
+## Canva acquires Affinity, marking the startup's biggest acquisition to date
+ - [https://www.neowin.net/news/canva-acquires-affinity-marking-the-startups-biggest-acquisition-to-date](https://www.neowin.net/news/canva-acquires-affinity-marking-the-startups-biggest-acquisition-to-date)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T05:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711429802_canva_medium.jpg" /></div>Canva has made its biggest acquisition till date and acquired Affinity suite of creative software products, providing stiff competition to market leader Adobe for its creative suite.  <a href="https://www.neowin.net/news/canva-acquires-affinity-marking-the-startups-biggest-acquisition-to-date/">Read more...</a>
+
+## Canonical now supports Ubuntu LTS releases for 12 years, for a price
+ - [https://www.neowin.net/news/canonical-now-supports-ubuntu-lts-releases-for-12-years-for-a-price](https://www.neowin.net/news/canonical-now-supports-ubuntu-lts-releases-for-12-years-for-a-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T03:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/03/1648231957_ubuntu-friends_medium.jpg" /></div>Canonical has announced a paid add-on for Ubuntu Pro that allows customers to add another two years of support to their Ubuntu installs. This add-on supports Ubuntu 14.04 LTS and newer. <a href="https://www.neowin.net/news/canonical-now-supports-ubuntu-lts-releases-for-12-years-for-a-price/">Read more...</a>
+
+## Microsoft's Windows and Surface teams are now both lead by Pavan Davuluri
+ - [https://www.neowin.net/news/microsofts-windows-and-surface-teams-are-now-both-lead-by-pavan-davuluri](https://www.neowin.net/news/microsofts-windows-and-surface-teams-are-now-both-lead-by-pavan-davuluri)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T01:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1691046087_windows_11_medium.jpg" /></div>Microsoft has named Pavan Davuluri to be the new leader of the company&#039;s Windows and Surface teams. The previous Windows team leader, Mikhail Parakhin, will now &quot;explore new roles&quot;. <a href="https://www.neowin.net/news/microsofts-windows-and-surface-teams-are-now-both-lead-by-pavan-davuluri/">Read more...</a>
+
+## US DOJ charges seven APT31 hackers, but nabbing them could be a problem
+ - [https://www.neowin.net/news/us-doj-charges-seven-apt31-hackers-but-nabbing-them-could-be-a-problem](https://www.neowin.net/news/us-doj-charges-seven-apt31-hackers-but-nabbing-them-could-be-a-problem)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-26T01:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/08/1628871048_pexels-soumil-kumar-735911_medium.jpg" /></div>The US DOJ has unsealed indictments against seven Chinese hackers involved with the APT31 hacking group. The group has targeted US and UK politicians as well as businesses and critics of China. <a href="https://www.neowin.net/news/us-doj-charges-seven-apt31-hackers-but-nabbing-them-could-be-a-problem/">Read more...</a>
+

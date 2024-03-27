@@ -1,0 +1,12 @@
+# Source:SomeOrdinaryGamers, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ, language:en-US
+
+## Insane Boeing Whistleblower Situation...
+ - [https://www.youtube.com/watch?v=B68PporSnFc](https://www.youtube.com/watch?v=B68PporSnFc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ
+ - date published: 2024-03-26T22:35:42+00:00
+
+Check out the easiest skincare brand on the market, owned by us at https://got1up.com/discount/SOG
+
+Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be a situation regarding one of the largest aerospace companies in the world, Boeing. This company has been in the crosshairs since January in regards to it's safety concerns on it's planes that many of rely on. In the last month their biggest critic has been wiped and the world is left wondering why. Thanks for watching!
+Like, Comment and Subscribe for more videos!
+

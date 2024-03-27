@@ -1,0 +1,184 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## Intel pushes harder to make AI apps run best on Core Ultra
+ - [https://www.pcworld.com/article/2277617/intel-pushes-harder-to-make-ai-apps-run-best-on-core-ultra.html](https://www.pcworld.com/article/2277617/intel-pushes-harder-to-make-ai-apps-run-best-on-core-ultra.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-26T22:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Intel said Tuesday that it is expanding what it calls its AI Acceleration program into midrange software vendors, launching an AI developer NUC to speed the process. It&rsquo;s all a bid to lasso software developers and bring them under the Core Ultra banner.</p>
+
+
+
+<p>For consumers, the program is an ongoing acknowledgement that Intel continues to work to integrate the NPU inside its Core Ultra processor with software vendors, in order to extract actual value from the logic, and not just capitalize on the latest buzzword, AI. There&rsquo;s a more subtle message, too: if Intel is able to convince software developers to use its OpenVINO toolkit to help them code AI applications, it will help ensure that Intel&rsquo;s Core Ultra chips are the preferred or &ldquo;better&rdquo; AI chips.</p>
+
+
+
+<p>That might not actually be the case, of course. But the push 
+
+## Best free VPN for Android 2024: Which ones can you trust?
+ - [https://www.pcworld.com/article/695190/best-free-vpn-for-android.html](https://www.pcworld.com/article/695190/best-free-vpn-for-android.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-26T18:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It might be surprising, but free VPNs are no longer just for PCs. You can also use them to help easily boost your security and privacy game on an Android device. Whether you want extra security while using a public Wi-Fi network, or to get around geo-restrictions for <em>most</em> of your favorite streaming services, a free VPN can help you do it without having to pay for anything.</p>
+
+
+
+<p>The problem when looking for a good free VPN, though, is that there are a large number of them available on the Google Play Store. So how do you determine which ones are worth your time? Our experts here at PCWorld have tested a slew of VPNs, both for PCs and Android devices, and have curated a list of the best free options you can feel confident in using. Check out our top picks below. </p>
+
+
+
+<p><strong>Why you should trust us:</strong> Here at PCWorld we&rsquo;ve 
+
+## Chrome browser for Snapdragon PCs lands just in time
+ - [https://www.pcworld.com/article/2277607/chrome-browser-for-snapdragon-pcs-lands-just-in-time.html](https://www.pcworld.com/article/2277607/chrome-browser-for-snapdragon-pcs-lands-just-in-time.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-26T16:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Google has published a final, shipping version if its Chrome browser for Snapdragon PCs just a few short weeks before the launch of PCs using the Qualcomm Snapdragon X Elite processor.</p>
+
+
+
+<p>Chrome for Windows on Snapdragon should be available via Google, complementing the version for X86 PCs that has been on the market for years. </p>
+
+
+
+<p>Qualcomm <a href="https://www.pcworld.com/article/2112907/qualcomm-snapdragon-x-elite-chips-promise-major-pc-performance.html">soft-launched the Snapdragon X Elite platform last fall</a> in anticipation of PCs shipping with the Snapdragon X Elite processor in mid-2024. Some of the first devices expected include consumer versions of the Microsoft Surface Pro 10 and the Surface Laptop 6. Those devices, marketed as the Surface Pro 10 for Business and the Surface Laptop 6 for Business, were <a href="https://www.pcwor
+
+## End password chaos with 1Password
+ - [https://www.pcworld.com/article/2278936/end-password-chaos-with-1password.html](https://www.pcworld.com/article/2278936/end-password-chaos-with-1password.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-26T15:24:01+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://1password.partnerlinks.io/sponsrad&amp;xcust=2-1-2278936-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="sponsored" target="_blank">1Password</a> is one of the oldest and most reputable password managers on the market. They offer a robust solution to keep your passwords secure, well-organized and easily accessible &ndash; but for your eyes only.</p>
+
+
+
+<p>The benefit? You don&rsquo;t have to change passwords regularly, and you don&rsquo;t have to worry about how complex the passwords you choose are because you don&rsquo;t have to memorize them.</p>
+
+
+
+<p>Plus, the service can handle everything from important documents and bank details to SSH keys and more.</p>
+
+
+
+<p>For families, 1Password offers a central place to securely store all important information. Businesses can benefit f
+
+## Microsoft unites Windows and Surface once again
+ - [https://www.pcworld.com/article/2279263/microsoft-unifies-windows-surface-once-again.html](https://www.pcworld.com/article/2279263/microsoft-unifies-windows-surface-once-again.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-26T13:54:12+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>When Panos Panay, the former EVP and Chief Product Officer, left Microsoft, Windows and Surface split up into separate groups. Now it seems that they&rsquo;ve been unified once again. Pavan Davuluri, a company veteran, will now run both the Windows and Surface teams, according to a memo obtained by <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.theverge.com/2024/3/25/24111931/microsoft-windows-surface-pavan-davuluri&amp;xcust=2-1-2279263-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">The Verge</a>.</p>
+
+
+
+<p>Last year when <a href="https://www.pcworld.com/article/2073226/as-microsofts-consumer-champion-steps-down-so-does-its-soul.html">Panos Panay left Microsoft</a>, his responsibilities were split. Mikhail Parakhin led Bing and Bing Chat, and took Windows and Web Experiences like Edge under his wing. Pavan Davu
+
+## Don’t feel bad about using Chrome’s password manager
+ - [https://www.pcworld.com/article/2278405/dont-feel-bad-about-using-chromes-password-manager.html](https://www.pcworld.com/article/2278405/dont-feel-bad-about-using-chromes-password-manager.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-26T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>According to advice on the web, you should never use a browser&rsquo;s password manager. Security experts particularly dunk on Chrome, the most popular browser. If they had their way, no one would touch it with a 10-foot pole.</p>
+
+
+
+<p>The reasons are numerous: Google doesn&rsquo;t offer zero-knowledge encryption, so your credentials are only protected from outsiders, rather than everyone but you. The password manager itself is simplistic, lacking robust defenses against unauthorized access on PC and proper secure sharing. You&rsquo;re trapped within an a single ecosystem. You can&rsquo;t transfer control to someone else in an emergency.</p>
+
+
+
+<p>But these complaints overlook a major point (and aren&rsquo;t fully true anymore, to boot)&mdash;a browser password manager is a massive improvement over weak or reused passwords. It&rsquo;s an improvement on 
+
+## BenQ’s PD3420Q review: An ultrawide that works too hard
+ - [https://www.pcworld.com/article/2276429/benqs-pd3420q-review.html](https://www.pcworld.com/article/2276429/benqs-pd3420q-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-26T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Attractive, though subtle, design</li><li>Good range of connectivity</li><li>Easy-to-use menus</li><li>Accurate image with multiple color modes</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>USB-C only supports 65 watts Power Delivery</li><li>Low contrast ratio</li><li>HDR is supported, but lackluster</li><li>60Hz refresh rate</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">BenQ PD3420
+
+## These are the 10 most-watched YouTube videos of all time
+ - [https://www.pcworld.com/article/2278707/10-most-watched-youtube-videos-of-all-time.html](https://www.pcworld.com/article/2278707/10-most-watched-youtube-videos-of-all-time.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-26T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Since 2005, YouTube has been entertaining us with clips and internet phenomena of all kinds. While viral videos were initially more in demand, music videos have been the most popular since 2010. The song &ldquo;Hello&rdquo; by Adele is currently at the top of the list of videos that have reached over a billion views the fastest &ndash; with an incredible 87 days. </p>
+
+
+
+<p>But it&rsquo;s still not among the top 10 most clicked videos. In the following ranking of the <b>ten most-clicked YouTube videos</b> (as of February 2024), we reveal what they are:</p>
+
+
+
+<h2 class="wp-block-heading" id="10th-place-iroschka-v-learning-colors-colourful-eggs-on-a-farm">10th place: &#1052;iroschka &#1058;V &ndash; &ldquo;Learning Colors &ndash; Colourful Eggs on a Farm&rdquo;</h2>
+
+
+
+<ul>
+<li>Release date: 26 February 2018</li>
+
+
+
+<li>Views: 5 billion</li>
+</ul>
+
+
+
+<p>I
+
+## Mozilla is kicking one of its privacy partners to the curb
+ - [https://www.pcworld.com/article/2279130/mozilla-is-kicking-one-of-its-privacy-partners-to-the-curb.html](https://www.pcworld.com/article/2279130/mozilla-is-kicking-one-of-its-privacy-partners-to-the-curb.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-26T09:45:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Mozilla&rsquo;s services beyond its Firefox browser have been experiencing a shake-up lately &mdash; and the bumpy ride isn&rsquo;t over yet. The company is now dropping its partner for Mozilla Monitor Plus, its paid data-broker cleanup service.</p>
+
+
+
+<p>The news comes in the wake of the discovery that the CEO of OneRep, which currently handles the removal of information from people-finding sites for Mozilla, also previously started dozens of such websites. Brian Krebs of <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/&amp;xcust=2-1-2279130-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Krebs on Security</a>, who uncovered the affiliation in mid-March, reports that one of the data broker websites is still active &mda
+
