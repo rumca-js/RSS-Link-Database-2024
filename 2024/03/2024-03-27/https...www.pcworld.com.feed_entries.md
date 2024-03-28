@@ -1,0 +1,154 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## Store everything you’d ever need on this 20TB drive for $279
+ - [https://www.pcworld.com/article/2281330/store-everything-youd-ever-need-on-this-20tb-drive-for-279.html](https://www.pcworld.com/article/2281330/store-everything-youd-ever-need-on-this-20tb-drive-for-279.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-27T16:54:15+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>As a colleague put it, 20 terabytes would probably encompass every file you&rsquo;ve ever touched. Today, WD is offering you the option to store 20TB on its Elements external hard drive for just $279.99.</p>
+
+
+
+<p>The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/gp/product/B09VCXWPQG/&amp;xcust=2-1-2281330-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">20TB Western Digital hard drive deal on Amazon</a> rings up as $349.99. But it also includes a $70 coupon on the front page (don&rsquo;t miss it!), which brings down the price to $279.99 after checking out. </p>
+
+
+
+<p>According to Gordon Mah Ung, who has done the math, the 20TB option is the cheapest that WD offers for this product, at a mind-boggling $14 per terabyte. Remember when dollars per <em>gigabyte</em> was a thing?</p>
+
+
+
+<p>Okay, so is ther
+
+## Get my favorite giant robot game for just $3 on Steam
+ - [https://www.pcworld.com/article/2280870/get-my-favorite-giant-robot-game-for-just-3-on-steam.html](https://www.pcworld.com/article/2280870/get-my-favorite-giant-robot-game-for-just-3-on-steam.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-27T15:11:46+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>In the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/watch?v=koesW3xMKtY&amp;xcust=2-1-2280870-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">immortal words of Weird Al Yankovic</a>, &ldquo;You dig giant robots, I dig giant robots, we dig giant robots, chicks dig giant robots.&rdquo; With apologies to said chicks for unnecessary specificity, there&rsquo;s no better way to enjoy giant robots than in video game form. And one of the best giant robot games ever made, <em>Titanfall 2</em>, is <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://store.steampowered.com/app/1237970/Titanfall_2/&amp;xcust=2-1-2280870-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">on sale today for just three greenbacks</a>. </p>
+
+
+
+<p>I&rsquo;ve <a href="https://www.pcworld.com/article/150116
+
+## Microsoft’s ‘AI PC’ definition: An NPU and a keyboard sticker
+ - [https://www.pcworld.com/article/2280765/microsofts-ai-pc-definition-an-npu-and-a-keyboard-sticker.html](https://www.pcworld.com/article/2280765/microsofts-ai-pc-definition-an-npu-and-a-keyboard-sticker.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-27T14:32:57+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>This year everything is &ldquo;AI,&rdquo; whatever that means. Every new computer, game, software service, and soft-serve ice cream machine is apparently imbued with digital sentience, at least according to its branding. But when it comes to laptops and desktops, Microsoft has a very specific definition of &ldquo;AI PC.&rdquo; Surprise&hellip;it&rsquo;s mostly branding. </p>
+
+
+
+<p>According to <a href="https://www.pcworld.com/article/2277617/intel-pushes-harder-to-make-ai-apps-run-best-on-core-ultra.html">a presentation from Intel on Tuesday</a>, which weirdly debuted Microsoft&rsquo;s &ldquo;requirements for an AI PC,&rdquo; vendors will need three specific components if they want to advertise their new machines as such. One, &ldquo;NPU, CPU, and GPU powered silicon.&rdquo; Since that presumably includes integrated GPUs like Intel&rsquo;s Xe systems, th
+
+## Act fast! Carbonite’s spectacular online backup service is 75% off
+ - [https://www.pcworld.com/article/2280698/save-up-to-75-off-on-carbonites-online-backup-service.html](https://www.pcworld.com/article/2280698/save-up-to-75-off-on-carbonites-online-backup-service.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-27T13:48:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;ve never lost all of your files and pictures from spilling a full glass of soda on your desktop tower, you should consider yourself lucky. I learned an important lesson that day, that lesson being&hellip; always back up your dang stuff! If you&rsquo;re looking to avoid my unfortunate fate, then you&rsquo;ve come to the right place. Carbonite&rsquo;s <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.carbonite.com/personal/backup/#priceplans&amp;xcust=2-1-2280698-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">online backup service is a massive 75 percent off for a limited time</a> (until March 31st), which brings the price down to a ridonkulous $2.75 per month or $32.99 per year. </p>
+
+
+
+<p>Not only did we give Carbonite four stars out of five in a <a href="https://www.pcworld.com/article/407297/carbonit
+
+## Best portable monitors 2024: Displays that go with you
+ - [https://www.pcworld.com/article/1787210/best-portable-monitors.html](https://www.pcworld.com/article/1787210/best-portable-monitors.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-27T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It&rsquo;s easy to see why portable monitors are gaining in popularity among both desktop PC and laptop users. What portable monitors sacrifice in size over a standard monitor they make up for in myriad other ways: Portable monitors are relatively inexpensive, easy to connect, and, best of all, portable. Whether you&rsquo;re a student, someone who works from home, or a globe-trotting executive, the ability to easily pack up and move a portable monitor when needed is appealing indeed.</p>
+
+
+
+<p>That being said, the portable monitor market is a bit of a mess currently. The widespread availability of these displays and the ability to manufacture them cheaply has resulted in a onslaught of  unknown brands on the market. Many of these brands don&rsquo;t have any established credibility, and quality can often be sub-par. That&rsquo;s where we at PCWorld come i
+
+## Can you load Windows 11 on a Raspberry Pi 5?
+ - [https://www.pcworld.com/article/2278108/can-you-load-windows-11-on-a-raspberry-pi-5.html](https://www.pcworld.com/article/2278108/can-you-load-windows-11-on-a-raspberry-pi-5.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-27T12:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>There are some very capable operating systems available for the Raspberry Pi 5 single-board computer &mdash; Raspbian and Ubuntu are two that come to mind &mdash; yet some Pi 5 owners may still want to load on Windows 11 for the added utility it can provide.</p>
+
+
+
+<p>Common reasons for doing so are many and varied. For example, you may want to tap Windows&rsquo; all-around usefulness for working across multiple applications for home automation projects. Or, you may want to undertake Windows-based coding projects, or more easily control hardware you&rsquo;ve connected to a Raspberry Pi 5 for hobbies or small business projects.</p>
+
+
+
+<p>Luckily for such users, it&rsquo;s possible to load an early ARM-based version of Windows 11 on the Pi 5. Although, there is one caveat: Unlike Windows 10 ARM on Raspberry Pi 4, Windows 11 ARM is currently just a pre-rele
+
+## Dell Inspiron 14 Plus (2024) review: This is what a well-rounded machine looks like
+ - [https://www.pcworld.com/article/2277005/dell-inspiron-14-plus-review.html](https://www.pcworld.com/article/2277005/dell-inspiron-14-plus-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-27T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Strong performance despite throttling</li><li>Exceptional battery life</li><li>An unreasonably good keyboard</li><li>Compelling value</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Fake vents</li><li>Throttle under sustained loads</li><li>No user upgrades</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdi
+
+## Save over $200 on Microsoft’s leading project management tool
+ - [https://www.pcworld.com/article/2280234/save-over-200-on-microsofts-leading-project-management-tool.html](https://www.pcworld.com/article/2280234/save-over-200-on-microsofts-leading-project-management-tool.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-27T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>There are plenty of project management tools out there, but few are as robust as <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/microsoft-project-2021-professional-pc?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-project-2021-professional-pc&amp;utm_term=scsf-593358&amp;utm_content=a0xRn000000hAtnIAE&amp;scsonar=1&amp;xcust=2-1-2280234-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Microsoft Project Professional 2021 for Windows</a>. Typically a less affordable product, during our Digital Blowout, you can get it for just $24.97. So if you&rsquo;re a project manager or supervisor, why wouldn&rsquo;t you?</p>
+
+
+
+<p>Microsoft Project is an intuitive program despite its immense power. You can manage small tasks and complex problems in the same tool, with
+
+## Hack your Mac to the max with $70 off this innovative tool
+ - [https://www.pcworld.com/article/2280220/hack-your-mac-to-the-max-with-70-off-this-innovative-tool.html](https://www.pcworld.com/article/2280220/hack-your-mac-to-the-max-with-70-off-this-innovative-tool.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-03-27T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Your Mac is a useful tool, of course, but you may not know just how much more user-friendly it can be. With <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/macpilot-11-lifetime-license?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=macpilot-11-lifetime-license&amp;utm_term=scsf-593330&amp;utm_content=a0xRn000000gzBxIAI&amp;scsonar=1&amp;xcust=2-1-2280220-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">MacPilot</a>, you can tap into the power of UNIX to unlock more than 1,200 features and access them all with the Mac user interface without any command line tools or file operations required. During our Digital Blowout, it&rsquo;s on sale for $70 off.</p>
+
+
+
+<p>MacPilot gives you access to a massive array of features, from customizing your dock by adding spacers and
+

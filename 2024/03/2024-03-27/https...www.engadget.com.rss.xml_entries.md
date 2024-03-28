@@ -1,0 +1,133 @@
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
+
+## Anti-trans hate is ‚Äòwidespread‚Äô on Facebook, Instagram and Threads, report warns
+ - [https://www.engadget.com/anti-trans-hate-is-widespread-on-facebook-instagram-and-threads-report-warns-215538151.html?src=rss](https://www.engadget.com/anti-trans-hate-is-widespread-on-facebook-instagram-and-threads-report-warns-215538151.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T21:55:39+00:00
+
+<p>Meta is failing to enforce its own rules against anti-trans hate speech on its platform, a <a class="no-affiliate-link" href="https://glaad.org/smsi/report-meta-fails-to-moderate-extreme-anti-trans-hate-across-facebook-instagram-and-threads/">new report</a> from GLAAD warns. The LGBTQ advocacy group found that ‚Äúextreme anti-trans hate content remains widespread across Instagram, Facebook, and Threads.‚Äù</p>
+<p>The report documents dozens of examples of hate speech from Meta‚Äôs apps, which GLAAD says were reported to the company between June 2023 and March 2024. But though the posts appeared to be clear violations of the company‚Äôs policies, ‚ÄúMeta either replied that posts were not violative or simply did not take action on them,‚Äù GLAAD says.</p>
+<span id="end-legacy-contents"></span><p>The reported content included posts with anti-trans slurs, violent and dehumanizing language and promotions for conversion therapy, all of which are barred under Meta‚Äôs rules. GLA
+
+## Israel‚Äôs military reportedly used Google Photos to identify civilians in Gaza
+ - [https://www.engadget.com/israels-military-reportedly-used-google-photos-to-identify-civilians-in-gaza-200843298.html?src=rss](https://www.engadget.com/israels-military-reportedly-used-google-photos-to-identify-civilians-in-gaza-200843298.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T20:33:19+00:00
+
+<p><em>The New York Times</em> <a class="no-affiliate-link" href="https://www.nytimes.com/2024/03/27/technology/israel-facial-recognition-gaza.html">reports</a> that Israel‚Äôs military intelligence has been using an experimental facial recognition program in Gaza that‚Äôs misidentified Palestinian civilians as having ties to Hamas. <a href="https://www.engadget.com/google-photos-has-new-ai-powered-features-to-clean-up-your-library-204512642.html">Google Photos</a> allegedly plays a part in the chilling program‚Äôs implementation, although it appears not to be through any direct collaboration with the company.</p>
+<p>The surveillance program reportedly started as a way to search for Israeli hostages in Gaza. However, as often happens with new wartime technology, the initiative was quickly expanded to ‚Äúroot out anyone with ties to Hamas or other militant groups,‚Äù according to <em>The NYT</em>. The technology is flawed, but Israeli soldiers reportedly haven‚Äôt treated it a
+
+## Apple's M3 and M2 MacBook Airs have never been cheaper
+ - [https://www.engadget.com/apples-m3-and-m2-macbook-airs-have-never-been-cheaper-195132686.html?src=rss](https://www.engadget.com/apples-m3-and-m2-macbook-airs-have-never-been-cheaper-195132686.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T19:51:32+00:00
+
+<p>We consider Apple's newest <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwQ1gyM1YyWksvP3RhZz1nZGd0MGMtcC12LWMwLTIwIiwiY29udGVudFV1aWQiOiI5NWE3YTVhZS0yMzQwLTRhZDMtYjk5Ny0yMWUzMjUyZjY3MjQifQ&amp;signature=AQAAAdWe2g8spi-CNEVLG8jHBStvYkTPQ-Hidvn0ZPvRzIp6&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23V2ZK%2F">MacBook Air</a> to be the <a href="https://www.engadget.com/best-laptops-120008636.html">best laptop for most people</a>, and it's now dropped to a new low of $999 at <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData
+
+## Samsung Galaxy S24 phones are on sale for record-low prices at Amazon
+ - [https://www.engadget.com/samsung-galaxy-s24-phones-are-on-sale-for-record-low-prices-at-amazon-144742331.html?src=rss](https://www.engadget.com/samsung-galaxy-s24-phones-are-on-sale-for-record-low-prices-at-amazon-144742331.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T19:00:36+00:00
+
+<p>Samsung makes some of the <a href="https://www.engadget.com/best-android-phone-130030805.html">best Android phones</a> you can get right now and the latest models have dropped to all-time-low prices. If you've been waiting for a good deal on the high-end <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL1NBTVNVTkctU21hcnRwaG9uZS1VbmxvY2tlZC1BbmRyb2lkLVRpdGFuaXVtL2RwL0IwQ01SNTNOU1k_dGFnPWdkZ3QwYy1wLW8tNWRwLTIwIiwiY29udGVudFV1aWQiOiJmMjRhZTVlOS1lMmE3LTRkMjctYTFkZi1iMzgzYzk4Nzc2ZjYifQ&amp;signature=AQAAAXHxXHr_m7Dkyv8qOME-lYsuu9XZA1DduQIfdmjSwPCc&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Smartphone-Unlocked-Android-Titanium%2Fdp%2FB0CMR53NSY">Samsung Galaxy S24 Ultra</a>, you're in luck ‚Äî the hand
+
+## Sega of America workers have ratified their union contract
+ - [https://www.engadget.com/sega-of-america-workers-have-ratified-their-union-contract-185906593.html?src=rss](https://www.engadget.com/sega-of-america-workers-have-ratified-their-union-contract-185906593.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T18:59:06+00:00
+
+<p>Workers at Sega of America, a division of Sega Sammy Holdings Inc., have officially ratified their union contract, <a href="https://www.bloomberg.com/news/articles/2024-03-27/sega-workers-ratify-union-contract-first-at-a-major-gaming-company?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxMTU1ODg0NiwiZXhwIjoxNzEyMTYzNjQ2LCJhcnRpY2xlSWQiOiJTQjBOOEhEV1gyUFMwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.g0mVRojsBI1gMbjfQZSYZ98fX9D8I5ynxWfVADgkpAg&amp;sref=10lNAhZ9"><ins>as reported by </ins><em><ins>Bloomberg</ins></em></a>. This makes it one of the first major North American video-game companies to take this step, which could bode well for future organized labor pushes in the industry.</p>
+<p>The contract was ratified after workers <a href="https://www.engadget.com/sega-of-america-workers-overwhelmingly-vote-to-unionize-192839100.html"><ins>overwhelmingly voted to unionize</ins></a> last year
+
+## Immortals of Aveum headlines April‚Äôs PS Plus monthly games
+ - [https://www.engadget.com/immortals-of-aveum-headlines-aprils-ps-plus-monthly-games-183924174.html?src=rss](https://www.engadget.com/immortals-of-aveum-headlines-aprils-ps-plus-monthly-games-183924174.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T18:39:25+00:00
+
+<p>Sony <a class="no-affiliate-link" href="https://blog.playstation.com/2024/03/27/playstation-plus-monthly-games-for-april-immortals-of-aveum-minecraft-legends-skul-the-hero-slayer/">unveiled</a> April‚Äôs PlayStation Plus monthly games on Wednesday. The batch includes <em>Immortals of Aveum</em>, <em>Minecraft Legends</em>, <em>Skul: The Hero Slayer</em> and an <em>Overwatch 2</em> skins-and-skips bundle. Subscribers on PS Plus‚Äô Essential, Extra and Premium tiers can claim the titles starting Tuesday, April 2.</p>
+<p><em>Immortals of Aveum</em> (PS5) showed promise, but its ‚Äúfirst-person shooter with magic instead of guns‚Äù formula didn‚Äôt fare incredibly well commercially. The EA-published game was met with mixed reviews, and its release date ‚Äî&nbsp;competing against the likes of <a href="https://www.engadget.com/baldurs-gate-3-is-available-now-on-xbox-series-xs-040406055.html"><em>Baldur‚Äôs Gate III</em></a>, <a href="https://www.engadget.com/armored-core-vi-fire
+
+## Google's Circle to Search feature will soon handle language translation
+ - [https://www.engadget.com/googles-circle-to-search-feature-will-soon-handle-language-translation-174802558.html?src=rss](https://www.engadget.com/googles-circle-to-search-feature-will-soon-handle-language-translation-174802558.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T17:48:02+00:00
+
+<p>Google just announced that it‚Äôs expanding its <a href="https://www.engadget.com/galaxy-s24-and-pixel-8-owners-can-soon-search-for-anything-by-drawing-a-circle-around-it-180029757.html"><ins>recently-launched Circle to Search</ins></a> tool to <a href="https://blog.google/products/search/google-summer-travel-tips-2024/"><ins>include language translation</ins></a>, as part of an update to various core services. Circle to Search, as the name suggests, already lets some Android users research stuff by <a href="https://blog.google/products/search/google-circle-to-search-android/"><ins>drawing a circle</ins></a> around an object.</p>
+<p>The forthcoming language translation component won‚Äôt even require a drawn circle. Google says people will just have to long press the home button or the navigation bar and look for the translate icon.  It‚Äôll do the rest. The company showed the tech quickly translating an entire menu with one long press. Google Translate can already do this,
+
+## Hulu on Disney+ officially launches, bringing together Mickey Mouse and The Handmaid's Tale
+ - [https://www.engadget.com/hulu-on-disney-officially-launches-bringing-together-mickey-mouse-and-the-handmaids-tale-152114434.html?src=rss](https://www.engadget.com/hulu-on-disney-officially-launches-bringing-together-mickey-mouse-and-the-handmaids-tale-152114434.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T15:21:14+00:00
+
+<p>Disney didn't waste much absorbing Hulu into its multimedia maw. After taking <a href="https://www.engadget.com/disney-to-buy-out-comcast-and-take-full-control-of-hulu-054157026.html">full ownership of Hulu </a>last November, the company started <a href="https://www.engadget.com/disney-adds-a-hulu-tab-as-the-streaming-services-start-integrating-153023092.html">beta testing integration with Disney+ </a>a month later. Today, <a href="https://press.disneyplus.com/hulu-on-disney-plus-launches-today-in-the-us-for-bundle-subscribers">Hulu on Disney+ is officially coming out of beta</a>, making it easy for subscribers to access content for both services. Really, though, it's a way for Disney to push the value of its <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=85d85ef3-fac9-418f-9573-418cf162cd0c&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Disney%2B&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaX
+
+## Some of our favorite portable JBL Bluetooth speakers are up to 34 percent off
+ - [https://www.engadget.com/some-of-our-favorite-portable-jbl-bluetooth-speakers-are-up-to-34-percent-off-150938467.html?src=rss](https://www.engadget.com/some-of-our-favorite-portable-jbl-bluetooth-speakers-are-up-to-34-percent-off-150938467.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T15:09:38+00:00
+
+<p>Portable speakers can come in handy in all kinds of situations, from camping trips to simply keeping one with you as you move throughout your home (just don‚Äôt use one on public transit unless you like being hated with the fire of a thousand suns). JBL makes some of our top picks for portable Bluetooth speakers, and several models are currently on sale for up to 34 percent off. The <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0pCTC1DSEFSR0UtUG9ydGFibGUtQmx1ZXRvb3RoLVdhdGVycHJvb2YvZHAvQjA4WDRWWEYxTT90YWc9Z2RndDBjLXAtdi1idy0yMCIsImNvbnRlbnRVdWlkIjoiNDU0ZWVhNjEtYzI1Ny00NDJjLWI2OTEtOGQ5YzQ2ODAzOWQwIn0&amp;signature=AQAAARjR8_TSBwjW97zBkBXIDQSkdsMIYzknyJtcF05VIPmL&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com
+
+## Marvel Rivals is a new Overwatch-like team shooter
+ - [https://www.engadget.com/marvel-rivals-is-a-new-overwatch-like-team-shooter-150021430.html?src=rss](https://www.engadget.com/marvel-rivals-is-a-new-overwatch-like-team-shooter-150021430.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T15:00:21+00:00
+
+<p>Marvel Games and NetEase just announced a new <em>Overwatch</em>-like team shooter called <em>Marvel Rivals</em>. As the name suggests, playable characters will be pulled from throughout the Marvel Multiverse, including members of the Avengers, Guardians of the Galaxy and the X-Men.</p>
+<p><em>Marvel Rivals</em> is a third-person 6v6 team-based shooter. It‚Äôll be free to play and it's set inside of a ‚Äúcontinually evolving universe.‚Äù In other words, expect plenty of seasonal updates that introduce new heroes, villains, maps and challenges.</p>
+<span id="end-legacy-contents"></span><div id="025e7c748fce4cfb93d50f4626d2279f"></div>
+<p>As for those heroes and villains, the developers promise a ‚Äúvast array‚Äù of characters to choose from, but that roster will be limited to about a dozen upon the alpha launch in May. Early testers will be able to play as Spider-Man, Black Panther, Magneto, Magik and eight or nine more unannounced characters. The developers did mention tha
+
+## Eight years after launch, No Man's Sky gets computer-generated space stations that are different each time
+ - [https://www.engadget.com/eight-years-after-launch-no-mans-sky-gets-computer-generated-space-stations-that-are-different-each-time-140030734.html?src=rss](https://www.engadget.com/eight-years-after-launch-no-mans-sky-gets-computer-generated-space-stations-that-are-different-each-time-140030734.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T14:00:30+00:00
+
+<p><a href="https://www.engadget.com/no-mans-sky-return-irl-143033861.html"><em>No Man‚Äôs Sky</em></a> is still getting major updates. Developer Hello Games‚Äô ‚ÄúOrbital‚Äù update, due Wednesday, adds procedurally generated space stations (so they‚Äôll be different every time), a ship editor and a Guild system to the nearly eight-year-old space exploration sim.</p>
+<p>Up until now, space stations have been one of the few parts of <em>No Man‚Äôs Sky</em> that weren‚Äôt created and randomized by algorithms as something truly unique. That changes with today‚Äôs update, which uses game engine upgrades to ‚Äúcreate vast interior spaces and exterior spaces, with improved reflection and metallic surfaces.‚Äù</p>
+<span id="end-legacy-contents"></span><p>The stations‚Äô broader scale will be evident from the outside, while their interiors will include new shops, gameplay and things to do. Hello Games describes them as being ‚Äúuniquely customized‚Äù based on their virtual inhabitant
+
+## The Google Pixel 8 is $230 off and down to a new record-low price
+ - [https://www.engadget.com/the-google-pixel-8-is-230-off-and-down-to-a-new-record-low-price-131621967.html?src=rss](https://www.engadget.com/the-google-pixel-8-is-230-off-and-down-to-a-new-record-low-price-131621967.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T13:16:22+00:00
+
+<p>There's good news for anyone looking to upgrade their phone as the <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3NlbGxvdXQud29vdC5jb20vb2ZmZXJzL25ldy1nb29nbGUtcGl4ZWwtOC01Zz8iLCJjb250ZW50VXVpZCI6ImQwYWU0ODNmLWM3ODItNDhlMC1hMjQxLTY1ZDNlZjMxYTY2MyJ9&amp;signature=AQAAASxvbKySnh0IpJ0bxFyuSv06G6eCw6cAAX5q9wmzAj_w&amp;gcReferrer=https%3A%2F%2Fsellout.woot.com%2Foffers%2Fnew-google-pixel-8-5g%3F">Google Pixel 8</a> is currently down to a record-low price. Woot is running a 33 percent discount on the new Google Pixel 8 ‚Äî one of our picks for <a href="https://www.engadget.com/best-smartphones-140004900.html">2024's best smartphones</a> ‚Äî dropping its cost to $470 from $700. The sale is on for the next five days or until the smartphone sells out.&nbsp;</p>
+<p></p>
+<p>The new Google Pixel 8 launched las
+
+## Apple refutes every claim made in DOJ's antitrust lawsuit
+ - [https://www.engadget.com/apple-refutes-every-claim-made-in-dojs-antitrust-lawsuit-123223870.html?src=rss](https://www.engadget.com/apple-refutes-every-claim-made-in-dojs-antitrust-lawsuit-123223870.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T12:32:23+00:00
+
+<p>It never blocked competitors' apps and services, and it doesn't employ anticompetitive tactics preventing users from breaking out of its &quot;walled garden,&quot; Apple said in response to the <a href="https://www.engadget.com/justice-department-files-antitrust-lawsuit-against-apple-over-its-infamous-walled-garden-144834571.html">antitrust lawsuit filed</a> against it by the Department of Justice. The company refuted the agency's claims in statements shared with <a href="https://appleinsider.com/articles/24/03/26/apple-responds-to-doj-antitrust-lawsuit-by-refuting-every-claim"><em>Apple Insider</em></a>, expanding upon its earlier response that the lawsuit would hinder its ability to create devices and software that made it one of the most valuable companies in the world.&nbsp;</p>
+<p>The DOJ accused Apple of illegally monopolizing the software app market by imposing limitations on iOS that degrade the compatibility of innovative apps and cloud streaming services with the
+
+## The Morning After: Apple’s WWDC 2024 kicks off June 10
+ - [https://www.engadget.com/the-morning-after-apples-wwdc-2024-kicks-off-june-10-111519275.html?src=rss](https://www.engadget.com/the-morning-after-apples-wwdc-2024-kicks-off-june-10-111519275.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T11:15:19+00:00
+
+<p>Apple’s 35th annual Worldwide Developers Conference (<a href="https://www.engadget.com/apples-wwdc-keynote-is-scheduled-for-june-10-180558453.html">WWDC</a>) is June 10 to 14. WWDC is typically a software-centric event, so it’s highly likely we’ll get our first look at iOS 18, iPadOS 18, tvOS 18, macOS 15 and watchOS 11. It may also be a good chance for Apple to upgrade its visionOS software for Vision Pro.</p>
+<a href="https://www.engadget.com/apples-wwdc-keynote-is-scheduled-for-june-10-180558453.html"><figure><img alt="TMA" src="https://s.yimg.com/os/creatr-uploaded-images/2024-03/b2843290-ec24-11ee-a27e-861541e30fcc" style="height: 329px; width: 675px;" /><figcaption></figcaption><div class="photo-credit">Engadget</div></figure></a>
+<p>There may be hardware too. Last year’s WWDC included a detailed presentation on the Vision Pro and the 15-inch M2 MacBook Air. This year? Another Vision Pro? A Mac Mini? Place your bets.</p>
+<p>— Mat Smith</p>
+<h3>The biggest stories you
+
+## My quest for the perfect productivity mouse
+ - [https://www.engadget.com/best-wireless-mice-pc-gaming-mobile-150027822.html?src=rss](https://www.engadget.com/best-wireless-mice-pc-gaming-mobile-150027822.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T09:01:28+00:00
+
+<p>When you buy a new laptop or PC, it’s easy to only focus on the big three: Processor, graphics and RAM (sorry storage fans, that’s a close fourth). It’s the little things that are simple to overlook. The rig I recently upgraded to is solid, and I had a <a href="https://www.engadget.com/keychron-q-1-fully-customizable-keyboard-130015959.html">nice keyboard</a> already — but oh boy did I really need to find the best productivity mouse. Mice may not be sexy peripherals, but if you spend hours a day in front of a computer screen, they could help make things more comfortable for you in the long run. My old Magic Mouse could have made the move from MacOS to Windows, but I was already negotiating some pretty bad RSI and the internal battery was starting to waiver. Not least of all, I wanted something that I could charge and use at the same time — the temerity, I know.<br /><br />Not to mention, since the advent of devices such as the <a href="https://www.engadget.com/elgato-strea
+
+## The Grok chatbot will soon be enabled for X Premium users, Elon Musk says
+ - [https://www.engadget.com/the-grok-chatbot-will-soon-be-enabled-for-x-premium-users-elon-musk-says-083931821.html?src=rss](https://www.engadget.com/the-grok-chatbot-will-soon-be-enabled-for-x-premium-users-elon-musk-says-083931821.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-03-27T08:39:31+00:00
+
+<p>xAI's Grok chatbot, the Elon Musk-helmed company's answer to OpenAI's ChatGPT, will be <a href="https://twitter.com/elonmusk/status/1772724958801649711">available</a> to X's Premium subscribers later this week. Musk has announced Grok's expanded availability in a tweet, along with an instructional video on how to post a conversation with the chatbot directly on the X website. Grok has been available to X's Premium+ subscribers since it exited early beta, but that paid tier on the social network costs $16 a month or $168 for the full year when billed annually. Since the Premium tier costs half that much at $8 a month or $84 a year, this rollout makes Grok a bit more accessible.&nbsp;</p>
+<div id="6076bb0ba8b74c17aeaafc08e28b2927"><blockquote class="twitter-tweet"><p dir="ltr" lang="en">Later this week, Grok will be enabled for all premium subscribers (not just premium+) <a href="https://t.co/4u9lbLwe23">https://t.co/4u9lbLwe23</a></p>— Elon Musk (@elonmusk) <a href="https:/
+

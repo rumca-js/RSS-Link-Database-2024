@@ -1,0 +1,121 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Get the Turtle Beach Recon Xbox and PC controller for 50 percent off at its lowest price
+ - [https://www.neowin.net/deals/get-the-turtle-beach-recon-xbox-and-pc-controller-for-50-percent-off-at-its-lowest-price](https://www.neowin.net/deals/get-the-turtle-beach-recon-xbox-and-pc-controller-for-50-percent-off-at-its-lowest-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T21:34:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711574032_turtle-beach-recon_medium.jpg" /></div>The Turtle Beach Recon wired Xbox and PC controller includes features like in-game audio boosts, two mappable buttons, and more. It&#039;s at an all-time low price of $29.95, or 50 percent off its MSRP. <a href="https://www.neowin.net/deals/get-the-turtle-beach-recon-xbox-and-pc-controller-for-50-percent-off-at-its-lowest-price/">Read more...</a>
+
+## How to restore old Notepad in Windows 11
+ - [https://www.neowin.net/guides/how-to-restore-old-notepad-in-windows-11](https://www.neowin.net/guides/how-to-restore-old-notepad-in-windows-11)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T21:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711572561_notepad_4_medium.jpg" /></div>Notepad in Windows 11 recently received plenty of updates, and even more are coming soon. Those who do not like the new version can restore the old Notepad in Windows 11 pretty easily. Here is how. <a href="https://www.neowin.net/guides/how-to-restore-old-notepad-in-windows-11/">Read more...</a>
+
+## Microsoft .NET 7 will no longer be supported after May 14, 2024
+ - [https://www.neowin.net/news/microsoft-net-7-will-no-longer-be-supported-after-may-14-2024](https://www.neowin.net/news/microsoft-net-7-will-no-longer-be-supported-after-may-14-2024)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T20:44:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711570117_1605027417_microsoft_net_medium.jpg" /></div>Microsoft has announced that .NET 7 will reach the end of its official support on May 14, 2024. The company recommends updating to the current version of the open-source dev tool, NET 8. <a href="https://www.neowin.net/news/microsoft-net-7-will-no-longer-be-supported-after-may-14-2024/">Read more...</a>
+
+## Google Maps gets trending lists, customization options, and AI summaries for places
+ - [https://www.neowin.net/news/google-maps-gets-trending-lists-customization-options-and-ai-summaries-for-places](https://www.neowin.net/news/google-maps-gets-trending-lists-customization-options-and-ai-summaries-for-places)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T20:24:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711569839_google_maps_depiction_medium.jpg" /></div>Announcing new features for Maps, Google said it will show curated lists from publishers and community when looking for select cities. It will also add new customization options for the lists. <a href="https://www.neowin.net/news/google-maps-gets-trending-lists-customization-options-and-ai-summaries-for-places/">Read more...</a>
+
+## Homeworld 3 is getting a ton of changes from player feedback before its May 13 release
+ - [https://www.neowin.net/news/homeworld-3-is-getting-a-ton-of-changes-from-player-feedback-before-its-may-13-release](https://www.neowin.net/news/homeworld-3-is-getting-a-ton-of-changes-from-player-feedback-before-its-may-13-release)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T20:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/05/1684062346_homeworld-3_medium.jpg" /></div>Developer Blackbird Interactive has posted an extensive developer update on its long-awaited RTS game Homeworld 3, based in part on feedback from the recent War Games demo and more. <a href="https://www.neowin.net/news/homeworld-3-is-getting-a-ton-of-changes-from-player-feedback-before-its-may-13-release/">Read more...</a>
+
+## The latest Ara: History Untold video dev diary talks about the scout units in the game
+ - [https://www.neowin.net/news/the-latest-ara-history-untold-video-dev-diary-talks-about-the-scout-units-in-the-game](https://www.neowin.net/news/the-latest-ara-history-untold-video-dev-diary-talks-about-the-scout-units-in-the-game)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T19:04:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/06/1655071462_arahistory_screenshot_06-scaled_medium.jpg" /></div>The latest entry in the long-running Ara: History Untold video dev diary has Oxide Games&#039; Community Manager Andy Cataldo offer up info on the scout units in the upcoming grand strategy game. <a href="https://www.neowin.net/news/the-latest-ara-history-untold-video-dev-diary-talks-about-the-scout-units-in-the-game/">Read more...</a>
+
+## New Microsoft MSBuild editor is an easier and more helpful experimental tool for developers
+ - [https://www.neowin.net/news/new-microsoft-msbuild-editor-is-an-easier-and-more-helpful-experimental-tool-for-developers](https://www.neowin.net/news/new-microsoft-msbuild-editor-is-an-easier-and-more-helpful-experimental-tool-for-developers)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T18:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/06/1561145051_visualstudio4_medium.jpg" /></div>Microsoft has released a new and experimental version of its MSBuild editor that will offer more info on not just XML elements in files, but also properties, items, and metadata information. <a href="https://www.neowin.net/news/new-microsoft-msbuild-editor-is-an-easier-and-more-helpful-experimental-tool-for-developers/">Read more...</a>
+
+## Not feeling old yet? Office for iPad completes 10 years since its launch
+ - [https://www.neowin.net/news/not-feeling-old-yet-office-for-ipad-completes-10-years-since-its-launch](https://www.neowin.net/news/not-feeling-old-yet-office-for-ipad-completes-10-years-since-its-launch)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T17:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711555267_microsoft_office_apps_medium.jpg" /></div>It&#039;s been 10 years since Microsoft launched its Office apps, Word, Excel, and PowerPoint for the iPad. Initially, users with the free version could only view, present, and share Office content. <a href="https://www.neowin.net/news/not-feeling-old-yet-office-for-ipad-completes-10-years-since-its-launch/">Read more...</a>
+
+## Price Dropped: AdGuard Family & Personal Plans lifetime subscriptions now 71% off
+ - [https://www.neowin.net/deals/price-dropped-adguard-family--personal-plans-lifetime-subscriptions-now-71-off](https://www.neowin.net/deals/price-dropped-adguard-family--personal-plans-lifetime-subscriptions-now-71-off)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T17:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/09/1631270651_adguard_medium.jpg" /></div>Get rid of annoying and intrusive ads and protect your device from malware with this advanced ad blocking app with a lifetime Family plan at a Price Dropped $105 off today with Neowin Deals. <a href="https://www.neowin.net/deals/price-dropped-adguard-family--personal-plans-lifetime-subscriptions-now-71-off/">Read more...</a>
+
+## Marvel Rivals announced and it looks a lot like Overwatch; a closed alpha is coming in May
+ - [https://www.neowin.net/news/marvel-rivals-announced-and-it-looks-a-lot-like-overwatch-a-closed-alpha-is-coming-in-may](https://www.neowin.net/news/marvel-rivals-announced-and-it-looks-a-lot-like-overwatch-a-closed-alpha-is-coming-in-may)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T15:40:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711552162_ss_cc9d63cac270bfc60ff323948475100758d57e01_medium.jpg" /></div>Marvel and NetEase Games have just announced Marvel Rivals, a new PC team shooter that looks an awful lot like Overwatch. The game will have a closed alpha test sometime in May 2023. <a href="https://www.neowin.net/news/marvel-rivals-announced-and-it-looks-a-lot-like-overwatch-a-closed-alpha-is-coming-in-may/">Read more...</a>
+
+## No Man's Sky Orbital update finally adds an editor to make fully custom starships
+ - [https://www.neowin.net/news/no-mans-sky-orbital-update-finally-adds-an-editor-to-make-fully-custom-starships](https://www.neowin.net/news/no-mans-sky-orbital-update-finally-adds-an-editor-to-make-fully-custom-starships)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T15:24:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711551882_maxresdefault_23_medium.jpg" /></div>No Man&#039;s Sky&#039;s latest update carries a highly requested feature. Brand-new Starship Fabricators in space stations now let players create custom starships from salvaged and bought parts. <a href="https://www.neowin.net/news/no-mans-sky-orbital-update-finally-adds-an-editor-to-make-fully-custom-starships/">Read more...</a>
+
+## Save 40% off this SMUG ergonomic desk chair before the limited stocks run out
+ - [https://www.neowin.net/deals/save-40-off-this-smug-ergonomic-desk-chair-before-the-limited-stocks-run-out](https://www.neowin.net/deals/save-40-off-this-smug-ergonomic-desk-chair-before-the-limited-stocks-run-out)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T15:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711551505_smug-office_chair_medium.jpg" /></div>The SMUG Office Chair is now at its lowest price at less than $50 on Amazon. It is currently available with a big 40% discount off the list price and has an excellent customer rating. <a href="https://www.neowin.net/deals/save-40-off-this-smug-ergonomic-desk-chair-before-the-limited-stocks-run-out/">Read more...</a>
+
+## Get the 45-inch LG 45GR75DC-B curved gaming PC monitor for a new all-time low price
+ - [https://www.neowin.net/deals/get-the-45-inch-lg-45gr75dc-b-curved-gaming-pc-monitor-for-a-new-all-time-low-price](https://www.neowin.net/deals/get-the-45-inch-lg-45gr75dc-b-curved-gaming-pc-monitor-for-a-new-all-time-low-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T14:52:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711549438_lg-ultragear-45-inch-monitor-1_medium.jpg" /></div>The 45-inch LG 45GR75DC-B curved gaming PC monitor has a 5,120 x 1,440 resolution and a 32:9 aspect ratio, along with a 200Hz refresh rate. It has hit a new all-time low price of $646.99. <a href="https://www.neowin.net/deals/get-the-45-inch-lg-45gr75dc-b-curved-gaming-pc-monitor-for-a-new-all-time-low-price/">Read more...</a>
+
+## Microsoft Edge 124.0.2478.6 is out in the Dev Channel with various improvements
+ - [https://www.neowin.net/news/microsoft-edge-124024786-is-out-in-the-dev-channel-with-various-improvements](https://www.neowin.net/news/microsoft-edge-124024786-is-out-in-the-dev-channel-with-various-improvements)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T14:18:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1709894665_edge_dev_124_medium.jpg" /></div>Microsoft Edge 124.0.2478.6 has arrived in the Dev Channel for testing. This week&#039;s feature update in the Edge Insider program delivers various improvements and fixes across the browser. <a href="https://www.neowin.net/news/microsoft-edge-124024786-is-out-in-the-dev-channel-with-various-improvements/">Read more...</a>
+
+## Hulu is officially part of Disney+ in the US, along with a new color for its logo
+ - [https://www.neowin.net/news/hulu-is-officially-part-of-disney-in-the-us-along-with-a-new-color-for-its-logo](https://www.neowin.net/news/hulu-is-officially-part-of-disney-in-the-us-along-with-a-new-color-for-its-logo)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T14:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711546300_bundle_homepage_hero-e1711542771703-768x457_medium.jpg" /></div>After its beta testing period, the Disney+ streaming service now includes the library of titles from its Hulu service in the US as part of a new bundle deal. The Disney+ logo also has a new color. <a href="https://www.neowin.net/news/hulu-is-officially-part-of-disney-in-the-us-along-with-a-new-color-for-its-logo/">Read more...</a>
+
+## The first Neuralink brain patient says he used it to play Civilization VI all night
+ - [https://www.neowin.net/news/the-first-neuralink-brain-patient-says-he-used-it-to-play-civilization-vi-all-night](https://www.neowin.net/news/the-first-neuralink-brain-patient-says-he-used-it-to-play-civilization-vi-all-night)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T13:20:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/05/1589211844_civilization_vi_-_developer_update_-_new_frontier_pass_1-45_screenshot_medium.jpg" /></div>Noland Arbaugh, the first person to receive a Neuralink brain chip implant, revealed he has already used it to play the strategy game  Civilization VI in a recent all-nighter game event. <a href="https://www.neowin.net/news/the-first-neuralink-brain-patient-says-he-used-it-to-play-civilization-vi-all-night/">Read more...</a>
+
+## WhatsApp's Favorites feature is now available to Android beta users
+ - [https://www.neowin.net/news/whatsapps-favorites-feature-is-now-available-to-android-beta-users](https://www.neowin.net/news/whatsapps-favorites-feature-is-now-available-to-android-beta-users)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-27T09:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711518286_person_using_whatsapp_on_smartphone_medium.jpg" /></div>WhatsApp&#039;s new Favorites feature for the Calls tab is now available to try. The feature has started rolling out to some beta testers running the WhatsApp beta for Android 2.24.7.18. <a href="https://www.neowin.net/news/whatsapps-favorites-feature-is-now-available-to-android-beta-users/">Read more...</a>
+
