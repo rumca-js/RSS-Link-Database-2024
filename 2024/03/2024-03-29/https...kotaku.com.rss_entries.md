@@ -1,0 +1,79 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## Weebs, Rejoice: ‘Isekai’ Is Now In The Oxford Dictionary
+ - [https://kotaku.com/anime-manga-genre-isekai-enter-oxford-dictionary-1851375582](https://kotaku.com/anime-manga-genre-isekai-enter-oxford-dictionary-1851375582)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-29T21:38:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7e0dd14a3cd496da6206e17b6a066355.jpg" /><p>The Oxford English Dictionary (aka the OED) runs an update to its repository four times every year. Like DLC for games, these quarterly patches can introduce new words, features, and definition changes. Well, the first quarter of 2024 is about up, and the OED has just updated its linguistic repository to add 23…</p><p><a href="https://kotaku.com/anime-manga-genre-isekai-enter-oxford-dictionary-1851375582">Read more...</a></p>
+
+## Destiny 2 Players Convince Bungie To Change Into The Light Weapon Rollout
+ - [https://kotaku.com/destiny-2-into-the-light-brave-arsenal-changes-1851375440](https://kotaku.com/destiny-2-into-the-light-brave-arsenal-changes-1851375440)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-29T20:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/56e4d31ef9d18cd4e30b4c8f5bb13c82.jpg" /><p>Late last year, it was reported that Destiny 2’s upcoming expansion, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/destiny-2-final-shape-seasons-episode-burnout-eververse-1850762447">The Final Shape</a>, was getting delayed amidst struggles and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/destiny-2-final-shape-layoff-refund-delayed-ps5-1850976501">layoffs at Bungie</a>. The expansion, which was initially supposed to release by February, was then officially pushed back to June, leaving a tremendous gap of time between what was supposed to be…</p><p><a href="https://kotaku.com/destiny-2-into-the-light-brave-arsenal-changes-1851375440">Read more...</a></p>
+
+## Stellar Blade's Demo Is A Delicious Amuse-Bouche Of Stylish Action
+ - [https://kotaku.com/stellar-blade-ps5-game-demo-preview-dmc-sekiro-1851375165](https://kotaku.com/stellar-blade-ps5-game-demo-preview-dmc-sekiro-1851375165)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-29T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/953da03ff3a2784a8b51a5067ac95d3d.jpg" /><p>Y’all, the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/stellar-blade-game-ps5-free-demo-save-transfer-1851362775">Stellar Blade demo is finally live</a> on PS5. It’s a short little vertical slice of developer Shift Up’s character action game, so while we still need to see a lot more before we come to any conclusions, I can at least say that the demo has me stoked for the full release. Why? Well, like <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/stellar-blade-ps5-game-previews-sekiro-ragnarok-nier-1851369139">the previews from…</a></p><p><a href="https://kotaku.com/stellar-blade-ps5-game-demo-preview-dmc-sekiro-1851375165">Read more...</a></p>
+
+## Suicide Squad’s Joker Season Has Players Big Mad
+ - [https://kotaku.com/suicide-squad-joker-season-grind-battle-pass-unlock-1851374999](https://kotaku.com/suicide-squad-joker-season-grind-battle-pass-unlock-1851374999)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-29T18:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5a6c22971dc017ca72177c35454fbe86.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/suicide-squad-justice-league-review-is-it-good-batman-1851222047">Suicide Squad: Kill the Justice League</a> had a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/dc-suicide-squad-delay-kill-the-justice-league-batman-1850208924">rocky development cycle</a> and an even <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/suicide-squad-justice-league-preview-is-it-bad-gameplay-1851152615">rockier launch</a>, but players hoped that the first season of the action-adventure shooter would help right the ship. Unfortunately, the season, which introduces famed DC villain Joker, is getting absolutely shellacked on social media, with…</p><p><a href="https://kotaku.com/suicide-squad-joker-season-grind-battle-pass-unl
+
+## Xbox Adds Dynamic Blue Dragon Background In Honor Of Akira Toriyama
+ - [https://kotaku.com/xbox-akira-toriyama-blue-dragon-background-1851374886](https://kotaku.com/xbox-akira-toriyama-blue-dragon-background-1851374886)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-29T18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/58da98d11edf4d131dee2bc879a5a9ff.jpg" /><p>Earlier this month, the world learned of the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/akira-toriyama-dragon-ball-dies-quest-chrono-trigger-1851318780">passing of legendary mangaka Akira Toriyama</a>, the creator behind Dragon Ball, Dr. Slump, and Sand Land. In the world of games, he is best known as the prolific artist behind games like <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/akira-toriyama-chrono-trigger-dragon-quest-1851321072">Chrono Trigger</a> and the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/dragon-quest-xi-the-kotaku-review-1828646512">Dragon Quest series</a>, as well as the Xbox-exclusive RPG Blue Dragon.…</p><p><a href="https://kotaku.com/xbox-akira-toriyama-blue-dragon-background-1851374886">Read more...</a></p>
+
+## You Can Play Cyberpunk 2077 For Free This Weekend
+ - [https://kotaku.com/cyberpunk-2077-free-trial-ps5-xbox-pc-five-hours-1851374466](https://kotaku.com/cyberpunk-2077-free-trial-ps5-xbox-pc-five-hours-1851374466)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-29T16:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e476d8eb5236d8364d3a88baebf4d202.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/cyberpunk-2077-romance-2-1-update-kerry-judy-panam-1851078052">Cyberpunk 2077</a> has undergone a pretty significant transformation since its <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/peoples-dicks-are-clipping-through-their-pants-1845849381">dumpster fire launch</a> in 2020. CD Projekt Red’s city-sprawling RPG got a next-gen update, a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/cyberpunk-2077-2-0-update-phantom-liberty-skill-trees-1850838584">2.0 patch</a> that fundamentally alters how you build a character and fight through the streets of Night City, and to top it all off, the team released a…</p><p><a href="https://kotaku.com/cyberpunk-2077-free-trial-ps5-xbox-pc-five-hours-1851374466">Re
+
+## More Than 400 People Now Working On The Witcher 4, CDPR Confirms
+ - [https://kotaku.com/witcher-4-production-development-cd-projekt-red-release-1851374320](https://kotaku.com/witcher-4-production-development-cd-projekt-red-release-1851374320)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-29T16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/75914fb77d8b430aaa4ba40cdfe6452d.jpg" /><p>Production on the upcoming RPG <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/cyberpunk-2077-sequel-witcher-4-cdpr-orion-edgerunners-1849614319">The Witcher 4</a> has picked up significantly since we last heard about it. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/cyberpunk-2077-sales-750-million-phantom-liberty-dlc-1851372913">CD Projekt Red</a> confirmed as part of its <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.cdprojekt.com/en/wp-content/uploads-en/2024/03/cd-projekt-group-presentation-fy-2023.pdf" rel="noopener noreferrer" target="_blank">earnings report</a> that the the team behind the game, codenamed Polaris, has grown to 403 staffers, or about two-thirds of the studio. It’s now the single biggest project being…</p><p><a href="https://kota
+
+## Nier Reincarnation’s Final Chapter Is Out Now, Don’t Miss It
+ - [https://kotaku.com/nier-reincarnation-final-chapter-goodbye-out-now-1851374397](https://kotaku.com/nier-reincarnation-final-chapter-goodbye-out-now-1851374397)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-29T15:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/610cd096ffe220aa4a2624714510a83b.jpg" /><p>A little over three years after its launch, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/nier-reincarnation-shut-down-1851206958">Nier Reincarnation</a> has finally released its final story chapter. The mobile gacha game set in the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/drakengard-3-isnt-just-about-making-a-sequel-not-en-469640600">Drakengard</a> and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/the-nier-replicant-remaster-does-many-good-things-and-o-1846743596">Nier</a> universe created by <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/kamierabi-god-app-yoko-taro-nier-anime-expo-crunchyroll-1850603225">Yoko Taro</a> will be shutting down on April 29 of this year, so fans only have a short amount o
+
+## Final Fantasy VII Rebirth’s Ending Doesn’t Earn The Benefit Of The Doubt
+ - [https://kotaku.com/final-fantasy-7-rebirth-ending-cloud-aerith-sephiroth-1851374178](https://kotaku.com/final-fantasy-7-rebirth-ending-cloud-aerith-sephiroth-1851374178)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-29T14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ceeecc7ff97aebcda328d763ac80dde4.jpg" /><p>I’ve had more than a month to consider <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-rebirth-review-ps5-1851276129">Final Fantasy VII Rebirth’s</a> ending, and it’s not often that my feelings about something get worse with each passing day. Yet, here I am, thinking about how Square Enix has chosen to cap off <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-rebirth-remake-mini-games-third-game-1851272221">the middle section</a> of its planned <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-vii-remake-the-kotaku-review-1842697312">Remake trilogy</a>, and I’m even more puzzled by how hard Reb…</p><p><a href="https://kotaku.com/final-fantasy-7-rebirth-ending-cloud-aerith-sephiroth-1851374178">Read more...<
+
+## Dragon’s Dogma 2’s Latest Update Adds A Highly Requested Feature
+ - [https://kotaku.com/dragons-dogma-2-update-1050-start-new-game-1851374125](https://kotaku.com/dragons-dogma-2-update-1050-start-new-game-1851374125)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-29T14:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/62e7c0ec3b934b62eab87dc54f3c8cbc.jpg" /><p>One week after <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/dragons-dogma-2-review-ps5-1851349573">Dragon’s Dogma 2</a>’s March 22 launch, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/dragons-dogma-2-capcom-survey-dlc-1851371380">Capcom</a> has released the first update to the game. Update 1.050 adds a handful of features to Capcom’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/dragons-dogma-2-fast-travel-hobbit-delicious-in-dungeon-1851370156">action RPG</a> including one of the most requested options since launch, the ability to start a new game when save data already exists.<br /></p><p><a href="https://kotaku.com/dragons-dogma-2-update-1050-start-new-game-1851374125">Read more...</a></p>
+
+## Swords, Pirates, And Sand: 20 New Games To Check Out In April
+ - [https://kotaku.com/april-game-releases-sand-land-stellar-blade-sea-thieves-1851372966](https://kotaku.com/april-game-releases-sand-land-stellar-blade-sea-thieves-1851372966)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-03-29T13:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d9ebfe51e368b1de6c6e703306c6f1c4.jpg" /><p>It’s nearly April. Where does the time go? Whether this year is flying or crawling by for you, we’re looking at another four weeks of new game releases. April arrives with a number of familiar releases landing on new platforms, some interesting new exclusives, and the video game adaptation of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/akira-toriyama-dragon-ball-dies-quest-chrono-trigger-1851318780">the late Akira Toriyama’s</a>…</p><p><a href="https://kotaku.com/april-game-releases-sand-land-stellar-blade-sea-thieves-1851372966">Read more...</a></p>
+

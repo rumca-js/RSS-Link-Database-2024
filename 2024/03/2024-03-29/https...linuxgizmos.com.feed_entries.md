@@ -1,0 +1,16 @@
+# Source:LinuxGizmos.com, URL:https://linuxgizmos.com/feed, language:en-US
+
+## M5Stack BugC2: Compact Robotics Gizmo with STM32 MCU & Motor Drivers
+ - [https://linuxgizmos.com/m5stack-bugc2-compact-robotics-gizmo-with-stm32-mcu-motor-drivers](https://linuxgizmos.com/m5stack-bugc2-compact-robotics-gizmo-with-stm32-mcu-motor-drivers)
+ - RSS feed: https://linuxgizmos.com/feed
+ - date published: 2024-03-29T22:36:13+00:00
+
+The BugC2 with M5StickC PLUS2 is a versatile programmable robot base compatible with the M5StickC series controllers designed for new or advanced users due to its Arduino compatibility. &#160; For reference, the STM32F0304 microcontrollers feature the Arm Cortex-M0 32-bit RISC core, operating at a frequency of 48 MHz. The product page states that this tiny [&#8230;]
+
+## Seeed Studio XIAO ESP32C6 with Matter support starts at $5.20
+ - [https://linuxgizmos.com/seeed-studio-xiao-esp32c6-with-matter-support-starts-at-5-20](https://linuxgizmos.com/seeed-studio-xiao-esp32c6-with-matter-support-starts-at-5-20)
+ - RSS feed: https://linuxgizmos.com/feed
+ - date published: 2024-03-29T19:04:27+00:00
+
+SeeedStudio has recently introduced a new addition to their XIAO Series development boards. This latest board brings support for Wi-Fi 6/Bluetooth 5 and integrates Matter compatibility due to its ESP32-C6 integration. This product stands as the first ESP32-C6-based development board by SeeedStudio and the 8th device in the XIAO Series. It features a high-performance processor [&#8230;]
+

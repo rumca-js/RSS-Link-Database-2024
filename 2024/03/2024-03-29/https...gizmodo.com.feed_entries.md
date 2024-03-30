@@ -1,0 +1,198 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Watch These 10 Horror and Sci-Fi Movies Now Before They Leave Netflix
+ - [https://gizmodo.com/10-great-horror-sci-fi-movies-leaving-netflix-very-soon-1851375374](https://gizmodo.com/10-great-horror-sci-fi-movies-leaving-netflix-very-soon-1851375374)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T22:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/40c27a45540a24ae0135a4d9a69eb67a.jpg" /><p>Every month, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/best-horror-movies-streaming-february-2024-sci-fi-genre-1851209283">all the big streaming services</a> proudly share <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/streaming-march-2024-netflix-amazon-disney-hulu-shudder-1851291102">their newly arriving titles</a>. But what about those movies you’ve been meaning to watch, but just haven’t gotten around to yet? Here are 10 <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/10-netflix-horror-movies-popes-exorcist-stephen-king-1850826207">horror and sci-fi</a> movies leaving <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/netflix-scifi-films-recommendation-snyder-rebel-moon-1851133725">Netflix</a> very so
+
+## Grading Cards with AI | AI Unlocked
+ - [https://gizmodo.com/grading-cards-with-ai-ai-unlocked-1851375561](https://gizmodo.com/grading-cards-with-ai-ai-unlocked-1851375561)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T21:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/51e4d2a0f0ab8a3890b257dc8a088ec1.jpg" /><p><a href="https://gizmodo.com/grading-cards-with-ai-ai-unlocked-1851375561">Read more...</a></p>
+
+## 10 Amazing Theme Park Rides That Took Us Off the Rails, Literally
+ - [https://gizmodo.com/best-trackless-rides-disney-world-universal-disneyland-1851373563](https://gizmodo.com/best-trackless-rides-disney-world-universal-disneyland-1851373563)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0fdfadc7d576010838f246f7c1e85c5e.png" /><p>Innovations in theme park attractions have come a long way. Trackless rides are the way of the future at <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-wars-disneyland-season-of-the-force-food-guide-1851363377">Disney Parks</a>, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/universal-orlando-how-to-train-your-dragon-park-images-1851372330">Universal Studios Resorts</a>, and other global amusement experiences.</p><p><a href="https://gizmodo.com/best-trackless-rides-disney-world-universal-disneyland-1851373563">Read more...</a></p>
+
+## RCS Coming to iPhone This Fall, Leaked Google Promo Image Claims
+ - [https://gizmodo.com/rcs-coming-to-iphone-this-fall-leaked-google-promo-ima-1851375444](https://gizmodo.com/rcs-coming-to-iphone-this-fall-leaked-google-promo-ima-1851375444)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T21:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7689a532f2d524df6df78d37a67dc297.png" /><p>Rich communication services (RCS) is already a big deal on Android phones with <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/google-messages-1-billion-rcs-users-1851063602">more than a billion users</a>. Those numbers might be going up by the fall, as Google claims Apple will be joining the RCS party.</p><p><a href="https://gizmodo.com/rcs-coming-to-iphone-this-fall-leaked-google-promo-ima-1851375444">Read more...</a></p>
+
+## Rebecca Hall on Her Weird and Particular Co-Star Dan Stevens
+ - [https://gizmodo.com/rebecca-hall-on-her-weird-and-particular-co-star-dan-st-1851372811](https://gizmodo.com/rebecca-hall-on-her-weird-and-particular-co-star-dan-st-1851372811)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c39d720d8f863f345ad0ffc28db50d48.jpg" /><p><a href="https://gizmodo.com/rebecca-hall-on-her-weird-and-particular-co-star-dan-st-1851372811">Read more...</a></p>
+
+## This Startup Wants to Use the Apple Vision Pro for the Most Boring Part of Surgery
+ - [https://gizmodo.com/this-health-tech-startup-wants-to-use-the-apple-vision-1851375405](https://gizmodo.com/this-health-tech-startup-wants-to-use-the-apple-vision-1851375405)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2adf5873b754eaa91196885e0c8285b0.jpg" /><p>Earlier this month, a British hospital made headlines with <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/doctors-are-using-the-apple-vision-pro-during-surgery-1851329884">the first surgery ever carried out with the assistance of an Apple Vision Pro</a>, a $3,500 mixed reality headset. The nurses wearing <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/apple-vision-pro-1851249913">Apple’s fancy goggles</a> in the operating room were running software built by a company called eXeX. When you hear about a VR headset…</p><p><a href="https://gizmodo.com/this-health-tech-startup-wants-to-use-the-apple-vision-1851375405">Read more...</a></p>
+
+## How to Stop Those Annoying Samsung Ads From Popping Up on Your Phone
+ - [https://gizmodo.com/how-to-stop-those-pesky-samsung-ads-android-galaxy-1851375243](https://gizmodo.com/how-to-stop-those-pesky-samsung-ads-android-galaxy-1851375243)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T20:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1675109dc4325e6a323bf576c1fead63.jpg" /><p>Samsung has developed a naughty habit of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/samsung-confirms-it-will-remove-ads-from-some-of-its-de-1847508799">serving advertising</a> to even its most loyal users. I noticed over the past few years of reviewing devices like the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/samsung-galaxy-z-fold-5-review-1850744972">Galaxy Z Fold 5</a> and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/samsung-galaxy-s24-performance-benchmarks-android-1851181931">Galaxy S24 Ultra</a> that the company has a habit of popping in with a reminder of new stuff it has coming out at the worst possible times—like in…</p><p><a href="https://gizmodo.com/how-to-stop-those-pesky-samsung-ads-android-galaxy-1851375243">Read more
+
+## CEO of Firm Tapped for AI Metal Detectors in NYC Subways Says Subways Are Not a 'Good Use-Case'
+ - [https://gizmodo.com/ceo-of-firm-tapped-for-ai-metal-detectors-in-nyc-subway-1851375149](https://gizmodo.com/ceo-of-firm-tapped-for-ai-metal-detectors-in-nyc-subway-1851375149)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2d7a3de4aed8bb91e787065f5fa26870.jpg" /><p>Citing a supposed <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.nytimes.com/2024/03/06/nyregion/nyc-subway-crime.html" rel="noopener noreferrer" target="_blank">spike in crime</a>, New York State and New York City officials have launched a heavy-handed, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://reason.com/2024/03/07/empire-state-police-state/" rel="noopener noreferrer" target="_blank">police-state-flavored</a> push to increase safety in the city’s subway systems. This has included the controversial deployment of National Guard and State Police units into the city’s tunnels and, more recently, the…</p><p><a href="https://gizmodo.com/ceo-of-firm-tapped-for-ai-metal-detectors-in-nyc-subway-1851375149">Read more...</a></p>
+
+## The Tech Industry's C-Suite Convicts, Ranked
+ - [https://gizmodo.com/the-tech-industrys-c-suite-convicts-ranked-1851373141](https://gizmodo.com/the-tech-industrys-c-suite-convicts-ranked-1851373141)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T19:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/26cb193d34f0e625fe760aa8124947fc.jpg" /><p>Well, Sam Bankman-Fried is <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/sam-bankman-fried-sentenced-25-years-prison-1851371043">headed up the river</a>. Once a powerful crypto power broker, SBF’s glittering Web3 kingdom came crashing down on his head after a multi-billion dollar scandal. It’s a good reminder that not only does Silicon Valley produce a lot of software products, but it also produces a whole lot of…</p><p><a href="https://gizmodo.com/the-tech-industrys-c-suite-convicts-ranked-1851373141">Read more...</a></p>
+
+## Invincible Just Did a Perfect Adaptation of One of the Comics' Best Jokes
+ - [https://gizmodo.com/invincible-season-2-episode-7-animation-joke-comics-1851375046](https://gizmodo.com/invincible-season-2-episode-7-animation-joke-comics-1851375046)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7b73fc244d6137aee3ded405a9781af4.png" /><p>As we learned <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/x-men-97-episode-3-madelyne-pryor-inferno-jean-grey-1851369226">earlier this week</a>, adapting comic books can be a daunting task even for an accomplished work. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/invincible-spider-man-prime-video-crossover-1851283568">Invincible</a> has already taken more than a few creative liberties in how it has handled adapting the original comic, but its latest episode proved that it can still take a faithful moment from the books, and make…</p><p><a href="https://gizmodo.com/invincible-season-2-episode-7-animation-joke-comics-1851375046">Read more...</a></p>
+
+## OpenAI Clearly Nervous About Its New Voice Cloning Tool Being Used for Scams
+ - [https://gizmodo.com/openai-nervous-new-voice-cloning-tool-being-used-scams-1851374885](https://gizmodo.com/openai-nervous-new-voice-cloning-tool-being-used-scams-1851374885)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T19:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c1be9d027e638ff4aff574954404e553.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/openai-goes-hunting-for-more-suckers-in-hollywood-1851359626">OpenAI</a> announced a new AI-based audio cloning tool called Voice Engine on Friday. While the company is obviously proud of the potential of this technology—touting how it could be used to provide reading assistance for kids and give a voice to those who’ve lost theirs—OpenAI is clearly very nervous about how this could…</p><p><a href="https://gizmodo.com/openai-nervous-new-voice-cloning-tool-being-used-scams-1851374885">Read more...</a></p>
+
+## Star Trek: Prodigy's Strange Journey Has Taken Yet Another Turn
+ - [https://gizmodo.com/star-trek-prodigy-season-2-premiere-france-leak-netflix-1851374779](https://gizmodo.com/star-trek-prodigy-season-2-premiere-france-leak-netflix-1851374779)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/182cb9b05e0188bdc93c19e6e5d4371d.jpg" /><p>As confirmed by a splashy Variety story this week digging into <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-updates-movies-picard-section-31-kelvin-4-1851369380">the future of Star Trek</a>, fans have a lot to look forward too, including more series (Discovery’s final season starts <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-discovery-season-5-release-date-paramount-1851256287">next week</a>), Michelle Yeoh’s Section 31 streaming movie, and a big-screen return. But <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-prodigy-season-2-netflix-paramount-streaming-1850918603">one pocket of the franchise</a> that’s already endured <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/sta
+
+## Earth's 8 Weirdest Cave Systems
+ - [https://gizmodo.com/earths-8-weirdest-cave-systems-1851372641](https://gizmodo.com/earths-8-weirdest-cave-systems-1851372641)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9ae2ce742dfa84c1c850a2c9f731ab0c.jpg" /><p>Shelters of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/ancient-cave-engravings-work-of-neanderthals-1850570321">our ancestors</a>, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/largest-cave-art-in-north-america-discovered-in-alabama-1848873450">galleries for our artwork</a>, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/roman-swords-hidden-judean-desert-cave-archaeology-1850814492">hiding places for our treasures</a>, portals to the underworld. Caves have meant many things for human culture through the ages, and still capture the imagination with their inextricable passageways and impossibly large caverns.</p><p><a href="https://gizmodo.com/earths-8-weirdest-cave-systems-1851372641">Read more...</a></p>
+
+## Star Trek: Strange New Worlds' Incredible Musical Episode Is Getting the Vinyl It Deserves
+ - [https://gizmodo.com/star-trek-strange-new-worlds-subspace-rhapsody-vinyl-1851374676](https://gizmodo.com/star-trek-strange-new-worlds-subspace-rhapsody-vinyl-1851374676)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8029ab9574773f6f71e8ddd8872d1687.png" /><p>Of all the highs Star Trek: Strange New Worlds’ sophomore season pulled off—<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-strange-new-worlds-season-2-episode-10-recap-1850725771">intense action</a>, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-strange-new-worlds-season-2-episode-5-recap-1850634024">Vulcan drama</a>, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-strange-new-worlds-lower-decks-crossover-reca-1850653800">familiar faces</a>, and plenty more—perhaps one of the most delightful of all was “<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-strange-new-worlds-season-2-episode-9-recap-1850685094">Subspace Rhapsody</a>,” its earnestly cheesy all-singing, all-
+
+## The Greatest App of All Time Day 29: Google Maps vs. YouTube
+ - [https://gizmodo.com/greatest-app-of-all-time-google-maps-youtube-1851374478](https://gizmodo.com/greatest-app-of-all-time-google-maps-youtube-1851374478)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c5d3b9328a47bdeca539e2f47d506789.jpg" /><p>Welcome back to Gizmodo’s March Madness bracket challenge to name the greatest app of all time! Yesterday’s contest ended in a stunning upset with Google Earth being eliminated by the ferocious Calculator app. We’ve now entered the Final Four and the remaining matchups bring some tough decisions. Today’s face-off is a…</p><p><a href="https://gizmodo.com/greatest-app-of-all-time-google-maps-youtube-1851374478">Read more...</a></p>
+
+## Call Her Daddy and Top Podcasts Are Gaming Their Follower Counts: Report
+ - [https://gizmodo.com/call-her-daddy-top-podcasts-gaming-follower-counts-1851374553](https://gizmodo.com/call-her-daddy-top-podcasts-gaming-follower-counts-1851374553)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T16:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d993be07fa035679a73f2a1b29bbfd52.jpg" /><p>Being a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/most-popular-podcasts-on-apple-2023-1851054019">top 10 podcast</a> has always been a tough game, but some podcasters are quite literally gaming the system. Nine of America’s top 50 podcasts, including Call Her Daddy, gave mobile game users points for interacting with their content, according to a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.bloomberg.com/news/newsletters/2024-03-28/mobile-game-ads-are-boosting-podcast-follower-counts?sref=P6Q0mxvj" rel="noopener noreferrer" target="_blank">Bloomberg report</a> Friday.</p><p><a href="https://gizmodo.com/call-her-daddy-top-podcasts-gaming-follower-counts-1851374553">Read more...</a></p>
+
+## Everything You Need to Know About Cyclops' Optic Blasts
+ - [https://gizmodo.com/x-men-97-cyclops-powers-explained-mcu-comics-marvel-1851373241](https://gizmodo.com/x-men-97-cyclops-powers-explained-mcu-comics-marvel-1851373241)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T16:15:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d8f1e0fd47f2876f82f4de7651b1fb9a.jpg"><source src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d8f1e0fd47f2876f82f4de7651b1fb9a.mp4" type="video/mp4" /></video><p>For as vital and enduring a character across almost <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/x-men-97-episode-3-madelyne-pryor-inferno-jean-grey-1851369226">every iteration of the X-Men</a> there’s been, there’s perhaps few mutants that are commonly misunderstood as Scott Summers, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/x-men-97-cyclops-scott-summers-marvel-disney-plus-1851364191">the legendary Cyclops</a>. This is, in part, due to mainstream perception in adapted media, but it’s also just that Scott has been around for so long,…</p><p><a href="https://gizmodo.com/x-men-97-cyclops-powers-explained-mcu-comics-marvel-1851373241">Read more...</a></p>
+
+## Porn Industry Wants Supreme Court to Rule on Texas Age Verification Laws
+ - [https://gizmodo.com/porn-industry-wants-supreme-court-to-rule-on-texas-age-1851374325](https://gizmodo.com/porn-industry-wants-supreme-court-to-rule-on-texas-age-1851374325)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T15:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/78a97005b610ffdd76c519a508cc1de9.jpg" /><p>A Texas age verification law went into effect earlier this month leading to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/pornhub-pulls-out-of-texas-1851336939">Pornhub pulling its service from the state</a>. This week, the porn industry wants to take this law to the U.S. Supreme Court. </p><p><a href="https://gizmodo.com/porn-industry-wants-supreme-court-to-rule-on-texas-age-1851374325">Read more...</a></p>
+
+## Palmsy Is a Fake Social Network That Will Send You Fake Likes to Make You Feel Special
+ - [https://gizmodo.com/palmsy-fake-social-media-app-1851374247](https://gizmodo.com/palmsy-fake-social-media-app-1851374247)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T15:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9d720b187ab34348c8fd9a00fb493224.png" /><p>A new “social networking app” named Palmsy wants you to know that you don’t need to have thousands of followers or be a celebrity to get a lot of likes on social media. In fact, it’ll send you all the likes you want. There’s just one catch: They’re fake.</p><p><a href="https://gizmodo.com/palmsy-fake-social-media-app-1851374247">Read more...</a></p>
+
+## We Tested AI Censorship: Here’s What Chatbots Won’t Tell You
+ - [https://gizmodo.com/we-tested-ai-censorship-here-s-what-chatbots-won-t-tel-1851370840](https://gizmodo.com/we-tested-ai-censorship-here-s-what-chatbots-won-t-tel-1851370840)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/263045c3df005baf97239a468684657d.jpg" /><p>When OpenAI released ChatGPT in 2022, it may not have realized it was setting a company spokesperson loose on the internet. ChatGPT’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/chatgpt-apps-ai-microsoft-google-1850065429">billions of conversations</a> reflected directly on the company, and OpenAI quickly threw up<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/want-gemini-chatgpt-write-political-campaigns-1851265399"> guardrails</a> on what the chatbot could say. Since then, the biggest names in technology—Google,…</p><p><a href="https://gizmodo.com/we-tested-ai-censorship-here-s-what-chatbots-won-t-tel-1851370840">Read more...</a></p>
+
+## The Best Free AI Art Generators, Ranked
+ - [https://gizmodo.com/ai-art-generator-midjourney-starry-ai-1849397263](https://gizmodo.com/ai-art-generator-midjourney-starry-ai-1849397263)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T14:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/47e45547bca943d1f14b998872d33fe2.jpg" /><p>What is AI art? Well, of all the many, many ways armchair philosophers have come to define art and the act of human expression, AI-generated images don’t have much in relation. There is certainly skill in knowing the correct type of prompt to get the results you want, but there’s no real intent behind an image. If the…</p><p><a href="https://gizmodo.com/ai-art-generator-midjourney-starry-ai-1849397263">Read more...</a></p>
+
+## Could Doctor Who's Stars Be Teasing a Link to a Classic Episode?
+ - [https://gizmodo.com/doctor-who-millie-gibson-time-and-the-rani-bbc-disney-1851372708](https://gizmodo.com/doctor-who-millie-gibson-time-and-the-rani-bbc-disney-1851372708)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T14:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/982f74c415271005d21a9434a2b95235.png" /><p>Somehow, a third Winnie the Pooh: Blood and Honey is in the works. Don Mancini wants to make a new Chucky movie again. Another new Stephen King adaptation is in the works. Plus, Knuckles dons his cowboy hat, and get a look at the next Jurassic World animated series. Spoilers now!<br /></p><p><a href="https://gizmodo.com/doctor-who-millie-gibson-time-and-the-rani-bbc-disney-1851372708">Read more...</a></p>
+
+## How to Clean Your MacBook Screen
+ - [https://gizmodo.com/how-to-clean-your-macbook-screen-1851374029](https://gizmodo.com/how-to-clean-your-macbook-screen-1851374029)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T14:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/37fc62e132b5146837c807dd4195730f.jpg" /><p>Have a dirty Mac or <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/apple-macbook-air-m3-review-specs-performance-1851312960">MacBook</a> screen? You’re not the only one. Those who like to slurp soup in front of their screen might have an issue when wayward slop stains their precious screen. Don’t be afraid; we have the (rather obvious) best practices for making your screen as shiny and chrome as the day you bought it.</p><p><a href="https://gizmodo.com/how-to-clean-your-macbook-screen-1851374029">Read more...</a></p>
+
+## Scientists Managed to Make Broadband Speeds 4.5 Million Times Faster
+ - [https://gizmodo.com/scientists-make-broadband-speeds-million-times-faster-1851374040](https://gizmodo.com/scientists-make-broadband-speeds-million-times-faster-1851374040)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T13:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/37b71fe7b5c083c37e10ad7f21d24eaf.jpg" /><p>There’s nothing more frustrating than a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/scientists-say-they-can-fix-your-internet-connection-wi-1851326379">bad internet connection</a>, but researchers out of Aston University may have just solved that problem forever. A new method allowed scientists in the UK to send data <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.aston.ac.uk/latest-news/aston-university-researchers-send-data-45-million-times-faster-average-broadband" rel="noopener noreferrer" target="_blank">4.5 million times faster</a> than average broadband, setting a new world record.</p><p><a href="https://gizmodo.com/scientists-make-broadband-speeds-million-times-faster-1851374040">Read more...</a></p>
+
+## Only 28% of Americans Support Banning TikTok, Poll Says
+ - [https://gizmodo.com/only-28-americans-support-banning-tiktok-poll-says-1851373641](https://gizmodo.com/only-28-americans-support-banning-tiktok-poll-says-1851373641)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T12:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e38e825b71febc196ae93493088a6d1d.jpg" /><p>Only about 28% of Americans support <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/tiktok-bill-could-get-lot-apps-banned-1851337755">banning TikTok</a>, according to a new poll from market research firm Savanta. And while it remains to be seen whether the U.S. Senate will take up the so-called <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/tiktok-ban-bill-passes-in-the-house-1851330061">TikTok ban bill</a> that passed the House earlier this month, this new poll will probably give lawmakers pause about the next…</p><p><a href="https://gizmodo.com/only-28-americans-support-banning-tiktok-poll-says-1851373641">Read more...</a></p>
+
+## Alamo Drafthouse Is Reportedly Up For Sale
+ - [https://gizmodo.com/alamo-drafthouse-is-reportedly-up-for-sale-1851372929](https://gizmodo.com/alamo-drafthouse-is-reportedly-up-for-sale-1851372929)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T12:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/23564376c5ee97adc1d3d561bfb0349e.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/alamo-drafthouse-just-launched-a-subscription-service-a-1841795942">Alamo Drafthouse</a>, one of the only corporate chains in America that is actually cool, is up for sale. Deadline <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://deadline.com/2024/03/alamo-drafthouse-cinema-up-for-sale-1235871003/" rel="noopener noreferrer" target="_blank">reports</a> that the cinema circuit, which was founded by entrepreneur Tim League in Austin, Texas, in 1997, is looking for a buyer, although it’s not clear what the asking price is. Let us pray that private…</p><p><a href="https://gizmodo.com/alamo-drafthouse-is-reportedly-up-for-sale-1851372929">Read more...</a></p>
+
+## Apple Is Reportedly Launching a Toaster Oven-Like Device to Update Unopened iPhones
+ - [https://gizmodo.com/apple-device-software-update-unopened-iphones-boxes-1851373829](https://gizmodo.com/apple-device-software-update-unopened-iphones-boxes-1851373829)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T12:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ac7cfd0a81178a3fcc18371e05e707e9.jpg" /><p>If there’s any company obsessed with perfection, it’s Apple. So, of course, it makes complete sense that the company would create a new device capable of wirelessly updating iPhones that are still in their boxes with the newest Apple software. The funny thing is that this new groundbreaking system reportedly looks…</p><p><a href="https://gizmodo.com/apple-device-software-update-unopened-iphones-boxes-1851373829">Read more...</a></p>
+
+## How to Screen Record on Macs and MacBooks
+ - [https://gizmodo.com/how-to-screen-record-on-macs-macbooks-1851368914](https://gizmodo.com/how-to-screen-record-on-macs-macbooks-1851368914)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-03-29T08:48:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8ea21d2fbd2459bebbdb2cca3ed3f274.jpg"><source src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8ea21d2fbd2459bebbdb2cca3ed3f274.mp4" type="video/mp4" /></video><p>A few simple shortcuts on Macs make it incredibly easy to record your screen, perhaps even easier than <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/how-to-screen-record-on-android-and-iphone-1851262355">screen recording on mobile</a>. These options also allow you to record audio, which will come through the Mac’s built-in microphone or any connected microphone, so don’t expect you’ll get the best audio quality. </p><p><a href="https://gizmodo.com/how-to-screen-record-on-macs-macbooks-1851368914">Read more...</a></p>
+

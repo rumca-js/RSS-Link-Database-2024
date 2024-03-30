@@ -1,0 +1,128 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## New report claims Microsoft and OpenAI are making a new AI supercomputer called "Stargate"
+ - [https://www.neowin.net/news/new-report-claims-microsoft-and-openai-are-making-a-new-ai-supercomputer-called-stargate](https://www.neowin.net/news/new-report-claims-microsoft-and-openai-are-making-a-new-ai-supercomputer-called-stargate)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T21:06:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711744959_gy5yy89hnsbmql53aszhg5_medium.jpg" /></div>A new report claims that Microsoft and OpenAI are working on a new supercomputer with the code name &quot;Stargate&quot;. The project, designed to boost OpenAI&#039;s models, could cost as much as $100 billion. <a href="https://www.neowin.net/news/new-report-claims-microsoft-and-openai-are-making-a-new-ai-supercomputer-called-stargate/">Read more...</a>
+
+## Grab this TCL 75-inch Q6 QLED Fire TV for its lowest price ever while there's still time
+ - [https://www.neowin.net/deals/grab-this-tcl-75-inch-q6-qled-fire-tv-for-its-lowest-price-ever-while-theres-still-time](https://www.neowin.net/deals/grab-this-tcl-75-inch-q6-qled-fire-tv-for-its-lowest-price-ever-while-theres-still-time)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T20:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711740928_firetv-1440x817_medium.jpg" /></div>The TCL 75-inch Q6 QLED TV with Amazon&#039;s Fire TV operating system just hit a new all-time low price. It is now available for $485.99, which is $314, or 33 percent, off its normal $799.99 MSRP. <a href="https://www.neowin.net/deals/grab-this-tcl-75-inch-q6-qled-fire-tv-for-its-lowest-price-ever-while-theres-still-time/">Read more...</a>
+
+## Microsoft is finally fixing the address bar in Windows 11 File Explorer
+ - [https://www.neowin.net/news/microsoft-is-finally-fixing-the-address-bar-in-windows-11-file-explorer](https://www.neowin.net/news/microsoft-is-finally-fixing-the-address-bar-in-windows-11-file-explorer)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T19:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1695825135_file_explorer_medium.jpg" /></div>After its recent redesign, File Explorer in Windows 11 lost the ability to drag files onto the address bar, making it much less convenient. Luckily, it is finally getting the lost feature back. <a href="https://www.neowin.net/news/microsoft-is-finally-fixing-the-address-bar-in-windows-11-file-explorer/">Read more...</a>
+
+## Microsoft will roll out new Windows 10 and 11 lock screen widgets to all users in April
+ - [https://www.neowin.net/news/microsoft-will-roll-out-new-windows-10-and-11-lock-screen-widgets-to-all-users-in-april](https://www.neowin.net/news/microsoft-will-roll-out-new-windows-10-and-11-lock-screen-widgets-to-all-users-in-april)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T19:36:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711732760_lockscreen-cards-1024x683_medium.jpg" /></div>Microsoft has been offering new lock screen widgets for Windows Insiders members, and in April, it will begin rolling out the updated experience in stages to Windows 10 and 11 users. <a href="https://www.neowin.net/news/microsoft-will-roll-out-new-windows-10-and-11-lock-screen-widgets-to-all-users-in-april/">Read more...</a>
+
+## Windows 11 is getting a built-in QR code generator
+ - [https://www.neowin.net/news/windows-11-is-getting-a-built-in-qr-code-generator](https://www.neowin.net/news/windows-11-is-getting-a-built-in-qr-code-generator)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T19:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1692566342_windows_11_logo_medium.jpg" /></div>Usually, Windows 11 Canary and Dev builds get new features first, but not this time. The latest Beta build, released today, adds a built-in QR code generator to make sharing links and files easier. <a href="https://www.neowin.net/news/windows-11-is-getting-a-built-in-qr-code-generator/">Read more...</a>
+
+## Microsoft reveals Babylon.js 7.0 with new procedural geometry features and more
+ - [https://www.neowin.net/news/microsoft-reveals-babylonjs-70-with-new-procedural-geometry-features-and-more](https://www.neowin.net/news/microsoft-reveals-babylonjs-70-with-new-procedural-geometry-features-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T18:46:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711734607_babylonjs-7_medium.jpg" /></div>The new Babylon.js 7.0 release is the latest for web-based game developers. It includes new features such as procedural geometry, global illumination, ragdoll physics animation, and more. <a href="https://www.neowin.net/news/microsoft-reveals-babylonjs-70-with-new-procedural-geometry-features-and-more/">Read more...</a>
+
+## Widgets and lock screen changes added to Windows 11 Insider Beta channel build 22635.3420
+ - [https://www.neowin.net/news/widgets-and-lock-screen-changes-added-to-windows-11-insider-beta-channel-build-226353420](https://www.neowin.net/news/widgets-and-lock-screen-changes-added-to-windows-11-insider-beta-channel-build-226353420)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T17:26:49+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/04/1680966869_windows_11_insider_preview_promo_20_medium.jpg" /></div>Microsoft has released the latest Beta channel preview build for Windows 11, with the build number 22635.3420. It includes a number of additions and features including widgets and lock screen changes. <a href="https://www.neowin.net/news/widgets-and-lock-screen-changes-added-to-windows-11-insider-beta-channel-build-226353420/">Read more...</a>
+
+## The March 2024 update for Copilot for Microsoft 365 includes grounded mobile chat and more.
+ - [https://www.neowin.net/news/the-march-2024-update-for-copilot-for-microsoft-365-includes-grounded-mobile-chat-and-more](https://www.neowin.net/news/the-march-2024-update-for-copilot-for-microsoft-365-includes-grounded-mobile-chat-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T16:22:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/02/1707562088_copilot_medium.jpg" /></div>Microsoft has outlined some new features it has added to Copilot for Microsoft 365. They include Graph-grounded chat in the Microsoft 365 mobile app, interaction with Copilot in Outlook, and more. <a href="https://www.neowin.net/news/the-march-2024-update-for-copilot-for-microsoft-365-includes-grounded-mobile-chat-and-more/">Read more...</a>
+
+## Adaptive Resilience: How to Thrive in a Digital Era (worth $20) FREE for your email
+ - [https://www.neowin.net/sponsored/adaptive-resilience-how-to-thrive-in-a-digital-era-worth-20-free-for-your-email](https://www.neowin.net/sponsored/adaptive-resilience-how-to-thrive-in-a-digital-era-worth-20-free-for-your-email)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T16:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/08/1566121323_pexels-photo-1437866_medium.jpg" /></div>A can&#039;t-miss guide to help reinvent the Enterprise that belongs on the shelves of Board Directors, CEOs, Senior Executives and Business Leaders, this is the strategy blueprint to modern business. <a href="https://www.neowin.net/sponsored/adaptive-resilience-how-to-thrive-in-a-digital-era-worth-20-free-for-your-email/">Read more...</a>
+
+## Get the Razer Edge Wi-Fi Android gaming tablet with controllers for a new low price
+ - [https://www.neowin.net/deals/get-the-razer-edge-wi-fi-android-gaming-tablet-with-controllers-for-a-new-low-price](https://www.neowin.net/deals/get-the-razer-edge-wi-fi-android-gaming-tablet-with-controllers-for-a-new-low-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T15:44:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711725331_razer-edge_medium.jpg" /></div>The Razer Edge Wi-Fi Android gaming tablet with its  Kishi V2 Pro controller and Xbox Cloud Gaming support is currently available on Amazon at a new all-time low price of only $299.99. <a href="https://www.neowin.net/deals/get-the-razer-edge-wi-fi-android-gaming-tablet-with-controllers-for-a-new-low-price/">Read more...</a>
+
+## Edge 124 is now available in Beta with built-in speed test, improved settings, and more
+ - [https://www.neowin.net/news/edge-124-is-now-available-in-beta-with-built-in-speed-test-improved-settings-and-more](https://www.neowin.net/news/edge-124-is-now-available-in-beta-with-built-in-speed-test-improved-settings-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T15:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711722023_edge_124_beta_medium.jpg" /></div>Microsoft Edge 124 is now available for testing in the Beta Channel. It is a big update with a lot of changes, such as a built-in speed test, improved settings, updated profile management, and more. <a href="https://www.neowin.net/news/edge-124-is-now-available-in-beta-with-built-in-speed-test-improved-settings-and-more/">Read more...</a>
+
+## Microsoft is adding a Copilot plugin to the Photos app to help create slideshows and more
+ - [https://www.neowin.net/news/microsoft-is-adding-a-copilot-plugin-to-the-photos-app-to-help-create-slideshows-and-more](https://www.neowin.net/news/microsoft-is-adding-a-copilot-plugin-to-the-photos-app-to-help-create-slideshows-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T13:50:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711719010_gjy5dxkwoaavqwi_medium.jpg" /></div>Some people are getting a new version of the Microsoft Photos app that includes a Copilot plugin. It lets users create video slideshows of their photos along with desktop backgrounds.  <a href="https://www.neowin.net/news/microsoft-is-adding-a-copilot-plugin-to-the-photos-app-to-help-create-slideshows-and-more/">Read more...</a>
+
+## Reddit share price dumps to opening levels following euphoria
+ - [https://www.neowin.net/news/reddit-share-price-dumps-to-opening-levels-following-euphoria](https://www.neowin.net/news/reddit-share-price-dumps-to-opening-levels-following-euphoria)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T12:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/08/1596832132_reddit_red_medium.jpg" /></div>Reddit&#039;s share price has tumbled near to where they started last Thursday following a pump from $47 to over $70. Many people had suspected that the stock would pump on the hype before collapsing. <a href="https://www.neowin.net/news/reddit-share-price-dumps-to-opening-levels-following-euphoria/">Read more...</a>
+
+## Microsoft Edge gets fixes for zero-day vulnerabilities exploited in the wild
+ - [https://www.neowin.net/news/microsoft-edge-gets-fixes-for-zero-day-vulnerabilities-exploited-in-the-wild](https://www.neowin.net/news/microsoft-edge-gets-fixes-for-zero-day-vulnerabilities-exploited-in-the-wild)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T11:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/07/1688678381_edge-hero-scaled_medium.jpg" /></div>Microsoft Edge 123 (and 122 in the Extended Stable Channel), which was recently re-released in the Stable Channel, received fixes for four zero-day vulnerabilities exploited in the wild. <a href="https://www.neowin.net/news/microsoft-edge-gets-fixes-for-zero-day-vulnerabilities-exploited-in-the-wild/">Read more...</a>
+
+## Dragon's Dogma 2 update adds 'start new game' option, DLSS improvements, and more
+ - [https://www.neowin.net/news/dragons-dogma-2-update-adds-start-new-game-option-dlss-improvements-and-more](https://www.neowin.net/news/dragons-dogma-2-update-adds-start-new-game-option-dlss-improvements-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T10:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711707323_ss_a2878bf879ea6c36cc2c5a554007a5116e8ede14.1920x1080_medium.jpg" /></div>The first update for Dragon&#039;s Dogma 2 delivers a way to easily restart the campaign. It also lets console players disable ray tracing for smoother gameplay. The Xbox version is a bit delayed, though. <a href="https://www.neowin.net/news/dragons-dogma-2-update-adds-start-new-game-option-dlss-improvements-and-more/">Read more...</a>
+
+## Beware, cheaters: Malware campaign targets Call of Duty players using third-party apps
+ - [https://www.neowin.net/news/beware-cheaters-malware-campaign-targets-call-of-duty-players-using-third-party-apps](https://www.neowin.net/news/beware-cheaters-malware-campaign-targets-call-of-duty-players-using-third-party-apps)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T09:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/08/1629399490_vang2_medium.jpg" /></div>The ongoing malware campaign targeting gamers steals credentials to various online services. Activision Blizzard is reportedly investigating and trying to help those with affected accounts. <a href="https://www.neowin.net/news/beware-cheaters-malware-campaign-targets-call-of-duty-players-using-third-party-apps/">Read more...</a>
+
+## Apple sues a former employee for allegedly leaking info about the Vision Pro and more
+ - [https://www.neowin.net/news/apple-sues-a-former-employee-for-allegedly-leaking-info-about-the-vision-pro-and-more](https://www.neowin.net/news/apple-sues-a-former-employee-for-allegedly-leaking-info-about-the-vision-pro-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T03:40:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/02/1612968722_apple_logo_3_medium.jpg" /></div>Apple has filed a lawsuit against former employee Andrew Aude, claiming that he leaked confidential info on the Vision Pro and other projects to media outlets and other tech companies. <a href="https://www.neowin.net/news/apple-sues-a-former-employee-for-allegedly-leaking-info-about-the-vision-pro-and-more/">Read more...</a>
+
+## Halo development studio Certain Affinity conducts its first layoffs in its 17 year history
+ - [https://www.neowin.net/news/halo-development-studio-certain-affinity-conducts-its-first-layoffs-in-its-17-year-history](https://www.neowin.net/news/halo-development-studio-certain-affinity-conducts-its-first-layoffs-in-its-17-year-history)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-03-29T03:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/12/1638874712_chief_medium.jpg" /></div>Certain Affinity, who has assisted in developing games in the Halo and Call of Duty series, cut 25 jobs from its US locations today. It&#039;s the first layoffs in the developer&#039;s 17-year history. <a href="https://www.neowin.net/news/halo-development-studio-certain-affinity-conducts-its-first-layoffs-in-its-17-year-history/">Read more...</a>
+

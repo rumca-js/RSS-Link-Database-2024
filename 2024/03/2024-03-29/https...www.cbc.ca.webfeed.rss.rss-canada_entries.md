@@ -1,0 +1,37 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Manitoba to scrap 50% provincial property-tax break in 2025, replace it with flat $1,500 credit
+ - [https://www.cbc.ca/news/canada/manitoba/manitoba-tax-break-changes-budget-ndp-government-1.7159414?cmp=rss](https://www.cbc.ca/news/canada/manitoba/manitoba-tax-break-changes-budget-ndp-government-1.7159414?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-29T06:00:00+00:00
+
+<img alt="A woman is pictured holding up a black shoe to the camera as a man stands next to her, smiling." height="349" src="https://i.cbc.ca/1.7159013.1711658493!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/budget-shoes.JPG" title="Finance Minister Adrien Sala took part in a pre-budget tradition of unboxing new shoes. He handed them out to several health-care workers at the Victoria Hospital in Winnipeg." width="620" /><p>Manitoba's NDP government plans to scrap its existing package of education-tax rebates in favour of a single $1,500 property-tax credit for every home.</p>
+
+## Olympic hopeful Leslie Sexton leads Canadian team into cross-country athletics worlds
+ - [https://www.cbc.ca/sports/olympics/summer/trackandfield/sexton-canadians-cross-country-worlds-belgrade-preview-1.7157503?cmp=rss](https://www.cbc.ca/sports/olympics/summer/trackandfield/sexton-canadians-cross-country-worlds-belgrade-preview-1.7157503?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-29T04:00:00+00:00
+
+<img alt="Canadian women&apos;s distance runner, wearing sunglasses and dressed in a long-sleeve top and University of British Columbia Thunderbirds singlet, is pictured jogging." height="349" src="https://i.cbc.ca/1.7157539.1711570555!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sexton-leslie-1180.jpg" title="Markham, Ont., native Leslie Sexton has raced a half marathon, 5K road race and 5,000 metres on the track the past six weeks. On Saturday, she’ll run mainly on grass in the senior women’s 10K at the cross-country worlds." width="620" /><p>Vancouver resident Leslie Sexton, who is challenging herself over different distances and surfaces before the April 28 Hamburg Marathon, will take to the grass and sand-covered pedestrian paths in the women’s 10-kilometre race Saturday at the World Athletics Cross-Country Championships.</p>
+
+## Ottawa has proposed a renters' bill of rights. Will it help?
+ - [https://www.cbc.ca/news/canada/renter-bill-of-rights-1.7159022?cmp=rss](https://www.cbc.ca/news/canada/renter-bill-of-rights-1.7159022?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-29T04:00:00+00:00
+
+<img alt="A sign advertises rental apartments in a newly built apartment building on the corner of Waggoners Lane and Rookwood Avenue in Fredericton, N.B&gt; " height="349" src="https://i.cbc.ca/1.7159357.1711672707!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/nb-security-deposits-20230706.jpg" title="A sign advertises rental apartments in a newly built apartment building in Fredericton, N.B. Wednesday, July 5, 2023.  Measures suggested in the federal government&apos;s proposed renters bill of rights may not be enough to deal with the significant challenges of low vacancy rates, affordable housing and renovictions faced by many renters, housing experts say." width="620" /><p>The federal government's proposed measures to protect renters from low vacancy rates, high prices and other significant challenges might not be enough, according to some housing experts. But others see it as a start that could evolve into something more helpful for tenants.</p>
+
+## Patriarch of Canada's largest family-owned egg farm dies at 94
+ - [https://www.cbc.ca/news/canada/ottawa/patriarch-of-canada-s-largest-family-owned-egg-farm-dies-at-94-1.7157394?cmp=rss](https://www.cbc.ca/news/canada/ottawa/patriarch-of-canada-s-largest-family-owned-egg-farm-dies-at-94-1.7157394?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-29T04:00:00+00:00
+
+<img alt="A man sits on a chair holding a tray of eggs in front of a sign advertising his farm." height="349" src="https://i.cbc.ca/1.7157771.1711576419!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/joe-hudson-burnbrae-farms.jpg" title="Joe Hudson poses with some of his hens&apos; eggs outside Burnbrae Farms in Lyn, Ont. Hudson, who took the farm from an eastern Ontario business to one with nationwide scope, died on March 14, 2024, at the age of 94." width="620" /><p>Joe Hudson was just a boy when he was tasked with raising chicks for an agriculture class in Brockville, Ont., in 1943. That project sparked his family to switch from dairy to egg farming, and today Burnbrae Farms is the longest family-owned egg farm in Canada.</p>
+
+## Killer whale rescue team continues efforts to coax calf to ocean
+ - [https://www.cbc.ca/news/canada/british-columbia/stranded-orca-update-1.7159452?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/stranded-orca-update-1.7159452?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-03-29T00:27:57+00:00
+
+<img alt="A killer whale and its calf are shown in a lagoon near Zeballos, B.C." height="349" src="https://i.cbc.ca/1.7159455.1711684562!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/killer-whale-death-20240326.jpg" title="A killer whale and its calf are shown in a lagoon near Zeballos, B.C. in a handout photo. A marine scientist says a necropsy performed on female killer whale that died after being stranded in a lagoon with its two-year-old orca calf off northern Vancouver Island was pregnant." width="620" /><p>A flotilla of up to 10 vessels, taking advantage of the best tidal flows in days, was on the waters of a remote lagoon off northern Vancouver Island Thursday in an effort to coax a young killer whale back to the open ocean, but "a successful outcome is not guaranteed."</p>
+

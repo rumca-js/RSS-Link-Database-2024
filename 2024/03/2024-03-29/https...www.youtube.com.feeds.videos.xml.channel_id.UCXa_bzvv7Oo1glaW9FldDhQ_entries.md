@@ -1,0 +1,33 @@
+# Source:GamingBolt, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ, language:en-US
+
+## Outpost: Infinity Siege Review - One of the Most Disappointing Games of 2024
+ - [https://www.youtube.com/watch?v=2hpoDUB9K5g](https://www.youtube.com/watch?v=2hpoDUB9K5g)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2024-03-29T19:30:00+00:00
+
+Outpost: Infinity Siege is a convoluted game. It mixes first-person shooting (with the occasional third-person perspective) and tower defense mechanics with a sci-fi setting and sleek visuals. However, it also throws in stages that mirror an extraction shooter, a rogue-like map to traverse, and much more.
+
+The result is a mish-mash of ideas that never coalesce into an enjoyable game. The tower defense and action aspects feel compelling initially, but they suffer from painfully slow progression, a laughable story with forgettable characters and a worrying amount of crashes.
+
+With time and a whole lot more polish, Outpost: Infinity Siege could become something worthwhile. After all, the shooting is tight, and there is some potential for slaying hordes of enemies in intense situations. For now, however, it's a miss.
+
+## Helldivers 2 - 10 THINGS Developers Still NEED TO FIX
+ - [https://www.youtube.com/watch?v=Q7EzEFg7kM8](https://www.youtube.com/watch?v=Q7EzEFg7kM8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2024-03-29T15:30:08+00:00
+
+It's incredible that even after almost two months of launching, Helldivers 2 feels like it's been around for a lot longer. Chalk it up to the extensive updates, whether it's the environmental hazards, new enemy types and equipment like Exosuits, but the fact that it still feels fresh and fun to play is exceptional.
+
+With that said, there are still several areas where Helldivers 2 could improve. It may be in the weapon balance and ensuring that more options become viable (JAR-5 Dominator mains unite). Perhaps it's in the armor customization and allowing players to express themselves while staying true to the spirit of Super-Earth. Maybe some milestones to celebrate one's career.
+
+Regardless, a great experience could be even better. Here are ten improvements that we feel Helldivers 2 still needs.
+
+## 16 Best Open World Games THAT KEEP ON GIVING
+ - [https://www.youtube.com/watch?v=Qy5z-I62o9M](https://www.youtube.com/watch?v=Qy5z-I62o9M)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2024-03-29T09:30:12+00:00
+
+This rundown isn’t aiming to highlight the 16 best open world games of all time. No, instead we’re taking a more nuanced look at these worlds with the aim being to highlight what keeps you going back once the main story is all wrapped up. 
+
+The open world games on this rundown might excel in wonderful side quests that add more meat to the game world’s bones, they might incorporate player choice in fascinating ways so as to affect the game world in realistic ways, or they might continually throw up surprises, or something new, that no matter the hours spent exploring you’re always likely to encounter something unique. Of course, some might be so extremely beautiful that they’re simply a joy to exist in – how an open world looks has value too.
+
