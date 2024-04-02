@@ -1,0 +1,183 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## McKinsey is Offering Staff Pay, Career Coaching If They Leave Firm
+ - [https://slashdot.org/story/24/04/01/2043205/mckinsey-is-offering-staff-pay-career-coaching-if-they-leave-firm?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/04/01/2043205/mckinsey-is-offering-staff-pay-career-coaching-if-they-leave-firm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T23:14:18.387914+00:00
+
+An anonymous reader shares a report: The management-consulting giant McKinsey is dangling career-coaching services and nine months' worth of pay to staffers keen on leaving the firm, the British newspaper The Times reported on Saturday. The Times reported that managers for McKinsey's UK offices could spend up to nine months searching for a job instead of working on client projects. Besides continuing to receive their salary, managers would have access to McKinsey's resources and career-coaching services, per The Times. But staffers would still have to leave McKinsey even if their job hunt proved unsuccessful. 
+
+The offer has been extended to managers working at McKinsey's US offices, though the pay duration could be different, The Times said, citing people familiar with the situation. A spokesperson for McKinsey did not confirm the specifics of The Times' reporting but told the outlet that the company's mission was to help staffers "grow into leaders, whether they stay at McKinsey or 
+
+## 'Smart Devices Are Turning Out To Be a Poor Investment'
+ - [https://hardware.slashdot.org/story/24/04/01/2015212/smart-devices-are-turning-out-to-be-a-poor-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/04/01/2015212/smart-devices-are-turning-out-to-be-a-poor-investment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T22:09:19.431574+00:00
+
+An anonymous reader quotes a report from Android Police, written by Dhruv Bhutani: As someone who is an early adopter of all things smart and has invested a significant amount of money in building a fancy smart home, it saddens me to say that I feel cheated by the thousands of dollars I've spent on smart devices. And it's not a one-off. Amazon's recent move to block off local ADB connections on Fire TV devices is the latest example in a long line of grievances. A brand busy wrestling away control from the consumer after they've bought the product, the software update gimps a feature that has been present on the hardware ever since it launched back in 2014. ADB-based commands let users take deep control of the hardware, and in the case of the Fire TV hardware, it can drastically improve the user experience. [...] A few years ago, I decided to invest in the NVIDIA Shield. The premium streamer was marketed as a utopia for streaming online and offline sources with the ability to plug in h
+
+## The FTC is Trying To Help Victims of Impersonation Scams Get Their Money Back
+ - [https://it.slashdot.org/story/24/04/01/2026233/the-ftc-is-trying-to-help-victims-of-impersonation-scams-get-their-money-back?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/04/01/2026233/the-ftc-is-trying-to-help-victims-of-impersonation-scams-get-their-money-back?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T22:09:17.911803+00:00
+
+The Federal Trade Commission (FTC) has a new way to combat the impersonation scams that it says cost people $1.1 billion last year alone. Effective today, the agency's rule "prohibits the impersonation of government, businesses, and their officials or agents in interstate commerce." The rule also lets the FTC directly file federal court complaints to force scammers to return money stolen by business or government impersonation. From a report: Impersonation scams are wide-ranging -- creators are on the lookout for fake podcast invites that turn into letting scammers take over their Facebook pages via a hidden "datasets" URL, while Verge reporters have been impersonated by criminals trying to steal cryptocurrency via fake Calendly meeting links. 
+
+Linus Media Group was victimized by a thief who pretended to be a potential sponsor and managed to take over three of the company's YouTube channels. Some scams can also be very intricate, as in The Cut financial columnist Charlotte Cowles' st
+
+## The Pirate Bay's Oldest Torrent Is Now 20 Years Old
+ - [https://yro.slashdot.org/story/24/04/01/1949247/the-pirate-bays-oldest-torrent-is-now-20-years-old?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/04/01/1949247/the-pirate-bays-oldest-torrent-is-now-20-years-old?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T21:04:33.974107+00:00
+
+An anonymous reader quotes a report from TorrentFreak: Today, more than two decades have passed and most of the files shared on The Pirate Bay in the early years are no longer available. BitTorrent requires at least one person to share a full file copy, which is hard to keep up for decades. Surprisingly, however, several torrents have managed to stand the test of time and remain available today. A few days ago the site's longest surviving torrent turned 20 years old. While a few candidates have shown up over the years, we believe that an episode of "High Chaparral" has the honor of being the oldest Pirate Bay torrent that's still active today. The file was originally uploaded on March 25, 2004, and several people continue to share it today. The screenshot [here] only lists one seeder but according to information passed on by OpenTrackr.org, there are four seeders with a full copy. This is quite a remarkable achievement, especially since people complained about a lack of seeders shortl
+
+## Apple AI Researchers Boast Useful On-Device Model That 'Substantially Outperforms' GPT-4
+ - [https://apple.slashdot.org/story/24/04/01/1959205/apple-ai-researchers-boast-useful-on-device-model-that-substantially-outperforms-gpt-4?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/04/01/1959205/apple-ai-researchers-boast-useful-on-device-model-that-substantially-outperforms-gpt-4?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T21:04:32.478619+00:00
+
+Zac Hall reports via 9to5Mac: In a newly published research paper (PDF), Apple's AI gurus describe a system in which Siri can do much more than try to recognize what's in an image. The best part? It thinks one of its models for doing this benchmarks better than ChatGPT 4.0. In the paper (ReALM: Reference Resolution As Language Modeling), Apple describes something that could give a large language model-enhanced voice assistant a usefulness boost. ReALM takes into account both what's on your screen and what tasks are active. [...] If it works well, that sounds like a recipe for a smarter and more useful Siri. 
+Apple also sounds confident in its ability to complete such a task with impressive speed. Benchmarking is compared against OpenAI's ChatGPT 3.5 and ChatGPT 4.0: "As another baseline, we run the GPT-3.5 (Brown et al., 2020; Ouyang et al., 2022) and GPT-4 (Achiam et al., 2023) variants of ChatGPT, as available on January 24, 2024, with in-context learning. As in our setup, we aim to
+
+## ChatGPT No Longer Requires an Account
+ - [https://it.slashdot.org/story/24/04/01/1752249/chatgpt-no-longer-requires-an-account?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/04/01/1752249/chatgpt-no-longer-requires-an-account?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T20:01:26.272517+00:00
+
+OpenAI is making its flagship conversational AI accessible to everyone, even people who haven't bothered making an account. From a report: It won't be quite the same experience, however -- and of course all your chats will still go into their training data unless you opt out. Starting today in a few markets and gradually rolling out to the rest of the world, visiting chat.openai.com will no longer ask you to log in -- though you still can if you want to. Instead, you'll be dropped right into conversation with ChatGPT, which will use the same model as logged-in users.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=ChatGPT+No+Longer+Requires+an+Account%3A+https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F04%2F01%2F1752249%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F04%2F01%2F
+
+## OpenAI Removes Sam Altman's Ownership of Its Startup Fund
+ - [https://slashdot.org/story/24/04/01/1924242/openai-removes-sam-altmans-ownership-of-its-startup-fund?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/04/01/1924242/openai-removes-sam-altmans-ownership-of-its-startup-fund?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T20:01:23.936971+00:00
+
+According to a filing with the SEC, OpenAI has removed CEO Sam Altman's ownership and control of the company's venture capital fund that backs AI startups. Reuters reports: The change, documented in the March 29 filing, came after Altman's ownership of the OpenAI Startup Fund raised eyebrows for its unusual structure--while being marketed similar to a corporate venture arm, the fund was raised by Altman from outside limited partners and he made investment decisions. OpenAI has said Altman does not have financial interest in the fund despite the ownership.
+ 
+Axios first reported on the ownership change on Monday. In a statement, a spokesperson for OpenAI said the fund's initial general partner (GP) structure was a temporary arrangement, and "this change provides further clarity." The OpenAI Startup Fund is investing $175 million raised from OpenAI partners such as Microsoft, although OpenAI itself is not an investor. Control of the fund has been moved over to Ian Hathaway, a partner at
+
+## Perplexity, an AI Startup Attempting To Challenge Google, Plans To Sell Ads
+ - [https://slashdot.org/story/24/04/01/1653221/perplexity-an-ai-startup-attempting-to-challenge-google-plans-to-sell-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/04/01/1653221/perplexity-an-ai-startup-attempting-to-challenge-google-plans-to-sell-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T17:50:35.744115+00:00
+
+An anonymous reader shares a report: Generative AI search engine Perplexity, which claims to be a Google competitor and recently snagged a $73.6 million Series B funding from investors like Jeff Bezos, is going to start selling ads, the company told ADWEEK. Perplexity uses AI to answer users' questions, based on web sources. It incorporates videos and images in the response and even data from partners like Yelp. Perplexity also links sources in the response while suggesting related questions users might want to ask. 
+
+These related questions, which account for 40% of Perplexity's queries, are where the company will start introducing native ads, by letting brands influence these questions, said company chief business officer Dmitry Shevelenko. When a user delves deeper into a topic, the AI search engine might offer organic and brand-sponsored questions. Perplexity will launch this in the upcoming quarters, but Shevelenko declined to disclose more specifics. While Perplexity touts on it
+
+## Scientist Who Gene-edited Babies Back in Lab and 'Proud' of Past Work Despite Jailing
+ - [https://science.slashdot.org/story/24/04/01/1727235/scientist-who-gene-edited-babies-back-in-lab-and-proud-of-past-work-despite-jailing?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/04/01/1727235/scientist-who-gene-edited-babies-back-in-lab-and-proud-of-past-work-despite-jailing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T17:50:34.210065+00:00
+
+A Chinese scientist who was imprisoned for his role in creating the world's first genetically edited babies says he has returned to his laboratory to work on the treatment of Alzheimer's and other genetic diseases. From a report: In an interview with a Japanese newspaper, He Jiankui said he had resumed research on human embryo genome editing, despite the controversy over the ethics of artificially rewriting genes, which some critics predicted would lead to demand for "designer babies." 
+
+"We will use discarded human embryos and comply with both domestic and international rules," He told the Mainichi Shimbun, adding that he had no plans to produce more genome-edited babies. Previously, He had used a tool known as Crispr-Cas9 to rewrite DNA in embryos. In 2019 a court in China sentenced He to three years in prison for violating medical regulations after he claimed the previous year that he had created genetically modified twin sisters, Lulu and Nana, before birth. His experiments sent s
+
+## Huge AI Funding Leads To Hype and 'Grifting,' Warns DeepMind's Demis Hassabis
+ - [https://slashdot.org/story/24/04/01/1619222/huge-ai-funding-leads-to-hype-and-grifting-warns-deepminds-demis-hassabis?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/04/01/1619222/huge-ai-funding-leads-to-hype-and-grifting-warns-deepminds-demis-hassabis?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T16:46:25.579498+00:00
+
+The surge of money flooding into AI has resulted in some crypto-like hype that is obscuring the incredible scientific progress in the field, according to Sir Demis Hassabis, co-founder of DeepMind. From a report: The chief executive of Google's AI research division told the Financial Times that the billions of dollars being poured into generative AI start-ups and products "brings with it a whole attendant bunch of hype and maybe some grifting and some other things that you see in other hyped-up areas, crypto or whatever." 
+
+"Some of that has now spilled over into AI, which I think is a bit unfortunate. And it clouds the science and the research, which is phenomenal," he added. "In a way, AI's not hyped enough but in some senses it's too hyped. We're talking about all sorts of things that are just not real." The launch of OpenAI's ChatGPT chatbot in November 2022 sparked an investor frenzy as start-ups raced to develop and deploy generative AI and attract venture capital funding. VC gr
+
+## For Data-Guzzling AI Companies, the Internet Is Too Small
+ - [https://tech.slashdot.org/story/24/04/01/1445214/for-data-guzzling-ai-companies-the-internet-is-too-small?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/04/01/1445214/for-data-guzzling-ai-companies-the-internet-is-too-small?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T15:40:54.603224+00:00
+
+Companies racing to develop more powerful artificial intelligence are rapidly nearing a new problem: The internet might be too small for their plans (non-paywalled link). From a report: Ever more powerful systems developed by OpenAI, Google and others require larger oceans of information to learn from. That demand is straining the available pool of quality public data online at the same time that some data owners are blocking access to AI companies. Some executives and researchers say the industry's need for high-quality text data could outstrip supply within two years, potentially slowing AI's development. 
+
+AI companies are hunting for untapped information sources, and rethinking how they train these systems. OpenAI, the maker of ChatGPT, has discussed training its next model, GPT-5, on transcriptions of public YouTube videos, people familiar with the matter said. Companies also are experimenting with using AI-generated, or synthetic, data as training material -- an approach many re
+
+## Google Pledges To Destroy Browsing Data To Settle 'Incognito' Lawsuit
+ - [https://tech.slashdot.org/story/24/04/01/152210/google-pledges-to-destroy-browsing-data-to-settle-incognito-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/04/01/152210/google-pledges-to-destroy-browsing-data-to-settle-incognito-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T15:40:52.707565+00:00
+
+Google plans to destroy a trove of data that reflects millions of users' web-browsing histories, part of a settlement of a lawsuit that alleged the company tracked millions of users without their knowledge. WSJ: The class action, filed in 2020, accused Google of misleading users about how Chrome tracked the activity of anyone who used the private "Incognito" browsing option. The lawsuit alleged that Google's marketing and privacy disclosures didn't properly inform users of the kinds of data being collected, including details about which websites they viewed. The settlement details, filed Monday in San Francisco federal court, set out the actions the company will take to change its practices around private browsing. According to the court filing, Google has agreed to destroy billions of data points that the lawsuit alleges it improperly collected, to update disclosures about what it collects in private browsing and give users the option to disable third-party cookies in that setting. 
+
+
+## Microsoft To Unbundle Office and Teams Following Years-long Criticism
+ - [https://slashdot.org/story/24/04/01/1354218/microsoft-to-unbundle-office-and-teams-following-years-long-criticism?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/04/01/1354218/microsoft-to-unbundle-office-and-teams-following-years-long-criticism?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T14:35:25.098633+00:00
+
+Microsoft will introduce a new version of Microsoft 365 and Office 365 subscription service that excludes Teams, unbundling a suite following scrutiny from the European Union regulator and complaints from rival Slack. From a report: The move follows Microsoft agreeing to sell Office 365 suite sans Microsoft Teams offering in the EU and Switzerland last year. The company introduced Teams as a complimentary offering to the Office 365 suite in 2017. Microsoft has enjoyed an unfair advantage by coupling the two offerings, many businesses have argued. Slack, owned by Salesforce, termed the move "illegal" alleging that Microsoft forced installation of Teams to customers through its market-dominant productivity suite and hid the true cost of the chat and video service.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Microsoft+To+Unbundle+Office+and+Teams+Following+Years-long+Criticism%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F04%2F01%2F1354218%2F%
+
+## 'Yes, We're All Trapped in the Matrix Now'
+ - [https://entertainment.slashdot.org/story/24/03/30/1828201/yes-were-all-trapped-in-the-matrix-now?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/24/03/30/1828201/yes-were-all-trapped-in-the-matrix-now?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T12:24:20.604318+00:00
+
+"As you're reading this, you're more likely than not already inside 'The Matrix'," according to a headline on the front page of CNN.com this weekend. 
+
+It linked to an opinion piece by Rizwan Virk, founder of MIT's startup incubator/accelerator program. He's now a doctoral researcher at Arizona State University, where his profile identifies him as an "entrepreneur, video game pioneer, film producer, venture capitalist, computer scientist and bestselling author." Virk's 2019 book was titled "The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics and Eastern Mystics Agree We Are in a Video Game."
+
+
+In the decades since [The Matrix was released], this idea, now called the simulation hypothesis, has come to be taken more seriously by technologists, scientists and philosophers. The main reason for this shift is the stunning improvements in computer graphics, virtual and augmented reality (VR and AR) and AI. Taking into account three developments just this year f
+
+## Arizona's Governor Signs Bill Making Pluto the Official State Planet
+ - [https://yro.slashdot.org/story/24/03/31/1831239/arizonas-governor-signs-bill-making-pluto-the-official-state-planet?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/03/31/1831239/arizonas-governor-signs-bill-making-pluto-the-official-state-planet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T08:03:27.611619+00:00
+
+"Be it enacted by the Legislature of the State of Arizona..." reads the official text of House Bill #2,477. "PLUTO IS THE OFFICIAL STATE PLANET." 
+
+An anonymous reader shared this report from Capital Media Services:
+
+The governor signed legislation Friday designating Pluto as Arizona's "official state planet." It joins a list of other items the state has declared to be "official,'' ranging from turquoise as the state gemstone and copper as the state metal to the Sonorasaurus as the state dinosaur. "I am proud of Arizona's pioneering work in space discovery," governor Hobbs said. 
+
+What makes Pluto unique and ripe for claim by Arizona is that it is the only planet actually discovered in the United States, and the discovery was made in Flagstaff. Rep. Justin Wilmeth, a Phoenix Republican and self-described "history nerd,'' said that needed to be commemorated, starting with the legacy of astronomer Clyde Tombaugh. In 1930, Tombaugh was working at the Lowell Observatory in Flagstaff. "The
+
+## After Outer Space, 93-Year-Old William Shatner Leads Cruise to Antarctica
+ - [https://news.slashdot.org/story/24/03/30/0344207/after-outer-space-93-year-old-william-shatner-leads-cruise-to-antarctica?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/30/0344207/after-outer-space-93-year-old-william-shatner-leads-cruise-to-antarctica?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T03:41:06.467090+00:00
+
+"Sail to a continent as mysterious as outer-space itself," the new web site urges. 
+
+"William Shatner saw Earth from the highest view," writes Scripps News Service. "Now he's heading to the bottom of it &mdash; and inviting you to join him."
+
+The 93-year-old is setting sail for Antarctica on Dec. 19, which will mark just over three years since the "Star Trek" actor returned from a trip to space in real life, not just as Captain James T. Kirk. Fellow space traveler NASA astronaut Scott Kelly will join Shatner on the 10-day Space2Sea expedition, and 260 others can too &mdash; if they pay for their $37,500 ticket. 
+
+The cheapest suite &mdash; priced at $35,500 &mdash; along with the top three most expensive ones &mdash; reaching $91,500 &mdash; are already sold out. Presented by Future of Space, the trip aboard the new "ultra-luxury" vessel is said to be full of "awe-inspiring experiences," including "intimate encounters" with penguins, visits to remote historical locations and evenings 
+
+## YouTube Inspires 'True Crime Junkies' to Buy Sonar-Equipped Boat and Solve Cold-Case Mysteries
+ - [https://news.slashdot.org/story/24/03/31/2354224/youtube-inspires-true-crime-junkies-to-buy-sonar-equipped-boat-and-solve-cold-case-mysteries?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/31/2354224/youtube-inspires-true-crime-junkies-to-buy-sonar-equipped-boat-and-solve-cold-case-mysteries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T02:36:17.295552+00:00
+
+Described as a "non profit volunteer search team" on its official site, Sunshine State Sonar "found more than 350 cars in canals, ponds and waterways across Florida" in just the last two years, according to the Tampa Bay Times. 
+
+It's owned by two half brothers &mdash; "weekend fishermen turned amateur underwater detectives."
+
+[T]he true-crime junkies dive into cold cases, searching for the disappeared. Sometimes, they choose the cases themselves, following threads online. Other times, law enforcement asks for their help. 
+
+They have discovered remains of 11 missing people inside cars, giving answers to relatives who had spent years agonizing. One family, who thought their mom had left them, learned that she had driven off the road. Relatives of a missing teacher suspected his girlfriend &mdash; then found out he had been submerged in a canal for three years. And the son of a young mother who thought she had been murdered was relieved when her death proved a watery accident... 
+
+"It a
+
+## Thorium: The Fastest Open Source Chromium-based Browser?
+ - [https://news.slashdot.org/story/24/03/31/2250209/thorium-the-fastest-open-source-chromium-based-browser?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/03/31/2250209/thorium-the-fastest-open-source-chromium-based-browser?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-01T00:26:09.697619+00:00
+
+"After taking a look at Floorp Browser, I was left wondering whether there was a Chromium-based web browser that was as good, or even better than Chrome," writes a "First Look" reviewer at It's Foss News. 
+
+"That is when I came across Thorium, a web-browser that claims to be the 'the fastest browser on Earth'."
+
+
+[Thorium] is backed by a myriad of tweaks that include, compiler optimizations for SSE4.2, AVS, AES, various mods to CFLAGS, LDFLAGS, thinLTO flags, and more. The developer shares performance stats using popular benchmarking tools... I tested it using Speedometer 3.0 benchmark on Fedora 39 and compared it to Brave, and the scores were: 
+
+Thorium: 19.2; Brave: 19.5 
+
+So, it may not be the "fastest" always, probably one of the fastest, that comes close to Brave or sometimes even beats it (depends on the version you tested it and your system). 
+
+Alexander Frick, the lead developer, also insists on providing support for older operating systems such as Windows 7 so that its user b
+

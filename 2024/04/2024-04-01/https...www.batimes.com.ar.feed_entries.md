@@ -1,0 +1,23 @@
+# Source:Argentina - Buenos Aires Times, URL:https://www.batimes.com.ar/feed, language:en
+
+## Argentina defeats hedge fund suits over GDP-linked securities
+ - [https://www.batimes.com.ar/news/economy/argentina-defeats-hedge-fund-suits-over-gdp-linked-securities.phtml](https://www.batimes.com.ar/news/economy/argentina-defeats-hedge-fund-suits-over-gdp-linked-securities.phtml)
+ - RSS feed: https://www.batimes.com.ar/feed
+ - date published: 2024-04-01T18:46:50+00:00
+
+<p><img alt="Casa Rosada" src="https://fotos.perfil.com/2022/10/26/trim/540/304/casa-rosada-1443028.jpg" /></p>Argentina victorious as judge rejects claim by Aurelius Capital Management and other hedge funds seeking payment on securities tied to economic performance. <a href="https://www.batimes.com.ar/news/economy/argentina-defeats-hedge-fund-suits-over-gdp-linked-securities.phtml">Leer más</a>
+
+## Javier Milei doesn’t see Argentina dollarising before midterm vote
+ - [https://www.batimes.com.ar/news/economy/milei-doesnt-see-argentina-dollarising-before-midterm-vote.phtml](https://www.batimes.com.ar/news/economy/milei-doesnt-see-argentina-dollarising-before-midterm-vote.phtml)
+ - RSS feed: https://www.batimes.com.ar/feed
+ - date published: 2024-04-01T12:33:29+00:00
+
+<p><img alt="Milei stock forum, double face" src="https://fotos.perfil.com/2024/04/01/trim/540/304/milei-stock-forum-double-face-1778491.jpg" /></p>“I don’t think we’ll get there before next year’s mid-term elections," declares president in TV interview with CNN en Español. <a href="https://www.batimes.com.ar/news/economy/milei-doesnt-see-argentina-dollarising-before-midterm-vote.phtml">Leer más</a>
+
+## Colombian ambassador to return to Argentina after Milei-Petro row
+ - [https://www.batimes.com.ar/news/latin-america/colombian-ambassador-to-return-to-argentina-after-milei-petro-row.phtml](https://www.batimes.com.ar/news/latin-america/colombian-ambassador-to-return-to-argentina-after-milei-petro-row.phtml)
+ - RSS feed: https://www.batimes.com.ar/feed
+ - date published: 2024-04-01T12:26:43+00:00
+
+<p><img alt="Argentine Embassy, Colombia, Bogotá" src="https://fotos.perfil.com/2024/04/01/trim/540/304/argentine-embassy-colombia-bogota-1778490.jpg" /></p>Foreign ministries of Colombia and Argentina put presidential row aside and announce normalisation of relations and future visit of Foreign Minister Diana Mondino to Bogotá. <a href="https://www.batimes.com.ar/news/latin-america/colombian-ambassador-to-return-to-argentina-after-milei-petro-row.phtml">Leer más</a>
+
