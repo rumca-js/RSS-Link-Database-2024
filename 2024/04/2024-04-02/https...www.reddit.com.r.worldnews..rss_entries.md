@@ -1,0 +1,352 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## NATO boss floats 100 billion euro military aid fund for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1bub7h9/nato_boss_floats_100_billion_euro_military_aid](https://www.reddit.com/r/worldnews/comments/1bub7h9/nato_boss_floats_100_billion_euro_military_aid)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T21:57:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bub7h9/nato_boss_floats_100_billion_euro_military_aid/"> <img alt="NATO boss floats 100 billion euro military aid fund for Ukraine" src="https://external-preview.redd.it/r6oDEDQuMRTZ0dlTFqJiYsH2-XZrDzRb6OcHXJSq_wg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=519a62a02ac265a925070c2eaf85f8b44c0164fe" title="NATO boss floats 100 billion euro military aid fund for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KingSash"> /u/KingSash </a> <br /> <span><a href="https://www.reuters.com/world/europe/nato-boss-floats-100-billion-euro-military-aid-fund-ukraine-2024-04-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bub7h9/nato_boss_floats_100_billion_euro_military_aid/">[comments]</a></span> </td></tr></table>
+
+## UAE pauses aid to Gaza by sea after Israeli strike kills aid workers
+ - [https://www.reddit.com/r/worldnews/comments/1bua3gy/uae_pauses_aid_to_gaza_by_sea_after_israeli](https://www.reddit.com/r/worldnews/comments/1bua3gy/uae_pauses_aid_to_gaza_by_sea_after_israeli)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T21:12:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bua3gy/uae_pauses_aid_to_gaza_by_sea_after_israeli/"> <img alt="UAE pauses aid to Gaza by sea after Israeli strike kills aid workers" src="https://external-preview.redd.it/bJCoNYt33NYkN36lK93TNJ3-UNlqRi4wiKIAlXgal8M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4838832acfbbbc69a140852b50123b9878cff651" title="UAE pauses aid to Gaza by sea after Israeli strike kills aid workers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/soalone34"> /u/soalone34 </a> <br /> <span><a href="https://www.reuters.com/world/middle-east/uae-pauses-aid-gaza-by-sea-after-israeli-strike-kills-aid-workers-2024-04-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bua3gy/uae_pauses_aid_to_gaza_by_sea_after_israeli/">[comments]</a></span> </td></tr></table>
+
+## U.S. told Russia Crocus City Hall was possible target of attack
+ - [https://www.reddit.com/r/worldnews/comments/1bu9y1w/us_told_russia_crocus_city_hall_was_possible](https://www.reddit.com/r/worldnews/comments/1bu9y1w/us_told_russia_crocus_city_hall_was_possible)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T21:06:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu9y1w/us_told_russia_crocus_city_hall_was_possible/"> <img alt="U.S. told Russia Crocus City Hall was possible target of attack" src="https://external-preview.redd.it/5QEE5tmmMTSMHvCLWtO-y8qS0iFBxLFET7mC_k_Hi9k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f4b8109b22bc5cb21c43186bfbf453988a334ff" title="U.S. told Russia Crocus City Hall was possible target of attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HenzShuyi"> /u/HenzShuyi </a> <br /> <span><a href="https://www.washingtonpost.com/national-security/2024/04/02/us-warning-russia-isis-crocus/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu9y1w/us_told_russia_crocus_city_hall_was_possible/">[comments]</a></span> </td></tr></table>
+
+## Kyrgyzstan To Stop Accepting Russian Payment Cards
+ - [https://www.reddit.com/r/worldnews/comments/1bu94mm/kyrgyzstan_to_stop_accepting_russian_payment_cards](https://www.reddit.com/r/worldnews/comments/1bu94mm/kyrgyzstan_to_stop_accepting_russian_payment_cards)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T20:24:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu94mm/kyrgyzstan_to_stop_accepting_russian_payment_cards/"> <img alt="Kyrgyzstan To Stop Accepting Russian Payment Cards" src="https://external-preview.redd.it/PeToT0xOC61pJ1C4QU2NRzs6rEiR1DzlqFfUCAT1S8w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=682c562215ffec720dd588ff754420ee3a876a83" title="Kyrgyzstan To Stop Accepting Russian Payment Cards" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/riwnodennyk"> /u/riwnodennyk </a> <br /> <span><a href="https://www.themoscowtimes.com/2024/04/02/kyrgyzstan-to-stop-accepting-russian-payment-cards-a84718">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu94mm/kyrgyzstan_to_stop_accepting_russian_payment_cards/">[comments]</a></span> </td></tr></table>
+
+## All 13 Casualties from Tatarstan Drone Attack were Students Employed at Kamikaze Drone Factory
+ - [https://www.reddit.com/r/worldnews/comments/1bu7an1/all_13_casualties_from_tatarstan_drone_attack](https://www.reddit.com/r/worldnews/comments/1bu7an1/all_13_casualties_from_tatarstan_drone_attack)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T19:13:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu7an1/all_13_casualties_from_tatarstan_drone_attack/"> <img alt="All 13 Casualties from Tatarstan Drone Attack were Students Employed at Kamikaze Drone Factory" src="https://external-preview.redd.it/IAC9t7ZsGVbx5pCH9zyevDET9m36qxuvuvMpSD8Epso.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f1cf84aa9e9fac898d3a2110c58e88b8e49227b" title="All 13 Casualties from Tatarstan Drone Attack were Students Employed at Kamikaze Drone Factory" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/riwnodennyk"> /u/riwnodennyk </a> <br /> <span><a href="https://www.kyivpost.com/post/30492">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu7an1/all_13_casualties_from_tatarstan_drone_attack/">[comments]</a></span> </td></tr></table>
+
+## ‘Every girl there is sexually harassed’: Freed Israeli captives beg MKs for hostage deal
+ - [https://www.reddit.com/r/worldnews/comments/1bu6xk5/every_girl_there_is_sexually_harassed_freed](https://www.reddit.com/r/worldnews/comments/1bu6xk5/every_girl_there_is_sexually_harassed_freed)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T18:59:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu6xk5/every_girl_there_is_sexually_harassed_freed/"> <img alt="‘Every girl there is sexually harassed’: Freed Israeli captives beg MKs for hostage deal" src="https://external-preview.redd.it/VwwcvDICSGQzqASkYtNqzXkFnIgOb5k3kP5P6EVaWfQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca0de385a509cce2015f42a7c573cd0ae17bb3d1" title="‘Every girl there is sexually harassed’: Freed Israeli captives beg MKs for hostage deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HariSeldonPsych"> /u/HariSeldonPsych </a> <br /> <span><a href="https://www.timesofisrael.com/every-girl-there-is-sexually-harassed-freed-captives-beg-mks-for-hostage-deal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu6xk5/every_girl_there_is_sexually_harassed_freed/">[comments]</a></span> </td></tr></table>
+
+## Italy races to stop leaning tower from collapsing | CNN
+ - [https://www.reddit.com/r/worldnews/comments/1bu6lye/italy_races_to_stop_leaning_tower_from_collapsing](https://www.reddit.com/r/worldnews/comments/1bu6lye/italy_races_to_stop_leaning_tower_from_collapsing)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T18:47:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu6lye/italy_races_to_stop_leaning_tower_from_collapsing/"> <img alt="Italy races to stop leaning tower from collapsing | CNN" src="https://external-preview.redd.it/5qTbU4fFLtUrj727_P_OMJ0B2578tHlCXDIKmxzixMg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0aa63e96e6b417afd243fa997951d1402f94d5c5" title="Italy races to stop leaning tower from collapsing | CNN" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/naqi11"> /u/naqi11 </a> <br /> <span><a href="https://www.cnn.com/travel/garisenda-tower-bologna-italy-stop-collapsing/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu6lye/italy_races_to_stop_leaning_tower_from_collapsing/">[comments]</a></span> </td></tr></table>
+
+## Japan enacted a law to prevent loneliness and isolation, problems that affect an estimated 39% of the population
+ - [https://www.reddit.com/r/worldnews/comments/1bu5gz2/japan_enacted_a_law_to_prevent_loneliness_and](https://www.reddit.com/r/worldnews/comments/1bu5gz2/japan_enacted_a_law_to_prevent_loneliness_and)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T18:03:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu5gz2/japan_enacted_a_law_to_prevent_loneliness_and/"> <img alt="Japan enacted a law to prevent loneliness and isolation, problems that affect an estimated 39% of the population" src="https://external-preview.redd.it/iAPuWNHLVbfP4wU0GQZYmm-VJCa_F6W5w-B2reu2An4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b41c2e99047323c2815526935a38a575904144b9" title="Japan enacted a law to prevent loneliness and isolation, problems that affect an estimated 39% of the population" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giuliomagnifico"> /u/giuliomagnifico </a> <br /> <span><a href="https://www.asahi.com/ajw/articles/15217563">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu5gz2/japan_enacted_a_law_to_prevent_loneliness_and/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy signs law on conscription of people aged over 25
+ - [https://www.reddit.com/r/worldnews/comments/1bu4iba/zelenskyy_signs_law_on_conscription_of_people](https://www.reddit.com/r/worldnews/comments/1bu4iba/zelenskyy_signs_law_on_conscription_of_people)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T17:25:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu4iba/zelenskyy_signs_law_on_conscription_of_people/"> <img alt="Zelenskyy signs law on conscription of people aged over 25" src="https://external-preview.redd.it/hMTzMM2gPKPEZVLBi991tCcEGAU8OAPOuShsRbjlkjM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cfb76f627cbdeb0c003ae55043149f50f7a973ff" title="Zelenskyy signs law on conscription of people aged over 25" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SirUsername_"> /u/SirUsername_ </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/04/2/7449346/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu4iba/zelenskyy_signs_law_on_conscription_of_people/">[comments]</a></span> </td></tr></table>
+
+## Over 100 Dead Dolphins Wash Ashore on Russia's Black Sea Coast
+ - [https://www.reddit.com/r/worldnews/comments/1bu49na/over_100_dead_dolphins_wash_ashore_on_russias](https://www.reddit.com/r/worldnews/comments/1bu49na/over_100_dead_dolphins_wash_ashore_on_russias)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T17:16:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu49na/over_100_dead_dolphins_wash_ashore_on_russias/"> <img alt="Over 100 Dead Dolphins Wash Ashore on Russia's Black Sea Coast" src="https://external-preview.redd.it/XbCL7VluIu5oAJtsa5cDya_Udu79oIva9oAdrNgwlno.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f81904d930f8fdd19e4a511cf49c97e547df7d5" title="Over 100 Dead Dolphins Wash Ashore on Russia's Black Sea Coast" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br /> <span><a href="https://www.themoscowtimes.com/2024/04/02/over-100-dead-dolphins-wash-ashore-on-russias-black-sea-coast-a84716">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu49na/over_100_dead_dolphins_wash_ashore_on_russias/">[comments]</a></span> </td></tr></table>
+
+## Allies consider moving Ukraine arms group into NATO to shield it from Trump
+ - [https://www.reddit.com/r/worldnews/comments/1bu444x/allies_consider_moving_ukraine_arms_group_into](https://www.reddit.com/r/worldnews/comments/1bu444x/allies_consider_moving_ukraine_arms_group_into)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T17:10:48+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ExactlySorta"> /u/ExactlySorta </a> <br /> <span><a href="https://www.politico.com/news/2024/04/02/allies-consider-moving-ukraine-arms-group-into-nato-to-shield-it-from-trump-00150151?s=34">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu444x/allies_consider_moving_ukraine_arms_group_into/">[comments]</a></span>
+
+## NATO Proposes $100 Billion, Five-Year Fund to Support Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1bu1kul/nato_proposes_100_billion_fiveyear_fund_to](https://www.reddit.com/r/worldnews/comments/1bu1kul/nato_proposes_100_billion_fiveyear_fund_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T15:28:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu1kul/nato_proposes_100_billion_fiveyear_fund_to/"> <img alt="NATO Proposes $100 Billion, Five-Year Fund to Support Ukraine" src="https://external-preview.redd.it/OJUqS5jQnkQgLpG1jL1xacuPpvZFI7muJtJbGyDayIg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f92635c3566458cee8da9fb9fc046fb90702ff5" title="NATO Proposes $100 Billion, Five-Year Fund to Support Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloomberg"> /u/bloomberg </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-04-02/nato-proposes-100-billion-five-year-fund-to-support-ukraine">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu1kul/nato_proposes_100_billion_fiveyear_fund_to/">[comments]</a></span> </td></tr></table>
+
+## Kremlin-Financed Political Influence Network in Europe Scandal Widens, 24 Officials Named
+ - [https://www.reddit.com/r/worldnews/comments/1bu1kq8/kremlinfinanced_political_influence_network_in](https://www.reddit.com/r/worldnews/comments/1bu1kq8/kremlinfinanced_political_influence_network_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T15:28:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu1kq8/kremlinfinanced_political_influence_network_in/"> <img alt="Kremlin-Financed Political Influence Network in Europe Scandal Widens, 24 Officials Named" src="https://external-preview.redd.it/10Qk0piMNIc04BtACW3zUkGBwgPvdi8I7QTiCbGs-ao.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a79d11a6e9492addab2221b72c884b829a12124d" title="Kremlin-Financed Political Influence Network in Europe Scandal Widens, 24 Officials Named" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/37Dracula37"> /u/37Dracula37 </a> <br /> <span><a href="https://www.kyivpost.com/post/30483">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu1kq8/kremlinfinanced_political_influence_network_in/">[comments]</a></span> </td></tr></table>
+
+## Russia reports drone attacks on industrial site over 1,000 km from Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1bu1jer/russia_reports_drone_attacks_on_industrial_site](https://www.reddit.com/r/worldnews/comments/1bu1jer/russia_reports_drone_attacks_on_industrial_site)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T15:26:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu1jer/russia_reports_drone_attacks_on_industrial_site/"> <img alt="Russia reports drone attacks on industrial site over 1,000 km from Ukraine" src="https://external-preview.redd.it/elIKFaunW1LNhARTLhVmA4J4jM9t7Uqw0FS42ab01LM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42f4bc686646ccdb3232972f7dda1f3e42e8fba9" title="Russia reports drone attacks on industrial site over 1,000 km from Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br /> <span><a href="https://www.france24.com/en/europe/20240402-russia-reports-drone-attacks-on-industrial-site-over-1-000-km-from-ukraine">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu1jer/russia_reports_drone_attacks_on_industrial_site/">[comments]</a></span> </td></tr></table>
+
+## Ukraine hits oil refinery in Russia's Tatarstan with long-range drone
+ - [https://www.reddit.com/r/worldnews/comments/1bu0jcs/ukraine_hits_oil_refinery_in_russias_tatarstan](https://www.reddit.com/r/worldnews/comments/1bu0jcs/ukraine_hits_oil_refinery_in_russias_tatarstan)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T14:45:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu0jcs/ukraine_hits_oil_refinery_in_russias_tatarstan/"> <img alt="Ukraine hits oil refinery in Russia's Tatarstan with long-range drone" src="https://external-preview.redd.it/40U6sD6QKvCm8f-w-DA3rUsMl23Typ8XQyxonOe6U6M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e40833fd971fb9258a2ada054bcdf038f107d69f" title="Ukraine hits oil refinery in Russia's Tatarstan with long-range drone" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Elliottafc1"> /u/Elliottafc1 </a> <br /> <span><a href="https://kyivindependent.com/drone-attack-reportedly-targets-oil-refinery-in-russias-tatarstan/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu0jcs/ukraine_hits_oil_refinery_in_russias_tatarstan/">[comments]</a></span> </td></tr></table>
+
+## Fortified 14th-century castle and moat discovered under hotel in France
+ - [https://www.reddit.com/r/worldnews/comments/1bu07kl/fortified_14thcentury_castle_and_moat_discovered](https://www.reddit.com/r/worldnews/comments/1bu07kl/fortified_14thcentury_castle_and_moat_discovered)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T14:31:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu07kl/fortified_14thcentury_castle_and_moat_discovered/"> <img alt="Fortified 14th-century castle and moat discovered under hotel in France" src="https://external-preview.redd.it/Zu3ULsfsSUgHZQQpP5t19PoDE_a4yg9asnIpSNymDxo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd32d428cc8bf58a73038c484c056575009c07d9" title="Fortified 14th-century castle and moat discovered under hotel in France" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/elizabeth-cooper"> /u/elizabeth-cooper </a> <br /> <span><a href="https://www.livescience.com/archaeology/fortified-14th-century-castle-and-moat-discovered-under-hotel-in-france">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu07kl/fortified_14thcentury_castle_and_moat_discovered/">[comments]</a></span> </td></tr></table>
+
+## China’s Advancing Efforts to Influence the U.S. Election Raise Alarms
+ - [https://www.reddit.com/r/worldnews/comments/1bu03uz/chinas_advancing_efforts_to_influence_the_us](https://www.reddit.com/r/worldnews/comments/1bu03uz/chinas_advancing_efforts_to_influence_the_us)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T14:27:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bu03uz/chinas_advancing_efforts_to_influence_the_us/"> <img alt="China’s Advancing Efforts to Influence the U.S. Election Raise Alarms" src="https://external-preview.redd.it/Dt6TZdTgRxqf1GcbaMTuqbs9TMNYw88IAYv7IaYay0s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e07212dd3d4c6dd68780a7ec7a745302b673732" title="China’s Advancing Efforts to Influence the U.S. Election Raise Alarms" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Disastrous-Rabbit108"> /u/Disastrous-Rabbit108 </a> <br /> <span><a href="https://www.nytimes.com/2024/04/01/business/media/china-online-disinformation-us-election.html?smid=nytcore-ios-share&amp;referringSource=articleShare">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bu03uz/chinas_advancing_efforts_to_influence_the_us/">[comments]</a></span> </td></tr></table>
+
+## Eight passengers stranded on African island after Norwegian cruise ship left without them
+ - [https://www.reddit.com/r/worldnews/comments/1btzn2f/eight_passengers_stranded_on_african_island_after](https://www.reddit.com/r/worldnews/comments/1btzn2f/eight_passengers_stranded_on_african_island_after)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T14:07:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btzn2f/eight_passengers_stranded_on_african_island_after/"> <img alt="Eight passengers stranded on African island after Norwegian cruise ship left without them" src="https://external-preview.redd.it/NlCfitKCtZ3Q3_dW3Cyh1z8Xb34Rm1y5eL3HJEABYHg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4529c64e522e07a1230ea705b675589522c7540" title="Eight passengers stranded on African island after Norwegian cruise ship left without them" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nikola28"> /u/nikola28 </a> <br /> <span><a href="https://www.nbcnews.com/news/world/eight-passengers-stranded-african-island-norwegian-cruise-ship-left-rcna145984">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btzn2f/eight_passengers_stranded_on_african_island_after/">[comments]</a></span> </td></tr></table>
+
+## 'Humbling, and a bit worrying': Researcher claims that models fail to fully explain record global heat
+ - [https://www.reddit.com/r/worldnews/comments/1btzf9u/humbling_and_a_bit_worrying_researcher_claims](https://www.reddit.com/r/worldnews/comments/1btzf9u/humbling_and_a_bit_worrying_researcher_claims)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T13:58:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btzf9u/humbling_and_a_bit_worrying_researcher_claims/"> <img alt="'Humbling, and a bit worrying': Researcher claims that models fail to fully explain record global heat" src="https://external-preview.redd.it/bIpW0ggD81aG8U0oDuVug5QbMJrL2iNMdD9A65yXN1s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea466cd534687d027ebe5b1c3456b214346e6041" title="'Humbling, and a bit worrying': Researcher claims that models fail to fully explain record global heat" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Splenda"> /u/Splenda </a> <br /> <span><a href="https://phys.org/news/2024-04-humbling-bit-fully-global.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btzf9u/humbling_and_a_bit_worrying_researcher_claims/">[comments]</a></span> </td></tr></table>
+
+## Russia's economy is now so isolated that it has few options other than the Chinese yuan for its reserves
+ - [https://www.reddit.com/r/worldnews/comments/1btze18/russias_economy_is_now_so_isolated_that_it_has](https://www.reddit.com/r/worldnews/comments/1btze18/russias_economy_is_now_so_isolated_that_it_has)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T13:57:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btze18/russias_economy_is_now_so_isolated_that_it_has/"> <img alt="Russia's economy is now so isolated that it has few options other than the Chinese yuan for its reserves" src="https://external-preview.redd.it/UDZyM6yq8rFkSPiMURhqNQBW2jbo4FrYQjQCsHqzSdE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=607585a846da43a30db7c6573bef91fc3f7b3aff" title="Russia's economy is now so isolated that it has few options other than the Chinese yuan for its reserves" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/None_4All"> /u/None_4All </a> <br /> <span><a href="https://africa.businessinsider.com/news/russias-economy-is-now-so-isolated-that-it-has-few-options-other-than-the-chinese/pjl6d7x">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btze18/russias_economy_is_now_so_isolated_that_it_has/">[comments]</a></span> </td></tr></table>
+
+## Middle East conflict live updates: Aid group says Israeli strike killed 7; Netanyahu says civilians hit ‘unintentionally’
+ - [https://www.reddit.com/r/worldnews/comments/1btyw1c/middle_east_conflict_live_updates_aid_group_says](https://www.reddit.com/r/worldnews/comments/1btyw1c/middle_east_conflict_live_updates_aid_group_says)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T13:34:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btyw1c/middle_east_conflict_live_updates_aid_group_says/"> <img alt="Middle East conflict live updates: Aid group says Israeli strike killed 7; Netanyahu says civilians hit ‘unintentionally’" src="https://external-preview.redd.it/yueaDvGYR-sFKvQQ42S7jriU5BQJPRs-JPkcwuxp9vg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=91f26b8f47fcefcefeb1bacd04bff02db36757b7" title="Middle East conflict live updates: Aid group says Israeli strike killed 7; Netanyahu says civilians hit ‘unintentionally’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chem_daddy"> /u/chem_daddy </a> <br /> <span><a href="https://www.washingtonpost.com/world/2024/04/02/israel-hamas-war-news-gaza-palestine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btyw1c/middle_east_conflict_live_updates_aid_group_says/">[comments]</a></span> </td></tr></table>
+
+## Savage teen girl gang arrested after disabled man beaten to death
+ - [https://www.reddit.com/r/worldnews/comments/1btybjm/savage_teen_girl_gang_arrested_after_disabled_man](https://www.reddit.com/r/worldnews/comments/1btybjm/savage_teen_girl_gang_arrested_after_disabled_man)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T13:08:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btybjm/savage_teen_girl_gang_arrested_after_disabled_man/"> <img alt="Savage teen girl gang arrested after disabled man beaten to death" src="https://external-preview.redd.it/oW8S4Zf79iBtM-TUQ7VVVQ9Atg7GIWDDe3sNO69clLg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0d87bebdbcacbf2982bd5fef32f60acac1be5e2" title="Savage teen girl gang arrested after disabled man beaten to death" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JonJardineDR"> /u/JonJardineDR </a> <br /> <span><a href="https://www.dailyrecord.co.uk/news/uk-world-news/savage-teen-girl-gang-arrested-32494075">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btybjm/savage_teen_girl_gang_arrested_after_disabled_man/">[comments]</a></span> </td></tr></table>
+
+## Actress Shannen Doherty has started to give away her possessions due to terminal cancer
+ - [https://www.reddit.com/r/worldnews/comments/1btxg7k/actress_shannen_doherty_has_started_to_give_away](https://www.reddit.com/r/worldnews/comments/1btxg7k/actress_shannen_doherty_has_started_to_give_away)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T12:26:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btxg7k/actress_shannen_doherty_has_started_to_give_away/"> <img alt="Actress Shannen Doherty has started to give away her possessions due to terminal cancer" src="https://external-preview.redd.it/Gjx0S9GgVS2oJ74sml7jICMpJuY-nm4dzWsn_iZsjek.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8537e9ec694e36659139d03f6248edda417bf695" title="Actress Shannen Doherty has started to give away her possessions due to terminal cancer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rodan-Lewarx"> /u/Rodan-Lewarx </a> <br /> <span><a href="https://people.com/shannen-doherty-letting-go-of-possessions-amid-cancer-journey-8623332">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btxg7k/actress_shannen_doherty_has_started_to_give_away/">[comments]</a></span> </td></tr></table>
+
+## Ukraine said its new attack drones can hit targets 600 miles inside Russia — and appeared to use them right away
+ - [https://www.reddit.com/r/worldnews/comments/1btxe04/ukraine_said_its_new_attack_drones_can_hit](https://www.reddit.com/r/worldnews/comments/1btxe04/ukraine_said_its_new_attack_drones_can_hit)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T12:23:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btxe04/ukraine_said_its_new_attack_drones_can_hit/"> <img alt="Ukraine said its new attack drones can hit targets 600 miles inside Russia — and appeared to use them right away" src="https://external-preview.redd.it/4KOnqXb5YtYzaI0sZ2d5uOH6ZRHCpERQcyak8iTvdVU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3c9d4339f6aa35885583843aa526e1b8e2e35d3" title="Ukraine said its new attack drones can hit targets 600 miles inside Russia — and appeared to use them right away" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/piskeir"> /u/piskeir </a> <br /> <span><a href="https://www.businessinsider.com/drone-deep-russia-ukraine-brag-new-620-mile-range-war-2024-4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btxe04/ukraine_said_its_new_attack_drones_can_hit/">[comments]</a></span> </td></tr></table>
+
+## Scientist who gene-edited babies is back in lab and ‘proud’ of past work despite jailing
+ - [https://www.reddit.com/r/worldnews/comments/1btxcjc/scientist_who_geneedited_babies_is_back_in_lab](https://www.reddit.com/r/worldnews/comments/1btxcjc/scientist_who_geneedited_babies_is_back_in_lab)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T12:21:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btxcjc/scientist_who_geneedited_babies_is_back_in_lab/"> <img alt="Scientist who gene-edited babies is back in lab and ‘proud’ of past work despite jailing" src="https://external-preview.redd.it/wQ83QG9LXrJ-lFg_G60RZXavHTmAorWY9M0H5FjeBbc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36adb0e8b2c45b99109d54afd7fdef5180dd24e1" title="Scientist who gene-edited babies is back in lab and ‘proud’ of past work despite jailing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tixx7"> /u/Tixx7 </a> <br /> <span><a href="https://www.theguardian.com/science/2024/apr/01/crispr-cas9-he-jiankui-genome-gene-editing-babies-scientist-back-in-lab">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btxcjc/scientist_who_geneedited_babies_is_back_in_lab/">[comments]</a></span> </td></tr></table>
+
+## Ukraine Might Be Getting $34 Billion In American Weapons—And Soon
+ - [https://www.reddit.com/r/worldnews/comments/1btx18w/ukraine_might_be_getting_34_billion_in_american](https://www.reddit.com/r/worldnews/comments/1btx18w/ukraine_might_be_getting_34_billion_in_american)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T12:05:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btx18w/ukraine_might_be_getting_34_billion_in_american/"> <img alt="Ukraine Might Be Getting $34 Billion In American Weapons—And Soon" src="https://external-preview.redd.it/WopanmK7qdpesL3gIBVm7ChYPy2ga7a7wY-8u1HKy7M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f62c5898649ae8abf4c9dc3638648f018430957a" title="Ukraine Might Be Getting $34 Billion In American Weapons—And Soon" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ZeroEqualsOne"> /u/ZeroEqualsOne </a> <br /> <span><a href="https://www.forbes.com/sites/davidaxe/2024/04/01/ukraine-might-be-getting-34-billion-in-american-weapons-and-soon/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btx18w/ukraine_might_be_getting_34_billion_in_american/">[comments]</a></span> </td></tr></table>
+
+## Putin says Russia will find out who ordered deadly concert shooting
+ - [https://www.reddit.com/r/worldnews/comments/1btwhzr/putin_says_russia_will_find_out_who_ordered](https://www.reddit.com/r/worldnews/comments/1btwhzr/putin_says_russia_will_find_out_who_ordered)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T11:37:22+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ThisIsExxciting"> /u/ThisIsExxciting </a> <br /> <span><a href="https://www.reuters.com/world/europe/putin-says-russia-will-find-out-who-ordered-deadly-concert-shooting-2024-04-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btwhzr/putin_says_russia_will_find_out_who_ordered/">[comments]</a></span>
+
+## Unidentified UAVs attacked the Shahed drone factory in Russia
+ - [https://www.reddit.com/r/worldnews/comments/1btwdrn/unidentified_uavs_attacked_the_shahed_drone](https://www.reddit.com/r/worldnews/comments/1btwdrn/unidentified_uavs_attacked_the_shahed_drone)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T11:30:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btwdrn/unidentified_uavs_attacked_the_shahed_drone/"> <img alt="Unidentified UAVs attacked the Shahed drone factory in Russia" src="https://external-preview.redd.it/eMaYt7Siee5IJC1dDmEJh6uL89syThII0yy6QvSBMl8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e9f4336f36464865616d3d4516b5dd3ecfe1bac" title="Unidentified UAVs attacked the Shahed drone factory in Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/new974517"> /u/new974517 </a> <br /> <span><a href="https://mil.in.ua/en/news/unidentified-uavs-attacked-the-shahed-drone-factory-in-russia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btwdrn/unidentified_uavs_attacked_the_shahed_drone/">[comments]</a></span> </td></tr></table>
+
+## Ukraine has claimed responsibility for a drone attack in Russia's Tatarstan region - more than 1,300km (807 miles) from the Ukraine-Russia border.
+ - [https://www.reddit.com/r/worldnews/comments/1btvupv/ukraine_has_claimed_responsibility_for_a_drone](https://www.reddit.com/r/worldnews/comments/1btvupv/ukraine_has_claimed_responsibility_for_a_drone)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T11:01:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btvupv/ukraine_has_claimed_responsibility_for_a_drone/"> <img alt="Ukraine has claimed responsibility for a drone attack in Russia's Tatarstan region - more than 1,300km (807 miles) from the Ukraine-Russia border." src="https://external-preview.redd.it/CK-3-ciJ3W5wOamd7-bNdZWrcAvxw2kAcyQvPvvOvRw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8c9d1f3e28b03725cfbb48a0518954b10d8bcf4" title="Ukraine has claimed responsibility for a drone attack in Russia's Tatarstan region - more than 1,300km (807 miles) from the Ukraine-Russia border." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RileyTaugor"> /u/RileyTaugor </a> <br /> <span><a href="https://kyivindependent.com/russia-claims-drones-hit-industrial-facilities-in-tatarstan/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btvupv/ukraine_has_claimed_responsibility_for_a_drone/">[comments]</a></spa
+
+## Germany to support Ukraine with 180,000 artillery shells via Czech initiative
+ - [https://www.reddit.com/r/worldnews/comments/1btvsk9/germany_to_support_ukraine_with_180000_artillery](https://www.reddit.com/r/worldnews/comments/1btvsk9/germany_to_support_ukraine_with_180000_artillery)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T10:57:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btvsk9/germany_to_support_ukraine_with_180000_artillery/"> <img alt="Germany to support Ukraine with 180,000 artillery shells via Czech initiative" src="https://external-preview.redd.it/FtngkvifJnrM0RvDyYQ0cr3VRZld2RAQM8u2S30PEk0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9cb67803dce2b555488ebbf7c4783195d20f24e" title="Germany to support Ukraine with 180,000 artillery shells via Czech initiative" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UNITED24Media"> /u/UNITED24Media </a> <br /> <span><a href="https://www.reuters.com/world/europe/germany-support-ukraine-with-180000-artillery-shells-via-czech-initiative-2024-04-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btvsk9/germany_to_support_ukraine_with_180000_artillery/">[comments]</a></span> </td></tr></table>
+
+## 12 year old suspect shoots and injures 3 children in Finnish school
+ - [https://www.reddit.com/r/worldnews/comments/1btv773/12_year_old_suspect_shoots_and_injures_3_children](https://www.reddit.com/r/worldnews/comments/1btv773/12_year_old_suspect_shoots_and_injures_3_children)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T10:20:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btv773/12_year_old_suspect_shoots_and_injures_3_children/"> <img alt="12 year old suspect shoots and injures 3 children in Finnish school" src="https://external-preview.redd.it/x8n-Jx6byWD_pK8ohLK4k2IosqcnOnyf0xq9nYiyv_Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2cf22a49a220efa052b452a4a9294d0e1badb264" title="12 year old suspect shoots and injures 3 children in Finnish school" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_wolf2014"> /u/The_wolf2014 </a> <br /> <span><a href="https://www.bbc.co.uk/news/world-europe-68712104">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btv773/12_year_old_suspect_shoots_and_injures_3_children/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian drone attacks target oil refinery and factory deep inside Russia
+ - [https://www.reddit.com/r/worldnews/comments/1btv6d5/ukrainian_drone_attacks_target_oil_refinery_and](https://www.reddit.com/r/worldnews/comments/1btv6d5/ukrainian_drone_attacks_target_oil_refinery_and)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T10:19:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btv6d5/ukrainian_drone_attacks_target_oil_refinery_and/"> <img alt="Ukrainian drone attacks target oil refinery and factory deep inside Russia" src="https://external-preview.redd.it/G1NJEQ-srW0s2K7K4vMj98Cp9Nci1jEqY1rCC7P6m7Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=971dc861c54f01839bfee19ac1d6f8ad385d576d" title="Ukrainian drone attacks target oil refinery and factory deep inside Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/piskeir"> /u/piskeir </a> <br /> <span><a href="https://www.theguardian.com/world/2024/apr/02/ukrainian-drone-attacks-russia-tatarstan-oil-refinery-factory">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btv6d5/ukrainian_drone_attacks_target_oil_refinery_and/">[comments]</a></span> </td></tr></table>
+
+## Belarus dictator Lukashenko warns: "We are preparing for a war even if we don't want it"
+ - [https://www.reddit.com/r/worldnews/comments/1btuz4z/belarus_dictator_lukashenko_warns_we_are](https://www.reddit.com/r/worldnews/comments/1btuz4z/belarus_dictator_lukashenko_warns_we_are)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T10:06:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btuz4z/belarus_dictator_lukashenko_warns_we_are/"> <img alt="Belarus dictator Lukashenko warns: &quot;We are preparing for a war even if we don't want it&quot;" src="https://external-preview.redd.it/YvGx9wSNI6ecKJs5cfOYyilC0GeUT4fQOXOf2SpCit8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef420ebe88b4dca51cc1977976b607f03104dddb" title="Belarus dictator Lukashenko warns: &quot;We are preparing for a war even if we don't want it&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SLAVAUA2022"> /u/SLAVAUA2022 </a> <br /> <span><a href="https://www.agenzianova.com/en/news/Lukashenko-warns-we-are-preparing-for-a-war-even-if-we-don%27t-want-it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btuz4z/belarus_dictator_lukashenko_warns_we_are/">[comments]</a></span> </td></tr></table>
+
+## Ukraine considers banning Telegram if app is confirmed as threat to national security
+ - [https://www.reddit.com/r/worldnews/comments/1btumlx/ukraine_considers_banning_telegram_if_app_is](https://www.reddit.com/r/worldnews/comments/1btumlx/ukraine_considers_banning_telegram_if_app_is)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T09:44:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btumlx/ukraine_considers_banning_telegram_if_app_is/"> <img alt="Ukraine considers banning Telegram if app is confirmed as threat to national security" src="https://external-preview.redd.it/ONHrl-UlsT5fGTswAtdPyqrVTmfUWz0MrfJF1sH63mc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6361cb8828323e93f665836c28391dd0e9bbae5" title="Ukraine considers banning Telegram if app is confirmed as threat to national security" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Logibenq"> /u/Logibenq </a> <br /> <span><a href="https://english.elpais.com/international/2024-04-02/ukraine-considers-banning-telegram-if-app-is-confirmed-as-threat-to-national-security.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btumlx/ukraine_considers_banning_telegram_if_app_is/">[comments]</a></span> </td></tr></table>
+
+## Spain to recognize Palestinian statehood by July, leader says -reports
+ - [https://www.reddit.com/r/worldnews/comments/1btu7p8/spain_to_recognize_palestinian_statehood_by_july](https://www.reddit.com/r/worldnews/comments/1btu7p8/spain_to_recognize_palestinian_statehood_by_july)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T09:16:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btu7p8/spain_to_recognize_palestinian_statehood_by_july/"> <img alt="Spain to recognize Palestinian statehood by July, leader says -reports" src="https://external-preview.redd.it/KaJeHYJ9kInl7Pa9bd2mEeJUt5OstLeZjSCyMNZUo0A.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c10c5737ed57c47fd47fe44fe10cbdfae8b0282c" title="Spain to recognize Palestinian statehood by July, leader says -reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/slypieok"> /u/slypieok </a> <br /> <span><a href="https://www.ynetnews.com/article/hy3bqbfka">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btu7p8/spain_to_recognize_palestinian_statehood_by_july/">[comments]</a></span> </td></tr></table>
+
+## Major Russian refinery hit by Ukrainian drone 1,300 km from the front lines
+ - [https://www.reddit.com/r/worldnews/comments/1btu5be/major_russian_refinery_hit_by_ukrainian_drone](https://www.reddit.com/r/worldnews/comments/1btu5be/major_russian_refinery_hit_by_ukrainian_drone)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T09:12:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btu5be/major_russian_refinery_hit_by_ukrainian_drone/"> <img alt="Major Russian refinery hit by Ukrainian drone 1,300 km from the front lines" src="https://external-preview.redd.it/K1qddpFz3hd5TWBr5RpPhL9jp-Bhgrv_xv-pJACT5Go.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1785067c609dcfc17e32b1783cf4caece36a8d2" title="Major Russian refinery hit by Ukrainian drone 1,300 km from the front lines" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zealousideal-Mix684"> /u/Zealousideal-Mix684 </a> <br /> <span><a href="https://www.reuters.com/world/europe/several-people-injured-drone-attack-industrial-sites-russias-tatarstan-agencies-2024-04-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btu5be/major_russian_refinery_hit_by_ukrainian_drone/">[comments]</a></span> </td></tr></table>
+
+## The oil refinery in Tatarstan was also targeted by Ukrainian drones
+ - [https://www.reddit.com/r/worldnews/comments/1bttxhn/the_oil_refinery_in_tatarstan_was_also_targeted](https://www.reddit.com/r/worldnews/comments/1bttxhn/the_oil_refinery_in_tatarstan_was_also_targeted)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T08:57:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bttxhn/the_oil_refinery_in_tatarstan_was_also_targeted/"> <img alt="The oil refinery in Tatarstan was also targeted by Ukrainian drones" src="https://external-preview.redd.it/WErBC2kPm8ESXDrF21qK6yCsZ33lGepCJOb_gwjfOB8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa2a751dd42a76564454f6bac74fb1d172779984" title="The oil refinery in Tatarstan was also targeted by Ukrainian drones" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/glazed_donuts"> /u/glazed_donuts </a> <br /> <span><a href="https://odessa-journal.com/the-oil-refinery-in-tatarstan-was-also-targeted-by-ukrainian-drones">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bttxhn/the_oil_refinery_in_tatarstan_was_also_targeted/">[comments]</a></span> </td></tr></table>
+
+## Children injured in Finland school shooting, minor apprehended
+ - [https://www.reddit.com/r/worldnews/comments/1bttemg/children_injured_in_finland_school_shooting_minor](https://www.reddit.com/r/worldnews/comments/1bttemg/children_injured_in_finland_school_shooting_minor)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T08:20:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1bttemg/children_injured_in_finland_school_shooting_minor/"> <img alt="Children injured in Finland school shooting, minor apprehended" src="https://external-preview.redd.it/14KNPu9Z_qXdj4VaLNMS-q63MbY8g2aE2clyTScZJlA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=009ab73dedc8873bfdd470877ca74badee4cfab2" title="Children injured in Finland school shooting, minor apprehended" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br /> <span><a href="https://www.nbcnews.com/news/world/finland-school-shooting-children-injured-vantaa-helsinki-rcna145973">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1bttemg/children_injured_in_finland_school_shooting_minor/">[comments]</a></span> </td></tr></table>
+
+## Several people injured in Finnish primary school shooting
+ - [https://www.reddit.com/r/worldnews/comments/1btsq3h/several_people_injured_in_finnish_primary_school](https://www.reddit.com/r/worldnews/comments/1btsq3h/several_people_injured_in_finnish_primary_school)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T07:31:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ThisIsExxciting"> /u/ThisIsExxciting </a> <br /> <span><a href="https://www.reuters.com/world/europe/shooting-incident-finnish-school-police-say-2024-04-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btsq3h/several_people_injured_in_finnish_primary_school/">[comments]</a></span>
+
+## Everyone in Japan will be called Sato by 2531 unless marriage law changed, says professor
+ - [https://www.reddit.com/r/worldnews/comments/1btrrj2/everyone_in_japan_will_be_called_sato_by_2531](https://www.reddit.com/r/worldnews/comments/1btrrj2/everyone_in_japan_will_be_called_sato_by_2531)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T06:27:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btrrj2/everyone_in_japan_will_be_called_sato_by_2531/"> <img alt="Everyone in Japan will be called Sato by 2531 unless marriage law changed, says professor" src="https://external-preview.redd.it/4tSKe6DG2C0GWPN3QIKYeWuqgm2FDci4SLJwWt8LsN0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=181b405f6c7b5ddfc557eba28245fb47ed3633c0" title="Everyone in Japan will be called Sato by 2531 unless marriage law changed, says professor" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Idea_Guy"> /u/No_Idea_Guy </a> <br /> <span><a href="https://www.theguardian.com/world/2024/apr/02/japan-sato-only-name-by-2531-marriage-law">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btrrj2/everyone_in_japan_will_be_called_sato_by_2531/">[comments]</a></span> </td></tr></table>
+
+## Apple won't unlock Indian Prime Minister's election opponent's Iphone.
+ - [https://www.reddit.com/r/worldnews/comments/1btrau2/apple_wont_unlock_indian_prime_ministers_election](https://www.reddit.com/r/worldnews/comments/1btrau2/apple_wont_unlock_indian_prime_ministers_election)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T05:56:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btrau2/apple_wont_unlock_indian_prime_ministers_election/"> <img alt="Apple won't unlock Indian Prime Minister's election opponent's Iphone." src="https://external-preview.redd.it/Cqh22A1z0YTgiUhm2S0FUZy_tdz-KxSSzBUlGDi4XjM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e984f036dd1c0975862d2d1baeab5480b81ab34d" title="Apple won't unlock Indian Prime Minister's election opponent's Iphone." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/he_who_remains_2"> /u/he_who_remains_2 </a> <br /> <span><a href="https://appleinsider.com/articles/24/04/01/apple-wont-unlock-india-prime-ministers-election-opponents-iphone">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btrau2/apple_wont_unlock_indian_prime_ministers_election/">[comments]</a></span> </td></tr></table>
+
+## U.S. tells Iran it "had no involvement" in Israel strike
+ - [https://www.reddit.com/r/worldnews/comments/1btpwkx/us_tells_iran_it_had_no_involvement_in_israel](https://www.reddit.com/r/worldnews/comments/1btpwkx/us_tells_iran_it_had_no_involvement_in_israel)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T04:32:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btpwkx/us_tells_iran_it_had_no_involvement_in_israel/"> <img alt="U.S. tells Iran it &quot;had no involvement&quot; in Israel strike" src="https://external-preview.redd.it/-OQFyI4GTd6u-KEVgH-CVv9w78qfdA1gVEJRCn0w-0g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=740f495f177595464dd99956b01f7f407ec07c14" title="U.S. tells Iran it &quot;had no involvement&quot; in Israel strike" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Currymvp2"> /u/Currymvp2 </a> <br /> <span><a href="https://www.axios.com/2024/04/02/iran-embassy-syria-israel-strike-biden">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btpwkx/us_tells_iran_it_had_no_involvement_in_israel/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 769, Part 1 (Thread #915)
+ - [https://www.reddit.com/r/worldnews/comments/1btpctl/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1btpctl/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T04:02:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btpctl/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 769, Part 1 (Thread #915)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 769, Part 1 (Thread #915)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btpctl/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Ukraine has drones that can fly distances over thousand kilometres – Minister of Digital Transformation
+ - [https://www.reddit.com/r/worldnews/comments/1btnoqb/ukraine_has_drones_that_can_fly_distances_over](https://www.reddit.com/r/worldnews/comments/1btnoqb/ukraine_has_drones_that_can_fly_distances_over)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T02:39:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btnoqb/ukraine_has_drones_that_can_fly_distances_over/"> <img alt="Ukraine has drones that can fly distances over thousand kilometres – Minister of Digital Transformation" src="https://external-preview.redd.it/H1D8Af07dsWIjybjNCq6EC4A6Ld-pjl61mz26jrsh88.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a30ce9e01600db4010fedb989e1b45f7a1d3b52d" title="Ukraine has drones that can fly distances over thousand kilometres – Minister of Digital Transformation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/04/1/7449205/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btnoqb/ukraine_has_drones_that_can_fly_distances_over/">[comments]</a></span> </td></tr></table>
+
+## Satellite images verified by FRANCE 24 reveal that China has built a replica of Taipei’s presidential district in remote Inner Mongolia, fuelling speculation that Beijing intends to use the site as a training ground to prepare for a future invasion of Taiwan.
+ - [https://www.reddit.com/r/worldnews/comments/1btng5f/satellite_images_verified_by_france_24_reveal](https://www.reddit.com/r/worldnews/comments/1btng5f/satellite_images_verified_by_france_24_reveal)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T02:28:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btng5f/satellite_images_verified_by_france_24_reveal/"> <img alt="Satellite images verified by FRANCE 24 reveal that China has built a replica of Taipei’s presidential district in remote Inner Mongolia, fuelling speculation that Beijing intends to use the site as a training ground to prepare for a future invasion of Taiwan." src="https://external-preview.redd.it/W5GBseT_5Ke0BhgiG0Z6ONWnh7kcslaeVKuMwk7Cxkc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8fb1778351bfb7456dd09999f2894e9cbea7c162" title="Satellite images verified by FRANCE 24 reveal that China has built a replica of Taipei’s presidential district in remote Inner Mongolia, fuelling speculation that Beijing intends to use the site as a training ground to prepare for a future invasion of Taiwan." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Carla_DFW"> /u/Carla_DFW </a> <br /> <span><a href="https://www.france24.com/en/
+
+## Japan lifts funding suspension to Palestinian refugee agency UNRWA
+ - [https://www.reddit.com/r/worldnews/comments/1btn97y/japan_lifts_funding_suspension_to_palestinian](https://www.reddit.com/r/worldnews/comments/1btn97y/japan_lifts_funding_suspension_to_palestinian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T02:19:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btn97y/japan_lifts_funding_suspension_to_palestinian/"> <img alt="Japan lifts funding suspension to Palestinian refugee agency UNRWA" src="https://external-preview.redd.it/7r7s48An9h0KhabCM55BuOXNMADJIOmW9G8U31bUGe0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3df13710f97e22725e92e959920426ce30ea0f2a" title="Japan lifts funding suspension to Palestinian refugee agency UNRWA" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jake1125"> /u/Jake1125 </a> <br /> <span><a href="https://www.reuters.com/world/japan-lifts-funding-suspension-palestinian-refugee-agency-unrwa-2024-04-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btn97y/japan_lifts_funding_suspension_to_palestinian/">[comments]</a></span> </td></tr></table>
+
+## Israeli Knesset passes ‘Al Jazeera Law’ to allow closing of foreign news channels deemed to act against the state
+ - [https://www.reddit.com/r/worldnews/comments/1btn3w9/israeli_knesset_passes_al_jazeera_law_to_allow](https://www.reddit.com/r/worldnews/comments/1btn3w9/israeli_knesset_passes_al_jazeera_law_to_allow)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T02:12:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btn3w9/israeli_knesset_passes_al_jazeera_law_to_allow/"> <img alt="Israeli Knesset passes ‘Al Jazeera Law’ to allow closing of foreign news channels deemed to act against the state" src="https://external-preview.redd.it/yUcxmB-fRaBeF9J3PeF9fa1u4ZAwEhUR2U2q2J72Mfc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1db7fb91c0dfd9c37ec3fd1e30e8f2f2cca7c8a0" title="Israeli Knesset passes ‘Al Jazeera Law’ to allow closing of foreign news channels deemed to act against the state" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jake1125"> /u/Jake1125 </a> <br /> <span><a href="https://www.ynetnews.com/article/b17yvd00yr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btn3w9/israeli_knesset_passes_al_jazeera_law_to_allow/">[comments]</a></span> </td></tr></table>
+
+## Russians suffer significant losses, retreat after two assaults on east bank of Dnipro River
+ - [https://www.reddit.com/r/worldnews/comments/1btlx29/russians_suffer_significant_losses_retreat_after](https://www.reddit.com/r/worldnews/comments/1btlx29/russians_suffer_significant_losses_retreat_after)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T01:17:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btlx29/russians_suffer_significant_losses_retreat_after/"> <img alt="Russians suffer significant losses, retreat after two assaults on east bank of Dnipro River" src="https://external-preview.redd.it/xBgGSamRZnQqrOXZ-3RFU5NHDx7qscm1c7gQoqJeLO8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=274e68d44a6e3df36254f1bad9763b53d2234e2e" title="Russians suffer significant losses, retreat after two assaults on east bank of Dnipro River" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/None_4All"> /u/None_4All </a> <br /> <span><a href="https://www.ukrinform.net/rubric-ato/3846824-russians-suffer-significant-losses-retreat-after-two-assaults-on-east-bank-of-dnipro-river.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btlx29/russians_suffer_significant_losses_retreat_after/">[comments]</a></span> </td></tr></table>
+
+## 'Britain's Schindler': The man who saved 669 children from the Nazis
+ - [https://www.reddit.com/r/worldnews/comments/1btljst/britains_schindler_the_man_who_saved_669_children](https://www.reddit.com/r/worldnews/comments/1btljst/britains_schindler_the_man_who_saved_669_children)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T01:01:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btljst/britains_schindler_the_man_who_saved_669_children/"> <img alt="'Britain's Schindler': The man who saved 669 children from the Nazis" src="https://external-preview.redd.it/-0JLZVaI07wBjSrWO5sUkzSNd-U8Wxb_V559sjl2Vh8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1352d278207c201328c5d7ac92a069b5d2ef498c" title="'Britain's Schindler': The man who saved 669 children from the Nazis" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MsNotabot"> /u/MsNotabot </a> <br /> <span><a href="https://www.bbc.com/culture/article/20240328-in-history-nicholas-winton-rescues-children-during-holocaust-ww2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btljst/britains_schindler_the_man_who_saved_669_children/">[comments]</a></span> </td></tr></table>
+
+## Mayor shot dead while at restaurant with his 14-year-old son in Mexico
+ - [https://www.reddit.com/r/worldnews/comments/1btkpwg/mayor_shot_dead_while_at_restaurant_with_his](https://www.reddit.com/r/worldnews/comments/1btkpwg/mayor_shot_dead_while_at_restaurant_with_his)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-02T00:24:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1btkpwg/mayor_shot_dead_while_at_restaurant_with_his/"> <img alt="Mayor shot dead while at restaurant with his 14-year-old son in Mexico" src="https://external-preview.redd.it/Ttb7s8qFLq7azpt2d4yOhoBhmcC0ifRwsNZAqA7eQAg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c0315d57ac17ef4bef82fad29012fccd6985c2f" title="Mayor shot dead while at restaurant with his 14-year-old son in Mexico" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PaticiaRJ"> /u/PaticiaRJ </a> <br /> <span><a href="https://www.cbsnews.com/news/mayor-shot-dead-while-at-restaurant-with-his-14-year-old-son-in-mexico/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1btkpwg/mayor_shot_dead_while_at_restaurant_with_his/">[comments]</a></span> </td></tr></table>
+
