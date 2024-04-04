@@ -1,0 +1,147 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Content Warning's first bug fix patch adds reporter mic, party poppers, more
+ - [https://www.eurogamer.net/content-warnings-first-bug-fix-patch-adds-reporter-mic-party-poppers-and-more?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/content-warnings-first-bug-fix-patch-adds-reporter-mic-party-poppers-and-more?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T20:51:14+00:00
+
+<img src="https://assetsio.gnwcdn.com/1_YfbsSOJ.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Content Warning - the viral co-op horror hit from the team behind Totally Accurate Battle Simulator - has just received its first patch. And alongside a first batch of bug fixes, it brings a bunch of new toys to play with in the depths, including party poppers and a reporter mic.
+</p><p>
+Content Warning, if you missed all the fuss earlier this week, sees teams of up to four players descending into lightless depths to capture unspeakable horrors on camera. Assuming they make it out alive, the footage can them to uploaded to Sp&ouml;&ouml;kTube and - one viewing party later - hopefully become a viral sensation. It's a silly/scary good time, and a combination of heavy streamer attention, plus the fact it was <a href="https://www.eurogamer.net/latest-steam-hit-content-warning-free-to-keep-until-5pm-uk-time-today">free to download and keep for a 
+
+## Atari has bought Rollercoaster Tycoon 3 for $7m
+ - [https://www.eurogamer.net/atari-has-bought-rollercoaster-tycoon-3-for-7m?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/atari-has-bought-rollercoaster-tycoon-3-for-7m?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T16:54:02+00:00
+
+<img src="https://assetsio.gnwcdn.com/RollerCoaster-Tycoon-3-Complete-Edition_XZm1RbZ.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Video game publisher Atari has bought the rights to Rollercoaster Tycoon 3 from developer Frontier for $7m. 
+</p><p>
+(To be clear, Rollercoaster Tycoon 3 itself is worth much less - around a fiver on Steam.)
+</p><p>
+The deal means Atari will be considered the game's publisher going forward, and is now the sole publisher of all major Rollercoaster Tycoon games - the good ones and the bad ones - in the veteran theme park sim series. 
+</p> <p><a href="https://www.eurogamer.net/atari-has-bought-rollercoaster-tycoon-3-for-7m?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Wuxia adventure Where Winds Meet gets limited beta test this month
+ - [https://www.eurogamer.net/wuxia-adventure-where-winds-meet-gets-limited-beta-test-this-month?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/wuxia-adventure-where-winds-meet-gets-limited-beta-test-this-month?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T15:42:14+00:00
+
+<img src="https://assetsio.gnwcdn.com/Where-Winds-Meet_Everstone-Games_Image-1.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Open world Wuxia game Where Winds Meet is receiving a limited beta test this month for North American players.
+</p><p>
+The game is from Chinese developer Everstone Studio and follows a wandering swordsman in an experience rooted in Chinese history and Wuxia martial arts.
+</p><p>
+Players can <a href="https://www.wherewindsmeetgame.com/">sign up now</a> for an invite to the beta, which will be the first overseas beta test. It will take place from 19th until 22nd April. Check out the beautiful new trailer below for a fresh look at the game.
+</p> <p><a href="https://www.eurogamer.net/wuxia-adventure-where-winds-meet-gets-limited-beta-test-this-month?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Final Fantasy 16 crossover event appears to hint at Final Fantasy 14's graphics update
+ - [https://www.eurogamer.net/final-fantasy-16-crossover-event-appears-to-hint-at-final-fantasy-14s-graphics-update?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/final-fantasy-16-crossover-event-appears-to-hint-at-final-fantasy-14s-graphics-update?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T14:37:44+00:00
+
+<img src="https://assetsio.gnwcdn.com/IMG_4355.JPG?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The Final Fantasy 16 crossover quest is now live in Final Fantasy 14 and appears to give a look at how the forthcoming 7.0 graphics update will look.
+</p><p>
+The quest features FF16 protagonist Clive and is a must-play for dog fans as rewards include both a Torgal mount and puppy Torgal minion.
+</p><p>
+Yet fans have also noticed how detailed the Clive character model is, ahead of the graphics update with improved lighting and textures that's due to hit alongside next expansion Dawntrail.
+</p> <p><a href="https://www.eurogamer.net/final-fantasy-16-crossover-event-appears-to-hint-at-final-fantasy-14s-graphics-update?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Fallout TV producer Jonathan Nolan says playing the games disrupted writing The Dark Knight Rises
+ - [https://www.eurogamer.net/fallout-tv-producer-jonathan-nolan-says-playing-the-games-disrupted-writing-the-dark-knight-rises?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/fallout-tv-producer-jonathan-nolan-says-playing-the-games-disrupted-writing-the-dark-knight-rises?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T13:09:36+00:00
+
+<img src="https://assetsio.gnwcdn.com/Ella-Purnell-as-Lucy-in-Amazon-Fallout-series.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Amazon's Fallout adaptation is set to release later this month, and in preparation the cast and crew have started sharing titbits about its production and their work on the series.</p><p>Fallout executive producer Jonathan Nolan - who co-wrote many of his brother Christopher Nolan's films, such as The Dark Knight and Interstellar - said his love for the games began with Fallout 3. In fact, he had such a good time playing, he claimed this is the reason he didn't write any films for two years.</p><p>"I didn't know much about it and I was in the mood for a distraction," Nolan recalled. "I think Chris had tasked me with writing The Dark Knight Rises and so if that movie was slightly delayed, it was probably in part because of Fallout 3."</p> <p><a href="https://www.eurogamer.net/fallout-tv-producer-jonathan-nol
+
+## Lego-like Xbox 360 building kit costs more than double a second-hand Xbox 360
+ - [https://www.eurogamer.net/lego-like-xbox-360-building-kit-costs-more-than-double-a-second-hand-xbox-360?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/lego-like-xbox-360-building-kit-costs-more-than-double-a-second-hand-xbox-360?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T12:04:27+00:00
+
+<img src="https://assetsio.gnwcdn.com/New-Project-(1)_cmcsqdF.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Mattel is launching a cute Xbox 360 block building kit - but its price tag is more than double what you'd spend on an actual Xbox 360.
+</p><p>
+The 1342-piece set is part of the Mega range (think Mega Blocks, or fake Lego), and lets you build a classic white Xbox 360 and controller at 3:4 scale. 
+</p><p>
+It looks good - but the price is off-putting. The official <a href="https://shopping.mattel.com/en-gb/products/mega-showcase-microsoft-xbox-360-hww15-en-gb">RRP</a> is &pound;177.99, although we've spotted it being sold online elsewhere for slightly less (<a href="https://www.smythstoys.com/uk/en-gb/toys/construction-and-cars/mega/mega-microsoft-xbox-360-video-game-console-building-set/p/235966">Smyths Toys</a> has it for &pound;150).
+</p> <p><a href="https://www.eurogamer.net/lego-like-xbox-360-building-kit-costs-more-than-doub
+
+## Older games like Fortnite account for over 60% of playtime, new report suggests
+ - [https://www.eurogamer.net/older-games-like-fortnite-account-for-over-60-of-playtime-new-report-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/older-games-like-fortnite-account-for-over-60-of-playtime-new-report-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T11:41:40+00:00
+
+<img src="https://assetsio.gnwcdn.com/keyart-overscan-nologo-2-2276x1280-aa06338f9aae.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Games that are at least six years accounted for more than 60 percent of playtime in 2023, a new report suggests.
+</p><p>
+<a href="https://newzoo.com/resources/trend-reports/pc-console-gaming-report-2024">Newzoo's second annual PC and Console Gaming Report</a> includes data analysing player trends, highlighting how playtime has shrunk and is focused on a smaller number of games.
+</p><p>
+Live service and sandbox games dominate player time, based on monthly active users in 2023. Notably, the top game across all major platforms was Fortnite.
+</p> <p><a href="https://www.eurogamer.net/older-games-like-fortnite-account-for-over-60-of-playtime-new-report-suggests?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Rockstar has remembered Bully exists
+ - [https://www.eurogamer.net/rockstar-has-remembered-bully-exists?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/rockstar-has-remembered-bully-exists?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T11:38:51+00:00
+
+<img src="https://assetsio.gnwcdn.com/Bully_4kVVuhC.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Rockstar classics Bully and LA Noire will join the GTA+ subscription service later this year, the Grand Theft Auto developer has <a href="https://www.rockstargames.com/newswire/article/51oa5a45732ko9/enjoy-all-the-benefits-of-gta-membership">confirmed</a>. 
+</p><p>
+Both games will become part of the rotating catalogue of past Rockstar hits available to subscribers who pay the &pound;5/$6 monthly fee. 
+</p><p>
+GTA+ currently grants members $1m of (fictional) money to spend within GTA Online, plus access to a smattering of games from the Rockstar vault. 
+</p> <p><a href="https://www.eurogamer.net/rockstar-has-remembered-bully-exists?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Bloodborne Kart back without Bloodborne and with a new release date
+ - [https://www.eurogamer.net/bloodborne-kart-back-without-bloodborne-and-with-a-new-release-date?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/bloodborne-kart-back-without-bloodborne-and-with-a-new-release-date?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T11:37:54+00:00
+
+<img src="https://assetsio.gnwcdn.com/Nightmare-Kart.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Do you remember the fan made spin-off Bloodborne Kart? Of course you do, it looked utterly brilliant!</p><p>The project was first announced back in 2022 by game dev Lilith Walther, a name you may recognise as the brains behind the <a href="https://www.eurogamer.net/bloodborne-demake-out-today">PS1-inspired Bloodborne demake</a> (you can check out our Ian giving that particular game a shot below).</p><p>Walther initially planned on releasing Bloodborne Kart earlier this year. But, alas, it didn't come to be, as back in January, <a href="https://www.eurogamer.net/bloodborne-kart-isnt-allowed-to-be-called-bloodborne-kart-anymore-but-it-is-still-coming">Bloodborne IP holder Sony got in touch with the team</a> and informed them they needed to "scrub the branding off of" the game.</p> <p><a href="https://www.eurogamer.net/bloodborne-kart-back-
+
+## KOTOR Remake "alive and well", says Saber Interactive CEO
+ - [https://www.eurogamer.net/kotor-remake-alive-and-well-says-saber-interactive-ceo?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/kotor-remake-alive-and-well-says-saber-interactive-ceo?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T11:04:53+00:00
+
+<img src="https://assetsio.gnwcdn.com/kotor_darth_revan.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Knights of the Old Republic Remake is still "alive and well", said Saber Interactive boss Matthew Karch, despite the company's split from Embracer.
+</p><p>
+There have been plenty of rumours about the status of the game, particularly after publisher <a href="https://www.eurogamer.net/embattled-publisher-embracer-sells-off-saber-assets-withdraws-from-russia">Embracer recently sold off its Saber assets</a> for $247m.
+</p><p>
+However, Karch confirmed to <a href="https://www.ign.com/articles/saber-interactive-ceo-says-kotor-remake-is-alive-and-well">IGN</a> the game is still in active development.
+</p> <p><a href="https://www.eurogamer.net/kotor-remake-alive-and-well-says-saber-interactive-ceo?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Dragon's Dogma 2 players using rotten food to warn of Dragonsplague Pawns
+ - [https://www.eurogamer.net/dragons-dogma-2-players-using-rotten-food-to-warn-of-afflicted-pawns?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/dragons-dogma-2-players-using-rotten-food-to-warn-of-afflicted-pawns?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T10:45:11+00:00
+
+<img src="https://assetsio.gnwcdn.com/pawn_ss02.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The <a href="https://www.eurogamer.net/dragons-dogma-2-guides-tips-tricks-9422">Dragon's Dogma 2</a> community is devising a way to warn other players of an infected Pawn.
+</p><p>
+Please note, <strong>there will be spoilers for Dragon's Dogma 2 below</strong>. 
+</p><p>
+If you are one of the <a href="https://www.eurogamer.net/dragons-dogma-2-sells-25m-as-fixed-frame-rate-arrives">2.5 million users currently making your way through Dragon's Dogma 2</a>, you may have heard some rumblings about a Pawn affliction known as Dragonsplague, which left unchecked can <a href="https://www.eurogamer.net/dragons-dogma-2s-dragonsplague-pawn-affliction-can-wipe-out-an-entire-town">result in some devastating consequences</a>.
+</p> <p><a href="https://www.eurogamer.net/dragons-dogma-2-players-using-rotten-food-to-warn-of-afflicted-pawns?utm_source=feed&amp;ut
+
+## All the ways Dragon's Dogma 2 has ruined other RPGs for me
+ - [https://www.eurogamer.net/all-the-ways-dragons-dogma-2-has-ruined-other-rpgs-for-me?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/all-the-ways-dragons-dogma-2-has-ruined-other-rpgs-for-me?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T08:21:08+00:00
+
+<img src="https://assetsio.gnwcdn.com/Dragons-Dogma-2-Sphinx.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+It seems that around every corner there's yet another thing Dragon's Dogma 2 does that makes my RPG-addicted self incredibly happy. From how you interact with your companions to forgeries, these are just some of the eight things in Dragon's Dogma 2 has that have utterly ruined other RPGs for me.
+</p><p>
+I'm a huge fan of RPGs but it took playing Dragon's Dogma 2 for me to realise how much hand holding the majority of AAA RPGs include, and just how empowering it is to be set free from seemingly endless tutorials and NPCs who give me the solution to puzzles within 0.2 seconds of me discovering the puzzle in the first place (God of War Ragnarok, looking at you).</p><p>As I've been utterly addicted to the game and have already played it for an unholy amount of time, there are so many things that I'm going to miss when I inevitably p
+
+## Turtle Beach VelocityOne Race review: direct drive racing wheels go mainstream
+ - [https://www.eurogamer.net/digitalfoundry-2024-turtle-beach-velocityone-race-review-direct-drive-racing-wheels-go-mainstream?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/digitalfoundry-2024-turtle-beach-velocityone-race-review-direct-drive-racing-wheels-go-mainstream?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-03T07:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Turtle-Beach-Velocity-One-Race_Product-Image-1-Badge.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The Turtle Beach VelocityOne Race is a complete racing wheel and pedals of the sort that you'd expect to find in a mainstream electronics boutique alongside Logitech's ubiquitous G29, yet it offers a powerful 7.2nm direct drive wheelbase and more realistic load-cell brake pedal, features that often set apart more enthusiast-grade sim racing offerings. Have Turtle Beach played a blinder here to deliver that desirable combo - complete with an external control pod, big integrated display and Xbox/PC compatibility - for <a href="https://www.amazon.co.uk/Turtle-Beach-VelocityOne-Feedback-Officially/dp/B0CRJX8T67?tag=eurgam-df-uk-21" rel="sponsored noopener" target="_blank">&pound;629</a>/<a href="https://www.amazon.com/Turtle-VelocityOne-Licensed-Windows-Gaming-Console/dp/B0CRJX8T67?tag=eurgam-df-us-20" r
+

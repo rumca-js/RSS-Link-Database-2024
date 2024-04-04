@@ -1,0 +1,198 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Julia Garner Cast As Silver Surfer In The Fantastic Four
+ - [https://www.gamespot.com/articles/julia-garner-cast-as-silver-surfer-in-the-fantastic-four/1100-6522380/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/julia-garner-cast-as-silver-surfer-in-the-fantastic-four/1100-6522380/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T22:02:00+00:00
+
+<p>Marvel's upcoming Fantastic Four reboot has added its first cast member since the title characters were cast in February. <a href="https://deadline.com/2024/04/fantastic-four-julia-garner-silver-surfer-1235873034/">Deadline</a> is reporting that Julia Garner will play Silver Surfer in The Fantastic Four. The character is traditionally portrayed as a man, Norrin Radd, who offered to become the herald of Galactus if the world-devourer spared his home world, Zenn-La. In the MCU, Norrin's lover, Shalla-Bal, will be the one who struck that bargain before being transformed into Silver Surfer.</p><p>Doug Jones previously played Silver Surfer, who was voiced by Laurence Fishburne in 2007's Fantastic Four: Rise of the Silver Surfer. Since the Surfer is in The Fantastic Four, that's the strongest indication yet that Galactus will also appear, potentially as the primary villain. Silver Surfer and Galactus were both created by Stan Lee and Jack Kirby during their legendary run on the Fantastic
+
+## How To Unlock The New Season 3 Perks In Call Of Duty: Modern Warfare 3
+ - [https://www.gamespot.com/articles/how-to-unlock-the-new-season-3-perks-in-call-of-duty-modern-warfare-3/1100-6522379/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-unlock-the-new-season-3-perks-in-call-of-duty-modern-warfare-3/1100-6522379/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T20:42:00+00:00
+
+<p dir="ltr">Season 3 of <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty: Modern Warfare 3</a> is live, adding a <a href="https://www.gamespot.com/gallery/cod-warzone-and-mw3-season-3-turns-snoop-dogg-into-literal-doggfather-plus-dino-and-killer-clown-bundles/2900-5229/">new battle pass</a>, more maps, modes, and bundles. The update also includes five new perks to multiplayer, but first you'll need to unlock them. Here we'll explain how all the new perks work and how to acquire them.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">Gunslinger Vest</a></li></ul></div><p dir="ltr"> </p><h2 dir="ltr" id="Gunslinger_Vest">Gunslinger Vest</h2><p dir="ltr">The new Gunslinger vest is a new vest option that takes away the primary weapon slot but gives you a boost to stamina, sprinting, and reloading with the following bonuses:<
+
+## Kirsten Dunst Hasn't Seen Any New Spider-Man Or Marvel Movies
+ - [https://www.gamespot.com/articles/kirsten-dunst-hasnt-seen-any-new-spider-man-or-marvel-movies/1100-6522376/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/kirsten-dunst-hasnt-seen-any-new-spider-man-or-marvel-movies/1100-6522376/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T20:22:00+00:00
+
+<p>Over two decades ago, Kirsten Dunst co-starred opposite Tobey Maguire in Sam Raimi's Spider-Man before reprising her role as Mary Jane Watson in the two subsequent sequels. Despite earning a place in comic book cinema history with that trilogy, Dunst recently revealed that she hasn't seen any of the Spider-Man movies that came after her run, or even any of the Marvel Studios films.</p><p>"It‚Äôs just not my thing," explained Dunst during an interview with <a href="https://variety.com/2024/film/news/kirsten-dunst-civil-war-spider-man-hollywood-pay-gap-1235957075/">Variety</a>. "But I did see Paw Patrol,‚Äù added Dunst, as she offered the interviewer "a classic, deflating, Coppola-heroine eye roll."</p><p>Regardless, <a href="https://www.gamespot.com/articles/spider-mans-kirsten-dunst-says-she-would-make-another-superhero-movie-because-you-get-paid-a-lot-of-money/1100-6521623/">Dunst recently shared her interest</a> in coming back for not only another Spider-Man movie, but any superh
+
+## How Final Fantasy VII Rebirth Got Open Worlds Right (And Wrong)
+ - [https://www.gamespot.com/videos/how-final-fantasy-vii-rebirth-got-open-worlds-right-and-wrong/2300-6463809](https://www.gamespot.com/videos/how-final-fantasy-vii-rebirth-got-open-worlds-right-and-wrong/2300-6463809)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T20:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4282917-rebirthopenworld_v1_site.jpg" width="480" /> Final Fantasy VII Rebirth is a monumental title, both in its scope, and its overall incredible gameplay. The narrative and overall writing of the game elevated FFVII's original story on nearly every level.
+
+## DC's Supergirl Movie Might Have Found A Director
+ - [https://www.gamespot.com/articles/dcs-supergirl-movie-might-have-found-a-director/1100-6522375/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dcs-supergirl-movie-might-have-found-a-director/1100-6522375/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T19:50:00+00:00
+
+<p>DC's upcoming superhero movie Supergirl may have found a director. <a href="https://deadline.com/2024/04/supergirl-craig-gillespie-1235875238/">Deadline</a> reports that Cruella and I, Tonya director Craig Gillespie is in talks to direct Supergirl.</p><p>The site went on to say that DC is looking to begin shooting Supergirl in Q4 (October-December) once James Gunn's <a href="https://www.gamespot.com/gallery/superman-release-date-cast-plot-trailer/2900-5201/">Superman</a> wraps. Gunn and Peter Safran, the co-heads of DC Studios, are producing Supergirl, the report said.</p><p>House of the Dragon's <a href="https://www.gamespot.com/articles/house-of-the-dragons-milly-alcock-cast-as-supergirl/1100-6520692/">Milly Alcock will play Supergirl in the film</a>, which is based on the Tom King 2022 comic book series Supergirl: Woman of Tomorrow. Deadline said Alcock will play Supergirl in a different DC project before starring in the title role in the Supergirl film, but it remains to be see
+
+## This Discounted Steam Deck Dock Has A Built-In M.2 SSD Slot
+ - [https://www.gamespot.com/articles/this-discounted-steam-deck-dock-has-a-built-in-m-2-ssd-slot/1100-6522362/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/this-discounted-steam-deck-dock-has-a-built-in-m-2-ssd-slot/1100-6522362/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T19:46:00+00:00
+
+<p>The official <a href="https://store.steampowered.com/steamdeckdock">Steam Deck Docking Station</a> is pretty solid, but it's also expensive at $79. Plus, it doesn't come with some of the features found on third-party docks, which means it's often worthwhile to consider alternatives. You can save money and get a dock that performs just as well as the official model. After all, Steam Deck docks are simply USB-C hubs with a cradle. Sabrent is one of the third-party manufacturers that has become popular on Amazon for Steam Deck docking needs. Right now, you can save on a pair of Sabrent Steam Deck docks at Amazon, including an <a href="https://www.amazon.com/SABRENT-Docking-Station-Devices-DS-SD6P/dp/B0BTJYY8MD?tag=gamespot-promos-20">extremely budget-friendly option</a> for $25 and a <a href="https://www.amazon.com/SABRENT-Docking-Compatible-Ethernet-Charging/dp/B0CFCXJ7DY?tag=gamespot-promos-20">premium dock with a built-in SSD slot</a>.</p><div class="norewrite" title="">           
+
+## No Rest For The Wicked Looks Grim And Challenging In This Exclusive Concept Art Gallery
+ - [https://www.gamespot.com/gallery/no-rest-for-the-wicked-looks-grim-and-challenging-in-this-exclusive-concept-art-gallery/2900-5231](https://www.gamespot.com/gallery/no-rest-for-the-wicked-looks-grim-and-challenging-in-this-exclusive-concept-art-gallery/2900-5231)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T19:45:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4282748-no-rest-for-the-wicked.jpg" /><br /><h3><p>Ori developer Moon Studios is making its return this month with a brand-new game, launching in early access on PC. Called <a href="https://www.gamespot.com/games/no-rest-for-the-wicked/">No Rest for the Wicked</a>, this hack-and-slash adventure combines Souls-like influences with hack-and-slash action, all set in a world that looks like a rich oil painting come to life. The Ori games were praised for their visuals when they first came out, and No Rest for the Wicked continues this tradition with a design that is somehow both both dark and vibrant.</p><p>Ahead of its early access launch, Moon Studios has provided GameSpot with an exclusive collection of concept art showing off No Rest for the Wicked's dangerous enemies and some of the locations you'll visit in your quest. Below, you can find images of deadly adversaries like the Berserker, the nightmarish Echo Kn
+
+## Call Of Duty's Newest Finishing Move Has Players Blowing Weed Smoke Through A Gun
+ - [https://www.gamespot.com/articles/call-of-dutys-newest-finishing-move-has-players-blowing-weed-smoke-through-a-gun/1100-6522374/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/call-of-dutys-newest-finishing-move-has-players-blowing-weed-smoke-through-a-gun/1100-6522374/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T19:31:00+00:00
+
+<p>Call of Duty's big new Season 3 update has arrived, and that means people are poking around and finding out everything there is to know. This includes the discovery of the game's newest finishing move for the just-added characters Cheech and Chong.</p><p>As you can see in the incredible video below, the "Secondhand Smoke" finisher involves Cheech or Chong smoking a fat doobie and exhaling the smoke through their weapon and into their enemy's face. The foe coughs from the smoke cloud and passes out, as your character says, "I smoked you like my favorite strain." It's certainly one of Call of Duty's flashiest finishers yet.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Cheech &amp; Chong's 'Secondhand Smoke' finishing move in <a href="https://twitter.com/hashtag/CallOfDuty?src=hash&amp;ref_src=twsrc^tfw">#CallOfDuty</a> üí®<a href="https://t.co/s2MOosu1XV">pic.twitter.com/s2MOosu1XV</a></p>  ‚Äî Culture Crave üçø (@CultureCrave) <a href="https://twitter.com/
+
+## EA Sports UFC 5 Gets Massive Update Schedule, Over 30 Fighters Being Added
+ - [https://www.gamespot.com/gallery/ea-sports-ufc-5-gets-massive-update-schedule-over-30-fighters-being-added/2900-5233](https://www.gamespot.com/gallery/ea-sports-ufc-5-gets-massive-update-schedule-over-30-fighters-being-added/2900-5233)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T19:08:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1599/15997278/4282869-ufc5_300_newfighters_assets_ka_16x9.jpg" /><br /><h3><p><a href="https://www.gamespot.com/games/ea-sports-ufc-5/">EA Sports UFC 5</a> is getting over 30 new fighters by the end of June, which EA is touting as the biggest post-launch roster expansion in the history of the franchise. All of these new fighters will be added as free additions to the roster, adding a total of 34 new fighters by the end of that period.</p><p dir="ltr">Detailed in a <a href="https://www.ea.com/games/ufc/ufc-5/news/ufc-5-patch-notes-5">blog post</a>, the first batch comes on April 4, adding nine new fighters to the game, including Diego Lopes, Geoff Neal, and Tracy Cortez. This update also includes a number of balance changes for UFC 5, reducing stamina recovery between rounds by 20% and increasing the evasiveness of stationary, advancing, and retreating ducks.</p><p dir="ltr">The rest of the fighters are coming in three waves: 
+
+## Godzilla x Kong 5-Film Collector's Edition Preorders Are Discounted
+ - [https://www.gamespot.com/articles/godzilla-x-kong-5-film-collectors-edition-preorders-are-discounted/1100-6522351/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/godzilla-x-kong-5-film-collectors-edition-preorders-are-discounted/1100-6522351/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T18:59:00+00:00
+
+<p>Legendary's MonsterVerse has been one of the most consistently entertaining film franchises for a decade now, and with <a href="https://www.gamespot.com/reviews/godzilla-x-kong-the-new-empire-review-bigger-and-better/1900-6418204/">Godzilla X Kong: The New Empire</a> now in theaters, you can grab a preorder for the entire saga on Blu-ray. While it doesn't have a release date just yet, the <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.walmart.com/ip/Godzilla-Kong-Monsterverse-5-Film-Collection-4K-Ultra-HD-Digital-Copy/5378390808">Godzilla X Kong MonsterVerse 5-Film Collector's Edition is available to order at Walmart for $100</a> (was $135). <a href="https://www.amazon.com/dp/B0CY9YXKTT?tag=gamespot-preorders-20">Amazon</a> is currently selling preorders for $110. Like other Blu-ray releases on Amazon, this price has a good chance of coming down closer to release, and you'll pay the lowest price offered from the time you o
+
+## Fallout 3 Might Have Caused The Dark Knight Rises To Be Delayed
+ - [https://www.gamespot.com/articles/fallout-3-might-have-caused-the-dark-knight-rises-to-be-delayed/1100-6522373/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fallout-3-might-have-caused-the-dark-knight-rises-to-be-delayed/1100-6522373/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T18:54:00+00:00
+
+<p>Jonathan Nolan, the executive producer and director of Prime Video's Fallout TV series, has said he played so much Fallout 3 that it might have led to a delay in the big-budget Batman movie, The Dark Knight Rises. He co-wrote the movie with his brother Christopher Nolan.</p><p>Speaking to <a href="https://www.eurogamer.net/fallout-tv-producer-jonathan-nolan-says-playing-the-games-disrupted-writing-the-dark-knight-rises">Eurogamer</a>, Jonathan Nolan said he was "in the mood for a distraction" and turned to Fallout 3. "I think Chris had tasked me with writing The Dark Knight Rises and so if that movie was slightly delayed, it was probably in part because of Fallout 3," he said.</p><p>For what it's worth, it's not immediately clear if The Dark Knight Rises was indeed ever delayed. Even if a delay wasn't announced publicly, the film could have been delayed internally. Given how gripping and engrossing Bethesda's Fallout games can be, it's not surprising to learn that Nolan got sucked 
+
+## Life-Size M3gan Doll Just Stands There, But Won't Try To Kill You
+ - [https://www.gamespot.com/articles/life-size-m3gan-doll-just-stands-there-but-wont-try-to-kill-you/1100-6522372/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/life-size-m3gan-doll-just-stands-there-but-wont-try-to-kill-you/1100-6522372/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T18:35:00+00:00
+
+<p>The 2022 horror movie M3gan features a robotic doll who kills people, and now you can own a life-size replica. This doll just stands there and doesn't come to life and kill people (we hope).</p><p>This 1:1 replica was made using "film-used" digital files from the movie to help make it look as accurate as possible. The eyes and arms move, and she has human-like hair, too. Her clothes and shoes are also modeled after her appearance in the film.</p><p>She stands about 55 inches tall, which is roughly 4.5 feet. It's an officially licensed product made by NECA in partnership with M3gan movie studio Universal Pictures.</p><a href="https://www.gamespot.com/articles/life-size-m3gan-doll-just-stands-there-but-wont-try-to-kill-you/1100-6522372/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Jonathan Nolan Shares The Origin Of The Dark Knight's Most Famous Line
+ - [https://www.gamespot.com/articles/jonathan-nolan-shares-the-origin-of-the-dark-knights-most-famous-line/1100-6522369/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/jonathan-nolan-shares-the-origin-of-the-dark-knights-most-famous-line/1100-6522369/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T18:06:00+00:00
+
+<p>Early in The Dark Knight, Harvey Dent tells Bruce Wayne the line that's become synonymous with the film: "You either die a hero or live long enough to see yourself become the villain." Director Christopher Nolan recently admitted that <a href="https://www.gamespot.com/articles/christopher-nolan-didnt-write-dark-knights-most-quoted-line-didnt-understand-it/1100-6521377/">he didn't initially understand</a> what the line was meant to convey. The line itself was conceived by Nolan's brother, Jonathan Nolan, who co-wrote the script. During a new interview with <a href="https://www.hollywoodreporter.com/tv/tv-features/jonathan-nolan-interview-fallout-westworld-1235864206/">The Hollywood Reporter</a>, Nolan shed some light on the origin of that line.</p><p>"It came later in the script," said Nolan. "We’ve done a version or two of the script where we were looking for something that would distill the tragedy of Harvey Dent but that would also apply to Batman. The richness of Batman is in th
+
+## The Elder Scrolls Online: Gold Road Expansion Preorders Are Discounted For PC And Mac
+ - [https://www.gamespot.com/articles/the-elder-scrolls-online-gold-road-expansion-preorders-are-discounted-for-pc-and-mac/1100-6522282/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-elder-scrolls-online-gold-road-expansion-preorders-are-discounted-for-pc-and-mac/1100-6522282/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T17:56:00+00:00
+
+<p dir="ltr">The next Elder Scrolls Online expansion, Gold Road, launches on June 3 for Windows and Mac, and on June 18 for PlayStation and Xbox. Preorders are available for all platforms, but PC and Mac players can save a few bucks by purchasing through Fanatical, which has discounts on all versions of the upcoming expansion.</p><div class="norewrite" title="">           <a href="https://www.fanatical.com/en/search?search=elder scrolls online gold">See at Fanatical</a> </div><p dir="ltr"> </p><p dir="ltr">The Elder Scrolls Online: Gold Road is available as an upgrade for existing players or as part of a new Elder Scrolls Online collection that bundles the base game and all previous expansions along with Gold Road. Deluxe editions of the upgrade and collection include extra exclusive content. Each version is discounted at Fanatical and available as either Steam keys or The Elder Scrolls Online launcher codes.</p><a href="https://www.gamespot.com/articles/the-elder-scrolls-online-gold-
+
+## Jump Ship Looks Like FTL Combined With Sea Of Thieves
+ - [https://www.gamespot.com/articles/jump-ship-looks-like-ftl-combined-with-sea-of-thieves/1100-6522368/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/jump-ship-looks-like-ftl-combined-with-sea-of-thieves/1100-6522368/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T17:27:00+00:00
+
+<p>Swedish development studio Keepsake Games has revealed its new title, Jump Ship, an ambitious sci-fi co-op adventure that looks like FLT meets Sea of Thieves and Starfield. While players will be able to explore the cosmos and hunt down bounties on alien worlds, the twist in Jump Ship is that they'll also be teaming up to operate a spaceship, keep it functioning, and take part in dogfights throughout the galaxy. This co-op part forms a major part of the gameplay loop, as players will take turns engaging in various roles, while also working towards a common goal of making it out alive with as much loot as possible.</p><div>          </div><p>"No one adventure is the same, and things often turn into chaos out of nowhere," Filip Coulianos, game director at Keepsake Games, said in a press statement. "One moment you’re chilling and scavenging for parts, the next you're desperately trying to fix the fuel leak on the outside of your ship as projectiles from enemy ships fly around your head
+
+## New Matrix Movie Announced With World War Z Writer
+ - [https://www.gamespot.com/articles/new-matrix-movie-announced-with-world-war-z-writer/1100-6522365/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-matrix-movie-announced-with-world-war-z-writer/1100-6522365/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T17:11:00+00:00
+
+<p>Warner Bros. has announced a new Matrix movie. Drew Goddard, the writer behind World War Z and The Martian, has been hired to direct the new Matrix film. This will be Goddard's third directorial project, following The Cabin in the Woods and Bad Times at the El Royale.</p><p>Lana Wachowski, one of the creators of the series, is involved as an executive producer, according to <a href="https://www.hollywoodreporter.com/movies/movie-news/the-matrix-new-movie-drew-goddard-1235865603/">The Hollywood Reporter</a>. Lilly Wachowski is not involved. Lana directed the latest movie, The Matrix: Resurrections.</p><p>Warner Bros. boss Jesse Ehrman said Goddard came to the movie studio with a "new idea" that the studio believes could be an "incredible way to continue the Matrix world." It will respect the franchise's legacy and also offer a "unique perspective" on the franchise's future, Ehrman said.</p><a href="https://www.gamespot.com/articles/new-matrix-movie-announced-with-world-war-z-writer/
+
+## Dune Actor Has No Regrets Being Cut For The Sequel
+ - [https://www.gamespot.com/articles/dune-actor-has-no-regrets-being-cut-for-the-sequel/1100-6522371/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dune-actor-has-no-regrets-being-cut-for-the-sequel/1100-6522371/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T17:07:00+00:00
+
+<p>In both parts of Denis Villenueve's epic Dune films not everyone cast can still make it on screen. Actor <a href="https://www.gamespot.com/articles/dune-2-actor-is-heartbroken-his-scene-was-cut/1100-6521575/">Tim Blake Nelson</a> openly said he's heartbroken about his scenes being cut, but has no hard feelings about it personally. Stephen McKinley Henderson played advisor Thufir Hawat in the first Dune movie and fans expected him to return, but that wasn't the case. </p><p>Cutting Henderson from the sequel was a tough call and "one of the most painful choices for me," Villeneuve told Entertainment Weekly. McKinley however isn't as disappointed in the choice and understands that sometimes it's all about the process. </p><p>"I shot stuff for them and had a great time with Denis and Austin Butler," McKinley told <a href="https://ew.com/stephen-mckinley-henderson-addresses-cut-scenes-dune-part-two-8623925?taid=660d53852d12050001ae0d7d&amp;utm_campaign=entertainmentweekly_entertainmentw
+
+## Next MultiVersus Crossover Is Not One You Would Have Guessed
+ - [https://www.gamespot.com/articles/next-multiversus-crossover-is-not-one-you-would-have-guessed/1100-6522367/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/next-multiversus-crossover-is-not-one-you-would-have-guessed/1100-6522367/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T16:49:00+00:00
+
+<p><a href="https://www.gamespot.com/games/multiversus/">MultiVersus</a> is prepping for its big relaunch in May, but before the game's various Warner Bros.-owned characters like Batman, Velma, and Bugs Bunny once again do platform-based battle, they'll throw down in a real-life hockey match.</p><p dir="ltr">On April 14, TNT Sports, the NHL, and Warner Bros. Games are <a href="https://www.nhl.com/news/multiversus-nhl-face-off-premieres-april-14-on-trutv">partnering</a> to transform a game between the Colorado Avalanche and the Las Vegas Golden Knights into a MultiVersus hockey match using tracking technologies to overlay characters like Superman, Shaggy, and Finn the Human on top of the actual action during the broadcast. Some NHL players, like Nathan MacKinnon of the Avalanche and Jack Eichel of the Golden Knights, will even receive special avatars in the MultiVersus style so that it appears they are playing alongside the game's various characters. The MultiVersus NHL Face-Off will a
+
+## One Year Later, Ubisoft Forward Is Back For Another June Showcase
+ - [https://www.gamespot.com/articles/one-year-later-ubisoft-forward-is-back-for-another-june-showcase/1100-6522364/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/one-year-later-ubisoft-forward-is-back-for-another-june-showcase/1100-6522364/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T16:42:00+00:00
+
+<p>While <a href="https://www.gamespot.com/articles/e3-is-permanently-canceled/1100-6519882/">E3 is permanently canceled</a>, that isn't stopping Ubisoft from hosting its own dedicated livestream event in June. The company has announced that a new Ubisoft Forward livestream will be broadcast on June 10, live from Los Angeles.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">It’s back ✨<br />Join us live from Los Angeles for <a href="https://twitter.com/hashtag/UbiForward?src=hash&amp;ref_src=twsrc^tfw">#UbiForward</a> on June 10 for updates and upcoming releases! <a href="https://t.co/PevpR3rfvH">pic.twitter.com/PevpR3rfvH</a></p>  — Ubisoft (@Ubisoft) <a href="https://twitter.com/Ubisoft/status/1775553914709930054?ref_src=twsrc^tfw">April 3, 2024</a></blockquote>              </div><p>Ubisoft joins Geoff Keighley's Summer Games Fest during this period, which will be held a few days earlier on June 7 this year. Over the last few years, June has become informally k
+
+## Witcher Season 4 Adds Three More Cast Members
+ - [https://www.gamespot.com/articles/witcher-season-4-adds-three-more-cast-members/1100-6522361/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/witcher-season-4-adds-three-more-cast-members/1100-6522361/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T16:12:00+00:00
+
+<p>More cast members have joined Netflix's The Witcher for its upcoming fourth season, which will be the first featuring Liam Hemsworth as Geralt after Henry Cavill moved on.</p><p><a href="https://variety.com/2024/tv/news/witcher-season-4-cast-sharlto-copley-james-purefoy-danny-woodburn-1235954863/">As reported by Variety</a>, Season 4 is adding Sharlto Copley (District 9), James Purefoy (Rome), and Danny Woodburn (Seinfeld) to its cast.</p><p>Copley is playing the bounty hunter Leo Bonhart, with Purefoy portraying the spy Skellen. Woodburn plays the dwarf Zoltan.</p><a href="https://www.gamespot.com/articles/witcher-season-4-adds-three-more-cast-members/1100-6522361/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Adorable Pikachu Nintendo Switch Controller Drops To Lowest Price Yet
+ - [https://www.gamespot.com/articles/adorable-pikachu-nintendo-switch-controller-drops-to-lowest-price-yet/1100-6522358/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/adorable-pikachu-nintendo-switch-controller-drops-to-lowest-price-yet/1100-6522358/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T16:07:00+00:00
+
+<p>Hori makes a wide variety of third-party controllers for consoles and PC, but few are as well-regarded as the <a href="https://www.amazon.com/dp/B0BHKJPWPQ?tag=gamespot-promos-20">Split Pad Compact</a> (and <a href="https://www.amazon.com/Nintendo-Switch-Pikachu-Charizard-Gaming-Console/dp/B0BHKTNP65?tag=gamespot-promos-20">Split Pad Pro</a>). And if you're looking for a way to improve the ergonomics of playing Switch in handheld mode, this is a great time to finally check it out. Typically listed for $60, the <a href="https://www.amazon.com/dp/B0BHKJPWPQ?tag=gamespot-promos-20">Hori Split Pad Compact (Pikachu &amp; Mimikyu)</a> is down to just $42--which also happens to be its lowest-ever price.</p><div class="norewrite" title="6522358 - Split Pad Compact Discount">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                   
+
+## 60% Of All Playtime In 2023 Was Spent On Live-Service Games More Than Six Years Old
+ - [https://www.gamespot.com/articles/60-of-all-playtime-in-2023-was-spent-on-live-service-games-more-than-six-years-old/1100-6522366/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/60-of-all-playtime-in-2023-was-spent-on-live-service-games-more-than-six-years-old/1100-6522366/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T15:58:00+00:00
+
+<p>New market data shows that 60% of playtime across consoles and PC was spent on live-service games that are over six years old, such as Fortnite, Minecraft, Counter-Strike and others. The report, from market researcher <a href="https://newzoo.com/resources/trend-reports/pc-console-gaming-report-2024">Newzoo</a> (via <a href="https://kotaku.com/old-games-2023-playtime-data-fortnite-roblox-minecraft-1851382474">Kotaku</a>), claims that the PC and console markets generated $93.5 billion in revenue during 2023. Most of this revenue and most of the total playtime was spent on heavyweight, established titles.</p><p>For example, Fortnite topped the charts on every platform. Call of Duty, Grand Theft Auto 5, Minecraft, Counter-Strike 2, Rocket League, and Apex Legends also take prominent spots. Each platform does have its own idiosyncrasies. Roblox and The Sims 4 both take prominent spots on the PC chart. Starfield cracked number eight on Xbox, while Tears of the Kingdom was the second most
+
+## CoD: Warzone And MW3 Season 3 Patch Notes Detail RAM-7 Nerf And QoL Updates
+ - [https://www.gamespot.com/articles/cod-warzone-and-mw3-season-3-patch-notes-detail-ram-7-nerf-and-qol-updates/1100-6522363/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-warzone-and-mw3-season-3-patch-notes-detail-ram-7-nerf-and-qol-updates/1100-6522363/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T15:13:00+00:00
+
+<p dir="ltr">Season 3 of <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Modern Warfare 3</a> and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a> arrives today, and Activision reveals all the big changes for this new season of Call of Duty. The Season 3 patch notes include changes to perks, major weapon balancing, and some quality-of-life changes.</p><p dir="ltr">The season launches with three new weapons in the battle pass, four multiplayer maps, Capture the Flag mode, new perks, and Rebirth Island's return to Warzone. Season 3 also adds the Plunder and Buy Back modes to Warzone Mobile. Several bundles arrive with Season 3, including more King Kong and Godzilla skins, a stoned sloth operator, a dinosaur soldier, and Cheech &amp; Chong are Call of Duty operators. More details on <a href="https://www.gamespot.com/articles/cod-warzone-and-mw3-season-3-roadmap-includes-ctf-new-perks-and-advanced-warfare-weapons/1100-6522210/">Season 3 
+
+## PlayStation Showcase Coming In May - Report
+ - [https://www.gamespot.com/articles/playstation-showcase-coming-in-may-report/1100-6522349/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/playstation-showcase-coming-in-may-report/1100-6522349/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T08:00:00+00:00
+
+<p>A new PlayStation Showcase--Sony's version of a "Direct" presentation--could be coming in May. </p><p>That's according to Jeff Grubb of Giant Bomb, who mentioned on a recent <a href="https://clips.twitch.tv/EnergeticHilariousDelicataFreakinStinkin-6cLM1DekPgcnO9Kw">Giant Bombcast</a> episode that he "heard that there will be a PlayStation <em>something</em>, either a State of Play or a showcase, next month, in May." Grubb speculated Silent Hill 2, which is a PS5 console exclusive, could show up at this showcase, though that remains to be seen. </p><p>The Silent Hill 2 remake recently received an official ESRB rating--an M, if there were any doubt--suggesting it may be nearing a release window. </p><a href="https://www.gamespot.com/articles/playstation-showcase-coming-in-may-report/1100-6522349/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## PlayStation Showcase Coming In May With Silent Hill 2 Remake - Report
+ - [https://www.gamespot.com/articles/playstation-showcase-coming-in-may-with-silent-hill-2-remake-report/1100-6522349/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/playstation-showcase-coming-in-may-with-silent-hill-2-remake-report/1100-6522349/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T08:00:00+00:00
+
+<p> The <a href="https://www.gamespot.com/games/silent-hill-2/">Silent Hill 2</a> remake by Bloober Team may have a release date, or at least a release window soon, according to insider information and a recent ESRB rating. The remake has officially received an unsurprising M rating from the ESRB, suggesting the game may be getting close to release.</p><p>The rating was picked up by Jeff Grubb on the <a href="https://clips.twitch.tv/EnergeticHilariousDelicataFreakinStinkin-6cLM1DekPgcnO9Kw">Giant Bomb podcast</a>, who also said he has "heard that there will be a PlayStation <em>something</em>, either a State of Play or a showcase, next month, in May." Putting the pieces together, Grubb suggests that the Silent Hill 2 remake is likely to be there, and that "a release window might be imminent."</p><p>Sony's most recent State of Play in January revealed <a href="https://www.gamespot.com/articles/new-silent-hill-2-gameplay-footage-premieres-and-its-very-scary/1100-6520741/">new footage of
+
+## Diablo 4's First Ever Public Test Realm Is Live Now
+ - [https://www.gamespot.com/articles/diablo-4s-first-ever-public-test-realm-is-live-now/1100-6522348/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/diablo-4s-first-ever-public-test-realm-is-live-now/1100-6522348/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T07:52:00+00:00
+
+<p><a href="https://www.gamespot.com/games/diablo-iv/">Diablo 4</a>'s very first PTR is live now until April 9, helping Blizzard test Season 4 changes and new features before its full release on May 14. All players with a PC Battle.net account can opt into the PTR to check out Season 4 early and provide feedback on the experience.</p><p>The Season 4 update contains some major changes to how Diablo 4 plays, including a big overhaul to the <a href="https://www.gamespot.com/articles/diablo-4-will-soon-let-you-trade-legendary-and-unique-items-but-not-the-very-best-ones/1100-6522003/">game's items</a>. The PTR test will also include the revamped Helltide Reborn event, the crafting-focused Pit of Artificers dungeons, and updates to the boss ladder.</p><p>As part of the PTR, players will be able to instantly boost their level to 100 by speaking with an NPC named "PTR boost" in the Kyovashad area. The boost will also award players currency, consumables, and Ancestral gear, as well as clearing
+
+## PS Plus Premium/Extra Is Getting A Day One Free Game This April
+ - [https://www.gamespot.com/articles/ps-plus-premium-extra-is-getting-a-day-one-free-game-this-april/1100-6522346/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ps-plus-premium-extra-is-getting-a-day-one-free-game-this-april/1100-6522346/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T07:01:00+00:00
+
+<p>Sony has revealed that one of its PlayStation Plus Premium/Extra games for April is also a day one release: <a href="https://www.gamespot.com/games/tales-of-kenzera-zau/">Tales of Kenzera: ZAU</a>. The debut game from actor Abubakar Salim's studio, Surgent Studios, will come to PlayStation Plus' Premium/Extra library when it releases on April 23.</p><p>Tales of Kenzera: ZAU is a 2.5D metroidvania action/adventure inspired by Bantu tales, which follows the story of protagonist Zau as he contends with grief following the death of a loved one. GameSpot writer Kurt Indovina <a href="https://www.gamespot.com/articles/tales-of-kenzera-zau-helped-me-cope-with-my-own-loss/1100-6522097/">previewed the upcoming game</a> earlier this year, praising Tales of Kenzera's cathartic handling of its subject matter, as well as its solid 2.5D metroidvania gameplay.</p><p>Tales of Kenzera: ZAU will release on April 23 for PlayStation 5, Xbox Series X|S, Nintendo Switch, and PC, and on the PlayStation w
+
+## Humble Choice For April 2024 - Get 8 Games Valued At $300 For Only $12
+ - [https://www.gamespot.com/articles/humble-choice-for-april-2024-get-8-games-valued-at-300-for-only-12/1100-6522342/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/humble-choice-for-april-2024-get-8-games-valued-at-300-for-only-12/1100-6522342/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-03T00:11:00+00:00
+
+<p dir="ltr">Humble Choice members enjoy a variety of perks as part of their 12/month subscription, but the best benefit is the monthly batch of PC games you can download at no additional charge and keep forever. April's selection is now live, and includes a diverse lineup of strategy games, horror games, and even an RPG and first-person shooter.</p><div class="norewrite" title="">           <a href="https://www.jdoqocy.com/click-100770772-14555742?sid=subid_value&amp;url=https://www.humblebundle.com/membership">Join Humble Choice</a> </div><hr /><h2 dir="ltr">Humble Choice April 2024 games</h2><ul><li dir="ltr">Victoria 3</li><li dir="ltr">The Callisto Protocol</li><li dir="ltr">Humankind: Definitive Edition</li><li dir="ltr">Fashion Police Squad</li><li dir="ltr">Terraformers</li><li dir="ltr">Symphony of War: The Nephilim Saga</li><li dir="ltr">Coromon</li><li dir="ltr">The Excavation of Hob's Barrow</li></ul><p dir="ltr">Starting off April's batch of Humble Choice games is <a href
+

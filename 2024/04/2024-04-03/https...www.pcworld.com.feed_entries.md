@@ -1,0 +1,230 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## Want to keep using Windows 10 safely? Microsoft wants $61
+ - [https://www.pcworld.com/article/2287070/want-to-stay-safe-on-windows-10-microsoft-wants-61-bucks.html](https://www.pcworld.com/article/2287070/want-to-stay-safe-on-windows-10-microsoft-wants-61-bucks.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T19:02:23+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Windows 11 had a rocky start, but it&rsquo;s been getting better lately &mdash; <a href="https://www.pcworld.com/article/2258181/hey-everyone-its-time-to-switch-to-windows-11.html">good enough that PCWorld&rsquo;s March Hachman can finally bear it</a>, in fact. But there are still plenty of good reasons to stay on Windows 10 if you&rsquo;re comfortable with it. Unfortunately, security isn&rsquo;t one of them. The OS will stop getting updated in 2025&hellip;unless you pay for extended security updates. And pay a lot. </p>
+
+
+
+<p>Late last year we learned <a href="https://www.pcworld.com/article/2162058/microsoft-will-charge-consumers-for-extended-windows-10-support.html">Microsoft will offer paid security updates</a> past the end of full support on October 14th, 2025. But the company didn&rsquo;t mention any prices. Now it has, and you might want to brace yourself.
+
+## Chrome’s latest feature blocks cookie-stealing hackers
+ - [https://www.pcworld.com/article/2286838/chromes-latest-feature-blocks-cookie-stealing-hackers.html](https://www.pcworld.com/article/2286838/chromes-latest-feature-blocks-cookie-stealing-hackers.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T16:19:01+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Cookies aren&rsquo;t just something sites have to annoy you about every single #$%&amp;ing time you visit them because of the GDPR. They&rsquo;re one of the most basic ways for sites to identify specific users, for better and worse. Stealing and spoofing those cookies is a popular vector for identity theft attacks, which is why the latest Chrome update tries to keep them safe. </p>
+
+
+
+<p>As explained in this <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://blog.chromium.org/2024/04/fighting-cookie-theft-using-device.html&amp;xcust=2-1-2286838-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Chromium blog post</a> (spotted by <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.bleepingcomputer.com/news/security/new-chrome-feature-aims-to-stop-hackers-from-using-stolen-cookies/&amp;xcust=2-1-2286838-1-0-0&
+
+## Best Windows backup software 2024: Protect your data!
+ - [https://www.pcworld.com/article/407021/best-windows-backup-software.html](https://www.pcworld.com/article/407021/best-windows-backup-software.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T16:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Our PC storage drives won&rsquo;t last forever and that&rsquo;s why it&rsquo;s always a good idea to use backup software to keep your data safe. The best Windows backup software can keep us covered when our primary drive finally croaks.</p>
+
+
+
+<p>While Apple&rsquo;s Time Machine provides users with an effective, set-it-and-forget-it recovery system, Microsoft users aren&rsquo;t so lucky. Instead, users are stuck deciding the best way to keep their data safe with a patchwork system of restore points, recovery discs, and file backups.&nbsp;Thankfully, a number of great third-party backup options have cropped up in recent years to help solve the woes of Windows users. </p>
+
+
+
+<p><strong>Why you should trust us:</strong> It&rsquo;s in our name: PCWorld. Our reviewers have been testing PC hardware, software, and services for decades. Our backup evaluations are thoroug
+
+## Samsung’s gigantic OLED ultrawide monitor is $700 off today
+ - [https://www.pcworld.com/article/2278597/samsungs-gigantic-oled-ultrawide-monitor-is-700-off-today.html](https://www.pcworld.com/article/2278597/samsungs-gigantic-oled-ultrawide-monitor-is-700-off-today.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T15:34:36+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>OLED monitors are the cream of the crop when it comes to gaming, and Samsung makes one of the biggest, widest ones out there. The Odyssey OLED G9 is 49 inches of super-saturated, perfect-black glory, but it doesn&rsquo;t come cheap, with a regular retail price of $1799. But today Amazon is <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0CDQMQQS2?th=1&amp;xcust=2-1-2278597-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">offering it at one of the best prices we&rsquo;ve seen yet</a>, just $1099.99. </p>
+
+
+
+<p>In terms of dollars to pixels, it&rsquo;s probably the best deal on <em>any </em>OLED gaming monitor at the moment. The Odyssey OLED G9 G95SC&nbsp;offers a resolution of 5120&times;1440 (basically two 27-inch gaming monitors squished together in one panel) with a refresh rate of 240Hz. Load up any recent
+
+## Ludicrous! This 4K IPS Acer monitor is sale for just $200
+ - [https://www.pcworld.com/article/2286740/acer-has-a-4k-ips-monitor-on-sale-for-just-200.html](https://www.pcworld.com/article/2286740/acer-has-a-4k-ips-monitor-on-sale-for-just-200.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T15:20:42+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It&rsquo;s strange that while 4K resolution rapidly became ubiquitous in televisions, showing up even in the cheapest Walmart TVs stacked by the door, it&rsquo;s still considered a premium feature for computer monitors. Well if you&rsquo;ve been looking for a 4K upgrade on the cheap, Acer has your back. Today Amazon is listing a 28-inch 4K monitor <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B08FMV8L19&amp;xcust=2-1-2286740-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">for just $199.99</a>. </p>
+
+
+
+<p>That&rsquo;s $300 off Acer&rsquo;s MSRP&hellip;but more accurately, $100 off Amazon&rsquo;s regular price. While it&rsquo;s a little smaller than some 4K monitors, this display ticks all the check marks for a seriously useful office display. In addition to the 3840&times;2160 resolution, it&rsquo;s an IPS d
+
+## What is a dedicated IP address for a VPN and do you need one?
+ - [https://www.pcworld.com/article/2283341/what-is-a-dedicated-ip-address-for-a-vpn-and-do-you-need-one.html](https://www.pcworld.com/article/2283341/what-is-a-dedicated-ip-address-for-a-vpn-and-do-you-need-one.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;ve ever used a VPN you&rsquo;ve likely come across the term &ldquo;dedicated IP address.&rdquo; But what exactly is a dedicated IP address, and do you need one?</p>
+
+
+
+<p>With a typical shared VPN connection, many users are all connected to a server with the same IP address. A dedicated IP address on the other hand, is a fixed IP that is used only by you. There are both advantages and disadvantages to using a dedicated IP over a shared IP.</p>
+
+
+
+<p>Here I&rsquo;ll lay out what exactly a dedicated IP address is, the pros and cons of using one, and help you figure out if it&rsquo;s the right choice for you. And if you&rsquo;re in the market for a VPN, then don&rsquo;t forget to check out our <a href="https://www.pcworld.com/article/406870/best-vpn-services-apps-reviews-buying-advice.html">best VPN services</a> to see our recommendations.</p>
+
+
+
+<h2 cl
+
+## Ads are coming to Discord, and gamers are already planning to block them
+ - [https://www.pcworld.com/article/2286668/ads-are-coming-to-discord-gamers-are-already-planning-to-block-them.html](https://www.pcworld.com/article/2286668/ads-are-coming-to-discord-gamers-are-already-planning-to-block-them.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T14:26:01+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Discord has emerged as a de facto standard chat protocol for gamers, whether it&rsquo;s actually integrated into their games or not. And it&rsquo;s also becoming widespread for chat groups in all kinds of interests, and even direct customer support for some small companies. It&rsquo;s also about to be inundated with that inescapable staple of online life: advertising. </p>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://arstechnica.com/gadgets/2024/04/discord-starts-down-the-dangerous-road-of-ads-this-week/&amp;xcust=2-1-2286668-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Ars Technica</a> and the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.wsj.com/tech/discord-to-start-showing-ads-for-gamers-to-boost-revenue-bf5848b9&amp;xcust=2-1-2286668-1-0-0&amp;sref=https://www.pcworld.com/feed" r
+
+## Razer’s blazing-fast Basilisk gaming mouse is 43% off today
+ - [https://www.pcworld.com/article/2286617/razer-2.html](https://www.pcworld.com/article/2286617/razer-2.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T14:22:27+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re into those trigger finger games in which every second matters, you better listen up. The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/gp/product/B09C13PZX7&amp;xcust=2-1-2286617-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Razer Basilisk V3 is currently on sale for just $39.99</a> at Amazon, a whopping 43 percent off of the original $69.99 price. </p>
+
+
+
+<p>That&rsquo;s a great deal on a mouse with a maximum DPI of 26,000&ndash;that means it&rsquo;s <em>really</em> responsive and fast. In our <a href="https://www.pcworld.com/article/830050/razer-basilisk-v3-gaming-mouse-review.html">review</a> of an older model, in which we gave the peripheral 4.5 (out of 5) stars plus an Editor&rsquo;s Choice award, we loved the zippy performance as well as the fun RGB lighting. But let&rsquo;s talk about 
+
+## 10 Windows features that will disappear soon
+ - [https://www.pcworld.com/article/2285358/10-windows-features-that-will-disappear-soon.html](https://www.pcworld.com/article/2285358/10-windows-features-that-will-disappear-soon.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T13:19:57+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Microsoft not only introduces new features or programs with Windows updates, it also removes obsolete functions.</p>
+
+
+
+<p>Many people don&rsquo;t notice this until they need a specific feature or the outdated program. One example is WordPad, which will soon be removed from Windows, or Windows-to-Go and the Homegroup.</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="get-windows-11-pro-for-cheap">
+					get windows 11 pro for cheap				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="windows-11-pro">Windows 11 Pro</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div cla
+
+## Avira Prime review: Comprehensive, user-friendly antivirus
+ - [https://www.pcworld.com/article/399255/avira-prime-antivirus-review.html](https://www.pcworld.com/article/399255/avira-prime-antivirus-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a Glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Strong security with a reasonable subscription price</li><li>Well designed and user-friendly</li><li>Offers a host of features in the areas of security, privacy, and performance</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>No subscription option for fewer than five devices</li><li>Simplicity of app feels slightly at odds with the depth of the PC tools</li>
+
+## Lenovo ThinkPad Z13 Gen 2 review: A few ports short of greatness
+ - [https://www.pcworld.com/article/2279903/lenovo-thinkpad-z13-review.html](https://www.pcworld.com/article/2279903/lenovo-thinkpad-z13-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Lightweight</li><li>1080p webcam</li><li>Professional-looking design</li><li>Strong overall performance</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Shallow key travel</li><li>Not enough ports</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Lenovo ThinkPad Z13 has all the hallmarks of an ultra-portable. It&rsquo;s lightweight, easy on the eyes, and performance is zippy enough for office w
+
+## Get five comprehensive CompTIA training resources for just $40
+ - [https://www.pcworld.com/article/2285937/get-five-comprehensive-comptia-training-resources-for-just-40.html](https://www.pcworld.com/article/2285937/get-five-comprehensive-comptia-training-resources-for-just-40.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Starting a career in IT can be a difficult road. There are several certifications you need to earn, depending on the field you want to go into, and passing each exam can feel like a herculean chore. Fortunately, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/the-complete-comptia-it-exam-lifetime-access-training-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-complete-comptia-it-exam-lifetime-access-training-bundle&amp;utm_term=scsf-593910&amp;utm_content=a0xRn000000kwYrIAI&amp;scsonar=1&amp;xcust=2-1-2285937-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">The Complete CompTIA &amp; IT Exam Lifetime Access Training Bundle</a> can help, and it&rsquo;s just $39.99 for a limited time with promo code SECURE20.</p>
+
+
+
+<p>This bundle includes five comprehensive traini
+
+## Add a private phone line to your phone for just $20
+ - [https://www.pcworld.com/article/2285909/add-a-private-phone-line-to-your-phone-for-just-20.html](https://www.pcworld.com/article/2285909/add-a-private-phone-line-to-your-phone-for-just-20.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-03T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Sometimes, you don&rsquo;t want people to know your real phone number. Buying something on Craigslist or Facebook Marketplace, calling work clients from your personal phone &mdash; it often feels much better to have a private line. Fortunately, you don&rsquo;t need to get a new phone, you can just add a Hushed Private Phone Line for an extra 20 percent discount through April 7th.</p>
+
+
+
+<p>Hushed has earned a 4.6/5-star rating on the App Store as one of the top private phone line solutions. With your plan, you&rsquo;ll get a combination of 6,000 SMS or 1,000 phone minutes per year, allowing you to make calls and send texts from your private phone number without paying any extra monthly fees or being locked into a contract. You can choose from hundreds of area codes across the US and Canada and even customize your own voicemail so nobody knows they&rsquo;re not ca
+
