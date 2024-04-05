@@ -1,0 +1,926 @@
+# Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
+
+## Teenagers Are Pouring Into the Stock Market
+ - [https://www.wsj.com/articles/teenagers-are-pouring-into-the-stock-market-5719a527](https://www.wsj.com/articles/teenagers-are-pouring-into-the-stock-market-5719a527)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T22:57:00+00:00
+
+The boom in teen trading is part of a wider rush to financial markets since the start of the Covid-19 pandemic.
+
+## SEC Accepts Pause on Its Climate Rule
+ - [https://www.wsj.com/articles/sec-accepts-pause-on-its-climate-rule-b2afe8d9](https://www.wsj.com/articles/sec-accepts-pause-on-its-climate-rule-b2afe8d9)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T22:25:00+00:00
+
+The Securities and Exchange Commission said Thursday it would pause the implementation of its new climate disclosure rule while it fights in court over the measure’s legality.
+
+## Can We Save Our Children From Smartphones?
+ - [https://www.wsj.com/articles/can-we-save-our-children-from-smartphones-03eaf449](https://www.wsj.com/articles/can-we-save-our-children-from-smartphones-03eaf449)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T22:18:00+00:00
+
+Jonathan Haidt’s new book clarifies what we already know. He also has some ideas for reform.
+
+## 'Philadelphia, Here I Come!' Review: An Emigrant's Ambivalence
+ - [https://www.wsj.com/articles/philadelphia-here-i-come-review-an-emigrants-ambivalence-bbca8683](https://www.wsj.com/articles/philadelphia-here-i-come-review-an-emigrants-ambivalence-bbca8683)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:47:00+00:00
+
+Irish Repertory Theatre’s Friel Project continues with this graceful production of Brian Friel’s 1964 play, in which a man on the eve of departing Ireland for America is separately embodied as his public and private selves.
+
+## Biden Exploits a Tragic Israeli Mistake
+ - [https://www.wsj.com/articles/world-central-kitchen-strike-biden-israel-hamas-gaza-kabul-isis-1b5ddd1c](https://www.wsj.com/articles/world-central-kitchen-strike-biden-israel-hamas-gaza-kabul-isis-1b5ddd1c)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:46:00+00:00
+
+He forgets the mistaken U.S. missile strike that killed 10 innocents in Kabul in 2021.
+
+## 'Coup de Chance' Review: Woody Allen's Wicked French Thriller
+ - [https://www.wsj.com/articles/coup-de-chance-review-woody-allens-wicked-french-thriller-df72aa46](https://www.wsj.com/articles/coup-de-chance-review-woody-allens-wicked-french-thriller-df72aa46)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:45:00+00:00
+
+The director delivers his best work in years with this story of a wealthy husband shadowed by unsettling rumors and a wife who finds herself drawn to a bohemian former classmate.
+
+## What if the Federal Reserve Is Wrong?
+ - [https://www.wsj.com/articles/commodities-prices-gold-federal-reserve-jerome-powell-interest-rates-a6f19fce](https://www.wsj.com/articles/commodities-prices-gold-federal-reserve-jerome-powell-interest-rates-a6f19fce)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:43:00+00:00
+
+Commodity prices introduce a note of caution about rate cuts.
+
+## 'The First Omen' Review: The Genesis of an Antichrist
+ - [https://www.wsj.com/articles/the-first-omen-review-the-genesis-of-an-antichrist-2273523d](https://www.wsj.com/articles/the-first-omen-review-the-genesis-of-an-antichrist-2273523d)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:41:00+00:00
+
+Director Arkasha Stevenson’s prequel to the 1976 horror classic ‘The Omen’ falls far short of its predecessor in terms of sheer terror.
+
+## Welcome to Chicago, Democrats
+ - [https://www.wsj.com/articles/chicago-democratic-national-convention-byron-sigcho-lopez-brandon-johnson-joe-biden-50098275](https://www.wsj.com/articles/chicago-democratic-national-convention-byron-sigcho-lopez-brandon-johnson-joe-biden-50098275)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:41:00+00:00
+
+Windy City progressives want to cancel the August Convention in their city.
+
+## Gavin Newsom Pays $16 an Hour
+ - [https://www.wsj.com/articles/california-minimum-wage-fast-food-plumpjack-cafe-gavin-newsom-d191c087](https://www.wsj.com/articles/california-minimum-wage-fast-food-plumpjack-cafe-gavin-newsom-d191c087)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:39:00+00:00
+
+The Governor’s business wants to pay less than the fast-food minimum wage.
+
+## 'Mr. Bates vs. the Post Office' Review: The Stamp of Scandal
+ - [https://www.wsj.com/articles/mr-bates-vs-the-post-office-review-the-stamp-of-scandal-58eab689](https://www.wsj.com/articles/mr-bates-vs-the-post-office-review-the-stamp-of-scandal-58eab689)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:39:00+00:00
+
+Toby Jones stars in this ‘Masterpiece’ presentation on PBS about the British post office managers who were accused of and frequently prosecuted for accounting shortfalls that were actually errors caused by faulty software.
+
+## Guys, Would You Wear a Matching Top and Pants? The Divisive '70s Look Is Back
+ - [https://www.wsj.com/articles/matching-top-and-pants-menswear-divisive-70s-look-is-back-6039ab81](https://www.wsj.com/articles/matching-top-and-pants-menswear-divisive-70s-look-is-back-6039ab81)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:30:00+00:00
+
+Fans say wearing twinning tops and pants is a great timesaving hack. Others find the look either dated or try-hard. We explore the menswear trend.
+
+## Oil Is Hitting Its Highest Level in Months---Just in Time for Summer Driving Season
+ - [https://www.wsj.com/articles/oil-is-hitting-its-highest-level-in-monthsjust-in-time-for-summer-driving-season-3370fbf7](https://www.wsj.com/articles/oil-is-hitting-its-highest-level-in-monthsjust-in-time-for-summer-driving-season-3370fbf7)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:29:00+00:00
+
+Brent crude futures, the benchmark, have climbed 16% in 2024 to just under $90 a barrel, a level last breached in late October.
+
+## Australia Shares Likely to Resume Recent Fall
+ - [https://www.wsj.com/articles/australia-shares-likely-to-resume-recent-fall-469b8861](https://www.wsj.com/articles/australia-shares-likely-to-resume-recent-fall-469b8861)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:28:00+00:00
+
+Australia’s S&amp;P/ASX 200 looked set to fall at the open, putting it on track to round out a sizeable weekly loss.
+
+## Hunter Biden's Legal Collapse
+ - [https://www.wsj.com/articles/hunter-bidens-legal-collapse-a604e106](https://www.wsj.com/articles/hunter-bidens-legal-collapse-a604e106)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:22:00+00:00
+
+A federal judge refuses to toss his tax charges. Donald Trump likely won’t be the only one in court in the next couple of months.
+
+## My Wild Ride as a DJT Day Trader
+ - [https://www.wsj.com/articles/my-wild-ride-as-a-djt-day-trader-24c6c06d](https://www.wsj.com/articles/my-wild-ride-as-a-djt-day-trader-24c6c06d)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:20:00+00:00
+
+I made a few bucks off Trump but couldn’t take the volatility.
+
+## Hamas's Casualty Numbers Games
+ - [https://www.wsj.com/articles/hamass-numbers-games-civilian-death-counts-casualty-data-b99140eb](https://www.wsj.com/articles/hamass-numbers-games-civilian-death-counts-casualty-data-b99140eb)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:12:00+00:00
+
+Journalists and Joe Biden lend credence to bogus counts from the Gaza Health Ministry.
+
+## Slow GO May Mean a Recession Soon
+ - [https://www.wsj.com/articles/slow-go-may-mean-a-recession-soon-us-economy-real-gross-output-65c4f1fd](https://www.wsj.com/articles/slow-go-may-mean-a-recession-soon-us-economy-real-gross-output-65c4f1fd)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:11:00+00:00
+
+GDP numbers look great, but a leading indicator signals trouble ahead.
+
+## Another Cost of Cheap Money Comes Into View
+ - [https://www.wsj.com/articles/another-cost-of-cheap-money-comes-into-view-central-banking-c07b86f5](https://www.wsj.com/articles/another-cost-of-cheap-money-comes-into-view-central-banking-c07b86f5)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T21:10:00+00:00
+
+Asset selloffs to unwind quantitative easing prove expensive for central banks—and taxpayers.
+
+## Mobile Internet Provider Anuvu Engages Lazard for Asset Sale
+ - [https://www.wsj.com/articles/mobile-internet-provider-anuvu-engages-lazard-for-asset-sale-778a9220](https://www.wsj.com/articles/mobile-internet-provider-anuvu-engages-lazard-for-asset-sale-778a9220)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T20:47:00+00:00
+
+Anuvu, the purveyor of mobile internet connectivity services, has engaged investment bank Lazard to find a buyer for its maritime business, according to people familiar with the matter.
+
+## British Billionaire Joe Lewis Avoids Prison Time in U.S. Insider-Trading Case
+ - [https://www.wsj.com/articles/british-billionaire-joe-lewis-avoids-prison-time-in-u-s-insider-trading-case-7d079683](https://www.wsj.com/articles/british-billionaire-joe-lewis-avoids-prison-time-in-u-s-insider-trading-case-7d079683)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T20:36:00+00:00
+
+The 87-year-old businessman receives a lenient sentence because of his advanced age and declining health.
+
+## Huawei Sanctions-Evasion Trial Pushed to 2026 After Settlement Negotiations Fizzle
+ - [https://www.wsj.com/articles/huawei-sanctions-evasion-trial-pushed-to-2026-after-settlement-negotiations-fizzle-de3d8edd](https://www.wsj.com/articles/huawei-sanctions-evasion-trial-pushed-to-2026-after-settlement-negotiations-fizzle-de3d8edd)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T20:36:00+00:00
+
+Prosecutors have indicated a trial could last more than six months. Lawyers for the Chinese tech giant say they intend to ask a judge to split the case into two separate trials.
+
+## Stocks Drop After Fed Officials Cast Doubt on Rate Cuts
+ - [https://www.wsj.com/articles/global-stocks-markets-dow-news-04-04-2024-39442ba4](https://www.wsj.com/articles/global-stocks-markets-dow-news-04-04-2024-39442ba4)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T20:31:00+00:00
+
+All 11 of the S&amp;P 500’s sectors fall.
+
+## Chefs Share Their Best Roasting Tips: 'When the Smell Fills the Room, the Meat Is Likely Ready.'
+ - [https://www.wsj.com/articles/chefs-share-their-best-roasting-tips-when-the-smell-fills-the-room-the-meat-is-likely-ready-38b88435](https://www.wsj.com/articles/chefs-share-their-best-roasting-tips-when-the-smell-fills-the-room-the-meat-is-likely-ready-38b88435)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T20:25:00+00:00
+
+Whether you crave fish, meat or vegetables, a high-heat roast is the easiest route to maximum flavor. We asked renowned roasting experts for their go-to techniques and recipes.
+
+## A Matter of Course (Friday Crossword, April 5)
+ - [https://www.wsj.com/articles/a-matter-of-course-friday-crossword-april-5-078b1388](https://www.wsj.com/articles/a-matter-of-course-friday-crossword-april-5-078b1388)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T20:01:00+00:00
+
+
+
+## José Andrés Is Channeling His Grief and Influence to Change Israel Policy
+ - [https://www.wsj.com/articles/jose-andres-is-channeling-his-grief-and-influence-to-change-israel-policy-f5b539a5](https://www.wsj.com/articles/jose-andres-is-channeling-his-grief-and-influence-to-change-israel-policy-f5b539a5)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T19:07:00+00:00
+
+The celebrity chef has marshaled his bipartisan appeal after seven World Central Kitchen workers were killed in Gaza.
+
+## Yes, You Can Wear Your Wedding Dress Again. Here's What to Know.
+ - [https://www.wsj.com/articles/yes-you-can-wear-your-wedding-dress-again-heres-what-to-know-e7460f63](https://www.wsj.com/articles/yes-you-can-wear-your-wedding-dress-again-heres-what-to-know-e7460f63)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T19:00:00+00:00
+
+Brides are determined to get more mileage from their expensive, exquisite gowns. Here’s how they’re doing it themselves and with the help of a new crop of in-demand designers.
+
+## Minutes Show Bank of Mexico Still Cautious After First Rate Cut
+ - [https://www.wsj.com/articles/minutes-show-bank-of-mexico-still-cautious-after-first-rate-cut-cc31f5c3](https://www.wsj.com/articles/minutes-show-bank-of-mexico-still-cautious-after-first-rate-cut-cc31f5c3)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T18:55:00+00:00
+
+The central bank cut the overnight interest-rate target by a quarter percentage point to 11% on March 21.
+
+## Stanford Taps Its Business School Dean as Next President
+ - [https://www.wsj.com/articles/stanford-university-president-jonathan-levin-23fdfed8](https://www.wsj.com/articles/stanford-university-president-jonathan-levin-23fdfed8)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T18:42:00+00:00
+
+Stanford University named its business school dean, the economist Jonathan Levin, as its next president, nearly eight months after the prior leader resigned amid questions about research misconduct.
+
+## 'The Six Pack' Review: Leaping Lords of the Ring
+ - [https://www.wsj.com/articles/the-six-pack-review-leaping-lords-of-the-ring-d9478d52](https://www.wsj.com/articles/the-six-pack-review-leaping-lords-of-the-ring-d9478d52)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T18:35:00+00:00
+
+The Iron Sheik won the championship with his signature camel clutch hold. He would detour into a crack-cocaine addiction.
+
+## Employment Activity Slowing for U.S. Small Businesses
+ - [https://www.wsj.com/articles/employment-activity-slowing-for-u-s-small-businesses-bd996b7b](https://www.wsj.com/articles/employment-activity-slowing-for-u-s-small-businesses-bd996b7b)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T18:28:00+00:00
+
+A seasonally adjusted net 11% of small businesses in the U.S. are planning to create new jobs in the next three months, the lowest level since May of 2020, the National Federation of Independent Business says.
+
+## No Labels Will Abandon 2024 Presidential Campaign Effort
+ - [https://www.wsj.com/articles/no-labels-will-abandon-2024-presidential-campaign-effort-4b4e5121](https://www.wsj.com/articles/no-labels-will-abandon-2024-presidential-campaign-effort-4b4e5121)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T18:17:00+00:00
+
+The centrist group plans to announce it won’t field a third-party ‘unity ticket’ after months of failing to find a candidate to lead its effort
+
+## CVC Capital-Backed ConvergeOne Files for Bankruptcy to Cut $1.6 Billion in Debt
+ - [https://www.wsj.com/articles/cvc-capital-backed-convergeone-files-for-bankruptcy-to-cut-1-6-billion-in-debt-fec906dd](https://www.wsj.com/articles/cvc-capital-backed-convergeone-files-for-bankruptcy-to-cut-1-6-billion-in-debt-fec906dd)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T17:50:00+00:00
+
+IT provider ConvergeOne has filed for bankruptcy with a plan to cut $1.6 billion in debt and could hand control to lenders including Silver Point Capital and Monarch Alternative Capital.
+
+## U.S. Housing Market Takes Step In Buyer-Friendly Direction
+ - [https://www.wsj.com/articles/u-s-housing-market-takes-step-in-buyer-friendly-direction-465351eb](https://www.wsj.com/articles/u-s-housing-market-takes-step-in-buyer-friendly-direction-465351eb)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T17:44:00+00:00
+
+Home buyers in the U.S. are looking at an optimistic mix of increasing inventory and an uptick in price reductions going into the spring season, Realtor.com says.
+
+## 'The Beast' Review: Léa Seydoux in a Sprawling Sci-Fi Drama
+ - [https://www.wsj.com/articles/the-beast-review-lea-seydoux-ai-sci-fi-bertrand-bonello-george-mackay-airdigital-9eaae825](https://www.wsj.com/articles/the-beast-review-lea-seydoux-ai-sci-fi-bertrand-bonello-george-mackay-airdigital-9eaae825)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T17:37:00+00:00
+
+The actress stars alongside George MacKay in this century-hopping film, in which a woman in the AI-dominated future is being rid of the traumas of her past lives.
+
+## Arthur D'Angelo, the 'Mayor of Fenway Park,' Dies at 97
+ - [https://www.wsj.com/articles/arthur-dangelo-fenway-park-dies-at-97-89ede03c](https://www.wsj.com/articles/arthur-dangelo-fenway-park-dies-at-97-89ede03c)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T17:35:00+00:00
+
+He and his brother founded a business, owner of the ’47 brand, that is now an international supplier of baseball caps and apparel featuring team logos.
+
+## Israel Scrambles GPS Signals as Country Girds for Potential Retaliation From Iran
+ - [https://www.wsj.com/articles/israel-scrambles-gps-signals-as-country-girds-for-potential-retaliation-from-iran-f653c918](https://www.wsj.com/articles/israel-scrambles-gps-signals-as-country-girds-for-potential-retaliation-from-iran-f653c918)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T17:34:00+00:00
+
+The move sows confusion in Tel Aviv as Tehran warns of response to strike on diplomatic building in Syria.
+
+## Help! I Can't Escape the Password Doom Loop!
+ - [https://www.wsj.com/articles/help-i-cant-escape-the-password-doom-loop-3dd9ecc5](https://www.wsj.com/articles/help-i-cant-escape-the-password-doom-loop-3dd9ecc5)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T17:30:00+00:00
+
+
+
+## 'Sugar' Review: Colin Farrell in a Tribute to Film Noir
+ - [https://www.wsj.com/articles/sugar-review-colin-farrell-apple-tv-film-noir-james-cromwell-188193a7](https://www.wsj.com/articles/sugar-review-colin-farrell-apple-tv-film-noir-james-cromwell-188193a7)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T17:22:00+00:00
+
+A playful homage to the genre’s classics, this Apple TV+ series stars the actor as a Los Angeles private eye who is hired by a movie producer to find his missing granddaughter.
+
+## Disney to Crack Down on Password Sharing
+ - [https://www.wsj.com/articles/disney-to-crack-down-on-password-sharing-starting-in-june-2d060eaf](https://www.wsj.com/articles/disney-to-crack-down-on-password-sharing-starting-in-june-2d060eaf)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T17:11:00+00:00
+
+The effort is starting with a few countries in June, and a wider rollout is set for September.
+
+## What Does the Breadth of the Nasdaq's Bull Run Tell Us? To Be Wary
+ - [https://www.wsj.com/articles/nasdaq-bull-run-breadth-8601b027](https://www.wsj.com/articles/nasdaq-bull-run-breadth-8601b027)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T17:00:00+00:00
+
+“Market breadth” indicators suggest the tech-heavy index’s rally could be losing steam.
+
+## Microwave Weapons Are Real, but They Can't Explain 'Havana Syndrome'
+ - [https://www.wsj.com/articles/microwave-weapons-are-real-but-they-cant-explain-havana-syndrome-171c6efa](https://www.wsj.com/articles/microwave-weapons-are-real-but-they-cant-explain-havana-syndrome-171c6efa)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T16:47:00+00:00
+
+Science and common sense make it very unlikely that high-energy devices have anything to do with the symptoms reported by Americans abroad.
+
+## More Small Firms Are Handing Out Raises…
+ - [https://www.wsj.com/articles/more-small-firms-are-handing-out-raises-a811f615](https://www.wsj.com/articles/more-small-firms-are-handing-out-raises-a811f615)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T16:29:00+00:00
+
+… but owners keep scaling back growth plans.
+
+## 'The Unexpected Abigail Adams' Review: Present at the Creation
+ - [https://www.wsj.com/articles/the-unexpected-abigail-adams-review-present-at-the-creation-3de95813](https://www.wsj.com/articles/the-unexpected-abigail-adams-review-present-at-the-creation-3de95813)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T16:22:00+00:00
+
+The press reminded John Adams’s wife of an ‘envenomed toad’ spitting forth poison. She had hard words for Alexander Hamilton, too.
+
+## EXL Service Cutting 800 Jobs as It Shifts Focus to AI
+ - [https://www.wsj.com/articles/exl-service-cutting-800-jobs-as-it-shifts-focus-to-ai-74344656](https://www.wsj.com/articles/exl-service-cutting-800-jobs-as-it-shifts-focus-to-ai-74344656)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T16:18:00+00:00
+
+ExlService Holdings is cutting 800 jobs, or less than 2% of its workforce, as the digital services provider repositions to meet customer demand for generative artificial intelligence.
+
+## 'Provincials' Review: Bards in the Boondocks
+ - [https://www.wsj.com/articles/provincials-review-bards-in-the-boondocks-b13e975f](https://www.wsj.com/articles/provincials-review-bards-in-the-boondocks-b13e975f)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T16:16:00+00:00
+
+Writers and poets from unfashionable towns and the seemingly stagnant countryside have created monuments of literature.
+
+## Mysteries: 'The Stars Turned Inside Out' by Nova Jacobs
+ - [https://www.wsj.com/articles/mysteries-the-stars-turned-inside-out-by-nova-jacobs-75b3bb47](https://www.wsj.com/articles/mysteries-the-stars-turned-inside-out-by-nova-jacobs-75b3bb47)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T16:13:00+00:00
+
+Plus Tana French’s ‘The Hunter’ and Chris Bohjalian’s ‘The Princess of Las Vegas.’
+
+## 'The Rise and Fall of the Second American Republic' Review: The Dream That Died
+ - [https://www.wsj.com/articles/the-rise-and-fall-of-the-second-american-republic-review-the-dream-that-died-651d0f73](https://www.wsj.com/articles/the-rise-and-fall-of-the-second-american-republic-review-the-dream-that-died-651d0f73)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T16:12:00+00:00
+
+The Reconstruction era seemed to establish a new American republic—a biracial, broadly fair democracy. It did not last long.
+
+## Oakland A's to Play in Sacramento for Next Three Seasons
+ - [https://www.wsj.com/articles/oakland-athletics-sacramento-las-vegas-mlb-b4e1b6cc](https://www.wsj.com/articles/oakland-athletics-sacramento-las-vegas-mlb-b4e1b6cc)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T16:05:00+00:00
+
+The team will share a minor-league ballpark with the Sacramento River Cats ahead of a planned relocation to Las Vegas in 2028.
+
+## The Setting of the Sundown Kid, Joe Lieberman
+ - [https://www.wsj.com/articles/the-setting-of-the-sundown-kid-joe-lieberman-senate-sabbath-rest-jewish-1486a628](https://www.wsj.com/articles/the-setting-of-the-sundown-kid-joe-lieberman-senate-sabbath-rest-jewish-1486a628)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T16:05:00+00:00
+
+He kept the Sabbath holy and won admirers across sectarian lines.
+
+## IVF in Alabama: The Real Story
+ - [https://www.wsj.com/articles/ivf-in-alabama-the-real-story-negligence-clinics-life-embyros-6af683dd](https://www.wsj.com/articles/ivf-in-alabama-the-real-story-negligence-clinics-life-embyros-6af683dd)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T16:04:00+00:00
+
+The state Supreme Court case exposed a culture of negligence, and clinics should be accountable.
+
+## Can Marcus Lemonis Turn a Profit on His $35 Million New York Townhouse?
+ - [https://www.wsj.com/articles/marcus-lemonis-new-york-city-townhouse-ab7c61f9](https://www.wsj.com/articles/marcus-lemonis-new-york-city-townhouse-ab7c61f9)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T16:00:00+00:00
+
+The reality TV star paid $18 million for the Upper East Side mansion, which was the site of a gas explosion in 2006.
+
+## Bird Flu Spreads to Cattle, Raising Fears on Farms
+ - [https://www.wsj.com/articles/bird-flu-spreads-to-cattle-raising-fears-on-farms-9293b953](https://www.wsj.com/articles/bird-flu-spreads-to-cattle-raising-fears-on-farms-9293b953)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T15:52:00+00:00
+
+An avian influenza outbreak that has led to the death of about 80 million birds is now sickening dairy cattle, temporarily curbing their milk production.
+
+## A 'Fair Share' and a Just System of Taxation
+ - [https://www.wsj.com/articles/taxes-the-rich-fair-share-wealth-5e6c5041](https://www.wsj.com/articles/taxes-the-rich-fair-share-wealth-5e6c5041)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T15:13:00+00:00
+
+The rich should pay the lions’ share. The politicians are the lions.
+
+## Big Sur Urged to Evacuate as Storm Threatens More Damage to Highway 1
+ - [https://www.wsj.com/articles/big-sur-california-evacuation-highway-1-storm-damage-f824f465](https://www.wsj.com/articles/big-sur-california-evacuation-highway-1-storm-damage-f824f465)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T15:12:00+00:00
+
+California officials asked people in Big Sur to evacuate as a storm threatened more damage to Highway 1, one of the country’s most famous coastal roads.
+
+## Where U.S. Pressure Is Needed in the Middle East
+ - [https://www.wsj.com/articles/middle-east-israel-hamas-us-pressure-15663466](https://www.wsj.com/articles/middle-east-israel-hamas-us-pressure-15663466)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T15:12:00+00:00
+
+Not on Israel.
+
+## Beijing on Hong Kong: Nothing to See Here
+ - [https://www.wsj.com/articles/china-hong-kong-basic-law-national-security-ffea8ec1](https://www.wsj.com/articles/china-hong-kong-basic-law-national-security-ffea8ec1)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T15:06:00+00:00
+
+Repression has consequences.
+
+## America's Enemies Score a Big Intellectual Victory
+ - [https://www.wsj.com/articles/hamas-us-university-campus-influence-b8c8e3dd](https://www.wsj.com/articles/hamas-us-university-campus-influence-b8c8e3dd)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T15:04:00+00:00
+
+The developments on and off the campuses are a challenge to U.S. democracy.
+
+## Our Hard-Earned American Pessimism
+ - [https://www.wsj.com/articles/our-hard-earned-american-pessimism-94662d27](https://www.wsj.com/articles/our-hard-earned-american-pessimism-94662d27)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T15:02:00+00:00
+
+The Apollo program? We can’t even build high-speed rail from L.A. to San Francisco.
+
+## My Mother's Love Affair with Her Dog
+ - [https://www.wsj.com/articles/my-mothers-love-affair-with-her-dog-5623aa2c](https://www.wsj.com/articles/my-mothers-love-affair-with-her-dog-5623aa2c)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T14:32:00+00:00
+
+It was crazy to buy my aging mother a puppy. It was also brilliant.
+
+## Number Puzzles (Saturday, April 6)
+ - [https://www.wsj.com/articles/number-puzzles-saturday-april-6-18ec5309](https://www.wsj.com/articles/number-puzzles-saturday-april-6-18ec5309)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T14:00:00+00:00
+
+
+
+## Canada Goods-Trade Surplus Widens With Strongest Export Growth in Six Months
+ - [https://www.wsj.com/articles/canada-goods-trade-surplus-widens-with-strongest-export-growth-in-six-months-68bdd9a7](https://www.wsj.com/articles/canada-goods-trade-surplus-widens-with-strongest-export-growth-in-six-months-68bdd9a7)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T13:32:00+00:00
+
+Canada’s goods-trade surplus with the rest of the world widened more than expected in February as record gold shipments helped drive the strongest export growth in six months.
+
+## Alaska Air Receives $160 Million From Boeing
+ - [https://www.wsj.com/articles/alaska-air-receives-160-million-payment-from-boeing-db5bb1e9](https://www.wsj.com/articles/alaska-air-receives-160-million-payment-from-boeing-db5bb1e9)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T13:24:00+00:00
+
+The sum represents initial compensation to make up for lost profits due to January’s midair blowout of a door plug.
+
+## The Morning Risk Report
+ - [https://createsend.com/t/d-62FA7E662698980C2540EF23F30FEDED](https://createsend.com/t/d-62FA7E662698980C2540EF23F30FEDED)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T13:21:00+00:00
+
+SEC says self-reporting key factor in reducing off-channel communication fines, and the SEC enforcement chief touts progress in Coinbase case. Also, Janet Yellen missed the first ‘China shock,’ but can she stop the second?
+
+## Ford Delays New EV to Let Market Further Develop
+ - [https://www.wsj.com/articles/ford-motor-delays-launch-of-new-ev-to-let-market-further-develop-5796bbef](https://www.wsj.com/articles/ford-motor-delays-launch-of-new-ev-to-let-market-further-develop-5796bbef)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T13:19:00+00:00
+
+Ford Motor said it is delaying the launch of a new three-row electric vehicle likely to 2027.
+
+## U.S. Natural Gas Futures Steady Ahead Of Storage Report
+ - [https://www.wsj.com/articles/u-s-natural-gas-futures-steady-ahead-of-storage-report-ca34a6b4](https://www.wsj.com/articles/u-s-natural-gas-futures-steady-ahead-of-storage-report-ca34a6b4)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T13:15:00+00:00
+
+U.S. natural gas futures were steady as the market watched for the EIA’s weekly storage report.
+
+## Banks Are Extending Office Loans. Are They Also Pretending?
+ - [https://www.wsj.com/articles/banks-are-extending-office-loans-are-they-also-pretending-f62ddd80](https://www.wsj.com/articles/banks-are-extending-office-loans-are-they-also-pretending-f62ddd80)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T13:00:00+00:00
+
+Many 2023 maturities were pushed into 2024, giving lenders more time for rates to drop and other investors to come in.
+
+## Illegal Grow Houses and Hidden Septics: Real-Estate Brokers on the Worst Code Violations They've Encountered
+ - [https://www.wsj.com/articles/illegal-grow-houses-and-hidden-septics-real-estate-brokers-on-the-worst-code-violations-theyve-encountered-e81886ba](https://www.wsj.com/articles/illegal-grow-houses-and-hidden-septics-real-estate-brokers-on-the-worst-code-violations-theyve-encountered-e81886ba)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T13:00:00+00:00
+
+‘The house was not livable in that condition.’
+
+## The Unlikely Campus Crew That Lit a Revolutionary Fuse in College Sports
+ - [https://www.wsj.com/articles/dartmouth-basketball-union-ncaa-34e0ff9e](https://www.wsj.com/articles/dartmouth-basketball-union-ncaa-34e0ff9e)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T13:00:00+00:00
+
+Dartmouth basketball team’s unionization push got help from a dining-hall agitator, a union painter and an MLB labor leader.
+
+## Spotify Taps Saab Executive Christian Luiga as New CFO
+ - [https://www.wsj.com/articles/spotify-taps-saab-executive-christian-luiga-as-new-cfo-d2edfdc2](https://www.wsj.com/articles/spotify-taps-saab-executive-christian-luiga-as-new-cfo-d2edfdc2)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T12:32:00+00:00
+
+The newly appointed finance chief will join the music-streaming platform in the third quarter.
+
+## LG's Ruling Family Loses Bid to Reduce 50% Inheritance-Tax Bill
+ - [https://www.wsj.com/articles/lgs-ruling-family-loses-bid-to-reduce-50-inheritance-tax-bill-c3c0b609](https://www.wsj.com/articles/lgs-ruling-family-loses-bid-to-reduce-50-inheritance-tax-bill-c3c0b609)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T12:17:00+00:00
+
+A Seoul rejected an attempt by the Koo family to recoup a sliver of their roughly $735 million payment.
+
+## Today's Logistics Report: Bridge Diversions Taking Shape; Earthquake Tests Tech; Building a Chip Cluster
+ - [https://createsend.com/t/d-1FD8B1E0AF504BA42540EF23F30FEDED](https://createsend.com/t/d-1FD8B1E0AF504BA42540EF23F30FEDED)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T12:11:00+00:00
+
+
+
+## To Contain China, the U.S. Bets on a 40-Year-Old Ship
+ - [https://www.wsj.com/articles/to-contain-china-the-u-s-bets-on-a-40-year-old-ship-08cc9d50](https://www.wsj.com/articles/to-contain-china-the-u-s-bets-on-a-40-year-old-ship-08cc9d50)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T12:00:00+00:00
+
+A 270-foot U.S. Coast Guard cutter has been transferred to the Pacific as part of the Biden administration’s latest move to compete with China for influence in the region.
+
+## U.S. Refiners Still Have Gas in the Tank
+ - [https://www.wsj.com/articles/u-s-refiners-still-have-gas-in-the-tank-52a1f1e4](https://www.wsj.com/articles/u-s-refiners-still-have-gas-in-the-tank-52a1f1e4)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T12:00:00+00:00
+
+Disruptions in the Red Sea are helping boost refined fuel prices globally, and U.S. refiners have a distinct advantage.
+
+## Health Care Roundup: Market Talk
+ - [https://www.wsj.com/articles/health-care-roundup-market-talk-d89d3911](https://www.wsj.com/articles/health-care-roundup-market-talk-d89d3911)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:34:00+00:00
+
+The latest Market Talks covering the Health Care sector.
+
+## Basic Materials Roundup: Market Talk
+ - [https://www.wsj.com/articles/basic-materials-roundup-market-talk-02af702a](https://www.wsj.com/articles/basic-materials-roundup-market-talk-02af702a)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:31:00+00:00
+
+SSAB, Trilogy Metals and more in the latest Market Talks covering Basic Materials.
+
+## Financial Services Roundup: Market Talk
+ - [https://www.wsj.com/articles/financial-services-roundup-market-talk-72c584a5](https://www.wsj.com/articles/financial-services-roundup-market-talk-72c584a5)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:28:00+00:00
+
+The latest Market Talks covering Financial Services.
+
+## Energy & Utilities Roundup: Market Talk
+ - [https://www.wsj.com/articles/energy-utilities-roundup-market-talk-85d0d4c8](https://www.wsj.com/articles/energy-utilities-roundup-market-talk-85d0d4c8)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:24:00+00:00
+
+The latest Market Talks covering Energy and Utilities.
+
+## Auto & Transport Roundup: Market Talk
+ - [https://www.wsj.com/articles/auto-transport-roundup-market-talk-8c8120ce](https://www.wsj.com/articles/auto-transport-roundup-market-talk-8c8120ce)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:21:00+00:00
+
+Ferrari, Royal Mail and more in the latest Market Talks covering the Auto and Transport sector.
+
+## Tesla Is Boosting AI Engineer Pay in Talent War, Musk Says
+ - [https://www.wsj.com/articles/elon-musk-tesla-boosting-engineer-pay-in-ai-talent-war-e8390c0b](https://www.wsj.com/articles/elon-musk-tesla-boosting-engineer-pay-in-ai-talent-war-e8390c0b)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:18:00+00:00
+
+Tesla is raising compensation for its artificial intelligence engineers in a bid to ward off poaching from the likes of OpenAI, according to Chief Executive Elon Musk.
+
+## Tech, Media & Telecom Roundup: Market Talk
+ - [https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-ae1a3f26](https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-ae1a3f26)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:13:00+00:00
+
+Terran Orbital, Lockheed Martin and more in the latest Market Talks covering Technology, Media and Telecom.
+
+## Biden, Netanyahu Set to Talk as Gaza Aid-Worker Deaths Add to Pressure on Israel
+ - [https://www.wsj.com/articles/biden-netanyahu-set-to-talk-as-gaza-aid-worker-deaths-add-to-pressure-on-israel-9dee3793](https://www.wsj.com/articles/biden-netanyahu-set-to-talk-as-gaza-aid-worker-deaths-add-to-pressure-on-israel-9dee3793)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:09:00+00:00
+
+World Central Kitchen’s founder, chef Jose Andrés, wants an independent investigation into the Israeli strikes that killed seven staff.
+
+## A Late-Night Sighting, and a Single Hair, Rekindle Hopes That an Extinct Tiger Lives On
+ - [https://www.wsj.com/articles/javan-tiger-extinct-dna-2cf84d7d](https://www.wsj.com/articles/javan-tiger-extinct-dna-2cf84d7d)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:00:00+00:00
+
+DNA analysis suggests that a giant predator may have survived in Java, one of the most populous places on earth.
+
+## Brands Paid for Ads on Forbes.com. Some Ran on a Copycat Site Instead.
+ - [https://www.wsj.com/articles/brands-paid-for-ads-on-forbes-com-some-ran-on-a-copycat-site-instead-c01609ef](https://www.wsj.com/articles/brands-paid-for-ads-on-forbes-com-some-ran-on-a-copycat-site-instead-c01609ef)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:00:00+00:00
+
+Slideshows on a parallel site—which Forbes shut down Tuesday—were loaded with ads and promoted through clickbait-style paid links.
+
+## It Isn't Just AI: Economic Hype Is Also Infecting Stocks
+ - [https://www.wsj.com/articles/it-isnt-just-ai-economic-hype-is-also-infecting-stocks-2e146f96](https://www.wsj.com/articles/it-isnt-just-ai-economic-hype-is-also-infecting-stocks-2e146f96)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:00:00+00:00
+
+Despite the focus on technology giants, “cyclical” sectors have staged a less-conspicuous rally and are trading at stretched valuations.
+
+## Macquarie Leads $500 Million Loan for AI Infrastructure Company Lambda
+ - [https://www.wsj.com/articles/macquarie-leads-500-million-loan-for-ai-infrastructure-company-lambda-9ff6e517](https://www.wsj.com/articles/macquarie-leads-500-million-loan-for-ai-infrastructure-company-lambda-9ff6e517)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:00:00+00:00
+
+Asset manager Macquarie Group led a $500 million asset-backed vehicle to fund the expansion of on-demand, cloud-based services offered by artificial-intelligence infrastructure company Lambda.
+
+## The NFL's Newest Weapon Is a 6-Foot-3 Speedster From…Wales?
+ - [https://www.wsj.com/articles/louis-rees-zammit-nfl-kansas-city-chiefs-rugby-92a9b94b](https://www.wsj.com/articles/louis-rees-zammit-nfl-kansas-city-chiefs-rugby-92a9b94b)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T11:00:00+00:00
+
+Louis Rees-Zammit was one of the world’s leading rugby players—until he gave it up for a long-shot bid to play pro football. Now he’s landed on the Kansas City Chiefs.
+
+## Investors Put $58 Million Into Biolinq's Push for Easier Glucose-Monitoring
+ - [https://www.wsj.com/articles/investors-put-58-million-into-biolinqs-push-for-easier-glucose-monitoring-e40ec739](https://www.wsj.com/articles/investors-put-58-million-into-biolinqs-push-for-easier-glucose-monitoring-e40ec739)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T10:00:00+00:00
+
+Startup seeks to help people with Type 2 diabetes via a device that uses microneedles to measure blood sugar and doesn’t require a separate device to deliver its results.
+
+## SK Capital Closes Newest Private-Equity Fund With Nearly $3 Billion
+ - [https://www.wsj.com/articles/sk-capital-closes-newest-private-equity-fund-with-nearly-3-billion-582f5b75](https://www.wsj.com/articles/sk-capital-closes-newest-private-equity-fund-with-nearly-3-billion-582f5b75)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T10:00:00+00:00
+
+Buyout investor SK Capital Partners has raised just under $3 billion for its sixth flagship fund, the New York firm announced Thursday.
+
+## 3 Ways to Lock In Lower Mortgage Rates
+ - [https://www.wsj.com/articles/how-to-lower-mortgage-rates-homebuyers-8795be9f](https://www.wsj.com/articles/how-to-lower-mortgage-rates-homebuyers-8795be9f)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T09:30:00+00:00
+
+With affordability expected to remain challenging for home buyers, experts say there are ways to ease the pain.
+
+## Amazon Sellers Plagued by Surge in Scam Returns
+ - [https://www.wsj.com/articles/amazon-sellers-plagued-by-surge-in-scam-returns-04c86665](https://www.wsj.com/articles/amazon-sellers-plagued-by-surge-in-scam-returns-04c86665)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T09:30:00+00:00
+
+Merchants receive dirty clothes and used soap instead of returned purchases, a sore point as they say Amazon’s policies remain tilted toward customers.
+
+## How Far $100 Goes at the Grocery Store After Five Years of Food Inflation
+ - [https://www.wsj.com/articles/inflation-food-price-of-groceries-2024-5010700b](https://www.wsj.com/articles/inflation-food-price-of-groceries-2024-5010700b)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T09:30:00+00:00
+
+From beef to mayonnaise, consumers continue to spend more to buy less.
+
+## Is It Me---or Is The Final Four More Fabulous This Year?
+ - [https://www.wsj.com/articles/final-four-uconn-iowa-caitlin-clark-paige-bueckers-83a2c2d3](https://www.wsj.com/articles/final-four-uconn-iowa-caitlin-clark-paige-bueckers-83a2c2d3)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T09:30:00+00:00
+
+A historic showcase for the surging women’s game—with a generational player, Caitlin Clark—plus a stirring set of matchups on the men’s side. Plan your weekends accordingly.
+
+## Nelson Peltz's Disney Consolation Prize: A $300 Million Gain
+ - [https://www.wsj.com/articles/nelson-peltzs-disney-consolation-prize-a-300-million-gain-33822265](https://www.wsj.com/articles/nelson-peltzs-disney-consolation-prize-a-300-million-gain-33822265)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T09:30:00+00:00
+
+Trian Partners lost its bid for board seats, but profited on its investment.
+
+## Think Your Adviser is Conflict-Free? Think Again
+ - [https://www.wsj.com/articles/financial-adviser-conflicts-fees-money-bc235dc2](https://www.wsj.com/articles/financial-adviser-conflicts-fees-money-bc235dc2)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T09:30:00+00:00
+
+Fee-based advisers want to manage as much money as possible and sometimes recommend drawing Social Security early and holding on to mortgages.
+
+## This Small-Cap Stock Index Has Some Jumbo-Size Tenants
+ - [https://www.wsj.com/articles/this-small-cap-stock-index-has-some-jumbo-size-tenants-f98714b3](https://www.wsj.com/articles/this-small-cap-stock-index-has-some-jumbo-size-tenants-f98714b3)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T09:30:00+00:00
+
+The combined market value of Super Micro Computer and MicroStrategy—the two largest stocks in the Russell 2000—has swelled to $87 billion.
+
+## U.K. Businesses See Wage Rises Slowing, Survey Shows
+ - [https://www.wsj.com/articles/u-k-businesses-expect-wage-rises-to-slow-boe-survey-shows-25baf139](https://www.wsj.com/articles/u-k-businesses-expect-wage-rises-to-slow-boe-survey-shows-25baf139)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T08:49:00+00:00
+
+U.K. businesses expect wages to rise at a slower pace over the coming 12 months, a finding that will help reassure policy makers at the Bank of England that inflation has been tamed.
+
+## Eurozone Activity Begins to Recover PMIs Show
+ - [https://www.wsj.com/articles/eurozone-activity-begins-to-recover-as-services-drive-growth-pmis-show-bbde649a](https://www.wsj.com/articles/eurozone-activity-begins-to-recover-as-services-drive-growth-pmis-show-bbde649a)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T08:46:00+00:00
+
+The eurozone’s private-sector activity returned to growth last month, according to a revised purchasing managers’ survey, pointing the way to recovery from stagnation in the wider economy.
+
+## Airbus Stratospheric Drone Business Open to IPO, CEO Says
+ - [https://www.wsj.com/articles/airbuss-stratospheric-drone-business-is-open-to-ipo-ceo-says-a2c555db](https://www.wsj.com/articles/airbuss-stratospheric-drone-business-is-open-to-ipo-ceo-says-a2c555db)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T08:33:00+00:00
+
+An Airbus unit developing high-altitude drones that offer mobile connectivity and Earth observation services is open to an initial public offering after it launches commercial operations in the coming years.
+
+## Kering Buys Historic Property in Milan Fashion District
+ - [https://www.wsj.com/articles/gucci-owner-kering-buys-property-in-milan-fashion-district-for-around-1-4-billion-35c36592](https://www.wsj.com/articles/gucci-owner-kering-buys-property-in-milan-fashion-district-for-around-1-4-billion-35c36592)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T08:23:00+00:00
+
+Gucci owner Kering is buying a historic building in Milan’s fashion district for roughly $1.4 billion, expanding its presence in one of the world’s most iconic avenues.
+
+## Vodafone, Three Deal Faces More In-Depth Probe
+ - [https://www.wsj.com/articles/vodafone-uk-joint-venture-with-three-faces-more-in-depth-review-by-regulator-48b491d7](https://www.wsj.com/articles/vodafone-uk-joint-venture-with-three-faces-more-in-depth-review-by-regulator-48b491d7)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T07:01:00+00:00
+
+The U.K. competition regulator is referring Vodafone’s planned joint venture of its U.K. operations with Three for a more in-depth review.
+
+## Kao Corp. Shares Rise After Activist Investor Urges Action to Reach 'Full Potential'
+ - [https://www.wsj.com/articles/kao-corp-shares-rise-after-activist-investor-urges-action-to-reach-full-potential-81af71e8](https://www.wsj.com/articles/kao-corp-shares-rise-after-activist-investor-urges-action-to-reach-full-potential-81af71e8)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T06:54:00+00:00
+
+Kao Corp. shares rose sharply after Hong Kong-based activist investor Oasis Management urged the Japanese company to focus on the international growth of its cosmetics and skin-care brands, and tap its full potential.
+
+## Musk Says Tesla Is Boosting Engineer Pay in AI Talent War
+ - [https://www.wsj.com/articles/musk-says-tesla-is-boosting-engineer-pay-in-ai-talent-war-e8390c0b](https://www.wsj.com/articles/musk-says-tesla-is-boosting-engineer-pay-in-ai-talent-war-e8390c0b)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T05:04:00+00:00
+
+Tesla is raising compensation for its artificial intelligence engineers in a bid to ward off poaching from the likes of OpenAI, according to Chief Executive Elon Musk.
+
+## Taiwan Earthquake Responders Race to Rescue Survivors
+ - [https://www.wsj.com/articles/taiwan-earthquake-responders-race-to-rescue-survivors-dea42268](https://www.wsj.com/articles/taiwan-earthquake-responders-race-to-rescue-survivors-dea42268)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T04:42:00+00:00
+
+Aftershocks continue to hit Hualien a day after a 7.4-magnitude quake, with more than 130 people still trapped or missing.
+
+## Trump Now Leads Biden in Six Swing States, WSJ Poll Finds: Key Takeaways
+ - [https://www.wsj.com/articles/trump-now-leads-biden-in-six-swing-states-poll-finds-key-takeaways-5495cff0](https://www.wsj.com/articles/trump-now-leads-biden-in-six-swing-states-poll-finds-key-takeaways-5495cff0)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T04:37:00+00:00
+
+Former President Trump is leading against President Biden in half a dozen key battleground states, a Wall Street Journal poll found. WSJ’s Aaron Zitner explains what the latest numbers say about the approaching presidential rematch.
+
+## The assessment of 74% of respondents to a Wall Street Journal poll of swing states that inflation moved in the wrong direction in the past year is false, contradicted by hard economic data that appear to have little bearing on people's perception of their own situation.
+ - [https://www.wsj.com/economy/consumers/whats-wrong-with-the-economy-its-you-not-the-data-cfa911e6](https://www.wsj.com/economy/consumers/whats-wrong-with-the-economy-its-you-not-the-data-cfa911e6)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T04:01:00+00:00
+
+The assessment of 74% of respondents to a Wall Street Journal poll of swing states that inflation moved in the wrong direction in the past year is false, contradicted by hard economic data that appear to have little bearing on people’s perception of their own situation.
+
+## Pepper...and Salt
+ - [https://www.wsj.com/articles/pepper-and-salt-24c65daa](https://www.wsj.com/articles/pepper-and-salt-24c65daa)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T04:00:00+00:00
+
+Pepper...and Salt
+
+## What's News: Business & Finance
+ - [https://www.wsj.com/articles/whats-news-business-finance-7e8eaffb](https://www.wsj.com/articles/whats-news-business-finance-7e8eaffb)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:37:29.197865+00:00
+
+What’s News: Business &amp; Finance
+
+## What's News: World-Wide
+ - [https://www.wsj.com/articles/whats-news-world-wide-676bde64](https://www.wsj.com/articles/whats-news-world-wide-676bde64)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:37:27.666886+00:00
+
+What’s News: World-Wide
+
+## Israel's mass antigovernment protest movement re-emerged after a sudden halt in the wake of the Oct. 7 attack, revitalized by hostages' families and putting pressure on Prime Minister Netanyahu over his handling of the war.
+ - [https://www.wsj.com/world/middle-east/israel-protests-netanyahu-ccd5e3dc](https://www.wsj.com/world/middle-east/israel-protests-netanyahu-ccd5e3dc)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:21:00+00:00
+
+Israel’s mass antigovernment protest movement re-emerged after a sudden halt in the wake of the Oct. 7 attack, revitalized by hostages’ families and putting pressure on Prime Minister Netanyahu over his handling of the war.
+
+## Israel's military said an initial investigation into a strike that killed seven aid workers in Gaza found its forces had wrongly identified their vehicles as hostile targets.
+ - [https://www.wsj.com/world/middle-east/israel-blames-misidentification-for-strike-that-killed-gaza-aid-workers-f88da70e](https://www.wsj.com/world/middle-east/israel-blames-misidentification-for-strike-that-killed-gaza-aid-workers-f88da70e)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:21:00+00:00
+
+Israel’s military said an initial investigation into a strike that killed seven aid workers in Gaza found its forces had wrongly identified their vehicles as hostile targets.
+
+## Roughly one million prospective college students stand to get inaccurate financial-aid offers after a technical glitch, the latest setback for the troubled rollout of a new application for federal grants and loans.
+ - [https://www.wsj.com/personal-finance/fafsa-college-financial-aid-incorrect-tax-data-612e0bed](https://www.wsj.com/personal-finance/fafsa-college-financial-aid-incorrect-tax-data-612e0bed)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:21:00+00:00
+
+Roughly one million prospective college students stand to get inaccurate financial-aid offers after a technical glitch, the latest setback for the troubled rollout of a new application for federal grants and loans.
+
+## Uganda's constitutional court upheld large parts of an anti-LGBTQ law that prompted the U.S. to expel the East African country from a preferential trade deal.
+ - [https://www.wsj.com/world/africa/ugandan-court-upholds-large-parts-of-antigay-law-a786f48e](https://www.wsj.com/world/africa/ugandan-court-upholds-large-parts-of-antigay-law-a786f48e)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:21:00+00:00
+
+Uganda’s constitutional court upheld large parts of an anti-LGBTQ law that prompted the U.S. to expel the East African country from a preferential trade deal.
+
+## Ukraine lowered the age of military conscription to 25 as part of an effort to bolster its depleted armed forces after two years of fighting Russia's invasion and facing renewed assaults.
+ - [https://www.wsj.com/world/europe/ukraine-in-need-of-troops-lowers-age-of-conscription-2d67844e](https://www.wsj.com/world/europe/ukraine-in-need-of-troops-lowers-age-of-conscription-2d67844e)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:21:00+00:00
+
+Ukraine lowered the age of military conscription to 25 as part of an effort to bolster its depleted armed forces after two years of fighting Russia’s invasion and facing renewed assaults.
+
+## Blue Owl struck a deal to acquire Kuvare Asset Management, giving the lender exposure to the insurance market.
+ - [https://www.wsj.com/finance/private-lender-blue-owl-pushes-into-insurance-19a5a3f0](https://www.wsj.com/finance/private-lender-blue-owl-pushes-into-insurance-19a5a3f0)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:10:00+00:00
+
+Blue Owl struck a deal to acquire Kuvare Asset Management, giving the lender exposure to the insurance market.
+
+## Disney defeated activist shareholder Nelson Peltz in a bruising fight for influence in the entertainment giant's boardroom, handing Chief Executive Bob Iger a major victory over one of Wall Street's most-aggressive investors.
+ - [https://www.wsj.com/business/media/disney-iger-defeat-activist-nelson-peltz-in-shareholder-vote-6b3675c0](https://www.wsj.com/business/media/disney-iger-defeat-activist-nelson-peltz-in-shareholder-vote-6b3675c0)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:10:00+00:00
+
+Disney defeated activist shareholder Nelson Peltz in a bruising fight for influence in the entertainment giant’s boardroom, handing Chief Executive Bob Iger a major victory over one of Wall Street’s most-aggressive investors.
+
+## Members of Paramount's board agreed to enter exclusive merger discussions with Skydance, favoring it over a recent $26 billion all-cash offer from private-equity firm Apollo.
+ - [https://www.wsj.com/business/deals/paramount-skydance-enter-exclusive-talks-to-merge-5e0569a5](https://www.wsj.com/business/deals/paramount-skydance-enter-exclusive-talks-to-merge-5e0569a5)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:10:00+00:00
+
+Members of Paramount’s board agreed to enter exclusive merger discussions with Skydance, favoring it over a recent $26 billion all-cash offer from private-equity firm Apollo.
+
+## SK Hynix said it plans to invest $3.9 billion in an advanced chip-packaging facility in West Lafayette, Ind.
+ - [https://www.wsj.com/tech/nvidia-partner-bets-3-9-billion-on-the-midwests-chip-making-potential-2a960ac6](https://www.wsj.com/tech/nvidia-partner-bets-3-9-billion-on-the-midwests-chip-making-potential-2a960ac6)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:10:00+00:00
+
+SK Hynix said it plans to invest $3.9 billion in an advanced chip-packaging facility in West Lafayette, Ind.
+
+## Stronger-than-anticipated economic activity this year hasn't changed the Fed's broad expectation that declining inflation will allow for interest-rate cuts this year, Powell said.
+ - [https://www.wsj.com/economy/central-banking/powell-still-sees-room-for-the-fed-to-cut-rates-this-year-6621eb27](https://www.wsj.com/economy/central-banking/powell-still-sees-room-for-the-fed-to-cut-rates-this-year-6621eb27)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:10:00+00:00
+
+Stronger-than-anticipated economic activity this year hasn’t changed the Fed’s broad expectation that declining inflation will allow for interest-rate cuts this year, Powell said.
+
+## U.S. stocks ended mixed after the Fed chairman's remarks, with the S&P 500 and Nasdaq gaining 0.1% and 0.2%, respectively, and the Dow slipping 0.1%.
+ - [https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-04-03-2024-5cb4e84a](https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-04-03-2024-5cb4e84a)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:10:00+00:00
+
+U.S. stocks ended mixed after the Fed chairman’s remarks, with the S&amp;P 500 and Nasdaq gaining 0.1% and 0.2%, respectively, and the Dow slipping 0.1%.
+
+## Apple Isn't Making an EV, but Chinese Phone Makers Are Showing They Can
+ - [https://www.wsj.com/articles/xiaomi-chinese-phone-company-electric-vehicles-a5c04ad7](https://www.wsj.com/articles/xiaomi-chinese-phone-company-electric-vehicles-a5c04ad7)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:00:00+00:00
+
+The tech heavyweights looking to electric vehicles for their second act are jumping into a brutal price war.
+
+## The British Are Coming for Your White-Collar Job
+ - [https://www.wsj.com/articles/britain-white-collar-jobs-7a59629d](https://www.wsj.com/articles/britain-white-collar-jobs-7a59629d)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:00:00+00:00
+
+American businesses are sending all types of work across the Atlantic, drawn by depressed U.K. salaries, tax incentives and a weak currency.
+
+## The Only U.S. Lawmaker Born in Ukraine Is Now Skeptical of More Aid
+ - [https://www.wsj.com/articles/victoria-spartz-ukraine-aid-69ef4ed1](https://www.wsj.com/articles/victoria-spartz-ukraine-aid-69ef4ed1)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:00:00+00:00
+
+Rep. Victoria Spartz speaks of atrocities witnessed by friends and family in Ukraine—but says she won’t vote for the proposed $60 billion aid package for Kyiv.
+
+## What's Wrong With the Economy? It's You, Not the Data
+ - [https://www.wsj.com/articles/whats-wrong-with-the-economy-its-you-not-the-data-cfa911e6](https://www.wsj.com/articles/whats-wrong-with-the-economy-its-you-not-the-data-cfa911e6)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T03:00:00+00:00
+
+Many Americans believe that the economy and their finances are worse than they really are.
+
+## Asian Currencies Consolidate as Traders Assess Fed's Signals
+ - [https://www.wsj.com/articles/asian-currencies-consolidate-as-traders-assess-feds-signals-ea915b8b](https://www.wsj.com/articles/asian-currencies-consolidate-as-traders-assess-feds-signals-ea915b8b)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T01:55:00+00:00
+
+Asian currencies consolidated against the USD as traders assess the Fed’s signals.
+
+## More &raquo;
+ - [https://www.wsj.com/articles/more-amp-raquo-1067eee3](https://www.wsj.com/articles/more-amp-raquo-1067eee3)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T01:24:00+00:00
+
+How Disney vanquished its Wall Street foe
+
+## Long-Term JGBs Edge Lower Ahead of 30-Year Auction
+ - [https://www.wsj.com/articles/long-term-jgbs-edge-lower-ahead-of-30-year-auction-934de32f](https://www.wsj.com/articles/long-term-jgbs-edge-lower-ahead-of-30-year-auction-934de32f)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T01:21:00+00:00
+
+Long-term JGBs edged lower in the morning Tokyo session ahead of the Japanese Ministry of Finance’s auction of 30-year JGBs
+
+## How Disney's Bob Iger Vanquished Wall Street Agitator Nelson Peltz
+ - [https://www.wsj.com/articles/how-disneys-bob-iger-vanquished-wall-street-agitator-nelson-peltz-7f4760cc](https://www.wsj.com/articles/how-disneys-bob-iger-vanquished-wall-street-agitator-nelson-peltz-7f4760cc)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T01:18:00+00:00
+
+The CEO rolled out of a string of initiatives that helped inoculate Disney against the activist’s attack.
+
+## Joshua Tree Was California's Hottest Housing Market. What Happened?
+ - [https://www.wsj.com/articles/joshua-tree-was-californias-hottest-housing-market-what-happened-df205dba](https://www.wsj.com/articles/joshua-tree-was-californias-hottest-housing-market-what-happened-df205dba)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T01:10:00+00:00
+
+The desert communities surrounding the national park saw home-buyer demand explode during the pandemic. Now it’s coming back down to earth.
+
+## The Big Work Lie: Being Indispensable Will Save Your Job
+ - [https://www.wsj.com/articles/the-big-work-lie-being-indispensable-will-save-your-job-87f64f27](https://www.wsj.com/articles/the-big-work-lie-being-indispensable-will-save-your-job-87f64f27)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T01:00:00+00:00
+
+Becoming the only staffer with certain skills or information might feel like insurance. To some bosses, it’s a red flag.
+
+## Oil Edges Higher, Buoyed by OPEC+ Decision to Maintain Output Cuts
+ - [https://www.wsj.com/articles/oil-edges-higher-buoyed-by-opec-decision-to-maintain-output-cuts-edfc9f92](https://www.wsj.com/articles/oil-edges-higher-buoyed-by-opec-decision-to-maintain-output-cuts-edfc9f92)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T00:25:00+00:00
+
+Oil edged higher in the early Asian session, buoyed by the OPEC+ decision to maintain output cuts.
+
+## Gold Steady; May be Weighed by Technical Factors
+ - [https://www.wsj.com/articles/gold-steady-may-be-weighed-by-technical-factors-049f3aa7](https://www.wsj.com/articles/gold-steady-may-be-weighed-by-technical-factors-049f3aa7)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-04-04T00:13:00+00:00
+
+Gold was steady in the early Asian session, but may be weighed by technical factors following its recent rally, analysts said.
+

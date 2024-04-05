@@ -1,0 +1,198 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Traders Are Betting Millions That Trump Media 'Meme Stock' Will Tumble
+ - [https://news.slashdot.org/story/24/04/04/218207/traders-are-betting-millions-that-trump-media-meme-stock-will-tumble?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/04/04/218207/traders-are-betting-millions-that-trump-media-meme-stock-will-tumble?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T23:24:15.502127+00:00
+
+Many investors are lining up to bet on the collapse of former President Donald J. Trump's social media company, Trump Media &amp; Technology Group Corp., which made its stock market debut last week under the ticker "DJT." The stock has been called the "mother of all meme stocks" since it is highly volatile and there are no fundamental underpinnings. It's being valued at roughly 1,600 times its annual revenue, at Wednesday's closing price. "By comparison, the stock of Facebook's owner trades at about eight times revenues, and Google's owner trades at six times," notes Fast Company. The New York Times reports: Trump Media is the most "shorted" special purpose acquisition vehicle in the country, according to the financial data company S3 Partners. Short-sellers bet that the price of a stock will fall. They do that by borrowing shares of a company and selling them into the market, hoping to buy them back later at a lower price, before returning the shares to the lender and pocketing the d
+
+## Hospital Network Admin Used Fake Identity For 35 Years
+ - [https://it.slashdot.org/story/24/04/04/2122258/hospital-network-admin-used-fake-identity-for-35-years?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/04/04/2122258/hospital-network-admin-used-fake-identity-for-35-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T23:24:13.944259+00:00
+
+An anonymous reader writes: Could you imagine discovering that your identity had been used to take out fraudulent loans and when you tried to resolve the issue by providing your state ID and Social Security card you were instead arrested, charged with multiple felonies, jailed for over a year, incarcerated in a mental hospital and given psychotropic drugs, eventually to be released with a criminal record and a judge's order that you could no longer use your real name? As dystopian as this might sound, it actually happened. And it was only after the victim learned his oppressor worked for The University of Iowa Hospital and contacted their security department was the investigation taken seriously leading to the perpetrator's arrest. The Gazette reports: Matthew David Keirans, 58, was convicted of one count of false statement to a National Credit Union Administration insured institution -- punishable by up to 30 years in federal prison -- and one count of aggravated identity theft -- pu
+
+## A 'Law Firm' of AI Generated Lawyers Is Sending Fake Threats As an SEO Scam
+ - [https://tech.slashdot.org/story/24/04/04/2033254/a-law-firm-of-ai-generated-lawyers-is-sending-fake-threats-as-an-seo-scam?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/04/04/2033254/a-law-firm-of-ai-generated-lawyers-is-sending-fake-threats-as-an-seo-scam?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T22:18:26.584711+00:00
+
+An anonymous reader quotes a report from 404 Media: Last week, Ernie Smith, the publisher of the website Tedium, got a "copyright infringement notice" from a law firm called Commonwealth Legal: "We're reaching out on behalf of the Intellectual Property division of a notable entity, in relation to an image connected to our client," it read. [...] In this case, though, the email didn't demand that the photo be taken down or specifically threaten a lawsuit. Instead, it demanded that Smith place a "visible and clickable link" beneath the photo in question to a website called "tech4gods" or the law firm would "take action." Smith began looking into the law firm. And he found that Commonwealth Legal is not real, and that the images of its "lawyers" are AI generated.
+ 
+The threat to "activate the case No. 86342" is obviously nonsense. Beyond that, Commonwealth Legal's website looks generic and is full of stock photos, though I've seen a lot of generic template websites for real law firms. Al
+
+## Developer Hacks Denuvo DRM After Six Months of Detective Work and 2,000 Hooks
+ - [https://games.slashdot.org/story/24/04/04/2045242/developer-hacks-denuvo-drm-after-six-months-of-detective-work-and-2000-hooks?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/04/04/2045242/developer-hacks-denuvo-drm-after-six-months-of-detective-work-and-2000-hooks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T22:18:25.064451+00:00
+
+After six months of work, DRM developer Maurice Heumann successfully cracked Hogwarts Legacy's Denuvo DRM protection system to learn more about the technology. According to Tom's Hardware, he's "left plenty of the details of his work vague so as not to promote illegal cracking." From the report: Heumann reveals in his blog post that Denuvo utilizes several different methods to ensure that Hogwarts Legacy is being run under appropriate (legal) conditions. First, the DRM creates a "fingerprint" of the game owner's system, and a Steam Ticket is used to prove game ownership. The Steam ticket is sent to the Steam servers to ensure the game was legitimately purchased. Heumann notes that he doesn't technically know what the Steam servers are doing but says this assumption should be accurate enough to understand how Denuvo works.
+ 
+Once the Steam ticket is verified, a Denuovo Token is generated that only works on a PC with the exact fingerprint. This token is used to decrypt certain values wh
+
+## PCIe 7.0 On Track For a 2025 Release
+ - [https://it.slashdot.org/story/24/04/04/1932240/pcie-70-on-track-for-a-2025-release?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/04/04/1932240/pcie-70-on-track-for-a-2025-release?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T21:13:22.233750+00:00
+
+An anonymous reader shares a PC Gamer report: PCI Express 7.0 is coming. But don't feel as though you need to start saving for a new motherboard anytime soon. The PCI-SIG has just released the 0.5 version, with the final version set for release in 2025. That means supporting devices are not likely to land until 2026, with 2027-28 likely to be the years we see a wider rollout. PCIe 7.0 will initially be far more relevant to the enterprise market, where bandwidth-hungry applications like AI and networking will benefit. Anyway, it's not like the PC market is saturated with PCIe 5.0 devices, and PCIe 6.0 is yet to make its way into our gaming PCs. 
+
+PCI Express bandwidth doubles every generation, so PCIe 7.0 will deliver a maximum data rate up to 128 GT/s. That's a whopping 8x faster than PCIe 4.0 and 4x faster than PCIe 5.0. This means PCIe 7.0 is capable of delivering up to 512GB/s of bi-directional throughput via a x16 connection and 128GB/s for an x4 connection. More bandwidth will ce
+
+## German State Moving Tens of Thousands of PCs To Linux and LibreOffice
+ - [https://linux.slashdot.org/story/24/04/04/1920219/german-state-moving-tens-of-thousands-of-pcs-to-linux-and-libreoffice?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://linux.slashdot.org/story/24/04/04/1920219/german-state-moving-tens-of-thousands-of-pcs-to-linux-and-libreoffice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T20:09:07.462173+00:00
+
+The Document Foundation: Following a successful pilot project, the northern German federal state of Schleswig-Holstein has decided to move from Microsoft Windows and Microsoft Office to Linux and LibreOffice (and other free and open source software) on the 30,000 PCs used in the local government. As reported on the homepage of the Minister-President: "Independent, sustainable, secure: Schleswig-Holstein will be a digital pioneer region and the first German state to introduce a digitally sovereign IT workplace in its state administration. With a cabinet decision to introduce the open-source software LibreOffice as the standard office solution across the board, the government has given the go-ahead for the first step towards complete digital sovereignty in the state, with further steps to follow."<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=German+State+Moving+Tens+of+Thousands+of+PCs+To+Linux+and+LibreOffice%3A+https%3A%2F%2Flinux.slashdot.
+
+## YouTube Says OpenAI Training Sora With Its Videos Would Break Rules
+ - [https://news.slashdot.org/story/24/04/04/1939244/youtube-says-openai-training-sora-with-its-videos-would-break-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/04/04/1939244/youtube-says-openai-training-sora-with-its-videos-would-break-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T20:09:05.942988+00:00
+
+The use of YouTube videos to train OpenAI's text-to-video generator would be an infraction of the platform's terms of service, YouTube Chief Executive Officer Neal Mohan said. Bloomberg: In his first public remarks on the topic, Mohan said he had no firsthand knowledge of whether OpenAI had, in fact, used YouTube videos to refine its artificial intelligence-powered video creation tool, called Sora. But if that were the case, it would be a "clear violation" of YouTube's terms of use, he said. 
+
+"From a creator's perspective, when a creator uploads their hard work to our platform, they have certain expectations," Mohan said Thursday. "One of those expectations is that the terms of service is going to be abided by. It does not allow for things like transcripts or video bits to be downloaded, and that is a clear violation of our terms of service. Those are the rules of the road in terms of content on our platform."<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.
+
+## Disney Will Crack Down on Password Sharing in June
+ - [https://entertainment.slashdot.org/story/24/04/04/1752238/disney-will-crack-down-on-password-sharing-in-june?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/24/04/04/1752238/disney-will-crack-down-on-password-sharing-in-june?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T19:04:15.101642+00:00
+
+Disney said Thursday it planned to crack down on password sharing [non-paywalled link] for its streaming services starting with a few countries in June before implementing a wider rollout in September. From a report: Disney Chief Executive Bob Iger unveiled the timeline to limit password sharing in a CNBC interview Thursday morning, a day after the company defeated activist Nelson Peltz in a bruising proxy fight. Iger didn't say which countries would be first. 
+
+The company for months has said a crackdown was coming as it looks to cut costs and make Disney+ and Hulu profitable. Since Iger returned as CEO in 2022, the company has trimmed its streaming losses. Iger said the company is on track to have a profitable streaming business by the fourth quarter this year. "That's a huge, huge improvement," he said on CNBC. "Now what we have to do is turn it not just into a profitable business, into a growth business."<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.co
+
+## Google Books Is Indexing AI-Generated Garbage
+ - [https://slashdot.org/story/24/04/04/1853248/google-books-is-indexing-ai-generated-garbage?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/04/04/1853248/google-books-is-indexing-ai-generated-garbage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T19:04:12.874109+00:00
+
+Google Books is indexing low quality, AI-generated books that will turn up in search results, and could possibly impact Google Ngram viewer, an important tool used by researchers to track language use throughout history. From a report: I was able to find the AI-generated books with the same method we've previously used to find AI-generated Amazon product reviews, papers published in academic journals, and online articles. Searching Google Books for the term "As of my last knowledge update," which is associated with ChatGPT-generated answers, returns dozens of books that include that phrase. Some of the books are about ChatGPT, machine learning, AI, and other related subjects and include the phrase because they are discussing ChatGPT and its outputs. These books appear to be written by humans. However, most of the books in the first eight pages of results turned up by the search appear to be AI-generated and are not about AI. 
+
+For example, the 2024 book Bears, Bulls, and Wolves: Stock
+
+## Microsoft Edge Will Let You Control How Much RAM It Uses Soon
+ - [https://it.slashdot.org/story/24/04/04/1652236/microsoft-edge-will-let-you-control-how-much-ram-it-uses-soon?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/04/04/1652236/microsoft-edge-will-let-you-control-how-much-ram-it-uses-soon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T17:58:50.104539+00:00
+
+Microsoft is working on a new feature for its Edge browser that will let you limit the amount of RAM it uses. From a report: Leopeva64, who is one of the best at finding new Edge features, has spotted a new settings section in test builds of the browser that includes a slider so you can limit how much RAM Edge gets access to. The RAM slider appears to be targeted toward PC gamers, as there is a setting in Canary versions of Edge that lets you limit the amount of RAM when you're playing a PC game or all of the time. While the slider lets you pick between just 1GB and 16GB on a system with 16GB of RAM, Microsoft warns that "setting a low limit may impact browser speed."<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Microsoft+Edge+Will+Let+You+Control+How+Much+RAM+It+Uses+Soon%3A+https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F04%2F04%2F1652236%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png
+
+## New 3D Cosmic Map Raises Questions Over Future of Universe, Scientists Say
+ - [https://science.slashdot.org/story/24/04/04/167210/new-3d-cosmic-map-raises-questions-over-future-of-universe-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/04/04/167210/new-3d-cosmic-map-raises-questions-over-future-of-universe-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T16:53:53.297770+00:00
+
+The biggest ever 3D map of the universe, featuring more than 6m galaxies, has been revealed by scientists who said it raised questions about the nature of dark energy and the future of the universe. From a report: The map is based on data collected by the Dark Energy Spectroscopic Instrument (Desi) in Arizona and contains three times as many galaxies as previous efforts, with many having their distances measured for the first time. Researchers said that by using this map, they have been able measure how fast the universe has been expanding at different times in the past with unprecedented accuracy. 
+
+The results confirm that the expansion of the universe is speeding up, they added. However, the findings have also raised the tantalising possibility that dark energy -- a mysterious, repulsive force that drives the process -- is not constant throughout time as has previously been suggested. Dr Seshadri Nadathur, a co-author of the work and senior research fellow at the University of Port
+
+## Amazon Still Has a Serious Plastic Waste Problem in the US
+ - [https://news.slashdot.org/story/24/04/04/1643214/amazon-still-has-a-serious-plastic-waste-problem-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/04/04/1643214/amazon-still-has-a-serious-plastic-waste-problem-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T16:53:51.467762+00:00
+
+Despite making pledges to cut down on plastic packaging, a new report from the nonprofit conservation organization Oceana estimates that Amazon's plastic waste has continued to grow in the US. From a report: The company created 208 million pounds of plastic waste from its packaging in the US in 2022 alone, which Oceana says is enough trash to circle Earth more than 200 times in the form of plastic air pillows. That's a nearly 10 percent jump from the amount of plastic waste it generated the year before, according to the report. The US is a worrying outlier for Amazon, Oceana says. Globally, the e-commerce giant says that it reduced its use of plastic packaging 11.6 percent in 2022 compared to the prior year. But the US is the company's biggest market, and Oceana argues it's where Amazon needs to make a lot more progress.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Amazon+Still+Has+a+Serious+Plastic+Waste+Problem+in+the+US%3A+https%3A%2F%2F
+
+## Amazon Sellers Plagued by Surge in Scam Returns
+ - [https://slashdot.org/story/24/04/04/1525233/amazon-sellers-plagued-by-surge-in-scam-returns?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/04/04/1525233/amazon-sellers-plagued-by-surge-in-scam-returns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T15:49:32.677808+00:00
+
+An anonymous reader shares a report: Amazon has built one of the world's most efficient delivery systems. Yet people regularly ship junk back to sellers and claim they are returns, often with little to no penalty, merchants say. Amazon has long believed in a system based on pleasing customers above all, including easy returns, but that ethos has hurt the merchants who make up most of its online sales. 
+
+Return theft represents one sore point in what has become an often contentious relationship between Amazon and its independent sellers. The Federal Trade Commission's continuing lawsuit against the retail giant deals in part with how the company treats its sellers. Amazon is also facing new competition for its merchants from other e-commerce firms. 
+
+The National Retail Federation says return fraud has become a "major issue for our industry." About 13.7% of returns in 2023 were fraudulent, accounting for $101 billion in overall losses for retailers, the federation said. As more consume
+
+## Only 57 Companies Produced 80% of Global Carbon Dioxide
+ - [https://news.slashdot.org/story/24/04/04/141214/only-57-companies-produced-80-of-global-carbon-dioxide?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/04/04/141214/only-57-companies-produced-80-of-global-carbon-dioxide?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T14:43:45.379226+00:00
+
+Last year was the hottest on record and the Earth is headed towards a global warming of 2.7 degrees, yet top fossil fuel and cement producers show a disregard for climate change and actively make things worse. From a report: A new Carbon Majors Database report found that just 57 companies were responsible for 80 percent of the global carbon dioxide emissions between 2016 and 2022. Thirty-eight percent of total emissions during this period came from nation-states, 37 percent from state-owned entities and 25 percent from investor-owned companies. 
+
+Nearly 200 parties adopted the 2015 Paris Agreement, committing to reduce greenhouse gas emissions. However, 58 of the 100 state- and investor-owned companies in the Carbon Majors Database have increased their production in the years since (The Climate Accountability Institute launched Carbon Majors in 2013 to hold fossil fuel producers accountable and is hosted by InfluenceMap). This number represents producers worldwide, including 87 percen
+
+## Google Weighs Offer for $32 Billion Marketing Firm HubSpot
+ - [https://tech.slashdot.org/story/24/04/04/1410250/google-weighs-offer-for-32-billion-marketing-firm-hubspot?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/04/04/1410250/google-weighs-offer-for-32-billion-marketing-firm-hubspot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T14:43:43.900424+00:00
+
+Google parent Alphabet has been talking to its advisers about the possibility of making an offer for HubSpot, an online marketing software company with a market value of $32 billion, Reuters reported Thursday, citing people familiar with the matter. From the report: If Alphabet moves ahead with an offer, it would be a rare example of a major technology company attempting a mega deal amid heightened regulatory scrutiny of the sector under U.S. President Joe Biden's administration. 
+
+The potential deal would also allow Alphabet to put some of its cash pile, which reached $110.9 billion as of the end of December, to work.
+Alphabet has met with Morgan Stanley investment bankers in recent days about a potential offer for HubSpot, the sources said. It has been discussing how much it should offer and whether antitrust regulators would clear such a tie-up, the sources added.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Google+Weighs+Offer+for+%2432
+
+## Google Considers Charging For AI-Powered Search
+ - [https://search.slashdot.org/story/24/04/04/0233236/google-considers-charging-for-ai-powered-search?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://search.slashdot.org/story/24/04/04/0233236/google-considers-charging-for-ai-powered-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T13:38:27.888859+00:00
+
+An anonymous reader quotes a report from the Financial Times: Google is considering charging for new "premium" features powered by generative artificial intelligence, in what would be the biggest ever shake-up of its search business. The proposed revamp to its cash cow search engine would mark the first time the company has put any of its core product behind a paywall, and shows it is still grappling with a technology that threatens its advertising business, almost a year and a half after the debut of ChatGPT. Google is looking at options including adding certain AI-powered search features to its premium subscription services, which already offer access to its new Gemini AI assistant in Gmail and Docs, according to three people with knowledge of its plans. Engineers are developing the technology needed to deploy the service but executives have not yet made a final decision on whether or when to launch it, one of the people said. Google's traditional search engine would remain free of 
+
+## Are Your Solar Eclipse Glasses Fake?
+ - [https://science.slashdot.org/story/24/04/04/0225250/are-your-solar-eclipse-glasses-fake?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/04/04/0225250/are-your-solar-eclipse-glasses-fake?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T10:23:39.756783+00:00
+
+SonicSpike shares a report from Scientific American: A day after the American Astronomical Society (AAS) announced that there were no signs of unsafe eclipse glasses or other solar viewers on the market in early March, astronomer and science communicator Rick Fienberg received an alarming call. Fienberg is project manager of the AAS Solar Eclipse Task Force, which is busy preparing for the total eclipse over North America on April 8. He's the creator of a list of vetted solar filters and viewers that will protect wearers' eyes as they watch the moon move in front of the sun. When a solar eclipse last crossed a major swath of the U.S. in 2017, Fienberg and his team spotted some counterfeit glasses entering the marketplace -- imitations that distributors claimed were manufactured by vetted companies. Testing at accredited labs indicated that many counterfeits were actually safe to use, however. This led the task force to describe such eclipse glasses as "misleading" but not "dangerous" 
+
+## NASA Picks 3 Companies to Help Astronauts Drive Around the Moon
+ - [https://science.slashdot.org/story/24/04/04/0212212/nasa-picks-3-companies-to-help-astronauts-drive-around-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/04/04/0212212/nasa-picks-3-companies-to-help-astronauts-drive-around-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T07:14:35.168084+00:00
+
+NASA announced on Wednesday that they have selected three companies to develop preliminary designs for vehicles to take astronauts around the south polar region of the Moon. "After the astronauts return to Earth, these vehicles would be able to self-drive around as robotic explorers, similar to NASA's rovers on Mars," reports the New York Times. "The self-driving capability would also allow the vehicle to meet the next astronaut mission at a different location." From the report: The companies are Intuitive Machines of Houston, which in February successfully landed a robotic spacecraft on the moon; Lunar Outpost of Golden, Colo.; and Venturi Astrolab of Hawthorne, Calif. Only one of the three will actually build a vehicle for NASA and send it to the moon. NASA had asked for proposals of what it called the lunar terrain vehicle, or L.T.V., that could drive at speeds up to 9.3 miles per hour, travel a dozen miles on a single charge and allow astronauts to drive around for eight hours. Th
+
+## Groundbreaking Trial To Grow 'Mini Liver' From Patient's Own Lymph Node
+ - [https://science.slashdot.org/story/24/04/04/025249/groundbreaking-trial-to-grow-mini-liver-from-patients-own-lymph-node?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/04/04/025249/groundbreaking-trial-to-grow-mini-liver-from-patients-own-lymph-node?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T03:46:10.419879+00:00
+
+An anonymous reader quotes a report from InterestingEngineering: A Pittsburgh-based biotech company has started a one-of-a-kind trial in a patient with a failing liver. Their goal is to grow a functional second liver within the patient's body -- something never achieved before. If effective, it might be a life-saving therapy for those who require liver transplants but have to wait months for a compatible donor organ. LyGenesis is currently carrying out a trial in only one patient with end-stage liver disease (ESLD) to test the efficacy of their allogenic regenerative cell therapy. As per Nature, the experimental procedure was conducted in Houston on March 25. The report also states that the patient is "recovering well" after receiving the treatment. However, the formation of the new liver-like organ in the lymph node may take several months. Moreover, the individual will be kept on immunosuppressive drugs to prevent any initial rejection of the donor cells. The physicians will continu
+
+## Scientists Complete Construction of the Biggest Digital Camera Ever
+ - [https://science.slashdot.org/story/24/04/04/0157236/scientists-complete-construction-of-the-biggest-digital-camera-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/04/04/0157236/scientists-complete-construction-of-the-biggest-digital-camera-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T02:40:49.690167+00:00
+
+Isaac Schultz reports via Gizmodo: Nine years and 3.2 billion pixels later, it is complete: the LSST Camera stands as the largest digital camera ever built for astronomy and will serve as the centerpiece of the Vera Rubin Observatory, poised to begin its exploration of the southern skies. The Rubin Observatory's key goal is the 10-year Legacy Survey of Space and Time (LSST), a sweeping, near-constant observation of space. This endeavor will yield 60 petabytes of data on the composition of the universe, the nature and distribution of dark matter, dark energy and the expansion of the universe, the formation of our galaxy, our intimate little solar system, and more. The camera will use its 5.1-foot-wide optical lens to take a 15-second exposure of the sky every 20 seconds, automatically changing filters to view light in every wavelength from near-ultraviolet to the near-infrared. Its constant monitoring of the skies will eventually amount to a timelapse of the heavens; it will highlight 
+
+## Stability AI Reportedly Ran Out of Cash To Pay Its Bills For Rented Cloud GPUs
+ - [https://slashdot.org/story/24/04/03/228209/stability-ai-reportedly-ran-out-of-cash-to-pay-its-bills-for-rented-cloud-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/04/03/228209/stability-ai-reportedly-ran-out-of-cash-to-pay-its-bills-for-rented-cloud-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T01:36:07.958304+00:00
+
+An anonymous reader writes: The massive GPU clusters needed to train Stability AI's popular text-to-image generation model Stable Diffusion are apparently also at least partially responsible for former CEO Emad Mostaque's downfall -- because he couldn't find a way to pay for them. According to an extensive expose citing company documents and dozens of persons familiar with the matter, it's indicated that the British model builder's extreme infrastructure costs drained its coffers, leaving the biz with just $4 million in reserve by last October. Stability rented its infrastructure from Amazon Web Services, Google Cloud Platform, and GPU-centric cloud operator CoreWeave, at a reported cost of around $99 million a year. That's on top of the $54 million in wages and operating expenses required to keep the AI upstart afloat.
+ 
+What's more, it appears that a sizable portion of the cloudy resources Stability AI paid for were being given away to anyone outside the startup interested in experi
+
+## Feds Finally Decide To Do Something About Years-Old SS7 Spy Holes In Phone Networks
+ - [https://yro.slashdot.org/story/24/04/03/2230237/feds-finally-decide-to-do-something-about-years-old-ss7-spy-holes-in-phone-networks?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/04/03/2230237/feds-finally-decide-to-do-something-about-years-old-ss7-spy-holes-in-phone-networks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T01:36:05.742748+00:00
+
+Jessica Lyons reports via The Register: The FCC appears to finally be stepping up efforts to secure decades-old flaws in American telephone networks that are allegedly being used by foreign governments and surveillance outfits to remotely spy on and monitor wireless devices. At issue are the Signaling System Number 7 (SS7) and Diameter protocols, which are used by fixed and mobile network operators to enable interconnection between networks. They are part of the glue that holds today's telecommunications together. According to the US watchdog and some lawmakers, both protocols include security weaknesses that leave folks vulnerable to unwanted snooping. SS7's problems have been known about for years and years, as far back as at least 2008, and we wrote about them in 2010 and 2014, for instance. Little has been done to address these exploitable shortcomings.
+ 
+SS7, which was developed in the mid-1970s, can be potentially abused to track people's phones' locations; redirect calls and te
+
+## ChatGPT Customers Can Now Use AI To Edit DALL-E Images
+ - [https://slashdot.org/story/24/04/03/2222209/chatgpt-customers-can-now-use-ai-to-edit-dall-e-images?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/04/03/2222209/chatgpt-customers-can-now-use-ai-to-edit-dall-e-images?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-04T00:31:19.887080+00:00
+
+Paid ChatGPT users can now edit AI-generated images using text prompts from within ChatGPT. Axios reports: In a demo shared on X (formerly Twitter), OpenAI showed off the new capability, using it to add bows to a poodle's ears in an image created by DALL-E. DALL-E will also begin letting people choose the aspect ratio of the desired image as well as to add styles, such as "motion blur" or "solarpunk."<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=ChatGPT+Customers+Can+Now+Use+AI+To+Edit+DALL-E+Images%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F04%2F03%2F2222209%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F04%2F03%2F2222209%2Fchatgpt-customers-can-now-use-ai-to-edit-dall-e-images%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"><img src="https://a.fsdn.com/sd/facebook_ico
+
