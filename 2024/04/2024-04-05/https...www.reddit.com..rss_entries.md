@@ -1,0 +1,660 @@
+# Source:Reddit - Front Page, URL:https://www.reddit.com/.rss, language:en-US
+
+## I think this is best solution after Slovenian president praised Red Army
+ - [https://www.reddit.com/r/2visegrad4you/comments/1bwtix6/i_think_this_is_best_solution_after_slovenian](https://www.reddit.com/r/2visegrad4you/comments/1bwtix6/i_think_this_is_best_solution_after_slovenian)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T21:22:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/2visegrad4you/comments/1bwtix6/i_think_this_is_best_solution_after_slovenian/"> <img alt="I think this is best solution after Slovenian president praised Red Army" src="https://preview.redd.it/7jb8b3hc8qsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=90ec95f6b621333446d88bfeff33d33702a91853" title="I think this is best solution after Slovenian president praised Red Army" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Charming_Sink_3577"> /u/Charming_Sink_3577 </a> &#32; to &#32; <a href="https://www.reddit.com/r/2visegrad4you/"> r/2visegrad4you </a> <br /> <span><a href="https://i.redd.it/7jb8b3hc8qsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/2visegrad4you/comments/1bwtix6/i_think_this_is_best_solution_after_slovenian/">[comments]</a></span> </td></tr></table>
+
+## Square Enix reportedly didn't want Life is Strange: True Colors to be thought of as the 'gay game'
+ - [https://www.reddit.com/r/gaming/comments/1bwrbol/square_enix_reportedly_didnt_want_life_is_strange](https://www.reddit.com/r/gaming/comments/1bwrbol/square_enix_reportedly_didnt_want_life_is_strange)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T19:53:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1bwrbol/square_enix_reportedly_didnt_want_life_is_strange/"> <img alt="Square Enix reportedly didn't want Life is Strange: True Colors to be thought of as the 'gay game'" src="https://external-preview.redd.it/ZMParKLf6eJzzHEtcZ0tQGA1rQyDMUW0snhqic-2ov8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4bc19de26b60017f2c34605fa6e97041a3375dd" title="Square Enix reportedly didn't want Life is Strange: True Colors to be thought of as the 'gay game'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bob_Juan_Santos"> /u/Bob_Juan_Santos </a> &#32; to &#32; <a href="https://www.reddit.com/r/gaming/"> r/gaming </a> <br /> <span><a href="https://www.pcgamer.com/games/adventure/square-enix-didnt-want-life-is-strange-true-colors-to-be-thought-of-as-the-gay-game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1bwrbol/square_enix_reportedly_didnt_want_life_is_strange/
+
+## if i have to peel and dice sweet potatoes, add 1 hour to the recipe
+ - [https://www.reddit.com/r/tumblr/comments/1bwqgqj/if_i_have_to_peel_and_dice_sweet_potatoes_add_1](https://www.reddit.com/r/tumblr/comments/1bwqgqj/if_i_have_to_peel_and_dice_sweet_potatoes_add_1)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T19:17:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/tumblr/comments/1bwqgqj/if_i_have_to_peel_and_dice_sweet_potatoes_add_1/"> <img alt="if i have to peel and dice sweet potatoes, add 1 hour to the recipe" src="https://preview.redd.it/fto6vnpqnpsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33beba8a8be2ab489fd78fb77447253d1cd674ca" title="if i have to peel and dice sweet potatoes, add 1 hour to the recipe" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheDustOfMen"> /u/TheDustOfMen </a> &#32; to &#32; <a href="https://www.reddit.com/r/tumblr/"> r/tumblr </a> <br /> <span><a href="https://i.redd.it/fto6vnpqnpsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/tumblr/comments/1bwqgqj/if_i_have_to_peel_and_dice_sweet_potatoes_add_1/">[comments]</a></span> </td></tr></table>
+
+## Polska Lewica W Prawdziwym Życiu (Domu)
+ - [https://www.reddit.com/r/Polska_wpz/comments/1bwqfg0/polska_lewica_w_prawdziwym_życiu_domu](https://www.reddit.com/r/Polska_wpz/comments/1bwqfg0/polska_lewica_w_prawdziwym_życiu_domu)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T19:15:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska_wpz/comments/1bwqfg0/polska_lewica_w_prawdziwym_życiu_domu/"> <img alt="Polska Lewica W Prawdziwym Życiu (Domu)" src="https://preview.redd.it/s1b139janpsc1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8e81d0328189c4e725372e15725952d7bf189f2f" title="Polska Lewica W Prawdziwym Życiu (Domu)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KochamPamietnik2004"> /u/KochamPamietnik2004 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska_wpz/"> r/Polska_wpz </a> <br /> <span><a href="https://i.redd.it/s1b139janpsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska_wpz/comments/1bwqfg0/polska_lewica_w_prawdziwym_życiu_domu/">[comments]</a></span> </td></tr></table>
+
+## $15k bike left unattended in Singapore
+ - [https://www.reddit.com/r/interestingasfuck/comments/1bwprxk/15k_bike_left_unattended_in_singapore](https://www.reddit.com/r/interestingasfuck/comments/1bwprxk/15k_bike_left_unattended_in_singapore)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T18:48:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1bwprxk/15k_bike_left_unattended_in_singapore/"> <img alt="$15k bike left unattended in Singapore" src="https://preview.redd.it/tnkm39qkipsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c72c9d0d8ef99e3b7ae75c4c7a1247e18daf3d92" title="$15k bike left unattended in Singapore" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kaurblimey"> /u/Kaurblimey </a> &#32; to &#32; <a href="https://www.reddit.com/r/interestingasfuck/"> r/interestingasfuck </a> <br /> <span><a href="https://i.redd.it/tnkm39qkipsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1bwprxk/15k_bike_left_unattended_in_singapore/">[comments]</a></span> </td></tr></table>
+
+## Apparently, I'm the picky one (this went on longer than I cared to share)
+ - [https://www.reddit.com/r/mildlyinfuriating/comments/1bwpniq/apparently_im_the_picky_one_this_went_on_longer](https://www.reddit.com/r/mildlyinfuriating/comments/1bwpniq/apparently_im_the_picky_one_this_went_on_longer)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T18:43:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/mildlyinfuriating/comments/1bwpniq/apparently_im_the_picky_one_this_went_on_longer/"> <img alt="Apparently, I'm the picky one (this went on longer than I cared to share) " src="https://preview.redd.it/ascr5y0nhpsc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1916d77b57b47acc6bc71545b0d1fce576bad3b" title="Apparently, I'm the picky one (this went on longer than I cared to share) " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iaimtomisbehave151"> /u/iaimtomisbehave151 </a> &#32; to &#32; <a href="https://www.reddit.com/r/mildlyinfuriating/"> r/mildlyinfuriating </a> <br /> <span><a href="https://i.redd.it/ascr5y0nhpsc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/mildlyinfuriating/comments/1bwpniq/apparently_im_the_picky_one_this_went_on_longer/">[comments]</a></span> </td></tr></table>
+
+## Niefortunny tytuł
+ - [https://www.reddit.com/r/Polska/comments/1bwp85g/niefortunny_tytuł](https://www.reddit.com/r/Polska/comments/1bwp85g/niefortunny_tytuł)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T18:25:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bwp85g/niefortunny_tytuł/"> <img alt="Niefortunny tytuł" src="https://preview.redd.it/sf1gdqyhepsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c71cf749e90cceda0bd98d031410edf857d531be" title="Niefortunny tytuł" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wodny_troll"> /u/wodny_troll </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/sf1gdqyhepsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwp85g/niefortunny_tytuł/">[comments]</a></span> </td></tr></table>
+
+## The best thing about Honkai Star Rail is they're not afraid to let 4-stars be relevant, in combat, and in the story.
+ - [https://www.reddit.com/r/HonkaiStarRail/comments/1bwotkq/the_best_thing_about_honkai_star_rail_is_theyre](https://www.reddit.com/r/HonkaiStarRail/comments/1bwotkq/the_best_thing_about_honkai_star_rail_is_theyre)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T18:08:51+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/HellsKitchenSink"> /u/HellsKitchenSink </a> &#32; to &#32; <a href="https://www.reddit.com/r/HonkaiStarRail/"> r/HonkaiStarRail </a> <br /> <span><a href="https://www.reddit.com/gallery/1bwotkq">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/HonkaiStarRail/comments/1bwotkq/the_best_thing_about_honkai_star_rail_is_theyre/">[comments]</a></span>
+
+## Can't believe my view on the plane
+ - [https://www.reddit.com/r/mildlyinfuriating/comments/1bwoo4j/cant_believe_my_view_on_the_plane](https://www.reddit.com/r/mildlyinfuriating/comments/1bwoo4j/cant_believe_my_view_on_the_plane)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T18:02:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/mildlyinfuriating/comments/1bwoo4j/cant_believe_my_view_on_the_plane/"> <img alt="Can't believe my view on the plane" src="https://b.thumbs.redditmedia.com/r6WfJn2vVQclQI_necUdGBLmycjXtt1Lum6dw_B_Pik.jpg" title="Can't believe my view on the plane" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Full on make out too. It was like this the whole 4 hour flight. 😆😆</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ReBol2n"> /u/ReBol2n </a> &#32; to &#32; <a href="https://www.reddit.com/r/mildlyinfuriating/"> r/mildlyinfuriating </a> <br /> <span><a href="https://www.reddit.com/gallery/1bwoo4j">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/mildlyinfuriating/comments/1bwoo4j/cant_believe_my_view_on_the_plane/">[comments]</a></span> </td></tr></table>
+
+## Mourn our Polish bird brother
+ - [https://www.reddit.com/r/2visegrad4you/comments/1bwnueq/mourn_our_polish_bird_brother](https://www.reddit.com/r/2visegrad4you/comments/1bwnueq/mourn_our_polish_bird_brother)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T17:28:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/2visegrad4you/comments/1bwnueq/mourn_our_polish_bird_brother/"> <img alt="Mourn our Polish bird brother" src="https://external-preview.redd.it/a2Izc3pqMGY0cHNjMSqD9jTvyQyMXrithHnFx2HtWdKBcc9aNP-jKzI_jnrA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d149b3d75acc6972963cd15a42a3dbace99dc44" title="Mourn our Polish bird brother" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ogurasyn"> /u/Ogurasyn </a> &#32; to &#32; <a href="https://www.reddit.com/r/2visegrad4you/"> r/2visegrad4you </a> <br /> <span><a href="https://v.redd.it/47qbl06f4psc1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/2visegrad4you/comments/1bwnueq/mourn_our_polish_bird_brother/">[comments]</a></span> </td></tr></table>
+
+## Gave my 9 year old daughter my old DSLR camera last summer, and I am now only going through them.
+ - [https://www.reddit.com/r/pics/comments/1bwnt79/gave_my_9_year_old_daughter_my_old_dslr_camera](https://www.reddit.com/r/pics/comments/1bwnt79/gave_my_9_year_old_daughter_my_old_dslr_camera)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T17:27:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/pics/comments/1bwnt79/gave_my_9_year_old_daughter_my_old_dslr_camera/"> <img alt="Gave my 9 year old daughter my old DSLR camera last summer, and I am now only going through them." src="https://a.thumbs.redditmedia.com/afojuaQt-lOT4C-enNuJPPOT8ApGbXAToxUQ6-BY6d8.jpg" title="Gave my 9 year old daughter my old DSLR camera last summer, and I am now only going through them." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hotdogmaggot"> /u/hotdogmaggot </a> &#32; to &#32; <a href="https://www.reddit.com/r/pics/"> r/pics </a> <br /> <span><a href="https://www.reddit.com/gallery/1bwnt79">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pics/comments/1bwnt79/gave_my_9_year_old_daughter_my_old_dslr_camera/">[comments]</a></span> </td></tr></table>
+
+## Autorytety kandydata Lewicy: Putin, Mugabe i Thatcher
+ - [https://www.reddit.com/r/Polska/comments/1bwnsle/autorytety_kandydata_lewicy_putin_mugabe_i](https://www.reddit.com/r/Polska/comments/1bwnsle/autorytety_kandydata_lewicy_putin_mugabe_i)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T17:26:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bwnsle/autorytety_kandydata_lewicy_putin_mugabe_i/"> <img alt="Autorytety kandydata Lewicy: Putin, Mugabe i Thatcher" src="https://b.thumbs.redditmedia.com/HojjUsC8qJrLN2SoubR6KoM_ztnNDNdke13Xey__COU.jpg" title="Autorytety kandydata Lewicy: Putin, Mugabe i Thatcher" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/betraying_chino"> /u/betraying_chino </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://www.reddit.com/gallery/1bwnsle">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwnsle/autorytety_kandydata_lewicy_putin_mugabe_i/">[comments]</a></span> </td></tr></table>
+
+## [NSFW] Violence in the Russian society - Tapik
+ - [https://www.reddit.com/r/poland/comments/1bwnnys/nsfw_violence_in_the_russian_society_tapik](https://www.reddit.com/r/poland/comments/1bwnnys/nsfw_violence_in_the_russian_society_tapik)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T17:21:22+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/MakeoverBelly"> /u/MakeoverBelly </a> &#32; to &#32; <a href="https://www.reddit.com/r/poland/"> r/poland </a> <br /> <span><a href="https://v.redd.it/1eeluhwb2psc1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/poland/comments/1bwnnys/nsfw_violence_in_the_russian_society_tapik/">[comments]</a></span>
+
+## TIL When former Auschwitz commander Rudolf Höss was accused at his trial of murdering three and a half million people, he replied, "No. Only two and one half million—the rest died from disease and starvation."
+ - [https://www.reddit.com/r/todayilearned/comments/1bwn6rk/til_when_former_auschwitz_commander_rudolf_höss](https://www.reddit.com/r/todayilearned/comments/1bwn6rk/til_when_former_auschwitz_commander_rudolf_höss)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T17:01:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/todayilearned/comments/1bwn6rk/til_when_former_auschwitz_commander_rudolf_höss/"> <img alt="TIL When former Auschwitz commander Rudolf Höss was accused at his trial of murdering three and a half million people, he replied, &quot;No. Only two and one half million—the rest died from disease and starvation.&quot;" src="https://external-preview.redd.it/Ifm_AcdQaPGDFXWsOoi7iU-rTdeyKw7e5u2UBjAy2vk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df5b4116d51d981ed862ae48a44aa028ea564519" title="TIL When former Auschwitz commander Rudolf Höss was accused at his trial of murdering three and a half million people, he replied, &quot;No. Only two and one half million—the rest died from disease and starvation.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EducationalCicada"> /u/EducationalCicada </a> &#32; to &#32; <a href="https://www.reddit.com/r/todayilearned/"> r/todayilearned </a> <br /> <span><a href=
+
+## “F”
+ - [https://www.reddit.com/r/shitposting/comments/1bwmr73/f](https://www.reddit.com/r/shitposting/comments/1bwmr73/f)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T16:43:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/1bwmr73/f/"> <img alt="“F” " src="https://preview.redd.it/17tcj4fewosc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f44d92d4f53fdb8e4506f63fee705d01e4ec897f" title="“F” " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kosechi"> /u/Kosechi </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/17tcj4fewosc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/1bwmr73/f/">[comments]</a></span> </td></tr></table>
+
+## Biedronka wchodzi na wyższy poziom.
+ - [https://www.reddit.com/r/Polska/comments/1bwmkis/biedronka_wchodzi_na_wyższy_poziom](https://www.reddit.com/r/Polska/comments/1bwmkis/biedronka_wchodzi_na_wyższy_poziom)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T16:36:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bwmkis/biedronka_wchodzi_na_wyższy_poziom/"> <img alt="Biedronka wchodzi na wyższy poziom." src="https://b.thumbs.redditmedia.com/u47uu0z4BNai1KkcHRDLs6NeVpVErnUvRY7Wez8hRGM.jpg" title="Biedronka wchodzi na wyższy poziom." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>W nowej promocji na cukier Biedronka nie informuje, że cena dotyczy dopiero przy zakupie pięciu sztuk. Nie jest to uczciwe.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mfcx99"> /u/mfcx99 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://www.reddit.com/gallery/1bwmkis">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwmkis/biedronka_wchodzi_na_wyższy_poziom/">[comments]</a></span> </td></tr></table>
+
+## It seems Ambassador Livne finally managed to force himself to apologize
+ - [https://www.reddit.com/r/poland/comments/1bwm6i8/it_seems_ambassador_livne_finally_managed_to](https://www.reddit.com/r/poland/comments/1bwm6i8/it_seems_ambassador_livne_finally_managed_to)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T16:20:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/poland/comments/1bwm6i8/it_seems_ambassador_livne_finally_managed_to/"> <img alt="It seems Ambassador Livne finally managed to force himself to apologize" src="https://external-preview.redd.it/ehgcscWQM_SgmuKtm-slUxGSrmdQhk2lAXOQkT6Is4c.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ce3b7a1dac7b5ad5970c3bb106c6caf7a2893f7d" title="It seems Ambassador Livne finally managed to force himself to apologize" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/antolleus"> /u/antolleus </a> &#32; to &#32; <a href="https://www.reddit.com/r/poland/"> r/poland </a> <br /> <span><a href="https://twitter.com/YacovLivne/status/1776229989437825194">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/poland/comments/1bwm6i8/it_seems_ambassador_livne_finally_managed_to/">[comments]</a></span> </td></tr></table>
+
+## Helldivers[9], what's your most reliably democratic primary weapon?
+ - [https://www.reddit.com/r/Helldivers/comments/1bwlpd0/helldivers9_whats_your_most_reliably_democratic](https://www.reddit.com/r/Helldivers/comments/1bwlpd0/helldivers9_whats_your_most_reliably_democratic)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T16:01:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Helldivers/comments/1bwlpd0/helldivers9_whats_your_most_reliably_democratic/"> <img alt="Helldivers[9], what's your most reliably democratic primary weapon?" src="https://preview.redd.it/nhzsestgoosc1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2dbda4d42f2092c158abdf5b9efb89be69ccda6b" title="Helldivers[9], what's your most reliably democratic primary weapon?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_DARVON_AI"> /u/_DARVON_AI </a> &#32; to &#32; <a href="https://www.reddit.com/r/Helldivers/"> r/Helldivers </a> <br /> <span><a href="https://i.redd.it/nhzsestgoosc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Helldivers/comments/1bwlpd0/helldivers9_whats_your_most_reliably_democratic/">[comments]</a></span> </td></tr></table>
+
+## Mnie przekonał
+ - [https://www.reddit.com/r/Polska/comments/1bwlno2/mnie_przekonał](https://www.reddit.com/r/Polska/comments/1bwlno2/mnie_przekonał)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T15:59:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bwlno2/mnie_przekonał/"> <img alt="Mnie przekonał " src="https://preview.redd.it/mp8mzweioosc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5bc5e932a004ec7b49c1974bf64c49631805e95c" title="Mnie przekonał " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/realester453"> /u/realester453 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/mp8mzweioosc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwlno2/mnie_przekonał/">[comments]</a></span> </td></tr></table>
+
+## arle interruption resistance test via foul
+ - [https://www.reddit.com/r/Genshin_Impact_Leaks/comments/1bwlmfz/arle_interruption_resistance_test_via_foul](https://www.reddit.com/r/Genshin_Impact_Leaks/comments/1bwlmfz/arle_interruption_resistance_test_via_foul)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T15:58:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Genshin_Impact_Leaks/comments/1bwlmfz/arle_interruption_resistance_test_via_foul/"> <img alt="arle interruption resistance test via foul" src="https://external-preview.redd.it/esSOJeOmzQcWNTT-LVu6UEW5oHFisATcY6gNzh7UYpw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d5d289d418a061a3a42ee984b5134aa1264bd03" title="arle interruption resistance test via foul" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IcyPalpitation4553"> /u/IcyPalpitation4553 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Genshin_Impact_Leaks/"> r/Genshin_Impact_Leaks </a> <br /> <span><a href="https://streamable.com/5yu01p">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Genshin_Impact_Leaks/comments/1bwlmfz/arle_interruption_resistance_test_via_foul/">[comments]</a></span> </td></tr></table>
+
+## Roku is looking to integrate ads into third party devices on their TVs. The ads would play on your gaming consoles when you pause the game you are playing
+ - [https://www.reddit.com/r/gaming/comments/1bwllad/roku_is_looking_to_integrate_ads_into_third_party](https://www.reddit.com/r/gaming/comments/1bwllad/roku_is_looking_to_integrate_ads_into_third_party)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T15:57:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1bwllad/roku_is_looking_to_integrate_ads_into_third_party/"> <img alt="Roku is looking to integrate ads into third party devices on their TVs. The ads would play on your gaming consoles when you pause the game you are playing" src="https://external-preview.redd.it/knNB_RgivCm3xA3CPe5AmIcZLyCSQX_yWwTUU6-Rd6k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7db16743577688e3b46ccbc2f1865fc6d7e4fd21" title="Roku is looking to integrate ads into third party devices on their TVs. The ads would play on your gaming consoles when you pause the game you are playing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Seigmoraig"> /u/Seigmoraig </a> &#32; to &#32; <a href="https://www.reddit.com/r/gaming/"> r/gaming </a> <br /> <span><a href="https://www.engadget.com/roku-looks-into-serving-you-ads-on-whatever-you-plug-into-its-tvs-120016754.html?src=rss&amp;guccounter=1">[link]</a></span> &#32; <span>
+
+## She got exposed
+ - [https://www.reddit.com/r/facepalm/comments/1bwl4ty/she_got_exposed](https://www.reddit.com/r/facepalm/comments/1bwl4ty/she_got_exposed)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T15:38:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/facepalm/comments/1bwl4ty/she_got_exposed/"> <img alt="She got exposed" src="https://preview.redd.it/asa3l99okosc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8450b99ccaa70da1c7db1de356df6bba22aa19e4" title="She got exposed" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jreitmey"> /u/jreitmey </a> &#32; to &#32; <a href="https://www.reddit.com/r/facepalm/"> r/facepalm </a> <br /> <span><a href="https://i.redd.it/asa3l99okosc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/facepalm/comments/1bwl4ty/she_got_exposed/">[comments]</a></span> </td></tr></table>
+
+## True Story
+ - [https://www.reddit.com/r/discordVideos/comments/1bwl2tl/true_story](https://www.reddit.com/r/discordVideos/comments/1bwl2tl/true_story)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T15:35:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/discordVideos/comments/1bwl2tl/true_story/"> <img alt="True Story" src="https://external-preview.redd.it/aTFvazZrYjlrb3NjMaVb0BE_p7E4OolFlcNPnwHwHqrC2cUUvg0zCEX7ffYK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=96e03a6acb78a8d468abd38ff55a3c8e2e72a796" title="True Story" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OR56"> /u/OR56 </a> &#32; to &#32; <a href="https://www.reddit.com/r/discordVideos/"> r/discordVideos </a> <br /> <span><a href="https://v.redd.it/hcokx9wzjosc1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/discordVideos/comments/1bwl2tl/true_story/">[comments]</a></span> </td></tr></table>
+
+## This guy spent the ENTIRE concert in the front row on his phone reading manga.
+ - [https://www.reddit.com/r/mildlyinfuriating/comments/1bwkux0/this_guy_spent_the_entire_concert_in_the_front](https://www.reddit.com/r/mildlyinfuriating/comments/1bwkux0/this_guy_spent_the_entire_concert_in_the_front)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T15:26:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/mildlyinfuriating/comments/1bwkux0/this_guy_spent_the_entire_concert_in_the_front/"> <img alt="This guy spent the ENTIRE concert in the front row on his phone reading manga." src="https://preview.redd.it/7dsbhrfniosc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a32d7b52a9ebef01c9b3c7c0c2ad21f47b5dfb9" title="This guy spent the ENTIRE concert in the front row on his phone reading manga." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This was throughout both openers and even the headliner. He occasionally stopped to take a few photos or short video but then went right back to reading. What’s the point?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ZestyRanch1219"> /u/ZestyRanch1219 </a> &#32; to &#32; <a href="https://www.reddit.com/r/mildlyinfuriating/"> r/mildlyinfuriating </a> <br /> <span><a href="https://i.redd.it/7dsbhrfniosc1.jpeg">[link]</a></span> &#32; <span><a href="https:
+
+## No jail can hold me
+ - [https://www.reddit.com/r/comics/comments/1bwkt9d/no_jail_can_hold_me](https://www.reddit.com/r/comics/comments/1bwkt9d/no_jail_can_hold_me)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T15:24:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/comics/comments/1bwkt9d/no_jail_can_hold_me/"> <img alt="No jail can hold me" src="https://preview.redd.it/js0ii3laiosc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=77b5e605fa418fd107ab20b0e9afcc5c5eada7a7" title="No jail can hold me" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pizzacakecomic"> /u/Pizzacakecomic </a> &#32; to &#32; <a href="https://www.reddit.com/r/comics/"> r/comics </a> <br /> <span><a href="https://i.redd.it/js0ii3laiosc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/comics/comments/1bwkt9d/no_jail_can_hold_me/">[comments]</a></span> </td></tr></table>
+
+## How Europeans feel about other prominent leaders in the continent (Ipsos/Euronews)
+ - [https://www.reddit.com/r/europe/comments/1bwkrpt/how_europeans_feel_about_other_prominent_leaders](https://www.reddit.com/r/europe/comments/1bwkrpt/how_europeans_feel_about_other_prominent_leaders)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T15:23:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/europe/comments/1bwkrpt/how_europeans_feel_about_other_prominent_leaders/"> <img alt="How Europeans feel about other prominent leaders in the continent (Ipsos/Euronews)" src="https://b.thumbs.redditmedia.com/Ka_DwfSNchH832UL6H-DWD5Kh8_ERKfdss-AObj895w.jpg" title="How Europeans feel about other prominent leaders in the continent (Ipsos/Euronews)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdminEating_Dragon"> /u/AdminEating_Dragon </a> &#32; to &#32; <a href="https://www.reddit.com/r/europe/"> r/europe </a> <br /> <span><a href="https://www.reddit.com/gallery/1bwkrpt">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/europe/comments/1bwkrpt/how_europeans_feel_about_other_prominent_leaders/">[comments]</a></span> </td></tr></table>
+
+## Faker doesn't exist, who's the GOAT now?
+ - [https://www.reddit.com/r/leagueoflegends/comments/1bwko6a/faker_doesnt_exist_whos_the_goat_now](https://www.reddit.com/r/leagueoflegends/comments/1bwko6a/faker_doesnt_exist_whos_the_goat_now)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T15:19:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Let's say everything happened the way it is now, but there's no Faker as the 4-time world champion. Who would be the best player of all time?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/davinzt"> /u/davinzt </a> &#32; to &#32; <a href="https://www.reddit.com/r/leagueoflegends/"> r/leagueoflegends </a> <br /> <span><a href="https://www.reddit.com/r/leagueoflegends/comments/1bwko6a/faker_doesnt_exist_whos_the_goat_now/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/leagueoflegends/comments/1bwko6a/faker_doesnt_exist_whos_the_goat_now/">[comments]</a></span>
+
+## This happened 2 years ago and we're only hearing about it now....
+ - [https://www.reddit.com/r/facepalm/comments/1bwk1pn/this_happened_2_years_ago_and_were_only_hearing](https://www.reddit.com/r/facepalm/comments/1bwk1pn/this_happened_2_years_ago_and_were_only_hearing)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T14:53:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/facepalm/comments/1bwk1pn/this_happened_2_years_ago_and_were_only_hearing/"> <img alt="This happened 2 years ago and we're only hearing about it now...." src="https://preview.redd.it/9lhuzvrocosc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6498902d78eebd09ea429e9e1534cea787ca9ced" title="This happened 2 years ago and we're only hearing about it now...." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Lengthiness6724"> /u/Ok_Lengthiness6724 </a> &#32; to &#32; <a href="https://www.reddit.com/r/facepalm/"> r/facepalm </a> <br /> <span><a href="https://i.redd.it/9lhuzvrocosc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/facepalm/comments/1bwk1pn/this_happened_2_years_ago_and_were_only_hearing/">[comments]</a></span> </td></tr></table>
+
+## Partia razem w pigułce: pół kroku do przodu, dwa kroki wstecz...
+ - [https://www.reddit.com/r/Polska/comments/1bwjsfo/partia_razem_w_pigułce_pół_kroku_do_przodu_dwa](https://www.reddit.com/r/Polska/comments/1bwjsfo/partia_razem_w_pigułce_pół_kroku_do_przodu_dwa)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T14:42:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bwjsfo/partia_razem_w_pigułce_pół_kroku_do_przodu_dwa/"> <img alt="Partia razem w pigułce: pół kroku do przodu, dwa kroki wstecz..." src="https://preview.redd.it/23b1ogt6aosc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=82cce636e51f12ffe5d74b3a729a22b5c7402656" title="Partia razem w pigułce: pół kroku do przodu, dwa kroki wstecz..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoYouLike_Sand_AsIDo"> /u/DoYouLike_Sand_AsIDo </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/23b1ogt6aosc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwjsfo/partia_razem_w_pigułce_pół_kroku_do_przodu_dwa/">[comments]</a></span> </td></tr></table>
+
+## Female Kurdish sniper cheats death at hands of IS
+ - [https://www.reddit.com/r/interestingasfuck/comments/1bwjohx/female_kurdish_sniper_cheats_death_at_hands_of_is](https://www.reddit.com/r/interestingasfuck/comments/1bwjohx/female_kurdish_sniper_cheats_death_at_hands_of_is)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T14:38:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1bwjohx/female_kurdish_sniper_cheats_death_at_hands_of_is/"> <img alt="Female Kurdish sniper cheats death at hands of IS" src="https://external-preview.redd.it/Mm50dHBicnk5b3NjMelX9worEiCyLc7_BNSYX5QmRrlNUWbHHPN-iHGX2Gmw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=703eb0a1f9ebb2b94447bc3e2a22bbda124ade45" title="Female Kurdish sniper cheats death at hands of IS" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stunning-Pension7171"> /u/Stunning-Pension7171 </a> &#32; to &#32; <a href="https://www.reddit.com/r/interestingasfuck/"> r/interestingasfuck </a> <br /> <span><a href="https://v.redd.it/3jqest7y9osc1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1bwjohx/female_kurdish_sniper_cheats_death_at_hands_of_is/">[comments]</a></span> </td></tr></table>
+
+## Don’t do ‘speak with animals’ in the gauntlet of Shar.
+ - [https://www.reddit.com/r/BaldursGate3/comments/1bwioya/dont_do_speak_with_animals_in_the_gauntlet_of_shar](https://www.reddit.com/r/BaldursGate3/comments/1bwioya/dont_do_speak_with_animals_in_the_gauntlet_of_shar)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T13:56:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>That devil geezer is sexually abusing his pet, you only find out if you speak to the beast. </p> <p>Worst of all, the pet thinks she deserves to be treated this way.</p> <p>What the frick?!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Deviant-Night"> /u/Deviant-Night </a> &#32; to &#32; <a href="https://www.reddit.com/r/BaldursGate3/"> r/BaldursGate3 </a> <br /> <span><a href="https://www.reddit.com/r/BaldursGate3/comments/1bwioya/dont_do_speak_with_animals_in_the_gauntlet_of_shar/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/BaldursGate3/comments/1bwioya/dont_do_speak_with_animals_in_the_gauntlet_of_shar/">[comments]</a></span>
+
+## PiS chce znieść składkę zdrowotną, którą sami wprowadzili
+ - [https://www.reddit.com/r/Polska/comments/1bwi191/pis_chce_znieść_składkę_zdrowotną_którą_sami](https://www.reddit.com/r/Polska/comments/1bwi191/pis_chce_znieść_składkę_zdrowotną_którą_sami)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T13:28:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bwi191/pis_chce_znieść_składkę_zdrowotną_którą_sami/"> <img alt="PiS chce znieść składkę zdrowotną, którą sami wprowadzili" src="https://b.thumbs.redditmedia.com/H0qsJLS6gSgLlf5Pejxoc8qBUkqswRp70SdC7Nl-Nbg.jpg" title="PiS chce znieść składkę zdrowotną, którą sami wprowadzili" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/New-Recording-2564"> /u/New-Recording-2564 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://www.reddit.com/gallery/1bwi191">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwi191/pis_chce_znieść_składkę_zdrowotną_którą_sami/">[comments]</a></span> </td></tr></table>
+
+## Koledzy musimy iść na wybory
+ - [https://www.reddit.com/r/okkolegauposledzony/comments/1bwhv9a/koledzy_musimy_iść_na_wybory](https://www.reddit.com/r/okkolegauposledzony/comments/1bwhv9a/koledzy_musimy_iść_na_wybory)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T13:20:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/okkolegauposledzony/comments/1bwhv9a/koledzy_musimy_iść_na_wybory/"> <img alt="Koledzy musimy iść na wybory" src="https://preview.redd.it/eoro0f62wnsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=418ca82f890574aed2c6f7f7f3ec58992d765f85" title="Koledzy musimy iść na wybory" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/0nly0neb0ss"> /u/0nly0neb0ss </a> &#32; to &#32; <a href="https://www.reddit.com/r/okkolegauposledzony/"> r/okkolegauposledzony </a> <br /> <span><a href="https://i.redd.it/eoro0f62wnsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/okkolegauposledzony/comments/1bwhv9a/koledzy_musimy_iść_na_wybory/">[comments]</a></span> </td></tr></table>
+
+## 🦀🦀
+ - [https://www.reddit.com/r/shitposting/comments/1bwhsw2/_](https://www.reddit.com/r/shitposting/comments/1bwhsw2/_)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T13:17:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/1bwhsw2/_/"> <img alt="🦀🦀" src="https://preview.redd.it/r6zcqfdgvnsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81fbb46e7b8751b186a76b6ce966d89cdc998b98" title="🦀🦀" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/THE_CEO_OF_SEX_1"> /u/THE_CEO_OF_SEX_1 </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/r6zcqfdgvnsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/1bwhsw2/_/">[comments]</a></span> </td></tr></table>
+
+## Guess the champion
+ - [https://www.reddit.com/r/LeagueOfMemes/comments/1bwh3wj/guess_the_champion](https://www.reddit.com/r/LeagueOfMemes/comments/1bwh3wj/guess_the_champion)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T12:44:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/LeagueOfMemes/comments/1bwh3wj/guess_the_champion/"> <img alt="Guess the champion" src="https://preview.redd.it/z41hp0dppnsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de1b93c1c7f06a93f3afab53f3b6f939bb276052" title="Guess the champion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/octobersveryown616"> /u/octobersveryown616 </a> &#32; to &#32; <a href="https://www.reddit.com/r/LeagueOfMemes/"> r/LeagueOfMemes </a> <br /> <span><a href="https://i.redd.it/z41hp0dppnsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LeagueOfMemes/comments/1bwh3wj/guess_the_champion/">[comments]</a></span> </td></tr></table>
+
+## Double standards
+ - [https://www.reddit.com/r/shitposting/comments/1bwgxdb/double_standards](https://www.reddit.com/r/shitposting/comments/1bwgxdb/double_standards)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T12:35:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/1bwgxdb/double_standards/"> <img alt="Double standards " src="https://preview.redd.it/a8slajb3onsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=402746ab31c9260a723d5cef09490e98357c0b0e" title="Double standards " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AvgTaxEvader"> /u/AvgTaxEvader </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/a8slajb3onsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/1bwgxdb/double_standards/">[comments]</a></span> </td></tr></table>
+
+## Soda oczyszczona w butach
+ - [https://www.reddit.com/r/Polska/comments/1bwgw3h/soda_oczyszczona_w_butach](https://www.reddit.com/r/Polska/comments/1bwgw3h/soda_oczyszczona_w_butach)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T12:33:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Wyczytałem, że wsypując 2-3 łyżeczki sody oczyszczonej do butów i zostawiając na noc wyczyścimy je i pozbędziemy się nieprzyjemnego zapachu. Żeby upewnić się, że to nie jest jakaś głupota, to przeszukałem internet dokładnie i takich artykułów jest masa, jednakże żaden z nich nie pisze o konsekwencjach. Otóż - zrobiłem to i faktycznie zadziałało, jednak po chwili chodzenia w butach soda zaczęła wychodzić przez szwy w butach i zostawia cudowne, białe zacieki po sobie na moich nowych, czarnych butach. Czyszczenie ich niewiele daje - pozbędę się zacieków, pochodzę i znowu się pojawiają.</p> <p>Jakieś pomysły na zaradzenie na tę sytuację?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PlumekV"> /u/PlumekV </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://www.reddit.com/r/Polska/comments/1bwgw3h/soda_oczyszczona_w_butach/">[link]</a></span> &#32; <span><a href=
+
+## The humble home of pastor Kenneth Copeland, next to his private airport.
+ - [https://www.reddit.com/r/pics/comments/1bwgt8l/the_humble_home_of_pastor_kenneth_copeland_next](https://www.reddit.com/r/pics/comments/1bwgt8l/the_humble_home_of_pastor_kenneth_copeland_next)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T12:29:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/pics/comments/1bwgt8l/the_humble_home_of_pastor_kenneth_copeland_next/"> <img alt="The humble home of pastor Kenneth Copeland, next to his private airport." src="https://preview.redd.it/c6zr8wkumnsc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d895343a8dce9d67113eefd7493d97d18f94bd5c" title="The humble home of pastor Kenneth Copeland, next to his private airport." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/seanmashitoshi"> /u/seanmashitoshi </a> &#32; to &#32; <a href="https://www.reddit.com/r/pics/"> r/pics </a> <br /> <span><a href="https://i.redd.it/c6zr8wkumnsc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pics/comments/1bwgt8l/the_humble_home_of_pastor_kenneth_copeland_next/">[comments]</a></span> </td></tr></table>
+
+## UK quit Erasmus because of Brits’ poor language skills
+ - [https://www.reddit.com/r/europe/comments/1bwgiku/uk_quit_erasmus_because_of_brits_poor_language](https://www.reddit.com/r/europe/comments/1bwgiku/uk_quit_erasmus_because_of_brits_poor_language)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T12:14:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/europe/comments/1bwgiku/uk_quit_erasmus_because_of_brits_poor_language/"> <img alt="UK quit Erasmus because of Brits’ poor language skills" src="https://external-preview.redd.it/fRZFynDfbDDZ0LiLM8UEkHAB9ejOl_n73oXxALytETU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4d56e71d8f11e52703c1da0d8aedea581c327de" title="UK quit Erasmus because of Brits’ poor language skills" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/antrophist"> /u/antrophist </a> &#32; to &#32; <a href="https://www.reddit.com/r/europe/"> r/europe </a> <br /> <span><a href="https://www.politico.eu/article/brits-poor-language-skills-made-erasmus-scheme-too-expensive-says-uk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/europe/comments/1bwgiku/uk_quit_erasmus_because_of_brits_poor_language/">[comments]</a></span> </td></tr></table>
+
+## Poland condemns “outrageous” remarks by Israeli ambassador on Gaza aid worker deaths
+ - [https://www.reddit.com/r/europe/comments/1bwgc3a/poland_condemns_outrageous_remarks_by_israeli](https://www.reddit.com/r/europe/comments/1bwgc3a/poland_condemns_outrageous_remarks_by_israeli)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T12:05:47+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/dat_9600gt_user"> /u/dat_9600gt_user </a> &#32; to &#32; <a href="https://www.reddit.com/r/europe/"> r/europe </a> <br /> <span><a href="https://notesfrompoland.com/2024/04/04/poland-condemns-outrageous-remarks-by-israeli-ambassador-on-gaza-aid-worker-deaths/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/europe/comments/1bwgc3a/poland_condemns_outrageous_remarks_by_israeli/">[comments]</a></span>
+
+## Monarchia
+ - [https://www.reddit.com/r/ImaginaryWarhammer/comments/1bwgbge/monarchia](https://www.reddit.com/r/ImaginaryWarhammer/comments/1bwgbge/monarchia)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T12:04:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ImaginaryWarhammer/comments/1bwgbge/monarchia/"> <img alt="Monarchia" src="https://preview.redd.it/1qcxeokainsc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3651e77f0a1c107dab26aebdc62be7c30833b9bb" title="Monarchia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/superfeyn"> /u/superfeyn </a> &#32; to &#32; <a href="https://www.reddit.com/r/ImaginaryWarhammer/"> r/ImaginaryWarhammer </a> <br /> <span><a href="https://i.redd.it/1qcxeokainsc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ImaginaryWarhammer/comments/1bwgbge/monarchia/">[comments]</a></span> </td></tr></table>
+
+## W niedzielę temperatura może sięgać nawet 30°C! (Ventusky.com)
+ - [https://www.reddit.com/r/Polska/comments/1bwfvon/w_niedzielę_temperatura_może_sięgać_nawet_30c](https://www.reddit.com/r/Polska/comments/1bwfvon/w_niedzielę_temperatura_może_sięgać_nawet_30c)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T11:41:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bwfvon/w_niedzielę_temperatura_może_sięgać_nawet_30c/"> <img alt="W niedzielę temperatura może sięgać nawet 30°C! (Ventusky.com)" src="https://preview.redd.it/oxjq8phdensc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=28791b39f5b47d4f3991e48d91d55d5d4195fe2f" title="W niedzielę temperatura może sięgać nawet 30°C! (Ventusky.com)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LuborS"> /u/LuborS </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/oxjq8phdensc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwfvon/w_niedzielę_temperatura_może_sięgać_nawet_30c/">[comments]</a></span> </td></tr></table>
+
+## ej kolegowie przetlumaczylem ten cały smieszny obrazek z hinskiego
+ - [https://www.reddit.com/r/okkolegauposledzony/comments/1bwfksh/ej_kolegowie_przetlumaczylem_ten_cały_smieszny](https://www.reddit.com/r/okkolegauposledzony/comments/1bwfksh/ej_kolegowie_przetlumaczylem_ten_cały_smieszny)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T11:24:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/okkolegauposledzony/comments/1bwfksh/ej_kolegowie_przetlumaczylem_ten_cały_smieszny/"> <img alt="ej kolegowie przetlumaczylem ten cały smieszny obrazek z hinskiego" src="https://preview.redd.it/llnn0hlcbnsc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=26d7bbb8d57a9c8300b836a6fa66eacc5212a2ce" title="ej kolegowie przetlumaczylem ten cały smieszny obrazek z hinskiego" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vvev7"> /u/vvev7 </a> &#32; to &#32; <a href="https://www.reddit.com/r/okkolegauposledzony/"> r/okkolegauposledzony </a> <br /> <span><a href="https://i.redd.it/llnn0hlcbnsc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/okkolegauposledzony/comments/1bwfksh/ej_kolegowie_przetlumaczylem_ten_cały_smieszny/">[comments]</a></span> </td></tr></table>
+
+## Kultura zapierdolu
+ - [https://www.reddit.com/r/Polska/comments/1bwffvm/kultura_zapierdolu](https://www.reddit.com/r/Polska/comments/1bwffvm/kultura_zapierdolu)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T11:16:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Wy tez sluchacie od swoich starszych krewnych, gdy macie 2 wolnego, aby pozalatwiac swoje sprawy? Tez jestescie najgorsi, bo macie tydzien L4, gdy zlamiecie noge? Powiedzcie mi dlaczego starsi tak uwielbiaja byc ruchani w dupe przez pracodawce?? Pracujesz 12h bez umowy, oplacanego ZUSu i darmowymi godzinami, nigdy nie slyszac o KP? Good for you, ale nie przekladaj tego na innych. Mam po dziurki w nosie sluchania, jak to laskawy Janusz dal ci umowe, ktora ma obowiazek ci dac 2 lata temu zapierdalania na czarno XDXD wiec ty powinienes_nas sie cieszyc, ze nie robisz na cxarno i masz calowac po raczkach twojego pracodawce.</p> <p>Prawo do urlopu?? Ta mlodziez to by tylko okradala biednych pracodawcow :(( powinni sie cieszyc ze po powrocie cie nie zdegradowali/wyjebali na zbity pysk </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jojo--referencja"> /u/jojo--referencja </a> &#32; to &#32; <a href="https://www.reddit.c
+
+## Friday Facts #405 - Whole belt reader, New logistics GUI
+ - [https://www.reddit.com/r/factorio/comments/1bwf5uy/friday_facts_405_whole_belt_reader_new_logistics](https://www.reddit.com/r/factorio/comments/1bwf5uy/friday_facts_405_whole_belt_reader_new_logistics)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T11:00:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/factorio/comments/1bwf5uy/friday_facts_405_whole_belt_reader_new_logistics/"> <img alt="Friday Facts #405 - Whole belt reader, New logistics GUI" src="https://external-preview.redd.it/pmT-0DoByGV0UBao7-RXhF9xovMefGSHFFYgFqAvocw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c336bcfe04ef86d7f3e19d85587ec820fb9c2f29" title="Friday Facts #405 - Whole belt reader, New logistics GUI" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FactorioTeam"> /u/FactorioTeam </a> &#32; to &#32; <a href="https://www.reddit.com/r/factorio/"> r/factorio </a> <br /> <span><a href="https://factorio.com/blog/post/fff-405">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/factorio/comments/1bwf5uy/friday_facts_405_whole_belt_reader_new_logistics/">[comments]</a></span> </td></tr></table>
+
+## Perfectly encapsulates JK Rowling's gaslighting cult
+ - [https://www.reddit.com/r/facepalm/comments/1bwf0h7/perfectly_encapsulates_jk_rowlings_gaslighting](https://www.reddit.com/r/facepalm/comments/1bwf0h7/perfectly_encapsulates_jk_rowlings_gaslighting)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T10:50:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/facepalm/comments/1bwf0h7/perfectly_encapsulates_jk_rowlings_gaslighting/"> <img alt="Perfectly encapsulates JK Rowling's gaslighting cult" src="https://preview.redd.it/ly1llyl75nsc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a514ce6c8a45169c0d5ff4e89412f13d97a609a6" title="Perfectly encapsulates JK Rowling's gaslighting cult" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aneriox"> /u/Aneriox </a> &#32; to &#32; <a href="https://www.reddit.com/r/facepalm/"> r/facepalm </a> <br /> <span><a href="https://i.redd.it/ly1llyl75nsc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/facepalm/comments/1bwf0h7/perfectly_encapsulates_jk_rowlings_gaslighting/">[comments]</a></span> </td></tr></table>
+
+## itsjustgame
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1bwez72/itsjustgame](https://www.reddit.com/r/ProgrammerHumor/comments/1bwez72/itsjustgame)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T10:48:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1bwez72/itsjustgame/"> <img alt="itsjustgame" src="https://preview.redd.it/hkfzzi7b4nsc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5459af8cd6d3352ec976a692d541dc422a5335c0" title="itsjustgame" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/North_2006"> /u/North_2006 </a> &#32; to &#32; <a href="https://www.reddit.com/r/ProgrammerHumor/"> r/ProgrammerHumor </a> <br /> <span><a href="https://i.redd.it/hkfzzi7b4nsc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1bwez72/itsjustgame/">[comments]</a></span> </td></tr></table>
+
+## Kieł... czekolada wyborcza?
+ - [https://www.reddit.com/r/Polska/comments/1bweweq/kieł_czekolada_wyborcza](https://www.reddit.com/r/Polska/comments/1bweweq/kieł_czekolada_wyborcza)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T10:43:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bweweq/kieł_czekolada_wyborcza/"> <img alt="Kieł... czekolada wyborcza?" src="https://preview.redd.it/v7bx13524nsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9aac01922e72db7c3925db47ec07a6193dc1a179" title="Kieł... czekolada wyborcza?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KocicaAuditore"> /u/KocicaAuditore </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/v7bx13524nsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bweweq/kieł_czekolada_wyborcza/">[comments]</a></span> </td></tr></table>
+
+## Wybierz swojego patusda
+ - [https://www.reddit.com/r/Polska/comments/1bwenq1/wybierz_swojego_patusda](https://www.reddit.com/r/Polska/comments/1bwenq1/wybierz_swojego_patusda)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T10:28:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Przyszedł taki czas w mojej dużej, ale jednak wsi, że od lat zabetonowane komitety wyborcze przyjęły do swoich szeregów świeżych, młodych kandydatów. Można by powiedzieć, że to bardzo dobrze, przecież potrzeba młodych ludzi w polityce. Niestety, diabeł tkwi w szczegółach. Dosłownie każda jedna osoba z mojego pokolenia startująca w wyborach w mojej gminie to zwykły patus. </p> <p>Prowadzi to do tego, że nie pójdę na wybory. Musiałbym zdecydować pomiędzy:</p> <ul> <li><p>typem który jest znany z tego, że najebany regularnie sikał zawsze na ten sam płot aż zrobili w tym miejscu grafiti o nim</p></li> <li><p>patusiarą której największym osiągnięciem jest aborcja wykonana ogromną dawką alkoholu</p></li> <li><p>zwykłym Sebkiem co to mieszka z rodzicami, ledwo skończył podstawówkę i dorabia jako magazynier żeby mieć na piwo </p></li> </ul> <p>To nie są ludzie, którzy reprezentują mnie i moje pokolenie. W moich czasach szkolnych było mnóstwo zdolnych ludzi kt
+
+## Bro used the word "literally". So...
+ - [https://www.reddit.com/r/technicallythetruth/comments/1bwe2g0/bro_used_the_word_literally_so](https://www.reddit.com/r/technicallythetruth/comments/1bwe2g0/bro_used_the_word_literally_so)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T09:50:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technicallythetruth/comments/1bwe2g0/bro_used_the_word_literally_so/"> <img alt="Bro used the word &quot;literally&quot;. So..." src="https://preview.redd.it/7g7hecxmumsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f62b6f87da5d0fb626b787c9fa0f2f732f08ce8c" title="Bro used the word &quot;literally&quot;. So..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SenorCalculus"> /u/SenorCalculus </a> &#32; to &#32; <a href="https://www.reddit.com/r/technicallythetruth/"> r/technicallythetruth </a> <br /> <span><a href="https://i.redd.it/7g7hecxmumsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technicallythetruth/comments/1bwe2g0/bro_used_the_word_literally_so/">[comments]</a></span> </td></tr></table>
+
+## Do której z polskich mniejszości narodowych masz najbardziej pozytywny stosunek?
+ - [https://www.reddit.com/r/Polska/comments/1bwdsk9/do_której_z_polskich_mniejszości_narodowych_masz](https://www.reddit.com/r/Polska/comments/1bwdsk9/do_której_z_polskich_mniejszości_narodowych_masz)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T09:31:30+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.reddit.com/poll/1bwdsk9">View Poll</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Embarrassed_Pie153"> /u/Embarrassed_Pie153 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://www.reddit.com/r/Polska/comments/1bwdsk9/do_której_z_polskich_mniejszości_narodowych_masz/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwdsk9/do_której_z_polskich_mniejszości_narodowych_masz/">[comments]</a></span>
+
+## Po 9 miesiącach stażu IT i obietnicach przejścia na normalnego programistę, pracodawca przedłuża mi umowę o staż o następne pół roku, mówi że zatrudni w pełni po studiach
+ - [https://www.reddit.com/r/Polska/comments/1bwdqol/po_9_miesiącach_stażu_it_i_obietnicach_przejścia](https://www.reddit.com/r/Polska/comments/1bwdqol/po_9_miesiącach_stażu_it_i_obietnicach_przejścia)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T09:28:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hej, przychodzę szukać porady. Wraz z kończącą mi się 9-miesięczną umową stażysty, menedżer (duże korpo) zadzwonił do mnie z informacją, że są zadowoleni z mojej pracy więc przedłużają mi umowę o pół roku. Tu pierwsza czerwona flaga - cały czas mówiliśmy o przejściu na normalne zatrudnienie, w domyśle jako junior, ale z normalną stawką za godzinę (pracuję jako programista zdalnie na 3/5, zajmujemy się poważnym oprogramowaniem o dużym zasięgu). Zamiast tego dostanę podwyżkę do okolic 30/h, dla porównania jest to około 40-60% tego co zarabiają juniorzy w tym sektorze w dolnych okolicach widełek. Jest to podwyżka o około 3zl za godzinę. Dodatkowo poszedł tekst, że &quot;w tym momencie to chyba wystarczy&quot; jako że jestem studentem. To znaczy co, nie zbieram na dom i samochód? Wiem, że nasz manager jest ogólnie spoko gościem i przekazuje mi to, co mówi HR. On sam raczej nie ma zbytnio wyboru w niczym, jednak tekst (którym być może sam sobie tłumaczył t
+
+## iQuit
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1bwdp5c/iquit](https://www.reddit.com/r/ProgrammerHumor/comments/1bwdp5c/iquit)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T09:25:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1bwdp5c/iquit/"> <img alt="iQuit" src="https://preview.redd.it/b1cd9ardpmsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4edfe498e189aa8c3e474f82d4a37f4d66bb40a4" title="iQuit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Knight_dark_57"> /u/Knight_dark_57 </a> &#32; to &#32; <a href="https://www.reddit.com/r/ProgrammerHumor/"> r/ProgrammerHumor </a> <br /> <span><a href="https://i.redd.it/b1cd9ardpmsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1bwdp5c/iquit/">[comments]</a></span> </td></tr></table>
+
+## What to do as a medic
+ - [https://www.reddit.com/r/HolUp/comments/1bwdp4h/what_to_do_as_a_medic](https://www.reddit.com/r/HolUp/comments/1bwdp4h/what_to_do_as_a_medic)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T09:25:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/HolUp/comments/1bwdp4h/what_to_do_as_a_medic/"> <img alt="What to do as a medic" src="https://preview.redd.it/hhdp4lu3qmsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c99af04b1f9fb037be9f56bb5aef83549b32acd" title="What to do as a medic" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BazzBun"> /u/BazzBun </a> &#32; to &#32; <a href="https://www.reddit.com/r/HolUp/"> r/HolUp </a> <br /> <span><a href="https://i.redd.it/hhdp4lu3qmsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/HolUp/comments/1bwdp4h/what_to_do_as_a_medic/">[comments]</a></span> </td></tr></table>
+
+## Lecą głowy w armii Izraela. Decyzje po ataku na konwój WCK
+ - [https://www.reddit.com/r/Polska/comments/1bwd7dw/lecą_głowy_w_armii_izraela_decyzje_po_ataku_na](https://www.reddit.com/r/Polska/comments/1bwd7dw/lecą_głowy_w_armii_izraela_decyzje_po_ataku_na)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T08:51:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bwd7dw/lecą_głowy_w_armii_izraela_decyzje_po_ataku_na/"> <img alt="Lecą głowy w armii Izraela. Decyzje po ataku na konwój WCK" src="https://external-preview.redd.it/YdVABkJYxEIYjS_R9rJfeiknue68ZUqaSA9mNyMAY68.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=659360ccd1d8268d0148fbf9e7bac110c93b24aa" title="Lecą głowy w armii Izraela. Decyzje po ataku na konwój WCK" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/grot_13"> /u/grot_13 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://wiadomosci.wp.pl/smierc-wolontariuszy-w-strefie-gazy-dymisje-w-izraelskiej-armii-7013600348068608a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwd7dw/lecą_głowy_w_armii_izraela_decyzje_po_ataku_na/">[comments]</a></span> </td></tr></table>
+
+## We do a little trolling
+ - [https://www.reddit.com/r/shitposting/comments/1bwd5nc/we_do_a_little_trolling](https://www.reddit.com/r/shitposting/comments/1bwd5nc/we_do_a_little_trolling)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T08:48:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/1bwd5nc/we_do_a_little_trolling/"> <img alt="We do a little trolling " src="https://preview.redd.it/sd392fbkjmsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2cb5a87f4d82133c0882061fa210943c338c622d" title="We do a little trolling " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ButterEatingBicycle"> /u/ButterEatingBicycle </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/sd392fbkjmsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/1bwd5nc/we_do_a_little_trolling/">[comments]</a></span> </td></tr></table>
+
+## Ekologiczne pączki
+ - [https://www.reddit.com/r/Polska_wpz/comments/1bwcyjx/ekologiczne_pączki](https://www.reddit.com/r/Polska_wpz/comments/1bwcyjx/ekologiczne_pączki)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T08:34:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska_wpz/comments/1bwcyjx/ekologiczne_pączki/"> <img alt="Ekologiczne pączki" src="https://preview.redd.it/tlx1o514hmsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4714137c3abc75f8277524a516d494b4023dea5" title="Ekologiczne pączki" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Oliwier255"> /u/Oliwier255 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska_wpz/"> r/Polska_wpz </a> <br /> <span><a href="https://i.redd.it/tlx1o514hmsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska_wpz/comments/1bwcyjx/ekologiczne_pączki/">[comments]</a></span> </td></tr></table>
+
+## Every faith done
+ - [https://www.reddit.com/r/eu4/comments/1bwcxjy/every_faith_done](https://www.reddit.com/r/eu4/comments/1bwcxjy/every_faith_done)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T08:32:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/eu4/comments/1bwcxjy/every_faith_done/"> <img alt="Every faith done" src="https://a.thumbs.redditmedia.com/YgE8hx4FpwsyUXtuhCKY-UG1VqQpodMio9c_GPEpSg8.jpg" title="Every faith done" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MudderK"> /u/MudderK </a> &#32; to &#32; <a href="https://www.reddit.com/r/eu4/"> r/eu4 </a> <br /> <span><a href="https://www.reddit.com/gallery/1bwcxjy">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/eu4/comments/1bwcxjy/every_faith_done/">[comments]</a></span> </td></tr></table>
+
+## Türkiye announced its withdrawal from the Conventional Armed Forces in Europe (CFE) Treaty.
+ - [https://www.reddit.com/r/europe/comments/1bwcqgf/türkiye_announced_its_withdrawal_from_the](https://www.reddit.com/r/europe/comments/1bwcqgf/türkiye_announced_its_withdrawal_from_the)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T08:19:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/europe/comments/1bwcqgf/türkiye_announced_its_withdrawal_from_the/"> <img alt="Türkiye announced its withdrawal from the Conventional Armed Forces in Europe (CFE) Treaty." src="https://preview.redd.it/hls8ctwdemsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61dd2741283bd21669981eb9683844f6347c3e78" title="Türkiye announced its withdrawal from the Conventional Armed Forces in Europe (CFE) Treaty." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OverI0rd"> /u/OverI0rd </a> &#32; to &#32; <a href="https://www.reddit.com/r/europe/"> r/europe </a> <br /> <span><a href="https://i.redd.it/hls8ctwdemsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/europe/comments/1bwcqgf/türkiye_announced_its_withdrawal_from_the/">[comments]</a></span> </td></tr></table>
+
+## how did 17% of everyone on Earth find this before I did
+ - [https://www.reddit.com/r/memes/comments/1bwce7s/how_did_17_of_everyone_on_earth_find_this_before](https://www.reddit.com/r/memes/comments/1bwce7s/how_did_17_of_everyone_on_earth_find_this_before)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T07:54:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/memes/comments/1bwce7s/how_did_17_of_everyone_on_earth_find_this_before/"> <img alt="how did 17% of everyone on Earth find this before I did" src="https://preview.redd.it/c5mkxyfy9msc1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=eafbee2654d94a0b438fc1d55193655ffa9f8ac2" title="how did 17% of everyone on Earth find this before I did" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PUNKDOG2011"> /u/PUNKDOG2011 </a> &#32; to &#32; <a href="https://www.reddit.com/r/memes/"> r/memes </a> <br /> <span><a href="https://i.redd.it/c5mkxyfy9msc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/memes/comments/1bwce7s/how_did_17_of_everyone_on_earth_find_this_before/">[comments]</a></span> </td></tr></table>
+
+## Percentage of Muslims in favor of making sharia the law of the land
+ - [https://www.reddit.com/r/MapPorn/comments/1bwce45/percentage_of_muslims_in_favor_of_making_sharia](https://www.reddit.com/r/MapPorn/comments/1bwce45/percentage_of_muslims_in_favor_of_making_sharia)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T07:54:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/MapPorn/comments/1bwce45/percentage_of_muslims_in_favor_of_making_sharia/"> <img alt="Percentage of Muslims in favor of making sharia the law of the land" src="https://preview.redd.it/d8dgiypp9msc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8c77aece0d174084317487ff005abcd8ff60cdb" title="Percentage of Muslims in favor of making sharia the law of the land" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EuphoricWarning2032"> /u/EuphoricWarning2032 </a> &#32; to &#32; <a href="https://www.reddit.com/r/MapPorn/"> r/MapPorn </a> <br /> <span><a href="https://i.redd.it/d8dgiypp9msc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MapPorn/comments/1bwce45/percentage_of_muslims_in_favor_of_making_sharia/">[comments]</a></span> </td></tr></table>
+
+## Wiem, że lubicie klawe tury
+ - [https://www.reddit.com/r/Polska/comments/1bwc54e/wiem_że_lubicie_klawe_tury](https://www.reddit.com/r/Polska/comments/1bwc54e/wiem_że_lubicie_klawe_tury)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T07:36:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bwc54e/wiem_że_lubicie_klawe_tury/"> <img alt="Wiem, że lubicie klawe tury" src="https://preview.redd.it/oj9ky3vo6msc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83d178f28d9219ff1def09dd56c48f4ac265e374" title="Wiem, że lubicie klawe tury" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Klawe tury hehe czaisz Klawiatur? Klawe tury.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Remarkable-Way-5482"> /u/Remarkable-Way-5482 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/oj9ky3vo6msc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwc54e/wiem_że_lubicie_klawe_tury/">[comments]</a></span> </td></tr></table>
+
+## My brother destroyed my Steam Controller in a fit of rage.
+ - [https://www.reddit.com/r/Steam/comments/1bwbvsd/my_brother_destroyed_my_steam_controller_in_a_fit](https://www.reddit.com/r/Steam/comments/1bwbvsd/my_brother_destroyed_my_steam_controller_in_a_fit)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T07:17:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>You cannot possibly comprehend how fucking devastated I am. These things are extremely rare where i live, 300€ at minimum. I am disabled. I cannot use Dualsense's or any other controllers because they have gyro drift, awful trackpads, dreadful face buttons, and no rear paddles. I cannot buy a steering wheel either because gear-belt driven ones are 300$ and break in one day, and direct drive ones are more expensive than buying a car. I will never be able to play racing simulators competitively ever again. All because I thought it would be a good idea to show a From Software fanboy what he was missing out on.</p> <p>I now have to wait for Steam Controller 2 to play videogames again. I don't know what to do.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MilesFarber"> /u/MilesFarber </a> &#32; to &#32; <a href="https://www.reddit.com/r/Steam/"> r/Steam </a> <br /> <span><a href="https://www.reddit.com/r/Steam/comme
+
+## The bike lane...
+ - [https://www.reddit.com/r/fuckcars/comments/1bwbkvy/the_bike_lane](https://www.reddit.com/r/fuckcars/comments/1bwbkvy/the_bike_lane)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T06:57:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/fuckcars/comments/1bwbkvy/the_bike_lane/"> <img alt="The bike lane..." src="https://preview.redd.it/auq600rozlsc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb564e3d98b28740d93e8e6da726b817d17860bd" title="The bike lane..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KlutzyEnd3"> /u/KlutzyEnd3 </a> &#32; to &#32; <a href="https://www.reddit.com/r/fuckcars/"> r/fuckcars </a> <br /> <span><a href="https://i.redd.it/auq600rozlsc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/fuckcars/comments/1bwbkvy/the_bike_lane/">[comments]</a></span> </td></tr></table>
+
+## Guess I’ll die
+ - [https://www.reddit.com/r/memes/comments/1bwba9x/guess_ill_die](https://www.reddit.com/r/memes/comments/1bwba9x/guess_ill_die)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T06:37:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/memes/comments/1bwba9x/guess_ill_die/"> <img alt="Guess I’ll die" src="https://preview.redd.it/002ysms5wlsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9973515437efee4be5e915a3bd303c51df6e5974" title="Guess I’ll die" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Senior-Cheetah-2077"> /u/Senior-Cheetah-2077 </a> &#32; to &#32; <a href="https://www.reddit.com/r/memes/"> r/memes </a> <br /> <span><a href="https://i.redd.it/002ysms5wlsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/memes/comments/1bwba9x/guess_ill_die/">[comments]</a></span> </td></tr></table>
+
+## The only correct answer
+ - [https://www.reddit.com/r/dankmemes/comments/1bwat9n/the_only_correct_answer](https://www.reddit.com/r/dankmemes/comments/1bwat9n/the_only_correct_answer)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T06:05:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/dankmemes/comments/1bwat9n/the_only_correct_answer/"> <img alt="The only correct answer " src="https://preview.redd.it/hrrgnv1iqlsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae4dc902bf37bcf25f0f968439f69fec0710195b" title="The only correct answer " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Efficient_Deux"> /u/Efficient_Deux </a> &#32; to &#32; <a href="https://www.reddit.com/r/dankmemes/"> r/dankmemes </a> <br /> <span><a href="https://i.redd.it/hrrgnv1iqlsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/dankmemes/comments/1bwat9n/the_only_correct_answer/">[comments]</a></span> </td></tr></table>
+
+## No takiej taktyki wyborczej to nie znałem XD
+ - [https://www.reddit.com/r/Polska/comments/1bwao4h/no_takiej_taktyki_wyborczej_to_nie_znałem_xd](https://www.reddit.com/r/Polska/comments/1bwao4h/no_takiej_taktyki_wyborczej_to_nie_znałem_xd)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T05:56:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bwao4h/no_takiej_taktyki_wyborczej_to_nie_znałem_xd/"> <img alt="No takiej taktyki wyborczej to nie znałem XD" src="https://preview.redd.it/rl2tkyiwolsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a5a1db6ad24886d3ee1ecc1bc3977d87387ab67" title="No takiej taktyki wyborczej to nie znałem XD" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RandomowyMetal"> /u/RandomowyMetal </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/rl2tkyiwolsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwao4h/no_takiej_taktyki_wyborczej_to_nie_znałem_xd/">[comments]</a></span> </td></tr></table>
+
+## Od teraz r/Polska zmienia się w r/klawiatury
+ - [https://www.reddit.com/r/Polska/comments/1bwam2j/od_teraz_rpolska_zmienia_się_w_rklawiatury](https://www.reddit.com/r/Polska/comments/1bwam2j/od_teraz_rpolska_zmienia_się_w_rklawiatury)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T05:53:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1bwam2j/od_teraz_rpolska_zmienia_się_w_rklawiatury/"> <img alt="Od teraz r/Polska zmienia się w r/klawiatury" src="https://preview.redd.it/9tplz719olsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43344c427774895d5addf132de0a5308eff0a4b3" title="Od teraz r/Polska zmienia się w r/klawiatury" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kain161"> /u/Kain161 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/9tplz719olsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1bwam2j/od_teraz_rpolska_zmienia_się_w_rklawiatury/">[comments]</a></span> </td></tr></table>
+
+## who could have seen that coming
+ - [https://www.reddit.com/r/memes/comments/1bwal4j/who_could_have_seen_that_coming](https://www.reddit.com/r/memes/comments/1bwal4j/who_could_have_seen_that_coming)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T05:51:20+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Lniy"> /u/Lniy </a> &#32; to &#32; <a href="https://www.reddit.com/r/memes/"> r/memes </a> <br /> <span><a href="https://i.redd.it/3g1xe6bxnlsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/memes/comments/1bwal4j/who_could_have_seen_that_coming/">[comments]</a></span>
+
+## send me images to put on objector (nsfw cause uh yeah)
+ - [https://www.reddit.com/r/tf2shitposterclub/comments/1bwa8i2/send_me_images_to_put_on_objector_nsfw_cause_uh](https://www.reddit.com/r/tf2shitposterclub/comments/1bwa8i2/send_me_images_to_put_on_objector_nsfw_cause_uh)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T05:30:47+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/-Nikimaster-"> /u/-Nikimaster- </a> &#32; to &#32; <a href="https://www.reddit.com/r/tf2shitposterclub/"> r/tf2shitposterclub </a> <br /> <span><a href="https://i.redd.it/tqfhhro6klsc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/tf2shitposterclub/comments/1bwa8i2/send_me_images_to_put_on_objector_nsfw_cause_uh/">[comments]</a></span>
+
+## Title
+ - [https://www.reddit.com/r/discordVideos/comments/1bw9woa/title](https://www.reddit.com/r/discordVideos/comments/1bw9woa/title)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T05:12:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/discordVideos/comments/1bw9woa/title/"> <img alt="Title" src="https://external-preview.redd.it/N3BzZTQyMXpnbHNjMUKaKs1dFTbbnZhE4HxE3OACZn54TvsLF99jnnRpLqFb.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a56c25a8e949d86a491fa7fd33e9922fbeeaf2ca" title="Title" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eric_is_a__Boykisser"> /u/Eric_is_a__Boykisser </a> &#32; to &#32; <a href="https://www.reddit.com/r/discordVideos/"> r/discordVideos </a> <br /> <span><a href="https://v.redd.it/u273nm5zglsc1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/discordVideos/comments/1bw9woa/title/">[comments]</a></span> </td></tr></table>
+
+## Dalej czekam
+ - [https://www.reddit.com/r/okkolegauposledzony/comments/1bw9w0q/dalej_czekam](https://www.reddit.com/r/okkolegauposledzony/comments/1bw9w0q/dalej_czekam)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T05:11:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/okkolegauposledzony/comments/1bw9w0q/dalej_czekam/"> <img alt="Dalej czekam" src="https://external-preview.redd.it/YmhldzJmMnNnbHNjMY5AQY_7m3R4w3dWlmkfo6mFferIuRJi9HFBltTaVFUS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1ac41c1a59715617de9473fbabf3068293dccce" title="Dalej czekam" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/krzakpl"> /u/krzakpl </a> &#32; to &#32; <a href="https://www.reddit.com/r/okkolegauposledzony/"> r/okkolegauposledzony </a> <br /> <span><a href="https://v.redd.it/l6pwb87sglsc1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/okkolegauposledzony/comments/1bw9w0q/dalej_czekam/">[comments]</a></span> </td></tr></table>
+
+## Why does Bridget act like she has a show? Did she turn into a twitch streamer
+ - [https://www.reddit.com/r/Guiltygear/comments/1bw9nmk/why_does_bridget_act_like_she_has_a_show_did_she](https://www.reddit.com/r/Guiltygear/comments/1bw9nmk/why_does_bridget_act_like_she_has_a_show_did_she)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T04:58:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Guiltygear/comments/1bw9nmk/why_does_bridget_act_like_she_has_a_show_did_she/"> <img alt="Why does Bridget act like she has a show? Did she turn into a twitch streamer" src="https://a.thumbs.redditmedia.com/XnxXmStZoQGnGTXx-q1U6oKHdVs8Ff7lrNlT_DfuaO8.jpg" title="Why does Bridget act like she has a show? Did she turn into a twitch streamer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JackytheJack"> /u/JackytheJack </a> &#32; to &#32; <a href="https://www.reddit.com/r/Guiltygear/"> r/Guiltygear </a> <br /> <span><a href="https://www.reddit.com/gallery/1bw9nmk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Guiltygear/comments/1bw9nmk/why_does_bridget_act_like_she_has_a_show_did_she/">[comments]</a></span> </td></tr></table>
+
+## Scooped my first gaming pc, pretty sure I lucked out
+ - [https://www.reddit.com/r/pcmasterrace/comments/1bw9h64/scooped_my_first_gaming_pc_pretty_sure_i_lucked](https://www.reddit.com/r/pcmasterrace/comments/1bw9h64/scooped_my_first_gaming_pc_pretty_sure_i_lucked)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T04:48:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/pcmasterrace/comments/1bw9h64/scooped_my_first_gaming_pc_pretty_sure_i_lucked/"> <img alt="Scooped my first gaming pc, pretty sure I lucked out" src="https://preview.redd.it/y2yd3gdtclsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dff982ca0e4921f843036369dde7b16c5b873664" title="Scooped my first gaming pc, pretty sure I lucked out" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jmaximum94"> /u/jmaximum94 </a> &#32; to &#32; <a href="https://www.reddit.com/r/pcmasterrace/"> r/pcmasterrace </a> <br /> <span><a href="https://i.redd.it/y2yd3gdtclsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pcmasterrace/comments/1bw9h64/scooped_my_first_gaming_pc_pretty_sure_i_lucked/">[comments]</a></span> </td></tr></table>
+
+## Girl, 14, left in coma after attack by teenagers outside school in France
+ - [https://www.reddit.com/r/europe/comments/1bw9fnl/girl_14_left_in_coma_after_attack_by_teenagers](https://www.reddit.com/r/europe/comments/1bw9fnl/girl_14_left_in_coma_after_attack_by_teenagers)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T04:46:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/europe/comments/1bw9fnl/girl_14_left_in_coma_after_attack_by_teenagers/"> <img alt="Girl, 14, left in coma after attack by teenagers outside school in France" src="https://external-preview.redd.it/x4Yggt7OVU3dxFw53PKBDORxkMt2m3be6C2P-72mQkg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5291392594f7abc51c37b71372644841334faa02" title="Girl, 14, left in coma after attack by teenagers outside school in France" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drevny_kocur"> /u/drevny_kocur </a> &#32; to &#32; <a href="https://www.reddit.com/r/europe/"> r/europe </a> <br /> <span><a href="https://www.theguardian.com/world/2024/apr/04/girl-14-left-in-coma-after-attack-by-teenagers-outside-school-in-france">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/europe/comments/1bw9fnl/girl_14_left_in_coma_after_attack_by_teenagers/">[comments]</a></span> </td></tr></table>
+
+## The way he dropped those sticks
+ - [https://www.reddit.com/r/Wellthatsucks/comments/1bw9fgb/the_way_he_dropped_those_sticks](https://www.reddit.com/r/Wellthatsucks/comments/1bw9fgb/the_way_he_dropped_those_sticks)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T04:46:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Wellthatsucks/comments/1bw9fgb/the_way_he_dropped_those_sticks/"> <img alt="The way he dropped those sticks" src="https://external-preview.redd.it/cmFyajVtemJjbHNjMQaLJk_zNWivBV9ZVllVtb8_ngD_s0_WClT0zX0niVv5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3827bcdacee1cdc269d9c18d7f7049c97fd0abdd" title="The way he dropped those sticks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/supermanistaken"> /u/supermanistaken </a> &#32; to &#32; <a href="https://www.reddit.com/r/Wellthatsucks/"> r/Wellthatsucks </a> <br /> <span><a href="https://v.redd.it/0vh2iu9cclsc1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Wellthatsucks/comments/1bw9fgb/the_way_he_dropped_those_sticks/">[comments]</a></span> </td></tr></table>
+
+## Why does Jonny say "girls"? Wasn't he gay? Did Araki forget? Is it a translation error? I honestly don't get it. Would anyone care to explain?
+ - [https://www.reddit.com/r/ShitPostCrusaders/comments/1bw9bu2/why_does_jonny_say_girls_wasnt_he_gay_did_araki](https://www.reddit.com/r/ShitPostCrusaders/comments/1bw9bu2/why_does_jonny_say_girls_wasnt_he_gay_did_araki)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T04:40:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ShitPostCrusaders/comments/1bw9bu2/why_does_jonny_say_girls_wasnt_he_gay_did_araki/"> <img alt="Why does Jonny say &quot;girls&quot;? Wasn't he gay? Did Araki forget? Is it a translation error? I honestly don't get it. Would anyone care to explain?" src="https://preview.redd.it/s0ay8nycblsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2860f614435f16935c6ecfed24cbfdd96c6a6ba" title="Why does Jonny say &quot;girls&quot;? Wasn't he gay? Did Araki forget? Is it a translation error? I honestly don't get it. Would anyone care to explain?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Menta181"> /u/Menta181 </a> &#32; to &#32; <a href="https://www.reddit.com/r/ShitPostCrusaders/"> r/ShitPostCrusaders </a> <br /> <span><a href="https://i.redd.it/s0ay8nycblsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ShitPostCrusaders/comments/1bw9bu2/why_does_jonny_say_girls_wasnt_he_gay_di
+
+## What does this actually meant?🤔
+ - [https://www.reddit.com/r/shitposting/comments/1bw91ws/what_does_this_actually_meant](https://www.reddit.com/r/shitposting/comments/1bw91ws/what_does_this_actually_meant)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T04:26:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/1bw91ws/what_does_this_actually_meant/"> <img alt="What does this actually meant?🤔" src="https://preview.redd.it/4nr8tpvq8lsc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9db4e1566f65c5b5da869a87cb1b056b446383b" title="What does this actually meant?🤔" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alter-nonsense965"> /u/Alter-nonsense965 </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/4nr8tpvq8lsc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/1bw91ws/what_does_this_actually_meant/">[comments]</a></span> </td></tr></table>
+
+## cancer for society.
+ - [https://www.reddit.com/r/facepalm/comments/1bw8uzh/cancer_for_society](https://www.reddit.com/r/facepalm/comments/1bw8uzh/cancer_for_society)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T04:16:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/facepalm/comments/1bw8uzh/cancer_for_society/"> <img alt="cancer for society." src="https://preview.redd.it/snkbpyjy6lsc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe1e3998cbf7ee36e8db1f1428293cee51a76d10" title="cancer for society." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Organization_6804"> /u/Ok_Organization_6804 </a> &#32; to &#32; <a href="https://www.reddit.com/r/facepalm/"> r/facepalm </a> <br /> <span><a href="https://i.redd.it/snkbpyjy6lsc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/facepalm/comments/1bw8uzh/cancer_for_society/">[comments]</a></span> </td></tr></table>
+
+## I found this note in the elevator at my hotel
+ - [https://www.reddit.com/r/mildlyinfuriating/comments/1bw8ity/i_found_this_note_in_the_elevator_at_my_hotel](https://www.reddit.com/r/mildlyinfuriating/comments/1bw8ity/i_found_this_note_in_the_elevator_at_my_hotel)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T03:59:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/mildlyinfuriating/comments/1bw8ity/i_found_this_note_in_the_elevator_at_my_hotel/"> <img alt="I found this note in the elevator at my hotel " src="https://preview.redd.it/izd2lxmz3lsc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=88d5b5b36bcc0409309bad9325a6ae51775aaeee" title="I found this note in the elevator at my hotel " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iroczcamaro22"> /u/iroczcamaro22 </a> &#32; to &#32; <a href="https://www.reddit.com/r/mildlyinfuriating/"> r/mildlyinfuriating </a> <br /> <span><a href="https://i.redd.it/izd2lxmz3lsc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/mildlyinfuriating/comments/1bw8ity/i_found_this_note_in_the_elevator_at_my_hotel/">[comments]</a></span> </td></tr></table>
+
+## March 7th weapon model
+ - [https://www.reddit.com/r/HonkaiStarRail_leaks/comments/1bw7vuy/march_7th_weapon_model](https://www.reddit.com/r/HonkaiStarRail_leaks/comments/1bw7vuy/march_7th_weapon_model)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T03:26:52+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/YinIsMe"> /u/YinIsMe </a> &#32; to &#32; <a href="https://www.reddit.com/r/HonkaiStarRail_leaks/"> r/HonkaiStarRail_leaks </a> <br /> <span><a href="https://i.redd.it/a8okk3t6yksc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/HonkaiStarRail_leaks/comments/1bw7vuy/march_7th_weapon_model/">[comments]</a></span>
+
+## aliquip
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1bw7850/aliquip](https://www.reddit.com/r/ProgrammerHumor/comments/1bw7850/aliquip)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T02:54:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1bw7850/aliquip/"> <img alt="aliquip" src="https://preview.redd.it/ejkpe5ucrksc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f5868cc8bad0a2587f79cea530b7782f4e08db06" title="aliquip" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tyranoc4"> /u/Tyranoc4 </a> &#32; to &#32; <a href="https://www.reddit.com/r/ProgrammerHumor/"> r/ProgrammerHumor </a> <br /> <span><a href="https://i.redd.it/ejkpe5ucrksc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1bw7850/aliquip/">[comments]</a></span> </td></tr></table>
+
+## Germany: Man stabs four-year-old in supermarket
+ - [https://www.reddit.com/r/europe/comments/1bw73w2/germany_man_stabs_fouryearold_in_supermarket](https://www.reddit.com/r/europe/comments/1bw73w2/germany_man_stabs_fouryearold_in_supermarket)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T02:49:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/europe/comments/1bw73w2/germany_man_stabs_fouryearold_in_supermarket/"> <img alt="Germany: Man stabs four-year-old in supermarket" src="https://external-preview.redd.it/YtYrcFtok86tjbkl5VrkABtifsRJKYsa0DOz3WNuaf8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6cbb165524b89530f554c625f8ae3fc71bf5afcf" title="Germany: Man stabs four-year-old in supermarket" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheOSU87"> /u/TheOSU87 </a> &#32; to &#32; <a href="https://www.reddit.com/r/europe/"> r/europe </a> <br /> <span><a href="https://www.spiegel.de/panorama/justiz/wangen-im-allgaeu-mann-sticht-in-supermarkt-auf-vierjaehrige-ein-a-fc90d260-1193-4203-8ff4-539398014d48">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/europe/comments/1bw73w2/germany_man_stabs_fouryearold_in_supermarket/">[comments]</a></span> </td></tr></table>
+
+## My grandpa let me go through his “junk” and let me have these “old cards” he never bothered to open.
+ - [https://www.reddit.com/r/pics/comments/1bw6y0u/my_grandpa_let_me_go_through_his_junk_and_let_me](https://www.reddit.com/r/pics/comments/1bw6y0u/my_grandpa_let_me_go_through_his_junk_and_let_me)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T02:42:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/pics/comments/1bw6y0u/my_grandpa_let_me_go_through_his_junk_and_let_me/"> <img alt="My grandpa let me go through his “junk” and let me have these “old cards” he never bothered to open." src="https://b.thumbs.redditmedia.com/k6_l7W8VSj5zn87XFMEYs3YPr5zSZ0EnS8tgAiU7GQk.jpg" title="My grandpa let me go through his “junk” and let me have these “old cards” he never bothered to open." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Phantom-Z"> /u/Phantom-Z </a> &#32; to &#32; <a href="https://www.reddit.com/r/pics/"> r/pics </a> <br /> <span><a href="https://www.reddit.com/gallery/1bw6y0u">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pics/comments/1bw6y0u/my_grandpa_let_me_go_through_his_junk_and_let_me/">[comments]</a></span> </td></tr></table>
+
+## meirl
+ - [https://www.reddit.com/r/meirl/comments/1bw6w48/meirl](https://www.reddit.com/r/meirl/comments/1bw6w48/meirl)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T02:39:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/meirl/comments/1bw6w48/meirl/"> <img alt="meirl" src="https://preview.redd.it/62qgupcqpksc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a08addef079a63827a77047f38a90dbfb74af3ef" title="meirl" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jimbo072"> /u/Jimbo072 </a> &#32; to &#32; <a href="https://www.reddit.com/r/meirl/"> r/meirl </a> <br /> <span><a href="https://i.redd.it/62qgupcqpksc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/meirl/comments/1bw6w48/meirl/">[comments]</a></span> </td></tr></table>
+
+## Found This In The Bathroom After Seeing A Man With A "Victim Of Circumcision" tattoo.
+ - [https://www.reddit.com/r/mildlyinteresting/comments/1bw6tgx/found_this_in_the_bathroom_after_seeing_a_man](https://www.reddit.com/r/mildlyinteresting/comments/1bw6tgx/found_this_in_the_bathroom_after_seeing_a_man)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T02:36:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/mildlyinteresting/comments/1bw6tgx/found_this_in_the_bathroom_after_seeing_a_man/"> <img alt="Found This In The Bathroom After Seeing A Man With A &quot;Victim Of Circumcision&quot; tattoo. " src="https://preview.redd.it/0p5zgqn3pksc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9417ca5b097824de17586e8270195a637dd72d69" title="Found This In The Bathroom After Seeing A Man With A &quot;Victim Of Circumcision&quot; tattoo. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Resolution_5397"> /u/Ok_Resolution_5397 </a> &#32; to &#32; <a href="https://www.reddit.com/r/mildlyinteresting/"> r/mildlyinteresting </a> <br /> <span><a href="https://i.redd.it/0p5zgqn3pksc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/mildlyinteresting/comments/1bw6tgx/found_this_in_the_bathroom_after_seeing_a_man/">[comments]</a></span> </td></tr></table>
+
+## Everything in the new premium warbond coming on April 11th
+ - [https://www.reddit.com/r/Helldivers/comments/1bw6s4w/everything_in_the_new_premium_warbond_coming_on](https://www.reddit.com/r/Helldivers/comments/1bw6s4w/everything_in_the_new_premium_warbond_coming_on)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T02:34:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Helldivers/comments/1bw6s4w/everything_in_the_new_premium_warbond_coming_on/"> <img alt="Everything in the new premium warbond coming on April 11th" src="https://preview.redd.it/e2q4sb7soksc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e3df88db8a752651c8e102051e3643a1c7c5f3f" title="Everything in the new premium warbond coming on April 11th" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kidd__Video"> /u/Kidd__Video </a> &#32; to &#32; <a href="https://www.reddit.com/r/Helldivers/"> r/Helldivers </a> <br /> <span><a href="https://i.redd.it/e2q4sb7soksc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Helldivers/comments/1bw6s4w/everything_in_the_new_premium_warbond_coming_on/">[comments]</a></span> </td></tr></table>
+
+## Quattro Vagina, Chateau Dankworth, and most JoJo characters have entered the chat
+ - [https://www.reddit.com/r/tumblr/comments/1bw61du/quattro_vagina_chateau_dankworth_and_most_jojo](https://www.reddit.com/r/tumblr/comments/1bw61du/quattro_vagina_chateau_dankworth_and_most_jojo)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T01:59:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/tumblr/comments/1bw61du/quattro_vagina_chateau_dankworth_and_most_jojo/"> <img alt="Quattro Vagina, Chateau Dankworth, and most JoJo characters have entered the chat" src="https://preview.redd.it/gefy8lx7iksc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a8d4cc4abb96e5c4c3d0a9b1cc84bcd8cb3cd86f" title="Quattro Vagina, Chateau Dankworth, and most JoJo characters have entered the chat" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silvermoon424"> /u/Silvermoon424 </a> &#32; to &#32; <a href="https://www.reddit.com/r/tumblr/"> r/tumblr </a> <br /> <span><a href="https://i.redd.it/gefy8lx7iksc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/tumblr/comments/1bw61du/quattro_vagina_chateau_dankworth_and_most_jojo/">[comments]</a></span> </td></tr></table>
+
+## A bit funny innit?
+ - [https://www.reddit.com/r/memes/comments/1bw61ap/a_bit_funny_innit](https://www.reddit.com/r/memes/comments/1bw61ap/a_bit_funny_innit)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T01:59:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/S1rknightless"> /u/S1rknightless </a> &#32; to &#32; <a href="https://www.reddit.com/r/memes/"> r/memes </a> <br /> <span><a href="https://i.redd.it/qhjcgxpliksc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/memes/comments/1bw61ap/a_bit_funny_innit/">[comments]</a></span>
+
+## My dad's mic he's been using since 1968. He says it has a much warmer sound than the modern equivalents.
+ - [https://www.reddit.com/r/mildlyinteresting/comments/1bw5b00/my_dads_mic_hes_been_using_since_1968_he_says_it](https://www.reddit.com/r/mildlyinteresting/comments/1bw5b00/my_dads_mic_hes_been_using_since_1968_he_says_it)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T01:26:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/mildlyinteresting/comments/1bw5b00/my_dads_mic_hes_been_using_since_1968_he_says_it/"> <img alt="My dad's mic he's been using since 1968. He says it has a much warmer sound than the modern equivalents." src="https://preview.redd.it/1u5igkhqcksc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba20ea5dba0f2155639d1dbf22ebae11e5700db8" title="My dad's mic he's been using since 1968. He says it has a much warmer sound than the modern equivalents." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AmbivertMusic"> /u/AmbivertMusic </a> &#32; to &#32; <a href="https://www.reddit.com/r/mildlyinteresting/"> r/mildlyinteresting </a> <br /> <span><a href="https://i.redd.it/1u5igkhqcksc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/mildlyinteresting/comments/1bw5b00/my_dads_mic_hes_been_using_since_1968_he_says_it/">[comments]</a></span> </td></tr></table>
+
+## What's something you thought all women do, but turns out they don’t?
+ - [https://www.reddit.com/r/AskReddit/comments/1bw4wu5/whats_something_you_thought_all_women_do_but](https://www.reddit.com/r/AskReddit/comments/1bw4wu5/whats_something_you_thought_all_women_do_but)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T01:09:06+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Amaragbuinu"> /u/Amaragbuinu </a> &#32; to &#32; <a href="https://www.reddit.com/r/AskReddit/"> r/AskReddit </a> <br /> <span><a href="https://www.reddit.com/r/AskReddit/comments/1bw4wu5/whats_something_you_thought_all_women_do_but/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/AskReddit/comments/1bw4wu5/whats_something_you_thought_all_women_do_but/">[comments]</a></span>
+
+## To be attractive 💀
+ - [https://www.reddit.com/r/therewasanattempt/comments/1bw4pxf/to_be_attractive](https://www.reddit.com/r/therewasanattempt/comments/1bw4pxf/to_be_attractive)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T01:00:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/therewasanattempt/comments/1bw4pxf/to_be_attractive/"> <img alt="To be attractive 💀" src="https://preview.redd.it/8pkwrau38ksc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e7fa9d921609c1f21987ff128888389e1741ecd2" title="To be attractive 💀" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/XXmynameisNeganXX"> /u/XXmynameisNeganXX </a> &#32; to &#32; <a href="https://www.reddit.com/r/therewasanattempt/"> r/therewasanattempt </a> <br /> <span><a href="https://i.redd.it/8pkwrau38ksc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/therewasanattempt/comments/1bw4pxf/to_be_attractive/">[comments]</a></span> </td></tr></table>
+
+## What's the best response to "are you looking at my boobs?"?
+ - [https://www.reddit.com/r/AskReddit/comments/1bw4c0e/whats_the_best_response_to_are_you_looking_at_my](https://www.reddit.com/r/AskReddit/comments/1bw4c0e/whats_the_best_response_to_are_you_looking_at_my)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T00:43:31+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/grammar_nazi88"> /u/grammar_nazi88 </a> &#32; to &#32; <a href="https://www.reddit.com/r/AskReddit/"> r/AskReddit </a> <br /> <span><a href="https://www.reddit.com/r/AskReddit/comments/1bw4c0e/whats_the_best_response_to_are_you_looking_at_my/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/AskReddit/comments/1bw4c0e/whats_the_best_response_to_are_you_looking_at_my/">[comments]</a></span>
+
+## S20E04 Baby Can I Hold You
+ - [https://www.reddit.com/r/greysanatomy/comments/1bw3cg9/s20e04_baby_can_i_hold_you](https://www.reddit.com/r/greysanatomy/comments/1bw3cg9/s20e04_baby_can_i_hold_you)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-04-05T00:01:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Abbreviation issued in the title belong to the writers, not me! I doublechecked the spelling in the title this week. </p> <p>Spoilers expected in this thread! Don’t join unless you are up to date on all 423 (!!) prior episodes. </p> <p>Baby Can I Hold You episode summary: Dr. Arizona Robbins returns to Grey Sloan for a particularly complicated case; the interns are interrogated about their past mistakes; Teddy is eager to return to work after her health scare.</p> <p>Original airdate: April 4th, 2024</p> <p>Song inspiration: <a href="https://www.youtube.com/watch?v=DqoLMGSBGYc">Baby Can I Hold You</a> by <a href="https://en.wikipedia.org/wiki/Tracy_Chapman">Tracy Chapman</a>.</p> <p><a href="https://www.youtube.com/watch?v=Az5FKgoErpE">Episode promo</a> featuring the return of everyone’s favorite one-legged peds/maternal-fetal surgeon! </p> <p>Jump to last week’s live episode discussion <a href="https://www.reddit.com/r/greysanatomy/s/enutDQ1Dc4">Walk
+

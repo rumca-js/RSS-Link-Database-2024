@@ -1,0 +1,282 @@
+# Source:Aljazeera, URL:https://www.aljazeera.com/xml/rss/all.xml, language:en-US
+
+## ‘Fishing’: Judge denies Trump team bid to seize NBC Stormy Daniels material
+ - [https://www.aljazeera.com/news/2024/4/5/fishing-judge-denies-trump-team-bid-to-seize-nbc-stormy-daniels-material?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/fishing-judge-denies-trump-team-bid-to-seize-nbc-stormy-daniels-material?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T22:11:16+00:00
+
+Judge Juan Merchan criticised the defence team&#039;s attempt to compel NBC to turn over documents related to Stormy Daniels.
+
+## Amid diplomatic spat, Mexico grants former Ecuadorian vice president asylum
+ - [https://www.aljazeera.com/news/2024/4/5/amid-diplomatic-spat-mexico-grants-former-ecuadorian-vice-president-asylum?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/amid-diplomatic-spat-mexico-grants-former-ecuadorian-vice-president-asylum?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T20:57:25+00:00
+
+Row comes after the Mexican president commented on Ecuador&#039;s violence-marred election last year, prompting a rebuke.
+
+## ‘Mission impossible’: Families slam Canada’s Gaza visa scheme as a failure
+ - [https://www.aljazeera.com/news/longform/2024/4/5/mission-impossible-families-slam-canadas-gaza-visa-scheme-as-a-failure-2?traffic_source=rss](https://www.aljazeera.com/news/longform/2024/4/5/mission-impossible-families-slam-canadas-gaza-visa-scheme-as-a-failure-2?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T20:51:20+00:00
+
+No Palestinians have left Gaza thanks to a new Canadian visa programme, fueling anger as Israeli bombardment continues.
+
+## Colombia seeks to join Gaza genocide case against Israel at ICJ
+ - [https://www.aljazeera.com/news/2024/4/5/colombia-seeks-to-join-gaza-genocide-case-against-israel-at-icj?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/colombia-seeks-to-join-gaza-genocide-case-against-israel-at-icj?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T20:50:58+00:00
+
+Bogota calls on the World Court to ensure &#039;the safety&#039; and &#039;the very existence of the Palestinian people&#039;.
+
+## First UN food aid in months arrives in Sudan’s Darfur as famine looms
+ - [https://www.aljazeera.com/news/2024/4/5/first-un-food-aid-in-months-arrives-in-sudans-darfur-as-famine-looms?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/first-un-food-aid-in-months-arrives-in-sudans-darfur-as-famine-looms?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T20:12:07+00:00
+
+Aid deliveries follow talks to reopen humanitarian corridors from Chad amid warnings that millions face acute hunger.
+
+## Why are Somalia and Ethiopia in a deepening diplomatic dispute?
+ - [https://www.aljazeera.com/program/inside-story/2024/4/5/why-are-somalia-and-ethiopia-in-a-deepening-diplomatic-dispute?traffic_source=rss](https://www.aljazeera.com/program/inside-story/2024/4/5/why-are-somalia-and-ethiopia-in-a-deepening-diplomatic-dispute?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T19:49:35+00:00
+
+Rift comes after Somaliland deal giving landlocked Ethiopia access to the Red Sea.
+
+## Russia’s war on Ukraine forces Europe to weaponise its economic might
+ - [https://www.aljazeera.com/news/2024/4/5/russias-war-on-ukraine-forces-europe-to-weaponise-its-economic-might?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/russias-war-on-ukraine-forces-europe-to-weaponise-its-economic-might?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T19:43:38+00:00
+
+Ukraine experts say Kyiv&#039;s refusal to buckle under Moscow&#039;s war represents a transformative moment for the continent.
+
+## Ukraine says three killed, 13 wounded in Russian attacks on Zaporizhzhia
+ - [https://www.aljazeera.com/news/2024/4/5/ukraine-says-three-killed-13-wounded-in-russian-attacks-on-zaporizhzhia?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/ukraine-says-three-killed-13-wounded-in-russian-attacks-on-zaporizhzhia?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T18:13:35+00:00
+
+Russian officials have meanwhile accused Ukraine of attacking the Zaporizhzhia nuclear power plant.
+
+## Israeli fire ‘most likely’ killed woman taken captive on October 7: Army
+ - [https://www.aljazeera.com/news/2024/4/5/israeli-fire-most-likely-killed-woman-taken-captive-on-october-7-army?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/israeli-fire-most-likely-killed-woman-taken-captive-on-october-7-army?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T17:33:20+00:00
+
+Efrat Katz was reportedly in a vehicle with her abductors when an Israeli aircraft fired at it.
+
+## ‘Violent rumble’: 4.8 magnitude earthquake rattles New York City, northeast
+ - [https://www.aljazeera.com/news/2024/4/5/violent-rumble-4-8-magnitude-earthquake-rattles-new-york-city-northeast?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/violent-rumble-4-8-magnitude-earthquake-rattles-new-york-city-northeast?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T16:27:50+00:00
+
+No casualties were immediately reported as rare quake shakes densely populated city of 8.3 million.
+
+## ‘Silence the guns,’ says UN Chief in speech marking 6 months of war on Gaza
+ - [https://www.aljazeera.com/program/newsfeed/2024/4/5/silence-the-guns-says-un-chief-in-speech-marking-6-months-of-war-on-gaza?traffic_source=rss](https://www.aljazeera.com/program/newsfeed/2024/4/5/silence-the-guns-says-un-chief-in-speech-marking-6-months-of-war-on-gaza?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T16:21:34+00:00
+
+Israel has brought “relentless death and destruction” to Gaza, says UN Chief in speech marking 6 months of war.
+
+## Thousands around the world rally for Palestinians on Al-Quds Day
+ - [https://www.aljazeera.com/gallery/2024/4/5/thousands-around-the-world-rally-for-palestinians-on-al-quds-day?traffic_source=rss](https://www.aljazeera.com/gallery/2024/4/5/thousands-around-the-world-rally-for-palestinians-on-al-quds-day?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T16:14:20+00:00
+
+The globally observed day of solidarity is held on the last Friday of Ramadan to express support for Palestine.
+
+## Zimbabwe introduces new gold-backed currency to tackle inflation
+ - [https://www.aljazeera.com/news/2024/4/5/zimbabwe-introduces-new-gold-backed-currency-to-tackle-inflation?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/zimbabwe-introduces-new-gold-backed-currency-to-tackle-inflation?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T15:43:39+00:00
+
+Zimbabweans have 21 days to convert their old cash into new money, according to the central bank.
+
+## Norman Finkelstein on Gaza: The US could have stopped Israel on day one
+ - [https://www.aljazeera.com/program/upfront/2024/4/5/norman-finkelstein-on-gaza-the-us-couldve-stopped-israel-on-day-one?traffic_source=rss](https://www.aljazeera.com/program/upfront/2024/4/5/norman-finkelstein-on-gaza-the-us-couldve-stopped-israel-on-day-one?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T15:11:14+00:00
+
+Renowned scholar and activist Norman Finkelstein discusses Israel’s war on Gaza with Marc Lamont Hill.
+
+## Israel has brought ‘relentless death and destruction’ to Gaza: UN chief
+ - [https://www.aljazeera.com/news/2024/4/5/israel-has-brought-relentless-death-and-destruction-to-gaza-un-chief?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/israel-has-brought-relentless-death-and-destruction-to-gaza-un-chief?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T15:03:59+00:00
+
+Antonio Guterres says &#039;nothing can justify the collective punishment&#039; in Gaza, calls for more aid access to the enclave.
+
+## Why are doctors striking in several countries?
+ - [https://www.aljazeera.com/program/the-stream/2024/4/5/why-are-doctors-striking-in-several-countries?traffic_source=rss](https://www.aljazeera.com/program/the-stream/2024/4/5/why-are-doctors-striking-in-several-countries?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T13:00:13+00:00
+
+Doctors are trying to make the field more accessible. Are they concerned about quality of care or their own prestige?
+
+## Is India behind targeted killings in Pakistan? What we know
+ - [https://www.aljazeera.com/news/2024/4/5/is-india-behind-targeted-killings-in-pakistan-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/is-india-behind-targeted-killings-in-pakistan-what-we-know?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T12:40:08+00:00
+
+Pakistani officials tell Al Jazeera at least eight killings could be linked to India. New Delhi rejects these charges.
+
+## Few changes after Kuwait holds first parliamentary election under new emir
+ - [https://www.aljazeera.com/news/2024/4/5/few-changes-after-kuwait-holds-first-parliamentary-election-under-new-emir?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/few-changes-after-kuwait-holds-first-parliamentary-election-under-new-emir?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T12:20:51+00:00
+
+Opposition candidates won 29 seats in 50-member assembly, closely matching outcome of last year&#039;s polls, results show.
+
+## IRGC warns Israel attacks ‘won’t go unanswered’ as Iran marks Al-Quds Day
+ - [https://www.aljazeera.com/news/2024/4/5/irgc-warns-israel-attacks-wont-go-unanswered-as-iran-marks-al-quds-day?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/irgc-warns-israel-attacks-wont-go-unanswered-as-iran-marks-al-quds-day?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T12:11:42+00:00
+
+Representatives of Iran&#039;s &#039;axis of resistance&#039; and political and religious leaders participate in rallies amid Gaza war.
+
+## Are Jordan’s government and pro-Palestinian protesters facing off?
+ - [https://www.aljazeera.com/news/2024/4/5/are-jordans-government-and-pro-palestinian-protesters-facing-off?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/are-jordans-government-and-pro-palestinian-protesters-facing-off?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T12:11:05+00:00
+
+A recent resurgence in pro-Palestinian protests near the Israeli embassy has been met with arrests, but continues.
+
+## UN rights body demands Israel be held accountable for possible ‘war crimes’
+ - [https://www.aljazeera.com/news/2024/4/5/un-rights-body-demands-israel-be-held-accountable-for-possible-war-crimes?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/un-rights-body-demands-israel-be-held-accountable-for-possible-war-crimes?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T11:57:47+00:00
+
+UN Human Rights Council also backs call to halt all arms sales to Israel, highlighting warnings of &#039;genocide&#039; in Gaza.
+
+## Israeli military sacks two officers over strikes on WCK aid convoy
+ - [https://www.aljazeera.com/news/2024/4/5/israeli-military-sacks-two-officers-over-drone-strikes-on-aid-convoy?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/israeli-military-sacks-two-officers-over-drone-strikes-on-aid-convoy?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T11:54:18+00:00
+
+Israeli military claims its officers believed they were targeting Hamas fighters when they killed charity workers.
+
+## Will Jacob Zuma and his MK party cause an upset in South Africa’s election?
+ - [https://www.aljazeera.com/features/2024/4/5/will-jacob-zuma-and-his-mk-party-cause-an-upset-in-south-africas-election?traffic_source=rss](https://www.aljazeera.com/features/2024/4/5/will-jacob-zuma-and-his-mk-party-cause-an-upset-in-south-africas-election?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T11:32:56+00:00
+
+Backed by the controversial ex-president, uMkhonto weSizwe is challenging the ruling ANC in Zuma&#039;s home province.
+
+## Israeli forces kill Palestinian collecting aid
+ - [https://www.aljazeera.com/program/newsfeed/2024/4/5/israeli-forces-kill-palestinian-collecting-aid?traffic_source=rss](https://www.aljazeera.com/program/newsfeed/2024/4/5/israeli-forces-kill-palestinian-collecting-aid?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T10:48:43+00:00
+
+Exclusive video obtained by Al Jazeera shows Israeli forces opening fire and killing a Palestinian man.
+
+## Bangladesh opens mosque for transgender hijra community
+ - [https://www.aljazeera.com/gallery/2024/4/5/bangladesh-opens-mosque-for-transgender-hijra-community?traffic_source=rss](https://www.aljazeera.com/gallery/2024/4/5/bangladesh-opens-mosque-for-transgender-hijra-community?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T10:42:51+00:00
+
+The South Asian nation has, since 2013, officially allowed members of the hijra community to identify as a third gender.
+
+## Israel to ‘temporarily’ reopen north Gaza crossing for aid after Biden call
+ - [https://www.aljazeera.com/news/2024/4/5/israel-to-temporarily-reopen-north-gaza-crossing-for-aid-after-biden-call?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/israel-to-temporarily-reopen-north-gaza-crossing-for-aid-after-biden-call?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T09:48:03+00:00
+
+The White House has said it could change its approach on Israel if aid is not increased, but hasn&#039;t said exactly how.
+
+## What is Al-Quds Day?
+ - [https://www.aljazeera.com/news/2024/4/5/what-is-al-quds-day?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/what-is-al-quds-day?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T09:29:10+00:00
+
+Iran&#039;s Supreme Leader, Ruholla Khomeini, started Quds Day 45 years ago to show solidarity with Palestinian resistance.
+
+## Hong Kong’s first monkey virus case – what do we know about the B virus?
+ - [https://www.aljazeera.com/news/2024/4/5/hong-kongs-first-monkey-virus-case-what-do-we-know-about-the-b-virus?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/hong-kongs-first-monkey-virus-case-what-do-we-know-about-the-b-virus?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T09:08:55+00:00
+
+Transmission to humans is rare but with no vaccine, government has advised people to stay away from wild monkeys.
+
+## Russia downs dozens of drones as Kremlin warns NATO over Ukraine
+ - [https://www.aljazeera.com/news/2024/4/5/russia-downs-dozens-of-drones-as-kremlin-warns-nato-over-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/russia-downs-dozens-of-drones-as-kremlin-warns-nato-over-ukraine?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T08:30:14+00:00
+
+Russia says relations with NATO have slipped to the level of &#039;direct confrontation&#039; over the war in Ukraine.
+
+## Gaza is one big ‘kill zone’
+ - [https://www.aljazeera.com/opinions/2024/4/5/gaza-is-one-big-kill-zone?traffic_source=rss](https://www.aljazeera.com/opinions/2024/4/5/gaza-is-one-big-kill-zone?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T08:24:06+00:00
+
+After six months of apocalyptic war, Gaza today is a bunch of &#039;kill zones&#039; within a larger kill zone.
+
+## Indigenous survivors pursue justice at genocide trial in Guatemala
+ - [https://www.aljazeera.com/news/2024/4/5/indigenous-survivors-pursue-justice-at-genocide-trial-in-guatemala?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/indigenous-survivors-pursue-justice-at-genocide-trial-in-guatemala?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T07:20:34+00:00
+
+Former army chief Manuel Benedicto Lucas Garcia is being tried for genocide and crimes against humanity in Guatemala.
+
+## Gaza’s children face long road to healing
+ - [https://www.aljazeera.com/gallery/2024/4/5/gazas-children-face-long-road-to-healing?traffic_source=rss](https://www.aljazeera.com/gallery/2024/4/5/gazas-children-face-long-road-to-healing?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T06:59:17+00:00
+
+Experts decry psychological damage from lack of schooling coupled with bombings, hunger, sickness and bereavement.
+
+## US’s Yellen warns China it cannot export its way to rapid growth
+ - [https://www.aljazeera.com/economy/2024/4/5/uss-yellen-warns-china-it-cannot-export-its-way-to-rapid-growth?traffic_source=rss](https://www.aljazeera.com/economy/2024/4/5/uss-yellen-warns-china-it-cannot-export-its-way-to-rapid-growth?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T06:51:09+00:00
+
+US treasury secretary says market-based reforms will aid world&#039;s second largest economy.
+
+## Israel’s war on Gaza: List of key events, day 182
+ - [https://www.aljazeera.com/news/2024/4/5/israels-war-on-gaza-list-of-key-events-day-182?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/israels-war-on-gaza-list-of-key-events-day-182?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T06:42:39+00:00
+
+US President Biden pressed Israeli PM Netanyahu to implement concrete steps to protect civilians in Gaza.
+
+## McDonald’s buys all 225 of Israeli franchise restaurants after boycotts
+ - [https://www.aljazeera.com/news/2024/4/5/mcdonalds-buys-all-225-of-israeli-franchise-restaurants-after-boycotts?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/mcdonalds-buys-all-225-of-israeli-franchise-restaurants-after-boycotts?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T05:56:45+00:00
+
+McDonald&#039;s subject to boycotts since franchisee Alonyal announced it would give free meals to the Israeli military.
+
+## How dubious YouTube ‘news’ channels are shaping India’s election
+ - [https://www.aljazeera.com/news/2024/4/5/how-dubious-youtube-news-channels-are-shaping-indias-election?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/how-dubious-youtube-news-channels-are-shaping-indias-election?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T05:09:21+00:00
+
+In YouTube&#039;s largest market, self-proclaimed news channels are booming, gaining millions of viewers peddling falsehoods.
+
+## Taiwan searches for 18 still missing after Wednesday’s quake
+ - [https://www.aljazeera.com/news/2024/4/5/taiwan-searches-for-18-still-missing-after-wednesdays-quake?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/taiwan-searches-for-18-still-missing-after-wednesdays-quake?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T04:49:13+00:00
+
+Strict building codes and widespread public disaster awareness appear to have staved off a major catastrophe.
+
+## Trump says Israel ‘losing PR war’ in Gaza, should finish war ‘fast’
+ - [https://www.aljazeera.com/news/2024/4/5/trump-says-israel-losing-pr-war-in-gaza-should-finish-war-fast?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/trump-says-israel-losing-pr-war-in-gaza-should-finish-war-fast?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T03:09:37+00:00
+
+Former US President criticises Israel for releasing &#039;most heinous&#039; videos of air strikes in Gaza.
+
+## At Indonesia’s biggest bank, customers’ life savings vanish with a click
+ - [https://www.aljazeera.com/economy/2024/4/5/at-indonesias-biggest-bank-customers-life-savings-vanish-with-a-click?traffic_source=rss](https://www.aljazeera.com/economy/2024/4/5/at-indonesias-biggest-bank-customers-life-savings-vanish-with-a-click?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T01:59:41+00:00
+
+Indonesians robbed of their savings in cyber scams report little relief from banks or authorities.
+
+## Russia-Ukraine war: List of key events, day 771
+ - [https://www.aljazeera.com/news/2024/4/5/russia-ukraine-war-list-of-key-events-day-771?traffic_source=rss](https://www.aljazeera.com/news/2024/4/5/russia-ukraine-war-list-of-key-events-day-771?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-05T01:45:39+00:00
+
+As the war enters its 771st day, these are the main developments.
+
