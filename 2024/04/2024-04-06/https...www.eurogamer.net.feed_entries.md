@@ -1,0 +1,44 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Xbox sets up a game preservation team and wants "the biggest technical leap ever" for its next-gen system
+ - [https://www.eurogamer.net/xbox-sets-up-a-game-preservation-team-and-wants-the-biggest-technical-leap-ever-for-its-next-gen-system?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/xbox-sets-up-a-game-preservation-team-and-wants-the-biggest-technical-leap-ever-for-its-next-gen-system?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-06T19:45:15+00:00
+
+<img src="https://assetsio.gnwcdn.com/microsoft-confirms-its-never-made-profit-from-sale-of-an-xbox-console-1620297160800.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Xbox has established a new team dedicated to video game preservation and forward compatibility.</p><p>That's according to <a href="https://www.windowscentral.com/gaming/xbox/exclusive-xbox-president-sarah-bond-has-set-up-a-new-team-dedicated-to-game-preservation-and-forward-compatibility">Windows Central</a>, which today published a report stating that Xbox president Sarah Bond had recently written to Xbox staff to reaffirm the company's commitment to hardware development &ndash; which will be welcomed news for many Xbox fans &ndash; and a plan to "future-proof" Xbox's digital libraries to "build on Xbox's strong history of delivering backward compatibility".</p><p>"It's been nearly six months since we came together as an organisation," Bond said in an email seen by Win
+
+## Find out more about Destiny 2's The Final Shape next week
+ - [https://www.eurogamer.net/find-out-more-about-destiny-2s-the-final-shape-next-week?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/find-out-more-about-destiny-2s-the-final-shape-next-week?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-06T19:13:29+00:00
+
+<img src="https://assetsio.gnwcdn.com/WRP_Standard_Key_Art_Final-4K_Logo_Date_Locs_EN-(1).jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Bungie is ready to give us another glimpse at Destiny 2's next expansion, The Final Shape.</p><p>With Into the Light set to launch for all players on 9th April, Bungie has announced that on the same day, it will host a Developer Gameplay Preview stream for The Final Shape, which will include a "behind-the-scenes look at new gameplay reveals".</p><p>"In The Final Shape, Guardians will pursue the Witness into the Pale Heart of the Traveller, rally the Vanguard, and seek to end the War of Light and Darkness," Bungie teased.</p> <p><a href="https://www.eurogamer.net/find-out-more-about-destiny-2s-the-final-shape-next-week?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Splinter Cell Remake fans hope an update may be coming in June
+ - [https://www.eurogamer.net/splinter-cell-remake-fans-hope-an-update-may-be-coming-in-june?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/splinter-cell-remake-fans-hope-an-update-may-be-coming-in-june?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-06T17:11:39+00:00
+
+<img src="https://assetsio.gnwcdn.com/splinter-cell_ugvIwcQ.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Rumour has it there'll be "news" about Ubisoft's Splinter Cell remake at this year's Ubisoft Forward showcase in June.</p><p>After Ubisoft confirmed its Forward show will be "live from LA" on 10th June 2024, fans noticed that Ubisoft Toronto had prepared for the announcement by switching up its <a href="https://www.facebook.com/UbisoftToronto/">Facebook</a> header and profile images to that of Sam Fisher's instantly-recognisable night vision goggles.</p><p>As spotted by Twitterer MauroNL (thanks, <a href="https://www.pcgamer.com/games/action/splinter-cell-fans-are-getting-excited-about-a-possible-update-on-the-remake-in-june/">PC Gamer</a>), the change was made just hours before Ubisoft announced the date for the Forward show, leaving some to hope that the coincidental timing suggests an update on the remake may be on the way, too
+
+## Call of Duty: Vanguard reportedly sold over 30m copies
+ - [https://www.eurogamer.net/call-of-duty-vanguard-reportedly-sold-over-30m-copies?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/call-of-duty-vanguard-reportedly-sold-over-30m-copies?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-06T16:40:57+00:00
+
+<img src="https://assetsio.gnwcdn.com/call-of-duty-vanguard-details-ps5-dualsense-support-and-four-of-its-operators-1635194431749.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Call of Duty: Vanguard sold over 30m copies.</p><p>That's according to the <a href="https://www.linkedin.com/in/hongtastic/">LinkedIn</a> profile of a strategic consultant working with Roughmint Consulting who &ndash; as part of their role as a "social media strategist" for Activision &ndash; helped "to co-develop strategy designed to acquire new players for FPS Call of Duty Vanguard, selling 30 million copies".</p><p>"People forget that those commenting on the internet are, for the most part, a very self-similar echo-choir," <a href="https://www.reddit.com/r/GamingLeaksAndRumours/comments/1bwplmq/comment/ky8spv0">said</a> one Redditor, responding to surprise that the 2021 game sold as well as it did, despite a <a href="https://www.metacritic.com/game/call-of-du
+
+## Gears 6 will be announced in June, leak suggests
+ - [https://www.eurogamer.net/gears-6-will-be-announced-in-june-leak-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/gears-6-will-be-announced-in-june-leak-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-06T12:27:03+00:00
+
+<img src="https://assetsio.gnwcdn.com/digitalfoundry-2019-gears-5-tech-interview-1568455740874.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Gears 6 will reportedly be announced on 9th June 2024.</p><p>That's according to <a href="https://www.theverge.com/2024/4/5/24122208/microsoft-xbox-kareem-choudhry-leaving-xbox-cloud-gaming">The Verge</a>, which purports that the next instalment of the fan-favourite shooter will be confirmed at an Xbox Showcase reportedly scheduled for that day.</p><p>Whilst neither the sequel nor the showcase have been formally confirmed as yet, The Verge reports that Microsoft is "in the middle of planning for its big summer showcase [...] set to take place on Sunday, 9th June, and Microsoft is currently planning to announce a new Gears of War game at the show".</p> <p><a href="https://www.eurogamer.net/gears-6-will-be-announced-in-june-leak-suggests?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Rea
+
+## Stellar Blade will get free updates and New Game+
+ - [https://www.eurogamer.net/stellar-blade-will-get-free-updates-and-new-game?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/stellar-blade-will-get-free-updates-and-new-game?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-06T11:41:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Stellar-Blade_OkbP0xQ.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Shift Up CEO has confirmed free updates and a new game plus mode will be coming to Stellar Blade.</p><p>In an interview with <a href="https://bbs.ruliweb.com/news/read/195030">Ruliweb</a> (thanks, <a href="https://www.pushsquare.com/news/2024/04/free-skins-and-new-gameplus-for-stellar-blade-after-ps5-launch">Push Square</a>), CEO Kim Hyeong-tae said that whilst DLC plans had yet to be fully "determined", free updates will bring new skins for Eve.</p><p>Hyeong-tae also confirmed that there will be no microtransactions, too. Well. Ish.</p> <p><a href="https://www.eurogamer.net/stellar-blade-will-get-free-updates-and-new-game?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
