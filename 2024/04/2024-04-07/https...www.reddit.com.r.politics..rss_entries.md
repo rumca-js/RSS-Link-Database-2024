@@ -1,0 +1,275 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## House Intelligence Committee chair says Russian propaganda has spread through parts of GOP
+ - [https://www.reddit.com/r/politics/comments/1byg8cc/house_intelligence_committee_chair_says_russian](https://www.reddit.com/r/politics/comments/1byg8cc/house_intelligence_committee_chair_says_russian)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T21:39:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1byg8cc/house_intelligence_committee_chair_says_russian/"> <img alt="House Intelligence Committee chair says Russian propaganda has spread through parts of GOP" src="https://external-preview.redd.it/xq99kjL2rbyF4HkIYS70CRR2y_7U0OfJOxi5JVRmrsY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e47093b8099a00cc9168f58c7a543b25f1b800e" title="House Intelligence Committee chair says Russian propaganda has spread through parts of GOP" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chazgod"> /u/chazgod </a> <br /> <span><a href="https://amp.cnn.com/cnn/2024/04/07/politics/mike-turner-russia-ukraine-propaganda-gop-cnntv">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1byg8cc/house_intelligence_committee_chair_says_russian/">[comments]</a></span> </td></tr></table>
+
+## Boomers deliver surprise strength for Biden
+ - [https://www.reddit.com/r/politics/comments/1byg6ey/boomers_deliver_surprise_strength_for_biden](https://www.reddit.com/r/politics/comments/1byg6ey/boomers_deliver_surprise_strength_for_biden)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T21:36:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1byg6ey/boomers_deliver_surprise_strength_for_biden/"> <img alt="Boomers deliver surprise strength for Biden" src="https://external-preview.redd.it/wONcNXONNeeiBJX8Q2aLiVIXSeOvxz8P0Rveixc2Z38.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8107bacdb5fd318d0725f823f12fb13f369304d" title="Boomers deliver surprise strength for Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/axios"> /u/axios </a> <br /> <span><a href="https://www.axios.com/2024/04/07/joe-biden-senior-voters-baby-boomers">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1byg6ey/boomers_deliver_surprise_strength_for_biden/">[comments]</a></span> </td></tr></table>
+
+## Jenifer Lewis Blasts ‘F*cking Idiots’ Who Don’t See Trump Is ‘Hitler’
+ - [https://www.reddit.com/r/politics/comments/1byepq4/jenifer_lewis_blasts_fcking_idiots_who_dont_see](https://www.reddit.com/r/politics/comments/1byepq4/jenifer_lewis_blasts_fcking_idiots_who_dont_see)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T20:38:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1byepq4/jenifer_lewis_blasts_fcking_idiots_who_dont_see/"> <img alt="Jenifer Lewis Blasts ‘F*cking Idiots’ Who Don’t See Trump Is ‘Hitler’" src="https://external-preview.redd.it/mV81KUPON6VM0SoC7iV_hB6_y-GLENWraPVq_ffPqfs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b12ea2f611d716d04eb1cd4eab03d89d4483a2a" title="Jenifer Lewis Blasts ‘F*cking Idiots’ Who Don’t See Trump Is ‘Hitler’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_World_8819"> /u/Ok_World_8819 </a> <br /> <span><a href="https://www.thedailybeast.com/jenifer-lewis-blasts-fucking-idiots-who-dont-see-trump-is-hitler">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1byepq4/jenifer_lewis_blasts_fcking_idiots_who_dont_see/">[comments]</a></span> </td></tr></table>
+
+## Trump advocate calls surrogacy ‘evil’ and says anyone involved ‘should be imprisoned for life’.
+ - [https://www.reddit.com/r/politics/comments/1bybcw8/trump_advocate_calls_surrogacy_evil_and_says](https://www.reddit.com/r/politics/comments/1bybcw8/trump_advocate_calls_surrogacy_evil_and_says)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T18:25:33+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> <span><a href="https://www.thepinknews.com/2024/04/06/trump-advocate-calls-surrogacy-evil-project-2025/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bybcw8/trump_advocate_calls_surrogacy_evil_and_says/">[comments]</a></span>
+
+## Trump Panders to Billionaires, Vows to Keep Their Taxes Low During Fundraiser
+ - [https://www.reddit.com/r/politics/comments/1byb33d/trump_panders_to_billionaires_vows_to_keep_their](https://www.reddit.com/r/politics/comments/1byb33d/trump_panders_to_billionaires_vows_to_keep_their)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T18:14:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1byb33d/trump_panders_to_billionaires_vows_to_keep_their/"> <img alt="Trump Panders to Billionaires, Vows to Keep Their Taxes Low During Fundraiser" src="https://external-preview.redd.it/U9qiWqvEqYreHOHRHUKidkppTObFMorbgAuAxSnpS58.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f43009a28d1d2396c89ebd47f319d26ff31bd2f" title="Trump Panders to Billionaires, Vows to Keep Their Taxes Low During Fundraiser" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/trump-billionaires-taxes-low-fundraiser-1235000282/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1byb33d/trump_panders_to_billionaires_vows_to_keep_their/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump's plan to end war is to force Ukraine to give up territory
+ - [https://www.reddit.com/r/politics/comments/1byaga1/donald_trumps_plan_to_end_war_is_to_force_ukraine](https://www.reddit.com/r/politics/comments/1byaga1/donald_trumps_plan_to_end_war_is_to_force_ukraine)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T17:48:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1byaga1/donald_trumps_plan_to_end_war_is_to_force_ukraine/"> <img alt="Donald Trump's plan to end war is to force Ukraine to give up territory" src="https://external-preview.redd.it/9nTBfhyL3VdKMw1K7LKgh09EkYO0hJgPKBdBn_3afD0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65be1367f7b7e9b7ffff52419c13ae1dfd39c274" title="Donald Trump's plan to end war is to force Ukraine to give up territory" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HarakenQQ"> /u/HarakenQQ </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/04/05/trump-ukraine-secret-plan/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1byaga1/donald_trumps_plan_to_end_war_is_to_force_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Trump's RNC Chair Includes Ukraine in List of US Adversaries
+ - [https://www.reddit.com/r/politics/comments/1bya1o6/trumps_rnc_chair_includes_ukraine_in_list_of_us](https://www.reddit.com/r/politics/comments/1bya1o6/trumps_rnc_chair_includes_ukraine_in_list_of_us)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T17:30:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bya1o6/trumps_rnc_chair_includes_ukraine_in_list_of_us/"> <img alt="Trump's RNC Chair Includes Ukraine in List of US Adversaries" src="https://external-preview.redd.it/mLUYZ1U1cwkcVbpywF2dD3uvJn61DtrhDuZ_N4Hr9J8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b24f25b93a9b6593ff2297410a351f1e42d4bfee" title="Trump's RNC Chair Includes Ukraine in List of US Adversaries" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.newsweek.com/trump-rnc-chair-whatley-says-ukraine-us-adversary-republicans-1887731">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bya1o6/trumps_rnc_chair_includes_ukraine_in_list_of_us/">[comments]</a></span> </td></tr></table>
+
+## CIA says whistleblower allegation touted by GOP in Joe Biden impeachment probe is 'false'
+ - [https://www.reddit.com/r/politics/comments/1by9xko/cia_says_whistleblower_allegation_touted_by_gop](https://www.reddit.com/r/politics/comments/1by9xko/cia_says_whistleblower_allegation_touted_by_gop)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T17:26:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by9xko/cia_says_whistleblower_allegation_touted_by_gop/"> <img alt="CIA says whistleblower allegation touted by GOP in Joe Biden impeachment probe is 'false'" src="https://external-preview.redd.it/ZkBDEH_LENGcs-cyRmo2pDrd0HRiWsGISQWj_OOs-N8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e605d93633fdf14072bbdef1a1512626fc75655" title="CIA says whistleblower allegation touted by GOP in Joe Biden impeachment probe is 'false'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/croato87"> /u/croato87 </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/elections/2024/04/05/cia-republicans-whistleblower-joe-biden-impeachment-inquiry/73221473007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by9xko/cia_says_whistleblower_allegation_touted_by_gop/">[comments]</a></span> </td></tr></table>
+
+## Editorial: Speaker Johnson must ignore GOP hardliners and pass Ukraine aid now
+ - [https://www.reddit.com/r/politics/comments/1by9xb0/editorial_speaker_johnson_must_ignore_gop](https://www.reddit.com/r/politics/comments/1by9xb0/editorial_speaker_johnson_must_ignore_gop)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T17:25:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by9xb0/editorial_speaker_johnson_must_ignore_gop/"> <img alt="Editorial: Speaker Johnson must ignore GOP hardliners and pass Ukraine aid now" src="https://external-preview.redd.it/Lssz8BcA0r6pVsXITTk4tSWUmf9rI9hnaUyvdeZGCGY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b93c425925142da1d0ca6658fdfd93fbb3cd6ea" title="Editorial: Speaker Johnson must ignore GOP hardliners and pass Ukraine aid now" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aslan_is_on_the_move"> /u/aslan_is_on_the_move </a> <br /> <span><a href="https://www.latimes.com/opinion/story/2024-04-07/editorial-johnson-needs-to-make-good-on-aid-to-ukraine">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by9xb0/editorial_speaker_johnson_must_ignore_gop/">[comments]</a></span> </td></tr></table>
+
+## ‘Increasingly chaotic’: Why House Republicans are heading for the exits
+ - [https://www.reddit.com/r/politics/comments/1by909j/increasingly_chaotic_why_house_republicans_are](https://www.reddit.com/r/politics/comments/1by909j/increasingly_chaotic_why_house_republicans_are)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T16:47:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by909j/increasingly_chaotic_why_house_republicans_are/"> <img alt="‘Increasingly chaotic’: Why House Republicans are heading for the exits" src="https://external-preview.redd.it/7iSqB9OseE1uA18vz6mHNsWk9_8prU7yqWJKIsWA8nA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bee4e2c5bff19f535bffda66dff5a072f9d1f88c" title="‘Increasingly chaotic’: Why House Republicans are heading for the exits" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/04/07/house-republicans-retirements-mike-johnson-majority-elections/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzEyNDYyNDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzEzODQ0Nzk5LCJpYXQiOjE3MTI0NjI0MDAsImp0aSI6ImExMDBhZDNkLTNlZjgtNDIyYy05ZGQ4LThjNzRiNjA4ZjBjOSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yM
+
+## GOP Rep. Turner: Republicans Have ‘Uttered’ Russian Propaganda ‘on the House Floor’
+ - [https://www.reddit.com/r/politics/comments/1by8v7v/gop_rep_turner_republicans_have_uttered_russian](https://www.reddit.com/r/politics/comments/1by8v7v/gop_rep_turner_republicans_have_uttered_russian)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T16:41:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by8v7v/gop_rep_turner_republicans_have_uttered_russian/"> <img alt="GOP Rep. Turner: Republicans Have ‘Uttered’ Russian Propaganda ‘on the House Floor’" src="https://external-preview.redd.it/9riyHoH-3_fOrt0xDnDQ7jlqevf2dlRqfN2f4_dRGvE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=950ffde9831357eb1a7df8105ccc7fe6a1c8088e" title="GOP Rep. Turner: Republicans Have ‘Uttered’ Russian Propaganda ‘on the House Floor’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/turner-republicans-uttered-russian-propaganda-house-floor-1235000251/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by8v7v/gop_rep_turner_republicans_have_uttered_russian/">[comments]</a></span> </td></tr></table>
+
+## Is Corporate America in Denial About Trump?
+ - [https://www.reddit.com/r/politics/comments/1by8izt/is_corporate_america_in_denial_about_trump](https://www.reddit.com/r/politics/comments/1by8izt/is_corporate_america_in_denial_about_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T16:26:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by8izt/is_corporate_america_in_denial_about_trump/"> <img alt="Is Corporate America in Denial About Trump?" src="https://external-preview.redd.it/Pxu2M8CfeKOdVCreVqezOCTYxt49bN0urnH9jwOu8Tc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e28b60cb6167513f7ac86eda5f56c492042b3c8" title="Is Corporate America in Denial About Trump?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.nytimes.com/2024/04/07/magazine/trump-corporate-business.html?unlocked_article_code=1.ik0.Rn7K.2QpspiDg8Xb0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by8izt/is_corporate_america_in_denial_about_trump/">[comments]</a></span> </td></tr></table>
+
+## Video of Donald Trump Supporter Saying They'd Vote for Putin Goes Viral
+ - [https://www.reddit.com/r/politics/comments/1by83pm/video_of_donald_trump_supporter_saying_theyd_vote](https://www.reddit.com/r/politics/comments/1by83pm/video_of_donald_trump_supporter_saying_theyd_vote)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T16:08:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by83pm/video_of_donald_trump_supporter_saying_theyd_vote/"> <img alt="Video of Donald Trump Supporter Saying They'd Vote for Putin Goes Viral" src="https://external-preview.redd.it/Cmh42qtWIbiiNT_FKCFbYbL5s9PX2Fmu77PBuiP3k6U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=73e3c6641653dba2b7099263ea772a702105ef92" title="Video of Donald Trump Supporter Saying They'd Vote for Putin Goes Viral" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Reddit_guard"> /u/Reddit_guard </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-supporters-say-theyd-vote-vladimir-putin-1887721">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by83pm/video_of_donald_trump_supporter_saying_theyd_vote/">[comments]</a></span> </td></tr></table>
+
+## The Government Isn’t Ready for the Violence Trump Might Unleash
+ - [https://www.reddit.com/r/politics/comments/1by7ng4/the_government_isnt_ready_for_the_violence_trump](https://www.reddit.com/r/politics/comments/1by7ng4/the_government_isnt_ready_for_the_violence_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T15:49:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by7ng4/the_government_isnt_ready_for_the_violence_trump/"> <img alt="The Government Isn’t Ready for the Violence Trump Might Unleash" src="https://external-preview.redd.it/xQWhVMkG5A8GIGaslLxQluc5fDd6Rw6nTDPXd9BoITs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0829e045ab6b1e4c829fb69bd46cf5e3c9425982" title="The Government Isn’t Ready for the Violence Trump Might Unleash" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RecursiveSubroutine"> /u/RecursiveSubroutine </a> <br /> <span><a href="https://www.theatlantic.com/ideas/archive/2024/04/biden-trump-january-6-preparedness/677995/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by7ng4/the_government_isnt_ready_for_the_violence_trump/">[comments]</a></span> </td></tr></table>
+
+## Why Republicans Will Regret Their Crusade Against Electric Cars
+ - [https://www.reddit.com/r/politics/comments/1by7fp3/why_republicans_will_regret_their_crusade_against](https://www.reddit.com/r/politics/comments/1by7fp3/why_republicans_will_regret_their_crusade_against)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T15:40:20+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/thatshirtman"> /u/thatshirtman </a> <br /> <span><a href="https://www.politico.com/news/magazine/2024/04/07/republicans-electric-car-polling-00150406">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by7fp3/why_republicans_will_regret_their_crusade_against/">[comments]</a></span>
+
+## 2 women who say abortion restrictions put them in medical peril feel compelled to campaign for Biden
+ - [https://www.reddit.com/r/politics/comments/1by70a4/2_women_who_say_abortion_restrictions_put_them_in](https://www.reddit.com/r/politics/comments/1by70a4/2_women_who_say_abortion_restrictions_put_them_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T15:22:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by70a4/2_women_who_say_abortion_restrictions_put_them_in/"> <img alt="2 women who say abortion restrictions put them in medical peril feel compelled to campaign for Biden" src="https://external-preview.redd.it/x54kWiVk4VYwp2P8XFU7YV3a9nz4QCHaHxLtrb92ueE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=864ff2ae8e435daf28bc404431f5fdd6a0278d61" title="2 women who say abortion restrictions put them in medical peril feel compelled to campaign for Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SnooWords6443"> /u/SnooWords6443 </a> <br /> <span><a href="https://apnews.com/article/eb79daf45180e16ac594480a9345bcde">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by70a4/2_women_who_say_abortion_restrictions_put_them_in/">[comments]</a></span> </td></tr></table>
+
+## He once swore off politics. Now, this Georgia activist is trying to recruit people who seldom vote
+ - [https://www.reddit.com/r/politics/comments/1by69c9/he_once_swore_off_politics_now_this_georgia](https://www.reddit.com/r/politics/comments/1by69c9/he_once_swore_off_politics_now_this_georgia)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T14:49:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by69c9/he_once_swore_off_politics_now_this_georgia/"> <img alt="He once swore off politics. Now, this Georgia activist is trying to recruit people who seldom vote" src="https://external-preview.redd.it/DUNOpzG5ibMWTKu03cPZZpKiWnV7S91MwQvilclHCBM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31c6df115755512e14ea06d25124f67a0b827c6b" title="He once swore off politics. Now, this Georgia activist is trying to recruit people who seldom vote" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Weekend_3320"> /u/No_Weekend_3320 </a> <br /> <span><a href="https://apnews.com/article/biden-trump-recruiting-disillusioned-voters-organizing-election-2c4930db207f6c97897107eeaaa39fe6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by69c9/he_once_swore_off_politics_now_this_georgia/">[comments]</a></span> </td></tr></table>
+
+## Trump tells billionaires he’ll keep their taxes low at $50 million fundraising gala
+ - [https://www.reddit.com/r/politics/comments/1by67q2/trump_tells_billionaires_hell_keep_their_taxes](https://www.reddit.com/r/politics/comments/1by67q2/trump_tells_billionaires_hell_keep_their_taxes)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T14:47:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by67q2/trump_tells_billionaires_hell_keep_their_taxes/"> <img alt="Trump tells billionaires he’ll keep their taxes low at $50 million fundraising gala" src="https://external-preview.redd.it/HzpQNdAJ1thMLaI8sE4UwQX1sloU6ykwb0OqVmrK4kk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5edfe0a93f32948c258f5215397a430f9ed3ea5b" title="Trump tells billionaires he’ll keep their taxes low at $50 million fundraising gala" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bambin0"> /u/bambin0 </a> <br /> <span><a href="https://www.nbcnews.com/politics/2024-election/trump-tells-billionaires-ll-keep-taxes-low-50-million-fundraising-gala-rcna146748">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by67q2/trump_tells_billionaires_hell_keep_their_taxes/">[comments]</a></span> </td></tr></table>
+
+## Journalist removed from Colorado Republican event for ‘unfair’ reporting
+ - [https://www.reddit.com/r/politics/comments/1by5ucf/journalist_removed_from_colorado_republican_event](https://www.reddit.com/r/politics/comments/1by5ucf/journalist_removed_from_colorado_republican_event)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T14:30:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by5ucf/journalist_removed_from_colorado_republican_event/"> <img alt="Journalist removed from Colorado Republican event for ‘unfair’ reporting" src="https://external-preview.redd.it/k5r2TnzwVSxPEDAYJ-ZTt2skwCyO96035n1uqvdvAhE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac5025525a50b2283f98f0498113377867c1ea13" title="Journalist removed from Colorado Republican event for ‘unfair’ reporting" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kejmarcz"> /u/Kejmarcz </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/apr/07/journalist-ejected-from-colorado-republican-assembly">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by5ucf/journalist_removed_from_colorado_republican_event/">[comments]</a></span> </td></tr></table>
+
+## Intel Chair Turner: ‘Absolutely true’ that Russia propaganda has infected US Congress
+ - [https://www.reddit.com/r/politics/comments/1by5j4i/intel_chair_turner_absolutely_true_that_russia](https://www.reddit.com/r/politics/comments/1by5j4i/intel_chair_turner_absolutely_true_that_russia)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T14:16:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by5j4i/intel_chair_turner_absolutely_true_that_russia/"> <img alt="Intel Chair Turner: ‘Absolutely true’ that Russia propaganda has infected US Congress" src="https://external-preview.redd.it/29VTV-W5n6YRGSiDQmFM9m9aANf4DC5S2N0DMGCE-zk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c72b38f72cc53f61770af6252b0b31fff8db96a3" title="Intel Chair Turner: ‘Absolutely true’ that Russia propaganda has infected US Congress" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equalizer6338"> /u/Equalizer6338 </a> <br /> <span><a href="https://thehill.com/homenews/house/4579289-intel-chair-turner-absolutely-true-russia-propaganda-infected-us-congress/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by5j4i/intel_chair_turner_absolutely_true_that_russia/">[comments]</a></span> </td></tr></table>
+
+## Biden could be left off general election ballot in Ohio, Republican official warns | Letter by secretary of state warns party that Democratic National Convention is scheduled past the deadline to certify candidates
+ - [https://www.reddit.com/r/politics/comments/1by5exv/biden_could_be_left_off_general_election_ballot](https://www.reddit.com/r/politics/comments/1by5exv/biden_could_be_left_off_general_election_ballot)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T14:11:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by5exv/biden_could_be_left_off_general_election_ballot/"> <img alt="Biden could be left off general election ballot in Ohio, Republican official warns | Letter by secretary of state warns party that Democratic National Convention is scheduled past the deadline to certify candidates" src="https://external-preview.redd.it/eJ7Y-Pp2TyUje_i55T59_Cl8NVftECZX1dZTBpelXC8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c5275cbaacfb85fec2645f174d5e561030e7b8ef" title="Biden could be left off general election ballot in Ohio, Republican official warns | Letter by secretary of state warns party that Democratic National Convention is scheduled past the deadline to certify candidates" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hrmbee"> /u/Hrmbee </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/apr/07/biden-ohio-general-election-ballot">[link]</a></span> &#32; <span><a href="
+
+## Why the judge in Trump’s classified documents case faces mounting scrutiny
+ - [https://www.reddit.com/r/politics/comments/1by5ckf/why_the_judge_in_trumps_classified_documents_case](https://www.reddit.com/r/politics/comments/1by5ckf/why_the_judge_in_trumps_classified_documents_case)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T14:08:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by5ckf/why_the_judge_in_trumps_classified_documents_case/"> <img alt="Why the judge in Trump’s classified documents case faces mounting scrutiny" src="https://external-preview.redd.it/rHPuE54SWdUNOYP4L21VlJsCCCZu_Fqmdgu5STj0IMc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c17380a7f00db8ec5771c797afb0ed5f20ddf08e" title="Why the judge in Trump’s classified documents case faces mounting scrutiny" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/redmcint"> /u/redmcint </a> <br /> <span><a href="https://www.axios.com/2024/04/05/aileen-cannon-trump-classified-documents-case">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by5ckf/why_the_judge_in_trumps_classified_documents_case/">[comments]</a></span> </td></tr></table>
+
+## President Joe Biden will unveil his new plan to give student loan relief to many new borrowers
+ - [https://www.reddit.com/r/politics/comments/1by5bjl/president_joe_biden_will_unveil_his_new_plan_to](https://www.reddit.com/r/politics/comments/1by5bjl/president_joe_biden_will_unveil_his_new_plan_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T14:06:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by5bjl/president_joe_biden_will_unveil_his_new_plan_to/"> <img alt="President Joe Biden will unveil his new plan to give student loan relief to many new borrowers" src="https://external-preview.redd.it/3p5ZonaJy1eI___86faincOELZwCtrER4I1bMkYc4OQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1eee166fbffee3a9a05877436f8e38f16b96f2b" title="President Joe Biden will unveil his new plan to give student loan relief to many new borrowers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KoreyMDuffy"> /u/KoreyMDuffy </a> <br /> <span><a href="https://apnews.com/article/biden-education-department-student-loan-debt-forgiveness-fc7bc28332b1b1faec088ae7a02b5f0c">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by5bjl/president_joe_biden_will_unveil_his_new_plan_to/">[comments]</a></span> </td></tr></table>
+
+## Trump: Would be a "great honor" to be jailed for gag order violation
+ - [https://www.reddit.com/r/politics/comments/1by4bt4/trump_would_be_a_great_honor_to_be_jailed_for_gag](https://www.reddit.com/r/politics/comments/1by4bt4/trump_would_be_a_great_honor_to_be_jailed_for_gag)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T13:19:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by4bt4/trump_would_be_a_great_honor_to_be_jailed_for_gag/"> <img alt="Trump: Would be a &quot;great honor&quot; to be jailed for gag order violation" src="https://external-preview.redd.it/gQCX-ATFJJ6zR74_E1HOQE4mT5b1SXS_HcntDvXRrak.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=284dda64ecddafea619103e3a93e8b32702db129" title="Trump: Would be a &quot;great honor&quot; to be jailed for gag order violation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LawNo9454"> /u/LawNo9454 </a> <br /> <span><a href="https://www.axios.com/2024/04/07/trump-gag-order-new-york-merchan-jail">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by4bt4/trump_would_be_a_great_honor_to_be_jailed_for_gag/">[comments]</a></span> </td></tr></table>
+
+## Bernie Sanders, Biden share plan to cut 'outrageous' health care costs
+ - [https://www.reddit.com/r/politics/comments/1by42pu/bernie_sanders_biden_share_plan_to_cut_outrageous](https://www.reddit.com/r/politics/comments/1by42pu/bernie_sanders_biden_share_plan_to_cut_outrageous)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T13:07:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by42pu/bernie_sanders_biden_share_plan_to_cut_outrageous/"> <img alt="Bernie Sanders, Biden share plan to cut 'outrageous' health care costs" src="https://external-preview.redd.it/hY38PCbaTQaY0xEMo5PCHBx5cDo95fmGKvBIav_ygaY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87e6d41dd391cac7f8eded7afb93800ad189dda4" title="Bernie Sanders, Biden share plan to cut 'outrageous' health care costs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_May26_"> /u/_May26_ </a> <br /> <span><a href="https://abcnews.go.com/Politics/bernie-sanders-joins-biden-white-house-tout-progress/story?id=108799570">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by42pu/bernie_sanders_biden_share_plan_to_cut_outrageous/">[comments]</a></span> </td></tr></table>
+
+## Melania's appearance with Donald Trump sparks mockery: "Checking the clock"
+ - [https://www.reddit.com/r/politics/comments/1by3vqu/melanias_appearance_with_donald_trump_sparks](https://www.reddit.com/r/politics/comments/1by3vqu/melanias_appearance_with_donald_trump_sparks)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T12:57:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by3vqu/melanias_appearance_with_donald_trump_sparks/"> <img alt="Melania's appearance with Donald Trump sparks mockery: &quot;Checking the clock&quot;" src="https://external-preview.redd.it/Y003B2IF9P2AAwjBcKIGpjTkDgCK8TbxgjXLksK7tkI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33a6e58e34f1eb9cdc165139cce13598ebbc3f0f" title="Melania's appearance with Donald Trump sparks mockery: &quot;Checking the clock&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Car_o_lyn"> /u/Car_o_lyn </a> <br /> <span><a href="https://www.newsweek.com/melania-appearance-donald-trump-mockery-1887693">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by3vqu/melanias_appearance_with_donald_trump_sparks/">[comments]</a></span> </td></tr></table>
+
+## Wisconsin Senate candidate shifts abortion position amid GOP struggles on issue
+ - [https://www.reddit.com/r/politics/comments/1by3957/wisconsin_senate_candidate_shifts_abortion](https://www.reddit.com/r/politics/comments/1by3957/wisconsin_senate_candidate_shifts_abortion)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T12:24:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1by3957/wisconsin_senate_candidate_shifts_abortion/"> <img alt="Wisconsin Senate candidate shifts abortion position amid GOP struggles on issue" src="https://external-preview.redd.it/4WiksBBR93p4otwjqTQxL_kzXJKc0MBJcmFuVG0mgl0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=796a5976630e2a95b24f9f87012234d852182ba1" title="Wisconsin Senate candidate shifts abortion position amid GOP struggles on issue" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KopOut"> /u/KopOut </a> <br /> <span><a href="https://www.washingtonpost.com/elections/2024/04/05/eric-hovde-abortion-wisconsin/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by3957/wisconsin_senate_candidate_shifts_abortion/">[comments]</a></span> </td></tr></table>
+
+## Trump promises a ‘deal’ on abortion that will please everyone. It likely doesn’t exist.
+ - [https://www.reddit.com/r/politics/comments/1by2de0/trump_promises_a_deal_on_abortion_that_will](https://www.reddit.com/r/politics/comments/1by2de0/trump_promises_a_deal_on_abortion_that_will)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T11:35:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AbdullahHazari"> /u/AbdullahHazari </a> <br /> <span><a href="https://www.politico.com/news/2024/04/07/trump-abortion-democrats-republicans-00150800">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1by2de0/trump_promises_a_deal_on_abortion_that_will/">[comments]</a></span>
+
+## Former Capitol Police officer warns that ‘nothing is preventing’ another Jan. 6
+ - [https://www.reddit.com/r/politics/comments/1bxzf23/former_capitol_police_officer_warns_that_nothing](https://www.reddit.com/r/politics/comments/1bxzf23/former_capitol_police_officer_warns_that_nothing)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T08:26:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bxzf23/former_capitol_police_officer_warns_that_nothing/"> <img alt="Former Capitol Police officer warns that ‘nothing is preventing’ another Jan. 6" src="https://external-preview.redd.it/kj_C1fCf8XCpzW9zEcSW6Ui8zqVXWqI51glsXVHdI8I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0001ec48c2481c6028447b02f124d94671d057b5" title="Former Capitol Police officer warns that ‘nothing is preventing’ another Jan. 6" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equalizer6338"> /u/Equalizer6338 </a> <br /> <span><a href="https://thehill.com/regulation/court-battles/4578752-former-capitol-police-officer-warns-that-nothing-is-preventing-another-jan-6/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bxzf23/former_capitol_police_officer_warns_that_nothing/">[comments]</a></span> </td></tr></table>
+
+## Former GOP rep says Trump ‘appeals to the worst of us,’ calls on Biden ‘to recognize the moment’
+ - [https://www.reddit.com/r/politics/comments/1bxzeb0/former_gop_rep_says_trump_appeals_to_the_worst_of](https://www.reddit.com/r/politics/comments/1bxzeb0/former_gop_rep_says_trump_appeals_to_the_worst_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T08:25:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bxzeb0/former_gop_rep_says_trump_appeals_to_the_worst_of/"> <img alt="Former GOP rep says Trump ‘appeals to the worst of us,’ calls on Biden ‘to recognize the moment’" src="https://external-preview.redd.it/aDWEwo2XxdtGoH8I54BdgGXsOy_7q4sxFSlHC0zZoDo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6fb81d6d3cfb422596cffb944cc58aa11ab4aeac" title="Former GOP rep says Trump ‘appeals to the worst of us,’ calls on Biden ‘to recognize the moment’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equalizer6338"> /u/Equalizer6338 </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4578861-former-gop-rep-says-trump-appeals-to-the-worst-of-us/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bxzeb0/former_gop_rep_says_trump_appeals_to_the_worst_of/">[comments]</a></span> </td></tr></table>
+
+## Antitax Nation: How clever marketing duped America into shoveling more tax breaks to the wealthy and corporations.
+ - [https://www.reddit.com/r/politics/comments/1bxyoa4/antitax_nation_how_clever_marketing_duped_america](https://www.reddit.com/r/politics/comments/1bxyoa4/antitax_nation_how_clever_marketing_duped_america)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T07:37:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bxyoa4/antitax_nation_how_clever_marketing_duped_america/"> <img alt="Antitax Nation: How clever marketing duped America into shoveling more tax breaks to the wealthy and corporations." src="https://external-preview.redd.it/LiuxBs_4ywHp9NhTcYV4GInF9Q-mOgkdhKuaANvIdts.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=21f048bc72f25215c0514448a4625a5db89b6b88" title="Antitax Nation: How clever marketing duped America into shoveling more tax breaks to the wealthy and corporations." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UnlikelyAdventurer"> /u/UnlikelyAdventurer </a> <br /> <span><a href="https://prospect.org/culture/books/2024-04-05-antitax-nation-graetz-review/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bxyoa4/antitax_nation_how_clever_marketing_duped_america/">[comments]</a></span> </td></tr></table>
+
+## N.Y. AG skeptical of Donald Trump's bond posting that one legal expert calls 'financial chicanery'
+ - [https://www.reddit.com/r/politics/comments/1bxw1pd/ny_ag_skeptical_of_donald_trumps_bond_posting](https://www.reddit.com/r/politics/comments/1bxw1pd/ny_ag_skeptical_of_donald_trumps_bond_posting)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T04:56:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bxw1pd/ny_ag_skeptical_of_donald_trumps_bond_posting/"> <img alt="N.Y. AG skeptical of Donald Trump's bond posting that one legal expert calls 'financial chicanery'" src="https://external-preview.redd.it/xCc7F0VACBzK6opFgvpiTYsRgzW9qu6-dxg5GSUzXFw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87efa7c7a02ffda1896402ea39c42d2267a6eab2" title="N.Y. AG skeptical of Donald Trump's bond posting that one legal expert calls 'financial chicanery'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.upi.com/Top_News/US/2024/04/05/new-york-attorney-bond-deficient-trump-fraud/4981712348966/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bxw1pd/ny_ag_skeptical_of_donald_trumps_bond_posting/">[comments]</a></span> </td></tr></table>
+
+## How a fraction of voters decide who runs Texas
+ - [https://www.reddit.com/r/politics/comments/1bxuueu/how_a_fraction_of_voters_decide_who_runs_texas](https://www.reddit.com/r/politics/comments/1bxuueu/how_a_fraction_of_voters_decide_who_runs_texas)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T03:49:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bxuueu/how_a_fraction_of_voters_decide_who_runs_texas/"> <img alt="How a fraction of voters decide who runs Texas" src="https://external-preview.redd.it/uYewrrXLHfRQbxjCk38hvk70beT6YL1ny971OcKw7zA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d58ff89d686607f5e7ca8623248ace17b49e2e5c" title="How a fraction of voters decide who runs Texas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Weekend_3320"> /u/No_Weekend_3320 </a> <br /> <span><a href="https://apps.texastribune.org/features/2024/fraction-of-texans-vote-in-primaries/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bxuueu/how_a_fraction_of_voters_decide_who_runs_texas/">[comments]</a></span> </td></tr></table>
+
+## Colorado Sun politics reporter kicked out of GOP state assembly
+ - [https://www.reddit.com/r/politics/comments/1bxspta/colorado_sun_politics_reporter_kicked_out_of_gop](https://www.reddit.com/r/politics/comments/1bxspta/colorado_sun_politics_reporter_kicked_out_of_gop)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T02:00:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bxspta/colorado_sun_politics_reporter_kicked_out_of_gop/"> <img alt="Colorado Sun politics reporter kicked out of GOP state assembly" src="https://external-preview.redd.it/17deevTNYh_Yzj7RuhSuqwPPGgz1O_DyL1fyWKylYaM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f751e9c25199ffab3b5eb443f637b3f4164a8001" title="Colorado Sun politics reporter kicked out of GOP state assembly" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/squintamongdablind"> /u/squintamongdablind </a> <br /> <span><a href="https://coloradosun.com/2024/04/06/colorado-republican-party-kicks-out-colorado-sun-reporter/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bxspta/colorado_sun_politics_reporter_kicked_out_of_gop/">[comments]</a></span> </td></tr></table>
+
+## The GOP is freaking out about an industry that doesn’t even exist yet
+ - [https://www.reddit.com/r/politics/comments/1bxso7r/the_gop_is_freaking_out_about_an_industry_that](https://www.reddit.com/r/politics/comments/1bxso7r/the_gop_is_freaking_out_about_an_industry_that)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T01:58:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bxso7r/the_gop_is_freaking_out_about_an_industry_that/"> <img alt="The GOP is freaking out about an industry that doesn’t even exist yet" src="https://external-preview.redd.it/bVqHnYiAmHpoVHXNr9tAeK9daEuuJbEJKBu87XewALs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79bf2440b227b2a14eb19f612c55f49f164a152a" title="The GOP is freaking out about an industry that doesn’t even exist yet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hrmbee"> /u/Hrmbee </a> <br /> <span><a href="https://www.washingtonpost.com/opinions/2024/04/02/lab-meat-republicans-ban-climate/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bxso7r/the_gop_is_freaking_out_about_an_industry_that/">[comments]</a></span> </td></tr></table>
+
+## Biden Trounces Trump in Fundraising With Massive March Haul
+ - [https://www.reddit.com/r/politics/comments/1bxscks/biden_trounces_trump_in_fundraising_with_massive](https://www.reddit.com/r/politics/comments/1bxscks/biden_trounces_trump_in_fundraising_with_massive)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T01:41:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bxscks/biden_trounces_trump_in_fundraising_with_massive/"> <img alt="Biden Trounces Trump in Fundraising With Massive March Haul" src="https://external-preview.redd.it/6WqsZn_u-A4bdfoliTqjPQM8YBKk1NndCvxmdrIm5NE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8444aff8d9bc25e9487113e27c8accaee503106b" title="Biden Trounces Trump in Fundraising With Massive March Haul" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/croato87"> /u/croato87 </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/biden-trounces-trump-march-fundraising-1235000117/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bxscks/biden_trounces_trump_in_fundraising_with_massive/">[comments]</a></span> </td></tr></table>
+
+## These billionaires abandoned Trump after Jan. 6. Taxes are bringing them back in line
+ - [https://www.reddit.com/r/politics/comments/1bxs0ap/these_billionaires_abandoned_trump_after_jan_6](https://www.reddit.com/r/politics/comments/1bxs0ap/these_billionaires_abandoned_trump_after_jan_6)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T01:24:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bxs0ap/these_billionaires_abandoned_trump_after_jan_6/"> <img alt="These billionaires abandoned Trump after Jan. 6. Taxes are bringing them back in line" src="https://external-preview.redd.it/4mRCtFNuEYGc2rreUf09SFPuWoOdaslBlBmfQCs8YVE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3eddeb8310de9bd6532964ac996de8b1a53b515e" title="These billionaires abandoned Trump after Jan. 6. Taxes are bringing them back in line" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.latimes.com/politics/newsletter/2024-04-06/these-billionaires-abandoned-trump-after-jan-6-taxes-are-bringing-them-back-in-line-politics">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bxs0ap/these_billionaires_abandoned_trump_after_jan_6/">[comments]</a></span> </td></tr></table>
+
+## Sources say Trump sought to directly pressure Nebraska state senator over winner-take-all proposal
+ - [https://www.reddit.com/r/politics/comments/1bxqs4d/sources_say_trump_sought_to_directly_pressure](https://www.reddit.com/r/politics/comments/1bxqs4d/sources_say_trump_sought_to_directly_pressure)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T00:25:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bxqs4d/sources_say_trump_sought_to_directly_pressure/"> <img alt="Sources say Trump sought to directly pressure Nebraska state senator over winner-take-all proposal " src="https://external-preview.redd.it/9fe2o2b0k9mGI5d_JnJ2ErsEAcfwZk7j4bdos9w1_Go.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8868d545eb2bd63088b4a840bb26563cd14185ca" title="Sources say Trump sought to directly pressure Nebraska state senator over winner-take-all proposal " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IronFistBen"> /u/IronFistBen </a> <br /> <span><a href="https://www.1011now.com/2024/04/06/sources-say-trump-sought-directly-pressure-nebraska-state-senator-over-winner-take-all-proposal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bxqs4d/sources_say_trump_sought_to_directly_pressure/">[comments]</a></span> </td></tr></table>
+
+## Democrats’ New Bill Seeks Two Weeks of Paid Time Off for Workers
+ - [https://www.reddit.com/r/politics/comments/1bxqk0t/democrats_new_bill_seeks_two_weeks_of_paid_time](https://www.reddit.com/r/politics/comments/1bxqk0t/democrats_new_bill_seeks_two_weeks_of_paid_time)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-07T00:15:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1bxqk0t/democrats_new_bill_seeks_two_weeks_of_paid_time/"> <img alt="Democrats’ New Bill Seeks Two Weeks of Paid Time Off for Workers" src="https://external-preview.redd.it/kC80xgEjrndb3RzEDxq08uSTYC3Xn2T_dU-SEk1Peew.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f425e75b512f35dfb9d2aaf443a8b2a40341502" title="Democrats’ New Bill Seeks Two Weeks of Paid Time Off for Workers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tyree07"> /u/Tyree07 </a> <br /> <span><a href="https://news.bloomberglaw.com/daily-labor-report/democrats-new-bill-seeks-two-weeks-of-paid-time-off-for-workers">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1bxqk0t/democrats_new_bill_seeks_two_weeks_of_paid_time/">[comments]</a></span> </td></tr></table>
+
