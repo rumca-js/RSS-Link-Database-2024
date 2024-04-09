@@ -1,0 +1,170 @@
+# Source:Gulf Insider, URL:https://www.gulf-insider.com/feed, language:en-US
+
+## Eid Al Fitr 2024: Crescent Moon Not Spotted in Saudi Arabia, First Day of Festival Announced
+ - [https://www.gulf-insider.com/eid-al-fitr-2024-crescent-moon-not-spotted-in-saudi-arabia-first-day-of-festival-announced](https://www.gulf-insider.com/eid-al-fitr-2024-crescent-moon-not-spotted-in-saudi-arabia-first-day-of-festival-announced)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T16:07:30+00:00
+
+<p>Saudi Arabia has declared Wednesday, April 10, as the first day of Eid Al Fitr, after the crescent Moon was not spotted on Monday evening. The Kingdom announced that the holy month of Ramadan would, therefore, last 30 days this year. Earlier, Saudi&#8217;s Supreme Court had asked faithful across the country to sight the crescent moon on &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/eid-al-fitr-2024-crescent-moon-not-spotted-in-saudi-arabia-first-day-of-festival-announced/">Eid Al Fitr 2024: Crescent Moon Not Spotted in Saudi Arabia, First Day of Festival Announced</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi: Two Youth Drown in Al Baha Due to Heavy Rains Creating Deadly Water Pool
+ - [https://www.gulf-insider.com/saudi-two-youth-drown-in-al-baha-due-to-heavy-rains-creating-deadly-water-pool](https://www.gulf-insider.com/saudi-two-youth-drown-in-al-baha-due-to-heavy-rains-creating-deadly-water-pool)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T11:31:11+00:00
+
+<p>Two young individuals lost their lives in Al Baha region of Saudi Arabia due to drowning in a large water pool formed by recent heavy rains. Civil Defence teams responded to reports of the disappearance and subsequently recovered the bodies of the two juveniles, aged 15 and 17, from a rainwater pool in the area &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-two-youth-drown-in-al-baha-due-to-heavy-rains-creating-deadly-water-pool/">Saudi: Two Youth Drown in Al Baha Due to Heavy Rains Creating Deadly Water Pool</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## 494 Arrested for Phone Fraud Targeting Bank Customers in Dubai
+ - [https://www.gulf-insider.com/494-arrested-for-phone-fraud-targeting-bank-customers-in-dubai](https://www.gulf-insider.com/494-arrested-for-phone-fraud-targeting-bank-customers-in-dubai)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T11:26:52+00:00
+
+<p>Dubai Police, represented by the General Department of Criminal Investigation, has arrested 494 individuals involved in 406 phone fraud cases targeting bank customers under the guise of “updating banking information” over the past year. The fraudsters utilised various deceptive methods, including phone calls, emails, SMS and social media links, to trick victims and access their &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/494-arrested-for-phone-fraud-targeting-bank-customers-in-dubai/">494 Arrested for Phone Fraud Targeting Bank Customers in Dubai</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi Arabia’s First Container Services Company Kicks off Operations
+ - [https://www.gulf-insider.com/saudi-arabias-first-container-services-company-kicks-off-operations](https://www.gulf-insider.com/saudi-arabias-first-container-services-company-kicks-off-operations)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T11:22:51+00:00
+
+<p>Saudi Arabia’s first container services, Folk Maritime, kicked off its operations with its first vessel – Sunset X – arriving at the Jeddah Islamic Port. The newly created container services company is expected to further strengthen the country’s maritime logistics sector. Folk Marine, the first Saudi company specializing in container and feeder ships, will provide tributary ship &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-arabias-first-container-services-company-kicks-off-operations/">Saudi Arabia’s First Container Services Company Kicks off Operations</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Total Solar Eclipse on April 8, 2024: Time, Path and How to Watch
+ - [https://www.gulf-insider.com/total-solar-eclipse-on-april-8-2024-time-path-and-how-to-watch](https://www.gulf-insider.com/total-solar-eclipse-on-april-8-2024-time-path-and-how-to-watch)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T11:14:25+00:00
+
+<p>On April 8, 2024, a total solar eclipse will grace the skies over parts of the US, Mexico and Canada. An estimated 31 million people in the North American continent will be in the path of the solar eclipse. Why is the solar eclipse special? The upcoming solar eclipse slated for April 8 is set &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/total-solar-eclipse-on-april-8-2024-time-path-and-how-to-watch/">Total Solar Eclipse on April 8, 2024: Time, Path and How to Watch</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Etihad to Debut Flights to This New Saudi Destination
+ - [https://www.gulf-insider.com/etihad-to-debut-flights-to-this-new-saudi-destination](https://www.gulf-insider.com/etihad-to-debut-flights-to-this-new-saudi-destination)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T11:09:59+00:00
+
+<p>Etihad Airways has unveiled plans to bolster its network by introducing flights to Al Qassim, Saudi Arabia, and increasing service frequencies to several key destinations. The carrier will commence operations to Al Qassim from June 24. The new route will connect Abu Dhabi’s Zayed International Airport directly with Al Qassim’s Prince Naif Bin Abdulaziz International &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/etihad-to-debut-flights-to-this-new-saudi-destination/">Etihad to Debut Flights to This New Saudi Destination</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## UAE: Eid Al Fitr 2024 to Begin on April 10, Says International Astronomical Centre
+ - [https://www.gulf-insider.com/uae-eid-al-fitr-2024-to-begin-on-april-10-says-international-astronomical-centre](https://www.gulf-insider.com/uae-eid-al-fitr-2024-to-begin-on-april-10-says-international-astronomical-centre)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T07:43:31+00:00
+
+<p>Eid Al Fitr in the UAE will begin on Wednesday, April 10, according to the International Astronomical Center (IAC). Many Islamic states will also celebrate Eid Al Fitr, which marks the end of Ramadan. Sighting committees will be looking to sight the Shawwal crescent moon on Monday evening from regions where it is theoretically possible, &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/uae-eid-al-fitr-2024-to-begin-on-april-10-says-international-astronomical-centre/">UAE: Eid Al Fitr 2024 to Begin on April 10, Says International Astronomical Centre</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brain
+ - [https://www.gulf-insider.com/fasting-style-diet-seems-to-result-in-dynamic-changes-to-human-brain](https://www.gulf-insider.com/fasting-style-diet-seems-to-result-in-dynamic-changes-to-human-brain)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T07:40:09+00:00
+
+<p>Scientists looking to tackle our ongoing obesity crisis have made an important discovery: Intermittent calorie restriction leads to significant changes both in the gut and the brain, which may open up new options for maintaining a healthy weight. Researchers from China studied 25 volunteers classed as obese over a period of 62 days, during which they took &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/fasting-style-diet-seems-to-result-in-dynamic-changes-to-human-brain/">Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brain</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Elon Musk Says X Will Defy Order From Brazil’s Supreme Court After Twitter Files
+ - [https://www.gulf-insider.com/elon-musk-says-x-will-defy-order-from-brazils-supreme-court-after-twitter-files](https://www.gulf-insider.com/elon-musk-says-x-will-defy-order-from-brazils-supreme-court-after-twitter-files)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T06:16:39+00:00
+
+<p>Owner of X Corp. Elon Musk said on the platform Saturday evening that the company had decided to lift all restrictions on Brazilian accounts targeted by an order from the nation’s Supreme Court. “We are lifting all restrictions. This judge has applied massive fines, threatened to arrest our employees and cut off access to X &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/elon-musk-says-x-will-defy-order-from-brazils-supreme-court-after-twitter-files/">Elon Musk Says X Will Defy Order From Brazil’s Supreme Court After Twitter Files</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Iran Threatens Israel’s Embassies: “No Longer Safe”
+ - [https://www.gulf-insider.com/iran-threatens-israels-embassies-no-longer-safe](https://www.gulf-insider.com/iran-threatens-israels-embassies-no-longer-safe)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T06:07:29+00:00
+
+<p>The Iranian government is apparently seeking to capitalize on the Israeli public and leadership being on edge due to continuing fears that an Iranian retaliation attack is imminent after last week&#8217;s Israeli airstrike on Iran&#8217;s embassy complex in Damascus. An adviser to Iran’s supreme leader on Sunday has threatened to attack Iran&#8217;s embassies, or at &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/iran-threatens-israels-embassies-no-longer-safe/">Iran Threatens Israel’s Embassies: “No Longer Safe”</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## UAE Weather Forecast: Rain and Clouds Expected on Monday, April 8
+ - [https://www.gulf-insider.com/uae-weather-forecast-rain-and-clouds-expected-on-monday-april-8](https://www.gulf-insider.com/uae-weather-forecast-rain-and-clouds-expected-on-monday-april-8)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T05:11:36+00:00
+
+<p>UAE weather forecasters have predicted cloudy skies and light rain on Monday. According to the National Centre of Meteorology (NCM), Monday, April 8’s weather outlook indicates predominantly partly cloudy skies. There is a possibility of isolated light rains impacting some western coastal areas and islands. UAE weather forecast &#160; These regions may also experience mid-level clouds. Wind &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/uae-weather-forecast-rain-and-clouds-expected-on-monday-april-8/">UAE Weather Forecast: Rain and Clouds Expected on Monday, April 8</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Qatar Announces Lusail Tram Expansion
+ - [https://www.gulf-insider.com/qatar-announces-lusail-tram-expansion](https://www.gulf-insider.com/qatar-announces-lusail-tram-expansion)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T05:06:22+00:00
+
+<p>Qatar’s Ministry of Transport will see a major expansion of Lusail Tram services from Monday, April 8. The MOT will operate the Pink Line service and all the Orange Line stations. Ten new Orange Line stations are coming to service: Naifa Fox Hills – South Downtown Lusail Al Khayl Street Fox Hills – North Crescent Park – &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/qatar-announces-lusail-tram-expansion/">Qatar Announces Lusail Tram Expansion</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Eid Al Fitr 2024: UAE, Saudi Arabia, Qatar, Oman, Kuwait and Bahrain Announce Holidays
+ - [https://www.gulf-insider.com/eid-al-fitr-2024-uae-saudi-arabia-qatar-oman-kuwait-and-bahrain-announce-holidays](https://www.gulf-insider.com/eid-al-fitr-2024-uae-saudi-arabia-qatar-oman-kuwait-and-bahrain-announce-holidays)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T05:02:21+00:00
+
+<p>Eid Al Fitr holidays have been announced across the GCC, with government departments and authorities revealing dates and durations of extended breaks. The UAE, Saudi Arabia, Qatar, Oman, Kuwait and Bahrain will all see public and private sector holidays for workers. Eid Al Fitr marks the end of the Holy Month of Ramadan and is celebrated &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/eid-al-fitr-2024-uae-saudi-arabia-qatar-oman-kuwait-and-bahrain-announce-holidays/">Eid Al Fitr 2024: UAE, Saudi Arabia, Qatar, Oman, Kuwait and Bahrain Announce Holidays</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Would NATO Really Hang France Out to Dry if Russia Pulverized Its Forces in Ukraine?
+ - [https://www.gulf-insider.com/would-nato-really-hang-france-out-to-dry-if-russia-pulverized-its-forces-in-ukraine](https://www.gulf-insider.com/would-nato-really-hang-france-out-to-dry-if-russia-pulverized-its-forces-in-ukraine)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T04:28:18+00:00
+
+<p>The Wall Street Journal cited an unnamed US official on Wednesday to report that “Macron told allies that there would be no need to involve NATO or the U.S. if Russia targeted French troops” that might conventionally deploy to Ukraine in the coming future per his infamous proposal from late February. While he might have indeed said that, it can’t be &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/would-nato-really-hang-france-out-to-dry-if-russia-pulverized-its-forces-in-ukraine/">Would NATO Really Hang France Out to Dry if Russia Pulverized Its Forces in Ukraine?</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Swiss to Hold Referendum That Will Restrict Population to 10 Million Until 2050
+ - [https://www.gulf-insider.com/swiss-to-hold-referendum-that-will-restrict-population-to-10-million-until-2050](https://www.gulf-insider.com/swiss-to-hold-referendum-that-will-restrict-population-to-10-million-until-2050)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T04:18:37+00:00
+
+<p>In a move intended to restrict mass migration, Switzerland will hold a referendum to restrict their population to 10 million until 2050. The vote will take place after the populist Swiss People’s Party (UDC) harvested 114,600 signatures in just nine months, meeting a government requirement for 100,000 signatures within 18 months for the referendum to &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/swiss-to-hold-referendum-that-will-restrict-population-to-10-million-until-2050/">Swiss to Hold Referendum That Will Restrict Population to 10 Million Until 2050</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Meta To Start Labelling All AI-generated Content On Facebook, Instagram
+ - [https://www.gulf-insider.com/meta-to-start-labelling-all-ai-generated-content-on-facebook-instagram](https://www.gulf-insider.com/meta-to-start-labelling-all-ai-generated-content-on-facebook-instagram)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T04:10:02+00:00
+
+<p>Facebook owner&#160;Meta&#160;META.O&#160;announced major changes to its policies on digitally created and altered media on Friday, ahead of U.S. elections poised to test its ability to police deceptive content generated by new artificial intelligence technologies. What gets labelled? The social media giant will start applying “Made with AI” labels in May to AI-generated videos, images and &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/meta-to-start-labelling-all-ai-generated-content-on-facebook-instagram/">Meta To Start Labelling All AI-generated Content On Facebook, Instagram</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Eid Alert Issued For Drivers Using Highways And Picnickers On Weather Fluctuations In Saudi Arabia
+ - [https://www.gulf-insider.com/eid-alert-issued-for-drivers-using-highways-and-picnickers-on-weather-fluctuations-in-saudi-arabia](https://www.gulf-insider.com/eid-alert-issued-for-drivers-using-highways-and-picnickers-on-weather-fluctuations-in-saudi-arabia)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T04:07:43+00:00
+
+<p>Drivers using highways and picnickers on beaches in Saudi Arabia have been warned of weather fluctuations during this week’s Eid Al Fitr holiday. The Saudi National Centre for Meteorology (NCM) Hussain Al Qahtani has advised members of the public to follow up weather reports particularly during Eid Al Fitr, which marks the end of Ramadan. &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/eid-alert-issued-for-drivers-using-highways-and-picnickers-on-weather-fluctuations-in-saudi-arabia/">Eid Alert Issued For Drivers Using Highways And Picnickers On Weather Fluctuations In Saudi Arabia</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Watch: Saudi Father Pardons Son’s Killer Days Before Execution
+ - [https://www.gulf-insider.com/watch-saudi-father-pardons-sons-killer-days-before-execution](https://www.gulf-insider.com/watch-saudi-father-pardons-sons-killer-days-before-execution)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T04:06:20+00:00
+
+<p>Saudi citizen Ati Al Maliki in Mecca has granted a pardon to the killer of his son Abdullah, just days before the scheduled execution set for April 17, without seeking any compensation in return. الشيخ عاطي بن عطيه المالكي يعفو عن قاتل إبنه . شاهر ضيف الله الحارثي لوجه الله الكريم بيض الله وجهك وجزاك &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/watch-saudi-father-pardons-sons-killer-days-before-execution/">Watch: Saudi Father Pardons Son’s Killer Days Before Execution</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## ‘Reef Saudi’ Allocates SR61 Million To Boost Coffee Production To 7,000 Tons Annually
+ - [https://www.gulf-insider.com/reef-saudi-allocates-sr61-million-to-boost-coffee-production-to-7000-tons-annually](https://www.gulf-insider.com/reef-saudi-allocates-sr61-million-to-boost-coffee-production-to-7000-tons-annually)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T04:04:49+00:00
+
+<p>The Sustainable Agricultural Rural Development Program, known as &#8216;Reef Saudi,&#8217; is making strides in enhancing the Kingdom&#8217;s coffee sector. With an initial investment of SR61 million since 2020, the program has benefited 3,718 individuals involved in coffee cultivation and production. This investment marks a pivotal shift in coffee production volumes in Saudi Arabia, which have &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/reef-saudi-allocates-sr61-million-to-boost-coffee-production-to-7000-tons-annually/">&#8216;Reef Saudi&#8217; Allocates SR61 Million To Boost Coffee Production To 7,000 Tons Annually</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## US Officials’ Fury At Biden Gaza Policy Means Mood In State Department Now Worse Than During The Iraq War
+ - [https://www.gulf-insider.com/us-officials-fury-at-biden-gaza-policy-means-mood-in-state-department-now-worse-than-during-the-iraq-war](https://www.gulf-insider.com/us-officials-fury-at-biden-gaza-policy-means-mood-in-state-department-now-worse-than-during-the-iraq-war)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T04:00:34+00:00
+
+<p>The mood among staff in the State Department is worse than during the disastrous US invasion of Iraq, according to a former staffer, as the fallout from the killing of seven international aid workers by Israel continues. “I have never seen this much dissent,” Charles Blaha, former director of the State Department’s Office of Security &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/us-officials-fury-at-biden-gaza-policy-means-mood-in-state-department-now-worse-than-during-the-iraq-war/">US Officials’ Fury At Biden Gaza Policy Means Mood In State Department Now Worse Than During The Iraq War</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## El Salvador Offering 5,000 Free Passports To Highly Skilled Scientists, Engineers, Doctors, Says President Nayib Bukele
+ - [https://www.gulf-insider.com/el-salvador-offering-5000-free-passports-to-highly-skilled-scientists-engineers-doctors-says-president-nayib-bukele](https://www.gulf-insider.com/el-salvador-offering-5000-free-passports-to-highly-skilled-scientists-engineers-doctors-says-president-nayib-bukele)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-04-08T03:57:25+00:00
+
+<p>Nayib Bukele, the President of El Salvador has announced that the Central American country will offer 5,000 free passports to highly skilled workers. The number is equivalent to $5 billion in the country&#8217;s passport programme, he added. &#8220;We&#8217;re offering 5,000 free passports (equivalent to $5 billion in our passport program) to highly skilled scientists, engineers, &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/el-salvador-offering-5000-free-passports-to-highly-skilled-scientists-engineers-doctors-says-president-nayib-bukele/">El Salvador Offering 5,000 Free Passports To Highly Skilled Scientists, Engineers, Doctors, Says President Nayib Bukele</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+

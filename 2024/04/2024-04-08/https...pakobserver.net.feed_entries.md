@@ -1,0 +1,457 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed, language:en-US
+
+## Inside Army Chief Asim Munir’s Iftar dinner for Pakistan Cricket Team
+ - [https://pakobserver.net/inside-army-chief-asim-munirs-iftar-dinner-for-pakistan-cricket-team](https://pakobserver.net/inside-army-chief-asim-munirs-iftar-dinner-for-pakistan-cricket-team)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T17:58:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/ffww-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI – Chief of Army Staff (COAS) General Syed Asim Munir hosted an iftar diner for the Pakistan national cricket team at Army House Rawalpindi. The national squad members met Army Chief after completing physical training at Army School of Physical Training (ASPT) camp in Kakul, Abbottabad. Chairman of the Pakistan Cricket Board (PCB), Mohsin [&#8230;]
+
+## Woman beggar ‘raped’ in Islamabad in lure of financial help
+ - [https://pakobserver.net/woman-beggar-raped-in-islamabad-in-lure-of-financial-help](https://pakobserver.net/woman-beggar-raped-in-islamabad-in-lure-of-financial-help)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T17:30:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/girl-waiting-for-bus-allegedly-drugged-abducted-gang-raped-in-lahore-1601538024-1210-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI – A woman beggar was allegedly raped by a man in Morgah area in the metropolis on Saturday. A case was registered in the Saddar Beroni area as a resident of Rawalpindi was sexually assaulted by a man who was accompanied by two accomplices including a woman. The victim told police that she used [&#8230;]
+
+## Petrol price in Pakistan likely to increase from April 16
+ - [https://pakobserver.net/petrol-price-in-pakistan-likely-to-increase-from-april-16](https://pakobserver.net/petrol-price-in-pakistan-likely-to-increase-from-april-16)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T17:09:37+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/petrol-price-in-pakistan-april-2024-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The prices of petrol and diesel are said to move up from April 2024 owing to surge in global oil rates and government’s plan to raise levy on all POLs. People in Pakistan will bear brunt again after fresh shock of over Rs9 per liter. Sources familiar with the development claimed that petrol [&#8230;]
+
+## Eid 2024: Shawwal moon not sighted in Saudi Arabia, Eidul Fitr to be celebrated on April 10
+ - [https://pakobserver.net/eid-2024-shawwal-moon-not-sighted-in-saudi-arabia-eidul-fitr-to-be-celebrated-on-april-10](https://pakobserver.net/eid-2024-shawwal-moon-not-sighted-in-saudi-arabia-eidul-fitr-to-be-celebrated-on-april-10)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T16:03:18+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/cr-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RIAYDH &#8211; The Shawwal crescent was not sighted in Saudi Arabia on Monday and the Arab nation would celebrate Eidul-Fitr on Wednesday, April 10. Eidul-Fitr starts on the first day of Shawwal as the Islamic festival marks the end of the holy fasting month of Ramadan. Saudi Supreme Court earlier urged people to report sightings [&#8230;]
+
+## Suzuki Mehran Latest Price April 2024 Update
+ - [https://pakobserver.net/suzuki-mehran-latest-price-april-2024-update](https://pakobserver.net/suzuki-mehran-latest-price-april-2024-update)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T15:52:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/h3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Suzuki Mehran Latest Price in Pakistan: Suzuki Mehran remained common man’s vehicle for decades in Pakistan. The first car of the country’s oldest automaker was discontinued in Pakistan in 2019 but it is commonly spotted on roads as thousands still rely on the 800cc car known for its robust build and performance. The company sold [&#8230;]
+
+## PM Shehbaz, MBS agree to speed up $5billion Saudi investment in Pakistan
+ - [https://pakobserver.net/pm-shehbaz-mbs-agree-to-speed-up-5billion-saudi-investment-in-pakistan](https://pakobserver.net/pm-shehbaz-mbs-agree-to-speed-up-5billion-saudi-investment-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T15:15:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/3509896-51834254-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Pakistani Prime Minister Shehbaz Sharif and Saudi Arabia have pledged to fasten first wave of an investment package worth $5 billion. A joint statement issued after the PM’s meeting with the Saudi leader said the Kingdom will expedite its $5 billion investment in Pakistan. Sharif called on Saudi Crown Prince Mohammed bin Salman [&#8230;]
+
+## Eidul-Fitr 2024 in Saudi Arabia Latest Moon Sighting Updates
+ - [https://pakobserver.net/eidul-fitr-2024-in-saudi-arabia-latest-moon-sighting-updates](https://pakobserver.net/eidul-fitr-2024-in-saudi-arabia-latest-moon-sighting-updates)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T14:50:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/gj3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RIYADH – Saudi Arabian authorities and people are sighting crescent moon of Shawwal today on Monday to celebrate Eidul Fitr 2024. The top court of the Kingdom called upon Muslims and experts to sight the crescent moon of Shawwal. As per astronomical predictions, there are fewer chances of moon to sight tonight. If the moon is [&#8230;]
+
+## Eidul Fitr 2024 Moon Sighting Updates in Pakistan
+ - [https://pakobserver.net/eidul-fitr-2024-latest-moon-sighting-updates-in-pakistan](https://pakobserver.net/eidul-fitr-2024-latest-moon-sighting-updates-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T14:39:33+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/maxresdefault-1-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RIYADH &#8211; Ruet Hilal Committee will sight crescent moon of Shawwal on Tuesday to celebrate Eidul Fitr 2024. A meeting of the top moon sighting body is scheduled for Wednesday, April 9, to determine the sighting of the Shawwal moon. The meeting will take place at the Ministry of Religious Affairs and Interfaith Harmony and [&#8230;]
+
+## NTDC to ensure uninterrupted power supply on Eid-ul-Fitr
+ - [https://pakobserver.net/ntdc-to-ensure-uninterrupted-power-supply-on-eid-ul-fitr](https://pakobserver.net/ntdc-to-ensure-uninterrupted-power-supply-on-eid-ul-fitr)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T14:01:31+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/ntdc2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; The National Transmission and Despatch Company Limited (NTDC) has completed all necessary preparations to ensure uninterrupted power supply throughout the country on the occasion of Eid-ul-Fitr. A central control room has been set up to maintain close liaison with National Power Control Center and all distribution companies (DISCOs) which will work round the [&#8230;]
+
+## Pakistan records significant increase in workers’ remittances
+ - [https://pakobserver.net/pakistan-records-significant-increase-in-workers-remittances](https://pakobserver.net/pakistan-records-significant-increase-in-workers-remittances)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T13:06:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/remittances-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Pakistan recorded workers’ remittances inflow of $3 billion during March 2024. As per the data released by the State Bank of Pakistan (SBP) on Monday, remittances increased significantly by 31.3 per cent on month on month basis and 16.4 per cent on year on year basis.  Workers’ Remittances recorded an inflow of $21 [&#8230;]
+
+## Latest Men’s Eid Shalwar Kameez Designs in Pakistan 2024
+ - [https://pakobserver.net/latest-mens-eid-shalwar-kameez-designs-in-pakistan-2024](https://pakobserver.net/latest-mens-eid-shalwar-kameez-designs-in-pakistan-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T12:25:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/HH-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Eid 2024 is here, the shopping frenzy is at peak with people thronging markets and online stores to get their special clothes to celebrate the event. In Pakistan, some choose to wear traditional dress that reflects cultural heritage, while others opt for more trendy outfits. People used to wear new clothes, accessories, in effort to [&#8230;]
+
+## Punjab Job Center registers over 400,000 job seekers, 67,000 employers
+ - [https://pakobserver.net/punjab-job-center-registers-over-400000-job-seekers-67000-employers](https://pakobserver.net/punjab-job-center-registers-over-400000-job-seekers-67000-employers)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T12:14:35+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/PITB-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Punjab Job Center, a collaborative initiative of the Punjab Information Technology Board (PITB) and the Labor &#38; Human Resource Department (L&#38;HRD), has enrolled over 400,000 job seekers and 67,000 employers since its launch in August 2022. This emerged during a progress review meeting presided over by PITB Chairman Faisal Yousaf. The Punjab Job [&#8230;]
+
+## Rain likely in Peshawar, parts of Khyber Pakhtunkhwa this week
+ - [https://pakobserver.net/rain-likely-in-peshawar-parts-of-khyber-pakhtunkhwa-this-week](https://pakobserver.net/rain-likely-in-peshawar-parts-of-khyber-pakhtunkhwa-this-week)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T12:01:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/07/khi-weather-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PESHAWAR – Rain-wind/thunderstorms are likely across Khyber Pakhtunkhwa from April 10 to April 15 with occasional gaps. As per the Pakistan Meteorological Department (PMD), a westerly wave will likely enter upper parts of Pakistan on April 10. It will be followed by another strong westerly wave on April 12 that may grip most parts of [&#8230;]
+
+## Rain likely in Lahore, parts of Punjab from April 12
+ - [https://pakobserver.net/rain-likely-in-lahore-parts-of-punjab-from-april-12](https://pakobserver.net/rain-likely-in-lahore-parts-of-punjab-from-april-12)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T11:40:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/LHR-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Significant rain-wind/thunderstorms are likely in Lahore and parts of Punjab from April 12 to April 15 with occasional gaps. As per the Pakistan Meteorological Department (PMD), a westerly wave will likely enter upper parts of Pakistan on April 10. It will be followed by another strong westerly wave on April 12 that may [&#8230;]
+
+## Rain likely in Lahore, parts of Punjab on Eid days
+ - [https://pakobserver.net/rain-likely-in-lahore-parts-of-punjab-on-eid-days](https://pakobserver.net/rain-likely-in-lahore-parts-of-punjab-on-eid-days)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T11:40:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/LHR-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Significant rain-wind/thunderstorms are likely in Lahore and parts of Punjab from April 12 to April 15 with occasional gaps. As per the Pakistan Meteorological Department (PMD), a westerly wave will likely enter upper parts of Pakistan on April 10. It will be followed by another strong westerly wave on April 12 that may [&#8230;]
+
+## Solar Eclipse 2024: Here’s how to watch Celestial Show Live in Pakistan
+ - [https://pakobserver.net/solar-eclipse-2024-heres-how-to-watch-celestial-show-live-in-pakistan](https://pakobserver.net/solar-eclipse-2024-heres-how-to-watch-celestial-show-live-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T11:34:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/c00f156b-3098-4374-a361-0aceef28dc47_1920x1080-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Anticipation builds in US, Canada, Mexico, and other regions as there will be a total solar eclipse today, the rare celestial moment when the moon comes between the sun and the Earth, and it blocks the sun&#8217;s light on one side, casting shadow on Earth. April 8 solar eclipse will not be visible in Pakistan [&#8230;]
+
+## SBP rolls out framework to facilitate BISP beneficiaries
+ - [https://pakobserver.net/sbp-rolls-out-framework-to-facilitate-bisp-beneficiaries](https://pakobserver.net/sbp-rolls-out-framework-to-facilitate-bisp-beneficiaries)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T11:24:40+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/SBPR-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The State Bank of Pakistan (SBP) on Monday issued a framework to onboard the Benazir Income Support Program (BISP) beneficiaries for receiving the social welfare payment into their accounts to be opened in all banks and MFBs across the country. The facilitation framework has been developed in consultation with the BISP and banks. [&#8230;]
+
+## Branchless Banking Transactions surpass 1 billion in Single Quarter in Pakistan
+ - [https://pakobserver.net/branchless-banking-transactions-surpass-1-billion-in-single-quarter-in-pakistan](https://pakobserver.net/branchless-banking-transactions-surpass-1-billion-in-single-quarter-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T10:58:45+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/1520157443979-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Pakistan’s branchless banking had an impressive quarter as transactions crossed 1 billion mark for the first time in history. Data shared by State Bank of Pakistan (SBP) shows that 22 percent of transactions are for bill payments and mobile top-ups, while an impressive 43 percent are for fund transfers. Banks and Microfinance Banks [&#8230;]
+
+## Significant rains predicted in Pakistan from April 10
+ - [https://pakobserver.net/significant-rains-predicted-in-pakistan-from-april-10](https://pakobserver.net/significant-rains-predicted-in-pakistan-from-april-10)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T10:55:38+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/07/rains4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Intermittent rain-wind/thunderstorms are likely in parts of Pakistan from April 10 to April 15. As per the Pakistan Meteorological Department (PMD), a westerly wave will likely enter upper parts of Pakistan on April 10. It will be followed by another strong westerly wave on April 12 that may grip most parts of the [&#8230;]
+
+## New Emirates ID card fee update for Bangladesh nationals April 2024
+ - [https://pakobserver.net/new-emirates-id-card-fee-update-for-bangladesh-nationals-april-2024](https://pakobserver.net/new-emirates-id-card-fee-update-for-bangladesh-nationals-april-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T10:15:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/id5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />DUBAI &#8211; More than 700,000 Bangladesh nationals reside in the United Arab Emirates (UAE), constitution the 7.38 percent of the Gulf country&#8217;s total population. Like overseas nationals of other countries, Bangladeshi citizens are required to obtain the Emirates ID card if they do a job or run a business in the UAE. Holding the Emirates [&#8230;]
+
+## Gold prices hit record high in Pakistan; check latest rates on April 8
+ - [https://pakobserver.net/gold-prices-hit-record-high-in-pakistan-check-latest-rates-on-april-8](https://pakobserver.net/gold-prices-hit-record-high-in-pakistan-check-latest-rates-on-april-8)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T09:57:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/gold-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Gold prices reached all-time high level in domestic and international markets owing to rising oil prices amid Middle East crisis. According to Sarafa Association, the price of 24-karat gold moved up by Rs600 to close at Rs245,700, the highest prices in the history of Pakistan. The price of 10-gram surged by Rs514 to [&#8230;]
+
+## President Zardari to address parliament’s joint session on Apr 16
+ - [https://pakobserver.net/president-zardari-to-address-parliaments-joint-session-on-apr-16](https://pakobserver.net/president-zardari-to-address-parliaments-joint-session-on-apr-16)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T09:00:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/President-Zardari-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; President Asif Ali Zardari is scheduled to address the joint session of the parliament on April 16, to mark the beginning of the parliamentary year, following the general elections. The joint session of the parliament will be held on Tuesday (April 16) at 1600 hours, according to a President House press release. He [&#8230;]
+
+## New School Timings in Lahore, Punjab after Eid 2024
+ - [https://pakobserver.net/new-school-timings-in-lahore-punjab-after-eid-2024](https://pakobserver.net/new-school-timings-in-lahore-punjab-after-eid-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T08:52:04+00:00
+
+LAHORE &#8211; Public and private schools in all cities of Punjab, including Lahore, will resume new timings after Eidul Fitr 2024 as reduced hours were announced for holy month of Ramadan 2024. All schools have announced public holidays till April 13 on the account of Eid with the educational institutions reopening on April 15 (Monday). [&#8230;]
+
+## Mishi Khan criticizes Adnan Siddiqui’s comparison of women to “makhi”
+ - [https://pakobserver.net/mishi-khan-criticizes-adnan-siddiquis-comparison-of-women-to-makhi](https://pakobserver.net/mishi-khan-criticizes-adnan-siddiquis-comparison-of-women-to-makhi)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T08:51:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/mishi-Khan-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; Renowned Pakistani actress Mishi Khan has publicly criticized fellow actor Adnan Siddiqui for his recent comments likening women to &#8220;makhi&#8221; (flies), calling his remarks disrespectful and inappropriate. During a television appearance, Siddiqui made a comparison between women and flies, suggesting that the more one chases them, the farther they will go, and if [&#8230;]
+
+## Pak-NZ T20 series: Tickets put on sale across country
+ - [https://pakobserver.net/pak-nz-t20-series-tickets-put-on-sale-across-country](https://pakobserver.net/pak-nz-t20-series-tickets-put-on-sale-across-country)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T08:23:42+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/tickets-april-8-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Tickets for five-match T20 international series between Pakistan and New Zealand have been made available for purchase at 36 designated centers of a courier company. These centers are located in Lahore, Islamabad, Rawalpindi, Gujranwala, Sialkot, Multan, Peshawar and Karachi. The fans can visit any designated center and buy physical tickets for the T20I [&#8230;]
+
+## PM Shehbaz meets Saudi Crown Prince at Al-Safa Palace in Makkah
+ - [https://pakobserver.net/pm-shehbaz-meets-saudi-crown-prince-at-al-safa-palace-in-makkah](https://pakobserver.net/pm-shehbaz-meets-saudi-crown-prince-at-al-safa-palace-in-makkah)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T08:20:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/4308481-361797532-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Prime Minister Shehbaz Sharif attended Iftar hosted by Saudi Crown Prince Mohammed bin Salman at Al-Safa Palace in Makkah. The premier, who is in Saudi Arabia on three-day official visit, also held a meeting with the crown prince where both sides reaffirmed their common resolve to further strengthen bilateral ties between Pakistan and [&#8230;]
+
+## BISE Faisalabad inter part 2 Roll Number slip 2024 download
+ - [https://pakobserver.net/bise-faisalabad-inter-part-2-roll-number-slip-2024-download](https://pakobserver.net/bise-faisalabad-inter-part-2-roll-number-slip-2024-download)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T08:07:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/bise-alh-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Inter part 2 Roll Number slip 2024: The Board of Intermediate and Secondary Education has started issuing the roll number slips for Higher Secondary School Certificate (HSSC) first annual examinations 2024. The HSSC part-II or class 12th examinations are set to commence from April 19 as the Faisalabad board has issued the date sheet for [&#8230;]
+
+## Millions across North American await complete solar eclipse
+ - [https://pakobserver.net/millions-across-north-american-await-complete-solar-eclipse](https://pakobserver.net/millions-across-north-american-await-complete-solar-eclipse)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T08:01:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/solar-8-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Millions of people across a densely populated stretch of North America will witness a total solar eclipse on Monday, as the moon completely obscures the sun for over four minutes in some areas. Weather permitting, the eclipse will be observable along a path commencing in Mexico, traversing the United States, and extending into Canada. Enthusiasts [&#8230;]
+
+## Security forces kill two terrorists in North Waziristan
+ - [https://pakobserver.net/security-forces-kill-two-terrorists-in-north-waziristan-2](https://pakobserver.net/security-forces-kill-two-terrorists-in-north-waziristan-2)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T07:43:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/security-officials-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI &#8211; The security forces killed two terrorists in North Waziristan district, said the Inter-Services Public Relations (ISPR). In a statement, the military’s media wing said that on night 6/7 April 24, fire exchange took place between the security forces and terrorists in North Waziristan District. “Own troops effectively engaged the terrorists’ location as a [&#8230;]
+
+## Ruet-e-Hilal Committee to meet for moon sighting tomorrow
+ - [https://pakobserver.net/ruet-e-hilal-committee-to-meet-for-moon-sighting-tomorrow](https://pakobserver.net/ruet-e-hilal-committee-to-meet-for-moon-sighting-tomorrow)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T07:17:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/RUET-E-HILAL-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; The Central Ruet-e-Hilal Committee will meet in Islamabad on Tuesday for sighting of Shawwal-ul-Mukarram crescent. Chairman of the Committee Maulana Abdul Khabir Azad will preside over the meeting. Members from various institutions, including Ministry of Science and Technology, Pakistan Meteorological Department, and The Space and Upper Atmosphere Research Commission will also participate in [&#8230;]
+
+## Prices of poultry, ghee surge in Bahawalpur
+ - [https://pakobserver.net/prices-of-poultry-ghee-surge-in-bahawalpur-2](https://pakobserver.net/prices-of-poultry-ghee-surge-in-bahawalpur-2)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T07:04:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/encomey-watch-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Prices of poultry, ghee, and cooking oil have surged in Bahawalpur, however, the price of eggs has decreased. APP learned on Sunday that the poultry meat was sold out at Rs 619 per kilogram, and Banaspati ghee was sold out at Rs 440 per kilogram which earlier, was sold out at Rs 430 per kilogram. [&#8230;]
+
+## Work to complete 80-km section of Pak-Iran gas pipeline starts
+ - [https://pakobserver.net/work-to-complete-80-km-section-of-pak-iran-gas-pipeline-starts](https://pakobserver.net/work-to-complete-80-km-section-of-pak-iran-gas-pipeline-starts)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T07:02:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/23-2-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />With Iranian President EbrahimRaisi&#8217;s expected visit to Pakistan on April 22, authorities have commenced the work to begin the construction of the 80-kilometre section of the Pakistan-Iran gas pipeline from Gwadar to a point where it can be connected with the Iranian section of the project, reported an English daily on Sunday. As per the [&#8230;]
+
+## Sindh announces four-day Eidul Fitr holidays
+ - [https://pakobserver.net/sindh-announces-four-day-eidul-fitr-holidays](https://pakobserver.net/sindh-announces-four-day-eidul-fitr-holidays)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T06:58:57+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/05/eid-PO-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The Sindh government has announced four-day holidays on the account of Eidul Fitr 2024. A notification issued by the provincial government states that holidays will be observed from April 10 to 13. The Pakistan Meteorological Department has indicated the possibility of the Shawwal moon sighting on April 9. It stated that the new [&#8230;]
+
+## Pakistan’s expected squad for T20I series against Kiwis
+ - [https://pakobserver.net/pakistans-expected-squad-for-t20i-series-against-kiwis](https://pakobserver.net/pakistans-expected-squad-for-t20i-series-against-kiwis)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T06:56:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/Pak-vs-NZ-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; The selectors are expected to opt for an 18-member squad for the series, aiming to provide ample opportunities for players to gain match experience ahead of the T20 World Cup. The recent returnees from international retirement, left-arm pacer Mohammad Amir and all-rounder Imad Wasim, are likely to receive significant playing time to regain [&#8230;]
+
+## Govt needs to explore affordable energy alternatives for industry: Anjum
+ - [https://pakobserver.net/govt-needs-to-explore-affordable-energy-alternatives-for-industry-anjum](https://pakobserver.net/govt-needs-to-explore-affordable-energy-alternatives-for-industry-anjum)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T06:52:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/encomey-watch-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Chairman Businessmen Panel (BMP) of Federation of Pakistan Chambers of Commerce &#38; Industry (FPCCI), MianAnjumNisar has warned that the continued escalation of energy prices could result in the closure of numerous industries, amplifying unemployment rates and diminishing Pakistan’s export capabilities, appealing to the government to reverse the decision promptly and establish a fixed gas price [&#8230;]
+
+## Govt greenlights ‘Gwadar rail freight connectivity’
+ - [https://pakobserver.net/govt-greenlights-gwadar-rail-freight-connectivity](https://pakobserver.net/govt-greenlights-gwadar-rail-freight-connectivity)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T06:52:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/encomey-watch-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In a major development, the Pakistani government has green-lighted the mega project “Gwadar Rail Freight Connectivity” that aims to link Gwadar Port with the rest of the country, especially the Balochistan hinterlands. The Gwadar Rail Freight Connectivity, under the Gwadar Smart Port City Master Plan, will reinforce inland connections, enhance sourses reported on Sunday. It [&#8230;]
+
+## Mobile phone prices plummet in Pakistan ahead of Eid festivities
+ - [https://pakobserver.net/mobile-phone-prices-plummet-in-pakistan-ahead-of-eid-festivities](https://pakobserver.net/mobile-phone-prices-plummet-in-pakistan-ahead-of-eid-festivities)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T06:49:44+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/07/pakistan-likely-to-reduce-duty-on-mobile-phones-in-budget-2023-24-1685346342-3157-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Amid sales targets challenges and appreciation in the Pakistani rupee against the US dollar, all the local and foreign mobile phone manufacturers in Pakistan have slashed the prices of over 20 mobile phone models ahead of Eid from Rs400 to a maximum of Rs10,000. All Pakistan Mobile Phone Association have confirmed that all manufacturing companies [&#8230;]
+
+## Pakistan stocks set new record as KSE-100 crosses 69,000 milestone
+ - [https://pakobserver.net/pakistan-stocks-set-new-record-as-kse-100-crosses-69000-milestone](https://pakobserver.net/pakistan-stocks-set-new-record-as-kse-100-crosses-69000-milestone)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T06:43:45+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/12/psx-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Trading floor at the Pakistan Stock Exchange (PSX) is being ruled by bulls on the opening day of the new business week to set new records. During intraday trading on Monday, the KSE-100 index crossed the 69,000 points milestone for the first time in history. It has gained 597.80 points till 11:39 am [&#8230;]
+
+## Matric, inter exams 2024: Punjab boards take key decisions
+ - [https://pakobserver.net/matric-inter-exams-2024-punjab-boards-take-key-decisions](https://pakobserver.net/matric-inter-exams-2024-punjab-boards-take-key-decisions)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T06:34:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/03/ad-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The Punjab Boards Committee of Chairman (PBCC) has taken a slew of important decisions after a cheating scandal during secondary schools certificate part I (Class 9) exams was unearthed. In late March, Punjab&#8217;s Minister for School Education, Rana Sikandar Hayat said his team caught several dummy students during a surprise visit to an [&#8230;]
+
+## WB approves $149.7m for digital economy, flood resilience
+ - [https://pakobserver.net/wb-approves-149-7m-for-digital-economy-flood-resilience](https://pakobserver.net/wb-approves-149-7m-for-digital-economy-flood-resilience)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T05:54:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/3465515571712547656-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; The World Bank has approved 149.7 million dollars in financing for Pakistan to support two projects related to digital economy and improved flood resilience. This has been stated in a statement issued by the international financial institution. The allocated funding of 78 million dollars for the Digital Economy Enhancement Project is expected to [&#8230;]
+
+## Solar eclipse 2024 today: Beginning time, duration, regions of visibility
+ - [https://pakobserver.net/solar-eclipse-2024-today-beginning-time-duration-regions-of-visibility](https://pakobserver.net/solar-eclipse-2024-today-beginning-time-duration-regions-of-visibility)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T05:28:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/solar-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The first solar eclipse of year 2024 will take place today (April 8) and 9, according to the met office. The partial solar eclipse will begin at 20:48 PST on April 8 while total eclipse will start at 21:38 PST and maximum eclipse will take place at 23:17 PST on April 8. the [&#8230;]
+
+## Gold rates in Saudi Arabia today – 08 April 2024
+ - [https://pakobserver.net/gold-rates-in-saudi-arabia-today-08-april-2024](https://pakobserver.net/gold-rates-in-saudi-arabia-today-08-april-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T05:18:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/gold6-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The price of per tola price 24-karat gold in Saudi Arabia on Saturday (April 06) surged to 3,273 Saudi Riyal (SAR), according to forex.pk. F7urthermore, the 10 grams of 24-k gold is being sold for SAR 2,809 in the kingdom while the per ounce gold price stands at SAR 8,285. Note: The gold [&#8230;]
+
+## UK Pound to PKR rate today – 08 April 2024
+ - [https://pakobserver.net/uk-pound-to-pkr-rate-today-08-april-2024](https://pakobserver.net/uk-pound-to-pkr-rate-today-08-april-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T05:15:13+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/pound-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The buying rate of the UK Pound Sterling stands at Rs350 in Pakistan while its selling rate stands at Rs354 on Monday in the open market of Pakistan. Data available on forex.pk showed that the Pound shed Rs2 against the Pakistani rupee in the open market. GBP to PKR Rate – 08 April [&#8230;]
+
+## Dirham to PKR rate today – 08 April 2024
+ - [https://pakobserver.net/dirham-to-pkr-rate-today-08-april-2024](https://pakobserver.net/dirham-to-pkr-rate-today-08-april-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T05:11:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/dirham-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The United Arab Emirates (UAE) Dirham buying rate in the open market of Pakistan stands at Rs75.4 on Monday while the selling rate is Rs76.15, according to forex.pk. The UAE Dirham witnessed no change against Pakistani rupee as compared to the previous trading day&#8217;s closing of Rs75.4 in the open market of the [&#8230;]
+
+## Saudi Riyal to PKR rate today – 08 April 2024
+ - [https://pakobserver.net/saudi-riyal-to-pkr-rate-today-08-april-2024](https://pakobserver.net/saudi-riyal-to-pkr-rate-today-08-april-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T05:08:39+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/riyal-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The buying rate for Saudi Arabia Riyal in Pakistan stands at Rs73.3 while the selling rate stands at Rs74.05 on Monday, according to forex.pk. Data available on the currency website showed the Saudi Riyal saw no change against Pakistani rupee in the open market. SAR to PKR Rate – 08 April 2024 Date  [&#8230;]
+
+## Currency exchange rates in Pakistan today – April 08 , 2024
+ - [https://pakobserver.net/currency-exchange-rates-in-pakistan-today-april-08-2024](https://pakobserver.net/currency-exchange-rates-in-pakistan-today-april-08-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T04:23:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/curreny-rate-today-15-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI—On Monday, April 8, 2024, the exchange rate for one US Dollar against Pakistani rupees was recorded at Rs 277.2 in the local and open market, with a selling rate of Rs 280.25. Note: Exchange rates can vary based on the location and the Exchange Company or bank involved in the transaction. Below are the foreign [&#8230;]
+
+## Gold rate in Pakistan today – 08 April, 2024
+ - [https://pakobserver.net/gold-rate-in-pakistan-today-08-april-2024](https://pakobserver.net/gold-rate-in-pakistan-today-08-april-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T04:21:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/gold-rate-in-pakistan-today-24-March-2023-1-1024x576-4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI—On Monday, April 8, 2024, the 24-karat gold rate was PKR 238,900. Similarly, the bullion market recorded the gold price for 24-karat at Rs 204,820 per 10g. Gold Price in Pakistan’s different cities. City Gold Silver Karachi PKR 238,900 PKR 2,550 Lahore PKR 238,900 PKR 2,550 Islamabad PKR 238,900 PKR 2,550 Peshawar PKR 238,900 PKR [&#8230;]
+
+## Causes and consequences  of urbanization in Pakistan
+ - [https://pakobserver.net/causes-and-consequences-of-urbanization-in-pakistan](https://pakobserver.net/causes-and-consequences-of-urbanization-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T03:29:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/Dr-Zafar-Khan-Safdar-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PAKISTAN is one of the fastest urbanising countries in South Asia and the share of urban population has risen from 17% in 1951 to 37% in 2010, and to 41.7% in 2021 with annual rate of urban change at 2.79%. Projections show that in next 5 years half of the population will be living in [&#8230;]
+
+## Silent Suffering: Ending Femicide
+ - [https://pakobserver.net/silent-suffering-ending-femicide](https://pakobserver.net/silent-suffering-ending-femicide)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T03:28:35+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/Dr-M-Ahmed-Abdullah-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />THE recent chilling incident in Toba Tek Singh, Punjab, Pakistan, has once again thrust the issue of femicide into the spotlight. On the 18th of March, 2024, the harrowing act of a brother strangling his sister to death, while their father stood by, offering water as if it were a mundane task, was recorded, which [&#8230;]
+
+## Voice of the People
+ - [https://pakobserver.net/voice-of-the-people-1602](https://pakobserver.net/voice-of-the-people-1602)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T03:27:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/op-1-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Articles and letters may be edited for the purposes of clarity and space. Increasing circular debt The World Bank’s report highlights a substantial rise in circular debt within Pakistan’s energy sector, reaching 5.5 trillion rupees. This surge stems from increased theft, billing defaults and energy price hikes coupled with high subsidies. Inefficiencies, structural problems and [&#8230;]
+
+## Crossing the Rubicon!
+ - [https://pakobserver.net/crossing-the-rubicon](https://pakobserver.net/crossing-the-rubicon)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T03:26:57+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/article-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The restoration of Justice (R) Shaukat Siddiqui followed a flurry of revelations, debunking the state of affairs crystallizing in the Islamabad High Court (IHC). Six honourable judges of the said court indicted a joint letter, representing a collation of events engulfing them over the last two years. The letter addressed the unpleasant encounters the honourable [&#8230;]
+
+## Islamic scholars unite against extremism
+ - [https://pakobserver.net/islamic-scholars-unite-against-extremism](https://pakobserver.net/islamic-scholars-unite-against-extremism)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T03:26:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/article-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; TERRORIST and extremist ideologies, rooted in the Salafi Jihadi school of thought, distorted the concept of Jihad in Islam, exemplified by Al-Qaeda’s 9/11 attacks planned in Afghanistan. Osama bin Laden pledged allegiance to Mullah Omar and Deobandi Hanafi principles, influ-encing the Afghan Taliban. Despite this, Islamic scholars resisted, issuing Fatwas to de-nounce Al-Qaeda and [&#8230;]
+
+## Guardian exposes India’s covert terrorism network
+ - [https://pakobserver.net/guardian-exposes-indias-covert-terrorism-network](https://pakobserver.net/guardian-exposes-indias-covert-terrorism-network)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T03:25:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/Dr-Muhammad-Khan-copy-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />INDIA’s Defence Minister, Rajnath Singh, indirectly accepted “The Guardian Report” about the killing of twenty Pakistanis through its operatives within Pakistan. In an interview with CNN, Mr. Singh further reiterated, “If any terrorist tries to disturb the country’s peace, we will give a befitting reply. If they (terrorists) run back to Pakistan, toh Pakistan mein [&#8230;]
+
+## Pity the man in the street
+ - [https://pakobserver.net/pity-the-man-in-the-street](https://pakobserver.net/pity-the-man-in-the-street)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T03:24:35+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/Khalid-Saleem-final-last-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ONE was afraid that someday it would come to this. The way things move in the Land of the Pure, what else does the common man have to look forward to? In the mad dash for roti, kapra and makaan have been added to the ever elusive quest for electricity, water and fuel. All this [&#8230;]
+
+## Gwadar’s EWS Shield
+ - [https://pakobserver.net/gwadars-ews-shield](https://pakobserver.net/gwadars-ews-shield)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T03:23:57+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The collaboration between China Meteorological Administration (CMA) and Pakistan Meteorological Department (PMD) to equip Gwadar Port with an Early Warning System (EWS) could not have come at a more crucial time. Gwadar, a pivotal component of the China-Pakistan Economic Corridor (CPEC), has grappled with the spectre of natural disasters, most notably floods. The installation of [&#8230;]
+
+## Thousands take to streets in IIOJK against Israeli aggression in Gaza
+ - [https://pakobserver.net/thousands-take-to-streets-in-iiojk-against-israeli-aggression-in-gaza](https://pakobserver.net/thousands-take-to-streets-in-iiojk-against-israeli-aggression-in-gaza)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T02:58:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/kas-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Thousands took to the streets in parts of Indian illegally occupied Jammu and Kashmir to protest against Israel’s siege and relentless bombing of the Gaza Strip, demanding an end to the oppression of innocent Palestinian people. According to Kashmir Media Service, demonstrators waved Palestinian flags and held posters with slogans such as ‘From Land to [&#8230;]
+
+## Restrictions on religious freedom in Occupied Kashmir condemnable: Raza
+ - [https://pakobserver.net/restrictions-on-religious-freedom-in-occupied-kashmir-condemnable-raza](https://pakobserver.net/restrictions-on-religious-freedom-in-occupied-kashmir-condemnable-raza)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T02:57:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/Ali-rRaza-Syed-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Chairman Kashmir Council Europe (KCEU) Ali Raza Syed has strongly condemned restrictions on religious freedom in Indian Illegally Occupied Kashmir (IIOK) including ban on procession of last Friday of Ramazan in main Jamia Mosque of Srinagar. This was stated by him in a statement issued from Brussels for denouncing locking of the main Jamia [&#8230;]
+
+## Gaza’s largest hospital an ‘empty shell’ with human graves: WHO
+ - [https://pakobserver.net/gazas-largest-hospital-an-empty-shell-with-human-graves-who](https://pakobserver.net/gazas-largest-hospital-an-empty-shell-with-human-graves-who)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T02:56:48+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/15-2-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The World Health Organization said on Saturday that Gaza’s largest hospital had been reduced to ashes by Israel’s latest siege, leaving an “empty shell” with many bodies. WHO staff who gained access on Friday to the devastated facility described horrifying scenes of bodies only partially buried, with their limbs stick-ing out, and the stench [&#8230;]
+
+## India under Modi has become rogue terrorist state
+ - [https://pakobserver.net/india-under-modi-has-become-rogue-terrorist-state](https://pakobserver.net/india-under-modi-has-become-rogue-terrorist-state)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T02:56:35+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/3-1-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The provocative remarks of Indian defence minis-ter Rajnath Singh has reaffirmed that India under Modi has become a rogue terrorist state. According to Kashmir Media Service, Indian Defence Minister Rajnath Singh in a televised interview said that India was carrying out an assassination campaign in Pakistan. A report released by Kashmir Media Service, today, [&#8230;]
+
+## Mexico breaks relations with Ecuador
+ - [https://pakobserver.net/mexico-breaks-relations-with-ecuador](https://pakobserver.net/mexico-breaks-relations-with-ecuador)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T02:56:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/17-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Ecuadorean authorities arrested former Vice President Jorge Glas on Friday evening, seizing him from the Mexican embassy and prompting Mexico to suspend bilateral relations. Glas, 54, convicted twice of corruption, had been holed up in the embassy in Quito since seeking political asylum in December, a request Mexico granted earlier on Friday. Police forcefully [&#8230;]
+
+## Indian paramilitary constable commits suicide in Nagpur
+ - [https://pakobserver.net/indian-paramilitary-constable-commits-suicide-in-nagpur](https://pakobserver.net/indian-paramilitary-constable-commits-suicide-in-nagpur)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T02:55:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/International-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Indian paramilitary constable committed suicide in Maharashtra state in India. According to Kashmir Media Service, the con-stable of State Reserve Police Force (SRPF) Group 4, identified as 35-year-old Mangesh Maske, committed suicide by shooting himself with his service rifle in Unconventional Operations Training Centre (UOTC) in Nagpur city of the state, said the Wadi [&#8230;]
+
+## Leverkusen on cusp of first Bundesliga title after Bayern loss
+ - [https://pakobserver.net/leverkusen-on-cusp-of-first-bundesliga-title-after-bayern-loss](https://pakobserver.net/leverkusen-on-cusp-of-first-bundesliga-title-after-bayern-loss)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T02:55:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/2-5-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Bayer Leverkusen are just three points from a first Bundesliga title after a 1-0 win at Union Berlin on Saturday, with Bayern Munich letting a two-goal lead slip in a 3-2 loss at Heidenheim. Bayern were cruising at half-time thanks to strikes from Harry Kane and Serge Gnabry but conceded three times in the second [&#8230;]
+
+## Kasatkina battles past Pegula to reach Charleston final
+ - [https://pakobserver.net/kasatkina-battles-past-pegula-to-reach-charleston-final](https://pakobserver.net/kasatkina-battles-past-pegula-to-reach-charleston-final)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T02:55:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/3-3-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Russia’s Daria Kasatkina advanced to the final of the WTA Charleston Open clay court tournament on Saturday after a three-set semi-final victory over top-seeded American Jessica Pegula. Kasatkina, who needed a lengthy medical timeout in the third set, booked her place in Sunday’s final after prevailing 6-4, 4-6, 7-6 (7/5) in 2hr 45min against home [&#8230;]
+
+## Babar Azam hails successful preseason camp in Kakul
+ - [https://pakobserver.net/babar-azam-hails-successful-preseason-camp-in-kakul](https://pakobserver.net/babar-azam-hails-successful-preseason-camp-in-kakul)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T02:55:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/1-7-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan captain Babar Azam described the pre-season camp in Kakul as highly successful, stating that it played a crucial role in preparing the players for the upcoming cricket season. He emphasized that the camp helped strengthen unity and understanding among the team members through strategically planned team bonding exercises and drills. Babar Azam was joined [&#8230;]
+
+## HBK-PPC Ramazan Sports Gala-2024 concluded
+ - [https://pakobserver.net/hbk-ppc-ramazan-sports-gala-2024-concluded](https://pakobserver.net/hbk-ppc-ramazan-sports-gala-2024-concluded)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-04-08T02:54:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/sports-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />HBK Hypermarket-Peshawar Press Club Ramazan Sports Gala concluded with a lot of sweet memories wherein 200 working journalists from print and electronic media actively took part in six different Games. Mayor Peshawar Haji Zubair Ali was the chief guest on the occasion. More than 200 athletes participated in six dif-ferent events in the Ramazan Gala-2024. [&#8230;]
+
