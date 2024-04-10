@@ -1,0 +1,142 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## 10 people in Kingston, Ont., sent to hospital with eye injuries. One patient blames a foam party
+ - [https://www.cbc.ca/news/canada/kingston-stages-foam-party-1.7168200?cmp=rss](https://www.cbc.ca/news/canada/kingston-stages-foam-party-1.7168200?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T18:23:41+00:00
+
+<img alt="Young people are covered in foam" height="349" src="https://i.cbc.ca/1.7168588.1712693633!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/foam-party.jpg" title="Festival goers are covered with foam as they party at the campsite of the Roskilde Festival, in Roskilde, Denmark, on June 28, 2022. " width="620" /><p>Ten people in the southeastern Ontario city were treated for chemical eye exposure Monday and needed to have their eyes flushed after what one patient says was a foam party gone wrong.</p>
+
+## New defence spending will still leave Canada $6B to $7B short of NATO target, Blair says
+ - [https://www.cbc.ca/news/politics/bill-blair-nato-defence-spending-eyre-recruitment-1.7168748?cmp=rss](https://www.cbc.ca/news/politics/bill-blair-nato-defence-spending-eyre-recruitment-1.7168748?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T18:21:45+00:00
+
+<img alt="Prime Minister Justin Trudeau stands behind National Defence Minister Bill Blair as they hold a press conference on Canada&apos;s new defence policy at CFB Trenton in Trenton, Ont. on Monday, April 8, 2024." height="349" src="https://i.cbc.ca/1.7168782.1712700879!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/defence-policy-20240408.JPG" title="Prime Minister Justin Trudeau stands behind National Defence Minister Bill Blair as they hold a press conference on Canada&apos;s new defence policy at CFB Trenton in Trenton, Ont. on Monday, April 8, 2024." width="620" /><p>Even if Canada reaches its defence spending targets by the end of the decade, it would still be "$6 billion to $7 billion" short of NATO's two per cent of GDP benchmark for member nations, says Defence Minister Bill Blair.</p>
+
+## Edmonton businessman killed in construction-site shooting remembered as hard-working dad
+ - [https://www.cbc.ca/news/canada/edmonton/edmonton-home-builder-south-shooting-victim-1.7168555?cmp=rss](https://www.cbc.ca/news/canada/edmonton/edmonton-home-builder-south-shooting-victim-1.7168555?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T16:22:31+00:00
+
+<img alt="A marked Edmonton police cruiser parked in front of a residential building under construction." height="349" src="https://i.cbc.ca/1.7167191.1712606345!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/april-8-2024-shooting-scene-edmonton.jpg" title="Police are asking citizens to avoid an area in the Cavanagh neighbourhood while officers investigate a shooting." width="620" /><p>Buta Singh Gill, 57, was found dead Monday after shots were fired at an apartment complex his company was building in the Cavanagh neighbourhood. Another man was also found dead at the scene and a 51-year-old man suffered life-threatening injuries. </p>
+
+## Michigan parents of teen school shooter sentenced to at least 10 years for manslaughter
+ - [https://www.cbc.ca/news/world/crumbley-parents-sentencing-1.7167863?cmp=rss](https://www.cbc.ca/news/world/crumbley-parents-sentencing-1.7167863?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T13:15:29+00:00
+
+<img alt="A young boy, a woman and a bearded man are shown in separate photos that have been combined. All three people appear to be wearing prison-type garb." height="349" src="https://i.cbc.ca/1.7168023.1712670913!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/michigan-shooting-parents.JPG" title="Ethan Robert Crumbley, 15, charged with first-degree murder in a high school shooting, poses in a jail booking photograph taken at the Oakland County Jail in Pontiac, Michigan, U.S. December 1, 2021, in a combination photograph with his parents Jennifer Lynn Crumbley and James Robert Crumbley who were taken into custody December 3, 2021.  /Handout via REUTERS  THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. THIS PICTURE WAS PROCESSED BY REUTERS TO ENHANCE QUALITY" width="620" /><p>The mother and father of a Michigan teen who shot and killed four classmates were each sentenced to 10 to 15 years in prison on Tuesday after a jury convicted them of manslaughter in a rare case of parent
+
+## Canadian embassy in Syria damaged in Israeli strike on Iranian embassy next door
+ - [https://www.cbc.ca/news/politics/canadian-embassy-damascus-damaged-1.7168176?cmp=rss](https://www.cbc.ca/news/politics/canadian-embassy-damascus-damaged-1.7168176?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T12:58:51+00:00
+
+<img alt="An Iranian flag hangs as smoke rises from a collapsed building." height="349" src="https://i.cbc.ca/1.7160431.1711988711!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-syria-iran.JPG" title="An Iranian flag hangs as smoke rises after what the Iranian media said was an Israeli strike on a building close to the Iranian embassy in Damascus, Syria Monday." width="620" /><p>Canadian officials are saying little publicly about the state of the Canadian Embassy in Damascus, Syria, a week after an Israeli bomb or missile demolished an Iranian Embassy annex directly next door.</p>
+
+## Peter Higgs, physicist behind Higgs boson particle, dead at 94
+ - [https://www.cbc.ca/news/science/peter-higgs-physicist-obituary-1.7168258?cmp=rss](https://www.cbc.ca/news/science/peter-higgs-physicist-obituary-1.7168258?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T12:54:27+00:00
+
+<img alt="Man in front of photo of an Atlas detector" height="349" src="https://i.cbc.ca/1.7168261.1712680987!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/peter-higgs.JPG" title="British scientist Peter Higgs poses in front of a photographic image of the Atlas detector at the Science Museum in London November 12, 2013. Nobel laureate Higgs was touring the museum&apos;s Large Hadron Collider exhibition, a behind-the-scenes look at the CERN particle physics laboratory in Switzerland, where the realisation of Higgs&apos; theory on the Higgs boson took place.  REUTERS/Toby Melville (BRITAIN - Tags: ENERGY ENVIRONMENT SCIENCE TECHNOLOGY)" width="620" /><p>Nobel prize-winning physicist Peter Higgs, who proposed the existence of the Higgs boson particle, has died at age 94, the University of Edinburgh said Tuesday.</p>
+
+## Niagara Falls, Ont., radiates with new world record for largest gathering of people dressed as the sun
+ - [https://www.cbc.ca/news/canada/hamilton/niagara-falls-world-record-1.7168071?cmp=rss](https://www.cbc.ca/news/canada/hamilton/niagara-falls-world-record-1.7168071?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T12:30:30+00:00
+
+<img alt="People wearing sun costumes stand on a boat" height="349" src="https://i.cbc.ca/1.7168123.1712675534!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/niagara-falls-world-record.jpeg" title="Hundreds of people dressed in sun costumes gathered on a boat in Niagara Falls, Ont.,  to set a new world record on April 8." width="620" /><p>On a boat cruising near the Niagara Falls, 309 people in yellow sun costumes overtop red rain ponchos smashed the previous record — hours before the total solar eclipse.</p>
+
+## As Olympics loom, Summer McIntosh building her training without showing rivals too much
+ - [https://www.cbc.ca/sports/olympics/summer/aquatics/summer-mcintosh-canadian-open-1.7166721?cmp=rss](https://www.cbc.ca/sports/olympics/summer/aquatics/summer-mcintosh-canadian-open-1.7166721?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T12:03:07+00:00
+
+<img alt="Canadian female swimmer competes in the Women&apos;s 400 Meter Individual Medley Prelims on day 3 of the Toyota US Open on Dec., 01, 2023 at the Greensboro Aquatic Center in Greensboro, North Carolina. " height="349" src="https://i.cbc.ca/1.7166768.1712590977!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/summer-mcintosh.jpg" title="Summer McIntosh, pictured competing at the U.S. Open on Dec., 01, 2023 in Greensboro, N.C., has been quietly going about her business in Sarasota, Fla., where she trains, tirelessly working away in the background as the Olympics loom. " width="620" /><p>With the Olympics more than three months away, Summer McIntosh returns to Toronto this week to compete in the Canadian Open event set to begin Wednesday morning at the Pan Am Sports Centre, with live streaming beginning on CBCSports.ca at 9:30 a.m. ET.</p>
+
+## Forget the win. Toronto Blue Jays fans want to know who moved 'Home Plate Lady'
+ - [https://www.cbc.ca/news/canada/toronto/home-plate-lady-toronto-blue-jays-1.7167990?cmp=rss](https://www.cbc.ca/news/canada/toronto/home-plate-lady-toronto-blue-jays-1.7167990?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T12:01:41+00:00
+
+<img alt="A  baseball player in a  white uniform hits the ball" height="349" src="https://i.cbc.ca/1.7168020.1712670721!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/bba-mariners-blue-jays-20240408.jpg" title="Toronto Blue Jays&apos; Davis Schneider (36) hits a single against the Seattle Mariners during eighth inning American League MLB baseball action in Toronto on Monday, April 8, 2024. " width="620" /><p>The Toronto Blue Jays won their home opener last night, but some fans were still angry. Not at the game, but at the placement of a longtime icon in the stands: Home Plate Lady.</p>
+
+## Federal government to launch $500M fund for youth mental health
+ - [https://www.cbc.ca/news/politics/youth-mental-health-fund-1.7168037?cmp=rss](https://www.cbc.ca/news/politics/youth-mental-health-fund-1.7168037?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T10:52:00+00:00
+
+<img alt="Deputy Prime Minister and Minister of Finance, Chrystia Freeland listens to a speaker during a news conference for a housing announcement in Vancouver, B.C., Wednesday, March 27, 2024." height="349" src="https://i.cbc.ca/1.7168059.1712672897!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/trudeau-bc-20240327.JPG" title="Deputy Prime Minister and Minister of Finance, Chrystia Freeland listens to a speaker during a news conference for a housing announcement in Vancouver, B.C., Wednesday, March 27, 2024." width="620" /><p>Ottawa is setting up a $500-million fund to help community health organizations provide more mental health care to young people.</p>
+
+## Buying and selling Maud Lewis paintings is big business — if they're real
+ - [https://www.cbc.ca/news/canada/nova-scotia/buying-and-selling-maud-lewis-paintings-is-big-business-if-they-re-real-1.7166999?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/buying-and-selling-maud-lewis-paintings-is-big-business-if-they-re-real-1.7166999?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T09:00:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/1002/427/Maud_Purchases_THUMB.jpg" title="" width="620" /><p>Maud Lewis's simple scenes of rural life are selling for tens — and sometimes hundreds — of thousands of dollars. But Halifax art dealer Chad Brown says putting down that kind of money can be risky with the number of forgeries out there.</p>
+
+## Acrobats who defected from Russia in 1992 return to thank Newfoundland 'mom'
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/russian-acrobats-return-1.7164683?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/russian-acrobats-return-1.7164683?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T08:30:00+00:00
+
+<img alt="A man in a yellow suit waves a flag over a woman posing in a pink dress." height="349" src="https://i.cbc.ca/1.7164829.1712593667!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/alex-elena-arestov.jpeg" title="Alex and Elena Arestov defected from Russia to Canada in 1992. They were member of the Moscow Circus and continue to perform across North America." width="620" /><p>Russian acrobats who defected to Canada in 1992 have returned to St. John's to celebrate a Newfoundland woman who helped them restart their lives. The former members of the world-famous Moscow Circus and their growing families continue to perform across North America.</p>
+
+## Undocumented woman says she was denied emergency C-section at Edmonton hospital
+ - [https://www.cbc.ca/news/canada/edmonton/undocumented-woman-says-she-was-denied-emergency-c-section-at-edmonton-hospital-1.7167490?cmp=rss](https://www.cbc.ca/news/canada/edmonton/undocumented-woman-says-she-was-denied-emergency-c-section-at-edmonton-hospital-1.7167490?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T08:00:00+00:00
+
+<img alt="A woman with a baby" height="349" src="https://i.cbc.ca/1.7167505.1712615396!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/perla.jpg" title="Perla Estrada says was told she had to pay $5,000 upfront for an emergency C-section and that no doctor at the Royal Alexandra Hospital&apos;s labour and delivery unit would see her unless she did so." width="620" /><p>Alberta Health Services is investigating after an undocumented woman says she was denied an emergency C-section at an Edmonton hospital last month.</p>
+
+## Tesla settles lawsuit on eve of trial in deadly automated-driving crash
+ - [https://www.cbc.ca/news/business/tesla-autopilot-death-settlement-1.7167870?cmp=rss](https://www.cbc.ca/news/business/tesla-autopilot-death-settlement-1.7167870?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T07:55:09+00:00
+
+<img alt="A vehicle is shown with its front section totalled lying against a major roadway barrier. " height="349" src="https://i.cbc.ca/1.7167876.1712662080!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/tesla-autopilot-lawsuits.JPG" title="A Tesla Model X is shown after a crash on U.S. Highway 101 (US-101) near Mountain View, Calif., on March 23, 2018." width="620" /><p>Tesla has settled a lawsuit over a 2018 car crash that killed an Apple engineer after his Model X, operating on Autopilot, swerved off a highway near San Francisco, court documents showed on Monday.</p>
+
+## Senior Swiss women prevail in landmark climate case at Europe's human rights court
+ - [https://www.cbc.ca/news/world/european-human-rights-court-climate-1.7167866?cmp=rss](https://www.cbc.ca/news/world/european-human-rights-court-climate-1.7167866?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T07:32:01+00:00
+
+<img alt="Four women who appear to be seniors are shown seated at an event." height="349" src="https://i.cbc.ca/1.7167871.1712660869!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/climate-change-europe-verdict.JPG" title="Rosmarie Wydler-Walti, left, and Anne Mahrer, right of the Swiss group Senior Women for Climate Protection, attend the hearing of the court ahead of Tuesday&apos;s ruling in Strasbourg, France. " width="620" /><p>The European Court of Human Rights ruled on Tuesday in favour of a group of elderly Swiss women who had argued that their government's inadequate efforts to combat climate change put them at risk of dying during heatwaves.</p>
+
+## Parents of autistic teen arrested by Alberta RCMP call for charges, improved training
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-autistic-teenager-arrest-family-1.7164472?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-autistic-teenager-arrest-family-1.7164472?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T07:00:00+00:00
+
+<img alt="A woman and man pose in front of the camera. " height="349" src="https://i.cbc.ca/1.7164474.1712603762!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/laura-hawthorne-and-aaron-krause.JPG" title="Laura Hawthorne and Aaron Krause say their son, Ryley Bauman, remains traumatized by his encounter with RCMP. The autistic teenager was arrested and detained by officers in October 2022." width="620" /><p>The parents of a non-verbal, autistic teenager arrested at a St. Albert playground say the officers involved should face repercussions for the harms their son suffered in custody.</p>
+
+## Should police who kill be named? Ontario court to consider if cops not charged should be kept anonymous
+ - [https://www.cbc.ca/news/canada/toronto/ejaz-choudry-lawsuit-police-anonymous-1.7167365?cmp=rss](https://www.cbc.ca/news/canada/toronto/ejaz-choudry-lawsuit-police-anonymous-1.7167365?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T06:00:00+00:00
+
+<img alt="Ejaz Ahmed Choudry, a 62-year-old father of four with schizophrenia was the third Canadian in a mental health crisis to be killed by police in June alone." height="349" src="https://i.cbc.ca/1.5621495.1686621975!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ejaz-ahmed-choudry-62-was-shot-and-killed-by-police-in-mississauga.jpg" title="Ejaz Ahmed Choudry, a 62-year-old father of four with schizophrenia was the third Canadian in a mental health crisis to be killed by police in June alone. " width="620" /><p>Should police officers who fatally shot a mentally ill man in crisis have their names shielded from the public? That's the question facing Ontario's Superior Court of Justice as a hearing gets underway Tuesday in a lawsuit by the family of Ejaz Choudry killed by police in 2020, after his family called a non-emergency line for help.</p>
+
+## Canadian DNA lab knew its paternity tests identified the wrong dads, but it kept selling them
+ - [https://www.cbc.ca/news/canada/paternity-tests-dna-1.7164707?cmp=rss](https://www.cbc.ca/news/canada/paternity-tests-dna-1.7164707?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T04:06:28+00:00
+
+<img alt="An adult holds a baby." height="349" src="https://i.cbc.ca/1.7164725.1712343969!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/corale-mayer.JPG" title="Corale Mayer holds her daughter Harlow. Mayer said she trusted a Canadian DNA laboratory that produced wrong prenatal paternity test results." width="620" /><p></p>
+
+## Have an iPhone 6 or 7? Now you can submit a claim for up to $150 from Apple
+ - [https://www.cbc.ca/news/iphone-class-action-claim-1.7166957?cmp=rss](https://www.cbc.ca/news/iphone-class-action-claim-1.7166957?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T04:00:00+00:00
+
+<img alt="A hand holding an iPhone 6, shortly after it&apos;s launch in 2014." height="349" src="https://i.cbc.ca/1.7167115.1712606459!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-iphone-six-20140919.jpg" title="A settlement for up to $14.4 million from Apple to eligible members of a class-action lawsuit was approved by the B.C. Supreme Court last month." width="620" /><p>Eligible iPhone 6 and 7 owners can now submit a claim to be part of a class-action lawsuit that could pay up to $150 per device. CBC News answers your questions about eligibility and how to submit a claim.</p>
+
+## Ontario man's fraud charge dropped while he was allegedly running $10M Ponzi scheme: lawsuits
+ - [https://www.cbc.ca/news/canada/toronto/fraud-charge-dropped-alleged-ponzi-scheme-1.7165275?cmp=rss](https://www.cbc.ca/news/canada/toronto/fraud-charge-dropped-alleged-ponzi-scheme-1.7165275?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-09T04:00:00+00:00
+
+<img alt="Man in a suit." height="349" src="https://i.cbc.ca/1.7165307.1712347166!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ali-nojoumi.jpg" title="" width="620" /><p>A Thornhill, Ont., man solicited at least $3.5 million for an alleged Ponzi scheme while charged with fraud for a prior alleged investment scam, according to lawsuits and records reviewed by CBC Toronto. After the criminal charge was dropped, they allege the man went on to defraud another $6.5 million from investors — bringing the total claimed to $10 million.</p>
+

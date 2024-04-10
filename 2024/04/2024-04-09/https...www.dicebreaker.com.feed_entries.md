@@ -1,0 +1,23 @@
+# Source:Dicebreaker Latest Articles Feed, URL:https://www.dicebreaker.com/feed, language:en
+
+## 7 board games to play at UK Games Expo 2024
+ - [https://www.dicebreaker.com/events/uk-games-expo-2024/best-games/board-games-play-ukge-2024?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/events/uk-games-expo-2024/best-games/board-games-play-ukge-2024?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-09T14:18:20+00:00
+
+<img src="https://assetsio.gnwcdn.com/fate-flip-washed-ashore-cards.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>UK Games Expo, also known as UKGE, is one of the first major events in the tabletop gaming convention calendar. Taking place over the last weekend of May and first weekend of June, UKGE sees publishers and players gathering at the Birmingham NEC to meet, chat and, of course, play some games.</p><p>Though not nearly the biggest tabletop gaming convention out there, UKGE is still an important convention thanks to it being an opportunity for players to catch anything they might have missed from the previous year&rsquo;s release schedule. However, as well as older titles, there are also a plethora of upcoming games to be found at UKGE - some of which you&rsquo;ll be able to play, or at least get your hands on, at the convention.</p><p>Which titles should you be looking out for? We&rsquo;ve collected a list of some of the most 
+
+## Blair Witch Project creators are making a "forgotten" board game supposedly played by fairies
+ - [https://www.dicebreaker.com/games/glim/news/glim-fairy-card-game-blair-witch-project-creators-team-with-adventure-zone-board-game-makers?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/glim/news/glim-fairy-card-game-blair-witch-project-creators-team-with-adventure-zone-board-game-makers?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-09T06:54:33+00:00
+
+<img src="https://assetsio.gnwcdn.com/glim-fairy-board-game-new-art-mockup.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>In one of the strangest team-ups of the year, the creators of The Blair Witch Project have collaborated with the designers behind Illimat and the A<a href="https://www.dicebreaker.com/games/the-adventure-zone-bureau-of-balance/interview/griffin-mcelroy-bureau-of-balance-designers-interview">dventure Zone: Bureau of Balance</a> board game to create Glim, a new competitive title about faeries and deckbuilding with quite the unique origin story.</p><p>Glim purportedly started life as an estate sale oddity purchased by The Blair Witch Project&rsquo;s director Eduardo S&aacute;nchez, who sat on the barely-held-together box with no instructions until it found its way into the hands of Twogether Studios&rsquo; Jenn Ellis and Keith Baker. Three years of research, reconstruction and design later, and the newly formed Emerald
+
+## Pokémon’s first US World Championship in five years announces August dates for Hawai‘i tournament
+ - [https://www.dicebreaker.com/games/pokemon-trading-card-game/news/pokemon-world-championships-2024-hawaii-dates-venue-revealed?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/pokemon-trading-card-game/news/pokemon-world-championships-2024-hawaii-dates-venue-revealed?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-09T05:22:44+00:00
+
+<img src="https://assetsio.gnwcdn.com/pokemon-tcg-world-championship-youtube-video-pikachu-lei.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Pok&eacute;mon&rsquo;s annual World Championship event is returning to Hawai&lsquo;i for the first time since 2012, and we now have dates and a venue for the massive tournament blowout. The 2024 World Championship will be held at the Hawai&lsquo;i Convention Center in Honolulu from August 16th through the 18th.</p><p>The World Championship hasn&rsquo;t been hosted in the US since 2019&rsquo;s Washington DC-based tournament. The Pok&eacute;mon Company previously tapped Hawai&lsquo;i as hosts in 2010 and 2012 - both championships took place in Waikoloa Village. We learned about <a href="https://www.dicebreaker.com/games/pokemon-trading-card-game/news/pokemon-world-championships-2024-hawaii">the company&rsquo;s Hawai&lsquo;i plans</a> last year, but no dates or venue was included in that initial ann
+

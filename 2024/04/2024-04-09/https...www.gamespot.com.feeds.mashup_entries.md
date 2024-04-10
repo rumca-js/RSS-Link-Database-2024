@@ -1,0 +1,184 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Razer Launches New Xbox And PS5 Versions Of Its Flagship Blackshark V2 Pro Headset
+ - [https://www.gamespot.com/articles/razer-launches-new-xbox-and-ps5-versions-of-its-flagship-blackshark-v2-pro-headset/1100-6522528/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/razer-launches-new-xbox-and-ps5-versions-of-its-flagship-blackshark-v2-pro-headset/1100-6522528/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T23:30:00+00:00
+
+<p dir="ltr">Razer is updating its Blackshark V2 Pro headset with two new console-specific variants designed to support spatial audio on PS5 and Xbox. The new models are available now for $200 at <a href="https://www.amazon.com/Razer-BlackShark-Wireless-Playstation-Gaming-Headset/dp/B0CXH38Y32?tag=gamespot-promos-20">Amazon</a>, <a href="https://shop-links.co/1838998905653728798?u1=subid_value">Best Buy</a>, and <a href="https://razer.a9yw.net/c/1804712/642901/10229?subId1=subid_value&amp;u=https://www.razer.com/console-headsets/Razer-BlackShark-V2-Pro-For-Playstation-Xbox/RZ04-04530500-R3UA">Razer's online store</a>.</p><p dir="ltr">The new PlayStation and Xbox Blackshark V2 Pro models are wireless headsets with 50mm audio drivers and a detachable unidirectional mic. They both support 2.4Gz wireless connection via the included USB-C dongle or Bluetooth 5.2, and feature up to 70 hours of battery life.</p><figure style="width: 1000px;"><a href="https://www.gamespot.com/a/uploads/origin
+
+## Teenage Mutant Ninja Turtles Comic Book Compendiums Are Steeply Discounted
+ - [https://www.gamespot.com/articles/teenage-mutant-ninja-turtles-comic-book-compendiums-are-steeply-discounted/1100-6522504/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/teenage-mutant-ninja-turtles-comic-book-compendiums-are-steeply-discounted/1100-6522504/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T23:15:00+00:00
+
+<p>IDW Publishing's run of Teenage Mutant Ninja Turtle comic books has made for some gripping reading over the years, as the publisher's take on the pop-culture phenomenon has resulted in widely acclaimed stories. If you're looking to dive in and raise some shell with the iconic heroes, now is a good time to do so as <a href="https://www.amazon.com/promotion/psp/A2B6T4FK4NAK8A?ref=psp_pc_cart_collapse&amp;tag=gamespot-promos-20">Amazon's Buy Two, Get One Free sale</a> is now on and several TMNT collections have received significant discounts.</p><h3>Teenage Mutant Ninja Turtles Graphic Novels</h3><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4285037-tmnt-graphic-novels.jpg"><img alt="Teenage Mutant Ninja Turtles graphic novels" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4285037-tmnt-graphic-novels.jpg" /></a><figcaption>Teenage Mutant Ninja Turtles graphic novels</figcaption></figure><ul><li><a href="https://www.a
+
+## Science Fiction And Fantasy Book Sale - B2G1 Free Sanderson, King, Tolkien Books At Amazon
+ - [https://www.gamespot.com/articles/science-fiction-and-fantasy-book-sale-b2g1-free-sanderson-king-tolkien-books-at-amazon/1100-6522506/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/science-fiction-and-fantasy-book-sale-b2g1-free-sanderson-king-tolkien-books-at-amazon/1100-6522506/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T21:45:00+00:00
+
+<p>Amazon is running another one of its popular <a href="https://www.amazon.com/promotion/psp/A2B6T4FK4NAK8A?ref=psp_pc_cart_collapse&amp;tag=gamespot-promos-20"><strong>buy two, get one free sales</strong></a>, offering up thousands of items as part of the promotion. Books are heavily featured in the event, with novels from J.R.R. Tolkien, Stephen King, Brandon Sanderson, and other popular fantasy and science fiction writers eligible for the B2G1 free deal.</p><div class="norewrite" title="">           <a href="https://www.amazon.com/promotion/psp/A2B6T4FK4NAK8A?ref=psp_pc_cart_collapse&amp;tag=gamespot-promos-20">See B2G1 free deal at Amazon</a> </div><p> </p><p>Cashing in on the deal is simple. After adding three eligible items to your cart, the price cut will automatically be applied. Best of all, many books up for the B2G1 free deal are also seeing price cuts--making this an especially good time to fill your bookcase with new adventures.</p><a href="https://www.gamespot.com/artic
+
+## Hard-To-Find Legend Of Zelda Amiibo Figures Will Return This Month
+ - [https://www.gamespot.com/articles/hard-to-find-legend-of-zelda-amiibo-figures-will-return-this-month/1100-6522493/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/hard-to-find-legend-of-zelda-amiibo-figures-will-return-this-month/1100-6522493/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T20:41:00+00:00
+
+<p>Nintendo's line of Amiibo toys have been a consistent fixture for a decade, but many of the older figures are no longer in print. If you've been searching for a few of the more elusive Zelda figures out there, Target will be getting a fresh restock soon. Two Super Smash Bros. Ultimate Amiibo--<a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/p/nintendo-the-legend-of-zelda-tears-of-the-kingdom-amiibo-figure-ganondorf/-/A-91763266">Ganondorf</a> and <a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/p/nintendo-the-legend-of-zelda-tears-of-the-kingdom-amiibo-figure-zelda/-/A-91763265">Princess Zelda</a>--will begin shipping out starting April 26. They're available to preorder now and are priced at $16 each.</p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4284996-ssb-amiibo.jpg"><img alt="Super Smash Bros. Ultimate Zelda and Ganondo
+
+## Game Of Thrones Jon Snow Series Not Moving Ahead
+ - [https://www.gamespot.com/articles/game-of-thrones-jon-snow-series-not-moving-ahead/1100-6522521/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/game-of-thrones-jon-snow-series-not-moving-ahead/1100-6522521/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T18:23:00+00:00
+
+<p>The Game of Thrones spin-off series focused on Jon Snow is no longer in the works. Kit Harington himself, who played Snow on the HBO show, confirmed the news to <a href="https://screenrant.com/game-thrones-jon-snow-spinoff-cancelled-why-kit-harington-response/">ScreenRant. </a></p><p>He said the show is not currently in the works. "It's off the table because we all couldn't find the right story to tell that we were all excited about enough." So it was decided stop development "for the time being." Harington said he hopes there could be a time "in the future" where he returns to the idea. "But at the moment, no. It's firmly on the shelf," he said.</p><p>A report in 2022 said HBO was <a href="https://www.gamespot.com/articles/jon-snow-game-of-thrones-sequel-series-with-kit-harington-coming-to-hbo-report/1100-6504718/">considering a Jon Snow series</a>, and author George R.R. Martin later <a href="https://www.gamespot.com/articles/game-of-thrones-spinoff-about-jon-snow-confirmed-was-k
+
+## Destiny 2 Is Finally Adding Exotic Class Items In The Final Shape, But With Some Neat Twists
+ - [https://www.gamespot.com/articles/destiny-2-is-finally-adding-exotic-class-items-in-the-final-shape-but-with-some-neat-twists/1100-6522519/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2-is-finally-adding-exotic-class-items-in-the-final-shape-but-with-some-neat-twists/1100-6522519/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T18:16:00+00:00
+
+<p>Destiny 2's armor system has consisted of five slots, but only four of them allowed for Exotic variations. While you could equip an Exotic helmet, gauntlets, chest armor, or leg armor, there has never been an Exotic class item. Until now that is, as <a href="https://www.gamespot.com/articles/destiny-2-the-final-shape-release-date-new-exotics-and-everything-we-know/1100-6517377/">The Final Shape</a> introduces this new tier of power to players, allowing them to equip Exotic Warlock bonds, Hunter cloaks, or Titan marks.</p><p>The twist here is that you won't find <em>new </em>Exotic perks on these class items, but they can leech abilities from existing Exotic armor pieces to help enhance a Guardian's abilities. Two perks can be taken from other Exotics--including perks from <em>other </em>Guardian classes--but where things get tricky is that these perks are the result of a random roll. So while there is potential to get an Exotic class item that slots perfectly into your particular p
+
+## Palworld's New Xbox Update Just Broke Multiplayer
+ - [https://www.gamespot.com/articles/palworld-new-xbox-update-just-broke-multiplayer/1100-6522518/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/palworld-new-xbox-update-just-broke-multiplayer/1100-6522518/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T18:01:00+00:00
+
+<p><a href="https://www.gamespot.com/games/palworld/">Palworld</a> recently added its first raid encounter, but unfortunately for Xbox users, the game's latest update also crippled its multiplayer functionality.</p><p dir="ltr">In a post on X, the official Palworld account asked that players temporarily not load multiplayer data on Xbox while it investigates an issue with the new patch.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">In the Xbox version v0.2.0.6 that was released today, we have confirmed an issue where multiplayer player save data is not being loaded correctly when multiplayer save data from an older version is loaded.<br />This issue is currently being investigated by the development team. In theâ€¦ <a href="https://t.co/ilDx4fydcr">https://t.co/ilDx4fydcr</a></p>  â€” Palworld (@Palworld_EN) <a href="https://twitter.com/Palworld_EN/status/1777583762932642194?ref_src=twsrc^tfw">April 9, 2024</a></blockquote>              </div><p dir="ltr">"In t
+
+## Hellblade Actress Wants To Turn Pain Into Meaning
+ - [https://www.gamespot.com/articles/hellblade-actress-wants-to-turn-pain-into-meaning/1100-6522515/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/hellblade-actress-wants-to-turn-pain-into-meaning/1100-6522515/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T17:46:00+00:00
+
+<p>Melina Juergens, who plays Senua in Hellblade, has shared more about what starring in the game means to her as a person and what she hopes her performance can bring to people.</p><p>In an interview with <a href="https://news.xbox.com/en-us/2024/04/04/senuas-saga-hellblade-2-preview-studio-visit/">Xbox</a>, Juergens said, "I want to help people, I want to raise awareness around mental health and help them feel understood." Juergens herself has gone through her own experiences, and she wants to turn the darkness into light.</p><p>"I have experience with these ailments--how can I turn that into something meaningful?" she said.</p><a href="https://www.gamespot.com/articles/hellblade-actress-wants-to-turn-pain-into-meaning/1100-6522515/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Add To Your Graphic Novel Collection With These Stellar Deals At Amazon
+ - [https://www.gamespot.com/articles/add-to-your-graphic-novel-collection-with-these-stellar-deals-at-amazon/1100-6522501/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/add-to-your-graphic-novel-collection-with-these-stellar-deals-at-amazon/1100-6522501/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T17:45:00+00:00
+
+<p>For <a href="https://www.amazon.com/promotion/psp/A2B6T4FK4NAK8A?ref=psp_pc_cart_collapse_cpi_t1&amp;tag=gamespot-promos-20">Amazon's Buy Two, Get One Free</a> promotion, dozens of adventures across DC, Marvel, and other comic book universes are on sale right now. From industry icons like Batman and Spider-Man to Sonic the Hedgehog and the X-Men, the majority of these graphic novels have received big discounts to make these B2G1 deals even more tempting.</p><p>If you're a Caped Crusader fan, you can get some pretty good Batman classics and modern masterpieces right now. While it's not B2G1-applicable, the <a href="https://www.amazon.com/Batman-One-Bad-Day-Box/dp/1779524048?tag=gamespot-promos-20">Batman: One Bad Day</a> collection is an excellent series of graphic novels examining some of the most dangerous members of the Dark Knight's rogues gallery. The Riddler, Two-Face, Bane, and Mr. Freeze are just some of the supervillains in the spotlight, and each standalone story is brough
+
+## CoD: Warzone And MW3 Patch Notes Detail Weapon And Perk Changes, Plus Vehicles Arrive To Rebirth Island
+ - [https://www.gamespot.com/articles/cod-warzone-and-mw3-patch-notes-detail-weapon-and-perk-changes-plus-vehicles-arrive-to-rebirth-island/1100-6522516/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-warzone-and-mw3-patch-notes-detail-weapon-and-perk-changes-plus-vehicles-arrive-to-rebirth-island/1100-6522516/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T17:44:00+00:00
+
+<p dir="ltr">A new update arrived to both <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty: Modern Warfare 3</a> and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a> on April 9. The patch notes include weapon tuning and perk changes for multiplayer, and on the Warzone side, vehicles are added to the Rebirth Island map.</p><p dir="ltr">Modern Warfare 3's update includes buffs to the already popular SVA 545 assault rifle in multiplayer. This includes a 40% increase to the gun's maximum damage range, a 17% increase to the near-medium damage range, and 18% more to the medium damage range.</p><p dir="ltr">A change is also made to one of the attachments for Season 3's new MORS sniper rifle. The sniper's Photonic Charge Barrel attachment should now have improved consistency with penetration damage through enemy operators.</p><a href="https://www.gamespot.com/articles/cod-warzone-and-mw3-patch-notes-detail-weapon-and-perk-changes
+
+## Sonic Movie Producer Is Adapting One of 2023's Best Indie Games
+ - [https://www.gamespot.com/articles/sonic-movie-producer-is-adapting-one-of-2023s-best-indie-games/1100-6522512/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/sonic-movie-producer-is-adapting-one-of-2023s-best-indie-games/1100-6522512/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T17:37:00+00:00
+
+<p>In 2023, Black Salt Games introduced players to Dredge, a fishing video game that doubles as a horror story. It's the kind of combination that Hollywood just can't resist. And now, Dredge is getting a live-action movie of its own.</p><p>For the film, Black Salt Games is teaming up with Story Kitchen, one of the production companies behind Netflix's upcoming animated series Tomb Raider: The Legend of Lara Croft, as well as the movie adaptation of It Takes Two. Story Kitchen co-founder Dmitri M. Johnson was also a co-producer of Paramount's Sonic the Hedgehog movies. In the announcement, Story Kitchen describes Dredge as "The Sixth Sense on water," and "a grounded atmospheric cosmic horror blend of HP Lovecraft and Ernest Hemingway."</p><p>Within the game, players assume the role of a fisherman who controls a small boat. During the in-game daytime hours, Dredge plays like a regular fishing title. But if the fisherman stays out on the water when the sun goes down, then he discovers th
+
+## Destiny 2: The Final Shape's New Prismatic Subclass Fuses Light And Darkness For The First Time Ever
+ - [https://www.gamespot.com/articles/destiny-2-the-final-shape-new-prismatic-subclass-fuses-light-and-darkness-for-the-first-time-ever/1100-6522514/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2-the-final-shape-new-prismatic-subclass-fuses-light-and-darkness-for-the-first-time-ever/1100-6522514/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T17:34:00+00:00
+
+<p><a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a>: The Final Shape will throw you into a fight where all of reality is at stake, but your Guardian is about to get a powerful new subclass in your war against the Witness. While previous Destiny 2 subclasses were either Light or Darkness-based, the new Prismatic skillset is a killer combo of those powers. As a result of the Witness unleashing the Darkness inside of the Traveler, you'll be able to enter a new state called Transcendence after you deal enough Light and Dark damage to enemies.</p><p>You'll be able to keep track of this by observing a new meter underneath your Super bar, and once both sides are full, you'll gain a new level of power to wield. While Transcendent, you gain a new grenade born of both subclass energies. Hunters get a Solar and Stasis synthesis, Titans can use both Arc and Strand-energy abilities, and Warlocks can combine Stasis and Void-energy together. Additionally, grenade and melee energy ar
+
+## Destiny 2's The Final Shape Introduces Flying Dread Enemies
+ - [https://www.gamespot.com/articles/destiny-2s-the-final-shape-introduces-flying-dread-enemies/1100-6522513/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2s-the-final-shape-introduces-flying-dread-enemies/1100-6522513/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T17:01:00+00:00
+
+<p><a href="https://www.gamespot.com/games/destiny-2/">Destiny 2's</a> The Final Shape, the upcoming expansion releasing on June 4, is introducing a new enemy faction called the Dread. If you thought the Tormentors in Lightfall were annoying, well, their siblings have definitely inherited that trait.</p><p>As showcased during the <a href="https://www.youtube.com/watch?v=jyIm-_Na8mI">Destiny 2: The Final Shape Developer Gameplay Preview</a>, the Dread encompass the larger portion of The Witness' own army, first teased with the Tormentors. While there may be more enemies in the expansion, the trailer focused on Grims and Husks, as well as the Weaver and the Attendant.</p><p>The Grim, colloquially called "gunbat" by Bungie, is a flying imp with, well, a weapon. According to the development team, it's the first enemy character with actual wings in Destiny. Alongside its signature gun, the Grim can let out a screech that suppresses your abilities and slows you down. Expect Grims to be in g
+
+## Call Of Duty's New $80 King Kong Glove Is Causing Upset
+ - [https://www.gamespot.com/articles/call-of-dutys-new-80-king-kong-glove-is-causing-upset/1100-6522511/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/call-of-dutys-new-80-king-kong-glove-is-causing-upset/1100-6522511/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T16:55:00+00:00
+
+<p dir="ltr">Season 3 of <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty: Modern Warfare 3</a> and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a> includes a crossover themed around Godzilla and King Kong, which includes <a href="https://www.gamespot.com/gallery/call-of-duty-mw3-and-warzone-godzilla-x-kong-event-all-rewards-and-challenges/2900-5241/">free event cosmetics</a> to earn and new shop bundles up for purchase. However, there's some controversy around a bonus melee weapon for those who purchase all of the Monsterverse bundles.</p><p dir="ltr">The B.E.A.S.T. Glove is Kong's weapon in the latest Monsterverse film. It allows him to unleash energy-powered punches, and this is an exclusive weapon unlock for those who purchase all four Godzilla x Kong bundles. These operator bundles cost 2,400 CoD Points ($20) each, so that's a whopping $80 worth of points in total to get the glove.</p><div><blockquote align="center"
+
+## Disney Epic Mickey Rebrushed Is A Full-Circle Moment For The Game's Original Narrative
+ - [https://www.gamespot.com/articles/disney-epic-mickey-rebrushed-is-a-full-circle-moment-for-the-games-original-narrative/1100-6522520/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/disney-epic-mickey-rebrushed-is-a-full-circle-moment-for-the-games-original-narrative/1100-6522520/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T16:53:00+00:00
+
+<p>14 years ago, Disney's Epic Mickey was released exclusive to the Nintendo Wii, which is the only place it's been playable since. It is, at the moment, shackled to the Wii--480p resolution, motion controls, and all. If you want to <em>legally</em> play the game today, you'd have to get your hands on a Wii (or a WiiU, for you select few), get a hard copy of the game, and pop it in. That would have remained the case, however, if it weren't for its upcoming remake Epic Mickey Rebrushed which aims to bring the original game's experience to modern consoles, with updated visuals and controls. And thank goodness, because otherwise, the game could have risked becoming a part of its own meta-commentary.</p><p dir="ltr">Epic Mickey follows Mickey Mouse on his discovery of a bizarro Disneyland, dour and gray in tone, where forgotten characters of Disney's past like Oswald the Lucky Rabbit (and many more) all live. Haphazardly, Mickey procures a magic brush that holds the power to erase the wor
+
+## Star Wars Outlaws Will Launch August 30
+ - [https://www.gamespot.com/articles/star-wars-outlaws-will-launch-august-30/1100-6522417/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-wars-outlaws-will-launch-august-30/1100-6522417/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T16:05:00+00:00
+
+<p>Announced just last year, <a href="https://www.gamespot.com/games/star-wars-outlaws/">Star Wars Outlaws</a> already has a release date: August 30. Ubisoft did say that the game would be coming out in late 2024, but it still feels wild to see. Perhaps <a href="https://www.gamespot.com/games/skull-and-bones/">Skull and Bones</a> just made me jaded.</p><p dir="ltr">The release date was revealed in a new trailer, which teased additional story elements of the upcoming open-world action-adventure game. In the trailer, we see protagonist Kay Vess accidentally cross the head of a rising criminal syndicate in the Star Wars underworld, leading to her need to stay one step ahead of the law and outlaws alike to earn herself a better life.</p><p dir="ltr">A few familiar faces from the seedier side of Star Wars make their appearance in the trailer. Jabba is the notable standout, a prominent member of the Hutt clan and a recurring character in the original Star Wars trilogy and The Clone Wars ani
+
+## $70 Video Games Won't Be Sustainable Forever, Saber Interactive CEO Says
+ - [https://www.gamespot.com/articles/70-video-games-wont-be-sustainable-forever-saber-interactive-ceo-says/1100-6522507/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/70-video-games-wont-be-sustainable-forever-saber-interactive-ceo-says/1100-6522507/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T15:54:00+00:00
+
+<p>Like most things in life, video games have become more expensive as the traditional $60 price-tag has given way to a new $70 entry fee to play new games. Sony's first-party PS5 games have transitioned to this price increase, big studios have followed in its footsteps, and even Nintendo has experimented with that MSRP as last year's The Legend of Zelda: Tears of the Kingdom <a href="https://www.gamespot.com/articles/the-legend-of-zelda-tears-of-the-kingdom-will-be-worth-its-70-price-tag-nintendo-president-says/1100-6512284/">was its first $70 game release</a>. But can that MSRP last? Saber Interactive CEO Matthew Karch has voiced his opinion on the subject, and according to him, charging $70 for a new game won't be sustainable for long as studios look to cut development costs.</p><p>"I think that as games become more expensive to make, the $70 title is going to go the way of the dodo," Karch said to <a href="https://za.ign.com/warhammer-40000-space-marine-ii/192570/news/saber-intera
+
+## Three Colorful Custom Xbox Series X Models Are On Auction For Cancer Research
+ - [https://www.gamespot.com/articles/three-colorful-custom-xbox-series-x-models-are-on-auction-for-cancer-research/1100-6522509/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/three-colorful-custom-xbox-series-x-models-are-on-auction-for-cancer-research/1100-6522509/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T15:41:00+00:00
+
+<p>Xbox Australia and New Zealand has partnered with Dr. Arutha Kulasinghe of The University of Queensland to create three custom Xbox Series X models inspired by his cancer research. Now through April 30, the models are on display at the Microsoft Experience Center at Westfield Sydney. The three consoles will go on auction during the same period, with proceeds going to the organization Cure Cancer.</p><figure style="width: 800px;"><a href="https://www.gamespot.com/a/uploads/original/1690/16904437/4285044-xboximage2.png"><img alt="The three Xbox Series X designs." src="https://www.gamespot.com/a/uploads/original/1690/16904437/4285044-xboximage2.png" /></a><figcaption>The three Xbox Series X designs.</figcaption></figure><p>The custom consoles' colorful designs are based on Dr. Kulasinghe’s spatial tumor mapping, a method created with the collaboration of Akoya Biosciences and Nanostring Technologies. The process helps doctors and scientists identify areas of the tumor that are especia
+
+## First Joker 2 Footage Debuts, Full Trailer Arrives Soon
+ - [https://www.gamespot.com/articles/first-joker-2-footage-debuts-full-trailer-arrives-soon/1100-6522497/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/first-joker-2-footage-debuts-full-trailer-arrives-soon/1100-6522497/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T15:07:00+00:00
+
+<p>The first trailer for Joker: Folie a Deux is coming later today, April 9, but ahead of that, a brief teaser has arrived. This is the first footage of the highly anticipated sequel to one of the most commercially successful comic book movies ever. </p><p>In the teaser, we see Joaquin Phoenix as Arthur Fleck/Joker standing in the rain laughing. Many are theorizing that he's within the walls of Arkham Asylum in this footage--take a look at the teaser below. The full trailer arrives at 6:30 PM PT / 9:30 PM ET tonight.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Trailer Tonight. 6:30pm PT. <a href="https://twitter.com/hashtag/JokerMovie?src=hash&amp;ref_src=twsrc^tfw">#JokerMovie</a> <a href="https://t.co/0kbYZQO74c">pic.twitter.com/0kbYZQO74c</a></p>  — Joker Movie (@jokermovie) <a href="https://twitter.com/jokermovie/status/1777713076835668473?ref_src=twsrc^tfw">April 9, 2024</a></blockquote>              </div><p>In other news, <a href="https://variety.com/2
+
+## Children Of The Sun GameSpot Video Review
+ - [https://www.gamespot.com/videos/children-of-the-sun-gamespot-video-review/2300-6463832](https://www.gamespot.com/videos/children-of-the-sun-gamespot-video-review/2300-6463832)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T15:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4284898-review_childrenofthesun_site.jpg" width="480" /> Children of the Sun's gritty and surreal world is home to an innovative puzzle game that mixes long-range sniping with macabre brain teasers, culminating in your enemy's brains painting the walls.
+
+## Children Of The Sun Review - One Shot
+ - [https://www.gamespot.com/reviews/children-of-the-sun-review-one-shot/1900-6418208/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/children-of-the-sun-review-one-shot/1900-6418208/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T15:00:00+00:00
+
+<p dir="ltr">It only takes a single bullet to burn down an empire. That's the ethos behind Children of the Sun, an excellent supernatural puzzle-shooter from solo developer René Rother and publisher Devolver Digital. Like many of the games in Devolver's vast library, Children of the Sun is wonderfully stylish, violent, and built on a unique gameplay hook; think Sniper Elite mixed with Superhot and you're on the right track without quite telling the whole story.</p><p dir="ltr">You play as a protagonist known simply as The Girl, a one-woman wrecking crew waging a vengeful war against the eponymous cult that ruined her life. As one cultist after another is turned to mincemeat behind the vindictive crosshairs of your sniper rifle, you gradually make your way up the food chain until coming face-to-scope with your true target: The Leader. While embarking on this blood-soaked killing spree, hand-drawn flashbacks reveal tidbits about the atrocities committed by this mysterious cult and The G
+
+## EA's Iron Man Developer Now Working On Battlefield, Too
+ - [https://www.gamespot.com/articles/eas-iron-man-developer-now-working-on-battlefield-too/1100-6522500/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/eas-iron-man-developer-now-working-on-battlefield-too/1100-6522500/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T14:07:00+00:00
+
+<p>EA's Motive Studios, which is working on a new Iron Man game, is now assisting DICE in developing the future of the Battlefield franchise. This doesn't mean the Iron Man game is taking a back seat, though, as Motive GM Patrick Klaus said in a <a href="https://www.ea.com/ea-studios/motive/news/motive-joins-battlefield-update-from-patrick-klaus-gm">blog post</a> that the game remains a priority for the studio and that it recently passed a development milestone.</p><p>Klaus said "a group" of developers from Motive are now working with DICE, Criterion, and Ripple Effect to creating experiences that lead to the "full potential of Battlefield." Motive joining the Battlefield team comes not long after <a href="https://www.gamespot.com/articles/halo-co-creator-doesnt-have-anything-positive-to-say-about-ea-after-it-shuttered-his-studio/1100-6521910/">EA closed Battlefield co-developer Ridgeline Games. </a></p><p>Specifically, the lead developers on the 2023 Dead Space remake, Philippe Ducha
+
+## Xbox Is Moving "Full Speed Ahead" On Next-Gen Hardware
+ - [https://www.gamespot.com/articles/xbox-is-moving-full-speed-ahead-on-next-gen-hardware/1100-6522486/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-is-moving-full-speed-ahead-on-next-gen-hardware/1100-6522486/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T13:55:00+00:00
+
+<p>Microsoft is hard at work on the next generation of Xbox hardware, after it had already confirmed that Xbox consoles would not be ending any time soon.</p><p>According to emails acquired by <a href="https://www.windowscentral.com/gaming/xbox/exclusive-xbox-president-sarah-bond-has-set-up-a-new-team-dedicated-to-game-preservation-and-forward-compatibility">Windows Central</a> and confirmed to be genuine from Microsoft, Xbox president Sarah Bond said, "We are moving full speed ahead on our next generation hardware, focused on delivering the biggest technological leap ever in a generation."</p><p>Back in February, Bond expressed similar sentiments about how <a href="https://www.gamespot.com/articles/xbox-talks-next-gen-hardware-teases-new-console-controller-for-this-fall/1100-6521133/">massive the technical gap</a> for the next generation of Xbox will be. However, she stopped at mentioning any specifics such as the hardware itself or the release window.</p><a href="https://www.gamespo
+
+## Witness Exactly When Nintendo 3DS Online Services Shut Down
+ - [https://www.gamespot.com/articles/witness-exactly-when-nintendo-3ds-online-services-shut-down/1100-6522499/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/witness-exactly-when-nintendo-3ds-online-services-shut-down/1100-6522499/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T13:25:00+00:00
+
+<p> </p><p dir="ltr">It's no longer possible to play Mario Kart 7 against others across the world, as Nintendo has officially ended online support for 3DS and Wii U. In fact, one player was racing on Rainbow Road as Mario when the service shut down. That meant they couldn't reach the finish line and complete their last race.</p><p dir="ltr"><a href="https://twitter.com/jrmy67/status/1777488486708211987">On X</a> (formerly known as Twitter), a user who goes by Jerm-X "captured the moment the 3DS online [service] shut down" by sharing video footage of their race in Mario Kart 7. Jerm-X had just picked up a trio of green shells as Mario as well as sped into first place when the screens on the handheld went black. Then, the bottom screen revealed that online communication had been disrupted.</p><a href="https://www.gamespot.com/articles/witness-exactly-when-nintendo-3ds-online-services-shut-down/1100-6522499/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## 27,000 Call Of Duty Cheaters Were Banned This Past Weekend
+ - [https://www.gamespot.com/articles/27000-call-of-duty-cheaters-were-banned-this-past-weekend/1100-6522492/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/27000-call-of-duty-cheaters-were-banned-this-past-weekend/1100-6522492/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T12:27:00+00:00
+
+<p>Activision has announced that 27,000 Call of Duty cheaters were banned over the weekend across Modern Warfare 3 and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a>. In a statement, anti-cheat Team Ricochet attributed the ban wave to upgrades to its detection technology, with more bans still to come as new improvements are implemented.</p><p>The massive wave of bans was reported by <a href="https://twitter.com/charlieINTEL/status/1777417239479665070">Charlie Intel on X</a>, which includes a statement from Team Ricochet. "Team Ricochet identified and banned over 27,000 accounts over the weekend through a series of upgraded detection systems. The team is progressing on a new set of security updates and anticipates more ban waves to come."</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Activision says over 27,000 accounts were banned in Call of Duty, across Warzone and MW3, over the weekend.<br />Statement from Team RICOCHET: <br />"<a 
+
+## COD: Details On Canceled Live-Service Zombies Standalone Game Revealed
+ - [https://www.gamespot.com/articles/cod-details-on-canceled-live-service-zombies-standalone-game-revealed/1100-6522491/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-details-on-canceled-live-service-zombies-standalone-game-revealed/1100-6522491/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-09T12:25:00+00:00
+
+<p>A former Call of Duty developer at Raven Software has spilled the beans on a cancelled project from 2011, which would have been a live-service game entirely focused on COD's popular Zombies mode. While the project was said to be in pre-production between 2011 and 2012, it was reportedly cancelled likely due to fear of competition with the main line games.</p><p>Former Raven developer Michael Gummelt appeared in an interview with COD YouTuber <a href="https://www.youtube.com/watch?v=uECq1FWLj60">Glitching Queen</a>, after the cancelled Zombies title was revealed through his LinkedIn page. Gummelt revealed that the project was codenamed Project Zed, and was intended to be a free-to-play game supported by microtransactions, inspired by Raven's experience with developing and supporting the China-only live service title <a href="https://www.gamespot.com/games/call-of-duty-online/">Call of Duty Online</a>.</p><p>Gummelt says that the project started when Zombies was handed off to Raven S
+
