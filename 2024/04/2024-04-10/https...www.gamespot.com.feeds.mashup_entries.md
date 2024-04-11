@@ -1,0 +1,303 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## 8 More Advanced Tips To Fight Automatons In Helldivers 2
+ - [https://www.gamespot.com/videos/8-more-advanced-tips-to-fight-automatons-in-helldivers-2/2300-6463870](https://www.gamespot.com/videos/8-more-advanced-tips-to-fight-automatons-in-helldivers-2/2300-6463870)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T22:23:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237490/4286049-xthingsautom_v2_gs.jpg" width="480" /> Automatons set a trap and as players fight harder and harder units on the way to Cyberstan, they'll need more advanced tactics.
+
+## This 40-Inch Smart TV Is Just $150 At Target And Amazon This Week
+ - [https://www.gamespot.com/articles/this-40-inch-smart-tv-is-just-150-at-target-and-amazon-this-week/1100-6522490/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/this-40-inch-smart-tv-is-just-150-at-target-and-amazon-this-week/1100-6522490/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T22:00:00+00:00
+
+<p dir="ltr">While there are dozens of TV discounts in <a href="https://www.gamespot.com/gallery/best-target-circle-week-deals-gaming-and-tech-products-on-sale-for-incredible-prices/2900-5246/">Target's Circle Week</a> sale, one of our favorite deals is for this <a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/p/tcl-40-34-class-s3-s-class-1080p-fhd-hdr-led-smart-tv-with-google-tv-40s350g/-/A-88144272">40-inch TCL S3 Smart TV</a> with a 1080p screen, which you can get for just $150 (normally $200). The deal is only available to Target Circle members, but the program is <a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/l/target-circle/-/N-pzno9">free to join</a>, and all members get free shipping on orders of $35 or more during Circle Week.</p><p dir="ltr">In the event the TV sells out--or if you don't want to buy from Target--Amazon is <a href="https://www.amazon.com/TCL-40S350F-Com
+
+## A Final Fantasy 7 Remake Board Game Releases This Summer
+ - [https://www.gamespot.com/articles/a-final-fantasy-7-remake-board-game-releases-this-summer/1100-6522545/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-final-fantasy-7-remake-board-game-releases-this-summer/1100-6522545/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T20:51:00+00:00
+
+<p>Final Fantasy 7 Rebirth has already claimed a spot as one of the most popular games of 2024, thanks to its emotional story, engaging combat, and heaps of content to explore. It's built on the foundation laid by Final Fantasy 7 Remake--and if you're itching for more Final Fantasy 7 content, consider taking a look at the <a href="https://www.amazon.com/dp/B0CK9CG4K7?tag=gamespot-preorderguides-20">Final Fantasy 7 Remake: Materia Hunter Board Game</a>. It doesn't launch until July 31, but preorders went live earlier today. </p><div class="norewrite" title="6522545 - FF7 Remake Board Game Preorders">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                    <a href="https://www.amazon.com/dp/B0CK9CG4K7?tag=gamespot-preorderguides-20">Final Fantasy 7 Remake: Materia Hunter Board Game</a>       </h2>                              
+
+## YouTube Adds, Then Removes, Warning From Joker 2 Trailer
+ - [https://www.gamespot.com/articles/youtube-adds-then-removes-warning-from-joker-2-trailer/1100-6522566/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/youtube-adds-then-removes-warning-from-joker-2-trailer/1100-6522566/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T20:36:00+00:00
+
+<p>At CinemaCon, Warner Bros. Pictures debuted the first trailer for Joker: Folie √† Deux, which arrived online shortly thereafter. Although the video was initially posted without a content warning on YouTube, the platform subsequently added one before deleting the warning a few hours later.</p><p>Via <a href="https://variety.com/2024/digital/news/youtube-joker-2-trailer-warning-suicide-self-harm-topics-1235966250/">Variety</a>, the warning said that the trailer "may contain suicide or self-harm topics." Presumably this was in response to a scene where Lady Gaga's Harley Quinn pantomimes shooting herself. That was an action that Joaquin Phoenix's Arthur Fleck performed a few times in the original Joker movie.</p><p>In the following statement, a spokesperson for YouTube blamed the warning on an automated system that mistakenly applied it to the video: "We determined that our systems applied the warning interstitial incorrectly. The trailer remains available on YouTube without a warning
+
+## Call Of Duty: MW3 And Warzone Blaze Up Event - All Rewards And Challenges
+ - [https://www.gamespot.com/gallery/call-of-duty-mw3-and-warzone-blaze-up-event-all-rewards-and-challenges/2900-5252](https://www.gamespot.com/gallery/call-of-duty-mw3-and-warzone-blaze-up-event-all-rewards-and-challenges/2900-5252)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T18:45:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1639/16394540/4285928-mwiii-s3-battlepass-0343.jpg" /><br /><h3><p>Following Call of Duty's limited-time Godzilla x Kong event, a new stoner-themed event is live in <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Modern Warfare 3</a> and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a>. The Blaze Up event adds challenges for new 4/20-inspired rewards. Here we highlight all the rewards and unlock requirements.</p><h2 dir="ltr">How to earn Blaze Up event rewards</h2><p dir="ltr">This event includes 11 challenge rewards you must complete to unlock the final weapon blueprint reward. Each challenge features an objective for multiplayer, Zombies, and Warzone. You only need to complete one objective per challenge.</p><p dir="ltr">Blaze Up is live from now until April 24, so this should give plenty of time to complete challenges and earn all the rewards.</p><p> </p></h3></p><br />  
+
+## Margot Robbie Is Producing a Monopoly Movie
+ - [https://www.gamespot.com/articles/margot-robbie-is-producing-a-monopoly-movie/1100-6522562/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/margot-robbie-is-producing-a-monopoly-movie/1100-6522562/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T18:33:00+00:00
+
+<p>Margot Robbie's Barbie movie may have only won a single Oscar for Best Original Song, but it was the biggest box office hit of 2023. Now, Robbie is looking ahead at an even more challenging property to adapt for the big screen: Hasbro's Monopoly board game.</p><p>Via <a href="https://variety.com/2024/film/news/monopoly-movie-margot-robbie-lionsgate-1235966163/">Variety</a>, Lionsgate announced at CinemaCon that Robbie will produce a Monopoly live-action film through her production company, LuckyChap, alongside her partners, Tom Ackerley and Josie McNamara. Monopoly was originally conceived as The Landlord's Game by Lizzie Magie in 1903 before it evolved into its current form as one of the most popular board games in the world.</p><p>Lionsgate has been attached to <a href="https://www.gamespot.com/articles/now-theyre-making-a-monopoly-movie/1100-6428580/">produce the Monopoly movie</a> since 2015, and at one point, <a href="https://www.gamespot.com/articles/a-monopoly-movie-is-comin
+
+## Vampire Survivors Is Coming To PlayStation And Getting Contra Crossover DLC
+ - [https://www.gamespot.com/articles/vampire-survivors-is-coming-to-playstation-and-getting-contra-crossover-dlc/1100-6522558/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/vampire-survivors-is-coming-to-playstation-and-getting-contra-crossover-dlc/1100-6522558/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T18:33:00+00:00
+
+<p dir="ltr">Bill Rizer and Lance Bean are dropping into Vampire Survivors next month as part of a Contra-based DLC called Operation Guns. Then, later this summer in the northern hemisphere, PlayStation owners can play as the muscle-bound Konami characters too, because Vampire Survivors is finally headed to PS4 and PS5.</p><p dir="ltr">Developer Poncle revealed the PlayStation releases and Contra DLC at <a href="https://www.gamespot.com/gallery/triple-i-initiative-showcase-games-announcements/2900-5250/">the Triple-I Initiative, a showcase</a> that included the studios behind Dead Cells, Slay the Spire, and more. Operation Guns is planned to launch May 9 for Vampire Survivors for $2.49. Along with Bill and Lance, the add-on will feature a new stage called Neo Galuga, nine other characters including Probotector, and 22 weapons from the run-and-gun series. Obviously, the most famous is the Spread Shot, which will come to the roguelike game so players can blast away skeletons and werewol
+
+## Some Gorgeous Final Fantasy Books Are On Sale For Their Lowest Prices Yet
+ - [https://www.gamespot.com/articles/some-gorgeous-final-fantasy-books-are-on-sale-for-their-lowest-prices-yet/1100-6522539/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/some-gorgeous-final-fantasy-books-are-on-sale-for-their-lowest-prices-yet/1100-6522539/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T18:29:00+00:00
+
+<p>A lot of talent has helped shape the Final Fantasy franchise over the years, but arguably, artist Yoshitaka Amano has had the biggest impact on the visual direction of the series. The Final Fantasy designer's career was highlighted a few years ago in the form of a 328-page book titled <strong><a href="https://www.amazon.com/dp/1506707548?tag=gamespot-promos-20">Yoshitaka Amano: The Illustrated Biography</a></strong>, and in case you missed out on it, you can pick up this tome of magical art at Amazon at a massively discounted price. Normally $150, it's on sale for $94 right now.</p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4285759-amano-art.jpg"><img alt="No Caption Provided" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4285759-amano-art.jpg" /></a></figure><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/1506707548?tag=gamespot-promos-20">See Amano biography at Amazon</a> </div><
+
+## New Blair Witch Movie Announced, And It's A Reboot
+ - [https://www.gamespot.com/articles/new-blair-witch-movie-announced-and-its-a-reboot/1100-6522564/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-blair-witch-movie-announced-and-its-a-reboot/1100-6522564/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T18:19:00+00:00
+
+<p>Jason Blum is producing a new Blair Witch movie, a collaboration between the producers own Blumhouse and Lionsgate.</p><p>The project was announced at CinemaCon in Las Vegas, according to articles from <a href="https://variety.com/2024/film/news/jason-blum-blair-witch-project-reboot-lionsgate-1235966162/">Variety</a> and <a href="https://www.hollywoodreporter.com/movies/movie-news/new-blair-witch-movie-lionsgate-blumhouse-1235870973/">The Hollywood Reporter</a>. As of yet, no plot details have yet emerged or been announced. This is the first in a multi-film deal with Lionsgate, where Blumhouse will get to take a crack at horror classics. More news about those collaborations is pending.</p><p>Blumhouse itself is best known for turning big profits on cheap horror movies like Paranormal Activity, The Purge, and Get Out. Lionsgate and Blumhouse also jointly produced the horror flick Imaginary, which released this year.</p><a href="https://www.gamespot.com/articles/new-blair-witch-movie
+
+## How To Get Free Games During Fanatical's Level Up Sale
+ - [https://www.gamespot.com/articles/how-to-get-free-games-during-fanaticals-level-up-sale/1100-6522547/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-get-free-games-during-fanaticals-level-up-sale/1100-6522547/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T18:06:00+00:00
+
+<p>Fanatical has launched the Level Up Sale, and it features some very cool bonuses. Right now, you can find thousands of PC games for sale, and if you spend a certain amount of cash, you'll earn a free mystery game as well. The more you spend, the better the free game (as rated by the Steam community). And since many games have received steep discounts, the freebie really is just a bonus. Here's how much you'll need to spend to qualify for the free game bonus:</p><ul><li>Spend $12 -- Free mystery game</li><li>Spend $20 -- Free "Very Positive" mystery game</li><li>Spend $30 --Free "Overwhelmingly Positive" mystery game</li></ul><p>Like other Fanatical sales with free games, you'll want to make separate purchases if you qualify for multiple freebies, since you can only get one freebie per qualifying order.</p><div><div class="norewrite" title="">           <a href="https://www.anrdoezrs.net/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/on-sale">Shop Leve
+
+## Every Game And Announcement From The Big Triple-I Initiative Showcase
+ - [https://www.gamespot.com/gallery/triple-i-initiative-showcase-games-announcements/2900-5250](https://www.gamespot.com/gallery/triple-i-initiative-showcase-games-announcements/2900-5250)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T18:00:00+00:00
+
+<p><h2>All the games</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4285826-screenshot2024-04-10at12.23.41pm.png" /><br /><h3><p dir="ltr">The first-ever Triple-i Initiative showcase took place April 10, with more than 30 studios showcasing their latest projects. The name Triple-i refers to how these games stem from independent game studios, as compared to AAA games from large teams and studios.</p><p dir="ltr">The 40-minute showcase featured 35 games in all, including Slay the Spire 2, Risk of Rain 2, 33 Immortals, Ravenswatch: Fall of Avalon, and Palworld. The event concluded with what might have been its biggest reveal‚Äìthe announcement of The Rogue Prince of Persia from Ubisoft and Dead Cells developer Evil Empire. Another big announcement was that Palworld is introducing an Arena mode. In short, there were <em>a lot </em>of games and announcements.</p><p dir="ltr">Here in this gallery we're running through all the games at the showcase.</p></h3></p><b
+
+## Spiritfarer Dev's 33 Immortals Closed Beta Announced, Kicks Off In May
+ - [https://www.gamespot.com/articles/spiritfarer-devs-33-immortals-closed-beta-announced-kicks-off-in-may/1100-6522554/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/spiritfarer-devs-33-immortals-closed-beta-announced-kicks-off-in-may/1100-6522554/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T18:00:00+00:00
+
+<p dir="ltr">As part of the <a href="https://www.gamespot.com/gallery/triple-i-initiative-showcase-games-announcements/2900-5250/">Triple-i Initiative showcase today</a>, developer Thunder Lotus announced that a closed beta for 33 Immortals will begin May 24. The beta gives players a first taste of the 33-player co-op action-roguelike, and you can check out a new trailer for the game below.</p><p dir="ltr">The 33 Immortals beta runs until June 2. You can sign up for it at the <a href="http://www.33immortals.com">33 Immortals website</a>. All beta players will be able to unlock an exclusive skin for the game when it launches later this year across Xbox Series X|S, PC, and the Epic Games Store. The game will also be included as part of Xbox Game Pass for console and PC.</p><p dir="ltr">Thunder Lotus previously held an alpha test for 33 Immortals, and the developer is taking some of the feedback and applying it to the closed beta as part of what's described as the "home stretch of develo
+
+## WoW Might Make Leveling A New Character Fun Again With Mists Of Pandaria Remix Event
+ - [https://www.gamespot.com/articles/wow-might-make-leveling-a-new-character-fun-again-with-mists-of-pandaria-remix-event/1100-6522559/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wow-might-make-leveling-a-new-character-fun-again-with-mists-of-pandaria-remix-event/1100-6522559/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T17:48:00+00:00
+
+<p>Hot off the heels of <a href="https://www.gamespot.com/games/world-of-warcraft/">World of Warcraft's</a> surprise <a href="https://www.gamespot.com/articles/wow-plunderstorm-blizzards-take-on-battle-royale-makes-traditional-mmo-gameplay-walk-the-plank/1100-6521859/">Plunderstorm event</a>, Blizzard has revealed it had another, PvE-focused ace up its sleeve: WoW Remix: Mists of Pandaria.</p><p dir="ltr">WoW's 2012 Mists of Pandaria expansion is still playable in the current version of Blizzard's MMORPG. So what exactly is the WoW Remix version? As <a href="https://worldofwarcraft.blizzard.com/en-us/news/24061007/under-development-wow-remix-mists-of-pandaria">revealed</a> by Blizzard, it's a retooled version of the expansion, where players will make new characters and level to the game's current max level at an accelerated rate by playing through the old Mists of Pandaria zones. New items and new power progression systems will make the experience feel new even if it's going through a
+
+## Palworld Adding Arena Mode That Looks Like PvP
+ - [https://www.gamespot.com/articles/palworld-adding-arena-mode-that-looks-like-pvp/1100-6522553/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/palworld-adding-arena-mode-that-looks-like-pvp/1100-6522553/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T17:46:00+00:00
+
+<p dir="ltr">The Pokemon-with-guns game Palworld has been one of 2024's biggest success stories in gaming, and the game looks like it's set to grow in a big way this year. As part of the <a href="https://www.gamespot.com/gallery/triple-i-initiative-showcase-games-announcements/2900-5250/">Triple-i Initiative showcase</a>, Palworld developer Pocketpair announced the Palworld Arena.</p><p dir="ltr">Based on the brief trailer, this appears to be Palworld's long-awaited PvP mode. It looks like groups of players will enter an arena and duke it out with their pals. That said, the short clip doesn't reveal much, so it remains to be seen exactly what Arena consists of and if it is indeed a competitive mode.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">The Pal Arena makes its way to <a href="https://twitter.com/hashtag/Palworld?src=hash&amp;ref_src=twsrc^tfw">#Palworld</a> in 2024 ‚öî<br />Battle against other players, pitting both yourself and your pals against them 
+
+## The Rogue Prince Of Persia From Dead Cells Dev Announced, Launching In May
+ - [https://www.gamespot.com/articles/the-rogue-prince-of-persia-from-dead-cells-dev-announced-launching-in-may/1100-6522555/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-rogue-prince-of-persia-from-dead-cells-dev-announced-launching-in-may/1100-6522555/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T17:46:00+00:00
+
+<p dir="ltr">As part of the <a href="https://www.gamespot.com/gallery/triple-i-initiative-showcase-games-announcements/2900-5250/">Triple-i Initiative showcase on Wednesday</a>, Ubisoft confirmed rumors and announced the next Prince of Persia game. The Rogue Prince of Persia, as it's called, is a 2D action-platformer that's in development at Dead Cells studio Evil Empire.</p><p dir="ltr">A stylish cinematic announcement trailer was released during the showcase, leading into a gameplay segment near the end that shows how the game will actually play. As you'll see in the gamelay trailer, The Rogue Prince of Persia seems to borrow some of the sensibilities from Dead Cells, and it looks pretty impressive. Take a look for yourself in the video below.</p><div>          </div><p dir="ltr">The Rogue Prince of Persia takes place in a fictional version Ctsesiphon, which is the capital of the Persia empire. "The city faces invasion by the Hun's army of possessed soldiers, led by the malevolent H
+
+## New Prince of Persia Feels Like Dead Cells 2
+ - [https://www.gamespot.com/videos/new-prince-of-persia-feels-like-dead-cells-2/2300-6463846](https://www.gamespot.com/videos/new-prince-of-persia-feels-like-dead-cells-2/2300-6463846)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T17:45:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4285790-prince-of-persia_v1_site.jpg" width="480" /> The comic book art style lends the game a unique flair that helps pull it away from comparisons to Prince of Persia: The Lost Crown.
+
+## The Rogue Prince Of Persia Builds On Dead Cell's Formula, Puts A Heavier Emphasis On Wall Running
+ - [https://www.gamespot.com/articles/rogue-prince-of-persia-builds-on-dead-cells-formula-wall-running/1100-6522522/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/rogue-prince-of-persia-builds-on-dead-cells-formula-wall-running/1100-6522522/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T17:45:00+00:00
+
+<p>The wait for the next Prince of Persia game is going to be a lot shorter than the last one. After waiting almost 14 years between the releases of <a href="https://www.gamespot.com/games/prince-of-persia-the-forgotten-sands/">The Forgotten Sands</a> and <a href="https://www.gamespot.com/games/prince-of-persia-the-lost-crown/">The Lost Crown</a>, we only have to keep patient for a few months to play the next Prince of Persia. Titled The Rogue Prince of Persia, the upcoming roguelike is coming from <a href="https://www.gamespot.com/games/dead-cells/">Dead Cells</a> studio Evil Empire and is scheduled to launch in Steam Early Access later this year. During a preview event for the game, I played about 30 minutes of it--it feels like getting another taste of Dead Cells (which is great!) but flavoring it with Prince of Persia's lore and emphasis on wall-running. I like a lot of what it's doing, but there are aspects that give me pause.</p><p dir="ltr">In The Rogue Prince of Persia, you pl
+
+## Spider-Man Producers Didn't Know Zendaya Was Famous Before Casting Her
+ - [https://www.gamespot.com/articles/spider-man-producers-didnt-know-zendaya-was-famous-before-casting-her/1100-6522557/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/spider-man-producers-didnt-know-zendaya-was-famous-before-casting-her/1100-6522557/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T17:44:00+00:00
+
+<p>As a two-time Best Actress Emmy winner for Euphoria and as a co-star in the blockbuster Dune movies, Zendaya has reached a new level of stardom in her career. However, Zendaya's previous level of fame flew over the heads of Marvel Studios and Sony Pictures when she was originally cast as MJ (Michelle Jones) in Spider-Man: Homecoming. Zendaya went on to have much larger roles in both Spider-Man: Far From Home and Spider-Man: No Way Home.</p><p>"To be honest with you, neither Kevin Feige nor I knew who she was,‚Äù said producer Amy Pascal in a new <a href="https://www.vogue.com/article/zendaya-may-cover-2024-interview">Vogue</a> feature about Zendaya. "She was wearing no makeup and she was just dressed like a regular girl, and we were like, 'Oh my God, she‚Äôs amazing. She has to be in the movie.' And then we found out she was a totally famous person, and felt really stupid."</p><p>The reason why neither Pascal nor Feige knew who Zendaya was is probably because they fell far outside 
+
+## Slay the Spire 2 Announced, Early Access Starts In 2025
+ - [https://www.gamespot.com/articles/slay-the-spire-2-announced-early-access-starts-in-2025/1100-6522556/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/slay-the-spire-2-announced-early-access-starts-in-2025/1100-6522556/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T17:13:00+00:00
+
+<p dir="ltr">The Triple-I Initiative showcase started with a big sequel for a genre-defining game. Slay the Spire 2 was announced with a cinematic trailer and teased an early access release to begin in 2025. That means we could still have a long wait for the full release.</p><p dir="ltr">Though the trailer didn't show any gameplay, the cinematic did feature some recognizable characters from the first game. It shows the Watcher and the Defect arriving on a quest, this time joined by a third character carrying a scythe and looking very Reaper-like. The trailer ends with a set of glowing eyes welcoming the heroes. Those appear to belong to Neow, the whale-looking creature who assisted you in the first game.</p><p dir="ltr">The original Slay the Spire helped define and popularize the deckbuilding roguelike RPG, letting you build an increasingly powerful deck as you ascend the tower and defeat the bosses within, while culling the weaker cards to make it ever more efficient. Lots of other g
+
+## All The PlayStation Plus April 2024 Games For Premium And Extra Subscribers
+ - [https://www.gamespot.com/gallery/all-the-playstation-plus-april-2024-games-for-premium-and-extra-subscribers/2900-5251](https://www.gamespot.com/gallery/all-the-playstation-plus-april-2024-games-for-premium-and-extra-subscribers/2900-5251)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T17:04:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4285866-ps-plus-april-gc.jpg" /><br /><h3><p>More titles have been revealed for the PlayStation Plus Game Catalog this month, and most of them will be available starting April 16 for PlayStation Plus Extra and Premium subscribers. This month, there are a trio of big releases to look forward to, as subscribers can dive into a metroidvania based on African mythology in Tales of Kenzera: Zau, farm the ocean depths in Dave the Diver, and make good use of cunning tactics in Animal Well. Additionally, the <a href="https://www.gamespot.com/articles/playstation-plus-april-2024-free-games/1100-6522197/">free games in April for Essential subscribers</a> are also available right now and the lineup includes Immortals of Aveum for PS5, Minecraft Legends for PS5 and PS4, and Skul: The Hero Slayer for PS4.</p><p>Here's a closer look at everything available this month and in early May.</p><p> </p></h3></p><br />     <p><h2>Tale
+
+## Apple Products Are On Sale For Great Prices This Week - AirPods, iPads, And More
+ - [https://www.gamespot.com/articles/apple-products-are-on-sale-for-great-prices-this-week-airpods-ipads-and-more/1100-6522536/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/apple-products-are-on-sale-for-great-prices-this-week-airpods-ipads-and-more/1100-6522536/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T16:57:00+00:00
+
+<p>Apple hardware is some of the best on the market, but all of that quality does often come with a hefty price tag. Fortunately, several iPads, AirPods, and watches from Apple are on sale now, and even though some of the technology is older, you're still getting some great and flexible devices here. For anyone looking to get one of the deals below during <a href="https://www.gamespot.com/gallery/best-target-circle-week-deals-gaming-and-tech-products-on-sale-for-incredible-prices/2900-5246/">Target Circle Week</a>, you will need to be a member of the retail chain's <a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/l/target-circle/-/N-pzno9">free membership club</a>. Amazon is matching (and sometimes besting) many of these deals, too.</p><p>For anyone looking for a new tablet, you can pick up a <a href="https://www.amazon.com/2021-Apple-10-2-inch-iPad-Wi-Fi/dp/B09G9CJM1Z?tag=gamespot-promos-20&amp;tag=gamespot-buybutton-20">Gen 9 iPad
+
+## EA No Longer Working On Dead Space 2 Remake, Insider Claims
+ - [https://www.gamespot.com/articles/ea-no-longer-working-on-dead-space-2-remake-insider-claims/1100-6522552/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ea-no-longer-working-on-dead-space-2-remake-insider-claims/1100-6522552/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T16:15:00+00:00
+
+<p>Electronic Arts is reportedly no longer working on a remake of Dead Space 2, due to the sales of the first remake not meeting expectations.</p><p>According to Giant Bomb's Jeff Grubb, EA reportedly has its hands busy with both the upcoming Iron Man game and the next Battlefield entry, that it deprioritized the Dead Space 2 remake. "They were working on Dead Space 2, and they are no longer working on it," he <a href="https://www.youtube.com/watch?v=9n-tCxMxmQA">explained</a> on Game Mess Mornings (at the 13:16 mark). "It is on the shelf because the first game had lackluster sales." He also reported that the game was still in the pre-production phase, but now has been shelved.</p><p>However, Grubb said that it doesn't mean that the Dead Space 2 remake will never happen, but for right now, EA is apparently focusing on other projects.</p><a href="https://www.gamespot.com/articles/ea-no-longer-working-on-dead-space-2-remake-insider-claims/1100-6522552/?ftag=CAD-01-10abi2f/">Continue Rea
+
+## Zenless Zone Zero PS5 Technical Test Registration Is Now Live
+ - [https://www.gamespot.com/articles/zenless-zone-zero-ps5-technical-test-registration-is-now-live/1100-6522551/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/zenless-zone-zero-ps5-technical-test-registration-is-now-live/1100-6522551/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T16:00:00+00:00
+
+<p dir="ltr">Since its first announcement back in 2022, Hoyoverse has held multiple closed technical tests for its next adventure, Zenless Zone Zero across multiple platforms. Today, the company announced that registration for the next test--this time on PlayStation 5--has begun, and that players only have one week to sign up.</p><p dir="ltr">The registration period will run from April 10 at 4 AM PT / 7 AM ET to April 17 at 12 AM PT / 3 AM ET. Those interested in signing up can do so at <a href="https://webstatic.hoyoverse.com/common/event/survey-template/y_recruit.html?auth_appid=survey_CNn-i-J2sx-mg5pLTUr1bPXXQ0a5jH6PTyBSMVM3SY8u8W&amp;game_biz=nap_global&amp;surveyId=21352&amp;format=2">the official ZZZ website</a>, where they will have to create or log into a Hoyoverse account in order to proceed.</p><p dir="ltr">A <a href="https://zenless.hoyoverse.com/en-us/news/123171">Q&amp;A page</a> for the upcoming test is also available on the official website, which details some of the te
+
+## Your EA Play Subscription Is Increasing In Price In May
+ - [https://www.gamespot.com/articles/your-ea-play-subscription-is-increasing-in-price-in-may/1100-6522550/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/your-ea-play-subscription-is-increasing-in-price-in-may/1100-6522550/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T15:32:00+00:00
+
+<p>Electronic Arts is increasing the price of its EA Play subscription in May, and the new prices are already reflected on its <a href="https://www.ea.com/ea-play">website</a>.</p><p>First reported by <a href="https://www.gamesindustry.biz/ea-raising-price-of-ea-play-subscription">GamesIndustry.biz</a>, an email was sent out to subscribers that the new prices will start on May 10. The base tier of EA Play will increase by $1, from $5 per month to $6 per month. The annual fee will jump from $30 per year to now $40 per year. This tier lets subscribers get access to pre-release trials of upcoming EA games, as well as a vault of older titles.</p><p>For EA Play Pro subscribers, the price will go from $15 to $17 per month, and the annual plan will go from $100 per year to now $120. This second tier lets subscribers play premium editions of select newly released games before they launch. According to GamesIndustry.biz, the changes in subscription prices were made in order to reflect currency
+
+## Fallout Veteran Shares Heartwarming Reflection On Series As TV Show Debuts
+ - [https://www.gamespot.com/articles/fallout-veteran-shares-heartwarming-reflection-on-series-as-tv-show-debuts/1100-6522549/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fallout-veteran-shares-heartwarming-reflection-on-series-as-tv-show-debuts/1100-6522549/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T15:29:00+00:00
+
+<p>Fallout veteran Emil Pagliarulo has shared thoughts about what the franchise means to him as the TV show premieres on Amazon Prime. He wrote on <a href="https://twitter.com/Dezinuh/status/1777771276171698423">Twitter/X</a>, "I never could have imagined, in 2007 when I first started down this road, that it would end up here."</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">üßµ (1/6) So, Fallout. Please excuse my moment of introspection, but seeing Fallout hysteria grip the mass market in the lead up to the Amazon show's premiere has been so surreal. I never could have imagined, in 2007 when I first started down this road, that it would end up here. <a href="https://t.co/YLSEMQVTPb">pic.twitter.com/YLSEMQVTPb</a></p>  ‚Äî Emil Pagliarulo (@Dezinuh) <a href="https://twitter.com/Dezinuh/status/1777771276171698423?ref_src=twsrc^tfw">April 9, 2024</a></blockquote>              </div><p>Pagliarulo has worked on every Fallout game Bethesda has put out so far, since t
+
+## Gigantic Lego Star Wars AT-AT Kit Hits Lowest Price Ever
+ - [https://www.gamespot.com/articles/gigantic-lego-star-wars-at-at-kit-hits-lowest-price-ever/1100-6522544/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/gigantic-lego-star-wars-at-at-kit-hits-lowest-price-ever/1100-6522544/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T14:48:00+00:00
+
+<p>Amazon is currently running a Lightning Deal for the <a href="https://www.amazon.com/dp/B0813Q5JKX?tag=gamespot-promos-20">Lego Star Wars AT-AT Building Kit</a>, slashing its price to the lowest we've ever seen. However, the deal is quickly selling out, with 50% already claimed at the time of writing. That means anyone interested in adding the huge machine to their collection should move fast, as there's a good chance it'll sell out shortly.</p><div class="norewrite" title="6522544 - Lego AT AT Kit">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                    <a href="https://www.amazon.com/dp/B0813Q5JKX?tag=gamespot-promos-20">Lego Star Wars AT-AT Building Kit (1,267 pieces)</a>       </h2>                                   <h3 class="item-deck">                      <a href="https://www.amazon.com/dp/B0813Q5JKX?tag=gamespot
+
+## Spider-Man Spider-Verse Collector's Edition Box Set Is Only $43 At Amazon
+ - [https://www.gamespot.com/articles/spider-man-spider-verse-collectors-edition-box-set-is-only-43-at-amazon/1100-6518126/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/spider-man-spider-verse-collectors-edition-box-set-is-only-43-at-amazon/1100-6518126/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T14:33:00+00:00
+
+<p>The gorgeous <a href="https://www.amazon.com/dp/B0CJM73RKX?tag=gamespot-promos-20">Spider-Verse 4K Blu-ray Collector's Edition box set is on sale for only $43.33</a> at Amazon right now. Make sure to click the coupon box to get the full discount. This limited-edition set released over the holidays for a retail price of $120, so this is quite the deal. It comes with Spider-Man: Into the Spider-Verse and Across the Spider-Verse on 4K Blu-ray as well as a bunch of cool goodies.</p><div><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/B0CJM73RKX?tag=gamespot-promos-20">See at Amazon</a> </div></div><figure style="width: 1000px;"><a href="https://www.gamespot.com/a/uploads/original/1595/15950357/4200690-spider-versecollection.png"><img alt="Spider-Verse 2-Movie Collector's Edition" src="https://www.gamespot.com/a/uploads/original/1595/15950357/4200690-spider-versecollection.png" /></a><figcaption>Spider-Verse 2-Movie Collector's Edition</figcaption></figure>
+
+## Best Fallout Games, Ranked
+ - [https://www.gamespot.com/gallery/best-fallout-games/2900-5249](https://www.gamespot.com/gallery/best-fallout-games/2900-5249)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T14:32:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1585/15855271/4285119-4122873-news_falloutnewvegas2rumors_20230406v2.jpg" /><br /><h3><p dir="ltr">Fallout is one of the most distinct video game fictions out there, a blend of sharp-tongued satire, macabre humor, and real emotional stakes in a post-apocalyptic world. That setting has inspired a number of games, from the classic CRPG originals to the more modern shooter-RPG incarnations, and even a healthy blend of spin-offs.</p><p dir="ltr">But some Fallout games simply stand head and Super Mutant-sized shoulders above the rest, so we've taken it upon ourselves to rank them against each other. Just like out in the wasteland, only the strong survive. Check out our ranking of the best Fallout games below ahead of the release of the new <a href="https://www.gamespot.com/gallery/fallout-tv-show-everything-we-know-including-trailers-release-date-and-characters/2900-5027/">Fallout TV series on Prime Video</a>. And if the show spur
+
+## How To Get The Whisper Of The Worm Exotic In Destiny 2
+ - [https://www.gamespot.com/articles/how-to-get-the-whisper-of-the-worm-exotic-in-destiny-2/1100-6522529/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-get-the-whisper-of-the-worm-exotic-in-destiny-2/1100-6522529/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T14:30:00+00:00
+
+<p>The Whisper is back in <a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a>, offering the Whisper of the Worm exotic sniper rifle as a reward. Not only you'll gain the exotic itself as a reward, but also its pattern so you can craft your own version.</p><p>As part of the Whispers of the Past questline, you'll have to reunite with Eris Morn at the Moon to get started. If you're wondering <strong>how to get the Whisper of the Worm exotic</strong> in Destiny 2 as promptly as possible, the step-by-step list below should help.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to Start Whispers of the Past in Destiny 2</a></li></ul></div><h2 id="How_to_Start_Whispers_of_the_Past_in_Destiny_2">How to Start Whispers of the Past in Destiny 2</h2><p>The Whispers of the Past quest in Destiny 2 won't be available from the get-go. You first need to com
+
+## How To Get Trophies Of Bravery In Destiny 2
+ - [https://www.gamespot.com/articles/how-to-get-trophies-of-bravery-in-destiny-2/1100-6522527/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-get-trophies-of-bravery-in-destiny-2/1100-6522527/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T14:26:00+00:00
+
+<p>The <a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a> <strong>Trophy of Bravery</strong> is a new currency introduced during the Into The Light update. This currency is used to open Brave chests in the Hall of Champions, which contain all sorts of rewards, most notably the <a href="https://www.gamespot.com/articles/destiny-2-into-the-lights-brave-arsenal-is-a-guns-greatest-hits-collection/1100-6522170/">greatest hits collection</a> of weapons.</p><p>While you're likely to stumble upon the currency as you complete activities throughout the solar system, it's best to know the sources of it so you're maximizing your chances before the release of <a href="https://www.gamespot.com/articles/destiny-2-the-final-shape-release-date-new-exotics-and-everything-we-know/1100-6517377/">The Final Shape</a> on June 4. If you're wondering how to get Trophies of Bravery in Destiny 2, the section below will be of help.</p><div><span><strong>Table of Contents</strong> [<a href="https:/
+
+## Destiny 2 Onslaught Guide: Best Defenses, How To Get Scraps
+ - [https://www.gamespot.com/articles/destiny-2-onslaught-guide-best-defenses-how-to-get-scraps/1100-6522525/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2-onslaught-guide-best-defenses-how-to-get-scraps/1100-6522525/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T14:21:00+00:00
+
+<p><a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a> Into the Light introduces <strong>Onslaught</strong>, the new seasonal activity that will keep you busy until the launch of <a href="https://www.gamespot.com/articles/destiny-2-the-final-shape-release-date-new-exotics-and-everything-we-know/1100-6517377/">The Final Shape</a> on June 4. If you've been waiting for Destiny to finally debut a horde-based mode, you're in luck.</p><p>Onslaught asks you to survive waves of increasingly tougher enemies with a squad of three while defending a point of interest. As expected, there are quite a few quirks to learn and master, especially if you're planning on doing 20, 30, or up to 50 waves in one run to complete Triumphs or brag to friends.</p><p>This guide focuses on everything you need to know about the <strong>Destiny 2 Onslaught</strong> activity, including how to get scraps and the best defenses to spend them on, as well as a few general tips that will come in handy.</p><a 
+
+## Prince Of Persia: Sands Of Time Remake Might Be Going Through A Remake Of Its Own - Report
+ - [https://www.gamespot.com/articles/prince-of-persia-sands-of-time-remake-might-be-going-through-a-remake-of-its-own-report/1100-6522543/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/prince-of-persia-sands-of-time-remake-might-be-going-through-a-remake-of-its-own-report/1100-6522543/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T14:16:00+00:00
+
+<p>Ubisoft's Prince of Persia: Sands of Time remake is reportedly getting an overhaul and being remade from scratch again.</p><p>According to <a href="https://insider-gaming.com/prince-of-persia-sands-of-time-remake/">Insider Gaming</a>, Ubisoft Montreal has apparently completely redone the Prince of Persia: Sands of Time remake. While footage was provided, it was under the condition that it wouldn't be shown publicly. Insider Gaming describes the footage as the game being in early development with missing textures and assets.</p><p>The overhaul reportedly includes a more realistic graphical approach with new animations and mechanics for combat and parkour. Additionally, it appears that voice actor Yuri Lowenthal is reportedly no longer reprising his role. He was the the Prince's original voice actor and also appeared in the remake's initial reveal trailer.</p><a href="https://www.gamespot.com/articles/prince-of-persia-sands-of-time-remake-might-be-going-through-a-remake-of-its-own-re
+
+## Fallout TV Show Does This One Thing The Games Never Could
+ - [https://www.gamespot.com/articles/fallout-tv-show-does-this-one-thing-the-games-never-could/1100-6522541/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fallout-tv-show-does-this-one-thing-the-games-never-could/1100-6522541/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T13:53:00+00:00
+
+<p>The <a href="https://www.gamespot.com/gallery/fallout-tv-show-everything-we-know-including-trailers-release-date-and-characters/2900-5027/">Fallout TV series</a> premieres today, April 10, and it does something no Fallout game ever has. <strong>This story contains spoilers for the TV and game series.</strong></p><div>          </div><p>Speaking to <a href="https://www.techradar.com/streaming/amazon-prime-video/amazons-fallout-tv-show-includes-the-one-thing-we-could-never-do-bethesda-boss-todd-howard-says">Tech Radar</a>, Bethesda boss Todd Howard said the games "could never" go back to the past and reveal what the world was like before the bombs went off. But the TV series does this. The first seven minutes of Episode 1 depict The Great War and all it entailed.</p><p>"The big [change] was exploring the past," Howard said. "In our [mine and creator Jonathan Nolan's] initial conversations, we knew we wanted to tell a new story that feels like a new chapter in the Fallout series, much
+
+## John Cena Comments On The Rock/Vin Diesel Beef: "There Can Only Be One"
+ - [https://www.gamespot.com/articles/john-cena-comments-on-the-rock-vin-diesel-beef-there-can-only-be-one/1100-6522546/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/john-cena-comments-on-the-rock-vin-diesel-beef-there-can-only-be-one/1100-6522546/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T13:38:00+00:00
+
+<p>Last year, the ongoing feud between Dwayne "The Rock" Johnson and Vin Diesel seemingly ended last year when Johnson shocked Fast and Furious fans by appearing as Luke Hobbs in the Fast X mid-credits scene. Diesel had originally asked Johnson to come aboard back in 2021 to join the 10th installment of the long-running action franchise, but <a href="https://www.gamespot.com/articles/the-rock-wont-come-back-for-the-final-fast-furious-movies/1100-6494734/">Johnson seemingly turned it down</a>. It was a surprising ruse.</p><p>John Cena, who has also co-starred in the franchise, addressed the rumors concerning Johnson and Diesel on Dax Shepard's Armchair Expert podcast (via <a href="https://people.com/john-cena-dwayne-johnson-vin-diesel-fast-furious-feud-theyre-both-very-alpha-8628835?taid=66156ab11a8c700001408573&amp;utm_campaign=peoplemagazine&amp;utm_content=new&amp;utm_medium=social&amp;utm_source=twitter.com">People</a>). The WWE icon and action star said there were rumors but under
+
+## Wolverine Might Finally Do Something He's Never Done In A Movie For Deadpool 3
+ - [https://www.gamespot.com/articles/wolverine-might-finally-do-something-hes-never-done-in-a-movie-for-deadpool-3/1100-6522540/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wolverine-might-finally-do-something-hes-never-done-in-a-movie-for-deadpool-3/1100-6522540/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T13:36:00+00:00
+
+<p>Deadpool 3--or <a href="https://www.gamespot.com/gallery/deadpool-and-wolverine-release-date-trailers-news/2900-5180/">Deadpool and Wolverine</a> if you're going by the film's official title--will finally see Marvel's favorite mutant suited up in a costume straight out of the comic books, and according to some leaked promotional images, it looks like he'll also finally be donning the signature cowl of the fan-favorite character.</p><p>While images of Wolverine actor Hugh Jackman were revealed several months ago, he wasn't seen wearing a mask in those images. The recent "<a href="https://www.gamespot.com/articles/first-deadpool-3-trailer-unleashes-the-marvel-messiah-on-the-mcu/1100-6520981/">Marvel Messiah</a>" trailer for Deadpool and Wolverine only <em>hinted </em>at Logan's appearance--presumably before he turns Deadpool into a human kebab--but photos of promotional items from the recent CinemaCon trade expo have shown off Wolverine fully suited up and ready to rumble.</p><div><b
+
+## The Boys Season 4 Passes Major Milestone Ahead Of June Debut
+ - [https://www.gamespot.com/articles/the-boys-season-4-passes-major-milestone-ahead-of-june-debut/1100-6522537/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-boys-season-4-passes-major-milestone-ahead-of-june-debut/1100-6522537/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T13:15:00+00:00
+
+<p>The Boys creator Eric Kripke has announced that the show's upcoming fourth season has passed a major milestone ahead of its highly anticipated debut this June.</p><p>Kripke said on social media that Season 4 is now "completely, totally, absolutely DONE." The show is known for its extensive CG shots, so work no doubt continued on the newest season long after cameras stopped rolling. Kripke added, "I'm really grateful and so proud of this cast and crew." He went on to say that Season 4 could the show's "best yet."</p><p>"Can't wait to unleash it onto the world," Kripke said.</p><a href="https://www.gamespot.com/articles/the-boys-season-4-passes-major-milestone-ahead-of-june-debut/1100-6522537/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Saw 11 And The Crow Delayed By Lionsgate
+ - [https://www.gamespot.com/articles/saw-11-and-the-crow-delayed-by-lionsgate/1100-6522542/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/saw-11-and-the-crow-delayed-by-lionsgate/1100-6522542/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T13:14:00+00:00
+
+<p dir="ltr">Do you want to play a game of release date shuffling? Well, Lionsgate does, as the studio has shifted two notable upcoming films: Saw 11 and The Crow starring Bill Skarsgård. The former has been delayed almost a full year, while the former sees a smaller change.</p><p dir="ltr">According to <a href="https://www.hollywoodreporter.com/movies/movie-news/the-crow-delays-release-saw-xi-moves-lionsgate-1235870477/">The Hollywood Reporter</a>, Saw 11 will now premiere theatrically on September 26, 2025. In December, when <a href="https://www.gamespot.com/articles/saw-11-announced-as-lionsgate-declares-the-game-continues/1100-6519878/">the horror sequel was announced after Saw X's success</a>, the film was slated to arrive September 27 of this year. So, "the game continues," just not when we originally thought. <a href="https://www.gamespot.com/articles/review-roundup-for-saw-x/1100-6518057/">Saw X saw generally favorable reviews</a> and actually went back in time, canonically ta
+
+## Hitman Dev Hires Ubisoft Veteran For New James Bond Game, And He's Excited To Work On A Non-Sequel
+ - [https://www.gamespot.com/articles/hitman-dev-hires-ubisoft-veteran-for-new-james-bond-game-and-hes-excited-to-work-on-a-non-sequel/1100-6522538/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/hitman-dev-hires-ubisoft-veteran-for-new-james-bond-game-and-hes-excited-to-work-on-a-non-sequel/1100-6522538/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T13:10:00+00:00
+
+<p>Hitman developer IO Interactive is making a new James Bond game, and while many of the key details remain a mystery, we've now learned a little more about it.</p><p>IO has <a href="https://ioi.dk/?panel=careers/news/2024/rodrigo-santoro-joins-project-007">announced</a> it has hired Rodrigo Santoro, a Ubisoft veteran who rose through the ranks to become overall World Director at The Division and Avatar: Frontiers of Pandora studio Massive. At IO, Santoro will be the Missions Director on the new James Bond game, which is in the works under the working title Project 007.</p><figure style="width: 1712px;"><a href="https://www.gamespot.com/a/uploads/original/1179/11799911/4285761-screenshot2024-04-10at8.55.08am.png"><img alt="Rodrigo Santoro has joined IO to work on the new James Bond game" src="https://www.gamespot.com/a/uploads/scale_super/1179/11799911/4285761-screenshot2024-04-10at8.55.08am.png" /></a><figcaption>Rodrigo Santoro has joined IO to work on the new James Bond game</figc
+
+## Fallout (Amazon Show) Review - Of The People, For The People
+ - [https://www.gamespot.com/reviews/fallout-amazon-show-review-of-the-people-for-the-people/1900-6418209/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/fallout-amazon-show-review-of-the-people-for-the-people/1900-6418209/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T13:00:00+00:00
+
+<p dir="ltr">Capturing what makes the Fallout series endearing as a TV show is a tall order. So much of the experience relies on the sense of discovery that comes from wandering the Wasteland. You may enter a subway tunnel on a whim and encounter a city made up of people who think they're vampires, or meet a guy who is also a tree. Whether it's speaking with the leaders of factions about their values and deciding whether they're <em>your </em>values, or just sneaking around a supermarket overtaken by murderous robots, Fallout is often about the strange and fascinating stories you stumble on along the way to whatever it is you're supposed to be doing.</p><p dir="ltr">And in that, Amazon's eight-episode streaming adaptation of Fallout, from Westworld creators Lisa Joy and Jonathan Nolan, falls short. The show is at its best when it sticks close to its protagonists, who are all separately journeying through the Wasteland. But a huge part of the story is made up of narrative diversions, a
+
+## Like Many Games, Star Wars Outlaws Physical Edition Requires Internet Connection To Download
+ - [https://www.gamespot.com/articles/like-many-games-star-wars-outlaws-physical-edition-requires-internet-connection-to-download/1100-6522531/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/like-many-games-star-wars-outlaws-physical-edition-requires-internet-connection-to-download/1100-6522531/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T12:08:00+00:00
+
+<p>Pre-orders for Ubisoft's <a href="https://www.gamespot.com/games/star-wars-outlaws/">Star Wars Outlaws</a> <a href="https://www.gamespot.com/articles/star-wars-outlaws-preorder-guide/1100-6522523/">opened this week</a>, and a bunch of new details about the game's release have been revealed--including the fact that the single-player title will require an internet connection to download, even if you buy a physical copy of the game.</p><p>As picked up by <a href="https://www.videogameschronicle.com/news/the-physical-version-of-star-wars-outlaws-requires-an-online-connection-to-install/">Video Games Chronicle</a>, the box art for Star Wars Outlaws includes the message "internet required to install the game." This practice isn't uncommon for physical games these days, with Ubisoft's previous title <a href="https://www.gamespot.com/games/avatar-frontiers-of-pandora/">Avatar: Frontiers of Pandora</a> also having a similar requirement, as well as major titles from other developers, such as
+
+## Ubisoft Reveals New Details About Star Wars Outlaws' World, Characters, And Syndicates
+ - [https://www.gamespot.com/articles/ubisoft-reveals-new-details-about-star-wars-outlaws-world-characters-and-syndicates/1100-6522532/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ubisoft-reveals-new-details-about-star-wars-outlaws-world-characters-and-syndicates/1100-6522532/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T12:08:00+00:00
+
+<p>Ubisoft has dropped a new story trailer for its upcoming action-adventure game <a href="https://www.gamespot.com/games/star-wars-outlaws/">Star Wars Outlaws</a>, after revealing that the game will <a href="https://www.gamespot.com/articles/star-wars-outlaws-will-launch-august-30/1100-6522417/">release on August 30</a> this year. In an additional video, narrative director Navid Khavari breaks down what's shown in the trailer. Here's what we've learned.</p><p>The trailer opens with a meeting of some of the Star Wars universe's biggest criminal syndicates, confirming which ones will make an appearance in the game. As well as antagonist Sliro's Zerek Besh, the game will also feature the infamous Hutt Cartel, Crimson Dawn, which was introduced as Darth Maul's criminal enterprise in Solo: A Star Wars Story, the Pyke syndicate, which first appeared in the Clone Wars animated TV series, and the Ashiga Clan, which was created specifically for Star Wars Outlaws.</p><p>Throughout the game, th
+
+## Blizzard PC Titles Will Return To China Under New Deal With NetEase
+ - [https://www.gamespot.com/articles/blizzard-pc-titles-will-return-to-china-under-new-deal-with-netease/1100-6522533/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/blizzard-pc-titles-will-return-to-china-under-new-deal-with-netease/1100-6522533/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T12:07:00+00:00
+
+<p>In 2022, Blizzard <a href="https://www.gamespot.com/articles/blizzard-makes-a-major-change-to-its-biggest-games-in-china/1100-6509239/">declined to renew a partnership</a> with NetEase that brought PC titles to mainland China, resulting in most of Blizzard's games being taken offline in that market. Now, with Microsoft's involvement as Activision-Blizzard's new parent company, the deal with NetEase has been re-established, and Blizzard's games will be brought back to China.</p><p>The initial break between Blizzard and NetEase appeared messy on both sides, with statements from both companies laying blame on the other. The move was also a major contributor to <a href="https://www.gamespot.com/articles/overwatch-2-is-steams-worst-user-reviewed-game-of-all-time-but-for-a-surprising-reason/1100-6516849/">Overwatch 2 being review bombed</a>, with many of the negative reviews coming from annoyed Chinese players.</p><p>It was expected that Blizzard was looking for an alternative partner fo
+
+## Joker 2 Trailer Prepares Us To Laugh, Cry, And Sing
+ - [https://www.gamespot.com/articles/joker-2-trailer-prepares-us-to-laugh-cry-and-sing/1100-6522517/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/joker-2-trailer-prepares-us-to-laugh-cry-and-sing/1100-6522517/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-10T01:10:00+00:00
+
+<p>It's been five long years, but the first trailer for Joker 2 has arrived. Subtitled Folie à Deux (literal translation "madness for two", but medically speaking where two people share a delusion), the upcoming sequel continues the story from 2019's Oscar-winning Joker and introduces Lady Gaga as Harley Quinn into the fold.</p><p>Earlier today, Warner Bros. <a href="https://www.gamespot.com/articles/first-joker-2-footage-debuts-full-trailer-arrives-soon/1100-6522497/">released a teaser</a> to hype up the trailer showing Joaquin Phoenix's Arthur Fleck/the Joker laughing to himself in Arkham Asylum in the rain. You can check out the full trailer below now, full of music, mayhem, and the chaotic magnetism of the Joker and Harley.</p><div>          </div><p> </p><a href="https://www.gamespot.com/articles/joker-2-trailer-prepares-us-to-laugh-cry-and-sing/1100-6522517/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
