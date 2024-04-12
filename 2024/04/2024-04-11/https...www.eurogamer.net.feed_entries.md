@@ -1,0 +1,163 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Baldur's Gate 3 wins Best Game and four more awards at this year's BAFTAs
+ - [https://www.eurogamer.net/baldurs-gate-3-takes-home-best-game-and-four-more-awards-at-this-years-baftas?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/baldurs-gate-3-takes-home-best-game-and-four-more-awards-at-this-years-baftas?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T22:28:36+00:00
+
+<img src="https://assetsio.gnwcdn.com/BG3-XBOX-SITE_JceP9B8.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The BAFTA Games Awards 2024 winners have been revealed, with this year's big victor - perhaps unsurprisingly - being Larian Studios' hugely acclaimed Baldur's Gate 3.
+</p><p>
+Baldur's Gate 3 took home a total of five BAFTAs, coming top in the categories for Narrative, Music, and Best Game. It also won the EE Player's Choice Award - the only category to be voted for by the general public - and Andrew Wincott was named best Performer in a Supporting Role, for his performance as Raphael in the game.
+</p><p>
+Tonight's other multi award winners were Alan Wake 2 - which secured BAFTAs for Audio Achievement and Artistic Achievement - and Super Mario Bros. Wonder, which trumped the competition in the Multiplayer and Family categories. Additionally, clever photography puzzler Viewfinder had two wins: British Game and New Intellectual Prop
+
+## Next week's Epic Games Store freebies have been revealed
+ - [https://www.eurogamer.net/next-weeks-epic-games-store-freebies-have-been-revealed?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/next-weeks-epic-games-store-freebies-have-been-revealed?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T20:53:54+00:00
+
+<img src="https://assetsio.gnwcdn.com/the-big-con-ali.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+If you've been eying up your teetering games backlog and thinking to yourself, "You know, this games backlog isn't anywhere near teetering enough!", the Epic Games Store has you covered. It's just announced The Big Con and Town of Salem 2 will be its next freebies, from 18th April.
+</p><p>
+The Big Con is a comedic, crime-filled road trip adventure set in the 90s (it has a squiggly, day-glo art style entirely in keeping with the era) that follows high schooler Ali as she hustles and grifts her way across America in a bid to save her family's video store from lone sharks.
+</p><p>
+Eurogamer contributor Emad Ahmed liked The Big Con a lot when it released in 2021, calling it a "big hearted journey into the recent(ish) past" in <a href="https://www.eurogamer.net/the-big-con-review-the-fun-adventure-of-a-90s-hustler">his Recommended review</a
+
+## 64-player Pac-Man Mega Tunnel Battle: Chomp Champs hits PC, consoles in May
+ - [https://www.eurogamer.net/64-player-pac-man-mega-tunnel-battle-chomp-champs-hits-pc-and-consoles-in-may?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/64-player-pac-man-mega-tunnel-battle-chomp-champs-hits-pc-and-consoles-in-may?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T19:32:51+00:00
+
+<img src="https://assetsio.gnwcdn.com/pac-man-mega-tunnel-art.jpeg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Pac-Man Mega Tunnel Battle: Chomp Champs is making the jump from Google's ill-fated Stadia platform to PlayStation 5, PS4, Xbox Series X/S, Xbox One, Switch, and Steam on 9th May.
+</p><p>
+Pac-Man Mega Tunnel Battle - which <a href="https://www.eurogamer.net/pac-man-mega-tunnel-battle-is-a-64-player-battle-royale-game-thats-first-on-stadia">launched on Stadia back in 2020</a>, minus its Chomp Champs subtitle - offers a 64-player battle royale twist on the classic arcade series' familiar pill-popping, ghost-dodging action, challenging players to be the last Pac-Man standing across 64 vibrantly themed, interconnected mazes.
+</p><p>
+"Gain the upper hand on other players or turn the tables against ghosts by utilising a variety of Power Items which give Pac-Man shields, enhanced speed, and more," publisher Bandai Namco explains. "Pl
+
+## Prime Gaming adds two more Fallout games for subscribers in April
+ - [https://www.eurogamer.net/prime-gaming-adds-two-more-fallout-games-for-subscribers-in-april?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/prime-gaming-adds-two-more-fallout-games-for-subscribers-in-april?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T18:04:09+00:00
+
+<img src="https://assetsio.gnwcdn.com/fallout_3.webp?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Amazon is expanding April's <a href="https://www.eurogamer.net/fallout-76-one-of-12-games-included-with-prime-gaming-subscriptions-in-april">previously announced Prime Gaming subscription games</a> with two additional Fallout titles, both available now via its Luma game streaming service, to celebrate the launch of its live-action Fallout TV show.
+</p><p>
+First up is Bethesda's classic post-apocalyptic open-world action-RPG, Fallout 3, which is available in its Game of the Year Edition guise, meaning players can settle in for a whole pile of <em>stuff</em>, seeing as it includes all five post-launch DLC expansions.
+</p><p>
+Also available on Luma for Prime Gaming members is Obsidian Entertainment's much-loved Fallout 3 follow-up, Fallout: New Vegas - which (as its name very much implies) shifts the post-apocalyptic action away from Washingto
+
+## Fallout 4 free next-gen update finally arrives this month
+ - [https://www.eurogamer.net/fallout-4-free-next-gen-update-finally-arrives-this-month?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/fallout-4-free-next-gen-update-finally-arrives-this-month?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T16:08:29+00:00
+
+<img src="https://assetsio.gnwcdn.com/fallout-4-update.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Yes, it is happening. Fallout 4 is finally getting that promised next-gen update, bringing the wasteland experience up to a silky smooth 60fps with increased resolutions on PlayStation 5 and Xbox Series X/S.</p><p><a href="https://fallout.bethesda.net/en/article/4s2bXQEbpcrsdCZhUYLHAi/fallout-4-is-getting-free-updates?linkId=100000254670482">This update</a>, which is free, includes native applications for PlayStation 5 and Xbox Series X/ S, Performance mode and Quality mode settings, as well as stability improvements and fixes.</p><p>Those playing Fallout 4 on PS4 and Xbox One, meanwhile, will be greeted with improved stability as well as login and quest fixes.</p> <p><a href="https://www.eurogamer.net/fallout-4-free-next-gen-update-finally-arrives-this-month?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## The best Fallout TV Easter eggs from episodes one and two
+ - [https://www.eurogamer.net/the-best-fallout-tv-easter-eggs-from-episodes-one-and-two?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/the-best-fallout-tv-easter-eggs-from-episodes-one-and-two?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T13:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Lucy-in-Amazon-Fallout-series.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+From Castlevania to Arcane, Halo to The Last of Us, we've been treated to plenty of video game TV adaptations over the past few years - and it's always interesting to see how their worlds translate into another medium.
+</p><p>
+Now, we have Amazon's Fallout adaptation, from Westworld's Jonathan Nolan and Bethesda itself - and we've already been watching. 
+</p><p>
+You can find <a href="https://www.eurogamer.net/fallout-review">Eurogamer's Fallout TV series review</a> online already if you want to know whether the show is worth your time - but for fans, we wanted to call out a few particular moments and Fallout Easter eggs worthy of a bit more discussion from the first two episodes. Please note, <strong>there will be Fallout spoilers ahead</strong>.
+</p> <p><a href="https://www.eurogamer.net/the-best-fallout-tv-easter-eggs-f
+
+## Despite Fallout TV success, an Elder Scrolls series seems unlikely
+ - [https://www.eurogamer.net/despite-fallout-tv-success-an-elder-scrolls-series-seems-unlikely?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/despite-fallout-tv-success-an-elder-scrolls-series-seems-unlikely?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T11:59:48+00:00
+
+<img src="https://assetsio.gnwcdn.com/fallout-amazon-premiere.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Despite Amazon's Fallout adaptation getting a very positive reception so far, it doesn't seem likely that other Bethesda properties will be getting the same treatment. At least, not on Todd Howard's watch.</p><p>During the Fallout premiere in Los Angeles, <a href="https://www.ign.com/articles/todd-howard-on-other-bethesda-adaptations-after-fallout-ill-probably-say-no-but-you-never-know">IGN</a> asked Howard - who served as an executive producer on the Fallout series - if fans could expect TV adaptations from other Bethesda franchises, such as Elder Scrolls. But, for now, it isn't looking likely.</p><p>"There's nothing in the works," Howard told the publication, before adding: "Everybody asks, like, about Elder Scrolls, and I keep saying no also. And I would approach those - I'll probably say no."</p> <p><a href="https://www.euro
+
+## Pokémon Go looks to be adding Fuse mechanic, as Necrozma confirmed for Go Fest
+ - [https://www.eurogamer.net/pokemon-go-looks-to-be-adding-fuse-mechanic-as-necrozma-confirmed-for-go-fest?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/pokemon-go-looks-to-be-adding-fuse-mechanic-as-necrozma-confirmed-for-go-fest?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T10:48:58+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2024-04-11-114404.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Pok&eacute;mon Go looks set to add a new mechanic from the main series Pok&eacute;mon games: the concept of Pok&eacute;mon Fusion. 
+</p><p>
+References to Fusion have been found in a new datamine of the app (thanks, <a href="https://pokeminers.com/sitereports/text-update-2024-04-11/">Pok&eacute;Miners</a>), and give a strong suggestion for how the mechanic may be implemented - as well as which Pok&eacute;mon it will be activated for. 
+</p><p>
+Fusion - which sees a separate Pok&eacute;mon temporarily subsumed by another - would be a fun addition, and is fitting to add now ahead of Necrozma's arrival at Go Fest 2024 - <a href="https://www.eurogamer.net/pokemon-go-waited-until-yesterdays-eclipse-to-announce-necrozmas-arrival">teased by developer Niantic during this week's real-life solar eclipse</a>, and now fully <a href="htt
+
+## Five Nights at Freddy's movie sequel officially in the works
+ - [https://www.eurogamer.net/five-nights-at-freddys-movie-sequel-officially-in-the-works?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/five-nights-at-freddys-movie-sequel-officially-in-the-works?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T10:18:03+00:00
+
+<img src="https://assetsio.gnwcdn.com/Five-Nights-at-Freddys-film-screenshot-showing-golden-freddy.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>After a lot of speculation and a few rumours, the Five Nights at Freddy's movie adaptation is officially getting a sequel.</p><p>Universal Pictures and Blumhouse Productions first announced the news during CinemaCon, which is currently being held in Las Vegas, this week.</p><p>In a subsequent <a href="https://twitter.com/blumhouse/status/1778210682670096853">post</a> on social media platform X, Blumhouse confirmed the next film will be released sometime in the autumn of next year, but no exact date was given.</p> <p><a href="https://www.eurogamer.net/five-nights-at-freddys-movie-sequel-officially-in-the-works?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Immortals of Aveum developer furloughs majority of staff - report
+ - [https://www.eurogamer.net/immortals-of-aveum-developer-furloughs-majority-of-staff-report?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/immortals-of-aveum-developer-furloughs-majority-of-staff-report?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T10:14:27+00:00
+
+<img src="https://assetsio.gnwcdn.com/Aveum-Site_nj2CQ1W_ieFuqNY.webp?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Ascendant Studios, the developer behind last year's EA-published magic shooter Immortals of Aveum, has reportedly furloughed the majority of its staff.
+</p><p>
+The situation first came to light via a LinkedIn <a href="https://www.linkedin.com/feed/update/urn:li:activity:7183848897763569664/">post</a> from Kris Morness, a former staff member now employed elsewhere, and has since been corroborated by Polygon reporter Nicole Carpenter, who <a href="https://twitter.com/sweetpotatoes/status/1778099089344757944">wrote</a> that "a large portion" of the company was put on furlough. 
+</p><p>
+Ascendant Studios is yet to comment on the matter, though Eurogamer has now asked for more detail.
+</p> <p><a href="https://www.eurogamer.net/immortals-of-aveum-developer-furloughs-majority-of-staff-report?utm_source=feed&amp;utm_medium=rss&amp;
+
+## Final Fantasy 7 Rebirth's trophy bug now fixed
+ - [https://www.eurogamer.net/final-fantasy-7-rebirths-trophy-bug-now-fixed?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/final-fantasy-7-rebirths-trophy-bug-now-fixed?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T10:08:22+00:00
+
+<img src="https://assetsio.gnwcdn.com/cloud-vr-bike.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Square Enix has released a further update to Final Fantasy 7 Rebirth, which finally fixes a <a href="https://www.eurogamer.net/digital-owners-of-final-fantasy-7-rebirth-cannot-platinum-the-game">bugged quest that prevented some players from achieving the game's platinum trophy</a>.
+</p><p>
+The chapter 12 side quest Can't Stop, Won't Stop requires players to beat the high score in G-Bike, however a bug in the previous patch meant this quest would not be completed even if the high score was reached.
+
+</p><p>
+<a href="https://x.com/finalfantasyvii/status/1775841519569973391">Square Enix was aware of this issue</a> and noted last week a fix would be provided in the next patch. Now it's here.
+
+</p> <p><a href="https://www.eurogamer.net/final-fantasy-7-rebirths-trophy-bug-now-fixed?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read
+
+## Destiny 3 discussion swirls, following accurate expansion leak
+ - [https://www.eurogamer.net/destiny-3-discussion-swirls-following-accurate-expansion-leak?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/destiny-3-discussion-swirls-following-accurate-expansion-leak?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T09:50:40+00:00
+
+<img src="https://assetsio.gnwcdn.com/destiny-2-into-the-light-release-roadmap-03.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+After a decade of story, the Destiny franchise heads into uncharted waters after the launch of this year's The Final Shape expansion. But both Bungie and a prominent leaker have teased what will come next - and when we will hear about it. 
+</p><p>
+The internet has been quick to notice a curious Destiny 2 leak posted to reddit in February which discussed an upcoming character subclass, Prismatic, that lets you combine Light and Dark powers. This week, that subclass was officially <a href="https://www.eurogamer.net/destiny-2-the-final-shapes-prismatic-subclass-and-dread-faction-revealed">announced by Bungie in a livestream detailing The Final Shape</a> - which has prompted fans to look at what else the leaker has said. 
+</p><p>
+"Destiny 3 is (was? idk) in development under code name Payback," the leaker said o
+
+## Dead Space series reportedly "on ice" following sequel remake rumours
+ - [https://www.eurogamer.net/dead-space-series-reportedly-on-ice-following-sequel-remake-rumours?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/dead-space-series-reportedly-on-ice-following-sequel-remake-rumours?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T09:36:15+00:00
+
+<img src="https://assetsio.gnwcdn.com/Isaac-Clarke-in-Dead-Space-2.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Last night, a report claimed a <a href="https://www.eurogamer.net/dead-space-2-remake-was-reportedly-in-development-but-not-any-more">Dead Space 2 remake had been in the works at EA</a>. However, a subsequent report - which itself follows on from EA denying any such remake was in the pipeline - has poured more cold water on these initial claims. In fact, the whole series is reportedly "on ice".</p><p>Bloomberg's Jason Schreier has now weighed in to affirm EA's statement that denied a sequel ever being in development at EA's Motive studio. "Motive has been on other projects for nearly a year," Schreier wrote, adding that the developer had instead "explored ideas for a new entry early last year but none were greenlit".</p><p>Writing on social media platform X, Schrier <a href="https://twitter.com/jasonschreier/status/17782026
+
+## Microsoft limits Xbox Game Pass subscription extensions in certain countries
+ - [https://www.eurogamer.net/microsoft-limits-xbox-game-pass-subscription-extensions-in-certain-countries?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/microsoft-limits-xbox-game-pass-subscription-extensions-in-certain-countries?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T09:27:14+00:00
+
+<img src="https://assetsio.gnwcdn.com/Xbox-Game-Pass-header_DHJR7u9.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Microsoft is <a href="https://support.xbox.com/en-US/help/subscriptions-billing/manage-subscriptions/xbox-subscription-extension-limits">limiting Xbox Game Pass subscription extensions</a> in certain countries to deter players from stacking their membership at a cheaper rate.
+</p><p>
+Using digital codes or gift cards, Game Pass subscriptions can be extended to a maximum of 36 months to ensure players are covered without needing to pay each month.
+</p><p>
+However, a select number of countries are now excluded from this due to the lower cost of the subscription based on exchange rates.
+</p> <p><a href="https://www.eurogamer.net/microsoft-limits-xbox-game-pass-subscription-extensions-in-certain-countries?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Inkbound review - another stand out roguelike by the Monster Train team
+ - [https://www.eurogamer.net/inkbound-review-another-stand-out-roguelike-by-the-monster-train-team?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/inkbound-review-another-stand-out-roguelike-by-the-monster-train-team?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-11T09:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/inkbound_review.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>This time it's Hades that Shiny Shoe's game feels similar to, but with some delicious differences that make this roguelike stand out all on its own.</p><p>To understand the allure of Inkbound, you have to understand a bit about the developer making it. Shiny Shoe made a game called Monster Train that came out a few years ago, and it was a roguelike deck-building game influenced by Slay the Spire, but imaginative enough to spin that influence into its own thing - and then good enough to deliver it. That's not an easy genre to stand out in, but it did. Understandably, there was a lot of excitement for what the studio would do next, and Inkbound is it. And whisper it, but I believe Shiny Shoe has done it again.</p><p>Slay the Spire isn't the dominant influence this time; Hades is. There's one huge difference in that Inkbound combat plays o
+

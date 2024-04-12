@@ -1,0 +1,37 @@
+# Source:Tabletop Gaming News – TGN, URL:https://www.tabletopgamingnews.com/feed, language:en-US
+
+## “Without Question” Set for Release in the BattleTech Series
+ - [https://www.tabletopgamingnews.com/without-question-set-for-release-in-the-battletech-series](https://www.tabletopgamingnews.com/without-question-set-for-release-in-the-battletech-series)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-11T21:16:46+00:00
+
+<a href="https://www.tabletopgamingnews.com/without-question-set-for-release-in-the-battletech-series/" rel="nofollow" title="&#8220;Without Question&#8221; Set for Release in the BattleTech Series"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1500" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/81ay9nUUmrL._SL1500_.jpg" style="display: block; margin: auto; margin-bottom: 5px;" width="1135" /></a>Scheduled for release on May 15, &#8220;Without Question&#8221; is the latest addition to the BattleTech series by Bryan Young. The novel is set in 3152 during the ilClan era and focuses on the story of Jiyi Chistu and the remnants of Clan Jade Falcon in the Falcon Occupation Zone. Following the death of Malvina Hazen &#8230;
+
+## Bloomchasers: A New 3D Strategy Board Game Blossoms on Kickstarter
+ - [https://www.tabletopgamingnews.com/bloomchasers-a-new-3d-strategy-board-game-blossoms-on-kickstarter](https://www.tabletopgamingnews.com/bloomchasers-a-new-3d-strategy-board-game-blossoms-on-kickstarter)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-11T21:10:56+00:00
+
+<a href="https://www.tabletopgamingnews.com/bloomchasers-a-new-3d-strategy-board-game-blossoms-on-kickstarter/" rel="nofollow" title="Bloomchasers: A New 3D Strategy Board Game Blossoms on Kickstarter"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="576" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-23-09-33-Bloomchasers-Delightful-3D-Tree-Game-of-Flowers-and-Wits.png" style="display: block; margin: auto; margin-bottom: 5px;" width="599" /></a>The Kickstarter campaign for Bloomchasers, a light strategy board game, has significantly exceeded its initial funding target. With a goal of $10,000, the campaign has already raised $43,859 thanks to the support of 945 backers, with 29 days remaining until its conclusion on May 11. Designed by Evan and Josh, who have previously launched successful &#8230;
+
+## “Against the Faerie Queene” Campaign Now Available for Pre-order from Modiphius Entertainment
+ - [https://www.tabletopgamingnews.com/against-the-faerie-queene-campaign-now-available-for-pre-order-from-modiphius-entertainment](https://www.tabletopgamingnews.com/against-the-faerie-queene-campaign-now-available-for-pre-order-from-modiphius-entertainment)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-11T20:50:18+00:00
+
+<a href="https://www.tabletopgamingnews.com/against-the-faerie-queene-campaign-now-available-for-pre-order-from-modiphius-entertainment/" rel="nofollow" title="&#8220;Against the Faerie Queene&#8221; Campaign Now Available for Pre-order from Modiphius Entertainment"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2250" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/1-atfq-bundle-card.png" style="display: block; margin: auto; margin-bottom: 5px;" width="4000" /></a>Modiphius Entertainment has announced the availability for pre-order of the new campaign book, Against the Faerie Queene. This 370-page campaign book is an epic adventure rooted in Welsh Celtic mythology and is set to ship in early June. Set in the mythical clanlands of Avallen, Against the Faerie Queene invites players to explore a realm &#8230;
+
+## Wyrmwood’s Modular Gaming Table Hits Major Kickstarter Success, Offering Customization and Quality
+ - [https://www.tabletopgamingnews.com/wyrmwoods-modular-gaming-table-hits-major-kickstarter-success-offering-customization-and-quality](https://www.tabletopgamingnews.com/wyrmwoods-modular-gaming-table-hits-major-kickstarter-success-offering-customization-and-quality)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-11T20:41:21+00:00
+
+<a href="https://www.tabletopgamingnews.com/wyrmwoods-modular-gaming-table-hits-major-kickstarter-success-offering-customization-and-quality/" rel="nofollow" title="Wyrmwood&#8217;s Modular Gaming Table Hits Major Kickstarter Success, Offering Customization and Quality"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/modular-gaming-table-featured.jpg" style="display: block; margin: auto; margin-bottom: 5px;" width="1200" /></a>Wyrmwood Gaming&#8217;s Modular Table has successfully returned to Kickstarter, rapidly surpassing its initial funding goal. With a current pledge amount of $472,976 against a target of $10,000 and 28 days remaining, the campaign is proving to be highly popular. Launched in 2020, the Modular Table by Wyrmwood is marketed as a versatile, high-quality gaming table &#8230;
+
+## Cryptozoic Entertainment Opens Preorders for DC Deck-Building Game: Crisis Collection 2
+ - [https://www.tabletopgamingnews.com/cryptozoic-entertainment-opens-preorders-for-dc-deck-building-game-crisis-collection-2](https://www.tabletopgamingnews.com/cryptozoic-entertainment-opens-preorders-for-dc-deck-building-game-crisis-collection-2)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-11T20:33:15+00:00
+
+<a href="https://www.tabletopgamingnews.com/cryptozoic-entertainment-opens-preorders-for-dc-deck-building-game-crisis-collection-2/" rel="nofollow" title="Cryptozoic Entertainment Opens Preorders for DC Deck-Building Game: Crisis Collection 2"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="700" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/01_DC-DBG-Crisis-Collection-2_PRODUCT-PHOTOS_Box_700x700.webp" style="display: block; margin: auto; margin-bottom: 5px;" width="700" /></a>Cryptozoic Entertainment has announced the opening of preorders for &#8220;DC Deck-Building Game: Crisis Collection 2.&#8221; This expansion combines the third and fourth Crisis expansion packs, enhancing the DC Deck-Building Game with cooperative gameplay elements and introducing a range of new cards. The expansion is priced at $39.99 and is scheduled for release in August 2024. &#8230;
+

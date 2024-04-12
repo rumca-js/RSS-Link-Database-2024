@@ -1,0 +1,128 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## States converge on mDLs, share positive early returns and security tips
+ - [https://www.biometricupdate.com/202404/states-converge-on-mdls-share-positive-early-returns-and-security-tips](https://www.biometricupdate.com/202404/states-converge-on-mdls-share-positive-early-returns-and-security-tips)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-11T20:12:08+00:00
+
+<img alt="mDL mobile drivers license" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="514" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06115457/mDL-mobile-drivers-license.png" width="1024" />
+		Many U.S. states are launching and expanding mobile driver’s licenses (mDLs) to eventually be equivalent to their physical counterparts. Eventually, these digital ID credentials are likely to be stored in and shared via digital wallets, <a href="https://www.biometricupdate.com/companies/intellicheck">Intellicheck</a> CEO Bryan Lewis tells <a href="https://www.pymnts.com/identity/2024/states-embrace-mobile-drivers-licenses-to-fight-fraud-amid-privacy-scrutiny/" rel="noopener" target="_blank">PYMNTS</a>.
+
+“Eventually digital wallets will be how we all do everything,” Lewis says. What America needs now to unite its fragmented digital ID landscape, he argues, is a storage format for mDLs that is secure against hacking.
+
+The fragmentation of the 
+
+## US states converge on mDLs, share positive early returns and security tips
+ - [https://www.biometricupdate.com/202404/us-states-converge-on-mdls-share-positive-early-returns-and-security-tips](https://www.biometricupdate.com/202404/us-states-converge-on-mdls-share-positive-early-returns-and-security-tips)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-11T20:12:08+00:00
+
+<img alt="mDL mobile drivers license" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="514" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06115457/mDL-mobile-drivers-license.png" width="1024" />
+		Many U.S. states are launching and expanding mobile driver’s licenses (mDLs) to eventually be equivalent to their physical counterparts. Eventually, these digital ID credentials are likely to be stored in and shared via digital wallets, <a href="https://www.biometricupdate.com/companies/intellicheck">Intellicheck</a> CEO Bryan Lewis tells <a href="https://www.pymnts.com/identity/2024/states-embrace-mobile-drivers-licenses-to-fight-fraud-amid-privacy-scrutiny/" rel="noopener" target="_blank">PYMNTS</a>.
+
+“Eventually digital wallets will be how we all do everything,” Lewis says. What America needs now to unite its fragmented digital ID landscape, he argues, is a storage format for mDLs that is secure against hacking.
+
+The fragmentation of the 
+
+## EU data protection bodies bring the gavel down on biometric privacy violations
+ - [https://www.biometricupdate.com/202404/eu-data-protection-bodies-bring-the-gavel-down-on-biometric-privacy-violations](https://www.biometricupdate.com/202404/eu-data-protection-bodies-bring-the-gavel-down-on-biometric-privacy-violations)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-11T19:33:10+00:00
+
+<img alt="data protection" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="618" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/06131808/data-protection.jpg" width="926" />
+		Fines and warnings are flying in the EU, as national data privacy watchdogs dole out disciplinary action for violations of European data protection law through their use of biometrics.
+<h2><b>Italian privacy authority gives Worldcoin the evil eye over iris biometrics</b></h2>
+Italy’s data protection agency, Garante per la protezione dei dati personali, has sent <a href="https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9998877" rel="noopener" target="_blank">a warning</a> to <a href="https://www.biometricupdate.com/companies/worldcoin">Worldcoin</a>, saying that the biometric identity firm’s iris scanning operations, in theory, “would in all likelihood violate EU regulation (GDPR), with all the sanctioning consequences provided for by the
+
+## 3 biometric access control partnerships expand market reach, deployment options
+ - [https://www.biometricupdate.com/202404/3-biometric-access-control-partnerships-expand-market-reach-deployment-options](https://www.biometricupdate.com/202404/3-biometric-access-control-partnerships-expand-market-reach-deployment-options)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-11T18:07:01+00:00
+
+<img alt="contactless biometric access control" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="435" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18144038/contactless-biometric-access-control.jpg" width="999" />
+		<a href="https://www.biometricupdate.com/companies/fingerprint-cards-ab">Fingerprint Cards</a> has implemented biometric cards from <a href="https://www.biometricupdate.com/companies/freevolt">Freevolt Technologies</a> for physical access control at its headquarters in Gothenburg, Sweden.
+
+The S-Keys supplied by Freevolt are built with Fingerprint Cards’ T2 biometric sensors. Implementing them across the site strengthens its security and allows the company to utilize role-based access control, while being convenient and easy-to-use for employees, according to the company announcement.
+
+Freevolt began building S-Keys with T2 sensors through a partnership formed last October.
+
+“Fingerprints are leaders in biometrics, with se
+
+## IdRamp partners with Clear for reusable biometric identity and authentication
+ - [https://www.biometricupdate.com/202404/idramp-partners-with-clear-for-reusable-biometric-identity-and-authentication](https://www.biometricupdate.com/202404/idramp-partners-with-clear-for-reusable-biometric-identity-and-authentication)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-11T17:51:11+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1080" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/24203910/selfie-id-verification-scaled.jpg" width="2048" />
+		Decentralized digital <a href="https://www.biometricupdate.com/202212/identity-orchestration-how-to-drive-digital-transformation-modernize-security-and-innovate">identity orchestration</a> provider <a href="https://www.biometricupdate.com/companies/idramp">IdRamp</a> has partnered with <a href="https://www.biometricupdate.com/companies/clear">Clear</a> to offer Sign In With Clear, a biometric reusable identity authentication service with a variety of use cases, according to an announcement.
+
+The service can be deployed without code and integrated with existing services. The user experience minimizes friction while assuring a person is who they say they are, according to the announcement.
+
+The offering can perform phone verification, document verification to assur
+
+## Kenya’s ICT Minister outlines new digital ID, AI regulation plans
+ - [https://www.biometricupdate.com/202404/kenyas-ict-minister-outlines-new-digital-id-ai-regulation-plans](https://www.biometricupdate.com/202404/kenyas-ict-minister-outlines-new-digital-id-ai-regulation-plans)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-11T17:24:34+00:00
+
+<img alt="digital ID Kenya" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="799" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/30164554/digital-ID-Kenya.jpg" width="1200" />
+		Eliud Owalo, Kenya’s Cabinet Secretary for Information and Communication Technology, says his ministry is fronting efforts for a legislation to regulate the deployment of generative AI technologies in the country. He also reiterated the country’s ongoing plans to introduce a digital ID which will facilitate access to services by citizens.
+
+Owalo was speaking as he addressed a Senate Committee on ICT early this week in the port city of Mombasa, reports <a href="https://ntvkenya.co.ke/news/kenya-mulls-introducing-virtual-ids-for-citizens/" rel="noopener" target="_blank">NTV</a>.
+
+Speaking about the digital ID, Owalo said it is part of the country’s digital transformation plans and will go a long way in facilitating the way public and even private sector services 
+
+## Parental consent in focus at day 3 of Global Age Assurance Standards Summit
+ - [https://www.biometricupdate.com/202404/parental-consent-in-focus-at-day-3-of-global-age-assurance-standards-summit](https://www.biometricupdate.com/202404/parental-consent-in-focus-at-day-3-of-global-age-assurance-standards-summit)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-11T17:09:32+00:00
+
+<img alt="teen online age estimation" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/05132448/teen-phone-scaled.jpg" width="2048" />
+		Day three of the <a href="https://www.biometricupdate.com/202403/global-age-assurance-standards-summit">Global Age Assurance Standards Summit</a> hosted speakers presenting on how to use decentralized digital identity for parental consent, how the biometrics industry is responding to regulatory demands, the open identity exchange approach, and other key topics for the age assurance and age verification industry.
+<h2><strong>AgeAware app to be the centerpiece of euCONSENT 2.0</strong></h2>
+In a presentation on <a href="https://www.biometricupdate.com/202311/age-verification-is-rising-and-euconsent-wants-to-be-a-global-solution">euCONSENT</a>, Iain Corby, executive director of the <a href="https://www.biometricupdate.com/companies/the-age-verification
+
+## Cameroon telcos get ultimatum to ID all SIM holders in regions plagued by security crisis
+ - [https://www.biometricupdate.com/202404/cameroon-telcos-get-ultimatum-to-id-all-sim-holders-in-regions-plagued-by-security-crisis](https://www.biometricupdate.com/202404/cameroon-telcos-get-ultimatum-to-id-all-sim-holders-in-regions-plagued-by-security-crisis)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-11T17:00:32+00:00
+
+<img alt="mobile identity verification" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="931" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/05122641/mobile-identity-verification.jpg" width="1536" />
+		Mobile telecommunication operators in Cameroon have been given 60 days to thoroughly identify the holders of all SIM cards currently in use in the Far North, North West and South Regions of the country.
+
+The directive was given early this week by Territorial Administration Minister Paul Atanga Nji during a meeting with representatives of companies offering telecommunications services.
+
+These three regions of Cameroon have been floundering in security crises for years. In the Far North, Boko Haram insurgency has been wreaking havoc in many communities. In the North West and South West, armed separatists are fighting to create a break-away country. Both crises have given rise to the phenomenon of kidnappings for ransom.
+
+Speaking during th
+
+## IN Groupe races to rescue of Eurotunnel with 224 biometric kiosks ahead of EES launch
+ - [https://www.biometricupdate.com/202404/in-groupe-races-to-rescue-of-eurotunnel-with-224-biometric-kiosks-ahead-of-ees-launch](https://www.biometricupdate.com/202404/in-groupe-races-to-rescue-of-eurotunnel-with-224-biometric-kiosks-ahead-of-ees-launch)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-11T16:40:14+00:00
+
+<img alt="smart-borders-eu-biometric-entry-exit-system" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="492" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/28125611/smart-borders-eu-biometric-entry-exit-system.jpg" width="1000" />
+		Eurotunnel is installing biometric kiosks specially designed for Eurotunnel deployment by <a href="https://www.biometricupdate.com/companies/in-groupe">IN Groupe</a> at access points on either side of the English channel’s international border.
+
+The EU’s Entry/Exit System (EES) is scheduled to take effect on October 6, and both <a href="https://www.biometricupdate.com/202303/stamps-and-surveillance-macron-seeks-to-delay-ees-biometrics-until-after-olympics">French</a> and <a href="https://www.biometricupdate.com/202402/london-mayor-calls-for-solution-to-border-check-delays-for-eurostar-passengers">UK</a> authorities and transport operators have warned that border crossings will be slowed down by the new bio
+
+## Sierra Leone putting digital ID at the center of its digital transformation agenda
+ - [https://www.biometricupdate.com/202404/sierra-leone-putting-digital-id-at-the-center-of-its-digital-transformation-agenda](https://www.biometricupdate.com/202404/sierra-leone-putting-digital-id-at-the-center-of-its-digital-transformation-agenda)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-11T14:45:44+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="570" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/11134824/National-ID-Card-Sierra-Leone.png" width="886" />
+		The West African nation of Sierra Leone is at full throttle with its digital transformation efforts, and its MOSIP-based foundational identity system is the nucleus of this undertaking, according to an official with the country’s ID authority.
+
+The Deputy Director of ICT at the National Civil Registration Authority (NCRA), Moses T.F. Vibbie, in an interview with <em>Biometric Update</em> on the sideline of the <a href="https://www.biometricupdate.com/tag/mosip-connect-2024">MOSIP Connect</a> event which took place last month in Addis Ababa, explains that the strong political will of the country’s Head of State, Julius Maada Bio, and the dedication of the NCRA’s Director General, Mohamed Mubashir Massaquoi, are the other driving forces behind the initiative. Massaqu
+
+## New Zealand welcomes input on draft biometrics code
+ - [https://www.biometricupdate.com/202404/new-zealand-welcomes-input-on-draft-biometrics-code](https://www.biometricupdate.com/202404/new-zealand-welcomes-input-on-draft-biometrics-code)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-11T14:23:23+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1257" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/27132556/data-privacy-scaled.jpg" width="2048" />
+		The Office of the <a href="https://www.biometricupdate.com/202404/new-zealands-privacy-watchdog-investigating-facial-recognition-promises-tougher-regulation">Privacy Commissioner of New Zealand</a> is seeking public feedback on draft rules for the use of biometrics. A release from the office says the Commissioner has “drafted additional rules that New Zealand organizations would need to follow if they were using biometric technologies.”
+
+“We’re keen to know whether New Zealanders agree with what we’ve drafted,” says Privacy Commissioner Michael Webster. “The Privacy Act 2020 regulates the use of personal information in New Zealand (and therefore biometrics), but we think biometrics need special protections especially in specific circumstances. Biometrics are fundamental to
+
