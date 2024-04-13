@@ -1,0 +1,23 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## Top 10 funding deals in Q1 for Pacific Northwest startups
+ - [https://www.geekwire.com/2024/top-10-funding-deals-in-q1-for-seattle-area-startups](https://www.geekwire.com/2024/top-10-funding-deals-in-q1-for-seattle-area-startups)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-04-12T14:00:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="796" src="https://cdn.geekwire.com/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-12.53.10%E2%80%AFPM.png" width="1162" /><br />Startup fundraising activity didn&#8217;t budge much in the first quarter of 2024 across the U.S. as the venture capital slowdown continued into the new year. Quarterly deal value hit the lowest level since 2018, according to the PitchBook-NVCA Venture Monitor released Thursday. Higher interest rates and persistent inflation, among other market factors, caused venture capitalists to put the brakes on investing throughout 2023, following record levels of startup fundraising in years prior. &#8220;The venture capital business cycle effectively reset in recent years, and as of early 2024, it still appears to be searching for its level,&#8221; NVCA CEO Bobby Franklin&#8230; <a href="https://www.geekwire.com/2024/top-10-funding-deals-in-q1-for-seattle-area-startups/">Read More</a>
+
+## Bill Gates really digs his visit to a hydrogen startup, filling a pothole with carbon-trapping asphalt
+ - [https://www.geekwire.com/2024/bill-gates-really-digs-his-visit-to-a-hydrogen-startup-filling-a-pothole-with-carbon-trapping-asphalt](https://www.geekwire.com/2024/bill-gates-really-digs-his-visit-to-a-hydrogen-startup-filling-a-pothole-with-carbon-trapping-asphalt)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-04-12T03:16:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://cdn.geekwire.com/wp-content/uploads/2024/04/Bill-Gates-fills-a-pothole-with-Modern-Hydrogen.jpg" width="800" /><br />Bill Gates grabbed a wheelbarrow and shovel on Wednesday to fill a parking lot pothole with a new carbon trapping asphalt. Gates was visiting Modern Hydrogen, a Seattle-area climate tech startup that has developed a device for cracking natural gas molecules, producing hydrogen for fuel and a product known as carbon black that has a variety of industrial applications &#8212; including as a key ingredient in asphalt. “Bill was great,&#8221; said Tony Pan, Modern Hydrogen&#8217;s CEO, of the Microsoft co-founder&#8217;s visit. &#8220;He was super engaged, hands-on.” Gates had the chance to check out a demo version of the company&#8217;s methane&#8230; <a href="https://www.geekwire.com/2024/bill-gates-really-digs-his-visit-to-a-hydrogen-startup-filling-a-pothole-with-carbon-trapping-asphalt/"
+
+## Kuiper satellite network gets a big lift from Amazon’s CEO, but timeline is a bit hazy
+ - [https://www.geekwire.com/2024/kuiper-satellite-network-amazon-ceo](https://www.geekwire.com/2024/kuiper-satellite-network-amazon-ceo)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-04-12T00:39:05+00:00
+
+<img alt="Vulcan Centaur launch of Amazon Kuiper satellites in October 2023" class="webfeedsFeaturedVisual wp-post-image" height="874" src="https://cdn.geekwire.com/wp-content/uploads/2024/04/240411-kuiper1-1260x874.jpg" width="1260" /><br />In his annual letter to shareholders, Amazon CEO Andy Jassy says the company&#8217;s Project Kuiper satellite venture will be &#8220;a very large revenue opportunity&#8221; in the future &#8212; but he&#8217;s hedging his bets as to exactly when that future will be. Eventually, Project Kuiper aims to provide satellite broadband service to hundreds of millions of people around the world who are currently underserved when it comes to connectivity. Such a service would compete with SpaceX&#8217;s Starlink satellite network, which already has more than 2.6 million customers. Amazon is investing more than $10 billion to get Kuiper off the ground. The&#8230; <a href="https://www.geekwire.com/2024/kuiper-satellite-network-amazon-ceo/">Read More</a>
+

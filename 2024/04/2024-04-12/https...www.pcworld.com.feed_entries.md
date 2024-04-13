@@ -1,0 +1,210 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## SanDisk’s shows off the world’s first stupendously large 4TB SD card
+ - [https://www.pcworld.com/article/2303280/sandisk-surfaces-a-stupendous-4tb-sd-card.html](https://www.pcworld.com/article/2303280/sandisk-surfaces-a-stupendous-4tb-sd-card.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T20:57:48+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Western Digital has announced the world&rsquo;s first-ever 4-terabyte SD card, a new capacity point that the company will begin shipping in 2025.</p>
+
+
+
+<p>WD is showing off the 4TB SanDisk Extreme PRO SDUC UHS-I memory card this week (with a bit more capacity than the image at the top of this story) at the National Association of Broadcasters (NAB) show, which caters to broadcasters and content creators. </p>
+
+
+
+<p>WD isn&rsquo;t saying that the new 4TB card will cost. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.anandtech.com/show/21349/western-digital-rollsout-4-tb-sd-card-worlds-highestcapacity&amp;xcust=2-1-2303280-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Anandtech, which noticed</a> the announcement, said that the card uses the UHS-I bus at Speed Class 10. WD&rsquo;s SD card is also rated to meet Video Spee
+
+## What’s going on with the chiplet market?
+ - [https://www.pcworld.com/article/2303075/whats-going-on-with-the-chiplet-market.html](https://www.pcworld.com/article/2303075/whats-going-on-with-the-chiplet-market.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T17:04:34+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Chiplets are a complicated new wrinkle to the CPU market, and they&rsquo;re hard for us normies to wrap our heads around. So who better to explain chip tech than a potato expert? Frequent PCWorld guest Dr. Ian Cutress, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/@TechTechPotato&amp;xcust=2-1-2303075-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">also known as TechTechPotato</a>, joins Will Smith on the PCWorld YouTube channel to break it down for us. </p>
+
+
+
+<p>The first misconception to dispel is that chiplets are a new idea. In fact they&rsquo;ve been around for decades &mdash; IBM was making them as far back as the &rsquo;80s, albeit in six-figure hardware for industrial customers. The basic idea is that you can separate functions of a processor into different individual chips for better performance. &l
+
+## We love HP’s ultraportable Dragonfly Pro laptop, and now it’s $600 off
+ - [https://www.pcworld.com/article/2303026/get-an-ultraportable-hp-dragonfly-laptop-for-just-799.html](https://www.pcworld.com/article/2303026/get-an-ultraportable-hp-dragonfly-laptop-for-just-799.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T15:02:44+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Ultraportable laptops generally command a premium price. And HP&rsquo;s 14-inch Dragonfly Pro certainly fits in that category, usually starting at a hefty $1399 for the version <a href="https://www.pcworld.com/article/1661500/hp-dragonfly-pro-review.html">we reviewed last year</a>. But today B&amp;H Photo is chopping $600 off that price, bringing it down to <a href="https://www.bhphotovideo.com/c/product/1820574-REG/hp_889t2aa_aba_14_dragonfly_pro_one.html?BI=21883&amp;KBID=28249" rel="nofollow">a much more palatable $799</a>. </p>
+
+
+
+<p>The Dragonfly Pro is HP&rsquo;s premiere consumer laptop design, boasting a sleek .72-inch-thin body made of aluminum and magnesium with a bright 14-inch IPS touchscreen standard. But it&rsquo;s also a surprisingly practical machine. While it&rsquo;s a bit heavier than other laptops in this category at 2.42 pounds, it&rsquo;s pac
+
+## Razer Blackshark V2 Hyperspeed review: A headset with a very good mic
+ - [https://www.pcworld.com/article/2291366/razer-blackshark-v2-hyperspeed-review.html](https://www.pcworld.com/article/2291366/razer-blackshark-v2-hyperspeed-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Ultra-light and comfortable</li><li>Excellent microphone quality</li><li>Long-lasting battery life and fast charging option</li><li>Versatile connectivity options</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Sound tuning favors esports</li><li>Material quality could be better</li><li>Non-detachable microphone</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Razer Blackshark V2 Hyperspeed p
+
+## Google One VPN is the Google Graveyard’s newest victim
+ - [https://www.pcworld.com/article/2302973/google-one-vpn-is-google-graveyards-newest-victim.html](https://www.pcworld.com/article/2302973/google-one-vpn-is-google-graveyards-newest-victim.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T14:13:36+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Days after I said a tearful goodbye to Google&rsquo;s pretty-darn-good Podcasts app (yet another service that Google fed to YouTube as if it was a ravenous monster that needed to be sated), they&rsquo;re at it again. This time it&rsquo;s <a href="https://www.pcworld.com/article/1534539/google-one-adds-vpn-service-to-its-1-99-basic-tier.html">the Google One VPN</a>, a perk that&rsquo;s added on when you buy Google One storage to augment the company&rsquo;s cloud services. </p>
+
+
+
+<p>So sayeth an email that arrived in my inbox last night, informing me that Google One will be &ldquo;phasing out two benefits.&rdquo; The service is no longer offering free shipping for photo prints &mdash; which admittedly I never even thought about using &mdash; and the One VPN that comes with my $1.99 a month 200GB storage plan. Google says it&rsquo;ll be gone sometime later this yea
+
+## This $100 Samsung display is perfect for a low-cost multi-monitor setup
+ - [https://www.pcworld.com/article/2302328/pick.html](https://www.pcworld.com/article/2302328/pick.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T13:48:30+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re currently shopping for an everyday monitor, you&rsquo;re probably facing a deluge of choices. Feeling overwhelmed? Don&rsquo;t sweat it&ndash;we did the hard work for you. The Samsung T350 is an ideal low-cost monitor for daily tasks or gaming and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/SAMSUNG-22-inch-Border-Less-FreeSync-LF22T350FHNXZA/dp/B08FNW672V&amp;xcust=2-1-2302328-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">it&rsquo;s on sale for just $99.99 at Amazon</a> right now. </p>
+
+
+
+<p>This particular model is nearly borderless, which means you&rsquo;re getting a good amount of screen. It also measures 22-inches&ndash;a good size if you plan on doubling up for a dual screen setup, something that&rsquo;s certainly achievable at this rock-bottom price. That&rsquo;s the size of my own mo
+
+## Are free VPNs any good?
+ - [https://www.pcworld.com/article/2290587/are-free-vpns-any-good.html](https://www.pcworld.com/article/2290587/are-free-vpns-any-good.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Virtual private networks, or VPNs, are proving to be more and more consequential in the wide open world of the internet, where privacy is now so precious. While <a href="https://www.pcworld.com/article/406870/best-vpn-services-apps-reviews-buying-advice.html">premium VPN services provide reliable protection</a>, what about free VPNs?</p>
+
+
+
+<p>A free VPN can be an attractive option for people seeking a no-cost solution to their anonymity and security concerns. But beyond the appeal of not having to pay for the service, free VPNs can come with serious drawbacks or even hazardous data collection practices.</p>
+
+
+
+<p>To help you make the right decision with your VPN and keep you safe and secure online, I&rsquo;ll cover what you can expect to get with a free VPN, the pros and cons of free vs. paid, and what free options are worth considering.</p>
+
+
+
+<blockquote class
+
+## This top-rated PDF tool is just $31.99 for life now
+ - [https://www.pcworld.com/article/2302378/this-top-rated-pdf-tool-is-just-31-99-for-life-now.html](https://www.pcworld.com/article/2302378/this-top-rated-pdf-tool-is-just-31-99-for-life-now.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T11:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>PDFs are useful for circulating information, but if you ever have to edit or pull information from them, they can be come a real pain. That&rsquo;s why a tool like <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/pdf-reader-pro-premium-license-for-windows?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=pdf-reader-pro-premium-license-for-windows&amp;utm_term=scsf-594288&amp;utm_content=a0xRn000000n7oLIAQ&amp;scsonar=1&amp;xcust=2-1-2302378-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">PDF Reader Pro for Windows</a> is so practical. Trusted by more than 60 million people worldwide, PDF Reader Pro makes working with PDFs easier and it&rsquo;s now an extra 20% off when you use promo code ENJOY20.</p>
+
+
+
+<p>PDF Reader Pro is an all-in-one PDF office, allowing you to edit, conv
+
+## 6 gaming laptop features that matter most in 2024
+ - [https://www.pcworld.com/article/2286723/the-6-gaming-laptop-features-that-matter-most-in-2024.html](https://www.pcworld.com/article/2286723/the-6-gaming-laptop-features-that-matter-most-in-2024.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Gaming laptops have gotten really, really good. It doesn&rsquo;t take much looking to find models that promise high-performance parts, thin-and-light design, or sometimes both. It&rsquo;s not too surprising to see gaming laptops coming at pretty surprising prices. But knowing what you&rsquo;re actually going to get before you hit that buy button, and making sure you have your priorities sorted before you even start shopping can save you from a whole lot of fuss.&nbsp;</p>
+
+
+
+<p>Here, I&rsquo;m going to break down some of the key features you should be paying attention to when you&rsquo;re shopping for a new gaming laptop in 2024. The market has changed a lot, and making the right calls can make a big difference between getting a laptop that&rsquo;s still kicking years from now and winding up with one that won&rsquo;t even meet your demands today.</p>
+
+
+
+<blockquo
+
+## Multiboot vs. virtual PC vs. live DVD: Which is best for multiple OSes?
+ - [https://www.pcworld.com/article/2284395/multiboot-vs-virtual-pc-vs-live-dvd-which-is-better.html](https://www.pcworld.com/article/2284395/multiboot-vs-virtual-pc-vs-live-dvd-which-is-better.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Do you normally use Windows 11 and just want to have a quick look at a Linux distribution such as Linux Mint or start the computer with a rescue system to remove a malware infection, for example? Then booting the system with a <strong>live DVD or from a USB stick</strong> is a good option.</p>
+
+
+
+<p>The advantage: You don&rsquo;t have to install anything and no changes are made to the Windows configuration &mdash; the live system therefore leaves no traces: If you remove the DVD or USB stick, your PC will boot the permanently installed operating system, such as Windows 10 or 11, after the restart.</p>
+
+
+
+<p>If, on the other hand, you want to try out Linux Mint (or another operating system) properly and also install applications, then a <strong>virtual compute</strong>r may be the better choice as a first step. </p>
+
+
+
+		<div class="wp-block-product-widget-block p
+
+## Learn Python for software engineering for just $20
+ - [https://www.pcworld.com/article/2302383/learn-python-for-software-engineering-for-just-20.html](https://www.pcworld.com/article/2302383/learn-python-for-software-engineering-for-just-20.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Python is the world&rsquo;s most popular programming language because it&rsquo;s powerful, general purpose, and relatively easy to learn. So, if you&rsquo;re interested in a coding career, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/the-2024-python-for-software-engineering-bootcamp-certification-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-2024-python-for-software-engineering-bootcamp-certification-bundle&amp;utm_term=scsf-594286&amp;utm_content=a0xRn000000n78PIAQ&amp;scsonar=1&amp;xcust=2-1-2302383-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">The 2024 Python for Software Engineering Bootcamp Certification Bundle</a> will help you carve out a niche in the world of software engineering. Right now, you can get it for just $19.99 with promo code ENJOY20.<
+
+## Save more than $200 on Microsoft’s leading project management software
+ - [https://www.pcworld.com/article/2302357/save-more-than-200-on-microsofts-leading-project-management-software.html](https://www.pcworld.com/article/2302357/save-more-than-200-on-microsofts-leading-project-management-software.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-12T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Project managers know how challenging it can be to get complex projects done on time and under budget. There&rsquo;s no shortage of project management software on the market to help, but you won&rsquo;t find much more bang for your buck than with this deal on <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/microsoft-project-2021-professional-pc?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-project-2021-professional-pc&amp;utm_term=scsf-594847&amp;utm_content=a0xRn000000tHkzIAE&amp;scsonar=1&amp;xcust=2-1-2302357-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Microsoft Project Professional 2021 for Windows</a>. This week only, you can get it for just $23.99 with promo code ENJOY20.</p>
+
+
+
+<p>Microsoft Project Professional is Microsoft&rsquo;s leading project ma
+

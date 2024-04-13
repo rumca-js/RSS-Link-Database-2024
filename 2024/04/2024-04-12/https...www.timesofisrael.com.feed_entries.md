@@ -1,0 +1,236 @@
+# Source:The Times of Israel, URL:https://www.timesofisrael.com/feed, language:en-US
+
+## Germany arrests 4 teens suspected of planning Islamist terror attacks
+ - [https://www.timesofisrael.com/germany-arrests-4-teens-suspected-of-planning-islamist-terror-attacks](https://www.timesofisrael.com/germany-arrests-4-teens-suspected-of-planning-islamist-terror-attacks)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T21:43:36+00:00
+
+<p>Teens' plans allegedly include Molotov cocktail and knife attacks against synagogues and churches in the name of the Islamic State</p>
+<p>The post <a href="https://www.timesofisrael.com/germany-arrests-4-teens-suspected-of-planning-islamist-terror-attacks/">Germany arrests 4 teens suspected of planning Islamist terror attacks</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/AP23179751386754-1024x640.jpg" title="Germany arrests 4 teens suspected of planning Islamist terror attacks" width="160" /></figure>
+
+## New clip shows terrified Israeli hostage Noa Argamani being abducted into Gaza
+ - [https://www.timesofisrael.com/new-clip-shows-terrified-israeli-hostage-noa-argamani-being-abducted-into-gaza](https://www.timesofisrael.com/new-clip-shows-terrified-israeli-hostage-noa-argamani-being-abducted-into-gaza)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T20:27:16+00:00
+
+<p>Footage surfaces months after kidnapping of 26-year-old by Hamas terrorists was one of the first videos from Oct. 7 massacres to be published</p>
+<p>The post <a href="https://www.timesofisrael.com/new-clip-shows-terrified-israeli-hostage-noa-argamani-being-abducted-into-gaza/">New clip shows terrified Israeli hostage Noa Argamani being abducted into Gaza</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/Screenshot-2024-04-12-at-10.17.01-AM-1024x640.jpg" title="New clip shows terrified Israeli hostage Noa Argamani being abducted into Gaza" width="160" /></figure>
+
+## Hezbollah launches explosive-laden drones, dozens of rockets at northern Israel
+ - [https://www.timesofisrael.com/hezbollah-launches-explosive-laden-drones-dozens-of-rockets-at-northern-israel](https://www.timesofisrael.com/hezbollah-launches-explosive-laden-drones-dozens-of-rockets-at-northern-israel)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T20:11:15+00:00
+
+<p>IDF says air defenses intercepted 2 UAVs and some of the projectiles fired by the Iran-backed Lebanese terror group; no injuries reported</p>
+<p>The post <a href="https://www.timesofisrael.com/hezbollah-launches-explosive-laden-drones-dozens-of-rockets-at-northern-israel/">Hezbollah launches explosive-laden drones, dozens of rockets at northern Israel</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/E48699FB-13F5-4A5D-9CBE-C6FB8B18CB84_1_201_a-e1712950718912-1024x640.jpeg" title="Hezbollah launches explosive-laden drones, dozens of rockets at northern Israel" width="160" /></figure>
+
+## Stressed out by war, Israelis appear to be smoking more than they have in years
+ - [https://www.timesofisrael.com/stressed-out-by-war-israelis-appear-to-be-smoking-more-than-they-have-in-years](https://www.timesofisrael.com/stressed-out-by-war-israelis-appear-to-be-smoking-more-than-they-have-in-years)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T18:10:35+00:00
+
+<p>Soldiers, hostages' families and others seem to be lighting up at increasing levels, reversing years of falling rates, but health experts aren't pushing them to kick the habit yet</p>
+<p>The post <a href="https://www.timesofisrael.com/stressed-out-by-war-israelis-appear-to-be-smoking-more-than-they-have-in-years/">Stressed out by war, Israelis appear to be smoking more than they have in years</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/F231103AVS101-1024x640.jpg" title="Stressed out by war, Israelis appear to be smoking more than they have in years" width="160" /></figure>
+
+## Report warns Iran could launch major drone and missile attack within hours
+ - [https://www.timesofisrael.com/report-warns-iran-could-launch-major-drone-and-missile-attack-as-soon-as-friday](https://www.timesofisrael.com/report-warns-iran-could-launch-major-drone-and-missile-attack-as-soon-as-friday)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T17:47:05+00:00
+
+<p>US general meets with Israeli defense brass to discuss expected Iranian retaliation for alleged Israeli strike on IRGC members; Halevi says IDF 'ready for any scenario'</p>
+<p>The post <a href="https://www.timesofisrael.com/report-warns-iran-could-launch-major-drone-and-missile-attack-as-soon-as-friday/">Report warns Iran could launch major drone and missile attack within hours</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/WhatsApp-Image-2024-04-12-at-16.57.46-1024x640.jpeg" title="Report warns Iran could launch major drone and missile attack within hours" width="160" /></figure>
+
+## Israeli goes missing while shepherding in West Bank; bloody clashes erupt amid search
+ - [https://www.timesofisrael.com/israeli-goes-missing-while-shepherding-in-west-bank-bloody-clashes-erupt-amid-search](https://www.timesofisrael.com/israeli-goes-missing-while-shepherding-in-west-bank-bloody-clashes-erupt-amid-search)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T15:36:27+00:00
+
+<p>IDF says still probing circumstances of 14-year-old Benjamin Achimeir's disappearance; at least one Palestinian said killed in al-Mughayyir as settlers, troops clash with locals</p>
+<p>The post <a href="https://www.timesofisrael.com/israeli-goes-missing-while-shepherding-in-west-bank-bloody-clashes-erupt-amid-search/">Israeli goes missing while shepherding in West Bank; bloody clashes erupt amid search</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/0bd59481-546f-437b-a34d-72aff48bd338_720-1024x640.jpg" title="Israeli goes missing while shepherding in West Bank; bloody clashes erupt amid search" width="160" /></figure>
+
+## IDF announces first aid convoy entered northern Gaza through new land crossing
+ - [https://www.timesofisrael.com/idf-announces-first-aid-convoy-entered-northern-gaza-through-new-land-crossing](https://www.timesofisrael.com/idf-announces-first-aid-convoy-entered-northern-gaza-through-new-land-crossing)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T14:34:50+00:00
+
+<p>'Northern Crossing' opens after army declares 'next phase' of humanitarian operations in Strip; leaflets reportedly dropped over Rafah urging Palestinians to help find hostages</p>
+<p>The post <a href="https://www.timesofisrael.com/idf-announces-first-aid-convoy-entered-northern-gaza-through-new-land-crossing/">IDF announces first aid convoy entered northern Gaza through new land crossing</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/WhatsApp_Image_2024-04-12_at_09.04.40_1-1024x640.jpeg" title="IDF announces first aid convoy entered northern Gaza through new land crossing" width="160" /></figure>
+
+## IDF kills 2 Palestinians, including Hamas commander, in northern West Bank clashes
+ - [https://www.timesofisrael.com/idf-kills-2-palestinians-including-hamas-commander-in-northern-west-bank-clashes](https://www.timesofisrael.com/idf-kills-2-palestinians-including-hamas-commander-in-northern-west-bank-clashes)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T13:24:05+00:00
+
+<p>Army says Mohammad Omar Daraghmeh was a 'central Hamas operative' in the Tubas area, was planning 'significant terror acts' against Israel</p>
+<p>The post <a href="https://www.timesofisrael.com/idf-kills-2-palestinians-including-hamas-commander-in-northern-west-bank-clashes/">IDF kills 2 Palestinians, including Hamas commander, in northern West Bank clashes</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/AFP__20240412__34PA4P9__v2__HighRes__PalestinianIsraelConflict-1024x640.jpg" title="IDF kills 2 Palestinians, including Hamas commander, in northern West Bank clashes" width="160" /></figure>
+
+## ‘Let my people go’: Hostage families stage Passover-themed demonstration near Gaza border
+ - [https://www.timesofisrael.com/hostage-families-stage-passover-themed-demonstration-for-freedom-near-gaza-border](https://www.timesofisrael.com/hostage-families-stage-passover-themed-demonstration-for-freedom-near-gaza-border)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T12:27:15+00:00
+
+<p>Demonstrators wear burlap sacks to represent Jewish slavery before the exodus from Egypt, call on government to do more to reach a deal for hostages' release</p>
+<p>The post <a href="https://www.timesofisrael.com/hostage-families-stage-passover-themed-demonstration-for-freedom-near-gaza-border/">&#8216;Let my people go&#8217;: Hostage families stage Passover-themed demonstration near Gaza border</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/PHOTO-2024-04-12-09-34-44-1024x640.jpg" title="&#8216;Let my people go&#8217;: Hostage families stage Passover-themed demonstration near Gaza border" width="160" /></figure>
+
+## Daily Briefing April 12: Day 189 – Tension mounts over Iran, question of surviving hostages
+ - [https://www.timesofisrael.com/daily-briefing-april-12-day-189-tension-mounts-over-iran-question-of-surviving-hostages](https://www.timesofisrael.com/daily-briefing-april-12-day-189-tension-mounts-over-iran-question-of-surviving-hostages)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T12:17:57+00:00
+
+<p>Political correspondent Tal Schneider discusses Iran possibilities and numbers of surviving hostages as Arab Affairs reporter Luca Pacchiani talks about Hamas and Hezbollah in Europe</p>
+<p>The post <a href="https://www.timesofisrael.com/daily-briefing-april-12-day-189-tension-mounts-over-iran-question-of-surviving-hostages/">Daily Briefing April 12: Day 189 &#8211; Tension mounts over Iran, question of surviving hostages</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/WhatsApp-Image-2024-04-12-at-09.31.27-1024x640.jpeg" title="Daily Briefing April 12: Day 189 &#8211; Tension mounts over Iran, question of surviving hostages" width="160" /></figure>
+
+## Russia says it foiled terror plot against Moscow synagogue
+ - [https://www.timesofisrael.com/russia-says-it-foiled-terror-plot-against-moscow-synagogue](https://www.timesofisrael.com/russia-says-it-foiled-terror-plot-against-moscow-synagogue)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T11:57:42+00:00
+
+<p>Suspect, described as a 'Central Asian national,' said killed while being detained; Russian Chief Rabbi commends Federal Security Service's swift action</p>
+<p>The post <a href="https://www.timesofisrael.com/russia-says-it-foiled-terror-plot-against-moscow-synagogue/">Russia says it foiled terror plot against Moscow synagogue</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2023/06/33KT9CQ-highres-e1687634082763-1024x640.jpg" title="Russia says it foiled terror plot against Moscow synagogue" width="160" /></figure>
+
+## Negotiators say Netanyahu has ‘cold indifference’ to the fate of the hostages
+ - [https://www.timesofisrael.com/negotiators-say-netanyahu-has-cold-indifference-to-the-fate-of-the-hostages](https://www.timesofisrael.com/negotiators-say-netanyahu-has-cold-indifference-to-the-fate-of-the-hostages)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T11:40:48+00:00
+
+<p>Two people involved in talks tell Channel 12 that PM undermines negotiators, won't entertain new ideas; 'Without Netanyahu, the chances of making a deal would be better'</p>
+<p>The post <a href="https://www.timesofisrael.com/negotiators-say-netanyahu-has-cold-indifference-to-the-fate-of-the-hostages/">Negotiators say Netanyahu has &#8216;cold indifference&#8217; to the fate of the hostages</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/AFP__20240404__34NJ4WM__v1__HighRes__IsraelPalestinianConflictHostages-1024x640.jpg" title="Negotiators say Netanyahu has &#8216;cold indifference&#8217; to the fate of the hostages" width="160" /></figure>
+
+## Eden Zecharya, 28: Dog lover with an unforgettable smile
+ - [https://www.timesofisrael.com/eden-zecharya-28-dog-lover-with-an-unforgettable-smile](https://www.timesofisrael.com/eden-zecharya-28-dog-lover-with-an-unforgettable-smile)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T08:50:18+00:00
+
+<p>Murdered by Hamas at the Supernova music festival on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/eden-zecharya-28-dog-lover-with-an-unforgettable-smile/">Eden Zecharya, 28: Dog lover with an unforgettable smile</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2023/11/poster0-e1699303382903-1024x640.png" title="Eden Zecharya, 28: Dog lover with an unforgettable smile" width="160" /></figure>
+
+## US intel said to indicate Iran could strike ‘Israeli soil’ in next 24 to 48 hours
+ - [https://www.timesofisrael.com/us-intel-said-to-indicate-iran-could-strike-israeli-soil-in-next-24-to-48-hours](https://www.timesofisrael.com/us-intel-said-to-indicate-iran-could-strike-israeli-soil-in-next-24-to-48-hours)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T08:50:14+00:00
+
+<p>WSJ also quotes Iranian official as saying Khamenei yet to decide on plans, fearing Israel will intercept missiles and respond with major strike on Iran’s strategic infrastructure </p>
+<p>The post <a href="https://www.timesofisrael.com/us-intel-said-to-indicate-iran-could-strike-israeli-soil-in-next-24-to-48-hours/">US intel said to indicate Iran could strike ‘Israeli soil’ in next 24 to 48 hours</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/AFP__20240410__34P28EE__v1__HighRes__IranReligionIslamEid-1024x640.jpg" title="US intel said to indicate Iran could strike ‘Israeli soil’ in next 24 to 48 hours" width="160" /></figure>
+
+## Once a tolerant haven, Holland sees antisemitism surge as Jews across Europe scent danger
+ - [https://www.timesofisrael.com/once-a-tolerant-haven-holland-sees-antisemitism-surge-as-jews-across-europe-scent-danger](https://www.timesofisrael.com/once-a-tolerant-haven-holland-sees-antisemitism-surge-as-jews-across-europe-scent-danger)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T08:15:36+00:00
+
+<p>A record number of hate crimes reflects a post-Oct. 7 reality that's making the continent's Jews question their futures, but they no longer see Israel as their 'insurance policy'</p>
+<p>The post <a href="https://www.timesofisrael.com/once-a-tolerant-haven-holland-sees-antisemitism-surge-as-jews-across-europe-scent-danger/">Once a tolerant haven, Holland sees antisemitism surge as Jews across Europe scent danger</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/03/AP24070495508730-1024x640.jpg" title="Once a tolerant haven, Holland sees antisemitism surge as Jews across Europe scent danger" width="160" /></figure>
+
+## Ultra-Orthodox minister breaks ranks, says some Haredi youth must be drafted
+ - [https://www.timesofisrael.com/ultra-orthodox-minister-breaks-ranks-says-some-haredi-youth-must-be-drafted](https://www.timesofisrael.com/ultra-orthodox-minister-breaks-ranks-says-some-haredi-youth-must-be-drafted)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T07:22:42+00:00
+
+<p>Shas distances itself from Interior Minister Moshe Arbel's call, says only rabbis of the Council of Torah Sages can decide policy on the thorny issue</p>
+<p>The post <a href="https://www.timesofisrael.com/ultra-orthodox-minister-breaks-ranks-says-some-haredi-youth-must-be-drafted/">Ultra-Orthodox minister breaks ranks, says some Haredi youth must be drafted</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/AFP__20240411__34P79ZE__v1__HighRes__IsraelPalestinianConflictMilitaryJudaism-1024x640.jpg" title="Ultra-Orthodox minister breaks ranks, says some Haredi youth must be drafted" width="160" /></figure>
+
+## Suspected Israeli mobster pleads not guilty to firearms offenses in Malaysia
+ - [https://www.timesofisrael.com/suspected-israeli-mobster-pleads-not-guilty-to-firearms-offenses-in-malaysia](https://www.timesofisrael.com/suspected-israeli-mobster-pleads-not-guilty-to-firearms-offenses-in-malaysia)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T06:10:54+00:00
+
+<p>Shalom Avitan could face up to 40 years in prison and at least six strokes of the cane; officials believe he came to hunt down another Israeli over a family dispute</p>
+<p>The post <a href="https://www.timesofisrael.com/suspected-israeli-mobster-pleads-not-guilty-to-firearms-offenses-in-malaysia/">Suspected Israeli mobster pleads not guilty to firearms offenses in Malaysia</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/AFP__20240412__34PA2DE__v1__HighRes__MalaysiaIsraelPoliticsCourtSecurityCrime-1024x640.jpg" title="Suspected Israeli mobster pleads not guilty to firearms offenses in Malaysia" width="160" /></figure>
+
+## What Matters Now to David Horovitz: The conflicts of war coverage
+ - [https://www.timesofisrael.com/what-matters-now-to-david-horovitz-the-conflicts-of-war-coverage](https://www.timesofisrael.com/what-matters-now-to-david-horovitz-the-conflicts-of-war-coverage)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T06:01:18+00:00
+
+<p>Six months on, The Times of Israel's founding editor weighs in on the challenges confronting the Jerusalem-based news site bent on providing factual, fair and fast coverage</p>
+<p>The post <a href="https://www.timesofisrael.com/what-matters-now-to-david-horovitz-the-conflicts-of-war-coverage/">What Matters Now to David Horovitz: The conflicts of war coverage</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2022/02/David-Horovitz-16x10-1-1024x640.jpg" title="What Matters Now to David Horovitz: The conflicts of war coverage" width="160" /></figure>
+
+## Thirteen men plead not guilty for melee over illegal Brooklyn Chabad tunnel
+ - [https://www.timesofisrael.com/thirteen-men-plead-not-guilty-for-melee-over-illegal-brooklyn-chabad-tunnel](https://www.timesofisrael.com/thirteen-men-plead-not-guilty-for-melee-over-illegal-brooklyn-chabad-tunnel)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T05:34:39+00:00
+
+<p>Fight broke out when workers filled in tunnels under Chabad headquarters; All but one of the students involved are Israeli citizens </p>
+<p>The post <a href="https://www.timesofisrael.com/thirteen-men-plead-not-guilty-for-melee-over-illegal-brooklyn-chabad-tunnel/">Thirteen men plead not guilty for melee over illegal Brooklyn Chabad tunnel</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/01/AP24009674004280-e1704938431313-1024x640.jpg" title="Thirteen men plead not guilty for melee over illegal Brooklyn Chabad tunnel" width="160" /></figure>
+
+## Luxembourg banking on polyglot singer with Israeli roots for its Eurovision return
+ - [https://www.timesofisrael.com/luxembourg-banking-on-polyglot-singer-with-israeli-roots-for-its-eurovision-return](https://www.timesofisrael.com/luxembourg-banking-on-polyglot-singer-with-israeli-roots-for-its-eurovision-return)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T04:43:28+00:00
+
+<p>Tali Golergant is the first singer to represent the tiny nation since 1993. But with family ties to the Jewish state - including a brother who fought in Gaza - online hate is ablaze</p>
+<p>The post <a href="https://www.timesofisrael.com/luxembourg-banking-on-polyglot-singer-with-israeli-roots-for-its-eurovision-return/">Luxembourg banking on polyglot singer with Israeli roots for its Eurovision return</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/TALI-Winner-Hosts-Dani-Reuter-1024x640.jpg" title="Luxembourg banking on polyglot singer with Israeli roots for its Eurovision return" width="160" /></figure>
+
+## Argentina court blames Iran for 1990s terror attacks on Israeli embassy, AMIA center
+ - [https://www.timesofisrael.com/argentina-court-blames-iran-for-1990s-terror-attacks-on-israeli-embassy-amia-center](https://www.timesofisrael.com/argentina-court-blames-iran-for-1990s-terror-attacks-on-israeli-embassy-amia-center)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T03:37:50+00:00
+
+<p>Branding Islamic Republic a 'terrorist state,' ruling says Hezbollah carried out deadly bombings on Tehran's orders, calls 1994 bombing of Jewish center a crime against humanity</p>
+<p>The post <a href="https://www.timesofisrael.com/argentina-court-blames-iran-for-1990s-terror-attacks-on-israeli-embassy-amia-center/">Argentina court blames Iran for 1990s terror attacks on Israeli embassy, AMIA center</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2022/07/000_32ET7TN-1-1024x640.jpg" title="Argentina court blames Iran for 1990s terror attacks on Israeli embassy, AMIA center" width="160" /></figure>
+
+## ‘No consensus’ in Security Council on full UN membership for Palestinians, says chair
+ - [https://www.timesofisrael.com/no-consensus-in-security-council-on-full-un-membership-for-palestinians-says-chair](https://www.timesofisrael.com/no-consensus-in-security-council-on-full-un-membership-for-palestinians-says-chair)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T03:12:40+00:00
+
+<p>Matter now likely to be voted on by all council members, two-thirds of which back recognizing Palestinian state, according to Maltese envoy, though US wields veto</p>
+<p>The post <a href="https://www.timesofisrael.com/no-consensus-in-security-council-on-full-un-membership-for-palestinians-says-chair/">‘No consensus’ in Security Council on full UN membership for Palestinians, says chair</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/03/AP24082531193866-e1711173227682-1024x640.jpg" title="‘No consensus’ in Security Council on full UN membership for Palestinians, says chair" width="160" /></figure>
+
+## US official predicts Iran attack on Israel won’t be big enough to draw America into war
+ - [https://www.timesofisrael.com/liveblog-april-12-2024](https://www.timesofisrael.com/liveblog-april-12-2024)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T02:19:04+00:00
+
+<p>In call with Gallant, Pentagon chief stresses ‘full US support to defend’ Israel from Iranian attack * Argentina court blames Tehran for 1990s attacks on Israeli embassy, AMIA center</p>
+<p>The post <a href="https://www.timesofisrael.com/liveblog-april-12-2024/">US official predicts Iran attack on Israel won’t be big enough to draw America into war</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/AFP__20240405__34NL2W7__v3__HighRes__TopshotIranSyriaIsraelConflictFuneral-e1712888274267-1024x640.jpg" title="US official predicts Iran attack on Israel won’t be big enough to draw America into war" width="160" /></figure>
+
+## Europe turning blind eye to Hamas and Hezbollah networks in its territory — experts
+ - [https://www.timesofisrael.com/europe-turning-blind-eye-to-hamas-and-hezbollah-networks-in-its-territory-experts](https://www.timesofisrael.com/europe-turning-blind-eye-to-hamas-and-hezbollah-networks-in-its-territory-experts)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T01:48:26+00:00
+
+<p>Analysts say terror groups operate largely unchecked, running charities, lobbying public opinion and recruiting supporters -- and the legal means to stop them are scant</p>
+<p>The post <a href="https://www.timesofisrael.com/europe-turning-blind-eye-to-hamas-and-hezbollah-networks-in-its-territory-experts/">Europe turning blind eye to Hamas and Hezbollah networks in its territory &#8212; experts</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2023/10/33YH42H-highres-e1697736259780-1024x640.jpg" title="Europe turning blind eye to Hamas and Hezbollah networks in its territory &#8212; experts" width="160" /></figure>
+
+## Apple pledges to stop suggesting Palestinian flag emoji when users type ‘Jerusalem’
+ - [https://www.timesofisrael.com/apple-pledges-to-stop-suggesting-palestinian-flag-emoji-when-users-type-jerusalem](https://www.timesofisrael.com/apple-pledges-to-stop-suggesting-palestinian-flag-emoji-when-users-type-jerusalem)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T01:05:55+00:00
+
+<p>Tech titan claims 'bug' to blame for prompt, spurring accusations of anti-Israel bias; British TV presenter notes no flag emojis suggested for array of other capitals</p>
+<p>The post <a href="https://www.timesofisrael.com/apple-pledges-to-stop-suggesting-palestinian-flag-emoji-when-users-type-jerusalem/">Apple pledges to stop suggesting Palestinian flag emoji when users type &#8216;Jerusalem&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/02/F240225CG20-e1709208899657-1024x640.jpg" title="Apple pledges to stop suggesting Palestinian flag emoji when users type &#8216;Jerusalem&#8217;" width="160" /></figure>
+
+## Israel says Kerem Shalom Crossing blocked by undistributed aid waiting on Gaza side
+ - [https://www.timesofisrael.com/israel-says-kerem-shalom-crossing-blocked-by-undistributed-aid-waiting-on-gaza-side](https://www.timesofisrael.com/israel-says-kerem-shalom-crossing-blocked-by-undistributed-aid-waiting-on-gaza-side)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-04-12T00:20:27+00:00
+
+<p>As IDF declares 'next phase' of humanitarian assistance, including construction of new crossing, COGAT blames aid backup on 'slow' UN and its 'lack of logistical capabilities'</p>
+<p>The post <a href="https://www.timesofisrael.com/israel-says-kerem-shalom-crossing-blocked-by-undistributed-aid-waiting-on-gaza-side/">Israel says Kerem Shalom Crossing blocked by undistributed aid waiting on Gaza side</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/WhatsApp_Image_2024-04-11_at_19.34.32_2-1024x640.jpeg" title="Israel says Kerem Shalom Crossing blocked by undistributed aid waiting on Gaza side" width="160" /></figure>
+

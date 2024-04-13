@@ -1,0 +1,289 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## The Original Sonic TV Show On Blu-Ray Is Nearly 50% Off At Amazon
+ - [https://www.gamespot.com/articles/the-original-sonic-tv-show-on-blu-ray-is-nearly-50-off-at-amazon/1100-6522642/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-original-sonic-tv-show-on-blu-ray-is-nearly-50-off-at-amazon/1100-6522642/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T22:44:00+00:00
+
+<p dir="ltr">Decades before the live-action Sonic the Hedgehog movies brought the blue blur to the big screen, Sega's flagship platformer series was adapted to the small screen with the Adventures of Sonic the Hedgehog, a 65-episode cartoon that aired back in 1993. The series made a comeback in 2022 with the Adventures of Sonic the Hedgehog Complete TV Series Blu-ray set, and right now, fans can grab the collection for $40 <a href="https://www.amazon.com/dp/B09NMSKGF9?tag=gamespot-promos-20">at Amazon</a> (normally $60). That's a great price, but you may be able to get it for even less, as many Amazon users can <a href="https://www.amazon.com/promotion/psp/A1BAPS1ECG5FV0?tag=gamespot-promos-20">nab an extra 20% off TV shows on Blu-ray</a> right now. If you're eligible, you'll see a coupon box on the listing. The price will then drop to $32 in your cart.</p><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/B09NMSKGF9?tag=gamespot-promos-20">See at Amazon</a>
+
+## Video Game-Inspired Graphic Novels, Manga, And Books Are B2G1 Free At Amazon
+ - [https://www.gamespot.com/articles/video-game-book-amazon-buy-two-get-one-free/1100-6522607/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/video-game-book-amazon-buy-two-get-one-free/1100-6522607/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T22:31:00+00:00
+
+<p dir="ltr">Amazon's <a href="https://www.amazon.com/promotion/psp/A2B6T4FK4NAK8A?tag=gamespot-promos-20">buy two, get one free sale</a> is chock-full of books, graphic novels, and manga based on popular video game franchises like Halo, The Witcher, The Legend of Zelda, and more. Many of the products eligible for Amazon's B2G1 deal are also discounted from their normal price, saving you even more on these books and comics. Unfortunately, scrubbing through Amazon's B2G1 listings can be a pain, so we've gone ahead and rounded up a list of the best video game books on offer. These offers are expected to disappear this Sunday morning, April 14.</p><p dir="ltr">A huge list of Halo novels are up for grabs, including the first three entries in the original Halo book series <a href="https://www.amazon.com/HALO-Fall-Reach-Eric-Nylund/dp/1982111615?tag=gamespot-promos-20">Halo: The Fall of Reach</a>, <a href="https://www.amazon.com/HALO-Flood-William-C-Dietz/dp/1982111631?tag=gamespot-promos-2
+
+## Marvel's Brand-New What If... Novel Is Already Steeply Discounted
+ - [https://www.gamespot.com/articles/marvels-brand-new-what-if-novel-is-already-steeply-discounted/1100-6522597/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvels-brand-new-what-if-novel-is-already-steeply-discounted/1100-6522597/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T22:28:00+00:00
+
+<p>The Marvel Cinematic Universe is taking it easy in 2024 when it comes to new movies and seasons of TV, with only this summer's <a href="https://www.gamespot.com/articles/first-deadpool-3-trailer-unleashes-the-marvel-messiah-on-the-mcu/1100-6520981/">Deadpool 3</a> left on the calendar for new on-screen content. But you'll still be able to get your MCU fix in other ways this year, such as with a new series of novels that tie in with Marvel's animated What If... series on <a href="https://disneyplus.bn5x.net/c/1804712/564546/9358?u=https://www.disneyplus.com/&amp;subid1=subid_value&amp;sharedid=gamespot">Disney+</a>. The first of these hardcover books, What If...Loki Was Worthy? (A Loki &amp; Valkyrie Story), just came out and is already included in <a href="https://www.amazon.com/promotion/psp/A2B6T4FK4NAK8A?tag=gamespot-promos-20">Amazon's massive buy two, get one free sale</a>. If this is something you're in the market for, it's time to do some shopping.</p><div class="norewrite" 
+
+## You Can Finally Preorder Succession On Blu-Ray
+ - [https://www.gamespot.com/articles/you-can-finally-preorder-succession-on-blu-ray/1100-6522636/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/you-can-finally-preorder-succession-on-blu-ray/1100-6522636/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T21:37:00+00:00
+
+<p>Succession ended its four-season run last year with a whole pile of Emmy victories to go with its high ratings and universal acclaim, but until now the only way to watch this series has been to stream it from Max, watch on actual cable, pay too much for your own streaming copy from a digital retailer, or opt for a DVD set. It's rare to see a show as big as Succession release on DVD without a Blu-ray version as well. But that's going to change soon, because HBO is going to be releasing Succession: The Complete Series on Blu-ray, and you can preorder it right now. Unsurprisingly, it's more expensive than <a href="https://www.amazon.com/Succession-Complete-DVD-Jesse-Armstrong/dp/B0C8V9TGDV?tag=gamespot-promos-20">the DVD version, which is currently on sale for $45 at Amazon</a>, but it'll offer a better overall viewing experience.</p><div class="norewrite" title="Succession Complete Series Blu-ray set">  <div class="buylink-container">                                                  
+
+## Balatro Fans Should Check Out Humble's Deckbuilder Bundle - Get 7 Games For $20
+ - [https://www.gamespot.com/articles/balatro-fans-should-check-out-humbles-deckbuilder-bundle-get-7-games-for-20/1100-6522640/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/balatro-fans-should-check-out-humbles-deckbuilder-bundle-get-7-games-for-20/1100-6522640/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T21:25:00+00:00
+
+<p>Deckbuilder games are having their moment in the sun right now (hello, <a href="https://www.kqzyfj.com/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/game/balatro">Balatro</a>), but there are so many more to choose from in this little genre than juggernaut titles like Marvel Snap. In fact, the indie gaming scene offers tons of inventive awesome deckbuilding games that change up the formula in some really interesting and unique ways--often trying weird-but satisfying things that a big publisher might be scared of trying. Balatro is one of the newest examples of this, as it's compelling spin on poker has resonated with many thousands of players. But if you're looking to take a Balatro break, right now you can buy a sampling of inventive indie games with elements of the deckbuilding genre for cheap. <a href="https://www.jdoqocy.com/click-100770772-14555742?sid=subid_value&amp;url=https://www.humblebundle.com/games/devious-deckbuilders">Humble's Devious D
+
+## Where To Find Fortnite Cabbage Carts For Avatar Event
+ - [https://www.gamespot.com/articles/where-to-find-fortnite-cabbage-carts-for-avatar-event/1100-6522641/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/where-to-find-fortnite-cabbage-carts-for-avatar-event/1100-6522641/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T20:47:00+00:00
+
+<p><a href="https://www.gamespot.com/games/fortnite/">Fortnite</a>'s latest seasonal collaboration event is underway, bringing cool magical powers from Avatar: The Last Airbender to the battle royale island along with skins in the item shop and an event pass that'll let you nab two Aang skins and a pile of other cosmetics for a decent price. But the cost of that affordability is that you'll need to do some quests to progress through the pass--like finding and <strong>destroying a cabbage cart</strong>.</p><p>Fortunately for you, there are many of these carts scattered around the island, but they're easy to overlook because they don't really stand out that much. But <strong>you can find them in every named location</strong>, plus a ton of spots in between. They're everywhere And they look like this:</p><figure style="width: 3840px;"><a href="https://www.gamespot.com/a/uploads/original/1757/17577455/4287242-aangcabbageselfie.jpg"><img alt="Cabbages are weak to pickaxes." src="https://ww
+
+## Fallout's Walton Goggins Breaks Down Emotional Ghoul Moment From Episode 4
+ - [https://www.gamespot.com/articles/fallouts-walton-goggins-breaks-down-emotional-ghoul-moment-from-episode-4/1100-6522638/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fallouts-walton-goggins-breaks-down-emotional-ghoul-moment-from-episode-4/1100-6522638/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T20:14:00+00:00
+
+<p dir="ltr">While the star of <a href="https://www.gamespot.com/reviews/fallout-amazon-show-review-of-the-people-for-the-people/1900-6418209/">Fallout</a> may be the action unfolding in the California wasteland and all of the interesting/terrifying creatures and people that inhabit it, there's so much more at play in Season 1 of the Prime Video adaptation.</p><p dir="ltr">One primary mystery that unravels throughout all eight of Season 1's episode is the backstory of movie star Cooper Howard (Walton Goggins) and how he became The Ghoul, an irradiated mutant bounty hunter.</p><p dir="ltr"><strong>Warning: The following contains spoilers from Season 1 of Prime Video's Fallout. If you have yet to watch the series, stop reading now.</strong></p><a href="https://www.gamespot.com/articles/fallouts-walton-goggins-breaks-down-emotional-ghoul-moment-from-episode-4/1100-6522638/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## This High-End Turtle Beach Gaming Headset Is Over $100 Off At Amazon
+ - [https://www.gamespot.com/articles/this-high-end-turtle-beach-gaming-headset-is-over-100-off-at-amazon/1100-6521301/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/this-high-end-turtle-beach-gaming-headset-is-over-100-off-at-amazon/1100-6521301/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T20:09:00+00:00
+
+<p>If you're in the market for a high-end gaming headset, the <a href="https://www.gamespot.com/articles/turtle-beach-stealth-pro-review-phenomenal-with-a-price-to-match/1100-6513476/">Turtle Beach Stealth Pro</a> is one of the best around. It has a list price of $330, but right now you can get the <a href="https://www.amazon.com/Stealth-Multiplatform-Wireless-Noise-Cancelling-Xbox-X/dp/B0BX76VRZL?tag=gamespot-promos-20&amp;tag=gamespot-buybutton-20">PlayStation edition for $223</a> or the <a href="https://www.amazon.com/Stealth-Multiplatform-Wireless-Noise-Cancelling-Xbox-X/dp/B0BX77C1LD?tag=gamespot-promos-20&amp;tag=gamespot-buybutton-20">Xbox edition for $240</a>. The Xbox edition has wireless compatibility with all modern console platforms, PC, and mobile; the PlayStation version works with everything <em>except</em> for Xbox.</p><p>Designed with plush memory foam ear cushions, powerful 50mm drivers, and great noise-canceling tech, the Stealth Pro is a well-rounded headset that's
+
+## Demon Slayer, My Hero Academia, And Akira Manga Collections Are Half Off
+ - [https://www.gamespot.com/articles/early-prime-day-manga-deal-demon-slayer-box-set-for-55-percent-off/1100-6512108/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/early-prime-day-manga-deal-demon-slayer-box-set-for-55-percent-off/1100-6512108/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T19:50:00+00:00
+
+<p>If you're an anime fan, chances are you enjoy manga--but if not, we highly recommend giving it a shot. While anime is arguably more popular and easier than ever to watch thanks to streaming services such as Crunchyroll, sometimes the original manga is the best way to experience these stories. Luckily, now is a great time to dive into the medium, as <a href="https://www.amazon.com/dp/1974725952?tag=gamespot-promos-20&amp;tag=gamespot-buybutton-20">Demon Slayer</a>, <a href="https://www.amazon.com/dp/1974735990?tag=gamespot-promos-20">My Hero Academia</a>, and Akira box sets have been massively discounted. All three collections are also included in <a href="https://www.amazon.com/promotion/psp/A2B6T4FK4NAK8A?ref=psp_pc_cart_collapse&amp;tag=gamespot-promos-20">Amazon's B2G1</a> promotion, along with hundreds of <a href="https://www.gamespot.com/articles/manga-box-sets-are-b2g1-free-at-amazon-chainsaw-man-one-piece-tokyo-ghoul-more/1100-6522494/">other manga deals</a>.</p><figure styl
+
+## Martin Scorsese's The Departed Releases On 4K Blu-Ray This Month, Steelbook Preorders Discounted
+ - [https://www.gamespot.com/articles/martin-scorseses-the-departed-releases-on-4k-blu-ray-this-month-steelbook-preorders-discounted/1100-6522613/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/martin-scorseses-the-departed-releases-on-4k-blu-ray-this-month-steelbook-preorders-discounted/1100-6522613/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T19:42:00+00:00
+
+<p>The debate over which Martin Scorsese-directed film is the best--even if the obvious winner is Cape Fear purely for inspiring the best Simpsons episode--but, in all seriousness, The Departed is easily a top contender. Released in 2006, this crime thriller combined an all-star cast with a gritty story and shocking twists. And now, you can revisit it with this new <a href="https://www.amazon.com/Departed-Ultra-Digital-Steelbook-UHD/dp/B0CV95N52L?tag=gamespot-preorders-20">Amazon preorder deal</a> ahead of its April 23 release on 4K Blu-ray.</p><div><div class="norewrite" title="">           <a href="https://www.amazon.com/Departed-Ultra-Digital-Steelbook-UHD/dp/B0CV95N52L?tag=gamespot-preorders-20">Preorder at Amazon</a> </div></div><p> </p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4286786-the-departed.jpg"><img alt="The Departed" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4286786-the-departed.jpg" /></a><fig
+
+## Possibility Space Shuts Down, Founder Blames Leaks
+ - [https://www.gamespot.com/articles/possibility-space-shuts-down-founder-blames-leaks/1100-6522639/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/possibility-space-shuts-down-founder-blames-leaks/1100-6522639/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T19:19:00+00:00
+
+<p>The studio Possibility Space has been shut down, effective today. Now-former studio employees have announced their departure.</p><p>Senior game designer Brendan McLeod stated that <a href="https://twitter.com/_sulcata/status/1778816808486572316">everyone at Possibility Space</a> was laid off, and others such as former senior environmental artist <a href="https://twitter.com/GraczykMatt/status/1778827370943893643">Matt Graczyk</a> and lead systems engineer <a href="https://twitter.com/kkukshtel/status/1778829109692407912">Kyle Kukshtel</a> have confirmed their layoffs.</p><p>According to <a href="https://twitter.com/sweetpotatoes/status/1778837645797335183">Polygon</a>, Possibility Space owner Jeff Strain blamed the studio closure on its employees leaking information to the press about its upcoming game, Project Vonnegut. As a result, Strain claims the studio was unable to secure additional resources from the project's publisher and decided to cancel it instead.</p><a href="https://
+
+## Minecraft Movie: Release Date, Cast, Director, And Everything Else To Know
+ - [https://www.gamespot.com/gallery/minecraft-movie-release-date-cast-plot-trailer/2900-5257](https://www.gamespot.com/gallery/minecraft-movie-release-date-cast-plot-trailer/2900-5257)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T19:06:00+00:00
+
+<p><h2>The Minecraft movie is coming in 2025</h2><img src="https://www.gamespot.com/a/uploads/scale_large/536/5360430/2656428-xbox1-mine-png.jpg" /><br /><h3><p> </p><p dir="ltr">Following the massive success of The Super Mario Bros. Movie, one of the next high-profile video game adaptations for the silver screen is the Minecraft movie from Warner Bros.</p><p dir="ltr">The film has been in the works for a decade and has gone through a number of changes throughout development, but the film is finally coming. Filming <a href="https://www.gamespot.com/articles/the-minecraft-movie-has-officially-wrapped-filming/1100-6522634/">just recently wrapped</a>, but there is presumably a good amount of CG work to be done before it hits theaters in April 2025.</p><p dir="ltr">Jack Black stars in the film, and it's just his latest video game movie, as he voiced Bowser in The Super Mario Bros. Movie and is the voice of Claptrap in this August's Borderlands movie. He's joined by Jason Momoa, Kate McKin
+
+## The Bizarre World Of Fallout Is More Relevant Than Ever
+ - [https://www.gamespot.com/articles/the-bizarre-world-of-fallout-is-more-relevant-than-ever/1100-6522637/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-bizarre-world-of-fallout-is-more-relevant-than-ever/1100-6522637/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T19:02:00+00:00
+
+<p dir="ltr">With the release of Season 1 of Prime Video's Fallout TV series, those who don't have experience with the games are finding out <a href="https://www.gamespot.com/gallery/fallout-a-newbies-guide-to-the-prime-video-shows-world/2900-5235/">just how peculiar the world its set in is</a>. While Fallout is set in the aftermath of a nuclear apocalypse that all but wiped out the majority of the United States of America, it's not necessarily the USA you're accustomed to.</p><p dir="ltr">Instead, Fallout is set against the backdrop of a nation that never moved on from its penchant for American exceptionalism, the idea that the United States stands tall and proud among other nations.</p><p dir="ltr">"The unique challenge of one of things about Fallout that's so interesting is it's not our world that ends exactly," executive producer Jonathan Nolan explained. "It is this different kind of Eisenhower America that never had a Watergate, never had a Vietnam [war], never had a moment of s
+
+## Geena Davis Isn't In Beetlejuice 2 For A Pretty Good Reason
+ - [https://www.gamespot.com/articles/geena-davis-isnt-in-beetlejuice-2-for-a-pretty-good-reason/1100-6522633/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/geena-davis-isnt-in-beetlejuice-2-for-a-pretty-good-reason/1100-6522633/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T18:45:00+00:00
+
+<p>Michael Keaton, Winona Ryder, and Catherine O'Hara are all reprising their roles from Beetlejuice in director Tim Burton's upcoming sequel, <a href="https://www.gamespot.com/articles/beetlejuice-2-trailer-brings-michael-keaton-bio-exorcist-back-from-the-dead/1100-6522069/">Beetlejuice Beetlejuice</a>. However, two of the original film's primary stars, Geena Davis and Alec Baldwin, will not be reprising their roles as the ghost couple Barbara and Adam Maitland. Davis recently confirmed that she won't be in Beetlejuice Beetlejuice, and she also explained why.</p><p>"No, I'm not. I'm not in the remake," Davis told <a href="https://www.etonline.com/geena-davis-confirms-shes-not-in-the-beetlejuice-sequel-heres-why-exclusive-223341">Entertainment Tonight</a>. "Oh, you were expecting that I would be? Yeah, no, you know what? Because my theory is that ghosts don't age... Not that I have... Our characters were stuck the way they looked when they died forever, so it's been a while, it's been
+
+## Baldur's Gate 3's Astarion And Narrator Are Open To Appear In More D&D Games
+ - [https://www.gamespot.com/articles/baldurs-gate-3s-astarion-and-narrator-are-open-to-appear-in-more-dd-games/1100-6522635/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/baldurs-gate-3s-astarion-and-narrator-are-open-to-appear-in-more-dd-games/1100-6522635/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T18:03:00+00:00
+
+<p>Larian Studios isn't making Baldur's Gate 4, but some of the voice actors who brought <a href="https://www.gamespot.com/games/baldurs-gate-3/">Baldur's Gate 3's</a> now iconic characters to life hope they will get the chance to appear in future Dungeons &amp; Dragons projects all the same.</p><p dir="ltr">Speaking with <a href="https://www.ign.com/articles/baldurs-gate-3-cast-want-to-return-for-more-dungeons-dragon-games-or-even-film-sequel">IGN</a>, actor Neil Newbon, who won Best Performance at the 2023 Game Awards for their portrayal of fan-favorite Astarion in Baldur's Gate 3, said he feels that he's not quite done with the character and would be open to reprising the role in other D&amp;D games or even live-action films.</p><p dir="ltr">"Most characters, once I've finished the work, especially on long jobs, and this was a particularly long job, I usually have a compartmentalization and it's like 'Great, that's done,' I'm happy moving forward to the next role," Newbon said. "Wi
+
+## Where Is Xur Today? (April 12-16) Destiny 2 Exotic Items And Xur Location Guide
+ - [https://www.gamespot.com/articles/where-is-xur-today-april-12-16-destiny-2-exotic-items-and-xur-location-guide/1100-6522620/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/where-is-xur-today-april-12-16-destiny-2-exotic-items-and-xur-location-guide/1100-6522620/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T17:02:00+00:00
+
+<p>The road to <a href="https://www.gamespot.com/articles/destiny-2-the-final-shape-release-date-new-exotics-and-everything-we-know/1100-6517377/">The Final Shape</a> has officially opened up, as the launch of Into the Light this week has brought with it the return of a <a href="https://www.gamespot.com/articles/how-to-get-the-whisper-of-the-worm-exotic-in-destiny-2/1100-6522529/">fan-favorite Exotic weapon mission</a>, <a href="https://www.gamespot.com/articles/destiny-2-onslaught-guide-best-defenses-how-to-get-scraps/1100-6522525/">a new Onslaught horde mode to play</a>, and <a href="https://www.gamespot.com/articles/how-to-get-brave-weapons-in-destiny-2-and-attune-them/1100-6522534/">more weapons to earn</a>. Speaking of weapons, Xur has arrived, bringing with him an assortment of new gear. Here's where you can find Xur this week, and what he has for sale.</p><p>This week you can find Xur in <strong>The Tower</strong>, inside the <strong>Hangar</strong>. For his weapon, Xur is offe
+
+## The Minecraft Movie Has Officially Wrapped Filming
+ - [https://www.gamespot.com/articles/the-minecraft-movie-has-officially-wrapped-filming/1100-6522634/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-minecraft-movie-has-officially-wrapped-filming/1100-6522634/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T16:56:00+00:00
+
+<p>After a short delay, the Minecraft movie started filming in January and in just three months wrapped principal photography. Star Jason Momoa posted on his Instagram Friday showing the movie's cast and expressing his excitement about the production.</p><p>"Minecraft we are wrapping! All my aloha to my crew and cast. Unbelievable movie experience truly one of the greatest times of my life," the actor said. "Too many laughs. I love this country. Aotearoa New Zealand you are magical. Mahalo for letting me film here." Momoa also commended his Dahui brand team for helping families in Maui still in need.</p><div><blockquote class="instagram-media"><div style="padding: 16px;"><div style="display: flex;"> </div><div style="padding: 19% 0;"> </div><div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"> </div><div style="padding-top: 8px;"><div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;"
+
+## The Most-Downloaded PS5 Games Of March 2024
+ - [https://www.gamespot.com/gallery/the-most-downloaded-ps5-games-of-march-2024/2900-5256](https://www.gamespot.com/gallery/the-most-downloaded-ps5-games-of-march-2024/2900-5256)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T16:38:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4286948-ps5-march-2024.jpg" /><br /><h3><p>Sony has revealed its most-downloaded games in the US and Canada for March, and sitting at the top of the list is <a href="https://www.gamespot.com/reviews/helldivers-2-review-starship-bloopers/1900-6418184/">Helldivers 2</a> once again. The call for managed democracy proved to be irresistible to interested players, as the Arrowhead-developed game surged to the top of the charts. First released in February this year, Helldivers 2 was the most-downloaded game that month in the US, thanks in part to its great gameplay, a <a href="https://www.gamespot.com/articles/helldivers-2-may-soon-add-playable-mechs/1100-6521465/">constant influx of new content</a>, and a <a href="https://www.gamespot.com/gallery/helldivers-2-cutting-edge-warbond-all-skins-guns-and-rewards/2900-5169/">premium battle pass</a> that could be unlocked without needing to spend a cent.</p><p>New releases li
+
+## Every Friday The 13th: The Final Chapter Kill, Ranked By Silliness
+ - [https://www.gamespot.com/gallery/every-friday-the-13th-the-final-chapter-kill-ranked-by-silliness/2900-5253](https://www.gamespot.com/gallery/every-friday-the-13th-the-final-chapter-kill-ranked-by-silliness/2900-5253)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T16:32:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1562/15626911/4286644-2.png" /><br /><h3><p dir="ltr">Friday the 13th is one of the horror movies that led to the popularity of the slasher horror genre, following in the footsteps of Texas Chainsaw Massacre and Halloween. The big difference between the Friday the 13th series and those movies is that there's been more than one character doing all the killing in the series. While Jason Vorhees is the most notable in the franchise, the series also featured Pamela Voorhees (Jason's mother) and Roy (pretending to be Jason) as the killer, along with some supernatural elements that keep raising the stakes as the movies went on.</p><p dir="ltr">And <a href="https://www.gamespot.com/gallery/friday-the-13th-how-many-people-jason-voorhees-killed-and-where-every-movie-is-streaming/2900-1636/">Jason has killed a lot of people over the years</a>. The fourth movie, The Final Chapter, is a somewhat more grounded slasher movie than later ent
+
+## Dragon's Dogma 2 Best Mystic Spearhand Build And Skills
+ - [https://www.gamespot.com/articles/dragons-dogma-2-best-mystic-spearhand-build-and-skills/1100-6522631/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dragons-dogma-2-best-mystic-spearhand-build-and-skills/1100-6522631/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T15:31:00+00:00
+
+<p> </p><p dir="ltr">The right <strong>Dragon's Dogma 2 Mystic Spearhand build</strong> gives your Arisen a skill rotation that, if executed properly, ends with a high chance of dealing extra damage in most encounters. Mystic Spearhand is a tricky vocation to master, as an attack in the wrong direction or a foe that refuses to flinch could throw your whole plan off course.</p><p dir="ltr">Our Dragon's Dogma 2 Mystic Spearhand build guide explains how the Mystic Spearhand works and how to get the most from their skills. If you're wondering where the Spearhand falls in the hierarchy of vocations, check out our <a href="https://www.gamespot.com/gallery/dragons-dogma-2-best-vocation-class-tier-list/2900-5204/">Dragon's Dogma 2 Vocation tier list</a>.</p><a href="https://www.gamespot.com/articles/dragons-dogma-2-best-mystic-spearhand-build-and-skills/1100-6522631/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## New Nintendo Switch Online Releases Bring Two Japanese Exclusives To The US
+ - [https://www.gamespot.com/articles/new-nintendo-switch-online-releases-bring-two-japanese-exclusives-to-the-us/1100-6522628/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-nintendo-switch-online-releases-bring-two-japanese-exclusives-to-the-us/1100-6522628/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T15:18:00+00:00
+
+<p>Three Super Nintendo games are coming to Nintendo Switch Online, including two titles previously only available in Japan.</p><p>First up is Wrecking Crew '98, a Japanese exclusive remake of the NES puzzle classic. Up to two players control Mario and Luigi as the titular wrecking crew. You line up colored panels and knock them down to clear your own screen and fill your opponents'. Clearing stages in story mode also unlocks new characters for the multiplayer versus mode. The original Wrecking Crew for NES (also exclusive to Japan) is also included in this remake.</p><figure style="width: 1200px;"><a href="https://www.gamespot.com/a/uploads/original/1690/16904437/4286896-unnamed%284%29.png"><img alt="Mario and Wario wrecking panels in Wrecking Crew '98" src="https://www.gamespot.com/a/uploads/original/1690/16904437/4286896-unnamed%284%29.png" /></a><figcaption>Mario and Wario wrecking panels in Wrecking Crew '98</figcaption></figure><p>Super R-Type is a gorgeous, space-themed scrolli
+
+## Hot Toys Armored Batman 2.0 Figure Revealed, Ready To Beat Up Superman Again
+ - [https://www.gamespot.com/articles/hot-toys-armored-batman-2-0-figure-revealed-ready-to-beat-up-superman-again/1100-6522625/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/hot-toys-armored-batman-2-0-figure-revealed-ready-to-beat-up-superman-again/1100-6522625/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T14:52:00+00:00
+
+<p>Hot Toys is taking another run at Batman V Superman: Dawn of Justice, and has debuted a retooled version of Ben Affleck's Batman when he donned an armored suit to take on the Man of Steel. This new version of the figure has several improvements on the previous two releases, as well as a hefty amount of diecast metal to make it feel even beefier.</p><figure style="width: 1666px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4286862-hottoysarmoredbatman%2818%29.jpg"><img alt="Hot Toys Armored Batman 2.0" src="https://www.gamespot.com/a/uploads/scale_super/1601/16018044/4286862-hottoysarmoredbatman%2818%29.jpg" /></a><figcaption>Hot Toys Armored Batman 2.0</figcaption></figure><figure><div class="image-gallery__label">Gallery</div>   <div class="image-gallery__list hide-scrollbar">       <a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4286863-hottoysarmoredbatman%281%29.jpg">       <img alt="Gallery image 1" src="https://www.gamespot.com/a/uplo
+
+## These Discounted Batman Omnibuses Could Double As Doorstoppers
+ - [https://www.gamespot.com/articles/these-discounted-batman-omnibuses-could-double-as-doorstoppers/1100-6522612/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/these-discounted-batman-omnibuses-could-double-as-doorstoppers/1100-6522612/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T14:41:00+00:00
+
+<p>The only thing better than a fresh Batman graphic novel is a Batman graphic novel that's roughly the size of a phonebook, and this deal from Amazon checks both of those boxes. This hardcover <a href="https://www.amazon.com/Batman-Scott-Snyder-Capullo-Omnibus/dp/1401298842?tag=gamespot-promos-20">Batman Omnibus</a> is on sale at Amazon for $67 (list price is $125). It collects the first 34 issues of the character's New 52 run alongside two annuals.</p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4286783-batman-zero-year.jpg"><img alt="Batman by Greg Capullo and Scott Snyder" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4286783-batman-zero-year.jpg" /></a><figcaption>Batman by Greg Capullo and Scott Snyder</figcaption></figure><ul><li><a href="https://www.amazon.com/Batman-Scott-Snyder-Capullo-Omnibus/dp/1401298842?tag=gamespot-promos-20">Batman Omnibus Volume 1</a> -- $67 ($<strike>125</strike>)</li><li><a href="
+
+## The Best Retro Zelda-Like This Year Looks More Like Geometry Wars
+ - [https://www.gamespot.com/articles/the-best-retro-zelda-like-this-year-looks-more-like-geometry-wars/1100-6522621/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-best-retro-zelda-like-this-year-looks-more-like-geometry-wars/1100-6522621/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T14:34:00+00:00
+
+<p dir="ltr">The enduring popularity of The Legend of Zelda has led to no shortage of imitators. For those lamenting the lack of a new top-down 2D Zelda from Nintendo, Steam is rife with homages that approximate the feeling of delving into forests, caves, and dungeons armed only with a plucky attitude and your uncle's sword. Minishoot Adventures, the sophomore game from indie studio SoulGame, is different, but no less reverent as an homage. Rather than crib from Zelda in a very literal sense, this one reimagines and recaptures the same sensation of classic Zelda by recontextualizing it as a bullet hell shooter.</p><p dir="ltr">Instead of an elven tween, you're a sentient spaceship. Your allies and enemies, also spaceships. The world is open and free roaming with item gating, like classic Zelda and metroidvania games. Movement feels sharp and snappy immediately, like picking up a game of PixelJunk Shooter or Geometry Wars. It even has a series of dungeons with clever traps, environment
+
+## TMNT: Mutants Unleashed GameStop-Exclusive Collector's Edition Looks Very Cool
+ - [https://www.gamespot.com/articles/teenage-mutant-ninja-turtles-mutants-unleashed-preorder-guide/1100-6521634/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/teenage-mutant-ninja-turtles-mutants-unleashed-preorder-guide/1100-6521634/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T14:27:00+00:00
+
+<div class="norewrite" title="6521634 - TMNT Mutants Unleashed Preorder Guide">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4269361-71uhluvsjzl._sl1500.jpg" />                                 <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.walmart.com/ip/Teenage-Mutant-Ninja-Turtles-Mutants-Unleashed-Walmart-Edition-PlayStation-5/5337847059?from=/search"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                 
+
+## 9 Years On, The Witcher 3 Players Are Still Finding Little Secrets
+ - [https://www.gamespot.com/articles/9-years-on-the-witcher-3-players-are-still-finding-little-secrets/1100-6522624/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/9-years-on-the-witcher-3-players-are-still-finding-little-secrets/1100-6522624/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T14:22:00+00:00
+
+<p>Nine years after launch, someone has found another Witcher 3 Easter egg. The tidbit is hidden under the city of Novigrad, but it's hard to get to.</p><p>YouTuber xLetralis <a href="https://www.youtube.com/watch?v=vYV7utov1cE">posted a video </a>(via <a href="https://www.ign.com/articles/the-witcher-3-player-finds-easter-egg-hidden-under-novigrad">IGN</a>) of how to find the Easter egg, which is simple but difficult to find. You can see the image on a hill slope next to the city wall that is impossible to reach by normal means. It depicts a solider of Temaria (one of the fictional nations in The Witcher) pointing to the viewer like a recruitment poster with the caption "CDPR needs you," referring to developer CD Projekt Red.</p><figure style="width: 1920px;"><a href="https://www.gamespot.com/a/uploads/original/1690/16904437/4286876-thewitchereasteregg.jpg"><img alt="The Easter egg image below Novigrad" src="https://www.gamespot.com/a/uploads/scale_super/1690/16904437/4286876-thewitc
+
+## Joker 2 - Release Date, Trailer, Story, Characters, And Everything Else To Know
+ - [https://www.gamespot.com/gallery/joker-2-release-date-cast-plot-trailer/2900-5255](https://www.gamespot.com/gallery/joker-2-release-date-cast-plot-trailer/2900-5255)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T14:19:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4286854-screenshot2024-04-12at10.13.45am.png" /><br /><h3><p> </p><p dir="ltr">Joker: Folie à Deux, the sequel to 2019's Oscar-winning drama, is hitting theaters this October. The first trailer just dropped this week, providing a peek at the sequel that picks up the story with Joaquin Phoenix locked inside Arkham Asylum where he meets Lady Gaga's Harley Quinn.</p><p dir="ltr">The first trailer provided a tantalizing glimpse at the sequel, but what else do we know about the movie? In this gallery we're rounding up all the key information on the DC sequel, including what the title means, its release date, new and returning cast members, director, writers, and more. There is quite a lot to know about the film.</p><p dir="ltr">Joke: Folie à Deux is DC's one and only film set for release in 2024, which puts the company in the same boat as Marvel, which has only Deadpool and Wolverine on the film slate this year. Read
+
+## Final Fantasy VII Remake Part 3's Story Might Already Be Done
+ - [https://www.gamespot.com/articles/final-fantasy-vii-remake-part-3s-story-might-already-be-done/1100-6522623/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/final-fantasy-vii-remake-part-3s-story-might-already-be-done/1100-6522623/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T14:14:00+00:00
+
+<p>According to Final Fantasy VII Rebirth Ultimania, a guidebook edited by Digital Hearts and published by Square Enix, the third part of the Final Fantasy VII remake trilogy already has its story completed.</p><p>As translated on Twitter, director Tetsuya Nomura, he believes that the voice acting process for the third game will start in the near future. Additionally, he said that producer Yoshinori Kitase came to him with "something" that wasn't in the original Final Fantasy VII game. While no further details about what that "something" could be, Nomura is thinking about how to deliver that and believes that audiences will respond positively to it if the team can pull it off.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr"><a href="https://twitter.com/hashtag/FF7RUltimania?src=hash&amp;ref_src=twsrc^tfw">#FF7RUltimania</a><br />FF7 Remake Part 3 main story has already been completed, and Nomura thinks they will perhaps start voice recording in the near future. <
+
+## Star Trek Blu-Ray Box Sets Receive Steep Discounts, Come With Free Comic Books
+ - [https://www.gamespot.com/articles/star-trek-blu-ray-box-sets-receive-steep-discounts-come-with-free-comic-books/1100-6522614/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-trek-blu-ray-box-sets-receive-steep-discounts-come-with-free-comic-books/1100-6522614/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T14:08:00+00:00
+
+<p>With decades of stories, series, and movies under its belt, it's never a bad time to check out the Star Trek franchise. Especially when you can build a sizable collection thanks to these Amazon deals! Whether you're interested in the original series starring William Shatner as James T. Kirk or you want to explore more recent shows like the Picard spin-off, there's plenty to look at here. As an added bonus, <strong><a href="https://www.amazon.com/promotion/psp/A1M3LRJGIDUEAW?ref=psp_pc_cart_collapse_cpi_t1=&amp;tag=gamespot-promos-20">spending $25 or more on these deals will earn you three free Star Trek digital comics</a></strong> to read.</p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/scale_super/1601/16018044/4286790-star-trek-6.jpg"><img alt="No Caption Provided" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4286790-star-trek-6.jpg" /></a></figure><div><div class="norewrite" title="">           <a href="https://www.amazon.com/promo
+
+## Fallout's Weirdest Vaults Ever: Human Sacrifices, Too Many Puppets, And More
+ - [https://www.gamespot.com/gallery/fallouts-weirdest-vaults-ever/2900-5254](https://www.gamespot.com/gallery/fallouts-weirdest-vaults-ever/2900-5254)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T14:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1585/15855271/4286822-fallout-tv-show-vault-boy.jpg" /><br /><h3><p dir="ltr">Vaults are synonymous with the Fallout franchise, and not just because they're shelter from the nuclear apocalypse that serves as an inciting incident in the alternative historical lore. The Vaults themselves are the source of major plot points, factions, and much of the macabre, tongue-in-cheek humor that Fallout is known for. That's because they were never meant to keep their residents safe; instead, many of the Vaults were designed as a series of twisted Skinner Box experiments to test all sorts of conditions on their human residents, from the absurd to the horrific.</p><p dir="ltr">To give you an idea, we've gathered a list of the wildest, weirdest Vaults in Fallout history. These hail from various Fallout games. Some are mentioned in passing, while others play a central role in the story and world. In all cases, though, these Vaults are supreme
+
+## The 11 Creepiest Vaults Of Fallout
+ - [https://www.gamespot.com/videos/the-11-creepiest-vaults-of-fallout/2300-6463881](https://www.gamespot.com/videos/the-11-creepiest-vaults-of-fallout/2300-6463881)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T14:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237490/4286763-feature_creepiestfalloutvaults_20240410v3.jpg" width="480" /> From clones to fungal parasites and being trapped in a simulation, here are the best Fallout Vaults that you can explore in the game that gives us the ick.
+
+## Kirsten Dunst Wonders Whether "We Need" Spider-Man 4
+ - [https://www.gamespot.com/articles/kirsten-dunst-wonders-whether-we-need-spider-man-4/1100-6522622/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/kirsten-dunst-wonders-whether-we-need-spider-man-4/1100-6522622/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T13:59:00+00:00
+
+<p> </p><p dir="ltr">While Kirsten Dunst seems open to reprising her role as Mary Jane Watson, she also seems split on whether Spider-Man 4 is even necessary. The actress, who's promoting the Alex Garland-helmed Civil War, expressed her conflicted feelings recently in <a href="https://www.indiewire.com/features/interviews/kirsten-dunst-reasonable-movie-star-interview-civil-war-1234972463/">an IndieWire interview</a>.</p><p dir="ltr">Dunst admitted that "she can't tell either" if she is really game for Spider-Man 4 or just a new entry in the web-slinging series altogether. In fact, this led her to questioning: "Honestly, do we need it?"</p><a href="https://www.gamespot.com/articles/kirsten-dunst-wonders-whether-we-need-spider-man-4/1100-6522622/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## X-Men '97 Creator Explains Episode 5's Impact On The Rest Of Season 1
+ - [https://www.gamespot.com/articles/x-men-97-creator-explains-episode-5s-impact-on-the-rest-of-season-1/1100-6522611/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/x-men-97-creator-explains-episode-5s-impact-on-the-rest-of-season-1/1100-6522611/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T13:28:00+00:00
+
+<p>Few fans were ready for the events of X-Men '97 Season 1, Episode 5, "Remember It," which thrust the entire series into a much darker direction. The story took its cues from the "E For Extinction" storyline from Grant Morrison and artist Frank Quitely's 2001 run on New X-Men, which depicted the fall of the mutant nation of Genosha to a genocidal attack from the Sentinels. The show took that story several steps further and seemingly depicted the death of two members of the X-Men and several of their friends and allies.</p><p><strong>Warning: the following contains spoilers from the latest episode of X-Men '97 on Disney+. If you haven't seen the installment or don't want to know what happens, stop reading now.</strong></p><p>In response to the episode's debut, former X-Men '97 showrunner and series creator Beau DeMayo broke his silence for the first time since he was fired by Marvel last month. Although DeMayo didn't elaborate on his dismissal, he explained that this episode in parti
+
+## Marvel's Thunderbolts Movie Has An Asterisk In The Title, And That's On Purpose
+ - [https://www.gamespot.com/articles/marvels-thunderbolts-movie-has-an-asterisk-in-the-title-and-thats-on-purpose/1100-6522619/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvels-thunderbolts-movie-has-an-asterisk-in-the-title-and-thats-on-purpose/1100-6522619/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T13:22:00+00:00
+
+<p>As part of the CinemaCon event this week in Las Vegas, Marvel confirmed that Thunderbolts* is the official title of the film, and that includes the asterisk. But what's the asterisk all about?</p><p>According to Marvel boss Kevin Feige, "We won't talk about the asterisk until after release." An asterisk in literature usually refers readers to a footnote explaining what the asterisk is for. But what that footnote might be in regards to Thunderbolts is anyone's guess. People on <a href="https://www.reddit.com/r/marvelstudios/comments/1c1t18c/new_look_at_the_logo_for_thunderbolts_feige_we/">Reddit and elsewhere on the internet</a> have a number of theories as to what it all might mean.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Kevin Feige confirms ‘THUNDERBOLTS*’ is the official title.<br />“We won’t talk about the asterisk until after release” <a href="https://t.co/fVHWfsXCPh">pic.twitter.com/fVHWfsXCPh</a></p>  — DiscussingFilm (@DiscussingFilm) <a href="
+
+## Ahead Of GTA 6 Release, Rockstar Raises GTA+ Price By 33%
+ - [https://www.gamespot.com/articles/ahead-of-gta-6-release-rockstar-raises-gta-price-by-33/1100-6522616/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ahead-of-gta-6-release-rockstar-raises-gta-price-by-33/1100-6522616/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T13:06:00+00:00
+
+<p>GTA+, the subscription service that offers a variety of benefits in GTA Online and provides access to a catalog of games, just got a price increase. The membership has risen in price from $6/month to $8/month across PlayStation and Xbox platforms. That is an increase of 33%. There is no multi-month or yearly membership option for GTA+.</p><p>Whether or not Rockstar Games gave any heads-up notice publicly is unknown. The price hike seemingly went into effect very recently, and the new price is now reflected on the Xbox and PlayStation marketplaces. The service <a href="https://www.gamespot.com/articles/gta-5-online-adding-6-month-subscription-comes-with-cash-and-rewards-every-month/1100-6501912/">launched in March 2022 priced at $6/month</a>, a price it's held until now.</p><p>Since launch, Rockstar Games has been expanding the benefits of GTA+. In particular, Red Dead Redemption was recently added to the rotating games catalog, joining GTA: The Trilogy - Definitive Edition, GTA: Ch
+
+## Daniel Radcliffe Recalls Feeling "Terrified" Of Alan Rickman On Harry Potter Set
+ - [https://www.gamespot.com/articles/daniel-radcliffe-recalls-feeling-terrified-of-alan-rickman-on-harry-potter-set/1100-6522615/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/daniel-radcliffe-recalls-feeling-terrified-of-alan-rickman-on-harry-potter-set/1100-6522615/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T13:06:00+00:00
+
+<p>Actor Daniel Radcliffe famously played Harry Potter in the film series, and now he's revealed that he initially felt "so intimidated" by Alan Rickman, who played Severus Snape. Rickman <a href="https://www.gamespot.com/articles/harry-potter-die-hard-star-alan-rickman-dies/1100-6433813/">passed away in 2016. </a></p><p>Appearing on the <a href="https://youtu.be/OYJ7W0mJZUA">Happy Sad Confused podcast</a> (<a href="https://variety.com/2024/film/news/daniel-radcliffe-terrified-alan-rickman-hates-me-harry-potter-1235967725/">via Variety</a>) Radcliffe said, "How can you not be by that voice? You forget quite how low it was until it echoes through you."</p><p>For the first three films--The Sorcerer's Stone, Chamber of Secrets, and Prisoner of Azkaban--Radcliffe said he felt "so intimidated" by Rickman, and also "terrified by him." Radcliffe said he thought, "'This guy hates me.'"</p><a href="https://www.gamespot.com/articles/daniel-radcliffe-recalls-feeling-terrified-of-alan-rickman-on-
+
+## Deadpool 3 Is Aiming To Outdo Dune: Part Two With Its Own Crude Popcorn Bucket
+ - [https://www.gamespot.com/articles/deadpool-3-is-aiming-to-outdo-dune-part-two-with-its-own-crude-popcorn-bucket/1100-6522617/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/deadpool-3-is-aiming-to-outdo-dune-part-two-with-its-own-crude-popcorn-bucket/1100-6522617/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T13:01:00+00:00
+
+<p>Like several other blockbuster releases, Deadpool and Wolverine is joining the viral popcorn bucket craze. The big difference here is that Deadpool himself will be designing the bucket, and the end result will be intentionally crude. Considering how <a href="https://www.gamespot.com/articles/dune-2-stars-react-to-movies-viral-popcorn-bucket-its-not-okay/1100-6520872/">Dune: Part Two's popcorn bucket</a> ended up looking like a horrifying piece of human anatomy, all bets are likely off for what Deadpool and Marvel have planned. Deadpool star Reynolds had previously hinted at this, posting "Wait until you see the Deadpool popcorn bucket" <a href="https://twitter.com/VancityReynolds/status/1756827473654788607?ref_src=twsrc^tfw">in a cryptic tweet</a>.</p><p>"We've asked Deadpool to design a popcorn bucket for Deadpool and Wolverine," Marvel Studios president Kevin Feige said at CinemaCon (via <a href="https://twitter.com/aaroncouch/status/1778555134618087843?s=46&amp;t=gp9HY1NQP1eeZxZ
+
+## Fortnite Elements Event Adds Avatar Powers, Aang Skin, And More
+ - [https://www.gamespot.com/articles/fortnite-elements-event-adds-avatar-powers-aang-skin-and-more/1100-6522599/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fortnite-elements-event-adds-avatar-powers-aang-skin-and-more/1100-6522599/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T13:00:00+00:00
+
+<p dir="ltr">Fortnite Chapter 5 Season 2 introduced Korra via the battle pass, and since then three more characters from the Last Airbender universe--Toph, Zuko, and Katara--were added to the in-game shop. Now, with the new Elements limited-time event, not only can you wield the power of the four elements in each match, but the accompanying Elements Pass adds Aang to the game for the first time.</p><p dir="ltr">The <a href="https://www.fortnite.com/news/use-techniques-from-avatar-the-last-airbender-in-fortnite-brs-elements">Fortnite Elements event</a> begins with the v29.20 hotfix on April 12, and it will run until May 2 at 11 PM PT / May 3 at 2 AM ET. The event has two main features: The Elements Pass which adds new reward tracks for players to earn, and the addition of new elemental weapons to the Battle Royale mode.</p><div>          </div><p dir="ltr">The new in-game elemental weapons introduce one new item for each of the four elements in The Last Airbender--water, fire, earth, a
+
+## Marvel Studios Boss Promotes Deadpool And Wolverine With F-Bombs
+ - [https://www.gamespot.com/articles/marvel-studios-boss-promotes-deadpool-and-wolverine-with-f-bombs/1100-6522618/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvel-studios-boss-promotes-deadpool-and-wolverine-with-f-bombs/1100-6522618/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T12:59:00+00:00
+
+<p dir="ltr">According to Marvel Studios head honcho Kevin Feige, Deadpool and Wolverine is "f**king awesome." And the F-bombs didn't stop there from the man who oversees the Marvel Cinematic Universe.</p><p dir="ltr"><a href="https://www.hollywoodreporter.com/movies/movie-news/first-deadpool-and-wolverine-footage-1235872259/">The Hollywood Reporter</a> says Feige leaned into the explicit language to promote Deadpool and Wolverine at CinemaCon this week. For years now, <a href="https://www.gamespot.com/articles/deadpool-3-will-be-rated-r-marvel-boss-says/1100-6486109/">Feige has promised the third Deadpool film would be rated R</a>, which will be a first for an MCU flick.</p><p dir="ltr">The Marvel Studios boss wasn't the only one dropping F-bombs at the event. In a PSA, Wolverine (portrayed by Hugh Jackson) loses his cool and reportedly got creative with his language to yell at people to turn off their phones at CinemaCon in a taped bit. Of course, Deadpool (portrayed by Ryan Reynold
+
+## Dragon’s Dogma 2 Best Sorcerer Build
+ - [https://www.gamespot.com/articles/dragons-dogma-2-best-sorcerer-build/1100-6522610/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dragons-dogma-2-best-sorcerer-build/1100-6522610/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T00:27:00+00:00
+
+<p> </p><p dir="ltr">A good <strong><a href="https://www.gamespot.com/articles/dragons-dogma-2-guides-hub/1100-6522010/">Dragon’s Dogma 2</a> Sorcerer build</strong> gives your Arisen access to almost every enemy weakness and a powerful set of ways to exploit them. Sorcerer is a straightforward class whose utility lies as much in its core skills as it does in their spells. The only downside is that their augmentations aren’t that spectacular unless you keep playing as a Sorcerer.</p><p dir="ltr">Our Dragon’s Dogma 2 Sorcerer build guide breaks down the best skill in each category and how to use them effectively. If you're wondering where Sorcerer falls in the hierarchy of Vocations, check out our <a href="https://www.gamespot.com/gallery/dragons-dogma-2-best-vocation-class-tier-list/2900-5204/">Dragon's Dogma 2 Vocation tier list</a>.</p><a href="https://www.gamespot.com/articles/dragons-dogma-2-best-sorcerer-build/1100-6522610/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Dragon's Dogma 2 Best Warrior Build
+ - [https://www.gamespot.com/articles/dragons-dogma-2-best-warrior-build/1100-6522609/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dragons-dogma-2-best-warrior-build/1100-6522609/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-12T00:15:00+00:00
+
+<p> </p><p dir="ltr">The best <strong><a href="https://www.gamespot.com/articles/dragons-dogma-2-guides-hub/1100-6522010/">Dragon's Dogma 2</a> Warrior build</strong> does more than just hit things really hard, though it does that too. It gives your Warrior a chance to sustain themselves as much as possible while dealing with threats your less sturdy party members might have trouble tackling.</p><p dir="ltr">Our Dragon's Dogma 2 Warrior build guide explains how to play Warrior well and which skills have the most to offer. If you're wondering where Warrior falls in the overall scheme of Vocations, check out our <a href="https://www.gamespot.com/gallery/dragons-dogma-2-best-vocation-class-tier-list/2900-5204/">Dragon's Dogma 2 Vocation tier list</a>.</p><a href="https://www.gamespot.com/articles/dragons-dogma-2-best-warrior-build/1100-6522609/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
