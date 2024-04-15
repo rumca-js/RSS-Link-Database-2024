@@ -1,0 +1,51 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## Porting Modern Windows Applications to Windows 95
+ - [https://hackaday.com/2024/04/14/porting-modern-windows-applications-to-windows-95](https://hackaday.com/2024/04/14/porting-modern-windows-applications-to-windows-95)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-14T20:00:13+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="240" src="https://hackaday.com/wp-content/uploads/2024/04/dot_net_framework_logo.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Windows 95 was an amazing operating system that would forever transform the world of home computing, setting the standard for user interaction on a desktop and quite possibly was the <a class="read-more" href="https://hackaday.com/2024/04/14/porting-modern-windows-applications-to-windows-95/">&#8230;read more</a>
+
+## Danish Vintage LRC Meter Reveals Inside
+ - [https://hackaday.com/2024/04/14/danish-vintage-lrc-meter-reveals-inside](https://hackaday.com/2024/04/14/danish-vintage-lrc-meter-reveals-inside)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-14T17:00:26+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/meter_6bbae7.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Modern test equipment is great, but there&#8217;s something about a big meter with a swinging needle and a mirror for parallax correction that makes a device look like real gear. <a class="read-more" href="https://hackaday.com/2024/04/14/danish-vintage-lrc-meter-reveals-inside/">&#8230;read more</a>
+
+## The BBC Micro, Lovingly Simulated in VR
+ - [https://hackaday.com/2024/04/14/the-bbc-micro-lovingly-simulated-in-vr](https://hackaday.com/2024/04/14/the-bbc-micro-lovingly-simulated-in-vr)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-14T14:00:44+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/virtualbeeb-in-vr-2.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>The BBC Micro was many peoples&#8217; first exposure to home computing, and thanks to [Dominic Pajak], you can fire up this beloved hardware in WebXR. Is it an emulator? Yes, <a class="read-more" href="https://hackaday.com/2024/04/14/the-bbc-micro-lovingly-simulated-in-vr/">&#8230;read more</a>
+
+## Dump a Code Repository as a Text File, For Easier Sharing with Chatbots
+ - [https://hackaday.com/2024/04/14/dump-a-code-repository-as-a-text-file-for-easier-sharing-with-chatbots](https://hackaday.com/2024/04/14/dump-a-code-repository-as-a-text-file-for-easier-sharing-with-chatbots)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-14T11:00:20+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="484" src="https://hackaday.com/wp-content/uploads/2023/03/AIcoding.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Some LLMs (Large Language Models) can act as useful programming assistants when provided with a project&#8217;s source code, but experimenting with this can get a little tricky if the chatbot <a class="read-more" href="https://hackaday.com/2024/04/14/dump-a-code-repository-as-a-text-file-for-easier-sharing-with-chatbots/">&#8230;read more</a>
+
+## A Slew Of AI Courses To Get Yourself Up to Speed
+ - [https://hackaday.com/2024/04/14/a-slew-of-ai-courses-to-get-yourself-up-to-speed](https://hackaday.com/2024/04/14/a-slew-of-ai-courses-to-get-yourself-up-to-speed)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-14T08:00:47+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="489" src="https://hackaday.com/wp-content/uploads/2024/04/ai.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>When there&#8217;s a new technology, there&#8217;s always a slew of people who want to educate you about it. Some want to teach you to use their tools, some want you <a class="read-more" href="https://hackaday.com/2024/04/14/a-slew-of-ai-courses-to-get-yourself-up-to-speed/">&#8230;read more</a>
+
+## When Your Level Shifter Is Too Smart To Function
+ - [https://hackaday.com/2024/04/13/when-your-level-shifter-is-too-smart-to-function](https://hackaday.com/2024/04/13/when-your-level-shifter-is-too-smart-to-function)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-14T05:00:39+00:00
+
+<div><img alt="Logic analyzer capture, showing the rails constantly oscillating at a high rate" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/hadimg_ti_levelshift_feat.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>By now, 3.3V has become a comfortable and common logic level for basically anything you might be hacking. However, sometimes, you still need to interface your GPIOs with devices that <a class="read-more" href="https://hackaday.com/2024/04/13/when-your-level-shifter-is-too-smart-to-function/">&#8230;read more</a>
+
+## M17 Digital Communications Go From Strength To Strength
+ - [https://hackaday.com/2024/04/13/m17-digital-communications-go-from-strength-to-strength](https://hackaday.com/2024/04/13/m17-digital-communications-go-from-strength-to-strength)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-14T02:00:50+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/m17-featured.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>The world of amateur radio is like many other fields in that there has been a move underway from analogue to digital modes. In fact, amateur radio has often led <a class="read-more" href="https://hackaday.com/2024/04/13/m17-digital-communications-go-from-strength-to-strength/">&#8230;read more</a>
+

@@ -1,0 +1,51 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## International Game Developers Association calls for studio leaders to do more to protect jobs
+ - [https://www.eurogamer.net/international-game-developers-association-calls-for-studio-leaders-to-do-more-to-protect-jobs?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/international-game-developers-association-calls-for-studio-leaders-to-do-more-to-protect-jobs?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-14T20:12:46+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2024-04-14-at-21.09.16.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The International Game Developers Association (IGDA) has called for the games industry to do more to protect developer jobs and prevent further layoffs.</p><p>Citing "more than 8,700" job losses this year alone, the IGDA said that "the gravity of this situation and its impact on the industry cannot be overstated", and called for studio leaders to "implement sustainable measures within their organisations to avoid unnecessary layoffs".</p><p>"Developers hold legitimate concerns regarding the stability of their careers and the industry as a whole," the organisation said in a statement. "Talented individuals, particularly those from historically marginalised communities, may seek opportunities beyond the games industry due to the instability, leading to skill gaps and underrepresentation of various demographics.</p> <p><a
+
+## Fallout 4's next-gen update delays the release of "DLC-sized" fan mod Fallout: London
+ - [https://www.eurogamer.net/fallout-4s-next-gen-update-delays-the-release-of-dlc-sized-fan-mod-fallout-london?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/fallout-4s-next-gen-update-delays-the-release-of-dlc-sized-fan-mod-fallout-london?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-14T19:50:19+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2023-12-24-at-15.59.23.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Fallout: London, the DLC-sized mod for Fallout 4, has been delayed.</p><p>The mod &ndash; which allows us to visit the previously unexplored post-apocalyptic environment of London &ndash; was slated to drop on 23rd April 2024, but Dean Carter &ndash; team lead of the voluntary dev team &ndash; confirmed over the weekend that <a href="https://www.eurogamer.net/fallout-4-free-next-gen-update-finally-arrives-this-month">the arrival of the long-awaited next-gen update for Fallout 4</a>, which drops just two days after London's scheduled release, means "the past four years of [Team Folon's] work stands to simply break".</p><p>"As you can imagine, this will impact us and will cause complications for our release," Carter explained in an update video (see above).</p> <p><a href="https://www.eurogamer.net/fallout-4s-next-gen-up
+
+## Here's what next week's Texas Chain Saw Massacre patch will address
+ - [https://www.eurogamer.net/heres-what-next-weeks-texas-chain-saw-massacre-patch-will-address?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/heres-what-next-weeks-texas-chain-saw-massacre-patch-will-address?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-14T18:51:45+00:00
+
+<img src="https://assetsio.gnwcdn.com/Texas-Chainsaw-Massacre.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Gun Interactive has confirmed a fix for Texas Chain Saw Massacre's latest Victim is on the way.</p><p>Addressing players via its social media channels and the game's subreddit, Gun revealed that issues regarding Virginia's skill tree and her unlockable cosmetics should be resolved when the patch rolls out on 16th April.</p><p>That's not all the team detailed, either. Gun Interactive says it's now fixed &ndash; albeit only "in testing" for now &ndash; a handful of pressing bugs, including Family members being unable to be door stunned, Danny's inability to tamper anything, and Sissy's OP poison permeating through wall gaps, crawl spaces, and barricades.</p> <p><a href="https://www.eurogamer.net/heres-what-next-weeks-texas-chain-saw-massacre-patch-will-address?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a>
+
+## Fallout has "more than doubled" its player counts on Steam
+ - [https://www.eurogamer.net/fallout-has-more-than-doubled-its-player-counts-on-steam?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/fallout-has-more-than-doubled-its-player-counts-on-steam?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-14T18:23:36+00:00
+
+<img src="https://assetsio.gnwcdn.com/Fallout-Amazon-promo-art.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Fallout has "more than doubled its concurrent players" on Steam following the release of Amazon Prime's blockbuster TV series.</p><p>Despite approaching almost a decade old, Fallout 4 is currently sitting in SteamDB's top 20 games by concurrent numbers, making it one of the most popular games on Steam this weekend.</p><p>But it's not just Fallout 4 that's seen a resurgence in players; Fallout 76 and Fallout New Vegas have <a href="https://steamdb.info/charts/?compare=22380,377160,1151340&amp;week">similarly seen their concurrent player base increase</a> since the TV series debuted on the streaming channel last week.</p> <p><a href="https://www.eurogamer.net/fallout-has-more-than-doubled-its-player-counts-on-steam?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## EA's Black Panther game will be open world, recruitment ad suggests
+ - [https://www.eurogamer.net/eas-black-panther-game-will-be-open-world-recruitment-ad-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/eas-black-panther-game-will-be-open-world-recruitment-ad-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-14T15:51:08+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2024-04-14-at-16.48.27.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>EA's Black Panther game will be open world.</p><p>That's according to a new job advert posted on the <a href="https://ea.gr8people.com/jobs/183834/principal-sandbox-designer?locale=en">Electronic Arts website</a>, which is recruiting for "principal sandbox designer" at Cliffhanger Games, which states it is "focusing on blockbuster action-adventure games and pioneering next-generation emergent storytelling beginning with Marvel's Black Panther".</p><p>"Reporting to the Design Manager, the Sr. Technical Designer Sandbox will be instrumental in designing and populating encounters, systems, and gameplay within a dynamic and evolving open world," the advertisement says.</p> <p><a href="https://www.eurogamer.net/eas-black-panther-game-will-be-open-world-recruitment-ad-suggests?utm_source=feed&amp;utm_medium=rss&amp;utm_campa
+
+## Explore Azeroth in first-person with this new World Of Warcraft VR Mod
+ - [https://www.eurogamer.net/explore-azeroth-in-first-person-with-this-new-world-of-warcraft-vr-mod?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/explore-azeroth-in-first-person-with-this-new-world-of-warcraft-vr-mod?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-14T13:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/b1_aeXnQ4L.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Before you watch this week&rsquo;s episode of VR Corner, please bear in mind that I&rsquo;ve never really played World of Warcraft before. That means you won&rsquo;t see any high level raiding in my coverage, but you will get a lot of confused bumbling, cow killing and NPC kissing action instead. So a pretty standard VR Corner then!</p><p>Developed by veteran Flat2VR modders Marulu and Streetrat, World of Warcraft VR is a work in progress mod that lets you play World of Warcraft in VR and even experience the world of Azeroth from a first-person perspective too. This means that veteran players will finally be able to virtually visit iconic locations from the game and inspect the assets and inhabitants as if they were actually there.</p><p>While World of Warcraft VR does feature 6 DoF head tracking and VR motion controls, VR interactions are m
+
+## Let's get evil in Baldur's Gate 3: Part 6 - Oh god it was me all along
+ - [https://www.eurogamer.net/lets-get-evil-in-baldurs-gate-3-part-6-oh-god-it-was-me-all-along?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/lets-get-evil-in-baldurs-gate-3-part-6-oh-god-it-was-me-all-along?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-14T09:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/baldurs_gate_3_dark_urge_evil_bertie.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><em>Welcome back! </em><a href="https://www.eurogamer.net/topics/lets-get-evil"><em>Let's Get Evil</em></a><em> is a monthly series for </em><a href="https://www.eurogamer.net/subscribe"><em>Eurogamer Supporters</em></a><em> in which Bertie rampages through games being as evil as he can. It sounds easy, but is it? And how much freedom to be horrible does each game afford? There's only one way to find out.</em></p><p><em>Note, spoilers will naturally occur as Bertie gets further and further through Baldur's Gate 3. Currently, he's dealing with events in Act 3, especially those revolving around the Dark Urge.</em></p><p>We're nearly there, the end is drawing in. I've travelled long and far and finally arrived in the city of Baldur's Gate, where I discover something that rattles me to my core: a reveal of ground-shakin
+

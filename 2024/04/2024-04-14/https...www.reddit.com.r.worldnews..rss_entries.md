@@ -1,0 +1,310 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## At least 15 people dead and up to 60 missing in Congo landslide, officials say
+ - [https://www.reddit.com/r/worldnews/comments/1c458ui/at_least_15_people_dead_and_up_to_60_missing_in](https://www.reddit.com/r/worldnews/comments/1c458ui/at_least_15_people_dead_and_up_to_60_missing_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T21:47:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c458ui/at_least_15_people_dead_and_up_to_60_missing_in/"> <img alt="At least 15 people dead and up to 60 missing in Congo landslide, officials say" src="https://external-preview.redd.it/XRw85KbbaIM48Rx7AYwn2t8Zki6u_HXDYvsCrmhPJFw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=04eea95e5fb432126c8a570a8d257de204efa22a" title="At least 15 people dead and up to 60 missing in Congo landslide, officials say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Advanced_Drink_8536"> /u/Advanced_Drink_8536 </a> <br /> <span><a href="https://www.ctvnews.ca/world/at-least-15-people-dead-and-up-to-60-missing-in-congo-landslide-officials-say-1.6846710">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c458ui/at_least_15_people_dead_and_up_to_60_missing_in/">[comments]</a></span> </td></tr></table>
+
+## Ukraine war: Russia is following up initial attacks with repeat strikes targeting rescuers treating the wounded
+ - [https://www.reddit.com/r/worldnews/comments/1c44j7j/ukraine_war_russia_is_following_up_initial](https://www.reddit.com/r/worldnews/comments/1c44j7j/ukraine_war_russia_is_following_up_initial)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T21:17:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c44j7j/ukraine_war_russia_is_following_up_initial/"> <img alt="Ukraine war: Russia is following up initial attacks with repeat strikes targeting rescuers treating the wounded" src="https://external-preview.redd.it/ViJaZp2IAhf5LgkKFwRLTQ4kfl1amlL-LVYJJx2FmfU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c66cf7477c32033bd9a64aa988b58f49210a9e45" title="Ukraine war: Russia is following up initial attacks with repeat strikes targeting rescuers treating the wounded" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quixotus"> /u/Quixotus </a> <br /> <span><a href="https://www.bbc.com/news/world-europe-68761490">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c44j7j/ukraine_war_russia_is_following_up_initial/">[comments]</a></span> </td></tr></table>
+
+## UNSC to meet late on Sunday to discuss Iran’s missile and drone attack on Israel
+ - [https://www.reddit.com/r/worldnews/comments/1c41l3p/unsc_to_meet_late_on_sunday_to_discuss_irans](https://www.reddit.com/r/worldnews/comments/1c41l3p/unsc_to_meet_late_on_sunday_to_discuss_irans)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T19:17:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c41l3p/unsc_to_meet_late_on_sunday_to_discuss_irans/"> <img alt="UNSC to meet late on Sunday to discuss Iran’s missile and drone attack on Israel" src="https://external-preview.redd.it/fXadQJsdGxcQrLhG1fVV7Z4Bl5E5Tko--JWee-Ahv1E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87f90bb387d6705d83350277f33a350a442d8a80" title="UNSC to meet late on Sunday to discuss Iran’s missile and drone attack on Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/woshinoemi"> /u/woshinoemi </a> <br /> <span><a href="https://jpost.com/middle-east/iran-news/unsc-to-meet-late-sunday-on-irans-missile-and-drone-attack-on-israel-797029">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c41l3p/unsc_to_meet_late_on_sunday_to_discuss_irans/">[comments]</a></span> </td></tr></table>
+
+## Iran hails proxies for joining attack on Israel; IDF strikes Hezbollah in response
+ - [https://www.reddit.com/r/worldnews/comments/1c40rdp/iran_hails_proxies_for_joining_attack_on_israel](https://www.reddit.com/r/worldnews/comments/1c40rdp/iran_hails_proxies_for_joining_attack_on_israel)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T18:43:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c40rdp/iran_hails_proxies_for_joining_attack_on_israel/"> <img alt="Iran hails proxies for joining attack on Israel; IDF strikes Hezbollah in response" src="https://external-preview.redd.it/lp20E6AtKuqql_EhDZlXpyhsq6-CahmlQ9aHIMyH3wA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2818e6af99b6a4e055dfbd7648287a170f3ea4d5" title="Iran hails proxies for joining attack on Israel; IDF strikes Hezbollah in response" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lithinanova"> /u/lithinanova </a> <br /> <span><a href="https://www.timesofisrael.com/iran-hails-proxies-for-joining-attack-on-israel-idf-strikes-hezbollah-in-response/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c40rdp/iran_hails_proxies_for_joining_attack_on_israel/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy warns against Russia’s and Iran’s coordinated 'terror’ attacks
+ - [https://www.reddit.com/r/worldnews/comments/1c3z9xi/zelenskyy_warns_against_russias_and_irans](https://www.reddit.com/r/worldnews/comments/1c3z9xi/zelenskyy_warns_against_russias_and_irans)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T17:42:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3z9xi/zelenskyy_warns_against_russias_and_irans/"> <img alt="Zelenskyy warns against Russia’s and Iran’s coordinated 'terror’ attacks" src="https://external-preview.redd.it/iBViofSlEM965UIOgqltufG4yzN8HizSQOJN_lbXz2U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61d401c552170d790c5b5a9b5e51aa9b8995e53e" title="Zelenskyy warns against Russia’s and Iran’s coordinated 'terror’ attacks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br /> <span><a href="https://www.voanews.com/a/zelenskyy-warns-against-russia-s-and-iran-s-coordinated-terror-attacks-/7569665.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3z9xi/zelenskyy_warns_against_russias_and_irans/">[comments]</a></span> </td></tr></table>
+
+## Von der Leyen castigates far-right AfD over Russiagate scandal
+ - [https://www.reddit.com/r/worldnews/comments/1c3yrug/von_der_leyen_castigates_farright_afd_over](https://www.reddit.com/r/worldnews/comments/1c3yrug/von_der_leyen_castigates_farright_afd_over)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T17:21:20+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/PotentialEbb391"> /u/PotentialEbb391 </a> <br /> <span><a href="https://www.politico.eu/article/ursula-von-der-leyen-germany-afd-russia-scandal-voice-of-europe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3yrug/von_der_leyen_castigates_farright_afd_over/">[comments]</a></span>
+
+## IDF to draft two reserve brigades for Gaza operations after Iran attack - The Jerusalem post
+ - [https://www.reddit.com/r/worldnews/comments/1c3xsnf/idf_to_draft_two_reserve_brigades_for_gaza](https://www.reddit.com/r/worldnews/comments/1c3xsnf/idf_to_draft_two_reserve_brigades_for_gaza)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T16:39:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3xsnf/idf_to_draft_two_reserve_brigades_for_gaza/"> <img alt="IDF to draft two reserve brigades for Gaza operations after Iran attack - The Jerusalem post" src="https://external-preview.redd.it/_SyVwqC3vXTQiJPVEyraV7r40EnG0Y60CSCZigBp1N0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a8050587726ee509df2ef970e3ac5a94f6da5c2" title="IDF to draft two reserve brigades for Gaza operations after Iran attack - The Jerusalem post" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Delphidouche"> /u/Delphidouche </a> <br /> <span><a href="https://www.jpost.com/breaking-news/article-797026">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3xsnf/idf_to_draft_two_reserve_brigades_for_gaza/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Iran attacks Israel (Thread 4)
+ - [https://www.reddit.com/r/worldnews/comments/1c3x0pj/rworldnews_live_thread_iran_attacks_israel_thread](https://www.reddit.com/r/worldnews/comments/1c3x0pj/rworldnews_live_thread_iran_attacks_israel_thread)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T16:05:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3x0pj/rworldnews_live_thread_iran_attacks_israel_thread/"> <img alt="/r/WorldNews Live Thread: Iran attacks Israel (Thread 4)" src="https://a.thumbs.redditmedia.com/Mp0Gx_HomhJWx5C7CqRbB60Ywgza6uqzNaRuHwatBz4.jpg" title="/r/WorldNews Live Thread: Iran attacks Israel (Thread 4)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/1bsso361afr0r">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3x0pj/rworldnews_live_thread_iran_attacks_israel_thread/">[comments]</a></span> </td></tr></table>
+
+## Slain Iranian general planned, executed Hamas’ massacre
+ - [https://www.reddit.com/r/worldnews/comments/1c3wdir/slain_iranian_general_planned_executed_hamas](https://www.reddit.com/r/worldnews/comments/1c3wdir/slain_iranian_general_planned_executed_hamas)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T15:37:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3wdir/slain_iranian_general_planned_executed_hamas/"> <img alt="Slain Iranian general planned, executed Hamas’ massacre" src="https://external-preview.redd.it/TlA3tCQ6PS_dq6upUSx4IehMWBoUa5K1fSYIU8ZTHVo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=46d04a640967f02f14e16b01d8a4d9a4fd2677db" title="Slain Iranian general planned, executed Hamas’ massacre" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/floralflames"> /u/floralflames </a> <br /> <span><a href="https://www.jpost.com/middle-east/iran-news/slain-iranian-general-planned-executed-hamas-massacre-797014">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3wdir/slain_iranian_general_planned_executed_hamas/">[comments]</a></span> </td></tr></table>
+
+## Iran attack was 'declaration of war', Israeli president says - but insists 'we are seeking peace'
+ - [https://www.reddit.com/r/worldnews/comments/1c3vubo/iran_attack_was_declaration_of_war_israeli](https://www.reddit.com/r/worldnews/comments/1c3vubo/iran_attack_was_declaration_of_war_israeli)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T15:13:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3vubo/iran_attack_was_declaration_of_war_israeli/"> <img alt="Iran attack was 'declaration of war', Israeli president says - but insists 'we are seeking peace'" src="https://external-preview.redd.it/MXnImZ77xaf03gbNS43JciuAj4FjK9SftXlKkEkNzM8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ddca0678a83a08705a44f1cf7da8f9670ba72e8" title="Iran attack was 'declaration of war', Israeli president says - but insists 'we are seeking peace'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HenzShuyi"> /u/HenzShuyi </a> <br /> <span><a href="https://news.sky.com/story/world-must-face-irans-evil-empire-israeli-president-says-13115263">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3vubo/iran_attack_was_declaration_of_war_israeli/">[comments]</a></span> </td></tr></table>
+
+## Israel will exact price from Iran when time is right, says war Cabinet minister
+ - [https://www.reddit.com/r/worldnews/comments/1c3vrhc/israel_will_exact_price_from_iran_when_time_is](https://www.reddit.com/r/worldnews/comments/1c3vrhc/israel_will_exact_price_from_iran_when_time_is)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T15:09:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3vrhc/israel_will_exact_price_from_iran_when_time_is/"> <img alt="Israel will exact price from Iran when time is right, says war Cabinet minister" src="https://external-preview.redd.it/Hv5IgKFNbYjyBJ9wTuZd6MBUtDiIu1l5sTOopp7yPHE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25e1d100d0f39d05378b46a77c0c2a50f837b2e4" title="Israel will exact price from Iran when time is right, says war Cabinet minister" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Greatfool19000"> /u/Greatfool19000 </a> <br /> <span><a href="https://www.channelnewsasia.com/world/israel-exact-price-iran-missile-drone-attack-middle-east-conflict-4264676?u">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3vrhc/israel_will_exact_price_from_iran_when_time_is/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy to US: Iran’s attack on Israel is ‘wake-up call’ to fortify America’s allies
+ - [https://www.reddit.com/r/worldnews/comments/1c3vpz5/zelenskyy_to_us_irans_attack_on_israel_is_wakeup](https://www.reddit.com/r/worldnews/comments/1c3vpz5/zelenskyy_to_us_irans_attack_on_israel_is_wakeup)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T15:07:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3vpz5/zelenskyy_to_us_irans_attack_on_israel_is_wakeup/"> <img alt="Zelenskyy to US: Iran’s attack on Israel is ‘wake-up call’ to fortify America’s allies" src="https://external-preview.redd.it/37nXYJjHxR2Z9mSL5OLy0rzCLJ7-sUqkpZ8lr1Cv_d4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ebc0e30496626e01c0ec13c46994b1104116a0df" title="Zelenskyy to US: Iran’s attack on Israel is ‘wake-up call’ to fortify America’s allies" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cobraronan"> /u/cobraronan </a> <br /> <span><a href="https://www.politico.eu/article/volodymyr-zelenskyy-us-iran-attack-israel-wake-up-call-allies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3vpz5/zelenskyy_to_us_irans_attack_on_israel_is_wakeup/">[comments]</a></span> </td></tr></table>
+
+## The New York Times: Netanyahu dropped retaliation against Iran after Biden call
+ - [https://www.reddit.com/r/worldnews/comments/1c3u3ov/the_new_york_times_netanyahu_dropped_retaliation](https://www.reddit.com/r/worldnews/comments/1c3u3ov/the_new_york_times_netanyahu_dropped_retaliation)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T13:53:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3u3ov/the_new_york_times_netanyahu_dropped_retaliation/"> <img alt="The New York Times: Netanyahu dropped retaliation against Iran after Biden call" src="https://external-preview.redd.it/839KbWpYQ9qLEMjUrBcB5aZlUxyUhVs-fV7nrdHmsWw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81fb40689356812b98cf11a609792dc1193ae904" title="The New York Times: Netanyahu dropped retaliation against Iran after Biden call" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LunarNinja_"> /u/LunarNinja_ </a> <br /> <span><a href="https://www.jns.org/nyt-netanyahu-dropped-retaliation-against-iran-after-biden-call/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3u3ov/the_new_york_times_netanyahu_dropped_retaliation/">[comments]</a></span> </td></tr></table>
+
+## 'You got a win. Take the win': Joe Biden tells Netanyahu
+ - [https://www.reddit.com/r/worldnews/comments/1c3twdz/you_got_a_win_take_the_win_joe_biden_tells](https://www.reddit.com/r/worldnews/comments/1c3twdz/you_got_a_win_take_the_win_joe_biden_tells)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T13:43:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3twdz/you_got_a_win_take_the_win_joe_biden_tells/"> <img alt="'You got a win. Take the win': Joe Biden tells Netanyahu" src="https://external-preview.redd.it/KN5_2wNyNPXbcDtD_FyyzL7FCs1MUYpVEKVb3In1E6U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=15a11a44ac48214f6a532859d10105fb62facc8e" title="'You got a win. Take the win': Joe Biden tells Netanyahu" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/world-news/2024/04/14/biden-tells-netanyahu-us-will-not-support-a-strike-on-iran/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3twdz/you_got_a_win_take_the_win_joe_biden_tells/">[comments]</a></span> </td></tr></table>
+
+## Iran threatens to hit US bases if Washington backs Israeli counterattack
+ - [https://www.reddit.com/r/worldnews/comments/1c3tt69/iran_threatens_to_hit_us_bases_if_washington](https://www.reddit.com/r/worldnews/comments/1c3tt69/iran_threatens_to_hit_us_bases_if_washington)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T13:39:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3tt69/iran_threatens_to_hit_us_bases_if_washington/"> <img alt="Iran threatens to hit US bases if Washington backs Israeli counterattack" src="https://external-preview.redd.it/bJtW4KrkUUednOrawz0VMTISl4w699u7KmVSDJFdPyk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b579222878d803fbdb5ea19055af1cd9616086e4" title="Iran threatens to hit US bases if Washington backs Israeli counterattack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yuri_2022"> /u/yuri_2022 </a> <br /> <span><a href="https://www.timesofisrael.com/iran-threatens-to-hit-us-bases-if-washington-backs-israeli-counterattack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3tt69/iran_threatens_to_hit_us_bases_if_washington/">[comments]</a></span> </td></tr></table>
+
+## Israel Says Hamas Rejected Cease-fire Proposal After Iran Attack
+ - [https://www.reddit.com/r/worldnews/comments/1c3tpw0/israel_says_hamas_rejected_ceasefire_proposal](https://www.reddit.com/r/worldnews/comments/1c3tpw0/israel_says_hamas_rejected_ceasefire_proposal)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T13:34:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3tpw0/israel_says_hamas_rejected_ceasefire_proposal/"> <img alt="Israel Says Hamas Rejected Cease-fire Proposal After Iran Attack" src="https://external-preview.redd.it/Rm-qKZ9CaBSEWGaHe-rQYgv5z4GcMfwCPr74fVkxrq8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=039377e487b0ccd211d9c23a510d665f773d4bf4" title="Israel Says Hamas Rejected Cease-fire Proposal After Iran Attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloomberg"> /u/bloomberg </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-04-14/israel-says-hamas-rejected-cease-fire-proposal-after-iran-attack?srnd=homepage-americas">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3tpw0/israel_says_hamas_rejected_ceasefire_proposal/">[comments]</a></span> </td></tr></table>
+
+## All eyes on Israel's response to Iran drone and missile attacks
+ - [https://www.reddit.com/r/worldnews/comments/1c3t6om/all_eyes_on_israels_response_to_iran_drone_and](https://www.reddit.com/r/worldnews/comments/1c3t6om/all_eyes_on_israels_response_to_iran_drone_and)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T13:07:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3t6om/all_eyes_on_israels_response_to_iran_drone_and/"> <img alt="All eyes on Israel's response to Iran drone and missile attacks" src="https://external-preview.redd.it/kTRr2ZYNA8tUdbYqEDcp8qVn5PxXOVs19moGUON2AnM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2ccec99876811c46b5314c9dc0dff9446959d7c" title="All eyes on Israel's response to Iran drone and missile attacks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EchoInTheHoller"> /u/EchoInTheHoller </a> <br /> <span><a href="https://www.bbc.com/news/world-middle-east-68812094">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3t6om/all_eyes_on_israels_response_to_iran_drone_and/">[comments]</a></span> </td></tr></table>
+
+## Biden Seeks to Head Off Escalation After Israel’s Successful Defense - NYT
+ - [https://www.reddit.com/r/worldnews/comments/1c3t6ek/biden_seeks_to_head_off_escalation_after_israels](https://www.reddit.com/r/worldnews/comments/1c3t6ek/biden_seeks_to_head_off_escalation_after_israels)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T13:06:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3t6ek/biden_seeks_to_head_off_escalation_after_israels/"> <img alt="Biden Seeks to Head Off Escalation After Israel’s Successful Defense - NYT" src="https://external-preview.redd.it/eQYmevhmsz2O8JNpDw-Mo64AcTvd2ExpTcMxHNQ1Pi0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2647a979117290290914a80c4dd2157ae715821a" title="Biden Seeks to Head Off Escalation After Israel’s Successful Defense - NYT" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/exophades"> /u/exophades </a> <br /> <span><a href="https://www.nytimes.com/2024/04/14/world/middleeast/biden-netanyahu-israel-iran-strikes.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3t6ek/biden_seeks_to_head_off_escalation_after_israels/">[comments]</a></span> </td></tr></table>
+
+## Ex-US ambassador sentenced to 15 years in prison for serving as secret agent for Cuba
+ - [https://www.reddit.com/r/worldnews/comments/1c3sbx2/exus_ambassador_sentenced_to_15_years_in_prison](https://www.reddit.com/r/worldnews/comments/1c3sbx2/exus_ambassador_sentenced_to_15_years_in_prison)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T12:22:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3sbx2/exus_ambassador_sentenced_to_15_years_in_prison/"> <img alt="Ex-US ambassador sentenced to 15 years in prison for serving as secret agent for Cuba" src="https://external-preview.redd.it/Z8XWv6w3bAJ931XXbubRw03ZACZ9-019CZIQmGB6zuc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fda3cad67cf45ae86881eeb62072a9b4557f2a29" title="Ex-US ambassador sentenced to 15 years in prison for serving as secret agent for Cuba" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ecstatic_Ad_4476"> /u/Ecstatic_Ad_4476 </a> <br /> <span><a href="https://www.theguardian.com/world/2024/apr/12/us-ambassador-sentenced-secret-agent-cuba">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3sbx2/exus_ambassador_sentenced_to_15_years_in_prison/">[comments]</a></span> </td></tr></table>
+
+## Russia calls for restraint after Iranian strikes on Israel
+ - [https://www.reddit.com/r/worldnews/comments/1c3sabh/russia_calls_for_restraint_after_iranian_strikes](https://www.reddit.com/r/worldnews/comments/1c3sabh/russia_calls_for_restraint_after_iranian_strikes)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T12:19:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3sabh/russia_calls_for_restraint_after_iranian_strikes/"> <img alt="Russia calls for restraint after Iranian strikes on Israel" src="https://external-preview.redd.it/mKqHVAGaLWiUITRbgNRDoP35M9U5u0blA-Wx_P_WJ-c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28283100db87356cfdaee78c5280027752fa681d" title="Russia calls for restraint after Iranian strikes on Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flamactor"> /u/Flamactor </a> <br /> <span><a href="https://www.reuters.com/world/middle-east/russia-calls-restraint-after-iranian-strikes-israel-2024-04-14/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3sabh/russia_calls_for_restraint_after_iranian_strikes/">[comments]</a></span> </td></tr></table>
+
+## 'Major escalation': EU leaders rally against Iran's attack on Israel
+ - [https://www.reddit.com/r/worldnews/comments/1c3rqjd/major_escalation_eu_leaders_rally_against_irans](https://www.reddit.com/r/worldnews/comments/1c3rqjd/major_escalation_eu_leaders_rally_against_irans)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T11:49:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3rqjd/major_escalation_eu_leaders_rally_against_irans/"> <img alt="'Major escalation': EU leaders rally against Iran's attack on Israel" src="https://external-preview.redd.it/JjTRSs3T_MzsH7CElfUvRTTJ23tAmLyv9OWK3apH4UE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bad0f7898c849361f88b8326753b94477f00092" title="'Major escalation': EU leaders rally against Iran's attack on Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/euronews-english"> /u/euronews-english </a> <br /> <span><a href="https://www.euronews.com/2024/04/14/major-escalation-eu-leaders-rally-against-irans-attack-on-israel">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3rqjd/major_escalation_eu_leaders_rally_against_irans/">[comments]</a></span> </td></tr></table>
+
+## Temperatures in parts of Spain up to 16C higher than normal
+ - [https://www.reddit.com/r/worldnews/comments/1c3rn8j/temperatures_in_parts_of_spain_up_to_16c_higher](https://www.reddit.com/r/worldnews/comments/1c3rn8j/temperatures_in_parts_of_spain_up_to_16c_higher)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T11:44:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3rn8j/temperatures_in_parts_of_spain_up_to_16c_higher/"> <img alt="Temperatures in parts of Spain up to 16C higher than normal" src="https://external-preview.redd.it/xS3pjpaF91_pPbLqWLO8KROwt_tfSR2kv7FDETrBym0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae03bf8254c82aa349cbf5ed19330f6acb1f1649" title="Temperatures in parts of Spain up to 16C higher than normal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hob-999"> /u/Hob-999 </a> <br /> <span><a href="https://news.sky.com/story/temperatures-in-parts-of-spain-up-to-16c-higher-than-normal-13115055">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3rn8j/temperatures_in_parts_of_spain_up_to_16c_higher/">[comments]</a></span> </td></tr></table>
+
+## US helps Israel shoot down 'nearly all' Iran-launched attack drones as Biden pledges support
+ - [https://www.reddit.com/r/worldnews/comments/1c3rkgu/us_helps_israel_shoot_down_nearly_all](https://www.reddit.com/r/worldnews/comments/1c3rkgu/us_helps_israel_shoot_down_nearly_all)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T11:39:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3rkgu/us_helps_israel_shoot_down_nearly_all/"> <img alt="US helps Israel shoot down 'nearly all' Iran-launched attack drones as Biden pledges support" src="https://external-preview.redd.it/3BpuHExwCPCpzgMPiUIHjJMHsBPP-xuaqtPJ7Fr3pCE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af0170eb5080548e664a3f55faf48d512bf1f0dc" title="US helps Israel shoot down 'nearly all' Iran-launched attack drones as Biden pledges support" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Doomathemoonman"> /u/Doomathemoonman </a> <br /> <span><a href="https://apnews.com/article/c57e89a9cbe178b20b53bac404a86728">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3rkgu/us_helps_israel_shoot_down_nearly_all/">[comments]</a></span> </td></tr></table>
+
+## Bullish Iran hails attack on Israel as a success and says operation is over
+ - [https://www.reddit.com/r/worldnews/comments/1c3rftr/bullish_iran_hails_attack_on_israel_as_a_success](https://www.reddit.com/r/worldnews/comments/1c3rftr/bullish_iran_hails_attack_on_israel_as_a_success)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T11:31:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3rftr/bullish_iran_hails_attack_on_israel_as_a_success/"> <img alt="Bullish Iran hails attack on Israel as a success and says operation is over" src="https://external-preview.redd.it/N55P1Q1IK_L8S77ges1oLP7t-2XWj9yEQtnEaAr0SKE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d18ef68653f0a26f55d8d3b12f280c2479a747a" title="Bullish Iran hails attack on Israel as a success and says operation is over" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cobraronan"> /u/cobraronan </a> <br /> <span><a href="https://www.theguardian.com/world/2024/apr/14/bullish-iran-hails-attack-israel-success-operation-over">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3rftr/bullish_iran_hails_attack_on_israel_as_a_success/">[comments]</a></span> </td></tr></table>
+
+## Iran state TV airs clip of blaze in Chile, claims it shows destruction in Israel
+ - [https://www.reddit.com/r/worldnews/comments/1c3pafe/iran_state_tv_airs_clip_of_blaze_in_chile_claims](https://www.reddit.com/r/worldnews/comments/1c3pafe/iran_state_tv_airs_clip_of_blaze_in_chile_claims)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T09:08:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3pafe/iran_state_tv_airs_clip_of_blaze_in_chile_claims/"> <img alt="Iran state TV airs clip of blaze in Chile, claims it shows destruction in Israel" src="https://external-preview.redd.it/pR02-l6XGhum1u3o7FQYs1X8jOGuNGw_Nim8qwXG4sU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c74d52163f053e8f2e7bfd76501e3df8739d218" title="Iran state TV airs clip of blaze in Chile, claims it shows destruction in Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br /> <span><a href="https://www.timesofisrael.com/iran-state-tv-airs-clip-of-blaze-in-chile-claims-it-shows-destruction-in-israel/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3pafe/iran_state_tv_airs_clip_of_blaze_in_chile_claims/">[comments]</a></span> </td></tr></table>
+
+## Japan PM strongly condemns Iran attack on Israel, conflict escalation
+ - [https://www.reddit.com/r/worldnews/comments/1c3p9kf/japan_pm_strongly_condemns_iran_attack_on_israel](https://www.reddit.com/r/worldnews/comments/1c3p9kf/japan_pm_strongly_condemns_iran_attack_on_israel)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T09:07:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3p9kf/japan_pm_strongly_condemns_iran_attack_on_israel/"> <img alt="Japan PM strongly condemns Iran attack on Israel, conflict escalation" src="https://external-preview.redd.it/TrMTZesvEhzWB-NmnxhuA24YNXMoVu5_cXoeOOKLUDU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7d3704faa4e76abd49dfffbd344e96b655edcca" title="Japan PM strongly condemns Iran attack on Israel, conflict escalation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br /> <span><a href="https://english.kyodonews.net/news/2024/04/54c7223f66fd-update1-japan-strongly-condemns-irans-attack-on-israel-foreign-minister.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3p9kf/japan_pm_strongly_condemns_iran_attack_on_israel/">[comments]</a></span> </td></tr></table>
+
+## UK PM Rishi Sunak condemns Iran's 'reckless' attack against Israel, deploys jets - Times of India
+ - [https://www.reddit.com/r/worldnews/comments/1c3p1f6/uk_pm_rishi_sunak_condemns_irans_reckless_attack](https://www.reddit.com/r/worldnews/comments/1c3p1f6/uk_pm_rishi_sunak_condemns_irans_reckless_attack)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T08:51:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3p1f6/uk_pm_rishi_sunak_condemns_irans_reckless_attack/"> <img alt="UK PM Rishi Sunak condemns Iran's 'reckless' attack against Israel, deploys jets - Times of India" src="https://external-preview.redd.it/TGrKWY85gZt_aXOMToN9XypnPXjyieb6dObKQxNjCmc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=535f3bfb79f2e8b2c704dfe1b4c0bde005aa8b1d" title="UK PM Rishi Sunak condemns Iran's 'reckless' attack against Israel, deploys jets - Times of India" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PuzzledAd7482"> /u/PuzzledAd7482 </a> <br /> <span><a href="https://timesofindia.indiatimes.com/world/uk/uk-pm-rishi-sunak-condemns-irans-reckless-attack-against-israel-deploys-jets/articleshow/109286083.cms?_gl=1*pg6tka*_ga*YW1wLUVQc0dnMXNjS05xbTBmd1dQbUlnaWdyTkRJaWNQSnI4UmJlMWNjR29nUGpTSm5FNVNMSGNVYk51UkpBbFc2WVE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/
+
+## U.S., U.K. Widen Ban on Russian Metals in Bid to Disrupt Revenues
+ - [https://www.reddit.com/r/worldnews/comments/1c3p0fv/us_uk_widen_ban_on_russian_metals_in_bid_to](https://www.reddit.com/r/worldnews/comments/1c3p0fv/us_uk_widen_ban_on_russian_metals_in_bid_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T08:50:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3p0fv/us_uk_widen_ban_on_russian_metals_in_bid_to/"> <img alt="U.S., U.K. Widen Ban on Russian Metals in Bid to Disrupt Revenues" src="https://external-preview.redd.it/S8IB-kmgVL5IXcjiurAVSj8bHDJHOzVwSGFIHyZntWw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93eeffb43aaa93318817bdfb0964d83d13a2ec39" title="U.S., U.K. Widen Ban on Russian Metals in Bid to Disrupt Revenues" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gjrts"> /u/Gjrts </a> <br /> <span><a href="https://www.themoscowtimes.com/2024/04/13/us-uk-widen-ban-on-russian-metals-in-bid-to-disrupt-revenues-a84833">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3p0fv/us_uk_widen_ban_on_russian_metals_in_bid_to/">[comments]</a></span> </td></tr></table>
+
+## Iran vows 'next punishment' if Israel retaliates after unprecedented attack
+ - [https://www.reddit.com/r/worldnews/comments/1c3odtn/iran_vows_next_punishment_if_israel_retaliates](https://www.reddit.com/r/worldnews/comments/1c3odtn/iran_vows_next_punishment_if_israel_retaliates)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T08:06:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3odtn/iran_vows_next_punishment_if_israel_retaliates/"> <img alt="Iran vows 'next punishment' if Israel retaliates after unprecedented attack" src="https://external-preview.redd.it/X0vHwOLiAv4fY_6qzXxrRjYCBlKa-NTkiY2_1u4jqB0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e94ee8e8df7176733fe6e194f71f09ebb106c25a" title="Iran vows 'next punishment' if Israel retaliates after unprecedented attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/euronews-english"> /u/euronews-english </a> <br /> <span><a href="https://www.euronews.com/2024/04/14/iran-retaliates-by-launching-drone-strikes-on-israel">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3odtn/iran_vows_next_punishment_if_israel_retaliates/">[comments]</a></span> </td></tr></table>
+
+## German Defense Chief compares Putin's actions to Nazi annexation of Czechoslovak territory
+ - [https://www.reddit.com/r/worldnews/comments/1c3nqyk/german_defense_chief_compares_putins_actions_to](https://www.reddit.com/r/worldnews/comments/1c3nqyk/german_defense_chief_compares_putins_actions_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T07:24:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3nqyk/german_defense_chief_compares_putins_actions_to/"> <img alt="German Defense Chief compares Putin's actions to Nazi annexation of Czechoslovak territory" src="https://external-preview.redd.it/1PGHck377sLxZPXxJ2J6jTBi2--GtRpcxuYIUXTDsCw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=358f650eac803602009e8d5e3d448a44c7c89ca9" title="German Defense Chief compares Putin's actions to Nazi annexation of Czechoslovak territory" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PotentialEbb391"> /u/PotentialEbb391 </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-04-11/german-defense-chief-compares-putin-to-hitler-at-churchill-event?leadSource=reddit_wall">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3nqyk/german_defense_chief_compares_putins_actions_to/">[comments]</a></span> </td></tr></table>
+
+## France tells French citizens not to travel to Iran, Lebanon, Israel, Palestinian Territories
+ - [https://www.reddit.com/r/worldnews/comments/1c3neyn/france_tells_french_citizens_not_to_travel_to](https://www.reddit.com/r/worldnews/comments/1c3neyn/france_tells_french_citizens_not_to_travel_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T07:02:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3neyn/france_tells_french_citizens_not_to_travel_to/"> <img alt="France tells French citizens not to travel to Iran, Lebanon, Israel, Palestinian Territories" src="https://external-preview.redd.it/mKqHVAGaLWiUITRbgNRDoP35M9U5u0blA-Wx_P_WJ-c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28283100db87356cfdaee78c5280027752fa681d" title="France tells French citizens not to travel to Iran, Lebanon, Israel, Palestinian Territories" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AlertTangerine"> /u/AlertTangerine </a> <br /> <span><a href="https://www.reuters.com/world/france-tells-french-citizens-not-travel-iran-lebanon-israel-palestinian-2024-04-12/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3neyn/france_tells_french_citizens_not_to_travel_to/">[comments]</a></span> </td></tr></table>
+
+## Germany: 3 teens held over suspected Islamist attack plans – DW
+ - [https://www.reddit.com/r/worldnews/comments/1c3nb03/germany_3_teens_held_over_suspected_islamist](https://www.reddit.com/r/worldnews/comments/1c3nb03/germany_3_teens_held_over_suspected_islamist)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T06:56:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3nb03/germany_3_teens_held_over_suspected_islamist/"> <img alt="Germany: 3 teens held over suspected Islamist attack plans – DW" src="https://external-preview.redd.it/4tSY4ixHimIuGfENkuzS3yJd_YJKyHz5eq3R4hZ0Rxo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd41f9f5cfb0905fc36a7d5613d140730b41d06e" title="Germany: 3 teens held over suspected Islamist attack plans – DW" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AlertTangerine"> /u/AlertTangerine </a> <br /> <span><a href="https://www.dw.com/en/germany-3-teens-held-over-suspected-islamist-attack-plans/a-68800624">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3nb03/germany_3_teens_held_over_suspected_islamist/">[comments]</a></span> </td></tr></table>
+
+## Toronto protesters cheer as Iran fires drones at Israel
+ - [https://www.reddit.com/r/worldnews/comments/1c3mly2/toronto_protesters_cheer_as_iran_fires_drones_at](https://www.reddit.com/r/worldnews/comments/1c3mly2/toronto_protesters_cheer_as_iran_fires_drones_at)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T06:10:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3mly2/toronto_protesters_cheer_as_iran_fires_drones_at/"> <img alt="Toronto protesters cheer as Iran fires drones at Israel" src="https://external-preview.redd.it/93SlH9FX-N-F7sy4whf6Z3_tIpoJ9pVTFyvQCLHJ8UI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd72db7154f43eafd4d58fb3841b60eb3e8dc23e" title="Toronto protesters cheer as Iran fires drones at Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nondescriptun"> /u/nondescriptun </a> <br /> <span><a href="https://m.jpost.com/diaspora/antisemitism/article-796864">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3mly2/toronto_protesters_cheer_as_iran_fires_drones_at/">[comments]</a></span> </td></tr></table>
+
+## UN experts slam Pakistan on its lack of protection of Hindu, Christian women
+ - [https://www.reddit.com/r/worldnews/comments/1c3m87s/un_experts_slam_pakistan_on_its_lack_of](https://www.reddit.com/r/worldnews/comments/1c3m87s/un_experts_slam_pakistan_on_its_lack_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T05:46:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3m87s/un_experts_slam_pakistan_on_its_lack_of/"> <img alt="UN experts slam Pakistan on its lack of protection of Hindu, Christian women" src="https://external-preview.redd.it/vbaSavg33ZeC8Kx5YJsxujzR2Q50ev3OUPQCT57U6-k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b9fde549eba006d3511f476ef4b3e1c3a998a3b" title="UN experts slam Pakistan on its lack of protection of Hindu, Christian women" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BlitzOrion"> /u/BlitzOrion </a> <br /> <span><a href="https://indianexpress.com/article/world/un-experts-slam-pakistan-protection-hindu-christian-women-9266827/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3m87s/un_experts_slam_pakistan_on_its_lack_of/">[comments]</a></span> </td></tr></table>
+
+## Biden told Netanyahu U.S. won't support an Israeli counterattack on Iran
+ - [https://www.reddit.com/r/worldnews/comments/1c3l0c3/biden_told_netanyahu_us_wont_support_an_israeli](https://www.reddit.com/r/worldnews/comments/1c3l0c3/biden_told_netanyahu_us_wont_support_an_israeli)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T04:31:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3l0c3/biden_told_netanyahu_us_wont_support_an_israeli/"> <img alt="Biden told Netanyahu U.S. won't support an Israeli counterattack on Iran" src="https://external-preview.redd.it/gPeYBq0tI53MS-YRiAzKRYeJ-a2ybai_uvzJFzrzKFs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6bd861eeaefcc2cc356e1d15a50258d4ba83c0f" title="Biden told Netanyahu U.S. won't support an Israeli counterattack on Iran" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infidel8"> /u/Infidel8 </a> <br /> <span><a href="https://www.axios.com/2024/04/14/biden-netanyahu-iran-israel-us-wont-support">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3l0c3/biden_told_netanyahu_us_wont_support_an_israeli/">[comments]</a></span> </td></tr></table>
+
+## 17 Indians among 25 crew on ship seized by Iran; India in touch with Iran to secure release of Indians
+ - [https://www.reddit.com/r/worldnews/comments/1c3kxda/17_indians_among_25_crew_on_ship_seized_by_iran](https://www.reddit.com/r/worldnews/comments/1c3kxda/17_indians_among_25_crew_on_ship_seized_by_iran)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T04:26:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3kxda/17_indians_among_25_crew_on_ship_seized_by_iran/"> <img alt="17 Indians among 25 crew on ship seized by Iran; India in touch with Iran to secure release of Indians" src="https://external-preview.redd.it/lyH9mtpO-qH9Pa5kNU0PfRjbFa07IVr_MyYt85vz_HU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=13fdaf365d4ed84b204767a4807c321c0eb5716b" title="17 Indians among 25 crew on ship seized by Iran; India in touch with Iran to secure release of Indians" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/japef98"> /u/japef98 </a> <br /> <span><a href="https://economictimes.indiatimes.com/news/india/17-indians-among-25-crew-on-ship-seized-by-iran-india-in-touch-with-iranian-authorities-say-sources/articleshow/109273322.cms?from=mdr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3kxda/17_indians_among_25_crew_on_ship_seized_by_iran/">[comments]</a></spa
+
+## U.S. Shoots Down 'Nearly All' Iran-Launched Attack Drones As Biden Vows Support For Israel's Defense
+ - [https://www.reddit.com/r/worldnews/comments/1c3kow0/us_shoots_down_nearly_all_iranlaunched_attack](https://www.reddit.com/r/worldnews/comments/1c3kow0/us_shoots_down_nearly_all_iranlaunched_attack)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T04:12:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3kow0/us_shoots_down_nearly_all_iranlaunched_attack/"> <img alt="U.S. Shoots Down 'Nearly All' Iran-Launched Attack Drones As Biden Vows Support For Israel's Defense" src="https://external-preview.redd.it/IqAe62moE2tzJxETAH6k4BGVoCQLgTQpj2D7hBCo-00.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=85f90db41a81c4186406ebd155e1a2c784aa550e" title="U.S. Shoots Down 'Nearly All' Iran-Launched Attack Drones As Biden Vows Support For Israel's Defense" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/floralflames"> /u/floralflames </a> <br /> <span><a href="https://www.huffpost.com/entry/biden-iran-drones-us-israel_n_661b5011e4b08dfbe5a77f95">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3kow0/us_shoots_down_nearly_all_iranlaunched_attack/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 781, Part 1 (Thread #927)
+ - [https://www.reddit.com/r/worldnews/comments/1c3kilc/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1c3kilc/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T04:02:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3kilc/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 781, Part 1 (Thread #927)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 781, Part 1 (Thread #927)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3kilc/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Iran Fires Drones And Ballistic Missiles At Israel In Unprecedented Revenge Attack
+ - [https://www.reddit.com/r/worldnews/comments/1c3kdhu/iran_fires_drones_and_ballistic_missiles_at](https://www.reddit.com/r/worldnews/comments/1c3kdhu/iran_fires_drones_and_ballistic_missiles_at)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T03:54:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3kdhu/iran_fires_drones_and_ballistic_missiles_at/"> <img alt="Iran Fires Drones And Ballistic Missiles At Israel In Unprecedented Revenge Attack" src="https://external-preview.redd.it/atHdm1STnkqEnyHDlbAeCC_T33ENyBmSg9GT0D0vZpw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6dcf36fefc1fb3799e21d6001cd6a2c3b04ad94" title="Iran Fires Drones And Ballistic Missiles At Israel In Unprecedented Revenge Attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/notaredditreader"> /u/notaredditreader </a> <br /> <span><a href="https://www.huffpost.com/entry/iran-seize-container-ship-straight-of-hormuz_n_661a638be4b082d390857f09">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3kdhu/iran_fires_drones_and_ballistic_missiles_at/">[comments]</a></span> </td></tr></table>
+
+## Trump thought Ukraine ‘must be part of Russia’ during presidency, book says | The Guardian
+ - [https://www.reddit.com/r/worldnews/comments/1c3jwev/trump_thought_ukraine_must_be_part_of_russia](https://www.reddit.com/r/worldnews/comments/1c3jwev/trump_thought_ukraine_must_be_part_of_russia)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T03:25:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3jwev/trump_thought_ukraine_must_be_part_of_russia/"> <img alt="Trump thought Ukraine ‘must be part of Russia’ during presidency, book says | The Guardian" src="https://external-preview.redd.it/zVKKWTRzmsCEGtcs9juUYUCR0uj58lxwbMptZq4VQng.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eab4ce8a7a555a0ad96e284475bd01c1bd2ddf32" title="Trump thought Ukraine ‘must be part of Russia’ during presidency, book says | The Guardian" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ttkciar"> /u/ttkciar </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/apr/12/trump-russia-ukraine-book-comments">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3jwev/trump_thought_ukraine_must_be_part_of_russia/">[comments]</a></span> </td></tr></table>
+
+## Westfield Bondi mall attack: Sydney knife suspect identified by police
+ - [https://www.reddit.com/r/worldnews/comments/1c3j24l/westfield_bondi_mall_attack_sydney_knife_suspect](https://www.reddit.com/r/worldnews/comments/1c3j24l/westfield_bondi_mall_attack_sydney_knife_suspect)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T02:37:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3j24l/westfield_bondi_mall_attack_sydney_knife_suspect/"> <img alt="Westfield Bondi mall attack: Sydney knife suspect identified by police" src="https://external-preview.redd.it/e1aSlVwuiRRiXzlbS6RpXz5zkLmLOW_j6RoF73KgvwU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2edc29350c647dc92ed3131a2915ea32b5ff818" title="Westfield Bondi mall attack: Sydney knife suspect identified by police" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nearby_Mushroom_1755"> /u/Nearby_Mushroom_1755 </a> <br /> <span><a href="https://www.bbc.com/news/world-australia-68810428">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3j24l/westfield_bondi_mall_attack_sydney_knife_suspect/">[comments]</a></span> </td></tr></table>
+
+## Global outcry over Iran's attack on Israel sparks diplomatic frenzy; Biden vows 'ironclad' support. Who said what | World News - Hindustan Times
+ - [https://www.reddit.com/r/worldnews/comments/1c3iqmg/global_outcry_over_irans_attack_on_israel_sparks](https://www.reddit.com/r/worldnews/comments/1c3iqmg/global_outcry_over_irans_attack_on_israel_sparks)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T02:19:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3iqmg/global_outcry_over_irans_attack_on_israel_sparks/"> <img alt="Global outcry over Iran's attack on Israel sparks diplomatic frenzy; Biden vows 'ironclad' support. Who said what | World News - Hindustan Times" src="https://external-preview.redd.it/J8RCTZCJJg_GgsWFdKFY7g-IlVuiBMNgBWVf7Xp920Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa2025f1b76ec8a537bf91e831aaaa809b8a8c29" title="Global outcry over Iran's attack on Israel sparks diplomatic frenzy; Biden vows 'ironclad' support. Who said what | World News - Hindustan Times" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ecstatic_Ad_4476"> /u/Ecstatic_Ad_4476 </a> <br /> <span><a href="https://www.hindustantimes.com/world-news/global-outcry-over-irans-attack-on-israel-sparks-diplomatic-frenzy-who-said-what-101713057158581.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3iqmg/globa
+
+## /r/WorldNews Live Thread: Iran attacks Israel (Thread 3)
+ - [https://www.reddit.com/r/worldnews/comments/1c3hro5/rworldnews_live_thread_iran_attacks_israel_thread](https://www.reddit.com/r/worldnews/comments/1c3hro5/rworldnews_live_thread_iran_attacks_israel_thread)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T01:27:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3hro5/rworldnews_live_thread_iran_attacks_israel_thread/"> <img alt="/r/WorldNews Live Thread: Iran attacks Israel (Thread 3)" src="https://a.thumbs.redditmedia.com/Mp0Gx_HomhJWx5C7CqRbB60Ywgza6uqzNaRuHwatBz4.jpg" title="/r/WorldNews Live Thread: Iran attacks Israel (Thread 3)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/1bsso361afr0r">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3hro5/rworldnews_live_thread_iran_attacks_israel_thread/">[comments]</a></span> </td></tr></table>
+
+## British jets shoot down Iranian drones over Syrian border
+ - [https://www.reddit.com/r/worldnews/comments/1c3hbvs/british_jets_shoot_down_iranian_drones_over](https://www.reddit.com/r/worldnews/comments/1c3hbvs/british_jets_shoot_down_iranian_drones_over)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-14T01:04:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c3hbvs/british_jets_shoot_down_iranian_drones_over/"> <img alt="British jets shoot down Iranian drones over Syrian border" src="https://external-preview.redd.it/CPyartfWbwDXQqAph9YGCsCOGtjMFn19Nni4IsTSE00.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c59c4481ae0ce8e7e1d573dec141958ab1374a47" title="British jets shoot down Iranian drones over Syrian border" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aggressive-Hotel-567"> /u/Aggressive-Hotel-567 </a> <br /> <span><a href="https://www.dailymail.co.uk/news/article-13305471/Sunak-condemns-Iran-s-reckless-attack-Israel-strongest-terms.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c3hbvs/british_jets_shoot_down_iranian_drones_over/">[comments]</a></span> </td></tr></table>
+
