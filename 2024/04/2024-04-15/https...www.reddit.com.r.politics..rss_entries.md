@@ -1,0 +1,345 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Donald Trump 'Glares' at Reporter Who Exposed Him Sleeping During Trial
+ - [https://www.reddit.com/r/politics/comments/1c4yu5i/donald_trump_glares_at_reporter_who_exposed_him](https://www.reddit.com/r/politics/comments/1c4yu5i/donald_trump_glares_at_reporter_who_exposed_him)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T21:55:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4yu5i/donald_trump_glares_at_reporter_who_exposed_him/"> <img alt="Donald Trump 'Glares' at Reporter Who Exposed Him Sleeping During Trial" src="https://external-preview.redd.it/uGCmByKwO3z-iEe639Vbz4J2Qw1q7M0kIlrz-4Txnrs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c9711e6aeedbf249c8e553c1dda23c2406efcbaa" title="Donald Trump 'Glares' at Reporter Who Exposed Him Sleeping During Trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JJLewisLV"> /u/JJLewisLV </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-glares-reporter-haberman-exposed-him-sleeping-during-hush-money-trial-1890578">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4yu5i/donald_trump_glares_at_reporter_who_exposed_him/">[comments]</a></span> </td></tr></table>
+
+## The "What happened in your state last week?" Megathread, Week 15
+ - [https://www.reddit.com/r/politics/comments/1c4yluj/the_what_happened_in_your_state_last_week](https://www.reddit.com/r/politics/comments/1c4yluj/the_what_happened_in_your_state_last_week)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T21:46:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Welcome to the 'What happened in your state last week' thread, where you can post any local political news stories that you find important in the comments. This is a weekly thread posted every Monday, in order to facilitate more discussion on local issues on <a href="/r/politics">/r/politics</a>. Since this is intended to be a thread about local politics, top-level comments that are exclusively about national issues will not be allowed. When commenting, please include the state you're living in, and don't forget to link sources. <strong>Also, please actually describe what happened. Things like &quot;I live in X, you know what happened&quot;, &quot;Nothing happened&quot; or &quot;[Politician] continues to be an idiot&quot; isn't helpful to users and will be removed.</strong></p> <p>If someone from your state made a news round-up that you think is insufficient, feel free to comment to that round-up with further news stories. Enjoy discussion, and review
+
+## Trump stock tanks after announcing massive share sale
+ - [https://www.reddit.com/r/politics/comments/1c4y6pb/trump_stock_tanks_after_announcing_massive_share](https://www.reddit.com/r/politics/comments/1c4y6pb/trump_stock_tanks_after_announcing_massive_share)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T21:30:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4y6pb/trump_stock_tanks_after_announcing_massive_share/"> <img alt="Trump stock tanks after announcing massive share sale" src="https://external-preview.redd.it/Xlz0usUjI-CoMUqCs5TE_JtluJteOiYA3IcWG2y2CP4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cbd9717e2495ed585c78a6589956420af0280ec8" title="Trump stock tanks after announcing massive share sale" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cognosyeti"> /u/Cognosyeti </a> <br /> <span><a href="https://www.cnn.com/2024/04/15/investing/trump-stock-new-shares/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4y6pb/trump_stock_tanks_after_announcing_massive_share/">[comments]</a></span> </td></tr></table>
+
+## Judge upholds colossal defamation verdict against Rudy Giuliani
+ - [https://www.reddit.com/r/politics/comments/1c4wy1a/judge_upholds_colossal_defamation_verdict_against](https://www.reddit.com/r/politics/comments/1c4wy1a/judge_upholds_colossal_defamation_verdict_against)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T20:40:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4wy1a/judge_upholds_colossal_defamation_verdict_against/"> <img alt="Judge upholds colossal defamation verdict against Rudy Giuliani" src="https://external-preview.redd.it/oXlYFUcrqoEdwoaNb9L86bP62yU9V-7UJZU9VMAB0EM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7cf495014e76ce67d01f94e1bde35b9d58ac67dd" title="Judge upholds colossal defamation verdict against Rudy Giuliani" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IntelligentExcuse5"> /u/IntelligentExcuse5 </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/rudy-giuliani-defamation-verdict-bankruptcy-b2529167.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4wy1a/judge_upholds_colossal_defamation_verdict_against/">[comments]</a></span> </td></tr></table>
+
+## Supreme Court snubs House Republicans who dodged metal detectors in Congress after Jan. 6
+ - [https://www.reddit.com/r/politics/comments/1c4wq9z/supreme_court_snubs_house_republicans_who_dodged](https://www.reddit.com/r/politics/comments/1c4wq9z/supreme_court_snubs_house_republicans_who_dodged)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T20:32:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4wq9z/supreme_court_snubs_house_republicans_who_dodged/"> <img alt="Supreme Court snubs House Republicans who dodged metal detectors in Congress after Jan. 6" src="https://external-preview.redd.it/o0WTL1OUXZrUq-TXIcpPl1T_XN0_W6_q9gNy3iJcU_c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a594c0c3ac90ee2407361f8e3b97fc8f48e0908" title="Supreme Court snubs House Republicans who dodged metal detectors in Congress after Jan. 6" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Sweet-8495"> /u/Ok-Sweet-8495 </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/2024/04/15/supreme-court-republicans-house-security-jan-6/73281636007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4wq9z/supreme_court_snubs_house_republicans_who_dodged/">[comments]</a></span> </td></tr></table>
+
+## White House "will not accept" standalone Israel aid bill
+ - [https://www.reddit.com/r/politics/comments/1c4uvpt/white_house_will_not_accept_standalone_israel_aid](https://www.reddit.com/r/politics/comments/1c4uvpt/white_house_will_not_accept_standalone_israel_aid)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T19:20:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4uvpt/white_house_will_not_accept_standalone_israel_aid/"> <img alt="White House &quot;will not accept&quot; standalone Israel aid bill" src="https://external-preview.redd.it/oDPe6kFNOl7BCtVixlON7CeFiCpKo89MM9bzgZ_-VVI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26099cbe4ea7e2a39dbf06bbd5bd63dd48c6768a" title="White House &quot;will not accept&quot; standalone Israel aid bill" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/axios"> /u/axios </a> <br /> <span><a href="https://www.axios.com/2024/04/15/israel-aid-bill-standalone-iran-attacks">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4uvpt/white_house_will_not_accept_standalone_israel_aid/">[comments]</a></span> </td></tr></table>
+
+## Judge in Trump’s hush money trial allows prosecutors to discuss 'Access Hollywood' tape, affair allegations and tabloid stories
+ - [https://www.reddit.com/r/politics/comments/1c4utj7/judge_in_trumps_hush_money_trial_allows](https://www.reddit.com/r/politics/comments/1c4utj7/judge_in_trumps_hush_money_trial_allows)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T19:17:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4utj7/judge_in_trumps_hush_money_trial_allows/"> <img alt="Judge in Trump’s hush money trial allows prosecutors to discuss 'Access Hollywood' tape, affair allegations and tabloid stories" src="https://external-preview.redd.it/7xN6z4L7qVaUUKcoTe4JmVQ0Eh2P7B2Pz4T2RFF7u7M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f014fd325df380a5f11ffb7590abcc3cb53d12c5" title="Judge in Trump’s hush money trial allows prosecutors to discuss 'Access Hollywood' tape, affair allegations and tabloid stories" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/murderspice"> /u/murderspice </a> <br /> <span><a href="https://www.nbcnews.com/politics/donald-trump/trump-hush-money-trial-new-york-jury-selection-rcna145938">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4utj7/judge_in_trumps_hush_money_trial_allows/">[comments]</a></span> </td></tr></table>
+
+## GOP Rep. Desperately Begs New York to Acquit Trump in Hush Money Case - Representative Byron Donalds pleaded with potential jurors in Trump’s hush-money trial to vote “not guilty.”
+ - [https://www.reddit.com/r/politics/comments/1c4u4al/gop_rep_desperately_begs_new_york_to_acquit_trump](https://www.reddit.com/r/politics/comments/1c4u4al/gop_rep_desperately_begs_new_york_to_acquit_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T18:50:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4u4al/gop_rep_desperately_begs_new_york_to_acquit_trump/"> <img alt="GOP Rep. Desperately Begs New York to Acquit Trump in Hush Money Case - Representative Byron Donalds pleaded with potential jurors in Trump’s hush-money trial to vote “not guilty.”" src="https://external-preview.redd.it/00RYmMiyMBpYEuVgJE3mK6n56kB8df7yMOjKKcvS76M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=adbebadd61332e411113e364f57327f1c9b5294c" title="GOP Rep. Desperately Begs New York to Acquit Trump in Hush Money Case - Representative Byron Donalds pleaded with potential jurors in Trump’s hush-money trial to vote “not guilty.”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://newrepublic.com/post/180698/republicans-trump-influence-hush-money-trial">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4u4al/gop_rep_despera
+
+## ‘Sleepy Don’: Trump sparks Twitter hilarity as he appears to fall asleep at trial
+ - [https://www.reddit.com/r/politics/comments/1c4tt9p/sleepy_don_trump_sparks_twitter_hilarity_as_he](https://www.reddit.com/r/politics/comments/1c4tt9p/sleepy_don_trump_sparks_twitter_hilarity_as_he)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T18:38:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4tt9p/sleepy_don_trump_sparks_twitter_hilarity_as_he/"> <img alt="‘Sleepy Don’: Trump sparks Twitter hilarity as he appears to fall asleep at trial" src="https://external-preview.redd.it/0QUVRsZUvwLoLeiz2k3-pspe_vyy-cXmoeMzjY8gi3c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc35ba06b739d9fd583c3843c28a0a2b06e56af3" title="‘Sleepy Don’: Trump sparks Twitter hilarity as he appears to fall asleep at trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-hush-money-sleepy-don-b2529108.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4tt9p/sleepy_don_trump_sparks_twitter_hilarity_as_he/">[comments]</a></span> </td></tr></table>
+
+## ‘Sleepy Don:’ Trump Falls Asleep During Hush-Money Trial
+ - [https://www.reddit.com/r/politics/comments/1c4tm00/sleepy_don_trump_falls_asleep_during_hushmoney](https://www.reddit.com/r/politics/comments/1c4tm00/sleepy_don_trump_falls_asleep_during_hushmoney)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T18:30:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4tm00/sleepy_don_trump_falls_asleep_during_hushmoney/"> <img alt="‘Sleepy Don:’ Trump Falls Asleep During Hush-Money Trial" src="https://external-preview.redd.it/ylcRfDusHuQkmgp42prsccJimCuuRyjY6Nghzo-7Y1M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=05bacf1329baaf2eae840aca611aa737909804ae" title="‘Sleepy Don:’ Trump Falls Asleep During Hush-Money Trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marji80"> /u/marji80 </a> <br /> <span><a href="https://nymag.com/intelligencer/article/trump-asleep-hush-money-trial.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4tm00/sleepy_don_trump_falls_asleep_during_hushmoney/">[comments]</a></span> </td></tr></table>
+
+## Trump uses lunch break to again test gag order: He posted a video of an ally criticizing Michael Cohen and the judge's wife.
+ - [https://www.reddit.com/r/politics/comments/1c4t1k2/trump_uses_lunch_break_to_again_test_gag_order_he](https://www.reddit.com/r/politics/comments/1c4t1k2/trump_uses_lunch_break_to_again_test_gag_order_he)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T18:08:29+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Sweet-8495"> /u/Ok-Sweet-8495 </a> <br /> <span><a href="https://www.politico.com/live-updates/2024/04/15/trump-hush-money-criminal-trial/trump-again-tests-gag-order-00152293">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4t1k2/trump_uses_lunch_break_to_again_test_gag_order_he/">[comments]</a></span>
+
+## Did Trump fall asleep during his hush money trial?
+ - [https://www.reddit.com/r/politics/comments/1c4rz1g/did_trump_fall_asleep_during_his_hush_money_trial](https://www.reddit.com/r/politics/comments/1c4rz1g/did_trump_fall_asleep_during_his_hush_money_trial)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T17:26:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4rz1g/did_trump_fall_asleep_during_his_hush_money_trial/"> <img alt="Did Trump fall asleep during his hush money trial?" src="https://external-preview.redd.it/yZGFheMwjYv7surlMpnnjKUd4WeRcxJZLBtumWPCuUs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4cb4afbeaad432f5d769ad93c07b6fa0603843d" title="Did Trump fall asleep during his hush money trial?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kevombat"> /u/Kevombat </a> <br /> <span><a href="https://www.nj.com/politics/2024/04/did-trump-fall-asleep-during-his-hush-money-trial.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4rz1g/did_trump_fall_asleep_during_his_hush_money_trial/">[comments]</a></span> </td></tr></table>
+
+## A Weary Trump Appears to Doze Off in Courtroom Ahead of Criminal Trial
+ - [https://www.reddit.com/r/politics/comments/1c4ryl5/a_weary_trump_appears_to_doze_off_in_courtroom](https://www.reddit.com/r/politics/comments/1c4ryl5/a_weary_trump_appears_to_doze_off_in_courtroom)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T17:26:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4ryl5/a_weary_trump_appears_to_doze_off_in_courtroom/"> <img alt="A Weary Trump Appears to Doze Off in Courtroom Ahead of Criminal Trial" src="https://external-preview.redd.it/ALxbhHT1evju_V6-tfjFUK-plhVfQ8yGMbIXTpdAp-8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fcb2aa6513f04fb808518d85ee85b757f6bd6fcc" title="A Weary Trump Appears to Doze Off in Courtroom Ahead of Criminal Trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Sweet-8495"> /u/Ok-Sweet-8495 </a> <br /> <span><a href="https://www.nytimes.com/2024/04/15/nyregion/trump-asleep-criminal-trial.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4ryl5/a_weary_trump_appears_to_doze_off_in_courtroom/">[comments]</a></span> </td></tr></table>
+
+## Prosecutors ask hush money judge to fine Trump $3K for violating gag order
+ - [https://www.reddit.com/r/politics/comments/1c4r389/prosecutors_ask_hush_money_judge_to_fine_trump_3k](https://www.reddit.com/r/politics/comments/1c4r389/prosecutors_ask_hush_money_judge_to_fine_trump_3k)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T16:51:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4r389/prosecutors_ask_hush_money_judge_to_fine_trump_3k/"> <img alt="Prosecutors ask hush money judge to fine Trump $3K for violating gag order" src="https://external-preview.redd.it/tyS_7V15gzP8ABHR_0x_EZ_iexdKhMqggJuX7rEY3Wk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7af22b8cbc8420aff956e4588c865e8fc5e0143" title="Prosecutors ask hush money judge to fine Trump $3K for violating gag order" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equalizer6338"> /u/Equalizer6338 </a> <br /> <span><a href="https://thehill.com/regulation/court-battles/4595027-prosecutors-hush-money-judge-fine-trump-gag-order/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4r389/prosecutors_ask_hush_money_judge_to_fine_trump_3k/">[comments]</a></span> </td></tr></table>
+
+## Swalwell accuses Clay Travis of jury tampering in Trump trial
+ - [https://www.reddit.com/r/politics/comments/1c4qkf6/swalwell_accuses_clay_travis_of_jury_tampering_in](https://www.reddit.com/r/politics/comments/1c4qkf6/swalwell_accuses_clay_travis_of_jury_tampering_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T16:29:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4qkf6/swalwell_accuses_clay_travis_of_jury_tampering_in/"> <img alt="Swalwell accuses Clay Travis of jury tampering in Trump trial" src="https://external-preview.redd.it/8Lv4jkaPcvA0EyflD0kJ43RiHPRiX0Bjd70VNO1Lgu8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a36bfc9cb013f21ebeadefbf7c3e6dfce3580fed" title="Swalwell accuses Clay Travis of jury tampering in Trump trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newnemo"> /u/newnemo </a> <br /> <span><a href="https://thehill.com/homenews/media/4594964-trump-hush-money-trial-swalwell-clay-travis/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4qkf6/swalwell_accuses_clay_travis_of_jury_tampering_in/">[comments]</a></span> </td></tr></table>
+
+## "Every time I buy more, the price drops more": Trump supporters grapple with Truth Social losses Many invested in Truth Social to support former President Donald Trump, but steep losses are testing their faith
+ - [https://www.reddit.com/r/politics/comments/1c4qi4v/every_time_i_buy_more_the_price_drops_more_trump](https://www.reddit.com/r/politics/comments/1c4qi4v/every_time_i_buy_more_the_price_drops_more_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T16:27:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Arrest_The_President"> /u/Arrest_The_President </a> <br /> <span><a href="https://www.salon.com/2024/04/15/every-time-i-buy-more-the-price-drops-more-supporters-grapple-with-truth-social-losses/?in_brief=true">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4qi4v/every_time_i_buy_more_the_price_drops_more_trump/">[comments]</a></span>
+
+## Prosecutors Want Trump Held in Contempt of Court for Violating Gag Order
+ - [https://www.reddit.com/r/politics/comments/1c4q7dw/prosecutors_want_trump_held_in_contempt_of_court](https://www.reddit.com/r/politics/comments/1c4q7dw/prosecutors_want_trump_held_in_contempt_of_court)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T16:15:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4q7dw/prosecutors_want_trump_held_in_contempt_of_court/"> <img alt="Prosecutors Want Trump Held in Contempt of Court for Violating Gag Order" src="https://external-preview.redd.it/4FRNip9fWTWiWX_i0dnLqjHB652L-P_ywGhqmkKOchw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ff5987c22ed9926b222e070d4420c04d58d80e0" title="Prosecutors Want Trump Held in Contempt of Court for Violating Gag Order" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/trump-new-york-hush-money-trial-day-one-1235004719/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4q7dw/prosecutors_want_trump_held_in_contempt_of_court/">[comments]</a></span> </td></tr></table>
+
+## ‘Where’s Melania?’: She’s Not Standing by Her Man at Trial
+ - [https://www.reddit.com/r/politics/comments/1c4q0ec/wheres_melania_shes_not_standing_by_her_man_at](https://www.reddit.com/r/politics/comments/1c4q0ec/wheres_melania_shes_not_standing_by_her_man_at)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T16:07:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4q0ec/wheres_melania_shes_not_standing_by_her_man_at/"> <img alt="‘Where’s Melania?’: She’s Not Standing by Her Man at Trial" src="https://external-preview.redd.it/nL10sKl7XgMjBAB_o_j3ybIEYsVcURqoyoFdDXVZdWo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=54ee4113b3cc072bc6243294c88f2fcd9c44ccaa" title="‘Where’s Melania?’: She’s Not Standing by Her Man at Trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thedailybeast"> /u/thedailybeast </a> <br /> <span><a href="https://www.thedailybeast.com/melania-trump-a-no-show-at-first-day-of-hush-money-trial">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4q0ec/wheres_melania_shes_not_standing_by_her_man_at/">[comments]</a></span> </td></tr></table>
+
+## ‘That must stop’: Exasperated Jack Smith has had enough of Trump’s ‘open-ended’ Mar-a-Lago case delay requests based on start of New York hush-money trial
+ - [https://www.reddit.com/r/politics/comments/1c4pxs3/that_must_stop_exasperated_jack_smith_has_had](https://www.reddit.com/r/politics/comments/1c4pxs3/that_must_stop_exasperated_jack_smith_has_had)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T16:04:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4pxs3/that_must_stop_exasperated_jack_smith_has_had/"> <img alt="‘That must stop’: Exasperated Jack Smith has had enough of Trump’s ‘open-ended’ Mar-a-Lago case delay requests based on start of New York hush-money trial" src="https://external-preview.redd.it/XIBtAClNB8FubwkOiFBfdmbd4YvkUKBfY7Kpbtz-gGE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bca21336693344b5fc94a67b61f89b1d8041e4bb" title="‘That must stop’: Exasperated Jack Smith has had enough of Trump’s ‘open-ended’ Mar-a-Lago case delay requests based on start of New York hush-money trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sachyriel"> /u/Sachyriel </a> <br /> <span><a href="https://lawandcrime.com/high-profile/that-must-stop-exasperated-jack-smith-has-had-enough-of-trumps-open-ended-mar-a-lago-case-delay-requests-based-on-start-of-new-york-hush-money-trial/">[link]</a></span> &#32; <span><a href="https://www.
+
+## Clarence Thomas absent from US supreme court with no explanation
+ - [https://www.reddit.com/r/politics/comments/1c4pdxm/clarence_thomas_absent_from_us_supreme_court_with](https://www.reddit.com/r/politics/comments/1c4pdxm/clarence_thomas_absent_from_us_supreme_court_with)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T15:42:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4pdxm/clarence_thomas_absent_from_us_supreme_court_with/"> <img alt="Clarence Thomas absent from US supreme court with no explanation" src="https://external-preview.redd.it/FXW-5LmeRpmgZprOosWQih-Q1zPX6tC7ULIooj96Q5w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f63bbd554eadf79ee0b523f4faa701312bb6bd5d" title="Clarence Thomas absent from US supreme court with no explanation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Afrin_Drip"> /u/Afrin_Drip </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/apr/15/clarence-thomas-absent-supreme-court">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4pdxm/clarence_thomas_absent_from_us_supreme_court_with/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump Seems Well Aware He’s in Legal Peril
+ - [https://www.reddit.com/r/politics/comments/1c4oiuq/donald_trump_seems_well_aware_hes_in_legal_peril](https://www.reddit.com/r/politics/comments/1c4oiuq/donald_trump_seems_well_aware_hes_in_legal_peril)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T15:06:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4oiuq/donald_trump_seems_well_aware_hes_in_legal_peril/"> <img alt="Donald Trump Seems Well Aware He’s in Legal Peril" src="https://external-preview.redd.it/6QE36b0-BzhAkz4eIpd08U3nYWUfBHMQtiSxpoQtStg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ebcc22a2f0972f0f99b9ff9cc6a72940960c505" title="Donald Trump Seems Well Aware He’s in Legal Peril" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloombergopinion"> /u/bloombergopinion </a> <br /> <span><a href="https://www.bloomberg.com/opinion/articles/2024-04-15/donald-trump-seems-aware-criminal-trial-puts-him-in-legal-peril?srnd=opinion">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4oiuq/donald_trump_seems_well_aware_hes_in_legal_peril/">[comments]</a></span> </td></tr></table>
+
+## The Supreme Court effectively abolishes the right to mass protest in three US states
+ - [https://www.reddit.com/r/politics/comments/1c4ocdb/the_supreme_court_effectively_abolishes_the_right](https://www.reddit.com/r/politics/comments/1c4ocdb/the_supreme_court_effectively_abolishes_the_right)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T14:59:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4ocdb/the_supreme_court_effectively_abolishes_the_right/"> <img alt="The Supreme Court effectively abolishes the right to mass protest in three US states" src="https://external-preview.redd.it/688G37xu_IS4RyBXjolaROlChkMTIFEc42MAuVOrvkA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba56960c12ac1c360b8b6438f7bcd06ad1e004eb" title="The Supreme Court effectively abolishes the right to mass protest in three US states" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/larel8"> /u/larel8 </a> <br /> <span><a href="https://www.vox.com/scotus/24080080/supreme-court-mckesson-doe-first-amendment-protest-black-lives-matter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4ocdb/the_supreme_court_effectively_abolishes_the_right/">[comments]</a></span> </td></tr></table>
+
+## Joe Biden now leads Donald Trump in ten polls
+ - [https://www.reddit.com/r/politics/comments/1c4oc57/joe_biden_now_leads_donald_trump_in_ten_polls](https://www.reddit.com/r/politics/comments/1c4oc57/joe_biden_now_leads_donald_trump_in_ten_polls)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T14:59:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4oc57/joe_biden_now_leads_donald_trump_in_ten_polls/"> <img alt="Joe Biden now leads Donald Trump in ten polls" src="https://external-preview.redd.it/PACo0Q3NGPe8UnHApC_VeUCpyr_ynzKt7MHZWXGrxKE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=763ed2b2781d5ea8ffac4fe7740e0efb1661eeb3" title="Joe Biden now leads Donald Trump in ten polls" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br /> <span><a href="https://www.newsweek.com/joe-biden-donald-trump-polls-presidential-election-2024-latest-1889766">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4oc57/joe_biden_now_leads_donald_trump_in_ten_polls/">[comments]</a></span> </td></tr></table>
+
+## I Was a Skeptic of the Stormy Daniels Prosecution. I Was Wrong. The prosecution of Donald Trump starting in New York this week is on firm legal ground.
+ - [https://www.reddit.com/r/politics/comments/1c4o95n/i_was_a_skeptic_of_the_stormy_daniels_prosecution](https://www.reddit.com/r/politics/comments/1c4o95n/i_was_a_skeptic_of_the_stormy_daniels_prosecution)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T14:55:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4o95n/i_was_a_skeptic_of_the_stormy_daniels_prosecution/"> <img alt="I Was a Skeptic of the Stormy Daniels Prosecution. I Was Wrong. The prosecution of Donald Trump starting in New York this week is on firm legal ground." src="https://external-preview.redd.it/XWzVjQsN9VAbEqJdqAJOJd4y5QTVS9qs_Lt4Rj5dZy8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdf62d2c3273f50b0ef08ebbf7baf61656c96181" title="I Was a Skeptic of the Stormy Daniels Prosecution. I Was Wrong. The prosecution of Donald Trump starting in New York this week is on firm legal ground." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ixz72"> /u/Ixz72 </a> <br /> <span><a href="https://slate.com/news-and-politics/2024/04/stormy-daniels-prosecution-stronger-than-i-thought.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4o95n/i_was_a_skeptic_of_the_stormy_daniels_prosecution/">[comme
+
+## Trump to make history as first US president to face criminal trial
+ - [https://www.reddit.com/r/politics/comments/1c4o31f/trump_to_make_history_as_first_us_president_to](https://www.reddit.com/r/politics/comments/1c4o31f/trump_to_make_history_as_first_us_president_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T14:48:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4o31f/trump_to_make_history_as_first_us_president_to/"> <img alt="Trump to make history as first US president to face criminal trial" src="https://external-preview.redd.it/nEIpyBh2yfXe1HFJSf87r-cFMTvXAqOWSexbVcBFFM0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=13d2759329117d27cf48711c55223c86d51de876" title="Trump to make history as first US president to face criminal trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mountaintop111"> /u/mountaintop111 </a> <br /> <span><a href="https://thehill.com/regulation/court-battles/4590650-trump-to-make-history-as-first-us-president-to-face-criminal-trial/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4o31f/trump_to_make_history_as_first_us_president_to/">[comments]</a></span> </td></tr></table>
+
+## Justice Thomas misses Supreme Court session Monday with no explanation
+ - [https://www.reddit.com/r/politics/comments/1c4nxvo/justice_thomas_misses_supreme_court_session](https://www.reddit.com/r/politics/comments/1c4nxvo/justice_thomas_misses_supreme_court_session)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T14:42:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4nxvo/justice_thomas_misses_supreme_court_session/"> <img alt="Justice Thomas misses Supreme Court session Monday with no explanation" src="https://external-preview.redd.it/6phoJiHLMb6nJV2AOGdHXTz3ECrcAybX0zREdjypp64.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3450a175433b21447a01ea1719ef3f5adea5ae32" title="Justice Thomas misses Supreme Court session Monday with no explanation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/reptilefood"> /u/reptilefood </a> <br /> <span><a href="https://thehill.com/homenews/ap/ap-politics/ap-justice-thomas-misses-supreme-court-session-monday-with-no-explanation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4nxvo/justice_thomas_misses_supreme_court_session/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump to reveal bond details as Letitia James poised to strike
+ - [https://www.reddit.com/r/politics/comments/1c4ne3g/donald_trump_to_reveal_bond_details_as_letitia](https://www.reddit.com/r/politics/comments/1c4ne3g/donald_trump_to_reveal_bond_details_as_letitia)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T14:19:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4ne3g/donald_trump_to_reveal_bond_details_as_letitia/"> <img alt="Donald Trump to reveal bond details as Letitia James poised to strike" src="https://external-preview.redd.it/tSJhPKzmue_Mk9AF8MlRFvPd3XHArKgSPBISDZrYG4U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da57ca8cd2ee8c4b533c059e29ce2424d6dc75c2" title="Donald Trump to reveal bond details as Letitia James poised to strike" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-letitia-james-bond-arthur-engoron-new-york-manhattan-fraud-trial-1890249">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4ne3g/donald_trump_to_reveal_bond_details_as_letitia/">[comments]</a></span> </td></tr></table>
+
+## Trump rages at judge hours before hush money case begins
+ - [https://www.reddit.com/r/politics/comments/1c4miei/trump_rages_at_judge_hours_before_hush_money_case](https://www.reddit.com/r/politics/comments/1c4miei/trump_rages_at_judge_hours_before_hush_money_case)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T13:41:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4miei/trump_rages_at_judge_hours_before_hush_money_case/"> <img alt="Trump rages at judge hours before hush money case begins" src="https://external-preview.redd.it/I93zMeQwBnfWah4A5BxQPTrouCRyYZhPiDLS8nbEae4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a7339c2e4039f7ae9560769a54018935c79e210" title="Trump rages at judge hours before hush money case begins" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thehill"> /u/thehill </a> <br /> <span><a href="https://thehill.com/regulation/court-battles/4594517-trump-posts-hush-money-trial-judge/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4miei/trump_rages_at_judge_hours_before_hush_money_case/">[comments]</a></span> </td></tr></table>
+
+## A Test of Strength: Biden stands with America’s allies. Trump doesn’t.
+ - [https://www.reddit.com/r/politics/comments/1c4melc/a_test_of_strength_biden_stands_with_americas](https://www.reddit.com/r/politics/comments/1c4melc/a_test_of_strength_biden_stands_with_americas)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T13:36:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4melc/a_test_of_strength_biden_stands_with_americas/"> <img alt="A Test of Strength: Biden stands with America’s allies. Trump doesn’t." src="https://external-preview.redd.it/OhsGKApNvOquzhRNv_NL2t8Cbl3Z6UJ1BuhvTOIxHVo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=641e63cbb542fee5a04909e110efd0a3c38b9b60" title="A Test of Strength: Biden stands with America’s allies. Trump doesn’t." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Majano57"> /u/Majano57 </a> <br /> <span><a href="https://www.theatlantic.com/politics/archive/2024/04/what-israels-allies-must-do-now/678070/?gift=p6sIQZu1XYg3_VzQwH5cuDeSg4uzNm8OY0LeGsclqaY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4melc/a_test_of_strength_biden_stands_with_americas/">[comments]</a></span> </td></tr></table>
+
+## What Happens if Donald Trump Is Convicted?
+ - [https://www.reddit.com/r/politics/comments/1c4m3qq/what_happens_if_donald_trump_is_convicted](https://www.reddit.com/r/politics/comments/1c4m3qq/what_happens_if_donald_trump_is_convicted)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T13:22:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4m3qq/what_happens_if_donald_trump_is_convicted/"> <img alt="What Happens if Donald Trump Is Convicted?" src="https://external-preview.redd.it/xvJvtsgrArgHAFVyPJUfFDn_haGDw3l2qTpZuqqFSD4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=961147e8876a3e9f4a93cfa63ec64675c837ea1b" title="What Happens if Donald Trump Is Convicted?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Majano57"> /u/Majano57 </a> <br /> <span><a href="https://www.nytimes.com/article/trump-investigation-conviction.html?unlocked_article_code=1.kk0.sIQa.Z_KYFVINZmTl">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4m3qq/what_happens_if_donald_trump_is_convicted/">[comments]</a></span> </td></tr></table>
+
+## Trump Media shares plunge after company files to issue additional DJT stock
+ - [https://www.reddit.com/r/politics/comments/1c4lpfr/trump_media_shares_plunge_after_company_files_to](https://www.reddit.com/r/politics/comments/1c4lpfr/trump_media_shares_plunge_after_company_files_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T13:04:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4lpfr/trump_media_shares_plunge_after_company_files_to/"> <img alt="Trump Media shares plunge after company files to issue additional DJT stock" src="https://external-preview.redd.it/DfGHWa9L9qTUkviXdLv_C5ZvztJpPnL6maUF61uPyEU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5e73a92dbfb3869d6f8366cf4de23bfad227235" title="Trump Media shares plunge after company files to issue additional DJT stock" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/robywar"> /u/robywar </a> <br /> <span><a href="https://www.cnbc.com/2024/04/15/trump-media-shares-plunge-after-company-files-to-issue-additional-djt-stock.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4lpfr/trump_media_shares_plunge_after_company_files_to/">[comments]</a></span> </td></tr></table>
+
+## Questions About Assassinations Test the Limits of Trump’s Immunity Claim
+ - [https://www.reddit.com/r/politics/comments/1c4l0rz/questions_about_assassinations_test_the_limits_of](https://www.reddit.com/r/politics/comments/1c4l0rz/questions_about_assassinations_test_the_limits_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T12:31:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4l0rz/questions_about_assassinations_test_the_limits_of/"> <img alt="Questions About Assassinations Test the Limits of Trump’s Immunity Claim" src="https://external-preview.redd.it/znLyVKgWESnTKGXPpz0mOEB9KXVKX8Q_yiNvN-jBOSA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd0268aaf18e5496ac0d582f540bc28c4d263fcf" title="Questions About Assassinations Test the Limits of Trump’s Immunity Claim" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Car_o_lyn"> /u/Car_o_lyn </a> <br /> <span><a href="https://www.nytimes.com/2024/04/15/us/trump-supreme-court-immunity-assassinations.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4l0rz/questions_about_assassinations_test_the_limits_of/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump claims he'll testify in hush money trial. We've heard that before.
+ - [https://www.reddit.com/r/politics/comments/1c4kgkb/donald_trump_claims_hell_testify_in_hush_money](https://www.reddit.com/r/politics/comments/1c4kgkb/donald_trump_claims_hell_testify_in_hush_money)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T12:02:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4kgkb/donald_trump_claims_hell_testify_in_hush_money/"> <img alt="Donald Trump claims he'll testify in hush money trial. We've heard that before." src="https://external-preview.redd.it/VsP7Sj0yDaCBjnqUyd_TZJoE05WrMD-bQBcUg_k8W28.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=08efafada5e8d181078857cfa3bfa23cabdc3c83" title="Donald Trump claims he'll testify in hush money trial. We've heard that before." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mountaintop111"> /u/mountaintop111 </a> <br /> <span><a href="https://www.businessinsider.com/donald-trump-claims-he-will-testify-in-hush-money-trial-2024-4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4kgkb/donald_trump_claims_hell_testify_in_hush_money/">[comments]</a></span> </td></tr></table>
+
+## Trump trial set to kick off today in a historic first for a former president
+ - [https://www.reddit.com/r/politics/comments/1c4kg2p/trump_trial_set_to_kick_off_today_in_a_historic](https://www.reddit.com/r/politics/comments/1c4kg2p/trump_trial_set_to_kick_off_today_in_a_historic)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T12:02:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4kg2p/trump_trial_set_to_kick_off_today_in_a_historic/"> <img alt="Trump trial set to kick off today in a historic first for a former president" src="https://external-preview.redd.it/irFtGNEv9dBt_E4-R2AI3bINaDlHp0qZRNC9IKtMgHY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eff8d68831334f18f9b6ef1584eb9d01739b4e15" title="Trump trial set to kick off today in a historic first for a former president" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CL-Young"> /u/CL-Young </a> <br /> <span><a href="https://www.cbsnews.com/news/trump-trial-begins-today-jury-selection/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4kg2p/trump_trial_set_to_kick_off_today_in_a_historic/">[comments]</a></span> </td></tr></table>
+
+## Trump's Criminal Trial to Begin Today In Manhattan With Jury Selection
+ - [https://www.reddit.com/r/politics/comments/1c4kfmn/trumps_criminal_trial_to_begin_today_in_manhattan](https://www.reddit.com/r/politics/comments/1c4kfmn/trumps_criminal_trial_to_begin_today_in_manhattan)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T12:01:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4kfmn/trumps_criminal_trial_to_begin_today_in_manhattan/"> <img alt="Trump's Criminal Trial to Begin Today In Manhattan With Jury Selection" src="https://external-preview.redd.it/_AxyIWPg3rPDL8ZWy79h5M6XskjCvP_Au_Tq9rBRF60.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=02e6696bf742ada06f34c871d097d4e729bbfc42" title="Trump's Criminal Trial to Begin Today In Manhattan With Jury Selection" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CL-Young"> /u/CL-Young </a> <br /> <span><a href="https://www.nytimes.com/2024/04/15/nyregion/trump-trial-hush-money.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4kfmn/trumps_criminal_trial_to_begin_today_in_manhattan/">[comments]</a></span> </td></tr></table>
+
+## GOP Lawmakers Are All-In on Trump—a Conviction Be Damned
+ - [https://www.reddit.com/r/politics/comments/1c4k7xp/gop_lawmakers_are_allin_on_trumpa_conviction_be](https://www.reddit.com/r/politics/comments/1c4k7xp/gop_lawmakers_are_allin_on_trumpa_conviction_be)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T11:50:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4k7xp/gop_lawmakers_are_allin_on_trumpa_conviction_be/"> <img alt="GOP Lawmakers Are All-In on Trump—a Conviction Be Damned" src="https://external-preview.redd.it/Ln6knT0N0GnDbnGVTKI_XMP0vCkesDKlRD2XqEPSPSg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3673bd8cb528ee30e09dad76f724ba3af760fff0" title="GOP Lawmakers Are All-In on Trump—a Conviction Be Damned" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/semaphone-1842"> /u/semaphone-1842 </a> <br /> <span><a href="https://www.thedailybeast.com/gop-lawmakers-are-all-in-on-trumpa-conviction-be-damned">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4k7xp/gop_lawmakers_are_allin_on_trumpa_conviction_be/">[comments]</a></span> </td></tr></table>
+
+## The People v Donald Trump: Inside the first-ever criminal trial of an American president
+ - [https://www.reddit.com/r/politics/comments/1c4jdj7/the_people_v_donald_trump_inside_the_firstever](https://www.reddit.com/r/politics/comments/1c4jdj7/the_people_v_donald_trump_inside_the_firstever)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T11:01:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4jdj7/the_people_v_donald_trump_inside_the_firstever/"> <img alt="The People v Donald Trump: Inside the first-ever criminal trial of an American president" src="https://external-preview.redd.it/bgvUR1-wZ8tmH2y7qE7FCCQxW0YHhMShk6Mn-IiMjUc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=660f394634d77a6ca9073ff7d3d770da56bbc6b7" title="The People v Donald Trump: Inside the first-ever criminal trial of an American president" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-hush-money-trial-corrupt-presidential-election-b2526450.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4jdj7/the_people_v_donald_trump_inside_the_firstever/">[comments]</a></span> </td></tr></table>
+
+## Kansas governor vetoes bill banning trans youth healthcare: ‘Not a Kansas value’
+ - [https://www.reddit.com/r/politics/comments/1c4jb51/kansas_governor_vetoes_bill_banning_trans_youth](https://www.reddit.com/r/politics/comments/1c4jb51/kansas_governor_vetoes_bill_banning_trans_youth)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T10:58:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4jb51/kansas_governor_vetoes_bill_banning_trans_youth/"> <img alt="Kansas governor vetoes bill banning trans youth healthcare: ‘Not a Kansas value’" src="https://external-preview.redd.it/5dvHLsMZvLqV3kFamWUQX6hz15N0jREBeWOZWe8ysug.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d212754ceb3163cfc1b7241f2ee2f9433af9b6a4" title="Kansas governor vetoes bill banning trans youth healthcare: ‘Not a Kansas value’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PinkNews"> /u/PinkNews </a> <br /> <span><a href="https://www.thepinknews.com/2024/04/15/kansas-governor-trans-healthcare-ban/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4jb51/kansas_governor_vetoes_bill_banning_trans_youth/">[comments]</a></span> </td></tr></table>
+
+## Mark Kelly says Arizona abortion ruling is ‘all because of Donald Trump’
+ - [https://www.reddit.com/r/politics/comments/1c4j8dk/mark_kelly_says_arizona_abortion_ruling_is_all](https://www.reddit.com/r/politics/comments/1c4j8dk/mark_kelly_says_arizona_abortion_ruling_is_all)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T10:53:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4j8dk/mark_kelly_says_arizona_abortion_ruling_is_all/"> <img alt="Mark Kelly says Arizona abortion ruling is ‘all because of Donald Trump’" src="https://external-preview.redd.it/IW4qPpkWeS5zi6pmyuyM50UJGkbuTMgyk8JkkXKHapU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e3d06032748689c2a6ab9a449e9dc7741828ed5" title="Mark Kelly says Arizona abortion ruling is ‘all because of Donald Trump’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sandyWB"> /u/sandyWB </a> <br /> <span><a href="https://thehill.com/homenews/senate/4593471-sen-kelly-says-arizona-abortion-ruling-is-all-because-of-donald-trump/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4j8dk/mark_kelly_says_arizona_abortion_ruling_is_all/">[comments]</a></span> </td></tr></table>
+
+## We May Finally Get To Write: “Convicted Felon Donald Trump”
+ - [https://www.reddit.com/r/politics/comments/1c4j0bv/we_may_finally_get_to_write_convicted_felon](https://www.reddit.com/r/politics/comments/1c4j0bv/we_may_finally_get_to_write_convicted_felon)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T10:39:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4j0bv/we_may_finally_get_to_write_convicted_felon/"> <img alt="We May Finally Get To Write: “Convicted Felon Donald Trump”" src="https://external-preview.redd.it/8SjB-s-HzRayjOZjFy6z3H5x3704nIpln-520ZelYIo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60642e40ce4a945818e9a1f52d68ea28fc832b2d" title="We May Finally Get To Write: “Convicted Felon Donald Trump”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://newrepublic.com/article/180694/trump-hush-money-jury-trial">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4j0bv/we_may_finally_get_to_write_convicted_felon/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump’s criminal trial over hush money to begin in New York
+ - [https://www.reddit.com/r/politics/comments/1c4idpu/donald_trumps_criminal_trial_over_hush_money_to](https://www.reddit.com/r/politics/comments/1c4idpu/donald_trumps_criminal_trial_over_hush_money_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T09:58:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4idpu/donald_trumps_criminal_trial_over_hush_money_to/"> <img alt="Donald Trump’s criminal trial over hush money to begin in New York" src="https://external-preview.redd.it/jAcghScUYJv_VDhfy_rjPeacIiC64W-HITRZf-2pnP4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9865ef20ab49354265d1f31ea85466c5a0acd0de" title="Donald Trump’s criminal trial over hush money to begin in New York" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bakhesh"> /u/bakhesh </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/apr/15/donald-trump-trial-hush-money-stormy-daniels">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4idpu/donald_trumps_criminal_trial_over_hush_money_to/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump is falling behind Joe Biden in battleground state campaigning
+ - [https://www.reddit.com/r/politics/comments/1c4hrwt/donald_trump_is_falling_behind_joe_biden_in](https://www.reddit.com/r/politics/comments/1c4hrwt/donald_trump_is_falling_behind_joe_biden_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T09:17:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4hrwt/donald_trump_is_falling_behind_joe_biden_in/"> <img alt="Donald Trump is falling behind Joe Biden in battleground state campaigning" src="https://external-preview.redd.it/bQ5JNfEgV60-XiTf2X2XQSK2-RLSn2GqREQTmbUtWnI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6dba75a5916bc122781ee9d66f2017da2f58440" title="Donald Trump is falling behind Joe Biden in battleground state campaigning" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BelleAriel"> /u/BelleAriel </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-falling-behind-joe-biden-battleground-state-campaigning-1889429">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4hrwt/donald_trump_is_falling_behind_joe_biden_in/">[comments]</a></span> </td></tr></table>
+
+## Mark Cuban says he's proud to pay $288 million in taxes this year, unlike a certain former president
+ - [https://www.reddit.com/r/politics/comments/1c4cu24/mark_cuban_says_hes_proud_to_pay_288_million_in](https://www.reddit.com/r/politics/comments/1c4cu24/mark_cuban_says_hes_proud_to_pay_288_million_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T03:55:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4cu24/mark_cuban_says_hes_proud_to_pay_288_million_in/"> <img alt="Mark Cuban says he's proud to pay $288 million in taxes this year, unlike a certain former president" src="https://external-preview.redd.it/tHIyX6-qU2wCouInZdLVNtGFbD1BM8HMM12_PxN3CJg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5075ab850d2415df8963ab768f9db85dac63b745" title="Mark Cuban says he's proud to pay $288 million in taxes this year, unlike a certain former president" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Johannastraat"> /u/Johannastraat </a> <br /> <span><a href="https://www.businessinsider.com/mark-cuban-proud-to-pay-taxes-unlike-certain-ex-president-2024-4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4cu24/mark_cuban_says_hes_proud_to_pay_288_million_in/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump faces 4 criminal trials: A calendar of what to expect
+ - [https://www.reddit.com/r/politics/comments/1c4c839/donald_trump_faces_4_criminal_trials_a_calendar](https://www.reddit.com/r/politics/comments/1c4c839/donald_trump_faces_4_criminal_trials_a_calendar)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T03:21:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4c839/donald_trump_faces_4_criminal_trials_a_calendar/"> <img alt="Donald Trump faces 4 criminal trials: A calendar of what to expect" src="https://external-preview.redd.it/J9zvLdPfWVh8AnF0vmILfjyot9Ii2z0C4-sKJpY-MwU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=03b25b959b7791c6068097a6f1a1934bc88a66ed" title="Donald Trump faces 4 criminal trials: A calendar of what to expect" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AbjectPiece"> /u/AbjectPiece </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/elections/2024/04/14/donald-trump-news-trials-calendar/73288907007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4c839/donald_trump_faces_4_criminal_trials_a_calendar/">[comments]</a></span> </td></tr></table>
+
+## Biden awards $830 million to toughen nation’s infrastructure against climate change
+ - [https://www.reddit.com/r/politics/comments/1c4bzrj/biden_awards_830_million_to_toughen_nations](https://www.reddit.com/r/politics/comments/1c4bzrj/biden_awards_830_million_to_toughen_nations)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T03:09:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4bzrj/biden_awards_830_million_to_toughen_nations/"> <img alt="Biden awards $830 million to toughen nation’s infrastructure against climate change" src="https://external-preview.redd.it/RTtZsc9U0FVw5lHSPbTZAZJhR4-SbFTCHVPnNG0wFig.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e0066472f78b3ac5450ec35a1ae179e09bc1074c" title="Biden awards $830 million to toughen nation’s infrastructure against climate change" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Molire"> /u/Molire </a> <br /> <span><a href="https://apnews.com/article/biden-climate-investment-resilience-transportation-election-c82199b763a69f582c564e6330192804">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4bzrj/biden_awards_830_million_to_toughen_nations/">[comments]</a></span> </td></tr></table>
+
+## 'Assault weapons' ban passes Colorado House
+ - [https://www.reddit.com/r/politics/comments/1c4bsqx/assault_weapons_ban_passes_colorado_house](https://www.reddit.com/r/politics/comments/1c4bsqx/assault_weapons_ban_passes_colorado_house)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T02:59:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c4bsqx/assault_weapons_ban_passes_colorado_house/"> <img alt="'Assault weapons' ban passes Colorado House" src="https://external-preview.redd.it/Vv6IYnNhJXMKCwtmse3rJu1ZW3QPyReEfopHc9VgJjI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b485a8857b771459fec8fa62da27db25f873bda6" title="'Assault weapons' ban passes Colorado House" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ParadeSit"> /u/ParadeSit </a> <br /> <span><a href="https://www.9news.com/mobile/article/news/local/local-politics/assault-weapons-ban-colorado-house/73-2463bf88-62fe-458f-829a-536f99a238df">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c4bsqx/assault_weapons_ban_passes_colorado_house/">[comments]</a></span> </td></tr></table>
+
+## Majority of voters think Trump committed ‘serious federal crimes,’ according to NYT poll
+ - [https://www.reddit.com/r/politics/comments/1c49nzw/majority_of_voters_think_trump_committed_serious](https://www.reddit.com/r/politics/comments/1c49nzw/majority_of_voters_think_trump_committed_serious)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T01:11:10+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TurretLauncher"> /u/TurretLauncher </a> <br /> <span><a href="https://www.politico.com/news/2024/04/13/trump-crimes-poll-voters-00152110">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c49nzw/majority_of_voters_think_trump_committed_serious/">[comments]</a></span>
+
+## Trump’s Out of Control Antics Simply Won’t Work in Court
+ - [https://www.reddit.com/r/politics/comments/1c492js/trumps_out_of_control_antics_simply_wont_work_in](https://www.reddit.com/r/politics/comments/1c492js/trumps_out_of_control_antics_simply_wont_work_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T00:42:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c492js/trumps_out_of_control_antics_simply_wont_work_in/"> <img alt="Trump’s Out of Control Antics Simply Won’t Work in Court" src="https://external-preview.redd.it/5FOnZIRyumfH1SpHXJz_vJ1HV2A_05MbcIqfnolJdP8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2282524bbd2b7d39f257227802c868ed28b52e3" title="Trump’s Out of Control Antics Simply Won’t Work in Court" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/croato87"> /u/croato87 </a> <br /> <span><a href="https://www.thedailybeast.com/trumps-out-of-control-antics-simply-wont-work-in-court">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c492js/trumps_out_of_control_antics_simply_wont_work_in/">[comments]</a></span> </td></tr></table>
+
+## Trump tax cuts set to expire – will you be affected?
+ - [https://www.reddit.com/r/politics/comments/1c48sfm/trump_tax_cuts_set_to_expire_will_you_be_affected](https://www.reddit.com/r/politics/comments/1c48sfm/trump_tax_cuts_set_to_expire_will_you_be_affected)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-15T00:28:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c48sfm/trump_tax_cuts_set_to_expire_will_you_be_affected/"> <img alt="Trump tax cuts set to expire – will you be affected?" src="https://external-preview.redd.it/rK3wEqIcVVNJDVl_S89NbyarlrmDJSP0C-sQva7WCWo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ccf4c64d7ba96bae59fd270df66d4f05029b0b2" title="Trump tax cuts set to expire – will you be affected?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KoreyMDuffy"> /u/KoreyMDuffy </a> <br /> <span><a href="https://thehill.com/homenews/4530402-trump-tax-cuts-set-to-expire-will-you-be-affected/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c48sfm/trump_tax_cuts_set_to_expire_will_you_be_affected/">[comments]</a></span> </td></tr></table>
+

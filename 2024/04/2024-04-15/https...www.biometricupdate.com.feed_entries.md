@@ -1,0 +1,150 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## Cyber Revolution Summit India
+ - [https://www.biometricupdate.com/202404/cyber-revolution-summit-india](https://www.biometricupdate.com/202404/cyber-revolution-summit-india)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T23:23:19+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="650" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/15192128/1130x650.jpg" width="1130" />
+		<strong><a href="https://cyber.traiconevents.com/ind/">Cyber Revolution Summit India</a></strong>
+<strong>New Delhi, India</strong>
+<strong>April 25-26, 2024</strong>
+
+TraiCon Events will be hosting India’s premier cybersecurity event, the “Cyber Revolution Summit,” which is scheduled for 25th and 26th April 2024 in New Delhi, India. 
+
+This summit will feature keynote presentations and panel discussions with top security experts from various industries covering a range of topics, including cybersecurity innovations, data privacy & security, risk management, network security, threat detection & intelligence, and vulnerability management.
+
+This summit is an indisputable platform for public and private alliances. It aims to bring 500+ pre-qualified CISOs, CIOs, heads of cyber security, d
+
+## Nigeria’s NIMC introducing one multi-purpose digital ID card, not three
+ - [https://www.biometricupdate.com/202404/nigerias-nimc-introducing-one-multi-purpose-digital-id-card-not-three](https://www.biometricupdate.com/202404/nigerias-nimc-introducing-one-multi-purpose-digital-id-card-not-three)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T23:10:05+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1024" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/21122004/liberia-national-id-biometric-registration.png" width="1536" />
+		The National Identity Management Commission of Nigeria (NIMC) has clarified that only one new digital ID card with multiple functions will be introduced in the coming days.
+
+This information is contained in a factsheet <a href="https://twitter.com/nimc_ng/status/1779076413556928531">posted</a> by the ID authority to its X platform on April 12. This comes after it announced the introduction of the card in a statement early this month, which <a href="https://www.biometricupdate.com/202404/confusion-as-nigeria-national-id-cards-multiply">sparked some confusion</a>.
+
+The announcement had led to various interpretations, including that the agency was planning to introduce three different cards, prompting scathing criticisms in the country’s conventional an
+
+## Smart Bangladesh 2041: Balancing ambition with reality
+ - [https://www.biometricupdate.com/202404/smart-bangladesh-2041-balancing-ambition-with-reality](https://www.biometricupdate.com/202404/smart-bangladesh-2041-balancing-ambition-with-reality)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T22:55:20+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="662" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/15185359/digital-bangladesh.jpg" width="1000" />
+		Bangladesh aims to be a <a href="https://a2i.gov.bd/wp-content/uploads/2023/03/Smart-Bangladesh-ICT-Master-Plan-2041-Draft-PDF-1.pdf">“Smart” nation</a> by 2041 as the country goes through a drastic transformation founded on digital identity and innovation. Bangladesh, a technologically backward country, has made a remarkable journey towards mass digitization. Bangladesh established the foundation for its digital transformation between 2009 to 2021. Among its advances, the initiation of Union Digital Centers (<a href="https://a2i.gov.bd/union-digital-centers-digitizing-bangladeshs-grassroots/#:~:text=Union%20Digital%20Centres%20(UDCs)%20are,all%20public%20and%20private%20services.">UDC</a>) and the development of the national<a href="https://bcc.portal.gov.bd/sites/default/f
+
+## Age assurance tech is ready now, and international standards are on their way
+ - [https://www.biometricupdate.com/202404/age-assurance-tech-is-ready-now-and-international-standards-are-on-their-way](https://www.biometricupdate.com/202404/age-assurance-tech-is-ready-now-and-international-standards-are-on-their-way)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T19:52:42+00:00
+
+<img alt="age verification children" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1367" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/29113926/children-laptop-6-12-scaled.jpg" width="2048" />
+		The <a href="https://www.biometricupdate.com/tag/global-age-assurance-standards-summit">Global Age Assurance Standards Summit</a> has wrapped up, culminating in a set of assertions, a seven-point call-to-action and four main principles for protecting young people from the risks of age-inappropriate goods and services.
+
+The event convened more than 700 stakeholders for a week of consultation and debate about the future of standards for age assurance, what their goals should be and how they can be achieved technically, with support from the Safe Online initiative and the British Standards Institute (BSI). The first four days of the event covered many different facets of the issue, including detailed discussions of <a href="https://www.biometr
+
+## NIST finds biometric age estimation effective in first benchmark, coming soon
+ - [https://www.biometricupdate.com/202404/nist-finds-biometric-age-estimation-effective-in-first-benchmark-coming-soon](https://www.biometricupdate.com/202404/nist-finds-biometric-age-estimation-effective-in-first-benchmark-coming-soon)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T19:41:55+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/15154025/kids-online-age-estimation-scaled.jpg" width="2048" />
+		The U.S. National Institute of Standards and Technology presented a preview of its assessment of facial age estimation with selfie biometrics at the <a href="https://www.biometricupdate.com/tag/global-age-assurance-standards-summit">Global Age Assurance Standards Summit</a>, which revealed promising initial results for assurance that an individual is over 18. The evaluation also suggests that with effective thresholds in place, biometric age estimation is potentially as effective as checking a date of birth field on an identity document.
+
+Six algorithms were submitted to NIST’s Face Analysis Technology Evaluation (FATE) <a href="https://pages.nist.gov/frvt/html/frvt_age_estimation.html">Age Estimation &amp; Verification</a> track. <a href="https://www.biometr
+
+## Maryland bill on police use of facial recognition is ‘strongest law in the nation’
+ - [https://www.biometricupdate.com/202404/maryland-bill-on-police-use-of-facial-recognition-is-strongest-law-in-the-nation](https://www.biometricupdate.com/202404/maryland-bill-on-police-use-of-facial-recognition-is-strongest-law-in-the-nation)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T19:20:35+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="792" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg" width="2048" />
+		Maryland has passed one of the more stringent laws governing the use of facial recognition technology by law enforcement in the U.S.
+
+A news release from the Security Industry Association (SIA) says that the Maryland General Assembly unanimously passed <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0338">House Bill 338</a>/<a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0182">Senate Bill 182</a> to regulate the use of biometric facial recognition by law enforcement with a uniform statewide policy. The vote now sends the bill to the Governor for signing into law.
+
+The SIA says the regulation will impose “extensive requirements” applicable to any agency using facial recognition, which are broadly in line with SIA’s <a href="https://www.s
+
+## Immigrant and civil rights groups urge govt to ban own use of FRT, limit private use
+ - [https://www.biometricupdate.com/202404/immigrant-and-civil-rights-groups-urge-govt-to-ban-own-use-of-frt-limit-private-use](https://www.biometricupdate.com/202404/immigrant-and-civil-rights-groups-urge-govt-to-ban-own-use-of-frt-limit-private-use)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T19:07:24+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1333" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg" width="2048" />
+		Rights groups continue to call on the U.S. government to limit governmental use of facial recognition technology.
+
+Digital rights group Electronic Frontier Foundation (EFF) submitted <a href="https://www.eff.org/files/2024/04/12/2024-04-05_-_electronic_frontier_foundation_-_comments_on_frt_0.pdf">comments</a> to the U.S. Commission on Civil Rights, which is currently preparing a report on the use of face recognition technology (FRT) by federal agencies and its implications.
+
+The organization argues that the tech is not reliable enough to be used in decisions affecting constitutional and statutory rights or social benefits while facial recognition puts marginalized communities at risk and threatens privacy.
+
+“The government should ban its own use of FRT, and str
+
+## Apple supports the reuse of biometric sensors, simplifying the repair process
+ - [https://www.biometricupdate.com/202404/apple-supports-the-reuse-of-biometric-sensors-simplifying-the-repair-process](https://www.biometricupdate.com/202404/apple-supports-the-reuse-of-biometric-sensors-simplifying-the-repair-process)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T19:05:30+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/20141423/iphone-selfie-biometrics-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/tag/apple">Apple</a> has announced its repair options, addressing concerns voiced by right-to-repair advocates. The tech giant has revealed that it will now offer used genuine parts as part of its repair process. This new process involves calibrating the parts on-device after installation, ensuring that they meet the original factory specifications and function correctly.
+
+Apple <a href="https://www.apple.com/ca/newsroom/2024/04/apple-to-expand-repair-options-with-support-for-used-genuine-parts/">highlights</a> that this repair process will extend the longevity of their products by providing access to genuine parts, even if they are pre-owned. Additionally, the company hopes to reduce its environmental impact by decreasi
+
+## Shohei Ohtahi interpreter scandal just one pitch in global game of bank ID fraud
+ - [https://www.biometricupdate.com/202404/shohei-ohtahi-interpreter-scandal-just-one-pitch-in-global-game-of-bank-id-fraud](https://www.biometricupdate.com/202404/shohei-ohtahi-interpreter-scandal-just-one-pitch-in-global-game-of-bank-id-fraud)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T19:01:27+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1367" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/12154539/selfie-phone-PAD-scaled.jpg" width="2048" />
+		Many will see the story of baseball superstar Shohei Ohtani and the interpreter who embezzled millions from him to pay off gambling debts as a <a href="https://www.nytimes.com/2024/04/13/business/shohei-ohtani-interpreter-details.html?searchResultPosition=1">cautionary tale</a> about sports betting. But it is equally potent as a reminder of the ever-present risk of financial fraud, and the increasing role that identity verification plays in preventing it.
+
+In this case, Ohtani’s interpreter, Ippei Mizuhara, is a real person who had access to Ohtani’s finances and admitted to stealing US$16 million from his boss to cover his betting losses. Mizuhara was able to change settings on Ohtani’s bank accounts to redirect alerts, and – because he was so familiar was Ohtahi’s sp
+
+## Kenya raises issuance targets for digital IDs and passports
+ - [https://www.biometricupdate.com/202404/kenya-raises-issuance-targets-for-digital-ids-and-passports](https://www.biometricupdate.com/202404/kenya-raises-issuance-targets-for-digital-ids-and-passports)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T16:29:25+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="667" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/27134419/kenya-passport.jpg" width="1000" />
+		Everything being equal, Kenya plans to issue at least three million digital national IDs and one million biometric passports before this year runs out.
+
+This ambition was revealed last week by Julius Bitok, principal secretary for Immigration and Citizen Services, The Star <a href="https://www.the-star.co.ke/news/realtime/2024-04-12-ps-state-targets-to-issue-1-million-passports-3-million-digital-ids-this-year/">reports</a>.
+
+Speaking on the issue during a planning meeting in the city of Mombasa, Bitok said measures are also being taken by the government to ensure easy access to these important identity credentials.
+
+Increased issuance of these documents will mean improvement in the revenue collected from the provision of services through the eCitizen digital government, accordin
+
+## IOM and Japan back biometrics at Sri Lanka ports of entry
+ - [https://www.biometricupdate.com/202404/iom-and-japan-back-biometrics-at-sri-lanka-ports-of-entry](https://www.biometricupdate.com/202404/iom-and-japan-back-biometrics-at-sri-lanka-ports-of-entry)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T16:12:13+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="645" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/04181000/sita-boarding-biometric-touchless-gate.jpg" width="950" />
+		Biometric technology use continues to grow at airports around the world. Air transport industry IT provider SITA<a href="https://www.sita.aero/pressroom/news-releases/airlines-and-airports-increase-it-spend-to-improve-the-passenger-journey-and-meet-sustainability-goals/"> predicts</a> that by 2026, over half of check-ins and baggage drops will use biometrics, while 70 percent of airlines will have biometric ID management in place. Sri Lanka, South Africa, Spain, the Dominican Republic and India have been making their moves.
+<h2>Japan provides grant to Sri Lanka for ABC gates</h2>
+Japan will grant US$8.4 million to Sri Lanka to upgrade two of the country’s major points of entry, including investing in biometric access control systems and automated border co
+
+## Kuwait fingerprints 2M as biometric data registration deadline nears
+ - [https://www.biometricupdate.com/202404/kuwait-fingerprints-2m-as-biometric-data-registration-deadline-nears](https://www.biometricupdate.com/202404/kuwait-fingerprints-2m-as-biometric-data-registration-deadline-nears)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T15:40:23+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/28184625/digital-identity-scaled.jpg" width="2048" />
+		Kuwait is finalizing its program of collecting fingerprints for the country’s central biometric database as the June deadline for completion.
+
+Two million citizens and expatriates have already submitted their fingerprints with 400,000 more to go. To ensure each citizen is enrolled, the country is introducing an at-home fingerprinting service for the ill and the elderly.
+
+The designated fingerprinting centers have been evaluated as adequate to complete the project with no expansions necessary, <a href="https://www.arabtimesonline.com/news/kuwait-steps-up-biometric-fingerprinting-with-400000-still-pending/">according</a> to unnamed sources from the Ministry of Interior quoted by The Arab Times. The existing centers will, however, extend working hours to complete the thre
+
+## Xperix OCR software deployed for Brazil border control in deal with Akiyama Group
+ - [https://www.biometricupdate.com/202404/xperix-ocr-software-deployed-for-brazil-border-control-in-deal-with-akiyama-group](https://www.biometricupdate.com/202404/xperix-ocr-software-deployed-for-brazil-border-control-in-deal-with-akiyama-group)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-15T15:29:46+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="757" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/15123933/RealPassN.jpg" width="1200" />
+		South Korea-based biometrics provider <a href="https://www.biometricupdate.com/companies/xperix">Xperix Inc.</a> has announced the successful integration of its RealPass-N Optical Character Recognition (OCR) algorithm and Public Key Infrastructure performance into <a href="https://www.biometricupdate.com/companies/akiyama">Akiyama</a>’s border control systems in Brazil. A company release says a strong partnership between the two biometrics firms enabled the deployment, which is aimed at modernizing border control and migration processes in what Xperia calls “a significant leap forward for Brazil’s border security and efficiency.”
+
+Features of the upgraded system include the capability to use various access control modes (BAC, PACE, EAC) and authentication methods (passive, active, ch
+

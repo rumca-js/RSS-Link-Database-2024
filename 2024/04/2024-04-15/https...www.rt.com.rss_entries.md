@@ -1,0 +1,340 @@
+# Source:RT - Daily news, URL:https://www.rt.com/rss, language:en
+
+## This MeToo saga is wrecking journalism, politics, and the legal system in Australia
+ - [https://www.rt.com/news/595992-australia-metoo-revealed-corruption/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595992-australia-metoo-revealed-corruption/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T21:59:43+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d218285f54062573cc8ee.jpg" style="margin-right: 10px;" /> A long ongoing case has both caused and revealed corruption in all areas of public life <br /><a href="https://www.rt.com/news/595992-australia-metoo-revealed-corruption/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel promises ‚Äòresponse‚Äô to Iranian attack
+ - [https://www.rt.com/news/596015-israel-response-iran-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596015-israel-response-iran-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T21:53:19+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d9ec685f540649004f825.jpg" style="margin-right: 10px;" /> Israel is planning to strike Iran after the mass missile and drone attack¬† <br /><a href="https://www.rt.com/news/596015-israel-response-iran-strike/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Treat Ukraine like Israel ‚Äì Zelensky
+ - [https://www.rt.com/russia/596014-zelensky-ukraine-israel-protection/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/596014-zelensky-ukraine-israel-protection/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T21:12:55+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d97d42030277f4c5a091e.jpg" style="margin-right: 10px;" /> President Vladimir Zelensky wants the collective West to give Ukraine the same level of protection it provides to Israel <br /><a href="https://www.rt.com/russia/596014-zelensky-ukraine-israel-protection/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Fire breaks out at US ammunition factory
+ - [https://www.rt.com/news/596016-scranton-artillery-factory-fire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596016-scranton-artillery-factory-fire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T21:04:49+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d95f02030277bf2437d55.jpg" style="margin-right: 10px;" /> A blaze has been reported at the factory that makes 155mm artillery shells in President Joe Biden‚Äôs hometown of Scranton, Pennsylvania <br /><a href="https://www.rt.com/news/596016-scranton-artillery-factory-fire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## FBI launches criminal probe into Baltimore bridge collapse ‚Äì media
+ - [https://www.rt.com/news/596008-baltimore-bridge-criminal-probe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596008-baltimore-bridge-criminal-probe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T20:41:46+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d8ae685f540644315c38c.jpg" style="margin-right: 10px;" /> Federal authorities are now reportedly looking into the actions of the crew of the ship prior to hitting the bridge <br /><a href="https://www.rt.com/news/596008-baltimore-bridge-criminal-probe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Tesla axing more than 10% of workforce ‚Äì media
+ - [https://www.rt.com/business/596010-tesla-layoff-plans-musk/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/596010-tesla-layoff-plans-musk/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T20:29:16+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d86a085f540640a2b2d12.jpg" style="margin-right: 10px;" /> The layoffs come as the electric carmaker prepares for ‚Äúthe next phase of growth,‚Äù CEO Elon Musk said <br /><a href="https://www.rt.com/business/596010-tesla-layoff-plans-musk/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Protest against ‚Äòforeign agent‚Äô law in Georgia turns violent (VIDEO)
+ - [https://www.rt.com/russia/596012-georgia-protests-parliament/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/596012-georgia-protests-parliament/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T19:15:15+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d786f85f540399b44c5d0.jpg" style="margin-right: 10px;" /> Demonstrators opposed to the NGO and media transparency bill have clashed with police outside the legislature in Tbilisi <br /><a href="https://www.rt.com/russia/596012-georgia-protests-parliament/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Timofey Bordachev: Globalization is done for. Here‚Äôs why
+ - [https://www.rt.com/news/596013-globalization-is-done-for/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596013-globalization-is-done-for/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T19:03:00+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d773585f54057890c8380.jpg" style="margin-right: 10px;" /> The collapse of the middle class is driving the abandonment of a system we believed was here to stay <br /><a href="https://www.rt.com/news/596013-globalization-is-done-for/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Most Russians give to charity ‚Äì survey
+ - [https://www.rt.com/russia/596009-russians-charity-donations-study/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/596009-russians-charity-donations-study/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T18:48:10+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d65cb85f540399b44c5bf.jpg" style="margin-right: 10px;" /> More than 50% of the Russian population made charitable contributions in 2023, according to a study by the Higher School of Economics <br /><a href="https://www.rt.com/russia/596009-russians-charity-donations-study/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Saudis ‚Äòconfirm‚Äô shooting down Iranian drones ‚Äì media
+ - [https://www.rt.com/news/596007-saudi-arabia-iran-drone-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596007-saudi-arabia-iran-drone-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T18:47:46+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d6f0585f5402cfd31a186.jpg" style="margin-right: 10px;" /> Saudi Arabia has reportedly helped the US, UK, France and Jordan defend Israel from the Iranian drone and missile attack <br /><a href="https://www.rt.com/news/596007-saudi-arabia-iran-drone-israel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Sales of low-alcohol drinks surging in Russia ‚Äì data
+ - [https://www.rt.com/business/596000-russian-alchohol-market-growth/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/596000-russian-alchohol-market-growth/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T17:50:03+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d2d6620302708e014a49a.jpg" style="margin-right: 10px;" /> Russia‚Äôs alcohol and tobacco regulator has released new quarterly data about sale of spirits in the country <br /><a href="https://www.rt.com/business/596000-russian-alchohol-market-growth/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Policeman can sue Black Lives Matter activist ‚Äì US Supreme Court
+ - [https://www.rt.com/news/596003-blm-activist-sued-protest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596003-blm-activist-sued-protest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T17:12:33+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d444985f5406445710615.jpg" style="margin-right: 10px;" /> BLM organizer DeRay McKesson can be sued by a Louisiana police officer who was injured during a Baton Rouge riot in 2016 <br /><a href="https://www.rt.com/news/596003-blm-activist-sued-protest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## WATCH violent brawl erupt in Georgian parliament
+ - [https://www.rt.com/russia/596002-georgia-brawl-foreign-agents-bill/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/596002-georgia-brawl-foreign-agents-bill/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T17:04:16+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d414885f5402cfd31a151.png" style="margin-right: 10px;" /> A Georgian opposition MP has punched his counterpart in parliament during debate over a foreign agents bill <br /><a href="https://www.rt.com/russia/596002-georgia-brawl-foreign-agents-bill/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Tesla signs deal with Indian conglomerate ‚Äì media
+ - [https://www.rt.com/india/596006-tesla-signs-deal-with-indian-tata/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/596006-tesla-signs-deal-with-indian-tata/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T16:52:58+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d5b0885f540640a2b2cfb.jpg" style="margin-right: 10px;" /> Tata Group has reportedly partnered with Elon Musk‚Äôs Tesla, and will produce semiconductor chips for electric cars <br /><a href="https://www.rt.com/india/596006-tesla-signs-deal-with-indian-tata/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## ‚ÄòResistance will be violent‚Äô: What‚Äôs next for Israel and Gaza as the conflict goes on?
+ - [https://www.rt.com/news/595789-israel-gaza-operation-rafah/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595789-israel-gaza-operation-rafah/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T16:49:51+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d2ae220302708933ffcee.jpg" style="margin-right: 10px;" /> Israel is preparing an operation to establish control over Rafah. What will happen to Gaza after this? <br /><a href="https://www.rt.com/news/595789-israel-gaza-operation-rafah/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Sydney convulsed by riots after priest stabbing
+ - [https://www.rt.com/news/596005-australia-riots-priest-stabbing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596005-australia-riots-priest-stabbing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T15:48:33+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d4f1385f54062573cc92d.jpg" style="margin-right: 10px;" /> Assyrian Orthodox community members have clashed with police after an man stabbed a bishop during a service in Sydney, Australia <br /><a href="https://www.rt.com/news/596005-australia-riots-priest-stabbing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russian region braced for major flood (VIDEOS)
+ - [https://www.rt.com/russia/595998-kurgan-region-major-flood/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/595998-kurgan-region-major-flood/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T15:40:15+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d4836203027073313ad00.jpg" style="margin-right: 10px;" /> Russia‚Äôs Kurgan Region is braced for a major flood with waters rapidly rising in the Tobol River <br /><a href="https://www.rt.com/russia/595998-kurgan-region-major-flood/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Macron wants Olympics truce in Ukraine and Gaza
+ - [https://www.rt.com/news/595990-macron-olympic-truce-ukraine-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595990-macron-olympic-truce-ukraine-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T15:24:57+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d398920302707b0137eda.jpg" style="margin-right: 10px;" /> The French president has vowed to ensure that the 2024 Olympic Games should be ‚Äúa moment of diplomatic peace‚Äù <br /><a href="https://www.rt.com/news/595990-macron-olympic-truce-ukraine-gaza/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russian region bans foreigners from working in certain sectors
+ - [https://www.rt.com/russia/596001-crimea-tightens-migrants-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/596001-crimea-tightens-migrants-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T15:20:55+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d438085f540644315c358.jpg" style="margin-right: 10px;" /> Crimean authorities have banned foreigners from working in certain industries due to an influx of illegal immigrants <br /><a href="https://www.rt.com/russia/596001-crimea-tightens-migrants-regulation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Germans can now change gender every year
+ - [https://www.rt.com/news/595997-german-parliament-sex-change-once-year-law/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595997-german-parliament-sex-change-once-year-law/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T15:15:16+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d2c50203027073313ace2.jpg" style="margin-right: 10px;" /> The German parliament has adopted a bill that allows citizens, including minors, to change their gender on documents once a year <br /><a href="https://www.rt.com/news/595997-german-parliament-sex-change-once-year-law/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Nigeria first in the world to launch new vaccine against meningitis
+ - [https://www.rt.com/africa/595988-nigeria-men5cv-meningitis-vaccine-rollout/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/595988-nigeria-men5cv-meningitis-vaccine-rollout/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T15:01:38+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d237b203027073313acc7.jpg" style="margin-right: 10px;" /> Nigeria has begun an immunization campaign with Men5CV after the disease killed over 150 people between last October and March this year <br /><a href="https://www.rt.com/africa/595988-nigeria-men5cv-meningitis-vaccine-rollout/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Man stabs priest during sermon (VIDEO)
+ - [https://www.rt.com/news/595994-sydney-priest-stabbing-sermon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595994-sydney-priest-stabbing-sermon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T14:03:58+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d262a203027073313acd4.png" style="margin-right: 10px;" /> A bishop in Sydney, Australia was attacked with a knife during a church sermon, local media reports <br /><a href="https://www.rt.com/news/595994-sydney-priest-stabbing-sermon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## UK won‚Äôt seize Russian money ‚Äì Politico¬†¬†¬†
+ - [https://www.rt.com/business/595978-frozen-russian-assets-uk/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/595978-frozen-russian-assets-uk/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T13:59:08+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d299785f540044b703f22.jpg" style="margin-right: 10px;" /> Britain may never confiscate frozen Russian assets despite pledges, as such a move would have massive legal ramifications, experts warn <br /><a href="https://www.rt.com/business/595978-frozen-russian-assets-uk/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Jury selection begins in Trump hush-money trial
+ - [https://www.rt.com/news/595999-trump-hush-money-trial/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595999-trump-hush-money-trial/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T13:47:18+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d2c0885f540644315c341.jpg" style="margin-right: 10px;" /> Donald Trump has arrived at the courthouse in New York to stand trial over payments to porn star during the 2016 election <br /><a href="https://www.rt.com/news/595999-trump-hush-money-trial/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Kremlin comments on Iran‚Äôs strike on Israel
+ - [https://www.rt.com/russia/595995-kremlin-iran-attack-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/595995-kremlin-iran-attack-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T13:33:02+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d27fa85f54062573cc901.jpg" style="margin-right: 10px;" /> The further escalation of conflict in the Middle East serves no one‚Äôs interests, Kremlin spokesman Dmitry Peskov has said <br /><a href="https://www.rt.com/russia/595995-kremlin-iran-attack-israel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US ban on Russian metals ‚Äòcuts both ways‚Äô ‚Äì Kremlin
+ - [https://www.rt.com/business/595993-us-metals-ban-cuts-both-ways/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/595993-us-metals-ban-cuts-both-ways/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T13:28:32+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d285e85f54064457105fb.jpg" style="margin-right: 10px;" /> New Western sanctions against Russian aluminum, copper, and nickel are a weapon that ‚Äúcuts both ways,‚Äù Moscow says <br /><a href="https://www.rt.com/business/595993-us-metals-ban-cuts-both-ways/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## BRICS should create alternative international monetary system ‚Äì envoy
+ - [https://www.rt.com/africa/595991-brics-alternative-monetary-system/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/595991-brics-alternative-monetary-system/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T12:56:56+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d1fec85f54064457105e2.png" style="margin-right: 10px;" /> Ethiopian Ambassador to Russia Cham Ugala Uriat says BRICS needs to find a different international monetary system <br /><a href="https://www.rt.com/africa/595991-brics-alternative-monetary-system/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Kiev asks to ‚Äòlease‚Äô Patriot missile systems
+ - [https://www.rt.com/russia/595989-kuleba-patriot-missiles-lease/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/595989-kuleba-patriot-missiles-lease/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T12:42:53+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d195b20302707b0137e9f.jpg" style="margin-right: 10px;" /> Foreign Minister Dmitry Kuleba has said Ukraine is willing to receive Patriot missile systems by any means necessary <br /><a href="https://www.rt.com/russia/595989-kuleba-patriot-missiles-lease/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Iran calls on India to continue efforts to stop Gaza war
+ - [https://www.rt.com/india/595987-iran-india-stop-gaza-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/595987-iran-india-stop-gaza-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T12:22:43+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d153285f540044b703f04.jpg" style="margin-right: 10px;" /> Tehran and New Delhi have discussed the situation in the Middle East following Iran‚Äôs missile attack on Israel <br /><a href="https://www.rt.com/india/595987-iran-india-stop-gaza-war/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Macron calls for ‚Äòisolation‚Äô of Iran
+ - [https://www.rt.com/news/595983-macron-israel-iran-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595983-macron-israel-iran-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T12:15:17+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d00fa85f540044b703eee.jpg" style="margin-right: 10px;" /> Sanctions on Iran should be strengthened following its recent attack on Israel, French President Emmanuel Macron has said <br /><a href="https://www.rt.com/news/595983-macron-israel-iran-sanctions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Apple loses top phone maker spot to Asian rival ‚Äì data
+ - [https://www.rt.com/business/595985-apple-loses-top-phone-maker-spot/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/595985-apple-loses-top-phone-maker-spot/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T11:53:12+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d036b20302707f534482b.jpg" style="margin-right: 10px;" /> Samsung has regained the top spot as the world‚Äôs top smartphone maker in terms of sales, data shows <br /><a href="https://www.rt.com/business/595985-apple-loses-top-phone-maker-spot/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## German leader backs open EU market for Chinese cars
+ - [https://www.rt.com/business/595981-scholz-open-european-market-chinese-cars/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/595981-scholz-open-european-market-chinese-cars/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T10:53:00+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661cf86d20302706a400d942.jpg" style="margin-right: 10px;" /> German Chancellor Olaf Scholz has spoken in favor of opening the European market to Chinese automakers as long as they compete fairly <br /><a href="https://www.rt.com/business/595981-scholz-open-european-market-chinese-cars/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## ‚ÄòTime to be smart‚Äô ‚Äì UK on Israel-Iran tensions
+ - [https://www.rt.com/news/595984-cameron-israel-no-retaliation-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595984-cameron-israel-no-retaliation-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T10:43:50+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661d044020302706a400d952.jpg" style="margin-right: 10px;" /> Israel has every right to retaliate after Iran‚Äôs attack but would be wise not to do so, UK Foreign Secretary David Cameron believes <br /><a href="https://www.rt.com/news/595984-cameron-israel-no-retaliation-iran/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Different cultures can be united under one faith ‚Äì church leader (PHOTOS)
+ - [https://www.rt.com/africa/595979-russian-orthodox-church-baptized-malawians/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/595979-russian-orthodox-church-baptized-malawians/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T10:30:43+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661cf19620302707f5344814.png" style="margin-right: 10px;" /> People of different cultures can come together under a common faith, Russian Metropolitan Konstantin has said <br /><a href="https://www.rt.com/africa/595979-russian-orthodox-church-baptized-malawians/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Further escalation between Iran and Israel avoidable ‚Äì Hungary
+ - [https://www.rt.com/news/595982-iran-israel-escalation-avoidable-hungary/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595982-iran-israel-escalation-avoidable-hungary/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T10:27:14+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661cfff585f54062573cc8d1.jpg" style="margin-right: 10px;" /> Hungarian FM Peter Szijjarto says most global players are keen to prevent a further build-up of tensions in the Middle East <br /><a href="https://www.rt.com/news/595982-iran-israel-escalation-avoidable-hungary/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## No Biden address on Israel-Iran escalation ‚Äì Politico
+ - [https://www.rt.com?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T10:21:24+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661cf53f85f540640a2b2ca0.jpg" style="margin-right: 10px;" /> US President Joe Biden will not address the nation after a long-range Iranian attack on Israel, according to Politico <br /><a href="https://www.rt.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## No Biden address on Israel-Iran escalation ‚Äì Politico
+ - [https://www.rt.com/news/595980-biden-iran-israel-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595980-biden-iran-israel-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T10:21:24+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661cf53f85f540640a2b2ca0.jpg" style="margin-right: 10px;" /> US President Joe Biden will not address the nation after a long-range Iranian attack on Israel, according to Politico <br /><a href="https://www.rt.com/news/595980-biden-iran-israel-gaza/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## West African nation stages protests against US military presence
+ - [https://www.rt.com/africa/595976-niger-protests-us-military-presence/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/595976-niger-protests-us-military-presence/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T10:05:29+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661cf6ad85f540044b703ee4.jpg" style="margin-right: 10px;" /> Protests against the US military presence in Niger have hailed its rulers for cooperating with ‚Äúfriendly‚Äù countries, including Russia <br /><a href="https://www.rt.com/africa/595976-niger-protests-us-military-presence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## UK could deport asylum seekers to ex-Soviet republic ‚Äì The Times
+ - [https://www.rt.com/news/595977-uk-deport-asylum-seekers-armenia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595977-uk-deport-asylum-seekers-armenia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T09:34:06+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661cf39c85f540644315c311.jpg" style="margin-right: 10px;" /> Britain is in talks with Armenia to launch a migrant deportation scheme replicating the controversial Rwanda deal, The Times has reported <br /><a href="https://www.rt.com/news/595977-uk-deport-asylum-seekers-armenia/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Iranian strikes on Israel represent ‚Äòspillover‚Äô of Gaza conflict ‚Äì China
+ - [https://www.rt.com/news/595973-israel-iran-un-security-council-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595973-israel-iran-un-security-council-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T09:21:28+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661cf0c220302706a400d92e.jpg" style="margin-right: 10px;" /> China‚Äôs envoy to the UN has described Iran‚Äôs retaliatory attacks on Israel as a ‚Äúspillover‚Äù of the Gaza war and called for a ceasefire
+
+¬† <br /><a href="https://www.rt.com/news/595973-israel-iran-un-security-council-china/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel mobilizes more reservists
+ - [https://www.rt.com/news/595972-idf-mobilization-reservists-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595972-idf-mobilization-reservists-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T09:00:43+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661ce87885f540044b703ecc.jpg" style="margin-right: 10px;" /> The Israel Defense Forces has announced the mobilization of two additional brigades for the Gaza war <br /><a href="https://www.rt.com/news/595972-idf-mobilization-reservists-gaza/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Media details weapons used by Iran to strike Israel (VIDEO, PHOTOS)
+ - [https://www.rt.com/news/595969-iran-weapons-israel-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595969-iran-weapons-israel-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T08:23:03+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661ce061203027049b7e5de0.jpg" style="margin-right: 10px;" /> Iran‚Äôs strike on Israel included dozens of Shahed drones as well as several types of missiles of a range of more than 1,000km, reports say <br /><a href="https://www.rt.com/news/595969-iran-weapons-israel-strike/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel weighing response to Iranian attack ‚Äì IDF
+ - [https://www.rt.com/news/595959-israel-weighing-response-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595959-israel-weighing-response-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T07:08:58+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661cb8dc85f540649004f78f.jpg" style="margin-right: 10px;" /> The Israel Defense Forces (IDF) has presented West Jerusalem with a range of options to respond to Iranian airstrikes¬† <br /><a href="https://www.rt.com/news/595959-israel-weighing-response-iran/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Ukraine struggling in Donbass ‚Äì Zelensky
+ - [https://www.rt.com/russia/595958-ukraine-struggling-in-donbass-zelensky/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/595958-ukraine-struggling-in-donbass-zelensky/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T06:52:17+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661cb6c285f540649004f784.png" style="margin-right: 10px;" /> Vladimir Zelensky has accused Western allies of delaying military funding, contributing to Kiev‚Äôs failures on the front lines <br /><a href="https://www.rt.com/russia/595958-ukraine-struggling-in-donbass-zelensky/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel shows aftermath of Iranian attack on airbase (VIDEO)
+ - [https://www.rt.com/news/595957-israel-airbase-attack-video/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595957-israel-airbase-attack-video/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T03:34:09+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661c9f3420302706a400d8f4.png" style="margin-right: 10px;" /> The Iranian airstrikes have dealt minor damage to one military base, the Israeli military said, releasing video of the repairs <br /><a href="https://www.rt.com/news/595957-israel-airbase-attack-video/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## German leader greeted in China by city‚Äôs deputy mayor (VIDEO)
+ - [https://www.rt.com/news/595956-germany-scholz-visit-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595956-germany-scholz-visit-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T02:03:13+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661c844285f540640a2b2c5f.jpeg" style="margin-right: 10px;" /> The German Chancellor‚Äôs visit comes despite Western allies scrambling to reduce reliance on trade with China <br /><a href="https://www.rt.com/news/595956-germany-scholz-visit-china/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Middle East on verge of full scale war ‚Äì UN
+ - [https://www.rt.com/news/595955-mideast-verge-war-un/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595955-mideast-verge-war-un/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T01:23:17+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661c74f885f5406445710584.jpg" style="margin-right: 10px;" /> UN Secretary-General Antonio Guterres has warned that the Middle East is on the blink of devastating war after Iran‚Äôs attack on Israel <br /><a href="https://www.rt.com/news/595955-mideast-verge-war-un/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Ukrainian FM publicly blackmails West over oil prices
+ - [https://www.rt.com/news/595954-ukraine-patriot-refineries-blackmail/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/595954-ukraine-patriot-refineries-blackmail/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-15T00:28:11+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661c74882030277da26dc2ac.jpg" style="margin-right: 10px;" /> Kiev would be more open to halting attacks on Russian refineries if Western allies boost military aid, Ukrainian foreign minister says <br /><a href="https://www.rt.com/news/595954-ukraine-patriot-refineries-blackmail/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
