@@ -1,0 +1,198 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Microsoft OneNote can now be used on the Apple Vision Pro alongside other Office apps
+ - [https://www.neowin.net/news/microsoft-onenote-can-now-be-used-on-the-apple-vision-pro-alongside-other-office-apps](https://www.neowin.net/news/microsoft-onenote-can-now-be-used-on-the-apple-vision-pro-alongside-other-office-apps)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T23:14:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713307668_image_1_medium.jpg" /></div>Microsoft has announced its OneNote note-taking app is now available for the Apple Vision Pro mixed reality headset, a few months after the product launched with Word, PowerPoint, and Excel support. <a href="https://www.neowin.net/news/microsoft-onenote-can-now-be-used-on-the-apple-vision-pro-alongside-other-office-apps/">Read more...</a>
+
+## Ralf Groene, who lead Microsoft's Surface design team, has announced his retirement
+ - [https://www.neowin.net/news/ralf-groene-who-lead-microsofts-surface-design-team-has-announced-his-retirement](https://www.neowin.net/news/ralf-groene-who-lead-microsofts-surface-design-team-has-announced-his-retirement)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T22:38:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/09/1632609806_surface-family-3_medium.jpg" /></div>Ralf Groene, who worked at Microsoft for almost 17 years and became the head of the company&#039;s hardware design team, including its Surface products, has just announced his retirement. <a href="https://www.neowin.net/news/ralf-groene-who-lead-microsofts-surface-design-team-has-announced-his-retirement/">Read more...</a>
+
+## Microsoft Photos adds support for editing in Designer for some Windows Insider members
+ - [https://www.neowin.net/news/microsoft-photos-adds-support-for-editing-in-designer-for-some-windows-insider-members](https://www.neowin.net/news/microsoft-photos-adds-support-for-editing-in-designer-for-some-windows-insider-members)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T22:10:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713304003_microsoft-photo-designer_medium.jpg" /></div>Some members of the Windows Insider Program in the Canary and Dev channels can get a new version of the Microsoft Photos app that adds support for editing images in the AI-based Designer app. <a href="https://www.neowin.net/news/microsoft-photos-adds-support-for-editing-in-designer-for-some-windows-insider-members/">Read more...</a>
+
+## AMD RX 7900 XT (20GB VRAM) and GRE (16GB VRAM) are both at prices worth buying
+ - [https://www.neowin.net/deals/amd-rx-7900-xt-20gb-vram-and-gre-16gb-vram-are-both-at-prices-worth-buying](https://www.neowin.net/deals/amd-rx-7900-xt-20gb-vram-and-gre-16gb-vram-are-both-at-prices-worth-buying)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T21:54:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/12/1670940879_radeon_rx_7900_medium.jpg" /></div>AMD slashed the prices of its RX 7900 XT and GRE once Nvidia revealed its RTX 4000 Super cards. The 7900 XT is now down to one of its lowest prices ever, meanwhile, the GRE is also discounted. <a href="https://www.neowin.net/deals/amd-rx-7900-xt-20gb-vram-and-gre-16gb-vram-are-both-at-prices-worth-buying/">Read more...</a>
+
+## Microsoft and AMD announce Windows 11 AI PCs running Ryzen 8000 PRO and Pluton
+ - [https://www.neowin.net/news/microsoft-and-amd-announce-windows-11-ai-pcs-running-ryzen-8000-pro-and-pluton](https://www.neowin.net/news/microsoft-and-amd-announce-windows-11-ai-pcs-running-ryzen-8000-pro-and-pluton)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T18:22:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/01/1672936840_amd_windows_11_bloom_medium.jpg" /></div>AMD has unveiled today its Ryzen PRO desktop and laptop CPU lineups that are going to be powering the new Microsoft Windows 11 AI PCs. The latter is excited about Pluton security in these PCs. <a href="https://www.neowin.net/news/microsoft-and-amd-announce-windows-11-ai-pcs-running-ryzen-8000-pro-and-pluton/">Read more...</a>
+
+## Hades II Technical Test signups are now open ahead of Early Access launch
+ - [https://www.neowin.net/news/hades-ii-technical-test-signups-are-now-open-ahead-of-early-access-launch](https://www.neowin.net/news/hades-ii-technical-test-signups-are-now-open-ahead-of-early-access-launch)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T18:06:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713289777_6c1aa7e05e09e223f2e6a323f32f26ca55bade75_medium.jpg" /></div>Supergiant Games has announced the beginning of the Hades II Technical Test. Players can now sign up to get a chance to test out a slice of the game ahead of the upcoming Early Access launch. <a href="https://www.neowin.net/news/hades-ii-technical-test-signups-are-now-open-ahead-of-early-access-launch/">Read more...</a>
+
+## Microsoft Loop gets updated with new filters for tables and boards
+ - [https://www.neowin.net/news/microsoft-loop-gets-updated-with-new-filters-for-tables-and-boards](https://www.neowin.net/news/microsoft-loop-gets-updated-with-new-filters-for-tables-and-boards)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T17:50:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1712072454_notreal_x_microsoft-loop_f27-1024x577_medium.jpg" /></div>The Microsoft Loop collaboration app has received an update for Microsoft 365 subscribers that adds new filters for its tables and boards to find information faster in those features. <a href="https://www.neowin.net/news/microsoft-loop-gets-updated-with-new-filters-for-tables-and-boards/">Read more...</a>
+
+## Firefox 125 is out with improved AV1 video streaming, PDF highlighting, and more
+ - [https://www.neowin.net/news/firefox-125-is-out-with-improved-av1-video-streaming-pdf-highlighting-and-more](https://www.neowin.net/news/firefox-125-is-out-with-improved-av1-video-streaming-pdf-highlighting-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T17:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713284997_firefox_125_medium.jpg" /></div>Mozilla has released Firefox 125 (version 125.0.1, to be precise) in the Release channel. This update improves AV1 video streaming, PDF highlighting, better security, and other changes. <a href="https://www.neowin.net/news/firefox-125-is-out-with-improved-av1-video-streaming-pdf-highlighting-and-more/">Read more...</a>
+
+## Get this Costco 1-Year Gold Star membership + $40 shop card for only $60
+ - [https://www.neowin.net/deals/get-this-costco-1-year-gold-star-membership--40-shop-card-for-only-60](https://www.neowin.net/deals/get-this-costco-1-year-gold-star-membership--40-shop-card-for-only-60)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T17:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/11/1668510188_product_334700_product_shots1_medium.jpg" /></div>With today&#039;s highlighted deal, you can sign up and discover incredible savings on thousands of brand-name products for your home and family! And although you&#039;re saving $40, it&#039;s more like $60. <a href="https://www.neowin.net/deals/get-this-costco-1-year-gold-star-membership--40-shop-card-for-only-60/">Read more...</a>
+
+## Microsoft Flight Simulator City Update 6 upgrades visuals of Southwest Germany
+ - [https://www.neowin.net/news/microsoft-flight-simulator-city-update-6-upgrades-visuals-of-southwest-germany](https://www.neowin.net/news/microsoft-flight-simulator-city-update-6-upgrades-visuals-of-southwest-germany)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T16:43:11+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713284517_cu06_southwest_germany_02-scaled_medium.jpg" /></div>Microsoft&#039;s Flight Simulator team has delivered its sixth City Update for Flight Simulator. The latest update brings visual upgrades and better detail to seven cities in the region. <a href="https://www.neowin.net/news/microsoft-flight-simulator-city-update-6-upgrades-visuals-of-southwest-germany/">Read more...</a>
+
+## Five cool features coming soon to Windows 11
+ - [https://www.neowin.net/news/five-cool-features-coming-soon-to-windows-11](https://www.neowin.net/news/five-cool-features-coming-soon-to-windows-11)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T16:36:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713280924_top_5_medium.jpg" /></div>Windows 11 is getting a big update later this year. While it is too early to discuss a complete list of changes, here are five cool features that are coming soon to the operating system. <a href="https://www.neowin.net/news/five-cool-features-coming-soon-to-windows-11/">Read more...</a>
+
+## Yes, Razer has launched an edge-to-edge LED RGB backlit gaming mouse mat, the Firefly V2 Pro
+ - [https://www.neowin.net/news/yes-razer-has-launched-an-edge-to-edge-led-rgb-backlit-gaming-mouse-mat-the-firefly-v2-pro](https://www.neowin.net/news/yes-razer-has-launched-an-edge-to-edge-led-rgb-backlit-gaming-mouse-mat-the-firefly-v2-pro)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T16:16:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713281815_razer-firefly-v2-pro_medium.jpg" /></div>Razer has just launched the Firefly V2 Pro gaming mouse mat, which it says is the first mat to include edge-to-edge LED RGB backlighting as a feature. It&#039;s now available on Amazon for $99.99. <a href="https://www.neowin.net/news/yes-razer-has-launched-an-edge-to-edge-led-rgb-backlit-gaming-mouse-mat-the-firefly-v2-pro/">Read more...</a>
+
+## Download: Kubernetes Secret Handbook ($35.99 Value) — free for your email
+ - [https://www.neowin.net/sponsored/download-kubernetes-secret-handbook-3599-value--free-for-your-email](https://www.neowin.net/sponsored/download-kubernetes-secret-handbook-3599-value--free-for-your-email)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T16:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713181305_w_pacc24c82_medium.jpg" /></div>By the end of this book, you&#039;ll have a rock-solid Secrets management solution to run your business-critical applications in a hybrid multi-cloud scenario, along with all the bells and whistles. <a href="https://www.neowin.net/sponsored/download-kubernetes-secret-handbook-3599-value--free-for-your-email/">Read more...</a>
+
+## U.S. is not the world: Meta's “high court” probes if it combats explicit AI fakes globally
+ - [https://www.neowin.net/news/us-is-not-the-world-metas-high-court-probes-if-it-combats-explicit-ai-fakes-globally](https://www.neowin.net/news/us-is-not-the-world-metas-high-court-probes-if-it-combats-explicit-ai-fakes-globally)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T15:38:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/06/1686137966_girl_wearing_glasses_with_instagram_logo_medium.jpg" /></div>Meta&#039;s Oversight Board investigates whether Facebook and Instagram uphold consistent standards of content moderation across the world when users share explicit AI images of female public figures. <a href="https://www.neowin.net/news/us-is-not-the-world-metas-high-court-probes-if-it-combats-explicit-ai-fakes-globally/">Read more...</a>
+
+## CD Projekt RED kicks off playtest for The Witcher 3's modding tools and Steam Workshop Beta
+ - [https://www.neowin.net/news/cd-projekt-red-kicks-off-playtest-for-the-witcher-3s-modding-tools-and-steam-workshop-beta](https://www.neowin.net/news/cd-projekt-red-kicks-off-playtest-for-the-witcher-3s-modding-tools-and-steam-workshop-beta)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T15:22:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713279865_ss_df620bb7e13d78c650d4f104382ea71652734467.1920x1080_medium.jpg" /></div>CD Projekt RED is offering PC players a chance to try out its upcoming The Witcher 3 REDkit modding tools early. Steam Workshop support has also been announced as a surprise for the popular RPG. <a href="https://www.neowin.net/news/cd-projekt-red-kicks-off-playtest-for-the-witcher-3s-modding-tools-and-steam-workshop-beta/">Read more...</a>
+
+## Nintendo's next Indie World livestream begins April 17; here's how and when to watch it
+ - [https://www.neowin.net/news/nintendos-next-indie-world-livestream-begins-april-17-heres-how-and-when-to-watch-it](https://www.neowin.net/news/nintendos-next-indie-world-livestream-begins-april-17-heres-how-and-when-to-watch-it)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T15:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/06/1591699084_1529381389_dsc04884_medium.jpg" /></div>Nintendo will launch its latest livestream event, Indie World, on Wednesday, April 17, featuring news and gameplay from a number of upcoming indie game titles that will come to the Switch console. <a href="https://www.neowin.net/news/nintendos-next-indie-world-livestream-begins-april-17-heres-how-and-when-to-watch-it/">Read more...</a>
+
+## Nvidia 552.22 driver brings Manor Lords and No Rest for the Wicked support
+ - [https://www.neowin.net/news/nvidia-55222-driver-brings-manor-lords-and-no-rest-for-the-wicked-support](https://www.neowin.net/news/nvidia-55222-driver-brings-manor-lords-and-no-rest-for-the-wicked-support)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T14:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713277173_ss_faf1d0f0dada08330faabf46dfeb48ebd2a1821c.1920x1080_medium.jpg" /></div>Ori-developer Moon Studios&#039; No Rest for the Wicked, and medieval strategy game Manor Lords are what are officially supported in Nvidia&#039;s latest 552.22 GeForce Game Ready driver release. <a href="https://www.neowin.net/news/nvidia-55222-driver-brings-manor-lords-and-no-rest-for-the-wicked-support/">Read more...</a>
+
+## SMITE 2 is currently the best selling game on Steam even though it hasn't launched yet
+ - [https://www.neowin.net/news/smite-2-is-currently-the-best-selling-game-on-steam-even-though-it-hasnt-launched-yet](https://www.neowin.net/news/smite-2-is-currently-the-best-selling-game-on-steam-even-though-it-hasnt-launched-yet)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T14:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713273694_screenshot-smite202-3840x2160_medium.jpg" /></div>SMITE 2, the sequel to the popular MOBA game, is currently the best-selling game on Steam, thanks to developer Hi-Rez Studios launching paid Founder&#039;s Packs for the upcoming free-to-play game.  <a href="https://www.neowin.net/news/smite-2-is-currently-the-best-selling-game-on-steam-even-though-it-hasnt-launched-yet/">Read more...</a>
+
+## GEEKOM A7 Ryzen 9 Mini PC with dedicated NPU gets a $200 or £150 discount
+ - [https://www.neowin.net/deals/geekom-a7-ryzen-9-mini-pc-with-dedicated-npu-gets-a-200-or-150-discount](https://www.neowin.net/deals/geekom-a7-ryzen-9-mini-pc-with-dedicated-npu-gets-a-200-or-150-discount)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T14:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/02/1707999743_20240213_164344_medium.jpg" /></div>The AMD Ryzen 9 NPU-powered A7 Mini PC comes with 2.5GbE, Wi-Fi 6E connectivity, a 2TB SSD, and 32GB of DDR5-5600MT/s memory. Best of all, you can score one of these with a $200 or £150 discount. <a href="https://www.neowin.net/deals/geekom-a7-ryzen-9-mini-pc-with-dedicated-npu-gets-a-200-or-150-discount/">Read more...</a>
+
+## Manor Lords, Harold Halibut, Eiyuden Chronicle: Hundred Heroes, and more hit Xbox Game Pass
+ - [https://www.neowin.net/news/manor-lords-harold-halibut-eiyuden-chronicle-hundred-heroes-and-more-hit-xbox-game-pass](https://www.neowin.net/news/manor-lords-harold-halibut-eiyuden-chronicle-hundred-heroes-and-more-hit-xbox-game-pass)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T13:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713273864_tw_coming-soon_04.16.2024-93ab8ba60d4614c2c329-1024x576_medium.jpg" /></div>Microsoft is expanding Xbox Game Pass&#039;s available games list again, this time adding seven new titles to its services. At the same time, Xbox Game Pass Core library is expanding by three games. <a href="https://www.neowin.net/news/manor-lords-harold-halibut-eiyuden-chronicle-hundred-heroes-and-more-hit-xbox-game-pass/">Read more...</a>
+
+## Get the Blink Outdoor 4 smart security camera for an all-new low price of $59.99
+ - [https://www.neowin.net/deals/get-the-blink-outdoor-4-smart-security-camera-for-an-all-new-low-price-of-5999](https://www.neowin.net/deals/get-the-blink-outdoor-4-smart-security-camera-for-an-all-new-low-price-of-5999)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T13:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713271426_blink-outdoor-4_medium.jpg" /></div>The wire-free Blink Outdoor 4 smart security camera includes up to two years of battery life with regular use. You can snap up this camera for a new all-time low price of just $59.99 at Amazon. <a href="https://www.neowin.net/deals/get-the-blink-outdoor-4-smart-security-camera-for-an-all-new-low-price-of-5999/">Read more...</a>
+
+## Dummy Apple iPhone 16 units show the alleged design changes we could see in September
+ - [https://www.neowin.net/news/dummy-apple-iphone-16-units-show-the-alleged-design-changes-we-could-see-in-september](https://www.neowin.net/news/dummy-apple-iphone-16-units-show-the-alleged-design-changes-we-could-see-in-september)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T12:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713269296_iphone-16-series-dummy-units_medium.jpg" /></div>A YouTube channel got hold of the dummy metal iPhone 16 series units showcasing some important design changes, such as the vertical camera module on the iPhone 16, not seen since the iPhone 12. <a href="https://www.neowin.net/news/dummy-apple-iphone-16-units-show-the-alleged-design-changes-we-could-see-in-september/">Read more...</a>
+
+## NASA confirms space junk from ISS crashed through a house in Florida
+ - [https://www.neowin.net/news/nasa-confirms-space-junk-from-iss-crashed-through-a-house-in-florida](https://www.neowin.net/news/nasa-confirms-space-junk-from-iss-crashed-through-a-house-in-florida)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T12:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713269421_florida_space_debris_ico_medium.jpg" /></div>In March, a Florida man was alerted by his son after an unknown object crashed through two layers of the ceiling of their house. It turned out the object was released from the ISS three years ago. <a href="https://www.neowin.net/news/nasa-confirms-space-junk-from-iss-crashed-through-a-house-in-florida/">Read more...</a>
+
+## Save $20 on 1TB Seagate Xbox Storage Expansion Card
+ - [https://www.neowin.net/deals/save-20-on-1tb-seagate-xbox-storage-expansion-card](https://www.neowin.net/deals/save-20-on-1tb-seagate-xbox-storage-expansion-card)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T09:26:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/02/1707916397_storage_expansion_card_medium.jpg" /></div>If you need more space for modern games on your Xbox Series X or Series S, get this 1TB Seagate Storage Expansion Card and save $20, as it is now available with a 13% discount on Amazon. <a href="https://www.neowin.net/deals/save-20-on-1tb-seagate-xbox-storage-expansion-card/">Read more...</a>
+
+## Big Microsoft Store performance upgrades are now rolling out to all users
+ - [https://www.neowin.net/news/big-microsoft-store-performance-upgrades-are-now-rolling-out-to-all-users](https://www.neowin.net/news/big-microsoft-store-performance-upgrades-are-now-rolling-out-to-all-users)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T07:14:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698669917_microsoft_store_medium.jpg" /></div>Microsoft is rolling out a new update for the Microsoft Store app to all users in the Stable Channel. The highlight of the update is the big performance upgrades across different parts of the app. <a href="https://www.neowin.net/news/big-microsoft-store-performance-upgrades-are-now-rolling-out-to-all-users/">Read more...</a>
+
+## Threads is testing real-time search results to help find news and timely information
+ - [https://www.neowin.net/news/threads-is-testing-real-time-search-results-to-help-find-news-and-timely-information](https://www.neowin.net/news/threads-is-testing-real-time-search-results-to-help-find-news-and-timely-information)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T06:28:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/07/1689748063_threads_app_logo_orange_medium.jpg" /></div>Meta&#039;s Threads is now confirmed to be testing a new, minor, yet essential, real-time search result option to help users find news and timely information by filtering results by recency. <a href="https://www.neowin.net/news/threads-is-testing-real-time-search-results-to-help-find-news-and-timely-information/">Read more...</a>
+
+## YouTube is making a bigger effort to go after third-party apps that block its ads
+ - [https://www.neowin.net/news/youtube-is-making-a-bigger-effort-to-go-after-third-party-apps-that-block-its-ads](https://www.neowin.net/news/youtube-is-making-a-bigger-effort-to-go-after-third-party-apps-that-block-its-ads)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T04:06:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/12/1607027171_youtube_5_medium.jpg" /></div>Google&#039;s YouTube division has revealed it is making more of an effort to make third-party apps less usable if they attempt to block out ads created for the video streaming service. <a href="https://www.neowin.net/news/youtube-is-making-a-bigger-effort-to-go-after-third-party-apps-that-block-its-ads/">Read more...</a>
+
+## Samsung to receive $6.4 billion from the CHIPS and Science Act
+ - [https://www.neowin.net/news/samsung-to-receive-64-billion-from-the-chips-and-science-act](https://www.neowin.net/news/samsung-to-receive-64-billion-from-the-chips-and-science-act)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-16T01:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713230552_samsung-taylor-texas-office_medium.jpg" /></div>Samsung is going to get $6.4 billion from the US CHIPS and Science Act. As part of the arrangement, the company has promised to invest $40 billion in and around Austin, Texas, in the coming years. <a href="https://www.neowin.net/news/samsung-to-receive-64-billion-from-the-chips-and-science-act/">Read more...</a>
+

@@ -1,0 +1,37 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Drought puts Alberta farmers at risk of another scourge of grasshoppers
+ - [https://www.cbc.ca/news/canada/edmonton/drought-puts-alberta-farmers-at-risk-of-another-scourge-of-grasshoppers-1.7174491?cmp=rss](https://www.cbc.ca/news/canada/edmonton/drought-puts-alberta-farmers-at-risk-of-another-scourge-of-grasshoppers-1.7174491?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-04-16T08:00:00+00:00
+
+<img alt="A close-up view of a brown grasshopper with a black stripe on its leg sitting on top of a yellow flower." height="349" src="https://i.cbc.ca/1.7174514.1713214795!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/two-striped-grasshopper.jpg" title="The two-striped grasshopper is one of the pest species that commonly damages crops in Alberta." width="620" /><p>Parts of Alberta are at heightened risk of another grasshopper population boom in 2024, after significant outbreaks during the last growing season — but it's a waiting game to see how many insects take wing.</p>
+
+## Ontario's biggest hydro dams to get $1B life extension
+ - [https://www.cbc.ca/news/canada/toronto/niagara-ontario-power-generation-sir-adam-beck-refurbish-1.7174267?cmp=rss](https://www.cbc.ca/news/canada/toronto/niagara-ontario-power-generation-sir-adam-beck-refurbish-1.7174267?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-04-16T06:00:00+00:00
+
+<img alt="Aerial photo of a hydroelectric power plant. " height="349" src="https://i.cbc.ca/1.7174324.1713208165!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/sir-adam-beck-generating-station-no-1.jpg" title="The century-old Sir Adam Beck I generating station along the Niagara River. " width="620" /><p>Ontario's energy minister is set to announce a $1 billion plan to extend the life of the biggest hydroelectric dams in the province.</p>
+
+## Read the fine print: Winnipeg couple's travel insurance claim 'not covered,' insurer says
+ - [https://www.cbc.ca/news/canada/manitoba/insurance-company-flight-insurance-1.7174134?cmp=rss](https://www.cbc.ca/news/canada/manitoba/insurance-company-flight-insurance-1.7174134?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-04-16T06:00:00+00:00
+
+<img alt="James Parker is a 78 year old caucasian man wearing a grey striped shirt and black framed glasses. He&apos;s sitting on a blue striped chair in front of a bookshelf. You can see part of a brick fireplace to his left. He has a slight smile on his face." height="349" src="https://i.cbc.ca/1.7174141.1713202372!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/james-parker.JPG" title="James Parker says he will never again click on a box and select cancellation insurance when purchasing airline tickets. The last time he had to cancel a flight, he was not reimbursed." width="620" /><p>A Winnipeg senior is questioning the value of buying flight cancellation insurance after his claim was denied.</p>
+
+## How an Ontario network is empowering Black entrepreneurs
+ - [https://www.cbc.ca/news/canada/hamilton/swoben-one-year-1.7174396?cmp=rss](https://www.cbc.ca/news/canada/hamilton/swoben-one-year-1.7174396?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-04-16T04:00:00+00:00
+
+<img alt="A portrait of a woman in a blazer standing against a brick wall." height="349" src="https://i.cbc.ca/1.7174404.1713215977!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/denika-joseph.jpeg" title="Denika Joseph, who grew up in Hamilton, owns the construction and renovation company, Ornate Space." width="620" /><p>As the Southwestern Ontario Black Entrepreneurship Network marks its first anniversary, CBC Hamilton spoke to three participants about their experiences. They are among the 150 businesses the network supports, based in cities such as Hamilton and Windsor.</p>
+
+## Quebec wants to stop sky-high prices from ticket resellers. It won't be easy
+ - [https://www.cbc.ca/news/canada/montreal/quebec-inflated-ticket-prices-1.7170721?cmp=rss](https://www.cbc.ca/news/canada/montreal/quebec-inflated-ticket-prices-1.7170721?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-04-16T04:00:00+00:00
+
+<img alt="A hockey player tries an in-close shot against a goaltender." height="349" src="https://i.cbc.ca/1.7141490.1710266136!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/2024-akane-shiga-ann-renee-desbiens-pwhl-ottawa-montreal.JPG" title="Ottawa&apos;s Akane Shiga tries a wraparound shot against Montreal goaltender Ann-Renee Desbiens during a PWHL hockey game in Laval, Que., on March 10, 2024." width="620" /><p>After several recent high-profile incidents where sports and music fans were gouged on ticket resale prices, the CAQ government is vowing to clean up the industry. Other provinces have tried, and failed.</p>
+

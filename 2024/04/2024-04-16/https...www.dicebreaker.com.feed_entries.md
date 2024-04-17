@@ -1,0 +1,16 @@
+# Source:Dicebreaker Latest Articles Feed, URL:https://www.dicebreaker.com/feed, language:en
+
+## Shadow of the Colossus-inspired board game Leviathan Wilds is one of the most compelling co-op experiences I’ve had in years
+ - [https://www.dicebreaker.com/games/leviathan-wilds/feature/shadow-of-the-colossus-inspired-board-game-one-of-the-best-coop-experience-in-years?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/leviathan-wilds/feature/shadow-of-the-colossus-inspired-board-game-one-of-the-best-coop-experience-in-years?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-16T14:54:54+00:00
+
+<img src="https://assetsio.gnwcdn.com/leviathan-wilds-board-game-gameplay-collector.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>As someone with a leg-jellifying fear of heights, extreme allergies to hair and fur that turn my nose into a snotty battleship cannon, and the upper body strength of a cheap fridge magnet trying to hold up a shopping bag full of tins, you wouldn&rsquo;t expect me to be the natural choice for scaling animals the size of skyscrapers. Yet turning me into the equivalent of a veterinary <a href="https://films.nationalgeographic.com/free-solo">Alex Honnold</a> is just one of the miraculous achievements of Leviathan Wilds, a new creature-climbing board game that&rsquo;s fast becoming one of the best cooperative experiences I&rsquo;ve had in a long time.</p><p>Leviathan Wilds <a href="https://www.dicebreaker.com/games/leviathan-wilds/feature/leviathan-wilds-board-game-preview">takes many of its cues</a> clearly fro
+
+## Votes for Women turns the frustrating fight for women’s rights into a vital board game lesson in history - and the present
+ - [https://www.dicebreaker.com/games/votes-for-women/opinion/votes-for-women-rights-for-women?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/votes-for-women/opinion/votes-for-women-rights-for-women?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-16T14:42:11+00:00
+
+<img src="https://assetsio.gnwcdn.com/votes-for-women-board-game-screenshot-bgg-user-header.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Votes for Women is a board game about an historical event that keeps repeating itself: the fight for women&rsquo;s rights.</p><p>Set in the US between the years of 1848 and 1920, Votes for Women follows the events leading up to the ratification of the Nineteenth Amendment, which enabled certain women - namely white women - to vote. The board game sees one player controlling the campaign for the Suffragettes and the other the campaign for the opposition, with the game positing that the events in this timeline could end differently from their historical counterparts: with the Nineteenth Amendment potentially failing to pass.</p><p>Though the amendment did pass and American women have gained the right to vote - although it would take several more decades to include African-American, Asian-American, His
+
