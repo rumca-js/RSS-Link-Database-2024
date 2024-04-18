@@ -1,0 +1,58 @@
+# Source:Tabletop Gaming News – TGN, URL:https://www.tabletopgamingnews.com/feed, language:en-US
+
+## Wizards of the Coast President Cynthia Williams Announces Resignation
+ - [https://www.tabletopgamingnews.com/wizards-of-the-coast-president-cynthia-williams-announces-resignation](https://www.tabletopgamingnews.com/wizards-of-the-coast-president-cynthia-williams-announces-resignation)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-17T21:32:57+00:00
+
+<a href="https://www.tabletopgamingnews.com/wizards-of-the-coast-president-cynthia-williams-announces-resignation/" rel="nofollow" title="Wizards of the Coast President Cynthia Williams Announces Resignation"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="711" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/w214124.jpg" style="display: block; margin: auto; margin-bottom: 5px;" width="1200" /></a>Cynthia Williams, President of Wizards of the Coast (WotC) and Hasbro Gaming, has announced her resignation effective April 26, 2024, a significant move for one of the major names in tabletop gaming. Her departure was disclosed through an SEC filing by Hasbro, the parent company of WotC, known for iconic franchises like Dungeons &#38; Dragons &#8230;
+
+## Free League Publishing Sets Release Date for Ruins of Symbaroum 5E Expansions
+ - [https://www.tabletopgamingnews.com/free-league-publishing-sets-release-date-for-ruins-of-symbaroum-5e-expansions](https://www.tabletopgamingnews.com/free-league-publishing-sets-release-date-for-ruins-of-symbaroum-5e-expansions)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-17T21:22:29+00:00
+
+<a href="https://www.tabletopgamingnews.com/free-league-publishing-sets-release-date-for-ruins-of-symbaroum-5e-expansions/" rel="nofollow" title="Free League Publishing Sets Release Date for Ruins of Symbaroum 5E Expansions"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/RoS_The_World_of_Symbaroum_banner_1800x1024px.jpg" style="display: block; margin: auto; margin-bottom: 5px;" width="1800" /></a>Free League Publishing Sets Release Date for Ruins of Symbaroum 5E Expansions Free League Publishing has announced the upcoming release of two expansions for Ruins of Symbaroum 5E, set for April 30. These expansions aim to enhance the gameplay and narrative depth of the popular dark fantasy role-playing game, Symbaroum. The first of the expansions, &#8230;
+
+## Achtung! Cthulhu Starter Set Now Available in Print and PDF
+ - [https://www.tabletopgamingnews.com/achtung-cthulhu-starter-set-now-available-in-print-and-pdf](https://www.tabletopgamingnews.com/achtung-cthulhu-starter-set-now-available-in-print-and-pdf)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-17T21:13:37+00:00
+
+<a href="https://www.tabletopgamingnews.com/achtung-cthulhu-starter-set-now-available-in-print-and-pdf/" rel="nofollow" title="Achtung! Cthulhu Starter Set Now Available in Print and PDF"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="900" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/f5e65c07-556c-415b-2271-092eb938d1aa.png" style="display: block; margin: auto; margin-bottom: 5px;" width="1200" /></a>Modiphius Entertainment has released the Achtung! Cthulhu 2d20 Starter Set, available now in both print and PDF formats. This new offering provides an entry point into the Achtung! Cthulhu universe, a setting characterized by pulp adventure and occult horror elements. The game invites players to engage with a variety of challenges, from confronting cultists and &#8230;
+
+## Japanime Games Set to Release QUEERZ! on May 1st
+ - [https://www.tabletopgamingnews.com/japanime-games-set-to-release-queerz-on-may-1st](https://www.tabletopgamingnews.com/japanime-games-set-to-release-queerz-on-may-1st)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-17T21:06:29+00:00
+
+<a href="https://www.tabletopgamingnews.com/japanime-games-set-to-release-queerz-on-may-1st/" rel="nofollow" title="Japanime Games Set to Release QUEERZ! on May 1st"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1000" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/queerz_basic_box.png" style="display: block; margin: auto; margin-bottom: 5px;" width="1000" /></a>Japanime Games is gearing up for the launch of their latest board game, QUEERZ!, scheduled to ship on May 1st. This game introduces players to a magical world where emotions wield power and empathy reigns supreme. In QUEERZ!, participants take on the roles of characters known as &#8220;Queerz,&#8221; individuals who possess magical abilities sourced from &#8230;
+
+## Warlord Games Announces “Bolt Action: Third Edition” for September Release
+ - [https://www.tabletopgamingnews.com/warlord-games-announces-bolt-action-third-edition-for-september-release](https://www.tabletopgamingnews.com/warlord-games-announces-bolt-action-third-edition-for-september-release)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-17T21:01:08+00:00
+
+<a href="https://www.tabletopgamingnews.com/warlord-games-announces-bolt-action-third-edition-for-september-release/" rel="nofollow" title="Warlord Games Announces &#8220;Bolt Action: Third Edition&#8221; for September Release"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="517" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/image004.png" style="display: block; margin: auto; margin-bottom: 5px;" width="516" /></a>Warlord Games, in collaboration with Osprey Games, has announced the release of &#8220;Bolt Action: Third Edition,&#8221; scheduled for September 26. This new edition aims to enhance the gameplay of the well-regarded World War II tabletop wargame. The third installment of &#8220;Bolt Action&#8221; intends to streamline the experience, making the gameplay more intuitive and focusing less &#8230;
+
+## Dungeon Saga Origins Set for Release on May 20
+ - [https://www.tabletopgamingnews.com/dungeon-saga-origins-set-for-release-on-may-20](https://www.tabletopgamingnews.com/dungeon-saga-origins-set-for-release-on-may-20)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-17T20:52:07+00:00
+
+<a href="https://www.tabletopgamingnews.com/dungeon-saga-origins-set-for-release-on-may-20/" rel="nofollow" title="Dungeon Saga Origins Set for Release on May 20"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1000" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/DSO-retail-product-shot-1000x1000-1.webp" style="display: block; margin: auto; margin-bottom: 5px;" width="1000" /></a>Mantic Games has announced the upcoming launch of Dungeon Saga Origins, scheduled to be available in retail stores from May 20. The game is currently open for pre-orders, catering to enthusiasts of cooperative adventure games. Dungeon Saga Origins: Legendary Edition, priced at $150.00, includes more than 40 adventures that span four main quests, each designed &#8230;
+
+## “God of War: The Board Game” Launches on Gamefound
+ - [https://www.tabletopgamingnews.com/god-of-war-the-board-game-launches-on-gamefound](https://www.tabletopgamingnews.com/god-of-war-the-board-game-launches-on-gamefound)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-17T20:40:58+00:00
+
+<a href="https://www.tabletopgamingnews.com/god-of-war-the-board-game-launches-on-gamefound/" rel="nofollow" title="&#8220;God of War: The Board Game&#8221; Launches on Gamefound"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/pic8156981.webp" style="display: block; margin: auto; margin-bottom: 5px;" width="600" /></a>CMON has launched a crowdfunding campaign for &#8220;God of War: The Board Game&#8221; on Gamefound. This cooperative dungeon crawler, designed for 1-2 players, features a series of adventures based on the time period between the video games &#8220;God of War&#8221; (2018) and &#8220;God of War: Ragnarök.&#8221; The board game aims to raise $150,000 and has &#8230;
+
+## Paizo Announces “Pathfinder War of Immortals” Event with New Products and Storylines
+ - [https://www.tabletopgamingnews.com/paizo-announces-pathfinder-war-of-immortals-event-with-new-products-and-storylines](https://www.tabletopgamingnews.com/paizo-announces-pathfinder-war-of-immortals-event-with-new-products-and-storylines)
+ - RSS feed: https://www.tabletopgamingnews.com/feed
+ - date published: 2024-04-17T20:30:08+00:00
+
+<a href="https://www.tabletopgamingnews.com/paizo-announces-pathfinder-war-of-immortals-event-with-new-products-and-storylines/" rel="nofollow" title="Paizo Announces &#8220;Pathfinder War of Immortals&#8221; Event with New Products and Storylines"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="371" src="https://www.tabletopgamingnews.com/wp-content/uploads/2024/04/w660_1849634_warofimmortals_roadmap.jpg" style="display: block; margin: auto; margin-bottom: 5px;" width="660" /></a>In a recent Twitch stream, Paizo Inc. revealed a series of new products related to the &#8220;War of Immortals&#8221; meta-event. The announcement highlighted a mix of upcoming rulebooks, adventures, and a novel, signifying Paizo&#8217;s re-entry into fiction publishing. The livestream, hosted by Community Manager Jon Morgantini, featured Pathfinder&#8217;s design team, including Michael Sayre, James Jacobs, &#8230;
+

@@ -1,0 +1,272 @@
+# Source:RT - Daily news, URL:https://www.rt.com/rss, language:en
+
+## US call delayed Israeli ‚Äòresponse‚Äô to Iran attack ‚Äì media
+ - [https://www.rt.com/news/596150-israel-response-iran-us-call/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596150-israel-response-iran-us-call/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T22:39:24+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/66204e87203027633c2ba236.jpg" style="margin-right: 10px;" /> Israeli PM Benjamin Netanyahu reportedly canceled the original plan of reprisal after speaking with Washington <br /><a href="https://www.rt.com/news/596150-israel-response-iran-us-call/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Biden claims ‚Äòcannibals‚Äô got his uncle
+ - [https://www.rt.com/news/596149-biden-cannibal-uncle-story/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596149-biden-cannibal-uncle-story/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T21:45:59+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/662041e485f54075797f097f.jpg" style="margin-right: 10px;" /> The US president has told a story about his uncle getting shot down over New Guinea during WWII, contrary to military records <br /><a href="https://www.rt.com/news/596149-biden-cannibal-uncle-story/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US promises not to kill Assange ‚Äì reports
+ - [https://www.rt.com/news/596148-us-assange-death-penalty/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596148-us-assange-death-penalty/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T21:20:50+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/6620351c85f5400d4b330f28.jpg" style="margin-right: 10px;" /> Washington has reportedly signed assurances that the death penalty will not be sought or imposed on WikiLeaks founder Assange if extradited <br /><a href="https://www.rt.com/news/596148-us-assange-death-penalty/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Poland ‚Äòlost track‚Äô of tanks it sent Ukraine ‚Äì expert
+ - [https://www.rt.com/news/596146-poland-tanks-ukraine-mystery/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596146-poland-tanks-ukraine-mystery/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T20:37:29+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/66201cb385f5407c5d1b4579.jpg" style="margin-right: 10px;" /> Exactly how many T-72s Warsaw has sent Kiev remains a mystery, military analyst Damian Ratka has said. <br /><a href="https://www.rt.com/news/596146-poland-tanks-ukraine-mystery/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Woman wheels corpse into bank to secure loan
+ - [https://www.rt.com/news/596145-woman-brazil-bank-fraud-corpse/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596145-woman-brazil-bank-fraud-corpse/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T20:14:29+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/6620250a203027581524bc8a.jpg" style="margin-right: 10px;" /> A woman in Brazil is in custody after reportedly wheeling an elderly man‚Äôs corpse into a bank to co-sign a loan for her <br /><a href="https://www.rt.com/news/596145-woman-brazil-bank-fraud-corpse/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Iran bracing for another Israeli strike ‚Äì WSJ
+ - [https://www.rt.com/news/596147-iran-bracing-israel-retaliation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596147-iran-bracing-israel-retaliation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T19:02:41+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/66201c8685f540702956267f.jpg" style="margin-right: 10px;" /> Tehran is reportedly bracing for new Israeli strike, readying its air force and evacuating men from IRGC sites in Syria, according to WSJ <br /><a href="https://www.rt.com/news/596147-iran-bracing-israel-retaliation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel and Ukraine ‚Äònot the same‚Äô ‚Äì Borrell
+ - [https://www.rt.com/news/596143-ukraine-israel-different-borrell/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596143-ukraine-israel-different-borrell/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T18:45:31+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/66200d8a20302754b25b6cb8.jpg" style="margin-right: 10px;" /> The West can‚Äôt support Ukraine the way it did Israel because their situations are different, the EU foreign policy head has said <br /><a href="https://www.rt.com/news/596143-ukraine-israel-different-borrell/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Staunch critic of Russia resumes grain purchases
+ - [https://www.rt.com/business/596113-lithuania-russian-grain-imports/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/596113-lithuania-russian-grain-imports/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T18:12:34+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/66200fe0203027582d66874b.jpg" style="margin-right: 10px;" /> Lithuania reportedly imported over 12,000 tons of Russian grain in February <br /><a href="https://www.rt.com/business/596113-lithuania-russian-grain-imports/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US general reveals details of Abu Ghraib torture
+ - [https://www.rt.com/news/596112-abu-ghraib-contractor-torture/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596112-abu-ghraib-contractor-torture/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T17:02:40+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fe5ba20302756c621764c.jpg" style="margin-right: 10px;" /> Employee of contractor working for the Pentagon in Iraq advised Abu Ghraib guards to ‚Äúsoften up‚Äù prisoners, a retired army general has said <br /><a href="https://www.rt.com/news/596112-abu-ghraib-contractor-torture/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israelis injured in Hezbollah strike ‚Äì media
+ - [https://www.rt.com/news/596111-hezbollah-strikes-israel-injured/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596111-hezbollah-strikes-israel-injured/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T16:28:52+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fe25685f54068893ea357.jpg" style="margin-right: 10px;" /> The Lebanese militant group has shelled Israeli territory, local news outlets claim that 18 people were injured <br /><a href="https://www.rt.com/news/596111-hezbollah-strikes-israel-injured/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Metallica frontman used Motorhead legend‚Äôs ashes for tattoo
+ - [https://www.rt.com/pop-culture/596141-metallica-hetfield-motorhead-kilmister/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/pop-culture/596141-metallica-hetfield-motorhead-kilmister/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T16:12:02+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661ff41285f54017c27c315d.jpg" style="margin-right: 10px;" /> James Hetfield reveals his new ace of spades tribute was drawn with ink mixed with the remains of Lemmy Kilmister <br /><a href="https://www.rt.com/pop-culture/596141-metallica-hetfield-motorhead-kilmister/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Shunned by the West, this African country has found a new friend ‚Äì and it‚Äôs not China
+ - [https://www.rt.com/india/596086-india-uganda-ties-rival-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/596086-india-uganda-ties-rival-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T15:59:15+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fef8085f540752f471ef1.jpg" style="margin-right: 10px;" /> In its bid to dodge the American economic bullet, Uganda seeks new partnerships beyond China. In India, it may see such potential <br /><a href="https://www.rt.com/india/596086-india-uganda-ties-rival-china/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US House Speaker reveals timeline for vote on Israel and Ukraine aid
+ - [https://www.rt.com/news/596121-us-congress-ukraine-israel-aid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596121-us-congress-ukraine-israel-aid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T15:58:31+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661ff04c20302754b25b6ca7.jpg" style="margin-right: 10px;" /> Legislators will decide on separate funding bills this Saturday, according to Mike Johnson <br /><a href="https://www.rt.com/news/596121-us-congress-ukraine-israel-aid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Georgia to adopt controversial law despite pressure ‚Äì PM
+ - [https://www.rt.com/russia/596096-georgia-foreign-agents-bill/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/596096-georgia-foreign-agents-bill/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T15:49:49+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fef60203027581524bc56.jpg" style="margin-right: 10px;" /> The Georgian parliament has adopted the ‚Äòforeign agents‚Äô bill in the first reading, despite facing protests and foreign pressure <br /><a href="https://www.rt.com/russia/596096-georgia-foreign-agents-bill/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US Congress declares Palestinian slogan ‚Äòanti-Semitic‚Äô
+ - [https://www.rt.com/news/596097-congress-river-sea-palestinian-ban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596097-congress-river-sea-palestinian-ban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T15:17:47+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fd7f285f540702956264c.jpg" style="margin-right: 10px;" /> Chants of ‚ÄúFrom the river to the sea, Palestine will be free‚Äù are anti-Semitic and hateful, American lawmakers have said <br /><a href="https://www.rt.com/news/596097-congress-river-sea-palestinian-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US responds to Palestine‚Äôs UN membership bid
+ - [https://www.rt.com/news/596092-us-palestine-un-membership/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596092-us-palestine-un-membership/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T14:56:16+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fdfcd85f5400d4b330f04.jpg" style="margin-right: 10px;" /> Palestinian statehood can only be achieved through direct negotiations with Israel, American Ambassador Linda Thomas-Greenfield has said <br /><a href="https://www.rt.com/news/596092-us-palestine-un-membership/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU leadership must go ‚Äì member state‚Äôs PM
+ - [https://www.rt.com/news/596099-orban-eu-leadership-hungary/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596099-orban-eu-leadership-hungary/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T14:44:42+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fd44085f54076e05352c7.jpg" style="margin-right: 10px;" /> The current EU leadership has failed in all of its major projects, Hungarian Prime Minister Viktor Orban has said <br /><a href="https://www.rt.com/news/596099-orban-eu-leadership-hungary/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russian court to consider terminating Starbucks trademark rights
+ - [https://www.rt.com/business/596098-starbucks-russia-rebranding/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/596098-starbucks-russia-rebranding/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T13:58:52+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fce6f85f54075797f093f.jpg" style="margin-right: 10px;" /> A businessman who has bought Starbucks assets in the country has asked a court to terminate the US coffee chain‚Äôs trademark rights <br /><a href="https://www.rt.com/business/596098-starbucks-russia-rebranding/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Middle East redefined: Iran‚Äôs retaliatory attack on Israel signaled a major change in the region
+ - [https://www.rt.com/news/596091-irans-attack-victory-or-defeat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596091-irans-attack-victory-or-defeat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T13:49:29+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fc96785f540399b44c72a.jpg" style="margin-right: 10px;" /> Was Tehran‚Äôs ‚Äòsymbolic‚Äô attack on the Jewish state a victory or a defeat for the future? <br /><a href="https://www.rt.com/news/596091-irans-attack-victory-or-defeat/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israelis reveal their stance on retaliatory strike against Iran
+ - [https://www.rt.com/news/596094-poll-israelis-against-strike-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596094-poll-israelis-against-strike-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T13:38:09+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fc51d20302749ed14c807.jpg" style="margin-right: 10px;" /> A recent survey has found that 74% of Israelis oppose a strike on Iran that could alienate the country‚Äôs allies <br /><a href="https://www.rt.com/news/596094-poll-israelis-against-strike-iran/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Vote this week on US aid for Ukraine ‚Äòin doubt‚Äô ‚Äì AP
+ - [https://www.rt.com/news/596095-us-aid-ukraine-house/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596095-us-aid-ukraine-house/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T13:14:58+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fc69420302749ac7d8569.jpg" style="margin-right: 10px;" /> US House Speaker Mike Johnson may yet do so but, Associated Press reports, he is unlikely to put aid for Ukraine to a vote this week <br /><a href="https://www.rt.com/news/596095-us-aid-ukraine-house/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia ready to collaborate with Africa against new pandemics ‚Äì Putin
+ - [https://www.rt.com/africa/596075-russia-africa-health-sector-partnership-commitment-putin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/596075-russia-africa-health-sector-partnership-commitment-putin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T13:08:21+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fc3d185f54017c27c3134.jpg" style="margin-right: 10px;" /> President Vladimir Putin says Russia is willing to work with African nations to accelerate the development of medical infrastructure <br /><a href="https://www.rt.com/africa/596075-russia-africa-health-sector-partnership-commitment-putin/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## IMF sharply raises Russia‚Äôs economic growth forecast¬†
+ - [https://www.rt.com/business/596078-russia-economy-growth-upgrade-imf/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/596078-russia-economy-growth-upgrade-imf/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T12:20:57+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fb79a2030274a1e43b3b6.jpg" style="margin-right: 10px;" /> The International Monetary Fund expects Russia‚Äôs GDP to grow 3.2% this year, significantly more than the UK, France and Germany
+
+¬† <br /><a href="https://www.rt.com/business/596078-russia-economy-growth-upgrade-imf/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Kiev demands Israel-style security guarantees
+ - [https://www.rt.com/russia/596090-yermak-us-security-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/596090-yermak-us-security-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T12:00:44+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fb49c85f54076e05352a5.jpg" style="margin-right: 10px;" /> Kiev wants the US to provide military protection for Ukraine similar to its arrangement with Israel, Andrey Yermak has said <br /><a href="https://www.rt.com/russia/596090-yermak-us-security-israel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Dubai flooded amid torrential rains (VIDEOS)
+ - [https://www.rt.com/news/596084-uae-dubai-rainfall-flooding/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596084-uae-dubai-rainfall-flooding/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T11:52:00+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661f9adb2030270ef42dc2f3.jpg" style="margin-right: 10px;" /> Dubai, one of the United Arab Emirates‚Äô major cities, has been paralyzed by what authorities describe as the heaviest downpour in 75 years <br /><a href="https://www.rt.com/news/596084-uae-dubai-rainfall-flooding/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## India to start manufacturing bullet trains – media
+ - [https://www.rt.com/india/596088-india-to-start-manufacturing-bullet/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/596088-india-to-start-manufacturing-bullet/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T10:43:03+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fa7aa203027481c0ca1af.jpg" style="margin-right: 10px;" /> New Delhi is reportedly replacing imported high-speed trains with Indian-designed ones as part of its ‘Make in India’ initiative <br /><a href="https://www.rt.com/india/596088-india-to-start-manufacturing-bullet/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Second suspect detained in connection with attempt to assassinate Ukrainian defector – FSB
+ - [https://www.rt.com/russia/596089-second-suspect-detained-prozorov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/596089-second-suspect-detained-prozorov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T10:36:35+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fa92c85f54068893ea319.jpg" style="margin-right: 10px;" /> Parts for a bomb used to blow up the car of a former Ukrainian secret police agent in Moscow were brought in from Poland, the FSB has said <br /><a href="https://www.rt.com/russia/596089-second-suspect-detained-prozorov/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia pulling its peacekeepers from Azerbaijan – Kremlin
+ - [https://www.rt.com/russia/596087-nagorno-karabakh-russian-peacekeepers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/596087-nagorno-karabakh-russian-peacekeepers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T10:12:26+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661fa68120302748225fdb9c.jpg" style="margin-right: 10px;" /> Kremlin spokesman Dmitry Peskov has confirmed that Moscow is pulling its peacekeepers from Karabakh region of Azerbaijan <br /><a href="https://www.rt.com/russia/596087-nagorno-karabakh-russian-peacekeepers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Kiev’s morale problems could lead to defeat this year – Politico
+ - [https://www.rt.com/russia/596081-ukraine-morale-defeat-politico/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/596081-ukraine-morale-defeat-politico/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T09:39:43+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661f98c585f5407c5d1b451e.jpg" style="margin-right: 10px;" /> Senior Ukrainian military officials say the army is facing a collapse under the Russian advance, according to Politico <br /><a href="https://www.rt.com/russia/596081-ukraine-morale-defeat-politico/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Shell destroyed thousands of livelihoods – Amnesty International
+ - [https://www.rt.com/africa/596073-shell-destroyed-nigerian-livelihoods/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/596073-shell-destroyed-nigerian-livelihoods/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T09:30:08+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661f8c9c2030276ad01c6322.jpg" style="margin-right: 10px;" /> Amnesty International’s director for Nigeria asked Shell to prioritize human lives over profits in the West African nation <br /><a href="https://www.rt.com/africa/596073-shell-destroyed-nigerian-livelihoods/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Japan to retain oil and gas interests in Russia
+ - [https://www.rt.com/business/596076-japan-russia-energy-projects/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/596076-japan-russia-energy-projects/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T09:09:36+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661f911885f5407c5d1b450a.jpg" style="margin-right: 10px;" /> Japan intends to retain its stakes in Sakhalin-1 and Sakhalin-2 oil and gas projects, the foreign ministry has said 
+
+  <br /><a href="https://www.rt.com/business/596076-japan-russia-energy-projects/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US preparing new sanctions on Iran
+ - [https://www.rt.com/news/596072-sullivan-us-sanctions-iran-attack-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596072-sullivan-us-sanctions-iran-attack-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T08:08:14+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661f7b2485f54075797f08f8.jpg" style="margin-right: 10px;" /> The US is preparing new sanctions on Iran over its aerial attack on Israel, National Security Advisor Jake Sullivan says <br /><a href="https://www.rt.com/news/596072-sullivan-us-sanctions-iran-attack-israel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## West exploring all options on frozen Russian assets – US official
+ - [https://www.rt.com/news/596074-frozen-assets-us-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596074-frozen-assets-us-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T08:05:01+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661f81d785f54017c27c3111.jpg" style="margin-right: 10px;" /> Ukraine will not absorb all of the frozen Russian assets at once if the US and the EU decide to seize them, Reuters has reported <br /><a href="https://www.rt.com/news/596074-frozen-assets-us-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## ‘No evidence’ Iran developing nuclear weapons – IAEA
+ - [https://www.rt.com/news/596071-iaea-iran-nuclear-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596071-iaea-iran-nuclear-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T07:50:35+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661f77ae20302748225fdb5c.jpg" style="margin-right: 10px;" /> IAEA chief Rafael Grossi says his agency has no evidence that Iran has a nuclear weapons program, disputing claims to the contrary by Israel <br /><a href="https://www.rt.com/news/596071-iaea-iran-nuclear-weapons/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## India ‘concerned’ over deaths of its students in US
+ - [https://www.rt.com/india/596069-new-delhi-is-concerned-over/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/596069-new-delhi-is-concerned-over/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T06:41:03+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661f6a2485f5407029562603.jpg" style="margin-right: 10px;" /> Over a dozen of deaths of Indian nationals have been reported in the US since the start of the year <br /><a href="https://www.rt.com/india/596069-new-delhi-is-concerned-over/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Founder reveals who puts most pressure on Telegram
+ - [https://www.rt.com/news/596070-telegram-durov-reveals-pressure-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596070-telegram-durov-reveals-pressure-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T06:35:09+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661f6e9f20302745ea24e117.jpg" style="margin-right: 10px;" /> Telegram founder Pavel Durov says both Democrats and Republicans have exerted pressure on his team <br /><a href="https://www.rt.com/news/596070-telegram-durov-reveals-pressure-us/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US government wanted backdoor to Telegram ‚Äì founder
+ - [https://www.rt.com/news/596068-fbi-wanted-backdoor-to-telegram/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596068-fbi-wanted-backdoor-to-telegram/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T02:14:30+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661f301a20302714931f19c0.jpg" style="margin-right: 10px;" /> The FBI had sought to ‚Äúcontrol‚Äù how Telegram works, its founder Pavel Durov said <br /><a href="https://www.rt.com/news/596068-fbi-wanted-backdoor-to-telegram/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## NATO member explains why it will bar Ukraine from joining
+ - [https://www.rt.com/news/596067-slovakia-to-block-ukraine-nato/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/596067-slovakia-to-block-ukraine-nato/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-04-17T00:48:12+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.04/thumbnail/661f1c1f85f54075797f08db.jpg" style="margin-right: 10px;" /> Slovakia will block Ukraine from ever joining NATO, PM Robert Fico said <br /><a href="https://www.rt.com/news/596067-slovakia-to-block-ukraine-nato/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+

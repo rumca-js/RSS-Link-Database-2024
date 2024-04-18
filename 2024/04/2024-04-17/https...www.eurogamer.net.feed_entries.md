@@ -1,0 +1,216 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Dwarf Fortress' roguelike Adventure Mode gets beta launch on Steam
+ - [https://www.eurogamer.net/dwarf-fortress-roguelike-adventure-mode-gets-beta-launch-on-steam?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/dwarf-fortress-roguelike-adventure-mode-gets-beta-launch-on-steam?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T22:03:33+00:00
+
+<img src="https://assetsio.gnwcdn.com/dwarf-fortress-adventure-mode-art.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Dwarf Fortress - the hugely influential, dizzyingly expansive colony sim that's been in development for over 20 years - has just released its roguelike Adventure Mode <a href="https://store.steampowered.com/app/975370/Dwarf_Fortress/">over on Steam</a>, albeit initially in public beta form.
+</p><p>
+Adventure Mode gives players an alternate way of exploring Dwarf Fortress' ludicrously in-depth, procedurally generated worlds - specifically in the form of a roguelike RPG, complete with procedural quests, NPCs, and turn-based battles.
+</p><p>
+It's a component of Dwarf Fortress that's been in the free ASCII version for years, but when the game made the jump to Steam in 2022 - as a paid release, complete with sprite-based visuals, a mouse-driven UI, and Steam Workshop compatibility - Adventure Mode wasn't included, although
+
+## Sega's old-school beat-'em-up Golden Axe being turned into an animated series
+ - [https://www.eurogamer.net/segas-old-school-beat-em-up-golden-axe-is-being-turned-into-an-animated-series?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/segas-old-school-beat-em-up-golden-axe-is-being-turned-into-an-animated-series?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T20:32:38+00:00
+
+<img src="https://assetsio.gnwcdn.com/golden-axe-cover-art.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Sega is delving deep into its enviable IP archive to bring the world an animated adaptation of its 1989 side-scrolling arcade beat-'em-up Golden Axe.
+</p><p>
+Sega's Golden Axe series is being developed by Comedy Central, and promises to be a "hilarious and loving homage" to the medieval fantasy games. It'll follow veteran warriors Ax Battler, Tyris Flare, and Gilius Thunderhead - all once again venturing forth to save Yuria from the evil giant Death Adder - and they'll be joined by "inexperienced and underprepared" first-time adventurer Hampton Squib, who's "dreamt of questing his entire life".
+</p><p>
+Golden Axe will span ten animated episodes, with American Dad scribe Joe Chandler serving as show runner on the series. Additionally, Comedy Central has revealed a "star-studded" cast, which includes Matthew Rhys (The Americans), Da
+
+## Braid: Anniversary Edition briefly delayed, but it'll feature 40 new levels
+ - [https://www.eurogamer.net/braid-anniversary-edition-briefly-delayed-but-itll-feature-a-bunch-of-new-levels?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/braid-anniversary-edition-briefly-delayed-but-itll-feature-a-bunch-of-new-levels?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T18:31:45+00:00
+
+<img src="https://assetsio.gnwcdn.com/braid-bridge-sunset.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Braid: Anniversary Edition (or Braid, Anniversary Edition as it's officially styled) has been delayed by two weeks. The remake is now set to launch for PlayStation, Switch, and PC on 15th May, with Xbox Series X/S and Xbox One versions arriving a day later, on 16th May.
+</p><p>
+Developer Jonathan Blow revealed his time-manipulating platform-puzzler would be getting an enhanced Anniversary edition <a href="https://www.eurogamer.net/braid-is-getting-an-anniversary-edition-with-redrawn-art-and-a-dev-commentary">all the way back in 2020</a>, and a release of 30th April 2024 was <a href="https://www.eurogamer.net/braids-long-awaited-anniversary-edition-arrives-next-april">finally confirmed last November</a>, placing its launch squarely in the original's 15th birthday year.
+</p><p>
+News of a brief delay for Braid: Anniversary Edition's l
+
+## Cat Quest returns for adorable high seas RPG adventure this August
+ - [https://www.eurogamer.net/cat-quest-returns-for-adorable-high-seas-rpg-adventure-this-august?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/cat-quest-returns-for-adorable-high-seas-rpg-adventure-this-august?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T17:02:58+00:00
+
+<img src="https://assetsio.gnwcdn.com/cat-quest-3-archipelago.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+If you're a person of exceptional taste, you'll already known developer The Gentlebros' adorable quick-fire action-RPG series Cat Quest is a bit of a winner, so you'll likely be chuffed to hear the next instalment - Pirates of the Purribean - will be arriving for PlayStation, Xbox, Switch, and Steam on 8th August. Oh, and a demo's out for Switch today.
+</p><p>
+Cat Quest 3: Pirates of the Purribean casts players as a swashbuckling "purrivateer", sending them on an open-world adventure across the game's titular archipelago in search of the long-lost Northern Star treasure. It's a journey, spanning both land and sea, that'll necessitate battle against the fearsome Pirate King and his hordes of Pi-rats, with The Gentlebros promising varied dungeons and biomes to investigate as events unfold.
+</p><p>
+Pirates of the Purribean doesn't
+
+## 20 years later, World of Warcraft is getting an arachnophobia mode
+ - [https://www.eurogamer.net/20-years-later-world-of-warcraft-is-getting-an-arachnophobia-mode?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/20-years-later-world-of-warcraft-is-getting-an-arachnophobia-mode?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T17:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/world_of_warcraft_nerubian.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>World of Warcraft will, in its 20th year of operation, implement an arachnophobia mode. It's been developed for the new War Within expansion, which heavily features the spider-like Nerubian race, but it won't be exclusive to it.</p><p>"We made it retroactive so it does everything," associate design director Maria Hamilton told me during a roundtable interview during a War Within event in London earlier this week. That means you'll be able to turn it on and off and spiders all over the World of Warcraft world will be transformed into something else - specifically, crabs.</p><p>It works very well; I was able to test it during an alpha playthrough of some early War Within content. The enemy models change seamlessly, and because crabs are not too dissimilar to spiders, the transformation doesn't erase a sense of what you're fight
+
+## Could World of Warcraft on console finally be happening?
+ - [https://www.eurogamer.net/could-world-of-warcraft-on-console-finally-be-happening?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/could-world-of-warcraft-on-console-finally-be-happening?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T17:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/wow_world_of_warcraft_console_xbox.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>In the autumn of last year, Holly Longdale, the executive producer and vice president of World of Warcraft, made headlines by saying <a href="https://www.eurogamer.net/blizzard-talks-about-bringing-world-of-warcraft-to-consoles-all-the-time">the team talks about putting WoW on console "all the time"</a>. It's a question the company has been asked repeatedly over the game's near 20-year lifetime, and it's an answer we've heard before, but it gained new momentum in light of <a href="https://www.eurogamer.net/microsoft-has-finally-bought-activision-blizzard">Microsoft's recently completed acquisition of Activision Blizzard.</a> When better to bring the game to Xbox than now?</p><p>I had a chance to put the question to Holly Longdale again at a World of Warcraft: The War Within expansion event in London this week. Should 
+
+## SteamWorld Heist 2 takes to the sea for long-awaited sequel
+ - [https://www.eurogamer.net/steamworld-heist-2-takes-to-the-sea-for-long-awaited-sequel?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/steamworld-heist-2-takes-to-the-sea-for-long-awaited-sequel?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T15:03:54+00:00
+
+<img src="https://assetsio.gnwcdn.com/boss_02.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+SteamWorld Heist is back, making its way down from space and onto the seven seas. 
+</p><p>
+SteamWorld Heist 2 was announced at today's Nintendo Indie World showcase, giving us a taste of what is in store for the series' next outing. 
+</p><p>
+And, what exactly is that? Well, a high-seas adventure, in which players will set sail as Captain Leeway as they endevour "solve the mystery of a deadly water crisis that's causing metal limbs and mechanical hearts to corrode". You can check out SteamWorld Heist 2's announcement trailer in the video below. 
+</p> <p><a href="https://www.eurogamer.net/steamworld-heist-2-takes-to-the-sea-for-long-awaited-sequel?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Assassin's Creed Mirage free trial now available
+ - [https://www.eurogamer.net/assassins-creed-mirage-free-trial-now-available?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/assassins-creed-mirage-free-trial-now-available?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T15:02:12+00:00
+
+<img src="https://assetsio.gnwcdn.com/Assassin's-Creed-Mirage_-Free-Trial-and-Title-Update-Trailer-0-39-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Last year's enjoyable back-to-basics Assassin's Creed entry is now available to play for free, thanks to a limited-time trial. 
+</p><p>
+You can download Assassin's Creed Mirage now for no cost on PC, PlayStation and Xbox, and stab your way through the game's first two hours without paying a penny. 
+</p><p>
+After that, you can cough up for the full thing and see your progress carry over.
+</p> <p><a href="https://www.eurogamer.net/assassins-creed-mirage-free-trial-now-available?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## F1 Manager developer Frontier accused of mismanagement in wake of layoffs
+ - [https://www.eurogamer.net/f1-manager-developer-frontier-accused-of-mismanagement-in-wake-of-layoffs?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/f1-manager-developer-frontier-accused-of-mismanagement-in-wake-of-layoffs?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T14:43:45+00:00
+
+<img src="https://assetsio.gnwcdn.com/F1-Manager-2023-Tipps-Thumb.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+F1 Manager developer Frontier has been accused of mismanagement in a new report in the wake of layoffs at the company.
+</p><p>
+The process for these <a href="https://www.eurogamer.net/frontier-latest-studio-hit-with-layoffs-following-f1-manager-disappointment">layoffs began in October last year</a>, with the poor sales performance of the F1 Manager games believed to be a major contributing factor. In a business update following the layoff announcement, <a href="https://www.eurogamer.net/planet-coaster-developer-frontier-refocusing-on-sims-after-low-sales-of-warhammer-rts">the company said it would be refocusing on simulation games</a> - what it's best known for.
+</p><p>
+The new report, from <a href="https://videogames.si.com/news/frontier-layoffs-mismanagement">GLHF</a>, cites several current and former Frontier employees w
+
+## Sayonara Wild Hearts studio's Lorelei and the Laser Eyes out in May
+ - [https://www.eurogamer.net/sayonara-wild-hearts-studios-lorelei-and-the-laser-eyes-out-in-may?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/sayonara-wild-hearts-studios-lorelei-and-the-laser-eyes-out-in-may?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T14:34:21+00:00
+
+<img src="https://assetsio.gnwcdn.com/lorelei-and-the-laser-eyes-broken-window.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Lorelei and the Laser Eyes - the atmospheric new puzzle adventure from Simogo, perhaps best known as the extraordinarily talented team behind 2019's glorious Sayonara Wild Hearts - finally has a release date and is launching for Switch and Steam on 16th May.
+</p><p>
+Lorelei and the Laser Eyes, if you're unfamiliar, delivers a baroque blend of surreal mystery thriller and puzzle adventure - faintly bringing to mind the studio's iOS classic Device 6 - that's follows a woman's search for answers, deep in a strange manor house.
+</p><p>
+As Simogo <a href="https://www.eurogamer.net/annapurna-published-puzzler-lorelei-and-the-laser-eyes-features-a-broken-world-and-a-big-secret">explained to Eurogamer last year</a>, Lorelei features non-linear, third-person exploration built around 150 puzzles - many unfolding differen
+
+## Nintendo Indie World Showcase: everything announced
+ - [https://www.eurogamer.net/nintendo-indie-world-showcase-everything-announced?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/nintendo-indie-world-showcase-everything-announced?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T14:30:25+00:00
+
+<img src="https://assetsio.gnwcdn.com/Indie-World-Showcase-%E2%80%93-17_04_2024-(Nintendo-Switch)-41-13-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Today's Nintendo Indie World Showcase event has now wrapped up, after bringing us more than 20 minutes of intriguing Nintendo Switch games from independently-minded studios.
+</p><p>
+There was no Hollow Knight: Silksong, which refuses to reveal itself despite recent listings on numerous ratings boards. There was also no sign of any familiar Nintendo franchises - which do sometimes get handed out to external indie developers elsewhere. So what did we get? Well...
+</p><p>
+Little Kitty, Big City from Double Dagger Studio, a game which looks a lot like  with less of a post-apocalyptic vibe. This game is instead more about exploring, causing mischief, and helping out with jobs. Oh, and you can collect lots of kitty hats. Sold! It arrives for Nintendo Switch on 9th May.
+</p> <p><a h
+
+## Ghost of Tsushima first PlayStation game to have PC trophy support
+ - [https://www.eurogamer.net/ghost-of-tsushima-first-playstation-game-to-have-pc-trophy-support?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/ghost-of-tsushima-first-playstation-game-to-have-pc-trophy-support?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T13:21:17+00:00
+
+<img src="https://assetsio.gnwcdn.com/Ghost-of-Tsushima-PC_6OnqMXZ.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The team at Nixxes Software has laid out the crossplay and system requirements for Ghost of Tsushima Director's Cut on PC. It has also detailed a new optional PlayStation UI overlay for PC, and it all sounds pretty great.</p><p>Ghost of Tsushima on PC will be the first game to utilise the new overlay, which will allow players to access features such as their friends list, settings and profile. </p><p>Oh, and perhaps most excitingly for those accolade hunters out there, this UI also includes trophies, with both the PlayStation 5 and PC versions of Ghost of Tsushima Director's Cut sharing a single Trophy list. This PC version also has full support for Achievements on Steam and the Epic Games Store, fear not.
+</p> <p><a href="https://www.eurogamer.net/ghost-of-tsushima-first-playstation-game-to-have-pc-trophy-support?utm_sourc
+
+## Five of the Best: Buckets
+ - [https://www.eurogamer.net/five-of-the-best-buckets?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/five-of-the-best-buckets?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T12:46:35+00:00
+
+<img src="https://assetsio.gnwcdn.com/bucket_adobe_stock_cropped.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><em>Five of the Best is a weekly series for </em><a href="https://www.eurogamer.net/subscribe"><em>supporters of Eurogamer</em></a><em>. It's a series that highlights some of the features in games that are often overlooked. It's also about having your say, so don't be shy, use the comments below and join in!</em></p><p><em>Oh and if you want to read more, you can - you can find </em><a href="https://www.eurogamer.net/topics/five-of-the-best"><em>our entire Five of the Best archive</em></a><em> elsewhere on the site.</em></p><p>There's a hole in your bucket, dear Liza, dear Liza, there's a hole in your bucket, dear Liza, a hole. Thank you, thank you, what a lovely rendition. The humble bucket, a stalwart of our day-to-day lives. We use them to slosh dirty water around in, and we use them to wee in if we're going camping and do
+
+## Grounded's Fully Yoked update causes multiplayer crashes, login errors
+ - [https://www.eurogamer.net/groundeds-fully-yoked-update-causes-multiplayer-crashes-login-errors?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/groundeds-fully-yoked-update-causes-multiplayer-crashes-login-errors?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T12:06:53+00:00
+
+<img src="https://assetsio.gnwcdn.com/ss_67f3fa16e8d2f76479039a425fe49123ea2bc6dc.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Grounded's Fully Yoked update arrived yesterday, marking its <a href="https://www.eurogamer.net/sea-of-thieves-launches-on-playstation-in-april">debut on PlayStation and Switch</a>. However, it also brought its fair share of issues with it.</p><p>This update added a swathe of new features to Obsidian Entertainment's microscopic garden adventure game, including royal Ant Queens, the ability to infuse creatures with "the power of Raw Science" and something known as the Termite King Pipe Organ.</p><p>However, it also added a few unexpected and less welcome features, such as connectivity issues with multiplayer games on PlayStation 5 and Nintendo Switch (these issues were also present on PC and PS4, but the <a href="https://twitter.com/GroundedTheGame/status/1780432718192656753">developer has managed to deal with
+
+## Star Wars Outlaws lets you play blackjack-like Sabacc
+ - [https://www.eurogamer.net/star-wars-outlaws-lets-you-play-blackjack-like-sabacc?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/star-wars-outlaws-lets-you-play-blackjack-like-sabacc?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T11:11:37+00:00
+
+<img src="https://assetsio.gnwcdn.com/Kay-in-Star-Wars-Outlaws-playing-Sabacc.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Get your dealing hands ready, as Star Wars Outlaws will let us all participate in a round of Sabacc or two.</p><p>First spotted by <a href="https://comicbook.com/gaming/news/star-wars-outlaws-sabacc/">ComicBook</a>, the game's description on the <a href="https://www.esrb.org/ratings/39874/star-wars-outlaws/">ESRB</a> ratings board reveals that "players can wager in-game currency on Sabacc", which is described as "a blackjack-like card game with detailed rules".</p><p>This is more than likely the gambling referred to in <a href="https://www.eurogamer.net/star-wars-outlaws-rated-19-in-south-korea">South Korea's own ratings board listing</a>, which resulted in Star Wars Outlaws getting slapped with an adults-only badge. I know, I know. Just call me Clouseau.</p> <p><a href="https://www.eurogamer.net/star-wars-outlaw
+
+## Life Eater review - an intriguingly uncomfortable game about abduction that chickens out a bit
+ - [https://www.eurogamer.net/life-eater-review-an-intriguingly-uncomfortable-game-about-abduction-that-chickens-out-a-bit?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/life-eater-review-an-intriguingly-uncomfortable-game-about-abduction-that-chickens-out-a-bit?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T11:03:46+00:00
+
+<img src="https://assetsio.gnwcdn.com/life_eater_review_2.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Mechanically, Life Eater uses a diary-based puzzle system in some really interesting ways, but it struggles to say anything meaningful about the shock-factor setting it's gone for.</p><p>Few game ideas will turn your head quicker than one about abducting people and murdering them. It's an idea that courts controversy for the shock factor that comes with it, in order to stand out, and that's not necessarily a bad thing if handled right. I don't mind it here because Life Eater is a genuinely interesting indie game and not a tasteless cash-grab. Nonetheless, it's still an uncomfortable premise and an uncomfortable game - uncomfortable in some interesting ways but uncomfortable all the same. But I feel like if you're going to go there, you'd better have some interesting things to say when you do, and ultimately, I don't think Life Eater
+
+## 70% of developers concerned about sustainability of live-service games, new study suggests
+ - [https://www.eurogamer.net/70-of-developers-concerned-about-sustainability-of-live-service-games-new-study-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/70-of-developers-concerned-about-sustainability-of-live-service-games-new-study-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T10:29:31+00:00
+
+<img src="https://assetsio.gnwcdn.com/1111_y13jII5.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+According to a new survey by the <a href="https://omdia.tech.informa.com/collections/afcme012/game-developer-collective-survey">Game Developer Collective</a>, 70 percent of developers have concerns about the sustainability of live service games.
+</p><p>
+For the survey, 600 developers were interviewed between February and March this year and defined live-service games as online games featuring frequent updates and in-app purchases.
+</p><p>
+As shared by <a href="https://www.gamedeveloper.com/business/70-percent-of-devs-wary-of-live-service-games-being-sustainable">Game Developer</a>, 39 percent of participants had mild worries about live-service business models, while 31 percent were very concerned - totalling 70 percent. The remaining participants had either no concerns or were unsure.
+</p> <p><a href="https://www.eurogamer.net/70-of-devel
+
+## Watch today's Nintendo Indie World Showcase here
+ - [https://www.eurogamer.net/watch-todays-nintendo-indie-world-showcase-here?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/watch-todays-nintendo-indie-world-showcase-here?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T10:06:41+00:00
+
+<img src="https://assetsio.gnwcdn.com/maxresdefault_gyvzxSK.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Nintendo's next Indie World Showcase - the cooler, more rebellious sibling to the average Nintendo Direct - will air today, Wednesday 17th April, at 3pm UK time. 
+</p><p>
+That's 10am Eastern time or 7am Pacific time, if you live across the pond. 
+</p><p>
+Nintendo has said to expect around 20 minutes of updates on indie games headed to Switch over the remainder of this year. Will this include the highly-anticipated <a href="https://www.eurogamer.net/games/hollow-knight-silksong">Hollow Knight Silksong</a>? There's not long to find out. 
+</p> <p><a href="https://www.eurogamer.net/watch-todays-nintendo-indie-world-showcase-here?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Take-Two laying off 550 people, weeks after saying it had "no current plans" to do so
+ - [https://www.eurogamer.net/take-two-laying-off-550-people-weeks-after-saying-it-had-no-current-plans-to-do-so?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/take-two-laying-off-550-people-weeks-after-saying-it-had-no-current-plans-to-do-so?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T09:56:34+00:00
+
+<img src="https://assetsio.gnwcdn.com/GTA-5-money-on-desk.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Grand Theft Auto publisher Take-Two has announced it will lay off five percent of its 11,000-strong workforce - equating to around 550 people - and cancel multiple in-development projects. The company said the move was the next stage in its ongoing restructuring plan, which began in February.</p><p>In a <a href="https://taketwointeractivesoftwareinc.gcs-web.com/node/30301/html">new filing</a>, Take-Two said it expects to incur between $160m and $200m in total charges as a result of this restructuring program, with $120m to $140m related to title cancellations. </p><p>Additionally, it said approximately $25m to $35m will be associated with employee severance and employee-related costs, while approximately $15m to $25m will be related to office space reductions.</p> <p><a href="https://www.eurogamer.net/take-two-laying-off-550-people-
+
+## The best Final Fantasy games among 25 titles departing PlayStation Plus
+ - [https://www.eurogamer.net/the-best-final-fantasy-games-among-25-titles-departing-playstation-plus?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/the-best-final-fantasy-games-among-25-titles-departing-playstation-plus?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T09:46:10+00:00
+
+<img src="https://assetsio.gnwcdn.com/rinoa-ff8.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+There are 25 games leaving the PlayStation Plus subscription service next month, including some of the best Final Fantasy games.
+</p><p>
+They are: Final Fantasy 7, Final Fantasy 8, Final Fantasy 9, Final Fantasy 10 and 10-2, Final Fantasy 12: The Zodiac Age, and Final Fantasy 15: Royal Edition. There's also spin-off World of Final Fantasy.
+</p><p>
+The 25 games will all leave on 21st May and includes the brilliant Abzu, The Artful Escape, The Messenger, Jotun, and more.
+</p> <p><a href="https://www.eurogamer.net/the-best-final-fantasy-games-among-25-titles-departing-playstation-plus?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Revisiting the first video game websites from the dark ages
+ - [https://www.eurogamer.net/revisiting-the-first-video-game-websites-from-the-dark-ages?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/revisiting-the-first-video-game-websites-from-the-dark-ages?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-17T09:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Epic_pQFkLPR.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>In 1997, Diablo was everything to me; I thought about it at school, at family dinners, netball practice, recess. Even when I was allowed to play it on my dad's Gateway 2000, I wanted more. And the only place to get more Diablo, back then, was on the Diablo website. Yes, there were <a href="https://web.archive.org/web/20010814071320/http://www.geocities.com/TimesSquare/Arcade/9235/diablo.html">fan sites</a> packed with cheats and the same gifs - but what I wanted was a pure unadulterated hit <a href="https://web.archive.org/web/19970418025723/http://www.battle.net/diablo/index.htm">from the official webpage</a>, its message boards filled with <a href="https://web.archive.org/web/19970612090714/http://www.battle.net/forums/diablo-tavern/78069.htm">poetry</a> and oddly civil flame wars and passive-aggressive posts titled "SUGGESTIONS for Bliz
+

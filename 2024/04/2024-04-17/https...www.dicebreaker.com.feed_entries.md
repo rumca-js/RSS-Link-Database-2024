@@ -1,0 +1,61 @@
+# Source:Dicebreaker Latest Articles Feed, URL:https://www.dicebreaker.com/feed, language:en
+
+## Wizards of the Coast president Cynthia Williams departs D&D and Magic: The Gathering's maker
+ - [https://www.dicebreaker.com/companies/wizards-of-the-coast/news/cynthia-williams-wizards-of-the-coast-president-steps-down-sec-filing?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/companies/wizards-of-the-coast/news/cynthia-williams-wizards-of-the-coast-president-steps-down-sec-filing?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-17T15:19:03+00:00
+
+<img src="https://assetsio.gnwcdn.com/cynthia-williams-headshot-president-wizards-of-the-coast.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Cynthia Williams will be stepping down as Wizards of the Coast and Hasbro Gaming&rsquo;s president and CEO on April 26th, according to <a href="https://investor.hasbro.com/node/36526/html">an SEC filing</a> from the company&rsquo;s owner, Hasbro. No replacement has been named at this time, but the toy company responsible for Peppa Pig, Transformers and - more germane to tabletop - Dungeons &amp; Dragons and Magic: The Gathering, is &ldquo;conducting a process to identify her successor, looking at both internal and external candidates.&rdquo;</p><p>Williams joined Wizards of the Coast in 2022, replacing Chris Cocks as president when he took Hasbro&rsquo;s reins as CEO. Her role consisted of managing two of the biggest names in the tabletop industry, along with Hasbro&rsquo;s suite of other analogu
+
+## The One Ring RPG is the best Lord of the Rings experience you can have on tabletop
+ - [https://www.dicebreaker.com/games/the-one-ring-roleplaying-game/video/one-ring-rpg-best-lotr-experience?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/the-one-ring-roleplaying-game/video/one-ring-rpg-best-lotr-experience?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-17T14:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/one-ring-rpg.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+As a fan of the Lord of the Rings series, I knew I had to try the second edition of The One Ring RPG when it came out. I wanted to see if it captured my love of the series and gave me a chance to play as the pretty elf boy I've always wanted to be. With a short campaign under my belt, I've now come away with a lot of feelings for The One Ring so thought I'd sit down and share exactly why I think you should play it, whether you love fantasy RPGs, the Lord of the Rings series, or embarking on long quests with your friends.
+</p> <p><a href="https://www.dicebreaker.com/games/the-one-ring-roleplaying-game/video/one-ring-rpg-best-lotr-experience?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Bolt Action: Third Edition will help new players get into the World War II miniatures wargame
+ - [https://www.dicebreaker.com/games/bolt-action-third-edition/news/bolt-action-third-edition?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/bolt-action-third-edition/news/bolt-action-third-edition?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-17T12:28:12+00:00
+
+<img src="https://assetsio.gnwcdn.com/bolt-action-miniatures.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A new edition of the Bolt Action series of miniature wargames will provide more ways for newer players to get into the franchise.</p><p>The Bolt Action series sees players taking command of various armies and fighting in scenarios inspired by the historical battles of World War II. From US paratroopers to British ground troops, the <a href="https://www.dicebreaker.com/categories/miniature-wargame/best-games/best-miniatures-games">miniatures wargame</a> series enables players to take control of various soldiers and vehicles. As well as various troop types, the Bolt Action series includes sets directly inspired by various historical military campaigns such as the clash between the US marines and Japanese troops across the Pacific Islands.</p><p>The upcoming Third Edition of Bolt Action will feature scenarios inspired by the various
+
+## Dungeons & Dragons publisher plans to make Baldur’s Gate 4, once it finds the right developer for the job
+ - [https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/baldurs-gate-3-planned-sequel?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/baldurs-gate-3-planned-sequel?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-17T09:35:58+00:00
+
+<img src="https://assetsio.gnwcdn.com/baldurs-gate-3-laezel-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Dungeons &amp; Dragons publisher, Wizards of the Coast, is currently on the look-out for a developer to make a new title in its Baldur&rsquo;s Gate video game series.</p><p>Released last year, Baldur&rsquo;s Gate III is a sequel to the <a href="https://www.dicebreaker.com/series/dungeons-and-dragons/best-games/best-dnd-video-games">D&amp;D video game</a> Baldur&rsquo;s Gate II, which was originally released in 2000. In the roleplaying game, players create their own character within the world of Dungeons &amp; Dragons, choosing their species, <a href="https://www.dicebreaker.com/categories/roleplaying-game/how-to/dnd-classes">D&amp;D class</a> and appearance, before venturing out into the Sword Coast. During their adventures, players will meet a cast of characters and have the opportunity for them to join their party, th
+
+## Turn your game into a hit with advice from makers of the Warhammer and Fallout RPGs, games lawyers, distributors and more at the Tabletop Creators Summit next month
+ - [https://www.dicebreaker.com/events/tabletop-creators-summit-2024/news/tabletop-creators-summit-london-2024-speakers-announced?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/events/tabletop-creators-summit-2024/news/tabletop-creators-summit-london-2024-speakers-announced?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-17T08:22:25+00:00
+
+<img src="https://assetsio.gnwcdn.com/dicebreaker-tabletop-creators-summit-london-2024.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Dicebreaker&rsquo;s Tabletop Creators Summit returns to London at the end of next month, bringing back the free one-day conference and networking event, presented by our headline sponsor <a href="https://mistymountaingaming.com/">Misty Mountain Gaming</a>, essential for designers, publishers, creators and anyone else working in the tabletop gaming industry.</p><p>The <a href="https://www.dicebreaker.com/events/tabletop-creators-summit-2024/news/tabletop-creators-summit-2024-announced">second Tabletop Creators Summit</a> will be held on Friday May 24th in London&rsquo;s ExCeL during MCM Comic Con. All registered attendees (<a href="https://forms.gle/KmMBLKZ2XQvtk4KV8">you can sign up here!</a>) will receive a complimentary day pass to MCM, ensuring the entire event remains free to attend.</p><p>Our mornin
+
+## Disney Lorcana’s publisher says its runaway success has only “grown the size of the TCG pie”
+ - [https://www.dicebreaker.com/games/disney-lorcana/news/disney-lorcana-ravensburger-exec-talks-success-organised-play-future?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/disney-lorcana/news/disney-lorcana-ravensburger-exec-talks-success-organised-play-future?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-17T05:46:19+00:00
+
+<img src="https://assetsio.gnwcdn.com/lorcana-scrooge-mcduck-richest-duck-in-the-world-featured.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Last year was a certified banger for trading card games, thanks in no small part to the instant success of <a href="https://www.dicebreaker.com/games/disney-lorcana/how-to/how-to-play-disney-lorcana-tcg">Disney Lorcana</a>&rsquo;s leveraging beloved characters and a competitive title that&rsquo;s much more than a knock-off Magic: The Gathering. In a <a href="https://icv2.com/articles/news/view/56709/icv2-interview-ravensburger-north-america-ceo-stephane-madi-april-2024">recent interview with ICv2</a>, Ravensburger North America&rsquo;s CEO Stephane Madi seemed confident 2024 would play the same tune.</p><p>The major headline from Madi is that the publisher is showing nothing but thumbs up as Disney Lorcana apparently drives new faces and wallets into local hobby shops <a href="https://www.dicebr
+
+## Stewpot’s melancholy RPG about finding calm after a life of adventure gets a hardcover book
+ - [https://www.dicebreaker.com/games/stewpot-tales-from-a-fantasy-tavern/news/stewpot-tales-from-a-fantasy-tavern-backerkit-campaign?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/stewpot-tales-from-a-fantasy-tavern/news/stewpot-tales-from-a-fantasy-tavern-backerkit-campaign?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-17T05:03:36+00:00
+
+<img src="https://assetsio.gnwcdn.com/stwepot-evil-hat-okada-backerkit-video-screenshot-oni-lizard.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Every adventure must come to and end, and thus so too must every adventurer. Instead of imagining a valiant death on the battlefield or sacrificing their life to save the innocent, <a href="https://www.dicebreaker.com/categories/roleplaying-game/best-games/upcoming-rpgs">upcoming tabletop RPG </a>Stewpot: Tales from a Fantasy Tavern imagines a smaller, quieter end to their days delving in dungeons. And now, Takuma Okada&rsquo;s cozy, sad-in-a-good-way creation will enjoy a hardcover book release.</p><p>
+Stewpot&rsquo;s physical book is <a href="https://www.backerkit.com/c/projects/evil-hat/stewpot#top">currently crowdfunding on Backerkit</a> in partnership with Evil Hat Productions, the company behind Blades in the Dark and the upcoming Tomb Raider tabletop RPG. Okada first released a digital
+
+## Adventure Time RPG’s original ‘Yes And’ system still in the works, will be released after D&D 5E version
+ - [https://www.dicebreaker.com/games/adventure-time-the-rpg/news/adventure-time-rpg-original-yes-and-system-still-happening?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/adventure-time-the-rpg/news/adventure-time-rpg-original-yes-and-system-still-happening?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-17T04:16:17+00:00
+
+<img src="https://assetsio.gnwcdn.com/adventure-time-rpg-kickstarter-trailer-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Adventure Time&rsquo;s official tabletop RPG launched its crowdfunding campaign on Tuesday and snuck an exciting confirmation in the Kickstarter FAQ: a version of the game using the original &lsquo;Yes And&rsquo; system developed by Forever Stoked is still in active development, even if we don&rsquo;t know when it will land.</p><p>If you haven&rsquo;t been following this somewhat strange turn of events that started last year, there are currently two versions of Adventure Time: The Roleplaying Game kicking around. The initial public pitch promised an entirely new mechanical framework designed by Matt Fantastic and the team at Forever Stoked called the <a href="https://www.dicebreaker.com/games/adventure-time-the-rpg/feature/adventure-time-rpg-how-to-play-yes-and-system">&lsquo;Yes And&rsquo; system</a>. 
+

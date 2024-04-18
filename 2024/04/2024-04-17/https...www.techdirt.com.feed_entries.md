@@ -1,0 +1,51 @@
+# Source:Techdirt, URL:https://www.techdirt.com/feed, language:en-US
+
+## Kansas Reflector Mostly Admits That Meta’s Blocking Of Their Site Wasn’t Deliberate
+ - [https://www.techdirt.com/2024/04/17/kansas-reflector-mostly-admits-that-metas-blocking-of-their-site-wasnt-deliberate](https://www.techdirt.com/2024/04/17/kansas-reflector-mostly-admits-that-metas-blocking-of-their-site-wasnt-deliberate)
+ - RSS feed: https://www.techdirt.com/feed
+ - date published: 2024-04-17T22:02:05+00:00
+
+Not every bad mistake is evil. Not every poor decision is deliberate. Especially in these more automated times. Sometimes, machines just make mistakes, and it’s about time we came to terms with that simple fact. Last week, we wrote about how, while Meta may be a horrible awful company that you should not trust, there [&#8230;]
+
+## The Motion Picture Association Doesn’t Get To Decide Who The First Amendment Protects
+ - [https://www.techdirt.com/2024/04/17/the-motion-picture-association-doesnt-get-to-decide-who-the-first-amendment-protects](https://www.techdirt.com/2024/04/17/the-motion-picture-association-doesnt-get-to-decide-who-the-first-amendment-protects)
+ - RSS feed: https://www.techdirt.com/feed
+ - date published: 2024-04-17T19:08:51+00:00
+
+Twelve years ago, internet users&#160;spoke up&#160;with one voice to reject a law that would build censorship into the internet at a fundamental level. This week, the Motion Picture Association (MPA), a group that represents six giant movie and TV studios, announced that it hoped we’d all forgotten how dangerous this idea was. The MPA is [&#8230;]
+
+## Chemtrail Legislation Is The New Normal In A Severely Abnormal America
+ - [https://www.techdirt.com/2024/04/17/chemtrail-legislation-is-the-new-normal-in-a-severely-abnormal-america](https://www.techdirt.com/2024/04/17/chemtrail-legislation-is-the-new-normal-in-a-severely-abnormal-america)
+ - RSS feed: https://www.techdirt.com/feed
+ - date published: 2024-04-17T17:56:24+00:00
+
+It&#8217;s enough to make you want to shoot yourself in the face in embarrassment. It&#8217;s enough to make you want to dress as a mime when visiting Europe because at least you won&#8217;t be mistaken for an American. It&#8217;s enough to make you wonder how the Land of the Free became the Land of the [&#8230;]
+
+## Daily Deal: The Complete MATLAB Programming Master Class
+ - [https://www.techdirt.com/2024/04/17/daily-deal-the-complete-matlab-programming-master-class-5](https://www.techdirt.com/2024/04/17/daily-deal-the-complete-matlab-programming-master-class-5)
+ - RSS feed: https://www.techdirt.com/feed
+ - date published: 2024-04-17T17:53:42+00:00
+
+MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creating of user interfaces, and interfacing with programs written in other languages. That&#8217;s all well and good, but it means nothing if you don&#8217;t have a firm grasp of the data types used within MATLAB. In this course you&#8217;ll cover not just data [&#8230;]
+
+## Will Elon Sue? NBC News Finds, Yet Again, That ExTwitter Has ‘Verified’ Neo-Nazi Accounts, With Ads Appearing Next To Their Content
+ - [https://www.techdirt.com/2024/04/17/will-elon-sue-nbc-news-finds-yet-again-that-extwitter-has-verified-neo-nazi-accounts-with-ads-appearing-next-to-their-content](https://www.techdirt.com/2024/04/17/will-elon-sue-nbc-news-finds-yet-again-that-extwitter-has-verified-neo-nazi-accounts-with-ads-appearing-next-to-their-content)
+ - RSS feed: https://www.techdirt.com/feed
+ - date published: 2024-04-17T16:30:11+00:00
+
+Elon Musk does not seem to like it much when reports point out that ExTwitter appears to have a neo-Nazi issue. Of course, he could respond to these reports by noting that, as a “free speech absolutist,” that includes those who support Nazism, as distasteful as that is, but he stands by that horrific speech [&#8230;]
+
+## The GOP Is Blocking A Last Ditch Effort To Bring Cheap Broadband To Poor Americans
+ - [https://www.techdirt.com/2024/04/17/the-gop-is-blocking-a-last-ditch-effort-to-bring-cheap-broadband-to-poor-americans](https://www.techdirt.com/2024/04/17/the-gop-is-blocking-a-last-ditch-effort-to-bring-cheap-broadband-to-poor-americans)
+ - RSS feed: https://www.techdirt.com/feed
+ - date published: 2024-04-17T12:29:11+00:00
+
+The FCC’s Affordable Connectivity Program (ACP), part of the 2021 infrastructure bill, currently provides 23+ million low-income Americans a $30 broadband discount every month. But those 23 million Americans are poised to soon lose the discount because key Republicans — who routinely dole out billions of dollars on&#160;far&#160;dumber&#160;fare&#160;—&#160;refuse to fund a $4-$7 billion extension. As [&#8230;]
+
+## Bell Canada, After Nixxing Most Hardware DVR, Changes Cloud PVR Recording Retention
+ - [https://www.techdirt.com/2024/04/16/bell-canada-after-nixxing-most-hardware-dvr-changes-cloud-pvr-recording-retention](https://www.techdirt.com/2024/04/16/bell-canada-after-nixxing-most-hardware-dvr-changes-cloud-pvr-recording-retention)
+ - RSS feed: https://www.techdirt.com/feed
+ - date published: 2024-04-17T02:41:04+00:00
+
+We&#8217;ve written about Bell Canada plenty over the years and not typically for good reasons. This is a company that wanted to ban VPNs to combat people getting around geo-blocked content, has a habit of acting petulant when it comes to regulators, and has engaged in other consumer-unfriendly practices. So, not the best reputation when [&#8230;]
+

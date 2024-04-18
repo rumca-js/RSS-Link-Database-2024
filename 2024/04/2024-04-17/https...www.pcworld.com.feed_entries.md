@@ -1,0 +1,217 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## 4 free ways to screen record Windows 11 [2024 guide]
+ - [https://www.pcworld.com/article/2304571/free-screen-record-windows-11-2024.html](https://www.pcworld.com/article/2304571/free-screen-record-windows-11-2024.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T17:57:13+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Knowing how to screen record Windows 11 is necessary, especially when you want to perform a software task, clip gameplay highlights, capture online classes, etc. Luckily, many <a href="https://recorder.easeus.com/" rel="sponsored" target="_blank">screen recorder</a> programs are available for Windows 11 PCs and laptops, including inbuilt tools (Game Bar, Snipping Tool) and professional third-party software (EaseUS RecExperts, OBS). Here, we will explore these screen capture software to optimize Windows 11 screen recording, empowering you to produce high-quality recordings for any purpose easily.</p>
+
+
+
+<p><strong>For your convenience:</strong></p>
+
+
+
+<ul>
+<li>If you want to find professional <a href="https://recorder.easeus.com/screen-recording-tips/free-video-recording-software.html" rel="sponsored" target="_blank">video recording software</a> to perform Windows
+
+## Microsoft Office 2016 and 2019 get an execution date (and it’s soon)
+ - [https://www.pcworld.com/article/2306701/microsoft-is-discontinuing-support-for-office-2016-and-2019-what-users-can-do.html](https://www.pcworld.com/article/2306701/microsoft-is-discontinuing-support-for-office-2016-and-2019-what-users-can-do.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T14:58:54+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Microsoft will officially end support for specific versions of Office. The news comes from Mariana Prudencio, Microsoft&rsquo;s senior product marketing manager, who made the announcement via a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://techcommunity.microsoft.com/t5/office-end-of-support-blog/key-end-of-support-dates-for-office-2016-2019-apps-amp/ba-p/4095876&amp;xcust=2-1-2306701-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">blog post</a>. Below, you&rsquo;ll find the versions of Office that will be impacted. Each one has a link to its support page at Microsoft, so be sure to check it out.</p>
+
+
+
+<h2 class="wp-block-heading" id="microsoft-will-no-longer-be-supporting-the-following-versions-of-office">Microsoft will no longer be supporting the following versions of Office </h2>
+
+
+
+<ul>
+<li><strong>Office 2016 (introduc
+
+## This massive 49-inch Asus ultrawide gaming monitor is $100 off
+ - [https://www.pcworld.com/article/2306610/this-massive-49-inch-asus-ultrawide-gaming-monitor-is-100-off.html](https://www.pcworld.com/article/2306610/this-massive-49-inch-asus-ultrawide-gaming-monitor-is-100-off.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T14:11:18+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>&ldquo;Ultrawide&rdquo; is a term for monitors that&rsquo;s more about aspect ratio than size &mdash; in fact it starts at about 29-inches, which is barely above the norm. But this deal definitely earns the ultra superlative, with a 49-inch-wide panel that pushes more than seven million pixels in your face at once. The Asus ROG Strix XG49WCR is $100 off today, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/gp/product/B0BZR718VX/&amp;xcust=2-1-2306610-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">bringing it down to just $699.99</a>. </p>
+
+
+
+<p>As a dedicated gaming monitor, the Asus ROG Strix XG49WCR fits the bill, essentially working as two 27-inch 1440p curved panels shoved into one. It&rsquo;s also fast enough to make even the most powerful gaming PC sweat at its maximum 5120&times;1440 ultrawide resolutio
+
+## This massive 49-inch Asus ultrawide gaming monitor is just $700 today
+ - [https://www.pcworld.com/article/2306610/this-massive-49-inch-ultrawide-gaming-monitor-is-just-700-today.html](https://www.pcworld.com/article/2306610/this-massive-49-inch-ultrawide-gaming-monitor-is-just-700-today.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T14:11:18+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>&ldquo;Ultrawide&rdquo; is a term for monitors that&rsquo;s more about aspect ratio than size &mdash; in fact it starts at about 29-inches, which is barely above the norm. But this deal definitely earns the ultra superlative, with a 49-inch-wide panel that pushes more than seven million pixels in your face at once. The Asus ROG Strix XG49WCR is $100 off today, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/gp/product/B0BZR718VX/&amp;xcust=2-1-2306610-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">bringing it down to just $699.99</a>. </p>
+
+
+
+<p>As a dedicated gaming monitor, the XG49WCR fits the bill, essentially working as two 27-inch 1440p curved panels shoved into one. It&rsquo;s also fast enough to make even the most powerful gaming PC sweat at its maximum 5120&times;1440 resolution, with a 165Hz refresh r
+
+## This 1080p Lenovo monitor is just $139 (53% off) right now
+ - [https://www.pcworld.com/article/2305969/this-1080p-lenovo-monitor-is-just-139-53-off-right-now.html](https://www.pcworld.com/article/2305969/this-1080p-lenovo-monitor-is-just-139-53-off-right-now.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T13:33:08+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Whether you need a monitor for work or everyday tasks, finding the right one for you can be a job in itself, especially with so many options available&ndash;you&rsquo;re often faced with a deluge of complicated model numbers that tell you nothing of the quality of the peripheral. Sometimes all you need is a basic 1080p monitor to get the job done, which is exactly what we&rsquo;ve got here today. Lenovo&rsquo;s selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.lenovo.com/us/en/p/accessories-and-software/monitors/office/63cfmar1us&amp;xcust=2-1-2305969-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">ThinkVision T24I-30 monitor for $139</a>, which is 53 percent off of the original $299 price. This particular monitor has a resolution of 1920&times;1080 as well as ultra-skinny bezels.</p>
+
+
+
+<p>The ThinkVision T24I-3
+
+## Teamgroup Z540 review: A worthy silver-medalist SSD
+ - [https://www.pcworld.com/article/2285631/teamgroup-z540-review.html](https://www.pcworld.com/article/2285631/teamgroup-z540-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T12:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>PCIe 5.0</li><li>Up to 4TB in capacity (soon)</li><li>Second-fastest SSD we&rsquo;ve tested overall</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Not particularly cheap</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Teamgroup Z540 is a worthy competitor for the PCIe 5
+
+## This free, ancient Windows app will watch over your laptop battery
+ - [https://www.pcworld.com/article/2291725/this-free-ancient-windows-app-will-watch-over-your-laptop-battery.html](https://www.pcworld.com/article/2291725/this-free-ancient-windows-app-will-watch-over-your-laptop-battery.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>One thing that always annoys me about Windows is that I never really feel like I know how long my laptop battery has before it runs out &mdash; and, conversely, how long it will be before it&rsquo;s fully charged. An ancient utility holds both secrets.</p>
+
+
+
+<p>When a group of PCWorld editors were brainstorming new article ideas, I suddenly remembered NirSoft&rsquo;s <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.nirsoft.net/utils/battery_information_view.html&amp;xcust=2-1-2291725-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">BatteryInfoView</a>, a freeware utility I hadn&rsquo;t honestly thought about since before the pandemic. A few years of working at home, plugged in, meant that I hadn&rsquo;t any need for a battery utility.</p>
+
+
+
+<p>BatteryInfoView is about as basic as it comes. It was developed, according to th
+
+## 5 outdated security practices you shouldn’t use anymore
+ - [https://www.pcworld.com/article/2304346/5-outdated-security-practices-you-shouldnt-use-anymore.html](https://www.pcworld.com/article/2304346/5-outdated-security-practices-you-shouldnt-use-anymore.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>When I was younger, I was told &ldquo;never use your real name on the internet.&rdquo; But the world has changed, and I don&rsquo;t follow that advice anymore. Likewise, there&rsquo;s a lot of well-meaning online security advice that has outlasted its usefulness. </p>
+
+
+
+<p>There&rsquo;s a core of truth to each one of the security practices I criticize below, but you shouldn&rsquo;t blindly follow these old tips. At best, you&rsquo;ll be wasting your time. At worst, you&rsquo;ll be putting yourself more at risk. Read on to learn more about the five outdated security practices you shouldn&rsquo;t use anymore.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Looking to protect your online privacy? Be sure to check out PCWorld&rsquo;s roundup of the <a href="https://www.pcworld.com/article/406870/best-vpn-services-apps-reviews-buying-advice.html">best VPN services</a> 
+
+## Get this portable Nintendo Switch charger for 10% off
+ - [https://www.pcworld.com/article/2306104/get-this-portable-nintendo-switch-charger-for-10-off.html](https://www.pcworld.com/article/2306104/get-this-portable-nintendo-switch-charger-for-10-off.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>You love your Nintendo Switch, so make sure you can play it in the best ways possible. Level up your play with this <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/portable-36w-switch-dock-charger-brick-with-4k-hdmi-usb-c-pd-and-usb-2-0?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=portable-36w-switch-dock-charger-brick-with-4k-hdmi-usb-c-pd-and-usb-2-0&amp;utm_term=scsf-594859&amp;utm_content=a0xRn000000tOo5IAE&amp;scsonar=1&amp;xcust=2-1-2306104-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Portable 36W Switch Dock Charger Brick with 4K HDMI, USB-C PD, and USB 2.0</a>.</p>
+
+
+
+<p>This ultra-portable brick lets you seamlessly transition to playing on the TV with a 4K@60Hz HDMI output. You&rsquo;ll be able to fully immerse yourself in the game on the TV while the USB 3.
+
+## Lock in great flight deals with hundreds off Matt’s Flights
+ - [https://www.pcworld.com/article/2306085/lock-in-great-flight-deals-with-hundreds-off-matts-flights.html](https://www.pcworld.com/article/2306085/lock-in-great-flight-deals-with-hundreds-off-matts-flights.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Planning some summer travel but afraid of the airfare costs? With a service like <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/matt-s-flights-premium-plan-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=matt-s-flights-premium-plan-lifetime-subscription&amp;utm_term=scsf-594876&amp;utm_content=a0xRn000000tQbOIAU&amp;scsonar=1&amp;xcust=2-1-2306085-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Matt&rsquo;s Flights</a>, you can save on airfare and focus on enjoying your trip. You can save on a lifetime subscription to Matt&rsquo;s Flights Premium Plan during a limited-time price drop running through April 21st.&nbsp;</p>
+
+
+
+<p>Featured on The New York Times and Thrillist, Matt&rsquo;s Flights gives you a personal aviation concierge, scanning airline 
+
+## Logitech has a mouse with an AI button
+ - [https://www.pcworld.com/article/2304830/logitech-has-a-mouse-with-an-ai-button.html](https://www.pcworld.com/article/2304830/logitech-has-a-mouse-with-an-ai-button.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T07:01:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>On the heels of keyboards with a Cortana key&hellip;comes a mouse with a ChatGPT key? Well, mostly. Meet the Logitech Signature AI Edition M750 Mouse.</p>
+
+
+
+<p>Logitech plans to launch the Signature AI Edition Mouse in April in the United States and the United Kingdom for $49.99. Though it has a dedicated AI key &mdash; you do need a dedicated AI key on your mouse, right? &mdash; the button actually launches an app called the Logi AI Prompt Builder, powered by <a href="https://www.pcworld.com/article/1658174/gpt-4-unleashed.html">ChatGPT</a>.</p>
+
+
+
+<p>That app is part of Logi Options+, the connective software that ties many of Logitech&rsquo;s MX, or &ldquo;Master,&rdquo; series peripherals (plus its Studio Series, Ergo, and others) such as keyboards and mice. When a user presses the AI prompt button on the top of the AI Edition Mouse, they&rsquo;re actually la
+
+## Logitech’s new mouse summons AI with a button push
+ - [https://www.pcworld.com/article/2304830/logitechs-new-mouse-summons-ai-with-a-button-push.html](https://www.pcworld.com/article/2304830/logitechs-new-mouse-summons-ai-with-a-button-push.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-17T07:01:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>On the heels of keyboards with a Cortana key&hellip;comes a mouse with a ChatGPT key? Well, mostly. Meet the Logitech Signature AI Edition M750 Mouse.</p>
+
+
+
+<p>Logitech plans to launch the Signature AI Edition Mouse in April in the United States and the United Kingdom for $49.99. Though it has a dedicated AI key &mdash; you do need a dedicated AI key on your mouse, right? &mdash; the button actually launches an app called the Logi AI Prompt Builder, powered by <a href="https://www.pcworld.com/article/1658174/gpt-4-unleashed.html">ChatGPT</a>.</p>
+
+
+
+<p>That app is part of Logi Options+, the connective software that ties many of Logitech&rsquo;s MX, or &ldquo;Master,&rdquo; series peripherals (plus its Studio Series, Ergo, and others) such as keyboards and mice. When a user presses the AI prompt button on the top of the AI Edition Mouse, they&rsquo;re actually la
+
