@@ -1,0 +1,296 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Argentina takes first step toward NATO partnership
+ - [https://www.reddit.com/r/worldnews/comments/1c7fepe/argentina_takes_first_step_toward_nato_partnership](https://www.reddit.com/r/worldnews/comments/1c7fepe/argentina_takes_first_step_toward_nato_partnership)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T21:37:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c7fepe/argentina_takes_first_step_toward_nato_partnership/"> <img alt="Argentina takes first step toward NATO partnership" src="https://external-preview.redd.it/kao40Rsi59tlHUJ5E5BU49jUZsPAJFDWU35zKQ78UHU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b679a92f7512a792144f3029e9e200e2713237a5" title="Argentina takes first step toward NATO partnership" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MadHatter514"> /u/MadHatter514 </a> <br /> <span><a href="https://www.nato.int/cps/en/natohq/news_224873.htm">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c7fepe/argentina_takes_first_step_toward_nato_partnership/">[comments]</a></span> </td></tr></table>
+
+## Iranian volleyball player posted support for Israel on social media, and then she disappeared
+ - [https://www.reddit.com/r/worldnews/comments/1c7esnu/iranian_volleyball_player_posted_support_for](https://www.reddit.com/r/worldnews/comments/1c7esnu/iranian_volleyball_player_posted_support_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T21:12:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c7esnu/iranian_volleyball_player_posted_support_for/"> <img alt="Iranian volleyball player posted support for Israel on social media, and then she disappeared" src="https://external-preview.redd.it/BqcscBmkgEvhK_5yx21LwJPE6-WTaYpPKGtWEjooXEQ.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f3d3866e83f3e031e45186fcde5cadeb1efba05c" title="Iranian volleyball player posted support for Israel on social media, and then she disappeared" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ahad_Haam"> /u/Ahad_Haam </a> <br /> <span><a href="https://www.ynetnews.com/culture/article/bj2cegyzc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c7esnu/iranian_volleyball_player_posted_support_for/">[comments]</a></span> </td></tr></table>
+
+## Poland arrests man suspected of spying for Russia to aid Zelenskyy assassination plot
+ - [https://www.reddit.com/r/worldnews/comments/1c7ebjo/poland_arrests_man_suspected_of_spying_for_russia](https://www.reddit.com/r/worldnews/comments/1c7ebjo/poland_arrests_man_suspected_of_spying_for_russia)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T20:53:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c7ebjo/poland_arrests_man_suspected_of_spying_for_russia/"> <img alt="Poland arrests man suspected of spying for Russia to aid Zelenskyy assassination plot" src="https://external-preview.redd.it/SdXxkiKJKZBtKvA16hteDk8Pz-awyWMlyThskWgsy-s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42718d84ddaee36df0ec34182429e2b62e31855b" title="Poland arrests man suspected of spying for Russia to aid Zelenskyy assassination plot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NOLA-Kola"> /u/NOLA-Kola </a> <br /> <span><a href="https://apnews.com/article/poland-espinonage-ukraine-russia-zelenskyy-plot-a7e3f5944ba165dd30b271840ffa9f95">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c7ebjo/poland_arrests_man_suspected_of_spying_for_russia/">[comments]</a></span> </td></tr></table>
+
+## Snack giant PepsiCo sources palm oil from razed Indigenous land in Peru, a new investigation shows
+ - [https://www.reddit.com/r/worldnews/comments/1c7dvg7/snack_giant_pepsico_sources_palm_oil_from_razed](https://www.reddit.com/r/worldnews/comments/1c7dvg7/snack_giant_pepsico_sources_palm_oil_from_razed)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T20:35:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c7dvg7/snack_giant_pepsico_sources_palm_oil_from_razed/"> <img alt="Snack giant PepsiCo sources palm oil from razed Indigenous land in Peru, a new investigation shows" src="https://external-preview.redd.it/gKMmUCFE7E2uqoAvDZt-mhAF0X0CzX4_kzmXGs1TAU0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c8de8b24b25c13065e0f2941b60e036202dac5d" title="Snack giant PepsiCo sources palm oil from razed Indigenous land in Peru, a new investigation shows" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/erikmongabay"> /u/erikmongabay </a> <br /> <span><a href="https://news.mongabay.com/2024/04/snack-giant-pepsico-sourced-palm-oil-from-razed-indigenous-land-investigation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c7dvg7/snack_giant_pepsico_sources_palm_oil_from_razed/">[comments]</a></span> </td></tr></table>
+
+## ‘Hard-Right’ NatCon Event Was Organised by Oil Funded Group
+ - [https://www.reddit.com/r/worldnews/comments/1c7baea/hardright_natcon_event_was_organised_by_oil](https://www.reddit.com/r/worldnews/comments/1c7baea/hardright_natcon_event_was_organised_by_oil)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T18:53:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c7baea/hardright_natcon_event_was_organised_by_oil/"> <img alt="‘Hard-Right’ NatCon Event Was Organised by Oil Funded Group" src="https://external-preview.redd.it/jFe9_MHIK2Wqf35dgariHMtb4-ta7zZQCBqVL_62XII.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d896fb67a98c29746b00d15f60e6fcf656aff79" title="‘Hard-Right’ NatCon Event Was Organised by Oil Funded Group" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhoIsJolyonWest"> /u/WhoIsJolyonWest </a> <br /> <span><a href="https://www.desmog.com/2024/04/16/national-conservatism-natcon-event-farage-braverman-organised-mcc-oil-funded-hungary-group/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c7baea/hardright_natcon_event_was_organised_by_oil/">[comments]</a></span> </td></tr></table>
+
+## Slovak citizens raise $1.6 million for Czech ammunition initiative after government refuses to contribute
+ - [https://www.reddit.com/r/worldnews/comments/1c7asal/slovak_citizens_raise_16_million_for_czech](https://www.reddit.com/r/worldnews/comments/1c7asal/slovak_citizens_raise_16_million_for_czech)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T18:33:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c7asal/slovak_citizens_raise_16_million_for_czech/"> <img alt="Slovak citizens raise $1.6 million for Czech ammunition initiative after government refuses to contribute" src="https://external-preview.redd.it/23dSLNAZRgJYL5t7FfxvouPHh1EF2mvUNirikdlKOQQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d7ebee42eea81c6810ec5b5dbbb1b1452a12241" title="Slovak citizens raise $1.6 million for Czech ammunition initiative after government refuses to contribute" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Marha01"> /u/Marha01 </a> <br /> <span><a href="https://kyivindependent.com/slovak-citizens-raise-1-6-million-for-czech-ammunition-initiative/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c7asal/slovak_citizens_raise_16_million_for_czech/">[comments]</a></span> </td></tr></table>
+
+## US to oppose Palestinian bid for full UN membership
+ - [https://www.reddit.com/r/worldnews/comments/1c7a3my/us_to_oppose_palestinian_bid_for_full_un](https://www.reddit.com/r/worldnews/comments/1c7a3my/us_to_oppose_palestinian_bid_for_full_un)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T18:06:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c7a3my/us_to_oppose_palestinian_bid_for_full_un/"> <img alt="US to oppose Palestinian bid for full UN membership" src="https://external-preview.redd.it/oDV7L0KPMs6-sXFvbx-AbOXJvgL-xzDb91s478quFfE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a62c84e4edae0bdcac6927191dbf63b94265e9b" title="US to oppose Palestinian bid for full UN membership" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BandicootMammoth4668"> /u/BandicootMammoth4668 </a> <br /> <span><a href="https://www.reuters.com/world/middle-east/un-security-council-vote-thursday-palestinian-un-membership-2024-04-18/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c7a3my/us_to_oppose_palestinian_bid_for_full_un/">[comments]</a></span> </td></tr></table>
+
+## Poland arrests man suspected of spying for Russia to aid Zelensky assassination plot
+ - [https://www.reddit.com/r/worldnews/comments/1c79m8o/poland_arrests_man_suspected_of_spying_for_russia](https://www.reddit.com/r/worldnews/comments/1c79m8o/poland_arrests_man_suspected_of_spying_for_russia)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T17:47:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c79m8o/poland_arrests_man_suspected_of_spying_for_russia/"> <img alt="Poland arrests man suspected of spying for Russia to aid Zelensky assassination plot" src="https://external-preview.redd.it/nWTxf6SItsD9Q4mhGha2ampGsVlDG6buAXSNQphw9NM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3788603c551a206497c5700f58a2309bcd7407ba" title="Poland arrests man suspected of spying for Russia to aid Zelensky assassination plot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Discussion6913"> /u/No_Discussion6913 </a> <br /> <span><a href="https://www.thehindu.com/news/international/poland-arrests-man-suspected-of-spying-for-russia-to-aid-zelensky-assassination-plot/article68081012.ece/amp/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c79m8o/poland_arrests_man_suspected_of_spying_for_russia/">[comments]</a></span> </td></tr></table>
+
+## G7 eyeing using frozen Russian assets as collateral for Ukraine loans, EU official says
+ - [https://www.reddit.com/r/worldnews/comments/1c7910d/g7_eyeing_using_frozen_russian_assets_as](https://www.reddit.com/r/worldnews/comments/1c7910d/g7_eyeing_using_frozen_russian_assets_as)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T17:23:41+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/magicakarma"> /u/magicakarma </a> <br /> <span><a href="https://www.reuters.com/world/europe/g7-eyeing-using-frozen-russian-assets-collateral-ukraine-loans-eu-official-says-2024-04-18/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c7910d/g7_eyeing_using_frozen_russian_assets_as/">[comments]</a></span>
+
+## Giant prehistoric snake longer than a T.rex found in India
+ - [https://www.reddit.com/r/worldnews/comments/1c78mke/giant_prehistoric_snake_longer_than_a_trex_found](https://www.reddit.com/r/worldnews/comments/1c78mke/giant_prehistoric_snake_longer_than_a_trex_found)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T17:07:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c78mke/giant_prehistoric_snake_longer_than_a_trex_found/"> <img alt="Giant prehistoric snake longer than a T.rex found in India" src="https://external-preview.redd.it/lAsE2nxVVTU2givCLDKMZtmyHd78hDrLydHt4yfmbRI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c11dafaa91a5889c64f5f486516fc91f6715efd" title="Giant prehistoric snake longer than a T.rex found in India" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/world-news/2024/04/18/giant-prehistoric-snake-vasuki-indicus-trex-found-in-india/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c78mke/giant_prehistoric_snake_longer_than_a_trex_found/">[comments]</a></span> </td></tr></table>
+
+## Iran threatens to build nuclear bomb
+ - [https://www.reddit.com/r/worldnews/comments/1c78356/iran_threatens_to_build_nuclear_bomb](https://www.reddit.com/r/worldnews/comments/1c78356/iran_threatens_to_build_nuclear_bomb)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T16:45:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c78356/iran_threatens_to_build_nuclear_bomb/"> <img alt="Iran threatens to build nuclear bomb" src="https://external-preview.redd.it/cHAF4dG9gF6PQNS4-xneOPTobQY8Zb5DJDKVuuGmCqc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b19617cb388f833ff451feea75260caa34c50d3e" title="Iran threatens to build nuclear bomb" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/world-news/2024/04/18/iran-threatens-build-nuclear-bomb/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c78356/iran_threatens_to_build_nuclear_bomb/">[comments]</a></span> </td></tr></table>
+
+## People in Slovakia buy bullets for Ukraine in defiance of Russia-friendly PM
+ - [https://www.reddit.com/r/worldnews/comments/1c76u7j/people_in_slovakia_buy_bullets_for_ukraine_in](https://www.reddit.com/r/worldnews/comments/1c76u7j/people_in_slovakia_buy_bullets_for_ukraine_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T15:55:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c76u7j/people_in_slovakia_buy_bullets_for_ukraine_in/"> <img alt="People in Slovakia buy bullets for Ukraine in defiance of Russia-friendly PM" src="https://external-preview.redd.it/R3kGFXiC5hi_VvO-JpdUbRUXyCmHE5fgUrTOrzSfo8Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b9188e7edebace91fad5c84cd07afa9096b3056" title="People in Slovakia buy bullets for Ukraine in defiance of Russia-friendly PM" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShadowBannedAugustus"> /u/ShadowBannedAugustus </a> <br /> <span><a href="https://www.straitstimes.com/world/europe/people-in-slovakia-buy-bullets-for-ukraine-in-defiance-of-russia-friendly-pm">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c76u7j/people_in_slovakia_buy_bullets_for_ukraine_in/">[comments]</a></span> </td></tr></table>
+
+## Iranian commander warns Tehran could review its 'nuclear doctrine' amid Israeli threats
+ - [https://www.reddit.com/r/worldnews/comments/1c75pn2/iranian_commander_warns_tehran_could_review_its](https://www.reddit.com/r/worldnews/comments/1c75pn2/iranian_commander_warns_tehran_could_review_its)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T15:09:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c75pn2/iranian_commander_warns_tehran_could_review_its/"> <img alt="Iranian commander warns Tehran could review its 'nuclear doctrine' amid Israeli threats" src="https://external-preview.redd.it/-isCAFM0c6LkOtAEVu3og4b4w-6uMwFpVaoWciCHziE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e70577f527f5eadd94f16df6feaa7fee58f3aac" title="Iranian commander warns Tehran could review its 'nuclear doctrine' amid Israeli threats" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_Franklin"> /u/Red_Franklin </a> <br /> <span><a href="https://www.jpost.com/breaking-news/article-797737">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c75pn2/iranian_commander_warns_tehran_could_review_its/">[comments]</a></span> </td></tr></table>
+
+## Risk of bird flu spreading to humans is ‘enormous concern’, says WHO | Bird flu
+ - [https://www.reddit.com/r/worldnews/comments/1c75f01/risk_of_bird_flu_spreading_to_humans_is_enormous](https://www.reddit.com/r/worldnews/comments/1c75f01/risk_of_bird_flu_spreading_to_humans_is_enormous)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T14:57:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c75f01/risk_of_bird_flu_spreading_to_humans_is_enormous/"> <img alt="Risk of bird flu spreading to humans is ‘enormous concern’, says WHO | Bird flu" src="https://external-preview.redd.it/C0AviVBALjnLyZ7uA3TBsVMxCpNlUtccvaYF5VR2XPc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=85c7d3b95546102ae4487d3f120ad9ea2ed6dcf7" title="Risk of bird flu spreading to humans is ‘enormous concern’, says WHO | Bird flu" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Highlight-Co720"> /u/Highlight-Co720 </a> <br /> <span><a href="https://www.theguardian.com/world/2024/apr/18/risk-bird-flu-spreading-humans-enormous-concern-who">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c75f01/risk_of_bird_flu_spreading_to_humans_is_enormous/">[comments]</a></span> </td></tr></table>
+
+## Military intelligence: Ukraine destroys missile launchers, radar stations at Russian military airfield in Crimea
+ - [https://www.reddit.com/r/worldnews/comments/1c74stl/military_intelligence_ukraine_destroys_missile](https://www.reddit.com/r/worldnews/comments/1c74stl/military_intelligence_ukraine_destroys_missile)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T14:30:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c74stl/military_intelligence_ukraine_destroys_missile/"> <img alt="Military intelligence: Ukraine destroys missile launchers, radar stations at Russian military airfield in Crimea" src="https://external-preview.redd.it/AkrtrbDvRYOaQKp98v8JKnKLyOULANuZ1ca-o5gSqIY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=340614e8e4f1ba72a66506642654c9060aae83d1" title="Military intelligence: Ukraine destroys missile launchers, radar stations at Russian military airfield in Crimea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_Franklin"> /u/Red_Franklin </a> <br /> <span><a href="https://kyivindependent.com/military-intelligence-ukraine-destroys-missile-launchers-radar-stations-at-russian-military-airfield-in-crimea/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c74stl/military_intelligence_ukraine_destroys_missile/">[comments]</a></span> </td></tr></
+
+## IDF arrests ISIS operative in West Bank, imminent terror attack thwarted
+ - [https://www.reddit.com/r/worldnews/comments/1c74mez/idf_arrests_isis_operative_in_west_bank_imminent](https://www.reddit.com/r/worldnews/comments/1c74mez/idf_arrests_isis_operative_in_west_bank_imminent)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T14:23:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c74mez/idf_arrests_isis_operative_in_west_bank_imminent/"> <img alt="IDF arrests ISIS operative in West Bank, imminent terror attack thwarted" src="https://external-preview.redd.it/x3c1zYHyKlnj-S85IAUc1Qb5BCddf5SodMd6xvUnJFk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b08946491359ac2a5da86981035cff4e367f71f0" title="IDF arrests ISIS operative in West Bank, imminent terror attack thwarted" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EUstrongerthanUS"> /u/EUstrongerthanUS </a> <br /> <span><a href="https://m.jpost.com/breaking-news/article-797690#google_vignette">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c74mez/idf_arrests_isis_operative_in_west_bank_imminent/">[comments]</a></span> </td></tr></table>
+
+## Plastics industry heats world four times as much as air travel, report finds
+ - [https://www.reddit.com/r/worldnews/comments/1c749vl/plastics_industry_heats_world_four_times_as_much](https://www.reddit.com/r/worldnews/comments/1c749vl/plastics_industry_heats_world_four_times_as_much)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T14:08:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c749vl/plastics_industry_heats_world_four_times_as_much/"> <img alt="Plastics industry heats world four times as much as air travel, report finds" src="https://external-preview.redd.it/d4drL2UsWBd_MnaNZJk49BHUcitreylrHXqjkS7YBog.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ab7657aa1960b3e00b814b8b4eb1b139ed19d7b" title="Plastics industry heats world four times as much as air travel, report finds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IntrepidGentian"> /u/IntrepidGentian </a> <br /> <span><a href="https://thehill.com/policy/energy-environment/4601309-plastics-industry-heats-world-four-times-as-much-as-air-travel-report-finds/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c749vl/plastics_industry_heats_world_four_times_as_much/">[comments]</a></span> </td></tr></table>
+
+## Microplastics can travel to the brain and other vital organs after ingestion, new study finds
+ - [https://www.reddit.com/r/worldnews/comments/1c73l7s/microplastics_can_travel_to_the_brain_and_other](https://www.reddit.com/r/worldnews/comments/1c73l7s/microplastics_can_travel_to_the_brain_and_other)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T13:39:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c73l7s/microplastics_can_travel_to_the_brain_and_other/"> <img alt="Microplastics can travel to the brain and other vital organs after ingestion, new study finds" src="https://external-preview.redd.it/upT4lFfTjBU7PV9z-NlS14HzDh_cXzrSpVzhJgXYH6g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9deee2f086ed7811e6937df72c1981681e0c4c23" title="Microplastics can travel to the brain and other vital organs after ingestion, new study finds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Unusual-State1827"> /u/Unusual-State1827 </a> <br /> <span><a href="https://www.thestar.com/news/canada/microplastics-can-travel-to-the-brain-and-other-vital-organs-after-ingestion-new-study-finds/article_cb3661b6-fc21-11ee-bcdc-3f3d12cdf114.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c73l7s/microplastics_can_travel_to_the_brain_and_other/">[comments]</a></span>
+
+## China Paid Money to Buy Votes in the UN? UN Corruption Scandal by China
+ - [https://www.reddit.com/r/worldnews/comments/1c73avm/china_paid_money_to_buy_votes_in_the_un_un](https://www.reddit.com/r/worldnews/comments/1c73avm/china_paid_money_to_buy_votes_in_the_un_un)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T13:26:17+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Kitty_Kat699"> /u/Kitty_Kat699 </a> <br /> <span><a href="https://committees.parliament.uk/committee/78/foreign-affairs-committee/news/200916/written-evidence-whistleblower-allegations-of-un-coverup-of-its-special-favours-to-the-prc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c73avm/china_paid_money_to_buy_votes_in_the_un_un/">[comments]</a></span>
+
+## Germany arrests men who allegedly spied on U.S. military sites for Russia
+ - [https://www.reddit.com/r/worldnews/comments/1c72l1h/germany_arrests_men_who_allegedly_spied_on_us](https://www.reddit.com/r/worldnews/comments/1c72l1h/germany_arrests_men_who_allegedly_spied_on_us)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T12:53:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c72l1h/germany_arrests_men_who_allegedly_spied_on_us/"> <img alt="Germany arrests men who allegedly spied on U.S. military sites for Russia" src="https://external-preview.redd.it/XPcFAEetU3ARGI3FxhXoAR6iO8avBorixmDD7h3k_Eo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=515266563b6b36ef0acbe207b530d918cc5cb283" title="Germany arrests men who allegedly spied on U.S. military sites for Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HydrolicKrane"> /u/HydrolicKrane </a> <br /> <span><a href="https://www.nbcnews.com/news/world/germany-arrests-russia-spy-sabotage-plot-us-military-sites-ukraine-aid-rcna148331">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c72l1h/germany_arrests_men_who_allegedly_spied_on_us/">[comments]</a></span> </td></tr></table>
+
+## Poles 40% richer than they would be without EU membership, finds report
+ - [https://www.reddit.com/r/worldnews/comments/1c72ie4/poles_40_richer_than_they_would_be_without_eu](https://www.reddit.com/r/worldnews/comments/1c72ie4/poles_40_richer_than_they_would_be_without_eu)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T12:49:29+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AlertTangerine"> /u/AlertTangerine </a> <br /> <span><a href="https://notesfrompoland.com/2024/04/17/poles-40-richer-than-they-would-be-without-eu-membership-finds-report/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c72ie4/poles_40_richer_than_they_would_be_without_eu/">[comments]</a></span>
+
+## Moscow says it will build drone bases along Arctic coast
+ - [https://www.reddit.com/r/worldnews/comments/1c72hpg/moscow_says_it_will_build_drone_bases_along](https://www.reddit.com/r/worldnews/comments/1c72hpg/moscow_says_it_will_build_drone_bases_along)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T12:48:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c72hpg/moscow_says_it_will_build_drone_bases_along/"> <img alt="Moscow says it will build drone bases along Arctic coast" src="https://external-preview.redd.it/K3eh0FHHMCSFy6D7wQ_D5ghHKSbRZH3SCAuJ8_A5TwI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e75c6a2143bbdff9ea2631b0de71004c8701ca1" title="Moscow says it will build drone bases along Arctic coast" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AlertTangerine"> /u/AlertTangerine </a> <br /> <span><a href="https://thebarentsobserver.com/en/security/2024/04/moscow-says-it-will-build-drone-bases-along-arctic-coast">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c72hpg/moscow_says_it_will_build_drone_bases_along/">[comments]</a></span> </td></tr></table>
+
+## Iranian commander says Tehran could review “nuclear doctrine” amid Israeli threats
+ - [https://www.reddit.com/r/worldnews/comments/1c725bl/iranian_commander_says_tehran_could_review](https://www.reddit.com/r/worldnews/comments/1c725bl/iranian_commander_says_tehran_could_review)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T12:31:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c725bl/iranian_commander_says_tehran_could_review/"> <img alt="Iranian commander says Tehran could review “nuclear doctrine” amid Israeli threats" src="https://external-preview.redd.it/hzlUi2auvoD9iEs3cDmsHf50dlesn32CGudxZIiB9fQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62caa0c80b90932c2ea17bf4c328b2b006a0a302" title="Iranian commander says Tehran could review “nuclear doctrine” amid Israeli threats" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FYoCouchEddie"> /u/FYoCouchEddie </a> <br /> <span><a href="https://www.reuters.com/world/middle-east/iranian-commander-warns-tehran-could-review-its-nuclear-doctrine-amid-israeli-2024-04-18/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c725bl/iranian_commander_says_tehran_could_review/">[comments]</a></span> </td></tr></table>
+
+## Four Russian missile launchers 'critically damaged' in Crimea, Ukraine says
+ - [https://www.reddit.com/r/worldnews/comments/1c71x6y/four_russian_missile_launchers_critically_damaged](https://www.reddit.com/r/worldnews/comments/1c71x6y/four_russian_missile_launchers_critically_damaged)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T12:19:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c71x6y/four_russian_missile_launchers_critically_damaged/"> <img alt="Four Russian missile launchers 'critically damaged' in Crimea, Ukraine says" src="https://external-preview.redd.it/mKqHVAGaLWiUITRbgNRDoP35M9U5u0blA-Wx_P_WJ-c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28283100db87356cfdaee78c5280027752fa681d" title="Four Russian missile launchers 'critically damaged' in Crimea, Ukraine says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/serenescarla"> /u/serenescarla </a> <br /> <span><a href="https://www.reuters.com/world/europe/four-russian-missile-launchers-critically-damaged-crimea-ukraine-says-2024-04-18/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c71x6y/four_russian_missile_launchers_critically_damaged/">[comments]</a></span> </td></tr></table>
+
+## Don’t blame cloud seeding for the Dubai floods
+ - [https://www.reddit.com/r/worldnews/comments/1c718cs/dont_blame_cloud_seeding_for_the_dubai_floods](https://www.reddit.com/r/worldnews/comments/1c718cs/dont_blame_cloud_seeding_for_the_dubai_floods)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T11:43:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c718cs/dont_blame_cloud_seeding_for_the_dubai_floods/"> <img alt="Don’t blame cloud seeding for the Dubai floods" src="https://external-preview.redd.it/7f_C9BjgnPaupA1emSYxNnjbSTAJk-pEIWFbw8xd8OI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=72d7d83878a920984ac2419e681166ead4e64e0d" title="Don’t blame cloud seeding for the Dubai floods" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NilsuBerk"> /u/NilsuBerk </a> <br /> <span><a href="https://www.theguardian.com/world/2024/apr/17/cloud-seeding-dubai-floods">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c718cs/dont_blame_cloud_seeding_for_the_dubai_floods/">[comments]</a></span> </td></tr></table>
+
+## 'War Against Women,' Iran Intensifies Hijab Crackdown
+ - [https://www.reddit.com/r/worldnews/comments/1c716bl/war_against_women_iran_intensifies_hijab_crackdown](https://www.reddit.com/r/worldnews/comments/1c716bl/war_against_women_iran_intensifies_hijab_crackdown)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T11:40:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c716bl/war_against_women_iran_intensifies_hijab_crackdown/"> <img alt="'War Against Women,' Iran Intensifies Hijab Crackdown" src="https://external-preview.redd.it/xYQVDz4cfdTa8XW24FnPPZmkRCl6JfYWLhhphblfWqo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0252a1815f73c4c1ef46093ad9219df4480e1ba6" title="'War Against Women,' Iran Intensifies Hijab Crackdown" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/danmghm"> /u/danmghm </a> <br /> <span><a href="https://iranwire.com/en/women/127680-war-against-women-iran-intensifies-hijab-crackdown/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c716bl/war_against_women_iran_intensifies_hijab_crackdown/">[comments]</a></span> </td></tr></table>
+
+## Germany arrests two for alleged plot to attack military bases on behalf of Russia
+ - [https://www.reddit.com/r/worldnews/comments/1c70rzc/germany_arrests_two_for_alleged_plot_to_attack](https://www.reddit.com/r/worldnews/comments/1c70rzc/germany_arrests_two_for_alleged_plot_to_attack)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T11:18:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c70rzc/germany_arrests_two_for_alleged_plot_to_attack/"> <img alt="Germany arrests two for alleged plot to attack military bases on behalf of Russia" src="https://external-preview.redd.it/9giJ9rUJuiO5y68J0OM6OQiYwjZyMqlaLvsAYfiD-4g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f63be263386cd32f16b349f28aa11a42256075dd" title="Germany arrests two for alleged plot to attack military bases on behalf of Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BitterFuture"> /u/BitterFuture </a> <br /> <span><a href="https://www.theguardian.com/world/2024/apr/18/germany-arrests-two-for-alleged-plot-to-attack-military-bases-on-behalf-of-russia">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c70rzc/germany_arrests_two_for_alleged_plot_to_attack/">[comments]</a></span> </td></tr></table>
+
+## A NATO state said it could buy Patriot systems for Ukraine from countries not prepared to give them directly
+ - [https://www.reddit.com/r/worldnews/comments/1c70k8p/a_nato_state_said_it_could_buy_patriot_systems](https://www.reddit.com/r/worldnews/comments/1c70k8p/a_nato_state_said_it_could_buy_patriot_systems)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T11:05:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c70k8p/a_nato_state_said_it_could_buy_patriot_systems/"> <img alt="A NATO state said it could buy Patriot systems for Ukraine from countries not prepared to give them directly" src="https://external-preview.redd.it/1MlSzfzkcW7E_PIC2ExIMRayPcd6b9JJCiMuTSQ4Udo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5bc06de83765c86b8ad809f2e05d7b12ae370bcf" title="A NATO state said it could buy Patriot systems for Ukraine from countries not prepared to give them directly" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/magicakarma"> /u/magicakarma </a> <br /> <span><a href="https://www.businessinsider.com/a-nato-state-said-it-can-buy-patriots-for-ukraine-from-other-countries-2024-4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c70k8p/a_nato_state_said_it_could_buy_patriot_systems/">[comments]</a></span> </td></tr></table>
+
+## Two countries in Europe are powered by 100% renewable energy as wind capacity soars
+ - [https://www.reddit.com/r/worldnews/comments/1c6z0oc/two_countries_in_europe_are_powered_by_100](https://www.reddit.com/r/worldnews/comments/1c6z0oc/two_countries_in_europe_are_powered_by_100)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T09:25:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6z0oc/two_countries_in_europe_are_powered_by_100/"> <img alt="Two countries in Europe are powered by 100% renewable energy as wind capacity soars" src="https://external-preview.redd.it/MMwMOp63sOUaMiW7-XpDVRBwqus2Lk229OdQIXGUt3k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6dce2fbc70911df2e4a7789e2d1d345ade9bd8a6" title="Two countries in Europe are powered by 100% renewable energy as wind capacity soars" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/euronews-english"> /u/euronews-english </a> <br /> <span><a href="https://www.euronews.com/green/2024/04/17/wind-energy-saw-record-growth-in-2023-which-countries-installed-the-most">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6z0oc/two_countries_in_europe_are_powered_by_100/">[comments]</a></span> </td></tr></table>
+
+## Russia to Hire Contract Soldiers in Bid to Avoid Unpopular Draft
+ - [https://www.reddit.com/r/worldnews/comments/1c6yn8g/russia_to_hire_contract_soldiers_in_bid_to_avoid](https://www.reddit.com/r/worldnews/comments/1c6yn8g/russia_to_hire_contract_soldiers_in_bid_to_avoid)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T08:58:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6yn8g/russia_to_hire_contract_soldiers_in_bid_to_avoid/"> <img alt="Russia to Hire Contract Soldiers in Bid to Avoid Unpopular Draft" src="https://external-preview.redd.it/KPLPRu4xBZPXYYjGm54tMD4VWOBXizExg-r83Hz3PXM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=427c8b851656d817560809f5551be72b2df5f49b" title="Russia to Hire Contract Soldiers in Bid to Avoid Unpopular Draft" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloomberg"> /u/bloomberg </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-04-18/war-in-ukraine-russia-to-enlist-more-hired-soldiers-to-avoid-conscription">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6yn8g/russia_to_hire_contract_soldiers_in_bid_to_avoid/">[comments]</a></span> </td></tr></table>
+
+## ‘Russia doesn’t care’: Sweden sounds alarm over unsafe oil fleet
+ - [https://www.reddit.com/r/worldnews/comments/1c6ydca/russia_doesnt_care_sweden_sounds_alarm_over](https://www.reddit.com/r/worldnews/comments/1c6ydca/russia_doesnt_care_sweden_sounds_alarm_over)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T08:38:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6ydca/russia_doesnt_care_sweden_sounds_alarm_over/"> <img alt="‘Russia doesn’t care’: Sweden sounds alarm over unsafe oil fleet" src="https://external-preview.redd.it/WzRkt4qH8SUkXQmSsaczW_csPSsBAADrX0Nvcr94IeI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ee641000e78f2d8b1086e158c3d41bb28c22ff3c" title="‘Russia doesn’t care’: Sweden sounds alarm over unsafe oil fleet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/3kOlen"> /u/3kOlen </a> <br /> <span><a href="https://www.theguardian.com/world/2024/apr/18/swedish-foreign-minister-tobias-billstrom-unsafe-russian-oil-fleet-baltic-sea-environmental-catastrophe">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6ydca/russia_doesnt_care_sweden_sounds_alarm_over/">[comments]</a></span> </td></tr></table>
+
+## Lebanon says Israeli agents likely killed Hezbollah-linked currency exchanger near Beirut
+ - [https://www.reddit.com/r/worldnews/comments/1c6y7ke/lebanon_says_israeli_agents_likely_killed](https://www.reddit.com/r/worldnews/comments/1c6y7ke/lebanon_says_israeli_agents_likely_killed)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T08:25:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6y7ke/lebanon_says_israeli_agents_likely_killed/"> <img alt="Lebanon says Israeli agents likely killed Hezbollah-linked currency exchanger near Beirut" src="https://external-preview.redd.it/5azb4YhMqsntdrgqTKiIEDGaM60FuOh2Q5f9b8cp9dc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d9cbb3f719d96196fd4086645d565a6b6b736b2" title="Lebanon says Israeli agents likely killed Hezbollah-linked currency exchanger near Beirut" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Safe-Photograph-7209"> /u/Safe-Photograph-7209 </a> <br /> <span><a href="https://apnews.com/article/lebanon-israel-mossad-hezbollah-srour-hamas-iran-cfe512732c69cc2a9062be57a218ca28">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6y7ke/lebanon_says_israeli_agents_likely_killed/">[comments]</a></span> </td></tr></table>
+
+## Germany arrests two for alleged military sabotage plot on behalf of Russia
+ - [https://www.reddit.com/r/worldnews/comments/1c6xwde/germany_arrests_two_for_alleged_military_sabotage](https://www.reddit.com/r/worldnews/comments/1c6xwde/germany_arrests_two_for_alleged_military_sabotage)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T08:02:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6xwde/germany_arrests_two_for_alleged_military_sabotage/"> <img alt="Germany arrests two for alleged military sabotage plot on behalf of Russia" src="https://external-preview.redd.it/mKqHVAGaLWiUITRbgNRDoP35M9U5u0blA-Wx_P_WJ-c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28283100db87356cfdaee78c5280027752fa681d" title="Germany arrests two for alleged military sabotage plot on behalf of Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UzzNuff"> /u/UzzNuff </a> <br /> <span><a href="https://www.reuters.com/world/europe/germany-arrests-two-alleged-military-sabotage-plot-behalf-russia-2024-04-18/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6xwde/germany_arrests_two_for_alleged_military_sabotage/">[comments]</a></span> </td></tr></table>
+
+## US approves Rafah op. in exchange for no Israeli counterstrikes on Iran - report
+ - [https://www.reddit.com/r/worldnews/comments/1c6xp45/us_approves_rafah_op_in_exchange_for_no_israeli](https://www.reddit.com/r/worldnews/comments/1c6xp45/us_approves_rafah_op_in_exchange_for_no_israeli)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T07:48:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6xp45/us_approves_rafah_op_in_exchange_for_no_israeli/"> <img alt="US approves Rafah op. in exchange for no Israeli counterstrikes on Iran - report" src="https://external-preview.redd.it/w2_ZQW6YCvqFy0geWer58ER2JQmiK432HAWhAPnJShM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87c344ff72999227839b8c6ece8daa604052ddcc" title="US approves Rafah op. in exchange for no Israeli counterstrikes on Iran - report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Most_Razzmatazz_1113"> /u/Most_Razzmatazz_1113 </a> <br /> <span><a href="https://www.jpost.com/breaking-news/article-797675">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6xp45/us_approves_rafah_op_in_exchange_for_no_israeli/">[comments]</a></span> </td></tr></table>
+
+## China slams U.S. probe into its shipbuilding industry, says move is a 'mistake on top of a mistake'
+ - [https://www.reddit.com/r/worldnews/comments/1c6wqdq/china_slams_us_probe_into_its_shipbuilding](https://www.reddit.com/r/worldnews/comments/1c6wqdq/china_slams_us_probe_into_its_shipbuilding)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T06:43:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6wqdq/china_slams_us_probe_into_its_shipbuilding/"> <img alt="China slams U.S. probe into its shipbuilding industry, says move is a 'mistake on top of a mistake'" src="https://external-preview.redd.it/mYhZ1K3rEWRfHRJRu3bHnYuVGjYgdR9GJWt36Z021sc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca9c4bee960ef0e29fc97628a710ae8c0617388e" title="China slams U.S. probe into its shipbuilding industry, says move is a 'mistake on top of a mistake'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/peachiecharm"> /u/peachiecharm </a> <br /> <span><a href="https://www.cnbc.com/2024/04/18/china-slams-us-probe-into-its-shipbuilding-industry-for-unfair-practices.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6wqdq/china_slams_us_probe_into_its_shipbuilding/">[comments]</a></span> </td></tr></table>
+
+## Dutch PM offers to buy Patriot systems from allies for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1c6ur1b/dutch_pm_offers_to_buy_patriot_systems_from](https://www.reddit.com/r/worldnews/comments/1c6ur1b/dutch_pm_offers_to_buy_patriot_systems_from)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T04:40:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6ur1b/dutch_pm_offers_to_buy_patriot_systems_from/"> <img alt="Dutch PM offers to buy Patriot systems from allies for Ukraine" src="https://external-preview.redd.it/k2QsipNvuEW1JlVxcEYcj8aYqB3NwSLEvoSfuHjl0V0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dffee2c55938f43ebe8ece83afbcde5eac92485a" title="Dutch PM offers to buy Patriot systems from allies for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/new974517"> /u/new974517 </a> <br /> <span><a href="https://kyivindependent.com/dutch-pm-offers-to-buy-patriot-systems-from-allies-for-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6ur1b/dutch_pm_offers_to_buy_patriot_systems_from/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 785, Part 1 (Thread #931)
+ - [https://www.reddit.com/r/worldnews/comments/1c6u2yx/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1c6u2yx/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T04:02:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6u2yx/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 785, Part 1 (Thread #931)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 785, Part 1 (Thread #931)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6u2yx/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## New footage published of Hamas kidnapping of Yarden Bibas
+ - [https://www.reddit.com/r/worldnews/comments/1c6u0vd/new_footage_published_of_hamas_kidnapping_of](https://www.reddit.com/r/worldnews/comments/1c6u0vd/new_footage_published_of_hamas_kidnapping_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T03:59:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6u0vd/new_footage_published_of_hamas_kidnapping_of/"> <img alt="New footage published of Hamas kidnapping of Yarden Bibas" src="https://external-preview.redd.it/mu3JoBPqPMLAmwFqm3hjE-tv5PbR6uJMT2nKqIMwu3Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3b2f9e1b37a7eb82a186c24dbdd87f536757c60" title="New footage published of Hamas kidnapping of Yarden Bibas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Master-Concept-5260"> /u/Master-Concept-5260 </a> <br /> <span><a href="https://m.jpost.com/israel-hamas-war/article-797609">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6u0vd/new_footage_published_of_hamas_kidnapping_of/">[comments]</a></span> </td></tr></table>
+
+## Germany is already seeking air defence systems for Ukraine from Persian Gulf states
+ - [https://www.reddit.com/r/worldnews/comments/1c6tzul/germany_is_already_seeking_air_defence_systems](https://www.reddit.com/r/worldnews/comments/1c6tzul/germany_is_already_seeking_air_defence_systems)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T03:57:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6tzul/germany_is_already_seeking_air_defence_systems/"> <img alt="Germany is already seeking air defence systems for Ukraine from Persian Gulf states" src="https://external-preview.redd.it/UMSbE4lIygfQeCVAMWM0E1DO88FETjaCMdD1QxXEZAs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c4777ae5dbcc073954d7c48e8d98ac9ea877997" title="Germany is already seeking air defence systems for Ukraine from Persian Gulf states" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/04/17/7451717/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6tzul/germany_is_already_seeking_air_defence_systems/">[comments]</a></span> </td></tr></table>
+
+## Canada to start taxing tech giants in 2024 despite US complaints
+ - [https://www.reddit.com/r/worldnews/comments/1c6sqkn/canada_to_start_taxing_tech_giants_in_2024](https://www.reddit.com/r/worldnews/comments/1c6sqkn/canada_to_start_taxing_tech_giants_in_2024)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T02:48:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6sqkn/canada_to_start_taxing_tech_giants_in_2024/"> <img alt="Canada to start taxing tech giants in 2024 despite US complaints" src="https://external-preview.redd.it/q5t6g7DgTyMfIMD6swGeTyzmmk0guGxzTk_AzNSHwMc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0da5050c3c11427b59602d88ffa18fa1645b1b45" title="Canada to start taxing tech giants in 2024 despite US complaints" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/naqi11"> /u/naqi11 </a> <br /> <span><a href="https://techxplore.com/news/2024-04-canada-taxing-tech-giants-complaints.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6sqkn/canada_to_start_taxing_tech_giants_in_2024/">[comments]</a></span> </td></tr></table>
+
+## Amsterdam bans new hotels in fight against mass tourism
+ - [https://www.reddit.com/r/worldnews/comments/1c6saw9/amsterdam_bans_new_hotels_in_fight_against_mass](https://www.reddit.com/r/worldnews/comments/1c6saw9/amsterdam_bans_new_hotels_in_fight_against_mass)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T02:26:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6saw9/amsterdam_bans_new_hotels_in_fight_against_mass/"> <img alt="Amsterdam bans new hotels in fight against mass tourism" src="https://external-preview.redd.it/cYFCkNEpcazply5cYTWJr3J6UYQnMJy-nONJLG9K7Yo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e290162bb1947cce47a2eb3593237fcd0dbc3847" title="Amsterdam bans new hotels in fight against mass tourism" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gyro_Armadillo"> /u/Gyro_Armadillo </a> <br /> <span><a href="https://www.reuters.com/world/europe/amsterdam-bans-new-hotels-fight-against-mass-tourism-2024-04-17/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6saw9/amsterdam_bans_new_hotels_in_fight_against_mass/">[comments]</a></span> </td></tr></table>
+
+## China sounds warning after Philippines and US announce most expansive military drills yet
+ - [https://www.reddit.com/r/worldnews/comments/1c6rcju/china_sounds_warning_after_philippines_and_us](https://www.reddit.com/r/worldnews/comments/1c6rcju/china_sounds_warning_after_philippines_and_us)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-18T01:38:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c6rcju/china_sounds_warning_after_philippines_and_us/"> <img alt="China sounds warning after Philippines and US announce most expansive military drills yet" src="https://external-preview.redd.it/O3LwDpzvltk1H_QsL9R1PDs8XfTA3YL4ru79oX6T83c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e72f6e34af737e407c9a5db89f3a3dce52cd5076" title="China sounds warning after Philippines and US announce most expansive military drills yet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/3kOlen"> /u/3kOlen </a> <br /> <span><a href="https://www.theguardian.com/world/2024/apr/18/china-warning-balikatan-exercise-2024-philippines-us-military-drills">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c6rcju/china_sounds_warning_after_philippines_and_us/">[comments]</a></span> </td></tr></table>
+

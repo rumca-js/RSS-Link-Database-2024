@@ -1,0 +1,219 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Judge concerned over Crown's 'morphing' position at trial of man accused of killing Toronto cop
+ - [https://www.cbc.ca/news/canada/toronto/jury-didn-t-hear-zameer-trial-northrup-1.7178183?cmp=rss](https://www.cbc.ca/news/canada/toronto/jury-didn-t-hear-zameer-trial-northrup-1.7178183?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T18:28:32+00:00
+
+<img alt="Two men in coats walking on sidewalk." height="349" src="https://i.cbc.ca/1.7161574.1712091502!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/umar-zameer-and-lawyer.jpg" title="Umar Zameer, left, with his defence lawyer Nader Hasan, walking into court in downtown Toronto on Tue. April 2, 2024." width="620" /><p>The judge overseeing the trial of a man accused of fatally running over a Toronto police officer repeatedly raised concerns over the prosecution's changing theory of what happened that night and at one point indicated she did not see how a jury could reach a guilty verdict on murder based on evidence presented in court.</p>
+
+## West Africa's deadly heat wave driven by climate change, scientists say
+ - [https://www.cbc.ca/news/climate/sahel-west-africa-heat-wwa-climate-1.7177918?cmp=rss](https://www.cbc.ca/news/climate/sahel-west-africa-heat-wwa-climate-1.7177918?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T17:51:42+00:00
+
+<img alt="woman in hospital bed" height="349" src="https://i.cbc.ca/1.7177919.1713470452!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/reuters.jpg" title="An elderly woman hospitalized for dehydration during the recent record heat wave, receives IV drip while she is being consulted at an hospital in Niamey, Niger April 13, 2024. REUTERS/ " width="620" /><p>A brutal, deadly stretch of heat in West Africa would not have been possible without human-caused climate change, a new report has found.</p>
+
+## United States blocks Palestinian request for full UN membership
+ - [https://www.cbc.ca/news/world/un-palestinian-united-states-veto-1.7178152?cmp=rss](https://www.cbc.ca/news/world/un-palestinian-united-states-veto-1.7178152?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T17:34:52+00:00
+
+<img alt="A large group of people walk, drive or cycle down a street with their belongings. " height="349" src="https://i.cbc.ca/1.7095134.1706220144!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1952289422.jpg" title="RAFAH, GAZA - JANUARY 22: Palestinian citizens displaced from the city of Khan Yunis due to Israeli raids travel to the city of Rafah, south of the Gaza Strip on January 22, 2024 in Rafah, Gaza. The toll since the Oct. 7 war in Gaza between Israel and Hamas now exceeds 25,000 dead and 62,000 injured, according to the territory&apos;s health ministry. Two-thirds of the victims are believed to be women and children. The United Nations estimates for its part that more than 18,000 Palestinian children have lost a parent. With 25 per cent of the population, or more than half a million people, are in a situation of &quot;food catastrophe&quot; and threatened with famine.(Photo by Ahmad Hasaballah/Getty Images)" width="620" /><p>The United States has voted against a 
+
+## Ontarians hit with sticker shock at the pumps
+ - [https://www.cbc.ca/player/play/9.4206527?cmp=rss](https://www.cbc.ca/player/play/9.4206527?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T16:52:13+00:00
+
+<img alt="A gas pump meter reads 82.53 for 46.944 litres of gasoline." height="349" src="https://i.cbc.ca/ais/33dd87f0-831a-4e90-a25b-4bcc52fa8117,1713473978683/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3BResize%3D%28620%29" title="" width="620" /><p>With gas prices spiking overnight, the question of how people are going to afford rent and groceries was top of mind for some Ontarians.</p>
+
+## Arizona Coyotes officially headed to Utah as sale gets final NHL approval
+ - [https://www.cbc.ca/sports/hockey/nhl/nhl-arizona-coyotes-utah-relocation-official-1.7177912?cmp=rss](https://www.cbc.ca/sports/hockey/nhl/nhl-arizona-coyotes-utah-relocation-official-1.7177912?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T16:04:28+00:00
+
+<img alt="Fans hold a thank-you sign as a hockey player skates by on the ice." height="349" src="https://i.cbc.ca/1.7177924.1713470162!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/coyotes-arizona-041824.jpg" title="The NHL&apos;s board of governors officially approved the Arizona Coyotes&apos; relocation to Salt Lake City in time for next season on Thursday." width="620" /><p></p>
+
+## Aamjiwnaang First Nation members say industrial benzene emissions in Sarnia, Ont., area made them ill
+ - [https://www.cbc.ca/news/canada/windsor/aamjiwnaang-harmful-chemicals-community-reaction-1.7177365?cmp=rss](https://www.cbc.ca/news/canada/windsor/aamjiwnaang-harmful-chemicals-community-reaction-1.7177365?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T15:49:37+00:00
+
+<img alt="Christine Rogers (left), her father Bobby, and daughter went to hospital earlier this week with symptoms of sore throats, nausea and headaches." height="349" src="https://i.cbc.ca/1.7177396.1713456988!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/christine-rogers-and-her-dad.jpeg" title="Christine Rogers (left), her father Bobby, and daughter went to hospital earlier this week with symptoms of sore throats, nausea and headaches." width="620" /><p>A provincial environmental team is measuring air quality in an industrial area in southwestern Ontario after data indicated high levels of benzene and Aamjiwnaang First Nation urged the shutdown of a facility. Members of the Sarnia-area community describe their symptoms and how air quality fears are impacting them.</p>
+
+## Poilievre blasts budget, won't commit to keeping new social programs like pharmacare
+ - [https://www.cbc.ca/news/politics/poilievre-budget-reaction-social-programs-1.7177636?cmp=rss](https://www.cbc.ca/news/politics/poilievre-budget-reaction-social-programs-1.7177636?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T14:42:06+00:00
+
+<img alt="Leader of the Conservative Party Pierre Poilievre rises during Question Period, Wednesday, April 17, 2024 in Ottawa." height="349" src="https://i.cbc.ca/1.7177645.1713461911!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/commons-20240417.JPG" title="Leader of the Conservative Party Pierre Poilievre rises during Question Period, Wednesday, April 17, 2024 in Ottawa." width="620" /><p>Conservative Leader Pierre Poilievre delivered an hour-long rebuttal to the Liberal government's budget Thursday — a fiery and pointed speech that painted the multi-billion dollar spending plan as a threat to the country's future.</p>
+
+## 14 arrested in Montreal and Laval in 'grandparent scam' totalling $2.2M
+ - [https://www.cbc.ca/news/canada/montreal/14-arrested-grandparent-scam-1.7177494?cmp=rss](https://www.cbc.ca/news/canada/montreal/14-arrested-grandparent-scam-1.7177494?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T14:15:14+00:00
+
+<img alt="A police officer in a dark green uniform in a tv interview" height="349" src="https://i.cbc.ca/1.7177643.1713461886!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sq-benoit-dube.jpg" title="Sûreté du Québec Sgt. Benoit Dubé says it&apos;s hard to recover money lost to &apos;grandparent scams.&apos;" width="620" /><p>An interprovincial police investigation has led to the arrest of 14 people linked to "grandparent scams" alleged to have defrauded Canadians of millions of dollars since February 2022.</p>
+
+## 2nd juror dismissed from Trump criminal hush-money trial
+ - [https://www.cbc.ca/news/world/trump-hush-money-trial-jury-1.7177649?cmp=rss](https://www.cbc.ca/news/world/trump-hush-money-trial-jury-1.7177649?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T14:04:26+00:00
+
+<img alt="A man in a dark suit with a blue tie walks through security outside a courthouse." height="349" src="https://i.cbc.ca/1.7177652.1713462091!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-new-york.JPG" title="Former U.S. President Donald Trump returns to the courtroom following a break at Manhattan criminal court as jury selection continues in New York, NY on Thursday, April 18, 2024. Trump faces 34 felony counts of falsifying business records as part of an alleged scheme to silence claims of extramarital sexual encounters during his 2016 presidential campaign." width="620" /><p>The judge overseeing former U.S. president Donald Trump's criminal trial dismissed two jurors on Thursday, as lawyers struggled to assemble a panel of 12 jurors and six alternates for one of the most high-profile trials in American history.</p>
+
+## N.S. justice minister apologizes for saying domestic violence not epidemic
+ - [https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-justice-minister-brad-johns-domestic-violence-1.7177527?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-justice-minister-brad-johns-domestic-violence-1.7177527?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T13:24:47+00:00
+
+<img alt="man sits at a desk." height="349" src="https://i.cbc.ca/1.7177607.1713460480!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nova-scotia-justice-minister-brad-johns.jpg" title="Nova Scotia Justice Minister Brad Johns said he doesn&apos;t feel domestic violence is an epidemic in the province on the anniversary of the 2020 mass shooting." width="620" /><p>Nova Scotia Justice Minister Brad Johns made the comment on the anniversary of the 2020 mass shooting, which began with the shooter assaulting his common-law wife.</p>
+
+## Taylor Swift's new album apparently leaks, causing social media chaos
+ - [https://www.cbc.ca/news/entertainment/taylor-swift-album-leaks-1.7177530?cmp=rss](https://www.cbc.ca/news/entertainment/taylor-swift-album-leaks-1.7177530?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T13:24:16+00:00
+
+<img alt="A woman looks over her shoulder towards the camera. " height="349" src="https://i.cbc.ca/1.7177572.1713459497!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/film-concert-taylor-swift-premiere.JPG" title="Taylor Swift&apos;s new album, The Tortured Poets Department, appeared to leak online Wednesday. " width="620" /><p>The hype behind Taylor Swift’s new album went into overdrive as it appeared to leak online two days ahead of its Friday release. Swifties started sharing tracks on X that they claimed to be from the singer's upcoming album, The Tortured Poets Department.</p>
+
+## WHO experts now agree diseases like COVID spread through the air
+ - [https://www.cbc.ca/news/health/airborne-who-1.7177322?cmp=rss](https://www.cbc.ca/news/health/airborne-who-1.7177322?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T12:39:56+00:00
+
+<img alt="A B.C. Ambulance Service employee in protective equipment including an N95 mask, a face shield, goggles and gloves, moves a patient from an ambulance to the emergency department in April 2020." height="349" src="https://i.cbc.ca/1.7177444.1713458004!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-cda-20200412.jpg" title="A B.C. Ambulance Service employee in protective equipment including an N95 mask, a face shield, goggles and gloves, moves a patient from an ambulance to the emergency department at Royal Columbian Hospital in New Westminster, B.C., on Sunday, April 12, 2020. " width="620" /><p>The World Health Organization and around 500 experts have agreed for the first time what it means for a disease to spread through the air, in a bid to avoid the confusion early in the COVID-19 pandemic that some scientists have said cost lives.</p>
+
+## Norval Morrisseau's nephew, among those charged in massive art fraud case, reaches resolution with elders
+ - [https://www.cbc.ca/news/canada/thunder-bay/norval-morrisseau-fraud-investigation-court-1.7177419?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/norval-morrisseau-fraud-investigation-court-1.7177419?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T12:33:53+00:00
+
+<img alt="A man in a brown jacket and baseball cap stands in front of a large, colourful woodlands-style painting. " height="349" src="https://i.cbc.ca/1.5178608.1713463981!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/benjamin-morrisseau.jpg" title="Benjamin Morrisseau with his work Spiritual Gathering, which is displayed at St. Joseph&apos;s Care Group&apos;s new spiritual gathering lodge, Nigoos-aat-awin." width="620" /><p>Benjamin Morrisseau, the artist's nephew and one of the accused in the Norval Morrisseau art fraud ring case, has reached a resolution with elders as part of the restorative justice process. He appeared in a Thunder Bay, Ont., court on Thursday.</p>
+
+## Modi's Hindu-first approach makes him a 'god' to some Indian voters — and a danger to others
+ - [https://www.cbc.ca/news/world/india-election-modi-1.7176408?cmp=rss](https://www.cbc.ca/news/world/india-election-modi-1.7176408?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T12:00:00+00:00
+
+<img alt="Several smiling people stand close together." height="349" src="https://i.cbc.ca/1.7176719.1713384676!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/modi-rally.JPG" title="Supporters cheer at Modi rally " width="620" /><p>Indian Prime Minister Narendra Modi is well-placed to return to power in elections that begin on Friday, with opinion polls putting him and his Bharatiya Janata Party in the lead, ahead of an opposition alliance.</p>
+
+## Google fires 28 employees who protested its cloud contract with Israeli government
+ - [https://www.cbc.ca/news/business/google-fires-28-employees-who-protested-israeli-cloud-contract-1.7177300?cmp=rss](https://www.cbc.ca/news/business/google-fires-28-employees-who-protested-israeli-cloud-contract-1.7177300?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T10:38:58+00:00
+
+<img alt="The orange, yellow, blue and green G logo of Google is seen in a store window." height="349" src="https://i.cbc.ca/1.6720329.1688408611!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/alphabet-layoffs.JPG" title="FILE PHOTO: The logo for Google LLC is seen at the Google Store Chelsea in Manhattan, New York City, U.S., November 17, 2021. " width="620" /><p>Google said on Thursday it has terminated 28 employees after some staff participated in protests against the company's cloud contract with the Israeli government.</p>
+
+## Kennedy family members to endorse Biden, snub RFK Jr.
+ - [https://www.cbc.ca/news/world/kennedy-family-president-endorsement-joe-biden-robert-fitzgerald-kennedy-jr-1.7177248?cmp=rss](https://www.cbc.ca/news/world/kennedy-family-president-endorsement-joe-biden-robert-fitzgerald-kennedy-jr-1.7177248?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T09:45:33+00:00
+
+<img alt="A blonde-haired woman in a grey suit at a benefit tribute." height="349" src="https://i.cbc.ca/1.7177277.1713445579!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/harry-belafonte-hb95-benefit-tribute.jpg" title="Kerry Kennedy attends the Harry Belafonte HB95 benefit tribute, in honor of the 95th birthday of the singer, songwriter, activist and actor, at Town Hall on Tuesday, March 1, 2022, in New York. " width="620" /><p>President Joe Biden will accept endorsements from at least 15 members of the Kennedy political family during a campaign stop in Philadelphia on Thursday as he aims to undermine former president Donald Trump and marginalize the candidacy of Robert F. Kennedy Jr.</p>
+
+## Gaza grief image named World Press Photo of the Year
+ - [https://www.cbc.ca/news/world/world-press-photo-year-gaza-mohammed-salem-1.7177218?cmp=rss](https://www.cbc.ca/news/world/world-press-photo-year-gaza-mohammed-salem-1.7177218?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T08:22:26+00:00
+
+<img alt="A woman in a blue dress and tan headscarf sits in a morgue in Khan Younis, Gaza, cradling the body of her niece that is wrapped in white cloth." height="349" src="https://i.cbc.ca/1.7177224.1713440296!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/netherlands-world-press.JPG" title="FILE PHOTO: Palestinian woman Inas Abu Maamar, 36, embraces the body of her 5-year-old niece Saly, who was killed in an Israeli strike, at Nasser hospital in Khan Younis in the southern Gaza Strip, October 17, 2023. Reuters photographer Mohammad Salem was in Khan Younis on Oct. 17 at the Nasser Hospital morgue, where residents were going to search for missing relatives. He saw Inas squatting on the ground in the morgue, sobbing and tightly embracing Saly&apos;s body. &quot;I lost my conscience when I saw the girl, I took her in my arms,&quot; Inas said. &quot;The doctor asked me to let go... but I told them to leave her with me.&quot; Mohammed Salem won the 2024 World Press Photo of the 
+
+## Scientists from Sask., Sri Lanka work together to address threat of antibiotic resistance in animals
+ - [https://www.cbc.ca/news/canada/saskatchewan/sri-lanka-scientists-antimicrobial-resistance-1.7176906?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/sri-lanka-scientists-antimicrobial-resistance-1.7176906?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T05:00:00+00:00
+
+<img alt="Two men stand outside, both wearing dress shirts, ties and slacks. They&apos;re smiling at the camera." height="349" src="https://i.cbc.ca/1.7176916.1713391129!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/rubin-and-madalagama.jpeg" title="Roshan Madalagama and Joe Rubin together in Peradeniya, Sri Lanka in March. The two scientists are working to address antimicrobial resistance in animals in that country." width="620" /><p>Two scientists whose connection was sparked in Saskatchewan are working together from different sides of the globe to improve animal health in Sri Lanka, in hopes of addressing a potential global health threat.</p>
+
+## Capital gains tax change draws ire from some Canadian entrepreneurs worried it will worsen brain drain
+ - [https://www.cbc.ca/news/business/canadian-entrepreneurs-investors-capital-gains-tax-reaction-1.7176837?cmp=rss](https://www.cbc.ca/news/business/canadian-entrepreneurs-investors-capital-gains-tax-reaction-1.7176837?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:01:00+00:00
+
+<img alt="A budget book stands up on a table in a room." height="349" src="https://i.cbc.ca/1.7176388.1713371523!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2024-federal-budget-book.jpg" title="The federal government tabled the 2024 budget on Tuesday, which relies on revenue  from an increase to the capital gains inclusion rate. " width="620" /><p></p>
+
+## Quebec eyed as prime spot to suck carbon from atmosphere
+ - [https://www.cbc.ca/news/climate/direct-air-capture-canada-deep-sky-climeworks-1.7175411?cmp=rss](https://www.cbc.ca/news/climate/direct-air-capture-canada-deep-sky-climeworks-1.7175411?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:01:00+00:00
+
+<img alt="Orca in Iceland" height="349" src="https://i.cbc.ca/1.7175412.1713295053!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/climeworks.jpg" title="Mammoth, a direct air capture project by Climeworks, is set to go online in May. " width="620" /><p></p>
+
+## Why Jordan, and maybe even Saudi Arabia, helped defend Israel
+ - [https://www.cbc.ca/news/world/israel-iran-saudi-arabia-jordan-1.7176154?cmp=rss](https://www.cbc.ca/news/world/israel-iran-saudi-arabia-jordan-1.7176154?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:01:00+00:00
+
+<img alt="Streaks of light are seen in the sky, over a city, at sunset." height="349" src="https://i.cbc.ca/1.7176608.1713403511!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/mideast-tensions-key-events.jpg" title="FILE - Israeli Iron Dome air defense system launches to intercept missiles fired from Iran, in central Israel, Sunday, April 14, 2024. " width="620" /><p></p>
+
+## Arizona Coyotes fans devastated at prospect of losing their team
+ - [https://www.cbc.ca/news/canada/manitoba/arizona-coyotes-fans-1.7176561?cmp=rss](https://www.cbc.ca/news/canada/manitoba/arizona-coyotes-fans-1.7176561?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:00:00+00:00
+
+<img alt="Greg Dunaway, his wife Alleson and son Aidan (now 6 years) have been Coyotes season ticket holders since the team moved to Phoenix in 1996. He is devastated by reports the team is relocating to Utah." height="349" src="https://i.cbc.ca/1.7176579.1713427718!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/greg-dunaway-and-family.jpg" title="Greg Dunaway, his wife Alleson and son Aidan (now six) have been Coyotes season-ticket holders since the team moved to Phoenix in 1996. He is devastated by reports the team is relocating to Utah." width="620" /><p>For the first time since 1997, no one from three generations of the Dunaway family group attended the Arizona Coyotes' fan appreciation night — the final game of the regular season — amid reports Wednesday's game against the Edmonton Oilers was the last one before the team is relocated.</p>
+
+## CRA paid out $37M to tax scammers, unsealed affidavit alleges
+ - [https://www.cbc.ca/television/the-fifth-estate/cra-carousel-37-million-1.7176416?cmp=rss](https://www.cbc.ca/television/the-fifth-estate/cra-carousel-37-million-1.7176416?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:00:00+00:00
+
+<img alt="A sign outside the Canada Revenue Agency is seen Monday May 10, 2021 in Ottawa. " height="349" src="https://i.cbc.ca/1.6937288.1693579417!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/fedbudget-tax-filing-20230330.JPG" title="A CBC News analysis of Canada Revenue Agency (CRA) call times found taxpayers wait much longer to get through to an agent than the hold times advertised on the agency&apos;s website. Canada&apos;s taxpayers&apos; ombudsperson is launching an inquiry into the sometimes hours-long wait times that callers face." width="620" /><p>A once-sealed affidavit filed with the Tax Court of Canada and obtained by The Fifth Estate details how alleged scammers tricked the Canada Revenue Agency and made off with $37 million of taxpayers' money.</p>
+
+## Euro 2024 organizers prepare for twin threats of terror and soccer hooligans
+ - [https://www.cbc.ca/news/euro-2024-germany-soccer-threats-1.7175264?cmp=rss](https://www.cbc.ca/news/euro-2024-germany-soccer-threats-1.7175264?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:00:00+00:00
+
+<img alt="LONDON, ENGLAND - JULY 07: Fans of England celebrate their side&apos;s victory as stewards and police look on after the UEFA Euro 2020 Championship Semi-final match between England and Denmark at Wembley Stadium on July 07, 2021 in London, England. (Photo by Paul Ellis - Pool/Getty Images)" height="349" src="https://i.cbc.ca/1.7175283.1713368819!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1327535756.jpg" title="LONDON, ENGLAND - JULY 07: Fans of England celebrate their side&apos;s victory as stewards and police look on after the UEFA Euro 2020 Championship Semi-final match between England and Denmark at Wembley Stadium on July 07, 2021 in London, England. (Photo by Paul Ellis - Pool/Getty Images)" width="620" /><p>Hosting sporting mega-events presents a slew of logistical challenges and countless risks, as evidenced by recent terror threats and a resurgence of an old scourge: soccer hooligans.</p>
+
+## Federal government plans on incarcerating migrants in its penitentiaries
+ - [https://www.cbc.ca/news/canada/ottawa/federal-government-plans-on-incarcerating-migrants-in-its-penitentiaries-1.7177094?cmp=rss](https://www.cbc.ca/news/canada/ottawa/federal-government-plans-on-incarcerating-migrants-in-its-penitentiaries-1.7177094?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:00:00+00:00
+
+<img alt="A prison with barbed wire." height="349" src="https://i.cbc.ca/1.5045560.1713401965!/httpImage/image.jpg_gen/derivatives/16x9_620/edmonton-institution.jpg" title="A 50-year-old employee at Edmonton Institution is charged with sexual assault and assault with a weapon in relation to incidents involving a female colleague." width="620" /><p>The Trudeau government wants to use federal prisons to detain migrants deemed "high-risk," according to a line buried in the federal budget tabled on Tuesday.</p>
+
+## For sale: one brand-new oil pipeline. $34 billion OBO. Call Ottawa
+ - [https://www.cbc.ca/news/canada/calgary/tmx-trans-mountain-sale-freeland-1.7176629?cmp=rss](https://www.cbc.ca/news/canada/calgary/tmx-trans-mountain-sale-freeland-1.7176629?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:00:00+00:00
+
+<img alt="A complex arrangement of large, white pipes are seen against a blue sky." height="349" src="https://i.cbc.ca/1.7176903.1713390684!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trans-mountain-delay-20170929.jpg" title="Pipes are seen at the Kinder Morgan Trans Mountain facility in Edmonton, Alta., Thursday, April 6, 2017. Kinder Morgan Canada has asked the National Energy Board to waive an approval condition of the Trans Mountain pipeline expansion because it might delay completion of the project. " width="620" /><p>The federal government bought the project when the proposed pipeline was on the verge of falling apart before there was ever a shovel in the ground in the face of legal, political, and regulatory challenges. </p>
+
+## My patients became my 'doctors' when I was diagnosed with cancer
+ - [https://www.cbc.ca/news/canada/edmonton/first-person-patients-doctors-cancer-1.7159449?cmp=rss](https://www.cbc.ca/news/canada/edmonton/first-person-patients-doctors-cancer-1.7159449?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:00:00+00:00
+
+<img alt="Two women smile widely in a hospital room. " height="349" src="https://i.cbc.ca/1.7159465.1711686306!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/dr-nhung-n-tran-davies-and-debbie-mousseau.JPG" title="Dr. Nhung N. Tran-Davies, left, takes a selfie with Debbie Mousseau, who drove and accompanied her to chemotherapy at the Cross Cancer Institute in Edmonton on March 7, 2024." width="620" /><p>As a family physician, Dr. Nhung N. Tran-Davies had been right next to her patients' tough moments. When she was diagnosed with cancer, her patients surprised her by showing up for her.</p>
+
+## Profs call Ford government bill 'political interference' on campus
+ - [https://www.cbc.ca/news/canada/toronto/ontario-universities-colleges-bill-166-anti-racism-policy-1.7176602?cmp=rss](https://www.cbc.ca/news/canada/toronto/ontario-universities-colleges-bill-166-anti-racism-policy-1.7176602?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:00:00+00:00
+
+<img alt="A man with a backpack walks past a sign saying &apos;York University - Keele Campus - Sentinel Road.&apos;" height="349" src="https://i.cbc.ca/1.6272624.1713429641!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/york-u-back-to-class.jpg" title="Students of York University, which is transitioning back to in-person leaning, are pictured on campus on Dec. 2, 2021." width="620" /><p>Some Ontario academics are waging a campaign against new legislation from Premier Doug Ford’s government that they say would pave the way for political interference on campus.</p>
+
+## Quebec successfully pushes back against rise in measles cases
+ - [https://www.cbc.ca/news/canada/montreal/montreal-quebec-measles-wins-1.7176827?cmp=rss](https://www.cbc.ca/news/canada/montreal/montreal-quebec-measles-wins-1.7176827?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:00:00+00:00
+
+<img alt="A vial of Priorix MMR vaccine" height="349" src="https://i.cbc.ca/1.7110648.1707503678!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-vaccine.jpg" title="Fraser Health says passengers on a recent BC Ferries sailing along with students and staff at a high school in Maple Ridge may have been exposed to measles. Close up of vaccination vial and injection" width="620" /><p>Quebec appears to be winning its battle against the rising tide of measles after 45 cases were confirmed province-wide this year.</p>
+
+## The conflict in the Middle East could be affecting the next federal election already
+ - [https://www.cbc.ca/news/politics/israel-gaza-canadian-politics-1.7172568?cmp=rss](https://www.cbc.ca/news/politics/israel-gaza-canadian-politics-1.7172568?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:00:00+00:00
+
+<img alt="People wave Palestinian flags as smoke bombs are set off during a demonstration in support of Palestine, in Vancouver, on Thursday, October 19, 2023." height="349" src="https://i.cbc.ca/1.7176949.1713392176!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/canada-palestine-israel-protest-20231019.JPG" title="People wave Palestinian flags as smoke bombs are set off during a demonstration in support of Palestine, in Vancouver, on Thursday, October 19, 2023." width="620" /><p>Six months after Hamas's deadly Oct. 7 attack on Israel, the way Canada's MPs have reacted and the positions they have taken are having an impact on support for federal parties in different communities.</p>
+
+## What you need to know about criminal charges linked to Thunder Bay, Ont., police
+ - [https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-police-opp-charges-explained-1.7177069?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-police-opp-charges-explained-1.7177069?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-18T04:00:00+00:00
+
+<img alt="Two people are seen sitting at a table." height="349" src="https://i.cbc.ca/1.4865492.1712688966!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/holly-walbourne.jpg" title="Thunder Bay police have determined that each of its 148,000 searches of the COVID-19 database was for &quot;a proper purpose&quot;, says the police service lawyer Holly Walbourne, (l) in this file photo from 2018, with Police Chief Sylvie Hauth." width="620" /><p>Thunder Bay's police service is back under the microscope after Ontario Provincial Police laid charges against several people linked to the force. Here's a history of the longtime concerns as well as more about the charges and those facing them, including from court documents obtained by CBC News.</p>
+

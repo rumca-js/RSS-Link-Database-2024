@@ -1,0 +1,44 @@
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
+
+## Meta Releases Latest AI Model With Plans to Highlight More on Instagram, Other Apps
+ - [https://www.wsj.com/articles/meta-releases-latest-ai-model-with-plans-to-highlight-more-on-instagram-other-apps-3ca236e2?mod=rss_Technology](https://www.wsj.com/articles/meta-releases-latest-ai-model-with-plans-to-highlight-more-on-instagram-other-apps-3ca236e2?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2024-04-18T16:00:00+00:00
+
+The social-media company is unveiling Llama 3, a follow-up to its large language model that will be available to the public.
+
+## AI Chips Drive Growth at TSMC
+ - [https://www.wsj.com/articles/nvidia-ai-chips-demand-tsmc-strategy-e2b8e7d0?mod=rss_Technology](https://www.wsj.com/articles/nvidia-ai-chips-demand-tsmc-strategy-e2b8e7d0?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2024-04-18T08:49:00+00:00
+
+The semiconductor giant’s CEO expects AI to account for a fifth of the company’s revenue by 2028 amid what he called insatiable demand.
+
+## Apple to Spend More Than $250 Million to Expand Singapore Hub
+ - [https://www.wsj.com/articles/apple-to-spend-more-than-250-million-to-expand-singapore-hub-1fdd736e?mod=rss_Technology](https://www.wsj.com/articles/apple-to-spend-more-than-250-million-to-expand-singapore-hub-1fdd736e?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2024-04-18T05:22:00+00:00
+
+Apple will invest more than $250 million to expand a regional hub in Singapore to support growth and new undertakings in artificial intelligence, as the U.S. tech giant seeks to diversify its footprint in Asia and cut exposure to China.
+
+## Google Fires 28 Employees for Protesting Company's Cloud Deal With Israel
+ - [https://www.wsj.com/articles/google-fires-28-employees-for-protesting-companys-cloud-deal-with-israel-382f4a50?mod=rss_Technology](https://www.wsj.com/articles/google-fires-28-employees-for-protesting-companys-cloud-deal-with-israel-382f4a50?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2024-04-18T04:15:00+00:00
+
+A joint contract with Amazon has drawn the ire of tech workers.
+
+## Oracle to Invest $8 Billion in Cloud Services in Japan
+ - [https://www.wsj.com/articles/oracle-to-invest-8-billion-in-cloud-services-in-japan-3a0d98cc?mod=rss_Technology](https://www.wsj.com/articles/oracle-to-invest-8-billion-in-cloud-services-in-japan-3a0d98cc?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2024-04-18T02:37:00+00:00
+
+The U.S. computer technology company said the investment will meet the growing demand for cloud computing and artificial intelligence infrastructure in the world’s fourth-largest economy.
+
+## The Smartest Way to Use AI at Work
+ - [https://www.wsj.com/articles/the-smartest-way-to-use-ai-at-work-ce921ff4?mod=rss_Technology](https://www.wsj.com/articles/the-smartest-way-to-use-ai-at-work-ce921ff4?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2024-04-18T01:00:00+00:00
+
+Generative AI tools can help you get ahead in the office—if you know how to use them.
+

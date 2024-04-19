@@ -1,0 +1,65 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## Remove Wall Plugs Fast With A Custom Tool
+ - [https://hackaday.com/2024/04/18/remove-wall-plugs-fast-with-a-custom-tool](https://hackaday.com/2024/04/18/remove-wall-plugs-fast-with-a-custom-tool)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-18T23:00:52+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/I-Made-A-Wall-Plugs-Removal-TOOL-Anchors-Remover-_-XDIY-3-2-screenshot.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>The best thing about buying your own home is that you can hang things on the walls. It&#8217;s a human right all too often denied to renters the world over. <a class="read-more" href="https://hackaday.com/2024/04/18/remove-wall-plugs-fast-with-a-custom-tool/">&#8230;read more</a>
+
+## DIY Quad-Motor Go-Kart is a Thrilling Ride
+ - [https://hackaday.com/2024/04/18/diy-quad-motor-go-kart-is-a-thrilling-ride](https://hackaday.com/2024/04/18/diy-quad-motor-go-kart-is-a-thrilling-ride)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-18T20:00:05+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/quad-motor-go-kart-lead-image.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>[Peter Holderith] set out some time ago to build an electric go-kart. That by itself is not terribly unusual, but where his project diverts from the usual is in the <a class="read-more" href="https://hackaday.com/2024/04/18/diy-quad-motor-go-kart-is-a-thrilling-ride/">&#8230;read more</a>
+
+## Early CD Player Teardown
+ - [https://hackaday.com/2024/04/18/early-cd-player-teardown](https://hackaday.com/2024/04/18/early-cd-player-teardown)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-18T18:30:56+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/cd.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>While CD players are nothing new today, they were the height of high-tech in the early 1980s. [w1ngsfly] shows us the inside of a Phase Linear 9500 player from 1983. <a class="read-more" href="https://hackaday.com/2024/04/18/early-cd-player-teardown/">&#8230;read more</a>
+
+## LYFT: Standing Up for Better IKEA BEKANT Control
+ - [https://hackaday.com/2024/04/18/lyft-standing-up-for-better-ikea-bekant-control](https://hackaday.com/2024/04/18/lyft-standing-up-for-better-ikea-bekant-control)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-18T15:30:50+00:00
+
+<div><img alt="IKEA BEKANT sit/stand desk with a new controller attached" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/LYFT-800.jpeg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>The IKEA BEKANT sit/stand desk is kind of a lifesaver &#8212; even if you don&#8217;t personally go between sit and stand much, the adjustability makes sharing the desk a breeze. <a class="read-more" href="https://hackaday.com/2024/04/18/lyft-standing-up-for-better-ikea-bekant-control/">&#8230;read more</a>
+
+## MXM: Powerful, Misused, Hackable
+ - [https://hackaday.com/2024/04/18/mxm-powerful-misused-hackable](https://hackaday.com/2024/04/18/mxm-powerful-misused-hackable)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-18T14:00:02+00:00
+
+<div><img alt="A standard-compliant MXM card installed into a laptop, without heatsink" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/oc_mxm_feat.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Today, we&#8217;ll look into yet another standard in the embedded space: MXM. It stands for &#8220;Mobile PCI Express Module&#8221;, and is basically intended as a GPU interface for laptops with <a class="read-more" href="https://hackaday.com/2024/04/18/mxm-powerful-misused-hackable/">&#8230;read more</a>
+
+## Unraveling The Secrets of Apple’s Mysterious Fisheye Format
+ - [https://hackaday.com/2024/04/18/unraveling-the-secrets-of-apples-mysterious-fisheye-format](https://hackaday.com/2024/04/18/unraveling-the-secrets-of-apples-mysterious-fisheye-format)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-18T11:00:39+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/apple-fisheye-encoding-2.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Apple has developed a proprietary &#8212; even mysterious &#8212; &#8220;fisheye&#8221; projection format used for their immersive videos, such as those played back by the Apple Vision Pro. What&#8217;s the mystery? <a class="read-more" href="https://hackaday.com/2024/04/18/unraveling-the-secrets-of-apples-mysterious-fisheye-format/">&#8230;read more</a>
+
+## Hacked Oscilloscope Plays Breakout, Hints at More
+ - [https://hackaday.com/2024/04/18/hacked-oscilloscope-plays-breakout-hints-at-more](https://hackaday.com/2024/04/18/hacked-oscilloscope-plays-breakout-hints-at-more)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-18T08:00:27+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/scope_breakout.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>You know things are getting real when the Dremel is one of the first tools you turn to after unboxing your new oscilloscope. But when your goal is to hack <a class="read-more" href="https://hackaday.com/2024/04/18/hacked-oscilloscope-plays-breakout-hints-at-more/">&#8230;read more</a>
+
+## Raspberry Pi Scanner Digitizes On the Cheap
+ - [https://hackaday.com/2024/04/17/raspberry-pi-scanner-digitizes-on-the-cheap](https://hackaday.com/2024/04/17/raspberry-pi-scanner-digitizes-on-the-cheap)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-18T05:00:46+00:00
+
+<div><img alt="A red 3D-printed Raspberry Pi-based document scanner" class="attachment-large size-large wp-post-image" height="600" src="https://hackaday.com/wp-content/uploads/2024/04/scanner-800.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>It&#8217;s pretty important in 2024 to be able digitize documents quickly and easily without necessarily having to stop by the local library or buy an all-in-one printer. While there are <a class="read-more" href="https://hackaday.com/2024/04/17/raspberry-pi-scanner-digitizes-on-the-cheap/">&#8230;read more</a>
+
+## Source Code to the 1999 FPS Game Descent 3 Released
+ - [https://hackaday.com/2024/04/17/source-code-to-the-1999-fps-game-descent-3-released](https://hackaday.com/2024/04/17/source-code-to-the-1999-fps-game-descent-3-released)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-04-18T02:00:37+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="459" src="https://hackaday.com/wp-content/uploads/2024/04/descent_3_screenshot.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>On April 16th of this year, [Kevin Bentley] released the source code to the Sci-Fi FPS game Descent 3. Originally released in 1999 for Windows, the game has you control <a class="read-more" href="https://hackaday.com/2024/04/17/source-code-to-the-1999-fps-game-descent-3-released/">&#8230;read more</a>
+
