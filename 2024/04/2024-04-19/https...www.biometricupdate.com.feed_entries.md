@@ -1,0 +1,146 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## Webinar: Integrating facial recognition capabilities into your business while ensuring compliance and data protection
+ - [https://www.biometricupdate.com/202404/webinar-integrating-facial-recognition-capabilities-into-your-business-while-ensuring-compliance-and-data-protection](https://www.biometricupdate.com/202404/webinar-integrating-facial-recognition-capabilities-into-your-business-while-ensuring-compliance-and-data-protection)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T22:15:03+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="900" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/19180237/corsight-invitation-banner.jpg" width="1200" />
+		<strong><a href="https://us02web.zoom.us/webinar/register/WN_6lpbO0qAS6ySxS1CDVeg-A">Integrating facial recognition capabilities into your business while ensuring compliance and data protection</a></strong>
+<strong>Online</strong>
+<strong>May 7, 2024 at 1pm EDT</strong>
+
+As AI regulation evolves from a threat to an opportunity, it now provides clear guidelines for the lawful ways to use the technology, enabling organizations to harness its benefits effectively.
+
+This webinar, led by Tony Porter, Corsight AI’s Chief Privacy Officer and the former UK Surveillance Camera Commissioner, delves into the most recent advancements in AI legislation, offering a comprehensive approach to addressing all facets of compliance, privacy, and data protection for organizations embraci
+
+## UN says law enforcement should not use biometrics to surveil protestors
+ - [https://www.biometricupdate.com/202404/un-says-law-enforcement-should-not-use-biometrics-to-surveil-protestors](https://www.biometricupdate.com/202404/un-says-law-enforcement-should-not-use-biometrics-to-surveil-protestors)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T21:29:46+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/19172323/protestors-scaled.jpg" width="2048" />
+		Law enforcement agencies should not use biometric technology to categorize, profile or remotely identify individuals during protests, the United Nations says in a document outlining how police should approach human rights during demonstrations.
+
+“Facial recognition technologies and other biometric identification technologies must not be utilized to identify or track individuals peacefully participating in a protest,” the document states.
+
+Known as the “Practical toolkit for law enforcement officials to promote and protect human rights in the context of peaceful protests,” the document aims to address arbitrary and unlawful surveillance during protests. This includes not just facial and emotional recognition but also the use of CCTV cameras, aerial drones and international mo
+
+## How to explain the EUDI Wallet? Industry and citizens discuss Europe’s digital ID
+ - [https://www.biometricupdate.com/202404/how-to-explain-the-eudi-wallet-industry-and-citizens-discuss-europes-digital-id](https://www.biometricupdate.com/202404/how-to-explain-the-eudi-wallet-industry-and-citizens-discuss-europes-digital-id)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T18:33:25+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1036" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/12144641/digital-id-applications-scaled.jpg" width="2048" />
+		The European Digital Identity (EUDI) Wallet is well on its way towards becoming a reality. To explain the major impact that the digital ID will have on both citizens and organizations, industry groups, governments, companies and media outlets have been making efforts to introduce the project to the public.
+<h2>The conspiracy theories begin</h2>
+The EUDI Wallet has been stirring confusion among some social media users and politicians who fear that the digital ID signals a loss of privacy and greater government control over citizens’ information, EuroNews <a href="https://www.euronews.com/my-europe/2024/04/16/fact-check-is-the-eu-digital-identity-wallet-going-to-strip-away-our-privacy">writes</a>.
+
+But the true aim of the wallet is actually to enhance privacy not 
+
+## Decentralize face authentication for control, stronger protection: Youverse
+ - [https://www.biometricupdate.com/202404/decentralize-face-authentication-for-control-stronger-protection-youverse](https://www.biometricupdate.com/202404/decentralize-face-authentication-for-control-stronger-protection-youverse)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T18:19:28+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1436" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/03/18171644/face-verification-2-scaled.jpg" width="2048" />
+		The implementation method of biometric face authentication has become increasingly important in recent years due to the limitations of traditional authentication approaches. These traditional methods introduce vulnerabilities in terms of privacy, data theft, and scalability. As a result, there is a constant need for new strategies that prevent points of failure, explains <a href="https://www.biometricupdate.com/companies/youverse">Youverse</a> in a new <a href="https://www.biometricupdate.com/202404/decentralized-identity-for-secure-user-authentication">white paper</a>.
+
+Currently, most available solutions rely on either on-device or centralized biometric systems. On-device systems offer privacy by keeping biometric data on the user's device, but they suffer from se
+
+## Researchers develop display screens with biometric sensor capabilities
+ - [https://www.biometricupdate.com/202404/researchers-develop-display-screens-with-biometric-sensor-capabilities](https://www.biometricupdate.com/202404/researchers-develop-display-screens-with-biometric-sensor-capabilities)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T17:54:13+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/03140008/touchscreen-scaled.jpg" width="2048" />
+		Traditional display screens like those built into smartphones require extra sensors for touch control, ambient light, and fingerprint sensing. These additional sensors increase the cost and design complexity, limiting the development of screens with a large screen-to-body ratio.
+
+Researchers at Linköping University, Sweden, however, have <a href="https://www.nature.com/articles/s41928-024-01151-x">introduced</a> a multifunctional display that can perform all of these roles simultaneously without the need for additional sensors. This not only simplifies the display structure but also enhances its functionality. The research paper showcases an innovative solution for developing a display system using photo-responsive metal halide perovskite light-emitting diodes (PeLEDs) as p
+
+## As national U.S. data privacy law becomes more likely, critics emerge to point out flaws
+ - [https://www.biometricupdate.com/202404/as-national-u-s-data-privacy-law-becomes-more-likely-critics-emerge-to-point-out-flaws](https://www.biometricupdate.com/202404/as-national-u-s-data-privacy-law-becomes-more-likely-critics-emerge-to-point-out-flaws)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T16:24:01+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="848" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/15175306/data-privacy-2-scaled.jpg" width="2048" />
+		The push for <a href="https://www.biometricupdate.com/202404/is-digital-privacy-about-to-become-a-basic-right-in-the-united-states">comprehensive privacy legislation</a> in the U.S. is gaining momentum, as the proposed American Privacy Rights Act 2024 (APRA) edges closer to realization. The bipartisan legislation aims to set clear, national data privacy rights and protections for U.S. citizens, tidying up a patchwork of state-level privacy laws that often lack coherent regulation. But as the bill moves through the legislative machine, it is triggering concern from some states that their hard-won privacy laws could get shredded in the process.
+
+Modeled on the EU’s <a href="https://www.biometricupdate.com/202305/gdpr-5-years-on-spain-ireland-lead-in-issuing-fines-meta-hit-h
+
+## AI surveillance robot uses facial recognition to decide who to blast with paintballs
+ - [https://www.biometricupdate.com/202404/ai-surveillance-robot-uses-facial-recognition-to-decide-who-to-blast-with-paintballs](https://www.biometricupdate.com/202404/ai-surveillance-robot-uses-facial-recognition-to-decide-who-to-blast-with-paintballs)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T16:14:47+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1371" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/19121354/shutterstock_303274127-scaled.jpg" width="2048" />
+		Those pining for a life as an eccentric shut-in with robots guarding their house can rejoice at the emergence of a new <a href="https://www.biometricupdate.com/202307/fujitsu-pilots-model-house-that-can-authenticate-anyone-anywhere-all-the-time">biometric home security</a> tool. Popular Science reports on <a href="https://www.popsci.com/technology/paintball-armed-ai-home-security-camera/">PaintCam Eve</a>, an AI-powered biometric surveillance system that fires paintballs at anyone deemed to be security threats.
+
+PaintCam Eve, says its creators at Slovenian company OZ-IT, operates on a “zero compliance, zero tolerance” principle. The autonomous property monitoring device uses motion detection and facial recognition to trigger warnings and, possibly, insane volleys
+
+## Age Assurance Standards, solutions and dialogue gain ground at Global Summit
+ - [https://www.biometricupdate.com/202404/age-assurance-standards-solutions-and-dialogue-gain-ground-at-global-summit](https://www.biometricupdate.com/202404/age-assurance-standards-solutions-and-dialogue-gain-ground-at-global-summit)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T15:59:37+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="867" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/23162433/Age-Proof-Press.png" width="1380" />
+		An unprecedented gathering of stakeholders gathered in the UK to discuss the standards and technologies behind age assurance methods, including biometric age estimation, over the course of a week. Progress on <a href="https://www.iso.org/standard/88143.html">ISO standards</a>, a PKI system for interoperability and a preview of NIST test results were among a host of major developments from the <a href="https://www.biometricupdate.com/tag/global-age-assurance-standards-summit">Global Age Assurance Standards Summit</a>, which was organized by the <a href="https://www.biometricupdate.com/companies/age-check-certification-scheme-accs">Age Check Certification Scheme</a>.
+<h2>Biometric Update reports from Age Assurance Standards Summit</h2>
+<h3><a href="https://www.biometricupdate.com
+
+## DigiCert and Deutsche Telekom partner for digital trust in Europe
+ - [https://www.biometricupdate.com/202404/digicert-and-deutsche-telekom-partner-for-digital-trust-in-europe](https://www.biometricupdate.com/202404/digicert-and-deutsche-telekom-partner-for-digital-trust-in-europe)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T15:39:02+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1280" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/02162751/Digital-transformation-scaled.jpg" width="2048" />
+		Digital trust provider <a href="https://www.digicert.com/">DigiCert</a> announced it will partner with <a href="https://www.telekom.com/en/careers/work-in-action/telekom-it">Deutsche Telekom</a> to improve its digital certificates and identity and access management (IAM) for its European customers.
+
+By leveraging DigiCert, Deutsche Telekom will be able to address requirements for public key infrastructure (PKI) and IAM as well as digital certificates and hardware security for a variety of devices, including smartphones and computers.
+
+PKI is widely used in identity verification and related applications, such as by <a href="https://www.biometricupdate.com/202404/icao-working-group-opens-rfi-on-expanding-biometric-passports-use">ICAO</a>, and has been proposed for 
+
+## CBP awards Sentrillion $11.7M for surveillance systems
+ - [https://www.biometricupdate.com/202404/cbp-awards-sentrillion-11-7m-for-surveillance-systems](https://www.biometricupdate.com/202404/cbp-awards-sentrillion-11-7m-for-surveillance-systems)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T15:36:48+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/19171252/cbp-scaled.jpg" width="2048" />
+		Security company <a href="https://sentrillion.com/">Sentrillion Corporation</a> has won a 12-month contract valued at up to $11.7 million from the U.S. Customs and Border Protection (CPB): Office of Information and Technology, a branch of the Department of Homeland Security, to provide centralized area video surveillance systems and project management.
+
+The contract includes maintenance for the Border Security Deployment Program under a <a href="https://app.g2xchange.com/fedciv/posts/dhs-cbp-awards-12m-area-video-surveillance-systems-task/FPDS/home">blanket purchase agreement</a> for the maintenance of the Centralized Area Video Surveillance System. CPB’s obligation under the contract starts at $1.9 million, and the contract has a completion date of March 31, 2025.
+
+Sentrillion's s
+
+## ICAO Working Group opens RFI on expanding biometric passports’ use
+ - [https://www.biometricupdate.com/202404/icao-working-group-opens-rfi-on-expanding-biometric-passports-use](https://www.biometricupdate.com/202404/icao-working-group-opens-rfi-on-expanding-biometric-passports-use)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T15:34:05+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/12150753/biometric-passport-symbol-scaled.jpg" width="2048" />
+		The ICAO New Technologies Working Group (NTWG) has opened a <a href="https://www.icao.int/Security/FAL/TRIP/Pages/rfi.aspx">request for information</a> to learn more about improving the security of digital machine-readable passports, leveraging current technologies, and exploring future forms of eMRTDs.
+
+The working group develops strategy, specifications, and guidance in regards to the development, manufacturing, testing, and deployment of interoperable machine-readable travel documents (MRTDs), like biometric passports, as well as traveler data sharing for identity verification and border control.
+
+The group identifies security improvements like encryption and construction as well as functionality for manual and automated border control. The RFI seeks feedba
+
+## Nick Bartlow named chief engineer of ROC
+ - [https://www.biometricupdate.com/202404/nick-bartlow-named-chief-engineer-of-roc](https://www.biometricupdate.com/202404/nick-bartlow-named-chief-engineer-of-roc)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T15:14:58+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/04154317/executive-scaled.jpg" width="2048" />
+		Several biometrics companies have announced new leadership. ROC has announced Nick Bartlow will now serve as chief engineer. Identiv has brought on a new president of IoT solutions, while BioCatch has appointed a new chief legal officer. JNCTN has announced Benjamin Moore will now serve as chief strategy officer.
+<h2>Nick Bartlow named chief engineer at ROC</h2>
+American computer vision company <a href="https://www.biometricupdate.com/companies/roc">ROC</a> has announced it has appointed <a href="https://www.linkedin.com/in/nbartlow/">Nick Bartlow</a> as chief engineer. Bartlow has over 14 years of experience in biometrics, AI, and computer vision research.
+
+He most recently served as director of engineering and AI research center lead at the nonprofit tech entity Noblis, whe
+
+## SITA Biometrics Whitepaper
+ - [https://www.biometricupdate.com/202404/sita-biometrics-whitepaper](https://www.biometricupdate.com/202404/sita-biometrics-whitepaper)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-04-19T00:51:27+00:00
+
+<img alt="trusted traveler airport biometrics large" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/07/26115428/trusted-traveller-airport-biometrics-large.webp" />
+		The future of air travel is digital and biometrically enabled. SITA biometrics whitepaper points the way ahead for airports, airlines, and border agencies.
+
