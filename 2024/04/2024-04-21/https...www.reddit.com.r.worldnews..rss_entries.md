@@ -1,0 +1,296 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Assad says Syria has held ‘meetings’ with US on possibly mending ties with West
+ - [https://www.reddit.com/r/worldnews/comments/1c9tham/assad_says_syria_has_held_meetings_with_us_on](https://www.reddit.com/r/worldnews/comments/1c9tham/assad_says_syria_has_held_meetings_with_us_on)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T21:37:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9tham/assad_says_syria_has_held_meetings_with_us_on/"> <img alt="Assad says Syria has held ‘meetings’ with US on possibly mending ties with West" src="https://external-preview.redd.it/sSs1lZ0kUIhvvaGaye1WHRCcw9dUIU6r5C4NoqjMuE0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f1b8a179b31cbeaaea440814f745e23b1fa3271" title="Assad says Syria has held ‘meetings’ with US on possibly mending ties with West" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/riverstarrys"> /u/riverstarrys </a> <br /> <span><a href="https://www.timesofisrael.com/assad-says-syria-has-held-meetings-with-us-on-possibly-mending-ties-with-west/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9tham/assad_says_syria_has_held_meetings_with_us_on/">[comments]</a></span> </td></tr></table>
+
+## Rabbi to Jewish Columbia students amid rallies: Campus not safe, go home
+ - [https://www.reddit.com/r/worldnews/comments/1c9t8yr/rabbi_to_jewish_columbia_students_amid_rallies](https://www.reddit.com/r/worldnews/comments/1c9t8yr/rabbi_to_jewish_columbia_students_amid_rallies)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T21:28:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9t8yr/rabbi_to_jewish_columbia_students_amid_rallies/"> <img alt="Rabbi to Jewish Columbia students amid rallies: Campus not safe, go home" src="https://external-preview.redd.it/nFlc9m0dl4NAJhdXTRjoUxV9FGT17XuAzpj2bkppNf8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=835614cc6cf89990d8dd3fd97ccb36e8a0f1c0d5" title="Rabbi to Jewish Columbia students amid rallies: Campus not safe, go home" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fantastic-Egg-4510"> /u/Fantastic-Egg-4510 </a> <br /> <span><a href="https://www.jpost.com/diaspora/article-798175">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9t8yr/rabbi_to_jewish_columbia_students_amid_rallies/">[comments]</a></span> </td></tr></table>
+
+## Media: Explosions in Sevastopol, Ceimean Bridge Blocked
+ - [https://www.reddit.com/r/worldnews/comments/1c9t3f5/media_explosions_in_sevastopol_ceimean_bridge](https://www.reddit.com/r/worldnews/comments/1c9t3f5/media_explosions_in_sevastopol_ceimean_bridge)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T21:21:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9t3f5/media_explosions_in_sevastopol_ceimean_bridge/"> <img alt="Media: Explosions in Sevastopol, Ceimean Bridge Blocked" src="https://external-preview.redd.it/dutmKIF2cfy73gkvNA6YVXJIXVOQRMO1z5_aMnyV8FU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ba1094d2abb84c3b0cc1e2b3d3f4b8e6dd492d79" title="Media: Explosions in Sevastopol, Ceimean Bridge Blocked" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/None_4All"> /u/None_4All </a> <br /> <span><a href="https://www.ukrinform.net/rubric-ato/3854978-media-explosions-in-sevastopol-crimean-bridge-blocked.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9t3f5/media_explosions_in_sevastopol_ceimean_bridge/">[comments]</a></span> </td></tr></table>
+
+## Seven dead, 20 injured after race car veers off track into crowd in Sri Lanka
+ - [https://www.reddit.com/r/worldnews/comments/1c9t17e/seven_dead_20_injured_after_race_car_veers_off](https://www.reddit.com/r/worldnews/comments/1c9t17e/seven_dead_20_injured_after_race_car_veers_off)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T21:19:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9t17e/seven_dead_20_injured_after_race_car_veers_off/"> <img alt="Seven dead, 20 injured after race car veers off track into crowd in Sri Lanka" src="https://external-preview.redd.it/egCOwH6l5jbfeyzgkek-PR9tGldgSaCNbtoLoeHFVDI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=67b578fd5abb544a3d696fc65082aea1379dd9f3" title="Seven dead, 20 injured after race car veers off track into crowd in Sri Lanka" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ruhrgebietheld"> /u/Ruhrgebietheld </a> <br /> <span><a href="https://apnews.com/article/sri-lanka-car-race-accident-fatalities-3405f02aa1cf1d1096a6579ed82fe441">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9t17e/seven_dead_20_injured_after_race_car_veers_off/">[comments]</a></span> </td></tr></table>
+
+## Five rockets fired from Iraq towards U.S. military base in Syria, security sources say
+ - [https://www.reddit.com/r/worldnews/comments/1c9roxi/five_rockets_fired_from_iraq_towards_us_military](https://www.reddit.com/r/worldnews/comments/1c9roxi/five_rockets_fired_from_iraq_towards_us_military)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T20:23:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9roxi/five_rockets_fired_from_iraq_towards_us_military/"> <img alt="Five rockets fired from Iraq towards U.S. military base in Syria, security sources say" src="https://external-preview.redd.it/mKqHVAGaLWiUITRbgNRDoP35M9U5u0blA-Wx_P_WJ-c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28283100db87356cfdaee78c5280027752fa681d" title="Five rockets fired from Iraq towards U.S. military base in Syria, security sources say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wynaeri"> /u/Wynaeri </a> <br /> <span><a href="https://www.reuters.com/world/five-rockets-fired-iraq-towards-us-military-base-syria-security-sources-say-2024-04-21/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9roxi/five_rockets_fired_from_iraq_towards_us_military/">[comments]</a></span> </td></tr></table>
+
+## Iran’s supreme leader tacitly acknowledges that Tehran hit little in its attack on Israel
+ - [https://www.reddit.com/r/worldnews/comments/1c9rnug/irans_supreme_leader_tacitly_acknowledges_that](https://www.reddit.com/r/worldnews/comments/1c9rnug/irans_supreme_leader_tacitly_acknowledges_that)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T20:21:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9rnug/irans_supreme_leader_tacitly_acknowledges_that/"> <img alt="Iran’s supreme leader tacitly acknowledges that Tehran hit little in its attack on Israel" src="https://external-preview.redd.it/_R2fJiKlltRNXOZO8PO7_84YSEGKNhpWxFHCo1WPvqk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d53a6b18e260b3a4778bdee0bc58b0ffb558137a" title="Iran’s supreme leader tacitly acknowledges that Tehran hit little in its attack on Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NewSlinger"> /u/NewSlinger </a> <br /> <span><a href="https://www.nbcnews.com/news/us-news/irans-supreme-leader-tacitly-acknowledges-tehran-hit-little-attack-isr-rcna148718">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9rnug/irans_supreme_leader_tacitly_acknowledges_that/">[comments]</a></span> </td></tr></table>
+
+## Taiwan to discuss new funding with US as Chinese warplanes get close to island
+ - [https://www.reddit.com/r/worldnews/comments/1c9pype/taiwan_to_discuss_new_funding_with_us_as_chinese](https://www.reddit.com/r/worldnews/comments/1c9pype/taiwan_to_discuss_new_funding_with_us_as_chinese)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T19:11:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9pype/taiwan_to_discuss_new_funding_with_us_as_chinese/"> <img alt="Taiwan to discuss new funding with US as Chinese warplanes get close to island" src="https://external-preview.redd.it/jfEsPk87Ev1Y5BSL5jEY7z8IfzOIvLyProQRDsskWi8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e0c70a630960dc0dd3472d90e4dc9d0c9a2371f3" title="Taiwan to discuss new funding with US as Chinese warplanes get close to island" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donutloop"> /u/donutloop </a> <br /> <span><a href="https://www.reuters.com/world/asia-pacific/taiwan-says-it-will-discuss-with-us-how-use-new-funding-2024-04-21/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9pype/taiwan_to_discuss_new_funding_with_us_as_chinese/">[comments]</a></span> </td></tr></table>
+
+## 'Ukraine will not be the second Afghanistan,' says Zelenskyy after US aid package approval
+ - [https://www.reddit.com/r/worldnews/comments/1c9p6ba/ukraine_will_not_be_the_second_afghanistan_says](https://www.reddit.com/r/worldnews/comments/1c9p6ba/ukraine_will_not_be_the_second_afghanistan_says)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T18:38:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9p6ba/ukraine_will_not_be_the_second_afghanistan_says/"> <img alt="'Ukraine will not be the second Afghanistan,' says Zelenskyy after US aid package approval" src="https://external-preview.redd.it/yqOYifjIk2q3MzskW0hwIKVq9rJtiGtnGWSTM0uoNBw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3faaa992ea8e0ea7e3a417134a6aecee17f2c006" title="'Ukraine will not be the second Afghanistan,' says Zelenskyy after US aid package approval" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/riverstarrys"> /u/riverstarrys </a> <br /> <span><a href="https://news.sky.com/story/ukraine-will-not-be-the-second-afghanistan-says-zelenskyy-after-us-aid-package-approval-13120248">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9p6ba/ukraine_will_not_be_the_second_afghanistan_says/">[comments]</a></span> </td></tr></table>
+
+## A politician running for mayor in northern Mexico is killed, the 16th hopeful slain over June vote
+ - [https://www.reddit.com/r/worldnews/comments/1c9ov5t/a_politician_running_for_mayor_in_northern_mexico](https://www.reddit.com/r/worldnews/comments/1c9ov5t/a_politician_running_for_mayor_in_northern_mexico)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T18:26:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9ov5t/a_politician_running_for_mayor_in_northern_mexico/"> <img alt="A politician running for mayor in northern Mexico is killed, the 16th hopeful slain over June vote" src="https://external-preview.redd.it/7jHQXnYGt_pO2B2BOjpXNtP4RRau-QoK_-O6ruQu7kc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b80de9083d8f2095448c25a0ed76b3b0bdb1c9a3" title="A politician running for mayor in northern Mexico is killed, the 16th hopeful slain over June vote" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Urmomsjuicyvagina"> /u/Urmomsjuicyvagina </a> <br /> <span><a href="https://www.pbs.org/newshour/world/a-politician-running-for-mayor-in-northern-mexico-is-killed-the-16th-hopeful-slain-over-june-vote">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9ov5t/a_politician_running_for_mayor_in_northern_mexico/">[comments]</a></span> </td></tr></table>
+
+## More than 50 people die after boat capsizes in Central African Republic, says official
+ - [https://www.reddit.com/r/worldnews/comments/1c9ouap/more_than_50_people_die_after_boat_capsizes_in](https://www.reddit.com/r/worldnews/comments/1c9ouap/more_than_50_people_die_after_boat_capsizes_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T18:25:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9ouap/more_than_50_people_die_after_boat_capsizes_in/"> <img alt="More than 50 people die after boat capsizes in Central African Republic, says official" src="https://external-preview.redd.it/eschXLXruVO5YRZxQx8jzRxyHPH2cY7vdhfBp6DXfzU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=92daaa081cd39969472486fff724dc2c354a63e2" title="More than 50 people die after boat capsizes in Central African Republic, says official" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lunavenandi"> /u/Lunavenandi </a> <br /> <span><a href="https://www.france24.com/en/africa/20240420-more-than-50-people-die-after-boat-capsizes-in-central-african-republic-says-official">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9ouap/more_than_50_people_die_after_boat_capsizes_in/">[comments]</a></span> </td></tr></table>
+
+## Xi Orders China’s Biggest Military Reorganization Since 2015
+ - [https://www.reddit.com/r/worldnews/comments/1c9nlju/xi_orders_chinas_biggest_military_reorganization](https://www.reddit.com/r/worldnews/comments/1c9nlju/xi_orders_chinas_biggest_military_reorganization)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T17:33:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9nlju/xi_orders_chinas_biggest_military_reorganization/"> <img alt="Xi Orders China’s Biggest Military Reorganization Since 2015" src="https://external-preview.redd.it/ziX9b_Sw7DjMswfef7a2wFZLDdNTAGEJXIsRsQUxmdU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=72c270117d3c867e880c9203fce835da0f32159e" title="Xi Orders China’s Biggest Military Reorganization Since 2015" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Astro2556"> /u/Astro2556 </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-04-19/xi-orders-china-s-biggest-military-reorganization-since-2015?embedded-checkout=true">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9nlju/xi_orders_chinas_biggest_military_reorganization/">[comments]</a></span> </td></tr></table>
+
+## Israeli weapons damaged Iranian air defenses without detection
+ - [https://www.reddit.com/r/worldnews/comments/1c9mtch/israeli_weapons_damaged_iranian_air_defenses](https://www.reddit.com/r/worldnews/comments/1c9mtch/israeli_weapons_damaged_iranian_air_defenses)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T17:00:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9mtch/israeli_weapons_damaged_iranian_air_defenses/"> <img alt="Israeli weapons damaged Iranian air defenses without detection" src="https://external-preview.redd.it/mwEOYcZDjI8wvd_D3YdSEQVhHCj99sc75IMlLRZDYms.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a6ebc520540c91fa516cef09838979d44b4659a" title="Israeli weapons damaged Iranian air defenses without detection" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/franktomi"> /u/franktomi </a> <br /> <span><a href="https://www.jpost.com/breaking-news/article-798022">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9mtch/israeli_weapons_damaged_iranian_air_defenses/">[comments]</a></span> </td></tr></table>
+
+## Iranian Commander Announces New Morality Enforcement Body
+ - [https://www.reddit.com/r/worldnews/comments/1c9ltvc/iranian_commander_announces_new_morality](https://www.reddit.com/r/worldnews/comments/1c9ltvc/iranian_commander_announces_new_morality)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T16:17:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9ltvc/iranian_commander_announces_new_morality/"> <img alt="Iranian Commander Announces New Morality Enforcement Body" src="https://external-preview.redd.it/PgyMHJXa_P7N5L4zz-xujROAXmMwAbdWwKjk1dHg--Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dfd241b873603cc447bc6196b101d9000d2651d5" title="Iranian Commander Announces New Morality Enforcement Body" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_Franklin"> /u/Red_Franklin </a> <br /> <span><a href="https://www.rferl.org/a/iranian-commander-new-morality-enforcement-body/32914527.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9ltvc/iranian_commander_announces_new_morality/">[comments]</a></span> </td></tr></table>
+
+## Poland, Lithuania, other NATO allies begin military exercise around Suwalki Gap
+ - [https://www.reddit.com/r/worldnews/comments/1c9km62/poland_lithuania_other_nato_allies_begin_military](https://www.reddit.com/r/worldnews/comments/1c9km62/poland_lithuania_other_nato_allies_begin_military)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T15:27:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9km62/poland_lithuania_other_nato_allies_begin_military/"> <img alt="Poland, Lithuania, other NATO allies begin military exercise around Suwalki Gap" src="https://external-preview.redd.it/EqFkgaghdYr0SvQL-8K0gjAVbkuqzQ6ZNrFaDKye1Mc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22e12328c54d19047eab2e4589ed858066a84d11" title="Poland, Lithuania, other NATO allies begin military exercise around Suwalki Gap" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_Franklin"> /u/Red_Franklin </a> <br /> <span><a href="https://kyivindependent.com/poland-lithuania-other-nato-allies-begin-military-exercise-around-suwalki-gap/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9km62/poland_lithuania_other_nato_allies_begin_military/">[comments]</a></span> </td></tr></table>
+
+## Zelenskiy urges speedy passage of Ukraine aid in US Senate, transfer of weapons
+ - [https://www.reddit.com/r/worldnews/comments/1c9k6j9/zelenskiy_urges_speedy_passage_of_ukraine_aid_in](https://www.reddit.com/r/worldnews/comments/1c9k6j9/zelenskiy_urges_speedy_passage_of_ukraine_aid_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T15:09:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9k6j9/zelenskiy_urges_speedy_passage_of_ukraine_aid_in/"> <img alt="Zelenskiy urges speedy passage of Ukraine aid in US Senate, transfer of weapons" src="https://external-preview.redd.it/fEBXcQY7fECAGAyFub9cusrmPtEiLvwShxRU4Ki6oDA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=90809ebb16e687b9bba59dbe80781de23ed186c7" title="Zelenskiy urges speedy passage of Ukraine aid in US Senate, transfer of weapons" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/riverstarrys"> /u/riverstarrys </a> <br /> <span><a href="https://www.reuters.com/world/europe/zelenskiy-urges-speedy-passage-ukraine-aid-us-senate-transfer-weapons-2024-04-21/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9k6j9/zelenskiy_urges_speedy_passage_of_ukraine_aid_in/">[comments]</a></span> </td></tr></table>
+
+## EDF chief: I am absolutely certain Estonia could win a war
+ - [https://www.reddit.com/r/worldnews/comments/1c9k117/edf_chief_i_am_absolutely_certain_estonia_could](https://www.reddit.com/r/worldnews/comments/1c9k117/edf_chief_i_am_absolutely_certain_estonia_could)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T15:03:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9k117/edf_chief_i_am_absolutely_certain_estonia_could/"> <img alt="EDF chief: I am absolutely certain Estonia could win a war" src="https://external-preview.redd.it/gVuob45aB8cdiJSVUZyn6SxT9jfVemx7zoLecR00CqA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0b85fa20fa1f24172a4fae5c7951f0edceac1e5" title="EDF chief: I am absolutely certain Estonia could win a war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ImTheVayne"> /u/ImTheVayne </a> <br /> <span><a href="https://news.err.ee/1609317099/edf-chief-i-am-absolutely-certain-estonia-could-win-a-war">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9k117/edf_chief_i_am_absolutely_certain_estonia_could/">[comments]</a></span> </td></tr></table>
+
+## Germany may give Ukraine equipment from closed thermal power plant
+ - [https://www.reddit.com/r/worldnews/comments/1c9j616/germany_may_give_ukraine_equipment_from_closed](https://www.reddit.com/r/worldnews/comments/1c9j616/germany_may_give_ukraine_equipment_from_closed)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T14:26:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9j616/germany_may_give_ukraine_equipment_from_closed/"> <img alt="Germany may give Ukraine equipment from closed thermal power plant" src="https://external-preview.redd.it/ZExVovgxOw-yeV3HZk5SUhQkTBQPJrZEz7jSuWD5T9g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=433816407bd184bdb2ca8ccae0f7446cfeb0b611" title="Germany may give Ukraine equipment from closed thermal power plant" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/swahilitutgirl"> /u/swahilitutgirl </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/04/21/7452247/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9j616/germany_may_give_ukraine_equipment_from_closed/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy: ‘We will have a chance at victory’ thanks to weapons provided to Ukraine in new U.S. aid package
+ - [https://www.reddit.com/r/worldnews/comments/1c9j3jz/zelenskyy_we_will_have_a_chance_at_victory_thanks](https://www.reddit.com/r/worldnews/comments/1c9j3jz/zelenskyy_we_will_have_a_chance_at_victory_thanks)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T14:23:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9j3jz/zelenskyy_we_will_have_a_chance_at_victory_thanks/"> <img alt="Zelenskyy: ‘We will have a chance at victory’ thanks to weapons provided to Ukraine in new U.S. aid package" src="https://external-preview.redd.it/OVnCwhELkk0DVy4DrYznt6z9cFSquhmefkUn9Hf7EUQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e6a5cc8219ab1efe5e4a6d25b07246066f9f4fbf" title="Zelenskyy: ‘We will have a chance at victory’ thanks to weapons provided to Ukraine in new U.S. aid package" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br /> <span><a href="https://www.nbcnews.com/politics/congress/ukrainian-president-volodymyr-zelenskyy-will-chance-victory-thaks-weap-rcna148684">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9j3jz/zelenskyy_we_will_have_a_chance_at_victory_thanks/">[comments]</a></span> </td></tr></table>
+
+## Nuclear expert fears flooded radioactive dump sites in Siberia can threaten Arctic Ocean
+ - [https://www.reddit.com/r/worldnews/comments/1c9ikx3/nuclear_expert_fears_flooded_radioactive_dump](https://www.reddit.com/r/worldnews/comments/1c9ikx3/nuclear_expert_fears_flooded_radioactive_dump)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T14:00:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9ikx3/nuclear_expert_fears_flooded_radioactive_dump/"> <img alt="Nuclear expert fears flooded radioactive dump sites in Siberia can threaten Arctic Ocean" src="https://external-preview.redd.it/9Xvt2eJPpb6gvo9OIB_Hkj2bcQ5_YGvC0PvG9wC01U0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d63c811deafbf17c3009c60e44e8aef8e16766c" title="Nuclear expert fears flooded radioactive dump sites in Siberia can threaten Arctic Ocean" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheArcticBeyond"> /u/TheArcticBeyond </a> <br /> <span><a href="https://thebarentsobserver.com/en/nuclear-safety/2024/04/expert-fears-flooded-radioactive-dump-sites-could-leak-river-system-flow">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9ikx3/nuclear_expert_fears_flooded_radioactive_dump/">[comments]</a></span> </td></tr></table>
+
+## Chinese student arrested on suspicion of spying in Switzerland near military airfield where F-35 fighter jet flight test were being conducted
+ - [https://www.reddit.com/r/worldnews/comments/1c9icik/chinese_student_arrested_on_suspicion_of_spying](https://www.reddit.com/r/worldnews/comments/1c9icik/chinese_student_arrested_on_suspicion_of_spying)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T13:49:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9icik/chinese_student_arrested_on_suspicion_of_spying/"> <img alt="Chinese student arrested on suspicion of spying in Switzerland near military airfield where F-35 fighter jet flight test were being conducted" src="https://external-preview.redd.it/xbaIjgTkzNb5fmetr1Yj0kvj19WNzcdbqTvZmFokiyQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=916ecd725ff725f74a8f42e45768cdf7bc41a8fe" title="Chinese student arrested on suspicion of spying in Switzerland near military airfield where F-35 fighter jet flight test were being conducted" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Carla_DFW"> /u/Carla_DFW </a> <br /> <span><a href="https://www.worldradio.ch/news/bitesize-news/chinese-student-arrested-for-spying/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9icik/chinese_student_arrested_on_suspicion_of_spying/">[comments]</a></span> </td></tr></tabl
+
+## The US is expected to announce sanctions against IDF unit for human rights abuses
+ - [https://www.reddit.com/r/worldnews/comments/1c9hm3f/the_us_is_expected_to_announce_sanctions_against](https://www.reddit.com/r/worldnews/comments/1c9hm3f/the_us_is_expected_to_announce_sanctions_against)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T13:14:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9hm3f/the_us_is_expected_to_announce_sanctions_against/"> <img alt="The US is expected to announce sanctions against IDF unit for human rights abuses" src="https://external-preview.redd.it/maUeCWMCfhOeku1994pqhpelOwRy1HkkzEr2wqznivU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=896c129497d41b74bf6dfbe8b17402325f28aa44" title="The US is expected to announce sanctions against IDF unit for human rights abuses" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HillBlocksView"> /u/HillBlocksView </a> <br /> <span><a href="https://www.jpost.com/israel-news/article-798035">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9hm3f/the_us_is_expected_to_announce_sanctions_against/">[comments]</a></span> </td></tr></table>
+
+## Germany targets air defense ramp-up as Berlin corrals allies behind Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1c9goh2/germany_targets_air_defense_rampup_as_berlin](https://www.reddit.com/r/worldnews/comments/1c9goh2/germany_targets_air_defense_rampup_as_berlin)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T12:27:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9goh2/germany_targets_air_defense_rampup_as_berlin/"> <img alt="Germany targets air defense ramp-up as Berlin corrals allies behind Ukraine" src="https://external-preview.redd.it/SaXcHSQ02ssO86yiDSW9CkwC3PehS1B4qXJBSJ_nPzE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ee1dfbce68e29dfef32fb90056355c0fe1c40a4e" title="Germany targets air defense ramp-up as Berlin corrals allies behind Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donutloop"> /u/donutloop </a> <br /> <span><a href="https://www.politico.eu/article/germany-target-air-defense-ramp-up-berlin-corral-allies-behind-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9goh2/germany_targets_air_defense_rampup_as_berlin/">[comments]</a></span> </td></tr></table>
+
+## Israel angered by possible US sanctions
+ - [https://www.reddit.com/r/worldnews/comments/1c9g7ur/israel_angered_by_possible_us_sanctions](https://www.reddit.com/r/worldnews/comments/1c9g7ur/israel_angered_by_possible_us_sanctions)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T12:02:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9g7ur/israel_angered_by_possible_us_sanctions/"> <img alt="Israel angered by possible US sanctions" src="https://external-preview.redd.it/N-d4C0xGxVrmTqDUBCQQcKo2DBZEFJVjgEdjTLlvcpM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=adba039b2a33e0c53190eb58b3a48da71054dad1" title="Israel angered by possible US sanctions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EchoInTheHoller"> /u/EchoInTheHoller </a> <br /> <span><a href="https://www.dw.com/en/middle-east-updates-israel-angered-by-possible-us-sanctions/live-68881098">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9g7ur/israel_angered_by_possible_us_sanctions/">[comments]</a></span> </td></tr></table>
+
+## Israel used advanced stealthy missile to surgically strike Iranian S-300 air defense radar – report
+ - [https://www.reddit.com/r/worldnews/comments/1c9fz1l/israel_used_advanced_stealthy_missile_to](https://www.reddit.com/r/worldnews/comments/1c9fz1l/israel_used_advanced_stealthy_missile_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T11:49:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9fz1l/israel_used_advanced_stealthy_missile_to/"> <img alt="Israel used advanced stealthy missile to surgically strike Iranian S-300 air defense radar – report" src="https://external-preview.redd.it/omS4t2AVsyWShvsJI063pOKQ9-7sEidiEET2Lhsp_z4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=dc4d2e749ab96d5816088d7b1ba660c23194537f" title="Israel used advanced stealthy missile to surgically strike Iranian S-300 air defense radar – report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/franktomi"> /u/franktomi </a> <br /> <span><a href="https://allisrael.com/israel-used-advanced-stealthy-missile-to-surgically-strike-iranian-s-300-air-defense-radar-report">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9fz1l/israel_used_advanced_stealthy_missile_to/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian and Western leaders laud US aid package while the Kremlin warns of 'further ruin'
+ - [https://www.reddit.com/r/worldnews/comments/1c9fotx/ukrainian_and_western_leaders_laud_us_aid_package](https://www.reddit.com/r/worldnews/comments/1c9fotx/ukrainian_and_western_leaders_laud_us_aid_package)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T11:32:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9fotx/ukrainian_and_western_leaders_laud_us_aid_package/"> <img alt="Ukrainian and Western leaders laud US aid package while the Kremlin warns of 'further ruin'" src="https://external-preview.redd.it/_y4beHItvFR2VXXKxkyB_CTcbgfxdiz8kqZNKPTRwYg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=98dba30e43bec7969eccb6d9fc22c30fbbf6e0d6" title="Ukrainian and Western leaders laud US aid package while the Kremlin warns of 'further ruin'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EchoInTheHoller"> /u/EchoInTheHoller </a> <br /> <span><a href="https://apnews.com/article/russia-ukraine-war-funding-congress-1138337200942ca738ffc28bfc289570">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9fotx/ukrainian_and_western_leaders_laud_us_aid_package/">[comments]</a></span> </td></tr></table>
+
+## Mexican authorities announce killings of two mayoral candidates
+ - [https://www.reddit.com/r/worldnews/comments/1c9figm/mexican_authorities_announce_killings_of_two](https://www.reddit.com/r/worldnews/comments/1c9figm/mexican_authorities_announce_killings_of_two)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T11:22:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9figm/mexican_authorities_announce_killings_of_two/"> <img alt="Mexican authorities announce killings of two mayoral candidates" src="https://external-preview.redd.it/yd_ITH5hFPZh7ybTVxlqFNR48OxCxndhoNGxwrR9K2E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ac287f48829298c83271fb60d01d82d61d9100f" title="Mexican authorities announce killings of two mayoral candidates" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhoIsJolyonWest"> /u/WhoIsJolyonWest </a> <br /> <span><a href="https://www.jurist.org/news/2024/04/mexican-authorities-report-killings-of-two-mayoral-candidates/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9figm/mexican_authorities_announce_killings_of_two/">[comments]</a></span> </td></tr></table>
+
+## Israel to summon ambassadors of 6 countries that voted for Palestinian UN membership
+ - [https://www.reddit.com/r/worldnews/comments/1c9ffmy/israel_to_summon_ambassadors_of_6_countries_that](https://www.reddit.com/r/worldnews/comments/1c9ffmy/israel_to_summon_ambassadors_of_6_countries_that)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T11:17:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9ffmy/israel_to_summon_ambassadors_of_6_countries_that/"> <img alt="Israel to summon ambassadors of 6 countries that voted for Palestinian UN membership" src="https://external-preview.redd.it/_L27ev53jIMlCHHpWLwiXPKoOLJL7ZSiK6eDd5hBhTw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=156201f8c78d8bf61960a98bdea949a1ad012305" title="Israel to summon ambassadors of 6 countries that voted for Palestinian UN membership" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TokyoOldMan"> /u/TokyoOldMan </a> <br /> <span><a href="https://www.timesofisrael.com/israel-to-summon-ambassadors-of-6-countries-that-voted-for-palestinian-un-membership">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9ffmy/israel_to_summon_ambassadors_of_6_countries_that/">[comments]</a></span> </td></tr></table>
+
+## Russia throws a tantrum over US aid to Ukraine and asset confiscation
+ - [https://www.reddit.com/r/worldnews/comments/1c9evm4/russia_throws_a_tantrum_over_us_aid_to_ukraine](https://www.reddit.com/r/worldnews/comments/1c9evm4/russia_throws_a_tantrum_over_us_aid_to_ukraine)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T10:42:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9evm4/russia_throws_a_tantrum_over_us_aid_to_ukraine/"> <img alt="Russia throws a tantrum over US aid to Ukraine and asset confiscation" src="https://external-preview.redd.it/JxGdfqKRfnaMZbg_N6nBEgRB4FJ2rZL3xxCqGtzZS8I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a884188d9b10290895b0683114afc3a513e75dc9" title="Russia throws a tantrum over US aid to Ukraine and asset confiscation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/04/20/7452197/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9evm4/russia_throws_a_tantrum_over_us_aid_to_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Russia says deeper U.S. hybrid war using Ukraine will end in Vietnam-style humiliation
+ - [https://www.reddit.com/r/worldnews/comments/1c9eujc/russia_says_deeper_us_hybrid_war_using_ukraine](https://www.reddit.com/r/worldnews/comments/1c9eujc/russia_says_deeper_us_hybrid_war_using_ukraine)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T10:40:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9eujc/russia_says_deeper_us_hybrid_war_using_ukraine/"> <img alt="Russia says deeper U.S. hybrid war using Ukraine will end in Vietnam-style humiliation" src="https://external-preview.redd.it/jPxtts6-LoSwbWL5rtamu9yx078Kc1xP9GhRd9lbGDo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ec3e9db8a7b8ee0fc9c9febf4ec2c529d4816a9" title="Russia says deeper U.S. hybrid war using Ukraine will end in Vietnam-style humiliation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ragingexmachina"> /u/ragingexmachina </a> <br /> <span><a href="https://www.reuters.com/world/europe/russia-says-deeper-us-hybrid-war-using-ukraine-will-end-vietnam-style-2024-04-21/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9eujc/russia_says_deeper_us_hybrid_war_using_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Ukraine’s Zelensky attends mock Passover seder at Kyiv Jewish school
+ - [https://www.reddit.com/r/worldnews/comments/1c9eiig/ukraines_zelensky_attends_mock_passover_seder_at](https://www.reddit.com/r/worldnews/comments/1c9eiig/ukraines_zelensky_attends_mock_passover_seder_at)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T10:17:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9eiig/ukraines_zelensky_attends_mock_passover_seder_at/"> <img alt="Ukraine’s Zelensky attends mock Passover seder at Kyiv Jewish school" src="https://external-preview.redd.it/BgueGEUnrhXTjTOejpRaIO3wooLQbOf0BranOL1r9oY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2f525d91f59528b3e552eda9dc687fc55a8e9ea" title="Ukraine’s Zelensky attends mock Passover seder at Kyiv Jewish school" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/franktomi"> /u/franktomi </a> <br /> <span><a href="https://www.timesofisrael.com/ukraines-zelensky-attends-mock-passover-seder-at-kyiv-jewish-school/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9eiig/ukraines_zelensky_attends_mock_passover_seder_at/">[comments]</a></span> </td></tr></table>
+
+## Thousands of Israelis Join Anti-Government Protests Calling for New Elections
+ - [https://www.reddit.com/r/worldnews/comments/1c9e9xh/thousands_of_israelis_join_antigovernment](https://www.reddit.com/r/worldnews/comments/1c9e9xh/thousands_of_israelis_join_antigovernment)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T10:01:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9e9xh/thousands_of_israelis_join_antigovernment/"> <img alt="Thousands of Israelis Join Anti-Government Protests Calling for New Elections" src="https://external-preview.redd.it/G7g0ffwJJ7TLfk3CDgRJjlgpbDG3IYyi3eHa09bBdRE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14978e93e8a02b80e8aa2fad91805c10f00b638a" title="Thousands of Israelis Join Anti-Government Protests Calling for New Elections" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Twamie"> /u/Twamie </a> <br /> <span><a href="https://www.usnews.com/news/world/articles/2024-04-20/thousands-of-israelis-join-anti-government-protests-calling-for-new-elections">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9e9xh/thousands_of_israelis_join_antigovernment/">[comments]</a></span> </td></tr></table>
+
+## Blinken heads back to China, with a threat over military aid to Russia
+ - [https://www.reddit.com/r/worldnews/comments/1c9e4tj/blinken_heads_back_to_china_with_a_threat_over](https://www.reddit.com/r/worldnews/comments/1c9e4tj/blinken_heads_back_to_china_with_a_threat_over)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T09:52:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9e4tj/blinken_heads_back_to_china_with_a_threat_over/"> <img alt="Blinken heads back to China, with a threat over military aid to Russia" src="https://external-preview.redd.it/7URDTSJMDWXQwt-yt--V2VMYGc3NUaIrI1BIot0Rbtw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d41434a6b616cd47af37eaa15ed529a23306b9be" title="Blinken heads back to China, with a threat over military aid to Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mission_Routine_2058"> /u/Mission_Routine_2058 </a> <br /> <span><a href="https://www.politico.eu/article/antony-blinken-head-back-china-armed-threat-russian-military-aid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9e4tj/blinken_heads_back_to_china_with_a_threat_over/">[comments]</a></span> </td></tr></table>
+
+## Explosion in Sevastopol, Russian ship reportedly on fire
+ - [https://www.reddit.com/r/worldnews/comments/1c9divy/explosion_in_sevastopol_russian_ship_reportedly](https://www.reddit.com/r/worldnews/comments/1c9divy/explosion_in_sevastopol_russian_ship_reportedly)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T09:09:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9divy/explosion_in_sevastopol_russian_ship_reportedly/"> <img alt="Explosion in Sevastopol, Russian ship reportedly on fire " src="https://external-preview.redd.it/UiuY6QUugOfHHB2tyHN07BK0sQKvLY1C4wdf_8bLHvw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=034b6e01a6a5fd9bf66b843da73fe3ed27123040" title="Explosion in Sevastopol, Russian ship reportedly on fire " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yorkiecd"> /u/yorkiecd </a> <br /> <span><a href="https://kyivindependent.com/explosion-in-sevastopol-russian-ship-reportedly-on-fire-and-crimea-bridge-closed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9divy/explosion_in_sevastopol_russian_ship_reportedly/">[comments]</a></span> </td></tr></table>
+
+## Navalnaya Warns Of Putin's Willingness To Strike In Europe
+ - [https://www.reddit.com/r/worldnews/comments/1c9cl54/navalnaya_warns_of_putins_willingness_to_strike](https://www.reddit.com/r/worldnews/comments/1c9cl54/navalnaya_warns_of_putins_willingness_to_strike)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T08:04:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9cl54/navalnaya_warns_of_putins_willingness_to_strike/"> <img alt="Navalnaya Warns Of Putin's Willingness To Strike In Europe" src="https://external-preview.redd.it/UbFwZ1M2wJ9dyY4mTRHW_GHv_3Jo6FsSroPOz5JA0v0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d797cb49474cd3d2b68ce391b320b237f951b79" title="Navalnaya Warns Of Putin's Willingness To Strike In Europe" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PaleBite934"> /u/PaleBite934 </a> <br /> <span><a href="https://www.rferl.org/a/navalnaya-warns-of-putin-s-willingness-to-strike-in-europe/32914344.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9cl54/navalnaya_warns_of_putins_willingness_to_strike/">[comments]</a></span> </td></tr></table>
+
+## G7 calls out China over ‘intimidation, militarization’ in SCS
+ - [https://www.reddit.com/r/worldnews/comments/1c9azyz/g7_calls_out_china_over_intimidation](https://www.reddit.com/r/worldnews/comments/1c9azyz/g7_calls_out_china_over_intimidation)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T06:18:12+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/chasing_enigma"> /u/chasing_enigma </a> <br /> <span><a href="https://www.pna.gov.ph/articles/1223047">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9azyz/g7_calls_out_china_over_intimidation/">[comments]</a></span>
+
+## Smokers' delight: Thousands light up for 420 in Berlin
+ - [https://www.reddit.com/r/worldnews/comments/1c9amkb/smokers_delight_thousands_light_up_for_420_in](https://www.reddit.com/r/worldnews/comments/1c9amkb/smokers_delight_thousands_light_up_for_420_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T05:54:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c9amkb/smokers_delight_thousands_light_up_for_420_in/"> <img alt="Smokers' delight: Thousands light up for 420 in Berlin" src="https://external-preview.redd.it/NxScyaDGHbZv_eZDukHAknuR6yLAS1Dnfs2y9DXW1Us.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9e7c576f2bf5bc7ffb54891899d1bdddd86f43f" title="Smokers' delight: Thousands light up for 420 in Berlin" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donutloop"> /u/donutloop </a> <br /> <span><a href="https://www.dw.com/en/smokers-delight-thousands-light-up-for-420-in-berlin/a-68879921">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c9amkb/smokers_delight_thousands_light_up_for_420_in/">[comments]</a></span> </td></tr></table>
+
+## U.K. police apologize after threatening to arrest ’openly Jewish’ man
+ - [https://www.reddit.com/r/worldnews/comments/1c99qoy/uk_police_apologize_after_threatening_to_arrest](https://www.reddit.com/r/worldnews/comments/1c99qoy/uk_police_apologize_after_threatening_to_arrest)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T04:59:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c99qoy/uk_police_apologize_after_threatening_to_arrest/"> <img alt="U.K. police apologize after threatening to arrest ’openly Jewish’ man" src="https://external-preview.redd.it/qtixL06vIIdKskVNrGsoI6waTIj6Dnw9K7rdWgpMyy4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=457918b417ef52aac209a50a0a2a8f2bea8fd4de" title="U.K. police apologize after threatening to arrest ’openly Jewish’ man" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_Franklin"> /u/Red_Franklin </a> <br /> <span><a href="https://nationalpost.com/news/world/u-k-police-apologize-after-threatening-to-arrest-openly-jewish-man">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c99qoy/uk_police_apologize_after_threatening_to_arrest/">[comments]</a></span> </td></tr></table>
+
+## Thousands of Israelis join anti-government protests
+ - [https://www.reddit.com/r/worldnews/comments/1c99g9q/thousands_of_israelis_join_antigovernment_protests](https://www.reddit.com/r/worldnews/comments/1c99g9q/thousands_of_israelis_join_antigovernment_protests)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T04:41:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c99g9q/thousands_of_israelis_join_antigovernment_protests/"> <img alt="Thousands of Israelis join anti-government protests" src="https://external-preview.redd.it/MXRvGcuGP9hzahMoGNMJqCeTL2Msu2UhKi6TLroTjQk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=97f62e5d1659d5e3b17175605b5b95804355b00e" title="Thousands of Israelis join anti-government protests" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br /> <span><a href="https://www.reuters.com/world/middle-east/thousands-israelis-join-anti-government-protests-calling-new-elections-2024-04-20/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c99g9q/thousands_of_israelis_join_antigovernment_protests/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 788, Part 1 (Thread #934)
+ - [https://www.reddit.com/r/worldnews/comments/1c98st7/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1c98st7/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T04:02:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c98st7/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 788, Part 1 (Thread #934)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 788, Part 1 (Thread #934)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c98st7/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Russian bought $88m of gold from dealer in Changi to launder funds for Ukraine invasion
+ - [https://www.reddit.com/r/worldnews/comments/1c97vnq/russian_bought_88m_of_gold_from_dealer_in_changi](https://www.reddit.com/r/worldnews/comments/1c97vnq/russian_bought_88m_of_gold_from_dealer_in_changi)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T03:08:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c97vnq/russian_bought_88m_of_gold_from_dealer_in_changi/"> <img alt="Russian bought $88m of gold from dealer in Changi to launder funds for Ukraine invasion" src="https://external-preview.redd.it/SnX9NZTTKotjae8xlRRKmY4xgyNP1PhzQY9BUmvqOvA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d587fe5d28a1811b9b228c6fb4b2b368e6086c6c" title="Russian bought $88m of gold from dealer in Changi to launder funds for Ukraine invasion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ccamnvqs"> /u/ccamnvqs </a> <br /> <span><a href="https://www.straitstimes.com/singapore/russian-bought-88-million-of-gold-in-changi-to-launder-funds-for-invasion-of-ukraine">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c97vnq/russian_bought_88m_of_gold_from_dealer_in_changi/">[comments]</a></span> </td></tr></table>
+
+## Entire IRGC command wing in Syria was eliminated in strike, Bloomberg reveals
+ - [https://www.reddit.com/r/worldnews/comments/1c95y0v/entire_irgc_command_wing_in_syria_was_eliminated](https://www.reddit.com/r/worldnews/comments/1c95y0v/entire_irgc_command_wing_in_syria_was_eliminated)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T01:21:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c95y0v/entire_irgc_command_wing_in_syria_was_eliminated/"> <img alt="Entire IRGC command wing in Syria was eliminated in strike, Bloomberg reveals" src="https://external-preview.redd.it/GhZLCfMHpvbLL2AJavU0j344A5CqRpNKDSApz_ZOIeQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=20abb3a282004851ae4b00712c4a5dddbc5a6e03" title="Entire IRGC command wing in Syria was eliminated in strike, Bloomberg reveals" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kjleebio"> /u/kjleebio </a> <br /> <span><a href="https://www.jpost.com/middle-east/bloomberg-reveals-that-the-entire-irgc-command-wing-in-syria-was-assassinated-798031">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c95y0v/entire_irgc_command_wing_in_syria_was_eliminated/">[comments]</a></span> </td></tr></table>
+
+## Military court convicts U.S. sailor of attempted espionage
+ - [https://www.reddit.com/r/worldnews/comments/1c94f2p/military_court_convicts_us_sailor_of_attempted](https://www.reddit.com/r/worldnews/comments/1c94f2p/military_court_convicts_us_sailor_of_attempted)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-04-21T00:03:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1c94f2p/military_court_convicts_us_sailor_of_attempted/"> <img alt="Military court convicts U.S. sailor of attempted espionage" src="https://external-preview.redd.it/0aUDvEqvJZGLFpGQgqNaMkCwc6_HD-PuTq1B7hnzKGE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4180406b3cbe0dc1116e0aadf18e937040368a8" title="Military court convicts U.S. sailor of attempted espionage" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lexiezoe"> /u/Lexiezoe </a> <br /> <span><a href="https://www.npr.org/2024/04/20/1246108780/navy-classified-information-sailor-convicted-espionage">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1c94f2p/military_court_convicts_us_sailor_of_attempted/">[comments]</a></span> </td></tr></table>
+

@@ -1,0 +1,212 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Dozens of Texas water systems exceed new federal limits on “forever chemicals” | The EPA set its first-ever drinking water limits for five types of PFAS chemicals, and nearly 50 of Texas public water systems have reported exceeding the new limits for at least one.
+ - [https://www.reddit.com/r/politics/comments/1c9rpxx/dozens_of_texas_water_systems_exceed_new_federal](https://www.reddit.com/r/politics/comments/1c9rpxx/dozens_of_texas_water_systems_exceed_new_federal)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T20:24:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9rpxx/dozens_of_texas_water_systems_exceed_new_federal/"> <img alt="Dozens of Texas water systems exceed new federal limits on “forever chemicals” | The EPA set its first-ever drinking water limits for five types of PFAS chemicals, and nearly 50 of Texas public water systems have reported exceeding the new limits for at least one." src="https://external-preview.redd.it/TYmR9ukvGhSzXttIhdSn8o5XiqSWNEAD2E7dr6eOKXc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6107b164fcfbf98daf86f337f2939a2caa58bff9" title="Dozens of Texas water systems exceed new federal limits on “forever chemicals” | The EPA set its first-ever drinking water limits for five types of PFAS chemicals, and nearly 50 of Texas public water systems have reported exceeding the new limits for at least one." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpaceElevatorMusic"> /u/SpaceElevatorMusic </a> <br /> <span><a href
+
+## Trump VP contender Kristi Noem says no exceptions for rape or incest in abortion ban
+ - [https://www.reddit.com/r/politics/comments/1c9r4li/trump_vp_contender_kristi_noem_says_no_exceptions](https://www.reddit.com/r/politics/comments/1c9r4li/trump_vp_contender_kristi_noem_says_no_exceptions)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T20:00:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9r4li/trump_vp_contender_kristi_noem_says_no_exceptions/"> <img alt="Trump VP contender Kristi Noem says no exceptions for rape or incest in abortion ban" src="https://external-preview.redd.it/VHWoZUAVSbhL3sfFhM89fZ_kvewiliD7qN8yXcWAU2Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=044a061a8ce36113837d36b410fc534b650faa63" title="Trump VP contender Kristi Noem says no exceptions for rape or incest in abortion ban" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/kristi-noem-abortion-trump-vp-b2532258.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9r4li/trump_vp_contender_kristi_noem_says_no_exceptions/">[comments]</a></span> </td></tr></table>
+
+## Will a Mountain of Evidence Be Enough to Convict Trump?
+ - [https://www.reddit.com/r/politics/comments/1c9qrda/will_a_mountain_of_evidence_be_enough_to_convict](https://www.reddit.com/r/politics/comments/1c9qrda/will_a_mountain_of_evidence_be_enough_to_convict)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T19:45:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9qrda/will_a_mountain_of_evidence_be_enough_to_convict/"> <img alt="Will a Mountain of Evidence Be Enough to Convict Trump?" src="https://external-preview.redd.it/ysylKb2qxmXRYWwy3DUL_93lmAj7D-7suMkJmMduO8w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3529d2308b6707b5150a5bc67d346c527f5eed1c" title="Will a Mountain of Evidence Be Enough to Convict Trump?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aluminumdisc"> /u/aluminumdisc </a> <br /> <span><a href="https://www.nytimes.com/2024/04/21/nyregion/trump-trial-hush-money-evidence.html?smid=nytcore-ios-share&amp;referringSource=articleShare&amp;sgrp=c-cb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9qrda/will_a_mountain_of_evidence_be_enough_to_convict/">[comments]</a></span> </td></tr></table>
+
+## Mike Pence: Trump leading GOP astray with abortion stance
+ - [https://www.reddit.com/r/politics/comments/1c9os7b/mike_pence_trump_leading_gop_astray_with_abortion](https://www.reddit.com/r/politics/comments/1c9os7b/mike_pence_trump_leading_gop_astray_with_abortion)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T18:22:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9os7b/mike_pence_trump_leading_gop_astray_with_abortion/"> <img alt="Mike Pence: Trump leading GOP astray with abortion stance" src="https://external-preview.redd.it/Ez5WAYI10OLDOABY_0VXUNQQyZ6ulcdoew3Q4aYsQ7U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99191c30795badaade82b866c735d90c245e596c" title="Mike Pence: Trump leading GOP astray with abortion stance" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VirtualNecromancer"> /u/VirtualNecromancer </a> <br /> <span><a href="https://www.axios.com/2024/04/21/trump-pence-abortion-nyt">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9os7b/mike_pence_trump_leading_gop_astray_with_abortion/">[comments]</a></span> </td></tr></table>
+
+## Texas Governor Abbott: “We Want To End” trans teachers. Abbott announced in a keynote speech to the Young Conservatives of Texas an intention to “end” trans and GNC teachers being able to teach
+ - [https://www.reddit.com/r/politics/comments/1c9nxus/texas_governor_abbott_we_want_to_end_trans](https://www.reddit.com/r/politics/comments/1c9nxus/texas_governor_abbott_we_want_to_end_trans)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T17:48:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9nxus/texas_governor_abbott_we_want_to_end_trans/"> <img alt="Texas Governor Abbott: “We Want To End” trans teachers. Abbott announced in a keynote speech to the Young Conservatives of Texas an intention to “end” trans and GNC teachers being able to teach" src="https://external-preview.redd.it/fUc4Hk5idfbHca3dkuQhVygPyJfMBwdVnJvc8mP9CNg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd6058edebd9d0f8f4732ed8832bad0c670595af" title="Texas Governor Abbott: “We Want To End” trans teachers. Abbott announced in a keynote speech to the Young Conservatives of Texas an intention to “end” trans and GNC teachers being able to teach" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> <span><a href="https://www.losangelesblade.com/2024/04/21/texas-governor-abbott-we-want-to-end-trans-teachers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/p
+
+## Ocasio-Cortez, Tlaib criticize ‘appalling’ suspension of Omar’s daughter at Columbia
+ - [https://www.reddit.com/r/politics/comments/1c9nd6h/ocasiocortez_tlaib_criticize_appalling_suspension](https://www.reddit.com/r/politics/comments/1c9nd6h/ocasiocortez_tlaib_criticize_appalling_suspension)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T17:23:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9nd6h/ocasiocortez_tlaib_criticize_appalling_suspension/"> <img alt="Ocasio-Cortez, Tlaib criticize ‘appalling’ suspension of Omar’s daughter at Columbia" src="https://external-preview.redd.it/KcykD6xvaALLyMZ8AzgH_j84yGveJ5SL_ELCZy8jFoU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e8395ae1e133b0efa771f367fe88ccf43384417" title="Ocasio-Cortez, Tlaib criticize ‘appalling’ suspension of Omar’s daughter at Columbia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheKeyPa"> /u/TheKeyPa </a> <br /> <span><a href="https://thehill.com/homenews/house/4605100-ocasio-cortez-tlaib-criticize-suspension-omars-daughter-at-columbia/amp/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9nd6h/ocasiocortez_tlaib_criticize_appalling_suspension/">[comments]</a></span> </td></tr></table>
+
+## Republican's Stunning Condemnation of GOP Colleagues: 'Scumbags'
+ - [https://www.reddit.com/r/politics/comments/1c9n4hi/republicans_stunning_condemnation_of_gop](https://www.reddit.com/r/politics/comments/1c9n4hi/republicans_stunning_condemnation_of_gop)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T17:13:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9n4hi/republicans_stunning_condemnation_of_gop/"> <img alt="Republican's Stunning Condemnation of GOP Colleagues: 'Scumbags'" src="https://external-preview.redd.it/nUbCmmK4VzPqrwQE-LylvYQYn10BCRxDfWTmyIg4rhI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3dcc050c1cffea113742195fd7bec2bfcc7b6394" title="Republican's Stunning Condemnation of GOP Colleagues: 'Scumbags'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.newsweek.com/tony-gonzales-stunning-condemnation-gop-colleagues-scumbags-1892582">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9n4hi/republicans_stunning_condemnation_of_gop/">[comments]</a></span> </td></tr></table>
+
+## UAW Triumphs in Tennessee Volkswagen Union Vote| “You all moved a mountain.”
+ - [https://www.reddit.com/r/politics/comments/1c9myvs/uaw_triumphs_in_tennessee_volkswagen_union_vote](https://www.reddit.com/r/politics/comments/1c9myvs/uaw_triumphs_in_tennessee_volkswagen_union_vote)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T17:06:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9myvs/uaw_triumphs_in_tennessee_volkswagen_union_vote/"> <img alt="UAW Triumphs in Tennessee Volkswagen Union Vote| “You all moved a mountain.”" src="https://external-preview.redd.it/RqYNX3HtxElvW-1En6PYKuRsJBcjctKcbodd7CCYJEs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a76939bb5c8b89ca3fce8cd8efbf2ac14cdef9d7" title="UAW Triumphs in Tennessee Volkswagen Union Vote| “You all moved a mountain.”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.motherjones.com/politics/2024/04/uaw-triumphs-in-tennessee-volkswagen-union-vote/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9myvs/uaw_triumphs_in_tennessee_volkswagen_union_vote/">[comments]</a></span> </td></tr></table>
+
+## Historic Number of Democratic Reps Vote Against Unconditional Aid to Israel
+ - [https://www.reddit.com/r/politics/comments/1c9mpwp/historic_number_of_democratic_reps_vote_against](https://www.reddit.com/r/politics/comments/1c9mpwp/historic_number_of_democratic_reps_vote_against)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T16:55:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9mpwp/historic_number_of_democratic_reps_vote_against/"> <img alt="Historic Number of Democratic Reps Vote Against Unconditional Aid to Israel" src="https://external-preview.redd.it/SDEnMUVhgoz9D2lRfOBbXRbO33oVFuGVjiIUrJU49Xc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf8bd01fdb0c58e57133a192ec8e2306f08225dd" title="Historic Number of Democratic Reps Vote Against Unconditional Aid to Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_May26_"> /u/_May26_ </a> <br /> <span><a href="https://www.commondreams.org/news/historic-number-dems-vote-no-israel">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9mpwp/historic_number_of_democratic_reps_vote_against/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Super PAC Has Been Footing His Legal Bills. Now It’s Running Out of Money.
+ - [https://www.reddit.com/r/politics/comments/1c9mi5w/trumps_super_pac_has_been_footing_his_legal_bills](https://www.reddit.com/r/politics/comments/1c9mi5w/trumps_super_pac_has_been_footing_his_legal_bills)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T16:46:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9mi5w/trumps_super_pac_has_been_footing_his_legal_bills/"> <img alt="Trump’s Super PAC Has Been Footing His Legal Bills. Now It’s Running Out of Money." src="https://external-preview.redd.it/vT7cyiJkvZJNwi3NiZSh8jjhAceA1okNyFtr4GxM5L0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a691679c05f2ef84cea4587e11fc96990249d12" title="Trump’s Super PAC Has Been Footing His Legal Bills. Now It’s Running Out of Money." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/trump-super-pac-legal-bills-1235008114/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9mi5w/trumps_super_pac_has_been_footing_his_legal_bills/">[comments]</a></span> </td></tr></table>
+
+## What happens if Trump gets convicted ahead of November?
+ - [https://www.reddit.com/r/politics/comments/1c9lwjd/what_happens_if_trump_gets_convicted_ahead_of](https://www.reddit.com/r/politics/comments/1c9lwjd/what_happens_if_trump_gets_convicted_ahead_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T16:20:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9lwjd/what_happens_if_trump_gets_convicted_ahead_of/"> <img alt="What happens if Trump gets convicted ahead of November?" src="https://external-preview.redd.it/LNKDIsS0EgzhW5Ors9gseFwvf9ddbBXs8VKzmA_ub7o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8665113684ae4783a66efe25f3a482f8d4e6e70" title="What happens if Trump gets convicted ahead of November?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/konorM"> /u/konorM </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4606107-donald-trump-hush-money-trial-stormy-daniels-conviction-election/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9lwjd/what_happens_if_trump_gets_convicted_ahead_of/">[comments]</a></span> </td></tr></table>
+
+## 'Moscow Marjorie’ Taylor Greene, GOP rebels defeated as House passes $61B in Ukraine aid package
+ - [https://www.reddit.com/r/politics/comments/1c9lpqg/moscow_marjorie_taylor_greene_gop_rebels_defeated](https://www.reddit.com/r/politics/comments/1c9lpqg/moscow_marjorie_taylor_greene_gop_rebels_defeated)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T16:12:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9lpqg/moscow_marjorie_taylor_greene_gop_rebels_defeated/"> <img alt="'Moscow Marjorie’ Taylor Greene, GOP rebels defeated as House passes $61B in Ukraine aid package" src="https://external-preview.redd.it/xu8C85B4uBNsreOSip-yLIBS6XFZTzb4ITCw9At_gCA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a23c029f725628d86456089084ed83cb1e13e324" title="'Moscow Marjorie’ Taylor Greene, GOP rebels defeated as House passes $61B in Ukraine aid package" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dmgctrl"> /u/dmgctrl </a> <br /> <span><a href="https://nypost.com/2024/04/20/us-news/house-approves-95b-in-military-aid-for-israel-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9lpqg/moscow_marjorie_taylor_greene_gop_rebels_defeated/">[comments]</a></span> </td></tr></table>
+
+## Democracy watchdog identifies 31 'election deniers' at AZ Legislature
+ - [https://www.reddit.com/r/politics/comments/1c9jbrh/democracy_watchdog_identifies_31_election_deniers](https://www.reddit.com/r/politics/comments/1c9jbrh/democracy_watchdog_identifies_31_election_deniers)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T14:33:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9jbrh/democracy_watchdog_identifies_31_election_deniers/"> <img alt="Democracy watchdog identifies 31 'election deniers' at AZ Legislature" src="https://external-preview.redd.it/bG_rv5DlOsitAQSVKR-mQ19q0Dx5yq8CCYjqgw66KZc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb2a948138c93ee6c27aab52326f028aeb8923f4" title="Democracy watchdog identifies 31 'election deniers' at AZ Legislature" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hunter15991"> /u/hunter15991 </a> <br /> <span><a href="https://www.12news.com/article/news/politics/elections/democracy-watchdog-identifies-31-election-deniers-at-az-legislature/75-ad0bf16c-2899-46ad-b95a-31845cfba0a8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9jbrh/democracy_watchdog_identifies_31_election_deniers/">[comments]</a></span> </td></tr></table>
+
+## A rotten week for MAGA Republicans’ feeble stunts
+ - [https://www.reddit.com/r/politics/comments/1c9izke/a_rotten_week_for_maga_republicans_feeble_stunts](https://www.reddit.com/r/politics/comments/1c9izke/a_rotten_week_for_maga_republicans_feeble_stunts)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T14:18:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9izke/a_rotten_week_for_maga_republicans_feeble_stunts/"> <img alt="A rotten week for MAGA Republicans’ feeble stunts" src="https://external-preview.redd.it/kRKEAjZ35u3JzeItdOY0vEJsiQ3QzbKCcLCdtrIRLqo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6709577f7cb2bbe49cd6b210a11f60fe30cd8f9" title="A rotten week for MAGA Republicans’ feeble stunts" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nutritionvegan"> /u/nutritionvegan </a> <br /> <span><a href="https://www.washingtonpost.com/opinions/2024/04/21/maga-antics-fail-mayorkas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9izke/a_rotten_week_for_maga_republicans_feeble_stunts/">[comments]</a></span> </td></tr></table>
+
+## At Trump’s N.Y. trial, the jury pool spoke, and he had to listen
+ - [https://www.reddit.com/r/politics/comments/1c9ivl4/at_trumps_ny_trial_the_jury_pool_spoke_and_he_had](https://www.reddit.com/r/politics/comments/1c9ivl4/at_trumps_ny_trial_the_jury_pool_spoke_and_he_had)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T14:13:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9ivl4/at_trumps_ny_trial_the_jury_pool_spoke_and_he_had/"> <img alt="At Trump’s N.Y. trial, the jury pool spoke, and he had to listen" src="https://external-preview.redd.it/IMl5ea12IcN9F5EjG7fgoQ3k-borfH2t6mp6nlItYoM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=526f47c4dee0b9c5d850ba9b7bbc626aa81f9fcf" title="At Trump’s N.Y. trial, the jury pool spoke, and he had to listen" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LodossDX"> /u/LodossDX </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/04/21/trump-trial-jury-political-opinions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9ivl4/at_trumps_ny_trial_the_jury_pool_spoke_and_he_had/">[comments]</a></span> </td></tr></table>
+
+## RFK Jr. candidacy hurts Trump more than Biden, NBC News poll finds
+ - [https://www.reddit.com/r/politics/comments/1c9ithp/rfk_jr_candidacy_hurts_trump_more_than_biden_nbc](https://www.reddit.com/r/politics/comments/1c9ithp/rfk_jr_candidacy_hurts_trump_more_than_biden_nbc)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T14:10:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9ithp/rfk_jr_candidacy_hurts_trump_more_than_biden_nbc/"> <img alt="RFK Jr. candidacy hurts Trump more than Biden, NBC News poll finds" src="https://external-preview.redd.it/6e361MfnCVo9qL9S_89BUIwZYQasmKTdOQCZBXzWIXM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe0c3ccf0d23fd5e0da38d00a011fdd81ec5fa76" title="RFK Jr. candidacy hurts Trump more than Biden, NBC News poll finds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br /> <span><a href="https://www.nbcnews.com/politics/2024-election/rfk-jr-candidacy-hurts-trump-biden-nbc-news-poll-finds-rcna148536">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9ithp/rfk_jr_candidacy_hurts_trump_more_than_biden_nbc/">[comments]</a></span> </td></tr></table>
+
+## Chaos and division erupt at Washington Republican convention in Spokane
+ - [https://www.reddit.com/r/politics/comments/1c9ic7c/chaos_and_division_erupt_at_washington_republican](https://www.reddit.com/r/politics/comments/1c9ic7c/chaos_and_division_erupt_at_washington_republican)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T13:49:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9ic7c/chaos_and_division_erupt_at_washington_republican/"> <img alt="Chaos and division erupt at Washington Republican convention in Spokane" src="https://external-preview.redd.it/xKc8PYq4CEVcNAOr7zqs8L0wqrCT-8mQqa6hJYWQJrA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=786ea958785cfacb869aec2cb1fa4fbe955372b8" title="Chaos and division erupt at Washington Republican convention in Spokane" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OregonTripleBeam"> /u/OregonTripleBeam </a> <br /> <span><a href="https://www.opb.org/article/2024/04/20/chaos-erupts-at-washington-gop-convention-in-spokane/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9ic7c/chaos_and_division_erupt_at_washington_republican/">[comments]</a></span> </td></tr></table>
+
+## I'm a doctor from Tennessee who survived an eptopic pregnancy, but others aren't so lucky
+ - [https://www.reddit.com/r/politics/comments/1c9i94r/im_a_doctor_from_tennessee_who_survived_an](https://www.reddit.com/r/politics/comments/1c9i94r/im_a_doctor_from_tennessee_who_survived_an)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T13:45:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9i94r/im_a_doctor_from_tennessee_who_survived_an/"> <img alt="I'm a doctor from Tennessee who survived an eptopic pregnancy, but others aren't so lucky" src="https://external-preview.redd.it/riG9NtHpnRredbLlSf_xdwCmg9XAAbz-Xd0Q9Ug3ypw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=92a351be92bc7e92e0e068705f84128c81d6c628" title="I'm a doctor from Tennessee who survived an eptopic pregnancy, but others aren't so lucky" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FreeChickenDinner"> /u/FreeChickenDinner </a> <br /> <span><a href="https://www.tennessean.com/story/opinion/contributors/2024/04/21/abortion-in-tennessee-miscarriages-eptopic-pregnancy-endanger-women/73372886007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9i94r/im_a_doctor_from_tennessee_who_survived_an/">[comments]</a></span> </td></tr></table>
+
+## Colorado organizers fail to gather enough signatures to put anti-abortion measure on the ballot
+ - [https://www.reddit.com/r/politics/comments/1c9i7at/colorado_organizers_fail_to_gather_enough](https://www.reddit.com/r/politics/comments/1c9i7at/colorado_organizers_fail_to_gather_enough)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T13:42:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9i7at/colorado_organizers_fail_to_gather_enough/"> <img alt="Colorado organizers fail to gather enough signatures to put anti-abortion measure on the ballot" src="https://external-preview.redd.it/qqiITX0bBp_b0yK2Qm5k1wsuKzxL_MhPlKQwhsucpMg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba95f65dc44ba865688a0a73a72ccb68636168e6" title="Colorado organizers fail to gather enough signatures to put anti-abortion measure on the ballot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FreeChickenDinner"> /u/FreeChickenDinner </a> <br /> <span><a href="https://www.cbsnews.com/news/colorado-organizers-signatures-anti-abortion-measure-on-the-ballot/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9i7at/colorado_organizers_fail_to_gather_enough/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian and Western Leaders Laud US Aid Package While the Kremlin Warns of 'Further Ruin'
+ - [https://www.reddit.com/r/politics/comments/1c9h5ua/ukrainian_and_western_leaders_laud_us_aid_package](https://www.reddit.com/r/politics/comments/1c9h5ua/ukrainian_and_western_leaders_laud_us_aid_package)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T12:52:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9h5ua/ukrainian_and_western_leaders_laud_us_aid_package/"> <img alt="Ukrainian and Western Leaders Laud US Aid Package While the Kremlin Warns of 'Further Ruin'" src="https://external-preview.redd.it/tR7fb8IzzT1Sw_zV1BBf4I6_Tupn8_8xaINe1s8I5e8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1b36437eb809790611c26875f330462c27c6f5de" title="Ukrainian and Western Leaders Laud US Aid Package While the Kremlin Warns of 'Further Ruin'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pasta-cocoa"> /u/pasta-cocoa </a> <br /> <span><a href="https://www.military.com/daily-news/2024/04/21/ukrainian-and-western-leaders-laud-us-aid-package-while-kremlin-warns-of-further-ruin.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9h5ua/ukrainian_and_western_leaders_laud_us_aid_package/">[comments]</a></span> </td></tr></table>
+
+## Supreme Court takes on Donald Trump, abortion bans, homeless camps in blockbuster week
+ - [https://www.reddit.com/r/politics/comments/1c9h09k/supreme_court_takes_on_donald_trump_abortion_bans](https://www.reddit.com/r/politics/comments/1c9h09k/supreme_court_takes_on_donald_trump_abortion_bans)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T12:45:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9h09k/supreme_court_takes_on_donald_trump_abortion_bans/"> <img alt="Supreme Court takes on Donald Trump, abortion bans, homeless camps in blockbuster week" src="https://external-preview.redd.it/ji5YeYWYFQTZog1lfRJEdQK6L5ZtHTmSxv7l5NwBfI4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aead3315bd5bb180b2f351b15bc0386506cc596f" title="Supreme Court takes on Donald Trump, abortion bans, homeless camps in blockbuster week" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/davster39"> /u/davster39 </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/2024/04/21/supreme-court-trump-immunity-abortion-immigration/73376412007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9h09k/supreme_court_takes_on_donald_trump_abortion_bans/">[comments]</a></span> </td></tr></table>
+
+## Ukraine and its partners express relief as US aid moves ahead
+ - [https://www.reddit.com/r/politics/comments/1c9gy6i/ukraine_and_its_partners_express_relief_as_us_aid](https://www.reddit.com/r/politics/comments/1c9gy6i/ukraine_and_its_partners_express_relief_as_us_aid)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T12:41:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9gy6i/ukraine_and_its_partners_express_relief_as_us_aid/"> <img alt="Ukraine and its partners express relief as US aid moves ahead" src="https://external-preview.redd.it/Am-iv8_mS366HIDh2BCyE0fnzqDaoxSX3BjXeeRpStQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=82775d7ca93406522ea891fef273b71efdf3e8af" title="Ukraine and its partners express relief as US aid moves ahead" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pasta-cocoa"> /u/pasta-cocoa </a> <br /> <span><a href="https://www.stripes.com/theaters/europe/2024-04-20/ukraine-relief-us-aid-13612042.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9gy6i/ukraine_and_its_partners_express_relief_as_us_aid/">[comments]</a></span> </td></tr></table>
+
+## How Mike Johnson Got to ‘Yes’ on Aid to Ukraine
+ - [https://www.reddit.com/r/politics/comments/1c9gwhf/how_mike_johnson_got_to_yes_on_aid_to_ukraine](https://www.reddit.com/r/politics/comments/1c9gwhf/how_mike_johnson_got_to_yes_on_aid_to_ukraine)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T12:39:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9gwhf/how_mike_johnson_got_to_yes_on_aid_to_ukraine/"> <img alt="How Mike Johnson Got to ‘Yes’ on Aid to Ukraine" src="https://external-preview.redd.it/EiGBrULT_2gNJJf_8HhFmcf4EFxiKssSJa2Qc8ZIvaY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=431b27e38bebcaa652cc0752241c8a92c8b6765a" title="How Mike Johnson Got to ‘Yes’ on Aid to Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alone-Competition-77"> /u/Alone-Competition-77 </a> <br /> <span><a href="https://www.nytimes.com/2024/04/21/us/politics/mike-johnson-turnaround.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9gwhf/how_mike_johnson_got_to_yes_on_aid_to_ukraine/">[comments]</a></span> </td></tr></table>
+
+## What the world's media makes of Trump going on trial
+ - [https://www.reddit.com/r/politics/comments/1c9f02v/what_the_worlds_media_makes_of_trump_going_on](https://www.reddit.com/r/politics/comments/1c9f02v/what_the_worlds_media_makes_of_trump_going_on)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T10:50:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9f02v/what_the_worlds_media_makes_of_trump_going_on/"> <img alt="What the world's media makes of Trump going on trial" src="https://external-preview.redd.it/2Irp2YpBphtj1CoXMZ6zajP98-pgUdCq2g_CUk6yhbA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d19ed5972e0db3e81acc570da8fe5c5f581b2d5" title="What the world's media makes of Trump going on trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bakhesh"> /u/bakhesh </a> <br /> <span><a href="https://www.bbc.com/news/world-us-canada-68848276">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9f02v/what_the_worlds_media_makes_of_trump_going_on/">[comments]</a></span> </td></tr></table>
+
+## Residents push for renaming of Trump Plaza to disassociate from ex-president
+ - [https://www.reddit.com/r/politics/comments/1c9ehod/residents_push_for_renaming_of_trump_plaza_to](https://www.reddit.com/r/politics/comments/1c9ehod/residents_push_for_renaming_of_trump_plaza_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T10:16:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9ehod/residents_push_for_renaming_of_trump_plaza_to/"> <img alt="Residents push for renaming of Trump Plaza to disassociate from ex-president" src="https://external-preview.redd.it/JVtYX1rXt2rvc9khpdwIoEWcpmtqpYesjfi5HtE4Yk0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=727f35564d271d32730a31375103f91e9b6020e2" title="Residents push for renaming of Trump Plaza to disassociate from ex-president" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bakhesh"> /u/bakhesh </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/apr/21/trump-plaza-rename-real-estate-value">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9ehod/residents_push_for_renaming_of_trump_plaza_to/">[comments]</a></span> </td></tr></table>
+
+## House Democrat introduces bill aimed at Trump that would strip Secret Service protection from felons
+ - [https://www.reddit.com/r/politics/comments/1c9akzh/house_democrat_introduces_bill_aimed_at_trump](https://www.reddit.com/r/politics/comments/1c9akzh/house_democrat_introduces_bill_aimed_at_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T05:52:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9akzh/house_democrat_introduces_bill_aimed_at_trump/"> <img alt="House Democrat introduces bill aimed at Trump that would strip Secret Service protection from felons" src="https://external-preview.redd.it/E9j7JnUm7vnjJbv7RpZk7rWGmMpf8f3PEqnfDg_sLro.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3188a70aea7e39945019cb3f7988769908930194" title="House Democrat introduces bill aimed at Trump that would strip Secret Service protection from felons" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tomorrow509"> /u/tomorrow509 </a> <br /> <span><a href="https://nypost.com/2024/04/19/us-news/house-democrat-introduces-bill-aimed-at-trump-that-would-strip-secret-service-protection-from-felons/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9akzh/house_democrat_introduces_bill_aimed_at_trump/">[comments]</a></span> </td></tr></table>
+
+## Proud Boys appear at Trump rally, drawing condemnation from Biden
+ - [https://www.reddit.com/r/politics/comments/1c9a0v8/proud_boys_appear_at_trump_rally_drawing](https://www.reddit.com/r/politics/comments/1c9a0v8/proud_boys_appear_at_trump_rally_drawing)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T05:17:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9a0v8/proud_boys_appear_at_trump_rally_drawing/"> <img alt="Proud Boys appear at Trump rally, drawing condemnation from Biden" src="https://external-preview.redd.it/gSWdMzHTDlP6WRXD22MAEWA2JjsDOxLxjqdig5iL5fY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=975292db4cb914bacbf887a06d93b56c755fcc83" title="Proud Boys appear at Trump rally, drawing condemnation from Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RichKatz"> /u/RichKatz </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/04/20/trump-rally-proud-boys-north-carolina/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzEzNTg1NjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE0OTY3OTk5LCJpYXQiOjE3MTM1ODU2MDAsImp0aSI6IjA5NDkwZjQ1LTM3ZjYtNGE2MC1hODc0LTk0MjA3ZGI3ODIxZCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzA0LzIwL3RydW1wLXJhbGx5LXByb3VkLWJve
+
+## Trump Slows Campaign Spending as He Tries to Close Cash Gap With Biden
+ - [https://www.reddit.com/r/politics/comments/1c970vi/trump_slows_campaign_spending_as_he_tries_to](https://www.reddit.com/r/politics/comments/1c970vi/trump_slows_campaign_spending_as_he_tries_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T02:20:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c970vi/trump_slows_campaign_spending_as_he_tries_to/"> <img alt="Trump Slows Campaign Spending as He Tries to Close Cash Gap With Biden " src="https://external-preview.redd.it/He8JG5zAUJzidAAQFqnkgShf-fxFf5fpZmv3YPfIpwI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=959b6403630b79a88a3ebc7ec68c51d10c9486b9" title="Trump Slows Campaign Spending as He Tries to Close Cash Gap With Biden " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bathewan"> /u/bathewan </a> <br /> <span><a href="https://www.nytimes.com/2024/04/20/us/politics/trump-biden-spending-money.html?unlocked_article_code=1.mE0.n3WE.Rlh_VjN3Ergh&amp;smid=url-share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c970vi/trump_slows_campaign_spending_as_he_tries_to/">[comments]</a></span> </td></tr></table>
+
+## Trump’s PAC has spent millions on his legal fees. It might be running out of money.
+ - [https://www.reddit.com/r/politics/comments/1c96isj/trumps_pac_has_spent_millions_on_his_legal_fees](https://www.reddit.com/r/politics/comments/1c96isj/trumps_pac_has_spent_millions_on_his_legal_fees)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T01:52:45+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/wenchette"> /u/wenchette </a> <br /> <span><a href="https://www.politico.com/news/2024/04/20/trump-legal-fees-spending-00153508">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c96isj/trumps_pac_has_spent_millions_on_his_legal_fees/">[comments]</a></span>
+
+## Trump makes new plea for immunity ahead of Supreme Court case
+ - [https://www.reddit.com/r/politics/comments/1c95wp3/trump_makes_new_plea_for_immunity_ahead_of](https://www.reddit.com/r/politics/comments/1c95wp3/trump_makes_new_plea_for_immunity_ahead_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-21T01:19:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c95wp3/trump_makes_new_plea_for_immunity_ahead_of/"> <img alt="Trump makes new plea for immunity ahead of Supreme Court case" src="https://external-preview.redd.it/E6xtcZnhBE1yuK_MENaVzHytKF_LD6hSG29wPmu3zZk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=796efd1cee97f07a4cd2e88b3e3d8759becbd0d1" title="Trump makes new plea for immunity ahead of Supreme Court case" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/how_much_2"> /u/how_much_2 </a> <br /> <span><a href="https://thehill.com/regulation/court-battles/4608325-trump-new-plea-immunity-ahead-supreme-court-case/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c95wp3/trump_makes_new_plea_for_immunity_ahead_of/">[comments]</a></span> </td></tr></table>
+
