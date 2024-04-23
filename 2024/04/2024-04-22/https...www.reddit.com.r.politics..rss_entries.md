@@ -1,0 +1,282 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Trump tried to 'corrupt' the 2016 election, hush money prosecutor alleges in opening statement
+ - [https://www.reddit.com/r/politics/comments/1can0vw/trump_tried_to_corrupt_the_2016_election_hush](https://www.reddit.com/r/politics/comments/1can0vw/trump_tried_to_corrupt_the_2016_election_hush)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T21:45:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1can0vw/trump_tried_to_corrupt_the_2016_election_hush/"> <img alt="Trump tried to 'corrupt' the 2016 election, hush money prosecutor alleges in opening statement" src="https://external-preview.redd.it/WdzzKLuznqMoePTnnG9guqTUbgL9q7IBojL7Wch4XOE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0b57778e98283e701321d81fd075783418d5a63" title="Trump tried to 'corrupt' the 2016 election, hush money prosecutor alleges in opening statement" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Oleg101"> /u/Oleg101 </a> <br /> <span><a href="https://www.pbs.org/newshour/politics/trump-tried-to-corrupt-the-2016-election-hush-money-prosecutor-alleges-in-opening-statement">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1can0vw/trump_tried_to_corrupt_the_2016_election_hush/">[comments]</a></span> </td></tr></table>
+
+## Conservatives Quickly Turn Against “Idiot” Marjorie Taylor Greene
+ - [https://www.reddit.com/r/politics/comments/1cakk93/conservatives_quickly_turn_against_idiot_marjorie](https://www.reddit.com/r/politics/comments/1cakk93/conservatives_quickly_turn_against_idiot_marjorie)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T19:58:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cakk93/conservatives_quickly_turn_against_idiot_marjorie/"> <img alt="Conservatives Quickly Turn Against “Idiot” Marjorie Taylor Greene" src="https://external-preview.redd.it/EIkOuKNGzMzCvptsebECyqMP6e5K3GQsSqTCArg_TVo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=08946ac59368e07e335842c5055628482cefe224" title="Conservatives Quickly Turn Against “Idiot” Marjorie Taylor Greene" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ixz72"> /u/Ixz72 </a> <br /> <span><a href="https://newrepublic.com/post/180862/conservatives-turn-marjorie-taylor-greene-ukraine-russia">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cakk93/conservatives_quickly_turn_against_idiot_marjorie/">[comments]</a></span> </td></tr></table>
+
+## Biden administration issues new rule to protect privacy of those seeking reproductive health care: ‘No one should have to live in fear’
+ - [https://www.reddit.com/r/politics/comments/1caixyx/biden_administration_issues_new_rule_to_protect](https://www.reddit.com/r/politics/comments/1caixyx/biden_administration_issues_new_rule_to_protect)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T18:56:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1caixyx/biden_administration_issues_new_rule_to_protect/"> <img alt="Biden administration issues new rule to protect privacy of those seeking reproductive health care: ‘No one should have to live in fear’" src="https://external-preview.redd.it/cUyWSmEOcn6njaimr1VzdnvwmC9R0t8f8AOXDhKM410.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6021b598e58e4e90f7d1fc7d2d3fa39cce25c4a" title="Biden administration issues new rule to protect privacy of those seeking reproductive health care: ‘No one should have to live in fear’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cnn"> /u/cnn </a> <br /> <span><a href="https://www.cnn.com/2024/04/22/health/biden-administration-new-rule-reproductive-health-care-privacy/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1caixyx/biden_administration_issues_new_rule_to_protect/">[comments]</a></span> </td></tr></
+
+## Trump Calls for Less Courthouse Security, More MAGA Protests
+ - [https://www.reddit.com/r/politics/comments/1caikin/trump_calls_for_less_courthouse_security_more](https://www.reddit.com/r/politics/comments/1caikin/trump_calls_for_less_courthouse_security_more)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T18:41:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1caikin/trump_calls_for_less_courthouse_security_more/"> <img alt="Trump Calls for Less Courthouse Security, More MAGA Protests" src="https://external-preview.redd.it/Ya2jQHBjlVWtbOCZS-LXcAueIqfsaIa6ih68pJO96Qg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3776e2a042588f66162f1e85ebef57d40998bf5b" title="Trump Calls for Less Courthouse Security, More MAGA Protests" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/trump-nypd-relax-security-hush-money-trial-1235008449/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1caikin/trump_calls_for_less_courthouse_security_more/">[comments]</a></span> </td></tr></table>
+
+## DeSantis has one of the highest governor disapproval ratings, poll finds
+ - [https://www.reddit.com/r/politics/comments/1caigh7/desantis_has_one_of_the_highest_governor](https://www.reddit.com/r/politics/comments/1caigh7/desantis_has_one_of_the_highest_governor)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T18:36:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1caigh7/desantis_has_one_of_the_highest_governor/"> <img alt="DeSantis has one of the highest governor disapproval ratings, poll finds" src="https://external-preview.redd.it/yycXY8DfL3tyZWCqs7c_9I9GY86nhNvFX6FrnGKRUKE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df66b2cf4b6033f70d8b075bd626d8aa30200b21" title="DeSantis has one of the highest governor disapproval ratings, poll finds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Obversa"> /u/Obversa </a> <br /> <span><a href="https://www.tampabay.com/news/florida-politics/2024/04/22/desantis-has-one-highest-governor-disapproval-ratings-poll-finds/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1caigh7/desantis_has_one_of_the_highest_governor/">[comments]</a></span> </td></tr></table>
+
+## Supreme Court declines to hear Kari Lake voting machine lawsuit
+ - [https://www.reddit.com/r/politics/comments/1cahdms/supreme_court_declines_to_hear_kari_lake_voting](https://www.reddit.com/r/politics/comments/1cahdms/supreme_court_declines_to_hear_kari_lake_voting)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T17:55:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cahdms/supreme_court_declines_to_hear_kari_lake_voting/"> <img alt="Supreme Court declines to hear Kari Lake voting machine lawsuit" src="https://external-preview.redd.it/knt4sAR-iQxJH_3mrSmEHjnlwNU0lMn6Iuwkzt3BkWU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=123785efc8f23128fb3a76887065ee2fc5f02081" title="Supreme Court declines to hear Kari Lake voting machine lawsuit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DeidaraPwnz"> /u/DeidaraPwnz </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4611220-supreme-court-declines-to-hear-kari-lake-voting-machine-lawsuit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cahdms/supreme_court_declines_to_hear_kari_lake_voting/">[comments]</a></span> </td></tr></table>
+
+## Hush money isn't illegal, it's 'democracy,' Trump lawyer says in defiant trial opening statements
+ - [https://www.reddit.com/r/politics/comments/1cagtx1/hush_money_isnt_illegal_its_democracy_trump](https://www.reddit.com/r/politics/comments/1cagtx1/hush_money_isnt_illegal_its_democracy_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T17:32:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cagtx1/hush_money_isnt_illegal_its_democracy_trump/"> <img alt="Hush money isn't illegal, it's 'democracy,' Trump lawyer says in defiant trial opening statements" src="https://external-preview.redd.it/RtSQauYryyGaZyMr36pZ5NXQUJ0OLVDt45UNydbJn04.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3dbd4017903120aa1b87a549b84d56556e0f3bf" title="Hush money isn't illegal, it's 'democracy,' Trump lawyer says in defiant trial opening statements" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/habrotonum"> /u/habrotonum </a> <br /> <span><a href="https://www.businessinsider.com/donald-trump-hush-money-trial-kicks-off-fiery-da-openings-2024-4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cagtx1/hush_money_isnt_illegal_its_democracy_trump/">[comments]</a></span> </td></tr></table>
+
+## Some migrants flown by DeSantis to Martha’s Vineyard qualify for victim visas, feds say
+ - [https://www.reddit.com/r/politics/comments/1cafcmb/some_migrants_flown_by_desantis_to_marthas](https://www.reddit.com/r/politics/comments/1cafcmb/some_migrants_flown_by_desantis_to_marthas)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T16:34:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cafcmb/some_migrants_flown_by_desantis_to_marthas/"> <img alt="Some migrants flown by DeSantis to Martha’s Vineyard qualify for victim visas, feds say" src="https://external-preview.redd.it/AeMhtsS2GxcwtowORO9fu3lmuxdKxuK8zsKUTuwZ7fQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ce3f0315b0f108554cf934d87bc53d90af346b0" title="Some migrants flown by DeSantis to Martha’s Vineyard qualify for victim visas, feds say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Old_Pen9843"> /u/Old_Pen9843 </a> <br /> <span><a href="https://www.miamiherald.com/news/politics-government/state-politics/article287896095.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cafcmb/some_migrants_flown_by_desantis_to_marthas/">[comments]</a></span> </td></tr></table>
+
+## Poll shows Gov. Sarah Huckabee Sanders’ Arkansas approval rating steadily decreasing
+ - [https://www.reddit.com/r/politics/comments/1caf24t/poll_shows_gov_sarah_huckabee_sanders_arkansas](https://www.reddit.com/r/politics/comments/1caf24t/poll_shows_gov_sarah_huckabee_sanders_arkansas)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T16:22:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1caf24t/poll_shows_gov_sarah_huckabee_sanders_arkansas/"> <img alt="Poll shows Gov. Sarah Huckabee Sanders’ Arkansas approval rating steadily decreasing" src="https://external-preview.redd.it/DHMCX63SHS-FIIbj5KXa8h84s2UK3rD-ulsclK5ORC4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c740593e694c598c1a3a16aa8aa35a9147c0577" title="Poll shows Gov. Sarah Huckabee Sanders’ Arkansas approval rating steadily decreasing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/throwaway5272"> /u/throwaway5272 </a> <br /> <span><a href="https://www.kark.com/news/politics/poll-shows-gov-sarah-huckabee-sanders-arkansas-approval-rating-steadily-decreasing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1caf24t/poll_shows_gov_sarah_huckabee_sanders_arkansas/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump: The Ultimate Con Artist Gets Judged | It can’t be easy for a former president to be put in his place, but that’s exactly what’s happening.
+ - [https://www.reddit.com/r/politics/comments/1caeiwh/donald_trump_the_ultimate_con_artist_gets_judged](https://www.reddit.com/r/politics/comments/1caeiwh/donald_trump_the_ultimate_con_artist_gets_judged)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T16:01:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1caeiwh/donald_trump_the_ultimate_con_artist_gets_judged/"> <img alt="Donald Trump: The Ultimate Con Artist Gets Judged | It can’t be easy for a former president to be put in his place, but that’s exactly what’s happening." src="https://external-preview.redd.it/pUaF7pR6476Z2Y7VDuhcgM4GiMyjFpGX4dOI95Ni5pk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0059581ce1f6ff5d8a5629ae080903102ec4b079" title="Donald Trump: The Ultimate Con Artist Gets Judged | It can’t be easy for a former president to be put in his place, but that’s exactly what’s happening." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sachyriel"> /u/Sachyriel </a> <br /> <span><a href="https://abovethelaw.com/2024/04/donald-trump-the-ultimate-con-artist-gets-judged/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1caeiwh/donald_trump_the_ultimate_con_artist_gets_judged/">[comments]</a></
+
+## ‘Election Fraud, Pure and Simple’: Prosecutors Lay Out Criminal Case Against Trump
+ - [https://www.reddit.com/r/politics/comments/1cadwid/election_fraud_pure_and_simple_prosecutors_lay](https://www.reddit.com/r/politics/comments/1cadwid/election_fraud_pure_and_simple_prosecutors_lay)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T15:36:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cadwid/election_fraud_pure_and_simple_prosecutors_lay/"> <img alt="‘Election Fraud, Pure and Simple’: Prosecutors Lay Out Criminal Case Against Trump" src="https://external-preview.redd.it/9c1T8ow33-q4SuJugYDGHe-NLp6NvDVVK3RXA5jLxbo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8bcd37d653d827dc7ad6722930275695aefc7171" title="‘Election Fraud, Pure and Simple’: Prosecutors Lay Out Criminal Case Against Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/trump-hush-money-trail-opening-statements-1235008306/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cadwid/election_fraud_pure_and_simple_prosecutors_lay/">[comments]</a></span> </td></tr></table>
+
+## Trump Issues Dangerous Warning to Followers Before Hush-Money Trial | The former president urged his supporters to protest on his behalf.
+ - [https://www.reddit.com/r/politics/comments/1cadcyg/trump_issues_dangerous_warning_to_followers](https://www.reddit.com/r/politics/comments/1cadcyg/trump_issues_dangerous_warning_to_followers)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T15:13:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cadcyg/trump_issues_dangerous_warning_to_followers/"> <img alt="Trump Issues Dangerous Warning to Followers Before Hush-Money Trial | The former president urged his supporters to protest on his behalf. " src="https://external-preview.redd.it/MGxyZg4ReeYlPdc0RD4XAOTdru031cbY5cZQhfzH2AM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=917b35a47d2c1660250189e8b96c6801e82af021" title="Trump Issues Dangerous Warning to Followers Before Hush-Money Trial | The former president urged his supporters to protest on his behalf. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenewrepublic"> /u/thenewrepublic </a> <br /> <span><a href="https://newrepublic.com/post/180854/trump-warning-followers-hush-money-trial">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cadcyg/trump_issues_dangerous_warning_to_followers/">[comments]</a></span> </td></tr></table>
+
+## The GOP’s Worst Fears About the End of Roe v. Wade Have Come True
+ - [https://www.reddit.com/r/politics/comments/1cacv4e/the_gops_worst_fears_about_the_end_of_roe_v_wade](https://www.reddit.com/r/politics/comments/1cacv4e/the_gops_worst_fears_about_the_end_of_roe_v_wade)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T14:54:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cacv4e/the_gops_worst_fears_about_the_end_of_roe_v_wade/"> <img alt="The GOP’s Worst Fears About the End of Roe v. Wade Have Come True" src="https://external-preview.redd.it/nDo--VlW4X6ZmJYEuGmPkh53vuuYm69Sj5unIgZ_Ypk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3251a9e2a4c37c18f5de74195275990533559a59" title="The GOP’s Worst Fears About the End of Roe v. Wade Have Come True" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mymomknowsyourmom"> /u/mymomknowsyourmom </a> <br /> <span><a href="https://newrepublic.com/article/180812/gops-worst-fears-end-roe-v-wade-come-true">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cacv4e/the_gops_worst_fears_about_the_end_of_roe_v_wade/">[comments]</a></span> </td></tr></table>
+
+## "The alternate reality Trump lives in is crumbling" with first criminal trial: ex-federal prosecutor "I think that Donald Trump is probably trying to get himself thrown into prison"
+ - [https://www.reddit.com/r/politics/comments/1cacqny/the_alternate_reality_trump_lives_in_is_crumbling](https://www.reddit.com/r/politics/comments/1cacqny/the_alternate_reality_trump_lives_in_is_crumbling)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T14:49:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cacqny/the_alternate_reality_trump_lives_in_is_crumbling/"> <img alt="&quot;The alternate reality Trump lives in is crumbling&quot; with first criminal trial: ex-federal prosecutor &quot;I think that Donald Trump is probably trying to get himself thrown into prison&quot;" src="https://external-preview.redd.it/8kOWjfa1OgFzkx80bGL8eJgpTI-s7mg4WOcQRNHq8DI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba86ec58375ad30ffd0901f5b85f623a145837f8" title="&quot;The alternate reality Trump lives in is crumbling&quot; with first criminal trial: ex-federal prosecutor &quot;I think that Donald Trump is probably trying to get himself thrown into prison&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Arrest_The_President"> /u/Arrest_The_President </a> <br /> <span><a href="https://www.salon.com/2024/04/22/the-alternate-reality-lives-in-is-crumbling-with-first-criminal-trial-ex-prosecutor/">
+
+## John Legend says Trump believes ‘to his core’ that ‘Black people are inferior’
+ - [https://www.reddit.com/r/politics/comments/1cacajq/john_legend_says_trump_believes_to_his_core_that](https://www.reddit.com/r/politics/comments/1cacajq/john_legend_says_trump_believes_to_his_core_that)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T14:30:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cacajq/john_legend_says_trump_believes_to_his_core_that/"> <img alt="John Legend says Trump believes ‘to his core’ that ‘Black people are inferior’" src="https://external-preview.redd.it/ewikm5IPGzwEfCyeqss-DyJqQxJgxFnOEpdtZ3I9xys.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a56368a4dde2aa35b41ff3f6a89617608248aa37" title="John Legend says Trump believes ‘to his core’ that ‘Black people are inferior’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/konorM"> /u/konorM </a> <br /> <span><a href="https://thehill.com/blogs/in-the-know/4611098-john-legend-trump-black-people-racist/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cacajq/john_legend_says_trump_believes_to_his_core_that/">[comments]</a></span> </td></tr></table>
+
+## Biden marks Earth Day with $7bn ‘solar for all’ investment amid week of climate action
+ - [https://www.reddit.com/r/politics/comments/1cabtme/biden_marks_earth_day_with_7bn_solar_for_all](https://www.reddit.com/r/politics/comments/1cabtme/biden_marks_earth_day_with_7bn_solar_for_all)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T14:12:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cabtme/biden_marks_earth_day_with_7bn_solar_for_all/"> <img alt="Biden marks Earth Day with $7bn ‘solar for all’ investment amid week of climate action" src="https://external-preview.redd.it/wSfJuOU10mJbfyCT5rDDVmkUIy7Q4CDHw_YXJXKucCU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a8faac85e4595f2a8e277afd0f3ce8ad58bce36" title="Biden marks Earth Day with $7bn ‘solar for all’ investment amid week of climate action" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/apr/22/biden-earth-day-solar-investment-climate-actions">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cabtme/biden_marks_earth_day_with_7bn_solar_for_all/">[comments]</a></span> </td></tr></table>
+
+## Joe Biden Has Stunning 9-Point Lead Over Donald Trump Among Actual Voters
+ - [https://www.reddit.com/r/politics/comments/1cabpby/joe_biden_has_stunning_9point_lead_over_donald](https://www.reddit.com/r/politics/comments/1cabpby/joe_biden_has_stunning_9point_lead_over_donald)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T14:07:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cabpby/joe_biden_has_stunning_9point_lead_over_donald/"> <img alt="Joe Biden Has Stunning 9-Point Lead Over Donald Trump Among Actual Voters" src="https://external-preview.redd.it/_FOlfaYi1V6iZXTW9kGQHJb3g8zZx_vxGhzAolmnl4w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2047586c760fb1de706dd4bbb14f17b68d42809" title="Joe Biden Has Stunning 9-Point Lead Over Donald Trump Among Actual Voters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/greenbluetomorrow"> /u/greenbluetomorrow </a> <br /> <span><a href="https://www.newsweek.com/joe-biden-leads-donald-trump-poll-actual-voters-2024-presidential-election-1892723">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cabpby/joe_biden_has_stunning_9point_lead_over_donald/">[comments]</a></span> </td></tr></table>
+
+## Supreme Court waves off Kari Lake lawsuit over electronic voting
+ - [https://www.reddit.com/r/politics/comments/1cabghm/supreme_court_waves_off_kari_lake_lawsuit_over](https://www.reddit.com/r/politics/comments/1cabghm/supreme_court_waves_off_kari_lake_lawsuit_over)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T13:57:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cabghm/supreme_court_waves_off_kari_lake_lawsuit_over/"> <img alt="Supreme Court waves off Kari Lake lawsuit over electronic voting" src="https://external-preview.redd.it/dtWVWPAtZan7N6SIoMbBumRe9KO0djUq_BkKxvG_r3w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e270fd49d2ba547056b6170b1e3c0b32bafc301b" title="Supreme Court waves off Kari Lake lawsuit over electronic voting" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iaincaradoc"> /u/iaincaradoc </a> <br /> <span><a href="https://www.cnn.com/2024/04/22/politics/kari-lake-arizona-republican-supreme-court/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cabghm/supreme_court_waves_off_kari_lake_lawsuit_over/">[comments]</a></span> </td></tr></table>
+
+## Trump Has Only $6.8 Million for Legal Fees With Trial Underway
+ - [https://www.reddit.com/r/politics/comments/1cabc3g/trump_has_only_68_million_for_legal_fees_with](https://www.reddit.com/r/politics/comments/1cabc3g/trump_has_only_68_million_for_legal_fees_with)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T13:51:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cabc3g/trump_has_only_68_million_for_legal_fees_with/"> <img alt="Trump Has Only $6.8 Million for Legal Fees With Trial Underway" src="https://external-preview.redd.it/hs5ZaYqsd_kNY55NHFeKCd0LJfPfLrAoMNzdzt6IMNE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32ccd65b04081c643fa98af107a47568bc0fe42d" title="Trump Has Only $6.8 Million for Legal Fees With Trial Underway" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloomberg"> /u/bloomberg </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-04-21/trump-has-only-6-8-million-for-legal-fees-with-trial-underway">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cabc3g/trump_has_only_68_million_for_legal_fees_with/">[comments]</a></span> </td></tr></table>
+
+## Campaign seeks to unseat 2 Arizona supreme court justices who upheld 1864 abortion ban
+ - [https://www.reddit.com/r/politics/comments/1cab14q/campaign_seeks_to_unseat_2_arizona_supreme_court](https://www.reddit.com/r/politics/comments/1cab14q/campaign_seeks_to_unseat_2_arizona_supreme_court)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T13:38:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cab14q/campaign_seeks_to_unseat_2_arizona_supreme_court/"> <img alt="Campaign seeks to unseat 2 Arizona supreme court justices who upheld 1864 abortion ban" src="https://external-preview.redd.it/f04ukFacFBCTHhq-ndFkk98FnZPwEs1l5VxZFzw_0Qs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c841197bdbd63db05a2509894b3eccd6c64c601d" title="Campaign seeks to unseat 2 Arizona supreme court justices who upheld 1864 abortion ban" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hunter15991"> /u/hunter15991 </a> <br /> <span><a href="https://www.azcentral.com/story/news/politics/arizona/2024/04/22/arizona-abortion-ban-campaign-wants-to-unseat-pro-1864-law-justices/73389612007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cab14q/campaign_seeks_to_unseat_2_arizona_supreme_court/">[comments]</a></span> </td></tr></table>
+
+## On Earth Day, Biden is launching a new site to apply for Climate Corps jobs
+ - [https://www.reddit.com/r/politics/comments/1caaj2f/on_earth_day_biden_is_launching_a_new_site_to](https://www.reddit.com/r/politics/comments/1caaj2f/on_earth_day_biden_is_launching_a_new_site_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T13:17:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1caaj2f/on_earth_day_biden_is_launching_a_new_site_to/"> <img alt="On Earth Day, Biden is launching a new site to apply for Climate Corps jobs" src="https://external-preview.redd.it/oxzArrzDsPsas4a73My-EPXsiFM7KxpieXL2e8yRwgc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=58722abcb497e312579c76faff731e0d113f326a" title="On Earth Day, Biden is launching a new site to apply for Climate Corps jobs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/penguincheerleader"> /u/penguincheerleader </a> <br /> <span><a href="https://www.npr.org/2024/04/22/1245979643/biden-earth-day-climate-corps-solar">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1caaj2f/on_earth_day_biden_is_launching_a_new_site_to/">[comments]</a></span> </td></tr></table>
+
+## Biden administration finalizes controversial minimum staffing mandate at nursing homes
+ - [https://www.reddit.com/r/politics/comments/1caa6be/biden_administration_finalizes_controversial](https://www.reddit.com/r/politics/comments/1caa6be/biden_administration_finalizes_controversial)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T13:01:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1caa6be/biden_administration_finalizes_controversial/"> <img alt="Biden administration finalizes controversial minimum staffing mandate at nursing homes " src="https://external-preview.redd.it/ud5snufrLn0kQMNJnujTya0IbNzJ1KSe0TRSLdfYKNs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e415f86f81632e10a362f62935a34b886a884c8" title="Biden administration finalizes controversial minimum staffing mandate at nursing homes " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Oleg101"> /u/Oleg101 </a> <br /> <span><a href="https://www.cnn.com/2024/04/22/politics/nursing-home-minimum-staffing-rule?cid=ios_app">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1caa6be/biden_administration_finalizes_controversial/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: US Supreme Court Oral Argument in City of Grants Pass v. Johnson, a Case on the Criminalization of Homelessness
+ - [https://www.reddit.com/r/politics/comments/1caa3xy/discussion_thread_us_supreme_court_oral_argument](https://www.reddit.com/r/politics/comments/1caa3xy/discussion_thread_us_supreme_court_oral_argument)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T12:59:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>C-SPAN's description-in-advance of today's proceedings is: &quot;The Supreme Court hears oral argument in a case on whether an Oregon city’s ordinance restricting people including the homeless, from camping or sleeping in outdoor spaces, violates the Eight Amendment’s ban on cruel and unusual punishment.&quot;</p> <p><strong>Analysis:</strong></p> <ul> <li><p>SCOTUSblog: <a href="https://www.scotusblog.com/2024/04/supreme-court-to-hear-case-on-criminal-penalties-for-homelessness/">Supreme Court to hear case on criminal penalties for homelessness</a></p></li> <li><p>Vox: <a href="https://www.vox.com/scotus/24121344/supreme-court-homeless-grants-pass-martin-crime-grants-pass-johnson">The Supreme Court case that could turn homelessness into a crime, explained</a></p></li> <li><p>Oregon Public Broadcasting: <a href="https://www.opb.org/article/2024/04/04/grants-pass-oregon-homeless-parks-josephine-county-public-spaces-camping-shelter/">Grants Pass v. John
+
+## Students Sue Arkansas Gov. Sarah Huckabee Sanders for Silencing Black History
+ - [https://www.reddit.com/r/politics/comments/1ca9ud6/students_sue_arkansas_gov_sarah_huckabee_sanders](https://www.reddit.com/r/politics/comments/1ca9ud6/students_sue_arkansas_gov_sarah_huckabee_sanders)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T12:46:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ca9ud6/students_sue_arkansas_gov_sarah_huckabee_sanders/"> <img alt="Students Sue Arkansas Gov. Sarah Huckabee Sanders for Silencing Black History" src="https://external-preview.redd.it/-sMVAjWOwFX6E72ir_e0TnlFT3VXGOl4ARtivS_xkq4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0c4436dd7efd8bad79e284f341a8ece0e47daff" title="Students Sue Arkansas Gov. Sarah Huckabee Sanders for Silencing Black History" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newnemo"> /u/newnemo </a> <br /> <span><a href="https://truthout.org/articles/students-sue-arkansas-gov-sarah-huckabee-sanders-for-silencing-black-history/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ca9ud6/students_sue_arkansas_gov_sarah_huckabee_sanders/">[comments]</a></span> </td></tr></table>
+
+## With This Week’s Abortion Case, Supreme Court Faces Grim Reality of Overturning Roe| The justices will decide whether pregnant patients must go untreated until they reach death’s door.
+ - [https://www.reddit.com/r/politics/comments/1ca9qep/with_this_weeks_abortion_case_supreme_court_faces](https://www.reddit.com/r/politics/comments/1ca9qep/with_this_weeks_abortion_case_supreme_court_faces)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T12:42:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ca9qep/with_this_weeks_abortion_case_supreme_court_faces/"> <img alt="With This Week’s Abortion Case, Supreme Court Faces Grim Reality of Overturning Roe| The justices will decide whether pregnant patients must go untreated until they reach death’s door." src="https://external-preview.redd.it/XzzzK9s6o5UoWQTNVDKaHqa-d51Uxq1yJnKbqgLyD7Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5aaf26ae960859197bea0f3b0f118c22f8ac0cdc" title="With This Week’s Abortion Case, Supreme Court Faces Grim Reality of Overturning Roe| The justices will decide whether pregnant patients must go untreated until they reach death’s door." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.motherjones.com/politics/2024/04/emtla-hearing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ca9qep/with_this_week
+
+## Discussion Thread: New York Criminal Fraud Trial of Donald Trump, Day 5
+ - [https://www.reddit.com/r/politics/comments/1ca9lu0/discussion_thread_new_york_criminal_fraud_trial](https://www.reddit.com/r/politics/comments/1ca9lu0/discussion_thread_new_york_criminal_fraud_trial)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T12:35:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Opening statements from the prosecution and the defense are expected today.</p> <p><strong>News:</strong></p> <ul> <li>The New York Times (metered paywall): <a href="https://www.nytimes.com/2024/04/22/nyregion/donald-trump-hush-money-trial.html">Opening Statements in Trump’s Criminal Trial to Begin Monday</a></li> </ul> <p><strong>Analysis:</strong></p> <ul> <li><p>AP via PBS NewsHour: <a href="https://www.pbs.org/newshour/nation/who-are-the-key-players-at-donald-trumps-hush-money-criminal-trial">Who are the key players at Donald Trump’s hush money criminal trial?</a></p></li> <li><p>CNN: <a href="https://www.cnn.com/2024/04/18/politics/jury-trump-anonymous-what-matters/index.html">Why is the Trump trial jury anonymous? The brief and imperfect history of anonymous juries in the US</a></p></li> <li><p>AP: <a href="https://apnews.com/projects/trump-investigations-civil-criminal-tracker">Tracking the criminal and civil cases against Donald Trump</a></p><
+
+## Trump’s Trial Is the Reality Show He Never Wanted
+ - [https://www.reddit.com/r/politics/comments/1ca8w8d/trumps_trial_is_the_reality_show_he_never_wanted](https://www.reddit.com/r/politics/comments/1ca8w8d/trumps_trial_is_the_reality_show_he_never_wanted)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T12:01:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ca8w8d/trumps_trial_is_the_reality_show_he_never_wanted/"> <img alt="Trump’s Trial Is the Reality Show He Never Wanted" src="https://external-preview.redd.it/Fd4WDi-dWu6Jo81cH-hh26LCGXX_CPMU61pcJJg6LmY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ea00025f7b51e0279962bc212fd7b0f60bc5457" title="Trump’s Trial Is the Reality Show He Never Wanted" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloombergopinion"> /u/bloombergopinion </a> <br /> <span><a href="https://www.bloomberg.com/opinion/articles/2024-04-22/trump-s-trial-is-the-reality-show-he-never-wanted">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ca8w8d/trumps_trial_is_the_reality_show_he_never_wanted/">[comments]</a></span> </td></tr></table>
+
+## Why Donald Trump trial's first witness could destroy his defense
+ - [https://www.reddit.com/r/politics/comments/1ca8m89/why_donald_trump_trials_first_witness_could](https://www.reddit.com/r/politics/comments/1ca8m89/why_donald_trump_trials_first_witness_could)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T11:46:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ca8m89/why_donald_trump_trials_first_witness_could/"> <img alt="Why Donald Trump trial's first witness could destroy his defense" src="https://external-preview.redd.it/61X81EhsVEno7H1MptQzsnUZdCPKjFb6n78jbtR7xM4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3bdbf0a9ee31b9cb28cbd0a0b712498ae0d76a69" title="Why Donald Trump trial's first witness could destroy his defense" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BelleAriel"> /u/BelleAriel </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-stormy-daniels-david-pecker-national-enquirer-karen-mcdoughal-manhattan-new-york-court-1892660">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ca8m89/why_donald_trump_trials_first_witness_could/">[comments]</a></span> </td></tr></table>
+
+## U.S. House votes down border bill favored by conservatives
+ - [https://www.reddit.com/r/politics/comments/1ca8h0u/us_house_votes_down_border_bill_favored_by](https://www.reddit.com/r/politics/comments/1ca8h0u/us_house_votes_down_border_bill_favored_by)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T11:38:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ca8h0u/us_house_votes_down_border_bill_favored_by/"> <img alt="U.S. House votes down border bill favored by conservatives" src="https://external-preview.redd.it/FeCDYscJCyYrJgn164UwsQIz2k1bz9bQx_9WmVFW5ys.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c5c35431b1cc6d5e85c9edcf5582b396a8dccda" title="U.S. House votes down border bill favored by conservatives" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/1900grs"> /u/1900grs </a> <br /> <span><a href="https://michiganadvance.com/2024/04/22/u-s-house-votes-down-border-bill-favored-by-conservatives/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ca8h0u/us_house_votes_down_border_bill_favored_by/">[comments]</a></span> </td></tr></table>
+
+## Historic Trump criminal trial to hear opening statements
+ - [https://www.reddit.com/r/politics/comments/1ca81c6/historic_trump_criminal_trial_to_hear_opening](https://www.reddit.com/r/politics/comments/1ca81c6/historic_trump_criminal_trial_to_hear_opening)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T11:14:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ca81c6/historic_trump_criminal_trial_to_hear_opening/"> <img alt="Historic Trump criminal trial to hear opening statements" src="https://external-preview.redd.it/cAvUQ7vsO7GBGnuCpnhBef8YP8-D_DuxiOtD3DwwP38.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=952e6640b11f1e1b0a3d6d850efed692cf0089b3" title="Historic Trump criminal trial to hear opening statements" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bakhesh"> /u/bakhesh </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/apr/22/trump-criminal-trial-new-york-opening-statements">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ca81c6/historic_trump_criminal_trial_to_hear_opening/">[comments]</a></span> </td></tr></table>
+
+## Trump’s a Fraud When It Comes to Law and Order and ‘Backing the Blue’
+ - [https://www.reddit.com/r/politics/comments/1ca74vg/trumps_a_fraud_when_it_comes_to_law_and_order_and](https://www.reddit.com/r/politics/comments/1ca74vg/trumps_a_fraud_when_it_comes_to_law_and_order_and)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T10:17:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ca74vg/trumps_a_fraud_when_it_comes_to_law_and_order_and/"> <img alt="Trump’s a Fraud When It Comes to Law and Order and ‘Backing the Blue’" src="https://external-preview.redd.it/S4csjWhqOasCEqxXCpZeFzKMtvfLUx1ZJeQv92Nykgg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ecb2b9826a9b75bfe5d47c12b1e181cac8a2c22" title="Trump’s a Fraud When It Comes to Law and Order and ‘Backing the Blue’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.thedailybeast.com/trumps-a-fraud-when-it-comes-to-law-and-order-and-backing-the-blue">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ca74vg/trumps_a_fraud_when_it_comes_to_law_and_order_and/">[comments]</a></span> </td></tr></table>
+
+## Marjorie Taylor Greene's "space lasers" show how the GOP gets away with escalating violence
+ - [https://www.reddit.com/r/politics/comments/1ca737c/marjorie_taylor_greenes_space_lasers_show_how_the](https://www.reddit.com/r/politics/comments/1ca737c/marjorie_taylor_greenes_space_lasers_show_how_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T10:14:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ca737c/marjorie_taylor_greenes_space_lasers_show_how_the/"> <img alt="Marjorie Taylor Greene's &quot;space lasers&quot; show how the GOP gets away with escalating violence" src="https://external-preview.redd.it/hZQUPkEKhHzrEwOLBoMPrx4qeCWWyH0vtOoVkkL6r60.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8698916cd43a6c15bbe6e5aa116d250a397aa366" title="Marjorie Taylor Greene's &quot;space lasers&quot; show how the GOP gets away with escalating violence" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.salon.com/2024/04/22/marjorie-taylor-greenes-space-lasers-show-how-the-gets-away-with-escalating-violence/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ca737c/marjorie_taylor_greenes_space_lasers_show_how_the/">[comments]</a></span> </td></tr></table>
+
+## How Trump has become angrier and more isolated on Truth Social
+ - [https://www.reddit.com/r/politics/comments/1ca6git/how_trump_has_become_angrier_and_more_isolated_on](https://www.reddit.com/r/politics/comments/1ca6git/how_trump_has_become_angrier_and_more_isolated_on)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T09:32:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ca6git/how_trump_has_become_angrier_and_more_isolated_on/"> <img alt="How Trump has become angrier and more isolated on Truth Social" src="https://external-preview.redd.it/s4YZwsrrnQrYwn7B_1eBIow55o9KBHnIlPsJ7VxHfnc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=75073fed37a49b383a51f25e7fb7786c93a5c03e" title="How Trump has become angrier and more isolated on Truth Social" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aluminumdisc"> /u/aluminumdisc </a> <br /> <span><a href="https://www.washingtonpost.com/politics/interactive/2024/trump-truth-social-posts/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ca6git/how_trump_has_become_angrier_and_more_isolated_on/">[comments]</a></span> </td></tr></table>
+
+## GOP operative’s conviction over illegal Russian contributions to Trump campaign upheld
+ - [https://www.reddit.com/r/politics/comments/1ca602r/gop_operatives_conviction_over_illegal_russian](https://www.reddit.com/r/politics/comments/1ca602r/gop_operatives_conviction_over_illegal_russian)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T09:01:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ca602r/gop_operatives_conviction_over_illegal_russian/"> <img alt="GOP operative’s conviction over illegal Russian contributions to Trump campaign upheld" src="https://external-preview.redd.it/BXsHguzFjAwXeGhUed7jyQvtvYGQgfOXuMHo66Oogmo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5c00e3aca89d675cf54ad8c58c936ee7e817ee6" title="GOP operative’s conviction over illegal Russian contributions to Trump campaign upheld" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BamBamBaRoo99"> /u/BamBamBaRoo99 </a> <br /> <span><a href="https://thehill.com/regulation/court-battles/4605419-gop-operative-conviction-illegal-russian-contributions-to-trump-campaign-upheld/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ca602r/gop_operatives_conviction_over_illegal_russian/">[comments]</a></span> </td></tr></table>
+
+## Tuberville echoes Trump, says Democrats support abortion ‘past the birth of the baby’
+ - [https://www.reddit.com/r/politics/comments/1ca1rn4/tuberville_echoes_trump_says_democrats_support](https://www.reddit.com/r/politics/comments/1ca1rn4/tuberville_echoes_trump_says_democrats_support)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T04:25:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ca1rn4/tuberville_echoes_trump_says_democrats_support/"> <img alt="Tuberville echoes Trump, says Democrats support abortion ‘past the birth of the baby’" src="https://external-preview.redd.it/IVW5jF5P-jFS9jmO9dm75bmslCbIqWrGWYyKRZM2gGI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7856245b54eb949b63ef6407959b68c070615c35" title="Tuberville echoes Trump, says Democrats support abortion ‘past the birth of the baby’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ParadeSit"> /u/ParadeSit </a> <br /> <span><a href="https://www.al.com/news/2024/04/tuberville-echoes-trump-says-democrats-support-abortion-past-the-birth-of-the-baby.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ca1rn4/tuberville_echoes_trump_says_democrats_support/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy: ‘We will have a chance at victory’ thanks to weapons provided to Ukraine in new U.S. aid package
+ - [https://www.reddit.com/r/politics/comments/1c9zdv0/zelenskyy_we_will_have_a_chance_at_victory_thanks](https://www.reddit.com/r/politics/comments/1c9zdv0/zelenskyy_we_will_have_a_chance_at_victory_thanks)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T02:16:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9zdv0/zelenskyy_we_will_have_a_chance_at_victory_thanks/"> <img alt="Zelenskyy: ‘We will have a chance at victory’ thanks to weapons provided to Ukraine in new U.S. aid package" src="https://external-preview.redd.it/OVnCwhELkk0DVy4DrYznt6z9cFSquhmefkUn9Hf7EUQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e6a5cc8219ab1efe5e4a6d25b07246066f9f4fbf" title="Zelenskyy: ‘We will have a chance at victory’ thanks to weapons provided to Ukraine in new U.S. aid package" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Explanation-Extrover"> /u/Explanation-Extrover </a> <br /> <span><a href="https://www.nbcnews.com/politics/congress/ukrainian-president-volodymyr-zelenskyy-will-chance-victory-thaks-weap-rcna148684">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9zdv0/zelenskyy_we_will_have_a_chance_at_victory_thanks/">[comments]</a></span> </td></tr></table>
+
+## The Art of Tanking a Deal: The dangerous cost of Trump withdrawing from Iran nuclear deal
+ - [https://www.reddit.com/r/politics/comments/1c9yvju/the_art_of_tanking_a_deal_the_dangerous_cost_of](https://www.reddit.com/r/politics/comments/1c9yvju/the_art_of_tanking_a_deal_the_dangerous_cost_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T01:50:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9yvju/the_art_of_tanking_a_deal_the_dangerous_cost_of/"> <img alt="The Art of Tanking a Deal: The dangerous cost of Trump withdrawing from Iran nuclear deal" src="https://external-preview.redd.it/fcI381qNUuuyZx9KcIbbbTbg05v1lpV_sX7Lst9igGE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e6ad6949e81980e27c46c04fa3e8034f6f63863b" title="The Art of Tanking a Deal: The dangerous cost of Trump withdrawing from Iran nuclear deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bluerecyclecan"> /u/Bluerecyclecan </a> <br /> <span><a href="https://www.msnbc.com/msnbc/amp-video/mmvo209417797783">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9yvju/the_art_of_tanking_a_deal_the_dangerous_cost_of/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Trial Challenge: Being Stripped of Control
+ - [https://www.reddit.com/r/politics/comments/1c9yud6/trumps_trial_challenge_being_stripped_of_control](https://www.reddit.com/r/politics/comments/1c9yud6/trumps_trial_challenge_being_stripped_of_control)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T01:48:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9yud6/trumps_trial_challenge_being_stripped_of_control/"> <img alt="Trump’s Trial Challenge: Being Stripped of Control" src="https://external-preview.redd.it/lJRm5IRO_M90nQ4TlsxlvfnfUxI3x-zYW2O_77zG1jM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=439fcfb9807c30b7ce48d451a27ed2e9f06e64eb" title="Trump’s Trial Challenge: Being Stripped of Control" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RichKatz"> /u/RichKatz </a> <br /> <span><a href="https://www.nytimes.com/2024/04/21/us/politics/trump-trial-analysis.html?unlocked_article_code=1.mU0.t69B.B4W1AW3puIPm&amp;smid=url-share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9yud6/trumps_trial_challenge_being_stripped_of_control/">[comments]</a></span> </td></tr></table>
+
+## Mike Johnson earns bipartisan praise for backing Ukraine aid, suggesting his speakership is safe
+ - [https://www.reddit.com/r/politics/comments/1c9ym3f/mike_johnson_earns_bipartisan_praise_for_backing](https://www.reddit.com/r/politics/comments/1c9ym3f/mike_johnson_earns_bipartisan_praise_for_backing)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T01:36:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9ym3f/mike_johnson_earns_bipartisan_praise_for_backing/"> <img alt="Mike Johnson earns bipartisan praise for backing Ukraine aid, suggesting his speakership is safe" src="https://external-preview.redd.it/VtxGOgAYBGXOW463acRodysCVe5QEhsZBR2KTgkPdKU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a2bfa9a5c31d19dff13d219392ace2fa89b135d" title="Mike Johnson earns bipartisan praise for backing Ukraine aid, suggesting his speakership is safe" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpecificBeat8882"> /u/SpecificBeat8882 </a> <br /> <span><a href="https://abcnews.go.com/Politics/mike-johnson-earns-bipartisan-praise-backing-ukraine-aid/story?id=109466016">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9ym3f/mike_johnson_earns_bipartisan_praise_for_backing/">[comments]</a></span> </td></tr></table>
+
+## House Republicans blame Greene and Freedom Caucus for lack of border wins
+ - [https://www.reddit.com/r/politics/comments/1c9xs5r/house_republicans_blame_greene_and_freedom_caucus](https://www.reddit.com/r/politics/comments/1c9xs5r/house_republicans_blame_greene_and_freedom_caucus)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-22T00:54:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1c9xs5r/house_republicans_blame_greene_and_freedom_caucus/"> <img alt="House Republicans blame Greene and Freedom Caucus for lack of border wins" src="https://external-preview.redd.it/lCWFsVTE0o9_9alt3maViUr7AH-YMuY1wQo3GFjNpbE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26efe9d37efde81b2b090578fdc29e4e6ab84e2d" title="House Republicans blame Greene and Freedom Caucus for lack of border wins" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bathewan"> /u/bathewan </a> <br /> <span><a href="https://www.axios.com/2024/04/22/house-republicans-greene-border-security-foreign-aid">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1c9xs5r/house_republicans_blame_greene_and_freedom_caucus/">[comments]</a></span> </td></tr></table>
+

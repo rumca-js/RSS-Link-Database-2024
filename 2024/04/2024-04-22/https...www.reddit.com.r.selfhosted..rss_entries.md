@@ -1,0 +1,296 @@
+# Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
+
+## ISO webui-based event tracking
+ - [https://www.reddit.com/r/selfhosted/comments/1canyow/iso_webuibased_event_tracking](https://www.reddit.com/r/selfhosted/comments/1canyow/iso_webuibased_event_tracking)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T22:21:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I've been looking for a few days and haven't found anything just yet, so I thought I'd reach out.</p> <p>I'm searching for a self-hostable app with webui which I could use to track specific event time frames. </p> <p>Ex: If an employee goes into the conference room, I would like to be able to keep up with that time usage so that I could use that data to create a schedule for conference room, and other reasons. Basically I just want to be able to track in and out times that happen at random, it doesn't need any kind of automation or detection for the data input, I'd do that manually. I'd just like to be able to look at the collected data in a reasonable format to determine which times it's used most often and by whom.</p> <p>Thanks, all, I just hope I communicated that well enough to get the idea across.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xantheybelmont"> /u/xantheybelmont </a> <br /> <span><a href="h
+
+## For a very small team?
+ - [https://www.reddit.com/r/selfhosted/comments/1canj1u/for_a_very_small_team](https://www.reddit.com/r/selfhosted/comments/1canj1u/for_a_very_small_team)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T22:04:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, I'm looking for a somewhat simple solution, but I do have extensive experience building and deploying a Debian home server.</p> <p>I say, extensive, because I made a bunch of mistakes setting it up several times over about 6-8 years!😀 At one point I managed it thru webmin. Now, I just do it via terminal. </p> <p>Currently, I've got a home automation server, a print server, an NFS server and a small project web-server forwarded by domain provider using ddclient, all running on a single raspberrypi 3b+ running headless via Debian. </p> <p>So, long story short, I know my way around setting up a server but I'm looking for some advice... </p> <p>I've got a small project that'll eventually have a team of about 50 people. Probably not a lot of traffic. </p> <p>I have a cheap hosting provider, but I'm wondering if I should just host it myself on a raspberrypi 5?</p> <p>It's an open source project, but not a technical or a software project. Those involved 
+
+## Kavita (Development Update)
+ - [https://www.reddit.com/r/selfhosted/comments/1camvd5/kavita_development_update](https://www.reddit.com/r/selfhosted/comments/1camvd5/kavita_development_update)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T21:39:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>It's been another 6 months since I shared an update on Kavita and it's progress to becoming the best reading software that matches the experience that Plex brings to consuming media.</p> <p>Last post here: <a href="https://www.reddit.com/r/selfhosted/comments/17cju52/kavita_development_update/">https://www.reddit.com/r/selfhosted/comments/17cju52/kavita_development_update/</a></p> <p>What's new in the last 6 months:</p> <ul> <li><strong>Comic Overhaul</strong>: A complete overhaul of comic library to match how heavy hoarders collect comics via Mylar and manage via CBL. Custom issue ordering, issue numbers like infinity, 0, -1, omega all possible, Annual series relationship and filtering can be done on imprints, team, and locations.</li> <li><strong>Built-in Email</strong>: Having a separate email program is no fun. Kavita now has emailing functionality built-in and the same benefits with customized templates for those power users.</li> <li><strong>Kav
+
+## Prometheus Node Exporter for Windows?
+ - [https://www.reddit.com/r/selfhosted/comments/1campmk/prometheus_node_exporter_for_windows](https://www.reddit.com/r/selfhosted/comments/1campmk/prometheus_node_exporter_for_windows)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T21:33:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is this basically the equivalent of Node Exporter for Windows? <a href="https://github.com/prometheus-community/windows_exporter">https://github.com/prometheus-community/windows_exporter</a> </p> <p>Or is there something else? Basically I have a Windows 11 machine that I'd like to pull similar metrics in as what I get from node exporter on Linux hosts.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CincyTriGuy"> /u/CincyTriGuy </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1campmk/prometheus_node_exporter_for_windows/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1campmk/prometheus_node_exporter_for_windows/">[comments]</a></span>
+
+## Search: Local alternative for cloudmailin
+ - [https://www.reddit.com/r/selfhosted/comments/1caljke/search_local_alternative_for_cloudmailin](https://www.reddit.com/r/selfhosted/comments/1caljke/search_local_alternative_for_cloudmailin)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T20:47:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>For a local project i am looking for a solution which receives mails from an inbox, parses them and calls a webservice/API with a HTTP POST including all Details of the mail. cloudmailin.com provides such a service, but i need it locally in my network. </p> <p>There is a good example with json code on their startpage.</p> <p>Thanks in advance! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/duese22"> /u/duese22 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1caljke/search_local_alternative_for_cloudmailin/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1caljke/search_local_alternative_for_cloudmailin/">[comments]</a></span>
+
+## Public IP was changed after a couple of years, can't get reverse proxy working anymore.
+ - [https://www.reddit.com/r/selfhosted/comments/1calhvq/public_ip_was_changed_after_a_couple_of_years](https://www.reddit.com/r/selfhosted/comments/1calhvq/public_ip_was_changed_after_a_couple_of_years)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T20:44:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>So all of a sudden today my public IP changed, it hasn't changed in the last 2.5 years since I set up here. I thought all I'd need to do was update my ip on cloudflare. Still getting cloudlfare 522 error though. I use NGNIX proxy manager. I've tried rebooting the server, deleting the proxy host and making it again, even getting a new ssl certificate. Jellyfin is what I have been trying to get working specifically before I mess around with other services. I can access it no problem on the local network. Can't get it to work via public domain though, anything I may be missing that should also be updated? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Terrible_Ad_4678"> /u/Terrible_Ad_4678 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1calhvq/public_ip_was_changed_after_a_couple_of_years/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1calhvq/public_i
+
+## why i should test immich?
+ - [https://www.reddit.com/r/selfhosted/comments/1cakl30/why_i_should_test_immich](https://www.reddit.com/r/selfhosted/comments/1cakl30/why_i_should_test_immich)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T19:59:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I read about immich here and am now thinking about testing it. i have tested the online demo and the look &amp; feel is like google fotos. i have two apple devices (iphone &amp; ipad) so apple photos and google photos. my wife has android with google photos. we have one windows device (google photos via browser). to share our photos, we use google photo on ipad/iphone/android/win. i have a icloud+ 200gb subscription for 2,99€/month and google one 100gb for 20€/year ~50€per year not only for photo storage. 25gb photos in google (optimized quality) and icloud 70gb photos.</p> <p>from the github page i have this disclaimer:</p> <p>⚠️ The project is under <strong>very active</strong> development.</p> <p>basically this is good, if the quality doesn't suffer.</p> <p>the handful developers can guarantee long time support and long time same quality level?</p> <p>⚠️ Expect bugs and breaking changes.</p> <p>here i trust more google and apple with the
+
+## How could i access pritunl client ip remotely?
+ - [https://www.reddit.com/r/selfhosted/comments/1cakac3/how_could_i_access_pritunl_client_ip_remotely](https://www.reddit.com/r/selfhosted/comments/1cakac3/how_could_i_access_pritunl_client_ip_remotely)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T19:47:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I will install wireguard or pritunl. when connect from home computer to vpn server, assign local ip 10.0.0.1 to home computer.</p> <p>I would like to acces this local ip remotely/publicly from anywhere. How could i achieve that?</p> <p>Ipinfo show vps ip.</p> <p>I know cloudflair tunel,zerotier,wireguard but i need to do it with free solution &amp; selfhosted.</p> <p>Am i need to change routing in server?</p> <p>If i need to install nginx proxy manager to access different service, its better to install npm in vps and add domain forward port to domain:portnumber?</p> <p>Or need to install in home computer?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/robertniro1980"> /u/robertniro1980 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cakac3/how_could_i_access_pritunl_client_ip_remotely/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cakac3/how_could_
+
+## Dashboard like casaos?
+ - [https://www.reddit.com/r/selfhosted/comments/1cajf6o/dashboard_like_casaos](https://www.reddit.com/r/selfhosted/comments/1cajf6o/dashboard_like_casaos)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T19:14:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Are there any dashboards similar to the one casaos has, since i really like its look but im not a fan of the constraints of casaos? I have a server running plesk and other stuff, and just some general server stats and all services on one page would be enough (and maybe weather as an added bonus).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HBubli"> /u/HBubli </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cajf6o/dashboard_like_casaos/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cajf6o/dashboard_like_casaos/">[comments]</a></span>
+
+## Self host solution for Sonos replacement
+ - [https://www.reddit.com/r/selfhosted/comments/1cagx2v/self_host_solution_for_sonos_replacement](https://www.reddit.com/r/selfhosted/comments/1cagx2v/self_host_solution_for_sonos_replacement)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T17:36:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically just want to self host a Sonos server. I would just use a device like the amp product offers but without a powered amp. Sonos is a great product just hard to justify spending 2k for non powered amps. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/brewthedrew19"> /u/brewthedrew19 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cagx2v/self_host_solution_for_sonos_replacement/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cagx2v/self_host_solution_for_sonos_replacement/">[comments]</a></span>
+
+## WatchYourLAN: Lightweight network IP scanner with web GUI
+ - [https://www.reddit.com/r/selfhosted/comments/1caf60w/watchyourlan_lightweight_network_ip_scanner_with](https://www.reddit.com/r/selfhosted/comments/1caf60w/watchyourlan_lightweight_network_ip_scanner_with)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T16:27:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1caf60w/watchyourlan_lightweight_network_ip_scanner_with/"> <img alt="WatchYourLAN: Lightweight network IP scanner with web GUI" src="https://external-preview.redd.it/DCb-CuVMkX3hYiM8ezCtlP_26wGTwCW4_hxumOtTpmY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6de844997935c91fffe76c1e377b66e551ca35b4" title="WatchYourLAN: Lightweight network IP scanner with web GUI" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shrik"> /u/shrik </a> <br /> <span><a href="https://github.com/aceberg/WatchYourLAN">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1caf60w/watchyourlan_lightweight_network_ip_scanner_with/">[comments]</a></span> </td></tr></table>
+
+## Fail2Ban query, docker container or directly on server via cli?
+ - [https://www.reddit.com/r/selfhosted/comments/1caf2jo/fail2ban_query_docker_container_or_directly_on](https://www.reddit.com/r/selfhosted/comments/1caf2jo/fail2ban_query_docker_container_or_directly_on)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T16:23:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there any benefit to adding fail2ban docker over installing it manually on the server?</p> <p>I asked this question to Llama AI and I got a generalised response on the benefits of Docker and containerisation. So is there any benefit? In my thinking installing it via cli directly on the server systemwide is more effective, if that's the word.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CantaloupeForty"> /u/CantaloupeForty </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1caf2jo/fail2ban_query_docker_container_or_directly_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1caf2jo/fail2ban_query_docker_container_or_directly_on/">[comments]</a></span>
+
+## Scheduling app
+ - [https://www.reddit.com/r/selfhosted/comments/1caen94/scheduling_app](https://www.reddit.com/r/selfhosted/comments/1caen94/scheduling_app)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T16:06:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can any on recommend an opensource scheduling app for HR ?</p> <p>People sign up to say work as a VA, when slots open up they are notified and accepted from the queue.</p> <p>New sign ups join the queue until something opens up.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aweimposing"> /u/aweimposing </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1caen94/scheduling_app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1caen94/scheduling_app/">[comments]</a></span>
+
+## Time tracker with Office365 integration
+ - [https://www.reddit.com/r/selfhosted/comments/1cae6lg/time_tracker_with_office365_integration](https://www.reddit.com/r/selfhosted/comments/1cae6lg/time_tracker_with_office365_integration)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T15:47:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>It has been asked a lot: Time tracking software. After trying Kimai for a year I've found out it doesn't really do the job for me as I have a lot of recurring work hours. I'm working as a freelancer and the only real reason I need a time-tracker is to be able to show to the local Tax Authority that I've worked at least an x-amount of hours a year to be able to get some deductions. An option to export my hours is a must. Accuracy isn't really a big deal, I usually work for day tariffs and usually I just put the hours that are included in the tariff into my time tracking. Over a year it evens out with hours not worked and overtime. Also non-paid hours like administration or sending invoices is something I'm not incorporating in my timesheets as the hours already exceed the specified minimum already by a lot.</p> <p>Now I was thinking, I'm keeping my calendar in Office365. Anyone know of a self-hosted time tracker which can be linked to my Office365-acco
+
+## Are any of you using Kubernetes? Got some good resources?
+ - [https://www.reddit.com/r/selfhosted/comments/1cadkv3/are_any_of_you_using_kubernetes_got_some_good](https://www.reddit.com/r/selfhosted/comments/1cadkv3/are_any_of_you_using_kubernetes_got_some_good)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T15:22:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just got completely BBQ'd when I opened an issue ticket for help on TrueCharts for &quot;too many user errors&quot;... must've taken a wrong corner or something o.o'</p> <p>TrueCharts is kinda like linuxserver.io but Kubernetes - which is neat! I started a k3s cluster for educational reasons and... I have so many SBCs now, I kinda need a workload balancer - and Docker Compose isn't gonna help much here. x) Kinda outgrowing it, unfortunately (...because, let's be real, storage management in Kubernetes is pain, period).</p> <p>So, are any of you using Kubernetes? Got some good resources (helm charts, tutorials, ...) you could share? I'd prefer not to be cooked like this again. o.o...</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IngwiePhoenix"> /u/IngwiePhoenix </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cadkv3/are_any_of_you_using_kubernetes_got_some_good/">[link]</a
+
+## Is it better to use linux vs windows for self hosting?
+ - [https://www.reddit.com/r/selfhosted/comments/1cacuw6/is_it_better_to_use_linux_vs_windows_for_self](https://www.reddit.com/r/selfhosted/comments/1cacuw6/is_it_better_to_use_linux_vs_windows_for_self)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T14:54:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m looking to create an *arr suite, NAS storage and eventually a self hosted website. I have my dad’s old PC from the windows 7 days that I’ll use just for this. Is it better to use linux or windows? And if linux, what would be the best distro ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aadesousa"> /u/aadesousa </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cacuw6/is_it_better_to_use_linux_vs_windows_for_self/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cacuw6/is_it_better_to_use_linux_vs_windows_for_self/">[comments]</a></span>
+
+## Searching for a reliable Dropbox replacement. Is oCIS a good option?
+ - [https://www.reddit.com/r/selfhosted/comments/1cacqd6/searching_for_a_reliable_dropbox_replacement_is](https://www.reddit.com/r/selfhosted/comments/1cacqd6/searching_for_a_reliable_dropbox_replacement_is)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T14:49:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed Nextcloud AIO on RPi4 (2GB), but it's very slow. I have about 20GB of 20K files, and it took hours to sync them across a Mac mini, a Macbook, and a PC. More importantly, there's 1 file that was successfully uploaded by Mac mini, which shows up on the web UI. However, it's not on my Macbook. Not sure why as it's a simple small PDF file. Tried restarting the macOS client but still not downloading.</p> <p>I looked into Syncthing, but unfortunately there's no iOS app and I need to access the files on my iPhone.</p> <p>I looked into Seafile, but seeing posts like <a href="https://forum.seafile.com/t/files-lost-mac-drive-client/18392/9">this</a> and <a href="https://forum.seafile.com/t/seafile-deletes-all-local-files-on-initial-upload/18401">this</a> got me wary.</p> <p>Is ownCloud Infinite Scale (oCIS) a good option? Reliability is the most important aspect for me. Thank you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://ww
+
+## Nut-server error
+ - [https://www.reddit.com/r/selfhosted/comments/1cac2ua/nutserver_error](https://www.reddit.com/r/selfhosted/comments/1cac2ua/nutserver_error)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T14:22:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a 3 host PVE cluster that I've been running nut-server on one host with others as clients which has been working fine. After updating my switch firmware my clients notifies me my UPS was down. After looking at the service log it says it suddenly doesn't have permission to access ups.conf. Attached is the log and /etc/nut permissions.</p> <pre><code>root@pve3070-1:~# ls -la /etc/nut total 96 drw-r----- 3 root nut 4096 Apr 21 22:49 . drwxr-xr-x 97 root root 4096 Apr 21 21:56 .. -rw-r----- 1 root nut 15 Mar 23 11:11 nut.conf -rw-r----- 1 root nut 1911 Mar 23 10:41 nut.conf.bak -rw-r----- 1 root nut 169 Mar 23 11:49 ups.conf -rw-r----- 1 root nut 9047 Mar 23 10:40 ups.conf.bak -rw-r----- 1 root nut 35 Mar 23 10:56 upsd.conf -rw-r----- 1 root nut 7363 Mar 23 10:40 upsd.conf.bak -rw-r----- 1 root nut 358 Mar 23 11:48 upsd.users -rw-r----- 1 root nut 2319 Mar 23 10:41 upsd.users.bak -rw-r----- 1 root nut 1154 Apr 21 22:49 upsmon.conf -rw-r----- 1 root
+
+## We are building an open-source, self hosted Captable. Check us out on Github & and give us your feedback?
+ - [https://www.reddit.com/r/selfhosted/comments/1cab5sr/we_are_building_an_opensource_self_hosted](https://www.reddit.com/r/selfhosted/comments/1cab5sr/we_are_building_an_opensource_self_hosted)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T13:44:13+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://github.com/captableinc/captable">https://github.com/captableinc/captable</a> </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/haphazardwizardofoz"> /u/haphazardwizardofoz </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cab5sr/we_are_building_an_opensource_self_hosted/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cab5sr/we_are_building_an_opensource_self_hosted/">[comments]</a></span>
+
+## Guidance on reverse proxying docker and design?
+ - [https://www.reddit.com/r/selfhosted/comments/1caasjx/guidance_on_reverse_proxying_docker_and_design](https://www.reddit.com/r/selfhosted/comments/1caasjx/guidance_on_reverse_proxying_docker_and_design)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T13:28:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all!</p> <p>I have a docker host with all my containers including Nginx Proxy Manager <em>and</em> Traefik. On both of those, I'm attempting to add a second network interface on the host's network using macvlan, then use these to communicate with containers in a docker lan. This logic seems to not really be the 'right' way to do this... I'm using 'old school' logic, I think, so I'm looking for guidance or a better/right way to accomplish my goals.</p> <p>The docker host uses ports 80 and 443 for it's own web interface and I'm reluctant to modify those in any way because I'm concerned about breaking the web UI and not being able to have access to the host functionality. I'm also reluctant to have the reverse proxy 'take over' those ports, instead attempting to opt for a second IP ont eh external host network using macvlan.</p> <p>In the past, I've simply mapped new ports (8080, 8443, 6443, etc) to ports on containers (80, 443) so that I could acc
+
+## self hosted apps and gmail (less secure apps)
+ - [https://www.reddit.com/r/selfhosted/comments/1ca95r1/self_hosted_apps_and_gmail_less_secure_apps](https://www.reddit.com/r/selfhosted/comments/1ca95r1/self_hosted_apps_and_gmail_less_secure_apps)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T12:14:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi folks. I'm hitting a bit of a brick wall with some of my services and how Google is handling sign in from the apps. </p> <p>I have an instance of mautic that I use for my small business, that alongside invoiceninja and a few other non business related applications. </p> <p>Ideally I'd like to use postfix to send all system messages out, I use Brevo for my mass mail relay. I can't figure out a way in which I can now allow my ubuntu system to send messages via postfix because of gmails change to disallow less secure apps. The Google Admin panel has essentially blocked this all out and there is no way in which I can connect. </p> <p>Is there another way of doing this?</p> <p>Many thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ScottAMains"> /u/ScottAMains </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca95r1/self_hosted_apps_and_gmail_less_secure_apps/">[link]</a></span> &#32; <sp
+
+## No port for jellyfin
+ - [https://www.reddit.com/r/selfhosted/comments/1ca8953/no_port_for_jellyfin](https://www.reddit.com/r/selfhosted/comments/1ca8953/no_port_for_jellyfin)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T11:26:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>New to docker / self hosting. Got jellyfin up and running in docker compose but now it has no ports (in docker ps) and i cant connect to it. I've tried deleting and recreating it but still no dice.</p> <p>log file:</p> <p><a href="https://pastebin.com/mjpPVe8u">https://pastebin.com/mjpPVe8u</a></p> <p>docker-compose.yml:</p> <p><a href="https://pastebin.com/65iLWWfn">https://pastebin.com/65iLWWfn</a></p> <p>&#x200b;</p> <p>Any ideas what im doing wrong?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kelkel60"> /u/kelkel60 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca8953/no_port_for_jellyfin/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca8953/no_port_for_jellyfin/">[comments]</a></span>
+
+## Pinepods 0.5.0 - Great news for Podcast enjoyers and self hosted advocates. Self hosted podcast management with Nextcloud sync. All open sourced!
+ - [https://www.reddit.com/r/selfhosted/comments/1ca88hd/pinepods_050_great_news_for_podcast_enjoyers_and](https://www.reddit.com/r/selfhosted/comments/1ca88hd/pinepods_050_great_news_for_podcast_enjoyers_and)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T11:25:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all,</p> <p>I’ve spent the majority of the last year hammering away at Pinepods. It’s a Rust based podcast management system that manages podcasts with multi-user support and relies on a central database with clients to connect to it. It’s complete with a browser based client and your podcasts and settings follow you from device to device due to everything being stored on the server. AntennaPod is great and all but sometimes I want to listen to podcasts from my laptop. Here’s a great solution to that problem. There’s also a client edition that you can download and install.</p> <p>Search both The Podcast Index or Itunes to browse through shows and episodes, Import or export opmls of your podcasts, utilize the standard of podcasting 2.0. It’s all fully dockerized and you can have an instance of your own up and running in 5 mins!</p> <p>If you’re only the fence you can try it out without installing the server too! Check the website for more info!</p>
+
+## Anyone running the citraemu/citra-multiplayer-dedicated docker ARM64 image?
+ - [https://www.reddit.com/r/selfhosted/comments/1ca7sgr/anyone_running_the](https://www.reddit.com/r/selfhosted/comments/1ca7sgr/anyone_running_the)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T11:00:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>As many of you know, Citra got taken down and unfortunately I wasn't able to pull the dedicated-server image before that. I tried building it myself with a mirror of the Github repo I found on archive.org but wasn't able. I would appreciate if someone already has it to export it and share it with me. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Antonaros"> /u/Antonaros </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca7sgr/anyone_running_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca7sgr/anyone_running_the/">[comments]</a></span>
+
+## Looking for storage solutions
+ - [https://www.reddit.com/r/selfhosted/comments/1ca5he3/looking_for_storage_solutions](https://www.reddit.com/r/selfhosted/comments/1ca5he3/looking_for_storage_solutions)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T08:24:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am an extremely broke college student. My setup currently includes a single gaming laptop from 2018 that runs a proxmox instance with a few VMs</p> <p>I am looking to start a media library, mostly pdf and images.</p> <p>Regardless of the software I end up running, I wonder whether I should get an external HDD with high speed and capacity, some sort of array, or something else? I guess I am looking for advice on what storage solution I should get. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ieris19"> /u/Ieris19 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca5he3/looking_for_storage_solutions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca5he3/looking_for_storage_solutions/">[comments]</a></span>
+
+## What' up with the Owncloud oCIS documentation?
+ - [https://www.reddit.com/r/selfhosted/comments/1ca52kk/what_up_with_the_owncloud_ocis_documentation](https://www.reddit.com/r/selfhosted/comments/1ca52kk/what_up_with_the_owncloud_ocis_documentation)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T07:55:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>It sucks and I cannot for the love of god get it to work. I read everything on their wiki but even after that I run into permissions and login issues, neither of which are described there. Also uncle google isn't very helpful since not many people are using oCIS and if the issue is there it's years old.</p> <p>I ran regular OC for a few years and it worked amazingly. Way better than Nextcloud which everyone told me was a &quot;configuration issue&quot;. OK so I tried the All in One version - which by the way has incredible documentation. Really, props to the team. There is no way to configure it poorly. Just run the mastercontainer, configure proxy (which they have example for everything!) and you are good to go. Also the updates are a breeze, and automatic. But damnt it's still so SLOW to load and sync files. Also MacOS client still doesn't support virtual files (You can enable it as an experimental feature, but it's still broken)</p> <p>I also tried
+
+## What's your self-hosted setup for continuous integration?
+ - [https://www.reddit.com/r/selfhosted/comments/1ca3oh8/whats_your_selfhosted_setup_for_continuous](https://www.reddit.com/r/selfhosted/comments/1ca3oh8/whats_your_selfhosted_setup_for_continuous)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T06:22:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I've just decided that it's time for me to learn self hosting so that I can have my own continuous integration services on my own Git repositories. The idea is to run the testing of my code in online source code repositories (like Gitea, GitLab, BitBucket, etc.) after each commit to make sure that everything works, to check pull requests, to deploy (if everything pans out), and run the continuous integration on a cron schedule.</p> <p>I do NOT want to rely on my local machine for self hosting. So this seems to call for paying for a Virtual Private Server listed at <a href="http://lowendbox.com">lowendbox.com</a>. I'd install Jenkins CI or something similar.</p> <p>What's your self-hosted setup for continuous integration? I'd like to learn about what VPS service you use, what level of service, what continuous integration software you use, and any other important details.</p> <p>MY BACK STORY:</p> <p>A number of people on <a href="/r/github">r/github</a
+
+## Free domain with catch!
+ - [https://www.reddit.com/r/selfhosted/comments/1ca30jw/free_domain_with_catch](https://www.reddit.com/r/selfhosted/comments/1ca30jw/free_domain_with_catch)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T05:40:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, Just found out if live in Croatia you can get for free .from.hr domain, just go to CARNET site. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/baba_janga"> /u/baba_janga </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca30jw/free_domain_with_catch/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca30jw/free_domain_with_catch/">[comments]</a></span>
+
+## Looking for a Network inventory/discovery system
+ - [https://www.reddit.com/r/selfhosted/comments/1ca29i4/looking_for_a_network_inventorydiscovery_system](https://www.reddit.com/r/selfhosted/comments/1ca29i4/looking_for_a_network_inventorydiscovery_system)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T04:55:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm getting ansible setup with a UI frontend (haven't decided if AWX or Semaphore UI yet) and I need some sort of network discovery or inventory system that can scan my network and document that in some system that I can export/report into a xml or csv and convert to YAML/INI for my ansible inventory. It would primarily need to capture hostname and IP address, other fields I can customize would be neat but not exactly needed. This has been something I've been wanting for my environment for awhile now.</p> <p>Also has been a wakeup call to me that I need to better document my home environment as I'm getting to the point I forget things are existing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JANGxBANGER"> /u/JANGxBANGER </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca29i4/looking_for_a_network_inventorydiscovery_system/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/
+
+## Selfhosted Application Lifecycle management tool?
+ - [https://www.reddit.com/r/selfhosted/comments/1ca26fo/selfhosted_application_lifecycle_management_tool](https://www.reddit.com/r/selfhosted/comments/1ca26fo/selfhosted_application_lifecycle_management_tool)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T04:50:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wanted to have a tool, preferably integrable with GitLab that I could use within my company to track the lifecycle of internal tools. Mostly, I want to list tools, their responsible parties, and requests for features/bug fixes or merge requests. I also want it to be possible for a code owner to declare in which phase every tool/piece of software is, I just need &quot;development&quot;, &quot;beta testing&quot;, &quot;production&quot; and &quot;pre-decomission&quot; and &quot;decomissioned&quot;.</p> <p>The real nuisance I want fixed is that a certain developer takes weeks to accept a merge request with three lines of code that fixes a major issue, and when questioned about the low quality of the tool he maintains, he claims he's considering throwing out the tool and making a new one from scratch with a different framework. Meanwhile, I'm using it a lot and trying to optimize it for my use cases.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a h
+
+## Stalwart mail-server admin gui, some of my settings
+ - [https://www.reddit.com/r/selfhosted/comments/1ca124t/stalwart_mailserver_admin_gui_some_of_my_settings](https://www.reddit.com/r/selfhosted/comments/1ca124t/stalwart_mailserver_admin_gui_some_of_my_settings)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T03:46:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I've been running mailserver docker + snappymail (webmail that can handle multi-inbox/account in one gui) for months on my Unraid server. I'm new to stalwart mail-server and I love its small footprint and its mail admin gui.</p> <p>I've installed this excellent mail-server, v0.7.2 and wish to share how I did some settings via its gui, just in case someone found it difficult to figure out where to setup certain things even after going through the detailed documentation online that gears towards manual command lines.</p> <p>Please read the details at the stalwartlabs forum </p> <p><a href="https://www.reddit.com/r/stalwartlabs/comments/1ca033g/stalwart_mailserver_admin_gui_some_of_my_settings/">https://www.reddit.com/r/stalwartlabs/comments/1ca033g/stalwart_mailserver_admin_gui_some_of_my_settings/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/europacafe"> /u/europacafe </a> <br /> <span><a href="https://www.
+
+## Self-hosted bookmark manager that scrapes from the browser vs. from server?
+ - [https://www.reddit.com/r/selfhosted/comments/1ca0sqf/selfhosted_bookmark_manager_that_scrapes_from_the](https://www.reddit.com/r/selfhosted/comments/1ca0sqf/selfhosted_bookmark_manager_that_scrapes_from_the)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T03:32:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>So far I have found Linkwarden and Linkding which are pretty similar and self-hosted, but they seem to do the scraping server-side, versus from the browser.</p> <p>I am trying to collect bookmarks for my work laptop and store them on my work laptop. This means information that's often behind an SSO screen or corporate login. Therefore the auto-scraping from these tools fails and just captures the login screen and none of the metadata worth searching for.</p> <p>Is there a bookmark manager with a browser extension that relays the page HTML from the browser instead?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Quantity7501"> /u/Ok-Quantity7501 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca0sqf/selfhosted_bookmark_manager_that_scrapes_from_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca0sqf/selfhosted_bookmark_manager_that_scrapes_from_
+
+## Thoughts on mitigating risks of not using Cloudflare?
+ - [https://www.reddit.com/r/selfhosted/comments/1ca0rg4/thoughts_on_mitigating_risks_of_not_using](https://www.reddit.com/r/selfhosted/comments/1ca0rg4/thoughts_on_mitigating_risks_of_not_using)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T03:30:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm making a couple web applications and services, and want to mostly self-host everything at my office. I'm considering using Cloudflare, but am also not super keen on it.</p> <p>There's plenty of discussion on this subreddit about Cloudflare, and the risks of using it (they're basically a MitM and have to do TLS termination) or not using it (the possibility of being DDoS'd) but not much discussion on what one should do as an alternative to using Cloudflare.</p> <p>Are DDoS attacks all that common enough to be worth trusting them?</p> <p>What are some alternative self-hosted options, and how effective are they?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TUSF"> /u/TUSF </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca0rg4/thoughts_on_mitigating_risks_of_not_using/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca0rg4/thoughts_on_mitigating_risk
+
+## Activity manager
+ - [https://www.reddit.com/r/selfhosted/comments/1ca0nd4/activity_manager](https://www.reddit.com/r/selfhosted/comments/1ca0nd4/activity_manager)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T03:23:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there any existing package for this? Looks something like Google’s recent activity</p> <p>Log ip, time for all services</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/littleblack11111"> /u/littleblack11111 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca0nd4/activity_manager/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca0nd4/activity_manager/">[comments]</a></span>
+
+## Issues with Cockpit and SSH
+ - [https://www.reddit.com/r/selfhosted/comments/1ca0a3w/issues_with_cockpit_and_ssh](https://www.reddit.com/r/selfhosted/comments/1ca0a3w/issues_with_cockpit_and_ssh)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T03:03:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed Cockpit on my Ubuntu Jammy. Since it wanted me to upgrade openssl I put 3.4-dev (which might be an issue) from the main site. Now Cockpit works but ssh is yelling about a version mismatch build against 3.0.2 with 3.4 installed. I tried installing with ---no-openssl, but it didnt like that either.<br /> Is there an OPENSSH that will work with openssl 3.4 since that what was what cockpit wanted to work, or am I missing something obvious?<br /> &lt;OpenSSL version mismatch. Built against 30000020, you have 30400000&gt; </p> <p>I think I can point SSH to the libraries, but can see to figure out how, and help would be appreciated. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/StarwatcherK"> /u/StarwatcherK </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca0a3w/issues_with_cockpit_and_ssh/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ca0a3
+
+## so i have an ibm server how would i swap the raid to hba mode so i can install proxmox
+ - [https://www.reddit.com/r/selfhosted/comments/1c9zejd/so_i_have_an_ibm_server_how_would_i_swap_the_raid](https://www.reddit.com/r/selfhosted/comments/1c9zejd/so_i_have_an_ibm_server_how_would_i_swap_the_raid)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T02:17:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to install proxmox on my ibm system x3650 and i can't because it can't find the drives and i found the fix is to enable hba instead of raid</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ogga6165"> /u/Ogga6165 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1c9zejd/so_i_have_an_ibm_server_how_would_i_swap_the_raid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1c9zejd/so_i_have_an_ibm_server_how_would_i_swap_the_raid/">[comments]</a></span>
+
+## Strange HomePage behavior
+ - [https://www.reddit.com/r/selfhosted/comments/1c9xq8a/strange_homepage_behavior](https://www.reddit.com/r/selfhosted/comments/1c9xq8a/strange_homepage_behavior)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T00:51:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1c9xq8a/strange_homepage_behavior/"> <img alt="Strange HomePage behavior" src="https://preview.redd.it/bdju05rxhxvc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6cf91ac275aa983622e8f65ad9b39f46d223b864" title="Strange HomePage behavior" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Why do some of my widgets have this Orange dot on them, when I hover over it says «not found» clicking the link it opens as it should. Is it because services run http and not https?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/celzo1776"> /u/celzo1776 </a> <br /> <span><a href="https://i.redd.it/bdju05rxhxvc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1c9xq8a/strange_homepage_behavior/">[comments]</a></span> </td></tr></table>
+
+## Cloudflare Section 2.8, Caching and Plex. Am i doing this correct?
+ - [https://www.reddit.com/r/selfhosted/comments/1c9xf7m/cloudflare_section_28_caching_and_plex_am_i_doing](https://www.reddit.com/r/selfhosted/comments/1c9xf7m/cloudflare_section_28_caching_and_plex_am_i_doing)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T00:36:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1c9xf7m/cloudflare_section_28_caching_and_plex_am_i_doing/"> <img alt="Cloudflare Section 2.8, Caching and Plex. Am i doing this correct?" src="https://b.thumbs.redditmedia.com/EBPxGLkScDvKsokThS1ZWz_VcYn5dYUIRcjbn0RzzjI.jpg" title="Cloudflare Section 2.8, Caching and Plex. Am i doing this correct?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So we all know now that Cloudfare does not want us using their cache for Video, Audio and image content if you're a free user. </p> <p>I want to stop plex, audiobook shelf and my other media services from caching. I am just wondering if i have set up these rules correctly, is this the correct method?</p> <p>Does stopping caching even protect me from this? Do I also need to remove proxy status from these addresses on the DNS page?</p> <p>&#x200b;</p> <p><a href="https://preview.redd.it/xd3mizu6exvc1.png?width=1011&amp;format=png&amp;auto=webp&amp;s=0053f178f0257048ef4d9
+
+## Quality of Life
+ - [https://www.reddit.com/r/selfhosted/comments/1c9xb88/quality_of_life](https://www.reddit.com/r/selfhosted/comments/1c9xb88/quality_of_life)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T00:30:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>What do you self host that has been the biggest QoL improvement?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InformationNo8156"> /u/InformationNo8156 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1c9xb88/quality_of_life/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1c9xb88/quality_of_life/">[comments]</a></span>
+
+## Wireguard server and ISP port forwarding troubles
+ - [https://www.reddit.com/r/selfhosted/comments/1c9x8xu/wireguard_server_and_isp_port_forwarding_troubles](https://www.reddit.com/r/selfhosted/comments/1c9x8xu/wireguard_server_and_isp_port_forwarding_troubles)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T00:27:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! I haven't posted here before so I'm not sure if I flared this right.</p> <h3>I'll try to keep this relatively short, and if more details are requested, I'll add them here.</h3> <p>Here's the short version: I'm trying to set up a Wireguard server as a Docker container, in a Debian VM on a Proxmox server. The end goal is to be able to access my media libraries remotely, without using Cloudflare tunneling or anything like that. I have the container up and running, and I can even connect to it locally.</p> <p>The problem is that I have a &quot;managed&quot; router, which basically means that I'm not allowed to access the router's settings myself. Instead, I have to text some guy named Ben who works at my ISP, and they'll modify the settings for me. So, if I want to open port 51820, I have to have them do it for me. Which is exactly what I did - I gave them the port number and the local IP it should point to, and they took care of it.</p> <p>At least, 
+
+## Wireguard VPN with ACLs for users and front end?
+ - [https://www.reddit.com/r/selfhosted/comments/1c9x40w/wireguard_vpn_with_acls_for_users_and_front_end](https://www.reddit.com/r/selfhosted/comments/1c9x40w/wireguard_vpn_with_acls_for_users_and_front_end)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T00:20:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Not something like headscale where everyone gets their own mini network</p> <p>But for like an office where I can give users access to the office LAN with maybe some nice per user ACLs that control iptables</p> <p>Just wondering if anyone knows of any webui front ends that do this sort of vpn headend with ACLs for an office VPN network</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lordpuddingcup"> /u/lordpuddingcup </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1c9x40w/wireguard_vpn_with_acls_for_users_and_front_end/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1c9x40w/wireguard_vpn_with_acls_for_users_and_front_end/">[comments]</a></span>
+
+## RPI4 NAS with OneDrive Backup
+ - [https://www.reddit.com/r/selfhosted/comments/1c9wrmw/rpi4_nas_with_onedrive_backup](https://www.reddit.com/r/selfhosted/comments/1c9wrmw/rpi4_nas_with_onedrive_backup)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-04-22T00:04:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, </p> <p>I have a RPI4 2GB that I would like to use to set up a small NAS (mostly as a fun project). My idea is to use a single HDD connected to the pi via USB hub. For my files, I've been using OneDrive and I have everything on there. Once my NAS is up and running, I would like to set up a workflow to automatically backup my OneDrive files to the HDD every day. Is that possible/feasible to do given my set up? I could later add additional drives if I find that it works well for me. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/money_enthusiast123"> /u/money_enthusiast123 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1c9wrmw/rpi4_nas_with_onedrive_backup/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1c9wrmw/rpi4_nas_with_onedrive_backup/">[comments]</a></span>
+

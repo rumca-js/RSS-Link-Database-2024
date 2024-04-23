@@ -1,0 +1,206 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Samus skipped Fortnite because Nintendo "got really hung up" about its characters on other platforms
+ - [https://www.eurogamer.net/samus-skipped-fortnite-because-nintendo-got-really-hung-up-about-its-characters-on-other-platforms?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/samus-skipped-fortnite-because-nintendo-got-really-hung-up-about-its-characters-on-other-platforms?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T22:28:16+00:00
+
+<img src="https://assetsio.gnwcdn.com/metroid-prime-remastered-samus-scanning.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Way back in 2021, documents shared as part of Epic's court battle with Apple confirmed what Nintendo fans had long suspected: that Samus was planned to appear in Fortnite's bounty hunter season but, for reasons unknown at the time, never made the cut. But those reasons have now been revealed, with <a href="https://www.eurogamer.net/fortnite-boss-donald-mustard-is-retiring-from-epic-games">former Fortnite boss Donald Mustard</a> explaining Nintendo "got really hung up" about its characters appearing on other platforms when approached.
+</p><p>
+Fortnite's bounty hunter season ran from December 2020 to March 2021, and included appearances from two major console mascots: <a href="https://www.eurogamer.net/halos-master-chief-is-now-available-in-fortnite">Xbox's Master Chief</a> and <a href="https://www.eurogamer.net/i
+
+## Meta opening Quest mixed reality OS up to third-party hardware makers
+ - [https://www.eurogamer.net/meta-opening-quest-mixed-reality-os-up-to-third-party-hardware-makers?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/meta-opening-quest-mixed-reality-os-up-to-third-party-hardware-makers?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T21:09:52+00:00
+
+<img src="https://assetsio.gnwcdn.com/meta-game-device.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Meta is opening its Quest mixed reality operating system up to third-party hardware makers to create "more choice to consumers and a larger ecosystem for developers to build for".
+</p><p>
+"The growth of the mixed reality market and the rising popularity of use cases like gaming, entertainment, fitness, productivity, and social presence have created new opportunities for specialised hardware," Meta <a href="https://www.meta.com/en-gb/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/">writes</a>. "As we've seen with the PC and smartphone industries, consumers are best served by a broad hardware ecosystem producing both general-purpose computing devices and more specialised products, all running on a common platform."
+</p><p>
+To that end, Meta says third-party hardware manufacturers will be able to make
+
+## Microsoft's Xbox indie showcase back next week with Don't Nod's latest, more
+ - [https://www.eurogamer.net/microsofts-idxbox-indie-showcase-back-next-week-with-dont-nods-latest-and-more?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/microsofts-idxbox-indie-showcase-back-next-week-with-dont-nods-latest-and-more?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T19:21:24+00:00
+
+<img src="https://assetsio.gnwcdn.com/UNI_SCREENSHOT_REVEAL_7_1080p-1024x576.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Microsoft's indie-focused ID@Xbox digital showcase is back next Monday, 29th April, with news on Life is Strange developer Don't Nod's Lost Records: Bloom &amp; Rage and more.
+</p><p>
+This year's ID@Xbox Digital Showcase kicks off at 6pm BST in the UK (that's 10am PT), promising "lots of indie goodness" including "epic trailers, fresh gameplay, and new reveals".
+</p><p>
+Alongside the aforementioned Lost Records: Bloom &amp; Rage, Microsoft has confirmed appearances from the persistently vampire-free Vampire Survivors (recently revealed to be <a href="https://www.eurogamer.net/vampire-survivors-coming-to-playstation">getting a Contra-themed expansion soon</a>, of all things), as well as the <a href="https://www.eurogamer.net/dungeons-of-hinterberg-has-stolen-my-heart">promising</a> Dungeons of Hinterberg, and 33 I
+
+## Star Wars Jedi: Survivor joins EA Play, but only for PlayStation so far
+ - [https://www.eurogamer.net/star-wars-jedi-survivor-joins-ea-play-but-only-for-playstation-so-far?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/star-wars-jedi-survivor-joins-ea-play-but-only-for-playstation-so-far?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T17:40:01+00:00
+
+<img src="https://assetsio.gnwcdn.com/Star-Wars-Jedi-Survivor-Story-Trailer-Cal-Kestis-and-Droid.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Star Wars Jedi: Survivor, the acclaimed lightsaber twiddling action-adventure sequel from Respawn Entertainment, has been quietly added to EA's EA Play subscription service - but seemingly only for PlayStation at present.
+</p><p>
+Sharp-eyed PlayStation Store users made the discovery earlier today, after Star Wars Jedi: Survivor's store listing was updated with a note reading, "Included with EA Play" - alongside an option to subscribe to the service rather than buy the game outright.
+</p><p>
+Since then, the same notice has been spotted on PlayStation Store listings across multiple territories, <a href="https://store.playstation.com/en-gb/product/EP0006-PPSA07784_00-APPLEJACKGAME000">including the UK</a>, with subscribers reporting success in downloading and playing. At present, however, there's
+
+## Billie Eilish coming to Fortnite, adding weight to a much-discussed "leak"
+ - [https://www.eurogamer.net/billie-eilish-coming-to-fortnite-adding-weight-to-a-much-discussed-leak?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/billie-eilish-coming-to-fortnite-adding-weight-to-a-much-discussed-leak?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T16:50:06+00:00
+
+<img src="https://assetsio.gnwcdn.com/Untitled-1_AzSm9UD.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Popstar Billie Eilish will be the next music icon joining Fortnite.
+</p><p>
+The Barbie and Bad Guy singer confirmed her entry into the Fortnite metaverse today on social media, with a first look at her in-game character design. Eilish will headline the next season of Fortnite Festival, the game's Rock Band-inspired rhythm mode, and become available to buy as a character skin. 
+</p><p>
+Eilish's announcement is notable for another reason, however, as it also adds a dollop of authenticity to a purported image posted online last week, which appeared to show Fortnite's full plans for the rest of 2024. The roadmap image correctly included the then-unannounced Eilish, and while this could still have been a lucky guess, today's reveal certainly gives weight to other parts of the image also being correct. 
+</p> <p><a href="https://www.euroga
+
+## Tales of the Shire wants to fulfil the fantasy of living out your cosy Hobbit dreams
+ - [https://www.eurogamer.net/tales-of-the-shire-wants-to-fulfil-the-fantasy-of-living-out-your-cosy-hobbit-dreams?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/tales-of-the-shire-wants-to-fulfil-the-fantasy-of-living-out-your-cosy-hobbit-dreams?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T16:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Tales-of-the-Shire_T4yXvyz.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Following a <a href="https://www.eurogamer.net/cosy-lord-of-the-rings-game-tales-of-the-shire-announced-coming-2024">brief tease in September</a>, the first trailer for Tales of the Shire - the cosy Hobbit game from  W&amp;emacrt&amp;amacr Workshop and Private Division - is here. 
+</p><p>
+The trailer gives a quick look at some of the things we can expect on the game's release, including the ability to customise our Hobbit holes to just the way we like them. There will also be the chance to partake in a spot of fishing, go off to gather mushrooms and then cook everything up into a meal worthy of Bilbo Baggins. 
+</p><p>
+You can check out the trailer for Tales of the Shire below.
+</p> <p><a href="https://www.eurogamer.net/tales-of-the-shire-wants-to-fulfil-the-fantasy-of-living-out-your-cosy-hobbit-dreams?utm_source=feed&amp;ut
+
+## Classic Konami code discovered in Castlevania game 25 years after release
+ - [https://www.eurogamer.net/classic-konami-code-discovered-in-castlevania-game-25-years-after-release?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/classic-konami-code-discovered-in-castlevania-game-25-years-after-release?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T15:51:50+00:00
+
+<img src="https://assetsio.gnwcdn.com/castlevania-legacy-of-darkness.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+A new version of the classic Konami code has been discovered in Castlevania: Legacy of Darkness 25 years after its release.
+</p><p>
+A sort of director's cut of the infamously foggy Castlevania 64, Legacy of Darkness features multiple characters to play as but these must be unlocked by completing the game.
+</p><p>
+At least, until now. It turns out the iconic Konami code can be used to unlock all characters, costumes and modes - just in a new form.
+</p> <p><a href="https://www.eurogamer.net/classic-konami-code-discovered-in-castlevania-game-25-years-after-release?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Pokémon Go developer taking feedback after avatar update backlash
+ - [https://www.eurogamer.net/pokemon-go-developer-taking-feedback-after-avatar-update-backlash?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/pokemon-go-developer-taking-feedback-after-avatar-update-backlash?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T15:34:43+00:00
+
+<img src="https://assetsio.gnwcdn.com/Pokemon-Go-Avatar-Update.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Pok&eacute;mon Go developer Niantic is taking feedback following the mixed reaction to its recent player avatar refresh. 
+</p><p>
+The game's new-look avatar system went live last week, and replaced all in-game character designs with a more adjustable default option, which now has sliders for weight and specific body parts, as well as more options for skin tones and hair styles.
+</p><p>
+But the change has received a lukewarm response, with criticism of how the new avatar's faces look, and the sudden change in art style. Over the weekend, the main Pok&eacute;mon Go reddit was flooded with complaints, while one player who <a href="https://www.reddit.com/r/TheSilphRoad/comments/1c921pu/behind_the_scenes_interview_how_niantic_solicits/">claimed</a> to have been part of an internal beta test where concerns were raised ahead of time 
+
+## Manor Lords surpasses 3m Steam wishlists ahead of release this week
+ - [https://www.eurogamer.net/manor-lords-surpasses-3m-steam-wishlists-ahead-of-release-this-week?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/manor-lords-surpasses-3m-steam-wishlists-ahead-of-release-this-week?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T15:17:46+00:00
+
+<img src="https://assetsio.gnwcdn.com/ss_5ca8d90170744504ce3961dd344b3ee8deb535e3.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Manor Lords has surpassed 3m wishlists on Steam ahead of its release later this week.
+</p><p>
+The medieval city-building strategy game has been top of the most wishlisted games on Steam for some time, but has continued to build in popularity to pass yet another a major milestone.
+</p><p>
+After the demo released in 2022, the game received 500k wishlists, which jumped to 2m wishlists after its 26th April release date was announced. Seven days ahead of its launch, it hit 2.5m wishlists - and now it's added another 500k on top of that.
+</p> <p><a href="https://www.eurogamer.net/manor-lords-surpasses-3m-steam-wishlists-ahead-of-release-this-week?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## DF Weekly: 'Bespoke Collection' merch hits the DF Store
+ - [https://www.eurogamer.net/digitalfoundry-2024-bespoke-merch-now-available?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/digitalfoundry-2024-bespoke-merch-now-available?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T15:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/P1066509.JPG?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Last week, I took to Eurogamer to <a href="https://www.eurogamer.net/digitalfoundry-2024-df-weekly-warehouse-sale-at-the-df-store">announce a Warehouse Sale</a> for Digital Foundry merchandise, and this week we have development: new 'Bespoke' merch has hit <a href="https://store.digitalfoundry.net/collections/bespoke-collection?utm_source=eurogamer">the DF Store</a>, featuring a fan-made design that really tickled us given our collective predilection for uttering this phrase. </p><p>As well as the long-rumoured Bespoke tee, which comes in a double-sided blue/purple gradient design on a black shirt, you can also pick up a nifty metal pin (pictured above). Finally, the Bespoke Collection also includes a sticker pack, with a DF Approved seal of quality, a DF Retro PVM design and two #stutterstruggle frame-time graphs - including one blank design 
+
+## Tales of Kenzera review: a compassionate Afro-futurist exploration of grief
+ - [https://www.eurogamer.net/tales-of-kenzera-review?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/tales-of-kenzera-review?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T14:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Tales-of-Kenzera%E2%84%A2_-ZAU_20240414110853.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Of all the Metroidvania elements in Tales of Kenzera: Zau, my favourite are the trees. Simply enough, meditating inside a tree provides a health boost. It's here the camera pans out to reveal these great, almost magical, natural structures which provide safety, sanctuary and a moment of reflection. Protagonist Zau is a hot-headed and petulant young man desperate to revive his father, but sat quietly in the trunk of a tree, he's just a boy.
+</p><p>
+The trees are a key example of how Tales of Kenzera transposes the genre to its African setting, but also where its heart lies: with the relationship between a father and son. The game's creator, voice actor Abubakar Salim (best known for his portrayal of Bayek in Assassin's Creed: Origins), has been particularly open about the personal inspiration behind the gam
+
+## WipEout developers launch new studio with futuristic sports game planned
+ - [https://www.eurogamer.net/wipeout-developers-launch-new-studio-with-futuristic-sports-game-planned?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/wipeout-developers-launch-new-studio-with-futuristic-sports-game-planned?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T14:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Starlight-Games-BANNER.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Developers from the original PS1 classic WipEout have formed a new studio, with a futuristic sports game on the way.
+</p><p>
+Starlight Games is a new studio based in Liverpool, UK, founded by former Psygnosis developer Gary Nichols.
+</p><p>
+He's joined by co-creator of WipEout Nick Burcombe, and Skate co-creator and former Horizon: Call of the Mountain director Andy Santos.
+</p> <p><a href="https://www.eurogamer.net/wipeout-developers-launch-new-studio-with-futuristic-sports-game-planned?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Fallout 76 is currently experiencing a huge surge in players, but is it any good now?
+ - [https://www.eurogamer.net/fallout-76-is-currently-experiencing-a-huge-surge-in-players-but-is-it-any-good-now?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/fallout-76-is-currently-experiencing-a-huge-surge-in-players-but-is-it-any-good-now?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T12:11:02+00:00
+
+<img src="https://assetsio.gnwcdn.com/b1_Yx3FWHA.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Like a lot of people right now, I've been bitten by the radiocative bug that is the Fallout TV show. Because of this, I've been diving into Bethesda's back catalogue of games in order to get my Fallout fix now that I've binged my way through the series.</p><p>On yesterday's <a href="https://www.eurogamer.net/do-these-fallout-4-vr-mods-make-the-game-worth-revisiting-after-the-tv-show" target="_blank">VR Corner</a> for instance, I installed a hefty mod list for Fallout 4 VR in order to try and create the most immersive experience possible. Unfortunately however, I'm basically computer illiterate and things didn't exactly go according to <a href="https://x.com/IanHigton/status/1782373292382327143" target="_blank">plan</a>...</p><p>For today's live stream though, I've decided to revisit Fallout 76, a game that I bounced off of quite hard back wh
+
+## 12m players have got in a lather with PowerWash Simulator
+ - [https://www.eurogamer.net/12m-players-have-got-in-a-lather-with-powerwash-simulator?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/12m-players-have-got-in-a-lather-with-powerwash-simulator?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T11:26:20+00:00
+
+<img src="https://assetsio.gnwcdn.com/Powerwash-simulator-back-to-the-future.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>PowerWash Simulator has passed an impressive player milestone, really proving that a little dirt won't hurt. In fact, it has given us a quite a lot of dirt, and <a href="https://www.eurogamer.net/muddy-hell-powerwash-simulator-is-better-than-i-ever-expected">we are more than ok with that</a>.</p><p>Earlier today, developer Futurlab announced that 12 million players had donned their overalls, grabbed their hoses, and washed away more grime than I ever thought possible since the game's early access release in 2021.</p><p>This, Futurlab said, was all thanks to a number of DLC expansions, which include the likes of <a href="https://www.eurogamer.net/powerwash-simulator-warhammer-40k-dlc-release-date-announced">Warhammer 40K</a>, <a href="https://www.eurogamer.net/final-fantasy-7-dlc-coming-to-powerwash-simulator">Fina
+
+## Final Fantasy 14's Naoki Yoshida promises fix to "lifeless eyes" in graphical update
+ - [https://www.eurogamer.net/final-fantasy-14s-naoki-yoshida-promises-fix-to-lifeless-eyes-in-graphical-update?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/final-fantasy-14s-naoki-yoshida-promises-fix-to-lifeless-eyes-in-graphical-update?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T11:09:36+00:00
+
+<img src="https://assetsio.gnwcdn.com/FFXIV_PUB_FANFESTIVAL_2024_in_TOKYO_03.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Final Fantasy 14 producer and director Naoki Yoshida has promised the forthcoming graphical update will fix a number of issues spotted in the <a href="https://www.eurogamer.net/final-fantasy-14-players-react-positively-to-dawntrail-benchmark">recent Dawntrail benchmark tool</a>.
+</p><p>
+The tool was released last week and allows players to create a character and test out how the game will run on their PC once the graphical update arrives alongside next expansion Dawntrail this summer.
+</p><p>
+However, not everyone was happy with the changes as various issues were pointed out on social media. In a <a href="https://na.finalfantasyxiv.com/lodestone/topics/detail/d893f46b1f506a64b485295d29cf949ef43bf580">new blog post</a>, Yoshida explained the character creator is over 10 years old and a number of issues will be res
+
+## Valheim's Ashlands biome is deadly - but with its new weapons, so are you
+ - [https://www.eurogamer.net/valheims-ashlands-biome-is-deadly-but-with-its-new-weapons-so-are-you?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/valheims-ashlands-biome-is-deadly-but-with-its-new-weapons-so-are-you?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T11:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Axes.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><em>Spoiler warning: This article contains many details about the Ashlands update - now available to test publicly - that some players may wish to keep a surprise. You have been warned! </em></p><p>For those who have journeyed through Valheim's biomes, the prospect of facing a gruelling challenge in the upcoming Ashlands update will not be a major shock. Its predecessor, the Mistlands, brought with it formidable foes, steep cliffs and visibility challenges - and with only the Ashlands and Deep North left to conquer in Valheim's storyline, it's almost a given that both these biomes will be tough to beat. Yet somewhat alarmingly, the dangers of the Ashlands begin before you've even set foot on dry land. As I sail towards the Ashlands in a preview session with Iron Gate lead artist Robin Eyre and senior developer Jonathan Sm&aring;rs, the sea boils a
+
+## Fallout creator Tim Cain is a big fan of the TV show
+ - [https://www.eurogamer.net/fallout-creator-tim-cain-is-a-big-fan-of-the-tv-show?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/fallout-creator-tim-cain-is-a-big-fan-of-the-tv-show?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T10:34:55+00:00
+
+<img src="https://assetsio.gnwcdn.com/Maximus-Fallout-Amazon.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Fallout creator Tim Cain has plenty of praise for Amazon's recent TV adaptation.</p><p>In a <a href="https://www.youtube.com/watch?v=7bFBLAbwMA0">YouTube</a> video posted over the weekend, Cain said how much he liked the show, stating it was surreal to see something he had "worked on really hard" realised in real life.</p><p>"They had huge sets with amazing production values on them... Amazing props. The acting was phenomenal. It was just surreal to watch Fallout recreated in real life like that," Cain enthused. However, he said the main reason he liked the show so much was because of the way "everything feels like Fallout".</p> <p><a href="https://www.eurogamer.net/fallout-creator-tim-cain-is-a-big-fan-of-the-tv-show?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed">Read more</a></p>
+
+## Fallout TV show popularity prompts NexusMods to issue traffic warning
+ - [https://www.eurogamer.net/fallout-tv-show-popularity-prompts-nexusmods-to-issue-traffic-warning?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/fallout-tv-show-popularity-prompts-nexusmods-to-issue-traffic-warning?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T10:04:44+00:00
+
+<img src="https://assetsio.gnwcdn.com/Fallout76_Nukes.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+The <a href="https://www.eurogamer.net/amazons-fallout-show-officially-renewed-for-second-season">huge popularity of Amazon Prime's Fallout TV series</a> is causing traffic problems for top mod download website NexusMods.
+</p><p>
+NexusMods first issued a warning it was experiencing heavy network traffic that could cause a "degraded experience" last Friday. The site said it had deployed "extra resources" twice over the weekend in order to cope with the extra demand - but problems continue. 
+</p><p>
+As of 8am UK time this morning, NexusMods is still continuing to investigate the issue. According to an official <a href="https://nexusmods.statuspage.io/">status page</a>, the Nexus Mods website, API, CDN and forum are all currently suffering from a "degraded performance".
+</p> <p><a href="https://www.eurogamer.net/fallout-tv-show-popularity
+
+## Embracer announces plan to split into three companies, including "Middle-earth Enterprises and Friends"
+ - [https://www.eurogamer.net/embracer-announces-plan-to-split-into-three-companies-including-middle-earth-enterprises-and-friends?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.eurogamer.net/embracer-announces-plan-to-split-into-three-companies-including-middle-earth-enterprises-and-friends?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-04-22T08:07:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/391106293.webp?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+After numerous studio closures and thousands of job losses, embattled publisher Embracer will now split into three distinct entities, including one focused on its big bet to successfully develop games set in the same world as The Lord of the Rings. 
+</p><p>
+Embracer announced details of the plan this morning, and charted how parts of the company would now be named: Middle-earth Enterprises and Friends, Coffee Stain and Friends, and Asmodee Group. Each of the three will be separately listed on the Stockholm stock exchange.
+</p><p>Middle-earth Enterprises and Friends will encompass many of Embracer's biggest studios and brands, including developers such as Crystal Dynamics (Tomb Raider), Eidos Montreal (Guardians of the Galaxy), 4A Games (Metro), Plaion and Deep Silver Dambuster Studios (Dead Island 2), Warhorse (Kingdom Come Deliverance 2), 
+
