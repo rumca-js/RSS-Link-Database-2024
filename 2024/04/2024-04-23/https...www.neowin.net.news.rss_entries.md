@@ -1,0 +1,247 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Windows 10 22H2 non-security preview update KB5036979 adds Microsoft Account notifications
+ - [https://www.neowin.net/news/windows-10-22h2-non-security-preview-update-kb5036979-adds-microsoft-account-notifications](https://www.neowin.net/news/windows-10-22h2-non-security-preview-update-kb5036979-adds-microsoft-account-notifications)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T22:39:37+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/11/1668681788_windows_10_logo_red_medium.jpg" /></div>Microsoft has released the non-security preview update for Windows 10 22H2 under KB5036979. It includes new  Microsoft Account notifications, Widgets lock screen improvements and more. <a href="https://www.neowin.net/news/windows-10-22h2-non-security-preview-update-kb5036979-adds-microsoft-account-notifications/">Read more...</a>
+
+## Windows 11 22H2 and 23H2 get KB5036980 non-security preview updates with Start menu changes
+ - [https://www.neowin.net/news/windows-11-22h2-and-23h2-get-kb5036980-non-security-preview-updates-with-start-menu-changes](https://www.neowin.net/news/windows-11-22h2-and-23h2-get-kb5036980-non-security-preview-updates-with-start-menu-changes)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T22:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697149010_windows_11_medium.jpg" /></div>Microsoft has released non-security updates for  Windows 11 22H2 and 23H2 under KB5036980, They both include changes to the Start menu for apps, Widgets improvements and more updates. <a href="https://www.neowin.net/news/windows-11-22h2-and-23h2-get-kb5036980-non-security-preview-updates-with-start-menu-changes/">Read more...</a>
+
+## Fallout games saw almost five million players in a single day, Fallout 76 at one million
+ - [https://www.neowin.net/news/fallout-games-saw-almost-five-million-players-in-a-single-day-fallout-76-at-one-million](https://www.neowin.net/news/fallout-games-saw-almost-five-million-players-in-a-single-day-fallout-76-at-one-million)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T22:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2018/10/1540486510_vaultboy_head_meta_image_medium.jpg" /></div>Bethesda has announced that the Fallout franchise saw almost five million players in a single day across its games. The most recent entry, Fallout 76, saw one million players enter its online world. <a href="https://www.neowin.net/news/fallout-games-saw-almost-five-million-players-in-a-single-day-fallout-76-at-one-million/">Read more...</a>
+
+## Dev Home 0.13 is out with improved widgets and new Windows customization
+ - [https://www.neowin.net/news/dev-home-013-is-out-with-improved-widgets-and-new-windows-customization](https://www.neowin.net/news/dev-home-013-is-out-with-improved-widgets-and-new-windows-customization)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T20:40:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713904100_dev_home_0.13_medium.jpg" /></div>Microsoft is rolling out a new update for the Dev Home app on Windows 10 and 11. Version 0.13 brings widget improvements, new Windows customization options, accessibility fixes, and more. <a href="https://www.neowin.net/news/dev-home-013-is-out-with-improved-widgets-and-new-windows-customization/">Read more...</a>
+
+## Microsoft reveals some new text editing features that have been put in the Edge web browser
+ - [https://www.neowin.net/news/microsoft-reveals-some-new-text-editing-features-that-have-been-put-in-the-edge-web-browser](https://www.neowin.net/news/microsoft-reveals-some-new-text-editing-features-that-have-been-put-in-the-edge-web-browser)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T20:24:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/05/1684851930_microsoft_edge_medium.jpg" /></div>Microsoft goes into detail on some new features in its Edge web browser designed to add more text editing options, including using Copilot to rewrite text and more support for digital ink writing. <a href="https://www.neowin.net/news/microsoft-reveals-some-new-text-editing-features-that-have-been-put-in-the-edge-web-browser/">Read more...</a>
+
+## Noted Apple analyst Ming-Chi Kuo claims Vision Pro unit shipments have been heavily cut
+ - [https://www.neowin.net/news/noted-apple-analyst-ming-chi-kuo-claims-vision-pro-unit-shipments-have-been-heavily-cut](https://www.neowin.net/news/noted-apple-analyst-ming-chi-kuo-claims-vision-pro-unit-shipments-have-been-heavily-cut)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T19:18:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/06/1686056378_apple-vision-pro-12_medium.jpg" /></div>Noted third-party Apple analyst Ming-Chi Kuo claims the company has cut its first-year shipment numbers for the Vision Pro mixed reality headset from 700K-800K units down to just 400K-450K units. <a href="https://www.neowin.net/news/noted-apple-analyst-ming-chi-kuo-claims-vision-pro-unit-shipments-have-been-heavily-cut/">Read more...</a>
+
+## Lifetime of AdGuard Personal now 71% off normal price
+ - [https://www.neowin.net/deals/lifetime-of-adguard-personal-now-71-off-normal-price](https://www.neowin.net/deals/lifetime-of-adguard-personal-now-71-off-normal-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T19:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/09/1631270651_adguard_medium.jpg" /></div>Get rid of annoying and intrusive ads and protect your device from malware with this advanced ad blocking app with a lifetime personal plan for less than fifteen bucks today with Neowin Deals. <a href="https://www.neowin.net/deals/lifetime-of-adguard-personal-now-71-off-normal-price/">Read more...</a>
+
+## Microsoft and Google announce new child safety commitments for generative AI services
+ - [https://www.neowin.net/news/microsoft-and-google-announce-new-child-safety-commitments-for-generative-ai-services](https://www.neowin.net/news/microsoft-and-google-announce-new-child-safety-commitments-for-generative-ai-services)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T17:46:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/02/1612276304_microsoft_logo_2_medium.jpg" /></div>Microsoft and Google, in collaboration with Thorn and All Tech Is Human, have announced new child safety commitments for generative AI features in their various AI software products. <a href="https://www.neowin.net/news/microsoft-and-google-announce-new-child-safety-commitments-for-generative-ai-services/">Read more...</a>
+
+## Mojang delivers armadillos, eight wolf variations, wolf armor and more to Minecraft
+ - [https://www.neowin.net/news/mojang-delivers-armadillos-eight-wolf-variations-wolf-armor-and-more-to-minecraft](https://www.neowin.net/news/mojang-delivers-armadillos-eight-wolf-variations-wolf-armor-and-more-to-minecraft)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T17:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713890235_maxresdefault_25_medium.jpg" /></div>The Armored Paws update for Minecraft has gone live, and it carries the Mob Vote winner armadillos as a brand-new animal, eight wolf variants, and even fresh armor to keep them safe. <a href="https://www.neowin.net/news/mojang-delivers-armadillos-eight-wolf-variations-wolf-armor-and-more-to-minecraft/">Read more...</a>
+
+## Razer launches its latest high-end wireless gaming PC mouse, the Viper V3 Pro
+ - [https://www.neowin.net/news/razer-launches-its-latest-high-end-wireless-gaming-pc-mouse-the-viper-v3-pro](https://www.neowin.net/news/razer-launches-its-latest-high-end-wireless-gaming-pc-mouse-the-viper-v3-pro)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T17:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713889261_razer-viper-v3-pro_medium.jpg" /></div>Razer has launched its newest high-end gaming PC mouse, the Viper V3 Pro. It has a 35,000 DPI optical sensor and is very lightweight at just 54 grams. It&#039;s now available for an MSRP of $159.99. <a href="https://www.neowin.net/news/razer-launches-its-latest-high-end-wireless-gaming-pc-mouse-the-viper-v3-pro/">Read more...</a>
+
+## Google is investing €600 million to build a third data center in the Netherlands
+ - [https://www.neowin.net/news/google-is-investing-600-million-to-build-a-third-data-center-in-the-netherlands](https://www.neowin.net/news/google-is-investing-600-million-to-build-a-third-data-center-in-the-netherlands)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T16:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713889326_google_cloud_medium.jpg" /></div>Google is bullish on its investment in data centers in the Netherlands as the company is investing  €600 million to build a third one in the European country with a huge focus on sustainability.  <a href="https://www.neowin.net/news/google-is-investing-600-million-to-build-a-third-data-center-in-the-netherlands/">Read more...</a>
+
+## Fedora 40 released, main Workstation edition includes GNOME 46
+ - [https://www.neowin.net/news/fedora-40-released-main-workstation-edition-includes-gnome-46](https://www.neowin.net/news/fedora-40-released-main-workstation-edition-includes-gnome-46)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T16:30:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713886411_fedora_linux_40_release_medium.jpg" /></div>Fedora 40 has been released for download. There are lots of versions available with different desktop environments, though, Workstation, the default option, includes GNOME 46. Read on for more. <a href="https://www.neowin.net/news/fedora-40-released-main-workstation-edition-includes-gnome-46/">Read more...</a>
+
+## The Coca-Cola Company plans to spend $1.1 billion to use Microsoft's cloud and AI services
+ - [https://www.neowin.net/news/the-coca-cola-company-plans-to-spend-11-billion-to-use-microsofts-cloud-and-ai-services](https://www.neowin.net/news/the-coca-cola-company-plans-to-spend-11-billion-to-use-microsofts-cloud-and-ai-services)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T16:16:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713885161_microsoft-coca-cola_medium.jpg" /></div>Microsoft has announced a new five-year deal with The Coca-Cola Company, which plans to spend a total of $1.1 billion during that time to access Microsoft&#039;s cloud and generative AI services. <a href="https://www.neowin.net/news/the-coca-cola-company-plans-to-spend-11-billion-to-use-microsofts-cloud-and-ai-services/">Read more...</a>
+
+## Download Modern DevOps Practices - Second Edition ($39.99 Value) for free
+ - [https://www.neowin.net/sponsored/download-modern-devops-practices---second-edition-3999-value-for-free](https://www.neowin.net/sponsored/download-modern-devops-practices---second-edition-3999-value-for-free)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T16:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/06/1654591147_ormuco-designs_medium.jpg" /></div>By the end of this DevOps book, you&#039;ll have learned best practices for automating your development lifecycle and making the most of containers, automation, and CaaS and more, all for free! <a href="https://www.neowin.net/sponsored/download-modern-devops-practices---second-edition-3999-value-for-free/">Read more...</a>
+
+## Huawei wants to succeed where Microsoft failed, becoming a real threat to iOS and Android
+ - [https://www.neowin.net/news/huawei-wants-to-succeed-where-microsoft-failed-becoming-a-real-threat-to-ios-and-android](https://www.neowin.net/news/huawei-wants-to-succeed-where-microsoft-failed-becoming-a-real-threat-to-ios-and-android)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T15:34:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/06/1559489516_huawei_medium.jpg" /></div>Huawei has set a plan for HarmonyOS to become the third major mobile operating system and is in the midst of efforts to transfer key Android apps and establish worldwide relevance. <a href="https://www.neowin.net/news/huawei-wants-to-succeed-where-microsoft-failed-becoming-a-real-threat-to-ios-and-android/">Read more...</a>
+
+## Apple announces "Let Loose" iPad event for May 7, 2024
+ - [https://www.neowin.net/news/apple-announces-let-loose-ipad-event-for-may-7-2024](https://www.neowin.net/news/apple-announces-let-loose-ipad-event-for-may-7-2024)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T15:18:03+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713882072_apple-event-let-loose_medium.jpg" /></div>Apple has announced its next special event, titled &quot;Let Loose,&quot; which is expected to be where new iPad Pro and iPad Air models will be announced alongside new Apple Pencil and Magic Keyboards. <a href="https://www.neowin.net/news/apple-announces-let-loose-ipad-event-for-may-7-2024/">Read more...</a>
+
+## Snapdragon X Elite and Plus specs leak ahead of official announcement
+ - [https://www.neowin.net/news/snapdragon-x-elite-and-plus-specs-leak-ahead-of-official-announcement](https://www.neowin.net/news/snapdragon-x-elite-and-plus-specs-leak-ahead-of-official-announcement)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T15:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698155253_snapdragon_x_elite_laptop_medium.jpg" /></div>Qualcomm plans to reveal details about its upcoming Snapdragon X platform for Windows PCs soon, but full specs have already leaked ahead of the official announcement on April 24.   <a href="https://www.neowin.net/news/snapdragon-x-elite-and-plus-specs-leak-ahead-of-official-announcement/">Read more...</a>
+
+## GEEKOM XT12 Pro with Intel Core i9 is down to $664 until May 30th
+ - [https://www.neowin.net/deals/geekom-xt12-pro-with-intel-core-i9-is-down-to-664-until-may-30th](https://www.neowin.net/deals/geekom-xt12-pro-with-intel-core-i9-is-down-to-664-until-may-30th)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T15:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713858206_videoframe_6710_medium.jpg" /></div>The GEEKOM XT12 Pro comes with an i9-12900H Intel Core CPU and can drive four screens at once with its 96 EUs of Iris Xe onboard GPU. With a total TDP of just 35W, it&#039;s super efficient too. <a href="https://www.neowin.net/deals/geekom-xt12-pro-with-intel-core-i9-is-down-to-664-until-may-30th/">Read more...</a>
+
+## Ubisoft's Avatar: Frontiers of Pandora gets a 40FPS mode on consoles and Intel XeSS on PC
+ - [https://www.neowin.net/news/ubisofts-avatar-frontiers-of-pandora-gets-a-40fps-mode-on-consoles-and-intel-xess-on-pc](https://www.neowin.net/news/ubisofts-avatar-frontiers-of-pandora-gets-a-40fps-mode-on-consoles-and-intel-xess-on-pc)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T14:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/06/1686591770_afop_key_art_wide_version_ubisoftforward_june12th_2023_8.15pmcet-11.15ampt_1920x1080_a-sony_medium.jpg" /></div>Massive and Ubisoft have pushed out an update for Avatar: Frontiers of Pandora, and it carries a new 40FPS targeting performance mode for consoles, Intel&#039;s XeSS upscaling tech for PC, and more. <a href="https://www.neowin.net/news/ubisofts-avatar-frontiers-of-pandora-gets-a-40fps-mode-on-consoles-and-intel-xess-on-pc/">Read more...</a>
+
+## iPhone sales take a dip in China despite consecutive market growth
+ - [https://www.neowin.net/news/iphone-sales-take-a-dip-in-china-despite-consecutive-market-growth](https://www.neowin.net/news/iphone-sales-take-a-dip-in-china-despite-consecutive-market-growth)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T14:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701946832_iphone_15_pro_image_medium.jpg" /></div>Apple recorded a double-digit decline in its Chinese market share growth in Q1 2024. This came despite Chinese smartphone sales growing by 1.5% year-over-year in the quarter, with vivo at the top. <a href="https://www.neowin.net/news/iphone-sales-take-a-dip-in-china-despite-consecutive-market-growth/">Read more...</a>
+
+## You could win a custom Xbox Series X console that has its own exclusive X-Men 97 comic book
+ - [https://www.neowin.net/news/you-could-win-a-custom-xbox-series-x-console-that-has-its-own-exclusive-x-men-97-comic-book](https://www.neowin.net/news/you-could-win-a-custom-xbox-series-x-console-that-has-its-own-exclusive-x-men-97-comic-book)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T14:10:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713879990_gl2fxyea8aadwy7_medium.jpg" /></div>To promote the current Disney+ Marvel animated series X-Men 97, Microsoft is giving away a custom Xbox Series X console with art that&#039;s also an exclusive X-Men 97 comic book story. <a href="https://www.neowin.net/news/you-could-win-a-custom-xbox-series-x-console-that-has-its-own-exclusive-x-men-97-comic-book/">Read more...</a>
+
+## Microsoft says a Russian hacker group has been exploiting an old Windows Print Spooler issue
+ - [https://www.neowin.net/news/microsoft-says-a-russian-hacker-group-has-been-exploiting-an-old-windows-print-spooler-issue](https://www.neowin.net/news/microsoft-says-a-russian-hacker-group-has-been-exploiting-an-old-windows-print-spooler-issue)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T13:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2016/03/microsoft-security_medium.jpg" /></div>Microsoft has announced that a Russian hacker group has been exploiting an old Windows Print Spooler issue for as long as four years in order to &quot;steal credentials in compromised networks.&quot; <a href="https://www.neowin.net/news/microsoft-says-a-russian-hacker-group-has-been-exploiting-an-old-windows-print-spooler-issue/">Read more...</a>
+
+## You will probably have to wait until 2025 to get your hands on the all-screen iPhone SE 4
+ - [https://www.neowin.net/news/youd-probably-have-to-wait-till-2025-to-get-your-hands-on-the-all-screen-iphone-se-4](https://www.neowin.net/news/youd-probably-have-to-wait-till-2025-to-get-your-hands-on-the-all-screen-iphone-se-4)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T13:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713878353_iphone-13-feature_medium.jpg" /></div>Apple may reportedly launch the iPhone SE 4 in 2025. We may see a refreshed all-screen design, premium materials, and a faster chip. All these are expected to keep the price of the device above $400. <a href="https://www.neowin.net/news/youd-probably-have-to-wait-till-2025-to-get-your-hands-on-the-all-screen-iphone-se-4/">Read more...</a>
+
+## WhatsApp spotted testing a new offline file transfer feature called People Nearby
+ - [https://www.neowin.net/news/whatsapp-spotted-testing-a-new-offline-file-transfer-feature-called-people-nearby](https://www.neowin.net/news/whatsapp-spotted-testing-a-new-offline-file-transfer-feature-called-people-nearby)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T12:30:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711518286_person_using_whatsapp_on_smartphone_medium.jpg" /></div>WhatsApp is reportedly working on a new feature that will let users share files with their contacts when offline. The feature will work like AirDrop and Nearby Share to send documents, media, etc. <a href="https://www.neowin.net/news/whatsapp-spotted-testing-a-new-offline-file-transfer-feature-called-people-nearby/">Read more...</a>
+
+## The Crucial T705 Gen5 internal SSDs have been discounted down to all-new low prices
+ - [https://www.neowin.net/deals/the-crucial-t705-gen5-internal-ssds-have-been-discounted-down-to-all-new-low-prices](https://www.neowin.net/deals/the-crucial-t705-gen5-internal-ssds-have-been-discounted-down-to-all-new-low-prices)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T11:20:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713869744_crucial-t705-1_medium.jpg" /></div>Crucial&#039;s flagship T705 Gen5 internal solid-state drives have just hit all-new low prices at Amazon. You can get the 1TB version for $154.99, the 2TB model for $279.99, and the 4TB variant for $514.99 <a href="https://www.neowin.net/deals/the-crucial-t705-gen5-internal-ssds-have-been-discounted-down-to-all-new-low-prices/">Read more...</a>
+
+## Samsung begins mass-producing its 9th generation V-NAND memory chips
+ - [https://www.neowin.net/news/samsung-begins-mass-producing-its-9th-generation-v-nand-memory-chips](https://www.neowin.net/news/samsung-begins-mass-producing-its-9th-generation-v-nand-memory-chips)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T10:04:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713864003_samsung_9th_gen_vnand_medium.jpg" /></div>Samsung announced the beginning of mass production of its 9th-generation V-NAND memory chips. They are 50% denser than the previous generation and offer up to 33% input/output speed increase. <a href="https://www.neowin.net/news/samsung-begins-mass-producing-its-9th-generation-v-nand-memory-chips/">Read more...</a>
+
+## Microsoft unveils Phi-3, its smallest AI model to run on smartphones
+ - [https://www.neowin.net/news/microsoft-unveils-phi-3-its-smallest-ai-model-to-run-on-smartphones](https://www.neowin.net/news/microsoft-unveils-phi-3-its-smallest-ai-model-to-run-on-smartphones)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T09:28:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2017/04/1491058772_microsoft-logo-04_medium.jpg" /></div>Microsoft has introduced an upgraded lineup of small AI models, Phi-3. The family includes Phi-3 Mini with 3.8 billion parameters, Phi-3 Small with 7 billion, and Phi-3 Medium with 14 billion.  <a href="https://www.neowin.net/news/microsoft-unveils-phi-3-its-smallest-ai-model-to-run-on-smartphones/">Read more...</a>
+
+## Adobe announces new version of Photoshop with more advanced AI-based image creation models
+ - [https://www.neowin.net/news/adobe-announces-new-version-of-photoshop-with-more-advanced-ai-based-image-creation-models](https://www.neowin.net/news/adobe-announces-new-version-of-photoshop-with-more-advanced-ai-based-image-creation-models)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T09:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713858578_generate_image_circular_neon_portal_1_medium.jpg" /></div>Adobe has revealed a new beta version of its Photoshop image editing software. It includes the new Firefly Image 3 model for making more realistic AI images, along with other new features. <a href="https://www.neowin.net/news/adobe-announces-new-version-of-photoshop-with-more-advanced-ai-based-image-creation-models/">Read more...</a>
+
+## Samsung Galaxy Z Fold 6 and Galaxy Z Flip 6 tipped off to come in new color options
+ - [https://www.neowin.net/news/samsung-galaxy-z-fold-6-and-galaxy-z-flip-6-tipped-off-to-come-in-new-color-options](https://www.neowin.net/news/samsung-galaxy-z-fold-6-and-galaxy-z-flip-6-tipped-off-to-come-in-new-color-options)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T08:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713861298_galaxy-z-fold-5-z-flip-5-hero_medium.jpg" /></div>A latest tip suggests that the upcoming Samsung, Galaxy Z Fold 6 and the Galaxy Z Flip 6 could debut in new colors. However, the storage options are rumored to remain the same as earlier. <a href="https://www.neowin.net/news/samsung-galaxy-z-fold-6-and-galaxy-z-flip-6-tipped-off-to-come-in-new-color-options/">Read more...</a>
+
+## iPhone 16 might abandon mechanical buttons but don't bet your bottom dollar on it
+ - [https://www.neowin.net/news/iphone-16-might-abandon-mechanical-buttons-but-dont-bet-your-bottom-dollar-on-it](https://www.neowin.net/news/iphone-16-might-abandon-mechanical-buttons-but-dont-bet-your-bottom-dollar-on-it)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T08:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1695353191_apple_iphone_15_pro_medium.jpg" /></div>A new supply chain report claims Apple has contracted a supplier of capacitive buttons with haptic feedback to replace the mechanical buttons for the iPhone 16. But how realistic is that? <a href="https://www.neowin.net/news/iphone-16-might-abandon-mechanical-buttons-but-dont-bet-your-bottom-dollar-on-it/">Read more...</a>
+
+## Microsoft's private preview of Content Integrity tools expands to fight election deepfakes
+ - [https://www.neowin.net/news/microsofts-private-preview-of-content-integrity-tools-expands-to-fight-election-deepfakes](https://www.neowin.net/news/microsofts-private-preview-of-content-integrity-tools-expands-to-fight-election-deepfakes)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T07:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2017/07/1499777775_microsoft-logo-light_medium.jpg" /></div>Microsoft has announced that the private preview of Content Integrity tools will expand to EU political parties, campaigns, and media groups worldwide to fight election deepfake images. <a href="https://www.neowin.net/news/microsofts-private-preview-of-content-integrity-tools-expands-to-fight-election-deepfakes/">Read more...</a>
+
+## 16TB Seagate Exos X18 Internal HDD further drops in price, reaches all-time low on Amazon
+ - [https://www.neowin.net/deals/16tb-seagate-exos-x18-internal-hdd-further-drops-in-price-reaches-all-time-low-on-amazon](https://www.neowin.net/deals/16tb-seagate-exos-x18-internal-hdd-further-drops-in-price-reaches-all-time-low-on-amazon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T07:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/03/1679327490_seagate_medium.jpg" /></div>The 16TB Seagate Exos Enterprise X18 Internal hard drive is currently selling at its lowest price on Amazon so, you might want to get it for your storage needs while it&#039;s still in stock! <a href="https://www.neowin.net/deals/16tb-seagate-exos-x18-internal-hdd-further-drops-in-price-reaches-all-time-low-on-amazon/">Read more...</a>
+
+## Alleged Google Pixel 8a real-life images leaked, this time showing the device in blue, green
+ - [https://www.neowin.net/news/alleged-google-pixel-8a-real-life-images-leaked-this-time-showing-the-device-in-blue-green](https://www.neowin.net/news/alleged-google-pixel-8a-real-life-images-leaked-this-time-showing-the-device-in-blue-green)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T06:44:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713853285_google-pixel-8a-real-life-images-leaked_medium.jpg" /></div>Ahead of its expected launch at the Google I/O in May, the Google Pixel 8a real-life images have been leaked showing the device in blue and green colors and frankly, they look fantastic. <a href="https://www.neowin.net/news/alleged-google-pixel-8a-real-life-images-leaked-this-time-showing-the-device-in-blue-green/">Read more...</a>
+
+## A mysterious Google product with Wi-Fi, Bluetooth, and LTE connectivity spotted on FCC
+ - [https://www.neowin.net/news/a-mysterious-google-product-with-wi-fi-bluetooth-and-lte-connectivity-spotted-on-fcc](https://www.neowin.net/news/a-mysterious-google-product-with-wi-fi-bluetooth-and-lte-connectivity-spotted-on-fcc)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T05:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713845280_pixel-watch-2-hero_medium.jpg" /></div>A new Google device has popped up on the FCC with Wi-Fi, Bluetooth, and LTE but misses out on UWB or 5G. The device has the same steps to view the on-device FCC E-label as the Pixel Watch 2. <a href="https://www.neowin.net/news/a-mysterious-google-product-with-wi-fi-bluetooth-and-lte-connectivity-spotted-on-fcc/">Read more...</a>
+
+## Microsoft raising Windows 11 24H2 system requirement to block CPUs without SSE4.2 and PopCnt
+ - [https://www.neowin.net/news/microsoft-raising-windows-11-24h2-system-requirement-to-block-cpus-without-sse42-and-popcnt](https://www.neowin.net/news/microsoft-raising-windows-11-24h2-system-requirement-to-block-cpus-without-sse42-and-popcnt)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-23T04:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/02/1707731753_win_11_24h2_system_requirements_red_source_neowin_sayan_sen_medium.jpg" /></div>Microsoft recently added a compatibility block wherein very old unsupported CPUs like Intel&#039;s Core 2 Duo, are no longer able to bypass Windows 11 system requirements during version 24H2 setup. <a href="https://www.neowin.net/news/microsoft-raising-windows-11-24h2-system-requirement-to-block-cpus-without-sse42-and-popcnt/">Read more...</a>
+
