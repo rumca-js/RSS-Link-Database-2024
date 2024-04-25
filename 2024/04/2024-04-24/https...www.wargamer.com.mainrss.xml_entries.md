@@ -1,0 +1,67 @@
+# Source:Wargamer, URL:https://www.wargamer.com/mainrss.xml, language:en-US
+
+## MTG Fallout could be “the best selling Commander set ever”
+ - [https://www.wargamer.com/magic-the-gathering/mtg-fallout-commander-set-best-selling](https://www.wargamer.com/magic-the-gathering/mtg-fallout-commander-set-best-selling)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-04-24T16:02:57+00:00
+
+<img alt="MTG Fallout could be &#8220;the best selling Commander set ever&#8221;" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/04/mtg-fallout-commander-decks-best-selling.jpg" title="MTG Fallout could be &#8220;the best selling Commander set ever&#8221;" width="1920" />
+								<p>The MTG Fallout Commander set is &ldquo;probably the best performing Commander set ever&rdquo;, according to Hasbro CEO Chris Cocks. He made the remark while discussing the sales prospects for Universes Beyond products during an earnings call with investors on Wednesday. The MTG Fallout Commander decks released on March 8. Despite being available for less than &hellip; <a href="https://www.wargamer.com/magic-the-gathering/mtg-fallout-commander-set-best-selling">Continued</a></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/magic-the-gathering/mtg-fallout-commander-set-best-selling">MTG Fallout could be &#8220;the best selling C
+
+## Pro painter makes deluxe version of retro Warhammer board game
+ - [https://www.wargamer.com/warhammer-board-game-battle-masters-pro-painted](https://www.wargamer.com/warhammer-board-game-battle-masters-pro-painted)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-04-24T15:07:26+00:00
+
+<img alt="Pro painter makes deluxe version of retro Warhammer board game" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/04/warhammer-board-game-battle-masters.jpg" title="Pro painter makes deluxe version of retro Warhammer board game" width="1920" />
+								<p>Older Warhammer fans and retro collectors may remember Battle Masters, a Warhammer board game stuffed with miniatures from the early 90s. But you&rsquo;ve probably never seen it painted as well as it has been by miniature artist Michael Schott, who spent seven months painting every miniature in the box to a professional standard. Battle Masters &hellip; <a href="https://www.wargamer.com/warhammer-board-game-battle-masters-pro-painted">Continued</a></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/warhammer-board-game-battle-masters-pro-painted">Pro painter makes deluxe version of retro Warhammer board game</a>
+				</div>
+				MORE FROM WARGAMER: <a 
+
+## The best DnD one shots 5e
+ - [https://www.wargamer.com/dnd/one-shots](https://www.wargamer.com/dnd/one-shots)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-04-24T14:53:16+00:00
+
+<img alt="The best DnD one shots 5e" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2022/09/dnd-one-shots-tomb-of-annihilation-lich.jpg" title="The best DnD one shots 5e" width="1920" />
+								<p>One of the finest ways to introduce folks to the wild worlds of Dungeons and Dragons, <strong>DnD one shots</strong> are single adventures that can be completed in around one to three sessions. They're a good choice for DnD groups that struggle to nail down regular sessions, or Dungeon Masters looking for shorter setup and lighter running commitments. If you're looking for<strong> 5e one shots</strong> and advice on running them, you've come to the right place.</p>
+<p>Being smaller, <strong>Dungeons and Dragons one shots</strong> require less input both behind and beyond the DM screen. These short adventures are a hands-on way for players to try out different <a href="https://www.wargamer.com/dnd/classes">DnD classes,</a> new <a href="ht
+
+## Hasbro CEO Chris Cocks hints that MTG Arena may get Commander
+ - [https://www.wargamer.com/magic-the-gathering-arena/commander-hints](https://www.wargamer.com/magic-the-gathering-arena/commander-hints)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-04-24T14:35:24+00:00
+
+<img alt="Hasbro CEO Chris Cocks hints that MTG Arena may get Commander" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/04/mtg-arena-commander.jpg" title="Hasbro CEO Chris Cocks hints that MTG Arena may get Commander" width="1920" />
+								<p>A MTG Arena Commander game mode might be in the works, based on hints given by Hasbro CEO Chris Cocks during the firm&rsquo;s Q1 earnings call with investors. Answering a question about the ongoing development of MTG Arena, Cocks states that since &ldquo;social based play like Commander&rdquo; has driven the growth of paper magic, that&rsquo;s &hellip; <a href="https://www.wargamer.com/magic-the-gathering-arena/commander-hints">Continued</a></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/magic-the-gathering-arena/commander-hints">Hasbro CEO Chris Cocks hints that MTG Arena may get Commander</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/m
+
+## The best DnD Magical Secrets spells for your 5e Bard
+ - [https://www.wargamer.com/dnd/magical-secrets](https://www.wargamer.com/dnd/magical-secrets)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-04-24T14:08:46+00:00
+
+<img alt="The best DnD Magical Secrets spells for your 5e Bard" class="webfeedsFeaturedVisual" height="1079" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/04/dnd-magical-secrets-5e-spell.jpg" title="The best DnD Magical Secrets spells for your 5e Bard" width="1920" />
+								<p>The DnD Magical Secrets feature is one of many that makes the Bard such a versatile class. Once you reach a high enough level, you can pick and choose any spell you please. Turn your Bard into a damage-dealing machine, a melee monster, a high-powered healer, or the best supporting player that Dungeons and Dragons &hellip; <a href="https://www.wargamer.com/dnd/magical-secrets">Continued</a></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/magical-secrets">The best DnD Magical Secrets spells for your 5e Bard</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/dnd/classes">DnD classes guide</a>, <a href="https://www.wargamer.com/dnd/races">DnD races gui
+
+## MTG Thunder Junction commanders drive two 100% price spikes
+ - [https://www.wargamer.com/magic-the-gathering/mtg-thunder-junction-commanders-price-spikes](https://www.wargamer.com/magic-the-gathering/mtg-thunder-junction-commanders-price-spikes)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-04-24T10:16:26+00:00
+
+<img alt="MTG Thunder Junction commanders drive two 100% price spikes" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/04/mtg-thunder-junction-commanders-price-spikes.jpg" title="MTG Thunder Junction commanders drive two 100% price spikes" width="1920" />
+								<p>MTG cards Thada Adel, Acquisitor, and Xanathar, Guild Kingpin, have both doubled in price in the last week. The source of the&nbsp;rising demand seems to be fans building or upgrading decks for new&nbsp;MTG Thunder Junction commanders: Gonti, Canny Acquisitor and Felix Five Boots from the Grand Larceny precon; and Obeka, Splitter of Seconds&nbsp;from the main &hellip; <a href="https://www.wargamer.com/magic-the-gathering/mtg-thunder-junction-commanders-price-spikes">Continued</a></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/magic-the-gathering/mtg-thunder-junction-commanders-price-spikes">MTG Thunder Junction commanders drive two 100% price 
+

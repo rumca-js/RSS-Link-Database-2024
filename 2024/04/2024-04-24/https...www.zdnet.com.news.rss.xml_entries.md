@@ -1,0 +1,156 @@
+# Source:ZDNET, URL:https://www.zdnet.com/news/rss.xml, language:en-US
+
+## Do employers want AI skills or AI-enhanced skills? That could depend on you
+ - [https://www.zdnet.com/article/do-employers-want-ai-skills-or-ai-enhanced-skills-that-could-depend-on-you/#ftag=RSSbaffb68](https://www.zdnet.com/article/do-employers-want-ai-skills-or-ai-enhanced-skills-that-could-depend-on-you/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T20:16:10+00:00
+
+New types of jobs are emerging: The modern skillset that employers are recruiting for is vastly different from what they used to want.
+
+## Driving fast or braking hard? Your connected car may be telling your insurance company
+ - [https://www.zdnet.com/article/driving-fast-or-braking-hard-your-connected-car-may-be-telling-your-insurance-company/#ftag=RSSbaffb68](https://www.zdnet.com/article/driving-fast-or-braking-hard-your-connected-car-may-be-telling-your-insurance-company/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T20:05:00+00:00
+
+The era of connected cars presents a new privacy problem - and it could also drive up your insurance bill.
+
+## I love my Samsung Bespoke refrigerator, and you can buy one for $900 off right now
+ - [https://www.zdnet.com/home-and-office/kitchen-household/samsung-bespoke-refrigerator-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/samsung-bespoke-refrigerator-deal/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T19:42:59+00:00
+
+The Samsung Bespoke refrigerator offers lots of space and plenty of future-proof features, and you can get different models on sale right now at Best Buy.
+
+## How to use Microsoft's AI-powered Clipchamp to create a video montage - for free
+ - [https://www.zdnet.com/article/how-to-use-microsofts-ai-powered-clipchamp-to-create-a-video-montage-for-free/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-microsofts-ai-powered-clipchamp-to-create-a-video-montage-for-free/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T19:27:58+00:00
+
+Choose the clips, style, and a few other elements, and Clipchamp's AI smarts will devise a video for you.
+
+## This $150 microphone beats out more expensive mics I've tested with this brilliant feature
+ - [https://www.zdnet.com/home-and-office/home-entertainment/this-150-microphone-beats-out-more-expensive-mics-ive-tested-with-this-brilliant-feature/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/this-150-microphone-beats-out-more-expensive-mics-ive-tested-with-this-brilliant-feature/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T19:24:00+00:00
+
+The JBL Quantum Stream microphone is a competitively-priced mic with features that podcasters and streamers will appreciate.
+
+## How an unlocked phone and MobileX can save you money
+ - [https://www.zdnet.com/article/how-an-unlocked-phone-and-mobilex-can-save-you-money/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-an-unlocked-phone-and-mobilex-can-save-you-money/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T18:59:00+00:00
+
+Available at Walmart, MobileX helps you maximize the flexibility and savings that come with an unlocked phone.
+
+## Finally, a MagSafe battery pack that doesn't look like a brick (and it charges quick, too)
+ - [https://www.zdnet.com/article/finally-a-magsafe-battery-pack-that-doesnt-look-like-a-brick-and-it-charges-quick-too/#ftag=RSSbaffb68](https://www.zdnet.com/article/finally-a-magsafe-battery-pack-that-doesnt-look-like-a-brick-and-it-charges-quick-too/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T18:58:48+00:00
+
+Casely's Power Pod can power your phone, earbuds, and other electronic devices, and its design brings exactly what the battery pack market needs -- style.
+
+## Could Windows finally get ARM right and outperform Apple silicon?
+ - [https://www.zdnet.com/article/could-windows-finally-get-arm-right-and-outperform-apple-silicon/#ftag=RSSbaffb68](https://www.zdnet.com/article/could-windows-finally-get-arm-right-and-outperform-apple-silicon/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T18:58:00+00:00
+
+Microsoft and its OEM partners are poised to announce a crop of new Arm-based laptops. Can those devices really compete with Apple's mature M-series designs?
+
+## Facebook's Meta AI is lying when it says you can disable it - but here's what you can do
+ - [https://www.zdnet.com/article/facebooks-meta-ai-is-lying-when-it-says-you-can-disable-it-but-heres-what-you-can-do/#ftag=RSSbaffb68](https://www.zdnet.com/article/facebooks-meta-ai-is-lying-when-it-says-you-can-disable-it-but-heres-what-you-can-do/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T18:56:42+00:00
+
+Hate Facebook's new Meta AI tool? You can't turn it off, but you can still search just like you did before. Here's how.
+
+## The best iPad stylus of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-ipad-stylus/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-ipad-stylus/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T18:53:08+00:00
+
+We tested the best iPad stylus pens that feature palm rejection technology, tilt recognition, and long battery life to keep your productivity going all day long.
+
+## Rabbit R1 unboxing: My first impressions of the $199 AI gadget
+ - [https://www.zdnet.com/article/rabbit-r1-unboxing-my-first-impressions-of-the-199-ai-gadget/#ftag=RSSbaffb68](https://www.zdnet.com/article/rabbit-r1-unboxing-my-first-impressions-of-the-199-ai-gadget/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T18:30:00+00:00
+
+Rabbit just released its first batch of R1 devices to consumers. Here's what comes in the box and other details you might've missed.
+
+## Unboxing the $199 Rabbit R1: First impressions of the latest AI gadget
+ - [https://www.zdnet.com/article/first-impressions-unboxing-the-rabbit-r1/#ftag=RSSbaffb68](https://www.zdnet.com/article/first-impressions-unboxing-the-rabbit-r1/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T18:09:00+00:00
+
+The Rabbit R1 is a buzzy AI-assistant that just released its first batch of devices to consumers. Here's what comes in the box.
+
+## Snowflake says its new LLM outperforms Meta's Llama 3 on half the training
+ - [https://www.zdnet.com/article/snowflake-says-its-new-llm-outperforms-metas-llama-3-on-half-the-training/#ftag=RSSbaffb68](https://www.zdnet.com/article/snowflake-says-its-new-llm-outperforms-metas-llama-3-on-half-the-training/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T17:33:06+00:00
+
+Called Arctic, the open-source AI model boasts better enterprise metrics than Llama 3 8B and Llama 2 70B.
+
+## 3 ways the Reddit app just got easier for you to use on Android and iOS
+ - [https://www.zdnet.com/article/3-ways-the-reddit-app-just-got-easier-for-you-to-use-on-android-and-ios/#ftag=RSSbaffb68](https://www.zdnet.com/article/3-ways-the-reddit-app-just-got-easier-for-you-to-use-on-android-and-ios/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T17:00:22+00:00
+
+Getting the most up-to-date information on Reddit when you're on the go is now simpler.
+
+## My 5 must-have Firefox extensions and what I use them for
+ - [https://www.zdnet.com/home-and-office/work-life/my-5-must-have-firefox-extensions-and-what-i-use-them-for/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/my-5-must-have-firefox-extensions-and-what-i-use-them-for/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T16:50:44+00:00
+
+Firefox tends to be one of the more 'bare bones' web browsers but extensions enable you to add plenty of helpful features. Here are my five favorites.
+
+## This BirdBike eBike is on sale for $700
+ - [https://www.zdnet.com/article/this-birdbike-ebike-is-on-sale-for-700/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-birdbike-ebike-is-on-sale-for-700/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T16:30:22+00:00
+
+This electric-boost bicycle comes with a built-in throttle, battery, LED display, and more.
+
+## OpenAI rolls out new features to entice companies to build AI solutions
+ - [https://www.zdnet.com/article/openai-rolls-out-new-features-to-entice-companies-to-build-ai-solutions/#ftag=RSSbaffb68](https://www.zdnet.com/article/openai-rolls-out-new-features-to-entice-companies-to-build-ai-solutions/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T16:25:00+00:00
+
+Better cost management and improved security are coming to OpenAI's API.
+
+## I found Apple Vision Pro unusable at first - but then I fixed it. Here's how
+ - [https://www.zdnet.com/article/i-found-apple-vision-pro-unusable-at-first-but-then-i-fixed-it-heres-how/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-found-apple-vision-pro-unusable-at-first-but-then-i-fixed-it-heres-how/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T16:01:54+00:00
+
+If eye tracking isn't working for you in Vision Pro, these accessibility features can help.
+
+## Google yet again delays killing third-party cookies in Chrome. Here's what you need to know
+ - [https://www.zdnet.com/article/google-yet-again-delays-killing-third-party-cookies-in-chrome-heres-what-you-need-to-know/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-yet-again-delays-killing-third-party-cookies-in-chrome-heres-what-you-need-to-know/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T15:47:15+00:00
+
+Google now hopes to start phasing out third-party cookies in early 2025, instead of late 2024 as previously planned.
+
+## Microsoft is now showing ads in Windows 11's Start menu. Here's how to block them
+ - [https://www.zdnet.com/article/microsoft-is-now-showing-ads-in-windows-11s-start-menu-heres-how-to-block-them/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-is-now-showing-ads-in-windows-11s-start-menu-heres-how-to-block-them/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T14:00:00+00:00
+
+Appearing for all Windows users via a new update, the ads highlight recommended apps from the Microsoft Store.
+
+## Apple Vision Pro FAQ: Price, features, hands-on insights, and everything you need to know
+ - [https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T09:04:00+00:00
+
+Is Apple's spatial computing headset worth the price? Can you try it before buying? ZDNET answers all your burning questions.
+
+## How AI hallucinations could help create life-saving antibiotics
+ - [https://www.zdnet.com/article/how-ai-hallucinations-could-help-create-life-saving-antibiotics/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-ai-hallucinations-could-help-create-life-saving-antibiotics/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-04-24T07:36:44+00:00
+
+The tendency of AI models to make stuff up is helping medical researchers explore new molecules.
+
