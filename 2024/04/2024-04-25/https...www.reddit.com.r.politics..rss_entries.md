@@ -1,0 +1,261 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Fetterman, Warren lead Democrats in urging DEA to ‘swiftly’ take marijuana off Schedule I
+ - [https://www.reddit.com/r/politics/comments/1cd26y9/fetterman_warren_lead_democrats_in_urging_dea_to](https://www.reddit.com/r/politics/comments/1cd26y9/fetterman_warren_lead_democrats_in_urging_dea_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T20:43:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cd26y9/fetterman_warren_lead_democrats_in_urging_dea_to/"> <img alt="Fetterman, Warren lead Democrats in urging DEA to ‘swiftly’ take marijuana off Schedule I" src="https://external-preview.redd.it/svsuIJ4aU2awXvfl-Q91WuBLOXK7PRKEG57GTaQfe8k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8901737c9ed55438a83830d71721cae32dc486ac" title="Fetterman, Warren lead Democrats in urging DEA to ‘swiftly’ take marijuana off Schedule I" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/redditor01020"> /u/redditor01020 </a> <br /> <span><a href="https://thehill.com/policy/healthcare/4621316-fetterman-warren-democrats-dea-marijuana-scheduling/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cd26y9/fetterman_warren_lead_democrats_in_urging_dea_to/">[comments]</a></span> </td></tr></table>
+
+## 'Everyone Should Celebrate': FCC Restores Net Neutrality Rules
+ - [https://www.reddit.com/r/politics/comments/1cczh1z/everyone_should_celebrate_fcc_restores_net](https://www.reddit.com/r/politics/comments/1cczh1z/everyone_should_celebrate_fcc_restores_net)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T19:00:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cczh1z/everyone_should_celebrate_fcc_restores_net/"> <img alt="'Everyone Should Celebrate': FCC Restores Net Neutrality Rules" src="https://external-preview.redd.it/O4PV1H1Xu7ZtUQSxb8L-NakQhPbsdoy77SXFdMx1Bpg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af4a572ebe79885fbb0aee8de47e2774304d04f1" title="'Everyone Should Celebrate': FCC Restores Net Neutrality Rules" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Baarney23"> /u/Baarney23 </a> <br /> <span><a href="https://www.commondreams.org/news/what-is-net-neutrality">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cczh1z/everyone_should_celebrate_fcc_restores_net/">[comments]</a></span> </td></tr></table>
+
+## Judge upholds $83m E Jean Carroll defamation verdict against Trump
+ - [https://www.reddit.com/r/politics/comments/1ccz20m/judge_upholds_83m_e_jean_carroll_defamation](https://www.reddit.com/r/politics/comments/1ccz20m/judge_upholds_83m_e_jean_carroll_defamation)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T18:45:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccz20m/judge_upholds_83m_e_jean_carroll_defamation/"> <img alt="Judge upholds $83m E Jean Carroll defamation verdict against Trump" src="https://external-preview.redd.it/31vSXXuEerJZnv3v9A-bkyLmXsYNTbE7AJoZihNlnDg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b19085d4b04a313db901e25ff26c372df8145b6" title="Judge upholds $83m E Jean Carroll defamation verdict against Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.theguardian.com/us-news/2024/apr/25/e-jean-carroll-trump-defamation">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccz20m/judge_upholds_83m_e_jean_carroll_defamation/">[comments]</a></span> </td></tr></table>
+
+## Biden campaign trolls Trump for golfing on day off from court
+ - [https://www.reddit.com/r/politics/comments/1ccyluj/biden_campaign_trolls_trump_for_golfing_on_day](https://www.reddit.com/r/politics/comments/1ccyluj/biden_campaign_trolls_trump_for_golfing_on_day)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T18:28:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccyluj/biden_campaign_trolls_trump_for_golfing_on_day/"> <img alt="Biden campaign trolls Trump for golfing on day off from court" src="https://external-preview.redd.it/yiUS4rMoUxdRWjNZVs6ja6UlzNwJnUaBwKMX64k_t-Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3d7a73fa8b336a9ad8e2c4dfc2dfdd999e1e2db" title="Biden campaign trolls Trump for golfing on day off from court" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thehill"> /u/thehill </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4621546-biden-campaign-trolls-trump-golfing-court/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccyluj/biden_campaign_trolls_trump_for_golfing_on_day/">[comments]</a></span> </td></tr></table>
+
+## Pecker says burying negative stories was about protecting Trump's campaign — not his family
+ - [https://www.reddit.com/r/politics/comments/1ccxyhd/pecker_says_burying_negative_stories_was_about](https://www.reddit.com/r/politics/comments/1ccxyhd/pecker_says_burying_negative_stories_was_about)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T18:05:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AbdullahHazari"> /u/AbdullahHazari </a> <br /> <span><a href="https://www.politico.com/live-updates/2024/04/25/trump-hush-money-criminal-trial/pecker-gets-at-trump-defense-00154364">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccxyhd/pecker_says_burying_negative_stories_was_about/">[comments]</a></span>
+
+## Key Hush-Money Trial Witness Admits He Broke Law to Help Trump | David Pecker said he violated campaign finance law.
+ - [https://www.reddit.com/r/politics/comments/1ccx9pj/key_hushmoney_trial_witness_admits_he_broke_law](https://www.reddit.com/r/politics/comments/1ccx9pj/key_hushmoney_trial_witness_admits_he_broke_law)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T17:41:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccx9pj/key_hushmoney_trial_witness_admits_he_broke_law/"> <img alt="Key Hush-Money Trial Witness Admits He Broke Law to Help Trump | David Pecker said he violated campaign finance law." src="https://external-preview.redd.it/uah384pOsjX8-OVbKrjNeiqJY6u2hSAVfUWawMRqREw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5472ce08243fba5c85debf1284ea8913d59cb4e2" title="Key Hush-Money Trial Witness Admits He Broke Law to Help Trump | David Pecker said he violated campaign finance law." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenewrepublic"> /u/thenewrepublic </a> <br /> <span><a href="https://newrepublic.com/post/180991/key-witness-pecker-hush-money-trial-broke-law-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccx9pj/key_hushmoney_trial_witness_admits_he_broke_law/">[comments]</a></span> </td></tr></table>
+
+## Net neutrality rules restored by US agency, reversing Trump
+ - [https://www.reddit.com/r/politics/comments/1ccwtb8/net_neutrality_rules_restored_by_us_agency](https://www.reddit.com/r/politics/comments/1ccwtb8/net_neutrality_rules_restored_by_us_agency)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T17:23:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccwtb8/net_neutrality_rules_restored_by_us_agency/"> <img alt="Net neutrality rules restored by US agency, reversing Trump" src="https://external-preview.redd.it/6O0RgvZgj0XLvtLwJqnjQiQdp3Jrx1IRT2_V8DIIbWE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=967eece8d3012b185cd45ca753a153d4057f96db" title="Net neutrality rules restored by US agency, reversing Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CrispyMiner"> /u/CrispyMiner </a> <br /> <span><a href="https://www.reuters.com/technology/us-agency-vote-restore-net-neutrality-rules-2024-04-25/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccwtb8/net_neutrality_rules_restored_by_us_agency/">[comments]</a></span> </td></tr></table>
+
+## Sonia Sotomayor Shreds Claim President Can Kill Political Rivals With Immunity
+ - [https://www.reddit.com/r/politics/comments/1ccwoy2/sonia_sotomayor_shreds_claim_president_can_kill](https://www.reddit.com/r/politics/comments/1ccwoy2/sonia_sotomayor_shreds_claim_president_can_kill)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T16:41:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccwoy2/sonia_sotomayor_shreds_claim_president_can_kill/"> <img alt="Sonia Sotomayor Shreds Claim President Can Kill Political Rivals With Immunity" src="https://external-preview.redd.it/xy7bXlQNPw5Qql7ToPY2zg6ukkZ8tutHpknQXAd4ZZ4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ab3d6f2ca2853266a8c27b176f8d8fe969c6604" title="Sonia Sotomayor Shreds Claim President Can Kill Political Rivals With Immunity" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.thedailybeast.com/sonia-sotomayor-shreds-claim-president-can-kill-political-rivals-with-immunity">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccwoy2/sonia_sotomayor_shreds_claim_president_can_kill/">[comments]</a></span> </td></tr></table>
+
+## Federal judge upholds verdict in E. Jean Carroll case and denies Trump’s motion for a new trial
+ - [https://www.reddit.com/r/politics/comments/1ccwm1i/federal_judge_upholds_verdict_in_e_jean_carroll](https://www.reddit.com/r/politics/comments/1ccwm1i/federal_judge_upholds_verdict_in_e_jean_carroll)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T16:37:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccwm1i/federal_judge_upholds_verdict_in_e_jean_carroll/"> <img alt="Federal judge upholds verdict in E. Jean Carroll case and denies Trump’s motion for a new trial" src="https://external-preview.redd.it/BZa39MZgckt_NsQpRedOuqDgmOqXcTaaTGG7AHKwrQA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f219f587cbd54889e59e2ffa3c82def158d2055e" title="Federal judge upholds verdict in E. Jean Carroll case and denies Trump’s motion for a new trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/keyjan"> /u/keyjan </a> <br /> <span><a href="https://www.cnn.com/2024/04/25/politics/federal-judge-upholds-e-jean-carroll-verdict/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccwm1i/federal_judge_upholds_verdict_in_e_jean_carroll/">[comments]</a></span> </td></tr></table>
+
+## The Jaw-Dropping Things Trump Lawyer Says Should Qualify for Immunity: Apparently, John Sauer thinks staging a coup should be considered a presidential act.
+ - [https://www.reddit.com/r/politics/comments/1ccwegf/the_jawdropping_things_trump_lawyer_says_should](https://www.reddit.com/r/politics/comments/1ccwegf/the_jawdropping_things_trump_lawyer_says_should)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T16:29:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccwegf/the_jawdropping_things_trump_lawyer_says_should/"> <img alt="The Jaw-Dropping Things Trump Lawyer Says Should Qualify for Immunity: Apparently, John Sauer thinks staging a coup should be considered a presidential act." src="https://external-preview.redd.it/kKTgr2fAGQBeLpCq-vp9F9hS4m_-XaAqIVtfdgwfwDA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=29e5aee9b1004eb358cdcaa8ce8a19e50fff895d" title="The Jaw-Dropping Things Trump Lawyer Says Should Qualify for Immunity: Apparently, John Sauer thinks staging a coup should be considered a presidential act." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/harsh2k5"> /u/harsh2k5 </a> <br /> <span><a href="https://newrepublic.com/post/180980/trump-lawyer-immunity-supreme-court-coup">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccwegf/the_jawdropping_things_trump_lawyer_says_should/">[comments]</a></s
+
+## F.C.C. Votes to Restore Net Neutrality Rules
+ - [https://www.reddit.com/r/politics/comments/1ccwc7x/fcc_votes_to_restore_net_neutrality_rules](https://www.reddit.com/r/politics/comments/1ccwc7x/fcc_votes_to_restore_net_neutrality_rules)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T16:27:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccwc7x/fcc_votes_to_restore_net_neutrality_rules/"> <img alt="F.C.C. Votes to Restore Net Neutrality Rules" src="https://external-preview.redd.it/ukzB8co7vipLdqWSLG1i4fXCsQ3iLsHj7jE-oiBWArQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c9aeffb553340d91cc1f409980dfc7cd68a7034d" title="F.C.C. Votes to Restore Net Neutrality Rules" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alittlelessconvo"> /u/alittlelessconvo </a> <br /> <span><a href="https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html?partner=IFTTT">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccwc7x/fcc_votes_to_restore_net_neutrality_rules/">[comments]</a></span> </td></tr></table>
+
+## Justice Jackson suggests Trump claims risk turning Oval Office into ‘seat of criminality’
+ - [https://www.reddit.com/r/politics/comments/1ccvzmq/justice_jackson_suggests_trump_claims_risk](https://www.reddit.com/r/politics/comments/1ccvzmq/justice_jackson_suggests_trump_claims_risk)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T16:13:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccvzmq/justice_jackson_suggests_trump_claims_risk/"> <img alt="Justice Jackson suggests Trump claims risk turning Oval Office into ‘seat of criminality’" src="https://external-preview.redd.it/NCd8rXbudDItMQ_whI83dlGauYuQOb1zUjTT_ft3l_8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b033d72c9b76dd9fd8cf8a24d889d573e459882b" title="Justice Jackson suggests Trump claims risk turning Oval Office into ‘seat of criminality’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equalizer6338"> /u/Equalizer6338 </a> <br /> <span><a href="https://thehill.com/regulation/court-battles/4619091-supreme-court-jackson-trump-claims-oval-office-seat-criminality/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccvzmq/justice_jackson_suggests_trump_claims_risk/">[comments]</a></span> </td></tr></table>
+
+## Trump Lawyer Argues He Could Legally Order Assassination Of Political Rival
+ - [https://www.reddit.com/r/politics/comments/1ccvd58/trump_lawyer_argues_he_could_legally_order](https://www.reddit.com/r/politics/comments/1ccvd58/trump_lawyer_argues_he_could_legally_order)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T15:49:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccvd58/trump_lawyer_argues_he_could_legally_order/"> <img alt="Trump Lawyer Argues He Could Legally Order Assassination Of Political Rival" src="https://external-preview.redd.it/rpavgoOxVmzZBIzGdZVMs1rCGyt8L1rQtbZhC3i9jrs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba6bf1e147bf3f5e660632fe34208a83bb9ebcc9" title="Trump Lawyer Argues He Could Legally Order Assassination Of Political Rival" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/madcowga"> /u/madcowga </a> <br /> <span><a href="https://www.huffpost.com/entry/donald-trump-immunity-supreme-court_n_662a6777e4b09d8df9d5b71f?n8g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccvd58/trump_lawyer_argues_he_could_legally_order/">[comments]</a></span> </td></tr></table>
+
+## RNC’s ‘election integrity’ lawyer charged with election crimes - Christina Bobb is the lawyer overseeing the RNC's "election integrity" efforts. She was also just indicted by a grand jury for election-related crimes.
+ - [https://www.reddit.com/r/politics/comments/1ccv2hy/rncs_election_integrity_lawyer_charged_with](https://www.reddit.com/r/politics/comments/1ccv2hy/rncs_election_integrity_lawyer_charged_with)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T15:37:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccv2hy/rncs_election_integrity_lawyer_charged_with/"> <img alt="RNC’s ‘election integrity’ lawyer charged with election crimes - Christina Bobb is the lawyer overseeing the RNC's &quot;election integrity&quot; efforts. She was also just indicted by a grand jury for election-related crimes." src="https://external-preview.redd.it/Aw5cIKlrVwvVmiMc2FqxrNTfxW1YFQLhq_g0txiu1dg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b8cd795d168bebc7f7a0c7abb928ac99c3c7e58" title="RNC’s ‘election integrity’ lawyer charged with election crimes - Christina Bobb is the lawyer overseeing the RNC's &quot;election integrity&quot; efforts. She was also just indicted by a grand jury for election-related crimes." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mountaintop111"> /u/mountaintop111 </a> <br /> <span><a href="https://www.msnbc.com/rachel-maddow-show/maddowblog/rncs-election-integrity-lawyer-char
+
+## Trump Lawyer Says Having Political Rival Killed Could Constitute ‘Official’ Presidential Act | The Supreme Court heard oral arguments Thursday on the former president's bid to secure sweeping immunity from criminal prosecution
+ - [https://www.reddit.com/r/politics/comments/1ccuw9k/trump_lawyer_says_having_political_rival_killed](https://www.reddit.com/r/politics/comments/1ccuw9k/trump_lawyer_says_having_political_rival_killed)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T15:30:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccuw9k/trump_lawyer_says_having_political_rival_killed/"> <img alt="Trump Lawyer Says Having Political Rival Killed Could Constitute ‘Official’ Presidential Act | The Supreme Court heard oral arguments Thursday on the former president's bid to secure sweeping immunity from criminal prosecution" src="https://external-preview.redd.it/wjbTi62IPMCogx67tXmgFjY0RVYcy1BK_JNy8jLUWUg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76a2ac502a25305eee3cf0a0dd1762255bdf57e0" title="Trump Lawyer Says Having Political Rival Killed Could Constitute ‘Official’ Presidential Act | The Supreme Court heard oral arguments Thursday on the former president's bid to secure sweeping immunity from criminal prosecution" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newfrontier58"> /u/newfrontier58 </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/supreme-court-trump-immunity-oral
+
+## Senators call on postal board to abandon DeJoy’s USPS reforms | The overhaul is harming the Postal Service, Democrats say, though postal leadership says it just needs more time.
+ - [https://www.reddit.com/r/politics/comments/1ccu2l7/senators_call_on_postal_board_to_abandon_dejoys](https://www.reddit.com/r/politics/comments/1ccu2l7/senators_call_on_postal_board_to_abandon_dejoys)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T14:57:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccu2l7/senators_call_on_postal_board_to_abandon_dejoys/"> <img alt="Senators call on postal board to abandon DeJoy’s USPS reforms | The overhaul is harming the Postal Service, Democrats say, though postal leadership says it just needs more time." src="https://external-preview.redd.it/aQnqTH8TD_WkefjcjbrRv7HnPPmFTJzupQk72r0N5Jw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=dd8f95249a19749610aa82d19cefd8122726a49e" title="Senators call on postal board to abandon DeJoy’s USPS reforms | The overhaul is harming the Postal Service, Democrats say, though postal leadership says it just needs more time." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.govexec.com/management/2024/04/senators-call-postal-board-abandon-dejoys-usps-reforms/396048/?oref=ge-home-top-story">[link]</a></span> &#32; <span><a href="https://www.
+
+## Bill Barr slinks back to the Trump camp, gets rewarded with a string of insults on Truth Social
+ - [https://www.reddit.com/r/politics/comments/1cctz66/bill_barr_slinks_back_to_the_trump_camp_gets](https://www.reddit.com/r/politics/comments/1cctz66/bill_barr_slinks_back_to_the_trump_camp_gets)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T14:53:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cctz66/bill_barr_slinks_back_to_the_trump_camp_gets/"> <img alt="Bill Barr slinks back to the Trump camp, gets rewarded with a string of insults on Truth Social" src="https://external-preview.redd.it/qwWA0uKtLnJJiOKgkiHl356KKL6xVZhmmtJ44zNaMBg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e180aea02314f43ca953b075055b046a7c9d4a5" title="Bill Barr slinks back to the Trump camp, gets rewarded with a string of insults on Truth Social" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/a9JDvXLWHumjaC"> /u/a9JDvXLWHumjaC </a> <br /> <span><a href="https://www.salon.com/2024/04/25/bill-barr-slinks-back-to-the-camp-gets-rewarded-with-a-string-of-insults-on-truth-social">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cctz66/bill_barr_slinks_back_to_the_trump_camp_gets/">[comments]</a></span> </td></tr></table>
+
+## MAGA begins to panic: Trump may not make it to the ballot
+ - [https://www.reddit.com/r/politics/comments/1ccttae/maga_begins_to_panic_trump_may_not_make_it_to_the](https://www.reddit.com/r/politics/comments/1ccttae/maga_begins_to_panic_trump_may_not_make_it_to_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T14:46:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccttae/maga_begins_to_panic_trump_may_not_make_it_to_the/"> <img alt="MAGA begins to panic: Trump may not make it to the ballot" src="https://external-preview.redd.it/oAcvufaI7MYh7ZyNVmeXACKCEZMP5kA_vycZGnrD9Qs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b76ff349a7dcba6729688aa6f79206c41190d17f" title="MAGA begins to panic: Trump may not make it to the ballot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plastic-Age5205"> /u/Plastic-Age5205 </a> <br /> <span><a href="https://www.salon.com/2024/04/25/maga-begins-to-panic-may-not-make-it-to-the-ballot/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccttae/maga_begins_to_panic_trump_may_not_make_it_to_the/">[comments]</a></span> </td></tr></table>
+
+## White House seizes on Mitch McConnell saying Trump stalled action on border security
+ - [https://www.reddit.com/r/politics/comments/1cctsj2/white_house_seizes_on_mitch_mcconnell_saying](https://www.reddit.com/r/politics/comments/1cctsj2/white_house_seizes_on_mitch_mcconnell_saying)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T14:45:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cctsj2/white_house_seizes_on_mitch_mcconnell_saying/"> <img alt="White House seizes on Mitch McConnell saying Trump stalled action on border security" src="https://external-preview.redd.it/IZluGLuKyf82CLhr3_1ZMjql8Z2eE3Ud263hvui2VHo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99d49f22fb6e6c682fdedbb0320ae5a1400bb7e6" title="White House seizes on Mitch McConnell saying Trump stalled action on border security" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br /> <span><a href="https://www.nbcnews.com/politics/joe-biden/white-house-mitch-mcconnell-trump-stalled-action-border-rcna149331">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cctsj2/white_house_seizes_on_mitch_mcconnell_saying/">[comments]</a></span> </td></tr></table>
+
+## "Where's Melania?": Missing wife is why Trump's lawyers can't pull off the "family man" defense National Enquirer publisher David Pecker testified that Trump's wife was the last thing on his mind
+ - [https://www.reddit.com/r/politics/comments/1cctfly/wheres_melania_missing_wife_is_why_trumps_lawyers](https://www.reddit.com/r/politics/comments/1cctfly/wheres_melania_missing_wife_is_why_trumps_lawyers)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T14:30:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cctfly/wheres_melania_missing_wife_is_why_trumps_lawyers/"> <img alt="&quot;Where's Melania?&quot;: Missing wife is why Trump's lawyers can't pull off the &quot;family man&quot; defense National Enquirer publisher David Pecker testified that Trump's wife was the last thing on his mind" src="https://external-preview.redd.it/q8qrwhB0HsJu_Mr28lyOdPJRmADwKl9caUQ_aLrkVJA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1206c5593fdeb68b543bb8f96a7790766d1ccf3f" title="&quot;Where's Melania?&quot;: Missing wife is why Trump's lawyers can't pull off the &quot;family man&quot; defense National Enquirer publisher David Pecker testified that Trump's wife was the last thing on his mind" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Arrest_The_President"> /u/Arrest_The_President </a> <br /> <span><a href="https://www.salon.com/2024/04/25/wheres-melania-missing-wife-is-why-lawyers-cant-pull-off-t
+
+## Granting Trump total immunity would make America a global outlier
+ - [https://www.reddit.com/r/politics/comments/1ccsvri/granting_trump_total_immunity_would_make_america](https://www.reddit.com/r/politics/comments/1ccsvri/granting_trump_total_immunity_would_make_america)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T14:08:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccsvri/granting_trump_total_immunity_would_make_america/"> <img alt="Granting Trump total immunity would make America a global outlier" src="https://external-preview.redd.it/vNGUqwYRCVGkzgpfItZfpLergB4wOxJdFiBhmuBC2qw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2127d2f269696b211eade8e466b4ebc283a056a" title="Granting Trump total immunity would make America a global outlier" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/citizensforethics"> /u/citizensforethics </a> <br /> <span><a href="https://www.citizensforethics.org/news/analysis/granting-trump-total-immunity-would-make-america-a-global-outlier/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccsvri/granting_trump_total_immunity_would_make_america/">[comments]</a></span> </td></tr></table>
+
+## In Court, Donald Trump Is a Loser--and Alone
+ - [https://www.reddit.com/r/politics/comments/1ccs3b9/in_court_donald_trump_is_a_loserand_alone](https://www.reddit.com/r/politics/comments/1ccs3b9/in_court_donald_trump_is_a_loserand_alone)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T13:34:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccs3b9/in_court_donald_trump_is_a_loserand_alone/"> <img alt="In Court, Donald Trump Is a Loser--and Alone" src="https://external-preview.redd.it/tAm2Kgam4FSLTWFayjs6Ccu9z-jPrAtZARyVDRoI3A0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d83946ab79112bcd7e1ba4d4a6d9eec31f7b74e0" title="In Court, Donald Trump Is a Loser--and Alone" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheKingofAndrews"> /u/TheKingofAndrews </a> <br /> <span><a href="https://www.thedailybeast.com/in-court-donald-trump-is-a-loserand-alone?utm_campaign=owned_social&amp;utm_medium=socialflow&amp;via=twitter_page&amp;utm_source=twitter_owned_tdb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccs3b9/in_court_donald_trump_is_a_loserand_alone/">[comments]</a></span> </td></tr></table>
+
+## Government watchdog alleges Trump campaign broke the law trying to hide legal payments
+ - [https://www.reddit.com/r/politics/comments/1ccrq55/government_watchdog_alleges_trump_campaign_broke](https://www.reddit.com/r/politics/comments/1ccrq55/government_watchdog_alleges_trump_campaign_broke)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T13:18:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccrq55/government_watchdog_alleges_trump_campaign_broke/"> <img alt="Government watchdog alleges Trump campaign broke the law trying to hide legal payments" src="https://external-preview.redd.it/bOLt7qFntgq0PeYWvopSBt314qjRSz2WvXguENNV1E4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7bbc9051da31d7dad0b51bd60d007f3bcc69e3c8" title="Government watchdog alleges Trump campaign broke the law trying to hide legal payments" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Afraid-Technician687"> /u/Afraid-Technician687 </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/elections/2024/04/24/donald-trump-campaign-legal-bills-complaint/73444749007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccrq55/government_watchdog_alleges_trump_campaign_broke/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: New York Criminal Fraud Trial of Donald Trump, Day 7
+ - [https://www.reddit.com/r/politics/comments/1ccr76j/discussion_thread_new_york_criminal_fraud_trial](https://www.reddit.com/r/politics/comments/1ccr76j/discussion_thread_new_york_criminal_fraud_trial)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T12:54:16+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>Analysis:</strong></p> <ul> <li>AP: <a href="https://apnews.com/live/trump-trial-witnesses-updates">Trump trial day 6 highlights</a></li> </ul> <p><strong>Live Updates:</strong></p> <ul> <li><p>AP: <a href="https://apnews.com/live/trump-trial-hush-money-updates-day-7">Live Updates</a></p></li> <li><p>Reuters: <a href="https://www.reuters.com/world/us/trump-trial-live-supreme-court-hears-immunity-claim-hush-money-trial-focuses-2024-04-25/">Live Updates</a></p></li> <li><p>CNN: <a href="https://www.cnn.com/politics/live-news/trump-hush-money-trial-04-25-24/index.html">Live Updates</a></p></li> <li><p>ABC: <a href="https://abcnews.go.com/US/live-updates/trump-hush-money-trial/?id=108402689">Live Updates</a></p></li> <li><p>The Washington Post (metered paywall): <a href="https://www.washingtonpost.com/politics/2024/04/25/trump-hush-money-trial-live-updates-david-pecker-testimony/">Live Updates</a></p></li> <li><p>The New York Times (metered paywal
+
+## Discussion Thread: US Supreme Court Hears Oral Argument in Trump v. United States, a Case About Presidential Immunity From Prosecution
+ - [https://www.reddit.com/r/politics/comments/1ccr74k/discussion_thread_us_supreme_court_hears_oral](https://www.reddit.com/r/politics/comments/1ccr74k/discussion_thread_us_supreme_court_hears_oral)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T12:54:11+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.oyez.org/cases/2023/23-939">Per Oyez</a>, the questions at issue in today's case are: &quot;Does a former president enjoy presidential immunity from criminal prosecution for conduct alleged to involve official acts during his tenure in office, and if so, to what extent?&quot;</p> <p>Oral argument is scheduled to begin at 10 a.m. Eastern.</p> <p><strong>News:</strong></p> <ul> <li><p>AP: <a href="https://apnews.com/article/supreme-court-trump-capitol-riot-prosecution-immunity-72c885c07c77970d4380206f87b2d8ca">No one is above the law. Supreme Court will decide if that includes Trump while he was president</a></p></li> <li><p>CBS: <a href="https://www.cbsnews.com/news/supreme-court-trump-immunity-2020-election-arguments/">Supreme Court to consider Trump's claim of sweeping immunity in 2020 election case</a></p></li> </ul> <p><strong>Analysis:</strong></p> <ul> <li><p>SCOTUSblog: <a href="https://www.scotusblog.com/2024/04/supreme-cou
+
+## Trump ally "cooperating with prosecutors" could spur others to flip—Lawyer
+ - [https://www.reddit.com/r/politics/comments/1ccr08l/trump_ally_cooperating_with_prosecutors_could](https://www.reddit.com/r/politics/comments/1ccr08l/trump_ally_cooperating_with_prosecutors_could)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T12:44:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccr08l/trump_ally_cooperating_with_prosecutors_could/"> <img alt="Trump ally &quot;cooperating with prosecutors&quot; could spur others to flip—Lawyer" src="https://external-preview.redd.it/kMs8nw7AO8wHU8pxdV4k_DDVZ1eocFCHudsyqCDMzog.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=92c3ed43ac0df54e64f0a700915ff38ce7ffeb22" title="Trump ally &quot;cooperating with prosecutors&quot; could spur others to flip—Lawyer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br /> <span><a href="https://www.newsweek.com/arizona-trump-kenneth-chesebro-fake-electors-flip-1894071">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccr08l/trump_ally_cooperating_with_prosecutors_could/">[comments]</a></span> </td></tr></table>
+
+## Giuliani charged in Arizona case; Trump an unindicted co-conspirator
+ - [https://www.reddit.com/r/politics/comments/1ccqalt/giuliani_charged_in_arizona_case_trump_an](https://www.reddit.com/r/politics/comments/1ccqalt/giuliani_charged_in_arizona_case_trump_an)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T12:08:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccqalt/giuliani_charged_in_arizona_case_trump_an/"> <img alt="Giuliani charged in Arizona case; Trump an unindicted co-conspirator" src="https://external-preview.redd.it/yObRnGHyxIPsEXDWrtfGoOkpiPLgdzRfQb6QsjOFavw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a9fde17f04a36751d9f7650bdf225ea5f0a5cd4" title="Giuliani charged in Arizona case; Trump an unindicted co-conspirator" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mountaintop111"> /u/mountaintop111 </a> <br /> <span><a href="https://www.reuters.com/world/us/grand-jury-indicts-18-alleged-arizona-fake-elector-scheme-re-elect-trump-2024-04-24/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccqalt/giuliani_charged_in_arizona_case_trump_an/">[comments]</a></span> </td></tr></table>
+
+## 'How Embarrassing': Trump Mocked For 'Pretending To Be President' In Strange Ceremony
+ - [https://www.reddit.com/r/politics/comments/1ccpd2u/how_embarrassing_trump_mocked_for_pretending_to](https://www.reddit.com/r/politics/comments/1ccpd2u/how_embarrassing_trump_mocked_for_pretending_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T11:18:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccpd2u/how_embarrassing_trump_mocked_for_pretending_to/"> <img alt="'How Embarrassing': Trump Mocked For 'Pretending To Be President' In Strange Ceremony" src="https://external-preview.redd.it/HiIMpRu_1WsqQIPsIcMkWaF7_vBdKPoOjHZxssT1Ge4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=efe7a435df1c2447026d884b94e046dd46d70b5d" title="'How Embarrassing': Trump Mocked For 'Pretending To Be President' In Strange Ceremony" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ObjectiveAd6551"> /u/ObjectiveAd6551 </a> <br /> <span><a href="https://www.huffpost.com/entry/donald-trump-white-house-key_n_662a09bbe4b01a688b3ddec1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccpd2u/how_embarrassing_trump_mocked_for_pretending_to/">[comments]</a></span> </td></tr></table>
+
+## No one is above the law. Supreme Court will decide if that includes Trump while he was president
+ - [https://www.reddit.com/r/politics/comments/1ccp4iq/no_one_is_above_the_law_supreme_court_will_decide](https://www.reddit.com/r/politics/comments/1ccp4iq/no_one_is_above_the_law_supreme_court_will_decide)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T11:04:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccp4iq/no_one_is_above_the_law_supreme_court_will_decide/"> <img alt="No one is above the law. Supreme Court will decide if that includes Trump while he was president" src="https://external-preview.redd.it/UwQR-io5n4GMuoqvaMye2JjvHulR_qTgfJrSvKwV1-U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95e095fa190c09e2bf734bc25bb6bd57d3d2f32e" title="No one is above the law. Supreme Court will decide if that includes Trump while he was president" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/P_Sophia_"> /u/P_Sophia_ </a> <br /> <span><a href="https://apnews.com/article/72c885c07c77970d4380206f87b2d8ca">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccp4iq/no_one_is_above_the_law_supreme_court_will_decide/">[comments]</a></span> </td></tr></table>
+
+## Justice Clarence Thomas chooses not to recuse himself from another January 6-related case
+ - [https://www.reddit.com/r/politics/comments/1ccoupf/justice_clarence_thomas_chooses_not_to_recuse](https://www.reddit.com/r/politics/comments/1ccoupf/justice_clarence_thomas_chooses_not_to_recuse)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T10:48:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccoupf/justice_clarence_thomas_chooses_not_to_recuse/"> <img alt="Justice Clarence Thomas chooses not to recuse himself from another January 6-related case" src="https://external-preview.redd.it/QgFbekpMn8bU3jgw-rTB2LPPXHCnhiH591qD7g3tUy8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eddd016027398ba415f35aba1a05a095adccaa6f" title="Justice Clarence Thomas chooses not to recuse himself from another January 6-related case" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CouchCorrespondent"> /u/CouchCorrespondent </a> <br /> <span><a href="https://www.cnn.com/2024/04/25/politics/clarence-thomas-january-6-case/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccoupf/justice_clarence_thomas_chooses_not_to_recuse/">[comments]</a></span> </td></tr></table>
+
+## The Supreme Court’s likely to make it more dangerous to be pregnant in a red state
+ - [https://www.reddit.com/r/politics/comments/1ccosci/the_supreme_courts_likely_to_make_it_more](https://www.reddit.com/r/politics/comments/1ccosci/the_supreme_courts_likely_to_make_it_more)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T10:44:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccosci/the_supreme_courts_likely_to_make_it_more/"> <img alt="The Supreme Court’s likely to make it more dangerous to be pregnant in a red state" src="https://external-preview.redd.it/fVsl11iD1jMZ9N6zEk-T_pBz0fOpQl73p3wg3tr6TmM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d52241e00a29e3353a964a9e78000b98ea5c301" title="The Supreme Court’s likely to make it more dangerous to be pregnant in a red state" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.vox.com/scotus/24139251/supreme-court-abortion-emtala-idaho-united-states-moyle">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccosci/the_supreme_courts_likely_to_make_it_more/">[comments]</a></span> </td></tr></table>
+
+## Mike Johnson on Marjorie Taylor Greene: 'I Don't Think About Her at All'
+ - [https://www.reddit.com/r/politics/comments/1ccong6/mike_johnson_on_marjorie_taylor_greene_i_dont](https://www.reddit.com/r/politics/comments/1ccong6/mike_johnson_on_marjorie_taylor_greene_i_dont)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T10:35:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccong6/mike_johnson_on_marjorie_taylor_greene_i_dont/"> <img alt="Mike Johnson on Marjorie Taylor Greene: 'I Don't Think About Her at All'" src="https://external-preview.redd.it/4ANsXgzEQPw_nd3uXiUb7mrkO2iSgddT_FHjK1IVvyM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=48708fa11cdd3729ff21fa52a44f7ba4f92c848a" title="Mike Johnson on Marjorie Taylor Greene: 'I Don't Think About Her at All'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.newsweek.com/mike-johnson-marjorie-taylor-greene-row-republicans-1894050">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccong6/mike_johnson_on_marjorie_taylor_greene_i_dont/">[comments]</a></span> </td></tr></table>
+
+## Biden Just Saved the 40-Hour Work Week | It's been a fantastic week for middle-out economics.
+ - [https://www.reddit.com/r/politics/comments/1ccokpg/biden_just_saved_the_40hour_work_week_its_been_a](https://www.reddit.com/r/politics/comments/1ccokpg/biden_just_saved_the_40hour_work_week_its_been_a)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T10:30:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccokpg/biden_just_saved_the_40hour_work_week_its_been_a/"> <img alt="Biden Just Saved the 40-Hour Work Week | It's been a fantastic week for middle-out economics." src="https://external-preview.redd.it/e31juK5pJhndVo-FQ0U4Wh_9BhscIPt0ttCAY0fymWU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99a994823526afd26dd4552f5d2599bc86c5b896" title="Biden Just Saved the 40-Hour Work Week | It's been a fantastic week for middle-out economics." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newnemo"> /u/newnemo </a> <br /> <span><a href="https://newrepublic.com/article/180966/biden-overtime-rule-middle-class">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccokpg/biden_just_saved_the_40hour_work_week_its_been_a/">[comments]</a></span> </td></tr></table>
+
+## New Complaint Alleges Trump Campaign Hid Millions in Lawyer Payments
+ - [https://www.reddit.com/r/politics/comments/1ccobnw/new_complaint_alleges_trump_campaign_hid_millions](https://www.reddit.com/r/politics/comments/1ccobnw/new_complaint_alleges_trump_campaign_hid_millions)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T10:14:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccobnw/new_complaint_alleges_trump_campaign_hid_millions/"> <img alt="New Complaint Alleges Trump Campaign Hid Millions in Lawyer Payments" src="https://external-preview.redd.it/T9lKLl3QRaqx1L6mXc4TLVW4LwJLx1027mO8bwRUD1Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d1a096fa8c662b380f9a7fd17d535d3e2b9ea91" title="New Complaint Alleges Trump Campaign Hid Millions in Lawyer Payments" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/konorM"> /u/konorM </a> <br /> <span><a href="https://www.thedailybeast.com/new-complaint-alleges-trump-campaign-hid-millions-in-lawyer-payments?ref=home?ref=home">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccobnw/new_complaint_alleges_trump_campaign_hid_millions/">[comments]</a></span> </td></tr></table>
+
+## ‘Mike You Suck’: Columbia Students Let Loose on Speaker Johnson
+ - [https://www.reddit.com/r/politics/comments/1ccfhh3/mike_you_suck_columbia_students_let_loose_on](https://www.reddit.com/r/politics/comments/1ccfhh3/mike_you_suck_columbia_students_let_loose_on)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T01:26:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccfhh3/mike_you_suck_columbia_students_let_loose_on/"> <img alt="‘Mike You Suck’: Columbia Students Let Loose on Speaker Johnson" src="https://external-preview.redd.it/ZuIpxVj7dgjA7cV6ma3_ejxbgA3eywMzzjGt5dBHGW0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=08395273c491ebba5da3fd9a975b1364ea8e414f" title="‘Mike You Suck’: Columbia Students Let Loose on Speaker Johnson" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/etfvpu"> /u/etfvpu </a> <br /> <span><a href="https://www.thedailybeast.com/booing-columbia-students-drown-out-mike-johnsons-call-for-national-guard">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccfhh3/mike_you_suck_columbia_students_let_loose_on/">[comments]</a></span> </td></tr></table>
+
+## Alabama Senate passes measure ensuring Biden can be on ballot
+ - [https://www.reddit.com/r/politics/comments/1ccf8qy/alabama_senate_passes_measure_ensuring_biden_can](https://www.reddit.com/r/politics/comments/1ccf8qy/alabama_senate_passes_measure_ensuring_biden_can)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T01:14:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccf8qy/alabama_senate_passes_measure_ensuring_biden_can/"> <img alt="Alabama Senate passes measure ensuring Biden can be on ballot" src="https://external-preview.redd.it/27sTpzToe52ebcAp6seKxCI-p2Q9K1-ns03kEDIaONc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ab3c629475fed05f4258816294c86e01801e895" title="Alabama Senate passes measure ensuring Biden can be on ballot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LeMoineSpectre"> /u/LeMoineSpectre </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4617607-alabama-senate-passes-measure-ensuring-biden-can-be-on-ballot/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccf8qy/alabama_senate_passes_measure_ensuring_biden_can/">[comments]</a></span> </td></tr></table>
+
+## 'So appalled': What witnesses told special counsel about Trump's handling of classified info while still president
+ - [https://www.reddit.com/r/politics/comments/1ccf58h/so_appalled_what_witnesses_told_special_counsel](https://www.reddit.com/r/politics/comments/1ccf58h/so_appalled_what_witnesses_told_special_counsel)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-04-25T01:09:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ccf58h/so_appalled_what_witnesses_told_special_counsel/"> <img alt="'So appalled': What witnesses told special counsel about Trump's handling of classified info while still president" src="https://external-preview.redd.it/Wxa5sZ2qEFol1CJn8IhdvYw8A6AnqcV45D80_oL0keo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=761cdf3468de4ecc28e5d8b9b1ea9ffe2465553c" title="'So appalled': What witnesses told special counsel about Trump's handling of classified info while still president" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sabedo"> /u/sabedo </a> <br /> <span><a href="https://abcnews.go.com/US/appalled-witnesses-told-special-counsel-trumps-handling-classified/story?id=109362691">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ccf58h/so_appalled_what_witnesses_told_special_counsel/">[comments]</a></span> </td></tr></table>
+

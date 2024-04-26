@@ -1,0 +1,182 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## Best free password managers 2024: Online security doesn’t have to cost a thing
+ - [https://www.pcworld.com/article/394076/best-free-password-managers.html](https://www.pcworld.com/article/394076/best-free-password-managers.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-25T18:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>You should definitely be using a password manager. Data breaches are happening more frequently, and that flood of stolen info has made cracking passwords even easier. And it&rsquo;s not just the &ldquo;password12345&rdquo; variety that is at risk&mdash;passwords that use variations on a single password or substituting numbers for letters are also vulnerable. Even if you&rsquo;re using unique, random passwords, storing them in a document or spreadsheet is not truly keeping them safe and secure.</p>
+
+
+
+<p>While <a href="https://www.pcworld.com/article/3207185/best-password-managers-reviews-and-buying-advice.html">paid password managers</a> offer nice extras, a free password manager still protects you from the risks of using weak passwords (or worse, using the same one everywhere). Instead of remembering all of your passwords, you just have to remember one password 
+
+## Get a massive 42-inch 4K OLED monitor for $400 off
+ - [https://www.pcworld.com/article/2315262/get-a-massive-42-inch-4k-oled-monitor-for-400-off.html](https://www.pcworld.com/article/2315262/get-a-massive-42-inch-4k-oled-monitor-for-400-off.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-25T16:21:22+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Is there such a thing as a monitor that&rsquo;s too big? Asus doesn&rsquo;t think so, especially when it comes to fancy OLED screens. That&rsquo;s why it made the ROG Swift PG42UQ, a 4K gaming monitor that straddles the border between PC screen and TV. (It even comes with side ports and a remote control.) Normally $1,399, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0BBSV1LK5?&amp;xcust=2-1-2315262-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Amazon is selling it for just $999 today</a>. </p>
+
+
+
+<p>The PG42UQ&rsquo;s 41.5-inch panel has a 3840&times;2160 resolution, so you&rsquo;ll need a pretty beefy gaming PC to take full advantage of it, especially at its maximum 138Hz refresh rate (with G-Sync on top). But if your system is up to the challenge, you can see some jaw-dropping colors and perfect black
+
+## Best home office monitors 2024: Displays that get the job done
+ - [https://www.pcworld.com/article/1389780/best-home-office-monitors.html](https://www.pcworld.com/article/1389780/best-home-office-monitors.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-25T16:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Working from home has gone from being a growing trend to a full-scale phenomenon. There are many perks to a work-from-home arrangement, to be sure, but there can also be downsides: For example, there&rsquo;s a good chance you&rsquo;ll need to supply your own monitor. Fortunately, there are many great home office monitors to choose from, as I&rsquo;ve discovered through extensive real-world testing.</p>
+
+
+
+<p>Below you&rsquo;ll find my picks for the best home office monitors, and below that you can learn more about what specs and features matter when shopping for a home office monitor.</p>
+
+
+
+<p>For even more monitor recommendations, check out our roundups of the <a href="https://www.pcworld.com/article/811315/best-monitors-2.html">best monitors</a> and the <a href="https://www.pcworld.com/article/1787210/best-portable-monitors.html">best portable monitors</a>. Th
+
+## Save $420 on powerful Dell laptop with a 1600p display
+ - [https://www.pcworld.com/article/2315185/2315185.html](https://www.pcworld.com/article/2315185/2315185.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-25T15:08:56+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re looking to pick up an affordable yet powerful laptop for office work or day-to-day use, you&rsquo;re in luck. Dell&rsquo;s currently selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.dell.com/en-us/shop/laptops/inspiron-laptops/spd/inspiron-16-5630-laptop/usichbts5630gmqn&amp;xcust=2-1-2315185-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Inspiron 16 for just $729.99</a>, which is a massive savings of $420. Not only does this machine come with a powerful Intel Core i7-1360P processor, but it also has a spacious 16-inch 1600p display with barely there bezels and a 60Hz refresh rate. It also has a solid selection of connectivity options, including one Thunderbolt 4.0 port, allowing for faster data transfer.   </p>
+
+
+
+<p>Crack this nutshell open and you&rsquo;ll find the aforementioned Intel Core i
+
+## MSI Claw claims up to 40% performance boost with new driver, BIOS
+ - [https://www.pcworld.com/article/2315048/msi-claw-claims-up-to-40-performance-boost-with-new-driver-bios.html](https://www.pcworld.com/article/2315048/msi-claw-claims-up-to-40-performance-boost-with-new-driver-bios.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-25T13:58:37+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p><a href="https://www.pcworld.com/article/2196283/ces-hands-on-msi-claw-vs-steam-deck-vs-asus-ally.html">MSI&rsquo;s Claw</a> looks like a lot of PC-based gaming handhelds that have come out in the last year to compete with the Steam Deck. But underneath it&rsquo;s packing something wholly unique for the form factor: an Intel CPU and integrated GPU. And Intel&rsquo;s new-ish Arc GPUs sometimes make huge gains with a little software tweaking. MSI claims that the latest updates can give it some big boosts. </p>
+
+
+
+<p>According to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://forum-en.msi.com/index.php?threads/update-bios-106-ec105-intel-graphics-driver-101-5382-released.396381/&amp;xcust=2-1-2315048-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">a forum post from last week</a>, Claw owners should install both the latest BIOS f
+
+## Snapdragon X PCs might finally work like they should
+ - [https://www.pcworld.com/article/2313997/qualcomm-snapdragon-x-elite-pcs-might-just-work.html](https://www.pcworld.com/article/2313997/qualcomm-snapdragon-x-elite-pcs-might-just-work.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-25T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>For too long, PCs with Snapdragon Arm chips inside of them have been a mixed bag: some native apps run well, but others have stuttered and hung if they weren&rsquo;t coded correctly. Those days may be over: the man in charge of the Qualcomm Snapdragon X Elite and X Plus says Qualcomm has addressed the compatibility issues.</p>
+
+
+
+<p>I <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/watch?v=TXhFbPEmvcw&amp;t=1145s&amp;xcust=2-1-2313997-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">interviewed</a> Kedar Kondap, the senior vice president and general manager of Compute and Gaming for Qualcomm, a few weeks ago. At the time, Qualcomm was showing off how the <a href="https://www.pcworld.com/article/2284554/qualcomm-says-snapdragon-x-elite-kicks-intel-core-ultras-butt-too.html">Snapdragon X Elite compared to Intel&rs
+
+## Dell XPS 14 (2024) review: Style and substance come at too high a price
+ - [https://www.pcworld.com/article/2308462/dell-xps-14-2024-review.html](https://www.pcworld.com/article/2308462/dell-xps-14-2024-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-25T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Respectable performance</li><li>Long battery life</li><li>Elegant design</li><li>Brilliant OLED touchscreen</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Hefty for a thin-and-light</li><li>Design has usability issues</li><li>Pricey for the performance</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Dell XPS 14 is a looker, but even though it can offer respectable performance, it comes at s
+
+## How Linux’s insanely customizable desktop works
+ - [https://www.pcworld.com/article/2306777/linux-know-how-how-the-desktop-works.html](https://www.pcworld.com/article/2306777/linux-know-how-how-the-desktop-works.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-25T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re using a Linux desktop, the graphical user interface isn&rsquo;t an integral part of the system, it&rsquo;s additional software that&rsquo;s loaded as required. The desktop and everything that goes with it is an independent add-on and consists of several components. This article lists those components and their tasks and provides tips on how to put this knowledge into practice.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="display-server-xorg-or-wayland">Display server: Xorg or Wayland</h2>
+
+
+
+<p>Among Linux desktops, the X server <strong>Xorg </strong>still generally works as a display server. The X server is the hardware-related basis of the graphical user interface. </p>
+
+
+
+<p>All the components mentioned below are clients that depend on the X server. Xorg is pre-installed on every Linux desktop and runs as standard. Only on pure server systems wi
+
+## Satechi Surface Pro 9 Hub review: What a niche device!
+ - [https://www.pcworld.com/article/2302296/satechi-surface-pro-9-hub-review.html](https://www.pcworld.com/article/2302296/satechi-surface-pro-9-hub-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-25T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Physically stable</li><li>Reasonable price</li><li>4K60 output</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Very niche product &mdash; specific to the Microsoft Surface Pro 9</li><li>Single 4K display support, even for USB4 hardware</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">Satechi&rsquo;s Dual USB-C Surface Pro 9 Hub is an affordable, suitable hub for the Microsoft Surface Pro 9 tablet
+
+## Lock in safer browsing for the whole family with $60 off AdGuard
+ - [https://www.pcworld.com/article/2314287/lock-in-safer-browsing-for-the-whole-family-with-60-off-adguard.html](https://www.pcworld.com/article/2314287/lock-in-safer-browsing-for-the-whole-family-with-60-off-adguard.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-25T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The internet is rife with ads, scams, and malware these days. You&rsquo;re not going to stop using it, however, so it&rsquo;s best to use it safely. With an <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/adguard-family-plan-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=adguard-family-plan-lifetime-subscription&amp;utm_term=scsf-595246&amp;utm_content=a0xRn000000xoLmIAI&amp;scsonar=1&amp;xcust=2-1-2314287-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">AdGuard Family Plan</a>, you and your family can enjoy not just a safer browsing experience but a better, and even faster one. Now through 4/30, you can get a lifetime subscription for more than $50 off.</p>
+
+
+
+<p>AdGuard is a top-rated ad blocker that has earned 4.6/5 stars on G2 and 4.7/5 stars on T
+
+## Save $60 on this nightlight wireless charging pad
+ - [https://www.pcworld.com/article/2314280/save-60-on-this-nightlight-wireless-charging-pad.html](https://www.pcworld.com/article/2314280/save-60-on-this-nightlight-wireless-charging-pad.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-04-25T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Most of us charge our phones overnight. But having to disconnect it from the charger when you wake up to go the bathroom can be a hassle. So, why plug it in at all? With this <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/15w-night-light-wireless-charging-pad-black?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=15w-night-light-wireless-charging-pad-black&amp;utm_term=scsf-595262&amp;utm_content=a0xRn000000xt6vIAA&amp;scsonar=1&amp;xcust=2-1-2314280-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">15W Nightlight Wireless Charging Pad</a>, you can give your compatible phone a charge without having to unplug it when you get up. Right now, it&rsquo;s $60 off.</p>
+
+
+
+<p>This device is compatible with all wireless charging-capable phones and earbuds, from iPhone to Android. All
+

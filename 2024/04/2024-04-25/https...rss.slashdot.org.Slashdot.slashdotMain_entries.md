@@ -1,0 +1,196 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## US Teacher Charged With Using AI To Frame Principal With Hate Speech Clip
+ - [https://yro.slashdot.org/story/24/04/25/2215233/us-teacher-charged-with-using-ai-to-frame-principal-with-hate-speech-clip?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/04/25/2215233/us-teacher-charged-with-using-ai-to-frame-principal-with-hate-speech-clip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T23:40:25.153706+00:00
+
+Thomas Claburn reports via The Register: Baltimore police have arrested Dazhon Leslie Darien, the former athletic director of Pikesville High School (PHS), for allegedly impersonating the school's principal using AI software to make it seem as if he made racist and antisemitic remarks. Darien, of Baltimore, Maryland, was subsequently charged with witness retaliation, stalking, theft, and disrupting school operations. He was detained late at night trying to board a flight at BWI Thurgood Marshall Airport. Security personnel stopped him because the declared firearm he had with him was improperly packed and an ensuing background check revealed an open warrant for his arrest.
+ 
+"On January 17, 2024, the Baltimore County Police Department became aware of a voice recording being circulated on social media," said Robert McCullough, Chief of Baltimore County Police, at a streamed press conference today. "It was alleged the voice captured on the audio file belong to Mr Eric Eiswert, the Princi
+
+## US 'Know Your Customer' Proposal Will Put an End To Anonymous Cloud Users
+ - [https://news.slashdot.org/story/24/04/25/210238/us-know-your-customer-proposal-will-put-an-end-to-anonymous-cloud-users?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/04/25/210238/us-know-your-customer-proposal-will-put-an-end-to-anonymous-cloud-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T22:36:11.876910+00:00
+
+An anonymous reader quotes a report from TorrentFreak: Late January, the U.S. Department of Commerce published a notice of proposed rulemaking for establishing new requirements for Infrastructure as a Service providers (IaaS) . The proposal boils down to a 'Know Your Customer' regime for companies operating cloud services, with the goal of countering the activities of "foreign malicious actors." Yet, despite an overseas focus, Americans won't be able to avoid the proposal's requirements, which covers CDNs, virtual private servers, proxies, and domain name resolution services, among others. [...] Under the proposed rule, Customer Identification Programs (CIPs) operated by IaaS providers must collect information from both existing and prospective customers, i.e. those at the application stage of opening an account. The bare minimum includes the following data: a customer's name, address, the means and source of payment for each customer's account, email addresses and telephone numbers, 
+
+## Garry's Mod Is Taking Down Decades of Nintendo-Related Add-Ons
+ - [https://games.slashdot.org/story/24/04/25/227224/garrys-mod-is-taking-down-decades-of-nintendo-related-add-ons?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/04/25/227224/garrys-mod-is-taking-down-decades-of-nintendo-related-add-ons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T22:36:09.999927+00:00
+
+Following copyright takedown requests from Nintendo, the popular physics sandbox game Garry's Mod said it would be pulling all of its Nintendo-related add-ons. "Honestly, this is fair enough. This is Nintendo's content and what they allow and don't allow is up to them," said the developers in a post on Steam. "They don't want you playing with that stuff in Garry's Mod -- that's their decision, we have to respect that and take down as much as we can. This is an ongoing process, as we have 20 years of uploads to go through." The Verge reports: The takedown requests mean Garry's Mod will have to remove a huge swath of Nintendo-related maps and other items. Over the years, player-made content on Garry's Mod has allowed players to do things like turn Super Mario 64 into a first-person shooter or even explore Hyrule as Link. Since there is just so much Nintendo-related content on Garry's Mod, developers are asking the community to remove any infringing work they've uploaded.<p><div class="s
+
+## Stripe To Start Taking Crypto Payments, Starting With USDC Stablecoin
+ - [https://news.slashdot.org/story/24/04/25/2031208/stripe-to-start-taking-crypto-payments-starting-with-usdc-stablecoin?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/04/25/2031208/stripe-to-start-taking-crypto-payments-starting-with-usdc-stablecoin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T21:30:41.084404+00:00
+
+Fintech giant Stripe announced on Thursday that it would let customers accept cryptocurrency payments, starting with USDC stablecoins, initially only on Solana, Ethereum and Polygon. TechCrunch reports: This will be the first time that Stripe has taken crypto payments since 2018, when it dropped support for Bitcoin due to it being too unstable. Stripe in 2022 tried its first reentry into the crypto market when it announced payouts (but not payments) in USDC, with Twitter as its marquee customer for the service. Thursday's news has no customer names attached to it.
+ 
+On Wednesday the company unveiled a long list of other launches, the most significant update being that Stripe, for the very first time, would let customers integrate competing payment providers with Stripe's other financial services tooling. Thursday's nod to expanding crypto support is also part of that bigger strategy to open up its walled garden. A brief timeline of Stripe's dance with crypto underscores the tricky lin
+
+## Twilio Founder Buys Satire Site 'The Onion'
+ - [https://entertainment.slashdot.org/story/24/04/25/2044216/twilio-founder-buys-satire-site-the-onion?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/24/04/25/2044216/twilio-founder-buys-satire-site-the-onion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T21:30:39.591356+00:00
+
+Jeff Lawson, the cofounder of cloud computing company Twilio, appears to have purchased the satirical news website The Onion from G/O Media. Business Insider reports: A trust linked to Lawson is behind a San Francisco-based company called Global Tetrahedron, which shares the name of a fictional evil megacorporation in a long-running Onion gag, business records show. G/O Media CEO Jim Spanfeller confirmed the sale of The Onion to Global Tetrahedron in an email Thursday to staff, first reported by New York Times journalist Katie Robertson.
+ 
+"This company is made up of four digital media veterans with a profound love for The Onion and comedy based content," Spanfeller wrote. "The site's new owners have agreed to keep The Onion's entire staff intact and in Chicago, something we insisted be part of the deal." When asked about the purchase, Lawson replied: "What's The Onion?" Then, "What's a Tetrahedron?"<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?st
+
+## Ubuntu 24.04 LTS 'Noble Numbat' Officially Released
+ - [https://news.slashdot.org/story/24/04/25/2036234/ubuntu-2404-lts-noble-numbat-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/04/25/2036234/ubuntu-2404-lts-noble-numbat-officially-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T21:30:38.092795+00:00
+
+prisoninmate shares a report from 9to5Linux: Canonical released today Ubuntu 24.04 LTS (Noble Numbat) as the latest version of its popular Linux-based operating system featuring some of the latest GNU/Linux technologies and Open Source software. Powered by Linux kernel 6.8, Ubuntu 24.04 LTS features the latest GNOME 46 desktop environment, an all-new graphical firmware update tool called Firmware Updater, Netplan 1.0 for state-of-the-art network management, updated Ubuntu font, support for the deb822 format for software sources, increased vm.max_map_count for better gaming, and Mozilla Thunderbird as a Snap by default.
+ 
+It also comes with an updated Flutter-based graphical desktop installer that's now capable of updating itself and features a bunch of changes like support for accessibility features, guided (unencrypted) ZFS installations, a new option to import auto-install configurations for templated custom provisioning, as well as new default installation options, such as Default 
+
+## FCC Votes To Restore Net Neutrality Rules
+ - [https://tech.slashdot.org/story/24/04/25/1948234/fcc-votes-to-restore-net-neutrality-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/04/25/1948234/fcc-votes-to-restore-net-neutrality-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T20:27:17.445299+00:00
+
+An anonymous reader quotes a report from the New York Times: The Federal Communications Commission voted on Thursday to restore regulations that expand government oversight of broadband providersand aim to protect consumer access to the internet, a move that will reignite a long-running battle over the open internet. Known as net neutrality, the regulations were first put in place nearly a decade ago under the Obama administration and are aimed at preventing internet service providers like Verizon or Comcast from blocking or degrading the delivery of services from competitors like Netflix and YouTube. The rules were repealed under President Donald J. Trump, and have proved to be a contentious partisan issue over the years while pitting tech giants against broadband providers.
+ 
+In a 3-to-2 vote along party lines, the five-member commission appointed by President Biden revived the rules that declare broadband a utility-like service regulated like phones and water. The rules also give t
+
+## New Rule Compels US Coal-Fired Power Plants To Capture Emissions - or Shut Down
+ - [https://news.slashdot.org/story/24/04/25/176209/new-rule-compels-us-coal-fired-power-plants-to-capture-emissions---or-shut-down?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/04/25/176209/new-rule-compels-us-coal-fired-power-plants-to-capture-emissions---or-shut-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T18:17:45.564178+00:00
+
+Coal-fired power plants would be forced to capture smokestack emissions or shut down under a rule issued on Thursday by the Environmental Protection Agency (EPA). From a report: New limits on greenhouse gas emissions from fossil fuel-fired electric plants are the Biden administration's most ambitious effort yet to roll back planet-warming pollution from the power sector, the nation's second-largest contributor to the climate crisis. The rules are a key part of Joe Biden's pledge to eliminate carbon pollution from the electricity sector by 2035 and economy-wide by 2050. 
+
+The rule was among four separate measures targeting coal and natural gas plants that the EPA said would provide "regular certainty" to the power industry and encourage them to make investments to transition "to a clean energy economy." They also include requirements to reduce toxic wastewater pollutants from coal-fired plants and to safely manage so-called coal ash in unlined storage ponds. The new rules "reduce pollu
+
+## ByteDance Prefers TikTok Shutdown in US if Legal Options Fail, Report Says
+ - [https://slashdot.org/story/24/04/25/1741238/bytedance-prefers-tiktok-shutdown-in-us-if-legal-options-fail-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/04/25/1741238/bytedance-prefers-tiktok-shutdown-in-us-if-legal-options-fail-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T18:17:43.653563+00:00
+
+TikTok owner ByteDance would prefer shutting down its loss-making app rather than sell it if the Chinese company exhausts all legal options to fight legislation to ban the platform from app stores in the U.S., Reuters reported Thursday, citing sources. From the report: The algorithms TikTok relies on for its operations are deemed core to ByteDance overall operations, which would make a sale of the app with algorithms highly unlikely, said the sources close to the parent. TikTok accounts for a small share of ByteDance's total revenues and daily active users, so the parent would rather have the app shut down in the U.S. in a worst case scenario than sell it to a potential American buyer, they said. 
+
+A shut-down would have limited impact on ByteDance's business while the company would not have to give up its core algorithm, said the sources, who declined to be named as they were not authorised to speak to the media. It said late on Thursday in a statement posted on Toutiao, a media plat
+
+## iPhone Activation Market Share Hits New Low as Android Dominates
+ - [https://apple.slashdot.org/story/24/04/25/1512229/iphone-activation-market-share-hits-new-low-as-android-dominates?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/04/25/1512229/iphone-activation-market-share-hits-new-low-as-android-dominates?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T17:12:39.014790+00:00
+
+An anonymous reader shares a report: Consumer Intelligence Research Partners is out with a report on how iPhone activations compare to Android in the US. The latest data shows a notable drop over the last year bringing Apple's US smartphone market share of new activations back in time six years. CIRP shared its new iPhone report on its Substack this morning. The firm notes that while it believes Apple's installed smartphone base is higher than the recent share of US smartphone activations, the latter has taken a dive. 
+
+As shown below, the metric peaked at 40% for Q1 and Q2 in 2023 with Apple seeing a decline to 33% of new smartphone activations in the US as of Q1 2024, says CIRP. That means 2 out of 3 new smartphone activations in the US are Android devices. Per CIRP's data, Apple hasn't seen numbers that low since 2017.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=iPhone+Activation+Market+Share+Hits+New+Low+as+Android+Dominates%3A+https%3
+
+## Ford Just Reported a Massive Loss on Every Electric Vehicle It Sold
+ - [https://tech.slashdot.org/story/24/04/25/1458246/ford-just-reported-a-massive-loss-on-every-electric-vehicle-it-sold?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/04/25/1458246/ford-just-reported-a-massive-loss-on-every-electric-vehicle-it-sold?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T16:07:28.132000+00:00
+
+Ford's electric vehicle unit reported that losses soared in the first quarter to $1.3 billion, or $132,000 for each of the 10,000 vehicles it sold in the first three months of the year, helping to drag down earnings for the company overall. From a report: Ford, like most automakers, has announced plans to shift from traditional gas-powered vehicles to EVs in coming years. But it is the only traditional automaker to break out results of its retail EV sales. And the results it reported Wednesday show another sign of the profit pressures on the EV business at Ford and other automakers. 
+
+The EV unit, which Ford calls Model e, sold 10,000 vehicles in the quarter, down 20% from the number it sold a year earlier. And its revenue plunged 84% to about $100 million, which Ford attributed mostly to price cuts for EVs across the industry. That resulted in the $1.3 billion loss before interest and taxes (EBIT), and the massive per-vehicle loss in the Model e unit. A price war among EVs for about 
+
+## Net Neutrality is About To Make a Comeback
+ - [https://tech.slashdot.org/story/24/04/25/1537203/net-neutrality-is-about-to-make-a-comeback?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/04/25/1537203/net-neutrality-is-about-to-make-a-comeback?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T16:07:26.644418+00:00
+
+The Federal Communications Commission is set to vote to restore net neutrality on Thursday in the latest volley of a yearslong game of political ping-pong. From a report: The commission is expected to reclassify internet service providers (ISPs) -- e.g., broadband companies like AT&amp;T and Comcast -- as common carriers under Title II of the Communications Act. That classification would open ISPs up to greater oversight by the FCC. The vote is widely expected to go in favor of reinstating net neutrality since FCC Chair Jessica Rosenworcel, a Democrat, controls the agency's agenda. Rosenworcel moved forward with the measure after a fifth commissioner was sworn in, restoring a Democratic majority on the panel. Net neutrality proponents say that oversight can help ensure fair access to an open internet by upholding principles like no blocking or throttling of internet traffic. Opponents, including industry players, fear it could halt innovation and subject ISPs to onerous price regulati
+
+## AI Could Kill Off Most Call Centres, Says TCS Head
+ - [https://slashdot.org/story/24/04/25/1349237/ai-could-kill-off-most-call-centres-says-tcs-head?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/04/25/1349237/ai-could-kill-off-most-call-centres-says-tcs-head?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T15:02:24.460700+00:00
+
+The head of Indian IT company Tata Consultancy Services has said AI will result in "minimal" need for call centres in as soon as a year, with AI's rapid advances set to upend a vast industry across Asia and beyond. From a report: K Krithivasan, TCS chief executive, told the Financial Times that while "we have not seen any job reduction" so far, wider adoption of generative AI among multinational clients would overhaul the kind of customer help centres that have created mass employment in countries such as India and the Philippines. "In an ideal phase, if you ask me, there should be very minimal incoming call centres having incoming calls at all," he said. "We are in a situation where the technology should be able to predict a call coming and then proactively address the customer's pain point." He said chatbots would soon be able to analyse a customer's transaction history and do much of the work done by call centre agents. "That's where we are going...I don't think we are there today 
+
+## Spotify Says Apple Has Rejected Its App Update With Price Information for EU Users
+ - [https://apple.slashdot.org/story/24/04/25/1415216/spotify-says-apple-has-rejected-its-app-update-with-price-information-for-eu-users?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/04/25/1415216/spotify-says-apple-has-rejected-its-app-update-with-price-information-for-eu-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T15:02:22.528469+00:00
+
+Apple has rejected Spotify's new version of its iOS app with in-app pricing information for users in the European Union, the audio streaming firm said on Thursday. Reuters: The Swedish company submitted a new version of its app to Apple with basic pricing and website information, which is a minimum requirement under the European Commission's ruling in its music streaming case, it said in a post on X on Wednesday. Spotify said the Cupertino, California based-Apple rejected its update in a response directly sent to the company. 
+
+"Apple has once again defied the European Commission's decision, rejecting our update for attempting to communicate with customers about our prices unless we pay Apple a new tax. Their disregard for consumers and developers is matched only by their disdain for the law," a spokesperson for Spotify said in a statement. In March, Brussels fined Apple with 1.84 billion euros ($1.97 billion) for thwarting competition from music streaming rivals via restrictions on i
+
+## US Fertility Rate Falls To Lowest In a Century
+ - [https://news.slashdot.org/story/24/04/25/074224/us-fertility-rate-falls-to-lowest-in-a-century?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/04/25/074224/us-fertility-rate-falls-to-lowest-in-a-century?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T13:51:35.464093+00:00
+
+An anonymous reader quotes a report from CNN: The fertility rate in the United States has been trending down for decades, and a new report shows that another drop in births in 2023 brought the rate down to the lowest it's been in more than century. There were about 3.6 million babies born in 2023, or 54.4 live births for every 1,000 females ages 15 to 44, according to provisional data from the US Centers for Disease Control and Prevention's National Center for Health Statistics. After a steep plunge in the first year of the Covid-19 pandemic, the fertility rate has fluctuated. But the 3% drop between 2022 and 2023 brought the rate just below the previous low from 2020, which was 56 births for every 1,000 women of reproductive age.
+ 
+The birth rate fell among most age groups between 2022 and 2023, the new report shows. The teen birth rate reached another record low of 13.2 births per 1,000 females ages 15 to 19, which is 79% lower than it was at the most recent peak from 1991. However,
+
+## Vast DNA Tree of Life For Plants Revealed By Global Science Team
+ - [https://news.slashdot.org/story/24/04/25/0655249/vast-dna-tree-of-life-for-plants-revealed-by-global-science-team?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/04/25/0655249/vast-dna-tree-of-life-for-plants-revealed-by-global-science-team?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T10:36:17.531423+00:00
+
+An international team of scientists used 1.8 billion letters of genetic code from more than 9,500 species covering almost 8,000 known flowering plant genera to create the most up-to-date understanding of the flowering plant tree of life. The research has been published in the journal Nature. Phys.Org reports: The major milestone for plant science, led by [Royal Botanic Gardens, Kew] and involving 138 organizations internationally, was built on 15 times more data than any comparable studies of the flowering plant tree of life. Among the species sequenced for this study, more than 800 have never had their DNA sequenced before. The sheer amount of data unlocked by this research, which would take a single computer 18 years to process, is a huge stride towards building a tree of life for all 330,000 known species of flowering plants -- a massive undertaking by Kew's Tree of Life Initiative.
+ 
+The flowering plant tree of life, much like our own family tree, enables us to understand how diff
+
+## Airlines Required To Refund Passengers For Canceled, Delayed Flights
+ - [https://news.slashdot.org/story/24/04/24/2349248/airlines-required-to-refund-passengers-for-canceled-delayed-flights?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/04/24/2349248/airlines-required-to-refund-passengers-for-canceled-delayed-flights?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T07:20:45.879426+00:00
+
+Department of Transportation Secretary Pete Buttigieg announced new rules for the airline industry that will require airlines to automatically give cash refunds to passengers for canceled and significantly delayed flights. They will also require airlines to give cash refunds if your bags are lost and not delivered within 12 hours.
+ 
+"This is a big day for America's flying public," said Buttigieg at a Wednesday morning news conference. According to Buttigieg, the new rules are the biggest expansion of passenger rights in the department's history. ABC News reports: Airlines can no longer decide how long a delay must be before a refund is issued. Under the new DOT rules, the delays covered would be more than three hours for domestic flights and more than six hours for international flights, the agency said. This includes tickets purchased directly from airlines, travel agents and third-party sites such as Expedia and Travelocity.
+ 
+The refunds must be issued within seven days, according 
+
+## Almost Every Chinese Keyboard App Has a Security Flaw That Reveals What Users Type
+ - [https://it.slashdot.org/story/24/04/24/2337208/almost-every-chinese-keyboard-app-has-a-security-flaw-that-reveals-what-users-type?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/04/24/2337208/almost-every-chinese-keyboard-app-has-a-security-flaw-that-reveals-what-users-type?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T04:05:04.371276+00:00
+
+An anonymous reader quotes a report from MIT Technology Review: Almost all keyboard apps used by Chinese people around the world share a security loophole that makes it possible to spy on what users are typing. The vulnerability, which allows the keystroke data that these apps send to the cloud to be intercepted, has existed for years and could have been exploited by cybercriminals and state surveillance groups, according to researchers at the Citizen Lab, a technology and security research lab affiliated with the University of Toronto.
+ 
+These apps help users type Chinese characters more efficiently and are ubiquitous on devices used by Chinese people. The four most popular apps -- built by major internet companies like Baidu, Tencent, and iFlytek -- basically account for all the typing methods that Chinese people use. Researchers also looked into the keyboard apps that come preinstalled on Android phones sold in China. What they discovered was shocking. Almost every third-party app 
+
+## Manga Site Blocks Adult Content, But Only For US and UK Users
+ - [https://entertainment.slashdot.org/story/24/04/24/2343217/manga-site-blocks-adult-content-but-only-for-us-and-uk-users?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/24/04/24/2343217/manga-site-blocks-adult-content-but-only-for-us-and-uk-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T03:00:32.724753+00:00
+
+Samantha Cole reports via 404 Media: A Japan-based online art platform is banning kink content for users based in the US and UK, as laws in these countries continue to tighten around sites that allow erotic content. Pixiv is an image gallery site where artists primarily share illustrations, manga, and novels. The site announced on April 22 that starting April 25, users whose account region is set to the US or UK will be subject to Pixiv's new terms of use, "Restrictions for Healthy Expression in Specific Countries and Regions."
+ 
+The restrictions include several kinds of content that are illegal in the US, including sexualized depictions of minors and bestiality, as well as non-consensual depictions and deepfakes. But it also includes "content that appeals to the prurient interest, is patently offensive in light of community standards where you are located or where such content may be accessed or distributed, lacks serious literary, artistic, political, or scientific value, or otherwi
+
+## Apple Reportedly Developing Its Own Custom Silicon For AI Servers
+ - [https://apple.slashdot.org/story/24/04/24/2331204/apple-reportedly-developing-its-own-custom-silicon-for-ai-servers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/04/24/2331204/apple-reportedly-developing-its-own-custom-silicon-for-ai-servers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T01:55:58.652027+00:00
+
+Hartley Charlton reports via MacRumors: Apple is said to be developing its own AI server processor using TSMC's 3nm process, targeting mass production by the second half of 2025. According to a post by the Weibo user known as "Phone Chip Expert," Apple has ambitious plans to design its own artificial intelligence server processor. The user, who claims to have 25 years of experience in the integrated circuit industry, including work on Intel's Pentium processors, suggests this processor will be manufactured using TSMC's 3nm node.
+ 
+Apple's purported move toward developing a specialist AI server processor is reflective of the company's ongoing strategy to vertically integrate its supply chain. By designing its own server chips, Apple can tailor hardware specifically to its software needs, potentially leading to more powerful and efficient technologies. Apple could use its own AI processors to enhance the performance of its data centers and future AI tools that rely on the cloud. While A
+
+## 'ArcaneDoor' Cyberspies Hacked Cisco Firewalls To Access Government Networks
+ - [https://it.slashdot.org/story/24/04/24/2137210/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/04/24/2137210/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T00:50:12.395895+00:00
+
+An anonymous reader quotes a report from Wired: Network security appliances like firewalls are meant to keep hackers out. Instead, digital intruders are increasingly targeting them as the weak link that lets them pillage the very systems those devices are meant to protect. In the case of one hacking campaign over recent months, Cisco is now revealing that its firewalls served as beachheads for sophisticated hackers penetrating multiple government networks around the world. On Wednesday, Cisco warned that its so-called Adaptive Security Appliances -- devices that integrate a firewall and VPN with other security features -- had been targeted by state-sponsored spies who exploited two zero-day vulnerabilities in the networking giant's gear to compromise government targets globally in a hacking campaign it's calling ArcaneDoor.
+ 
+The hackers behind the intrusions, which Cisco's security division Talos is calling UAT4356 and which Microsoft researchers who contributed to the investigation 
+
+## Google Delays Third-Party Cookie Demise Yet Again
+ - [https://tech.slashdot.org/story/24/04/24/2327213/google-delays-third-party-cookie-demise-yet-again?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/04/24/2327213/google-delays-third-party-cookie-demise-yet-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-04-25T00:50:10.857473+00:00
+
+Google is delaying the end of third-party cookies in Chrome -- again. This marks the third time Google pushed back its original deadline set in January 2020, when the company said it would phase out third-party cookies "within two years" to improve internet security. Digiday reports: The announcement was made on Tuesday ahead of quarterly reports from Google and the ever-watchful U.K. Competition and Markets Authority (CMA), keeping tabs on how this whole situation unfolds.
+ 
+"We recognize that there are ongoing challenges related to reconciling divergent feedback from the industry, regulators and developers, and will continue to engage closely with the entire ecosystem," according to a statement Google posted on its website for the Privacy Sandbox. "It's also critical that the CMA has sufficient time to review all evidence including results from industry tests, which the CMA has asked market participants to provide by the end of June. Given both of these significant considerations, w
+

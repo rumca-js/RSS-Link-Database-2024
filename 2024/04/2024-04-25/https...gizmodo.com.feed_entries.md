@@ -1,0 +1,212 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Ella Purnell Breaks Down Fallout's Big Season Finale Twists
+ - [https://gizmodo.com/fallout-ella-purnell-lucy-season-two-vault-tec-ghoul-1851436630](https://gizmodo.com/fallout-ella-purnell-lucy-season-two-vault-tec-ghoul-1851436630)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T22:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7a7aba61b5121a70acc8a1dc99309fbe.jpg" /><p>Like the video games before it, Fallout is a hit. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/fallout-prime-video-release-schedule-weekly-binge-1851408605">The Prime Video series</a> is getting <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/fallout-season-2-renewed-prime-video-bethesda-new-vegas-1851420918">a second season</a>, which means we’ll get to see <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/fallout-tv-show-amazon-new-vegas-ending-obsidian-1851429343">what’s next</a> for Ella Purnell’s Lucy. After leaving the artificial confines of Vault 33, she got a crash course in surface-dwelling life in the post-apocalyptic world—as well as the sinister…</p><p><a href="https://gizmodo.com/fallout-ella-purnell-lucy-season-two-vault-tec-ghoul
+
+## Net Neutrality Is Back. Yes, You Should Care
+ - [https://gizmodo.com/net-neutrality-is-back-yes-you-should-care-1851436678](https://gizmodo.com/net-neutrality-is-back-yes-you-should-care-1851436678)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T21:21:39+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8e23bf9db345b177d3752e126dd67f6d.jpg" /><p>The Federal Communications Commission (FCC) killed <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/fcc-passes-strongest-net-neutrality-rules-in-americas-h-1688204371">net neutrality</a> <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/net-neutrality-is-dead-again-but-its-not-buried-1826725912">back in 2017</a> under former president Donald Trump, but on Thursday, it brought it back from the dead. </p><p><a href="https://gizmodo.com/net-neutrality-is-back-yes-you-should-care-1851436678">Read more...</a></p>
+
+## Today's the Day The Flash Was Meant to Go Missing
+ - [https://gizmodo.com/the-flash-missing-crisis-april-25-2024-dc-cw-1851436384](https://gizmodo.com/the-flash-missing-crisis-april-25-2024-dc-cw-1851436384)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T20:32:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/428ea54a922daed4d99fa469b88b155a.png" /><p>When The Flash launched in October 2014—<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-cw-gives-the-flash-his-own-tv-show-launched-out-of-964666461">the second project</a> of the CW’s bold attempt to flesh out its own <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/i-think-im-done-with-the-arrowverse-1846892975">superhero cinematic universe</a>—its premiere episode ended with a bold statement: not only would the series be still going in a decade’s time, it would have grown enough to tackle one of the most iconic stories in DC…</p><p><a href="https://gizmodo.com/the-flash-missing-crisis-april-25-2024-dc-cw-1851436384">Read more...</a></p>
+
+## Scientists Can Now See Inside a Single Cancer Cell
+ - [https://gizmodo.com/scientists-can-see-inside-single-cancer-cell-1851436131](https://gizmodo.com/scientists-can-see-inside-single-cancer-cell-1851436131)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T20:00:49+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2cdaddcaa692a168fbdbd2af1baa9850.jpg" /><p>A team in the UK hasfound a new window into cancer, thanks to a novel imaging technique that allows them to take a detailed look at the fatty cargo inside a single tumor cell. The tech could make it easier to understand how different cancers respond to specific treatments, among many other insights.</p><p><a href="https://gizmodo.com/scientists-can-see-inside-single-cancer-cell-1851436131">Read more...</a></p>
+
+## 10 Years Ago Today, Star Wars Changed Forever
+ - [https://gizmodo.com/star-wars-expanded-universe-eu-legends-canon-heir-empir-1851436016](https://gizmodo.com/star-wars-expanded-universe-eu-legends-canon-heir-empir-1851436016)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T19:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5ad27c9a35006402093e3546d9e6733b.jpg" /><p>Arguably the most important, game-changing event in the history of Star Wars storytelling happened 10 years ago today. On April 25, 2014, Lucasfilm announced that the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-12-worst-things-in-the-star-wars-expanded-universe-5988376">Star Wars Expanded Universe</a> was being pushed aside. All future storytelling would be part of the same, cohesive canon, and the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-10-best-stories-in-the-star-wars-expanded-universe-1574103684">EU stories fans knew and…</a></p><p><a href="https://gizmodo.com/star-wars-expanded-universe-eu-legends-canon-heir-empir-1851436016">Read more...</a></p>
+
+## Everything Exciting About the Android 15 Beta So Far
+ - [https://gizmodo.com/android-15-beta-1851433593](https://gizmodo.com/android-15-beta-1851433593)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T19:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/dd95fba7d30169bc5f762639980611d1.png" /><p>In the past, every new version of Android felt like a special occasion for the platform’s devoted users. It meant new software features, better algorithms, improved user interfaces, and maybe even something fun, like an easter egg.<br /></p><p><a href="https://gizmodo.com/android-15-beta-1851433593">Read more...</a></p>
+
+## The TikTok Ban Is Law. What Now?
+ - [https://gizmodo.com/the-tiktok-ban-is-law-what-now-1851436158](https://gizmodo.com/the-tiktok-ban-is-law-what-now-1851436158)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T19:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/44a9e92f9086bac2cb2f7180a9c1dc81.png" /><p><a href="https://gizmodo.com/the-tiktok-ban-is-law-what-now-1851436158">Read more...</a></p>
+
+## No, This Is Not a Pope's Exorcist Sequel, It's a Different Russell Crowe Exorcist Movie
+ - [https://gizmodo.com/russell-crowe-exorcism-new-horror-movie-first-trailer-1851435499](https://gizmodo.com/russell-crowe-exorcism-new-horror-movie-first-trailer-1851435499)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/71f0ccd614cda3083947feb773276924.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-mummy-tom-cruise-actually-had-a-few-redeeming-quali-1848838239">His Jekyll and Hyde moment</a> might have evaporated with Universal’s ill-fated Dark Universe, but Russell Crowe hasn’t turned his back on horror: on the heels of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/popes-exorcist-julius-avery-horror-inspirations-1850340400">The Pope’s Exorcist</a>, which became <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/10-netflix-horror-movies-popes-exorcist-stephen-king-1850826207">a surprise Netflix smash</a>, he’s got The Exorcism—an unrelated film that obviously shares some familiar themes.</p><p><a href="https://gizmodo.com/russell-crowe-exorcism-new-horror-movie-first-trailer-1851435499">Re
+
+## Deadpool & Wolverine's Director Promises No Homework Is Needed
+ - [https://gizmodo.com/deadpool-wolverine-reserach-marvel-x-men-ryan-reynolds-1851435644](https://gizmodo.com/deadpool-wolverine-reserach-marvel-x-men-ryan-reynolds-1851435644)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T18:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b9640a909a8c0cc9e0d0c57ae2f1835b.jpg" /><p>Outside of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/avengers-endgame-is-overwhelmingly-epic-and-immensely-1834240218">Avengers: Endgame</a>, Deadpool & Wolverine may carry the<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/a-crazed-attempt-to-discern-the-x-men-movie-timeline-in-1835423981"> most pre-release baggage</a> of anything in Marvel history. For Deadpool, you’ve got not just two movies, but also all the behind-the-scenes drama leading up to them. With Wolverine, you’ve got 10 X-Men movies <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/deadpool-3-wolverine-fox-x-men-timeline-explained-mcu-1851430583">with all manner of wild stories,</a> including the…</p><p><a href="https://gizmodo.com/deadpool-wolverine-reserach-marvel-x-men-ryan
+
+## Juno's Best Images of Jupiter and Its Moons (So Far)
+ - [https://gizmodo.com/nasa-juno-best-images-jupiter-moons-io-europa-1851427089](https://gizmodo.com/nasa-juno-best-images-jupiter-moons-io-europa-1851427089)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T18:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d23218afb61869ae6b157174482f722e.jpg" /><p>Jupiter and its moons are a diverse and dynamic subdivision of our solar system’s neighborhood, one that NASA’s Juno spacecraft has been visiting since 2016. Besides hosting the system’s largest planet, at over 300 times the mass of our own planet, the Jovian system includes 95 known moons, the largest of which are…</p><p><a href="https://gizmodo.com/nasa-juno-best-images-jupiter-moons-io-europa-1851427089">Read more...</a></p>
+
+## Reddit Suffers Widespread Outage, Slowly Comes Back Online
+ - [https://gizmodo.com/reddit-down-outage-is-global-problem-downdetector-1851435714](https://gizmodo.com/reddit-down-outage-is-global-problem-downdetector-1851435714)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T17:33:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cab81e1159f3ac356f85b6e42350876f.jpg" /><p><strong>Update, 1:33 p.m.ET:</strong> Reddit says on its <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.redditstatus.com/incidents/014dkyf9dqfl?u=tb98fz6hn435" rel="noopener noreferrer" target="_blank">status page</a> that a fix for the problem has been deployed and the site should be coming back up for everyone.</p><p><a href="https://gizmodo.com/reddit-down-outage-is-global-problem-downdetector-1851435714">Read more...</a></p>
+
+## Love Is Always the Answer on Star Trek: Discovery
+ - [https://gizmodo.com/star-trek-discovery-recap-season-5-episode-5-enterprise-1851433778](https://gizmodo.com/star-trek-discovery-recap-season-5-episode-5-enterprise-1851433778)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4e5c756cd0160f94d0f3d1f576784cdb.png" /><p>We’ve said this many times before, and will no doubt say it a least a few times before as it nears its final end this season: Star Trek: Discovery is <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-discovery-season-5-episode-3-recap-jinaal-1851404289">not a subtle show</a>. It never has been, but ever since it really found its confidence and understood where its strengths were, it has never shied away from yelling them…</p><p><a href="https://gizmodo.com/star-trek-discovery-recap-season-5-episode-5-enterprise-1851433778">Read more...</a></p>
+
+## Moderna Employees Should Use ChatGPT at Least 20 Times a Day, CEO Says
+ - [https://gizmodo.com/moderna-ceo-chatgpt-employees-vaccines-openai-1851435620](https://gizmodo.com/moderna-ceo-chatgpt-employees-vaccines-openai-1851435620)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2a6a342399fa8462e6fa6b382f41ff26.jpg" /><p>One of the world’s top vaccine-makers is partnering with a major AI company to advance medicine — and its chief executive is excited.</p><p><a href="https://gizmodo.com/moderna-ceo-chatgpt-employees-vaccines-openai-1851435620">Read more...</a></p>
+
+## The Lord of the Rings Is Coming Back to Theaters This Summer
+ - [https://gizmodo.com/lord-of-the-rings-rerelease-4k-extended-editions-fathom-1851435489](https://gizmodo.com/lord-of-the-rings-rerelease-4k-extended-editions-fathom-1851435489)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b2d79c6ccbd9ed063e5be0432939ba96.jpg" /><p>Pack the lembas bread and gather up your <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/what-role-would-you-play-the-original-lord-of-the-rings-1849681289">fellowship</a>, we’re going back to Middle-earth. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/lord-of-the-rings-rights-explained-amazon-warner-bros-1850157744">Warner Bros. is releasing</a> the extended editions of Peter Jackson’s Lord of the Rings trilogy in theaters for one weekend only this June, and it’s the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/lord-of-the-rings-movies-new-more-warner-bros-1850152138">first time the re-releases</a> will feature their remastered 4K versions from 2020.</p><p><a href="https://gizmodo.com/lord-of-the-rings-rerelease-4k-extended-editions-fathom
+
+## Chinese Astronauts Performed Emergency Space Station Repairs Following Debris Impact
+ - [https://gizmodo.com/chinese-astronauts-space-station-repairs-debris-impact-1851434957](https://gizmodo.com/chinese-astronauts-space-station-repairs-debris-impact-1851434957)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T16:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/eb324a8b50125191ac8c27dd924c3b76.jpg" /><p>China’s space station crew carried out two spacewalks this past winter to repair the  solar wings attached to the core module, which had been damaged by space debris.<br /></p><p><a href="https://gizmodo.com/chinese-astronauts-space-station-repairs-debris-impact-1851434957">Read more...</a></p>
+
+## Photos: Hellish Dust Storm in Greece Leaves Athens Dark Orange
+ - [https://gizmodo.com/check-out-these-amazing-images-from-the-hellish-dust-st-1851435284](https://gizmodo.com/check-out-these-amazing-images-from-the-hellish-dust-st-1851435284)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T16:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3d3b963f9c05a7f4606ae40566c68822.jpg" /><p>Residents in Greece were witnesses to a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.theguardian.com/world/2024/apr/24/athens-dust-storm-orange-sky-greece'" rel="noopener noreferrer" target="_blank">hellish-looking dust storm</a> this week. The dust originated from the Sahara desert in North Africa and was blown across the Mediterranean Sea by strong winds. By Tuesday, Athens and other Greek cities were blanketed in an orange-red and potentially dangerous haze.</p><p><a href="https://gizmodo.com/check-out-these-amazing-images-from-the-hellish-dust-st-1851435284">Read more...</a></p>
+
+## Heroes & Villains' New Star Wars Collection Is Your Niamos-Worthy Look This Summer
+ - [https://gizmodo.com/heroes-villains-star-wars-resort-collection-ahsoka-1851430513](https://gizmodo.com/heroes-villains-star-wars-resort-collection-ahsoka-1851430513)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7c330554960b1af683b174c4e961d6d0.png" /><p>Ramp up your summer fandom wardrobe with <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/x-men-collection-heroes-villains-fandom-holiday-gifts-1850958191">Heroes & Villains</a>’ new <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-wars-themed-food-and-drinks-coming-to-disney-parks-1851411447">Star Wars resort</a> collection. This new line from the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://heroesvillains.com/pages/star-wars" rel="noopener noreferrer" target="_blank">online retailer</a> has ‘fits perfect for May the Fourth, Mother’s Day, Memorial Day weekend, Father’s Day, and summer vacations at beach destinations like <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/andor-4k-blu-ray-bonus-features-exclusive-star
+
+## The Worst Airlines for Losing and Damaging Luggage
+ - [https://gizmodo.com/worst-airlines-losing-damaging-luggage-bags-1851435386](https://gizmodo.com/worst-airlines-losing-damaging-luggage-bags-1851435386)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T15:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f66c5e7158d6c12d52aced620f863aea.jpg" /><p>It would be easy to presume that <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://jalopnik.com/your-lost-luggage-eventually-ends-up-in-this-alabama-th-1851011281">airlines would spare no expense</a> to ensure that passengers’ luggage meets them at their destination, considering how lucrative the attached fees are. Airlines globally made <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://jalopnik.com/airlines-made-29-billion-charging-baggage-fees-2022-1850357653">more than $29 billion in checked bag fees in 2022.</a> However, frequent flyers are well aware that bags can be lost…</p><p><a href="https://gizmodo.com/worst-airlines-losing-damaging-luggage-bags-1851435386">Read more...</a></p>
+
+## Everything You (Probably) Didn’t Know You Could Do With Your Steam Deck
+ - [https://gizmodo.com/steam-deck-tips-1851434800](https://gizmodo.com/steam-deck-tips-1851434800)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T15:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/858494f91b99e4cf466b29079f5f4c3a.jpg" /><p>The <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/steam-deck-oled-performance-display-valve-1850999759">Steam Deck</a> remains extra popular partly due to the stranglehold Valve’s Steam has on the PC games market but also partially because it (arguably) <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/2023-gaming-handhelds-steamdeck-ayoneo-rog-ally-1851118502">popularized the modern rendition of the handheld console</a>. It’s not the smallest, it’s not the most powerful, but damn is it appealing. More than two years after the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/review-valves-steam-deck-is-glorious-but-unfinished-1848590583">Deck’…</a></p><p><a href="https://gizmodo.com/steam-deck-tips-1851434800">Read more...</a></p>
+
+## The Saddest and Strangest Tales of Animals in Space
+ - [https://gizmodo.com/animals-in-space-1849367335](https://gizmodo.com/animals-in-space-1849367335)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T15:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f2d4023f3f1724f8ced90df417b5efb8.jpg" /><p>From  spiders struggling to make webs in orbit to bats clinging to the outside of the Space Shuttle, the history of animals in space is as fascinating as it is weird. Here are some of our favorite stories.<br /></p><p><a href="https://gizmodo.com/animals-in-space-1849367335">Read more...</a></p>
+
+## Russell T. Davies Defends Doctor Who's Timey-Wimey New Release Schedule
+ - [https://gizmodo.com/doctor-who-disney-plus-release-time-rtd-bbc-streaming-1851435225](https://gizmodo.com/doctor-who-disney-plus-release-time-rtd-bbc-streaming-1851435225)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3b6c617a3347d89176d3c27820797358.jpg" /><p>There is perhaps no funnier dichotomy in sci-fi fandom than Doctor Who—a show that has inherently been about the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/doctor-who-anniversary-cameos-past-doctors-nostalgia-1851077768">nature of change</a> and the mutability of time for six decades—having a fandom that, by and large, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/doctor-who-bigeneration-explained-ncuti-gatwa-bbc-1851093740">does not cope well</a> with change. But one major change coming into the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/doctor-who-bbc-disney-plus-trailer-2-1851377601">show’s new season</a> has had UK audiences…</p><p><a href="https://gizmodo.com/doctor-who-disney-plus-release-time-rtd-bbc-streaming-1851435225">Read
+
+## Unistellar Odyssey Telescope Brings Powerful Simplicity to Backyard Astronomy
+ - [https://gizmodo.com/unistellar-odyssey-telescope-review-1851426401](https://gizmodo.com/unistellar-odyssey-telescope-review-1851426401)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T14:48:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f5d449e5385d5b11749ae0056fad6d68.jpg" /><p>Robotic telescopes of various shapes and sizes are hitting the market these days, each promising clear views of the cosmos and ease of use—attributes not often found paired together in a single telescope. Amateur and backyard astronomers are now fully embracing this ongoing, auto-GOTO revolution, but not every…</p><p><a href="https://gizmodo.com/unistellar-odyssey-telescope-review-1851426401">Read more...</a></p>
+
+## Drake May Go to Court Over AI-Generated Tupac
+ - [https://gizmodo.com/drake-court-rapping-ai-tupac-shakur-snoop-diss-track-1851435020](https://gizmodo.com/drake-court-rapping-ai-tupac-shakur-snoop-diss-track-1851435020)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T14:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8b800eb91370a12077a6f88e5f7f83eb.jpg" /><p>Drake released a diss track against Kendrick Lamar over the weekend featuring <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/ai-drake-and-the-weeknd-song-not-eligible-for-a-grammy-1850818801">AI-generated versions</a> of West Coast legends Snoop Dogg and Tupac Shakur. Tupac’s estate sent Drake a letter on Wednesday threatening to sue him for using the late rapper’s voice in a “blatant abuse” of his legacy, according to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.billboard.com/pro/tupac-shakur-estate-drake-diss-track-ai-generated-voice/" rel="noopener noreferrer" target="_blank">Billboard</a>.</p><p><a href="https://gizmodo.com/drake-court-rapping-ai-tupac-shakur-snoop-diss-track-1851435020">Read more...</a></p>
+
+## Lego's Gorgeous New Space Sets Shoot You Into the Stars
+ - [https://gizmodo.com/lego-space-artemis-milky-way-art-price-release-date-1851434956](https://gizmodo.com/lego-space-artemis-milky-way-art-price-release-date-1851434956)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/324d5fe78e80290d0e7f557c95ab1d8c.png" /><p>If you thought <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/lego-star-wars-may-sets-phantom-menace-kelleran-beq-1851378732">Lego’s space toys</a> for May were limited to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/lego-star-wars-may-4-ucs-tie-interceptor-phantom-menace-1851410268">the world of Star Wars</a>, think again—the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/lego-new-sets-april-2024-dungeons-dragons-batman-marvel-1851379655">toymaker’s latest reveals</a> bring things back to our time and our galaxy, and they combine stunning engineering with incredible art.<br /></p><p><a href="https://gizmodo.com/lego-space-artemis-milky-way-art-price-release-date-1851434956">Read more...</a></p>
+
+## How Cult Filmmaker Don Coscarelli Brought Phantasm From the Screen to the Page
+ - [https://gizmodo.com/don-coscarelli-phantasm-book-adaptation-interview-1851420805](https://gizmodo.com/don-coscarelli-phantasm-book-adaptation-interview-1851420805)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T13:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2d6b04d9026e4193f91a51fe6fe0f098.jpg" /><p>io9 talked to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/director-don-coscarelli-on-the-beginning-and-the-end-of-1787362507">cult filmmaker Don Coscarelli</a> when <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/phantasms-don-coscarelli-on-his-new-memoir-and-what-it-1829310962">he released his memoir in 2018</a>. Now, the director of Phantasm I-IV, as well as <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/why-bubba-ho-tep-may-be-the-most-perfect-b-movie-ever-m-1782435864">Bubba Ho-Tep</a>, The Beastmaster, and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/john-dies-at-the-end-is-the-closest-thing-to-this-gener-5878739">John Dies at the End</a>, is trying something new: fiction. Or rather, Phiction—a b
+
+## How Scientists Are Preparing for Apophis's Unnervingly Close Brush With Earth
+ - [https://gizmodo.com/how-scientists-preparing-asteroid-apophis-flyby-earth-1851433340](https://gizmodo.com/how-scientists-preparing-asteroid-apophis-flyby-earth-1851433340)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T13:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/51e5fbd261f9421af9989a62869f0b84.jpg" /><p>In about five years’ time, a potentially hazardous asteroid will swing by Earth at an eerily close distance of less than 20,000 miles (32,000 kilometers). During this rare encounter, Apophis will be ten times closer to Earth than the Moon and scientists want to take full advantage of its visit.<br /></p><p><a href="https://gizmodo.com/how-scientists-preparing-asteroid-apophis-flyby-earth-1851433340">Read more...</a></p>
+
+## Sonic 3 Has Big Connections to One of Sonic's Most Beloved Games
+ - [https://gizmodo.com/sonic-3-movie-sonic-adventure-2-shadow-sega-1851433950](https://gizmodo.com/sonic-3-movie-sonic-adventure-2-shadow-sega-1851433950)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/fd53b0ce4613cd5a173eba7fe00505f9.png" /><p>Hasbro is working with Sony on bringing Clue back to the world of film and TV. The producers of Dead Boy Detectives tease the new adaptation. Plus, Furiosa gets rated. Spoilers, away!<br /></p><p><a href="https://gizmodo.com/sonic-3-movie-sonic-adventure-2-shadow-sega-1851433950">Read more...</a></p>
+
+## Garry's Mod Deleting 20 Years of Content After Nintendo Sends Takedown Notices
+ - [https://gizmodo.com/nintendo-garrys-mod-takedown-content-1851434683](https://gizmodo.com/nintendo-garrys-mod-takedown-content-1851434683)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T12:59:43+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a5c198314a4cf0d5c0e2d038f1275b13.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/games/garry-s-mod">Garry’s Mod</a>, a popular 2006 <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/jazztronauts-lets-you-break-into-other-peoples-levels-a-1826208699">sandbox</a> game that emerged from the modding scene around Valve’s Source software, has recently been issued takedown notices by <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/nintendo-switch-2-layoffs-testing-zelda-totk-1851369539">Nintendo</a>. As a result, Facepunch Studios, the developers of Garry’s Mod, are in the process of removing about 20 years’ worth of Nintendo-related content from the…</p><p><a href="https://gizmodo.com/nintendo-garrys-mod-takedown-content-1851434683">Read more...</a></p>
+
+## Do You Have a Constitutional Right to TikTok?
+ - [https://gizmodo.com/do-you-have-a-constitutional-right-to-tiktok-1851433877](https://gizmodo.com/do-you-have-a-constitutional-right-to-tiktok-1851433877)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T12:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/38808c69badfc01493eb9e6db5f1882a.jpg" /><p>President Biden <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/biden-signs-tiktok-ban-into-law-but-his-campaign-will-1851432382">signed the TikTok ban into law</a> on Wednesday, forcing China-based Bytedance to sell the app or face a ban in American app stores. TikTok tells Gizmodo it will fight the law in court, a case likely to reach the Supreme Court, saying that Biden’s law “tramples” First Amendment protections. In interviews…</p><p><a href="https://gizmodo.com/do-you-have-a-constitutional-right-to-tiktok-1851433877">Read more...</a></p>
+
+## Hidden Google Maps Features You Should Know About
+ - [https://gizmodo.com/google-maps-features-hidden-tips-1851432356](https://gizmodo.com/google-maps-features-hidden-tips-1851432356)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-04-25T10:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/35cc76e58c58896c663fc9aa5cdb0879.jpg" /><p>I have always used Google Maps but never cared enough to look beyond the basic features. It wasn’t until today that I made an effort to explore the app and ended up going down a rabbit hole of all the cool things it’s capable of. You might already know some of these, but you might have missed a handful of interesting…</p><p><a href="https://gizmodo.com/google-maps-features-hidden-tips-1851432356">Read more...</a></p>
+
