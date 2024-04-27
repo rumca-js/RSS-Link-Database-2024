@@ -1,0 +1,72 @@
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
+
+## Israeli airstrikes take place in Gaza areas Israel had designated as 'safe zones'
+ - [https://www.nbcnews.com/nightly-news/video/israeli-airstrikes-take-place-in-gaza-areas-israel-had-designated-as-safe-zones-209799749553](https://www.nbcnews.com/nightly-news/video/israeli-airstrikes-take-place-in-gaza-areas-israel-had-designated-as-safe-zones-209799749553)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2024-04-26T23:11:15+00:00
+
+An NBC News investigation has documented at least 12 Israeli airstrikes that took place in areas of Gaza the Israeli military had previously designated as safe. NBC News' Hala Gorani reports.
+
+## NBC News investigation reveals Israel strikes on Gaza areas it said were safe
+ - [https://www.nbcnews.com/news/world/palestinians-killed-israeli-strikes-safe-zones-exclusive-nbc-report-rcna148008](https://www.nbcnews.com/news/world/palestinians-killed-israeli-strikes-safe-zones-exclusive-nbc-report-rcna148008)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2024-04-26T20:20:00+00:00
+
+NBC News investigates 7 deadly airstrikes, reveals Palestinians killed in Israeli-designated Gaza 'safe zones'
+
+## Gaza’s miraculous C-section baby loses her fight to survive
+ - [https://www.nbcnews.com/video/sabreen-alrouh-gaza-s-miracle-c-section-baby-loses-her-fight-to-survive-209785925951](https://www.nbcnews.com/video/sabreen-alrouh-gaza-s-miracle-c-section-baby-loses-her-fight-to-survive-209785925951)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2024-04-26T20:00:33+00:00
+
+Sabreen Alrouh Joudeh, born by emergency caesarean after her mother was killed in an Israeli airstrike, initially seemed like a rare symbol of hope among the death and devastation in Gaza. But the struggle to survive proved too much for the infant, and her family laid her to rest her beside her mother, father and sister.
+
+## King Charles to resume public royal duties after 'progress' in cancer treatment
+ - [https://www.nbcnews.com/news/world/king-charles-resume-public-royal-duties-cancer-diagnosis-rcna149484](https://www.nbcnews.com/news/world/king-charles-resume-public-royal-duties-cancer-diagnosis-rcna149484)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2024-04-26T17:00:41+00:00
+
+Britain's King Charles III will resume public duties for the first time since his cancer diagnosis as Kate, the Princess of Wales, continues treatement.
+
+## Blinken: Russia would struggle in Ukraine without China’s support
+ - [https://www.nbcnews.com/video/blinken-russia-would-struggle-in-ukraine-without-china-s-support-209755205662](https://www.nbcnews.com/video/blinken-russia-would-struggle-in-ukraine-without-china-s-support-209755205662)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2024-04-26T11:44:08+00:00
+
+Secretary of State Blinken spoke in Beijing after a meeting with Chinese President Xi, which included talks on the war between Ukraine and Russia. Blinken stressed that Russia would be unable to succeed in Ukraine without China’s support.
+
+## Xi welcomes Blinken as the U.S. and China work to stabilize ties
+ - [https://www.nbcnews.com/video/chinese-president-xi-meets-with-secretary-of-state-blinken-209752133590](https://www.nbcnews.com/video/chinese-president-xi-meets-with-secretary-of-state-blinken-209752133590)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2024-04-26T09:18:57+00:00
+
+Chinese President Xi welcomed Secretary of State Antony Blinken ahead of a bilateral relations meeting in Beijing. Talks between the two sides have increased in recent months even as differences have grown.
+
+## Ukraine court orders agriculture minister to be taken into custody in corruption case
+ - [https://www.nbcnews.com/news/world/ukraine-agriculture-minister-custody-corruption-case-rcna149488](https://www.nbcnews.com/news/world/ukraine-agriculture-minister-custody-corruption-case-rcna149488)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2024-04-26T09:16:47+00:00
+
+A Ukrainian court ordered Agriculture Minister Mykola Solsky to be taken into custody on Friday to face allegations of his alleged involvement in an illegal acquisition of state-owned land worth about $7 million.
+
+## Somalia detains U.S.-trained commandos over theft of rations
+ - [https://www.nbcnews.com/news/world/somalia-detains-us-trained-commandos-theft-rations-rcna149489](https://www.nbcnews.com/news/world/somalia-detains-us-trained-commandos-theft-rations-rcna149489)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2024-04-26T09:11:53+00:00
+
+Somalia’s government said it had suspended and detained several members of an elite, U.S.-trained commando unit for stealing rations donated by the U.S.
+
+## Major cities in Mexico running out of water as extreme heat continues
+ - [https://www.nbcnews.com/now/video/major-cities-in-mexico-running-out-of-water-as-extreme-heat-continues-209737285844](https://www.nbcnews.com/now/video/major-cities-in-mexico-running-out-of-water-as-extreme-heat-continues-209737285844)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2024-04-26T01:53:24+00:00
+
+Some major cities in Mexico are facing a shortage in their water supply. This comes as the country has been dealing with extreme heat leading to a severe drought. Telemundo's Vanessa Hauc talks to Mexican residents on how the shortage is affecting their communities.
+
+## Venice introduces world's first tourist entrance fee
+ - [https://www.nbcnews.com/now/video/venice-introduces-world-s-first-tourist-entrance-fee-209735749950](https://www.nbcnews.com/now/video/venice-introduces-world-s-first-tourist-entrance-fee-209735749950)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2024-04-26T01:52:46+00:00
+
+Venice, Italy, has launched a five dollar tourist entrance fee to the city to reduce overcrowding on busy days. The fee only applies to visitors who did not book accommodation or on certain holidays.
+

@@ -1,0 +1,34 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed, language:en-US
+
+## Big Tech Sponsors Event With Canadian Pro-Censorship Justice Minister Advocating Online Censorship
+ - [https://reclaimthenet.org/big-tech-sponsors-event-with-canadian-pro-censorship-justice-minister-advocating-online-censorship](https://reclaimthenet.org/big-tech-sponsors-event-with-canadian-pro-censorship-justice-minister-advocating-online-censorship)
+ - RSS feed: https://reclaimthenet.org/feed
+ - date published: 2024-04-26T18:38:19+00:00
+
+<a href="https://reclaimthenet.org/big-tech-sponsors-event-with-canadian-pro-censorship-justice-minister-advocating-online-censorship" rel="nofollow" title="Big Tech Sponsors Event With Canadian Pro-Censorship Justice Minister Advocating Online Censorship"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2024/04/canadian-censors-scaled.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="2560" /></a><p>Canada's justice minister, Arif Virani, proposes speech-restrictive legislation at an event backed by corporate sponsorship from Meta and AWS.</p>
+<p>The post <a href="https://reclaimthenet.org/big-tech-sponsors-event-with-canadian-pro-censorship-justice-minister-advocating-online-censorship">Big Tech Sponsors Event With Canadian Pro-Censorship Justice Minister Advocating Online Censorship</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## Brazil’s AG and Supreme Court Reportedly Consider Shutting Down Access To X
+ - [https://reclaimthenet.org/brazils-ag-and-supreme-court-reportedly-consider-shutting-down-access-to-x](https://reclaimthenet.org/brazils-ag-and-supreme-court-reportedly-consider-shutting-down-access-to-x)
+ - RSS feed: https://reclaimthenet.org/feed
+ - date published: 2024-04-26T18:38:17+00:00
+
+<a href="https://reclaimthenet.org/brazils-ag-and-supreme-court-reportedly-consider-shutting-down-access-to-x" rel="nofollow" title="Brazil&#8217;s AG and Supreme Court Reportedly Consider Shutting Down Access To X"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2024/04/x-braz-scaled.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="2560" /></a><p>Brazil's Attorney General and Supreme Federal Court are exploring drastic measures after getting called out for censorship demands.</p>
+<p>The post <a href="https://reclaimthenet.org/brazils-ag-and-supreme-court-reportedly-consider-shutting-down-access-to-x">Brazil&#8217;s AG and Supreme Court Reportedly Consider Shutting Down Access To X</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## Brazil Targets Twitter Files Author Who Revealed Censorship Orders
+ - [https://reclaimthenet.org/brazil-targets-twitter-files-author-who-revealed-censorship-orders](https://reclaimthenet.org/brazil-targets-twitter-files-author-who-revealed-censorship-orders)
+ - RSS feed: https://reclaimthenet.org/feed
+ - date published: 2024-04-26T18:38:09+00:00
+
+<a href="https://reclaimthenet.org/brazil-targets-twitter-files-author-who-revealed-censorship-orders" rel="nofollow" title="Brazil Targets Twitter Files Author Who Revealed Censorship Orders"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2024/04/shellen-brazil-scaled.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="2560" /></a><p>Brazil's Attorney General claims his Twitter Files coverage amounts to a "probable crime" against the state, a charge the journalist vehemently denies.</p>
+<p>The post <a href="https://reclaimthenet.org/brazil-targets-twitter-files-author-who-revealed-censorship-orders">Brazil Targets Twitter Files Author Who Revealed Censorship Orders</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+
+## FCC Restores Net Neutrality Despite Concerns Over Government Intrusion
+ - [https://reclaimthenet.org/fcc-restores-net-neutrality-2024](https://reclaimthenet.org/fcc-restores-net-neutrality-2024)
+ - RSS feed: https://reclaimthenet.org/feed
+ - date published: 2024-04-26T17:15:34+00:00
+
+<a href="https://reclaimthenet.org/fcc-restores-net-neutrality-2024" rel="nofollow" title="FCC Restores Net Neutrality Despite Concerns Over Government Intrusion"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2024/04/net-neutrality-scaled.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="2560" /></a><p>Restoring net neutrality rules under Title II reshapes the broadband industry, placing FCC oversight at the center of internet regulation.</p>
+<p>The post <a href="https://reclaimthenet.org/fcc-restores-net-neutrality-2024">FCC Restores Net Neutrality Despite Concerns Over Government Intrusion</a> appeared first on <a href="https://reclaimthenet.org">Reclaim The Net</a>.</p>
+

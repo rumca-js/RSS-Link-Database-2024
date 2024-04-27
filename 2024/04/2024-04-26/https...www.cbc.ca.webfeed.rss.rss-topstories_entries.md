@@ -1,0 +1,177 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## First ten armoured vehicles promised to Ukraine to be delivered by summer, Blair says
+ - [https://www.cbc.ca/news/politics/ukraine-russia-armoured-vehicles-blair-1.7186785?cmp=rss](https://www.cbc.ca/news/politics/ukraine-russia-armoured-vehicles-blair-1.7186785?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T18:08:43+00:00
+
+<img alt="A large, green military vehicle with eight tires is parked inside a building near a large door." height="349" src="https://i.cbc.ca/1.6507087.1688796388!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/armored-combat-support-vehicles-acsvs.jpeg" title="A new armoured combat support vehicle (ACSV), constructed by General Dynamics Land Systems - Canada. The Canadian government is giving 39 of the vehicles to Ukraine." width="620" /><p>Defence Minister Bill Blair says the first ten of 50 Armoured Combat Support Vehicles (ACSVs) promised to Ukraine last year will be delivered to the war-torn country by this summer, but likely won’t be fully in service until the fall.</p>
+
+## Concert ticket system is 'broken,' say artists. But some experts say targeting resellers isn't the fix
+ - [https://www.cbc.ca/news/entertainment/concert-tickets-broken-1.7185987?cmp=rss](https://www.cbc.ca/news/entertainment/concert-tickets-broken-1.7185987?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T17:24:24+00:00
+
+<img alt="A woman in a sparkly bodysuit sings into a microphone on a stage" height="349" src="https://i.cbc.ca/1.7186071.1714145354!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/japan-taylor-swift-concert.jpg" title="Taylor Swift performs as part of the &quot;Eras Tour&quot; at the Tokyo Dome, Wednesday, Feb. 7, 2024, in Tokyo. " width="620" /><p>The way concert tickets are sold is "broken," according to a new letter signed by more than 250 major recording artists including Billie Eilish, Blue Rodeo and Fall Out Boy. But as they call out "predatory" re-sellers, some experts say that's not the answer.</p>
+
+## Charge dropped for man accused of waving 'terrorist flag' at Toronto rally
+ - [https://www.cbc.ca/news/canada/toronto/terrorist-flag-toronto-charge-dropped-1.7186585?cmp=rss](https://www.cbc.ca/news/canada/toronto/terrorist-flag-toronto-charge-dropped-1.7186585?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T17:20:18+00:00
+
+<img alt="A man carrying an umbrella walks past a group of protesters carrying flags and signs in a city street. " height="349" src="https://i.cbc.ca/1.7083006.1705120721!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-israel-gaza-20231223.jpg" title="Demonstrators shout slogans during a protest of Israel&apos;s actions in Gaza in downtown Toronto on Saturday, Dec. 23, 2023." width="620" /><p>A charge against a Toronto man accused of flying what police called a "terrorist flag" at a pro-Palestinian demonstration earlier this year has been withdrawn. </p>
+
+## CSIS had officer investigated after she reported a superior raped her
+ - [https://www.cbc.ca/news/politics/investigation-csis-sex-assualt-victim-1.7186494?cmp=rss](https://www.cbc.ca/news/politics/investigation-csis-sex-assualt-victim-1.7186494?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T16:19:02+00:00
+
+<img alt="Leaves hanging from a tree cover the faces of two women standing in a park, wearing rain coats." height="349" src="https://i.cbc.ca/1.7186531.1714160138!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/csis-toxic-culture-sidebar-20231130.JPG" title="Two Canadian Security Intelligence Service surveillance officers pose for a photograph in Vancouver on Wednesday, October 18, 2023. The officer on the right, identified as &quot;Jane Doe&quot; in an anonymized lawsuit, says she was repeatedly raped by a senior CSIS colleague, while the officer on the left is a friend who supports Doe&apos;s claims about what they call a toxic workplace culture in the British Columbia CSIS office. The women, now on leave from the service, are forbidden by law from identifying themselves or other covert officers." width="620" /><p>A CSIS officer's allegations that she was raped repeatedly by a superior in agency vehicles set off a harassment inquiry, but also triggered an investigation into 
+
+## Ontario Provincial Police reviewing interaction between officer, protesters outside Trudeau event
+ - [https://www.cbc.ca/news/politics/opp-trudeau-protest-1.7186402?cmp=rss](https://www.cbc.ca/news/politics/opp-trudeau-protest-1.7186402?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T15:53:42+00:00
+
+<img alt="A patch from an officer&apos;s uniform reading OPP. " height="349" src="https://i.cbc.ca/1.5132539.1702740357!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ontario-provincial-police-opp-patch-badge.jpg" title="The OPP say a 24-year-old man from Brockville died in the crash." width="620" /><p>The Ontario Provincial Police has launched a review after one of its officers was recorded vocally supporting — and possibly helping — protesters outside an event with Prime Minister Justin Trudeau earlier this week.</p>
+
+## National chief says she was 'stunned,' calls for change after headdress taken from her on flight
+ - [https://www.cbc.ca/news/canada/manitoba/national-chief-cindy-woodhouse-nepinak-air-canada-headdress-1.7186356?cmp=rss](https://www.cbc.ca/news/canada/manitoba/national-chief-cindy-woodhouse-nepinak-air-canada-headdress-1.7186356?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T15:34:41+00:00
+
+<img alt="A woman in a headdress gestures while speaking at a podium." height="349" src="https://i.cbc.ca/1.7176752.1714158527!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/afn-budget-20240417.jpg" title="National Chief of the Assembly of First Nations Cindy Woodhouse Nepinak speaks about the federal budget during a news conference on Parliament Hill on  April 17, 2024 in Ottawa." width="620" /><p>Assembly of First Nations National Chief Cindy Woodhouse Nepinak says attempts by Air Canada staff to take her headdress from her on Wednesday have created "a pivotal learning moment in history."</p>
+
+## Luxury retailer Ted Baker Canada is seeking creditor protection
+ - [https://www.cbc.ca/news/business/ted-baker-canada-creditor-protection-1.7186457?cmp=rss](https://www.cbc.ca/news/business/ted-baker-canada-creditor-protection-1.7186457?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T15:21:43+00:00
+
+<img alt="People walk by a clothing store." height="349" src="https://i.cbc.ca/1.7186472.1714158498!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ted-baker-administration.JPG" title="People walk past a Ted Baker retail store in London, Britain, on March 19, 2024. The owners of Ted Baker&apos;s Canadian operations have filed for court protection from creditors in a bid to help the retailer get enough &quot;breathing room&quot; to decide whether to liquidate and wind down the business or pursue other unspecified alternatives." width="620" /><p>The owners of Ted Baker's Canadian operations have filed for creditor protection in a bid to help the retailer get enough "breathing room" to decide whether to liquidate and wind down the business or pursue other unspecified alternatives.</p>
+
+## Thunder Bay police board administrator's 2-year term ends, report recommends that local control resume
+ - [https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-police-administrator-term-ends-1.7186298?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-police-administrator-term-ends-1.7186298?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T14:52:03+00:00
+
+<img alt="Two men sit side by side at a table." height="349" src="https://i.cbc.ca/1.6809955.1681422048!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/malcolm-mercer-and-alok-mukherjee.jpg" title="Malcome Mercer, left, and Alok Mukherjee, right, speak during a special Thunder Bay Police Services oversight board meeting in Thunder Bay, Ont." width="620" /><p>The Ontario Civilian Police Commission has ended the term of Malcolm Mercer as administrator of the Thunder Bay Police Service Board. Mercer, appointed two years ago to oversee a board and police service that were in turmoil, said he believes the reconstituted board and new chief are on the right track and functioning properly.</p>
+
+## B.C. premier to hold news conference on public drug use
+ - [https://www.cbc.ca/news/canada/british-columbia/david-eby-public-drug-use-1.7186245?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/david-eby-public-drug-use-1.7186245?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T14:51:27+00:00
+
+<img alt="A white man wearing a light blue shirt and a darker blue coat speaks at a podium." height="349" src="https://i.cbc.ca/1.7081103.1705007236!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/anti-hate-measures-in-bc.jpg" title="Premier David Eby, Mike Farnworth, Minister of Public Safety &amp; Solicitor General; &amp; Niki Sharma, Attorny General, make an announcement about measures to combat anti-hate motivated activity in British Columbia on Wednesday November 12, 2023." width="620" /><p>Premier David Eby is due to make an announcement about public drug use in British Columbia at 1:15 p.m. PT.</p>
+
+## King Charles set to resume public duties after stepping away for cancer treatment
+ - [https://www.cbc.ca/news/world/king-charles-cancer-treatment-1.7186248?cmp=rss](https://www.cbc.ca/news/world/king-charles-cancer-treatment-1.7186248?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T14:20:28+00:00
+
+<img alt="King Charles III leaves after attending the Easter Matins Service at St. George&apos;s Chapel, Windsor Castle, England, Sunday, March 31, 2024." height="349" src="https://i.cbc.ca/1.7169903.1712783107!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-royals.jpg" title="King Charles III leaves after attending the Easter Matins Service at St. George&apos;s Chapel, Windsor Castle, England, Sunday, March 31, 2024." width="620" /><p>King Charles will resume his public duties next week following treatment for cancer, Buckingham Palace announced Friday.</p>
+
+## Orca calf swims out of lagoon after being trapped for a month
+ - [https://www.cbc.ca/news/canada/british-columbia/killer-whale-orca-calf-lagoon-vancouver-island-bc-free-1.7186129?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/killer-whale-orca-calf-lagoon-vancouver-island-bc-free-1.7186129?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T12:39:17+00:00
+
+<img alt="An orca in the water" height="349" src="https://i.cbc.ca/1.7179677.1713564716!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/orca-calf.jpg" title="A rescue operation for an orca calf trapped in a remote tidal lagoon off Vancouver Island has been put on hold after the calf started eating seal meat thrown in the water for what is believed to be the first time. The two-year-old female orca calf, named kwiisahi?is, or Brave Little Hunter, by the Ehattesaht First Nation, is spotted at Little Espinosa Inlet near Zeballos, B.C., Friday, April 19, 2024. " width="620" /><p>The Ehattesaht First Nation says a killer whale calf that had been trapped in a remote Vancouver Island lagoon for more than a month is now free after it swam out on its own early Friday morning.</p>
+
+## #MeToo founder says Weinstein's rape reversal hasn't killed the reckoning's movement
+ - [https://www.cbc.ca/news/entertainment/me-too-weinstein-reversal-1.7185851?cmp=rss](https://www.cbc.ca/news/entertainment/me-too-weinstein-reversal-1.7185851?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T11:05:41+00:00
+
+<img alt="Women march holding a banner that says #MeToo survivors march" height="349" src="https://i.cbc.ca/1.7185883.1714139873!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/sexual-misconduct-harvey-weinstein-metoo.jpg" title="In this Nov. 1, 2017, file photo, Tarana Burke, founder and leader of the #MeToo movement, marches with others at the #MeToo March in the Hollywood section of Los Angeles. " width="620" /><p>#MeToo founder Tarana Burke has heard it before. Every time there's a legal setback, the movement is declared dead in the water. A legal success, and presto, it's alive again.</p>
+
+## Supreme Court reaffirms independence of military judges, dismisses challenges
+ - [https://www.cbc.ca/news/politics/military-justice-independence-1.7185843?cmp=rss](https://www.cbc.ca/news/politics/military-justice-independence-1.7185843?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T10:52:20+00:00
+
+<img alt="A building is shown in the background, with a sign that reads Supreme Court of Canada shown in the foreground." height="349" src="https://i.cbc.ca/1.6993722.1697122102!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/scoc-20230616.JPG" title="The Supreme Court of Canada is seen in a file photo from June 2023. " width="620" /><p>The country's top court says Canada's system of military justice fully ensures judicial independence, even though military judges are subject to the chain of command. In a 6-1 ruling, the Supreme Court dismissed five cases that argued the status military judges as officers violated the constitutional right to a fair trial.</p>
+
+## Antony Blinken takes aim at China's support for Russia's war in Beijing visit
+ - [https://www.cbc.ca/news/world/us-china-blinken-wang-1.7185771?cmp=rss](https://www.cbc.ca/news/world/us-china-blinken-wang-1.7185771?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T09:09:53+00:00
+
+<img alt="Two men in suit and ties, one Caucasian and one Asian, shake hands while standing in a room." height="349" src="https://i.cbc.ca/1.7185798.1714134731!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/us-china-blinken.jpg" title="U.S. Secretary of State Antony Blinken meets with Chinese President Xi Jinping at the Great Hall of the People, Friday, April 26, 2024, in Beijing, China.  " width="620" /><p>U.S. Secretary of State Antony Blinken raised concerns on Friday about China's support for Russia's military, one of the many issues threatening to sour the recent improvement in relations between the world's biggest economies.</p>
+
+## TikTok parent company says it won't sell, despite possible U.S. ban
+ - [https://www.cbc.ca/news/world/tiktok-bytedance-1.7185776?cmp=rss](https://www.cbc.ca/news/world/tiktok-bytedance-1.7185776?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T09:08:51+00:00
+
+<img alt="The app logo of TikTok is seen on a cellphone that is resting on a computer keyboard." height="349" src="https://i.cbc.ca/1.7185785.1714133498!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-tiktok-legislation-divestment.JPG" title="TikTok app logo is seen in this illustration taken, August 22, 2022. " width="620" /><p>TikTok is gearing up for a legal fight against a new U.S. law that would force the social media platform to break ties with ByteDance, its China-based parent company.</p>
+
+## Prehistoric giant 'sabre-toothed salmon' renamed after new discovery
+ - [https://www.cbc.ca/news/science/prehistoric-giant-salmon-1.7185770?cmp=rss](https://www.cbc.ca/news/science/prehistoric-giant-salmon-1.7185770?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T08:15:44+00:00
+
+<img alt="The head of a fossil salmon" height="349" src="https://i.cbc.ca/1.7185773.1714131926!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/giant-prehistoric-salmon-20240424.jpg" title="A spike-tooth Salmon fossil is shown on display at the University of Oregon in this handout image. About five million years ago, the largest salmon known to have lived migrated through the coastal waters of the Pacific Northwest, and a new paper uses revelations from fossil discoveries to reimagine and rename the great fish. " width="620" /><p>The giant prehistoric 'sabre-toothed salmon' has been renamed the 'spike-toothed' salmon after scientists uncovered new information about its weird, giant tusks.</p>
+
+## Challengers is a killer love triangle romance that hates love
+ - [https://www.cbc.ca/news/entertainment/challengers-review-1.7185493?cmp=rss](https://www.cbc.ca/news/entertainment/challengers-review-1.7185493?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T04:00:49+00:00
+
+<img alt="Two men sit on a bed with a seated, smiling woman between them." height="349" src="https://i.cbc.ca/1.7185509.1714084806!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/challengers-2023.jpg" title="Mike Faist as Art, Zendaya as Tashi and Josh O&apos;Connor as Patrick in a still from Challengers." width="620" /><p>Challengers is a slow-building marvel that challenges everyone: its characters, on how far they'll go for the film's central theme; its writer, on the division between reality and fiction; and its viewers, on what they personally define as admirable and, conversely, as villainous.</p>
+
+## Ending Sudan's civil war may require help of countries currently helping inflame it, observers say
+ - [https://www.cbc.ca/news/sudan-conflict-negotiation-1.7183404?cmp=rss](https://www.cbc.ca/news/sudan-conflict-negotiation-1.7183404?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T04:00:43+00:00
+
+<img alt="Rebel soldiers stand on and around a military truck." height="349" src="https://i.cbc.ca/1.7183704.1713985601!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sudanese-rebel-soldiers.jpg" title="Fighters of the Sudan Liberation Movement, a Sudanese rebel group active in Sudan&apos;s Darfur State that supports army chief Abdel Fattah al-Burhan, attend a graduation ceremony in the southeastern Gedaref state on March 28, 2024.  " width="620" /><p>Players beyond the borders of Sudan — from its African neighbours to the Gulf States and beyond — are influencing the course of the conflict for their own purposes and increasing the chances of it metastasizing, analysts say. </p>
+
+## Americans are spending $61B on Ukraine's war effort. What will it get them?
+ - [https://www.cbc.ca/news/world/ukarine-war-russia-us-aid-61-billion-1.7184976?cmp=rss](https://www.cbc.ca/news/world/ukarine-war-russia-us-aid-61-billion-1.7184976?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T04:00:00+00:00
+
+<img alt="A soldier&apos;s head pops out of a tank. He is looking at the sky warily. " height="349" src="https://i.cbc.ca/1.7185664.1714100399!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg" title="A Ukrainian soldier looks on as he prepares to fire 152-mm Self-Propelled Howitzer 2S3, towards Russian positions at the frontline, near Bakhmut, Donetsk region, Ukraine, Monday, March 25, 2024. " width="620" /><p>Washington's aid package will certainly help against Russia's invasion, which has lasted over two years. But it also raises questions about the plan, if any, for a final Ukrainian victory.</p>
+
+## EV sales have slowed. Do massive subsidies still make sense?
+ - [https://www.cbc.ca/news/business/ev-sales-have-slowed-do-massive-subsidies-still-make-sense-1.7185232?cmp=rss](https://www.cbc.ca/news/business/ev-sales-have-slowed-do-massive-subsidies-still-make-sense-1.7185232?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T04:00:00+00:00
+
+<img alt="Three men walking inside a car assembly plant, with vehicles on one side and equipment on the other." height="349" src="https://i.cbc.ca/1.7184604.1714118924!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/canada-honda.JPG" title="Canada&apos;s Prime Minister Justin Trudeau and CEO of Honda Toshihiro Mibe and Premier of Ontario Doug Ford walk on the day Honda announces plans to build electric vehicles and their parts in Ontario with financial support from the Canadian and provincial governments, at their automotive assembly plant in Alliston, Ontario, Canada, April 25, 2024.  " width="620" /><p>Honda and Toyota are promising billions in new EV investments as governments hand out subsidies and tax credits. But EV sales in North America have slowed amid concerns over costs and range anxiety.</p>
+
+## Ottawa says pharmacare is coming — here's what you need to know
+ - [https://www.cbc.ca/news/politics/pharmacare-explainer-1.7185304?cmp=rss](https://www.cbc.ca/news/politics/pharmacare-explainer-1.7185304?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T04:00:00+00:00
+
+<img alt="Prescription drugs are seen on shelves at a pharmacy in Montreal." height="349" src="https://i.cbc.ca/1.7129444.1709222630!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/pharmacare-20240110.JPG" title="Prescription drugs are seen on shelves at a pharmacy in Montreal." width="620" /><p>The federal government’s budget is setting aside $1.5 billion to implement pharmacare – a major financial commitment with the potential to have a wide-ranging impact on the country’s health-care system.</p>
+
+## RCMP's ability to defend national security is eroding, report warns
+ - [https://www.cbc.ca/news/politics/rcmp-federal-policing-mab-1.7182615?cmp=rss](https://www.cbc.ca/news/politics/rcmp-federal-policing-mab-1.7182615?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T04:00:00+00:00
+
+<img alt="Major RCMP police operation in the Montreal region targeting a criminal organization involved in cocaine trafficking, money laundering and illegal gambling. 400 police officers deployed on the ground. 13 arrests." height="349" src="https://i.cbc.ca/1.7182635.1713904122!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/major-rcmp-police-operation.jpg" title="Major RCMP police operation in the Montreal region targeting a criminal organization involved in cocaine trafficking, money laundering and illegal gambling. 400 police officers deployed on the ground. 13 arrests." width="620" /><p>The RCMP's federal wing is at a "critical juncture" and its ability to police key national security files — such as foreign interference, terrorism and financial crime — is on the line, says a recent report from the RCMP's independent advisory board.</p>
+
+## Social media hurts girls' mental health and education potential, says UNESCO report
+ - [https://www.cbc.ca/news/unesco-gem-technology-social-media-1.7184717?cmp=rss](https://www.cbc.ca/news/unesco-gem-technology-social-media-1.7184717?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T04:00:00+00:00
+
+<img alt="Girl watches makeup application on Instagram on a smartphone." height="349" src="https://i.cbc.ca/1.7025296.1699639381!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/growing-up-digital-smartphone-psychiatry.jpg" title="In this Nov. 1, 2018 photo, Laurel Foster looks at Instagram in San Francisco. App developers say as teens scroll through Instagram and Snapchat, tap out texts, or hole up in their rooms watching YouTube, they‚Äôre leaving enormous digital footprints that may offer clues to their psyches. Studies are under way to find out. " width="620" /><p>Girls around the world tend to spend more time on social media than boys and it's hurting their mental health, says a new report from the United Nations Educational, Scientific and Cultural Organization (UNESCO).</p>
+
+## The Baby-Sitters Club books are wildly popular — again — and adults are loving the nostalgia
+ - [https://www.cbc.ca/news/canada/baby-sitters-club-books-1.7183119?cmp=rss](https://www.cbc.ca/news/canada/baby-sitters-club-books-1.7183119?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T04:00:00+00:00
+
+<img alt="Stacks of books from the Baby-Sitters Club series" height="349" src="https://i.cbc.ca/1.7184513.1714052179!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/baby-sitters-club-collection.jpg" title="Erika Dole&apos;s collection of the Baby-Sitters Club series by Ann M. Martin is pictured on April 24, 2024. Dole, 41, of Ottawa, has been collecting the books since she was a child. She has 231 of them." width="620" /><p>When the graphic novel remake of Ann M. Martin's book Claudia and the Bad Joke was the best-selling kids book in Canada earlier this month, it was time for bookworms to feel their hearts flutter with nostalgia. The original, part of the wildly popular The Baby-Sitters Club series, was published in 1988.</p>
+
+## What are microplastics doing to human health? Scientists work to connect the dots
+ - [https://www.cbc.ca/news/health/microplastic-nanoplastic-health-1.7183822?cmp=rss](https://www.cbc.ca/news/health/microplastic-nanoplastic-health-1.7183822?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-04-26T04:00:00+00:00
+
+<img alt="Nina Gomes recovers a discarded plastic bag from ocean waters, near Copacabana beach in Rio de Janeiro, Brazil, in March 2024." height="349" src="https://i.cbc.ca/1.7184506.1714051609!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/plastic-pollution-treaty.jpg" title="Nina Gomes recovers a discarded plastic bag from ocean waters, near Copacabana beach in Rio de Janeiro, Brazil, March 19, 2024. " width="620" /><p>People unknowingly ingest microplastics from what we eat, drink and breathe. Some scientists fear exposure to microplastics could increase vulnerability to heart disease, cancer and other illnesses. While possible links between microplastics and disease are not definitive, researchers are exploring some concerning hints.</p>
+

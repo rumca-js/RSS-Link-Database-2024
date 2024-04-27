@@ -1,0 +1,252 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## FTC says Amazon executives destroyed potential evidence by using apps like Signal
+ - [https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T22:59:29+00:00
+
+<figure>
+      <img alt="Illustration showing Amazon’s logo on a black, orange, and tan background, formed by outlines of the letter “A.”" src="https://cdn.vox-cdn.com/thumbor/Se4eFrluqh0auG1SKopAv8S1q10=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73309420/acastro_STK103__04.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="s6abbd">FTC lawyers <a href="https://www.documentcloud.org/documents/24623188-ftc-vs-amazon-signal?responsive=1&amp;title=1">submitted a filing</a> on Thursday that claims Amazon’s top execs used Signal’s disappearing messages feature to destroy evidence relevant <a href="https://www.theverge.com/2023/9/26/23809817/amazon-ftc-antitrust-lawsuit-monopoly">to the agency’s massive antitrust lawsuit</a>. (You remember the one? The FTC accused Amazon of creating a secret “Project Nessie” pricing algorithm that may have generated <a href="https://www.theverge.com/2023/11/2/23943724/amazon-proj
+
+## Eken fixes ‘terrible’ video doorbell issue that could let someone spy on you
+ - [https://www.theverge.com/2024/4/26/24141844/eken-firmware-update-consumer-reports-video-doorbell-security-vulnerability](https://www.theverge.com/2024/4/26/24141844/eken-firmware-update-consumer-reports-video-doorbell-security-vulnerability)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T22:33:14+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/huDU9nNNiYMQuA9yDvwbCqTCr40=/115x0:1357x828/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73309337/Screen_Shot_2024_04_26_at_1.29.30_PM.0.png" />
+        <figcaption>Image: Eken</figcaption>
+    </figure>
+
+  <p id="iiul0o">A company that manufactures video doorbells found by <em>Consumer Reports</em> to contain serious security vulnerabilities has <a href="https://www.consumerreports.org/home-garden/home-security-cameras/eken-fixes-security-issues-in-doorbell-cameras-a1005200443/">issued a fix</a>, the consumer advocacy group is reporting. Eken Group has issued a firmware update for the affected security products under its own name, as well as those from other brands it has licensing deals with, including Fishbot, Rakeblue, Tuck, and others. All the video doorbells use the Aiwit smartphone app and could be purchased from popular online retailers like Amazon, Shein, Temu, and Walmart. </p>
+<p id="LGfWPs">Back in Febr
+
+## Google is officially a $2 trillion company
+ - [https://www.theverge.com/24140489/google-alphabet-q1-2024-earnings-revenue](https://www.theverge.com/24140489/google-alphabet-q1-2024-earnings-revenue)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T20:20:02+00:00
+
+<figure>
+      <img alt="An illustration of Google’s multicolor “G” logo" src="https://cdn.vox-cdn.com/thumbor/t70hCSvDfv2cpoLndhjbARZWFpo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73308987/STK093_Google_01.0.jpg" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="2GolLy">Google has spent the past year dealing with two of <a href="https://www.theverge.com/23712602/google-search-25-years-anniversary-ai-artificial-intelligence">the biggest threats in its 25-year history</a>: the rise of generative AI and the growing drumbeat of regulation. AI, in particular, has shaken the company to its core: it’s made <a href="https://www.theverge.com/2024/3/5/24091099/google-search-high-quality-results-spam-ai-content">big search changes</a>, realigned the <a href="https://www.theverge.com/2024/3/19/24105705/google-liz-reid-search-ai-sge-gemini">Search</a>, <a href="https://www.theverge.com/2024/4/18/24133881/google-android-pixel-teams-reorg-r
+
+## I traded in my MacBook and now I’m a desktop convert
+ - [https://www.theverge.com/24139303/mac-mini-laptops-desktops](https://www.theverge.com/24139303/mac-mini-laptops-desktops)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T19:28:14+00:00
+
+<figure>
+      <img alt="An overhead photo of Apple’s 2023 Mac Mini." src="https://cdn.vox-cdn.com/thumbor/Hb9wDZtxzXcYPdbXUx9eWdC4p7I=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73308865/236494_Mac_mini__2023__AKrales_0066.0.jpg" />
+        <figcaption><em>You can forget a lot about desktops if you use laptops exclusively for 23 years.</em> | Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="BziFNe">When the <a href="https://www.theverge.com/24114684/apple-macbook-air-m3-13-15-inch-2024-review">M3 MacBook Airs</a> came out last month, I did a good ol’ double facepalm that Captain Picard would be proud of. The <a href="https://www.theverge.com/2024/3/5/24090112/macbook-air-wedge-laptops-design">wedge shape was no more</a> (<a href="https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart">kinda</a>). My <a href="https://www.theverge.com/23757441/apple-macbook-air-15-inch-2023-review">M2 MacBook Air 15</a> was
+
+## How to delete the data Google has on you
+ - [https://www.theverge.com/24141741/google-data-delete-how-to](https://www.theverge.com/24141741/google-data-delete-how-to)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T19:07:10+00:00
+
+<figure>
+      <img alt="A person holding a mobile phone with the Google logo on it. The background is a mix of different Google services." src="https://cdn.vox-cdn.com/thumbor/zGNYDBLV0MgMnWrP0YMmKxVhSng=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73308818/HT012_google_00010.0.jpg" />
+        <figcaption>Illustration by Samar Haddad / The Verge</figcaption>
+    </figure>
+
+  <p id="G5dP73">Think about everything you do across Chrome, Gmail, Google Maps, YouTube, and everything else Google owns, and you get some idea of how much data you’re giving up to the company each day. For most of us, it’s... a lot.</p>
+<p id="XEu4jc">Whether or not you think the data collection and targeted advertising is a worthwhile trade for the free apps you get in return, Google does at least provide a comprehensive online dashboard you can use to see some of what’s being gathered.</p>
+<div class="c-float-left c-float-hang"><aside id="7uvMCL"><div></div></aside></div>
+<p id="LlzGqS">Y
+
+## Google adds AI conversation practice for English language learners
+ - [https://www.theverge.com/2024/4/26/24141631/google-search-ai-conversational-language-translation-english](https://www.theverge.com/2024/4/26/24141631/google-search-ai-conversational-language-translation-english)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T19:06:10+00:00
+
+<figure>
+      <img alt="An illustration of the Google logo." src="https://cdn.vox-cdn.com/thumbor/UelXUTy0t03RxmMfB5D9eZfwOC8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73308804/STK093_Google_02.0.jpg" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="0HGRO1">Google is testing its AI listening skills with a feature that lets people speak into their phones and practice English with a conversational AI bot. Google first rolled out the <a href="https://research.google/blog/english-learners-can-now-practice-speaking-on-search/">speaking practice experience in October 2023</a>. Originally, the feature only provided feedback on spoken sentences. Now, users can practice having ongoing conversations in the language they’re learning. </p>
+<p id="c7aeDD"><a href="https://techcrunch.com/2024/04/26/google-improve-english-new-speaking-practice-feature/"><em>TechCrunch</em> reports</a> that the feature is currently available for Search Labs
+
+## Apple’s last-gen MacBook Pro 16 is on sale for its best price to date
+ - [https://www.theverge.com/2024/4/26/24140118/apple-m2-macbook-pro-16-eve-smart-plug-deal-sale](https://www.theverge.com/2024/4/26/24140118/apple-m2-macbook-pro-16-eve-smart-plug-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T18:19:23+00:00
+
+<figure>
+      <img alt="The MacBook Pro 16 (2023) on a pink table. The screen displays a blue and yellow desktop pattern." src="https://cdn.vox-cdn.com/thumbor/sZ8u_0PiC78vkjdSE10cIEurEf8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73308593/236492_MacBook_Pro_16__2023__AKrales_0009.0.jpg" />
+        <figcaption><em>Even now, the last-gen MacBook is a speedy machine with a stunning, spacious display. </em> | Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="sJwN5a">It’s been a good week for Apple fans. Not only did Apple <a href="https://www.theverge.com/2024/4/23/24078670/apple-may-product-event-ipad-date">announce its forthcoming “Let Loose” event</a>, but the entire M3-powered <a href="https://www.theverge.com/24114684/apple-macbook-air-m3-13-15-inch-2024-review"><strong>13-inch MacBook Air</strong></a> lineup <a href="https://www.amazon.com/Apple-2024-MacBook-13-inch-Laptop/dp/B0CX22ZW1T/?tag=theverge02-20" rel="sponsored nofol
+
+## Akira Toriyama’s Sand Land makes a better show than game
+ - [https://www.theverge.com/24141497/sand-land-game-anime-hulu-ps5-xbox-akira-toriyama](https://www.theverge.com/24141497/sand-land-game-anime-hulu-ps5-xbox-akira-toriyama)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T18:00:00+00:00
+
+<figure>
+      <img alt="A screenshot from the video game Sand Land." src="https://cdn.vox-cdn.com/thumbor/IR-TNqRVjDmbQfHDBH_dsFZU1Iw=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73308519/ss_c0961370a5d776c2f07a0734e04ab3ca538c5378.0.jpg" />
+        <figcaption>Image: Bandai Namco</figcaption>
+    </figure>
+
+  <p id="cvbq7G">Between <a href="https://www.theverge.com/24086957/dune-part-two-movie-review"><em>Dune</em></a>, <a href="https://www.theverge.com/24126474/fallout-review-amazon-prime-video"><em>Fallout</em></a>, and <a href="https://www.theverge.com/2023/11/30/23983452/furiosa-mad-max-trailer"><em>Mad Max</em></a>, it’s a good year for stories with lots of sand and little water. Now, you can add <em>Sand Land</em> — an adaptation of <a href="https://www.theverge.com/2024/3/8/24094161/dragon-ball-creator-akira-toriyama-has-died-aged-68">the late Akira Toriyama</a>’s manga of the same name — to that list. The difference here is that <em>Sand Land</em> com
+
+## Drake has taken down his diss track featuring AI Tupac
+ - [https://www.theverge.com/2024/4/26/24141595/drake-taylor-made-ai-tupac-takedown](https://www.theverge.com/2024/4/26/24141595/drake-taylor-made-ai-tupac-takedown)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T17:31:05+00:00
+
+<figure>
+      <img alt="Rapper, songwriter, and icon Drake attends a game between the Houston Rockets and the Cleveland Cavaliers at Toyota Center on March 16, 2024 in Houston, Texas." src="https://cdn.vox-cdn.com/thumbor/B4rlh3hDkgcw7cayuVy4SYvxmlk=/0x961:2449x2594/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73308459/2089852877.0.jpg" />
+        <figcaption>Photo by Carmen Mandato / Getty Images</figcaption>
+    </figure>
+
+  <p id="eXZIIN">Tupac Shakur’s lawyers <a href="https://www.theverge.com/2024/4/24/24139442/tupac-ai-lawsuit-drake-taylor-made-diss-track">warned Drake</a> that they would take him to court if he did not take down his “Taylor Made” diss track <a href="https://variety.com/2024/music/news/drake-taylor-made-freestyle-tupac-shakur-taylor-swift-snoop-dogg-1235977178/">featuring AI-altered vocals</a> made to sound like the late rapper. And it seems like the message was received loud and clear.</p>
+<p id="znXl2G">Following Tupac’s lawyers giving Drake 24 hours t
+
+## Space Vacation’s gorgeous prints celebrate fan-favorite movies
+ - [https://www.theverge.com/24141564/space-vacation-samar-haddad-art-prints-sci-fi-interview](https://www.theverge.com/24141564/space-vacation-samar-haddad-art-prints-sci-fi-interview)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T17:28:39+00:00
+
+<figure>
+      <img alt="A cartoon drawing based on Uma Thurman in Pulp Fiction. She is laying on her stomach with her legs crossed behind her as she smokes a cigarette." src="https://cdn.vox-cdn.com/thumbor/Kq844UNM9K8MHHHdDDhhIvNkJo0=/0x394:2362x1969/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73308443/Pulp_Fiction.0.jpg" />
+        <figcaption>Art by Samar Haddad / Space Vacation</figcaption>
+    </figure>
+
+
+  		 <p>A look at Samar Haddad’s bold homages, from sci-fi to comedy.</p>
+  <p>
+    <a href="https://www.theverge.com/24141564/space-vacation-samar-haddad-art-prints-sci-fi-interview">Continue reading&hellip;</a>
+  </p>
+
+## Google Pixel 8A leak reveals seven years of security updates
+ - [https://www.theverge.com/2024/4/26/24141503/google-pixel-8a-leaked-specs-security-updates](https://www.theverge.com/2024/4/26/24141503/google-pixel-8a-leaked-specs-security-updates)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T16:46:44+00:00
+
+<figure>
+      <img alt="A leaked image showing the Google Pixel 8A" src="https://cdn.vox-cdn.com/thumbor/SKaopIwLjNSDy-GQQT-gi1uss4w=/0x67:700x534/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73308303/google_pixel_8a_leak_blue.0.jpg" />
+        <figcaption>Image: <a class="ql-link" href="https://www.androidheadlines.com/exclusive-google-pixel-8a-renders-leak-features#gallery-662bbdbda957f-23" target="_blank">Android Headlines</a></figcaption>
+    </figure>
+
+  <p id="rrj1M7">We’ve already seen <a href="https://www.theverge.com/2024/4/12/24128507/google-pixel-8a-colors-leak">a bunch of images</a> revealing what Google’s Pixel 8A might look like, but now, leaked marketing materials <a href="https://www.androidheadlines.com/exclusive-google-pixel-8a-renders-leak-features">shared by <em>Android Headlines</em></a> give us an even better picture of what we can expect. The promotional images suggest that the budget-friendly Pixel 8A will come with seven years of security updates.</p>
+
+
+## Columbia University has a doxxing problem
+ - [https://www.theverge.com/24141073/columbia-doxxing-truck-student-encampment-palestine-israel](https://www.theverge.com/24141073/columbia-doxxing-truck-student-encampment-palestine-israel)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T16:45:54+00:00
+
+<figure>
+      <img alt="A photo of a patinaed bronze lion head affixed to marble. The lion head is covered in political stickers, including slogans like “End the Genocide, Free Palestine.”" src="https://cdn.vox-cdn.com/thumbor/tswUSSy32rG87UbvxCJIMxCv7ro=/0x0:2700x1800/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73308301/247092_Student_activist_doxxing_AKrales_1217.0.jpg" />
+    </figure>
+
+
+  		 <p>Protesters wanted to expose Columbia; Columbia exposed its students.</p>
+  <p>
+    <a href="https://www.theverge.com/24141073/columbia-doxxing-truck-student-encampment-palestine-israel">Continue reading&hellip;</a>
+  </p>
+
+## Lego is bringing summer vibes with K.K. Slider and new Animal Crossing sets
+ - [https://www.theverge.com/2024/4/26/24141487/lego-animal-crossing-kk-slider](https://www.theverge.com/2024/4/26/24141487/lego-animal-crossing-kk-slider)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T16:11:39+00:00
+
+<figure>
+      <img alt="Screenshot of new Animal Crossing sets" src="https://cdn.vox-cdn.com/thumbor/ejCSxGX4bNaFCF6FVFNFFYHAb68=/42x0:1356x876/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73308151/Screenshot_2024_04_26_at_11.21.35_AM.0.png" />
+        <figcaption><em>The new sets include a Town Hall and Dodo Airlines airport.</em> | Image: Lego</figcaption>
+    </figure>
+
+  <p id="Bgp3cu">Good news for those of us who love <em>Animal Crossing</em> and Legos. Starting August 1st, Lego is launching two new <em>Animal Crossing </em>sets and a minifig of one very special canine crooner.</p>
+<p id="RxkfxE">Lego teased the news on its <a href="https://twitter.com/LEGO_Group/status/1783858761444037049">X account</a>, which shows K.K. Slider doing his thing and a brief glimpse of the two new sets. (Amusingly, Lego notes that the K.K. Slider minifigure does not actually move or sing. Bummer.) K.K. Slider is part of a fall-themed Town Hall set, which includes Isabelle and Audie. There’
+
+## One year with the Light Phone 2
+ - [https://www.theverge.com/24140675/light-phone-2-one-year-retrospect](https://www.theverge.com/24140675/light-phone-2-one-year-retrospect)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T15:25:02+00:00
+
+<figure>
+      <img alt="A small cellphone held in a person’s hand with books in the background." src="https://cdn.vox-cdn.com/thumbor/AkZHkAuxSnp6JENB8GEJER_rVMQ=/311x0:3689x2252/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73307939/1000004376.0.jpg" />
+    </figure>
+
+  <p id="jHnV6e">The first time I used the <a href="https://www.thelightphone.com/">Light Phone 2</a>’s GPS, I drove to Los Angeles for a date. I ended up parked in a red zone, hyperventilating to the rhythm of my hazard lights. All I did was get lost, and yet, I was seconds away from puking all over myself. (I didn’t, thank goodness.) I should have picked a lower-stakes event to test-drive the navigation feature, but I assumed it would work as well as Google Maps. I was wrong.</p>
+<p id="PApTiS">The Light Phone’s GPS was awful a year ago. It often thought I was on a surface street instead of the adjacent freeway, or vice versa, so it would incorrectly tell me to keep going or take an exit that didn’t exist and n
+
+## DJI might get banned next in the US
+ - [https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act](https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T15:17:09+00:00
+
+<figure>
+      <img alt="A photo showing DJI’s Avata 2 drone on pavement." src="https://cdn.vox-cdn.com/thumbor/kIyZ8yGhWmWB6hIM0AESICasmOk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73307913/vpavic_20240407_Untitled_Job_11415.0.jpg" />
+        <figcaption>Photo by Vjeran Pavic / The Verge</figcaption>
+    </figure>
+
+  <p id="nfznjE">After moving to <a href="https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package">ban TikTok in the US</a>, the federal government could target the China-based DJI next. A <a href="https://www.nytimes.com/2024/04/25/us/politics/us-china-drones-dji.html#:~:text=Favorite%20Drone%20Maker.-,Except%20in%20Washington.,commercial%20and%20consumer%20drone%20markets.">report from <em>The New York Times</em></a> highlights a bill <a href="https://stefanik.house.gov/press-releases?ID=345D6086-C162-48E0-B645-B2732E9BDBA7">advanced by</a> the House of Energy and Commerce Committee last month that could
+
+## Tesla’s Autopilot is under investigation again following ‘recall’ software update
+ - [https://www.theverge.com/2024/4/26/24141403/tesla-autopilot-nhtsa-investigation-recall-software-fix](https://www.theverge.com/2024/4/26/24141403/tesla-autopilot-nhtsa-investigation-recall-software-fix)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T14:22:25+00:00
+
+<figure>
+      <img alt="Tesla - Quarterly figures" src="https://cdn.vox-cdn.com/thumbor/4MBrzOp4VZ0QdlUehfxDurMdYGw=/0x0:8256x5504/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73307718/2149272492.0.jpg" />
+        <figcaption><em>Crashes involving post-fix Tesla vehicles have prompted the NHTSA to look into how effective the Autopilot updates were.</em> | Photo by Sebastian Gollnow / picture alliance via Getty Images</figcaption>
+    </figure>
+
+  <p id="0HEiAb">Tesla can add yet another investigation into its Autopilot feature to what’s already piling up to be a <a href="https://www.theverge.com/24134781/tesla-q1-2024-earnings-sales-market-share-elon-musk">pretty bad year for the company</a>. </p>
+<p id="ulWdRB">On Friday, the National Highway Traffic Safety Administration (NHTSA) revealed it was <a href="https://static.nhtsa.gov/odi/inv/2024/INOA-RQ24009-12046.pdf">opening a new probe</a> to assess whether the recall fix Tesla implemented for over 2 million cars back in Decem
+
+## Tesla’s Autopilot and Full Self-Driving linked to hundreds of crashes, dozens of deaths
+ - [https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death](https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T14:15:54+00:00
+
+<figure>
+      <img alt="Left side of Tesla Model 3 main screen showing a computer-generated image of an intersection with cars parked on the sides and the Model 3 following another car" src="https://cdn.vox-cdn.com/thumbor/oSdUf3TvBxth6psuSJyKOSKP3D4=/0x0:5076x3384/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73307700/Screenshot_2023_07_21_at_1.45.12_PM.0.jpeg" />
+        <figcaption>Image: Owen Grove / The Verge</figcaption>
+    </figure>
+
+  <p id="jUNPig">In March 2023, a North Carolina student was stepping off a school bus when he was struck by a Tesla Model Y traveling at “highway speeds,” according to a <a href="https://static.nhtsa.gov/odi/inv/2022/INCR-EA22002-14496.pdf">federal investigation that published today</a>. The Tesla driver was using Autopilot, the automaker’s advanced driver-assist feature that Elon Musk insists will eventually lead to fully autonomous cars. </p>
+<p id="GqqrGI">The 17-year-old student who was struck was <a href="https://abc11.com/investigati
+
+## What’s next with AI?
+ - [https://www.theverge.com/press-room/2024/4/26/24139468/artificial-intelligence-survey-data](https://www.theverge.com/press-room/2024/4/26/24139468/artificial-intelligence-survey-data)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T14:00:00+00:00
+
+<figure>
+      <img alt="An illustration of a man pulling a theater mask off a humanoid body to reveal a computer screen." src="https://cdn.vox-cdn.com/thumbor/4-Y2-FhxvqBkKCvoCre7JQ6kp0k=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73307609/unmask.0.jpg" />
+        <figcaption>Illustration by Diana Young</figcaption>
+    </figure>
+
+
+  		 <p>Consumers are already putting AI tools to use for both productivity and creativity. But what’s next? </p>
+  <p>
+    <a href="https://www.theverge.com/press-room/2024/4/26/24139468/artificial-intelligence-survey-data">Continue reading&hellip;</a>
+  </p>
+
+## How to stop being reminded of memories you don’t want to be reminded of
+ - [https://www.theverge.com/24140444/memories-photos-facebook-onenote-how-to](https://www.theverge.com/24140444/memories-photos-facebook-onenote-how-to)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-04-26T13:33:07+00:00
+
+<figure>
+      <img alt="Vector collage showing different aspects of using AI tools." src="https://cdn.vox-cdn.com/thumbor/V_9B-9RkS8-YqjfOnY2iqPuw-Q4=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73307553/HT054_AI_writing_1.0.jpg" />
+        <figcaption>Image: The Verge</figcaption>
+    </figure>
+
+  <p id="JQKR94">Last year, on a perfect spring day that also happened to be my birthday, I took a car trip to a beautiful area of New York state. It was a lovely day. The new foliage was just coming out and flocks of migrating birds were flying overhead — just the right day for a bunch of photos and good memories.</p>
+<p id="O1ALaG">Unfortunately, my reason for traveling upstate wasn’t for the flora and fauna, but to attend the funeral of my best friend. I took lots of photos on that day: of other friends who attended the service, of the river paths and local parks that my best friend and I used to walk together, and of the home she used to share with her parents, now 
+

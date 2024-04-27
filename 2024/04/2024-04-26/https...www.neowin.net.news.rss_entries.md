@@ -1,0 +1,163 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Save up to $2400 on Samsung S90C Smart TVs available at their lowest prices
+ - [https://www.neowin.net/deals/save-up-to-2400-on-samsung-s90c-smart-tvs-available-at-their-lowest-prices](https://www.neowin.net/deals/save-up-to-2400-on-samsung-s90c-smart-tvs-available-at-their-lowest-prices)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T22:54:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714165351_s90c_medium.jpg" /></div>Currently, the S90C Series OLED 4K Smart TVs, with Alexa built-in, are available at huge discounts on the 65 inch, 77 inch, and 83 inch variants so get them from Samsung and Amazon while stocks last. <a href="https://www.neowin.net/deals/save-up-to-2400-on-samsung-s90c-smart-tvs-available-at-their-lowest-prices/">Read more...</a>
+
+## Google is testing a new 'Speaking practice' feature to help improve your English
+ - [https://www.neowin.net/news/google-is-testing-a-new-speaking-practice-feature-to-help-improve-your-english](https://www.neowin.net/news/google-is-testing-a-new-speaking-practice-feature-to-help-improve-your-english)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T20:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714159176_man_talking_on_smartphone_medium.jpg" /></div>Google is testing a new feature for Google Search to improve spoken English skills. The feature called &#039;Speaking practice&#039; is powered by generative AI and is currently available in select regions. <a href="https://www.neowin.net/news/google-is-testing-a-new-speaking-practice-feature-to-help-improve-your-english/">Read more...</a>
+
+## More details about AI Explorer in Windows 11 emerge ahead of public announcement
+ - [https://www.neowin.net/news/more-details-about-ai-explorer-in-windows-11-emerge-ahead-of-public-announcement](https://www.neowin.net/news/more-details-about-ai-explorer-in-windows-11-emerge-ahead-of-public-announcement)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T19:17:56+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714157611_ai_explorer_medium.jpg" /></div>The rumored &quot;AI Explorer&quot; should steal the show at the Surface and Windows event on May 20. While we wait for the official announcement, a new report is revealing more details about the feature. <a href="https://www.neowin.net/news/more-details-about-ai-explorer-in-windows-11-emerge-ahead-of-public-announcement/">Read more...</a>
+
+## Windows 11 Dev Channel gets a servicing build update
+ - [https://www.neowin.net/news/windows-11-dev-channel-gets-a-servicing-build-update](https://www.neowin.net/news/windows-11-dev-channel-gets-a-servicing-build-update)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T19:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/04/1680966779_windows_11_insider_preview_promo_6_medium.jpg" /></div>Microsoft has released a minor Windows 11 servicing channel update for members of the Windows Insider Program who are signed up in the Dev Channel. It does not contain any new features. <a href="https://www.neowin.net/news/windows-11-dev-channel-gets-a-servicing-build-update/">Read more...</a>
+
+## Get a Windows 11 Pro license for a super low price
+ - [https://www.neowin.net/deals/get-a-windows-11-pro-license-for-a-super-low-price](https://www.neowin.net/deals/get-a-windows-11-pro-license-for-a-super-low-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T19:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/06/1686147138_img_0095_medium.jpg" /></div>Today&#039;s highlighted Neowin Deal lets you upgrade your Windows OS and enjoy a more enhanced UI, better multitasking, and improved security for a fraction of the normal cost. Save BIG today! <a href="https://www.neowin.net/deals/get-a-windows-11-pro-license-for-a-super-low-price/">Read more...</a>
+
+## Google Workspace admins can migrate Slack messages to Google Chat using a new tool
+ - [https://www.neowin.net/news/google-workspace-admins-can-migrate-slack-messages-to-google-chat-using-a-new-tool](https://www.neowin.net/news/google-workspace-admins-can-migrate-slack-messages-to-google-chat-using-a-new-tool)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T18:36:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/07/1689318415_google_chat_medium.jpg" /></div>Google announced that admins can now transfer messages and other data from Slack to Google Chat using a new tool. Workspace admins can also get notifications for Google Meet application load failures. <a href="https://www.neowin.net/news/google-workspace-admins-can-migrate-slack-messages-to-google-chat-using-a-new-tool/">Read more...</a>
+
+## Tricky Trials is the official name for the upcoming Minecraft 1.21 free update
+ - [https://www.neowin.net/news/tricky-trials-is-the-official-name-for-the-upcoming-minecraft-121-free-update](https://www.neowin.net/news/tricky-trials-is-the-official-name-for-the-upcoming-minecraft-121-free-update)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T18:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714153022_minecraft-tricky-trials_medium.jpg" /></div>Developer Mojang has announced that the next free update for its sandbox game Minecraft will officially be known as the Tricky Trials update when it rolls out sometime later this year. <a href="https://www.neowin.net/news/tricky-trials-is-the-official-name-for-the-upcoming-minecraft-121-free-update/">Read more...</a>
+
+## Google Pixel 8a ads leaked, promises seven years of security updates, IP67 rating and more
+ - [https://www.neowin.net/news/google-pixel-8a-ads-leaked-promises-seven-years-of-security-updates-ip67-rating-and-more](https://www.neowin.net/news/google-pixel-8a-ads-leaked-promises-seven-years-of-security-updates-ip67-rating-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T18:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713621599_google-pixel-8a-hero_medium.jpg" /></div>Ads of the alleged Google Pixel 8a have surfaced online showing the various features of the device along with a confirmation of seven years of updates for Pixel 8a same as the Pixel 8 and 8 Pro. <a href="https://www.neowin.net/news/google-pixel-8a-ads-leaked-promises-seven-years-of-security-updates-ip67-rating-and-more/">Read more...</a>
+
+## "Show desktop” button is on by default with the Windows 11 Beta Channel build 22635.3566
+ - [https://www.neowin.net/news/show-desktop-button-is-on-by-default-with-the-windows-11-beta-channel-build-226353566](https://www.neowin.net/news/show-desktop-button-is-on-by-default-with-the-windows-11-beta-channel-build-226353566)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T17:18:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/04/1680966830_windows_11_insider_preview_promo_14_medium.jpg" /></div>Microsoft has released a new Windows 11 build for members of the Windows Insider Program in the Beta Channel. The new 22635.3566 build turns the &quot;Show desktop&quot; button on by default. <a href="https://www.neowin.net/news/show-desktop-button-is-on-by-default-with-the-windows-11-beta-channel-build-226353566/">Read more...</a>
+
+## Microsoft adds Planner Premium Plan tasks to the new Planner app under the My Tasks view
+ - [https://www.neowin.net/news/microsoft-adds-planner-premium-plan-tasks-to-the-new-planner-app-under-the-my-tasks-view](https://www.neowin.net/news/microsoft-adds-planner-premium-plan-tasks-to-the-new-planner-app-under-the-my-tasks-view)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T16:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713805860_microsoft-planner-logo-1_medium.jpg" /></div>Microsoft has announced a new feature for the recently upgraded Panner app in Teams. Its My Tasks page can now show any tasks assigned from the Planner Premium Plan in the &quot;Assigned to me&quot; view. <a href="https://www.neowin.net/news/microsoft-adds-planner-premium-plan-tasks-to-the-new-planner-app-under-the-my-tasks-view/">Read more...</a>
+
+## Download: Principles of Data Science - Third Edition ($39.99 Value) for Free
+ - [https://www.neowin.net/sponsored/download-principles-of-data-science---third-edition-3999-value-for-free](https://www.neowin.net/sponsored/download-principles-of-data-science---third-edition-3999-value-for-free)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T16:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714043667_w_pacc26c82_medium.jpg" /></div>This eBook bridges mathematics, programming, and business analysis, empowering you to confidently pose and address complex data questions and construct effective machine learning pipelines. <a href="https://www.neowin.net/sponsored/download-principles-of-data-science---third-edition-3999-value-for-free/">Read more...</a>
+
+## Amazon confirms its Prime Day sales event will be back in July 2024
+ - [https://www.neowin.net/news/amazon-confirms-its-prime-day-sales-event-will-be-back-in-july-2024](https://www.neowin.net/news/amazon-confirms-its-prime-day-sales-event-will-be-back-in-july-2024)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T15:04:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714142734_amazon-prime-day_medium.jpg" /></div>Amazon will be holding its 10th annual Prime Day sales event sometime in July, which will be targeting customers who want to save money for back-to-school supplies, among other items. <a href="https://www.neowin.net/news/amazon-confirms-its-prime-day-sales-event-will-be-back-in-july-2024/">Read more...</a>
+
+## Microsoft and Estée Lauder team up to launch a new AI Innovation Lab
+ - [https://www.neowin.net/news/microsoft-and-este-lauder-team-up-to-launch-a-new-ai-innovation-lab](https://www.neowin.net/news/microsoft-and-este-lauder-team-up-to-launch-a-new-ai-innovation-lab)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T14:32:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714139095_microsoft-este-lauder_medium.jpg" /></div>Microsoft has announced a new collaboration with the beauty company Estée Lauder to create a new AI Innovation Lab to help speed up product development for Estée Lauder&#039;s beauty brands. <a href="https://www.neowin.net/news/microsoft-and-este-lauder-team-up-to-launch-a-new-ai-innovation-lab/">Read more...</a>
+
+## The big Fallout 4 update has a number of bugs across PC, Xbox, and PlayStation platforms
+ - [https://www.neowin.net/news/the-big-fallout-4-update-has-a-number-of-bugs-across-pc-xbox-and-playstation-platforms](https://www.neowin.net/news/the-big-fallout-4-update-has-a-number-of-bugs-across-pc-xbox-and-playstation-platforms)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T13:54:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714137450_f54453a6c193400d4fa3616f5eac80ad85aebe26_medium.jpg" /></div>Bethesda Game Studios released its big &#039;next-gen&quot; update for Fallout 4 this week. However, the update also came with a number of bugs across its PC, Xbox, and PlayStation platforms. <a href="https://www.neowin.net/news/the-big-fallout-4-update-has-a-number-of-bugs-across-pc-xbox-and-playstation-platforms/">Read more...</a>
+
+## Microsoft reveals Infra Copilot that uses GitHub Copilot to generate infrastructure code
+ - [https://www.neowin.net/news/microsoft-reveals-infra-copilot-that-uses-github-copilot-to-generate-infrastructure-code](https://www.neowin.net/news/microsoft-reveals-infra-copilot-that-uses-github-copilot-to-generate-infrastructure-code)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T13:22:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714134616_umurugesan_10-1714107036223_medium.jpg" /></div>Microsoft has just revealed Infra Copilot, a spinoff of its GitHub Copilot generative AI coding service. Infra Copilot is designed to help nfrastructure professionals generate infra code. <a href="https://www.neowin.net/news/microsoft-reveals-infra-copilot-that-uses-github-copilot-to-generate-infrastructure-code/">Read more...</a>
+
+## Get the Razer Kaira HyperSpeed wireless gaming headset for Xbox and PC at its lowest price
+ - [https://www.neowin.net/deals/get-the-razer-kaira-hyperspeed-wireless-gaming-headset-for-xbox-and-pc-at-its-lowest-price](https://www.neowin.net/deals/get-the-razer-kaira-hyperspeed-wireless-gaming-headset-for-xbox-and-pc-at-its-lowest-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T13:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714133357_razer-karia-lightspeed-headset_medium.jpg" /></div>The Razer Kaira HyperSpeed wireless gaming headset works with Xbox consoles as well as PCs with 50 mm audio drivers. It&#039;s hit a new all-time low price of $89.99 at Amazon for a limited time. <a href="https://www.neowin.net/deals/get-the-razer-kaira-hyperspeed-wireless-gaming-headset-for-xbox-and-pc-at-its-lowest-price/">Read more...</a>
+
+## Samsung Galaxy S24 FE is in the works, spotted in UK carrier EE's database
+ - [https://www.neowin.net/news/samsung-galaxy-s24-fe-is-in-the-works-spotted-in-uk-carrier-ees-database](https://www.neowin.net/news/samsung-galaxy-s24-fe-is-in-the-works-spotted-in-uk-carrier-ees-database)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T12:52:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714133745_galaxy-s23-fe-hero_medium.jpg" /></div>A fresh leak shows the Samsung Galaxy S24 FE in the UK carrier EE&#039;s database indicating that the wallet-friendly phone with flagship features from the Korean giant could launch in the UK in future. <a href="https://www.neowin.net/news/samsung-galaxy-s24-fe-is-in-the-works-spotted-in-uk-carrier-ees-database/">Read more...</a>
+
+## Microsoft explains how you can run MS-DOS 4.00 that it officially open sourced today
+ - [https://www.neowin.net/news/microsoft-explains-how-you-can-run-ms-dos-400-that-it-officially-open-sourced-today](https://www.neowin.net/news/microsoft-explains-how-you-can-run-ms-dos-400-that-it-officially-open-sourced-today)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T12:38:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714132973_ms_dos_source_sayan_sen_neowin_medium.jpg" /></div>Microsoft earlier today, in collaboration with IBM, announced that it is open-sourcing the MS-DOS 4.00 source code. The company has explained what was special about it and how to run it. <a href="https://www.neowin.net/news/microsoft-explains-how-you-can-run-ms-dos-400-that-it-officially-open-sourced-today/">Read more...</a>
+
+## WhatsApp says it will leave India if forced to break end-to-end encryption
+ - [https://www.neowin.net/news/whatsapp-says-it-will-leave-india-if-forced-to-break-end-to-end-encryption](https://www.neowin.net/news/whatsapp-says-it-will-leave-india-if-forced-to-break-end-to-end-encryption)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T06:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/09/1662099213_whatsapp_india_medium.jpg" /></div>In the ongoing lawsuit against the Union of India, WhatsApp stated that it would leave the Indian market if it is forced to break end-to-end encryption to comply with the IT Rules, 2021.  <a href="https://www.neowin.net/news/whatsapp-says-it-will-leave-india-if-forced-to-break-end-to-end-encryption/">Read more...</a>
+
+## FTC accuses Jeff Bezos, Andy Jessy and others of deleting chats amid antitrust investigation
+ - [https://www.neowin.net/news/ftc-accuses-jeff-bezos-andy-jessy-and-others-of-deleting-chats-amid-antitrust-investigation](https://www.neowin.net/news/ftc-accuses-jeff-bezos-andy-jessy-and-others-of-deleting-chats-amid-antitrust-investigation)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T06:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2015/02/1_court_medium.jpg" /></div>The FTC alleges that founder Jeff Bezos and CEO Andy Jassy destroyed messages discussing business matters to erase potential evidence amid the FTC&#039;s ongoing antitrust investigation against Amazon.  <a href="https://www.neowin.net/news/ftc-accuses-jeff-bezos-andy-jessy-and-others-of-deleting-chats-amid-antitrust-investigation/">Read more...</a>
+
+## Android 15 could offer you the option to force dark mode on stubborn apps
+ - [https://www.neowin.net/news/android-15-could-offer-you-the-option-to-force-dark-mode-on-stubborn-apps](https://www.neowin.net/news/android-15-could-offer-you-the-option-to-force-dark-mode-on-stubborn-apps)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T05:44:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1712291817_android-15-hero-image_medium.jpg" /></div>A new feature called &#039;make all apps dark&#039; has been spotted in the upcoming Android 15 Beta update that will let you force dark mode on apps even though they don&#039;t have dark mode built in. <a href="https://www.neowin.net/news/android-15-could-offer-you-the-option-to-force-dark-mode-on-stubborn-apps/">Read more...</a>
+
+## Alleged Samsung Galaxy Buds 3 Pro crucial details revealed in TUV and BIS certifications
+ - [https://www.neowin.net/news/alleged-samsung-galaxy-buds-3-pro-crucial-details-revealed-in-tuv-and-bis-certifications](https://www.neowin.net/news/alleged-samsung-galaxy-buds-3-pro-crucial-details-revealed-in-tuv-and-bis-certifications)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T04:56:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714104983_galaxy-buds-2-pro_medium.jpg" /></div>After skipping last year, Samsung is rumored to launch the Galaxy Buds 3 Pro, the battery capacity and other details of which, have been spotted on the TUV and BIS certification websites. <a href="https://www.neowin.net/news/alleged-samsung-galaxy-buds-3-pro-crucial-details-revealed-in-tuv-and-bis-certifications/">Read more...</a>
+
+## T-Mobile all set to acquire Mint Mobile and Ultra Mobile following FCC approval
+ - [https://www.neowin.net/news/t-mobile-all-set-to-acquire-mint-mobile-and-ultra-mobile-following-fcc-approval](https://www.neowin.net/news/t-mobile-all-set-to-acquire-mint-mobile-and-ultra-mobile-following-fcc-approval)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-26T04:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/07/1595539454_t_mobile_logo_3_medium.jpg" /></div>T-Mobile is set to move forward with its acquisition of Ka&#039;ena Corp, the parent company of budget mobile service providers Mint Mobile and Ultra Mobile, after receiving the green light from the FCC.  <a href="https://www.neowin.net/news/t-mobile-all-set-to-acquire-mint-mobile-and-ultra-mobile-following-fcc-approval/">Read more...</a>
+
