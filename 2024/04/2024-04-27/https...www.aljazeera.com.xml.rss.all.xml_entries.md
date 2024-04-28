@@ -1,0 +1,163 @@
+# Source:Aljazeera, URL:https://www.aljazeera.com/xml/rss/all.xml, language:en-US
+
+## Has South Africa’s ANC failed to live up to its promises?
+ - [https://www.aljazeera.com/program/inside-story/2024/4/27/has-south-africas-anc-failed-to-live-up-to-its-promises?traffic_source=rss](https://www.aljazeera.com/program/inside-story/2024/4/27/has-south-africas-anc-failed-to-live-up-to-its-promises?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T20:52:22+00:00
+
+South Africa is commemorating the 30th anniversary of its first democratic election.
+
+## Hamas releases video of two Israeli captives held in Gaza
+ - [https://www.aljazeera.com/news/2024/4/27/hamas-releases-video-of-two-israeli-captives-held-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/hamas-releases-video-of-two-israeli-captives-held-in-gaza?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T19:05:15+00:00
+
+The two men, identified as Keith Siegel and Omri Miran, send love to their families and ask to be released in the video.
+
+## Twenty Cambodian soldiers killed in ammunition base explosion: PM
+ - [https://www.aljazeera.com/news/2024/4/27/twenty-cambodian-soldiers-killed-in-ammunition-base-explosion-pm?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/twenty-cambodian-soldiers-killed-in-ammunition-base-explosion-pm?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T15:55:58+00:00
+
+The blast, which also wounded several soldiers, occurred at an army base in Kampong Speu province, Hun Manet says.
+
+## Pro-Palestine student protests spread in second week of demonstrations
+ - [https://www.aljazeera.com/news/2024/4/27/pro-palestinian-student-protests-spread-in-second-week-of-demonstrations?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/pro-palestinian-student-protests-spread-in-second-week-of-demonstrations?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T13:39:42+00:00
+
+Large-scale demonstrations take place in US universities and on European streets amid arrests and clashes with police.
+
+## Ramaphosa hails ANC record as South Africa marks 30 years of democracy
+ - [https://www.aljazeera.com/news/2024/4/27/ramaphosa-hails-anc-record-as-south-africa-marks-30-years-of-democracy?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/ramaphosa-hails-anc-record-as-south-africa-marks-30-years-of-democracy?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T13:28:38+00:00
+
+President Ramaphosa lauds South Africa&#039;s achievements under his party&#039;s leadership since the end of apartheid in 1994.
+
+## From LA to NY, pro-Palestine college campus protests grow strong in US
+ - [https://www.aljazeera.com/gallery/2024/4/27/from-la-to-new-york-student-protests-in-support-of-palestine-grow-strong?traffic_source=rss](https://www.aljazeera.com/gallery/2024/4/27/from-la-to-new-york-student-protests-in-support-of-palestine-grow-strong?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T13:11:27+00:00
+
+Students keep protesting at universities across the US as law enforcement steps in to remove protesters from campuses.
+
+## ‘Left to bleed out’: Israeli forces kill two Palestinians in West Bank
+ - [https://www.aljazeera.com/news/2024/4/27/israeli-forces-shoot-dead-two-palestinians-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/israeli-forces-shoot-dead-two-palestinians-in-occupied-west-bank?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T12:59:38+00:00
+
+Two Palestinian youths shot dead and 20 arrested as Israeli forces continue deadly crackdown in the occupied West Bank.
+
+## The Abu Ghraib abuse scandal 20 years on: What redress for victims?
+ - [https://www.aljazeera.com/news/2024/4/27/the-abu-ghraib-abuse-scandal-20-years-on-what-redress-for-victims?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/the-abu-ghraib-abuse-scandal-20-years-on-what-redress-for-victims?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T11:51:47+00:00
+
+Two decades since images of Iraqi men being abused by US soldiers shocked the world, victims still seeking justice.
+
+## Maroof’s ’emotional’ farewell captures legacy for Pakistan women’s cricket
+ - [https://www.aljazeera.com/sports/2024/4/27/maroofs-emotional-farewell-captures-impact-on-pakistan-womens-cricket?traffic_source=rss](https://www.aljazeera.com/sports/2024/4/27/maroofs-emotional-farewell-captures-impact-on-pakistan-womens-cricket?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T11:43:34+00:00
+
+Trailblazing former Pakistan women&#039;s cricket captain Bismah Maroof says &#039;emotional&#039; farewell was for team and family.
+
+## South Africa’s post-apartheid democracy is sustained by protest
+ - [https://www.aljazeera.com/opinions/2024/4/27/south-africas-post-apartheid-democracy-is-sustained-by-protest?traffic_source=rss](https://www.aljazeera.com/opinions/2024/4/27/south-africas-post-apartheid-democracy-is-sustained-by-protest?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T11:33:31+00:00
+
+Elections are important for democracy, but political and social mobilisations are crucial.
+
+## Russia, Ukraine target each other’s energy sector
+ - [https://www.aljazeera.com/news/2024/4/27/russia-ukraine-target-each-others-energy-sector?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/russia-ukraine-target-each-others-energy-sector?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T11:09:42+00:00
+
+Moscow has renewed strikes on Ukraine’s energy facilities, drawing retaliatory attacks on refineries by Kyiv.
+
+## Iraqi TikTok star Om Fahad shot dead in Baghdad night attack
+ - [https://www.aljazeera.com/news/2024/4/27/iraqi-tiktok-star-om-fahad-shot-dead-in-baghdad-night-attack?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/iraqi-tiktok-star-om-fahad-shot-dead-in-baghdad-night-attack?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T10:08:48+00:00
+
+The influencer, who had hundreds of thousands of followers, had been sentenced to six months in prison last year.
+
+## Sudan: A savage war and toxic information battle
+ - [https://www.aljazeera.com/program/the-listening-post/2024/4/27/sudan-a-savage-war-and-toxic-information-battle?traffic_source=rss](https://www.aljazeera.com/program/the-listening-post/2024/4/27/sudan-a-savage-war-and-toxic-information-battle?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T09:43:12+00:00
+
+Domestic rivalries and external players pollute the Sudanese information space.
+
+## ‘Free at last’: When South Africa voted in democracy, kicked out apartheid
+ - [https://www.aljazeera.com/features/2024/4/27/thirty-years-of-freedom-failed-dreams-and-hope-for-a-better-south-africa?traffic_source=rss](https://www.aljazeera.com/features/2024/4/27/thirty-years-of-freedom-failed-dreams-and-hope-for-a-better-south-africa?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T09:41:11+00:00
+
+Al Jazeera&#039;s Mike Hanna reflects on April 27, 1994 and the lessons from the transition from apartheid to democracy.
+
+## Is the crackdown on US university campuses a threat to free speech?
+ - [https://www.aljazeera.com/program/inside-story/2024/4/27/is-the-crackdown-on-us-university-campuses-a-threat-to-free-speech?traffic_source=rss](https://www.aljazeera.com/program/inside-story/2024/4/27/is-the-crackdown-on-us-university-campuses-a-threat-to-free-speech?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T09:24:06+00:00
+
+Hundreds of students and academics have been arrested during rallies opposing Israel&#039;s war on Gaza.
+
+## Yemen’s Houthis damage oil tanker, shoot down US drone
+ - [https://www.aljazeera.com/news/2024/4/27/yemens-houthis-damage-oil-tanker-shoot-down-us-drone?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/yemens-houthis-damage-oil-tanker-shoot-down-us-drone?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T08:43:23+00:00
+
+MV Andromeda Star suffers damage and MQ-9 Reaper drone shot down in latest escalation by the Houthis.
+
+## ‘Legitimate to fight occupiers’: Meeting a ‘terrorist’ fighting the US
+ - [https://www.aljazeera.com/news/2024/4/27/legitimate-to-fight-occupiers-meeting-a-terrorist-fighting-the-us?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/legitimate-to-fight-occupiers-meeting-a-terrorist-fighting-the-us?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T08:23:47+00:00
+
+Abu Ala al-Walai, leader of Iraqi armed group KSS, tells our correspondent that the Islamic Resistance will prevail.
+
+## US to provide Patriot missiles to Ukraine as part of $6bn defence aid
+ - [https://www.aljazeera.com/news/2024/4/27/us-to-provide-patriot-missiles-to-ukraine-as-part-of-6bn-defence-aid?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/us-to-provide-patriot-missiles-to-ukraine-as-part-of-6bn-defence-aid?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T08:18:29+00:00
+
+New weapons seen as crucial as Kyiv faces dire battlefield conditions, ammunition shortage amid Russian military gains.
+
+## South Africa: 30 years after apartheid, what has changed?
+ - [https://www.aljazeera.com/news/2024/4/27/south-africa-30-years-after-apartheid-what-has-changed?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/south-africa-30-years-after-apartheid-what-has-changed?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T07:00:46+00:00
+
+Big socio-political gains have followed apartheid but the legacy of racism and segregation is still starkly visible.
+
+## Hamas receives latest Israeli proposal amid efforts to revive Gaza talks
+ - [https://www.aljazeera.com/news/2024/4/27/hamas-receives-latest-israeli-proposal-amid-efforts-to-revive-gaza-talks?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/hamas-receives-latest-israeli-proposal-amid-efforts-to-revive-gaza-talks?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T05:57:35+00:00
+
+Hamas says it is &#039;open to any ideas&#039; but sticks to its demand that a deal must permanently end the Gaza war.
+
+## Columbia University’s Shafik rebuked over Gaza crackdown but avoids censure
+ - [https://www.aljazeera.com/news/2024/4/27/columbia-universitys-shafik-rebuked-over-gaza-crackdown-but-avoids-censure?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/columbia-universitys-shafik-rebuked-over-gaza-crackdown-but-avoids-censure?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T05:07:08+00:00
+
+University oversight panel says president undermined academic freedom by allowing New York police break up Gaza protest.
+
+## US returns ancient artefacts looted from Cambodia, Indonesia
+ - [https://www.aljazeera.com/news/2024/4/27/us-returns-ancient-artefacts-looted-from-cambodia-indonesia?traffic_source=rss](https://www.aljazeera.com/news/2024/4/27/us-returns-ancient-artefacts-looted-from-cambodia-indonesia?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T03:43:34+00:00
+
+New York district attorney accuses two prominent art dealers of the illegal trafficking of antiquities worth $3m.
+
+## Jobless engineers, MBAs: The hidden army of Indian election ‘consultants’
+ - [https://www.aljazeera.com/economy/2024/4/27/jobless-tech-savvy-engineers-mbas-are-problem-solvers-of-indian-elections?traffic_source=rss](https://www.aljazeera.com/economy/2024/4/27/jobless-tech-savvy-engineers-mbas-are-problem-solvers-of-indian-elections?traffic_source=rss)
+ - RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2024-04-27T03:01:35+00:00
+
+These ‘politically neutral problem solvers’ do short stints in political campaigns and are valued for their data skills.
+

@@ -1,0 +1,37 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Hades 2 Is Already An Exciting Sequel With Confident Changes | Technical Test Impressions
+ - [https://www.gamespot.com/videos/hades-2-is-already-an-exciting-sequel-with-confident-changes-technical-test-impressions/2300-6463979](https://www.gamespot.com/videos/hades-2-is-already-an-exciting-sequel-with-confident-changes-technical-test-impressions/2300-6463979)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-27T18:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4294601-preview_hades2techtest_site.jpg" width="480" /> Supergiant Games' Hades 2 technical test offers a fascinating glimpse at how the sequel is building on the success of the first game.
+
+## Firearms Expert Reacts to Fallout 76's Guns
+ - [https://www.gamespot.com/videos/firearms-expert-reacts-to-fallout-76s-guns/2300-6463959](https://www.gamespot.com/videos/firearms-expert-reacts-to-fallout-76s-guns/2300-6463959)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-27T14:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1594/15941173/4293383-fallout76_site.jpg" width="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, heads to the irradiated wastelands of West Virginia to check out the guns of Fallout 76, including the Colt Single Action Army, the Black Powder Rifle and the Pepper Shaker.
+
+## The Biggest Game Releases Of May 2024
+ - [https://www.gamespot.com/gallery/the-biggest-game-releases-of-may-2024/2900-5284](https://www.gamespot.com/gallery/the-biggest-game-releases-of-may-2024/2900-5284)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-27T12:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4291460-may-games-2024.jpg" /><br /><h3><p>We're quickly approaching the halfway point of the year, a period which has become a pitstop of sorts on the gaming calendar. Between the buffet of big releases we're now seeing more regular in February and March, to the traditional holiday season rush of tentpole titles, May 2's game release lineup could have provided some much-needed breathing room and a chance to catch up on your backlog. But as it turns out, May 2024 has some fascinating new arrivals to tempt you with.</p><p>From the long-in-development Hellblade 2 to the return of a sci-fi strategy series, there's a month of varied releases to look forward to. Several games are leaving early access on PC, another PlayStation Studios title is headed to that platform, and Nintendo is bringing one of its best Mario games of the GameCube era to Switch. For more in May, you can see the rest of the highlights below, and 
+
+## Berserk On Blu-Ray Is Back In Stock - Snag A Copy Of The Popular Anime Before It's Gone
+ - [https://www.gamespot.com/articles/berserk-on-blu-ray-is-back-in-stock-snag-a-copy-of-the-popular-anime-before-its-gone/1100-6520337/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/berserk-on-blu-ray-is-back-in-stock-snag-a-copy-of-the-popular-anime-before-its-gone/1100-6520337/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-27T00:36:00+00:00
+
+<div><div class="norewrite" title="6520337 - Berserk Blu-ray">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4246227-berserk-module.jpg" />                                 <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://store.crunchyroll.com/products/berserk-the-complete-1997-tv-series-blu-ray-875707038591.html"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://go.skimresources.com?id=2
+
+## Save On Video Games, Consoles, PC Hardware, And More At Best Buy This Weekend
+ - [https://www.gamespot.com/articles/save-on-video-games-consoles-pc-hardware-and-more-at-best-buy-this-weekend/1100-6523004/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/save-on-video-games-consoles-pc-hardware-and-more-at-best-buy-this-weekend/1100-6523004/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-04-27T00:12:00+00:00
+
+<p dir="ltr">Best Buy is running a <a href="https://shop-links.co/1809380871569855057?u1=subid_value">three-day sale this weekend</a>, offering big discounts on video games, laptops, PC hardware, audio equipment, and more. There are hundreds of deals available, but they're only sticking around through Sunday, April 28. To help navigate the listings, we've put together a quick roundup of some of the noteworthy deals available in Best Buy's three-day sale.</p><div class="norewrite" title="">           <a href="https://shop-links.co/1809380871569855057?u1=subid_value">See all deals at Best Buy</a> </div><p dir="ltr"> </p><p dir="ltr">While all the deals we've picked out are available to everyone, it's worth noting that <a href="https://shop-links.co/1812345578378023391?u1=subid_value">My Best Buy Plus members</a> get access to additional savings on select items included in the sale.</p><a href="https://www.gamespot.com/articles/save-on-video-games-consoles-pc-hardware-and-more-at-best-bu
+
