@@ -1,0 +1,58 @@
+# Source:Daily sceptic, URL:https://dailysceptic.org/feed, language:en-US
+
+## This Is No Genocide
+ - [https://dailysceptic.org/2024/04/29/this-is-no-genocide](https://dailysceptic.org/2024/04/29/this-is-no-genocide)
+ - RSS feed: https://dailysceptic.org/feed
+ - date published: 2024-04-29T18:11:32+00:00
+
+<p>Under no definition is Israel committing genocide. According to John Spencer, Chair of Urban Warfare Studies at West Point, "Israel has implemented more precautions to prevent civilian harm than any military in history".</p>
+<p>The post <a href="https://dailysceptic.org/2024/04/29/this-is-no-genocide/">This Is No Genocide</a> appeared first on <a href="https://dailysceptic.org">The Daily Sceptic</a>.</p>
+
+## New Study From Czech Republic Confirms Covid Vaccines Have Around Zero Efficacy Against Death
+ - [https://dailysceptic.org/2024/04/29/new-study-from-czech-republic-confirms-covid-vaccines-have-around-zero-efficacy-against-death](https://dailysceptic.org/2024/04/29/new-study-from-czech-republic-confirms-covid-vaccines-have-around-zero-efficacy-against-death)
+ - RSS feed: https://dailysceptic.org/feed
+ - date published: 2024-04-29T16:13:28+00:00
+
+<p>A new study from the Czech Republic confirms that Covid vaccines have around zero efficacy against death, with any apparent effect an illusion due to biases in the data, says epidemiologist Prof Eyal Shahar.</p>
+<p>The post <a href="https://dailysceptic.org/2024/04/29/new-study-from-czech-republic-confirms-covid-vaccines-have-around-zero-efficacy-against-death/">New Study From Czech Republic Confirms Covid Vaccines Have Around Zero Efficacy Against Death</a> appeared first on <a href="https://dailysceptic.org">The Daily Sceptic</a>.</p>
+
+## AstraZeneca Admits for First Time its Covid Vaccine Can Cause Deadly Side Effect, Paving Way for Payouts of Up to £20m
+ - [https://dailysceptic.org/2024/04/29/astrazeneca-admits-for-first-time-its-covid-vaccine-can-cause-deadly-side-effect-paving-way-for-payouts-of-up-to-20m](https://dailysceptic.org/2024/04/29/astrazeneca-admits-for-first-time-its-covid-vaccine-can-cause-deadly-side-effect-paving-way-for-payouts-of-up-to-20m)
+ - RSS feed: https://dailysceptic.org/feed
+ - date published: 2024-04-29T14:08:21+00:00
+
+<p>AstraZeneca has admitted in court for the first time that its Covid jab can cause a deadly blood clotting side effect, paving the way for payouts (footed by the taxpayer) of up to £20m.</p>
+<p>The post <a href="https://dailysceptic.org/2024/04/29/astrazeneca-admits-for-first-time-its-covid-vaccine-can-cause-deadly-side-effect-paving-way-for-payouts-of-up-to-20m/">AstraZeneca Admits for First Time its Covid Vaccine Can Cause Deadly Side Effect, Paving Way for Payouts of Up to £20m</a> appeared first on <a href="https://dailysceptic.org">The Daily Sceptic</a>.</p>
+
+## The WIV Was the Main Partner in the German-Chinese Virology Network
+ - [https://dailysceptic.org/2024/04/29/the-wiv-was-the-main-partner-in-the-german-chinese-virology-network](https://dailysceptic.org/2024/04/29/the-wiv-was-the-main-partner-in-the-german-chinese-virology-network)
+ - RSS feed: https://dailysceptic.org/feed
+ - date published: 2024-04-29T12:00:00+00:00
+
+<p>Following on from his article on the HIV 'inserts' in SARS-CoV-2 and the HIV research being conducted in Wuhan, Robert Kogon discovers that the WIV was the main partner in the German-Chinese virology network.</p>
+<p>The post <a href="https://dailysceptic.org/2024/04/29/the-wiv-was-the-main-partner-in-the-german-chinese-virology-network/">The WIV Was the Main Partner in the German-Chinese Virology Network</a> appeared first on <a href="https://dailysceptic.org">The Daily Sceptic</a>.</p>
+
+## Humza Yousaf to Resign at Midday
+ - [https://dailysceptic.org/2024/04/29/humza-yousaf-to-resign-at-midday](https://dailysceptic.org/2024/04/29/humza-yousaf-to-resign-at-midday)
+ - RSS feed: https://dailysceptic.org/feed
+ - date published: 2024-04-29T10:11:52+00:00
+
+<p>Humza Yousaf is expected to announce his resignation as Scotland’s First Minister at noon today after he pulled the plug on the coalition deal with the Scottish Greens and faced a no confidence vote.</p>
+<p>The post <a href="https://dailysceptic.org/2024/04/29/humza-yousaf-to-resign-at-midday/">Humza Yousaf to Resign at Midday</a> appeared first on <a href="https://dailysceptic.org">The Daily Sceptic</a>.</p>
+
+## Britain Would Have to Hand Over 20% of its Vaccines to the WHO Under Pandemic Treaty
+ - [https://dailysceptic.org/2024/04/29/britain-would-have-to-hand-over-20-of-vaccines-under-pandemic-treaty](https://dailysceptic.org/2024/04/29/britain-would-have-to-hand-over-20-of-vaccines-under-pandemic-treaty)
+ - RSS feed: https://dailysceptic.org/feed
+ - date published: 2024-04-29T08:00:00+00:00
+
+<p>Britain would have to surrender 20% of its pandemic-related health products, including vaccines, and refrain from stockpiling supplies, under revised terms of the WHO's new pandemic treaty.</p>
+<p>The post <a href="https://dailysceptic.org/2024/04/29/britain-would-have-to-hand-over-20-of-vaccines-under-pandemic-treaty/">Britain Would Have to Hand Over 20% of its Vaccines to the WHO Under Pandemic Treaty</a> appeared first on <a href="https://dailysceptic.org">The Daily Sceptic</a>.</p>
+
+## Rishi’s Jeremiad Against ‘Sick-Note Britain’ is a Sick Joke, Given His Role in Paying People to Stay at Home and Not Work During the Lockdown
+ - [https://dailysceptic.org/2024/04/29/rishis-jeremiad-against-sick-note-britain-is-a-sick-joke-given-his-role-in-paying-people-to-stay-at-home-and-not-work-during-the-lockdown](https://dailysceptic.org/2024/04/29/rishis-jeremiad-against-sick-note-britain-is-a-sick-joke-given-his-role-in-paying-people-to-stay-at-home-and-not-work-during-the-lockdown)
+ - RSS feed: https://dailysceptic.org/feed
+ - date published: 2024-04-29T06:00:00+00:00
+
+<p>For Rishi Sunak to rail against 'sick-note Britain' is galling, given that as Chancellor he was responsible for paying workers £350 billion to stay at home and not work. Has he no self-awareness? asks J Sorel.</p>
+<p>The post <a href="https://dailysceptic.org/2024/04/29/rishis-jeremiad-against-sick-note-britain-is-a-sick-joke-given-his-role-in-paying-people-to-stay-at-home-and-not-work-during-the-lockdown/">Rishi’s Jeremiad Against ‘Sick-Note Britain’ is a Sick Joke, Given His Role in Paying People to Stay at Home and Not Work During the Lockdown</a> appeared first on <a href="https://dailysceptic.org">The Daily Sceptic</a>.</p>
+
