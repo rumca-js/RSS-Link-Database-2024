@@ -1,0 +1,51 @@
+# Source:Goonhammer, URL:https://www.goonhammer.com/feed, language:en-GB
+
+## Thousand Sons Unit Focus: Leaders (Updated 4/30/2024)
+ - [https://www.goonhammer.com/thousand-sons-unit-focus-characters-leaders](https://www.goonhammer.com/thousand-sons-unit-focus-characters-leaders)
+ - RSS feed: https://www.goonhammer.com/feed
+ - date published: 2024-04-30T21:35:52+00:00
+
+In this article series we&#8217;re taking a look at the leader options available to each faction, looking at what units they pair with, and talking about the combos available to those units as well as tips for running them solo. In today&#8217;s article, we&#8217;re talking about the Thousand Sons. You can find our Competitive Faction [&#8230;]
+
+## 10th Edition Competitive Faction Focus: Thousand Sons (Updated April 30, 2024)
+ - [https://www.goonhammer.com/10th-edition-competitive-faction-focus-thousand-sons](https://www.goonhammer.com/10th-edition-competitive-faction-focus-thousand-sons)
+ - RSS feed: https://www.goonhammer.com/feed
+ - date published: 2024-04-30T21:30:11+00:00
+
+In our Competitive Faction Focus series we look at the factions of Warhammer 40,000 through a competitive lens, talking about who they are and what they can do, and how they play competitively. In this article we’re looking at the Sons of Magnus, the Thousand Sons. Changelog Update (Latest): 2024-04-30 for the Q2 2024 Points Update [&#8230;]
+
+## Games Industry News Roundup- April 30th, 2024
+ - [https://www.goonhammer.com/games-industry-news-roundup-april-30th-2024](https://www.goonhammer.com/games-industry-news-roundup-april-30th-2024)
+ - RSS feed: https://www.goonhammer.com/feed
+ - date published: 2024-04-30T19:00:51+00:00
+
+Here at Goonhammer, we know that it’s hard to keep track of all the news happening all the time in the games industry. So much is always going on with games of all sorts, and their related media, it can be a real blink-and-you’ll miss it situation.  That&#8217;s why every week, we round up five [&#8230;]
+
+## Start Competing: Designing 40K Tournament Map Packs pt.1
+ - [https://www.goonhammer.com/start-competing-designing-40k-tournament-map-packs-pt-1](https://www.goonhammer.com/start-competing-designing-40k-tournament-map-packs-pt-1)
+ - RSS feed: https://www.goonhammer.com/feed
+ - date published: 2024-04-30T17:00:51+00:00
+
+This post is made possible by our UK terrain partners at Bandua Wargaming. The terrain set used in this series was provided as a review copy. One of the underexplored aspects of competitive Warhammer 40K is how terrain maps get designed. The decisions made on this front by tournament organizers start shaping how games will [&#8230;]
+
+## A History of Miniature Violence: Age of Sigmar’s Launch
+ - [https://www.goonhammer.com/a-history-of-miniature-violence-age-of-sigmars-launch](https://www.goonhammer.com/a-history-of-miniature-violence-age-of-sigmars-launch)
+ - RSS feed: https://www.goonhammer.com/feed
+ - date published: 2024-04-30T15:00:30+00:00
+
+In the beginning, there was the End Times, and nothing was ever going to be the same. This is the time of turmoil. This is the era of war. This is the Age of Sigmar. When you ask someone about Age of Sigmar you&#8217;ll field a number of responses, from those who only know the [&#8230;]
+
+## Goonhammer’s Ashes of Malifaux Review Part 8: The Ten Thunders
+ - [https://www.goonhammer.com/goonhammers-ashes-of-malifaux-review-part-8-the-ten-thunders](https://www.goonhammer.com/goonhammers-ashes-of-malifaux-review-part-8-the-ten-thunders)
+ - RSS feed: https://www.goonhammer.com/feed
+ - date published: 2024-04-30T14:00:03+00:00
+
+That&#8217;s it!  We&#8217;ve shot the chutes and climbed the ladders, we&#8217;ve slogged through bog and sewer and stepped through high society.  Now it&#8217;s time to retire to the smoking parlors and tea houses of the Little Kingdom and find out what the Ten Thunders have been up to this whole time. Banying The alliance between [&#8230;]
+
+## Turn Order’s DM Tools & Tricks
+ - [https://www.goonhammer.com/turn-orders-dm-tools-tricks](https://www.goonhammer.com/turn-orders-dm-tools-tricks)
+ - RSS feed: https://www.goonhammer.com/feed
+ - date published: 2024-04-30T13:00:18+00:00
+
+&#160; So, you’ve found your first group of players, you’ve decided on a system that works for everyone involved, and now your head is reeling with the manifold possibilities and responsibilities wrapped up in managing this experience for everyone. You want everyone to enjoy themselves, but you’ve also got some rad story ideas, and also [&#8230;]
+

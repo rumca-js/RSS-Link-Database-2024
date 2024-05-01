@@ -1,0 +1,219 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Microsoft delays adding Copilot to OneDrive from April to summer 2024
+ - [https://www.neowin.net/news/microsoft-delays-adding-copilot-to-onedrive-from-april-to-summer-2024](https://www.neowin.net/news/microsoft-delays-adding-copilot-to-onedrive-from-april-to-summer-2024)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T19:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/03/1648728320_onedrive_logo_medium.jpg" /></div>Microsoft has announced that its plans to add Copilot features to its OneDrive cloud storage service will now appear sometime in the summer of 2024, rather than its previous April date. <a href="https://www.neowin.net/news/microsoft-delays-adding-copilot-to-onedrive-from-april-to-summer-2024/">Read more...</a>
+
+## It look like Asus will be making some Qualcomm Snapdragon X PC announcements on May 20
+ - [https://www.neowin.net/news/it-look-like-asus-will-be-making-some-qualcomm-snapdragon-x-pc-announcements-on-may-20](https://www.neowin.net/news/it-look-like-asus-will-be-making-some-qualcomm-snapdragon-x-pc-announcements-on-may-20)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T19:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714503201_asus-logo_medium.jpg" /></div>Asus has revealed it will be holding a virtual event on May 20, and based on the wording of its press release, it will announce its first PCs with Qualcomm&#039;s Snapdragon X Series CPUs. <a href="https://www.neowin.net/news/it-look-like-asus-will-be-making-some-qualcomm-snapdragon-x-pc-announcements-on-may-20/">Read more...</a>
+
+## 1TB and 2TB WD_BLACK SN770M NVMe SSDs drop to their lowest prices ever on Amazon
+ - [https://www.neowin.net/deals/1tb-and-2tb-wdblack-sn770m-nvme-ssds-drop-to-their-lowest-prices-ever-on-amazon](https://www.neowin.net/deals/1tb-and-2tb-wdblack-sn770m-nvme-ssds-drop-to-their-lowest-prices-ever-on-amazon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T18:28:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1694529296_wd_sn770m_1_medium.jpg" /></div>If you want to update your gaming experience, you may want to check out the 1TB, 2TB WD_BLACK SN770M NVMe SSDs, which have now dropped to their lowest prices ever on Amazon, while you still can. <a href="https://www.neowin.net/deals/1tb-and-2tb-wdblack-sn770m-nvme-ssds-drop-to-their-lowest-prices-ever-on-amazon/">Read more...</a>
+
+## Some users can try out Google's 'Audio Emoji' feature for Google Phone app
+ - [https://www.neowin.net/news/some-users-can-try-out-googles-audio-emoji-feature-for-google-phone-app](https://www.neowin.net/news/some-users-can-try-out-googles-audio-emoji-feature-for-google-phone-app)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T18:06:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703088834_instagram_animated_emojis_medium.jpg" /></div>Google is working on a new feature called Audio Emoji, which plays sound effects and animation for select emojis. It is available to limited users running the beta version of the Google Phone app. <a href="https://www.neowin.net/news/some-users-can-try-out-googles-audio-emoji-feature-for-google-phone-app/">Read more...</a>
+
+## Microsoft rolls out Copilot preview in the new Planner app for Teams
+ - [https://www.neowin.net/news/microsoft-rolls-out-copilot-preview-in-the-new-planner-app-for-teams](https://www.neowin.net/news/microsoft-rolls-out-copilot-preview-in-the-new-planner-app-for-teams)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T17:50:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713805860_microsoft-planner-logo-1_medium.jpg" /></div>Microsoft is starting to roll out its Copilot generative AI assistant in its recently launched new Planner app in Teams, offering ways for the AI to create tasks, goals, and more in the app. <a href="https://www.neowin.net/news/microsoft-rolls-out-copilot-preview-in-the-new-planner-app-for-teams/">Read more...</a>
+
+## Copilot for Microsoft 365 will add Graph-grounded chat for Outlook in May
+ - [https://www.neowin.net/news/copilot-for-microsoft-365-will-add-graph-grounded-chat-for-outlook-in-may](https://www.neowin.net/news/copilot-for-microsoft-365-will-add-graph-grounded-chat-for-outlook-in-may)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T17:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714495325_sarahgilbert_2-1714419855859_medium.jpg" /></div>Microsoft has revealed that Copilot for Microsoft 365 will add a new feature in May that will support the use of Graph-grounded Copilot chat for the company&#039;s Outlook email client. <a href="https://www.neowin.net/news/copilot-for-microsoft-365-will-add-graph-grounded-chat-for-outlook-in-may/">Read more...</a>
+
+## Amazon Q is a new gen AI tool built for developers and businesses; this is what it can do
+ - [https://www.neowin.net/news/amazon-q-is-a-new-gen-ai-tool-built-for-developers-and-businesses-this-is-what-it-can-do](https://www.neowin.net/news/amazon-q-is-a-new-gen-ai-tool-built-for-developers-and-businesses-this-is-what-it-can-do)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T17:16:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714495123_amazon-q_medium.jpg" /></div>Amazon Q Developer and Amazon Q Business are now generally available. They&#039;re generative-AI solutions which aim to help developers with coding and businesses work with company data more efficiently. <a href="https://www.neowin.net/news/amazon-q-is-a-new-gen-ai-tool-built-for-developers-and-businesses-this-is-what-it-can-do/">Read more...</a>
+
+## Save 49% on a lifetime subscription to EaseUS Data Recovery Wizard
+ - [https://www.neowin.net/deals/save-49-on-a-lifetime-subscription-to-easeus-data-recovery-wizard](https://www.neowin.net/deals/save-49-on-a-lifetime-subscription-to-easeus-data-recovery-wizard)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T17:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714384819_easeus-disk-copy-tool_medium.jpg" /></div>Featuring full disk and partition cloning, auto-detection of new disks, re-sizing of partitions, and SSD support, it&#039;s ideal for hassle-free PC migration, and you can score a lifetime license today. <a href="https://www.neowin.net/deals/save-49-on-a-lifetime-subscription-to-easeus-data-recovery-wizard/">Read more...</a>
+
+## The 1TB Corsair MP600 Core Mini SSD hit a new low price of $79.99 for Amazon Gaming Week
+ - [https://www.neowin.net/deals/the-1tb-corsair-mp600-core-mini-ssd-hit-a-new-low-price-of-7999-for-amazon-gaming-week](https://www.neowin.net/deals/the-1tb-corsair-mp600-core-mini-ssd-hit-a-new-low-price-of-7999-for-amazon-gaming-week)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T16:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711056403_corsair-mp600-core-mini_medium.jpg" /></div>The 1TB version of the Corsair MP600 Core Mini SSD will help boost the storage of your Steam Deck, Asus ROG Ally, or other small or portable PC. It&#039;s hit a new all-time low price of $79.99 <a href="https://www.neowin.net/deals/the-1tb-corsair-mp600-core-mini-ssd-hit-a-new-low-price-of-7999-for-amazon-gaming-week/">Read more...</a>
+
+## Microsoft Teams added many new features in April 2024, like multi-turn chats with Copilot
+ - [https://www.neowin.net/news/microsoft-teams-added-many-new-features-in-april-2024-like-multi-turn-chats-with-copilot](https://www.neowin.net/news/microsoft-teams-added-many-new-features-in-april-2024-like-multi-turn-chats-with-copilot)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T15:40:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/06/1623452685_microsoft_teams_9_medium.jpg" /></div>Microsoft has revealed some of the new features it has added for its Teams collaboration and meeting service for the month of April 2024 including multi-turn chats with Copilot and more. <a href="https://www.neowin.net/news/microsoft-teams-added-many-new-features-in-april-2024-like-multi-turn-chats-with-copilot/">Read more...</a>
+
+## The Arc browser is now publicly available on Windows 11
+ - [https://www.neowin.net/news/the-arc-browser-is-now-publicly-available-on-windows-11](https://www.neowin.net/news/the-arc-browser-is-now-publicly-available-on-windows-11)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T15:18:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714489874_arc_browser_2_medium.jpg" /></div>The Arc browser is now publicly available on Windows 11, offering PC users a unique take on modern browsers. Its launch ad also cleverly dunks on Edge, suggesting sending it to Recycle Bin. <a href="https://www.neowin.net/news/the-arc-browser-is-now-publicly-available-on-windows-11/">Read more...</a>
+
+## Some Xbox Insiders can test game art background improvements to the Home screen
+ - [https://www.neowin.net/news/some-xbox-insiders-can-test-game-art-background-improvements-to-the-home-screen](https://www.neowin.net/news/some-xbox-insiders-can-test-game-art-background-improvements-to-the-home-screen)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T14:52:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1690978654_xbox-gamescom_medium.jpg" /></div>Some members of the Microsoft Xbox Insider program are testing a feature that allows them to put in-game art backgrounds for some games on the Home screen with any background on the console. <a href="https://www.neowin.net/news/some-xbox-insiders-can-test-game-art-background-improvements-to-the-home-screen/">Read more...</a>
+
+## Xbox Games Showcase 2024 airs June 9, followed by a mystery [REDACTED] Direct
+ - [https://www.neowin.net/news/xbox-games-showcase-2024-airs-june-9-followed-by-a-mystery-redacted-direct](https://www.neowin.net/news/xbox-games-showcase-2024-airs-june-9-followed-by-a-mystery-redacted-direct)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T14:36:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714487267_gmaway7wuaazv9v_medium.jpg" /></div>Microsoft has finally confirmed when the Xbox Games Showcase of 2024 will happen. The showcase will have reveals from Activision, Blizzard, Bethesda, and Xbox Game Studios, plus a surprise. <a href="https://www.neowin.net/news/xbox-games-showcase-2024-airs-june-9-followed-by-a-mystery-redacted-direct/">Read more...</a>
+
+## Tomb Raider: Definitive Edition, Brothers: A Tale of Two Sons, and more join Xbox Game Pass
+ - [https://www.neowin.net/news/tomb-raider-definitive-edition-brothers-a-tale-of-two-sons-and-more-join-xbox-game-pass](https://www.neowin.net/news/tomb-raider-definitive-edition-brothers-a-tale-of-two-sons-and-more-join-xbox-game-pass)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T13:58:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714484897_tw_coming-soon_4.30.2024-b0e2f94beb54356200da-1536x864_medium.jpg" /></div>Another Xbox Game Pass wave is almost here, and it is carrying Tomb Raider: Definitive Edition, Little Kitty, Big City, Brothers: A Tale of Two Sons, and Kona II: Brume as new arrivals. <a href="https://www.neowin.net/news/tomb-raider-definitive-edition-brothers-a-tale-of-two-sons-and-more-join-xbox-game-pass/">Read more...</a>
+
+## Latest leaks reveal Google Pixel 8a pricing in the US along with high-quality renders
+ - [https://www.neowin.net/news/latest-leaks-reveal-google-pixel-8a-pricing-in-the-us-along-with-high-quality-renders](https://www.neowin.net/news/latest-leaks-reveal-google-pixel-8a-pricing-in-the-us-along-with-high-quality-renders)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T13:34:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713621599_google-pixel-8a-hero_medium.jpg" /></div>A fresh set of leaks has revealed the pricing of the Google Pixel 8a in the US. Apparently, the previous rumors were wrong all along, and it would cost the same as the previous Pixel 7a. <a href="https://www.neowin.net/news/latest-leaks-reveal-google-pixel-8a-pricing-in-the-us-along-with-high-quality-renders/">Read more...</a>
+
+## Enterprise-class storage solutions from SanDisk and Synology available at great prices
+ - [https://www.neowin.net/deals/enterprise-class-storage-solutions-from-sandisk-and-synology-available-at-great-prices](https://www.neowin.net/deals/enterprise-class-storage-solutions-from-sandisk-and-synology-available-at-great-prices)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T13:18:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714482022_enterprise-class_storage_solutions_medium.jpg" /></div>Today, you can get your hands on a variety of Enterprise-class deals from SanDisk Professional and Synology for all your storage needs so, grab them while they are still in stock on Amazon! <a href="https://www.neowin.net/deals/enterprise-class-storage-solutions-from-sandisk-and-synology-available-at-great-prices/">Read more...</a>
+
+## Sea of Thieves arrives on PS5 alongside Season 12, bringing new weapons, ziplines, more
+ - [https://www.neowin.net/news/sea-of-thieves-arrives-on-ps5-alongside-season-12-bringing-new-weapons-ziplines-more](https://www.neowin.net/news/sea-of-thieves-arrives-on-ps5-alongside-season-12-bringing-new-weapons-ziplines-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T12:50:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714480798_f70ee828-624d-4d26-a283-64d8e1500883_medium.jpg" /></div>Rare has officially brought Sea of Thieves to PlayStation 5, and with it Season 12 has launched for the hit pirate adventure game. It has ziplines, a new cannonball, throwing knives, and more. <a href="https://www.neowin.net/news/sea-of-thieves-arrives-on-ps5-alongside-season-12-bringing-new-weapons-ziplines-more/">Read more...</a>
+
+## Rumors say that standard iPhone 16 models will feature color-infused back glass
+ - [https://www.neowin.net/news/rumors-say-that-standard-iphone-16-models-will-feature-color-infused-back-glass](https://www.neowin.net/news/rumors-say-that-standard-iphone-16-models-will-feature-color-infused-back-glass)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T12:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714478386_iphone-16-hero_medium.jpg" /></div>A fresh rumor coming out of China suggests that the upcoming iPhone 16 series will adopt the same color-infused back glass technology as on the standard iPhone 15 models, for a frosted effect. <a href="https://www.neowin.net/news/rumors-say-that-standard-iphone-16-models-will-feature-color-infused-back-glass/">Read more...</a>
+
+## Microsoft confirms WindowsMigration 'app' in the latest Beta build is just a bug
+ - [https://www.neowin.net/news/microsoft-confirms-windowsmigration-app-in-the-latest-beta-build-is-just-a-bug](https://www.neowin.net/news/microsoft-confirms-windowsmigration-app-in-the-latest-beta-build-is-just-a-bug)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T11:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/05/1682950344_windows_11_medium.jpg" /></div>Microsoft has updated release notes for the latest Windows 11 Beta build to clarify that the &quot;WindowsMigration&quot; app is a component of Windows Backup that appeared in the Start menu due to a bug. <a href="https://www.neowin.net/news/microsoft-confirms-windowsmigration-app-in-the-latest-beta-build-is-just-a-bug/">Read more...</a>
+
+## LG UltraGear 34-inch and 39-inch OLED gaming monitors have both hit new all-time low prices
+ - [https://www.neowin.net/deals/lg-ultragear-34-inch-and-39-inch-oled-gaming-monitors-have-both-hit-new-all-time-low-prices](https://www.neowin.net/deals/lg-ultragear-34-inch-and-39-inch-oled-gaming-monitors-have-both-hit-new-all-time-low-prices)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T11:04:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714473370_lg-oled-34-inch-monitor_medium.jpg" /></div>The LG UltraGear 34-inch and 39-inch OLED gaming monitors are both currently available at all-time low prices, with the 34-inch monitor priced at $999,99, and the 39-inch version priced at $1,199.99. <a href="https://www.neowin.net/deals/lg-ultragear-34-inch-and-39-inch-oled-gaming-monitors-have-both-hit-new-all-time-low-prices/">Read more...</a>
+
+## GitHub Copilot Workspace announced; available as a technical preview
+ - [https://www.neowin.net/news/github-copilot-workspace-announced-available-as-a-technical-preview](https://www.neowin.net/news/github-copilot-workspace-announced-available-as-a-technical-preview)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T10:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714470044_github-copilot-workplace_medium.jpg" /></div>Microsoft-owned GitHub has announced Copilot Workspace, a new developer environment that helps to write code with the Copilot generative AI assistant. It&#039;s now available as a technical preview. <a href="https://www.neowin.net/news/github-copilot-workspace-announced-available-as-a-technical-preview/">Read more...</a>
+
+## Global smartphone market returns to double digit growth
+ - [https://www.neowin.net/news/global-smartphone-market-returns-to-double-digit-growth](https://www.neowin.net/news/global-smartphone-market-returns-to-double-digit-growth)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T10:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/02/1707403295_biden_robocall_followup_ico_medium.jpg" /></div>Smartphone global shipments have reached double digit growth for the first time since 2021. The biggest winner year-over-year in Q1 was Transsion followed by Xiaomi, the popular Chinese manufacturer. <a href="https://www.neowin.net/news/global-smartphone-market-returns-to-double-digit-growth/">Read more...</a>
+
+## Microsoft to invest $1.7 billion in AI and cloud development in Indonesia
+ - [https://www.neowin.net/news/microsoft-to-invest-17-billion-in-ai-and-cloud-development-in-indonesia](https://www.neowin.net/news/microsoft-to-invest-17-billion-in-ai-and-cloud-development-in-indonesia)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T10:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/04/1617538821_azureoutage_medium.jpg" /></div>Microsoft will invest $1.7 billion to develop Indonesia&#039;s AI infrastructure by building new cloud computing data centers. CEO Satya Nadella said it would be their largest investment in the country. <a href="https://www.neowin.net/news/microsoft-to-invest-17-billion-in-ai-and-cloud-development-in-indonesia/">Read more...</a>
+
+## Paradox reconfirms its people simulator game Life by You will launch June 4 in Early Access
+ - [https://www.neowin.net/news/paradox-reconfirms-its-people-simulator-game-life-by-you-will-launch-june-4-in-early-access](https://www.neowin.net/news/paradox-reconfirms-its-people-simulator-game-life-by-you-will-launch-june-4-in-early-access)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T10:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714467295_life-by-you_medium.jpg" /></div>Paradox Interactive has reconfirmed it&#039;s long-delayed people simulator game Life by You will finally become available for PC gamers on June 4 as an Early Access title on Steam and Epic Games Store. <a href="https://www.neowin.net/news/paradox-reconfirms-its-people-simulator-game-life-by-you-will-launch-june-4-in-early-access/">Read more...</a>
+
+## OpenAI enters strategic partnership with the Financial Times to improve models
+ - [https://www.neowin.net/news/openai-enters-strategic-partnership-with-the-financial-times-to-improve-models](https://www.neowin.net/news/openai-enters-strategic-partnership-with-the-financial-times-to-improve-models)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T08:38:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714464569_openai-ft_medium.jpg" /></div>OpenAI and FT have entered into a strategic partnership that&#039;ll see FT content included where relevant in ChatGPT answers. This could help ChatGPT get up to date information which it doesn&#039;t yet have. <a href="https://www.neowin.net/news/openai-enters-strategic-partnership-with-the-financial-times-to-improve-models/">Read more...</a>
+
+## Edge 125 arrives in Beta with sleeping tab improvements and other changes
+ - [https://www.neowin.net/news/edge-125-arrives-in-beta-with-sleeping-tab-improvements-and-other-changes](https://www.neowin.net/news/edge-125-arrives-in-beta-with-sleeping-tab-improvements-and-other-changes)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T08:22:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714464622_edge_beta_125_medium.jpg" /></div>Microsoft Edge 125 is now available for final testing in the Beta Channel before its public debut for all users. The latest update introduces improvements for sleeping tabs, workspaces, and more. <a href="https://www.neowin.net/news/edge-125-arrives-in-beta-with-sleeping-tab-improvements-and-other-changes/">Read more...</a>
+
+## Limited Time Deal: Samsung 990 EVO SSD is selling at its all time low price on Amazon
+ - [https://www.neowin.net/deals/limited-time-deal-samsung-990-evo-ssd-is-selling-at-its-all-time-low-price-on-amazon](https://www.neowin.net/deals/limited-time-deal-samsung-990-evo-ssd-is-selling-at-its-all-time-low-price-on-amazon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T07:36:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/01/1706028060_samsung_990_evo_medium.jpg" /></div>With Amazon&#039;s limited time deal, you can get your hands on the Samsung 990 EVO NVMe Internal SSD at its lowest price while stocks last. It is available at a competitive rate from Newegg as well. <a href="https://www.neowin.net/deals/limited-time-deal-samsung-990-evo-ssd-is-selling-at-its-all-time-low-price-on-amazon/">Read more...</a>
+
+## WhatsApp launches upgraded race car emoji, sees double digit growth in the US
+ - [https://www.neowin.net/news/whatsapp-launches-upgraded-race-car-emoji-sees-double-digit-growth-in-the-us](https://www.neowin.net/news/whatsapp-launches-upgraded-race-car-emoji-sees-double-digit-growth-in-the-us)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T07:20:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714459543_whatsapp_race_car_emoji_grand_prix_medium.jpg" /></div>Whatsapp has given a makeover to its race car emoji ahead of the upcoming Grand Prix next month. The instant messaging app is also seeing significant growth in the US, according to Mark Zuckerberg. <a href="https://www.neowin.net/news/whatsapp-launches-upgraded-race-car-emoji-sees-double-digit-growth-in-the-us/">Read more...</a>
+
+## Roku to start showing video ads on its home screen, to be a bit less intrusive though
+ - [https://www.neowin.net/news/roku-to-start-showing-video-ads-on-its-home-screen-to-be-a-bit-less-intrusive-though](https://www.neowin.net/news/roku-to-start-showing-video-ads-on-its-home-screen-to-be-a-bit-less-intrusive-though)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T06:06:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/11/1605133532_roku_medium.jpg" /></div>Roku has announced in its recent earnings call that it is planning to introduce video ads on its home screen. The experience, however, is expected to be less intrusive compared to the likes of Amazon. <a href="https://www.neowin.net/news/roku-to-start-showing-video-ads-on-its-home-screen-to-be-a-bit-less-intrusive-though/">Read more...</a>
+
+## Google Chrome's search bar is now powered by machine learning to offer better suggestions
+ - [https://www.neowin.net/news/google-chromes-search-bar-is-now-powered-by-machine-learning-to-offer-better-suggestions](https://www.neowin.net/news/google-chromes-search-bar-is-now-powered-by-machine-learning-to-offer-better-suggestions)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T05:50:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714451025_google-chrome-feature_medium.jpg" /></div>In a fresh update, Google Chrome&#039;s search bar aka Omnibox is getting the powers of machine learning, which would in turn offer more precise and relevant web page suggestions than before. <a href="https://www.neowin.net/news/google-chromes-search-bar-is-now-powered-by-machine-learning-to-offer-better-suggestions/">Read more...</a>
+
+## FCC hits top US carriers with nearly $200 million fine for sharing user location illegally
+ - [https://www.neowin.net/news/fcc-hits-top-us-carriers-with-nearly-200-million-fine-for-sharing-user-location-illegally](https://www.neowin.net/news/fcc-hits-top-us-carriers-with-nearly-200-million-fine-for-sharing-user-location-illegally)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-04-30T04:24:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714445932_fcc_fines_us_carriers_medium.jpg" /></div>The FCC has fined major U.S. wireless carriers, including AT&amp;T, Sprint, T-Mobile, and Verizon, nearly $200 million for illegally sharing customers&#039; location data without consent despite knowing.  <a href="https://www.neowin.net/news/fcc-hits-top-us-carriers-with-nearly-200-million-fine-for-sharing-user-location-illegally/">Read more...</a>
+

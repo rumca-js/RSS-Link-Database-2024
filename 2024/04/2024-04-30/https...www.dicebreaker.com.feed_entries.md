@@ -1,0 +1,30 @@
+# Source:Dicebreaker Latest Articles Feed, URL:https://www.dicebreaker.com/feed, language:en
+
+## Cult card game Warlord: Saga of the Storms plans a grand return of “the game you already know how to play”
+ - [https://www.dicebreaker.com/games/warlord-saga-of-the-storm/news/warlord-saga-of-the-storm-into-the-accordlands-kickstarter-announcement?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/warlord-saga-of-the-storm/news/warlord-saga-of-the-storm-into-the-accordlands-kickstarter-announcement?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-30T20:55:47+00:00
+
+<img src="https://assetsio.gnwcdn.com/warlord-saga-of-the-storm-key-art-header.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Warlord: Saga of the Storm is reappearing from the mists of memory thanks to a new edition called Into the Accordlands. The collectible card game will launch <a href="https://www.kickstarter.com/projects/kingswoodgames/warlord-saga-of-the-storm">a Kickstarter campaign</a> next month with new publisher Kingswood Games at the helm and a dedication to refining and mastering the old titles&rsquo; most beloved bits.</p><p>Originally designed by Oliver Schaaf and Dave Williams, Warlord: Saga of the Storm is a competitive CCG that originally advertised itself as &ldquo;the game you already know how to play&rdquo; owing to its D20-based action resolution system that intentionally carried shades of <a href="https://www.dicebreaker.com/games/dungeons-and-dragons-5e">Dungeons &amp; Dragons</a> and other tabletop RPGs with 
+
+## Yu-Gi-Oh! just broke two world records for the biggest-ever trading card game tournament
+ - [https://www.dicebreaker.com/games/yu-gi-oh-tcg/news/yu-gi-oh-two-guinness-world-records-at-champion-series-japan?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/yu-gi-oh-tcg/news/yu-gi-oh-two-guinness-world-records-at-champion-series-japan?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-30T16:41:56+00:00
+
+<img src="https://assetsio.gnwcdn.com/yu-gi-oh-championship-series-japan-2024-attendence-guinness-world-record.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Yu-Gi-Oh! is one of the <a href="https://www.dicebreaker.com/categories/trading-card-game/opinion/are-we-in-a-new-golden-age-of-tcgs">world&rsquo;s biggest trading card games</a>, but did you know it held Guinness World Records for tournament participation size? Chalk one more medal (or trophy? What does Guinness hand out?) for publisher Konami, who managed to break their previous record and set another at Yu-Gi-Oh! Championship Series Japan TOKYO 2024.</p><p>Held at the Tokyo Big Sight (aka the Tokyo International Exhibition Center) on April 28th and 29th, the event marked the first time in the YCSJ&rsquo;s ten-year tenure that stretched across two days. In that time, Konami reports that 7,443 attendees registered for the competitive tour, which set the Guinness World Record for 
+
+## Virtual pop star Hatsune Miku is coming to Magic: The Gathering
+ - [https://www.dicebreaker.com/games/magic-the-gathering-game/news/magic-the-gathering-hatsune-miku-secret-lair-spring-details?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/magic-the-gathering-game/news/magic-the-gathering-hatsune-miku-secret-lair-spring-details?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-30T14:33:48+00:00
+
+<img src="https://assetsio.gnwcdn.com/magic-the-gathering-hatsune-miku-secret-lair-music-video-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Hatsune Miku and <a href="https://www.dicebreaker.com/games/magic-the-gathering-game">Magic: The Gathering</a> are teaming up to release four separate <a href="https://www.dicebreaker.com/games/magic-the-gathering-game/news/magic-the-gathering-secret-lair-universes-beyond">Secret Lair series</a> featuring the world-renowned digital pop star with the trading card game&rsquo;s art. The first of these include six alternately illustrated cards from different artists, each depicting Miku in a slightly different fashion.</p><p>The four Secret Lair drops, which reprint existing MTG cards in limited quantities, will correspond to the four seasons starting with spring. Appropriately, the Hatsune Miku: Sakura Superstar - part of the upcoming Spring Superdrop 2024 release - will only feature card
+
+## Bug board game Insectarium could do for insects, what Wingspan did for birds
+ - [https://www.dicebreaker.com/games/insectarium/news/insectarium-announced?utm_source=feed&utm_medium=rss&utm_campaign=feed](https://www.dicebreaker.com/games/insectarium/news/insectarium-announced?utm_source=feed&utm_medium=rss&utm_campaign=feed)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-04-30T10:44:26+00:00
+
+<img src="https://assetsio.gnwcdn.com/insectarium-artwork.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A new board game featuring a bug-based theme could do for insects what Wingspan did for birds.</p><p>Insectarium is an <a href="https://www.dicebreaker.com/categories/board-game/best-games/upcoming-board-games">upcoming board game</a> that sees players creating their own board of insect species to display within the display hall of the grand Insectarium, or a zoo that features a collection of insects. Similarly to 2019&rsquo;s Wingspan, Insectarium features various illustrations of the natural world - in this case, of specimens that players have gathered during their bug-hunts - created by artist Meg Lemieur, who has previously illustrated for Defenders of the Wild and Corvids.</p><p>To create their insect displays, players will gather and utilise their gear, as well as collect the tools they need to arrange and pin the specimens th
+
