@@ -1,0 +1,233 @@
+# Source:ZDNET, URL:https://www.zdnet.com/news/rss.xml, language:en-US
+
+## The best Samsung phones of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-samsung-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-samsung-phone/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T20:49:00+00:00
+
+I've tested all the latest Samsung Galaxy phones on the market, and these select few are worth your money and consideration.
+
+## This ChatGPT update fixed one of my biggest productivity issues with the AI chatbot
+ - [https://www.zdnet.com/article/this-chatgpt-update-fixed-one-of-my-biggest-productivity-issues-with-the-ai-chatbot/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-chatgpt-update-fixed-one-of-my-biggest-productivity-issues-with-the-ai-chatbot/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T20:40:00+00:00
+
+You no longer have to sacrifice this important feature to opt out of having your data used for model training.
+
+## The Apple products you shouldn't buy this month: May 2024 edition
+ - [https://www.zdnet.com/article/the-apple-products-you-shouldnt-buy-this-month/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-apple-products-you-shouldnt-buy-this-month/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T20:18:00+00:00
+
+Protect your hard-earned paycheck -- consult this list before you make a purchase. The iPad in particular is in desperate need of an update.
+
+## Red Hat's latest enterprise Linux delivers new features to tackle hybrid-cloud complexity
+ - [https://www.zdnet.com/article/red-hats-latest-enterprise-linux-delivers-new-features-to-tackle-hybrid-cloud-complexity/#ftag=RSSbaffb68](https://www.zdnet.com/article/red-hats-latest-enterprise-linux-delivers-new-features-to-tackle-hybrid-cloud-complexity/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T20:05:27+00:00
+
+In addition to unveiling RHEL 9.4, the company says it will support RHEL 7 for an extra four years.
+
+## The best small tablets of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-small-tablet/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-small-tablet/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T19:40:26+00:00
+
+Looking for a more portable tablet? We tested the best small tablets that combine affordability, great battery life, and fast processors in a tiny package.
+
+## This $299 Galaxy Ring challenger is launching May 15 - and its specs look promising
+ - [https://www.zdnet.com/article/this-299-galaxy-ring-challenger-is-launching-may-15-and-its-specs-look-promising/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-299-galaxy-ring-challenger-is-launching-may-15-and-its-specs-look-promising/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T19:17:33+00:00
+
+While buying the Helio ring along with an Amazfit fitness tracker reportedly cuts the price in half, the ring is a standalone device, with no smartwatch required.
+
+## 5 useful features iOS should steal from Android
+ - [https://www.zdnet.com/article/5-useful-features-ios-should-steal-from-android/#ftag=RSSbaffb68](https://www.zdnet.com/article/5-useful-features-ios-should-steal-from-android/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T19:01:00+00:00
+
+The iPhone dominates the US market, but Android is the global leader. That means Apple could learn a thing or two from what Google is doing.
+
+## These speakers deliver impressively accurate sound for any style of music
+ - [https://www.zdnet.com/home-and-office/home-entertainment/these-speakers-deliver-impressively-accurate-sound-for-any-style-of-music/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/these-speakers-deliver-impressively-accurate-sound-for-any-style-of-music/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T18:53:00+00:00
+
+The KEF LS50 Meta delivered better results than I could have imagined in my quest for the perfect bookshelf speakers.
+
+## The best MagSafe wallets of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-magsafe-wallets/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-magsafe-wallets/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T18:43:01+00:00
+
+We tested MagSafe wallets from brands like Apple, Casetify, Moft, and more to find the best picks for storing your cards and cash.
+
+## How to transfer photos from your Android device to your Windows computer
+ - [https://www.zdnet.com/article/how-to-transfer-photos-from-your-android-device-to-your-windows-computer/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-transfer-photos-from-your-android-device-to-your-windows-computer/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T18:40:00+00:00
+
+You can transfer photos from your Android phone to your Windows PC using a variety of methods. Here are five easy ways.
+
+## Tabnine and Atlassian reveal new generative AI tools for developers
+ - [https://www.zdnet.com/article/tabnine-and-atlassian-reveal-new-generative-ai-tools-for-developers/#ftag=RSSbaffb68](https://www.zdnet.com/article/tabnine-and-atlassian-reveal-new-generative-ai-tools-for-developers/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T18:34:10+00:00
+
+The integrations, along with Tabnine's AI coding assistant, will be available across Jira, Confluence, Bitbucket, and more later this year.
+
+## I used the Pixel Tablet as my smart home display for two months. Here's what I learned
+ - [https://www.zdnet.com/article/i-used-the-pixel-tablet-as-my-smart-home-display-for-two-months-heres-what-i-learned/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-used-the-pixel-tablet-as-my-smart-home-display-for-two-months-heres-what-i-learned/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T18:25:00+00:00
+
+Compared to stationary displays like the Nest and Echo Hub, here's how the Google Pixel Tablet does things better (and worse).
+
+## Sam's Club now using AI instead of humans to verify receipts
+ - [https://www.zdnet.com/article/sams-club-now-using-ai-instead-of-humans-to-verify-receipts/#ftag=RSSbaffb68](https://www.zdnet.com/article/sams-club-now-using-ai-instead-of-humans-to-verify-receipts/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T18:19:50+00:00
+
+In locations with the technology in place, customers are leaving the store 23% faster, according to the Walmart subsidiary. All clubs should have the AI by year's end.
+
+## Gen Z looks to AI to overcome its data anxiety - but the rest of us are worried
+ - [https://www.zdnet.com/article/gen-z-looks-to-ai-to-overcome-its-data-anxiety-but-the-rest-of-us-are-worried/#ftag=RSSbaffb68](https://www.zdnet.com/article/gen-z-looks-to-ai-to-overcome-its-data-anxiety-but-the-rest-of-us-are-worried/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T17:54:43+00:00
+
+Most Americans would rather read a history book than analyze their personal data - and these three data types are the most intimidating.
+
+## Finally, an iPhone car mount with Qi2 charging and won't break the bank
+ - [https://www.zdnet.com/article/finally-an-iphone-car-mount-with-qi2-charging-and-wont-break-the-bank/#ftag=RSSbaffb68](https://www.zdnet.com/article/finally-an-iphone-car-mount-with-qi2-charging-and-wont-break-the-bank/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T17:36:00+00:00
+
+This ESR Qi2-certified charger juices up your phone while holding it securely, even on bumpy roads.
+
+## One of the best QLED TVs I've tested is not made by Samsung or Sony
+ - [https://www.zdnet.com/home-and-office/home-entertainment/one-of-the-best-qled-tvs-ive-tested-is-not-made-by-samsung-or-sony/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/one-of-the-best-qled-tvs-ive-tested-is-not-made-by-samsung-or-sony/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T17:31:00+00:00
+
+The TCL QM8 proves the brand can compete with industry giants, with excellent picture quality, great sound, and a dedicated picture mode for console gamers.
+
+## The best silent mouse of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/home-and-office/smart-office/best-silent-mouse/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/best-silent-mouse/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T17:00:25+00:00
+
+We've gone hands-on with some of the best silent mouse options from brands like Logitech, Razer, and more, so you can work in complete silence.
+
+## 5 features I wish Google would copy from Apple's iOS (as an Android user)
+ - [https://www.zdnet.com/article/5-features-i-wish-google-would-copy-from-apples-ios-as-an-android-user/#ftag=RSSbaffb68](https://www.zdnet.com/article/5-features-i-wish-google-would-copy-from-apples-ios-as-an-android-user/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T17:00:00+00:00
+
+Android is a great mobile operating system, but that doesn't mean it can't learn from its competition. Here are five features I would love to see Google take from Apple's mobile OS.
+
+## Google Phone gets strange 'audio emoji' that play sounds, like fart noises, during calls
+ - [https://www.zdnet.com/article/google-phone-gets-strange-audio-emojis-that-play-sounds-like-fart-noises-during-calls/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-phone-gets-strange-audio-emojis-that-play-sounds-like-fart-noises-during-calls/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T17:00:00+00:00
+
+If you've ever wondered what emoji sound like, this is your chance to find out.
+
+## ChatGPT just got two updates that address major pain points for users
+ - [https://www.zdnet.com/article/chatgpt-just-got-two-data-control-updates-that-address-major-pain-points-for-users/#ftag=RSSbaffb68](https://www.zdnet.com/article/chatgpt-just-got-two-data-control-updates-that-address-major-pain-points-for-users/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T16:47:00+00:00
+
+You no longer have to sacrifice this important feature to opt out of having your data used for model training.
+
+## Anthropic launches a free Claude iOS app and Team, its first enterprise plan
+ - [https://www.zdnet.com/article/anthropic-launches-a-free-claude-ios-app-and-team-its-first-enterprise-plan/#ftag=RSSbaffb68](https://www.zdnet.com/article/anthropic-launches-a-free-claude-ios-app-and-team-its-first-enterprise-plan/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T16:11:16+00:00
+
+iPhone users can now use Claude for free. Anthropic plans to enhance the teams application to integrate with CRMs.
+
+## Walmart is shutting down all its health clinics. Here are some alternatives
+ - [https://www.zdnet.com/article/walmart-is-shutting-down-all-its-health-clinics-here-are-some-alternatives/#ftag=RSSbaffb68](https://www.zdnet.com/article/walmart-is-shutting-down-all-its-health-clinics-here-are-some-alternatives/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T15:35:39+00:00
+
+The move comes just a month after Walmart said it wanted to expand its health care practice.
+
+## 5 ways Arc browser makes browsing the web fun again
+ - [https://www.zdnet.com/home-and-office/work-life/5-ways-arc-browser-makes-browsing-the-web-fun-again/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/5-ways-arc-browser-makes-browsing-the-web-fun-again/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T15:10:00+00:00
+
+Here's why Arc quickly became one of my favorite browsers to use.
+
+## Arc browser is now available for Windows and it's so much better than Chrome
+ - [https://www.zdnet.com/home-and-office/work-life/arc-browser-is-now-available-for-windows-and-its-so-much-better-than-chrome/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/arc-browser-is-now-available-for-windows-and-its-so-much-better-than-chrome/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T14:37:00+00:00
+
+One of the more unique and enjoyable web browsers on the market is rolling out for the Windows operating system.
+
+## Rabbit's first R1 software update fixed my biggest problem with the AI gadget
+ - [https://www.zdnet.com/article/rabbits-first-r1-software-update-fixed-my-biggest-problem-with-the-ai-gadget/#ftag=RSSbaffb68](https://www.zdnet.com/article/rabbits-first-r1-software-update-fixed-my-biggest-problem-with-the-ai-gadget/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T14:22:52+00:00
+
+The latest over-the-air (OTA) update brings improved battery and GPS performance, time zone selection, and more.
+
+## You can make big money from AI - but only if people trust your data
+ - [https://www.zdnet.com/article/you-can-make-big-money-from-ai-but-only-if-people-trust-your-data/#ftag=RSSbaffb68](https://www.zdnet.com/article/you-can-make-big-money-from-ai-but-only-if-people-trust-your-data/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T13:57:28+00:00
+
+Research suggests data foundations are crucial for successful AI projects. Creating those solid underpinnings is hard work.
+
+## The best 85-inch TVs of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-85-inch-tv/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-85-inch-tv/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T13:30:03+00:00
+
+We tested the best 85-inch TVs from LG, Samsung, and Sony to help you choose the right one for your space.
+
+## Adobe wants your help finding security flaws in Content Credentials and Firefly
+ - [https://www.zdnet.com/article/adobe-wants-your-help-finding-security-flaws-in-content-credentials-and-firefly/#ftag=RSSbaffb68](https://www.zdnet.com/article/adobe-wants-your-help-finding-security-flaws-in-content-credentials-and-firefly/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T13:00:29+00:00
+
+Adobe is expanding its bug bounty program. If you're an ethical hacker or a security researcher, here's how you can join (and earn rewards).
+
+## Ring's new indoor pan-tilt cameras have several notable upgrades, and look better than ever
+ - [https://www.zdnet.com/home-and-office/smart-home/rings-new-indoor-pan-tilt-cameras-have-several-notable-upgrades-and-look-better-than-ever/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/rings-new-indoor-pan-tilt-cameras-have-several-notable-upgrades-and-look-better-than-ever/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T13:00:22+00:00
+
+The new Ring pan-tilt indoor cam has full 360-degree panning coverage, a privacy cover, and comes in five stylish colors.
+
+## The best mesh Wi-Fi routers of 2024: Expert recommended
+ - [https://www.zdnet.com/home-and-office/networking/best-mesh-wifi-system/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/best-mesh-wifi-system/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T12:00:23+00:00
+
+We found the best mesh Wi-Fi systems from TP-Link, Netgear, Amazon, and more.
+
+## This terminal app uses AI to help you understand the command line
+ - [https://www.zdnet.com/article/this-this-terminal-app-uses-ai-to-help-you-understand-the-command-line/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-this-terminal-app-uses-ai-to-help-you-understand-the-command-line/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T11:30:34+00:00
+
+If you feel the Linux and MacOS terminals aren't powerful enough, it's time to warp them to the next level.
+
+## How to create a bootable Linux USB drive
+ - [https://www.zdnet.com/article/how-to-create-a-bootable-linux-usb-drive/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-create-a-bootable-linux-usb-drive/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T10:40:00+00:00
+
+If you want to install Linux on a desktop, you'll first have to create a bootable USB drive with your distribution of choice.
+
+## 5 features I wish Android would borrow from iOS
+ - [https://www.zdnet.com/article/5-features-i-wish-android-would-borrow-from-ios/#ftag=RSSbaffb68](https://www.zdnet.com/article/5-features-i-wish-android-would-borrow-from-ios/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-01T10:12:38+00:00
+
+Android is a great mobile operating system, but that doesn't mean it can't learn from its competition. Here are five features I would love to see Google take from Apple's mobile OS.
+

@@ -1,0 +1,261 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Saudi Arabia: Woman jailed for 11 years for online expression supporting women’s rights
+ - [https://www.reddit.com/r/worldnews/comments/1chxwzj/saudi_arabia_woman_jailed_for_11_years_for_online](https://www.reddit.com/r/worldnews/comments/1chxwzj/saudi_arabia_woman_jailed_for_11_years_for_online)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T21:32:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chxwzj/saudi_arabia_woman_jailed_for_11_years_for_online/"> <img alt="Saudi Arabia: Woman jailed for 11 years for online expression supporting women’s rights" src="https://external-preview.redd.it/hVmteGvbigx9edHLOThXOEAX4Y8gII_GHGyad30hshM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=031fc50c942edc8125ce495091b8853245dc62d0" title="Saudi Arabia: Woman jailed for 11 years for online expression supporting women’s rights" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Difficult-Outcome-30"> /u/Difficult-Outcome-30 </a> <br /> <span><a href="https://www.amnesty.org/en/latest/news/2024/04/saudi-arabia-woman-jailed-for-11-years-for-online-expression-supporting-womens-rights/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chxwzj/saudi_arabia_woman_jailed_for_11_years_for_online/">[comments]</a></span> </td></tr></table>
+
+## US confirms that Russia uses banned chemical weapons against Ukrainian Armed Forces
+ - [https://www.reddit.com/r/worldnews/comments/1chwk9p/us_confirms_that_russia_uses_banned_chemical](https://www.reddit.com/r/worldnews/comments/1chwk9p/us_confirms_that_russia_uses_banned_chemical)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T20:37:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chwk9p/us_confirms_that_russia_uses_banned_chemical/"> <img alt="US confirms that Russia uses banned chemical weapons against Ukrainian Armed Forces" src="https://external-preview.redd.it/1CT-Na1FTlNJiPJxE3jd0OTMpHmsxCa0fD9yE5p4ohw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=757c25cc7632fd221de29cb1c07cb8a890964fe9" title="US confirms that Russia uses banned chemical weapons against Ukrainian Armed Forces" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pravda_UA"> /u/Pravda_UA </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/05/1/7453863/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chwk9p/us_confirms_that_russia_uses_banned_chemical/">[comments]</a></span> </td></tr></table>
+
+## Colombia to cut diplomatic ties with Israel
+ - [https://www.reddit.com/r/worldnews/comments/1chus1b/colombia_to_cut_diplomatic_ties_with_israel](https://www.reddit.com/r/worldnews/comments/1chus1b/colombia_to_cut_diplomatic_ties_with_israel)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T19:23:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chus1b/colombia_to_cut_diplomatic_ties_with_israel/"> <img alt="Colombia to cut diplomatic ties with Israel" src="https://external-preview.redd.it/N1U1SnrrqmqRHXK2clKLe5z6Z28NSV2lB2iduIsgzy0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=757ce9d1eb2e2a4485f15a467a4252865719205b" title="Colombia to cut diplomatic ties with Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infidel8"> /u/Infidel8 </a> <br /> <span><a href="https://thehill.com/policy/international/4636643-colombia-israel-hamas-gaza-war/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chus1b/colombia_to_cut_diplomatic_ties_with_israel/">[comments]</a></span> </td></tr></table>
+
+## Five human skeletons, missing hands and feet, found outside house of Nazi leader Hermann Göring
+ - [https://www.reddit.com/r/worldnews/comments/1chuoba/five_human_skeletons_missing_hands_and_feet_found](https://www.reddit.com/r/worldnews/comments/1chuoba/five_human_skeletons_missing_hands_and_feet_found)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T19:19:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chuoba/five_human_skeletons_missing_hands_and_feet_found/"> <img alt="Five human skeletons, missing hands and feet, found outside house of Nazi leader Hermann Göring" src="https://external-preview.redd.it/zo6sX2veeyOCssnY5IDUKI4FHXg4ZGR0DewG9T4Oybc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=054f1f7887428872209c0042d7f03dfe03596529" title="Five human skeletons, missing hands and feet, found outside house of Nazi leader Hermann Göring" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Humpty_Dumps"> /u/Humpty_Dumps </a> <br /> <span><a href="https://www.cnn.com/2024/05/01/europe/skeletons-goring-wolfs-lair-intl-scli-scn/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chuoba/five_human_skeletons_missing_hands_and_feet_found/">[comments]</a></span> </td></tr></table>
+
+## Welsh Senedd members consider criminalising lying by politicians
+ - [https://www.reddit.com/r/worldnews/comments/1chui8b/welsh_senedd_members_consider_criminalising_lying](https://www.reddit.com/r/worldnews/comments/1chui8b/welsh_senedd_members_consider_criminalising_lying)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T19:12:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chui8b/welsh_senedd_members_consider_criminalising_lying/"> <img alt="Welsh Senedd members consider criminalising lying by politicians" src="https://external-preview.redd.it/XgMBMeQuZNQ3CKrGHdBm-VfEQWGS4M9WyD3EbQratlM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=69fd23458c04f53f8ff6fa93a2aa2bf81d67361c" title="Welsh Senedd members consider criminalising lying by politicians" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/greenielove"> /u/greenielove </a> <br /> <span><a href="https://www.theguardian.com/politics/2024/apr/30/welsh-senedd-members-consider-criminalising-lying-by-politicians">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chui8b/welsh_senedd_members_consider_criminalising_lying/">[comments]</a></span> </td></tr></table>
+
+## Colombian military 'loses' 5m bullets and 37 anti-tank missiles
+ - [https://www.reddit.com/r/worldnews/comments/1chu7aw/colombian_military_loses_5m_bullets_and_37](https://www.reddit.com/r/worldnews/comments/1chu7aw/colombian_military_loses_5m_bullets_and_37)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T19:00:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chu7aw/colombian_military_loses_5m_bullets_and_37/"> <img alt="Colombian military 'loses' 5m bullets and 37 anti-tank missiles" src="https://external-preview.redd.it/i-49pccidF46fuB0fK4meP693ZdiDG4kEcTkeGvSr7g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=741d02b561bb6c16a3ee0c08547762775507e4b5" title="Colombian military 'loses' 5m bullets and 37 anti-tank missiles" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/world-news/2024/05/01/colombian-military-loses-5m-bullets-37-anti-tank-missiles/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chu7aw/colombian_military_loses_5m_bullets_and_37/">[comments]</a></span> </td></tr></table>
+
+## Israel tells U.S. it will punish Palestinian Authority if ICC issues warrants
+ - [https://www.reddit.com/r/worldnews/comments/1chs2hg/israel_tells_us_it_will_punish_palestinian](https://www.reddit.com/r/worldnews/comments/1chs2hg/israel_tells_us_it_will_punish_palestinian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T17:35:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chs2hg/israel_tells_us_it_will_punish_palestinian/"> <img alt="Israel tells U.S. it will punish Palestinian Authority if ICC issues warrants" src="https://external-preview.redd.it/uddgrTCtAQzUejQcx3wgAPJClvUBQdbxuNNcBbWDXFs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d222fa8b51f509bc60b2560cdc9739689edea02c" title="Israel tells U.S. it will punish Palestinian Authority if ICC issues warrants" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kwentongskyblue"> /u/kwentongskyblue </a> <br /> <span><a href="https://www.axios.com/2024/05/01/us-israel-palestinian-authority-icc-arrest-warrant">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chs2hg/israel_tells_us_it_will_punish_palestinian/">[comments]</a></span> </td></tr></table>
+
+## Ukraine alleges Russia is planning drone training classes for school kids in occupied regions
+ - [https://www.reddit.com/r/worldnews/comments/1chrdco/ukraine_alleges_russia_is_planning_drone_training](https://www.reddit.com/r/worldnews/comments/1chrdco/ukraine_alleges_russia_is_planning_drone_training)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T17:06:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chrdco/ukraine_alleges_russia_is_planning_drone_training/"> <img alt="Ukraine alleges Russia is planning drone training classes for school kids in occupied regions" src="https://external-preview.redd.it/RlBTVan9hUc5p3J7FssSr-s09kWwcYc6-eEw_c-98Bc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ff487b7611203ddff87b73b7bb1c2e264a73c41f" title="Ukraine alleges Russia is planning drone training classes for school kids in occupied regions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lonety"> /u/Lonety </a> <br /> <span><a href="https://www.businessinsider.com/russia-plans-drone-training-classes-for-kids-occupied-ukraine-report-2024-4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chrdco/ukraine_alleges_russia_is_planning_drone_training/">[comments]</a></span> </td></tr></table>
+
+## US and Saudis Near Defense Pact Aimed at Reshaping Middle East
+ - [https://www.reddit.com/r/worldnews/comments/1chr45s/us_and_saudis_near_defense_pact_aimed_at](https://www.reddit.com/r/worldnews/comments/1chr45s/us_and_saudis_near_defense_pact_aimed_at)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T16:56:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chr45s/us_and_saudis_near_defense_pact_aimed_at/"> <img alt="US and Saudis Near Defense Pact Aimed at Reshaping Middle East" src="https://external-preview.redd.it/lQZtY_smeePI8N2NPRKWvXvEU5M004dOWkP6nUItyCI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c07d436bb2dfa6ad951f92cb6a2ff42e0be31a5e" title="US and Saudis Near Defense Pact Aimed at Reshaping Middle East" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HenzShuyi"> /u/HenzShuyi </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-05-01/us-and-saudis-near-defense-pact-aimed-at-reshaping-middle-east">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chr45s/us_and_saudis_near_defense_pact_aimed_at/">[comments]</a></span> </td></tr></table>
+
+## Four people arrested for supposedly enslaving mentally disabled man for 17 years in Portugal
+ - [https://www.reddit.com/r/worldnews/comments/1chpxoq/four_people_arrested_for_supposedly_enslaving](https://www.reddit.com/r/worldnews/comments/1chpxoq/four_people_arrested_for_supposedly_enslaving)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T16:08:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chpxoq/four_people_arrested_for_supposedly_enslaving/"> <img alt="Four people arrested for supposedly enslaving mentally disabled man for 17 years in Portugal" src="https://external-preview.redd.it/0Npk-tmZw_3dOnIPC60vJZCR5ar9iq9QjdakMZFmzU8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2fa19022fb1d8b7b99273614d961851d1dbe55e6" title="Four people arrested for supposedly enslaving mentally disabled man for 17 years in Portugal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/woshinoemi"> /u/woshinoemi </a> <br /> <span><a href="https://jpost.com/international/article-799423">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chpxoq/four_people_arrested_for_supposedly_enslaving/">[comments]</a></span> </td></tr></table>
+
+## Mass fish die-off in Vietnam as heatwave roasts Southeast Asia
+ - [https://www.reddit.com/r/worldnews/comments/1chomej/mass_fish_dieoff_in_vietnam_as_heatwave_roasts](https://www.reddit.com/r/worldnews/comments/1chomej/mass_fish_dieoff_in_vietnam_as_heatwave_roasts)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T15:13:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chomej/mass_fish_dieoff_in_vietnam_as_heatwave_roasts/"> <img alt="Mass fish die-off in Vietnam as heatwave roasts Southeast Asia" src="https://external-preview.redd.it/4hKaODSh272WtgMw19Jq6l7RYuR5C0GbMhgwNn-DmzE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=791e3890dfe3bc557c80c7c8284be0d7bf2e8f25" title="Mass fish die-off in Vietnam as heatwave roasts Southeast Asia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lunavenandi"> /u/Lunavenandi </a> <br /> <span><a href="https://www.channelnewsasia.com/asia/vietnam-heat-mass-fish-die-dong-nai-lack-water-schools-closed-4305976">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chomej/mass_fish_dieoff_in_vietnam_as_heatwave_roasts/">[comments]</a></span> </td></tr></table>
+
+## Poland's 20 years in EU 'a great success for each of us': president
+ - [https://www.reddit.com/r/worldnews/comments/1chn2u2/polands_20_years_in_eu_a_great_success_for_each](https://www.reddit.com/r/worldnews/comments/1chn2u2/polands_20_years_in_eu_a_great_success_for_each)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T14:07:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chn2u2/polands_20_years_in_eu_a_great_success_for_each/"> <img alt="Poland's 20 years in EU 'a great success for each of us': president" src="https://external-preview.redd.it/4e0_yQp3NtVSifMGG4qMYdMRmE5xxCuoeMp8uAqqOoA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4b422e560ab25d38b69d39ff1eeb39c8155452a6" title="Poland's 20 years in EU 'a great success for each of us': president" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BubsyFanboy"> /u/BubsyFanboy </a> <br /> <span><a href="https://www.polskieradio.pl/395/7784/Artykul/3372279,polands-20-years-in-eu-a-great-success-for-each-of-us-president">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chn2u2/polands_20_years_in_eu_a_great_success_for_each/">[comments]</a></span> </td></tr></table>
+
+## Turkey may soon put its controversial Russian S-400 air defenses in operation
+ - [https://www.reddit.com/r/worldnews/comments/1chmjjj/turkey_may_soon_put_its_controversial_russian](https://www.reddit.com/r/worldnews/comments/1chmjjj/turkey_may_soon_put_its_controversial_russian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T13:44:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chmjjj/turkey_may_soon_put_its_controversial_russian/"> <img alt="Turkey may soon put its controversial Russian S-400 air defenses in operation" src="https://external-preview.redd.it/BUNreFw9itVD11z-NtXGZgRtjtBoKYCmd9g-Szfw0vk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9aa39188fd1d7fb228481b058933ad9a7f5bb57" title="Turkey may soon put its controversial Russian S-400 air defenses in operation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Grand-Course7194"> /u/Grand-Course7194 </a> <br /> <span><a href="https://www.businessinsider.com/turkey-may-soon-deploy-controversial-russian-s-400-air-defenses-2024-4?utm_source=reddit.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chmjjj/turkey_may_soon_put_its_controversial_russian/">[comments]</a></span> </td></tr></table>
+
+## Russia flaunts Western military hardware captured in war in Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1chm0tn/russia_flaunts_western_military_hardware_captured](https://www.reddit.com/r/worldnews/comments/1chm0tn/russia_flaunts_western_military_hardware_captured)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T13:20:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chm0tn/russia_flaunts_western_military_hardware_captured/"> <img alt="Russia flaunts Western military hardware captured in war in Ukraine" src="https://external-preview.redd.it/yceNibL3it2oCIfRs3btCPbu6mpGYrrElblKIBgHSuw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2be14d84dda4ba117521da7120f0a6fa86858d75" title="Russia flaunts Western military hardware captured in war in Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ninereedss"> /u/Ninereedss </a> <br /> <span><a href="https://www.bbc.co.uk/news/world-europe-68934205">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chm0tn/russia_flaunts_western_military_hardware_captured/">[comments]</a></span> </td></tr></table>
+
+## French resolution recognizes WWI killings of Assyrians as ‘genocide,' angers Turkey
+ - [https://www.reddit.com/r/worldnews/comments/1chlneg/french_resolution_recognizes_wwi_killings_of](https://www.reddit.com/r/worldnews/comments/1chlneg/french_resolution_recognizes_wwi_killings_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T13:03:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chlneg/french_resolution_recognizes_wwi_killings_of/"> <img alt="French resolution recognizes WWI killings of Assyrians as ‘genocide,' angers Turkey" src="https://external-preview.redd.it/AFhgXe79qt8NOXbUmb_CP-FEfVFC5Usk1bF7_MNC0QM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef3069dfccf4d83f63788fe7a2bae2599922ce1f" title="French resolution recognizes WWI killings of Assyrians as ‘genocide,' angers Turkey" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giuliomagnifico"> /u/giuliomagnifico </a> <br /> <span><a href="https://www.turkishminute.com/2024/05/01/french-resolution-recognizes-wwi-killings-of-assyrians-as-genocide-angers-turkey/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chlneg/french_resolution_recognizes_wwi_killings_of/">[comments]</a></span> </td></tr></table>
+
+## Georgian opposition leader beaten by riot police after protests against 'Russia law'
+ - [https://www.reddit.com/r/worldnews/comments/1chlenr/georgian_opposition_leader_beaten_by_riot_police](https://www.reddit.com/r/worldnews/comments/1chlenr/georgian_opposition_leader_beaten_by_riot_police)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T12:51:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chlenr/georgian_opposition_leader_beaten_by_riot_police/"> <img alt="Georgian opposition leader beaten by riot police after protests against 'Russia law'" src="https://external-preview.redd.it/07IP2BiuAEo3YuVEFx_8pb3RsKYdfmgQprLiyd27EjI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7e00f203f828c3705da29ede6ca647bc7e17fe4" title="Georgian opposition leader beaten by riot police after protests against 'Russia law'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/world-news/2024/05/01/levan-khabeishvili-georgia-russia-foreign-influence-law/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chlenr/georgian_opposition_leader_beaten_by_riot_police/">[comments]</a></span> </td></tr></table>
+
+## Russia ramps up arms production as US boosts support for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1chkv4d/russia_ramps_up_arms_production_as_us_boosts](https://www.reddit.com/r/worldnews/comments/1chkv4d/russia_ramps_up_arms_production_as_us_boosts)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T12:25:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chkv4d/russia_ramps_up_arms_production_as_us_boosts/"> <img alt="Russia ramps up arms production as US boosts support for Ukraine" src="https://external-preview.redd.it/TlvmFQRM4l953D-sEoYiYxMNuzEwYt7tvn2-0q92n88.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5060b98f30811fede665b21c1c8a12e26912e5a" title="Russia ramps up arms production as US boosts support for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ProfessionalTone9528"> /u/ProfessionalTone9528 </a> <br /> <span><a href="https://www.reuters.com/world/europe/russias-defence-minister-orders-more-weapons-ukraine-operation-2024-05-01/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chkv4d/russia_ramps_up_arms_production_as_us_boosts/">[comments]</a></span> </td></tr></table>
+
+## Explosions rock Crimea: traffic on Crimean Bridge suspended
+ - [https://www.reddit.com/r/worldnews/comments/1chkpd4/explosions_rock_crimea_traffic_on_crimean_bridge](https://www.reddit.com/r/worldnews/comments/1chkpd4/explosions_rock_crimea_traffic_on_crimean_bridge)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T12:16:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chkpd4/explosions_rock_crimea_traffic_on_crimean_bridge/"> <img alt="Explosions rock Crimea: traffic on Crimean Bridge suspended" src="https://external-preview.redd.it/bcH5G0MtygcTtu_1cDIwv5KO2_28j1zc5Ly2_xi3VhE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2056a8f567f151a72a1633f6f580ab0342d493d" title="Explosions rock Crimea: traffic on Crimean Bridge suspended" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/None_4All"> /u/None_4All </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/04/30/7453565/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chkpd4/explosions_rock_crimea_traffic_on_crimean_bridge/">[comments]</a></span> </td></tr></table>
+
+## New EU poll shows higher support for Israel among Eastern European parliament members compared to Western counterparts
+ - [https://www.reddit.com/r/worldnews/comments/1chk1to/new_eu_poll_shows_higher_support_for_israel_among](https://www.reddit.com/r/worldnews/comments/1chk1to/new_eu_poll_shows_higher_support_for_israel_among)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T11:42:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chk1to/new_eu_poll_shows_higher_support_for_israel_among/"> <img alt="New EU poll shows higher support for Israel among Eastern European parliament members compared to Western counterparts" src="https://external-preview.redd.it/Ijoa21tzENs2hi2SkQpNn--lc6BzqQ4AzupDpOwuGTQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=19ae76b825a4141df520db2313a169f9583830f0" title="New EU poll shows higher support for Israel among Eastern European parliament members compared to Western counterparts" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/franktomi"> /u/franktomi </a> <br /> <span><a href="https://allisrael.com/new-eu-poll-shows-higher-support-for-israel-among-eastern-european-parliament-members-compared-to-western-counterparts">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chk1to/new_eu_poll_shows_higher_support_for_israel_among/">[comments]</a></span>
+
+## Jakarta Is Sinking: Indonesia's $30B Plan To Relocate 11M Residents To New Capital Starting October 2024
+ - [https://www.reddit.com/r/worldnews/comments/1chjwni/jakarta_is_sinking_indonesias_30b_plan_to](https://www.reddit.com/r/worldnews/comments/1chjwni/jakarta_is_sinking_indonesias_30b_plan_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T11:34:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chjwni/jakarta_is_sinking_indonesias_30b_plan_to/"> <img alt="Jakarta Is Sinking: Indonesia's $30B Plan To Relocate 11M Residents To New Capital Starting October 2024" src="https://external-preview.redd.it/3QSvblU9PyiZeDST4iDRv4o4CjbCCDudIMKWWnGJYxI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a07a1bd241756fb8676a943ae5a77ad912c7a2e7" title="Jakarta Is Sinking: Indonesia's $30B Plan To Relocate 11M Residents To New Capital Starting October 2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PinkSlip_Mushroom"> /u/PinkSlip_Mushroom </a> <br /> <span><a href="https://www.ibtimes.co.uk/jakarta-sinking-indonesias-30b-plan-relocate-11m-residents-new-capital-starting-october-2024-1724494">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chjwni/jakarta_is_sinking_indonesias_30b_plan_to/">[comments]</a></span> </td></tr></table>
+
+## Lebanese Christian leader says Hezbollah's fighting with Israel has harmed Lebanon
+ - [https://www.reddit.com/r/worldnews/comments/1chjrs7/lebanese_christian_leader_says_hezbollahs](https://www.reddit.com/r/worldnews/comments/1chjrs7/lebanese_christian_leader_says_hezbollahs)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T11:26:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chjrs7/lebanese_christian_leader_says_hezbollahs/"> <img alt="Lebanese Christian leader says Hezbollah's fighting with Israel has harmed Lebanon" src="https://external-preview.redd.it/Ub9s2rUI03d5MUahkUpdzqLeE6efGIZjFLLqbug9wxM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3f01e1cb8949525a7bda02477a31faa278bd7218" title="Lebanese Christian leader says Hezbollah's fighting with Israel has harmed Lebanon" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yuri_2022"> /u/yuri_2022 </a> <br /> <span><a href="https://www.ynetnews.com/article/syzsv5yfa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chjrs7/lebanese_christian_leader_says_hezbollahs/">[comments]</a></span> </td></tr></table>
+
+## Women join Iran's 'ambassadors of kindness' who snatch other women from the streets
+ - [https://www.reddit.com/r/worldnews/comments/1chjomv/women_join_irans_ambassadors_of_kindness_who](https://www.reddit.com/r/worldnews/comments/1chjomv/women_join_irans_ambassadors_of_kindness_who)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T11:21:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chjomv/women_join_irans_ambassadors_of_kindness_who/"> <img alt="Women join Iran's 'ambassadors of kindness' who snatch other women from the streets" src="https://external-preview.redd.it/0KAU0pzFom4WjbGh7mEfKp64QFa6gV14PKYokedQHWY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aec76174ad570f162b266e2986355720fd4e21ae" title="Women join Iran's 'ambassadors of kindness' who snatch other women from the streets" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Majano57"> /u/Majano57 </a> <br /> <span><a href="https://news.sky.com/story/videos-show-iranian-women-being-snatched-from-the-streets-by-other-women-under-the-cover-of-war-with-israel-13122087">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chjomv/women_join_irans_ambassadors_of_kindness_who/">[comments]</a></span> </td></tr></table>
+
+## Highway collapse in China leaves at least 24 dead
+ - [https://www.reddit.com/r/worldnews/comments/1chjocy/highway_collapse_in_china_leaves_at_least_24_dead](https://www.reddit.com/r/worldnews/comments/1chjocy/highway_collapse_in_china_leaves_at_least_24_dead)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T11:21:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chjocy/highway_collapse_in_china_leaves_at_least_24_dead/"> <img alt="Highway collapse in China leaves at least 24 dead" src="https://external-preview.redd.it/swY3sC55n-qU4Egl301mBhk0NSRdwEx7I-dNt4H1PEc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=37d85d829a213394b89ec358415b2b23cad3d722" title="Highway collapse in China leaves at least 24 dead" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br /> <span><a href="https://www.nbcnews.com/news/world/highway-collapse-china-leaves-least-24-dead-rcna150166">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chjocy/highway_collapse_in_china_leaves_at_least_24_dead/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian HUR Drones Target Oil Refinery in Russia’s Ryazan Region
+ - [https://www.reddit.com/r/worldnews/comments/1chivod/ukrainian_hur_drones_target_oil_refinery_in](https://www.reddit.com/r/worldnews/comments/1chivod/ukrainian_hur_drones_target_oil_refinery_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T10:34:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chivod/ukrainian_hur_drones_target_oil_refinery_in/"> <img alt="Ukrainian HUR Drones Target Oil Refinery in Russia’s Ryazan Region" src="https://external-preview.redd.it/iMYe1Yq-qgM-6MdiHCv-frte5LgtDbIz6ciFn8-xMkc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=989729a5f3edf4c78056a5b0f3bfa59c876f92da" title="Ukrainian HUR Drones Target Oil Refinery in Russia’s Ryazan Region" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kissespretties"> /u/kissespretties </a> <br /> <span><a href="https://www.kyivpost.com/post/31937?utm_source=flipboard&amp;utm_content=topic%2Fukrainecrisis">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chivod/ukrainian_hur_drones_target_oil_refinery_in/">[comments]</a></span> </td></tr></table>
+
+## Under anti-gay law Iraq hunts down LGBTQ people, imprisons anyone who 'behaves like a woman'
+ - [https://www.reddit.com/r/worldnews/comments/1chigd6/under_antigay_law_iraq_hunts_down_lgbtq_people](https://www.reddit.com/r/worldnews/comments/1chigd6/under_antigay_law_iraq_hunts_down_lgbtq_people)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T10:08:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chigd6/under_antigay_law_iraq_hunts_down_lgbtq_people/"> <img alt="Under anti-gay law Iraq hunts down LGBTQ people, imprisons anyone who 'behaves like a woman'" src="https://external-preview.redd.it/OLLa0GIpa2IFC0kXGwX6gH9a9RPaN56SGKJ66rEnvpk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=770bdbf3b53669db8e3782d9d6ab703757225a99" title="Under anti-gay law Iraq hunts down LGBTQ people, imprisons anyone who 'behaves like a woman'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KC_8580"> /u/KC_8580 </a> <br /> <span><a href="https://www.ynetnews.com/article/hyhztt0wa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chigd6/under_antigay_law_iraq_hunts_down_lgbtq_people/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian forces near besieged Chasiv Yar say they badly need ammunition
+ - [https://www.reddit.com/r/worldnews/comments/1chig70/ukrainian_forces_near_besieged_chasiv_yar_say](https://www.reddit.com/r/worldnews/comments/1chig70/ukrainian_forces_near_besieged_chasiv_yar_say)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T10:07:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chig70/ukrainian_forces_near_besieged_chasiv_yar_say/"> <img alt="Ukrainian forces near besieged Chasiv Yar say they badly need ammunition" src="https://external-preview.redd.it/tPwJw7sn0N7Qf0ObHAFxd0T5HiE1GW3Cp-sTfSOZGiE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a2cd01ea9ff4c3bd91890af52ecf615c9ce2eb4" title="Ukrainian forces near besieged Chasiv Yar say they badly need ammunition" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ProfessionalTone9528"> /u/ProfessionalTone9528 </a> <br /> <span><a href="https://www.reuters.com/world/europe/ukrainian-forces-near-besieged-chasiv-yar-say-they-badly-need-ammunition-2024-05-01/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chig70/ukrainian_forces_near_besieged_chasiv_yar_say/">[comments]</a></span> </td></tr></table>
+
+## Hacker jailed for blackmailing therapy patients
+ - [https://www.reddit.com/r/worldnews/comments/1chdi1k/hacker_jailed_for_blackmailing_therapy_patients](https://www.reddit.com/r/worldnews/comments/1chdi1k/hacker_jailed_for_blackmailing_therapy_patients)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T04:41:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chdi1k/hacker_jailed_for_blackmailing_therapy_patients/"> <img alt="Hacker jailed for blackmailing therapy patients" src="https://external-preview.redd.it/UHk3PthX6EVKWq9DVLtSzNpWA5DgcA1ksXFwOIDgnjU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=00c0becdb35ac816b8375a5eca5c078b5eed9028" title="Hacker jailed for blackmailing therapy patients" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zellotron"> /u/zellotron </a> <br /> <span><a href="https://www.bbc.com/news/articles/c97znd00q7mo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chdi1k/hacker_jailed_for_blackmailing_therapy_patients/">[comments]</a></span> </td></tr></table>
+
+## In Turkey, Istanbul mayor faces backlash after calling Hamas a ‘terrorist organization’
+ - [https://www.reddit.com/r/worldnews/comments/1chdb7r/in_turkey_istanbul_mayor_faces_backlash_after](https://www.reddit.com/r/worldnews/comments/1chdb7r/in_turkey_istanbul_mayor_faces_backlash_after)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T04:30:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chdb7r/in_turkey_istanbul_mayor_faces_backlash_after/"> <img alt="In Turkey, Istanbul mayor faces backlash after calling Hamas a ‘terrorist organization’" src="https://external-preview.redd.it/LJ9qVXM0TXKkJLpiiMIjIJHzqB1gkzYh4qQ8f_8XocU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=20601dc16aae323b92e0ef823205708123058f73" title="In Turkey, Istanbul mayor faces backlash after calling Hamas a ‘terrorist organization’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br /> <span><a href="https://www.al-monitor.com/originals/2024/04/turkey-istanbul-mayor-faces-backlash-after-calling-hamas-terrorist-organization">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chdb7r/in_turkey_istanbul_mayor_faces_backlash_after/">[comments]</a></span> </td></tr></table>
+
+## India saved USD 13 billion by importing discounted Russian crude
+ - [https://www.reddit.com/r/worldnews/comments/1chda1c/india_saved_usd_13_billion_by_importing](https://www.reddit.com/r/worldnews/comments/1chda1c/india_saved_usd_13_billion_by_importing)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T04:28:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chda1c/india_saved_usd_13_billion_by_importing/"> <img alt="India saved USD 13 billion by importing discounted Russian crude" src="https://external-preview.redd.it/3bpqvIRss2j5OZEhRJmrTJVuMwXy_Fo3wcg2HrFgJXo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7452be39df6b41cc429f04793fbfc5fe0e9c0da1" title="India saved USD 13 billion by importing discounted Russian crude" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donutloop"> /u/donutloop </a> <br /> <span><a href="https://www.newindianexpress.com/business/2024/Apr/30/india-saved-usd-13-billion-by-importing-discounted-russian-crude">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chda1c/india_saved_usd_13_billion_by_importing/">[comments]</a></span> </td></tr></table>
+
+## Malaysia's KFC closes over 100 outlets amid boycotts linked to Gaza conflict
+ - [https://www.reddit.com/r/worldnews/comments/1chd4kp/malaysias_kfc_closes_over_100_outlets_amid](https://www.reddit.com/r/worldnews/comments/1chd4kp/malaysias_kfc_closes_over_100_outlets_amid)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T04:19:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chd4kp/malaysias_kfc_closes_over_100_outlets_amid/"> <img alt="Malaysia's KFC closes over 100 outlets amid boycotts linked to Gaza conflict" src="https://external-preview.redd.it/KaSsuOFH8gPDA76IqZraLYaiEZeYBr2FtRU7hXD2JtE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d94604922717b1da31076623fd8b35733204177" title="Malaysia's KFC closes over 100 outlets amid boycotts linked to Gaza conflict" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/glasier"> /u/glasier </a> <br /> <span><a href="https://www.channelnewsasia.com/asia/malaysia-kfc-closures-boycott-gaza-conflict-4302296">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chd4kp/malaysias_kfc_closes_over_100_outlets_amid/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 798, Part 1 (Thread #944)
+ - [https://www.reddit.com/r/worldnews/comments/1chctrn/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1chctrn/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T04:02:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chctrn/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 798, Part 1 (Thread #944)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 798, Part 1 (Thread #944)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chctrn/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## China’s massive and sustained central bank gold purchases are raising fears that the country may not only be shoring up its currency but may also be laying the economic groundwork for a full-scale invasion of Taiwan
+ - [https://www.reddit.com/r/worldnews/comments/1chc2lp/chinas_massive_and_sustained_central_bank_gold](https://www.reddit.com/r/worldnews/comments/1chc2lp/chinas_massive_and_sustained_central_bank_gold)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T03:21:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chc2lp/chinas_massive_and_sustained_central_bank_gold/"> <img alt="China’s massive and sustained central bank gold purchases are raising fears that the country may not only be shoring up its currency but may also be laying the economic groundwork for a full-scale invasion of Taiwan" src="https://external-preview.redd.it/D6BDgATIcqjfEff4iw9az0UwFm2uiWPOvDHUjk2mD3k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc899e0644c9108061ae606ead5b41d7eca98f2c" title="China’s massive and sustained central bank gold purchases are raising fears that the country may not only be shoring up its currency but may also be laying the economic groundwork for a full-scale invasion of Taiwan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Carla_DFW"> /u/Carla_DFW </a> <br /> <span><a href="https://www.kitco.com/news/article/2024-04-30/record-pboc-gold-purchases-may-indicate-china-planning-invade-taiwan"
+
+## Zelensky: Ukraine will join NATO only after defeating Russia
+ - [https://www.reddit.com/r/worldnews/comments/1chb8qa/zelensky_ukraine_will_join_nato_only_after](https://www.reddit.com/r/worldnews/comments/1chb8qa/zelensky_ukraine_will_join_nato_only_after)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T02:38:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chb8qa/zelensky_ukraine_will_join_nato_only_after/"> <img alt="Zelensky: Ukraine will join NATO only after defeating Russia" src="https://external-preview.redd.it/8b6uwu2BxUJWbMDygnlbfsBBzq8ugljsg8dKyJLGpu8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=998a1a319727774174fea3b37a34fa9e42c77606" title="Zelensky: Ukraine will join NATO only after defeating Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/new974517"> /u/new974517 </a> <br /> <span><a href="https://kyivindependent.com/stoltenberg-on-ukraines-membership-in-nato-allies-have-not-agreed-yet-but-we-are-working-on-it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chb8qa/zelensky_ukraine_will_join_nato_only_after/">[comments]</a></span> </td></tr></table>
+
+## US warns of impending 'large-scale massacre' in capital of Sudan's North Darfur
+ - [https://www.reddit.com/r/worldnews/comments/1chaztb/us_warns_of_impending_largescale_massacre_in](https://www.reddit.com/r/worldnews/comments/1chaztb/us_warns_of_impending_largescale_massacre_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T02:26:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chaztb/us_warns_of_impending_largescale_massacre_in/"> <img alt="US warns of impending 'large-scale massacre' in capital of Sudan's North Darfur" src="https://external-preview.redd.it/8tMOiB8twzNl32VsT2kruh28VJiX56Dx9480XVuipKU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5fde4de9357472a999062e9888fa88ce51f2b3f" title="US warns of impending 'large-scale massacre' in capital of Sudan's North Darfur" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EuphoricWarning2032"> /u/EuphoricWarning2032 </a> <br /> <span><a href="https://www.france24.com/en/africa/20240430-us-warns-of-impending-large-scale-massacre-in-capital-of-sudan-s-north-darfur">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chaztb/us_warns_of_impending_largescale_massacre_in/">[comments]</a></span> </td></tr></table>
+
+## Skynex: The German drone destroyer reinforcing Ukraine's air defense
+ - [https://www.reddit.com/r/worldnews/comments/1chanvb/skynex_the_german_drone_destroyer_reinforcing](https://www.reddit.com/r/worldnews/comments/1chanvb/skynex_the_german_drone_destroyer_reinforcing)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T02:09:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chanvb/skynex_the_german_drone_destroyer_reinforcing/"> <img alt="Skynex: The German drone destroyer reinforcing Ukraine's air defense" src="https://external-preview.redd.it/Z5bDh36xj9LCQ7vDtWZTjz_o-g_AyU0075FwsfR4Fpo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32db53e95fb15d09e9b4d4a468a12a7f14adf983" title="Skynex: The German drone destroyer reinforcing Ukraine's air defense" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/new974517"> /u/new974517 </a> <br /> <span><a href="https://kyivindependent.com/skynex-german-drone-destroyer-reinforcing-ukraines-air-defense/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chanvb/skynex_the_german_drone_destroyer_reinforcing/">[comments]</a></span> </td></tr></table>
+
+## Saudi Arabia activist sentenced to 11 years in prison for ‘support’ of women’s rights
+ - [https://www.reddit.com/r/worldnews/comments/1chae7t/saudi_arabia_activist_sentenced_to_11_years_in](https://www.reddit.com/r/worldnews/comments/1chae7t/saudi_arabia_activist_sentenced_to_11_years_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T01:56:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1chae7t/saudi_arabia_activist_sentenced_to_11_years_in/"> <img alt="Saudi Arabia activist sentenced to 11 years in prison for ‘support’ of women’s rights" src="https://external-preview.redd.it/OBB7We2T9YKYRphI1CSzljFt20USpc9JkT-Mns0KUHE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5bc577ad5578c0f4c43c5f79570f5404558e05f9" title="Saudi Arabia activist sentenced to 11 years in prison for ‘support’ of women’s rights" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EuphoricWarning2032"> /u/EuphoricWarning2032 </a> <br /> <span><a href="https://www.theguardian.com/world/2024/may/01/manahel-al-otaibi-saudi-arabia-womens-rights-activist-sentenced-11-years-prison-anti-terrorism-court">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1chae7t/saudi_arabia_activist_sentenced_to_11_years_in/">[comments]</a></span> </td></tr></table>
+
+## Ukraine's new ATACMS could make Crimea 'militarily worthless,' war expert says
+ - [https://www.reddit.com/r/worldnews/comments/1cha92i/ukraines_new_atacms_could_make_crimea_militarily](https://www.reddit.com/r/worldnews/comments/1cha92i/ukraines_new_atacms_could_make_crimea_militarily)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-01T01:50:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cha92i/ukraines_new_atacms_could_make_crimea_militarily/"> <img alt="Ukraine's new ATACMS could make Crimea 'militarily worthless,' war expert says" src="https://external-preview.redd.it/Aod8W18FIcFTDn4i2X4eYYQTaMrtyAnlxmLssgi1jCs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb00e2a20008fec27be8481ac89d374f9c297cb6" title="Ukraine's new ATACMS could make Crimea 'militarily worthless,' war expert says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/new974517"> /u/new974517 </a> <br /> <span><a href="https://www.businessinsider.com/atacms-ukraine-could-make-crimea-militarily-worthless-russia-expert-2024-4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cha92i/ukraines_new_atacms_could_make_crimea_militarily/">[comments]</a></span> </td></tr></table>
+
