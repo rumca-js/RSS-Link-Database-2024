@@ -1,0 +1,207 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Pet Parrots Prefer Live Video-Calls Over Watching Pre-Recorded Videos
+ - [https://science.slashdot.org/story/24/05/02/2145258/pet-parrots-prefer-live-video-calls-over-watching-pre-recorded-videos?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/05/02/2145258/pet-parrots-prefer-live-video-calls-over-watching-pre-recorded-videos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T23:52:44.922968+00:00
+
+When given the choice, pet parrots prefer to video-call each other instead of watch pre-recorded videos of other birds. Those are the findings from a new paper (PDF) set to appear next week at a conference on Human Factors in Computing Systems in Hawaii. Phys.Org reports: The study, led by animal-computer interaction specialists at the University of Glasgow, gave tablet devices to nine parrots and their owners to explore the potential of the video chats to expand the birds' social lives. Their results suggest that the clever birds, who often suffer from loneliness in captivity, may be able to tell the difference between live and pre-recorded content on digital devices, and strongly prefer interacting with other birds in real time.
+ 
+Over the course of the six-month study, the parrots chose to initiate calls to other birds significantly more often than they opted to watch pre-recorded footage. They also seemed more engaged in the live chats, spending much longer on calls with other bir
+
+## Nurses Say Hospital Adoption of Half-Cooked 'AI' Is Reckless
+ - [https://science.slashdot.org/story/24/05/02/2111253/nurses-say-hospital-adoption-of-half-cooked-ai-is-reckless?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/05/02/2111253/nurses-say-hospital-adoption-of-half-cooked-ai-is-reckless?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T22:48:08.329090+00:00
+
+An anonymous reader quotes a report from Techdirt: Last week, hundreds of nurses protested the implementation of sloppy AI into hospital systems in front of Kaiser Permanente. Their primary concern: that systems incapable of empathy are being integrated into an already dysfunctional sector without much thought toward patient care: "No computer, no AI can replace a human touch," said Amy Grewal, a registered nurse. "It cannot hold your loved one's hand. You cannot teach a computer how to have empathy."
+ 
+There are certainly roles automation can play in easing strain on a sector full of burnout after COVID, particularly when it comes to administrative tasks. The concern, as with other industries dominated by executives with poor judgement, is that this is being used as a justification by for-profit hospital systems to cut corners further. From a National Nurses United blog post (spotted by 404 Media): "Nurses are not against scientific or technological advancement, but we will not accep
+
+## Spotify Hides Song Lyrics Behind Paywall
+ - [https://news.slashdot.org/story/24/05/02/1940215/spotify-hides-song-lyrics-behind-paywall?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/05/02/1940215/spotify-hides-song-lyrics-behind-paywall?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T22:48:06.344600+00:00
+
+Several users on Reddit have noticed that Spotify has started hiding song lyrics behind a paywall. "This means you won't be able to sing along unless you know the lyrics already, or are willing to look them up in another app," reports Android Police. From the report: Still, you lose the convenience of real-time sync with the track and automatic scrolling. Like skips per hour, it appears Spotify will implement a limit system and accessing lyrics will count against the user's limit, which should ideally reset after a stipulated time.
+ 
+Spotify usually requests lyrics from songwriters, publishers, and independent artists. However, in most other cases, the company has a working relationship with MusixMatch to provide lyrics, and perhaps Spotify isn't willing to absorb the costs of this partnership. That would explain why lyrics are now paywalled, but as a free-tier user, such changes are chipping away at the service's appeal.<p><div class="share_submission">
+<a class="slashpop" href="http
+
+## Maximum-Severity GitLab Flaw Allowing Account Hijacking Under Active Exploitation
+ - [https://it.slashdot.org/story/24/05/02/1934220/maximum-severity-gitlab-flaw-allowing-account-hijacking-under-active-exploitation?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/05/02/1934220/maximum-severity-gitlab-flaw-allowing-account-hijacking-under-active-exploitation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T21:42:14.827791+00:00
+
+Dan Goodin reports via Ars Technica: A maximum severity vulnerability that allows hackers to hijack GitLab accounts with no user interaction required is now under active exploitation, federal government officials warned as data showed that thousands of users had yet to install a patch released in January. A change GitLab implemented in May 2023 made it possible for users to initiate password changes through links sent to secondary email addresses. The move was designed to permit resets when users didn't have access to the email address used to establish the account. In January, GitLab disclosed that the feature allowed attackers to send reset emails to accounts they controlled and from there click on the embedded link and take over the account.
+ 
+While exploits required no user interaction, hijackings worked only against accounts that weren't configured to use multi-factor authentication. Even with MFA, accounts remained vulnerable to password resets. The vulnerability, tracked as CVE
+
+## Sony, Apollo Offers To Buy Paramount For $26 Billion
+ - [https://entertainment.slashdot.org/story/24/05/02/2116210/sony-apollo-offers-to-buy-paramount-for-26-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/24/05/02/2116210/sony-apollo-offers-to-buy-paramount-for-26-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T21:42:13.060827+00:00
+
+Sony Pictures Entertainment and Apollo Global Management have made a bid to acquire Paramount for $26 billion and take it private. Variety reports: Sony and private-equity giant Apollo submitted a letter with the non-binding offer Wednesday to Paramount Global, as first reported by the Wall Street Journal. The bid, which would include the assumption of debt and could be negotiated, would be a premium over the company's current $22 billion enterprise value. Shares of Paramount Global jumped 13% on news of the offer from Apollo and Sony Entertainment, closing at $13.86 per share Thursday.
+ 
+It's not clear how Paramount's board will proceed on the Sony-Apollo proposal, having rejected previous overtures from the private-equity firm. The company has an exclusive negotiating window with Skydance that ends Friday (May 3), but discussions among the parties could extend beyond that. If it happens, the combination of Sony Pictures with Paramount Pictures would likely result in mass layoffs -- 
+
+## Microsoft Bans US Police Departments From Using Enterprise AI Tool
+ - [https://slashdot.org/story/24/05/02/1918222/microsoft-bans-us-police-departments-from-using-enterprise-ai-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/05/02/1918222/microsoft-bans-us-police-departments-from-using-enterprise-ai-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T20:37:38.077670+00:00
+
+An anonymous reader quotes a report from TechCrunch: Microsoft has changed its policy to ban U.S. police departments from using generative AI through the Azure OpenAI Service, the company's fully managed, enterprise-focused wrapper around OpenAI technologies. Language added Wednesday to the terms of service for Azure OpenAI Service prohibits integrations with Azure OpenAI Service from being used "by or for" police departments in the U.S., including integrations with OpenAI's text- and speech-analyzing models. A separate new bullet point covers "any law enforcement globally," and explicitly bars the use of "real-time facial recognition technology" on mobile cameras, like body cameras and dashcams, to attempt to identify a person in "uncontrolled, in-the-wild" environments. [...]
+ 
+The new terms leave wiggle room for Microsoft. The complete ban on Azure OpenAI Service usage pertains only to U.S., not international, police. And it doesn't cover facial recognition performed with stationar
+
+## The Last Thing the iPad Needs Is a Spec Bump
+ - [https://apple.slashdot.org/story/24/05/02/1837226/the-last-thing-the-ipad-needs-is-a-spec-bump?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/05/02/1837226/the-last-thing-the-ipad-needs-is-a-spec-bump?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T19:32:24.340812+00:00
+
+An anonymous reader shares a column: When Apple CEO Tim Cook and a bunch of his deputies take the virtual stage next week to announce new iPads, they're going to spend a lot of time talking about specs. If the rumors are true, we're going to get new iPad Pros with OLED screens and thinner bodies, new Airs with faster chips and a correctly placed front camera, and a couple of new accessories. Before they even launch, I feel confident telling you these are the best iPads ever. But after all these years, I still don't know how to tell you whether you should want an iPad. Or what you'd want to do with it. 
+
+This has been true forever, of course. The iPad is the jack-of-all-trades in Apple's lineup, a terrific device in many ways that still feels increasingly redundant now that so many people have big phones and long-lasting laptops. Apple seems to have spent the last decade-plus enamored with the idea of the iPad as a shapeshifter -- a device that can be exactly what you need at any given
+
+## The Original Smart Thermostat, Unveiled 16 Years Ago, is About To Get Dumb
+ - [https://it.slashdot.org/story/24/05/02/1856256/the-original-smart-thermostat-unveiled-16-years-ago-is-about-to-get-dumb?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/05/02/1856256/the-original-smart-thermostat-unveiled-16-years-ago-is-about-to-get-dumb?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T19:32:22.258169+00:00
+
+Ecobee, the company that pioneered smart thermostats with its Ecobee Smart in 2008, has announced it will end online support for the device and its commercial counterpart, the Ecobee Energy Management System, on July 31, 2024. The move will disable internet-dependent features such as web portal control, smart integrations, and weather-related functionality, while basic HVAC control and scheduling will remain operational.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=The+Original+Smart+Thermostat%2C+Unveiled+16+Years+Ago%2C+is+About+To+Get+Dumb%3A+https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F05%2F02%2F1856256%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F05%2F02%2F1856256%2Fthe-original-smart-thermostat-unveiled-16-years-ago-is-about-to-get-dumb%3Futm_source%3Dslashdot%2
+
+## Google Defends 'Better' Search Product as Antitrust Trial Concludes
+ - [https://tech.slashdot.org/story/24/05/02/1734237/google-defends-better-search-product-as-antitrust-trial-concludes?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/02/1734237/google-defends-better-search-product-as-antitrust-trial-concludes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T18:27:23.323472+00:00
+
+Google is making its last attempt to fight back against a historic effort by the US Department of Justice to break the tech giant's grip on online search, as the most significant antitrust trial in 25 years comes to a close in Washington. From a report: A federal court in Washington began hearing closing arguments on Thursday after a 10-week trial in which the DoJ accused Alphabet, the parent company of Google, of suppressing search rivals by paying tens of billions annually for anti-competitive agreements with wireless carriers, browser developers and device manufacturers. During the hearing on Thursday, John Schmidtlein, a lawyer from Williams &amp; Connolly representing Google, sought to push back on claims that it had hindered rivals' efforts to gain a foothold in online search, and argued that users had plenty of alternatives. 
+
+Unsealed court documents revealed this week that Alphabet paid Apple $20bn in 2022 alone to be the default search engine for its iPhone and Safari browse
+
+## Warrantless FBI Searches of American Communications Drop 50 Percent
+ - [https://news.slashdot.org/story/24/05/02/1759221/warrantless-fbi-searches-of-american-communications-drop-50-percent?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/05/02/1759221/warrantless-fbi-searches-of-american-communications-drop-50-percent?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T18:27:21.257840+00:00
+
+The FBI cut its warrantless searches of American data in half in 2023, according to a government report released on Tuesday. From a report: According to the Office of the Director of National Intelligence's annual transparency report, the FBI conducted 57,094 searches of "US person" data under Section 702 of the Foreign Intelligence Surveillance Act last year -- a 52 percent decrease from 2022. 
+
+In a press briefing, a senior FBI official said that the drop was due to reforms the agency implemented in 2021 and 2022, The Record reports. Despite the drop in overall searches of Americans' data, the report also notes that the number of foreign targets whose data could be searched in the Section 702 database rose to 268,590, a 9 percent increase from the previous year. The number of "probable cause" targets also increased significantly, from 417 in 2022 to 759 in 2023. Of those, 57 percent are estimated to be "US persons," which includes US citizens and permanent residents.<p><div class="s
+
+## Apple Adds More Carve-outs To Its EU Core Tech Fee After Criticism From Devs
+ - [https://apple.slashdot.org/story/24/05/02/1633217/apple-adds-more-carve-outs-to-its-eu-core-tech-fee-after-criticism-from-devs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/05/02/1633217/apple-adds-more-carve-outs-to-its-eu-core-tech-fee-after-criticism-from-devs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T17:21:56.375753+00:00
+
+Apple is tweaking how it applies a new fee that can apply to iOS developers in the European Union as it continues to configure its approach to the bloc's Digital Markets Act (DMA): Developers of free apps will be able to avoid the fee entirely under changes it announced Thursday, which apply from today, while other developers earning under a certain revenue threshold will get longer before they have to pay Apple the fee. From a report: The so-called "core technology fee" remains opt in for iOS developers in the region, as Apple continues to offer its standard business terms, but those wanting to take up new entitlements the DMA has required Apple to offer -- such as allowing sideloading of apps, third party app stores, and support for alternative payment tech than Apple's own -- must agree to the set of business terms that include the CTF (as Apple calls it). 
+
+The fee remains under scrutiny in the region where the Commission, which enforces the DMA on Apple and other gatekeepers -- a
+
+## Google's Payments To Apple Reached $20 Billion in 2022, Antitrust Court Documents Show
+ - [https://apple.slashdot.org/story/24/05/02/1320207/googles-payments-to-apple-reached-20-billion-in-2022-antitrust-court-documents-show?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/05/02/1320207/googles-payments-to-apple-reached-20-billion-in-2022-antitrust-court-documents-show?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T16:03:24.764512+00:00
+
+Alphabet paid Apple $20 billion in 2022 for Google to be the default search engine in the Safari browser, according to newly unsealed court documents in the Justice Department's antitrust lawsuit against Google. From a report: The deal between the two tech giants is at the heart of the landmark case, in which antitrust enforcers allege Google has illegally monopolized the market for online search and related advertising. The Justice Department and Google will offer closing arguments in the case Thursday and Friday, with a decision expected later this year. 
+
+Google and Apple had hoped to shield the payment amount from public disclosure. At the trial last fall, Apple executives testified that Google paid "billions," without specifying a number. A Google witness later accidentally disclosed that Google pays 36% of the revenue it earns from search ads to Apple. Court documents filed late Tuesday ahead of the closing arguments mark the first public confirmation of the figures by Apple's s
+
+## Microsoft Launches Passkey Support For All Consumer Accounts
+ - [https://tech.slashdot.org/story/24/05/02/1426235/microsoft-launches-passkey-support-for-all-consumer-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/02/1426235/microsoft-launches-passkey-support-for-all-consumer-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T16:03:22.758711+00:00
+
+Microsoft is fully rolling out passkey support for all consumer accounts today. From a report: After enabling them in Windows 11 last year, Microsoft account owners can also now generate passkeys across Windows, Android, and iOS. This makes it effortless to sign in to a Microsoft account without having to type a password in every time.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Microsoft+Launches+Passkey+Support+For+All+Consumer+Accounts%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F05%2F02%2F1426235%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F05%2F02%2F1426235%2Fmicrosoft-launches-passkey-support-for-all-consumer-accounts%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"><img src="https://a.fsdn.com/sd/facebook_icon_large.png" /></a>
+
+
+
+</div></p><p><a href="
+
+## Whistleblower Josh Dean of Boeing Supplier Spirit AeroSystems Has Died
+ - [https://news.slashdot.org/story/24/05/02/1256249/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/05/02/1256249/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T14:59:00.647093+00:00
+
+Joshua Dean, a former quality auditor at Boeing supplier Spirit AeroSystems and one of the first whistleblowers to allege Spirit leadership had ignored manufacturing defects on the 737 MAX, died Tuesday morning after a struggle with a sudden, fast-spreading infection. Seattle Times: Known as Josh, Dean lived in Wichita, Kan., where Spirit is based. He was 45, had been in good health and was noted for having a healthy lifestyle. He died after two weeks in critical condition, his aunt Carol Parsons said. Dean had given a deposition in a Spirit shareholder lawsuit and also filed a complaint with the Federal Aviation Administration alleging "serious and gross misconduct by senior quality management of the 737 production line" at Spirit. 
+
+Spirit fired Dean in April 2023, and he had filed a complaint with the Department of Labor alleging his termination was in retaliation for raising concerns related to aviation safety. Parsons said Dean became ill and went to the hospital because he was h
+
+## Huawei Secretly Backs US Research, Awarding Millions in Prizes
+ - [https://news.slashdot.org/story/24/05/02/133222/huawei-secretly-backs-us-research-awarding-millions-in-prizes?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/05/02/133222/huawei-secretly-backs-us-research-awarding-millions-in-prizes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T14:58:58.722486+00:00
+
+Huawei, the Chinese telecommunications giant blacklisted by the US, is secretly funding cutting-edge research at American universities including Harvard through an independent Washington-based foundation. From a report: Huawei is the sole funder of a research competition that has awarded millions of dollars since its inception in 2022 and attracted hundreds of proposals from scientists around the world, including those at top US universities that have banned their researchers from working with the company, according to documents and people familiar with the matter. 
+
+The competition is administered by the Optica Foundation, an arm of the nonprofit professional society Optica, whose members' research on light underpins technologies such as communications, biomedical diagnostics and lasers. The foundation "shall not be required to designate Huawei as the funding source or program sponsor" of the competition and "the existence and content of this Agreement and the relationship between th
+
+## Microsoft To Invest $2.2 Billion In Cloud and AI Services In Malaysia
+ - [https://slashdot.org/story/24/05/02/0730241/microsoft-to-invest-22-billion-in-cloud-and-ai-services-in-malaysia?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/05/02/0730241/microsoft-to-invest-22-billion-in-cloud-and-ai-services-in-malaysia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T13:52:45.176618+00:00
+
+An anonymous reader quotes a report from Reuters: Microsoft said on Thursday it will invest $2.2 billion over the next four years in Malaysia to expand cloud and artificial intelligence (AI) services in the company's latest push to promote its generative AI technology in Asia. The investment, the largest in Microsoft's 32-year history in Malaysia, will include building cloud and AI infrastructure, creating AI-skilling opportunities for 200,000 people, and supporting the country's developers, the company said.
+ 
+Microsoft will also work with the Malaysian government to establish a national AI Centre of Excellence and enhance the nation's cybersecurity capabilities, the company said in a statement. Prime Minister Anwar Ibrahim, who met Nadella on Thursday, said the investment supported Malaysia's efforts in developing its AI capabilities. Microsoft is trying to expand its support for the development of AI globally. Nadella this week announced a $1.7 billion investment in neighboring Ind
+
+## Google Phone Starts Rolling Out 'Audio Emoji'
+ - [https://tech.slashdot.org/story/24/05/02/0724243/google-phone-starts-rolling-out-audio-emoji?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/02/0724243/google-phone-starts-rolling-out-audio-emoji?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T10:38:22.043036+00:00
+
+The Google Phone app is rolling out "Audio Emoji" to some users as part of an incoming update in the beta channel, version 128. As 9to5Google reports, they are "essentially stock sound effects attached to one of six different emoji." The list includes: clapping (applause), laughing, party, crying (trombone), poop, and sting (ba dum tss). From the report: When you, as the caller, select one of these "Audio Emoji," the Google Phone app will play a fun animation while a sound effect plays for a couple of seconds. The sound effect is heard on both ends of the phone call. There does seem to be a limit on how often you can use these sound effects, as there's a bit of a "cooldown" in between that prevents you from playing sounds back to back. That's probably for the best in the case of some of these.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Google+Phone+Starts+Rolling+Out+'Audio+Emoji'%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F05%2F02%
+
+## A New Battery Warns Parents if Their Child Has Swallowed It
+ - [https://hardware.slashdot.org/story/24/05/02/072208/a-new-battery-warns-parents-if-their-child-has-swallowed-it?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/05/02/072208/a-new-battery-warns-parents-if-their-child-has-swallowed-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T07:24:00.399305+00:00
+
+A new battery from Energizer comes with "color alert technology" to alert parents if their child has swallowed one. When the coin lithium battery comes into contact with saliva, it activates a blue dye "so parents and caregivers know that medical attention could be required," reports the New York Times. The battery also features more secure packaging and a nontoxic bitter coating. From the report: The new coin lithium battery features more secure packaging, a nontoxic bitter coating to discourage swallowing and "color alert technology" that activates a blue dye when the battery comes into contact with moisture, like saliva, so parents and caregivers know that medical attention could be required. The new battery was announced in a video last week by Energizer and Trista Hamsmith, whose 18-month-old daughter died after swallowing a button battery from a remote control. Ms. Hamsmith founded a nonprofit organization focused on children's safety, successfully advocated for legislation, kno
+
+## AM Radio Law Opposed By Tech and Auto Industries Is Close To Passing
+ - [https://tech.slashdot.org/story/24/05/02/015209/am-radio-law-opposed-by-tech-and-auto-industries-is-close-to-passing?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/02/015209/am-radio-law-opposed-by-tech-and-auto-industries-is-close-to-passing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T04:07:41.571496+00:00
+
+An anonymous reader quotes a report from Ars Technica: A controversial bill that would require all new cars to be fitted with AM radios looks set to become a law in the near future. Yesterday, Senator Edward Markey (D-Mass) revealed that the "AM Radio for Every Vehicle Act" now has the support of 60 US Senators, as well as 246 co-sponsors in the House of Representatives, making its passage an almost sure thing. Should that happen, the National Highway Traffic Safety Administration would be required to ensure that all new cars sold in the US had AM radios at no extra cost. "Democrats and Republicans are tuning in to the millions of listeners, thousands of broadcasters, and countless emergency management officials who depend on AM radio in their vehicles. AM radio is a lifeline for people in every corner of the United States to get news, sports, and local updates in times of emergencies. Our commonsense bill makes sure this fundamental, essential tool doesn't get lost on the dial. With 
+
+## PFAS Increase Likelihood of Death By Cardiovascular Disease, Study Shows
+ - [https://science.slashdot.org/story/24/05/01/236221/pfas-increase-likelihood-of-death-by-cardiovascular-disease-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/05/01/236221/pfas-increase-likelihood-of-death-by-cardiovascular-disease-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T03:03:54.673906+00:00
+
+New submitter berghem shares a report from The Guardian: For the first time, researchers have formally shown that exposure to toxic PFAS increases the likelihood of death by cardiovascular disease, adding a new level of concern to the controversial chemicals' wide use. The findings are especially significant because proving an association with death by chemical exposure is difficult, but researchers were able to establish it by reviewing death records from northern Italy's Veneto region, where many residents for decades drank water highly contaminated with PFAS, also called "forever chemicals." Records further showed an increased likelihood of death from several cancers, but stopped short of establishing a formal association because of other factors. [...]
+ 
+Veneto's drinking water was widely contaminated by a PFAS-production plant between 1985 and 2018. Researchers first found an excess of about 4,000 deaths during this period, or about one every three days. Part of the region was su
+
+## Google Lays Off Hundreds of 'Core' Employees, Moves Some Positions To India and Mexico
+ - [https://tech.slashdot.org/story/24/05/01/2258218/google-lays-off-hundreds-of-core-employees-moves-some-positions-to-india-and-mexico?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/01/2258218/google-lays-off-hundreds-of-core-employees-moves-some-positions-to-india-and-mexico?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T01:58:33.267261+00:00
+
+According to CNBC, Google is laying off at least 200 employees from its "Core" teams and moving some roles to India and Mexico. From the report: The Core unit is responsible for building the technical foundation behind the company's flagship products and for protecting users' online safety, according to Google's website. Core teams include key technical units from information technology, its Python developer team, technical infrastructure, security foundation, app platforms, core developers, and various engineering roles. At least 50 of the positions eliminated were in engineering at the company's offices in Sunnyvale, California, filings show. Many Core teams will hire corresponding roles in Mexico and India, according to internal documents viewed by CNBC.
+ 
+Asim Husain, vice president of Google Developer Ecosystem, announced news of the layoffs to his team in an email last week. He also spoke at a town hall and told employees that this was the biggest planned reduction for his team 
+
+## Congress Lets Broadband Funding Run Out, Ending $30 Low-Income Discounts
+ - [https://tech.slashdot.org/story/24/05/01/2115225/congress-lets-broadband-funding-run-out-ending-30-low-income-discounts?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/01/2115225/congress-lets-broadband-funding-run-out-ending-30-low-income-discounts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T00:54:12.711860+00:00
+
+An anonymous reader quotes a report from Ars Technica: The Federal Communications Commission chair today made a final plea to Congress, asking for money to continue a broadband-affordability program that gave out its last round of $30 discounts to people with low incomes in April. The Affordable Connectivity Program (ACP) has lowered monthly Internet bills for people who qualify for benefits, but Congress allowed funding to run out. People may receive up to $14 in May if their ISP opted into offering a partial discount during the program's final month. After that there will be no financial help for the 23 million households enrolled in the program.
+ 
+"Additional funding from Congress is the only near-term solution for keeping the ACP going," FCC Chairwoman Jessica Rosenworcel wrote in a letter to members of Congress today. "If additional funding is not promptly appropriated, the one in six households nationwide that rely on this program will face rising bills and increasing disconnect
+
+## Unity Appoints Ex-Zynga Exec Matthew Bromberg As CEO
+ - [https://games.slashdot.org/story/24/05/01/2238224/unity-appoints-ex-zynga-exec-matthew-bromberg-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/05/01/2238224/unity-appoints-ex-zynga-exec-matthew-bromberg-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-02T00:54:09.193659+00:00
+
+Unity has appointed Matthew Bromberg, former CEO of Zynga, as its new CEO, president and board member. "Filling a role that has been temporarily filled by former Red Hat CEO Jim Whitehurst, Bromberg will formally join Unity as CEO on May 15," reports VentureBeat. "Whitehurst will serve as executive chair of the Unity board, and Roelof Botha will transition from chairman to lead independent board member." From the report: Bromberg fills a slot vacated by John Riccitiello, who resigned last fall after a pricing debacle that left game developers extremely angry at Unity. They calmed down after Unity walked back major parts of the price increase. It's an important time for Unity as it is about to ship Unity 6, the latest version of its game engine, in competition with Epic Games' Unreal Engine 5.4. Whitehurst will also return to Silver Lake, one of Unity's two largest shareholders, where he had previously been a senior advisor and will now join as a managing director leading both operatin
+
