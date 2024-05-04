@@ -1,0 +1,56 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed, language:en-US
+
+## Watch: Illegals storm the Michigan state capital and DEMAND driver‚Äôs licenses
+ - [https://www.louderwithcrowder.com/drivers-licenses-michigan](https://www.louderwithcrowder.com/drivers-licenses-michigan)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-05-03T18:32:26+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=52170117&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C396%2C0" /><br /><br /><p>Michigan is not California, the state does not allow people who have broken federal immigration laws to get a driver's license or state ID. But the left has encouraged these people to such a great degree, that many of them now feel entitled to rights even though they should not even be here.<br /></p><p>Thus, a bunch of illegal immigrants stormed the Michigan State Capital on Wednesday, demanding driver‚Äôs licenses. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> ‚Äî  (@)
+        <a href="https://twitter.com/annaliznichols/status/1785720701195870390"></a>
+</blockquote>
+<p>Half of them don't even respect this country enough to learn English, as they pathetically scream in Spanglish: "What do we want? Driver's licenses! When do we want it? Now!" </p><p><a href="https://thepostmillennial.com/ill
+
+## Canada's building a NATIONAL MONUMENT dedicated to ‚Äúsurvivors‚Äù of the nation's ‚Äú2SLGBTQI+ purge‚Äù
+ - [https://www.louderwithcrowder.com/lgbt-purge-monument](https://www.louderwithcrowder.com/lgbt-purge-monument)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-05-03T17:45:15+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=52168629&amp;width=1200&amp;height=800&amp;coordinates=100%2C0%2C100%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Every day we get more and more demands from the left instructing that we not only affirm one‚Äôs sexual preferences but glorify them as if these people have accomplished something significant. But just because your preference is in the minority, does not de facto turn it into something worthy of celebration. </p><p>Nonetheless, Progressives don‚Äôt do anything but destroy what they get their hands on. This is why they celebrate things that are unworthy of celebration. Thus, Canada has begun constructing a national monument that will honor ‚Äúsurvivors‚Äù
+
+## Baby Boom: Officers At Kentucky Sheriff's Office Celebrate 15 New Babies In One Year
+ - [https://www.louderwithcrowder.com/burlington-baby-boom](https://www.louderwithcrowder.com/burlington-baby-boom)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-05-03T16:43:28+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=52168285&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C0%2C12" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>With all the awful news lately, please enjoy this overload of cuteness. </p><p>Policing is one of the hardest jobs, as it takes a patient person to deal with society's biggest degenerates. But this Kentucky Sheriff‚Äôs Department may have undergone one of the most challenging tasks known to man because one can only imagine what it took to take a group photo with 15 smiling babies and not one was throwing a tantrum.<br /></p><p>The Boone County Sheriff‚Äôs Office (BCSO) in Burlington, Kentucky is celebrating a Baby Boom after 15 officers welcomed a little on
+
+## Video captures trans student (aka, a boy) viciously attacks teen girl in high school bathroom before dragging her by her hair
+ - [https://www.louderwithcrowder.com/arcadia-trans-attack](https://www.louderwithcrowder.com/arcadia-trans-attack)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-05-03T16:00:01+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=52167791&amp;width=1200&amp;height=800&amp;coordinates=100%2C0%2C100%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Female-only spaces have been destroyed, along with the safety benefits that come with it. Subsequently, women no longer have that added protection they once had. The only requirement now for men to enter these spaces is to claim they feel a certain way. Although, no one can explain what it means to feel like a woman, that alleged gut feeling bypasses all safety rules women were once afforded. </p><p>A high school girl was reportedly assaulted at Arcadia High School in Rochester, New York. Video evidence allegedly shows that she was dragged by her hair th
+
+## Elon Musk drops atomic truth bomb on Robert DeNiro's moronic claim Trump is the next Hitler
+ - [https://www.louderwithcrowder.com/elon-musk-robert-de-niro](https://www.louderwithcrowder.com/elon-musk-robert-de-niro)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-05-03T13:49:14+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=52167104&amp;width=1200&amp;height=800&amp;coordinates=200%2C0%2C0%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Before Trump was elected president, the Left said he was going to be the next Hitler. During the presidency, Hitler. After his presidency, Hitler. Now that he is running for president again, you guessed it, Hitler. Robert De Niro was the latest to make the comparison, but this Elon Musk tweet should shut him up.</p><p>It won't. But it should.</p><p>De Niro, <a href="https://www.louderwithcrowder.com/de-niro-republicans-sinister" target="_blank">who has been doing his faux tough guy schtick against Trump since the last decade</a>, made the comments on MSNBC
+
+## Watch: Pro-Hamas dorks at Ole Miss run into a wall of patriotic frat bros singing OUR National Anthem
+ - [https://www.louderwithcrowder.com/ole-miss-national-athem](https://www.louderwithcrowder.com/ole-miss-national-athem)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-05-03T12:38:22+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=52166687&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Mr. Rogers famously said that when I was a boy and would see scary things in the news,  his mother would tell him to look for the helpers. You will always find people who are helping. I've found the people helping on college campuses across America. Or, across Real America. In NYC, LA, and DC the inmates are still running the asylum. But out in Real America, the heroes are wearing backward ball caps, crushing Claws, and popping Zyns.</p><p><a href="https://www.louderwithcrowder.com/unc-frat-dad-flag" target="_blank">Frat bros are the heroes that We The Peopl
+
+## Watch: As Joe Biden says there are very fine people on both sides of campus chaos, Trump delivers pizza to firefighters
+ - [https://www.louderwithcrowder.com/biden-addresses-college-protests](https://www.louderwithcrowder.com/biden-addresses-college-protests)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-05-03T11:43:59+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=52166301&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Thursday provided us yet another "these videos speak for themselves" glance at the 2024 presidential election between Joe Biden and Donald Trump. One candidate showed his respect to our first responders. The other gave a speech saying there are very fine people on both sides of the chaos plaguing college campuses across America.</p><p>We'll give you a minute to guess who is who.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="d2031" src="https://www.louderwithcrowder.com/media-library/image.gif?id=52166415
+
