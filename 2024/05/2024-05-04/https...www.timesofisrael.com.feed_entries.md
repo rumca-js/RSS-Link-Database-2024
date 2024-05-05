@@ -1,0 +1,263 @@
+# Source:The Times of Israel, URL:https://www.timesofisrael.com/feed, language:en-US
+
+## Bill to keep homeowners on ex-church land out of leaseholder limbo wins broad support
+ - [https://www.timesofisrael.com/bill-to-keep-homeowners-on-ex-church-land-out-of-leaseholder-limbo-wins-broad-support](https://www.timesofisrael.com/bill-to-keep-homeowners-on-ex-church-land-out-of-leaseholder-limbo-wins-broad-support)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T22:37:33+00:00
+
+<p>Jerusalemites unsure over future rights due to sale of plots say developer trying to push some apartment owners to buy out leases before Knesset cuffs ability to hike prices</p>
+<p>The post <a href="https://www.timesofisrael.com/bill-to-keep-homeowners-on-ex-church-land-out-of-leaseholder-limbo-wins-broad-support/">Bill to keep homeowners on ex-church land out of leaseholder limbo wins broad support</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2015/03/IMG_6927-1024x640.jpg" title="Bill to keep homeowners on ex-church land out of leaseholder limbo wins broad support" width="160" /></figure>
+
+## Irish, Swiss students join anti-Israel protest wave by staging campus encampments
+ - [https://www.timesofisrael.com/irish-swiss-students-join-anti-israel-protest-wave-by-staging-campus-encampments](https://www.timesofisrael.com/irish-swiss-students-join-anti-israel-protest-wave-by-staging-campus-encampments)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T20:44:43+00:00
+
+<p>Protesters at Trinity College Dublin and Lausanne University demand divestment from Jewish state over war against Hamas in Gaza</p>
+<p>The post <a href="https://www.timesofisrael.com/irish-swiss-students-join-anti-israel-protest-wave-by-staging-campus-encampments/">Irish, Swiss students join anti-Israel protest wave by staging campus encampments</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AFP__20240504__34QR8T9__v1__HighRes__SwitzerlandIsraelPalestinianConflictEducationDe-1024x640.jpg" title="Irish, Swiss students join anti-Israel protest wave by staging campus encampments" width="160" /></figure>
+
+## In the shadow of an anti-Israel encampment, Jewish GWU students rally against hate
+ - [https://www.timesofisrael.com/in-the-shadow-of-an-anti-israel-encampment-jewish-gwu-students-rally-against-hate](https://www.timesofisrael.com/in-the-shadow-of-an-anti-israel-encampment-jewish-gwu-students-rally-against-hate)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T20:44:26+00:00
+
+<p>As police spurn the DC school president's request to dismantle an occupied 'liberation zone' and antisemitism hotspot on campus, on Thursday, groups showed up in support of Israel</p>
+<p>The post <a href="https://www.timesofisrael.com/in-the-shadow-of-an-anti-israel-encampment-jewish-gwu-students-rally-against-hate/">In the shadow of an anti-Israel encampment, Jewish GWU students rally against hate</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/IMG_5646-e1714839180387-1024x640.jpeg" title="In the shadow of an anti-Israel encampment, Jewish GWU students rally against hate" width="160" /></figure>
+
+## The unexpected Michigan Senate race that could determine control of the chamber
+ - [https://www.timesofisrael.com/the-unexpected-michigan-senate-race-that-could-determine-control-of-the-chamber](https://www.timesofisrael.com/the-unexpected-michigan-senate-race-that-could-determine-control-of-the-chamber)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T20:43:41+00:00
+
+<p>Matchup between Democrat incumbent Elissa Slotkin and GOP's Mike Rogers could shape up as crucial, with Israel-Hamas war looming as one potential campaign focus point</p>
+<p>The post <a href="https://www.timesofisrael.com/the-unexpected-michigan-senate-race-that-could-determine-control-of-the-chamber/">The unexpected Michigan Senate race that could determine control of the chamber</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AP24124040793348-1024x640.jpg" title="The unexpected Michigan Senate race that could determine control of the chamber" width="160" /></figure>
+
+## National security adviser: Rafah op a sure thing, Sinwar ‘living on borrowed time’
+ - [https://www.timesofisrael.com/national-security-adviser-rafah-op-a-sure-thing-sinwar-living-on-borrowed-time](https://www.timesofisrael.com/national-security-adviser-rafah-op-a-sure-thing-sinwar-living-on-borrowed-time)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T20:43:39+00:00
+
+<p>'We're not begging for a deal,' PM's confidante Hanegbi tells Channel 12; says 2nd Intifada and Yom Kippur War were worse than current situation</p>
+<p>The post <a href="https://www.timesofisrael.com/national-security-adviser-rafah-op-a-sure-thing-sinwar-living-on-borrowed-time/">National security adviser: Rafah op a sure thing, Sinwar &#8216;living on borrowed time&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/Screenshot-2024-05-04-210525-e1714846105817-1024x640.png" title="National security adviser: Rafah op a sure thing, Sinwar &#8216;living on borrowed time&#8217;" width="160" /></figure>
+
+## Congressman shares clip of man making monkey gestures at Black anti-Israel protester
+ - [https://www.timesofisrael.com/congressman-shares-clip-of-man-making-monkey-gestures-at-black-anti-israel-protester](https://www.timesofisrael.com/congressman-shares-clip-of-man-making-monkey-gestures-at-black-anti-israel-protester)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T20:43:34+00:00
+
+<p>Republican Rep. Mike Collins draws backlash by posting clip of racist heckling at University of Mississippi with caption: 'Ole Miss taking care of business'</p>
+<p>The post <a href="https://www.timesofisrael.com/congressman-shares-clip-of-man-making-monkey-gestures-at-black-anti-israel-protester/">Congressman shares clip of man making monkey gestures at Black anti-Israel protester</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AP24124682179860-1024x640.jpg" title="Congressman shares clip of man making monkey gestures at Black anti-Israel protester" width="160" /></figure>
+
+## US Senate races increasingly roiled by divisions over anti-Israel campus protests
+ - [https://www.timesofisrael.com/us-senate-races-increasingly-roiled-by-divisions-over-anti-israel-campus-protests](https://www.timesofisrael.com/us-senate-races-increasingly-roiled-by-divisions-over-anti-israel-campus-protests)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T19:53:04+00:00
+
+<p>As campaign rhetoric sharpens, many Republicans slam rivals over inadequate response to antisemitic or pro-Hamas rhetoric, while Democrats seek to tread fine line</p>
+<p>The post <a href="https://www.timesofisrael.com/us-senate-races-increasingly-roiled-by-divisions-over-anti-israel-campus-protests/">US Senate races increasingly roiled by divisions over anti-Israel campus protests</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AP24122757976575-1024x640.jpg" title="US Senate races increasingly roiled by divisions over anti-Israel campus protests" width="160" /></figure>
+
+## Report: Anti-Israel campus protesters were prepped for months by outside activists
+ - [https://www.timesofisrael.com/report-anti-israel-campus-protesters-were-prepped-for-months-by-outside-activists](https://www.timesofisrael.com/report-anti-israel-campus-protesters-were-prepped-for-months-by-outside-activists)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T19:27:19+00:00
+
+<p>WSJ finds students consulted with and received training from groups that have supported Hamas and attacks on Israel; NYT finds pro-Israel protesters started clash at UCLA</p>
+<p>The post <a href="https://www.timesofisrael.com/report-anti-israel-campus-protesters-were-prepped-for-months-by-outside-activists/">Report: Anti-Israel campus protesters were prepped for months by outside activists</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AFP__20240502__34QN9MP__v1__HighRes__UsPalestinianIsraelConflictEducationDemonstrati-1024x640.jpg" title="Report: Anti-Israel campus protesters were prepped for months by outside activists" width="160" /></figure>
+
+## Daily Briefing May 4: Day 211 – Are US high schools the next Gaza war battleground?
+ - [https://www.timesofisrael.com/daily-briefing-may-4-day-211-are-us-high-schools-the-next-gaza-war-battleground](https://www.timesofisrael.com/daily-briefing-may-4-day-211-are-us-high-schools-the-next-gaza-war-battleground)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T18:51:52+00:00
+
+<p>US bureau chief Jacob Magid on media storm over a potential hostage release deal, US Secretary of State Blinken's insight into Netanyahu's leadership &#038; Hamas expulsion from Qatar</p>
+<p>The post <a href="https://www.timesofisrael.com/daily-briefing-may-4-day-211-are-us-high-schools-the-next-gaza-war-battleground/">Daily Briefing May 4: Day 211 &#8211; Are US high schools the next Gaza war battleground?</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AFP__20240503__2151329189__v1__HighRes__UniversityOfChicagoProPalestinianProtestEnca-1024x640.jpg" title="Daily Briefing May 4: Day 211 &#8211; Are US high schools the next Gaza war battleground?" width="160" /></figure>
+
+## 5 Palestinian gunmen killed, Israeli officer seriously hurt in 12-hour West Bank op
+ - [https://www.timesofisrael.com/5-palestinian-gunmen-killed-israeli-officer-seriously-hurt-in-12-hour-west-bank-op](https://www.timesofisrael.com/5-palestinian-gunmen-killed-israeli-officer-seriously-hurt-in-12-hour-west-bank-op)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T18:30:13+00:00
+
+<p>Troops raid town near Tulkarem to eliminate terror cell; airstrikes, shoulder-launched missiles, bulldozers used against building where suspects were holed up</p>
+<p>The post <a href="https://www.timesofisrael.com/5-palestinian-gunmen-killed-israeli-officer-seriously-hurt-in-12-hour-west-bank-op/">5 Palestinian gunmen killed, Israeli officer seriously hurt in 12-hour West Bank op</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AP24125453376543-1024x640.jpg" title="5 Palestinian gunmen killed, Israeli officer seriously hurt in 12-hour West Bank op" width="160" /></figure>
+
+## As some colleges make deals to end protests, critics say they’re incentivizing unrest
+ - [https://www.timesofisrael.com/as-some-colleges-make-deals-to-end-protests-critics-say-theyre-incentivizing-unrest](https://www.timesofisrael.com/as-some-colleges-make-deals-to-end-protests-critics-say-theyre-incentivizing-unrest)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T17:42:27+00:00
+
+<p>Certain Jewish community members unsatisfied with agreements that gave ground to anti-Israel activists, say they're 'watering and fertilizing seeds for more in the future'</p>
+<p>The post <a href="https://www.timesofisrael.com/as-some-colleges-make-deals-to-end-protests-critics-say-theyre-incentivizing-unrest/">As some colleges make deals to end protests, critics say they&#8217;re incentivizing unrest</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AP24121687984579-e1714575191741-1024x640.jpg" title="As some colleges make deals to end protests, critics say they&#8217;re incentivizing unrest" width="160" /></figure>
+
+## Agreeing to Gaza truce deal should be a ‘no-brainer’ for Hamas, Blinken says
+ - [https://www.timesofisrael.com/agreeing-to-gaza-truce-deal-should-be-a-no-brainer-for-hamas-blinken-says](https://www.timesofisrael.com/agreeing-to-gaza-truce-deal-should-be-a-no-brainer-for-hamas-blinken-says)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T15:41:46+00:00
+
+<p>US secretary of state says Israel has yet to present 'credible plan' for Rafah offensive, adds Netanyahu's handling of war reflects views of 'a large majority of Israelis'</p>
+<p>The post <a href="https://www.timesofisrael.com/agreeing-to-gaza-truce-deal-should-be-a-no-brainer-for-hamas-blinken-says/">Agreeing to Gaza truce deal should be a ‘no-brainer’ for Hamas, Blinken says</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AP24125241124723-1024x640.jpg" title="Agreeing to Gaza truce deal should be a ‘no-brainer’ for Hamas, Blinken says" width="160" /></figure>
+
+## NYPD official: Items found at Columbia show protesters were far from benign
+ - [https://www.timesofisrael.com/nypd-official-items-found-at-columbia-show-protesters-were-far-from-peaceful](https://www.timesofisrael.com/nypd-official-items-found-at-columbia-show-protesters-were-far-from-peaceful)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T14:14:56+00:00
+
+<p>Gas masks, knives, 'Death to America' pamphlet recovered after dispersing pro-Palestinian students who occupied campus building; Jewish alums: Critics of crackdown 'a disgrace'</p>
+<p>The post <a href="https://www.timesofisrael.com/nypd-official-items-found-at-columbia-show-protesters-were-far-from-peaceful/">NYPD official: Items found at Columbia show protesters were far from benign</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/AP24121392718640-1024x640.jpg" title="NYPD official: Items found at Columbia show protesters were far from benign" width="160" /></figure>
+
+## Hamas indicates it may agree to deal; Israeli official insists truce won’t end the war
+ - [https://www.timesofisrael.com/hamas-indicates-it-may-agree-to-deal-israeli-official-insists-truce-wont-end-the-war](https://www.timesofisrael.com/hamas-indicates-it-may-agree-to-deal-israeli-official-insists-truce-wont-end-the-war)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T14:13:45+00:00
+
+<p>Gantz retorts to Israeli source: Avoid 'hysterical, political' statements; sources cited by media say terror group has US assurances 3rd phase of truce will lead to conflict's end</p>
+<p>The post <a href="https://www.timesofisrael.com/hamas-indicates-it-may-agree-to-deal-israeli-official-insists-truce-wont-end-the-war/">Hamas indicates it may agree to deal; Israeli official insists truce won&#8217;t end the war</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AFP__20240504__34QU6AQ__v1__HighRes__PalestinianIsraelConflict-1024x640.jpg" title="Hamas indicates it may agree to deal; Israeli official insists truce won&#8217;t end the war" width="160" /></figure>
+
+## Uprooted: Brit Gilad, 38, from Kibbutz Tzivon near Lebanon. This is her story
+ - [https://www.timesofisrael.com/uprooted-brit-gilad-38-from-kibbutz-tzivon-near-lebanon-this-is-her-story](https://www.timesofisrael.com/uprooted-brit-gilad-38-from-kibbutz-tzivon-near-lebanon-this-is-her-story)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T13:37:26+00:00
+
+<p>Married mother of two, a homeopath and author, evacuated to Rosh Pina in the north ● This is her story</p>
+<p>The post <a href="https://www.timesofisrael.com/uprooted-brit-gilad-38-from-kibbutz-tzivon-near-lebanon-this-is-her-story/">Uprooted: Brit Gilad, 38, from Kibbutz Tzivon near Lebanon. This is her story</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/0O8A2216-1024x640.jpg" title="Uprooted: Brit Gilad, 38, from Kibbutz Tzivon near Lebanon. This is her story" width="160" /></figure>
+
+## Netherlands restricts access to WWII ceremony amid concerns of Gaza war protests
+ - [https://www.timesofisrael.com/netherlands-restricts-access-to-wwii-ceremony-amid-concerns-of-gaza-war-protests](https://www.timesofisrael.com/netherlands-restricts-access-to-wwii-ceremony-amid-concerns-of-gaza-war-protests)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T11:57:23+00:00
+
+<p>10,000 pre-registered people will undergo searches before they can attend annual memorial event</p>
+<p>The post <a href="https://www.timesofisrael.com/netherlands-restricts-access-to-wwii-ceremony-amid-concerns-of-gaza-war-protests/">Netherlands restricts access to WWII ceremony amid concerns of Gaza war protests</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AP22124703943736-1024x640.jpg" title="Netherlands restricts access to WWII ceremony amid concerns of Gaza war protests" width="160" /></figure>
+
+## 5 US Jewish orgs boycott education secretary call over presence of progressive groups
+ - [https://www.timesofisrael.com/5-us-jewish-orgs-boycott-education-secretary-call-over-presence-of-progressive-groups](https://www.timesofisrael.com/5-us-jewish-orgs-boycott-education-secretary-call-over-presence-of-progressive-groups)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T11:27:43+00:00
+
+<p>Cardona makes second antisemitism presentation after Jewish Federations of North America, ADL, Conference of Presidents refuse to attend the first one</p>
+<p>The post <a href="https://www.timesofisrael.com/5-us-jewish-orgs-boycott-education-secretary-call-over-presence-of-progressive-groups/">5 US Jewish orgs boycott education secretary call over presence of progressive groups</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AP24121584985690-e1714817122299-1024x640.jpg" title="5 US Jewish orgs boycott education secretary call over presence of progressive groups" width="160" /></figure>
+
+## Armed Gazan gangs, some thought tied to Hamas, steal $70 million from Bank of Palestine
+ - [https://www.timesofisrael.com/armed-gazan-gangs-some-thought-tied-to-hamas-steal-70-million-from-bank-of-palestine](https://www.timesofisrael.com/armed-gazan-gangs-some-thought-tied-to-hamas-steal-70-million-from-bank-of-palestine)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T10:52:33+00:00
+
+<p>French daily Le Monde reports funds taken from the vaults of several branches in the Strip by groups armed with explosives, commandos who answer to 'Gaza's highest authorities'</p>
+<p>The post <a href="https://www.timesofisrael.com/armed-gazan-gangs-some-thought-tied-to-hamas-steal-70-million-from-bank-of-palestine/">Armed Gazan gangs, some thought tied to Hamas, steal $70 million from Bank of Palestine</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AFP__20180515__14Y9E8__v7__HighRes__PalestinianIsraelGazaConflict-e1714818888733-1024x640.jpg" title="Armed Gazan gangs, some thought tied to Hamas, steal $70 million from Bank of Palestine" width="160" /></figure>
+
+## US House Democrats urge Biden to push Israel on war conduct, mull halting arms sales
+ - [https://www.timesofisrael.com/us-house-democrats-urge-biden-to-push-israel-on-war-conduct-mull-halting-arms-sales](https://www.timesofisrael.com/us-house-democrats-urge-biden-to-push-israel-on-war-conduct-mull-halting-arms-sales)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T10:18:41+00:00
+
+<p>Letter from 88 members of US Congress says that any potential pause on funding should not include missile defense systems such as Iron Dome</p>
+<p>The post <a href="https://www.timesofisrael.com/us-house-democrats-urge-biden-to-push-israel-on-war-conduct-mull-halting-arms-sales/">US House Democrats urge Biden to push Israel on war conduct, mull halting arms sales</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AP24124852144436-e1714811655429-1024x640.jpg" title="US House Democrats urge Biden to push Israel on war conduct, mull halting arms sales" width="160" /></figure>
+
+## ‘Never again is now!’: Hostages’ families to rally ahead of Holocaust Remembrance Day
+ - [https://www.timesofisrael.com/never-again-is-now-hostages-families-to-rally-ahead-of-holocaust-remembrance-day](https://www.timesofisrael.com/never-again-is-now-hostages-families-to-rally-ahead-of-holocaust-remembrance-day)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T08:47:52+00:00
+
+<p>Saturday evening demonstration to focus on captives related to survivors of WWII Nazi genocide; anti-government protests to be held at Tel Aviv's Kaplan Street and nationwide</p>
+<p>The post <a href="https://www.timesofisrael.com/never-again-is-now-hostages-families-to-rally-ahead-of-holocaust-remembrance-day/">&#8216;Never again is now!&#8217;: Hostages&#8217; families to rally ahead of Holocaust Remembrance Day</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AP24120654651350-1024x640.jpg" title="&#8216;Never again is now!&#8217;: Hostages&#8217; families to rally ahead of Holocaust Remembrance Day" width="160" /></figure>
+
+## Sanctions, hobbled economy pull rug out from under Iran’s traditional carpet weavers
+ - [https://www.timesofisrael.com/sanctions-hobbled-economy-pull-rug-out-from-under-irans-traditional-carpet-weavers](https://www.timesofisrael.com/sanctions-hobbled-economy-pull-rug-out-from-under-irans-traditional-carpet-weavers)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T07:20:43+00:00
+
+<p>Slump in high-value tourists additionally reduces trade, with those who visit Iran additionally unable to use international credit cards</p>
+<p>The post <a href="https://www.timesofisrael.com/sanctions-hobbled-economy-pull-rug-out-from-under-irans-traditional-carpet-weavers/">Sanctions, hobbled economy pull rug out from under Iran&#8217;s traditional carpet weavers</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AP24123587747615-e1714803368929-1024x640.jpg" title="Sanctions, hobbled economy pull rug out from under Iran&#8217;s traditional carpet weavers" width="160" /></figure>
+
+## Qatar anticipating US request to expel Hamas leaders, is open to doing so — source
+ - [https://www.timesofisrael.com/qatar-anticipating-us-request-to-expel-hamas-leaders-is-open-to-doing-so-source](https://www.timesofisrael.com/qatar-anticipating-us-request-to-expel-hamas-leaders-is-open-to-doing-so-source)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T06:03:15+00:00
+
+<p>US official says Blinken told Al-Thani last month that Doha should kick out terror officials if they continue to reject hostage deal proposals</p>
+<p>The post <a href="https://www.timesofisrael.com/qatar-anticipating-us-request-to-expel-hamas-leaders-is-open-to-doing-so-source/">Qatar anticipating US request to expel Hamas leaders, is open to doing so &#8212; source</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/01/Qatar-government-handout-3-1024x640.jpg" title="Qatar anticipating US request to expel Hamas leaders, is open to doing so &#8212; source" width="160" /></figure>
+
+## Yom Hashoah to be marked 7 months after deadliest day for Jews since the Holocaust
+ - [https://www.timesofisrael.com/yom-hashoah-to-be-marked-7-months-after-deadliest-day-for-jews-since-the-holocaust](https://www.timesofisrael.com/yom-hashoah-to-be-marked-7-months-after-deadliest-day-for-jews-since-the-holocaust)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T05:04:37+00:00
+
+<p>March of the Living to be led by 55 Holocaust survivors, including 7 also affected by Oct. 7; while some double-survivors draw line between two experiences, others caution against</p>
+<p>The post <a href="https://www.timesofisrael.com/yom-hashoah-to-be-marked-7-months-after-deadliest-day-for-jews-since-the-holocaust/">Yom Hashoah to be marked 7 months after deadliest day for Jews since the Holocaust</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AFP__20220428__32962WM__v5__HighRes__TopshotPolandGermanyHistoryWwiiJewsHolocaust-e1714797151113-1024x640.jpg" title="Yom Hashoah to be marked 7 months after deadliest day for Jews since the Holocaust" width="160" /></figure>
+
+## The amazing true story of a baby illegally born and smuggled out of Kovno ghetto
+ - [https://www.timesofisrael.com/the-amazing-true-story-of-a-baby-illegally-born-and-smuggled-out-of-kovno-ghetto](https://www.timesofisrael.com/the-amazing-true-story-of-a-baby-illegally-born-and-smuggled-out-of-kovno-ghetto)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T04:10:15+00:00
+
+<p>Elida Freidman Goldberg Katzman changed names, families, countries and continents numerous times as she grappled until her premature death with being a Holocaust orphan from birth</p>
+<p>The post <a href="https://www.timesofisrael.com/the-amazing-true-story-of-a-baby-illegally-born-and-smuggled-out-of-kovno-ghetto/">The amazing true story of a baby illegally born and smuggled out of Kovno ghetto</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/elida-in-the-farm-no-2-1024x640.jpeg" title="The amazing true story of a baby illegally born and smuggled out of Kovno ghetto" width="160" /></figure>
+
+## Berlin offers to give away villa once owned by Nazi propaganda chief Goebbels
+ - [https://www.timesofisrael.com/berlin-offers-to-give-away-villa-once-owned-by-nazi-propaganda-chief-goebbels](https://www.timesofisrael.com/berlin-offers-to-give-away-villa-once-owned-by-nazi-propaganda-chief-goebbels)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T03:59:03+00:00
+
+<p>Local government says it will have 'no other option' but to demolish building if it again fails to pawn off dilapidated complex</p>
+<p>The post <a href="https://www.timesofisrael.com/berlin-offers-to-give-away-villa-once-owned-by-nazi-propaganda-chief-goebbels/">Berlin offers to give away villa once owned by Nazi propaganda chief Goebbels</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AFP__20160115__745BD__v1__HighRes__GermanyHistoryWwiiNaziRealEstate-1-e1714794526250-1024x640.jpg" title="Berlin offers to give away villa once owned by Nazi propaganda chief Goebbels" width="160" /></figure>
+
+## Skeletons without hands or feet unearthed at Hitler’s WWII bunker
+ - [https://www.timesofisrael.com/skeletons-without-hands-or-feet-unearthed-at-hitlers-wwii-bunker](https://www.timesofisrael.com/skeletons-without-hands-or-feet-unearthed-at-hitlers-wwii-bunker)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T02:44:00+00:00
+
+<p>Group of amateur archaeologists who found remains at Wolf's Lair says unclear whether the skeletons were from the war or buried there later</p>
+<p>The post <a href="https://www.timesofisrael.com/skeletons-without-hands-or-feet-unearthed-at-hitlers-wwii-bunker/">Skeletons without hands or feet unearthed at Hitler&#8217;s WWII bunker</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2019/08/AP_948858684406-e1564773805811-1024x640.jpg" title="Skeletons without hands or feet unearthed at Hitler&#8217;s WWII bunker" width="160" /></figure>
+
+## A Jewish photographer’s rare images of an early Holocaust transport are now online
+ - [https://www.timesofisrael.com/a-jewish-photographers-rare-images-of-an-early-holocaust-transport-are-now-online](https://www.timesofisrael.com/a-jewish-photographers-rare-images-of-an-early-holocaust-transport-are-now-online)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T02:21:20+00:00
+
+<p>13 recently published images covertly taken in Breslau, Silesia, in November 1941 show one of Germany's first deportations of Jews through the lens of the victims and not the Nazis</p>
+<p>The post <a href="https://www.timesofisrael.com/a-jewish-photographers-rare-images-of-an-early-holocaust-transport-are-now-online/">A Jewish photographer&#8217;s rare images of an early Holocaust transport are now online</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/Fo-Dep-Breslau-1941-9-13-f-e1714674824358-1024x640.jpg" title="A Jewish photographer&#8217;s rare images of an early Holocaust transport are now online" width="160" /></figure>
+
+## Hamas delegation won’t give response to latest hostages-for-truce proposal — report
+ - [https://www.timesofisrael.com/liveblog-may-04-2024](https://www.timesofisrael.com/liveblog-may-04-2024)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T01:45:06+00:00
+
+<p>Palestinian source tells public broadcaster that officials visiting Cairo will reiterate terror group's demands * UN says all aid ‘accounted for’ after convoy briefly seized by Hamas</p>
+<p>The post <a href="https://www.timesofisrael.com/liveblog-may-04-2024/">Hamas delegation won’t give response to latest hostages-for-truce proposal — report</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AFP__20240503__34QR9W7__v1__HighRes__SraelPalestinianConflictHostages-1024x640.jpg" title="Hamas delegation won’t give response to latest hostages-for-truce proposal — report" width="160" /></figure>
+
+## Israel briefed US on plan to evacuate Gazans from Rafah before offensive — officials
+ - [https://www.timesofisrael.com/israel-briefed-us-on-plan-to-evacuate-gazans-from-rafah-before-offensive-officials](https://www.timesofisrael.com/israel-briefed-us-on-plan-to-evacuate-gazans-from-rafah-before-offensive-officials)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-05-04T00:53:05+00:00
+
+<p>US officials say details shared by Israel didn't change administration's view that operation would put too many non-combatants at risk, add Israeli plan still not finalized</p>
+<p>The post <a href="https://www.timesofisrael.com/israel-briefed-us-on-plan-to-evacuate-gazans-from-rafah-before-offensive-officials/">Israel briefed US on plan to evacuate Gazans from Rafah before offensive &#8212; officials</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/05/AFP__20240502__34QP2R8__v1__HighRes__IsraelPalestinianConflict-1-e1714783237824-1024x640.jpg" title="Israel briefed US on plan to evacuate Gazans from Rafah before offensive &#8212; officials" width="160" /></figure>
+

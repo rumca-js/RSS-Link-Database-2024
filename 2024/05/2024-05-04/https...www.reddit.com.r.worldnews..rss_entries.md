@@ -1,0 +1,310 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Israeli forces kill Hamas gunmen in overnight raid near West Bank&#x27;s Tulkarm
+ - [https://www.reddit.com/r/worldnews/comments/1ckbt0c/israeli_forces_kill_hamas_gunmen_in_overnight](https://www.reddit.com/r/worldnews/comments/1ckbt0c/israeli_forces_kill_hamas_gunmen_in_overnight)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T22:05:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ckbt0c/israeli_forces_kill_hamas_gunmen_in_overnight/"> <img alt="Israeli forces kill Hamas gunmen in overnight raid near West Bank&amp;#x27;s Tulkarm" src="https://external-preview.redd.it/t6bX7H7TJidUMRh5Ra6Tsw2TbzwQne95joTbz2KF3Fs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80e1478d0bb1228dea1e65b66881e8f4d4df879d" title="Israeli forces kill Hamas gunmen in overnight raid near West Bank&amp;#x27;s Tulkarm" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eminent_mowing"> /u/eminent_mowing </a> <br /> <span><a href="https://www.reuters.com/world/middle-east/israeli-forces-kill-three-palestinians-overnight-raid-near-west-banks-tulkarm-2024-05-04/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ckbt0c/israeli_forces_kill_hamas_gunmen_in_overnight/">[comments]</a></span> </td></tr></table>
+
+## Hamburg: Hundreds protest against 'caliphate' rally. The latest rally was organized by secular Islamic groups
+ - [https://www.reddit.com/r/worldnews/comments/1ck9h19/hamburg_hundreds_protest_against_caliphate_rally](https://www.reddit.com/r/worldnews/comments/1ck9h19/hamburg_hundreds_protest_against_caliphate_rally)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T20:18:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck9h19/hamburg_hundreds_protest_against_caliphate_rally/"> <img alt="Hamburg: Hundreds protest against 'caliphate' rally. The latest rally was organized by secular Islamic groups" src="https://external-preview.redd.it/BhNt44H-DACE0G_kKc5eXAryUa0lfaJyhrLbXZQDTe8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f215277012f8921245a5102f427a6230aa08ccd7" title="Hamburg: Hundreds protest against 'caliphate' rally. The latest rally was organized by secular Islamic groups" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br /> <span><a href="https://www.dw.com/en/hamburg-hundreds-protest-against-caliphate-rally/a-68998121">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck9h19/hamburg_hundreds_protest_against_caliphate_rally/">[comments]</a></span> </td></tr></table>
+
+## Police remove pro-Palestine protesters from Paris university
+ - [https://www.reddit.com/r/worldnews/comments/1ck8t49/police_remove_propalestine_protesters_from_paris](https://www.reddit.com/r/worldnews/comments/1ck8t49/police_remove_propalestine_protesters_from_paris)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T19:49:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck8t49/police_remove_propalestine_protesters_from_paris/"> <img alt="Police remove pro-Palestine protesters from Paris university" src="https://external-preview.redd.it/Tr8SRJRuiXXN3htpT0NPOaHbKt2kR1ca1yhVq0GEg0o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=64e6b7e3e8e4259b49a6b64ef09fb21a27b8654a" title="Police remove pro-Palestine protesters from Paris university" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ClickTrue1735"> /u/ClickTrue1735 </a> <br /> <span><a href="https://www.euronews.com/2024/05/04/french-police-remove-pro-palestine-protesters-from-paris-university-building">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck8t49/police_remove_propalestine_protesters_from_paris/">[comments]</a></span> </td></tr></table>
+
+## Boeing to launch astronauts into space aboard new capsule
+ - [https://www.reddit.com/r/worldnews/comments/1ck7n3r/boeing_to_launch_astronauts_into_space_aboard_new](https://www.reddit.com/r/worldnews/comments/1ck7n3r/boeing_to_launch_astronauts_into_space_aboard_new)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T18:58:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck7n3r/boeing_to_launch_astronauts_into_space_aboard_new/"> <img alt="Boeing to launch astronauts into space aboard new capsule" src="https://external-preview.redd.it/Lzlub7Wx4vv_IuqWDz3rTAdlGDH6Mh0-SLSADmxIBJ0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d67c391ce7dafdc71da857e7ae9df08b073cff8b" title="Boeing to launch astronauts into space aboard new capsule" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lunavenandi"> /u/Lunavenandi </a> <br /> <span><a href="https://globalnews.ca/news/10469575/boeing-space-capsule-astronauts-nasa/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck7n3r/boeing_to_launch_astronauts_into_space_aboard_new/">[comments]</a></span> </td></tr></table>
+
+## Israel insists: End to the war not part of hostage deal as Hamas is set to accept
+ - [https://www.reddit.com/r/worldnews/comments/1ck74ui/israel_insists_end_to_the_war_not_part_of_hostage](https://www.reddit.com/r/worldnews/comments/1ck74ui/israel_insists_end_to_the_war_not_part_of_hostage)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T18:35:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck74ui/israel_insists_end_to_the_war_not_part_of_hostage/"> <img alt="Israel insists: End to the war not part of hostage deal as Hamas is set to accept" src="https://external-preview.redd.it/jJl-8lstfS99QYh3oHrq9x7OI317yvetI-szjJqEBp0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b2e5ff0029709690f4596e1cb6933492764c22d7" title="Israel insists: End to the war not part of hostage deal as Hamas is set to accept" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/franktomi"> /u/franktomi </a> <br /> <span><a href="https://allisrael.com/israel-insists-end-to-the-war-not-part-of-hostage-deal-as-hamas-is-set-to-accept">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck74ui/israel_insists_end_to_the_war_not_part_of_hostage/">[comments]</a></span> </td></tr></table>
+
+## Cuba sentences 22yo mother to 15 years in prison for publishing video of police violence during 2022 protests
+ - [https://www.reddit.com/r/worldnews/comments/1ck618k/cuba_sentences_22yo_mother_to_15_years_in_prison](https://www.reddit.com/r/worldnews/comments/1ck618k/cuba_sentences_22yo_mother_to_15_years_in_prison)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T17:46:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck618k/cuba_sentences_22yo_mother_to_15_years_in_prison/"> <img alt="Cuba sentences 22yo mother to 15 years in prison for publishing video of police violence during 2022 protests" src="https://external-preview.redd.it/aWLvU4ehAscI0qHZthD3nILRxznakd-6tAKEPqNxKFA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3159056c2dccb6cf92b0f6b3575c22aef6a19575" title="Cuba sentences 22yo mother to 15 years in prison for publishing video of police violence during 2022 protests" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/advance512"> /u/advance512 </a> <br /> <span><a href="https://english.elpais.com/international/2024-05-02/cuba-sentences-22-year-old-mother-to-15-years-in-prison-for-publishing-videos-of-protests.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck618k/cuba_sentences_22yo_mother_to_15_years_in_prison/">[comments]</a></span> </td></tr><
+
+## Kremlin says Ukraine targeting forces in Crimea with U.S.-made mobile missiles - UPI.com
+ - [https://www.reddit.com/r/worldnews/comments/1ck5eto/kremlin_says_ukraine_targeting_forces_in_crimea](https://www.reddit.com/r/worldnews/comments/1ck5eto/kremlin_says_ukraine_targeting_forces_in_crimea)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T17:19:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck5eto/kremlin_says_ukraine_targeting_forces_in_crimea/"> <img alt="Kremlin says Ukraine targeting forces in Crimea with U.S.-made mobile missiles - UPI.com" src="https://external-preview.redd.it/TPTgFZmCChOlGywLEwJAgmby7B01U-KGeqRddQgxzjk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb71eaea2ab1534c43258b373544bb7854263e38" title="Kremlin says Ukraine targeting forces in Crimea with U.S.-made mobile missiles - UPI.com" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/None_4All"> /u/None_4All </a> <br /> <span><a href="https://www.upi.com/Top_News/World-News/2024/05/04/world-Ukraine-ATACMS-missiles-Russia-Crimea/8501714834424/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck5eto/kremlin_says_ukraine_targeting_forces_in_crimea/">[comments]</a></span> </td></tr></table>
+
+## Poland says it too targeted in Russian cyberattacks across Europe
+ - [https://www.reddit.com/r/worldnews/comments/1ck4nzn/poland_says_it_too_targeted_in_russian](https://www.reddit.com/r/worldnews/comments/1ck4nzn/poland_says_it_too_targeted_in_russian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T16:45:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck4nzn/poland_says_it_too_targeted_in_russian/"> <img alt="Poland says it too targeted in Russian cyberattacks across Europe" src="https://external-preview.redd.it/UTndviakiWiqvjGF4UgyioP_IvYF6kFSe_VAasCkMFU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=414052dcaa82a0c2e8e0206c487894e237e5b85a" title="Poland says it too targeted in Russian cyberattacks across Europe" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Visual-Explorer-111"> /u/Visual-Explorer-111 </a> <br /> <span><a href="https://www.upi.com/Top_News/World-News/2024/05/04/poland-targeted-russian-hacker-group-fancy-bear/3471714838602/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck4nzn/poland_says_it_too_targeted_in_russian/">[comments]</a></span> </td></tr></table>
+
+## Jessica Seinfeld and Bill Ackman Fund Pro-Israel Counterprotests at Colleges
+ - [https://www.reddit.com/r/worldnews/comments/1ck4ksu/jessica_seinfeld_and_bill_ackman_fund_proisrael](https://www.reddit.com/r/worldnews/comments/1ck4ksu/jessica_seinfeld_and_bill_ackman_fund_proisrael)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T16:41:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck4ksu/jessica_seinfeld_and_bill_ackman_fund_proisrael/"> <img alt="Jessica Seinfeld and Bill Ackman Fund Pro-Israel Counterprotests at Colleges" src="https://external-preview.redd.it/wfYHgIZYVy2JP1p_fOfCcvWFFZbifBJKgIp-wHcp2Ro.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=149ad5ea09da993ce82bec376fb2df41a5a46afd" title="Jessica Seinfeld and Bill Ackman Fund Pro-Israel Counterprotests at Colleges" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InterstellarOwls"> /u/InterstellarOwls </a> <br /> <span><a href="https://uk.news.yahoo.com/jessica-seinfeld-bill-ackman-fund-200308497.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAALpmjQZxI1kTd9ZHSKhyEchkJ31454SfJn-x2degw_cATfL-JUOZCGp2_1Ca9r7tRsHYxBgozw0E3Pe2WtH0QN8hTDyPmmGn7_7hlbDVmuDV8pLTV9-gYsS3mQppVAVi3xXQpy6OYivcclECM2AZ9Rc-KkDVfl9OSjUBvDinL40L">[link]</a></span> &#32; <span><a href="h
+
+## Reportedly, Kaspersky’s AI Used in Russian Military Drones
+ - [https://www.reddit.com/r/worldnews/comments/1ck4gj0/reportedly_kasperskys_ai_used_in_russian_military](https://www.reddit.com/r/worldnews/comments/1ck4gj0/reportedly_kasperskys_ai_used_in_russian_military)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T16:36:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck4gj0/reportedly_kasperskys_ai_used_in_russian_military/"> <img alt="Reportedly, Kaspersky’s AI Used in Russian Military Drones" src="https://external-preview.redd.it/zSuZvo-C0wFfOLHn44Q81JVh8xCMIb_724k4ZI_qPWk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf4be5e7295b7c30cfcb61fa1970f223ccbe8f3e" title="Reportedly, Kaspersky’s AI Used in Russian Military Drones" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Various-Falcon9147"> /u/Various-Falcon9147 </a> <br /> <span><a href="https://thetechbasic.com/2024/05/04/reportedly-kasperskys-ai-used-in-russian-military-drones/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck4gj0/reportedly_kasperskys_ai_used_in_russian_military/">[comments]</a></span> </td></tr></table>
+
+## Palestinians in the Israeli-occupied West Bank say armed Jewish settlers are increasingly seizing their lands by bringing livestock to so-called shepherding outposts and refusing to leave
+ - [https://www.reddit.com/r/worldnews/comments/1ck49h3/palestinians_in_the_israelioccupied_west_bank_say](https://www.reddit.com/r/worldnews/comments/1ck49h3/palestinians_in_the_israelioccupied_west_bank_say)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T16:28:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck49h3/palestinians_in_the_israelioccupied_west_bank_say/"> <img alt="Palestinians in the Israeli-occupied West Bank say armed Jewish settlers are increasingly seizing their lands by bringing livestock to so-called shepherding outposts and refusing to leave" src="https://external-preview.redd.it/Ks-Uc5B4HAQsrp5C1CQQbCn0RVDCH5aoGUnoDCmgclo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0602b905234433e2aad6956098500dae682b94d0" title="Palestinians in the Israeli-occupied West Bank say armed Jewish settlers are increasingly seizing their lands by bringing livestock to so-called shepherding outposts and refusing to leave" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br /> <span><a href="https://www.france24.com/en/live-news/20240504-guns-and-sheep-settlers-use-shepherding-outposts-to-seize-west-bank-land">[link]</a></span> &#32; <span><a href="
+
+## UK gives Ukraine green light to use British weapons inside Russia
+ - [https://www.reddit.com/r/worldnews/comments/1ck3evx/uk_gives_ukraine_green_light_to_use_british](https://www.reddit.com/r/worldnews/comments/1ck3evx/uk_gives_ukraine_green_light_to_use_british)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T15:51:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck3evx/uk_gives_ukraine_green_light_to_use_british/"> <img alt="UK gives Ukraine green light to use British weapons inside Russia" src="https://external-preview.redd.it/jKy-QbPvDR8EMgE7VMGx6k5GswhgRoSk4UlBGIJhLEU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ad7c8da6977c970826a027fc8523cae9dfbef84" title="UK gives Ukraine green light to use British weapons inside Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br /> <span><a href="https://www.atlanticcouncil.org/blogs/ukrainealert/uk-gives-ukraine-green-light-to-use-british-weapons-inside-russia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck3evx/uk_gives_ukraine_green_light_to_use_british/">[comments]</a></span> </td></tr></table>
+
+## Sexual acts with wife, including oral or anal, not a rape, consent not needed: Madhya Pradesh HC
+ - [https://www.reddit.com/r/worldnews/comments/1ck29he/sexual_acts_with_wife_including_oral_or_anal_not](https://www.reddit.com/r/worldnews/comments/1ck29he/sexual_acts_with_wife_including_oral_or_anal_not)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T14:59:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck29he/sexual_acts_with_wife_including_oral_or_anal_not/"> <img alt="Sexual acts with wife, including oral or anal, not a rape, consent not needed: Madhya Pradesh HC" src="https://external-preview.redd.it/uOSmNDCveeYFtQ2MjVSNCmcUgZ-5p0BmYQ2gIFr1mqg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe7c88cdb2292aa9b3b016a0f0806d0fea13ea67" title="Sexual acts with wife, including oral or anal, not a rape, consent not needed: Madhya Pradesh HC" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/percevalgalaaz"> /u/percevalgalaaz </a> <br /> <span><a href="https://economictimes.indiatimes.com/news/india/sexual-acts-with-wife-including-oral-or-anal-not-a-rape-consent-not-needed-madhya-pradesh-hc/articleshow/109832866.cms?from=mdr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck29he/sexual_acts_with_wife_including_oral_or_anal_not/">[comments]</a></span> 
+
+## A candidate for Chancellor Olaf Scholz’s party in next month’s European elections was beaten up and seriously injured while campaigning in the city of Dresden
+ - [https://www.reddit.com/r/worldnews/comments/1ck276e/a_candidate_for_chancellor_olaf_scholzs_party_in](https://www.reddit.com/r/worldnews/comments/1ck276e/a_candidate_for_chancellor_olaf_scholzs_party_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T14:56:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck276e/a_candidate_for_chancellor_olaf_scholzs_party_in/"> <img alt="A candidate for Chancellor Olaf Scholz’s party in next month’s European elections was beaten up and seriously injured while campaigning in the city of Dresden" src="https://external-preview.redd.it/SU1eLIqFowTDnQbyvFusjqqvKkjbkLOxizo6bIbc2O4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bba6da61b6c79b2c11a108d7944ed5459d968349" title="A candidate for Chancellor Olaf Scholz’s party in next month’s European elections was beaten up and seriously injured while campaigning in the city of Dresden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/green_flash"> /u/green_flash </a> <br /> <span><a href="https://abcnews.go.com/International/wireStory/candidate-germanys-key-party-beaten-injured-campaigning-european-109925225">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck276e/a_candida
+
+## 150,000 Russian soldiers killed during full-scale invasion of Ukraine, France says
+ - [https://www.reddit.com/r/worldnews/comments/1ck1u6f/150000_russian_soldiers_killed_during_fullscale](https://www.reddit.com/r/worldnews/comments/1ck1u6f/150000_russian_soldiers_killed_during_fullscale)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T14:40:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck1u6f/150000_russian_soldiers_killed_during_fullscale/"> <img alt="150,000 Russian soldiers killed during full-scale invasion of Ukraine, France says" src="https://external-preview.redd.it/DEZpShJ1apjH9bt4rXRK-tPyqj6_589F6-hDt4usK8M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b36bd39feeb1529952ff4c1612d89a98aea874f" title="150,000 Russian soldiers killed during full-scale invasion of Ukraine, France says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yuri_2022"> /u/yuri_2022 </a> <br /> <span><a href="https://kyivindependent.com/150-000-russian-soldiers-killed-during-full-scale-invasion-of-ukraine-france-claims/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck1u6f/150000_russian_soldiers_killed_during_fullscale/">[comments]</a></span> </td></tr></table>
+
+## Hamas indicates it may agree to deal; Israeli official insists truce won’t end the war
+ - [https://www.reddit.com/r/worldnews/comments/1ck1plf/hamas_indicates_it_may_agree_to_deal_israeli](https://www.reddit.com/r/worldnews/comments/1ck1plf/hamas_indicates_it_may_agree_to_deal_israeli)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T14:34:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck1plf/hamas_indicates_it_may_agree_to_deal_israeli/"> <img alt="Hamas indicates it may agree to deal; Israeli official insists truce won’t end the war" src="https://external-preview.redd.it/3yyAXcVq9rKTmRtO4-uG9wnwLHn9X7Lw4y0yOLS7iVo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce68ca4083b9db47e329451d9c00d3c666fdb081" title="Hamas indicates it may agree to deal; Israeli official insists truce won’t end the war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pixelmonquest"> /u/pixelmonquest </a> <br /> <span><a href="https://www.timesofisrael.com/hamas-indicates-it-may-agree-to-deal-israeli-official-insists-truce-wont-end-the-war/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck1plf/hamas_indicates_it_may_agree_to_deal_israeli/">[comments]</a></span> </td></tr></table>
+
+## Georgia rocked by protests as government pushes Putin-style ‘foreign agent’ bill
+ - [https://www.reddit.com/r/worldnews/comments/1ck12vn/georgia_rocked_by_protests_as_government_pushes](https://www.reddit.com/r/worldnews/comments/1ck12vn/georgia_rocked_by_protests_as_government_pushes)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T14:04:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck12vn/georgia_rocked_by_protests_as_government_pushes/"> <img alt="Georgia rocked by protests as government pushes Putin-style ‘foreign agent’ bill" src="https://external-preview.redd.it/CsB7ebOlLYUHxH1fXCLS0-daJJtfgdJG1fK8mpMWTNU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=008a4c563aa55ec6e779539f8be0c539bf85bdcf" title="Georgia rocked by protests as government pushes Putin-style ‘foreign agent’ bill" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/M795"> /u/M795 </a> <br /> <span><a href="https://www.cnn.com/2024/05/03/europe/georgia-russia-foreign-agent-europe-intl/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck12vn/georgia_rocked_by_protests_as_government_pushes/">[comments]</a></span> </td></tr></table>
+
+## Russia puts Zelensky on wanted list
+ - [https://www.reddit.com/r/worldnews/comments/1ck0r2e/russia_puts_zelensky_on_wanted_list](https://www.reddit.com/r/worldnews/comments/1ck0r2e/russia_puts_zelensky_on_wanted_list)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T13:49:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck0r2e/russia_puts_zelensky_on_wanted_list/"> <img alt="Russia puts Zelensky on wanted list " src="https://external-preview.redd.it/ZoDnsa5ZLLlkDL4RMPt0Ssk1rWTdLtU487bVojY5OJw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2d78bb99b9cb7dc0042231f09a85b7cd8a62ae2" title="Russia puts Zelensky on wanted list " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shellfishb"> /u/shellfishb </a> <br /> <span><a href="https://novayagazeta.eu/articles/2024/05/04/russia-puts-zelensky-on-wanted-list-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck0r2e/russia_puts_zelensky_on_wanted_list/">[comments]</a></span> </td></tr></table>
+
+## Conservatives crushed by ‘worst local election result’ in years
+ - [https://www.reddit.com/r/worldnews/comments/1ck0nfk/conservatives_crushed_by_worst_local_election](https://www.reddit.com/r/worldnews/comments/1ck0nfk/conservatives_crushed_by_worst_local_election)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T13:43:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck0nfk/conservatives_crushed_by_worst_local_election/"> <img alt="Conservatives crushed by ‘worst local election result’ in years" src="https://external-preview.redd.it/wZRNUCAhns1CKHm3Id5K6d_IOLx87J3FMMPqgqG-BIc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=883369e2e9e6f012342212a9fde71bc84cab3a50" title="Conservatives crushed by ‘worst local election result’ in years" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BlitzOrion"> /u/BlitzOrion </a> <br /> <span><a href="https://www.theguardian.com/politics/article/2024/may/03/tories-face-worst-local-election-results-40-years-sunak-sunak">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck0nfk/conservatives_crushed_by_worst_local_election/">[comments]</a></span> </td></tr></table>
+
+## Germany's government seeks to launch marijuana sales pilot program through regulations instead of another bill, report says
+ - [https://www.reddit.com/r/worldnews/comments/1ck0j7e/germanys_government_seeks_to_launch_marijuana](https://www.reddit.com/r/worldnews/comments/1ck0j7e/germanys_government_seeks_to_launch_marijuana)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T13:37:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ck0j7e/germanys_government_seeks_to_launch_marijuana/"> <img alt="Germany's government seeks to launch marijuana sales pilot program through regulations instead of another bill, report says" src="https://external-preview.redd.it/qmpD9KAWC8CHWapzMeL5C8AYNh1ORfD4XVK_QYIdZ3Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8bb5cef519fd2160b761bc3b4c2703e04c7438c5" title="Germany's government seeks to launch marijuana sales pilot program through regulations instead of another bill, report says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OregonTripleBeam"> /u/OregonTripleBeam </a> <br /> <span><a href="https://www.marijuanamoment.net/germanys-government-seeks-to-launch-marijuana-sales-pilot-program-through-regulations-instead-of-another-bill-report-says/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ck0j7e/germanys_government_seeks_to_launch_mar
+
+## Saudi authorities forbid speaking out against normalization with Israel
+ - [https://www.reddit.com/r/worldnews/comments/1cjzwgf/saudi_authorities_forbid_speaking_out_against](https://www.reddit.com/r/worldnews/comments/1cjzwgf/saudi_authorities_forbid_speaking_out_against)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T13:05:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjzwgf/saudi_authorities_forbid_speaking_out_against/"> <img alt="Saudi authorities forbid speaking out against normalization with Israel" src="https://external-preview.redd.it/JfEWv4t0w896PM7MjkVseChoblUNB26iqBF5212attE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fae9b836576cb66d1968f7b3266483f01cfecab5" title="Saudi authorities forbid speaking out against normalization with Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yuri_2022"> /u/yuri_2022 </a> <br /> <span><a href="https://www.ynetnews.com/article/hyx00tuxgc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjzwgf/saudi_authorities_forbid_speaking_out_against/">[comments]</a></span> </td></tr></table>
+
+## Large-scale fire engulfs Berlin defense plant where air defense systems are manufactured, toxic smoke spreads over the city | УНН
+ - [https://www.reddit.com/r/worldnews/comments/1cjzr74/largescale_fire_engulfs_berlin_defense_plant](https://www.reddit.com/r/worldnews/comments/1cjzr74/largescale_fire_engulfs_berlin_defense_plant)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T12:58:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjzr74/largescale_fire_engulfs_berlin_defense_plant/"> <img alt="Large-scale fire engulfs Berlin defense plant where air defense systems are manufactured, toxic smoke spreads over the city | УНН" src="https://external-preview.redd.it/ecORVpr2G1jtu0fJW684Nv06mIj3HG8dhpmTdVPG9ww.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c58f18a8c39dcaf0a60b2e2166fedf9447c382c" title="Large-scale fire engulfs Berlin defense plant where air defense systems are manufactured, toxic smoke spreads over the city | УНН" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tjock_respektlos"> /u/tjock_respektlos </a> <br /> <span><a href="https://unn.ua/en/news/large-scale-fire-engulfs-berlin-defense-plant-where-air-defense-systems-are-manufactured-toxic-smoke-spreads-over-the-city">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjzr74/largescale_fire_engulfs_berlin_defens
+
+## Qatar anticipating US request to expel Hamas leaders, is open to doing so — source
+ - [https://www.reddit.com/r/worldnews/comments/1cjysoy/qatar_anticipating_us_request_to_expel_hamas](https://www.reddit.com/r/worldnews/comments/1cjysoy/qatar_anticipating_us_request_to_expel_hamas)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T12:07:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjysoy/qatar_anticipating_us_request_to_expel_hamas/"> <img alt="Qatar anticipating US request to expel Hamas leaders, is open to doing so — source" src="https://external-preview.redd.it/FoqZ3REmoB2bj6oMOTtQ0IcxOa_lYyrBsB99zdIivhU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6ac478b22879d42bea7c40da6d13b01847c4c14" title="Qatar anticipating US request to expel Hamas leaders, is open to doing so — source" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/franktomi"> /u/franktomi </a> <br /> <span><a href="https://www.timesofisrael.com/qatar-anticipating-us-request-to-expel-hamas-leaders-is-open-to-doing-so-source/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjysoy/qatar_anticipating_us_request_to_expel_hamas/">[comments]</a></span> </td></tr></table>
+
+## France and Japan agree to start talks on military cooperation deal
+ - [https://www.reddit.com/r/worldnews/comments/1cjykqi/france_and_japan_agree_to_start_talks_on_military](https://www.reddit.com/r/worldnews/comments/1cjykqi/france_and_japan_agree_to_start_talks_on_military)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T11:55:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjykqi/france_and_japan_agree_to_start_talks_on_military/"> <img alt="France and Japan agree to start talks on military cooperation deal" src="https://external-preview.redd.it/0yZr50rLbmE580wnBd45TqqicDnLexPpDmLHFuTr20g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e0d1f939b2ccfdfcf999aa9d6970971bae3bbeb0" title="France and Japan agree to start talks on military cooperation deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Johannes_P"> /u/Johannes_P </a> <br /> <span><a href="https://www.rfi.fr/en/france/20240503-france-and-japan-agree-to-start-talks-on-military-cooperation-deal">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjykqi/france_and_japan_agree_to_start_talks_on_military/">[comments]</a></span> </td></tr></table>
+
+## Japan says Biden's description of nation as xenophobic is 'unfortunate'
+ - [https://www.reddit.com/r/worldnews/comments/1cjya47/japan_says_bidens_description_of_nation_as](https://www.reddit.com/r/worldnews/comments/1cjya47/japan_says_bidens_description_of_nation_as)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T11:38:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjya47/japan_says_bidens_description_of_nation_as/"> <img alt="Japan says Biden's description of nation as xenophobic is 'unfortunate'" src="https://external-preview.redd.it/8NxdQrNkhzlTFNdC9bTqrIvtzj2sMuK6H9pk4cex6zY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=11ff2c6ee741b74f2cfb1633f4ea79c2b9ea02a4" title="Japan says Biden's description of nation as xenophobic is 'unfortunate'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Unusual-State1827"> /u/Unusual-State1827 </a> <br /> <span><a href="https://www.japantimes.co.jp/news/2024/05/04/japan/politics/tokyo-biden-xenophobia-response/#Echobox=1714800468">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjya47/japan_says_bidens_description_of_nation_as/">[comments]</a></span> </td></tr></table>
+
+## Armed Gazan gangs, some thought tied to Hamas, steal $70 million from Bank of Palestine
+ - [https://www.reddit.com/r/worldnews/comments/1cjy0vv/armed_gazan_gangs_some_thought_tied_to_hamas](https://www.reddit.com/r/worldnews/comments/1cjy0vv/armed_gazan_gangs_some_thought_tied_to_hamas)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T11:22:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjy0vv/armed_gazan_gangs_some_thought_tied_to_hamas/"> <img alt="Armed Gazan gangs, some thought tied to Hamas, steal $70 million from Bank of Palestine" src="https://external-preview.redd.it/LdwCr7Rq1YyttEWkFAVqgWiNj-AJn4fqO-xDKjvbrCk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3299a22a716c1c5b4d5440cb37f10202e0620047" title="Armed Gazan gangs, some thought tied to Hamas, steal $70 million from Bank of Palestine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/queenrossalina"> /u/queenrossalina </a> <br /> <span><a href="https://www.timesofisrael.com/armed-gazan-gangs-some-thought-tied-to-hamas-steal-70-million-from-bank-of-palestine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjy0vv/armed_gazan_gangs_some_thought_tied_to_hamas/">[comments]</a></span> </td></tr></table>
+
+## Clashes in Tbilisi continues over "foreign influence" bill
+ - [https://www.reddit.com/r/worldnews/comments/1cjxw4d/clashes_in_tbilisi_continues_over_foreign](https://www.reddit.com/r/worldnews/comments/1cjxw4d/clashes_in_tbilisi_continues_over_foreign)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T11:13:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjxw4d/clashes_in_tbilisi_continues_over_foreign/"> <img alt="Clashes in Tbilisi continues over &quot;foreign influence&quot; bill" src="https://external-preview.redd.it/sOP3kecdu1ipb_OJNFtdv-mz1aSadv7BLRV8gO7jS_w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bbdb08cee24ed2c3a6834c35a6f11eb3ab71bf47" title="Clashes in Tbilisi continues over &quot;foreign influence&quot; bill" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tarzan421"> /u/Tarzan421 </a> <br /> <span><a href="https://www.nytimes.com/2024/05/02/world/europe/georgia-protests.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjxw4d/clashes_in_tbilisi_continues_over_foreign/">[comments]</a></span> </td></tr></table>
+
+## Russian teenagers face criminal charges for burning the Bible on a grill
+ - [https://www.reddit.com/r/worldnews/comments/1cjw6an/russian_teenagers_face_criminal_charges_for](https://www.reddit.com/r/worldnews/comments/1cjw6an/russian_teenagers_face_criminal_charges_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T09:13:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjw6an/russian_teenagers_face_criminal_charges_for/"> <img alt="Russian teenagers face criminal charges for burning the Bible on a grill" src="https://external-preview.redd.it/pTBszYUkcl1JhIs61vQgRiekLD0DMTInH_dnUCH10s4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=07a301b74a73fac5b185729ac36120b73d00699b" title="Russian teenagers face criminal charges for burning the Bible on a grill" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nightinlisbon"> /u/nightinlisbon </a> <br /> <span><a href="https://novayagazeta.eu/articles/2024/05/04/russian-teenagers-face-criminal-charges-for-burning-the-bible-on-a-grill-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjw6an/russian_teenagers_face_criminal_charges_for/">[comments]</a></span> </td></tr></table>
+
+## Russia leaves thousands of planes without GPS in northern Europe
+ - [https://www.reddit.com/r/worldnews/comments/1cjvscs/russia_leaves_thousands_of_planes_without_gps_in](https://www.reddit.com/r/worldnews/comments/1cjvscs/russia_leaves_thousands_of_planes_without_gps_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T08:45:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjvscs/russia_leaves_thousands_of_planes_without_gps_in/"> <img alt="Russia leaves thousands of planes without GPS in northern Europe" src="https://external-preview.redd.it/tEm0SJ7gx26VX5k650hiL_oa86DhVvucJNRSOWT-iCw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcd37056e06a6d4ddf9c7b9dc084eea2d08810b3" title="Russia leaves thousands of planes without GPS in northern Europe" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gjrts"> /u/Gjrts </a> <br /> <span><a href="https://english.elpais.com/international/2024-05-03/russia-leaves-thousands-of-planes-without-gps-in-northern-europe.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjvscs/russia_leaves_thousands_of_planes_without_gps_in/">[comments]</a></span> </td></tr></table>
+
+## ‘I love my country, but I can’t kill’: Ukrainian men evading conscription
+ - [https://www.reddit.com/r/worldnews/comments/1cjvqxn/i_love_my_country_but_i_cant_kill_ukrainian_men](https://www.reddit.com/r/worldnews/comments/1cjvqxn/i_love_my_country_but_i_cant_kill_ukrainian_men)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T08:42:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjvqxn/i_love_my_country_but_i_cant_kill_ukrainian_men/"> <img alt="‘I love my country, but I can’t kill’: Ukrainian men evading conscription" src="https://external-preview.redd.it/pb9D9iRcQA3VEXCvqgIzMhDa1zy39o9IaqceSGrj0ls.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de91045e2b2556f8ac7906e78ea40578af03612a" title="‘I love my country, but I can’t kill’: Ukrainian men evading conscription" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/datsnotright0"> /u/datsnotright0 </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/may/04/i-love-my-country-but-i-cant-kill-ukrainian-men-evading-conscription">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjvqxn/i_love_my_country_but_i_cant_kill_ukrainian_men/">[comments]</a></span> </td></tr></table>
+
+## UK's Conservatives suffer historic losses in local elections – DW –
+ - [https://www.reddit.com/r/worldnews/comments/1cjvhz3/uks_conservatives_suffer_historic_losses_in_local](https://www.reddit.com/r/worldnews/comments/1cjvhz3/uks_conservatives_suffer_historic_losses_in_local)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T08:24:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjvhz3/uks_conservatives_suffer_historic_losses_in_local/"> <img alt="UK's Conservatives suffer historic losses in local elections – DW – " src="https://external-preview.redd.it/2cvTP5i-UGJjasA_a3s7kDRD1TYs_2v0wbSm44was20.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d5f70f435367af69fb9a461914709288b306311" title="UK's Conservatives suffer historic losses in local elections – DW – " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donny_i"> /u/donny_i </a> <br /> <span><a href="https://www.dw.com/en/uks-conservatives-suffer-historic-losses-in-local-elections/a-68995635">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjvhz3/uks_conservatives_suffer_historic_losses_in_local/">[comments]</a></span> </td></tr></table>
+
+## German police bust Europe's 'largest' scam call center – DW – 05/02/2024
+ - [https://www.reddit.com/r/worldnews/comments/1cjut5b/german_police_bust_europes_largest_scam_call](https://www.reddit.com/r/worldnews/comments/1cjut5b/german_police_bust_europes_largest_scam_call)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T07:35:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjut5b/german_police_bust_europes_largest_scam_call/"> <img alt="German police bust Europe's 'largest' scam call center – DW – 05/02/2024" src="https://external-preview.redd.it/zfll21X7ZjLH0y967PjUgjHyBVVL76ilTNogxIRQWGM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd8a05086de2b0bc2d86ffcef43ae02ff1d42d43" title="German police bust Europe's 'largest' scam call center – DW – 05/02/2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gyro_Armadillo"> /u/Gyro_Armadillo </a> <br /> <span><a href="https://www.dw.com/en/german-police-bust-europes-largest-scam-call-center/a-68980954">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjut5b/german_police_bust_europes_largest_scam_call/">[comments]</a></span> </td></tr></table>
+
+## US confirms Russian forces deployed to same Niger airbase as American troops | Niger
+ - [https://www.reddit.com/r/worldnews/comments/1cjuiio/us_confirms_russian_forces_deployed_to_same_niger](https://www.reddit.com/r/worldnews/comments/1cjuiio/us_confirms_russian_forces_deployed_to_same_niger)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T07:14:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjuiio/us_confirms_russian_forces_deployed_to_same_niger/"> <img alt="US confirms Russian forces deployed to same Niger airbase as American troops | Niger" src="https://external-preview.redd.it/FRPglIJ3GaLZ8a6pnwULOYOy7bDBDqKz-vuRVsY74gI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=855ec2357b1a15822b1e5f4c1aa734c20d963716" title="US confirms Russian forces deployed to same Niger airbase as American troops | Niger" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jobbitonfan"> /u/jobbitonfan </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/may/03/us-confirms-russian-forces-have-entered-airbase-in-niger-where-us-troops-are-stationed">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjuiio/us_confirms_russian_forces_deployed_to_same_niger/">[comments]</a></span> </td></tr></table>
+
+## Quebec premier says police should dismantle pro-Palestinian student camp
+ - [https://www.reddit.com/r/worldnews/comments/1cjttkn/quebec_premier_says_police_should_dismantle](https://www.reddit.com/r/worldnews/comments/1cjttkn/quebec_premier_says_police_should_dismantle)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T06:27:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjttkn/quebec_premier_says_police_should_dismantle/"> <img alt="Quebec premier says police should dismantle pro-Palestinian student camp" src="https://external-preview.redd.it/0VSBBprq0JXZDvBDfVQhUR6CjFwoNb3eHJAMnMxdMlo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=03cb649596672fe8bab7ae578b745bd9f2fcea0a" title="Quebec premier says police should dismantle pro-Palestinian student camp" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yimmy51"> /u/yimmy51 </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/may/03/pro-palestine-campus-protests-canada">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjttkn/quebec_premier_says_police_should_dismantle/">[comments]</a></span> </td></tr></table>
+
+## Japan, Brazil agree to jointly protect Amazon rainforest
+ - [https://www.reddit.com/r/worldnews/comments/1cjts7t/japan_brazil_agree_to_jointly_protect_amazon](https://www.reddit.com/r/worldnews/comments/1cjts7t/japan_brazil_agree_to_jointly_protect_amazon)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T06:24:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjts7t/japan_brazil_agree_to_jointly_protect_amazon/"> <img alt="Japan, Brazil agree to jointly protect Amazon rainforest" src="https://external-preview.redd.it/NfMzmch4sJqR2WKIWIlz8S7ahp0K6acUPnmEyhc-Iig.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f11ef8dd5bd56bda1d182b813ae07e63a7e89cfc" title="Japan, Brazil agree to jointly protect Amazon rainforest" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br /> <span><a href="https://english.kyodonews.net/news/2024/05/9896d2940e0a-update1-japan-brazil-agree-to-jointly-protect-amazon-rainforest.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjts7t/japan_brazil_agree_to_jointly_protect_amazon/">[comments]</a></span> </td></tr></table>
+
+## UK gives Ukraine green light to use British weapons inside Russia
+ - [https://www.reddit.com/r/worldnews/comments/1cjtmwk/uk_gives_ukraine_green_light_to_use_british](https://www.reddit.com/r/worldnews/comments/1cjtmwk/uk_gives_ukraine_green_light_to_use_british)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T06:14:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjtmwk/uk_gives_ukraine_green_light_to_use_british/"> <img alt="UK gives Ukraine green light to use British weapons inside Russia" src="https://external-preview.redd.it/jKy-QbPvDR8EMgE7VMGx6k5GswhgRoSk4UlBGIJhLEU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ad7c8da6977c970826a027fc8523cae9dfbef84" title="UK gives Ukraine green light to use British weapons inside Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AbleismIsSatan"> /u/AbleismIsSatan </a> <br /> <span><a href="https://www.atlanticcouncil.org/blogs/ukrainealert/uk-gives-ukraine-green-light-to-use-british-weapons-inside-russia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjtmwk/uk_gives_ukraine_green_light_to_use_british/">[comments]</a></span> </td></tr></table>
+
+## Zelenskiy Marks 800th Day Of Full-Scale Invasion As Russian Missiles Hit Civilian Sites
+ - [https://www.reddit.com/r/worldnews/comments/1cjsnir/zelenskiy_marks_800th_day_of_fullscale_invasion](https://www.reddit.com/r/worldnews/comments/1cjsnir/zelenskiy_marks_800th_day_of_fullscale_invasion)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T05:11:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjsnir/zelenskiy_marks_800th_day_of_fullscale_invasion/"> <img alt="Zelenskiy Marks 800th Day Of Full-Scale Invasion As Russian Missiles Hit Civilian Sites" src="https://external-preview.redd.it/ry_k47wrnGGon8_BGLCiK5caWBbGjBvfgwTitjrPaM0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=965b881e5bd15be090e6e16985d4011555da5686" title="Zelenskiy Marks 800th Day Of Full-Scale Invasion As Russian Missiles Hit Civilian Sites" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_Franklin"> /u/Red_Franklin </a> <br /> <span><a href="https://www.rferl.org/a/ukraine-zelenskiy-russia-war-donetsk/32932475.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjsnir/zelenskiy_marks_800th_day_of_fullscale_invasion/">[comments]</a></span> </td></tr></table>
+
+## Kyiv Authorized to Deploy British Arms within Russia
+ - [https://www.reddit.com/r/worldnews/comments/1cjrle2/kyiv_authorized_to_deploy_british_arms_within](https://www.reddit.com/r/worldnews/comments/1cjrle2/kyiv_authorized_to_deploy_british_arms_within)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T04:09:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjrle2/kyiv_authorized_to_deploy_british_arms_within/"> <img alt="Kyiv Authorized to Deploy British Arms within Russia" src="https://external-preview.redd.it/ynvcIUIUIKrOaX_Z-1t0LjrSzHB0OEqNp9_VOvISZFs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9489bb3c8ad64fe8e5bed2ff5f623f8a88255621" title="Kyiv Authorized to Deploy British Arms within Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Witty_Squirrel2197"> /u/Witty_Squirrel2197 </a> <br /> <span><a href="https://citytelegraph.com/news/160887/kyiv-authorized-to-deploy-british-arms-within-russia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjrle2/kyiv_authorized_to_deploy_british_arms_within/">[comments]</a></span> </td></tr></table>
+
+## NATO country said it could join Ukraine-Russia war on 2 conditions
+ - [https://www.reddit.com/r/worldnews/comments/1cjrlcs/nato_country_said_it_could_join_ukrainerussia_war](https://www.reddit.com/r/worldnews/comments/1cjrlcs/nato_country_said_it_could_join_ukrainerussia_war)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T04:09:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjrlcs/nato_country_said_it_could_join_ukrainerussia_war/"> <img alt="NATO country said it could join Ukraine-Russia war on 2 conditions" src="https://external-preview.redd.it/DiotPB1sTjuN9Yy_ALukhnqeF35u6rXKwf0EpU72AkA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e5b490dd50c2457be3a993f5c61ba63f20e0d5e" title="NATO country said it could join Ukraine-Russia war on 2 conditions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donny_i"> /u/donny_i </a> <br /> <span><a href="https://www.businessinsider.com/nato-emmanual-macron-france-join-ukraine-war-on-russia-conditions-2024-5?amp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjrlcs/nato_country_said_it_could_join_ukrainerussia_war/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 801, Part 1 (Thread #947)
+ - [https://www.reddit.com/r/worldnews/comments/1cjrgxj/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1cjrgxj/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T04:02:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjrgxj/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 801, Part 1 (Thread #947)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 801, Part 1 (Thread #947)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjrgxj/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## EU and NATO condemn Russian cyber attacks against Germany and Czechia
+ - [https://www.reddit.com/r/worldnews/comments/1cjrfha/eu_and_nato_condemn_russian_cyber_attacks_against](https://www.reddit.com/r/worldnews/comments/1cjrfha/eu_and_nato_condemn_russian_cyber_attacks_against)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T04:00:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjrfha/eu_and_nato_condemn_russian_cyber_attacks_against/"> <img alt="EU and NATO condemn Russian cyber attacks against Germany and Czechia" src="https://external-preview.redd.it/40Vi-HxZUGm7jkSiCOOqsqNIvsZfkdUee-xhYLf1u2o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43353a610110e2f91c542be5f4134fdc709a83eb" title="EU and NATO condemn Russian cyber attacks against Germany and Czechia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donny_i"> /u/donny_i </a> <br /> <span><a href="https://www.euronews.com/my-europe/2024/05/03/eu-and-nato-condemn-malicious-russian-cyber-attacks-against-germany-and-czechia">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjrfha/eu_and_nato_condemn_russian_cyber_attacks_against/">[comments]</a></span> </td></tr></table>
+
+## Leaked Students for Justice in Palestine texts show support for massacres of Israelis
+ - [https://www.reddit.com/r/worldnews/comments/1cjr8mx/leaked_students_for_justice_in_palestine_texts](https://www.reddit.com/r/worldnews/comments/1cjr8mx/leaked_students_for_justice_in_palestine_texts)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T03:49:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjr8mx/leaked_students_for_justice_in_palestine_texts/"> <img alt="Leaked Students for Justice in Palestine texts show support for massacres of Israelis" src="https://external-preview.redd.it/rKiesQZMF_8Dc39EVrkzT8rCWV_Bcfwyo77-9utMqL8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbc0bef128f8165e6ac45e6f02d26a41645ab193" title="Leaked Students for Justice in Palestine texts show support for massacres of Israelis" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Master-Concept-5260"> /u/Master-Concept-5260 </a> <br /> <span><a href="https://m.jpost.com/diaspora/antisemitism/article-799758">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjr8mx/leaked_students_for_justice_in_palestine_texts/">[comments]</a></span> </td></tr></table>
+
+## Canada arrests 3 in killing of Sikh separatist that caused diplomatic spat with India
+ - [https://www.reddit.com/r/worldnews/comments/1cjoeku/canada_arrests_3_in_killing_of_sikh_separatist](https://www.reddit.com/r/worldnews/comments/1cjoeku/canada_arrests_3_in_killing_of_sikh_separatist)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T01:13:13+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/paulfromatlanta"> /u/paulfromatlanta </a> <br /> <span><a href="https://www.politico.com/news/2024/05/03/canada-arrests-3-in-killing-of-sikh-separatist-that-caused-diplomatic-spat-with-india-00156100">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjoeku/canada_arrests_3_in_killing_of_sikh_separatist/">[comments]</a></span>
+
+## Report finds Nestlé adds sugars to baby food in low-income countries
+ - [https://www.reddit.com/r/worldnews/comments/1cjo4w3/report_finds_nestlé_adds_sugars_to_baby_food_in](https://www.reddit.com/r/worldnews/comments/1cjo4w3/report_finds_nestlé_adds_sugars_to_baby_food_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-04T00:59:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cjo4w3/report_finds_nestlé_adds_sugars_to_baby_food_in/"> <img alt="Report finds Nestlé adds sugars to baby food in low-income countries" src="https://external-preview.redd.it/BOnJnOx2OTWaHy0DPT3cHfyGuIez0QybEDOU9PwKR40.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2dde57b5aefe5f85799adaed0fc559f3f2dc7aaa" title="Report finds Nestlé adds sugars to baby food in low-income countries" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donny_i"> /u/donny_i </a> <br /> <span><a href="https://www.nbcnews.com/news/amp/rcna150562">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cjo4w3/report_finds_nestlé_adds_sugars_to_baby_food_in/">[comments]</a></span> </td></tr></table>
+
