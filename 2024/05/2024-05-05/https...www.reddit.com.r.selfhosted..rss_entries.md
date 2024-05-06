@@ -1,0 +1,303 @@
+# Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
+
+## Would anyone like to donate their spare GPU resources?
+ - [https://www.reddit.com/r/selfhosted/comments/1cl49n2/would_anyone_like_to_donate_their_spare_gpu](https://www.reddit.com/r/selfhosted/comments/1cl49n2/would_anyone_like_to_donate_their_spare_gpu)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T23:08:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm a 23 year old University student, and currently working on a LLM project.</p> <p>I need a GPU for inference, but buying hardware or renting on the cloud are too pricey for me. I have no money at the moment, to be quite honest.</p> <p>I plan on making a Kubernetes cluster from GPU nodes. I'll work on the project during the few moments your PC and RTX are not in use.</p> <p>Would anyone like to donate their GPU resources?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Accomplished_Wish244"> /u/Accomplished_Wish244 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cl49n2/would_anyone_like_to_donate_their_spare_gpu/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cl49n2/would_anyone_like_to_donate_their_spare_gpu/">[comments]</a></span>
+
+## Best way to host game servers?
+ - [https://www.reddit.com/r/selfhosted/comments/1cl3wc2/best_way_to_host_game_servers](https://www.reddit.com/r/selfhosted/comments/1cl3wc2/best_way_to_host_game_servers)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T22:51:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone, Quick question, I'm about to move into a shared apartment with some friends of mine and we figured it would be quite cool to have a dedicated system to host game servers. Currently I'm using an old gaming PC I've bought of a friend. It has a i5-9400f and about 40gb of ram (yes know that, that İs a weird combination but that is the ram that had lieing around).</p> <p>I want to be able to host multiple servers simultaneously on it. Let's say about 2 Minecraft servers, a SkyBlock and a vanilla server. Also it should be able to run other game servers like satisfactory, valheim, terraria, palworld, etc. but those will not be running all the time. Those will only run on their own with the Minecraft servers. </p> <p>Basically I am wondering is it worth the investment to buy a new system, that is dedicated to host the game servers, should I upgrade the current system or is this system already good enough? And follow up question, does anyone kn
+
+## Best practise for migrating Portainer
+ - [https://www.reddit.com/r/selfhosted/comments/1cl38ar/best_practise_for_migrating_portainer](https://www.reddit.com/r/selfhosted/comments/1cl38ar/best_practise_for_migrating_portainer)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T22:21:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>In short:<br /> I have 3 VMS:<br /> - <code>VM01</code> - Running full Portainer server as well as other docker containers (media) - non critical<br /> - <code>VM02</code> - Running Portainer agent as well as other docker containers (test + random) - non critical<br /> - <code>VM03</code> - New VM - running critical docker containers (pwd manager, VPN etc)</p> <p>I would like to end up as:<br /> - <code>VM01</code> - Running Portainer agent as well as other docker containers (media) - non critical<br /> - <code>VM02</code> - Running Portainer agent as well as other docker containers (test + random) - non critical<br /> - <code>VM03</code> - Running full Portainer migrated from VM01 as well as other critical docker containers (pwd manager, VPN etc)</p> <p>My plan:</p> <ol> <li>Backup the Portainer config from <code>VM01</code></li> <li>Create a new container in <code>VM03</code></li> <li>Restore the backup from <code>VM01</code></li> <li>Remove Portain
+
+## Any VPS with nested virtualization or better prices ?
+ - [https://www.reddit.com/r/selfhosted/comments/1cl2t03/any_vps_with_nested_virtualization_or_better](https://www.reddit.com/r/selfhosted/comments/1cl2t03/any_vps_with_nested_virtualization_or_better)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T22:03:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Do you know cheap VPS or ones with nested virtualization ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EurofighterTy"> /u/EurofighterTy </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cl2t03/any_vps_with_nested_virtualization_or_better/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cl2t03/any_vps_with_nested_virtualization_or_better/">[comments]</a></span>
+
+## how do you see the log in Caddy? i mean improve visualization.
+ - [https://www.reddit.com/r/selfhosted/comments/1cl1xvz/how_do_you_see_the_log_in_caddy_i_mean_improve](https://www.reddit.com/r/selfhosted/comments/1cl1xvz/how_do_you_see_the_log_in_caddy_i_mean_improve)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T21:26:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>well, i have this in my config file to see logs</p> <pre><code> log { output file /var/log/caddy/subdomain-access.log { roll_size 10mb roll_keep 20 roll_keep_for 720h </code></pre> <p>i put that in each subdomain... and just with a visit to the web is a lot of info..... </p> <p>i want to see the logs to look for suspicious intentions.</p> <p>i just make a &quot;cat subdomain-access.log&quot;... but.. this is too much, which will be a better way?</p> <p>Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/9acca9"> /u/9acca9 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cl1xvz/how_do_you_see_the_log_in_caddy_i_mean_improve/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cl1xvz/how_do_you_see_the_log_in_caddy_i_mean_improve/">[comments]</a></span>
+
+## What do you log and why?
+ - [https://www.reddit.com/r/selfhosted/comments/1cl0urx/what_do_you_log_and_why](https://www.reddit.com/r/selfhosted/comments/1cl0urx/what_do_you_log_and_why)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T20:38:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm looking at setting up some log aggregator on my server, but to be honest, I don't know what really to log. My setup is internal only, minus a VPN to get into the network so I would likey want to log and setup alerts for that, but what does everyone else log? Just docker logs and auth logins if you have that setup?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BelugaBilliam"> /u/BelugaBilliam </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cl0urx/what_do_you_log_and_why/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cl0urx/what_do_you_log_and_why/">[comments]</a></span>
+
+## Best Kubernetes Setup For Homelab? (Proxmox, TrueNas Scale, K3s, Servarr Stack)
+ - [https://www.reddit.com/r/selfhosted/comments/1cl02fm/best_kubernetes_setup_for_homelab_proxmox_truenas](https://www.reddit.com/r/selfhosted/comments/1cl02fm/best_kubernetes_setup_for_homelab_proxmox_truenas)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T20:04:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I've been going down the Kubernetes rabbit hole and trying to figure out the best way to migrate all my various docker VM's and containers over to a better HA Kubernetes stack but there seems to be so many different ways to go about it and all i've found is articles/guides from 3+ years ago or new ones that don't necissarily fit my use case. Hoping someone here can help point me in the right direction!</p> <p><strong>Current system:</strong><br /> TrueNas Scale bare metal storage server in 45 Drives Q30 case.<br /> 3 servers running proxmox in HA<br /> Various VM's with Docker installed running numerous containers (check images)</p> <p>This works decent but managing numerous Docker/Portainer instances gets annoying, and when certain applications are being hit hard by a few users, i'd like there to load balance the work between servers.<br /> Kubernetes sounds like a great way to run all services from a single point and have them scale up and down depe
+
+## CRM for photographers
+ - [https://www.reddit.com/r/selfhosted/comments/1ckxk5d/crm_for_photographers](https://www.reddit.com/r/selfhosted/comments/1ckxk5d/crm_for_photographers)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T18:15:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello there! </p> <p>&#x200b;</p> <p>I have a bit of a unique question to ask, and I know it might result in a few downvotes, but here goes nothing. </p> <p>&#x200b;</p> <p>I work as a wedding photographer and I'm on the hunt for a free and open-source alternative to <a href="https://fotostudio.io">fotostudio.io</a>. I've been exploring some of the more popular CRM solutions out there, but I was curious if anyone else has been in the same boat as me. </p> <p>&#x200b;</p> <p>I would really appreciate any input you might have on this matter. Thanks so much in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tiritibambix"> /u/Tiritibambix </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckxk5d/crm_for_photographers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckxk5d/crm_for_photographers/">[comments]</a></span>
+
+## Mini UPS options for my mini Pc honestly server.
+ - [https://www.reddit.com/r/selfhosted/comments/1ckxil2/mini_ups_options_for_my_mini_pc_honestly_server](https://www.reddit.com/r/selfhosted/comments/1ckxil2/mini_ups_options_for_my_mini_pc_honestly_server)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T18:14:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I have a mini pc that has intel N100 and a separate small hardrive unit. The entire setup is just for streaming media and storage over my LAN. I want to have a solution for getting these things powered even when there are power outage as its very common where i stay. </p> <p>If anyone is aware of ways to keep both (pc+drive) in a separate space and keep it powered with a mini UPS! Please suggest.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alert-Reveal-2688"> /u/Alert-Reveal-2688 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckxil2/mini_ups_options_for_my_mini_pc_honestly_server/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckxil2/mini_ups_options_for_my_mini_pc_honestly_server/">[comments]</a></span>
+
+## Best Kubernetes Setup For Homelab? (Proxmox, TrueNas Scale, K3s, Servarr Stack)
+ - [https://www.reddit.com/r/selfhosted/comments/1ckxfl8/best_kubernetes_setup_for_homelab_proxmox_truenas](https://www.reddit.com/r/selfhosted/comments/1ckxfl8/best_kubernetes_setup_for_homelab_proxmox_truenas)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T18:10:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I've been going down the Kubernetes rabbit hole and trying to figure out the best way to migrate all my various docker VM's and containers over to a better HA Kubernetes stack but there seems to be so many different ways to go about it and all i've found is articles/guides from 3+ years ago or new ones that don't necissarily fit my use case. Hoping someone here can help point me in the right direction!</p> <p><strong>Current system:</strong><br /> TrueNas Scale bare metal storage server in 45 Drives Q30 case.<br /> 3 servers running proxmox in HA<br /> Various VM's with Docker installed running numerous containers (check images)</p> <p>This works decent but managing numerous Docker/Portainer instances gets annoying, and when certain applications are being hit hard by a few users, i'd like there to load balance the work between servers.<br /> Kubernetes sounds like a great way to run all services from a single point and have them scale up and down depe
+
+## Favorite selfhosted OS?
+ - [https://www.reddit.com/r/selfhosted/comments/1ckx7i4/favorite_selfhosted_os](https://www.reddit.com/r/selfhosted/comments/1ckx7i4/favorite_selfhosted_os)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T18:00:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I currently looking at:</p> <ul> <li> <a href="https://casaos.io/">CasaOS - A simple, easy-to-use, elegant open-source personal cloud system</a> </li> <li> <a href="https://cosmos-cloud.io/">Cosmos Cloud (cosmos-cloud.io)</a> </li> <li> <a href="https://umbrel.com/umbrelos">umbrelOS - An elegant OS for your home server</a> </li> </ul> <p>What is your favorite?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/root_15"> /u/root_15 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckx7i4/favorite_selfhosted_os/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckx7i4/favorite_selfhosted_os/">[comments]</a></span>
+
+## Help needed in finding an easy digital sign solution
+ - [https://www.reddit.com/r/selfhosted/comments/1ckw8xj/help_needed_in_finding_an_easy_digital_sign](https://www.reddit.com/r/selfhosted/comments/1ckw8xj/help_needed_in_finding_an_easy_digital_sign)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T17:18:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I work in Radilogy in a large hospital setting. Currently we have assistants who will page technologists across different imaging centers, basically instructing if and when studies should be sent to a virtual radiology company or be kept local for our radiologists to read. The technologists will then write on a white board what to do with the studies so all the techs in that area know. This system is fraught with problems and the message often doesn't get across, resulting in studies sitting on the wrong lists for hours before someone notices them with no interpretations. </p> <p>I'm curious if anyone knows of a solution that would include having digital displays that can be controlled over the internet/intranet by a central application, thus cutting out the technologists having to read a pager and write on the white boards. Basically allowing displays to be controlled individually or as a batch to display specific messages. I appreciate any and all r
+
+## What’s your way of of accessing your self hosted apps?
+ - [https://www.reddit.com/r/selfhosted/comments/1ckw4jl/whats_your_way_of_of_accessing_your_self_hosted](https://www.reddit.com/r/selfhosted/comments/1ckw4jl/whats_your_way_of_of_accessing_your_self_hosted)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T17:12:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>When I see services, like mealie for recipes for instance, without smartphone apps, I feel like it won’t fit.</p> <p>What about book management, finances, home inventory (just discovered homebox)? You need to be on your computer a lot to be able to simply use those great tools.</p> <p>Is it just the downside of using such a management tool? Or isn’t the accessibility of your computer and time you allow yourself to use it the main reason we achieve to use a management tool?</p> <p>I have a laptop that I just use to watch a movie. And at work I spend all day on the computer. I realised people self hosting or using computer tools must have a desktop powered on all day long and being in a central space at home so they can jump on it anytime even for 2 minutes to access mealie of firefly iii or Nextcloud.</p> <p>What’s your « computer accessibility » for self hosting and managing things?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://ww
+
+## Best way to host a few different self-hosted scripts on one server?
+ - [https://www.reddit.com/r/selfhosted/comments/1ckv3h5/best_way_to_host_a_few_different_selfhosted](https://www.reddit.com/r/selfhosted/comments/1ckv3h5/best_way_to_host_a_few_different_selfhosted)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T16:26:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys,</p> <p>I've been looking a lot at things like reverse proxies, PaaS tools, and Cloudflare over the past few weeks - and think I want to take a step back to think about what might be the best way to achieve my objectives.</p> <p>There's a lot of good self-hostable stuff on the market and I'm thinking about building up a URL of tools for internal use (let's call it '<a href="https://danielscloud.com">danielscloud.com</a>' for arguments sake).</p> <p>Ideally, I would like to run a bunch of stuff off of 1 large VPS. Not to save money, but rather because it sounds like less hassle than running each service off a separate server which is what I've been doing lately (which means that I need to spin up servers frequently and wait for DNS stuff to start working). Kubernetes seems like overkill but ... I'm open to whatever works best.</p> <p>So far, I've tried splitting components onto subdomains (so let's say hosting NextCloud on <a href="https://file
+
+## How to expose service behind Traefik V3 on CF Tunnel
+ - [https://www.reddit.com/r/selfhosted/comments/1ckuhay/how_to_expose_service_behind_traefik_v3_on_cf](https://www.reddit.com/r/selfhosted/comments/1ckuhay/how_to_expose_service_behind_traefik_v3_on_cf)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T15:59:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am having a lot of problems with that can't figure out how to expose internally and externally a service behind Traefik V3. This is done on docker, eventually I would like to move this to k3s once I figure out the mechanics. </p> <p>I can get them working individually but not together. Any advice? Where should I look? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Irish1986"> /u/Irish1986 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckuhay/how_to_expose_service_behind_traefik_v3_on_cf/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckuhay/how_to_expose_service_behind_traefik_v3_on_cf/">[comments]</a></span>
+
+## Is there a Snapcast type option for video?
+ - [https://www.reddit.com/r/selfhosted/comments/1cktszh/is_there_a_snapcast_type_option_for_video](https://www.reddit.com/r/selfhosted/comments/1cktszh/is_there_a_snapcast_type_option_for_video)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T15:28:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I use a snapcast server at home to pipe sync’d audio to all of my house speakers and I love it. </p> <p>I was wondering if there was a similar option for video where a central service broadcasts a stream that you can view via a client on various devices?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GriffinDodd"> /u/GriffinDodd </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cktszh/is_there_a_snapcast_type_option_for_video/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cktszh/is_there_a_snapcast_type_option_for_video/">[comments]</a></span>
+
+## Floccus v5.1 is out: Sync bookmarks and tabs, now via any hosted git repo
+ - [https://www.reddit.com/r/selfhosted/comments/1cktsgk/floccus_v51_is_out_sync_bookmarks_and_tabs_now](https://www.reddit.com/r/selfhosted/comments/1cktsgk/floccus_v51_is_out_sync_bookmarks_and_tabs_now)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T15:27:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi</p> <p>I've been working on <a href="https://floccus.org">floccus</a> for some years now and would like to give you a quick update about the new release. What is floccus you ask? It's a web extension (and Android/ios App) that you can install in your browsers to sync bookmarks and tabs via Nextcloud, any WebDAV-compatible server, via Google Drive, or (since this release) via a git repository. All of these (except Google Drive of course) can be selfhosted, which was the whole reason for me to start this project.</p> <p>Quite some people have asked for git support and here it is, finally. Have fun syncing and selfhosting :wave:</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zoontechnicon"> /u/zoontechnicon </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cktsgk/floccus_v51_is_out_sync_bookmarks_and_tabs_now/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comm
+
+## How are you guys cycling TV Shows and Movies to keep things fresh without growing need for space.
+ - [https://www.reddit.com/r/selfhosted/comments/1cksx7r/how_are_you_guys_cycling_tv_shows_and_movies_to](https://www.reddit.com/r/selfhosted/comments/1cksx7r/how_are_you_guys_cycling_tv_shows_and_movies_to)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T14:48:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically, I have the usual plex stack with overseer and friends and family are requesting routinely, which is fine. But even with 70TB of storage, it's filling quickly. I know there's a lot of crap that nobody is watching or care to watch anymore and I'm constantly monitoring and asking everyone which shows I can delete and who's finished watching. I don't want to be a media archival service.<br /> I'm looking for an app or system that takes in age/viewcount/popularity of shows and suggests ones to delete to everyone, maybe take a vote, maybe announce a &quot;leaving soon&quot;.<br /> I know there has to be some sort of app like this.</p> <p>Thanks guys!</p> <p>Edit\more info:<br /> Another option I've half implemented in the past is every user gets their own set amount of space and when it fills, they have to clear some old stuff out. But the problem with this is that I had to do it for them, there's no system in overseer\plex for them to delete the
+
+## Permission question using Nextcloud with external storage
+ - [https://www.reddit.com/r/selfhosted/comments/1ckspfy/permission_question_using_nextcloud_with_external](https://www.reddit.com/r/selfhosted/comments/1ckspfy/permission_question_using_nextcloud_with_external)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T14:38:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I‘m running Ubuntu 20.04 with Nextcloud (natively). I’ve mounted three external storages which I use exclusively - means I don’t use the original data directory made by nextcloud.</p> <p>It runs fine for several years but now I’m questioning if I’m doing it correctly regarding permissions.</p> <p>I needed to set the permissions and ownership of the directories I’ve mounted as external storage to www-data:www-data and 750 in order to get it to work.</p> <p>I also made these directories accessible via SMB / APFS. Sometimes I get some permission issues until I remount the samba shares.</p> <p>So I’m wondering if there’s a better way than giving www-data permissions to all of my private data. Also other services need to be run as www-data in order to have access to these files.</p> <p>When Iogin using ssh I use my main user which is also a member of www-data. This causes problems sometimes when I try to create or delete files or when other services li
+
+## Is this overkill?
+ - [https://www.reddit.com/r/selfhosted/comments/1cks246/is_this_overkill](https://www.reddit.com/r/selfhosted/comments/1cks246/is_this_overkill)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T14:07:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>I use a Pi 4. I have Nextcloud, Immich, Miniflux (docker) and Plex (direct install). The only ports that I expose is the plex port and the wireguard port (I only connect remotely through my VPN). For SSH I use keys only not password, I use fail2ban and Samba v3 that only accepts local addresses and only my account for some Samba shares. On ufw all ports except plex and wireguard are open only to local addresses.</p> <p>Is it an overkill having my personal files on Nextcloud encrypted on a Cryptomator vault? I'm thinking all possible scenarios and even though I find it extremely unlikely for anyone getting into my system, something is holding me back to use my files unencrypted.</p> <p>Let me know.</p> <p>Thank you very mucb,</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Substantial_Age_4138"> /u/Substantial_Age_4138 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cks246/is_this_overkill
+
+## Raspberry Pi 5 4GB vs Raspberry Pi 5 8GB
+ - [https://www.reddit.com/r/selfhosted/comments/1cks1px/raspberry_pi_5_4gb_vs_raspberry_pi_5_8gb](https://www.reddit.com/r/selfhosted/comments/1cks1px/raspberry_pi_5_4gb_vs_raspberry_pi_5_8gb)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T14:06:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, </p> <p>I am very new to self hosting and want to get started on this journey. Like the title says, I'm confused with two things, The 8GB Version of the Pi 5 or the 4Gb version. Currently all that I can think of hosting are Firefly-III, Maybe Finance, Actual Budget (to pick one of the three) and Immich and Maybe Nextcloud, Just to try it out. I most probably don't want to host any media transcoding kind of things on it Or even the *arr stack, but maybe a BitTorrent Client. </p> <p>So would the 4GB version suffice ? Any other point to consider for getting the 8Gb ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YoungBlood212121"> /u/YoungBlood212121 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cks1px/raspberry_pi_5_4gb_vs_raspberry_pi_5_8gb/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cks1px/raspberry_pi_5_4gb_vs_raspberry_pi_5_8gb/">[co
+
+## Simple Bookmarks Service
+ - [https://www.reddit.com/r/selfhosted/comments/1ckrpni/simple_bookmarks_service](https://www.reddit.com/r/selfhosted/comments/1ckrpni/simple_bookmarks_service)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T13:50:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Idk why I'm struggling to find something, but I can't find a decent bookmarks/favorites service I can host.</p> <p>Needs to be non-Docker and something I can put in a Proxmox container. (Please save the Docker rhetoric lol. I need to learn it, I know, and it's on my to do list)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/smibrandon"> /u/smibrandon </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckrpni/simple_bookmarks_service/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckrpni/simple_bookmarks_service/">[comments]</a></span>
+
+## Funkwhale for unraid - I fixed up the docker compose stack and wrote some simple instructions for easy deployment
+ - [https://www.reddit.com/r/selfhosted/comments/1ckqfyj/funkwhale_for_unraid_i_fixed_up_the_docker](https://www.reddit.com/r/selfhosted/comments/1ckqfyj/funkwhale_for_unraid_i_fixed_up_the_docker)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T12:44:39+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.funkwhale.audio/">Funkwhale</a> is a fediverse music sharing platform that shows some potential, but is notoriously difficult to deploy. I spent some time figuring out why that was, made a few edits, and wrote some simple instructions to deploy the compose stack on unraid specifically. editing the .env file for non-unraid deployment should be relatively straightfoward as well, but this is the environment I'm familiar with</p> <p><a href="https://github.com/sage2050/funkwhale_unraid">https://github.com/sage2050/funkwhale_unraid</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sage2050"> /u/Sage2050 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckqfyj/funkwhale_for_unraid_i_fixed_up_the_docker/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckqfyj/funkwhale_for_unraid_i_fixed_up_the_docker/">[comments]</a></span>
+
+## How safe is to use docker images from others that are not the official owners
+ - [https://www.reddit.com/r/selfhosted/comments/1ckpmhw/how_safe_is_to_use_docker_images_from_others_that](https://www.reddit.com/r/selfhosted/comments/1ckpmhw/how_safe_is_to_use_docker_images_from_others_that)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T11:58:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi Everyone,</p> <p>Apologies for this silly question. I just installed my local ttrss.</p> <p>I tried first using the <strong>official</strong> docker composer file with their image from their site/git that is</p> <p>image**:** cthulhoo/ttrss-fpm-pgsql-static:latest</p> <p>It didn’t work so I found a tutorial and installed using the docker image from this person.</p> <p>image: wangqiru/ttrss:latest</p> <p><strong>So My Question is</strong>: generally speaking, when installing a docker and using a docker compose file that is not from the official owner of the open source, what should I look for? Is this any safe?</p> <p>Thank you</p> <p>MCG</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mcgaleti"> /u/mcgaleti </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckpmhw/how_safe_is_to_use_docker_images_from_others_that/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted
+
+## OpenSlides 4 instance ?!
+ - [https://www.reddit.com/r/selfhosted/comments/1ckpka4/openslides_4_instance](https://www.reddit.com/r/selfhosted/comments/1ckpka4/openslides_4_instance)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T11:54:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>has anyone here ever gotten openslides (<a href="https://github.com/OpenSlides/OpenSlides">https://github.com/OpenSlides/OpenSlides</a>) to run completely according to the instructions? unfortunately, the documentation or the guide on github is partly outdated and rudimentary. does anyone know of a good, up-to-date guide?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/skaramuz666"> /u/skaramuz666 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckpka4/openslides_4_instance/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckpka4/openslides_4_instance/">[comments]</a></span>
+
+## 1% of the time the Internet doesn't work
+ - [https://www.reddit.com/r/selfhosted/comments/1ckpf36/1_of_the_time_the_internet_doesnt_work](https://www.reddit.com/r/selfhosted/comments/1ckpf36/1_of_the_time_the_internet_doesnt_work)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T11:45:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I use a Ubuntu server instance to host lots of docker containers (usual stuff:static site, WP, password manager, guacamole, nginx, couchdb...). sometimes the Internet won't work on other devices on the same network and I have to switch to mobile data. How could I tackle such a problem? check the logs or use Wireshark to see the problem on the network or are there any other methods? what is a common problem? The problem is hard to reproduce.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lucordes"> /u/Lucordes </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckpf36/1_of_the_time_the_internet_doesnt_work/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckpf36/1_of_the_time_the_internet_doesnt_work/">[comments]</a></span>
+
+## Comentario: A Self-Hosted Commenting System for Your Static Website
+ - [https://www.reddit.com/r/selfhosted/comments/1ckp2g5/comentario_a_selfhosted_commenting_system_for](https://www.reddit.com/r/selfhosted/comments/1ckp2g5/comentario_a_selfhosted_commenting_system_for)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T11:23:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, <a href="/r/selfhosted">r/selfhosted</a><br /> Today came across a post in a webdev subreddit where someone suggested using Disqus for adding comments to a website. I wanted to share an alternative that doesn't sell your (or your visitors) data.</p> <p><a href="https://gitlab.com/comentario/comentario">Comentario</a> is an open-source commenting system that you can easily self-host. It's a fork of the well-known Commento project but comes with even more features and improvements. Two weeks ago the version 3.7.0 was released, it is now possible to use nicknames for anonymous commentors. I think Comentario is not known enough.</p> <p>You can use a simple `docker-compose.yml` to start:</p> <pre><code>services: db: container_name: comentario-db image: postgres:16-alpine environment: - POSTGRES_DB=postgres - POSTGRES_USER=postgres - POSTGRES_PASSWORD=hunter2 networks: - internal restart: unless-stopped volumes: - ./db:/var/lib/postgresql/data app: con
+
+## What is so much better to self host that you’re surprised more people don’t do it?
+ - [https://www.reddit.com/r/selfhosted/comments/1ckom2j/what_is_so_much_better_to_self_host_that_youre](https://www.reddit.com/r/selfhosted/comments/1ckom2j/what_is_so_much_better_to_self_host_that_youre)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T10:53:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I’m looking to get into self hosting a lot more, but I’m concerned that different kinds of projects will probably fall into one of two camps:</p> <ul> <li>Selfhosting is cheaper, more flexible, and the result is in many ways better, and it’s not too much of a pain to set up and maintain – do it!</li> <li>Selfhost it if you have a strong need to, or you just like selfhosting, but honestly it’ll be a fair amount of work, not necessarily be better, and the cost of the commercial options would be worth it for the ongoing time saving.</li> </ul> <p>The trouble, of course, is it’s pretty difficult to work out which kinds of applications are which!</p> <p>So in your opinion what are the key types of things that are almost “no brainers” to self host for any reasonably technically competent person?</p> <p>Or to put it another way: project types which have excellent ratios for time commitment and difficulty vs value and cost saving.</p> <p>Thanks!</p> </div
+
+## Best cloud infrastructure providers for small projects?
+ - [https://www.reddit.com/r/selfhosted/comments/1ckod4j/best_cloud_infrastructure_providers_for_small](https://www.reddit.com/r/selfhosted/comments/1ckod4j/best_cloud_infrastructure_providers_for_small)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T10:37:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m looking for a single, affordable, easy-to-use provider for small projects that need some cloud compute, storage and/or database.</p> <p>Ideally the provider would:</p> <ul> <li>Have a great UX and DX</li> <li>Be very affordable for small projects, but be possible to scale up without suddenly hitting a 10x cost threshold</li> <li>Be completely reliable – my projects may be small but they do need to work 24/7!</li> <li>Manage all the maintenance for me. I don’t have the time to maintain a database/server, I just need to use it for my app. Security patching and all that is taken care of.</li> <li>Guaranteed persistence i.e. the data in my database isn’t going to just disappear one day!</li> </ul> <p>Who would you recommend? Any other recommendations before I jump into this? Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aquillyne"> /u/Aquillyne </a> <br /> <span><a href="https://www.reddit.com/r/selfhos
+
+## Add Your Opinions: Best 2024 Free and Opensource Web Server Control Panels
+ - [https://www.reddit.com/r/selfhosted/comments/1cknjpx/add_your_opinions_best_2024_free_and_opensource](https://www.reddit.com/r/selfhosted/comments/1cknjpx/add_your_opinions_best_2024_free_and_opensource)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T09:37:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>2024 Free and Opensource Web Server Control Panel Options</p> <p>Opensource?:</p> <ul> <li><a href="https://hestiacp.com/">https://hestiacp.com/</a><br /></li> <li><a href="https://ispconfig.org/">https://ispconfig.org/</a><br /></li> <li><a href="https://apiscp.com/">https://apiscp.com/</a><br /></li> <li><a href="https://spikster.com/">https://spikster.com/</a><br /></li> <li><a href="https://virtualmin.com/">https://virtualmin.com/</a></li> </ul> <p>Free?:</p> <ul> <li><a href="https://fastpanel.direct/">https://fastpanel.direct/</a> </li> <li><a href="https://cloudpanel.io/">https://cloudpanel.io/</a> </li> <li><a href="https://plesk.com/">https://plesk.com/</a> </li> <li><a href="https://tinycp.com/">https://tinycp.com/</a> </li> <li><a href="https://keyweb.de/">https://keyweb.de/</a> </li> </ul> <p>This is not a review, recommendation, commentary or any other expert advise.</p> <p>It is instead a list of all of the Free and Opensource Web Server
+
+## What containers do you reuse across stacks?
+ - [https://www.reddit.com/r/selfhosted/comments/1cknbhg/what_containers_do_you_reuse_across_stacks](https://www.reddit.com/r/selfhosted/comments/1cknbhg/what_containers_do_you_reuse_across_stacks)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T09:20:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am planning to deploy a couple of stacks containing similar containers, such as:</p> <ul> <li>InfluxDB</li> <li>MongoDB</li> <li>GrayLog</li> <li>Prometheus</li> <li>Grafana etc.</li> </ul> <p>Especially for Grafana it makes sense from my point of view to have a single instance rather than one per stack, then I could combine data from different sources into single dashboards.</p> <p>Risk is always that version requirements of different stacks will conflict. I feel it's rather unlikely, but I'd be interested in some experience sharing around this.</p> <p>Is anyone sharing &quot;utility&quot; containers (my poor wording) across stacks and what are the pitfalls?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hobbes444"> /u/hobbes444 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cknbhg/what_containers_do_you_reuse_across_stacks/">[link]</a></span> &#32; <span><a href="https://www.reddit.
+
+## Happy to be a semi-new self hoster.
+ - [https://www.reddit.com/r/selfhosted/comments/1ckmn9b/happy_to_be_a_seminew_self_hoster](https://www.reddit.com/r/selfhosted/comments/1ckmn9b/happy_to_be_a_seminew_self_hoster)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T08:31:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a Raspberry Pi 3B.</p> <p>I am currently using the DietPi OS. But it recently crashed a few days ago, so had to redo all the containers and images again.</p> <p>So I have been re-learning and deciding what images I want to use, and will I really need them, and vice versa.</p> <p>Running:</p> <ol> <li><p>Portainer CE - <a href="https://docs.portainer.io/start/install-ce">https://docs.portainer.io/start/install-ce</a> To manage all my containers.</p></li> <li><p>AdGuard Home - <a href="https://adguard.com/en/adguard-home/overview.html">https://adguard.com/en/adguard-home/overview.html</a> last year was running pi-hole, but had too many issues, and so far no crashes, or networking problems. But learning how many filters to really use is a key important factor.</p></li> <li><p>MalTrail - <a href="https://github.com/stamparm/maltrail">https://github.com/stamparm/maltrail</a>. Intrusion detection system, I haven't fully understood how to best use and
+
+## How To Go About Building my Own Home-Server?
+ - [https://www.reddit.com/r/selfhosted/comments/1ckmcv5/how_to_go_about_building_my_own_homeserver](https://www.reddit.com/r/selfhosted/comments/1ckmcv5/how_to_go_about_building_my_own_homeserver)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T08:10:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I've been in self-hosting for a few months now, using my old gaming laptop. Lately, I've realized that my storage is just not cutting it, and the laptop itself is often frustratingly slow.</p> <p>I'm no expert when it comes to hardware specs, just the basics. So, I've decided it's time to start saving up some cash and build my own home server/lab. I'm aiming for at least 10TB of storage (with the option to expand later) to handle my hosting needs.</p> <p>But here's the thing: I have absolutely no clue where to even begin. What kind of processors should I be looking at? Do I need to worry about getting a GPU? And what about NAS—do I need one of those too? It's all a bit overwhelming.</p> <p>I've tried turning to some of the big-name YouTubers who talk about self-hosting, but honestly, it's like trying to drink from a firehose. The amount of information out there is just staggering, and as someone who's not exactly a tech person, the overwhelming amount
+
+## Jellyfin and *ARR suite on freeBSD NAS
+ - [https://www.reddit.com/r/selfhosted/comments/1cklk8l/jellyfin_and_arr_suite_on_freebsd_nas](https://www.reddit.com/r/selfhosted/comments/1cklk8l/jellyfin_and_arr_suite_on_freebsd_nas)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T07:14:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm looking to re-build my media streaming NAS into a proper setup (I currently just use a ex-lease SFF PC and run off debian and docker).</p> <p>This time round I'm going to try freeBSD (just for the experience, self hosting is about fun, hey!).</p> <p>But see that freeBSD has it's own 'jails' concept and not docker. Fortunately the <a href="https://wiki.servarr.com/radarr/installation/freebsd">servarr wiki</a> has instructions on installing radarr/sonarr. I've found similar info on installing <a href="https://cgit.freebsd.org/ports/tree/news/sabnzbd">SABnzbd</a> and <a href="https://github.com/Thefrank/jellyfin-server-freebsd">Jellyfin</a>.</p> <p>Has anyone done this? What are your suggestions? Also I couldn't find a dashboard app suitable for freeBSD.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ntn8888"> /u/ntn8888 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cklk8l/jellyfin_an
+
+## What is Jellyfin and is it better than Cloudstream?
+ - [https://www.reddit.com/r/selfhosted/comments/1cklfqn/what_is_jellyfin_and_is_it_better_than_cloudstream](https://www.reddit.com/r/selfhosted/comments/1cklfqn/what_is_jellyfin_and_is_it_better_than_cloudstream)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T07:05:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Slow question here. I'm new to Jellyfin i don't know how to set it up. I'm on Mobile heard is better than every streaming service. Watched multiple vids but I'm still confused. Plus i have like 59gb on my phone from downloading Manhwa and Manga Titles from TachiyomiSY.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Consistent_Algae_560"> /u/Consistent_Algae_560 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cklfqn/what_is_jellyfin_and_is_it_better_than_cloudstream/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cklfqn/what_is_jellyfin_and_is_it_better_than_cloudstream/">[comments]</a></span>
+
+## Strange DuckDNS activty
+ - [https://www.reddit.com/r/selfhosted/comments/1ckldvc/strange_duckdns_activty](https://www.reddit.com/r/selfhosted/comments/1ckldvc/strange_duckdns_activty)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T07:02:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I have duckdns running every 5 minutes on my raspberry pi at home. I was travelling a few days ago and I went to check the duckdns login and IP info. I accidently hit update my dns on my phone logged into the duckdns domains. I thought &quot;oh no, I just overwrote my actually rasp. pi IP with the IP at my airbnb&quot;</p> <p>However, it said &quot;not updated, you already have that IP address&quot;. I used SSH to the pi and it worked normally.</p> <p>I am confused by this because I thought hitting update on my phone would replace the PI's but it didn't? Or was it that my PI's 5 minutes just hit at exactly the moment I was logging in (after I hit the button on my phone)?</p> <p>I googled about this and couldn't find the answer. Does anyone have more info on how this works?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thissatori"> /u/thissatori </a> <br /> <span><a href="https://www.reddit.com/r/
+
+## Has anyone tried building own Matrix (Conduit) server on low spec machine?
+ - [https://www.reddit.com/r/selfhosted/comments/1ckkib3/has_anyone_tried_building_own_matrix_conduit](https://www.reddit.com/r/selfhosted/comments/1ckkib3/has_anyone_tried_building_own_matrix_conduit)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T06:02:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Trying to do it on my raspberry pi zero w (yes, first version). I had to get correct cargo/rustc version by running rustup. This goes and sets my 'default host triple', the machine to <code>arm-unknown-linux-gnueabihf</code></p> <p>I can then run run <code>cargo build --release</code>, but it is really slow and often gets stuck with message below. I imagine it runs out of memory/swap</p> <pre><code>Compiling rust-librocksdb-sys v0.20.0+9.1.0 Building [=================&gt; ] 298/406: rust-librocksdb-sys(build) </code></pre> <p>Has anyone done similar already? How did manage to build it successfully.</p> <p>As an alternative, I might try to build it from my desktop since its way more powerful and then copy the binary over to raspberry pi zero w, not sure if that would work and what it would take to do this.</p> <p>Just to add, I am building it because they don't seem to ship one by default for raspberry pi zero w on their website</p> </div><!-- SC_ON -
+
+## Roku Replacements?
+ - [https://www.reddit.com/r/selfhosted/comments/1ckk9vx/roku_replacements](https://www.reddit.com/r/selfhosted/comments/1ckk9vx/roku_replacements)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T05:47:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>After hearing that Roku is getting ready to inject ads using the HDMI ports (which would suck, as I use a Roku Soundbar) so I am looking to replace it with a NUC or something, and haven't done anything like this since the Raspberry Pi 2 was shiny and new and Kodi+OSMC was so new it barely worked. And it looks like a lot of contenders have come and gone since.</p> <p>In short: What is the closest media center platform to Plex for relatively low end machines, which would basically be used for YouTube, Spotify, Amazon Prime, and Jellyfin?</p> <p>Thanks! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SocietyTomorrow"> /u/SocietyTomorrow </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckk9vx/roku_replacements/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckk9vx/roku_replacements/">[comments]</a></span>
+
+## Wireguard Tunnel From VPS to Home Network's Wireguard Server
+ - [https://www.reddit.com/r/selfhosted/comments/1ckk7yq/wireguard_tunnel_from_vps_to_home_networks](https://www.reddit.com/r/selfhosted/comments/1ckk7yq/wireguard_tunnel_from_vps_to_home_networks)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T05:43:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>I'am behind a CGNAT so I'am trying to setup a Wireguard tunnel from a DigitalOcean VPS to my home network. I got all of this mostly working, I can for example reach Plex from outside through the VPS's IP. Now I'am trying to setup a Wireguard server on my home network so I can connect to all my machines from outside. The setup is as follows:</p> <p>The VPS forwards 51820 traffic through Wireguard (which has another port on the VPS) to my home network. Here I have an Ubuntu VM that has a Wireguard configuration (wg0) that allows the connection to the VPS and another Wireguard configuration (wg1) that should server as a VPN server which would allow, for example my phone, to connect to my home network from anywhere.</p> <p>I created a peer on the wg1 configuration for my phone and set the endpoint for the VPN configuration on my phone to the VPS's IP. This allows my phone to initiate a handshake with the VPN hosted on my UbuntuVM at home. Pi
+
+## Headless CMS
+ - [https://www.reddit.com/r/selfhosted/comments/1ckjuon/headless_cms](https://www.reddit.com/r/selfhosted/comments/1ckjuon/headless_cms)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T05:18:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been using Astro for the past few days. I love it. </p> <p>I am planning to open a blog. I was thinking to use Astro + Headless CMS. I found contentful cms. They handle hosting of the CMS. What I discovered it becomes really expensive when the blog grows. </p> <p>Then I thought to use self hosted CMS. I found Directus and Decap CMS. They look very promising. Can these CMS be hosted on free hosting plan of Vercel and Cloudflare Pages? I know I can use Digital Ocean Droplets but I do not want to pay $60 per year because of my current unemployed status.</p> <p>My plan -<br /> Astro for front-end<br /> Decap CMS (free???)<br /> Cloudflare Pages (free) for Hosting<br /> Any way to host images and comments for free?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dbhalla4"> /u/dbhalla4 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckjuon/headless_cms/">[link]</a></span> &#32; <span><a 
+
+## I don't know if it is the right sub, but giving it a shot.
+ - [https://www.reddit.com/r/selfhosted/comments/1ckizeq/i_dont_know_if_it_is_the_right_sub_but_giving_it](https://www.reddit.com/r/selfhosted/comments/1ckizeq/i_dont_know_if_it_is_the_right_sub_but_giving_it)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T04:22:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, everyone. Hope you all are doing well. I recently got my first domain and routed my emails somehow to Zoho mail. However, I want to route them to Gmail/Workspace instead now. Any idea how I should go ahead with it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Commercial_Ebb1058"> /u/Commercial_Ebb1058 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckizeq/i_dont_know_if_it_is_the_right_sub_but_giving_it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckizeq/i_dont_know_if_it_is_the_right_sub_but_giving_it/">[comments]</a></span>
+
+## What's the default username/password of Stalwart mail server?
+ - [https://www.reddit.com/r/selfhosted/comments/1ckf6y4/whats_the_default_usernamepassword_of_stalwart](https://www.reddit.com/r/selfhosted/comments/1ckf6y4/whats_the_default_usernamepassword_of_stalwart)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T00:48:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed Stalwart mail server through runTipi. The problem is when i access the site, i get directly redirected to the login page. But i don't have any login or password.</p> <p>I've looked in the config file but couldn't find any user/password</p> <p>I've looked in the docker environment and couldn't find any user or password. </p> <p>Am i missing something here ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pauldupont34"> /u/pauldupont34 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckf6y4/whats_the_default_usernamepassword_of_stalwart/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckf6y4/whats_the_default_usernamepassword_of_stalwart/">[comments]</a></span>
+
+## Nginxproxy with Wireguard valutwarden nextcloud
+ - [https://www.reddit.com/r/selfhosted/comments/1ckeuhg/nginxproxy_with_wireguard_valutwarden_nextcloud](https://www.reddit.com/r/selfhosted/comments/1ckeuhg/nginxproxy_with_wireguard_valutwarden_nextcloud)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-05T00:31:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone the below in containers</p> <p>NGNIX PROXY MANAGER ADGUARD OR PIHOLE NEXTCLOUD WIREGUARD PLEX</p> <p>Could I see examples of your Yml files to make sure I got this right</p> <p>Proxy manager never ses to work</p> <p>I have configured host files did port forwarding enabled ipv4 redirect, setup ufw ports</p> <p>Wireguard and adguard frequently crap out unable to process connections</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dante_Xaiver"> /u/Dante_Xaiver </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckeuhg/nginxproxy_with_wireguard_valutwarden_nextcloud/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ckeuhg/nginxproxy_with_wireguard_valutwarden_nextcloud/">[comments]</a></span>
+
