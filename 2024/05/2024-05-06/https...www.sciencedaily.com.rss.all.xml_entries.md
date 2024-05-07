@@ -28,6 +28,20 @@ As the region reckons with its toxic history of offshore dumping off the Califor
 
 To preserve the important intertidal areas and salt marshes off our coasts for the future, we need more turbid water. That is one of the striking conclusions from a new study.
 
+## Past and guides future efforts to reduce cancer disparities
+ - [https://www.sciencedaily.com/releases/2024/05/240506131612.htm](https://www.sciencedaily.com/releases/2024/05/240506131612.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-05-06T13:16:12+00:00
+
+The toll cancer takes on lives in the U.S. has declined during the last 28 years, but not equitably. Disparities persist in many historically marginalized communities -- including communities disadvantaged by race, socioeconomic status, orientation or gender identity, and geographic location -- despite community outreach and engagement programs designed to address them.
+
+## The Clues for Cleaner Water
+ - [https://www.sciencedaily.com/releases/2024/05/240506131609.htm](https://www.sciencedaily.com/releases/2024/05/240506131609.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-05-06T13:16:09+00:00
+
+By using experimental electrochemical analyses, mass spectrometry, and computational quantum chemistry modeling, the researchers created an 'atomic-scale storyline' to explain how ozone is generated on NATO electrocatalysts. They identified that some of the nickel in NATO is probably leaching out of the electrodes via corrosion, and these nickel atoms, now floating in the solution near the catalyst, can promote chemical reactions that eventually generate ozone.
+
 ## Simulated chemistry: New AI platform designs tomorrow's cancer drugs
  - [https://www.sciencedaily.com/releases/2024/05/240506131601.htm](https://www.sciencedaily.com/releases/2024/05/240506131601.htm)
  - RSS feed: https://www.sciencedaily.com/rss/all.xml

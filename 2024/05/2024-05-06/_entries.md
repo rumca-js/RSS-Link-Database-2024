@@ -1,9 +1,221 @@
+## Alaska Launches a Chatbot That Hallucinates about Delta Airlines | Hacker News
+ - [https://news.ycombinator.com/item?id=40282042](https://news.ycombinator.com/item?id=40282042)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Alaska Launches a Chatbot That Hallucinates about Delta Airlines | Hacker News
+
 ## Apple teases iPad art event with multiple sketch logos
  - [https://appleinsider.com/articles/24/04/23/apple-teases-ipad-art-event-with-multiple-sketch-logos?utm_medium=rss](https://appleinsider.com/articles/24/04/23/apple-teases-ipad-art-event-with-multiple-sketch-logos?utm_medium=rss)
  - RSS feed: 
  - date published: 2024-05-07T00:00:00+00:00
 
 Alongside its main logo promoting the forthcoming iPad event, Apple's homepage is rotating through half a dozen variants.
+
+## At least five killed, dozens trapped in building collapse in South Africa
+ - [https://www.reuters.com/world/africa/four-killed-dozens-trapped-building-collapse-south-africa-2024-05-07](https://www.reuters.com/world/africa/four-killed-dozens-trapped-building-collapse-south-africa-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Rescuers searched through the debris of a multi-storey building collapse in the South African city of George early on Tuesday that has left at least five people dead and dozens still trapped.
+
+## Australian woman pleads not guilty ahead of mushroom deaths murder trial
+ - [https://www.reuters.com/world/asia-pacific/australian-woman-pleads-not-guilty-ahead-mushroom-deaths-murder-trial-2024-05-07](https://www.reuters.com/world/asia-pacific/australian-woman-pleads-not-guilty-ahead-mushroom-deaths-murder-trial-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+An Australian woman on Tuesday pleaded not guilty to the murder of three elderly people who died after allegedly consuming a lunch she prepared which contained poisonous mushrooms.
+
+## Brunson's 4th straight 40-point game lifts Knicks
+ - [https://www.espn.com/nba/story/_/id/40097898/jalen-brunson-notches-4th-straight-40-point-game-knicks-win](https://www.espn.com/nba/story/_/id/40097898/jalen-brunson-notches-4th-straight-40-point-game-knicks-win)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Jalen Brunson scored 43 points, becoming the fourth player in NBA history with four straight 40-point, 5-assist games in the postseason, and the New York Knicks outlasted the Indiana Pacers 121-117 on Monday in Game 1 of the Eastern Conference semifinals.
+
+## Buehler 'confident' after hitting 96 mph in return
+ - [https://www.espn.com/mlb/story/_/id/40098388/walker-buehler-strikes-four-1st-mlb-start-2-years](https://www.espn.com/mlb/story/_/id/40098388/walker-buehler-strikes-four-1st-mlb-start-2-years)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Dodgers righty Walker Buehler went four innings and struck out four on 77 pitches Monday night -- his first major league start in nearly two years.
+
+## Cambodia says it will cut shipping through Vietnam by 70% with new China-funded Mekong canal
+ - [https://www.reuters.com/world/asia-pacific/cambodia-says-it-will-cut-shipping-through-vietnam-by-70-with-new-china-funded-2024-05-07](https://www.reuters.com/world/asia-pacific/cambodia-says-it-will-cut-shipping-through-vietnam-by-70-with-new-china-funded-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Cambodia plans to cut shipping through Vietnamese ports by 70% as a result of a $1.7 billion China-funded upgrade of a canal connecting the Mekong River basin to the Cambodian coast, the country's deputy prime minister told Reuters.
+
+## Carlo rejoins Bruins late, scores after son is born
+ - [https://www.espn.com/nhl/story/_/id/40098556/after-wife-gives-birth-carlo-scores-bruins-game-1-win](https://www.espn.com/nhl/story/_/id/40098556/after-wife-gives-birth-carlo-scores-bruins-game-1-win)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Brandon Carlo wasn't with his Boston teammates Monday morning as they prepared for Game 1 in Florida, but the Bruins defenseman later rejoined his club after his wife, Mayson, gave birth to their son, Crew, and he proceeded to score a goal in a 5-1 win.
+
+## Cease: Final White Sox season 'wasn't enjoyable'
+ - [https://www.espn.com/mlb/story/_/id/40097428/dylan-cease-says-last-year-white-sox-enjoyable](https://www.espn.com/mlb/story/_/id/40097428/dylan-cease-says-last-year-white-sox-enjoyable)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Dylan Cease said his final season with the Chicago White Sox "wasn't enjoyable in really any way."
+
+## China's Xi and Macron urge 'political settlement' of Iran nuclear issue, state media reports
+ - [https://www.reuters.com/world/chinas-xi-macron-urge-political-settlement-iran-nuclear-issue-state-media-2024-05-07](https://www.reuters.com/world/chinas-xi-macron-urge-political-settlement-iran-nuclear-issue-state-media-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Chinese President Xi Jinping and his French counterpart, Emmanuel Macron, reaffirmed their commitment to promoting a political settlement of the Iran nuclear issue, in a joint statement published by Chinese state media on Tuesday.
+
+## CodeCrafters (YC S22) Is Hiring Asia-Based SDRs / BDRs | Hacker News
+ - [https://news.ycombinator.com/item?id=40283482](https://news.ycombinator.com/item?id=40283482)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+CodeCrafters (YC S22) Is Hiring Asia-Based SDRs / BDRs | Hacker News
+
+## Dodgers lose another reliever, place Kelly on IL
+ - [https://www.espn.com/mlb/story/_/id/40097651/dodgers-place-reliever-joe-kelly-il-posterior-strain](https://www.espn.com/mlb/story/_/id/40097651/dodgers-place-reliever-joe-kelly-il-posterior-strain)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+The Los Angeles Dodgers lost another reliever on Monday when Joe Kelly was placed on the IL with a posterior strain in his right, throwing shoulder.
+
+## Drake Trolled on GoFundMe Over Kendrick Beef, Company Wipes Fundraisers
+ - [https://www.tmz.com/2024/05/07/drake-trolled-by-gofundme-users-over-kendrick-beef-company-wipes-fundraisers](https://www.tmz.com/2024/05/07/drake-trolled-by-gofundme-users-over-kendrick-beef-company-wipes-fundraisers)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Drake sent the latest shot in his Kendrick Lamar beef, but fans -- actually trolls -- might have the last say by flocking to GoFundMe to mock him, and potentially profit off his rap demise ... which the company's shutting down.
+
+## Dutch police end a pro-Palestinian demonstration at Amsterdam university
+ - [https://www.reuters.com/world/europe/dutch-police-end-pro-palestinian-demonstration-amsterdam-university-2024-05-07](https://www.reuters.com/world/europe/dutch-police-end-pro-palestinian-demonstration-amsterdam-university-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Dutch riot police ended a pro-Palestinian demonstration at an Amsterdam university early on Tuesday, arresting some 125 people in sometimes violent clashes, authorities said.
+
+## EBRD warns Georgia 'foreign agents' law could hit economy, investor confidence
+ - [https://www.reuters.com/world/europe/ebrd-warns-georgia-foreign-agents-law-could-hit-economy-investor-confidence-2024-05-07](https://www.reuters.com/world/europe/ebrd-warns-georgia-foreign-agents-law-could-hit-economy-investor-confidence-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Tensions around Georgia's controversial draft "foreign agents" law could hit the country's economy and investor confidence, the president of the European Bank for Reconstruction and Development (EBRD) warned on Tuesday.
+
+## European Team of the Week: Haaland, Jackson, Olise star
+ - [https://www.espn.com/soccer/story/_/id/40098996/european-team-week-haaland-jackson-olise-star](https://www.espn.com/soccer/story/_/id/40098996/european-team-week-haaland-jackson-olise-star)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+ESPN and WhoScored bring you the best players from Europe's top five leagues from the latest round of action.
+
+## Faster XML Stream Processing in Go (2019) | Hacker News
+ - [https://news.ycombinator.com/item?id=40280875](https://news.ycombinator.com/item?id=40280875)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Faster XML Stream Processing in Go (2019) | Hacker News
+
+## GCC 14.1 | Hacker News
+ - [https://news.ycombinator.com/item?id=40283139](https://news.ycombinator.com/item?id=40283139)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+GCC 14.1 | Hacker News
+
+## GCC, the GNU Compiler Collection
+- GNU Project
+ - [https://gcc.gnu.org](https://gcc.gnu.org)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+GCC, the GNU Compiler Collection
+- GNU Project
+
+## Gobert ruled out vs. Nuggets after son's birth
+ - [https://www.espn.com/nba/story/_/id/40097115/rudy-gobert-personal-ruled-game-2-vs-nuggets](https://www.espn.com/nba/story/_/id/40097115/rudy-gobert-personal-ruled-game-2-vs-nuggets)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Rudy Gobert was unable to fly back to Denver in time to rejoin the Timberwolves for Game 2 vs. the Nuggets after the birth of his first child.
+
+## Google begins enforcement of site reputation abuse policy | Hacker News
+ - [https://news.ycombinator.com/item?id=40282290](https://news.ycombinator.com/item?id=40282290)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Google begins enforcement of site reputation abuse policy | Hacker News
+
+## Hacker News
+ - [https://news.ycombinator.com/item?id=40283808](https://news.ycombinator.com/item?id=40283808)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Hacker News
+
+## Harper, Wheeler roll as Phils' hot start continues
+ - [https://www.espn.com/mlb/story/_/id/40096788/bryce-harper-zack-wheeler-roll-phillies-hot-start-continues](https://www.espn.com/mlb/story/_/id/40096788/bryce-harper-zack-wheeler-roll-phillies-hot-start-continues)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Zack Wheeler struck out 11 and Bryce Harper hit a 3-run HR to complete a sweep of the Giants as the Phillies improved to a major-league-leading 25-11.
+
+## How Python asyncio works: recreating it from scratch | Hacker News
+ - [https://news.ycombinator.com/item?id=40281139](https://news.ycombinator.com/item?id=40281139)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+How Python asyncio works: recreating it from scratch | Hacker News
+
+## In Myanmar war, crucial window looms for junta and rebels
+ - [https://www.reuters.com/world/asia-pacific/myanmar-war-crucial-window-looms-junta-rebels-2024-05-07](https://www.reuters.com/world/asia-pacific/myanmar-war-crucial-window-looms-junta-rebels-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+In the jungles of southeastern Myanmar's Dawna Hills, rebels from an armed ethnic group are fighting to hold back columns of reinforcements sent by the country's ruling junta to try to reclaim Myawaddy, a critical trading outpost on the Thai border.
+
+## India election: Inside Modi and BJP's plan to win a supermajority
+ - [https://www.reuters.com/world/india/how-modis-bjp-plans-win-supermajority-indias-election-2024-05-07](https://www.reuters.com/world/india/how-modis-bjp-plans-win-supermajority-indias-election-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+As India votes in a six-week general election, Narendra Modi's image adorns everything from packs of rice handed out to the poor to large posters in cities and towns.
+
+## India's Modi casts his vote as giant election reaches half-way mark
+ - [https://www.reuters.com/world/india/modis-home-state-gujarat-among-11-territories-voting-third-phase-giant-indian-2024-05-07](https://www.reuters.com/world/india/modis-home-state-gujarat-among-11-territories-voting-third-phase-giant-indian-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Prime Minister Narendra Modi voted early on Tuesday as India held the third phase of a massive general election, when seats in his home state Gujarat and 10 other regions will be decided.
+
+## Installing fonts in macOS Sonoma
+ - [https://appleinsider.com/inside/macos-sonoma/tips/how-to-add-fonts-in-macos-sonoma?utm_medium=rss](https://appleinsider.com/inside/macos-sonoma/tips/how-to-add-fonts-in-macos-sonoma?utm_medium=rss)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Installing fonts in macOS Sonoma is almost as easy as downloading them. Here's how you can add them to your Mac.
+
+## Israel says it has taken control of Gaza side of Rafah Crossing amid truce talks
+ - [https://www.reuters.com/world/middle-east/israel-says-it-has-taken-control-gaza-side-rafah-crossing-amid-truce-talks-2024-05-07](https://www.reuters.com/world/middle-east/israel-says-it-has-taken-control-gaza-side-rafah-crossing-amid-truce-talks-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+The Israeli military said on Tuesday it had taken operational control of the Palestinian side of Gaza's southern Rafah Crossing, which borders Egypt and has been pivotal for the delivery of aid and exit of injured people in the Gaza war.
+
+## Israeli military takes control of vital Rafah crossing from Gaza into Egypt
+ - [https://www.reuters.com/world/middle-east/israeli-military-take-control-vital-rafah-crossing-gaza-into-egypt-2024-05-07](https://www.reuters.com/world/middle-east/israeli-military-take-control-vital-rafah-crossing-gaza-into-egypt-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+The Israeli military took control of the vital Rafah border crossing between Gaza and Egypt on Tuesday, pushing into the southern Gazan town after a night of air strikes and as prospects for a ceasefire deal hung in the balance.
+
+## Japan tells US that Biden's 'xenophobia' comment is regrettable
+ - [https://www.reuters.com/world/asia-pacific/japan-tells-us-that-bidens-xenophobia-comment-is-regrettable-2024-05-07](https://www.reuters.com/world/asia-pacific/japan-tells-us-that-bidens-xenophobia-comment-is-regrettable-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Japan has described as "regrettable" U.S. President Joe Biden's comment that "xenophobia" is stifling the Asian nation's economic growth, the top government spokesperson said on Tuesday.
 
 ## Jennifer Lopez Arrives to the Met Gala Solo, Ben Affleck Filming in L.A.
  - [https://www.tmz.com/2024/05/06/jennifer-lopez-arrives-solo-met-gala-ben-affleck-filming-los-angeles](https://www.tmz.com/2024/05/06/jennifer-lopez-arrives-solo-met-gala-ben-affleck-filming-los-angeles)
@@ -12,12 +224,166 @@ Alongside its main logo promoting the forthcoming iPad event, Apple's homepage i
 
 Jennifer Lopez just showed up to the Met Gala -- and while she was rolling solo ... we know it's only because Ben Affleck is hard at work on the West Coast, where he's on set.
 
+## Kan: Kolmogorov-Arnold Networks | Hacker News
+ - [https://news.ycombinator.com/item?id=40281516](https://news.ycombinator.com/item?id=40281516)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Kan: Kolmogorov-Arnold Networks | Hacker News
+
+## Katy Perry AI Photos of Her at Met Gala Go Viral, Dupe the Internet
+ - [https://www.tmz.com/2024/05/06/katy-perry-ai-photos-met-gala-viral-fashion-fake](https://www.tmz.com/2024/05/06/katy-perry-ai-photos-met-gala-viral-fashion-fake)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Fake Katy Perry photos of her at the Met Gala went viral Monday, even though she was nowhere to be seen in real life.
+
+## Knicks 121-117 Pacers (May 6, 2024) Final Score - ESPN
+ - [https://www.espn.com/nba/game/_/gameId/401657420/pacers-knicks](https://www.espn.com/nba/game/_/gameId/401657420/pacers-knicks)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Game summary of the New York Knicks vs. Indiana Pacers NBA game, final score 121-117, from May 6, 2024 on ESPN.
+
+## Kris Jenner Arrives to the Met Gala Looking Like a Bride, Kim K Stuns
+ - [https://www.tmz.com/2024/05/06/kris-jenner-met-gala-look-like-bride-kim-kardshian-stuns-fashion](https://www.tmz.com/2024/05/06/kris-jenner-met-gala-look-like-bride-kim-kardshian-stuns-fashion)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Kris Jenner looked ready to walk down the aisle as she was heading to the Met Gala -- rocking a getup that basically screamed wifey-to-be ... with Corey Gamble close behind.
+
+## LIVE Transfer Talk:  Arsenal, Man United losing Guirassy race
+ - [https://www.espn.com/soccer/story/_/id/40096650/transfer-talk-bvb-ahead-arsenal-man-utd-guirassy-race](https://www.espn.com/soccer/story/_/id/40096650/transfer-talk-bvb-ahead-arsenal-man-utd-guirassy-race)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Stuttgart striker Serhou Guirassy will likely favour a move to Dortmund over Arsenal and Manchester United. Transfer Talk is LIVE with the latest.
+
+## Mark On 'Parks And Recreation' 'Memba Him?!
+ - [https://www.tmz.com/2024/05/07/mark-on-parks-and-recreation-memba-him](https://www.tmz.com/2024/05/07/mark-on-parks-and-recreation-memba-him)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+American actor Paul Schneider was in his early 30's when he first started playing Mark on the political satire sitcom "Parks And Recreation" back in 2009. Guess what he looks like now!
+
+## Modelling 50 years of the Expanded Programme on Immunization | Hacker News
+ - [https://news.ycombinator.com/item?id=40280975](https://news.ycombinator.com/item?id=40280975)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Modelling 50 years of the Expanded Programme on Immunization | Hacker News
+
+## More civilians will be killed in Israel's Rafah offensive 'whatever they say' - EU's Borrell
+ - [https://www.reuters.com/world/middle-east/more-civilians-will-be-killed-israels-rafah-offensive-whatever-they-say-eus-2024-05-07](https://www.reuters.com/world/middle-east/more-civilians-will-be-killed-israels-rafah-offensive-whatever-they-say-eus-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Israel's offensive on Rafah will likely kill more civilians and is being carried out despite explicit warnings against it from European Union member states and the United States, the EU's top diplomat said on Tuesday.
+
+## MSN
+ - [https://feedpress.me/link/20202/16674715/ar-BB1lVCWx](https://feedpress.me/link/20202/16674715/ar-BB1lVCWx)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+MSN
+
+## Murray tosses heating pad on floor in Game 2 loss
+ - [https://www.espn.com/nba/story/_/id/40098658/murray-dodges-technical-foul-call-throwing-heating-pad](https://www.espn.com/nba/story/_/id/40098658/murray-dodges-technical-foul-call-throwing-heating-pad)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Denver Nuggets guard Jamal Murray should have been called for a technical foul after throwing a heating pad on the floor during a 106-80 Game 2 loss to the Minnesota Timberwolves, crew chief Marc Davis said Monday, but play continued without any whistle.
+
+## NBA ROY Victor Wembanyama joins list of greatest debut seasons ever
+ - [https://www.espn.com/nba/story/_/id/39977661/best-rookie-seasons-all](https://www.espn.com/nba/story/_/id/39977661/best-rookie-seasons-all)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+The Spurs center averaged 21.4 points, 10.6 rebounds and a league-leading 3.6 blocks per game as a rookie.
+
 ## New Apple Pencil may be called 'Apple Pencil Pro'
  - [https://appleinsider.com/articles/24/05/06/new-apple-pencil-may-be-called-apple-pencil-pro?utm_medium=rss](https://appleinsider.com/articles/24/05/06/new-apple-pencil-may-be-called-apple-pencil-pro?utm_medium=rss)
  - RSS feed: 
  - date published: 2024-05-07T00:00:00+00:00
 
 AppleInsider has learned that code in the Japanese version of Apple's website reveals multiple mentions of an "Apple Pencil Pro," ahead of the expected release of a new model on May 7.
+
+## Nuggets staggered by Wolves again in G2 laugher
+ - [https://www.espn.com/nba/story/_/id/40098405/wolves-stagger-nuggets-again-edwards-towns-spark-game-2-rout](https://www.espn.com/nba/story/_/id/40098405/wolves-stagger-nuggets-again-edwards-towns-spark-game-2-rout)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Another dominant performance by the Minnesota Timberwolves has the reigning but reeling NBA champion Denver Nuggets seemingly on the cusp of a stunning early exit from the playoffs.
+
+## O.J. Simpson Signed Recital Program From Day Of Murders Hits Auction Block
+ - [https://www.tmz.com/2024/05/07/oj-simpson-signed-dance-recital-program-double-murder-hits-auction-nicole-brown-simpson-ron-goldman](https://www.tmz.com/2024/05/07/oj-simpson-signed-dance-recital-program-double-murder-hits-auction-nicole-brown-simpson-ron-goldman)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+O.J. attended his daughter's dance recital the day of the gruesome double murders of Nicole Brown Simpson and Ron Goldman in 1994. Now, a program from the recital -- signed by Simpson -- is on the auction block.
+
+## Palestinians seek UN General Assembly backing for full membership
+ - [https://www.reuters.com/world/middle-east/palestinians-seek-un-general-assembly-backing-full-membership-2024-05-07](https://www.reuters.com/world/middle-east/palestinians-seek-un-general-assembly-backing-full-membership-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+The United Nations General Assembly could vote on Friday on a draft resolution that would recognize the Palestinians as qualified to become a full U.N. member and recommend that the U.N. Security Council "reconsider the matter favorably."
+
+## Poland says it finds bugging devices in room where government was due to meet
+ - [https://www.reuters.com/world/europe/poland-says-it-finds-bugging-devices-room-where-government-was-due-meet-2024-05-07](https://www.reuters.com/world/europe/poland-says-it-finds-bugging-devices-room-where-government-was-due-meet-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Polish special services have found and dismantled bugging devices in a room where the council of ministers was due to meet on Tuesday, the special services coordinator's spokesman said.
+
+## Secret Apple 'Project ACDC' to pioneer AI chips for data centers
+ - [https://appleinsider.com/articles/24/05/07/secret-apple-project-acdc-to-pioneer-ai-chips-for-data-centers?utm_medium=rss](https://appleinsider.com/articles/24/05/07/secret-apple-project-acdc-to-pioneer-ai-chips-for-data-centers?utm_medium=rss)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Amidst a high-stakes AI race, Apple is forging ahead with "Project ACDC," a secret initiative recently come to light that develops proprietary AI chips for data centers.
+
+## South Korea LGBTQ event finds home in streets after permit struggle
+ - [https://www.reuters.com/world/asia-pacific/south-korea-lgbtq-event-finds-home-streets-after-permit-struggle-2024-05-07](https://www.reuters.com/world/asia-pacific/south-korea-lgbtq-event-finds-home-streets-after-permit-struggle-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+The Seoul Queer Culture Festival will take place in the capital's streets this year, organisers of South Korea's annual LGBTQ gathering said on Tuesday, after the city government denied their requests to hold events at four locations.
+
+## Spacecraft Takes Close Up Video of the Sun, Revealing Otherworldly Hellscape | Hacker News
+ - [https://news.ycombinator.com/item?id=40281936](https://news.ycombinator.com/item?id=40281936)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Spacecraft Takes Close Up Video of the Sun, Revealing Otherworldly Hellscape | Hacker News
+
+## Steele returns for Cubs, pitches into 5th vs. Padres
+ - [https://www.espn.com/mlb/story/_/id/40096878/justin-steele-returns-chicago-cubs-host-san-diego-padres](https://www.espn.com/mlb/story/_/id/40096878/justin-steele-returns-chicago-cubs-host-san-diego-padres)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Justin Steele returned to one of baseball's best rotations on Monday night, starting the opener of the Chicago Cubs' three-game series against the San Diego Padres, and the 28-year-old pitched into the fifth inning of the road team's 6-3 victory.
+
+## Tiffany Haddish Says Campus Protests Are Not Effective, Write a Letter
+ - [https://www.tmz.com/2024/05/06/tiffany-haddish-campus-protests-israel-gaza-not-effective-write-letter](https://www.tmz.com/2024/05/06/tiffany-haddish-campus-protests-israel-gaza-not-effective-write-letter)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Tiffany Haddish unloaded on campus protesters across the country who are speaking out about the war in the Middle East -- and she's doubling down ... offering up other solutions.
+
+## Timberwolves 106-80 Nuggets (May 6, 2024) Final Score - ESPN
+ - [https://www.espn.com/nba/game/_/gameId/401657183/timberwolves-nuggets](https://www.espn.com/nba/game/_/gameId/401657183/timberwolves-nuggets)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Game summary of the Minnesota Timberwolves vs. Denver Nuggets NBA game, final score 106-80, from May 6, 2024 on ESPN.
+
+## TMZ TV Hot Takes: Travis Kelce Kentucky Derby, Tom Brady Roast, Jim Jones
+ - [https://www.tmz.com/2024/05/07/tmz-tv-hot-takes-travis-kelce-derby-tom-brady-roast-jim-jones](https://www.tmz.com/2024/05/07/tmz-tv-hot-takes-travis-kelce-derby-tom-brady-roast-jim-jones)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Today on TMZ TV Hot Takes: Tom Brady, Travis Kelce, Jim Jones.
 
 ## Trump hush money trial live updates: Judge holds Trump in contempt of court
  - [https://feedpress.me/link/20202/16674400/trump-trial-hush-money-updates-day-12](https://feedpress.me/link/20202/16674400/trump-trial-hush-money-updates-day-12)
@@ -26,12 +392,47 @@ AppleInsider has learned that code in the Japanese version of Apple's website re
 
 Testimony resumes Monday in Donald Trump’s hush money trial as prosecutors get closer to calling their star witness and Trump's former lawyer and fixer, Michael Cohen.
 
+## Turkey's Bosphorus traffic suspended after ship engine failure, agent says
+ - [https://www.reuters.com/world/middle-east/turkeys-bosphorus-traffic-suspended-after-ship-engine-failure-agent-says-2024-05-07](https://www.reuters.com/world/middle-east/turkeys-bosphorus-traffic-suspended-after-ship-engine-failure-agent-says-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Traffic was suspended in Turkey's Bosphorus on Tuesday after a bulk carrier had an engine failure at the southern end of the straits that run through Istanbul, shipping agent Tribeca said.
+
+## UK has taken military database offline after hack reports, says minister
+ - [https://www.reuters.com/world/uk/uk-has-taken-military-database-offline-after-hack-reports-says-minister-2024-05-07](https://www.reuters.com/world/uk/uk-has-taken-military-database-offline-after-hack-reports-says-minister-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Britain acted quickly to take a database used by its defence ministry offline after - media reports said - it was hacked by the Chinese state, a senior British minister said on Tuesday.
+
+## US soldier arrested in Russia on theft charges, RIA reports
+ - [https://www.reuters.com/world/us-soldier-arrested-russia-theft-charges-ria-reports-2024-05-07](https://www.reuters.com/world/us-soldier-arrested-russia-theft-charges-ria-reports-2024-05-07)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+A U.S. soldier who was detained in Russia on charges of criminal misconduct was arrested by a Vladivostok court on theft charges, Russia's RIA state news agency reported on Tuesday.
+
+## Utilities for refactoring and upgrading Ruby code based on ASTs | Hacker News
+ - [https://news.ycombinator.com/item?id=40281314](https://news.ycombinator.com/item?id=40281314)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Utilities for refactoring and upgrading Ruby code based on ASTs | Hacker News
+
 ## What isn't coming at Apple's 'Let Loose' event
  - [https://appleinsider.com/articles/24/05/03/macs-ipad-mini-and-big-ai-announcements-are-not-coming-at-apples-ipad-event?utm_medium=rss](https://appleinsider.com/articles/24/05/03/macs-ipad-mini-and-big-ai-announcements-are-not-coming-at-apples-ipad-event?utm_medium=rss)
  - RSS feed: 
  - date published: 2024-05-07T00:00:00+00:00
 
 While Apple's "Let Loose" event is to be dedicated to the iPad, there will be more — and yet there are also many devices Apple will hold back for later.
+
+## Will Smith Gets Unwanted Visitor, Alleged Trespasser Busted at L.A. Home
+ - [https://www.tmz.com/2024/05/07/will-smith-la-area-home-visited-alleged-trespasser-jada-pinkett](https://www.tmz.com/2024/05/07/will-smith-la-area-home-visited-alleged-trespasser-jada-pinkett)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Tense times for Will Smith's security team, thanks to an unscheduled and unwanted guest guards had to take down at Will's home until cops could arrive ... TMZ has learned.
 
 ## House Panel Calls To Defund Federal Agencies That Stonewall Congressional Probes | ZeroHedge
  - [https://www.zerohedge.com/political/house-panel-calls-defund-federal-agencies-stonewall-congressional-probes](https://www.zerohedge.com/political/house-panel-calls-defund-federal-agencies-stonewall-congressional-probes)
@@ -54,6 +455,13 @@ TechCrunch is part of the Yahoo family of brands
 
 Yahoo is part of the Yahoo family of brands
 
+## Trump fined $1,000 for gag order violation in hush money case as former employee testifies
+ - [https://www.pbs.org/newshour/politics/trump-fined-1000-for-gag-order-violation-in-hush-money-case-as-former-employee-testifies](https://www.pbs.org/newshour/politics/trump-fined-1000-for-gag-order-violation-in-hush-money-case-as-former-employee-testifies)
+ - RSS feed: 
+ - date published: 2024-05-06T23:57:52+00:00
+
+The reprimand Monday opened a revelatory day of testimony, as jurors for the first time heard the details of the financial reimbursements at the center of the case and saw payment checks bearing Trump's signature.
+
 ## Implementation of Biden infosec EO still incomplete
  - [https://go.theregister.com/feed/www.theregister.com/2024/05/06/biden_infosec_eo_update](https://go.theregister.com/feed/www.theregister.com/2024/05/06/biden_infosec_eo_update)
  - RSS feed: 
@@ -67,6 +475,20 @@ It's taking time, but isn't a dead issue, US Government Accountability Office se
  - date published: 2024-05-06T23:53:18.360700+00:00
 
 TechCrunch is part of the Yahoo family of brands
+
+## Patriots Launch Search for a New Head of Football Ops: Report
+ - [https://heavy.com/sports/nfl/new-england-patriots/patriots-begin-search-for-head-of-football-operations](https://heavy.com/sports/nfl/new-england-patriots/patriots-begin-search-for-head-of-football-operations)
+ - RSS feed: 
+ - date published: 2024-05-06T23:50:00+00:00
+
+The Patriots will begin the search for their next head of football operations, the first search since they hired Bill Belichick in 2000.
+
+## Raiders Strike Deal With 3-Time Ex-Saints Pro Bowler: Report
+ - [https://heavy.com/sports/nfl/las-vegas-raiders/andrus-peat-contract-news-saints](https://heavy.com/sports/nfl/las-vegas-raiders/andrus-peat-contract-news-saints)
+ - RSS feed: 
+ - date published: 2024-05-06T23:49:57+00:00
+
+The Las Vegas Raiders landed the former New Orleans Saints star, who was one of the top remaining free agents.
 
 ## Alternative Clouds Are Booming As Companies Seek Cheaper Access To GPUs - Slashdot
  - [https://slashdot.org/story/24/05/06/2122229/alternative-clouds-are-booming-as-companies-seek-cheaper-access-to-gpus?utm_source=rss1.0mainlinkanon&amp](https://slashdot.org/story/24/05/06/2122229/alternative-clouds-are-booming-as-companies-seek-cheaper-access-to-gpus?utm_source=rss1.0mainlinkanon&amp)
@@ -89,6 +511,13 @@ Palm apps
 
 The Rabbit R1 is one of the first standalone AI companion devices to hit the market, offering the ability to translate languages, identify objects in your environment, and order DoorDash, among other things. It's been in the news last week for its all around poor reviews that cite poor battery life,...
 
+## Ariana Grande Makes Another Reference to Wicked at the Met Gala 2024
+ - [https://www.vanityfair.com/style/story/ariana-grande-arrives-at-the-met-gala-2024](https://www.vanityfair.com/style/story/ariana-grande-arrives-at-the-met-gala-2024)
+ - RSS feed: 
+ - date published: 2024-05-06T23:41:12.440000+00:00
+
+The Wicked star, of course, brought a little witchiness to the garden of time.
+
 ## TechCrunch is part of the Yahoo family of brands
  - [https://techcrunch.com/2024/05/06/techcrunch-space-launch-pad-decongestion](https://techcrunch.com/2024/05/06/techcrunch-space-launch-pad-decongestion)
  - RSS feed: 
@@ -110,12 +539,68 @@ ZeroHedge - On a long enough timeline, the survival rate for everyone drops to z
 
 TechCrunch is part of the Yahoo family of brands
 
+## Microsoft signs deal with Swedish partner to remove 3.3 million metric tons of carbon dioxide
+ - [https://www.cnbc.com/2024/05/06/microsoft-signs-deal-to-remove-3point3-million-metric-tons-of-carbon-dioxide.html](https://www.cnbc.com/2024/05/06/microsoft-signs-deal-to-remove-3point3-million-metric-tons-of-carbon-dioxide.html)
+ - RSS feed: 
+ - date published: 2024-05-06T23:27:07+00:00
+
+Stockholm Exergi described the Microsoft contract as the largest carbon removal deal to date.
+
 ## Google TV’s ‘Magic Button’ makes its debut — but not on a Chromecast
  - [https://www.theverge.com/2024/5/6/24150591/google-tv-magic-button-star-customizable-walmart-onn-4k-pro](https://www.theverge.com/2024/5/6/24150591/google-tv-magic-button-star-customizable-walmart-onn-4k-pro)
  - RSS feed: 
  - date published: 2024-05-06T23:25:22.437000+00:00
 
 The Google TV Magic Button is bestowed upon Walmart.
+
+## Contest Seeking Short Stories for Film and TV Adaptation Launched by Roadmap Writers, Barry Josephson
+ - [https://variety.com/2024/film/news/short-story-content-roadmap-writers-barry-josephson-1235993535](https://variety.com/2024/film/news/short-story-content-roadmap-writers-barry-josephson-1235993535)
+ - RSS feed: 
+ - date published: 2024-05-06T23:23:49+00:00
+
+Roadmap Writers and Barry Josephson have launched a contest for short stories, which have become increasingly popular IP for film and TV.
+
+## I'm Just Not Sure About Chris Hemsworth's Met Gala Look
+ - [https://www.esquire.com/style/mens-fashion/a60705597/chris-hemsworth-met-gala-2024](https://www.esquire.com/style/mens-fashion/a60705597/chris-hemsworth-met-gala-2024)
+ - RSS feed: 
+ - date published: 2024-05-06T23:22:00+00:00
+
+Is it a very subtle reference to the theme, or what?
+
+## 'Versatile' Defender Considered UDFA Most Likely to Make Broncos' 53-Man Roster
+ - [https://heavy.com/sports/nfl/denver-broncos/undrafted-free-agents-brown-versatile-broncos](https://heavy.com/sports/nfl/denver-broncos/undrafted-free-agents-brown-versatile-broncos)
+ - RSS feed: 
+ - date published: 2024-05-06T23:16:38+00:00
+
+Ryan Fowler of Bleacher Report considered former Nebraska DB Omar Brown as the UDFA most likely to make the Broncos' final 2024 roster.
+
+## Giants' Draft Sleeper Tipped for 'Tony Pollard-like' Impact
+ - [https://heavy.com/sports/nfl/new-york-giants/tyrone-tracy-jr-sleeper-tony-pollard](https://heavy.com/sports/nfl/new-york-giants/tyrone-tracy-jr-sleeper-tony-pollard)
+ - RSS feed: 
+ - date published: 2024-05-06T23:15:33+00:00
+
+New York Giants' draft sleeper Tyrone Tracy Jr. is tipped to have a "Tony Pollard-like impact" in a backfield missing Saquon Barkley.
+
+## Cowboys Urged to Replace Starter With Former $90 Million Pro Bowl Star
+ - [https://heavy.com/sports/nfl/dallas-cowboys/nfl-rumors-news-dolphins-xavien-howard](https://heavy.com/sports/nfl/dallas-cowboys/nfl-rumors-news-dolphins-xavien-howard)
+ - RSS feed: 
+ - date published: 2024-05-06T23:10:52+00:00
+
+The Dallas Cowboys are being pushed to replace on of their former Pro Bowl starters with ex-Miami Dolphins star Xavien Howard.
+
+## Heat's Pat Riley Calls Out Jimmy Butler: 'Keep Your Mouth Shut'
+ - [https://heavy.com/sports/nba/miami-heat/pat-riley-calls-out-jimmy-butler](https://heavy.com/sports/nba/miami-heat/pat-riley-calls-out-jimmy-butler)
+ - RSS feed: 
+ - date published: 2024-05-06T23:03:17+00:00
+
+Pat Riley was not a fan of Jimmy Butler's comments about beating the Celtics and Knicks had he been healthy, advising him to be quiet.
+
+## Pro-Palestine protesters seen removing barricades as they march towards Met Gala
+ - [https://feedpress.me/link/20202/16674680/palestine-protest-college-met-gala-2024-israel-new-york](https://feedpress.me/link/20202/16674680/palestine-protest-college-met-gala-2024-israel-new-york)
+ - RSS feed: 
+ - date published: 2024-05-06T23:02:50+00:00
+
+OVER 1,000 pro-Palestine protesters have been spotted marching toward the iconic Metropolitan Museum of Art where the 2024 Met Gala is being held. The demonstrators took to the streets in New York …
 
 ## Lauren Sánchez Blooms In Debut at the Met Gala 2024
  - [https://www.vanityfair.com/style/story/lauren-sanchez-debut-at-the-met-gala-2024](https://www.vanityfair.com/style/story/lauren-sanchez-debut-at-the-met-gala-2024)
@@ -124,12 +609,26 @@ The Google TV Magic Button is bestowed upon Walmart.
 
 Sánchez and fiancé Jeff Bezos attended the Met Gala at The Metropolitan Museum of Art on Monday evening.
 
+## Cowboys Insider Quickly Puts Najee Harris Trade Rumors to Rest
+ - [https://heavy.com/sports/nfl/dallas-cowboys/pittsburgh-steelers-trade-rumors-najee-harris](https://heavy.com/sports/nfl/dallas-cowboys/pittsburgh-steelers-trade-rumors-najee-harris)
+ - RSS feed: 
+ - date published: 2024-05-06T23:01:29+00:00
+
+NFL media is linking the Cowboys to a potential trade for Steelers RB Najee Harris, something an insider is dismissing as "click bait."
+
 ## Israel launches operation into Rafah, says cease-fire agreement not reached with Hamas
  - [https://www.pbs.org/newshour/show/israel-launches-operation-into-rafah-says-cease-fire-agreement-not-reached-with-hamas](https://www.pbs.org/newshour/show/israel-launches-operation-into-rafah-says-cease-fire-agreement-not-reached-with-hamas)
  - RSS feed: 
  - date published: 2024-05-06T22:55:59+00:00
 
 It is a delicate and momentous day in the Middle East. The Israeli military says it has launched a new operation into parts of Rafah in southern Gaza. At the same time, the Israeli government says it's continuing negotiations to reach a cease-fire with Hamas in exchange for the release of hostages. William Brangham discusses the latest with Nick Schifrin and Aaron David Miller.
+
+## Here's why Capitol Hill is so quiet on Rep. Henry Cuellar's indictment
+ - [https://www.axios.com/2024/05/06/henry-cuellar-indictment-resign-congress](https://www.axios.com/2024/05/06/henry-cuellar-indictment-resign-congress)
+ - RSS feed: 
+ - date published: 2024-05-06T22:51:35+00:00
+
+"I don't know much about that," Speaker Mike Johnson said when asked if Cuellar should resign.
 
 ## News Wrap: Russia says it will hold drills to simulate nuclear weapon use
  - [https://www.pbs.org/newshour/show/news-wrap-russia-says-it-will-hold-drills-to-simulate-nuclear-weapon-use](https://www.pbs.org/newshour/show/news-wrap-russia-says-it-will-hold-drills-to-simulate-nuclear-weapon-use)
@@ -144,6 +643,27 @@ In our news wrap Monday, Russia publicly announced drills to simulate the use of
  - date published: 2024-05-06T22:45:48+00:00
 
 Two former employees of the Trump Organization were on the stand in New York. Jeffrey McConney and Deborah Tasaroff were involved in the payments that are at the center of the charges filed against the former president in his hush money trial. Donald Trump also received another fine and a tough warning from the judge. William Brangham discussed the latest with Ximena Bustillo of NPR.
+
+## Jets Abruptly Cut Ties With Big Armed QB After Rookie Minicamp
+ - [https://heavy.com/sports/nfl/new-york-jets/byron-peewee-jarrett-nfl-roster-cut](https://heavy.com/sports/nfl/new-york-jets/byron-peewee-jarrett-nfl-roster-cut)
+ - RSS feed: 
+ - date published: 2024-05-06T22:45:21+00:00
+
+The New York Jets have shuffled around its quarterbacks on the roster including cutting ties with Byron "Peewee" Jarrett.
+
+## Israel moves to capture the Palestinian side of Rafah border crossing, sources say
+ - [https://www.axios.com/2024/05/06/israel-gaza-rafah-invasion-hamas-hostage-deal](https://www.axios.com/2024/05/06/israel-gaza-rafah-invasion-hamas-hostage-deal)
+ - RSS feed: 
+ - date published: 2024-05-06T22:42:50.531000+00:00
+
+Israeli officials said it is part of the first phase of Israel's military operation in the southern Gaza city.
+
+## Jim Cramer says the sell-off may be over, pointing to the correction in Big Tech
+ - [https://www.cnbc.com/2024/05/06/cramer-says-the-sell-off-may-be-over-pointing-to-big-tech-correction.html](https://www.cnbc.com/2024/05/06/cramer-says-the-sell-off-may-be-over-pointing-to-big-tech-correction.html)
+ - RSS feed: 
+ - date published: 2024-05-06T22:42:00+00:00
+
+CNBC's Jim Cramer listed several tech companies that have had notable losses over the past few months, including Nvidia and Microsoft.
 
 ## Dozens of Gazans stopped by Egyptian military as they attempt to cross the border
  - [https://feedpress.me/link/20202/16674586/article-800175](https://feedpress.me/link/20202/16674586/article-800175)
@@ -249,6 +769,13 @@ SI.com's All Steelers' Stephen Thompson named Indianapolis Colts receiver Alec P
  - date published: 2024-05-06T22:26:15+00:00
 
 One former NFL executive is pushing for the Minnesota Vikings to change their plans for J.J. McCarthy this season.
+
+## Tamara Keith and Amy Walter on Trump's latest controversies and Biden's jaded electorate
+ - [https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-latest-controversies-and-bidens-jaded-electorate](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-latest-controversies-and-bidens-jaded-electorate)
+ - RSS feed: 
+ - date published: 2024-05-06T22:25:46+00:00
+
+NPR’s Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join William Brangham to discuss the latest political news, including Republicans navigate the fallout from controversial remarks made by Donald Trump at a fundraising dinner over the weekend and President Biden continues to deal with a jaded electorate as he wrestles with the political ramifications of the war in Gaza.
 
 ## Zendaya Peacocks Her Way Into the Met Gala 2024
  - [https://www.vanityfair.com/style/story/zendaya-peacocks-her-way-into-the-met-gala-2024-red-carpet](https://www.vanityfair.com/style/story/zendaya-peacocks-her-way-into-the-met-gala-2024-red-carpet)
@@ -453,6 +980,20 @@ The company has included its users in every stage of its public debut
 
 The ho-hum post-Scandoval season promises a big finale
 
+## Kristi Noem angled for top NRA job
+ - [https://www.axios.com/2024/05/06/kristi-noem-south-dakota-nra-lapierre](https://www.axios.com/2024/05/06/kristi-noem-south-dakota-nra-lapierre)
+ - RSS feed: 
+ - date published: 2024-05-06T21:37:53+00:00
+
+Noem is now in a bad PR cycle over a passage in her book about shooting her dog and a goat.
+
+## FAA opens new probe into Boeing over 787 Dreamliner inspections
+ - [https://www.axios.com/2024/05/06/faa-boeing-787-dreamliner-investigation](https://www.axios.com/2024/05/06/faa-boeing-787-dreamliner-investigation)
+ - RSS feed: 
+ - date published: 2024-05-06T21:29:44+00:00
+
+The new investigation comes on top of several other federal probes of Boeing.
+
 ## Dolores Catania Questions 'Intentions' Behind Teresa Giudice-Jackie Goldschneider Friendship
  - [https://heavy.com/entertainment/real-housewives/dolores-catania-questions-teresa-giudice-jackie](https://heavy.com/entertainment/real-housewives/dolores-catania-questions-teresa-giudice-jackie)
  - RSS feed: 
@@ -564,6 +1105,13 @@ A fusion device ensconced in highly durable tungsten sustained a more energetic,
  - date published: 2024-05-06T21:00:49+00:00
 
 You can still redeem points to book a hotel for your Memorial Day weekend vacation. Here's a look at hotel award night availability in five popular destinations.
+
+## ‘I’ll Do That Sacrifice!’ Trump Says He’s Ready to Go to Jail Over His Gag Order After Contempt Ruling
+ - [https://feedpress.me/link/20202/16674681/ill-do-that-sacrifice-trump-says-hes-ready-to-go-to-jail-over-his-gag-order-after-contempt-ruling](https://feedpress.me/link/20202/16674681/ill-do-that-sacrifice-trump-says-hes-ready-to-go-to-jail-over-his-gag-order-after-contempt-ruling)
+ - RSS feed: 
+ - date published: 2024-05-06T21:00:29+00:00
+
+Donald Trump made his usual post-trial statement, but this time, he risked being thrown in jail if he breaks Judge Juan Merchan's gag order for an 11th time.
 
 ## The Cureus Journal of Medical Science: Peer-Reviewed, Open Access
  - [https://www.cureus.com](https://www.cureus.com)
@@ -677,6 +1225,13 @@ Without their second-best player in Julius Randle, the Knicks are headed into a 
 
 The Thunder and Mavericks battle for a conference finals berth, while fans await a renewed postseason rivalry between the Knicks and Pacers.
 
+## Met Gala 2024 Red Carpet: See Every Celebrity Look, Outfit, and Dress
+ - [https://feedpress.me/link/20202/16674714/met-gala-2024-red-carpet-see-every-celebrity-look-outfit-and-dress](https://feedpress.me/link/20202/16674714/met-gala-2024-red-carpet-see-every-celebrity-look-outfit-and-dress)
+ - RSS feed: 
+ - date published: 2024-05-06T20:42:21.869000+00:00
+
+The 2024 Met Gala, “Sleeping Beauties: Reawakening Fashion,” is officially underway. Follow along for live updates here.
+
 ## How to watch the 2024 NHL draft lottery: ESPN schedule
  - [https://www.espn.com/nhl/story/_/id/40095239/how-watch-2024-nhl-draft-lottery-espn-schedule](https://www.espn.com/nhl/story/_/id/40095239/how-watch-2024-nhl-draft-lottery-espn-schedule)
  - RSS feed: 
@@ -767,6 +1322,13 @@ A new rumor suggests the iPhone 17 Pro, due in 2025, will increase to 12GB of RA
  - date published: 2024-05-06T20:31:00+00:00
 
 Last resort? Maybe it should be the second resort? Or the third resort? Or the more recent resort?
+
+## Jack Dorsey and Elon Musk's tech bromance takes another weird turn
+ - [https://www.fastcompany.com/91119170/jack-dorsey-elon-musk-relationship-bluesky-twitter](https://www.fastcompany.com/91119170/jack-dorsey-elon-musk-relationship-bluesky-twitter)
+ - RSS feed: 
+ - date published: 2024-05-06T20:30:00+00:00
+
+Jack Dorsey confirms he has left the board of Twitter-alternative Bluesky and appears to put his support behind Elon Musk's X.
 
 ## Andrew McCarthy, Faye Dunaway and Harvey Keitel to Star in Jonathan Baker’s Supernatural Love Story ‘Fate’
  - [https://variety.com/2024/film/news/faye-dunaway-harvey-keitel-andrew-mccarthy-fate-jonathan-baker-1235991595](https://variety.com/2024/film/news/faye-dunaway-harvey-keitel-andrew-mccarthy-fate-jonathan-baker-1235991595)
@@ -901,6 +1463,13 @@ American regulator Travis Tygart accuses the World Anti-Doping Agency of “allo
 
 The Cleveland Browns are urged to pursue former Washington Commanders tight end Logan Thomas after the 2024 NFL draft.
 
+## Surprisingly, these burned-out workers don't fear AI—they welcome it
+ - [https://www.fastcompany.com/91119053/teachers-burnout-ai-in-education-canva](https://www.fastcompany.com/91119053/teachers-burnout-ai-in-education-canva)
+ - RSS feed: 
+ - date published: 2024-05-06T20:03:00+00:00
+
+A new survey from Canva reveals teachers aren't mad about AI—in fact, they're hoping the technology can offer them some relief.
+
 ## Taser and police body cam maker Axon is acquiring air defense startup Dedrone
  - [https://www.cnbc.com/2024/05/06/taser-maker-axon-is-acquiring-air-defense-startup-dedrone.html](https://www.cnbc.com/2024/05/06/taser-maker-axon-is-acquiring-air-defense-startup-dedrone.html)
  - RSS feed: 
@@ -957,6 +1526,13 @@ Oil prices haven't fallen yet and AI stocks are back in action
 
 "I think they're going to say that Trump had no involvement," ex-prosecutor predicts.
 
+## New Microsoft AI model may challenge GPT-4 and Google Gemini
+ - [https://arstechnica.com/information-technology/2024/05/microsoft-developing-mai-1-language-model-that-may-compete-with-openai-report](https://arstechnica.com/information-technology/2024/05/microsoft-developing-mai-1-language-model-that-may-compete-with-openai-report)
+ - RSS feed: 
+ - date published: 2024-05-06T19:51:22+00:00
+
+In project headed by former Inflection chief, MAI-1 may have 500B parameters.
+
 ## Pat Riley Puts Jimmy Butler on Notice Amid Looming Heat Extension, Trade Rumors
  - [https://heavy.com/sports/nba/miami-heat/jimmy-butler-extension](https://heavy.com/sports/nba/miami-heat/jimmy-butler-extension)
  - RSS feed: 
@@ -971,6 +1547,13 @@ Miami Heat president Pat Riley discusses the future of Jimmy Butler's contract e
 
 The Vikings warned Kirk Cousins they would select his successor in the 2024 draft, leading to his departure for the Falcons who did the same.
 
+## Netflix is using live comedy as a warmup for live sports—and it’s working
+ - [https://www.fastcompany.com/91119347/netflix-comedy-tom-brady-roast-warmup-streaming-live-sports](https://www.fastcompany.com/91119347/netflix-comedy-tom-brady-roast-warmup-streaming-live-sports)
+ - RSS feed: 
+ - date published: 2024-05-06T19:50:00+00:00
+
+Streaming giant Netflix aired multiple live events over the weekend, including a buzzy roast of NFL star Tom Brady. Could sports be next?
+
 ## Hamas accepts hostage deal proposal but Israel says they are still far apart
  - [https://www.axios.com/2024/05/06/hamas-israel-ceasefire-proposal-egypt-qatar](https://www.axios.com/2024/05/06/hamas-israel-ceasefire-proposal-egypt-qatar)
  - RSS feed: 
@@ -984,6 +1567,13 @@ Israel said it will send a delegation to Cairo to continue indirect talks.
  - date published: 2024-05-06T19:48:30.254070+00:00
 
 IDF ground forces enter East Rafah after intense shelling; War Cabinet unanimously decides to continue Gaza operation and also send negotiating team to Gaza; US official: 'War Cabinet did not negotiate with Hamas in good faith'
+
+## Commercial real estate foreclosures spike 117% as distress mounts
+ - [https://www.fastcompany.com/91118602/commercial-real-estate-foreclosures-spike-117-percent-distress-mounts](https://www.fastcompany.com/91118602/commercial-real-estate-foreclosures-spike-117-percent-distress-mounts)
+ - RSS feed: 
+ - date published: 2024-05-06T19:45:00+00:00
+
+What’s happening in commercial real estate, particularly the office sector, is a very different story than single-family housing.
 
 ## Riddick heads, your order for more Riddick is on its way
  - [https://www.avclub.com/riddick-furya-to-begin-production-august-1851459141](https://www.avclub.com/riddick-furya-to-begin-production-august-1851459141)
@@ -1061,6 +1651,13 @@ Book business-class seats to Tulum, Mexico, for as low as $545 round-trip from s
  - date published: 2024-05-06T19:33:41.180076+00:00
 
 ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
+
+## Budweiser is turning Spotify into beer ads
+ - [https://www.fastcompany.com/91119282/budweiser-is-turning-spotify-into-beer-ads](https://www.fastcompany.com/91119282/budweiser-is-turning-spotify-into-beer-ads)
+ - RSS feed: 
+ - date published: 2024-05-06T19:30:00+00:00
+
+Why write regular ads when artists are doing the work for Budweiser already?
 
 ## WATCH: $275 Million QB Returns to Action for Bengals
  - [https://heavy.com/sports/nfl/cincinnati-bengals/watch-275-million-qb-returns-to-action-for-bengals](https://heavy.com/sports/nfl/cincinnati-bengals/watch-275-million-qb-returns-to-action-for-bengals)
@@ -1391,6 +1988,13 @@ Ron DeSantis wants to “protect meat." John Fetterman supports him.
 
 The first episode of the comedian's multi-night special for Netflix comes off as both manic and sluggish.
 
+## Chinese EV-maker Nio will unveil its first mass-market car in May, executive says
+ - [https://www.fastcompany.com/91119163/nio-first-mass-market-car-may-china-europe](https://www.fastcompany.com/91119163/nio-first-mass-market-car-may-china-europe)
+ - RSS feed: 
+ - date published: 2024-05-06T18:00:00+00:00
+
+'Nio is currently working on the launch of new car brands, that would be less premium, still obviously 100% electric, and more suited for the European market needs.'
+
 ## ‘Universal Basic Guys’ Creators Adam and Craig Malamut Ink Sony TV Overall Deal (EXCLUSIVE)
  - [https://variety.com/2024/tv/news/universal-basic-guys-creators-adam-and-craig-malamut-sony-tv-overall-deal-1235993003](https://variety.com/2024/tv/news/universal-basic-guys-creators-adam-and-craig-malamut-sony-tv-overall-deal-1235993003)
  - RSS feed: 
@@ -1538,6 +2142,13 @@ President Joe Biden and Prime Minister Benjamin Netanyahu had a 30-minute phone 
 
 White House press secretary Karine Jean-Pierre will hold a news briefing on Monday as Hamas announces it has accepted an Egyptian-Qatari proposal for a cease-fire to halt the seven-month-long war with Israel in Gaza.
 
+## Starbucks founder Howard Schultz shares advice for the company's sales slump on LinkedIn
+ - [https://www.fastcompany.com/91119141/starbucks-founder-howard-schultz-coffee-us-consumer-strategy-sales](https://www.fastcompany.com/91119141/starbucks-founder-howard-schultz-coffee-us-consumer-strategy-sales)
+ - RSS feed: 
+ - date published: 2024-05-06T17:30:00+00:00
+
+In his post, Schultz said senior leaders—including board members—need to spend more time talking to baristas in the company's stores.
+
 ## Google is using its Gemini AI chatbot to help combat against security threats
  - [https://qz.com/google-gemini-ai-chatbot-combat-cyber-security-threats-1851458164](https://qz.com/google-gemini-ai-chatbot-combat-cyber-security-threats-1851458164)
  - RSS feed: 
@@ -1607,6 +2218,13 @@ Poor countries must demonstrate clearer accounting and transparency to back up t
  - date published: 2024-05-06T17:22:18.172162+00:00
 
 Yahoo is part of the Yahoo family of brands
+
+## Why 'adult gap years' may not work for the terminally online
+ - [https://www.fastcompany.com/91119149/why-adult-gap-years-may-not-work-for-the-terminally-online](https://www.fastcompany.com/91119149/why-adult-gap-years-may-not-work-for-the-terminally-online)
+ - RSS feed: 
+ - date published: 2024-05-06T17:22:00+00:00
+
+Meager finances combined with a propensity to be online (as it is a low-to-no-cost activity) can be a recipe for disaster.
 
 ## Yahoo is part of the Yahoo family of brands
  - [https://feedpress.me/link/20202/16674399/kim-kardashian-booed-relentlessly-tom-035220823.html](https://feedpress.me/link/20202/16674399/kim-kardashian-booed-relentlessly-tom-035220823.html)
@@ -1790,6 +2408,13 @@ The Hulu series is based on a true story, but the lead cop is a clever—and cri
 
 The Fall Guy is that strangest of movies: A two-hour advertisement for its own behind-the-scenes special features
 
+## Randy Travis's first song post-stroke used AI
+ - [https://www.fastcompany.com/91118869/randy-travis-first-song-post-stroke-used-ai](https://www.fastcompany.com/91118869/randy-travis-first-song-post-stroke-used-ai)
+ - RSS feed: 
+ - date published: 2024-05-06T17:00:00+00:00
+
+Mary Travis says the 'human element,' and 'the people that are involved' in this project, separate it from more nefarious uses of AI in music.
+
 ## ‘The Strangers’ Bets Big: Why a 3-Film Horror ‘Odyssey’ Is Dropping in One Year, Plans for a 4-Hour Cut and What’s Next in ‘Chapter 2’ (EXCLUSIVE)
  - [https://variety.com/2024/film/news/the-strangers-chapter-1-sequels-1235991703](https://variety.com/2024/film/news/the-strangers-chapter-1-sequels-1235991703)
  - RSS feed: 
@@ -1873,6 +2498,13 @@ Don't fret over your fit. We've got your back.
  - date published: 2024-05-06T16:49:39+00:00
 
 A vetearn analyst has ripped LeBron James for not taking accountality for the Lakers' playoff exit and for passing the buck to Darvin Ham.
+
+## Sam Ash music store is closing every location in a devastating blow to fans
+ - [https://www.fastcompany.com/91118964/sam-ash-music-store-closing-every-location-sales-begin](https://www.fastcompany.com/91118964/sam-ash-music-store-closing-every-location-sales-begin)
+ - RSS feed: 
+ - date published: 2024-05-06T16:49:00+00:00
+
+Music retailer Sam Ash said it will begin closing sales at every location. Musicians mourned the closure of the 100-year-old company.
 
 ## How to use Bumble, and is it better than Tinder?
  - [https://mashable.com/article/how-does-bumble-work](https://mashable.com/article/how-does-bumble-work)
@@ -2245,6 +2877,13 @@ It's the perfect gift for moms in their birding era.
 
 Do you want to explore the beaches and nightlife of Phuket, Thailand, but with a bit more solitude and “wow” factor? Look no further than Rosewood Phuket.
 
+## What we're looking for when Disney posts quarterly earnings on Tuesday morning
+ - [https://www.cnbc.com/2024/05/06/disney-posts-quarterly-earnings-tuesday-streaming-is-a-key-watch-item.html](https://www.cnbc.com/2024/05/06/disney-posts-quarterly-earnings-tuesday-streaming-is-a-key-watch-item.html)
+ - RSS feed: 
+ - date published: 2024-05-06T15:59:14+00:00
+
+The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
+
 ## Robinhood's crypto business is under fire by the SEC. Here's what that means for customers
  - [https://www.fastcompany.com/91119004/robinhood-crypto-hit-with-sec-wells-notice-what-that-means](https://www.fastcompany.com/91119004/robinhood-crypto-hit-with-sec-wells-notice-what-that-means)
  - RSS feed: 
@@ -2286,6 +2925,13 @@ ZeroHedge - On a long enough timeline, the survival rate for everyone drops to z
  - date published: 2024-05-06T15:49:47+00:00
 
 Our favorite gauge of market sentiment is telling us to take some gains.
+
+## Miami Grand Prix fans fume over 'ridiculous' food prices including $180 nachos
+ - [https://feedpress.me/link/20202/16674690/miami-grand-prix-fans-fume-over-ridiculous-food-prices](https://feedpress.me/link/20202/16674690/miami-grand-prix-fans-fume-over-ridiculous-food-prices)
+ - RSS feed: 
+ - date published: 2024-05-06T15:48:32+00:00
+
+FORMULA 1 fans have been left stunned by the prices of food and drink at the Miami Grand Prix. Attendees at the high-profile Formula 1 race over the weekend posted pictures on social media of the m…
 
 ## DWTS Alum Booed on Live Television
  - [https://heavy.com/entertainment/dancing-with-the-stars/kim-kardashian-booed-live-television](https://heavy.com/entertainment/dancing-with-the-stars/kim-kardashian-booed-live-television)
@@ -3318,6 +3964,13 @@ The iPhone 15 Pro Max was the top-selling smartphone in the first quarter of 202
 
 Cierpliwości...
 
+## Disney quarterly results are on deck. Here's what to expect
+ - [https://www.cnbc.com/2024/05/07/disney-dis-earnings-q2-2024.html](https://www.cnbc.com/2024/05/07/disney-dis-earnings-q2-2024.html)
+ - RSS feed: 
+ - date published: 2024-05-06T12:36:37+00:00
+
+This will be the company's first earnings call since it won a proxy fight against Trian Partners.
+
 ## Biden Wants The Wealthy To Pay Their "Fair Share", What Percentage Is That? | ZeroHedge
  - [https://www.zerohedge.com/markets/biden-wants-wealthy-pay-their-fair-share-what-percentage](https://www.zerohedge.com/markets/biden-wants-wealthy-pay-their-fair-share-what-percentage)
  - RSS feed: 
@@ -3641,14 +4294,14 @@ Despite U.S. concern, Israel's prime minister has released several recent statem
 miguelgrinberg.com
 
 ## The foods that cancer experts want you to stop eating
- - [https://feedpress.me/link/20202/16674328/The-foods-cancer-experts-want-stop-eating.html](https://feedpress.me/link/20202/16674328/The-foods-cancer-experts-want-stop-eating.html)
+ - [https://feedpress.me/link/20202/16674541/article-13354617](https://feedpress.me/link/20202/16674541/article-13354617)
  - RSS feed: 
  - date published: 2024-05-06T10:45:02+00:00
 
 Bacon sandwiches, chorizo cake and beer are off the menu if you want to cut your risk of cancer, according to Matthew Lambert, nutritionist at World Cancer Research Fund (WCRF).
 
 ## The foods that cancer experts want you to stop eating
- - [https://feedpress.me/link/20202/16674541/article-13354617](https://feedpress.me/link/20202/16674541/article-13354617)
+ - [https://feedpress.me/link/20202/16674328/The-foods-cancer-experts-want-stop-eating.html](https://feedpress.me/link/20202/16674328/The-foods-cancer-experts-want-stop-eating.html)
  - RSS feed: 
  - date published: 2024-05-06T10:45:02+00:00
 
@@ -3669,14 +4322,14 @@ PLUS: Taiwan's subsea cables, Paytm says goodbye to its CEO, China uses WhatsApp
 An organization representing freelance festival workers is calling for a strike during the upcoming Cannes Film Festival.
 
 ## 'You won't be safe in Downing Street', warn Russia as Vlad orders NUKE test
- - [https://feedpress.me/link/20202/16674240/putin-nuke-test-russia-western-troops-ukraine-worldwide-catastrophe](https://feedpress.me/link/20202/16674240/putin-nuke-test-russia-western-troops-ukraine-worldwide-catastrophe)
+ - [https://feedpress.me/link/20202/16674497/11291673](https://feedpress.me/link/20202/16674497/11291673)
  - RSS feed: 
  - date published: 2024-05-06T10:32:03+00:00
 
 PARANOID Putin has ordered tactical nuclear weapons testing as Russia directly warns the West to back-off as fears of an all-out-war with Nato surge. Russia’s latest threat comes as the Kreml…
 
 ## 'You won't be safe in Downing Street', warn Russia as Vlad orders NUKE test
- - [https://feedpress.me/link/20202/16674497/11291673](https://feedpress.me/link/20202/16674497/11291673)
+ - [https://feedpress.me/link/20202/16674240/putin-nuke-test-russia-western-troops-ukraine-worldwide-catastrophe](https://feedpress.me/link/20202/16674240/putin-nuke-test-russia-western-troops-ukraine-worldwide-catastrophe)
  - RSS feed: 
  - date published: 2024-05-06T10:32:03+00:00
 
@@ -4105,14 +4758,14 @@ ZeroHedge - On a long enough timeline, the survival rate for everyone drops to z
 European markets advanced Monday as traders continued to assess the possibility of rate cuts after softer-than-expected U.S. jobs data.
 
 ## Manoj Bajpayee, Raj & DK’s Hit Prime Video Series ‘The Family Man’ Starts Season 3 Shoot (EXCLUSIVE)
- - [https://variety.com/2024/film/news/manoj-bajpayee-raj-dk-family-man-season-3-prime-video-1235992454](https://variety.com/2024/film/news/manoj-bajpayee-raj-dk-family-man-season-3-prime-video-1235992454)
+ - [https://variety.com/2024/film/asia/manoj-bajpayee-raj-dk-family-man-season-3-prime-video-1235992454](https://variety.com/2024/film/asia/manoj-bajpayee-raj-dk-family-man-season-3-prime-video-1235992454)
  - RSS feed: 
  - date published: 2024-05-06T06:27:00+00:00
 
 Season 3 of Prime Video's smash hit Indian show 'The Family Man' has commenced filming.
 
 ## Manoj Bajpayee, Raj & DK’s Hit Prime Video Series ‘The Family Man’ Starts Season 3 Shoot (EXCLUSIVE)
- - [https://variety.com/2024/film/asia/manoj-bajpayee-raj-dk-family-man-season-3-prime-video-1235992454](https://variety.com/2024/film/asia/manoj-bajpayee-raj-dk-family-man-season-3-prime-video-1235992454)
+ - [https://variety.com/2024/film/news/manoj-bajpayee-raj-dk-family-man-season-3-prime-video-1235992454](https://variety.com/2024/film/news/manoj-bajpayee-raj-dk-family-man-season-3-prime-video-1235992454)
  - RSS feed: 
  - date published: 2024-05-06T06:27:00+00:00
 
@@ -4179,14 +4832,14 @@ Lucas was born and raised in Modesto, where his father expected him to run the f
 TheDreamWorks co-founder & top fundraiser for Democrats was very blunt tonight in his assessment of the GOP nominee to be & the incumbent
 
 ## Heavy rains ease around Houston but flooding remains after hundreds of rescues and evacuations
- - [https://feedpress.me/link/20202/16674526/117b0f63c9bd53be31ee34e11547da21](https://feedpress.me/link/20202/16674526/117b0f63c9bd53be31ee34e11547da21)
+ - [https://feedpress.me/link/20202/16674229/houston-texas-flooding-severe-weather-117b0f63c9bd53be31ee34e11547da21](https://feedpress.me/link/20202/16674229/houston-texas-flooding-severe-weather-117b0f63c9bd53be31ee34e11547da21)
  - RSS feed: 
  - date published: 2024-05-06T04:29:56+00:00
 
 High waters have closed some roads and left residents facing lengthy cleanups in neighborhoods where rising river levels led to weekend evacuation orders.
 
 ## Heavy rains ease around Houston but flooding remains after hundreds of rescues and evacuations
- - [https://feedpress.me/link/20202/16674229/houston-texas-flooding-severe-weather-117b0f63c9bd53be31ee34e11547da21](https://feedpress.me/link/20202/16674229/houston-texas-flooding-severe-weather-117b0f63c9bd53be31ee34e11547da21)
+ - [https://feedpress.me/link/20202/16674526/117b0f63c9bd53be31ee34e11547da21](https://feedpress.me/link/20202/16674526/117b0f63c9bd53be31ee34e11547da21)
  - RSS feed: 
  - date published: 2024-05-06T04:29:56+00:00
 
@@ -4560,6 +5213,13 @@ At least 34,735 Palestinians were killed and 78,108 injured in Israel's military
 
 Multiple people have been injured after a building under construction collapsed in George, South Africa. The Western Cape government is closely monitoring the situation.
 
+## 41% Of Americans Think Civil War Likely By 2029, Some Say Sooner Amid Chaos  | ZeroHedge
+ - [https://www.zerohedge.com/political/41-americans-think-civil-war-likely-2029-some-say-sooner-amid-chaos](https://www.zerohedge.com/political/41-americans-think-civil-war-likely-2029-some-say-sooner-amid-chaos)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
+
 ## 7 things from women's football: The WSL title race is back on! Barça, Bayern seal titles
  - [https://www.espn.com/soccer/story/_/id/40092730/7-things-womens-soccer-wsl-title-race-back-barca-bayern-seal-titles](https://www.espn.com/soccer/story/_/id/40092730/7-things-womens-soccer-wsl-title-race-back-barca-bayern-seal-titles)
  - RSS feed: 
@@ -4686,6 +5346,13 @@ A new teaser on Apple's website could be indicative of some of the company's upc
 
 Ask HN: People that use jq extensively, I'd like to talk to you | Hacker News
 
+## Async Channels for Swift Concurrency | Hacker News
+ - [https://news.ycombinator.com/item?id=40277753](https://news.ycombinator.com/item?id=40277753)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Async Channels for Swift Concurrency | Hacker News
+
 ## At Least 107 migrants freed from captivity in southeast Libya, spokesman says
  - [https://www.reuters.com/world/africa/least-107-migrants-freed-captivity-southeast-libya-spokesman-says-2024-05-06](https://www.reuters.com/world/africa/least-107-migrants-freed-captivity-southeast-libya-spokesman-says-2024-05-06)
  - RSS feed: 
@@ -4777,12 +5444,33 @@ U.S. President Joe Biden pressed Israeli Prime Minister Benjamin Netanyahu not t
 
 BlackHole: macOS Audio Loopback Driver | Hacker News
 
+## Blake: Kings won't buy out Dubois, vow 'to help him'
+ - [https://www.espn.com/nhl/story/_/id/40096495/kings-not-buy-pierre-luc-dubois-contract-gm-says](https://www.espn.com/nhl/story/_/id/40096495/kings-not-buy-pierre-luc-dubois-contract-gm-says)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Less than a week after his team was eliminated from the postseason, Los Angeles Kings general manager Rob Blake said the team will not buy out the contract of maligned star center Pierre-Luc Dubois, who struggled in his first season with the club.
+
 ## Blinken to travel to Guatemala on Tuesday, US State Dept says
  - [https://www.reuters.com/world/blinken-travel-guatemala-tuesday-us-state-dept-says-2024-05-05](https://www.reuters.com/world/blinken-travel-guatemala-tuesday-us-state-dept-says-2024-05-05)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
 U.S. Secretary of State Antony Blinken will travel to Guatemala on Tuesday to lead a delegation to the a ministerial meeting of the Los Angeles Declaration on Migration and Protection, the State Department said on Sunday.
+
+## Boeing faces new probe over 787 inspection doubts | Hacker News
+ - [https://news.ycombinator.com/item?id=40279864](https://news.ycombinator.com/item?id=40279864)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Boeing faces new probe over 787 inspection doubts | Hacker News
+
+## Boeing in new inquiry over 787 inspection doubts
+ - [https://www.bbc.com/news/business-68966894](https://www.bbc.com/news/business-68966894)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The plane-maker told US regulators staff may have falsified inspection records for 787 Dreamliner jets.
 
 ## Brazil floods: Lula seeks state of emergency after 85 dead in rain-ravaged south
  - [https://www.reuters.com/world/americas/death-toll-brazil-downpours-climbs-83-2024-05-06](https://www.reuters.com/world/americas/death-toll-brazil-downpours-climbs-83-2024-05-06)
@@ -4834,6 +5522,13 @@ As the Bengals started the second phase of voluntary workouts, Joe Burrow was in
  - date published: 2024-05-06T00:00:00+00:00
 
 Calvin Johnson tells TMZ Sports he's so good with a club in his hands, he could be a professional golfer.
+
+## Caniemail.com – like caniuse but for email content | Hacker News
+ - [https://news.ycombinator.com/item?id=40280490](https://news.ycombinator.com/item?id=40280490)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Caniemail.com – like caniuse but for email content | Hacker News
 
 ## Cassidy: Nine Knights had surgeries during season
  - [https://www.espn.com/nhl/story/_/id/40091976/nine-golden-knights-had-season-surgeries-cassidy-says](https://www.espn.com/nhl/story/_/id/40091976/nine-golden-knights-had-season-surgeries-cassidy-says)
@@ -5038,6 +5733,20 @@ Who are the players you should be claiming off the fantasy baseball waiver wire 
 
 Fedora Cleared To Build Python Package With "-O3" Optimizations - Phoronix
 
+## Female darts player refuses to play transgender opponent, forfeits match
+ - [https://www.foxnews.com/sports/female-darts-player-refuses-play-transgender-opponent-forfeits-match](https://www.foxnews.com/sports/female-darts-player-refuses-play-transgender-opponent-forfeits-match)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+British darts competitor Deta Hedman pulled out of a women's event over the weekend as she refused to play against a transgender athlete.
+
+## Female journalist speaks out after being attacked by ‘leftist extremists’ at Portland State
+ - [https://www.foxnews.com/media/female-journalist-speaks-attacked-leftist-extremists-portland-state](https://www.foxnews.com/media/female-journalist-speaks-attacked-leftist-extremists-portland-state)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+A journalist who was attacked by alleged Antifa members last week at Portland State University said the "leftist extremists" will continue to wreak havoc.
+
 ## Fern (YC W23) Is Hiring a Customer-Centric Software Engineer | Hacker News
  - [https://news.ycombinator.com/item?id=40273587](https://news.ycombinator.com/item?id=40273587)
  - RSS feed: 
@@ -5115,6 +5824,13 @@ FreeBSD 14.1 Beta Released For Testing - Phoronix
 
 Gas and propane stoves linked to 50k cases of childhood asthma, study finds | Hacker News
 
+## Georgia's attorney general says Savannah overstepped in outlawing guns in unlocked cars
+ - [https://www.foxnews.com/politics/georgias-attorney-general-says-savannah-overstepped-outlawing-guns-unlocked-cars](https://www.foxnews.com/politics/georgias-attorney-general-says-savannah-overstepped-outlawing-guns-unlocked-cars)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Georgia's Attorney General Chris Carr said city officials in Savannah overstepped their authority when they enacted a city ordinance that made it illegal to leave firearms in unlocked vehicles.
+
 ## German ambassador to Russia recalled over cyberattacks
  - [https://www.reuters.com/world/europe/german-ministers-hold-special-meeting-after-spate-attacks-politicians-2024-05-06](https://www.reuters.com/world/europe/german-ministers-hold-special-meeting-after-spate-attacks-politicians-2024-05-06)
  - RSS feed: 
@@ -5172,14 +5888,14 @@ The Guardians put AL hits-leader Steven Kwan on the injured list and recalled Ky
 Ain't no "Challenge" this "Euphoria" star can't handle ... Can you guess who she is?
 
 ## Hacker News
- - [https://news.ycombinator.com/item?id=40270161](https://news.ycombinator.com/item?id=40270161)
+ - [https://news.ycombinator.com/item?id=40270911](https://news.ycombinator.com/item?id=40270911)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
 Hacker News
 
 ## Hacker News
- - [https://news.ycombinator.com/item?id=40270911](https://news.ycombinator.com/item?id=40270911)
+ - [https://news.ycombinator.com/item?id=40270161](https://news.ycombinator.com/item?id=40270161)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -5409,6 +6125,13 @@ Although he won't be on the sideline this season, Bill Belichick will appear on 
 
 Jennifer Lopez was one of many stars who hit up Anna Wintour's pre-MET Gala dinner this weekend ... but she was one of a few who seemed to have a little car trouble too.
 
+## Jacob Padilla
+ - [https://jacobpadilla.com](https://jacobpadilla.com)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Jacob Padilla is an NYU Stern student, photographer, developer, and blogger based in the USA. He writes about Python, SQL, and a range of other topics.
+
 ## Jeff Ross Says Tom Brady Wasn't Actually Mad About Robert Kraft Joke
  - [https://www.tmz.com/2024/05/06/jeff-ross-tom-brady-not-mad-robert-kraft-massage-joke-netflix-roast](https://www.tmz.com/2024/05/06/jeff-ross-tom-brady-not-mad-robert-kraft-massage-joke-netflix-roast)
  - RSS feed: 
@@ -5436,6 +6159,13 @@ The president’s approval rating is abysmal. But he can still win.
  - date published: 2024-05-06T00:00:00+00:00
 
 Tom Brady sustained more blitzes and pressure than he did during an average NFL game as an impressive lineup of comedians, former teammates like Rob Gronkowski and Julian Edelman and opponents took the stage.
+
+## Jordan stations 2 firefighting helicopters in Cyprus ahead of summer wildfire season
+ - [https://www.foxnews.com/world/jordan-stations-2-firefighting-helicopters-cyprus-ahead-summer-wildfire-season](https://www.foxnews.com/world/jordan-stations-2-firefighting-helicopters-cyprus-ahead-summer-wildfire-season)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Jordan on Monday stationed two firefighting helicopters in Cyprus, in hopes of assisting the Mediterranean island nation in combating any forest fires that may break out this summer.
 
 ## JTAG Hacking with a Raspberry Pi – Introducing the PiFex | Hacker News
  - [https://news.ycombinator.com/item?id=40274777](https://news.ycombinator.com/item?id=40274777)
@@ -5493,6 +6223,13 @@ Russia's tactical nuclear weapon drills are a response to statements from the We
 
 Kristi Noem's book's landed her in hot water again ... this time resulting from a factual error claiming she met Kim Jong Un -- even though the meet never happened.
 
+## Kristi Noem erupts on CBS anchor after viral interview about controversial book
+ - [https://www.foxnews.com/media/kristi-noem-erupts-cbs-anchor-viral-interview-controversial-book](https://www.foxnews.com/media/kristi-noem-erupts-cbs-anchor-viral-interview-controversial-book)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Embattled South Dakota Gov. Kristi Noem said she was subjected to a double standard after a contentious interview on CBS' "Face The Nation" on Sunday.
+
 ## Kristi Noem Gives Worst Answer Possible When Asked About Kim Jong Un
  - [https://newrepublic.com/post/181314/kristi-noem-kim-jong-un-lie-worse](https://newrepublic.com/post/181314/kristi-noem-kim-jong-un-lie-worse)
  - RSS feed: 
@@ -5548,6 +6285,13 @@ Cost-conscious Chinese tourists have replaced many of the cash-rich mainland tra
  - date published: 2024-05-06T00:00:00+00:00
 
 France and the European Commission on Monday told China's President Xi Jingping that they wanted him to use his influence on Russia to end its war in Ukraine, while underscoring that the European Union would not waver in its support for Kyiv.
+
+## Majority Of Germans Reject Muslim Immigration, Express Fear Of Becoming A "Minority In Germany" | ZeroHedge
+ - [https://www.zerohedge.com/geopolitical/majority-germans-reject-muslim-immigration-express-fear-becoming-minority-germany](https://www.zerohedge.com/geopolitical/majority-germans-reject-muslim-immigration-express-fear-becoming-minority-germany)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
 
 ## Malawi court drops corruption charges against vice president
  - [https://www.reuters.com/world/africa/malawi-court-drops-corruption-charges-against-vice-president-2024-05-06](https://www.reuters.com/world/africa/malawi-court-drops-corruption-charges-against-vice-president-2024-05-06)
@@ -5648,56 +6392,7 @@ West Ham manager David Moyes will leave his role when his contract expires at th
 Mozambique's ruling FRELIMO party has announced Daniel Chapo will be its presidential candidate in an election scheduled for October.
 
 ## MSN
- - [https://feedpress.me/link/20202/16674518/ar-BB1lTnjx](https://feedpress.me/link/20202/16674518/ar-BB1lTnjx)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16673724/ar-BB1lRzw6](https://feedpress.me/link/20202/16673724/ar-BB1lRzw6)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674275/ar-BB1lTAIS](https://feedpress.me/link/20202/16674275/ar-BB1lTAIS)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16673706/ar-BB1lS9cL](https://feedpress.me/link/20202/16673706/ar-BB1lS9cL)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674564/ar-BB1lTzPU](https://feedpress.me/link/20202/16674564/ar-BB1lTzPU)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674290/ar-BB1lSdxC](https://feedpress.me/link/20202/16674290/ar-BB1lSdxC)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674572/ar-BB1lRzw6](https://feedpress.me/link/20202/16674572/ar-BB1lRzw6)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674562/ar-BB1lTAIS](https://feedpress.me/link/20202/16674562/ar-BB1lTAIS)
+ - [https://feedpress.me/link/20202/16674276/ar-BB1lTzPU](https://feedpress.me/link/20202/16674276/ar-BB1lTzPU)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -5711,6 +6406,55 @@ MSN
 MSN
 
 ## MSN
+ - [https://feedpress.me/link/20202/16674562/ar-BB1lTAIS](https://feedpress.me/link/20202/16674562/ar-BB1lTAIS)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16673724/ar-BB1lRzw6](https://feedpress.me/link/20202/16673724/ar-BB1lRzw6)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16673706/ar-BB1lS9cL](https://feedpress.me/link/20202/16673706/ar-BB1lS9cL)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674275/ar-BB1lTAIS](https://feedpress.me/link/20202/16674275/ar-BB1lTAIS)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674518/ar-BB1lTnjx](https://feedpress.me/link/20202/16674518/ar-BB1lTnjx)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674290/ar-BB1lSdxC](https://feedpress.me/link/20202/16674290/ar-BB1lSdxC)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674564/ar-BB1lTzPU](https://feedpress.me/link/20202/16674564/ar-BB1lTzPU)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
  - [https://feedpress.me/link/20202/16674525/ar-BB1lSdxC](https://feedpress.me/link/20202/16674525/ar-BB1lSdxC)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
@@ -5718,7 +6462,7 @@ MSN
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16674657/ar-BB1lVeOJ](https://feedpress.me/link/20202/16674657/ar-BB1lVeOJ)
+ - [https://feedpress.me/link/20202/16674572/ar-BB1lRzw6](https://feedpress.me/link/20202/16674572/ar-BB1lRzw6)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -5732,7 +6476,7 @@ MSN
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16674674/ar-BB1lViPh](https://feedpress.me/link/20202/16674674/ar-BB1lViPh)
+ - [https://feedpress.me/link/20202/16674657/ar-BB1lVeOJ](https://feedpress.me/link/20202/16674657/ar-BB1lVeOJ)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -5746,7 +6490,7 @@ MSN
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16674276/ar-BB1lTzPU](https://feedpress.me/link/20202/16674276/ar-BB1lTzPU)
+ - [https://feedpress.me/link/20202/16674674/ar-BB1lViPh](https://feedpress.me/link/20202/16674674/ar-BB1lViPh)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -5821,6 +6565,13 @@ Oleksandr Pielieshenko -- a former weightlifting champion who competed in the 20
  - date published: 2024-05-06T00:00:00+00:00
 
 All Families Healthcare is one of only five clinics statewide—and surrounded by states that restrict or outright ban abortion.
+
+## Overnight Tornado Threat Looms Over Plains | Weather.com
+ - [https://feedpress.me/link/20202/16674716/2024-05-06-oklahoma-city-plains-faces-high-risk-severe-tornado-outbreak-live-blog](https://feedpress.me/link/20202/16674716/2024-05-06-oklahoma-city-plains-faces-high-risk-severe-tornado-outbreak-live-blog)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Our latest updates as we tracked the serious tornado threat in the Plains. - Articles from The Weather Channel | weather.com
 
 ## Palantir Earnings Day Is Here
  - [https://www.barrons.com/livecoverage/stock-market-today-050624/card/palantir-earnings-day-is-here-nZk49XIXMWZtrGPCikzr?siteid=yhoof2&amp](https://www.barrons.com/livecoverage/stock-market-today-050624/card/palantir-earnings-day-is-here-nZk49XIXMWZtrGPCikzr?siteid=yhoof2&amp)
@@ -5899,6 +6650,13 @@ Preview Builds of the Zed Editor Now Available for Linux | Hacker News
 
 Independent Sen. Bernie Sanders, 82, of Vermont, who caucuses with the Democrats, on Monday announced his bid for re-election to a fourth six-year term in the Senate.
 
+## Proton Mail discloses user data leading to arrest in Spain | Hacker News
+ - [https://news.ycombinator.com/item?id=40280689](https://news.ycombinator.com/item?id=40280689)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Proton Mail discloses user data leading to arrest in Spain | Hacker News
+
 ## PSG boss on semi: Even Mbappé must defend
  - [https://www.espn.com/soccer/story/_/id/40095208/even-mbappe-defend-psg-boss-borussia-dortmund-semifinal](https://www.espn.com/soccer/story/_/id/40095208/even-mbappe-defend-psg-boss-borussia-dortmund-semifinal)
  - RSS feed: 
@@ -5926,6 +6684,13 @@ Pure-PyTorch Implementation of Kolmogorov-Arnold Network (Kan) | Hacker News
  - date published: 2024-05-06T00:00:00+00:00
 
 Hamas sent on Monday to mediators its response to a truce proposal which could be described as positive, a spokesperson for Qatar's foreign ministry said early on Tuesday.
+
+## QUAMELEON: QUAntum Materials Engineering using eLEctrOmagNetic fields | Hacker News
+ - [https://news.ycombinator.com/item?id=40280747](https://news.ycombinator.com/item?id=40280747)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+QUAMELEON: QUAntum Materials Engineering using eLEctrOmagNetic fields | Hacker News
 
 ## Quantum gravity gets a new test | Hacker News
  - [https://news.ycombinator.com/item?id=40276399](https://news.ycombinator.com/item?id=40276399)
@@ -6144,6 +6909,13 @@ Show HN: Supertone Shift – AI powered Real-time voice changer | Hacker News
 
 Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans) | Hacker News
 
+## Signatures submitted in bid to bring California-style 'Top 2' primaries to South Dakota
+ - [https://www.foxnews.com/politics/signatures-submitted-bid-bring-california-style-top-2-primaries-south-dakota](https://www.foxnews.com/politics/signatures-submitted-bid-bring-california-style-top-2-primaries-south-dakota)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Supporters of a "top two" primary system have submitted thousands more signatures than required in a bid to amend South Dakota's electoral process.
+
 ## Simone Biles Says She Blacked Out from Drinking at Her Wedding Party
  - [https://www.tmz.com/2024/05/06/simone-biles-blacked-out-drinking-wedding-party-cabo-jonathan-owens](https://www.tmz.com/2024/05/06/simone-biles-blacked-out-drinking-wedding-party-cabo-jonathan-owens)
  - RSS feed: 
@@ -6157,6 +6929,13 @@ Simone Biles says she had one too many at a pre-wedding party down in Cabo last 
  - date published: 2024-05-06T00:00:00+00:00
 
 Sixers president Daryl Morey, armed with $65 million in cap space, promises "a lot of changes" this offseason to rebuild around stars Joel Embiid and Tyrese Maxey.
+
+## Slain nurse's husband sues health care company, alleging it ignored employees' safety concerns
+ - [https://www.foxnews.com/us/slain-nurses-husband-sues-health-care-company-alleging-ignored-employees-safety-concerns](https://www.foxnews.com/us/slain-nurses-husband-sues-health-care-company-alleging-ignored-employees-safety-concerns)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Ronald Grayson, the husband of a Connecticut visiting nurse who was found dead in the basement of a halfway house, has filed a wrongful death lawsuit against his late wife's employer Elara Caring.
 
 ## SNP veteran John Swinney set to be Scotland's next leader
  - [https://www.reuters.com/world/uk/snp-veteran-john-swinney-set-become-scotlands-next-leader-2024-05-06](https://www.reuters.com/world/uk/snp-veteran-john-swinney-set-become-scotlands-next-leader-2024-05-06)
@@ -6264,14 +7043,7 @@ Texans owner Cal McNair said Monday that Tank Dell will make a "full recovery" a
 The 2023 FSF Free Software Awards [LWN.net]
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/824c7cec-785e-49f6-bdfb-b49ac8254b32](https://brutalist.report/bruticle/824c7cec-785e-49f6-bdfb-b49ac8254b32)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/5935f1ce-9af3-497d-a282-0239d596f10a](https://brutalist.report/bruticle/5935f1ce-9af3-497d-a282-0239d596f10a)
+ - [https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda](https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -6285,91 +7057,7 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806](https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f](https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/89517ace-96a2-4741-9b4b-1dd783c2aaa2](https://brutalist.report/bruticle/89517ace-96a2-4741-9b4b-1dd783c2aaa2)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda](https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
  - [https://brutalist.report/bruticle/f03b3084-75e2-421f-83ca-de6fc176cea4](https://brutalist.report/bruticle/f03b3084-75e2-421f-83ca-de6fc176cea4)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/144cccad-cd8e-4655-a530-eeb8f9c70406](https://brutalist.report/bruticle/144cccad-cd8e-4655-a530-eeb8f9c70406)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/e52a62cb-16b2-4e77-83bd-f4a9b2ede469](https://brutalist.report/bruticle/e52a62cb-16b2-4e77-83bd-f4a9b2ede469)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4](https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/c357e6ee-ddbc-4d0b-9be1-a8ffe61c3541](https://brutalist.report/bruticle/c357e6ee-ddbc-4d0b-9be1-a8ffe61c3541)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/704e7f08-27ae-4a7a-9090-9643c4acc1fa](https://brutalist.report/bruticle/704e7f08-27ae-4a7a-9090-9643c4acc1fa)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d](https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/be491f38-1dc0-4e40-839c-f178bf171cf9](https://brutalist.report/bruticle/be491f38-1dc0-4e40-839c-f178bf171cf9)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/67f6c11f-b0d0-4d08-a062-3ec52474cd54](https://brutalist.report/bruticle/67f6c11f-b0d0-4d08-a062-3ec52474cd54)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -6383,7 +7071,98 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d](https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/5935f1ce-9af3-497d-a282-0239d596f10a](https://brutalist.report/bruticle/5935f1ce-9af3-497d-a282-0239d596f10a)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/89517ace-96a2-4741-9b4b-1dd783c2aaa2](https://brutalist.report/bruticle/89517ace-96a2-4741-9b4b-1dd783c2aaa2)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/67f6c11f-b0d0-4d08-a062-3ec52474cd54](https://brutalist.report/bruticle/67f6c11f-b0d0-4d08-a062-3ec52474cd54)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/824c7cec-785e-49f6-bdfb-b49ac8254b32](https://brutalist.report/bruticle/824c7cec-785e-49f6-bdfb-b49ac8254b32)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
  - [https://brutalist.report/bruticle/1f4f2c8d-75c7-48d5-989a-09c0b29812d7](https://brutalist.report/bruticle/1f4f2c8d-75c7-48d5-989a-09c0b29812d7)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/c357e6ee-ddbc-4d0b-9be1-a8ffe61c3541](https://brutalist.report/bruticle/c357e6ee-ddbc-4d0b-9be1-a8ffe61c3541)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/be491f38-1dc0-4e40-839c-f178bf171cf9](https://brutalist.report/bruticle/be491f38-1dc0-4e40-839c-f178bf171cf9)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/144cccad-cd8e-4655-a530-eeb8f9c70406](https://brutalist.report/bruticle/144cccad-cd8e-4655-a530-eeb8f9c70406)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f](https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/704e7f08-27ae-4a7a-9090-9643c4acc1fa](https://brutalist.report/bruticle/704e7f08-27ae-4a7a-9090-9643c4acc1fa)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806](https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4](https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/e52a62cb-16b2-4e77-83bd-f4a9b2ede469](https://brutalist.report/bruticle/e52a62cb-16b2-4e77-83bd-f4a9b2ede469)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -6395,6 +7174,13 @@ The day's headlines delivered to you without bullshit. - about
  - date published: 2024-05-06T00:00:00+00:00
 
 Environmental and existential threats have changed parenting and fertility itself.
+
+## The Clowder Project: an online resource for category theory and mathematics | Hacker News
+ - [https://news.ycombinator.com/item?id=40278439](https://news.ycombinator.com/item?id=40278439)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The Clowder Project: an online resource for category theory and mathematics | Hacker News
 
 ## The number of religious ‘nones’ has soared, but not the number of atheists – and as social scientists, we wanted to know why
  - [https://theconversation.com/the-number-of-religious-nones-has-soared-but-not-the-number-of-atheists-and-as-social-scientists-we-wanted-to-know-why-228852](https://theconversation.com/the-number-of-religious-nones-has-soared-but-not-the-number-of-atheists-and-as-social-scientists-we-wanted-to-know-why-228852)
@@ -6437,6 +7223,13 @@ Donald Trump’s hush-money trial just got a crucial new piece of evidence.
  - date published: 2024-05-06T00:00:00+00:00
 
 The S&P 500 and Nasdaq Composite also are rising Monday as Wall Street comes off a positive week.
+
+## These Were The Deadliest Countries For Journalists In 2023 | ZeroHedge
+ - [https://www.zerohedge.com/geopolitical/these-were-deadliest-countries-journalists-2023](https://www.zerohedge.com/geopolitical/these-were-deadliest-countries-journalists-2023)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
 
 ## Thorn in a HaizeStack test for evaluating long-context adversarial robustness | Hacker News
  - [https://news.ycombinator.com/item?id=40276550](https://news.ycombinator.com/item?id=40276550)
@@ -6634,6 +7427,13 @@ When students get unqualified teachers, it’s like missing one-third of the sch
 
 Unused European Union funds meant for helping member states recover from the pandemic should be put towards building the defence industry, Poland's deputy prime minister and its foreign minister said on Monday.
 
+## US Labor Board rules Apple illegally interrogated retail staff in NYC
+ - [https://appleinsider.com/articles/24/05/06/us-labor-board-rules-apple-illegally-interrogated-retail-staff-in-nyc?utm_medium=rss](https://appleinsider.com/articles/24/05/06/us-labor-board-rules-apple-illegally-interrogated-retail-staff-in-nyc?utm_medium=rss)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The US Labor Board found that Apple conducted unauthorized interrogations of employees at the Apple World Trade Center retail store in New York City.
+
 ## US sanctions Colombian maritime companies over alleged migrant smuggling
  - [https://www.reuters.com/world/americas/us-sanctions-colombian-maritime-companies-over-alleged-migrant-smuggling-2024-05-06](https://www.reuters.com/world/americas/us-sanctions-colombian-maritime-companies-over-alleged-migrant-smuggling-2024-05-06)
  - RSS feed: 
@@ -6676,6 +7476,13 @@ Liverpool captain Virgil van Dijk has said he will be a part of the club's trans
 
 Studying Venus’ water loss can help scientists better understand how planets go from potentially habitable to incapable of supporting life.
 
+## Victor Wembanyama gets emotional as NBA Rookie of the Year winners congratulate him in surprise fashion
+ - [https://www.foxnews.com/sports/victor-wembanyama-gets-emotional-nba-rookie-of-the-year-winners-congratulate-him](https://www.foxnews.com/sports/victor-wembanyama-gets-emotional-nba-rookie-of-the-year-winners-congratulate-him)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Victor Wembanyama is the NBA Rookie of the Year and Fanatics surprised him with a special exhibit that he thought was simply looking through old memorabilia until it came to life.
+
 ## Video: John Maynard Smith Interviewed by Richard Dawkins | Hacker News
  - [https://news.ycombinator.com/item?id=40274832](https://news.ycombinator.com/item?id=40274832)
  - RSS feed: 
@@ -6689,6 +7496,13 @@ Video: John Maynard Smith Interviewed by Richard Dawkins | Hacker News
  - date published: 2024-05-06T00:00:00+00:00
 
 Volcanoes and Us (2015) [video] | Hacker News
+
+## Wembanyama voted unanimous Rookie of Year
+ - [https://www.espn.com/nba/story/_/id/40096225/spurs-victor-wembanyama-named-unanimous-rookie-year](https://www.espn.com/nba/story/_/id/40096225/spurs-victor-wembanyama-named-unanimous-rookie-year)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Victor Wembanyama was named the NBA's Rookie of the Year on Monday, garnering all 99 first-place votes to become the sixth unanimous winner in the last 40 years.
 
 ## What are nanoplastics? An engineer explains concerns about particles too small to see
  - [https://theconversation.com/what-are-nanoplastics-an-engineer-explains-concerns-about-particles-too-small-to-see-225791](https://theconversation.com/what-are-nanoplastics-an-engineer-explains-concerns-about-particles-too-small-to-see-225791)

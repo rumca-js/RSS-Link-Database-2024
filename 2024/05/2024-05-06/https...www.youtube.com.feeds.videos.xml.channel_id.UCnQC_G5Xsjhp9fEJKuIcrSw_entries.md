@@ -1,5 +1,40 @@
 # Source:Ben Shapiro, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCnQC_G5Xsjhp9fEJKuIcrSw, language:en-US
 
+## Neil deGrasse Tyson Is Wrong About God
+ - [https://www.youtube.com/watch?v=Q9eBIPQPnzc](https://www.youtube.com/watch?v=Q9eBIPQPnzc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCnQC_G5Xsjhp9fEJKuIcrSw
+ - date published: 2024-05-06T23:30:04+00:00
+
+
+
+## Biden's Pandering Continues
+ - [https://www.youtube.com/watch?v=2-pUu0dKmtU](https://www.youtube.com/watch?v=2-pUu0dKmtU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCnQC_G5Xsjhp9fEJKuIcrSw
+ - date published: 2024-05-06T22:22:36+00:00
+
+
+
+## Is It Over for Trump? | With @MegynKelly
+ - [https://www.youtube.com/watch?v=dorv1ND6dmE](https://www.youtube.com/watch?v=dorv1ND6dmE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCnQC_G5Xsjhp9fEJKuIcrSw
+ - date published: 2024-05-06T22:00:20+00:00
+
+Birch Gold - Open an IRA in GOLD and get a FREE infokit. Text "BEN" to 989898. http://www.birchgold.com/Ben 
+
+Joining me on the show today is Megyn Kelly to discuss her role in The Daily Wire's upcoming show, "Mr. Birchum," Trump's court case, and more.
+
+Don’t miss out on the premiere of Mr. Birchum this Sunday, May 12th at 9PM ET on DW+ : https://bit.ly/4akO7wC 
+
+1️⃣ Click here to join the member-exclusive portion of my show: https://get.dailywireplus.com/member-block/ben-shapiro
+
+2️⃣ Become a DailyWire+ member to gain access to movies, shows, documentaries, and more: https://bit.ly/3lfVtwK 
+
+3️⃣ Watch the full episode here: Ep.1958 - https://youtu.be/7lG8IiZKU1Y
+
+👕 Get your Ben Shapiro merch here: https://bit.ly/3TAu2cw
+
+#BenShapiro #TheBenShapiroShow #News #Politics #DailyWire
+
 ## Biden's Pandering Continues
  - [https://www.youtube.com/watch?v=pCVv85KDhjI](https://www.youtube.com/watch?v=pCVv85KDhjI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCnQC_G5Xsjhp9fEJKuIcrSw

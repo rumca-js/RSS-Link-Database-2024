@@ -1,5 +1,26 @@
 # Source:BBC, URL:https://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
+## Fake police officer ordered woman to stop on M1
+ - [https://www.bbc.com/news/articles/ck7l8ey1v33o](https://www.bbc.com/news/articles/ck7l8ey1v33o)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-05-06T23:49:03+00:00
+
+Police established the man was not an officer, but failed to investigate the incident as a crime.
+
+## Hush-money trial: Did Trump 'cook the books'?
+ - [https://www.bbc.co.uk/news/world-us-canada-68967105](https://www.bbc.co.uk/news/world-us-canada-68967105)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-05-06T23:47:40+00:00
+
+The BBC's Nada Tawfik runs through documents shown as evidence in court as Trump's criminal trial continues.
+
+## Tourist influx turns Windermere green, researchers say
+ - [https://www.bbc.co.uk/news/science-environment-68953523](https://www.bbc.co.uk/news/science-environment-68953523)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-05-06T23:40:51+00:00
+
+New research links algal blooming at England's largest lake with increased visitor numbers
+
 ## New contract sees GPs share £5m for insurance bills
  - [https://www.bbc.co.uk/news/uk-northern-ireland-68964435](https://www.bbc.co.uk/news/uk-northern-ireland-68964435)
  - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
@@ -188,6 +209,13 @@ Sir Bryn Terfel, Katherine Jenkins, Michael Sheen and Ruth Jones have all hit ou
  - date published: 2024-05-06T15:37:28+00:00
 
 Kyren Wilson maintains a five-frame lead over Jak Jones as he moved to within three frames of his first world title.
+
+## Judge threatens jail if Trump keeps breaking gag order
+ - [https://www.bbc.co.uk/news/world-us-canada-68945269](https://www.bbc.co.uk/news/world-us-canada-68945269)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-05-06T14:58:54+00:00
+
+The judge issues his most serious warning yet, calling the violations "a direct attack on the rule of law".
 
 ## Thousands without water for fifth day
  - [https://www.bbc.com/news/articles/cv2r02yv4vjo](https://www.bbc.com/news/articles/cv2r02yv4vjo)

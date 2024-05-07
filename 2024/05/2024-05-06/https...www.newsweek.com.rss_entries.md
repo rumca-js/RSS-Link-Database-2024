@@ -1,5 +1,12 @@
 # Source:Newsweek, URL:https://www.newsweek.com/rss, language:en-US
 
+## Russia Warns Ukraine's F-16s Will Be Treated as Nuclear Threats
+ - [https://www.newsweek.com/russia-warns-ukraines-f-16s-will-treated-nuclear-threats-1897700](https://www.newsweek.com/russia-warns-ukraines-f-16s-will-treated-nuclear-threats-1897700)
+ - RSS feed: https://www.newsweek.com/rss
+ - date published: 2024-05-06T23:56:46+00:00
+
+The Russian government said it "cannot ignore" that the planes have the potential to deliver nuclear weapons.
+
 ## Massive Gathering of Pro-Palestinian Protesters Descend on Met Gala
  - [https://www.newsweek.com/massive-gathering-pro-palestinian-protesters-descend-met-gala-1897712](https://www.newsweek.com/massive-gathering-pro-palestinian-protesters-descend-met-gala-1897712)
  - RSS feed: https://www.newsweek.com/rss

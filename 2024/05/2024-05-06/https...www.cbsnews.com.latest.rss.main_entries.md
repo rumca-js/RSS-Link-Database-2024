@@ -1,5 +1,117 @@
 # Source:Home - CBSNews.com, URL:https://www.cbsnews.com/latest/rss/main, language:en
 
+## 5 mom-daughter duos are nurses at same hospital
+ - [https://www.cbsnews.com/video/5-mom-daughter-duos-are-nurses-at-same-hospital](https://www.cbsnews.com/video/5-mom-daughter-duos-are-nurses-at-same-hospital)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:56:00+00:00
+
+Meet five daughters who followed in their mother's footsteps to become nurses at Children's National Hospital in Washington, D.C.
+
+## Long-awaited Boeing Starliner launch scrubbed
+ - [https://www.cbsnews.com/video/long-awaited-boeing-starliner-launch-scrubbed](https://www.cbsnews.com/video/long-awaited-boeing-starliner-launch-scrubbed)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:56:00+00:00
+
+Boeing's Starliner was set to make its maiden voyage to the International Space Station, with its first piloted launch Monday night. But the launch, already pushed back following years of delays, was scrubbed with less than two hours to go before liftoff. Mark Strassmanm reports.
+
+## Steward Health Care files for bankruptcy
+ - [https://www.cbsnews.com/video/steward-health-care-files-for-bankruptcy](https://www.cbsnews.com/video/steward-health-care-files-for-bankruptcy)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:56:00+00:00
+
+One of the largest hospital bankruptcies in history is leading to new concerns that some communities will be left without access to medical care. CBS News chief medical correspondent Dr. Jon LaPook has more.
+
+## Severe storms threaten millions across Midwest, Great Plains
+ - [https://www.cbsnews.com/video/severe-storms-threaten-millions-across-midwest-great-plains](https://www.cbsnews.com/video/severe-storms-threaten-millions-across-midwest-great-plains)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:54:00+00:00
+
+NOAA's Storm Prediction Center has issued a Level 5 severe weather threat for parts of Kansas and Oklahoma. CBS News senior weather producer David Parkinson has the latest forecast.
+
+## Trump held in contempt, could face jail time with repeated violations
+ - [https://www.cbsnews.com/video/trump-held-in-contempt-could-face-jail-time-with-repeated-violations](https://www.cbsnews.com/video/trump-held-in-contempt-could-face-jail-time-with-repeated-violations)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:53:00+00:00
+
+The judge overseeing former President Donald Trump's criminal trial in New York held him in contempt of court for violating a gag order for the 10th time. As Robert Costa reports, Trump could see jail time for future violations.
+
+## American soldier arrested in Russia
+ - [https://www.cbsnews.com/video/american-soldier-arrested-in-russia](https://www.cbsnews.com/video/american-soldier-arrested-in-russia)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:50:00+00:00
+
+An American soldier has been arrested in Russia after being accused of stealing from a woman. The soldier was stationed in South Korea and traveled to Russia on his own as he was set to return to the U.S. as part of a regular rotation. David Martin reports.
+
+## What's next for Trump after 10th gag order violation
+ - [https://www.cbsnews.com/video/whats-next-for-trump-after-10th-gag-order-violation](https://www.cbsnews.com/video/whats-next-for-trump-after-10th-gag-order-violation)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:50:00+00:00
+
+Judge Juan Merchan found former President Donald Trump in contempt of court Monday for violating a gag order for the 10th time. CBS News campaign reporter and attorney Katrina Kaufman breaks down the proceedings.
+
+## What we know about the Egyptian-Qatari cease-fire proposal
+ - [https://www.cbsnews.com/video/egyptian-qatari-cease-fire-proposal-what-we-know](https://www.cbsnews.com/video/egyptian-qatari-cease-fire-proposal-what-we-know)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:47:00+00:00
+
+Hamas announced Monday it accepted a cease-fire proposal brokered by Egypt and Qatar. CBS News foreign correspondent Imtiaz Tyab has more.
+
+## Columbia University cancels main commencement after Gaza protests
+ - [https://www.cbsnews.com/video/columbia-university-cancels-main-commencement-after-gaza-protests](https://www.cbsnews.com/video/columbia-university-cancels-main-commencement-after-gaza-protests)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:46:00+00:00
+
+Columbia University has cancelled its main graduation ceremony following weeks of protests over Israel's war in Gaza. Protests have continued at schools across the country, including at UCLA, which has also seen heavy crackdowns from police. Lana Zak and Elise Preston report.
+
+## Hamas accepts Gaza cease-fire proposal, but Israel calls deal unacceptable
+ - [https://www.cbsnews.com/video/hamas-accepts-gaza-cease-fire-proposal-but-israel-calls-deal-unacceptable](https://www.cbsnews.com/video/hamas-accepts-gaza-cease-fire-proposal-but-israel-calls-deal-unacceptable)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:45:00+00:00
+
+Hamas said it will accept a cease-fire proposal from Egypt and Qatar, but a deal is uncertain as Israeli officials say the proposal is far from acceptable. Israel is sending representatives to Egypt to keep up the talks while still pushing forward with a controversial military operation in Rafah. Ramy Inocencio has the latest
+
+## Texas recovering after downpour brought deadly flooding
+ - [https://www.cbsnews.com/video/texas-recovering-after-downpour-brought-deadly-flooding](https://www.cbsnews.com/video/texas-recovering-after-downpour-brought-deadly-flooding)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:42:00+00:00
+
+While millions are bracing for the severe weather to come, Texans are still recovering from days of heavy downpours and deadly flooding that resulted in hundreds of rescues. Residents in the Houston area are finally returning to their homes to assess the damage after the flood waters began receding overnight. Janet Shamlian reports.
+
+## "CBS Evening News" headlines for Monday, May 6, 2024
+ - [https://www.cbsnews.com/video/cbs-evening-news-headlines-for-monday-may-6-2024](https://www.cbsnews.com/video/cbs-evening-news-headlines-for-monday-may-6-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:39:00+00:00
+
+Here's a look at the top stories making headlines on the "CBS Evening News with Norah O'Donnell."
+
+## Millions face threat of violent storms, tornadoes across Plains
+ - [https://www.cbsnews.com/video/millions-face-threat-of-violent-storms-tornadoes-across-plains](https://www.cbsnews.com/video/millions-face-threat-of-violent-storms-tornadoes-across-plains)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:39:00+00:00
+
+The National Weather Service has issued a rare high-risk forecast for violent thunderstorms, long-track tornadoes and giant hail for millions of Americans across the Great Plains. The Weather Channel meteorologist Paul Goodloe is standing by for the storms.
+
+## How Columbia's 2024 protests compare to 1968
+ - [https://www.cbsnews.com/video/how-columbia-2024-protests-compare-to-1968](https://www.cbsnews.com/video/how-columbia-2024-protests-compare-to-1968)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:34:00+00:00
+
+Columbia University has canceled its college-wide commencement ceremonies set for May 15, opting to hold smaller celebrations in the wake of anti-war protests. Historian Rick Perlstein joins CBS News to discuss the historical context.
+
+## Vice President Harris in Detroit for economic opportunity tour
+ - [https://www.cbsnews.com/video/vice-president-harris-detroit-economic-opportunity-tour](https://www.cbsnews.com/video/vice-president-harris-detroit-economic-opportunity-tour)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:29:00+00:00
+
+Vice President Kamala Harris was in Detroit on Monday as a part of her nationwide economic opportunity tour. CBS News campaign reporter Nidia Cavazos has more.
+
+## Trump back in court after private donor retreat
+ - [https://www.cbsnews.com/video/trump-back-in-court-after-private-donor-retreat](https://www.cbsnews.com/video/trump-back-in-court-after-private-donor-retreat)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-06T23:27:00+00:00
+
+Former President Donald Trump returned to court Monday for his New York criminal trial on the heels of a private retreat for campaign donors in Mar-a-Lago over the weekend. CBS News chief election and campaign correspondent Robert Costa has the latest.
+
 ## White-coated candy recalled nationwide over salmonella risk
  - [https://www.cbsnews.com/news/white-coated-candy-recall-salmonella](https://www.cbsnews.com/news/white-coated-candy-recall-salmonella)
  - RSS feed: https://www.cbsnews.com/latest/rss/main

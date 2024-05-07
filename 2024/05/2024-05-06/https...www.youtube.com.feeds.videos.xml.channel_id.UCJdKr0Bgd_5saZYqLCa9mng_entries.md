@@ -1,5 +1,43 @@
 # Source:The Rubin Report, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCJdKr0Bgd_5saZYqLCa9mng, language:en
 
+## Protesters Push Pro-Hamas Propaganda, Then These Students Showed Up
+ - [https://www.youtube.com/watch?v=sQ3SdfkhxHs](https://www.youtube.com/watch?v=sQ3SdfkhxHs)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCJdKr0Bgd_5saZYqLCa9mng
+ - date published: 2024-05-06T23:15:01+00:00
+
+Dave Rubin of “The Rubin Report” shares a DM clip of American flag-waving students at the University of Chicago fighting back against the pro-Palestinian protesters on their campus.
+Watch Dave Rubin's FULL DIRECT MESSAGE: https://www.youtube.com/watch?v=bnIoMLbizlE&amp;list=PLEbhOtC9klbDG22n--rCDbv02-n8l6agL&amp;index=1&amp;pp=gAQBiAQB
+
+WATCH the MEMBER-EXCLUSIVE segment of the show here: https://rubinreport.locals.com/
+
+Check out the NEW RUBIN REPORT MERCH here:
+https://daverubin.store/
+
+----------
+
+#RubinReport #FreePalestine #Palestine #Gaza #patriots #daverubin 
+
+The Direct Message segments of the Rubin Report are a chance for Dave Rubin to directly address current events, political news and the topics of the day. Whether it’s encouraging critical thinking, defending free speech, or fending off political correctness, it’s only by having calm rational conversations about these issues that can help de-escalate the political polarization and help heal our democracy. To hear what Dave
+
+## Watch Guest’s Face When Hosts Keep Correcting Her with Facts
+ - [https://www.youtube.com/watch?v=OOOiEogljUQ](https://www.youtube.com/watch?v=OOOiEogljUQ)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCJdKr0Bgd_5saZYqLCa9mng
+ - date published: 2024-05-06T22:15:02+00:00
+
+Dave Rubin of “The Rubin Report” shares a DM clip of “CBS Mornings” pointing out the ignorance of most pro-Palestinian protesters for not knowing the true meaning of the word intifada.
+Watch Dave Rubin's FULL DIRECT MESSAGE: https://www.youtube.com/watch?v=bnIoMLbizlE&amp;list=PLEbhOtC9klbDG22n--rCDbv02-n8l6agL&amp;index=1&amp;pp=gAQBiAQB
+
+WATCH the MEMBER-EXCLUSIVE segment of the show here: https://rubinreport.locals.com/
+
+Check out the NEW RUBIN REPORT MERCH here:
+https://daverubin.store/
+
+----------
+
+#RubinReport #CBSNews #FreePalestine #protest #intifada #daverubin 
+
+The Direct Message segments of the Rubin Report are a chance for Dave Rubin to directly address current events, political news and the topics of the day. Whether it’s encouraging critical thinking, defending free speech, or fending off political correctness, it’s only by having calm rational conversations about these issues that can help de-escalate the political polarization and help heal our democracy. To hear what 
+
 ## Hezbollah Has a Brutal Message for 'Queers for Palestine' Protesters
  - [https://www.youtube.com/watch?v=2qaqk3XN_QY](https://www.youtube.com/watch?v=2qaqk3XN_QY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCJdKr0Bgd_5saZYqLCa9mng

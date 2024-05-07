@@ -1,5 +1,12 @@
 # Source:Wydarzenia Interia - Świat, URL:https://wydarzenia.interia.pl/swiat/feed, language:pl-PL
 
+## Nerwowa inauguracja prezydentury Putina? Rosja boi się ataków Ukrainy
+ - [https://wydarzenia.interia.pl/raport-ukraina-rosja/news-nerwowa-inauguracja-prezydentury-putina-rosja-boi-sie-atakow,nId,7494131](https://wydarzenia.interia.pl/raport-ukraina-rosja/news-nerwowa-inauguracja-prezydentury-putina-rosja-boi-sie-atakow,nId,7494131)
+ - RSS feed: https://wydarzenia.interia.pl/swiat/feed
+ - date published: 2024-05-06T20:35:05+00:00
+
+<p><a href="https://wydarzenia.interia.pl/raport-ukraina-rosja/news-nerwowa-inauguracja-prezydentury-putina-rosja-boi-sie-atakow,nId,7494131"><img align="left" alt="Nerwowa inauguracja prezydentury Putina? Rosja boi się ataków Ukrainy" src="https://i.iplsc.com/nerwowa-inauguracja-prezydentury-putina-rosja-boi-sie-atakow/000J2M3DXXVNKWWR-C321.jpg" /></a>&quot;Ukraińskie Siły Zbrojne przygotowują zmasowany atak na terytorium Rosji 7 maja o godzinie 6 rano&quot; - informuje redakcja RT. Dziennikarze, powołując się na źródła w rosyjskiej armii, przekonują, że władze w Kijowie planują uderzenia, które mają zakłócić inaugurację prezydentury Władimira Putina.</p><br clear="all" />
+
 ## Jasne stanowisko Joe Bidena. Naciskał na premiera Izraela
  - [https://wydarzenia.interia.pl/zagranica/news-jasne-stanowisko-joe-bidena-naciskal-na-premiera-izraela,nId,7494078](https://wydarzenia.interia.pl/zagranica/news-jasne-stanowisko-joe-bidena-naciskal-na-premiera-izraela,nId,7494078)
  - RSS feed: https://wydarzenia.interia.pl/swiat/feed

@@ -1,5 +1,12 @@
 # Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
 
+## Stephen King's The Dark Tower Graphic Novel Omnibuses Are 50% Off
+ - [https://www.gamespot.com/articles/stephen-kings-the-dark-tower-graphic-novel-omnibuses-are-50-off/1100-6523162/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/stephen-kings-the-dark-tower-graphic-novel-omnibuses-are-50-off/1100-6523162/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-05-06T23:48:00+00:00
+
+<p>Stephen King has published over 60 novels in his 50-year career as the most recognizable name in horror. Most of King's books are standalone works, though he has penned a few series, including The Dark Tower. By far King's longest story, <a href="https://www.amazon.com/dp/1501163566?tag=gamespot-promos-20">The Dark Tower comprises eight books</a> released over a 30-year stretch starting in 1982. In 2007, Marvel began adapting The Dark Tower into comic books. Although the adaptation was eventually canceled before reaching its proper conclusion, fans of original novels will still find lots to love in what was released. Publisher Gallery 13 recognized this and re-released the comics in <a href="https://www.amazon.com/Stephen-Kings-Dark-Tower-Beginnings/dp/1668021137?tag=gamespot-promos-20">hardcover omnibus format</a> late last year. All three of The Dark Tower comic omnibuses are on sale for steep discounts at Amazon.</p><h2>The Dark Tower Graphic Novel Omnibus Deals</h2><ul><li><a h
+
 ## Get Fallout 76 And Explore The Appalachian Wasteland For Only $6
  - [https://www.gamespot.com/articles/get-fallout-76-and-explore-the-appalachian-wasteland-for-only-6/1100-6523212/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/get-fallout-76-and-explore-the-appalachian-wasteland-for-only-6/1100-6523212/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup

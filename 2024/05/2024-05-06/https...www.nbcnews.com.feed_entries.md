@@ -1,5 +1,12 @@
 # Source:CNBC, URL:https://www.nbcnews.com/feed, language:en-US
 
+## What you missed on Day 12 of Trump's trial: Another gag order ruling and details on how Michael Cohen was paid
+ - [https://www.nbcnews.com/politics/donald-trump/missed-day-12-trumps-trial-another-gag-order-ruling-details-michael-co-rcna150964](https://www.nbcnews.com/politics/donald-trump/missed-day-12-trumps-trial-another-gag-order-ruling-details-michael-co-rcna150964)
+ - RSS feed: https://www.nbcnews.com/feed
+ - date published: 2024-05-06T23:56:59+00:00
+
+Two new witnesses took the stand Monday on the 12th day of Donald Trump’s hush money trial, shortly after the judge overseeing the case again cited the former president for violating the gag order he imposed last month.
+
 ## Spurs star Victor Wembanyama wins NBA Rookie of the Year
  - [https://www.nbcnews.com/news/sports/victor-wembanyama-nba-rookie-year-rcna150961](https://www.nbcnews.com/news/sports/victor-wembanyama-nba-rookie-year-rcna150961)
  - RSS feed: https://www.nbcnews.com/feed

@@ -1,5 +1,12 @@
 # Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
 
+## These 4TB, 2TB, 1TB NVMe PCIe Gen4 SSDs with heatsinks are on sale at low prices
+ - [https://www.neowin.net/deals/these-4tb-2tb-1tb-nvme-pcie-gen4-ssds-with-heatsinks-are-on-sale-at-low-prices](https://www.neowin.net/deals/these-4tb-2tb-1tb-nvme-pcie-gen4-ssds-with-heatsinks-are-on-sale-at-low-prices)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-06T23:46:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1715035908_lexar_ssd_with_heatsink_medium.jpg" /></div>Great SSD deals are super-rare these days and the situation is the opposite of how things used to be. However, currently, there&#039;s a good deal on 1TB, 2TB, and 4TB models of a Lexar PCIe Gen4 NVMe SSD. <a href="https://www.neowin.net/deals/these-4tb-2tb-1tb-nvme-pcie-gen4-ssds-with-heatsinks-are-on-sale-at-low-prices/">Read more...</a>
+
 ## How to prevent Windows 11 from encrypting your disks during installation
  - [https://www.neowin.net/guides/how-to-prevent-windows-11-from-encrypting-your-disks-during-installation](https://www.neowin.net/guides/how-to-prevent-windows-11-from-encrypting-your-disks-during-installation)
  - RSS feed: https://www.neowin.net/news/rss

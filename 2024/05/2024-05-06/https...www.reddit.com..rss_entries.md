@@ -1,5 +1,33 @@
 # Source:Reddit - Front Page, URL:https://www.reddit.com/.rss, language:en-US
 
+## meirl
+ - [https://www.reddit.com/r/meirl/comments/1clxo8j/meirl](https://www.reddit.com/r/meirl/comments/1clxo8j/meirl)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-06T23:39:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/meirl/comments/1clxo8j/meirl/"> <img alt="meirl" src="https://preview.redd.it/s1n69csu6wyc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=592a3195722fa302cca7037a8873058e495e7edc" title="meirl" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Brent_Fox"> /u/Brent_Fox </a> &#32; to &#32; <a href="https://www.reddit.com/r/meirl/"> r/meirl </a> <br /> <span><a href="https://i.redd.it/s1n69csu6wyc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/meirl/comments/1clxo8j/meirl/">[comments]</a></span> </td></tr></table>
+
+## Abhumans and Black Templars by @d4ncwart
+ - [https://www.reddit.com/r/Grimdank/comments/1clwupb/abhumans_and_black_templars_by_d4ncwart](https://www.reddit.com/r/Grimdank/comments/1clwupb/abhumans_and_black_templars_by_d4ncwart)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-06T23:02:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Grimdank/comments/1clwupb/abhumans_and_black_templars_by_d4ncwart/"> <img alt="Abhumans and Black Templars by @d4ncwart" src="https://b.thumbs.redditmedia.com/kr3tzn7P5DjcmOB3L42AJb0Oj2eatfQfkD4ODhVt5ao.jpg" title="Abhumans and Black Templars by @d4ncwart" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mayor_of_the_redline"> /u/Mayor_of_the_redline </a> &#32; to &#32; <a href="https://www.reddit.com/r/Grimdank/"> r/Grimdank </a> <br /> <span><a href="https://www.reddit.com/gallery/1clwupb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Grimdank/comments/1clwupb/abhumans_and_black_templars_by_d4ncwart/">[comments]</a></span> </td></tr></table>
+
+## Is this normal at restaurants now?
+ - [https://www.reddit.com/r/mildlyinfuriating/comments/1clwo6q/is_this_normal_at_restaurants_now](https://www.reddit.com/r/mildlyinfuriating/comments/1clwo6q/is_this_normal_at_restaurants_now)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-06T22:54:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/mildlyinfuriating/comments/1clwo6q/is_this_normal_at_restaurants_now/"> <img alt="Is this normal at restaurants now?" src="https://preview.redd.it/jx5pkonoyvyc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=81e578a0c6632d66ecc0304e2998a50dcfafe81f" title="Is this normal at restaurants now?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hicks53081"> /u/hicks53081 </a> &#32; to &#32; <a href="https://www.reddit.com/r/mildlyinfuriating/"> r/mildlyinfuriating </a> <br /> <span><a href="https://i.redd.it/jx5pkonoyvyc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/mildlyinfuriating/comments/1clwo6q/is_this_normal_at_restaurants_now/">[comments]</a></span> </td></tr></table>
+
+## Każdy szanujący się Polak tak powinien robić
+ - [https://www.reddit.com/r/okkolegauposledzony/comments/1clswjh/każdy_szanujący_się_polak_tak_powinien_robić](https://www.reddit.com/r/okkolegauposledzony/comments/1clswjh/każdy_szanujący_się_polak_tak_powinien_robić)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-06T20:15:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/okkolegauposledzony/comments/1clswjh/każdy_szanujący_się_polak_tak_powinien_robić/"> <img alt="Każdy szanujący się Polak tak powinien robić" src="https://preview.redd.it/t4xwxa966vyc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1e6e69c565dc9cfa2eddf9702fb56fea6b14296" title="Każdy szanujący się Polak tak powinien robić" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prawcin111"> /u/Prawcin111 </a> &#32; to &#32; <a href="https://www.reddit.com/r/okkolegauposledzony/"> r/okkolegauposledzony </a> <br /> <span><a href="https://i.redd.it/t4xwxa966vyc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/okkolegauposledzony/comments/1clswjh/każdy_szanujący_się_polak_tak_powinien_robić/">[comments]</a></span> </td></tr></table>
+
 ## Czy traktowanie stulejki jako tematu do śmiechu to specyficzna cecha polskiej popkultury i memów?
  - [https://www.reddit.com/r/Polska/comments/1clrffo/czy_traktowanie_stulejki_jako_tematu_do_śmiechu](https://www.reddit.com/r/Polska/comments/1clrffo/czy_traktowanie_stulejki_jako_tematu_do_śmiechu)
  - RSS feed: https://www.reddit.com/.rss

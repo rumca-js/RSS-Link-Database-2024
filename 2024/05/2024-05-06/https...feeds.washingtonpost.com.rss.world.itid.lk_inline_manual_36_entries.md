@@ -1,5 +1,12 @@
 # Source:The Washington Post - World, URL:https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36, language:en-US
 
+## For Biden, a tough call looms on whether Israel violated laws in Gaza
+ - [https://www.washingtonpost.com/national-security/2024/05/06/biden-israel-violations-gaza-war](https://www.washingtonpost.com/national-security/2024/05/06/biden-israel-violations-gaza-war)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2024-05-06T23:54:04+00:00
+
+The Biden administration is due to deliver its assessment this week on whether Israel has violated U.S. or international law during the Gaza war.
+
 ## Israel to press attack on Rafah as it negotiates possible cease-fire deal
  - [https://www.washingtonpost.com/world/2024/05/06/israel-rafah-gaza-ceasefire-hamas](https://www.washingtonpost.com/world/2024/05/06/israel-rafah-gaza-ceasefire-hamas)
  - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36

@@ -1,5 +1,12 @@
 # Source:NYT > Top Stories, URL:https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, language:en-us
 
+## Invisible Institute Wins Two Pulitzers
+ - [https://www.nytimes.com/2024/05/06/business/media/invisible-institute-two-pulitzer-prizes.html](https://www.nytimes.com/2024/05/06/business/media/invisible-institute-two-pulitzer-prizes.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-05-06T23:28:19+00:00
+
+The Invisible Institute, a nonprofit newsroom with roughly a dozen journalists, was recognized for local and audio reporting.
+
 ## 2024 Met Gala Red Carpet Photos: Zendaya, Tyla, Colman Domingo and More Looks
  - [https://www.nytimes.com/2024/05/06/fashion/met-gala-photos-red-carpet.html](https://www.nytimes.com/2024/05/06/fashion/met-gala-photos-red-carpet.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml

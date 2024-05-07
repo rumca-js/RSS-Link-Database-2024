@@ -1,5 +1,26 @@
 # Source:IGN All, URL:https://feeds.feedburner.com/ign/all, language:en
 
+## Manor Lords Mods Aren't Even Supported Yet, But Someone Put Shrek in Anyway
+ - [https://www.ign.com/articles/manor-lords-mods-arent-even-supported-yet-but-someone-put-shrek-in-anyway](https://www.ign.com/articles/manor-lords-mods-arent-even-supported-yet-but-someone-put-shrek-in-anyway)
+ - RSS feed: https://feeds.feedburner.com/ign/all
+ - date published: 2024-05-06T23:56:11+00:00
+
+Manor Lords launched for PC players late last month, and it only took about a week for modders to add Shrek as a playable character.
+
+## At 93, William Shatner Would Consider Returning to Star Trek as a De-Aged Captain Kirk
+ - [https://www.ign.com/articles/at-93-william-shatner-would-consider-returning-to-star-trek-as-a-de-aged-captain-kirk](https://www.ign.com/articles/at-93-william-shatner-would-consider-returning-to-star-trek-as-a-de-aged-captain-kirk)
+ - RSS feed: https://feeds.feedburner.com/ign/all
+ - date published: 2024-05-06T22:55:38+00:00
+
+In a new interview, William Shatner talked about the possibility of returning to Star Trek and playing a digitally de-aged Captain Kirk.
+
+## Dungeons & Dragons: The Twenty-Sided Tavern Review
+ - [https://www.ign.com/articles/dungeons-dragons-the-twenty-sided-tavern-review-off-broadway](https://www.ign.com/articles/dungeons-dragons-the-twenty-sided-tavern-review-off-broadway)
+ - RSS feed: https://feeds.feedburner.com/ign/all
+ - date published: 2024-05-06T22:17:38+00:00
+
+Interactive show Dungeons & Dragons: The Twenty-Sided Tavern is silly fun, but lacks heart.
+
 ## The Best iPad Models to Buy in 2024
  - [https://www.ign.com/articles/the-best-ipad-models](https://www.ign.com/articles/the-best-ipad-models)
  - RSS feed: https://feeds.feedburner.com/ign/all

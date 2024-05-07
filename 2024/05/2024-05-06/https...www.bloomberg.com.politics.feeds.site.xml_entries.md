@@ -1,5 +1,12 @@
 # Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
 
+## Modi, Adani Vote as India Election Campaign Turns Hostile
+ - [https://www.bloomberg.com/news/articles/2024-05-07/modi-s-home-state-votes-in-heated-indian-election-campaign](https://www.bloomberg.com/news/articles/2024-05-07/modi-s-home-state-votes-in-heated-indian-election-campaign)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2024-05-07T00:00:00+00:00
+
+Voting kicked off in Prime Minister Narendra Modi’s home state of Gujarat in the third phase of India’s election, with campaigning becoming increasingly acrimonious between the two main parties.
+
 ## Chicago Cops Plan Job Swap With Milwaukee for Conventions
  - [https://www.bloomberg.com/news/articles/2024-05-06/chicago-milwaukee-will-share-convention-police-pritzker-says](https://www.bloomberg.com/news/articles/2024-05-06/chicago-milwaukee-will-share-convention-police-pritzker-says)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
@@ -69,6 +76,13 @@ US Senator Elizabeth Warren urged the Department of Defense to rein in the use o
  - date published: 2024-05-06T18:46:51+00:00
 
 Rishi Sunak said the next UK election may be closer than polls suggest now, raising the prospect of a hung Parliament where no party has overall control.
+
+## European Weightlifting Champion Killed in Front Line of Ukraine War
+ - [https://www.bloomberg.com/en/news/thp/2024-05-06/double-european-weightlifting-champion-pielieshenko-killed-in-ukraine-war](https://www.bloomberg.com/en/news/thp/2024-05-06/double-european-weightlifting-champion-pielieshenko-killed-in-ukraine-war)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2024-05-06T18:43:14+00:00
+
+KYIV, Ukraine (AP) &mdash; Two-time European weightlifting champion Oleksandr Pielieshenko died on the front line in the war in Ukraine, the Ukrainian Olympic Committee said on Monday.
 
 ## Coal Tycoon, Wine Mogul Host Trump Fundraiser in Horse Country
  - [https://www.bloomberg.com/news/articles/2024-05-06/coal-tycoon-wine-mogul-host-trump-fundraiser-in-horse-country](https://www.bloomberg.com/news/articles/2024-05-06/coal-tycoon-wine-mogul-host-trump-fundraiser-in-horse-country)

@@ -1,5 +1,26 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## IDF Launches Strikes Against Hamas Inside Rafah
+ - [https://www.dailywire.com/news/idf-launches-strikes-against-hamas-inside-rafah](https://www.dailywire.com/news/idf-launches-strikes-against-hamas-inside-rafah)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2024-05-06T20:23:25+00:00
+
+The Israel Defense Forces (IDF) conducted precision strikes against the Hamas terrorist organization inside the Gazan city of Rafah on Monday night. Israeli Prime Minister Benjamin Netanyahu&#8217;s Office said that the War Cabinet backed the operation in Rafah. &#8220;The War Cabinet unanimously decided that Israel continues the operation in Rafah to exert military pressure on ...
+
+## Biden Fans Get Roasted For Celebrating Bogus ‚ÄòCeasefire‚Äô Deal
+ - [https://www.dailywire.com/news/biden-fans-get-roasted-for-celebrating-bogus-ceasefire-deal](https://www.dailywire.com/news/biden-fans-get-roasted-for-celebrating-bogus-ceasefire-deal)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2024-05-06T19:50:41+00:00
+
+A few of President Joe Biden‚Äôs fans got roasted on Monday after cheering reports of a ceasefire deal between Israel and the terror group Hamas ‚Äî only to find out the deal was bogus. The Biden camp was quick to celebrate reports of the alleged ceasefire agreement ‚Äî but apparently no one stopped to see ...
+
+## New Poll Shows Americans Overwhelmingly Want Disney To Return to Family-Friendly Entertainment
+ - [https://www.dailywire.com/news/new-poll-shows-americans-overwhelmingly-want-disney-to-return-to-family-friendly-entertainment](https://www.dailywire.com/news/new-poll-shows-americans-overwhelmingly-want-disney-to-return-to-family-friendly-entertainment)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2024-05-06T18:20:36+00:00
+
+A new poll shows Americans overwhelmingly want Disney to return to family-friendly ‚Äúwholesome‚Äù entertainment and stop making programming about ‚Äúsexuality&#8221; and pushing its LBGTQ agenda. In a national survey by Rasmussen Reports, 1,255 American Adults were polled by telephone and online whether they agreed or disagreed with the following statement: &#8220;Disney should return to wholesome ...
+
 ## AOC Torched After Praising U.S. Hold On Israel Military Aid
  - [https://www.dailywire.com/news/aoc-torched-after-praising-u-s-hold-on-israel-military-aid](https://www.dailywire.com/news/aoc-torched-after-praising-u-s-hold-on-israel-military-aid)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml

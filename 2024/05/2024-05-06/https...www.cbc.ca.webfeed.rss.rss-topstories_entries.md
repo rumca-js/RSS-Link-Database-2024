@@ -1,5 +1,19 @@
 # Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
 
+## 15 must-see looks from the Met Gala 2024 red carpet
+ - [https://www.cbc.ca/life/style/met-gala-fashion-red-carpet-2024-1.7192217?cmp=rss](https://www.cbc.ca/life/style/met-gala-fashion-red-carpet-2024-1.7192217?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-06T21:41:57+00:00
+
+<img alt="Greta Lee wearing an architectural, sheer white gown; Zendaya wearing a blue and green one-shoulder, mermaid-hem gown; and Wisdom Kaye wearing an all-red suit and hat with a jacket that has a rose on the lapel and a long train." height="349" src="https://i.cbc.ca/1.7196126.1715047036!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/greta-lee-zendaya-and-wisdom-kaye-attend-the-2024-met-gala.jpg" title="Greta Lee, Zendaya and Wisdom Kaye attend the 2024 Met Gala celebrating this year&apos;s Costume Institute exhibition at the Metropolitan Museum of Art, titled &apos;Sleeping Beauties: Reawakening Fashion.&apos;" width="620" /><p>Zendaya, Cardi B, Lana Del Rey and more standouts from one of fashion's biggest nights, the Met Gala, an annual fundraiser for The Costume Institute at the Metropolitan Museum of Art in New York City.</p>
+
+## PWHL Toronto picks Minnesota as 1st-round playoff opponent
+ - [https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoffs-toronto-first-round-opponent-1.7195885?cmp=rss](https://www.cbc.ca/sports/hockey/pwhl/pwhl-playoffs-toronto-first-round-opponent-1.7195885?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-06T20:25:38+00:00
+
+<img alt="Two female hockey players skate on the ice." height="349" src="https://i.cbc.ca/1.7195917.1715040854!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pwhl-minnesota-vs-toronto.jpg" title="PWHL - Minnesota vs Toronto May 1, 2024 Photo by: Alex D’Addese/PWHL" width="620" /><p>The best-of-5 series between Toronto and Minnesota will begin Wednesday evening in Toronto. Montreal will play Boston in the other semi-final series, which begins Thursday evening in Laval, Que.</p>
+
 ## Met Gala 2024: What does ‘Garden of Time’ dress code mean?
  - [https://www.cbc.ca/news/met-gala-2024-what-does-garden-of-time-dress-code-mean-1.7196042?cmp=rss](https://www.cbc.ca/news/met-gala-2024-what-does-garden-of-time-dress-code-mean-1.7196042?cmp=rss)
  - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories

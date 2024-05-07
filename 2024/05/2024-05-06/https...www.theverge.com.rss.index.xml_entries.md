@@ -1,5 +1,17 @@
 # Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
+## How much would you pay for this prototype Super Famicom with a headphone jack?
+ - [https://www.theverge.com/2024/5/6/24150559/nintendo-super-famicom-prototype-snes-auction-japan](https://www.theverge.com/2024/5/6/24150559/nintendo-super-famicom-prototype-snes-auction-japan)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-06T23:33:33+00:00
+
+<figure>
+      <img alt="Front view of the Super Famicom prototype." src="https://cdn.vox-cdn.com/thumbor/QmLBQHT4-_uUis9Ma-9OrhUioLw=/0x100:1200x900/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73331437/Super_Famicom_prototype.0.jpeg" />
+        <figcaption>Image: Yahoo! Auctions (Japan)</figcaption>
+    </figure>
+
+  <p id="dWGij2">Over on the Japanese Yahoo Auctions site, someone has <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.fromjapan.co.jp%2Fjapan%2Ffr%2Fauction%2Fyahoo%2Finput%2Fhttps%253A%252F%252Fpage.auctions.yahoo.co.jp%252Fjp%252Fauction%252Fv1135225758&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F5%2F6%2F24150559%2Fnintendo-super-famicom-prototype-snes-auction-japan" rel="sponsored nofollow noopener" target="_blank">listed an apparent pre-production version of the Super Famicom</a> — the Japanese counterpart of the Super Nintendo (SNES). It’s similar to the console Nintendo eventually releas
+
 ## Google’s AI plans now include cybersecurity
  - [https://www.theverge.com/2024/5/6/24150610/google-gemini-cybersecurity-mandiant](https://www.theverge.com/2024/5/6/24150610/google-gemini-cybersecurity-mandiant)
  - RSS feed: https://www.theverge.com/rss/index.xml

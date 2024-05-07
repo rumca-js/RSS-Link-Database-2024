@@ -1,11 +1,25 @@
 # Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
 
+## B.C. man losing vision wants homes for 3,450 books
+ - [https://www.cbc.ca/news/canada/british-columbia/bc-man-losing-vision-book-collection-1.7195825?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/bc-man-losing-vision-book-collection-1.7195825?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-06T21:04:20+00:00
+
+<img alt="A man stands next to a towering shelf filled with books covering his entire hallway." height="349" src="https://i.cbc.ca/1.7195828.1715029011!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/book-collection-20240505.jpg" title="John Williams, who is losing his sight, poses for a photograph with his collection of books that he has decided to sell, in Vancouver, B.C., Wednesday, April 24, 2024." width="620" /><p>A B.C. man is trying to find a home for his more than 3,400 books as he loses his sight, and has already rehomed more than 400 by posting on social media. One Vancouver independent bookseller says he sees many similarly large collections from older people and their families, which are flooding the used book market.</p>
+
 ## King Charles won't be featured on $20 bills until 2027, Bank of Canada says
  - [https://www.cbc.ca/news/politics/king-charles-20-dollar-bill-2027-1.7195593?cmp=rss](https://www.cbc.ca/news/politics/king-charles-20-dollar-bill-2027-1.7195593?cmp=rss)
  - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
  - date published: 2024-05-06T15:15:18+00:00
 
 <img alt="A person leaving a chapel looks off to the left." height="349" src="https://i.cbc.ca/1.7179065.1713548172!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2121042025.jpg" title="Britain&apos;s King Charles III reacts as he leaves St. George&apos;s Chapel, in Windsor Castle, after attending the Easter Mattins Service, on March 31, 2024. (Photo by Hollie Adams / POOL / AFP) (Photo by HOLLIE ADAMS/POOL/AFP via Getty Images)" width="620" /><p>New $20 bills featuring the face of King Charles won't be in circulation for another few years, the Bank of Canada said Monday.</p>
+
+## Calgary dog owner whose pit bulls killed 86-year-old fined $18K, banned from owning animals
+ - [https://www.cbc.ca/news/canada/calgary/calgary-pit-bull-attack-bagaric-betty-ann-williams-fine-sentence-1.7195533?cmp=rss](https://www.cbc.ca/news/canada/calgary/calgary-pit-bull-attack-bagaric-betty-ann-williams-fine-sentence-1.7195533?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-06T14:55:07+00:00
+
+<img alt="Older woman with short blonde hair and a wool sweater. " height="349" src="https://i.cbc.ca/1.7121593.1708552774!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/betty-ann-williams.jpg" title="Betty Ann Williams, 86, was gardening in her back alley when she was attacked by at least one pit bull dog in June 2022. She died from her injuries. " width="620" /><p>A Calgary man whose three pit bulls killed an 86-year-old woman was fined $18,000 and banned from owning animals for 15 years. </p>
 
 ## In face of extreme weather, Canadians increasingly turn to crowdfunding for help
  - [https://www.cbc.ca/news/climate/canada-extreme-weather-crowdfunding-1.7194851?cmp=rss](https://www.cbc.ca/news/climate/canada-extreme-weather-crowdfunding-1.7194851?cmp=rss)

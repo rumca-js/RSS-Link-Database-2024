@@ -1,5 +1,12 @@
 # Source:CNET, URL:https://www.cnet.com/rss/news, language:en
 
+## Save Money on Your AC Bill During Heat Waves This Summer     - CNET
+ - [https://www.cnet.com/home/kitchen-and-household/save-money-on-your-ac-bill-during-heat-waves-this-summer/#ftag=CAD590a51e](https://www.cnet.com/home/kitchen-and-household/save-money-on-your-ac-bill-during-heat-waves-this-summer/#ftag=CAD590a51e)
+ - RSS feed: https://www.cnet.com/rss/news
+ - date published: 2024-05-06T23:22:00+00:00
+
+AC bills can do a number on your finances -- but staying savvy with your air conditioner can help you stay cool without breaking the bank. Here's how to prep for summer heat waves.
+
 ## The Boeing Starliner Is Finally Taking People Into Space: How to Watch the Launch Tonight     - CNET
  - [https://www.cnet.com/science/space/the-boeing-starliner-is-finally-taking-people-into-space-how-to-watch-the-launch-tonight/#ftag=CAD590a51e](https://www.cnet.com/science/space/the-boeing-starliner-is-finally-taking-people-into-space-how-to-watch-the-launch-tonight/#ftag=CAD590a51e)
  - RSS feed: https://www.cnet.com/rss/news

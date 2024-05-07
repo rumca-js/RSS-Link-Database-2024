@@ -1,5 +1,13 @@
 # Source:Daily sceptic, URL:https://dailysceptic.org/feed, language:en-US
 
+## News Round-Up
+ - [https://dailysceptic.org/2024/05/07/news-round-up-1151](https://dailysceptic.org/2024/05/07/news-round-up-1151)
+ - RSS feed: https://dailysceptic.org/feed
+ - date published: 2024-05-06T23:53:21+00:00
+
+<p>A summary of the most interesting stories in the past 24 hours that challenge the prevailing orthodoxy about the ‘climate emergency’, public health ‘crises’ and the supposed moral defects of Western civilisation.</p>
+<p>The post <a href="https://dailysceptic.org/2024/05/07/news-round-up-1151/">News Round-Up</a> appeared first on <a href="https://dailysceptic.org">The Daily Sceptic</a>.</p>
+
 ## “I’m Not Playing a Man in a Women’s Event”: Female Darts Star Forfeits Tournament as She Refuses to Face Transgender Player
  - [https://dailysceptic.org/2024/05/06/im-not-playing-a-man-in-a-womens-event-female-darts-star-forfeits-tournament-as-she-refuses-to-face-transgender-player](https://dailysceptic.org/2024/05/06/im-not-playing-a-man-in-a-womens-event-female-darts-star-forfeits-tournament-as-she-refuses-to-face-transgender-player)
  - RSS feed: https://dailysceptic.org/feed

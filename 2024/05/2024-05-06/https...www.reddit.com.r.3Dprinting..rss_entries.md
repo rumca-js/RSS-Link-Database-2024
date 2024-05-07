@@ -1,5 +1,12 @@
 # Source:3D Printing, URL:https://www.reddit.com/r/3Dprinting/.rss, language:en
 
+## Best way to stop this print from getting knocked over
+ - [https://www.reddit.com/r/3Dprinting/comments/1clwtyq/best_way_to_stop_this_print_from_getting_knocked](https://www.reddit.com/r/3Dprinting/comments/1clwtyq/best_way_to_stop_this_print_from_getting_knocked)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-05-06T23:01:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1clwtyq/best_way_to_stop_this_print_from_getting_knocked/"> <img alt="Best way to stop this print from getting knocked over" src="https://external-preview.redd.it/ZzE4emxheXh6dnljMavx-6WAfvJhmEuiM23sk4g5ykzAhtR1_JILVQMVV6rq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=df3d9593b416e6a2ea6364fe145d44b39c795749" title="Best way to stop this print from getting knocked over" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Trying to print multiple of these wands but they keep getting knocked over by the print head. Not sure how to stop this</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dr_foofoo"> /u/dr_foofoo </a> <br /> <span><a href="https://v.redd.it/bjvp123yzvyc1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1clwtyq/best_way_to_stop_this_print_from_getting_knocked/">[comments]</a></span> </td></tr></table>
+
 ## Finally posting the files to my rotating spice carousel. Only took three years!
  - [https://www.reddit.com/r/3Dprinting/comments/1clvp8c/finally_posting_the_files_to_my_rotating_spice](https://www.reddit.com/r/3Dprinting/comments/1clvp8c/finally_posting_the_files_to_my_rotating_spice)
  - RSS feed: https://www.reddit.com/r/3Dprinting/.rss

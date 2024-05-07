@@ -42,6 +42,13 @@
 
 <img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/GPpktkuTURBXy81NzIxNmE1Yi1hNzE0LTRiZmEtOGExMS03MTVkODBhOWUwNTUuanBlZ5GTBc0BHcyg" />Przywódcy Hamasu zaakceptowali warunki zawieszenia broni z Izraelem. O decyzji szefa palestyńskiej organizacji Ismaila Hanije, Hamas poinformował w wydanym w poniedziałek komunikacie. W roli mediatorów wystąpiły Egipt i Katar.
 
+## Co dalej ze stopami procentowymi? W czwartek RPP ogłosi swoją decyzję
+ - [https://forsal.pl/gospodarka/stopy-procentowe/artykuly/9501824,co-dalej-ze-stopami-procentowymi-w-czwartek-rpp-oglosi-swoja-decyzje.html](https://forsal.pl/gospodarka/stopy-procentowe/artykuly/9501824,co-dalej-ze-stopami-procentowymi-w-czwartek-rpp-oglosi-swoja-decyzje.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2024-05-06T18:55:47+00:00
+
+<img align="right" hspace="5" src="https://ocdn.eu/pulscms-transforms/1/_vKktkuTURBXy8yNGIwNDdiMS1kMjJhLTRhMmEtYjViNi1kNDc3MTJlMzg3OTcuanBlZ5GTBc0BHcyg" />undefined
+
 ## Co dalej ze stopami procentowymi? W czwartek RPP podejmie ogłosi swoją decyzję
  - [https://forsal.pl/gospodarka/stopy-procentowe/artykuly/9501824,co-dalej-ze-stopami-procentowymi-w-czwartek-rpp-podejmie-oglosi-swoja.html](https://forsal.pl/gospodarka/stopy-procentowe/artykuly/9501824,co-dalej-ze-stopami-procentowymi-w-czwartek-rpp-podejmie-oglosi-swoja.html)
  - RSS feed: https://forsal.pl/.feed

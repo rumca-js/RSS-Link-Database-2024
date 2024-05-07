@@ -1,5 +1,12 @@
 # Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
+## Ponad 600 tys. osób aresztowano w gigantycznej policyjnej operacji
+ - [https://www.bankier.pl/wiadomosc/Ponad-600-tys-osob-aresztowano-w-gigantycznej-policyjnej-operacji-8741014.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ponad-600-tys-osob-aresztowano-w-gigantycznej-policyjnej-operacji-8741014.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2024-05-06T21:21:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/0/2/aea07e13da9acb-948-568-50-40-3950-2369.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Policja południowoafrykańska aresztowała w ciągu 12 miesięcy ponad 600 tys. osób w ramach ogólnokrajowej "Operacji Shanela", poinformował w poniedziałek jej szef Bheki Cele podczas konferencji prasowej.</p>
+
 ## Kontynuacja wzrostów na Wall Street. Nasdaq w górę trzeci raz z rzędu
  - [https://www.bankier.pl/wiadomosc/Kontynuacja-wzrostow-na-Wall-Street-8741010.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kontynuacja-wzrostow-na-Wall-Street-8741010.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -7,6 +14,20 @@
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/8/01b1d876fddc5c-948-568-0-152-2772-1663.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Nasdaq trzecią sesję z rzędu zyskał ponad 1%, a
 ton zwyżki nadawały wielkie spółki technologiczne.</p>
+
+## Bombardowanie Rafah. Izrael chce "wywrzeć presję na Hamas, by szybciej uwalniano zakładników"
+ - [https://www.bankier.pl/wiadomosc/Bombardowanie-Rafah-Izrael-chce-wywrzec-presje-na-Hamas-by-szybciej-uwalniano-zakladnikow-8741011.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Bombardowanie-Rafah-Izrael-chce-wywrzec-presje-na-Hamas-by-szybciej-uwalniano-zakladnikow-8741011.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2024-05-06T21:03:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/9/8/926b9b37c555c8-948-568-30-340-3970-2381.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Izraelski gabinet wojenny jednogłośnie zatwierdził kontynuowanie operacji w Rafah na południu Strefy Gazy, by "wywrzeć presję na Hamas, której celem jest poczynienie postępów w uwalnianiu zakładników i realizacja innych celów wojennych" - poinformowało w poniedziałek biuro premiera Benjamina Netanjahu. Media donoszą o trwającym bombardowaniu Rafah.</p>
+
+## Obajtek zaprzecza doniesieniom, że ukrywa się za granicą. Opublikował nagranie
+ - [https://www.bankier.pl/wiadomosc/Obajtek-zaprzecza-doniesieniom-ze-ukrywa-sie-za-granica-Opublikowal-nagranie-8741008.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Obajtek-zaprzecza-doniesieniom-ze-ukrywa-sie-za-granica-Opublikowal-nagranie-8741008.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2024-05-06T20:58:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/0/6/177e5e467cbb2b-948-568-0-50-4000-2400.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Były prezes Orlenu i „jedynka” podkarpackiej listy PiS do europarlamentu opublikował w serwisie X krótkie nagranie, w którym przekonywał, że jest w Polsce.</p>
 
 ## Macron podarował Xi koniak, sugerując, by Chiny nie zamykały rynku dla tego trunku
  - [https://www.bankier.pl/wiadomosc/Macron-podarowal-Xi-koniak-sugerujac-by-Chiny-nie-zamykaly-rynku-dla-tego-trunku-8740972.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Macron-podarowal-Xi-koniak-sugerujac-by-Chiny-nie-zamykaly-rynku-dla-tego-trunku-8740972.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

@@ -1,5 +1,19 @@
 # Source:Epoch Times - World, URL:https://feed.theepochtimes.com/world/feed, language:en-US
 
+## Ontario MPP Jama Removed From Legislature Again Over Keffiyeh Scarf Ban
+ - [https://www.theepochtimes.com/world/ontario-mpp-jama-removed-from-legislature-again-over-keffiyeh-scarf-ban-5644847](https://www.theepochtimes.com/world/ontario-mpp-jama-removed-from-legislature-again-over-keffiyeh-scarf-ban-5644847)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-05-06T23:47:00+00:00
+
+Sarah Jama, 23, a disability justice advocate who has cerebral palsy, poses for a portrait at her home in Hamilton, Ont., on Tuesday, March 13, 2018. Jama is happy that the new Stats Canada statistics on violence against women with disabilities due to come out later this week will give them something concrete to work with. "The numbers will validate what we have been talking about for years," she says. THE CANADIAN PRESS/Peter Power
+
+## Anti-Money Laundering and Counter-Terrorism Gets $166 Million in Funding
+ - [https://www.theepochtimes.com/world/anti-money-laundering-and-counter-terrorism-gets-166-4-million-in-funding-5644347](https://www.theepochtimes.com/world/anti-money-laundering-and-counter-terrorism-gets-166-4-million-in-funding-5644347)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-05-06T23:28:01+00:00
+
+Australian’s four major banks face the highest risk from  money laundering and terrorism financing (ML/FC), according to AUSTRAC’s  latest banking sector risk assessments. (Reuters/Staff)
+
 ## When Hamas Invaded, He Ran Toward the Gunfire
  - [https://www.theepochtimes.com/article/when-hamas-invaded-he-ran-toward-the-gunfire-5641351](https://www.theepochtimes.com/article/when-hamas-invaded-he-ran-toward-the-gunfire-5641351)
  - RSS feed: https://feed.theepochtimes.com/world/feed

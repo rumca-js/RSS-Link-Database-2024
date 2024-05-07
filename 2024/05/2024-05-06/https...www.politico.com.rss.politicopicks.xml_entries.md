@@ -28,6 +28,34 @@ Her government faces increasing criticism for attacks on press freedom.
 
 
 
+## Australia accuses China of unsafe behavior involving fighter jet
+ - [https://www.politico.com/news/2024/05/07/australia-accuses-china-of-unsafe-behavior-involving-fighter-jet-00156442](https://www.politico.com/news/2024/05/07/australia-accuses-china-of-unsafe-behavior-involving-fighter-jet-00156442)
+ - RSS feed: https://www.politico.com/rss/politicopicks.xml
+ - date published: 2024-05-06T23:05:13+00:00
+
+The jet endangered an Australian navy helicopter with flares over international waters.
+
+## Joe Biden leans, once more, on the tent pole address
+ - [https://www.politico.com/news/2024/05/06/joe-biden-speech-tentpole-address-00156414](https://www.politico.com/news/2024/05/06/joe-biden-speech-tentpole-address-00156414)
+ - RSS feed: https://www.politico.com/rss/politicopicks.xml
+ - date published: 2024-05-06T19:53:52+00:00
+
+The president has used a specific rhetorical device to tackle thorny issues. Not everyone on his team is sure it’s the most effective approach.
+
+## Forget the sex. Check out those titillating invoices at the Trump hush money trial.
+ - [https://www.politico.com/news/2024/05/06/trump-hush-money-trial-paper-trail-checks-00156408](https://www.politico.com/news/2024/05/06/trump-hush-money-trial-paper-trail-checks-00156408)
+ - RSS feed: https://www.politico.com/rss/politicopicks.xml
+ - date published: 2024-05-06T19:49:35+00:00
+
+Monday's proceedings had few sordid details. Prosecutors think they have some bombshell bank records instead.
+
+## Trump disparages Jon Tester’s weight during fundraiser, saying he ‘looks pregnant’
+ - [https://www.politico.com/news/2024/05/06/trump-mocks-jon-tester-looks-pregnant-00156401](https://www.politico.com/news/2024/05/06/trump-mocks-jon-tester-looks-pregnant-00156401)
+ - RSS feed: https://www.politico.com/rss/politicopicks.xml
+ - date published: 2024-05-06T19:38:21+00:00
+
+He also said he may campaign against the Montana Democrat, who is up for reelection.
+
 ## Trump on going to jail over gag order: 'I'll do that sacrifice'
  - [https://www.politico.com/news/2024/05/06/trump-jail-time-gag-order-hush-money-trial-00156388](https://www.politico.com/news/2024/05/06/trump-jail-time-gag-order-hush-money-trial-00156388)
  - RSS feed: https://www.politico.com/rss/politicopicks.xml
@@ -69,6 +97,13 @@ The soldier, a staff sergeant, is stationed in South Korea and was arrested on T
  - date published: 2024-05-06T12:19:59+00:00
 
 It would have violated the first rule of campaign memoirs: Do no harm.
+
+## Columbia cancels commencement after weeks of turmoil
+ - [https://www.politico.com/news/2024/05/06/columbia-commencement-canceled-protests-00156234](https://www.politico.com/news/2024/05/06/columbia-commencement-canceled-protests-00156234)
+ - RSS feed: https://www.politico.com/rss/politicopicks.xml
+ - date published: 2024-05-06T08:55:16+00:00
+
+Protesters used commencement as leverage to reach a deal; school President Minouche Shafik doubled down.
 
 ## Biden administration rolls out international cybersecurity plan
  - [https://www.politico.com/news/2024/05/06/biden-international-cybersecurity-plan-00156190](https://www.politico.com/news/2024/05/06/biden-international-cybersecurity-plan-00156190)

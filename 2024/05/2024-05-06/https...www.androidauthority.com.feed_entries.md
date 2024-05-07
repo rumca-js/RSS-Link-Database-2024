@@ -1,5 +1,12 @@
 # Source:Android Authority, URL:https://www.androidauthority.com/feed, language:en-US
 
+## Google gives you more control with updated 2FA setup process
+ - [https://www.androidauthority.com/google-2fa-update-3440298](https://www.androidauthority.com/google-2fa-update-3440298)
+ - RSS feed: https://www.androidauthority.com/feed
+ - date published: 2024-05-06T23:45:49+00:00
+
+SMS verification is no longer necessary for Google's two-step verification process.
+
 ## PlayStation 5 Pro GPU details surface, promising major performance leap
  - [https://www.androidauthority.com/ps5-pro-gpu-leak-3440274](https://www.androidauthority.com/ps5-pro-gpu-leak-3440274)
  - RSS feed: https://www.androidauthority.com/feed

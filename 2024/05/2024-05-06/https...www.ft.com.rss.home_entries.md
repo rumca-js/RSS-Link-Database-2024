@@ -7,6 +7,13 @@
 
 
 
+## SoftBank leads $1bn funding for British AI group Wayve
+ - [https://www.ft.com/content/a5704e29-545c-45e6-b7e3-d0a8cda285c4](https://www.ft.com/content/a5704e29-545c-45e6-b7e3-d0a8cda285c4)
+ - RSS feed: https://www.ft.com/rss/home
+ - date published: 2024-05-06T23:01:34+00:00
+
+Investment in start-up that makes self-driving software represents Europe’s largest AI funding deal to date
+
 ## Boeing subject to new FAA probe over 787 Dreamliner inspections
  - [https://www.ft.com/content/1c3a0d4b-46ce-42a5-be1a-f7d588b5acce](https://www.ft.com/content/1c3a0d4b-46ce-42a5-be1a-f7d588b5acce)
  - RSS feed: https://www.ft.com/rss/home

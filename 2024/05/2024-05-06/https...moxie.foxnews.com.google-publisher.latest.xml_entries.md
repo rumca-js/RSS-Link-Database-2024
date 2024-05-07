@@ -1,5 +1,12 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## Minnesota woman accused of killing 2 children, setting house on fire
+ - [https://www.foxnews.com/us/minnesota-woman-accused-killing-2-children-setting-house-fire](https://www.foxnews.com/us/minnesota-woman-accused-killing-2-children-setting-house-fire)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2024-05-06T23:59:29+00:00
+
+Jennifer Marie Stately, 35, has been charged with killing two children — reportedly her own — fleeing with a third, and setting a house on fire.
+
 ## Small plane crashes in central Virginia, killing 2
  - [https://www.foxnews.com/us/small-plane-crashes-central-virginia-killing-2](https://www.foxnews.com/us/small-plane-crashes-central-virginia-killing-2)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml

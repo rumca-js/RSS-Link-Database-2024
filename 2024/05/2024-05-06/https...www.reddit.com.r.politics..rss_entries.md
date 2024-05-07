@@ -1,5 +1,19 @@
 # Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
 
+## Jurors in Trump Trial Hear Witness Tie the President to the Payment
+ - [https://www.reddit.com/r/politics/comments/1clx10g/jurors_in_trump_trial_hear_witness_tie_the](https://www.reddit.com/r/politics/comments/1clx10g/jurors_in_trump_trial_hear_witness_tie_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-06T23:10:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1clx10g/jurors_in_trump_trial_hear_witness_tie_the/"> <img alt="Jurors in Trump Trial Hear Witness Tie the President to the Payment" src="https://external-preview.redd.it/UNlbHz2x7ScL2On30rkraXbH1CsVMBvapuAK7aRtlow.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a5f712beae29561e1d08af4b80b3798b721f873" title="Jurors in Trump Trial Hear Witness Tie the President to the Payment" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RichKatz"> /u/RichKatz </a> <br /> <span><a href="https://www.nytimes.com/2024/05/06/nyregion/trump-trial-gag-order-hush-money.html?unlocked_article_code=1.p00.HFde.2eLLh8aa0cPQ&amp;smid=url-share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1clx10g/jurors_in_trump_trial_hear_witness_tie_the/">[comments]</a></span> </td></tr></table>
+
+## ProPublica series on Supreme Court gifts wins Pulitzer Prize
+ - [https://www.reddit.com/r/politics/comments/1clw77f/propublica_series_on_supreme_court_gifts_wins](https://www.reddit.com/r/politics/comments/1clw77f/propublica_series_on_supreme_court_gifts_wins)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-06T22:32:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TurretLauncher"> /u/TurretLauncher </a> <br /> <span><a href="https://www.politico.com/news/2024/05/06/propublica-wins-pulitzer-in-public-service-00156376">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1clw77f/propublica_series_on_supreme_court_gifts_wins/">[comments]</a></span>
+
 ## Trump says he’d be willing to go to jail over gag order violations
  - [https://www.reddit.com/r/politics/comments/1clv8by/trump_says_hed_be_willing_to_go_to_jail_over_gag](https://www.reddit.com/r/politics/comments/1clv8by/trump_says_hed_be_willing_to_go_to_jail_over_gag)
  - RSS feed: https://www.reddit.com/r/politics/.rss
@@ -13,6 +27,20 @@
  - date published: 2024-05-06T21:39:26+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cluxvx/former_republican_official_finds_a_spine_endorses/"> <img alt="Former Republican Official Finds a Spine, Endorses Joe Biden" src="https://external-preview.redd.it/Wco2QueKPXTElt16O55m1R0ctkMMZpERxMosvLWlI4g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cba6004c533c98d9ffdf4c17b142b92bd59831b4" title="Former Republican Official Finds a Spine, Endorses Joe Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/croato87"> /u/croato87 </a> <br /> <span><a href="https://newrepublic.com/post/181337/republican-trump-election-endorse-biden">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cluxvx/former_republican_official_finds_a_spine_endorses/">[comments]</a></span> </td></tr></table>
+
+## Ex-tabloid publisher David Pecker 'swatted' on day of Trump trial testimony
+ - [https://www.reddit.com/r/politics/comments/1clubuc/extabloid_publisher_david_pecker_swatted_on_day](https://www.reddit.com/r/politics/comments/1clubuc/extabloid_publisher_david_pecker_swatted_on_day)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-06T21:13:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1clubuc/extabloid_publisher_david_pecker_swatted_on_day/"> <img alt="Ex-tabloid publisher David Pecker 'swatted' on day of Trump trial testimony" src="https://external-preview.redd.it/uO0oKsff42Jxw4d0uQ9isnkOQYDyksnu2MGHABjql3I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3951e1bc747a3f5558c8065ed4f07924210da968" title="Ex-tabloid publisher David Pecker 'swatted' on day of Trump trial testimony" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maxapolyorgies"> /u/maxapolyorgies </a> <br /> <span><a href="https://www.reuters.com/world/us/ex-tabloid-publisher-david-pecker-witness-trump-trial-swatting-target-2024-05-06/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1clubuc/extabloid_publisher_david_pecker_swatted_on_day/">[comments]</a></span> </td></tr></table>
+
+## Trump Says Abortion 'Not That Big Of An Issue,' GOP Is 'Party Of Fertilization'
+ - [https://www.reddit.com/r/politics/comments/1clu7pk/trump_says_abortion_not_that_big_of_an_issue_gop](https://www.reddit.com/r/politics/comments/1clu7pk/trump_says_abortion_not_that_big_of_an_issue_gop)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-06T21:09:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1clu7pk/trump_says_abortion_not_that_big_of_an_issue_gop/"> <img alt="Trump Says Abortion 'Not That Big Of An Issue,' GOP Is 'Party Of Fertilization'" src="https://external-preview.redd.it/HcS84CaZDQf1EY9GGzeXmB_5GfIDSZK_srGXvZuOx-0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a52d5aadf45bf97760890b067d156be96de7a6cb" title="Trump Says Abortion 'Not That Big Of An Issue,' GOP Is 'Party Of Fertilization'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/trifecta"> /u/trifecta </a> <br /> <span><a href="https://www.huffpost.com/entry/trump-abortion-fertilization_n_66390772e4b001bbb5106897">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1clu7pk/trump_says_abortion_not_that_big_of_an_issue_gop/">[comments]</a></span> </td></tr></table>
 
 ## Trump signed off on Michael Cohen's invoices after they were sent to White House, accountant says
  - [https://www.reddit.com/r/politics/comments/1clsywo/trump_signed_off_on_michael_cohens_invoices_after](https://www.reddit.com/r/politics/comments/1clsywo/trump_signed_off_on_michael_cohens_invoices_after)

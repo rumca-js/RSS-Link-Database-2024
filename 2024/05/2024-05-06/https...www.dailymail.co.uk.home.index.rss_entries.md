@@ -1,5 +1,47 @@
 # Source:Daily Mail - Home, URL:https://www.dailymail.co.uk/home/index.rss, language:en-gb
 
+## Scientists discover genetic trait that almost GUARANTEES a person will get Alzheimer's and almost 2% of people - including actor Chris Hemsworth -have it
+ - [https://www.dailymail.co.uk/health/article-13386963/Scientists-gene-Alzheimers-disease-copy-apoe-chris-hemsworth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-13386963/Scientists-gene-Alzheimers-disease-copy-apoe-chris-hemsworth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T23:59:23+00:00
+
+Researchers have discovered almost all individuals with two copies of the gene APOE4 - including Chris Hemsworth - go on to develop signs of the condition.
+
+## Feared bloodbath on The Archers eclipsed by shocking twist as radio fans are stunned by surprise ending where character 'went from village hero to evil monster'
+ - [https://www.dailymail.co.uk/news/article-13389229/bloodbath-archers-bbc-village-monster-hero.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-13389229/bloodbath-archers-bbc-village-monster-hero.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T23:35:26+00:00
+
+Fans of the Radio 4 show had been fearing up to four beloved characters could have ended up dead after a driving disaster that saw two vehicles plunge off a bridge into the river.
+
+## Mother throws her disabled six-year-old son into a crocodile-infested river where he is 'mauled to death' by reptiles after father ordered her to 'throw the child away' in India
+ - [https://www.dailymail.co.uk/news/article-13388049/mother-throws-disabled-son-crocodile-river-mauled-death-India.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-13388049/mother-throws-disabled-son-crocodile-river-mauled-death-India.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T23:31:53+00:00
+
+Savitri Kumar, 26, from a district in the western Indian state of Karnataka, had a heated argument with the boy's father, Ravi Kumar, 27, who repeatedly ordered her to 'throw the child away'.
+
+## Scientists discover remains of a 'buried planet' deep inside EARTH
+ - [https://www.dailymail.co.uk/sciencetech/article-13388295/scientists-discover-buried-planet-earth-theia-moon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13388295/scientists-discover-buried-planet-earth-theia-moon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T23:27:39+00:00
+
+Fragments of Planet Theia appear to be buried deep beneath Africa and the Pacific Ocean. And now more evidence has been found deep in the moon via NASA's GRAIL craft
+
+## Tom Selleck says he could lose 63-acre California ranch if Blue Bloods is not renewed by CBS: 'Hopefully I keep working enough to hold onto the place'
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13389027/Tom-Selleck-lose-California-ranch-Blue-Bloods-not-renewed-CBS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13389027/Tom-Selleck-lose-California-ranch-Blue-Bloods-not-renewed-CBS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T23:16:28+00:00
+
+The veteran actor, 79,  said he's in jeopardy of not being able to keep up with his bills if the network does not continue on with the series, in which he plays Frank Reagan.
+
+## House prices will rise £61,500 on average in the next five years, predicts Savills
+ - [https://www.dailymail.co.uk/property/article-13379285/House-prices-rise-61-500-average-five-years-predicts-Savills.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/property/article-13379285/House-prices-rise-61-500-average-five-years-predicts-Savills.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T23:14:10+00:00
+
+Savills had previously expected house prices to fall by 3% this year, but revised this to a 2.5% rise on the back of falls in the cost of mortgage debt.
+
 ## Met Gala 2024: Rita Ora goes nude in barely there tasselled bodysuit as she, Sienna Miller and Lily James lead the British stars at A-list bash
  - [https://www.dailymail.co.uk/tvshowbiz/article-13388985/Met-Gala-2024-Lily-James-turns-heads-pale-pink-gown-Gwendoline-Christie-opts-dark-red-dress-lead-British-stars-list-bash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13388985/Met-Gala-2024-Lily-James-turns-heads-pale-pink-gown-Gwendoline-Christie-opts-dark-red-dress-lead-British-stars-list-bash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/home/index.rss
@@ -7,12 +49,47 @@
 
 Actress Lily, 35, ensured all eyes were on her as she arrived to the star-studded event in a pale pink gown with a plunging neckline that highlighted her incredible figure.
 
+## Girl, 11, misdiagnosed 30 times over three years before the real, and devastating, cause of her headaches and nausea was uncovered
+ - [https://www.dailymail.co.uk/health/article-13387405/Child-misdiagnosed-sickness-bug-migraines-brain-tumour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-13387405/Child-misdiagnosed-sickness-bug-migraines-brain-tumour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T23:11:31+00:00
+
+Tia Gordon, 11, was misdiagnosed with sickness bugs and migraines was assessed by medics about 30 times before being told she had a brain tumour.
+
+## Matt Damon and wife Luciana Barroso glam it up for the 2024 Met Gala - as actor jokes it only took him 'about five minutes' to get ready for the bash
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13389049/Matt-Damon-wife-Luciana-Barroso-glam-2024-Met-Gala.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13389049/Matt-Damon-wife-Luciana-Barroso-glam-2024-Met-Gala.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T23:05:09+00:00
+
+The couple put on their red carpet best for an evening mingling with the fashion and celebrity elite. Luciana, 47, wowed in a gorgeous floor length white gown with neckpiece.
+
+## Chrissy Teigen reveals NECK BRACE after injuring herself during headstand - as star misses out on the Met Gala 2024
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13389105/Chrissy-Teigen-reveals-NECK-BRACE-injuring-headstand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13389105/Chrissy-Teigen-reveals-NECK-BRACE-injuring-headstand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T22:45:54+00:00
+
+Chrissy Teigen showed off her neck brace as she revealed she had sustained an injury during an attempted headstand on Monday.
+
+## Highs and lows at the Crucible: The World Snooker Championship was memorable for all the wrong reasons as the underwhelming play was overshadowed by events off the table
+ - [https://www.dailymail.co.uk/sport/snooker/article-13388661/Highs-lows-Crucible-World-Snooker-Championship-memorable-wrong-reasons-underwhelming-play-overshadowed-events-table.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/snooker/article-13388661/Highs-lows-Crucible-World-Snooker-Championship-memorable-wrong-reasons-underwhelming-play-overshadowed-events-table.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T22:39:26+00:00
+
+PETER CARLINE: Events instead were overshadowed by talk of a breakaway tour and possibly moving the event overseas after 2027 when World Snooker Tour's deal with Sheffield expires.
+
 ## Anna Wintour, 74, exudes elegance in a white gown and colorful floral coat as she embraces The Garden of Time theme at the 2024 MET Gala in NYC
  - [https://www.dailymail.co.uk/tvshowbiz/article-13389017/Anna-Wintour-elegance-white-gown-colorful-floral-coat-Garden-Time-theme-2024-MET-Gala.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13389017/Anna-Wintour-elegance-white-gown-colorful-floral-coat-Garden-Time-theme-2024-MET-Gala.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/home/index.rss
  - date published: 2024-05-06T22:26:25+00:00
 
 Anna Wintour, 74, made a statement as she followed this year's The Garden of Time theme in an elegant ensemble at the star-studded, 2024 MET Gala in New York City on Monday.
+
+## Formula One's new British megastar Lando Norris parties into the early hours then heads to play golf at Augusta after Miami Grand Prix triumph
+ - [https://www.dailymail.co.uk/sport/formulaone/article-13388657/Formula-Ones-new-British-megastar-Lando-Norris-parties-early-hours-heads-play-golf-Augusta-Miami-Grand-Prix-triumph.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/formulaone/article-13388657/Formula-Ones-new-British-megastar-Lando-Norris-parties-early-hours-heads-play-golf-Augusta-Miami-Grand-Prix-triumph.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T22:26:07+00:00
+
+JONATHAN MCEVOY: Lando Norris was gathering his golf clubs as well as his senses on Monday morning after the biggest afternoon of his life, en route to Augusta National.
 
 ## ALEX BRUMMER: How grotesque of pro-Palestine protesters to besmirch Auschwitz, the place where my grandparents died
  - [https://www.dailymail.co.uk/debate/article-13388937/ALEX-BRUMMER-grotesque-pro-Palestine-protesters-besmirch-Auschwitz-place-grandparents-died.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-13388937/ALEX-BRUMMER-grotesque-pro-Palestine-protesters-besmirch-Auschwitz-place-grandparents-died.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -111,6 +188,20 @@ More than 630,000 people in the UK have epilepsy and, as a result of sudden burs
  - date published: 2024-05-06T21:42:52+00:00
 
 The football legend, 49, attended an Emmys For Your Consideration event for his documentary, Beckham, on Sunday night at the TUDUM Theater in Hollywood.
+
+## CRAIG BROWN: Boiled eggs all round for Alan Bennett's 90th
+ - [https://www.dailymail.co.uk/debate/article-13388687/CRAIG-BROWN-Boiled-eggs-round-Alan-Bennetts-90th.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-13388687/CRAIG-BROWN-Boiled-eggs-round-Alan-Bennetts-90th.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T21:09:39+00:00
+
+On Thursday, it is Alan Bennett's 90th birthday. This should rightly be a cause for national celebration, though it's unlikely he would want us to make a song and dance of it.
+
+## Ben Affleck did NOT get plastic surgery ahead of Tom Brady's Netflix roast - as insiders reveal the REAL reason behind shocking transformation that left fans stunned
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13388533/Ben-Affleck-new-look-truth-surgery-tom-brady-netflix.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13388533/Ben-Affleck-new-look-truth-surgery-tom-brady-netflix.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-06T21:03:48+00:00
+
+The actor, 51, made a surprise appearance on the telecast, launching into a bizarre speech about NFL fans on social media - but some viewers were mesmerized by his apparent new face.
 
 ## WWE lets iconic commentator's contract expire after 30 years on the microphone
  - [https://www.dailymail.co.uk/sport/wwe/article-13388719/wwe-iconic-commentator-contract-expire-lawler.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/wwe/article-13388719/wwe-iconic-commentator-contract-expire-lawler.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

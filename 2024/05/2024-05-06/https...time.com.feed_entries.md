@@ -1,5 +1,12 @@
 # Source:TIME, URL:https://time.com/feed, language:en-UK
 
+## The Most Memorable Debuts at the 2024 Met Gala
+ - [https://time.com/6975293/met-gala-2024-debuts](https://time.com/6975293/met-gala-2024-debuts)
+ - RSS feed: https://time.com/feed
+ - date published: 2024-05-06T23:39:16+00:00
+
+Here are the most notable individuals making their debuts at the 2024 Met Gala, from Tyla to Ayo Edibiri.
+
 ## The Best and Most Outrageous Fashion Moments of the 2024 Met Gala
  - [https://time.com/6970055/met-gala-red-carpet-2024](https://time.com/6970055/met-gala-red-carpet-2024)
  - RSS feed: https://time.com/feed

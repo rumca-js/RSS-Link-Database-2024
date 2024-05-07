@@ -1,11 +1,39 @@
 # Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
 
+## Hours before taking NEET, teen jumps off flyover, dies
+ - [https://timesofindia.indiatimes.com/city/nagpur/teen-jumps-off-flyover-hours-before-neet-exam-dies/articleshow/109899028.cms](https://timesofindia.indiatimes.com/city/nagpur/teen-jumps-off-flyover-hours-before-neet-exam-dies/articleshow/109899028.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T23:50:48+00:00
+
+Nilima Shahu, 19, died after jumping from Butibori flyover before NEET-UG, amid suspected exam stress. Her body was found with head injuries, marking her second NEET-UG attempt. No suicide note was discovered.
+
+## Uttarakhand forest fire: Smoke triggers health concerns
+ - [https://timesofindia.indiatimes.com/city/dehradun/blanket-of-smoke-triggers-breathing-skin-and-mental-health-issues/articleshow/109898727.cms](https://timesofindia.indiatimes.com/city/dehradun/blanket-of-smoke-triggers-breathing-skin-and-mental-health-issues/articleshow/109898727.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T23:30:38+00:00
+
+1,144 hectares of forest land in Uttarakhand scorched by wildfires, causing health issues among residents. Nita Pawar highlights cases referred to Delhi for breathing problems. Charan Negi and Madhavi Daruwala describe the suffocating conditions and ecological concerns.
+
+## ‘Didigiri-dadagiri’ drama as WB governor returns to Kolkata
+ - [https://timesofindia.indiatimes.com/city/kolkata/drama-unfolds-as-governor-bose-returns-to-kolkata/articleshow/109898111.cms](https://timesofindia.indiatimes.com/city/kolkata/drama-unfolds-as-governor-bose-returns-to-kolkata/articleshow/109898111.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T23:08:33+00:00
+
+Bengal governor C V Ananda Bose's return to Kolkata led to a clash with Mamata Banerjee's government over molestation charges. The situation escalated as Bose issued a gag order and faced criticism from various parties, including BJP.
+
 ## Alia Bhatt takes sari to global stage, stuns in a Sabyasachi drape
  - [https://timesofindia.indiatimes.com/life-style/fashion/celeb-style/alia-bhatt-takes-sari-to-global-stage-stuns-in-a-sabyasachi-drape-at-met-gala-2024/articleshow/109897668.cms](https://timesofindia.indiatimes.com/life-style/fashion/celeb-style/alia-bhatt-takes-sari-to-global-stage-stuns-in-a-sabyasachi-drape-at-met-gala-2024/articleshow/109897668.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-05-06T23:00:11+00:00
 
 Alia Bhatt intrigues with a sari for the Met Gala, designed by Sabyasachi. Her ensemble radiates elegance and sophistication, symbolizing cultural pride on the global fashion scene. Bollywood stars elevate sari fashion internationally, inspiring admiration and trendsetting.
+
+## HD Revanna’s help alleges sexual abusein Basavanagudi house
+ - [https://timesofindia.indiatimes.com/city/bengaluru/revannas-domestic-help-alleges-sexual-abuse-in-basavanagudi-house/articleshow/109897589.cms](https://timesofindia.indiatimes.com/city/bengaluru/revannas-domestic-help-alleges-sexual-abuse-in-basavanagudi-house/articleshow/109897589.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T22:57:16+00:00
+
+Woman accuses HD Revanna, Prajwal Revanna of harassment. SIT conducts mahazar at Basavanagudi house. Advocate claims procedural lapses. Accused Sathish Babanna in custody for interrogation.
 
 ## Inclusion of foreign workers in PF unconstitutional: High Court
  - [https://timesofindia.indiatimes.com/business/india-business/inclusion-of-foreign-workers-in-pf-unconstitutional-high-court/articleshow/109897486.cms](https://timesofindia.indiatimes.com/business/india-business/inclusion-of-foreign-workers-in-pf-unconstitutional-high-court/articleshow/109897486.cms)
@@ -14,12 +42,54 @@ Alia Bhatt intrigues with a sari for the Met Gala, designed by Sabyasachi. Her e
 
 
 
+## 250 passports sent to wrong addresses over technical glitch
+ - [https://timesofindia.indiatimes.com/city/nagpur/passport-issuance-error-due-to-technical-glitch/articleshow/109897299.cms](https://timesofindia.indiatimes.com/city/nagpur/passport-issuance-error-due-to-technical-glitch/articleshow/109897299.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T22:51:09+00:00
+
+Nagpur RPO recalls 250 passports with errors, causing chaos. Stored for hand delivery due to urgency. Travelers from various places inconvenienced. Delays attributed to technical glitches and system upgrades by TCS.
+
+## H'bad: Acute blood shortage as heat forces donors to stay indoors
+ - [https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-faces-acute-blood-shortage-due-to-heatwave-impacting-blood-donors/articleshow/109897270.cms](https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-faces-acute-blood-shortage-due-to-heatwave-impacting-blood-donors/articleshow/109897270.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T22:50:32+00:00
+
+Severe blood shortage in Hyderabad affects thalassemia patients, surgery cases due to reduced donations in summer heatwave. Aleem Baig mentions numerous overdue patients. Indian Red Cross Society struggles to meet demand.
+
+## Flatmate stabs boy to death after fight over water bottle
+ - [https://timesofindia.indiatimes.com/city/kolkata/flatmate-stabs-boy-to-death-after-fight-over-water-bottle/articleshow/109897128.cms](https://timesofindia.indiatimes.com/city/kolkata/flatmate-stabs-boy-to-death-after-fight-over-water-bottle/articleshow/109897128.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T22:47:24+00:00
+
+Nitish Rabidas was murdered in Kolkata by Akash Hari over a dispute on sleeping arrangements. The victim's death occurred during a flatmate party, and the incident was reported at KMC Sweeper Quarters.
+
+## Gujarat man booked for smoking on Indigo flight
+ - [https://timesofindia.indiatimes.com/city/bengaluru/man-caught-smoking-in-aircraft-toilet/articleshow/109896979.cms](https://timesofindia.indiatimes.com/city/bengaluru/man-caught-smoking-in-aircraft-toilet/articleshow/109896979.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T22:44:19+00:00
+
+Gujarat man, Mohammed Aslam Halaipotra, caught smoking on Dubai-Bengaluru Indigo flight, confessing to doing so due to business losses and a family emergency. He was arrested, interrogated, and later released on station bail.
+
 ## Why has a green carpet replaced the red carpet at Met Gala 2024?
  - [https://timesofindia.indiatimes.com/life-style/fashion/buzz/why-has-a-green-carpet-replaced-the-red-carpet-at-met-gala-2024/articleshow/109896727.cms](https://timesofindia.indiatimes.com/life-style/fashion/buzz/why-has-a-green-carpet-replaced-the-red-carpet-at-met-gala-2024/articleshow/109896727.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-05-06T22:43:21+00:00
 
 ​The history of the Met Gala carpet is a fascinating journey through decades of fashion, art, and creative expression. Initially, the gala's entrance was marked by a traditional red carpet, symbolising elegance and prestige. However, as the event evolved into a platform for celebrating the intersection of fashion and art, so too did the design of its carpet.
+
+## Merely downloading Osama’s photo doesn’t make one terrorist: HC
+ - [https://timesofindia.indiatimes.com/city/delhi/merely-downloading-bin-ladens-pic-doesnt-make-one-terrorist-hc/articleshow/109896767.cms](https://timesofindia.indiatimes.com/city/delhi/merely-downloading-bin-ladens-pic-doesnt-make-one-terrorist-hc/articleshow/109896767.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T22:39:52+00:00
+
+Delhi High Court granted bail to alleged IS supporter Ammar Abdul Rahiman, stating incriminating material possession doesn't prove association. NIA alleged criminal conspiracy, but court found insufficient evidence under UAPA sections.
+
+## Cong sees Udit Raj, Kanhaiya as central to plans beyond Delhi polls
+ - [https://timesofindia.indiatimes.com/city/delhi/congress-sees-udit-raj-kanhaiya-as-central-to-plans-beyond-polls/articleshow/109896389.cms](https://timesofindia.indiatimes.com/city/delhi/congress-sees-udit-raj-kanhaiya-as-central-to-plans-beyond-polls/articleshow/109896389.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T22:31:33+00:00
+
+Congress navigates Delhi politics with strategic alliances and unconventional candidate choices like Kanhaiya Kumar, Udit Raj, and Raj Babbar. These picks aim to resonate with diverse voter groups and reshape the party's image in the capital city.
 
 ## In three Lok Sabha polls as man, in fourth as woman
  - [https://timesofindia.indiatimes.com/india/in-three-lok-sabha-polls-as-man-in-fourth-as-woman/articleshow/109895836.cms](https://timesofindia.indiatimes.com/india/in-three-lok-sabha-polls-as-man-in-fourth-as-woman/articleshow/109895836.cms)
@@ -41,6 +111,13 @@ At a press conference, BJP spokesperson and Rajya Sabha MP Sudhanshu Trivedi cit
  - date published: 2024-05-06T22:01:58+00:00
 
 A group of 181 current and former vice chancellors (VCs) along with heads of regulatory authorities such as the AICTE have issued an open letter urging "appropriate action" against Congress functionary Rahul Gandhi.
+
+## Girl who lost right arm after an electric shock scores 92%
+ - [https://timesofindia.indiatimes.com/city/meerut/mumbai-girl-15-who-lost-right-arm-after-an-electric-shock-scores-92-in-icse/articleshow/109895749.cms](https://timesofindia.indiatimes.com/city/meerut/mumbai-girl-15-who-lost-right-arm-after-an-electric-shock-scores-92-in-icse/articleshow/109895749.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T21:59:49+00:00
+
+Almost two years ago, Mumbai girl Anamta Ahmed - then 13 years old - suffered a massive shock and extensive burn injuries after she touched an 11KV cable while playing with her cousins on a visit to Aligarh. Her right arm had to be amputated and the left one was left only about 20% functional. She was bedridden for over 50 days and underwent extreme trauma. Eventually, she recovered and picked up the pieces of her life.
 
 ## Malayalam version of Hamas activist's book released
  - [https://timesofindia.indiatimes.com/india/malayalam-version-of-hamas-activists-book-released/articleshow/109895744.cms](https://timesofindia.indiatimes.com/india/malayalam-version-of-hamas-activists-book-released/articleshow/109895744.cms)
@@ -233,6 +310,13 @@ Prime Minister Narendra Modi on Monday predicted Naveen Patnaik's uninterrupted 
 
 ## Bomb mistaken for 'ball' kills teen ahead of Abhishek rally
  - [https://timesofindia.indiatimes.com/india/bomb-mistaken-for-ball-kills-teen-ahead-of-abhishek-banerjee-rally/articleshow/109895154.cms](https://timesofindia.indiatimes.com/india/bomb-mistaken-for-ball-kills-teen-ahead-of-abhishek-banerjee-rally/articleshow/109895154.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T19:57:26+00:00
+
+A 13-year-old boy was killed and two of his friends critically injured in a blast at Pandua in Bengal’s Hooghly district on Monday when they mistook a crude bomb for a ball, hours before a rally of TMC’s Abhishek Banerjee in the area, reports Falguni Banerjee. While BJP and TMC initially began a blame game, each accusing the other of stocking explosives ahead of the May 20 LS election, cops clarified later the bomb was targeted at the father of one of boys and arrested his ex-wife.
+
+## Bomb mistaken for 'ball' kills teen ahead of poll rally
+ - [https://timesofindia.indiatimes.com/city/kolkata/bomb-mistaken-for-ball-kills-teen-ahead-of-abhishek-banerjee-rally/articleshow/109895154.cms](https://timesofindia.indiatimes.com/city/kolkata/bomb-mistaken-for-ball-kills-teen-ahead-of-abhishek-banerjee-rally/articleshow/109895154.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-05-06T19:57:26+00:00
 
@@ -433,6 +517,13 @@ Government raised dearness allowance to 50% in March 2024, benefiting central go
  - date published: 2024-05-06T12:43:43+00:00
 
 
+
+## This iPhone model was the highest-selling smartphone in Q1 2024
+ - [https://timesofindia.indiatimes.com/technology/mobiles-tabs/this-iphone-model-was-the-highest-selling-smartphone-in-q1-2024/articleshow/109888319.cms](https://timesofindia.indiatimes.com/technology/mobiles-tabs/this-iphone-model-was-the-highest-selling-smartphone-in-q1-2024/articleshow/109888319.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-06T12:24:06+00:00
+
+Apple and Samsung dominated Q1 2024 smartphone sales with top models like iPhone 15 Pro Max and Galaxy S24 Ultra, showcasing a trend towards premium and 5G-enabled devices.
 
 ## Wary of Kohli threat in T20 WC, Pak's Babar says, we will...
  - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/wary-of-virat-kohli-threat-at-t20-world-cup-pakistans-babar-azam-says-we-will-/articleshow/109888215.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/wary-of-virat-kohli-threat-at-t20-world-cup-pakistans-babar-azam-says-we-will-/articleshow/109888215.cms)
@@ -960,14 +1051,14 @@ In the IPL match between CSK and Punjab on Sunday, Dhoni got out first ball. How
 Shettar returned to the saffron fold in Jan this year. And now, he is pitted against Congress’s Mrinal Hebbalkar, son of women and child welfare minister Laxmi Hebbalkar. Mrinal is contesting for the first time.Shettar’s real battle, however, is against Laxmi, who has proven her mettle in politics repeatedly over the past few years. In his quest for victory, the former CM is now leveraging his extensive political experience.
 
 ## In a waveless poll so far, what is playing on mind of west UP voters?
- - [https://timesofindia.indiatimes.com/india/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms](https://timesofindia.indiatimes.com/india/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms)
+ - [https://timesofindia.indiatimes.com/city/agra/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms](https://timesofindia.indiatimes.com/city/agra/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-05-06T00:51:31+00:00
 
 From the banks of Ganga in Anupshahr to the bridge over Yamuna near Chhaprauli; the sugarcane fields of Baghpat and potato farms in Khandauli near Agra to the hing (asafoetida) shops of Hathras; the Dalit enclaves of Agra to the rural population of Gautam Budh Nagar, the rippling proModi wave that was pretty much visible in 2014 and 2019 is not that evident this time round in western Uttar Pradesh.
 
 ## In a waveless poll so far, what is playing on mind of west UP voters?
- - [https://timesofindia.indiatimes.com/city/agra/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms](https://timesofindia.indiatimes.com/city/agra/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms)
+ - [https://timesofindia.indiatimes.com/india/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms](https://timesofindia.indiatimes.com/india/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-05-06T00:51:31+00:00
 

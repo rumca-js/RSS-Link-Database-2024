@@ -1,5 +1,12 @@
 # Source:Washington Examiner, URL:https://www.washingtonexaminer.com/feed, language:en-US
 
+## Trump dismisses judge’s jail threat as New York district attorney’s office expects two more weeks of testimony
+ - [https://www.washingtonexaminer.com/news/justice/2993398/trump-dismisses-judges-jail-threat-two-weeks-testimony](https://www.washingtonexaminer.com/news/justice/2993398/trump-dismisses-judges-jail-threat-two-weeks-testimony)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-05-06T23:43:03+00:00
+
+New York prosecutors who brought the criminal hush money trial against Donald Trump said Monday that they expect to bring additional witnesses to the stand for at least two more weeks, as the former president openly chided the judge&#8217;s latest threats of jail time. Trump concluded his day in court by suggesting he is fully [&#8230;]
+
 ## Former Georgia Republican lieutenant governor backs Biden: ‘I am voting for a decent person’
  - [https://www.washingtonexaminer.com/news/2993438/former-georgia-republican-lieutenant-governor-backs-biden](https://www.washingtonexaminer.com/news/2993438/former-georgia-republican-lieutenant-governor-backs-biden)
  - RSS feed: https://www.washingtonexaminer.com/feed

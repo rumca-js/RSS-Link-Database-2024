@@ -1,5 +1,12 @@
 # Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
 
+## Indian nationals charged in murder of Canadian Sikh activist
+ - [https://www.reddit.com/r/worldnews/comments/1clu454/indian_nationals_charged_in_murder_of_canadian](https://www.reddit.com/r/worldnews/comments/1clu454/indian_nationals_charged_in_murder_of_canadian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-06T21:05:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1clu454/indian_nationals_charged_in_murder_of_canadian/"> <img alt="Indian nationals charged in murder of Canadian Sikh activist" src="https://external-preview.redd.it/QP_Cqbj8sncn_YNt2HykqWAyPc77rVBnA4DHGsu5c6c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7296d2f318f8fafb79bff9de552574a9bd72276" title="Indian nationals charged in murder of Canadian Sikh activist" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zxNemz"> /u/zxNemz </a> <br /> <span><a href="https://www.japantimes.co.jp/news/2024/05/04/asia-pacific/politics/india-canada-arrests-killing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1clu454/indian_nationals_charged_in_murder_of_canadian/">[comments]</a></span> </td></tr></table>
+
 ## Palestinians report tanks have entered East Rafah after War Cabinet gives operation go-ahead
  - [https://www.reddit.com/r/worldnews/comments/1cltmck/palestinians_report_tanks_have_entered_east_rafah](https://www.reddit.com/r/worldnews/comments/1cltmck/palestinians_report_tanks_have_entered_east_rafah)
  - RSS feed: https://www.reddit.com/r/worldnews/.rss
@@ -7,12 +14,26 @@
 
 <table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cltmck/palestinians_report_tanks_have_entered_east_rafah/"> <img alt="Palestinians report tanks have entered East Rafah after War Cabinet gives operation go-ahead" src="https://external-preview.redd.it/k1ai63jj0bLd7mN3EXFEzVpvav6SxJi1U4INtUyLdk0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cbda01d855d46198bbdd6588b93152768edd993d" title="Palestinians report tanks have entered East Rafah after War Cabinet gives operation go-ahead" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pigbrotha"> /u/pigbrotha </a> <br /> <span><a href="https://www.ynetnews.com/article/b1xb11n8za">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cltmck/palestinians_report_tanks_have_entered_east_rafah/">[comments]</a></span> </td></tr></table>
 
+## China hacked Ministry of Defence, Sky News learns
+ - [https://www.reddit.com/r/worldnews/comments/1cltku5/china_hacked_ministry_of_defence_sky_news_learns](https://www.reddit.com/r/worldnews/comments/1cltku5/china_hacked_ministry_of_defence_sky_news_learns)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-06T20:43:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cltku5/china_hacked_ministry_of_defence_sky_news_learns/"> <img alt="China hacked Ministry of Defence, Sky News learns" src="https://external-preview.redd.it/H2sIsjWUD0hp91-25fHG3Oj9wE2nso2jSlIILI5Dl9w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=13a5bbd1cb3cdee2c74fe90f1d62cb4e34c5d49f" title="China hacked Ministry of Defence, Sky News learns" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Ad-867"> /u/Ok-Ad-867 </a> <br /> <span><a href="https://news.sky.com/story/china-hacked-ministry-of-defence-sky-news-learns-13130757">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cltku5/china_hacked_ministry_of_defence_sky_news_learns/">[comments]</a></span> </td></tr></table>
+
 ## US soldier detained in Russia, White House confirms
  - [https://www.reddit.com/r/worldnews/comments/1clsyrk/us_soldier_detained_in_russia_white_house_confirms](https://www.reddit.com/r/worldnews/comments/1clsyrk/us_soldier_detained_in_russia_white_house_confirms)
  - RSS feed: https://www.reddit.com/r/worldnews/.rss
  - date published: 2024-05-06T20:17:45+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1clsyrk/us_soldier_detained_in_russia_white_house_confirms/"> <img alt="US soldier detained in Russia, White House confirms" src="https://external-preview.redd.it/4_BT4QU1O8c8thapt_i2Df7dPOe5VgpHeSC8ryN7p-Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=888d22ad8c3ccc43b491273a536a6629dcb2ae48" title="US soldier detained in Russia, White House confirms" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maki23"> /u/maki23 </a> <br /> <span><a href="https://thehill.com/policy/defense/4647078-us-soldier-detained-russia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1clsyrk/us_soldier_detained_in_russia_white_house_confirms/">[comments]</a></span> </td></tr></table>
+
+## More than 500 fall ill after eating bánh mì in Vietnam
+ - [https://www.reddit.com/r/worldnews/comments/1clsmtp/more_than_500_fall_ill_after_eating_bánh_mì_in](https://www.reddit.com/r/worldnews/comments/1clsmtp/more_than_500_fall_ill_after_eating_bánh_mì_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-06T20:04:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1clsmtp/more_than_500_fall_ill_after_eating_bánh_mì_in/"> <img alt="More than 500 fall ill after eating bánh mì in Vietnam" src="https://external-preview.redd.it/AphgrMxwqlFXyfNuAvqySvwTKp19ccmGne6sDQ1w3f0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c228f2f21ec829668da763043faf13086162ae1" title="More than 500 fall ill after eating bánh mì in Vietnam" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Internal-Grocery-244"> /u/Internal-Grocery-244 </a> <br /> <span><a href="https://www.bbc.com/news/articles/c51n0731nklo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1clsmtp/more_than_500_fall_ill_after_eating_bánh_mì_in/">[comments]</a></span> </td></tr></table>
 
 ## IDF strikes Hamas terror targets in East Rafah
  - [https://www.reddit.com/r/worldnews/comments/1clrqtw/idf_strikes_hamas_terror_targets_in_east_rafah](https://www.reddit.com/r/worldnews/comments/1clrqtw/idf_strikes_hamas_terror_targets_in_east_rafah)

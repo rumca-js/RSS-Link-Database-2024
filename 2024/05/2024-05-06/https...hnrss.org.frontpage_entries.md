@@ -1,5 +1,15 @@
 # Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
+## Proton Mail discloses user data leading to arrest in Spain
+ - [https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain](https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-05-06T23:34:58+00:00
+
+<p>Article URL: <a href="https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/">https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40280689">https://news.ycombinator.com/item?id=40280689</a></p>
+<p>Points: 144</p>
+<p># Comments: 101</p>
+
 ## Caniemail.com (like caniuse but for email content)
  - [https://www.caniemail.com](https://www.caniemail.com)
  - RSS feed: https://hnrss.org/frontpage
@@ -9,6 +19,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=40280490">https://news.ycombinator.com/item?id=40280490</a></p>
 <p>Points: 6</p>
 <p># Comments: 0</p>
+
+## How do birds flock? Research reveals previously unknown aerodynamic phenomenon
+ - [https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html](https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-05-06T22:19:22+00:00
+
+<p>Article URL: <a href="https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html">https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40280161">https://news.ycombinator.com/item?id=40280161</a></p>
+<p>Points: 29</p>
+<p># Comments: 5</p>
 
 ## More than 100 arrested in Spain in $900k WhatsApp scheme
  - [https://therecord.media/spain-arrests-whatsapp-impersonation-scams](https://therecord.media/spain-arrests-whatsapp-impersonation-scams)
@@ -120,6 +140,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=40277933">https://news.ycombinator.com/item?id=40277933</a></p>
 <p>Points: 17</p>
 <p># Comments: 7</p>
+
+## Async Channels for Swift Concurrency
+ - [https://github.com/gh123man/Async-Channels](https://github.com/gh123man/Async-Channels)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-05-06T18:17:23+00:00
+
+<p>Article URL: <a href="https://github.com/gh123man/Async-Channels">https://github.com/gh123man/Async-Channels</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40277753">https://news.ycombinator.com/item?id=40277753</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
 ## MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention [video]
  - [https://www.youtube.com/watch?v=dqoEU9Ac3ek](https://www.youtube.com/watch?v=dqoEU9Ac3ek)

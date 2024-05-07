@@ -1,5 +1,12 @@
 # Source:Sky News, URL:https://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
+## Israel claims control of key Rafah crossing after rejecting ceasefire deal
+ - [https://news.sky.com/story/israel-rejects-ceasefire-proposal-and-presses-ahead-with-targeted-strikes-on-rafah-13130835](https://news.sky.com/story/israel-rejects-ceasefire-proposal-and-presses-ahead-with-targeted-strikes-on-rafah-13130835)
+ - RSS feed: https://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2024-05-06T23:33:00+00:00
+
+The Israeli military claims it has taken control of the vital Rafah border crossing between Gaza and Egypt - hours after rejecting a ceasefire deal accepted by Hamas.
+
 ## 'I wanted her to have a future': Dad's grief as he buries daughter, 7, crushed to death on migrant boat
  - [https://news.sky.com/story/i-wanted-her-to-have-a-future-dads-grief-as-he-buries-daughter-7-crushed-to-death-on-overcrowded-migrant-boat-13130791](https://news.sky.com/story/i-wanted-her-to-have-a-future-dads-grief-as-he-buries-daughter-7-crushed-to-death-on-overcrowded-migrant-boat-13130791)
  - RSS feed: https://feeds.skynews.com/feeds/rss/world.xml
@@ -13,6 +20,13 @@ There are times when a person is so gripped with helpless despair that they are 
  - date published: 2024-05-06T19:34:00+00:00
 
 A US soldier was detained in Russia over the weekend while on a private trip, according to officials.
+
+## Putin's fifth inauguration marks more of the same for a Russia with little choice
+ - [https://news.sky.com/story/vladimir-putins-fifth-presidential-inauguration-marks-more-of-the-same-for-a-russia-with-little-choice-13130666](https://news.sky.com/story/vladimir-putins-fifth-presidential-inauguration-marks-more-of-the-same-for-a-russia-with-little-choice-13130666)
+ - RSS feed: https://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2024-05-06T15:59:00+00:00
+
+The term "inauguration" may feel slightly misleading. After all, this is not his first time.
 
 ## Russia warns UK over use of British weapons in Ukraine after Cameron comments
  - [https://news.sky.com/story/russia-summons-uk-ambassador-after-lord-cameron-says-ukraine-has-right-to-strike-inside-russia-with-uk-weapons-13130612](https://news.sky.com/story/russia-summons-uk-ambassador-after-lord-cameron-says-ukraine-has-right-to-strike-inside-russia-with-uk-weapons-13130612)

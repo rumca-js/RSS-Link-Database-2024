@@ -1,5 +1,12 @@
 # Source:DER SPIEGEL - Schlagzeilen, URL:https://www.spiegel.de/schlagzeilen/index.rss, language:de
 
+## Equal Care: Väter haben das Recht auf einen gleichen Anteil am Familienleben - Meinung
+ - [https://www.spiegel.de/familie/equal-care-vaeter-haben-das-recht-auf-einen-gleichen-anteil-am-familienleben-meinung-a-a19c231e-ad5c-4005-b8b5-e84f2c6fc51f#ref=rss](https://www.spiegel.de/familie/equal-care-vaeter-haben-das-recht-auf-einen-gleichen-anteil-am-familienleben-meinung-a-a19c231e-ad5c-4005-b8b5-e84f2c6fc51f#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-05-06T23:40:00+00:00
+
+Vater- und Muttertag fallen in diesem Jahr in dieselbe Woche. Wann, wenn nicht jetzt, sollten wir uns von alten Rollenbildern verabschieden? Und überlegen, was getan werden muss, damit Sorgearbeit männlicher wird.
+
 ## Kristi Noem: Weißes Haus verurteilt Aussagen zur Tötung von Bidens Hund als »verstörend«
  - [https://www.spiegel.de/ausland/kristi-noem-weisses-haus-verurteilt-aussagen-zur-toetung-von-bidens-hund-als-verstoerend-a-d70bbf7f-1600-4158-986d-26a4bdd62a41#ref=rss](https://www.spiegel.de/ausland/kristi-noem-weisses-haus-verurteilt-aussagen-zur-toetung-von-bidens-hund-als-verstoerend-a-d70bbf7f-1600-4158-986d-26a4bdd62a41#ref=rss)
  - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss

@@ -1,5 +1,12 @@
 # Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
+## Victor Wembanyama named NBA Rookie of the Year
+ - [https://www.lemonde.fr/en/basketball/article/2024/05/07/victor-wembanyama-named-nba-rookie-of-the-year_6670628_95.html](https://www.lemonde.fr/en/basketball/article/2024/05/07/victor-wembanyama-named-nba-rookie-of-the-year_6670628_95.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-05-06T23:40:07+00:00
+
+The San Antonio Spurs star was unanimously selected and became the first Frenchman to win the award.
+
 ## Pro-Palestinian voices silenced in Egypt
  - [https://www.lemonde.fr/en/le-monde-africa/article/2024/05/07/pro-palestinian-voices-silenced-in-egypt_6670622_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2024/05/07/pro-palestinian-voices-silenced-in-egypt_6670622_124.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml

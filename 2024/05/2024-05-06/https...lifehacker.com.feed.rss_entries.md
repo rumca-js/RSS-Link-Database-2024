@@ -1,5 +1,40 @@
 # Source:LifeHacker, URL:https://lifehacker.com/feed/rss, language:en-us
 
+## Should You Do Cardio Before or After Lifting Weights?
+ - [https://lifehacker.com/health/cardio-before-or-after-lifting-weights](https://lifehacker.com/health/cardio-before-or-after-lifting-weights)
+ - RSS feed: https://lifehacker.com/feed/rss
+ - date published: 2024-05-06T22:30:00+00:00
+
+It depends on your goals in the gym.
+
+## Older Galaxy Phones Are Getting Some One UI 6.1 Features, but Not All
+ - [https://lifehacker.com/tech/oneui-61-update-rolling-out-galaxy-s21-z-flip-3](https://lifehacker.com/tech/oneui-61-update-rolling-out-galaxy-s21-z-flip-3)
+ - RSS feed: https://lifehacker.com/feed/rss
+ - date published: 2024-05-06T22:09:00+00:00
+
+AI features will be limited on some models.
+
+## These Irwin Tools Are up to 67% Off Right Now
+ - [https://lifehacker.com/home/irwin-tools-and-supplies-sale-amazon](https://lifehacker.com/home/irwin-tools-and-supplies-sale-amazon)
+ - RSS feed: https://lifehacker.com/feed/rss
+ - date published: 2024-05-06T21:30:26+00:00
+
+Save on clamps, bits, and other supplies.
+
+## Nine Tasks You Can Handle Right From the Chrome Address Bar
+ - [https://lifehacker.com/tech/tasks-you-can-handle-right-from-chrome-address-bar](https://lifehacker.com/tech/tasks-you-can-handle-right-from-chrome-address-bar)
+ - RSS feed: https://lifehacker.com/feed/rss
+ - date published: 2024-05-06T21:00:00+00:00
+
+There's a lot more to the address bar than URLs.
+
+## This Android Malware Can Take Over Legitimate Apps
+ - [https://lifehacker.com/tech/this-android-malware-can-take-over-legitimate-apps](https://lifehacker.com/tech/this-android-malware-can-take-over-legitimate-apps)
+ - RSS feed: https://lifehacker.com/feed/rss
+ - date published: 2024-05-06T20:30:52+00:00
+
+Innocent apps have been taken over by malware.
+
 ## My Favorite Meals for When I Need to Save Money
  - [https://lifehacker.com/food-drink/my-favorite-meals-to-save-money](https://lifehacker.com/food-drink/my-favorite-meals-to-save-money)
  - RSS feed: https://lifehacker.com/feed/rss
