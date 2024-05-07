@@ -960,14 +960,14 @@ In the IPL match between CSK and Punjab on Sunday, Dhoni got out first ball. How
 Shettar returned to the saffron fold in Jan this year. And now, he is pitted against Congress’s Mrinal Hebbalkar, son of women and child welfare minister Laxmi Hebbalkar. Mrinal is contesting for the first time.Shettar’s real battle, however, is against Laxmi, who has proven her mettle in politics repeatedly over the past few years. In his quest for victory, the former CM is now leveraging his extensive political experience.
 
 ## In a waveless poll so far, what is playing on mind of west UP voters?
- - [https://timesofindia.indiatimes.com/india/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms](https://timesofindia.indiatimes.com/india/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms)
+ - [https://timesofindia.indiatimes.com/city/agra/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms](https://timesofindia.indiatimes.com/city/agra/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-05-06T00:51:31+00:00
 
 From the banks of Ganga in Anupshahr to the bridge over Yamuna near Chhaprauli; the sugarcane fields of Baghpat and potato farms in Khandauli near Agra to the hing (asafoetida) shops of Hathras; the Dalit enclaves of Agra to the rural population of Gautam Budh Nagar, the rippling proModi wave that was pretty much visible in 2014 and 2019 is not that evident this time round in western Uttar Pradesh.
 
 ## In a waveless poll so far, what is playing on mind of west UP voters?
- - [https://timesofindia.indiatimes.com/city/agra/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms](https://timesofindia.indiatimes.com/city/agra/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms)
+ - [https://timesofindia.indiatimes.com/india/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms](https://timesofindia.indiatimes.com/india/in-a-waveless-poll-so-far-what-is-playing-on-mind-of-west-up-voters/articleshow/109868241.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-05-06T00:51:31+00:00
 
