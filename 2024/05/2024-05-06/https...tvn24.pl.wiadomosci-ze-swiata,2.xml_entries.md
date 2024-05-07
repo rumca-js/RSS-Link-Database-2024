@@ -481,20 +481,20 @@
     Prawdopodobnie element granatu leżał na rozjeździe kolejowym w miejscowości Zabrzeg (Śląskie). Odnalazła go rano pracownica Polskich Kolei Państwowych. Na miejscu pracowały wszystkie służby, w tym patrol minerski. Przedmiot został przewieziony na poligon wojskowy.
 
 ## Metalowy przedmiot przy torach. Ruch pociągów wstrzymany, na miejscu patrol minerski
- - [https://tvn24.pl/katowice/zagrzeb-bielsko-biala-znalazla-na-torach-przedmiot-przypominajacy-niewybuch-na-miejscu-patrol-minerski-st7901926?source=rss](https://tvn24.pl/katowice/zagrzeb-bielsko-biala-znalazla-na-torach-przedmiot-przypominajacy-niewybuch-na-miejscu-patrol-minerski-st7901926?source=rss)
- - RSS feed: https://tvn24.pl/wiadomosci-ze-swiata,2.xml
- - date published: 2024-05-06T11:21:52+00:00
-
-<img alt="Metalowy przedmiot przy torach. Ruch pociągów wstrzymany, na miejscu patrol minerski" src="https://tvn24.pl/najnowsze/cdn-zdjecie-ps2ar7-policjanci-w-ostatniej-chwili-odciagneli-mezczyzne-od-torow-zdjecie-ilustracyjne-7887569/alternates/LANDSCAPE_1280" />
-    Metalowy przedmiot, przypominający fragment niewybuchu, zauważyła na rozjeździe kolejowym w miejscowości Zagrzeb (Śląskie) pracownica Polskich Kolei Państwowych. Na miejscu pracują wszystkie służby, w tym patrol minerski. Ruch kolejowy na nitce w kierunku Zebrzydowic jest wstrzymany.
-
-## Metalowy przedmiot przy torach. Ruch pociągów wstrzymany, na miejscu patrol minerski
  - [https://tvn24.pl/katowice/zabrzeg-bielsko-biala-znalazla-na-torach-przedmiot-przypominajacy-niewybuch-na-miejscu-patrol-minerski-st7901926?source=rss](https://tvn24.pl/katowice/zabrzeg-bielsko-biala-znalazla-na-torach-przedmiot-przypominajacy-niewybuch-na-miejscu-patrol-minerski-st7901926?source=rss)
  - RSS feed: https://tvn24.pl/wiadomosci-ze-swiata,2.xml
  - date published: 2024-05-06T11:21:52+00:00
 
 <img alt="Metalowy przedmiot przy torach. Ruch pociągów wstrzymany, na miejscu patrol minerski" src="https://tvn24.pl/najnowsze/cdn-zdjecie-ps2ar7-policjanci-w-ostatniej-chwili-odciagneli-mezczyzne-od-torow-zdjecie-ilustracyjne-7887569/alternates/LANDSCAPE_1280" />
     Metalowy przedmiot, przypominający fragment niewybuchu, zauważyła na rozjeździe kolejowym w miejscowości Zabrzeg (Śląskie) pracownica Polskich Kolei Państwowych. Na miejscu pracują wszystkie służby, w tym patrol minerski. Ruch kolejowy na nitce w kierunku Zebrzydowic jest wstrzymany.
+
+## Metalowy przedmiot przy torach. Ruch pociągów wstrzymany, na miejscu patrol minerski
+ - [https://tvn24.pl/katowice/zagrzeb-bielsko-biala-znalazla-na-torach-przedmiot-przypominajacy-niewybuch-na-miejscu-patrol-minerski-st7901926?source=rss](https://tvn24.pl/katowice/zagrzeb-bielsko-biala-znalazla-na-torach-przedmiot-przypominajacy-niewybuch-na-miejscu-patrol-minerski-st7901926?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-ze-swiata,2.xml
+ - date published: 2024-05-06T11:21:52+00:00
+
+<img alt="Metalowy przedmiot przy torach. Ruch pociągów wstrzymany, na miejscu patrol minerski" src="https://tvn24.pl/najnowsze/cdn-zdjecie-ps2ar7-policjanci-w-ostatniej-chwili-odciagneli-mezczyzne-od-torow-zdjecie-ilustracyjne-7887569/alternates/LANDSCAPE_1280" />
+    Metalowy przedmiot, przypominający fragment niewybuchu, zauważyła na rozjeździe kolejowym w miejscowości Zagrzeb (Śląskie) pracownica Polskich Kolei Państwowych. Na miejscu pracują wszystkie służby, w tym patrol minerski. Ruch kolejowy na nitce w kierunku Zebrzydowic jest wstrzymany.
 
 ## Ryszard Czarnecki jedną z "lokomotyw" PiS w eurowyborach. W tle kłopoty z rozliczaniem kilometrówek
  - [https://tvn24.pl/poznan/eurowybory-ryszard-czarnecki-jedna-z-lokomotyw-pis-w-wielkopolsce-w-tle-sprawa-kilometrowek-st7901860?source=rss](https://tvn24.pl/poznan/eurowybory-ryszard-czarnecki-jedna-z-lokomotyw-pis-w-wielkopolsce-w-tle-sprawa-kilometrowek-st7901860?source=rss)

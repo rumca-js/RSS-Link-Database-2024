@@ -5,6 +5,13 @@
 
 Alongside its main logo promoting the forthcoming iPad event, Apple's homepage is rotating through half a dozen variants.
 
+## Jennifer Lopez Arrives to the Met Gala Solo, Ben Affleck Filming in L.A.
+ - [https://www.tmz.com/2024/05/06/jennifer-lopez-arrives-solo-met-gala-ben-affleck-filming-los-angeles](https://www.tmz.com/2024/05/06/jennifer-lopez-arrives-solo-met-gala-ben-affleck-filming-los-angeles)
+ - RSS feed: 
+ - date published: 2024-05-07T00:00:00+00:00
+
+Jennifer Lopez just showed up to the Met Gala -- and while she was rolling solo ... we know it's only because Ben Affleck is hard at work on the West Coast, where he's on set.
+
 ## New Apple Pencil may be called 'Apple Pencil Pro'
  - [https://appleinsider.com/articles/24/05/06/new-apple-pencil-may-be-called-apple-pencil-pro?utm_medium=rss](https://appleinsider.com/articles/24/05/06/new-apple-pencil-may-be-called-apple-pencil-pro?utm_medium=rss)
  - RSS feed: 
@@ -103,6 +110,13 @@ ZeroHedge - On a long enough timeline, the survival rate for everyone drops to z
 
 TechCrunch is part of the Yahoo family of brands
 
+## Google TV’s ‘Magic Button’ makes its debut — but not on a Chromecast
+ - [https://www.theverge.com/2024/5/6/24150591/google-tv-magic-button-star-customizable-walmart-onn-4k-pro](https://www.theverge.com/2024/5/6/24150591/google-tv-magic-button-star-customizable-walmart-onn-4k-pro)
+ - RSS feed: 
+ - date published: 2024-05-06T23:25:22.437000+00:00
+
+The Google TV Magic Button is bestowed upon Walmart.
+
 ## Lauren Sánchez Blooms In Debut at the Met Gala 2024
  - [https://www.vanityfair.com/style/story/lauren-sanchez-debut-at-the-met-gala-2024](https://www.vanityfair.com/style/story/lauren-sanchez-debut-at-the-met-gala-2024)
  - RSS feed: 
@@ -158,6 +172,13 @@ As protests over the war in Gaza continue on campuses, colleges are grappling wi
  - date published: 2024-05-06T22:39:39.803000+00:00
 
 The only thing better than earning a spot on the Met Gala guest list is being placed on Vanity Fair’s best-dressed list.
+
+## 'You don't feel like a human,' Brittney Griner describes her life in Russian confinement
+ - [https://www.pbs.org/newshour/show/you-dont-feel-like-a-human-brittney-griner-describes-her-life-in-russian-confinement](https://www.pbs.org/newshour/show/you-dont-feel-like-a-human-brittney-griner-describes-her-life-in-russian-confinement)
+ - RSS feed: 
+ - date published: 2024-05-06T22:35:38+00:00
+
+She went from being the center of attention on professional basketball courts to the center of a global power struggle. Two years after she was first detained in Russia, Brittney Griner is sharing new details about her time held captive and the fight to free her. Amna Nawaz met up with Griner to discuss that and her new book, “Coming Home.”
 
 ## Access to this page has been denied.
  - [https://www.investors.com/market-trend/stock-market-today/dow-jones-palantir-stock-pltr-apple-aapl/?src=A00220&amp](https://www.investors.com/market-trend/stock-market-today/dow-jones-palantir-stock-pltr-apple-aapl/?src=A00220&amp)
@@ -285,6 +306,13 @@ Apple today updated Apple.com with a teaser for tomorrow's event, adding an inte
 
 Recent attacks on healthcare thrust infosec agency into alert mode
 
+## Sorry, but ‘Baby Reindeer’ Season 2 Is Highly Unlikely
+ - [https://www.esquire.com/entertainment/tv/a60703512/baby-reindeer-season-2-cast-news](https://www.esquire.com/entertainment/tv/a60703512/baby-reindeer-season-2-cast-news)
+ - RSS feed: 
+ - date published: 2024-05-06T22:02:00+00:00
+
+“It was difficult going back to these things,” says the show’s creator, Richard Gadd. “I felt like I needed to get it all out in one go.”
+
 ## The Militia Used As An FBI Front Group In 2020 Is Again Proliferating On Facebook | ZeroHedge
  - [https://www.zerohedge.com/political/militia-used-fbi-front-group-2020-again-proliferating-facebook](https://www.zerohedge.com/political/militia-used-fbi-front-group-2020-again-proliferating-facebook)
  - RSS feed: 
@@ -298,6 +326,13 @@ ZeroHedge - On a long enough timeline, the survival rate for everyone drops to z
  - date published: 2024-05-06T22:00:00.631000+00:00
 
 Meanwhile, more affluent consumers have been spending more in the last few quarters
+
+## Bad Bunny Is Already Winning the Met Gala
+ - [https://www.esquire.com/style/mens-fashion/a60704335/bad-bunny-met-gala-2024](https://www.esquire.com/style/mens-fashion/a60704335/bad-bunny-met-gala-2024)
+ - RSS feed: 
+ - date published: 2024-05-06T22:00:00+00:00
+
+In custom Maison Margiela, the singer looks every bit as Garden of Time-y as we'd expect him to.
 
 ## VC Says Half of Google Staff Do 'No Real Work' | Hacker News
  - [https://news.ycombinator.com/item?id=40278915](https://news.ycombinator.com/item?id=40278915)
@@ -341,6 +376,13 @@ Thousands of activists in Bangladesh backed by the ruling party's student wing h
 
 Chiefs quarterback Chris Oladokun reveals why he received calls from Patrick Mahomes 'every single day' during rookie minicamp
 
+## T Bone Burnett Taps Into a River of Love for His First Acoustic Album in Decades: ‘In a Way It Feels Like My First Solo Record, at All’
+ - [https://variety.com/2024/music/news/t-bone-burnett-solo-album-other-side-interview-producer-1235992637](https://variety.com/2024/music/news/t-bone-burnett-solo-album-other-side-interview-producer-1235992637)
+ - RSS feed: 
+ - date published: 2024-05-06T21:48:49+00:00
+
+T Bone Burnett talks about 'The Other Side,' his first true new solo effort in 18 years, along with production work, like a record with Ringo Starr.
+
 ## How ‘The Bear’ Could Break Multiple Emmy Records Held by ‘Game of Thrones,’ ’30 Rock’ and ‘Succession’
  - [https://variety.com/2024/tv/awards/the-bear-season-2-emmys-records-acting-1235993324](https://variety.com/2024/tv/awards/the-bear-season-2-emmys-records-acting-1235993324)
  - RSS feed: 
@@ -361,6 +403,20 @@ Elon Musk says it must get "absolutely hardcore" about cuts.
  - date published: 2024-05-06T21:44:00+00:00
 
 Fashion's biggest night is here, and these are the guys who understood the assignment.
+
+## Former Exec Believes Roster Moves Point to Who Raiders Want to Start at QB
+ - [https://heavy.com/sports/nfl/las-vegas-raiders/gardner-minshew-starting-qb-aidan-oconnell](https://heavy.com/sports/nfl/las-vegas-raiders/gardner-minshew-starting-qb-aidan-oconnell)
+ - RSS feed: 
+ - date published: 2024-05-06T21:43:13+00:00
+
+The Las Vegas Raiders may be tailoring their roster to fit the skillset of a specific quarterback on the team.
+
+## Hamas Says It Has Agreed to a Ceasefire, but What Does That Mean?
+ - [https://www.esquire.com/news-politics/politics/a60704005/gaza-ceasefire-proposal-confusion](https://www.esquire.com/news-politics/politics/a60704005/gaza-ceasefire-proposal-confusion)
+ - RSS feed: 
+ - date published: 2024-05-06T21:43:00+00:00
+
+Details of the proposal emerged in confusing dribs and drabs.
 
 ## Nathan Korth
  - [https://www.nkorth.com](https://www.nkorth.com)
@@ -389,6 +445,13 @@ Experience the thrill of a high-speed car race on Universal Studios Hollywood's 
  - date published: 2024-05-06T21:40:00.591000+00:00
 
 The company has included its users in every stage of its public debut
+
+## Maybe a three-part reunion will spice up Vanderpump Rules
+ - [https://www.avclub.com/trailer-vanderpump-rules-three-part-reunion-episodes-1851459554](https://www.avclub.com/trailer-vanderpump-rules-three-part-reunion-episodes-1851459554)
+ - RSS feed: 
+ - date published: 2024-05-06T21:38:00.554000+00:00
+
+The ho-hum post-Scandoval season promises a big finale
 
 ## Dolores Catania Questions 'Intentions' Behind Teresa Giudice-Jackie Goldschneider Friendship
  - [https://heavy.com/entertainment/real-housewives/dolores-catania-questions-teresa-giudice-jackie](https://heavy.com/entertainment/real-housewives/dolores-catania-questions-teresa-giudice-jackie)
@@ -445,6 +508,13 @@ For the first time, researchers have identified a genetic form of late-in-life A
  - date published: 2024-05-06T21:08:18+00:00
 
 Caitlin Clark's first WNBA game — albeit  preseason — is in the books, but she wants to remind everyone of her "new job" with the Indiana Fever.
+
+## Met Gala 2024 Red Carpet Photos: The Best Celebrity Looks
+ - [https://variety.com/gallery/met-gala-2024-red-carpet-looks-photos](https://variety.com/gallery/met-gala-2024-red-carpet-looks-photos)
+ - RSS feed: 
+ - date published: 2024-05-06T21:08:05+00:00
+
+The best fashion of the 2024 Met Gala.
 
 ## 'We've had a soft landing,' Apollo CEO says of the economy
  - [https://qz.com/soft-landing-economy-apollo-rowan-1851459028](https://qz.com/soft-landing-economy-apollo-rowan-1851459028)
@@ -1937,6 +2007,13 @@ Chevron CEO Mike Wirth says natural gas will play a key role in powering data ce
 
 "Every year, 1.3 billion tons of food is wasted globally"
 
+## Democrats tread carefully when using AI
+ - [https://www.fastcompany.com/91118867/democrats-candidates-elections-how-to-use-ai](https://www.fastcompany.com/91118867/democrats-candidates-elections-how-to-use-ai)
+ - RSS feed: 
+ - date published: 2024-05-06T16:30:00+00:00
+
+Campaigns in both parties for years have used AI.
+
 ## TechCrunch is part of the Yahoo family of brands
  - [https://techcrunch.com/2024/05/06/alphabet-owned-intrinsic-incorporates-nvidia-tech-into-robotics-platform](https://techcrunch.com/2024/05/06/alphabet-owned-intrinsic-incorporates-nvidia-tech-into-robotics-platform)
  - RSS feed: 
@@ -2167,6 +2244,13 @@ It's the perfect gift for moms in their birding era.
  - date published: 2024-05-06T16:00:32+00:00
 
 Do you want to explore the beaches and nightlife of Phuket, Thailand, but with a bit more solitude and “wow” factor? Look no further than Rosewood Phuket.
+
+## Robinhood's crypto business is under fire by the SEC. Here's what that means for customers
+ - [https://www.fastcompany.com/91119004/robinhood-crypto-hit-with-sec-wells-notice-what-that-means](https://www.fastcompany.com/91119004/robinhood-crypto-hit-with-sec-wells-notice-what-that-means)
+ - RSS feed: 
+ - date published: 2024-05-06T15:55:00+00:00
+
+The company was just hit with a Wells Notice, or a formal warning that the SEC intends to take civil action.
 
 ## Houston's heavy rain eases, but high waters leave lengthy cleanup ahead
  - [https://www.pbs.org/newshour/nation/houstons-heavy-rain-eases-but-high-waters-leave-lengthy-cleanup-ahead](https://www.pbs.org/newshour/nation/houstons-heavy-rain-eases-but-high-waters-leave-lengthy-cleanup-ahead)
@@ -2433,6 +2517,13 @@ The share of renters who believe that they one day will be able to afford a home
  - date published: 2024-05-06T15:00:00+00:00
 
 Produced by Brouhaha, LD Ent., Oddfellows and Range Media Partners, “Dangerous Animals” will roll on Australia Gold Coast on May 7.
+
+## Is giving Elon Musk a $56 billion compensation package—the most in history—the 'fair' thing to do?
+ - [https://www.fastcompany.com/91115863/elon-musk-compensation-tesla-shareholders-is-it-fair](https://www.fastcompany.com/91115863/elon-musk-compensation-tesla-shareholders-is-it-fair)
+ - RSS feed: 
+ - date published: 2024-05-06T15:00:00+00:00
+
+As Tesla shareholders prepare to vote on Elon Musk's compensation, the board is making a curious argument about why he deserves the package.
 
 ## Steward Health Care is seeking a bailout in one of the largest hospital bankruptcies in decades
  - [https://qz.com/steward-health-bankruptcy-1851457938](https://qz.com/steward-health-bankruptcy-1851457938)
@@ -3235,14 +3326,14 @@ Cierpliwości...
 ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
 
 ## Biden’s quiet comeback may be over
- - [https://feedpress.me/link/20202/16674418/4644645-bidens-quiet-comeback-may-be-over](https://feedpress.me/link/20202/16674418/4644645-bidens-quiet-comeback-may-be-over)
+ - [https://feedpress.me/link/20202/16674524/4644645](https://feedpress.me/link/20202/16674524/4644645)
  - RSS feed: 
  - date published: 2024-05-06T12:30:00+00:00
 
 After a brief period where it looked like Biden had finally found his groove, his numbers are once again dropping while Trump’s rise.
 
 ## Biden’s quiet comeback may be over
- - [https://feedpress.me/link/20202/16674524/4644645](https://feedpress.me/link/20202/16674524/4644645)
+ - [https://feedpress.me/link/20202/16674418/4644645-bidens-quiet-comeback-may-be-over](https://feedpress.me/link/20202/16674418/4644645-bidens-quiet-comeback-may-be-over)
  - RSS feed: 
  - date published: 2024-05-06T12:30:00+00:00
 
@@ -3578,14 +3669,14 @@ PLUS: Taiwan's subsea cables, Paytm says goodbye to its CEO, China uses WhatsApp
 An organization representing freelance festival workers is calling for a strike during the upcoming Cannes Film Festival.
 
 ## 'You won't be safe in Downing Street', warn Russia as Vlad orders NUKE test
- - [https://feedpress.me/link/20202/16674497/11291673](https://feedpress.me/link/20202/16674497/11291673)
+ - [https://feedpress.me/link/20202/16674240/putin-nuke-test-russia-western-troops-ukraine-worldwide-catastrophe](https://feedpress.me/link/20202/16674240/putin-nuke-test-russia-western-troops-ukraine-worldwide-catastrophe)
  - RSS feed: 
  - date published: 2024-05-06T10:32:03+00:00
 
 PARANOID Putin has ordered tactical nuclear weapons testing as Russia directly warns the West to back-off as fears of an all-out-war with Nato surge. Russia’s latest threat comes as the Kreml…
 
 ## 'You won't be safe in Downing Street', warn Russia as Vlad orders NUKE test
- - [https://feedpress.me/link/20202/16674240/putin-nuke-test-russia-western-troops-ukraine-worldwide-catastrophe](https://feedpress.me/link/20202/16674240/putin-nuke-test-russia-western-troops-ukraine-worldwide-catastrophe)
+ - [https://feedpress.me/link/20202/16674497/11291673](https://feedpress.me/link/20202/16674497/11291673)
  - RSS feed: 
  - date published: 2024-05-06T10:32:03+00:00
 
@@ -4356,14 +4447,14 @@ The Chicago Bears may have netted the top steal of the NFL draft inside the top 
 University of the Basque Country - UPV/EHU
 
 ## Tom Brady Tells Jeff Ross ‘Don’t Say That S—- Again’ After Massage Joke About Patriots Owner Robert Kraft at Netflix Roast
- - [https://feedpress.me/link/20202/16673747/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609](https://feedpress.me/link/20202/16673747/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609)
+ - [https://variety.com/2024/tv/news/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609](https://variety.com/2024/tv/news/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609)
  - RSS feed: 
  - date published: 2024-05-06T01:09:44+00:00
 
 Jeff Ross upset Tom Brady at Netflix Roast with Robert Kraft massage joke.
 
 ## Tom Brady Tells Jeff Ross ‘Don’t Say That S—- Again’ After Massage Joke About Patriots Owner Robert Kraft at Netflix Roast
- - [https://variety.com/2024/tv/news/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609](https://variety.com/2024/tv/news/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609)
+ - [https://feedpress.me/link/20202/16673747/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609](https://feedpress.me/link/20202/16673747/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609)
  - RSS feed: 
  - date published: 2024-05-06T01:09:44+00:00
 
@@ -4580,6 +4671,13 @@ A new battle pass, new Legend buffs and nerfs, a reimagined map, and weapon twea
  - date published: 2024-05-06T00:00:00+00:00
 
 Apple Arcade is set to receive new titles in June, including the adventure game "Return to Monkey Island+" and the retro-style platformer "Tomb of the Mask."
+
+## Apple's new Photos app to utilize generative AI for image editing
+ - [https://appleinsider.com/articles/24/05/06/apples-new-photos-app-will-utilize-generative-ai-for-image-editing?utm_medium=rss](https://appleinsider.com/articles/24/05/06/apples-new-photos-app-will-utilize-generative-ai-for-image-editing?utm_medium=rss)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+A new teaser on Apple's website could be indicative of some of the company's upcoming software plans, namely a new version of its ubiquitous Photos app that will tap generative AI to deliver Photoshop-grade editing capabilities for the average consumer, AppleInsider has learned.
 
 ## Ask HN: People that use jq extensively, I'd like to talk to you | Hacker News
  - [https://news.ycombinator.com/item?id=40273454](https://news.ycombinator.com/item?id=40273454)
@@ -5550,6 +5648,13 @@ West Ham manager David Moyes will leave his role when his contract expires at th
 Mozambique's ruling FRELIMO party has announced Daniel Chapo will be its presidential candidate in an election scheduled for October.
 
 ## MSN
+ - [https://feedpress.me/link/20202/16674542/ar-BB1lUgfj](https://feedpress.me/link/20202/16674542/ar-BB1lUgfj)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
  - [https://feedpress.me/link/20202/16674572/ar-BB1lRzw6](https://feedpress.me/link/20202/16674572/ar-BB1lRzw6)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
@@ -5557,14 +5662,14 @@ Mozambique's ruling FRELIMO party has announced Daniel Chapo will be its preside
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16674564/ar-BB1lTzPU](https://feedpress.me/link/20202/16674564/ar-BB1lTzPU)
+ - [https://feedpress.me/link/20202/16674275/ar-BB1lTAIS](https://feedpress.me/link/20202/16674275/ar-BB1lTAIS)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16674290/ar-BB1lSdxC](https://feedpress.me/link/20202/16674290/ar-BB1lSdxC)
+ - [https://feedpress.me/link/20202/16673724/ar-BB1lRzw6](https://feedpress.me/link/20202/16673724/ar-BB1lRzw6)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -5578,14 +5683,7 @@ MSN
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16673706/ar-BB1lS9cL](https://feedpress.me/link/20202/16673706/ar-BB1lS9cL)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16673724/ar-BB1lRzw6](https://feedpress.me/link/20202/16673724/ar-BB1lRzw6)
+ - [https://feedpress.me/link/20202/16674291/ar-BB1lTnjx](https://feedpress.me/link/20202/16674291/ar-BB1lTnjx)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -5606,35 +5704,7 @@ MSN
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16674542/ar-BB1lUgfj](https://feedpress.me/link/20202/16674542/ar-BB1lUgfj)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674562/ar-BB1lTAIS](https://feedpress.me/link/20202/16674562/ar-BB1lTAIS)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
  - [https://feedpress.me/link/20202/16674276/ar-BB1lTzPU](https://feedpress.me/link/20202/16674276/ar-BB1lTzPU)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674291/ar-BB1lTnjx](https://feedpress.me/link/20202/16674291/ar-BB1lTnjx)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674518/ar-BB1lTnjx](https://feedpress.me/link/20202/16674518/ar-BB1lTnjx)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -5648,7 +5718,35 @@ MSN
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16674275/ar-BB1lTAIS](https://feedpress.me/link/20202/16674275/ar-BB1lTAIS)
+ - [https://feedpress.me/link/20202/16673706/ar-BB1lS9cL](https://feedpress.me/link/20202/16673706/ar-BB1lS9cL)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674562/ar-BB1lTAIS](https://feedpress.me/link/20202/16674562/ar-BB1lTAIS)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674518/ar-BB1lTnjx](https://feedpress.me/link/20202/16674518/ar-BB1lTnjx)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674290/ar-BB1lSdxC](https://feedpress.me/link/20202/16674290/ar-BB1lSdxC)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674564/ar-BB1lTzPU](https://feedpress.me/link/20202/16674564/ar-BB1lTzPU)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -6166,21 +6264,7 @@ Texans owner Cal McNair said Monday that Tank Dell will make a "full recovery" a
 The 2023 FSF Free Software Awards [LWN.net]
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4](https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/144cccad-cd8e-4655-a530-eeb8f9c70406](https://brutalist.report/bruticle/144cccad-cd8e-4655-a530-eeb8f9c70406)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/f03b3084-75e2-421f-83ca-de6fc176cea4](https://brutalist.report/bruticle/f03b3084-75e2-421f-83ca-de6fc176cea4)
+ - [https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda](https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -6194,63 +6278,21 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d](https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d)
+ - [https://brutalist.report/bruticle/704e7f08-27ae-4a7a-9090-9643c4acc1fa](https://brutalist.report/bruticle/704e7f08-27ae-4a7a-9090-9643c4acc1fa)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda](https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda)
+ - [https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4](https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/e52a62cb-16b2-4e77-83bd-f4a9b2ede469](https://brutalist.report/bruticle/e52a62cb-16b2-4e77-83bd-f4a9b2ede469)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806](https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/89517ace-96a2-4741-9b4b-1dd783c2aaa2](https://brutalist.report/bruticle/89517ace-96a2-4741-9b4b-1dd783c2aaa2)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/824c7cec-785e-49f6-bdfb-b49ac8254b32](https://brutalist.report/bruticle/824c7cec-785e-49f6-bdfb-b49ac8254b32)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/f78a8ed7-3819-4b18-ac79-131f168647a7](https://brutalist.report/bruticle/f78a8ed7-3819-4b18-ac79-131f168647a7)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f](https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/1f4f2c8d-75c7-48d5-989a-09c0b29812d7](https://brutalist.report/bruticle/1f4f2c8d-75c7-48d5-989a-09c0b29812d7)
+ - [https://brutalist.report/bruticle/5935f1ce-9af3-497d-a282-0239d596f10a](https://brutalist.report/bruticle/5935f1ce-9af3-497d-a282-0239d596f10a)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -6264,6 +6306,76 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/f78a8ed7-3819-4b18-ac79-131f168647a7](https://brutalist.report/bruticle/f78a8ed7-3819-4b18-ac79-131f168647a7)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/c357e6ee-ddbc-4d0b-9be1-a8ffe61c3541](https://brutalist.report/bruticle/c357e6ee-ddbc-4d0b-9be1-a8ffe61c3541)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/f03b3084-75e2-421f-83ca-de6fc176cea4](https://brutalist.report/bruticle/f03b3084-75e2-421f-83ca-de6fc176cea4)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f](https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d](https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/824c7cec-785e-49f6-bdfb-b49ac8254b32](https://brutalist.report/bruticle/824c7cec-785e-49f6-bdfb-b49ac8254b32)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/144cccad-cd8e-4655-a530-eeb8f9c70406](https://brutalist.report/bruticle/144cccad-cd8e-4655-a530-eeb8f9c70406)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/89517ace-96a2-4741-9b4b-1dd783c2aaa2](https://brutalist.report/bruticle/89517ace-96a2-4741-9b4b-1dd783c2aaa2)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/1f4f2c8d-75c7-48d5-989a-09c0b29812d7](https://brutalist.report/bruticle/1f4f2c8d-75c7-48d5-989a-09c0b29812d7)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806](https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
  - [https://brutalist.report/bruticle/41f6ad83-dbcf-4f03-8e9d-a919a4549421](https://brutalist.report/bruticle/41f6ad83-dbcf-4f03-8e9d-a919a4549421)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
@@ -6271,7 +6383,7 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/5935f1ce-9af3-497d-a282-0239d596f10a](https://brutalist.report/bruticle/5935f1ce-9af3-497d-a282-0239d596f10a)
+ - [https://brutalist.report/bruticle/e52a62cb-16b2-4e77-83bd-f4a9b2ede469](https://brutalist.report/bruticle/e52a62cb-16b2-4e77-83bd-f4a9b2ede469)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -6290,6 +6402,13 @@ Environmental and existential threats have changed parenting and fertility itsel
  - date published: 2024-05-06T00:00:00+00:00
 
 Social factors, from wealth to politics, may shape whether people who do not believe in God identify as an atheist.
+
+## The One Thing That's Holding Back the Heat Pump | Hacker News
+ - [https://news.ycombinator.com/item?id=40279905](https://news.ycombinator.com/item?id=40279905)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The One Thing That's Holding Back the Heat Pump | Hacker News
 
 ## The UN nuclear watchdog's long list of difficulties in Iran
  - [https://www.reuters.com/world/middle-east/un-nuclear-watchdogs-long-list-difficulties-iran-2024-05-06](https://www.reuters.com/world/middle-east/un-nuclear-watchdogs-long-list-difficulties-iran-2024-05-06)
@@ -6402,6 +6521,13 @@ Tom Selleck is apparently still very much a working actor -- to the point that h
  - date published: 2024-05-06T00:00:00+00:00
 
 ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
+
+## TOTP Authenticator for PalmOS | Hacker News
+ - [https://news.ycombinator.com/item?id=40279305](https://news.ycombinator.com/item?id=40279305)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+TOTP Authenticator for PalmOS | Hacker News
 
 ## Transfer Talk: Man Utd will face competition for £60m-rated Olise
  - [https://www.espn.com/soccer/story/_/id/40090769/transfer-talk-man-utd-face-competition-60m-rated-olise](https://www.espn.com/soccer/story/_/id/40090769/transfer-talk-man-utd-face-competition-60m-rated-olise)
@@ -6528,6 +6654,13 @@ The United States is studying Hamas's response to a ceasefire proposal and will 
  - date published: 2024-05-06T00:00:00+00:00
 
 A U.S. soldier has been detained in Russia during recent private travel there, a U.S. official told Reuters on Monday.
+
+## Using DuckDB to seamlessly query a large parquet file over HTTP | Hacker News
+ - [https://news.ycombinator.com/item?id=40279774](https://news.ycombinator.com/item?id=40279774)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Using DuckDB to seamlessly query a large parquet file over HTTP | Hacker News
 
 ## Van Dijk eager to be part of post-Klopp transition
  - [https://www.espn.com/soccer/story/_/id/40094265/van-dijk-eager-part-liverpool-transition-klopp](https://www.espn.com/soccer/story/_/id/40094265/van-dijk-eager-part-liverpool-transition-klopp)
