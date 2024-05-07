@@ -344,18 +344,18 @@ Vier Angreifer haben am Freitagabend in Dresden den SPD-Politiker Matthias Ecke 
 Der einzig verbliebene Kandidat gewinnt: John Swinney ist zum neuen der Chef der regierenden schottischen Partei SNP gewählt worden. Regierungschef Hamza Youzaf hatte zuvor seinen Rücktritt angekündigt.
 
 ## Cyberangriffe aus Russland: Bundesregierung ruft deutschen Botschafter aus Moskau zurück
- - [https://www.spiegel.de/politik/deutschland/cyberangriffe-aus-russland-bundesregierung-ruft-deutschen-botschafter-aus-moskau-zurueck-a-0e8325b3-71f1-4716-b133-7d0c9b7e0abc#ref=rss](https://www.spiegel.de/politik/deutschland/cyberangriffe-aus-russland-bundesregierung-ruft-deutschen-botschafter-aus-moskau-zurueck-a-0e8325b3-71f1-4716-b133-7d0c9b7e0abc#ref=rss)
- - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
- - date published: 2024-05-06T12:46:00+00:00
-
-Nach Hackerangriffen auf SPD und deutsche Unternehmen ruft die Bundesregierung ihren Botschafter Alexander Graf Lambsdorff für eine Woche zurück nach Berlin. Es ist ein deutliches Signal an Moskau.
-
-## Cyberangriffe aus Russland: Bundesregierung ruft deutschen Botschafter aus Moskau zurück
  - [https://www.spiegel.de/politik/cyberangriffe-aus-russland-bundesregierung-ruft-deutschen-botschafter-aus-moskau-zurueck-a-0e8325b3-71f1-4716-b133-7d0c9b7e0abc#ref=rss](https://www.spiegel.de/politik/cyberangriffe-aus-russland-bundesregierung-ruft-deutschen-botschafter-aus-moskau-zurueck-a-0e8325b3-71f1-4716-b133-7d0c9b7e0abc#ref=rss)
  - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
  - date published: 2024-05-06T12:46:00+00:00
 
 Nach Hackerangriffen auf SPD und deutsche Unternehmen ruft die Bundesregierung ihren Botschafter Alexander Graf Lambsdorff für eine Woche zurück nach Berlin. Das Auswärtige Amt spricht von einem »üblichen Verfahren«.
+
+## Cyberangriffe aus Russland: Bundesregierung ruft deutschen Botschafter aus Moskau zurück
+ - [https://www.spiegel.de/politik/deutschland/cyberangriffe-aus-russland-bundesregierung-ruft-deutschen-botschafter-aus-moskau-zurueck-a-0e8325b3-71f1-4716-b133-7d0c9b7e0abc#ref=rss](https://www.spiegel.de/politik/deutschland/cyberangriffe-aus-russland-bundesregierung-ruft-deutschen-botschafter-aus-moskau-zurueck-a-0e8325b3-71f1-4716-b133-7d0c9b7e0abc#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-05-06T12:46:00+00:00
+
+Nach Hackerangriffen auf SPD und deutsche Unternehmen ruft die Bundesregierung ihren Botschafter Alexander Graf Lambsdorff für eine Woche zurück nach Berlin. Es ist ein deutliches Signal an Moskau.
 
 ## Erwin Müller: Der Drogeriekönig hat alles, nur keinen Erbprinzen
  - [https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-der-drogeriekoenig-hat-alles-nur-keinen-erbprinzen-a-7a4566ad-bbf8-4c63-99ba-78472d7dfa00#ref=rss](https://www.spiegel.de/wirtschaft/unternehmen/erwin-mueller-der-drogeriekoenig-hat-alles-nur-keinen-erbprinzen-a-7a4566ad-bbf8-4c63-99ba-78472d7dfa00#ref=rss)
