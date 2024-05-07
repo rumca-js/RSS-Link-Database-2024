@@ -568,18 +568,18 @@ Zum ersten Mal ist Lando Norris ein Sieg in der Formel 1 gelungen. Die internati
 Es ist lang, knusprig und innen fluffig: Das Baguette gilt nicht umsonst als eines der Wahrzeichen Frankreichs. Nun haben Bäcker in einem Pariser Vorort den Weltrekord für das längste Exemplar zurückerobert.
 
 ## Harry Wijnvoord verwirklicht sich Traum von einer Jacht
- - [https://www.spiegel.de/panorama/leute/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss](https://www.spiegel.de/panorama/leute/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss)
- - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
- - date published: 2024-05-06T06:44:00+00:00
-
-»...wenn der Preis stimmt!«: Moderator Harry Wijnvoord ist unter die Bootsbesitzer gegangen. Für ihn geht damit ein lang gehegter Wunsch in Erfüllung.
-
-## Harry Wijnvoord verwirklicht sich Traum von einer Jacht
  - [https://www.spiegel.de/panorama/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss](https://www.spiegel.de/panorama/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss)
  - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
  - date published: 2024-05-06T06:44:00+00:00
 
 Ahoi! Der »Der Preis ist heiß«-Moderator Harry Wijnvoord ist unter die Bootsbesitzer gegangen. Für ihn geht damit ein lang gehegter Wunsch in Erfüllung. Was so eine Jacht wohl kostet?
+
+## Harry Wijnvoord verwirklicht sich Traum von einer Jacht
+ - [https://www.spiegel.de/panorama/leute/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss](https://www.spiegel.de/panorama/leute/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-05-06T06:44:00+00:00
+
+»...wenn der Preis stimmt!«: Moderator Harry Wijnvoord ist unter die Bootsbesitzer gegangen. Für ihn geht damit ein lang gehegter Wunsch in Erfüllung.
 
 ## Leeds United: Hollywoodstar Will Ferrell steigt offenbar bei englischem Fußball-Zweitligisten ein
  - [https://www.spiegel.de/sport/fussball/leeds-united-hollywoodstar-will-ferrell-steigt-offenbar-bei-englischem-fussball-zweitligisten-ein-a-0006b063-d0d8-458a-b56a-c55b43d32426#ref=rss](https://www.spiegel.de/sport/fussball/leeds-united-hollywoodstar-will-ferrell-steigt-offenbar-bei-englischem-fussball-zweitligisten-ein-a-0006b063-d0d8-458a-b56a-c55b43d32426#ref=rss)
@@ -645,18 +645,18 @@ Die Menschen im Flüchtlingslager von Rafah sollen einem Medienbericht zufolge i
 Hans-Peter ist über 50 Jahre alt und würde sich gern beruflich in eine neue Richtung orientieren. Wie ein Wechsel gelingen kann.
 
 ## Temu: Raoul Roßmann fordert drastisches Vorgehen gegen chinesische Billig-Plattform
- - [https://www.spiegel.de/wirtschaft/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss](https://www.spiegel.de/wirtschaft/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss)
- - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
- - date published: 2024-05-06T05:02:00+00:00
-
-Verbraucherschützer begegnen Billig-Versandhändlern wie Temu oder Shein mit Argwohn. Konkurrenten wie der Drogerie-Filialist Rossmann fordern von Berlin eine konsequente Anwendung der Gesetze.
-
-## Temu: Raoul Roßmann fordert drastisches Vorgehen gegen chinesische Billig-Plattform
  - [https://www.spiegel.de/wirtschaft/unternehmen/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss](https://www.spiegel.de/wirtschaft/unternehmen/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss)
  - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
  - date published: 2024-05-06T05:02:00+00:00
 
 Verbraucherschützer begegnen Billig-Versandhändlern wie Temu oder Shein mit Argwohn. Konkurrenten wie der Drogeriefilialist Roßmann fordern von Berlin eine konsequente Anwendung der Gesetze.
+
+## Temu: Raoul Roßmann fordert drastisches Vorgehen gegen chinesische Billig-Plattform
+ - [https://www.spiegel.de/wirtschaft/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss](https://www.spiegel.de/wirtschaft/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-05-06T05:02:00+00:00
+
+Verbraucherschützer begegnen Billig-Versandhändlern wie Temu oder Shein mit Argwohn. Konkurrenten wie der Drogerie-Filialist Rossmann fordern von Berlin eine konsequente Anwendung der Gesetze.
 
 ## Krieg in der Ukraine: Russland setzt Angriffe auch während orthodoxem Osterfest fort
  - [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-setzt-angriffe-auch-waehrend-orthodoxem-osterfest-fort-a-94a71f7e-cd62-4fc3-8a3f-5a3aad388af4#ref=rss](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-setzt-angriffe-auch-waehrend-orthodoxem-osterfest-fort-a-94a71f7e-cd62-4fc3-8a3f-5a3aad388af4#ref=rss)
