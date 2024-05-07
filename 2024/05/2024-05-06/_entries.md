@@ -3235,14 +3235,14 @@ Cierpliwości...
 ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
 
 ## Biden’s quiet comeback may be over
- - [https://feedpress.me/link/20202/16674524/4644645](https://feedpress.me/link/20202/16674524/4644645)
+ - [https://feedpress.me/link/20202/16674418/4644645-bidens-quiet-comeback-may-be-over](https://feedpress.me/link/20202/16674418/4644645-bidens-quiet-comeback-may-be-over)
  - RSS feed: 
  - date published: 2024-05-06T12:30:00+00:00
 
 After a brief period where it looked like Biden had finally found his groove, his numbers are once again dropping while Trump’s rise.
 
 ## Biden’s quiet comeback may be over
- - [https://feedpress.me/link/20202/16674418/4644645-bidens-quiet-comeback-may-be-over](https://feedpress.me/link/20202/16674418/4644645-bidens-quiet-comeback-may-be-over)
+ - [https://feedpress.me/link/20202/16674524/4644645](https://feedpress.me/link/20202/16674524/4644645)
  - RSS feed: 
  - date published: 2024-05-06T12:30:00+00:00
 
@@ -3676,14 +3676,14 @@ With Jones Road, Bobbi Brown created a $100 million business in three years by c
 In the era of passwordless systems, Bitwarden is looking beyond passkeys and into broader protection of sensitive info.
 
 ## 6% of six states will decide the presidential election
- - [https://www.axios.com/2024/05/06/biden-trump-election-swing-states](https://www.axios.com/2024/05/06/biden-trump-election-swing-states)
+ - [https://feedpress.me/link/20202/16674239/biden-trump-election-swing-states](https://feedpress.me/link/20202/16674239/biden-trump-election-swing-states)
  - RSS feed: 
  - date published: 2024-05-06T09:58:26+00:00
 
 Each side will spend billions to reach those voters over the next six months.
 
 ## 6% of six states will decide the presidential election
- - [https://feedpress.me/link/20202/16674239/biden-trump-election-swing-states](https://feedpress.me/link/20202/16674239/biden-trump-election-swing-states)
+ - [https://www.axios.com/2024/05/06/biden-trump-election-swing-states](https://www.axios.com/2024/05/06/biden-trump-election-swing-states)
  - RSS feed: 
  - date published: 2024-05-06T09:58:26+00:00
 
@@ -4356,14 +4356,14 @@ The Chicago Bears may have netted the top steal of the NFL draft inside the top 
 University of the Basque Country - UPV/EHU
 
 ## Tom Brady Tells Jeff Ross ‘Don’t Say That S—- Again’ After Massage Joke About Patriots Owner Robert Kraft at Netflix Roast
- - [https://feedpress.me/link/20202/16673747/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609](https://feedpress.me/link/20202/16673747/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609)
+ - [https://variety.com/2024/tv/news/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609](https://variety.com/2024/tv/news/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609)
  - RSS feed: 
  - date published: 2024-05-06T01:09:44+00:00
 
 Jeff Ross upset Tom Brady at Netflix Roast with Robert Kraft massage joke.
 
 ## Tom Brady Tells Jeff Ross ‘Don’t Say That S—- Again’ After Massage Joke About Patriots Owner Robert Kraft at Netflix Roast
- - [https://variety.com/2024/tv/news/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609](https://variety.com/2024/tv/news/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609)
+ - [https://feedpress.me/link/20202/16673747/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609](https://feedpress.me/link/20202/16673747/jeff-ross-tom-brady-netflix-roast-robert-kraft-joke-1235992609)
  - RSS feed: 
  - date published: 2024-05-06T01:09:44+00:00
 
@@ -5557,7 +5557,7 @@ Mozambique's ruling FRELIMO party has announced Daniel Chapo will be its preside
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16674275/ar-BB1lTAIS](https://feedpress.me/link/20202/16674275/ar-BB1lTAIS)
+ - [https://feedpress.me/link/20202/16674525/ar-BB1lSdxC](https://feedpress.me/link/20202/16674525/ar-BB1lSdxC)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -5571,7 +5571,70 @@ MSN
 MSN
 
 ## MSN
+ - [https://feedpress.me/link/20202/16674657/ar-BB1lVeOJ](https://feedpress.me/link/20202/16674657/ar-BB1lVeOJ)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674518/ar-BB1lTnjx](https://feedpress.me/link/20202/16674518/ar-BB1lTnjx)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674562/ar-BB1lTAIS](https://feedpress.me/link/20202/16674562/ar-BB1lTAIS)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16673724/ar-BB1lRzw6](https://feedpress.me/link/20202/16673724/ar-BB1lRzw6)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674290/ar-BB1lSdxC](https://feedpress.me/link/20202/16674290/ar-BB1lSdxC)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674605/ar-BB1lTBYP](https://feedpress.me/link/20202/16674605/ar-BB1lTBYP)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16673706/ar-BB1lS9cL](https://feedpress.me/link/20202/16673706/ar-BB1lS9cL)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
  - [https://feedpress.me/link/20202/16674572/ar-BB1lRzw6](https://feedpress.me/link/20202/16674572/ar-BB1lRzw6)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674275/ar-BB1lTAIS](https://feedpress.me/link/20202/16674275/ar-BB1lTAIS)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16674276/ar-BB1lTzPU](https://feedpress.me/link/20202/16674276/ar-BB1lTzPU)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -5586,69 +5649,6 @@ MSN
 
 ## MSN
  - [https://feedpress.me/link/20202/16674542/ar-BB1lUgfj](https://feedpress.me/link/20202/16674542/ar-BB1lUgfj)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16673724/ar-BB1lRzw6](https://feedpress.me/link/20202/16673724/ar-BB1lRzw6)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674276/ar-BB1lTzPU](https://feedpress.me/link/20202/16674276/ar-BB1lTzPU)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16673706/ar-BB1lS9cL](https://feedpress.me/link/20202/16673706/ar-BB1lS9cL)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674525/ar-BB1lSdxC](https://feedpress.me/link/20202/16674525/ar-BB1lSdxC)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674657/ar-BB1lVeOJ](https://feedpress.me/link/20202/16674657/ar-BB1lVeOJ)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674290/ar-BB1lSdxC](https://feedpress.me/link/20202/16674290/ar-BB1lSdxC)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674518/ar-BB1lTnjx](https://feedpress.me/link/20202/16674518/ar-BB1lTnjx)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674605/ar-BB1lTBYP](https://feedpress.me/link/20202/16674605/ar-BB1lTBYP)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16674562/ar-BB1lTAIS](https://feedpress.me/link/20202/16674562/ar-BB1lTAIS)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -6166,21 +6166,7 @@ Texans owner Cal McNair said Monday that Tank Dell will make a "full recovery" a
 The 2023 FSF Free Software Awards [LWN.net]
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/be491f38-1dc0-4e40-839c-f178bf171cf9](https://brutalist.report/bruticle/be491f38-1dc0-4e40-839c-f178bf171cf9)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/1f4f2c8d-75c7-48d5-989a-09c0b29812d7](https://brutalist.report/bruticle/1f4f2c8d-75c7-48d5-989a-09c0b29812d7)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f](https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f)
+ - [https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda](https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -6194,7 +6180,14 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/f78a8ed7-3819-4b18-ac79-131f168647a7](https://brutalist.report/bruticle/f78a8ed7-3819-4b18-ac79-131f168647a7)
+ - [https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806](https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d](https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -6208,20 +6201,6 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806](https://brutalist.report/bruticle/1f0e3079-ffd5-4240-af4e-65a5c9863806)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda](https://brutalist.report/bruticle/d9935018-b23f-4210-8c58-3e457e52dfda)
- - RSS feed: 
- - date published: 2024-05-06T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
  - [https://brutalist.report/bruticle/5935f1ce-9af3-497d-a282-0239d596f10a](https://brutalist.report/bruticle/5935f1ce-9af3-497d-a282-0239d596f10a)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
@@ -6229,14 +6208,14 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/67f6c11f-b0d0-4d08-a062-3ec52474cd54](https://brutalist.report/bruticle/67f6c11f-b0d0-4d08-a062-3ec52474cd54)
+ - [https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f](https://brutalist.report/bruticle/de3b90d8-414e-46f1-b9da-d0dececa5b6f)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4](https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4)
+ - [https://brutalist.report/bruticle/f78a8ed7-3819-4b18-ac79-131f168647a7](https://brutalist.report/bruticle/f78a8ed7-3819-4b18-ac79-131f168647a7)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 
@@ -6250,6 +6229,27 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/67f6c11f-b0d0-4d08-a062-3ec52474cd54](https://brutalist.report/bruticle/67f6c11f-b0d0-4d08-a062-3ec52474cd54)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/be491f38-1dc0-4e40-839c-f178bf171cf9](https://brutalist.report/bruticle/be491f38-1dc0-4e40-839c-f178bf171cf9)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4](https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
  - [https://brutalist.report/bruticle/f03b3084-75e2-421f-83ca-de6fc176cea4](https://brutalist.report/bruticle/f03b3084-75e2-421f-83ca-de6fc176cea4)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
@@ -6257,7 +6257,7 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d](https://brutalist.report/bruticle/b30294df-e9bf-4874-8b44-47dbc18a400d)
+ - [https://brutalist.report/bruticle/1f4f2c8d-75c7-48d5-989a-09c0b29812d7](https://brutalist.report/bruticle/1f4f2c8d-75c7-48d5-989a-09c0b29812d7)
  - RSS feed: 
  - date published: 2024-05-06T00:00:00+00:00
 

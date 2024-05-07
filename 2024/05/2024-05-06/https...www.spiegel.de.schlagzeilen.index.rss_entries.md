@@ -568,18 +568,18 @@ Zum ersten Mal ist Lando Norris ein Sieg in der Formel 1 gelungen. Die internati
 Es ist lang, knusprig und innen fluffig: Das Baguette gilt nicht umsonst als eines der Wahrzeichen Frankreichs. Nun haben Bäcker in einem Pariser Vorort den Weltrekord für das längste Exemplar zurückerobert.
 
 ## Harry Wijnvoord verwirklicht sich Traum von einer Jacht
- - [https://www.spiegel.de/panorama/leute/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss](https://www.spiegel.de/panorama/leute/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss)
- - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
- - date published: 2024-05-06T06:44:00+00:00
-
-»...wenn der Preis stimmt!«: Moderator Harry Wijnvoord ist unter die Bootsbesitzer gegangen. Für ihn geht damit ein lang gehegter Wunsch in Erfüllung.
-
-## Harry Wijnvoord verwirklicht sich Traum von einer Jacht
  - [https://www.spiegel.de/panorama/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss](https://www.spiegel.de/panorama/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss)
  - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
  - date published: 2024-05-06T06:44:00+00:00
 
 Ahoi! Der »Der Preis ist heiß«-Moderator Harry Wijnvoord ist unter die Bootsbesitzer gegangen. Für ihn geht damit ein lang gehegter Wunsch in Erfüllung. Was so eine Jacht wohl kostet?
+
+## Harry Wijnvoord verwirklicht sich Traum von einer Jacht
+ - [https://www.spiegel.de/panorama/leute/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss](https://www.spiegel.de/panorama/leute/harry-wijnvoord-verwirklicht-sich-traum-von-einer-jacht-a-725fe9dc-6ac8-4362-9ae2-fa997f92ed5d#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-05-06T06:44:00+00:00
+
+»...wenn der Preis stimmt!«: Moderator Harry Wijnvoord ist unter die Bootsbesitzer gegangen. Für ihn geht damit ein lang gehegter Wunsch in Erfüllung.
 
 ## Leeds United: Hollywoodstar Will Ferrell steigt offenbar bei englischem Fußball-Zweitligisten ein
  - [https://www.spiegel.de/sport/fussball/leeds-united-hollywoodstar-will-ferrell-steigt-offenbar-bei-englischem-fussball-zweitligisten-ein-a-0006b063-d0d8-458a-b56a-c55b43d32426#ref=rss](https://www.spiegel.de/sport/fussball/leeds-united-hollywoodstar-will-ferrell-steigt-offenbar-bei-englischem-fussball-zweitligisten-ein-a-0006b063-d0d8-458a-b56a-c55b43d32426#ref=rss)
