@@ -645,18 +645,18 @@ Die Menschen im Flüchtlingslager von Rafah sollen einem Medienbericht zufolge i
 Hans-Peter ist über 50 Jahre alt und würde sich gern beruflich in eine neue Richtung orientieren. Wie ein Wechsel gelingen kann.
 
 ## Temu: Raoul Roßmann fordert drastisches Vorgehen gegen chinesische Billig-Plattform
- - [https://www.spiegel.de/wirtschaft/unternehmen/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss](https://www.spiegel.de/wirtschaft/unternehmen/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss)
- - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
- - date published: 2024-05-06T05:02:00+00:00
-
-Verbraucherschützer begegnen Billig-Versandhändlern wie Temu oder Shein mit Argwohn. Konkurrenten wie der Drogeriefilialist Roßmann fordern von Berlin eine konsequente Anwendung der Gesetze.
-
-## Temu: Raoul Roßmann fordert drastisches Vorgehen gegen chinesische Billig-Plattform
  - [https://www.spiegel.de/wirtschaft/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss](https://www.spiegel.de/wirtschaft/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss)
  - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
  - date published: 2024-05-06T05:02:00+00:00
 
 Verbraucherschützer begegnen Billig-Versandhändlern wie Temu oder Shein mit Argwohn. Konkurrenten wie der Drogerie-Filialist Rossmann fordern von Berlin eine konsequente Anwendung der Gesetze.
+
+## Temu: Raoul Roßmann fordert drastisches Vorgehen gegen chinesische Billig-Plattform
+ - [https://www.spiegel.de/wirtschaft/unternehmen/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss](https://www.spiegel.de/wirtschaft/unternehmen/temu-raoul-rossmann-fordert-drastisches-vorgehen-gegen-chinesische-billig-plattform-a-22d95359-8f64-48a4-aea2-e71a4562d6d9#ref=rss)
+ - RSS feed: https://www.spiegel.de/schlagzeilen/index.rss
+ - date published: 2024-05-06T05:02:00+00:00
+
+Verbraucherschützer begegnen Billig-Versandhändlern wie Temu oder Shein mit Argwohn. Konkurrenten wie der Drogeriefilialist Roßmann fordern von Berlin eine konsequente Anwendung der Gesetze.
 
 ## Krieg in der Ukraine: Russland setzt Angriffe auch während orthodoxem Osterfest fort
  - [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-setzt-angriffe-auch-waehrend-orthodoxem-osterfest-fort-a-94a71f7e-cd62-4fc3-8a3f-5a3aad388af4#ref=rss](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-setzt-angriffe-auch-waehrend-orthodoxem-osterfest-fort-a-94a71f7e-cd62-4fc3-8a3f-5a3aad388af4#ref=rss)
