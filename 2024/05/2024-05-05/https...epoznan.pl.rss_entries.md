@@ -98,6 +98,13 @@ Do zdarzenia doszło w niedzielę po południu.
 
 Zatrzymano 36-latka.
 
+## Bójka obcokrajowców na Jeżycach. 33-latek w ciężkim stanie trafił do szpitala
+ - [https://epoznan.pl/news-news-150519-bojka_obcokrajowcow_na_jezycach_33_latek_w_ciezkim_stanie_trafil_do_szpitala?rss=1](https://epoznan.pl/news-news-150519-bojka_obcokrajowcow_na_jezycach_33_latek_w_ciezkim_stanie_trafil_do_szpitala?rss=1)
+ - RSS feed: https://epoznan.pl/rss
+ - date published: 2024-05-05T11:45:00+00:00
+
+Zatrzymano 36-latka.
+
 ## Mężczyzna zniknął pod wodą. Nie udało się go uratować
  - [https://epoznan.pl/news-news-150518-mezczyzna_zniknal_pod_woda_nie_udalo_sie_go_uratowac?rss=1](https://epoznan.pl/news-news-150518-mezczyzna_zniknal_pod_woda_nie_udalo_sie_go_uratowac?rss=1)
  - RSS feed: https://epoznan.pl/rss

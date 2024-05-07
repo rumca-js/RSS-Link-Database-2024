@@ -1,5 +1,25 @@
 # Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
+## X.org on NetBSD – The State of Things
+ - [https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-05-05T23:46:21+00:00
+
+<p>Article URL: <a href="https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the">https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40269680">https://news.ycombinator.com/item?id=40269680</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+## Drug Resistant Bacteria Found on ISS Mutating to Become Functionally Distinct
+ - [https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-05-05T23:32:20+00:00
+
+<p>Article URL: <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/">https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40269592">https://news.ycombinator.com/item?id=40269592</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
 ## Deep Reinforcement Learning: Zero to Hero
  - [https://github.com/alessiodm/drl-zh](https://github.com/alessiodm/drl-zh)
  - RSS feed: https://hnrss.org/frontpage
@@ -167,6 +187,16 @@
 <p>Points: 24</p>
 <p># Comments: 1</p>
 
+## What's bad about this habit (2009) [pdf]
+ - [https://www.ehu.eus/aitor/irakas/mes/Reference/mermin.pdf](https://www.ehu.eus/aitor/irakas/mes/Reference/mermin.pdf)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-05-05T17:45:37+00:00
+
+<p>Article URL: <a href="https://www.ehu.eus/aitor/irakas/mes/Reference/mermin.pdf">https://www.ehu.eus/aitor/irakas/mes/Reference/mermin.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40266682">https://news.ycombinator.com/item?id=40266682</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
 ## Stereogram Tutorial (2020)
  - [https://www.ime.usp.br/~otuyama/stereogram/basic/index.html](https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -256,16 +286,6 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=40265736">https://news.ycombinator.com/item?id=40265736</a></p>
 <p>Points: 3</p>
 <p># Comments: 1</p>
-
-## Ancestry caught stealing records a second time from local genealogy groups
- - [http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2024-05-05T15:46:03+00:00
-
-<p>Article URL: <a href="http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html">http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40265703">https://news.ycombinator.com/item?id=40265703</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
 
 ## The Runners Who Went So Hard They Were Never the Same
  - [https://www.outsideonline.com/podcast/overtraining-syndrome-science](https://www.outsideonline.com/podcast/overtraining-syndrome-science)

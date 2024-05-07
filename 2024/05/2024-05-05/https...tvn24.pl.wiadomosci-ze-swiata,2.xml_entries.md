@@ -1,5 +1,13 @@
 # Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
+## Pogoda na dziś - poniedziałek, 6.05. Burzowo w części kraju, jest szansa na rozpogodzenia
+ - [https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-poniedzialek-605-burzowo-w-czesci-kraju-jest-szansa-na-rozpogodzenia-st7901022?source=rss](https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-poniedzialek-605-burzowo-w-czesci-kraju-jest-szansa-na-rozpogodzenia-st7901022?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-ze-swiata,2.xml
+ - date published: 2024-05-06T00:00:00+00:00
+
+<img alt="Pogoda na dziś - poniedziałek, 6.05. Burzowo w części kraju, jest szansa na rozpogodzenia" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie023273345067077d70bb530f349e3a03-miejscami-zagrzmi-5242447/alternates/LANDSCAPE_1280" />
+    Pogoda na dziś. Poniedziałek 6.05 przyniesie części kraju przelotne opady deszczu oraz burze. Wyładowaniom towarzyszyć będą silne porywy wiatru. Termometry pokażą od 16 do 24 stopni.
+
 ## "La Repubblica": atak Rosji na Polskę byłby dla NATO przekroczeniem czerwonej linii
  - [https://tvn24.pl/swiat/la-repubblica-atak-rosji-na-polske-bylby-dla-nato-przekroczeniem-czerwonej-linii-st7900974?source=rss](https://tvn24.pl/swiat/la-repubblica-atak-rosji-na-polske-bylby-dla-nato-przekroczeniem-czerwonej-linii-st7900974?source=rss)
  - RSS feed: https://tvn24.pl/wiadomosci-ze-swiata,2.xml

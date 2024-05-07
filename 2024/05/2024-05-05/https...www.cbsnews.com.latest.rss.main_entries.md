@@ -1,5 +1,61 @@
 # Source:Home - CBSNews.com, URL:https://www.cbsnews.com/latest/rss/main, language:en
 
+## Ukrainian who fled war to attend prestigious music school
+ - [https://www.cbsnews.com/video/ukrainian-who-fled-war-to-attend-prestigious-music-school](https://www.cbsnews.com/video/ukrainian-who-fled-war-to-attend-prestigious-music-school)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-05T23:51:00+00:00
+
+David Korzyrkov fled Ukraine with his family two years ago when Russia invaded his country. Now, he's set to attend the Berklee College of Music in Boston. CBS Philadelphia's Josh Sanders has the story.
+
+## Hamas attacks border crossing as cease-fire talks stall
+ - [https://www.cbsnews.com/video/hamas-attacks-border-crossing-as-cease-fire-talks-stall](https://www.cbsnews.com/video/hamas-attacks-border-crossing-as-cease-fire-talks-stall)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-05T23:50:00+00:00
+
+Hamas on Sunday attacked a border crossing with Israel as cease-fire talks appeared to be on the verge of collapse. Ramy Inocencio reports.
+
+## Boeing preps Starliner ship for first piloted flight
+ - [https://www.cbsnews.com/video/boeing-preps-starliner-ship-for-first-piloted-flight](https://www.cbsnews.com/video/boeing-preps-starliner-ship-for-first-piloted-flight)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-05T23:40:00+00:00
+
+Boeing is preparing its Starliner capsule for its first piloted launch. The launch, scheduled for Monday, comes after years of delays and a ballooning budget. Mark Strassmann reports.
+
+## Presidential campaigns ramp up as protests continue
+ - [https://www.cbsnews.com/video/presidential-campaigns-ramp-up-as-protests-continue](https://www.cbsnews.com/video/presidential-campaigns-ramp-up-as-protests-continue)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-05T23:39:00+00:00
+
+Democrats are rallying behind President Biden's response to pro-Palestinian protests, while Republicans pounced on Biden's position. Speculation is also increasing over who Trump will pick as his running mate. Skyler Henry reports.
+
+## Campus protests continue as graduation ceremonies get underway
+ - [https://www.cbsnews.com/video/campus-protests-continue-as-graduation-ceremonies-get-underway](https://www.cbsnews.com/video/campus-protests-continue-as-graduation-ceremonies-get-underway)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-05T23:37:00+00:00
+
+Protests over the Israel-Hamas war continued on college campuses over the weekend, with some demonstrations spilling over into commencement ceremonies. Shanelle Kaul reports.
+
+## Millions under flood watches as Texas braces for more rain
+ - [https://www.cbsnews.com/video/millions-under-flood-watches-as-texas-braces-for-more-rain](https://www.cbsnews.com/video/millions-under-flood-watches-as-texas-braces-for-more-rain)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-05T23:36:00+00:00
+
+Heavy rain and hail battered Southeastern Texas over the weekend, bringing heavy flooding. Janet Shamlian reports.
+
+## "CBS Weekend News" headlines for Sunday, May 5, 2024
+ - [https://www.cbsnews.com/video/cbs-weekend-news-headlines-for-sunday-may-5-2024](https://www.cbsnews.com/video/cbs-weekend-news-headlines-for-sunday-may-5-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-05T23:32:00+00:00
+
+Here's a look at the top stories making headlines on the "CBS Weekend News" with Jericka Duncan.
+
+## Bodies presumed to be missing surfers had bullet wounds, Mexican officials say
+ - [https://www.cbsnews.com/news/missing-surfers-australia-us-mexico-bullet-wounds](https://www.cbsnews.com/news/missing-surfers-australia-us-mexico-bullet-wounds)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-05-05T23:20:49+00:00
+
+Mexican officials say there's a high probability that three bodies found in a well are missing surfers from Australia and the U.S.
+
 ## The inspiration for New Orleans' St. Mary's Academy
  - [https://www.cbsnews.com/news/the-inspiration-for-new-orleans-st-marys-academy-60-minutes](https://www.cbsnews.com/news/the-inspiration-for-new-orleans-st-marys-academy-60-minutes)
  - RSS feed: https://www.cbsnews.com/latest/rss/main

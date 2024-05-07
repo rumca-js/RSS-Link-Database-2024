@@ -7,6 +7,13 @@
 
 Amid arguments over electric cars, cognac and Ukraine, the French president’s dinner with Xi Jinping may not be much fun.
 
+## Last-minute candidate heads to victory in Panama presidential election
+ - [https://www.politico.com/news/2024/05/05/jose-raul-mulino-panama-presidential-election-00156211](https://www.politico.com/news/2024/05/05/jose-raul-mulino-panama-presidential-election-00156211)
+ - RSS feed: https://www.politico.com/rss/politicopicks.xml
+ - date published: 2024-05-05T21:16:39+00:00
+
+José Raúl Mulino replaced a disqualified candidate.
+
 ## Ukraine claps back after Russia puts Zelenskyy on 'wanted list'
  - [https://www.politico.eu/article/ukraine-claps-back-russia-volodymyr-zelenskyy-wanted-list](https://www.politico.eu/article/ukraine-claps-back-russia-volodymyr-zelenskyy-wanted-list)
  - RSS feed: https://www.politico.com/rss/politicopicks.xml

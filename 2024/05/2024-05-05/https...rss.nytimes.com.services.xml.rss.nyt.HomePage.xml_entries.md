@@ -78,14 +78,14 @@ A section of the highway, a crucial link between Connecticut and New York City, 
 The university has been in turmoil following the decision not to allow its valedictorian, who is Muslim, to speak at graduation.
 
 ## Police Arrest Dozens in Protest at Art Institute of Chicago
- - [https://www.nytimes.com/live/2024/05/05/us/college-graduation-campus-protests/art-institute-chicago-protests-arrests](https://www.nytimes.com/live/2024/05/05/us/college-graduation-campus-protests/art-institute-chicago-protests-arrests)
+ - [https://www.nytimes.com/2024/05/05/us/art-institute-chicago-protests-arrests.html](https://www.nytimes.com/2024/05/05/us/art-institute-chicago-protests-arrests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
  - date published: 2024-05-05T14:22:47+00:00
 
 The Chicago police said that 68 people had been arrested and charged with trespassing.
 
 ## Police Arrest Dozens in Protest at Art Institute of Chicago
- - [https://www.nytimes.com/2024/05/05/us/art-institute-chicago-protests-arrests.html](https://www.nytimes.com/2024/05/05/us/art-institute-chicago-protests-arrests.html)
+ - [https://www.nytimes.com/live/2024/05/05/us/college-graduation-campus-protests/art-institute-chicago-protests-arrests](https://www.nytimes.com/live/2024/05/05/us/college-graduation-campus-protests/art-institute-chicago-protests-arrests)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
  - date published: 2024-05-05T14:22:47+00:00
 

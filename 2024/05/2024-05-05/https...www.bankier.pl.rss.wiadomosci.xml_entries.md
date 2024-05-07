@@ -1,5 +1,26 @@
 # Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
+## Szturm na granicę USA? "Usiłują ją pokonać migranci z całego świata"
+ - [https://www.bankier.pl/wiadomosc/Szturm-na-granice-USA-Usiluja-ja-pokonac-migranci-z-calego-swiata-8740345.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Szturm-na-granice-USA-Usiluja-ja-pokonac-migranci-z-calego-swiata-8740345.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2024-05-05T22:29:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/4/0954a5f91a2cf2-945-560-0-0-1732-1039.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Jeszcze niedawno południową granicę USA usiłowali pokonać migranci z pobliskich państw. Dziś są to migranci z czterech kontynentów - ocenił portal NBC News, powołując się na dane opublikowane przez amerykański Departament Bezpieczeństwa Krajowego.</p>
+
+## Peter Magyar: Naszym celem jest wygranie wyborów. Tylko czy Orban odda władzę?
+ - [https://www.bankier.pl/wiadomosc/Peter-Magyar-Naszym-celem-jest-wygranie-wyborow-Tylko-czy-Orban-odda-wladze-8740337.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Peter-Magyar-Naszym-celem-jest-wygranie-wyborow-Tylko-czy-Orban-odda-wladze-8740337.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2024-05-05T21:05:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/3/0/eb6e701c1f5ea0-948-568-0-217-2975-1784.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Naszym celem jest wygranie wyborów, chcę zakładać, że Viktor Orban odda władzę, a nie przemieni się w "nowego Putina" - powiedział "Rzeczpospolitej" lider węgierskiej partii TISZA Peter Magyar. W kwestii Ukrainy pytał, czemu Węgrzy mieliby ryzykować niepodległość, aby walczyć za nią.</p>
+
+## Zamachy, bomby, podpalenia? Rosja weszła "w trwały konflikt z Zachodem". Wywiady alarmują
+ - [https://www.bankier.pl/wiadomosc/Zamachy-bomby-podpalenia-Rosja-weszla-w-trwaly-konflikt-z-Zachodem-Wywiady-alarmuja-8740330.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Zamachy-bomby-podpalenia-Rosja-weszla-w-trwaly-konflikt-z-Zachodem-Wywiady-alarmuja-8740330.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2024-05-05T20:26:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/7/b/352ed5ecd3ac35-948-568-397-277-2002-1201.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Moskwa aktywnie przygotowuje zamachy bombowe, podpalenia i ataki na infrastrukturę, wykonywane zarówno bezpośrednio, jak i przez "pełnomocników". Europejskie agencje wywiadowcze ostrzegły swoje rządy, że Rosja planuje akcję sabotażu w całej Europie w związku z "wejściem w trwały konflikt z Zachodem" - podał w niedzielę brytyjski "Financial Times". </p>
+
 ## Sikorski: Rosjanie starają się zrujnować ukraińską gospodarkę, by wywołać kolejną falę uchodźców
  - [https://www.bankier.pl/wiadomosc/Sikorski-Rosjanie-staraja-sie-zrujnowac-ukrainska-gospodarke-by-wywolac-kolejna-fale-uchodzcow-8740316.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Sikorski-Rosjanie-staraja-sie-zrujnowac-ukrainska-gospodarke-by-wywolac-kolejna-fale-uchodzcow-8740316.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml

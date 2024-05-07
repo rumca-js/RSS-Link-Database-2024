@@ -1,0 +1,72 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## Retrotechtacular: How Not to Use Hand Tools
+ - [https://hackaday.com/2024/05/06/retrotechtacular-how-not-to-use-hand-tools](https://hackaday.com/2024/05/06/retrotechtacular-how-not-to-use-hand-tools)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-05-06T23:00:07+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="395" src="https://hackaday.com/wp-content/uploads/2024/05/tools.png?w=702" style="margin: 0 auto; margin-bottom: 15px;" width="702" /></div>Whatever you&#8217;re doing with your hand tools, by the US Army&#8217;s lights, you&#8217;re probably doing it wrong. That seems to be the &#8220;Green Machine&#8217;s&#8221; attitude on pliers and screwdrivers, at <a class="read-more" href="https://hackaday.com/2024/05/06/retrotechtacular-how-not-to-use-hand-tools/">&#8230;read more</a>
+
+## Upgrading a Cheap LX-2BUPS UPS Board To Fix Fatal Flaws
+ - [https://hackaday.com/2024/05/06/upgrading-a-cheap-lx-2bups-ups-board-to-fix-fatal-flaws](https://hackaday.com/2024/05/06/upgrading-a-cheap-lx-2bups-ups-board-to-fix-fatal-flaws)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-05-06T20:00:39+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="449" src="https://hackaday.com/wp-content/uploads/2024/05/upload_d438b899466281ce56bb124746c3df0b.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Cheap uninterruptable power supply (UPS) boards that take Li-ion cells of some description seem to have cropped up everywhere the past years. Finding use in applications such as keeping single-board <a class="read-more" href="https://hackaday.com/2024/05/06/upgrading-a-cheap-lx-2bups-ups-board-to-fix-fatal-flaws/">&#8230;read more</a>
+
+## Non Contact Scope Probe Costs Nearly Nothing
+ - [https://hackaday.com/2024/05/06/non-contact-scope-probe-costs-nearly-nothing](https://hackaday.com/2024/05/06/non-contact-scope-probe-costs-nearly-nothing)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-05-06T18:00:19+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/05/scope.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>[IMSAI Guy] wants you to build a non-contact scope probe. The cost? Assuming you have a bit of wire and a regular scope probe, it won&#8217;t cost you anything. Why <a class="read-more" href="https://hackaday.com/2024/05/06/non-contact-scope-probe-costs-nearly-nothing/">&#8230;read more</a>
+
+## Retrogadgets: The Ageia PhysX Card
+ - [https://hackaday.com/2024/05/06/retrogadgets-the-ageia-physx-card](https://hackaday.com/2024/05/06/retrogadgets-the-ageia-physx-card)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-05-06T17:00:19+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="417" src="https://hackaday.com/wp-content/uploads/2024/05/ppu.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Old computers meant for big jobs often had an external unit to crunch data in specific ways. A computer doing weather prediction, for example, might have an SIMD (single instruction <a class="read-more" href="https://hackaday.com/2024/05/06/retrogadgets-the-ageia-physx-card/">&#8230;read more</a>
+
+## Spend an Hour in the Virtual Radio Museum
+ - [https://hackaday.com/2024/05/06/spend-an-hour-in-the-virtual-radio-museum](https://hackaday.com/2024/05/06/spend-an-hour-in-the-virtual-radio-museum)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-05-06T15:30:16+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/05/museum.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>You have an hour to kill, and you like old communication technology. If you happen to be in Windsor, Connecticut, you could nip over to the Vintage Radio and Communication <a class="read-more" href="https://hackaday.com/2024/05/06/spend-an-hour-in-the-virtual-radio-museum/">&#8230;read more</a>
+
+## The Computers of Voyager
+ - [https://hackaday.com/2024/05/06/the-computers-of-voyager](https://hackaday.com/2024/05/06/the-computers-of-voyager)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-05-06T14:00:14+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="412" src="https://hackaday.com/wp-content/uploads/2024/04/Voyager2.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>After more than four decades in space and having traveled a combined 44 billion kilometers, it&#8217;s no secret that the Voyager spacecraft are closing in on the end of their <a class="read-more" href="https://hackaday.com/2024/05/06/the-computers-of-voyager/">&#8230;read more</a>
+
+## MIDI Bookmark Marks the Spot Where Work and Play Intersect
+ - [https://hackaday.com/2024/05/06/midi-bookmark-marks-the-spot-where-work-and-play-intersect](https://hackaday.com/2024/05/06/midi-bookmark-marks-the-spot-where-work-and-play-intersect)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-05-06T11:00:43+00:00
+
+<div><img alt="A capacitive touch MIDI instrument that doubles as a bookmark." class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/05/MIDI-bookmark-800.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Have you ever wanted to take a break from reading or studying to just rock out for a few blissful minutes? If you&#8217;re anything like us, you like to rock <a class="read-more" href="https://hackaday.com/2024/05/06/midi-bookmark-marks-the-spot-where-work-and-play-intersect/">&#8230;read more</a>
+
+## The History of the World’s First Planetarium
+ - [https://hackaday.com/2024/05/06/the-history-of-the-worlds-first-planetarium](https://hackaday.com/2024/05/06/the-history-of-the-worlds-first-planetarium)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-05-06T08:00:14+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="529" src="https://hackaday.com/wp-content/uploads/2024/05/planet.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>It shouldn&#8217;t be a surprise that the idea of a planetarium originated with an electrical engineer, [Oskar von Miller] from the Deutsches Museum in Munich. According to [Allison Marsh] in <a class="read-more" href="https://hackaday.com/2024/05/06/the-history-of-the-worlds-first-planetarium/">&#8230;read more</a>
+
+## A Portable DLNA Server Hack Helps You Tame OpenWRT
+ - [https://hackaday.com/2024/05/05/a-portable-dlna-server-hack-helps-you-tame-openwrt](https://hackaday.com/2024/05/05/a-portable-dlna-server-hack-helps-you-tame-openwrt)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-05-06T05:00:55+00:00
+
+<div><img alt="A diagram from the article, showing the router being used in a car for streaming media to multiple portable devices at once" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/04/hadimg_dlna_openwrt_feat.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>A good amount of hacks can be done with off-the-shelf hardware &#8211; what&#8217;s more, it&#8217;s usually available all over the world, which means your hacks are easier to build for <a class="read-more" href="https://hackaday.com/2024/05/05/a-portable-dlna-server-hack-helps-you-tame-openwrt/">&#8230;read more</a>
+
+## Poking Atomic Nuclei With Lasers For Atomic Clocks and Energy Storage
+ - [https://hackaday.com/2024/05/05/poking-atomic-nuclei-with-lasers-for-atomic-clocks-and-energy-storage](https://hackaday.com/2024/05/05/poking-atomic-nuclei-with-lasers-for-atomic-clocks-and-energy-storage)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-05-06T02:00:20+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="168" src="https://hackaday.com/wp-content/uploads/2024/05/thorium-229_excitation_scheme_j_tiedau_et_al_phys_review_letters_2024.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Although most people are probably familiar with the different energy levels that the electron shells of atoms can be in and how electrons shedding excess energy as they return to <a class="read-more" href="https://hackaday.com/2024/05/05/poking-atomic-nuclei-with-lasers-for-atomic-clocks-and-energy-storage/">&#8230;read more</a>
+

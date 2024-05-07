@@ -1,5 +1,40 @@
 # Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
 
+## Karan Johar calls out comedian for mocking him in a comedy show's act
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/karan-johar-calls-out-the-comedian-for-mocking-him-in-a-comedy-shows-act-ekta-kapoor-comes-out-in-support-says-happened-so-many-times/articleshow/109868042.cms](https://timesofindia.indiatimes.com/tv/news/hindi/karan-johar-calls-out-the-comedian-for-mocking-him-in-a-comedy-shows-act-ekta-kapoor-comes-out-in-support-says-happened-so-many-times/articleshow/109868042.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T23:55:27+00:00
+
+Karan Johar upset by comedian's mocking in a comedy show promo shared on Instagram Stories. Ekta Kapoor supports him against ugly humor at award functions. Mubeen Saudagar features in 'Madness Machayenge – India Ko Hasayenge' Bollywood special.
+
+## Horoscope today, May 6: Read your daily astrological predictions
+ - [https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-may-6-2024-read-your-daily-astrological-predictions/articleshow/109856996.cms](https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-may-6-2024-read-your-daily-astrological-predictions/articleshow/109856996.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T23:30:00+00:00
+
+Horoscope Today: Read daily horoscope predictions for May 6, 2024. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Get ready to discover what the stars have in store for you today!
+
+## China's Leapmotor set to enter India with EVs
+ - [https://timesofindia.indiatimes.com/business/india-business/chinas-leapmotor-set-to-enter-india-with-evs/articleshow/109867804.cms](https://timesofindia.indiatimes.com/business/india-business/chinas-leapmotor-set-to-enter-india-with-evs/articleshow/109867804.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T23:28:20+00:00
+
+
+
+## India has unexplored opportunities, says Buffett
+ - [https://timesofindia.indiatimes.com/business/india-business/india-has-unexplored-opportunities-says-buffett/articleshow/109867717.cms](https://timesofindia.indiatimes.com/business/india-business/india-has-unexplored-opportunities-says-buffett/articleshow/109867717.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T23:19:33+00:00
+
+
+
+## India has unexplored opportunities, says Buffett
+ - [https://timesofindia.indiatimes.com/business/india-has-unexplored-opportunities-says-buffett/articleshow/109867717.cms](https://timesofindia.indiatimes.com/business/india-has-unexplored-opportunities-says-buffett/articleshow/109867717.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T23:19:33+00:00
+
+
+
 ## Kotak Bank sees Rs 300-500 crore hit to profit from RBI curbs
  - [https://timesofindia.indiatimes.com/business/india-business/kotak-bank-sees-rs-300-500-crore-hit-to-profit-from-rbi-curbs/articleshow/109867369.cms](https://timesofindia.indiatimes.com/business/india-business/kotak-bank-sees-rs-300-500-crore-hit-to-profit-from-rbi-curbs/articleshow/109867369.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
@@ -49,12 +84,26 @@ Chinese consumers have flocked to gold as their confidence in investments like r
 
 
 
+## 'On dad's nudge', Prajwal Revanna to fly in, surrender
+ - [https://timesofindia.indiatimes.com/city/bengaluru/on-dads-nudge-prajwal-to-fly-in-surrender/articleshow/109865954.cms](https://timesofindia.indiatimes.com/city/bengaluru/on-dads-nudge-prajwal-to-fly-in-surrender/articleshow/109865954.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T22:33:00+00:00
+
+
+
 ## 'On dad's nudge', Prajwal to fly in, surrender
  - [https://timesofindia.indiatimes.com/india/on-dads-nudge-prajwal-to-fly-in-surrender/articleshow/109865954.cms](https://timesofindia.indiatimes.com/india/on-dads-nudge-prajwal-to-fly-in-surrender/articleshow/109865954.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-05-05T22:33:00+00:00
 
 
+
+## Bank employee siphons off Rs 1.5cr to invest in crypto
+ - [https://timesofindia.indiatimes.com/city/mumbai/employee-siphons-off-15cr-from-bank-booked/articleshow/109865866.cms](https://timesofindia.indiatimes.com/city/mumbai/employee-siphons-off-15cr-from-bank-booked/articleshow/109865866.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T22:31:40+00:00
+
+CPD clerk Jayesh Namdev Goankar misused Rs 1.51 crore for online betting and cryptocurrency, causing significant losses. Accused currently untraceable. Police investigating further.
 
 ## Student from Karnal stabbed to death in Australia
  - [https://timesofindia.indiatimes.com/nri/other-news/student-from-karnal-stabbed-to-death-in-australia/articleshow/109865757.cms](https://timesofindia.indiatimes.com/nri/other-news/student-from-karnal-stabbed-to-death-in-australia/articleshow/109865757.cms)
@@ -91,6 +140,20 @@ Two of three suspects held by Canada over last year's murder of Khalistani terro
 
 
 
+## MP Congress MLA joins BJP, third this poll season to switch to saffron camp
+ - [https://timesofindia.indiatimes.com/city/bhopal/mp-congress-mla-joins-bjp-third-this-poll-season-to-switch-to-saffron-camp/articleshow/109865250.cms](https://timesofindia.indiatimes.com/city/bhopal/mp-congress-mla-joins-bjp-third-this-poll-season-to-switch-to-saffron-camp/articleshow/109865250.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T21:51:46+00:00
+
+
+
+## 3 held for setting forest on fire in bid to get more social media 'views'
+ - [https://timesofindia.indiatimes.com/city/dehradun/3-held-for-setting-forest-on-fire-in-bid-to-get-more-social-media-views/articleshow/109865245.cms](https://timesofindia.indiatimes.com/city/dehradun/3-held-for-setting-forest-on-fire-in-bid-to-get-more-social-media-views/articleshow/109865245.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T21:49:23+00:00
+
+Chamoli district police have arrested three men from Bihar for allegedly starting a forest fire in the district's Gairsain area, approximately 260km from Dehradun, and uploading a video of the incident on social media to "get more views". The arrest was done on Saturday evening after police took suo-motu cognisance of the video making rounds online, officials said.
+
 ## 3 held for setting forest on fire in bid to get more social media 'views'
  - [https://timesofindia.indiatimes.com/india/3-held-for-setting-forest-on-fire-in-bid-to-get-more-social-media-views/articleshow/109865245.cms](https://timesofindia.indiatimes.com/india/3-held-for-setting-forest-on-fire-in-bid-to-get-more-social-media-views/articleshow/109865245.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
@@ -104,6 +167,13 @@ Chamoli district police have arrested three men from Bihar for allegedly startin
  - date published: 2024-05-05T21:49:08+00:00
 
 
+
+## Cleric held for ‘Pak-linked plot’ to kill BJP’s Raja Singh, Nupur Sharma
+ - [https://timesofindia.indiatimes.com/city/surat/cleric-arrested-in-surat-for-pakistan-linked-plot-to-kill-bjp-netas/articleshow/109865244.cms](https://timesofindia.indiatimes.com/city/surat/cleric-arrested-in-surat-for-pakistan-linked-plot-to-kill-bjp-netas/articleshow/109865244.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T21:49:08+00:00
+
+A manager in Surat thread factory, also a maulvi, was arrested for conspiring to kill BJP's Raja Singh, Nupur Sharma, Upadesh Rana, and Suresh Chavhanke. The plot aimed to disrupt communal harmony during elections.
 
 ## Bank vicariously liable for acts of its employees: Supreme Court
  - [https://timesofindia.indiatimes.com/india/bank-vicariously-liable-for-acts-of-its-employees-supreme-court/articleshow/109865246.cms](https://timesofindia.indiatimes.com/india/bank-vicariously-liable-for-acts-of-its-employees-supreme-court/articleshow/109865246.cms)
@@ -120,6 +190,13 @@ Chamoli district police have arrested three men from Bihar for allegedly startin
 After surviving a complicated neurosurgery, a man passed away due to cardiac arrest induced by an extra dose of anaesthesia administered at a private scanning centre in Kilpauk, Chennai. Fifteen years later, the family won a legal battle at district consumer disputes redressal forum in Thiruvallur, Tamil Nadu, against the scanning centre and secured Rs 15 lakhs as compensation.
 
 ## BJP vows higher paddy MSP in Odisha to woo farmers
+ - [https://timesofindia.indiatimes.com/city/bhubaneswar/bjp-vows-higher-paddy-msp-in-odisha-to-woo-farmers/articleshow/109865238.cms](https://timesofindia.indiatimes.com/city/bhubaneswar/bjp-vows-higher-paddy-msp-in-odisha-to-woo-farmers/articleshow/109865238.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T21:45:54+00:00
+
+The BJP move is seen as the party's big push to woo farmers as nearly 76% of the population in Odisha is involved in farming, and paddy is the dominant crop. Releasing the manifesto on Sunday, party president J P Nadda said, "BJP is fighting the election not to sit in opposition, but to form govt in Odisha." The party also promised to introduce cash incentive programmes specifically targeting women and tribal communities.
+
+## BJP vows higher paddy MSP in Odisha to woo farmers
  - [https://timesofindia.indiatimes.com/india/bjp-vows-higher-paddy-msp-in-odisha-to-woo-farmers/articleshow/109865238.cms](https://timesofindia.indiatimes.com/india/bjp-vows-higher-paddy-msp-in-odisha-to-woo-farmers/articleshow/109865238.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-05-05T21:45:54+00:00
@@ -128,6 +205,13 @@ The BJP move is seen as the party's big push to woo farmers as nearly 76% of the
 
 ## Case against Nadda, Malviya over video after Cong’s EC plaint
  - [https://timesofindia.indiatimes.com/india/case-against-j-p-nadda-amit-malviya-over-video-after-congresss-ec-complaint/articleshow/109865042.cms](https://timesofindia.indiatimes.com/india/case-against-j-p-nadda-amit-malviya-over-video-after-congresss-ec-complaint/articleshow/109865042.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T21:24:23+00:00
+
+A case has been registered against BJP president J P Nadda, its IT cell head Amit Malviya, and state president B Y Vijayendra regarding an animated video shared on social media, following a complaint from Congress to police and Election Commission. Babu alleged this video was posted to incite enmity among communities and violates the code of conduct. Congress also expressed shock at the video being cleared by the state-level media-monitoring committee.
+
+## Case against Nadda, Malviya over video after Cong’s EC plaint
+ - [https://timesofindia.indiatimes.com/city/bengaluru/case-against-j-p-nadda-amit-malviya-over-video-after-congresss-ec-complaint/articleshow/109865042.cms](https://timesofindia.indiatimes.com/city/bengaluru/case-against-j-p-nadda-amit-malviya-over-video-after-congresss-ec-complaint/articleshow/109865042.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-05-05T21:24:23+00:00
 
@@ -147,6 +231,20 @@ Nearly 65 families in the village also hold voting rights in Meghalaya due to th
 
 The former Union agriculture minister became a permanent resident of Bhulabhai Desai Road in Malabar Hill in Mumbai. He had given copies of a landline telephone bill, his PAN card and a bank passbook as proof of residence in Mumbai.  Pawar had changed his residential address to Mumbai to fulfil the requirements of Mumbai Cricket Association's election which he had then contested, the NCP leader said.
 
+## Sharad Pawar votes from Baramati after 10 years
+ - [https://timesofindia.indiatimes.com/city/pune/sharad-pawar-votes-from-baramati-after-10-years/articleshow/109865024.cms](https://timesofindia.indiatimes.com/city/pune/sharad-pawar-votes-from-baramati-after-10-years/articleshow/109865024.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T21:07:31+00:00
+
+The former Union agriculture minister became a permanent resident of Bhulabhai Desai Road in Malabar Hill in Mumbai. He had given copies of a landline telephone bill, his PAN card and a bank passbook as proof of residence in Mumbai.  Pawar had changed his residential address to Mumbai to fulfil the requirements of Mumbai Cricket Association's election which he had then contested, the NCP leader said.
+
+## 2 rallies, 2.5km apart: 2 Pawars leave Baramati at crossroads
+ - [https://timesofindia.indiatimes.com/city/pune/2-rallies-2-5km-apart-2-pawars-leave-baramati-at-crossroads/articleshow/109865014.cms](https://timesofindia.indiatimes.com/city/pune/2-rallies-2-5km-apart-2-pawars-leave-baramati-at-crossroads/articleshow/109865014.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T21:01:26+00:00
+
+As the clock ticked, the gathering grew for the final rally of NCP's Baramati Lok Sabha seat candidate Sunetra Pawar at the Christian Colony ground. Barely 2.5km away, supporters of NCP (SCP) candidate Supriya Sule huddled at Kasba ground to hear veteran politician Sharad Pawar and entourage on the last day of campaigning before the election on Tuesday.
+
 ## 2 rallies, 2.5km apart: 2 Pawars leave Baramati at crossroads
  - [https://timesofindia.indiatimes.com/india/2-rallies-2-5km-apart-2-pawars-leave-baramati-at-crossroads/articleshow/109865014.cms](https://timesofindia.indiatimes.com/india/2-rallies-2-5km-apart-2-pawars-leave-baramati-at-crossroads/articleshow/109865014.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
@@ -160,6 +258,13 @@ As the clock ticked, the gathering grew for the final rally of NCP's Baramati Lo
  - date published: 2024-05-05T20:53:48+00:00
 
 The SUV was registered in the name of SP district president Ashish Yadav, police said on Sunday, adding that "a probe is on to find out who was at the wheel of the vehicle." Incidentally, CCTV footage purportedly showed Kumar slowly taking a right turn towards the pump when the SUV hit him. In the footage, the victim could be seen tossed up in the air for a few seconds before falling on the road.
+
+## WB guv gags Raj Bhavan staff; why so scared, asks survivor
+ - [https://timesofindia.indiatimes.com/city/kolkata/west-bengal-governor-gags-raj-bhavan-staff-why-so-scared-asks-survivor/articleshow/109864998.cms](https://timesofindia.indiatimes.com/city/kolkata/west-bengal-governor-gags-raj-bhavan-staff-why-so-scared-asks-survivor/articleshow/109864998.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T20:51:29+00:00
+
+Bengal governor C V Ananda Bose, who has been accused by a woman of sexual harassment, on Sunday cited his constitutional immunity from criminal proceedings and issued a blanket order on Raj Bhavan staff, asking them to “ignore any communication from police” and barring them from issuing statements in any form.
 
 ## WB guv gags Raj Bhavan staff; why so scared, asks survivor
  - [https://timesofindia.indiatimes.com/india/west-bengal-governor-gags-raj-bhavan-staff-why-so-scared-asks-survivor/articleshow/109864998.cms](https://timesofindia.indiatimes.com/india/west-bengal-governor-gags-raj-bhavan-staff-why-so-scared-asks-survivor/articleshow/109864998.cms)
@@ -188,6 +293,13 @@ Campaigning for the third phase of Lok Sabha elections on May 7 ended Sunday in 
  - date published: 2024-05-05T20:16:43+00:00
 
 Defence minister Rajnath Singh on Sunday said if elected to govern again, the NDA govt will implement the "one-nation-one-election" policy in the next five years. He accused the YSRCP govt of leading the state into a debt trap with its "corrupt" practices, adding that Andhra Pradesh's debt has skyrocketed to Rs 13.5 lakh crore during the current regime.
+
+## Heard of Sardar Patel Party? Well, I-T probed it for Rs 56cr donation
+ - [https://timesofindia.indiatimes.com/city/mumbai/heard-of-sardar-patel-party-well-income-tax-department-probed-it-for-rs-56-crore-donation-in-2022/articleshow/109864926.cms](https://timesofindia.indiatimes.com/city/mumbai/heard-of-sardar-patel-party-well-income-tax-department-probed-it-for-rs-56-crore-donation-in-2022/articleshow/109864926.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T20:14:01+00:00
+
+SVPP had no visible activity but had received a Rs 55.5 crore in donation when it was raided by tax officials in 2022, according to income-expense details submitted to the Election Commission that year. All three candidates of SVPP have shown nil income in poll affidavits; they do not own any vehicle, and two of them have submitted that they do not even have a house.
 
 ## Heard of Sardar Patel Party? Well, I-T probed it for Rs 56cr donation in 2022
  - [https://timesofindia.indiatimes.com/india/heard-of-sardar-patel-party-well-income-tax-department-probed-it-for-rs-56-crore-donation-in-2022/articleshow/109864926.cms](https://timesofindia.indiatimes.com/india/heard-of-sardar-patel-party-well-income-tax-department-probed-it-for-rs-56-crore-donation-in-2022/articleshow/109864926.cms)
@@ -282,6 +394,13 @@ Sunil Narine's brilliant fifty, combined with a strong collective performance fr
 
 ## Raging wildfires disrupt life in Uttarakhand, claim 4th life in 3 days
  - [https://timesofindia.indiatimes.com/india/forest-fires-claim-another-life-in-uttarakhand-4th-casualty-in-3-days-jungles-across-state-burning-over-1100-ha-gutted/articleshow/109864255.cms](https://timesofindia.indiatimes.com/india/forest-fires-claim-another-life-in-uttarakhand-4th-casualty-in-3-days-jungles-across-state-burning-over-1100-ha-gutted/articleshow/109864255.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T18:02:01+00:00
+
+Raging fires in several forest ranges of Uttarakhand have claimed the life of a 28-year-old woman — the fourth casualty in the past three days — even as the Adi Kailash helicopter darshan service, which began last month, has been suspended for the second day in a row. Flight arrivals at the Naini-Saini airport in Pithoragarh have been stopped due to low visibility in fire-induced haze.
+
+## Raging wildfires disrupt life in Uttarakhand, claim 5 lives in 3 days
+ - [https://timesofindia.indiatimes.com/city/dehradun/forest-fires-claim-another-life-in-uttarakhand-4th-casualty-in-3-days-jungles-across-state-burning-over-1100-ha-gutted/articleshow/109864255.cms](https://timesofindia.indiatimes.com/city/dehradun/forest-fires-claim-another-life-in-uttarakhand-4th-casualty-in-3-days-jungles-across-state-burning-over-1100-ha-gutted/articleshow/109864255.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-05-05T18:02:01+00:00
 
@@ -545,6 +664,13 @@ Wherever he's stationed, every move Virat Kohli makes on the field gets captured
  - date published: 2024-05-05T07:50:05+00:00
 
 Royal Challengers Bangalore secured victory in the IPL match against Gujarat Titans, with key performances from Faf du Plessis and Virat Kohli. The win also impacted the IPL 2024 Points Table and the Orange and Purple Cap races significantly.
+
+## AC gas leak: What is it, why it happens and tips to prevent it
+ - [https://timesofindia.indiatimes.com/technology/tech-tips/ac-gas-leak-what-is-it-why-it-happens-and-tips-to-prevent-it/articleshow/109855100.cms](https://timesofindia.indiatimes.com/technology/tech-tips/ac-gas-leak-what-is-it-why-it-happens-and-tips-to-prevent-it/articleshow/109855100.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-05T07:40:13+00:00
+
+Poor AC cooling can stem from various issues like dirty filtres or refrigerant leaks. Preventive measures include using copper condensers, proper installation, and regular maintenance to avoid efficiency reduction and extend the AC lifespan.
 
 ## Pesticide residue in Indian herbs and spices? FSSAI rejects claims
  - [https://timesofindia.indiatimes.com/business/india-business/reports-claiming-high-pesticide-residue-on-indian-herbs-spices-false-and-malicious-fssai/articleshow/109854895.cms](https://timesofindia.indiatimes.com/business/india-business/reports-claiming-high-pesticide-residue-on-indian-herbs-spices-false-and-malicious-fssai/articleshow/109854895.cms)

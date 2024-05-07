@@ -1,5 +1,12 @@
 # Source:Security Affairs, URL:https://securityaffairs.com/feed, language:en-US
 
+## Ransomware drama: Law enforcement seized Lockbit group’s website again
+ - [https://securityaffairs.com/162778/cyber-crime/law-enforcement-seized-lockbit-site-again.html](https://securityaffairs.com/162778/cyber-crime/law-enforcement-seized-lockbit-site-again.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2024-05-05T22:46:10+00:00
+
+Law enforcement seized the Lockbit group&#8217;s Tor website again and announced they will reveal more identities of its operators Law enforcement seized the Lockbit group&#8217;s Tor website again. The authorities resumed the Lockbit seized leak site and mocked its administrators. According to the countdown active on the seized, law enforcement that are currently controlling the [&#8230;]
+
 ## NATO and the EU formally condemned Russia-linked APT28 cyber espionage
  - [https://securityaffairs.com/162759/apt/nato-eu-condemned-apt28-espionage.html](https://securityaffairs.com/162759/apt/nato-eu-condemned-apt28-espionage.html)
  - RSS feed: https://securityaffairs.com/feed

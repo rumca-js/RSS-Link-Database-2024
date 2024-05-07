@@ -1,5 +1,33 @@
 # Source:3D Printing, URL:https://www.reddit.com/r/3Dprinting/.rss, language:en
 
+## Print not clean/sticking?
+ - [https://www.reddit.com/r/3Dprinting/comments/1cl5c2j/print_not_cleansticking](https://www.reddit.com/r/3Dprinting/comments/1cl5c2j/print_not_cleansticking)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-05-05T23:59:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1cl5c2j/print_not_cleansticking/"> <img alt="Print not clean/sticking?" src="https://preview.redd.it/04xvlpbg5pyc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b0710ceebc0fdd90695596c55185424d243a22f" title="Print not clean/sticking?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Heya, so I’m borrowing my friend’s Ender3v3 and we both have no idea what’s causing the print to do this I’ve run it through the leveling program on it multiple times and even reset the printer entirely. At one point, the print globbed up at the nozzle and none of it stuck to the bed I’m really new to 3D printing and I’m hoping I could get some help, thanks! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gloomy_Pause8297"> /u/Gloomy_Pause8297 </a> <br /> <span><a href="https://i.redd.it/04xvlpbg5pyc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comment
+
+## What to use now that Photoshop's 3D features are truly gone...
+ - [https://www.reddit.com/r/3Dprinting/comments/1cl4f6p/what_to_use_now_that_photoshops_3d_features_are](https://www.reddit.com/r/3Dprinting/comments/1cl4f6p/what_to_use_now_that_photoshops_3d_features_are)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-05-05T23:15:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, in the last week, my version of Photoshop got updated [despite my best efforts] and all of my remaining 3d features have been removed. For the last two years, it was my go-to program for taking a simple JPG file and making it in to a quality extrusion (STL/OBJ) file, but Adobe is now using &quot;Substance&quot;, which from what I've been able to tell, looks more like it's for 3d animation than simple extrusions.</p> <p>I'm curious to know what software other people use to do simple things (e.g. as adding an extrusion or negative space in the shape of their favorite sports team's logo) that requires converting a 2D image like a JPG or PNG to a 3d one like an STL or OBJ. I was able to do something close in SelfCAD (it's been a while since I used any software piece <em>that</em> klunky), but it was impossible to smooth the image out so it didn't look like it belonged in an 8-bit Mario game... same with most of the online converters.</p> <p>I mostly p
+
+## Dummy 13
+ - [https://www.reddit.com/r/3Dprinting/comments/1cl46vu/dummy_13](https://www.reddit.com/r/3Dprinting/comments/1cl46vu/dummy_13)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-05-05T23:05:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1cl46vu/dummy_13/"> <img alt="Dummy 13" src="https://b.thumbs.redditmedia.com/2NauxlTbk0pMlXEG7GqR29VNtjoT3S3t6T-wWhaYgwI.jpg" title="Dummy 13" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Practice_9175"> /u/No_Practice_9175 </a> <br /> <span><a href="https://www.reddit.com/gallery/1cl46vu">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1cl46vu/dummy_13/">[comments]</a></span> </td></tr></table>
+
+## I don't think he likes to be turned off...
+ - [https://www.reddit.com/r/3Dprinting/comments/1cl3z82/i_dont_think_he_likes_to_be_turned_off](https://www.reddit.com/r/3Dprinting/comments/1cl3z82/i_dont_think_he_likes_to_be_turned_off)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-05-05T22:55:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1cl3z82/i_dont_think_he_likes_to_be_turned_off/"> <img alt="I don't think he likes to be turned off... " src="https://external-preview.redd.it/Z3k1b2w4YXh0b3ljMQBoPs_1p6PEGvZcNRhv1Qy9fLtuj9-jGany8Z9nFfty.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b763341a0dced7a9bf4bb4ecb00f982e04ae89d4" title="I don't think he likes to be turned off... " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OneIdMonSTR"> /u/OneIdMonSTR </a> <br /> <span><a href="https://v.redd.it/excymlfxtoyc1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1cl3z82/i_dont_think_he_likes_to_be_turned_off/">[comments]</a></span> </td></tr></table>
+
 ## Flower Pots!!
  - [https://www.reddit.com/r/3Dprinting/comments/1cl2au5/flower_pots](https://www.reddit.com/r/3Dprinting/comments/1cl2au5/flower_pots)
  - RSS feed: https://www.reddit.com/r/3Dprinting/.rss

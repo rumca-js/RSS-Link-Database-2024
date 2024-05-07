@@ -1,5 +1,26 @@
 # Source:Channel Asia Latest News, URL:https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml, language:en
 
+## EU chief will urge 'fair' China competition in talks with Xi Jinping
+ - [https://www.channelnewsasia.com/world/eu-chief-urge-fair-china-competition-xi-jinping-4315031](https://www.channelnewsasia.com/world/eu-chief-urge-fair-china-competition-xi-jinping-4315031)
+ - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+ - date published: 2024-05-06T00:00:00+00:00
+
+
+
+## Singtel-owned Optus names broadband network boss Stephen Rue as new CEO
+ - [https://www.channelnewsasia.com/business/singtel-owned-optus-names-broadband-network-boss-stephen-rue-new-ceo-4315026](https://www.channelnewsasia.com/business/singtel-owned-optus-names-broadband-network-boss-stephen-rue-new-ceo-4315026)
+ - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+ - date published: 2024-05-05T23:41:44+00:00
+
+
+
+## Work It Podcast: Overcoming imposter syndrome
+ - [https://www.channelnewsasia.com/podcasts/overcoming-imposter-syndrome-companies-learning-curve-work-it-4308221](https://www.channelnewsasia.com/podcasts/overcoming-imposter-syndrome-companies-learning-curve-work-it-4308221)
+ - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+ - date published: 2024-05-05T23:29:46+00:00
+
+In every new level of your career, you will meet a new "devil". So how do you overcome imposter syndrome?
+
 ## Should you ever start a business with your mum? These mother-daughter pairs tell us how they make it work
  - [https://www.channelnewsasia.com/women/mother-and-daughter-businesses-her-wellness-club-yeomama-batik-teaspoon-love-4308226](https://www.channelnewsasia.com/women/mother-and-daughter-businesses-her-wellness-club-yeomama-batik-teaspoon-love-4308226)
  - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml

@@ -1,5 +1,33 @@
 # Source:BBC, URL:https://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
+## 'Work to do' after local election losses - Sunak
+ - [https://www.bbc.co.uk/news/uk-politics-68963221](https://www.bbc.co.uk/news/uk-politics-68963221)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-05-05T23:59:27+00:00
+
+Rejecting calls to change course, the PM says he can make "progress" with voters before a general election.
+
+## The rise of Sweden's super rich
+ - [https://www.bbc.co.uk/news/business-68927238](https://www.bbc.co.uk/news/business-68927238)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-05-05T23:44:38+00:00
+
+Why the Nordic nation, despite its reputation for social equality, has so many billionaires.
+
+## Eurotunnel says no queues with new travel system
+ - [https://www.bbc.com/news/articles/cg30l198yr1o](https://www.bbc.com/news/articles/cg30l198yr1o)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-05-05T23:41:56+00:00
+
+The firm's boss says extra lanes and technology means changes starting in October will go smoothly.
+
+## Three bodies found in Mexico had bullet wounds to heads
+ - [https://www.bbc.com/news/articles/cd13vgg720jo](https://www.bbc.com/news/articles/cd13vgg720jo)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-05-05T23:41:15+00:00
+
+Authorities believe three tourists were attacked as they were trying to fend off an attempted theft.
+
 ## Watch: World Athletics Relays
  - [https://www.bbc.co.uk/iplayer/episode/p0hw681h](https://www.bbc.co.uk/iplayer/episode/p0hw681h)
  - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
@@ -14,12 +42,26 @@ Coverage of Day 2 of the World Athletics Relays.
 
 Mikey Roynon, 16, was killed with a zombie knife. The BBC speaks to those touched by his death.
 
+## Reiten scores four in Chelsea's 8-0 win over Bristol City
+ - [https://www.bbc.com/sport/videos/c51nwgjny00o](https://www.bbc.com/sport/videos/c51nwgjny00o)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-05-05T23:06:56+00:00
+
+Watch highlights as Chelsea put eight goals past Bristol City, keeping their Women's Super League title hopes alive.
+
 ## The Papers: Sunak 'told to show vision' and Bernard Hill dies
  - [https://www.bbc.com/news/articles/cp9gx841283o](https://www.bbc.com/news/articles/cp9gx841283o)
  - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
  - date published: 2024-05-05T23:06:18+00:00
 
 Monday's papers focus on local election disappointment for the Tories.
+
+## Root leads calls for changes to domestic schedule
+ - [https://www.bbc.com/sport/cricket/articles/cqvn97dvvd8o](https://www.bbc.com/sport/cricket/articles/cqvn97dvvd8o)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-05-05T23:01:12+00:00
+
+Joe Root is leading calls from players to reduce the amount of domestic cricket and review a schedule that is “not fit for purpose”.
 
 ## Norris beats Verstappen in Miami for first F1 win
  - [https://www.bbc.com/sport/articles/c0klxx859neo](https://www.bbc.com/sport/articles/c0klxx859neo)
@@ -83,6 +125,13 @@ Tottenham's dramatic decline in form has come just at the crucial point of the P
  - date published: 2024-05-05T19:35:35+00:00
 
 The world's biggest song contest reaches its finale on Saturday and contestants have arrived in style.
+
+## Police probe baby's cardiac arrest at theme park
+ - [https://www.bbc.co.uk/news/uk-england-berkshire-68962869](https://www.bbc.co.uk/news/uk-england-berkshire-68962869)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-05-05T18:44:54+00:00
+
+A woman is arrested on suspicion of neglecting a five-month-old boy who is in a critical condition.
 
 ## Semi-final was lost in first half - Quins coach Wilson
  - [https://www.bbc.com/sport/rugby-union/articles/ce43wz5p4r5o](https://www.bbc.com/sport/rugby-union/articles/ce43wz5p4r5o)

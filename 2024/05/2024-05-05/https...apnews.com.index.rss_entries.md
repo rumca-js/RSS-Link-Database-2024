@@ -1,5 +1,61 @@
 # Source:Associated Press News: Breaking News, Latest Headlines and Videos, URL:https://apnews.com/index.rss, language:en
 
+## Taylor Pendrith wins Byron Nelson as Kohles falters. Koepka wins for 4th time on LIV
+ - [https://apnews.com/sports/golf-taylor-pendrith-brooks-koepka-ben-kohles-05a6fd6dceb1e1bbf933d7f9bc346f1f](https://apnews.com/sports/golf-taylor-pendrith-brooks-koepka-ben-kohles-05a6fd6dceb1e1bbf933d7f9bc346f1f)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-05T23:30:00+00:00
+
+McKINNEY, Texas (AP) — Taylor Pendrith took advantage of Ben Kohles' final-hole meltdown to win the CJ Cup Byron Nelson on Sunday for his first PGA Tour title.
+
+## Mariners beat Astros 5-4 thanks to 9th inning Raleigh homer
+ - [https://apnews.com/sports/baseball-seattle-mariners-houston-astros-c8a729f40f7e9585f8414063005e310a](https://apnews.com/sports/baseball-seattle-mariners-houston-astros-c8a729f40f7e9585f8414063005e310a)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-05T23:20:44+00:00
+
+HOUSTON (AP) — Cal Raleigh hit a tiebreaking solo home run in the ninth to give the Seattle Mariners a 5-4 win over the Houston Astros on Sunday.
+
+## Guardians to place Steven Kwan on injured list and recall prospect Kyle Manzardo, AP source says
+ - [https://apnews.com/article/guardians-kwan-manzardo-a367bd7a5069225186872d16a9cefa2d](https://apnews.com/article/guardians-kwan-manzardo-a367bd7a5069225186872d16a9cefa2d)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-05T23:18:53+00:00
+
+A person familiar with the moves tells AP that the Cleveland Guardians will place leadoff hitter Steven Kwan on the injured list with a hamstring strain and call up top prospect Kyle Manzardo.
+
+## Diamondbacks end 3-game losing streak, pound Padres 11-4
+ - [https://apnews.com/article/dbacks-padres-score-8802ff8fd15da616037de9980a35631e](https://apnews.com/article/dbacks-padres-score-8802ff8fd15da616037de9980a35631e)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-05T23:17:03+00:00
+
+Ketel Marte and Joc Pederson homered to back Ryne Nelson’s return to the mound and the Arizona Diamondbacks snapped a three-game losing streak, defeating the San Diego Padres 11-4.
+
+## Nick Gordon homers and gets 4 hits to lead Marlins past A's 12-3
+ - [https://apnews.com/article/marlins-athletics-score-b2d74175830183fd78b964b4aef19ee6](https://apnews.com/article/marlins-athletics-score-b2d74175830183fd78b964b4aef19ee6)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-05T23:15:45+00:00
+
+Nick Gordon had four hits, including his first home run in three weeks, and the Miami Marlins beat the Athletics 12-3 to end Oakland’s six-game winning streak.
+
+## Taylor Pendrith gets 1st PGA Tour win at Byron Nelson after final-hole collapse from Ben Kohles
+ - [https://apnews.com/article/byron-nelson-golf-f6517a80827a80c7d1f27d66e9426036](https://apnews.com/article/byron-nelson-golf-f6517a80827a80c7d1f27d66e9426036)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-05T23:15:39+00:00
+
+Taylor Pendrith took advantage of Ben Kohles’ final-hole meltdown to win the CJ Cup Byron Nelson on Sunday for his first PGA Tour title.
+
+## Zibanejad has 2 goals and 1 assist, Panarin scores as Rangers beat Hurricanes 4-3 in Game 1
+ - [https://apnews.com/article/hurricanes-rangers-score-playoffs-da360c7a240b6b29bb25d12109b088b7](https://apnews.com/article/hurricanes-rangers-score-playoffs-da360c7a240b6b29bb25d12109b088b7)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-05T23:05:23+00:00
+
+Mika Zibanejad had two goals and an assist, Artemi Panarin also scored and the New York Rangers beat the Carolina Hurricanes 4-3 in Game 1 of their second-round series.
+
+## Kremer pitches 6 shutout innings and Santander hits a grand slam to help Orioles sweep Reds
+ - [https://apnews.com/article/orioles-reds-score-kremer-santander-980456f79b76dff5cc3a34513c4f5383](https://apnews.com/article/orioles-reds-score-kremer-santander-980456f79b76dff5cc3a34513c4f5383)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-05T23:03:06+00:00
+
+Dean Kremer pitched six shutout innings, Anthony Santander hit his third career grand slam and the Baltimore Orioles completed a three-game series sweep of the Cincinnati Reds with an 11-1 victory.
+
 ## Magic crumble in second half, lose Game 7 despite Paolo Bachero's 38 points and stellar series
  - [https://apnews.com/article/orlando-magic-paolo-banchero-fda8da7674e9485cec506517513eb32a](https://apnews.com/article/orlando-magic-paolo-banchero-fda8da7674e9485cec506517513eb32a)
  - RSS feed: https://apnews.com/index.rss

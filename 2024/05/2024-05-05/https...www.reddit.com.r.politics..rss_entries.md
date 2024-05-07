@@ -1,11 +1,39 @@
 # Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
 
+## House Minority Leader Hakeem Jeffries says Democrats "effectively have been governing as if we were in the majority"
+ - [https://www.reddit.com/r/politics/comments/1cl4hgt/house_minority_leader_hakeem_jeffries_says](https://www.reddit.com/r/politics/comments/1cl4hgt/house_minority_leader_hakeem_jeffries_says)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-05T23:18:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cl4hgt/house_minority_leader_hakeem_jeffries_says/"> <img alt="House Minority Leader Hakeem Jeffries says Democrats &quot;effectively have been governing as if we were in the majority&quot;" src="https://external-preview.redd.it/932yDwgivmoD-wwx-CwKV-qeldUTZeRNEa5sbo3W7HY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78cb1170e484e781816aa007bdcd4a8d0a6c2d04" title="House Minority Leader Hakeem Jeffries says Democrats &quot;effectively have been governing as if we were in the majority&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RavensEvermore"> /u/RavensEvermore </a> <br /> <span><a href="https://www.cbsnews.com/amp/news/hakeem-jeffries-house-talks-house-divisions-israel-issues-facing-voters-60-minutes/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cl4hgt/house_minority_leader_hakeem_jeffries_says/">[comments]</a></span> </td></tr></t
+
+## Kristi Noem Cries ‘Fake News’ After Disastrous Interview on CBS
+ - [https://www.reddit.com/r/politics/comments/1cl4bmv/kristi_noem_cries_fake_news_after_disastrous](https://www.reddit.com/r/politics/comments/1cl4bmv/kristi_noem_cries_fake_news_after_disastrous)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-05T23:11:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cl4bmv/kristi_noem_cries_fake_news_after_disastrous/"> <img alt="Kristi Noem Cries ‘Fake News’ After Disastrous Interview on CBS" src="https://external-preview.redd.it/PUmoNA5iN2gIdZqjuL1AAtvdEDSJhmbONPHMaHFPbRk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39bc2e741bcef1b222ef4a292ad2fb764dbc79c9" title="Kristi Noem Cries ‘Fake News’ After Disastrous Interview on CBS" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.thedailybeast.com/kristi-noem-cries-fake-news-after-disastrous-interview-on-cbs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cl4bmv/kristi_noem_cries_fake_news_after_disastrous/">[comments]</a></span> </td></tr></table>
+
+## Biden administration pauses ammunition shipment to Israel
+ - [https://www.reddit.com/r/politics/comments/1cl3rtd/biden_administration_pauses_ammunition_shipment](https://www.reddit.com/r/politics/comments/1cl3rtd/biden_administration_pauses_ammunition_shipment)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-05T22:45:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cl3rtd/biden_administration_pauses_ammunition_shipment/"> <img alt="Biden administration pauses ammunition shipment to Israel" src="https://external-preview.redd.it/MukV7J4T0xozBc3lS5Tl-oizhKktfDfQynn-P3vyZYY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c476eb5c79d597e51e1f9296bfe84e793af62b2" title="Biden administration pauses ammunition shipment to Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/onlyonthetoilet"> /u/onlyonthetoilet </a> <br /> <span><a href="https://www.cnn.com/2024/05/05/politics/war-israel-palestine-gaza-biden-weapons/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cl3rtd/biden_administration_pauses_ammunition_shipment/">[comments]</a></span> </td></tr></table>
+
 ## Congress voted against funding a cure for cancer just to block a win for Biden
  - [https://www.reddit.com/r/politics/comments/1cl34r6/congress_voted_against_funding_a_cure_for_cancer](https://www.reddit.com/r/politics/comments/1cl34r6/congress_voted_against_funding_a_cure_for_cancer)
  - RSS feed: https://www.reddit.com/r/politics/.rss
  - date published: 2024-05-05T22:17:20+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cl34r6/congress_voted_against_funding_a_cure_for_cancer/"> <img alt="Congress voted against funding a cure for cancer just to block a win for Biden" src="https://external-preview.redd.it/vEZNQ4STYhmM5vvpHfdSq4DvO9qP_1_Hhs7Vjdjg1B4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5bb28bc5781637c2dfe05c3f5b345f26ea1b6ab" title="Congress voted against funding a cure for cancer just to block a win for Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TurretLauncher"> /u/TurretLauncher </a> <br /> <span><a href="https://www.usatoday.com/story/opinion/voices/2024/05/05/biden-cancer-moonshot-initiative-congress-funding/73525016007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cl34r6/congress_voted_against_funding_a_cure_for_cancer/">[comments]</a></span> </td></tr></table>
+
+## Trump Shows Up at Miami Grand Prix Despite Organizers' Decision to Shut Down Fundraiser
+ - [https://www.reddit.com/r/politics/comments/1cl2y49/trump_shows_up_at_miami_grand_prix_despite](https://www.reddit.com/r/politics/comments/1cl2y49/trump_shows_up_at_miami_grand_prix_despite)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-05T22:09:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cl2y49/trump_shows_up_at_miami_grand_prix_despite/"> <img alt="Trump Shows Up at Miami Grand Prix Despite Organizers' Decision to Shut Down Fundraiser" src="https://external-preview.redd.it/MTICLLKOEMvp9sRoJHDOOFNVeyts6D9PWsbsXYk8sxE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4517be261962ecb10a799be5772e5c9a9f49d556" title="Trump Shows Up at Miami Grand Prix Despite Organizers' Decision to Shut Down Fundraiser" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SFT3076"> /u/SFT3076 </a> <br /> <span><a href="https://www.miaminewtimes.com/news/donald-trump-visits-miami-grand-prix-formula-1-race-19781204">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cl2y49/trump_shows_up_at_miami_grand_prix_despite/">[comments]</a></span> </td></tr></table>
 
 ## Lara Trump's new RNC plan sparks backlash
  - [https://www.reddit.com/r/politics/comments/1cl0ziy/lara_trumps_new_rnc_plan_sparks_backlash](https://www.reddit.com/r/politics/comments/1cl0ziy/lara_trumps_new_rnc_plan_sparks_backlash)

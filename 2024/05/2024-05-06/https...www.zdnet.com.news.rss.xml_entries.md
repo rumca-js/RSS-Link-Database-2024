@@ -1,0 +1,310 @@
+# Source:ZDNET, URL:https://www.zdnet.com/news/rss.xml, language:en-US
+
+## The Arlo Pro 5S is a 2K-resolution battery camera that won't miss a beat
+ - [https://www.zdnet.com/home-and-office/smart-home/the-arlo-pro-5s-is-a-2k-resolution-battery-camera-that-wont-miss-a-beat/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/the-arlo-pro-5s-is-a-2k-resolution-battery-camera-that-wont-miss-a-beat/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T20:44:00+00:00
+
+The Arlo Pro 5S 2K captures outdoor movement near-instantly, but brand-exclusive features make it harder to recommend to everyone.
+
+## I found the most customizable smart home accessory ever, and it's 30% off
+ - [https://www.zdnet.com/home-and-office/smart-home/i-found-the-most-customizable-smart-home-accessory-ever-mothers-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/i-found-the-most-customizable-smart-home-accessory-ever-mothers-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T20:33:00+00:00
+
+Govee's new Neon Rope Light 2 makes it easy to decorate your home, has quickly become a staple in my household, and is available for only $70 in time for Mother's Day.
+
+## The Ring Battery Doorbell Plus is the best wireless video doorbell for Ring fans
+ - [https://www.zdnet.com/home-and-office/smart-home/the-ring-battery-doorbell-plus-is-the-best-wireless-video-doorbell-for-ring-fans/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/the-ring-battery-doorbell-plus-is-the-best-wireless-video-doorbell-for-ring-fans/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T20:27:00+00:00
+
+If you're a Ring user looking to upgrade to a battery-powered video doorbell, the Ring Battery Doorbell Plus is the perfect choice.
+
+## One of my top 3 robot vacuum and mops is $300 off in time for Mother's Day
+ - [https://www.zdnet.com/home-and-office/kitchen-household/one-of-my-top-3-robot-vacuum-and-mops-is-300-off-in-time-for-mothers-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/one-of-my-top-3-robot-vacuum-and-mops-is-300-off-in-time-for-mothers-day/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T20:22:00+00:00
+
+The Eufy X9 Pro is one of the most intelligent robot vacuum mops I've tested, and it's all thanks to the impressive technology packed inside. It's currently on sale for only $600.
+
+## How much tech can I get from Temu for $100 (and is it any good)?
+ - [https://www.zdnet.com/home-and-office/smart-office/how-much-tech-can-i-get-for-100-from-temu/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/how-much-tech-can-i-get-for-100-from-temu/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T20:18:00+00:00
+
+Dive into my Temu shopping experiment. I spent $100 for 18 gadgets. Did I save money compared to Amazon and/or regret my picks? Read on to find out.
+
+## This smart security camera impressed me in the most unexpected way
+ - [https://www.zdnet.com/home-and-office/smart-home/this-smart-security-camera-impressed-me-in-the-most-unexpected-way/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/this-smart-security-camera-impressed-me-in-the-most-unexpected-way/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T20:17:00+00:00
+
+The battery-powered Ring Spotlight Cam Pro has a wide field of view and HDR video support. But there's an even better feature.
+
+## Shopping for Mother's Day? This robot vacuum is a steal at $400 with an Amazon deal
+ - [https://www.zdnet.com/article/shopping-for-mothers-day-this-robot-vacuum-is-a-steal-at-400-with-an-amazon-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/shopping-for-mothers-day-this-robot-vacuum-is-a-steal-at-400-with-an-amazon-deal/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T20:13:00+00:00
+
+The Eufy X8 Pro is 38% off right now on Amazon, and if you have a lot of carpet in your home, this is a must-have robot vacuum.
+
+## The battery-powered Blink Outdoor 4 Floodlight Camera is just what my dark yard needed
+ - [https://www.zdnet.com/home-and-office/smart-home/the-battery-powered-blink-outdoor-4-floodlight-camera-is-just-what-my-dark-yard-needed/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/the-battery-powered-blink-outdoor-4-floodlight-camera-is-just-what-my-dark-yard-needed/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T20:07:00+00:00
+
+Looking for a battery-powered floodlight camera? You can't beat this 40% discount for Blink's Outdoor 4 Floodlight Camera.
+
+## The Ecovacs Deebot X2 Omni robot vacuum and mop is $500 off with this Amazon deal
+ - [https://www.zdnet.com/home-and-office/kitchen-household/the-ecovacs-deebot-x2-omni-robot-vacuum-and-mop-is-500-off-with-this-amazon-mothers-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/the-ecovacs-deebot-x2-omni-robot-vacuum-and-mop-is-500-off-with-this-amazon-mothers-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:54:00+00:00
+
+The Ecovacs Deebot X2 Omni is a jack-of-all-trades robot vacuum mop with a unique square form that sets it apart from the competition. And it's $500 off on Amazon just in time for Mother's Day.
+
+## The waterproof Blink Mini 2 is the best Wyze Cam alternative available
+ - [https://www.zdnet.com/home-and-office/smart-home/the-blink-mini-2-is-the-best-wyze-cam-alternative-available/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/the-blink-mini-2-is-the-best-wyze-cam-alternative-available/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:48:00+00:00
+
+The newest version of the Blink Mini sees key improvements that make it worthy even for non-budget shoppers.
+
+## The latest Echo Show 8 is only $100 ahead of Mother's Day on Amazon
+ - [https://www.zdnet.com/home-and-office/smart-home/the-latest-echo-show-8-is-only-100-ahead-of-mothers-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/the-latest-echo-show-8-is-only-100-ahead-of-mothers-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:43:00+00:00
+
+Amazon's third-generation Echo Show features faster speeds and an ambient-powered display to streamline your smart home experience at 33% off with this limited-time Mother's Day deal.
+
+## The best Bluetooth turntables of 2024: Expert tested and recommended
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-bluetooth-turntable/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-bluetooth-turntable/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:41:50+00:00
+
+I tested some of the best Bluetooth turntables and spoke to music industry experts to help you find the best one for your audio setup.
+
+## How to record a call on your iPhone (and check if it's legal in your state)
+ - [https://www.zdnet.com/article/how-to-record-a-call-on-iphone/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-record-a-call-on-iphone/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:39:00+00:00
+
+There are many reasons for recording a conversation with your iPhone, but only a few ways to actually do it. We round up your best options, plus some legal guidance.
+
+## Get Microsoft Office Pro 2021 and Windows 11 Pro bundled for $70 right now
+ - [https://www.zdnet.com/article/microsoft-office-pro-2021-windows-11-pro-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-office-pro-2021-windows-11-pro-deal/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:30:17+00:00
+
+This lifetime license bundle deal gives you access to the entire Microsoft Office Pro 2021 suite and Windows 11 Pro for over 80% off.
+
+## 5 quick tweaks make your GNOME desktop so much easier to use
+ - [https://www.zdnet.com/article/5-quick-tweaks-make-your-gnome-desktop-so-much-easier-to-use/#ftag=RSSbaffb68](https://www.zdnet.com/article/5-quick-tweaks-make-your-gnome-desktop-so-much-easier-to-use/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:27:55+00:00
+
+Every GNOME user should do these five things to their desktop environment right away. They make a big difference and all can be accomplished in minutes.
+
+## The best NAS devices of 2024
+ - [https://www.zdnet.com/article/best-network-attached-storage/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-network-attached-storage/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:23:37+00:00
+
+The best NAS storage devices feature user-friendly interfaces, fast performance, and excellent app availability.
+
+## The best electric screwdrivers of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/home-and-office/best-electric-screwdriver/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-electric-screwdriver/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:12:06+00:00
+
+I tested some of the best electric screwdrivers on the market to help you find the right one to make your DIY tasks faster and easier.
+
+## The best flower delivery services of 2024
+ - [https://www.zdnet.com/home-and-office/kitchen-household/best-flower-delivery/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/best-flower-delivery/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:10:20+00:00
+
+Looking to send someone flowers this Mother's Day? The best flower delivery services offer same-day delivery options, gift baskets, and a variety of vibrant bouquets.
+
+## How I test an AI chatbot's coding ability - and you can too
+ - [https://www.zdnet.com/article/how-i-test-an-ai-chatbots-coding-ability-and-you-can-too/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-i-test-an-ai-chatbots-coding-ability-and-you-can-too/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:09:51+00:00
+
+This article provides detailed prompts and tests you can repeat on your favorite AI chatbot to see if it can reliably help you program.
+
+## Save $125 on a Nintendo Switch OLED at Walmart
+ - [https://www.zdnet.com/home-and-office/home-entertainment/save-125-on-a-nintendo-switch-oled-at-walmart/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/save-125-on-a-nintendo-switch-oled-at-walmart/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:08:50+00:00
+
+Grab this rare markdown on the Pokemon Scarlet/Violet Switch OLED at Walmart right now.
+
+## Pick up the 98-inch TCL S5 TV for $2,498 right now
+ - [https://www.zdnet.com/home-and-office/home-entertainment/pick-up-the-98-inch-tcl-s5-tv-for-2498-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/pick-up-the-98-inch-tcl-s5-tv-for-2498-right-now/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T19:03:29+00:00
+
+Whether you're a sports fanatic or movie buff, you need a great TV to catch all the action. And you can watch every game or premiere with this 98-inch TCl that's $1,500 off.
+
+## The HP Victus 15 gaming PC is $500 at Best Buy
+ - [https://www.zdnet.com/home-and-office/home-entertainment/black-friday-2023-hp-victus-best-buy-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-2023-hp-victus-best-buy-deal/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T18:58:59+00:00
+
+Gaming laptops can be difficult to find without spending thousands of dollars. But with this deal, this HP Victus 15 gaming laptop is $300 off at Best Buy.
+
+## The best portable jump starters of 2024: Expert tested
+ - [https://www.zdnet.com/home-and-office/yard-outdoors/best-portable-jump-starter/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/yard-outdoors/best-portable-jump-starter/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T18:51:00+00:00
+
+We tested the best portable jump starters from Stanley, Nexpow, and more to help you build the perfect roadside emergency kit for your car, truck, or SUV.
+
+## A smart calendar is the perfect Mother's Day gift, and this deal makes it sweeter
+ - [https://www.zdnet.com/home-and-office/smart-home/a-smart-calendar-is-the-perfect-mothers-day-gift-and-this-deal-makes-it-sweeter/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/a-smart-calendar-is-the-perfect-mothers-day-gift-and-this-deal-makes-it-sweeter/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T18:50:00+00:00
+
+In my constant battle to get organized, the Skylight Calendar ended up making the biggest difference.
+
+## This Nespresso machine is the perfect Mother's Day gift for coffee lovers, and it's $60 off
+ - [https://www.zdnet.com/home-and-office/this-nespresso-coffee-machine-is-the-perfect-mothers-day-gift-for-coffee-lovers-and-its-60-off/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/this-nespresso-coffee-machine-is-the-perfect-mothers-day-gift-for-coffee-lovers-and-its-60-off/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T18:34:00+00:00
+
+With this machine, your mom can make coffee-shop quality drinks at home, and it's 30% off.
+
+## 5 ways to declutter your Chrome browser - and take back control of your tab life
+ - [https://www.zdnet.com/home-and-office/work-life/5-ways-to-declutter-your-chrome-browser-and-take-back-control-of-your-tab-life/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/5-ways-to-declutter-your-chrome-browser-and-take-back-control-of-your-tab-life/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T18:22:00+00:00
+
+If you regularly suffer from too many open tabs and no way to obviously wrangle them into some semblance of order, fret not as there are things you can do to ease such a frustrating situation.
+
+## The best GaN chargers of 2024: Expert tested
+ - [https://www.zdnet.com/article/best-gan-charger/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-gan-charger/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T18:06:31+00:00
+
+Need a new charger? We tested and compared the best gallium nitride (GaN) chargers for your smartphone from Ugreen, Anker, Satechi, and more.
+
+## The best satellite phones of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-satellite-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-satellite-phone/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T17:45:33+00:00
+
+I tested the best satellite phones and communicators from Garmin, Motorola, and others, offering features such as messaging, live tracking, SOS, and global coverage.
+
+## YouTube's new AI-powered 'Jump Ahead' feature lets you skip to the good part
+ - [https://www.zdnet.com/home-and-office/home-entertainment/youtubes-new-ai-powered-jump-ahead-feature-lets-you-skip-to-the-good-part/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/youtubes-new-ai-powered-jump-ahead-feature-lets-you-skip-to-the-good-part/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T17:29:00+00:00
+
+The feature is rolling out to all YouTube Premium subscribers. Here's how to enable it.
+
+## Amazon Fire kids tablets are up to 36% off now, and they're perfect for summer travels
+ - [https://www.zdnet.com/article/amazon-fire-kids-tablets-are-up-to-36-off-and-theyre-perfect-for-summer-travel/#ftag=RSSbaffb68](https://www.zdnet.com/article/amazon-fire-kids-tablets-are-up-to-36-off-and-theyre-perfect-for-summer-travel/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T16:48:05+00:00
+
+If you're looking for a sturdy kids' tablet that'll last to take with you on summer adventures, you can't go wrong with these Amazon Fire options, which are on sale now.
+
+## Spiral Linux offers a handy tool that can keep you from spiraling if you lose a file
+ - [https://www.zdnet.com/article/spiral-linux-offers-a-handy-tool-that-can-keep-you-from-spiraling-if-you-lose-a-file/#ftag=RSSbaffb68](https://www.zdnet.com/article/spiral-linux-offers-a-handy-tool-that-can-keep-you-from-spiraling-if-you-lose-a-file/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T16:27:12+00:00
+
+If you're looking for a version of Linux that not only makes using Linux easy but also offers the necessary tools to keep you safe from data loss, Spiral Linux might be just the ticket.
+
+## Microsoft Edge update patches two security flaws and adds a handy speed test tool
+ - [https://www.zdnet.com/home-and-office/networking/microsoft-edge-update-patches-two-security-flaws-and-adds-a-handy-speed-test-tool/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/microsoft-edge-update-patches-two-security-flaws-and-adds-a-handy-speed-test-tool/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T16:19:55+00:00
+
+If Edge is your browser of choice, you'll want to upgrade to the latest release to enjoy these enhancements.
+
+## Need a new phone? Here were the world's 10 hottest sellers in Q1 2024
+ - [https://www.zdnet.com/article/need-a-new-phone-here-were-the-worlds-10-hottest-sellers-in-q1-2024/#ftag=RSSbaffb68](https://www.zdnet.com/article/need-a-new-phone-here-were-the-worlds-10-hottest-sellers-in-q1-2024/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T15:36:45+00:00
+
+Apple and Samsung dominated the best-selling smartphones last quarter, market researcher Counterpoint found. Here were the top 10 most popular models.
+
+## We found a way to escape Meta AI on Facebook - but there's a catch
+ - [https://www.zdnet.com/article/we-finally-found-a-way-to-escape-meta-ai-on-facebook-but-theres-a-catch/#ftag=RSSbaffb68](https://www.zdnet.com/article/we-finally-found-a-way-to-escape-meta-ai-on-facebook-but-theres-a-catch/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T15:08:00+00:00
+
+Hate Facebook's new Meta AI tool? There's a way to browse Facebook without it, but you'll have to sacrifice a little.
+
+## Samsung has a new entry-level OLED TV and it costs $900 less than the S95D
+ - [https://www.zdnet.com/home-and-office/home-entertainment/samsung-has-a-new-entry-level-oled-tv-and-it-costs-900-less-than-the-s95d/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/samsung-has-a-new-entry-level-oled-tv-and-it-costs-900-less-than-the-s95d/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T15:00:28+00:00
+
+Is Samsung's new, more affordable S85D TV worth it? Here's a look at the latest addition to the company's 2024 OLED TV lineup.
+
+## How to add AppImages to your Linux desktop menu - this tool makes it a snap
+ - [https://www.zdnet.com/article/how-to-add-appimages-to-your-linux-desktop-menu-this-tool-makes-it-a-snap/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-add-appimages-to-your-linux-desktop-menu-this-tool-makes-it-a-snap/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T15:00:16+00:00
+
+If you're a fan of using AppImages on Linux but don't relish having to run them from your file manager, Gear Lever can integrate those apps into your desktop menu.
+
+## Dell turns 40: How a teenager transformed $1,000 worth of PC parts into a tech giant
+ - [https://www.zdnet.com/article/dell-turns-40-how-a-teenager-transformed-1000-worth-of-pc-parts-into-a-tech-giant/#ftag=RSSbaffb68](https://www.zdnet.com/article/dell-turns-40-how-a-teenager-transformed-1000-worth-of-pc-parts-into-a-tech-giant/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T14:40:32+00:00
+
+Michael Dell's company was incorporated in 1984 as Dell Computer Corporation, doing business as PC's Limited. Its evolution over the last four decades provides a fascinating roadmap of the history of the personal computer.
+
+## This affordable Lenovo laptop made me a believer in the 2-in-1 form factor
+ - [https://www.zdnet.com/article/this-affordable-lenovo-laptop-made-me-a-believer-in-the-2-in-1-form-factor/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-affordable-lenovo-laptop-made-me-a-believer-in-the-2-in-1-form-factor/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T14:01:00+00:00
+
+The Lenovo Yoga 7i is a durable, sleek 2-in-1 that feels natural to use in any configuration it's in.
+
+## I use this 12-in-1 electric screwdriver all the time, and right now it's less than $50
+ - [https://www.zdnet.com/home-and-office/12-in-1-electric-screwdriver-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/12-in-1-electric-screwdriver-deal/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T13:49:18+00:00
+
+This screwdriver has a built-in light and makes a great gift for the discerning DIYer. Snag one on sale now.
+
+## Meet Google Threat Intelligence, Google Cloud's security solution with Gemini Pro
+ - [https://www.zdnet.com/article/meet-google-threat-intelligence-google-clouds-security-solution-with-gemini-pro/#ftag=RSSbaffb68](https://www.zdnet.com/article/meet-google-threat-intelligence-google-clouds-security-solution-with-gemini-pro/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T13:00:22+00:00
+
+Combining Gemini and deep industry insights, this offering gives security professionals an in-depth look at the threat landscape.
+
+## Google upgrades Security Operations with new detection types and Gemini-powered assistants
+ - [https://www.zdnet.com/article/google-upgrades-security-operations-with-new-detection-types-and-gemini-powered-assistants/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-upgrades-security-operations-with-new-detection-types-and-gemini-powered-assistants/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T13:00:14+00:00
+
+The company is adding more support features for security teams to find new threats, boost productivity, and reduce manual work.
+
+## AI raises cybersecurity fears among professionals, EY report finds
+ - [https://www.zdnet.com/article/ai-raises-cybersecurity-fears-among-professionals-ey-report-finds/#ftag=RSSbaffb68](https://www.zdnet.com/article/ai-raises-cybersecurity-fears-among-professionals-ey-report-finds/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T13:00:00+00:00
+
+Organizations can calm employee concerns about AI by doing these things.
+
+## The best iPads of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-ipad/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-ipad/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T12:00:17+00:00
+
+Whether you want to use the iPad for entertainment, studying, or work, I'll help you choose the best iPad model for your needs and budget.
+
+## Nova is my favorite Android home screen launcher - let me show you why
+ - [https://www.zdnet.com/article/nova-is-my-favorite-android-home-screen-launcher-let-me-show-you-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/nova-is-my-favorite-android-home-screen-launcher-let-me-show-you-why/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-06T10:00:15+00:00
+
+Unlike iOS, Android doesn't limit you to a single default launcher. With 30 options in the Play Store to choose from, why download Nova? Oh, let's count the ways!
+

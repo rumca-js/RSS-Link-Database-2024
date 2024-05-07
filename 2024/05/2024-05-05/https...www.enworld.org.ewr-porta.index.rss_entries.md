@@ -1,5 +1,12 @@
 # Source:EN World Tabletop RPG News & Reviews, URL:https://www.enworld.org/ewr-porta/index.rss, language:en
 
+## Obsessive Dwarven Adventurer Seeks Rivals
+ - [https://www.enworld.org/threads/obsessive-dwarven-adventurer-seeks-rivals.704050](https://www.enworld.org/threads/obsessive-dwarven-adventurer-seeks-rivals.704050)
+ - RSS feed: https://www.enworld.org/ewr-porta/index.rss
+ - date published: 2024-05-06T00:00:00+00:00
+
+<div class="bbWrapper">Garr is obsessed with proving that he’s better at it than you are—no matter what it is.</div>
+
 ## News Digest for May 5, 2024
  - [https://www.enworld.org/threads/news-digest-for-may-5-2024.704015](https://www.enworld.org/threads/news-digest-for-may-5-2024.704015)
  - RSS feed: https://www.enworld.org/ewr-porta/index.rss

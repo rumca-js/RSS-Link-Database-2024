@@ -1,0 +1,152 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Best Thunderbolt docks 2024: Extend your laptop’s capabilities
+ - [https://www.pcworld.com/article/393714/best-thunderbolt-docks-for-a-laptop-pc.html](https://www.pcworld.com/article/393714/best-thunderbolt-docks-for-a-laptop-pc.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-06T18:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>A Thunderbolt docking station for laptops is now nearly a must-have accessory, providing I/O access for legacy mice, keyboards, external drives, and more. It&rsquo;s a key ingredient for a productive office, whether at work or home. And now there&rsquo;s an upcoming wrinkle: Thunderbolt 5.</p>
+
+
+
+<p>Why buy a Thunderbolt 3 or Thunderbolt 4 docking station? Because of the bandwidth and power it provides. The <a href="https://www.pcworld.com/article/402858/the-best-usb-c-hubs-for-your-laptop-tablet-or-2-in-1.html">best USB-C hubs and dongles</a> provide legacy ports (USB-A, microSD, and others) for connecting PC peripherals like mice, printers, external hard drives, and more. But most laptops now include a Thunderbolt port. Thunderbolt docking stations serve as a powerful desktop dock, supplying enough bandwidth via the Thunderbolt port to drive a pair of 4K displa
+
+## Microsoft says it’s pausing Windows Copilot UI tests
+ - [https://www.pcworld.com/article/2324598/microsoft-says-its-pausing-windows-copilot-ui-tests.html](https://www.pcworld.com/article/2324598/microsoft-says-its-pausing-windows-copilot-ui-tests.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-06T17:17:29+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Microsoft is taking a break from testing new Copilot AI features within Windows, which may mean that the company has settled on some ideas that it may eventually roll out to the majority of Windows users.</p>
+
+
+
+<p>Microsoft <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://blogs.windows.com/windows-insider/2024/05/03/announcing-windows-11-insider-preview-build-22635-3570-beta-channel/&amp;xcust=2-1-2324598-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">announced</a> the change in plans on Friday, as part of the release of Windows 11 Insider Preview Build 22635.3570 (KB5037008) to testers on its Beta Channel. </p>
+
+
+
+<p>&ldquo;Over the last few months, we&rsquo;ve been trying out different experiences for Copilot in Windows (Preview) with Windows Insiders across the Canary, Dev, and Beta Channels,&rdquo; Microsoft wrote. &ldquo
+
+## May GeForce be with you: Nvidia made an Admiral Ackbar RTX 4080
+ - [https://www.pcworld.com/article/2324475/may-the-geforce-be-with-you-nvidia-made-an-admiral-ackbar-4080.html](https://www.pcworld.com/article/2324475/may-the-geforce-be-with-you-nvidia-made-an-admiral-ackbar-4080.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-06T15:14:35+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>There are thousands of characters in the Star Wars universe, but Admiral Ackbar has a special place in many fans&rsquo; hearts. The squidy admiral from Mon Calamari (yes, that&rsquo;s a real, fictional place in Star Wars) is beloved for a single line read in <em>Return of the Jedi. </em>And as if he needed it, Nvidia immortalized him with a custom-painted GeFource RTX 4080 for May the Fourth. </p>
+
+
+
+<p>The graphics card comes with a one-of-a-kind painting done by <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/BlueHorse_STU&amp;xcust=2-1-2324475-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Blue Horse Studios</a>, substituting the GPU&rsquo;s beefy intake fan for the second Death Star. And Nvidia is giving it away (in a method which, we are assured, is not a trap), along with a Funko Pop figure of Akbar and a co
+
+## Pick up one of our favorite portable SSDs for under $50
+ - [https://www.pcworld.com/article/2324363/pick-up-one-of-our-favorite-portable-ssds-for-under-50.html](https://www.pcworld.com/article/2324363/pick-up-one-of-our-favorite-portable-ssds-for-under-50.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-06T14:34:46+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re looking for a huge amount of portable storage, which you can copy to and from at high speeds, Amazon has a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B08W1F8YGJ&amp;xcust=2-1-2324363-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">500GB Crucial X6 portable drive on sale for just $49.99</a> today. That&rsquo;s less than I paid for two whiskey sours at a Manhattan bar a few weeks ago&hellip;and since the SSD got a PCWorld Editor&rsquo;s Choice award, it&rsquo;s probably a much better investment. </p>
+
+
+
+<p><a href="https://www.pcworld.com/article/394275/crucial-x6-usb-ssd-review.html">In our review</a>, Jon L Jacobi praised the drive&rsquo;s pocket-friendly design and solid performance, though the SATA drive does tend to struggle if you move enough files to fill up its temporary cache. With
+
+## How we test PC speakers at PCWorld
+ - [https://www.pcworld.com/article/2320107/how-we-test-pc-speakers-at-pcworld.html](https://www.pcworld.com/article/2320107/how-we-test-pc-speakers-at-pcworld.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-06T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you plan on creating an atmosphere around you when you work, play games or kick back and relax on your PC you&rsquo;re going to need a pair of computer speakers. And if you&rsquo;re budget conscious, you&rsquo;ll want speakers that sound great but don&rsquo;t cost a fortune. If that&rsquo;s the case be sure to check out our roundup of the <a href="https://www.pcworld.com/article/407990/the-best-budget-computer-speakers.html#:~:text=Best%20budget%20computer%20speakers%202024%3A%20Solid%20PC%20audio,%E2%80%93%20Best%20for%20less%20than%20%24150%20Pros%20">Best budget PC speakers</a>.</p>
+
+
+
+<p>But how do you know which ones to buy? If you want to understand the extensive testing process we subject our speakers to in our reviews, then read on here.</p>
+
+
+
+<h3 class="wp-block-heading" id="what-we-test-in-pc-speakers">What we test in PC speakers</h3>
+
+
+
+<p>The obvi
+
+## Upgrading to Windows 11 is a whole lot faster and easier now
+ - [https://www.pcworld.com/article/2324356/windows-10-microsoft-makes-it-much-easier-to-upgrade-to-windows-11-23h2.html](https://www.pcworld.com/article/2324356/windows-10-microsoft-makes-it-much-easier-to-upgrade-to-windows-11-23h2.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-06T14:11:46+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Microsoft has made it much, much easier to upgrade from Windows 10 to Windows 11 23H2, the last major update for Windows 11. From now on, all Windows 10 users can upgrade directly to Windows 11 23H2, as spotted by <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.windowslatest.com/2024/05/05/windows-10-finally-offers-a-direct-upgrade-to-windows-11-23h2-for-more-users/&amp;xcust=2-1-2324356-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Windows Latest</a>. </p>
+
+
+
+<p>This eliminates the annoying and time-consuming intermediate step of first having to upgrade from Windows 10 to Windows 11 22H2 and only then being able to update to Windows 11 23H2.</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__
+
+## Save $450 on this stunning Lenovo 2-in-1 laptop with a 4K  OLED screen
+ - [https://www.pcworld.com/article/2323780/save-400-on-this-stunning-lenovo-2-in-1-laptop-with-a-4k-screen.html](https://www.pcworld.com/article/2323780/save-400-on-this-stunning-lenovo-2-in-1-laptop-with-a-4k-screen.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-06T13:27:18+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re looking for a powerful laptop with an absolutely stunning OLED screen (4K!!!), you&rsquo;ve come to the right place. Best Buy is selling the <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-9i-2-in-1-14-4k-oled-touch-laptop-with-pen-intel-evo-platform-core-i7-1360p-with-16gb-memory-1tb-ssd-storm-grey%2F6533949.p%3FskuId%3D6533949&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed&amp;u1=2-1-2323780-1-0-0" rel="nofollow">Lenovo Yoga 9i 2-in-1 for $1,199.99</a>, which is a huge savings of $450. Not only does this laptop have a 4K touch display and powerful hardware, but it&rsquo;s also a convertible, meaning you can swing the screen back 360 degrees. Want to snuggle up with your favorite person and watch a movie? Cue tent mode. What about
+
+## AVG Internet Security review: Reliable, budget-friendly antivirus software
+ - [https://www.pcworld.com/article/407275/avg-internet-security-review.html](https://www.pcworld.com/article/407275/avg-internet-security-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-06T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a Glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Top rated antivirus protection</li><li>Expanded protection against malicious websites and remote attacks</li><li>Clean, straightforward interface</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Some PCs may experience a performance hit during heavier workloads</li><li>Several features are a bit rudimentary</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">AVG does a superb job of safeguarding your
+
+## Get Microsoft Office for just $30 this week only
+ - [https://www.pcworld.com/article/2323758/get-microsoft-office-for-just-30-this-week-only.html](https://www.pcworld.com/article/2323758/get-microsoft-office-for-just-30-this-week-only.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-06T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Doing your best work requires the best tools. So if you&rsquo;ve avoided getting Microsoft Office because you didn&rsquo;t want to pay for office tools, now&rsquo;s the time to change that. This week only, you can get <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/microsoft-office-professional-plus-2019-for-windows-3?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-office-professional-plus-2019-for-windows-3&amp;utm_term=scsf-595675&amp;utm_content=a0xRn0000011vgPIAQ&amp;scsonar=1&amp;xcust=2-1-2323758-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Microsoft Office Professional Plus 2019 for Windows</a> or <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/microsoft-office-home-business-2019-for-mac-4?utm_source=pcwor
+

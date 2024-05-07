@@ -1,5 +1,12 @@
 # Source:CNET, URL:https://www.cnet.com/rss/all, language:en-US
 
+## Should You Buy or Rent Your Router? The Wrong Decision Cost Me Nearly $1K     - CNET
+ - [https://www.cnet.com/home/internet/should-you-buy-or-rent-your-router-the-wrong-decision-cost-me-nearly-1k/#ftag=CADf328eec](https://www.cnet.com/home/internet/should-you-buy-or-rent-your-router-the-wrong-decision-cost-me-nearly-1k/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all
+ - date published: 2024-05-06T00:00:00+00:00
+
+I've been paying nearly $200 yearly in equipment rental fees for as long as I can remember.
+
 ## Briggs & Stratton's Newest Home Battery Offers Modularity at a Good Price     - CNET
  - [https://www.cnet.com/home/energy-and-utilities/briggs-strattons-newest-home-battery-offers-modularity-at-a-good-price/#ftag=CADf328eec](https://www.cnet.com/home/energy-and-utilities/briggs-strattons-newest-home-battery-offers-modularity-at-a-good-price/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all

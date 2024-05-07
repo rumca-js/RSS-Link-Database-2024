@@ -1,5 +1,12 @@
 # Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
+## A truck driver is accused of killing a Utah police officer by driving into him
+ - [https://abcnews.go.com/US/wireStory/truck-driver-accused-killing-utah-police-officer-driving-109943471](https://abcnews.go.com/US/wireStory/truck-driver-accused-killing-utah-police-officer-driving-109943471)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2024-05-05T23:32:42+00:00
+
+Police say a truck driver drove his rig into an officer during a traffic stop.
+
 ## Ex-Fulton County prosecutor Wade: 'Workplace romances are as American as apple pie'
  - [https://abcnews.go.com/US/fulton-county-prosecutor-nathan-wade-speaks-workplace-romances/story?id=109939216](https://abcnews.go.com/US/fulton-county-prosecutor-nathan-wade-speaks-workplace-romances/story?id=109939216)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories

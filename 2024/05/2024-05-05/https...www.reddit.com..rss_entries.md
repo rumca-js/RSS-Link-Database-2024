@@ -1,11 +1,53 @@
 # Source:Reddit - Front Page, URL:https://www.reddit.com/.rss, language:en-US
 
+## Gatekeeping professor
+ - [https://www.reddit.com/r/facepalm/comments/1cl56rf/gatekeeping_professor](https://www.reddit.com/r/facepalm/comments/1cl56rf/gatekeeping_professor)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-05T23:51:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/facepalm/comments/1cl56rf/gatekeeping_professor/"> <img alt="Gatekeeping professor" src="https://preview.redd.it/gd5k1lc34pyc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c5a44857f6b32669bb3713cee7308d8d3e3a36b4" title="Gatekeeping professor" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mammothanonymous"> /u/mammothanonymous </a> &#32; to &#32; <a href="https://www.reddit.com/r/facepalm/"> r/facepalm </a> <br /> <span><a href="https://i.redd.it/gd5k1lc34pyc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/facepalm/comments/1cl56rf/gatekeeping_professor/">[comments]</a></span> </td></tr></table>
+
+## all roads lead to Sony...
+ - [https://www.reddit.com/r/Helldivers/comments/1cl4b2w/all_roads_lead_to_sony](https://www.reddit.com/r/Helldivers/comments/1cl4b2w/all_roads_lead_to_sony)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-05T23:10:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Helldivers/comments/1cl4b2w/all_roads_lead_to_sony/"> <img alt="all roads lead to Sony..." src="https://preview.redd.it/1bkxbfzcwoyc1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=5660417d97094a0c1d85019bd02171ee3af0b168" title="all roads lead to Sony..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/negativen"> /u/negativen </a> &#32; to &#32; <a href="https://www.reddit.com/r/Helldivers/"> r/Helldivers </a> <br /> <span><a href="https://i.redd.it/1bkxbfzcwoyc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Helldivers/comments/1cl4b2w/all_roads_lead_to_sony/">[comments]</a></span> </td></tr></table>
+
+## 🗣️
+ - [https://www.reddit.com/r/shitposting/comments/1cl3ulx/_](https://www.reddit.com/r/shitposting/comments/1cl3ulx/_)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-05T22:49:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/1cl3ulx/_/"> <img alt="🗣️" src="https://preview.redd.it/ebejgcnvsoyc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c6242984219ce114c2da55e906fb4e053384d62" title="🗣️" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheWebsploiter"> /u/TheWebsploiter </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/ebejgcnvsoyc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/1cl3ulx/_/">[comments]</a></span> </td></tr></table>
+
+## Wie ktoś czym jest ta "brygada"?
+ - [https://www.reddit.com/r/Polska/comments/1cl3hsw/wie_ktoś_czym_jest_ta_brygada](https://www.reddit.com/r/Polska/comments/1cl3hsw/wie_ktoś_czym_jest_ta_brygada)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-05T22:32:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/1cl3hsw/wie_ktoś_czym_jest_ta_brygada/"> <img alt="Wie ktoś czym jest ta &quot;brygada&quot;? " src="https://preview.redd.it/8jfhmlfppoyc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=faa8e80b6601e25b1bc0d1ae8433717fa0d811d9" title="Wie ktoś czym jest ta &quot;brygada&quot;? " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SHSTales"> /u/SHSTales </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/8jfhmlfppoyc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1cl3hsw/wie_ktoś_czym_jest_ta_brygada/">[comments]</a></span> </td></tr></table>
+
+## At 140 Million Dollars the will smith game is a good example of money laundering.
+ - [https://www.reddit.com/r/gaming/comments/1cl1gd9/at_140_million_dollars_the_will_smith_game_is_a](https://www.reddit.com/r/gaming/comments/1cl1gd9/at_140_million_dollars_the_will_smith_game_is_a)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-05T21:04:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1cl1gd9/at_140_million_dollars_the_will_smith_game_is_a/"> <img alt="At 140 Million Dollars the will smith game is a good example of money laundering. " src="https://preview.redd.it/887wwt01aoyc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c45ee76181ea450cbf615feffede321c26f598a3" title="At 140 Million Dollars the will smith game is a good example of money laundering. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ApofiSs-93"> /u/ApofiSs-93 </a> &#32; to &#32; <a href="https://www.reddit.com/r/gaming/"> r/gaming </a> <br /> <span><a href="https://i.redd.it/887wwt01aoyc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1cl1gd9/at_140_million_dollars_the_will_smith_game_is_a/">[comments]</a></span> </td></tr></table>
+
 ## SC picked P2 rather than P1 lol
  - [https://www.reddit.com/r/formuladank/comments/1cl15c0/sc_picked_p2_rather_than_p1_lol](https://www.reddit.com/r/formuladank/comments/1cl15c0/sc_picked_p2_rather_than_p1_lol)
  - RSS feed: https://www.reddit.com/.rss
  - date published: 2024-05-05T20:51:21+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/formuladank/comments/1cl15c0/sc_picked_p2_rather_than_p1_lol/"> <img alt="SC picked P2 rather than P1 lol" src="https://preview.redd.it/hvn4kygu7oyc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=db71758e49d69ecdd3eb34cc7c5d57885391ff54" title="SC picked P2 rather than P1 lol" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Puzzleheaded-Rain230"> /u/Puzzleheaded-Rain230 </a> &#32; to &#32; <a href="https://www.reddit.com/r/formuladank/"> r/formuladank </a> <br /> <span><a href="https://i.redd.it/hvn4kygu7oyc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/formuladank/comments/1cl15c0/sc_picked_p2_rather_than_p1_lol/">[comments]</a></span> </td></tr></table>
+
+## Widać?
+ - [https://www.reddit.com/r/WidacZabory/comments/1cl01m8/widać](https://www.reddit.com/r/WidacZabory/comments/1cl01m8/widać)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-05T20:03:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/WidacZabory/comments/1cl01m8/widać/"> <img alt="Widać?" src="https://preview.redd.it/8cidlgmcznyc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65f398d84327ed481da81bd6161c19f8b3b81347" title="Widać?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheRobak333"> /u/TheRobak333 </a> &#32; to &#32; <a href="https://www.reddit.com/r/WidacZabory/"> r/WidacZabory </a> <br /> <span><a href="https://i.redd.it/8cidlgmcznyc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/WidacZabory/comments/1cl01m8/widać/">[comments]</a></span> </td></tr></table>
 
 ## Możesz zmienić jedną rzecz w naszym kraju.
  - [https://www.reddit.com/r/Polska/comments/1cl008x/możesz_zmienić_jedną_rzecz_w_naszym_kraju](https://www.reddit.com/r/Polska/comments/1cl008x/możesz_zmienić_jedną_rzecz_w_naszym_kraju)
@@ -27,6 +69,20 @@
  - date published: 2024-05-05T19:26:52+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/poland/comments/1ckz72m/parade_of_polishness_by_ethnic_poles_in_vilnius/"> <img alt="Parade of Polishness by ethnic Poles in Vilnius" src="https://external-preview.redd.it/bzdqb2J1MXNzbnljMVTSejNFFN08x0SABBPng1VYFCvCQN1leg2pQWtlknPF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=929c77b39e94cba2d8d717d3cae5ca8b52a40d85" title="Parade of Polishness by ethnic Poles in Vilnius" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/badurathehutt"> /u/badurathehutt </a> &#32; to &#32; <a href="https://www.reddit.com/r/poland/"> r/poland </a> <br /> <span><a href="https://v.redd.it/rlvq0t9ssnyc1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/poland/comments/1ckz72m/parade_of_polishness_by_ethnic_poles_in_vilnius/">[comments]</a></span> </td></tr></table>
+
+## You put Poland WHERE!? - Wyspy Prytańskie 2016
+ - [https://www.reddit.com/r/imaginarymaps/comments/1ckyo71/you_put_poland_where_wyspy_prytańskie_2016](https://www.reddit.com/r/imaginarymaps/comments/1ckyo71/you_put_poland_where_wyspy_prytańskie_2016)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-05T19:04:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/imaginarymaps/comments/1ckyo71/you_put_poland_where_wyspy_prytańskie_2016/"> <img alt="You put Poland WHERE!? - Wyspy Prytańskie 2016" src="https://preview.redd.it/1qquxr18onyc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=03a21f4b20fb1d8dde7bfb1e827f9e01289e2f47" title="You put Poland WHERE!? - Wyspy Prytańskie 2016" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/XLG_Winterprice"> /u/XLG_Winterprice </a> &#32; to &#32; <a href="https://www.reddit.com/r/imaginarymaps/"> r/imaginarymaps </a> <br /> <span><a href="https://i.redd.it/1qquxr18onyc1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/imaginarymaps/comments/1ckyo71/you_put_poland_where_wyspy_prytańskie_2016/">[comments]</a></span> </td></tr></table>
+
+## What's the most VILE thing you've seen in someone's home?
+ - [https://www.reddit.com/r/AskReddit/comments/1ckymon/whats_the_most_vile_thing_youve_seen_in_someones](https://www.reddit.com/r/AskReddit/comments/1ckymon/whats_the_most_vile_thing_youve_seen_in_someones)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-05T19:02:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/pacifiedLemur"> /u/pacifiedLemur </a> &#32; to &#32; <a href="https://www.reddit.com/r/AskReddit/"> r/AskReddit </a> <br /> <span><a href="https://www.reddit.com/r/AskReddit/comments/1ckymon/whats_the_most_vile_thing_youve_seen_in_someones/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/AskReddit/comments/1ckymon/whats_the_most_vile_thing_youve_seen_in_someones/">[comments]</a></span>
 
 ## I had two steaks, it is date night. She is coming over any minute. One steak disappeared. Suspect might be in the picture.
  - [https://www.reddit.com/r/mildlyinfuriating/comments/1cky0x5/i_had_two_steaks_it_is_date_night_she_is_coming](https://www.reddit.com/r/mildlyinfuriating/comments/1cky0x5/i_had_two_steaks_it_is_date_night_she_is_coming)
@@ -55,6 +111,13 @@
  - date published: 2024-05-05T17:53:29+00:00
 
 <!-- SC_OFF --><div class="md"><p>Chciałam się z kimś tym podzielić. Od lat mam problem z alkoholem i objadaniem się. Dzisiaj wysłałam swoje zgłoszenie na odwyk. Ktoś powinien odezwać się w ciągu 7 dni. </p> <p>Piję od 7 roku życia, regularnie od 14. Piłam żeby świat w którym żyłam był bardziej kolorowy. W wieku 14 lat rodzice kupowali mi alkohol a już w wieku 15 lat potrafiłam opuszczać szkołę i pić przez tydzień wódkę z mamą w domu. Kilkakrotnie prawie zrobiłam sobie dużą krzywdę przez alkohol, wliczając w to bliskie zagrożenie życia kiedy zasnęłam w śniegu na mrozie w wieku 16-17 lat pijana. Raz prawie przejechał mnie samochód przez alkohol.</p> <p>Ucząc się do matury musiałam wypić kieliszka bo inaczej nie byłam w stanie się skupić. Potrafiłam przyjść do pracy nietrzeźwa (pracowałam jako sprzątaczka) i wpadać w cugi alkoholowe. Kiedyś nawet przynosiłam wódkę do szkoły (gimnazjum). Nigdy, nawet w dzieciństwie, nie otrzymałam żadnej pomocy poza bluzgami i wyzwiskami. Dodatkowo doras
+
+## HOW DARE YOU
+ - [https://www.reddit.com/r/shitposting/comments/1ckwv3s/how_dare_you](https://www.reddit.com/r/shitposting/comments/1ckwv3s/how_dare_you)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-05-05T17:45:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/1ckwv3s/how_dare_you/"> <img alt="HOW DARE YOU" src="https://preview.redd.it/99ay0p7qanyc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93e16cc7d221319576b0aec01228d40883594cdb" title="HOW DARE YOU" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AV2K19"> /u/AV2K19 </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/99ay0p7qanyc1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/1ckwv3s/how_dare_you/">[comments]</a></span> </td></tr></table>
 
 ## 30 tallest buildings in Europe
  - [https://www.reddit.com/r/MapPorn/comments/1ckwugr/30_tallest_buildings_in_europe](https://www.reddit.com/r/MapPorn/comments/1ckwugr/30_tallest_buildings_in_europe)

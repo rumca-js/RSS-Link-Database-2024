@@ -49,6 +49,20 @@
 
 
 
+## County Championship 2024, Division 2: live scoreboards
+ - [https://www.telegraph.co.uk/cricket/0/county-championship-2024-division-2-live-scorecards](https://www.telegraph.co.uk/cricket/0/county-championship-2024-division-2-live-scorecards)
+ - RSS feed: https://www.telegraph.co.uk/rss.xml
+ - date published: 2024-05-05T10:19:43+00:00
+
+
+
+## County Championship 2024 Division 1: live scoreboards
+ - [https://www.telegraph.co.uk/cricket/0/county-championship-2024-division-1-live-scorecards](https://www.telegraph.co.uk/cricket/0/county-championship-2024-division-1-live-scorecards)
+ - RSS feed: https://www.telegraph.co.uk/rss.xml
+ - date published: 2024-05-05T10:18:46+00:00
+
+
+
 ## Air fryer caramelised Vietnamese pork recipe
  - [https://www.telegraph.co.uk/recipes/0/air-fryer-caramelised-vietnamese-pork-recipe](https://www.telegraph.co.uk/recipes/0/air-fryer-caramelised-vietnamese-pork-recipe)
  - RSS feed: https://www.telegraph.co.uk/rss.xml

@@ -1,3 +1,332 @@
+## Backstreet Boys Post Video of Howie Dorough Taking Shots For Cinco De Mayo
+ - [https://www.tmz.com/2024/05/05/backstreet-boys-post-video-howie-dorough-pounding-shots-cinco-de-mayo](https://www.tmz.com/2024/05/05/backstreet-boys-post-video-howie-dorough-pounding-shots-cinco-de-mayo)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The Backstreet Boys are giving people ideas on how to spend Cinco de Mayo ... showing fans how the guys celebrate -- with a vid of Howie Dorough slamming shots.
+
+## Blinken to travel to Guatemala on Tuesday, US State Dept says
+ - [https://www.reuters.com/world/blinken-travel-guatemala-tuesday-us-state-dept-says-2024-05-05](https://www.reuters.com/world/blinken-travel-guatemala-tuesday-us-state-dept-says-2024-05-05)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+U.S. Secretary of State Antony Blinken will travel to Guatemala on Tuesday to lead a delegation to the a ministerial meeting of the Los Angeles Declaration on Migration and Protection, the State Department said on Sunday.
+
+## Calvin Johnson Says He Could Be Pro Golfer, 'I Hit More Than My Share Of Shots'
+ - [https://www.tmz.com/2024/05/06/calvin-johnson-could-be-pro-golfer](https://www.tmz.com/2024/05/06/calvin-johnson-could-be-pro-golfer)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Calvin Johnson tells TMZ Sports he's so good with a club in his hands, he could be a professional golfer.
+
+## Cassidy: Nine Knights had surgeries during season
+ - [https://www.espn.com/nhl/story/_/id/40091976/nine-golden-knights-had-season-surgeries-cassidy-says](https://www.espn.com/nhl/story/_/id/40091976/nine-golden-knights-had-season-surgeries-cassidy-says)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Following a Game 7 loss that ended Vegas' defense of the Stanley Cup in Round 1, Golden Knights coach Bruce Cassidy told reporters there were nine players who went through surgeries this season while his club battled to secure the final berth in the West.
+
+## Chad votes in first Sahel presidential poll since wave of coups
+ - [https://www.reuters.com/world/africa/chad-votes-first-sahel-presidential-poll-since-wave-coups-2024-05-06](https://www.reuters.com/world/africa/chad-votes-first-sahel-presidential-poll-since-wave-coups-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Chadians go to the polls on Monday three years after their military leader seized power, in the first presidential election in Africa's Sahel region since a wave of coups.
+
+## China's Xi in Paris to meet Macron, with trade, Ukraine talks planned
+ - [https://www.reuters.com/world/chinas-xi-paris-meet-macron-with-trade-ukraine-talks-planned-2024-05-06](https://www.reuters.com/world/chinas-xi-paris-meet-macron-with-trade-ukraine-talks-planned-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Chinese President Xi Jinping awoke in Paris on Monday on his first visit to the region in five years, with trade and Russia's war with Ukraine on the agenda in talks with France's Emmanuel Macron and European Commission chief Ursula von der Leyen.
+
+## Dave Bautista's Eddie Guerrero Tribute Chevy Impala For Sale
+ - [https://www.tmz.com/2024/05/06/dave-bautista-eddie-guerrero-tribute-chevy-impala-sale-blue-mural](https://www.tmz.com/2024/05/06/dave-bautista-eddie-guerrero-tribute-chevy-impala-sale-blue-mural)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Dave Bautista is selling an iconic car ... giving up his vintage Chevy Impala, complete with a gorgeous mural dedicated to a WWE legend -- and, it's gonna fetch the star serious cash.
+
+## David Archuleta's Mom Tears Up at Music Vid About Leaving Mormon Church
+ - [https://www.tmz.com/2024/05/06/david-archuleta-lupe-bartholomew-tear-up-music-video-hell-together-mormon-church](https://www.tmz.com/2024/05/06/david-archuleta-lupe-bartholomew-tear-up-music-video-hell-together-mormon-church)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Seeing David Archuleta's mother watch the music video for his new song -- one he could not have written without her -- might be more emotional than the song itself.
+
+## DeAngelo riles up MSG crowd in Hurricanes' loss
+ - [https://www.espn.com/nhl/story/_/id/40091210/plethora-penalties-perplex-carolina-hurricanes-game-1](https://www.espn.com/nhl/story/_/id/40091210/plethora-penalties-perplex-carolina-hurricanes-game-1)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Defenseman Tony DeAngelo did not want to "get into it" Sunday, after the Carolina Hurricanes were called for eight minutes in penalties on some calls they deemed questionable, during the New York Rangers' 4-3 win in this Eastern Conference Round 2 opener.
+
+## Drake Says He Fed Kendrick Misinformation, Denies 'Pedophile' Claim
+ - [https://www.tmz.com/2024/05/05/drake-fed-kendrick-lamar-misinformation-denies-pedophile-claim](https://www.tmz.com/2024/05/05/drake-fed-kendrick-lamar-misinformation-denies-pedophile-claim)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Drake drops the latest diss song against Kendrick Lamar, addressing some of the claims that have been levied about him.
+
+## GIMP 2.10.38 Released As What Might Be The Last Of GIMP 2 - Phoronix
+ - [https://www.phoronix.com/news/GIMP-2.10.38-Released](https://www.phoronix.com/news/GIMP-2.10.38-Released)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+GIMP 2.10.38 Released As What Might Be The Last Of GIMP 2 - Phoronix
+
+## Guess Who This Lil' Cowgirl Turned Into!
+ - [https://www.tmz.com/2024/05/06/guess-who-this-lil-cowgirl-turned-into](https://www.tmz.com/2024/05/06/guess-who-this-lil-cowgirl-turned-into)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Ain't no "Challenge" this "Euphoria" star can't handle ... Can you guess who she is?
+
+## Hacker News
+ - [https://news.ycombinator.com/item?id=40270911](https://news.ycombinator.com/item?id=40270911)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Hacker News
+
+## Hacker News
+ - [https://news.ycombinator.com/item?id=40270161](https://news.ycombinator.com/item?id=40270161)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Hacker News
+
+## Hard right wants more EU power to reflect likely election gains
+ - [https://www.reuters.com/world/europe/hard-right-wants-more-eu-power-reflect-likely-election-gains-2024-05-06](https://www.reuters.com/world/europe/hard-right-wants-more-eu-power-reflect-likely-election-gains-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+From his office in a distant annexe, French right-wing lawmaker Jean-Paul Garraud has his sights set on a spot much closer to the decision-making heart of the European Parliament.
+
+## Helldivers 2 PSN account linking update will not be moving forward | Hacker News
+ - [https://news.ycombinator.com/item?id=40271104](https://news.ycombinator.com/item?id=40271104)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Helldivers 2 PSN account linking update will not be moving forward | Hacker News
+
+## Indonesia proposes cutting payments for S.Korea fighter jet project, Yonhap reports
+ - [https://www.reuters.com/world/asia-pacific/indonesia-proposes-cutting-payments-skorea-fighter-jet-project-yonhap-reports-2024-05-06](https://www.reuters.com/world/asia-pacific/indonesia-proposes-cutting-payments-skorea-fighter-jet-project-yonhap-reports-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Indonesia has proposed to cut its share of payments for a joint fighter jet development project with South Korea to about one-third of the originally agreed amount, South Korean news agency Yonhap reported on Monday.
+
+## Israel military begins evacuating Palestinian civilians from Rafah, radio says
+ - [https://www.reuters.com/world/middle-east/israeli-military-begins-evacuating-palestinian-civilians-rafah-radio-says-2024-05-06](https://www.reuters.com/world/middle-east/israeli-military-begins-evacuating-palestinian-civilians-rafah-radio-says-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Israel's armed forces have begun evacuating Palestinian civilians from Rafah ahead of a threatened assault on the southern Gazan city, an Israeli broadcaster said on Monday.
+
+## Italy calls for Ukraine truce, peace talks with Putin - newspaper
+ - [https://www.reuters.com/world/europe/italy-calls-ukraine-truce-peace-talks-with-putin-newspaper-2024-05-06](https://www.reuters.com/world/europe/italy-calls-ukraine-truce-peace-talks-with-putin-newspaper-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Italy's Defence Minister said on Monday economic sanctions against Russia had failed and called on the West to try harder to negotiate a diplomatic solution with President Vladimir Putin to end the war in Ukraine.
+
+## Jokes fly at Brady roast; Kraft, Belichick reunite
+ - [https://www.espn.com/nfl/story/_/id/40091978/ex-teammates-bill-belichick-take-aim-tom-brady-roast](https://www.espn.com/nfl/story/_/id/40091978/ex-teammates-bill-belichick-take-aim-tom-brady-roast)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Tom Brady sustained more blitzes and pressure than he did during an average NFL game as an impressive lineup of comedians, former teammates like Rob Gronkowski and Julian Edelman and opponents took the stage.
+
+## Kourtney Kardashian Details Postpartum Struggles at Work
+ - [https://www.tmz.com/2024/05/05/kourtney-kardashian-emotional-post-not-ready-kardashians-shoot-while-postpartum](https://www.tmz.com/2024/05/05/kourtney-kardashian-emotional-post-not-ready-kardashians-shoot-while-postpartum)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Kourtney Kardashian's ready to talk about her emotional struggles after her son was born ... revealing she felt weird at work -- even though she had Rocky with her.
+
+## Kristi Noem Admits She Never Met Kim Jong Un Despite Book Claim
+ - [https://www.tmz.com/2024/05/05/kristi-noem-admits-never-met-kim-jong-un-book-claims-dog-cricket-kill](https://www.tmz.com/2024/05/05/kristi-noem-admits-never-met-kim-jong-un-book-claims-dog-cricket-kill)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Kristi Noem's book's landed her in hot water again ... this time resulting from a factual error claiming she met Kim Jong Un -- even though the meet never happened.
+
+## Low-budget Chinese travellers highlight shift in Hong Kong tourism
+ - [https://www.reuters.com/world/china/low-budget-chinese-travellers-highlight-shift-hong-kong-tourism-2024-05-06](https://www.reuters.com/world/china/low-budget-chinese-travellers-highlight-shift-hong-kong-tourism-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Cost-conscious Chinese tourists have replaced many of the cash-rich mainland travellers who once flocked to Hong Kong, with some only interested in free walking tours of the city and staying across the border in Shenzhen overnight to save money.
+
+## Mexican authorities confirm missing U.S., Australian tourists have died
+ - [https://www.reuters.com/world/mexican-authorities-confirm-missing-us-australian-tourists-have-died-2024-05-06](https://www.reuters.com/world/mexican-authorities-confirm-missing-us-australian-tourists-have-died-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Family members of three tourists who went missing in northern Mexico last month have identified their bodies, the state prosecutor's office in Baja California said in a statement on Sunday.
+
+## More than 90% of stablecoin transactions aren’t from real users, study finds
+ - [https://feedpress.me/link/20202/16673745/more-90-stablecoin-transactions-arent-real-users-study-finds](https://feedpress.me/link/20202/16673745/more-90-stablecoin-transactions-arent-real-users-study-finds)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MORE than 90 per cent of stablecoin transaction volumes are not coming from genuine users, according to a new metric co-developed by Visa, suggesting such crypto tokens may be far away from becoming a commonly used means of payment. Read more at The Business Times.
+
+## MSN
+ - [https://feedpress.me/link/20202/16673724/ar-BB1lRzw6](https://feedpress.me/link/20202/16673724/ar-BB1lRzw6)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16673706/ar-BB1lS9cL](https://feedpress.me/link/20202/16673706/ar-BB1lS9cL)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+MSN
+
+## North Korea bolsters leader Kim with birthday loyalty oaths
+ - [https://www.reuters.com/world/asia-pacific/north-korea-bolsters-leader-kim-with-birthday-loyalty-oaths-2024-05-06](https://www.reuters.com/world/asia-pacific/north-korea-bolsters-leader-kim-with-birthday-loyalty-oaths-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+For the first time since leader Kim Jong Un took power in 2011, North Koreans were asked to take loyalty oaths on his birthday, a South Korean research institute said, amid other steps the country is taking to solidify his rule.
+
+## Philippines says won't raise South China Sea tensions, won't use water cannons
+ - [https://www.reuters.com/world/asia-pacific/philippines-says-wont-raise-south-china-sea-tensions-wont-use-water-cannons-2024-05-06](https://www.reuters.com/world/asia-pacific/philippines-says-wont-raise-south-china-sea-tensions-wont-use-water-cannons-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Philippines President Ferdinand Marcos Jr said on Monday the country will not use water cannons or any offensive weapons in the South China Sea.
+
+## Philippines, US repel mock foreign invaders in annual military exercises
+ - [https://www.reuters.com/world/philippines-us-repel-mock-foreign-invaders-annual-military-exercises-2024-05-06](https://www.reuters.com/world/philippines-us-repel-mock-foreign-invaders-annual-military-exercises-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+U.S. and Philippine armed forces fired missiles and artillery to thwart a simulated invasion in the Philippines' northern waters facing Taiwan on Monday, in a show of military force and strengthening ties as regional tensions rise.
+
+## Rangers rookie Langford (hamstring) going on IL
+ - [https://www.espn.com/mlb/story/_/id/40091207/rangers-rookie-wyatt-langford-il-eovaldi-see-specialist](https://www.espn.com/mlb/story/_/id/40091207/rangers-rookie-wyatt-langford-il-eovaldi-see-specialist)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Rangers rookie outfielder Wyatt Langford is expected to miss three to four weeks with a hamstring strain, while right-hander Nathan Eovaldi will visit a specialist in New York for evaluation on his right groin strain, manager Bruce Bochy told reporters.
+
+## Remnants of a Legendary Typeface Have Been Rescued from the River Thames | Hacker News
+ - [https://news.ycombinator.com/item?id=40270586](https://news.ycombinator.com/item?id=40270586)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Remnants of a Legendary Typeface Have Been Rescued from the River Thames | Hacker News
+
+## Russia will have to increase its missile arsenal to deter the West, diplomat says
+ - [https://www.reuters.com/world/europe/russia-will-have-increase-its-missile-arsenal-deter-west-diplomat-says-2024-05-06](https://www.reuters.com/world/europe/russia-will-have-increase-its-missile-arsenal-deter-west-diplomat-says-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Russia will have to increase its entire missile arsenal to deter the West as Moscow is now in an open confrontation with the United States and its allies, a Russian diplomat was quoted as saying on Monday.
+
+## Show HN: Supertone Shift – AI powered Real-time voice changer | Hacker News
+ - [https://news.ycombinator.com/item?id=40271706](https://news.ycombinator.com/item?id=40271706)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Show HN: Supertone Shift – AI powered Real-time voice changer | Hacker News
+
+## Stars cap series rally with Game 7 win over Vegas
+ - [https://www.espn.com/nhl/story/_/id/40091654/dallas-stars-eliminate-vegas-golden-knights-game-7](https://www.espn.com/nhl/story/_/id/40091654/dallas-stars-eliminate-vegas-golden-knights-game-7)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The Dallas Stars, seeded No. 1 in the Western Conference, completed their comeback from a 2-0 series deficit, winning Game 7 over the Vegas Golden Knights on Sunday night 2-1, a victory that allows them to plan a Round 2 date with the Colorado Avalanche.
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4](https://brutalist.report/bruticle/612d359a-2739-4eda-badd-2f2883832fe4)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/144cccad-cd8e-4655-a530-eeb8f9c70406](https://brutalist.report/bruticle/144cccad-cd8e-4655-a530-eeb8f9c70406)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## TMZ's 'Pick Your Destination' Sweepstakes, 4 Weeks Anywhere in the World
+ - [https://www.tmz.com/2024/05/06/tmz-pick-your-destination-sweepstakes-4-weeks-anywhere-in-the-world](https://www.tmz.com/2024/05/06/tmz-pick-your-destination-sweepstakes-4-weeks-anywhere-in-the-world)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Summer break is just around the corner, so you wouldn't be alone if you got the travel itch right about now. But don't fret, because TMZ has got you covered with our new sweepstakes!!!
+
+## Tom Brady Roasted Over Gisele Bundchen Divorce In Netflix Special
+ - [https://www.tmz.com/2024/05/05/tom-brady-roasted-over-gisele-bundchen-divorce-netflix-special](https://www.tmz.com/2024/05/05/tom-brady-roasted-over-gisele-bundchen-divorce-netflix-special)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+If you thought Gisele Bundchen would be off limits during the roast of Tom Brady, think again.
+
+## Tom Brady Shuts Down Jeff Ross Over Robert Kraft Massage Joke
+ - [https://www.tmz.com/2024/05/05/tom-brady-shuts-down-jeff-ross-over-robert-kraft-massage-joke](https://www.tmz.com/2024/05/05/tom-brady-shuts-down-jeff-ross-over-robert-kraft-massage-joke)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Divorce talk was fair game, but Tom Brady was not having it when folks brought up Patriots owner Robert Kraft's massage scandal
+
+## Transfer Talk: Man Utd will face competition for £60m-rated Olise
+ - [https://www.espn.com/soccer/story/_/id/40090769/transfer-talk-man-utd-face-competition-60m-rated-olise](https://www.espn.com/soccer/story/_/id/40090769/transfer-talk-man-utd-face-competition-60m-rated-olise)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Man United are aware that they will face stiff competition to sign Palace winger Michael Olise. Transfer Talk has the latest.
+
+## Ukraine air force says it destroys 12 Russia-launched drones
+ - [https://www.reuters.com/world/europe/ukraine-air-force-says-it-destroys-12-russia-launched-drones-2024-05-06](https://www.reuters.com/world/europe/ukraine-air-force-says-it-destroys-12-russia-launched-drones-2024-05-06)
+ - RSS feed: 
+ - date published: 2024-05-06T00:00:00+00:00
+
+Ukraine's air force said on Monday that its air defence systems destroyed 12 out of 13 attack drones launched by Russia.
+
+## Paramount Global to Pursue Simultaneous Talks with Sony/Apollo and Skydance as M&A Drama Drags On
+ - [https://variety.com/2024/tv/news/paramount-skydance-sony-apollo-warren-buffett-1235992550](https://variety.com/2024/tv/news/paramount-skydance-sony-apollo-warren-buffett-1235992550)
+ - RSS feed: 
+ - date published: 2024-05-05T23:59:57+00:00
+
+Paramount Global will shift to pursuing simultaneous talks with Skydance Media and the Sony/Apollo group as its M&A drama drags on.
+
+## Israeli officials raid Al Jazeera's Jerusalem bureau after shutdown order
+ - [https://www.axios.com/2024/05/05/israeli-officials-raid-al-jazeeras-jerusalem-bureau-after-shutdown-order](https://www.axios.com/2024/05/05/israeli-officials-raid-al-jazeeras-jerusalem-bureau-after-shutdown-order)
+ - RSS feed: 
+ - date published: 2024-05-05T23:59:44+00:00
+
+The move silences one of the largest international media outlets on the ground covering the Israel-Hamas war.
+
+## Giants Post-Draft Trade Proposal Gets 1,000-Yard Partner for Malik Nabers
+ - [https://heavy.com/sports/nfl/new-york-giants/tee-higgins-trade-proposal-malik-nabers](https://heavy.com/sports/nfl/new-york-giants/tee-higgins-trade-proposal-malik-nabers)
+ - RSS feed: 
+ - date published: 2024-05-05T23:51:31+00:00
+
+A post-draft trade proposal would get the New York Giants two-time 1,000-yd WR Tee Higgins to partner rookie Malik Nabers.
+
+## Chris Pine Had Negative $400 in His Bank Account Before Booking ‘Princess Diaries 2’: The Salary Was ‘Absolutely Earth-Shattering’
+ - [https://variety.com/2024/film/news/chris-pine-princess-diaries-2-paycheck-1235992512](https://variety.com/2024/film/news/chris-pine-princess-diaries-2-paycheck-1235992512)
+ - RSS feed: 
+ - date published: 2024-05-05T23:43:46+00:00
+
+Chris Pine said he had negative $400 in his bank account before receiving his paycheck for 'The Princess Diaries 2.'
+
+## Bills ‘Outstanding’ UDFA Predicted to Fill Void on Final Roster
+ - [https://heavy.com/sports/nfl/buffalo-bills/kenih-lovely-cb-undfa-roster-projection](https://heavy.com/sports/nfl/buffalo-bills/kenih-lovely-cb-undfa-roster-projection)
+ - RSS feed: 
+ - date published: 2024-05-05T23:19:50+00:00
+
+The Bills cornerback Keni-H Lovely, who went undrafted out of Western Michigan, has the best odds to crack the 53-man roster.
+
 ## The World's Fastest Growing Emerging Markets (2024-2029 Forecast) | ZeroHedge
  - [https://www.zerohedge.com/economics/worlds-fastest-growing-emerging-markets-2024-2029-forecast](https://www.zerohedge.com/economics/worlds-fastest-growing-emerging-markets-2024-2029-forecast)
  - RSS feed: 
@@ -12,6 +341,13 @@ ZeroHedge - On a long enough timeline, the survival rate for everyone drops to z
 
 ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
 
+## Bulls' DeMar DeRozan Name-Dropped in Drake-Kendrick Lamar Rap Beef
+ - [https://heavy.com/sports/nba/chicago-bulls/derozan-name-dropped-drake-kendrick-beef](https://heavy.com/sports/nba/chicago-bulls/derozan-name-dropped-drake-kendrick-beef)
+ - RSS feed: 
+ - date published: 2024-05-05T23:06:38+00:00
+
+Chicago Bulls star DeMar DeRozan has found himself loosely involved in an ongoing feud between two of the top artists around.
+
 ## Can Technology Help Reduce Drunk-Driving Deaths? - Slashdot
  - [https://yro.slashdot.org/story/24/05/05/2214210/can-technology-help-reduce-drunk-driving-deaths?utm_source=rss1.0mainlinkanon&amp](https://yro.slashdot.org/story/24/05/05/2214210/can-technology-help-reduce-drunk-driving-deaths?utm_source=rss1.0mainlinkanon&amp)
  - RSS feed: 
@@ -19,6 +355,13 @@ ZeroHedge - On a long enough timeline, the survival rate for everyone drops to z
 
 An anonymous reader shared this report from the Wall Street Journal:
 Drunken-driving deaths in the U.S. have risen to levels not seen in nearly two decades, federal data show, a major setback to long-running road-safety efforts.  At the same time, arrests for driving under the influence have plummet...
+
+## Ravens' 4th-Round Pass-Catcher Predicted to Be Roster Bubble Candidate
+ - [https://heavy.com/sports/nfl/baltimore-ravens/charlie-kolar-isaiah-likely-mark-andrews](https://heavy.com/sports/nfl/baltimore-ravens/charlie-kolar-isaiah-likely-mark-andrews)
+ - RSS feed: 
+ - date published: 2024-05-05T22:57:26+00:00
+
+Ravens TE Charlie Kolar was predicted to be a potential cut candidate and on the roster bubble following free agency and the draft.
 
 ## nytimes.com
  - [https://www.nytimes.com/2024/05/04/nyregion/city-college-protests-nyc.html](https://www.nytimes.com/2024/05/04/nyregion/city-college-protests-nyc.html)
@@ -42,12 +385,54 @@ Judges have recently rebuked claims that the SEC lacks authority to po...
 
 ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
 
+## Your vacation was ruined, and the company apologized — with a heartfelt note written by ChatGPT
+ - [https://www.cnbc.com/2024/05/05/travel-companies-use-chatgpt-for-complaints-negative-online-reviews.html](https://www.cnbc.com/2024/05/05/travel-companies-use-chatgpt-for-complaints-negative-online-reviews.html)
+ - RSS feed: 
+ - date published: 2024-05-05T22:50:01+00:00
+
+Using generative AI to write apologetic responses is a taboo topic in the travel industry, which prides itself on personal service.
+
 ## Linux 6.9-rc7 Released: The Kernel Is Looking Good - Phoronix
  - [https://www.phoronix.com/news/Linux-6.9-rc7-Released](https://www.phoronix.com/news/Linux-6.9-rc7-Released)
  - RSS feed: 
  - date published: 2024-05-05T22:45:02.812780+00:00
 
 Linux 6.9-rc7 Released: The Kernel Is Looking Good - Phoronix
+
+## Orioles' 1st-Round Pick is Odds-On Favorite for AL Rookie of the Year
+ - [https://heavy.com/sports/mlb/baltimore-orioles/orioles-favorite-rookie-of-the-year](https://heavy.com/sports/mlb/baltimore-orioles/orioles-favorite-rookie-of-the-year)
+ - RSS feed: 
+ - date published: 2024-05-05T22:43:24+00:00
+
+There's a Rookie of the Year campaign brewing on the Orioles, and it's not Jackson Holliday. It's former fifth overall pick Colton Cowser.
+
+## Juan Soto 'cannot tell' Right Now If He Will Sign With the Yankees in Free Agency
+ - [https://heavy.com/sports/mlb/new-york-yankees/juan-soto-contract-free-agency](https://heavy.com/sports/mlb/new-york-yankees/juan-soto-contract-free-agency)
+ - RSS feed: 
+ - date published: 2024-05-05T22:36:29+00:00
+
+The New York Yankees will likely be willing to do whatever it takes to keep Juan Soto, but he is not ready to make a decision yet.
+
+## Browns QB Named as Potential Trade Bait Amid Talent Surplus
+ - [https://heavy.com/sports/nfl/cleveland-browns/tyler-huntley-trade-bait-deshaun-watson](https://heavy.com/sports/nfl/cleveland-browns/tyler-huntley-trade-bait-deshaun-watson)
+ - RSS feed: 
+ - date published: 2024-05-05T22:27:01+00:00
+
+The Cleveland Browns have a crowded and talented quarterback room, which could lead to Tyler Huntley being on the move ahead of the season.
+
+## Brooks Koepka Storms Back, Now Looks To Make History At PGA Championship
+ - [https://heavy.com/sports/golf/brooks-koepka-makes-history](https://heavy.com/sports/golf/brooks-koepka-makes-history)
+ - RSS feed: 
+ - date published: 2024-05-05T22:24:45+00:00
+
+Brooks Koepka becomes the first golfer to win four LIV titles, adding to his five PGA majors. Can he get a repeat win at the PGA Championship later this month?
+
+## Knicks Land Devin Booker in NBA Analyst's 3-for-1 Mock Trade
+ - [https://heavy.com/sports/nba/new-york-knicks/devin-booker-mock-trade](https://heavy.com/sports/nba/new-york-knicks/devin-booker-mock-trade)
+ - RSS feed: 
+ - date published: 2024-05-05T22:21:11+00:00
+
+Could Devin Booker be heading to the New York Knicks? Explore the trade rumors and potential player package that could make this move happen.
 
 ## Redirecting to Tasmota Documentation
  - [https://tasmota.github.io](https://tasmota.github.io)
@@ -154,6 +539,13 @@ Alert for Social Engineering Takeovers of Open Source Projects | Hacker News
 
 For former congressman Patrick J. Kennedy, advocating for mental health care is part of his family’s legacy. His uncle, President John F. Kennedy, signed the bill that established the nation’s community-based mental health care system. Ali Rogin sat down with Patrick Kennedy to discuss his new book, which details the mental health struggles and triumphs of everyday Americans.
 
+## Tom Thibodeau Claps Back at Jimmy Butler's Comments
+ - [https://heavy.com/sports/nba/new-york-knicks/knicks-thibodeau-claps-back-jimmy-butler](https://heavy.com/sports/nba/new-york-knicks/knicks-thibodeau-claps-back-jimmy-butler)
+ - RSS feed: 
+ - date published: 2024-05-05T21:21:19+00:00
+
+Whether a "bromance" or a passive aggressive rivalry, Jimmy Butler's relationship with New York Knicks' head coach Tom Thibodeau is the gift that keeps on giving.
+
 ## Could Better Data Protections Reduce Big Tech's Polarizing Power? - Slashdot
  - [https://tech.slashdot.org/story/24/05/05/2016246/could-better-data-protections-reduce-big-techs-polarizing-power?utm_source=rss1.0mainlinkanon&amp](https://tech.slashdot.org/story/24/05/05/2016246/could-better-data-protections-reduce-big-techs-polarizing-power?utm_source=rss1.0mainlinkanon&amp)
  - RSS feed: 
@@ -172,6 +564,13 @@ That's the question being asked by Chuck Todd, chief political analyst for NBC N
  - date published: 2024-05-05T21:20:00.261000+00:00
 
 Best known as King Théoden from the Lord Of The Rings trilogy, Hill was 79
+
+## Knicks Star Jalen Brunson Addresses Rumors About Supposed Beef With Rick Carlisle
+ - [https://heavy.com/sports/nba/new-york-knicks/jalen-brunson-reported-beef-with-pacers-coach](https://heavy.com/sports/nba/new-york-knicks/jalen-brunson-reported-beef-with-pacers-coach)
+ - RSS feed: 
+ - date published: 2024-05-05T21:16:42+00:00
+
+Jalen Brunson addresses the rumors about his supposed beef with his former coach Rick Carlisle. Find out what he had to say.
 
 ## US Covert Missile Launcher Touted As Game Changer In Future Taiwan War | ZeroHedge
  - [https://www.zerohedge.com/geopolitical/us-covert-missile-launcher-touted-game-changer-future-taiwan-war](https://www.zerohedge.com/geopolitical/us-covert-missile-launcher-touted-game-changer-future-taiwan-war)
@@ -193,6 +592,27 @@ Open Source Security Foundation – Linux Foundation Projects
  - date published: 2024-05-05T20:42:19+00:00
 
 Before answering to Trump's "Gestapo" comment, Doug Burgum praised him for speaking sans teleprompter
+
+## The GOP's deep generational split on immigration
+ - [https://www.axios.com/2024/05/05/republicans-immigration-age-gen-z-boomers](https://www.axios.com/2024/05/05/republicans-immigration-age-gen-z-boomers)
+ - RSS feed: 
+ - date published: 2024-05-05T20:40:55+00:00
+
+Young Republicans are notably less hawkish on immigration.
+
+## Maryland emerges as 2024's most brutal Senate primary
+ - [https://www.axios.com/2024/05/05/maryland-senate-democrat-primary-trone-alsobrooks](https://www.axios.com/2024/05/05/maryland-senate-democrat-primary-trone-alsobrooks)
+ - RSS feed: 
+ - date published: 2024-05-05T20:40:00+00:00
+
+Rep. David Trone's latest comments appear to have touched off tension within Maryland's congressional delegation.
+
+## Another Possible Darvin Ham Replacement off the Lakers Board: Report
+ - [https://heavy.com/sports/nba/los-angeles-lakers/jason-kidd-off-lakers-coaching-candidate-list](https://heavy.com/sports/nba/los-angeles-lakers/jason-kidd-off-lakers-coaching-candidate-list)
+ - RSS feed: 
+ - date published: 2024-05-05T20:37:56+00:00
+
+The Los Angeles Lakers' top options to replace recently fired Darvin Ham are dwindling by the day. Find out who they are eyeing.
 
 ## Josh Thompson · Solving Problems
  - [https://josh.works](https://josh.works)
@@ -221,6 +641,13 @@ Chance Perdomo's 'Gen V' character Andre Anderson will not be recast for Season 
  - date published: 2024-05-05T20:09:00+00:00
 
 Taylor Swift's 'Tortured Poets' had 439,000 units in week 2, the best second week for an album in nine years, and second-best weekly number of 2024.
+
+## Erin Napier Reunites With Band: Inside Her Musical Past
+ - [https://heavy.com/entertainment/hgtv/erin-napier-music-band-singing-hometown](https://heavy.com/entertainment/hgtv/erin-napier-music-band-singing-hometown)
+ - RSS feed: 
+ - date published: 2024-05-05T20:05:18+00:00
+
+As HGTV's Erin Napier reunites with her old bandmates, Heavy has uncovered videos and details of the designer's musical background.
 
 ## Ukraine marks 3rd Easter at war as its east comes under fire from Russian troops and drones
  - [https://www.pbs.org/newshour/world/ukraine-marks-3rd-easter-at-war-as-its-east-comes-under-fire-from-russian-troops-and-drones](https://www.pbs.org/newshour/world/ukraine-marks-3rd-easter-at-war-as-its-east-comes-under-fire-from-russian-troops-and-drones)
@@ -284,6 +711,13 @@ Dick Rutan, co-pilot of historic round-the-world flight, has died | Hacker News
  - date published: 2024-05-05T19:42:11+00:00
 
 Green Bay Packers first-round pick Jordan Morgan addressed some of the criticism about him being able to play left tackle in the NFL.
+
+## How surfing ‘trip of a lifetime’ to Mexico turned deadly for Aussie lacrosse star, his brother and a pal
+ - [https://feedpress.me/link/20202/16673744/how-mexico-surf-trip-turned-deadly-for-2-aussies-american](https://feedpress.me/link/20202/16673744/how-mexico-surf-trip-turned-deadly-for-2-aussies-american)
+ - RSS feed: 
+ - date published: 2024-05-05T19:41:58+00:00
+
+Mexican authorities have suggested the three were summarily executed and dumped in a well during a botched robbery in scenic Baja California.
 
 ## Bills Could Trade Safety Damar Hamlin This Season: Analyst
  - [https://heavy.com/sports/nfl/buffalo-bills/damar-hamlin-trade-rumors](https://heavy.com/sports/nfl/buffalo-bills/damar-hamlin-trade-rumors)
@@ -394,6 +828,13 @@ Former Bills running back Duke Johnson announces he's hanging up his cleats for 
  - date published: 2024-05-05T18:37:47.670559+00:00
 
 TechCrunch is part of the Yahoo family of brands
+
+## U.S. put a hold on an ammunition shipment to Israel
+ - [https://www.axios.com/2024/05/05/israel-us-ammunition-shipment-hold](https://www.axios.com/2024/05/05/israel-us-ammunition-shipment-hold)
+ - RSS feed: 
+ - date published: 2024-05-05T18:37:13.184000+00:00
+
+It is the first time since the Oct. 7 attack that the U.S. has stopped a weapons shipment intended for the Israeli military.
 
 ## TechCrunch is part of the Yahoo family of brands
  - [https://techcrunch.com/2024/05/05/women-in-ai-catherine-breslin-helps-companies-develop-ai-strategies](https://techcrunch.com/2024/05/05/women-in-ai-catherine-breslin-helps-companies-develop-ai-strategies)
@@ -644,6 +1085,13 @@ First 'tooth regrowth medicine' to be tested in Japan from Sept. 2024 | Hacker N
 
 An Iowa writer, David Eickholt, is under fire for his joke about Caitlin Clark after her WNBA debut, but he made it clear that he wasn't slamming Clark - it was sarcasm.
 
+## Hungary tired of ruling elite, Viktor Orbán challenger tells large rural rally
+ - [https://feedpress.me/link/20202/16673746/hungary-is-tired-of-the-ruling-elite-challenger-to-viktor-orban-tells-rally-in-rural-heartland](https://feedpress.me/link/20202/16673746/hungary-is-tired-of-the-ruling-elite-challenger-to-viktor-orban-tells-rally-in-rural-heartland)
+ - RSS feed: 
+ - date published: 2024-05-05T16:36:10+00:00
+
+Péter Magyar, who is running in European elections, has shot to prominence by pledging to end corruption
+
 ## TechCrunch is part of the Yahoo family of brands
  - [https://techcrunch.com/2024/05/05/say-hello-to-nasas-new-36-pixel-camera](https://techcrunch.com/2024/05/05/say-hello-to-nasas-new-36-pixel-camera)
  - RSS feed: 
@@ -666,6 +1114,13 @@ When you share a link on Mastodon, a link preview is generated for it, right?  W
  - date published: 2024-05-05T16:29:20+00:00
 
 Sony's animated "The Garfield Movie" scratched up $22 million in its debut at the international box office.
+
+## CIA Chief Headed To Qatar For 'Emergency' Meeting On Gaza Talks: Source
+ - [https://feedpress.me/link/20202/16673709/cia-chief-headed-to-qatar-to-discuss-gaza-truce-negotiations-source-13170df4](https://feedpress.me/link/20202/16673709/cia-chief-headed-to-qatar-to-discuss-gaza-truce-negotiations-source-13170df4)
+ - RSS feed: 
+ - date published: 2024-05-05T16:28:00+00:00
+
+CIA director Bill Burns is expected in Doha to meet with Qatar's prime minister for "emergency" discussions on mediation in the Israel-Hamas war, a source with knowledge of the talks told AFP Sunday.
 
 ## DWTS Alum Ready to Do 'Whatever It Takes' to Get Through Divorce
  - [https://heavy.com/entertainment/dancing-with-the-stars/jeannie-mai-whatever-divorce](https://heavy.com/entertainment/dancing-with-the-stars/jeannie-mai-whatever-divorce)
@@ -1202,11 +1657,25 @@ The Chicago Bears' newest offensive lineman, Kiran Amegadjie, is making a bold p
 Plus, Eurovision returns, Palm Royale bows out, a docuseries on Black Twitter debuts, and more.
 
 ## Congestion in Earth's orbit is getting even worse
+ - [https://feedpress.me/link/20202/16673695/satellites-crowded-orbit-spacex](https://feedpress.me/link/20202/16673695/satellites-crowded-orbit-spacex)
+ - RSS feed: 
+ - date published: 2024-05-05T11:50:54+00:00
+
+Earth gained a record number of satellites — nearly 3,000 — last year, according to new data.
+
+## Congestion in Earth's orbit is getting even worse
  - [https://www.axios.com/2024/05/05/satellites-crowded-orbit-spacex](https://www.axios.com/2024/05/05/satellites-crowded-orbit-spacex)
  - RSS feed: 
  - date published: 2024-05-05T11:50:54+00:00
 
 Earth gained a record number of satellites — nearly 3,000 — last year, according to new data.
+
+## Tesla driver terrified after 'getting stuck in her car during 103F heat'
+ - [https://feedpress.me/link/20202/16673696/tesla-driver-stuck-in-car-cybertruck-elon-musk](https://feedpress.me/link/20202/16673696/tesla-driver-stuck-in-car-cybertruck-elon-musk)
+ - RSS feed: 
+ - date published: 2024-05-05T11:49:00+00:00
+
+The Tesla driver claimed she was stuck in 103F heat while waiting in a Chick-fil-a parking lot.
 
 ## How an email, Facebook and Fan Controlled Football landed Qwan'tez Stiggers on the Jets
  - [https://www.espn.com/nfl/story/_/id/40077096/aaron-rodgers-update-qwantez-stiggers-draft-journey-jets-notebook](https://www.espn.com/nfl/story/_/id/40077096/aaron-rodgers-update-qwantez-stiggers-draft-journey-jets-notebook)
@@ -1704,14 +2173,14 @@ The 'SNL' cold open made fun of the college protests across the country.
 ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
 
 ## Dua Lipa Explains the Drake vs. Kendrick Lamar Rap Beef on ‘SNL’
- - [https://variety.com/2024/tv/news/snl-drake-kendrick-lamar-beef-1235992284](https://variety.com/2024/tv/news/snl-drake-kendrick-lamar-beef-1235992284)
+ - [https://variety.com/2024/music/news/snl-drake-kendrick-lamar-beef-1235992284](https://variety.com/2024/music/news/snl-drake-kendrick-lamar-beef-1235992284)
  - RSS feed: 
  - date published: 2024-05-05T04:17:02+00:00
 
 Dua Lipa made fun of Kendrick Lamar and Drake's rap beef on 'SNL'
 
 ## Dua Lipa Explains the Drake vs. Kendrick Lamar Rap Beef on ‘SNL’
- - [https://variety.com/2024/music/news/snl-drake-kendrick-lamar-beef-1235992284](https://variety.com/2024/music/news/snl-drake-kendrick-lamar-beef-1235992284)
+ - [https://variety.com/2024/tv/news/snl-drake-kendrick-lamar-beef-1235992284](https://variety.com/2024/tv/news/snl-drake-kendrick-lamar-beef-1235992284)
  - RSS feed: 
  - date published: 2024-05-05T04:17:02+00:00
 
@@ -2137,6 +2606,13 @@ Debian 64-bit-time transition | Hacker News
 
 Decoding UTF8 with parallel extract | Hacker News
 
+## Deep Reinforcement Learning: Zero to Hero | Hacker News
+ - [https://news.ycombinator.com/item?id=40269489](https://news.ycombinator.com/item?id=40269489)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+Deep Reinforcement Learning: Zero to Hero | Hacker News
+
 ## Designing furniture using the CSS grid (2023) | Hacker News
  - [https://news.ycombinator.com/item?id=40267182](https://news.ycombinator.com/item?id=40267182)
  - RSS feed: 
@@ -2171,6 +2647,13 @@ The Dodgers placed reliever Evan Phillips on the 15-day IL on Sunday because of 
  - date published: 2024-05-05T00:00:00+00:00
 
 Former President Trump was seen among the many celebrities at the Formula One Miami Grand Prix, where he waved to the crowd and saluted during the national anthem.
+
+## Drug resistant bacteria found on ISS mutating to become functionally distinct | Hacker News
+ - [https://news.ycombinator.com/item?id=40269592](https://news.ycombinator.com/item?id=40269592)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+Drug resistant bacteria found on ISS mutating to become functionally distinct | Hacker News
 
 ## Dua Lipa -- Good Genes or Good Docs?!
  - [https://www.tmz.com/2024/05/05/dua-lipa-good-genes-or-good-docs](https://www.tmz.com/2024/05/05/dua-lipa-good-genes-or-good-docs)
@@ -2262,6 +2745,13 @@ Hamas leaders held a second day of truce talks with Egyptian and Qatari mediator
  - date published: 2024-05-05T00:00:00+00:00
 
 Ghosts in the Machine 2 [video] | Hacker News
+
+## Giant Compressed-Air Battery in the Australian Outback | Hacker News
+ - [https://news.ycombinator.com/item?id=40263711](https://news.ycombinator.com/item?id=40263711)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+Giant Compressed-Air Battery in the Australian Outback | Hacker News
 
 ## Good ideas in computer science | Hacker News
  - [https://news.ycombinator.com/item?id=40266492](https://news.ycombinator.com/item?id=40266492)
@@ -2410,6 +2900,13 @@ Kendrick Lamar's escalating his rap beef with Drake ... labeling him as a "pedop
 
 The former Kermit the Frog actor says he's not hurt he's excluded from the upcoming Jim Henson documentary ... he's hurt 'cause he thinks Jim's spirit within The Muppets is dying.
 
+## Kernel prepatch 6.9-rc7 [LWN.net]
+ - [https://lwn.net/Articles/972473](https://lwn.net/Articles/972473)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+Kernel prepatch 6.9-rc7 [LWN.net]
+
 ## Klopp: 'Liverpool 2.0' doesn't end when I leave
  - [https://www.espn.com/soccer/story/_/id/40086202/successor-continue-liverpool-20-project-klopp](https://www.espn.com/soccer/story/_/id/40086202/successor-continue-liverpool-20-project-klopp)
  - RSS feed: 
@@ -2537,13 +3034,6 @@ The Met Gala's allegedly rescinded one person's invitation already ... 'cause a 
 Moving the largest camera from California lab to Andes mountaintop | Hacker News
 
 ## MSN
- - [https://feedpress.me/link/20202/16673480/ar-BB1lQKBL](https://feedpress.me/link/20202/16673480/ar-BB1lQKBL)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-MSN
-
-## MSN
  - [https://feedpress.me/link/20202/16673436/ar-BB1lPK1e](https://feedpress.me/link/20202/16673436/ar-BB1lPK1e)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
@@ -2551,7 +3041,7 @@ MSN
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16673504/ar-AA1o7h2f](https://feedpress.me/link/20202/16673504/ar-AA1o7h2f)
+ - [https://feedpress.me/link/20202/16673513/ar-BB1lQGX2](https://feedpress.me/link/20202/16673513/ar-BB1lQGX2)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
@@ -2565,14 +3055,28 @@ MSN
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16673462/ar-AA1o8HXy](https://feedpress.me/link/20202/16673462/ar-AA1o8HXy)
+ - [https://feedpress.me/link/20202/16673480/ar-BB1lQKBL](https://feedpress.me/link/20202/16673480/ar-BB1lQKBL)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16673499/ar-BB1lQpFB](https://feedpress.me/link/20202/16673499/ar-BB1lQpFB)
+ - [https://feedpress.me/link/20202/16673487/ar-AA1o7VyD](https://feedpress.me/link/20202/16673487/ar-AA1o7VyD)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16673504/ar-AA1o7h2f](https://feedpress.me/link/20202/16673504/ar-AA1o7h2f)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16673435/ar-AA1o7ZeE](https://feedpress.me/link/20202/16673435/ar-AA1o7ZeE)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
@@ -2580,6 +3084,13 @@ MSN
 
 ## MSN
  - [https://feedpress.me/link/20202/16673490/ar-AA1o7uX5](https://feedpress.me/link/20202/16673490/ar-AA1o7uX5)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16673462/ar-AA1o8HXy](https://feedpress.me/link/20202/16673462/ar-AA1o8HXy)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
@@ -2600,7 +3111,7 @@ MSN
 MSN
 
 ## MSN
- - [https://feedpress.me/link/20202/16673435/ar-AA1o7ZeE](https://feedpress.me/link/20202/16673435/ar-AA1o7ZeE)
+ - [https://feedpress.me/link/20202/16673499/ar-BB1lQpFB](https://feedpress.me/link/20202/16673499/ar-BB1lQpFB)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
@@ -2608,20 +3119,6 @@ MSN
 
 ## MSN
  - [https://feedpress.me/link/20202/16673481/ar-BB1lQSbW](https://feedpress.me/link/20202/16673481/ar-BB1lQSbW)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16673487/ar-AA1o7VyD](https://feedpress.me/link/20202/16673487/ar-AA1o7VyD)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-MSN
-
-## MSN
- - [https://feedpress.me/link/20202/16673513/ar-BB1lQGX2](https://feedpress.me/link/20202/16673513/ar-BB1lQGX2)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
@@ -2683,6 +3180,13 @@ Occupy Wall Street | Hacker News
 
 Shohei Ohtani hit his eighth home run of the season Saturday night and surpassed Dave Roberts' team record for a Japanese-born player, with a solo shot to right-center during the third inning against the Braves.
 
+## Ohtani hits 2 HR in win, including 464-foot blast
+ - [https://www.espn.com/mlb/story/_/id/40090461/shohei-ohtani-4-hits-homers-twice-dodgers-sweep-braves](https://www.espn.com/mlb/story/_/id/40090461/shohei-ohtani-4-hits-homers-twice-dodgers-sweep-braves)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+Shohei Ohtani went 4 for 4 with two home runs, and the Dodgers beat the Braves, 5-1, to sweep the three-game series.
+
 ## On Orthodox Easter, Zelenskiy calls on Ukrainians to unite in prayer
  - [https://www.reuters.com/world/europe/orthodox-easter-zelenskiy-calls-ukrainians-unite-prayer-2024-05-05](https://www.reuters.com/world/europe/orthodox-easter-zelenskiy-calls-ukrainians-unite-prayer-2024-05-05)
  - RSS feed: 
@@ -2696,6 +3200,13 @@ President Volodymyr Zelenskiy called on his fellow Ukrainians on Orthodox Easter
  - date published: 2024-05-05T00:00:00+00:00
 
 Outside covers travel, sports, gear, and fitness, as well as the personalities, the environment, and the style and culture of the outdoors.
+
+## Padres place struggling Musgrove (elbow) on IL
+ - [https://www.espn.com/mlb/story/_/id/40090664/padres-place-joe-musgrove-il-elbow-inflammation](https://www.espn.com/mlb/story/_/id/40090664/padres-place-joe-musgrove-il-elbow-inflammation)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The Padres have placed struggling right-hander Joe Musgrove on the 15-day injured list due to inflammation in his pitching elbow.
 
 ## Panamanians vote in crowded field of presidential contenders
  - [https://www.reuters.com/world/americas/panamanians-vote-crowded-field-presidential-contenders-2024-05-05](https://www.reuters.com/world/americas/panamanians-vote-crowded-field-presidential-contenders-2024-05-05)
@@ -2781,6 +3292,13 @@ Recruiters Are Going Analog to Fight the AI Application Overload | Hacker News
  - date published: 2024-05-05T00:00:00+00:00
 
 The Red Sox ended Minnesota's 12-game winning streak on Sunday after beating the Twins 9-2.
+
+## Reports: AL batting leader Kwan headed to IL
+ - [https://www.espn.com/mlb/story/_/id/40090701/guardians-steven-kwan-hamstring-headed-il-per-reports](https://www.espn.com/mlb/story/_/id/40090701/guardians-steven-kwan-hamstring-headed-il-per-reports)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+Guardians leadoff hitter Steven Kwan is headed to the injured list with a hamstring strain and Cleveland will call up top prospect Kyle Manzardo, according to multiple reports.
 
 ## Rick Ross Plays Into Plane Crash Rumors, Jokes Drake Shot Down Him Down
  - [https://www.tmz.com/2024/05/04/rick-ross-play-plane-crash-rumors-drake-shot-down-dallas-not-true](https://www.tmz.com/2024/05/04/rick-ross-play-plane-crash-rumors-drake-shot-down-dallas-not-true)
@@ -2950,211 +3468,29 @@ Tasmota: Open-source firmware for ESP devices | Hacker News
 
 Teyana Taylor stripped down her fashion choices Saturday ... and, we mean it quite literally - 'cause the glamorous star left little to the imagination during a sultry cabaret show!
 
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/3b5f54ec-7e28-414b-aa92-222140994601](https://brutalist.report/bruticle/3b5f54ec-7e28-414b-aa92-222140994601)
+## The Brutalist Report
+ - [https://brutalist.report/wordcloud](https://brutalist.report/wordcloud)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
-The day's headlines delivered to you without bullshit. - about
+The day's headlines delivered to you without bullshit.
 
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/3722a3d3-ce9e-4935-87a5-356bd3ab9b6d](https://brutalist.report/bruticle/3722a3d3-ce9e-4935-87a5-356bd3ab9b6d)
+## The Brutalist Report
+ - [https://brutalist.report/summary](https://brutalist.report/summary)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
-The day's headlines delivered to you without bullshit. - about
+The day's headlines delivered to you without bullshit.
 
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/bd3d959a-6106-45a5-ac87-c0658e91e918](https://brutalist.report/bruticle/bd3d959a-6106-45a5-ac87-c0658e91e918)
+## The Brutalist Report -
+ - [https://brutalist.report/source/espn](https://brutalist.report/source/espn)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
-The day's headlines delivered to you without bullshit. - about
+The day's headlines delivered to you without bullshit. -
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/60276e33-e271-4aaa-9f17-aca640de9e28](https://brutalist.report/bruticle/60276e33-e271-4aaa-9f17-aca640de9e28)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/d0e9598f-c1c7-4fd4-b83d-09c6d51dbb68](https://brutalist.report/bruticle/d0e9598f-c1c7-4fd4-b83d-09c6d51dbb68)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/2e114fa2-d8ca-485d-b8c5-8889219867e3](https://brutalist.report/bruticle/2e114fa2-d8ca-485d-b8c5-8889219867e3)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/60586993-a759-4e0f-b7ce-5520cc4be237](https://brutalist.report/bruticle/60586993-a759-4e0f-b7ce-5520cc4be237)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/6ced3c55-6c76-4162-8d61-34ce3802c052](https://brutalist.report/bruticle/6ced3c55-6c76-4162-8d61-34ce3802c052)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/98c5a652-bf28-4621-8f0d-27c95ac8dad0](https://brutalist.report/bruticle/98c5a652-bf28-4621-8f0d-27c95ac8dad0)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/b1647658-3d08-45b6-9b65-4c404329d794](https://brutalist.report/bruticle/b1647658-3d08-45b6-9b65-4c404329d794)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/b4f051e8-19de-49ce-9a13-27a1aca0b00d](https://brutalist.report/bruticle/b4f051e8-19de-49ce-9a13-27a1aca0b00d)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/4b867607-9d1c-421a-b177-45bc2049969f](https://brutalist.report/bruticle/4b867607-9d1c-421a-b177-45bc2049969f)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/05e75934-a7fb-46b1-9ae1-e910edd3cc6c](https://brutalist.report/bruticle/05e75934-a7fb-46b1-9ae1-e910edd3cc6c)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/22a76977-c632-41eb-9a62-5accc52a0040](https://brutalist.report/bruticle/22a76977-c632-41eb-9a62-5accc52a0040)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/f6f079e6-bd82-46c6-8572-afcdbba6aee9](https://brutalist.report/bruticle/f6f079e6-bd82-46c6-8572-afcdbba6aee9)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/d1ad891a-4914-4ba3-a889-3b0e191af769](https://brutalist.report/bruticle/d1ad891a-4914-4ba3-a889-3b0e191af769)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/ad6416e7-5eef-40d3-bce9-9179c786dc3a](https://brutalist.report/bruticle/ad6416e7-5eef-40d3-bce9-9179c786dc3a)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/b0e78ed3-bc35-475e-a5d6-3bda14024d1b](https://brutalist.report/bruticle/b0e78ed3-bc35-475e-a5d6-3bda14024d1b)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/bf590ee0-6891-4557-aac3-d1e61871f6b4](https://brutalist.report/bruticle/bf590ee0-6891-4557-aac3-d1e61871f6b4)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/90acc65a-c716-4d3b-acbe-720b44bb3f8c](https://brutalist.report/bruticle/90acc65a-c716-4d3b-acbe-720b44bb3f8c)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/1e180261-b014-4be8-83b3-17c61136886f](https://brutalist.report/bruticle/1e180261-b014-4be8-83b3-17c61136886f)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/65e25f57-7247-4823-9ce6-43e214ffa752](https://brutalist.report/bruticle/65e25f57-7247-4823-9ce6-43e214ffa752)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/e9aeb8e7-a18d-44bb-80d5-dedc2a65b901](https://brutalist.report/bruticle/e9aeb8e7-a18d-44bb-80d5-dedc2a65b901)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/d1d99b4e-883b-44ab-b16e-2a8ce8506084](https://brutalist.report/bruticle/d1d99b4e-883b-44ab-b16e-2a8ce8506084)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/ef21f681-0a79-43c2-a593-7de9b79086bd](https://brutalist.report/bruticle/ef21f681-0a79-43c2-a593-7de9b79086bd)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/9136119e-ef0e-4a40-9c7d-bf15bcb36513](https://brutalist.report/bruticle/9136119e-ef0e-4a40-9c7d-bf15bcb36513)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/bc1fd6a9-6a95-4e35-851b-bebaadd5422a](https://brutalist.report/bruticle/bc1fd6a9-6a95-4e35-851b-bebaadd5422a)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/773c359c-49a5-4568-893a-6c1ca4f38f8a](https://brutalist.report/bruticle/773c359c-49a5-4568-893a-6c1ca4f38f8a)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/fbd35f9e-aa97-490a-a757-a32cfb424ade](https://brutalist.report/bruticle/fbd35f9e-aa97-490a-a757-a32cfb424ade)
- - RSS feed: 
- - date published: 2024-05-05T00:00:00+00:00
-
-The day's headlines delivered to you without bullshit. - about
-
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/65dd5498-b83c-476b-aa8b-1b7d2d1ed70a](https://brutalist.report/bruticle/65dd5498-b83c-476b-aa8b-1b7d2d1ed70a)
+ - [https://brutalist.report/about](https://brutalist.report/about)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
@@ -3168,6 +3504,27 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/65dd5498-b83c-476b-aa8b-1b7d2d1ed70a](https://brutalist.report/bruticle/65dd5498-b83c-476b-aa8b-1b7d2d1ed70a)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/6ced3c55-6c76-4162-8d61-34ce3802c052](https://brutalist.report/bruticle/6ced3c55-6c76-4162-8d61-34ce3802c052)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/60586993-a759-4e0f-b7ce-5520cc4be237](https://brutalist.report/bruticle/60586993-a759-4e0f-b7ce-5520cc4be237)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
  - [https://brutalist.report/bruticle/45596602-f37b-4d0b-9af0-81aec2a8a873](https://brutalist.report/bruticle/45596602-f37b-4d0b-9af0-81aec2a8a873)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
@@ -3175,14 +3532,42 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/233622ae-bb3b-41d3-9293-d414041575cf](https://brutalist.report/bruticle/233622ae-bb3b-41d3-9293-d414041575cf)
+ - [https://brutalist.report/bruticle/fbd35f9e-aa97-490a-a757-a32cfb424ade](https://brutalist.report/bruticle/fbd35f9e-aa97-490a-a757-a32cfb424ade)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/43b5d28a-1cc7-4961-9e97-722d59484227](https://brutalist.report/bruticle/43b5d28a-1cc7-4961-9e97-722d59484227)
+ - [https://brutalist.report/bruticle/16c12201-d6bf-4354-aae3-8ccd1731f0b5](https://brutalist.report/bruticle/16c12201-d6bf-4354-aae3-8ccd1731f0b5)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/98c5a652-bf28-4621-8f0d-27c95ac8dad0](https://brutalist.report/bruticle/98c5a652-bf28-4621-8f0d-27c95ac8dad0)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/ad6416e7-5eef-40d3-bce9-9179c786dc3a](https://brutalist.report/bruticle/ad6416e7-5eef-40d3-bce9-9179c786dc3a)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/9136119e-ef0e-4a40-9c7d-bf15bcb36513](https://brutalist.report/bruticle/9136119e-ef0e-4a40-9c7d-bf15bcb36513)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/773c359c-49a5-4568-893a-6c1ca4f38f8a](https://brutalist.report/bruticle/773c359c-49a5-4568-893a-6c1ca4f38f8a)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
@@ -3196,7 +3581,35 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/0f8fee43-3bd0-43f5-801f-e9e098959c3c](https://brutalist.report/bruticle/0f8fee43-3bd0-43f5-801f-e9e098959c3c)
+ - [https://brutalist.report/bruticle/c1d99431-a180-4099-b861-42822f008028](https://brutalist.report/bruticle/c1d99431-a180-4099-b861-42822f008028)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/d1ad891a-4914-4ba3-a889-3b0e191af769](https://brutalist.report/bruticle/d1ad891a-4914-4ba3-a889-3b0e191af769)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/bc1fd6a9-6a95-4e35-851b-bebaadd5422a](https://brutalist.report/bruticle/bc1fd6a9-6a95-4e35-851b-bebaadd5422a)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/3b5f54ec-7e28-414b-aa92-222140994601](https://brutalist.report/bruticle/3b5f54ec-7e28-414b-aa92-222140994601)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/d1d99b4e-883b-44ab-b16e-2a8ce8506084](https://brutalist.report/bruticle/d1d99b4e-883b-44ab-b16e-2a8ce8506084)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
@@ -3217,6 +3630,160 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/b0e78ed3-bc35-475e-a5d6-3bda14024d1b](https://brutalist.report/bruticle/b0e78ed3-bc35-475e-a5d6-3bda14024d1b)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/2e114fa2-d8ca-485d-b8c5-8889219867e3](https://brutalist.report/bruticle/2e114fa2-d8ca-485d-b8c5-8889219867e3)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/d0e9598f-c1c7-4fd4-b83d-09c6d51dbb68](https://brutalist.report/bruticle/d0e9598f-c1c7-4fd4-b83d-09c6d51dbb68)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/bf590ee0-6891-4557-aac3-d1e61871f6b4](https://brutalist.report/bruticle/bf590ee0-6891-4557-aac3-d1e61871f6b4)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/60276e33-e271-4aaa-9f17-aca640de9e28](https://brutalist.report/bruticle/60276e33-e271-4aaa-9f17-aca640de9e28)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/90acc65a-c716-4d3b-acbe-720b44bb3f8c](https://brutalist.report/bruticle/90acc65a-c716-4d3b-acbe-720b44bb3f8c)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/bd3d959a-6106-45a5-ac87-c0658e91e918](https://brutalist.report/bruticle/bd3d959a-6106-45a5-ac87-c0658e91e918)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/65e25f57-7247-4823-9ce6-43e214ffa752](https://brutalist.report/bruticle/65e25f57-7247-4823-9ce6-43e214ffa752)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/f6f079e6-bd82-46c6-8572-afcdbba6aee9](https://brutalist.report/bruticle/f6f079e6-bd82-46c6-8572-afcdbba6aee9)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/4b867607-9d1c-421a-b177-45bc2049969f](https://brutalist.report/bruticle/4b867607-9d1c-421a-b177-45bc2049969f)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/22a76977-c632-41eb-9a62-5accc52a0040](https://brutalist.report/bruticle/22a76977-c632-41eb-9a62-5accc52a0040)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/0f8fee43-3bd0-43f5-801f-e9e098959c3c](https://brutalist.report/bruticle/0f8fee43-3bd0-43f5-801f-e9e098959c3c)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/3722a3d3-ce9e-4935-87a5-356bd3ab9b6d](https://brutalist.report/bruticle/3722a3d3-ce9e-4935-87a5-356bd3ab9b6d)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/05e75934-a7fb-46b1-9ae1-e910edd3cc6c](https://brutalist.report/bruticle/05e75934-a7fb-46b1-9ae1-e910edd3cc6c)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/premium](https://brutalist.report/premium)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/ef21f681-0a79-43c2-a593-7de9b79086bd](https://brutalist.report/bruticle/ef21f681-0a79-43c2-a593-7de9b79086bd)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/1e180261-b014-4be8-83b3-17c61136886f](https://brutalist.report/bruticle/1e180261-b014-4be8-83b3-17c61136886f)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/e9aeb8e7-a18d-44bb-80d5-dedc2a65b901](https://brutalist.report/bruticle/e9aeb8e7-a18d-44bb-80d5-dedc2a65b901)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/b1647658-3d08-45b6-9b65-4c404329d794](https://brutalist.report/bruticle/b1647658-3d08-45b6-9b65-4c404329d794)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/31df2fed-5ef2-4173-9303-afb42a27a1ab](https://brutalist.report/bruticle/31df2fed-5ef2-4173-9303-afb42a27a1ab)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/b4f051e8-19de-49ce-9a13-27a1aca0b00d](https://brutalist.report/bruticle/b4f051e8-19de-49ce-9a13-27a1aca0b00d)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/233622ae-bb3b-41d3-9293-d414041575cf](https://brutalist.report/bruticle/233622ae-bb3b-41d3-9293-d414041575cf)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
  - [https://brutalist.report/bruticle/a72309b1-ac90-4031-a422-17d6ec876317](https://brutalist.report/bruticle/a72309b1-ac90-4031-a422-17d6ec876317)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
@@ -3224,18 +3791,438 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/16c12201-d6bf-4354-aae3-8ccd1731f0b5](https://brutalist.report/bruticle/16c12201-d6bf-4354-aae3-8ccd1731f0b5)
+ - [https://brutalist.report/bruticle/43b5d28a-1cc7-4961-9e97-722d59484227](https://brutalist.report/bruticle/43b5d28a-1cc7-4961-9e97-722d59484227)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
 The day's headlines delivered to you without bullshit. - about
 
-## The Brutalist Report - about
- - [https://brutalist.report/bruticle/c1d99431-a180-4099-b861-42822f008028](https://brutalist.report/bruticle/c1d99431-a180-4099-b861-42822f008028)
+## The Brutalist Report - aljazeera
+ - [https://brutalist.report/source/aljazeera](https://brutalist.report/source/aljazeera)
  - RSS feed: 
  - date published: 2024-05-05T00:00:00+00:00
 
-The day's headlines delivered to you without bullshit. - about
+The day's headlines delivered to you without bullshit. - aljazeera
+
+## The Brutalist Report - appleinsider
+ - [https://brutalist.report/source/appleinsider](https://brutalist.report/source/appleinsider)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - appleinsider
+
+## The Brutalist Report - arstechnica
+ - [https://brutalist.report/source/arstechnica](https://brutalist.report/source/arstechnica)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - arstechnica
+
+## The Brutalist Report - avclub
+ - [https://brutalist.report/source/avclub](https://brutalist.report/source/avclub)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - avclub
+
+## The Brutalist Report - axios
+ - [https://brutalist.report/source/axios](https://brutalist.report/source/axios)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - axios
+
+## The Brutalist Report - bleepingcomputer
+ - [https://brutalist.report/source/bleepingcomputer](https://brutalist.report/source/bleepingcomputer)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - bleepingcomputer
+
+## The Brutalist Report - business
+ - [https://brutalist.report/topic/business](https://brutalist.report/topic/business)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - business
+
+## The Brutalist Report - cloudflare
+ - [https://brutalist.report/source/cloudflare](https://brutalist.report/source/cloudflare)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - cloudflare
+
+## The Brutalist Report - CNBC
+ - [https://brutalist.report/source/CNBC](https://brutalist.report/source/CNBC)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - CNBC
+
+## The Brutalist Report - conversation
+ - [https://brutalist.report/source/conversation](https://brutalist.report/source/conversation)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - conversation
+
+## The Brutalist Report - culture
+ - [https://brutalist.report/topic/culture](https://brutalist.report/topic/culture)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - culture
+
+## The Brutalist Report - daringfireball
+ - [https://brutalist.report/source/daringfireball](https://brutalist.report/source/daringfireball)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - daringfireball
+
+## The Brutalist Report - drudge
+ - [https://brutalist.report/source/drudge](https://brutalist.report/source/drudge)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - drudge
+
+## The Brutalist Report - engadget
+ - [https://brutalist.report/source/engadget](https://brutalist.report/source/engadget)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - engadget
+
+## The Brutalist Report - Esquire
+ - [https://brutalist.report/source/Esquire](https://brutalist.report/source/Esquire)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - Esquire
+
+## The Brutalist Report - fastcompany
+ - [https://brutalist.report/source/fastcompany](https://brutalist.report/source/fastcompany)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - fastcompany
+
+## The Brutalist Report - foxnews
+ - [https://brutalist.report/source/foxnews](https://brutalist.report/source/foxnews)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - foxnews
+
+## The Brutalist Report - gamespot
+ - [https://brutalist.report/source/gamespot](https://brutalist.report/source/gamespot)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - gamespot
+
+## The Brutalist Report - gaming
+ - [https://brutalist.report/topic/gaming](https://brutalist.report/topic/gaming)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - gaming
+
+## The Brutalist Report - heavy
+ - [https://brutalist.report/source/heavy](https://brutalist.report/source/heavy)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - heavy
+
+## The Brutalist Report - hn
+ - [https://brutalist.report/source/hn](https://brutalist.report/source/hn)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - hn
+
+## The Brutalist Report - intercept
+ - [https://brutalist.report/source/intercept](https://brutalist.report/source/intercept)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - intercept
+
+## The Brutalist Report - kotaku
+ - [https://brutalist.report/source/kotaku](https://brutalist.report/source/kotaku)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - kotaku
+
+## The Brutalist Report - lwn
+ - [https://brutalist.report/source/lwn](https://brutalist.report/source/lwn)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - lwn
+
+## The Brutalist Report - mashable
+ - [https://brutalist.report/source/mashable](https://brutalist.report/source/mashable)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - mashable
+
+## The Brutalist Report - news
+ - [https://brutalist.report/topic/news](https://brutalist.report/topic/news)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - news
+
+## The Brutalist Report - newscientist
+ - [https://brutalist.report/source/newscientist](https://brutalist.report/source/newscientist)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - newscientist
+
+## The Brutalist Report - newyorker
+ - [https://brutalist.report/source/newyorker](https://brutalist.report/source/newyorker)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - newyorker
+
+## The Brutalist Report - npr
+ - [https://brutalist.report/source/npr](https://brutalist.report/source/npr)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - npr
+
+## The Brutalist Report - nytimes
+ - [https://brutalist.report/source/nytimes](https://brutalist.report/source/nytimes)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - nytimes
+
+## The Brutalist Report - onion
+ - [https://brutalist.report/source/onion](https://brutalist.report/source/onion)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - onion
+
+## The Brutalist Report - pbsnewshour
+ - [https://brutalist.report/source/pbsnewshour](https://brutalist.report/source/pbsnewshour)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - pbsnewshour
+
+## The Brutalist Report - pcgamer
+ - [https://brutalist.report/source/pcgamer](https://brutalist.report/source/pcgamer)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - pcgamer
+
+## The Brutalist Report - phoronix
+ - [https://brutalist.report/source/phoronix](https://brutalist.report/source/phoronix)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - phoronix
+
+## The Brutalist Report - phys
+ - [https://brutalist.report/source/phys](https://brutalist.report/source/phys)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - phys
+
+## The Brutalist Report - politics
+ - [https://brutalist.report/topic/politics](https://brutalist.report/topic/politics)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - politics
+
+## The Brutalist Report - polygon
+ - [https://brutalist.report/source/polygon](https://brutalist.report/source/polygon)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - polygon
+
+## The Brutalist Report - quantamag
+ - [https://brutalist.report/source/quantamag](https://brutalist.report/source/quantamag)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - quantamag
+
+## The Brutalist Report - quartz
+ - [https://brutalist.report/source/quartz](https://brutalist.report/source/quartz)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - quartz
+
+## The Brutalist Report - register
+ - [https://brutalist.report/source/register](https://brutalist.report/source/register)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - register
+
+## The Brutalist Report - salon
+ - [https://brutalist.report/source/salon](https://brutalist.report/source/salon)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - salon
+
+## The Brutalist Report - science
+ - [https://brutalist.report/topic/science](https://brutalist.report/topic/science)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - science
+
+## The Brutalist Report - sciencedaily
+ - [https://brutalist.report/source/sciencedaily](https://brutalist.report/source/sciencedaily)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - sciencedaily
+
+## The Brutalist Report - scientificamerican
+ - [https://brutalist.report/source/scientificamerican](https://brutalist.report/source/scientificamerican)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - scientificamerican
+
+## The Brutalist Report - servethehome
+ - [https://brutalist.report/source/servethehome](https://brutalist.report/source/servethehome)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - servethehome
+
+## The Brutalist Report - shortcut
+ - [https://brutalist.report/source/shortcut](https://brutalist.report/source/shortcut)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - shortcut
+
+## The Brutalist Report - slashdot
+ - [https://brutalist.report/source/slashdot](https://brutalist.report/source/slashdot)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - slashdot
+
+## The Brutalist Report - sports
+ - [https://brutalist.report/topic/sports](https://brutalist.report/topic/sports)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - sports
+
+## The Brutalist Report - tech
+ - [https://brutalist.report/topic/tech](https://brutalist.report/topic/tech)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - tech
+
+## The Brutalist Report - techcrunch
+ - [https://brutalist.report/source/techcrunch](https://brutalist.report/source/techcrunch)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - techcrunch
+
+## The Brutalist Report - techradar
+ - [https://brutalist.report/source/techradar](https://brutalist.report/source/techradar)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - techradar
+
+## The Brutalist Report - thenewrepublic
+ - [https://brutalist.report/source/thenewrepublic](https://brutalist.report/source/thenewrepublic)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - thenewrepublic
+
+## The Brutalist Report - thepointsguy
+ - [https://brutalist.report/source/thepointsguy](https://brutalist.report/source/thepointsguy)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - thepointsguy
+
+## The Brutalist Report - tmz
+ - [https://brutalist.report/source/tmz](https://brutalist.report/source/tmz)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - tmz
+
+## The Brutalist Report - vanityfair
+ - [https://brutalist.report/source/vanityfair](https://brutalist.report/source/vanityfair)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - vanityfair
+
+## The Brutalist Report - variety
+ - [https://brutalist.report/source/variety](https://brutalist.report/source/variety)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - variety
+
+## The Brutalist Report - verge
+ - [https://brutalist.report/source/verge](https://brutalist.report/source/verge)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - verge
+
+## The Brutalist Report - wired
+ - [https://brutalist.report/source/wired](https://brutalist.report/source/wired)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - wired
+
+## The Brutalist Report - wsjbusiness
+ - [https://brutalist.report/source/wsjbusiness](https://brutalist.report/source/wsjbusiness)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - wsjbusiness
+
+## The Brutalist Report - yahoofinance
+ - [https://brutalist.report/source/yahoofinance](https://brutalist.report/source/yahoofinance)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - yahoofinance
+
+## The Brutalist Report - zerohedge
+ - [https://brutalist.report/source/zerohedge](https://brutalist.report/source/zerohedge)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - zerohedge
 
 ## The Guide to Git I Never Had | Hacker News
  - [https://news.ycombinator.com/item?id=40262056](https://news.ycombinator.com/item?id=40262056)
@@ -3257,6 +4244,13 @@ The Hill: The Pentagon is lying about UFOs | Hacker News
  - date published: 2024-05-05T00:00:00+00:00
 
 The Runners Who Went So Hard They Were Never the Same | Hacker News
+
+## The Sam Altman Playbook: Fear, the Denial of Uncertainties, and Hype | Hacker News
+ - [https://news.ycombinator.com/item?id=40269480](https://news.ycombinator.com/item?id=40269480)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+The Sam Altman Playbook: Fear, the Denial of Uncertainties, and Hype | Hacker News
 
 ## The Trouble with Soho | Hacker News
  - [https://news.ycombinator.com/item?id=40265986](https://news.ycombinator.com/item?id=40265986)
@@ -3320,6 +4314,13 @@ It's Sunday Funday, people ... so sit back, relax and enjoy the best TMZ clips w
  - date published: 2024-05-05T00:00:00+00:00
 
 Togo's ruling party has won 108 out of 113 seats in parliament, according to the final provisional results of last month's legislative election announced on Friday.
+
+## Tom Brady, Gisele Bündchen divorce mocked during Netflix comedy roast of retired quarterback
+ - [https://www.foxnews.com/entertainment/tom-brady-gisele-bundchen-divorce-mocked-netflix-comedy-roast-retired-quarterback](https://www.foxnews.com/entertainment/tom-brady-gisele-bundchen-divorce-mocked-netflix-comedy-roast-retired-quarterback)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+Tom Brady was roasted by comedians and football players during live Netflix special. Nothing was off limits, including his romantic life with Gisele Bündchen.
 
 ## Transfer Talk: Manchester United open to offers for Antony
  - [https://www.espn.com/soccer/story/_/id/40084020/transfer-talk-manchester-united-open-offers-antony](https://www.espn.com/soccer/story/_/id/40084020/transfer-talk-manchester-united-open-offers-antony)
@@ -3398,6 +4399,13 @@ A vehicle traveling "at a high rate of speed" crashed into a gate at the White H
 
 Nicolas Cage's son is on LAPD's radar, as cops investigate allegations that he got violent with his mother ... and, new photos capture the brutal alleged injuries.
 
+## What's bad about this habit (2009) [pdf] | Hacker News
+ - [https://news.ycombinator.com/item?id=40266682](https://news.ycombinator.com/item?id=40266682)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+What's bad about this habit (2009) [pdf] | Hacker News
+
 ## Why wait? Malone wants better starts by Nuggets
  - [https://www.espn.com/nba/story/_/id/40089610/down-0-1-michael-malone-implores-nuggets-set-tone-early](https://www.espn.com/nba/story/_/id/40089610/down-0-1-michael-malone-implores-nuggets-set-tone-early)
  - RSS feed: 
@@ -3425,6 +4433,13 @@ It's Ed West's sub stack. Click to read Wrong Side of History, by Ed West, a Sub
  - date published: 2024-05-05T00:00:00+00:00
 
 Xmake: A modern C/C++ build tool | Hacker News
+
+## X.org on NetBSD – The State of Things | Hacker News
+ - [https://news.ycombinator.com/item?id=40269680](https://news.ycombinator.com/item?id=40269680)
+ - RSS feed: 
+ - date published: 2024-05-05T00:00:00+00:00
+
+X.org on NetBSD – The State of Things | Hacker News
 
 ## yuanchuan
  - [https://yuanchuan.dev](https://yuanchuan.dev)

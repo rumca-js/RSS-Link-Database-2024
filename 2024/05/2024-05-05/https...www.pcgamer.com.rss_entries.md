@@ -1,5 +1,12 @@
 # Source:pcgamer, URL:https://www.pcgamer.com/rss, language:en-US
 
+## Love Sucks: Night Two is a horny game where the real fantasy isn't sex, it's enjoying a carnival without almost immediately getting tired and wanting to go home
+ - [https://www.pcgamer.com/games/visual-novel/love-sucks-night-two-is-a-horny-game-where-the-real-fantasy-isnt-sex-its-enjoying-a-carnival-without-almost-immediately-getting-tired-and-wanting-to-go-home](https://www.pcgamer.com/games/visual-novel/love-sucks-night-two-is-a-horny-game-where-the-real-fantasy-isnt-sex-its-enjoying-a-carnival-without-almost-immediately-getting-tired-and-wanting-to-go-home)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-05T23:53:14+00:00
+
+A pleasant night out.
+
 ## New Apex Legends trailer gets us another look at Alter, Season 21, and the return of solos
  - [https://www.pcgamer.com/games/battle-royale/new-apex-legends-trailer-gets-us-another-look-at-alter](https://www.pcgamer.com/games/battle-royale/new-apex-legends-trailer-gets-us-another-look-at-alter)
  - RSS feed: https://www.pcgamer.com/rss

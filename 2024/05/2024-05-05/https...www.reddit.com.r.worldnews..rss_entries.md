@@ -1,5 +1,12 @@
 # Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
 
+## Greece And Turkey are adamant about retaining their Russian missiles
+ - [https://www.reddit.com/r/worldnews/comments/1cl2f45/greece_and_turkey_are_adamant_about_retaining](https://www.reddit.com/r/worldnews/comments/1cl2f45/greece_and_turkey_are_adamant_about_retaining)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-05T21:47:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cl2f45/greece_and_turkey_are_adamant_about_retaining/"> <img alt="Greece And Turkey are adamant about retaining their Russian missiles" src="https://external-preview.redd.it/evBmWwLx_fPbbbeTM-SNH9zBUX-YswoPGY5eiQ2n8cA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b01a00fca3db90d6f8d22f9a083ce3e600ee6d7" title="Greece And Turkey are adamant about retaining their Russian missiles" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/threafold"> /u/threafold </a> <br /> <span><a href="https://www.forbes.com/sites/pauliddon/2024/05/05/greece-and-turkey-are-adamant-about-retaining-their-russian-missiles/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cl2f45/greece_and_turkey_are_adamant_about_retaining/">[comments]</a></span> </td></tr></table>
+
 ## Al Jazeera office raided as Israel takes channel off air
  - [https://www.reddit.com/r/worldnews/comments/1cl21zc/al_jazeera_office_raided_as_israel_takes_channel](https://www.reddit.com/r/worldnews/comments/1cl21zc/al_jazeera_office_raided_as_israel_takes_channel)
  - RSS feed: https://www.reddit.com/r/worldnews/.rss

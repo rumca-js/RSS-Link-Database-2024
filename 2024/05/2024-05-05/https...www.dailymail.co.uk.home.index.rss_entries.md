@@ -1,5 +1,61 @@
 # Source:Daily Mail - Home, URL:https://www.dailymail.co.uk/home/index.rss, language:en-gb
 
+## Grieving mother of Britain's heaviest man worried he will not be able to be cremated because of his 50-stone frame
+ - [https://www.dailymail.co.uk/news/article-13385721/Grieving-mother-Britains-heaviest-man-worried-not-able-cremated-50-stone-frame.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-13385721/Grieving-mother-Britains-heaviest-man-worried-not-able-cremated-50-stone-frame.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-05T23:59:10+00:00
+
+Leisa,55, claimed a burial would cost too much money as her son's large body would require a double plot instead of a single. Jason Holton, 33, from Camberley, died from organ failure last Saturday.
+
+## Madonna performs to a record-breaking 1.6 MILLION people in Rio de Janeiro in the last concert of the pop superstar's Celebration world tour
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13385801/Madonna-record-breaking-1-6-MILLION-Rio-Janeiro-pop-superstars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13385801/Madonna-record-breaking-1-6-MILLION-Rio-Janeiro-pop-superstars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-05T23:58:50+00:00
+
+On Saturday night Madonna pulled in a record-breaking crowd of 1.6 million fans for an epic concert on Rio de Janeiro's Copacabana beach.
+
+## The Responder review: Final performance that shows Brendan Hill's powerful presence was undimmed, writes CHRISTOPHER STEVENS
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13385761/The-Responder-review-Final-performance-Brendan-Hills-powerful-presence-undimmed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13385761/The-Responder-review-Final-performance-Brendan-Hills-powerful-presence-undimmed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-05T23:46:27+00:00
+
+What a way to take his final curtain. Bernard Hill (pictured), an actor of unmatched power, died yesterday - hours before his final performance aired.
+
+## Nicolas Cage's son Weston, 33, is being investigated by police for allegedly ATTACKING his mother and leaving her with a black eye
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13385365/Nicolas-Cages-son-Weston-33-investigated-police-allegedly-ATTACKING-mother-leaving-black-eye.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13385365/Nicolas-Cages-son-Weston-33-investigated-police-allegedly-ATTACKING-mother-leaving-black-eye.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-05T23:26:28+00:00
+
+Nicolas Cage's oldest child is wanted for questioning after an incident at his mother's house. The actor's son Weston, 33, has been named a suspect in a battery
+
+## Gary Barlow's £6M mansion 'targeted by gang of burglars as the singer performed with Take That on Ant and Dec's Saturday Night Takeaway'
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13385641/Gary-Barlows-6M-mansion-gang-burglars-Ant-Decs-Saturday-Night-Takeaway-that.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13385641/Gary-Barlows-6M-mansion-gang-burglars-Ant-Decs-Saturday-Night-Takeaway-that.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-05T23:21:07+00:00
+
+The singer, 53, lives in the property with his wife Dawn, 53, and children Daniel, 22, Emily, 19, and Daisy, 13, however it's unclear if they were at home at the time
+
+## Lando Norris claims first F1 victory at star-studded Miami Grand Prix as Max Verstappen is forced to settle for second in front of Donald Trump
+ - [https://www.dailymail.co.uk/sport/formulaone/article-13385491/miami-grand-prix-lando-norris-wins-max-verstappen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/formulaone/article-13385491/miami-grand-prix-lando-norris-wins-max-verstappen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-05T22:40:52+00:00
+
+JONATHAN McEVOY IN MIAMI: Lando Norris won his first race on a sunlit day. A little bit of luck came into it, for sure, in the shape of a safety car. But for Norris, a whole heap of relief lifted.
+
+## Bernard Hill's final TV appearance in BBC's The Responder leaves viewers in 'tears' hours after the iconic actor's death was announced aged 79: 'He was one of the best!'
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13385323/Bernard-Hills-final-TV-appearance-BBCs-Responder-tears-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13385323/Bernard-Hills-final-TV-appearance-BBCs-Responder-tears-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-05T22:35:53+00:00
+
+The Lord Of The Rings star passed away in the early hours of Sunday morning, according to his agent.
+
+## The Piano viewers left sobbing after man's touching tribute to his mother during emotional episode: 'I'm welling up'
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13385327/the-piano-channel-4-gavin-mum-emotional.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13385327/the-piano-channel-4-gavin-mum-emotional.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-05T22:25:40+00:00
+
+Gavin impressed the crowd in Cardiff as the popular show returned to Channel 4 for a second series last Sunday.
+
 ## One year on, a low-key Coronation anniversary for King Charles... but will he meet Harry this week?
  - [https://www.dailymail.co.uk/news/royals/article-13385429/Coronation-anniversary-King-Charles-meet-Harry-week.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/royals/article-13385429/Coronation-anniversary-King-Charles-meet-Harry-week.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/home/index.rss
@@ -14,6 +70,13 @@ The King will celebrate the first anniversary of his Coronation today in low-key
 
 Follow Mail Sport's live blog of the 2024 Miami Grand Prix as we provide you with all the build-up and action to the sixth race of the 2024 F1 season including leaderboard and lap-by-lap updates.
 
+## JAN MOIR: Is Basil goose stepping in front of Germans still funny? Of course it bloody is! - As John Cleese's Fawlty Towers play packs out a West End theatre
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13385443/JAN-MOIR-John-Cleese-Fawlty-Towers-West-End-play.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13385443/JAN-MOIR-John-Cleese-Fawlty-Towers-West-End-play.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-05T21:59:11+00:00
+
+JAN MOIR: Just behind me in row K, a man is watching a football match on his mobile phone. 'Shocking free kick,' he murmurs to his luckless date.
+
 ## DOMINIC LAWSON: If Labour fights this dirty when they are miles in front, imagine how low they'll sink if the polls narrow
  - [https://www.dailymail.co.uk/debate/article-13385305/DOMINIC-LAWSON-Labour-fights-dirty-miles-imagine-low-theyll-sink-polls-narrow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-13385305/DOMINIC-LAWSON-Labour-fights-dirty-miles-imagine-low-theyll-sink-polls-narrow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/home/index.rss
@@ -27,6 +90,13 @@ No prizes for guessing the most compelling political message delivered in last w
  - date published: 2024-05-05T21:44:20+00:00
 
 ANDREW PIERCE: Labour leader Sir Keir Starmer's stance on the war in Gaza led to the loss of neighbouring Oldham Council.
+
+## Ex-Arsenal star, 26, 'stable' in hospital amid 'fears he had suffered a brain haemorrhage'… having been unconscious for 10 minutes after being hit in the head by a ball
+ - [https://www.dailymail.co.uk/sport/football/article-13385433/Ex-Arsenal-star-26-stable-hospital-amid-fears-suffered-brain-haemorrhage-having-unconscious-10-minutes-hit-head-ball.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/football/article-13385433/Ex-Arsenal-star-26-stable-hospital-amid-fears-suffered-brain-haemorrhage-having-unconscious-10-minutes-hit-head-ball.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-05-05T21:31:35+00:00
+
+The 26-year-old had been hit in the face with the ball from close range. The incident occurred as RWD Molenbeek were beaten 3-1 at home to Charleroi in the Belgian Pro League.
 
 ## Jay Blades' wife Lisa Marie Zbozen cuts a sombre figure during a dog walk after announcing shock split from The Repair Shop star following 18-months of marriage
  - [https://www.dailymail.co.uk/tvshowbiz/article-13385033/Jay-Blades-wife-Lisa-Marie-Zbozen-shock-split-Repair-Shop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13385033/Jay-Blades-wife-Lisa-Marie-Zbozen-shock-split-Repair-Shop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

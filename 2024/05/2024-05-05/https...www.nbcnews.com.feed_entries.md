@@ -1,5 +1,12 @@
 # Source:CNBC, URL:https://www.nbcnews.com/feed, language:en-US
 
+## Republican veepstakes heat up as Trump remains mum on potential pick
+ - [https://www.nbcnews.com/nightly-news/video/republican-veepstakes-heat-up-as-trump-remains-mum-on-potential-pick-210304581624](https://www.nbcnews.com/nightly-news/video/republican-veepstakes-heat-up-as-trump-remains-mum-on-potential-pick-210304581624)
+ - RSS feed: https://www.nbcnews.com/feed
+ - date published: 2024-05-05T23:11:37+00:00
+
+Potential veepstakes contenders converged at a donor’s conference at Mar-A-Lago as Trump praised possible running mates in his speech on Saturday. As convention season approaches, RNC Chairman Michael Whatley exclusively spoke to NBC about their new “Election Integrity Program.” NBC News’ Dasha Burns reports.
+
 ## Here's the biggest news you missed this weekend
  - [https://www.nbcnews.com/news/weekend-rundown-may-5-rcna150513](https://www.nbcnews.com/news/weekend-rundown-may-5-rcna150513)
  - RSS feed: https://www.nbcnews.com/feed

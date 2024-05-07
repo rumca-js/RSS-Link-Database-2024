@@ -1,5 +1,12 @@
 # Source:The Guardian, URL:https://www.theguardian.com/rss, language:en-UK
 
+## Xi Jinping arrives in France with Ukraine and an EU trade row at the top of his agenda
+ - [https://www.theguardian.com/world/article/2024/may/06/xi-jinping-europe-visit-france-macron-ukraine-eu-trade](https://www.theguardian.com/world/article/2024/may/06/xi-jinping-europe-visit-france-macron-ukraine-eu-trade)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2024-05-05T23:45:40+00:00
+
+<p>On his first visit to Europe since 2019, Xi is set to meet with Emmanuel Macron before heading to Serbia and Hungary</p><p>President Xi Jinping has lauded China’s ties with France as a model for the international community, as he arrived in Paris for a rare visit against a backdrop of mounting trade disputes with the EU.</p><p>French President Emmanuel Macron is set to urge Xi to reduce trade imbalances and to use his influence with Russia over the war in Ukraine. Xi is due to meet Macron and European Commission chief Ursula von der Leyen on Monday.</p> <a href="https://www.theguardian.com/world/article/2024/may/06/xi-jinping-europe-visit-france-macron-ukraine-eu-trade">Continue reading...</a>
+
 ## Eurovision winner Jamala says Ukraine ‘cannot afford’ to boycott contest
  - [https://www.theguardian.com/tv-and-radio/article/2024/may/06/eurovision-winner-jamala-says-ukraine-cannot-afford-to-boycott-contest](https://www.theguardian.com/tv-and-radio/article/2024/may/06/eurovision-winner-jamala-says-ukraine-cannot-afford-to-boycott-contest)
  - RSS feed: https://www.theguardian.com/rss

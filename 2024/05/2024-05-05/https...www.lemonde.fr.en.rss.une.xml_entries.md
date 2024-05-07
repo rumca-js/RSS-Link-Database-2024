@@ -1,5 +1,12 @@
 # Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
+## Thousands rally for trans rights in France after Senate report
+ - [https://www.lemonde.fr/en/france/article/2024/05/06/thousands-rally-for-trans-rights-in-france-after-senate-report_6670520_7.html](https://www.lemonde.fr/en/france/article/2024/05/06/thousands-rally-for-trans-rights-in-france-after-senate-report_6670520_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-05-05T23:02:54+00:00
+
+Trans rights group say the report by right-wing Senators would allow for a return to 'conversion therapy'.
+
 ## Keeping the Olympic flame alive aboard the 'Belem'
  - [https://www.lemonde.fr/en/sports/article/2024/05/05/keeping-the-olympic-flame-alive-aboard-the-belem_6670519_9.html](https://www.lemonde.fr/en/sports/article/2024/05/05/keeping-the-olympic-flame-alive-aboard-the-belem_6670519_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
@@ -34,6 +41,13 @@ With a museum, a festival, schools and young designers, a wind of fashion has be
  - date published: 2024-05-05T15:54:16+00:00
 
 Israel warned of a military operation in the 'near future' after it closed the aid crossing point following what it says was a Hamas attack.
+
+## Georgian youth lead protests against 'foreign influence' law: 'We'll keep going until the law is withdrawn, we're not afraid!'
+ - [https://www.lemonde.fr/en/international/article/2024/05/05/georgian-youth-lead-protests-against-foreign-influence-law-we-ll-keep-going-until-the-law-is-withdrawn-we-re-not-afraid_6670508_4.html](https://www.lemonde.fr/en/international/article/2024/05/05/georgian-youth-lead-protests-against-foreign-influence-law-we-ll-keep-going-until-the-law-is-withdrawn-we-re-not-afraid_6670508_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-05-05T15:30:20+00:00
+
+Demonstrators marched again on Friday in opposition to the Russian-inspired legal bill requiring independent media and NGOs to register if they receive more than 20% of their funding from abroad.
 
 ## 'Lord of the Rings' actor Bernard Hill dies aged 79
  - [https://www.lemonde.fr/en/obituaries/article/2024/05/05/lord-of-the-rings-actor-bernard-hill-dies-aged-79_6670506_15.html](https://www.lemonde.fr/en/obituaries/article/2024/05/05/lord-of-the-rings-actor-bernard-hill-dies-aged-79_6670506_15.html)

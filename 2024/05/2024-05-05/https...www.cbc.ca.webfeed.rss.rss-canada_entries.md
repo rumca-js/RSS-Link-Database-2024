@@ -1,5 +1,12 @@
 # Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
 
+## Canucks, Oilers face off in 2nd round of NHL playoffs
+ - [https://www.cbc.ca/news/thenational/canucks-oilers-face-off-in-2nd-round-of-nhl-playoffs-1.7194953?cmp=rss](https://www.cbc.ca/news/thenational/canucks-oilers-face-off-in-2nd-round-of-nhl-playoffs-1.7194953?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-05T22:29:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/457/899/ST_PLS_NHL_PLAYOFFS_MPX.jpg" title="" width="620" /><p>Only two Canadian teams survived the first round of NHL playoffs and will play each other in round two. The Vancouver Canucks and Edmonton Oilers will meet in the post-season for the first time since 1992.</p>
+
 ## Red Dress Day events honour missing and murdered Indigenous women, girls and 2-spirit people
  - [https://www.cbc.ca/news/canada/manitoba/red-dress-events-in-downtown-winnipeg-1.7194860?cmp=rss](https://www.cbc.ca/news/canada/manitoba/red-dress-events-in-downtown-winnipeg-1.7194860?cmp=rss)
  - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada

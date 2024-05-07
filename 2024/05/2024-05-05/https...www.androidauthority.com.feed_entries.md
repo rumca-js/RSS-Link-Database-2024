@@ -1,5 +1,12 @@
 # Source:Android Authority, URL:https://www.androidauthority.com/feed, language:en-US
 
+## Apple’s May 7 event could be the start of iPad’s transformation into a true laptop replacement
+ - [https://www.androidauthority.com/ipad-2024-launch-3439980](https://www.androidauthority.com/ipad-2024-launch-3439980)
+ - RSS feed: https://www.androidauthority.com/feed
+ - date published: 2024-05-05T22:37:03+00:00
+
+The new iPad Pros could take their biggest leap yet towards becoming true MacBook rivals.
+
 ## A new patent about a folding iPhone has surfaced, but is it a good idea?
  - [https://www.androidauthority.com/apple-foldable-patent-3439956](https://www.androidauthority.com/apple-foldable-patent-3439956)
  - RSS feed: https://www.androidauthority.com/feed

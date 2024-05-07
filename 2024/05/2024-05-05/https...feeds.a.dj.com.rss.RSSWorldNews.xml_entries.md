@@ -1,5 +1,19 @@
 # Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
+## Westpac's First-Half Profit Falls, Lifts Buyback
+ - [https://www.wsj.com/articles/westpacs-first-half-profit-falls-lifts-buyback-133fb8be](https://www.wsj.com/articles/westpacs-first-half-profit-falls-lifts-buyback-133fb8be)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-05-05T23:57:00+00:00
+
+The Australian bank said its first-half net profit fell by 16%, but it would return more capital to shareholders through an increased dividend and bigger share buyback.
+
+## Qantas to Pay Civil Penalty for Selling Tickets on Canceled Flights
+ - [https://www.wsj.com/articles/qantas-to-pay-civil-penalty-for-selling-tickets-on-canceled-flights-560eeaaa](https://www.wsj.com/articles/qantas-to-pay-civil-penalty-for-selling-tickets-on-canceled-flights-560eeaaa)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2024-05-05T23:48:00+00:00
+
+Australia’s major airline will pay a civil penalty of $66.1 million to resolve court proceedings with a regulator which alleged the airline had advertised tickets for more than 8,000 flights it had already canceled.
+
 ## More &raquo;
  - [https://www.wsj.com/articles/more-amp-raquo-e19fb4fb](https://www.wsj.com/articles/more-amp-raquo-e19fb4fb)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml

@@ -1,5 +1,19 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Kim Godwin Steps Down As President Of ABC News
+ - [https://www.dailywire.com/news/kim-godwin-steps-down-as-president-of-abc-news](https://www.dailywire.com/news/kim-godwin-steps-down-as-president-of-abc-news)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2024-05-05T21:47:07+00:00
+
+Kim Godwin announced on Sunday evening that she was stepping down from her role as president ABC News ‚Äî and retiring, effective immediately. Godwin, who in 2021 became the first black person to run a broadcast television news division, resigned after corporate restructuring &#8220;stripped away much of her management autonomy,&#8221; The Wall Street Journal reported. ...
+
+## WATCH: Man Tries To Shoot Pastor During Sermon, Gets Tackled
+ - [https://www.dailywire.com/news/watch-man-tries-to-shoot-pastor-during-sermon-gets-tackled](https://www.dailywire.com/news/watch-man-tries-to-shoot-pastor-during-sermon-gets-tackled)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2024-05-05T20:59:53+00:00
+
+Police in Pennsylvania said that a man tried to murder a pastor at a church in North Braddock on Sunday while he delivered a sermon to his congregation. Police said that 26-year-old Bernard Junior Polite entered the Jesus Dwelling Place Church a little after 1 p.m. EST and &#8220;attempted to shoot the pastor as he ...
+
 ## Cotton Defends Trump‚Äôs Claims About 2020 Presidential Election
  - [https://www.dailywire.com/news/cotton-defends-trumps-claims-about-2020-presidential-election](https://www.dailywire.com/news/cotton-defends-trumps-claims-about-2020-presidential-election)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml

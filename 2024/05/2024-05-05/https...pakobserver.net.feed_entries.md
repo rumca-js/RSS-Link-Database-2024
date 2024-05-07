@@ -1,5 +1,75 @@
 # Source:Pakistan Observer, URL:https://pakobserver.net/feed, language:en-US
 
+## CDA hosts successful Taekwondo competition for students
+ - [https://pakobserver.net/cda-hosts-successful-taekwondo-competition-for-students](https://pakobserver.net/cda-hosts-successful-taekwondo-competition-for-students)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-05T23:38:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/cda-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Capital Development Authority (CDA) is committed to enhancing recreational opportunities for citizens, particularly children, under the guidance of Chairman Chaudhry Muhammad Ali Randhawa. In line with this commitment, the Department of Sports, Culture and Tourism organized a Taekwondo competition on Sunday, which saw enthusiastic participation from private school students. More than 350 students from [&#8230;]
+
+## Govt to start 20 buses for schools’female students, teachers
+ - [https://pakobserver.net/govt-to-start-20-buses-for-schoolsfemale-students-teachers](https://pakobserver.net/govt-to-start-20-buses-for-schoolsfemale-students-teachers)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-05T23:38:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/1-8-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Ministry of Federal Education and Professional Training has taken an important initiative to solve the problem of transportation for female students and women teachers of the Islamabad Capital Territory Schools. According to the details, around 20 buses of federal educational institutions will be prepared and put on the roads with the support of the district [&#8230;]
+
+## Chilam Josh festival to commence from May 13
+ - [https://pakobserver.net/chilam-josh-festival-to-commence-from-may-13-2](https://pakobserver.net/chilam-josh-festival-to-commence-from-may-13-2)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-05T23:38:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/lahore-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The four-day Chilam Josh festival would be held in three Kalash valleys, including Bumburet, Birir and Rumbur from May 13 to 17 to entertain the tourists from various parts of the country. The annual festival comprises traditional events including dances of Kalash girls and boys to the beats of traditional drums and will be attended [&#8230;]
+
+## Greening the concrete Jungle, Pakistan’s path to climate resilience
+ - [https://pakobserver.net/greening-the-concrete-jungle-pakistans-path-to-climate-resilience](https://pakobserver.net/greening-the-concrete-jungle-pakistans-path-to-climate-resilience)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-05T23:37:44+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/ibd-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Amidst growing apprehensions surrounding climate change driven by rapid population expansion and haphazard urban development, Pakistan finds itself grappling with the consequential loss of green infrastructure in its urban landscapes. However, amidst these challenges, a glimmer of hope emerges as countries worldwide champion innovative green infrastructure initiatives to combat climate change adversities and foster healthier, [&#8230;]
+
+## pha announces sculpture garden at nasser Bagh
+ - [https://pakobserver.net/pha-announces-sculpture-garden-at-nasser-bagh](https://pakobserver.net/pha-announces-sculpture-garden-at-nasser-bagh)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-05T23:36:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/2-7-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Parks and Horticulture Authority (PHA) Lahore has initiated work to open a pioneering public sculpture garden at provincial capital’s historic Nasser Bagh, a spokesperson announced on Sunday. The sculpture park, the spokesperson explained, will comprise an outdoor garden featuring sculptures and numerous permanently situated works crafted from durable materials within landscaped surroundings. Expected to [&#8230;]
+
+## Atta pledges swift resolution  of workers’ issues
+ - [https://pakobserver.net/atta-pledges-swift-resolution-of-workers-issues](https://pakobserver.net/atta-pledges-swift-resolution-of-workers-issues)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-05T23:36:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/03/tarar-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Federal Minister for Information and Broadcasting Ataullah Tarar conducted an open court session at his office in constituency NA-127, where he attentively heard the grievances of the workers. Pakistan Muslim League Nawaz (PML-N) leader directed the swift resolution of these issues, emphasizing the significance of addressing the concerns of the constituency’s residents and workers promptly. [&#8230;]
+
+## CM Maryam addresses closing ceremony of CM Pink Games 2024
+ - [https://pakobserver.net/cm-maryam-addresses-closing-ceremony-of-cm-pink-games-2024](https://pakobserver.net/cm-maryam-addresses-closing-ceremony-of-cm-pink-games-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-05T23:36:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/03/Maryam-Nawaz-CM-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Chief Minister Punjab Maryam Nawaz Sharif participated in the first Chief Minister Pink Games closing ceremony being held at a gymnasium and presented a trophy to the Lahore College for Women University winning team. The Chief Minister distributed prizes among the successful teams. She also awarded cash prize cheques among 321 winning teams. LCWU teams [&#8230;]
+
+## CM condoles death of five people due to poisonous food
+ - [https://pakobserver.net/cm-condoles-death-of-five-people-due-to-poisonous-food](https://pakobserver.net/cm-condoles-death-of-five-people-due-to-poisonous-food)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-05T23:36:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/CM-Maryam-April-3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Punjab Chief Minister Maryam Nawaz Sharif has expressed a deep grief and sorrow over the death of five people due to poisonous food in Tandlianwala. She offered condolences and expressed her heartfelt sympathies with the bereaved family. The chief minister regretted the incident and sought a report from the inspector general of police (IGP) on [&#8230;]
+
+## Qaiser pays tribute to  Dr Yasmin for unwavering struggle
+ - [https://pakobserver.net/qaiser-pays-tribute-to-dr-yasmin-for-unwavering-struggle](https://pakobserver.net/qaiser-pays-tribute-to-dr-yasmin-for-unwavering-struggle)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-05T23:35:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/asad-qasar-5-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan Tehreek-e-Insaf (PTI) senior leader and former Speaker National Assembly Asad Qaiser has said that cruelty and injustices against PTI leaders and workers will end soon, adding that PTI will continue its struggle against injustices. Asad Qaiser Sunday visited the residence of jailed PTI leader Yasmin Rashid and praised her long struggle for the party [&#8230;]
+
+## LGH launches new Department of Nutrition
+ - [https://pakobserver.net/lgh-launches-new-department-of-nutrition](https://pakobserver.net/lgh-launches-new-department-of-nutrition)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-05T23:34:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/lahore-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Lahore General Hospital (LGH) has taken a significant step towards public health education by establishing a new Department of Nutrition. The department aims to raise awareness about the importance of nutrition and the benefits of a balanced diet. The initiative, approved by Prof. Dr. Muhammad Al-Fareed Zafar, Principal of the Post Graduate Medical Institute [&#8230;]
+
 ## PM urged to deploy motorway police on KKH
  - [https://pakobserver.net/pm-urged-to-deploy-motorway-police-on-kkh](https://pakobserver.net/pm-urged-to-deploy-motorway-police-on-kkh)
  - RSS feed: https://pakobserver.net/feed

@@ -119,6 +119,13 @@ Russia marked Orthodox Easter on Sunday with a drone attack across much of Ukrai
 
 The new Palestinian prime minister is a former World Bank executive who vows to fight corruption and waste. The finance minister worked at PwC. The foreign ministry is helmed by a woman with a US doctorate and deep experience in human rights.
 
+## Indian Air Force Soldier Killed in Convoy Attack in Kashmir
+ - [https://www.bloomberg.com/news/articles/2024-05-05/indian-air-force-soldier-killed-in-convoy-attack-in-kashmir](https://www.bloomberg.com/news/articles/2024-05-05/indian-air-force-soldier-killed-in-convoy-attack-in-kashmir)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2024-05-05T04:57:13+00:00
+
+An Indian Air Force member died after a convoy was attacked by militants in the Northern state of Jammu and Kashmir on Saturday, as the state gears up for elections this month.
+
 ## More Storms Head to Houston Area, Hundreds Rescued From Floodwaters
  - [https://www.bloomberg.com/en/news/thp/2024-05-05/hundreds-rescued-from-texas-floods-as-forecast-calls-for-more-rain-and-rising-water](https://www.bloomberg.com/en/news/thp/2024-05-05/hundreds-rescued-from-texas-floods-as-forecast-calls-for-more-rain-and-rising-water)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml

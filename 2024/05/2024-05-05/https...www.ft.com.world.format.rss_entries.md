@@ -1,5 +1,26 @@
 # Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
 
+## Obesity and low productivity in the UK go hand in hand, think-tank warns
+ - [https://www.ft.com/content/d6f2354b-8fd4-434b-bbb2-f5828f9ecc42](https://www.ft.com/content/d6f2354b-8fd4-434b-bbb2-f5828f9ecc42)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2024-05-05T23:02:46+00:00
+
+IPPR researchers describe government’s ‘laissez-faire’ approach to public health as a ‘failed experiment’
+
+## Business confidence among UK farmers at its lowest
+ - [https://www.ft.com/content/646f944b-54bb-4b7f-9b6f-36d0a1e9ec43](https://www.ft.com/content/646f944b-54bb-4b7f-9b6f-36d0a1e9ec43)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2024-05-05T23:00:48+00:00
+
+NFU warns government that the country cannot import its way to food security
+
+## Heineken to reopen closed UK pubs as cost of living pressures ease
+ - [https://www.ft.com/content/91b9419d-e3d4-4693-ac88-bf34730c6bdc](https://www.ft.com/content/91b9419d-e3d4-4693-ac88-bf34730c6bdc)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2024-05-05T23:00:21+00:00
+
+Brewer will put £40mn annually into refurbishing its UK estate as pub groups regain confidence
+
 ## FirstFT: Xi Jinping visits Europe amid escalating trade tensions
  - [https://www.ft.com/content/cb2a21d5-3a11-4be9-829c-1515abb425b4](https://www.ft.com/content/cb2a21d5-3a11-4be9-829c-1515abb425b4)
  - RSS feed: https://www.ft.com/world?format=rss

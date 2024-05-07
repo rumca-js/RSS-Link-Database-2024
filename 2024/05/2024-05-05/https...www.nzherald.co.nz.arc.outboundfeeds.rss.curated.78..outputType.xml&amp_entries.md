@@ -1,5 +1,19 @@
 # Source:New Zealand Herald, URL:https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp, language:en
 
+## NRL: Warriors coach Andrew Webster reacts to controversial refereeing call in loss to Newcastle Knights
+ - [https://www.nzherald.co.nz/sport/rugby-league/warriors/nrl-warriors-coach-andrew-webster-reacts-to-controversial-refereeing-call-in-loss-to-newcastle-knights/3SBEXXG34ZHJLDCU5I23U5BWNE](https://www.nzherald.co.nz/sport/rugby-league/warriors/nrl-warriors-coach-andrew-webster-reacts-to-controversial-refereeing-call-in-loss-to-newcastle-knights/3SBEXXG34ZHJLDCU5I23U5BWNE)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-05-06T00:00:00+00:00
+
+A refereeing decision has overshadowed Sunday’s result.
+
+## Ponsonby Road shooting: Man shot dead, local leaders ‘shocked and saddened’, top cop to front media
+ - [https://www.nzherald.co.nz/nz/ponsonby-road-shooting-man-shot-dead-local-leaders-shocked-and-saddened-top-cop-to-front-media/GV7PXQ6Z7ZHVNNPJRO22Q42SWM](https://www.nzherald.co.nz/nz/ponsonby-road-shooting-man-shot-dead-local-leaders-shocked-and-saddened-top-cop-to-front-media/GV7PXQ6Z7ZHVNNPJRO22Q42SWM)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-05-05T23:53:18+00:00
+
+'This violence is shocking and it has no place here.'
+
 ## Palmerston North woman hospitalised for a month with Stevens-Johnson syndrome after reaction to medication
  - [https://www.nzherald.co.nz/nz/palmerston-north-woman-hospitalised-for-a-month-with-stevens-johnson-syndrome-after-reaction-to-medication/ZXSOZ2DUYBEJ3IYWRIWMHZW4WY](https://www.nzherald.co.nz/nz/palmerston-north-woman-hospitalised-for-a-month-with-stevens-johnson-syndrome-after-reaction-to-medication/ZXSOZ2DUYBEJ3IYWRIWMHZW4WY)
  - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
@@ -97,6 +111,13 @@ A decision will be made by Tauranga City Council commissioners on May 20.
  - date published: 2024-05-05T17:00:00+00:00
 
 Airlines around the world faced with delays in repairing planes and getting new ones.
+
+## Coffee price surge: Dutch multinational reaps profits from NZ consumers
+ - [https://www.nzherald.co.nz/business/coffee-price-surge-dutch-multinational-reaps-profits-from-nz-consumers/R3IRM6HFTBC3PJZJRE4PHFV2RA](https://www.nzherald.co.nz/business/coffee-price-surge-dutch-multinational-reaps-profits-from-nz-consumers/R3IRM6HFTBC3PJZJRE4PHFV2RA)
+ - RSS feed: https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp
+ - date published: 2024-05-05T17:00:00+00:00
+
+Why you're paying more for your latte and who's making the profit.
 
 ## Financial case has not been made for long-term lease to run Port of Auckland, says economist
  - [https://www.nzherald.co.nz/nz/financial-case-has-not-been-made-for-long-term-lease-to-run-ports-of-auckland-says-economist/VA5ECDNNUZEOFJHDULF2QTFBO4](https://www.nzherald.co.nz/nz/financial-case-has-not-been-made-for-long-term-lease-to-run-ports-of-auckland-says-economist/VA5ECDNNUZEOFJHDULF2QTFBO4)

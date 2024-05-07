@@ -1,5 +1,54 @@
 # Source:Washington Examiner, URL:https://www.washingtonexaminer.com/feed, language:en-US
 
+## Fani Willis’s former boyfriend Nathan Wade defends workplace romance with Trump prosecutor
+ - [https://www.washingtonexaminer.com/news/2992078/fani-williss-former-boyfriend-nathan-wade-defends-workplace-romance-with-trump-prosecutor](https://www.washingtonexaminer.com/news/2992078/fani-williss-former-boyfriend-nathan-wade-defends-workplace-romance-with-trump-prosecutor)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-05-05T23:08:52+00:00
+
+Former Fulton County special prosecutor Nathan Wade defended his romantic relationship that threatened to derail one of four criminal trials involving former President Donald Trump. Wade said his relationship with Fulton County District Attorney Fani Willis wasn&#8217;t out of the ordinary for any workplace in the country, after he was forced resigned from the Fulton [&#8230;]
+
+## Trump makes pit stop at Formula One Grand Prix in Miami
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/2992079/trump-makes-pit-stop-at-formula-one-grand-prix-in-miami](https://www.washingtonexaminer.com/news/campaigns/presidential/2992079/trump-makes-pit-stop-at-formula-one-grand-prix-in-miami)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-05-05T22:47:17+00:00
+
+Presidential candidate Donald Trump was in Miami, Florida, Sunday to watch the Formula One Grand Prix race. Trump was met with chants of &#8220;USA&#8221; by the crowd as he waved to them from track. He remained there through the National Anthem, which he listened to while saluting. As Trump has been dealing with his criminal [&#8230;]
+
+## Lara Trump suggests Trump trials are backfiring on Democrats: Case of ‘Sylvester the Cat and Tweety Bird’
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/2992046/lara-trump-suggests-trump-trials-are-backfiring-on-democrats-case-of-sylvester-the-cat-and-tweety-bird](https://www.washingtonexaminer.com/news/campaigns/presidential/2992046/lara-trump-suggests-trump-trials-are-backfiring-on-democrats-case-of-sylvester-the-cat-and-tweety-bird)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-05-05T22:25:22+00:00
+
+Republican National Committee co-chairwoman Lara Trump suggested there is a correlation between Donald Trump&#8216;s criminal trial and recent fundraising. While Trump is largely kept off the campaign trail due to his trial in New York, where the Republican presidential candidate is facing 34 felony counts of falsifying business records in order to allegedly pay hush money to multiple [&#8230;]
+
+## Rubio wants anti-Israel campus protesters supporting Hamas to have visas revoked
+ - [https://www.washingtonexaminer.com/news/senate/2992052/rubio-wants-anti-israel-campus-protesters-supporting-hamas-to-have-visas-revoked](https://www.washingtonexaminer.com/news/senate/2992052/rubio-wants-anti-israel-campus-protesters-supporting-hamas-to-have-visas-revoked)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-05-05T21:42:41+00:00
+
+Sen. Marco Rubio (R-FL) argued that student protesters who support the Hamas terrorist group ought to have their visas revoked. Rubio’s suggestion comes as many college campuses have seen protests in support of Palestine disrupt communities, leaving foreign students concerned they could lose their visas if they are suspended for participating in these protests. The [&#8230;]
+
+## Hamas delegation completes ceasefire negotiations in Cairo as Israel reiterates intent to enter Rafah
+ - [https://www.washingtonexaminer.com/policy/defense/2992034/hamas-delegation-completes-ceasefire-negotiations-in-cairo-as-israel-reiterates-intent-to-enter-rafah](https://www.washingtonexaminer.com/policy/defense/2992034/hamas-delegation-completes-ceasefire-negotiations-in-cairo-as-israel-reiterates-intent-to-enter-rafah)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-05-05T21:12:32+00:00
+
+The latest round of ceasefire negotiations in Cairo, Egypt have ended, according to Hamas, though it&#8217;s unclear whether a deal is any closer to becoming to fruition. The terrorist group said the discussions its representatives had with the Egyptian and Qatari mediators were &#8220;in-depth and serious.&#8221; Israel and Hamas remain in disagreement over various aspects [&#8230;]
+
+## Reporter’s Notebook: No interest rate cuts, economic pain in an election year
+ - [https://www.washingtonexaminer.com/reporters-notebook/2990992/reporters-notebook-no-interest-rate-cuts-economic-pain-election-year](https://www.washingtonexaminer.com/reporters-notebook/2990992/reporters-notebook-no-interest-rate-cuts-economic-pain-election-year)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-05-05T21:00:00+00:00
+
+Washington Examiner Economics Reporter Zach Halaschak joins Magazine Executive Editor Jim Antle to discuss the Federal Reserve&#8217;s decision on interest rates, whether there&#8217;s a possibility that we won&#8217;t see the rate cuts before this year&#8217;s election, and what effects this will have on consumer confidence.
+
+## Trump outpacing Biden in voter trust ahead of 2024 election: Poll
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/2992010/trump-outpacing-biden-in-voter-trust-ahead-of-2024-election-poll](https://www.washingtonexaminer.com/news/campaigns/presidential/2992010/trump-outpacing-biden-in-voter-trust-ahead-of-2024-election-poll)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-05-05T20:58:57+00:00
+
+New polling shows voters have greater trust in former President Donald Trump over President Joe Biden to handle several key concerns heading into the 2024 election. While a new ABC News/Ipsos poll shows Biden and Trump are still neck-and-neck, Trump leads Biden concerning the three topics listed as most important to voters: the economy, inflation, [&#8230;]
+
 ## Kristi Noem questions when ‘decision’ should have been made about Biden’s dog, Commander
  - [https://www.washingtonexaminer.com/news/white-house/2991960/kristi-noem-questions-decision-should-made-bidens-dog-commander](https://www.washingtonexaminer.com/news/white-house/2991960/kristi-noem-questions-decision-should-made-bidens-dog-commander)
  - RSS feed: https://www.washingtonexaminer.com/feed

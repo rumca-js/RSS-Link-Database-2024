@@ -1,0 +1,44 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## Watch the first crewed flight of Boeing’s Starliner space taxi to the space station
+ - [https://www.geekwire.com/2024/boeing-starliner-space-station-2](https://www.geekwire.com/2024/boeing-starliner-space-station-2)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-06T22:32:35+00:00
+
+<img alt="Starliner atop Atlas V rocket on Florida launch pad" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/240506-atlas-1260x840.jpg" width="1260" /><br />The countdown is on for the first crewed flight of Boeing&#8217;s Starliner space taxi, which comes after years of setbacks and $1.5 billion in cost overruns. Liftoff is set for 10:34 p.m. ET (7:34 p.m. PT) today from Cape Canaveral Space Force Station&#8217;s Space Launch Complex 41 in Florida. NASA and Boeing are streaming video coverage of the countdown and Starliner&#8217;s launch atop a United Launch Alliance Atlas V rocket. This will be the first time astronauts have been sent into orbit from a pad at the military launch facility &#8212; as opposed to NASA&#8217;s Kennedy Space Center nearby &#8212;&#8230; <a href="https://www.geekwire.com/2024/boeing-starliner-space-station-2/">Read More</a>
+
+## Docusign to acquire Lexion for $165M in exit for Seattle-based AI contract management company
+ - [https://www.geekwire.com/2024/docusign-to-acquire-lexion-for-165m-in-exit-for-seattle-based-ai-contract-management-company](https://www.geekwire.com/2024/docusign-to-acquire-lexion-for-165m-in-exit-for-seattle-based-ai-contract-management-company)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-06T21:08:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="841" src="https://cdn.geekwire.com/wp-content/uploads/2023/08/lexion-ceo-gaurav-oberoi-3-1260x841.jpg" width="1260" /><br />Docusign announced an agreement to acquire Lexion for $165 million, signaling plans to integrate the Seattle-based company&#8217;s AI-powered contract management technology into its Intelligent Agreement Management Platform. The deal looks to be a successful exit for Lexion, which got its start in 2018 after co-founders Gaurav Oberoi (CEO), Emad Elwany (CTO), and James Baird (principal architect) met at the Allen Institute for AI in Seattle. Lexion raised about $36 million since its founding, including a $20 million round in April 2022, after tripling its revenue in 2022. After focusing initially on helping legal departments manage contracts, the company expanded to&#8230; <a href="https://www.geekwire.com/2024/docusign-to-acquire-lexion-for-165m-in-exit-for-seattle-based-ai-contract-management-comp
+
+## Gates Foundation’s toilet and sanitation exhibit in Seattle is flush with education and innovation
+ - [https://www.geekwire.com/2024/gates-foundations-toilet-and-sanitation-exhibit-in-seattle-is-flush-with-education-and-innovation](https://www.geekwire.com/2024/gates-foundations-toilet-and-sanitation-exhibit-in-seattle-is-flush-with-education-and-innovation)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-06T15:00:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="913" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/gatestoilet1-1260x913.jpeg" width="1260" /><br />&#8220;Everyone poops,&#8221; declares the classic children&#8217;s book used by parents, including me, to help their kids understand what is a natural part of all animals&#8217; lives. &#8220;Everyone poops — and half the world could use toilets and the other half could use better ones&#8221; is the underlying declaration from &#8220;A Better Way to Go: Toilets and the Future of&#160;Sanitation,&#8221; an ongoing exhibit at the Bill and Melinda Gates Foundation&#8217;s Discovery Center in Seattle. The exhibit is an eye-opening look into a subject many would rather leave to someone else to worry about. Doulaye Kone is that guy. A sanitation expert&#8230; <a href="https://www.geekwire.com/2024/gates-foundations-toilet-and-sanitation-exhibit-in-seattle-is-flush-with-education-and-innovation/">Read More</a>
+
+## Can tech help cities plan for disasters? 7 ideas from an urban resilience hackathon
+ - [https://www.geekwire.com/2024/can-tech-help-cities-plan-for-disasters-7-ideas-from-an-urban-resilience-hackathon](https://www.geekwire.com/2024/can-tech-help-cities-plan-for-disasters-7-ideas-from-an-urban-resilience-hackathon)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-06T14:00:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="768" src="https://cdn.geekwire.com/wp-content/uploads/2024/04/94213B7A-3068-49CE-A8FC-42FE1851A5FB_1_105_c.jpeg" width="1024" /><br />Editor&#8217;s note: Chuck Wolfe participated in this hackathon and is an affiliate associate professor at the University of Washington. The University of Washington last month hosted an atypical urban planning and policy gathering called an&#160;“Urban Resilience Hackathon.” For a day, the event showcased collaborative problem solving and innovative thinking in addressing urban challenges.&#160; The hackathon brought together volunteer organizations, state and local government, students, and researchers to co-develop testable &#8220;resilience pilot projects&#8221; that could help Seattle be more prepared for future disruptions. DemocracyLab, a “tech for good” nonprofit, ran the hackathon, which had support from the National Science Foundation LEAP-HI&#8230; <a href="https://www.geekwire.
+
+## As Starbucks slumps, Howard Schultz says coffee giant should ‘reinvent’ mobile ordering
+ - [https://www.geekwire.com/2024/as-starbucks-slumps-howard-schultz-says-coffee-giant-should-reinvent-mobile-ordering](https://www.geekwire.com/2024/as-starbucks-slumps-howard-schultz-says-coffee-giant-should-reinvent-mobile-ordering)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-06T07:02:48+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="826" src="https://cdn.geekwire.com/wp-content/uploads/2017/03/20170322_Starbucks_Shareholders_Meeting_138-1240x826.jpg" width="1240" /><br />Howard Schultz has some suggestions to help boost Starbucks&#8217; business. The Seattle coffee giant saw shares sink more than 12% last week after missing analyst expectations for its most recent quarter. Schultz, the former longtime CEO and chairman, penned a post on LinkedIn over the weekend, recommending that the company overhaul its go-to-market strategy and take a close look at mobile ordering, among other ideas. &#8220;Senior leaders — including board members — need to spend more time with those who wear the green apron,&#8221; Schultz wrote. &#8220;One of their first actions should be to reinvent the mobile ordering and payment&#8230; <a href="https://www.geekwire.com/2024/as-starbucks-slumps-howard-schultz-says-coffee-giant-should-reinvent-mobile-ordering/">Read More</a>
+
+## Gates Foundation joins Novo Nordisk, Wellcome on $300M global health effort
+ - [https://www.geekwire.com/2024/gates-foundation-joins-novo-nordisk-wellcome-on-300m-global-health-effort](https://www.geekwire.com/2024/gates-foundation-joins-novo-nordisk-wellcome-on-300m-global-health-effort)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-06T05:27:42+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2021/05/48596583657_2265cd6643_k-1260x945.jpg" width="1260" /><br />The Bill &#38; Melinda Gates Foundation is committing $100 million to a new joint partnership that will support innovation and research that address global health challenges.
+

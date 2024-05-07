@@ -1,5 +1,19 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## NYC Jewish community on high alert from protests threatened with trio of bomb threats at synagogues
+ - [https://www.foxnews.com/us/nyc-jewish-community-high-alert-protests-threatened-with-trio-bomb-threats-synagogues](https://www.foxnews.com/us/nyc-jewish-community-high-alert-protests-threatened-with-trio-bomb-threats-synagogues)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2024-05-05T23:19:03+00:00
+
+Three synagogues in New York City were targeted with bomb threats on Saturday, after receiving emails from unknown senders threatening the presence of explosives.
+
+## Universities cave to anti-Israel agitators to end occupations, while some allow encampments to continue
+ - [https://www.foxnews.com/us/universities-cave-anti-israel-agitators-end-occupations-while-some-allow-encampments-continue](https://www.foxnews.com/us/universities-cave-anti-israel-agitators-end-occupations-while-some-allow-encampments-continue)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2024-05-05T23:11:11+00:00
+
+Amid ongoing anti-Israel demonstrations on college campuses nationwide, some universities have caved in and agreed to certain demands by the protesters.
+
 ## Columbia Law student group reportedly declares no Jew is safe until 'everyone is safe'
  - [https://www.foxnews.com/media/columbia-law-student-group-reportedly-declares-no-jew-safe-until-everyone-safe](https://www.foxnews.com/media/columbia-law-student-group-reportedly-declares-no-jew-safe-until-everyone-safe)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
