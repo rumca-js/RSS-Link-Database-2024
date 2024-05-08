@@ -1,0 +1,198 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## CBC head spars with Conservative MPs as she testifies about executive bonuses
+ - [https://www.cbc.ca/news/politics/cbc-ceo-spars-conservative-mps-1.7197284?cmp=rss](https://www.cbc.ca/news/politics/cbc-ceo-spars-conservative-mps-1.7197284?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T19:32:11+00:00
+
+<img alt="A woman in a lavender blazer sets a water bottle down onto a table." height="349" src="https://i.cbc.ca/1.7197290.1715124029!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/craft-cbc-20240507.JPG" title="CBC President and Chief Executive Officer Catherine Tait waits to appear at the Heritage Committee in Ottawa on Tuesday, May 7, 2024." width="620" /><p>An appearance by the CEO of the Canadian Broadcasting Corp. at a Parliamentary committee turned personal Tuesday, even before Catherine Tait faced a barrage of questions from Conservative MPs over executive bonuses.</p>
+
+## U.S. judge postpones date for Trump's classified documents trial, with no new date set
+ - [https://www.cbc.ca/news/world/trump-documents-trial-postponed-indefinitely-1.7197150?cmp=rss](https://www.cbc.ca/news/world/trump-documents-trial-postponed-indefinitely-1.7197150?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T18:08:37+00:00
+
+<img alt="Former U.S. president Donald Trump is seen walking en route to speak with members of the media in New York City." height="349" src="https://i.cbc.ca/1.7197161.1715118669!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/former-u-s-president-donald-trump-walks-to-speak-with-members-of-the-press-in-new-york.jpg" title="Former U.S. president Donald Trump walks to speak to the press at the end of the day during his trial for allegedly covering up hush money payments at Manhattan Criminal Court on May 7, 2024 in New York City. Trump has been charged with 34 counts of falsifying business records, which prosecutors say was an effort to hide a potential sex scandal, both before and after the 2016 presidential election. Trump is the first former U.S. president to face trial on criminal charges." width="620" /><p>The federal judge in Florida presiding over the classified documents prosecution of former U.S. president Donald Trump has cancelled the May 20 trial date, postponing i
+
+## How a decades-old Missouri law makes it harder for pregnant women to get divorced
+ - [https://www.cbc.ca/radio/asithappens/missouri-pregnancy-divorce-1.7196704?cmp=rss](https://www.cbc.ca/radio/asithappens/missouri-pregnancy-divorce-1.7196704?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T16:57:48+00:00
+
+<img alt="A pregnant woman on an airplane." height="349" src="https://i.cbc.ca/1.5921845.1678395174!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/pregnant-woman-on-airplane.jpg" title="All pregnant women in New Brunswick are now eligible to book a vaccine, regardless of whether or not they have any chronic medical conditions." width="620" /><p>Ashley Aune, a Missouri state representative, is fighting to get a decades-old law off the books that forces women to disclose their pregnancy status while filing for divorce —something advocates say is harming women experiencing domestic violence.</p>
+
+## Air Canada cuts number of language complaints, still gets more than any other regulated institution
+ - [https://www.cbc.ca/news/politics/raymond-theberge-official-language-air-canada-1.7196988?cmp=rss](https://www.cbc.ca/news/politics/raymond-theberge-official-language-air-canada-1.7196988?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T16:47:20+00:00
+
+<img alt="A closeup shows the nose of a plane with an Air Canada logo." height="349" src="https://i.cbc.ca/1.7073765.1704320020!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/boeing-canada-20190313.jpg" title="An Air Canada Boeing 737 Max aircraft arriving from Toronto prepares to land at Vancouver International Airport in Richmond, B.C., on March 12, 2019. Two Canadian airlines dealing with the grounding of Boeing Max 8 jets say they have re-assigned other planes to accommodate travellers returning home from March Break vacations." width="620" /><p>Despite a decrease in the number of complaints filed against Air Canada over language-related issues, the airline still gets more language complaints nationwide than any other federally regulated institution, says Commissioner of Official Languages Raymond Théberge.</p>
+
+## Shell sold millions of carbon credits for carbon that was never captured, report finds
+ - [https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792?cmp=rss](https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T16:24:08+00:00
+
+<img alt="An employee looks at the facility" height="349" src="https://i.cbc.ca/1.7041427.1701208584!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/carbon-capture.jpg" title="The Shell Quest Carbon Capture and Storage facility near Edmonton, Alberta, Canada, on Monday, July 20, 2023. To hit its net zero targets, the world is relying on a controversial technology pioneered by the fossil fuel industry." width="620" /><p>Shell sold millions of carbon credits for reductions in greenhouse gas emissions that never happened, allowing the company to turn a profit on its fledgling carbon capture and storage project, according to a new report by Greenpeace Canada.</p>
+
+## She lived through the Tutsi genocide in Rwanda. Now she researches health of other survivors' kids
+ - [https://www.cbc.ca/news/canada/london/tutsis-genocide-nursing-prof-london-ontario-1.7195263?cmp=rss](https://www.cbc.ca/news/canada/london/tutsis-genocide-nursing-prof-london-ontario-1.7195263?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T16:20:12+00:00
+
+<img alt="Glorieuse Uwizeye survived the genocide against Tutsis in Rwanda in 1994. Now a nursing professor at Western University, Uwizeye studies health outcomes of children born to genocide survivors." height="349" src="https://i.cbc.ca/1.7195729.1715025506!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/glorieuse-uwizeye.jpg" title="Glorieuse Uwizeye survived the genocide against Tutsis in Rwanda in 1994. Now a nursing professor at Western University, Uwizeye studies health outcomes of children born to genocide survivors." width="620" /><p>Glorieuse Uwizeye believes it was a miracle she and her family survived the 100-day genocide in 1994 against the Tutsis, a minority group in Rwanda. Uwizeye, now an associate professor in nursing at Western University in London, Ont., studies the physical and mental health outcomes of survivors' children.</p>
+
+## Business executives, lobbyists attending fundraisers to meet Pierre Poilievre
+ - [https://www.cbc.ca/news/politics/poilievre-fundraiser-lobbyists-1.7196143?cmp=rss](https://www.cbc.ca/news/politics/poilievre-fundraiser-lobbyists-1.7196143?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T16:18:09+00:00
+
+<img alt="Conservative Party Leader Pierre Poilievre speaks during a rally in Ottawa, on Sunday, March 24, 2024." height="349" src="https://i.cbc.ca/1.7161233.1712079877!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/carbon-pricing-conservatives-20240326.JPG" title="Conservative Party Leader Pierre Poilievre speaks during a rally in Ottawa, on Sunday, March 24, 2024." width="620" /><p>As Pierre Poilievre positions himself as both a prime minister in waiting and a champion of “the working-class people,” he’s headlined roughly 50 fundraisers at private venues since becoming Conservative leader in 2022 — some of them in Canada’s wealthiest neighbourhoods and most exclusive clubs.</p>
+
+## CFL suspends Argos star QB Kelly for violating league's gender-based violence policy
+ - [https://www.cbc.ca/sports/football/cfl/cfl-chad-kelly-suspension-1.7196867?cmp=rss](https://www.cbc.ca/sports/football/cfl/cfl-chad-kelly-suspension-1.7196867?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T15:28:20+00:00
+
+<img alt="A man poses with an award." height="349" src="https://i.cbc.ca/1.7196891.1715109885!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cfl-argos-kelly-football.jpg" title="FILE - Toronto Argonauts&apos; Chad Kelly poses with his award for Most Outstanding Player at the Canadian Football League  Awards in Niagara Falls, Ontario, Thursday, Nov. 16, 2023. The CFL suspended Toronto Argonauts quarterback Chad Kelly for at least nine regular-season games Tuesday, May 7, 2024, following its investigation into a lawsuit filed by a former strength and conditioning coach against both the player and club.(Tara Walton/The Canadian Press via AP, File)" width="620" /><p>The CFL suspended Toronto Argonauts quarterback Chad Kelly for at least nine regular-season games Tuesday following its investigation into a lawsuit filed by a former strength-and-conditioning coach against both the player and club.</p>
+
+## Ukraine says it foiled alleged Russian plot to kill Zelenskyy and intelligence officials as gift for Putin
+ - [https://www.cbc.ca/news/world/ukraine-foiled-assassination-plot-zelenskyy-1.7196815?cmp=rss](https://www.cbc.ca/news/world/ukraine-foiled-assassination-plot-zelenskyy-1.7196815?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T15:26:03+00:00
+
+<img alt="Ukrainian President Volodymyr Zelenskyy is seen speaking during a visit to Lithuania in April 2024." height="349" src="https://i.cbc.ca/1.7196844.1715108115!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ukrainian-president-volodymyr-zelenskyy-speaking-in-vilnius-lithuania.jpg" title="Ukraine&apos;s President Volodymyr Zelenskyy speaks during a meeting with Lithuania&apos;s President at the Presidential Palace in Vilnius, Lithuania, on April 11, 2024. Zelenskyy traveled to Lithuania for talks with Central and Eastern European leaders on support for his war-torn country. The visit comes as Moscow has ramped up its aerial bombardments on Ukraine&apos;s energy infrastructure in recent weeks, prompting Kyiv to renew its appeals for fresh Western military aid." width="620" /><p>Ukraine's state security service said it caught two agents for Russia plotting the assassination of Ukrainian President Volodymyr Zelenskyy and other top officials as "a gift" for Russian Presiden
+
+## Pro-Palestinian encampment begins at U of Manitoba with list of demands for university
+ - [https://www.cbc.ca/news/canada/manitoba/pro-palestinian-encampment-university-manitoba-winnipeg-1.7196409?cmp=rss](https://www.cbc.ca/news/canada/manitoba/pro-palestinian-encampment-university-manitoba-winnipeg-1.7196409?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T14:52:47+00:00
+
+<img alt="A woman with long dark hair wears a black facemask" height="349" src="https://i.cbc.ca/1.7196736.1715115451!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/spokesperson-for-pro-palestinian-protest-at-u-of-m.jpg" title="Spokespersons for the pro-Palestinian protest at U of M speaks to reporters on Tuesday. The one holding the sign identified herself as Zahra." width="620" /><p>Students at the University of Manitoba have started a pro-Palestinian protest encampment on a grassy open area on the campus in south Winnipeg.</p>
+
+## Missing trucker's body found in rig in N.L., after remains missed during Ontario police search
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/lush-body-found-in-truck-1.7196616?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/lush-body-found-in-truck-1.7196616?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T13:31:12+00:00
+
+<img alt="An older man hugs a younger woman wearing a formal blue dress. He has sunglasses on the top of his head. " height="349" src="https://i.cbc.ca/1.7196203.1715080556!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brian-lush-with-daughter-chloe.jpg" title="Brian Lush is seen here with his daughter, Chloe White. Ontario police said Monday that his body had been found. " width="620" /><p>The remains of a Newfoundland trucker who went missing in Ontario two weeks ago were found in the back of his truck's trailer in his home province, even though his rig was a key piece of evidence in the search and the place where he was last seen.</p>
+
+## TikTok is suing the U.S. over 'obviously unconstitutional' law that would ban it
+ - [https://www.cbc.ca/news/world/tiktok-sues-us-1.7196614?cmp=rss](https://www.cbc.ca/news/world/tiktok-sues-us-1.7196614?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T13:30:25+00:00
+
+<img alt="A phone open to the tiktok logo" height="349" src="https://i.cbc.ca/1.7196626.1715102788!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/tiktok.jpg" title="TikTok icon full screen on phone." width="620" /><p>TikTok and its Chinese parent company ByteDance are suing the U.S. over a law that would ban the popular video-sharing app unless it's sold to another company.</p>
+
+## Jamal Murray ripped by Timberwolves head coach for tossing heating pad on floor during play
+ - [https://www.cbc.ca/sports/basketball/nba/jamal-murray-heating-pad-timberwolves-coach-nba-1.7196622?cmp=rss](https://www.cbc.ca/sports/basketball/nba/jamal-murray-heating-pad-timberwolves-coach-nba-1.7196622?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T13:15:24+00:00
+
+<img alt="Denver Nuggets basketball player, bent over at the waist, holds the ball in his right hand and drives the net between two Minnesota Timberwolves during an NBA playoff game on May 06, 2024 in Denver, Colorado." height="349" src="https://i.cbc.ca/1.7196650.1715102001!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/murray-jamal-240506-1180.jpg" title="Timberwolves head coach Chris Finch said it was &quot;dangerous&quot; and &quot;inexcusable&quot; that Nuggets player Jamal Murray, middle, threw a heating pad on the floor from the during game action in Monday&apos;s playoff contest in Denver. " width="620" /><p>Timberwolves head coach Chris Finch blasted Nuggets guard Jamal Murray of Kitchener, Ont., for throwing a heating pad onto the court in the second quarter of Minnesota's 106-80 win in Denver on Monday in Game 2 of the NBA Western Conference semifinals.</p>
+
+## Biden condemns antisemitism in Holocaust memorial speech
+ - [https://www.cbc.ca/news/world/biden-holocaust-memorial-speech-1.7196229?cmp=rss](https://www.cbc.ca/news/world/biden-holocaust-memorial-speech-1.7196229?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T13:12:59+00:00
+
+<img alt="An older cleanshaven man in a suit and tie holds his hands apart while speaking at a podium." height="349" src="https://i.cbc.ca/1.7196562.1715101886!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-biden-antisemitism.JPG" title="U.S. President Joe Biden addresses rising levels of antisemitism, during a speech at the U.S. Holocaust Memorial Museum&apos;s Annual Days of Remembrance ceremony, at the U.S. Capitol building in Washington, D.C., on Tuesday.  " width="620" /><p>U.S. President Joe Biden on Tuesday warned that the threat of antisemitism is growing, in remarks honouring the 6 million Jews killed in the Holocaust, as his support for Israel's assault on Gaza divides his Democratic Party.</p>
+
+## VIDEO | Where will Canada put its forever nuclear waste dump?
+ - [https://www.cbc.ca/news/canada/where-will-canada-put-its-forever-nuclear-waste-dump-about-that-1.7196767?cmp=rss](https://www.cbc.ca/news/canada/where-will-canada-put-its-forever-nuclear-waste-dump-about-that-1.7196767?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T13:12:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/981/322/no_banner_(1)_copy.jpg" title="" width="620" /><p>Two Ontario towns are voting to decide whether to allow Canada's nuclear waste to be buried underneath them, forever. Andrew Chang explains how it would work, the risks and the big incentives the towns are being offered.</p>
+
+## Stormy Daniels tells court she 'blacked out' before hotel sex with Trump
+ - [https://www.cbc.ca/news/world/trump-trial-stormy-daniels-testimony-1.7196539?cmp=rss](https://www.cbc.ca/news/world/trump-trial-stormy-daniels-testimony-1.7196539?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T13:07:41+00:00
+
+<img alt="A woman with blonde hair several inches past her shoulder is shown in closeup." height="349" src="https://i.cbc.ca/1.7171836.1715101141!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-hush-money-gag-order.jpg" title="Stephanie Clifford, the adult film performer known as Stormy Daniels, is shown at event in Berlin on Oct. 11, 2018.  " width="620" /><p>Adult film star Stormy Daniels testified at Donald Trump's criminal trial on Tuesday that he told her "this is the only way you're getting out of the trailer park," prior to having sex with her in his hotel suite in 2006.</p>
+
+## 'No fairness in this system': Small landlords seek ways to protect themselves amid Ontario tribunal delays
+ - [https://www.cbc.ca/news/canada/landords-tenants-ontario-tribunal-delays-1.7174101?cmp=rss](https://www.cbc.ca/news/canada/landords-tenants-ontario-tribunal-delays-1.7174101?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T12:42:44+00:00
+
+<img alt="A bearded man with slicked-back hair and wearing a jacket and tie stands in an office." height="349" src="https://i.cbc.ca/1.7191594.1715099197!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/nazar-ajeely.JPG" title="Nazar Ajeely said delays at Ontario’s Landlord and Tenant Board are causing ‘misery’ for both renters and landlords." width="620" /><p>Some small landlords in Ontario say they are increasingly having to take matters into their own hands as delays at Ontario’s Landlord and Tenant Board continue. Tenant advocates warn of a Wild West situation where lawlessness could worsen.</p>
+
+## There's a test of the national emergency alert system in most of Canada Wednesday
+ - [https://www.cbc.ca/news/canada/emergency-alert-test-canada-1.7196239?cmp=rss](https://www.cbc.ca/news/canada/emergency-alert-test-canada-1.7196239?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T09:55:56+00:00
+
+<img alt="A hand holds a cell phone" height="349" src="https://i.cbc.ca/1.7196259.1715086625!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/alta-alert-test-20230301.jpg" title="A test of the Alberta Emergency Alert System this afternoon had some Albertans wondering if there was an actual emergency. A person uses a cell phone in Ottawa on Monday, July 18, 2022. " width="620" /><p>Canada's national public alert system is running tests on television, radio and compatible wireless devices across most of the country on May 8.</p>
+
+## 3 Indian nationals accused of murdering Hardeep Singh Nijjar to appear in B.C. court today
+ - [https://www.cbc.ca/news/canada/british-columbia/hardeep-singh-nijjar-murder-accused-bc-court-1.7196294?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/hardeep-singh-nijjar-murder-accused-bc-court-1.7196294?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T09:52:25+00:00
+
+<img alt="A group of Sikh men speak informally to each other for a posed photograph." height="349" src="https://i.cbc.ca/1.5197933.1709926281!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/sikh-leaders-back-surrey-police.jpg" title="Hardeep Singh Nijjar outside of the Guru Nanak Sikh Gurdwara in Surrey, British Columbia, on Tuesday, July 2, 2019. In a statement responding to queries about making India part of her mandate probing foreign interference, the Privy Council Office has indicated Nijjar&apos;s killing is a matter of criminal investigation by the RCMP. " width="620" /><p>Three Indian nationals accused of murdering Sikh activist Hardeep Singh Nijjar are due to face court Tuesday over the killing that triggered a major diplomatic rift with India.</p>
+
+## 6 Canadian children stuck in Syrian detention camp have now been returned to Canada
+ - [https://www.cbc.ca/news/politics/syrian-children-returned-canada-1.7196241?cmp=rss](https://www.cbc.ca/news/politics/syrian-children-returned-canada-1.7196241?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T09:03:19+00:00
+
+<img alt="women and children seen from behind walking along an rural looking road" height="349" src="https://i.cbc.ca/1.5954658.1679575119!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/al-roj-detainees.jpeg" title="Women walk with their children in the al-Roj detention camp in Syria." width="620" /><p>Six Canadian children have been repatriated from Syria according to a statement from Global Affairs Canada. </p>
+
+## India's high commissioner to Canada scheduled to speak on bilateral relations after RCMP arrests
+ - [https://www.cbc.ca/news/politics/india-envoy-to-adress-bilateral-relations-1.7196204?cmp=rss](https://www.cbc.ca/news/politics/india-envoy-to-adress-bilateral-relations-1.7196204?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T08:28:55+00:00
+
+<img alt="Sanjay Kumar Verma, a man in his 50s is pictured sitting in a chair wearing a grey suit gesturing with his hands as he speaks" height="349" src="https://i.cbc.ca/1.7196207.1715084351!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cda-india-trade-20230901.JPG" title="High Commissioner of India to Canada Sanjay Kumar Verma speaks to reporters during an interview in Ottawa on Thursday, August 31, 2023. " width="620" /><p>India's envoy to Canada is scheduled to speak publicly today for the first time since the RCMP made arrests related to a homicide that has roiled tensions between the two countries.</p>
+
+## Alberta First Nations health centre will join study aiming to get people tested for syphilis
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-syphilis-rapid-testing-1.7194745?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-syphilis-rapid-testing-1.7194745?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T08:00:00+00:00
+
+<img alt="A woman and a man sit at a desk working with small vials. " height="349" src="https://i.cbc.ca/1.6461190.1715027999!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/dr-ameeta-singh-nurse-noel-ives.JPG" title="Dr. Ameeta Singh, left, allows nurse Noel Ives, right, to demonstrate how a rapid HIV and syphilis test works." width="620" /><p>Health officials are teaming up to make syphilis testing more accessible to people living in central Alberta as the province grapples with a worsening years-long outbreak of the serious sexually transmitted infection.</p>
+
+## From handknit socks to rural experience, here are ideas for attracting doctors to small towns
+ - [https://www.cbc.ca/news/canada/manitoba/rural-medicine-doctor-1.7195600?cmp=rss](https://www.cbc.ca/news/canada/manitoba/rural-medicine-doctor-1.7195600?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T06:00:00+00:00
+
+<img alt="A close up of a doctor with a stethoscope. " height="349" src="https://i.cbc.ca/1.7186705.1714164749!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/doctor.jpg" title="An AI program called AutoScribe records and transcribes interactions with patients at a family health team in Sudbury. " width="620" /><p>Dr. Sarah Giles and Dr. Sarah Newbery provide their insights on staffing shortages in rural health-care facilities.</p>
+
+## Just how far is Pierre Poilievre willing to take the notwithstanding clause?
+ - [https://www.cbc.ca/news/politics/poilievre-charter-rights-notwithstanding-1.7195547?cmp=rss](https://www.cbc.ca/news/politics/poilievre-charter-rights-notwithstanding-1.7195547?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T04:00:39+00:00
+
+<img alt="Conservative Party Leader Pierre Poilievre rises during Question Period on Parliament Hill in Ottawa on Monday, May 6, 2024." height="349" src="https://i.cbc.ca/1.7195911.1715032452!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/commons-20240506.JPG" title="Conservative Party Leader Pierre Poilievre rises during Question Period on Parliament Hill in Ottawa on Monday, May 6, 2024." width="620" /><p></p>
+
+## Border officers relied on outdated intel to decide whether to search incoming vessels, audit warns
+ - [https://www.cbc.ca/news/politics/cbsa-audit-marine-ports-humans-goods-1.7191621?cmp=rss](https://www.cbc.ca/news/politics/cbsa-audit-marine-ports-humans-goods-1.7191621?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T04:00:00+00:00
+
+<img alt="Containers are unloaded at the Port of Montreal in Montreal on July 20, 2017. The Canada Border Services Agency and the Port of Montreal are dipping their feet into a blockchain-powered technology that aims to streamline freight shipping and cut costs. In a trial run, the federal customs agency and the country&apos;s second-biggest port have signed on to the digital database -- a distributed ledger that shares and syncs up data from carriers, ports and wholesalers in places from Singapore to Peru. " height="349" src="https://i.cbc.ca/1.7191625.1714659094!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/boating-blockchain-20181025.jpg" title="Containers are unloaded at the Port of Montreal in Montreal on July 20, 2017. The Canada Border Services Agency and the Port of Montreal are dipping their feet into a blockchain-powered technology that aims to streamline freight shipping and cut costs. In a trial run, the federal customs agency and the country&apos;s second-biggest 
+
+## Case of Brantford woman who faked pregnancies and scammed doulas signals need for better screening: groups
+ - [https://www.cbc.ca/news/canada/hamilton/doula-associations-scammers-kaitlyn-braun-1.7195274?cmp=rss](https://www.cbc.ca/news/canada/hamilton/doula-associations-scammers-kaitlyn-braun-1.7195274?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T04:00:00+00:00
+
+<img alt="Hands on the belly of an expectant mother." height="349" src="https://i.cbc.ca/1.6752830.1676668989!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/71141693.jpg" title="SYDNEY, NSW - JUNE 07:  A pregnant woman holds her stomach June 7, 2006 in Sydney, Australia. Australia is currently enjoying a baby boom, with the Australian Bureau of Statistics registering a 2.4% increase in births from 2004 to 2005, which represents the highest number of births since 1992. The Australian Federal Government has been encouraging people to have more babies, with financial incentives and the slogan by treasurer Peter Costello to &quot;have one for mum, one for dad, and one for the country&quot;. The Federal Government has identified falling fertility rates and the ageing population as long-term problems for Australia&apos;s growth and prosperity.  (Photo by Ian Waldie/Getty Images)" width="620" /><p>The high-profile case of Kaitlyn Braun, the Brantford, Ont., woman who was rearrested 
+
+## For cities and towns trying to cut out plastic, here's what's worked and what hasn't
+ - [https://www.cbc.ca/news/canada/plastic-bans-by-city-town-1.7196086?cmp=rss](https://www.cbc.ca/news/canada/plastic-bans-by-city-town-1.7196086?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T04:00:00+00:00
+
+<img alt="A man walks by a pile of plastics." height="349" src="https://i.cbc.ca/1.7196112.1715043820!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/single-use-plastics-20190610.jpg" title="Plastics are seen being gathered for recycling at a depot in North Vancouver, B.C., Monday, June, 10, 2019. " width="620" /><p>Across Canada, communities are trying single-use plastic bans, fees and other policies to tackle plastic pollution locally. Some, such as Montreal and Banff, have been ambitious and seem successful so far. But there have been some setbacks in cities like Calgary and Vancouver. Here's a closer look at the range of strategies, what's working and what's not.</p>
+
+## This sixth-grader saved his friend's life — thanks to first-aid training he got during class
+ - [https://www.cbc.ca/news/canada/windsor/windsor-student-choking-save-1.7195937?cmp=rss](https://www.cbc.ca/news/canada/windsor/windsor-student-choking-save-1.7195937?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-05-07T04:00:00+00:00
+
+<img alt="Two boys sit at desks" height="349" src="https://i.cbc.ca/1.7196007.1715041458!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/zane-bassam-and-tony-elsoury.jpg" title="Zane Bassam and Tony Elsoury, two Grade 6 students at École élémentaire catholique Sainte-Thérèse. Zane was able to help Tony when he was choking thanks to first-aid training the students received in class. " width="620" /><p>It was a story that could have ended much worse: Windsor, Ont. Grade 6 student Tony Elsoury was chewing as he got up to head to the bathroom and moments later, his friend  was giving him a life-saving Heimlich manoeuvre.</p>
+
