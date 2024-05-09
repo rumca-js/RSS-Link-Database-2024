@@ -1,0 +1,21 @@
+# Source:Standard C++ | News, URL:https://isocpp.org/blog/rss/category/news, language:en
+
+## CppCon 2023 Interfaces in C++ -- Megh Parikh
+ - [https://isocpp.org//blog/2024/05/cppcon-2023-interfaces-in-cpp-megh-parikh](https://isocpp.org//blog/2024/05/cppcon-2023-interfaces-in-cpp-megh-parikh)
+ - RSS feed: https://isocpp.org/blog/rss/category/news
+ - date published: 2024-05-08T17:08:04+00:00
+
+<p>
+	<img alt="Parikh_-_CppCon_2023.png" src="https://isocpp.org/files/img/Parikh_-_CppCon_2023.png" style="width: 400px; margin: 10px; float: right;" />Registration is now open for CppCon 2024!&nbsp;The conference starts on September 15 and will be held&nbsp;<a href="https://cppcon.org/">in person in Aurora, CO</a>. To whet your appetite for this year&rsquo;s conference, we&rsquo;re posting videos of some of the top-rated talks from last year's conference. Here&rsquo;s another CppCon talk video we hope you will enjoy &ndash; and why not&nbsp;<a href="https://cppcon.org/registration/"><strong>register today</strong></a><strong>&nbsp;for CppCon 2024!</strong></p>
+<blockquote>
+	<h3>
+		<a href="https://youtu.be/zPudH_y4OXo">Lightning Talk: Interfaces in C++ - Megh Parikh - CppCon 2023</a></h3>
+	<p>
+		by&nbsp;Megh Parikh</p>
+</blockquote>
+<p>
+	Summary of the talk:</p>
+<blockquote>
+	<p>
+		I explain some of the ways to make interfaces, both static and dynamic in this talk, and how concepts 
+
