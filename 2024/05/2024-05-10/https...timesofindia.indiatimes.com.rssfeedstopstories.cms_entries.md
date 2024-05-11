@@ -1,0 +1,751 @@
+# Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## Man shot dead over affair in Samastipur
+ - [https://timesofindia.indiatimes.com/india/man-shot-dead-over-affair-in-samastipur/articleshow/110019665.cms](https://timesofindia.indiatimes.com/india/man-shot-dead-over-affair-in-samastipur/articleshow/110019665.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T19:52:52+00:00
+
+A youth was shot dead in Bibhutipur by Pinkesh after a dispute over an affair. The incident occurred at a clothing store in Khoksaha Chowk. The shopkeeper also received a bullet injury.
+
+## Flash floods kill 50 in one day in north Afghanistan
+ - [https://timesofindia.indiatimes.com/world/south-asia/flash-floods-kill-50-in-one-day-in-north-afghanistan/articleshow/110019663.cms](https://timesofindia.indiatimes.com/world/south-asia/flash-floods-kill-50-in-one-day-in-north-afghanistan/articleshow/110019663.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T19:50:36+00:00
+
+Flash flooding in northern Afghanistan claimed 50 lives, with Baghlan province severely affected. The Taliban government vowed assistance for the impacted regions, highlighting the country's vulnerability to climate change and inadequate preparation for natural disasters.
+
+## Congress washes hands of Aiyar’s Pakistan remark
+ - [https://timesofindia.indiatimes.com/india/congress-washes-hands-of-aiyars-pakistan-remark/articleshow/110019657.cms](https://timesofindia.indiatimes.com/india/congress-washes-hands-of-aiyars-pakistan-remark/articleshow/110019657.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T19:46:54+00:00
+
+Congress distances from Pitroda's and Aiyar's contentious remarks, highlighting the need to understand Pakistan's nuclear capabilities. The party emphasizes respect while disagreeing with Aiyar's views on India-Pakistan relations.
+
+## Cong trying to scare India to give POK to Pak: Shah
+ - [https://timesofindia.indiatimes.com/india/cong-trying-to-scare-india-to-give-pok-to-pak-shah/articleshow/110019649.cms](https://timesofindia.indiatimes.com/india/cong-trying-to-scare-india-to-give-pok-to-pak-shah/articleshow/110019649.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T19:42:44+00:00
+
+Amit Shah dismissed India alliance's scare tactics, asserting PoK as India's. He rejected calls to respect Pakistan's atomic bomb. Congress's stance on PoK was criticized, linking Rahul Gandhi's policies to Pakistan's terrorism support.
+
+## Pannun case has not impacted India-US bilateral ties, says Jaishankar
+ - [https://timesofindia.indiatimes.com/india/pannun-case-has-not-impacted-india-us-bilateral-ties-says-eam/articleshow/110019631.cms](https://timesofindia.indiatimes.com/india/pannun-case-has-not-impacted-india-us-bilateral-ties-says-eam/articleshow/110019631.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T19:38:02+00:00
+
+India-US relations remain strong despite an alleged Indian link to an assassination plot. Jaishankar highlighted the need to uphold the rule of law and emphasized collaboration in high-technology areas under iCET for bilateral growth.
+
+## Dabholkar murder: Maha ex-CM, urban Naxals defamed us, says Sanstha
+ - [https://timesofindia.indiatimes.com/india/chavan-created-false-narrative-to-promote-hindu-terrorism-says-sanatan-sanstha/articleshow/110019528.cms](https://timesofindia.indiatimes.com/india/chavan-created-false-narrative-to-promote-hindu-terrorism-says-sanatan-sanstha/articleshow/110019528.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T19:21:11+00:00
+
+Former Maharashtra CM Chavan criticizes agencies for failing to find Dabholkar murder mastermind. Sanatan Sanstha's Ghanwat accuses Chavan of promoting 'Hindu terrorism' theory. No action taken against the organization despite ban requests.
+
+## Dabholkar murder: Life for 2 shooters; ‘mastermind’, 2 freed
+ - [https://timesofindia.indiatimes.com/india/dabholkar-murder-case-two-get-life-sentence-3-acquited/articleshow/110019498.cms](https://timesofindia.indiatimes.com/india/dabholkar-murder-case-two-get-life-sentence-3-acquited/articleshow/110019498.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T19:11:39+00:00
+
+Special court convicts two for Dabholkar's murder, acquits three including alleged mastermind. Judge criticizes prosecution for failing to expose masterminds. Defence condemned for tarnishing victim's image, justifying killing as anti-Hindu.
+
+## EC’s response to Kharge’s letter ‘permanent blot’ on institution
+ - [https://timesofindia.indiatimes.com/india/lok-sabha-elections-ecs-response-to-congress-president-mallikarjun-kharges-letter-permanent-blot-on-institution/articleshow/110019388.cms](https://timesofindia.indiatimes.com/india/lok-sabha-elections-ecs-response-to-congress-president-mallikarjun-kharges-letter-permanent-blot-on-institution/articleshow/110019388.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T18:56:05+00:00
+
+The meeting with ECI came after Kharge in a letter on Wednesday wrote opposition parties underlining the “inordinate” delay in the release of final voter turnout of first two phases and a jump of around 5.5% over the initial projection. In an unusual move, the EC on Friday responded to Kharge's letter to fellow INDIA bloc leaders that was also posted on X, and rejected his allegations.
+
+## ‘21 days will not make any difference’: SC grants CM interim bail till June 1
+ - [https://timesofindia.indiatimes.com/india/21-days-will-not-make-any-difference-sc-grants-cm-interim-bail-till-june-1/articleshow/110019382.cms](https://timesofindia.indiatimes.com/india/21-days-will-not-make-any-difference-sc-grants-cm-interim-bail-till-june-1/articleshow/110019382.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T18:53:52+00:00
+
+
+
+## IAF convoy ambush: Brief gunfight in J&K’s Poonch, search op enters Day 7
+ - [https://timesofindia.indiatimes.com/india/iaf-convoy-ambush-brief-gunfight-in-jks-poonch-search-op-enters-day-7/articleshow/110019291.cms](https://timesofindia.indiatimes.com/india/iaf-convoy-ambush-brief-gunfight-in-jks-poonch-search-op-enters-day-7/articleshow/110019291.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T18:42:26+00:00
+
+
+
+## Fan breaches security, bows down in front of Dhoni
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-fan-breaches-security-bows-down-in-front-of-ms-dhoni/articleshow/110019240.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-fan-breaches-security-bows-down-in-front-of-ms-dhoni/articleshow/110019240.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T18:35:04+00:00
+
+MS Dhoni's enduring appeal captivates fans even in retirement, evident from the frequent instances of spectators rushing onto the cricket field just to be near him. Driven by sheer adoration, these fans often seek to touch Dhoni's feet—an act symbolizing profound respect in Indian culture.
+
+## Neeraj Chopra finishes 2nd in Doha Diamond League
+ - [https://timesofindia.indiatimes.com/sports/more-sports/athletics/doha-diamond-league-star-javelin-thrower-neeraj-chopra-finishes-second-with-best-attempt-of-88-36m/articleshow/110018269.cms](https://timesofindia.indiatimes.com/sports/more-sports/athletics/doha-diamond-league-star-javelin-thrower-neeraj-chopra-finishes-second-with-best-attempt-of-88-36m/articleshow/110018269.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T17:46:00+00:00
+
+Doha Diamond League: Star javelin thrower Neeraj Chopra finishes second with best attempt of 88.36m
+
+## 'Congress party has also made mistakes': Rahul Gandhi in Lucknow
+ - [https://timesofindia.indiatimes.com/india/congress-party-has-also-made-mistakes-rahul-gandhi-in-lucknow/articleshow/110018610.cms](https://timesofindia.indiatimes.com/india/congress-party-has-also-made-mistakes-rahul-gandhi-in-lucknow/articleshow/110018610.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T17:42:43+00:00
+
+
+
+## In major step towards theatre commands, govt notifies tri-service Act
+ - [https://timesofindia.indiatimes.com/india/in-major-step-towards-theatre-commands-govt-notifies-tri-service-act/articleshow/110018311.cms](https://timesofindia.indiatimes.com/india/in-major-step-towards-theatre-commands-govt-notifies-tri-service-act/articleshow/110018311.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T17:17:54+00:00
+
+Government enforces ISO Act to establish unified theatre commands, enhancing military integration and efficiency with the creation of ITCs. This significant move aims to streamline command and control for better operational synergy.
+
+## 'Let him campaign, will remind people of excise scam': Amit Shah on Kejriwal's bail
+ - [https://timesofindia.indiatimes.com/india/let-him-campaign-it-will-remind-people-of-excise-scam-says-amit-shah-on-kejriwals-bail/articleshow/110018094.cms](https://timesofindia.indiatimes.com/india/let-him-campaign-it-will-remind-people-of-excise-scam-says-amit-shah-on-kejriwals-bail/articleshow/110018094.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T17:12:23+00:00
+
+
+
+## BB 16 fame Abdu Rozik gets engaged to Amira; look at beautiful pics
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-bigg-boss-16-fame-abdu-rozik-gets-engaged-to-amira-a-look-at-beautiful-photos-from-the-ceremony/articleshow/110018180.cms](https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-bigg-boss-16-fame-abdu-rozik-gets-engaged-to-amira-a-look-at-beautiful-photos-from-the-ceremony/articleshow/110018180.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T17:10:15+00:00
+
+Abdu Rozik, a Tajikistan singer from Bigg Boss 16, announced his July wedding. He unveiled enchanting engagement photos, expressing profound joy and gratitude for finding love in Amira.
+
+## How Earth looks like in radio frequency: Musk share image
+ - [https://timesofindia.indiatimes.com/home/science/how-earth-looks-like-in-radio-frequency/articleshow/110017867.cms](https://timesofindia.indiatimes.com/home/science/how-earth-looks-like-in-radio-frequency/articleshow/110017867.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T16:59:05+00:00
+
+
+
+## Dust storm, gusty winds strike Delhi-NCR
+ - [https://timesofindia.indiatimes.com/city/delhi/imd-warns-of-dustorm-gusty-winds-in-delhi-ncr/articleshow/110017858.cms](https://timesofindia.indiatimes.com/city/delhi/imd-warns-of-dustorm-gusty-winds-in-delhi-ncr/articleshow/110017858.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T16:47:58+00:00
+
+The storm occured over and adjoining areas of entire Delhi and NCR - Loni Dehat, Hindon AF Station, Ghaziabad, Indirapuram, Chhapraula, Noida, Dadri, Greater Noida, Gurugram, Faridabad. IMD advised to stay indoors, close windows and doors, avoiding travel if possible. IMD also suggested to take safe shelters and not take shelter under trees.
+
+## 'Rohit should have defended Hardik when he was getting booed'
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-should-have-come-out-and-said-something-publicly-when-hardik-pandya-was-getting-booed/articleshow/110017627.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-should-have-come-out-and-said-something-publicly-when-hardik-pandya-was-getting-booed/articleshow/110017627.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T16:32:14+00:00
+
+During IPL 2024, the Mumbai Indians' captaincy saga captivated fans, drawing more attention than the games themselves. There was significant speculation about Rohit Sharma's relationship with Hardik Pandya and the management of the leadership transition within the MI franchise.
+
+## Shubman equals KL Rahul, Surya's feat; Virat on top
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shubman-gill-equals-kl-rahul-and-suryakumar-yadavs-feat-virat-kohli-on-top-of-this-big-t20s-record/articleshow/110017424.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shubman-gill-equals-kl-rahul-and-suryakumar-yadavs-feat-virat-kohli-on-top-of-this-big-t20s-record/articleshow/110017424.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T16:14:51+00:00
+
+Gujarat Titans skipper Shubman Gill delivered a brilliant performance with a century against Chennai Super Kings at the Narendra Modi Stadium in Ahmedabad on Friday. His aggressive batting style challenged the CSK bowlers as he smashed nine fours and six sixes during his explosive innings. This marked Shubman's fourth IPL century. Shubman now has six centuries in T20s, putting him in the same league as Ruturaj Gaikwad, KL Rahul, and Suryakumar Yadav, who also have six centuries in the format.
+
+## Severe solar storm to hit Earth; could produce northern lights in US
+ - [https://timesofindia.indiatimes.com/home/science/severe-solar-storm-to-hit-earth-could-disrupt-communications-produce-northern-lights-in-us/articleshow/110017294.cms](https://timesofindia.indiatimes.com/home/science/severe-solar-storm-to-hit-earth-could-disrupt-communications-produce-northern-lights-in-us/articleshow/110017294.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T16:04:37+00:00
+
+
+
+## Sai surpasses Sachin to become fastest Indian to...
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rewriting-record-books-sai-sudharsan-surpasses-legendary-sachin-tendulkar-to-become-fastest-indian-to-1000-ipl-runs/articleshow/110017127.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rewriting-record-books-sai-sudharsan-surpasses-legendary-sachin-tendulkar-to-become-fastest-indian-to-1000-ipl-runs/articleshow/110017127.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T15:47:08+00:00
+
+Sai Sudharsan matched his skipper Shubman Gill stroke for stroke as the two openers notched destructive centuries to propel Titans to 231 for three against Chennai Super Kings.  Sudharsan on Friday surpassed legendary Sachin Tendulkar and CSK's Ruturaj Gaikwad to become the fastest Indian ever to 1000 IPL runs.
+
+## Sai, Gill first opening pair to score tons together in IPL
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/historic-first-sai-sudharsan-shubman-gill-become-first-opening-pair-to-score-hundreds-together-in-ipl/articleshow/110016979.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/historic-first-sai-sudharsan-shubman-gill-become-first-opening-pair-to-score-hundreds-together-in-ipl/articleshow/110016979.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T15:35:50+00:00
+
+In a remarkable achievement in the Indian Premier League (IPL), Gujarat Titans' openers Sai Sudharsan and Shubman Gill have etched their names in the history books. They became the first opening pair to score individual centuries in the same match. This outstanding performance was showcased against the Chennai Super Kings.
+
+## 'Options open for me': Brij Bhushan after court's order
+ - [https://timesofindia.indiatimes.com/sports/more-sports/wrestling/options-open-for-me-says-brij-bhushan-sharan-singh-after-delhi-courts-order-in-sexual-harassment-case/articleshow/110015916.cms](https://timesofindia.indiatimes.com/sports/more-sports/wrestling/options-open-for-me-says-brij-bhushan-sharan-singh-after-delhi-courts-order-in-sexual-harassment-case/articleshow/110015916.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T14:34:17+00:00
+
+Delhi's Rouse Avenue Court on Friday gave the order against Brij Bhuhan in a case lodged by female wrestlers, observing there was 'sufficient evidence' against him. The court, however, discharged Singh in a complaint filed by one of the six women wrestlers, citing lack of sufficient evidence in the complaint.
+
+## 'Save country...': Kejriwal walks out of Tihar after 50 days
+ - [https://timesofindia.indiatimes.com/india/delhi-cm-arvind-kejriwal-walks-out-of-tihar-after-50-days-says-must-save-country-from-dictatorship/articleshow/110014979.cms](https://timesofindia.indiatimes.com/india/delhi-cm-arvind-kejriwal-walks-out-of-tihar-after-50-days-says-must-save-country-from-dictatorship/articleshow/110014979.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T14:18:40+00:00
+
+​​Kejriwal was arrested by the Enforcement Directorate on March 21, 2024. A large crowd of supporters gathered outside Tihar jail to welcome the CM with dhol, sweets and dance celebrations. Kejriwal was accompanied by his wife Sunita Kejriwal, Punjab CM and AAP leader Bhagwant Mann, party leaders Atishi, Saurabh Bhardwaj, and AAP general secretary Sandeep Pathak when he was released. The Chief Minister then proceeded to his official residence.
+
+## Govt directs telcos to block 28.2k phones, reverify 20 lakh connections
+ - [https://timesofindia.indiatimes.com/technology/tech-news/why-government-has-directed-jio-airtel-and-other-telcos-to-block-28200-phones-reverify-20-lakh-mobile-connections/articleshow/110015235.cms](https://timesofindia.indiatimes.com/technology/tech-news/why-government-has-directed-jio-airtel-and-other-telcos-to-block-28200-phones-reverify-20-lakh-mobile-connections/articleshow/110015235.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T13:48:47+00:00
+
+DoT instructs blocking 28,200 handsets in cyber crimes, re-verifies 20 lakh connections. Chakshu portal manages complaints, 348 handsets, 10,834 numbers flagged. 1.58 lakh IMEI numbers blocked.
+
+## Sakshi Malik reacts as court frames charges against Brij Bhushan
+ - [https://timesofindia.indiatimes.com/sports/more-sports/wrestling/a-small-step-towards-victory-says-sakshi-malik-after-delhi-courts-order-against-brij-bhushan/articleshow/110015127.cms](https://timesofindia.indiatimes.com/sports/more-sports/wrestling/a-small-step-towards-victory-says-sakshi-malik-after-delhi-courts-order-against-brij-bhushan/articleshow/110015127.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T13:42:53+00:00
+
+Olympic bronze medallist wrestler Sakshi Malik has described as "a small step towards victory" the order by a Delhi court on Friday to frame charges related to sexual harassment and intimidation against the former president of the Wrestling Federation of India (WFI), Brij Bhushan Sharan Singh in a case filed by female wrestlers.
+
+## 'Shah Rukh Khan came to KKR dressing room and...'
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shah-rukh-khan-came-to-the-dressing-room-and-says-kkrs-spinner-varun-chakravarthy/articleshow/110014812.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shah-rukh-khan-came-to-the-dressing-room-and-says-kkrs-spinner-varun-chakravarthy/articleshow/110014812.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T13:37:23+00:00
+
+Kolkata Knight Riders wrist spinner Varun Chakravarthy expressed on Friday that team owner Shah Rukh Khan's motivational speeches have had a "huge impact" on the team during tough times in the current IPL season. His comments come against the backdrop of criticism directed at Lucknow Super Giants team owner Sanjiv Goenka for publicly reprimanding skipper KL Rahul after their record defeat to Sunrisers Hyderabad on Wednesday.
+
+## Ranbir Kapoor's Ramayana's legal trouble..: Top 5 entertainment news
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aayush-sharma-on-divorce-rumours-with-arpita-khan-ranbir-kapoors-ramayana-gets-into-legal-trouble-justin-bieber-and-hailey-bieber-to-welcome-first-child-together-top-5-entertainment-news-of-the-day/articleshow/110013982.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aayush-sharma-on-divorce-rumours-with-arpita-khan-ranbir-kapoors-ramayana-gets-into-legal-trouble-justin-bieber-and-hailey-bieber-to-welcome-first-child-together-top-5-entertainment-news-of-the-day/articleshow/110013982.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T13:30:00+00:00
+
+Today's entertainment roundup features Aayush Sharma debunking divorce rumors with Arpita Khan, emphasizing their enduring bond. Vicky Kaushal's accidental queue-jump at the airport goes viral, showcasing his humility. Ranbir Kapoor's "Ramayana" faces legal obstacles, sparking concerns. Ankita Lokhande desires to parent like Alia Bhatt, while Suhana Khan and Navya Naveli Nanda's hangout with Agastya Nanda piques interest.
+
+## Decoded: Virat Kohli's spectacular run out
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/namumkin-saa-former-india-cricketer-decodes-virat-kohlis-spectacular-run-out/articleshow/110014049.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/namumkin-saa-former-india-cricketer-decodes-virat-kohlis-spectacular-run-out/articleshow/110014049.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T12:52:59+00:00
+
+Virat Kohli took advantage of three chances, including one on zero, to deliver an impressive 47-ball 92. His innings played a key role in clinching a 60-run victory over the Punjab Kings in a must-win match at the picturesque Dharamsala stadium on Thursday. In addition to his powerful batting, Virat also shone in the field. During Punjab Kings' chase of 242, he raced in from deep midwicket, collected the ball, and executed a direct hit at the bowler's end, dismissing Shashank Singh.
+
+## 12 Naxalites killed in encounter in Bastar
+ - [https://timesofindia.indiatimes.com/city/raipur/more-than-seven-naxalites-killed-in-encounter-in-bastar/articleshow/110014061.cms](https://timesofindia.indiatimes.com/city/raipur/more-than-seven-naxalites-killed-in-encounter-in-bastar/articleshow/110014061.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T12:51:20+00:00
+
+12 Naxalites were killed in an encounter in the dense forests of the volatile Bijapur district on Friday. Initial reports indicate that a squad of security personnel was conducting a search operation when they engaged in a skirmish with Naxalites early in the day near Pidia village in the Gangaloor area.
+
+## What are the NPS partial withdrawal rules? Know eligibility, limits
+ - [https://timesofindia.indiatimes.com/business/financial-literacy/retirement-planning/what-are-the-nps-partial-withdrawal-rules-know-eligibility-limits-and-more-details/articleshow/110013435.cms](https://timesofindia.indiatimes.com/business/financial-literacy/retirement-planning/what-are-the-nps-partial-withdrawal-rules-know-eligibility-limits-and-more-details/articleshow/110013435.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T12:38:14+00:00
+
+NPS enables partial fund withdrawals after three years for eligible subscribers. Withdraw up to 25% of own contributions, excluding employer funds and returns, for specific purposes like education, marriage, housing, medical needs, disability, skill development, and entrepreneurship.
+
+## 'Saudi forces told to kill': The dark side of MBS's Neom project
+ - [https://timesofindia.indiatimes.com/world/middle-east/saudi-forces-told-to-kill-the-dark-side-of-mbss-neom-project/articleshow/110012363.cms](https://timesofindia.indiatimes.com/world/middle-east/saudi-forces-told-to-kill-the-dark-side-of-mbss-neom-project/articleshow/110012363.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T12:25:58+00:00
+
+Col Rabih Alenezi, who has since sought asylum in the UK, disclosed to the BBC that he was directed to forcibly evacuate a village inhabited by members of the Huwaitat tribe to clear the way for The Line. This operation reportedly resulted in the fatal shooting of a villager who protested the eviction. The Saudi government and officials from Neom have not provided any comments regarding these allegations.
+
+## 'Serious accusations but...': Why SC granted bail to Kejriwal
+ - [https://timesofindia.indiatimes.com/india/serious-accusations-have-been-made-but-why-supreme-court-granted-interim-bail-to-delhi-chief-minister-arvind-kejriwal/articleshow/110011112.cms](https://timesofindia.indiatimes.com/india/serious-accusations-have-been-made-but-why-supreme-court-granted-interim-bail-to-delhi-chief-minister-arvind-kejriwal/articleshow/110011112.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T12:20:48+00:00
+
+
+
+## Vi CEO Akshaya Moondra sends 'thanks mail' to customers
+ - [https://timesofindia.indiatimes.com/technology/tech-news/vodafone-idea-ceo-akshaya-moondra-sends-thanks-mail-to-customers-shares-5g-rollout-update-and-more/articleshow/110013007.cms](https://timesofindia.indiatimes.com/technology/tech-news/vodafone-idea-ceo-akshaya-moondra-sends-thanks-mail-to-customers-shares-5g-rollout-update-and-more/articleshow/110013007.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T12:19:47+00:00
+
+Vodafone Idea (Vi) CEO Akshaya Moondra thanks customers for supporting the successful FPO and shares plans for growth, including 5G rollout. The email highlights digital asset optimization, new services, and a commitment to service quality and innovation.
+
+## Sexual harassment: Court frames charges against BJP's Brij Bhushan
+ - [https://timesofindia.indiatimes.com/sports/more-sports/wrestling/delhi-court-orders-framing-of-charges-against-ex-wfi-chief-brij-bhushan-singh-in-sexual-harassment-case/articleshow/110012778.cms](https://timesofindia.indiatimes.com/sports/more-sports/wrestling/delhi-court-orders-framing-of-charges-against-ex-wfi-chief-brij-bhushan-singh-in-sexual-harassment-case/articleshow/110012778.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T12:05:50+00:00
+
+A Delhi court on Friday ordered framing of charges against ex-WFI chief Brij Bhushan Singh in sexual harassment case. The harassment case was filed by six female wrestlers.
+
+## 2024 will be last election ‘decided by US citizens’: Elon Musk
+ - [https://timesofindia.indiatimes.com/world/us/2024-will-be-last-election-decided-by-us-citizens-elon-musk/articleshow/110012482.cms](https://timesofindia.indiatimes.com/world/us/2024-will-be-last-election-decided-by-us-citizens-elon-musk/articleshow/110012482.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T11:53:26+00:00
+
+
+
+## With 'nakli' jibe, PM Modi's attack and suggestion for Sharad, Uddhav
+ - [https://timesofindia.indiatimes.com/india/with-nakli-jibe-pms-modis-attack-and-a-suggestion-for-sharad-pawar-uddhav-thackeray/articleshow/110012079.cms](https://timesofindia.indiatimes.com/india/with-nakli-jibe-pms-modis-attack-and-a-suggestion-for-sharad-pawar-uddhav-thackeray/articleshow/110012079.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T11:44:21+00:00
+
+PM Modi condemns fake NCP and Shiv Sena, hints at merging with Congress. Mentions Sharad Pawar, advises joining Ajit Pawar, Eknath Shinde. Talks about Uddhav Thackrey's split, criticizes Sanjay Raut, and reservation concerns.
+
+## 'Focus on cricket, not parties': Akram issues warning to...
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/focus-on-cricket-not-parties-wasim-akram-issues-warning-to-/articleshow/110011665.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/focus-on-cricket-not-parties-wasim-akram-issues-warning-to-/articleshow/110011665.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T11:40:09+00:00
+
+Prithvi Shaw was once hailed as a rising star, but his career took a hit due to inconsistent batting performances and off-field issues. Now, in the IPL 2024 season with Delhi Capitals, his fluctuating form has made him a target of criticism once again.
+
+## How to lock and unlock your Aadhaar - step by step guide
+ - [https://timesofindia.indiatimes.com/business/india-business/you-can-lock-and-unlock-your-uid-for-protection-against-fraud-heres-how/articleshow/110011865.cms](https://timesofindia.indiatimes.com/business/india-business/you-can-lock-and-unlock-your-uid-for-protection-against-fraud-heres-how/articleshow/110011865.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T11:38:21+00:00
+
+Protect your Aadhaar with a 16-digit Virtual ID (VID) to prevent fraud. Lock it via UIDAI website or SMS, disabling authentication modes. Retrieve VID if forgotten to unlock later. Visit UIDAI for detailed steps on locking/unlocking.
+
+## 'No interaction with any witnesses': SC's bail conditions for Kejriwal
+ - [https://timesofindia.indiatimes.com/india/no-interaction-with-any-witnesses-scs-bail-conditions-for-kejriwal/articleshow/110010620.cms](https://timesofindia.indiatimes.com/india/no-interaction-with-any-witnesses-scs-bail-conditions-for-kejriwal/articleshow/110010620.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T11:28:32+00:00
+
+
+
+## SC disposes of former J'khand CM Soren's plea over HC delay
+ - [https://timesofindia.indiatimes.com/india/sc-disposes-former-jharkhand-cm-hemant-sorens-plea-over-high-courts-delay-in-pronouncing-order/articleshow/110011295.cms](https://timesofindia.indiatimes.com/india/sc-disposes-former-jharkhand-cm-hemant-sorens-plea-over-high-courts-delay-in-pronouncing-order/articleshow/110011295.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T11:24:39+00:00
+
+On Friday, the Supreme Court resolved the petition brought forth by former Jharkhand chief minister Hemant Soren concerning the delay in the high court's ruling on his arrest challenge. The apex court noted that the petition had become moot following the issuance of the order. Justices Sanjiv Khanna and Dipankar Datta, forming the bench, stated that Hemant Soren's plea regarding the high court's tardiness in deciding on his arrest challenge had lost its significance.
+
+## China, Russia rise in global esteem as US faces approval challenges
+ - [https://timesofindia.indiatimes.com/world/us/china-russia-rise-in-global-esteem-as-us-faces-approval-challenges/articleshow/110011170.cms](https://timesofindia.indiatimes.com/world/us/china-russia-rise-in-global-esteem-as-us-faces-approval-challenges/articleshow/110011170.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T11:21:01+00:00
+
+Latana survey shows US approval drop in MENA and Europe, while attitudes towards China and Russia improve globally. Differing views on economic ties and potential sanctions are evident in the survey.
+
+## Wall Street in turmoil: Banker’s sudden death at 35 sparks outrage
+ - [https://timesofindia.indiatimes.com/world/us/wall-street-in-turmoil-bankers-sudden-death-at-35-sparks-outrage/articleshow/110010517.cms](https://timesofindia.indiatimes.com/world/us/wall-street-in-turmoil-bankers-sudden-death-at-35-sparks-outrage/articleshow/110010517.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T11:06:46+00:00
+
+The death of Bank of America associate Leo Lukenas III has stirred controversy over grueling work conditions on Wall Street. His passing may trigger reform in the finance industry's work culture, with discussions on employee welfare and potential walkouts.
+
+## Russian President Putin vows to prevent global conflict
+ - [https://timesofindia.indiatimes.com/world/europe/russian-president-putin-vows-to-prevent-global-conflict/articleshow/110010579.cms](https://timesofindia.indiatimes.com/world/europe/russian-president-putin-vows-to-prevent-global-conflict/articleshow/110010579.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T11:04:18+00:00
+
+
+
+## Beethoven's battle with lead poisoning—insights from hair analysis
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/revealed-beethovens-battle-with-lead-poisoninginsights-from-his-hair-analysis/articleshow/110009775.cms](https://timesofindia.indiatimes.com/world/rest-of-world/revealed-beethovens-battle-with-lead-poisoninginsights-from-his-hair-analysis/articleshow/110009775.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T11:02:23+00:00
+
+
+
+## Over hundred thousand flee Rafah amid Israel attack
+ - [https://timesofindia.indiatimes.com/world/middle-east/over-hundred-thousand-palestinians-flee-rafah-amid-israels-attack/articleshow/110010204.cms](https://timesofindia.indiatimes.com/world/middle-east/over-hundred-thousand-palestinians-flee-rafah-amid-israels-attack/articleshow/110010204.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T10:50:40+00:00
+
+
+
+## From crypto king to prison inmate: Sam Bankman-Fried's jail life
+ - [https://timesofindia.indiatimes.com/business/international-business/from-crypto-king-to-prison-inmate-inside-details-of-sam-bankman-frieds-jail-life/articleshow/110010145.cms](https://timesofindia.indiatimes.com/business/international-business/from-crypto-king-to-prison-inmate-inside-details-of-sam-bankman-frieds-jail-life/articleshow/110010145.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T10:45:39+00:00
+
+
+
+## 'What is PM doing if...': Kharge slams Modi for Adani-Ambani jibe
+ - [https://timesofindia.indiatimes.com/india/what-is-pm-doing-if-kharge-hits-back-at-modi-for-his-tempo-loads-of-black-money-jibe/articleshow/110009386.cms](https://timesofindia.indiatimes.com/india/what-is-pm-doing-if-kharge-hits-back-at-modi-for-his-tempo-loads-of-black-money-jibe/articleshow/110009386.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T10:40:07+00:00
+
+Kharge questions Modi's inaction on Adani-Ambani money. Modi accuses Congress of a deal with industrialists. Post elections, Modi-Shah abuse. Gandhi challenges Modi. PM favors top industrialists. Kharge criticizes Modi's 'M' words fondness.
+
+## Rain causes massive disruptions at Bengaluru airport
+ - [https://timesofindia.indiatimes.com/city/bengaluru/rain-causes-massive-disruptions-at-t-2-of-bengaluru-airport-third-time-in-over-a-year/articleshow/110009796.cms](https://timesofindia.indiatimes.com/city/bengaluru/rain-causes-massive-disruptions-at-t-2-of-bengaluru-airport-third-time-in-over-a-year/articleshow/110009796.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T10:37:36+00:00
+
+Heavy rain flooded Terminal 2 (T-2) at Kempegowda International Airport (KIA), causing flight disruptions and operational challenges. The incidents included flight diversions, shuttle buses for passengers, and a burst head pipe issue.
+
+## 'Freedom of speech doesn't mean freedom to support separatism'
+ - [https://timesofindia.indiatimes.com/india/freedom-of-speech-doesnt-mean-freedom-to-support-separatism-jaishankar-on-canada/articleshow/110008663.cms](https://timesofindia.indiatimes.com/india/freedom-of-speech-doesnt-mean-freedom-to-support-separatism-jaishankar-on-canada/articleshow/110008663.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T10:21:33+00:00
+
+
+
+## 'Use him as...': Ganguly's suggestion for Kohli's role in T20 WC
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/you-need-to-use-him-as-sourav-gangulys-suggestion-for-in-form-virat-kohlis-role-in-t20-world-cup/articleshow/110008460.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/you-need-to-use-him-as-sourav-gangulys-suggestion-for-in-form-virat-kohlis-role-in-t20-world-cup/articleshow/110008460.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T10:07:06+00:00
+
+Former Indian cricket captain Sourav Ganguly has urged Virat Kohli to be included as an opener in the upcoming T20 World Cup, citing his exceptional form in the Indian Premier League. Ganguly praised India's balanced composition and optimism about their trophy prospects after a 17-year gap. He acknowledged the trend of power-hitting in T20 cricket.
+
+## Fundraiser for Biden hosted by Indian-Americans to rake in millions
+ - [https://timesofindia.indiatimes.com/world/us/silicon-valley-fund-raiser-for-president-biden-hosted-by-indian-americans-expected-to-rake-in-millions-of-dollars/articleshow/110008191.cms](https://timesofindia.indiatimes.com/world/us/silicon-valley-fund-raiser-for-president-biden-hosted-by-indian-americans-expected-to-rake-in-millions-of-dollars/articleshow/110008191.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T10:05:34+00:00
+
+Prominent Indian American figures in Silicon Valley are hosting a significant fund-raising reception for President Biden's re-election campaign. The event highlights the growing influence of the Indian American community in US politics, particularly in supporting Democratic candidates. With ticket prices ranging from $6,600 to $100,000, the fundraiser is expected to draw wealthy tech executives, emphasizing the intersection of technology and politics.
+
+## 'Deliberate attempt to spread confusion': EC rejects Kharge's charges
+ - [https://timesofindia.indiatimes.com/india/lok-sabha-polls-ec-to-provide-detailed-response-to-mallikarjun-kharges-allegations-of-voter-turnout-discrepancies/articleshow/110007823.cms](https://timesofindia.indiatimes.com/india/lok-sabha-polls-ec-to-provide-detailed-response-to-mallikarjun-kharges-allegations-of-voter-turnout-discrepancies/articleshow/110007823.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T09:59:09+00:00
+
+The Election Commission on Friday accused Mallikarjun Kharge of obstructing the fair conduct of elections, dismissing the Congress chief's claims of mismanagement and delays in releasing voter turnout data. The Commission deemed Kharge's accusations baseless, lacking evidence, and indicative of a biased agenda aimed at sowing confusion. Highlighting a recurrent trend, the Commission noted a pattern of irresponsible statements from the Congress, both past and present.
+
+## Virat, Anushka to make return of 271% with Go Digit IPO
+ - [https://timesofindia.indiatimes.com/business/india-business/virat-kohli-anushka-sharma-to-make-a-multibagger-return-of-271-with-go-digit-ipo-details-here/articleshow/110006687.cms](https://timesofindia.indiatimes.com/business/india-business/virat-kohli-anushka-sharma-to-make-a-multibagger-return-of-271-with-go-digit-ipo-details-here/articleshow/110006687.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T09:50:37+00:00
+
+Star couple Virat Kohli and Anushka Sharma are poised to make a significant profit of 271% when Bengaluru-based new-age insurance startup Go Digit goes public next week. Virat Kohli and Anushka Sharma's investments in Go Digit IPO are expected to yield a notional profit of Rs 6.75 crore.
+
+## 'Winds of change': INDIA welcomes SC relief to Kejriwal
+ - [https://timesofindia.indiatimes.com/india/helpful-in-the-context-of-polls-india-bloc-welcomes-sc-relief-to-arvind-kejriwal/articleshow/110007485.cms](https://timesofindia.indiatimes.com/india/helpful-in-the-context-of-polls-india-bloc-welcomes-sc-relief-to-arvind-kejriwal/articleshow/110007485.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T09:41:28+00:00
+
+In a major relief, the Supreme Court granted interim bail to Arvind Kejriwal to campaign in the Lok Sabha elections. The top court, however, rejected the request of bail until the declaration of results on June 4. AAP chief will have to surrender on June 2.
+
+## ITR e-filing portal update: Dealing with IT notices made easier
+ - [https://timesofindia.indiatimes.com/business/india-business/itr-e-filing-portal-new-update-dealing-with-income-tax-notices-made-easier-heres-how/articleshow/110007521.cms](https://timesofindia.indiatimes.com/business/india-business/itr-e-filing-portal-new-update-dealing-with-income-tax-notices-made-easier-heres-how/articleshow/110007521.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T09:39:47+00:00
+
+The Income Tax e-filing ITR portal now offers a new 'e-Proceedings’ tab to simplify responding to tax notices for taxpayers with multiple ongoing tax proceedings. The update introduces separate pages and improved filters for faster navigation and efficient management.
+
+## Pakistan link detected in Ahmedabad school bomb threat probe
+ - [https://timesofindia.indiatimes.com/city/ahmedabad/pakistan-link-detected-in-ahmedabad-school-bomb-threat-probe/articleshow/110007129.cms](https://timesofindia.indiatimes.com/city/ahmedabad/pakistan-link-detected-in-ahmedabad-school-bomb-threat-probe/articleshow/110007129.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T09:25:17+00:00
+
+The Ahmedabad schools bomb threat case revealed a Pakistani connection to threats against 14 schools in Gujarat, with emails traced to a Russian domain before linking to a military cantonment in Pakistan. Tohik Liyakat, also known as Ahmed Javed, was identified as the sender, prompting swift action by Ahmedabad Police. Despite no suspects or explosives found, this incident mirrors a recent threat to 131 schools in Delhi, dismissed by the MHA as a hoax.
+
+## Akshaya Tritiya gold price: What is outlook for gold investment?
+ - [https://timesofindia.indiatimes.com/business/india-business/akshaya-tritiya-2024-gold-price-what-is-the-outlook-for-gold-investment-heres-what-experts-recommend/articleshow/110005947.cms](https://timesofindia.indiatimes.com/business/india-business/akshaya-tritiya-2024-gold-price-what-is-the-outlook-for-gold-investment-heres-what-experts-recommend/articleshow/110005947.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T08:54:42+00:00
+
+Gold Price Akshaya Tritiya 2024: A study of gold price trends since 2014 reveals a varied performance of gold between one Akshaya Tritiya and the next. So where are gold prices headed and what should investors do? Here’s what experts have to say
+
+## 'For India's sake, you'd want...': Kumble lauds Kohli's form
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/for-indias-sake-youd-want-anil-kumble-shane-watson-laud-virat-kohlis-form-and-impact-in-ipl-2024/articleshow/110005848.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/for-indias-sake-youd-want-anil-kumble-shane-watson-laud-virat-kohlis-form-and-impact-in-ipl-2024/articleshow/110005848.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T08:49:42+00:00
+
+Former Indian cricketer Anil Kumble and Australian all-rounder Shane Watson have praised Virat Kohli for his exceptional performances, expressing confidence in his ability to maintain his prime form during the upcoming T20 World Cup. Kumble praised RCB batter Kohli's 92-run knock off 47 balls against Punjab Kings and 634 runs in the tournament.
+
+## Geo-fencing limit for unreserved & platform tickets removed for UTS app
+ - [https://timesofindia.indiatimes.com/business/india-business/good-news-for-indian-railways-passengers-geo-fencing-limit-for-unreserved-platform-tickets-removed-for-uts-app/articleshow/110004750.cms](https://timesofindia.indiatimes.com/business/india-business/good-news-for-indian-railways-passengers-geo-fencing-limit-for-unreserved-platform-tickets-removed-for-uts-app/articleshow/110004750.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T08:17:08+00:00
+
+Indian Railways removes 50 km radius limit on UTS app, allowing easy booking of unreserved and platform tickets from any location, reducing reliance on ticket counters.
+
+## Google CEO has 'good and bad news' on job cuts
+ - [https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-had-good-and-bad-news-for-employees-when-asked-about-job-cuts/articleshow/110004611.cms](https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-had-good-and-bad-news-for-employees-when-asked-about-job-cuts/articleshow/110004611.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T08:09:27+00:00
+
+Alphabet's Google reduced headcount by 12,000 in 2023. CEO Pichai confirmed further job cuts in 2024, focusing on efficiency. The company aims to reallocate staff strategically while managing the transition carefully.
+
+## Revealed: Who excluded Ishan and Shreyas from central contracts
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/jay-shah-reveals-who-made-the-decision-to-exclude-ishan-kishan-and-shreyas-iyer-from-central-contracts/articleshow/110004249.cms](https://timesofindia.indiatimes.com/sports/cricket/news/jay-shah-reveals-who-made-the-decision-to-exclude-ishan-kishan-and-shreyas-iyer-from-central-contracts/articleshow/110004249.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T07:58:59+00:00
+
+BCCI's strict stance on players prioritizing domestic cricket is evident in the recent exclusion of Ishan Kishan and Shreyas Iyer from the central contract list, emphasizing the importance of consistent performance and commitment to the team. Jay Shah restated the Board's stance, according to which Indian players must give priority to playing domestic cricket.
+
+## Still people question his strike rate: Kohli's childhood coach
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/still-people-question-about-his-strike-rate-virat-kohlis-childhood-coach-after-another-match-winning-performance-from-rcb-batter/articleshow/110003813.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/still-people-question-about-his-strike-rate-virat-kohlis-childhood-coach-after-another-match-winning-performance-from-rcb-batter/articleshow/110003813.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T07:49:45+00:00
+
+Rajkumar Sharma, RCB batter Virat Kohli's childhood coach, has defended the Indian cricket icon's resilience and match-winning prowess amidst ongoing scrutiny of his performance and strike rate in T20 cricket. Sharma praised Kohli's brilliant performance with the bat and field against Punjab Kings, congratulating him on his dedication and impact on the game.
+
+## Govt plans big e-mobility push for intercity travel
+ - [https://timesofindia.indiatimes.com/business/india-business/electric-buses-on-long-distance-routes-government-plans-big-e-mobility-push-for-intercity-travel/articleshow/110002863.cms](https://timesofindia.indiatimes.com/business/india-business/electric-buses-on-long-distance-routes-government-plans-big-e-mobility-push-for-intercity-travel/articleshow/110002863.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T07:28:34+00:00
+
+The government is planning to incentivize the adoption of electric buses for intercity and interstate travel to promote green mobility and reduce emissions. Plans include installing charging infrastructure along highways and supporting state governments in purchasing electric buses.
+
+## Watch: SRH opener Abhishek puts parents on wrong flight
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-sunrisers-hyderabad-opener-abhishek-sharma-books-wrong-flight-for-parents/articleshow/110002802.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-sunrisers-hyderabad-opener-abhishek-sharma-books-wrong-flight-for-parents/articleshow/110002802.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T07:13:49+00:00
+
+After SRH's win over LSG on May 8 in Hyderabad, Abhishek was spotted talking to someone on his phone, and when the SRH opener was interviewed on live broadcast after the match, the anchor asked him who he was talking to. But nobody expected the answer that Abhishek gave.
+
+## Woman loses temper at Delhi airport as staff denies boarding
+ - [https://timesofindia.indiatimes.com/city/delhi/woman-loses-temper-at-delhi-airport-as-staff-denies-boarding-lufthansa-airlines-responds/articleshow/110002392.cms](https://timesofindia.indiatimes.com/city/delhi/woman-loses-temper-at-delhi-airport-as-staff-denies-boarding-lufthansa-airlines-responds/articleshow/110002392.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T07:13:42+00:00
+
+At Delhi's IGI, a woman clashed with Lufthansa staff over denied boarding for a direct flight. After a viral video, Lufthansa investigates the incident, sparking diverse reactions from the public regarding the staff's behavior and passenger's visa requirements.
+
+## India completely withdraws soldiers from Maldives: Official
+ - [https://timesofindia.indiatimes.com/india/india-completely-withdraws-soldiers-from-maldives-presidential-spokesperson/articleshow/110002537.cms](https://timesofindia.indiatimes.com/india/india-completely-withdraws-soldiers-from-maldives-presidential-spokesperson/articleshow/110002537.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T07:01:41+00:00
+
+India has completed the withdrawal of all its soldiers from Maldives, as announced by the government ahead of the May 10 deadline set by President Mohamed Muizzu. Heena Waleed, the chief spokesperson for the President's office, informed the Sun.mv news portal that the final contingent of Indian soldiers has been repatriated.
+
+## Chinese tech executive fired after endorsing toxic work culture
+ - [https://timesofindia.indiatimes.com/business/international-business/chinese-tech-executive-fired-after-endorsing-toxic-work-culture-on-social-media/articleshow/110002210.cms](https://timesofindia.indiatimes.com/business/international-business/chinese-tech-executive-fired-after-endorsing-toxic-work-culture-on-social-media/articleshow/110002210.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T06:58:54+00:00
+
+Qu Jing, former VP of Baidu, China's equivalent to Google, faced backlash and was ousted for endorsing a harsh workplace culture. Her remarks on Douyin sparked outrage, criticizing her lack of empathy and advocating for relentless work demands. The incident renews discussions on China's tech industry's work culture and work-life balance.
+
+## Masked man strangles woman with belt in US, drags body to assault her
+ - [https://timesofindia.indiatimes.com/world/us/masked-man-strangles-woman-with-belt-in-us-drag-body-between-cars-to-sexually-assault-her/articleshow/109999561.cms](https://timesofindia.indiatimes.com/world/us/masked-man-strangles-woman-with-belt-in-us-drag-body-between-cars-to-sexually-assault-her/articleshow/109999561.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T06:24:50+00:00
+
+A disturbing video circulated shows the moment a masked attacker used a belt to choke a woman dragging her to the ground until she lost consciousness and sexually assaulting her between two parked vehicles in a horrifying attack on a Bronx street in New York city,  the incident occurred on May 1 at approximately 3 am.
+
+## Mark Zuckerberg: 10 lessons ex-employee learnt from Facebook CEO
+ - [https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-10-lessons-ex-employee-learnt-from-facebook-ceo/articleshow/110001013.cms](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-10-lessons-ex-employee-learnt-from-facebook-ceo/articleshow/110001013.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T06:24:46+00:00
+
+Noah Kagan shares insights from working with Mark Zuckerberg, emphasizing one goal, fast execution, hiring A players, employee treatment, and cultivating a grand vision. Kagan's journey from Facebook firing to successful CEO resonates with aspiring entrepreneurs.
+
+## BJP candidate runs to file nomination in UP's Deoria
+ - [https://timesofindia.indiatimes.com/city/lucknow/on-cam-bjp-candidate-runs-to-file-nomination-in-ups-deoria/articleshow/110000472.cms](https://timesofindia.indiatimes.com/city/lucknow/on-cam-bjp-candidate-runs-to-file-nomination-in-ups-deoria/articleshow/110000472.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T06:10:50+00:00
+
+Shashank Mani Tripathi's urgent dash to submit nomination papers in Deoria, Uttar Pradesh, signifies the state's political importance. The 2024 election schedule spans seven phases, concluding with results on June 4, shaping national politics.
+
+## Activist Narendra Dabholkar murder case: 2 get life in prison, key accused acquitted
+ - [https://timesofindia.indiatimes.com/india/activist-narendra-dabholkar-murder-case-2-get-life-imprisonment-3-acquitted/articleshow/110000459.cms](https://timesofindia.indiatimes.com/india/activist-narendra-dabholkar-murder-case-2-get-life-imprisonment-3-acquitted/articleshow/110000459.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T06:07:54+00:00
+
+Pune special court pronounced the verdict in the Dabholkar murder trial, almost 11 years after the veteran rationalist was gunned down on August 20, 2013, by two bike-borne men on the Vitthal Ramji Shinde bridge near Omkareshwar temple.
+
+## Power dynamics, alliance shifts, and the fate of Nayab Saini govt
+ - [https://timesofindia.indiatimes.com/city/chandigarh/haryana-political-game-power-dynamics-alliance-shifts-and-the-fate-of-nayab-saini-govt/articleshow/109999231.cms](https://timesofindia.indiatimes.com/city/chandigarh/haryana-political-game-power-dynamics-alliance-shifts-and-the-fate-of-nayab-saini-govt/articleshow/109999231.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T05:54:58+00:00
+
+Haryana govt, led by Nayab Singh Saini, grapples with turmoil as independents withdraw support, post BJP-JJP split. Congress gains momentum, while opposition demands President's Rule. Governor's role crucial in the evolving political scenario.
+
+## 'Ate parathas with butter & forgot to...': Ex-player on drop catches
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ate-parathas-with-butter-and-forgot-to-former-india-cricketer-on-drop-catches-as-virat-kohli-crushes-punjab-kings/articleshow/109999552.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ate-parathas-with-butter-and-forgot-to-former-india-cricketer-on-drop-catches-as-virat-kohli-crushes-punjab-kings/articleshow/109999552.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T05:54:20+00:00
+
+Former Indian cricketer Aakash Chopra criticized drop catches in the Indian Premier League 2024 match by Punjab Kings, highlighting them as costly errors. Chopra praised Kohli's ability to capitalize on opportunities and warned against granting him even a slight reprieve. The match was a commanding victory for Royal Challengers Bengaluru.
+
+## Mob attacks couple who fed dogs after stray bites 6-yr-old in Noida society
+ - [https://timesofindia.indiatimes.com/city/noida/viral-video-mob-attacks-couple-who-fed-dogs-after-stray-bites-6-yr-old-in-noida-society/articleshow/109998237.cms](https://timesofindia.indiatimes.com/city/noida/viral-video-mob-attacks-couple-who-fed-dogs-after-stray-bites-6-yr-old-in-noida-society/articleshow/109998237.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T05:31:34+00:00
+
+In Noida's Pan Oasis society, mob attacks couple feeding dogs after girl bitten.
+
+## BCCI set to advertise for head coach, Dravid can re-apply
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/bcci-set-to-advertise-for-head-coach-rahul-dravid-can-re-apply/articleshow/109998676.cms](https://timesofindia.indiatimes.com/sports/cricket/news/bcci-set-to-advertise-for-head-coach-rahul-dravid-can-re-apply/articleshow/109998676.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T05:11:33+00:00
+
+The incoming coach will serve a three-year tenure initially. In line with tradition, there will likely be consistency across all cricket formats, with one coach overseeing both white-ball and Test teams. The selection of assistant coaches will be determined subsequent to the appointment of the new coach, with his input duly considered.
+
+## 'They have atom bomb': Row over Aiyar's remarks on Pakistan
+ - [https://timesofindia.indiatimes.com/india/they-have-atom-bomb-congress-leader-mani-shankar-aiyar-sparks-row-over-remarks-on-pakistan/articleshow/109998585.cms](https://timesofindia.indiatimes.com/india/they-have-atom-bomb-congress-leader-mani-shankar-aiyar-sparks-row-over-remarks-on-pakistan/articleshow/109998585.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T05:07:56+00:00
+
+
+
+## Shami criticizes LSG owner for 'heated exchange' with Rahul
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/this-sends-a-very-wrong-message-mohammed-shami-criticizes-lucknow-super-giants-owner-for-heated-exchange-with-captain-kl-rahul/articleshow/109997661.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/this-sends-a-very-wrong-message-mohammed-shami-criticizes-lucknow-super-giants-owner-for-heated-exchange-with-captain-kl-rahul/articleshow/109997661.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T04:46:44+00:00
+
+Sunrisers Hyderabad won by 10 wickets against Lucknow Super Giants in an IPL match, sparking controversy after LSG owner Sanjiv Goenka was caught in a heated exchange with captain KL Rahul. India's star pacer Mohammed Shami condemned Goenka's actions, stating that players have respect and owners should maintain dignity in public settings.
+
+## What it takes to be a Virat Kohli? Shami explains
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/woh-ek-aisa-banda-hai-jo-mohammed-shami-explains-what-it-takes-to-be-a-virat-kohli/articleshow/109997290.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/woh-ek-aisa-banda-hai-jo-mohammed-shami-explains-what-it-takes-to-be-a-virat-kohli/articleshow/109997290.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T04:31:05+00:00
+
+Reflecting on how Kohli goes about his business to excel in every skill he posseses, his India teammate and fast bowler Mohammed Shami said it doesn't matter to Kohli if he is coming from a long break. He just stays focused all the time and wants to leave an impression with everything he does.
+
+## 'Won't vote for you because you're an Indian': Author to Ramaswamy
+ - [https://timesofindia.indiatimes.com/world/us/wont-vote-for-you-because-youre-an-indian-us-author-to-vivek-ramaswamy/articleshow/109995856.cms](https://timesofindia.indiatimes.com/world/us/wont-vote-for-you-because-youre-an-indian-us-author-to-vivek-ramaswamy/articleshow/109995856.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T04:04:10+00:00
+
+Ann Coulter, a US author and commentator, stated that she would not have voted for Republican presidential candidate Vivek Ramaswamy because he was a "Indian". Responding to this, Ramaswamy later said on X, "I disagree with her but respect she had the guts to speak her mind. It was a riveting hour."
+
+## Sensex over 100 points up; Nifty50 near 21,950 levels
+ - [https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-nifty50-may-10-2024-dalal-street-indian-equities-global-markets-lok-sabha-polls/articleshow/109996053.cms](https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-nifty50-may-10-2024-dalal-street-indian-equities-global-markets-lok-sabha-polls/articleshow/109996053.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T03:53:41+00:00
+
+Stock market today: BSE Sensex and Nifty50, the Indian equity benchmark indices, opened in green on Friday. While BSE Sensex rose over 100 points, Nifty50 was near 21,950 levels.
+
+## Missile firm staffer held for 'passing secrets to Pak'
+ - [https://timesofindia.indiatimes.com/city/ahmedabad/hyderabad-missile-firm-staffer-held-in-gujarat-for-passing-secrets-to-pak/articleshow/109996213.cms](https://timesofindia.indiatimes.com/city/ahmedabad/hyderabad-missile-firm-staffer-held-in-gujarat-for-passing-secrets-to-pak/articleshow/109996213.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T03:37:02+00:00
+
+Pravin Mishra, a Hyderabad engineer, arrested in Bharuch for spying on India for Pakistan. The case involves a criminal conspiracy with officers, employees, and armed forces personnel, linked to missile and drone parts manufacturing.
+
+## US envoy dismisses concerns over democracy in India
+ - [https://timesofindia.indiatimes.com/india/one-of-the-worlds-most-us-envoy-dismisses-concerns-over-democracy-in-india/articleshow/109995723.cms](https://timesofindia.indiatimes.com/india/one-of-the-worlds-most-us-envoy-dismisses-concerns-over-democracy-in-india/articleshow/109995723.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T03:20:44+00:00
+
+The United States ambassador to India Eric Garcetti, representing the Biden administration, dismissed concerns about Indian democracy at a Council on Foreign Relations event in Delhi. While acknowledging areas where India excels, he stressed the importance of addressing issues and maintaining a strong US-India relationship, emphasizing mutual trust and shared values.
+
+## Musk's Neuralink: First human brain implant encounters glitch
+ - [https://timesofindia.indiatimes.com/business/international-business/setback-for-musks-neuralink-first-human-brain-implant-encounters-technical-glitch/articleshow/109995041.cms](https://timesofindia.indiatimes.com/business/international-business/setback-for-musks-neuralink-first-human-brain-implant-encounters-technical-glitch/articleshow/109995041.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T03:01:50+00:00
+
+Elon Musk's visionary venture, Neuralink, faced a notable setback during its inaugural human brain implant trial. The device, aimed at enabling paralyzed individuals to control technology through thought, experienced detachment from the skull of the test subject, 29-year-old Noland Arbaugh. This detachment resulted in a reduction of its data capture capability.
+
+## ‘We missed the mark…’, Apple apologises for controversial iPad Pro ad
+ - [https://timesofindia.indiatimes.com/technology/tech-news/we-missed-the-mark-apple-apologises-for-controversial-ipad-pro-ad/articleshow/109995011.cms](https://timesofindia.indiatimes.com/technology/tech-news/we-missed-the-mark-apple-apologises-for-controversial-ipad-pro-ad/articleshow/109995011.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T02:57:10+00:00
+
+Apple faced backlash over its iPad Pro ad, featuring a hydraulic press crushing creativity symbols. The company apologized for the controversial video, emphasizing its commitment to empowering creatives worldwide.
+
+## 'We don't want to max him out': CSK coach on Dhoni's fitness
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/we-dont-want-to-max-out-csk-coach-stephen-fleming-gives-an-update-on-ms-dhonis-fitness/articleshow/109994757.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/we-dont-want-to-max-out-csk-coach-stephen-fleming-gives-an-update-on-ms-dhonis-fitness/articleshow/109994757.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T02:48:25+00:00
+
+Chennai Super Kings head coach Stephen Fleming has discussed the team's approach to managing the fitness of former skipper MS Dhoni ahead of their upcoming match against Gujarat Titans in the Indian Premier League. Fleming emphasized the team's cautious stance, acknowledging Dhoni's immense value and urging against underestimating his impact.
+
+## Prajwal Revanna 'sex scandal': 'Woman threatened to complain'
+ - [https://timesofindia.indiatimes.com/city/bengaluru/prajwal-revanna-sex-scandal-woman-threatened-to-complain-says-ncw/articleshow/109994838.cms](https://timesofindia.indiatimes.com/city/bengaluru/prajwal-revanna-sex-scandal-woman-threatened-to-complain-says-ncw/articleshow/109994838.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T02:45:28+00:00
+
+MP Prajwal Revanna case: Woman accuses 3 men, NCW reports false complaint threats. NWS disputes 700 women complaints. Karnataka police suspected. Survivors file sexual abuse, abduction complaints in action-taken report.
+
+## RCB stay alive, Punjab Kings knocked out: All IPL playoff scenarios
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-stay-alive-punjab-kings-knocked-out-all-ipl-playoff-scenarios-in-10-points/articleshow/109994618.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rcb-stay-alive-punjab-kings-knocked-out-all-ipl-playoff-scenarios-in-10-points/articleshow/109994618.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T02:32:51+00:00
+
+Remaining IPL 2024 games will determine playoffs among KKR, RR, CSK, SRH, LSG, DC. RCB, GT need luck. 4,100 possible outcomes shape final rankings with a 50-50 game assumption for matches. Bet on KKR and RR making the playoffs to be joined by two out of CSK, SRH, LSG and DC, with the first two having a distinctly better chance. For RCB or GT to get into the mix would need much to go their way.
+
+## JPMorgan: India index inclusion on track, most clients ready
+ - [https://timesofindia.indiatimes.com/business/india-business/jpmorgan-india-index-inclusion-on-track-most-clients-ready/articleshow/109994593.cms](https://timesofindia.indiatimes.com/business/india-business/jpmorgan-india-index-inclusion-on-track-most-clients-ready/articleshow/109994593.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T02:30:45+00:00
+
+JPMorgan Chase &amp; Co is poised to add India to its emerging market debt index starting in June, as indicated by Gloria Kim, the firm's global head of index research. In her communication, Kim highlighted that the annual Index Governance Consultation process yielded largely positive feedback, with the majority of JPMorgan's index clients already prepared to engage in trading within India's government bond (IGB) market.
+
+## Netanyahu vows Israel will fight alone even without US help
+ - [https://timesofindia.indiatimes.com/world/middle-east/netanyahu-vows-israel-will-fight-alone-even-without-us-help/articleshow/109994571.cms](https://timesofindia.indiatimes.com/world/middle-east/netanyahu-vows-israel-will-fight-alone-even-without-us-help/articleshow/109994571.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T02:29:56+00:00
+
+Netanyahu asserted that Israel must enter Rafah to eliminate the remaining Hamas battalions. He pointed out that Hamas, a US-designated terrorist organization, was responsible for the deaths of 1,200 Israelis and the abduction of approximately 250 individuals on October 7th of the previous year. Netanyahu warned that if Hamas is permitted to persist in Rafah, they will continue to "murder again and again."
+
+## Lucky or lost in love? Come to 'Bewafa tea stall'
+ - [https://timesofindia.indiatimes.com/city/allahabad/lucky-or-lost-in-love-come-to-bewafa-tea-stall/articleshow/109994594.cms](https://timesofindia.indiatimes.com/city/allahabad/lucky-or-lost-in-love-come-to-bewafa-tea-stall/articleshow/109994594.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T02:27:41+00:00
+
+In Prayagraj, 'Bewafa Chai-Paan Wala' chaiwallah, Saligram, offers love advice, relationship tips, and support to lovebirds and the heartbroken. The stall's merchandise varies based on relationship luck, making it a unique destination for the lovelorn.
+
+## Virat Kohli: 'I am trying to keep up with strike-rate'
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-have-brought-out-the-slog-sweep-trying-to-keep-up-with-the-strike-rate-virat-kohli-after-rcbs-win-over-punjab-kings/articleshow/109994116.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-have-brought-out-the-slog-sweep-trying-to-keep-up-with-the-strike-rate-virat-kohli-after-rcbs-win-over-punjab-kings/articleshow/109994116.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T01:45:55+00:00
+
+Punjab could have dismissed Kohli without scoring and then on 10, but missed both the opportunities and the RCB opener sparkled to produced 92 runs off just 47 balls, including 6 sixes and 7 fours. Kohli's knock powered RCB to a mammoth 241 for 7 and then the RCB bowlers, led by Mohammed Siraj, turned up to bowl Punjab out for 181.
+
+## Virat 'Superman' Kohli: Stunning knock & a spectacular run out
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-superman-kohli-stunning-knock-and-and-a-spectacular-run-out-in-rcbs-win-over-punjab-kings/articleshow/109993825.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-superman-kohli-stunning-knock-and-and-a-spectacular-run-out-in-rcbs-win-over-punjab-kings/articleshow/109993825.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T01:04:03+00:00
+
+Virat Kohli consistently seeks to immerse himself in the heart of cricket action, and Thursday proved no exception. First he dazzled with a sensational innings of 92, and then produced a 'Superman' moment on the field with a direct-hit run-out during Royal Challengers Bangalore's emphatic victory over Punjab Kings in Dharamsala.
+
+## On 5-year-old's PIL, HC says no to liquor shop near school
+ - [https://timesofindia.indiatimes.com/city/allahabad/on-5-year-olds-pil-hc-says-no-to-liquor-shop-near-school/articleshow/109993742.cms](https://timesofindia.indiatimes.com/city/allahabad/on-5-year-olds-pil-hc-says-no-to-liquor-shop-near-school/articleshow/109993742.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:44:59+00:00
+
+The Allahabad high court, responding to a PIL by five-year-old LKG student Atharva Dixit, directed the state to refrain from renewing the licence of a liquor shop situated near his school in Kanpur's Azad Nagar. This decision, made by the bench led by Chief Justice Arun Bhansali and Justice Vikas Budhwar, prevents state excise authorities from renewing the shop's licence after March 31, 2025, based on the Uttar Pradesh Number and Location of Excise Shop Rules, 1968. Additionally, the petitioner's counsel, Ashutosh Sharma, argued against the closure of the shop due to the school's establishment in 2019.
+
+## SC bars 4 states from granting fresh mining leases in Aravali range
+ - [https://timesofindia.indiatimes.com/india/sc-bars-4-states-from-granting-fresh-mining-leases-in-aravali/articleshow/109993707.cms](https://timesofindia.indiatimes.com/india/sc-bars-4-states-from-granting-fresh-mining-leases-in-aravali/articleshow/109993707.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:37:02+00:00
+
+
+
+## 13 yrs after murders of actor and 5 of her kin, stepfather convicted
+ - [https://timesofindia.indiatimes.com/city/mumbai/stepdad-found-guilty-of-killing-actor-5-relatives/articleshow/109993697.cms](https://timesofindia.indiatimes.com/city/mumbai/stepdad-found-guilty-of-killing-actor-5-relatives/articleshow/109993697.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:34:27+00:00
+
+Thirteen years after actor Laila Khan and five of her family were killed and buried at their Igatpuri farmhouse, a sessions court on Thursday convicted her stepfather, Parvez Tak, for the murders. The chargesheet also said Tak killed the six out of anger as he was not given a share of the money the family had received from business deals with a Dubai-based man known only as Shaikh.
+
+## 'Campaigning not fundamental right': ED opposes bail for Delhi CM
+ - [https://timesofindia.indiatimes.com/india/campaigning-not-fundamental-right-ed-opposes-bail-for-delhi-cm-arvind-kejriwal/articleshow/109993691.cms](https://timesofindia.indiatimes.com/india/campaigning-not-fundamental-right-ed-opposes-bail-for-delhi-cm-arvind-kejriwal/articleshow/109993691.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:33:50+00:00
+
+In its affidavit, ED said SC, while rejecting bail to another excise case accused, former Delhi deputy CM Manish Sisodia, had said, "Rule of law means that laws apply equally to all citizens, including the state. Rule of law also mandates objective and fair treatment to all." ED said campaigning for a party was neither a fundamental nor a constitutional right and not even a legal right. A person in custody has no right to even cast his/her vote, it said, adding that the agency did not know of any instance of a political leader being granted interim bail for campaigning even though not contesting elections.
+
+## Happy Akshaya Tritiya 2024: Best messages, quotes and images
+ - [https://timesofindia.indiatimes.com/life-style/events/happy-akshaya-tritiya-2024-best-messages-quotes-wishes-and-images-to-share-on-akshaya-tritiya-wishes/articleshow/109975401.cms](https://timesofindia.indiatimes.com/life-style/events/happy-akshaya-tritiya-2024-best-messages-quotes-wishes-and-images-to-share-on-akshaya-tritiya-wishes/articleshow/109975401.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:30:00+00:00
+
+Akshaya Tritiya will be celebrated on May 10, Friday. On this auspicious occasion, we have curated a special list of beautiful quotes, messages, wishes, and images to share with your loved ones on this festival eve.
+
+## 20 students got NEET papers in Patna day before exam, say cops
+ - [https://timesofindia.indiatimes.com/education/20-students-got-neet-papers-in-patna-day-before-exam-say-cops/articleshow/109993668.cms](https://timesofindia.indiatimes.com/education/20-students-got-neet-papers-in-patna-day-before-exam-say-cops/articleshow/109993668.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:26:09+00:00
+
+
+
+## Canada motion claims ‘threats from India’
+ - [https://timesofindia.indiatimes.com/nri/us-canada-news/canada-motion-claims-threats-from-india/articleshow/109993641.cms](https://timesofindia.indiatimes.com/nri/us-canada-news/canada-motion-claims-threats-from-india/articleshow/109993641.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:20:29+00:00
+
+The motion calls for an immediate review of measures aimed at holding accountable any person or agents of foreign states engaged in political interference, violence or related activities. It comes in the wake of the recent arrest of three men of Punjabi origin in connection with the murder. Khalistan Tiger Force chief Nijjar was shot dead outside a gurdwara in the Canadian province of British Columbia on June 18 last year.
+
+## U'khand rains ease wildfires, flash floods damage roads
+ - [https://timesofindia.indiatimes.com/city/dehradun/ukhand-rains-ease-wildfires-flash-floods-damage-roads/articleshow/109993635.cms](https://timesofindia.indiatimes.com/city/dehradun/ukhand-rains-ease-wildfires-flash-floods-damage-roads/articleshow/109993635.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:19:56+00:00
+
+
+
+## U'khand rains ease wildfires, flash floods damage roads
+ - [https://timesofindia.indiatimes.com/india/ukhand-rains-ease-wildfires-flash-floods-damage-roads/articleshow/109993635.cms](https://timesofindia.indiatimes.com/india/ukhand-rains-ease-wildfires-flash-floods-damage-roads/articleshow/109993635.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:19:56+00:00
+
+
+
+## Political heat peaks as BJP, BSP, SP picks go all out to woo voters
+ - [https://timesofindia.indiatimes.com/city/lucknow/political-heat-peaks-as-bjp-bsp-sp-picks-go-all-out-to-woo-voters/articleshow/109993582.cms](https://timesofindia.indiatimes.com/city/lucknow/political-heat-peaks-as-bjp-bsp-sp-picks-go-all-out-to-woo-voters/articleshow/109993582.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:13:04+00:00
+
+Lucknow's political scene intensifies as parties strategize and campaign vigorously. Samajwadi Party, BJP, Congress, and BSP actively engage in public outreach and meetings to secure voter support for their respective candidates.
+
+## Racket to ‘help’ NEET-UG aspirants busted in Godhra
+ - [https://timesofindia.indiatimes.com/city/vadodara/neet-ug-aspirants-racket-busted-in-godhra/articleshow/109993518.cms](https://timesofindia.indiatimes.com/city/vadodara/neet-ug-aspirants-racket-busted-in-godhra/articleshow/109993518.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:07:03+00:00
+
+NEET exam racket in Godhra busted by Vadodara SOG. Parshuram Roy, Tushar Bhatt, Arif Vahora charged Rs 10 lakh per student. Rs 7 lakh seized from Bhatt. Roy shared student lists at Jay Jalaram School.
+
+## Pawar Sr: Didn’t say will merge party with Congress
+ - [https://timesofindia.indiatimes.com/india/pawar-sr-didnt-say-will-merge-party-with-congress/articleshow/109993469.cms](https://timesofindia.indiatimes.com/india/pawar-sr-didnt-say-will-merge-party-with-congress/articleshow/109993469.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:01:05+00:00
+
+Addressing a press conference in Satara on Thursday, when Pawar was asked to elaborate on his statement that "NCP (SP) will merge with Congress" after the Lok Sabha polls, Pawar said, "Mi asa bolalo nahi, mi asa bolalo nahi. (I did not say this, I did not say this)." Several politicians had reacted after Pawar's earlier statement. Ex-CM Prithviraj Chavan of Congress had said whether smaller parties cooperate or merge will depend on the outcome of the LS polls.
+
+## Pawar Sr: Didn’t say will merge party with Congress
+ - [https://timesofindia.indiatimes.com/city/kolhapur/pawar-sr-didnt-say-will-merge-party-with-congress/articleshow/109993469.cms](https://timesofindia.indiatimes.com/city/kolhapur/pawar-sr-didnt-say-will-merge-party-with-congress/articleshow/109993469.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-05-10T00:01:05+00:00
+
+Addressing a press conference in Satara on Thursday, when Pawar was asked to elaborate on his statement that "NCP (SP) will merge with Congress" after the Lok Sabha polls, Pawar said, "Mi asa bolalo nahi, mi asa bolalo nahi. (I did not say this, I did not say this)." Several politicians had reacted after Pawar's earlier statement. Ex-CM Prithviraj Chavan of Congress had said whether smaller parties cooperate or merge will depend on the outcome of the LS polls.
+

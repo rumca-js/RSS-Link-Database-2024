@@ -1,0 +1,37 @@
+# Source:Dicebreaker Latest Articles Feed, URL:https://www.dicebreaker.com/feed, language:en
+
+## Yazeba's Bed & Breakfast, a slice-of-life RPG from the makers of Wanderhome, gets an official release date
+ - [https://www.dicebreaker.com/games/yazebas-bed-and-breakfast/news/yazebas-bed-and-breakfast-physical-book-launch-date](https://www.dicebreaker.com/games/yazebas-bed-and-breakfast/news/yazebas-bed-and-breakfast-physical-book-launch-date)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-05-10T16:31:59+00:00
+
+<img src="https://assetsio.gnwcdn.com/yazebas-bed-breakfast-cover-illustration.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Two years after funding, cosy and inviting tabletop RPG <a href="https://www.dicebreaker.com/games/yazebas-bed-and-breakfast/feature/yazebas-bed-and-breakfast-rpg-preview-spirited-away-legacy-game">Yazeba's Bed &amp; Breakfast</a> has announced a May 22nd street date for physical books. Designed by Possum Creek Games, the slice-of-life title takes its well-established aesthetic in a more chill, chapter-based direction that doesn&rsquo;t skimp on interesting mechanics.</p><p>Possum Creek Games <a href="https://www.indiegogo.com/projects/yazeba-s-bed-breakfast#/">crowdfunded Yazeba's Bed &amp; Breakfast</a> in August 2022 on the odd-duck-out platform IndieGoGo during the height of the tabletop industry&rsquo;s <a href="https://www.dicebreaker.com/games/yazebas-bed-and-breakfast/news/yazebas-bed-breakfast-rpg-indie
+
+## Behold(er): Dungeons & Dragons invades horror video game sensation Dead By Daylight
+ - [https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/dungeons-and-dragons-dead-by-daylight-crossover-beholder-tease](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/dungeons-and-dragons-dead-by-daylight-crossover-beholder-tease)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-05-10T15:32:30+00:00
+
+<img src="https://assetsio.gnwcdn.com/dungeons-and-dragons-dead-by-daylight-beholder-teaser-video.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The next chapter for popular asymmetrical horror video game Dead By Daylight will include some Dungeons &amp; Dragons flavour. Developer Behaviour Interactive and D&amp;D&rsquo;s publisher, Wizards of the Coast, teased a crossover containing at least one very angry Beholder.</p><p><a href="https://twitter.com/DeadbyDaylight/status/1788600089872589013">Posted to social media</a> on May 9th, the short video shows the iconic monster locked in a dungeon cell and obviously pissed about it. After smashing against the bars of its cage and casting a massive, glowering eye around the room, the Beholder fades to black, and the video prompts players to wait until May 14th to learn more information.</p><p>Not coincidentally, that&rsquo;s the date of Dead By Daylight&rsquo;s 8th anniversary stream where th
+
+## The Legend of Vox Machina’s third season will deliver more animated Critical Role this fall
+ - [https://www.dicebreaker.com/topics/critical-role/news/the-legend-of-vox-machina-third-season-release-date-fall-2024](https://www.dicebreaker.com/topics/critical-role/news/the-legend-of-vox-machina-third-season-release-date-fall-2024)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-05-10T13:41:29+00:00
+
+<img src="https://assetsio.gnwcdn.com/legend-of-vox-machina-trailer-screenshot-4.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Tucked inside a fairly <a href="https://www.washingtonpost.com/entertainment/2024/05/09/critical-role-dungeons-dragons/">glowing profile in the Washington Post</a> of Critical Role&rsquo;s growing Dungeons &amp; Dragons actual play empire was a morsel of new information regarding The Legend of Vox Machina. Fans of the animated series will only need to wait until this fall for more rowdy adventures from Critical Role&rsquo;s first adventuring crew.</p><p>We knew The Legend of Vox Machina was <a href="https://www.dicebreaker.com/topics/critical-role/news/the-legend-of-vox-machina-renewed-third-season-sneak-peek">set for a third season back in 2022</a>, when Amazon MGM Studios (sigh, corporate mergers) greenlit more adaptation of Critical Role&rsquo;s inaugural actual play series alongside teasers for the then-un
+
+## The best games to play outdoors this summer, wherever you are and whatever the weather
+ - [https://www.dicebreaker.com/categories/board-game/best-games/the-best-games-to-play-outdoors-this-summer](https://www.dicebreaker.com/categories/board-game/best-games/the-best-games-to-play-outdoors-this-summer)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-05-10T11:46:55+00:00
+
+<img src="https://assetsio.gnwcdn.com/best-outdoor-games-suitcase-beach.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>It&rsquo;s almost summer, which means half the planet is entering into the part of the year that makes the rest of it worth it. But since so many of us have a very short window in which to fit in our outdoor fun, it does make it a touch harder to justify spending your time indoors.</p><p>Not every board game on the market is a beefy Twilight Imperium or Star Wars: Imperial Assault with a million pieces that can get blown away or lost in an airport. If you are travelling or enjoying the spring weather and you need to get your fix, the best outdoor games can provide.</p><p>Whether you&rsquo;re hitting the road, getting some fresh air with friends or you just need to play your board games at a distance for health reasons, we&rsquo;ve got you covered with our breakdown of the best games to play outdoors this warm season.</
+
+## Play a 30 minute co-op Dark Souls-like D&D card game with Regicide Legacy, now on Kickstarter!
+ - [https://www.dicebreaker.com/games/regicide-legacy/news/regicide-legacy-ks](https://www.dicebreaker.com/games/regicide-legacy/news/regicide-legacy-ks)
+ - RSS feed: https://www.dicebreaker.com/feed
+ - date published: 2024-05-10T11:39:15+00:00
+
+<img src="https://assetsio.gnwcdn.com/regicide-legacy-garden-art.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A new cooperative card game pits a group of players against a series of increasingly difficult enemies in a Dark Souls-like test of survival.</p><p>Regicide Legacy is an <a href="https://www.dicebreaker.com/categories/board-game/best-games/upcoming-board-games">upcoming board game</a> that has players working together as a band of adventurers embarking on a series of missions that will take them throughout the unforgiving land of Deccaria.</p><p>The original Regicide is a <a href="https://www.dicebreaker.com/themes/fantasy/best-games/best-fantasy-board-games">fantasy game</a> contained entirely within a deck of playing cards, in which players must combine their hands of cards in order to defeat a rogue&rsquo;s gallery of corrupted monarchists. Each round sees players being confronted with a new foe, who they must attempt to d
+

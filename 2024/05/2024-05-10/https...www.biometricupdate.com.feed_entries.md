@@ -1,0 +1,124 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## Tools to navigate facial recognition ethics and compliance already available: panel
+ - [https://www.biometricupdate.com/202405/tools-to-navigate-facial-recognition-ethics-and-compliance-already-available-panel](https://www.biometricupdate.com/202405/tools-to-navigate-facial-recognition-ethics-and-compliance-already-available-panel)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-10T18:19:55+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg" width="2048" />
+		In a digital age marked by technological advancement, the integration of facial recognition technology into business operations has sparked profound ethical and legal questions. Can facial recognition be implemented responsibly, ethically, and in compliance with the law? This pressing inquiry was at the forefront of a recent webinar led by Tony Porter, chief privacy officer of <a href="https://www.biometricupdate.com/companies/corsight">Corsight AI</a> and former UK surveillance camera commissioner.
+
+The webinar featured a panel discussion including Pauline Norstrom,CEO of <a href="https://anekanta.co.uk/anekanta-ai/">Anekanta AI</a>, and Mike Gillespie, founder and thought leader of <a href="https://www.advent-im.co.uk/">Advent IM Limited</a>, delving i
+
+## Ethiopia’s integration of digital ID and tax system could yield many benefits, ICTD says
+ - [https://www.biometricupdate.com/202405/ethiopias-integration-of-digital-id-and-tax-system-could-yield-many-benefits-ictd-says](https://www.biometricupdate.com/202405/ethiopias-integration-of-digital-id-and-tax-system-could-yield-many-benefits-ictd-says)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-10T18:18:57+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1286" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/28125132/ethiopia-fayda-biometric-registration.jpg" width="1938" />
+		Integrating Ethiopia’s national ID Fayda with its tax system could improve the quality of tax data, taxpayer experience, and compliance monitoring and enforcement while broadening the country’s tax base, according to an independent analysis.
+
+The International Centre for Tax &amp; Development (ICTD) has identified five potential benefits to Ethiopia is based on a recent analysis of <a href="https://www.biometricupdate.com/202404/nigerias-president-talks-tax-reform-digital-id-and-mosip-with-bill-gates">tax reforms in Uganda and Ghana</a>, published by the Institute of Development Studies. Both countries integrated their national digital ID with their tax systems as part of broader digitization initiatives, which have had early success. Nigeria’s President 
+
+## Selfie biometrics tailored to different sectors but must defend against fraud and lawsuits
+ - [https://www.biometricupdate.com/202405/selfie-biometrics-tailored-to-different-sectors-but-must-defend-against-fraud-and-lawsuits](https://www.biometricupdate.com/202405/selfie-biometrics-tailored-to-different-sectors-but-must-defend-against-fraud-and-lawsuits)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-10T18:17:42+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1080" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/24203910/selfie-id-verification-scaled.jpg" width="2048" />
+		Innovatrics presents a use case, AuthID nabs a new deal and another BIPA lawsuit has been filed over selfie biometrics in the U.S.
+<h2>Innovatrics examines its love affair with ride-hailing platforms</h2>
+<a href="https://www.biometricupdate.com/companies/innovatrics">Innovatrics</a> has published a <a href="https://innovatrics.com/trustreport/how-biometric-identity-verification-protects-passengers-usingride-hailing-apps/">case study</a> examining how ride-hailing apps helped improve its products, including its digital onboarding tool<a href="https://www.innovatrics.com/digital-onboarding-toolkit/"> DOT</a>.
+
+Ride-hailing companies onboard drivers through biometric verification and have plenty of real-life experience in detecting identity fraud. Drivers who are b
+
+## Clear: quarterlies, annuals, SEC actions
+ - [https://www.biometricupdate.com/202405/clear-quarterlies-annuals-sec-actions](https://www.biometricupdate.com/202405/clear-quarterlies-annuals-sec-actions)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-10T18:15:12+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1120" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/21122157/clear.png" width="1492" />
+		<em>May 10, 2024 - </em><a href="https://www.biometricupdate.com/companies/clear">Clear</a>’s revenues from its reusable digital ID and airport biometrics increased by more than 35 percent year-over-year to $179 million for the <a href="https://d1io3yog0oux5.cloudfront.net/_69fee0c09acc4da95eb4252a427f2399/clearme/db/2013/18874/shareholder_letter/CLEAR_ShareholderLetter_24Q1_SEND.pdf">first quarter</a> of the fiscal 2024 year. Total booking were up more than 20 percent to $180.6 million.
+
+Adjusted EBITDA during the quarter reached $40.9 million. Net income was $32.1 million and earnings per common and diluted basic share was $0.20.
+
+CEO Caryn Seidman Becker says Clear executed on its three priorities of improving the membership experience, scaling its <a href="https://www.biometricupdat
+
+## European digital ID project offers grants for more pilots
+ - [https://www.biometricupdate.com/202405/european-digital-id-project-offers-grants-for-more-pilots](https://www.biometricupdate.com/202405/european-digital-id-project-offers-grants-for-more-pilots)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-10T16:48:50+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/28165402/eu-digital-policy-scaled.jpg" width="2048" />
+		The pan-European digital identity project will receive another cash infusion for its pilot programs.
+
+The European Union has <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2024-bestuse-tech-06-trust">published</a> a new call for grants for the European Union Digital Identity (EUDI) Wallet, targeting four different use cases: Business, payment and banking, travel and age verification wallets. The value of the new funding is 20 million euros (US$21.5 million).
+
+The grants will support two more rounds of large-scale pilots designed to test the EUDI Wallet before its roll-out to EU Member States. The deadline for the application is September 24, 2024.
+
+The deliverables include testing “the deployment of t
+
+## Peru’s digital ID under magnifying glass after national identification registry hit by criticism
+ - [https://www.biometricupdate.com/202405/perus-digital-id-under-magnifying-glass-after-national-identification-registry-hit-by-criticism](https://www.biometricupdate.com/202405/perus-digital-id-under-magnifying-glass-after-national-identification-registry-hit-by-criticism)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-10T16:02:02+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1202" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/10115857/RENIEC-Peru-national-id-agency.jpg" width="1800" />
+		The Peruvian national identification registry, which issues the country’s digital IDs, has found itself in turmoil after its employees initiated a strike against the institution’s boss and its faulty technology. The institution has also come under attack for “constant failures” in providing biometric verification for companies.
+
+Last Friday, workers of the National Registry of Identification and Civil Status (Registro Nacional de Identificación y Estado Civil, RENIEC) suspended the service to citizens, demanding that the government not extend the employment of the current head of the institution Carmen Milagros Velarde Koechlin.
+
+Koechlin has been in charge of RENIEC since 2020 and <a href="https://panamericana.pe/locales/404842-carmen-velarde-jefa-reniec-presen
+
+## Worldcoin brings biometric orbs to Peru
+ - [https://www.biometricupdate.com/202405/worldcoin-brings-biometric-orbs-to-peru](https://www.biometricupdate.com/202405/worldcoin-brings-biometric-orbs-to-peru)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-10T15:52:23+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/30160553/worldcoin-iris-logo-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/worldcoin">Worldcoin</a>, a company dedicated to enhancing online security, has announced the commencement of biometric enrollments in Peru. The move aims to increase access to verified proof of humanness in the South American nation, as the next step on its path to issuing digital identity globally. The announcement shortly follows the company's commitment to <a href="https://www.biometricupdate.com/202405/regulators-hound-worldcoin-digital-id-project-as-it-expands-in-latin-america">move into Latin American territories</a>.
+
+One of the offerings by Worldcoin is the World ID, a secure and permissionless identity protocol designed to enable individuals to prove their humanness online while safeguarding their privacy.
+
+## FAA reauthorization skips proposed airport facial recognition ban, funds modernization
+ - [https://www.biometricupdate.com/202405/faa-reauthorization-skips-proposed-airport-facial-recognition-ban-funds-modernization](https://www.biometricupdate.com/202405/faa-reauthorization-skips-proposed-airport-facial-recognition-ban-funds-modernization)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-10T15:45:34+00:00
+
+<img alt="CBP NEC facial recognition biometric exit" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/11/19124818/CBP-NEC-facial-recognition-biometric-exit.jpg" width="2048" />
+		The U.S. Senate has approved the mandate of the Federal Aviation Administration for another five years, without a proposed amendment that would have barred the expansion of facial recognition at America’s airports.
+
+The legislation to reauthorize the FAA was approved by an 88 to 4 vote. <a href="https://www.congress.gov/amendment/118th-congress/senate-amendment/2000/text">The amendment</a> to block the expansion of face biometrics technology deployed by the TSA until at least 2027 was proposed by Senator Jeff Merkley (D-Ore.). It would also have required “simple and clear signage, spoken announcements, or other accessible notifications” of the option not to participate. Merkley claims that the TSA began informi
+
+## China approves two Tesla models on privacy and data protection compliance
+ - [https://www.biometricupdate.com/202405/china-approves-two-tesla-models-on-privacy-and-data-protection-compliance](https://www.biometricupdate.com/202405/china-approves-two-tesla-models-on-privacy-and-data-protection-compliance)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-10T15:26:40+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/10111825/tesla-3-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/202402/tesla-settles-privacy-case-while-amazon-and-facebook-are-frozen-in-place-with-theirs">Tesla</a>’s handling of personal biometric data is good enough for China, according to a <a href="https://www.scmp.com/business/china-business/article/3260774/elon-musk-china-tesla-passes-data-security-assessment-could-pave-way-lifting-bars-its-cars-movements">report</a> from the South China Morning Post. The electric car company’s Model 3 and Model Y have been cleared by the China Association of Automobile Manufacturers (CAAM), a government-backed industry consortium, in a test of compliance with Beijing’s data security rules.
+
+The assessment essentially confirms that the company has demonstrated acceptable privacy protection in handling <a href
+
+## Chinese researchers test point cloud-based facial age estimation process
+ - [https://www.biometricupdate.com/202405/chinese-researchers-test-point-cloud-based-facial-age-estimation-process](https://www.biometricupdate.com/202405/chinese-researchers-test-point-cloud-based-facial-age-estimation-process)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-10T15:05:09+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="733" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/10110337/3D-face-point-cloud.png" width="1048" />
+		A team out of Peking University has published a <a href="https://www.deepdyve.com/lp/springer-journal/coordinate-wise-monotonic-transformations-enable-privacy-preserving-cCA410UEcY?key=springer">paper</a> in Science China Life Sciences on  “establishing a deep learning model for age estimation using non-registered 3D face point clouds.”
+
+A <a href="https://en.wikipedia.org/wiki/Point_cloud">point cloud</a> is a discrete set of data points in 3D space. A <a href="https://techxplore.com/news/2024-04-wise-monotonic-enable-privacy-age.html#google_vignette">summary</a> of the paper in TechXplore says the researchers trained their model on over 16,000 instances of 3D face point cloud data, to investigate “an approach for facial data masking that preserves age-related features usi
+
+## RecFaces explores how facial recognition can enhance the banking experience
+ - [https://www.biometricupdate.com/202405/recfaces-explores-how-facial-recognition-can-enhance-the-banking-experience](https://www.biometricupdate.com/202405/recfaces-explores-how-facial-recognition-can-enhance-the-banking-experience)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-10T15:03:57+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1436" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/03/18171644/face-verification-2-scaled.jpg" width="2048" />
+		Facial recognition technology has become prevalent in various industries because it enhances security measures and improves customer experiences. Banking operations in particular can be dramatically improved with face biometrics, according to <a href="https://www.biometricupdate.com/companies/recfaces">RecFaces</a>, thereby redefining the traditional banking landscape.
+
+In the banking industry, security is of utmost importance when it comes to technological advancements. With the help of facial recognition, banks can significantly enhance their security measures and protect against the constant threat of fraud and identity theft.
+
+Facial recognition offers a non-intrusive and efficient method of identity verification. By comparing a customer's facial features agains
+
