@@ -1,0 +1,849 @@
+# Source:Associated Press News: Breaking News, Latest Headlines and Videos, URL:https://apnews.com/index.rss, language:en
+
+## Rory McIlroy pulls within shot of Xander Schauffele in Wells Fargo Championship
+ - [https://apnews.com/article/wells-fargo-championship-rory-mcilroy-schauffele-312cc8b654b3433fab43913279330af6](https://apnews.com/article/wells-fargo-championship-rory-mcilroy-schauffele-312cc8b654b3433fab43913279330af6)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T22:15:03+00:00
+
+Rory McIlroy shot a bogey-free 4-under 67 on Saturday to pull within a stroke of leader Xander Schauffele with a round left in the Wells Fargo Championship.
+
+## Pirates rookie Paul Skenes hits triple digits routinely, strikes out 7 in big league debut vs. Cubs
+ - [https://apnews.com/article/paul-skenes-debut-pirates-livvy-dunne-d9198f2bd9ecb013ae2d466c66f94aa7](https://apnews.com/article/paul-skenes-debut-pirates-livvy-dunne-d9198f2bd9ecb013ae2d466c66f94aa7)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T22:14:24+00:00
+
+Pittsburgh Pirates rookie Paul Skenes made an impressive big league debut, striking out seven in four-plus innings against the Chicago Cubs.
+
+## Pacers, Nuggets looking to even conference semifinals following key Game 3 victories
+ - [https://apnews.com/article/nba-playoffs-pacers-nuggets-semifinal-e9dfe7b009b715e3f8dcc87e97a4367e](https://apnews.com/article/nba-playoffs-pacers-nuggets-semifinal-e9dfe7b009b715e3f8dcc87e97a4367e)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T22:12:28+00:00
+
+The Indiana Pacers and Denver Nuggets managed to fight their way back into the NBA's conference semifinals with key Game 3 victories Friday night.
+
+## Alex Palou pulls away from Will Power to win 2nd straight Indy GP and retake points lead
+ - [https://apnews.com/article/indycar-indy-palou-points-33619b84e72efd6541fc3b8f87b939e9](https://apnews.com/article/indycar-indy-palou-points-33619b84e72efd6541fc3b8f87b939e9)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T22:04:44+00:00
+
+Alex Palou won the race off pit row on Lap 62 then beat Will Power into the first turn on the only restart of the Indianapolis Grand Prix and easily defended last year's title on Indy's road course.
+
+## Controversy follows Gov. Kristi Noem as she is banned by two more South Dakota tribes
+ - [https://apnews.com/article/kristi-noem-tribes-ban-south-dakota-dog-dbfd7dd2e26985f35d8ad85da724bdc6](https://apnews.com/article/kristi-noem-tribes-ban-south-dakota-dog-dbfd7dd2e26985f35d8ad85da724bdc6)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T22:02:48+00:00
+
+South Dakota Gov. Kristi Noem is now banned from entering nearly 20% of her state after two more tribes banished her this week over comments she made earlier this year about tribal leaders benefitting from drug cartels.
+
+## Braves left-hander Max Fried has no-hitter through 7 innings against the Mets
+ - [https://apnews.com/article/braves-mets-fried-58c7126bb9bb6958cb0c50f2aefcd30e](https://apnews.com/article/braves-mets-fried-58c7126bb9bb6958cb0c50f2aefcd30e)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T21:57:24+00:00
+
+Atlanta left-hander Max Fried has not allowed a hit through seven innings in Saturday’s game against the New York Mets, and the Braves lead 3-0.Fried has struck out five and walked three.
+
+## Mets LF Brandon Nimmo exits game against Braves doe to pain in his side
+ - [https://apnews.com/article/mets-brandon-nimmo-hurt-c3310324a501aec6664c4824705f4bff](https://apnews.com/article/mets-brandon-nimmo-hurt-c3310324a501aec6664c4824705f4bff)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T21:48:34+00:00
+
+New York Mets left fielder Brandon Nimmo left Saturday’s game against the Atlanta Braves after the fourth inning with what appeared to be a pain in his side.
+
+## Pulisic nets 2 as AC Milan ends winless run by thrashing Cagliari
+ - [https://apnews.com/article/pulisic-milan-napoli-bologna-serie-e5a5593b62012735dd59ffbd514ae475](https://apnews.com/article/pulisic-milan-napoli-bologna-serie-e5a5593b62012735dd59ffbd514ae475)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T21:19:22+00:00
+
+United States standout Christian Pulisic has scored twice as AC Milan beat Cagliari 5-1 in Serie A although he had a very different name on the back of his jersey.
+
+## Spurs present Victor Wembanyama with Rookie of the Year trophy at San Antonio College planetarium
+ - [https://apnews.com/article/spurs-victory-wembanyama-rookie-of-year-trophy-23434ae98939100e1e57441ffa99be5f](https://apnews.com/article/spurs-victory-wembanyama-rookie-of-year-trophy-23434ae98939100e1e57441ffa99be5f)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T21:16:41+00:00
+
+The San Antonio Spurs presented Victor Wembanyama with the NBA Rookie of the Year trophy on Saturday at the planetarium on the campus of San Antonio College.
+
+## Small pro-Palestinian protests held Saturday as college commencements are held
+ - [https://apnews.com/article/campus-protests-virginia-wisconsin-youngkin-eab2700b77061ba8a78eb2122123eb0b](https://apnews.com/article/campus-protests-virginia-wisconsin-youngkin-eab2700b77061ba8a78eb2122123eb0b)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T21:09:38+00:00
+
+Small pro-Palestinian protests are popping up sporadically as colleges and universities hold commencement services.
+
+## Experts say gun alone doesn't justify deadly force in fatal shooting of Florida airman
+ - [https://apnews.com/article/florida-deputy-black-airman-killed-fortson-5b97a30b51272413346b255235f3ba70](https://apnews.com/article/florida-deputy-black-airman-killed-fortson-5b97a30b51272413346b255235f3ba70)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T21:02:25+00:00
+
+The killing of a Black U.S. Air Force senior airman by a Florida sheriff's deputy responding to a phoned-in complaint about an argument has the airman's family calling for charges, saying the shooting was completely unjustified.
+
+## Bruins hoping Marchand can return and give team a boost in Game 4 vs Panthers
+ - [https://apnews.com/article/bruins-panthers-oilers-canucks-preview-48d60e98d4c6f10d8ef6db8305a21744](https://apnews.com/article/bruins-panthers-oilers-canucks-preview-48d60e98d4c6f10d8ef6db8305a21744)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T20:51:05+00:00
+
+The Bruins are hoping Brad Marchand can return from an injury and provide the team with a boost in Game 4 against the Florida Panthers on Sunday night.
+
+## Holstein Kiel earns first ever promotion to Bundesliga
+ - [https://apnews.com/article/bundesliga-promotion-holstein-kiel-53810b3bce6defc92bcb472d1f61e402](https://apnews.com/article/bundesliga-promotion-holstein-kiel-53810b3bce6defc92bcb472d1f61e402)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T20:45:30+00:00
+
+Benedikt Pichler’s early goal has been enough to earn Bundesliga promotion for Holstein Kiel after drawing at home with Fortuna Düsseldorf 1-1.
+
+## Federal prosecutors request 40-year sentence for man who attacked Pelosi's husband with hammer
+ - [https://apnews.com/article/pelosi-husband-attacked-depape-hammer-4a8bde0af0e0fc53ade1ad0bd936a715](https://apnews.com/article/pelosi-husband-attacked-depape-hammer-4a8bde0af0e0fc53ade1ad0bd936a715)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T20:44:08+00:00
+
+Federal prosecutors are asking a judge for a 40-year prison sentence for the man who broke into former U.S.
+
+## Phillies' Kyle Schwarber sits vs. Marlins because of back soreness
+ - [https://apnews.com/article/phillies-kyle-schwarber-injury-94c8fd00cac7f261c506bdfdb02731f2](https://apnews.com/article/phillies-kyle-schwarber-injury-94c8fd00cac7f261c506bdfdb02731f2)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T20:31:48+00:00
+
+Philadelphia Phillies slugger Kyle Schwarber sat out his first game of the season Saturday because of back soreness.
+
+## Justin Allgaier uses dominant run at Darlington to win first Xfinity race of the season
+ - [https://apnews.com/article/xfinity-darlington-nascar-9fea3909843b7bcab7751f70d2ccffd6](https://apnews.com/article/xfinity-darlington-nascar-9fea3909843b7bcab7751f70d2ccffd6)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T20:25:50+00:00
+
+Justin Allgaier had a dominant day behind the wheel to win his first Xfinity Series race of the season and get his third career victory at Darlington Raceway.
+
+## Former Florida Gov. and US Sen. Bob Graham remembered for his civility at memorial service
+ - [https://apnews.com/article/bob-graham-florida-memorial-5ae881b41dbbc31f7f24c37e39f1fa37](https://apnews.com/article/bob-graham-florida-memorial-5ae881b41dbbc31f7f24c37e39f1fa37)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T20:22:10+00:00
+
+Family and friends have remembered former Florida Gov. and U.S. Sen. Bob Graham as a politician who usually avoided rancor, enjoyed meeting regular Floridians and always behaved civilly, even behind closed doors.
+
+## A'ja Wilson and Nike announce the Las Vegas Aces star is getting a signature shoe
+ - [https://apnews.com/article/aja-wilson-nike-signature-shoe-db6dcfb40f6ddad8cf7f4f2879efd2fd](https://apnews.com/article/aja-wilson-nike-signature-shoe-db6dcfb40f6ddad8cf7f4f2879efd2fd)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T20:11:38+00:00
+
+Two-time WNBA MVP A’ja Wilson is getting a Nike signature shoe. The deal was announced Saturday as the two-time defending champion Las Vegas Aces prepared to play a preseason exhibition against the Puerto Rican national team at South Carolina.
+
+## Marc Benioff lunch auction raises $1.5M for charity. Not bad for first year without Warren Buffett
+ - [https://apnews.com/article/warren-buffett-marc-benioff-lunch-auction-glide-f5454a50046cd80d394f9e43e146ab50](https://apnews.com/article/warren-buffett-marc-benioff-lunch-auction-glide-f5454a50046cd80d394f9e43e146ab50)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T20:11:03+00:00
+
+The $200,100 winning bid for a private lunch with software titan Marc Benioff might appear disappointing at first glance after years of multimillion-dollar bids for a private meal with investor Warren Buffett.
+
+## 8 people were killed in a shooting attack at a bar in Ecuador, local police say
+ - [https://apnews.com/article/ecuador-bar-shooting-violence-gangs-734528e27f04cc6beac88d26876fb050](https://apnews.com/article/ecuador-bar-shooting-violence-gangs-734528e27f04cc6beac88d26876fb050)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T20:05:44+00:00
+
+Police say eight people have been killed in a shooting attack on a birthday party in a bar in Ecuador, which has suffered an escalating wave of gang-fueled violence.
+
+## Ancelotti says his focus is on Madrid's Champions League final not Mbappé's expected arrival
+ - [https://apnews.com/article/mbappe-madrid-ancelotti-0d5156fe549b17188a1c44415acd5e2b](https://apnews.com/article/mbappe-madrid-ancelotti-0d5156fe549b17188a1c44415acd5e2b)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T19:55:37+00:00
+
+Carlo Ancelotti says that with his Real Madrid eyeing another European Cup he has no time to consider the possibility of coaching Kylian Mbappé next season.
+
+## LA County prosecutors say leaked racist recording involved a crime. But they won't file charges
+ - [https://apnews.com/article/los-angeles-racist-recording-scandal-labor-333b4933d62affae31b4e79c15fb2410](https://apnews.com/article/los-angeles-racist-recording-scandal-labor-333b4933d62affae31b4e79c15fb2410)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T19:52:34+00:00
+
+Los Angeles County prosecutors say they suspect a crime was committed in the recording of a racist conversation that prompted the city council president to resign.
+
+## IPL leader Kolkata qualifies for playoffs after rain-affected win over Mumbai
+ - [https://apnews.com/article/kolkata-mumbai-ipl-ff2721b76c3826fa8c0dec4f1e9fe0a8](https://apnews.com/article/kolkata-mumbai-ipl-ff2721b76c3826fa8c0dec4f1e9fe0a8)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T19:42:05+00:00
+
+Indian Premier League leaders the Kolkata Knight Riders are the first playoff team after beating Mumbai Indians by 18 runs in a rain-shortened match.
+
+## Saturday's Scores
+ - [https://apnews.com/sports/ohio-31e26ac44c09541dac07b5265701327b](https://apnews.com/sports/ohio-31e26ac44c09541dac07b5265701327b)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T19:33:10+00:00
+
+Saturday's Scores
+
+## Patriots’ No. 3 pick QB Drake Maye wraps up first taste of NFL workouts at rookie camp
+ - [https://apnews.com/article/patriots-rookie-drake-maye-minicamp-2bb381e3a815b8fcdd48a357d924f65d](https://apnews.com/article/patriots-rookie-drake-maye-minicamp-2bb381e3a815b8fcdd48a357d924f65d)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T19:30:32+00:00
+
+New England quarterback Drake Maye’s day wasn’t done, not by a long shot. The No. 3 pick in the NFL Draft was just getting started Saturday after rookie mini-camp practice.
+
+## Yankees' Cole has third bullpen session. Domínguez is ready to start a minor league rehab assignment
+ - [https://apnews.com/article/cole-yankees-bullpen-148c34cec05ac6c5bc0752aa1137aa4b](https://apnews.com/article/cole-yankees-bullpen-148c34cec05ac6c5bc0752aa1137aa4b)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T19:19:24+00:00
+
+New York Yankees ace Gerrit Cole threw 29 pitches including breaking balls in his third bullpen session since hurting his elbow in spring training.
+
+## Duchess of Sussex, called ‘Ifeoma’ in Nigeria, speaks with women about her Nigerian roots
+ - [https://apnews.com/article/meghan-harry-nigeria-okonjoiweala-9506714375d645560428e3bec050babe](https://apnews.com/article/meghan-harry-nigeria-okonjoiweala-9506714375d645560428e3bec050babe)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T19:15:24+00:00
+
+Meghan, the Duchess of Sussex, says it’s been “humbling” to find out through a genealogy test that she is partly Nigerian.
+
+## Connecticut Democrats unanimously nominate U.S. Sen. Chris Murphy for a third term
+ - [https://apnews.com/article/chris-murphy-connecticut-senate-6753a79a02090b16c61b00a0fb06d889](https://apnews.com/article/chris-murphy-connecticut-senate-6753a79a02090b16c61b00a0fb06d889)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T19:11:06+00:00
+
+Connecticut Democrats have unanimously endorsed U.S. Sen. Chris Murphy for a third term. They praised the state's junior senator for his work on gun reform and foreign policy during Saturday's state convention, held at the Mohegan Sun casino and resort.
+
+## New Mexico governor seeks hydrogen investment with trip to Netherlands
+ - [https://apnews.com/article/new-mexico-seeks-hydrogen-fuel-investments-14ce91107e326a3adbc32c63cb98a50b](https://apnews.com/article/new-mexico-seeks-hydrogen-fuel-investments-14ce91107e326a3adbc32c63cb98a50b)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T19:08:12+00:00
+
+The governor of New Mexico has announced plans to court new investments in hydrogen fuel development at a business summit in the Netherlands over the coming week.
+
+## Forest still yet to secure EPL status after loss to fast-finishing Chelsea
+ - [https://apnews.com/article/nottingham-forest-chelsea-score-aa34f9b04f546475e9f6719524f69e99](https://apnews.com/article/nottingham-forest-chelsea-score-aa34f9b04f546475e9f6719524f69e99)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T19:00:09+00:00
+
+Nottingham Forest is still not mathematically sure of avoiding relegation from the English Premier League after losing at home to Chelsea 3-2.
+
+## Backcountry skier dies after being buried in Idaho avalanche
+ - [https://apnews.com/article/idaho-avalanche-backcounty-skiing-6e7a05c13a2ed7a9c6cd0a91ea7d6b31](https://apnews.com/article/idaho-avalanche-backcounty-skiing-6e7a05c13a2ed7a9c6cd0a91ea7d6b31)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T18:57:37+00:00
+
+A backcountry skier has died after being buried by an avalanche in Idaho. The Sawtooth Avalanche Center says the avalanche occurred Friday when two experienced backcountry skiers were traveling on Donaldson Peak in Idaho’s Lost River Range.
+
+## Report: Trump may face $100 million-plus IRS bill over skyscraper
+ - [https://apnews.com/article/trump-tax-losses-audit-election-chicago-skyscraper-47729a0758e6b54aa06c075fc49c5c53](https://apnews.com/article/trump-tax-losses-audit-election-chicago-skyscraper-47729a0758e6b54aa06c075fc49c5c53)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T18:49:28+00:00
+
+A report by The New York Times and ProPublica says former President Donald Trump may face an IRS bill in excess of $100 million.
+
+## Saturday's Scores
+ - [https://apnews.com/sports/ohio-f1230f15b8fc620b526c6203dd59e432](https://apnews.com/sports/ohio-f1230f15b8fc620b526c6203dd59e432)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T18:48:16+00:00
+
+Saturday’s Scores
+
+## Pirates add Paul Skenes to their roster ahead of his major league debut
+ - [https://apnews.com/article/pirates-roster-paul-skenes-b7f83e7f0ce255d06a7865070aa7948b](https://apnews.com/article/pirates-roster-paul-skenes-b7f83e7f0ce255d06a7865070aa7948b)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T18:44:27+00:00
+
+Paul Skenes is officially a big leaguer. The Pittsburgh Pirates promoted the hard-throwing right-hander and top overall pick in last year’s amateur draft to their roster ahead of Skenes’ start against the Chicago Cubs.
+
+## Man found dead after Ohio movie theater shooting. Person considered suspect is arrested
+ - [https://apnews.com/article/ohio-movie-theater-shooting-321c7874b8a5265ade7b7a59446d672d](https://apnews.com/article/ohio-movie-theater-shooting-321c7874b8a5265ade7b7a59446d672d)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T18:33:56+00:00
+
+Authorities say a man was found dead after a shooting in a movie theater in northeastern Ohio and another person considered a suspect was arrested shortly afterward.
+
+## Real Madrid rests starters in 4-0 rout of relegated Granada with focus on Champions League final
+ - [https://apnews.com/article/real-madrid-granada-liga-5ef151ec8470e6c531f75e5497ef0c26](https://apnews.com/article/real-madrid-granada-liga-5ef151ec8470e6c531f75e5497ef0c26)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T18:33:38+00:00
+
+Real Madrid’s backups have eased to 4-0 win at the relegated Granada as Carlo Ancelotti rested most of his top players to avoid any costly injures before the Champions League final.
+
+## Haitians demand the resignation and arrest of the country's police chief after a new gang attack
+ - [https://apnews.com/article/haiti-gang-attack-gressier-gresye-4420aa9dd4a1a08f3f0b65bd0d676f85](https://apnews.com/article/haiti-gang-attack-gressier-gresye-4420aa9dd4a1a08f3f0b65bd0d676f85)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T17:57:10+00:00
+
+A growing number of civilians and police officers are demanding the dismissal and arrest of Haiti’s police chief as heavily armed gangs launched a new attack in the capital of Port-au-Prince.
+
+## Ronaldo and Al-Nassr miss out on Saudi Pro League title won by Al-Hilal
+ - [https://apnews.com/article/ronaldo-al-hilal-saudi-1211622c0649575a5c9b010c142b2f65](https://apnews.com/article/ronaldo-al-hilal-saudi-1211622c0649575a5c9b010c142b2f65)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T17:47:27+00:00
+
+Cristiano Ronaldo and Al-Nassr have missed out on the Saudi Pro League title for the second consecutive season after Al-Hilal defeated Al-Hazm 4-1 and clinched first place.
+
+## Olise stars again for Crystal Palace in win at Wolves in EPL
+ - [https://apnews.com/article/wolves-crystal-palace-score-olise-ef51d36e56f9d101a8fd4cbdc82a46ef](https://apnews.com/article/wolves-crystal-palace-score-olise-ef51d36e56f9d101a8fd4cbdc82a46ef)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:57:42+00:00
+
+Michael Olise has delivered another impressive display and Crystal Palace has registered its fifth win in six English Premier League games by beating Wolves 3-1 at Molineux.
+
+## Solar storm creates light show across the world, no serious problems reported
+ - [https://apnews.com/article/solar-storm-northern-lights-power-grid-disruption-eb7fabd1dfbd734a398192bf4c701ca5](https://apnews.com/article/solar-storm-northern-lights-power-grid-disruption-eb7fabd1dfbd734a398192bf4c701ca5)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:55:34+00:00
+
+A powerful solar storm put on an amazing skyward light show worldwide overnight but caused what appeared to be only minor disruptions to the electric power grid.
+
+## West Ham gives departing Moyes a winning sendoff at London Stadium with victory over Luton
+ - [https://apnews.com/article/west-ham-luton-score-moyes-a0502981172660928181e373fd7abb01](https://apnews.com/article/west-ham-luton-score-moyes-a0502981172660928181e373fd7abb01)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:48:42+00:00
+
+West Ham manager David Moyes has said farewell to London Stadium while Luton is left almost certainly waving goodbye to the English Premier League after a 3-1 defeat.
+
+## Brighton dents Newcastle's European hopes by securing EPL draw
+ - [https://apnews.com/article/newcastle-brighton-score-719116859a8aa79d1500dc18d89721f3](https://apnews.com/article/newcastle-brighton-score-719116859a8aa79d1500dc18d89721f3)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:45:38+00:00
+
+Sean Longstaff’s eighth goal of the season has ensured Newcastle’s home campaign in the English Premier League did not end with a defeat as Brighton emerged from the long trip north with a point from a 1-1 draw.
+
+## Burnley relegated from EPL after just one season because of loss at Tottenham
+ - [https://apnews.com/article/tottenham-burnley-score-2f05161f45b2e22cad02d5925489b4fb](https://apnews.com/article/tottenham-burnley-score-2f05161f45b2e22cad02d5925489b4fb)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:37:30+00:00
+
+Burnley has been relegated from the English Premier League after Micky van de Ven’s 82nd-minute goal earned Tottenham a 2-1 comeback victory.
+
+## Everton secures fifth straight EPL home win by beating relegated Sheffield United
+ - [https://apnews.com/article/everton-sheffield-score-dfa55c4122e3710f2cae06f333389542](https://apnews.com/article/everton-sheffield-score-dfa55c4122e3710f2cae06f333389542)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:32:49+00:00
+
+Everton has signed off its season at Goodison Park by enjoying a jeopardy-free 1-0 victory over already-relegated Sheffield United in the English Premier League.
+
+## Woman gets 2 life sentences in 2021 murders of father, his longtime girlfriend
+ - [https://apnews.com/article/new-jersey-couple-killed-daughter-convicted-25af290cc5116c766d4414e7e2cafdba](https://apnews.com/article/new-jersey-couple-killed-daughter-convicted-25af290cc5116c766d4414e7e2cafdba)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:31:47+00:00
+
+A Pennsylvania woman has been sentenced to two life terms in the shooting and stabbing deaths of her father and his longtime girlfriend 2 1/2 years ago in New Jersey.
+
+## Jill Biden tells Arizona college graduates to tune out people who tell them what they 'can't' do
+ - [https://apnews.com/article/commencement-jill-biden-arizona-community-college-speech-bb8d3a22611f4b2f9f4bfed3748e58c4](https://apnews.com/article/commencement-jill-biden-arizona-community-college-speech-bb8d3a22611f4b2f9f4bfed3748e58c4)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:31:24+00:00
+
+First lady Jill Biden is telling graduates of an Arizona community college to tune out the people who tell them what they can't do.
+
+## Man charged with overturning port-a-potty, trapping woman and child inside
+ - [https://apnews.com/article/porta-potty-overturned-woman-child-trapped-d373388d8cbedd6e448aadeb009fba78](https://apnews.com/article/porta-potty-overturned-woman-child-trapped-d373388d8cbedd6e448aadeb009fba78)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:30:53+00:00
+
+A New Hampshire man is facing charges after police say he knocked over a portable toilet containing a woman and child who became trapped inside.
+
+## Rays closer Fairbanks reinstated from IL after missing 19 games with nerve-related hand issues
+ - [https://apnews.com/article/rays-fairbanks-return-ad13143cf9b0d950e4ee954c85fa33b7](https://apnews.com/article/rays-fairbanks-return-ad13143cf9b0d950e4ee954c85fa33b7)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:17:04+00:00
+
+Tampa Bay Rays closer Pete Fairbanks was reinstated from the 15-day injured list before Saturday’s game against the New York Yankees after missing 19 games with nerve-related hand issues.
+
+## Brentford beats Bournemouth on Yoane Wissa's stoppage-time strike
+ - [https://apnews.com/article/bournemouth-brentford-score-a359d560da4116976d268391ba836580](https://apnews.com/article/bournemouth-brentford-score-a359d560da4116976d268391ba836580)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:14:47+00:00
+
+Yoane Wissa has scored in stoppage time to give Brentford a 2-1 win over Bournemouth in the English Premier League.
+
+## Man City just two wins from another EPL title. Burnley becomes the second team relegated
+ - [https://apnews.com/article/premier-league-man-city-burnley-forest-a54aac8e4dbf91e2666d6c5b1acb380f](https://apnews.com/article/premier-league-man-city-burnley-forest-a54aac8e4dbf91e2666d6c5b1acb380f)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:11:45+00:00
+
+Two more wins separate Manchester City from becoming English champion for an unprecedented fourth straight year.
+
+## Minnesota unfurls new state flag atop the capitol for the first time Saturday
+ - [https://apnews.com/article/new-minnesota-state-flag-a467e61517134531e65545e696a48fe1](https://apnews.com/article/new-minnesota-state-flag-a467e61517134531e65545e696a48fe1)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:10:12+00:00
+
+Minnesota officially unfurled its new state flag atop the capitol for the first time Saturday on statehood day.
+
+## Kyle Larson is not a hardcore fan of Taylor Swift despite a trip to Paris for a concert
+ - [https://apnews.com/article/larson-darlington-preview-nascar-buescher-8bfeb3b750da2f693a0783c2635973ee](https://apnews.com/article/larson-darlington-preview-nascar-buescher-8bfeb3b750da2f693a0783c2635973ee)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:07:57+00:00
+
+Kyle Larson says he is not a Swiftie, despite he and his wife taking their daughter to Paris this week to see Taylor Swift in concert.
+
+## Wisconsin man gets 15 year prison sentence for 2022 building fire that killed 2 people
+ - [https://apnews.com/article/fatal-wisconsin-fire-sentence-a0507c130c061177f82d9433c2fa6f65](https://apnews.com/article/fatal-wisconsin-fire-sentence-a0507c130c061177f82d9433c2fa6f65)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T16:02:23+00:00
+
+A man convicted of starting a fire that killed two people when it destroyed a Wisconsin building housing a bar and rented rooms has been sentenced to 15 years in prison.
+
+## Downs scores late to keep Cologne up and defer Bundesliga relegation decisions to final day
+ - [https://apnews.com/article/bundesliga-dortmund-cologne-relegation-86bb2a4baa1196019c5989493925b6e9](https://apnews.com/article/bundesliga-dortmund-cologne-relegation-86bb2a4baa1196019c5989493925b6e9)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T15:49:09+00:00
+
+Damion Downs has scored in injury time to keep alive Cologne’s Bundesliga survival hopes with a 3-2 home win over Union Berlin, which is also fighting against the drop.
+
+## AP PHOTOS: Lotus Lantern Festival draws thousands in Seoul to celebrate upcoming Buddha's birthday
+ - [https://apnews.com/article/south-korea-lotus-lantern-festival-buddha-birthday-aa4c53b33de833bef89c0d1294780a0b](https://apnews.com/article/south-korea-lotus-lantern-festival-buddha-birthday-aa4c53b33de833bef89c0d1294780a0b)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T15:30:50+00:00
+
+SEOUL, South Korea (AP) — Holding umbrellas and pink paper lotus flowers, thousands of South Koreans joyously filled the wet streets of Seoul in an annual festival anticipating Buddha’s birthday the coming week.
+
+## Ex-GOP Gov. Hogan is popular with some Maryland Democrats, but not enough to put him in the Senate
+ - [https://apnews.com/article/maryland-senate-democratic-primary-hogan-trone-alsobrooks-8bdc16f6bbac18623d64cb65bf4172f1](https://apnews.com/article/maryland-senate-democratic-primary-hogan-trone-alsobrooks-8bdc16f6bbac18623d64cb65bf4172f1)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T15:27:41+00:00
+
+Maryland Democrats are trying to decide which Senate candidate is best positioned to beat Republican Larry Hogan, a popular former governor.
+
+## Joe Biden wants to remind 2024 voters of a record and an agenda. Often it's Donald Trump's
+ - [https://apnews.com/article/biden-trump-record-agenda-campaign-strategy-presidency-0f48cc2a224fb202fa6bdcfd0422efc5](https://apnews.com/article/biden-trump-record-agenda-campaign-strategy-presidency-0f48cc2a224fb202fa6bdcfd0422efc5)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T15:22:11+00:00
+
+President Joe Biden is running for reelection on a record and an agenda, and it's often Donald Trump’s that he's citing.
+
+## Giro leader Tadej Pogacar wins his third stage in the first week
+ - [https://apnews.com/article/pogacar-giro-ditalia-stage-8-16d025dc16d71045041674b1e08abdd0](https://apnews.com/article/pogacar-giro-ditalia-stage-8-16d025dc16d71045041674b1e08abdd0)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T15:20:44+00:00
+
+Tadej Pogacar’s command of the Giro d’Italia has earned him a third stage win in just the first week.
+
+## Here's why already relegated Sheffield United has made some unwanted history in the Premier League
+ - [https://apnews.com/article/sheffield-united-record-101-goals-de2d709ed2543cbffb7599b7a8f57de0](https://apnews.com/article/sheffield-united-record-101-goals-de2d709ed2543cbffb7599b7a8f57de0)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T15:13:00+00:00
+
+Sheffield United has made unwanted history. The team conceded in the 31st minute at Everton and became the first to let in 101 goals in a single Premier League season.
+
+## A top Cambodian opposition politician is charged with inciting disorder for criticizing government
+ - [https://apnews.com/article/cambodia-opposition-sun-chanthy-8fcf91a182b20fcc86352e2f8dc9e15a](https://apnews.com/article/cambodia-opposition-sun-chanthy-8fcf91a182b20fcc86352e2f8dc9e15a)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T15:12:10+00:00
+
+The leader of a recently formed Cambodian opposition party has been charged with inciting social disorder in the third major legal action this month targeting critics of the government of Prime Minister Hun Manet.
+
+## Celtic closes in on Scottish league title by beating Rangers 2-1 in Old Firm derby
+ - [https://apnews.com/article/scotland-soccer-celtic-rangers-457754ebfd77f2f7352a73a28acf28e1](https://apnews.com/article/scotland-soccer-celtic-rangers-457754ebfd77f2f7352a73a28acf28e1)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T14:57:39+00:00
+
+Celtic is on the cusp of a third straight Scottish league title. A 2-1 victory over Rangers in the Old Firm derby has moved Celtic six points clear of its fierce Glasgow rival with two matches left.
+
+## Kentucky Derby winner Mystik Dan is heading to the Preakness after all
+ - [https://apnews.com/article/preakness-mystik-dan-kentucky-derby-b19fab532c55e601bcbbae974a2bd009](https://apnews.com/article/preakness-mystik-dan-kentucky-derby-b19fab532c55e601bcbbae974a2bd009)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T14:43:45+00:00
+
+Kentucky Derby winner Mystik Dan is heading to the Preakness after all. Trainer Kenny McPeek announced the decision to send the horse to Baltimore for the second leg of the Triple Crown next Saturday.
+
+## Sudan’s military fends off an attack by paramilitary forces on a major Darfur city
+ - [https://apnews.com/article/sudan-war-military-rsf-darfur-bdea0c055e3c7fcc8037dd25e0f0f0af](https://apnews.com/article/sudan-war-military-rsf-darfur-bdea0c055e3c7fcc8037dd25e0f0f0af)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T14:39:51+00:00
+
+Sudan’s military and allied armed groups have staved off an attack by a paramilitary group and Arab militias on a major city in the western region of Darfur.
+
+## Connor Bedard scores twice as Canada rallies to beat Britain 4-2 at hockey worlds
+ - [https://apnews.com/article/ice-hockey-world-championship-f95b082f465913449dab06ac51c6307e](https://apnews.com/article/ice-hockey-world-championship-f95b082f465913449dab06ac51c6307e)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T14:14:07+00:00
+
+Connor Bedard scored twice and Canada opened its title defense at the ice hockey world championship with a 4-2 win over newcomer Britain.
+
+## Vermont Legislature adjourns session focused on property taxes, housing, climate change
+ - [https://apnews.com/article/vermont-legislature-adjourns-b523fb14564d3c8034c553445e1c9db0](https://apnews.com/article/vermont-legislature-adjourns-b523fb14564d3c8034c553445e1c9db0)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T14:08:54+00:00
+
+The Vermont Legislature has adjourned, ending a session focused on housing, climate change and addressing soaring property taxes.
+
+## This Date in Baseball - 2B Asdrubal Cabrera turned the 14th unassisted triple play in MLB history
+ - [https://apnews.com/sports/baseball-st-louis-cardinals-san-francisco-giants-seattle-mariners-asdrubal-cabrera-6effd0829fb984c21a6d4373d761d896](https://apnews.com/sports/baseball-st-louis-cardinals-san-francisco-giants-seattle-mariners-asdrubal-cabrera-6effd0829fb984c21a6d4373d761d896)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T14:00:08+00:00
+
+This Date in Baseball, May 12 - 2B Asdrubal Cabrera turned the 14th unassisted triple play in MLB history
+
+## Today in Sports - Serena Williams wins Madrid Open to retain No. 1 ranking and 50th career title
+ - [https://apnews.com/sports/soccer-serena-williams-5e4356b851f1820db345f537c6ace8dc](https://apnews.com/sports/soccer-serena-williams-5e4356b851f1820db345f537c6ace8dc)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T14:00:08+00:00
+
+Today in Sports, May 12 - Serena Williams wins Madrid Open to retain No. 1 ranking and 50th career title
+
+## Man City stays in control of Premier League title race with 4-0 win at Fulham to take 2-point lead
+ - [https://apnews.com/article/fulham-man-city-score-gvardiol-9bd440a917ffeaa594fa2b9129058ab2](https://apnews.com/article/fulham-man-city-score-gvardiol-9bd440a917ffeaa594fa2b9129058ab2)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T13:31:47+00:00
+
+Manchester City has stayed in control of the Premier League title race by beating Fulham 4-0 with Josko Gvardiol scoring a double to add to his unlikely end-of-season haul of goals.
+
+## Bayern depleted by injuries after Real Madrid loss, implications for Germany’s Euro 2024 squad
+ - [https://apnews.com/article/bayern-munich-injuries-gnabry-euro-2024-2851567f5bf0b2fdfa895100d3276950](https://apnews.com/article/bayern-munich-injuries-gnabry-euro-2024-2851567f5bf0b2fdfa895100d3276950)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T13:25:02+00:00
+
+Bayern Munich’s Champions League semifinal loss to Real Madrid has taken a big toll on the fitness of the team with implications for Germany’s European Championship squad.
+
+## Yokohama rallies past Al-Ain for 2-1 win in 1st leg of Asian Champions League final
+ - [https://apnews.com/article/asian-champions-league-yokohama-ain-score-0853a4318593b55d8b3ae676a43506d0](https://apnews.com/article/asian-champions-league-yokohama-ain-score-0853a4318593b55d8b3ae676a43506d0)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T13:19:28+00:00
+
+Yokohama F.Marinos came from behind to take a first-leg lead in the Asian Champions League final, defeating Al-Ain of the United Arab Emirates 2-1.
+
+## Rafael Nadal reconsidering his status for the French Open after a lopsided loss in Rome
+ - [https://apnews.com/article/nadal-italian-open-tennis-30c9348a4a155b4a7df7bdf81d1a5ebd](https://apnews.com/article/nadal-italian-open-tennis-30c9348a4a155b4a7df7bdf81d1a5ebd)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T13:08:59+00:00
+
+Fifteen days before he is scheduled to play in what will likely be his final French Open, Rafael Nadal is so unsatisfied with his level of tennis that he’s still debating whether or not to go to Roland Garros.
+
+## A parliamentary election runoff puts hard-liners firmly in charge of Iran's parliament
+ - [https://apnews.com/article/iran-parliamentary-runoff-election-a2c26bd75a3cc1dae5b9f1a087917bfe](https://apnews.com/article/iran-parliamentary-runoff-election-a2c26bd75a3cc1dae5b9f1a087917bfe)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T13:00:38+00:00
+
+Iran’s hard-liners have won most of the remaining seats in an election run-off to give them full control over the country’s parliament, authorities say.
+
+## Election 2024: Trump directs personal attacks against Robert F. Kennedy Jr.
+ - [https://apnews.com/article/robert-kennedy-jr-trump-independent-third-party-7512ce6c2537453ea400f6dfaae87282](https://apnews.com/article/robert-kennedy-jr-trump-independent-third-party-7512ce6c2537453ea400f6dfaae87282)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T12:41:30+00:00
+
+Donald Trump is known for leveling constant and often personal attacks on top rivals such as Joe Biden.
+
+## US special operations, learning from war in Ukraine, have to do more with less
+ - [https://apnews.com/article/army-special-forces-troops-cuts-ukraine-lessons-ac7c41d5d9f299fadc96f2c2520c2abf](https://apnews.com/article/army-special-forces-troops-cuts-ukraine-lessons-ac7c41d5d9f299fadc96f2c2520c2abf)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T11:59:35+00:00
+
+U.S. special operations commanders are having to do more with less and they're learning from the war in Ukraine, That means juggling how to add more high-tech experts to their teams while still cutting their overall forces by about 5,000 troops over the next five years.
+
+## Anderson might be heading toward end of England cricket career after holding talks with McCullum
+ - [https://apnews.com/article/england-cricket-james-anderson-28f640c844758df9587e25fcb0d3c12f](https://apnews.com/article/england-cricket-james-anderson-28f640c844758df9587e25fcb0d3c12f)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T11:52:50+00:00
+
+James Anderson’s England career might be coming to an end this summer after talks between the world’s most prolific fast bowler in test cricket and coach Brendon McCullum.
+
+## Dutch broadcaster furious, fans bemused after Netherlands' Joost Klein is booted from Eurovision
+ - [https://apnews.com/article/eurovision-song-contest-netherlands-klein-aa205e5af73e5a03526c2c7fa58f864c](https://apnews.com/article/eurovision-song-contest-netherlands-klein-aa205e5af73e5a03526c2c7fa58f864c)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T11:45:37+00:00
+
+A Dutch public broadcaster has reacted angrily after the Netherlands’ contestant in the Eurovision Song Contest was dramatically expelled from the competition hours before Saturday’s final.
+
+## What's the history of 'outside agitators'? Here's what to know about the label and campus protests
+ - [https://apnews.com/article/israel-palestinians-student-protests-outside-agitators-116a4d24f006fe5173f265335f37e1d3](https://apnews.com/article/israel-palestinians-student-protests-outside-agitators-116a4d24f006fe5173f265335f37e1d3)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T11:24:19+00:00
+
+Many college and city leaders have blamed outside organizers for recent protests at universities around the country against U.S. support of Israel’s war in Gaza.
+
+## Poland's prime minister vows to strengthen security at EU border with Belarus
+ - [https://apnews.com/article/poland-tusk-belarus-border-546a4a71b4beaaefd5d5fece30f73666](https://apnews.com/article/poland-tusk-belarus-border-546a4a71b4beaaefd5d5fece30f73666)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T11:08:53+00:00
+
+Polish Prime Minister Donald Tusk has visited the country’s border with Belarus and stressed that Poland will do more to strengthen security along its entire eastern frontier.
+
+## Russian offensive on Kharkiv forces some 1,700 civilians to flee
+ - [https://apnews.com/article/russia-ukraine-war-kharkiv-offensive-26184a3898db0aece9f6e9eb3a700e7a](https://apnews.com/article/russia-ukraine-war-kharkiv-offensive-26184a3898db0aece9f6e9eb3a700e7a)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T10:09:32+00:00
+
+Ukraine says Russian forces have captured five villages as part of a renewed ground assault in the northeastern Kharkiv region.
+
+## Charlie Morton just reached 2,000 innings at age 40. How has he lasted when so many pitchers don't?
+ - [https://apnews.com/article/morton-braves-mets-7c53be2f519c531a0c7bfd9febc864da](https://apnews.com/article/morton-braves-mets-7c53be2f519c531a0c7bfd9febc864da)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T10:00:06+00:00
+
+Charlie Morton just surpassed 2,000 career innings during another win for the Atlanta Braves. Justin Verlander, Max Scherzer and Clayton Kershaw are the only other active pitchers to reach that milestone — all three likely headed to the Hall of Fame.
+
+## Some older Americans splurge to keep homes accessible while others struggle to make safety upgrades
+ - [https://apnews.com/article/aging-retrofit-housing-accessibility-home-depot-lowes-a40df169bc69fe94d163ecc76c0801ad](https://apnews.com/article/aging-retrofit-housing-accessibility-home-depot-lowes-a40df169bc69fe94d163ecc76c0801ad)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T09:00:07+00:00
+
+Living at home as long as possible is preferred by a vast majority of adults over 50. But the real estate market and inflation has made doing so less of a choice.
+
+## Tips to make a house safe and accessible for older adults
+ - [https://apnews.com/article/retrofitting-a-house-aging-accessibility-aarp-0dc4d870366d0aee22d241c4cd31ccb1](https://apnews.com/article/retrofitting-a-house-aging-accessibility-aarp-0dc4d870366d0aee22d241c4cd31ccb1)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T09:00:07+00:00
+
+With a majority of Americans preferring to live in their own homes, experts stress the importance of modifications to keep dwellings safe and accessible.
+
+## Flash floods kill hundreds and injure many others in Afghanistan, Taliban says
+ - [https://apnews.com/article/afghanistan-flash-floods-rains-hundreds-dead-4a7aefabad9d3e38f0c5b5f20c3aa8da](https://apnews.com/article/afghanistan-flash-floods-rains-hundreds-dead-4a7aefabad9d3e38f0c5b5f20c3aa8da)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T08:07:16+00:00
+
+Flash floods from seasonal rains in Afghanistan have killed hundreds of people and injured a “substantial number,” a Taliban official said, without giving exact figures.
+
+## Poor Kenyans feel devastated by floods and brutalized by the government's response
+ - [https://apnews.com/article/kenya-flooding-evictions-demolitions-houses-ea5e0842ac3ec3eaf736cab76b2450b8](https://apnews.com/article/kenya-flooding-evictions-demolitions-houses-ea5e0842ac3ec3eaf736cab76b2450b8)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T07:58:45+00:00
+
+Winnie Makinda says she is facing the worst crisis and lowest moment of her life because of the Kenyan government’s response to floods that devastated her poor community in the capital of Nairobi.
+
+## Eurovision Song Contest reaches its final with tensions around Israel and doubt over Dutch contender
+ - [https://apnews.com/article/eurovision-song-contest-final-israel-protests-09e31963ed7db607ea137c9333eabf87](https://apnews.com/article/eurovision-song-contest-final-israel-protests-09e31963ed7db607ea137c9333eabf87)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T07:38:26+00:00
+
+The grand final of the Eurovision Song Contest is taking place Saturday in the Swedish city of Malmo.
+
+## Blues hold on to beat the Hurricanes 31-27 and take top spot in Super Rugby Pacific
+ - [https://apnews.com/article/super-rugby-pacific-830c50e1df80dd8f5ff7f6580f8c4c79](https://apnews.com/article/super-rugby-pacific-830c50e1df80dd8f5ff7f6580f8c4c79)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T07:10:34+00:00
+
+The Auckland-based Blues held on with their backs to their goal line after the fulltime siren to beat the Wellington-based Hurricanes 31-27 in the match of the season in Super Rugby Pacific.
+
+## Israel orders new evacuations in Rafah
+ - [https://apnews.com/article/israel-hamas-war-news-05-11-2024-7cc8784d8c6eec017ecaef696f492b25](https://apnews.com/article/israel-hamas-war-news-05-11-2024-7cc8784d8c6eec017ecaef696f492b25)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T07:01:58+00:00
+
+Israel ordered new evacuations in Gaza’s southern city of Rafah as it prepared to expand its operation, saying it was also moving into an area in northern Gaza where Hamas has regrouped.
+
+## Panthers beat Bruins 6-2 to take 2-1 series lead
+ - [https://apnews.com/sports/florida-panthers-7edc56118f2b41bba09f81b43d4a23b3](https://apnews.com/sports/florida-panthers-7edc56118f2b41bba09f81b43d4a23b3)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T06:19:05+00:00
+
+BOSTON (AP) — Vladimir Tarasenko and Carter Verhaeghe scored on the same Bruins double-minor, Sergei Bobrovsky stopped 14 shots and the Florida Panthers beat Boston 6-2 on Friday night and take a 2-1 lead in the Eastern Conference semifinal series.
+
+## Portland Timbers host the Seattle Sounders in conference play
+ - [https://apnews.com/seattle-sounders-fc-portland-timbers-mls-soccer-36df35fcfc2d4756b32fc465454944a5](https://apnews.com/seattle-sounders-fc-portland-timbers-mls-soccer-36df35fcfc2d4756b32fc465454944a5)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T06:15:19+00:00
+
+The Portland Timbers and the Seattle Sounders meet in conference action.
+
+## Minnesota takes 2-1 lead into game 4 against Denver
+ - [https://apnews.com/minnesota-timberwolves-denver-nuggets-9a4e12a3b54347f894a5321804a0a324](https://apnews.com/minnesota-timberwolves-denver-nuggets-9a4e12a3b54347f894a5321804a0a324)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T06:02:36+00:00
+
+The Minnesota Timberwolves host the Denver Nuggets in the Western Conference second round with a 2-1 lead in the series. The teams meet for the eighth time this season.
+
+## New York visits Indiana with 2-1 series lead
+ - [https://apnews.com/new-york-knicks-indiana-pacers-3bde72542efc41fda0145933da5cfbda](https://apnews.com/new-york-knicks-indiana-pacers-3bde72542efc41fda0145933da5cfbda)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T06:02:17+00:00
+
+The New York Knicks visit the Indiana Pacers in the Eastern Conference second round with a 2-1 lead in the series. The teams meet for the seventh time this season.
+
+## Bouchard scores in OT to lift Oilers to 4-3 win over Canucks in Game 2 to even playoff series
+ - [https://apnews.com/article/oilers-canucks-score-playoffs-735a2bf1745cb74a8e0eb0d6dbf37171](https://apnews.com/article/oilers-canucks-score-playoffs-735a2bf1745cb74a8e0eb0d6dbf37171)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T05:47:11+00:00
+
+Evan Bouchard scored 5:38 into overtime and the Edmonton Oilers beat the Vancouver Canucks 4-3 to even their second-round playoff series at one game apiece.
+
+## Stuart Fairchild hits inside-the-park homer, Reds beat Giants 4-2 to end 8-game skid
+ - [https://apnews.com/article/insidethepark-homer-reds-giants-score-9a19f40c999f4691d30f542dda1b76b5](https://apnews.com/article/insidethepark-homer-reds-giants-score-9a19f40c999f4691d30f542dda1b76b5)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:52:59+00:00
+
+Pinch-hitter Stuart Fairchild had an inside-the-park homer that provided a key insurance run late to help left-hander Andrew Abbott win for the first time in almost a month, and the Cincinnati Reds snapped an eight-game losing streak by beating the San Francisco Giants 4-2.
+
+## Mike Budenholzer agrees to coach Phoenix Suns, AP source says
+ - [https://apnews.com/article/suns-budenholzer-vogel-f86b769c0b39d2442a7200e01943c8b5](https://apnews.com/article/suns-budenholzer-vogel-f86b769c0b39d2442a7200e01943c8b5)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:36:28+00:00
+
+Mike Budenholzer has agreed to coach the Phoenix Suns, according to a person familiar with the decision, as the franchise turns to the man who beat them in the 2021 NBA Finals.
+
+## They made one-of-a-kind quilts that captured the public's imagination. Then Target came along
+ - [https://apnews.com/article/gees-bend-quilts-black-history-month-target-c6e1d9500ef044e34c2ae329ce0917c7](https://apnews.com/article/gees-bend-quilts-black-history-month-target-c6e1d9500ef044e34c2ae329ce0917c7)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:34:40+00:00
+
+Over the past two decades, Gee’s Bend quilts have captured the public’s imagination with their kaleidoscopic colors and their daring geometric patterns.
+
+## Dylan Moore sets career high with 5 RBIs to help Mariners topple Athletics 8-1
+ - [https://apnews.com/article/athletics-mariners-score-bda1289439441603a4e1851afbe5e670](https://apnews.com/article/athletics-mariners-score-bda1289439441603a4e1851afbe5e670)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:31:30+00:00
+
+Dylan Moore hit a two-run homer and had a career-high five RBIs to help the Seattle Mariners beat the Oakland Athletics 8-1 on Friday night.
+
+## Late 3 gives Pacers 111-106 victory over Knicks
+ - [https://apnews.com/sports/nba-playoffs-new-york-knicks-f9d83e912eb0a3be121f88d81a072d92](https://apnews.com/sports/nba-playoffs-new-york-knicks-f9d83e912eb0a3be121f88d81a072d92)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:29:43+00:00
+
+INDIANAPOLIS (AP) — Andrew Nembhard made a 31-foot, tiebreaking 3-pointer with 16 seconds left, Tyrese Haliburton scored 35 points and the Indiana Pacers rallied in the fourth quarter to beat the banged-up and short-handed New York Knicks 111-106 on Friday night in Game 3 of the Eastern Conference s
+
+## Adam Frazier hits a clutch 2-run homer in the 9th inning of the Royals' 2-1 victory over the Angels
+ - [https://apnews.com/article/angels-royals-score-955c8f1f4843b9a33c3cee359be1dc88](https://apnews.com/article/angels-royals-score-955c8f1f4843b9a33c3cee359be1dc88)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:23:42+00:00
+
+Adam Frazier hit a two-run homer in the ninth inning and the Kansas City Royals rallied for a 2-1 victory over the hapless Los Angeles Angels.
+
+## Nuggets bounce back with 117-90 blowout of Timberwolves behind 24 points from energized Murray
+ - [https://apnews.com/article/nuggets-timberwolves-score-game-3-8958900aed05993238fac4b1891db0b4](https://apnews.com/article/nuggets-timberwolves-score-game-3-8958900aed05993238fac4b1891db0b4)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:21:11+00:00
+
+Jamal Murray rebounded from a rough start to the Western Conference semifinals with 24 points to lead the Denver Nuggets on a 117-90 romp in Game 3 that made the Minnesota Timberwolves the last team in the NBA to lose in this postseason.
+
+## Mother's Day: NYC's Rikers Island jail gets a kid-friendly visitation room
+ - [https://apnews.com/article/mothers-day-rikers-island-5bd478c6a36412f588e6f58ce32f6eb5](https://apnews.com/article/mothers-day-rikers-island-5bd478c6a36412f588e6f58ce32f6eb5)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:20:45+00:00
+
+The women's section of Rikers Island is getting a redesigned and more kid-friendly visitation room ahead of Mother's Day.
+
+## Smarter vehicles could mean big changes for the traffic light
+ - [https://apnews.com/article/smarter-traffic-signals-north-carolina-michigan-757d6151e85565e9656d7b95c6e72490](https://apnews.com/article/smarter-traffic-signals-north-carolina-michigan-757d6151e85565e9656d7b95c6e72490)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:13:16+00:00
+
+Smarter vehicles could mean some of the most dramatic changes for the traditional traffic signal since the yellow light was added more than a century ago.
+
+## Dog Show 101: What's what at the Westminster Kennel Club
+ - [https://apnews.com/article/westminster-kennel-club-dog-show-b5203dec4c9da40f26d6b4fdb09f1616](https://apnews.com/article/westminster-kennel-club-dog-show-b5203dec4c9da40f26d6b4fdb09f1616)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:10:43+00:00
+
+To the casual viewer, competing at the Westminster Kennel Club dog show might look as simple as getting a dog, grooming it and leading it around a ring.
+
+## Newcomer Arraez hits a walk-off single to give the Padres a 2-1 win over the Dodgers
+ - [https://apnews.com/article/dodgers-padres-score-f937124d17ef69f03f5c68713ab53dcc](https://apnews.com/article/dodgers-padres-score-f937124d17ef69f03f5c68713ab53dcc)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:10:01+00:00
+
+Newcomer Luis Arraez singled in Tyler Wade with one out in the ninth inning and the San Diego Padres beat Los Angeles 2-1 to end the Dodgers’ season-high seven-game winning streak.
+
+## Fine dining, at a new high. A Michelin-starred chef will take his cuisine to our upper atmosphere
+ - [https://apnews.com/article/denmark-space-chef-munk-spaceship-neptune-0c56f385dd2420959d82fc6520cb0fce](https://apnews.com/article/denmark-space-chef-munk-spaceship-neptune-0c56f385dd2420959d82fc6520cb0fce)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:08:11+00:00
+
+A Danish Michelin-starred chef has teamed up with the Florida-based startup Space Perspective to take fine-dining to our upper atmosphere in late 2025.
+
+## The United Auto Workers faces a key test in the South with upcoming vote at Alabama Mercedes plant
+ - [https://apnews.com/article/uaw-alabama-mercedes-union-vote-74fab1ec4b1a5d026b3852a009a2ebb6](https://apnews.com/article/uaw-alabama-mercedes-union-vote-74fab1ec4b1a5d026b3852a009a2ebb6)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:07:06+00:00
+
+The United Auto Workers is aiming for a key victory at Mercedes-Benz in Alabama. More than 5,000 workers at the facility in Vance and nearby battery plant will vote next week on whether to join the UAW.
+
+## Panama's next president says he'll try to shut down one of the world's busiest migration routes
+ - [https://apnews.com/article/panama-immigration-mulino-darien-f46becc989e0f2c944922b03e6417a3f](https://apnews.com/article/panama-immigration-mulino-darien-f46becc989e0f2c944922b03e6417a3f)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:06:38+00:00
+
+Panama is on the verge of a dramatic change to its immigration policy that could reverberate from the dense Darien jungle to the U.S. border.
+
+## Trump trial turns to sex, bank accounts and power: Highlights from the third week of testimony
+ - [https://apnews.com/article/trump-trial-hush-money-stormy-daniels-c69d54c51e2fccbbc0b19e2220222b0e](https://apnews.com/article/trump-trial-hush-money-stormy-daniels-c69d54c51e2fccbbc0b19e2220222b0e)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:05:59+00:00
+
+The alleged sexual encounter at the center of Donald Trump’s criminal hush money trial got a graphic airing in court this past week as porn actor Stormy Daniels shared her account before a rapt jury.
+
+## Trump heading to Jersey Shore to rally 'mega crowd' in weekend break from hush money trial
+ - [https://apnews.com/article/trump-new-jersey-president-trial-gag-order-59a8073e5a22f7a1e13f1461e9998419](https://apnews.com/article/trump-new-jersey-president-trial-gag-order-59a8073e5a22f7a1e13f1461e9998419)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:04:59+00:00
+
+Donald Trump is heading to the Jersey Shore after a long week in court. The presumptive Republican presidential nominee expects to draw what his campaign is calling a “mega crowd” to a Saturday evening rally in the southern New Jersey resort town of Wildwood.
+
+## America's debt tops $34 trillion, but a commission to address it appears dead in Congress
+ - [https://apnews.com/article/federal-debt-bipartisan-commission-taxes-spending-cuts-5075a3c7890d2f3b7f21b4eeda9372eb](https://apnews.com/article/federal-debt-bipartisan-commission-taxes-spending-cuts-5075a3c7890d2f3b7f21b4eeda9372eb)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:04:24+00:00
+
+A promising start has given way to challenging political realities for supporters of a bipartisan commission to tackle the federal government’s growing debt challenges.
+
+## Brazil floods: Forecast to worsen in south
+ - [https://apnews.com/article/brazil-floods-climate-change-inequality-8a1d0e3a00bfd9a5b7918e62d6aab02a](https://apnews.com/article/brazil-floods-climate-change-inequality-8a1d0e3a00bfd9a5b7918e62d6aab02a)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T04:02:03+00:00
+
+More heavy rain is forecast for Brazil’s already flooded Rio Grande do Sul state, where many of those remaining are poor people.
+
+## Charlie Blackmon's 2-run double in the 8th inning leads Rockies past Rangers 4-2
+ - [https://apnews.com/article/rangers-rockies-score-blackmon-43aea466f882426ac3cac82add8383f5](https://apnews.com/article/rangers-rockies-score-blackmon-43aea466f882426ac3cac82add8383f5)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T03:31:00+00:00
+
+Charlie Blackmon hit a go-ahead two-run double in the eighth inning to lift the Colorado Rockies to a 4-2 victory against the Texas Rangers.
+
+## Mariners starter Bryan Woo leaves in 5th inning with arm tightness but expected to make next start
+ - [https://apnews.com/article/mariners-woo-d5bc369ee3a9f00b796b1beba5828a64](https://apnews.com/article/mariners-woo-d5bc369ee3a9f00b796b1beba5828a64)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T03:24:41+00:00
+
+Mariners’ starter Bryan Woo left Friday’s game with one out in the fifth inning for precautionary reasons after experiencing tightness in his arm, but is expected to make his next turn in the rotation.
+
+## Barron Trump won't be serving as a Florida delegate to the RNC
+ - [https://apnews.com/article/barron-trump-convention-delegate-president-republican-cccf0026a78e2d4485fbf6b1581bb545](https://apnews.com/article/barron-trump-convention-delegate-president-republican-cccf0026a78e2d4485fbf6b1581bb545)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T03:13:08+00:00
+
+Former President Donald Trump’s youngest son, Barron Trump, won’t be serving as a Florida delegate to the Republican National Convention after all.
+
+## Weekend Time Schedule
+ - [https://apnews.com/sports/golf-houston-b68783064ad8628a5f12687ce32654c3](https://apnews.com/sports/golf-houston-b68783064ad8628a5f12687ce32654c3)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T02:52:14+00:00
+
+Weekend Time Schedule
+
+## Gasser pitches 6 shutout innings in his debut as Brewers roll past slumping Cardinals 11-2
+ - [https://apnews.com/article/cardinals-brewers-score-d386d9844eb63c96a0631bd5ffa10ebe](https://apnews.com/article/cardinals-brewers-score-d386d9844eb63c96a0631bd5ffa10ebe)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T02:51:44+00:00
+
+Robert Gasser allowed just two hits over six shutout innings in his major league debut and the Milwaukee Brewers trounced St.
+
+## Homers by Acuña, Albies and Olson in 3rd lead Morton and Braves to 4-2 win over Mets
+ - [https://apnews.com/article/braves-mets-score-8a563414b6c69d78627d0e19b2463281](https://apnews.com/article/braves-mets-score-8a563414b6c69d78627d0e19b2463281)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T02:44:01+00:00
+
+Ronald Acuña Jr. hit a titanic home run, just before Ozzie Albies and Matt Olson also went deep in the third inning, and the Atlanta Braves beat the New York Mets 4-2.
+
+## Mexico's ruling party presidential candidate slips, says outgoing leader led by 'personal ambition'
+ - [https://apnews.com/article/mexico-elections-sheinbaum-lopez-obrador-e7e0b95c4812f4c4504a5e1803328aad](https://apnews.com/article/mexico-elections-sheinbaum-lopez-obrador-e7e0b95c4812f4c4504a5e1803328aad)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T02:38:41+00:00
+
+Mexico’s ruling party presidential candidate slipped up during a campaign speech Friday and said President Andrés Manuel López Obrador was motivated by “personal ambition,” but later acknowledged the phrase could have been misinterpreted.
+
+## Astros rally past Tigers
+ - [https://apnews.com/sports/baseball-houston-astros-baltimore-orioles-new-york-yankees-detroit-tigers-6da6ad120198b2c6f9786890ec1575e1](https://apnews.com/sports/baseball-houston-astros-baltimore-orioles-new-york-yankees-detroit-tigers-6da6ad120198b2c6f9786890ec1575e1)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T02:35:23+00:00
+
+DETROIT (AP) — Framber Valdez pitched seven strong innings and the Houston Astros used a four-run eighth inning to rally past the Detroit Tigers 5-2 on Friday night.
+
+## Bethune scores early and the Spirit holds on for 2-1 win over Racing Louisville
+ - [https://apnews.com/article/washington-spirit-racing-louisville-score-nwsl-fe12fb1717e08832cb1e4402dc57c958](https://apnews.com/article/washington-spirit-racing-louisville-score-nwsl-fe12fb1717e08832cb1e4402dc57c958)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T02:28:03+00:00
+
+Croix Bethune scored in the fifth minute and the Washington Spirit went on to defeat Racing Louisville 2-1 in the National Women’s Soccer League.
+
+## Jockey Tyler Gaffalione fined for 'touching a rival' near the finish line in 150th Kentucky Derby
+ - [https://apnews.com/article/gaffalione-fined-kentucky-derby-fcf7865105f10ba47568b33717ad4d12](https://apnews.com/article/gaffalione-fined-kentucky-derby-fcf7865105f10ba47568b33717ad4d12)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T02:26:44+00:00
+
+Jockey Tyler Gaffalione has been fined $2,500 for “touching a rival with his left hand” near the finish line of the Kentucky Derby.
+
+## North Korean leader Kim supervises latest test of new multiple rocket launcher
+ - [https://apnews.com/article/north-korea-kim-jong-un-multiple-rocket-launchers-russia-24072528bcc233072c1a56ce7bf370da](https://apnews.com/article/north-korea-kim-jong-un-multiple-rocket-launchers-russia-24072528bcc233072c1a56ce7bf370da)
+ - RSS feed: https://apnews.com/index.rss
+ - date published: 2024-05-11T02:19:50+00:00
+
+North Korean leader Kim Jong Un supervised another test firing of a new multiple rocket launch system the country plans to deploy to its forces starting this year as it bolsters its lineup of weapons targeting South Korean population centers.
+
