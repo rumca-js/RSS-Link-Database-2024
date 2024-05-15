@@ -1,0 +1,100 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Score a brand new iPad Air for $200 off today
+ - [https://www.pcworld.com/article/2332765/amazon-is-selling-a-new-ipad-air-for-200-off.html](https://www.pcworld.com/article/2332765/amazon-is-selling-a-new-ipad-air-for-200-off.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-14T14:15:45+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you want to get a deal on Apple hardware, you&rsquo;re often forced to look for used or refurbished models. But there&rsquo;s one exception: when new stuff comes out. That&rsquo;s the time you can find the older models, brand new, for huge discounts. Take <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/gp/product/B09V3HJBN3/?th=1&amp;xcust=2-1-2332765-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">this fifth-gen iPad Air on Amazon:</a> while it&rsquo;s nearly identical to <a href="https://www.macworld.com/article/670670/which-ipad-best.html">the new 11-inch version</a> aside from the CPU, it&rsquo;s $200 off MSRP. </p>
+
+
+
+<p>While I&rsquo;m a ride-or-die fan of Windows on my PCs and Android on my phones, I have to begrudgingly admit that Apple rules the roost when it comes to tablets. That&rsquo;s why there&
+
+## Avast One review: Well-priced PC security with excellent protection
+ - [https://www.pcworld.com/article/548703/avast-one-review-2.html](https://www.pcworld.com/article/548703/avast-one-review-2.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-14T13:01:27+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Clean, uncluttered interface</li><li>Excellent antivirus protection</li><li>Well-priced for its feature set</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Full scans affect PC performance when using Microsoft Office apps</li><li>No included password manager</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our
+
+## Ransomware isn’t as big a threat as these scams
+ - [https://www.pcworld.com/article/2329968/ransomware-isnt-as-big-a-threat-as-these-scams.html](https://www.pcworld.com/article/2329968/ransomware-isnt-as-big-a-threat-as-these-scams.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-14T12:56:32+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Ransomware has gone corporate. These attacks, which hold files and PCs hostage until there&rsquo;s a payout, may seem savage but behind the scenes, it&rsquo;s civilized. The hackers have days that look a lot like any paper pusher&rsquo;s &mdash; bosses to report to, tickets to track. And accordingly, the major organizations behind this kind of malware have refocused their attention. It&rsquo;s not individuals they&rsquo;re primarily focused on.</p>
+
+
+
+<p>You and I just don&rsquo;t have enough money for them. However, for a multitude of mom-and-pop scammers, we do.</p>
+
+
+
+<p>That point became clear during the 2024 RSA Conference in San Francisco, where members of Microsoft&rsquo;s security teams spoke with the press on cybersecurity topics, including the most current threats to everyday people. While you could still get caught up in a ransomware campaign, the main
+
+## Let this AI tool help you land your dream job for $80
+ - [https://www.pcworld.com/article/2331658/let-this-ai-tool-help-you-land-your-dream-job-for-80.html](https://www.pcworld.com/article/2331658/let-this-ai-tool-help-you-land-your-dream-job-for-80.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-14T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It takes a lot more than a firm handshake to land a new job these days. Big employers use artificial intelligence to weed out applicants long before the interview, but Resso.ai is <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/resso-professional-plan-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=resso-professional-plan-lifetime-subscription&amp;utm_term=scsf-596740&amp;utm_content=a0xRn000001AI37IAG&amp;scsonar=1&amp;xcust=2-1-2331658-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">a job-hunting tool that puts those same AI tools in your hands</a>.</p>
+
+
+
+<p>Using Resso.ai, you can create resumes and cover letters that highlight exactly the skills and qualifications you need for a specific job type. The service can also tweak your LinkedIn profile 
+
+## How to Record Discord Audio [2024 Full Guide]
+ - [https://www.pcworld.com/article/2331123/how-to-record-discord-audio-2024-full-guide.html](https://www.pcworld.com/article/2331123/how-to-record-discord-audio-2024-full-guide.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-05-14T09:38:29+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<h2 class="wp-block-heading" id="key-takeaways">Key Takeaways:</h2>
+
+
+
+<ul>
+<li>To record Discord audio on a PC, you can always try the built-in screen recorder: Xbox Game Bar. However, if you want advanced features like the ability to record multiple sources without a time limit, you can try <a href="https://recorder.easeus.com/" rel="sponsored">EaseUS RecExperts</a>.</li>
+
+
+
+<li>Craig Bot is a good choice when you want to record Discord audio on a phone, whether it&rsquo;s an Android phone or iPhone.</li>
+
+
+
+<li>Recording Discord audio on PS5 can be troublesome, but OBS Studio can help you with this.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading toc" id="how-to-record-discord-audio-on-pc">How to Record Discord Audio on PC</h2>
+
+
+
+<p>If you are using Discord on a computer, say a Windows computer running Windows 10 or later, you can try two recorders to capture the stre
+
