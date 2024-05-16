@@ -1,0 +1,492 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed, language:en-US
+
+## Governor engages with Mauritius HC on bilateral ties
+ - [https://pakobserver.net/governor-engages-with-mauritius-hc-on-bilateral-ties](https://pakobserver.net/governor-engages-with-mauritius-hc-on-bilateral-ties)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T21:44:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/Ambassador-Mauritius-2-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Governor Sindh Kamran Khan Tessori held a meeting with RashidallySoobadar, the High Commissioner of Mauritius, at the Governor House here on Wednesday. The discussions encompassed bilateral trade, cultural relations, and investment prospects, reflecting mutual interest in strengthening ties. Governor Sindh emphasized the growing strength of bilateral relations and assured continued support for Mauritian investors. [&#8230;]
+
+## SHC, lower judiciary announce summer vacation
+ - [https://pakobserver.net/shc-lower-judiciary-announce-summer-vacation](https://pakobserver.net/shc-lower-judiciary-announce-summer-vacation)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T21:44:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/02/shc-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Sindh High Court and the lower judiciary have announced annual summer vacations, according to two separate notifications issued by Sindh High Court Registrar Sahil Muhammad Laghari. According to the notifications, the Sindh High Court in Karachi and all its benches will observe a two-month summer vacation from June 3 to August 3. However, during [&#8230;]
+
+## Over 150 illegal constructions demolished
+ - [https://pakobserver.net/over-150-illegal-constructions-demolished](https://pakobserver.net/over-150-illegal-constructions-demolished)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T21:44:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The crackdown on illegal constructions has intensified, leading to the demolition of over 150 unauthorized structures across various districts of the city. Under the directives of Director General of the Sindh Building Control Authority (SBCA), Abdul RasheedSolangi, the enforcement campaign has been relentless. Additional floors, sections, and other unauthorized constructions, including breaches of land [&#8230;]
+
+## Tax drive nets Rs7.5m in 4 days
+ - [https://pakobserver.net/tax-drive-nets-rs7-5m-in-4-days](https://pakobserver.net/tax-drive-nets-rs7-5m-in-4-days)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T21:44:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In an extensive operation against unregistered and tax-evading vehicles across the province, the Excise Department has collected a staggering Rs 7.532 million in taxes within just four days. A total of 10,000 vehicles were checked throughout the province during the operation. Among these, 359 vehicles were impounded, and documents of 912 vehicles were confiscated. According [&#8230;]
+
+## Govt accelerates Malir Expressway project for public benefit: Ghani
+ - [https://pakobserver.net/govt-accelerates-malir-expressway-project-for-public-benefit-ghani](https://pakobserver.net/govt-accelerates-malir-expressway-project-for-public-benefit-ghani)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T21:44:13+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/Saeed-Ghani-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Sindh Minister for Local Government, Housing, Town Planning, and Public Health Engineering, SaeedGhani, hailed the Malir Expressway project as a significant development for the people. He announced that the expressway would be open to the public from August 14 in Quaidabad, with the entire route operational by June next year. During his visit to [&#8230;]
+
+## Tessori questions swift judiciary decisions
+ - [https://pakobserver.net/tessori-questions-swift-judiciary-decisions](https://pakobserver.net/tessori-questions-swift-judiciary-decisions)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T21:41:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/01/Kamran-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Sindh Governor Mohammad Kamran Khan Tessori expressed deep concerns over the recent flurry of judicial decisions, emphasizing the need for stability in the investment climate amidst the rapidly changing legal landscape. He remarked in a press conference here on Wednesday that while the nation strives to recover from significant sacrifices, the common people yearn to [&#8230;]
+
+## Child Rights Commission team calls on education minister
+ - [https://pakobserver.net/child-rights-commission-team-calls-on-education-minister](https://pakobserver.net/child-rights-commission-team-calls-on-education-minister)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T21:41:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Education Minister, Syed Sardar Ali Shah, held a meeting with a delegation from the National Commission on Child Rights. The three-member delegation, led by Chairperson of the National Commission on Child Rights, Ayesha Raza Farooq, discussed matters related to the protection and rights of children. The National Commission on Child Rights was established in [&#8230;]
+
+## Three arrested for attempted rape
+ - [https://pakobserver.net/three-arrested-for-attempted-rape](https://pakobserver.net/three-arrested-for-attempted-rape)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T21:41:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/02/arrest-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Karachi police arrested three suspects for attempting to rape a schoolgirl and making a video in the Malir Jafar Tayyar area. According to the details, the victim schoolgirl went to her friend’s residence where some boys attempted to rape her and film the incident. The police said that the suspects made a video of the [&#8230;]
+
+## Balochistan youth seek opportunities for cultural expression: Zulfiqar
+ - [https://pakobserver.net/balochistan-youth-seek-opportunities-for-cultural-expression-zulfiqar](https://pakobserver.net/balochistan-youth-seek-opportunities-for-cultural-expression-zulfiqar)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T21:41:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Syed Zulfiqar Ali Shah, the Provincial Minister for Culture, Tourism, Antiquities, and Archives in Sindh, emphasized the rich heritage of Balochistan in science, culture, and literature, underscoring the untapped potential of its youth. Shah articulated these sentiments while addressing the inaugural ceremony of the two-day Pakistan Literature Festival, hosted by the Arts Council of Pakistan [&#8230;]
+
+## Pechuho leads anti-drug efforts meeting
+ - [https://pakobserver.net/pechuho-leads-anti-drug-efforts-meeting](https://pakobserver.net/pechuho-leads-anti-drug-efforts-meeting)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T21:41:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; A crucial meeting was chaired by Sindh&#8217;s Health Minister, Dr. Azra Fazal Pechuho. The meeting, attended by Interior Minister Ziaul Hasan Lanjar, Law Minister Shahid Thaheem, and other provincial ministers, focused on the proliferation and prevention of narcotics in the province. Officials from the Anti-Narcotics Force (ANF), Excise Department, and other relevant agencies also [&#8230;]
+
+## Petrol price in Pakistan reduced by Rs15.39 per litre: Check May 2024 New Rates
+ - [https://pakobserver.net/petrol-price-in-pakistan-reduced-by-rs15-39-per-litre-check-may-2024-new-rates](https://pakobserver.net/petrol-price-in-pakistan-reduced-by-rs15-39-per-litre-check-may-2024-new-rates)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T18:37:40+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/63cf891cb2e2d-1-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The federal government government on Wednesday lowered price of petrol by Rs15.39 for May 2024, and the new rate stands at Rs273.1. The price of petrol, and diesel were lowered on the recommendation of Oil and Gas Regulatory Authority (OGRA). In a notification, the Finance Ministry said price of petrol move down up [&#8230;]
+
+## UPS, Solar Battery Latest Prices in Pakistan 2024
+ - [https://pakobserver.net/ups-solar-battery-latest-prices-in-pakistan-2024](https://pakobserver.net/ups-solar-battery-latest-prices-in-pakistan-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T17:40:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/t4r35-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Battery prices saw changes amid rise in demand as summer reached its peak in Pakistan. People are looking to replace old batteries or buy new ones to power their UPS or Inverter systems. Several cities are also experiencing increased power outages in wake of soaring power consumption. In market, there are different types of batteries [&#8230;]
+
+## Pakistan, China explore CPEC expansion to include more countries
+ - [https://pakobserver.net/pakistan-china-explore-cpec-expansion-to-include-more-countries](https://pakobserver.net/pakistan-china-explore-cpec-expansion-to-include-more-countries)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T17:02:42+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/4f1d-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Deputy Prime Minister Ishaq Dar visited China to finalize the arrangements for other countries to participate in the China-Pakistan Economic Corridor (CPEC). He held a joint press conference with Chinese Foreign Minister Wang Yi in Beijing. This comes as Pakistan aims to attract foreign investment and move into the second phase of CPEC, [&#8230;]
+
+## Babar Azam sets new T20I records
+ - [https://pakobserver.net/babar-azam-sets-new-t20i-records](https://pakobserver.net/babar-azam-sets-new-t20i-records)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T16:01:18+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/briz-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan captain Babar Azam has set several new records in the shortest format during the recently concluded T20I series against Ireland. After losing the first T20I on the penultimate ball of the match, Pakistan won the last two encounters with convincing margins to clinch the series 2-1. In the third T20I, Babar Azam became the [&#8230;]
+
+## UAE introduces 10-Year Blue Residency Visa; Check Eligibility and other details here
+ - [https://pakobserver.net/uae-introduces-10-year-blue-residency-visa-check-eligibility-and-other-details-here](https://pakobserver.net/uae-introduces-10-year-blue-residency-visa-check-eligibility-and-other-details-here)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T15:39:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/1674236384-4787-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />DUBAI – United Arab Emirates is welcoming foreigners with various types of visas, and the Middle Eastern nation has now introduced Blue Residency visa for individuals who have contributed significantly to environmental protection. The new visa program reflects Abu Dhabi’s commitment to sustainability and environmental conservation. The country of 9.4 million tailored 10 year visa [&#8230;]
+
+## 1500 Prize Bond Full Draw List here – 15 May 2024
+ - [https://pakobserver.net/1500-prize-bond-full-draw-list-here-15-may-2024](https://pakobserver.net/1500-prize-bond-full-draw-list-here-15-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T14:42:13+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/hq720-1-4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Rs1500 Prize Bond balloting was held at Karachi office of the National Savings Division on May 15, 2024. Rs1500 draw included first prize of Rs. 3,000,000, three prizes of Rs. 1,000,000 each, and 1696 prizes of Rs. 18,500 each. Pakistan Observer brings full winners list. 1500 Prize Bond Full Winners Draw List &#160; &#160;
+
+## Lahore, Punjab weather update; heatwave persists in central, southern districts
+ - [https://pakobserver.net/lahore-punjab-weather-update-heatwave-persists-in-central-southern-districts](https://pakobserver.net/lahore-punjab-weather-update-heatwave-persists-in-central-southern-districts)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T14:15:41+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/LHR1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Hot and dry weather is predicted in Lahore and most parts of Punjab on Wednesday night, Thursday and Friday. As per the Pakistan Meteorological Department (PMD), continental air prevails over most parts of Pakistan. A shallow westerly wave also prevails over upper and western parts of the country. Under the influence of these [&#8230;]
+
+## Karachi, Sindh weather update; heatwave persists
+ - [https://pakobserver.net/karachi-sindh-weather-update-heatwave-persists](https://pakobserver.net/karachi-sindh-weather-update-heatwave-persists)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T13:55:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/Park-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Hot and dry weather is likely to persist in Karachi, Hyderabad and most parts of Sindh on Wednesday night, Thursday and Friday. As per the Pakistan Meteorological Department (PMD), continental air prevails over most parts of Pakistan. A shallow westerly wave also prevails over upper and western parts of the country. Under these [&#8230;]
+
+## Slovakia’s Prime Minister Robert Fico shot in assassination attempt
+ - [https://pakobserver.net/slovakias-prime-minister-robert-fico-shot-in-assassination-attempt](https://pakobserver.net/slovakias-prime-minister-robert-fico-shot-in-assassination-attempt)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T13:46:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/ef6e-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />BRATISLAVA – Slovak Prime Minister Robert Fico was wounded outside a cultural community center in Handlova, after a government meeting. People heard several shots as Fico came under attack. He was moved to the hospital, and the suspected attacker has been detained by local law enforcers. The reported assassination attempt occurred in Handlova, some 100 [&#8230;]
+
+## 100 Prize Bond Full Draw List 15 May 2024
+ - [https://pakobserver.net/100-prize-bond-full-draw-list-15-may-2024](https://pakobserver.net/100-prize-bond-full-draw-list-15-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T13:21:57+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/ghh4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Lahore Office of National Savings held draw number 46 of Rs100 Prize Bond today on May 15, 2024 Wednesday. The prize bond draw included one prize of Rs700,000, three prizes of Rs. 200,000 each, and 1199 prizes of Rs. 1,000 each. Pakistan Observer brings you full draw list of Rs100 prize bond numbers in the [&#8230;]
+
+## ‘Cars with 850cc engines in Pakistan to become more expensive after upcoming Budget’
+ - [https://pakobserver.net/cars-with-850cc-engines-in-pakistan-to-become-more-expensive-after-upcoming-budget](https://pakobserver.net/cars-with-850cc-engines-in-pakistan-to-become-more-expensive-after-upcoming-budget)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T13:01:38+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/prices-of-small-cars-tractors-and-motorbikes-likely-to-be-decreased-1623399723-5183-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Cars in Pakistan are expected to become more expensive after this year’s budget after proposed hike in withholding tax. The development is worrisome for both buyers and sellers as car sales are already poor in this fiscal year as prices are already in no-man’s land. The country’s apex tax collection authority FBR proposed [&#8230;]
+
+## Punjab launches facilitator registration for ‘Maryam Ki Dastak’
+ - [https://pakobserver.net/punjab-launches-facilitator-registration-for-maryam-ki-dastak](https://pakobserver.net/punjab-launches-facilitator-registration-for-maryam-ki-dastak)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T12:34:47+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/dastak-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Punjab Finance Secretary Mujahid Sherdil has officially launched the registration of ‘facilitators’ for ‘Maryam Ki Dastak’ initiative which aims at providing a range of public services directly at citizens&#8217; doorsteps. Registration of facilitators via a mobile app was launched during the ceremony held at Arfa Software Technology Park (ASTP). Maryam Ki Dastak initiative [&#8230;]
+
+## British American Tobacco opens Global Business Solutions Hub in Lahore
+ - [https://pakobserver.net/british-american-tobacco-opens-global-business-solutions-hub-in-lahore](https://pakobserver.net/british-american-tobacco-opens-global-business-solutions-hub-in-lahore)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T12:26:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/BAT-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – British American Tobacco (BAT), one of the world&#8217;s largest multi-category consumer goods companies, has officially launched its Global Business Solutions (GBS) hub in Lahore. The grand event ‘Digital Destination Pakistan’ included a ribbon-cutting, a tour of the hub, and presentations by senior GBS Pakistan hub leaders, reiterating Pakistan’s potential as a tech hub. [&#8230;]
+
+## LDA demolishes infrastructure of three illegal housing schemes in Lahore
+ - [https://pakobserver.net/lda-demolishes-infrastructure-of-three-illegal-housing-schemes-in-lahore](https://pakobserver.net/lda-demolishes-infrastructure-of-three-illegal-housing-schemes-in-lahore)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T12:00:31+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/LDAoperation-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The Lahore Development Authority (LDA) continued operation against illegal housing schemes/land subdivisions in Lahore. On Wednesday, LDA teams razed infrastructure and partially demolished illegal constructions in Hadaya Housing Scheme on Canal Bank Road. The LDA teams razed sewerage system, roads and other infrastructure of Central Square on Ferozepur Road. The LDA teams also [&#8230;]
+
+## Imran Khan gets bail in 190 Million Al-Qadir Trust Case
+ - [https://pakobserver.net/imran-khan-gets-bail-in-190-million-al-qadir-trust-case](https://pakobserver.net/imran-khan-gets-bail-in-190-million-al-qadir-trust-case)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T11:41:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/2gqs37gg_imran-khan-pakistan-afp-650_625x300_26_May_22-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD –Islamabad High Court on Wednesday granted former Prime Minister Imran Khan bail in a case related to Al Qadir Trust but it was not clear how he could be released while serving sentence for corruption and facing other charges. IHC Chief Justice Aamir Farooq and Justice Tariq Jahangiri announced the reserved judgment. Khan will [&#8230;]
+
+## Chinese Foreign Minister Wang Yi vows support for upgraded CPEC in meeting with Dar
+ - [https://pakobserver.net/chinese-foreign-minister-wang-yi-vows-support-for-upgraded-cpec-in-meeting-with-dar](https://pakobserver.net/chinese-foreign-minister-wang-yi-vows-support-for-upgraded-cpec-in-meeting-with-dar)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T11:34:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/17484598931715571385-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Chinese Foreign Minister Wang Yi vows support for upgraded CPEC in meeting with Dar BEIJING – Chinese Foreign Minister Wang Yi expressed determination to accelerate progress on all projects of China-Pakistan Economic Corridor (CPEC). In a statement, Wang Yi said Beijing is ready to collaborate with Pakistan to enhance the China-Pakistan Economic Corridor (CPEC), during [&#8230;]
+
+## Pakistan conducts successful training launch of Fatah-II Guided Rocket System
+ - [https://pakobserver.net/pakistan-conducts-successful-training-launch-of-fatah-ii-guided-rocket-system](https://pakobserver.net/pakistan-conducts-successful-training-launch-of-fatah-ii-guided-rocket-system)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T10:20:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/honda89-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI – Pakistan Army conducted successful training launch of Fatah-II Guided Rocket System with a range of 400 kilometres, said military’s media wing. The Inter Services Public Relations (ISPR) said the launch was aimed at perfecting the launch drills and procedures. Equipped with state-of-the-art navigation system, unique trajectory and manoeuvrable features, Fatah-II is capable of [&#8230;]
+
+## Gold prices in Pakistan increase – Check latest rates on May 15
+ - [https://pakobserver.net/gold-prices-in-pakistan-increase-check-latest-rates-on-may-15](https://pakobserver.net/gold-prices-in-pakistan-increase-check-latest-rates-on-may-15)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T10:09:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/gold-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Gold prices in Pakistan saw an upward trend on Wednesday in line with rising international prices. According to Sarafa Association, the gold price increase by Rs2,900 to settle at Rs244,000 whereas the price of 10-gram surged by Rs2,489 to reach Rs209,191. The precious commodity registered upward trend in the international market as its [&#8230;]
+
+## Singer Asim Azhar opens up about marriage plan with Merub Ali
+ - [https://pakobserver.net/singer-asim-azhar-opens-up-about-marriage-plan-with-merub-ali](https://pakobserver.net/singer-asim-azhar-opens-up-about-marriage-plan-with-merub-ali)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T09:19:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/Merub-Ali-and-Asim-Azhar-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; Popular Pakistani singer Asim Azhar on Wednesday opened up about his marriage plan with actress Merub Ali. The singer unveiled the marriage plan during a local TV show when a female fan asked him about his marriage with Merub Ali. Responding to the fan&#8217;s question, Asim Azhar said, “ The date of our [&#8230;]
+
+## David Reid appointed as mental coach for Pakistan cricket team
+ - [https://pakobserver.net/david-reid-appointed-as-mental-coach-for-pakistan-cricket-team](https://pakobserver.net/david-reid-appointed-as-mental-coach-for-pakistan-cricket-team)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T08:58:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/David-Reid-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; The Pakistan Cricket Board (PCB) on Wednesday appointed Australia&#8217;s David Reid as the mental performance coach for the national team for the T20 World Cup. The board said that the team management for the T20 World Cup would include a mental performance coach. David Reid, a renowned mental health expert from Australia, had [&#8230;]
+
+## New defamation law needed these days, says Azma Bokhari
+ - [https://pakobserver.net/new-defamation-law-needed-these-days-says-azma-bokhari](https://pakobserver.net/new-defamation-law-needed-these-days-says-azma-bokhari)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T08:52:03+00:00
+
+LAHORE – Punjab Information Minister Azma Bokhari said that there is a great need of a new defamation law these days. Azma Bokhari said the new law is for the province and should protect any chief minister from being maligned by the false news. She criticized attempts to ridicule officials, referencing derogatory labels and efforts [&#8230;]
+
+## Expected petrol price in Pakistan from May 16 as fortnightly review tonight
+ - [https://pakobserver.net/expected-petrol-price-in-pakistan-from-may-16-as-fortnightly-review-tonight](https://pakobserver.net/expected-petrol-price-in-pakistan-from-may-16-as-fortnightly-review-tonight)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T08:42:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/04/petrol-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The federal government is likely to decrease petrol prices in Pakistan from May 16 amid decreasing global oil prices. The petrol prices saw a decrease of $6.32 per barrel to reach $99.93 in international market while the diesel prices also registered downward trend. Reports said the Oil and Gas Regulatory Authority (Ogra) has [&#8230;]
+
+## Honda Pakistan announces major update on car prices in May 2024
+ - [https://pakobserver.net/honda-pakistan-announces-major-update-on-car-prices-in-may-2024](https://pakobserver.net/honda-pakistan-announces-major-update-on-car-prices-in-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T08:25:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/honda89-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Pak Suzuki, Kia, Peugeot have recently cut prices of various cars in Pakistan to cope with the slow sales ahead of the end of the financial year. After these automakers announced decrease in prices of their vehicles, buyers are now expecting the same from other leading firms – Toyota and Honda Pakistan. Earlier [&#8230;]
+
+## Pakistan weather today: Sweltering heat expected in country’s most parts
+ - [https://pakobserver.net/pakistan-weather-today-sweltering-heat-expected-in-countrys-most-parts](https://pakobserver.net/pakistan-weather-today-sweltering-heat-expected-in-countrys-most-parts)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T08:11:05+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/Hot-dry-weather-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Mainly hot and dry weather is expected in most parts of the country, while sweltering heat expected in central and southern parts during the next twelve hours. However, rain and wind with thunderstorm is likely at isolated places in central districts of Balochistan during evening and night. Temperature of major cities recorded this [&#8230;]
+
+## Summer vacations 2024 announced in this Pakistani province; details inside
+ - [https://pakobserver.net/summer-vacations-2024-announced-in-this-pakistani-province-details-inside](https://pakobserver.net/summer-vacations-2024-announced-in-this-pakistani-province-details-inside)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T08:10:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/87-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />QUETTA – Summer vacations 2024 have been announced for schools in Balochistan province of Pakistan amid scorching heat and increasing temperatures. The Education department announced that the summer holidays will commence from May 15 till July 31 in areas facing heatwaves. Educational activities in these areas will be resumed from August 1, 2024. Meanwhile, there [&#8230;]
+
+## PSX hits record high as investor confidence soars
+ - [https://pakobserver.net/psx-hits-record-high-as-investor-confidence-soars](https://pakobserver.net/psx-hits-record-high-as-investor-confidence-soars)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T07:56:13+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/PSX-May-15-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211;  Pakistan Stock Exchange&#8217;s 100 Index crossed the 75,000-point threshold on Wednesday (today). The stock market witnessed an increase of 516 points as 100 Index crossed the 75,047 points on the third day of the business week. The previous day had witnessed a positive trend in the Pakistan Stock Exchange, with the 100 Index [&#8230;]
+
+## Update on IELTS fee in Lahore for May 2024
+ - [https://pakobserver.net/update-on-ielts-fee-in-lahore-for-may-2024](https://pakobserver.net/update-on-ielts-fee-in-lahore-for-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T06:35:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/ie-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />If you are planning to move abroad for work or study, it is mandatory for you to take an IELTS test to demonstrate English language skills. There are different types of IELTS tests conducted by British Council in 17 locations across Pakistan – Islamabad, Abbottabad, Gujrat, Peshawar, Karachi, Hyderabad, Quetta, Lahore, Multan, Bahawalpur, Mirpur, Faisalabad, [&#8230;]
+
+## May 9 cases: Shibli Faraz,  Zartaj Gul among 25 others whose bails confirmed
+ - [https://pakobserver.net/may-9-cases-shibli-faraz-zartaj-gul-among-25-others-whose-bails-confirmed](https://pakobserver.net/may-9-cases-shibli-faraz-zartaj-gul-among-25-others-whose-bails-confirmed)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T06:14:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/FotoJet-2024-05-11T172509.352-635x430-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI &#8211; An Anti-Terrorism Court (ATC) on Wednesday  confirmed the bails of PTI leaders Shibli Faraz, Raja Basharat, Zartaj Gul and Zain Qureshi among others in the cases registered on May 9. ATC Judge Malik Ejaz Asif passed the order while hearing the bail pleas of the PTI leaders in cases related to May 9 [&#8230;]
+
+## New motorcycle, car driving license fee in Lahore, Rawalpindi [May 2024 update]
+ - [https://pakobserver.net/new-motorcycle-car-driving-license-fee-in-lahore-rawalpindi-may-2024-update](https://pakobserver.net/new-motorcycle-car-driving-license-fee-in-lahore-rawalpindi-may-2024-update)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T06:02:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/lic-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The Punjab government recently hiked the fees of for all kinds of driving licenses in all cities of Punjab, including Lahore and Rawalpindi. The fee structure was revised by the administration after a gap of 20 years. It jacked up the fees of learner license, car+motorcycle license and others. Learner License Fee Update [&#8230;]
+
+## Islamabad driving licence fee increased massively; check new fee structure
+ - [https://pakobserver.net/islamabad-driving-licence-fee-increased-massively-check-new-fee-structure](https://pakobserver.net/islamabad-driving-licence-fee-increased-massively-check-new-fee-structure)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T05:48:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/license-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Administration in the federal capital has announced a whooping increase in the fees for learner permit, driving licence of various categories and renewal of licences. The development comes months after the Punjab government revised up the fee structure of driving licence. A notification issued by the office of the chief commissioner said the [&#8230;]
+
+## China reaffirms its full support to Pakistan in all areas of cooperation
+ - [https://pakobserver.net/china-reaffirms-its-full-support-to-pakistan-in-all-areas-of-cooperation](https://pakobserver.net/china-reaffirms-its-full-support-to-pakistan-in-all-areas-of-cooperation)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T05:24:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/12275042951715749855-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />BEIJING  &#8211;  Chinese Vice Premier Ding Xuexiang on Wednesday expressed his country’s full support to Pakistan in all areas of cooperation including economy, trade and investment. He was talking to Deputy Prime Minister and Foreign Minister Ishaq Dar in Beijing today. The Chinese Vice Premier reaffirmed the importance of fast-track implementation of CPEC projects for [&#8230;]
+
+## Gold rates in Saudi Arabia today – 15 May 2024
+ - [https://pakobserver.net/gold-rates-in-saudi-arabia-today-15-may-2024](https://pakobserver.net/gold-rates-in-saudi-arabia-today-15-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T05:22:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/gold6-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The price of per tola price 24-karat gold in Saudi Arabia on Wednesday (May 15) stands unchanged at 3,281 Saudi Riyal (SAR), according to forex.pk. Furthermore, the 10 grams of 24-k gold is being sold for SAR 2,816 in the kingdom while the per ounce gold price stands at SAR 8,759. Note: The [&#8230;]
+
+## UK Pound to PKR rate today – 15 May 2024
+ - [https://pakobserver.net/uk-pound-to-pkr-rate-today-15-may-2024](https://pakobserver.net/uk-pound-to-pkr-rate-today-15-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T05:19:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/pound-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The buying rate of the UK Pound Sterling stands at Rs344.5 in Pakistan while its selling rate stands at Rs348 on Wednesday in the open market of Pakistan. Data available on forex.pk showed that the Pound gained 50 paisas against the Pakistani rupee in the open market. GBP to PKR Rate – 15 [&#8230;]
+
+## Dirham to PKR rate today – 15 May 2024
+ - [https://pakobserver.net/dirham-to-pkr-rate-today-15-may-2024](https://pakobserver.net/dirham-to-pkr-rate-today-15-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T05:16:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/dirham-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The United Arab Emirates (UAE) Dirham buying rate in the open market of Pakistan stands at Rs75.15 on Wednesday while the selling rate is Rs75.9, according to forex.pk. The UAE Dirham gained five paisas against Pakistani rupee as compared to the previous trading day&#8217;s closing of Rs75.1 in the open market of the [&#8230;]
+
+## Army major martyred, 3 terrorists killed during IBO in Balochistan: ISPR
+ - [https://pakobserver.net/army-major-martyred-3-terrorists-killed-during-ibo-in-balochistan-ispr](https://pakobserver.net/army-major-martyred-3-terrorists-killed-during-ibo-in-balochistan-ispr)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T05:16:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/17774520541715741142-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI  &#8211;  Security forces have killed three terrorists in an intelligence-based operation in Sambaza area of Zhob District in Balochistan. According to Inter-Services Public Relations, weapons, ammunition and explosives were recovered from the killed terrorists. However, during intense exchange of fire, Major Babar Khan while fighting gallantly embraced martyrdom. Security forces of Pakistan, in step [&#8230;]
+
+## Saudi Riyal to PKR rate today – 15 May 2024
+ - [https://pakobserver.net/saudi-riyal-to-pkr-rate-today-15-may-2024](https://pakobserver.net/saudi-riyal-to-pkr-rate-today-15-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T05:13:37+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/riyal-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The buying rate for Saudi Arabia Riyal in Pakistan stands at Rs73.5 while the selling rate stands at Rs74.2 on Wednesday in open market, according to forex.pk. Data available on the currency website showed the Saudi Riyal strengthened by 10 paisas against Pakistani rupee in the open market. SAR to PKR Rate – [&#8230;]
+
+## 100 Prize Bond – Check May 2024 Draw List Online
+ - [https://pakobserver.net/100-prize-bond-check-may-2024-draw-list-online](https://pakobserver.net/100-prize-bond-check-may-2024-draw-list-online)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T04:38:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/Untitled-1-158-696x342-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Balloting for Lucky Draw No. 46 of Rs100 prize bond draw will be held on May 15 2024 Wednesday in Lahore. Rs100 Prize Bond List 2024 Prize Lucky Numbers First Prize Winner &#8212; Second Prize Winners &#8212; 100 Prize Bond Winning Amount NO OF PRIZES WINNING AMOUNT  Prize 01 PKR 700,000 First Prize 03 PKR [&#8230;]
+
+## Delay in completion of CPEC Phase II will not be tolerated: PM
+ - [https://pakobserver.net/delay-in-completion-of-cpec-phase-ii-will-not-be-tolerated-pm](https://pakobserver.net/delay-in-completion-of-cpec-phase-ii-will-not-be-tolerated-pm)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T04:31:33+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/22-4-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Prime Minister Shehbaz Sharif has directed all ministries to further strengthen their coordination in order to expedite the China Pakistan Economic Corridor Phase II. Chairing a meeting in Islamabad on Tuesday regarding CPEC Phase II and other projects under Chinese investment in Pakistan, he made it clear that any kind of delay in the completion [&#8230;]
+
+## Currency exchange rates in Pakistan today – May 15, 2024
+ - [https://pakobserver.net/currency-exchange-rates-in-pakistan-today-may-15-2024](https://pakobserver.net/currency-exchange-rates-in-pakistan-today-may-15-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T04:21:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/curreny-rate-today-15-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI—On Wednesday, May 15, 2024, the exchange rate for one US Dollar against Pakistani rupees was recorded at Rs 277.25 in the local and open market, with a selling rate of Rs 279.8. Note: Exchange rates can vary based on the location and the Exchange Company or bank involved in the transaction. Below are the foreign [&#8230;]
+
+## 1500 Prize Bond May 2024 – Check Draw List Online
+ - [https://pakobserver.net/1500-prize-bond-may-2024-check-draw-results-online](https://pakobserver.net/1500-prize-bond-may-2024-check-draw-results-online)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T04:10:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/F3Jv3bQXEAE2q7m-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Karachi office of National Savings Division will conduct the draw No. 98 of 1,500 prize bondtoday May 15, 2024 Wednesday. You could be the lucky winner of the Rs3 million grand prize, as the prize bond draw will be held today. 1500 Prize Bond Winners The top winners will be announced soon after balloting of Rs1500 [&#8230;]
+
+## Gold rate in Pakistan today – 15 May, 2024
+ - [https://pakobserver.net/gold-rate-in-pakistan-today-15-may-2024](https://pakobserver.net/gold-rate-in-pakistan-today-15-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T02:20:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/gold-rate-in-pakistan-today-24-March-2023-1-1024x576-4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI—On Wednesday, May 15, 2024, the 24-karat gold rate was PKR 239,850. Similarly, the bullion market recorded the gold price for 24-karat at Rs 205,640 per 10g. Gold Price in Pakistan’s different cities. City Gold Silver Karachi PKR 239,850 PKR 2,550 Lahore PKR 239,850 PKR 2,550 Islamabad PKR 239,850 PKR 2,550 Peshawar PKR 239,850 PKR [&#8230;]
+
+## Country’s growth hinges on gaining knowledge: Nadim
+ - [https://pakobserver.net/countrys-growth-hinges-on-gaining-knowledge-nadim](https://pakobserver.net/countrys-growth-hinges-on-gaining-knowledge-nadim)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:45:37+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/2-22-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Nida Mohammad Nadim, the Acting Minister of Higher Education, highlighted the critical role of knowledge in national development during a meeting in Nangarhar. He stressed that for a country to progress, significant attention must be given to both religious and contemporary sciences. While addressing students at Nangarhar University, Nadim further conveyed that the leader of [&#8230;]
+
+## Islamic Emirate urges Iran to help curb precious stone smuggling
+ - [https://pakobserver.net/islamic-emirate-urges-iran-to-help-curb-precious-stone-smuggling](https://pakobserver.net/islamic-emirate-urges-iran-to-help-curb-precious-stone-smuggling)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:45:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/1-27-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Qadir Qiafa, deputy head of Iran’s Chamber of Commerce, said that precious and semi-precious stones mined in Afghanistan are smuggled into Iran and sold. He added that Iran is interested in investing in Afghanistan’s mining sector; however, sanctions imposed by the United States have affected Iran’s investments in Afghanistan. The Islamic Emirate has announced efforts [&#8230;]
+
+## Melinda to leave Gates Foundation, receives $12.5b
+ - [https://pakobserver.net/melinda-to-leave-gates-foundation-receives-12-5b](https://pakobserver.net/melinda-to-leave-gates-foundation-receives-12-5b)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:44:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/5-18-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Melinda French Gates on Monday announced she was leaving the mega philanthropy foundation which she established with her ex-husband (the co-founder of Microsoft), Bill Gates. The resignation, which will come into effect on June 7, will leave Bill Gates as the sole chair of one of the world’s most influential and powerful non-governmental organisations. “After [&#8230;]
+
+## Muslim voters’ names deleted from electoral rolls spark concerns across India
+ - [https://pakobserver.net/muslim-voters-names-deleted-from-electoral-rolls-spark-concerns-across-india](https://pakobserver.net/muslim-voters-names-deleted-from-electoral-rolls-spark-concerns-across-india)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:44:46+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/3-23-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Activists and citizens are expressing alarm as reports emerge of Muslim voters’ names being systematically deleted from electoral rolls in several states across India. The revelation comes amidst the fourth phase of polling was held the other day. In Telangana, social activist Syed QudubuddinMasood lodged a formal complaint after discovering that his and ten family [&#8230;]
+
+## NC leadership flays  BJP’s communal policies
+ - [https://pakobserver.net/nc-leadership-flays-bjps-communal-policies](https://pakobserver.net/nc-leadership-flays-bjps-communal-policies)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:43:38+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/farooq-abdullah-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />National Conference leadership has expressed strong criticism of the Bharatiya Janata Party’s (BJP) policies in Indian illegally occupied Jammu and Kashmir. According to Kashmir Media Service, Farooq Abdullah, who heads National Conference, delivered a powerful address at a rally in Karnah. He condemned the BJP’s divisive policies and said the ruling party is spreading communal [&#8230;]
+
+## APHC raises alarm over house raids in IIOJK
+ - [https://pakobserver.net/aphc-raises-alarm-over-house-raids-in-iiojk](https://pakobserver.net/aphc-raises-alarm-over-house-raids-in-iiojk)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:43:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/07/indian-troops-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The All Parties Hurriyat Conference has voiced deep concern over the unsettling atmosphere created by nightly raids conducted by Indian forces on the residences of peace-loving leaders and activists in Indian illegally occupied Jammu and Kashmir. According to Kashmir Media Service, in a statement issued in Srinagar, APHC spokesman Advocate Abdul Rashid Minhas condemned [&#8230;]
+
+## Damning report ‘Dark Days, Deadly Nights’ sheds  light on harrowing atrocities in IIOJK
+ - [https://pakobserver.net/damning-report-dark-days-deadly-nights-sheds-light-on-harrowing-atrocities-in-iiojk](https://pakobserver.net/damning-report-dark-days-deadly-nights-sheds-light-on-harrowing-atrocities-in-iiojk)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:43:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/kas-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A damning report titled “Dark Days, Deadly Nights” sheds light on the harrowing testimonies of Kashmiri civilians who fell victim to brutal atrocities committed by the Indian occupational forces, further highlighting the ongoing human rights violations in Indian Illegally Occupied Jammu and Kashmir (IIOJK). This comprehensive collection of accounts, compiled by the Institute of Kashmir [&#8230;]
+
+## No child to be more than 30 minutes away from quality emergency: Maryam
+ - [https://pakobserver.net/no-child-to-be-more-than-30-minutes-away-from-quality-emergency-maryam](https://pakobserver.net/no-child-to-be-more-than-30-minutes-away-from-quality-emergency-maryam)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:38:10+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/CM-EX-PM-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />“Better treatment is the right of every poor man,” said Punjab Chief Minister Maryam Nawaz Sharif while visiting Mayo Hospital Children’s Emergency Block along with Quaid Muhammad Nawaz Sharif. She added,”Monitoring is needed in hospitals, especially in emergencies.” Both Chief Minister Maryam Nawaz and Nawaz Sharif inspected different sections of the Emergency, including step down [&#8230;]
+
+## Fazl announces movement against polls rigging, public march on June 1
+ - [https://pakobserver.net/fazl-announces-movement-against-polls-rigging-public-march-on-june-1](https://pakobserver.net/fazl-announces-movement-against-polls-rigging-public-march-on-june-1)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:38:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/Maulana-Fazl-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Jamiat Ulema-e-Islam chief Maulana Fazlur Rahman on Tuesday announced that his party had launched a movement against what he referred to as electoral malpractices. Addressing reporters here, Fazl declared that the JUI-F would hold a public million march on June 1. Fazl stated that the country’s system was in turmoil, and urged all politicians to [&#8230;]
+
+## IIUI Spring Gala: Female students of over 30 countries participate in event
+ - [https://pakobserver.net/iiui-spring-gala-female-students-of-over-30-countries-participate-in-event](https://pakobserver.net/iiui-spring-gala-female-students-of-over-30-countries-participate-in-event)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:16:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/13-8-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Rector International Islamic University Islamabad (IIUI), Prof. Dr. Samina Malik on Tuesday inaugurated the annual Spring Gala and cultural exhibition at the female campus of university. Female students hailing from more than 30 countries joined the inaugural ceremony of the gala. The gala includes dozens of competitions between 9 faculties and around 50 departments. These [&#8230;]
+
+## Pakistan, Japan discuss parliamentary cooperation
+ - [https://pakobserver.net/pakistan-japan-discuss-parliamentary-cooperation](https://pakobserver.net/pakistan-japan-discuss-parliamentary-cooperation)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:15:58+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/12-10-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Speaker National Assembly Sardar Ayaz Sadiq Tuesday said that Pakistan and Japan enjoyed genial relations validated by trade and cooperation between the two nations. “Pakistan values high its relations with Japan and wants to further strengthen them” he said while talking to Mitsuhiro WADA, Japanese Ambassador.
+
+## Islamabad to get Old Age Home, Vocational Centre: Randhawa
+ - [https://pakobserver.net/islamabad-to-get-old-age-home-vocational-centre-randhawa](https://pakobserver.net/islamabad-to-get-old-age-home-vocational-centre-randhawa)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:15:57+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/cda-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Chairman Capital Development Authority (CDA) and Chief Commissioner Islamabad Muhammad Ali Randhawa Tuesday said that an Old Age Home and Vocational Center in the federal capital will be established soon. Chairing a performance review meeting to assess the functioning of the Chief Commissioner’s Office and its subordinate departments, he said that a mobile app and [&#8230;]
+
+## PHA to sell 15 shops through open auction
+ - [https://pakobserver.net/pha-to-sell-15-shops-through-open-auction](https://pakobserver.net/pha-to-sell-15-shops-through-open-auction)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:15:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/ibd-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Pakistan Housing Authority (PHA) Foundation will sell 15 shops through a public auction located at its Residencia project I-16/3 on May 22. According to sources in the PHA, the auction would commence at the Islamabad Hotel Melody while interested parties can obtain broachers at the cost of Rs 3,000 non-refundable. Similarly, the bidders will [&#8230;]
+
+## Two rapists of minor girls held
+ - [https://pakobserver.net/two-rapists-of-minor-girls-held](https://pakobserver.net/two-rapists-of-minor-girls-held)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:15:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/02/arrest-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The police on Tuesday arrested two accused allegedly involved in rape of two minor girls in separate incidents. According to details, accused Arif was arrested by Nasirabad Police for raping a 13-year-old girl. Another accused YousafAyub was arrested by SaddarWah Police for raping a 10-year-old girl. Medical of the rape victim girls was conducted at [&#8230;]
+
+## Meeting discusses health related matters
+ - [https://pakobserver.net/meeting-discusses-health-related-matters](https://pakobserver.net/meeting-discusses-health-related-matters)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:15:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/8-12-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Former Provincial Minister of Health and Population Welfare Dr. Jamal Nasir and former Federal Health Minister Dr. Nadeem Jan met Founder of “Sarwar Foundation”, former Governor of Punjab Chaudhry Mohammad Sarwar to discuss Health problems for common man in Pakistan and issues of mutual interest also. In the meeting, concern was expressed over reports of [&#8230;]
+
+## Islamabad court adjourns hearing of Iddat Nikah case till tomorrow
+ - [https://pakobserver.net/islamabad-court-adjourns-hearing-of-iddat-nikah-case-till-tomorrow](https://pakobserver.net/islamabad-court-adjourns-hearing-of-iddat-nikah-case-till-tomorrow)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:15:48+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/court-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Islamabad District and Sessions Court Judge Shahrukh Arjumand adjourned the hearing of the high-profile Iddat Nikah case involving the founder of Pakistan Tehreek-e-Insaf (PTI) and Bushra Bibi. Rizwan Abbasi representing the petitioner Khawar Manika could not complete his arguments during today’s proceedings. Rizwan Abbasi highlighted previous complaint filed by Muhammad Hanif regarding the Nikah during [&#8230;]
+
+## IActive Fitness, Shifa Students Society hosts workshop
+ - [https://pakobserver.net/iactive-fitness-shifa-students-society-hosts-workshop](https://pakobserver.net/iactive-fitness-shifa-students-society-hosts-workshop)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:15:47+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/9-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />IActive Fitness, a leading fitness organization in Islamabad, recently hosted a successful educational workshop on fitness in collaboration with Shifa Student Society. The workshop took place at the I-8 Markaz fitness facility in Islamabad and brought together doctors, students and fitness enthusiasts to discuss the importance of fitness in promoting overall well-being. Certified trainers and [&#8230;]
+
+## Cell phones a severe threat to children’s eyesight: Tayyab
+ - [https://pakobserver.net/cell-phones-a-severe-threat-to-childrens-eyesight-tayyab](https://pakobserver.net/cell-phones-a-severe-threat-to-childrens-eyesight-tayyab)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:15:44+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/ibd-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The leading ophthalmologist at Al-Shifa Trust, Prof. Dr. Tayyab Afghani, said on Tuesday that smartphones have developed into a significant risk for youngsters. Mobile phones keep children connected at all times and serve many positive purposes, but overuse has become common, leading to serious eye complications, he said. Talking to media men, Dr. Tayyab Afghani [&#8230;]
+
+## Adiala Jail: Joint mock exercise held to handle emergency
+ - [https://pakobserver.net/adiala-jail-joint-mock-exercise-held-to-handle-emergency](https://pakobserver.net/adiala-jail-joint-mock-exercise-held-to-handle-emergency)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-15T01:14:13+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/ibd-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Police, Elite Force, Rescue 1122 and Bomb Disposal Squad conducted a joint mock exercise to deal with any emergency situation in Adiala jail on Tuesday. The mock exercise was conducted to deal with any emergency situation in the prison. During the exercise, the response of the security agencies was timely and exemplary. Such exercises will [&#8230;]
+

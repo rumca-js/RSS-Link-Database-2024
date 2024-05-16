@@ -1,0 +1,254 @@
+# Source:pcgamer, URL:https://www.pcgamer.com/rss, language:en-US
+
+## A medievalist's take on Manor Lords: 'It represents medieval peasants and their lives more fully than most games'
+ - [https://www.pcgamer.com/games/city-builder/a-medievalists-take-on-manor-lords-it-represents-medieval-peasants-and-their-lives-more-fully-than-most-games](https://www.pcgamer.com/games/city-builder/a-medievalists-take-on-manor-lords-it-represents-medieval-peasants-and-their-lives-more-fully-than-most-games)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T23:25:43+00:00
+
+Manor Lords made me a king but gave my peasants the crown.
+
+## AI is listening: Omnipresent robo-moderators are the latest online anti-toxicity strategy
+ - [https://www.pcgamer.com/ai-moderators-gaming-gdc-interviews](https://www.pcgamer.com/ai-moderators-gaming-gdc-interviews)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T22:21:12+00:00
+
+Do the mods dream of electric sheep?
+
+## UK government responds to Stop Killing Games petition, and it's not good: 'There is no requirement in UK law' that forces companies to support old software
+ - [https://www.pcgamer.com/gaming-industry/uk-government-responds-to-stop-killing-games-petition-and-its-not-good-there-is-no-requirement-in-uk-law-that-forces-companies-to-support-old-software](https://www.pcgamer.com/gaming-industry/uk-government-responds-to-stop-killing-games-petition-and-its-not-good-there-is-no-requirement-in-uk-law-that-forces-companies-to-support-old-software)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T22:03:11+00:00
+
+It's not the end of the line, but it has to be discouraging.
+
+## The Assassin's Creed Shadows reveal is saying all the right things to excite classic Assassin's Creed fans
+ - [https://www.pcgamer.com/games/assassins-creed/the-assassins-creed-shadows-reveal-is-saying-all-the-right-things-to-excite-classic-assassins-creed-fans](https://www.pcgamer.com/games/assassins-creed/the-assassins-creed-shadows-reveal-is-saying-all-the-right-things-to-excite-classic-assassins-creed-fans)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T20:48:09+00:00
+
+But I've been hurt before.
+
+## Ubisoft cancels The Division: Heartland so it can focus on 'bigger opportunities' like XDefiant
+ - [https://www.pcgamer.com/games/third-person-shooter/ubisoft-cancels-the-division-heartland-so-it-can-focus-on-bigger-opportunities-like-xdefiant](https://www.pcgamer.com/games/third-person-shooter/ubisoft-cancels-the-division-heartland-so-it-can-focus-on-bigger-opportunities-like-xdefiant)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T19:36:11+00:00
+
+The cancellation was quietly delivered in today's year-end financial report.
+
+## Hi-Fi Rush gets a bittersweet final patch as Tango Gameworks takes its final bow: 'Thank you again… You're all rockstars!'
+ - [https://www.pcgamer.com/games/action/hi-fi-rush-gets-a-bittersweet-final-patch-as-tango-gameworks-takes-its-final-bow-thank-you-again-youre-all-rockstars](https://www.pcgamer.com/games/action/hi-fi-rush-gets-a-bittersweet-final-patch-as-tango-gameworks-takes-its-final-bow-thank-you-again-youre-all-rockstars)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T17:48:39+00:00
+
+One last update before Tango Gameworks goes away forever.
+
+## Magical girl farm sim Fields of Mistria is bringing '90s anime sparkle to early access in August
+ - [https://www.pcgamer.com/games/life-sim/magical-girl-farm-sim-fields-of-mistria-is-bringing-90s-anime-sparkle-to-early-access-in-august](https://www.pcgamer.com/games/life-sim/magical-girl-farm-sim-fields-of-mistria-is-bringing-90s-anime-sparkle-to-early-access-in-august)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T17:36:12+00:00
+
+Early access will have plenty of farming to do, you just can't get married yet.
+
+## This 'souls-like platonic dating simulator' is (not so) secretly an Undertale-adjacent RPG with zero restraint, and I need a lie down after trying it
+ - [https://www.pcgamer.com/games/rpg/this-souls-like-platonic-dating-simulator-is-not-so-secretly-an-undertale-adjacent-rpg-with-zero-restraint-and-i-need-a-lie-down-after-trying-it](https://www.pcgamer.com/games/rpg/this-souls-like-platonic-dating-simulator-is-not-so-secretly-an-undertale-adjacent-rpg-with-zero-restraint-and-i-need-a-lie-down-after-trying-it)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T16:56:20+00:00
+
+I want to get off Thunder Goober's wild ride.
+
+## Which horse should you choose in Ghost of Tsushima?
+ - [https://www.pcgamer.com/games/action/ghost-of-tsushima-horse-choice](https://www.pcgamer.com/games/action/ghost-of-tsushima-horse-choice)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T16:56:20+00:00
+
+You'll face the Ghost of Tsushima horse choice early on.
+
+## Assassin's Creed Shadows is coming November 15 with two playable characters, a shinobi and a real-life samurai
+ - [https://www.pcgamer.com/games/action/assassins-creed-shadows-is-coming-november-15-with-two-playable-characters-a-shinobi-and-a-real-life-samurai](https://www.pcgamer.com/games/action/assassins-creed-shadows-is-coming-november-15-with-two-playable-characters-a-shinobi-and-a-real-life-samurai)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T16:46:31+00:00
+
+Meet Naoe and Yasuke.
+
+## Minecraft is celebrating its 15th birthday with '15 days of exclusive items and daily specials'
+ - [https://www.pcgamer.com/games/survival-crafting/minecraft-is-celebrating-its-15th-birthday-with-15-days-of-exclusive-items-and-daily-specials](https://www.pcgamer.com/games/survival-crafting/minecraft-is-celebrating-its-15th-birthday-with-15-days-of-exclusive-items-and-daily-specials)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T16:42:25+00:00
+
+It's time to party.
+
+## Nvidia could be teaming up with MediaTek to create a Steam Deck-busting handheld gaming chip
+ - [https://www.pcgamer.com/hardware/handheld-gaming-pcs/nvidia-could-be-teaming-up-with-mediatek-to-create-a-steam-deck-busting-handheld-gaming-chip](https://www.pcgamer.com/hardware/handheld-gaming-pcs/nvidia-could-be-teaming-up-with-mediatek-to-create-a-steam-deck-busting-handheld-gaming-chip)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T16:39:08+00:00
+
+A gaming handheld with double the battery life would be a fine thing indeed.
+
+## Square Enix president bemoans weak Final Fantasy sales and says his restructure is existential: 'Our winning formula is no longer effective'
+ - [https://www.pcgamer.com/games/rpg/square-enix-president-bemoans-weak-final-fantasy-sales-and-says-his-restructure-is-existential-our-winning-formula-is-no-longer-effective](https://www.pcgamer.com/games/rpg/square-enix-president-bemoans-weak-final-fantasy-sales-and-says-his-restructure-is-existential-our-winning-formula-is-no-longer-effective)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T16:28:19+00:00
+
+Cloudy outlook.
+
+## Overwatch 2's mid-season patch has made Sigma's ultimate even more terrifying than before
+ - [https://www.pcgamer.com/games/fps/overwatch-2s-mid-season-patch-has-made-sigmas-ultimate-even-more-terrifying-than-before](https://www.pcgamer.com/games/fps/overwatch-2s-mid-season-patch-has-made-sigmas-ultimate-even-more-terrifying-than-before)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T16:25:27+00:00
+
+This isn't singing to me.
+
+## 63% of surveyed Americans want government legislation to prevent super intelligent AI from ever being achieved
+ - [https://www.pcgamer.com/software/ai/63-of-surveyed-americans-want-government-legislation-to-prevent-super-intelligent-ai-from-ever-being-achieved](https://www.pcgamer.com/software/ai/63-of-surveyed-americans-want-government-legislation-to-prevent-super-intelligent-ai-from-ever-being-achieved)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T15:28:51+00:00
+
+OpenAI and Google might love artificial general intelligence, but the average voter probably just thinks Skynet.
+
+## One of Star Wars' most baffling post-Lucas edits is becoming an ability card in an official TCG
+ - [https://www.pcgamer.com/games/card-games/one-of-star-wars-most-baffling-post-lucas-edits-is-becoming-an-ability-card-in-an-official-tcg](https://www.pcgamer.com/games/card-games/one-of-star-wars-most-baffling-post-lucas-edits-is-becoming-an-ability-card-in-an-official-tcg)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T15:11:04+00:00
+
+A clunky edit, you might say.
+
+## Assassin's Creed Shadows is leaking like a freshly-stabbed Samurai, as main character art sneaks online ahead of imminent reveal
+ - [https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-is-leaking-like-a-freshly-stabbed-samurai-as-main-character-art-sneaks-online-ahead-of-imminent-reveal](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-is-leaking-like-a-freshly-stabbed-samurai-as-main-character-art-sneaks-online-ahead-of-imminent-reveal)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T14:44:54+00:00
+
+Shuriken look if you want.
+
+## D&D reveals the cover art of its revised 2024 Player Handbook—a sweet reminder that not all dragons are trying to eat your face, plus some deep-cut callbacks
+ - [https://www.pcgamer.com/games/board-games/dandd-reveals-the-cover-art-of-its-revised-2024-player-handbooka-sweet-reminder-that-not-all-dragons-are-trying-to-eat-your-face-plus-some-deep-cut-callbacks](https://www.pcgamer.com/games/board-games/dandd-reveals-the-cover-art-of-its-revised-2024-player-handbooka-sweet-reminder-that-not-all-dragons-are-trying-to-eat-your-face-plus-some-deep-cut-callbacks)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T14:12:57+00:00
+
+Glimmering gold.
+
+## The devs of the underplayed Marvel's Midnight Suns once more blame the game's commercial woes on the cards (I really don't think it was the cards)
+ - [https://www.pcgamer.com/games/strategy/the-devs-of-the-underplayed-marvels-midnight-suns-once-more-blame-the-games-commercial-woes-on-the-cards-i-really-dont-think-it-was-the-cards](https://www.pcgamer.com/games/strategy/the-devs-of-the-underplayed-marvels-midnight-suns-once-more-blame-the-games-commercial-woes-on-the-cards-i-really-dont-think-it-was-the-cards)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T13:48:02+00:00
+
+Cardly the problem, here.
+
+## Ghost of Tsushima's crossplay function will launch with a 'beta' tag attached, prompting speculation that Sony is hoping to avoid another PSN-related fiasco
+ - [https://www.pcgamer.com/games/action/ghost-of-tsushimas-crossplay-function-will-launch-with-a-beta-tag-attached-prompting-speculation-that-sony-is-hoping-to-avoid-another-psn-related-fiasco](https://www.pcgamer.com/games/action/ghost-of-tsushimas-crossplay-function-will-launch-with-a-beta-tag-attached-prompting-speculation-that-sony-is-hoping-to-avoid-another-psn-related-fiasco)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T13:26:07+00:00
+
+Ghost in the machine.
+
+## NieR series producer says he's doing something with the key creatives, adds with a chuckle: 'It might be NieR, it might not be NieR'
+ - [https://www.pcgamer.com/games/rpg/nier-series-director-says-hes-doing-something-with-the-key-creatives-it-might-be-nier-it-might-not-be-nier](https://www.pcgamer.com/games/rpg/nier-series-director-says-hes-doing-something-with-the-key-creatives-it-might-be-nier-it-might-not-be-nier)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T13:13:22+00:00
+
+"I'll have something a bit more comprehensive to say in the not-too-distant future."
+
+## Men of War 2 review
+ - [https://www.pcgamer.com/games/rts/men-of-war-2-review](https://www.pcgamer.com/games/rts/men-of-war-2-review)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T13:05:17+00:00
+
+Mechanically dense and brutally unforgiving.
+
+## LG wants to roast your retinas with its new 10,000-nit OLED panels for VR headsets
+ - [https://www.pcgamer.com/hardware/gaming-monitors/lg-wants-to-roast-your-retinas-with-its-new-10000-nit-oled-panels-for-vr-headsets](https://www.pcgamer.com/hardware/gaming-monitors/lg-wants-to-roast-your-retinas-with-its-new-10000-nit-oled-panels-for-vr-headsets)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T13:02:00+00:00
+
+Now we're cooking with OLEDoS...
+
+## Leaked Dell docs suggest Qualcomm's new laptop chips could deliver nearly twice the battery life of the latest Intel CPUs
+ - [https://www.pcgamer.com/hardware/gaming-laptops/leaked-dell-docs-suggest-qualcomms-new-laptop-chips-could-deliver-nearly-twice-the-battery-life-of-the-latest-intel-cpus](https://www.pcgamer.com/hardware/gaming-laptops/leaked-dell-docs-suggest-qualcomms-new-laptop-chips-could-deliver-nearly-twice-the-battery-life-of-the-latest-intel-cpus)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T12:25:21+00:00
+
+Less is more, as the saying goes, and it's especially true when it comes to power consumption.
+
+## How to get to the Ashlands in Valheim without your boat catching fire
+ - [https://www.pcgamer.com/games/survival-crafting/valheim-drakkar-boat](https://www.pcgamer.com/games/survival-crafting/valheim-drakkar-boat)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T12:19:38+00:00
+
+Build the Drakkar to make it to the new biome in one piece.
+
+## GameSir Nova Lite controller review
+ - [https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-controller-review](https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-controller-review)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T12:11:35+00:00
+
+Somehow the Gamesir Nova Lite manages to punch well above its very light weight.
+
+## GameSir Nova Lite review
+ - [https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-review](https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-review)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T12:06:07+00:00
+
+Somehow the Gamesir Nova Lite manages to punch well above its very light weight.
+
+## Destiny 2 Outbreak Refined 1: Where to find the Zero Hour switches
+ - [https://www.pcgamer.com/games/fps/destiny-2-outbreak-refined-switches](https://www.pcgamer.com/games/fps/destiny-2-outbreak-refined-switches)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T12:01:22+00:00
+
+Complete this weapon quest to upgrade Outbreak Perfected.
+
+## Former Bungie composer on madcap Congressional run says he's part Reagan, part McCartney, and Tolkien about tearing it all down: 'The Ring of Power needs to be thrown into Mount Doom'
+ - [https://www.pcgamer.com/gaming-industry/former-bungie-composer-on-madcap-congressional-run-says-hes-part-reagan-part-mccartney-and-tolkien-about-tearing-it-all-down-the-ring-of-power-needs-to-be-thrown-into-mount-doom](https://www.pcgamer.com/gaming-industry/former-bungie-composer-on-madcap-congressional-run-says-hes-part-reagan-part-mccartney-and-tolkien-about-tearing-it-all-down-the-ring-of-power-needs-to-be-thrown-into-mount-doom)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T11:58:40+00:00
+
+Marty O'Donnell says what's happening in Congress is "like a walk in the park compared to making Halo 2."
+
+## XDefiant is doing away with Skill-Based Matchmaking: 'We believe that no SBMM is paramount to a fun and varied game'
+ - [https://www.pcgamer.com/games/fps/xdefiant-is-doing-away-with-skilled-based-matchmaking-we-believe-that-no-sbmm-is-paramount-to-a-fun-and-varied-game](https://www.pcgamer.com/games/fps/xdefiant-is-doing-away-with-skilled-based-matchmaking-we-believe-that-no-sbmm-is-paramount-to-a-fun-and-varied-game)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T11:56:40+00:00
+
+Taking the skill out of matchmaking.
+
+## Helldivers 2 dev says patrol spawn rates are busted and that Arrowhead's walking its changes back, but 'we want to give it proper testing' to 'see that it works this time'
+ - [https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-says-patrol-spawn-rates-are-busted-and-that-arrowheads-walking-its-changes-back-but-we-want-to-give-it-proper-testing-to-see-that-it-works-this-time](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-says-patrol-spawn-rates-are-busted-and-that-arrowheads-walking-its-changes-back-but-we-want-to-give-it-proper-testing-to-see-that-it-works-this-time)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T11:00:58+00:00
+
+Slow and steady wins the war.
+
+## If you're playing Diablo 4 on an Nvidia RTX 40-series GPU switching off frame gen will stop those annoying crashes
+ - [https://www.pcgamer.com/hardware/graphics-cards/if-youre-playing-diablo-4-on-an-nvidia-rtx-40-series-gpu-switching-off-frame-gen-will-stop-those-annoying-crashes](https://www.pcgamer.com/hardware/graphics-cards/if-youre-playing-diablo-4-on-an-nvidia-rtx-40-series-gpu-switching-off-frame-gen-will-stop-those-annoying-crashes)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T11:00:12+00:00
+
+Blizzard and Nvidia working on a fix.
+
+## AMD's launched a pair of new budget chips in its 8000-series, lopping the GPUs of its APUs
+ - [https://www.pcgamer.com/hardware/processors/amds-launched-a-pair-of-new-budget-chips-in-its-8000-series-lopping-the-gpus-of-its-apus](https://www.pcgamer.com/hardware/processors/amds-launched-a-pair-of-new-budget-chips-in-its-8000-series-lopping-the-gpus-of-its-apus)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T10:28:31+00:00
+
+One looks like it could be the bargain CPU of 2024. The other...err...sadly not.
+
+## Nexon says sweaty FPS the Finals surpassed expectations at launch but has tailed-off badly, pledges to 'understand and address the key issues'
+ - [https://www.pcgamer.com/games/fps/nexon-says-sweaty-fps-the-finals-surpassed-expectations-at-launch-but-has-tailed-off-badly-pledges-to-understand-and-address-the-key-issues](https://www.pcgamer.com/games/fps/nexon-says-sweaty-fps-the-finals-surpassed-expectations-at-launch-but-has-tailed-off-badly-pledges-to-understand-and-address-the-key-issues)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T10:28:07+00:00
+
+Final Countdown?
+
+## ASRock Z790I Lightning WiFi review
+ - [https://www.pcgamer.com/hardware/motherboards/asrock-z790i-lightning-wifi-motherboard-review](https://www.pcgamer.com/hardware/motherboards/asrock-z790i-lightning-wifi-motherboard-review)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T09:43:12+00:00
+
+A Mini-ITX board built for the tough demands of 13th and 14th Gen i9 processors.
+
+## Today's Wordle answer for Wednesday, May 15
+ - [https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-15-2024](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-15-2024)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-05-15T03:00:59+00:00
+
+Today's Wordle: Help with the daily puzzle.
+

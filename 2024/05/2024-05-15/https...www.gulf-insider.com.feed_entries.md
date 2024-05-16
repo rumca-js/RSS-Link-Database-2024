@@ -1,0 +1,281 @@
+# Source:Gulf Insider, URL:https://www.gulf-insider.com/feed, language:en-US
+
+## Sheikh Hamdan Announces New Dubai Quality of Life Strategy
+ - [https://www.gulf-insider.com/sheikh-hamdan-announces-new-dubai-quality-of-life-strategy](https://www.gulf-insider.com/sheikh-hamdan-announces-new-dubai-quality-of-life-strategy)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T12:48:42+00:00
+
+<p>Sheikh Hamdan bin Mohammed, Crown Prince of Dubai, has approved the Dubai Quality of Life Strategy 2033. To be carried out in three phases from 2024 to 2033, the strategy aims to increase the length of beach cycling tracks by 300 per cent, extend the length of night swimming beaches by 60 per cent, and designate &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/sheikh-hamdan-announces-new-dubai-quality-of-life-strategy/">Sheikh Hamdan Announces New Dubai Quality of Life Strategy</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## UAE: Bon Tum Mayonnaise Not Present in Country’s Markets, Ministry Confirms
+ - [https://www.gulf-insider.com/uae-bon-tum-mayonnaise-not-present-in-countrys-markets-ministry-confirms](https://www.gulf-insider.com/uae-bon-tum-mayonnaise-not-present-in-countrys-markets-ministry-confirms)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T12:43:40+00:00
+
+<p>The Ministry of Climate Change and Environment on Wednesday confirmed that the country’s markets are free of mayonnaise product by Bon Tum, indicating that the product has not been exported to the country. On Sunday, May 12, Saudi authorities halted the distribution and recalled the contaminated product after a food poisoning incident linked to Hamburgini restaurant in &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/uae-bon-tum-mayonnaise-not-present-in-countrys-markets-ministry-confirms/">UAE: Bon Tum Mayonnaise Not Present in Country’s Markets, Ministry Confirms</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Louvre Abu Dhabi Announces Free Entry for UAE Residents on May 18
+ - [https://www.gulf-insider.com/louvre-abu-dhabi-announces-free-entry-for-uae-residents-on-may-18](https://www.gulf-insider.com/louvre-abu-dhabi-announces-free-entry-for-uae-residents-on-may-18)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T12:39:31+00:00
+
+<p>Louvre Abu Dhabi will allow free access for UAE residents to mark International Museum Day. The art museum located on Saadiyat Island will stay open later for visitors this coming May 18. UAE residents will be able to enter free of charge by presenting a photo ID at the ticket desk. Galleries and current exhibitions will remain &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/louvre-abu-dhabi-announces-free-entry-for-uae-residents-on-may-18/">Louvre Abu Dhabi Announces Free Entry for UAE Residents on May 18</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Emirates Begins London Flight Operations With Sustainable Aviation Fuel
+ - [https://www.gulf-insider.com/emirates-begins-london-flight-operations-with-sustainable-aviation-fuel](https://www.gulf-insider.com/emirates-begins-london-flight-operations-with-sustainable-aviation-fuel)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T12:36:19+00:00
+
+<p>Dubai’s Emirates has taken delivery of over 3,000 metric tonnes of sustainable aviation fuel (SAF) from Shell Aviation at London Heathrow Airport. The SAF will be blended with conventional jet fuel and supplied to the airport’s fuelling infrastructure network until the end of summer 2024. This is the first time Emirates will use SAF on flights operating &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/emirates-begins-london-flight-operations-with-sustainable-aviation-fuel/">Emirates Begins London Flight Operations With Sustainable Aviation Fuel</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Expo City Dubai Announces Free Entry to Grand Opening of Expo 2020 Dubai Museum
+ - [https://www.gulf-insider.com/expo-city-dubai-announces-free-entry-to-grand-opening-of-expo-2020-dubai-museum](https://www.gulf-insider.com/expo-city-dubai-announces-free-entry-to-grand-opening-of-expo-2020-dubai-museum)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T12:32:16+00:00
+
+<p>The Expo 2020 Dubai Museum will officially open to the public on Saturday, May 18. Marking International Museum Day, visitors will be able to enjoy complimentary entry to the new museum as well as the three Stories of Nations exhibitions during May 18 and 19. A 50 percent discount will also be offered on other attractions &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/expo-city-dubai-announces-free-entry-to-grand-opening-of-expo-2020-dubai-museum/">Expo City Dubai Announces Free Entry to Grand Opening of Expo 2020 Dubai Museum</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## 1 In 8 US Adults Have Tried GLP-1 Obesity Medications, Poll Finds
+ - [https://www.gulf-insider.com/1-in-8-us-adults-have-tried-glp-1-obesity-medications-poll-finds](https://www.gulf-insider.com/1-in-8-us-adults-have-tried-glp-1-obesity-medications-poll-finds)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T12:03:00+00:00
+
+<p>One in eight American adults have used popular weight loss and diabetes drugs known as GLP-1 agonists, according to the latest KFF Health Tracking Poll. The survey, which involved nearly 1,500 adult participants and was carried out in late April, found that two-thirds of those currently using the drugs are doing so to manage diabetes or &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/1-in-8-us-adults-have-tried-glp-1-obesity-medications-poll-finds/">1 In 8 US Adults Have Tried GLP-1 Obesity Medications, Poll Finds</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## US Billionaire Ken Griffin Tells Qatar Audience: American Campus Chaos Is “Anarchy”
+ - [https://www.gulf-insider.com/us-billionaire-ken-griffin-tells-qatar-audience-american-campus-chaos-is-anarchy](https://www.gulf-insider.com/us-billionaire-ken-griffin-tells-qatar-audience-american-campus-chaos-is-anarchy)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T11:58:58+00:00
+
+<p>On day one of the 2024 Qatar Economic Forum in Doha, Citadel&#8217;s Ken Griffin covered a wide range of hot-button issues. He criticized the Biden administration&#8217;s latest wave of Chinese tariffs, the ongoing campus crisis terrorizing American colleges and universities, global geopolitical tensions, and former President Trump&#8217;s potential comeback. Griffin started the conversation by discussing &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/us-billionaire-ken-griffin-tells-qatar-audience-american-campus-chaos-is-anarchy/">US Billionaire Ken Griffin Tells Qatar Audience: American Campus Chaos Is &#8220;Anarchy&#8221;</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## “The Russians Just Walked In”: Ukraine Border Defense Funds Diverted To Fake Companies In Massive “Betrayal”
+ - [https://www.gulf-insider.com/the-russians-just-walked-in-ukraine-border-defense-funds-diverted-to-fake-companies-in-massive-betrayal](https://www.gulf-insider.com/the-russians-just-walked-in-ukraine-border-defense-funds-diverted-to-fake-companies-in-massive-betrayal)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T11:58:06+00:00
+
+<p>Head of the Mezha Anti-Corruption Center, Martyna Bohuslavets, has written a report in Pravda asking &#8220;Where are the fortifications?&#8221; She reports that millions of dollars that were intended for the construction of fortifications in Ukraine were instead &#8220;transferred to Kharkiv OVA to front companies of avatars.&#8221; Bohuslavets said the Ukrainian Kharkiv Regional Military Administration (Kharkiv &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/the-russians-just-walked-in-ukraine-border-defense-funds-diverted-to-fake-companies-in-massive-betrayal/">&#8220;The Russians Just Walked In&#8221;: Ukraine Border Defense Funds Diverted To Fake Companies In Massive &#8220;Betrayal&#8221;</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## ‘Flower Moon’ In UAE: Residents In For A Magnificent Celestial ‘Bloom’ On May 22
+ - [https://www.gulf-insider.com/flower-moon-in-uae-residents-in-for-a-magnificent-celestial-bloom-on-may-22](https://www.gulf-insider.com/flower-moon-in-uae-residents-in-for-a-magnificent-celestial-bloom-on-may-22)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T11:57:08+00:00
+
+<p>For those who enjoy stargazing, it may be worthwhile to keep an eye out for May&#8217;s full moon, dubbed as the Flower Moon, that will grace the UAE’s night sky on May 22. This phenomenon is called the &#8216;Flower Moon&#8217; because it typically coincides with the blooming of flowers in many parts of the world. &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/flower-moon-in-uae-residents-in-for-a-magnificent-celestial-bloom-on-may-22/">&#8216;Flower Moon&#8217; In UAE: Residents In For A Magnificent Celestial &#8216;Bloom&#8217; On May 22</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## UAE Weather: Relief From Soaring Temperatures As NCM Forecasts Rain In Days Ahead
+ - [https://www.gulf-insider.com/uae-weather-relief-from-soaring-temperatures-as-ncm-forecasts-rain-in-days-ahead](https://www.gulf-insider.com/uae-weather-relief-from-soaring-temperatures-as-ncm-forecasts-rain-in-days-ahead)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T11:56:44+00:00
+
+<p>The temperatures across the UAE have crossed into 40 degrees C territory but some relief might be on the way. The National Centre of Metereology (NCM) has forecast light rain across parts of the country. In its weekly forecast, the NCM said the country will see some convective cloud activity followed by light rain showers &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/uae-weather-relief-from-soaring-temperatures-as-ncm-forecasts-rain-in-days-ahead/">UAE Weather: Relief From Soaring Temperatures As NCM Forecasts Rain In Days Ahead</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## UAE Releases New AI Model Falcon 2 To Compete With Meta, OpenaI
+ - [https://www.gulf-insider.com/uae-releases-new-ai-model-falcon-2-to-compete-with-meta-openai](https://www.gulf-insider.com/uae-releases-new-ai-model-falcon-2-to-compete-with-meta-openai)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T11:56:29+00:00
+
+<p>Abu Dhabi’s Technology Innovation Institute (TII), a government research institute released a new open source GenAI model, which could rival the ones from big technology companies. The TII said it was releasing the Falcon 2 series: Falcon 2 11B, a text-based model, and Falcon 2 11B VLM, a vision-to-language model that can generate a text &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/uae-releases-new-ai-model-falcon-2-to-compete-with-meta-openai/">UAE Releases New AI Model Falcon 2 To Compete With Meta, OpenaI</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Dubai’s Dnata CEO: Airport Check-in Queues Could Be ‘Eliminated’ With New Technology
+ - [https://www.gulf-insider.com/dubais-dnata-ceo-airport-check-in-queues-could-be-eliminated-with-new-technology](https://www.gulf-insider.com/dubais-dnata-ceo-airport-check-in-queues-could-be-eliminated-with-new-technology)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T11:56:04+00:00
+
+<p>Dubai National Air Travel Agency, or dnata, is considering to automate the passenger experience at airports operated by the agency across the world, dnata CEO Steve Allen told Arabian Business in an exclusive interview. “On the passenger side, we will be looking for more automation of the passenger experience – we are looking at introducing &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/dubais-dnata-ceo-airport-check-in-queues-could-be-eliminated-with-new-technology/">Dubai’s Dnata CEO: Airport Check-in Queues Could Be ‘Eliminated’ With New Technology</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Dubai Tops As World’s No.1 Wedding Destination
+ - [https://www.gulf-insider.com/dubai-tops-as-worlds-no-1-wedding-destination](https://www.gulf-insider.com/dubai-tops-as-worlds-no-1-wedding-destination)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T11:55:27+00:00
+
+<p>Dubai has emerged at the top as the wedding destination of choice globally, this was attributed to world-class infrastructure, award-winning cuisine and service. In addition, the city has positioned itself as the hub where bespoke wedding requests are available, ceremonies incorporate the latest trends and new technologies and the influence of social media prevail. The &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/dubai-tops-as-worlds-no-1-wedding-destination/">Dubai Tops As World’s No.1 Wedding Destination</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Over Half Of Illegal Aliens In US Are Unemployed: Report
+ - [https://www.gulf-insider.com/over-half-of-illegal-aliens-in-us-are-unemployed-report](https://www.gulf-insider.com/over-half-of-illegal-aliens-in-us-are-unemployed-report)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T11:54:51+00:00
+
+<p>A new report reveals that over half of the population of illegal aliens that have come into the United States under Joe Biden’s watch are unemployed, thus creating an even greater strain on the country. As reported by Breitbart, the report from the Center for Immigration Studies (CIS) released on Monday revealed that only 46% &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/over-half-of-illegal-aliens-in-us-are-unemployed-report/">Over Half Of Illegal Aliens In US Are Unemployed: Report</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## The Tide Turns: Research On COVID Vaccine Harms, Once A Taboo Subject, Now Appearing In Some Medical Journals
+ - [https://www.gulf-insider.com/the-tide-turns-research-on-covid-vaccine-harms-once-a-taboo-subject-now-appearing-in-some-medical-journals](https://www.gulf-insider.com/the-tide-turns-research-on-covid-vaccine-harms-once-a-taboo-subject-now-appearing-in-some-medical-journals)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T11:54:00+00:00
+
+<p>It has been four years and six months since the world first encountered SARS-CoV-2. Despite the claims by famous scientists like Fauci and Andersen, and despite the countless efforts by top virologists and public health professionals, evidence that the virus originated naturally has not been found. More and more people now believe that the virus was &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/the-tide-turns-research-on-covid-vaccine-harms-once-a-taboo-subject-now-appearing-in-some-medical-journals/">The Tide Turns: Research On COVID Vaccine Harms, Once A Taboo Subject, Now Appearing In Some Medical Journals</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Welcome to the United Kingdom — Please Hand Over Your Crypto
+ - [https://www.gulf-insider.com/welcome-to-the-united-kingdom-please-hand-over-your-crypto](https://www.gulf-insider.com/welcome-to-the-united-kingdom-please-hand-over-your-crypto)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T10:04:48+00:00
+
+<p>An April change to United Kingdom law will allow authorities to treat crypto like other assets by seizing it without accusing suspects of wrongdoing.  Most of us view it as tyrannical or indefensible when a government seizes someone’s assets without arresting them or even charging them with a crime. But thanks to a law that &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/welcome-to-the-united-kingdom-please-hand-over-your-crypto/">Welcome to the United Kingdom — Please Hand Over Your Crypto</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Destination Dubai: As the U.S. Was Rebuilding Afghanistan, Contractors Snapped up Properties in the UAE
+ - [https://www.gulf-insider.com/destination-dubai-as-the-u-s-was-rebuilding-afghanistan-contractors-snapped-up-properties-in-the-uae](https://www.gulf-insider.com/destination-dubai-as-the-u-s-was-rebuilding-afghanistan-contractors-snapped-up-properties-in-the-uae)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T09:59:12+00:00
+
+<p>The former speaker of Afghanistan’s parliament and his son, who were sanctioned late last year for allegedly misappropriating U.S. government aid, own luxury real estate in Dubai worth millions of dollars, property records reveal.The former speaker of Afghanistan’s parliament and his son, who were sanctioned late last year for allegedly misappropriating U.S. government aid, own &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/destination-dubai-as-the-u-s-was-rebuilding-afghanistan-contractors-snapped-up-properties-in-the-uae/">Destination Dubai: As the U.S. Was Rebuilding Afghanistan, Contractors Snapped up Properties in the UAE</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## The Chief Officer of Neom Bluntly Says That Media Reports of the Line Project Scaling Back Are False
+ - [https://www.gulf-insider.com/the-chief-officer-of-neom-bluntly-says-that-media-reports-of-the-line-project-scaling-back-are-false](https://www.gulf-insider.com/the-chief-officer-of-neom-bluntly-says-that-media-reports-of-the-line-project-scaling-back-are-false)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T09:52:09+00:00
+
+<p>A top Neom City official has released a video showcasing the progress of the magnum opus, The Line. Chief Operating Officer Giles Pendleton regularly shares updates on the megaproject in a series titled ‘Neom is real.’ Part 14 of the series addressed media speculation that was rife on news of Neom scaling back on The Line. “Despite the incorrect &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/the-chief-officer-of-neom-bluntly-says-that-media-reports-of-the-line-project-scaling-back-are-false/">The Chief Officer of Neom Bluntly Says That Media Reports of the Line Project Scaling Back Are False</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## 7 In 10 Europeans Say Governments Allowing Too Much Immigration
+ - [https://www.gulf-insider.com/7-in-10-europeans-say-governments-allowing-too-much-immigration](https://www.gulf-insider.com/7-in-10-europeans-say-governments-allowing-too-much-immigration)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T09:41:48+00:00
+
+<p>A survey encompassing all 27 countries in the European Union has found that most citizens believe their countries are taking in too many foreign migrants. The poll conducted by BVA Xsight for ARTE Europe Weekly, a project led by the French-German TV channel ARTE GEIE, has found that seventy one percent say there is too much unchecked &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/7-in-10-europeans-say-governments-allowing-too-much-immigration/">7 In 10 Europeans Say Governments Allowing Too Much Immigration</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Where Wealth Is Concentrated In Africa
+ - [https://www.gulf-insider.com/where-wealth-is-concentrated-in-africa](https://www.gulf-insider.com/where-wealth-is-concentrated-in-africa)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T09:36:56+00:00
+
+<p>56 percent of Africa’s millionaires and over 90 percent of its billionaires lived in just five countries in 2023 &#8211; South Africa, Egypt, Nigeria, Kenya, and Morocco, according to The Africa Wealth Report 2024 published by Henley &#38; Partners and New World Wealth. There were 135,200 people who owned wealth of 1 million U.S. dollars or more living &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/where-wealth-is-concentrated-in-africa/">Where Wealth Is Concentrated In Africa</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Rail Union Warns German Train System Turning into “Battleground” Due to Violence and Intimidation by Male Asylum Seekers
+ - [https://www.gulf-insider.com/rail-union-warns-german-train-system-turning-into-battleground-due-to-violence-and-intimidation-by-male-asylum-seekers](https://www.gulf-insider.com/rail-union-warns-german-train-system-turning-into-battleground-due-to-violence-and-intimidation-by-male-asylum-seekers)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T09:26:43+00:00
+
+<p>The head of a German rail union warns that the country’s train system is turning into a “battleground” thanks to a wave of violence and intimidation being unleashed by male asylum seekers against female staff. In an interview with Focus Online, Steffi Recknagel, the head of the Railway and Transport Union (EVG) in Thuringia, says that &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/rail-union-warns-german-train-system-turning-into-battleground-due-to-violence-and-intimidation-by-male-asylum-seekers/">Rail Union Warns German Train System Turning into “Battleground” Due to Violence and Intimidation by Male Asylum Seekers</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Airport Show 2024: Dubai Aviation Thriving With $35bn Al Maktoum International Airport And Record $4.7bn Emirates Profit
+ - [https://www.gulf-insider.com/airport-show-2024-dubai-aviation-thriving-with-35bn-al-maktoum-international-airport-and-record-4-7bn-emirates-profit](https://www.gulf-insider.com/airport-show-2024-dubai-aviation-thriving-with-35bn-al-maktoum-international-airport-and-record-4-7bn-emirates-profit)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T08:13:51+00:00
+
+<p>Dubai aviation sector is flying high as it starts work on a $35bn airport upgrade, Emirates reports record profits and industry experts gather for annual event. Sheikh Ahmed bin Saeed Al Maktoum, President of the Dubai Civil Aviation Authority, Chairman of Dubai Airports, and Chairman and Chief Executive of Emirates Airline and Group, inaugurated the &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/airport-show-2024-dubai-aviation-thriving-with-35bn-al-maktoum-international-airport-and-record-4-7bn-emirates-profit/">Airport Show 2024: Dubai Aviation Thriving With $35bn Al Maktoum International Airport And Record $4.7bn Emirates Profit</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## May 2024
+ - [https://www.gulf-insider.com/may-2024](https://www.gulf-insider.com/may-2024)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T07:45:41+00:00
+
+<p>The post <a href="https://www.gulf-insider.com/may-2024/">May 2024</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi Unemployment Rate Drops To 8.6% As More Women Join Workforce
+ - [https://www.gulf-insider.com/saudi-unemployment-rate-drops-to-8-6-as-more-women-join-workforce](https://www.gulf-insider.com/saudi-unemployment-rate-drops-to-8-6-as-more-women-join-workforce)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:33:52+00:00
+
+<p>Saudi Arabia’s unemployment rate has fallen to 8.6 per cent as more women join the workforce in the Kingdom. The Ministry of Human Resources and Social Development (MHRSD) has unveiled a series of impressive achievements in the pursuit of a more efficient and effective labour market. These achievements align with the Kingdom’s Vision 2030 and show that priority &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-unemployment-rate-drops-to-8-6-as-more-women-join-workforce/">Saudi Unemployment Rate Drops To 8.6% As More Women Join Workforce</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi Arabia Reports 23% Increase In Nurses To Over 235,000
+ - [https://www.gulf-insider.com/saudi-arabia-reports-23-increase-in-nurses-to-over-235000](https://www.gulf-insider.com/saudi-arabia-reports-23-increase-in-nurses-to-over-235000)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:32:38+00:00
+
+<p>Saudi Arabia now has more than 235,000 nurses, according to official figures. The Ministry of Health has announced an increase in registered nurses working in the Kingdom’s healthcare sector, celebrating this growth on International Nurses Day. According to a ministry report, the number of nurses in 2023 had grown by over 23 per cent since &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-arabia-reports-23-increase-in-nurses-to-over-235000/">Saudi Arabia Reports 23% Increase In Nurses To Over 235,000</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## UAE Witnesses Surge In Nursing Course Enrolments Post-pandemic
+ - [https://www.gulf-insider.com/uae-witnesses-surge-in-nursing-course-enrolments-post-pandemic](https://www.gulf-insider.com/uae-witnesses-surge-in-nursing-course-enrolments-post-pandemic)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:30:45+00:00
+
+<p>There has been a notable rise in student enrolments in nursing courses in the UAE after the pandemic. This is also spurred by extensive awareness campaigns, the country’s push for medical tourism, golden visas for nurses, world-class training and an attractive pay package along with additional benefits. Mohamad Fakih, Chief Nursing Officer, Fakeeh University Hospital &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/uae-witnesses-surge-in-nursing-course-enrolments-post-pandemic/">UAE Witnesses Surge In Nursing Course Enrolments Post-pandemic</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi Citizen Arrested For Defrauding Jewelry Worth SR500,000
+ - [https://www.gulf-insider.com/saudi-citizen-arrested-for-defrauding-jewelry-worth-sr500000](https://www.gulf-insider.com/saudi-citizen-arrested-for-defrauding-jewelry-worth-sr500000)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:26:10+00:00
+
+<p>A Saudi citizen, accused of defrauding jewelry worth SR500,000 from jewelry stores, has been arrested and referred to the competent court. The Public Prosecution revealed that it has pleaded the court to award him penalties prescribed in the law for financial fraud and breach of trust. The Financial Fraud wing at the Public Prosecution said &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-citizen-arrested-for-defrauding-jewelry-worth-sr500000/">Saudi Citizen Arrested For Defrauding Jewelry Worth SR500,000</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## HR Ministry To Start Implementing Wage Protection Service For House Workers From July 1
+ - [https://www.gulf-insider.com/hr-ministry-to-start-implementing-wage-protection-service-for-house-workers-from-july-1](https://www.gulf-insider.com/hr-ministry-to-start-implementing-wage-protection-service-for-house-workers-from-july-1)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:24:35+00:00
+
+<p>The Ministry of Human Resources and Social Development (MHRSD) has announced on Monday its decision to implement Wage Protection Service related to salaries of domestic workers through the Musaned platform. In the first phase, the Wage Protection Service will be implemented for domestic workers, who arrive under new contracts, effective from July 1, 2024. As &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/hr-ministry-to-start-implementing-wage-protection-service-for-house-workers-from-july-1/">HR Ministry To Start Implementing Wage Protection Service For House Workers From July 1</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi HR Ministry To Start Implementing Wage Protection Service For House Workers From July 1
+ - [https://www.gulf-insider.com/saudi-hr-ministry-to-start-implementing-wage-protection-service-for-house-workers-from-july-1](https://www.gulf-insider.com/saudi-hr-ministry-to-start-implementing-wage-protection-service-for-house-workers-from-july-1)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:24:35+00:00
+
+<p>The Ministry of Human Resources and Social Development (MHRSD) has announced on Monday its decision to implement Wage Protection Service related to salaries of domestic workers through the Musaned platform. In the first phase, the Wage Protection Service will be implemented for domestic workers, who arrive under new contracts, effective from July 1, 2024. As &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-hr-ministry-to-start-implementing-wage-protection-service-for-house-workers-from-july-1/">Saudi HR Ministry To Start Implementing Wage Protection Service For House Workers From July 1</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Saudi: ZATCA Sets SR3000 Maximum Duty-free Purchase Limit For Incoming Passenger
+ - [https://www.gulf-insider.com/saudi-zatca-sets-sr3000-maximum-duty-free-purchase-limit-for-incoming-passenger](https://www.gulf-insider.com/saudi-zatca-sets-sr3000-maximum-duty-free-purchase-limit-for-incoming-passenger)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:19:56+00:00
+
+<p>The Saudi Zakat, Tax and Customs Authority (ZATCA) has approved the requirements for exemption from customs duties and taxes for duty-free markets in the arrival lounges at all land, sea, and air customs points in the Kingdom. These requirements set the maximum purchase limit and quantities allowed for passengers arriving in the Kingdom. The ZATCA &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/saudi-zatca-sets-sr3000-maximum-duty-free-purchase-limit-for-incoming-passenger/">Saudi: ZATCA Sets SR3000 Maximum Duty-free Purchase Limit For Incoming Passenger</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## ZATCA Sets SR3000 Maximum Duty-free Purchase Limit For Incoming Passenger
+ - [https://www.gulf-insider.com/zatca-sets-sr3000-maximum-duty-free-purchase-limit-for-incoming-passenger](https://www.gulf-insider.com/zatca-sets-sr3000-maximum-duty-free-purchase-limit-for-incoming-passenger)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:19:56+00:00
+
+<p>The Saudi Zakat, Tax and Customs Authority (ZATCA) has approved the requirements for exemption from customs duties and taxes for duty-free markets in the arrival lounges at all land, sea, and air customs points in the Kingdom. These requirements set the maximum purchase limit and quantities allowed for passengers arriving in the Kingdom. The ZATCA &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/zatca-sets-sr3000-maximum-duty-free-purchase-limit-for-incoming-passenger/">ZATCA Sets SR3000 Maximum Duty-free Purchase Limit For Incoming Passenger</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Bahrain Sizzles: Sixth Hottest April Since 1902
+ - [https://www.gulf-insider.com/bahrain-sizzles-sixth-hottest-april-since-1902](https://www.gulf-insider.com/bahrain-sizzles-sixth-hottest-april-since-1902)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:17:39+00:00
+
+<p>Bahrain experienced a significantly hotter and rainier April than usual, according to a report from the Ministry of Transportation and Communications’ Meteorology Department. The report states that the average monthly temperature reached 27.1°C, which is 1.1°C higher than the usual April average. This is the sixth highest average temperature for April since 1902, with the &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/bahrain-sizzles-sixth-hottest-april-since-1902/">Bahrain Sizzles: Sixth Hottest April Since 1902</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Bahrain: Instagram Blackmail Scheme Busted, Asian Man Lured Kids, Young Women By Posing As Woman
+ - [https://www.gulf-insider.com/bahrain-instagram-blackmail-scheme-busted-asian-man-lured-kids-young-women-by-posing-as-woman](https://www.gulf-insider.com/bahrain-instagram-blackmail-scheme-busted-asian-man-lured-kids-young-women-by-posing-as-woman)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:14:10+00:00
+
+<p>The Child Protection Unit in the Cybercrime Department of the General Directorate for Combating Corruption, Economic and Electronic Security has successfully apprehended an Asian man for impersonating women on Instagram. The suspect’s motive was to lure children and young women into sending him personal photos and videos, which he then used to blackmail them, the &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/bahrain-instagram-blackmail-scheme-busted-asian-man-lured-kids-young-women-by-posing-as-woman/">Bahrain: Instagram Blackmail Scheme Busted, Asian Man Lured Kids, Young Women By Posing As Woman</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## Instagram Blackmail Scheme Busted, Asian Man Lured Kids, Young Women By Posing As Woman
+ - [https://www.gulf-insider.com/instagram-blackmail-scheme-busted-asian-man-lured-kids-young-women-by-posing-as-woman](https://www.gulf-insider.com/instagram-blackmail-scheme-busted-asian-man-lured-kids-young-women-by-posing-as-woman)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:14:10+00:00
+
+<p>The Child Protection Unit in the Cybercrime Department of the General Directorate for Combating Corruption, Economic and Electronic Security has successfully apprehended an Asian man for impersonating women on Instagram. The suspect’s motive was to lure children and young women into sending him personal photos and videos, which he then used to blackmail them, the &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/instagram-blackmail-scheme-busted-asian-man-lured-kids-young-women-by-posing-as-woman/">Instagram Blackmail Scheme Busted, Asian Man Lured Kids, Young Women By Posing As Woman</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
+## ‘Qobqob’ Crab Fishing Ban Set To Be Lifted Tomorrow
+ - [https://www.gulf-insider.com/qobqob-crab-fishing-ban-set-to-be-lifted-tomorrow](https://www.gulf-insider.com/qobqob-crab-fishing-ban-set-to-be-lifted-tomorrow)
+ - RSS feed: https://www.gulf-insider.com/feed
+ - date published: 2024-05-15T03:10:27+00:00
+
+<p>The executive body of the Supreme Council for the Environment (SCE) has officially lifted the ban on fishing for crab, locally known as Qobqob, in the territorial waters of the Kingdom of Bahrain. This decision will take effect tomorrow, following a twomonth ban that was implemented on March 15. Qobqob, affectionately regarded as the king &#8230;</p>
+<p>The post <a href="https://www.gulf-insider.com/qobqob-crab-fishing-ban-set-to-be-lifted-tomorrow/">‘Qobqob’ Crab Fishing Ban Set To Be Lifted Tomorrow</a> appeared first on <a href="https://www.gulf-insider.com">Gulf Insider</a>.</p>
+
