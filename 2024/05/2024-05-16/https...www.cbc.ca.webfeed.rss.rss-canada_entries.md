@@ -1,0 +1,45 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Tractor-trailer falls off highway overpass near Bedford, N.S.
+ - [https://www.cbc.ca/news/canada/nova-scotia/tractor-trailer-falls-off-highway-overpass-near-bedford-1.7206468?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/tractor-trailer-falls-off-highway-overpass-near-bedford-1.7206468?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-16T15:29:52+00:00
+
+<img alt="Cars lined up on a highway near a tractor trailer that fell from an overpass." height="349" src="https://i.cbc.ca/1.7206542.1715887304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/highway-102-101-crash-bedford-lower-sackville.jpg" title="A photo from the Bedford Talk Facebook group showing where the tractor trailer fell from the overpass on to Highway 102 on Thursday, May 16. Nova Scotia RCMP say there were no reports of injuries." width="620" /><p>Photos on social media show that a truck fell from the Highway 101 overpass between Bedford and Lower Sackville. It landed in front of a school bus, which police say had children on it at the time. So far, police say there haven't been any reports of injuries.</p>
+
+## Campus encampments: Freedom of expression or trespassing?
+ - [https://www.cbc.ca/player/play/9.4228023?cmp=rss](https://www.cbc.ca/player/play/9.4228023?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-16T12:00:00+00:00
+
+<img alt="Reporter superimposed over aerial shot of a pro-Palestinian encampment at a university." height="349" src="https://i.cbc.ca/ais/3467fb79-7ff5-4251-a012-b83a02f65cee,1715873703247/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3BResize%3D%28620%29" title="" width="620" /><p>As pro-Palestinian encampments pop up on university campuses across Canada, there's a renewed focus on freedom of expression.
+</p>
+
+## Ontario warns Toronto to drop drug decriminalization request
+ - [https://www.cbc.ca/news/canada/toronto/drug-decriminalization-toronto-ford-government-1.7205880?cmp=rss](https://www.cbc.ca/news/canada/toronto/drug-decriminalization-toronto-ford-government-1.7205880?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-16T09:39:01+00:00
+
+<img alt="A woman wearing glasses and a blazer looks off camera." height="349" src="https://i.cbc.ca/1.6755434.1709158895!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/sylvia-jones-health-minister-ontario.jpg" title="Ontario Health Minister Sylvia Jones listens to questions from reporters following a news conference at a Shoppers Drug Mart in Etobicoke on Jan. 11, 2023." width="620" /><p>The Ontario government says it is "100 per cent opposed" to Toronto Public Health's bid to have small amounts of illegal drugs for personal use decriminalized in the city.</p>
+
+## Faqiri family demands apology for Ontario's 'inaction' on inquest
+ - [https://www.cbc.ca/news/canada/toronto/soleiman-faqiri-family-apology-ontario-inquest-inaction-1.7201430?cmp=rss](https://www.cbc.ca/news/canada/toronto/soleiman-faqiri-family-apology-ontario-inquest-inaction-1.7201430?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-16T09:30:00+00:00
+
+<img alt="Left to right: Ghulam Faqiri, Sam Faqiri, Palatin Faqiri, Yusuf Faqiri and Roustam Faqiri have now learned from Ontario Provincial Police that won&apos;t happen. " height="349" src="https://i.cbc.ca/1.5674459.1715719354!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cas-merali-faqiri-family-photos.jpg" title="Soleiman Faqiri&apos;s family have waited three and half years for someone to be held accountable in his death. Left to right: Ghulam Faqiri, Sam Faqiri, Palatin Faqiri, Yusuf Faqiri and Roustam Faqiri have now learned from Ontario Provincial Police that won&apos;t happen. " width="620" /><p>Soleiman Faqiri's family is demanding an apology from the Ford government for both his death and the province's lack of response on the recommendations put forth by the inquest into his 2016 death. The family held a news conference Thursday morning at Queen’s Park calling on Premier Doug Ford to respond.</p>
+
+## Crown declines to lay charges against Edmonton police officer who fatally shot unarmed man
+ - [https://www.cbc.ca/news/canada/edmonton/crown-declines-to-lay-charges-against-edmonton-police-officer-who-fatally-shot-unarmed-man-1.7205745?cmp=rss](https://www.cbc.ca/news/canada/edmonton/crown-declines-to-lay-charges-against-edmonton-police-officer-who-fatally-shot-unarmed-man-1.7205745?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-16T08:00:00+00:00
+
+<img alt="A group of four people all wearing black shirts that say &quot;justice for Steven Nguyen&quot; look at the camera, with their arms around each other." height="349" src="https://i.cbc.ca/1.7205746.1715824582!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/steven-nguyen-family.JPG" title="From left, Steven Nguyen&apos;s brother, nephew, mother and sister outside the Edmonton courthouse on May 15, 2024." width="620" /><p>Alberta police watchdog refers 2021 shooting to the Alberta Crown Prosecution Service to consider a culpable homicide charge, but after a review, the Crown won't pursue a criminal case.</p>
+
+## B.C.'s Simon Fraser University lays off dozens of employees, citing financial challenges
+ - [https://www.cbc.ca/news/canada/british-columbia/sfu-layoffs-1.7205775?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/sfu-layoffs-1.7205775?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-16T00:41:53+00:00
+
+<img alt="A sign displaying the SFU logo, with the university&apos;s initials inside a red block, is erected on a post. " height="349" src="https://i.cbc.ca/1.7205779.1715828796!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sfu-sign.jpg" title="Simon Fraser University has laid off dozens of workers, citing they are restructuring operations amid financial challenges. " width="620" /><p>Simon Fraser University let go of dozens of staff across its three B.C. campuses in Burnaby, Vancouver, and Surrey. Due to budgetary challenges, the university said they eliminated approximately 85 jobs since Monday. The positions include instructors, administrative support staff, and custodial workers.</p>
+
