@@ -1,0 +1,65 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Minister suggests Canada is considering tariffs on Chinese EVs following U.S. move
+ - [https://www.cbc.ca/news/politics/canada-united-states-tarifs-chinese-electric-vehicles-1.7207897?cmp=rss](https://www.cbc.ca/news/politics/canada-united-states-tarifs-chinese-electric-vehicles-1.7207897?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-17T14:57:13+00:00
+
+<img alt="W man in a dark suit gestures with his hand has he speaks. A pair of Canadian flags are draped in the background." height="349" src="https://i.cbc.ca/1.7207926.1715971575!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/government-update-20240430.JPG" title="Innovation, Science and Industry Minister Francois-Philippe Champagne speaks during a press conference at the National Press Theatre in Ottawa on Tuesday, April 30, 2024." width="620" /><p>Canada’s industry minister says Ottawa is “considering all measures” after the U.S. announced it would be hiking tariffs on Chinese electric vehicles and other related goods.</p>
+
+## Federal government orders Sarnia, Ont., petrochemical industry to fix toxic emission leaks
+ - [https://www.cbc.ca/news/canada/windsor/sarnia-ineos-benzene-emissions-1.7207620?cmp=rss](https://www.cbc.ca/news/canada/windsor/sarnia-ineos-benzene-emissions-1.7207620?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-17T12:32:41+00:00
+
+<img alt="A tank is shown in front of operations at INEOS in Sarni" height="349" src="https://i.cbc.ca/1.7198188.1715199377!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ineos-tanks.jpg" title="INEOS Styrolution will not be able to accept benzene shipments from nearby producers as of May 15 after the province suspended an approval required to operate. " width="620" /><p>Environment Minister Steven Guilbeault is ordering all petrochemical companies operating in Sarnia, Ont., to take steps to control leaks of the cancer-causing chemical benzene.</p>
+
+## B.C. man who was tracking a bear airlifted to hospital after grizzly attack
+ - [https://www.cbc.ca/news/canada/british-columbia/grizzly-bear-attack-elkford-bc-airlifted-hospital-1.7207498?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/grizzly-bear-attack-elkford-bc-airlifted-hospital-1.7207498?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-17T12:27:12+00:00
+
+<img alt="Crews descend on a cable where someone is sitting in the forest loaded up on a stretcher." height="349" src="https://i.cbc.ca/1.7207789.1715969707!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/grizzly-attack-rescue.jpg" title="Members of Elkford, Sparwood and Fernie Search and Rescue crews teamed up on Thursday to rescue a man attacked by a grizzly on a steep mountainside near the B.C.-Alberta border." width="620" /><p>A British Columbia man was airlifted to a Calgary hospital Thursday after fending off a grizzly bear attack on a mountainside in the Rocky Mountains near the B.C.-Alberta border, according to RCMP.</p>
+
+## Former riding president alleges meddling in Conservative GTA nomination
+ - [https://www.cbc.ca/news/politics/pickering-brooklin-cpc-nomination-1.7207366?cmp=rss](https://www.cbc.ca/news/politics/pickering-brooklin-cpc-nomination-1.7207366?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-17T11:54:45+00:00
+
+<img alt="A man in a suit shakes the hand of a woman wearing slacks and a black sweater in front of a blue background." height="349" src="https://i.cbc.ca/1.7207375.1715961116!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/anthony-yacub.jpg" title="Anthony Yacub accepts an award from Anaida Poilievre at the 2023 Conservative Party of Canada convention for his work as electoral district association (EDA) president in Pickering-Uxbridge." width="620" /><p>A former Conservative is accusing party brass of blocking him from running to be nominated as a candidate in the next election. Anthony Yacub, 24, said he believes the party made him ineligible for the nomination in order to run a “star” candidate in the riding.</p>
+
+## Ontario child's death from measles is 1st in province since 1989, public health says
+ - [https://www.cbc.ca/news/canada/hamilton/measles-death-child-ontario-1.7207293?cmp=rss](https://www.cbc.ca/news/canada/hamilton/measles-death-child-ontario-1.7207293?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-17T07:29:17+00:00
+
+<img alt="A colourized electron transmission micrograph of measles virus particles. " height="349" src="https://i.cbc.ca/1.7131773.1709334919!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg" title="A colourized electron transmission micrograph of measles virus particles. The highly-contagious virus may be spreading locally, health officials in Quebec warned on Friday." width="620" /><p>In a report published Thursday, Public Health Ontario said the child was not vaccinated against the highly infectious respiratory virus. It's the first recorded death from measles in the province since 1989, as far back as Ontario's data goes.</p>
+
+## Manitoba post-secondary schools should track student suicides, experts say, but most don't
+ - [https://www.cbc.ca/news/canada/manitoba/post-secondary-schools-suicide-1.7207023?cmp=rss](https://www.cbc.ca/news/canada/manitoba/post-secondary-schools-suicide-1.7207023?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-17T06:00:00+00:00
+
+<img alt="A woman rests her head on her hand as she crouches alone in a darkened room." height="349" src="https://i.cbc.ca/1.7156146.1715910916!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/shutterstock-domestic-violence-depression.jpg" title="A stock photo shows a woman sitting alone in a darkened room. " width="620" /><p>CBC News asked seven of Manitoba's largest colleges and universities whether or not they track both deaths by suicide and suicide attempts. Two said they track student suicides internally. Four said they did not track, and one school said they track on-campus medical events.</p>
+
+## Intelligence chief warns Canadians that China can use TikTok to spy on them
+ - [https://www.cbc.ca/news/politics/csis-tikok-vigneault-1.7206000?cmp=rss](https://www.cbc.ca/news/politics/csis-tikok-vigneault-1.7206000?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-17T04:00:56+00:00
+
+<img alt="The app logo of TikTok is seen on a cellphone that is resting on a computer keyboard." height="349" src="https://i.cbc.ca/1.7185785.1714133498!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-tiktok-legislation-divestment.JPG" title="TikTok app logo is seen in this illustration taken, August 22, 2022. " width="620" /><p>In some of his most hawkish comments to date, the head of Canada's intelligence agency is warning Canadians — including teenagers — against using the wildly popular video app TikTok.</p>
+
+## Fire-proofing an entire city: How Yukon is working to protect its capital
+ - [https://www.cbc.ca/news/canada/north/whitehorse-firebreak-construction-wildfire-risk-1.7206428?cmp=rss](https://www.cbc.ca/news/canada/north/whitehorse-firebreak-construction-wildfire-risk-1.7206428?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-17T04:00:00+00:00
+
+<img alt="Trees and brush are seen in a cleared area, with mountains in the background." height="349" src="https://i.cbc.ca/1.7206835.1715894381!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/whitehorse-fuel-break.JPG" title="A 20-kilometre fuel break is being built at the south end of Whitehorse." width="620" /><p>Work began in 2020 on a massive fuel break south of Whitehorse, intended to help protect the city from any encroaching wildfire from the south. Some residents wonder if it's enough.</p>
+
+## Hamilton man's car taken at a police stop, mistakenly marked as 'wrecked.' Now he wants thousands back in fees
+ - [https://www.cbc.ca/news/canada/hamilton/vin-car-mistake-hamilton-1.7203024?cmp=rss](https://www.cbc.ca/news/canada/hamilton/vin-car-mistake-hamilton-1.7203024?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-05-17T04:00:00+00:00
+
+<img alt="A person stands outside by a red car." height="349" src="https://i.cbc.ca/1.7205881.1715864618!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/gerben-vanden-heuvel.jpeg" title="Gerben Vanden Heuvel is trying to figure out how his car was marked as a wreck without his knowledge. " width="620" /><p>Members of a Hamilton family are looking for accountability — and their money back — after their vehicle was registered as scrapped, resulting in a police stop, the temporary loss of their vehicle and nearly $5,000 in fees.</p>
+

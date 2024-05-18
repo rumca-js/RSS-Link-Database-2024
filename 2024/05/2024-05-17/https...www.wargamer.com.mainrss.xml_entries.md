@@ -1,0 +1,116 @@
+# Source:Wargamer, URL:https://www.wargamer.com/mainrss.xml, language:en-US
+
+## Yogscast plays Bolt Action with Lego, and it’s sheer carnage
+ - [https://www.wargamer.com/bolt-action/lego-battle-report](https://www.wargamer.com/bolt-action/lego-battle-report)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-05-17T15:29:12+00:00
+
+<img alt="Yogscast plays Bolt Action with Lego, and it’s sheer carnage" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/05/lego-bolt-action-truck.jpg" title="Yogscast plays Bolt Action with Lego, and it’s sheer carnage" width="1920" />
+								<p>A new battle report on Games Night, a miniature gaming channel founded by prolific Twitch streamers and YouTubers Yogscast, shows what WW2 might have looked like if the warring forces were made out of Lego. The new Lego Bolt Action battle report is as adorable as it is catastrophically destructive. If you&rsquo;ve not heard of &hellip; <a href="https://www.wargamer.com/bolt-action/lego-battle-report">Continued</a></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/bolt-action/lego-battle-report">Yogscast plays Bolt Action with Lego, and it’s sheer carnage</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/world-of-tanks/best-ww2-games">Best WW2 
+
+## A guide to DnD legendary actions 5e
+ - [https://www.wargamer.com/dnd/legendary-actions](https://www.wargamer.com/dnd/legendary-actions)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-05-17T15:28:04+00:00
+
+<img alt="A guide to DnD legendary actions 5e" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/05/dnd-legendary-actions-5e-dragon.jpg" title="A guide to DnD legendary actions 5e" width="1920" />
+								<p>DnD legendary actions are one way to make a combat encounter feel special. The best boss fights throw something unexpected at the players, and they make the main monster feel like a real threat &ndash; without totally steamrolling the party. If you want to learn more about this common stat block tactic, we&rsquo;ve got a &hellip; <a href="https://www.wargamer.com/dnd/legendary-actions">Continued</a></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/legendary-actions">A guide to DnD legendary actions 5e</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/dnd/classes">DnD classes guide</a>, <a href="https://www.wargamer.com/dnd/races">DnD races guide</a>, <a href="https://www.wargame
+
+## DnD editions differences
+ - [https://www.wargamer.com/dnd/editions-differences](https://www.wargamer.com/dnd/editions-differences)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-05-17T14:33:51+00:00
+
+<img alt="DnD editions differences" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/05/dnd-editions-basic-vs-5th.jpg" title="DnD editions differences" width="1920" />
+								<p>The current version of DnD may be called fifth edition, but there have actually been seven core versions of the game since 1974. This guide examines the history of all the DnD editions and the differences that make each one unique: their particular rules, publication history, style of play, and impact on the landscape of &hellip; <a href="https://www.wargamer.com/dnd/editions-differences">Continued</a></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/editions-differences">DnD editions differences</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/dnd/classes">DnD classes guide</a>, <a href="https://www.wargamer.com/dnd/races">DnD races guide</a>, <a href="https://www.wargamer.com/dnd/character-creator">DnD 
+
+## All Pokémon types explained
+ - [https://www.wargamer.com/all-pokemon-types-chart](https://www.wargamer.com/all-pokemon-types-chart)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-05-17T12:00:58+00:00
+
+<img alt="All Pokémon types explained" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2023/09/all-pokemon-types-guide-ghost-type-pokemon.jpg" title="All Pokémon types explained" width="1920" />
+								<p>In 2024, there are more <strong>Pokémon types</strong> than ever, with the current number of types standing at 18 since Pokémon X and Y released in 2013. Every Pokémon has a type which determines the moves it has access to, as well as which other types it tends to be stronger and weaker against in battle. This guide lists <strong>all Pokémon types</strong>, their key strengths and weaknesses, and prominent Pokémon from each type.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/all-pokemon-types-chart">All Pokémon types explained</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/trading-card-games">Best Trading Card Games</a>, <a href="https://www.wargamer.com/pokemon-trading-card-game/b
+
+## Men of War II is a fantastic follow-up to an RTS classic
+ - [https://www.wargamer.com/men-of-war-2/men-of-war-2-changes](https://www.wargamer.com/men-of-war-2/men-of-war-2-changes)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-05-17T11:43:30+00:00
+
+<img alt="Men of War II is a fantastic follow-up to an RTS classic" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/05/Men-of-War-II-April-2024-Screenshot-2.jpg" title="Men of War II is a fantastic follow-up to an RTS classic" width="1920" />
+								<p>Attention all war gamers. An influential RTS franchise is returning after more than a decade with Men of War II. With roots dating back all the way to 2004, the series quickly became a strategy classic due to its deep and tactical combat system, and smart integration of more hands-on approach to command and the fact that a capable Commander can turn each individual soldier into a deadly weapon.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/men-of-war-2/men-of-war-2-changes">Men of War II is a fantastic follow-up to an RTS classic</a>
+				</div>
+
+## Full Disney Lorcana tournament slate and prizes shared at last
+ - [https://www.wargamer.com/disney-lorcana/tournament-prizes-schedule-revealed](https://www.wargamer.com/disney-lorcana/tournament-prizes-schedule-revealed)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-05-17T11:30:33+00:00
+
+<img alt="Full Disney Lorcana tournament slate and prizes shared at last" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/05/disney-lorcana-tournament-prizes-schedule-revealed.jpg" title="Full Disney Lorcana tournament slate and prizes shared at last" width="1920" />
+								<p>Disney Lorcana has revealed all the important details about the upcoming Lorcana tournament circuit, Lorcana Challenge. A new page appeared on the game&rsquo;s official website on May 16, showing off exactly how the competitive circuit will work &ndash; with everything from dates and locations, to the structure of the tournament itself, to the game&rsquo;s tasty, &hellip; <a href="https://www.wargamer.com/disney-lorcana/tournament-prizes-schedule-revealed">Continued</a></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/disney-lorcana/tournament-prizes-schedule-revealed">Full Disney Lorcana tournament slate and prizes shared at last</a
+
+## The best white planeswalkers in Magic: The Gathering
+ - [https://www.wargamer.com/magic-the-gathering/white-planeswalkers](https://www.wargamer.com/magic-the-gathering/white-planeswalkers)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-05-17T11:13:49+00:00
+
+<img alt="The best white planeswalkers in Magic: The Gathering" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/05/mtg-white-planeswalkers.jpg" title="The best white planeswalkers in Magic: The Gathering" width="1920" />
+								<p><strong>MTG white planeswalkers</strong> have moved beyond their early days of life gain synergy and weak board presence. Nowadays, white is the color for some of the strongest planeswalkers out there, enabling crushing control strategies and dominating the board. If you want to keep your opponents at arm's length or close out the game with armies of soldiers and samurai, here are our recommendations for Magic’s best white planeswalkers.</p>
+<p>Before we begin picking <a href="https://www.wargamer.com/magic-the-gathering/planeswalkers">MTG planeswalkers</a>, here are a few more <a href="https://www.wargamer.com/magic-the-gathering">Magic: The Gathering</a> guides you might find useful. Why not compar
+
+## Age of Sigmar 4e launch box price revealed in the small print
+ - [https://www.wargamer.com/age-of-sigmar/4e-launch-box-price](https://www.wargamer.com/age-of-sigmar/4e-launch-box-price)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-05-17T10:37:55+00:00
+
+<img alt="Age of Sigmar 4e launch box price revealed in the small print" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/05/age-of-sigmar-4th-edition-launch-box-price2.jpg" title="Age of Sigmar 4e launch box price revealed in the small print" width="1920" />
+								<p>The new Age of Sigmar 4th edition launch box set, Skaventide,&nbsp;will cost $275 USD or &pound;160 GBP, according to the terms and conditions of a new competition that will give ten lucky fans a free copy of the set. The Age of Sigmar 4th edition launch box was revealed less than 24 hours ago, and &hellip; <a href="https://www.wargamer.com/age-of-sigmar/4e-launch-box-price">Continued</a></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/age-of-sigmar/4e-launch-box-price">Age of Sigmar 4e launch box price revealed in the small print</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/warhammer-age-of-sigmar/armies-guide">W
+
+## DnD Paladin 5e class guide
+ - [https://www.wargamer.com/dnd/paladin-5e-class-guide](https://www.wargamer.com/dnd/paladin-5e-class-guide)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-05-17T09:15:46+00:00
+
+<img alt="DnD Paladin 5e class guide" class="webfeedsFeaturedVisual" height="1079" src="https://www.wargamer.com/wp-content/sites/wargamer/2022/02/dnd-paladin-5e.jpg" title="DnD Paladin 5e class guide" width="1920" />
+								<p>Devout, durable, and dominating, the <strong>DnD Paladin 5e</strong> class is incredibly satisfying to play in fifth edition Dungeons and Dragons. As both support and striker, you'll be called on to soak up hits and dish out bursts of damage. Meanwhile, a divine connection to your patron deity imbues you with unmatched potential to buff and debuff the combatants around you. If the D&amp;D 5e Paladin appeals more than other <a href="https://www.wargamer.com/dnd/classes">DnD classes</a>, you'll find all you need to know to play one right here.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/paladin-5e-class-guide">DnD Paladin 5e class guide</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/dnd/classes">DnD classes
+
+## Age of Sigmar 4th edition launch box models and price estimate
+ - [https://www.wargamer.com/warhammer-age-of-sigmar/4th-edition-launch-box-skaventide-release](https://www.wargamer.com/warhammer-age-of-sigmar/4th-edition-launch-box-skaventide-release)
+ - RSS feed: https://www.wargamer.com/mainrss.xml
+ - date published: 2024-05-17T02:23:38+00:00
+
+<img alt="Age of Sigmar 4th edition launch box models and price estimate" class="webfeedsFeaturedVisual" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/05/warhammer-age-of-sigmar-4th-edition-launch-box-skaventide-release-v2.jpg" title="Age of Sigmar 4th edition launch box models and price estimate" width="1920" />
+								<p>After a tense two-month wait, Games Workshop has opened the lid on its Warhammer<strong> Age of Sigmar 4th edition launch box</strong>. Titled <strong>Skaventide</strong>, this box is packing a total of 74 brand new miniatures for the Stormcast Eternals and Skaven armies - as well as terrain pieces, extra rules, and cards to play the new Spearhead game mode.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/warhammer-age-of-sigmar/4th-edition-launch-box-skaventide-release">Age of Sigmar 4th edition launch box models and price estimate</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/warhammer-
+

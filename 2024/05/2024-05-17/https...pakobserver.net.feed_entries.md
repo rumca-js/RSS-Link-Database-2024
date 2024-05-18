@@ -1,0 +1,240 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed, language:en-US
+
+## Pakistan’s squad ‘finalised’ for T20I World Cup 2024
+ - [https://pakobserver.net/pakistans-squad-finalised-for-t20i-world-cup-2024](https://pakobserver.net/pakistans-squad-finalised-for-t20i-world-cup-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T16:49:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/GSW-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; The Pakistan Cricket Board (PCB) has finalised the Pakistan squad for the upcoming T20I World Cup scheduled to be played in the United States and Caribbean next month. As per the media reports, Babar Azam will lead the 15-member team which includes three wicketkeeper batsmen. Pacer Haris Rauf has made a comeback after [&#8230;]
+
+## Romeo student arrested for attempting suicide after teacher rejects marriage proposal
+ - [https://pakobserver.net/romeo-student-arrested-for-attempting-suicide-after-teacher-rejects-marriage-proposal](https://pakobserver.net/romeo-student-arrested-for-attempting-suicide-after-teacher-rejects-marriage-proposal)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T16:37:05+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/news-1715955089-4984-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />People who face rejection in love, usually opt for extreme moves and the same plot unfolds in Jehlum where a former student attempted to end his life after a teacher at a college turned down his marriage proposal. The man&#8217;s extreme reaction stemmed from emotional intensity due to rejection, as he entered a class and [&#8230;]
+
+## Study in Germany: Pakistani Student Visa Registration set to start for Winter 2024-2025
+ - [https://pakobserver.net/study-in-germany-pakistani-student-visa-registration-set-to-start-for-winter-2024-2025](https://pakobserver.net/study-in-germany-pakistani-student-visa-registration-set-to-start-for-winter-2024-2025)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T16:05:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/rgrgrgrg-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistanis students are eagerly seeking employment and scholarship opportunities abroad especially in European countries like Germany. In another exciting opportunity, the German embassy in Pakistan announced the start of student visa registration for the winter semester of 2024-2025, and beginning on May 21. German embassy will start offering appointments for students with admission letters for [&#8230;]
+
+## Lahore, Punjab weather update; rain predicted during weekend
+ - [https://pakobserver.net/lahore-punjab-weather-update-rain-predicted-during-weekend](https://pakobserver.net/lahore-punjab-weather-update-rain-predicted-during-weekend)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T16:01:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/LHW-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Rain-wind/thunderstorms are predicted in Lahore and parts of Punjab during the weekend, says the Pakistan Meteorological Department (PMD) on Friday. As per the synoptic situation, a shallow westerly wave prevails over the upper and western parts of Pakistan. It will likely persist during the next 30-36 hours. Under the influence of these conditions, [&#8230;]
+
+## E-Stamping System fetches Rs400 billion in Punjab, Sindh, Khyber Pakhtunkhwa
+ - [https://pakobserver.net/e-stamping-system-fetches-rs400-billion-in-punjab-sindh-kp](https://pakobserver.net/e-stamping-system-fetches-rs400-billion-in-punjab-sindh-kp)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T15:42:40+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/E-stamping-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; The e-Stamping System, developed by the Punjab Information Technology Board (PITB) in collaboration with the Board of Revenue (BoR), has collected more than Rs400 billion in Punjab, Sindh and Khyber Pakhtunkhwa. This was informed at a meeting chaired by PITB Chairman Faisal Yousaf. The participants of the meeting were apprised that to date, [&#8230;]
+
+## Non-Filers to face additional withholding tax on Property transactions in upcoming budget
+ - [https://pakobserver.net/non-filers-to-face-additional-withholding-tax-on-property-transactions-in-upcoming-budget](https://pakobserver.net/non-filers-to-face-additional-withholding-tax-on-property-transactions-in-upcoming-budget)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T15:26:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/rvbb-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Pakistani government is tightening the noose around the non-filers in bid to boost revenue and now the government is likely to raise advance tax on purchase of immovable properties by non-filers. As per new understanding between Federal Board of Revenue (FBR) and the International Monetary Fund (IMF), the withholding tax on property purchases [&#8230;]
+
+## Pakistan crowned Central Asia Volleyball Champions after beating Turkmenistan in final
+ - [https://pakobserver.net/pakistan-crowned-central-asia-volleyball-champions-after-beating-turkmenistan-in-final](https://pakobserver.net/pakistan-crowned-central-asia-volleyball-champions-after-beating-turkmenistan-in-final)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T14:15:31+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/GNyS0oCbsAAO05d-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Another feat for Pakistan as country&#8217;s national volleyball team thumped Turkmenistan in final of the Central Asian Volleyball Association (CAVA) Nation’s Volleyball League at the Liaquat Gymnasium in Islamabad on Friday. Pakistan won the game with scoreline of 3-1, outclassing the other side after a strong contest. The ciountry&#8217;s volleyball team showed no signs of [&#8230;]
+
+## ‘Immense Pride for Nation’: Army Chief commends Pakistan Hockey Team’s success
+ - [https://pakobserver.net/immense-pride-for-nation-army-chief-commends-pakistan-hockey-teams-success](https://pakobserver.net/immense-pride-for-nation-army-chief-commends-pakistan-hockey-teams-success)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T13:53:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/jjkr-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan Hockey team earned praise by Chief of Army Staff General Syed Asim Munir following their silver medal finish at the Sultan Azlan Shah Cup. In a statement, ISPR said General Syed Asim Munir received the Pakistan Hockey team at General Headquarters Rawalpindi on Friday. President Pakistan Hockey Federation (PHF) Tariq Hussain and other PHF [&#8230;]
+
+## Maryam Nawaz’s appearance in Elite police uniform has everyone’s attention
+ - [https://pakobserver.net/maryam-nawazs-appearance-in-elite-police-uniform-has-everyones-attention](https://pakobserver.net/maryam-nawazs-appearance-in-elite-police-uniform-has-everyones-attention)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T12:09:38+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/436309808_1020776509405635_1411514486907401103_n-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Punjab Chief Minister Maryam Nawaz Sharif has done it again as she appeared in Elite police uniform to attend the passing out parade. Punjab CM was clicked observing parade along with Punjab Inspector General Dr Usman Anwar. She also inspected sophisticated weapons used by Police specializing in counter-terrorist operations. In her speech, Punjab [&#8230;]
+
+## Chinese company shows interest in enhancing investment in Pakistan’s mineral sector
+ - [https://pakobserver.net/chinese-company-shows-interest-in-enhancing-investment-in-pakistans-mineral-sector](https://pakobserver.net/chinese-company-shows-interest-in-enhancing-investment-in-pakistans-mineral-sector)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T12:03:42+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/PM-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Chinese Company MCC Tongsin Resources has expressed interest in enhancing its investment in the mineral and mining sector of Pakistan. As per the Ministry of Information and Broadcasting, MCC Tongsin Resources chairman Wang Jicheng expressed the interest during a meeting with Prime Minister Shehbaz Sharif on Friday. The Chinese company briefed the PM [&#8230;]
+
+## Chakor Ventures’ cryptic tweet creates buzz in Islamabad amid Dubai property leaks
+ - [https://pakobserver.net/chakor-ventures-cryptic-tweet-creates-buzz-in-islamabad-amid-dubai-property-leaks](https://pakobserver.net/chakor-ventures-cryptic-tweet-creates-buzz-in-islamabad-amid-dubai-property-leaks)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T11:18:37+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/Chakor-Ventures-Tweet-Banner-Cover-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – A cryptic social media post by Chakor Ventures amid recent Dubai property leaks has sparked frenzy in Islamabad and now it is spilling out of the federal capital, arousing curiosity of people. The post was shared on X, formerly Twitter, stating; &#8220;invest where it doesn&#8217;t leak&#8221; and the company also displayed billboards across [&#8230;]
+
+## Punjab Summer Vacations for Schools 2024
+ - [https://pakobserver.net/punjab-summer-vacations-for-schools-2024](https://pakobserver.net/punjab-summer-vacations-for-schools-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T11:11:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/gggg-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Punjab government on Friday announced summer vacation for schools 2024 amid scorching heat in the region. As per the notification, the summer vacations will start from June 1 and end on August 14. All government and private schools will reopen on August 15 after 2.5 months summer break. Punjab Summer Vacations 2024 Summer Holidays Dates [&#8230;]
+
+## World Hypertension Day observed in Pakistan
+ - [https://pakobserver.net/world-hypertension-day-observed-in-pakistan](https://pakobserver.net/world-hypertension-day-observed-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T11:04:04+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/hypertention-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Like other parts of the globe, World Hypertension Day is being observed across Pakistan on Friday. The WHD theme this year is &#8216;Measure Your Blood Pressure Accurately, Control It, Live Longer&#8217;. As per estimates, about 5.5 million men and 5.3 million women in Pakistan suffer from hypertension. A third of Pakistanis aged more [&#8230;]
+
+## Punjab changes School Timings amid blistering heat
+ - [https://pakobserver.net/punjab-changes-school-timings-amid-blistering-heat](https://pakobserver.net/punjab-changes-school-timings-amid-blistering-heat)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T10:55:05+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/s-3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; The government of Punjab announced new school timings to prevent children and staff from blistering heat as temperature shoots up to 45 degrees celsius. A notification shared by School Education Department said the classes in Punjab schools will start at 7:00am to 11:30am while the regular classes would conclude at 10:30am on Fridays. [&#8230;]
+
+## Gold prices in Pakistan fall – Check latest rate on May 17
+ - [https://pakobserver.net/gold-prices-in-pakistan-fall-check-latest-rate-on-may-17](https://pakobserver.net/gold-prices-in-pakistan-fall-check-latest-rate-on-may-17)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T10:37:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/gold6-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Gold prices in Pakistan dropped slightly on Friday in line with downward trend in international market. According to Sarafa Association, per tola gold price dipped by Rs600 to settle at Rs245,000 while the price of 10-gram decreased by Rs514 to close Rs210,048. The price of the precious commodity was declined by $6 to [&#8230;]
+
+## Second French Alumni Day celebrated in Pakistan
+ - [https://pakobserver.net/second-french-alumni-day-celebrated-in-pakistan](https://pakobserver.net/second-french-alumni-day-celebrated-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T10:11:59+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/fr-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The 2nd France Alumni Day, the world day of international graduates from the French Higher Education will be held in May 2024 in France and all over the world. The &#8220;France Alumni Day&#8221; program includes many different projects &#8211; besides the prestigious event at the Ministry of Europe and Foreign Affairs in Paris, with the [&#8230;]
+
+## Deputy PM to lead Pakistani delegation at SCO CFMs meeting
+ - [https://pakobserver.net/deputy-pm-to-lead-pakistani-delegation-at-sco-cfms-meeting](https://pakobserver.net/deputy-pm-to-lead-pakistani-delegation-at-sco-cfms-meeting)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T09:48:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/409133691715935816-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211;  Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar, at the invitation of his Kazakh counterpart, will lead the Pakistani delegation to the regular meeting of the Council of Foreign Ministers (CFMs) of Shanghai Cooperation Organization (SCO), being held from 20th to 21st of this month in Astana, Kazakhstan. The Foreign Minister [&#8230;]
+
+## Peshawar, Khyber Pakhtunkhwa weather update; rains, isolated hailstorms likely
+ - [https://pakobserver.net/peshawar-khyber-pakhtunkhwa-weather-update-rains-isolated-hailstorms-likely](https://pakobserver.net/peshawar-khyber-pakhtunkhwa-weather-update-rains-isolated-hailstorms-likely)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T08:16:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/Rain-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PESHAWAR – Rain-wind/thunderstorms are likely in Peshawar and parts of Khyber Pakhtunkhwa on Friday evening/night and during the weekend. Isolated hailstorms are also likely during the period. As per the Pakistan Meteorological Department (PMD), a shallow westerly wave will likely affect the upper and western parts of the country from Friday evening/tonight. Under the influence [&#8230;]
+
+## Rain expected in Islamabad, Rawalpindi, parts of Pakistan
+ - [https://pakobserver.net/rain-expected-in-islamabad-rawalpindi-parts-of-pakistan](https://pakobserver.net/rain-expected-in-islamabad-rawalpindi-parts-of-pakistan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T07:49:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/ISD-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Rain-wind/thunderstorms are expected in Islamabad, Rawalpindi and parts of Pakistan on Friday evening/night, Saturday and Sunday. As per the Pakistan Meteorological Department (PMD), a shallow westerly wave will likely affect the upper and western parts of the country from Friday evening/tonight. Under the influence of these conditions, partly cloudy weather conditions with rain-wind/thunderstorms [&#8230;]
+
+## CNICs issuance, renewal to be made available at UC level
+ - [https://pakobserver.net/cnics-issuance-renewal-to-be-made-available-at-uc-level](https://pakobserver.net/cnics-issuance-renewal-to-be-made-available-at-uc-level)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T07:43:42+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/14794761031715931143-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211;  Interior Minister Mohsin Naqvi has announced that the facility for the issuance and renewal of identity cards will be made available at the Union Council level across Pakistan. During his visit to NADRA headquarters in Islamabad on Friday,  he directed to finalize a plan in this regard at the earliest. He said biometric [&#8230;]
+
+## Shaheen Afridi features in 50th edition of PCB Podcast
+ - [https://pakobserver.net/shaheen-afridi-features-in-50th-edition-of-pcb-podcast](https://pakobserver.net/shaheen-afridi-features-in-50th-edition-of-pcb-podcast)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T07:33:59+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/timthumb-4-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Pakistan fast bowler Shaheen Shah Afridi was a special guest on the 50th edition of the PCB Podcast, which marks a significant milestone as the podcast was launched in September 2019. In this latest episode, which is available here for viewing and free downloading for editorial purposes, the lanky left-arm speedster candidly discusses [&#8230;]
+
+## YouTube sensations Shiraz and Muskan quit vlogging for this reason
+ - [https://pakobserver.net/youtube-sensations-shiraz-and-muskan-quit-vlogging-for-this-reason](https://pakobserver.net/youtube-sensations-shiraz-and-muskan-quit-vlogging-for-this-reason)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T07:19:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/syr-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan’s youngest vlogger Shiraz and his sister Muskan, the dynamic duo who earned fame in short period over their innocent vlogs on YouTube, have decided to quit vlogging. The minor duo, who belongs from Siachin sector of Gilgit-Baltistan, shared a last vlog where they announced their decision in an emotional way. Shiraz said their father [&#8230;]
+
+## Qaumi Bachat Bank Defence Savings Certificates new profit rate from May 14, 2024
+ - [https://pakobserver.net/qaumi-bachat-bank-defence-savings-certificates-new-profit-rate-from-may-14-2024](https://pakobserver.net/qaumi-bachat-bank-defence-savings-certificates-new-profit-rate-from-may-14-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T07:00:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/defence-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Defence Savings Certificates (DSCs) scheme was launched by the government back in 1966 to cater the financial needs of long term category investors and provide them with the opportunity to take maximum benefit of their savings. The National Savings or Qaumi Bachat Bank revised the profit rate of various investment certificates, incuding DSCs, with effect [&#8230;]
+
+## Punjab CM Maryam observes Elite Force passing out parade
+ - [https://pakobserver.net/punjab-cm-maryam-observes-elite-force-passing-out-parade](https://pakobserver.net/punjab-cm-maryam-observes-elite-force-passing-out-parade)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T06:41:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/812288_49699932-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE  &#8211;  Punjab Chief Minister Maryam Nawaz Sharif said that the Elite Force was also established by Nawaz Sharif and Shahbaz Sharif. The Punjab CM made these remarks while observing passing out parade at Baidian Training Centre in Lahore on Friday. The members of the provincial cabinet and the IG Punjab also attended the ceremony [&#8230;]
+
+## Punjab bikes scheme 2024: Update on motorcycle delivery date
+ - [https://pakobserver.net/punjab-bikes-scheme-2024-update-on-motorcycle-delivery-date](https://pakobserver.net/punjab-bikes-scheme-2024-update-on-motorcycle-delivery-date)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T06:01:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/filer-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – E-balloting for Punjab bikes scheme 2024  was held last week and the government has also released the list of successful candidates. The government had received total 72,640 applications – 57,370 for petrol bikes and 15,270 for e- Bikes – till the deadline i.e. May 1, 2024 from eligible students of Faisalabad, Multan, Bahawalpur, [&#8230;]
+
+## SC to hear suo moto case on Vawda’s presser today
+ - [https://pakobserver.net/sc-to-hear-suo-moto-case-on-vawdas-presser-today](https://pakobserver.net/sc-to-hear-suo-moto-case-on-vawdas-presser-today)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T05:48:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/A-general-view-of-the-Supreme-Court-of-Pakistan-in1668673145-0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD  &#8211;  The Supreme Court of Pakistan will hear the suo moto case on Faisal Vawda’s press conference on Friday  (today). A SC three-member bench, headed by Chief Justice Qazi Faez Isa, will hear the suo moto case. Justice Irfan Saadat and Justice Naeem Akhtar are the other members of the bench. The top court [&#8230;]
+
+## New school timings announced in Islamabad amid heatwaves
+ - [https://pakobserver.net/new-school-timings-announced-in-islamabad-amid-heatwaves](https://pakobserver.net/new-school-timings-announced-in-islamabad-amid-heatwaves)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T05:40:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/schoo0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Timings of all schools in Islamabad were revised to keep students safe as the Met office has predicted above normal temperatures in coming days. The federal educational institutions will now open at 7:30 am and close at 1:00 pm, a top official of the education department told media. The new schools timings will [&#8230;]
+
+## Gold rates in Saudi Arabia today – 17 May 2024
+ - [https://pakobserver.net/gold-rates-in-saudi-arabia-today-17-may-2024](https://pakobserver.net/gold-rates-in-saudi-arabia-today-17-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T05:25:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/gold-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The price of per tola price 24-karat gold in Saudi Arabia on Friday (May 17) stands at 3,341 Saudi Riyal (SAR), according to forex.pk. Furthermore, the 10 grams of 24-k gold is being sold for SAR 2,867 in the kingdom while the per ounce gold price stands at SAR 8,919. Note: The gold [&#8230;]
+
+## Finance Minister calls for broadening tax base
+ - [https://pakobserver.net/finance-minister-calls-for-broadening-tax-base](https://pakobserver.net/finance-minister-calls-for-broadening-tax-base)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T05:24:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/14828800601715874666-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD  &#8211;  Finance Minister Senator Muhammad Aurangzeb on Friday emphasized the need for broadening the tax base and digitalization of the country’s tax regime. He was talking to Alternate Executive Directors of Asian Development Bank in Islamabad to discuss the ongoing and future cooperation between Pakistan and the ADB. The Finance Minister welcomed members of [&#8230;]
+
+## UK Pound to PKR rate today – 17 May 2024
+ - [https://pakobserver.net/uk-pound-to-pkr-rate-today-17-may-2024](https://pakobserver.net/uk-pound-to-pkr-rate-today-17-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T05:23:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/pound-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The buying rate of the UK Pound Sterling stands at Rs344.5 in Pakistan while its selling rate stands at Rs348 on Friday in the open market of Pakistan. Data available on forex.pk showed that the Pound witnessed no change against the Pakistani rupee in the open market. GBP to PKR Rate – 17 [&#8230;]
+
+## Dirham to PKR rate today – 17 May 2024
+ - [https://pakobserver.net/dirham-to-pkr-rate-today-17-may-2024](https://pakobserver.net/dirham-to-pkr-rate-today-17-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T05:20:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/dirham-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The United Arab Emirates (UAE) Dirham buying rate in the open market of Pakistan stands at Rs75.15 on Friday while the selling rate is Rs75.9, according to forex.pk. The UAE Dirham remained steady against Pakistani rupee as compared to the previous trading day&#8217;s closing of Rs75.15 in the open market of the South [&#8230;]
+
+## Saudi Riyal to PKR rate today – 17 May 2024
+ - [https://pakobserver.net/saudi-riyal-to-pkr-rate-today-17-may-2024](https://pakobserver.net/saudi-riyal-to-pkr-rate-today-17-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T05:18:04+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/riyal-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The buying rate for Saudi Arabia Riyal in Pakistan stands at Rs73.5 while the selling rate stands at Rs74.2 on Friday in open market, according to forex.pk. Data available on the currency website showed the Saudi Riyal witnessed no change against Pakistani rupee in the open market. SAR to PKR Rate – 17 [&#8230;]
+
+## Currency exchange rates in Pakistan today – May 17, 2024
+ - [https://pakobserver.net/currency-exchange-rates-in-pakistan-today-may-17-2024](https://pakobserver.net/currency-exchange-rates-in-pakistan-today-may-17-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T04:15:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/curreny-rate-today-15-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI—On Thursday, May 17, 2024, the exchange rate for one US Dollar against Pakistani rupees was recorded at Rs 277.45 in the local and open market, with a selling rate of Rs 280. Note: Exchange rates can vary based on the location and the Exchange Company or bank involved in the transaction. Below are the foreign [&#8230;]
+
+## Gold rate in Pakistan today – 17 May, 2024
+ - [https://pakobserver.net/gold-rate-in-pakistan-today-17-may-2024](https://pakobserver.net/gold-rate-in-pakistan-today-17-may-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-05-17T04:03:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/gold-rate-in-pakistan-today-24-March-2023-1-1024x576-4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI—On Friday, May 17, 2024, the 24-karat gold rate was PKR 241,700. Similarly, the bullion market recorded the gold price for 24-karat at Rs 206,360 per 10g. Gold Price in Pakistan’s different cities. City Gold Silver Karachi PKR 241,700 PKR 2,550 Lahore PKR 241,700 PKR 2,550 Islamabad PKR 241,700 PKR 2,550 Peshawar PKR 241,700 PKR [&#8230;]
+

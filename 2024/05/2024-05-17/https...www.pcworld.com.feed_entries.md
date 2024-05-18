@@ -1,0 +1,232 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## Microsoft’s free PC optimizer makes it easy to free up storage space
+ - [https://www.pcworld.com/article/2331447/microsoft-free-pc-manager-makes-it-easy-to-free-up-storage-space.html](https://www.pcworld.com/article/2331447/microsoft-free-pc-manager-makes-it-easy-to-free-up-storage-space.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T21:28:22+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Microsoft has released a new version of its free Windows tuning tool, dubbed PC Manager. </p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="get-windows-11-pro-for-cheap">
+					get windows 11 pro for cheap				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="windows-11-pro">Windows 11 Pro</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Windows 11 Pro" class="product-widget__image" height="1330" src="https://b2c-contenthub.com/wp-content/uploads/2022/05/Windows-Insider-search-bar.png" width="2368" />
+						</di
+
+## WD’s new external hard drives cram 6TB into a deck of cards
+ - [https://www.pcworld.com/article/2337474/wds-new-mobile-hard-drives-cram-6-tb-into-a-deck-of-cards.html](https://www.pcworld.com/article/2337474/wds-new-mobile-hard-drives-cram-6-tb-into-a-deck-of-cards.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T15:32:49+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Hard drives. They still exist, believe it or not, and they&rsquo;re still the best bang-for-your-buck when it comes to absolutely massive amounts of storage. Take three new offerings from Western Digital for example. While these 2.5-inch drives (the kind that used to go into laptops) aren&rsquo;t blazing fast, you&rsquo;d have a very hard time sticking so many files in your pocket for such little money with flash. </p>
+
+
+
+<p>Today the company announced that its <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.westerndigital.com/products/portable-drives/wd-my-passport-ultra-usb-c-hdd?sku=WDBEJA0060BBL-WESN&amp;xcust=2-1-2337474-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">WD My Passport Ultra</a>, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.westerndigital.com/products/portable-drives/wd-bl
+
+## Firefox 126 is here: More security, less tracking, and faster Facebook
+ - [https://www.pcworld.com/article/2337506/firefox-126-is-here-more-security-less-tracking-and-faster-facebook.html](https://www.pcworld.com/article/2337506/firefox-126-is-here-more-security-less-tracking-and-faster-facebook.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T15:27:20+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>In the new Firefox version 126.0, Mozilla developers have fixed several vulnerabilities in the browser. Better data compression should load Facebook pages faster. Even more tracking parameters are blocked when copying web addresses. Updates to Firefox ESR 115.11 and Tor Browser 13.0.1 are also available.</p>
+
+
+
+<p>The developers have fixed at least 16 vulnerabilities in Firefox 126.0. Mozilla categorizes two of these vulnerabilities as high risk in its <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.mozilla.org/security/known-vulnerabilities/firefox&amp;xcust=2-1-2337506-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">security report </a>. A use-after-free vulnerability (CVE-2024-4764) could come to light and become exploitable if WebRTC is used more intensively (e.g. during video conferences) and a new aud
+
+## Ghost of Tsushima can use Nvidia DLSS and AMD FSR at the same time
+ - [https://www.pcworld.com/article/2337429/ghost-of-tsushima-can-use-nvidia-dlss-and-amd-fsr-at-the-same-time.html](https://www.pcworld.com/article/2337429/ghost-of-tsushima-can-use-nvidia-dlss-and-amd-fsr-at-the-same-time.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T14:54:25+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>PC gamers have been looking forward to the release of Ghost of Tsushima, Sucker Punch&rsquo;s Kurosawa-flavored open-world PlayStation exclusive, for literally years. But it looks like the game has a pleasant surprise upon launch: it&rsquo;s multi-platform in more ways than one. Early players have discovered that you can use Nvidia DLSS and AMD FSR at the same time while playing. </p>
+
+
+
+<p>For the uninitiated, Nvidia&rsquo;s Deep Learning Super-Sampling and AMD&rsquo;s Fidelity Super Resolution <a href="https://www.pcworld.com/article/2092929/ai-upscaling-nvidia-dlss-3-5-im-detail.html">are two flavors of extremely similar technology</a>, using some extremely complicated math to boost a game&rsquo;s effective resolution without the performance hit that usually accompanies it. Typically the technologies are so similar that you can&rsquo;t do both at the same time
+
+## Keychron M3 mini 4K Metal Edition review: Simply excellent
+ - [https://www.pcworld.com/article/2330388/keychron-m3-mini-4k-metal-edition-review.html](https://www.pcworld.com/article/2330388/keychron-m3-mini-4k-metal-edition-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>An excellent sensor that syncs movements precisely</li><li>4K polling rate</li><li>Strong and lightweight metal chassis</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Perforated back won&rsquo;t suit claw grippers</li><li>Smaller size isn&rsquo;t great for large hands </li><li>Battery life isn&rsquo;t great in 4K polling mode. </li></ul></div></div></div><h3
+
+## Epic gives away Dragon Age Inquisition to kick off annual Mega sale
+ - [https://www.pcworld.com/article/2336255/epic-has-dragon-age-inquisition-for-free-to-kick-off-huge-sale.html](https://www.pcworld.com/article/2336255/epic-has-dragon-age-inquisition-for-free-to-kick-off-huge-sale.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T14:28:56+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Epic gives away games for free. It might be the only reason you have the Epic Games Store launcher installed on your PC &mdash; that certainly seems to be the case for a lot of die-hard Steam fans. But whether you actually use the store or just grab the freebies, you&rsquo;ll want to check out this week&rsquo;s free game <em><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://store.epicgames.com/en-US/p/dragon-age-inquisition-game-of-the-year-edition-2f0cbd&amp;xcust=2-1-2336255-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Dragon Age Inquisition</a></em>, and maybe take a gander at some of the deep discounts in the latest sale.</p>
+
+
+
+<p><em>Dragon Age Inquisition</em> is the third game in Bioware&rsquo;s fantasy RPG series, the more swords and sorcery side of the coin opposite <em>Mass Effect</em>. And it&rsquo;s been a good w
+
+## This hassle-free $130 Eufy security camera is $70 today
+ - [https://www.pcworld.com/article/2336648/this-hassle-free-130-eufy-security-camera-is-70-today.html](https://www.pcworld.com/article/2336648/this-hassle-free-130-eufy-security-camera-is-70-today.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T13:25:14+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>In a world where security and peace of mind are paramount, the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/eufy-Security-Continuous-Resolution-Compatible/dp/B0BZ55JZ4S&amp;xcust=2-1-2336648-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Eufy Security SoloCam S220</a> emerges as a highly sought-after solution, now available at a remarkable price of just <strong>$69.99</strong> at Amazon, a significant drop from its original $129.99.&nbsp;</p>
+
+
+
+<p>The price cut is one we love to see because it makes an excellent camera more accessible to everyone, allowing you to purchase more of these to drape over your home so you can check all angles.&nbsp;</p>
+
+
+
+<p>The SoloCam S220 doesn&rsquo;t need wires to power up because it has solar charging capabilities. It only takes about three hours of sunlight every day to c
+
+## Get this PlayStation 5 bundle for $449 in super-rare price drop
+ - [https://www.pcworld.com/article/2336708/get-this-playstation-5-bundle-for-449-in-super-rare-price-drop.html](https://www.pcworld.com/article/2336708/get-this-playstation-5-bundle-for-449-in-super-rare-price-drop.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T13:17:02+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The PlayStation 5 Disc Console Slim, packaged with the well-loved Marvel&rsquo;s Spider-Man 2, is currently <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.walmart.com/ip/PlayStation-5-Disc-Console-Slim-Marvel-s-Spider-Man-2-Bundle/5113183758&amp;xcust=2-1-2336708-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">available for $449 at Walmart</a>, down from its usual $559.99. This offer represents the lowest price for this bundle to date and a rare discount for the PS5.</p>
+
+
+
+<p>The PS5 Slim is a powerhouse of a console despite its slim design. With 1TB of SSD storage, players can keep plenty of games &mdash; though huge with the size of some of today&rsquo;s games, that number isn&rsquo;t what it used to be. Either way, load times are great, with some games loading virtually instantly.</p>
+
+
+
+<p>Gaming on a 4K TV is taken 
+
+## Is buying a used laptop safe?
+ - [https://www.pcworld.com/article/2330136/is-buying-a-used-laptop-safe.html](https://www.pcworld.com/article/2330136/is-buying-a-used-laptop-safe.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>With how expensive new laptops can be, especially <a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html">some of the best laptops</a>, it&rsquo;s easy to be tempted by the low-low prices of second hand models on classified and auction sites. But buying anything second hand has risks, right? And that&rsquo;s true of laptops too, right? Well, sort of. While buying new will always give you more protections, more rights, and likely a better overall product, buying a used laptop can be a great way to make some big savings, get a better laptop than you could otherwise afford, and help cut back on e-waste.</p>
+
+
+
+<p>That&rsquo;s not to say there aren&rsquo;t some caveats and potential problems worth considering, though. Here are a few of the ways buying a used laptop isn&rsquo;t entirely safe, and what you can do about it.</p>
+
+
+
+<blockquo
+
+## Dell G16 7630 review: A gaming laptop with powerful desktop vibes
+ - [https://www.pcworld.com/article/2326937/dell-g16-7630-review.html](https://www.pcworld.com/article/2326937/dell-g16-7630-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Feels like a desktop replacement</li><li>Has a large keyboard with a good layout for gamers</li><li>Really powerful performance</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>The display isn&rsquo;t as colorful as an OLED</li><li>The keys are a bit mushy</li><li>The charging brick is huge, which reduces its portability</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Dell G16 7630 is big and
+
+## How often should you turn off your phone? Here’s what the NSA says
+ - [https://www.pcworld.com/article/2330195/security-experts-advise-this-is-how-often-you-should-switch-off-your-mobile-phone-the-reason.html](https://www.pcworld.com/article/2330195/security-experts-advise-this-is-how-often-you-should-switch-off-your-mobile-phone-the-reason.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Many people need to learn how to use a smartphone properly. After all, these all-rounder devices require regular maintenance and important updates in order to be optimally protected against wear and tear and attacks.</p>
+
+
+
+<h2 class="wp-block-heading" id="switching-you-phone-off-completely-protects-it">Switching you phone off completely protects it</h2>
+
+
+
+<p>Surprisingly, this includes a very simple function: switching off the smartphone completely. According to<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.documentcloud.org/documents/21018353-nsa-mobile-device-best-practices&amp;xcust=2-1-2330195-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank"> security experts at the NSA</a>, this alone helps to protect the device from hacking attacks. It is now not only common to gain access to smartphones via malicio
+
+## Get 20TB of Prism Drive cloud storage for the web’s best price
+ - [https://www.pcworld.com/article/2336469/get-20tb-of-prism-drive-cloud-storage-for-the-webs-best-price.html](https://www.pcworld.com/article/2336469/get-20tb-of-prism-drive-cloud-storage-for-the-webs-best-price.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Cloud storage is essential these days, as everybody has more data than they can fit on just their devices alone. Monthly fees add up, however, and it can be an annoying part of your budget planning to include cloud storage expenses. So, get them taken care of with a one-time payment. Right now, you can get a lifetime subscription to 20TB of <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/prism-drive-secure-cloud-storage-20tb-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=prism-drive-secure-cloud-storage-20tb-lifetime-subscription&amp;utm_term=scsf-596760&amp;utm_content=a0xRn000001AKT7IAO&amp;scsonar=1&amp;xcust=2-1-2336469-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Prism Drive Secure Cloud Storage</a> for just $89.97.</p>
+
+
+
+<p>Prism Drive offe
+
+## Save $70 on this innovative language learning app
+ - [https://www.pcworld.com/article/2336449/save-70-on-this-innovative-language-learning-app.html](https://www.pcworld.com/article/2336449/save-70-on-this-innovative-language-learning-app.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-17T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you want to learn a new language, there are many potential ways to go about it. But one innovative solution is making it especially fun. The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/beelinguapp-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=beelinguapp-lifetime-subscription&amp;utm_term=scsf-596763&amp;utm_content=a0xRn000001ALFVIA4&amp;scsonar=1&amp;xcust=2-1-2336449-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Beelinguapp Language Learning App</a> uses the power of reading and listening to help you learn a new language and, through 5/22, you can get it for $70 off.</p>
+
+
+
+<p>Beelinguapp shows you the same exact text in two languages, side by side. Then, it uses karaoke reading to help you follow the audio in the text on both sides, mak
+
