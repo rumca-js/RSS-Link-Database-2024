@@ -1,0 +1,338 @@
+# Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
+
+## Looking for image Gallery hosting in my windows server no docker
+ - [https://www.reddit.com/r/selfhosted/comments/1cw1i9m/looking_for_image_gallery_hosting_in_my_windows](https://www.reddit.com/r/selfhosted/comments/1cw1i9m/looking_for_image_gallery_hosting_in_my_windows)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T23:28:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking for a solution to install and use the image Gallery, hosting where i can upload and user image Gallery. The server is Windows 11 machine, Requirements are as follows 1. No docker absolutely ( I can't figure out what's what and it's too complicated technically) 2. No Linux ( I does using Linux cause since install had lot of technical problems) 3.i tried piwigo, installed MySQL, unzipped php and then got lost in steps cause it's a local machine and no idea how do I get piwigo to start automatically on browser. 4. Must be able to upload from both iOS and android. Can any body help me please?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/forstagang"> /u/forstagang </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cw1i9m/looking_for_image_gallery_hosting_in_my_windows/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cw1i9m/looking_for_image_ga
+
+## Self Hosted Proton Mail
+ - [https://www.reddit.com/r/selfhosted/comments/1cw0z5c/self_hosted_proton_mail](https://www.reddit.com/r/selfhosted/comments/1cw0z5c/self_hosted_proton_mail)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T23:03:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>TL:DR &gt; Looking for a self hosted Protonmail like system that is as locked down secure as proton is. YES, this is assuming the underlying system is configured correctly.. that isn't the point, I'm curious if there has been any development of high security system itself. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PM-BOOBS-AND-MEMES"> /u/PM-BOOBS-AND-MEMES </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cw0z5c/self_hosted_proton_mail/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cw0z5c/self_hosted_proton_mail/">[comments]</a></span>
+
+## Enable Plex Remote Access
+ - [https://www.reddit.com/r/selfhosted/comments/1cw06sr/enable_plex_remote_access](https://www.reddit.com/r/selfhosted/comments/1cw06sr/enable_plex_remote_access)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T22:27:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I selfhost plex in docker and I use nginx as reverse proxy. I'm sure I setup everything right. but still when I go to remote access I see <code>Not available outside your network Your server is signed in to Plex, but is not reachable from outside your network. Learn more</code> and I want to fix it. tried use custom ports like 443 and 80 and added plex server URL in network tab but still face same issue so is there way to fix it?</p> <p>docker compose: ```yml version: &quot;3.8&quot;</p> <p>services: plex: image: linuxserver/plex:latest container_name: plex restart: unless-stopped volumes: - /mnt/rclone:/mnt/user/media - ./config:/config ports: - 127.0.0.1:32400:32400 #- 8089:8089 environment: PLEX_CLAIM: &quot;claim-REMOVED&quot; tautulli: image: ghcr.io/tautulli/tautulli container_name: tautulli restart: unless-stopped volumes: - ./tautulli:/config environment: - PUID=1000 - PGID=1000 - TZ=EG ports: - 32500:8181</p> <p>volumes: media: {} conf
+
+## OS for SSD only NAS and selfhost app server
+ - [https://www.reddit.com/r/selfhosted/comments/1cvzn84/os_for_ssd_only_nas_and_selfhost_app_server](https://www.reddit.com/r/selfhosted/comments/1cvzn84/os_for_ssd_only_nas_and_selfhost_app_server)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T22:02:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I plan to migrate from my large box with HDDs to a Minisforum ms-01. I've been using Unraid before and enjoyed it a lot, but it's not ideal for SSDs, and overall my expectations from the server changed over time - now I can afford only matching drives, I don't need too many of them, and I want to focus on hosting containers and ease of use. I plan to start with 2x4tb SSD and add a third one if needed.</p> <p>Are there any decent alternatives? Truenas seems to be a good competitor and quite appealing with its out of the box kubernetes support however, reviews often claim that its docker manager is not as intuitive, and there is no info on community apps</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/____purple"> /u/____purple </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvzn84/os_for_ssd_only_nas_and_selfhost_app_server/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/
+
+## VPN from Azure VM to unRAID site-to-site
+ - [https://www.reddit.com/r/selfhosted/comments/1cvzhe3/vpn_from_azure_vm_to_unraid_sitetosite](https://www.reddit.com/r/selfhosted/comments/1cvzhe3/vpn_from_azure_vm_to_unraid_sitetosite)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T21:54:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey there guys. I'm using WireGuard with my router and it works amazing for my access outside of my home. I love it and now also want to use it to have a site-to-site VPN from my server to an Azure VM to monitor my server.</p> <p>&#x200b;</p> <p>The problem is that I'm not able to achieve it. The setup: </p> <p>I have an unRAID server with IP [<a href="https://192.168.132.89">192.168.132.89</a>](<a href="https://192.168.132.89/">https://192.168.132.89/</a>). For that server, I forwarded port 51820/UDP in my router. </p> <p>Then I have a Ubuntu VM running in Azure with Docker installed. I created a network rule to open port 51820/UDP as well. I got a duckdns address.</p> <p>&#x200b;</p> <p>In Azure, I run the [<a href="https://linuxserver.io/wireguard">linuxserver.io/wireguard</a>](<a href="https://linuxserver.io/wireguard">https://linuxserver.io/wireguard</a>) Docker container. Why? I try to always run everything in Docker but if it is so much more co
+
+## Traefik confusion
+ - [https://www.reddit.com/r/selfhosted/comments/1cvzas4/traefik_confusion](https://www.reddit.com/r/selfhosted/comments/1cvzas4/traefik_confusion)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T21:46:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm terribly sorry for the question, but I've spent two days buried in documentation, and I'm starting to question my understanding of this type of program.</p> <p>I downloaded a single docker package: <a href="https://github.com/linuxserver/docker-obsidian">https://github.com/linuxserver/docker-obsidian</a></p> <p>It's just an online version of the markdown editor Obsidian, running in a VNC.</p> <p>Many people recommended placing it behind a reverse proxy, and I figured since reverse proxies are so highly talked about in terms of security and not exposing your ports, I wanted to set Traefik up with this particular container.</p> <p>No matter what I do, the docker container still insists on using the default ports, which are: - 3000 (http) - 3001 (https)</p> <p>```yml services: traefik: container_name: &quot;traefik&quot; image: traefik:2.9.8 restart: unless-stopped ports: - 80:80 - 443:443 - 6888:8080 volumes: - /var/run/docker.sock:/var/run/docker.s
+
+## Looking for some sort of self hosted craigslist type container
+ - [https://www.reddit.com/r/selfhosted/comments/1cvyoil/looking_for_some_sort_of_self_hosted_craigslist](https://www.reddit.com/r/selfhosted/comments/1cvyoil/looking_for_some_sort_of_self_hosted_craigslist)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T21:18:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Like the title says, looking for a craigslist-esque docker container to host a private trade/swap page for a hobby group I’m in, does any kind of turn key solution for that exist?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/e_pilot"> /u/e_pilot </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvyoil/looking_for_some_sort_of_self_hosted_craigslist/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvyoil/looking_for_some_sort_of_self_hosted_craigslist/">[comments]</a></span>
+
+## Self-hosted project management tools with/without off-putting gotchas
+ - [https://www.reddit.com/r/selfhosted/comments/1cvxvxd/selfhosted_project_management_tools_withwithout](https://www.reddit.com/r/selfhosted/comments/1cvxvxd/selfhosted_project_management_tools_withwithout)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T20:43:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Not exactly asking which one is &quot;best&quot; and why, although feel free to share those thoughts too. I have been reading a lot of old threads related to selfhosted project management tools and it seems like a lot of them have off-putting gotchas. Most notably for me so far (because I was close to picking it), the recent Plane thread where their supposed refusal to implement SSO as a free feature was called out.</p> <p>So I thought I'd ask... which tools don't have off-putting gotchas like that, and also which ones do and what are they so I can think through whether or not they're actually deal breakers for my use case?</p> <p>Thanks pals :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/amiiboh"> /u/amiiboh </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvxvxd/selfhosted_project_management_tools_withwithout/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhoste
+
+## Not able to connect to MySQL from postfix
+ - [https://www.reddit.com/r/selfhosted/comments/1cvx06x/not_able_to_connect_to_mysql_from_postfix](https://www.reddit.com/r/selfhosted/comments/1cvx06x/not_able_to_connect_to_mysql_from_postfix)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T20:04:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, opensource community</p> <p>I am using Postfix, dovecot and Postfix admin for my complete email setup</p> <p>I am using virtual users so I have installed postfix-mysql and dovecot-mysql</p> <p>Issue:</p> <p>My postfix service is not able to connect to MySQL server. Throwing:</p> <p><code>May 19 19:52:18 mail postfix/trivial-rewrite[1600937]: warning: connect to mysql server localhost: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)</code></p> <p><code>May 19 19:52:18 mail postfix/trivial-rewrite[1600937]: warning: virtual_alias_domains: mysql:/etc/postfix/sql/mysql_virtual_alias_maps.cf: table lookup problem</code></p> <p><code>May 19 19:52:18 mail postfix/trivial-rewrite[1600937]: warning: virtual_alias_domains lookup failure</code></p> <p><code>May 19 19:52:18 mail postfix/trivial-rewrite[1600937]: warning: virtual_alias_domains: mysql:/etc/postfix/sql/mysql_virtual_alias_maps.cf: table lookup problem</cod
+
+## How do I setup local DNS, reverse proxy, and cloudflare to work properly
+ - [https://www.reddit.com/r/selfhosted/comments/1cvw2sg/how_do_i_setup_local_dns_reverse_proxy_and](https://www.reddit.com/r/selfhosted/comments/1cvw2sg/how_do_i_setup_local_dns_reverse_proxy_and)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T19:23:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I currently have the following setup:</p> <ul> <li>Docker containers on 192.168.1.D</li> <li>NGNIX Proxy Manager (NPM) on 192.168.1.D:880/4443</li> <li>Adguard on 192.168.1.A <ul> <li>Custom DNS filtering rule of <ul> <li><a href="http://mydomain.org">mydomain.org</a> 192.168.1.D</li> <li>Something is setup to set this as my primary DNS, but I cannot for the life of me figure out what/where this is set. Router DNS entries are blank for some reason, but have confirmed this is primary DNS on two different clients.</li> </ul></li> </ul></li> <li>Router (192.168.1.1) firewall set to forward 80-&gt;880, 443-&gt;4443 on 192.168.1.D</li> <li>Cloudflare hosting <a href="http://mydomain.org">mydomain.org</a> with the following proxied CNAMEs <ul> <li><a href="http://localapp.mydomain.org">localapp.mydomain.org</a> </li> <li><a href="http://publicapp.mydomain.org">publicapp.mydomain.org</a></li> </ul></li> <li>NPM set to proxy <a href="http://publicapp.mydomain
+
+## Looking for alternative backup solutions
+ - [https://www.reddit.com/r/selfhosted/comments/1cvvxwh/looking_for_alternative_backup_solutions](https://www.reddit.com/r/selfhosted/comments/1cvvxwh/looking_for_alternative_backup_solutions)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T19:17:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys, <a href="https://www.reddit.com/r/raspberry_pi/s/sZTpneuyWf">it's me again</a>. Thank you everyone for expressing your opinion and offering your advice.</p> <h1>My setup</h1> <p>After reading your comments I decided to give DietPi a try and I'm loving it so far. It's lightweight, it just works and has a very intuitive command line UI.</p> <h1>My problem</h1> <p>After installing Plex, I decided my media streaming needs were satisfied, so I proceeded to set up a backup system for my and my wife's phone media/documents.</p> <p>Having installed Nextcloud in the past on a LAMP stack, I knew I didn't want to go that route (slow, painful to configure), so I settled for a Samba folder for each one of us, but this comes with the disadvantage of</p> <ul> <li><p>Not having a dedicated app on the phone that can handle the backup routines</p></li> <li><p>Ending up with sparse folders with media types mixed together.</p></li> </ul> <h1>What I would like</h
+
+## What is your ideal photo management service?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvvouq/what_is_your_ideal_photo_management_service](https://www.reddit.com/r/selfhosted/comments/1cvvouq/what_is_your_ideal_photo_management_service)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T19:06:14+00:00
+
+<!-- SC_OFF --><div class="md"><blockquote> <p>tl;dr at the bottom. I'm kinda bad at writing, you were warned.</p> </blockquote> <p>I'm slowly working on a alternative to Immich called marver. The idea is you point marver at your NAS and it indexes all your photos, videos, etc - using similar AI tricks to Immich. You then get a nice UI to go through your photos, find the ones you want, add metadata where you think its lacking, etc. It's the solution to my &quot;I have hundreds of thousands of photos and have no clue how to find the one I'm thinking of&quot; problem, without having to deal with my &quot;I really don't want to go through and organise and tag all these photos myself&quot; problem. </p> <p>I've been working on marver on and off for awhile now. It's far from being ready but I've been slowly working towards a stable enough version to run. I have lots of ideas to pack into it and I'm hoping in the next few months to get a very basic version running reliably. Most of the cool
+
+## New server for my stacks
+ - [https://www.reddit.com/r/selfhosted/comments/1cvvfg9/new_server_for_my_stacks](https://www.reddit.com/r/selfhosted/comments/1cvvfg9/new_server_for_my_stacks)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T18:55:04+00:00
+
+<!-- SC_OFF --><div class="md"><h1>Current Setup</h1> <p>Currently have my media server setup using Docker running on an old gaming rig using:</p> <p>i7 4770</p> <p>16gb DDR3 ram</p> <p>2tb SSD for the Ubuntu Server OS install</p> <p>2 x 4tb WD Red drives to store media files that Plex uses</p> <p>Docker is installed on the OS and all stacks and containers run via that config</p> <h1>Docker Stacks and Containers</h1> <p>Currently there are 6 stacks built.</p> <h1>Adguard Stack</h1> <ul> <li>this is running on a macvlan network on my LAN</li> </ul> <h1>Filebrowser Stack</h1> <ul> <li>this is running an instance of filebrowser</li> </ul> <h1>iDrac Stack</h1> <ul> <li>used when I need to access the drac of a rack server hosted at work in the data center</li> </ul> <h1>Mediaserver Stack</h1> <ul> <li>this hosts the bulk of the actively running apps</li> <li>Dozzle</li> <li>Watchtower</li> <li>Heimdall Dashboard</li> <li>Nginx Proxy Manager</li> <li>Overseer</li> <li>Plex</li> <li>Radarr</
+
+## Need help setting up FileRun (Docker)
+ - [https://www.reddit.com/r/selfhosted/comments/1cvutpa/need_help_setting_up_filerun_docker](https://www.reddit.com/r/selfhosted/comments/1cvutpa/need_help_setting_up_filerun_docker)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T18:27:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Trying to re-install FileRun 7.4 via Docker. Host system is Windows.</p> <p>I used my 7.4 zip and extracted it into my /html mount. Container spools up and I'm able to access the web interface. Gets as far as the login screen, but whenever I try to login I get this:</p> <blockquote> <p><strong>Communication with the server failed. Please try again later.</strong></p> </blockquote> <p>Here is my docker compose file:</p> <pre><code>services: db: image: mariadb:10.1 environment: MYSQL_ROOT_PASSWORD: x2AI8NANlBqNT18i9T0y MYSQL_USER: mysql_user MYSQL_PASSWORD: Rc5iPuivXBhGoJpNDg24 MYSQL_DATABASE: filerun_db volumes: - F:/filerun/database:/var/lib/mysql web: image: filerun/filerun:7.4 environment: FR_DB_HOST: db FR_DB_PORT: 3306 FR_DB_NAME: filerun_db FR_DB_USER: mysql_user FR_DB_PASS: Rc5iPuivXBhGoJpNDg24 APACHE_RUN_USER: www-data APACHE_RUN_USER_ID: 33 APACHE_RUN_GROUP: www-data APACHE_RUN_GROUP_ID: 33 depends_on: - db links: - db:db ports: - &quot;5080:8
+
+## Mealie iOS Shortcut - Import Recipe from URL
+ - [https://www.reddit.com/r/selfhosted/comments/1cvuj0p/mealie_ios_shortcut_import_recipe_from_url](https://www.reddit.com/r/selfhosted/comments/1cvuj0p/mealie_ios_shortcut_import_recipe_from_url)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T18:14:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Kept finding old shortcuts to import a recipe from url with outdated API formatting. Poked at the current API and got it working, maybe someone else can use it too. </p> <p>Accepts share sheet and clipboard input.</p> <p><a href="https://www.icloud.com/shortcuts/53609b6a5ddb40db8c393e7f2fca7dc6">https://www.icloud.com/shortcuts/53609b6a5ddb40db8c393e7f2fca7dc6</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sykotic"> /u/Sykotic </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvuj0p/mealie_ios_shortcut_import_recipe_from_url/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvuj0p/mealie_ios_shortcut_import_recipe_from_url/">[comments]</a></span>
+
+## Moved my public-facing projects to the cloud - safest way to publicly self-host anything?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvtfjj/moved_my_publicfacing_projects_to_the_cloud](https://www.reddit.com/r/selfhosted/comments/1cvtfjj/moved_my_publicfacing_projects_to_the_cloud)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T17:24:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>So after a few years self-hosting a few hobbiest websites on my Family NAS, I noticed I wasn’t properly finishing or publicising them because at the back of my head I was thinking: if this gets popular and I end up with 1000’s of hits, I don’t want some hacker to figure out a way to nuke my Photos/Games/Media/DockerApps etc…</p> <p>I was always super careful with security, I don’t know how a hacker could find my IP address through a reverse-proxied cloudflare-enabled domain, but maybe?</p> <p>Seeing people on here get their systems encrypted etc have probably freaked me out a little too much, plus there’s the “NEVER PUBLICLY HOST ANYTHING ON YOUR NAS” crowd, so i’ve decided to just host all my static pages on Cloudflare Pages, and i’m in the process of learning AWS for the more complex bits I have…</p> <p>Was this a good idea?</p> <p>It would still be nice to be able to host, say - a 2GB file on my Synology still, and be able to provide a safe public 
+
+## ZeroTier Self-Hosted Controller Manager
+ - [https://www.reddit.com/r/selfhosted/comments/1cvsvdb/zerotier_selfhosted_controller_manager](https://www.reddit.com/r/selfhosted/comments/1cvsvdb/zerotier_selfhosted_controller_manager)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T16:58:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey Folks,</p> <p>I originally created the bash_cli_zt (<a href="https://github.com/thedunston/bash_cli_zt">https://github.com/thedunston/bash_cli_zt</a>) program for self-hosted ZeroTier controllers and now have an early version of a similar program written in Go. It has a CLI and very basic web interface. I've been testing on Windows 11 x64 and Ubuntu 22.04 x64.</p> <p>I was going to write one in PowerShell, though I decided to use Go for easier maintenance on multiple platforms and I like writing programs in Go now.</p> <p><a href="https://github.com/thedunston/go_cli_zt">https://github.com/thedunston/go_cli_zt</a></p> <p>I'm hoping this works for folks and please post any bugs or feature requests on the GitHub page.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Slow_Wafer3174"> /u/Slow_Wafer3174 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvsvdb/zerotier_selfhosted_controller_ma
+
+## Site nor safe?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvsunf/site_nor_safe](https://www.reddit.com/r/selfhosted/comments/1cvsunf/site_nor_safe)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T16:57:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1cvsunf/site_nor_safe/"> <img alt="Site nor safe?" src="https://preview.redd.it/as0y5alwye1d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2dbb81bdf55a91523b49d81d9179efc58c0be754" title="Site nor safe?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>As you can see, SSL is good. I do not know why this problem is here. I keep trying to get google to review it, but the error is still up there. Thanks in advance. It is a recipe manager Mealie, so I don't think it is dangerous.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/natethegreat141990"> /u/natethegreat141990 </a> <br /> <span><a href="https://i.redd.it/as0y5alwye1d1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvsunf/site_nor_safe/">[comments]</a></span> </td></tr></table>
+
+## Stirling PDF is a cool project
+ - [https://www.reddit.com/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project](https://www.reddit.com/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T16:56:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just wanted to mention that Stirling PDF is a very cool project. <a href="https://stirlingtools.com/">https://stirlingtools.com/</a> You can perform numerous tasks on PDF documents all from a central website.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Slow_Wafer3174"> /u/Slow_Wafer3174 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/">[comments]</a></span>
+
+## DVR/NVR software that can detect chickens
+ - [https://www.reddit.com/r/selfhosted/comments/1cvsg1d/dvrnvr_software_that_can_detect_chickens](https://www.reddit.com/r/selfhosted/comments/1cvsg1d/dvrnvr_software_that_can_detect_chickens)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T16:38:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm putting up a few Empiretech and Dahua cameras around the house, and it occurs to me being alerted when my chickens enter a certain area would be super useful. Currently using Bluecherry which works for my needs outside of the chicken detection. I'd like to avoid simple movement triggers if possible. Any ideas?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/leadbread"> /u/leadbread </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvsg1d/dvrnvr_software_that_can_detect_chickens/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvsg1d/dvrnvr_software_that_can_detect_chickens/">[comments]</a></span>
+
+## When I upgrade my server's RAM or OS, can I restore files from Docker volume backups?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvsf1s/when_i_upgrade_my_servers_ram_or_os_can_i_restore](https://www.reddit.com/r/selfhosted/comments/1cvsf1s/when_i_upgrade_my_servers_ram_or_os_can_i_restore)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T16:37:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I keep backups of all Docker volumes using restic.</p> <p>Say I double my RAM or change the OS or make other hardware changes to my home server. Following which I reinstall a new version of the OS (say Ubuntu 24.04, which just released). Can I then restore the Docker volumes to the newly formatted drive? Will things work seamlessly?</p> <p>Apologies for my ignorance regarding this.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fearless-Pie-1058"> /u/Fearless-Pie-1058 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvsf1s/when_i_upgrade_my_servers_ram_or_os_can_i_restore/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvsf1s/when_i_upgrade_my_servers_ram_or_os_can_i_restore/">[comments]</a></span>
+
+## Owncloud Infinite Scale OIDC with Authelia via proxy NGINX Proxy Manger help needed?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvqn4h/owncloud_infinite_scale_oidc_with_authelia_via](https://www.reddit.com/r/selfhosted/comments/1cvqn4h/owncloud_infinite_scale_oidc_with_authelia_via)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T15:19:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>So as the title says i am trying to setup OIDC with Owncloud Infinite Scale with Authelia for authentication i have it working but i am stuck on one part Authelia does not yet support prompt handling and causes Owncloud to get stuck on OIDC callback but i am able to get correctly redirected to Authelia and apporve log in request but get stuck on Owncloud you are being logged in screen. </p> <p>I found this <a href="https://helgeklein.com/blog/owncloud-infinite-scale-with-openid-connect-authentication-for-home-networks/">guide here</a> and it worked for the most part but the are using Caddy instead of NGINX proxy manager and the say you have to rewrite the url to bypass Ownclouds prompt handling in this Caddy file example below.</p> <pre><code>auth.{$MY_DOMAIN} { # This is necessary until Authelia learns prompt handling. It's planned for beta 7 (https://www.authelia.com/roadmap/active/openid-connect/#beta-7). # Without this, the ownCloud desktop client
+
+## Does the world need another self-hosted budgeting app?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvp5uz/does_the_world_need_another_selfhosted_budgeting](https://www.reddit.com/r/selfhosted/comments/1cvp5uz/does_the_world_need_another_selfhosted_budgeting)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T14:10:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>TL;DR: I’ve built a high-fidelity MVP of a YNAB clone using Ruby on Rails + Hotwire, with a subset of YNAB features. Would you be interested in trying it out as a self-hosted app?</p> <h1>Background</h1> <p>As someone who has struggled with managing money throughout adulthood, I’ve tried various budgeting solutions:</p> <ul> <li>GNUCash (opensource)</li> <li>Beancount (opensource)</li> <li>Wallet app by BudgetBakers (commercial)</li> <li>YNAB (commercial)</li> </ul> <p>Of these, YNAB has been the most effective for me. Inspired by its functionality, I decided to build my own version using Ruby on Rails + Hotwire, incorporating a Double Entry accounting system at its core. Currently, the app uses PostgreSQL for data storage and Redis for WebSocket communication.</p> <h1>Current Features</h1> <p>Here’s what I’ve built so far:</p> <ul> <li><em>Expense Accounts</em> with budgets</li> <li><em>Asset Accounts</em>: For current/checking accounts contributing 
+
+## Looking for a modern Digital Asset Management (DAM) system
+ - [https://www.reddit.com/r/selfhosted/comments/1cvow27/looking_for_a_modern_digital_asset_management_dam](https://www.reddit.com/r/selfhosted/comments/1cvow27/looking_for_a_modern_digital_asset_management_dam)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T13:58:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone have a suggestion for a selfhosted DAM? Something like pimcore (too CMS-oriented, opinionated), ResourceSpace and Bynder (not selfhosted)?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/keyNONE"> /u/keyNONE </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvow27/looking_for_a_modern_digital_asset_management_dam/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvow27/looking_for_a_modern_digital_asset_management_dam/">[comments]</a></span>
+
+## Automated animations and collages
+ - [https://www.reddit.com/r/selfhosted/comments/1cvnf4y/automated_animations_and_collages](https://www.reddit.com/r/selfhosted/comments/1cvnf4y/automated_animations_and_collages)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T12:42:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, I'm currently using MS Onedrive for photo backups, and I'm looking to move to something self hosted, I already have a home sever with unraid, so looking to setup something on docker. </p> <p>Right now owncloud is what I'm leaning towards, but I was wondering if there is anything out there that offers the ability to automatically generate animations and collages and &quot;memory albums&quot; like one drive does?</p> <p>Doesn't necessarily need to be an integrated solution I can happily run a script to grab today's uploads and process them using some other package, but Google searching I've only found online solutions, nothing self hosted. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Squeakers09"> /u/Squeakers09 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvnf4y/automated_animations_and_collages/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/com
+
+## How to buy so cheap storage?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvndtg/how_to_buy_so_cheap_storage](https://www.reddit.com/r/selfhosted/comments/1cvndtg/how_to_buy_so_cheap_storage)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T12:40:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1cvndtg/how_to_buy_so_cheap_storage/"> <img alt="How to buy so cheap storage?" src="https://preview.redd.it/qddwyoz1pd1d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8fb6c8265a8eb103d45df7ea5ba31a31aa3bdb32" title="How to buy so cheap storage?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I've seen this on Reddit but I have no idea how to get so great price. I guess this guy talk about Hetzner but prices are way more experience there.</p> <p>Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/timsofteng"> /u/timsofteng </a> <br /> <span><a href="https://i.redd.it/qddwyoz1pd1d1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvndtg/how_to_buy_so_cheap_storage/">[comments]</a></span> </td></tr></table>
+
+## Light system monitor service with Home Assistant integration
+ - [https://www.reddit.com/r/selfhosted/comments/1cvm49v/light_system_monitor_service_with_home_assistant](https://www.reddit.com/r/selfhosted/comments/1cvm49v/light_system_monitor_service_with_home_assistant)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T11:27:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello.</p> <p>I have home server with Home Assistant and small VPSes. I want to monitor one of the VPS in Home Assistant. I know that Glances could be the best choice here, but I cannot connect Glances wuth Home Assistant (I can access to web interface hosted directly on VPS, but I cannot connect it to Home Assistant). Is there a light alternative that I can quickly install on VPS server (ubuntu) and connect it with Home Assistant? I don't need a lot of metrics - only CPU, RAM, Load and maybe net traffic. I am open to standards like MQTT. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cichy1173"> /u/cichy1173 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvm49v/light_system_monitor_service_with_home_assistant/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvm49v/light_system_monitor_service_with_home_assistant/">[comments]</a></span>
+
+## nginx + certbot - how to get www.example.com and example.com pointing to the same files?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvledz/nginx_certbot_how_to_get_wwwexamplecom_and](https://www.reddit.com/r/selfhosted/comments/1cvledz/nginx_certbot_how_to_get_wwwexamplecom_and)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T10:40:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have to say I'm struggling a bit with this configuration. Everything works fine for <a href="http://example.com">example.com</a>, but I have hard times figuring out how to get <a href="http://www.example.com">www.example.com</a> pointing to the same directory while also being protected by SSL from let's encrypt. I do not have wildcard certificate for it as I do have other subdomains.</p> <p>Anybody knows what's the best way to go about it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bruzdziciel"> /u/bruzdziciel </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvledz/nginx_certbot_how_to_get_wwwexamplecom_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvledz/nginx_certbot_how_to_get_wwwexamplecom_and/">[comments]</a></span>
+
+## Something like Jellyfin but without needing a server
+ - [https://www.reddit.com/r/selfhosted/comments/1cvl79w/something_like_jellyfin_but_without_needing_a](https://www.reddit.com/r/selfhosted/comments/1cvl79w/something_like_jellyfin_but_without_needing_a)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T10:26:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just because don't have a server and I want to have something like it</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MASSSHALL"> /u/MASSSHALL </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvl79w/something_like_jellyfin_but_without_needing_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvl79w/something_like_jellyfin_but_without_needing_a/">[comments]</a></span>
+
+## How resource intensive is running iperf3 in server mode
+ - [https://www.reddit.com/r/selfhosted/comments/1cvl5uk/how_resource_intensive_is_running_iperf3_in](https://www.reddit.com/r/selfhosted/comments/1cvl5uk/how_resource_intensive_is_running_iperf3_in)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T10:23:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi!</p> <p>Anyone know how resourceintensive is running a iperf3 server (on a pi3) always to check network things when every i want?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/t0b4cc02"> /u/t0b4cc02 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvl5uk/how_resource_intensive_is_running_iperf3_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvl5uk/how_resource_intensive_is_running_iperf3_in/">[comments]</a></span>
+
+## "memos" alternative with ios client?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvkrda/memos_alternative_with_ios_client](https://www.reddit.com/r/selfhosted/comments/1cvkrda/memos_alternative_with_ios_client)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T09:55:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>HI!</p> <p>can you recommend something similar to <a href="https://www.usememos.com">memos</a> that also has a client for ios?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DartSteven"> /u/DartSteven </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvkrda/memos_alternative_with_ios_client/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvkrda/memos_alternative_with_ios_client/">[comments]</a></span>
+
+## Are you shutting down your Homeserver when you are on vacation?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvk924/are_you_shutting_down_your_homeserver_when_you](https://www.reddit.com/r/selfhosted/comments/1cvk924/are_you_shutting_down_your_homeserver_when_you)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T09:18:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>maybe a strange question - but how are you handling your HomeServer when you are on vacation (e.g. 3 weeks).</p> <p>Currently, I'm always shutting down all my devices when I'm on a longer trip.</p> <p>Mainly, because with my previous PC the power supply got broken after 5 years, and it was restarting the PC every 5 seconds (Restore on AC / Power Loss was activated,). Half of my HDDs died because of &gt;100k SpinUps generated in one week, and I assume I'm lucky that nothing catched fire.</p> <p>So what is the best solution to have your selfhosted services available on vacation, even when you are not able to physically maintain your hardware in this time?</p> <p>(normally I would say: How low are the chances that something could go wrong? But I'm still traumatized ^^<br /> I'm even thinking about renting a VPS, to have at least my most important services available - even if I don't like the idea to have my data exposted to the hosting pro
+
+## Dedicated or shared hosting
+ - [https://www.reddit.com/r/selfhosted/comments/1cvk85m/dedicated_or_shared_hosting](https://www.reddit.com/r/selfhosted/comments/1cvk85m/dedicated_or_shared_hosting)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T09:16:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am hosting on a Vultr VPS, so I don't have my own hardware, which is fine for me.</p> <p>I am wondering when it makes sense to go from a VPS that has more resources to a dedicated server with less resources (that is, if you are looking for the same price level), but at least the resources are dedicated.</p> <p>Like does it make sense to go from 8 cores to 4?</p> <p>And is there a way to answer this analytically, e. g. if I wanted to compare both options simultaneously, what would I measure? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ekevu456"> /u/ekevu456 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvk85m/dedicated_or_shared_hosting/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvk85m/dedicated_or_shared_hosting/">[comments]</a></span>
+
+## Self hosted code development environment with Github integration?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvk7wu/self_hosted_code_development_environment_with](https://www.reddit.com/r/selfhosted/comments/1cvk7wu/self_hosted_code_development_environment_with)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T09:16:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Any recommendations for an IDE that can be self hosted (ie, a CDE) and which has good integration with Github out of the box? Thx! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/danielrosehill"> /u/danielrosehill </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvk7wu/self_hosted_code_development_environment_with/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvk7wu/self_hosted_code_development_environment_with/">[comments]</a></span>
+
+## Best way of hosting e-learning stuff (from Udemy, CBTNuggets, Pluralsight etc)…?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvk5pf/best_way_of_hosting_elearning_stuff_from_udemy](https://www.reddit.com/r/selfhosted/comments/1cvk5pf/best_way_of_hosting_elearning_stuff_from_udemy)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T09:11:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>As title really. </p> <p>I have a collection of courses I’ve downloaded and bought from various different e-learning platforms &amp; would like to be able to host these in a central location where I can watch the videos/keep tabs on my progress etc. </p> <p>Advantageous if I can share with other people too. </p> <p>My first thought was just to run a Plex/Emby/Jellyfin server but wondered if there was a more elegant solution available I might not have came across yet? Something more catered towards e-learning? Often a lot of courses come with additional materials that would be difficult to present through Plex and the like. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/watsee"> /u/watsee </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvk5pf/best_way_of_hosting_elearning_stuff_from_udemy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvk5pf/best_w
+
+## How can I optimize the cost of bandwidth in Azure when I am using a server as a proxy?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvip94/how_can_i_optimize_the_cost_of_bandwidth_in_azure](https://www.reddit.com/r/selfhosted/comments/1cvip94/how_can_i_optimize_the_cost_of_bandwidth_in_azure)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T07:24:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I am using 5 servers in Azure, each with 32 IPs, as proxies for scraping multiple domains. How can I optimize the cost of bandwidth for this case? </p> <p>I store all the data on servers in Amazon. </p> <p>Based on my calculations, if my servers are in Europe/USA, I pay $0.02 per 1 GB, correct?<br /> <a href="https://azure.microsoft.com/en-us/pricing/details/bandwidth/">https://azure.microsoft.com/en-us/pricing/details/bandwidth/</a></p> <p>Any suggestions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TonyFatTony"> /u/TonyFatTony </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvip94/how_can_i_optimize_the_cost_of_bandwidth_in_azure/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvip94/how_can_i_optimize_the_cost_of_bandwidth_in_azure/">[comments]</a></span>
+
+## Owncloud ocis
+ - [https://www.reddit.com/r/selfhosted/comments/1cvi5e2/owncloud_ocis](https://www.reddit.com/r/selfhosted/comments/1cvi5e2/owncloud_ocis)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T06:48:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently I saw that owncloud has been re written in go and I wonder if anyone has tried yet, and how to install it with docker. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kraizelburg"> /u/Kraizelburg </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvi5e2/owncloud_ocis/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvi5e2/owncloud_ocis/">[comments]</a></span>
+
+## Should I remove the battery?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvgsrs/should_i_remove_the_battery](https://www.reddit.com/r/selfhosted/comments/1cvgsrs/should_i_remove_the_battery)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T05:19:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm in kind of a dilemma. I finished setting everything I need on my old low powered laptop as a home server. Now the only thing is whether to remove or not to remove the battery. The laptop isn't even that old. It's from 2019 with low powered 2 Intel Celeron 4205U cores. CPU runs from 39°C to like 45°C as a server, mostly stays in 39°C. The battery is great, stays up to 10+ hours on full charge. Now what are the risks of keeping it plugged in all the time with the battery inside? is it really bad or should I just remove the battery?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BoxziBurrito"> /u/BoxziBurrito </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvgsrs/should_i_remove_the_battery/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvgsrs/should_i_remove_the_battery/">[comments]</a></span>
+
+## Having a hard time setting up file shares for Jellyfin
+ - [https://www.reddit.com/r/selfhosted/comments/1cvg7rm/having_a_hard_time_setting_up_file_shares_for](https://www.reddit.com/r/selfhosted/comments/1cvg7rm/having_a_hard_time_setting_up_file_shares_for)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T04:43:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I'm relatively new to self-hosting. A few days ago I came across this video: <a href="https://www.youtube.com/watch?v=Hu3t8pcq8O0">https://www.youtube.com/watch?v=Hu3t8pcq8O0</a></p> <p>I have some unused drives in my Proxmox host, so I figured I would give it a go. I made a ZFS pool and wanted to connect it to Jellyfin running in a VM with docker and also have the ability to use SMB shares on the same pool.</p> <p>Eventually, I concluded that I would need something like an LDAP to sync file permissions across different systems/vms. So I installed FreeIPA and got it all setup.</p> <p>Now I'm at the point that I can not for the life of me figure out how to sync the LDAP users against a WebUI for managing the file shares. I've tried the setup in the video, but 45Drives programmed their cockpit-file-sharing application to only look for users in the /etc/passwd file. So while I can see the LDAP users, I can't add them to SMB shares. -&gt; I cloned this
+
+## Hardware Requirements For VM
+ - [https://www.reddit.com/r/selfhosted/comments/1cvg4fx/hardware_requirements_for_vm](https://www.reddit.com/r/selfhosted/comments/1cvg4fx/hardware_requirements_for_vm)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T04:37:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Trying to do some research and learn.</p> <p>Objective:</p> <p>1 Server Hardware to run 2 VM</p> <p>Somehow have 2 work station via network boot to these VM</p> <p>Is this possible?</p> <p>If yes, the 2 work stations does it have to have a local hard drive? or can it be something even more bare then a proper PC.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fu19900514"> /u/fu19900514 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvg4fx/hardware_requirements_for_vm/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvg4fx/hardware_requirements_for_vm/">[comments]</a></span>
+
+## What is the best language and quickest way to learn to make webapps to selfhost?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvf2ea/what_is_the_best_language_and_quickest_way_to](https://www.reddit.com/r/selfhosted/comments/1cvf2ea/what_is_the_best_language_and_quickest_way_to)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T03:36:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am continually disappointed at the lack of options for a simple habit and task tracker and would like to make one. What time frame am I looking at from little knowledge to creating it if I work a little everyday? Is python the best language for this?</p> <p>Ticktick is pretty much perfect but I would like to create a FOSS version to selfhost. </p> <p>I've tried clickahabit (too basic), habitica (too gamified), nextcloud tasks (they're trying to do too much without doing the basics well.</p> <p>A daily journal with tasks in trilium is what I'm using now but I want to see stats and a more user friendly webapp version. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sexpusa"> /u/sexpusa </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvf2ea/what_is_the_best_language_and_quickest_way_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvf2ea/what_is_th
+
+## I just got hit with $1,300 in bandwidth fees at Azure
+ - [https://www.reddit.com/r/selfhosted/comments/1cveqi4/i_just_got_hit_with_1300_in_bandwidth_fees_at](https://www.reddit.com/r/selfhosted/comments/1cveqi4/i_just_got_hit_with_1300_in_bandwidth_fees_at)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T03:17:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have an MSDN sub and $50 monthly credit. I used it to establish a S2S VPN to my house and host a free 20mb/s Kemp Loadmaster. I use Kemp at work so I'm very comfortable with it, and it cost me just a few dollars a month in total, since it runs just over the $50 free allotment. The Loadbalancer is my public access point, and all the services get tunneled to my local home server. I've been running this for years now, just hosting Overseer and a few other very low bandwidth sites that are publicly exposed.</p> <p>Just the other day, my wife asks me what I spent $1300 at Microsoft. Umm, no idea. Digging into it, it looks like the Loadbalancer had tens of terabytes worth of egress over a random span of two days. No unusual bandwidth on the VPN, just in the tens to hundreds of megabytes range, so I have no idea what the traffic actually was. Nothing looked compromised, no ports even exposed other than the public IP address (management only accessible via 
+
+## Where do I start?
+ - [https://www.reddit.com/r/selfhosted/comments/1cveoa7/where_do_i_start](https://www.reddit.com/r/selfhosted/comments/1cveoa7/where_do_i_start)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T03:14:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am somewhat computer literate. I can DL movies/mod games/fix user errors etc. I heard recently that services such as Plex can store uploaded movies on a cloud server. I also heard perhaps Plex isn't the go to anymore. </p> <p>Is there a list of servers people let others use for free? If not, how does one start there own server? The idea of having infinite movies is very attractive.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pookie7890"> /u/pookie7890 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cveoa7/where_do_i_start/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cveoa7/where_do_i_start/">[comments]</a></span>
+
+## What would you spend an available ~$1000 on?
+ - [https://www.reddit.com/r/selfhosted/comments/1cvdwo9/what_would_you_spend_an_available_1000_on](https://www.reddit.com/r/selfhosted/comments/1cvdwo9/what_would_you_spend_an_available_1000_on)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T02:32:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, friends! I've come into a bit of money, and I'm trying to decide what to do. I have around $1000 that I can spend if I want to, and I want to put it into something around free software, free hardware, home automation, and the like.</p> <p>I have a linux desktop and and linux laptop, a home server running on an hp elitedesk, and a synology.</p> <p>What would <em>you</em> do with $1000 or some part thereof?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/benuski"> /u/benuski </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvdwo9/what_would_you_spend_an_available_1000_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvdwo9/what_would_you_spend_an_available_1000_on/">[comments]</a></span>
+
+## [Experimental] Self-hosted open-source alternative to GeForce NOW with Stadia's social features
+ - [https://www.reddit.com/r/selfhosted/comments/1cvdre9/experimental_selfhosted_opensource_alternative_to](https://www.reddit.com/r/selfhosted/comments/1cvdre9/experimental_selfhosted_opensource_alternative_to)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T02:23:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1cvdre9/experimental_selfhosted_opensource_alternative_to/"> <img alt="[Experimental] Self-hosted open-source alternative to GeForce NOW with Stadia's social features" src="https://external-preview.redd.it/dWoDney2dXI9wNFG0uO54tjnGqvAJQg4LSjU2ppjVEQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d204351c45485f326168ec49fb61216bcd316f8" title="[Experimental] Self-hosted open-source alternative to GeForce NOW with Stadia's social features" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WanjohiRyan"> /u/WanjohiRyan </a> <br /> <span><a href="https://github.com/netrisdotme/netris">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvdre9/experimental_selfhosted_opensource_alternative_to/">[comments]</a></span> </td></tr></table>
+
+## Backup Linux Server to my PC
+ - [https://www.reddit.com/r/selfhosted/comments/1cvcxxx/backup_linux_server_to_my_pc](https://www.reddit.com/r/selfhosted/comments/1cvcxxx/backup_linux_server_to_my_pc)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T01:40:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>I've been looking for a backup solution for my Linux Server for quite some time now and I found out that something like UrBackup or Kopia are the most suggested backup solutions. But I still want to ask, what is the best Tool (preferably with an UI) I can use to backup files and docker volumes to my PC so I can store it on my local HDD?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Felitendo"> /u/Felitendo </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvcxxx/backup_linux_server_to_my_pc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvcxxx/backup_linux_server_to_my_pc/">[comments]</a></span>
+
+## ssh behind vpn client
+ - [https://www.reddit.com/r/selfhosted/comments/1cvbgv2/ssh_behind_vpn_client](https://www.reddit.com/r/selfhosted/comments/1cvbgv2/ssh_behind_vpn_client)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T00:25:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am hoping someone can help me out I need to be able to access the SSH client on my server from outside the LAN while it is connected to OpenVPN server. but I have had no luck figuring our how to do this</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ill-Wishbone-4240"> /u/Ill-Wishbone-4240 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvbgv2/ssh_behind_vpn_client/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvbgv2/ssh_behind_vpn_client/">[comments]</a></span>
+
+## Oracle cloud
+ - [https://www.reddit.com/r/selfhosted/comments/1cvb67m/oracle_cloud](https://www.reddit.com/r/selfhosted/comments/1cvb67m/oracle_cloud)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-05-19T00:10:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello .. im running full arrs on my home linux wondering if vps can helped me with the CGNAT thing can’t open ports since my provider doesn’t offer any static ips .. my first question is vps gonna reduced speed for plex ? Also can’t find any tutorials about linking vps with home server .. I’ll appreciate any help here :) </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HopefulInitiative777"> /u/HopefulInitiative777 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvb67m/oracle_cloud/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1cvb67m/oracle_cloud/">[comments]</a></span>
+

@@ -1,0 +1,275 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Rudy Giuliani Complains Getting Served Indictment 'Wasn't Done Stylishly'
+ - [https://www.reddit.com/r/politics/comments/1cvzcta/rudy_giuliani_complains_getting_served_indictment](https://www.reddit.com/r/politics/comments/1cvzcta/rudy_giuliani_complains_getting_served_indictment)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T21:49:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvzcta/rudy_giuliani_complains_getting_served_indictment/"> <img alt="Rudy Giuliani Complains Getting Served Indictment 'Wasn't Done Stylishly'" src="https://external-preview.redd.it/t_iGD4NHQi3xF0gD9ktaUR9alRPBUoCsY78PB6KeyjU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a66f44c1ac4f55e7af898711272b49d5cb1fd39" title="Rudy Giuliani Complains Getting Served Indictment 'Wasn't Done Stylishly'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EnigmaElektra"> /u/EnigmaElektra </a> <br /> <span><a href="https://www.newsweek.com/rudy-giuliani-complains-getting-served-indictment-wasnt-done-stylishly-1902315">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvzcta/rudy_giuliani_complains_getting_served_indictment/">[comments]</a></span> </td></tr></table>
+
+## Trump suggests he could be a 3-term president if he wins election
+ - [https://www.reddit.com/r/politics/comments/1cvz7i6/trump_suggests_he_could_be_a_3term_president_if](https://www.reddit.com/r/politics/comments/1cvz7i6/trump_suggests_he_could_be_a_3term_president_if)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T21:42:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvz7i6/trump_suggests_he_could_be_a_3term_president_if/"> <img alt="Trump suggests he could be a 3-term president if he wins election" src="https://external-preview.redd.it/WBQK9piR9OYk8cVnhaBnNIqwjkwhsRMUNTA1W_I1sew.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=299e83ab2d5cf1f761d1628078497f16118af0da" title="Trump suggests he could be a 3-term president if he wins election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ubiquitous_Hilarity"> /u/Ubiquitous_Hilarity </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4673353-trump-suggests-he-could-be-a-three-term-president-if-he-wins-election/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvz7i6/trump_suggests_he_could_be_a_3term_president_if/">[comments]</a></span> </td></tr></table>
+
+## Trump says he won't give 'one penny' to schools with vaccine mandate
+ - [https://www.reddit.com/r/politics/comments/1cvyxwo/trump_says_he_wont_give_one_penny_to_schools_with](https://www.reddit.com/r/politics/comments/1cvyxwo/trump_says_he_wont_give_one_penny_to_schools_with)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T21:30:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sonu70"> /u/sonu70 </a> <br /> <span><a href="https://www.politico.com/video/2024/05/19/trump-says-he-wont-give-one-penny-to-schools-with-vaccine-mandate-1307910">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvyxwo/trump_says_he_wont_give_one_penny_to_schools_with/">[comments]</a></span>
+
+## Conservative scion Brent Bozell IV sentenced to nearly 4 years in Jan. 6 case
+ - [https://www.reddit.com/r/politics/comments/1cvwdn9/conservative_scion_brent_bozell_iv_sentenced_to](https://www.reddit.com/r/politics/comments/1cvwdn9/conservative_scion_brent_bozell_iv_sentenced_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T19:37:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvwdn9/conservative_scion_brent_bozell_iv_sentenced_to/"> <img alt="Conservative scion Brent Bozell IV sentenced to nearly 4 years in Jan. 6 case" src="https://external-preview.redd.it/goz-L0dZ3qfGrxziSgXX2sOFEgFj7qHDCzd2IiqwYnw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d243eea225ef1ff18ae4522b59b2f549b5c95236" title="Conservative scion Brent Bozell IV sentenced to nearly 4 years in Jan. 6 case" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nosotros_road_sodium"> /u/nosotros_road_sodium </a> <br /> <span><a href="https://www.nbcnews.com/politics/justice-department/conservative-scion-brent-bozell-iv-sentenced-jan-6-case-rcna151150">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvwdn9/conservative_scion_brent_bozell_iv_sentenced_to/">[comments]</a></span> </td></tr></table>
+
+## Farah Griffin: If Sotomayor flew upside-down flag GOP would call for her resignation
+ - [https://www.reddit.com/r/politics/comments/1cvvyv1/farah_griffin_if_sotomayor_flew_upsidedown_flag](https://www.reddit.com/r/politics/comments/1cvvyv1/farah_griffin_if_sotomayor_flew_upsidedown_flag)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T19:18:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvvyv1/farah_griffin_if_sotomayor_flew_upsidedown_flag/"> <img alt="Farah Griffin: If Sotomayor flew upside-down flag GOP would call for her resignation" src="https://external-preview.redd.it/LevcqYqCUd4JSk9UfDyZ9l3OeF9ph9JKvC3BJ4ohhbo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3cdff814e739068c290eeb1ad92c9c6b96aa54e8" title="Farah Griffin: If Sotomayor flew upside-down flag GOP would call for her resignation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SportsGod3"> /u/SportsGod3 </a> <br /> <span><a href="https://thehill.com/regulation/court-battles/4673167-farah-griffin-if-sonya-sotomayor-flew-upside-down-flag-gop-would-call-for-her-resignation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvvyv1/farah_griffin_if_sotomayor_flew_upsidedown_flag/">[comments]</a></span> </td></tr></table>
+
+## Fetterman: I think Biden will win Pennsylvania in 2024
+ - [https://www.reddit.com/r/politics/comments/1cvuunp/fetterman_i_think_biden_will_win_pennsylvania_in](https://www.reddit.com/r/politics/comments/1cvuunp/fetterman_i_think_biden_will_win_pennsylvania_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T18:28:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvuunp/fetterman_i_think_biden_will_win_pennsylvania_in/"> <img alt="Fetterman: I think Biden will win Pennsylvania in 2024" src="https://external-preview.redd.it/AEJvZlFOnVQowm1lslsfRtKOrx5a6NnCXWyAcYIB40w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db6d27fe920d9ae12bd88365f42cda88205a2d65" title="Fetterman: I think Biden will win Pennsylvania in 2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aslan_is_on_the_move"> /u/aslan_is_on_the_move </a> <br /> <span><a href="https://www.cnn.com/videos/politics/2024/05/19/sotu-fetterman-full-interview.cnn">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvuunp/fetterman_i_think_biden_will_win_pennsylvania_in/">[comments]</a></span> </td></tr></table>
+
+## Parroting Trump, GOP Rep. Donalds Baselessly Accuses Biden of Using ‘Injections’ to ‘Look Coherent’
+ - [https://www.reddit.com/r/politics/comments/1cvumnp/parroting_trump_gop_rep_donalds_baselessly](https://www.reddit.com/r/politics/comments/1cvumnp/parroting_trump_gop_rep_donalds_baselessly)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T18:19:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvumnp/parroting_trump_gop_rep_donalds_baselessly/"> <img alt="Parroting Trump, GOP Rep. Donalds Baselessly Accuses Biden of Using ‘Injections’ to ‘Look Coherent’" src="https://external-preview.redd.it/9r0bdWohNG5sq52FqFKrn7WfZwEvQJZXukiltGIn9HE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f12fbdabe9c839f65c25e9ea341990a0d558333" title="Parroting Trump, GOP Rep. Donalds Baselessly Accuses Biden of Using ‘Injections’ to ‘Look Coherent’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/byron-donalds-joe-biden-injections-look-coherent-1235023712/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvumnp/parroting_trump_gop_rep_donalds_baselessly/">[comments]</a></span> </td></tr></table>
+
+## Poll: Voter awareness of Inflation Reduction Act’s drug pricing provisions slowly rising
+ - [https://www.reddit.com/r/politics/comments/1cvuldf/poll_voter_awareness_of_inflation_reduction_acts](https://www.reddit.com/r/politics/comments/1cvuldf/poll_voter_awareness_of_inflation_reduction_acts)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T18:17:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvuldf/poll_voter_awareness_of_inflation_reduction_acts/"> <img alt="Poll: Voter awareness of Inflation Reduction Act’s drug pricing provisions slowly rising" src="https://external-preview.redd.it/YOzdE9tzGQVdr8S65wdKXm17_RHQiPSvYQLnhkM8QGI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c88f8e15c7dbaffab10992b0865f3e3f448ef00" title="Poll: Voter awareness of Inflation Reduction Act’s drug pricing provisions slowly rising" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aslan_is_on_the_move"> /u/aslan_is_on_the_move </a> <br /> <span><a href="https://thehill.com/policy/healthcare/4666175-poll-voter-awareness-inflation-reduction-act-drug-pricing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvuldf/poll_voter_awareness_of_inflation_reduction_acts/">[comments]</a></span> </td></tr></table>
+
+## Benedictine College nuns denounce Harrison Butker's speech at their school
+ - [https://www.reddit.com/r/politics/comments/1cvu4mz/benedictine_college_nuns_denounce_harrison](https://www.reddit.com/r/politics/comments/1cvu4mz/benedictine_college_nuns_denounce_harrison)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T17:56:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvu4mz/benedictine_college_nuns_denounce_harrison/"> <img alt="Benedictine College nuns denounce Harrison Butker's speech at their school" src="https://external-preview.redd.it/AD-Ysa47bYzVSIuivnVFZ-xtB7hxJtmA9xpqkzyXPjM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3571cee3d7064eb84ef560ec55aa8f63f1264735" title="Benedictine College nuns denounce Harrison Butker's speech at their school" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rustyseapants"> /u/rustyseapants </a> <br /> <span><a href="https://www.npr.org/2024/05/19/1252357764/harrison-butker-benedictine-college-commencement-nuns-denounce">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvu4mz/benedictine_college_nuns_denounce_harrison/">[comments]</a></span> </td></tr></table>
+
+## Trump appears to freeze for 30 seconds on stage during NRA speech
+ - [https://www.reddit.com/r/politics/comments/1cvtv71/trump_appears_to_freeze_for_30_seconds_on_stage](https://www.reddit.com/r/politics/comments/1cvtv71/trump_appears_to_freeze_for_30_seconds_on_stage)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T17:44:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvtv71/trump_appears_to_freeze_for_30_seconds_on_stage/"> <img alt="Trump appears to freeze for 30 seconds on stage during NRA speech" src="https://external-preview.redd.it/bN8JHSn_I_zeM9CCf3kBlXd9xc2Vd93b0cSxg67XyWc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c1fee7e0e11a2157c92bf3b6556019d5a862b5d" title="Trump appears to freeze for 30 seconds on stage during NRA speech" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-nra-speech-freeze-glitch-b2547583.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvtv71/trump_appears_to_freeze_for_30_seconds_on_stage/">[comments]</a></span> </td></tr></table>
+
+## Crockett offering ‘bleach blonde’ t-shirts following spat with Greene
+ - [https://www.reddit.com/r/politics/comments/1cvsxny/crockett_offering_bleach_blonde_tshirts_following](https://www.reddit.com/r/politics/comments/1cvsxny/crockett_offering_bleach_blonde_tshirts_following)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T17:01:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvsxny/crockett_offering_bleach_blonde_tshirts_following/"> <img alt="Crockett offering ‘bleach blonde’ t-shirts following spat with Greene" src="https://external-preview.redd.it/W9lgGiS-93uUkdn0cygnNN7aIH5rWDF3foKvhIOCBzw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=256bfe7d6b9113832291933eac979c798fb2eb7b" title="Crockett offering ‘bleach blonde’ t-shirts following spat with Greene" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scarlet-Ivy"> /u/Scarlet-Ivy </a> <br /> <span><a href="https://thehill.com/homenews/house/4672905-crockett-offering-bleach-blonde-t-shirts-following-spat-with-greene/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvsxny/crockett_offering_bleach_blonde_tshirts_following/">[comments]</a></span> </td></tr></table>
+
+## GOP’s ‘Project 2025’ Plan May See the Rise of Dictator Trump
+ - [https://www.reddit.com/r/politics/comments/1cvsnft/gops_project_2025_plan_may_see_the_rise_of](https://www.reddit.com/r/politics/comments/1cvsnft/gops_project_2025_plan_may_see_the_rise_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T16:48:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvsnft/gops_project_2025_plan_may_see_the_rise_of/"> <img alt="GOP’s ‘Project 2025’ Plan May See the Rise of Dictator Trump" src="https://external-preview.redd.it/tZWdRAjZBEZlQpWkP2gt3Dc6Dj8BAhgcxoBUbakiLdA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e626f1d136fde8500e035eb91d0e1c04235eb436" title="GOP’s ‘Project 2025’ Plan May See the Rise of Dictator Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tycooperaow"> /u/tycooperaow </a> <br /> <span><a href="https://www.thedailybeast.com/gops-project-2025-plan-may-see-the-rise-of-dictator-donald-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvsnft/gops_project_2025_plan_may_see_the_rise_of/">[comments]</a></span> </td></tr></table>
+
+## ‘We’ll See You at Your House:’ How Fear and Menace Are Transforming Politics
+ - [https://www.reddit.com/r/politics/comments/1cvs22h/well_see_you_at_your_house_how_fear_and_menace](https://www.reddit.com/r/politics/comments/1cvs22h/well_see_you_at_your_house_how_fear_and_menace)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T16:21:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvs22h/well_see_you_at_your_house_how_fear_and_menace/"> <img alt="‘We’ll See You at Your House:’ How Fear and Menace Are Transforming Politics" src="https://external-preview.redd.it/-ZqGtGSILrYYmdDaOdXAbgS37e9INnvLxZFQnNCkpBk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5781887f8f7acd5cc24c939f39e5a8ea791dc9ba" title="‘We’ll See You at Your House:’ How Fear and Menace Are Transforming Politics" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mhb-210-"> /u/mhb-210- </a> <br /> <span><a href="https://www.nytimes.com/2024/05/19/us/politics/political-violence.html?smtyp=cur&amp;smid=bsky-nytimes">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvs22h/well_see_you_at_your_house_how_fear_and_menace/">[comments]</a></span> </td></tr></table>
+
+## Stefanik Loses It When Fox News Host Reminds Her She Called Trump a ‘Whack Job’
+ - [https://www.reddit.com/r/politics/comments/1cvrzs9/stefanik_loses_it_when_fox_news_host_reminds_her](https://www.reddit.com/r/politics/comments/1cvrzs9/stefanik_loses_it_when_fox_news_host_reminds_her)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T16:18:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvrzs9/stefanik_loses_it_when_fox_news_host_reminds_her/"> <img alt="Stefanik Loses It When Fox News Host Reminds Her She Called Trump a ‘Whack Job’" src="https://external-preview.redd.it/71f26qorLV5HJLvlg9jOVECvpFa7EiCnqEgsPC9Fu34.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2b4eb7b7f0fda7bce565069e29348488ee509d6" title="Stefanik Loses It When Fox News Host Reminds Her She Called Trump a ‘Whack Job’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/stefanik-fox-news-trump-whack-job-1235023661/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvrzs9/stefanik_loses_it_when_fox_news_host_reminds_her/">[comments]</a></span> </td></tr></table>
+
+## Sen. Marco Rubio won't commit to accepting 2024 election results
+ - [https://www.reddit.com/r/politics/comments/1cvrkvj/sen_marco_rubio_wont_commit_to_accepting_2024](https://www.reddit.com/r/politics/comments/1cvrkvj/sen_marco_rubio_wont_commit_to_accepting_2024)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T16:00:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvrkvj/sen_marco_rubio_wont_commit_to_accepting_2024/"> <img alt="Sen. Marco Rubio won't commit to accepting 2024 election results" src="https://external-preview.redd.it/Ror7QegDIBPSvcsixdoqIQbmaW3tnkkVgFLAW16xMb8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea9ecb3396cbd14a466f346f4951c7ecf91abd7a" title="Sen. Marco Rubio won't commit to accepting 2024 election results" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpaceElevatorMusic"> /u/SpaceElevatorMusic </a> <br /> <span><a href="https://www.nbcnews.com/politics/2024-election/marco-rubio-2024-election-results-rcna152954">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvrkvj/sen_marco_rubio_wont_commit_to_accepting_2024/">[comments]</a></span> </td></tr></table>
+
+## Greg Abbott pardoning killer of Black Lives Matter protester sends chilling message
+ - [https://www.reddit.com/r/politics/comments/1cvr9r8/greg_abbott_pardoning_killer_of_black_lives](https://www.reddit.com/r/politics/comments/1cvr9r8/greg_abbott_pardoning_killer_of_black_lives)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T15:47:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvr9r8/greg_abbott_pardoning_killer_of_black_lives/"> <img alt="Greg Abbott pardoning killer of Black Lives Matter protester sends chilling message" src="https://external-preview.redd.it/zm6Uy_Z8wsHYEcBN8Rzmsyw3Bvmf-O61CjSWnos0hDM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=341f9c1a19454b2b3cf4b376250f26dd1e993876" title="Greg Abbott pardoning killer of Black Lives Matter protester sends chilling message" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chemprof4real"> /u/chemprof4real </a> <br /> <span><a href="https://www.msnbc.com/opinion/msnbc-opinion/greg-abbott-daniel-perry-pardon-rcna152769">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvr9r8/greg_abbott_pardoning_killer_of_black_lives/">[comments]</a></span> </td></tr></table>
+
+## Rep. Crockett Says MTG Was ‘Absolutely’ Racist During Confrontation in House Hearing
+ - [https://www.reddit.com/r/politics/comments/1cvqzmw/rep_crockett_says_mtg_was_absolutely_racist](https://www.reddit.com/r/politics/comments/1cvqzmw/rep_crockett_says_mtg_was_absolutely_racist)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T15:34:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvqzmw/rep_crockett_says_mtg_was_absolutely_racist/"> <img alt="Rep. Crockett Says MTG Was ‘Absolutely’ Racist During Confrontation in House Hearing" src="https://external-preview.redd.it/2lPZfiVb6knysiucNDH_1PXdd6JNlAkLi8-5UnPMRbA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9392a1ae4fe28516fbb5e781490714c1a7ed8c16" title="Rep. Crockett Says MTG Was ‘Absolutely’ Racist During Confrontation in House Hearing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/jasmine-crockett-mtg-absolutely-racist-1235023649/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvqzmw/rep_crockett_says_mtg_was_absolutely_racist/">[comments]</a></span> </td></tr></table>
+
+## Raskin on upside-down flag at Alito home: ‘It’s a very clear conflict of interest’
+ - [https://www.reddit.com/r/politics/comments/1cvqljq/raskin_on_upsidedown_flag_at_alito_home_its_a](https://www.reddit.com/r/politics/comments/1cvqljq/raskin_on_upsidedown_flag_at_alito_home_its_a)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T15:17:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvqljq/raskin_on_upsidedown_flag_at_alito_home_its_a/"> <img alt="Raskin on upside-down flag at Alito home: ‘It’s a very clear conflict of interest’" src="https://external-preview.redd.it/rUBoVfR0UhHAktbdMmXLfx5GQtNZ5zjk9dQXeUj9u9s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcddc97b98107a5ce385303185fe471b8b8a56a7" title="Raskin on upside-down flag at Alito home: ‘It’s a very clear conflict of interest’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plastic-Age5205"> /u/Plastic-Age5205 </a> <br /> <span><a href="https://thehill.com/homenews/house/4672779-jamie-raskin-upside-down-flag-samuel-alito-supreme-court/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvqljq/raskin_on_upsidedown_flag_at_alito_home_its_a/">[comments]</a></span> </td></tr></table>
+
+## Trump floats idea of three-term presidency at NRA convention
+ - [https://www.reddit.com/r/politics/comments/1cvq4jq/trump_floats_idea_of_threeterm_presidency_at_nra](https://www.reddit.com/r/politics/comments/1cvq4jq/trump_floats_idea_of_threeterm_presidency_at_nra)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T14:56:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvq4jq/trump_floats_idea_of_threeterm_presidency_at_nra/"> <img alt="Trump floats idea of three-term presidency at NRA convention" src="https://external-preview.redd.it/e-QUdIJLnMxEDGUy6mUCTd4QXbSdcBdjhLB4wiqlY3w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=895cbf9b77ff6981cae53193f9b4b0df007e6e27" title="Trump floats idea of three-term presidency at NRA convention" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/may/19/trump-nra-convention-dallas">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvq4jq/trump_floats_idea_of_threeterm_presidency_at_nra/">[comments]</a></span> </td></tr></table>
+
+## Raskin says it’s ‘worth investigating’ whether House members were drinking in hearing room
+ - [https://www.reddit.com/r/politics/comments/1cvpr48/raskin_says_its_worth_investigating_whether_house](https://www.reddit.com/r/politics/comments/1cvpr48/raskin_says_its_worth_investigating_whether_house)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T14:39:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvpr48/raskin_says_its_worth_investigating_whether_house/"> <img alt="Raskin says it’s ‘worth investigating’ whether House members were drinking in hearing room" src="https://external-preview.redd.it/zCaxBY5ZeseAmzEN2jYAUboG39xOdMFrM8JczA_0t4c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f38c28e8c936a7776ace57130a4807cf93ee1f01" title="Raskin says it’s ‘worth investigating’ whether House members were drinking in hearing room" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infidel8"> /u/Infidel8 </a> <br /> <span><a href="https://thehill.com/homenews/house/4671167-raskin-drinking-oversight-hearing-marjorie-taylor-greene-osasio-cortez-crockett/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvpr48/raskin_says_its_worth_investigating_whether_house/">[comments]</a></span> </td></tr></table>
+
+## Don't fall for MAGA's "election integrity" con job: Journalists — and the rest of us — need to quit parroting Republicans' transparent lies about voting
+ - [https://www.reddit.com/r/politics/comments/1cvppm0/dont_fall_for_magas_election_integrity_con_job](https://www.reddit.com/r/politics/comments/1cvppm0/dont_fall_for_magas_election_integrity_con_job)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T14:37:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvppm0/dont_fall_for_magas_election_integrity_con_job/"> <img alt="Don't fall for MAGA's &quot;election integrity&quot; con job: Journalists — and the rest of us — need to quit parroting Republicans' transparent lies about voting" src="https://external-preview.redd.it/WiyXhgRca6CB38S2ALIZWUChJ26cNbU-PB_UVzCtA5k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3870589f9e0552223175ce06f94558d2b00f2c6" title="Don't fall for MAGA's &quot;election integrity&quot; con job: Journalists — and the rest of us — need to quit parroting Republicans' transparent lies about voting" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.salon.com/2024/05/19/dont-fall-for-magas-election-integrity-con-job/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvppm0/dont_fall_for_magas_election_integrity_con_job/">[co
+
+## Why can’t America have high speed rail? Because our investment is a ‘rounding error’ compared with Europe's, says Amtrak’s CEO
+ - [https://www.reddit.com/r/politics/comments/1cvouqc/why_cant_america_have_high_speed_rail_because_our](https://www.reddit.com/r/politics/comments/1cvouqc/why_cant_america_have_high_speed_rail_because_our)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T13:56:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvouqc/why_cant_america_have_high_speed_rail_because_our/"> <img alt="Why can’t America have high speed rail? Because our investment is a ‘rounding error’ compared with Europe's, says Amtrak’s CEO" src="https://external-preview.redd.it/JO_HmO7a_Vus4v4cKBu3yCB53xIwR7Qe9Huq-0qXR18.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd4e35220aee58062e8af25ac5820e92a2f63098" title="Why can’t America have high speed rail? Because our investment is a ‘rounding error’ compared with Europe's, says Amtrak’s CEO" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/teamworldunity"> /u/teamworldunity </a> <br /> <span><a href="https://fortune.com/2024/05/19/high-speed-trains-us-vs-europe-china-japan-amtrak-ceo-freight-infrastructure/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvouqc/why_cant_america_have_high_speed_rail_because_our/">[comments]</a></span> </td></
+
+## What we've learned so far in the Trump hush money trial and what to watch for as it wraps up
+ - [https://www.reddit.com/r/politics/comments/1cvnarc/what_weve_learned_so_far_in_the_trump_hush_money](https://www.reddit.com/r/politics/comments/1cvnarc/what_weve_learned_so_far_in_the_trump_hush_money)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T12:35:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvnarc/what_weve_learned_so_far_in_the_trump_hush_money/"> <img alt="What we've learned so far in the Trump hush money trial and what to watch for as it wraps up" src="https://external-preview.redd.it/ZnCUMLrpfV6Qs4epH0zOJrXUmdr3_m5l5_p4hC7XmCY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e651b4a2f13c701561874db4154f9e4b08285df" title="What we've learned so far in the Trump hush money trial and what to watch for as it wraps up" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kirby__000"> /u/kirby__000 </a> <br /> <span><a href="https://apnews.com/article/trump-hush-money-stormy-daniels-michael-cohen-2723054e49944eecb6c86008ec4adabd">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvnarc/what_weve_learned_so_far_in_the_trump_hush_money/">[comments]</a></span> </td></tr></table>
+
+## Why Health Care Leaders Are Sounding an Alarm About the Danger of a Trump Presidency
+ - [https://www.reddit.com/r/politics/comments/1cvn2hb/why_health_care_leaders_are_sounding_an_alarm](https://www.reddit.com/r/politics/comments/1cvn2hb/why_health_care_leaders_are_sounding_an_alarm)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T12:22:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvn2hb/why_health_care_leaders_are_sounding_an_alarm/"> <img alt="Why Health Care Leaders Are Sounding an Alarm About the Danger of a Trump Presidency" src="https://external-preview.redd.it/2wZgEuLZAASRB4QKR_VEIP2pXok9ROJsTiIOJkaufK0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb6e643dea1ad38c19f631a190f2420de90a4015" title="Why Health Care Leaders Are Sounding an Alarm About the Danger of a Trump Presidency" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sandyWB"> /u/sandyWB </a> <br /> <span><a href="https://capitalandmain.com/why-health-care-leaders-are-sounding-an-alarm-about-the-danger-of-a-trump-presidency">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvn2hb/why_health_care_leaders_are_sounding_an_alarm/">[comments]</a></span> </td></tr></table>
+
+## Former Far-Right Hard-Liner Says Billionaires Are Using School Board Races to Sow Distrust in Public Education
+ - [https://www.reddit.com/r/politics/comments/1cvmr7y/former_farright_hardliner_says_billionaires_are](https://www.reddit.com/r/politics/comments/1cvmr7y/former_farright_hardliner_says_billionaires_are)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T12:05:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvmr7y/former_farright_hardliner_says_billionaires_are/"> <img alt="Former Far-Right Hard-Liner Says Billionaires Are Using School Board Races to Sow Distrust in Public Education" src="https://external-preview.redd.it/eMHE0DkJiCj6QUhYR84i7w8u5MnG3SaNtab8WQoDsKM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4472d605f5193cfc88b35b960f85638bf891228" title="Former Far-Right Hard-Liner Says Billionaires Are Using School Board Races to Sow Distrust in Public Education" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kait2121"> /u/kait2121 </a> <br /> <span><a href="https://www.propublica.org/article/texas-tim-dunn-wilks-brothers-vouchers-courtney-gore">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvmr7y/former_farright_hardliner_says_billionaires_are/">[comments]</a></span> </td></tr></table>
+
+## Israel does not deserve another nickel, Bernie Sanders says
+ - [https://www.reddit.com/r/politics/comments/1cvm72d/israel_does_not_deserve_another_nickel_bernie](https://www.reddit.com/r/politics/comments/1cvm72d/israel_does_not_deserve_another_nickel_bernie)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T11:32:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvm72d/israel_does_not_deserve_another_nickel_bernie/"> <img alt="Israel does not deserve another nickel, Bernie Sanders says" src="https://external-preview.redd.it/GFo7fT8WAtE9uDzBoia0eEp86vBcLxxlDOmWQ6e0EEU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=588f397c23998754b1e834fb36110cc6a40a17de" title="Israel does not deserve another nickel, Bernie Sanders says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheKeyPa"> /u/TheKeyPa </a> <br /> <span><a href="https://www.upi.com/Top_News/US/2024/05/12/bernie-sanders-israel-not-another-nickel/7321715531448/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvm72d/israel_does_not_deserve_another_nickel_bernie/">[comments]</a></span> </td></tr></table>
+
+## Trump Ends NRA Speech With ‘Horror’ Warning Set to Dramatic QAnon Music - In a melodramatic monologue, the former president said America was a “failing nation” and a “third-world nation” with an economy that’s becoming a “cesspool of ruin.”
+ - [https://www.reddit.com/r/politics/comments/1cvm5sd/trump_ends_nra_speech_with_horror_warning_set_to](https://www.reddit.com/r/politics/comments/1cvm5sd/trump_ends_nra_speech_with_horror_warning_set_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T11:30:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvm5sd/trump_ends_nra_speech_with_horror_warning_set_to/"> <img alt="Trump Ends NRA Speech With ‘Horror’ Warning Set to Dramatic QAnon Music - In a melodramatic monologue, the former president said America was a “failing nation” and a “third-world nation” with an economy that’s becoming a “cesspool of ruin.”" src="https://external-preview.redd.it/I68hRN8VCQvxlgdZaF7z2zE5Sp25jTdFN0I-uAp3pFM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d2e9131ac3ae3a1c1230a9f111f4c87acbf2cc2" title="Trump Ends NRA Speech With ‘Horror’ Warning Set to Dramatic QAnon Music - In a melodramatic monologue, the former president said America was a “failing nation” and a “third-world nation” with an economy that’s becoming a “cesspool of ruin.”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.thedailybeast.com/trump-ends-nra-speech-with-horror-warn
+
+## Conservative media personality appointed to seat on Georgia State Election Board
+ - [https://www.reddit.com/r/politics/comments/1cvlvg3/conservative_media_personality_appointed_to_seat](https://www.reddit.com/r/politics/comments/1cvlvg3/conservative_media_personality_appointed_to_seat)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T11:11:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvlvg3/conservative_media_personality_appointed_to_seat/"> <img alt="Conservative media personality appointed to seat on Georgia State Election Board" src="https://external-preview.redd.it/olvQ7SzqvmkxkuuDTGXYfAFGl-y6NHRQAVN7sf1RB_E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25bf188f87260ed58395855e5669c37aad2c4039" title="Conservative media personality appointed to seat on Georgia State Election Board" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FreeChickenDinner"> /u/FreeChickenDinner </a> <br /> <span><a href="https://apnews.com/article/janelle-king-georgia-state-election-board-527f5a74d2625837bcbe0e3ec80e2390">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvlvg3/conservative_media_personality_appointed_to_seat/">[comments]</a></span> </td></tr></table>
+
+## Trump turns trial into circus as Biden tries to focus minds on economy
+ - [https://www.reddit.com/r/politics/comments/1cvltas/trump_turns_trial_into_circus_as_biden_tries_to](https://www.reddit.com/r/politics/comments/1cvltas/trump_turns_trial_into_circus_as_biden_tries_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T11:07:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvltas/trump_turns_trial_into_circus_as_biden_tries_to/"> <img alt="Trump turns trial into circus as Biden tries to focus minds on economy" src="https://external-preview.redd.it/KTtcWv1HDGSCtmS4kOWymtudaSGyOgO6rgITkotbJ3o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df8521e6cfb1150aec90348363566723a0d9f7e7" title="Trump turns trial into circus as Biden tries to focus minds on economy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bakhesh"> /u/bakhesh </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/may/19/trump-trial-republican-biden-economy">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvltas/trump_turns_trial_into_circus_as_biden_tries_to/">[comments]</a></span> </td></tr></table>
+
+## Praying for Armageddon - American Fundamental Christians
+ - [https://www.reddit.com/r/politics/comments/1cvju4g/praying_for_armageddon_american_fundamental](https://www.reddit.com/r/politics/comments/1cvju4g/praying_for_armageddon_american_fundamental)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T08:46:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvju4g/praying_for_armageddon_american_fundamental/"> <img alt="Praying for Armageddon - American Fundamental Christians" src="https://external-preview.redd.it/4iu6BUOA1Di72k4fd5PF918m4CqjHBQG_229l92DIMQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=983a2d79af09c6b976aa47a66e4987cc3a8b5c7c" title="Praying for Armageddon - American Fundamental Christians" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EricUtd1878"> /u/EricUtd1878 </a> <br /> <span><a href="http://www.bbc.co.uk/iplayer/episode/m001z96s">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvju4g/praying_for_armageddon_american_fundamental/">[comments]</a></span> </td></tr></table>
+
+## I worked with Michael Cohen and covered Donald Trump. Guess which man I trust
+ - [https://www.reddit.com/r/politics/comments/1cvi7lo/i_worked_with_michael_cohen_and_covered_donald](https://www.reddit.com/r/politics/comments/1cvi7lo/i_worked_with_michael_cohen_and_covered_donald)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T06:52:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvi7lo/i_worked_with_michael_cohen_and_covered_donald/"> <img alt="I worked with Michael Cohen and covered Donald Trump. Guess which man I trust" src="https://external-preview.redd.it/rKBFWD5r5V_FYAse_Na_hSyGzoJlASuYrIrN3vPANpI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de5bdd8422526f6e701f5492ea26f87924525d15" title="I worked with Michael Cohen and covered Donald Trump. Guess which man I trust" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ben_watson_jr"> /u/ben_watson_jr </a> <br /> <span><a href="https://www.salon.com/2024/05/18/i-worked-with-michael-cohen-and-covered-donald-trump-guess-which-man-i-trust/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvi7lo/i_worked_with_michael_cohen_and_covered_donald/">[comments]</a></span> </td></tr></table>
+
+## How Can This Country Possibly Be Electing Trump Again?
+ - [https://www.reddit.com/r/politics/comments/1cvg3ft/how_can_this_country_possibly_be_electing_trump](https://www.reddit.com/r/politics/comments/1cvg3ft/how_can_this_country_possibly_be_electing_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T04:36:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvg3ft/how_can_this_country_possibly_be_electing_trump/"> <img alt="How Can This Country Possibly Be Electing Trump Again?" src="https://external-preview.redd.it/lOHHk8V1giWrWxMLwvb657i0PxfQKO76k9Xag8q1xHI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af5c7d594c5154ccb2e2a390eb12a42f519e2b77" title="How Can This Country Possibly Be Electing Trump Again?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ben_watson_jr"> /u/ben_watson_jr </a> <br /> <span><a href="https://newrepublic.com/article/181287/can-america-possibly-elect-trump-again">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvg3ft/how_can_this_country_possibly_be_electing_trump/">[comments]</a></span> </td></tr></table>
+
+## Trump at NRA convention floats a three-term presidency
+ - [https://www.reddit.com/r/politics/comments/1cven8e/trump_at_nra_convention_floats_a_threeterm](https://www.reddit.com/r/politics/comments/1cven8e/trump_at_nra_convention_floats_a_threeterm)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T03:12:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/WestParkSteve"> /u/WestParkSteve </a> <br /> <span><a href="https://www.politico.com/news/2024/05/18/trump-at-nra-convention-floats-a-three-term-presidency-00158786">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cven8e/trump_at_nra_convention_floats_a_threeterm/">[comments]</a></span>
+
+## Nikki Haley reemerges to thank big donors, not expected to endorse Trump
+ - [https://www.reddit.com/r/politics/comments/1cvdxw0/nikki_haley_reemerges_to_thank_big_donors_not](https://www.reddit.com/r/politics/comments/1cvdxw0/nikki_haley_reemerges_to_thank_big_donors_not)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T02:34:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvdxw0/nikki_haley_reemerges_to_thank_big_donors_not/"> <img alt="Nikki Haley reemerges to thank big donors, not expected to endorse Trump" src="https://external-preview.redd.it/9psEjJplaNMf7HlSX-n_P01i0s8YcB-eA7Cd0UQQukk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65fadffb9239af7065e77c8b6b373874d667c35b" title="Nikki Haley reemerges to thank big donors, not expected to endorse Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_snorkle_3798"> /u/Ok_snorkle_3798 </a> <br /> <span><a href="https://abcnews.go.com/Politics/nikki-haley-holds-donor-retreat-south-carolina-expected/story?id=110177175">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvdxw0/nikki_haley_reemerges_to_thank_big_donors_not/">[comments]</a></span> </td></tr></table>
+
+## Why Was Alito Flying the Flag Upside Down After January 6?
+ - [https://www.reddit.com/r/politics/comments/1cvdr5h/why_was_alito_flying_the_flag_upside_down_after](https://www.reddit.com/r/politics/comments/1cvdr5h/why_was_alito_flying_the_flag_upside_down_after)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T02:23:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvdr5h/why_was_alito_flying_the_flag_upside_down_after/"> <img alt="Why Was Alito Flying the Flag Upside Down After January 6?" src="https://external-preview.redd.it/IIcMz9wzPa_HYKbVBlmia7bqEE2D6Dfu9cTUMfIkms0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=429e9c52cf6b989afe0d2d91d85bb11e76968d58" title="Why Was Alito Flying the Flag Upside Down After January 6?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marji80"> /u/marji80 </a> <br /> <span><a href="https://www.theatlantic.com/ideas/archive/2024/05/justice-alito-upside-down-flag-jan-6/678410/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvdr5h/why_was_alito_flying_the_flag_upside_down_after/">[comments]</a></span> </td></tr></table>
+
+## North Carolina Republicans Vote to Ban Masks in Public — Even for Cancer Patients
+ - [https://www.reddit.com/r/politics/comments/1cvdakh/north_carolina_republicans_vote_to_ban_masks_in](https://www.reddit.com/r/politics/comments/1cvdakh/north_carolina_republicans_vote_to_ban_masks_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T01:59:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvdakh/north_carolina_republicans_vote_to_ban_masks_in/"> <img alt="North Carolina Republicans Vote to Ban Masks in Public — Even for Cancer Patients" src="https://external-preview.redd.it/IS0H2vTYEUiqddCqSfOybgLVIbuuNJ7TJFyWw_r3z7A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99922ae30673971bdda8788f50ad0ed00983d1c9" title="North Carolina Republicans Vote to Ban Masks in Public — Even for Cancer Patients" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drunkles"> /u/drunkles </a> <br /> <span><a href="https://www.newsweek.com/north-carolina-senate-vote-masks-anti-health-1901894">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvdakh/north_carolina_republicans_vote_to_ban_masks_in/">[comments]</a></span> </td></tr></table>
+
+## Sisters in Christ group pays property taxes on Senate candidate Steve Garvey’s home. Why?
+ - [https://www.reddit.com/r/politics/comments/1cvcrsb/sisters_in_christ_group_pays_property_taxes_on](https://www.reddit.com/r/politics/comments/1cvcrsb/sisters_in_christ_group_pays_property_taxes_on)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T01:32:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvcrsb/sisters_in_christ_group_pays_property_taxes_on/"> <img alt="Sisters in Christ group pays property taxes on Senate candidate Steve Garvey’s home. Why?" src="https://external-preview.redd.it/CAtyM9CCyCu9s8WaumDDEGKcj3FVWOJdQvdg0VmGpdI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61e778bc8ad07b0337646e3bdc050e68cb860433" title="Sisters in Christ group pays property taxes on Senate candidate Steve Garvey’s home. Why?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wenchette"> /u/wenchette </a> <br /> <span><a href="https://www.sacbee.com/news/politics-government/capitol-alert/article288533909.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvcrsb/sisters_in_christ_group_pays_property_taxes_on/">[comments]</a></span> </td></tr></table>
+
+## “Outrageously” priced weight-loss drugs could bankrupt US health care
+ - [https://www.reddit.com/r/politics/comments/1cvc5z6/outrageously_priced_weightloss_drugs_could](https://www.reddit.com/r/politics/comments/1cvc5z6/outrageously_priced_weightloss_drugs_could)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T01:00:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvc5z6/outrageously_priced_weightloss_drugs_could/"> <img alt="“Outrageously” priced weight-loss drugs could bankrupt US health care" src="https://external-preview.redd.it/LA2osoLEOslXiA8c3ww3TP7oc-Wd4sItNAZuzXt1JfE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a22e049e5b90dd2bf17179990667ce3b8e663ad9" title="“Outrageously” priced weight-loss drugs could bankrupt US health care" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UGMadness"> /u/UGMadness </a> <br /> <span><a href="https://arstechnica.com/science/2024/05/outrageously-priced-weight-loss-drugs-could-bankrupt-us-health-care/?comments=1&amp;comments-page=1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvc5z6/outrageously_priced_weightloss_drugs_could/">[comments]</a></span> </td></tr></table>
+
+## Trump just gave Biden the perfect excuse to revive a key point of attack
+ - [https://www.reddit.com/r/politics/comments/1cvbfp8/trump_just_gave_biden_the_perfect_excuse_to](https://www.reddit.com/r/politics/comments/1cvbfp8/trump_just_gave_biden_the_perfect_excuse_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-19T00:23:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cvbfp8/trump_just_gave_biden_the_perfect_excuse_to/"> <img alt="Trump just gave Biden the perfect excuse to revive a key point of attack" src="https://external-preview.redd.it/DE4H2fiTefjtQ5HBNKI18EjIeXEAx28twtbUxjdmhYg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=381aa14b64505313e0282fe139920b86bd4f0fb4" title="Trump just gave Biden the perfect excuse to revive a key point of attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iymcool"> /u/iymcool </a> <br /> <span><a href="https://www.msnbc.com/opinion/msnbc-opinion/dow-40000-record-biden-inflation-trump-rcna152818">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cvbfp8/trump_just_gave_biden_the_perfect_excuse_to/">[comments]</a></span> </td></tr></table>
+

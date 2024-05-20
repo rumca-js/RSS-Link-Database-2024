@@ -1,0 +1,37 @@
+# Source:Amiga, URL:https://www.reddit.com/r/amiga/.rss, language:en
+
+## Alien Breed 3D: A Doom clone doing what Doom couldn't... while giving you nausea.
+ - [https://www.reddit.com/r/amiga/comments/1cvq7tc/alien_breed_3d_a_doom_clone_doing_what_doom](https://www.reddit.com/r/amiga/comments/1cvq7tc/alien_breed_3d_a_doom_clone_doing_what_doom)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-05-19T15:00:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1cvq7tc/alien_breed_3d_a_doom_clone_doing_what_doom/"> <img alt="Alien Breed 3D: A Doom clone doing what Doom couldn't... while giving you nausea." src="https://external-preview.redd.it/Crl5c8piXNMeXy9FzV1hiRg2vVGhWKDW9zneqnDXN7U.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4a67b161dab4dd5ad0e2f90c7d685de9cca9c5c6" title="Alien Breed 3D: A Doom clone doing what Doom couldn't... while giving you nausea." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MeehowPL"> /u/MeehowPL </a> <br /> <span><a href="https://youtu.be/igPxYnSG_OE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1cvq7tc/alien_breed_3d_a_doom_clone_doing_what_doom/">[comments]</a></span> </td></tr></table>
+
+## BlueSCSI tools for the Commodore Amiga
+ - [https://www.reddit.com/r/amiga/comments/1cvk226/bluescsi_tools_for_the_commodore_amiga](https://www.reddit.com/r/amiga/comments/1cvk226/bluescsi_tools_for_the_commodore_amiga)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-05-19T09:03:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1cvk226/bluescsi_tools_for_the_commodore_amiga/"> <img alt="BlueSCSI tools for the Commodore Amiga" src="https://external-preview.redd.it/f41ZWhJOz_OxUBqk4XgIl8viAGpjN_QaTC7OqmFkdQw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d7bc4b1a341babf3a1cd1cd90133931d519e35a" title="BlueSCSI tools for the Commodore Amiga" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Doener23"> /u/Doener23 </a> <br /> <span><a href="https://github.com/paulroberthill/BlueSCSI-toolbox-Amiga">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1cvk226/bluescsi_tools_for_the_commodore_amiga/">[comments]</a></span> </td></tr></table>
+
+## I wonder whatever happened to...
+ - [https://www.reddit.com/r/amiga/comments/1cvjsne/i_wonder_whatever_happened_to](https://www.reddit.com/r/amiga/comments/1cvjsne/i_wonder_whatever_happened_to)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-05-19T08:43:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>When I was in middle school and looking at buying an Amiga, and hanging out at Waldorf computers in Alexandria, VA, there was a high-school guy who had written his own 3D modelling program. It was REALLY impressive. I remember he was showing the &quot;lathe&quot; tool he had created for it. I remember he had long hair and an Asian girlfriend. I've always wondered what happened to him.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wuddntme"> /u/Wuddntme </a> <br /> <span><a href="https://www.reddit.com/r/amiga/comments/1cvjsne/i_wonder_whatever_happened_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1cvjsne/i_wonder_whatever_happened_to/">[comments]</a></span>
+
+## 3D Animation in the 1990s. It was a thing.
+ - [https://www.reddit.com/r/amiga/comments/1cvid7m/3d_animation_in_the_1990s_it_was_a_thing](https://www.reddit.com/r/amiga/comments/1cvid7m/3d_animation_in_the_1990s_it_was_a_thing)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-05-19T07:02:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1cvid7m/3d_animation_in_the_1990s_it_was_a_thing/"> <img alt="3D Animation in the 1990s. It was a thing." src="https://external-preview.redd.it/ZYLHj-Zu_GRlZgk0n-xmbAFc6TYEUs-N0zd-eWdZyIU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ad6a1e88baf14d1e84579ea57c9f54ac731184ab" title="3D Animation in the 1990s. It was a thing." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hold-and-Modify"> /u/Hold-and-Modify </a> <br /> <span><a href="https://youtu.be/86GdMyzSpTI?si=fwn9Nl7RNlS7l1mT">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1cvid7m/3d_animation_in_the_1990s_it_was_a_thing/">[comments]</a></span> </td></tr></table>
+
+## Happy to share - my project is near completion!
+ - [https://www.reddit.com/r/amiga/comments/1cvctb4/happy_to_share_my_project_is_near_completion](https://www.reddit.com/r/amiga/comments/1cvctb4/happy_to_share_my_project_is_near_completion)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-05-19T01:34:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1cvctb4/happy_to_share_my_project_is_near_completion/"> <img alt="Happy to share - my project is near completion!" src="https://external-preview.redd.it/eGZnaDd0ZDFlYTFkMXdZopaR5O46he8Ajp-bExqdeKWDzWrsU59e-jE-Rx6L.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d09826c60154471efc56d54e248c919d3403249" title="Happy to share - my project is near completion!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>A1200 PAL A1200.net case A59 rastport.com A1200 mechanical keyboard PiStorm32 Lite Raspberry Pi 4B Gotek + black support brackets Black PSU Black wireless Tank mouse Running latest AmiKit</p> <p>Just missing on Indivision</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/retromarket"> /u/retromarket </a> <br /> <span><a href="https://v.redd.it/8nshy3i1ea1d1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1cvctb4/happy_to_share_my_project_is_near_c
+
