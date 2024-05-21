@@ -1,0 +1,324 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Brutal Donald Trump Biopic ‘The Apprentice’ Gets 8-Minute Cannes Standing Ovation as Director Says ‘It’s Time to Make Movies Political Again’
+ - [https://www.reddit.com/r/politics/comments/1cws0kh/brutal_donald_trump_biopic_the_apprentice_gets](https://www.reddit.com/r/politics/comments/1cws0kh/brutal_donald_trump_biopic_the_apprentice_gets)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T22:12:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cws0kh/brutal_donald_trump_biopic_the_apprentice_gets/"> <img alt="Brutal Donald Trump Biopic ‘The Apprentice’ Gets 8-Minute Cannes Standing Ovation as Director Says ‘It’s Time to Make Movies Political Again’" src="https://external-preview.redd.it/wdMCeMURI3zgWx3KjHSP905dmX33MqCoK_sc4s8_KYc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cdb7e0228737ddbe8b9803aadfc34e07b0ecc681" title="Brutal Donald Trump Biopic ‘The Apprentice’ Gets 8-Minute Cannes Standing Ovation as Director Says ‘It’s Time to Make Movies Political Again’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hopeforpeace19"> /u/Hopeforpeace19 </a> <br /> <span><a href="https://variety.com/2024/film/markets-festivals/sebastian-stan-the-apprentice-cannes-standing-ovation-trump-1236009678/amp/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cws0kh/brutal_donald_trump_biopic_the_apprenti
+
+## Pro-Trump Moron Tries to Block Anti-Trump Film That He Funded
+ - [https://www.reddit.com/r/politics/comments/1cwrm2s/protrump_moron_tries_to_block_antitrump_film_that](https://www.reddit.com/r/politics/comments/1cwrm2s/protrump_moron_tries_to_block_antitrump_film_that)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T21:55:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwrm2s/protrump_moron_tries_to_block_antitrump_film_that/"> <img alt="Pro-Trump Moron Tries to Block Anti-Trump Film That He Funded" src="https://external-preview.redd.it/1JVA6ldrqXZQXpLaAgJxGuH-WHbhvpOH6nJxWSevdEo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb8574959e5f83504f39a8453a69a91ddaa15a67" title="Pro-Trump Moron Tries to Block Anti-Trump Film That He Funded" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ben_watson_jr"> /u/ben_watson_jr </a> <br /> <span><a href="https://newrepublic.com/post/181762/pro-trump-moron-tries-block-anti-trump-film-funded">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwrm2s/protrump_moron_tries_to_block_antitrump_film_that/">[comments]</a></span> </td></tr></table>
+
+## Biden Fared Well at Morehouse. So You Didn’t Hear About It.
+ - [https://www.reddit.com/r/politics/comments/1cwqpbq/biden_fared_well_at_morehouse_so_you_didnt_hear](https://www.reddit.com/r/politics/comments/1cwqpbq/biden_fared_well_at_morehouse_so_you_didnt_hear)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T21:16:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwqpbq/biden_fared_well_at_morehouse_so_you_didnt_hear/"> <img alt="Biden Fared Well at Morehouse. So You Didn’t Hear About It." src="https://external-preview.redd.it/VltAtQe-8sMp2SjXYfg9piKY15QkTD-4cJl8KJKs6Xs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f6e4a4f9319d6355f7e4d728bf8f77c7a86f20f" title="Biden Fared Well at Morehouse. So You Didn’t Hear About It." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenationmagazine"> /u/thenationmagazine </a> <br /> <span><a href="https://www.thenation.com/article/politics/biden-harris-morehouse/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwqpbq/biden_fared_well_at_morehouse_so_you_didnt_hear/">[comments]</a></span> </td></tr></table>
+
+## ‘Are you staring me down?’: Furious judge clears courtroom after Trump defense witness sighs and rolls eyes from the stand
+ - [https://www.reddit.com/r/politics/comments/1cwq54t/are_you_staring_me_down_furious_judge_clears](https://www.reddit.com/r/politics/comments/1cwq54t/are_you_staring_me_down_furious_judge_clears)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T20:53:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwq54t/are_you_staring_me_down_furious_judge_clears/"> <img alt="‘Are you staring me down?’: Furious judge clears courtroom after Trump defense witness sighs and rolls eyes from the stand" src="https://external-preview.redd.it/ymwTpVCHAFaJJmIgKGc2ww5I0ouUcc-gyvKh7DoxRFU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71b89d545e4f0f09c4c9fecd3082b236963ac150" title="‘Are you staring me down?’: Furious judge clears courtroom after Trump defense witness sighs and rolls eyes from the stand" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/robert-costello-michael-cohen-trump-trial-b2548353.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwq54t/are_you_staring_me_down_furious_judge_clears/">[comments]</a></span> </td
+
+## Trump Makes Big Slip-Up in Rambling Rant Outside of Hush-Money Trial
+ - [https://www.reddit.com/r/politics/comments/1cwpb3w/trump_makes_big_slipup_in_rambling_rant_outside](https://www.reddit.com/r/politics/comments/1cwpb3w/trump_makes_big_slipup_in_rambling_rant_outside)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T20:18:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwpb3w/trump_makes_big_slipup_in_rambling_rant_outside/"> <img alt="Trump Makes Big Slip-Up in Rambling Rant Outside of Hush-Money Trial" src="https://external-preview.redd.it/UIe1KPX4g5iF4BgGtXLtvgDs6-wEaJpJXMoTMfkfeuk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c6a7879c05914185062a0a978df0d9450850af8" title="Trump Makes Big Slip-Up in Rambling Rant Outside of Hush-Money Trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/harsh2k5"> /u/harsh2k5 </a> <br /> <span><a href="https://newrepublic.com/post/181753/trump-slip-up-hush-money-trial">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwpb3w/trump_makes_big_slipup_in_rambling_rant_outside/">[comments]</a></span> </td></tr></table>
+
+## Prosecutors in Trump's hush money trial rest their case after 20 witnesses, over 200 exhibits
+ - [https://www.reddit.com/r/politics/comments/1cwo1kk/prosecutors_in_trumps_hush_money_trial_rest_their](https://www.reddit.com/r/politics/comments/1cwo1kk/prosecutors_in_trumps_hush_money_trial_rest_their)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T19:26:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwo1kk/prosecutors_in_trumps_hush_money_trial_rest_their/"> <img alt="Prosecutors in Trump's hush money trial rest their case after 20 witnesses, over 200 exhibits" src="https://external-preview.redd.it/PJCpozuiu5QUrcnsTA-No8jYcr1OCciHQ_AW4ne8OD4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c489f7784f998c4bf844bf88c22029a319ae495e" title="Prosecutors in Trump's hush money trial rest their case after 20 witnesses, over 200 exhibits" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ObjectiveAd6551"> /u/ObjectiveAd6551 </a> <br /> <span><a href="https://abcnews.go.com/US/prosecutors-trumps-hush-money-trial-rest-case-after/story?id=110390128">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwo1kk/prosecutors_in_trumps_hush_money_trial_rest_their/">[comments]</a></span> </td></tr></table>
+
+## Michael Cohen admits to stealing from Trump Organization while clawing back Stormy Daniels’ hush money | Cohen paid a tech firm to rig opinion polls for Trump, then overbilled his former boss as a form of ‘self help’
+ - [https://www.reddit.com/r/politics/comments/1cwnhja/michael_cohen_admits_to_stealing_from_trump](https://www.reddit.com/r/politics/comments/1cwnhja/michael_cohen_admits_to_stealing_from_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T19:04:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwnhja/michael_cohen_admits_to_stealing_from_trump/"> <img alt="Michael Cohen admits to stealing from Trump Organization while clawing back Stormy Daniels’ hush money | Cohen paid a tech firm to rig opinion polls for Trump, then overbilled his former boss as a form of ‘self help’" src="https://external-preview.redd.it/sdNoq0A2yavZdiAxPvE8OnGhaAd8lxvJYG3mBOXRFx4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3b210a367a34b8223395af80d7cf28698b7c067" title="Michael Cohen admits to stealing from Trump Organization while clawing back Stormy Daniels’ hush money | Cohen paid a tech firm to rig opinion polls for Trump, then overbilled his former boss as a form of ‘self help’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/michael-cohen-trump-testimony-theft-b2548212.
+
+## The "What happened in your state last week?" Megathread, Week 20
+ - [https://www.reddit.com/r/politics/comments/1cwn837/the_what_happened_in_your_state_last_week](https://www.reddit.com/r/politics/comments/1cwn837/the_what_happened_in_your_state_last_week)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T18:53:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Welcome to the 'What happened in your state last week' thread, where you can post any local political news stories that you find important in the comments. This is a weekly thread posted every Monday, in order to facilitate more discussion on local issues on <a href="/r/politics">/r/politics</a>. Since this is intended to be a thread about local politics, top-level comments that are exclusively about national issues will not be allowed. When commenting, please include the state you're living in, and don't forget to link sources. <strong>Also, please actually describe what happened. Things like &quot;I live in X, you know what happened&quot;, &quot;Nothing happened&quot; or &quot;[Politician] continues to be an idiot&quot; isn't helpful to users and will be removed.</strong></p> <p>If someone from your state made a news round-up that you think is insufficient, feel free to comment to that round-up with further news stories. Enjoy discussion, and review
+
+## Many remember solid economy under Trump, but his record also full of tax cut hype, debt and disease
+ - [https://www.reddit.com/r/politics/comments/1cwmpz8/many_remember_solid_economy_under_trump_but_his](https://www.reddit.com/r/politics/comments/1cwmpz8/many_remember_solid_economy_under_trump_but_his)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T18:33:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwmpz8/many_remember_solid_economy_under_trump_but_his/"> <img alt="Many remember solid economy under Trump, but his record also full of tax cut hype, debt and disease" src="https://external-preview.redd.it/8etUC2H-VFrGI82VFKj2KfoQI_7pPI8CIXd1_aAnH50.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=621dd2b1ec3ba96e05fce57c1be957c01922b941" title="Many remember solid economy under Trump, but his record also full of tax cut hype, debt and disease" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scarlet-Ivy"> /u/Scarlet-Ivy </a> <br /> <span><a href="https://apnews.com/article/trump-economy-biden-election-president-e3a153c9b0c615ea6e0f2afb91cdc785">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwmpz8/many_remember_solid_economy_under_trump_but_his/">[comments]</a></span> </td></tr></table>
+
+## Imagine if the government offered dental care. New federal rule could make that a reality.
+ - [https://www.reddit.com/r/politics/comments/1cwmmao/imagine_if_the_government_offered_dental_care_new](https://www.reddit.com/r/politics/comments/1cwmmao/imagine_if_the_government_offered_dental_care_new)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T18:28:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwmmao/imagine_if_the_government_offered_dental_care_new/"> <img alt="Imagine if the government offered dental care. New federal rule could make that a reality." src="https://external-preview.redd.it/VZ9QX2JzaaKIpUh9gN3V80TwK_niDL7pOIlFf02ZA84.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31c266c7b3e2752543fd303414d0c1559debfd9a" title="Imagine if the government offered dental care. New federal rule could make that a reality." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aslan_is_on_the_move"> /u/aslan_is_on_the_move </a> <br /> <span><a href="https://www.usatoday.com/story/news/health/2024/05/20/dental-care-insurance-costs-too-much-aca-rule/73766660007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwmmao/imagine_if_the_government_offered_dental_care_new/">[comments]</a></span> </td></tr></table>
+
+## First they tried to “cure” gayness. Now they’re fixated on “healing” trans people. Inside the movement to resurrect conversion therapy.
+ - [https://www.reddit.com/r/politics/comments/1cwm0z8/first_they_tried_to_cure_gayness_now_theyre](https://www.reddit.com/r/politics/comments/1cwm0z8/first_they_tried_to_cure_gayness_now_theyre)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T18:04:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwm0z8/first_they_tried_to_cure_gayness_now_theyre/"> <img alt="First they tried to “cure” gayness. Now they’re fixated on “healing” trans people. Inside the movement to resurrect conversion therapy." src="https://external-preview.redd.it/9lfrqtstTnCmOcU5su78-JWW5YM3RJ7Bhsb9vF8m_MU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=349ac1e97740d21967cd599552992b61547cff48" title="First they tried to “cure” gayness. Now they’re fixated on “healing” trans people. Inside the movement to resurrect conversion therapy." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> <span><a href="https://www.lgbtqnation.com/2024/05/first-they-tried-to-cure-gayness-now-theyre-fixated-on-healing-trans-people/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwm0z8/first_they_tried_to_cure_gayness_now_theyre/">[comments]</a></span> </td>
+
+## Supreme Court Justice Alito sold Bud Light stock, then bought Coors, during boycott
+ - [https://www.reddit.com/r/politics/comments/1cwlygg/supreme_court_justice_alito_sold_bud_light_stock](https://www.reddit.com/r/politics/comments/1cwlygg/supreme_court_justice_alito_sold_bud_light_stock)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T18:01:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwlygg/supreme_court_justice_alito_sold_bud_light_stock/"> <img alt="Supreme Court Justice Alito sold Bud Light stock, then bought Coors, during boycott" src="https://external-preview.redd.it/EJXhQ-Tz0o-DQXvD7KwRqVTFS86ZKHJQUdTTzBp40fk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e8498af880485fa4f97cdce14d7f3ea7a151954" title="Supreme Court Justice Alito sold Bud Light stock, then bought Coors, during boycott" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HarmoniousHawk"> /u/HarmoniousHawk </a> <br /> <span><a href="https://www.cnbc.com/2024/05/20/supreme-court-alito-sold-bud-light-stock-bought-coors-boycott.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwlygg/supreme_court_justice_alito_sold_bud_light_stock/">[comments]</a></span> </td></tr></table>
+
+## How Trump Judges Are Helping Him Escape Accountability and Return to Power
+ - [https://www.reddit.com/r/politics/comments/1cwldhh/how_trump_judges_are_helping_him_escape](https://www.reddit.com/r/politics/comments/1cwldhh/how_trump_judges_are_helping_him_escape)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T17:37:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwldhh/how_trump_judges_are_helping_him_escape/"> <img alt="How Trump Judges Are Helping Him Escape Accountability and Return to Power" src="https://external-preview.redd.it/Tyg2-LXKlgT_ccAdNBm_B16Aj6I3-Ku6Z1JZhnF3nR8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e21aecd0009d83497f421a827ac08ae8fc7b9fc" title="How Trump Judges Are Helping Him Escape Accountability and Return to Power" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Somervilledrew"> /u/Somervilledrew </a> <br /> <span><a href="https://www.motherjones.com/politics/2024/05/donald-trump-aileen-cannon/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwldhh/how_trump_judges_are_helping_him_escape/">[comments]</a></span> </td></tr></table>
+
+## US Supreme Court Rejects Right-Wing Attempt To Upend Oregon’s Mail-In Voting System
+ - [https://www.reddit.com/r/politics/comments/1cwkr6g/us_supreme_court_rejects_rightwing_attempt_to](https://www.reddit.com/r/politics/comments/1cwkr6g/us_supreme_court_rejects_rightwing_attempt_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T17:11:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwkr6g/us_supreme_court_rejects_rightwing_attempt_to/"> <img alt="US Supreme Court Rejects Right-Wing Attempt To Upend Oregon’s Mail-In Voting System" src="https://external-preview.redd.it/0VoWZcyudwydBHpawMrl0pl4DMENqgXu2PI40Ju_1sA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7e16515d88cbda6fae0b537d654568e617c41fd" title="US Supreme Court Rejects Right-Wing Attempt To Upend Oregon’s Mail-In Voting System" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MaintenanceNew2804"> /u/MaintenanceNew2804 </a> <br /> <span><a href="https://www.democracydocket.com/news-alerts/us-supreme-court-rejects-right-wing-attempt-to-upend-oregons-mail-in-voting-system/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwkr6g/us_supreme_court_rejects_rightwing_attempt_to/">[comments]</a></span> </td></tr></table>
+
+## Amal Clooney Approved War Crime Arrest Warrant for Netanyahu
+ - [https://www.reddit.com/r/politics/comments/1cwkh8m/amal_clooney_approved_war_crime_arrest_warrant](https://www.reddit.com/r/politics/comments/1cwkh8m/amal_clooney_approved_war_crime_arrest_warrant)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T17:00:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwkh8m/amal_clooney_approved_war_crime_arrest_warrant/"> <img alt="Amal Clooney Approved War Crime Arrest Warrant for Netanyahu" src="https://external-preview.redd.it/5l5uO8TOhF4jvKQ9DobYtAP3amcc1tkuyo07IRpxHYU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e424c66867390538f26836d0e96e2f9c435979e1" title="Amal Clooney Approved War Crime Arrest Warrant for Netanyahu" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tr0llzor"> /u/Tr0llzor </a> <br /> <span><a href="https://www.thedailybeast.com/international-criminal-court-seeking-arrest-warrant-for-netanyahu-over-war-crimes">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwkh8m/amal_clooney_approved_war_crime_arrest_warrant/">[comments]</a></span> </td></tr></table>
+
+## Giuliani Was Tracked Down by Arizona AG Because He Couldn’t Stop Posting
+ - [https://www.reddit.com/r/politics/comments/1cwk8q3/giuliani_was_tracked_down_by_arizona_ag_because](https://www.reddit.com/r/politics/comments/1cwk8q3/giuliani_was_tracked_down_by_arizona_ag_because)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T16:50:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwk8q3/giuliani_was_tracked_down_by_arizona_ag_because/"> <img alt="Giuliani Was Tracked Down by Arizona AG Because He Couldn’t Stop Posting" src="https://external-preview.redd.it/UpQkMDLCKEQdzifV_7gpX6zQnj9lXuDJZ0vHfjqsj48.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4db3acffe05aeb0fc7394a2b10bcb3853bf10b9" title="Giuliani Was Tracked Down by Arizona AG Because He Couldn’t Stop Posting" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-features/giuliani-arizona-attorney-general-indictment-serve-post-stream-1235023936/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwk8q3/giuliani_was_tracked_down_by_arizona_ag_because/">[comments]</a></span> </td></tr></table>
+
+## Robert F Kennedy Jr lists foreclosed New York home as voting address
+ - [https://www.reddit.com/r/politics/comments/1cwjnwn/robert_f_kennedy_jr_lists_foreclosed_new_york](https://www.reddit.com/r/politics/comments/1cwjnwn/robert_f_kennedy_jr_lists_foreclosed_new_york)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T16:25:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwjnwn/robert_f_kennedy_jr_lists_foreclosed_new_york/"> <img alt="Robert F Kennedy Jr lists foreclosed New York home as voting address" src="https://external-preview.redd.it/_v1VMrx-1-HbZpu7ssi10XP25nK-Th530LJIob51zcs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0842703a0ceb520995046ddf67f22f4512ac7bca" title="Robert F Kennedy Jr lists foreclosed New York home as voting address" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/davster39"> /u/davster39 </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/may/20/robert-f-kennedy-jr-address?CMP=Share_AndroidApp_Other">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwjnwn/robert_f_kennedy_jr_lists_foreclosed_new_york/">[comments]</a></span> </td></tr></table>
+
+## Presidential polls are useless. Will Trump win? Will Biden? Nobody has a crystal ball.
+ - [https://www.reddit.com/r/politics/comments/1cwjljv/presidential_polls_are_useless_will_trump_win](https://www.reddit.com/r/politics/comments/1cwjljv/presidential_polls_are_useless_will_trump_win)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T16:22:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwjljv/presidential_polls_are_useless_will_trump_win/"> <img alt="Presidential polls are useless. Will Trump win? Will Biden? Nobody has a crystal ball." src="https://external-preview.redd.it/kgi6SBUk_g0Z_h2HKsrcXesWb7uBopI86YVjL8wbtvo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39f14bea805e7e103982e62dba264b1b2ad98f18" title="Presidential polls are useless. Will Trump win? Will Biden? Nobody has a crystal ball." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mymomknowsyourmom"> /u/mymomknowsyourmom </a> <br /> <span><a href="https://www.usatoday.com/story/opinion/columnist/2024/05/19/trump-biden-polling-swing-states-ignore-them/73705965007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwjljv/presidential_polls_are_useless_will_trump_win/">[comments]</a></span> </td></tr></table>
+
+## A Former Leader of the Hells Angels Motorcycle Gang Joins Trump in Court
+ - [https://www.reddit.com/r/politics/comments/1cwii89/a_former_leader_of_the_hells_angels_motorcycle](https://www.reddit.com/r/politics/comments/1cwii89/a_former_leader_of_the_hells_angels_motorcycle)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T15:36:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwii89/a_former_leader_of_the_hells_angels_motorcycle/"> <img alt="A Former Leader of the Hells Angels Motorcycle Gang Joins Trump in Court" src="https://external-preview.redd.it/h8D_O8V7Ya8Gph9UPUJnDgHz6Y56huGAg5tXhxUsOJg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c9b09687c40e09b2f90046b639aab908fe4ca0ee" title="A Former Leader of the Hells Angels Motorcycle Gang Joins Trump in Court" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aranarth"> /u/Aranarth </a> <br /> <span><a href="https://www.nytimes.com/2024/05/20/nyregion/chuck-zito-hells-angels-trump-trial.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwii89/a_former_leader_of_the_hells_angels_motorcycle/">[comments]</a></span> </td></tr></table>
+
+## Republicans can vote for Biden without burning bridges. Here's how.
+ - [https://www.reddit.com/r/politics/comments/1cwhejq/republicans_can_vote_for_biden_without_burning](https://www.reddit.com/r/politics/comments/1cwhejq/republicans_can_vote_for_biden_without_burning)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T14:49:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwhejq/republicans_can_vote_for_biden_without_burning/"> <img alt="Republicans can vote for Biden without burning bridges. Here's how." src="https://external-preview.redd.it/LNBeL5KjK3_7KH8y3naI8lkxwsVL3esTEIxTqpfFeGg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbb96646328152c1d2cd238674caf467d9551654" title="Republicans can vote for Biden without burning bridges. Here's how." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ace-Cuddler"> /u/Ace-Cuddler </a> <br /> <span><a href="https://www.palmbeachpost.com/story/opinion/columns/2024/05/19/trump-biden-election-vote-republican-secret/73713498007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwhejq/republicans_can_vote_for_biden_without_burning/">[comments]</a></span> </td></tr></table>
+
+## Trump says Paxton would make good U.S. attorney general
+ - [https://www.reddit.com/r/politics/comments/1cwh5fc/trump_says_paxton_would_make_good_us_attorney](https://www.reddit.com/r/politics/comments/1cwh5fc/trump_says_paxton_would_make_good_us_attorney)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T14:38:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwh5fc/trump_says_paxton_would_make_good_us_attorney/"> <img alt="Trump says Paxton would make good U.S. attorney general" src="https://external-preview.redd.it/HzPABmoM0QMrNHdFIx-bXuWbJzwH-EhJWMW_Jo5a4_c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb64101e37b950014e31086dd62bf7c4fa77656b" title="Trump says Paxton would make good U.S. attorney general" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FlyThruTrees"> /u/FlyThruTrees </a> <br /> <span><a href="https://www.texastribune.org/2024/05/20/donald-trump-ken-paxton-attorney-general/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwh5fc/trump_says_paxton_would_make_good_us_attorney/">[comments]</a></span> </td></tr></table>
+
+## Francis Ford Coppola: US politics is at ‘the point where we might lose our republic’
+ - [https://www.reddit.com/r/politics/comments/1cwgzuy/francis_ford_coppola_us_politics_is_at_the_point](https://www.reddit.com/r/politics/comments/1cwgzuy/francis_ford_coppola_us_politics_is_at_the_point)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T14:31:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwgzuy/francis_ford_coppola_us_politics_is_at_the_point/"> <img alt="Francis Ford Coppola: US politics is at ‘the point where we might lose our republic’" src="https://external-preview.redd.it/ahIW0GHtuomt1UOJVLPYjccxUdq-dfDbOkeF7Ojzfk4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=55452e162e79f7701d08f771d1d43b34a9a64990" title="Francis Ford Coppola: US politics is at ‘the point where we might lose our republic’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/teamworldunity"> /u/teamworldunity </a> <br /> <span><a href="https://www.theguardian.com/film/article/2024/may/17/francis-ford-coppola-us-politics-republic-rome-megalopolis-cannes">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwgzuy/francis_ford_coppola_us_politics_is_at_the_point/">[comments]</a></span> </td></tr></table>
+
+## Alito and Thomas Aren’t Really Jurists. They’re Theocratic Leninists. The Supreme Court justices are intent on using maximal power to fundamentally reorder society.
+ - [https://www.reddit.com/r/politics/comments/1cwgxqs/alito_and_thomas_arent_really_jurists_theyre](https://www.reddit.com/r/politics/comments/1cwgxqs/alito_and_thomas_arent_really_jurists_theyre)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T14:28:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwgxqs/alito_and_thomas_arent_really_jurists_theyre/"> <img alt="Alito and Thomas Aren’t Really Jurists. They’re Theocratic Leninists. The Supreme Court justices are intent on using maximal power to fundamentally reorder society." src="https://external-preview.redd.it/cha34SgpCbwID8Aal8NM4CFM5b_oj3KfiVySxxYmoGA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=284bc36dac4900b044db05911bcc3630b3b28553" title="Alito and Thomas Aren’t Really Jurists. They’re Theocratic Leninists. The Supreme Court justices are intent on using maximal power to fundamentally reorder society." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://newrepublic.com/article/181732/samuel-alito-clarence-thomas-theocratic-leninists">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwgxqs/alito_and_thomas_arent_really_jurists_theyre
+
+## Virginia Gov. Glenn Youngkin vetoes a bill that would protect access to contraception
+ - [https://www.reddit.com/r/politics/comments/1cwgffy/virginia_gov_glenn_youngkin_vetoes_a_bill_that](https://www.reddit.com/r/politics/comments/1cwgffy/virginia_gov_glenn_youngkin_vetoes_a_bill_that)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T14:05:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwgffy/virginia_gov_glenn_youngkin_vetoes_a_bill_that/"> <img alt="Virginia Gov. Glenn Youngkin vetoes a bill that would protect access to contraception" src="https://external-preview.redd.it/rVMfRiX3sf2gZm5j2ECR0bBpBlEjZIEDemw3PMmIW3w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e3f8f1dda8ae1b03be713aee803d40acd817f65" title="Virginia Gov. Glenn Youngkin vetoes a bill that would protect access to contraception" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Horatiohornblowers"> /u/Horatiohornblowers </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/elections/2024/05/18/glenn-youngkin-contraception/73747889007/?utm_source=usat-DailyBriefing&amp;utm_medium=email&amp;utm_campaign=daily-briefing-with-greeting&amp;utm_term=newsletter-greeting&amp;utm_content=8872UT-E-NLETTER02-Weekday">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/com
+
+## Red state abortion bans headed for clash with blue state shield laws
+ - [https://www.reddit.com/r/politics/comments/1cwfgxj/red_state_abortion_bans_headed_for_clash_with](https://www.reddit.com/r/politics/comments/1cwfgxj/red_state_abortion_bans_headed_for_clash_with)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T13:22:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwfgxj/red_state_abortion_bans_headed_for_clash_with/"> <img alt="Red state abortion bans headed for clash with blue state shield laws" src="https://external-preview.redd.it/GZrZJULWSqOmhyP85E7C5ZnsTI-sjaxegqNlakkHPvk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32d3a90cb59b02d0beb9bbb9576dd8f597e83974" title="Red state abortion bans headed for clash with blue state shield laws" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thehill"> /u/thehill </a> <br /> <span><a href="https://thehill.com/policy/healthcare/4671299-abortion-bans-clash-shield-laws/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwfgxj/red_state_abortion_bans_headed_for_clash_with/">[comments]</a></span> </td></tr></table>
+
+## Trump would be committing ‘act of near-insanity’ if he testifies in own defence at hush money trial
+ - [https://www.reddit.com/r/politics/comments/1cwf7jp/trump_would_be_committing_act_of_nearinsanity_if](https://www.reddit.com/r/politics/comments/1cwf7jp/trump_would_be_committing_act_of_nearinsanity_if)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T13:10:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwf7jp/trump_would_be_committing_act_of_nearinsanity_if/"> <img alt="Trump would be committing ‘act of near-insanity’ if he testifies in own defence at hush money trial" src="https://external-preview.redd.it/S_MCp9TkqHwHTzJjVDRevWfvx_JBl_TfpfRUEZWzk1Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8798df51b0338895ca2378c4c46fff5fd8f9f1d6" title="Trump would be committing ‘act of near-insanity’ if he testifies in own defence at hush money trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-testify-hush-money-lawyer-b2547935.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwf7jp/trump_would_be_committing_act_of_nearinsanity_if/">[comments]</a></span> </td></tr></table>
+
+## Geoff Duncan: Why I’m voting for Biden and other Republicans should, too
+ - [https://www.reddit.com/r/politics/comments/1cwemps/geoff_duncan_why_im_voting_for_biden_and_other](https://www.reddit.com/r/politics/comments/1cwemps/geoff_duncan_why_im_voting_for_biden_and_other)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T12:41:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwemps/geoff_duncan_why_im_voting_for_biden_and_other/"> <img alt="Geoff Duncan: Why I’m voting for Biden and other Republicans should, too" src="https://external-preview.redd.it/IENs3r2F25vaaK0zBeBbrw927UE24YWI91HUnB96i6s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b26a5b206c54ac007ab5f51f8b7aad5d8f67445" title="Geoff Duncan: Why I’m voting for Biden and other Republicans should, too" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MobileWisdom"> /u/MobileWisdom </a> <br /> <span><a href="https://www.ajc.com/opinion/geoff-duncan-why-im-voting-for-biden-and-other-republicans-should-too/LFLE5YWCBBA6VDGJAJKMNPCDKQ/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwemps/geoff_duncan_why_im_voting_for_biden_and_other/">[comments]</a></span> </td></tr></table>
+
+## Rep. Raskin: “the highest court in the land has the lowest ethical standards.”
+ - [https://www.reddit.com/r/politics/comments/1cwdn00/rep_raskin_the_highest_court_in_the_land_has_the](https://www.reddit.com/r/politics/comments/1cwdn00/rep_raskin_the_highest_court_in_the_land_has_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T11:50:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwdn00/rep_raskin_the_highest_court_in_the_land_has_the/"> <img alt="Rep. Raskin: “the highest court in the land has the lowest ethical standards.”" src="https://external-preview.redd.it/yu_5mXWySz-T87O0ehmzihvp9Zf2nBB1KoNCAc6g7H0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=663fda135b5fa67c4483479d34198b48c87d5b28" title="Rep. Raskin: “the highest court in the land has the lowest ethical standards.”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/duderos"> /u/duderos </a> <br /> <span><a href="https://www.msnbc.com/ayman-mohyeldin/watch/rep-raskin-the-highest-court-in-the-land-has-the-lowest-ethical-standards-211224645780">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwdn00/rep_raskin_the_highest_court_in_the_land_has_the/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: New York Criminal Fraud Trial of Donald Trump, Day 19
+ - [https://www.reddit.com/r/politics/comments/1cwdbyd/discussion_thread_new_york_criminal_fraud_trial](https://www.reddit.com/r/politics/comments/1cwdbyd/discussion_thread_new_york_criminal_fraud_trial)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T11:32:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Previous discussion threads for this trial can be found at the following links for <a href="https://www.reddit.com/r/politics/comments/1ca9lu0/discussion_thread_new_york_criminal_fraud_trial/">Day 5</a>, <a href="https://www.reddit.com/r/politics/comments/1cb47qw/discussion_thread_new_york_criminal_fraud_trial/">Day 6</a>, <a href="https://www.reddit.com/r/politics/comments/1ccr76j/discussion_thread_new_york_criminal_fraud_trial/">Day 7</a>, <a href="https://www.reddit.com/r/politics/comments/1cdlxsd/discussion_thread_new_york_criminal_fraud_trial/">Day 8</a>, <a href="https://www.reddit.com/r/politics/comments/1cgrhy7/discussion_thread_new_york_criminal_fraud_trial/">Day 9</a>, <a href="https://www.reddit.com/r/politics/comments/1cif640/discussion_thread_new_york_criminal_fraud_trial/">Day 10</a>, <a href="https://www.reddit.com/r/politics/comments/1cjazcl/discussion_thread_new_york_criminal_fraud_trial/">Day 11</a>, <a href="https://www.reddit.com/r
+
+## Aileen Cannon made "problematic" exception in latest ruling: Attorney
+ - [https://www.reddit.com/r/politics/comments/1cwd9xl/aileen_cannon_made_problematic_exception_in](https://www.reddit.com/r/politics/comments/1cwd9xl/aileen_cannon_made_problematic_exception_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T11:29:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwd9xl/aileen_cannon_made_problematic_exception_in/"> <img alt="Aileen Cannon made &quot;problematic&quot; exception in latest ruling: Attorney" src="https://external-preview.redd.it/JaUnX6_O8lyntwmygRPSWy_ok5oksNJAf27tTPNr1E8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8ef3fe58207f074cb959cf2733ed11bdc774166" title="Aileen Cannon made &quot;problematic&quot; exception in latest ruling: Attorney" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BelleAriel"> /u/BelleAriel </a> <br /> <span><a href="https://www.newsweek.com/aileen-cannon-trump-ruling-classified-documents-1902350">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwd9xl/aileen_cannon_made_problematic_exception_in/">[comments]</a></span> </td></tr></table>
+
+## North Idaho Has Drifted to the Extreme Right. One Republican Thinks It’s Hit Its Limit.
+ - [https://www.reddit.com/r/politics/comments/1cwcxme/north_idaho_has_drifted_to_the_extreme_right_one](https://www.reddit.com/r/politics/comments/1cwcxme/north_idaho_has_drifted_to_the_extreme_right_one)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T11:09:01+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/meteor-cemetery"> /u/meteor-cemetery </a> <br /> <span><a href="https://www.politico.com/news/magazine/2024/05/19/idaho-moderates-combating-state-extremism-00151819">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwcxme/north_idaho_has_drifted_to_the_extreme_right_one/">[comments]</a></span>
+
+## Democratic group targets Republicans over IVF in Arizona
+ - [https://www.reddit.com/r/politics/comments/1cwcwcl/democratic_group_targets_republicans_over_ivf_in](https://www.reddit.com/r/politics/comments/1cwcwcl/democratic_group_targets_republicans_over_ivf_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T11:06:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwcwcl/democratic_group_targets_republicans_over_ivf_in/"> <img alt="Democratic group targets Republicans over IVF in Arizona" src="https://external-preview.redd.it/TZy0Hfh3QW-quYIVJcbPFpe4OtcAael-i0uyUCUZIkg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36031de45396261df3a9d0007ae4118cfa0e1d14" title="Democratic group targets Republicans over IVF in Arizona" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pokeplayer984"> /u/pokeplayer984 </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4673783-democratic-group-targets-republicans-over-ivf-in-arizona/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwcwcl/democratic_group_targets_republicans_over_ivf_in/">[comments]</a></span> </td></tr></table>
+
+## Trump claims he wants to testify at his trial. No one else thinks he should.
+ - [https://www.reddit.com/r/politics/comments/1cwcvzx/trump_claims_he_wants_to_testify_at_his_trial_no](https://www.reddit.com/r/politics/comments/1cwcvzx/trump_claims_he_wants_to_testify_at_his_trial_no)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T11:06:13+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/HandSack135"> /u/HandSack135 </a> <br /> <span><a href="https://www.politico.com/news/2024/05/20/trump-testify-hush-money-trial-00158756">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwcvzx/trump_claims_he_wants_to_testify_at_his_trial_no/">[comments]</a></span>
+
+## America's largest LGBTQ rights group plans $15 million swing state blitz to re-elect Biden
+ - [https://www.reddit.com/r/politics/comments/1cwctmx/americas_largest_lgbtq_rights_group_plans_15](https://www.reddit.com/r/politics/comments/1cwctmx/americas_largest_lgbtq_rights_group_plans_15)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T11:02:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwctmx/americas_largest_lgbtq_rights_group_plans_15/"> <img alt="America's largest LGBTQ rights group plans $15 million swing state blitz to re-elect Biden" src="https://external-preview.redd.it/8ok65FPsqFu0uT-xMCKTtP1owQ0Sw2nwPTSw7lxgeMU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65fdf5262a78446a68ccfad2e96168af1ad84c08" title="America's largest LGBTQ rights group plans $15 million swing state blitz to re-elect Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br /> <span><a href="https://www.nbcnews.com/politics/2024-election/americas-largest-lgbtq-rights-group-plans-15-million-swing-state-blitz-rcna152383">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwctmx/americas_largest_lgbtq_rights_group_plans_15/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump's "glitch" during NRA speech raises questions
+ - [https://www.reddit.com/r/politics/comments/1cwcpwu/donald_trumps_glitch_during_nra_speech_raises](https://www.reddit.com/r/politics/comments/1cwcpwu/donald_trumps_glitch_during_nra_speech_raises)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T10:56:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwcpwu/donald_trumps_glitch_during_nra_speech_raises/"> <img alt="Donald Trump's &quot;glitch&quot; during NRA speech raises questions" src="https://external-preview.redd.it/c05xvSjNdt2XZLWHpTuJdLxJNmq1VnU6f0d36lu2u_Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3d069fe86416553aaebba3d6bec882ad179b8d4" title="Donald Trump's &quot;glitch&quot; during NRA speech raises questions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-glitch-nra-speech-1902257">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwcpwu/donald_trumps_glitch_during_nra_speech_raises/">[comments]</a></span> </td></tr></table>
+
+## Kristi Noem Said She Is Proud to “Support Babies, Moms, and Families.” Her Record Shows Otherwise, Critics Say.
+ - [https://www.reddit.com/r/politics/comments/1cwcpt3/kristi_noem_said_she_is_proud_to_support_babies](https://www.reddit.com/r/politics/comments/1cwcpt3/kristi_noem_said_she_is_proud_to_support_babies)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T10:56:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwcpt3/kristi_noem_said_she_is_proud_to_support_babies/"> <img alt="Kristi Noem Said She Is Proud to “Support Babies, Moms, and Families.” Her Record Shows Otherwise, Critics Say." src="https://external-preview.redd.it/AYFT5XSGXe4V_cUq7DOqqGv2yVb4rTtZUBXrWGTsysY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce049ef1983fbb5edef4a82ed0e2341133030fe3" title="Kristi Noem Said She Is Proud to “Support Babies, Moms, and Families.” Her Record Shows Otherwise, Critics Say." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.propublica.org/article/kristi-noem-south-dakota-parents-children-pregnancy-abortion">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwcpt3/kristi_noem_said_she_is_proud_to_support_babies/">[comments]</a></span> </td></tr></table>
+
+## Trump allies push bill to bar non-citizen voting, even though it’s already illegal
+ - [https://www.reddit.com/r/politics/comments/1cwckl5/trump_allies_push_bill_to_bar_noncitizen_voting](https://www.reddit.com/r/politics/comments/1cwckl5/trump_allies_push_bill_to_bar_noncitizen_voting)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T10:47:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwckl5/trump_allies_push_bill_to_bar_noncitizen_voting/"> <img alt="Trump allies push bill to bar non-citizen voting, even though it’s already illegal" src="https://external-preview.redd.it/eISe3m_4KH1qEd8izyeFdQJ_MIPEE7W2lAhPC6E1Pa8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=abe8d6cb2d2c12bbba1d20e6a982df9068cc9a54" title="Trump allies push bill to bar non-citizen voting, even though it’s already illegal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SportsGod3"> /u/SportsGod3 </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/may/20/trump-non-citizen-election-fraud-">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwckl5/trump_allies_push_bill_to_bar_noncitizen_voting/">[comments]</a></span> </td></tr></table>
+
+## Biden: what would Trump have done if the Capitol riots had been led by Black Americans?
+ - [https://www.reddit.com/r/politics/comments/1cwc7kd/biden_what_would_trump_have_done_if_the_capitol](https://www.reddit.com/r/politics/comments/1cwc7kd/biden_what_would_trump_have_done_if_the_capitol)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T10:23:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwc7kd/biden_what_would_trump_have_done_if_the_capitol/"> <img alt="Biden: what would Trump have done if the Capitol riots had been led by Black Americans?" src="https://external-preview.redd.it/R6Djatg8Jp3l2aUCIk8AFejresCr8aMAngW2ph-yn-E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cea7463d8ddbaa67bbc4a4c980632f11e5668b91" title="Biden: what would Trump have done if the Capitol riots had been led by Black Americans?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/may/20/joe-biden-donald-trump-january-6-capitol-riots-black-americans-naacp-dinner-speech-detroit">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwc7kd/biden_what_would_trump_have_done_if_the_capitol/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump has no plausible response to Michael Cohen evidence: Attorney
+ - [https://www.reddit.com/r/politics/comments/1cwbxo9/donald_trump_has_no_plausible_response_to_michael](https://www.reddit.com/r/politics/comments/1cwbxo9/donald_trump_has_no_plausible_response_to_michael)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T10:06:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwbxo9/donald_trump_has_no_plausible_response_to_michael/"> <img alt="Donald Trump has no plausible response to Michael Cohen evidence: Attorney" src="https://external-preview.redd.it/7YfoiZaggoq8OOOKFquG6HkoFmBF75CrTPNWd1WhAS8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5df5f5bb71ce79df05c45a9f4193a47633343af" title="Donald Trump has no plausible response to Michael Cohen evidence: Attorney" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SportsGod3"> /u/SportsGod3 </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-stormy-daniels-michael-cohen-hush-money-evidence-1902377">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwbxo9/donald_trump_has_no_plausible_response_to_michael/">[comments]</a></span> </td></tr></table>
+
+## High-Speed Rail Backed As Future of US Transport
+ - [https://www.reddit.com/r/politics/comments/1cwbw4r/highspeed_rail_backed_as_future_of_us_transport](https://www.reddit.com/r/politics/comments/1cwbw4r/highspeed_rail_backed_as_future_of_us_transport)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T10:03:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwbw4r/highspeed_rail_backed_as_future_of_us_transport/"> <img alt="High-Speed Rail Backed As Future of US Transport" src="https://external-preview.redd.it/3yhxjQJP4x37X6_NzgoJEYmKHArbxoAXEF_JRTN4jB8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c7b564462496813858cc17e167d3ab92078d7f1" title="High-Speed Rail Backed As Future of US Transport" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/teamworldunity"> /u/teamworldunity </a> <br /> <span><a href="https://www.newsweek.com/high-speed-rail-future-transport-1902265">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwbw4r/highspeed_rail_backed_as_future_of_us_transport/">[comments]</a></span> </td></tr></table>
+
+## US judge blocks Biden-backed rule expanding gun background checks
+ - [https://www.reddit.com/r/politics/comments/1cwbqdf/us_judge_blocks_bidenbacked_rule_expanding_gun](https://www.reddit.com/r/politics/comments/1cwbqdf/us_judge_blocks_bidenbacked_rule_expanding_gun)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T09:53:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cwbqdf/us_judge_blocks_bidenbacked_rule_expanding_gun/"> <img alt="US judge blocks Biden-backed rule expanding gun background checks" src="https://external-preview.redd.it/7MBrXCMsifSr12d8Ni1LENYQZk1MAs7b2EoFQQ40YiM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62e687ba965506ca46b5c30b5fdab4ef0a9e4cd2" title="US judge blocks Biden-backed rule expanding gun background checks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HK-47-mkII"> /u/HK-47-mkII </a> <br /> <span><a href="https://www.reuters.com/world/us/us-judge-blocks-biden-backed-rule-expanding-gun-background-checks-2024-05-20/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cwbqdf/us_judge_blocks_bidenbacked_rule_expanding_gun/">[comments]</a></span> </td></tr></table>
+
+## Biden on Trump’s next Supreme Court pick: ‘Do you think he’ll put anybody who has a brain?’
+ - [https://www.reddit.com/r/politics/comments/1cw9083/biden_on_trumps_next_supreme_court_pick_do_you](https://www.reddit.com/r/politics/comments/1cw9083/biden_on_trumps_next_supreme_court_pick_do_you)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T06:35:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cw9083/biden_on_trumps_next_supreme_court_pick_do_you/"> <img alt="Biden on Trump’s next Supreme Court pick: ‘Do you think he’ll put anybody who has a brain?’" src="https://external-preview.redd.it/NVl1z2QbODNz8nETXR3tqXqryQ9k9j6IBGI0Ttwun0k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60c2173cb1c06cd71c324876c08ba550b6a9bef8" title="Biden on Trump’s next Supreme Court pick: ‘Do you think he’ll put anybody who has a brain?’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equalizer6338"> /u/Equalizer6338 </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4673668-biden-on-trumps-next-supreme-court-pick-do-you-think-hell-put-anybody-who-has-a-brain/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cw9083/biden_on_trumps_next_supreme_court_pick_do_you/">[comments]</a></span> </td></tr></table>
+
+## Iranian president Ebrahim Raisi feared dead in helicopter crash
+ - [https://www.reddit.com/r/politics/comments/1cw6eyd/iranian_president_ebrahim_raisi_feared_dead_in](https://www.reddit.com/r/politics/comments/1cw6eyd/iranian_president_ebrahim_raisi_feared_dead_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T03:48:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cw6eyd/iranian_president_ebrahim_raisi_feared_dead_in/"> <img alt="Iranian president Ebrahim Raisi feared dead in helicopter crash" src="https://external-preview.redd.it/_LRmiojnZ5WF7eL7CS8275akT-nUhPOHQgOCPpiYXK0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0bd8f58de4fac0fe5aecf0f22146b8cd2578e383" title="Iranian president Ebrahim Raisi feared dead in helicopter crash" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PaleontologistOne919"> /u/PaleontologistOne919 </a> <br /> <span><a href="https://www.telegraph.co.uk/world-news/2024/05/19/iranian-president-feared-dead-in-helicopter-crash/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cw6eyd/iranian_president_ebrahim_raisi_feared_dead_in/">[comments]</a></span> </td></tr></table>
+
+## 'No sign of life' at crash site of helicopter carrying Iran's president, others
+ - [https://www.reddit.com/r/politics/comments/1cw67g9/no_sign_of_life_at_crash_site_of_helicopter](https://www.reddit.com/r/politics/comments/1cw67g9/no_sign_of_life_at_crash_site_of_helicopter)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T03:36:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cw67g9/no_sign_of_life_at_crash_site_of_helicopter/"> <img alt="'No sign of life' at crash site of helicopter carrying Iran's president, others" src="https://external-preview.redd.it/-r19lIIyq3WrPPk0n7BiqKx4tNgC9-vtlvuonz3KoSc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ba951c38d57a5bb7e82304f942736dbc44a84d2" title="'No sign of life' at crash site of helicopter carrying Iran's president, others" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Barney_Roca"> /u/Barney_Roca </a> <br /> <span><a href="https://apnews.com/article/iran-president-ebrahim-raisi-426c6f4ae2dd1f0801c73875bb696f48">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cw67g9/no_sign_of_life_at_crash_site_of_helicopter/">[comments]</a></span> </td></tr></table>
+
+## Sen. Schumer tells Democrats he'll reintroduce bipartisan border bill
+ - [https://www.reddit.com/r/politics/comments/1cw49uy/sen_schumer_tells_democrats_hell_reintroduce](https://www.reddit.com/r/politics/comments/1cw49uy/sen_schumer_tells_democrats_hell_reintroduce)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T01:50:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cw49uy/sen_schumer_tells_democrats_hell_reintroduce/"> <img alt="Sen. Schumer tells Democrats he'll reintroduce bipartisan border bill" src="https://external-preview.redd.it/MVga7XiEWjS3TGnca-WYHxetqB-kZoNZHYzZGo4b8xE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad5004956f214401a0247bba818bf1bd91714dcd" title="Sen. Schumer tells Democrats he'll reintroduce bipartisan border bill" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdditionalMeeting467"> /u/AdditionalMeeting467 </a> <br /> <span><a href="https://abcnews.go.com/Politics/sen-schumer-tells-democrats-hell-reintroduce-bipartisan-border/story?id=110381397">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cw49uy/sen_schumer_tells_democrats_hell_reintroduce/">[comments]</a></span> </td></tr></table>
+
+## Hunter Biden Reveals Why He’s Punching Back at Fox News
+ - [https://www.reddit.com/r/politics/comments/1cw306w/hunter_biden_reveals_why_hes_punching_back_at_fox](https://www.reddit.com/r/politics/comments/1cw306w/hunter_biden_reveals_why_hes_punching_back_at_fox)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-20T00:43:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1cw306w/hunter_biden_reveals_why_hes_punching_back_at_fox/"> <img alt="Hunter Biden Reveals Why He’s Punching Back at Fox News" src="https://external-preview.redd.it/keENkeUFXIhad02i6DNeVYuNYdP9nXbeO5srz8LBteE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd098748a52c465129e07fc1bb15b059dea87f90" title="Hunter Biden Reveals Why He’s Punching Back at Fox News" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thedailybeast"> /u/thedailybeast </a> <br /> <span><a href="https://www.thedailybeast.com/hunter-biden-reveals-why-hes-punching-back-at-fox-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1cw306w/hunter_biden_reveals_why_hes_punching_back_at_fox/">[comments]</a></span> </td></tr></table>
+

@@ -1,0 +1,141 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Hellblade 2 developer Ninja Theory's next game reportedly already greenlit by Xbox
+ - [https://www.eurogamer.net/hellblade-2-developer-ninja-theorys-next-game-reportedly-already-greenlit-by-xbox](https://www.eurogamer.net/hellblade-2-developer-ninja-theorys-next-game-reportedly-already-greenlit-by-xbox)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T22:49:54+00:00
+
+<img src="https://assetsio.gnwcdn.com/hellblade-2-eye-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Microsoft has reportedly already greenlit Senua's Saga: Hellblade 2 developer Ninja Theory's next project and has "no plans whatsoever" to close the studio - news that comes amid fan concerns for its future following the closure of Arkane Austin and Tango Gameworks.
+</p><p>
+The relative lack of promotion for Senua's Saga: Hellblade 2 in the run up to tomorrow's launch had <a href="https://www.eurogamer.net/hellblade-2-is-only-two-weeks-away-and-fans-feel-xbox-should-be-making-more-noise">some Ninja Theory fans worried</a> the game might ultimately slip under the radar, leading the studio to suffer the same fate as its Xbox bedfellows. Xbox's Aaron Greenberg previously attempted to allay fan fears by promising an imminent Hellblade 2 "global paid media campaign", and a new report from Windows Central also suggests concern is unwarr
+
+## Paradox delays Sims-like Life By You again, but won't commit to a new release date
+ - [https://www.eurogamer.net/paradox-delays-sims-like-life-by-you-again-but-wont-commit-to-a-new-release-date](https://www.eurogamer.net/paradox-delays-sims-like-life-by-you-again-but-wont-commit-to-a-new-release-date)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T20:19:28+00:00
+
+<img src="https://assetsio.gnwcdn.com/life-by-you-flirty-flirty.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Paradox Interactive has delayed Life By You - the new Sims-like from its Paradox Tectonic studio - yet again  saying "additional development time is needed" and that it doesn't want to commit to a new release date it "cannot be certain to meet".
+</p><p>
+This marks the third delay for Life By You, which was <a href="https://www.eurogamer.net/paradoxs-life-by-you-is-an-open-world-real-language-take-on-the-sims">announced last March</a> amid promises of a fully open-world with no loading screens, "real language conversation", digital humans that can optionally be directly controlled by players, and plenty of customisation.
+</p><p>
+It initially also featured a rather bland art style that immediately drew criticism, leading to the game's first delay. Rather than release into early access last September, as had originally been the 
+
+## Norco studio announces android investigation adventure Silenus with "experimental" demo
+ - [https://www.eurogamer.net/norco-studio-announces-android-investigation-adventure-silenus-with-experimental-demo](https://www.eurogamer.net/norco-studio-announces-android-investigation-adventure-silenus-with-experimental-demo)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T19:28:38+00:00
+
+<img src="https://assetsio.gnwcdn.com/silenus-robot-screen-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Geography of Robots - the developer behind 2022's acclaimed narrative adventure Norco - has revealed its new project, Silenus, and there's an "experimental" <a href="https://store.steampowered.com/app/2927440/Silenus/">Steam demo</a> to try right now.
+</p><p>
+Silenus is described as a "micro-adventure" - lasting 2-2.5 hours - set on a Gulf Flow oil refinery recently acquired by Rubens Link, an "enigmatic company with an unclear agenda". Cast as an android called Titian, players must investigate the company's true motives - which seems to go beyond installing automation tech as it claims - by solving puzzles, deciphering clues, conversing with characters, and poking around the remains of vanished workers.
+</p><p>
+The <a href="https://store.steampowered.com/app/2927440/Silenus/">newly released demo version of Silenus</a> is off
+
+## Prince of Persia: The Lost Crown's second free update is out today with new modes, a classic outfit, and more
+ - [https://www.eurogamer.net/prince-of-persia-the-lost-crowns-second-free-update-is-out-today-with-new-modes-a-classic-outfit-and-more](https://www.eurogamer.net/prince-of-persia-the-lost-crowns-second-free-update-is-out-today-with-new-modes-a-classic-outfit-and-more)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T16:54:19+00:00
+
+<img src="https://assetsio.gnwcdn.com/Sargon-in-Prince-of-Persia-The-Lost-Crown.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Prince of Persia: The Lost Crown, this year's <a href="https://www.eurogamer.net/prince-of-persia-the-lost-crown-review-fabulous-exploration-and-combat">excellent</a> Metroidvania-esque revival of Ubisoft's beloved platform series, has just received the second of three previously announced free post-launch content updates, this one adding a new Boss Rush mode and more.
+</p><p>
+Once today's update is installed, two new boss-based challenges can be accessed via Artaban in The Haven. First up is Boss Revenge, giving players a way to take on previously defeated bosses again, and at any difficulty, with a "statistics" board recording their best attempts.
+</p><p>
+While Boss Revenge is focused on individual encounters, there's also the aforementioned Boss Rush mode - which, in time-honoured tradition, challenges play
+
+## Songs of Conquest review - fantasy tactics that favours breadth over depth
+ - [https://www.eurogamer.net/songs-of-conquest-review](https://www.eurogamer.net/songs-of-conquest-review)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T16:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/SongsOfConquest-Keyart2024-noLogo-1920x1080.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>When you first meet Songs of Conquest's Captain Xavier Silkspool (a brilliant fantasy name if ever I heard one), his role begins and ends as a boss tutorial for your first main campaign hero, Cecelia Stoutheart. He gives you a little runaround the game's gorgeous 3D pixel art maps, actively chasing you down and claiming resources, monuments and territory of his own (at least compared to the altogether more static clumps of enemies you'll have faced thus far), and when you eventually meet him in battle, you'll learn just how vital your own crop of magic spells are in turning the tide of battle. But in Cecelia's respective song of conquest, her duel with Silkspool would probably occupy little more than a rhyming couplet. He's gone as swiftly as he appears, and his death is the first of many she'll need to face 
+
+## V Rising PS5 release date announced, and it's soon
+ - [https://www.eurogamer.net/v-rising-ps5-release-date-announced-and-its-soon](https://www.eurogamer.net/v-rising-ps5-release-date-announced-and-its-soon)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T15:03:44+00:00
+
+<img src="https://assetsio.gnwcdn.com/V-Rising_YVqkZDJ.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+If you have been waiting patiently for the PlayStation 5 release date for vampiric survival game V Rising, I have some fang-tastic news for you to sink your teeth into. 
+</p><p>
+Developer Stunlock Studios announced V Rising will make its way to Sony's console next month, on 11th June. That being said (and as is becoming increasingly common these days), if you choose to pre-order one of the game's bundles, you will be able to get five days of early access.
+</p><p>
+But before I get into all that, you can check out V Rising's PS5 trailer below. 
+</p> <p><a href="https://www.eurogamer.net/v-rising-ps5-release-date-announced-and-its-soon">Read more</a></p>
+
+## DF Weekly: Ghost of Tsushima on PC is another excellent Nixxes port
+ - [https://www.eurogamer.net/digitalfoundry-2024-df-weekly-ghost-of-tsushima-on-pc-is-another-excellent-nixxes-port](https://www.eurogamer.net/digitalfoundry-2024-df-weekly-ghost-of-tsushima-on-pc-is-another-excellent-nixxes-port)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T15:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Tsushima_mG2qa4p.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>When a game arrives for review on the same day it's released to the general public, this does tend to raise a red flag. I mean, if the quality of the game is good, why not tell people ahead of time? And yet that's the situation that faced us on the release of Ghost of Tsushima: Director's Cut - the latest PC port from the masters at Nixxes. The pedigree of the developer has been established, so perhaps we shouldn't have worried, but even Nixxes releases have been rushed in the past. Thankfully, initial impressions of this latest port are positive. </p><p>This is the first time Nixxes has produced a PC port based on the Sucker Punch engine, but it's clear that the studio has an established framework of features and all of them slot straight into this Tsushima port. That starts with an enviable range of display technology features, inclu
+
+## MultiVersus adds The Matrix's Agent Smith, Jason Voorhees
+ - [https://www.eurogamer.net/multiversus-adds-the-matrixs-agent-smith-jason-voorhees](https://www.eurogamer.net/multiversus-adds-the-matrixs-agent-smith-jason-voorhees)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T14:31:51+00:00
+
+<img src="https://assetsio.gnwcdn.com/MultiVersus---Official-Launch-Trailer-_Stars-Collide.-Pies-Fly._-2-58-screenshot.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Free-to-play platform fighter MultiVersus has confirmed the inclusion of Jason Voorhees from Friday the 13th and Agent Smith from The Matrix, ahead of the game going live (again) next week, on 28th May.
+</p><p>
+Warner Bros' take on Super Smash Bros originally launched in early access last summer, but has been <a href="https://www.eurogamer.net/multiversus-to-shut-down-until-2024-with-no-refunds-for-paying-players">offline for the past 11 months</a> while it was upgraded to Unreal Engine 5. 
+</p><p>
+MultiVersus will arrive next week compatible with cross-platform and cross-progression play for PC (Steam and Epic), PlayStation 5, PS4, Xbox One and Xbox Series X/S. (No Nintendo support is a surprise, but at this point, it's probably best just to wait for <a href="https://www
+
+## Grand Theft Auto 6 publisher "highly confident" of autumn 2025 release window
+ - [https://www.eurogamer.net/grand-theft-auto-6-publisher-highly-confident-of-autumn-2025-release-window](https://www.eurogamer.net/grand-theft-auto-6-publisher-highly-confident-of-autumn-2025-release-window)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T12:37:18+00:00
+
+<img src="https://assetsio.gnwcdn.com/Jason-GTA-6-trailer.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Take-Two is "highly confident" <a href="https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357">GTA 6</a> will make that recently-promised autumn 2025 release window.</p><p>The company's CEO Strauss Zelnick was asked about the timing of GTA 6's release during an interview with CNBC. Here, the company exec said the team generally decides upon a release window by factoring in measurable elements, using the "number of bugs in a title" as an example.</p><p>"Every one of us will make sure we have as few bugs in a title as possible before we launch," Zelnick said. But, in the case of GTA 6 - or, in Zelnick's words, "an extraordinary title, for which there are extraordinary expectations" - it is less about bugs and more about "creating an experience that no one has seen before".</p> <p><a href="https://www.eurogamer.net/grand-theft
+
+## Call of Duty: Modern Warfare 3 cut ending mystery looks to have been solved after 13 years
+ - [https://www.eurogamer.net/call-of-duty-modern-warfare-3-cut-ending-mystery-looks-to-have-been-solved-after-13-years](https://www.eurogamer.net/call-of-duty-modern-warfare-3-cut-ending-mystery-looks-to-have-been-solved-after-13-years)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T11:33:31+00:00
+
+<img src="https://assetsio.gnwcdn.com/ar7iz.webp?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+What looks to be a previously-unseen Call of Duty: Modern Warfare 3 post-credits scene has been uploaded to YouTube after 13 years, solving a mystery surrounding unused audio in the game's files, and offering a bleaker coda to the hugely-popular shooter's campaign.
+</p><p>
+Infinity Ward's first Modern Warfare 3, released in 2011, famously ends with the trilogy's main villain Makarov swinging from a rope, after he and hero Price fall through a glass skylight. The credits roll as Makarov's dead body sways, while an injured Price lights up a cigar. It's a grim but satisfying conclusion. 
+</p><p>
+But unused sound files suggested there was still more to come - and indeed, after 13 years, fans finally believe they can see what Infinity Ward once intended would follow. Spoilers: it would have been bad news for Price.
+</p> <p><a href="https://www.eurog
+
+## Baldur's Gate 3 developer opens Poland studio as work on new projects "ramps up"
+ - [https://www.eurogamer.net/baldurs-gate-3-developer-opens-poland-studio-as-work-on-new-projects-ramps-up](https://www.eurogamer.net/baldurs-gate-3-developer-opens-poland-studio-as-work-on-new-projects-ramps-up)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T10:48:18+00:00
+
+<img src="https://assetsio.gnwcdn.com/Baldurs-Gate-3-header-image_xy5rSuf.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Baldur's Gate 3 developer Larian is to open a seventh studio in Warsaw, Poland.</p><p>This new location will allow the studio to "boost its existing 24-hour development cycle", with Larian CEO Swen Vincke stating the plan is to build a team to work on its two "very ambitious" new RPGs.</p><p>"Visiting [Polish games industry conference] GIC last year confirmed what I'd been thinking for a while - there's a lot of talent here and a lot of devs who think like us," <a href="https://mailchi.mp/icopartners/larian-studios-expands-its-horizons-by-announcing-new-polish-studio?e=f97a1ef347">Vincke said today</a>. "On top of that, many of them want to work on RPGs so it's a match made in heaven."</p> <p><a href="https://www.eurogamer.net/baldurs-gate-3-developer-opens-poland-studio-as-work-on-new-projects-ramps-up">Read more</a
+
+## Popular iPhone emulator in legal trouble - but not from Nintendo
+ - [https://www.eurogamer.net/popular-iphone-emulator-in-legal-trouble-but-not-from-nintendo](https://www.eurogamer.net/popular-iphone-emulator-in-legal-trouble-but-not-from-nintendo)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T10:05:30+00:00
+
+<img src="https://assetsio.gnwcdn.com/Untitled-1_7dsQk9I.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Delta, the popular app that allows users to emulate thousands of Nintendo games on iPhone and iPad, has finally found itself in legal hot water - but not from Nintendo itself. 
+</p><p>
+Instead, Delta's developers were accused of copying their app's icon from Adobe, the company behind PhotoShop - and have now rushed to change it to avoid being kicked off the App Store by Apple.
+</p><p>
+"Adobe threatened legal action unless we changed our app icon - so we did!" the app wrote in its latest patch notes, explaining its hastily-changed icon design. "Hope y'all like it!"
+</p> <p><a href="https://www.eurogamer.net/popular-iphone-emulator-in-legal-trouble-but-not-from-nintendo">Read more</a></p>
+
+## This fan-made Mario Builder 64 game looks spectacular
+ - [https://www.eurogamer.net/this-fan-made-mario-builder-64-game-looks-spectacular](https://www.eurogamer.net/this-fan-made-mario-builder-64-game-looks-spectacular)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-20T10:04:21+00:00
+
+<img src="https://assetsio.gnwcdn.com/super-mario-64_BN0R2IR.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Fans have released Mario Builder 64, a PC toolbox to create levels based on the N64 classic.
+</p><p>
+Where Nintendo's own Super Mario Maker games allow players to create 2D courses using NES, SNES and modern visuals, <a href="https://romhacking.com/hack/mario-builder-64">Mario Builder 64</a> allows for 3D courses filled with familiar assets, enemies, and stars to hunt for - all running on N64 open source.
+
+</p><p>
+A trailer for the game shows building and Mario platforming in action and has since gone viral.
+</p> <p><a href="https://www.eurogamer.net/this-fan-made-mario-builder-64-game-looks-spectacular">Read more</a></p>
+

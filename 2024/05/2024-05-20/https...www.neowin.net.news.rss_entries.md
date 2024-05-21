@@ -1,0 +1,233 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Preorder the Samsung Galaxy Book4 Edge Copilot+ PC laptop and get a 50-inch TV for free
+ - [https://www.neowin.net/deals/preorder-the-samsung-galaxy-book4-edge-copilot-pc-laptop-and-get-a-50-inch-tv-for-free](https://www.neowin.net/deals/preorder-the-samsung-galaxy-book4-edge-copilot-pc-laptop-and-get-a-50-inch-tv-for-free)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T22:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716240205_samsung-galaxy-book4-edge_medium.jpg" /></div>The newly announced Samsung Galaxy Book4 Edge Copilot+ PC  is available for preorder at the Samsung site, and people who get the new laptop can also get a 50-inch Samsung TV for no additional cost. <a href="https://www.neowin.net/deals/preorder-the-samsung-galaxy-book4-edge-copilot-pc-laptop-and-get-a-50-inch-tv-for-free/">Read more...</a>
+
+## Apple fixes iPhone and iPad bug that brings back old photos deleted years ago
+ - [https://www.neowin.net/news/apple-fixes-iphone-and-ipad-bug-that-brings-back-old-photos-deleted-years-ago](https://www.neowin.net/news/apple-fixes-iphone-and-ipad-bug-that-brings-back-old-photos-deleted-years-ago)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T21:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1694550254_iphone_15_pro_4_medium.jpg" /></div>Apple has now fixed a bug on iPhone and iPad that resurfaced deleted photos from years ago in the Photos app. The fix is available as part of the latest updates: iOS 17.5.1 and iPadOS 17.5.1. <a href="https://www.neowin.net/news/apple-fixes-iphone-and-ipad-bug-that-brings-back-old-photos-deleted-years-ago/">Read more...</a>
+
+## The Asus Vivobook S 15 laptop will be the company's first Copilot+ PC notebook
+ - [https://www.neowin.net/news/the-asus-vivobook-s-15-laptop-will-be-the-companys-first-copilot-pc-notebook](https://www.neowin.net/news/the-asus-vivobook-s-15-laptop-will-be-the-companys-first-copilot-pc-notebook)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T21:38:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716234337_asus-vivobook-15_medium.jpg" /></div>Asus has announced the New Vivobook S 15 laptop. It will be the company&#039;s first laptop with the Qualcomm Snapdragon X Elite processor and will be branded as a Copilot+ PC by Microsoft. <a href="https://www.neowin.net/news/the-asus-vivobook-s-15-laptop-will-be-the-companys-first-copilot-pc-notebook/">Read more...</a>
+
+## Amazon price-cuts iPad 10th Gen with A14 Bionic as people shun Apple tablets
+ - [https://www.neowin.net/deals/amazon-price-cuts-ipad-10th-gen-with-a14-bionic-as-people-shun-apple-tablets](https://www.neowin.net/deals/amazon-price-cuts-ipad-10th-gen-with-a14-bionic-as-people-shun-apple-tablets)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T21:24:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/10/1666107200_ipad_10_medium.jpg" /></div>Apple, which generally leads tablet sales, had a big decline in shipments YoY. The company may be responding as Amazon has the 10th Gen iPad powered by the A14 Bionic at its lowest-ever price. <a href="https://www.neowin.net/deals/amazon-price-cuts-ipad-10th-gen-with-a14-bionic-as-people-shun-apple-tablets/">Read more...</a>
+
+## Windows 10 22H2 Release Preview Build 19045.4474 (KB5037849) is all about fixing bugs
+ - [https://www.neowin.net/news/windows-10-22h2-release-preview-build-190454474-kb5037849-is-all-about-fixing-bugs](https://www.neowin.net/news/windows-10-22h2-release-preview-build-190454474-kb5037849-is-all-about-fixing-bugs)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T21:07:58+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/10/1665146156_windows_10_source-_neowin_plus_22h2_medium.jpg" /></div>Microsoft has released the latest Windows 10 build for members of the Insider program in the Release Preview. The 19045.4474 build has no new features but it does fix a number of issues. <a href="https://www.neowin.net/news/windows-10-22h2-release-preview-build-190454474-kb5037849-is-all-about-fixing-bugs/">Read more...</a>
+
+## Paradox delays its The Sims competitor "Life By You" again, this time indefinitely
+ - [https://www.neowin.net/news/paradox-delays-its-the-sims-competitor-life-by-you-again-this-time-indefinitely](https://www.neowin.net/news/paradox-delays-its-the-sims-competitor-life-by-you-again-this-time-indefinitely)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T20:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716237521_ss_1125b6c6c3d8bf2c89cea92dd23cae0670be9451.1920x1080_medium.jpg" /></div>Paradox has once again delayed the launch of its upcoming The Sims rival Life By You. The publisher says the title needs more development time before it&#039;s ready for Steam early access. <a href="https://www.neowin.net/news/paradox-delays-its-the-sims-competitor-life-by-you-again-this-time-indefinitely/">Read more...</a>
+
+## Intel's Lunar Lake processors will be its first Copilot+ PC chips; launch Q3 2024
+ - [https://www.neowin.net/news/intels-lunar-lake-processors-will-be-its-first-copilot-pc-chips-launches-q3-2024](https://www.neowin.net/news/intels-lunar-lake-processors-will-be-its-first-copilot-pc-chips-launches-q3-2024)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T19:22:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716231460_intel-lunar-lake_medium.jpg" /></div>Intel is not going to let Qualcomm get all of the attention today. It announced that its next laptop AI chips, under the code name Lunar Lake, will launch sometime in the third quarter of 2024 <a href="https://www.neowin.net/news/intels-lunar-lake-processors-will-be-its-first-copilot-pc-chips-launches-q3-2024/">Read more...</a>
+
+## HP OmniBook X and EliteBook Ultra AI Copilot+ PCs announced with Snapdragon X Elite chips
+ - [https://www.neowin.net/news/hp-omnibook-x-and-elitebook-ultra-ai-copilot-pcs-announced-with-snapdragon-x-elite-chips](https://www.neowin.net/news/hp-omnibook-x-and-elitebook-ultra-ai-copilot-pcs-announced-with-snapdragon-x-elite-chips)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T18:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716228782_hp-ai-pcs_medium.jpg" /></div>HP has announced two notebooks with  Snapdragon X Elite chips. The HP OmniBook X AI PC and the HP EliteBook Ultra AI PC will both start shipping in mid-June with a starting price of $1,149.99. <a href="https://www.neowin.net/news/hp-omnibook-x-and-elitebook-ultra-ai-copilot-pcs-announced-with-snapdragon-x-elite-chips/">Read more...</a>
+
+## ChatGPT's login-less version reportedly spotted in beta on Android
+ - [https://www.neowin.net/news/chatgpts-login-less-version-reportedly-spotted-in-beta-on-android](https://www.neowin.net/news/chatgpts-login-less-version-reportedly-spotted-in-beta-on-android)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T18:38:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716228632_chatgpt_on_mobile_browser_medium.jpg" /></div>OpenAI could soon expand on its free version of ChatGPT that you can use without an account. Already available on the web, the feature was spotted on the beta version of the ChatGPT app for Android. <a href="https://www.neowin.net/news/chatgpts-login-less-version-reportedly-spotted-in-beta-on-android/">Read more...</a>
+
+## Lenovo unveils its first Copilot Plus PCs with Snapdragon X Elite processors
+ - [https://www.neowin.net/news/lenovo-unveils-its-first-copilot-plus-pcs-with-snapdragon-x-elite-processors](https://www.neowin.net/news/lenovo-unveils-its-first-copilot-plus-pcs-with-snapdragon-x-elite-processors)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T18:07:53+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716228421_lenovo_yoga_slim_7x_1_medium.jpg" /></div>Lenovo has officially unwrapped its first Copilot Plus PCs with Qualcomm&#039;s new Snapdragon X Elite processors. The Yoga Slim 7x and ThinkPad T14s Gen 6 are now official, with prices starting at $1,299. <a href="https://www.neowin.net/news/lenovo-unveils-its-first-copilot-plus-pcs-with-snapdragon-x-elite-processors/">Read more...</a>
+
+## The new Surface Pro with OLED display and ARM processors is now official
+ - [https://www.neowin.net/news/the-new-surface-pro-with-oled-display-and-arm-processors-is-now-official](https://www.neowin.net/news/the-new-surface-pro-with-oled-display-and-arm-processors-is-now-official)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T18:00:20+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716227726_surface_pro_1_medium.jpg" /></div>The new Surface Pro from Microsoft is finally here. The tenth generation of the company&#039;s signature tablet brings a lot of changes, such as OLED displays, ARM chips, a 4K camera, a new keyboard, more. <a href="https://www.neowin.net/news/the-new-surface-pro-with-oled-display-and-arm-processors-is-now-official/">Read more...</a>
+
+## Dell is launching multiple laptops with Snapdragon X chips including the XPS 13
+ - [https://www.neowin.net/news/dell-is-launching-multiple-laptops-with-snapdragon-x-chips-including-the-xps-13](https://www.neowin.net/news/dell-is-launching-multiple-laptops-with-snapdragon-x-chips-including-the-xps-13)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T18:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716046333_dell-xps-13-x-1_medium.jpg" /></div>Dell is launching a number of laptops with Qualcomm&#039;s Snapdragon X Elite and Plus processors. The new models include the XPS 13, which will launch later this year for the starting price of $1,299. <a href="https://www.neowin.net/news/dell-is-launching-multiple-laptops-with-snapdragon-x-chips-including-the-xps-13/">Read more...</a>
+
+## Acer announces the Swift 14 AI laptop with Snapdragon X chips; will launch in US in July
+ - [https://www.neowin.net/news/acer-announces-the-swift-14-ai-laptop-with-snapdragon-x-chips-will-launch-in-us-in-july](https://www.neowin.net/news/acer-announces-the-swift-14-ai-laptop-with-snapdragon-x-chips-will-launch-in-us-in-july)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T17:57:12+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716043778_acer-swift-14-ai_medium.jpg" /></div>Acer has announced its first laptop with the new Qualcomm Snapdragon X chips. The Acer Swift 14 AI will launch in Europe in June, starting at €1,499, and in July in the US, beginning at $1,099. <a href="https://www.neowin.net/news/acer-announces-the-swift-14-ai-laptop-with-snapdragon-x-chips-will-launch-in-us-in-july/">Read more...</a>
+
+## Microsoft announces new Surface Laptop with Snapdragon processors
+ - [https://www.neowin.net/news/microsoft-announces-new-surface-laptop-with-snapdragon-processors](https://www.neowin.net/news/microsoft-announces-new-surface-laptop-with-snapdragon-processors)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T17:41:10+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716227937_surface_laptop_3_medium.jpg" /></div>Microsoft has officially announced the next-generation Surface Laptop with Qualcomm&#039;s Snapdragon X chips. The company claims &quot;it isn&#039;t even close&quot; to the previous laptop generations. <a href="https://www.neowin.net/news/microsoft-announces-new-surface-laptop-with-snapdragon-processors/">Read more...</a>
+
+## Windows 11's 'AI Explorer' debuts as Recall, a feature that remembers everything you do
+ - [https://www.neowin.net/news/windows-11s-ai-explorer-debuts-as-recall-a-feature-that-remembers-everything-you-do](https://www.neowin.net/news/windows-11s-ai-explorer-debuts-as-recall-a-feature-that-remembers-everything-you-do)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T17:29:57+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/02/1707562088_copilot_medium.jpg" /></div>Microsoft has officially unveiled &quot;Recall,&quot; a new Windows 11 feature that can remember everything you do at your computer and get back to it whenever you want with natural language. <a href="https://www.neowin.net/news/windows-11s-ai-explorer-debuts-as-recall-a-feature-that-remembers-everything-you-do/">Read more...</a>
+
+## Copilot+ PCs is the new name for Windows PCs with AI chips
+ - [https://www.neowin.net/news/copilot-plus-pcs-is-the-new-name-for-windows-pcs-with-ai-chips](https://www.neowin.net/news/copilot-plus-pcs-is-the-new-name-for-windows-pcs-with-ai-chips)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T17:24:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716224943_copilot-plus-pc_medium.jpg" /></div>Microsoft has announced that new Windows 11 PCs that have a dedicated AI processor inside will be labeled as &quot;Copilot+ PCs.&quot; Intel, AMD and Qualcomm will be making those new chips. <a href="https://www.neowin.net/news/copilot-plus-pcs-is-the-new-name-for-windows-pcs-with-ai-chips/">Read more...</a>
+
+## Save 41% off lifetime upgrades to AOMEI Backupper Professional Edition
+ - [https://www.neowin.net/deals/save-41-off-lifetime-upgrades-to-aomei-backupper-professional-edition](https://www.neowin.net/deals/save-41-off-lifetime-upgrades-to-aomei-backupper-professional-edition)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T17:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/01/1704790443_aomipackp_800x500-800x500_medium.jpg" /></div>Easily and safely protect everything on your PC, including the system, disks, individual files, and partitions with Backupper Professional in today&#039;s highlighted deal, and save $20.96 off the cost. <a href="https://www.neowin.net/deals/save-41-off-lifetime-upgrades-to-aomei-backupper-professional-edition/">Read more...</a>
+
+## The Senua's Saga: Hellblade II launch trailer prepares us for the Xbox-PC release on May 21
+ - [https://www.neowin.net/news/the-senuas-saga-hellblade-ii-launch-trailer-prepares-us-for-the-xbox-pc-release-on-may-21](https://www.neowin.net/news/the-senuas-saga-hellblade-ii-launch-trailer-prepares-us-for-the-xbox-pc-release-on-may-21)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T16:38:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1710516598_giudvhdwsaa-gdb_medium.jpg" /></div>Microsoft has released the final launch trailer for  Senua&#039;s Saga: Hellblade II, the third-person action-adventure single-player game from developer Ninja Theory that will be released on May 21. <a href="https://www.neowin.net/news/the-senuas-saga-hellblade-ii-launch-trailer-prepares-us-for-the-xbox-pc-release-on-may-21/">Read more...</a>
+
+## The Apple iPhone SE 4 with Face ID will allegedly cost you less than $500
+ - [https://www.neowin.net/news/the-apple-iphone-se-4-with-face-id-will-allegedly-cost-you-less-than-500](https://www.neowin.net/news/the-apple-iphone-se-4-with-face-id-will-allegedly-cost-you-less-than-500)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T15:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1712938976_iphone-13-hero-image_medium.jpg" /></div>Apple iPhone SE 4 is expected to get a price increase but could still target the sub-$500 price range. The phone is set to ditch the home button, meaning it will come with Face ID and the notch. <a href="https://www.neowin.net/news/the-apple-iphone-se-4-with-face-id-will-allegedly-cost-you-less-than-500/">Read more...</a>
+
+## UK gets serious about semiconductors with the launch of a new institute
+ - [https://www.neowin.net/news/uk-gets-serious-about-semiconductors-with-the-launch-of-a-new-institute](https://www.neowin.net/news/uk-gets-serious-about-semiconductors-with-the-launch-of-a-new-institute)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T15:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/04/1682537562_1650973687_tsmc_semiconductor_medium.jpg" /></div>The UK has launched the independent UK Semiconductor Institute. It will help bring together government, universities, and the private sector to help the country&#039;s semiconductor sector do well. <a href="https://www.neowin.net/news/uk-gets-serious-about-semiconductors-with-the-launch-of-a-new-institute/">Read more...</a>
+
+## MultiVersus launch trailer reveals Friday The 13th's Jason and Agent Smith from The Matrix
+ - [https://www.neowin.net/news/multiversus-launch-trailer-reveals-friday-the-13ths-jason-and-agent-smith-from-the-matrix](https://www.neowin.net/news/multiversus-launch-trailer-reveals-friday-the-13ths-jason-and-agent-smith-from-the-matrix)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T15:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716214994_multiversus-1_medium.jpg" /></div>Player First Game released a new trailer for the MultiVersus game ahead of its May 28 launch. It reveals two new characters: Jason from the Friday the 13 movies and The Matrix&#039;s Agent Smith. <a href="https://www.neowin.net/news/multiversus-launch-trailer-reveals-friday-the-13ths-jason-and-agent-smith-from-the-matrix/">Read more...</a>
+
+## Python All-in-One For Dummies 3rd Edition eBook worth $27, now free to download
+ - [https://www.neowin.net/sponsored/python-all-in-one-for-dummies-3rd-edition-ebook-worth-27-now-free-to-download](https://www.neowin.net/sponsored/python-all-in-one-for-dummies-3rd-edition-ebook-worth-27-now-free-to-download)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T15:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716200433_w_wile552c82_medium.jpg" /></div>Your one-stop source for answers to all your Python questions. From creating apps to building complex web sites to sorting big data, Python provides a way to get the work done. <a href="https://www.neowin.net/sponsored/python-all-in-one-for-dummies-3rd-edition-ebook-worth-27-now-free-to-download/">Read more...</a>
+
+## UK government's AI Safety Institute set to expand to San Francisco
+ - [https://www.neowin.net/news/uk-governments-ai-safety-institute-set-to-expand-to-san-francisco](https://www.neowin.net/news/uk-governments-ai-safety-institute-set-to-expand-to-san-francisco)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T14:36:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716214960_6647bd5d1fc1eeba2bfa953f_53303550320_189b753af2_b_medium.jpg" /></div>The UK government&#039;s AI Safety Institute will launch a San Francisco-based office in the summer. It wants to expand its expertise in AI by having easy access to the creators in San Francisco. <a href="https://www.neowin.net/news/uk-governments-ai-safety-institute-set-to-expand-to-san-francisco/">Read more...</a>
+
+## OpenAI says it will "pause the use" of one of its ChatGPT female AI voices
+ - [https://www.neowin.net/news/openai-says-it-will-pause-the-use-of-one-of-its-chatgpt-female-ai-voices](https://www.neowin.net/news/openai-says-it-will-pause-the-use-of-one-of-its-chatgpt-female-ai-voices)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T14:20:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716016345_depositphotos_640750110_s1_medium.jpg" /></div>OpenAI says it will &quot;pause the use&quot; of one of the AI voices available for its ChatGPT service. Some users felt that the voice in question, Sky, sounded too much like the actor Scarlett Johansson. <a href="https://www.neowin.net/news/openai-says-it-will-pause-the-use-of-one-of-its-chatgpt-female-ai-voices/">Read more...</a>
+
+## Latest updates about the alleged Samsung Galaxy Z Flip6 reveal interesting camera details
+ - [https://www.neowin.net/news/latest-updates-about-the-alleged-samsung-galaxy-z-flip6-reveal-interesting-camera-details](https://www.neowin.net/news/latest-updates-about-the-alleged-samsung-galaxy-z-flip6-reveal-interesting-camera-details)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T13:34:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713592986_galaxy-z-flip-5_medium.jpg" /></div>The Samsung Galaxy Z Flip6, which is slated to launch in a couple of months has picked up the BIS certificate hinting at an imminent launch in India and was also spotted in the Camera FV-5 platform. <a href="https://www.neowin.net/news/latest-updates-about-the-alleged-samsung-galaxy-z-flip6-reveal-interesting-camera-details/">Read more...</a>
+
+## Google plans to heat a Finnish district with its Hamina data centre
+ - [https://www.neowin.net/news/google-plans-to-heat-a-finnish-district-with-its-hamina-data-centre](https://www.neowin.net/news/google-plans-to-heat-a-finnish-district-with-its-hamina-data-centre)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T13:10:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716209681_google-hamina_medium.jpg" /></div>Google will be using the heat generated at its Hamina data centre in Finland to help provide locals with free heating. This will be appreciated by people in the area who face freezing weather. <a href="https://www.neowin.net/news/google-plans-to-heat-a-finnish-district-with-its-hamina-data-centre/">Read more...</a>
+
+## Get this PNY 2TB portable external SSD for an all new low price of $93.99
+ - [https://www.neowin.net/deals/get-this-pny-2tb-portable-external-ssd-for-an-all-new-low-price-of-9399](https://www.neowin.net/deals/get-this-pny-2tb-portable-external-ssd-for-an-all-new-low-price-of-9399)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T12:34:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/02/1707653186_pny_elitex-pro_medium.jpg" /></div>The 2TB PNY EliteX-PRO portable external solid-state drive is perfect if you need to back up files quickly in a compact form factor. It has just hit a new all-time low price of $93.99 at Amazon. <a href="https://www.neowin.net/deals/get-this-pny-2tb-portable-external-ssd-for-an-all-new-low-price-of-9399/">Read more...</a>
+
+## AMD Ryzen 7 5700X3D drops to a new all-time low price of just $204.99
+ - [https://www.neowin.net/deals/amd-ryzen-7-5700x3d-drops-to-a-new-all-time-low-price-of-just-20499](https://www.neowin.net/deals/amd-ryzen-7-5700x3d-drops-to-a-new-all-time-low-price-of-just-20499)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T11:52:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716203055_ryzen_7_5700x3d_medium.jpg" /></div>AMD has a wonderful offer for PC users with AM4-based boards. The Ryzen 7 5700X3D, one of the best price-to-performance (especially in games) processors, is now available for as little as $204.99. <a href="https://www.neowin.net/deals/amd-ryzen-7-5700x3d-drops-to-a-new-all-time-low-price-of-just-20499/">Read more...</a>
+
+## Samsung 34" Odyssey G85SB QD-OLED curved gaming monitor is back to its cheapest price
+ - [https://www.neowin.net/deals/samsung-34-odyssey-g85sb-qd-oled-curved-gaming-monitor-is-back-to-its-cheapest-price](https://www.neowin.net/deals/samsung-34-odyssey-g85sb-qd-oled-curved-gaming-monitor-is-back-to-its-cheapest-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T10:04:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/01/1704238920_samsung-odyssey-g8-oled_medium.jpg" /></div>Samsung continues to drop prices on some of its premium high-quality monitors and other displays. Today, its Odyssey G8 34-inch model, sporting QD-OLED tech, is back to its best deal. <a href="https://www.neowin.net/deals/samsung-34-odyssey-g85sb-qd-oled-curved-gaming-monitor-is-back-to-its-cheapest-price/">Read more...</a>
+
+## A parachute failed during a crewed landing of Blue Origin's return-to-flight mission
+ - [https://www.neowin.net/news/a-parachute-failed-during-a-crewed-landing-of-blue-origins-return-to-flight-mission](https://www.neowin.net/news/a-parachute-failed-during-a-crewed-landing-of-blue-origins-return-to-flight-mission)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T09:44:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716197393_ns-25_parachute_medium.jpg" /></div>Blue Origin&#039;s New Shepard returned to crewed suborbital flights, successfully sending six astronauts to space. However, after a long hiatus, there is another huge concern due to a parachute failure. <a href="https://www.neowin.net/news/a-parachute-failed-during-a-crewed-landing-of-blue-origins-return-to-flight-mission/">Read more...</a>
+
+## Surface Laptop Go 3 gets fixes for screen flickering and Wi-Fi improvements
+ - [https://www.neowin.net/news/surface-laptop-go-3-gets-fixes-for-screen-flickering-and-wi-fi-improvements](https://www.neowin.net/news/surface-laptop-go-3-gets-fixes-for-screen-flickering-and-wi-fi-improvements)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T09:14:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1695472565_surface_laptop_go_3_1_medium.jpg" /></div>Another day, another Surface firmware update. This time, Microsoft is rolling out new updates for its entry-level Surface Laptop Go 3. The release fixes screen flickering and improves connectivity. <a href="https://www.neowin.net/news/surface-laptop-go-3-gets-fixes-for-screen-flickering-and-wi-fi-improvements/">Read more...</a>
+
+## iPhone 16 series tipped off to come in new colors and may rename the older ones
+ - [https://www.neowin.net/news/iphone-16-series-tipped-off-to-come-in-new-colors-and-may-rename-the-older-ones](https://www.neowin.net/news/iphone-16-series-tipped-off-to-come-in-new-colors-and-may-rename-the-older-ones)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T06:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714478386_iphone-16-hero_medium.jpg" /></div>Amidst multiple leaks about the hardware, a new tip about the upcoming iPhone 16 series suggests that Apple could introduce some new color options for the series and rename the older ones. <a href="https://www.neowin.net/news/iphone-16-series-tipped-off-to-come-in-new-colors-and-may-rename-the-older-ones/">Read more...</a>
+
+## The second-generation Apple AirTag is rumored to be announced next year
+ - [https://www.neowin.net/news/the-second-generation-apple-airtag-is-rumored-to-be-announced-next-year](https://www.neowin.net/news/the-second-generation-apple-airtag-is-rumored-to-be-announced-next-year)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-20T06:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716183930_apple-airtag-hero_medium.jpg" /></div>Apple is rumored to be working on the second-generation AirTag and if all goes well, the item tracker could bring improved location tracking and the item tracker may be launched in 2025. <a href="https://www.neowin.net/news/the-second-generation-apple-airtag-is-rumored-to-be-announced-next-year/">Read more...</a>
+
