@@ -1,0 +1,30 @@
+# Source:Amiga, URL:https://www.reddit.com/r/amiga/.rss, language:en
+
+## Amiga 600 V.S. Amiga 1200
+ - [https://www.reddit.com/r/amiga/comments/1cy8s0j/amiga_600_vs_amiga_1200](https://www.reddit.com/r/amiga/comments/1cy8s0j/amiga_600_vs_amiga_1200)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-05-22T19:20:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1cy8s0j/amiga_600_vs_amiga_1200/"> <img alt="Amiga 600 V.S. Amiga 1200" src="https://external-preview.redd.it/bEJyj17cGG-eycP_7kTDVfS1UFbcWY_VsLrq6ElwV0c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e348635dec639e3ba9d514165614a9ef47ace77" title="Amiga 600 V.S. Amiga 1200" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello,</p> <p>I’ve been doing some research, and I looked into RetroPassion’s refurbished units for an Amiga 1200 and 600.</p> <p>The 600 seems to be slightly “cheaper”, and both seem to have HD alternatives with IDE to CF I believe.</p> <p>The seller, if I’m not mistaken, said that both would be PAL, but that if I used an Amiga RGB to SCART, then a SCART to HDMI, it should work without any issues, and that they should work with American PSUs (I have an A500 PSU).</p> <p>Which do you all think is the better deal, maybe?</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="ht
+
+## Playable Demo of Level 2 of my AGA action game
+ - [https://www.reddit.com/r/amiga/comments/1cy30do/playable_demo_of_level_2_of_my_aga_action_game](https://www.reddit.com/r/amiga/comments/1cy30do/playable_demo_of_level_2_of_my_aga_action_game)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-05-22T15:27:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have finished the second level demo of my AGA Scorpion game called Silhouette Threat. This one is auto-scrolling so the gameplay is different from level one. I've also simulated 6 overlapping layers of parallax which hasn't been done on the Amiga before to my knowledge. My daughter helped out with some of the artwork. It's a free download if you want to give it a try at <a href="https://lionagony.itch.io/silhouette-threat-aga-amiga">https://lionagony.itch.io/silhouette-threat-aga-amiga</a> Thanks. You can also watch a video of some of the level here: <a href="https://www.youtube.com/watch?v=FMVbjXtHn_Y&amp;ab_channel=psquaredish">https://www.youtube.com/watch?v=FMVbjXtHn_Y&amp;ab_channel=psquaredish</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/edutainment2"> /u/edutainment2 </a> <br /> <span><a href="https://www.reddit.com/r/amiga/comments/1cy30do/playable_demo_of_level_2_of_my_aga_action_game/">[link]</
+
+## Anyway to use keyboard instead of joystick for games
+ - [https://www.reddit.com/r/amiga/comments/1cy1xwd/anyway_to_use_keyboard_instead_of_joystick_for](https://www.reddit.com/r/amiga/comments/1cy1xwd/anyway_to_use_keyboard_instead_of_joystick_for)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-05-22T14:43:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there i have a amiga 120p...never had one before and managed to get some games working finally but realised the ones i have got and tried...zool and 2 dizzy games theres no keyboard support to play so forced to use joystick</p> <p>Is this the same for all amiga games? Also is there a way to let you use keyboard and not joystick. Always hated using joysticks, the only ones i can get on with but still hate are the ones where the stick is in the middle so i can use my right hand to control it and the buttons are at the back within reach i have 2 of these for my amstrad .... luckily its rare to get games that are joystick only on that</p> <p>I can not use my left hand for the joystick like alot seem to be configured for lol i am sure most joysticks are made by left handers</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Shoddy-Working-3232"> /u/Shoddy-Working-3232 </a> <br /> <span><a href="https://www.reddit.com/
+
+## Need some indication for test point
+ - [https://www.reddit.com/r/amiga/comments/1cxtrrb/need_some_indication_for_test_point](https://www.reddit.com/r/amiga/comments/1cxtrrb/need_some_indication_for_test_point)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-05-22T06:37:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I need to test a recently buyer Amiga 500 rev 5 with 512k ram </p> <p>I think the ram or kickstart are bad of even some capacitors :</p> <p>cold boot without chip &gt; purple</p> <p>Soft reset ( sometimes turquoise, sometimes red sometimes sometimes not effective and sometimes artifact video audio came out)</p> <p>I got some osc to test all the bad components, someone can tell me or post pics to voltage/ signals - point probe reference to test?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Accomplished_Head704"> /u/Accomplished_Head704 </a> <br /> <span><a href="https://www.reddit.com/r/amiga/comments/1cxtrrb/need_some_indication_for_test_point/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1cxtrrb/need_some_indication_for_test_point/">[comments]</a></span>
+

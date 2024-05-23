@@ -1,0 +1,261 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Lithuania plans to install permanent fortifications on its borders with Russia and Belarus to stop the possible movement of hostile forces, Lithuanian Defence Minister has said
+ - [https://www.reddit.com/r/worldnews/comments/1cy79a7/lithuania_plans_to_install_permanent](https://www.reddit.com/r/worldnews/comments/1cy79a7/lithuania_plans_to_install_permanent)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T18:19:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cy79a7/lithuania_plans_to_install_permanent/"> <img alt="Lithuania plans to install permanent fortifications on its borders with Russia and Belarus to stop the possible movement of hostile forces, Lithuanian Defence Minister has said" src="https://external-preview.redd.it/k9klrMZhzPJXS__J4ANI9xVlaW5OM-ZL3vvU6Zf9v7o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bfbe6ad9b1dc0ef5174d8b5fa07c51e915e17237" title="Lithuania plans to install permanent fortifications on its borders with Russia and Belarus to stop the possible movement of hostile forces, Lithuanian Defence Minister has said" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giuliomagnifico"> /u/giuliomagnifico </a> <br /> <span><a href="https://www.lrt.lt/en/news-in-english/19/2279757/lithuania-plans-permanent-fortifications-on-russia-belarus-borders-minister">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/w
+
+## Video of Hamas kidnapping female IDF soldiers published by Hostages and Families Forum
+ - [https://www.reddit.com/r/worldnews/comments/1cy72ls/video_of_hamas_kidnapping_female_idf_soldiers](https://www.reddit.com/r/worldnews/comments/1cy72ls/video_of_hamas_kidnapping_female_idf_soldiers)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T18:12:03+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ssteiny"> /u/ssteiny </a> <br /> <span><a href="https://m.jpost.com/breaking-news/article-802153">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cy72ls/video_of_hamas_kidnapping_female_idf_soldiers/">[comments]</a></span>
+
+## A US rule on weapons has Ukraine fighting with one hand tied behind its back
+ - [https://www.reddit.com/r/worldnews/comments/1cy5z6u/a_us_rule_on_weapons_has_ukraine_fighting_with](https://www.reddit.com/r/worldnews/comments/1cy5z6u/a_us_rule_on_weapons_has_ukraine_fighting_with)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T17:27:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cy5z6u/a_us_rule_on_weapons_has_ukraine_fighting_with/"> <img alt="A US rule on weapons has Ukraine fighting with one hand tied behind its back" src="https://external-preview.redd.it/muJ8VlTaQDrMfTvUeObUITHqhhH1MIjPxx03Kd9IDcs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87fd074f71c807ab4f05f6661f04470cf3fdcf33" title="A US rule on weapons has Ukraine fighting with one hand tied behind its back" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jayla-Powell19"> /u/Jayla-Powell19 </a> <br /> <span><a href="https://www.businessinsider.com/biden-officials-have-ukraine-fighting-russia-hand-tied-behind-back-2024-5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cy5z6u/a_us_rule_on_weapons_has_ukraine_fighting_with/">[comments]</a></span> </td></tr></table>
+
+## US House Speaker Mike Johnson supports allowing Ukraine to hit Russia with US-supplied weapons
+ - [https://www.reddit.com/r/worldnews/comments/1cy5t2w/us_house_speaker_mike_johnson_supports_allowing](https://www.reddit.com/r/worldnews/comments/1cy5t2w/us_house_speaker_mike_johnson_supports_allowing)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T17:20:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cy5t2w/us_house_speaker_mike_johnson_supports_allowing/"> <img alt="US House Speaker Mike Johnson supports allowing Ukraine to hit Russia with US-supplied weapons" src="https://external-preview.redd.it/rhOeDyJMaUfR3TvFGxD3iUFPbiifTt74cSNm-v3xn2Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5724c829bb626feb8c6ceab0df5725f3c59409b2" title="US House Speaker Mike Johnson supports allowing Ukraine to hit Russia with US-supplied weapons" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FanPractical9683"> /u/FanPractical9683 </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/05/22/7457116/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cy5t2w/us_house_speaker_mike_johnson_supports_allowing/">[comments]</a></span> </td></tr></table>
+
+## Microsoft being investigated over new ‘Recall’ AI feature that tracks your every PC move
+ - [https://www.reddit.com/r/worldnews/comments/1cy5efs/microsoft_being_investigated_over_new_recall_ai](https://www.reddit.com/r/worldnews/comments/1cy5efs/microsoft_being_investigated_over_new_recall_ai)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T17:04:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cy5efs/microsoft_being_investigated_over_new_recall_ai/"> <img alt="Microsoft being investigated over new ‘Recall’ AI feature that tracks your every PC move" src="https://external-preview.redd.it/ZjNRcAypzqXQeurlum1bVamE9kJiv4jnF9KpT9YCQaE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bcecb44d176a22f3946869e2fb1467538089abed" title="Microsoft being investigated over new ‘Recall’ AI feature that tracks your every PC move" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rubeserra"> /u/rubeserra </a> <br /> <span><a href="https://mashable.com/article/microsoft-recall-ai-feature-uk-investigation?taid=664e253af3a32f0001d89f23&amp;utm_campaign=trueAnthem%3A+Manual&amp;utm_medium=trueAnthem&amp;utm_source=twitter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cy5efs/microsoft_being_investigated_over_new_recall_ai/">[comments]</a></span> </td></tr></t
+
+## Israel will not transfer much-needed funds to the Palestinian Authority in the wake of the decision by three European countries to recognize a Palestinian state
+ - [https://www.reddit.com/r/worldnews/comments/1cy55e2/israel_will_not_transfer_muchneeded_funds_to_the](https://www.reddit.com/r/worldnews/comments/1cy55e2/israel_will_not_transfer_muchneeded_funds_to_the)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T16:54:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cy55e2/israel_will_not_transfer_muchneeded_funds_to_the/"> <img alt="Israel will not transfer much-needed funds to the Palestinian Authority in the wake of the decision by three European countries to recognize a Palestinian state" src="https://external-preview.redd.it/lDFqLipfQvEzdxeyYgpKoL2ftu3gT9ci8IPFzUwnCAU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b870daf050cd85d160668c740d251017ee0b106" title="Israel will not transfer much-needed funds to the Palestinian Authority in the wake of the decision by three European countries to recognize a Palestinian state" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br /> <span><a href="https://www.nytimes.com/2024/05/22/world/middleeast/israel-reacts-palestinian-finance.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cy55e2/israel_will_not_transfer_muchnee
+
+## Rishi Sunak to call general election for 4 July, Sky News understands | Politics News
+ - [https://www.reddit.com/r/worldnews/comments/1cy49jh/rishi_sunak_to_call_general_election_for_4_july](https://www.reddit.com/r/worldnews/comments/1cy49jh/rishi_sunak_to_call_general_election_for_4_july)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T16:18:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cy49jh/rishi_sunak_to_call_general_election_for_4_july/"> <img alt="Rishi Sunak to call general election for 4 July, Sky News understands | Politics News" src="https://external-preview.redd.it/H2sIsjWUD0hp91-25fHG3Oj9wE2nso2jSlIILI5Dl9w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=13a5bbd1cb3cdee2c74fe90f1d62cb4e34c5d49f" title="Rishi Sunak to call general election for 4 July, Sky News understands | Politics News" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TailungFu"> /u/TailungFu </a> <br /> <span><a href="https://news.sky.com/story/rishi-sunak-to-call-general-election-for-4-july-sky-news-understands-13141213">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cy49jh/rishi_sunak_to_call_general_election_for_4_july/">[comments]</a></span> </td></tr></table>
+
+## France ‘investigating whether Russia behind’ graffiti on Holocaust memorial
+ - [https://www.reddit.com/r/worldnews/comments/1cy3c88/france_investigating_whether_russia_behind](https://www.reddit.com/r/worldnews/comments/1cy3c88/france_investigating_whether_russia_behind)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T15:41:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cy3c88/france_investigating_whether_russia_behind/"> <img alt="France ‘investigating whether Russia behind’ graffiti on Holocaust memorial" src="https://external-preview.redd.it/rwQl7DOnc3JbZzIc8WhXCxQKDsbaWjFzV45sT99crz8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a110f460b82a3b4cc6f83d244a3e9d00516df16d" title="France ‘investigating whether Russia behind’ graffiti on Holocaust memorial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nervous-District-366"> /u/Nervous-District-366 </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/may/22/france-russia-paris-holocaust-memorial-graffiti-red-hand">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cy3c88/france_investigating_whether_russia_behind/">[comments]</a></span> </td></tr></table>
+
+## Rishi Sunak will call general election for July in surprise move – sources
+ - [https://www.reddit.com/r/worldnews/comments/1cy2pte/rishi_sunak_will_call_general_election_for_july](https://www.reddit.com/r/worldnews/comments/1cy2pte/rishi_sunak_will_call_general_election_for_july)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T15:15:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cy2pte/rishi_sunak_will_call_general_election_for_july/"> <img alt="Rishi Sunak will call general election for July in surprise move – sources" src="https://external-preview.redd.it/ra0Jnj3waFWRR_-kWNDjofIlZl6yXdZnlH94WAwZ1N0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7713ffe6225f3599d6022ba864e4ad4182632bfb" title="Rishi Sunak will call general election for July in surprise move – sources" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/3kOlen"> /u/3kOlen </a> <br /> <span><a href="https://www.theguardian.com/politics/article/2024/may/22/rishi-sunak-will-call-general-election-for-july-in-surprise-move-sources">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cy2pte/rishi_sunak_will_call_general_election_for_july/">[comments]</a></span> </td></tr></table>
+
+## China to help Russia ramp up war on Ukraine, warns Grant Shapps
+ - [https://www.reddit.com/r/worldnews/comments/1cy1jtq/china_to_help_russia_ramp_up_war_on_ukraine_warns](https://www.reddit.com/r/worldnews/comments/1cy1jtq/china_to_help_russia_ramp_up_war_on_ukraine_warns)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T14:26:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cy1jtq/china_to_help_russia_ramp_up_war_on_ukraine_warns/"> <img alt="China to help Russia ramp up war on Ukraine, warns Grant Shapps" src="https://external-preview.redd.it/8XQNhluHiSPX-1XYHWwZ45grkvWNNHDnsO9epPsSxDE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=309ddfef43771d8b5ab1d881369cad6b532d18ca" title="China to help Russia ramp up war on Ukraine, warns Grant Shapps" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/world-news/2024/05/22/china-russia-help-putin-war-ukraine-grant-shapps/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cy1jtq/china_to_help_russia_ramp_up_war_on_ukraine_warns/">[comments]</a></span> </td></tr></table>
+
+## Up to 4,000 Swiss army soldiers to protect Ukraine peace conference
+ - [https://www.reddit.com/r/worldnews/comments/1cy0xx6/up_to_4000_swiss_army_soldiers_to_protect_ukraine](https://www.reddit.com/r/worldnews/comments/1cy0xx6/up_to_4000_swiss_army_soldiers_to_protect_ukraine)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T13:59:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cy0xx6/up_to_4000_swiss_army_soldiers_to_protect_ukraine/"> <img alt="Up to 4,000 Swiss army soldiers to protect Ukraine peace conference" src="https://external-preview.redd.it/ZvrkFcCn782TtgNqU-gT7dLCRm3qeKiyqIUVpspDwX8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e368b31be79ed715073d209d584875191c993ff3" title="Up to 4,000 Swiss army soldiers to protect Ukraine peace conference" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BezugssystemCH1903"> /u/BezugssystemCH1903 </a> <br /> <span><a href="https://www.swissinfo.ch/eng/swiss-politics/kick-off-ukraine-up-to-4000-members-of-the-armed-forces-to-protect-ukraine-conference/78291608">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cy0xx6/up_to_4000_swiss_army_soldiers_to_protect_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Russia is waging a shadow war on the West that needs a collective response, Estonian leader says
+ - [https://www.reddit.com/r/worldnews/comments/1cy0lj5/russia_is_waging_a_shadow_war_on_the_west_that](https://www.reddit.com/r/worldnews/comments/1cy0lj5/russia_is_waging_a_shadow_war_on_the_west_that)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T13:44:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cy0lj5/russia_is_waging_a_shadow_war_on_the_west_that/"> <img alt="Russia is waging a shadow war on the West that needs a collective response, Estonian leader says" src="https://external-preview.redd.it/yJ-VOh8Cr6hkXPpGQWf4YOpNUjzmj-_jhZ0ndi8Mbyo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ec248c4cab484fea85a383e04c497412c31cb35" title="Russia is waging a shadow war on the West that needs a collective response, Estonian leader says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LongDukDongle"> /u/LongDukDongle </a> <br /> <span><a href="https://apnews.com/article/russia-estonia-baltics-sabotage-spying-kallas-62835b00fdb31f648ebe2259908ca2a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cy0lj5/russia_is_waging_a_shadow_war_on_the_west_that/">[comments]</a></span> </td></tr></table>
+
+## Video shows Hamas abduction of female IDF spotters on Oct. 7
+ - [https://www.reddit.com/r/worldnews/comments/1cxzyo9/video_shows_hamas_abduction_of_female_idf](https://www.reddit.com/r/worldnews/comments/1cxzyo9/video_shows_hamas_abduction_of_female_idf)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T13:15:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxzyo9/video_shows_hamas_abduction_of_female_idf/"> <img alt="Video shows Hamas abduction of female IDF spotters on Oct. 7" src="https://external-preview.redd.it/xsMYv7rSBzroN5DHvZ7QzLQYGF0BebPuY2VINmKpuXg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c9c5f3bf28a0434a4e8b98bcd2c21e21744ffbc" title="Video shows Hamas abduction of female IDF spotters on Oct. 7" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ask4MD"> /u/Ask4MD </a> <br /> <span><a href="https://www.jns.org/video-shows-hamas-abduction-of-female-idf-spotters-on-oct-7/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxzyo9/video_shows_hamas_abduction_of_female_idf/">[comments]</a></span> </td></tr></table>
+
+## Russian Propagandist Falls for Joke About ‘Assassination’ of Iranian President
+ - [https://www.reddit.com/r/worldnews/comments/1cxzqec/russian_propagandist_falls_for_joke_about](https://www.reddit.com/r/worldnews/comments/1cxzqec/russian_propagandist_falls_for_joke_about)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T13:04:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxzqec/russian_propagandist_falls_for_joke_about/"> <img alt="Russian Propagandist Falls for Joke About ‘Assassination’ of Iranian President" src="https://external-preview.redd.it/VS2NDxPzC_Jrige8qkTc6KSmMyrjE_qJ6DGini3RYZQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ed151104c05f3a647c1796837eac5954305db36" title="Russian Propagandist Falls for Joke About ‘Assassination’ of Iranian President" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ask4MD"> /u/Ask4MD </a> <br /> <span><a href="https://www.kyivpost.com/post/33087">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxzqec/russian_propagandist_falls_for_joke_about/">[comments]</a></span> </td></tr></table>
+
+## Russia denies U.S. charge that it put anti-satellite weapon in space
+ - [https://www.reddit.com/r/worldnews/comments/1cxzah9/russia_denies_us_charge_that_it_put_antisatellite](https://www.reddit.com/r/worldnews/comments/1cxzah9/russia_denies_us_charge_that_it_put_antisatellite)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T12:42:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxzah9/russia_denies_us_charge_that_it_put_antisatellite/"> <img alt="Russia denies U.S. charge that it put anti-satellite weapon in space" src="https://external-preview.redd.it/7VzgNNO8vZqzFZ5iHKWbQekPnDjCl_DfbzbDWTLG8s0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=01acfe0fb3c686335b4addff8d0fe05167bd6956" title="Russia denies U.S. charge that it put anti-satellite weapon in space" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NightmaresOfDarkness"> /u/NightmaresOfDarkness </a> <br /> <span><a href="https://www.reuters.com/world/russia-dismisses-us-claim-that-moscow-put-an-anti-satellite-weapon-space-2024-05-22/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxzah9/russia_denies_us_charge_that_it_put_antisatellite/">[comments]</a></span> </td></tr></table>
+
+## UK defence minister says intelligence has evidence of Chinese lethal aid to Russia
+ - [https://www.reddit.com/r/worldnews/comments/1cxyaq1/uk_defence_minister_says_intelligence_has](https://www.reddit.com/r/worldnews/comments/1cxyaq1/uk_defence_minister_says_intelligence_has)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T11:49:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxyaq1/uk_defence_minister_says_intelligence_has/"> <img alt="UK defence minister says intelligence has evidence of Chinese lethal aid to Russia" src="https://external-preview.redd.it/SbKRIp4Gh-sWOwQlbyqPMuzpH3EzGoO4qdJdxPA0i6w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f072991cb42be519242dbc098072c162160695e" title="UK defence minister says intelligence has evidence of Chinese lethal aid to Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ksx0"> /u/ksx0 </a> <br /> <span><a href="https://www.reuters.com/world/uk-defence-minister-says-intelligence-has-evidence-chinese-lethal-aid-russia-2024-05-22/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxyaq1/uk_defence_minister_says_intelligence_has/">[comments]</a></span> </td></tr></table>
+
+## UK says neutral countries should join NATO if they want protection
+ - [https://www.reddit.com/r/worldnews/comments/1cxya62/uk_says_neutral_countries_should_join_nato_if](https://www.reddit.com/r/worldnews/comments/1cxya62/uk_says_neutral_countries_should_join_nato_if)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T11:48:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxya62/uk_says_neutral_countries_should_join_nato_if/"> <img alt="UK says neutral countries should join NATO if they want protection" src="https://external-preview.redd.it/eUu0kfPHsahJ3qloIJWXUqZuVGOHwLnimhPvVOb_jeU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28df7085e022a4bf6c3892fd5af7861ab52d5765" title="UK says neutral countries should join NATO if they want protection" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ifurye"> /u/ifurye </a> <br /> <span><a href="https://www.politico.eu/article/uk-defense-secretary-grant-shapps-says-neutral-countries-should-join-nato-if-they-want-protection/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxya62/uk_says_neutral_countries_should_join_nato_if/">[comments]</a></span> </td></tr></table>
+
+## Brazil, France, Spain, Germany and S. Africa Push To Tax Billionaires 2% Yearly; US Says No
+ - [https://www.reddit.com/r/worldnews/comments/1cxy34h/brazil_france_spain_germany_and_s_africa_push_to](https://www.reddit.com/r/worldnews/comments/1cxy34h/brazil_france_spain_germany_and_s_africa_push_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T11:37:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxy34h/brazil_france_spain_germany_and_s_africa_push_to/"> <img alt="Brazil, France, Spain, Germany and S. Africa Push To Tax Billionaires 2% Yearly; US Says No" src="https://external-preview.redd.it/wNxXunwIqqPkf_T5AXycKFeLd3P51QSR457TRvg0CxQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=55b216177e9f8ab69d6ba1309337bb65899413a6" title="Brazil, France, Spain, Germany and S. Africa Push To Tax Billionaires 2% Yearly; US Says No" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rickkins1"> /u/Rickkins1 </a> <br /> <span><a href="https://www.ibtimes.co.uk/us-opposes-taxing-billionaires-2-yearly-brazil-france-spain-south-africa-pushes-wealth-1724731">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxy34h/brazil_france_spain_germany_and_s_africa_push_to/">[comments]</a></span> </td></tr></table>
+
+## Sweden plans $7 billion more military support for Ukraine to 2026
+ - [https://www.reddit.com/r/worldnews/comments/1cxxut2/sweden_plans_7_billion_more_military_support_for](https://www.reddit.com/r/worldnews/comments/1cxxut2/sweden_plans_7_billion_more_military_support_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T11:24:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxxut2/sweden_plans_7_billion_more_military_support_for/"> <img alt="Sweden plans $7 billion more military support for Ukraine to 2026" src="https://external-preview.redd.it/OFWk0WKlFTrnCFjeRrzMmH5NC5zkK_snRe17GXvazC8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bcd8cc43eeb77b8e65e781409bfd70873a56c6a5" title="Sweden plans $7 billion more military support for Ukraine to 2026" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/twotwo_twentytwo"> /u/twotwo_twentytwo </a> <br /> <span><a href="https://www.reuters.com/world/europe/sweden-plans-7-bln-military-support-frame-ukraine-2024-2026-2024-05-22/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxxut2/sweden_plans_7_billion_more_military_support_for/">[comments]</a></span> </td></tr></table>
+
+## Russia last week launched a satellite that US intelligence officials believe to be a weapon capable of inspecting and attacking other satellites, the US Space Command said Tuesday as the Russian spacecraft trails a US spy satellite in orbit
+ - [https://www.reddit.com/r/worldnews/comments/1cxxr5r/russia_last_week_launched_a_satellite_that_us](https://www.reddit.com/r/worldnews/comments/1cxxr5r/russia_last_week_launched_a_satellite_that_us)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T11:18:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxxr5r/russia_last_week_launched_a_satellite_that_us/"> <img alt="Russia last week launched a satellite that US intelligence officials believe to be a weapon capable of inspecting and attacking other satellites, the US Space Command said Tuesday as the Russian spacecraft trails a US spy satellite in orbit" src="https://external-preview.redd.it/8bwtWtE4wx8uqugCxAqUaMK3xg2Z_Q_OKuVTUqXrLW0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9dd0d9414ed8e22b3db43be8169579c6f03961a4" title="Russia last week launched a satellite that US intelligence officials believe to be a weapon capable of inspecting and attacking other satellites, the US Space Command said Tuesday as the Russian spacecraft trails a US spy satellite in orbit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/m4dseas0n"> /u/m4dseas0n </a> <br /> <span><a href="https://www.jpost.com/breaking-news/article-802118">[link]</a></sp
+
+## IAF waits for child to relocate before killing October 7 terrorist in Gaza
+ - [https://www.reddit.com/r/worldnews/comments/1cxxakl/iaf_waits_for_child_to_relocate_before_killing](https://www.reddit.com/r/worldnews/comments/1cxxakl/iaf_waits_for_child_to_relocate_before_killing)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T10:49:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxxakl/iaf_waits_for_child_to_relocate_before_killing/"> <img alt="IAF waits for child to relocate before killing October 7 terrorist in Gaza" src="https://external-preview.redd.it/bBeYaHqdGujNcHAS2Uo3z7xNDrLhFHQcY90co2m1FIE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3f0b34c224191f223a63486e9981a1679f5f866" title="IAF waits for child to relocate before killing October 7 terrorist in Gaza" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Serious_Journalist14"> /u/Serious_Journalist14 </a> <br /> <span><a href="https://www.jpost.com/israel-hamas-war/article-802152">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxxakl/iaf_waits_for_child_to_relocate_before_killing/">[comments]</a></span> </td></tr></table>
+
+## Swedish commander: Putin aims to control Baltic Sea, has his eye on Gotland Island
+ - [https://www.reddit.com/r/worldnews/comments/1cxx2dn/swedish_commander_putin_aims_to_control_baltic](https://www.reddit.com/r/worldnews/comments/1cxx2dn/swedish_commander_putin_aims_to_control_baltic)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T10:34:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxx2dn/swedish_commander_putin_aims_to_control_baltic/"> <img alt="Swedish commander: Putin aims to control Baltic Sea, has his eye on Gotland Island" src="https://external-preview.redd.it/JdH_P5lZKwQksDAb6ZosXB6aUhSD_MecVVwI0b1f3wc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f5a1e7a361f7061fad971990f4e3e76eb472e51" title="Swedish commander: Putin aims to control Baltic Sea, has his eye on Gotland Island" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/professorbrainiac"> /u/professorbrainiac </a> <br /> <span><a href="https://kyivindependent.com/swedish-commander-putin-aims-to-control-baltic-sea-has-his-eye-on-gotland-island/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxx2dn/swedish_commander_putin_aims_to_control_baltic/">[comments]</a></span> </td></tr></table>
+
+## Pentagon working with SpaceX to cut off Russian military's illicit use of Starlink internet
+ - [https://www.reddit.com/r/worldnews/comments/1cxwuc8/pentagon_working_with_spacex_to_cut_off_russian](https://www.reddit.com/r/worldnews/comments/1cxwuc8/pentagon_working_with_spacex_to_cut_off_russian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T10:19:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxwuc8/pentagon_working_with_spacex_to_cut_off_russian/"> <img alt="Pentagon working with SpaceX to cut off Russian military's illicit use of Starlink internet" src="https://external-preview.redd.it/GmB5GBUwCX4NFUudaLPlflfwV9Tj8TsA7eDDqLA6JNk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d64e36ef6ce9e40ead5525cb83071796ac9bdcfe" title="Pentagon working with SpaceX to cut off Russian military's illicit use of Starlink internet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/new974517"> /u/new974517 </a> <br /> <span><a href="https://spacenews.com/pentagon-working-with-spacex-to-cut-off-russian-militarys-illicit-use-of-starlink-internet/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxwuc8/pentagon_working_with_spacex_to_cut_off_russian/">[comments]</a></span> </td></tr></table>
+
+## Over 3,000 Ukrainian convicts apply to serve in army
+ - [https://www.reddit.com/r/worldnews/comments/1cxwil6/over_3000_ukrainian_convicts_apply_to_serve_in](https://www.reddit.com/r/worldnews/comments/1cxwil6/over_3000_ukrainian_convicts_apply_to_serve_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T09:58:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxwil6/over_3000_ukrainian_convicts_apply_to_serve_in/"> <img alt="Over 3,000 Ukrainian convicts apply to serve in army" src="https://external-preview.redd.it/rqDUjPEHDrSVngLkqLqPzUgXMyKgfE9RYjB4duKEFLw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=add11657077efd98fffe65e2dd200ccd7e425017" title="Over 3,000 Ukrainian convicts apply to serve in army" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Outrageous_Assist688"> /u/Outrageous_Assist688 </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/05/21/7456818/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxwil6/over_3000_ukrainian_convicts_apply_to_serve_in/">[comments]</a></span> </td></tr></table>
+
+## Palestinian Authority, Hamas welcome European nations' state recognition
+ - [https://www.reddit.com/r/worldnews/comments/1cxvvn2/palestinian_authority_hamas_welcome_european](https://www.reddit.com/r/worldnews/comments/1cxvvn2/palestinian_authority_hamas_welcome_european)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T09:11:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxvvn2/palestinian_authority_hamas_welcome_european/"> <img alt="Palestinian Authority, Hamas welcome European nations' state recognition" src="https://external-preview.redd.it/8bwtWtE4wx8uqugCxAqUaMK3xg2Z_Q_OKuVTUqXrLW0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9dd0d9414ed8e22b3db43be8169579c6f03961a4" title="Palestinian Authority, Hamas welcome European nations' state recognition" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Current-Bridge-9422"> /u/Current-Bridge-9422 </a> <br /> <span><a href="https://m.jpost.com/breaking-news/article-802176">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxvvn2/palestinian_authority_hamas_welcome_european/">[comments]</a></span> </td></tr></table>
+
+## European Commission approves plan to divert frozen Russian assets to Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1cxv2zv/european_commission_approves_plan_to_divert](https://www.reddit.com/r/worldnews/comments/1cxv2zv/european_commission_approves_plan_to_divert)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T08:11:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxv2zv/european_commission_approves_plan_to_divert/"> <img alt="European Commission approves plan to divert frozen Russian assets to Ukraine" src="https://external-preview.redd.it/B1FmJ4sSKNCZ_ydFjVMrt4dYGYr2yslJ4KsWb5lcexk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40b458ea23504108723c98dad830b6bbe65cc1d0" title="European Commission approves plan to divert frozen Russian assets to Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/duckanroll"> /u/duckanroll </a> <br /> <span><a href="https://novayagazeta.eu/articles/2024/05/22/european-commission-approves-plan-to-divert-frozen-russian-assets-to-ukraine-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxv2zv/european_commission_approves_plan_to_divert/">[comments]</a></span> </td></tr></table>
+
+## Israel recalls its ambassadors from Ireland and Norway over their recognition of a Palestinian state
+ - [https://www.reddit.com/r/worldnews/comments/1cxue0t/israel_recalls_its_ambassadors_from_ireland_and](https://www.reddit.com/r/worldnews/comments/1cxue0t/israel_recalls_its_ambassadors_from_ireland_and)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T07:19:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxue0t/israel_recalls_its_ambassadors_from_ireland_and/"> <img alt="Israel recalls its ambassadors from Ireland and Norway over their recognition of a Palestinian state" src="https://external-preview.redd.it/SU1eLIqFowTDnQbyvFusjqqvKkjbkLOxizo6bIbc2O4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bba6da61b6c79b2c11a108d7944ed5459d968349" title="Israel recalls its ambassadors from Ireland and Norway over their recognition of a Palestinian state" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stuckollg"> /u/stuckollg </a> <br /> <span><a href="https://abcnews.go.com/International/wireStory/israel-recalls-ambassadors-ireland-norway-recognition-palestinian-state-110457363">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxue0t/israel_recalls_its_ambassadors_from_ireland_and/">[comments]</a></span> </td></tr></table>
+
+## Norway’s prime minister says Norway is formally recognizing Palestine as a state
+ - [https://www.reddit.com/r/worldnews/comments/1cxtz03/norways_prime_minister_says_norway_is_formally](https://www.reddit.com/r/worldnews/comments/1cxtz03/norways_prime_minister_says_norway_is_formally)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T06:51:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxtz03/norways_prime_minister_says_norway_is_formally/"> <img alt="Norway’s prime minister says Norway is formally recognizing Palestine as a state" src="https://external-preview.redd.it/SdXxkiKJKZBtKvA16hteDk8Pz-awyWMlyThskWgsy-s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42718d84ddaee36df0ec34182429e2b62e31855b" title="Norway’s prime minister says Norway is formally recognizing Palestine as a state" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Yaarmehearty"> /u/Yaarmehearty </a> <br /> <span><a href="https://apnews.com/article/norway-palestinian-state-ddfd774a23d39f77f5977b9c89c43dbc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxtz03/norways_prime_minister_says_norway_is_formally/">[comments]</a></span> </td></tr></table>
+
+## US believes Russia launched space weapon in American satellite path − Reuters
+ - [https://www.reddit.com/r/worldnews/comments/1cxtx9u/us_believes_russia_launched_space_weapon_in](https://www.reddit.com/r/worldnews/comments/1cxtx9u/us_believes_russia_launched_space_weapon_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T06:48:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxtx9u/us_believes_russia_launched_space_weapon_in/"> <img alt="US believes Russia launched space weapon in American satellite path − Reuters" src="https://external-preview.redd.it/huGvL8bHJsMG_-VOwCSRIae0VVOOq-KRXhk5qzUOciQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=758e129be34464ab78ddfdbd35cbb7af8f2699c1" title="US believes Russia launched space weapon in American satellite path − Reuters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pravda_UA"> /u/Pravda_UA </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/05/22/7456963/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxtx9u/us_believes_russia_launched_space_weapon_in/">[comments]</a></span> </td></tr></table>
+
+## ‘A pack of lies.’ Israeli Prime Minister denies he is starving civilians in Gaza as a method of war
+ - [https://www.reddit.com/r/worldnews/comments/1cxsqsf/a_pack_of_lies_israeli_prime_minister_denies_he](https://www.reddit.com/r/worldnews/comments/1cxsqsf/a_pack_of_lies_israeli_prime_minister_denies_he)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T05:28:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxsqsf/a_pack_of_lies_israeli_prime_minister_denies_he/"> <img alt="‘A pack of lies.’ Israeli Prime Minister denies he is starving civilians in Gaza as a method of war" src="https://external-preview.redd.it/2g-Sgn7klpghQuEETvQOboyuCxyQMRsJ8jJ66wOlVkc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4b3edf93effb2a088debc73156c7ea56bef92733" title="‘A pack of lies.’ Israeli Prime Minister denies he is starving civilians in Gaza as a method of war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DCC_4LIFE"> /u/DCC_4LIFE </a> <br /> <span><a href="https://www.cnn.com/2024/05/21/middleeast/israel-netanyahu-interview-icc-intl-latam/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxsqsf/a_pack_of_lies_israeli_prime_minister_denies_he/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 819, Part 1 (Thread #965)
+ - [https://www.reddit.com/r/worldnews/comments/1cxrbrq/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1cxrbrq/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T04:02:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxrbrq/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 819, Part 1 (Thread #965)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 819, Part 1 (Thread #965)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxrbrq/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Russian general who criticized equipment shortages in Ukraine is arrested on bribery charges
+ - [https://www.reddit.com/r/worldnews/comments/1cxq98c/russian_general_who_criticized_equipment](https://www.reddit.com/r/worldnews/comments/1cxq98c/russian_general_who_criticized_equipment)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T03:02:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxq98c/russian_general_who_criticized_equipment/"> <img alt="Russian general who criticized equipment shortages in Ukraine is arrested on bribery charges" src="https://external-preview.redd.it/SU1eLIqFowTDnQbyvFusjqqvKkjbkLOxizo6bIbc2O4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bba6da61b6c79b2c11a108d7944ed5459d968349" title="Russian general who criticized equipment shortages in Ukraine is arrested on bribery charges" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lemonn_time"> /u/Lemonn_time </a> <br /> <span><a href="https://abcnews.go.com/International/wireStory/russian-general-criticized-equipment-shortages-ukraine-arrested-bribery-110434472">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxq98c/russian_general_who_criticized_equipment/">[comments]</a></span> </td></tr></table>
+
+## Ukraine says it destroys Russian missile ship in Crimea strike
+ - [https://www.reddit.com/r/worldnews/comments/1cxprk4/ukraine_says_it_destroys_russian_missile_ship_in](https://www.reddit.com/r/worldnews/comments/1cxprk4/ukraine_says_it_destroys_russian_missile_ship_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T02:36:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxprk4/ukraine_says_it_destroys_russian_missile_ship_in/"> <img alt="Ukraine says it destroys Russian missile ship in Crimea strike" src="https://external-preview.redd.it/mKqHVAGaLWiUITRbgNRDoP35M9U5u0blA-Wx_P_WJ-c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28283100db87356cfdaee78c5280027752fa681d" title="Ukraine says it destroys Russian missile ship in Crimea strike" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GeoWa"> /u/GeoWa </a> <br /> <span><a href="https://www.reuters.com/world/europe/ukraine-says-it-destroys-russian-missile-ship-crimea-strike-2024-05-21/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxprk4/ukraine_says_it_destroys_russian_missile_ship_in/">[comments]</a></span> </td></tr></table>
+
+## Pentagon says none of the aid unloaded from US pier off coast of Gaza has been delivered to broader Palestinian population | CNN Politics
+ - [https://www.reddit.com/r/worldnews/comments/1cxpo9l/pentagon_says_none_of_the_aid_unloaded_from_us](https://www.reddit.com/r/worldnews/comments/1cxpo9l/pentagon_says_none_of_the_aid_unloaded_from_us)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T02:31:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxpo9l/pentagon_says_none_of_the_aid_unloaded_from_us/"> <img alt="Pentagon says none of the aid unloaded from US pier off coast of Gaza has been delivered to broader Palestinian population | CNN Politics" src="https://external-preview.redd.it/y3YB_GBrpchYYLrVUsPIX23BDcoNG0S38IYnzy0MkRg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1818c3ad8773f76ea7592dacd5e67dde6bcf28c3" title="Pentagon says none of the aid unloaded from US pier off coast of Gaza has been delivered to broader Palestinian population | CNN Politics" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gyro_Armadillo"> /u/Gyro_Armadillo </a> <br /> <span><a href="https://edition.cnn.com/2024/05/21/politics/us-gaza-pier-aid-not-delivered/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxpo9l/pentagon_says_none_of_the_aid_unloaded_from_us/">[comments]</a></span> </td></tr></
+
+## Japan weighs incentivizing childbirth by fully covering expenses
+ - [https://www.reddit.com/r/worldnews/comments/1cxpfez/japan_weighs_incentivizing_childbirth_by_fully](https://www.reddit.com/r/worldnews/comments/1cxpfez/japan_weighs_incentivizing_childbirth_by_fully)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T02:19:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxpfez/japan_weighs_incentivizing_childbirth_by_fully/"> <img alt="Japan weighs incentivizing childbirth by fully covering expenses" src="https://external-preview.redd.it/ugbXr70sIM57Ca3zfKrpNpzcjWHYcMSEMLVEVI6AhpI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=41aac7ff14a43c08430aa45bb7566148bcea6c5b" title="Japan weighs incentivizing childbirth by fully covering expenses" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br /> <span><a href="https://english.kyodonews.net/news/2024/05/60c038b7a449-japan-weighs-incentivizing-childbirth-by-fully-covering-expenses.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxpfez/japan_weighs_incentivizing_childbirth_by_fully/">[comments]</a></span> </td></tr></table>
+
+## Nearly 70% of Gaza aid from US-built pier stolen
+ - [https://www.reddit.com/r/worldnews/comments/1cxp008/nearly_70_of_gaza_aid_from_usbuilt_pier_stolen](https://www.reddit.com/r/worldnews/comments/1cxp008/nearly_70_of_gaza_aid_from_usbuilt_pier_stolen)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T01:56:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxp008/nearly_70_of_gaza_aid_from_usbuilt_pier_stolen/"> <img alt="Nearly 70% of Gaza aid from US-built pier stolen" src="https://external-preview.redd.it/Y4F5sFhqB4Gm7v4-bwkV07NAbdNQGPcgWXS6lbMwxpM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=48e4f1dc469daebe21a30d308c9379e08a6493b6" title="Nearly 70% of Gaza aid from US-built pier stolen" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br /> <span><a href="https://www.jns.org/nearly-70-of-gaza-aid-from-us-built-pier-stolen/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxp008/nearly_70_of_gaza_aid_from_usbuilt_pier_stolen/">[comments]</a></span> </td></tr></table>
+
+## U.S. claims recently launched Russian satellite is an ASAT - SpaceNews
+ - [https://www.reddit.com/r/worldnews/comments/1cxopj1/us_claims_recently_launched_russian_satellite_is](https://www.reddit.com/r/worldnews/comments/1cxopj1/us_claims_recently_launched_russian_satellite_is)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-05-22T01:41:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1cxopj1/us_claims_recently_launched_russian_satellite_is/"> <img alt="U.S. claims recently launched Russian satellite is an ASAT - SpaceNews" src="https://external-preview.redd.it/91zjiIZhtWt91Gi2sm6bq8Hf16sB0fRrkUPc1Ex8OKk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef101476618d89b0e75c9e6ad026db7d0e19d93b" title="U.S. claims recently launched Russian satellite is an ASAT - SpaceNews" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Iceberg1er"> /u/Iceberg1er </a> <br /> <span><a href="https://spacenews.com/u-s-claims-recently-launched-russian-satellite-is-an-asat/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1cxopj1/us_claims_recently_launched_russian_satellite_is/">[comments]</a></span> </td></tr></table>
+

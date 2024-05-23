@@ -1,0 +1,346 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## NASA’s Psyche mission fires up its futuristic electric engines
+ - [https://www.theverge.com/2024/5/22/24162775/nasa-psyche-mission-hall-thruster-asteroid-belt-mars](https://www.theverge.com/2024/5/22/24162775/nasa-psyche-mission-hall-thruster-asteroid-belt-mars)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T22:47:32+00:00
+
+<figure>
+      <img alt="The glowing blue ring of an electric Hall thruster. in an otherwise black image." src="https://cdn.vox-cdn.com/thumbor/4g7Kq32RLzTCJEdvZmh71PGOilk=/0x133:1041x827/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364578/Psyche_ion_thruster.0.png" />
+        <figcaption>Image: NASA</figcaption>
+    </figure>
+
+  <p id="cV3JDH">NASA has turned on the electric Hall thrusters of Psyche, a spacecraft that’s now gently motoring toward a metal-rich asteroid embedded in the main asteroid belt beyond Mars. The <a href="https://www.nasa.gov/missions/psyche-mission/nasas-psyche-fires-up-its-sci-fi-worthy-thrusters/">agency says</a> Psyche is in “full cruise” mode now, six months after launching on October 13th, 2023, on a conventional, SpaceX rocket.</p>
+<p id="m7N2S8">On the way, NASA used Psyche to test laser-based deep space communications. The craft <a href="https://www.theverge.com/2023/11/21/23971852/nasa-gets-closer-to-laser-based-deep-space-communication">shot
+
+## Truecaller and Microsoft will let users make an AI voice to answer calls
+ - [https://www.theverge.com/2024/5/22/24162753/truecaller-ai-microsoft-azure-voice-assistant](https://www.theverge.com/2024/5/22/24162753/truecaller-ai-microsoft-azure-voice-assistant)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T21:45:43+00:00
+
+<figure>
+      <img alt="Microsoft logo" src="https://cdn.vox-cdn.com/thumbor/i9hLWmLLmFXAErj1JiRwe1UfZyc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364467/STK095_Microsoft_04.0.jpg" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="GnUf4q">Caller ID company <a href="https://corporate.truecaller.com/newsroom/press-release/A0C65C8263BB918B">Truecaller will let users create</a> an AI version of their voice to answer calls.</p>
+<p id="7eADZu">Truecaller is an app that identifies and blocks spam calls that some people prefer over their phone’s default system. Now the service will let users with access to its AI Assistant to record their voice. The company partnered with Microsoft’s Azure AI Speech, which will learn from the recorded clip to generate an AI version of the user’s voice.  </p>
+<p id="uqyd3E">“This groundbreaking capability not only adds a touch of familiarity and comfort for the users but also showcases the power of 
+
+## The best Memorial Day deals you can already get
+ - [https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T21:35:30+00:00
+
+<figure>
+      <img alt="An image of an LG OLED TV on the home screen with a person sitting on a couch in front." src="https://cdn.vox-cdn.com/thumbor/yvarOvzwV0aBxTBz9xb7jDc1ygE=/1x0:2743x1828/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364445/OLED_EVO_01.0.jpg" />
+        <figcaption><em>You can get an LG C3 for under $800 right now, along with tablets, earbuds, and a slew of other discounted items.</em> | Image: LG</figcaption>
+    </figure>
+
+  <p id="s_nEOTz">The summer solstice may be when summer officially kicks off, but for many of us, it starts as soon as temperatures begin to rise and the smell of barbecue begins wafting through the air. Memorial Day also serves as the unofficial start to the season, and the deals that are popping up right now are a great indicator that it’s right around the corner. </p>
+<p id="OsJLMD">Below, we’ve rounded up the best Memorial Day deals you can get on an array of gadgets and gizmos. This includes wireless headphones like the <a href
+
+## Google could cut funding to more US news publishers
+ - [https://www.theverge.com/2024/5/22/24162684/google-news-initiative-funding-outlets-us](https://www.theverge.com/2024/5/22/24162684/google-news-initiative-funding-outlets-us)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T21:02:03+00:00
+
+<figure>
+      <img alt="Google logo and black swirls" src="https://cdn.vox-cdn.com/thumbor/ebnkd6U5honb819WFE838TaEJpc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364362/STK093_Google_05.0.jpg" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="Zql2Au">After threatening to <a href="https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california">remove links to California news outlets</a> due to a new bill in the state, Google could cut back its investments in the industry even more. The tech giant has told nonprofit newsrooms that it could halt funding to the Google News Initiative, which provides more than $300 million in funding across thousands of news outlets, <a href="https://www.axios.com/2024/05/21/google-news-initiative-journalism-funding-california">according to a report from <em>Axios</em></a>.</p>
+<p id="0TNJhu">Google issued the warning in response to <a href="https://leginfo.legislature.ca.gov/fac
+
+## Google Meet’s adaptive audio connects mics from multiple laptops for clearer audio
+ - [https://www.theverge.com/2024/5/22/24162666/google-meet-workspace-adaptive-audio](https://www.theverge.com/2024/5/22/24162666/google-meet-workspace-adaptive-audio)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T20:54:23+00:00
+
+<figure>
+      <img alt="A screenshot of Google Meet’s people panel, with photos of participants using the new adaptive audio feature." src="https://cdn.vox-cdn.com/thumbor/HAxnBPME-b8xNbGI0UfQoPJ8I9U=/50x0:1550x1000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364348/googleadaptiveaudio.0.png" />
+        <figcaption><em>After automatically switching on the adaptive audio mode, Google will group participants in the same room together in the people panel under “merged audio.” </em> | Image: Google</figcaption>
+    </figure>
+
+  <p id="nhz4w2">Google <a href="https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html">has introduced</a> “adaptive audio,” a new Google Meet feature that offers Google Workspace users an alternative to dedicated videoconferencing equipment — if their package includes access to new AI features. </p>
+<p id="Bd5CEE">Once it’s rolled out, Google Meet will be able to automatically detect multiple laptops in the same room and merge to
+
+## Lawyers say OpenAI could be in real trouble with Scarlett Johansson
+ - [https://www.theverge.com/2024/5/22/24162429/scarlett-johansson-openai-legal-right-to-publicity-likeness-midler-lawyers](https://www.theverge.com/2024/5/22/24162429/scarlett-johansson-openai-legal-right-to-publicity-likeness-midler-lawyers)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T20:54:02+00:00
+
+<figure>
+      <img alt="Scarlett Johansson at the Clooney Foundation For Justice’s The Albies" src="https://cdn.vox-cdn.com/thumbor/53b3CW3kVhYiXJvC4X6P1G3aaik=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364346/1707035409.0.jpg" />
+        <figcaption>Photo by Taylor Hill / WireImage</figcaption>
+    </figure>
+
+  <p id="7DKx6F">OpenAI could face legal consequences for making a ChatGPT voice that sounds a lot like Scarlett Johansson — whether the company did so intentionally or not. And the fact that OpenAI’s CEO referenced those similarities? That only makes matters worse, intellectual property lawyers tell <em>The Verge</em>.</p>
+<p id="OCoU8X">“There are a few courses of actions she can take, but case law supports her position,” says Purvi Patel Albers, partner at the law firm Haynes Boone with a focus on trademarks and copyright.</p>
+<p id="ykpjj5">After demoing updates to ChatGPT last week, OpenAI spurred commentary and headlines noting that the voice of 
+
+## Bluesky now lets you send DMs
+ - [https://www.theverge.com/2024/5/22/24162749/bluesky-send-direct-messages](https://www.theverge.com/2024/5/22/24162749/bluesky-send-direct-messages)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T20:31:50+00:00
+
+<figure>
+      <img alt="A graphic of the Bluesky logo." src="https://cdn.vox-cdn.com/thumbor/Ii52JhePsnmdTzSpjOs_lWF3opc=/255x0:2145x1260/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364305/bluesky_media_kit_banner_4.0.png" />
+        <figcaption>Image: Bluesky</figcaption>
+    </figure>
+
+  <p id="b5j9dX">Bluesky will now <a href="https://bsky.social/about/blog/05-21-2024-direct-messages">let you send a direct message</a> to other users. For now, you can only send messages containing text, but Bluesky is working on adding support for images and videos.</p>
+<p id="L5NPLq">To send a DM, select the chat icon at the bottom of your screen on mobile or hit the chat bubble in your sidebar on desktop. Once you create a new chat, search for the user you want to talk to, write your message, and hit send. Just keep in mind that DMs on Bluesky aren’t end-to-end encrypted just yet, but the platform plans on supporting it in the future.</p>
+<div id="8xRTPR">
+<blockquote class="bluesky-emb
+
+## iRobot halts its Roomba subscription service as it gets a new CEO
+ - [https://www.theverge.com/2024/5/22/24162611/roomba-robot-vacuum-irobot-select-subscription-suspended](https://www.theverge.com/2024/5/22/24162611/roomba-robot-vacuum-irobot-select-subscription-suspended)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T20:29:13+00:00
+
+<figure>
+      <img alt="Image of a black-and-silver disc-shaped robot vacuum docked into a black auto-empty dock. The dock has an orange tag on the front and a small white status LED on the lower front face above where the vacuum sits at rest." src="https://cdn.vox-cdn.com/thumbor/FFQPqbCTe5FOstpVqGkIP9P98WU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364293/vtuohy_211029_4963_0014.0.jpg" />
+        <figcaption><em>The iRobot Select subscription plan that launched with the Roomba j7 Plus has been suspended.</em> | Photo by Jennifer Pattison Tuohy / The Verge</figcaption>
+    </figure>
+
+  <p id="jL8KUK">iRobot has ended its robot vacuum subscription service <a href="https://select.irobot.com/">iRobot Select</a>, which got you a high-end Roomba for less money upfront. But along with free replacement parts and accessories and the option to upgrade every three years, the program also enabled iRobot to shut down the vacuum remotely if you stopped paying.</p>
+<p id
+
+## Political ads could require AI-generated content disclosures soon
+ - [https://www.theverge.com/2024/5/22/24162676/fcc-ai-generated-political-ads-disclosure-federal-communications-commission](https://www.theverge.com/2024/5/22/24162676/fcc-ai-generated-political-ads-disclosure-federal-communications-commission)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T19:41:20+00:00
+
+<figure>
+      <img alt="Graphic photo illustration of I Voted stickers." src="https://cdn.vox-cdn.com/thumbor/-rfZvLanLB-nNM9XIIeStVNShgI=/20x0:2021x1334/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364163/STK466_ELECTION_2024_CVirginia_D.0.jpg" />
+        <figcaption>Illustration by Cath Virginia / The Verge | Photos from Getty Images</figcaption>
+    </figure>
+
+  <p id="pMKVaU">The chair of the Federal Communications Commission introduced a proposal Wednesday that could require political advertisers to disclose when they use AI-generated content on radio and TV ads.</p>
+<p id="IR8BzC">If the proposal is implemented, the FCC will seek comment on whether to require on-air and written disclosure of AI-generated content in political ads and will propose to apply these disclosure requirements to certain mediums. In a press release, the FCC notes that the disclosure requirements wouldn’t prohibit such content but would instead require political advertisers to be transparent abou
+
+## You can get rid of AI Overviews in Google Search
+ - [https://www.theverge.com/24162621/google-search-ai-overviews-get-rid-of](https://www.theverge.com/24162621/google-search-ai-overviews-get-rid-of)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T19:38:17+00:00
+
+<figure>
+      <img alt="A screenshot showing Google’s AI Overview" src="https://cdn.vox-cdn.com/thumbor/7ouaygod010rxe_yx4plFG7c5h8=/128x0:1724x1064/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364155/google_ai_overview_example.0.png" />
+        <figcaption><em>Not everyone is a fan of AI Overviews.</em> | Screenshot: Emma Roth / The Verge</figcaption>
+    </figure>
+
+  <p id="y7UVPO">If you’ve searched for something on Google lately, you might’ve noticed a wall of text that appears before the actual search results. This feature, called <a href="https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview">AI Overviews</a>, offers an AI-generated answer to certain queries. But it also pushes your list of links further down the page, which makes it a bit annoying to scroll past when you want to do your own research — and it will get even more annoying once <a href="https://www.theverge.com/2024/5/21/24161724/google-ai-search-results-ads-test">Googl
+
+## UK court calls man claiming to have invented Bitcoin a liar
+ - [https://www.theverge.com/2024/5/22/24162675/craig-wright-bitcoin-satoshi-nakamoto-ruling](https://www.theverge.com/2024/5/22/24162675/craig-wright-bitcoin-satoshi-nakamoto-ruling)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T19:29:43+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/U7EoSwWVo2UFexjNwufF5rpUgzM=/0x1:3012x2009/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364113/1989693346.0.jpg" />
+        <figcaption><em>Judge Mellor ruled that Craig Wright (pictured) lied “extensively and repeatedly” about being Satoshi Nakamoto.</em> | Photo by Dan Kitwood / Getty Images</figcaption>
+    </figure>
+
+  <p id="YnpFpI">Australian computer scientist Craig Wright lied “extensively and repeatedly” to courts and committed forgery “on a grand scale” in efforts to falsely claim that he invented Bitcoin, a judge at London’s High Court ruled on Monday.</p>
+<p id="eA4oAA">Wright has <a href="https://www.theverge.com/2016/5/2/11564324/satoshi-nakamoto-identity-bitcoin-creator-claim">long claimed to be “Satoshi Nakamoto”</a> — the pseudonym used by the author of <a href="https://nakamotoinstitute.org/library/bitcoin/">Bitcoin’s 2008 foundational white paper</a>. Very little is known about the mysterious c
+
+## You can now install Windows 11’s next big update early
+ - [https://www.theverge.com/2024/5/22/24162671/microsoft-windows-11-24h2-release-preview-download](https://www.theverge.com/2024/5/22/24162671/microsoft-windows-11-24h2-release-preview-download)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T18:52:56+00:00
+
+<figure>
+      <img alt="Windows 11 logo" src="https://cdn.vox-cdn.com/thumbor/Yb4xQtnhhoMJtkpb7VMmj70NuCA=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73364010/Hero_Bloom_Logo.0.jpg" />
+        <figcaption>Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="8Mo9dt">Microsoft is releasing its next Windows 11 update to its Release Preview ring today. It’s the final ring of testing before the 24H2 update will be available to all Windows 11 users. The <a href="https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel/">update includes</a> HDR background support, energy saver, Sudo for Windows, Rust in the Windows kernel, and more. </p>
+<p id="rdI512">Microsoft will officially roll the update out through Windows Update later this year, but you can grab the final version through the Windows Insider option inside the Windows Update section of Windows 11. Just follow the prompts to sign up for the Windows I
+
+## Google Pay will start showing credit card benefits at checkout
+ - [https://www.theverge.com/2024/5/22/24162601/google-pay-card-benefits-buy-now-later-auto-fill](https://www.theverge.com/2024/5/22/24162601/google-pay-card-benefits-buy-now-later-auto-fill)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T18:45:15+00:00
+
+<figure>
+      <img alt="chrome window, checking out for a roundtrip flight to LAX and SFO, card number dropdown showing two credit cards with benefits listed on them" src="https://cdn.vox-cdn.com/thumbor/yfLM28zZxjJJVgTUgxOe1Iss1V4=/0x0:973x649/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363993/Card_benefits_in_autofill.0.jpg" />
+        <figcaption><em>Hmm, should I get cash back or more travel points?</em> | Image: Google</figcaption>
+    </figure>
+
+  <p id="qXqVYr">Google is adding the ability to see what shopping rewards and savings options you have on your saved credit cards as you check out using Google Pay. The feature is <a href="https://blog.google/products/google-pay/google-pay-online-checkout-features/">out today on select cards</a> from American Express and Capital One, and it’s coming to more cards in the future.</p>
+<p id="AzqIwm">You can see the benefits during checkout when prompted to enter a card number. A drop-down menu appears showing your card options a
+
+## Lawmakers debate ending Section 230 in order to save it
+ - [https://www.theverge.com/2024/5/22/24161150/section-230-tech-liability-shield-sunset](https://www.theverge.com/2024/5/22/24161150/section-230-tech-liability-shield-sunset)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T18:40:52+00:00
+
+<figure>
+      <img alt="Photo collage showing error messages over Congress." src="https://cdn.vox-cdn.com/thumbor/Qx7ufq9GlLupRsP65ik7QSb6jtw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363987/STK461_INTERNET_CHILD_SAFETY_E_Stock_CVirginia.0.jpg" />
+        <figcaption>Image:<em> </em>Cath Virginia&nbsp;/ The Verge</figcaption>
+    </figure>
+
+  <p id="XbJUYy">A pair of legislators have a plan to save <a href="https://www.theverge.com/21273768/section-230-explained-internet-speech-law-definition-guide-free-moderation">Section 230</a>: kill it so that Congress is forced to come up with a better version.</p>
+<p id="QC79CT">That was the topic of discussion at a hearing on Wednesday in the House Energy and Commerce subcommittee on communications and technology. It came on the heels of the committee leaders’ proposal for the sunset, which they announced in a <a href="https://www.theverge.com/2024/5/13/24155453/two-key-lawmakers-want-to-strong-arm-action-on-section-
+
+## Big Tech thinks it can plant trees better than everyone else
+ - [https://www.theverge.com/2024/5/22/24162428/google-meta-microsoft-salesforce-symbiosis-coalition-nature-carbon-removal-forest-offsets](https://www.theverge.com/2024/5/22/24162428/google-meta-microsoft-salesforce-symbiosis-coalition-nature-carbon-removal-forest-offsets)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T18:24:02+00:00
+
+<figure>
+      <img alt="An aerial view of densely-packed green tree tops." src="https://cdn.vox-cdn.com/thumbor/sqXgwAP-u2m7iAEUMDKcCX9Re3c=/0x0:4000x2667/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363958/1247578977.0.jpg" />
+        <figcaption>An area of dense primary forest in the Loango National Park, Gabon, on Wednesday, Oct. 12, 2022.&nbsp; | Photo: Getty Images</figcaption>
+    </figure>
+
+  <p id="aoaaNI">Some of the biggest names in tech are joining forces to try something that many before them have failed to do: use trees to cancel out their greenhouse gas emissions. Google, Meta, Microsoft, and Salesforce are creating the <a href="https://cts.businesswire.com/ct/CT?id=smartlink&amp;url=https%3A%2F%2Fwww.symbiosiscoalition.org%2F%3Futm_source%3Dbusinesswire%26utm_medium%3Dhyperlink%26utm_campaign%3Dlaunch%26utm_content%3Dfirstpararelease&amp;esheet=54012934&amp;newsitemid=20240521133634&amp;lan=en-US&amp;anchor=Symbiosis+Coalition&amp;index=1&amp;md5=b5027176a99cd
+
+## Marvel’s Vision-focused Disney Plus series is coming in 2026
+ - [https://www.theverge.com/2024/5/22/24162626/vision-disney-plus-terry-matalas-wandavision](https://www.theverge.com/2024/5/22/24162626/vision-disney-plus-terry-matalas-wandavision)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T18:10:36+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/VKjqoS8eFO_ydlk8mmKSQjaJdMg=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363932/VVV4020_109_comp_v194_20210114_r709.1138_R.0.jpg" />
+        <figcaption>Photo: Marvel Studios</figcaption>
+    </figure>
+
+  <p id="xIJFdl">The <a href="https://www.theverge.com/2022/5/9/23058670/elizabeth-olsen-scarlet-witch-defend-marvel-mcu">MCU’s Scarlet Witch may be dead</a>, but Marvel’s keeping more of <a href="https://www.theverge.com/2021/3/5/22315094/wandavision-finale-marvel-mcu-scarlet-witch-doctor-strange-captain"><em>WandaVision</em>’s story</a> going with yet another spinoff, this time focused on Paul Bettany’s Vision.</p>
+<p id="KCZh0R"><a href="https://variety.com/2024/tv/news/marvel-vision-paul-bettany-terry-matalas-1236003735/"><em>Variety</em> reports</a> that <em>Star Trek: Picard </em>executive producer Terry Matalas has signed on to showrun a currently unnamed Disney Plus Marvel series revolving
+
+## Meta’s Ray-Ban glasses will post Instagram stories for you
+ - [https://www.theverge.com/2024/5/22/24162590/meta-ray-ban-glasses-instagram-stories-hands-free](https://www.theverge.com/2024/5/22/24162590/meta-ray-ban-glasses-instagram-stories-hands-free)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T17:57:29+00:00
+
+<figure>
+      <img alt="The Ray-Ban Meta Smart Glasses seen at a front angle" src="https://cdn.vox-cdn.com/thumbor/YDStbZol-ACE1UIutD7eyOKey1o=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363886/236834_Ray_Ban_Meta_Smart_Glasses_AKrales_0608.0.jpg" />
+        <figcaption>Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="uRXoBg">Meta’s <a href="https://www.theverge.com/23922425/ray-ban-meta-smart-glasses-review">Ray-Ban smart glasses</a> can now post Instagram stories directly to your Instagram account without the need for you to bring out a phone. The feature is one of <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.meta.com%2Fen-gb%2Fblog%2Fquest%2Fray-ban-smart-glasses-amazon-music-calm-instagram-new-styles%2F&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F5%2F22%2F24162590%2Fmeta-ray-ban-glasses-instagram-stories-hands-free" rel="sponsored nofollow noopener"
+
+## T-Mobile is raising prices on several of its plans
+ - [https://www.theverge.com/2024/5/22/24162490/t-mobile-price-increase-magenta-one-simple-choice-plans](https://www.theverge.com/2024/5/22/24162490/t-mobile-price-increase-magenta-one-simple-choice-plans)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T17:24:32+00:00
+
+<figure>
+      <img alt="Illustration of the T-Mobile logo on a tan and black background." src="https://cdn.vox-cdn.com/thumbor/A-GUKj1LXG56QKQC3l3zV4he8E4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363802/acastro_STK067__03.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="rxUIOM">T-Mobile has begun notifying customers that it’s hiking their rates by as much as $5 per line per month. The company’s help account on X <a href="https://x.com/TMobileHelp/status/1793280595076005912">confirmed the price</a> increase, telling one person that it was “adjusting prices to respond to rising costs.” Reports suggest the hike applies to older plans, including One, Magenta, Magenta 55 Plus / Military, and Simple Choice, but the full extent isn’t known.</p>
+<p id="NCSA6k">T-Mobile told employees that it is notifying the “small fraction of customers” who are affected by the change today, May 22nd, according to an intern
+
+## Sonos CEO Patrick Spence addresses the company’s divisive app redesign
+ - [https://www.theverge.com/2024/5/22/24162168/sonos-ceo-patrick-spence-new-app-design-interview](https://www.theverge.com/2024/5/22/24162168/sonos-ceo-patrick-spence-new-app-design-interview)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T16:45:27+00:00
+
+<figure>
+      <img alt="A marketing image of someone using the new Sonos app." src="https://cdn.vox-cdn.com/thumbor/0v67VTplTaaa_qiTedBqh8ZQUtQ=/155x0:2012x1238/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363704/Screenshot_2024_05_08_at_10.16.31_AM.0.png" />
+        <figcaption>Photo: Sonos</figcaption>
+    </figure>
+
+
+  		 <p>He stands behind the new app, which underwent months of testing, but acknowledges that Sonos should’ve warned its (very) passionate customers about missing features.</p>
+  <p>
+    <a href="https://www.theverge.com/2024/5/22/24162168/sonos-ceo-patrick-spence-new-app-design-interview">Continue reading&hellip;</a>
+  </p>
+
+## Volkswagen is delaying its ID.7 electric sedan in North America
+ - [https://www.theverge.com/2024/5/22/24162459/volkswagen-2024-id7-electric-sedan-delay-north-america-us-ev](https://www.theverge.com/2024/5/22/24162459/volkswagen-2024-id7-electric-sedan-delay-north-america-us-ev)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T16:20:11+00:00
+
+<figure>
+      <img alt="Silver Volkswagen car in front of crops" src="https://cdn.vox-cdn.com/thumbor/yox3-EvMERhEqV8Ps-xrMssZ2Rc=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363631/2025_VW_ID7_First_Drive__15_.0.jpg" />
+        <figcaption><em>The European spec ID.7 electric sedan.</em> | Image: The Verge</figcaption>
+    </figure>
+
+  <p id="wdKpW7">Volkswagen’s <a href="https://www.theverge.com/2024/3/1/24084671/volkswagen-id7-review-ev-sedan-specs-price-photos">impressive</a> ID.7 all-electric sedan — a vehicle type that is increasingly uncommon in the US — won’t be showing up on our shores anytime soon, the automaker <a href="https://media.vw.com/en-us/releases/1800">announced on Wednesday</a>. It cites changes in “market dynamics” as a reason as well as strong SUV sales in the US.</p>
+<p id="2pJkMd">The ID.7, which launched in Europe in 2023, was supposed to be VW’s first electric non-SUV slated for the US market. The automaker claims that after introduci
+
+## Here’s your first look at Liam Hemsworth in The Witcher
+ - [https://www.theverge.com/2024/5/22/24162497/the-witcher-netflix-liam-hemsworth](https://www.theverge.com/2024/5/22/24162497/the-witcher-netflix-liam-hemsworth)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T15:39:42+00:00
+
+<figure>
+      <img alt="A photo of Liam Hemsworth as Geralt in The Witcher." src="https://cdn.vox-cdn.com/thumbor/xBq75IptNZ3eGnEq1xlTfg8NwgA=/0x0:1200x800/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363505/slack_imgs.0.jpg" />
+        <figcaption>Image: Entertainment Weekly / Netflix</figcaption>
+    </figure>
+
+  <p id="pEKY4v">A new actor, but the same white wig. We already knew that <a href="https://www.theverge.com/2022/10/29/23430147/liam-hemsworth-replacing-henry-cavill-season-4-the-witcher-netflix">Liam Hemsworth was taking over as Geralt of Rivia</a> in Netflix’s adaptation of <em>The Witcher</em>, replacing Henry Cavill. But now we have our first (official, anyway) look at the actor in the role, <a href="https://ew.com/the-witcher-liam-hemsworth-first-look-official-season-4-exclusive-8651511">courtesy of <em>Entertainment Weekly</em></a>. And he looks like, well, Liam Hemsworth with Geralt’s iconic white hair. It’s not clear if the shift between actors will be refe
+
+## Spotify made its own font, and it’s going everywhere inside the app
+ - [https://www.theverge.com/2024/5/22/24162464/spotify-mix-typeface-font-announcement-design-update](https://www.theverge.com/2024/5/22/24162464/spotify-mix-typeface-font-announcement-design-update)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T15:18:40+00:00
+
+<figure>
+      <img alt="A promotion of Spotify’s new Spotify Mix typeface showing six different playlist covers." src="https://cdn.vox-cdn.com/thumbor/DTzpklaOuvSgtIf_N-N4m-vow9M=/80x0:944x576/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363453/updated_playlists_1024x576.0.png" />
+        <figcaption><em>Here are a few examples showing how Spotify Mix can be changed to suit different playlist covers.</em> | Image: Spotify</figcaption>
+    </figure>
+
+  <p id="7B2GC3">Spotify’s latest update is visibly changing the audio streaming service to improve the experience for your eyeballs, rather than your ears. Spotify Mix — the company’s new bespoke typeface — is being rolled out starting today, replacing the <a href="https://lineto.com/typefaces/circular#family">Circular typeface variant</a> that Spotify currently uses across its app and desktop experiences.</p>
+<p id="FbFDm4">The confusing name is an homage to the “dynamic and evolving nature of audio culture over the years,” acc
+
+## Airbnb entices hosts with discounted EV chargers
+ - [https://www.theverge.com/2024/5/22/24162372/airbnb-chargepoint-ev-charging-station-discount-install](https://www.theverge.com/2024/5/22/24162372/airbnb-chargepoint-ev-charging-station-discount-install)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T14:16:50+00:00
+
+<figure>
+      <img alt="modern house with blue kia ev6 parked in front of garage with charge point charger Hooked up, and two people holding hands walking away from the car" src="https://cdn.vox-cdn.com/thumbor/ZunIw0yVGsHd2rMOOd0_-uUFvgA=/3x0:2997x1996/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363300/AirbnbHero.0.jpg" />
+        <figcaption><em>A level 2 ChargePoint station might attract new guests to this Airbnb location.</em> | Image: ChargePoint</figcaption>
+    </figure>
+
+  <p id="0rIZ2Y">Airbnb <a href="https://news.airbnb.com/airbnb-and-chargepoint-partner-to-support-growing-demand-for-ev-chargers/">is partnering with ChargePoint</a> to provide hosts a discounted option to buy, install, and manage a home EV charger that can help attract EV owners as guests.</p>
+<p id="n3dxTK">Airbnb hosts can purchase these special EV charging packages through a new dedicated online store that offers the charging hardware, installation services, and support services, all in one pla
+
+## Panasonic wants to play Fujifilm’s filter game with the new Lumix S9
+ - [https://www.theverge.com/24161722/panasonic-lumix-s9-full-frame-camera](https://www.theverge.com/24161722/panasonic-lumix-s9-full-frame-camera)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T14:02:01+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/UXvN1u7nHLBTkalfZ8mcv3zfdnU=/0x0:8356x5571/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73363264/BFarsace_S9_5.0.jpg" />
+        <figcaption><em>The Panasonic Lumix S9 is a new $1,500 full-frame camera that comes in four colors.</em></figcaption>
+    </figure>
+
+  <p id="Z7Jf9I">LUTs. The people want LUTs! Or at least that is what Panasonic thinks with its new $1,500 Lumix S9. The S9 is a full-frame, interchangeable lens, mirrorless camera that has most of the guts of the <a href="https://www.theverge.com/2023/1/4/23519319/panasonic-lumix-s5ii-s5iix-mirrorless-camera-price-specs">Lumix S5 II</a>, but with a new slimmed-down body and a dedicated “LUT” button on the back.</p>
+  <figure class="e-image">
+        
+      <figcaption><em>The “LUT” button on the S9 is located above the articulating screen.</em></figcaption>
+  </figure>
+<p id="KKaBe5">A LUT, which stands for “Look Up Table,” is a way to alter the color or lo
+
+## Humane is looking for a buyer after the AI Pin’s underwhelming debut
+ - [https://www.theverge.com/2024/5/21/24162185/humane-seeking-acquisition-rumor-ai-pin](https://www.theverge.com/2024/5/21/24162185/humane-seeking-acquisition-rumor-ai-pin)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T02:10:07+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/Nbd6o5Y1lId_lsmy5c6le6RA-co=/0x0:2700x1800/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73362449/247075_Humane_AI_pin_AKrales_0120.0.jpg" />
+        <figcaption>Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="il5nZn">Humane, the startup behind the poorly-reviewed <a href="https://www.theverge.com/24126502/humane-ai-pin-review">AI Pin wearable computer</a>, is already hunting for a potential buyer for its business. That’s according to <a href="https://www.bloomberg.com/news/articles/2024-05-22/wearable-ai-startup-humane-is-said-to-explore-potential-sale">a report from <em>Bloomberg</em></a>, which says the company — led by former longtime Apple employees Imran Chaudhri and Bethany Bongiorno — is “seeking a price of between $750 million and $1 billion.” </p>
+<p id="YXOITz">That might be a tough sell after the $699 AI Pin’s debut: the device has been widely panned for its slow response
+
+## The OneXPlayer X1 Mini is the most feature-packed handheld gaming PC yet
+ - [https://www.theverge.com/2024/5/21/24161887/onexplayer-x1-mini-handheld-gaming-pc-ssd](https://www.theverge.com/2024/5/21/24161887/onexplayer-x1-mini-handheld-gaming-pc-ssd)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-05-22T00:05:40+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/AA22FbthU7qbv3UxzH6h5iKAI1A=/79x0:1323x829/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73362290/onexplayer_comparo.0.jpg" />
+        <figcaption>Images: OneXPlayer</figcaption>
+    </figure>
+
+  <p id="WEs1Ap"><a href="https://www.theverge.com/23951655/steam-deck-oled-review">Steam Deck</a>, <a href="https://www.theverge.com/24152945/asus-rog-ally-handheld-gaming-pc-2024-revision">ROG Ally</a> and <a href="https://www.theverge.com/24088011/lenovo-legion-go-review">Lenovo Legion Go</a> a bit too simplistic for you? The <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.indiegogo.com%2Fprojects%2Fonexplayer-x1-mini-top-3-in-1-console-w-ssd-swap%2Fcoming_soon&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F5%2F21%2F24161887%2Fonexplayer-x1-mini-handheld-gaming-pc-ssd" rel="sponsored nofollow noopener" target="_blank">OnePlayer X1 Mini</a> is the most ga
+

@@ -1,0 +1,65 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## Seattle peer-to-peer laundry startup Loopie sells part of business to two companies
+ - [https://www.geekwire.com/2024/seattle-peer-to-peer-laundry-startup-loopie-sells-part-of-business-to-two-companies](https://www.geekwire.com/2024/seattle-peer-to-peer-laundry-startup-loopie-sells-part-of-business-to-two-companies)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-22T22:44:33+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="705" src="https://cdn.geekwire.com/wp-content/uploads/2022/06/loopie-1260x705.jpg" width="1260" /><br />Loopie, the peer-to-peer laundry startup that connects people who don&#8217;t have the time or desire to wash their own clothes with those who want to earn money doing it, sold its wash and fold business to two companies offering the same services. Co-founder and CEO John Vincent Lee told GeekWire Wednesday that Loopie is transitioning its customer list in Portland to Charlotte, N.C.-based HappyNest. The Seattle market and other active Loopie cities are being sold to Rinse, a San Francisco-based startup that is already active in 12 markets, including Seattle, where it arrived last summer. Lee said Loopie is retaining its&#8230; <a href="https://www.geekwire.com/2024/seattle-peer-to-peer-laundry-startup-loopie-sells-part-of-business-to-two-companies/">Read More</a>
+
+## Microsoft, Providence and UW make use of generative AI for digital cancer diagnosis
+ - [https://www.geekwire.com/2024/microsoft-providence-uw-ai-cancer-diagnosis](https://www.geekwire.com/2024/microsoft-providence-uw-ai-cancer-diagnosis)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-22T22:34:45+00:00
+
+<img alt="Illustration: Stylized microchip incorporating the look of a whole-slide pathology image" class="webfeedsFeaturedVisual wp-post-image" height="659" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/240522-gigapath2.jpg" width="1181" /><br />Researchers at Microsoft, Providence Health System and the University of Washington say they&#8217;ve developed a new generative-AI model for diagnosing cancer, based on an analysis of more than a billion images of tissue samples from more than 30,000 patients. The open-access model, known as Prov-GigaPath, is described in research published today by the journal Nature and is already being used in clinical applications. “The rich data in pathology slides can, through AI tools like Prov-GigaPath, uncover novel relationships and insights that go beyond what the human eye can discern,” study co-author Carlo Bifulco, chief medical officer of Providence Genomics, said&#8230; <a href="https://www.geekwire.com/2024/microsoft-providence-uw
+
+## Seattle-area teams blast into top 25 in national finals of American Rocketry Challenge
+ - [https://www.geekwire.com/2024/seattle-area-teams-blast-into-top-25-in-national-finals-of-american-rocketry-challenge](https://www.geekwire.com/2024/seattle-area-teams-blast-into-top-25-in-national-finals-of-american-rocketry-challenge)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-22T22:10:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="872" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/Interlake-1260x872.jpg" width="1260" /><br />Three Seattle-area teams made strong showings during the national finals of the 2024 American Rocketry Challenge, the world&#8217;s largest student rocket-launching challenge. Out of 100 teams competing during the event on Sunday in The Plains, Va., Team Starry Night, from Interlake High School in Bellevue, Wash., finished 15th; Team RocketTree, from Sammamish, Wash., nonprofit Smiling Tree, finished 21st; and Odle Middle School Team 1, from Bellevue, finished 25th. More than 5,000 students from 922 teams across 45 states competed in the 22nd Rocketry Challenge, which requires students to design, build and test a rocket capable of meeting rigorous mission parameters&#8230; <a href="https://www.geekwire.com/2024/seattle-area-teams-blast-into-top-25-in-national-finals-of-american-rocketry-challenge/">Read More</a>
+
+## Amazon shareholders reject all 14 proposals on issues related to climate, AI, working conditions
+ - [https://www.geekwire.com/2024/amazon-shareholders-reject-all-14-proposals-on-issues-related-to-climate-ai-working-conditions](https://www.geekwire.com/2024/amazon-shareholders-reject-all-14-proposals-on-issues-related-to-climate-ai-working-conditions)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-22T17:30:48+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="421" src="https://cdn.geekwire.com/wp-content/uploads/2020/09/20160720_Amazon_HQ_tour_110-630x421-1.jpg" width="630" /><br />Investors representing a majority of Amazon’s shares voted against all 14 outside proposals submitted for the annual meeting of shareholders Wednesday morning, according to the company. The announcement of the preliminary results at the virtual meeting followed more than 30 minutes of comments by proponents including Amazon employees, activists, and others on issues such as climate, workers’ rights, racial and gender pay gaps, corporate governance, facial recognition technology, working conditions, and artificial intelligence. Detailed results are typically released a few days after the meeting. Amazon’s 12-member board, which was re-elected as part of the meeting, had recommended that shareholders vote&#8230; <a href="https://www.geekwire.com/2024/amazon-shareholders-reject-all-14-proposals-on-iss
+
+## Redmond high school student is ‘Google for Doodle’ contest winner for Washington state
+ - [https://www.geekwire.com/2024/redmond-high-school-student-is-google-for-doodle-contest-winner-for-washington-state](https://www.geekwire.com/2024/redmond-high-school-student-is-google-for-doodle-contest-winner-for-washington-state)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-22T16:30:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="522" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/googledoodle2024-1260x522.jpeg" width="1260" /><br />Mahee Chandrasekhar, a 9th grader at Redmond High School in Redmond, Wash., is the Washington state winner in the 16th annual &#8220;Doodle for Google&#8221; contest. Mahee, 15, is one of 55 state and territory winners announced by the tech giant on Wednesday. Her artwork was selected from tens of thousands of submissions. In celebration of Google’s 25th anniversary, students were asked to answer the prompt: “My wish for the next 25 years.&#8221; Mahee submitted an artwork titled&#160;&#8220;Small but Mighty&#8221; (above) and provided the following response to the prompt: &#8220;My wish for the next 25 years is for us to honor the&#8230; <a href="https://www.geekwire.com/2024/redmond-high-school-student-is-google-for-doodle-contest-winner-for-washington-state/">Read More</a>
+
+## Opioid and alcohol addiction care startup Boulder Care raises $35M
+ - [https://www.geekwire.com/2024/online-addiction-care-startup-boulder-care-raises-35m](https://www.geekwire.com/2024/online-addiction-care-startup-boulder-care-raises-35m)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-22T16:16:18+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2022/06/stephaniestrong-1260x840.jpg" width="1260" /><br />Boulder Care, a Portland, Ore.-based startup that provides telehealth treatment for people with opioid and alcohol use disorder, raised $35 million in new funding. A new SEC filing revealed the investment. Axios reported on the funding Wednesday. Led by founder and CEO Stephanie Strong, Boulder Care was founded in 2017 with the goal of bringing treatment to people through an app-based program. The startup employs physicians, nurse practitioners, peer recovery specialists, social services support and more as part of a multidisciplinary care team. The National Institute on Drug Abuse reported that in 2021 an estimated 2.5 million people aged 18&#8230; <a href="https://www.geekwire.com/2024/online-addiction-care-startup-boulder-care-raises-35m/">Read More</a>
+
+## Tech Moves: Madrona adds Silicon Valley partner; Walmart execs join Nex; and more
+ - [https://www.geekwire.com/2024/tech-moves-madrona-adds-silicon-valley-partner-concur-exec-joins-center-and-more](https://www.geekwire.com/2024/tech-moves-madrona-adds-silicon-valley-partner-concur-exec-joins-center-and-more)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-22T15:09:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1000" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/Jeff-Mills-color.png" width="1000" /><br />Seattle-based venture capital firm Madrona is boosting its Silicon Valley footprint with the addition of Jeff Mills as partner and head of investor relations. Mills most recently was managing director at San Francisco-based firm Gryphon Investors. He has more than two decades of experience in various fundraising roles at firms including Resource Capital Funds, Brooklands Capital Strategies (a division of TPG Capital), Ares Management, Oak Hill, and Probitas Partners. &#160; Mills started his career in the U.S. Army and flew helicopters (UH-1s and CH-47s) for seven years. He has degrees from West Point and the Chicago Booth School of Business,&#8230; <a href="https://www.geekwire.com/2024/tech-moves-madrona-adds-silicon-valley-partner-concur-exec-joins-center-and-more/">Read More</a>
+
+## Amperity CEO Barry Padgett stepping down from Seattle startup
+ - [https://www.geekwire.com/2024/amperity-ceo-barry-padgett-stepping-down-from-seattle-startup](https://www.geekwire.com/2024/amperity-ceo-barry-padgett-stepping-down-from-seattle-startup)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-22T13:43:26+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="799" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/Amperity-Barry-and-Chris-1260x799.png" width="1260" /><br />Amperity CEO Barry Padgett is stepping down from the Seattle startup to spend time with his teenage children and will transition to an advisor role beginning next month. Chris Jones, Amperity&#8217;s customer and product officer, will take over as interim CEO. Padgett told GeekWire he looks forward to helping his kids launch their next academic endeavors, with his son enrolling in West Point and his high school daughter heading to school in Virginia. &#8220;I haven’t had a summer off since I was 12 years old,&#8221; Padgett said, adding that as a kid he worked &#8220;detasseling&#8221; corn in Indiana. Padgett joined Amperity&#8230; <a href="https://www.geekwire.com/2024/amperity-ceo-barry-padgett-stepping-down-from-seattle-startup/">Read More</a>
+
+## How Amazon’s new cloud chief Matt Garman will approach the big challenges ahead
+ - [https://www.geekwire.com/2024/how-amazons-new-cloud-chief-matt-garman-will-approach-the-big-challenges-ahead](https://www.geekwire.com/2024/how-amazons-new-cloud-chief-matt-garman-will-approach-the-big-challenges-ahead)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-22T13:29:34+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="841" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/matt-garman-1-1260x841.jpg" width="1260" /><br />Three executives from Amazon Web Services were meeting with a top CIA tech leader, trying to come up with a creative solution to an issue that was facing the U.S. intelligence agency in the cloud, when Matt Garman picked up the marker. &#8220;Matt is the one that took the whiteboard and started problem-solving immediately,&#8221; getting into the nitty-gritty details of how Amazon could accomplish what the CIA needed at that moment, recalled Teresa Carlson, who led the company&#8217;s expansion into the public sector industry from 2010 to 2021. &#8220;He got to it. He solved it.&#8221; The choice of Garman as&#8230; <a href="https://www.geekwire.com/2024/how-amazons-new-cloud-chief-matt-garman-will-approach-the-big-challenges-ahead/">Read More</a>
+
