@@ -1,0 +1,142 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Happy Birthday to Indiana Jones and the Temple of Doom
+ - [https://gizmodo.com/indiana-jones-temple-of-doom-anniversary-harrison-ford-1851497997](https://gizmodo.com/indiana-jones-temple-of-doom-anniversary-harrison-ford-1851497997)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T22:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ef17cbe9c75116c75a19558ca17075bc.jpg" /><p>Put on your best white tux, smuggle a diamond, and throw on “Anything Goes.” May 23 is the birthday of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/new-steven-spielberg-movie-release-date-avengers-ufos-1851496658">Steven Spielberg’s</a> Indiana Jones and the Temple of Doom—the franchise’s weirdest entry,<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/indiana-jones-temple-of-doom-review-harrison-ford-spiel-1850481263">for a whole lot of reasons.</a> And since it was released in 1984, that makes today its 40th anniversary. Happy birthday Indy!</p><p><a href="https://gizmodo.com/indiana-jones-temple-of-doom-anniversary-harrison-ford-1851497997">Read more...</a></p>
+
+## 10 Best Cult Movies on Netflix Right Now
+ - [https://gizmodo.com/10-best-cult-sci-fi-horror-movies-netflix-madame-web-1851491065](https://gizmodo.com/10-best-cult-sci-fi-horror-movies-netflix-madame-web-1851491065)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T22:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3ba4c375de41298db5b708fd76e824d3.jpg" /><p>Netflix is <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/netflix-10-best-horror-tv-series-wednesday-hill-house-1851481865">a go-to for must-watch series</a> like <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/3-body-problem-netflix-spoilers-questions-aliens-1851333553">3 Body Problem</a> and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/stranger-things-vol-4-part-2-review-netflix-1849147031">Stranger Things</a>, but it’s not really <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/13-must-watch-cult-movies-streaming-free-on-tubi-1851213080">a cult movie destination</a>. If you dig deep, though, you can turn up some offbeat sci-fi and horror gems. With <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_li
+
+## California Bill Would Require New Cars to Beep at You If You Speed
+ - [https://gizmodo.com/california-bill-would-require-new-cars-to-beep-at-you-i-1851497656](https://gizmodo.com/california-bill-would-require-new-cars-to-beep-at-you-i-1851497656)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T20:13:35+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0e0c64c5a81f81b47d94782e478199a5.jpg" /><p>In developed countries all over the world, driving continues to get safer. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://jalopnik.com/driving-is-getting-safer-everywhere-except-in-the-u-s-1849738687">The one exception to that rule is the United States</a>, where driving continues to get more dangerous. Unfortunately, there are so many factors that make drivers in the U.S. more dangerous, there’s no silver bullet that will magically fix things.…</p><p><a href="https://gizmodo.com/california-bill-would-require-new-cars-to-beep-at-you-i-1851497656">Read more...</a></p>
+
+## Tackling the Legend of Zelda Film
+ - [https://gizmodo.com/tackling-the-legend-of-zelda-film-1851493533](https://gizmodo.com/tackling-the-legend-of-zelda-film-1851493533)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T19:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5a63f93435412531fa4062828e472635.jpg" /><p><a href="https://gizmodo.com/tackling-the-legend-of-zelda-film-1851493533">Read more...</a></p>
+
+## Linda H. Codega Tells io9 All About Their Queer Fantasy Debut Novel, Motheater
+ - [https://gizmodo.com/motheater-linda-codega-new-fantasy-book-cover-interview-1851483192](https://gizmodo.com/motheater-linda-codega-new-fantasy-book-cover-interview-1851483192)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0b23edd4924ca3ae2795ebaaf703c1b6.jpg" /><p>io9 has several acclaimed authors among its alumni, including <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/weve-got-an-exclusive-first-look-at-io9-co-founder-anna-1832512608">Annalee Newitz</a>, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/listen-to-charlie-jane-anders-read-from-her-inspiring-n-1847457729">Charlie Jane Anders</a>, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/black-panthers-origins-will-be-explored-in-a-new-comic-1819116107">Evan Narcisse</a>, and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/a-new-book-digs-into-cosplays-history-and-the-fan-spiri-1848103843">Andrew Liptak</a>. Another former io9-er, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.co
+
+## John Oliver Explains Why Ethanol Fuel Is a Lie
+ - [https://gizmodo.com/john-oliver-explains-why-ethanol-fuel-is-a-lie-1851497208](https://gizmodo.com/john-oliver-explains-why-ethanol-fuel-is-a-lie-1851497208)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T18:43:50+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8ce859683242951be032efe42a492322.png" /><p>Corn <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://jalopnik.com/is-ethanol-just-a-well-marketed-disaster-1462851256">is a problem</a>. Or rather, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://jalopnik.com/the-feds-will-let-midwesterners-buy-e15-ethanol-all-yea-1851300906">America’s growing reliance on government corn subsidies</a> to power our everyday lives. Beef is artificially inexpensive because farmers feed corn to cows, even though their digestive systems aren’t designed to process it. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://jalopnik.com/how-can-ethanol-fly-in-america-if-it-negatively-affects-1463230632">Sweet foods are artificially inexpensive</a> because high fructose corn…</p><p><a href="https://gizmodo.com/john-oliver-explains-why-ethanol-fuel-is-a-lie-185149
+
+## Elon Musk Says AI Will Take Your Job (Bad), but You'll Be Rich (Good), With No Purpose (Hmm)
+ - [https://gizmodo.com/elon-musk-says-ai-will-take-your-job-bad-but-youll-b-1851497026](https://gizmodo.com/elon-musk-says-ai-will-take-your-job-bad-but-youll-b-1851497026)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T18:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/38f3df1d022a8f690d4994adf0fd636b.jpg" /><p>Elon Musk shared his dystopian vision for the future on Thursday while remotely joining the Viva Technology Conference in Paris. An audience member asked whether AI would one day replace Musk, expressing real concerns about automation taking jobs—a situation many are already facing. The owner of X, xAI, Tesla, and…</p><p><a href="https://gizmodo.com/elon-musk-says-ai-will-take-your-job-bad-but-youll-b-1851497026">Read more...</a></p>
+
+## Google Meet Gets a New Audio Sync Feature
+ - [https://gizmodo.com/google-meet-gets-a-new-audio-sync-feature-1851496829](https://gizmodo.com/google-meet-gets-a-new-audio-sync-feature-1851496829)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5fa4c87b29bd86b00957c1a1289640db.png" /><p>Google Workspace <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html" rel="noopener noreferrer" target="_blank">released an update</a> today that could make video conferencing in meeting rooms a bit more convenient. With its new ‘adaptive audio’ feature, Google Meet will sync the mics and speakers of all the laptops in a room for an improved overall audio experience. It will offer setup without any input from…</p><p><a href="https://gizmodo.com/google-meet-gets-a-new-audio-sync-feature-1851496829">Read more...</a></p>
+
+## This Hurricane Season Could Be a Doozy
+ - [https://gizmodo.com/2024-hurricane-season-above-average-tropical-storms-1851496704](https://gizmodo.com/2024-hurricane-season-above-average-tropical-storms-1851496704)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T17:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cd412520b350efcccf875a4e19ba3331.jpg" /><p>It’s that time of the year again—but warmer than average. Hurricane season is upon us and the National Weather Service is expecting “above-normal” hurricane activity in the Atlantic basin, which could portend a difficult six months for coastal states, the Caribbean, and eastern Central America. </p><p><a href="https://gizmodo.com/2024-hurricane-season-above-average-tropical-storms-1851496704">Read more...</a></p>
+
+## 10 Things We Learned From Assembled: The Making of X-Men '97
+ - [https://gizmodo.com/10-things-we-learned-x-men-97-marvel-assembled-disney-1851495326](https://gizmodo.com/10-things-we-learned-x-men-97-marvel-assembled-disney-1851495326)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d4c45d1cf6f6dd166bbca0062ca86d17.png" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/xmen-97-finale-interview-magneto-bastion-apocalypse-1851485856">X-Men ‘97</a> just <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/x-men-97-finale-recap-ending-explained-apocaplyse-mcu-1851479371">wrapped up its first season</a> on Disney+, and we’re still trying to recover from the thrilling conclusion. To hold us over until season two, here are the best behind-the-scenes tidbits we learned from the new doc Assembled: The Making of X-Men ‘97 to geek out about until the show returns. </p><p><a href="https://gizmodo.com/10-things-we-learned-x-men-97-marvel-assembled-disney-1851495326">Read more...</a></p>
+
+## Steven Spielberg's New Movie Will Battle Avengers and Star Wars
+ - [https://gizmodo.com/new-steven-spielberg-movie-release-date-avengers-ufos-1851496658](https://gizmodo.com/new-steven-spielberg-movie-release-date-avengers-ufos-1851496658)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b5b1ad7c116f3c00504d73a89e08a86a.jpg" /><p>Forty years to the day after Steven Spielberg <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/indiana-jones-temple-of-doom-review-harrison-ford-spiel-1850481263">sent Indiana Jones on a mine cart chase</a>, he’s chasing his next movie, and it sounds like a biggie. The legendary director just set May 15, 2026 for the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/steven-spielberg-next-movie-ufo-sci-fi-1851417780">release of his new movie</a>, which is being described as a “new original event film.” David Koepp, who penned Jurassic Park…</p><p><a href="https://gizmodo.com/new-steven-spielberg-movie-release-date-avengers-ufos-1851496658">Read more...</a></p>
+
+## Tesla Says Autopilot Is Safer for Drivers—but That's Not the Whole Story
+ - [https://gizmodo.com/tesla-ev-autopilot-driver-assistance-safety-elon-musk-1851496656](https://gizmodo.com/tesla-ev-autopilot-driver-assistance-safety-elon-musk-1851496656)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T16:12:24+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/69e775cd3e32cf4af542762a678be4b6.jpg" /><p>For the first time in more than a year, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://qz.com/tesla-elon-musk-ev-auto-industry-history-1851366760" rel="noopener noreferrer" target="_blank">Tesla</a> has <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.tesla.com/VehicleSafetyReport" rel="noopener noreferrer" target="_blank">released new data</a> presenting how its <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://qz.com/iihs-automated-driver-systems-safety-driver-tesla-lexus-1851329174" rel="noopener noreferrer" target="_blank">controversial Autopilot driver assistance technology</a> keeps its customers safe.<br /></p><p><a href="https://gizmodo.com/tesla-ev-autopilot-driver-assistance-safety-elon-musk-1851496656">Read more...</a></p>
+
+## Feds Sue to Break Up Live Nation and Ticketmaster
+ - [https://gizmodo.com/live-nation-ticketmaster-prices-antitrust-taylor-swift-1851496545](https://gizmodo.com/live-nation-ticketmaster-prices-antitrust-taylor-swift-1851496545)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T15:45:51+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a00770d38762183dcf6d624c06f3ecf7.jpg" /><p>The Department of Justice (DOJ) on Thursday sued Live Nation Entertainment and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.courtlistener.com/docket/68557723/united-states-of-america-v-live-nation-entertainment-inc/" rel="noopener noreferrer" target="_blank">asked a court to break up the company</a> over claims it has maintained an illegal monopoly over the live entertainment industry. </p><p><a href="https://gizmodo.com/live-nation-ticketmaster-prices-antitrust-taylor-swift-1851496545">Read more...</a></p>
+
+## Largest Space Images Ever: Euclid's Views of Galaxy Clusters, Galaxies, and Nebulae
+ - [https://gizmodo.com/euclid-space-telescope-largest-space-images-dark-matter-1851495931](https://gizmodo.com/euclid-space-telescope-largest-space-images-dark-matter-1851495931)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T15:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3129f86f0bd3125751f63419073bd5e4.jpg" /><p>In July 2023, scientists launched the Euclid Space Telescope into orbit with a straightforward, albeit massive, task: to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/euclid-telescope-mission-explainer-dark-matter-energy-1850585534">map the dark universe</a>, revealing the dark matter and dark energy that we cannot directly observe but makes up the bulk of everything.</p><p><a href="https://gizmodo.com/euclid-space-telescope-largest-space-images-dark-matter-1851495931">Read more...</a></p>
+
+## How OpenAI Used Equity to Silence Dissent
+ - [https://gizmodo.com/openai-sam-altman-chatgpt-employee-dissent-ndas-1851496211](https://gizmodo.com/openai-sam-altman-chatgpt-employee-dissent-ndas-1851496211)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T14:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f26c6362729a0e07595846c08ef6110a.jpg" /><p>Last week, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/sam-altman-openai-chatgpt-sky-inconsisten-candor-1851492281">Sam Altman</a> <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://x.com/sama/status/1791936857594581428" rel="noopener noreferrer" target="_blank">apologized for OpenAI’s contracts</a> which threatened to claw back equity from former employees, claiming in a tweet he “did not know this was happening and I should have.” Now, documents <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees" rel="noopener noreferrer" target="_blank">leaked to Vox</a> on Wednesday suggest Altman did know, showing that the CEO and other senior OpenAI executives…</p><p><a href="https://gizmodo.c
+
+## Newly Discovered Exoplanet Has Nearly the Same Surface Temperatures as Earth
+ - [https://gizmodo.com/gliese12b-exo-venus-moderate-temperature-habitability-1851495866](https://gizmodo.com/gliese12b-exo-venus-moderate-temperature-habitability-1851495866)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5233ddc93acd6cefc24307e9b26a8ddb.jpg" /><p>A newly discovered exoplanet, with its remarkably temperate surface temperature, is suddenly one of the most intriguing objects in our immediate celestial neighborhood. This rocky Venus-sized world transits a red dwarf star, offering astronomers the rare opportunity to study whether such planets can retain their…</p><p><a href="https://gizmodo.com/gliese12b-exo-venus-moderate-temperature-habitability-1851495866">Read more...</a></p>
+
+## Star Trek: Discovery Just Pulled Off the Heist of the Century
+ - [https://gizmodo.com/star-trek-discovery-recap-season-5-episode-9-1851485873](https://gizmodo.com/star-trek-discovery-recap-season-5-episode-9-1851485873)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7d8cc6c6490ab9e4b1674032ef17299e.jpg" /><p>Star Trek: Discovery has always had <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-discovery-recap-season-5-episode-7-breen-1851466926">a bit of a problem</a> with the penultimate episodes of its seasons—episodes that have to come to some sort of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-discovery-recap-season-4-episode-12-specie-1848636508">juddering climactic halt</a> for whatever’s happening that week, to set up the dire stakes coming in the finale episode the week after. At long last, as the series looks to its…</p><p><a href="https://gizmodo.com/star-trek-discovery-recap-season-5-episode-9-1851485873">Read more...</a></p>
+
+## Doctor Who Teases Its Strangest Villain Yet
+ - [https://gizmodo.com/evil-season-four-dr-who-teases-strangest-villain-yet-1851495505](https://gizmodo.com/evil-season-four-dr-who-teases-strangest-villain-yet-1851495505)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T13:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/546c48770bd105faed89770b4cc3295e.jpg" /><p>The cast of Jurassic World 4 expands. Street Fighter gets its first logo. Plus, Doctor Who hypes its strangest villain yet. To me, my spoilers!<br /></p><p><a href="https://gizmodo.com/evil-season-four-dr-who-teases-strangest-villain-yet-1851495505">Read more...</a></p>
+
+## Cities Stare Down ‘Day Zero’ as Reservoirs Go Dry
+ - [https://gizmodo.com/cities-stare-down-day-zero-as-reservoirs-go-dry-1851495954](https://gizmodo.com/cities-stare-down-day-zero-as-reservoirs-go-dry-1851495954)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T13:12:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a96128ef56289a9cb5f63080be7d05e1.jpg" /><p>This story was originally published by <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://grist.org" rel="noopener noreferrer" target="_blank">Grist</a>. Sign up for Grist’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://go.grist.org/signup/weekly/partner?utm_campaign=republish-content&amp;utm_medium=syndication&amp;utm_source=partner" rel="noopener noreferrer" target="_blank">weekly newsletter here</a>.<br /></p><p><a href="https://gizmodo.com/cities-stare-down-day-zero-as-reservoirs-go-dry-1851495954">Read more...</a></p>
+
+## Glue-Topped Pizza and Zombie Presidents: The Worst Google AI Answers So Far
+ - [https://gizmodo.com/worst-google-ai-answers-glue-pizza-dogs-playing-sports-1851495298](https://gizmodo.com/worst-google-ai-answers-glue-pizza-dogs-playing-sports-1851495298)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-05-23T13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bcac659cde437901aad80739246b207c.jpg" /><p>Google recently rolled out AI-generated answers at the top of web searches in a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/how-to-purge-the-ai-from-your-google-searches-1851483027">controversial move</a> that’s been widely panned. In fact, social media is filled with examples of completely idiotic answers that are now prominent in Google’s AI results. And some of them are pretty funny.<br /></p><p><a href="https://gizmodo.com/worst-google-ai-answers-glue-pizza-dogs-playing-sports-1851495298">Read more...</a></p>
+
