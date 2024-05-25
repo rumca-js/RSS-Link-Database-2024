@@ -1,0 +1,17 @@
+# Source:Jeff Geerling's Blog, URL:https://www.jeffgeerling.com/blog.xml, language:en
+
+## LattePanda Mu crams x86 PC into SoM form factor
+ - [https://www.jeffgeerling.com/blog/2024/lattepanda-mu-crams-x86-pc-som-form-factor](https://www.jeffgeerling.com/blog/2024/lattepanda-mu-crams-x86-pc-som-form-factor)
+ - RSS feed: https://www.jeffgeerling.com/blog.xml
+ - date published: 2024-05-24T14:00:46+00:00
+
+<span class="field field--name-title field--type-string field--label-hidden">LattePanda Mu crams x86 PC into SoM form factor</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img alt="LattePanda Mu with Raspberry Pi 5 in background" class="insert-image" height="auto" src="https://www.jeffgeerling.com/sites/default/files/images/lattepanda-mu-raspberry-pi-5.jpeg" width="700" /></p>
+
+<p>LattePanda's been building Intel-based SBCs for almost a decade, but until now, they've never attempted to unite an Intel x86 chip with the popular SoM-style form factor Raspberry Pi's dominated with their Compute Module boards.</p>
+
+<p>This year they've introduced the <a href="https://www.lattepanda.com/lattepanda-mu">LattePanda Mu</a>, a SoM that marries an Intel N100 SoC with a new edge connector standard they've designed, using a DDR4 SODIMM form factor.</p>
+
+<p>Right now they offer two carrier boards: a <a
+
