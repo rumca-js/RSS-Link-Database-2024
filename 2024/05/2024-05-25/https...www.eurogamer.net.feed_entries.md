@@ -1,0 +1,40 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Warner Bros is "threatening to destroy" a YouTube channel because of its Mortal Kombat 1 videos and mods
+ - [https://www.eurogamer.net/warner-bros-is-threatening-to-destroy-a-youtube-channel-because-of-its-mortal-kombat-1-videos-and-mods](https://www.eurogamer.net/warner-bros-is-threatening-to-destroy-a-youtube-channel-because-of-its-mortal-kombat-1-videos-and-mods)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-25T18:15:37+00:00
+
+<img src="https://assetsio.gnwcdn.com/ss_224cb713d0e9dcc0028f5ad275cf6f4925d3dca5.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A Mortal Kombat YouTuber and modder is accusing Warner Bros of "threatening to destroy" his YouTube channel.</p><p>In a lengthy statement on X, the social media platform formerly known as Twitter, ToastedShoes &ndash; an Australian YouTuber with 800K subscribers and 1.7m followers on TikTok &ndash; claims he has received an "Intellectual Property Infringement Notification" directly from Warner Bros which asks him to delete "all Mortal Kombat 1 videos from [his] channel or else".</p><p>"This morning I received an IP infringement notification directly from Warner Brothers stating that the Mortal Kombat mods in my content 'infringe' on their intellectual property rights," Toasted said. "I've been requested to delete all Mortal Kombat 1 videos from my channel or else they will issue copyright strikes and essentia
+
+## Bungie wins court battle against Destiny cheat site AimJunkies
+ - [https://www.eurogamer.net/bungie-wins-court-battle-against-destiny-cheat-site-aimjunkies](https://www.eurogamer.net/bungie-wins-court-battle-against-destiny-cheat-site-aimjunkies)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-25T17:56:18+00:00
+
+<img src="https://assetsio.gnwcdn.com/destiny-2-expansions.jpeg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Bungie has won its court battle against cheat and mod site, AimJunkies.</p><p>As reported by journalist Stephen Totilo, AimJunkies, aka Phoenix Digital, was instructed to pay the Destiny 2 developer $63,210 in damages &ndash; that's the revenue the company is thought to have earned selling the cheats &ndash; setting a new precedent in what's thought to be the first lawsuit wherein a jury has ruled on a game-cheating case.</p><p>The jury threw out AimJunkie's countersuit that Bungie had illegally accessed one of its computers, but founder David Schaefer says they will "fight this" and appeal the verdict.</p> <p><a href="https://www.eurogamer.net/bungie-wins-court-battle-against-destiny-cheat-site-aimjunkies">Read more</a></p>
+
+## Ghost of Tsushima on PC delivers impressive upgrades over PS5
+ - [https://www.eurogamer.net/digitalfoundry-2024-ghost-of-tsushima-on-pc-delivers-impressive-upgrades-over-ps5](https://www.eurogamer.net/digitalfoundry-2024-ghost-of-tsushima-on-pc-delivers-impressive-upgrades-over-ps5)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-25T14:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/TSUSHIMA-SITEE.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Four years after its initial PS4 release, Sucker Punch's Ghost of Tsushima arrives on PC, ported by Nixxes Software. Initial impressions of the port were favourable, but having now spent around a week with the game we're able to give you a much more nuanced appraisal of the conversion, suggest some optimised settings and offer up those all-important PS5 comparisons.
+</p><p>
+This may be a new engine for Nixxes to deal with, but the overall framework of the game has much in common with its prior ports - which is generally a very positive thing. It means you get a settings menu that lets you tweak as you like, your changes reflected in the background in real-time - no restarts required! And as usual for Nixxes, there's support for dynamic resolution scaling and all major upscaling technologies, along with both FSR 3 and DLSS 3 frame genera
+
+## Uvalde school shooting victims sue Activision, claiming it's the "most prolific marketer of weapons in the US"
+ - [https://www.eurogamer.net/uvalde-school-shooting-victims-sue-activision-claiming-its-the-most-prolific-marketer-of-weapons-in-the-us](https://www.eurogamer.net/uvalde-school-shooting-victims-sue-activision-claiming-its-the-most-prolific-marketer-of-weapons-in-the-us)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-25T12:36:30+00:00
+
+<img src="https://assetsio.gnwcdn.com/Call-of-Duty-Modern-Warfare-720-1-2302829329.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The families of those killed in the Uvalde school shooting in 2022 have filed lawsuits against Call of Duty publisher Activision, accusing the company of "grooming" the 18-year-old who shot and killed 19 children, two teachers, and injured 17 others.</p><p>As reported by The New York Times (<a href="https://www.nytimes.com/2024/05/24/us/uvalde-gun-instagram-activision-lawsuit.html">&pound;</a>) (thanks, <a href="https://www.pcgamer.com/games/fps/uvalde-activision-lawsuit/">PC Gamer</a>), the dual lawsuits &ndash; one filed in California, the other in Texas &ndash; claim that the killer bought a Daniel Defense M4 V7 on his 18th birthday after seeing the gun in Call of Duty games.</p><p>It's the lawsuits' position that by using real-life weapons, Activision is "the most prolific and effective marketer of assau
+
+## Baldur's Gate 3's PS5 physical edition is delayed again in North America due to "production issues"
+ - [https://www.eurogamer.net/baldurs-gate-3s-ps5-physical-edition-is-delayed-again-in-north-america-due-to-production-issues](https://www.eurogamer.net/baldurs-gate-3s-ps5-physical-edition-is-delayed-again-in-north-america-due-to-production-issues)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-05-25T11:46:40+00:00
+
+<img src="https://assetsio.gnwcdn.com/astarion-baldurs-gate-3.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Baldur's Gate 3 developer Larian Studios has shared the "disappointing news" that its <a href="https://www.eurogamer.net/baldurs-gate-3s-xbox-physical-edition-gets-a-bit-of-a-delay-due-to-production-issues">physical PS5 North America deluxe editions have been delayed once again</a>, this time to July 2024.</p><p>In a statement posted to X, the social media platform formerly known as Twitter, last night, the team said it was "so hoping not to have to update [...] with any further news of delay", but it had "run into more production issues", further delaying the shipping of physical copies of the North American PS5 version until later this year.</p><p>"Due to production changes outside of our control, we have had to follow certain processes specifically set by production companies when manufacturing the PS5 discs, and unfortunatel
+

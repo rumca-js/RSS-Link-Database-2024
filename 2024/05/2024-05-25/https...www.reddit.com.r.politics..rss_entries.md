@@ -1,0 +1,261 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Idaho drag performer awarded $1.1 million in defamation case against far-right blogger
+ - [https://www.reddit.com/r/politics/comments/1d0nk79/idaho_drag_performer_awarded_11_million_in](https://www.reddit.com/r/politics/comments/1d0nk79/idaho_drag_performer_awarded_11_million_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T22:44:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0nk79/idaho_drag_performer_awarded_11_million_in/"> <img alt="Idaho drag performer awarded $1.1 million in defamation case against far-right blogger" src="https://external-preview.redd.it/oUu_LE_WgVTDvZmNPY7dAMczU61TXP9Y-YvQlCeBCHI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3ca023961affc759b4c48c46f554d23690aabae" title="Idaho drag performer awarded $1.1 million in defamation case against far-right blogger" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kejmarcz"> /u/Kejmarcz </a> <br /> <span><a href="https://apnews.com/article/drag-performer-defamation-blogger-idaho-c0f3188081e17843059b27d19d5be980">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0nk79/idaho_drag_performer_awarded_11_million_in/">[comments]</a></span> </td></tr></table>
+
+## These Young Alaskans Are Suing the State to Stop a $39B Gas Pipeline | They say it would triple state’s emissions and infringe on their constitutional rights.
+ - [https://www.reddit.com/r/politics/comments/1d0lmuy/these_young_alaskans_are_suing_the_state_to_stop](https://www.reddit.com/r/politics/comments/1d0lmuy/these_young_alaskans_are_suing_the_state_to_stop)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T21:09:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0lmuy/these_young_alaskans_are_suing_the_state_to_stop/"> <img alt="These Young Alaskans Are Suing the State to Stop a $39B Gas Pipeline | They say it would triple state’s emissions and infringe on their constitutional rights." src="https://external-preview.redd.it/0JkBrmjr-8-Z0tKPcm_zbTpc0bB7SXgxgAFHU-J242Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e0a331a2906fc2a6d85b89dfde99996b5b85143" title="These Young Alaskans Are Suing the State to Stop a $39B Gas Pipeline | They say it would triple state’s emissions and infringe on their constitutional rights." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.motherjones.com/politics/2024/05/young-alaskans-lawsuit-lng-gas-pipeline-our-childrens-trust/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0lmuy/these_young_alaskans_
+
+## Clarence Thomas Just Set Civil Rights Back 70 Years
+ - [https://www.reddit.com/r/politics/comments/1d0kslo/clarence_thomas_just_set_civil_rights_back_70](https://www.reddit.com/r/politics/comments/1d0kslo/clarence_thomas_just_set_civil_rights_back_70)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T20:28:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0kslo/clarence_thomas_just_set_civil_rights_back_70/"> <img alt="Clarence Thomas Just Set Civil Rights Back 70 Years" src="https://external-preview.redd.it/Uwi86_YnDPwqV8bLmxEYHHjWGSUhaq_TqBAz0pIOTQc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e16c40b6c5a55aaaadf45a03ac2ba3a8ee298fc" title="Clarence Thomas Just Set Civil Rights Back 70 Years" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LuvKrahft"> /u/LuvKrahft </a> <br /> <span><a href="https://www.theroot.com/clarence-thomas-just-set-civil-rights-back-70-years-1851499947">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0kslo/clarence_thomas_just_set_civil_rights_back_70/">[comments]</a></span> </td></tr></table>
+
+## Arizona secretary of state calls threats to election officials ‘domestic terrorism’
+ - [https://www.reddit.com/r/politics/comments/1d0ka93/arizona_secretary_of_state_calls_threats_to](https://www.reddit.com/r/politics/comments/1d0ka93/arizona_secretary_of_state_calls_threats_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T20:03:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0ka93/arizona_secretary_of_state_calls_threats_to/"> <img alt="Arizona secretary of state calls threats to election officials ‘domestic terrorism’" src="https://external-preview.redd.it/GYd49eG3o1S56m8-Ynt0wEFoHVWYYG1Ubmr22lnH0fs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bba4d0a5b698949f7f5be8f36d160b9942fe7e22" title="Arizona secretary of state calls threats to election officials ‘domestic terrorism’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/so_hologramic"> /u/so_hologramic </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/may/24/arizona-adam-fontes-election-official-threats">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0ka93/arizona_secretary_of_state_calls_threats_to/">[comments]</a></span> </td></tr></table>
+
+## Samuel Alito’s wife claimed upside-down flag was ‘international sign of distress’
+ - [https://www.reddit.com/r/politics/comments/1d0jnq2/samuel_alitos_wife_claimed_upsidedown_flag_was](https://www.reddit.com/r/politics/comments/1d0jnq2/samuel_alitos_wife_claimed_upsidedown_flag_was)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T19:33:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0jnq2/samuel_alitos_wife_claimed_upsidedown_flag_was/"> <img alt="Samuel Alito’s wife claimed upside-down flag was ‘international sign of distress’" src="https://external-preview.redd.it/-M_I1926tabCA-qu90oMxfMWc754UHNDQW-gT-thOT4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec9bef33c820a960475bfc244d53d16c19f781e8" title="Samuel Alito’s wife claimed upside-down flag was ‘international sign of distress’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CyberProwessX"> /u/CyberProwessX </a> <br /> <span><a href="https://www.theguardian.com/law/article/2024/may/25/samuel-alito-upside-down-us-flag">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0jnq2/samuel_alitos_wife_claimed_upsidedown_flag_was/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: 2024 Libertarian Party Convention, Days 3 and 4
+ - [https://www.reddit.com/r/politics/comments/1d0j3p8/discussion_thread_2024_libertarian_party](https://www.reddit.com/r/politics/comments/1d0j3p8/discussion_thread_2024_libertarian_party)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T19:07:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>If you weren't following the convention on Thursday or Friday and want to get caught up, here are C-SPAN links to <a href="https://www.c-span.org/video/?535690-1/robert-f-kennedy-jr-speaks-libertarian-party-convention">Robert F. Kennedy, Jr.'s address to the convention</a>, the <a href="https://www.c-span.org/video/?535691-1/libertarian-party-vice-presidential-debate">Libertarian vice presidential candidate debate</a>, former GOP presidential candidate <a href="https://www.c-span.org/video/?535693-1/vivek-ramaswamy-debates-libertarian-party-vice-presidential-nominee">Vivek Ramaswamy's debate with the Libertarian Party vice presidential nominee</a>, and, for the Tier-1 nerds, <a href="https://www.c-span.org/video/?535900-1/libertarian-party-delegates-debate-convention-business-schedule">the debate among the convention delegates on the convention's business and schedule</a>. The <a href="https://lnc2024.com/schedule/">full schedule of events at the 2024
+
+## Hillary Clinton gives dire warning on abortion: ‘We could have done more to fight’
+ - [https://www.reddit.com/r/politics/comments/1d0ianc/hillary_clinton_gives_dire_warning_on_abortion_we](https://www.reddit.com/r/politics/comments/1d0ianc/hillary_clinton_gives_dire_warning_on_abortion_we)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T18:29:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0ianc/hillary_clinton_gives_dire_warning_on_abortion_we/"> <img alt="Hillary Clinton gives dire warning on abortion: ‘We could have done more to fight’" src="https://external-preview.redd.it/BQE_bZ0tNs_1zZZOIg4KHxentqJzj_6t5mKXLg8gOzU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=950b10ec403117521f7ca9f71e13ede7f9ac496a" title="Hillary Clinton gives dire warning on abortion: ‘We could have done more to fight’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scarlet-Ivy"> /u/Scarlet-Ivy </a> <br /> <span><a href="https://thehill.com/policy/healthcare/4685823-hillary-clinton-dire-warning-abortion-rights-new-york-times-interview/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0ianc/hillary_clinton_gives_dire_warning_on_abortion_we/">[comments]</a></span> </td></tr></table>
+
+## Texas’ governor is spending millions & using anti-LGBTQ+ rhetoric to defund public education. Greg Abbott has said parents should support the program so that their kids aren't educated by LGBTQ+ teachers.
+ - [https://www.reddit.com/r/politics/comments/1d0hstm/texas_governor_is_spending_millions_using](https://www.reddit.com/r/politics/comments/1d0hstm/texas_governor_is_spending_millions_using)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T18:06:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0hstm/texas_governor_is_spending_millions_using/"> <img alt="Texas’ governor is spending millions &amp; using anti-LGBTQ+ rhetoric to defund public education. Greg Abbott has said parents should support the program so that their kids aren't educated by LGBTQ+ teachers. " src="https://external-preview.redd.it/f-VdZ-vk8Cfnt57y_Is2XpdmC7Wrt_rX-64sGiGlTfg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=758fbb2bee9af6b9f51400b03fd330379e4cdd53" title="Texas’ governor is spending millions &amp; using anti-LGBTQ+ rhetoric to defund public education. Greg Abbott has said parents should support the program so that their kids aren't educated by LGBTQ+ teachers. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> <span><a href="https://www.lgbtqnation.com/2024/05/texas-governor-is-spending-millions-using-anti-lgbtq-rhetoric-to-defund-public-education/">[lin
+
+## Vivek Ramaswamy Repeatedly Gets Booed by Libertarians for Mentioning Trump
+ - [https://www.reddit.com/r/politics/comments/1d0grku/vivek_ramaswamy_repeatedly_gets_booed_by](https://www.reddit.com/r/politics/comments/1d0grku/vivek_ramaswamy_repeatedly_gets_booed_by)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T17:17:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0grku/vivek_ramaswamy_repeatedly_gets_booed_by/"> <img alt="Vivek Ramaswamy Repeatedly Gets Booed by Libertarians for Mentioning Trump" src="https://external-preview.redd.it/uXdoaSDspNHPSqgHDzA40jgkmC9QcciwJ9nKmlCr5zI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=97b58ccace99b9a35ea754a48e9bbf4720e3f5df" title="Vivek Ramaswamy Repeatedly Gets Booed by Libertarians for Mentioning Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aleph32"> /u/aleph32 </a> <br /> <span><a href="https://www.thedailybeast.com/vivek-gets-booed-by-libertarians-for-mentioning-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0grku/vivek_ramaswamy_repeatedly_gets_booed_by/">[comments]</a></span> </td></tr></table>
+
+## Biden administration finalizes rule allowing states to add dental insurance coverage to Affordable Care Act plans
+ - [https://www.reddit.com/r/politics/comments/1d0gpf9/biden_administration_finalizes_rule_allowing](https://www.reddit.com/r/politics/comments/1d0gpf9/biden_administration_finalizes_rule_allowing)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T17:14:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0gpf9/biden_administration_finalizes_rule_allowing/"> <img alt="Biden administration finalizes rule allowing states to add dental insurance coverage to Affordable Care Act plans" src="https://external-preview.redd.it/qrqGgkI7MuSl2iNgigrNwsTr0b9tx_iqV52yL1s2YPk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=302c6ea91450d7f353fbe9a271f6961f9221e3bd" title="Biden administration finalizes rule allowing states to add dental insurance coverage to Affordable Care Act plans" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aslan_is_on_the_move"> /u/aslan_is_on_the_move </a> <br /> <span><a href="https://woay.com/biden-administration-finalizes-rule-allowing-states-to-add-dental-insurance-coverage-to-affordable-care-act-plans/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0gpf9/biden_administration_finalizes_rule_allowing/">[comments]</a></span> </td></t
+
+## Jan. 6 rioter who attacked cops lashes out at Trump-appointed judge after 12-year sentence
+ - [https://www.reddit.com/r/politics/comments/1d0g9is/jan_6_rioter_who_attacked_cops_lashes_out_at](https://www.reddit.com/r/politics/comments/1d0g9is/jan_6_rioter_who_attacked_cops_lashes_out_at)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T16:54:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0g9is/jan_6_rioter_who_attacked_cops_lashes_out_at/"> <img alt="Jan. 6 rioter who attacked cops lashes out at Trump-appointed judge after 12-year sentence" src="https://external-preview.redd.it/4nT_FBLZgzBjriKHe3snGwtNVkPIMN1dyMyarxJlCk4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e795426056a265121bb84bcbbe392e8341e6d5b" title="Jan. 6 rioter who attacked cops lashes out at Trump-appointed judge after 12-year sentence" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MTDreams123"> /u/MTDreams123 </a> <br /> <span><a href="https://www.nbcnews.com/politics/justice-department/jan-6-rioter-attacked-cops-lashes-trump-appointed-judge-12-year-senten-rcna153818">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0g9is/jan_6_rioter_who_attacked_cops_lashes_out_at/">[comments]</a></span> </td></tr></table>
+
+## Jack Smith Asks Judge to Limit Trump’s Lies About the FBI | The special counsel says the ex-president is endangering law enforcement.
+ - [https://www.reddit.com/r/politics/comments/1d0g5g2/jack_smith_asks_judge_to_limit_trumps_lies_about](https://www.reddit.com/r/politics/comments/1d0g5g2/jack_smith_asks_judge_to_limit_trumps_lies_about)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T16:48:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0g5g2/jack_smith_asks_judge_to_limit_trumps_lies_about/"> <img alt="Jack Smith Asks Judge to Limit Trump’s Lies About the FBI | The special counsel says the ex-president is endangering law enforcement." src="https://external-preview.redd.it/INqNDsSUU0Tj-yosylNJ5AZEE_9dufs3VEnH55ajSZ4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd5abd3008a421d42fed8c1483203eceb32ffd65" title="Jack Smith Asks Judge to Limit Trump’s Lies About the FBI | The special counsel says the ex-president is endangering law enforcement." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.motherjones.com/politics/2024/05/jack-smith-donald-trump-lies-fbi-documents-case-mar-a-lago/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0g5g2/jack_smith_asks_judge_to_limit_trumps_lies_about/">[comments]</a></span>
+
+## Saturday Morning Political Cartoon Thread
+ - [https://www.reddit.com/r/politics/comments/1d0f66n/saturday_morning_political_cartoon_thread](https://www.reddit.com/r/politics/comments/1d0f66n/saturday_morning_political_cartoon_thread)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T16:02:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>It's Saturday, folks. Let's all kick back with a cup of coffee and share some cartoons!</p> <p>Feel free to share political cartoons in this thread. Besides our usual civility policy, there are three rules to follow:</p> <ol> <li><p>Every top-level comment must contain a political cartoon. This means no text-only top-level comments.</p></li> <li><p>It must be an original cartoon. This means no photographs, no edited cartoons, no AI generated images, no templates, no memes and no image macros. OC is allowed, as is animation.</p></li> <li><p>Each top-level comment should only have a maximum of 3 cartoons. </p></li> </ol> <p>That's all. Enjoy your weekend!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/optimalg"> /u/optimalg </a> <br /> <span><a href="https://www.reddit.com/r/politics/comments/1d0f66n/saturday_morning_political_cartoon_thread/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politic
+
+## Why Republicans Want and Need a Permanent Economic Underclass
+ - [https://www.reddit.com/r/politics/comments/1d0f24z/why_republicans_want_and_need_a_permanent](https://www.reddit.com/r/politics/comments/1d0f24z/why_republicans_want_and_need_a_permanent)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T15:56:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0f24z/why_republicans_want_and_need_a_permanent/"> <img alt="Why Republicans Want and Need a Permanent Economic Underclass " src="https://external-preview.redd.it/4MHP8kFkr6lalapr2uYdi5-qzpeKXVh3zlMl0GFwT28.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ebd183202a390155d0624d25e00924a3fc19405" title="Why Republicans Want and Need a Permanent Economic Underclass " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Somervilledrew"> /u/Somervilledrew </a> <br /> <span><a href="https://newrepublic.com/article/181939/republicans-want-permanent-economic-underclass">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0f24z/why_republicans_want_and_need_a_permanent/">[comments]</a></span> </td></tr></table>
+
+## Texas GOP Official Begs Party to Stop Focusing on Abortion - “What are we going to do, stone women next?”
+ - [https://www.reddit.com/r/politics/comments/1d0f1l8/texas_gop_official_begs_party_to_stop_focusing_on](https://www.reddit.com/r/politics/comments/1d0f1l8/texas_gop_official_begs_party_to_stop_focusing_on)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T15:56:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0f1l8/texas_gop_official_begs_party_to_stop_focusing_on/"> <img alt="Texas GOP Official Begs Party to Stop Focusing on Abortion - “What are we going to do, stone women next?”" src="https://external-preview.redd.it/NjDGS2ua56ipoAnlmH1zaZTLZlAqlQyfdA9eufUvUZ0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec7b5f68ea51070b91e7250a8489bec6650d0207" title="Texas GOP Official Begs Party to Stop Focusing on Abortion - “What are we going to do, stone women next?”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://newrepublic.com/post/181954/texas-gop-abortion-election">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0f1l8/texas_gop_official_begs_party_to_stop_focusing_on/">[comments]</a></span> </td></tr></table>
+
+## How the Hell Can People Be Nostalgic for Donald Trump? Yet—They Are
+ - [https://www.reddit.com/r/politics/comments/1d0f0vj/how_the_hell_can_people_be_nostalgic_for_donald](https://www.reddit.com/r/politics/comments/1d0f0vj/how_the_hell_can_people_be_nostalgic_for_donald)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T15:55:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0f0vj/how_the_hell_can_people_be_nostalgic_for_donald/"> <img alt="How the Hell Can People Be Nostalgic for Donald Trump? Yet—They Are" src="https://external-preview.redd.it/IXwfuGr3Vie8H_ZMC4hrE9_dW1NrLVwldYk2iJvsSqU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d3fc929434a5b49f8a25bf506b370ed6006ab79" title="How the Hell Can People Be Nostalgic for Donald Trump? Yet—They Are" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Somervilledrew"> /u/Somervilledrew </a> <br /> <span><a href="https://newrepublic.com/post/181929/donald-trump-polls-nostalgia-negativity-bias">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0f0vj/how_the_hell_can_people_be_nostalgic_for_donald/">[comments]</a></span> </td></tr></table>
+
+## Arizona secretary of state calls threats to election officials ‘domestic terrorism’ | US elections 2024
+ - [https://www.reddit.com/r/politics/comments/1d0djj5/arizona_secretary_of_state_calls_threats_to](https://www.reddit.com/r/politics/comments/1d0djj5/arizona_secretary_of_state_calls_threats_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T14:43:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0djj5/arizona_secretary_of_state_calls_threats_to/"> <img alt="Arizona secretary of state calls threats to election officials ‘domestic terrorism’ | US elections 2024" src="https://external-preview.redd.it/GYd49eG3o1S56m8-Ynt0wEFoHVWYYG1Ubmr22lnH0fs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bba4d0a5b698949f7f5be8f36d160b9942fe7e22" title="Arizona secretary of state calls threats to election officials ‘domestic terrorism’ | US elections 2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/so_hologramic"> /u/so_hologramic </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/may/24/arizona-adam-fontes-election-official-threats">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0djj5/arizona_secretary_of_state_calls_threats_to/">[comments]</a></span> </td></tr></table>
+
+## GOP Officials Are Outsourcing Their Lawsuits to a Far-Right Christian Group. Conservative public officials are hiring the Alliance Defending Freedom to lead their culture war lawsuits — and handle their public statements
+ - [https://www.reddit.com/r/politics/comments/1d0dc8j/gop_officials_are_outsourcing_their_lawsuits_to_a](https://www.reddit.com/r/politics/comments/1d0dc8j/gop_officials_are_outsourcing_their_lawsuits_to_a)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T14:33:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0dc8j/gop_officials_are_outsourcing_their_lawsuits_to_a/"> <img alt="GOP Officials Are Outsourcing Their Lawsuits to a Far-Right Christian Group. Conservative public officials are hiring the Alliance Defending Freedom to lead their culture war lawsuits — and handle their public statements" src="https://external-preview.redd.it/iWuTdtdv8JL3MCCGOumXgfRhF9Ia0BFo-uyxE3UkHKY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99e1ff6241362aeb7057bf82fd97ba60eb3e0b61" title="GOP Officials Are Outsourcing Their Lawsuits to a Far-Right Christian Group. Conservative public officials are hiring the Alliance Defending Freedom to lead their culture war lawsuits — and handle their public statements" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-features/adf-republicans-yavapai-arizona-idaho-iowa-kansas-1
+
+## Sanders, Omar Proposal Would 'End Absurd Corporate Welfare' for Fossil Fuel Giants
+ - [https://www.reddit.com/r/politics/comments/1d0ct5i/sanders_omar_proposal_would_end_absurd_corporate](https://www.reddit.com/r/politics/comments/1d0ct5i/sanders_omar_proposal_would_end_absurd_corporate)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T14:06:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0ct5i/sanders_omar_proposal_would_end_absurd_corporate/"> <img alt="Sanders, Omar Proposal Would 'End Absurd Corporate Welfare' for Fossil Fuel Giants" src="https://external-preview.redd.it/AiEEmRTxhz0ZukmIaLXbVRVsNbac9J31mGy23DOUiI0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4688d62dfb66dcb2f9cd18ddf5e26a4f6e36b722" title="Sanders, Omar Proposal Would 'End Absurd Corporate Welfare' for Fossil Fuel Giants" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_May26_"> /u/_May26_ </a> <br /> <span><a href="https://www.commondreams.org/news/fossil-fuel-subsidies-2668366970">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0ct5i/sanders_omar_proposal_would_end_absurd_corporate/">[comments]</a></span> </td></tr></table>
+
+## Fear among some swing-state voters that Trump would refuse to leave office could help Biden, report says
+ - [https://www.reddit.com/r/politics/comments/1d0cq4u/fear_among_some_swingstate_voters_that_trump](https://www.reddit.com/r/politics/comments/1d0cq4u/fear_among_some_swingstate_voters_that_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T14:02:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0cq4u/fear_among_some_swingstate_voters_that_trump/"> <img alt="Fear among some swing-state voters that Trump would refuse to leave office could help Biden, report says" src="https://external-preview.redd.it/AdI3X80LsS-DmRLb6PPLaKm7FSoCTB0FrgXTzh05CsM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=68367abe7a9753610c39660c4034737e7490d658" title="Fear among some swing-state voters that Trump would refuse to leave office could help Biden, report says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CyberProwessX"> /u/CyberProwessX </a> <br /> <span><a href="https://www.businessinsider.com/voters-fear-trump-refuse-leave-office-when-term-ends-report-2024-5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0cq4u/fear_among_some_swingstate_voters_that_trump/">[comments]</a></span> </td></tr></table>
+
+## Amendment killing nationally legal cannabis makes it into House farm bill
+ - [https://www.reddit.com/r/politics/comments/1d0bzyw/amendment_killing_nationally_legal_cannabis_makes](https://www.reddit.com/r/politics/comments/1d0bzyw/amendment_killing_nationally_legal_cannabis_makes)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T13:25:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0bzyw/amendment_killing_nationally_legal_cannabis_makes/"> <img alt="Amendment killing nationally legal cannabis makes it into House farm bill" src="https://external-preview.redd.it/RvKdg2IctGEHgVdQxxrpqD88dbB8gYrs30emCuk1UMY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d53dc4b295a24c572596872b9908b6c65ba79871" title="Amendment killing nationally legal cannabis makes it into House farm bill" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OregonTripleBeam"> /u/OregonTripleBeam </a> <br /> <span><a href="https://thehill.com/policy/healthcare/4685100-house-farm-bill-amendment-cannabis-hemp-ban/#amp_tf=From%20%251%24s&amp;aoh=17166434909401&amp;referrer=https%3A%2F%2Fwww.google.com&amp;ampshare=https%3A%2F%2Fthehill.com%2Fpolicy%2Fhealthcare%2F4685100-house-farm-bill-amendment-cannabis-hemp-ban%2F">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0
+
+## Sanders sounds alarm on US ‘crisis in dental care’
+ - [https://www.reddit.com/r/politics/comments/1d0bwn5/sanders_sounds_alarm_on_us_crisis_in_dental_care](https://www.reddit.com/r/politics/comments/1d0bwn5/sanders_sounds_alarm_on_us_crisis_in_dental_care)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T13:20:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0bwn5/sanders_sounds_alarm_on_us_crisis_in_dental_care/"> <img alt="Sanders sounds alarm on US ‘crisis in dental care’" src="https://external-preview.redd.it/FMZUl90N7X9mn8aDUD_cu60GgBoragCa-ANbebWIZ3A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fefd8a8f4d6e75bc3fffc504a3f2e1448c24c489" title="Sanders sounds alarm on US ‘crisis in dental care’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_May26_"> /u/_May26_ </a> <br /> <span><a href="https://thehill.com/policy/healthcare/4684492-sanders-us-dental-care-crisis-medicare-medicaid-va/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0bwn5/sanders_sounds_alarm_on_us_crisis_in_dental_care/">[comments]</a></span> </td></tr></table>
+
+## California bill targeting 'housing-shortage profiteers' by limiting ownership passes Assembly
+ - [https://www.reddit.com/r/politics/comments/1d0bo8g/california_bill_targeting_housingshortage](https://www.reddit.com/r/politics/comments/1d0bo8g/california_bill_targeting_housingshortage)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T13:08:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0bo8g/california_bill_targeting_housingshortage/"> <img alt="California bill targeting 'housing-shortage profiteers' by limiting ownership passes Assembly" src="https://external-preview.redd.it/kdwSX-JAbx8OYb56U6dTtc6mhkb6HlzN-KCCkcKOwUs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1984255ea02cddd505811e1ff8bbcfaabe6f807" title="California bill targeting 'housing-shortage profiteers' by limiting ownership passes Assembly" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ace-Cuddler"> /u/Ace-Cuddler </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/2024/05/24/california-bill-ab-2584-house-ownership-limits/73820023007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0bo8g/california_bill_targeting_housingshortage/">[comments]</a></span> </td></tr></table>
+
+## Trump, without evidence, claims migrants in U.S. illegally 'building army' to attack Americans
+ - [https://www.reddit.com/r/politics/comments/1d0a5qz/trump_without_evidence_claims_migrants_in_us](https://www.reddit.com/r/politics/comments/1d0a5qz/trump_without_evidence_claims_migrants_in_us)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T11:41:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0a5qz/trump_without_evidence_claims_migrants_in_us/"> <img alt="Trump, without evidence, claims migrants in U.S. illegally 'building army' to attack Americans" src="https://external-preview.redd.it/MXF2N5gFhxolCIMOcMAKv7PHODsDrykucwdbyi9Om0g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a31d708f625afd238e11ec97b134bb930fe9b8d2" title="Trump, without evidence, claims migrants in U.S. illegally 'building army' to attack Americans" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dontwhinedosomething"> /u/Dontwhinedosomething </a> <br /> <span><a href="https://www.reuters.com/world/us/trump-hold-south-bronx-new-york-campaign-rally-push-black-voters-2024-05-23/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0a5qz/trump_without_evidence_claims_migrants_in_us/">[comments]</a></span> </td></tr></table>
+
+## Ohio governor calls special session to ensure Biden gets on ballot
+ - [https://www.reddit.com/r/politics/comments/1d09sni/ohio_governor_calls_special_session_to_ensure](https://www.reddit.com/r/politics/comments/1d09sni/ohio_governor_calls_special_session_to_ensure)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T11:18:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d09sni/ohio_governor_calls_special_session_to_ensure/"> <img alt="Ohio governor calls special session to ensure Biden gets on ballot" src="https://external-preview.redd.it/D0eVvZ1DY25ttPBbp0O2EKPrPOcKzIqqAgRAokCvK9c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0300da800e52c93b3be5df6ddb0dd7010f8c8385" title="Ohio governor calls special session to ensure Biden gets on ballot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prior-Comparison6747"> /u/Prior-Comparison6747 </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/05/23/ohio-biden-ballot/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d09sni/ohio_governor_calls_special_session_to_ensure/">[comments]</a></span> </td></tr></table>
+
+## Expert says SCOTUS ruling subjects Black voters to "abuse." Clarence Thomas wants to go even further
+ - [https://www.reddit.com/r/politics/comments/1d0921e/expert_says_scotus_ruling_subjects_black_voters](https://www.reddit.com/r/politics/comments/1d0921e/expert_says_scotus_ruling_subjects_black_voters)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T10:28:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0921e/expert_says_scotus_ruling_subjects_black_voters/"> <img alt="Expert says SCOTUS ruling subjects Black voters to &quot;abuse.&quot; Clarence Thomas wants to go even further" src="https://external-preview.redd.it/7KQvrdjV3m2zL4xYBzm6r8u45gkDQ498RHAgficT3K8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ec1ca50ce320856b6690710de823ab8d1206ba5" title="Expert says SCOTUS ruling subjects Black voters to &quot;abuse.&quot; Clarence Thomas wants to go even further" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.salon.com/2024/05/25/expert-says-scotus-ruling-subjects-black-to-abuse-clarence-thomas-wants-to-go-even-further/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0921e/expert_says_scotus_ruling_subjects_black_voters/">[comments]</a></span> </td></tr></table>
+
+## Libertarian convention crowd appears hostile to Trump ahead of Saturday speech
+ - [https://www.reddit.com/r/politics/comments/1d08zxl/libertarian_convention_crowd_appears_hostile_to](https://www.reddit.com/r/politics/comments/1d08zxl/libertarian_convention_crowd_appears_hostile_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T10:23:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d08zxl/libertarian_convention_crowd_appears_hostile_to/"> <img alt="Libertarian convention crowd appears hostile to Trump ahead of Saturday speech" src="https://external-preview.redd.it/xsHrFUECXM4I6lfD3bheJdoFIwotcyIJQM7G5XSVtsA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca8345d7ead89ab64aab3468f0a86ba3d36cbacf" title="Libertarian convention crowd appears hostile to Trump ahead of Saturday speech" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/5G_Robot"> /u/5G_Robot </a> <br /> <span><a href="https://nbcnews.com/politics/2024-election/libertarian-convention-crowd-appears-hostile-trump-ahead-speech-rcna154029">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d08zxl/libertarian_convention_crowd_appears_hostile_to/">[comments]</a></span> </td></tr></table>
+
+## Texans react to mailer for Trump, call it voter intimidation
+ - [https://www.reddit.com/r/politics/comments/1d08yxm/texans_react_to_mailer_for_trump_call_it_voter](https://www.reddit.com/r/politics/comments/1d08yxm/texans_react_to_mailer_for_trump_call_it_voter)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T10:21:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d08yxm/texans_react_to_mailer_for_trump_call_it_voter/"> <img alt="Texans react to mailer for Trump, call it voter intimidation" src="https://external-preview.redd.it/TiZCISiq9YQsv4hi-Mxreg8AkTmM8Ld-cmVKSbzqWOk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c84f4e0d5aa854b6fb1f6bad7241b54db1216437" title="Texans react to mailer for Trump, call it voter intimidation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheSquareRocks"> /u/TheSquareRocks </a> <br /> <span><a href="https://www.mysanantonio.com/news/local/article/texas-voter-intimidation-19476949.php">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d08yxm/texans_react_to_mailer_for_trump_call_it_voter/">[comments]</a></span> </td></tr></table>
+
+## Trump-RFK Jr. feud comes to a head at Libertarian convention
+ - [https://www.reddit.com/r/politics/comments/1d08h3a/trumprfk_jr_feud_comes_to_a_head_at_libertarian](https://www.reddit.com/r/politics/comments/1d08h3a/trumprfk_jr_feud_comes_to_a_head_at_libertarian)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T09:46:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d08h3a/trumprfk_jr_feud_comes_to_a_head_at_libertarian/"> <img alt="Trump-RFK Jr. feud comes to a head at Libertarian convention" src="https://external-preview.redd.it/LIy0xiZGenfKi4bN7HjmuUzUNQWPG8byKJdgWIIez6Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=318749d11bb1cf17521862f6d759a2f78164e348" title="Trump-RFK Jr. feud comes to a head at Libertarian convention" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/teamworldunity"> /u/teamworldunity </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4683041-donald-trump-rfk-jr-robert-f-kennedy-jr-libertarian-national-convention-joe-biden/mlite/?nxs-test=mlite">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d08h3a/trumprfk_jr_feud_comes_to_a_head_at_libertarian/">[comments]</a></span> </td></tr></table>
+
+## Trump appeared on stage at his Bronx rally with two rappers charged in a felony gang case
+ - [https://www.reddit.com/r/politics/comments/1d0333c/trump_appeared_on_stage_at_his_bronx_rally_with](https://www.reddit.com/r/politics/comments/1d0333c/trump_appeared_on_stage_at_his_bronx_rally_with)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T03:38:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0333c/trump_appeared_on_stage_at_his_bronx_rally_with/"> <img alt="Trump appeared on stage at his Bronx rally with two rappers charged in a felony gang case" src="https://external-preview.redd.it/u6VSlyfuYPYQlSuio-9XK3lkkPoB6bgKr432qpF-C-o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ef9954ddc709f48710b7a7fb209874ffc925ddc" title="Trump appeared on stage at his Bronx rally with two rappers charged in a felony gang case" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bellaimages"> /u/bellaimages </a> <br /> <span><a href="https://apnews.com/article/donald-trump-sheff-g-sleepy-hallow-south-bronx-4a8788eb6b07b9d561ce553b81d0347a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0333c/trump_appeared_on_stage_at_his_bronx_rally_with/">[comments]</a></span> </td></tr></table>
+
+## Take it from conservative national security experts: Trump is unfit
+ - [https://www.reddit.com/r/politics/comments/1d01iss/take_it_from_conservative_national_security](https://www.reddit.com/r/politics/comments/1d01iss/take_it_from_conservative_national_security)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T02:08:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d01iss/take_it_from_conservative_national_security/"> <img alt="Take it from conservative national security experts: Trump is unfit" src="https://external-preview.redd.it/dIlkgAD9P7X92LEGa-BfWWRV8PSF6tg-c6J1ryKO94k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78019a71528336c44e4ebb8f80e390beea7981f4" title="Take it from conservative national security experts: Trump is unfit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.washingtonpost.com/opinions/2024/05/23/gates-bolton-foreign-policy-trump-warning/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE2NDM2ODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE3ODE5MTk5LCJpYXQiOjE3MTY0MzY4MDAsImp0aSI6IjhlZjgxMDhiLWMxYzMtNDU2Mi1iODJiLWRjYWQzZGZjYjY1ZiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDI0LzA1LzIzL2dhdGVzLWJvbHRvbi1m
+
+## Special counsel asks judge for gag order in Trump classified documents case
+ - [https://www.reddit.com/r/politics/comments/1d018of/special_counsel_asks_judge_for_gag_order_in_trump](https://www.reddit.com/r/politics/comments/1d018of/special_counsel_asks_judge_for_gag_order_in_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T01:53:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d018of/special_counsel_asks_judge_for_gag_order_in_trump/"> <img alt="Special counsel asks judge for gag order in Trump classified documents case" src="https://external-preview.redd.it/fxyjgHnFKThOnanmAXQi66s3zZMDAWeoBnTxnENA5lQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4319c7306a5fe89b0ce780b33b562915280bac9" title="Special counsel asks judge for gag order in Trump classified documents case" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FloridaGirlNikki"> /u/FloridaGirlNikki </a> <br /> <span><a href="https://www.cnn.com/2024/05/24/politics/trump-gag-order-trump-classified-documents/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d018of/special_counsel_asks_judge_for_gag_order_in_trump/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Pattern of Sowing Election Doubt Intensifies in 2024
+ - [https://www.reddit.com/r/politics/comments/1d0182i/trumps_pattern_of_sowing_election_doubt](https://www.reddit.com/r/politics/comments/1d0182i/trumps_pattern_of_sowing_election_doubt)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T01:52:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d0182i/trumps_pattern_of_sowing_election_doubt/"> <img alt="Trump’s Pattern of Sowing Election Doubt Intensifies in 2024" src="https://external-preview.redd.it/hhbTZkmwd1KcixtbFOkxf1tjSxifPbml9_4L55ZMKcA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0436197cfde0cd3e618204e7a09a59ef626e369" title="Trump’s Pattern of Sowing Election Doubt Intensifies in 2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.nytimes.com/interactive/2024/05/24/us/politics/trump-election-results-doubt.html?unlocked_article_code=1.uU0.RgF1.8cs4RtFWPeVv">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d0182i/trumps_pattern_of_sowing_election_doubt/">[comments]</a></span> </td></tr></table>
+
+## Libertarian convention devolves into fighting, obscenities on eve of Trump’s visit
+ - [https://www.reddit.com/r/politics/comments/1d00o5x/libertarian_convention_devolves_into_fighting](https://www.reddit.com/r/politics/comments/1d00o5x/libertarian_convention_devolves_into_fighting)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T01:21:25+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/redditor01020"> /u/redditor01020 </a> <br /> <span><a href="https://www.politico.com/news/2024/05/24/libertarian-convention-fighting-obscenities-trump-visit-00160008">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d00o5x/libertarian_convention_devolves_into_fighting/">[comments]</a></span>
+
+## Trump Turned Boilerplate FBI Language Into a Tall Tale of an Assassination Plot Against Him | Biden did not try to...Jesus, I can’t believe I’m writing this...he did not send the FBI to kill Trump during the Mar-a-Lago search.
+ - [https://www.reddit.com/r/politics/comments/1d000sk/trump_turned_boilerplate_fbi_language_into_a_tall](https://www.reddit.com/r/politics/comments/1d000sk/trump_turned_boilerplate_fbi_language_into_a_tall)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T00:46:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d000sk/trump_turned_boilerplate_fbi_language_into_a_tall/"> <img alt="Trump Turned Boilerplate FBI Language Into a Tall Tale of an Assassination Plot Against Him | Biden did not try to...Jesus, I can’t believe I’m writing this...he did not send the FBI to kill Trump during the Mar-a-Lago search." src="https://external-preview.redd.it/dNY-_k_jJipTuMADUGUK_97X_J6csFX_A9TW0YQubdI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40b7b2d6eb40a698b123641121ef3f26f488b8e3" title="Trump Turned Boilerplate FBI Language Into a Tall Tale of an Assassination Plot Against Him | Biden did not try to...Jesus, I can’t believe I’m writing this...he did not send the FBI to kill Trump during the Mar-a-Lago search." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/1900grs"> /u/1900grs </a> <br /> <span><a href="https://www.esquire.com/news-politics/politics/a60885880/republicans-claim-trump-assassination-
+
+## Prosecutors seek to bar Trump in classified files case from statements endangering law enforcement
+ - [https://www.reddit.com/r/politics/comments/1czzzp8/prosecutors_seek_to_bar_trump_in_classified_files](https://www.reddit.com/r/politics/comments/1czzzp8/prosecutors_seek_to_bar_trump_in_classified_files)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T00:45:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1czzzp8/prosecutors_seek_to_bar_trump_in_classified_files/"> <img alt="Prosecutors seek to bar Trump in classified files case from statements endangering law enforcement" src="https://external-preview.redd.it/PKFmcBD3P7KWkBuEesWkm7Bs6HqwwBJjZ_rJQPlJ-HQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e0752ec5e2b0dbf7ef2c01fb19fee5261375777f" title="Prosecutors seek to bar Trump in classified files case from statements endangering law enforcement" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/coasterghost"> /u/coasterghost </a> <br /> <span><a href="https://apnews.com/article/d52b7468d93712dd86cbb8fe304d4b64">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1czzzp8/prosecutors_seek_to_bar_trump_in_classified_files/">[comments]</a></span> </td></tr></table>
+
+## Trump keeps trying to kill Obamacare. The problem? Voters love health care.
+ - [https://www.reddit.com/r/politics/comments/1czzw56/trump_keeps_trying_to_kill_obamacare_the_problem](https://www.reddit.com/r/politics/comments/1czzw56/trump_keeps_trying_to_kill_obamacare_the_problem)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-25T00:40:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1czzw56/trump_keeps_trying_to_kill_obamacare_the_problem/"> <img alt="Trump keeps trying to kill Obamacare. The problem? Voters love health care." src="https://external-preview.redd.it/DBlao3pXuHjKUFr9a00DZUVdcBIXN7H9i0TfizZbpgk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=729ff9ed0ce3a777ad40a7d581950e6674802d69" title="Trump keeps trying to kill Obamacare. The problem? Voters love health care." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wenchette"> /u/wenchette </a> <br /> <span><a href="https://www.usatoday.com/story/opinion/columnist/2024/05/24/trump-obamacare-healthcare-popular-voters-election/73787938007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1czzw56/trump_keeps_trying_to_kill_obamacare_the_problem/">[comments]</a></span> </td></tr></table>
+

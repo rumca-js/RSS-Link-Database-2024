@@ -1,0 +1,172 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Elon Musk Says AI Could Eliminate Our Need to Work at Jobs
+ - [https://slashdot.org/story/24/05/25/0226257/elon-musk-says-ai-could-eliminate-our-need-to-work-at-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/05/25/0226257/elon-musk-says-ai-could-eliminate-our-need-to-work-at-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T22:43:10.017684+00:00
+
+In the future, "Probably none of us will have a job," Elon Musk said Thursday, speaking remotely to the VivaTech 2024 conference in Paris. Instead, jobs will be optional &mdash; something we'd do like a hobby &mdash; "But otherwise, AI and the robots will provide any goods and services that you want." 
+CNN reports that Musk added this would require "universal high income" &mdash; and "There would be no shortage of goods or services."
+ In a job-free future, though, Musk questioned whether people would feel emotionally fulfilled. "The question will really be one of meaning &mdash; if the computer and robots can do everything better than you, does your life have meaning?" he said. "I do think there's perhaps still a role for humans in this &mdash; in that we may give AI meaning." 
+
+CNN accompanied their article with this counterargument:
+In January, researchers at MIT's Computer Science and Artificial Intelligence Lab found workplaces are adopting AI	 much more slowly than some had expec
+
+## American Radio Relay League Confirms Cyberattack Disrupted Operations
+ - [https://tech.slashdot.org/story/24/05/25/1956236/american-radio-relay-league-confirms-cyberattack-disrupted-operations?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/25/1956236/american-radio-relay-league-confirms-cyberattack-disrupted-operations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T21:39:37.279976+00:00
+
+Roughly 160,000 U.S.-based amateur radio enthusiasts belong to the American Radio Relay League, a nonprofit with 100 full-time and part-time staff members. 
+
+Nine days ago it announced "that it suffered a cyberattack that disrupted its network and systems," reports BleepingComputer, "including various online services hosted by the organization."
+
+
+"We are in the process of responding to a serious incident involving access to our network and headquarters-based systems. Several services, such as Logbook of The World and the ARRL Learning Center, are affected," explained ARRL in a press release... [T]he ARRL took steps to allay members' concerns about the security of their data, confirming that they do not store credit card information or collect social security numbers. 
+
+However, the organization confirmed that its member database contains some private information, including names, addresses, and call signs. While they do not specifically state email addresses are stored in the databas
+
+## How Internet Pioneers Celebrated 50 Years of the Internet
+ - [https://tech.slashdot.org/story/24/05/25/190253/how-internet-pioneers-celebrated-50-years-of-the-internet?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/25/190253/how-internet-pioneers-celebrated-50-years-of-the-internet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T21:39:35.688168+00:00
+
+Founded in 1963, the Institute of Electrical and Electronics Engineers held a special event Sunday that they said would be "inspiring engineering for the next 50 years." 
+
+The event featured talks on the origins of the internet from 80-year-old "father of the internet" Vint Cerf, along with John Shoch (who helped develop the Ethernet and internetwork protocols at Xerox PARC), Judith Estrin (who worked with Cerf on the TCP project), and Robert Kahn (who with Cerf first proposed the IP and TCP protocols). Ethernet co-inventor Bob Metcalfe also spoke at the end of the event. 
+
+Long-time Slashdot reader repett0 was an onsite volunteer, and shares that "it was incredible to meet and greet such a wonderful mix of people making technology happen... [T]he event celebrated many key technologies and innovators from the past 50 years and considerations of what is to come in the next 50 years."
+
+ Video streams are available and more are coming online (including interviews with key innovators, soc
+
+## Thursday's Bing API Outage Took Down DuckDuckGo, Copilot, and ChatGPT Search
+ - [https://slashdot.org/story/24/05/25/0758209/thursdays-bing-api-outage-took-down-duckduckgo-copilot-and-chatgpt-search?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/05/25/0758209/thursdays-bing-api-outage-took-down-duckduckgo-copilot-and-chatgpt-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T20:34:31.213451+00:00
+
+Thursday long-time Slashdot reader mschaffer reported that "Microsoft's search engine isn't working correctly, and many alternative search engines that rely on it are down, too." 
+
+Bing started "having issues" around 1:30 a.m. EST, reports SearchEngineLand (citing Downdector.com, and sharing screenshots of Bing.com searches failing &mdash; even on partner sites like DuckDuckGo). 
+
+By Thursday morning search capabilities for ChatGPT, Copilot, DuckDuckGo, and other platforms had stopped working, reports the Verge, saying the issues "appeared to be linked to Bing's API and any service that relies upon it."
+
+ While Microsoft's own web search engine, Bing, was also seemingly affected, according to TechCrunch, it came back online eventually. By 11AM ET, OpenAI posted a note indicating the issue had been resolved, saying, "Between around 10:10 PM PT yesterday and 6:50 AM PT today, we experienced a partial outage affecting ChatGPT's web-browsing capabilities due to Bing being unavailable." Du
+
+## Britain Covered Up Tainted Blood Scandal That Killed Thousands, Report Finds
+ - [https://news.slashdot.org/story/24/05/25/1818224/britain-covered-up-tainted-blood-scandal-that-killed-thousands-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/05/25/1818224/britain-covered-up-tainted-blood-scandal-that-killed-thousands-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T19:30:08.461210+00:00
+
+UPI reports that the British government covered up "a multi-decade tainted blood scandal, leading to thousands of related deaths, a report published Monday found."
+
+
+Britain's National Health Service allowed blood tainted with HIV and Hepatitis to be used on patients without their knowledge, leading to 3,000 deaths and more than 30,000 infections, according to the 2,527-page final report by Justice Brian Justice Langstaff, a former judge on the High Court of England and Wales. Langstaff oversaw a five-year investigation into the use of tainted blood and blood products in Britain's healthcare system between 1970 and 1991. The report blames multiple administrations over the time period for knowingly exposing victims to unacceptable risks... 
+In several cases, health officials lied about the risks to patients... The NHS also gave patients false reassurances, an attempt to "save face," failing victims "not once but repeatedly...." The situation could "largely, though not entirely, have be
+
+## Robotaxis Face 'Heightened Scrutiny' While the Industry Plans Expansion
+ - [https://tech.slashdot.org/story/24/05/25/0359251/robotaxis-face-heightened-scrutiny-while-the-industry-plans-expansion?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/25/0359251/robotaxis-face-heightened-scrutiny-while-the-industry-plans-expansion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T18:25:11.000558+00:00
+
+Besides investigations into Cruise and Waymo, America's National Highway Traffic Safety Administration (NHTSA) also announced it's examining two rear-end collisions between motorbikes and Amazon's steering wheel-free Zoox vehicles being tested in San Francisco, Seattle, and Las Vegas. 
+
+This means all three major self-driving vehicle companies "are facing federal investigations over potential flaws linked to dozens of crashes," notes the Washington Post, calling it "a sign of heightened scrutiny as the fledging industry lays plans to expand nationwide."
+The industry is poised for growth: About 40 companies have permits to test autonomous vehicles in California alone. The companies have drawn billions of dollars in investment, and supporters say they could revolutionize how Americans travel... Dozens of companies are testing self-driving vehicles in at least 10 states, with some offering services to paying passengers, according to the Autonomous Vehicle Industry Association. The deploy
+
+## Satya Nadella Says Microsoft's AI-Focused Copilot+ Laptops Will Outperform Apple's MacBooks
+ - [https://tech.slashdot.org/story/24/05/25/071210/satya-nadella-says-microsofts-ai-focused-copilot-laptops-will-outperform-apples-macbooks?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/25/071210/satya-nadella-says-microsofts-ai-focused-copilot-laptops-will-outperform-apples-macbooks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T17:22:16.802167+00:00
+
+"Apple's done a fantastic job of really innovating on the Mac," Microsoft CEO Satya Nadella told the Wall Street Journal in a video interview this week. .
+
+Then he said "We are gonna outperform them" with the upcoming Copilot+ laptops from Acer, ASUS, Dell, HP, Lenovo and Samsung that have been completely reengineered for AI &mdash; and begin shipping in less than four weeks.
+
+ Satya Nadella: Qualcomm's got a new [ARM Snapdragon X] processor, which we've optimized Windows for. The battery lab, I've been using it now &mdash; I mean, it's 22 hours of continuous video playback... [Apple also uses ARM chips in its MacBooks]. We finally feel we have a very competitive product between Surface Pro and the Surface laptops. We have essentially the best specs when it comes to ARM-based silicon and performance or the NPU performance. 
+
+WSJ: Microsoft says the Surfaces are 58% faster than the MacBook Air with M3, and has 20% longer battery life. 
+
+The video includes a demonstration of local live 
+
+## OpenAI Didn't Copy Scarlett Johansson's Voice for ChatGPT, Records Show
+ - [https://slashdot.org/story/24/05/25/0529216/openai-didnt-copy-scarlett-johanssons-voice-for-chatgpt-records-show?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/05/25/0529216/openai-didnt-copy-scarlett-johanssons-voice-for-chatgpt-records-show?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T16:16:31.291470+00:00
+
+The Atlantic argued this week that OpenAI "just gave away the entire game... The Johansson scandal is merely a reminder of AI's manifest-destiny philosophy: This is happening, whether you like it or not." 
+
+
+But the Washington Post reports that OpenAI "didn't copy Scarlett Johansson's voice for ChatGPT, records show."
+
+[W]hile many hear an eerie resemblance between [ChatGPT voice] "Sky" and Johansson's "Her" character, an actress was hired in June to create the Sky voice, months before Altman contacted Johansson, according to documents, recordings, casting directors and the actress's agent. The agent, who spoke on the condition of anonymity, citing the safety of her client, said the actress confirmed that neither Johansson nor the movie "Her" were ever mentioned by OpenAI. The actress's natural voice sounds identical to the AI-generated Sky voice, based on brief recordings of her initial voice test reviewed by The Post... 
+
+[Joanne Jang, who leads AI model behavior for OpenAI], said s
+
+## Meta, Activision Sued By Parents of Children Killed in Last Year's School Shooting
+ - [https://tech.slashdot.org/story/24/05/25/0323239/meta-activision-sued-by-parents-of-children-killed-in-last-years-school-shooting?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/25/0323239/meta-activision-sued-by-parents-of-children-killed-in-last-years-school-shooting?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T15:10:59.729414+00:00
+
+Exactly one year after the fatal shooting of 19 elementary school students in Texas, their parents filed a lawsuit against the publisher of the videogame Call of Duty, against Meta, and against the manufacturer of the AR-15-style weapon used in the attack, Daniel Defense. 
+
+The Washington Post says the lawsuits "may be the first of their kind to connect aggressive firearms marketing tactics on social media and gaming platforms to the actions of a mass shooter."
+
+The complaints contend the three companies are responsible for "grooming" a generation of "socially vulnerable" young men radicalized to live out violent video game fantasies in the real world with easily accessible weapons of war... 
+
+Several state legislatures, including California and Hawaii, passed consumer safety laws specific to the sale and marketing of firearms that would open the industry to more civil liability. Texas is not one of them. But it's just one vein in the three-pronged legal push by Uvalde families. The l
+
+## New Warp Drive Concept Does Twist Space, Doesn't Move Us Very Fast
+ - [https://science.slashdot.org/story/24/05/24/2325202/new-warp-drive-concept-does-twist-space-doesnt-move-us-very-fast?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/05/24/2325202/new-warp-drive-concept-does-twist-space-doesnt-move-us-very-fast?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T14:05:57.403597+00:00
+
+An anonymous reader quotes a report from Ars Technica: A team of physicists has discovered that it's possible to build a real, actual, physical warp drive and not break any known rules of physics. One caveat: the vessel doing the warping can't exceed the speed of light, so you're not going to get anywhere interesting any time soon. But this research still represents an important advance in our understanding of gravity. [...] In a paper accepted for publication in the journal Classical and Quantum Gravity, [an international team of physicists led by Jared Fuchs at the University of Alabama in Huntsville] dug deep into relativity to explore if any version of a warp drive could work. The equations of general relativity are notoriously difficult to solve, especially in complex cases such as a warp drive. So the team turned to software algorithms; instead of trying to solve the equations by hand, they explored their solutions numerically and verified that they conformed to the energy condi
+
+## China's Blistering Solar Growth Runs Into Grid Blocks
+ - [https://hardware.slashdot.org/story/24/05/24/2315230/chinas-blistering-solar-growth-runs-into-grid-blocks?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/05/24/2315230/chinas-blistering-solar-growth-runs-into-grid-blocks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T10:35:20.611576+00:00
+
+China's rapid solar power expansion is slowing due to grid bottlenecks, market reforms, and diminishing rooftop space, with new solar builds dropping 32% in March year-on-year. Reuters reports: The country's solar power expansion is slowing due to tighter curbs on supplying excess power from rooftop solar into the grid and changes in electricity pricing that are denting the economics of new solar projects. Forecasts show China's solar build this year will be heavily outpaced by growth in its photovoltaic (PV) module manufacturing capacity, raising the prospect the country will export more solar panels despite a trade backlash in Europe and the U.S. The main factor slowing the expansion of distributed solar - installations built near the point of use, mostly on rooftops - is that there is not enough storage or transmission capacity to soak up the excess power generated when the sun is shining. That in turn is leading regulators to take away some of the price support that led to the rap
+
+## Eagles Changed Migration Route To Avoid Ukraine War
+ - [https://news.slashdot.org/story/24/05/24/239201/eagles-changed-migration-route-to-avoid-ukraine-war?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/05/24/239201/eagles-changed-migration-route-to-avoid-ukraine-war?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T07:20:15.526350+00:00
+
+Scientists report that Greater Spotted Eagles altered their migration routes across Ukraine to avoid conflict and habitat destruction caused by the war. The BBC reports: The scientists studied GPS data from tagged birds in the months after the February 2022 invasion, a time of heavy fighting in northern Ukraine as Russia tried to take Kyiv by sending troops south from Belarus. The researchers from the Estonian University of Life Sciences and the British Trust for Ornithology reported their findings in the journal Current Biology. "The war in Ukraine has had a devastating impact on people and the environment. Our findings provide a rare window into how conflicts affect wildlife," said lead author Charlie Russell, a postgraduate researcher at the University of East Anglia.
+ 
+Classified as a vulnerable species, the Greater Spotted Eagle is a large, brownish-colored bird of prey. Researchers started following them using GPS tracking devices in 2017 but didn't expect to be monitoring them 
+
+## Best Buy and Geek Squad Were Most Impersonated Orgs By Scammers In 2023
+ - [https://news.slashdot.org/story/24/05/24/235201/best-buy-and-geek-squad-were-most-impersonated-orgs-by-scammers-in-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/05/24/235201/best-buy-and-geek-squad-were-most-impersonated-orgs-by-scammers-in-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T04:02:35.992208+00:00
+
+An anonymous reader quotes a report from The Register: The Federal Trade Commission (FTC) has shared data on the most impersonated companies in 2023, which include Best Buy, Amazon, and PayPal in the top three. The federal agency detailed the top ten companies scammers impersonate and how much they make depending on the impersonation. By far the most impersonated corp was Best Buy and its repair business Geek Squad, with a total of 52k reports. Amazon impersonators came in second place with 34k reports, and PayPal a distant third with 10,000. Proportionally, the top three made up roughly 72 percent of the reports among the top ten, and Best Buy and Geek Squad scam reports were about 39 percent on their own. Though, high quantity doesn't necessarily translate to greater success for scammers, as the FTC also showed how much scammers made depending on what companies they impersonated. Best Buy and Geek Squad, Amazon, and PayPal scams made about $15 million, $19 million, and $16 million r
+
+## Google Threatens To Pause Google News Initiative Funding In US
+ - [https://tech.slashdot.org/story/24/05/24/2240244/google-threatens-to-pause-google-news-initiative-funding-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/24/2240244/google-threatens-to-pause-google-news-initiative-funding-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T01:53:41.758358+00:00
+
+Google has warned nonprofit newsrooms that a new California bill taxing Big Tech for digital ad transactions would jeopardize future investments in the U.S. news industry. "This is the second time this year Google has threatened to pull investment in news in response to a regulatory threat in California -- but this time, hundreds of publishers outside of California would also feel the impact," reports Axios. From the report: Google's new outreach to smaller news outlets is happening in response to a different bill, introduced this year by State Sen. Steve Glazer, that would tax Big Tech companies like Google and Meta for "data extraction transactions," or digital ad transactions. Tax revenue would fund tax credits meant to support the hiring of more journalists in California by eligible nonprofit local news organizations. With the link tax bill, Google only threatened to pull news investments in California. But the company is telling partners that the ad tax proposal will threaten con
+
+## Feds Add Nine More Incidents To Waymo Robotaxi Investigation
+ - [https://tech.slashdot.org/story/24/05/24/2259258/feds-add-nine-more-incidents-to-waymo-robotaxi-investigation?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/24/2259258/feds-add-nine-more-incidents-to-waymo-robotaxi-investigation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T01:53:40.190766+00:00
+
+Nine more accidents have been discovered by federal safety regulators during their safety investigation of Waymo's self-driving vehicles in Phoenix and San Francisco. TechCrunch reports: The National Highway Traffic Safety Administration Office of Defects Investigation (ODI) opened an investigation earlier this month into Waymo's autonomous vehicle software after receiving 22 reports of robotaxis making unexpected moves that led to crashes and potentially violated traffic safety laws. The investigation, which has been designated a "preliminary evaluation," is examining the software and its ability to avoid collisions with stationary objects and how well it detects and responds to "traffic safety control devices" like cones. The agency said Friday it has added (PDF) another nine incidents since the investigation was opened.
+ 
+Waymo reported some of these incidents. The others were discovered by regulators via public postings on social media and forums like Reddit, YouTube and X. The ad
+
+## FTC Chair: AI Models Could Violate Antitrust Laws
+ - [https://yro.slashdot.org/story/24/05/24/2253224/ftc-chair-ai-models-could-violate-antitrust-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/05/24/2253224/ftc-chair-ai-models-could-violate-antitrust-laws?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-25T00:48:00.736326+00:00
+
+An anonymous reader quotes a report from The Hill: Federal Trade Commission (FTC) Chair Lina Khan said Wednesday that companies that train their artificial intelligence (A) models on data from news websites, artists' creations or people's personal information could be in violation of antitrust laws. At The Wall Street Journal's "Future of Everything Festival," Khan said the FTC is examining ways in which major companies' data scraping could hinder competition or potentially violate people's privacy rights. "The FTC Act prohibits unfair methods of competition and unfair or deceptive acts or practices," Khan said at the event. "So, you can imagine, if somebody's content or information is being scraped that they have produced, and then is being used in ways to compete with them and to dislodge them from the market and divert businesses, in some cases, that could be an unfair method of competition."
+ 
+Khan said concern also lies in companies using people's data without their knowledge or 
+
