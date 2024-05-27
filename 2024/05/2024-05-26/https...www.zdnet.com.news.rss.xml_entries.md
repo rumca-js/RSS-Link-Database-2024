@@ -1,0 +1,51 @@
+# Source:ZDNET, URL:https://www.zdnet.com/news/rss.xml, language:en-US
+
+## Save $800 on the Razer Blade 15 laptop at Walmart ahead of Memorial Day
+ - [https://www.zdnet.com/article/this-powerful-gaming-laptop-is-a-whopping-800-off-for-memorial-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-powerful-gaming-laptop-is-a-whopping-800-off-for-memorial-day/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-26T20:58:00+00:00
+
+The Razer Blade 15 is a solid gaming laptop in its own right, but also flexible enough to help you get your work done. And right now, it's massively discounted for Memorial Day.
+
+## This $699 Lenovo laptop made me a believer in the 2-in-1 form factor, and it's on sale for Memorial Day
+ - [https://www.zdnet.com/article/this-lenovo-laptop-made-me-love-the-2-in-1-form-factor-and-its-699-for-memorial-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-lenovo-laptop-made-me-love-the-2-in-1-form-factor-and-its-699-for-memorial-day/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-26T20:45:00+00:00
+
+The Lenovo Yoga 7i is a sleek 2-in-1 that performs in any configuration you can put it in, and it's currently on sale for $699 for Best Buy's Memorial Day event.
+
+## This Lenovo laptop works hard, plays hard, and is $550 off for Memorial Day
+ - [https://www.zdnet.com/article/this-lenovo-laptop-is-stacked-with-powerful-hardware-and-right-now-its-550-off/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-lenovo-laptop-is-stacked-with-powerful-hardware-and-right-now-its-550-off/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-26T20:38:00+00:00
+
+The Lenovo Legion Pro 5i is a solid gaming machine, but it's also a laptop you can take to the office. And right now, you can get $550 off at B&amp;H Photo.
+
+## Save $260 on Amazon's 75-inch Omni Series Fire TV this Memorial Day
+ - [https://www.zdnet.com/article/amazons-75-inch-omni-fire-tv-is-260-off-this-memorial-day-weekend/#ftag=RSSbaffb68](https://www.zdnet.com/article/amazons-75-inch-omni-fire-tv-is-260-off-this-memorial-day-weekend/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-26T20:34:00+00:00
+
+Amazon's cinematic 75" Omni Fire TV is 25% off for Memorial Day weekend and comes with Alexa, Dolby Vision, and six months free of MGM+.
+
+## This powerhouse gaming laptop is $250 off ahead of Memorial Day
+ - [https://www.zdnet.com/article/one-of-the-best-gaming-laptops-of-the-year-is-250-off-for-memorial-day-weekend/#ftag=RSSbaffb68](https://www.zdnet.com/article/one-of-the-best-gaming-laptops-of-the-year-is-250-off-for-memorial-day-weekend/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-26T20:25:00+00:00
+
+The MSI Stealth 14 Studio is a powerhouse laptop for gamers and creators alike, and right now it's $250 off at Best Buy; a steal for this well-rounded machine.
+
+## The 100+ best Memorial Day deals of 2024: Shop Amazon, Best Buy, Walmart, and more
+ - [https://www.zdnet.com/article/best-memorial-day-2024-deals-may-26/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-memorial-day-2024-deals-may-26/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-26T19:39:00+00:00
+
+It's Memorial Day weekend, which means the start of summer and unbeatable sales. I've vetted the best online deals from headphones, TVs, smart home devices, and more.
+
+## Can AI make you a better golfer? I took a whack with this driver and got a big surprise
+ - [https://www.zdnet.com/article/can-ai-make-you-a-better-golfer-i-took-a-whack-with-this-driver-and-got-a-big-surprise/#ftag=RSSbaffb68](https://www.zdnet.com/article/can-ai-make-you-a-better-golfer-i-took-a-whack-with-this-driver-and-got-a-big-surprise/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-05-26T12:00:21+00:00
+
+Are the new Callaway Paradym AI Smoke golf clubs truly better, or is this just a gimmick? Join me on the fairway.
+
