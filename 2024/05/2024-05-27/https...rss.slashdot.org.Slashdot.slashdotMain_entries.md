@@ -1,0 +1,133 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Microsoft's Automatic Super Resolution Arrives To Improve Gaming Performance
+ - [https://it.slashdot.org/story/24/05/27/1959245/microsofts-automatic-super-resolution-arrives-to-improve-gaming-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/05/27/1959245/microsofts-automatic-super-resolution-arrives-to-improve-gaming-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T23:23:31.853091+00:00
+
+Microsoft has announced Auto SR, an AI-powered image upscaling solution for Windows 11 on Arm devices. The feature, exclusive to Qualcomm's Snapdragon X CPUs, aims to enhance gaming performance on ARM-based systems. Auto SR, however, comes with notable restrictions, including compatibility limitations with certain DirectX versions and the inability to work simultaneously with HDR.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Microsoft's+Automatic+Super+Resolution+Arrives+To+Improve+Gaming+Performance%3A+https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F05%2F27%2F1959245%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F05%2F27%2F1959245%2Fmicrosofts-automatic-super-resolution-arrives-to-improve-gaming-performance%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"><img src="https:
+
+## Millions in US Face Extreme-Heat Threat
+ - [https://news.slashdot.org/story/24/05/27/1946236/millions-in-us-face-extreme-heat-threat?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/05/27/1946236/millions-in-us-face-extreme-heat-threat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T22:18:29.668103+00:00
+
+Millions of Americans face the threat of dangerous heatwaves in the coming weeks with another summer of record-breaking temperatures forecast to hit the US. From a report: Most of New Mexico and Utah -- alongside parts of Arizona, Texas and Colorado -- have the highest chance (60% to 70%) of seeing hotter-than-average summer temperatures, according to the National Oceanic and Atmospheric Administration (Noaa). In addition, the entire north-east -- from Maine down to Pennsylvania and New Jersey -- as well as a large stretch from Louisiana to Arizona, Washington and Idaho, have a 40% to 50% chance of experiencing above-average temperatures from June through August. Only south-west Alaska is expected to have below-normal temperatures. 
+
+"We can expect another dangerous hot summer season, with daily records already being broken in parts of Texas and Florida," said Kristy Dahl, principal climate scientist for the Climate and Energy program at the Union of Concerned Scientists. "As we warm 
+
+## Harris Announces Plans To Help 80% of Africa Gain Access To the Internet
+ - [https://tech.slashdot.org/story/24/05/27/208238/harris-announces-plans-to-help-80-of-africa-gain-access-to-the-internet?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/27/208238/harris-announces-plans-to-help-80-of-africa-gain-access-to-the-internet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T21:13:27.777197+00:00
+
+Vice President Kamala Harris has announced the formation of a new partnership to help provide internet access to 80% of Africa by 2030, up from roughly 40% now. From a report: The announcement comes as follow-through on Harris' visit to the continent last year and in conjunction with this week's visit to Washington by Kenyan President William Ruto. Harris and the Kenyan leader had a public chat on Friday at the U.S. Chamber of Commerce about how public-private partnerships can increase economic growth. "Many could rightly argue that the future is on the continent of Africa," said Harris, noting that the median age in Africa is 19, a sign of the potential for economic growth. "It is not about, and simply about aid, but about investment and understanding the capacity that exists." Africa has struggled to obtain the capital needed to build up its industrial and technological sectors.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Harris+Announce
+
+## Bungie Wins Lawsuit Against Cheat Maker Aimjunkies
+ - [https://games.slashdot.org/story/24/05/27/1932223/bungie-wins-lawsuit-against-cheat-maker-aimjunkies?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/05/27/1932223/bungie-wins-lawsuit-against-cheat-maker-aimjunkies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T20:08:27.212030+00:00
+
+Bungie has won a first-of-its-kind lawsuit against cheat maker Phoenix Digital.&#194;From a report: The case was potentially the first-ever video game cheating jury trial and resulted in Bungie winning $63,210 in damages from Phoenix Digital,&#194;which is&#194;also known as Aimjunkies. While cheating in a game is not illegal, Bungie was able to sue the cheat maker under the argument that reverse engineering the game, specifically Destiny 2, to find those cheats violates the company's copyright. In this case,&#194;PCGamer notes&#194;that Aimjunkies also accused Bungie of violating its copyright by accessing one of its employees' computers,&#194;something Bungie argued was just part of its normal detection process for cheating and is covered by the game's EULA. The judge rejected Aimjunkies' claim.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Bungie+Wins+Lawsuit+Against+Cheat+Maker+Aimjunkies%3A+https%3A%2F%2Fgames.slashdot.org%2Fstory%2F24%
+
+## North Korea Says Its Attempt To Put Another Spy Satellite Into Orbit Has Failed
+ - [https://news.slashdot.org/story/24/05/27/1757207/north-korea-says-its-attempt-to-put-another-spy-satellite-into-orbit-has-failed?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/05/27/1757207/north-korea-says-its-attempt-to-put-another-spy-satellite-into-orbit-has-failed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T19:04:32.567169+00:00
+
+A North Korean rocket carrying its second spy satellite exploded midair on Monday, state media reported, after its neighbors strongly rebuked its planned launch. From a report: The North's official Korean Central News Agency said it launched a spy satellite aboard a new rocket at its main northwestern space center. But KCNA said the rocket blew up during a first-stage flight soon after liftoff due to a suspected engine problem. Earlier Monday, North Korea had notified Japan's coast guard about its plans to launch "a satellite rocket," with a warning to exercise caution in the waters between the Korean Peninsula and China and east of the main Philippine island of Luzon during a launch window from Monday through June 3. 
+
+South Korea's Joint Chiefs of Staff later said it detected a launch trajectory believed to be of a spy satellite fired from the North's main space center at 10:44 p.m. on Monday. Four minutes later, many fragments were spotted in the waters, it said. Japanese Prime Min
+
+## Microsoft: Windows 24H2 Will Remove Cortana and WordPad Apps
+ - [https://tech.slashdot.org/story/24/05/27/175255/microsoft-windows-24h2-will-remove-cortana-and-wordpad-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/27/175255/microsoft-windows-24h2-will-remove-cortana-and-wordpad-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T17:46:40.488448+00:00
+
+Microsoft says the Cortana, Tips, and WordPad applications will be automatically removed on systems upgraded to the upcoming Windows 11 24H2 release. From a report: This was shared in a Thursday blog announcing that Windows 11, version 24H2 (Build 26100.712) is now available for Insiders in the Release Preview Channel. The company removed the Cortana standalone app from Windows 11 in preview build 25967 for Insiders, released in the Canary Channel in early October. It first announced that it would end support for Cortana in a support document published in June and deprecated it in another Canary build in August. 
+
+In September, Microsoft announced that it would deprecate WordPad -- automatically installed on Windows systems for 28 years, since 1995, and an optional Windows feature since the Windows 10 Insider Build 19551 release in February 2020 -- with a future Windows update. In November, the company also informed users that the Tips app was deprecated and would be removed in a futu
+
+## Google's AI Feeds People Answers From The Onion
+ - [https://tech.slashdot.org/story/24/05/27/159228/googles-ai-feeds-people-answers-from-the-onion?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/27/159228/googles-ai-feeds-people-answers-from-the-onion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T15:36:16.333445+00:00
+
+An anonymous reader shares a report: As denizens of the Internet, we have all often seen a news item so ridiculous it caused us to think, "This seems like an Onion headline." But as real human beings, most of us have the ability to discern between reality and satire. Unfortunately, Google's newly launched "AI Overview" lacks that crucial ability. The feature, which launched less than two weeks ago (with no way for users to opt-out), provides answers to certain queries at the top of the page above any other online resources. The artificial intelligence creates its answers from knowledge it has synthesized from around the web, which would be great, except not everything on the Internet is true or accurate. Obviously. 
+
+Ben Collins, one of the new owners of our former sister site, pointed out some of AI Overview's most egregious errors on his social media. Asked "how many rocks should I eat each day," Overview said that geologists recommend eating "at least one small rock a day." That la
+
+## China Sets Up Third Fund With $47.5 Billion To Boost Semiconductor Sector
+ - [https://slashdot.org/story/24/05/27/1327206/china-sets-up-third-fund-with-475-billion-to-boost-semiconductor-sector?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/05/27/1327206/china-sets-up-third-fund-with-475-billion-to-boost-semiconductor-sector?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T14:31:52.887619+00:00
+
+China has set up its third planned state-backed investment fund to boost its semiconductor industry, with a registered capital of 344 billion yuan ($47.5 billion), according to a filing with a government-run companies registry. Reuters: The hundreds of billions of yuan invested in the sector puts into perspective President Xi Jinping's drive to achieve self-sufficiency for China in semiconductors. That commitment has taken on renewed urgency after the U.S. imposed a series of export control measures over the last couple of years, citing fears Beijing could use advanced chips to boost its military capabilities.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=China+Sets+Up+Third+Fund+With+%2447.5+Billion+To+Boost+Semiconductor+Sector%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F05%2F27%2F1327206%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.fa
+
+## Company will Convert GM's Electric Vans into Speedy Mobile Superchargers for Fleets
+ - [https://tech.slashdot.org/story/24/05/27/0032252/company-will-convert-gms-electric-vans-into-speedy-mobile-superchargers-for-fleets?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/27/0032252/company-will-convert-gms-electric-vans-into-speedy-mobile-superchargers-for-fleets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T12:25:03.936799+00:00
+
+Nashville-based Yoshi Mobility launched in 2015 to deliver gasoline to vehicle owners, reports Forbes. But this week the company announced they'll begin converting GM electric delivery vans into "mobile EV superchargers" &mdash; fast, battery-powered 240 kw DC chargers &mdash; for corporate fleets of electric cars.
+"There's kind of this critical grid problem and so we think that we can accelerate towards an EV future and this is a unique way that we can do it," said [cofounder/CEO Bryan] Frist in an interview. "The mobile charger can charge and then it can multiplex all the spots. So we tell people, it can electrify every spot in your parking lot." 
+
+Each mobile supercharger can service between five and seven vehicles according to Frist. With perhaps two superchargers operating on a fleet operator's lot, one would service a vehicle while the other supercharger would replenish its own charge off the grid and they would alternate, according to Frist. "What we say is we can do that same 
+
+## Pew Research Finds 64% of Americans Live Within Two Miles of a Public EV Charger
+ - [https://tech.slashdot.org/story/24/05/27/0039226/pew-research-finds-64-of-americans-live-within-two-miles-of-a-public-ev-charger?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/05/27/0039226/pew-research-finds-64-of-americans-live-within-two-miles-of-a-public-ev-charger?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T07:51:03.750469+00:00
+
+"64% of Americans live within 2 miles of a public charging station," Pew Research reported this week, citing a survey paired with an analysis of U.S. Energy Department data that found over 61,000 publicly accessible charging stations. 
+
+ And those who live closest to public chargers "view EVs more positively."
+
+The vast majority of EV charging occurs at home, but access to public infrastructure is tightly linked with Americans' opinions of electric vehicles themselves. Our analysis finds that Americans who live close to public chargers view EVs more positively than those who are farther away. Even when accounting for factors like partisan identification and community type, Americans who live close to EV chargers are more likely to say they: 
+- Already own an electric or hybrid vehicle
+- Would consider buying an EV for their next vehicle
+- Favor phasing out production of new gasoline cars and trucks by 2035
+- Are confident that the U.S. will build the necessary infrastructure to suppor
+
+## America Has One Public Charger for Every 20 Electric Cars
+ - [https://hardware.slashdot.org/story/24/05/27/0043256/america-has-one-public-charger-for-every-20-electric-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/05/27/0043256/america-has-one-public-charger-for-every-20-electric-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T07:51:02.203835+00:00
+
+This week the Washington Post noted that just last year nearly 1.2 million more electric vehicles were sold in America, "accounting for over 7 percent of total new car sales and a new national record." But "data show that EV sales are far outpacing growth in the U.S. charging network... In 2016, there were seven electric cars for each public charging point; today, there's more than 20 electric cars per charger." 
+
+The article points out that 80% of America's EV's are just charging at home, according to the U.S. Energy Department. (Which seems to leave one public charger for every four EVs that don't charge at home.) And the article notes several other important caveats:
+
+
+Experts say that there is no "magic number" for the best ratio of EVs on the road to public chargers. "It absolutely depends on the local landscape," said Peter Slowik, U.S. passenger vehicles lead for the International Council on Clean Transportation. Globally, there is about 1 public charger for every 11 EVs, accor
+
+## 1 in 9 American Kids Were Diagnosed With ADHD, New Study Finds
+ - [https://science.slashdot.org/story/24/05/27/0135229/1-in-9-american-kids-were-diagnosed-with-adhd-new-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/05/27/0135229/1-in-9-american-kids-were-diagnosed-with-adhd-new-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T07:51:00.278052+00:00
+
+"About 1 in 9 children in the U.S., between the ages of 3 and 17, have been diagnosed with ADHD," reports NPR:
+
+
+That's according to a new report from the Centers for Disease Control and Prevention that calls attention-deficit/hyperactivity disorder an "expanding public health concern." 
+
+Researchers found that in 2022, 7.1 million kids and adolescents in the U.S. had received an ADHD diagnosis &mdash; a million more children than in 2016. That jump in diagnoses was not surprising, given that the data was collected during the pandemic, says Melissa Danielson, a statistician with the CDC's National Center on Birth Defects and Developmental Disabilities and the study's lead author. She notes that other studies have found that many children experienced heightened stress, depression and anxiety during the pandemic. "A lot of those diagnoses... might have been the result of a child being assessed for a different diagnosis, something like anxiety or depression, and their clinician identifyi
+
+## Food Industry Launches 'Ferocious' Campaign Against Regulations on Ultraprocessed Foods
+ - [https://science.slashdot.org/story/24/05/27/013224/food-industry-launches-ferocious-campaign-against-regulations-on-ultraprocessed-foods?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/05/27/013224/food-industry-launches-ferocious-campaign-against-regulations-on-ultraprocessed-foods?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-05-27T07:50:58.738118+00:00
+
+Studies show ultraprocessed food "encourages overeating but may leave the eater undernourished," writes Ars Technica. 
+But the food industry's response has been "a ferocious campaign against regulation."
+
+In part it has used the same lobbying playbook as its fight against labeling and taxation of "junk food" high in calories: big spending to influence policymakers. FT analysis of US lobbying data from non-profit Open Secrets found that food and soft drinks-related companies spent $106 million on lobbying in 2023, almost twice as much as the tobacco and alcohol industries combined. Last year's spend was 21 percent higher than in 2020, with the increase driven largely by lobbying relating to food processing as well as sugar. 
+
+In an echo of tactics employed by cigarette companies, the food industry has also attempted to stave off regulation by casting doubt on the research of scientists like [Brazilian nutritional scientist Carlos] Monteiro. "The strategy I see the food industry using i
+

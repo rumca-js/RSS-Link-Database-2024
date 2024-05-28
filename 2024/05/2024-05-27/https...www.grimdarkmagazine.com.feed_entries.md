@@ -1,0 +1,9 @@
+# Source:Grimdark Magazine, URL:https://www.grimdarkmagazine.com/feed, language:en-AU
+
+## REVIEW: The Division: Compromised by Thomas Parrott
+ - [https://www.grimdarkmagazine.com/review-the-division-compromised-by-thomas-parrott](https://www.grimdarkmagazine.com/review-the-division-compromised-by-thomas-parrott)
+ - RSS feed: https://www.grimdarkmagazine.com/feed
+ - date published: 2024-05-27T03:32:23+00:00
+
+<p>Compromised is the second of the Operation: Crossroads series for Tom Clancy&#8217;s The Division franchise by Ubisoft. The premise for that series is that the Dollar Flu AKA The Green Poison has spread through the world and wiped-out ninety percent of the planet. The survivors of humanity are fighting over the remainder of the world&#8217;s resources with most of them running out within a few months of the events. Humanity, or at least America&#8217;s, only hope is the brave soldiers of the Strategic Homeland Division that have been given extraordinary powers to &#8220;save what remains.” Recruited was a fun novel for fans of the series with the character of Maira Kanhai being recruited (hence the title) into the Division after the events of The Division 2. The book resolved some of the larger questions of famine and other issues that needed to be addressed in the semi-realistic world bearing the name of the late Tom Clancy. It also introduced some new factions as well told an int
+
