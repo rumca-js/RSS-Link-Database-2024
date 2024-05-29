@@ -1,0 +1,114 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## Multiversus’ Re-Launch Already Has Its Competitive Fans Upset
+ - [https://kotaku.com/multiversus-unlock-characters-local-tournaments-1851505068](https://kotaku.com/multiversus-unlock-characters-local-tournaments-1851505068)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T21:25:43+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7d51625264a9a687d656855a85974f5a.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/multiversus-1-0-details-everything-we-know-new-features-1851469309">Multiversus</a>, the Warner Bros. crossover platform fighter starring Batman, Shaggy, Arya Stark and more, is out for real this time after going into a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/multiversus-shut-down-refund-season-crash-team-warner-1850270501">year-long hibernation</a>. Now that it’s back and out of beta, the fighting game community is assessing if it could have the longevity of fighting games like Super Smash Bros.…</p><p><a href="https://kotaku.com/multiversus-unlock-characters-local-tournaments-1851505068">Read more...</a></p>
+
+## Batman: Arkham Knight Director Reportedly Making An Action Game For Xbox
+ - [https://kotaku.com/batman-arkham-knight-rocksteady-suicide-squad-new-game-1851504919](https://kotaku.com/batman-arkham-knight-rocksteady-suicide-squad-new-game-1851504919)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T21:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c0c1573eac846c018172d23819c4734f.jpg" /><p>A new report claims <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/coheed-and-cambria-deranged-joke-single-batman-arkham-1851463330">Rocksteady</a> co-founders Sefton Hill and Jamie Walker have signed a deal with Xbox to fund their new studio’s next big AAA action game.</p><p><a href="https://kotaku.com/batman-arkham-knight-rocksteady-suicide-squad-new-game-1851504919">Read more...</a></p>
+
+## For The First Time In A Decade, Nobody Is Working On Cyberpunk 2077
+ - [https://kotaku.com/cyberpunk-2077-nobody-working-cdpr-update-2024-orion-1851504802](https://kotaku.com/cyberpunk-2077-nobody-working-cdpr-update-2024-orion-1851504802)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3b7b4558acbf320c79a25fea9687f4aa.jpg" /><p>After a rough launch in late 2020, numerous updates, a popular anime spin-off, and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/cyberpunk-2077-phantom-liberty-update-review-idris-elba-1850852291">a big DLC expansion</a>, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/cyberpunk-2077-the-kotaku-review-1845946628">Cyberpunk 2077</a> no longer has anybody working on it, which might be the first time in a decade that was true at CD Projekt Red.<br /></p><p><a href="https://kotaku.com/cyberpunk-2077-nobody-working-cdpr-update-2024-orion-1851504802">Read more...</a></p>
+
+## Big PlayStation Sale Is Full Of Discounts On PS5s, Spider-Man 2, And More
+ - [https://kotaku.com/ps5-sale-discount-spider-man-2-last-us-cheap-1851504689](https://kotaku.com/ps5-sale-discount-spider-man-2-last-us-cheap-1851504689)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/eecd6c468246040aef2e513074671aa1.jpg" /><p>The PlayStation 5 <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/the-playstation-4-is-getting-a-price-cut-in-north-ameri-1735369297">never officially got a price drop</a>, but Sony continues to discount the console so aggressively that it’s basically the same thing. As part of its annual Days of Play sale event, the company’s taking $50 off the regular price of PS5s. Recent exclusives like Spider-Man 2 and Rise of the Ronin are also…</p><p><a href="https://kotaku.com/ps5-sale-discount-spider-man-2-last-us-cheap-1851504689">Read more...</a></p>
+
+## Here’s My Hades 2 Build That Beat Chronos
+ - [https://kotaku.com/hades-2-chronos-phase-2-build-boons-twin-wands-1851504444](https://kotaku.com/hades-2-chronos-phase-2-build-boons-twin-wands-1851504444)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T18:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/150073ce29eab9b061e992aa4966a2d5.jpg" /><p>It’s not often you’ll hear someone say “I cannot wait to get my ass beat.” But when Supergiant Games released <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/hades-2-early-access-review-1851496575">Hades 2</a>—the highly-anticipated sequel to the GOTY-winning 2020 roguelike—into early access on May 6, I could not wait to get my ass beat.<br /></p><p><a href="https://kotaku.com/hades-2-chronos-phase-2-build-boons-twin-wands-1851504444">Read more...</a></p>
+
+## Fans Can’t Stop Putting Random Pop Culture Characters In Hades 2
+ - [https://kotaku.com/hades-2-fan-art-dark-souls-baldurs-gate-3-call-of-duty-1851504368](https://kotaku.com/hades-2-fan-art-dark-souls-baldurs-gate-3-call-of-duty-1851504368)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T18:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e6af2f15279eca2020792eba3e9e6cf5.jpg" /><p>With the release of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/hades-2-early-access-review-1851496575">Hades 2</a> in Early Access, fans are tearing up the Underworld (and beyond), which already holds so much to discover. In fact, the sequel to Supergiant Games’ seminal <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/hades-the-kotaku-review-1845204803">2020 action roguelike </a>is already bigger than the original, despite still being worked on. Among other things, the sequel brings a…</p><p><a href="https://kotaku.com/hades-2-fan-art-dark-souls-baldurs-gate-3-call-of-duty-1851504368">Read more...</a></p>
+
+## Call Of Duty: Black Ops 6 Brings Back 'Dude Sitting With Guns' Cover
+ - [https://kotaku.com/black-ops-6-call-of-duty-dude-on-cover-sitting-guns-art-1851500508](https://kotaku.com/black-ops-6-call-of-duty-dude-on-cover-sitting-guns-art-1851500508)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T17:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e0aeb723f86350cec0672bea8c5fb85e.jpg" /><p>Finally, our lengthy national nightmare is over. After years of waiting and suffering, I can confirm that the next <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/review-call-of-duty-black-ops-redefines-modern-warfar-5684775">Call of Duty: Black Ops</a> game will bring back the franchise’s iconic “Dude with guns sitting on the cover” iconography. Truly, a time for celebration. </p><p><a href="https://kotaku.com/black-ops-6-call-of-duty-dude-on-cover-sitting-guns-art-1851500508">Read more...</a></p>
+
+## Our Favorite Cosplay From C2E2 2024
+ - [https://kotaku.com/c2e2-2024-chicago-cosplay-convention-dune-one-piece-1851500349](https://kotaku.com/c2e2-2024-chicago-cosplay-convention-dune-one-piece-1851500349)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T17:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6b540162640ab80b3e029f21b60341f8.jpg" /><p>The Chicago Comic and Entertainment Expo (more commonly known as C2E2), has taken place every spring since 2010. This year’s convention, spread out over three days in April and held at McCormick Place, a huge, multi-level convention center, brought the kinds of high-quality cosplay we’ve come to expect from the con. </p><p><a href="https://kotaku.com/c2e2-2024-chicago-cosplay-convention-dune-one-piece-1851500349">Read more...</a></p>
+
+## The Final Shape Will Be Destiny 2's Big Moment Of Truth
+ - [https://kotaku.com/destiny-2-final-shape-d3-witness-raid-1851504108](https://kotaku.com/destiny-2-final-shape-d3-witness-raid-1851504108)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T16:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/23363aa5ecca8a062bf629254ba447c4.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/destiny-2-final-shape-cayde-6-trailer-1851428894">Destiny 2 players</a> have conquered a planet-sized computer simulating the multiverse, earned wishes from space dragons, and slayed alien gods. But one of the loot shooter’s most enduring fictions is that its creators had a decade-long master plan to deliver a transformative story and re-shape the gaming landscape in the…</p><p><a href="https://kotaku.com/destiny-2-final-shape-d3-witness-raid-1851504108">Read more...</a></p>
+
+## Rainbow Six Siege’s New Subscription Is Already A Mess
+ - [https://kotaku.com/rainbow-six-siege-pass-membership-controversy-1851503881](https://kotaku.com/rainbow-six-siege-pass-membership-controversy-1851503881)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T16:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5e8145e557091c3ffec33f4da83f4b60.jpg" /><p>Over the weekend, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/ubisoft-prince-of-persia-the-lost-crown-subscription-1851167602">Ubisoft</a> announced that its long-running success <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/games/tom-clancys-rainbow-six-siege">Rainbow Six Siege</a> would be receiving a monthly membership subscription. Despite the dedicated community that the game has built over the past eight-and-a-half years, the reception to the move has been anything but warm.</p><p><a href="https://kotaku.com/rainbow-six-siege-pass-membership-controversy-1851503881">Read more...</a></p>
+
+## Fans Are Convinced The Dragon Quest III Remake Is Actually A Trilogy
+ - [https://kotaku.com/dragon-quest-3-hd-2d-remake-tweet-trilogy-rpg-1851503835](https://kotaku.com/dragon-quest-3-hd-2d-remake-tweet-trilogy-rpg-1851503835)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9ab8770d67110c598b7403813cbf426a.jpg" /><p>Hey, remember that <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.kotaku.com.au/2021/05/dragon-quest-iii-getting-another-remake-and-it-looks-glorious/">Dragon Quest III remake</a> Square Enix announced back in 2021, then never spoke about again? Well, it still exists. In celebration of Dragon Quest Day on May 27 (the day in 1986 when the first game in the series released), <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/square-enix-business-plan-multiplatform-1851472456">Square Enix</a> finally posted a Dragon Quest 3 update that already has fans hyped.…</p><p><a href="https://kotaku.com/dragon-quest-3-hd-2d-remake-tweet-trilogy-rpg-1851503835">Read more...</a></p>
+
+## Final Fantasy VII Rebirth Is On Sale For The First Time
+ - [https://kotaku.com/final-fantasy-7-rebirth-sale-price-drop-playstation-5-1851503782](https://kotaku.com/final-fantasy-7-rebirth-sale-price-drop-playstation-5-1851503782)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T15:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/01eb1f1332dfff9089c2405eb36c0c6b.jpg" /><p>Have you been wanting to jump into the second game in the Final Fantasy VII Remake trilogy but decided to wait for the price to go down? Well, you’re in luck, friend. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-rebirth-review-ps5-1851276129">Final Fantasy VII Rebirth</a> is currently discounted from its usual $70 PlayStation 5 game price tag, and will now run you $55 instead.<br /></p><p><a href="https://kotaku.com/final-fantasy-7-rebirth-sale-price-drop-playstation-5-1851503782">Read more...</a></p>
+
+## Legend Of Zelda's First Lego Set Is A $300 Great Deku Tree
+ - [https://kotaku.com/nintendo-lego-legend-zelda-great-deku-tree-set-price-1851503670](https://kotaku.com/nintendo-lego-legend-zelda-great-deku-tree-set-price-1851503670)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/faa06ceffe4db1c5c46fe8a0a3b4aa4a.jpg" /><p>On May 28, Nintendo and Lego unveiled a new <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/the-legend-zelda-lego-fan-massive-large-nes-nintendo-1848449305">Legend of Zelda</a> set based on the franchise’s iconic Great Deku Tree. The new Lego set, out later this year, features two different versions of the famous old tree, as well as a Zelda minifig and three different versions of Link.<br /></p><p><a href="https://kotaku.com/nintendo-lego-legend-zelda-great-deku-tree-set-price-1851503670">Read more...</a></p>
+
+## Two More Resident Evil Remakes Are Reportedly In the Works
+ - [https://kotaku.com/resident-evil-remake-code-veronica-zero-capcom-leak-1851503494](https://kotaku.com/resident-evil-remake-code-veronica-zero-capcom-leak-1851503494)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T14:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8ec5abdbc0def36b32e0fe28fa9d6a85.jpg" /><p>The next entries in the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/lets-rank-the-main-resident-evil-games-from-worst-to-b-1847399290">Resident Evil</a> franchise to get the remake treatment will reportedly be 2000’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/resident-evil-code-veronica-fan-remake-capcom-1849931638">CODE: Veronica</a> and 2002’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/a-great-port-cant-save-the-most-boring-resident-evil-ga-1753765747">Zero</a>. This would follow Capcom’s trend of delivering remakes of its old titles, the most recent being the 2023 <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/resident-evil-4-re4-remaster-remake-review-capcom-ps5-1850278891">Resident Evil 4 rema
+
+## PS2 Games Are Coming To PS5 Again Starting With Tomb Raider And Star Wars
+ - [https://kotaku.com/playstation-2-classics-ps4-ps5-tomb-raider-star-wars-1851503467](https://kotaku.com/playstation-2-classics-ps4-ps5-tomb-raider-star-wars-1851503467)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/82dec5b8070838d6ddf2da5a996ed46a.jpg" /><p>The PlayStation Plus Classics Catalog is an underutilized service on Sony’s part, especially when it comes to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/playstation-2-ps2-23rd-anniversary-legacy-1850966714">PlayStation 2</a> games. Since the company didn’t go the way of Xbox by allowing users to natively <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/xbox-president-game-preservation-backward-compatibility-1851394841">play old games on new hardware</a>, PS4 and PS5 owners wanting to play their classic games on modern hardware have had…</p><p><a href="https://kotaku.com/playstation-2-classics-ps4-ps5-tomb-raider-star-wars-1851503467">Read more...</a></p>
+
+## Microsoft Accidentally Confirms COD Black Ops 6 For Game Pass [Updated]
+ - [https://kotaku.com/call-of-duty-black-ops-6-game-pass-day-one-1851503214](https://kotaku.com/call-of-duty-black-ops-6-game-pass-day-one-1851503214)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-05-28T13:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5ac00f0f34d06b190755a17f705867b4.jpg" /><p><strong>Updated: 05/28/2024, 10:10 a.m. ET:</strong> It’s now official. After accidentally releasing its payload a little early, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://x.com/Xbox/status/1795455088141463617" rel="noopener noreferrer" target="_blank">Microsoft has officially confirmed</a> Call of Duty: Black Ops 6 will be a day one release for Game Pass.</p><p><a href="https://kotaku.com/call-of-duty-black-ops-6-game-pass-day-one-1851503214">Read more...</a></p>
+

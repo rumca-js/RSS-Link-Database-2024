@@ -1,0 +1,58 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## Seattle lawmakers postpone vote on new minimum wage law for food delivery drivers
+ - [https://www.geekwire.com/2024/seattle-lawmakers-postpone-vote-on-new-minimum-wage-law-for-food-delivery-drivers](https://www.geekwire.com/2024/seattle-lawmakers-postpone-vote-on-new-minimum-wage-law-for-food-delivery-drivers)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-28T20:15:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2024/03/IMG_0068-1260x840.jpg" width="1260" /><br />The Seattle City Council will delay a planned vote on a new minimum wage law for food delivery drivers. Council President Sara Nelson, who introduced the proposed legislation, issued a press release about an hour before Tuesday&#8217;s council meeting where councilmembers were expected to vote on the law. &#8220;Amendments to the legislation have been proposed and councilmembers have requested a postponement to ensure the Council has time to fully consider those changes,&#8221; the release stated. It&#8217;s the latest chapter in a heated battle over minimum pay standards designed for independent contractors delivering food for tech platforms such as Uber Eats&#8230; <a href="https://www.geekwire.com/2024/seattle-lawmakers-postpone-vote-on-new-minimum-wage-law-for-food-delivery-drivers/">Read More</a>
+
+## Cybersecurity attack on Seattle Public Library impacts multiple tech systems and online services
+ - [https://www.geekwire.com/2024/cybersecurity-attack-on-seattle-public-library-impacts-multiple-tech-systems-and-online-services](https://www.geekwire.com/2024/cybersecurity-attack-on-seattle-public-library-impacts-multiple-tech-systems-and-online-services)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-28T18:30:46+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/library-1260x945.jpg" width="1260" /><br />The Seattle Public Library was dealing with what it called a &#8220;ransomware event&#8221; impacting its technology systems on Tuesday, causing disruptions to a number of online services offered by the Library. In a post on the Shelf Talk Blog, the Library detailed the cybersecurity attack which started in the early morning hours Saturday as the organization was preparing to take its systems offline for planned maintenance during the holiday weekend. The attack affected access to staff and public computers, online catalog and loaning systems, e-books and e-audiobooks, in-building Wi-Fi, and the Library website, which was still offline Tuesday morning. &#8220;The&#8230; <a href="https://www.geekwire.com/2024/cybersecurity-attack-on-seattle-public-library-impacts-multiple-tech-systems-and-online-services/">Read More</a
+
+## Melinda French Gates announces plans for $1B in funding for reproductive and other women’s issues
+ - [https://www.geekwire.com/2024/melinda-french-gates-announces-plans-for-1b-in-funding-for-reproductive-and-other-womens-issues](https://www.geekwire.com/2024/melinda-french-gates-announces-plans-for-1b-in-funding-for-reproductive-and-other-womens-issues)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-28T16:49:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="563" src="https://cdn.geekwire.com/wp-content/uploads/2022/08/melindagates.jpg" width="1000" /><br />Melinda French Gates announced on Tuesday that she is planning to grant $1 billion over the next two years to programs and people working on women&#8217;s and family issues. She highlighted the need to fund reproductive initiatives in the U.S. following the Supreme Court&#8217;s 2022 decision that gutted abortion protections. &#8220;While I have long focused on improving contraceptive access overseas, in the post-Dobbs era, I now feel compelled to support reproductive rights here at home,&#8221; French Gates said in an op-ed in The New York Times. &#8220;For too long, a lack of money has forced organizations fighting for women&#8217;s rights&#8230; <a href="https://www.geekwire.com/2024/melinda-french-gates-announces-plans-for-1b-in-funding-for-reproductive-and-other-womens-issues/">Read More</a>
+
+## Tech Moves: Seattle marketing vet Lynn Girotto joins Qualtrics as chief marketing officer
+ - [https://www.geekwire.com/2024/tech-moves-seattle-marketing-vet-lynn-girotto-joins-qualtrics-as-chief-marketing-officer](https://www.geekwire.com/2024/tech-moves-seattle-marketing-vet-lynn-girotto-joins-qualtrics-as-chief-marketing-officer)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-28T16:13:06+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/Lynn-Girotto-1260x840.jpg" width="1260" /><br />Experience management technology Qualtrics hired longtime Seattle marketing leader&#160;Lynn Girotto&#160;as its new chief marketing officer. Girotto was previously chief marketing officer at video software company Vimeo and San Francisco-based customer data tracking startup Heap. She also held marketing roles at Amperity, Tableau, Getty Images, Starbucks and Microsoft. Qualtrics, based in Provo, Utah, and Seattle, offers technology that helps companies gather data and improve the experiences and interactions that customers, employees, and others have with their products and services. Girotto is relocating from Seattle to Utah as part of her new role with Qualtrics. &#8220;Qualtrics is at an incredible inflection point&#8230; <a href="https://www.geekwire.com/2024/tech-moves-seattle-marketing-vet-lynn-girotto-joi
+
+## Seattle startup Humanly acquires Teamable to boost recruiting tech
+ - [https://www.geekwire.com/2024/seattle-startup-humanly-acquires-teamable-to-boost-recruiting-tech](https://www.geekwire.com/2024/seattle-startup-humanly-acquires-teamable-to-boost-recruiting-tech)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-28T16:00:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2022/08/PK-2-1260x840.jpg" width="1260" /><br />Humanly, a Seattle startup that helps companies automate their recruiting functions, announced the acquisition of Teamable, a San Francisco startup offering similar AI-boosted HR tools. Terms of the deal were not disclosed. &#8220;Together, we are redefining talent acquisition by providing customers with the tools they need not only to find the best candidates but also to engage and convert them effectively,&#8221; Humanly CEO Prem Kumar said in a statement. &#8220;We are making the dream of posting a job and having qualified candidates appear on your calendar — without the manual effort in-between — a reality.&#8221; Teamable CEO Matthew Raymond will&#8230; <a href="https://www.geekwire.com/2024/seattle-startup-humanly-acquires-teamable-to-boost-recruiting-tech/">Read More</a>
+
+## Seattle restaurant owners sound off on delivery apps as council votes on minimum wage law
+ - [https://www.geekwire.com/2024/seattle-restaurant-owners-sound-off-on-delivery-apps-as-council-votes-on-minimum-wage-law](https://www.geekwire.com/2024/seattle-restaurant-owners-sound-off-on-delivery-apps-as-council-votes-on-minimum-wage-law)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-28T15:33:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/IMG_0286-1260x945.jpg" width="1260" /><br />It hasn&#8217;t been an easy road to recovery for many restaurant owners since the pandemic hammered their businesses. They&#8217;ve dealt with inflation, supply chain issues, labor shortages, and the fallout from remote work, among other hurdles. Another curveball was thrown into the mix for Seattle restaurants in January, when Uber Eats and DoorDash added a substantial $5/order fee for consumers in response to a new minimum pay legislation for drivers. Demand immediately dropped. As the Seattle City Council prepares to vote Tuesday on revised legislation that would lower the existing minimum wage law —&#160;following heavy lobbying by the companies —&#8230; <a href="https://www.geekwire.com/2024/seattle-restaurant-owners-sound-off-on-delivery-apps-as-council-votes-on-minimum-wage-law/">Read More</a>
+
+## T-Mobile will pay $4.4B to acquire majority of U.S. Cellular, boosting service in rural areas
+ - [https://www.geekwire.com/2024/t-mobile-will-pay-4-4b-to-acquire-majority-of-u-s-cellular-boosting-service-in-rural-areas](https://www.geekwire.com/2024/t-mobile-will-pay-4-4b-to-acquire-majority-of-u-s-cellular-boosting-service-in-rural-areas)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-28T15:25:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2019/12/tmobilenyc33-1260x945.jpg" width="1260" /><br />Bellevue, Wash.-based wireless giant T-Mobile announced Tuesday it reached an agreement with U.S. Cellular to acquire &#8220;substantially all&#8221; of its wireless operations in a $4.4 billion deal.
+
+## A year after OceanGate tragedy, billionaire plans Titanic trip in a different submersible
+ - [https://www.geekwire.com/2024/oceangate-triton-billionaire-titanic-sub-trip](https://www.geekwire.com/2024/oceangate-triton-billionaire-titanic-sub-trip)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-28T15:00:00+00:00
+
+<img alt="Illustration: Triton 4000/2 Abyssal Explorer submersible for Titanic dives" class="webfeedsFeaturedVisual wp-post-image" height="675" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/240528-triton.jpg" width="1200" /><br />Less than a year after the loss of Everett, Wash.-based OceanGate&#8217;s submersible and its five-person crew during a dive to the Titanic, Triton Submarines is planning a trip to the shipwreck in a completely different kind of vessel with backing from a billionaire real-estate investor, according to The Wall Street Journal. The Journal quoted Triton&#8217;s co-founder and CEO, Patrick Lahey, as saying that the trip was conceived as a way to &#8220;demonstrate to the world&#8221; that his company was capable of making the 12,500-foot-deep dive safely and repeatedly — and that OceanGate&#8217;s Titan sub was a &#8220;contraption.&#8221; Lahey reportedly plans&#8230; <a href="https://www.geekwire.com/2024/oceangate-triton-billionaire-titanic-sub-tri
+
