@@ -1,0 +1,233 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## KB5037849: Windows 10 22H2 build 19045.4474 non-security preview update released
+ - [https://www.neowin.net/news/kb5037849-windows-10-22h2-build-190454474-non-security-preview-update-released](https://www.neowin.net/news/kb5037849-windows-10-22h2-build-190454474-non-security-preview-update-released)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T22:14:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/06/1624805170_windows10_medium.jpg" /></div>Microsoft has launched the non-security preview release version for Windows 10 22H2. The build 19045.4474 has a list of issues that have been fixed, along with a number of known issues. <a href="https://www.neowin.net/news/kb5037849-windows-10-22h2-build-190454474-non-security-preview-update-released/">Read more...</a>
+
+## KB5037853: Latest Windows 11 22H2 and 23H2 non-security preview updates launched
+ - [https://www.neowin.net/news/kb5037853-latest-windows-11-22h2-and-23h2-non-security-preview-updates-launched](https://www.neowin.net/news/kb5037853-latest-windows-11-22h2-and-23h2-non-security-preview-updates-launched)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T21:56:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1691046087_windows_11_medium.jpg" /></div>Microsoft has released the latest non-security preview updates for Windows 11 22H2 and 23H2. They both contain a number of new features along with a long list of issues that have been fixed. <a href="https://www.neowin.net/news/kb5037853-latest-windows-11-22h2-and-23h2-non-security-preview-updates-launched/">Read more...</a>
+
+## 8BitDo launches new IBM PC inspired mechanical keyboard, and a separate numpad-calculator
+ - [https://www.neowin.net/news/8bitdo-launches-new-ibm-pc-inspired-mechanical-keyboard-and-a-separate-numpad-calculator](https://www.neowin.net/news/8bitdo-launches-new-ibm-pc-inspired-mechanical-keyboard-and-a-separate-numpad-calculator)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T20:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1717010477_02-l_1_medium.jpg" /></div>8BitDo has launched another of its retro-themed mechanical PC keyboards, this time with the IBM PC Model M keyboard as its inspiration. It has also launched a lineup of wireless numpads. <a href="https://www.neowin.net/news/8bitdo-launches-new-ibm-pc-inspired-mechanical-keyboard-and-a-separate-numpad-calculator/">Read more...</a>
+
+## Older Microsoft games got sales boosts thanks to multi-platform launches in April 2024
+ - [https://www.neowin.net/news/older-microsoft-games-got-sales-boosts-thanks-to-multi-platform-launches-in-april-2024](https://www.neowin.net/news/older-microsoft-games-got-sales-boosts-thanks-to-multi-platform-launches-in-april-2024)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T18:50:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697730690_wire_sot_seasonten_fleet_1920-3d3306e8f3fb52e29d68_medium.jpg" /></div>Microsoft saw some of its older games, like Sea of Thieves and Grounded, get big sales increases as those titles were released to other platforms, according to new US sales data for April 2024. <a href="https://www.neowin.net/news/older-microsoft-games-got-sales-boosts-thanks-to-multi-platform-launches-in-april-2024/">Read more...</a>
+
+## Windows 11 24H2 breaks connection to some third-party NAS with SMB
+ - [https://www.neowin.net/news/windows-11-24h2-breaks-connection-to-some-third-party-nas-with-smb](https://www.neowin.net/news/windows-11-24h2-breaks-connection-to-some-third-party-nas-with-smb)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T18:28:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/10/1665041577_windows_11_broken_medium.jpg" /></div>Microsoft has published a reminder that the upcoming Windows 11 24H2 may break connections to third-party NAS with errors like 0xc000a000, 0x80070035, 0x800704f8, and others. Here is what to do. <a href="https://www.neowin.net/news/windows-11-24h2-breaks-connection-to-some-third-party-nas-with-smb/">Read more...</a>
+
+## Microsoft launches the preview of the new DirectSR API for DirectX 12 game developers
+ - [https://www.neowin.net/news/microsoft-launches-the-preview-of-the-new-directsr-api-for-directx-12-game-developers](https://www.neowin.net/news/microsoft-launches-the-preview-of-the-new-directsr-api-for-directx-12-game-developers)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T17:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1717003213_618525e723ab789b910-79552276-dx12-logo-digital-used-on-light-background_medium.jpg" /></div>Microsoft has announced it has launched a preview version of DirectSR. This is a new API that&#039;s been made to standardize super-resolution (upscaling) support for all DirectX 12-based PC games. <a href="https://www.neowin.net/news/microsoft-launches-the-preview-of-the-new-directsr-api-for-directx-12-game-developers/">Read more...</a>
+
+## 10th Gen iPad with A14 Bionic chip drops to its new all-time low price just below $300
+ - [https://www.neowin.net/deals/10th-gen-ipad-with-a14-bionic-chip-drops-to-its-new-all-time-low-price-just-below-300](https://www.neowin.net/deals/10th-gen-ipad-with-a14-bionic-chip-drops-to-its-new-all-time-low-price-just-below-300)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T17:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/10/1666107200_ipad_10_medium.jpg" /></div>Today, you can get your hands on the 10th Generation iPad with the A14 Bionic chip at its lowest price ever, with two of its variants below $300, so check them out before the offer ends. <a href="https://www.neowin.net/deals/10th-gen-ipad-with-a14-bionic-chip-drops-to-its-new-all-time-low-price-just-below-300/">Read more...</a>
+
+## Get a Sam's Club 1 Year Membership at 50% off for just $25
+ - [https://www.neowin.net/deals/get-a-sams-club-1-year-membership-at-50-off-for-just-2499](https://www.neowin.net/deals/get-a-sams-club-1-year-membership-at-50-off-for-just-2499)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T17:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/11/1667994568_product_329594_product_shots1_medium.jpg" /></div>Become a Sam&#039;s Club Member Now! Shop Premium-Quality Products and Enjoy Incredible Perks, and Savings with today&#039;s highlighted Neowin Deal. Temporarily available at half the normal price! <a href="https://www.neowin.net/deals/get-a-sams-club-1-year-membership-at-50-off-for-just-2499/">Read more...</a>
+
+## New images reportedly give a fresh look at Apple's immersive video cameras
+ - [https://www.neowin.net/news/new-images-reportedly-give-a-fresh-look-at-apples-immersive-video-cameras](https://www.neowin.net/news/new-images-reportedly-give-a-fresh-look-at-apples-immersive-video-cameras)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T16:20:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716998263_apple_immersive_video_camera_1_medium.jpg" /></div>Apple hasn&#039;t revealed much about how it shoots immersive videos for Vision Pro. But Apple&#039;s expensive-looking immersive video camera rigs were reportedly spotted at an MLS season game recently. <a href="https://www.neowin.net/news/new-images-reportedly-give-a-fresh-look-at-apples-immersive-video-cameras/">Read more...</a>
+
+## Microsoft will retire Bing Maps for Enterprise; will merge its tech and data with Azure Maps
+ - [https://www.neowin.net/news/microsoft-will-retire-bing-maps-for-enterprise-will-merge-its-tech-and-data-with-azure-maps](https://www.neowin.net/news/microsoft-will-retire-bing-maps-for-enterprise-will-merge-its-tech-and-data-with-azure-maps)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T16:04:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2015/06/bing-maps_medium.jpg" /></div>Microsoft has revealed it will be retiring its  Bing Maps for Enterprise service on June 30, 2028, with no new customers accepted after June 30, 2024. Its tech and data will be merged with Azure Maps. <a href="https://www.neowin.net/news/microsoft-will-retire-bing-maps-for-enterprise-will-merge-its-tech-and-data-with-azure-maps/">Read more...</a>
+
+## Mortal Kombat 1 adds The Boys' Homelander as its newest fighter on June 4
+ - [https://www.neowin.net/news/mortal-kombat-1-adds-the-boys-homelander-as-its-newest-fighter-on-june-4](https://www.neowin.net/news/mortal-kombat-1-adds-the-boys-homelander-as-its-newest-fighter-on-june-4)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T15:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716993836_mortal-kombat-1-homelander]_medium.jpg" /></div>NetherRealm has confirmed that Homelander, the amoral superhero of the hit TV series The Boys, will finally make his Mortal Kombat 1 debut on Tuesday, June 4 for early access players. <a href="https://www.neowin.net/news/mortal-kombat-1-adds-the-boys-homelander-as-its-newest-fighter-on-june-4/">Read more...</a>
+
+## Sony announces new State of Play to show off 14 PS5 and PSVR2 games
+ - [https://www.neowin.net/news/sony-announces-new-state-of-play-to-show-off-14-ps5-and-psvr2-games](https://www.neowin.net/news/sony-announces-new-state-of-play-to-show-off-14-ps5-and-psvr2-games)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T15:16:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716994430_237561b8c80c66ef2363048d582c60b4_medium.jpg" /></div>Sony will be hosting a brand-new State of Play event later this week, giving the spotlight to 14 games coming to its PlayStation 5 and PlayStation VR2 platforms. It will run for over 30 minutes. <a href="https://www.neowin.net/news/sony-announces-new-state-of-play-to-show-off-14-ps5-and-psvr2-games/">Read more...</a>
+
+## The next No Man's Sky update will give players a way to explore a nearly empty galaxy
+ - [https://www.neowin.net/news/the-next-no-mans-sky-update-will-give-players-a-way-to-explore-a-nearly-empty-galaxy](https://www.neowin.net/news/the-next-no-mans-sky-update-will-give-players-a-way-to-explore-a-nearly-empty-galaxy)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T14:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716992320_no-mans-sky-adrift-hero-7956dce3d315bded2768_medium.jpg" /></div>Hello Games will release Adrift, the next update for its space-based game No Man&#039;s Sky, later this week. It will let players explore an alternate universe where the galaxy has been abandoned. <a href="https://www.neowin.net/news/the-next-no-mans-sky-update-will-give-players-a-way-to-explore-a-nearly-empty-galaxy/">Read more...</a>
+
+## Samsung enhances Galaxy Watch with Galaxy AI integration for advanced health monitoring
+ - [https://www.neowin.net/news/samsung-enhances-galaxy-watch-with-galaxy-ai-integration-for-advanced-health-monitoring](https://www.neowin.net/news/samsung-enhances-galaxy-watch-with-galaxy-ai-integration-for-advanced-health-monitoring)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T13:54:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716988939_one-ui-beta_thumbnail_wip_medium.jpg" /></div>Samsung has announced the integration of its Galaxy AI to Galaxy Watch, bringing updated health algorithms and fitness features for tailored training, personalised health experiences, and more. <a href="https://www.neowin.net/news/samsung-enhances-galaxy-watch-with-galaxy-ai-integration-for-advanced-health-monitoring/">Read more...</a>
+
+## Former Forza Horizon team members are making a new narrative racing game for Amazon Games
+ - [https://www.neowin.net/news/former-forza-horizon-team-members-are-making-a-new-narrative-racing-game-for-amazon-games](https://www.neowin.net/news/former-forza-horizon-team-members-are-making-a-new-narrative-racing-game-for-amazon-games)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T13:38:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716988855_ag_mav_v2_1920x1080_medium.jpg" /></div>Amazon Games has announced it will publish the first title from Maverick Games, which was formed by former Forza Horizon team members from Playground Games. The game will be a narrative racing title. <a href="https://www.neowin.net/news/former-forza-horizon-team-members-are-making-a-new-narrative-racing-game-for-amazon-games/">Read more...</a>
+
+## Motorola Razr 50 aka Motorola Razr 2024 with MediaTek chipset tested in Geekbench
+ - [https://www.neowin.net/news/motorola-razr-50-aka-motorola-razr-2024-with-mediatek-chipset-tested-in-geekbench](https://www.neowin.net/news/motorola-razr-50-aka-motorola-razr-2024-with-mediatek-chipset-tested-in-geekbench)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T13:18:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1715062514_motorola-razr-40-ultra_medium.jpg" /></div>Motorola Razr 50, to be sold as the Motorola Razr 2024 in the US, powered by the MediaTek Dimensity chipset paired with 8GB of RAM, recently was benchmarked in Geekbench before launch. <a href="https://www.neowin.net/news/motorola-razr-50-aka-motorola-razr-2024-with-mediatek-chipset-tested-in-geekbench/">Read more...</a>
+
+## A Sony PSVR 2 PC adapter has been cerified in Korea, which may signal its release soon
+ - [https://www.neowin.net/news/a-sony-psvr-2-pc-adapter-has-been-cerified-in-korea-which-may-signal-its-release-soon](https://www.neowin.net/news/a-sony-psvr-2-pc-adapter-has-been-cerified-in-korea-which-may-signal-its-release-soon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T12:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/11/1667410620_7170d4d947d7e5cae40c0920dcbe42233b63cbea_medium.jpg" /></div>The Korean Radio Research Agency has posted a certification listing for a &quot;PlayStationVR2 PC adapter,&quot; which may mean Sony could launch this product to the public in the very near future. <a href="https://www.neowin.net/news/a-sony-psvr-2-pc-adapter-has-been-cerified-in-korea-which-may-signal-its-release-soon/">Read more...</a>
+
+## Several Razer Blade gaming laptops are currently at their lowest prices ever on Amazon
+ - [https://www.neowin.net/deals/several-razer-blade-gaming-laptops-are-currently-at-their-lowest-prices-ever-on-amazon](https://www.neowin.net/deals/several-razer-blade-gaming-laptops-are-currently-at-their-lowest-prices-ever-on-amazon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T12:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/11/1701016082_razer-blade-15_medium.jpg" /></div>A number of the popular Razer Blade gaming laptops have just had their prices cut back to all-time lows on Amazon, including a 50% price discount on the Razer Blade 17 notebook model. <a href="https://www.neowin.net/deals/several-razer-blade-gaming-laptops-are-currently-at-their-lowest-prices-ever-on-amazon/">Read more...</a>
+
+## Xiaomi G34WQi review: A 180Hz FreeSync Premium 34" gaming ultrawide monitor for $246
+ - [https://www.neowin.net/reviews/xiaomi-g34wqi-review-a-180hz-freesync-premium-34-gaming-ultrawide-monitor-for-246](https://www.neowin.net/reviews/xiaomi-g34wqi-review-a-180hz-freesync-premium-34-gaming-ultrawide-monitor-for-246)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T12:10:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716929160_2024.05.28_1737-00_00002_medium.jpg" /></div>The G34WQi is great value for money for anyone wanting a budget, yet still decent performing monitor for screen tear-free gaming. It does lack a handful of features, though, but do they matter? <a href="https://www.neowin.net/reviews/xiaomi-g34wqi-review-a-180hz-freesync-premium-34-gaming-ultrawide-monitor-for-246/">Read more...</a>
+
+## Intel releases new graphics driver with optimizations for F1 24 and MultiVersus
+ - [https://www.neowin.net/news/intel-releases-new-graphics-driver-with-optimizations-for-f1-24-and-multiversus](https://www.neowin.net/news/intel-releases-new-graphics-driver-with-optimizations-for-f1-24-and-multiversus)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T11:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716979201_31.0.101.5534_medium.jpg" /></div>Intel has released a new non-WHQL graphics driver with optimizations for F1 24 and MultiVersus. Version 31.0.101.5534 is now available for download on systems with supported Intel CPUs and GPUs. <a href="https://www.neowin.net/news/intel-releases-new-graphics-driver-with-optimizations-for-f1-24-and-multiversus/">Read more...</a>
+
+## Nothing launches Phone (2a) 'Special Edition' with limited stocks
+ - [https://www.neowin.net/news/nothing-launches-phone-2a-special-edition-with-limited-stocks](https://www.neowin.net/news/nothing-launches-phone-2a-special-edition-with-limited-stocks)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T11:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716980927_nothing_phone_2a_special_edition_medium.jpg" /></div>Nothing has launched the Phone (2a) Special Edition smartphone after teasing it for the last few days. The device will be available in limited quantities through its website and London Store. <a href="https://www.neowin.net/news/nothing-launches-phone-2a-special-edition-with-limited-stocks/">Read more...</a>
+
+## GEEKOM A5 Ryzen 7 Mini PC down to its lowest price in the U.K., U.S., and Australia
+ - [https://www.neowin.net/deals/geekom-a5-ryzen-7-mini-pc-down-to-its-lowest-price-in-the-uk-us-and-australia](https://www.neowin.net/deals/geekom-a5-ryzen-7-mini-pc-down-to-its-lowest-price-in-the-uk-us-and-australia)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T11:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698492604_20231026_172443_medium.jpg" /></div>The Ryzen 7 5800H-powered GEEKOM A5 Mini PC debuted last year with an MSRP of $499 but quickly received a $100 discount; now, you can get it even cheaper with a coupon code until July 4th. <a href="https://www.neowin.net/deals/geekom-a5-ryzen-7-mini-pc-down-to-its-lowest-price-in-the-uk-us-and-australia/">Read more...</a>
+
+## Former OpenAI safety head, Jan Leike, joins rival firm Anthropic
+ - [https://www.neowin.net/news/former-openai-safety-head-jan-leike-joins-rival-firm-anthropic](https://www.neowin.net/news/former-openai-safety-head-jan-leike-joins-rival-firm-anthropic)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T10:38:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1714580635_anthropic_medium.jpg" /></div>Former OpenAI safety lead Jan Leike has taken up a job at rival firm Anthropic. There, he will continue his work on superalignment and try to find a way for humans to control powerful AIs. <a href="https://www.neowin.net/news/former-openai-safety-head-jan-leike-joins-rival-firm-anthropic/">Read more...</a>
+
+## PlayStation 5 Digital Edition Slim is now available for $399
+ - [https://www.neowin.net/deals/playstation-5-digital-edition-slim-is-now-available-for-399](https://www.neowin.net/deals/playstation-5-digital-edition-slim-is-now-available-for-399)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T09:28:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716973652_playstation_5_slim_medium.jpg" /></div>PlayStation 5 Slim Digital Edition, Sony&#039;s most affordable variant of the current-generation console, is now available on Amazon with a $50 discount. You can now get it for only $399. <a href="https://www.neowin.net/deals/playstation-5-digital-edition-slim-is-now-available-for-399/">Read more...</a>
+
+## Microsoft removes AC-3 Dolby Digital codec from Windows 11 24H2
+ - [https://www.neowin.net/news/microsoft-removes-ac-3-dolby-digital-codec-from-windows-11-24h2](https://www.neowin.net/news/microsoft-removes-ac-3-dolby-digital-codec-from-windows-11-24h2)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T09:12:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1715260473_1_medium.jpg" /></div>Microsoft published a new support page with details about codec support in the Windows Media Player app. As it turns out, the company is removing AC-3 Dolby Digital support in Windows 11 version 24H2. <a href="https://www.neowin.net/news/microsoft-removes-ac-3-dolby-digital-codec-from-windows-11-24h2/">Read more...</a>
+
+## Edge 126.0.2592.11 released to Dev Channel with new OTP feature
+ - [https://www.neowin.net/news/edge-1260259211-released-to-dev-channel-with-new-otp-feature](https://www.neowin.net/news/edge-1260259211-released-to-dev-channel-with-new-otp-feature)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T07:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1714813097_edge_126_dev_medium.jpg" /></div>Microsoft has released a new weekly update for its browser in the Dev Channel. Version 126.0.2592.11 is now available with a new OTP feature, improved reliability, and accessibility improvements. <a href="https://www.neowin.net/news/edge-1260259211-released-to-dev-channel-with-new-otp-feature/">Read more...</a>
+
+## Internet Archive is continuing to face DDoS attacks after several days
+ - [https://www.neowin.net/news/internet-archive-is-continuing-to-face-ddos-attacks-after-several-days](https://www.neowin.net/news/internet-archive-is-continuing-to-face-ddos-attacks-after-several-days)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T06:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716964664_internet_archive_homepage_medium.jpg" /></div>Internet Archive and Wayback Machine have been facing DDoS cyberattacks for the last few days. The non-profit assured that collections are safe despite the service being inconsistent since Sunday. <a href="https://www.neowin.net/news/internet-archive-is-continuing-to-face-ddos-attacks-after-several-days/">Read more...</a>
+
+## Previous OpenAI board was not notified about ChatGPT launch in 2022, says former member
+ - [https://www.neowin.net/news/previous-openai-board-was-not-notified-about-chatgpt-launch-in-2022-says-former-member](https://www.neowin.net/news/previous-openai-board-was-not-notified-about-chatgpt-launch-in-2022-says-former-member)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T06:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716016345_depositphotos_640750110_s1_medium.jpg" /></div>Helen Toner, one of the board members that tried to overthrow Sam Altman as head of OpenAI, has said the board wasn&#039;t given advance notice of the launch of ChatGPT back in November 2022. <a href="https://www.neowin.net/news/previous-openai-board-was-not-notified-about-chatgpt-launch-in-2022-says-former-member/">Read more...</a>
+
+## Samsung keeps us confused, the Galaxy Watch 'Ultra' moniker revealed in TDRA certification
+ - [https://www.neowin.net/news/samsung-keeps-us-confused-the-galaxy-watch-ultra-moniker-revealed-in-tdra-certification](https://www.neowin.net/news/samsung-keeps-us-confused-the-galaxy-watch-ultra-moniker-revealed-in-tdra-certification)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T05:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716617056_galaxy-watch-7-ultra-3-scaled_medium.jpg" /></div>It seems like Samsung has gone ahead with the Galaxy Watch Ultra moniker for its next WearOS beast and the Galaxy Watch X name was just a straight-up rumor as per the latest TDRA certification. <a href="https://www.neowin.net/news/samsung-keeps-us-confused-the-galaxy-watch-ultra-moniker-revealed-in-tdra-certification/">Read more...</a>
+
+## Latest FCC listing reveals the Galaxy Z Flip6 would be just another incremental upgrade
+ - [https://www.neowin.net/news/latest-fcc-listing-reveals-the-galaxy-z-flip6-would-be-just-another-incremental-upgrade](https://www.neowin.net/news/latest-fcc-listing-reveals-the-galaxy-z-flip6-would-be-just-another-incremental-upgrade)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T05:06:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713592986_galaxy-z-flip-5_medium.jpg" /></div>After months of leaks and rumors, the Galaxy Z Flip6 was spotted on the FCC listings revealing the battery details of the device, and by the looks of it, the phone is just another incremental upgrade. <a href="https://www.neowin.net/news/latest-fcc-listing-reveals-the-galaxy-z-flip6-would-be-just-another-incremental-upgrade/">Read more...</a>
+
+## Apple shortlists what it thinks are some of the best apps and games for 2024
+ - [https://www.neowin.net/news/apple-shortlists-what-it-thinks-are-some-of-the-best-apps-and-games-for-2024](https://www.neowin.net/news/apple-shortlists-what-it-thinks-are-some-of-the-best-apps-and-games-for-2024)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T04:50:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716957566_apple_design_awards_finalists_2024_medium.jpg" /></div>Apple has announced the list of apps and games eligible for its Apple Design Awards in 2024. The winners from the list of finalists will be picked next month at the World Wide Developer Conference. <a href="https://www.neowin.net/news/apple-shortlists-what-it-thinks-are-some-of-the-best-apps-and-games-for-2024/">Read more...</a>
+
+## Apple Vision Pro gets 'Vacation Simulator' and 'Job Simulator' VR games
+ - [https://www.neowin.net/news/apple-vision-pro-gets-vacation-simulator-and-job-simulator-vr-games](https://www.neowin.net/news/apple-vision-pro-gets-vacation-simulator-and-job-simulator-vr-games)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T03:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716952670_apple_vision_pro_job_simulator_vacation_simulator_medium.jpg" /></div>Apple Vision Pro users can now play Job Simulator and Vacation Simulator VR games on their headsets. These titles are available for purchase on the App Store, with updated hand-tracking support. <a href="https://www.neowin.net/news/apple-vision-pro-gets-vacation-simulator-and-job-simulator-vr-games/">Read more...</a>
+
+## YouTube Playables video games launch for everyone across Android, iOS, and Web
+ - [https://www.neowin.net/news/youtube-playables-video-games-launch-for-everyone-across-android-ios-and-web](https://www.neowin.net/news/youtube-playables-video-games-launch-for-everyone-across-android-ios-and-web)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-05-29T02:14:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716947586_youtube_playables_catalog_medium.jpg" /></div>YouTube&#039;s Playables free video games are now rolling out to everyone on Android, iOS, and desktop. The feature that lets you play games on YouTube was available as an experiment for Premium users. <a href="https://www.neowin.net/news/youtube-playables-video-games-launch-for-everyone-across-android-ios-and-web/">Read more...</a>
+
