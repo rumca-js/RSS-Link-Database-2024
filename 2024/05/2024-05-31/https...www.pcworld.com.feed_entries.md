@@ -1,0 +1,327 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## Best VPN for streaming Netflix 2024: Watch from wherever you are
+ - [https://www.pcworld.com/article/618517/best-vpn-for-streaming-netflix.html](https://www.pcworld.com/article/618517/best-vpn-for-streaming-netflix.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T18:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>VPNs aren&rsquo;t just useful for keeping your online activities private and safe, they&rsquo;re also a great way to bypass restrictions on streaming content in different countries. The top VPN providers are winning out in the cat-and-mouse game with streaming services to make sure you always have access to your favorite content no matter where you are.</p>
+
+
+
+<p>Given the restrictions that services such as Netflix put in place against VPNs, you need to choose a service that has active compatibility with that streaming site. It&rsquo;s also a good idea to choose a VPN with generous overall server spread so that if one server is down in the country you are trying to access, there are other options available. The PCWorld staff have thoroughly tested the top VPNs on the market to see how they fare at unblocking the top streaming sites and we&rsquo;ve curated our fav
+
+## CPU Showdown: Snapdragon X vs. Intel Core vs. Apple M3
+ - [https://www.pcworld.com/article/2353006/cpu-showdown-snapdragon-x-vs-intel-core-vs-apple-m3.html](https://www.pcworld.com/article/2353006/cpu-showdown-snapdragon-x-vs-intel-core-vs-apple-m3.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T18:21:26+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>By now you&rsquo;ve probably heard that Qualcomm is pushing hard to get its Arm-based processors into Windows machines, <a href="https://www.pcworld.com/article/2336210/microsoft-launches-surface-pro-10-surface-laptop-6-with-ai-power.html">including the new Surface devices</a> revealed in May.</p>
+
+
+
+<p>Without getting them into our lab, we don&rsquo;t know if all those performance boasts actually hold water. Fortunately, Gordon got ahold of some hard data and covered it in the latest PCWorld YouTube video below.</p>
+
+
+
+<p>Sponsored analyst firm Signal65 has some relevant benchmarks of the new Surface Laptop with a Snapdragon X Elite processor. They compared it to a Surface Laptop 5 rocking an Intel 12th Gen laptop CPU, the newer Intel Core Ultra 7 Meteor Lake in an MSI Prestige, Apple&rsquo;s newest M3-equipped MacBook Air (also an Arm processor), and an older S
+
+## Anker’s uber-compact power strip is worth it for a limited-time $15
+ - [https://www.pcworld.com/article/2352053/ankers-uber-compact-power-strip-is-worth-it-for-a-limited-time-15.html](https://www.pcworld.com/article/2352053/ankers-uber-compact-power-strip-is-worth-it-for-a-limited-time-15.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T15:52:20+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>I have way too many devices that need to stay plugged in &mdash; and I&rsquo;m sure you do, too. From your laptop to your extra monitors, from your phone to your router, they all need to get juice somehow.</p>
+
+
+
+<p>The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Anker-Outlets-Charging-Extension-Delivery/dp/B09PGZHCXR&amp;xcust=2-1-2352053-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Anker 321 Power Strip</a> is a fantastic gadget that doesn&rsquo;t just keep your devices powered but keeps your desk clutter-free. It&rsquo;s currently available for $15, down from its usual $26.</p>
+
+
+
+<p>This compact power strip is less of a &ldquo;strip&rdquo; and actually a cube, and it&rsquo;s perfect for when you need to efficiently plug in multiple monitors and devices without taking up too much space.</p>
+
+
+
+<p>The A
+
+## Get Anker’s uber-compact power strip cube for just $15
+ - [https://www.pcworld.com/article/2352053/ankers-uber-compact-power-strip-cube-15.html](https://www.pcworld.com/article/2352053/ankers-uber-compact-power-strip-cube-15.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T15:52:20+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>I have way too many devices that need to stay plugged in &mdash; and I&rsquo;m sure you do, too. From your laptop to your extra monitors, from your phone to your router, they all need to get juice somehow.</p>
+
+
+
+<p>The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Anker-Outlets-Charging-Extension-Delivery/dp/B09PGZHCXR&amp;xcust=2-1-2352053-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Anker 321 Power Strip</a> is a fantastic gadget that doesn&rsquo;t just keep your devices powered but keeps your desk clutter-free. It&rsquo;s currently available for $15, down from its usual $26.</p>
+
+
+
+<p>This compact power strip is less of a &ldquo;strip&rdquo; and actually a cube, and it&rsquo;s perfect for when you need to efficiently plug in multiple monitors and devices without taking up too much space.</p>
+
+
+
+<p>The A
+
+## Dazzle your guests with these RGB pathway lights, now 35% off
+ - [https://www.pcworld.com/article/2352117/dazzle-your-guests-with-these-rgb-pathway-lights-now-35-off.html](https://www.pcworld.com/article/2352117/dazzle-your-guests-with-these-rgb-pathway-lights-now-35-off.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T15:07:31+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Feel like your patio or backyard could use some pizzazz? Want to transform your outdoor space with lights that&rsquo;ll impress your guests? Govee&rsquo;s Outdoor Pathway Lights will do just that.</p>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Govee-Halloween-Decoration-Aluminum-Landscape/dp/B0BXL71S8S&amp;xcust=2-1-2352117-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Now available for $110</a> &mdash; that&rsquo;s 35% off of its normal price of $170 &mdash; these smart outdoor lights have never been cheaper. This is the perfect chance to infuse your outdoor space with RGB magic.</p>
+
+
+
+<p>The Govee Outdoor Pathway Lights bring a cool and modern touch to your home, providing ambient atmosphere in whatever colors you want. Its color temperatures range from 2000K to 6500K, allowing you to create the 
+
+## Follow PCWorld on our trip to Computex!
+ - [https://www.pcworld.com/article/2350183/follow-pcworld-on-our-trip-to-computex.html](https://www.pcworld.com/article/2350183/follow-pcworld-on-our-trip-to-computex.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T15:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The Computex trade show starts in Taipei next week, and it&rsquo;s kind of a big deal. While CES tends to get headlines for general tech, Computex is where manufacturers pull out all the stops for desktops, laptops, and all the PC stuff that goes along with them. And we&rsquo;re going there, of course. Wanna come along? You can, by following PCWorld&rsquo;s social media accounts. </p>
+
+
+
+<p>For instant, easy-to-snack-on coverage of the coolest stuff at Computex, you can check out our short-form videos on <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.tiktok.com/@pcworld.com&amp;xcust=2-1-2350183-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">TikTok</a>. These shorts will give you bite-sized info on the coolest stuff at Computex, from the biggest names to the smallest niches. </p>
+
+
+<div class="extendedBlock-wrapper block
+
+## Why don’t some esports mice have DPI switchers on top?
+ - [https://www.pcworld.com/article/2340748/why-dont-some-esports-mice-have-dpi-switchers-on-top.html](https://www.pcworld.com/article/2340748/why-dont-some-esports-mice-have-dpi-switchers-on-top.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>We&rsquo;re spoiled for choice now with gaming mice. Some just hit ridiculous heights in performance &mdash; mice like the <a href="https://www.pcworld.com/article/2256940/logitech-g-pro-x-superlight-2-review.html">Logitech G Pro X Superlight 2</a> and <a href="https://www.pcworld.com/article/1663595/razer-deathadder-v3-pro-gaming-mouse-review.html">Razer DeathAdder V3 Pro</a>, for example, are just two that come to mind.</p>
+
+
+
+<p>Yet these mice are missing something that I would have thought was essential for pro gamers &mdash; a dedicated DPI switcher button. So, what&rsquo;s the story? Why do these mice adopt such a minimalist design, free of the old DPI switcheroo?</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading:</strong> <a href="https://www.pcworld.com/article/452384/best-gaming-mice.html">The best gaming mice</a></p>
+</blockquote>
+
+
+
+
+## Half-billion Ticketmaster customer accounts breached, hackers claim
+ - [https://www.pcworld.com/article/2352660/huge-data-leak-at-ticketmaster-560-million-account-details-for-sale-online.html](https://www.pcworld.com/article/2352660/huge-data-leak-at-ticketmaster-560-million-account-details-for-sale-online.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T14:23:42+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Just a few weeks after an extensive attack on Eventim, another report of stolen accounts on a ticket site has emerged.</p>
+
+
+
+<p>As <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.bleepingcomputer.com/news/security/data-of-560-million-ticketmaster-customers-for-sale-after-alleged-breach/&amp;xcust=2-1-2352660-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Bleepingcomputer reports</a>, there&rsquo;s been a huge data leak at Ticketmaster and now millions of customers are at risk of their personal data being sold illegally online.</p>
+
+
+
+<p>According to the report, a hacker known as ShinyHunters has put up the personal and financial information of a total of 560 million Ticketmaster customers for sale on the hacker forum BreachForums &mdash; and he&rsquo;s asking $500,000 USD for it.</p>
+
+
+
+<p>The data reportedly includes fu
+
+## Massive multiplayer medieval melee brawler Chivalry 2 is free on Epic
+ - [https://www.pcworld.com/article/2352632/chivalry-2-is-the-free-game-of-the-week-on-epic-games-store.html](https://www.pcworld.com/article/2352632/chivalry-2-is-the-free-game-of-the-week-on-epic-games-store.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T13:59:46+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you have an account on the Epic Games Store, you can download <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://store.epicgames.com/en-US/p/chivalry-2&amp;xcust=2-1-2352632-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Chivalry 2</a> for free until June 6. The regular price is $40, and it&rsquo;s worth every penny. Getting it for free is an amazing opportunity. Available DLC is also on a deep sale right now.</p>
+
+
+
+<p>Chivalry 2 is a hack-and-slash game from 2021 where you fight massive medieval battles on foot or from the back of a horse, with a wide variety of period-appropriate weaponry likes swords, bows, maces, spears, and more. It&rsquo;s an absolute chaotic blast, especially when two opposing forces clash and arrows start raining down overhead. </p>
+
+
+
+<p>Here&rsquo;s the trailer, which can only hint at the anarchy:<
+
+## Surprise Windows 11 update drops with helpful goodies galore
+ - [https://www.pcworld.com/article/2352604/windows-11-surprise-update-provides-many-new-functions.html](https://www.pcworld.com/article/2352604/windows-11-surprise-update-provides-many-new-functions.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T13:59:41+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>On May 29, Microsoft began rolling out an unscheduled update for Windows 11. Patch KB5037853 is currently still optional, but the changes are expected to be applied to everyone during June&rsquo;s Patch Tuesday.</p>
+
+
+
+<p>The new features in Windows 11&rsquo;s patch KB5037853 include:</p>
+
+
+
+<ul>
+<li>Account management improvements</li>
+
+
+
+<li>Sharing updates</li>
+
+
+
+<li>Personalization options</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="whats-changing-in-windows-11-account-management">What&rsquo;s changing in Windows 11 account management</h2>
+
+
+
+<p>Windows 11 now provides a page called &ldquo;Add linked devices&rdquo; in the settings under Accounts. There you can see and manage all PCs and Xbox consoles that are linked to the system.</p>
+
+
+
+<p>However, this option is only available for the Home and Pro editions if you sign in to Windows with your Microsoft a
+
+## Acer’s portable TravelMate laptops get the AI treatment
+ - [https://www.pcworld.com/article/2351582/acers-travelmate-laptops-get-intel-core-ultra-cpus-and-ai-features.html](https://www.pcworld.com/article/2351582/acers-travelmate-laptops-get-intel-core-ultra-cpus-and-ai-features.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T13:18:53+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Acer has unveiled their new TravelMate laptops mere days ahead of Computex. These business laptops are traditionally known for their slim form factor and long battery life. In fact, the 2023 version of the <a href="https://www.pcworld.com/article/2306037/acer-travelmate-p6-review.html">TravelMate P6</a> nabbed a top spot on our <a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html">best laptops roundup</a>, earning the title of &ldquo;Best Ultraportable.&rdquo;</p>
+
+
+
+<p>The new models announced today come loaded with more power-efficient Intel Core Ultra CPUs as well as useful AI capabilities. There&rsquo;s also a 2-in-1 version and a clamshell with a bigger 16-inch display, and they all use recycled materials in both design and packaging. Heck yeah.</p>
+
+
+
+<h2 class="wp-block-heading" id="configurations-hardware-and-availability">
+
+## Hands-on: World of Warcraft: The War Within is a solo-friendly action epic
+ - [https://www.pcworld.com/article/2349870/world-of-warcraft-the-war-within-die-mmo-revolution-2024.html](https://www.pcworld.com/article/2349870/world-of-warcraft-the-war-within-die-mmo-revolution-2024.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The Nerubian army floods the beach of Tranquill in the first minutes of <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://thewarwithin.blizzard.com/&amp;xcust=2-1-2349870-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">World of Warcraft: The War Within</a>. Thousands of magical projectiles whizz across the horizon, arachnoid infantry hack the armor of our troops to pieces. </p>
+
+
+
+<p>As Orc Warlocks, we throw ourselves into battle, a water spirit at our side pushing back the enemy troops, but General Thrall can barely hold the line.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large wp-lightbox-container"><img alt="Das Intro zu The War Within ist direkt eine stark inszenierte Invasion am Strand, die dann in eine Belagerungsschlacht rund um eine Zwergenfestung f&uuml;hrt." 
+
+## Teamgroup PD20M portable SSD review: Fast for light duties only
+ - [https://www.pcworld.com/article/2337914/teamgroup-pd20m-ssd-review.html](https://www.pcworld.com/article/2337914/teamgroup-pd20m-ssd-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Great 20Gbps read performance</li><li>Handy form factor with travel case</li><li>Weighs only slightly over an ounce</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Slows drastically when writing over 20GB of data</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">For light duty, the 20Gbps Teamgroup PD20M SSD will get the job done. But slow write performance with larger data sets means pros should 
+
+## Why gaming laptops excel at creative work, not just playing games
+ - [https://www.pcworld.com/article/2323389/are-gaming-laptops-a-good-choice-for-video-editing-and-graphic-design.html](https://www.pcworld.com/article/2323389/are-gaming-laptops-a-good-choice-for-video-editing-and-graphic-design.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you walk in on a team of graphic designers, you may be believe you&rsquo;ve just stumbled into a PC gaming tournament. To power 3D intensive applications, many of those users seek out powerful gaming laptops. They can carry them to the field as a bonus, with or without the RGB.</p>
+
+
+
+<p>Video editors are similarly enticed by gaming laptops. They&rsquo;re often right behind gamers in the queue when a new model sees light of day. Bleeding-edge hardware and new screen technology constantly ups the ante for these users who depend on the best.</p>
+
+
+
+<p>Are gaming laptops a good choice for a budding video editor or graphic designer? We&rsquo;ll go over the hardware typically required, the all-important screen, and the drawbacks you will be dealing with by going this route.</p>
+
+
+
+<p><strong>Further reading:</strong> <a href="https://www.pcworld.com/article/407493/
+
+## Our top coding bundle is just $40 now
+ - [https://www.pcworld.com/article/2352000/our-top-coding-bundle-is-just-40-now.html](https://www.pcworld.com/article/2352000/our-top-coding-bundle-is-just-40-now.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-05-31T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Learning to code is an incredibly valuable step in the information age. And doing so is easier (and more affordable) than ever thanks to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/the-2024-premium-learn-to-code-certification-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-2024-premium-learn-to-code-certification-bundle&amp;utm_term=scsf-597772&amp;utm_content=a0xRn000001IbVBIA0&amp;scsonar=1&amp;xcust=2-1-2352000-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">The 2024 Premium Learn to Code Certification Bundle</a>. This best-selling coding bundle is on sale for a limited time for just $39.97.</p>
+
+
+
+<p>This 15-course bundle includes more than 200 hours of course material, covering the absolute basics of coding to more advanced subjects. You&rsquo;ll delve 
+

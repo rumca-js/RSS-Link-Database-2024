@@ -1,0 +1,37 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## Seattle federal jury says Boeing should pay $72M to Zunum Aero in trade secrets case
+ - [https://www.geekwire.com/2024/jury-boeing-72m-zunum-aero-trade-secrets](https://www.geekwire.com/2024/jury-boeing-72m-zunum-aero-trade-secrets)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-31T21:09:55+00:00
+
+<img alt="Zunum Aero airplanes flying over Seattle" class="webfeedsFeaturedVisual wp-post-image" height="575" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/240531-zunum-1260x575.jpg" width="1260" /><br />A federal jury in Seattle says Boeing owes an unsuccessful electric-aviation startup called Zunum Aero $72 million for misappropriating trade secrets and interfering with its business plans. Some of that amount could be tripled if the judge determines that the misappropriation was willful and malicious. “Zunum Aero’s founders and other shareholders are pleased that the company had the opportunity to prove its case, and that the jury agreed,&#8221; Scott Danner of the law firm Holwell Shuster &#38; Goldberg, lead counsel for Zunum, said in a statement. &#8220;After years of fighting, the jury’s verdict is a tremendous vindication.” Boeing said it&#8230; <a href="https://www.geekwire.com/2024/jury-boeing-72m-zunum-aero-trade-secrets/">Read More</a>
+
+## Seattle scraps plans for controversial gunshot detection tech as it explores ways to curb crime
+ - [https://www.geekwire.com/2024/seattle-scraps-plans-for-controversial-gunshot-detection-tech-as-it-explores-ways-to-curb-crime](https://www.geekwire.com/2024/seattle-scraps-plans-for-controversial-gunshot-detection-tech-as-it-explores-ways-to-curb-crime)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-31T20:18:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2023/09/seattleskyline-1260x945.jpeg" width="1260" /><br />The City of Seattle won&#8217;t test a controversial gunshot detection technology system after all. Mayor Bruce Harrell on Friday announced next steps for the city&#8217;s Crime Prevention Technology pilot project — which will no longer include the gunshot tech rollout. It will, however, include the installation of closed-circuit television (CCTV) cameras in three neighborhoods with higher crime rates, as well as the use of &#8220;real-time crime center&#8221; software that can integrate multiple data sources to help with investigations. The mayor&#8217;s announcement didn&#8217;t provide specifics as to why the gunshot detection product was not selected, but implied that it didn&#8217;t fit&#8230; <a href="https://www.geekwire.com/2024/seattle-scraps-plans-for-controversial-gunshot-detection-tech-as-it-explor
+
+## Amazon shutting down warehouse near Seattle, will offer new roles to employees
+ - [https://www.geekwire.com/2024/amazon-shutting-down-warehouse-near-seattle-will-offer-new-roles-to-employees](https://www.geekwire.com/2024/amazon-shutting-down-warehouse-near-seattle-will-offer-new-roles-to-employees)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-31T17:39:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2020/04/20161128_Amazon_Fulfillment_center_144-1260x840.jpg" width="1260" /><br />Amazon is closing a warehouse in Tukwila, Wash., just south of Seattle. The company confirmed the closure after we spotted a new filing with the state Worker Adjustment and Retraining Notification (WARN) system, noting a layoff of 172 employees at the facility, known as UWA5. Amazon spokesperson Sam Stephenson said employees will be offered opportunities to transfer to other facilities nearby, or &#8220;support if they choose not to stay with Amazon.&#8221; &#8220;We’re always evaluating our network to make sure it fits our business needs and to improve the experience for our employees, customers, partners, and drivers,&#8221; Stephenson said in a&#8230; <a href="https://www.geekwire.com/2024/amazon-shutting-down-warehouse-near-seattle-will-offer-new-roles-to-employees/">Read More</a>
+
+## Amazon’s departing cloud chief: Gen AI can be ‘one of the biggest opportunities AWS has ever seen’
+ - [https://www.geekwire.com/2024/amazons-departing-cloud-chief-gen-ai-can-be-one-of-the-biggest-opportunities-aws-has-ever-seen](https://www.geekwire.com/2024/amazons-departing-cloud-chief-gen-ai-can-be-one-of-the-biggest-opportunities-aws-has-ever-seen)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-31T16:39:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="841" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/selipsky-fixed-1260x841.png" width="1260" /><br />Three years after returning to Amazon Web Services to lead the cloud giant through one of the most challenging and prosperous periods in its history, Adam Selipsky fielded questions this week about his tenure as AWS CEO, the state of competition in the cloud, and what&#8217;s next for himself and the company. In an interview with GeekWire at Amazon&#8217;s re:Invent building in Seattle, in his final days as the tech giant&#8217;s top cloud executive, Selipsky took issue with the popular narrative that AWS under his leadership was caught off-guard by the rapid rise of generative artificial intelligence. &#8220;I think that&#8230; <a href="https://www.geekwire.com/2024/amazons-departing-cloud-chief-gen-ai-can-be-one-of-the-biggest-opportunities-aws-has-ever-seen/">Read More</a>
+
+## Adam Selipsky, the exit interview: Amazon Web Services CEO on AI, competition, and the future
+ - [https://www.geekwire.com/2024/adam-selipsky-the-exit-interview-amazon-web-services-ceo-on-ai-competition-and-the-future](https://www.geekwire.com/2024/adam-selipsky-the-exit-interview-amazon-web-services-ceo-on-ai-competition-and-the-future)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-05-31T16:38:39+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="841" src="https://cdn.geekwire.com/wp-content/uploads/2024/05/selipsky-2-fixed-1260x841.png" width="1260" /><br />Adam Selipsky spoke with GeekWire this week at Amazon Web Services headquarters in Seattle in an interview prior to his departure as AWS CEO. His final day in the role is today, before handing the reins to longtime AWS exec Matt Garman. Read our overview here, and continue reading for excerpts, edited for context and clarity. Q: Reading back through your memo to the team about your departure, the phrase that you used was &#8220;truly mixed emotions.&#8221; Can you walk me through where you are, and your mindset about leaving? Selipsky: Well, the mixed emotions come from the fact that&#8230; <a href="https://www.geekwire.com/2024/adam-selipsky-the-exit-interview-amazon-web-services-ceo-on-ai-competition-and-the-future/">Read More</a>
+

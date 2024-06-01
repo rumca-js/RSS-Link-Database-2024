@@ -1,0 +1,359 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Trump classified documents judge target of more than 1,000 complaints, appeals court reveals
+ - [https://www.reddit.com/r/politics/comments/1d57pmb/trump_classified_documents_judge_target_of_more](https://www.reddit.com/r/politics/comments/1d57pmb/trump_classified_documents_judge_target_of_more)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T22:13:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d57pmb/trump_classified_documents_judge_target_of_more/"> <img alt="Trump classified documents judge target of more than 1,000 complaints, appeals court reveals" src="https://external-preview.redd.it/8t0-rNGJq4AhHZbKbb0Eo4M1jnljfHlKllSMxz_0D78.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a7bcb29a37cff1fd903561646f323bc18baa9a7c" title="Trump classified documents judge target of more than 1,000 complaints, appeals court reveals" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.cnbc.com/2024/05/31/trump-classified-documents-aileen-cannon-complaints.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d57pmb/trump_classified_documents_judge_target_of_more/">[comments]</a></span> </td></tr></table>
+
+## Trump supporters try to doxx jurors and post violent threats after his conviction
+ - [https://www.reddit.com/r/politics/comments/1d571o1/trump_supporters_try_to_doxx_jurors_and_post](https://www.reddit.com/r/politics/comments/1d571o1/trump_supporters_try_to_doxx_jurors_and_post)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T21:43:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d571o1/trump_supporters_try_to_doxx_jurors_and_post/"> <img alt="Trump supporters try to doxx jurors and post violent threats after his conviction" src="https://external-preview.redd.it/BKeN7DY-sD0usxlJw37olaNKRPmSTFUd7Z2ihVU707g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=611a240f1a7cb959cb16db2d88250bd68ec670c5" title="Trump supporters try to doxx jurors and post violent threats after his conviction" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rock-n-roll-Kevin"> /u/Rock-n-roll-Kevin </a> <br /> <span><a href="https://www.nbcnews.com/politics/donald-trump/trump-supporters-try-doxx-jurors-violent-threats-conviction-rcna154882">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d571o1/trump_supporters_try_to_doxx_jurors_and_post/">[comments]</a></span> </td></tr></table>
+
+## DC attorney discipline board recommends Rudy Giuliani be disbarred for bogus 2020 election fraud claim
+ - [https://www.reddit.com/r/politics/comments/1d552ki/dc_attorney_discipline_board_recommends_rudy](https://www.reddit.com/r/politics/comments/1d552ki/dc_attorney_discipline_board_recommends_rudy)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T20:16:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d552ki/dc_attorney_discipline_board_recommends_rudy/"> <img alt="DC attorney discipline board recommends Rudy Giuliani be disbarred for bogus 2020 election fraud claim" src="https://external-preview.redd.it/F10lY3hukr1Xk9RWP-XU7ZeAxotvfuHxMyyjLqLSe5s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d9c2240e5bb2c3b57171dd98bdd8897b8548dfa" title="DC attorney discipline board recommends Rudy Giuliani be disbarred for bogus 2020 election fraud claim" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DCC_4LIFE"> /u/DCC_4LIFE </a> <br /> <span><a href="https://www.cnn.com/2024/05/31/politics/rudy-giuliani-election-fraud-disbarment/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d552ki/dc_attorney_discipline_board_recommends_rudy/">[comments]</a></span> </td></tr></table>
+
+## The Alito Scandal Is Worse Than It Seems
+ - [https://www.reddit.com/r/politics/comments/1d54spf/the_alito_scandal_is_worse_than_it_seems](https://www.reddit.com/r/politics/comments/1d54spf/the_alito_scandal_is_worse_than_it_seems)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T20:04:19+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/marji80"> /u/marji80 </a> <br /> <span><a href="https://www.politico.com/news/magazine/2024/05/30/alito-scotus-flag-00160450">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d54spf/the_alito_scandal_is_worse_than_it_seems/">[comments]</a></span>
+
+## Democratic attorneys general call for federal probe of Greg Abbott pardon
+ - [https://www.reddit.com/r/politics/comments/1d54o1m/democratic_attorneys_general_call_for_federal](https://www.reddit.com/r/politics/comments/1d54o1m/democratic_attorneys_general_call_for_federal)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T19:59:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d54o1m/democratic_attorneys_general_call_for_federal/"> <img alt="Democratic attorneys general call for federal probe of Greg Abbott pardon" src="https://external-preview.redd.it/O1j3UpvmXHS8mgd1E71oKx3zfv2hgsQZYNSzIsa8BjY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=20c1e3c84ff01b0121985e38920ea40a18a9ffaa" title="Democratic attorneys general call for federal probe of Greg Abbott pardon" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrondotcom"> /u/chrondotcom </a> <br /> <span><a href="https://www.chron.com/news/article/new-york-ag-daniel-perry-19488613.php">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d54o1m/democratic_attorneys_general_call_for_federal/">[comments]</a></span> </td></tr></table>
+
+## The Revisionist History of the Trump Trial Has Already Begun
+ - [https://www.reddit.com/r/politics/comments/1d547we/the_revisionist_history_of_the_trump_trial_has](https://www.reddit.com/r/politics/comments/1d547we/the_revisionist_history_of_the_trump_trial_has)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T19:39:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d547we/the_revisionist_history_of_the_trump_trial_has/"> <img alt="The Revisionist History of the Trump Trial Has Already Begun" src="https://external-preview.redd.it/ogHg2q9sAea4Fo-uzvhAqGSx5ncyVvWcSbkYYCeqyDE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d68ab0538469509f7966bfd9b49867a266e21da" title="The Revisionist History of the Trump Trial Has Already Begun" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.newyorker.com/news/letter-from-bidens-washington/the-revisionist-history-of-the-trump-trial-has-already-begun">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d547we/the_revisionist_history_of_the_trump_trial_has/">[comments]</a></span> </td></tr></table>
+
+## Spineless Trump Admits Why He Was Too Afraid to Testify
+ - [https://www.reddit.com/r/politics/comments/1d536gg/spineless_trump_admits_why_he_was_too_afraid_to](https://www.reddit.com/r/politics/comments/1d536gg/spineless_trump_admits_why_he_was_too_afraid_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T18:55:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d536gg/spineless_trump_admits_why_he_was_too_afraid_to/"> <img alt="Spineless Trump Admits Why He Was Too Afraid to Testify" src="https://external-preview.redd.it/SbM-ECebBO2Fy8Ns5wARTLqa1N84UlzvRSqx7-43MOE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b3052ca164aa1d997a39578d2ecb5f7b964d487" title="Spineless Trump Admits Why He Was Too Afraid to Testify" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenewrepublic"> /u/thenewrepublic </a> <br /> <span><a href="https://newrepublic.com/post/182138/trump-admits-afraid-testify-hush-money-trial">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d536gg/spineless_trump_admits_why_he_was_too_afraid_to/">[comments]</a></span> </td></tr></table>
+
+## Biden announces Israel has offered a three-part proposal to end the war in Gaza
+ - [https://www.reddit.com/r/politics/comments/1d52c32/biden_announces_israel_has_offered_a_threepart](https://www.reddit.com/r/politics/comments/1d52c32/biden_announces_israel_has_offered_a_threepart)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T18:18:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d52c32/biden_announces_israel_has_offered_a_threepart/"> <img alt="Biden announces Israel has offered a three-part proposal to end the war in Gaza" src="https://external-preview.redd.it/WRhHbv4WxBlpLpOLY4dO6YIMp5Pi-RIGKv0N65SRcDQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9b297307f4a05e9adf903f53d60879a99bdf8fc" title="Biden announces Israel has offered a three-part proposal to end the war in Gaza" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.nbcnews.com/politics/white-house/biden-gaza-israel-plan-end-war-cease-fire-hostages-rcna154945">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d52c32/biden_announces_israel_has_offered_a_threepart/">[comments]</a></span> </td></tr></table>
+
+## Manchin Finally Leaves Democratic Party, Reveals Who He Was All Along - After a long career in screwing over Democrats, Joe Manchin has left the party at last.
+ - [https://www.reddit.com/r/politics/comments/1d52bbo/manchin_finally_leaves_democratic_party_reveals](https://www.reddit.com/r/politics/comments/1d52bbo/manchin_finally_leaves_democratic_party_reveals)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T18:17:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d52bbo/manchin_finally_leaves_democratic_party_reveals/"> <img alt="Manchin Finally Leaves Democratic Party, Reveals Who He Was All Along - After a long career in screwing over Democrats, Joe Manchin has left the party at last." src="https://external-preview.redd.it/KWAuCYAgrFsine2EYuHp7iEfhuL9LvbEZJBEhQlNk5s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40104c62500e58c67636e60b8926236ed700bc40" title="Manchin Finally Leaves Democratic Party, Reveals Who He Was All Along - After a long career in screwing over Democrats, Joe Manchin has left the party at last." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://newrepublic.com/post/182133/joe-manchin-independent">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d52bbo/manchin_finally_leaves_democratic_party_reveals/">[comments]</a></span> </td></t
+
+## Speaker Mike Johnson urges Supreme Court to "step in" on Trump verdict
+ - [https://www.reddit.com/r/politics/comments/1d52acn/speaker_mike_johnson_urges_supreme_court_to_step](https://www.reddit.com/r/politics/comments/1d52acn/speaker_mike_johnson_urges_supreme_court_to_step)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T18:16:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d52acn/speaker_mike_johnson_urges_supreme_court_to_step/"> <img alt="Speaker Mike Johnson urges Supreme Court to &quot;step in&quot; on Trump verdict" src="https://external-preview.redd.it/kwmrPjWWh2-Zq9J0vA0pDEQ4iTAlO-KhZ4N01pAVdXM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0306e9d371b098f71e65d8786b814e75cac7bf0f" title="Speaker Mike Johnson urges Supreme Court to &quot;step in&quot; on Trump verdict" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marji80"> /u/marji80 </a> <br /> <span><a href="https://www.axios.com/2024/05/31/mike-johnson-trump-supreme-court">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d52acn/speaker_mike_johnson_urges_supreme_court_to_step/">[comments]</a></span> </td></tr></table>
+
+## Biden breaks silence on Trump verdict: ‘No one is above the law’
+ - [https://www.reddit.com/r/politics/comments/1d525vp/biden_breaks_silence_on_trump_verdict_no_one_is](https://www.reddit.com/r/politics/comments/1d525vp/biden_breaks_silence_on_trump_verdict_no_one_is)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T18:11:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d525vp/biden_breaks_silence_on_trump_verdict_no_one_is/"> <img alt="Biden breaks silence on Trump verdict: ‘No one is above the law’" src="https://external-preview.redd.it/rcHzpzF4Z8E37OCdn5BvNwJ1oribNDHkLs6PrOb3mtM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6362bef6088c4dc1d0127b40d0245f44c67f0506" title="Biden breaks silence on Trump verdict: ‘No one is above the law’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/semafornews"> /u/semafornews </a> <br /> <span><a href="https://www.semafor.com/article/05/31/2024/biden-breaks-silence-on-trump-verdict-no-one-is-above-the-law?utm_campaign=semaforreddit">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d525vp/biden_breaks_silence_on_trump_verdict_no_one_is/">[comments]</a></span> </td></tr></table>
+
+## Biden calls Trump ‘reckless’ for attacking the criminal justice system
+ - [https://www.reddit.com/r/politics/comments/1d51xov/biden_calls_trump_reckless_for_attacking_the](https://www.reddit.com/r/politics/comments/1d51xov/biden_calls_trump_reckless_for_attacking_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T18:01:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/mvanigan"> /u/mvanigan </a> <br /> <span><a href="https://www.politico.com/news/2024/05/31/biden-trump-guilty-verdict-00161025">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d51xov/biden_calls_trump_reckless_for_attacking_the/">[comments]</a></span>
+
+## Neighbors say Alitos used security detail car to threaten them after dispute
+ - [https://www.reddit.com/r/politics/comments/1d51wz1/neighbors_say_alitos_used_security_detail_car_to](https://www.reddit.com/r/politics/comments/1d51wz1/neighbors_say_alitos_used_security_detail_car_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T18:00:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d51wz1/neighbors_say_alitos_used_security_detail_car_to/"> <img alt="Neighbors say Alitos used security detail car to threaten them after dispute" src="https://external-preview.redd.it/-M_I1926tabCA-qu90oMxfMWc754UHNDQW-gT-thOT4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec9bef33c820a960475bfc244d53d16c19f781e8" title="Neighbors say Alitos used security detail car to threaten them after dispute" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/schrute-bux"> /u/schrute-bux </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/may/31/samuel-alito-flag-neighbor-interview">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d51wz1/neighbors_say_alitos_used_security_detail_car_to/">[comments]</a></span> </td></tr></table>
+
+## Raskin argues DOJ can force recusals of Alito, Thomas in Jan. 6 cases
+ - [https://www.reddit.com/r/politics/comments/1d51gwg/raskin_argues_doj_can_force_recusals_of_alito](https://www.reddit.com/r/politics/comments/1d51gwg/raskin_argues_doj_can_force_recusals_of_alito)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T17:41:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d51gwg/raskin_argues_doj_can_force_recusals_of_alito/"> <img alt="Raskin argues DOJ can force recusals of Alito, Thomas in Jan. 6 cases" src="https://external-preview.redd.it/DhLKw-UBvQqm6BMNO52lPHMkkXlheawZ_R-ZqTvo3ps.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b86e2dd2a3d4d25e561a95e72a6d2814595e310" title="Raskin argues DOJ can force recusals of Alito, Thomas in Jan. 6 cases" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iLocke95"> /u/iLocke95 </a> <br /> <span><a href="https://thehill.com/homenews/house/4692965-raskin-argues-doj-can-force-recusals-of-alito-thomas-in-jan-6-cases/mlite/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d51gwg/raskin_argues_doj_can_force_recusals_of_alito/">[comments]</a></span> </td></tr></table>
+
+## Todd Blanche says Trump was "very involved" in crafting his own defense strategy
+ - [https://www.reddit.com/r/politics/comments/1d50lqf/todd_blanche_says_trump_was_very_involved_in](https://www.reddit.com/r/politics/comments/1d50lqf/todd_blanche_says_trump_was_very_involved_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T17:04:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d50lqf/todd_blanche_says_trump_was_very_involved_in/"> <img alt="Todd Blanche says Trump was &quot;very involved&quot; in crafting his own defense strategy" src="https://external-preview.redd.it/3C8dJIY3PlYXf7ycPRhTecderDES49zGdDbws_l_o1g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9392ae434c5094aa9d88e9642642ef91dfd843d" title="Todd Blanche says Trump was &quot;very involved&quot; in crafting his own defense strategy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/devlinadl"> /u/devlinadl </a> <br /> <span><a href="https://www.salon.com/2024/05/31/todd-blanche-says-was-very-involved-in-crafting-his-own-defense-strategy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d50lqf/todd_blanche_says_trump_was_very_involved_in/">[comments]</a></span> </td></tr></table>
+
+## Giuliani should be disbarred over election case, DC ethics board says
+ - [https://www.reddit.com/r/politics/comments/1d50kvd/giuliani_should_be_disbarred_over_election_case](https://www.reddit.com/r/politics/comments/1d50kvd/giuliani_should_be_disbarred_over_election_case)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T17:03:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d50kvd/giuliani_should_be_disbarred_over_election_case/"> <img alt="Giuliani should be disbarred over election case, DC ethics board says" src="https://external-preview.redd.it/fpOjs-8VA-ADXESaytsOIJ4MiBJf61XhZc0K0Mtrd1o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42338e67e682d34050278a2069c2c0d44c6430ff" title="Giuliani should be disbarred over election case, DC ethics board says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/toomuchtodotoday"> /u/toomuchtodotoday </a> <br /> <span><a href="https://www.reuters.com/legal/giuliani-should-be-disbarred-over-election-case-dc-ethics-board-says-2024-05-31/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d50kvd/giuliani_should_be_disbarred_over_election_case/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: Biden Delivers Remarks on the War in Gaza
+ - [https://www.reddit.com/r/politics/comments/1d50a3s/discussion_thread_biden_delivers_remarks_on_the](https://www.reddit.com/r/politics/comments/1d50a3s/discussion_thread_biden_delivers_remarks_on_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T16:51:14+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>News and Analysis</strong></p> <ul> <li>CNN: <a href="https://www.cnn.com/2024/05/31/politics/biden-middle-east-remarks/index.html">Biden to address situation in Middle East as efforts ramp up on hostages and Israeli forces enter central Rafah</a></li> </ul> <p><strong>Where to Watch</strong></p> <ul> <li><p>C-SPAN: <a href="https://www.c-span.org/video/?536079-1/president-biden-delivers-remarks-war-gaza">President Biden Delivers Remarks on the War in Gaza</a></p></li> <li><p>The White House via YouTube: <a href="https://www.youtube.com/watch?v=l-U3w0qou-s">President Biden Delivers Remarks on the Middle East</a></p></li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PoliticsModeratorBot"> /u/PoliticsModeratorBot </a> <br /> <span><a href="https://www.reddit.com/r/politics/comments/1d50a3s/discussion_thread_biden_delivers_remarks_on_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/
+
+## Fani Willis gets ammunition to use against Donald Trump
+ - [https://www.reddit.com/r/politics/comments/1d502nh/fani_willis_gets_ammunition_to_use_against_donald](https://www.reddit.com/r/politics/comments/1d502nh/fani_willis_gets_ammunition_to_use_against_donald)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T16:42:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d502nh/fani_willis_gets_ammunition_to_use_against_donald/"> <img alt="Fani Willis gets ammunition to use against Donald Trump" src="https://external-preview.redd.it/KCqJaCMLNFOYajJT9HJkd8Xp5qJ9TK-rWeNfijdHNLk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=44f1ebcb3481584e0bc24394f3996385dfcd7ea1" title="Fani Willis gets ammunition to use against Donald Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br /> <span><a href="https://www.newsweek.com/fani-willis-donald-trump-georgia-hush-money-1906832">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d502nh/fani_willis_gets_ammunition_to_use_against_donald/">[comments]</a></span> </td></tr></table>
+
+## What if This Is Our Last Real Election?
+ - [https://www.reddit.com/r/politics/comments/1d4zzg7/what_if_this_is_our_last_real_election](https://www.reddit.com/r/politics/comments/1d4zzg7/what_if_this_is_our_last_real_election)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T16:38:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4zzg7/what_if_this_is_our_last_real_election/"> <img alt="What if This Is Our Last Real Election?" src="https://external-preview.redd.it/YLiM-v5ftCg9jmruwneQcC9STHkBL81WgGoHIp0BVDw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d58b5d01b4a8613ef97b1d98957a1bb3f35240a" title="What if This Is Our Last Real Election?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AngelaMotorman"> /u/AngelaMotorman </a> <br /> <span><a href="https://www.nytimes.com/2024/05/30/opinion/biden-trump-election.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4zzg7/what_if_this_is_our_last_real_election/">[comments]</a></span> </td></tr></table>
+
+## Felon Trump Drives Up Jail Time Odds With Every Word | The former president’s gag order is still in place—and he just violated it.
+ - [https://www.reddit.com/r/politics/comments/1d4zzb1/felon_trump_drives_up_jail_time_odds_with_every](https://www.reddit.com/r/politics/comments/1d4zzb1/felon_trump_drives_up_jail_time_odds_with_every)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T16:38:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4zzb1/felon_trump_drives_up_jail_time_odds_with_every/"> <img alt="Felon Trump Drives Up Jail Time Odds With Every Word | The former president’s gag order is still in place—and he just violated it." src="https://external-preview.redd.it/cy2f68uDKWuDL5JgkFmm5QG0-20vRxFC0qz4LQNMHwQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70354c86d43c57ec0edb88990c63d4cf154fcbc2" title="Felon Trump Drives Up Jail Time Odds With Every Word | The former president’s gag order is still in place—and he just violated it." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br /> <span><a href="https://newrepublic.com/post/182135/felon-trump-jail-gag-order-michael-cohen">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4zzb1/felon_trump_drives_up_jail_time_odds_with_every/">[comments]</a></span> </td></tr></table>
+
+## Trump repeats claims -- without evidence -- that his trial was rigged
+ - [https://www.reddit.com/r/politics/comments/1d4zyk2/trump_repeats_claims_without_evidence_that_his](https://www.reddit.com/r/politics/comments/1d4zyk2/trump_repeats_claims_without_evidence_that_his)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T16:37:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4zyk2/trump_repeats_claims_without_evidence_that_his/"> <img alt="Trump repeats claims -- without evidence -- that his trial was rigged" src="https://external-preview.redd.it/PKoZLnDI23ha3J50HtbH3jKutFqrf0UEjbHqOv7nBl8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a0d3b1f204a372c701a7bbe59dfab1d61725fea" title="Trump repeats claims -- without evidence -- that his trial was rigged" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eldiablito"> /u/eldiablito </a> <br /> <span><a href="https://www.npr.org/2024/05/31/g-s1-2149/trump-trial-guilty-verdict-press-conference">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4zyk2/trump_repeats_claims_without_evidence_that_his/">[comments]</a></span> </td></tr></table>
+
+## Trump Says the 'Real Verdict' Will Be in November—And Progressives Agree | "The simple fact remains: We must beat him at the ballot box."
+ - [https://www.reddit.com/r/politics/comments/1d4zju5/trump_says_the_real_verdict_will_be_in](https://www.reddit.com/r/politics/comments/1d4zju5/trump_says_the_real_verdict_will_be_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T16:20:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4zju5/trump_says_the_real_verdict_will_be_in/"> <img alt="Trump Says the 'Real Verdict' Will Be in November—And Progressives Agree | &quot;The simple fact remains: We must beat him at the ballot box.&quot;" src="https://external-preview.redd.it/KArO3gfrRYJMuqzIL1UCM4m9hSGmwXxhMJGEym2Xm7I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=38ddaa78e38ce38ae27a4c343fe388a34f044347" title="Trump Says the 'Real Verdict' Will Be in November—And Progressives Agree | &quot;The simple fact remains: We must beat him at the ballot box.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.commondreams.org/news/trump-34-felonies">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4zju5/trump_says_the_real_verdict_will_be_in/">[comments]</a></span> </td></tr></table>
+
+## Trump Aide Picks Very Public Fight With Moderate Republican After Verdict - Larry Hogan, a Republican Senate candidate in Maryland, asked voters to ‘respect’ Trump’s hush-money verdict—a sentiment Trump’s campaign team didn’t take kindly to.
+ - [https://www.reddit.com/r/politics/comments/1d4zaov/trump_aide_picks_very_public_fight_with_moderate](https://www.reddit.com/r/politics/comments/1d4zaov/trump_aide_picks_very_public_fight_with_moderate)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T16:09:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4zaov/trump_aide_picks_very_public_fight_with_moderate/"> <img alt="Trump Aide Picks Very Public Fight With Moderate Republican After Verdict - Larry Hogan, a Republican Senate candidate in Maryland, asked voters to ‘respect’ Trump’s hush-money verdict—a sentiment Trump’s campaign team didn’t take kindly to." src="https://external-preview.redd.it/Wo74-a6n3dFCcXo1lVMqSGYrADTihEqn34jRKNVYbyI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50a643386b02c7648f6b6884e98a7b361954d60b" title="Trump Aide Picks Very Public Fight With Moderate Republican After Verdict - Larry Hogan, a Republican Senate candidate in Maryland, asked voters to ‘respect’ Trump’s hush-money verdict—a sentiment Trump’s campaign team didn’t take kindly to." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mountaintop111"> /u/mountaintop111 </a> <br /> <span><a href="https://www.thedailybeast.com/trump-aide-picks-very-
+
+## Read Project 2025 to see how radically Donald Trump wants to change America
+ - [https://www.reddit.com/r/politics/comments/1d4z4oi/read_project_2025_to_see_how_radically_donald](https://www.reddit.com/r/politics/comments/1d4z4oi/read_project_2025_to_see_how_radically_donald)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T16:02:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4z4oi/read_project_2025_to_see_how_radically_donald/"> <img alt="Read Project 2025 to see how radically Donald Trump wants to change America" src="https://external-preview.redd.it/qnaWz2fMEYnO9plkoU3L259tbw9ggdEhj9_8rTe-pYw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ac02af4450813d1f62a012b77221e816d99ecda" title="Read Project 2025 to see how radically Donald Trump wants to change America" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AngelaMotorman"> /u/AngelaMotorman </a> <br /> <span><a href="https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2024/05/31/project-2025-donald-trump-plans-america/73899727007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4z4oi/read_project_2025_to_see_how_radically_donald/">[comments]</a></span> </td></tr></table>
+
+## Visibly Distressed Putin Pals Shaken Up by Trump Verdict
+ - [https://www.reddit.com/r/politics/comments/1d4y18r/visibly_distressed_putin_pals_shaken_up_by_trump](https://www.reddit.com/r/politics/comments/1d4y18r/visibly_distressed_putin_pals_shaken_up_by_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T15:15:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4y18r/visibly_distressed_putin_pals_shaken_up_by_trump/"> <img alt="Visibly Distressed Putin Pals Shaken Up by Trump Verdict" src="https://external-preview.redd.it/vtYg-8lB5pfDJaCbwxumavxla2iXV_-JiCzuyp3ytxI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3da3687b19fa9045e509b9a3a0573ca6df000c30" title="Visibly Distressed Putin Pals Shaken Up by Trump Verdict" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkayButFoRealz"> /u/OkayButFoRealz </a> <br /> <span><a href="https://www.thedailybeast.com/visibly-distressed-putin-pals-shaken-up-by-trump-verdict">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4y18r/visibly_distressed_putin_pals_shaken_up_by_trump/">[comments]</a></span> </td></tr></table>
+
+## Montana senator holds up nomination of state’s first Native American federal judge
+ - [https://www.reddit.com/r/politics/comments/1d4xnuu/montana_senator_holds_up_nomination_of_states](https://www.reddit.com/r/politics/comments/1d4xnuu/montana_senator_holds_up_nomination_of_states)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T14:59:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4xnuu/montana_senator_holds_up_nomination_of_states/"> <img alt="Montana senator holds up nomination of state’s first Native American federal judge" src="https://external-preview.redd.it/Pc9t8eDmU5x8F9RrqNyiufnCG0I1LfEETIoY9KCRmQY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=990f8bc2fc97010d9607c857d45490619c19d634" title="Montana senator holds up nomination of state’s first Native American federal judge" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jimbozak"> /u/jimbozak </a> <br /> <span><a href="https://dailymontanan.com/2024/05/30/montana-senator-holds-up-nomination-of-states-first-native-american-federal-judge/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4xnuu/montana_senator_holds_up_nomination_of_states/">[comments]</a></span> </td></tr></table>
+
+## Joe Manchin leaves the Democratic Party amid speculation he’ll run for West Virginia governor
+ - [https://www.reddit.com/r/politics/comments/1d4xejv/joe_manchin_leaves_the_democratic_party_amid](https://www.reddit.com/r/politics/comments/1d4xejv/joe_manchin_leaves_the_democratic_party_amid)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T14:48:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4xejv/joe_manchin_leaves_the_democratic_party_amid/"> <img alt="Joe Manchin leaves the Democratic Party amid speculation he’ll run for West Virginia governor" src="https://external-preview.redd.it/bztMdKKhiK3WVtb0B0aQaq9C2jbQAq9RbyhSNzkXw1E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c3c5d80d95a235ce881d37e65c4162795a1da90" title="Joe Manchin leaves the Democratic Party amid speculation he’ll run for West Virginia governor" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/joe-manchin-democrat-independent-governor-b2554614.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4xejv/joe_manchin_leaves_the_democratic_party_amid/">[comments]</a></span> </td></tr></table>
+
+## Vermont becomes 1st state to enact law requiring oil companies pay for damage from climate change
+ - [https://www.reddit.com/r/politics/comments/1d4x72z/vermont_becomes_1st_state_to_enact_law_requiring](https://www.reddit.com/r/politics/comments/1d4x72z/vermont_becomes_1st_state_to_enact_law_requiring)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T14:38:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4x72z/vermont_becomes_1st_state_to_enact_law_requiring/"> <img alt="Vermont becomes 1st state to enact law requiring oil companies pay for damage from climate change" src="https://external-preview.redd.it/SdXxkiKJKZBtKvA16hteDk8Pz-awyWMlyThskWgsy-s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42718d84ddaee36df0ec34182429e2b62e31855b" title="Vermont becomes 1st state to enact law requiring oil companies pay for damage from climate change" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheAnswerWithinUs"> /u/TheAnswerWithinUs </a> <br /> <span><a href="https://apnews.com/article/vermont-climate-change-superfund-oil-companies-b6565729f23e85eed4d3da44b04ae2e5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4x72z/vermont_becomes_1st_state_to_enact_law_requiring/">[comments]</a></span> </td></tr></table>
+
+## After hesitating, Miriam Adelson commits more than $100 million to Trump’s campaign
+ - [https://www.reddit.com/r/politics/comments/1d4x6jl/after_hesitating_miriam_adelson_commits_more_than](https://www.reddit.com/r/politics/comments/1d4x6jl/after_hesitating_miriam_adelson_commits_more_than)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T14:38:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4x6jl/after_hesitating_miriam_adelson_commits_more_than/"> <img alt="After hesitating, Miriam Adelson commits more than $100 million to Trump’s campaign" src="https://external-preview.redd.it/zyUZ_mOCnd0LNozqITUMLZbb0Dk_yRpFkQh0xD-b0pU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c78f5919406b8269fb0a4a53343b3f8d65254f16" title="After hesitating, Miriam Adelson commits more than $100 million to Trump’s campaign" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/forward"> /u/forward </a> <br /> <span><a href="https://forward.com/fast-forward/618034/miriam-adelson-funding-trump-israel/?utm_medium=reddit">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4x6jl/after_hesitating_miriam_adelson_commits_more_than/">[comments]</a></span> </td></tr></table>
+
+## At long last, ‘Teflon Don’ Trump couldn’t unstick himself from the legal system
+ - [https://www.reddit.com/r/politics/comments/1d4wzby/at_long_last_teflon_don_trump_couldnt_unstick](https://www.reddit.com/r/politics/comments/1d4wzby/at_long_last_teflon_don_trump_couldnt_unstick)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T14:29:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4wzby/at_long_last_teflon_don_trump_couldnt_unstick/"> <img alt="At long last, ‘Teflon Don’ Trump couldn’t unstick himself from the legal system" src="https://external-preview.redd.it/AXAI7eszm3LtRkhnuZBrHxF2d0iN6OqktFx0AzBXISU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=494ec9d21cdeff03ee28de7d93e9275a4e7e8aab" title="At long last, ‘Teflon Don’ Trump couldn’t unstick himself from the legal system" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.theguardian.com/commentisfree/article/2024/may/31/trump-felon-legal-system-justice">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4wzby/at_long_last_teflon_don_trump_couldnt_unstick/">[comments]</a></span> </td></tr></table>
+
+## Most House Republicans who backed Trump challengers cruised to primary victories
+ - [https://www.reddit.com/r/politics/comments/1d4wde9/most_house_republicans_who_backed_trump](https://www.reddit.com/r/politics/comments/1d4wde9/most_house_republicans_who_backed_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T14:02:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4wde9/most_house_republicans_who_backed_trump/"> <img alt="Most House Republicans who backed Trump challengers cruised to primary victories" src="https://external-preview.redd.it/AhAEWLB2vmtTfsXoXNcPkT_MIv0DCaFAc_hER94ZJzQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fdf7d796f10e80b1077c162730388d9ecfc9ac23" title="Most House Republicans who backed Trump challengers cruised to primary victories" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/washingtonpost"> /u/washingtonpost </a> <br /> <span><a href="https://www.washingtonpost.com/elections/2024/05/30/house-republicans-trump-primaries/?utm_campaign=wp_main&amp;utm_medium=social&amp;utm_source=reddit.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4wde9/most_house_republicans_who_backed_trump/">[comments]</a></span> </td></tr></table>
+
+## DeSantis moving toward vetoing bill that would regulate sale of cannabis products in Florida
+ - [https://www.reddit.com/r/politics/comments/1d4w5at/desantis_moving_toward_vetoing_bill_that_would](https://www.reddit.com/r/politics/comments/1d4w5at/desantis_moving_toward_vetoing_bill_that_would)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T13:52:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4w5at/desantis_moving_toward_vetoing_bill_that_would/"> <img alt="DeSantis moving toward vetoing bill that would regulate sale of cannabis products in Florida" src="https://external-preview.redd.it/iY6bW8zEhxx1qtBATrCqNzg5Bd5jd00Cl7I9rbzYnoM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef449f7d7837fc8cb61810964230947cf076922e" title="DeSantis moving toward vetoing bill that would regulate sale of cannabis products in Florida" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OregonTripleBeam"> /u/OregonTripleBeam </a> <br /> <span><a href="https://www.cbsnews.com/miami/news/desantis-moving-toward-vetoing-hemp-bill/#amp_tf=From%20%251%24s&amp;aoh=17171631939505&amp;referrer=https%3A%2F%2Fwww.google.com&amp;ampshare=https%3A%2F%2Fwww.cbsnews.com%2Fmiami%2Fnews%2Fdesantis-moving-toward-vetoing-hemp-bill%2F">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comme
+
+## In a swing county, Trump’s faithful are angry. But they believe he’ll get even.
+ - [https://www.reddit.com/r/politics/comments/1d4vbll/in_a_swing_county_trumps_faithful_are_angry_but](https://www.reddit.com/r/politics/comments/1d4vbll/in_a_swing_county_trumps_faithful_are_angry_but)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T13:13:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4vbll/in_a_swing_county_trumps_faithful_are_angry_but/"> <img alt="In a swing county, Trump’s faithful are angry. But they believe he’ll get even." src="https://external-preview.redd.it/559GSTW3kgS1zMkdZrlIKnm_guDntfGW1MdyDytvtX4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2eae06d2339ed8e7d6e8c5a7762bcb997e01f1fb" title="In a swing county, Trump’s faithful are angry. But they believe he’ll get even." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/washingtonpost"> /u/washingtonpost </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/05/31/trump-voter-reactions-guilty-verdict/?utm_campaign=wp_main&amp;utm_medium=social&amp;utm_source=reddit.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4vbll/in_a_swing_county_trumps_faithful_are_angry_but/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump Faces Travel Ban To 38 Countries
+ - [https://www.reddit.com/r/politics/comments/1d4vbet/donald_trump_faces_travel_ban_to_38_countries](https://www.reddit.com/r/politics/comments/1d4vbet/donald_trump_faces_travel_ban_to_38_countries)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T13:13:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4vbet/donald_trump_faces_travel_ban_to_38_countries/"> <img alt="Donald Trump Faces Travel Ban To 38 Countries" src="https://external-preview.redd.it/0UrhFQpDfOy65oKpnp3ndSlE7ht029hZJJdSaGz8bdM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2e6e93c00c68938cce811f3c3a25cbcff21110b" title="Donald Trump Faces Travel Ban To 38 Countries" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jo_maka"> /u/jo_maka </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-travel-ban-1906686">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4vbet/donald_trump_faces_travel_ban_to_38_countries/">[comments]</a></span> </td></tr></table>
+
+## New Yorker wants to be first person to use medical aid in dying in the state: ‘I’m suffering more than you can imagine’
+ - [https://www.reddit.com/r/politics/comments/1d4v2nn/new_yorker_wants_to_be_first_person_to_use](https://www.reddit.com/r/politics/comments/1d4v2nn/new_yorker_wants_to_be_first_person_to_use)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T13:02:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4v2nn/new_yorker_wants_to_be_first_person_to_use/"> <img alt="New Yorker wants to be first person to use medical aid in dying in the state: ‘I’m suffering more than you can imagine’" src="https://external-preview.redd.it/Q8L1z8r4CHjPpxKRprokORrDUXuGmfjurN36HsrvE9E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3d2096a812101c17254c0d53c16c778c9022b47" title="New Yorker wants to be first person to use medical aid in dying in the state: ‘I’m suffering more than you can imagine’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ILikeDogsAndBeer"> /u/ILikeDogsAndBeer </a> <br /> <span><a href="https://www.silive.com/news/2024/05/longtime-staten-islander-wants-to-be-first-person-to-use-medical-aid-in-dying-in-new-york-im-suffering-more-than-you-can-imagine.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4v2nn/new_yorker_wants_to_be_first_person_t
+
+## Alito's Jan. 6 Flag Defense Is Just Weird Gender Politics
+ - [https://www.reddit.com/r/politics/comments/1d4us0n/alitos_jan_6_flag_defense_is_just_weird_gender](https://www.reddit.com/r/politics/comments/1d4us0n/alitos_jan_6_flag_defense_is_just_weird_gender)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T12:47:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4us0n/alitos_jan_6_flag_defense_is_just_weird_gender/"> <img alt="Alito's Jan. 6 Flag Defense Is Just Weird Gender Politics" src="https://external-preview.redd.it/bcGDu-bBkdkYljodlI9-SyBqJkrWfXNeB0ZY_fWBwzo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=30370651352e6eb2f32f802ae47ccb74b7ef76ec" title="Alito's Jan. 6 Flag Defense Is Just Weird Gender Politics" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloombergopinion"> /u/bloombergopinion </a> <br /> <span><a href="https://www.bloomberg.com/opinion/articles/2024-05-31/should-alito-recuse-blaming-jan-6-flag-on-his-wife-is-not-convincing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxNzE1OTU5NSwiZXhwIjoxNzE3NzY0Mzk1LCJhcnRpY2xlSWQiOiJTRUNPMklEV1gyUFMwMCIsImJjb25uZWN0SWQiOiJEMkU2RDkwREEzRUY0QzMyOEE1NDQ1RUVEMjZCMjlFQyJ9.77Xw2-Doa2-HGgXG2VgpoEUPtnHqAHcsseajDg3rIqQ">[lin
+
+## The felon frontrunner: How Trump warped our politics
+ - [https://www.reddit.com/r/politics/comments/1d4u300/the_felon_frontrunner_how_trump_warped_our](https://www.reddit.com/r/politics/comments/1d4u300/the_felon_frontrunner_how_trump_warped_our)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T12:10:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4u300/the_felon_frontrunner_how_trump_warped_our/"> <img alt="The felon frontrunner: How Trump warped our politics" src="https://external-preview.redd.it/GZDvmsRx6tI0QzH4uwP2vwdBfu_vMtzo23wtqxGh6K4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=731025098ace570cd966dac05d385fc32059182c" title="The felon frontrunner: How Trump warped our politics" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DenseYear2713"> /u/DenseYear2713 </a> <br /> <span><a href="https://www.vox.com/politics/352465/trump-convicted-felon-elections">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4u300/the_felon_frontrunner_how_trump_warped_our/">[comments]</a></span> </td></tr></table>
+
+## 'I did my job': Manhattan District Attorney Alvin Bragg comments on Trump verdict
+ - [https://www.reddit.com/r/politics/comments/1d4tlvw/i_did_my_job_manhattan_district_attorney_alvin](https://www.reddit.com/r/politics/comments/1d4tlvw/i_did_my_job_manhattan_district_attorney_alvin)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T11:44:02+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/mountaintop111"> /u/mountaintop111 </a> <br /> <span><a href="https://www.bostonglobe.com/video/2024/05/30/metro/politics/i-did-my-job-manhattan-district-attorney-alvin-bragg-comments-on-trump-verdict/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4tlvw/i_did_my_job_manhattan_district_attorney_alvin/">[comments]</a></span>
+
+## Sen. Bernie Sanders Has Become a Leading Critic of Israel’s War in Gaza
+ - [https://www.reddit.com/r/politics/comments/1d4sn81/sen_bernie_sanders_has_become_a_leading_critic_of](https://www.reddit.com/r/politics/comments/1d4sn81/sen_bernie_sanders_has_become_a_leading_critic_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T10:45:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4sn81/sen_bernie_sanders_has_become_a_leading_critic_of/"> <img alt="Sen. Bernie Sanders Has Become a Leading Critic of Israel’s War in Gaza" src="https://external-preview.redd.it/xfnpzt9UiY3L-Lx2cLnJ8ZaI-lyzd8gvxOPOArwWhVc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=034497466f1d41e6509917465e020d41aa9bc36e" title="Sen. Bernie Sanders Has Become a Leading Critic of Israel’s War in Gaza" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheKeyPa"> /u/TheKeyPa </a> <br /> <span><a href="https://m.sevendaysvt.com/news/sen-bernie-sanders-has-become-a-leading-critic-of-israels-war-in-gaza-41008359">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4sn81/sen_bernie_sanders_has_become_a_leading_critic_of/">[comments]</a></span> </td></tr></table>
+
+## Trump supporters call for riots and violent retribution after verdict
+ - [https://www.reddit.com/r/politics/comments/1d4shru/trump_supporters_call_for_riots_and_violent](https://www.reddit.com/r/politics/comments/1d4shru/trump_supporters_call_for_riots_and_violent)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T10:34:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4shru/trump_supporters_call_for_riots_and_violent/"> <img alt="Trump supporters call for riots and violent retribution after verdict" src="https://external-preview.redd.it/N1zOEHrh4T2JJNk9J7QDq3PW0aEJxpbKLC69hZ13r7A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=44b8cb696905fa1a69e11bed7ae9661ef363dd7a" title="Trump supporters call for riots and violent retribution after verdict" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scarlet-Ivy"> /u/Scarlet-Ivy </a> <br /> <span><a href="https://www.reuters.com/world/us/trump-supporters-call-riots-violent-retribution-after-verdict-2024-05-31/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4shru/trump_supporters_call_for_riots_and_violent/">[comments]</a></span> </td></tr></table>
+
+## Trump vs. Biden on the climate: The next presidential election will have huge ramifications for the planet.
+ - [https://www.reddit.com/r/politics/comments/1d4sg9y/trump_vs_biden_on_the_climate_the_next](https://www.reddit.com/r/politics/comments/1d4sg9y/trump_vs_biden_on_the_climate_the_next)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T10:32:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4sg9y/trump_vs_biden_on_the_climate_the_next/"> <img alt="Trump vs. Biden on the climate: The next presidential election will have huge ramifications for the planet." src="https://external-preview.redd.it/ab621WZGm3i-ioeCQHQO-igB9FHVSF5eTyWfcqWFtDk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ead4915a98bc14d33673a46a73cf1adc1aa7947a" title="Trump vs. Biden on the climate: The next presidential election will have huge ramifications for the planet." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.hcn.org/articles/trump-vs-biden-on-the-climate/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4sg9y/trump_vs_biden_on_the_climate_the_next/">[comments]</a></span> </td></tr></table>
+
+## Mary Trump says her uncle "absolutely" should go to jail
+ - [https://www.reddit.com/r/politics/comments/1d4rp0l/mary_trump_says_her_uncle_absolutely_should_go_to](https://www.reddit.com/r/politics/comments/1d4rp0l/mary_trump_says_her_uncle_absolutely_should_go_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T09:39:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4rp0l/mary_trump_says_her_uncle_absolutely_should_go_to/"> <img alt="Mary Trump says her uncle &quot;absolutely&quot; should go to jail" src="https://external-preview.redd.it/X9cQwgZvHuXb2iyI5IXeexahq3pTHI50Spi6_XL1eac.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e63edb0516c5d6774580662bf456a67704e22e30" title="Mary Trump says her uncle &quot;absolutely&quot; should go to jail" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br /> <span><a href="https://www.newsweek.com/mary-trump-donald-absolutely-should-jail-1906664">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4rp0l/mary_trump_says_her_uncle_absolutely_should_go_to/">[comments]</a></span> </td></tr></table>
+
+## Man pleads guilty to making more than 12,000 harassing phone calls to members of Congress
+ - [https://www.reddit.com/r/politics/comments/1d4qxna/man_pleads_guilty_to_making_more_than_12000](https://www.reddit.com/r/politics/comments/1d4qxna/man_pleads_guilty_to_making_more_than_12000)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T08:44:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4qxna/man_pleads_guilty_to_making_more_than_12000/"> <img alt="Man pleads guilty to making more than 12,000 harassing phone calls to members of Congress" src="https://external-preview.redd.it/JugtbDJJzF3UTYj01QR3ti5kuipTi2C7WWmBRdFmnqg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b2a905d86cb6de618cc39c13bca008a4dd6666e" title="Man pleads guilty to making more than 12,000 harassing phone calls to members of Congress" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marianlikeabird"> /u/marianlikeabird </a> <br /> <span><a href="https://www.cnn.com/2024/05/30/politics/man-pleads-guilty-harassing-calls-congress/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4qxna/man_pleads_guilty_to_making_more_than_12000/">[comments]</a></span> </td></tr></table>
+
+## Opinion: Trump verdict keeps this bedrock American ideal alive
+ - [https://www.reddit.com/r/politics/comments/1d4q273/opinion_trump_verdict_keeps_this_bedrock_american](https://www.reddit.com/r/politics/comments/1d4q273/opinion_trump_verdict_keeps_this_bedrock_american)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T07:38:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4q273/opinion_trump_verdict_keeps_this_bedrock_american/"> <img alt="Opinion: Trump verdict keeps this bedrock American ideal alive " src="https://external-preview.redd.it/CdXDKWxFzh30hhribx_Vh1X9ys0Dyc715582AVLy1TM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e6e612897614facba7ababc019b59e091d884da" title="Opinion: Trump verdict keeps this bedrock American ideal alive " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pleasureismylife"> /u/pleasureismylife </a> <br /> <span><a href="https://www.cnn.com/2024/05/30/opinions/trump-verdict-guilty-justice-system-eisen/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4q273/opinion_trump_verdict_keeps_this_bedrock_american/">[comments]</a></span> </td></tr></table>
+
+## Queens man convicted
+ - [https://www.reddit.com/r/politics/comments/1d4p7x0/queens_man_convicted](https://www.reddit.com/r/politics/comments/1d4p7x0/queens_man_convicted)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T06:38:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4p7x0/queens_man_convicted/"> <img alt="Queens man convicted" src="https://external-preview.redd.it/2TLncTexu4NhHPZ8kz2bqorpArt27p8oHhq4UY6Wha4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fcdd62fa77287df0bec44a2ce0fa1d776e591cd2" title="Queens man convicted" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Claeyt"> /u/Claeyt </a> <br /> <span><a href="https://queenseagle.com/all/2024/5/30/queens-man-convicted">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4p7x0/queens_man_convicted/">[comments]</a></span> </td></tr></table>
+
+## Trump is a felon. Here’s why that could matter in the 2024 race.
+ - [https://www.reddit.com/r/politics/comments/1d4oisc/trump_is_a_felon_heres_why_that_could_matter_in](https://www.reddit.com/r/politics/comments/1d4oisc/trump_is_a_felon_heres_why_that_could_matter_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T05:50:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4oisc/trump_is_a_felon_heres_why_that_could_matter_in/"> <img alt="Trump is a felon. Here’s why that could matter in the 2024 race." src="https://external-preview.redd.it/nH_fISkEdglZybfZNisBcWX2uZ_1bERj3aAp_f2TPWI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=38d73d139e9318768c9bc271e6054c151fbf9cde" title="Trump is a felon. Here’s why that could matter in the 2024 race." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nutritionvegan"> /u/nutritionvegan </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/05/30/trump-guilty-verdict-presidential-race-polls/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4oisc/trump_is_a_felon_heres_why_that_could_matter_in/">[comments]</a></span> </td></tr></table>
+
+## Rep. Marjorie Taylor Greene Forgets Trump's Friendship With Jeffrey Epstein
+ - [https://www.reddit.com/r/politics/comments/1d4kdse/rep_marjorie_taylor_greene_forgets_trumps](https://www.reddit.com/r/politics/comments/1d4kdse/rep_marjorie_taylor_greene_forgets_trumps)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T01:53:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4kdse/rep_marjorie_taylor_greene_forgets_trumps/"> <img alt="Rep. Marjorie Taylor Greene Forgets Trump's Friendship With Jeffrey Epstein" src="https://external-preview.redd.it/SOamadYRIu4cZHphRLT7t_3g-ijhnB1lJtKoLNZho50.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=21ca4d56bfb24ea444fd17fd5fd9422a71fde38f" title="Rep. Marjorie Taylor Greene Forgets Trump's Friendship With Jeffrey Epstein" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ben_watson_jr"> /u/ben_watson_jr </a> <br /> <span><a href="https://www.huffpost.com/entry/marjorie-taylor-greene-trump-jeffrey-epstein_n_6658c2bae4b0b6cf3f474217">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4kdse/rep_marjorie_taylor_greene_forgets_trumps/">[comments]</a></span> </td></tr></table>
+
+## "An irreducible verdict": Maddow and other experts clock in on Trump in his felon era
+ - [https://www.reddit.com/r/politics/comments/1d4jxal/an_irreducible_verdict_maddow_and_other_experts](https://www.reddit.com/r/politics/comments/1d4jxal/an_irreducible_verdict_maddow_and_other_experts)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T01:29:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4jxal/an_irreducible_verdict_maddow_and_other_experts/"> <img alt="&quot;An irreducible verdict&quot;: Maddow and other experts clock in on Trump in his felon era" src="https://external-preview.redd.it/6KTZMavzkMlS63cocmsfK5y-x3r4E3xD4BhLduqMANA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=095190c035de3e92e897c8c0cf91845630fc7581" title="&quot;An irreducible verdict&quot;: Maddow and other experts clock in on Trump in his felon era" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/But_I_Made_Punch"> /u/But_I_Made_Punch </a> <br /> <span><a href="https://www.salon.com/2024/05/30/an-irreducible-verdict-maddow-and-other-experts-clock-in-on-in-his-felon-era/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4jxal/an_irreducible_verdict_maddow_and_other_experts/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump Should Drop Out
+ - [https://www.reddit.com/r/politics/comments/1d4jkss/donald_trump_should_drop_out](https://www.reddit.com/r/politics/comments/1d4jkss/donald_trump_should_drop_out)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T01:10:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4jkss/donald_trump_should_drop_out/"> <img alt="Donald Trump Should Drop Out" src="https://external-preview.redd.it/03usQJUdKyRHPLKrDzGPHjEC97l8aYiSzRCUYDXBwbc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ccc7a3943b62785eb16b44b0972bd1546718a0b2" title="Donald Trump Should Drop Out" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThaCarter"> /u/ThaCarter </a> <br /> <span><a href="https://washingtonmonthly.com/2024/05/30/donald-trump-should-drop-out/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4jkss/donald_trump_should_drop_out/">[comments]</a></span> </td></tr></table>
+
+## Trump looked 'very demolished' by verdict, says court sketch artist who captured the moment
+ - [https://www.reddit.com/r/politics/comments/1d4jb4a/trump_looked_very_demolished_by_verdict_says](https://www.reddit.com/r/politics/comments/1d4jb4a/trump_looked_very_demolished_by_verdict_says)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T00:56:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4jb4a/trump_looked_very_demolished_by_verdict_says/"> <img alt="Trump looked 'very demolished' by verdict, says court sketch artist who captured the moment" src="https://external-preview.redd.it/M66mXoj38ff-S6nZLsIkqkiANOJd1_eGIdBYF2BcgxI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4db8f0605fd59282ee278f6e31e98d27250f60ec" title="Trump looked 'very demolished' by verdict, says court sketch artist who captured the moment" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kirby__000"> /u/kirby__000 </a> <br /> <span><a href="https://www.businessinsider.com/court-sketch-artist-trump-looked-demolished-by-trial-verdict-2024-5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4jb4a/trump_looked_very_demolished_by_verdict_says/">[comments]</a></span> </td></tr></table>
+
+## Texas education leaders unveil Bible-infused elementary school curriculum
+ - [https://www.reddit.com/r/politics/comments/1d4ihk2/texas_education_leaders_unveil_bibleinfused](https://www.reddit.com/r/politics/comments/1d4ihk2/texas_education_leaders_unveil_bibleinfused)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-05-31T00:14:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1d4ihk2/texas_education_leaders_unveil_bibleinfused/"> <img alt="Texas education leaders unveil Bible-infused elementary school curriculum " src="https://external-preview.redd.it/1AkmCMWEoFm2y2cruJ6tD8PTPQ6KQQsflXaKm_XgAZw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=330cb5b7e8351a6b948df8ca9a8186a901074f12" title="Texas education leaders unveil Bible-infused elementary school curriculum " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mcgillhufflepuff"> /u/mcgillhufflepuff </a> <br /> <span><a href="https://www.texastribune.org/2024/05/30/texas-public-schools-religion-curriculum/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1d4ihk2/texas_education_leaders_unveil_bibleinfused/">[comments]</a></span> </td></tr></table>
+

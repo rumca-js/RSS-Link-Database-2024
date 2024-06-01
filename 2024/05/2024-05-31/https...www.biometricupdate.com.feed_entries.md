@@ -1,0 +1,141 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## Cyber risk concerns drive zero trust adoption, survey finds
+ - [https://www.biometricupdate.com/202405/cyber-risk-concerns-drive-zero-trust-adoption-survey-finds](https://www.biometricupdate.com/202405/cyber-risk-concerns-drive-zero-trust-adoption-survey-finds)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T21:18:19+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1544" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/20160147/passwordless-authentication-enterprise-scaled.jpg" width="2048" />
+		Two-thirds of organizations consider cyber risk concerns as the primary drivers for implementing a zero trust strategy, Entrust Cybersecurity Institute unveils.
+
+Its latest survey findings on zero trust adoption and encryption trends for 2024 was conducted by the Ponemon Institute.
+
+Other results from the survey finds that while 60 percent of organizations report strong senior leadership support for zero trust, they still face significant barriers due to a lack of skills and budget. This disparity underscores the need for better resource allocation to match leadership support.
+
+“With the rise of costly breaches and AI-generated <a href="https://www.biometricupdate.com/202405/ai-deepfakes-are-wreaking-havoc-on-an-unprepared-financial-industry">deep
+
+## Déjà vu BIPA lawsuits filed against Walmart, Target
+ - [https://www.biometricupdate.com/202405/deja-vu-bipa-lawsuits-filed-against-walmart-target](https://www.biometricupdate.com/202405/deja-vu-bipa-lawsuits-filed-against-walmart-target)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T20:53:41+00:00
+
+<img alt="liveness-detection-fingerprint" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="288" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2016/06/25183335/liveness-detection-fingerprint-960x288.jpg" width="960" />
+		Three of the largest retailers in America are each facing accusations of violating Illinois’ biometric data protection law in court. One lawsuit is recommended to proceed to trial, a potential class action follows a familiar pattern, and another is a near-replica of a complaint filed earlier this year.
+
+Amazon should face allegations of Biometric Information Privacy Act violations for services it provided to Take-Two Interactive, a federal judge recommended this week, <a href="https://www.law360.com/cybersecurity-privacy/articles/1842236">Law360</a> writes. Magistrate Judge Michelle L. Peterson directed <a href="https://www.law360.com/articles/1842236/attachments/0">the recommendation</a> to District Judge Tana Lin, who is hea
+
+## Africa’s digital identity journey reaches DPI, standards and service integration
+ - [https://www.biometricupdate.com/202405/africas-digital-identity-journey-reaches-dpi-standards-and-service-integration](https://www.biometricupdate.com/202405/africas-digital-identity-journey-reaches-dpi-standards-and-service-integration)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T19:48:02+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="960" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/23113146/IMG-20240523-WA0019.jpg" width="1280" />
+		Biometric Update reported live from <a href="https://www.id4africa.com">ID4Africa</a>’s 2024 AGM in Cape Town, South Africa on the highlights from all four days of sessions and workshops. The theme of the event this year was “Digital Identity as DPI: Fostering Trust, Inclusion &amp; Adoption.”
+
+Read all our coverage <a href="https://www.biometricupdate.com/tag/id4africa-2024">here</a>.
+<h2>Biometric Update reports from ID4Africa 2024</h2>
+<h3><a href="https://www.biometricupdate.com/202405/unhcr-salutes-african-govts-pledge-to-accelerate-digital-id-action-for-forcibly-displaced">UNHCR salutes African govts’ pledge to accelerate digital ID action for forcibly displaced</a></h3>
+The Office of the United Nations High Commissioner for Refugees (UNHCR) has lauded the willingness
+
+## Worldcoin begins biometric identity verification in 2 Colombian cities
+ - [https://www.biometricupdate.com/202405/worldcoin-begins-biometric-identity-verification-in-2-colombian-cities](https://www.biometricupdate.com/202405/worldcoin-begins-biometric-identity-verification-in-2-colombian-cities)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T19:17:09+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/30160553/worldcoin-iris-logo-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/worldcoin">Worldcoin</a> has expanded its global presence and is now offering its services to a broader audience in Latin America. The company announced the availability of its iris biometrics orbs for World ID verification in two Colombian cities, Bogota and Medellin. Biometric verification ensures that each World ID is held by a real individual, and no user holds more than one.
+
+According to a survey ​conducted by Cifras y Conceptos for Worldcoin contributor <a href="https://www.toolsforhumanity.com/">Tools for Humanity</a>, most Colombians (71 percent of the 1,100 surveyed) are concerned about the growing presence of online bots, which they fear could contribute to fraud and misinformation. The survey shows that 
+
+## Mitigate AI-driven fraud attacks with biometric IDV, MFA: reports
+ - [https://www.biometricupdate.com/202405/mitigate-ai-driven-fraud-attacks-with-biometric-idv-mfa-reports](https://www.biometricupdate.com/202405/mitigate-ai-driven-fraud-attacks-with-biometric-idv-mfa-reports)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T19:02:27+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1367" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/28183213/financial-fraud-scaled.jpg" width="2048" />
+		AI-driven identity fraud in Europe is on the rise, according to a recent report by <a href="https://www.biometricupdate.com/companies/signicat">Signicat</a>, in collaboration with independent consultancy Consult Hyperion. The study reveals that many fraud prevention decision-makers across Europe are witnessing AI-driven identity fraud and anticipate further growth, yet feel unprepared to tackle it effectively.
+
+Key findings of the report titled “<a href="https://www.signicat.com/the-battle-against-ai-driven-identity-fraud">The Battle against AI-driven Identity Fraud</a>”, include an increase in deepfakes, 42.5 percent of detected fraud attempts involved AI, with 29 percent of these attempts being successful, and account takeovers, commonly associated with consumer fraud
+
+## Australia seeks testing provider for outsourced age verification trial
+ - [https://www.biometricupdate.com/202405/australia-seeks-testing-provider-for-outsourced-age-verification-trial](https://www.biometricupdate.com/202405/australia-seeks-testing-provider-for-outsourced-age-verification-trial)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T18:56:47+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/13150618/teen-tablet-scaled.jpg" width="2048" />
+		The Department of Communications will soon commence a trial for age verification technologies in Australia. This initiative is part of a broader effort to ensure that age-restricted online content is accessible only to individuals of appropriate ages, addressing growing concerns over minors' exposure to harmful material.
+
+The <a href="https://www.biometricupdate.com/202405/australias-age-verification-trial-for-porn-sites-extends-to-cover-social-media">Australian Government recently announced it is testing technology to verify individuals' ages</a> before they can access certain online platforms, such as gambling sites, adult games, entertainment, and potentially some social media.
+
+The trial will be managed directly by the Department of Communications, which will oversee th
+
+## Age assurance legislation proves contentious and confusing to advocates
+ - [https://www.biometricupdate.com/202405/age-assurance-legislation-proves-contentious-and-confusing-to-advocates](https://www.biometricupdate.com/202405/age-assurance-legislation-proves-contentious-and-confusing-to-advocates)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T17:01:35+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/24113647/age-verification-adult-website-scaled.jpg" width="2048" />
+		Efforts by governments around the anglosphere to put age assurance barriers between children and age-restricted content are not sufficiently targeted and will have unintended consequences, privacy advocates warn.
+
+Witnesses testifying at a Canadian parliamentary hearing told committee members that the <a href="https://www.biometricupdate.com/202402/age-verification-laws-coming-at-the-porn-industry-from-all-directions">Protecting Young Persons from Exposure to Pornography Act</a> introduced by Independent Senator Julie Miville-Dechêne could end up restricting access to platforms that do not share pornography, including Netflix, <a href="https://www.ctvnews.ca/politics/could-a-senate-bill-cause-age-verification-laws-to-apply-to-netflix-experts-say-yes-1.690
+
+## Paravision facial recognition SDK supports Rockchip edge AI processors
+ - [https://www.biometricupdate.com/202405/paravision-facial-recognition-sdk-supports-rockchip-edge-ai-processors](https://www.biometricupdate.com/202405/paravision-facial-recognition-sdk-supports-rockchip-edge-ai-processors)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T16:27:51+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1436" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/03/18171644/face-verification-2-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/paravision">Paravision</a> has revealed the optimization of its facial recognition SDK for Rockchip edge AI processors. This fine-tuning will expand the capabilities of its solution, allowing for broader support in IoT and access control applications.
+
+Prior to this development, Paravision <a href="https://www.biometricupdate.com/202404/hailo-integrates-paravision-facial-recognition-software-for-edge-biometric-identification">supported</a> its solution for other processor manufacturers, including Ambarella and Hailo. The company claims that this solution offers a cost-effective entry point for new markets and applications, thereby promoting the adoption of advanced facial recognition technologies.
+
+The SDK is compat
+
+## Bosnia and Herzegovina joins €7.5B Digital Europe Programme
+ - [https://www.biometricupdate.com/202405/bosnia-and-herzegovina-joins-e7-5b-digital-europe-programme](https://www.biometricupdate.com/202405/bosnia-and-herzegovina-joins-e7-5b-digital-europe-programme)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T16:17:25+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/28165402/eu-digital-policy-scaled.jpg" width="2048" />
+		Bosnia and Herzegovina (BiH) has joined the European Union’s <a href="https://digital-strategy.ec.europa.eu/en/activities/digital-programme">Digital Europe Programme</a> (DIGITAL), gaining access to a 7.5 billion euro (US$8.1 billion) program designed to boost digitalization, including digital identities, cybersecurity, digital reskilling and emerging technologies.
+
+The agency for Identification Documents, Registers, and Data Exchange of Bosnia and Herzegovina (IDDEEA BiH) has hailed the agreement, officially signed on May 14th, noting its importance in ensuring the integrity and security of digital IDs and data. The agency is in charge of managing ID documents, central registrars and data exchange between government agencies.
+
+The DIGITAL funding program for the 2021
+
+## Germany selects six companies for EUDI Wallet prototype competition
+ - [https://www.biometricupdate.com/202405/germany-selects-six-companies-for-eudi-wallet-prototype-competition](https://www.biometricupdate.com/202405/germany-selects-six-companies-for-eudi-wallet-prototype-competition)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T15:59:00+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/28165402/eu-digital-policy-scaled.jpg" width="2048" />
+		Germany is preparing to test new solutions for the upcoming European Union Digital Identity (<a href="https://www.biometricupdate.com/tag/eu-digital-identity-wallet">EUDI</a>) Wallet, paving the way towards a wallet app that allows citizens to identify themselves and manage identity data and documents.
+
+The German Federal Agency for Disruptive Innovation (SPRIND) has announced the first six participants of its competition to design EUDI Wallet prototypes.
+
+The winning projects are Sphereon Wallet for All from Netherlands-based digital credentials company <a href="https://sphereon.com/">Sphereon</a>, Heidi: Humanzentrierte EID Infrastruktur under Zurich firm <a href="https://www.ubique.ch/">Ubique Innovation</a>, Animo Easy-PID from Utrecht-based <a href="https://animo
+
+## Korean startup presents biometric driver monitoring, auto access system
+ - [https://www.biometricupdate.com/202405/korean-startup-presents-biometric-driver-monitoring-auto-access-system](https://www.biometricupdate.com/202405/korean-startup-presents-biometric-driver-monitoring-auto-access-system)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T15:58:06+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="546" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/21162142/wible-carsharing.jpg" width="1024" />
+		Drivers, leave your car keys at home, there is a new product that can authenticate your identity inside a vehicle. Korean startup <a href="https://www.dinsight.ai/">Deep-In-Sight</a> has presented its new In-Cabin Monitoring System (ICMS), which aside from <a href="https://www.biometricupdate.com/202403/scientists-use-biometrics-behavior-analysis-for-drunk-driver-detection">monitoring for safety</a> hazards also offers facial recognition and gesture control.
+
+The product, named Camosys, was presented last week at InCabin USA, a conference dedicated to interior sensing systems. The system monitors for drowsiness, distraction, phone usage, seatbelt usage and other events. It also allows drivers and passengers to unlock a vehicle in just three seconds while detecting fake facial 
+
+## European Identity and Cloud Conference 2024
+ - [https://www.biometricupdate.com/202405/european-identity-and-cloud-conference-2024](https://www.biometricupdate.com/202405/european-identity-and-cloud-conference-2024)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-05-31T15:20:59+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="900" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/31112030/2024_EIC_1200x900px.jpg" width="1200" />
+		<strong><a href="https://www.kuppingercole.com/events/eic2024">European Identity and Cloud Conference 2024</a></strong>
+<strong>Berlin, Germany and online</strong>
+<strong>June 4-7, 2024</strong>
+
+The European Identity and Cloud Conference (EIC) is a premier event focusing on digital identity and transformation. 
+
+Held annually for over a decade, it gathers practitioners, vendors, and analysts to discuss IAM, cloud security, GDPR, and more, featuring keynotes, panels, and workshops.
+
