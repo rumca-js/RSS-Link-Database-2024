@@ -1,0 +1,135 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Statcounter: Windows 11 reclaims some of its lost customers after two months of decline
+ - [https://www.neowin.net/news/statcounter-windows-11-reclaims-some-of-its-lost-customers-after-two-months-of-decline](https://www.neowin.net/news/statcounter-windows-11-reclaims-some-of-its-lost-customers-after-two-months-of-decline)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T22:14:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1693596832_windows_logos_medium.jpg" /></div>Statcounter has published the latest report, revealing new stats about the PC market. According to their findings, Windows 11 reclaimed some of its lost customers after two months of decline. <a href="https://www.neowin.net/news/statcounter-windows-11-reclaims-some-of-its-lost-customers-after-two-months-of-decline/">Read more...</a>
+
+## Amazon Deal: The Asus ROG Strix Scope II gaming keyboard has hit a new low price of $69.99
+ - [https://www.neowin.net/deals/amazon-deal-the-asus-rog-strix-scope-ii-gaming-keyboard-has-hit-a-new-low-price-of-6999](https://www.neowin.net/deals/amazon-deal-the-asus-rog-strix-scope-ii-gaming-keyboard-has-hit-a-new-low-price-of-6999)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T18:04:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717263082_asus-rog-keyboard-1_medium.jpg" /></div>The Asus ROG Strix Scope II wired mechanical gaming keyboard includes preprogrammed keys for streaming and more. You can get the keyboard at Amazon for a new low price of just $69.99. <a href="https://www.neowin.net/deals/amazon-deal-the-asus-rog-strix-scope-ii-gaming-keyboard-has-hit-a-new-low-price-of-6999/">Read more...</a>
+
+## GEEKOM A8 review: Powerful Ryzen 9 8040 series Mini PC with dedicated NPU
+ - [https://www.neowin.net/reviews/geekom-a8-review-powerful-ryzen-9-8040-series-mini-pc-with-dedicated-npu](https://www.neowin.net/reviews/geekom-a8-review-powerful-ryzen-9-8040-series-mini-pc-with-dedicated-npu)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T16:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717242561_20240601_134532_medium.jpg" /></div>GEEKOM is back with the brand new A8 Mini PC featuring a Ryzen 8040 series &quot;Hawk Point&quot; processor with an NPU that currently isn&#039;t even supported in Windows 11. We take it for a spin. <a href="https://www.neowin.net/reviews/geekom-a8-review-powerful-ryzen-9-8040-series-mini-pc-with-dedicated-npu/">Read more...</a>
+
+## You may soon be able to buy shares in the popular Webtoon app as it files for IPO
+ - [https://www.neowin.net/news/you-may-soon-be-able-to-buy-shares-in-the-popular-webtoon-app-as-it-files-for-ipo](https://www.neowin.net/news/you-may-soon-be-able-to-buy-shares-in-the-popular-webtoon-app-as-it-files-for-ipo)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T14:54:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717252918_webtoon_medium.jpg" /></div>The popular comic app, Webtoon, has filed for initial public offering in the US. If approved, it&#039;ll mean anyone in the world can buy a part of this popular business. It&#039;s still loss-making now though. <a href="https://www.neowin.net/news/you-may-soon-be-able-to-buy-shares-in-the-popular-webtoon-app-as-it-files-for-ipo/">Read more...</a>
+
+## WhatsApp introduces a revamped bottom calling bar in the latest beta update
+ - [https://www.neowin.net/news/whatsapp-introduces-a-revamped-bottom-calling-bar-in-the-latest-beta-update](https://www.neowin.net/news/whatsapp-introduces-a-revamped-bottom-calling-bar-in-the-latest-beta-update)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T13:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713989519_whatsapp_medium.jpg" /></div>The latest WhatsApp beta for Android reveals a new bottom calling bar that brings a bigger profile picture at the center and some minimal buttons to make the UI look modern and elevate the experience. <a href="https://www.neowin.net/news/whatsapp-introduces-a-revamped-bottom-calling-bar-in-the-latest-beta-update/">Read more...</a>
+
+## Microsoft could pay millions to European cloud provider association
+ - [https://www.neowin.net/news/microsoft-could-pay-millions-to-european-cloud-provider-association](https://www.neowin.net/news/microsoft-could-pay-millions-to-european-cloud-provider-association)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T12:14:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2016/05/microsoft-eu_medium.jpg" /></div>Microsoft could pay out millions of euros to the European cloud provider association, CISPE, for the latter to drop an antitrust case and not file any complaints against it anywhere else in the world. <a href="https://www.neowin.net/news/microsoft-could-pay-millions-to-european-cloud-provider-association/">Read more...</a>
+
+## Unofficial app lets you install controversial Windows Recall on unsupported Intel, AMD PCs
+ - [https://www.neowin.net/news/unofficial-app-lets-you-install-controversial-windows-recall-on-unsupported-intel-amd-pcs](https://www.neowin.net/news/unofficial-app-lets-you-install-controversial-windows-recall-on-unsupported-intel-amd-pcs)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T11:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/07/1627222744_w11_medium.jpg" /></div>Microsoft recently announced an interesting WIndows 11 24H2 feature that&#039;s both cool and controversial. Called Recall it is currently only officially supported on Qualcomm Snapdragon X. <a href="https://www.neowin.net/news/unofficial-app-lets-you-install-controversial-windows-recall-on-unsupported-intel-amd-pcs/">Read more...</a>
+
+## The awaited tourist voyage around the Moon that funded Musk's Starship was just canceled
+ - [https://www.neowin.net/news/the-awaited-tourist-voyage-around-the-moon-that-funded-musks-starship-was-just-canceled](https://www.neowin.net/news/the-awaited-tourist-voyage-around-the-moon-that-funded-musks-starship-was-just-canceled)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T10:42:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717231921_dearmoon_medium.jpg" /></div>The dearMoon mission of Yusaku Maezawa and a crew full of artists won&#039;t happen. When announced, Starship was just an idea on a drawing board. Today, it still aims for the Moon, but without Maezawa. <a href="https://www.neowin.net/news/the-awaited-tourist-voyage-around-the-moon-that-funded-musks-starship-was-just-canceled/">Read more...</a>
+
+## Weekend PC Game Deals: Survival fest hits, cooking bundles, and a medieval freebie
+ - [https://www.neowin.net/news/weekend-pc-game-deals-survival-fest-hits-cooking-bundles-and-a-medieval-freebie](https://www.neowin.net/news/weekend-pc-game-deals-survival-fest-hits-cooking-bundles-and-a-medieval-freebie)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T09:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/03/1551472873_3_medium.jpg" /></div>This weekend&#039;s PC game deals include a bundle full of cooking-related sims and arcade titles, a medieval warfare freebie from the Epic Games Store, free events for multiplayer fans, and more. <a href="https://www.neowin.net/news/weekend-pc-game-deals-survival-fest-hits-cooking-bundles-and-a-medieval-freebie/">Read more...</a>
+
+## SpaceX will launch back-to-back Starlink missions this week - TWIRL #167
+ - [https://www.neowin.net/news/spacex-will-launch-back-to-back-starlink-missions-this-week---twirl-167](https://www.neowin.net/news/spacex-will-launch-back-to-back-starlink-missions-this-week---twirl-167)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T08:10:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717228277_twirl-167_medium.jpg" /></div>We have quite a few missions coming up This Week in Rocket Launches. Notably, to start the week, there will be back-to-back Falcon 9 launches carrying Starlink internet satellites to space. <a href="https://www.neowin.net/news/spacex-will-launch-back-to-back-starlink-missions-this-week---twirl-167/">Read more...</a>
+
+## Neuralink patient registry now open to UK citizens after the U.S. and Canada
+ - [https://www.neowin.net/news/neuralink-patient-registry-now-open-to-uk-citizens-after-the-us-and-canada](https://www.neowin.net/news/neuralink-patient-registry-now-open-to-uk-citizens-after-the-us-and-canada)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T07:10:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/05/1685090270_screenshot_2023-05-26_at_2.06.47_pm_medium.jpg" /></div>UK patients suffering from severe diagnoses such as quadriplegia or vision loss can now apply to take part in future clinical trials for brain-computer interface implants by Elon Musk&#039;s Neuralink. <a href="https://www.neowin.net/news/neuralink-patient-registry-now-open-to-uk-citizens-after-the-us-and-canada/">Read more...</a>
+
+## Amazon Deal: Samsung 65-, 75-inch QLED 4K LS03D Frame TVs already tumbling to lowest prices
+ - [https://www.neowin.net/deals/amazon-deal-samsung-65--75-inch-qled-4k-ls03d-frame-tvs-already-tumbling-to-lowest-prices](https://www.neowin.net/deals/amazon-deal-samsung-65--75-inch-qled-4k-ls03d-frame-tvs-already-tumbling-to-lowest-prices)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T06:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717223829_samung_frme_ls03d_medium.jpg" /></div>The discounts on TVs continue. Samsung has now slashed the price of its 4K QLED Frame TV. The price-cuts apply to the massive 75-inch variant as well as the slightly smaller 65-inch model. <a href="https://www.neowin.net/deals/amazon-deal-samsung-65--75-inch-qled-4k-ls03d-frame-tvs-already-tumbling-to-lowest-prices/">Read more...</a>
+
+## Save $100 off the Intel 14th Gen Core i9-14900KS CPU at its lowest price ever on Amazon
+ - [https://www.neowin.net/deals/save-100-off-the-intel-14th-gen-core-i9-14900ks-cpu-at-its-lowest-price-ever-on-amazon](https://www.neowin.net/deals/save-100-off-the-intel-14th-gen-core-i9-14900ks-cpu-at-its-lowest-price-ever-on-amazon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T05:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717218589_intel-14th-gen-core-cpu_medium.jpg" /></div>The recently launched Intel 14th Gen Core i9-14900KS CPU has 24 cores, 32 threads, and a maximum clock speed of 6.2 GHz. It&#039;s now available at its lowest price yet of $649.99 on Amazon. <a href="https://www.neowin.net/deals/save-100-off-the-intel-14th-gen-core-i9-14900ks-cpu-at-its-lowest-price-ever-on-amazon/">Read more...</a>
+
+## Meta: The future of Facebook are young adults and AI
+ - [https://www.neowin.net/news/meta-the-future-of-facebook-are-young-adults-and-ai](https://www.neowin.net/news/meta-the-future-of-facebook-are-young-adults-and-ai)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T05:26:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717218902_facebook_reels_graphical_depiction_medium.jpg" /></div>Meta said the future of Facebook is focused on young adults and AI developments. Millions of young adults are daily active on the platform and it&#039;s developing new features to entice them. <a href="https://www.neowin.net/news/meta-the-future-of-facebook-are-young-adults-and-ai/">Read more...</a>
+
+## The iPhone 5s that you are carrying is an obsolete product according to Apple
+ - [https://www.neowin.net/news/the-iphone-5s-that-you-are-carrying-is-an-obsolete-product-according-to-apple](https://www.neowin.net/news/the-iphone-5s-that-you-are-carrying-is-an-obsolete-product-according-to-apple)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T05:10:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717217725_iphone-5s_medium.jpg" /></div>Apple has updated its vintage and obsolete products list and made three changes to it. The iPhone 5s is now considered obsolete, while the iPod Touch 6 and iMac 2015 are now vintage products. <a href="https://www.neowin.net/news/the-iphone-5s-that-you-are-carrying-is-an-obsolete-product-according-to-apple/">Read more...</a>
+
+## Toys For Bob confirms it is working on a new Microsoft Xbox game
+ - [https://www.neowin.net/news/toys-for-bob-confirms-it-is-working-on-a-new-microsoft-xbox-game](https://www.neowin.net/news/toys-for-bob-confirms-it-is-working-on-a-new-microsoft-xbox-game)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T04:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717216576_toys-for-bob-xbox_medium.jpg" /></div>Newly independent game developer Toys for Bob has confirmed earlier reports it has made a deal with Microsoft to work on a new game for the Xbox division. Details about the game have not been revealed <a href="https://www.neowin.net/news/toys-for-bob-confirms-it-is-working-on-a-new-microsoft-xbox-game/">Read more...</a>
+
+## Take-Two may shut down or sell off its Private Division publishing label
+ - [https://www.neowin.net/news/take-two-may-shut-down-or-sell-off-its-private-division-publishing-label](https://www.neowin.net/news/take-two-may-shut-down-or-sell-off-its-private-division-publishing-label)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T04:36:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717215165_private-division_medium.jpg" /></div>Private Division, a publishing label from Take-Two Interactive devoted to smaller indie games that was first announced in December 2017, may reportedly be shut down or sold off in the near future. <a href="https://www.neowin.net/news/take-two-may-shut-down-or-sell-off-its-private-division-publishing-label/">Read more...</a>
+
+## The official support pages of the Samsung Galaxy Watch FE go live, launch imminent
+ - [https://www.neowin.net/news/the-official-support-pages-of-the-samsung-galaxy-watch-fe-go-live-launch-imminent](https://www.neowin.net/news/the-official-support-pages-of-the-samsung-galaxy-watch-fe-go-live-launch-imminent)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T04:14:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716988939_one-ui-beta_thumbnail_wip_medium.jpg" /></div>After multiple rounds of leaks and rumors, it seems like the Samsung Galaxy Watch FE is indeed coming, as the official support pages of the affordable smartwatch have gone live in multiple regions. <a href="https://www.neowin.net/news/the-official-support-pages-of-the-samsung-galaxy-watch-fe-go-live-launch-imminent/">Read more...</a>
+
+## Spotify is giving Car Thing refunds, here how to get yours
+ - [https://www.neowin.net/news/spotify-is-giving-car-thing-refunds-here-how-to-get-yours](https://www.neowin.net/news/spotify-is-giving-car-thing-refunds-here-how-to-get-yours)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-01T02:58:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716492693_spotify_car_thing_medium.jpg" /></div>Spotify has started issuing refunds for the Car Thing music streaming hardware it killed about a week ago. The device which was sold with a $90 price tag will become inoperable later this year. <a href="https://www.neowin.net/news/spotify-is-giving-car-thing-refunds-here-how-to-get-yours/">Read more...</a>
+
