@@ -1,0 +1,100 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Amazon Deal: Get the Asus ROG Gladius III gaming mouse for its lowest price ever with coupon
+ - [https://www.neowin.net/deals/amazon-deal-get-the-asus-rog-gladius-iii-gaming-mouse-for-its-lowest-price-ever-with-coupon](https://www.neowin.net/deals/amazon-deal-get-the-asus-rog-gladius-iii-gaming-mouse-for-its-lowest-price-ever-with-coupon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T21:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717363492_asus-gladius-iii_medium.jpg" /></div>The Asus ROG Gladius III wired gaming mouse has an optical sensor with up to a 26,000 DPI setting and hot-swappable button switches. It&#039;s priced at $44.99 at Amazon with a digital coupon. <a href="https://www.neowin.net/deals/amazon-deal-get-the-asus-rog-gladius-iii-gaming-mouse-for-its-lowest-price-ever-with-coupon/">Read more...</a>
+
+## Nvidia app beta gets updated, Star Wars Outlaws will support DLSS 3.5, and more
+ - [https://www.neowin.net/news/nvidia-app-beta-gets-updated-star-wars-outlaws-will-support-dlss-35-and-more](https://www.neowin.net/news/nvidia-app-beta-gets-updated-star-wars-outlaws-will-support-dlss-35-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T14:20:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/07/1690480952_nvidia_logo_in_black_and_green_medium.jpg" /></div>Nvidia used Computex 2024 to announce a new update for its GPU PC beta app with some new features. Also, the upcoming Star Wars Outlaws will support Nvidia&#039;s DLSS 3.5 graphics tech and more. <a href="https://www.neowin.net/news/nvidia-app-beta-gets-updated-star-wars-outlaws-will-support-dlss-35-and-more/">Read more...</a>
+
+## Limited-time Deal: Klipsch Austin Portable Bluetooth Speaker drops to its lowest price
+ - [https://www.neowin.net/deals/limited-time-deal-klipsch-austin-portable-bluetooth-speaker-drops-to-its-lowest-price](https://www.neowin.net/deals/limited-time-deal-klipsch-austin-portable-bluetooth-speaker-drops-to-its-lowest-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T13:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717330545_klipsch_austin_3_medium.jpg" /></div>The Klipsch Austin Portable Bluetooth Speaker has dropped to its lowest price for the first time on Amazon US so get your hands on it for an upgraded audio experience while it&#039;s still in stock! <a href="https://www.neowin.net/deals/limited-time-deal-klipsch-austin-portable-bluetooth-speaker-drops-to-its-lowest-price/">Read more...</a>
+
+## Nvidia is working with PC makers on new Small Form Factor guidelines for cases and GPU cards
+ - [https://www.neowin.net/news/nvidia-is-working-with-pc-makers-on-new-small-form-factor-guidelines-for-cases-and-gpu-cards](https://www.neowin.net/news/nvidia-is-working-with-pc-makers-on-new-small-form-factor-guidelines-for-cases-and-gpu-cards)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T13:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717333582_nvidia-sff_medium.jpg" /></div>As part of Computex 2024, Nvidia has announced it is working with PC makers to create a new guideline so people who want to build a Small Form Factor PC can get the right case and graphics card. <a href="https://www.neowin.net/news/nvidia-is-working-with-pc-makers-on-new-small-form-factor-guidelines-for-cases-and-gpu-cards/">Read more...</a>
+
+## Nvidia reveals Project G-Assist as a way to help gamers with AI created answers to questions
+ - [https://www.neowin.net/news/nvidia-reveals-project-g-assist-as-a-way-to-help-gamers-with-ai-created-answers-to-questions](https://www.neowin.net/news/nvidia-reveals-project-g-assist-as-a-way-to-help-gamers-with-ai-created-answers-to-questions)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T13:10:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717332228_geforce-ai-assist_medium.jpg" /></div>At Computex 2024, Nvidia announced a new demo for a future service called Project G-Assist. It&#039;s designed to help gamers get answers to questions via AI while they are playing games. <a href="https://www.neowin.net/news/nvidia-reveals-project-g-assist-as-a-way-to-help-gamers-with-ai-created-answers-to-questions/">Read more...</a>
+
+## Microsoft 365 Roadmap Weekly: Copilot will soon make a PDF from a PowerPoint file and more.
+ - [https://www.neowin.net/news/microsoft-365-roadmap-weekly-copilot-will-soon-make-a-pdf-from-a-powerpoint-file-and-more](https://www.neowin.net/news/microsoft-365-roadmap-weekly-copilot-will-soon-make-a-pdf-from-a-powerpoint-file-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T10:28:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/10/1665551530_10790277_(37)_medium.jpg" /></div>This week&#039;s look back at the Microsoft 365 Roadmap includes a mention of a new Copilot feature that will allow it to make a PDF file out of a PowerPoint presentation file sometime in July. <a href="https://www.neowin.net/news/microsoft-365-roadmap-weekly-copilot-will-soon-make-a-pdf-from-a-powerpoint-file-and-more/">Read more...</a>
+
+## Amazon Deal: Get this LG 34-inch 34WP65C-B ultrawide monitor for a new low price of $249
+ - [https://www.neowin.net/deals/amazon-deal-get-this-lg-34-inch-34wp65c-b-ultrawide-monitor-for-a-new-low-price-of-249](https://www.neowin.net/deals/amazon-deal-get-this-lg-34-inch-34wp65c-b-ultrawide-monitor-for-a-new-low-price-of-249)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T10:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717321497_lg-ultrawide-monitor-1_medium.jpg" /></div>The LG 34-inch 34WP65C-B ultrawide curved monitor has a 3,440 x 1,440 resolution and a 160Hz refresh rate. It&#039;s also hit an all-new low price at Amazon of just $249, or $150 off its $399 MSRP. <a href="https://www.neowin.net/deals/amazon-deal-get-this-lg-34-inch-34wp65c-b-ultrawide-monitor-for-a-new-low-price-of-249/">Read more...</a>
+
+## The Asus ROG Ally X portable gaming PC launches in July for a price of up to $799
+ - [https://www.neowin.net/news/the-asus-rog-ally-x-portable-gaming-pc-launches-in-july-for-a-price-of-up-to-799](https://www.neowin.net/news/the-asus-rog-ally-x-portable-gaming-pc-launches-in-july-for-a-price-of-up-to-799)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T09:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717317977_rog-ally-x-1_medium.jpg" /></div>Asus has confirmed that its new ROG Ally X portable gaming PC, with a bigger battery, more RAM, and more storage than the original ROG Ally, will launch in July with a price of up to $799. <a href="https://www.neowin.net/news/the-asus-rog-ally-x-portable-gaming-pc-launches-in-july-for-a-price-of-up-to-799/">Read more...</a>
+
+## Windows 11's new AI feature makes it way too easy to steal everything you viewed or typed
+ - [https://www.neowin.net/news/windows-11s-new-ai-feature-makes-it-way-too-easy-to-steal-everything-you-viewed-or-typed](https://www.neowin.net/news/windows-11s-new-ai-feature-makes-it-way-too-easy-to-steal-everything-you-viewed-or-typed)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T08:32:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1716290832_recall_medium.jpg" /></div>Windows 11&#039;s Recall is a brand-new headline feature for Copilot+ PCs. While the idea is interesting, researchers say it makes it way too easy to steal everything you viewed or typed on your computer. <a href="https://www.neowin.net/news/windows-11s-new-ai-feature-makes-it-way-too-easy-to-steal-everything-you-viewed-or-typed/">Read more...</a>
+
+## Nvidia's AI boost could soon make it the second-most valuable company behind Microsoft
+ - [https://www.neowin.net/news/nvidias-ai-boost-could-soon-make-it-the-second-most-valuable-company-behind-microsoft](https://www.neowin.net/news/nvidias-ai-boost-could-soon-make-it-the-second-most-valuable-company-behind-microsoft)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T08:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717313168_depositphotos_377430980_s_medium.jpg" /></div>Nvidia could soon overtake Apple as the second-most valuable company in the world, only behind Microsoft. Nvidia has been doing very well for itself in recent years because it powers ChatGPT. <a href="https://www.neowin.net/news/nvidias-ai-boost-could-soon-make-it-the-second-most-valuable-company-behind-microsoft/">Read more...</a>
+
+## Microsoft Weekly: Windows 11 Recall on unsupported devices, new builds, and more
+ - [https://www.neowin.net/news/microsoft-weekly-windows-11-recall-on-unsupported-devices-new-builds-and-more](https://www.neowin.net/news/microsoft-weekly-windows-11-recall-on-unsupported-devices-new-builds-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T08:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701715790_microsoft_weekly_medium.jpg" /></div>Catch up with the latest Microsoft stories in this episode of Microsoft Weekly. Key news includes Recall on unsupported hardware, much-needed Settings improvements, new builds, and more. <a href="https://www.neowin.net/news/microsoft-weekly-windows-11-recall-on-unsupported-devices-new-builds-and-more/">Read more...</a>
+
+## Microsoft Edge reaches its all-time new high of 13.14% in the desktop browser market
+ - [https://www.neowin.net/news/microsoft-edge-reaches-its-all-time-new-high-of-1314-in-the-desktop-browser-market](https://www.neowin.net/news/microsoft-edge-reaches-its-all-time-new-high-of-1314-in-the-desktop-browser-market)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T06:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/02/1675249981_browsers_medium.jpg" /></div>Statcounter reports that Microsoft&#039;s desktop browser has now reached its all-time new high share of 13.14%, further securing its &quot;second most popular browser&quot; position in the desktop market. <a href="https://www.neowin.net/news/microsoft-edge-reaches-its-all-time-new-high-of-1314-in-the-desktop-browser-market/">Read more...</a>
+
+## European cloud providers deny they're close to a deal with Microsoft
+ - [https://www.neowin.net/news/european-cloud-providers-deny-theyre-close-to-a-deal-with-microsoft](https://www.neowin.net/news/european-cloud-providers-deny-theyre-close-to-a-deal-with-microsoft)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T04:34:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2016/05/microsoft-eu_medium.jpg" /></div>CISPE, a European cloud provider association, has denied that it is close to a deal with Microsoft to address an antitrust issue. Sources said yesterday that the two were approaching a deal already. <a href="https://www.neowin.net/news/european-cloud-providers-deny-theyre-close-to-a-deal-with-microsoft/">Read more...</a>
+
+## Leaked benchmarks of Pixel 9 show modest performance improvements over Pixel 8
+ - [https://www.neowin.net/news/leaked-benchmarks-of-pixel-9-show-modest-performance-improvements-over-pixel-8](https://www.neowin.net/news/leaked-benchmarks-of-pixel-9-show-modest-performance-improvements-over-pixel-8)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-02T04:18:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1715660837_pixel-9-series-live-image-2_medium.jpg" /></div>Images of Google Pixel 9 models benchmark test results have appeared online giving us our first look at the Tensor G4 chipset and its 1+3+4 core configuration along with performance improvements. <a href="https://www.neowin.net/news/leaked-benchmarks-of-pixel-9-show-modest-performance-improvements-over-pixel-8/">Read more...</a>
+
