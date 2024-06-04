@@ -1,0 +1,240 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Microsoft's Mixed Reality division hit by layoffs; will keep selling HoloLens 2 headset
+ - [https://www.neowin.net/news/microsofts-mixed-reality-division-hit-by-layoffs-will-keep-selling-hololens-2-headset](https://www.neowin.net/news/microsofts-mixed-reality-division-hit-by-layoffs-will-keep-selling-hololens-2-headset)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T21:04:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/05/1588883621_screenshot_(326)_medium.jpg" /></div>Microsoft has confirmed in a statement it has cut an unspecified number of jobs in its Mixed Reality division but added that it will continue to sell and support its HoleLens 2 MR headset. <a href="https://www.neowin.net/news/microsofts-mixed-reality-division-hit-by-layoffs-will-keep-selling-hololens-2-headset/">Read more...</a>
+
+## Amazon Deal: Get the Netgear Nighthawk RAXE300 Wi-Fi 6E wireless router for a new low price
+ - [https://www.neowin.net/deals/amazon-deal-get-the-netgear-nighthawk-raxe300-wi-fi-6e-wireless-router-for-a-new-low-price](https://www.neowin.net/deals/amazon-deal-get-the-netgear-nighthawk-raxe300-wi-fi-6e-wireless-router-for-a-new-low-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T20:44:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717445862_netgear-nighthawk-1_medium.jpg" /></div>The Netgear Nighthawk RAXE300 Wi-Fi 6E wireless router offers up to 7.8Gbps download speeds for up to 40 devices and up to 2,500 square feet. It&#039;s currently at a new low price of $239 at Amazon. <a href="https://www.neowin.net/deals/amazon-deal-get-the-netgear-nighthawk-raxe300-wi-fi-6e-wireless-router-for-a-new-low-price/">Read more...</a>
+
+## Windows 11 still lets you open old File Explorer without any tweaks or hacks
+ - [https://www.neowin.net/news/windows-11-still-lets-you-open-old-file-explorer-without-any-tweaks-or-hacks](https://www.neowin.net/news/windows-11-still-lets-you-open-old-file-explorer-without-any-tweaks-or-hacks)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T20:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/06/1686928097_file_explorer_medium.jpg" /></div>Here is some good news for those who miss the old File Explorer after upgrading to Windows 11: you can still open it with only a few clicks and without tinkering, registry tweaks or third-party apps. <a href="https://www.neowin.net/news/windows-11-still-lets-you-open-old-file-explorer-without-any-tweaks-or-hacks/">Read more...</a>
+
+## X (formerly Twitter) changes rules to allow more adult content
+ - [https://www.neowin.net/news/x-formerly-twitter-changes-rules-to-allow-more-adult-content](https://www.neowin.net/news/x-formerly-twitter-changes-rules-to-allow-more-adult-content)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T20:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1712662413_x-hero-image_medium.jpg" /></div>X (formerly Twitter) quietly made some changes to its rules over the weekend. The changes now allow users to post more adult and sexual content on the social network but with some restrictions. <a href="https://www.neowin.net/news/x-formerly-twitter-changes-rules-to-allow-more-adult-content/">Read more...</a>
+
+## Microsoft launches a Word add-in for creating and managing approval requests for workers
+ - [https://www.neowin.net/news/microsoft-launches-a-word-add-in-for-creating-and-managing-approval-requests-for-workers](https://www.neowin.net/news/microsoft-launches-a-word-add-in-for-creating-and-managing-approval-requests-for-workers)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T19:20:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/03/1553428080_word4_medium.jpg" /></div>Microsoft has launched a new add-in for its Word app that will allow Microsoft 365 frontline worker subscribers to create and manage new approval requests within the Word app for the first time. <a href="https://www.neowin.net/news/microsoft-launches-a-word-add-in-for-creating-and-managing-approval-requests-for-workers/">Read more...</a>
+
+## Contraband developer Avalanche Studios shuts down two locations; lays off about 50 workers
+ - [https://www.neowin.net/news/contraband-developer-avalanche-studios-shuts-down-two-locations-lays-off-about-50-workers](https://www.neowin.net/news/contraband-developer-avalanche-studios-shuts-down-two-locations-lays-off-about-50-workers)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T18:52:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/06/1623613924_contraband_613_hero_medium.jpg" /></div>Avalanche Studios, which is working on the upcoming Microsoft-published game Contraband, announced the layoffs of about 50 of its team members today and the closing of two of its five locations. <a href="https://www.neowin.net/news/contraband-developer-avalanche-studios-shuts-down-two-locations-lays-off-about-50-workers/">Read more...</a>
+
+## Microsoft confirms Windows 11 24H2 error 'Missing entry PcaWallpaperAppDetect'
+ - [https://www.neowin.net/news/microsoft-confirms-windows-11-24h2-error-missing-entry-pcawallpaperappdetect](https://www.neowin.net/news/microsoft-confirms-windows-11-24h2-error-missing-entry-pcawallpaperappdetect)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T18:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1715260441_6_medium.jpg" /></div>If you are on build 26100.712, which is the upcoming Windows 11 version 24H2, you may get an odd error related to the Pcasvc.dll file. Microsoft has just confirmed it and offered a workaround. <a href="https://www.neowin.net/news/microsoft-confirms-windows-11-24h2-error-missing-entry-pcawallpaperappdetect/">Read more...</a>
+
+## Save 49% off lifetime upgrades to AOMEI Partition Assistant
+ - [https://www.neowin.net/deals/save-49-off-lifetime-upgrades-to-aomei-partition-assistant](https://www.neowin.net/deals/save-49-off-lifetime-upgrades-to-aomei-partition-assistant)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T17:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/12/1639149503_aomei-partition-assistant_medium.jpg" /></div>Professional partition software for Windows — safely manage your disk partitions and protect system data for life! Or opt for the alternative deal and learn to play piano at 66% off! <a href="https://www.neowin.net/deals/save-49-off-lifetime-upgrades-to-aomei-partition-assistant/">Read more...</a>
+
+## Microsoft's head of AI and Search celebrates Bing's 15th anniversary today
+ - [https://www.neowin.net/news/microsofts-head-of-ai-and-search-celebrates-bings-15th-anniversary-today](https://www.neowin.net/news/microsofts-head-of-ai-and-search-celebrates-bings-15th-anniversary-today)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T16:40:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717431125_1559579817887_medium.jpg" /></div>Jordi Ribas, the corporate vice president for search and AI at Microsoft, posted some thoughts on the company&#039;s Bing search engine as it celebrates the 15th anniversary of its launch on June 3, 2009. <a href="https://www.neowin.net/news/microsofts-head-of-ai-and-search-celebrates-bings-15th-anniversary-today/">Read more...</a>
+
+## Kena: Bridge of Spirits gets an Xbox Series X|S and Xbox One launch on August 15
+ - [https://www.neowin.net/news/kena-bridge-of-spirits-gets-an-xbox-series-xs-and-xbox-one-launch-on-august-15](https://www.neowin.net/news/kena-bridge-of-spirits-gets-an-xbox-series-xs-and-xbox-one-launch-on-august-15)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T16:04:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717429588_kena_keyart_16x9_medium.jpg" /></div>Xbox players are finally getting the chance play Kena: Bridge of Spirits later this year. Ember Lab has announced Xbox One and Xbox Series X|S versions of the award-winning adventure game. <a href="https://www.neowin.net/news/kena-bridge-of-spirits-gets-an-xbox-series-xs-and-xbox-one-launch-on-august-15/">Read more...</a>
+
+## PlayStation VR 2 adapter for PC is out in August, but disables features like haptics
+ - [https://www.neowin.net/news/playstation-vr-2-adapter-for-pc-is-out-in-august-but-disables-features-like-haptics](https://www.neowin.net/news/playstation-vr-2-adapter-for-pc-is-out-in-august-but-disables-features-like-haptics)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T15:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717427681_8191be46ae0884783d6b9ef6e53f6096_medium.jpg" /></div>Virtual reality fans will soon have another headset to choose from. The PS VR2&#039;s PC adapter lands this August. However, it disables some features like haptics and eye tracking on PC. <a href="https://www.neowin.net/news/playstation-vr-2-adapter-for-pc-is-out-in-august-but-disables-features-like-haptics/">Read more...</a>
+
+## Free Download: The Software Developer's Guide to Linux ($31.99 Value) eBook
+ - [https://www.neowin.net/sponsored/free-download-the-software-developers-guide-to-linux-3199-value-ebook](https://www.neowin.net/sponsored/free-download-the-software-developers-guide-to-linux-3199-value-ebook)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T15:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717411878_w_pacb209c82_medium.jpg" /></div>Use Linux and the command line comfortably and apply your newfound skills in your day-to-day work to save time, troubleshoot issues, and be the command-line wizard that your team turns to. <a href="https://www.neowin.net/sponsored/free-download-the-software-developers-guide-to-linux-3199-value-ebook/">Read more...</a>
+
+## Firefox will use AI to improve browsing accessibility
+ - [https://www.neowin.net/news/firefox-will-use-ai-to-improve-browsing-accessibility](https://www.neowin.net/news/firefox-will-use-ai-to-improve-browsing-accessibility)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T14:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/11/1667483177_firefox_medium.jpg" /></div>Mozilla is not ignoring the ever-reaching AI boom. However, unlike other companies with gimmicky features, the company is trying to put AI to some good use, namely improve accessibility in Firefox 130 <a href="https://www.neowin.net/news/firefox-will-use-ai-to-improve-browsing-accessibility/">Read more...</a>
+
+## The Linux Mint Software Manager now loads faster and is more secure
+ - [https://www.neowin.net/news/the-linux-mint-software-manager-now-loads-faster-and-is-more-secure](https://www.neowin.net/news/the-linux-mint-software-manager-now-loads-faster-and-is-more-secure)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T13:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/07/1689010150_linux-mint_medium.jpg" /></div>The Linux Mint team has been working on a substantial upgrade to the Software Manager, which makes it load much quicker and boosts the security by disabling unverified Flatpaks by default. <a href="https://www.neowin.net/news/the-linux-mint-software-manager-now-loads-faster-and-is-more-secure/">Read more...</a>
+
+## Baldur's Gate 3 will get official PC mod tools in September, with a closed beta in July
+ - [https://www.neowin.net/news/baldurs-gate-3-will-get-official-pc-mod-tools-in-september-with-a-closed-beta-in-july](https://www.neowin.net/news/baldurs-gate-3-will-get-official-pc-mod-tools-in-september-with-a-closed-beta-in-july)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T13:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1693059489_ss_f8c7fcdeccbfe77e3fad33330a464fed30f781f0_medium.jpg" /></div>Larian has revealed that its hit fantasy RPG Baldur&#039;s Gate 3 will get official mod tools for the PC version in September, with a limited closed beta test to be held sometime in July. <a href="https://www.neowin.net/news/baldurs-gate-3-will-get-official-pc-mod-tools-in-september-with-a-closed-beta-in-july/">Read more...</a>
+
+## 44% of UK parents worry their kids lack digital skills past scrolling social media
+ - [https://www.neowin.net/news/44-of-uk-parents-worry-their-kids-lack-digital-skills-past-scrolling-social-media](https://www.neowin.net/news/44-of-uk-parents-worry-their-kids-lack-digital-skills-past-scrolling-social-media)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T13:16:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/06/1623862185_pexels-andrea-piacquadio-821948_medium.jpg" /></div>Three has conducted a survey among parents and found that they worry about their children&#039;s lack of digital skills. To help address the skills gap, it has launched workshops in 297 stores. <a href="https://www.neowin.net/news/44-of-uk-parents-worry-their-kids-lack-digital-skills-past-scrolling-social-media/">Read more...</a>
+
+## Folium is the first emulator to bring Nintendo 3DS games to your Apple iPhone
+ - [https://www.neowin.net/news/folium-is-the-first-emulator-to-bring-nintendo-3ds-games-to-your-apple-iphone](https://www.neowin.net/news/folium-is-the-first-emulator-to-bring-nintendo-3ds-games-to-your-apple-iphone)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T13:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717418148_folium-emulator_medium.jpg" /></div>After a bunch of emulators, Folium is the latest to join the crew which is also the first emulator to bring Nintendo 3DS games to an Apple iPhone. It is available for a one-time fee of $4.99. <a href="https://www.neowin.net/news/folium-is-the-first-emulator-to-bring-nintendo-3ds-games-to-your-apple-iphone/">Read more...</a>
+
+## Amazon Prime members can get the 43-inch 4-series Fire TV for a new low price via promo code
+ - [https://www.neowin.net/deals/amazon-prime-members-can-get-the-43-inch-4-series-fire-tv-for-a-new-low-price-via-promo-code](https://www.neowin.net/deals/amazon-prime-members-can-get-the-43-inch-4-series-fire-tv-for-a-new-low-price-via-promo-code)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T12:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/12/1703959230_untitled_design_medium.jpg" /></div>Members of the Amazon Prime service can get a 43-inch Amazon 4-Series Fire TV with 4K resolution and HDR support for a new all-time low price of just $209.99, with the use of a promo code. <a href="https://www.neowin.net/deals/amazon-prime-members-can-get-the-43-inch-4-series-fire-tv-for-a-new-low-price-via-promo-code/">Read more...</a>
+
+## Microsoft fixes a bug preventing Surface Laptop Go 2 from restarting in the latest firmware
+ - [https://www.neowin.net/news/microsoft-fixes-a-bug-preventing-surface-laptop-go-2-from-restarting-in-the-latest-firmware](https://www.neowin.net/news/microsoft-fixes-a-bug-preventing-surface-laptop-go-2-from-restarting-in-the-latest-firmware)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T12:06:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/03/1678179272_surface_laptop_go_2_medium.jpg" /></div>Microsoft has released a new firmware for the Surface Laptop Go 2. It fixes a bug preventing the computer from restarting upon holding the power button and resolves a few vulnerabilities. <a href="https://www.neowin.net/news/microsoft-fixes-a-bug-preventing-surface-laptop-go-2-from-restarting-in-the-latest-firmware/">Read more...</a>
+
+## Spotify increases Premium prices in the US once again
+ - [https://www.neowin.net/news/spotify-increases-premium-prices-in-the-us-once-again](https://www.neowin.net/news/spotify-increases-premium-prices-in-the-us-once-again)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T11:50:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717414457_spotify_premium_medium.jpg" /></div>If you are a Spotify Premium user and you live in the United States, get ready for yet another price increase. All four Spotify Premium price tiers are going up over the next month. <a href="https://www.neowin.net/news/spotify-increases-premium-prices-in-the-us-once-again/">Read more...</a>
+
+## Valve: 46% of PC users on Steam run Windows 11
+ - [https://www.neowin.net/news/valve-46-of-pc-users-on-steam-run-windows-11](https://www.neowin.net/news/valve-46-of-pc-users-on-steam-run-windows-11)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T11:06:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/07/1688304142_steam_medium.jpg" /></div>The May 2024 results of the monthly Steam Hardware &amp; Software Survey reveal Windows 11 is almost catching up with Windows 10. It now has a 46.08% market share, only a few points away from Windows 10. <a href="https://www.neowin.net/news/valve-46-of-pc-users-on-steam-run-windows-11/">Read more...</a>
+
+## Microsoft Security is warning of Russian misinformation campaigns during the 2024 Olympics
+ - [https://www.neowin.net/news/microsoft-security-is-warning-of-russian-misinformation-campaigns-during-the-2024-olympics](https://www.neowin.net/news/microsoft-security-is-warning-of-russian-misinformation-campaigns-during-the-2024-olympics)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T10:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717405970_depositphotos_522529100_xl_medium.jpg" /></div>The Microsoft Threat Analysis Center (MTAC) has issued a warning that Russian-based hacker groups are using AI as part of a campaign to spread misinformation about the upcoming 2024 Paris Olympics. <a href="https://www.neowin.net/news/microsoft-security-is-warning-of-russian-misinformation-campaigns-during-the-2024-olympics/">Read more...</a>
+
+## Justin "Mac" Long is abandoning Apple for a Snapdragon X Windows PC in new promo video
+ - [https://www.neowin.net/news/justin-mac-long-is-abandoning-apple-for-a-snapdragon-x-windows-pc-in-new-promo-video](https://www.neowin.net/news/justin-mac-long-is-abandoning-apple-for-a-snapdragon-x-windows-pc-in-new-promo-video)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T09:14:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717403209_justin-long-qualcomm_medium.jpg" /></div>Qualcomm showed a promo video at the end of its Computex 2024 keynote showing actor Justin Long, who was a long-time spokesperson for Apple, using his Mac to try to order a Snapdragon X Windows PC. <a href="https://www.neowin.net/news/justin-mac-long-is-abandoning-apple-for-a-snapdragon-x-windows-pc-in-new-promo-video/">Read more...</a>
+
+## Get the 256GB iPad Pro 11-inch (M4) now and save $55
+ - [https://www.neowin.net/deals/get-the-256gb-ipad-pro-11-inch-m4-now-and-save-55](https://www.neowin.net/deals/get-the-256gb-ipad-pro-11-inch-m4-now-and-save-55)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T08:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717402856_61isqrfoxjl._ac_sl1500__medium.jpg" /></div>You can pick up the 256GB iPad Pro 11-inch (M4) from Amazon now with a sweet $55 discount. With this applied, you&#039;ll be saving 6% on the original cost with it costing $944 instead of $999. <a href="https://www.neowin.net/deals/get-the-256gb-ipad-pro-11-inch-m4-now-and-save-55/">Read more...</a>
+
+## Qualcomm teases Snapdragon X Elite chips are coming to all types of PC form factors
+ - [https://www.neowin.net/news/qualcomm-teases-snapdragon-x-elite-chips-are-coming-to-all-types-of-pc-form-factors](https://www.neowin.net/news/qualcomm-teases-snapdragon-x-elite-chips-are-coming-to-all-types-of-pc-form-factors)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T08:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717402235_qualcomm-pc-form-factors_medium.jpg" /></div>During its Computex 2024 keynote address, Qualcomm CEO Cristiano Amon teased that its Snapdragon X Elite chips for Windows laptops will be available for &quot;all form factors&quot; of PCs in the future. <a href="https://www.neowin.net/news/qualcomm-teases-snapdragon-x-elite-chips-are-coming-to-all-types-of-pc-form-factors/">Read more...</a>
+
+## Microsoft reportedly wants to update Windows 11 setup so this deadly feature isn't default
+ - [https://www.neowin.net/news/microsoft-reportedly-wants-to-update-windows-11-setup-so-this-deadly-feature-isnt-default](https://www.neowin.net/news/microsoft-reportedly-wants-to-update-windows-11-setup-so-this-deadly-feature-isnt-default)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T07:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/10/1666776970_windows_11_logo_medium.jpg" /></div>There has been some concern ever since Microsoft announced its Recall feature for Copilot+ AI PCs. The feature is now enabled by default during setup but could reportedly change soon. <a href="https://www.neowin.net/news/microsoft-reportedly-wants-to-update-windows-11-setup-so-this-deadly-feature-isnt-default/">Read more...</a>
+
+## Save £300 off the Galaxy S24 Ultra on Amazon UK right now
+ - [https://www.neowin.net/deals/save-300-off-the-galaxy-s24-ultra-on-amazon-uk-right-now](https://www.neowin.net/deals/save-300-off-the-galaxy-s24-ultra-on-amazon-uk-right-now)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T06:20:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717394207_71vsduymirl._ac_sl1500__medium.jpg" /></div>Are you looking for a new high-end phone? Amazon is currently running a deal for the Galaxy S24 Ultra which will net you savings of up to 24% depending on which size variant you buy. <a href="https://www.neowin.net/deals/save-300-off-the-galaxy-s24-ultra-on-amazon-uk-right-now/">Read more...</a>
+
+## The latest leak gives us an interesting detail about the iPhone 16 Pro's screen bezels
+ - [https://www.neowin.net/news/the-latest-leak-gives-us-an-interesting-detail-about-the-iphone-16-pros-screen-bezels](https://www.neowin.net/news/the-latest-leak-gives-us-an-interesting-detail-about-the-iphone-16-pros-screen-bezels)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T06:04:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1694550149_iphone_15_pro_2_medium.jpg" /></div>A leaker allegedly got his hands on the upcoming iPhone 16 Pro and the iPhone 16 Pro Max displays and measured the bezels, revealing that both phones will have more display and come with thin bezels. <a href="https://www.neowin.net/news/the-latest-leak-gives-us-an-interesting-detail-about-the-iphone-16-pros-screen-bezels/">Read more...</a>
+
+## Apple allegedly preparing to overhaul the iPhone Control Center as a part of iOS 18
+ - [https://www.neowin.net/news/apple-allegedly-preparing-to-overhaul-the-iphone-control-center-as-a-part-of-ios-18](https://www.neowin.net/news/apple-allegedly-preparing-to-overhaul-the-iphone-control-center-as-a-part-of-ios-18)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T04:40:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713190031_ios-18-image_medium.jpg" /></div>Apart from a slew of artificial intelligence features, iOS 18 is reportedly expected to bring some changes to the iPhone Control Center with a redesigned music widget and HomeKit controls. <a href="https://www.neowin.net/news/apple-allegedly-preparing-to-overhaul-the-iphone-control-center-as-a-part-of-ios-18/">Read more...</a>
+
+## Unskippable ads might come to an Instagram app near you
+ - [https://www.neowin.net/news/unskippable-ads-might-come-to-an-instagram-app-near-you](https://www.neowin.net/news/unskippable-ads-might-come-to-an-instagram-app-near-you)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T04:24:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717387262_instagram_website_on_iphone_medium.jpg" /></div>Instagram is reportedly testing unskippable ads on its platform. Multiple users have reported seeing a feature called &quot;Ad break&quot; that runs advertisements of about three to five seconds in length. <a href="https://www.neowin.net/news/unskippable-ads-might-come-to-an-instagram-app-near-you/">Read more...</a>
+
+## AMD launches Ryzen 9000-ready X870, X870E chipsets with USB4, faster EXPO RAM support
+ - [https://www.neowin.net/news/amd-launches-ryzen-9000-ready-x870-x870e-chipsets-with-usb4-faster-expo-ram-support](https://www.neowin.net/news/amd-launches-ryzen-9000-ready-x870-x870e-chipsets-with-usb4-faster-expo-ram-support)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T03:00:39+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/11/1637569079_amd_ryzen_reddish_medium.jpg" /></div>AMD has released a couple of new chipsets in the form of X870E and X870. These new chipsets are based on the existing socket AM5 and they are meant to increase adoption of USB4, PCIe 5.0, and more. <a href="https://www.neowin.net/news/amd-launches-ryzen-9000-ready-x870-x870e-chipsets-with-usb4-faster-expo-ram-support/">Read more...</a>
+
+## AMD: Ryzen AI 300 exceeds Microsoft Copilot+ PC requirement, beats Qualcomm, Apple, Intel
+ - [https://www.neowin.net/news/amd-ryzen-ai-300-exceeds-microsoft-copilot-pc-requirement-beats-qualcomm-apple-intel](https://www.neowin.net/news/amd-ryzen-ai-300-exceeds-microsoft-copilot-pc-requirement-beats-qualcomm-apple-intel)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T03:00:26+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717338903_amd_ryzen_ai_300_launch_computex_24_via_sayan_sen_neowin_4_medium.jpg" /></div>AMD has launched new Ryzen AI 9 300 series mobile APUs that easily meet the minimum requirement outlined by Microsoft for its Copilot+ AI PC. These will soon be available alongside Ryzen 9000. <a href="https://www.neowin.net/news/amd-ryzen-ai-300-exceeds-microsoft-copilot-pc-requirement-beats-qualcomm-apple-intel/">Read more...</a>
+
+## Alongside Ryzen 9000, AMD announces new Ryzen 16-core 5900XT, 8-core 5800XT for AM4 too
+ - [https://www.neowin.net/news/alongside-ryzen-9000-amd-announces-new-ryzen-16-core-5900xt-8-core-5800xt-for-am4-too](https://www.neowin.net/news/alongside-ryzen-9000-amd-announces-new-ryzen-16-core-5900xt-8-core-5800xt-for-am4-too)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T03:00:15+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/12/1608392541_side_front_view_medium.jpg" /></div>Besides the new Ryzen 9000 series processors for AM5, AMD has also announced a couple of new toys for the Socket AM4 platform as well. These include a 16-core 5900XT and an 8-core 5800XT. <a href="https://www.neowin.net/news/alongside-ryzen-9000-amd-announces-new-ryzen-16-core-5900xt-8-core-5800xt-for-am4-too/">Read more...</a>
+
+## AMD launches Ryzen 9950X, 9900X, 9700X, 9600X, powered by massive 16% IPC boosted Zen 5
+ - [https://www.neowin.net/news/amd-launches-ryzen-9950x-9900x-9700x-9600x-powered-by-massive-16-ipc-boosted-zen-5](https://www.neowin.net/news/amd-launches-ryzen-9950x-9900x-9700x-9600x-powered-by-massive-16-ipc-boosted-zen-5)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-03T03:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717310383_ryzen_9000_launch_amd_computex_24_via_sayan_sen_neowin_1_medium.jpg" /></div>AMD has officially unveiled its next-gen desktop processor lineup, the Ryzen 9000 series, powered by Zen 5 architecture. The company is claiming an impressive 16% IPC gain compared to Zen 4. <a href="https://www.neowin.net/news/amd-launches-ryzen-9950x-9900x-9700x-9600x-powered-by-massive-16-ipc-boosted-zen-5/">Read more...</a>
+
