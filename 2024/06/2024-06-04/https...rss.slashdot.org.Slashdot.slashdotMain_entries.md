@@ -1,0 +1,200 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Nintendo Hits 127 Switch Piracy Tutorial Repos After 'Cracking' URL Encryption
+ - [https://yro.slashdot.org/story/24/06/04/2046254/nintendo-hits-127-switch-piracy-tutorial-repos-after-cracking-url-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/06/04/2046254/nintendo-hits-127-switch-piracy-tutorial-repos-after-cracking-url-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T23:31:12.475257+00:00
+
+An anonymous reader quotes a report from TorrentFreak: A popular GitHub repo and over 120 forks containing Switch emulation tutorials have been targeted by Nintendo. While most forks are now disabled, the main repository has managed to survive after being given the opportunity to put things right. Whether Nintendo appreciated the irony is unclear, but it appears that use of encoding as a protection measure to obfuscate links, was no match for the video game company's circumvention skills. [...] The Switch Emulators Guide was presented in the context of piracy, something made clear by a note on the main page of the original repo which stated that the tutorial was made, in part, for use on the /r/NewYuzuPiracy subreddit. Since the actions of Yuzu and its eventual demise are part of the unwritten framework for similar takedowns, that sets the tone (although not the legal basis) in favor of takedown.
+ 
+When asked to provide a description and URL pointing to the copyrighted content alleged
+
+## A New Google Maps Layer Shows Public Restrooms In NYC
+ - [https://news.slashdot.org/story/24/06/04/2134254/a-new-google-maps-layer-shows-public-restrooms-in-nyc?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/06/04/2134254/a-new-google-maps-layer-shows-public-restrooms-in-nyc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T23:31:10.611768+00:00
+
+Google Maps has introduced a new layer to help individuals find public restrooms in New York City. The Verge reports: As part of a new program called "Ur in Luck," the city has introduced a Maps view dotted with 1,000 public restrooms across the five boroughs. Users can view the map on their phones and locate the closest restroom that's accessible to the public. "Everyone -- seniors, parents with kids, anyone enjoying the day outdoors, needs access to a public bathroom without having to buy anything or beg for a code," Deputy Mayor for Operations Meera Joshi said in a press release. The city will also build 46 new restrooms and renovate 36 existing locations over the next five years.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=A+New+Google+Maps+Layer+Shows+Public+Restrooms+In+NYC%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F06%2F04%2F2134254%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon
+
+## Google Contractor Used Admin Access To Leak Info From Private Nintendo YouTube Video
+ - [https://tech.slashdot.org/story/24/06/04/2028218/google-contractor-used-admin-access-to-leak-info-from-private-nintendo-youtube-video?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/06/04/2028218/google-contractor-used-admin-access-to-leak-info-from-private-nintendo-youtube-video?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T22:26:20.870724+00:00
+
+A Google contractor used admin privileges to access private information from Nintendo's YouTube account about an upcoming Yoshi game in 2017, which later made its way to Reddit before Nintendo announced the game, according to a copy of an internal Google database detailing potential privacy and security incidents obtained by 404 Media. From the report: The news provides more clarity on how exactly a Redditor, who teased news of the new Yoshi game, which was later released as Yoshi's Crafted World in 2019, originally obtained their information. A screenshot in the Reddit post shows a URL that starts with www.admin.youtube.com, which is a Google corporate login page. "Google employee deliberately leaked private Nintendo information," the entry in the database reads. The database obtained by 404 Media includes privacy and security issues that Google's own employees reported internally.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Google+Contra
+
+## Apollo To Provide $11 Billion To Intel For Ireland Facility
+ - [https://slashdot.org/story/24/06/04/2141239/apollo-to-provide-11-billion-to-intel-for-ireland-facility?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/06/04/2141239/apollo-to-provide-11-billion-to-intel-for-ireland-facility?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T22:26:19.095878+00:00
+
+Apollo Global announced today that it will acquire a 49% equity interest in Intel's manufacturing facility in Ireland for $11 billion, in a deal expected to close in the second quarter. The deal "would allow Intel to redeploy parts of its investment in the project to other parts of its business," reports Reuters. "Intel has invested $18.4 billion in the facility till date." From the report: Apollo will acquire the stake in the Fab 34 facility in Leixlip, Ireland, the U.S. chipmaker's first high-volume location for its Intel 4 manufacturing process using extreme ultraviolet lithography machines. The company announced plans in 2022 to build chip factories in Ireland and France as it seeks to benefit from easier European Commission funding rules and subsidies as the bloc looks to cut its dependence on U.S. and Asian supply. Intel will retain full ownership and operational control of Fab 34 and its assets.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?
+
+## ChatGPT, Claude and Perplexity All Went Down At the Same Time
+ - [https://slashdot.org/story/24/06/04/2027209/chatgpt-claude-and-perplexity-all-went-down-at-the-same-time?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/06/04/2027209/chatgpt-claude-and-perplexity-all-went-down-at-the-same-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T21:21:17.580198+00:00
+
+Sarah Perez reports via TechCrunch: After a multi-hour outage that took place in the early hours of the morning, OpenAI's ChatGPT chatbot went down again -- but this time, it wasn't the only AI provider affected. On Tuesday morning, both Anthropic's Claude and Perplexity began seeing issues, too, but these were more quickly resolved. Google's Gemini appears to be operating at present, though it may have also briefly gone offline, according to some user reports.
+ 
+It's unusual for three major AI providers to all be down at the same time, which could signal a broader infrastructure issue or internet-scale problem, such as those that affect multiple social media sites simultaneously, for example. It's also possible that Claude and Perplexity's issues were not due to bugs or other issues, but from receiving too much traffic in a short period of time due to ChatGPT's outage.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=ChatGPT%2C+Claude+and+Perp
+
+## Online Streaming Services In Canada Must Hand Over 5% of Domestic Revenues
+ - [https://news.slashdot.org/story/24/06/04/2020255/online-streaming-services-in-canada-must-hand-over-5-of-domestic-revenues?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/06/04/2020255/online-streaming-services-in-canada-must-hand-over-5-of-domestic-revenues?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T21:21:15.668234+00:00
+
+An anonymous reader quotes a report from CBC News: Online streaming services operating in Canada will be required to contribute five percent of their Canadian revenues to support the domestic broadcasting system, the country's telecoms regulator said on Tuesday. The money will be used to boost funding for local and Indigenous broadcasting, officials from the Canadian Radio-television and Telecommunications Commission (CRTC) said in a briefing. "Today's decision will help ensure that online streaming services make meaningful contributions to Canadian and Indigenous content," wrote CRTC chief executive and chair Vicky Eatrides in a statement.
+ 
+The measure was introduced under the auspices of a law passed last year designed to make sure that companies like Netflix make a more significant contribution to Canadian culture. The government says the legislation will ensure that online streaming services promote Canadian music and stories, and support Canadian jobs. Funding will also be direc
+
+## Intel CEO Takes Aim at Nvidia in Fight for AI Chip Dominance
+ - [https://slashdot.org/story/24/06/04/180222/intel-ceo-takes-aim-at-nvidia-in-fight-for-ai-chip-dominance?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/06/04/180222/intel-ceo-takes-aim-at-nvidia-in-fight-for-ai-chip-dominance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T20:17:20.526473+00:00
+
+Intel Chief Executive Officer Pat Gelsinger took the stage at the Computex show in Taiwan to talk about new products he expects will help turn back the tide of share losses to peers, including AI leader Nvidia. From a report: Intel showed its new Xeon 6 data center processors with more efficient cores that will allow operators to cut down the space required for a given task to a third of prior-generation hardware. Like rivals, from Advanced Micro Devices to Qualcomm, Intel touted benchmarks that showed its new silicon is significantly better than its existing options. AMD and Qualcomm's CEOs, in earlier Computex keynotes, used Intel's laptop and desktop processors to show how far ahead they are in certain aspects of technology. 
+
+Gelsinger took a direct shot at Nvidia CEO Jensen Huang's claim that traditional processors like Intel's are running out of steam in the age of artificial intelligence. "Unlike what Jensen would have you believe, Moore's Law is alive and well," he said, stres
+
+## Services Disrupted as London Hospitals Hit By Cyber-attack
+ - [https://it.slashdot.org/story/24/06/04/187206/services-disrupted-as-london-hospitals-hit-by-cyber-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/06/04/187206/services-disrupted-as-london-hospitals-hit-by-cyber-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T20:17:18.126563+00:00
+
+jd writes: There aren't many details yet, but a private company used by the National Health Service in London was hit by a ransomware attack today, leading to cancelled operations and cancelled tests. The provider has been hit multiple times this year and is obviously not bothering with making any improvements in cybersecurity. There really should be legal requirements when it comes to maintaining what is de-facto critical infrastructure. 
+
+From the article: "Major NHS hospitals in London have been hit by a cyber-attack, which is seriously disrupting their services, including blood tests and transfusions. The ransomware attack is having a "major impact" on the care provided by Guy's and St Thomas' NHS trust, its chief executive has told staff in a letter. The attack is understood to affect other hospitals, including King's College hospital, and has left them unable to connect to the servers of the private firm that provides their pathology services. 
+
+Synnovis, an outsourced provider 
+
+## FCC Sued by Broadband Industry Groups Over Net Neutrality Rules
+ - [https://tech.slashdot.org/story/24/06/04/1930200/fcc-sued-by-broadband-industry-groups-over-net-neutrality-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/06/04/1930200/fcc-sued-by-broadband-industry-groups-over-net-neutrality-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T20:17:15.890638+00:00
+
+Several broadband industry lobby groups have filed lawsuits against the Federal Communications Commission (FCC) in an attempt to overturn the recently approved net neutrality rules. The regulations, which prohibit blocking, throttling, and paid prioritization, are scheduled to take effect on July 22. The lawsuits were filed in various US appeals courts by groups representing cable, telecom, and mobile Internet service providers, including NCTA-The Internet &amp; Television Association, USTelecom, CTIA-The Wireless Association, and several state-level associations. The groups argue that the FCC lacks the authority to reclassify broadband as a telecommunications service under Title II of the Communications Act of 1934 without explicit instructions from Congress. 
+
+In addition to the lawsuits, the industry groups have also petitioned the FCC for a stay of the rules, claiming that their members will suffer irreparable harm if the regulations take effect while litigation is pending. The FC
+
+## Ex-Google CEO Funds AI Research at Europe's Top Physics Hub CERN
+ - [https://slashdot.org/story/24/06/04/1939227/ex-google-ceo-funds-ai-research-at-europes-top-physics-hub-cern?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/06/04/1939227/ex-google-ceo-funds-ai-research-at-europes-top-physics-hub-cern?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T20:17:13.654639+00:00
+
+A donation by former Google chief Eric Schmidt to Europe's top particle physics lab heralds a new way to fund frontier research just as the West's technological race with China quickens. From a report: The European Organization for Nuclear Research, or CERN, will use the previously unreported gift of $48 million [non-paywalled link] from the Eric &amp; Wendy Schmidt Fund for Strategic Innovation to develop AI algorithms to analyze raw data from the lab's Large Hadron Collider, the world's most powerful energy particle accelerator. In 2012, it discovered the Higgs Boson, a particle that&#226;(TM)s key to understanding how the universe is built. 
+
+Now, CERN needs to reinvest to stay at the cutting edge of particle physics research. By the late 2030s, the LHC is expected to reach the end of its useful life and CERN needs $17 billion from European nations to fund the construction of a much bigger accelerator, known as the Future Circular Collider. But that funding has yet to be secured an
+
+## The Chinese Internet Is Shrinking
+ - [https://tech.slashdot.org/story/24/06/04/1710246/the-chinese-internet-is-shrinking?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/06/04/1710246/the-chinese-internet-is-shrinking?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T17:54:06.298053+00:00
+
+An anonymous reader shares a report: Chinese people know their country's internet is different. There is no Google, YouTube, Facebook or Twitter. They use euphemisms online to communicate the things they are not supposed to mention. When their posts and accounts are censored, they accept it with resignation. They live in a parallel online universe. They know it and even joke about it. Now they are discovering that, beneath a facade bustling with short videos, livestreaming and e-commerce, their internet -- and collective online memory -- is disappearing in chunks. 
+
+A post on WeChat on May 22 that was widely shared reported that nearly all information posted on Chinese news portals, blogs, forums, social media sites between 1995 and 2005 was no longer available. "The Chinese internet is collapsing at an accelerating pace," the headline said. Predictably, the post itself was soon censored. It's impossible to determine exactly how much and what content has disappeared. [...] In addition
+
+## World Will Miss Target of Tripling Renewable Electricity Generation By 2030, IEA Says
+ - [https://news.slashdot.org/story/24/06/04/165230/world-will-miss-target-of-tripling-renewable-electricity-generation-by-2030-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/06/04/165230/world-will-miss-target-of-tripling-renewable-electricity-generation-by-2030-iea-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T16:48:49.164224+00:00
+
+AmiMoJo shares a report: The world is off track to meet the goal of tripling renewable electricity generation by 2030, a target viewed as vital to enable a swift global transition away from fossil fuels, but there are promising signs that the pace of progress may be picking up. 
+
+Countries agreed last December on a tripling of renewable power by the end of this decade. But few have yet taken concrete steps to meet this requirement and on current policies and trends global renewable generation capacity would only roughly double in developed countries, and slightly more than double globally by 2030, according to an analysis by the International Energy Agency. 
+
+Governments should include targets and policies on renewables in their national action plans for the climate (called nationally determined contributions, or NDCs), which are a requirement under the Paris agreement, the IEA found. Many currently fail to do so, even though vast increases in renewable power are essential to meeting 
+
+## OpenAI Employees Want Protections To Speak Out on 'Serious Risks' of AI
+ - [https://slashdot.org/story/24/06/04/1647203/openai-employees-want-protections-to-speak-out-on-serious-risks-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/06/04/1647203/openai-employees-want-protections-to-speak-out-on-serious-risks-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T16:48:47.625629+00:00
+
+A group of current and former employees from OpenAI and Google DeepMind are calling for protection from retaliation for sharing concerns about the "serious risks" of the technologies these and other companies are building. From a report: "So long as there is no effective government oversight of these corporations, current and former employees are among the few people who can hold them accountable to the public," according to a public letter, which was signed by 13 people who've worked at the companies, seven of whom included their names. "Yet broad confidentiality agreements block us from voicing our concerns, except to the very companies that may be failing to address these issues." 
+
+In recent weeks, OpenAI has faced controversy about its approach to safeguarding artificial intelligence after dissolving one of its most high-profile safety teams and being hit by a series of staff departures. OpenAI employees have also raised concerns that staffers were asked to sign nondisparagement 
+
+## Snowflake Says There's No Evidence Attackers Breached Its Platform To Hack Ticketmaster
+ - [https://it.slashdot.org/story/24/06/04/1314200/snowflake-says-theres-no-evidence-attackers-breached-its-platform-to-hack-ticketmaster?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/06/04/1314200/snowflake-says-theres-no-evidence-attackers-breached-its-platform-to-hack-ticketmaster?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T15:43:25.453244+00:00
+
+An anonymous reader shares a report: A Ticketmaster data breach that allegedly includes details for 560 million accounts and another one affecting Santander have been linked to their accounts at Snowflake, a cloud storage provider. However, Snowflake says there's no evidence its platform is at fault. A joint statement to that effect made last night with CrowdStrike and Mandiant, two third-party security companies investigating the incident, lends additional credibility to the claim. 
+
+Also, an earlier third-party report saying bad actors generated session tokens and may have compromised "hundreds" of Snowflake accounts has now been removed. Hudson Rock, the security firm behind that report, posted a statement of its own today on LinkedIn: "In accordance to a letter we received from Snowflake's legal counsel, we have decided to take down all content related to our report." A post from Snowflake says, "To date, we do not believe this activity is caused by any vulnerability, misconfigura
+
+## More Than Half of US Adults Will Have Cardiovascular Disease By 2050, Research Finds
+ - [https://science.slashdot.org/story/24/06/04/1522244/more-than-half-of-us-adults-will-have-cardiovascular-disease-by-2050-research-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/06/04/1522244/more-than-half-of-us-adults-will-have-cardiovascular-disease-by-2050-research-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T15:43:23.501628+00:00
+
+By 2050, 61% of U.S. adults will have cardiovascular disease, driven mainly by high blood pressure, according to new American Heart Association research. High blood pressure significantly increases the risk of heart attacks, strokes, and other dangerous cardiovascular problems. The findings also point to ongoing challenges with arrhythmias, heart failure, and congenital heart disease. CNN: In the research published Tuesday, the association predicts that 45 million adults will have some form of cardiovascular disease -- excluding high blood pressure -- or will have a stroke in 2050, up from 28 million in 2020. An aging population will be another force behind these trends, as the older you get, the more likely you are to have heart problems. 
+
+By 2050, 22% of the US will be over the age of 65, whereas seniors made up just 13% of the population 10 years ago, studies say. The median age in the US is projected to increase from 37 in 2010 to 41 in 2050, other research shows. The American po
+
+## Palmer Luckey Unveils ModRetro Chromatic Handheld Console
+ - [https://games.slashdot.org/story/24/06/04/1252222/palmer-luckey-unveils-modretro-chromatic-handheld-console?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/06/04/1252222/palmer-luckey-unveils-modretro-chromatic-handheld-console?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T14:38:49.203963+00:00
+
+Palmer Luckey, founder of Oculus VR and Anduril, has launched the ModRetro Chromatic, a retro gaming handheld that plays original Game Boy and Game Boy Color cartridges. The device boasts a magnesium alloy case, sapphire crystal screen, and a pixel-perfect IPS display. It comes bundled with a licensed copy of Tetris and supports Link Cable multiplayer. Luckey suggested that the Chromatic is the most authentic way to play Game Boy games, with custom components designed to provide the ultimate gaming experience. The handheld is available for preorder and will ship during the 2024 holiday season.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Palmer+Luckey+Unveils+ModRetro+Chromatic+Handheld+Console%3A+https%3A%2F%2Fgames.slashdot.org%2Fstory%2F24%2F06%2F04%2F1252222%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https
+
+## Qualcomm Spoofs 'I'm a Mac' Ads To Promote Windows On ARM PCs
+ - [https://tech.slashdot.org/story/24/06/03/2328215/qualcomm-spoofs-im-a-mac-ads-to-promote-windows-on-arm-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/06/03/2328215/qualcomm-spoofs-im-a-mac-ads-to-promote-windows-on-arm-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T13:33:31.516131+00:00
+
+An anonymous reader quotes a report from PCMag: Justin Long, the actor known for playing the Mac guy in Apple's mid-2000s ad campaign is once again switching sides -- this time to promote new Windows laptops from Qualcomm. Long appeared in a video that Qualcomm showed during its Computex keynote. To introduce the segment, CEO Cristiano Amon said Qualcomm captured video of a "very special person" preordering a Windows Copilot+ laptop built with a Snapdragon X Elite chip.
+ 
+In the clip, we see Long typing on an Apple MacBook at home and getting annoyed by all the incoming notifications, which include warnings that his laptop only has a 1% battery life and is running out of disk space. Long types in a search for "Where can I find a Snapdragon-powered PC?" and then stares at the camera, looking a bit ashamed, before saying: "What? Things change." Amon then returned to the stage to tell the Computex audience: "Yes, things change." In 2021, Long starred in an Intel ad campaign to promote th
+
+## Sony's PSVR 2 PC Adapter Launches In August
+ - [https://games.slashdot.org/story/24/06/03/2320200/sonys-psvr-2-pc-adapter-launches-in-august?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/06/03/2320200/sonys-psvr-2-pc-adapter-launches-in-august?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T10:18:07.728114+00:00
+
+The PlayStation VR2's PC adapter is arriving on August 7th, allowing PC support for the PS5-exclusive headset. It'll cost $59.99. The Verge reports: Sony says the device will support all Steam VR games, including big-name titles like Half-Life: Alyx. In addition to the new adapter, Sony says players will need a DisplayPort cable to work with Steam titles on PC. (As well as a Steam account, obviously.) You can check out the minimum system requirements right here.
+ 
+In a blog post, Sony explains that there will be some feature differences depending on whether you're playing on PS5 or PC: "PS VR2 was designed from the ground up specifically for PS5 -- so you'll notice that some key features, like HDR, headset feedback, eye tracking, adaptive triggers, and haptic feedback (other than rumble), are not available when playing on PC. However, other high-fidelity and sensory immersion features of PS VR2 are supported, including 4K visuals (2000 x 2040 per eye), 110-degree field of view, finger
+
+## Woman Who Received Pig Kidney Transplant Has It Removed
+ - [https://science.slashdot.org/story/24/06/03/2311244/woman-who-received-pig-kidney-transplant-has-it-removed?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/06/03/2311244/woman-who-received-pig-kidney-transplant-has-it-removed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T07:03:33.004039+00:00
+
+Due to complications with a mechanical heart pump, surgeons in New York removed a pig kidney from Lisa Pisano less than two months after transplanting it. The genetically engineered pig kidney did not show signs of rejection but suffered from inadequate blood flow. Wired reports: Pisano was facing heart and kidney failure and required routine dialysis. She wasn't eligible to receive a traditional heart and kidney transplant from a human donor because of several chronic medical conditions that reduced the likelihood of a good outcome. Pisano first received a heart pump at NYU Langone Health on April 4, followed by the pig kidney transplant on April 12. The heart pump, a device called a left ventricular assist device or LVAD, is used in patients who are either awaiting heart transplantation or otherwise aren't a candidate for a heart transplant.
+ 
+In a statement provided to WIRED, Pisano's medical team explained that they electively removed the pig kidney on May 29-47 days after transpl
+
+## Crooks Threaten To Leak 3 Billion Personal Records 'Stolen From Background Firm'
+ - [https://it.slashdot.org/story/24/06/03/234219/crooks-threaten-to-leak-3-billion-personal-records-stolen-from-background-firm?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/06/03/234219/crooks-threaten-to-leak-3-billion-personal-records-stolen-from-background-firm?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T03:44:20.840588+00:00
+
+An anonymous reader quotes a report from The Register: Billions of records detailing people's personal information may soon be dumped online after being allegedly obtained from a Florida firm that handles background checks and other requests for folks' private info. A criminal gang that goes by the handle USDoD put the database up for sale for $3.5 million on an underworld forum in April, and rather incredibly claimed the trove included 2.9 billion records on all US, Canadian, and British citizens. It's believed one or more miscreants using the handle SXUL was responsible for the alleged exfiltration, who passed it onto USDoD, which is acting as a broker. The pilfered information is said to include individuals' full names, addresses, and address history going back at least three decades, social security numbers, and people's parents, siblings, and relatives, some of whom have been dead for nearly 20 years. According to USDoD, this info was not scraped from public sources, though there
+
+## New York Set to Restrict Social-Media Algorithms for Teens
+ - [https://tech.slashdot.org/story/24/06/03/2249203/new-york-set-to-restrict-social-media-algorithms-for-teens?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/06/03/2249203/new-york-set-to-restrict-social-media-algorithms-for-teens?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T00:31:10.132638+00:00
+
+Lawmakers in New York have reached a tentative agreement to "prohibit social-media companies from using algorithms to steer content to children without parental consent (source paywalled; alternative source)," according to the Wall Street Journal. "The legislation is aimed at preventing social-media companies from serving automated feeds to minors. The bill, which is still being completed but expected to be voted on this week, also would prohibit platforms from sending minors notifications during overnight hours without parental consent."
+ 
+Meanwhile, the results of New York's first mental health report were released today, finding that depression and anxiety are rampant among NYC's teenagers, "with nearly half of them experiencing symptoms from one of both in recent years," reports NBC New York. "In a recent survey conducted last year, 48% of teenagers reported feeling depressive symptoms ranging from mild to severe. The vast majority, however, reported feeling high levels of resilie
+
+## AMD Blows Up Its Laptop CPU Numbering System
+ - [https://hardware.slashdot.org/story/24/06/03/2256202/amd-blows-up-its-laptop-cpu-numbering-system?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/06/03/2256202/amd-blows-up-its-laptop-cpu-numbering-system?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-04T00:31:08.020130+00:00
+
+AMD is reverting to a simpler, more traditional numbering scheme for its laptop processors, abandoning its recent complex "decoder ring" system. The new system for Ryzen AI laptop processors will use a three-digit model number to denote generation and SKU, aligning more closely with industry norms. Ars Technica reports: For its new Ryzen AI laptop processors, codenamed "Strix Point," AMD is still using the same broad Ryzen 3/5/7/9 number to communicate general performance level plus a one- or two-letter suffix to denote general performance and power level (U for ultraportables, HX for higher-performance chips, and so on). A new three-digit processor number will inform buyers of the chip's generation in the first digit and denote the specific SKU using the last two digits. In other words, the company is essentially hitting the undo button.
+ 
+Like Intel, AMD is shifting from four-digit numbers to three digits. The Strix Point processor numbers will start with the 300 series, which AMD s
+
