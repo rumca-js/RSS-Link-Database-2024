@@ -1,0 +1,499 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed, language:en-US
+
+## Pakistan urged to take urgent action to tackle environmental challenges
+ - [https://pakobserver.net/pakistan-urged-to-take-urgent-action-to-tackle-environmental-challenges](https://pakobserver.net/pakistan-urged-to-take-urgent-action-to-tackle-environmental-challenges)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T18:42:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/5c43ebf9baf63-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />It is crucial for Pakistan to acknowledge the urgent need for action to combat environmental challenges, said climate communication researcher Dr Muhammad Imran. The message from Imran comes as the World Environment Day is being observed today, June 5. This year, the theme of the day is &#8220;Land restoration, stopping desertification and building drought resilience&#8221;. [&#8230;]
+
+## Pak-China Business Forum sees 32 MOUs signed in major boost for trade ties
+ - [https://pakobserver.net/pak-china-business-forum-sees-32-mous-signed-in-major-boost-for-trade-ties](https://pakobserver.net/pak-china-business-forum-sees-32-mous-signed-in-major-boost-for-trade-ties)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T18:19:47+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-05-at-7.19.02-PM-e1717605935955-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Landmark developments were witnessed at Pak-China Business Forum as 32 Memorandum of understanding MOUs were signed in major boost for trade ties. During the current visit of Prime Minister of Pakistan to China, Federal Minister for Board of Investment Abdul Aleem Khan and Commerce Minister Jam Kamal Khan met with CEOs of major Chinese companies. [&#8230;]
+
+## T20 World Cup 2024: India beat Ireland by eight wickets
+ - [https://pakobserver.net/t20-world-cup-2024-india-beat-ireland-by-eight-wickets](https://pakobserver.net/t20-world-cup-2024-india-beat-ireland-by-eight-wickets)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T17:20:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/Irel-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />NEW York &#8211; India beat Ireland by eight wickets in a Group A match of ICC Men&#8217;s T20 World Cup in New York. Chasing a below-par 97-run target, India crossed the finishing line for the loss of two wickets in just 12.2 overs. Rohit Sharma was the top scorer with 52 runs followed by Rishabh [&#8230;]
+
+## T20 World Cup 2024: Will rain affect Pakistan vs India match in New York?
+ - [https://pakobserver.net/t20-world-cup-2024-will-rain-affect-pakistan-vs-india-match-in-new-york](https://pakobserver.net/t20-world-cup-2024-will-rain-affect-pakistan-vs-india-match-in-new-york)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T16:46:46+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/PI-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New York – Pakistan will take on arch-rival India in the high voltage match of ICC Men’s T20 World Cup 2024 on Sunday, June 9 in New York. Though there are chances of light rain/drizzle in New York in the evening, it will not affect the match scheduled to start at 10:30 am local time [&#8230;]
+
+## NEPRA changes instalment plans for Electricity bills; Check latest update here
+ - [https://pakobserver.net/nepra-changes-instalment-plans-for-electricity-bills-check-latest-update-here](https://pakobserver.net/nepra-changes-instalment-plans-for-electricity-bills-check-latest-update-here)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T16:40:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/electricity-bills-to-increase-again-in-pakistan-with-fuel-cost-adjustment-1710823246-2566-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />National Electric Power Regulatory Authority (NEPRA) has issued stern measures for installments on electricity prices, leaving inflation stricken in dire straits. The newly announced regulations will impact those who rely on instalments to manage high electricity bills. The updated version of Consumer Service Manual, 2021 introduces restrictions on power companies regarding the acceptance of multiple [&#8230;]
+
+## Honda Pridor Latest Price, Zero Markup Installment Plan in Pakistan 2024
+ - [https://pakobserver.net/honda-pridor-latest-price-zero-markup-installment-plan-in-pakistan-2024](https://pakobserver.net/honda-pridor-latest-price-zero-markup-installment-plan-in-pakistan-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T16:08:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/fs2f3w2fw-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Honda Pridor was introduced by Atlas Honda in 100cc segment and the bike features a sleek design with modern graphics, a powerful engine, and a comfortable seat, making it suitable for daily commuting and short trips. The bike was known for its smooth performance, decent acceleration, and low maintenance costs, but its sales are below [&#8230;]
+
+## 7 Must-visit Nature Reserves & Resorts in Saudi to Reconnect with Nature this Global Wellness Day
+ - [https://pakobserver.net/7-must-visit-nature-reserves-resorts-in-saudi-to-reconnect-with-nature-this-global-wellness-day](https://pakobserver.net/7-must-visit-nature-reserves-resorts-in-saudi-to-reconnect-with-nature-this-global-wellness-day)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T15:56:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/01-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This year’s Global Wellness Day theme aims to deepen our connection with nature, emphasising the profound impact of harmonising with our environment on overall well-being. In line with this, Saudi emerges as an unparalleled destination, offering a tapestry of breathtaking landscapes, pristine well-preserved environments, and distinct wildlife. Saudi’s stunning natural landscape spans mountains, deserts, and [&#8230;]
+
+## PM Shehbaz Sharif lands in Beijing on second leg of China visit for high level meetings
+ - [https://pakobserver.net/pm-shehbaz-sharif-lands-in-beijing-on-second-leg-of-china-visit-for-high-level-meetings](https://pakobserver.net/pm-shehbaz-sharif-lands-in-beijing-on-second-leg-of-china-visit-for-high-level-meetings)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T15:32:37+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/2322-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Prime Minister of Pakistan Mian Shehbaz Sharif started his five-day official visit to China on June 4, arriving first in Shenzhen and then proceeding to Beijing. In China&#8217;s capital, PM Sharif was welcomed by Chinese Vice Foreign Minister Sun Weidong and officials from the Pakistan embassy. Accompanied by a delegation including Deputy Prime [&#8230;]
+
+## Sarim Burney vows to defend integrity against Human Trafficking allegations in viral video
+ - [https://pakobserver.net/sarim-burney-vows-to-defend-integrity-against-human-trafficking-allegations-in-viral-video](https://pakobserver.net/sarim-burney-vows-to-defend-integrity-against-human-trafficking-allegations-in-viral-video)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T15:00:39+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/Untitled-1-3-750x375-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Human rights activist Sarim Burney has been arrested on a human trafficking complaint received from the United States government. Burney, who won several accolades for his contributions, turned down serious accusations against him and pledged to disclose all relevant information. In a recently surfaced video clip, he denied allegations and vowed to address them comprehensively [&#8230;]
+
+## Peshawar, Khyber Pakhtunkhwa weather update; more rains, gusty winds likely
+ - [https://pakobserver.net/peshawar-khyber-pakhtunkhwa-weather-update-more-rains-gusty-winds-likely](https://pakobserver.net/peshawar-khyber-pakhtunkhwa-weather-update-more-rains-gusty-winds-likely)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T14:53:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/PWW-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PESHAWAR – More rain-wind/thunderstorms are likely in Peshawar and parts of Khyber Pakhtunkhwa on Wednesday night and Thursday. Per the Pakistan Meteorological Department (PMD), a westerly wave prevails over Pakistan’s upper and central parts. Under these weather conditions, more rain-wind/thunderstorms are predicted in Chitral, Dir, Swat, Kohistan, Shangla, Abbottabad, Mansehra, Haripur, Buner, Swabi, Nowshera, Mardan, [&#8230;]
+
+## T20 World Cup 2024: India elect to bowl first against Ireland
+ - [https://pakobserver.net/t20-world-cup-2024-india-elect-to-bowl-first-against-ireland](https://pakobserver.net/t20-world-cup-2024-india-elect-to-bowl-first-against-ireland)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T14:20:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/Irel-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />NEW York &#8211; India skipper Rohit Sharma has won the toss and elected to bowl first against Ireland in a Group A match of ICC Men&#8217;s T20 World Cup in New York on Wednesday. Ireland Playing XI: Paul Stirling (c), Andy Balbirnie, Lorcan Tucker, Harry Tector, Curtis Campher, George Dockrell, Gareth Delany, Mark Adair, Barry [&#8230;]
+
+## PM Shehbaz seeks Chinese tech giant’s partnership for Pakistan’s sustainable Digital Future
+ - [https://pakobserver.net/pm-shehbaz-seeks-chinese-tech-giants-partnership-for-pakistans-sustainable-digital-future](https://pakobserver.net/pm-shehbaz-seeks-chinese-tech-giants-partnership-for-pakistans-sustainable-digital-future)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T14:01:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/13979610411717590091-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD/BEIJING &#8211; Prime Minister of Pakistan Shehbaz Sharif embarked on a five-day official visit to China with the goal of enhancing economic cooperation in export-oriented, innovation-driven advanced technologies, high-tech development, and Information and Communication Technologies. In his historic visit, PM Sharif reaffirmed dedication to driving an innovative, inclusive, and sustainable digital transformation in Pakistan during [&#8230;]
+
+## Sanam Javed, Aliya Hamza granted bail by ATC in May 9 vandalism cases
+ - [https://pakobserver.net/sanam-javed-aliya-hamza-granted-bail-by-atc-in-may-9-vandalism-cases](https://pakobserver.net/sanam-javed-aliya-hamza-granted-bail-by-atc-in-may-9-vandalism-cases)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T13:45:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/sflskfks-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Pakistan Tehreek-e-Insaf (PTI) activists Sanam Javed and Aliya Hamza have been granted bail in May 9 vandalism cases. The court took up the bail pleas of Sanam Javed and Aliya Hamza in three separate cases related to May 9 violence and approved bail. An interim bail was also granted in fourth case filed [&#8230;]
+
+## More rains, gusty winds expected in Islamabad, Rawalpindi, parts of Pakistan
+ - [https://pakobserver.net/more-rains-gusty-winds-expected-in-islamabad-rawalpindi-parts-of-pakistan](https://pakobserver.net/more-rains-gusty-winds-expected-in-islamabad-rawalpindi-parts-of-pakistan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T13:41:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/ISD-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – More rains and gusty winds are expected in Islamabad, Rawalpindi and parts of Pakistan on Wednesday evening/night, Thursday and Friday. Per the Pakistan Meteorological Department (PMD), a westerly wave prevails over Pakistan’s upper and central parts. Under these weather conditions, more rain-wind/thunderstorms are predicted in Islamabad, Rawalpindi, Potohar region, upper/central Punjab, Khyber-Pakhtunkhwa, northeastern [&#8230;]
+
+## Lahore, Punjab weather update; more rains, gusty winds predicted
+ - [https://pakobserver.net/lahore-punjab-weather-update-more-rains-gusty-winds-predicted](https://pakobserver.net/lahore-punjab-weather-update-more-rains-gusty-winds-predicted)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T13:22:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/lhrww-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – More intermittent rains and gusty winds are predicted in Lahore and parts of Punjab on Wednesday evening/night, Thursday and Friday. Per the Pakistan Meteorological Department (PMD), a westerly wave prevails over Pakistan’s upper and central parts. Under these weather conditions, more intermittent rain-wind/thunderstorms are predicted in Rawalpindi, Murree, Galyat, Attock, Chakwal, Jhelum, Mandi [&#8230;]
+
+## Govt introducing fixed charges on solar net metering under new policy?
+ - [https://pakobserver.net/govt-introducing-fixed-charges-on-solar-net-metering-under-new-policy](https://pakobserver.net/govt-introducing-fixed-charges-on-solar-net-metering-under-new-policy)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T13:12:32+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/Untitled-1-183-696x342-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Different speculations rife about solar net metering as a massive surge in net metering installations disrupted the government’s ability to manage capacity charges. Amid reports about the end of solar net metering, the Power Division turned down reports about the end of Pakistan&#8217;s net metering policy, saying there is no truth to these [&#8230;]
+
+## What are Pakistan’s advantages in T20 World Cup 2024?
+ - [https://pakobserver.net/what-are-pakistans-advantages-in-t20-world-cup-2024](https://pakobserver.net/what-are-pakistans-advantages-in-t20-world-cup-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T12:43:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/gsw-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />DALLAS &#8211; Green Shirts are set to launch T20 World Cup campaign with the match against one of the two co-hosts the United States of America (USA) on June 6, Thursday. Pakistan arrived late in the USA with no warmup matches and as such facing the challenge of acclimatization to the local conditions. In addition [&#8230;]
+
+## Budget 2024-25: Salary increment update for government employees
+ - [https://pakobserver.net/budget-2024-25-salary-increment-update-for-government-employees](https://pakobserver.net/budget-2024-25-salary-increment-update-for-government-employees)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T12:35:46+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/hh3-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The salaries of government employees are expected to increase in the upcoming budget amid inflation. Informed sources claimed that government is considering several proposals for salary increases ranging from 10-15percent for public sector employees in budget 2024-25. Ministry of Finance is inclined to propose a 10 percent increase, and the final decision will [&#8230;]
+
+## Pakistan set to launch World Cup 2024 campaign against USA on Thursday
+ - [https://pakobserver.net/pakistan-set-to-launch-world-cup-2024-campaign-against-usa-on-thursday](https://pakobserver.net/pakistan-set-to-launch-world-cup-2024-campaign-against-usa-on-thursday)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T11:42:59+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/briz-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />DALLAS &#8211; Babar Azam will be hoping it is third time lucky for him when he captains Pakistan in the ICC Men’s T20 World Cup, which started in the United States and Caribbean on 1 June. The 2009 champions will kick-start their journey in the 2024 event on Thursday against hosts United States at the [&#8230;]
+
+## iPhone 14 128GB PTA approved 0% installment plan in June 2024
+ - [https://pakobserver.net/iphone-14-128gb-pta-approved-0-installment-plan-in-june-2024](https://pakobserver.net/iphone-14-128gb-pta-approved-0-installment-plan-in-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T09:42:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/14-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The iPhone 14 offers a blend of sleek design and powerful performance, setting a new standard for smartphones. With its generous storage capacity, users can store countless photos, videos, and apps without worrying about running out of space. The device boasts cutting-edge technology, including an advanced A15 Bionic chip, ensuring smooth multitasking and [&#8230;]
+
+## Mistake needs to be there to apologize for: Vawda
+ - [https://pakobserver.net/mistake-needs-to-be-there-to-apologize-for-vawda](https://pakobserver.net/mistake-needs-to-be-there-to-apologize-for-vawda)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T09:19:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/Faisal-Vawda-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Senator Faisal Vawda said that apologizing is not a sin but there needs to be a mistake to apologize for. Vawda said that he would comply with whatever decision the court makes. He mentioned that the court has just heard Mustafa Kamal&#8217;s case, and his own case would be heard after his case. [&#8230;]
+
+## Inflation drops to 11% in 5 months, says Azma Bukhari
+ - [https://pakobserver.net/inflation-drops-to-11-in-5-months-says-azma-bukhari](https://pakobserver.net/inflation-drops-to-11-in-5-months-says-azma-bukhari)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T09:07:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/Azma-Bokhari-May-15-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Punjab Minister for Information and Muslim League-Nawaz (PML-N) leader Azma Bukhari said that inflation in the country dropped from 37% to 11% over the past five months. Azma Bukhari mentioned that recent reports from Bloomberg, the World Bank and the Asian Development Bank are a testament to the performance of the PML-N government. [&#8230;]
+
+## Tetra Pak driving sustainability by investing in recycling
+ - [https://pakobserver.net/tetra-pak-driving-sustainability-by-investing-in-recycling](https://pakobserver.net/tetra-pak-driving-sustainability-by-investing-in-recycling)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T09:05:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/WED-article-top-banner-700x400-1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By Muhammad Bin Shahzad Food packaging plays an essential role in feeding people throughout the world, but when it is not collected and recycled, it can be a source of waste. Tetra Pak, a leading company within the global food and beverage packaging industry, has steadfastly embedded sustainability into its corporate ethos. Adhering to the [&#8230;]
+
+## Two jailed candidates win Indian Lok Sabah elections
+ - [https://pakobserver.net/two-jailed-candidates-win-indian-lok-sabah-elections](https://pakobserver.net/two-jailed-candidates-win-indian-lok-sabah-elections)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T08:48:37+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/Indian-elections-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />NEW DEHLI &#8211; The election of two candidates currently imprisoned on terror charges has led to a peculiar situation in India, the local media reported on Wednesday Although they are barred by law from attending the 18th Lok Sabha proceedings, they retain a Constitutional right to take their oaths as members. According to results announced [&#8230;]
+
+## Sarim Burney – Prominent Pakistani social activist arrested over ‘human trafficking’
+ - [https://pakobserver.net/sarim-burney-prominent-pakistani-social-activist-arrested-over-human-trafficking](https://pakobserver.net/sarim-burney-prominent-pakistani-social-activist-arrested-over-human-trafficking)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T08:30:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/burn-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The Federal Investigation Agency (FIA) has arrested prominent social activist Sarim Burney on allegation of human trafficking. He runs Sarim Burney Welfare Trust International, a non-profit organisation. Burney was arrested by the FIA’s anti-human trafficking cell in an operation at the Karachi airport. Reports said that the FIA had been monitoring his activities [&#8230;]
+
+## PM Shehbaz resolves to ensure protection of Chinese nationals in Pakistan
+ - [https://pakobserver.net/pm-shehbaz-resolves-to-ensure-protection-of-chinese-nationals-in-pakistan](https://pakobserver.net/pm-shehbaz-resolves-to-ensure-protection-of-chinese-nationals-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T08:06:04+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/shi0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />SHENZHEN – Prime Minister Shehbaz Sharif on Wednesday expressed his resolve to ensure the protection of Chinese nationals in Pakistan. The premier was addressing China Pakistan Business Forum in Shenzhen. He said various measures had been taken for foolproof security of every Chinese nationals working across the country ever since the dastardly terrorist act in [&#8230;]
+
+## Indian elections see sports, showbiz celebrities’ triumph amidst fierce contest
+ - [https://pakobserver.net/indian-elections-see-sports-showbiz-celebrities-triumph-amidst-fierce-contest](https://pakobserver.net/indian-elections-see-sports-showbiz-celebrities-triumph-amidst-fierce-contest)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T08:04:06+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/celebrities-June-5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />MUMBAI &#8211; In the Lok Sabha elections, where prominent Indian leaders participated, personalities associated with sports and Bollywood also tested their luck in the elections and achieved success by a significant margin. According to the results so far, the Congress and its allies have won 232 seats, while the Bharatiya Janata Party (BJP) and its [&#8230;]
+
+## Punjab govt bans production, sale of plastic bags from today
+ - [https://pakobserver.net/punjab-govt-bans-production-sale-of-plastic-bags-from-today](https://pakobserver.net/punjab-govt-bans-production-sale-of-plastic-bags-from-today)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T07:33:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/Plastic-bag-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; The Punjab government imposed ban on production and sale of plastic bags across province from Wednesday (today). In her message on World Environment Day, Punjab Chief Minister Maryam Nawaz Sharif made the significant announcement. She said the plastic ban policy will be strictly enforced, particularly in hotels, restaurants, and eateries. The Chief Minister [&#8230;]
+
+## Babar Azam vows to lift ICC T20 World Cup 2024 trophy
+ - [https://pakobserver.net/babar-azam-vows-to-lift-icc-t20-world-cup-2024-trophy](https://pakobserver.net/babar-azam-vows-to-lift-icc-t20-world-cup-2024-trophy)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T07:09:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/Babar-Azam-June-5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />DALLAS &#8211; National cricket team captain Babar Azam  is optimistic as Pakistan’s T20 World Cup 2024 journey to start on Thursday (tomorrow), vowing that they would lift the World Cup trophy this year. Speaking to the media in Dallas, Babar Azam emphasized that they have a clear plan on how they want to play cricket, [&#8230;]
+
+## YouTuber shot dead over video shoot in Karachi market
+ - [https://pakobserver.net/youtuber-shot-dead-over-video-shoot-in-karachi-market](https://pakobserver.net/youtuber-shot-dead-over-video-shoot-in-karachi-market)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T06:56:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/YouTube-June-5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – A young YouTuber was shot dead in Sakhi Hasan area of the city during filming a video on a cricket match amidst the fervor of the T20 World Cup 2024. The victim was identified as 24 years old Saad Ahmed. The incident took place at bustling Serena mobile market in Sakhi Hasan area. [&#8230;]
+
+## YouTuber shot dead while shooting video in Karachi market
+ - [https://pakobserver.net/youtuber-shot-dead-while-shooting-video-in-karachi-market](https://pakobserver.net/youtuber-shot-dead-while-shooting-video-in-karachi-market)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T06:56:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/YouTuber-shot-dead-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – A young YouTuber was shot dead in Sakhi Hasan area of the city during filming a video on a cricket match amidst the fervor of the T20 World Cup 2024. The victim was identified as 24 years old Saad Ahmed. The incident took place at bustling Serena mobile market in Sakhi Hasan area. [&#8230;]
+
+## NADRA fee update for lost ID card in Pakistan [June 2024]
+ - [https://pakobserver.net/nadra-fee-update-for-lost-id-card-in-pakistan-june-2024](https://pakobserver.net/nadra-fee-update-for-lost-id-card-in-pakistan-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T06:45:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/idcard-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – National Identity Card (NIC) is issued by the National Database Registration Authority (NADRA) to the citizens of Pakistan. It is a blend of state-of-the-art technology and well-defined business rules to guarantee its authenticity and validity. The ID card is the first requirement of individuals as it is mandatory to obtain documents like license, [&#8230;]
+
+## Govt providing facilities to foreign investors: PM
+ - [https://pakobserver.net/govt-providing-facilities-to-foreign-investors-pm](https://pakobserver.net/govt-providing-facilities-to-foreign-investors-pm)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T06:35:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/PM-June-5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />SHENZHEN &#8211; A Chinese company Transsion Holdings on Wednesday evinced deep interest in investing in manufacturing of mobile phones, electric bikes and modern agriculture and fintech in Pakistan. The interest was expressed by the founder and Chairman of Transsion Holdings Zhu Zhaojiang during a meeting with Prime Minister Shehbaz Sharif in Shenzhen. The Prime Minister [&#8230;]
+
+## MDCAT test 2024 expected date in Pakistan; check details
+ - [https://pakobserver.net/mdcat-test-2024-expected-date-in-pakistan-check-details](https://pakobserver.net/mdcat-test-2024-expected-date-in-pakistan-check-details)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T06:30:39+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/md-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />MDCAT 2024 – The Medical and Dental College Admission Test is a standardized test taken by students in Pakistan who are seeking admission to medical and dental colleges. The test is a crucial part of the admissions process for undergraduate medical and dental studies in the South Asian country. MDCAT is designed to evaluate the [&#8230;]
+
+## Thailand visit visa latest fee update in Pakistan for June 2024
+ - [https://pakobserver.net/thailand-visit-visa-latest-fee-update-in-pakistan-for-june-2024](https://pakobserver.net/thailand-visit-visa-latest-fee-update-in-pakistan-for-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T06:11:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/thui-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Thailand is renowned for its vibrant culture, stunning landscapes, and rich history, making it a popular tourist destination in the world. Pakistani citizens are required to obtain a visit visa to enter Thailand for tourism purposes. The people, who are intending to explore the country, can apply for the tourist visa by self [&#8230;]
+
+## Pakistan, Italy to undertake joint efforts against drug trafficking
+ - [https://pakobserver.net/pakistan-italy-to-undertake-joint-efforts-against-drug-trafficking](https://pakobserver.net/pakistan-italy-to-undertake-joint-efforts-against-drug-trafficking)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T05:58:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/Pakistan-and-Italy-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Pakistan and Italy on Wednesday agreed to a coordinated and effective action plan against illegal immigrants and human trafficking. This came at a meeting between Interior Minister Mohsin Naqvi and Italian Interior Minister Matteo Piantedosi in Rome. Minister for Overseas Pakistanis Chaudhry Salik Hussain was also present in the meeting. The two sides [&#8230;]
+
+## Suzuki GD 110s latest price, installment plan at 0% markup in June 2024
+ - [https://pakobserver.net/suzuki-gd-110s-latest-price-installment-plan-at-0-markup-in-june-2024](https://pakobserver.net/suzuki-gd-110s-latest-price-installment-plan-at-0-markup-in-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T05:56:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/gd110-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Suzuki GD 110 is a popular choice in Pakistan&#8217;s motorcycle market as it offers a blend of efficiency with reliability. It is equipped with 113cc engine which delivers a punchy performance suitable for city commuting while ensuring fuel economy, a vital factor in view of higher petroleum prices. The bike&#8217;s sturdy build and comfortable ergonomics [&#8230;]
+
+## PM Shehbaz to spend busy day in Shenzhen as China visit continues
+ - [https://pakobserver.net/pm-shehbaz-to-spend-busy-day-in-shenzhen-as-china-visit-continues](https://pakobserver.net/pm-shehbaz-to-spend-busy-day-in-shenzhen-as-china-visit-continues)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T05:45:40+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/pmo-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Prime Minister Shehbaz Sharif is currently in Shenzhen on the first leg of his five-day visit to China. The premier will participate in China-Pakistan Business Forum today. Under the second phase of CPEC, the forum will be an important milestone for cooperation and partnership between Pakistani and Chinese companies in various fields. He [&#8230;]
+
+## PAK vs US: Imad Wasim ruled out of Pakistan’s T20 World Cup 2024 opener
+ - [https://pakobserver.net/pak-vs-us-imad-wasim-ruled-out-of-pakistans-t20-world-cup-2024-opener](https://pakobserver.net/pak-vs-us-imad-wasim-ruled-out-of-pakistans-t20-world-cup-2024-opener)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T05:35:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/imad-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />DALLAS – All-rounder Imad Wasim has been ruled of Pakistan’s opening match against the United States in the T20 World Cup 2024 due to injury. The Pakistan Cricket Board (PCB) confirmed the development stating that Imad Wasim will not be available for selection for Thursday’s match as he has been advised rest by the PCB [&#8230;]
+
+## Gold rates in Saudi Arabia today – 05 June 2024
+ - [https://pakobserver.net/gold-rates-in-saudi-arabia-today-05-june-2024](https://pakobserver.net/gold-rates-in-saudi-arabia-today-05-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T05:25:38+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/gold6-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The price of per tola price 24-karat gold in Saudi Arabia on Wednesday (June 05) surged to 3,291 Saudi Riyal (SAR), according to forex.pk. Furthermore, the 10 grams of 24-k gold is being sold for SAR 2,825 in the kingdom while the per ounce gold price stands at SAR 8,786. Note: The gold [&#8230;]
+
+## UK Pound to PKR rate today – 05 June 2024
+ - [https://pakobserver.net/uk-pound-to-pkr-rate-today-05-june-2024](https://pakobserver.net/uk-pound-to-pkr-rate-today-05-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T05:22:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/pound-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The buying rate of the UK Pound Sterling stands at Rs353.45 in Pakistan while its selling rate stands at Rs356.95 on Wednesday in the open market of Pakistan. Data available on forex.pk showed that the Pound gained Rs1.95 against the Pakistani rupee in the open market. GBP to PKR Rate – 05 June [&#8230;]
+
+## Dirham to PKR rate today – 05 June 2024
+ - [https://pakobserver.net/dirham-to-pkr-rate-today-05-june-2024](https://pakobserver.net/dirham-to-pkr-rate-today-05-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T05:11:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/dirham-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The United Arab Emirates (UAE) Dirham buying rate in the open market of Pakistan stands at Rs75.25 on Wednesday while the selling rate is Rs76, according to forex.pk. The UAE Dirham shed five paisas against Pakistani rupee as compared to the previous trading day&#8217;s closing of Rs75.3 in the open market of the [&#8230;]
+
+## Saudi Riyal to PKR rate today – 05 June 2024
+ - [https://pakobserver.net/saudi-riyal-to-pkr-rate-today-05-june-2024](https://pakobserver.net/saudi-riyal-to-pkr-rate-today-05-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T05:07:45+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/riyal-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The buying rate for Saudi Arabia Riyal in Pakistan stands at Rs73.5 while the selling rate stands at Rs74.25 on Wednesday in open market, according to forex.pk. Data available on the currency website showed the Saudi Riyal remained steady against Pakistani rupee in the open market. SAR to PKR Rate – 05 June [&#8230;]
+
+## Gilani inaugurates commercial production of Kia Shehzore
+ - [https://pakobserver.net/gilani-inaugurates-commercial-production-of-kia-shehzore](https://pakobserver.net/gilani-inaugurates-commercial-production-of-kia-shehzore)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T05:05:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/20-2-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Senate Chairman Syed Yousuf Raza Gilani on Tuesday inaugurated the commercial production of Kia Shehzore at the Dewan Industrial City near Sujawal. Addressing the launching ceremony, Gilani felicitated the Dewan Farooque Motors Limited (DFML) and Kia on resuming the commercial production of their ‘Special Purpose Kia Commercial Vehicle’. He said it was a significant milestone [&#8230;]
+
+## CPEC phase-II to grow business links between Pakistan-China: Ahsan
+ - [https://pakobserver.net/cpec-phase-ii-to-grow-business-links-between-pakistan-china-ahsan](https://pakobserver.net/cpec-phase-ii-to-grow-business-links-between-pakistan-china-ahsan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T05:00:18+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/04/ahsan-iqbal-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Minister for Planning and Development Ahsan Iqbal Tuesday said that the economic and cultural connections between the people of China and Pakistan are strong and focused. In a video message ahead of Prime Minister Shehbaz Sharif’s visit to China, he said that a delegation comprising of one hundred and twenty six Pakistani businessmen is also [&#8230;]
+
+## Currency exchange rates in Pakistan today – June 5, 2024
+ - [https://pakobserver.net/currency-exchange-rates-in-pakistan-today-june-5-2024](https://pakobserver.net/currency-exchange-rates-in-pakistan-today-june-5-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T03:53:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/curreny-rate-today-15-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI- On Wednesday, June 5, 2024, the exchange rate for one US Dollar against Pakistani rupees was recorded at Rs 277.25 in the local and open market, with a selling rate of Rs 279.9. Note: Exchange rates can vary based on the location and the Exchange Company or bank involved in the transaction. Below are the [&#8230;]
+
+## Gold rate in Pakistan today – 5 June, 2024
+ - [https://pakobserver.net/gold-rate-in-pakistan-today-5-june-2024](https://pakobserver.net/gold-rate-in-pakistan-today-5-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T03:51:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/gold-rate-in-pakistan-today-24-March-2023-1-1024x576-4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI—On Wednesday, June 5, 2024, the 24-karat gold rate was PKR 240,500. Similarly, the bullion market recorded the gold price for 24-karat at Rs 206,190 per 10g. Gold Price in Pakistan’s different cities. City Gold Silver Karachi PKR 240,500 PKR 2,550 Lahore PKR 240,500 PKR 2,550 Islamabad PKR 240,500 PKR 2,550 Peshawar PKR 240,500 PKR [&#8230;]
+
+## IHC stays execution of 5 court-martialled former Navy officials
+ - [https://pakobserver.net/ihc-stays-execution-of-5-court-martialled-former-navy-officials](https://pakobserver.net/ihc-stays-execution-of-5-court-martialled-former-navy-officials)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:41:32+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/IHC-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Islamabad High Court has stayed the execution of five ex-Navy officers who were previously sentenced to death through a general court martial decree, it emerged on Tuesday. IHC’s Justice Babar Sattar issued a written order for Monday’s hearing on the request of Navy officers who said they were not provided legal assistance during the [&#8230;]
+
+## PSX witness bearish trend, losses 908.60 points
+ - [https://pakobserver.net/psx-witness-bearish-trend-losses-908-60-points](https://pakobserver.net/psx-witness-bearish-trend-losses-908-60-points)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:41:31+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/2-6-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The 100-index of the Pakistan Stock Exchange (PSX) witnessed bearish trend on Tuesday, loosing 908.60 points, a negative change of 1.20 per cent, closing at 74,666.66 points against 75,575.26 points the previous day. A total of 414,479,234 shares valuing Rs 18.311 billion were traded during the day as compared to 441,261,756 shares valuing Rs 18.364 [&#8230;]
+
+## Sharjeel slams PTI for dangerous narrative of chaos, division
+ - [https://pakobserver.net/sharjeel-slams-pti-for-dangerous-narrative-of-chaos-division](https://pakobserver.net/sharjeel-slams-pti-for-dangerous-narrative-of-chaos-division)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:41:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/Sharjeel-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Sindh Information Minister Sharjeel Inam Memon has lambasted the Pakistan Tehreek-e-Insaf (PTI) for perpetuating a “dangerous narrative” that seeks to sow chaos, division, and hatred against institutions. Memon warned that PTI’s rhetoric, led by Imran Khan, poses a significant threat to national unity and stability. The minister singled out Imran Khan’s comments about Shaikh Mujeeb, [&#8230;]
+
+## Cop assigned to protect Polio team martyred in Peshawar
+ - [https://pakobserver.net/cop-assigned-to-protect-polio-team-martyred-in-peshawar](https://pakobserver.net/cop-assigned-to-protect-polio-team-martyred-in-peshawar)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:41:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Tariq Saeed Peshawar As Pakistan on Saturday reported the fourth poliovirus case of the current year in a 2-year-old boy from Bharkan union council in Sindh’s Shikarpur district, the Polio eradication campaign continued to suffer set back as another cop assigned the duty to provide security to the Polio vaccinator was shot dead in the [&#8230;]
+
+## 38 cases registered against Qureshi, IHC told
+ - [https://pakobserver.net/38-cases-registered-against-qureshi-ihc-told](https://pakobserver.net/38-cases-registered-against-qureshi-ihc-told)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:41:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/IHC-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Islamabad High Court was told on Tuesday that 38 cases had been registered against PTI stalwart and former foreign minister Shah Mehmood Qureshi at different police stations of Punjab. During the hearing of the petition filed by Qureshi, seeking details of the cases registered against him, a report was submitted to the high court [&#8230;]
+
+## Not worried about court verdicts, Senator Irfan Siddiqui
+ - [https://pakobserver.net/not-worried-about-court-verdicts-senator-irfan-siddiqui](https://pakobserver.net/not-worried-about-court-verdicts-senator-irfan-siddiqui)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:41:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/Senator-Irfan-Siddiqui-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan Muslim League-Nawaz (PML-N) parliamentary leader in the Senate and senior leader Senator Irfan Siddiuqi said that the ruling party was not worried about the decisions rendered by the judiciary. “The culprit misuses concession of long delay (Dheel) and make it a shield,” Senator Siddiuqi said during an interview with a private TV channel. Talking [&#8230;]
+
+## Pakistan & Saint Vincent and Grenadines establish ties
+ - [https://pakobserver.net/pakistan-saint-vincent-and-grenadines-establish-ties](https://pakobserver.net/pakistan-saint-vincent-and-grenadines-establish-ties)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:41:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan and Saint Vincent, an island country in the eastern Caribbean, Monday established formal diplomatic relations between the two countries. Ambassador Munir Akram, Pakistan’s permanent representative to the United Nations, and his counterpart from Saint Vincent and the Grenadines, Ambassador Inga Rhonda King, signed a joint communique to formalize the diplomatic relations between the two [&#8230;]
+
+## IHC directs ECP to announce Islamabad LB election date
+ - [https://pakobserver.net/ihc-directs-ecp-to-announce-islamabad-lb-election-date](https://pakobserver.net/ihc-directs-ecp-to-announce-islamabad-lb-election-date)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:41:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/01/ihc-2-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Islamabad High Court has directed the Election Commission of Pakistan to announce the date for Local Body elections in Islamabad by July 10. Justice Mohsin Akhtar Kayani, while hearing a case regarding the non-conduct of local government elections, emphasized the need for a clear schedule. The court noted that 125 union council constituencies have [&#8230;]
+
+## Federal budget on June 12
+ - [https://pakobserver.net/federal-budget-on-june-12-2](https://pakobserver.net/federal-budget-on-june-12-2)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:33:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/06/budget-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The federal government would present its budget for fiscal year 2024-25 on June 12 as it has been rescheduled due to Prime Minister Shehbaz Sharif’s visit to China. State Minster for Finance Ali Pervez Malik confirmed the development, stating that the budget will be tabled in the National Assembly after the premier reach back from [&#8230;]
+
+## Modi alliance heading to majority but no landslide
+ - [https://pakobserver.net/modi-alliance-heading-to-majority-but-no-landslide](https://pakobserver.net/modi-alliance-heading-to-majority-but-no-landslide)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:32:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/05/modi-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Indian Prime Minister Narendra Modi’s alliance was winning a majority of seats in early vote counting trends in the general election on Tuesday, but well short of the landslide predicted in exit polls. BJP was in first place on 38.68 per cent with half of votes counted, national election commission data showed. The elections for [&#8230;]
+
+## Home dept issues guidelines  for Eidul Azha
+ - [https://pakobserver.net/home-dept-issues-guidelines-for-eidul-azha](https://pakobserver.net/home-dept-issues-guidelines-for-eidul-azha)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:25:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/1-7-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Punjab Home Department issuing important directions in the context of Eidul Azha, said that only organizations registered with the Charity Commission would be able to receive hides of sacrificial animals. A spokesman for the Punjab Home Department told the media here on Tuesday that no banned organization would be allowed to collect the sacrificial [&#8230;]
+
+## PHP performance reviewed
+ - [https://pakobserver.net/php-performance-reviewed](https://pakobserver.net/php-performance-reviewed)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:25:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/Inspector-General-of-Police-IGP-Punjab-Dr-Usman-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Inspector General of Punjab Police, Dr. Usman Anwar, said that PHP teams are diligently performing their duties to protect lives and properties of the citizens, prevent accidents, ensure smooth traffic flow, and uphold rule of laws on all highways of the province. IG Punjab instructed that PHP teams should enhance field patrolling in their beat [&#8230;]
+
+## LHC’s Justice Shahid Karim recuses himself from hearing election tribunals case
+ - [https://pakobserver.net/lhcs-justice-shahid-karim-recuses-himself-from-hearing-election-tribunals-case](https://pakobserver.net/lhcs-justice-shahid-karim-recuses-himself-from-hearing-election-tribunals-case)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:25:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/02/lhc-stays-implementation-of-lahore-master-plan-2050-1673364193-4839-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Justice ShahidKarim of the Lahore High Court has recused himself from holding further proceedings on a petition challenging the presidential ordinance, which allows the appointment of retired judges besides serving judges as members of election tribunals. On May 28, Acting President YousufRazaGilani signed the Elections Act (Amendment) Ordinance, 2024, into law, allowing the appointment of [&#8230;]
+
+## IG Punjab meets with police employees, families
+ - [https://pakobserver.net/ig-punjab-meets-with-police-employees-families](https://pakobserver.net/ig-punjab-meets-with-police-employees-families)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:25:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/2-5-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Inspector General Police Punjab Dr. Usman Anwar has said that the timely resolution of the problems faced by the police employees and their families is among the priorities, all supervisory officers should ensure immediate actions without any delay to address these applications. IG Punjab has emphasized that applications related to professional matters and welfare issues [&#8230;]
+
+## Children’s safety collective responsibility: CM
+ - [https://pakobserver.net/childrens-safety-collective-responsibility-cm](https://pakobserver.net/childrens-safety-collective-responsibility-cm)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:25:13+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/Maryam-Nawaz-CM-May-14-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Punjab Chief Minister Maryam Nawaz Sharif has said that special measures should be taken to protect rights of children in war-torn areas. In her message on the International Day of Innocent Children hit by aggression, she said that today is a day to understand life and psychological problems of children who are victims of violence, [&#8230;]
+
+## Fed Ombudsman team inspect facilities  at AIIA
+ - [https://pakobserver.net/fed-ombudsman-team-inspect-facilities-at-aiia](https://pakobserver.net/fed-ombudsman-team-inspect-facilities-at-aiia)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:25:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/lahore-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />On the direction of Federal Ombudsman Ejaz Ahmad Qureshi, a team of Federal Ombudsman Regional Office Lahore inspected facilities for passengers here at Allama Iqbal International Airport (AIIA) on Tuesday. According to Federal Ombudsman’s Focal Person for media, Shahid Nasim Malik, the team comprising Senior Advisor In Charge Abdul Hameed Razi, Director General Riyaz Hameed [&#8230;]
+
+## Prices of flour, wheat, roti, naan, semolina decreased by up to 48% in100 days
+ - [https://pakobserver.net/prices-of-flour-wheat-roti-naan-semolina-decreased-by-up-to-48-in100-days](https://pakobserver.net/prices-of-flour-wheat-roti-naan-semolina-decreased-by-up-to-48-in100-days)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:25:08+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/naan-roti1596608375-0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />During the first 100 days of the Punjab government, the performance of Punjab Food Department has been exemplary. Punjab Food Minister Bilal Yaseen had said that the Chief Minister Punjab has fulfilled the promise of providing affordable and quality food to the public. This is the most valuable relief for 13 crore people in the [&#8230;]
+
+## Performance of food dept remained exemplary in 100 days
+ - [https://pakobserver.net/performance-of-food-dept-remained-exemplary-in-100-days](https://pakobserver.net/performance-of-food-dept-remained-exemplary-in-100-days)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T02:25:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/04/MPA-Bilal-Yasin-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Punjab Food Minister Bilal Yaseen said that the Punjab Chief Minister has fulfilled the promise of providing affordable and quality food to the public and during the first 100 days of the provincial government, the performance of the Food Department remained exemplary. He said this while addressing a seminar organized by the Pakistan Dairy Association [&#8230;]
+
+## The Taiwan conflict
+ - [https://pakobserver.net/the-taiwan-conflict](https://pakobserver.net/the-taiwan-conflict)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T01:32:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/04/Ali-Sukhanver-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAI Ching-te, became the President of Taiwan on 20th May 2024, after winning the 2024 presidential election in January. Lai Ching-te, also known as William Lai is a physician by profession and a very well reputed politician but Beijing calls him a dangerous separatist who will bring war and decline to the region. Just a [&#8230;]
+
+## Beyond the Dubai Leaks
+ - [https://pakobserver.net/beyond-the-dubai-leaks](https://pakobserver.net/beyond-the-dubai-leaks)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T01:32:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/05/Malik-Tariq-Ali-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />IN 1930, the Father of the Nation MAJ, disappointed by intrigues and postponement of Round Table Conference in January 1931, decided to settle down in London, devoting to his practice as a Barrister before the Privy Council, having qualified from Lincoln’s Inn in 1895. He bought a house and was well settled there, but when [&#8230;]
+
+## Trump’s conviction has profound repercussions
+ - [https://pakobserver.net/trumps-conviction-has-profound-repercussions](https://pakobserver.net/trumps-conviction-has-profound-repercussions)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T01:31:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/05/Rashid-Ahmed-Mughal-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />AMERICAN print and electronic media are currently inundated with reports of former President Donald Trump following his conviction as a criminal. He has launched a vehement attack on the rule of law, criticizing the justice system and thereby exposing the gravity of the choice awaiting America’s voters in the upcoming elections. Trump’s conviction on all [&#8230;]
+
+## Tragedy strikes again
+ - [https://pakobserver.net/tragedy-strikes-again-2](https://pakobserver.net/tragedy-strikes-again-2)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T01:31:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; THE tragedy in the coal mine near Quetta, where eleven lives were lost due to methane gas inhalation, is a stark reminder of the perilous working conditions faced by coal miners in Balochistan. This incident, sadly, is not an isolated one; rather, it underscores a longstanding issue of neglect and disregard for safety standards [&#8230;]
+
+## Abolition of PWD
+ - [https://pakobserver.net/abolition-of-pwd](https://pakobserver.net/abolition-of-pwd)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T01:31:06+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PRIME Minister Muhammad Shehbaz Sharif on Monday directed for the immediate dissolution of the Pakistan Public Works Department (Pak PWD) due to years-long poor performance and corruption. The Prime Minister issued this directive during a high-level meeting focused on reducing government expenditure and the size of its infrastructure. He observed that Pak PWD as a [&#8230;]
+
+## Inflation declines
+ - [https://pakobserver.net/inflation-declines](https://pakobserver.net/inflation-declines)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-05T01:30:44+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; IT is a matter of satisfaction that the Consumer Price Index (CPI) rose 11.8% from a year earlier, the lowest reading in thirty months and below the projections of the Finance Ministry itself. This is surely due to the measures taken by the economic team of the Government led by Finance Minister Muhammad Aurangzeb [&#8230;]
+

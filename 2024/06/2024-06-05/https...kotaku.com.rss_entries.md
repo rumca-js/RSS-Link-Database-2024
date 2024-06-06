@@ -1,0 +1,107 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## PlayStation Hero Shooter Concord Follows Helldivers 2 With $40 Price Tag
+ - [https://kotaku.com/concord-price-leak-astro-bot-60-40-hero-shooter-f2p-ps5-1851522161](https://kotaku.com/concord-price-leak-astro-bot-60-40-hero-shooter-f2p-ps5-1851522161)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T22:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/714da47fdee217c1548c957c3e2650e1.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/games/concord--1">Concord</a>, Sony’s next big live-service video game, will apparently cost $40 according to a pre-order page found on the PlayStation store in Australia. This puts it in the same price range as <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/helldivers-2-kotaku-review-pc-ps5-is-it-good-ps-plus-1851258251">Helldivers 2</a> and seems to be another sign that Sony’s live-service titles won’t all be free-to-play like Destiny 2. </p><p><a href="https://kotaku.com/concord-price-leak-astro-bot-60-40-hero-shooter-f2p-ps5-1851522161">Read more...</a></p>
+
+## Indie Dev's Reply After Cloning Someone's Game: 'Happens Every Day Homie'
+ - [https://kotaku.com/indie-dev-clone-wildcard-dire-decks-steam-card-brash-1851522061](https://kotaku.com/indie-dev-clone-wildcard-dire-decks-steam-card-brash-1851522061)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/49ad2ef0011ebd8d2a9ede25498afccb.jpg" /><p>Here’s a weird one. A video game developer was contacted by another developer and the two shared some tips and advice with each other. Then a year later, one of those devs turned around and cloned the other’s game and, when questioned about it, replied that this kind of thing happens “every day homie.” </p><p><a href="https://kotaku.com/indie-dev-clone-wildcard-dire-decks-steam-card-brash-1851522061">Read more...</a></p>
+
+## Here’s What Final Fantasy VII Rebirth’s Stunning World Looked Like During Early Development
+ - [https://kotaku.com/final-fantasy-7-rebirth-making-of-behind-the-scenes-1851522081](https://kotaku.com/final-fantasy-7-rebirth-making-of-behind-the-scenes-1851522081)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T21:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/59b987532636ce8505cabbb2113fbae2.jpg" /><p>Video game studios can often be so secretive that it’s easy to forget the games are made by people. A gorgeous vista in <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-rebirth-ending-cloud-aerith-sephiroth-1851374178">Final Fantasy VII Rebirth</a> was once just a basic surface on which Square Enix’s developers would eventually build entire worlds. That’s why it’s always fun to look at behind-the-scenes footage of…</p><p><a href="https://kotaku.com/final-fantasy-7-rebirth-making-of-behind-the-scenes-1851522081">Read more...</a></p>
+
+## Star Wars: Hunters Is A Fun New Shooter Trapped On Switch And Phones
+ - [https://kotaku.com/star-wars-hunters-review-is-it-good-switch-ps5-xbox-pc-1851521852](https://kotaku.com/star-wars-hunters-review-is-it-good-switch-ps5-xbox-pc-1851521852)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T19:46:55+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ac40cface5ec046e0b55d7f6ef861537.jpg" /><p>A new Star Wars game launched yesterday and it’s pretty fun. Odds are, however, that you didn’t know that a new Star Wars game launched yesterday because <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/games/star-wars-hunters">Star Wars: Hunters</a>—an Overwatch-like F2P shooter—is only available on mobile devices and the Nintendo Switch. That’s a shame, because Hunters is a fun (if a bit…</p><p><a href="https://kotaku.com/star-wars-hunters-review-is-it-good-switch-ps5-xbox-pc-1851521852">Read more...</a></p>
+
+## The Last Of Us Show May Stretch Part II's Story Across Three Seasons
+ - [https://kotaku.com/last-of-us-hbo-max-show-part-2-season-3-4-ellie-abby-1851521708](https://kotaku.com/last-of-us-hbo-max-show-part-2-season-3-4-ellie-abby-1851521708)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T19:09:39+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/380d173aa73b0e6c5a8937c61571dbe0.jpg" /><p>HBO’s The Last of Us live-action series is currently shooting its second season. Based on the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/last-of-us-season-2-joel-ellie-hbo-max-pedro-pascal-1851478803">first looks</a> we’ve seen and the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/last-of-us-season-2-ellie-dina-bella-ramsey-set-photos-1851473070">set photos</a> that have been circulating online, the second season will likely cover the earliest sections of Ellie’s revenge tour in The Last of Us Part II. From the sound of it, HBO may be…</p><p><a href="https://kotaku.com/last-of-us-hbo-max-show-part-2-season-3-4-ellie-abby-1851521708">Read more...</a></p>
+
+## Someone Just Paid Over $1 Million For This One-Of-A-Kind Counter-Strike Skin
+ - [https://kotaku.com/counter-strike-blue-gem-skin-sells-one-million-dollars-1851521593](https://kotaku.com/counter-strike-blue-gem-skin-sells-one-million-dollars-1851521593)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T18:40:42+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4f39d71071c2bf48c61da04348356ceb.jpg" /><p>A skin for <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/counter-strike-2-csgo-source-steam-valve-sequel-release-1850252875">Counter-Strike</a>’s ever-popular <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/proof-that-counter-strikes-guns-are-surprisingly-unreli-1738109477">AK-47</a> just became the most expensive skin ever sold publicly for the game. This isn’t the first time a skin from <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/valve-steam-deck-pc-console-switch-horizon-zero-dawn-re-1848628507">Valve</a>’s iconic tactical shooter has <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/counter-strike-csgo-skins-ak-47-wild-lotus-1850226042">gone for a high price</a>, but, at over a million dollars, this is ea
+
+## Call Of Duty's 'Trans Bullets' Are The Latest Right Wing Conspiracy Rage Bait
+ - [https://kotaku.com/call-duty-mw3-warzone-trans-bullets-pride-month-1851521459](https://kotaku.com/call-duty-mw3-warzone-trans-bullets-pride-month-1851521459)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6cac4daae79cf520867f4ed83eba7200.jpg" /><p>A possible Call of Duty bug is causing a new Pride-themed cosmetic to paint the bullets in one version of one of the game’s guns the colors of the transgender flag. Now, right wing rage jockeys are seizing this to peddle transphobic conspiracy theories so idiotic they would be laughable, if not for the real world…</p><p><a href="https://kotaku.com/call-duty-mw3-warzone-trans-bullets-pride-month-1851521459">Read more...</a></p>
+
+## Assassin's Creed Fans May Have Already Solved Shadows' First Big Mystery
+ - [https://kotaku.com/assassins-creed-shadows-map-size-region-arg-puzzle-1851521223](https://kotaku.com/assassins-creed-shadows-map-size-region-arg-puzzle-1851521223)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T17:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1e0f517c5388ea677068ab928a58c21a.jpg" /><p>We’ve only seen one trailer for <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/assassins-creed-shadows-red-release-date-trailer-1851479039">Assassin’s Creed Shadows</a>, the next entry in Ubisoft’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/lets-rank-the-assassins-creed-games-worst-to-best-1844019813">open-world stealth-RPG series</a>, but fans already think they know exactly where the game takes place. Beyond the era in which the game will be set, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/assassins-creed-shadows-who-is-yasuke-black-samurai-1851482754">Sengoku-period Japan</a>, a series of developer riddles has drip-fed information that seems…</p><p><a href="https://kotaku.com/assassins-creed-shadows-map-size-region-arg-puzzle-185152122
+
+## GTA Online's Next Update Will Add Police Missions And Bounty Hunting
+ - [https://kotaku.com/gta-online-police-rp-bounty-hunt-summer-update-2024-1851521055](https://kotaku.com/gta-online-police-rp-bounty-hunt-summer-update-2024-1851521055)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T16:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4de6cbbcd5220df31228199c5e5a3868.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/gta-online-drive-train-new-mission-heist-raid-update-1851320169">Grand Theft Auto Online</a>’s next big summer update arrives in June and will add new bounty hunting and police missions to Rockstar’s massively popular crime simulator. Also coming in the future update: New props and modes for the in-game content creator, and some more quality-of-life improvements, too. </p><p><a href="https://kotaku.com/gta-online-police-rp-bounty-hunt-summer-update-2024-1851521055">Read more...</a></p>
+
+## New Jak And Daxter PC Mod Finally Lets You Play Multiplayer
+ - [https://kotaku.com/jak-daxter-pc-port-multiplayer-mod-download-1851521167](https://kotaku.com/jak-daxter-pc-port-multiplayer-mod-download-1851521167)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f6735bd18d23111748813c9f950026a4.jpg" /><p>Jak and Daxter, Naughty Dog’s pre-Uncharted mascot platformer on the PlayStation 2, may have been forgotten by Sony, but not by fans. Sure, you can play the original trilogy and the kart racing spin-off Jak X on your PlayStation 5 through backwards compatibility with the PS4 bundle, but it’s highly unlikely that we…</p><p><a href="https://kotaku.com/jak-daxter-pc-port-multiplayer-mod-download-1851521167">Read more...</a></p>
+
+## Destiny 2: The Final Shape's Campaign Is A Messy, Moving High School Reunion
+ - [https://kotaku.com/destiny-2-the-final-shape-impressions-1851521089](https://kotaku.com/destiny-2-the-final-shape-impressions-1851521089)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T16:30:27+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0fe74354cf12e57cb3b879d2ca108ffe.jpg" /><p>There is something about returning to many of Destiny’s previous locations, including the very first areas of the original game, that makes <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/destiny-2-final-shape-d3-witness-raid-1851504108">The Final Shape</a> reek of high school. A lot has changed about the series in the ten years since our ghost first found us just outside of Old Russia. Moreover, running down the same…</p><p><a href="https://kotaku.com/destiny-2-the-final-shape-impressions-1851521089">Read more...</a></p>
+
+## MultiVersus 'Patronizes' Losers By Making Them Fight Bots
+ - [https://kotaku.com/multiversus-online-matches-loss-bot-queue-1851520695](https://kotaku.com/multiversus-online-matches-loss-bot-queue-1851520695)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/30cae9ebad907485670f8cf10998640f.jpg" /><p>Most games tell you to get good by giving you a “Game Over” screen. MultiVersus, the newly re-released Warner Bros. crossover fighter, has something else in mind. What if players who lose too much got dumped into a different online queue that stopped them from playing against other humans? That’s the solution MultiVers…</p><p><a href="https://kotaku.com/multiversus-online-matches-loss-bot-queue-1851520695">Read more...</a></p>
+
+## Long-Rumored Final Fantasy IX Remake Is ‘Very Far Along’ According To Latest Leaks
+ - [https://kotaku.com/final-fantasy-9-remake-leaks-square-enix-midori-1851520785](https://kotaku.com/final-fantasy-9-remake-leaks-square-enix-midori-1851520785)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T14:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/68d5f4b36abe32a9f0f12e2310da5001.jpg" /><p>Reliable leaker <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/persona-6-logo-green-leak-midori-atlus-sega-1851499836">Midori</a> is back with some new information, but this time it isn’t about the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/persona-3-reload-remake-review-ps5-steam-pc-xbox-1851201927">Persona</a> series. Midori, who has a track record of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/persona-3-reload-leaked-the-answer-dlc-1851211962">revealing announcements</a> like the Persona 3 Reload’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/persona-3-reload-dlc-the-answer-expansion-pass-1851313160">Episode Aigis</a>, has an update on the long-rumored remake of <a class="sc-1out364-0 dPMosf sc-14
+
+## Destiny 2 Players Spent The Final Shape's First Night Erroring Out Of Major Cutscenes
+ - [https://kotaku.com/destiny-2-final-shape-cutscenes-error-code-currant-1851520706](https://kotaku.com/destiny-2-final-shape-cutscenes-error-code-currant-1851520706)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T14:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c019143312e80439265ee7cdaef86fe5.jpg" /><p>Destiny 2's long-awaited finale for 10 years of cosmic storytelling is finally here, and players spent the first day struggling to get through pivotal cutscenes without the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/destiny-2-the-final-shape-servers-1851519144">servers crashing and booting them back into outer space</a>. Bungie’s overnight fixes have fortunately brought some much needed stability to The Final…</p><p><a href="https://kotaku.com/destiny-2-final-shape-cutscenes-error-code-currant-1851520706">Read more...</a></p>
+
+## Beloved Square Enix RPG Series Could Finally Sort Out Its Messy Exclusivity
+ - [https://kotaku.com/octopath-traveler-xbox-game-pass-ps4-ps5-1851520559](https://kotaku.com/octopath-traveler-xbox-game-pass-ps4-ps5-1851520559)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-05T14:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d34c693f24705f54d5875dccd0829fd2.jpg" /><p>Square Enix’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/square-enix-business-plan-multiplatform-1851472456">pledge to end all its console exclusivity nonsense</a> is already bearing fruit. As spotted by <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.gematsu.com/2024/06/octopath-traveler-rated-for-ps5-ps4-in-taiwan-alongside-octopath-traveler-ii-for-xbox-series" rel="noopener noreferrer" target="_blank">the eagle eyes at Gematsu</a>, beloved RPG Octopath Traveler has been rated in Taiwan for PlayStation, and Octopath Traveler II—previously announced for Xbox—could appear as soon as this month.</p><p><a href="https://kotaku.com/octopath-traveler-xbox-game-pass-ps4-ps5-1851520559">Read more...</a></p>
+

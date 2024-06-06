@@ -1,0 +1,142 @@
+# Source:ZDNET, URL:https://www.zdnet.com/news/rss.xml, language:en-US
+
+## I changed these 5 TV settings to drastically improve the picture quality
+ - [https://www.zdnet.com/home-and-office/home-entertainment/i-changed-these-5-tv-settings-to-drastically-improve-the-picture-quality/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/i-changed-these-5-tv-settings-to-drastically-improve-the-picture-quality/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T21:57:00+00:00
+
+With only a bit of your time, adjusting these simple aspects can make for a better viewing experience.
+
+## The best Raspberry Pi alternatives of 2024: Expert tested
+ - [https://www.zdnet.com/article/best-raspberry-pi-alternative/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-raspberry-pi-alternative/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T20:37:39+00:00
+
+We'll help you choose the top Raspberry Pi alternatives that offer solid performance and functionality while suiting a range of budgets.
+
+## How to change the DNS settings on your Windows PC - and why you'd want to
+ - [https://www.zdnet.com/article/how-to-change-the-dns-settings-on-your-windows-pc-and-why-youd-want-to/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-change-the-dns-settings-on-your-windows-pc-and-why-youd-want-to/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T20:37:00+00:00
+
+Switching to a different DNS provider than your ISP can offer faster performance and better security. We show you how - and recommend the best options.
+
+## The 77-inch LG C3 OLED TV is $1,200 off right now
+ - [https://www.zdnet.com/home-and-office/home-entertainment/the-77-inch-lg-c3-oled-tv-is-1200-off-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/the-77-inch-lg-c3-oled-tv-is-1200-off-right-now/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T20:30:16+00:00
+
+Our pick for the best LG TV, the LG C3 Series OLED 4K, is up to 34% off on Amazon right now depending on what size you buy.
+
+## What is AI? Everything to know about artificial intelligence
+ - [https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T18:29:00+00:00
+
+We cover everything that makes up the technology, from machine learning and LLMs to general AI and neural networks, and how to use it.
+
+## How to record a phone call on Android in 3 easy ways
+ - [https://www.zdnet.com/article/how-to-record-a-call-on-your-android-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-record-a-call-on-your-android-phone/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T18:07:00+00:00
+
+We step you through three different approaches to recording a call on your Android phone. See which method best suits your needs.
+
+## 5 TV settings you can change to drastically improve its picture quality
+ - [https://www.zdnet.com/home-and-office/home-entertainment/5-tv-settings-you-can-change-to-drastically-improve-its-picture-quality/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/5-tv-settings-you-can-change-to-drastically-improve-its-picture-quality/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T18:06:00+00:00
+
+Who knew the right brightness, sharpness, and contrast settings could make such a difference? Try these simple tips for a better viewing experience.
+
+## Kubernetes turns 10: How it steered cloud-native computing for the last decade - and what's next
+ - [https://www.zdnet.com/article/kubernetes-turns-10-how-it-steered-cloud-native-computing-for-the-last-decade-and-whats-next/#ftag=RSSbaffb68](https://www.zdnet.com/article/kubernetes-turns-10-how-it-steered-cloud-native-computing-for-the-last-decade-and-whats-next/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T17:46:42+00:00
+
+Like Linux, Kubernetes is a testament to the power of open-source collaboration and innovation. How would we manage without it?
+
+## What to expect from WWDC 2024: Siri, AI upgrades, iOS 18, MacOS 15, more
+ - [https://www.zdnet.com/article/what-to-expect-from-wwdc-2024-siri-ai-upgrades-ios-18-macos-15-more/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-to-expect-from-wwdc-2024-siri-ai-upgrades-ios-18-macos-15-more/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T16:48:00+00:00
+
+Apple is poised to unveil its latest AI innovations along with updates to iOS, iPadOS, MacOS, and the rest of the software ensemble.
+
+## One of the loudest Bluetooth speakers I've tested is also the smallest
+ - [https://www.zdnet.com/home-and-office/home-entertainment/one-of-the-loudest-bluetooth-speakers-ive-tested-is-also-the-smallest/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/one-of-the-loudest-bluetooth-speakers-ive-tested-is-also-the-smallest/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T15:57:00+00:00
+
+When it comes to Bluetooth speakers, small size usually means small sound. Unless you're talking about the JBL Clip 5.
+
+## Why I always have more than one browser installed on my computer (and you should too)
+ - [https://www.zdnet.com/home-and-office/work-life/why-i-always-have-more-than-one-browser-installed-on-my-computer-and-you-should-too/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/why-i-always-have-more-than-one-browser-installed-on-my-computer-and-you-should-too/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T15:41:52+00:00
+
+I generally have five or more web browsers installed on all of my devices and it's made my life considerably less frustrating.
+
+## How to turn off a VPN on most devices
+ - [https://www.zdnet.com/home-and-office/networking/how-to-turn-off-a-vpn-on-most-devices/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/how-to-turn-off-a-vpn-on-most-devices/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T14:59:17+00:00
+
+Your VPN is one of your first lines of defense against predatory services and bad actors, but sometimes you might need to temporarily shut it down. When that time occurs, you'll be glad you know how.
+
+## 6 ways Apple can leapfrog OpenAI, Microsoft, and Google at WWDC 2024
+ - [https://www.zdnet.com/article/6-ways-apple-can-leapfrog-openai-microsoft-and-google-at-wwdc-2024/#ftag=RSSbaffb68](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-openai-microsoft-and-google-at-wwdc-2024/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T13:53:00+00:00
+
+The generative AI advancements Apple reveals next week - at arguably its most critical developer event ever - could fundamentally change how users interact with their devices.
+
+## Cordless vacuums are going smart, and this Narwal wet/dry vacuum is the latest proof
+ - [https://www.zdnet.com/home-and-office/kitchen-household/cordless-vacuums-are-going-smart-and-this-narwal-wetdry-vacuum-is-the-latest-proof/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/cordless-vacuums-are-going-smart-and-this-narwal-wetdry-vacuum-is-the-latest-proof/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T13:00:20+00:00
+
+This wet and dry vacuum and mop can clean it all, even itself.
+
+## Exclusive interview with Raspberry Pi CEO: New $70 AI kit 'a watershed moment for us'
+ - [https://www.zdnet.com/article/exclusive-interview-with-raspberry-pi-ceo-new-70-ai-kit-a-watershed-moment-for-us/#ftag=RSSbaffb68](https://www.zdnet.com/article/exclusive-interview-with-raspberry-pi-ceo-new-70-ai-kit-a-watershed-moment-for-us/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T12:08:27+00:00
+
+In this exclusive ZDNET interview, I talked to Eben Upton, CEO and co-founder of Raspberry Pi and Orr Danon, CEO and co-founder of Hailo, to learn about the future of Raspberry Pi and accessible on-board AI.
+
+## One of my favorite open-ear headphones just got better (and somehow cheaper)
+ - [https://www.zdnet.com/article/one-of-my-favorite-open-ear-headphones-just-got-better-and-somehow-cheaper/#ftag=RSSbaffb68](https://www.zdnet.com/article/one-of-my-favorite-open-ear-headphones-just-got-better-and-somehow-cheaper/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T12:00:21+00:00
+
+Shokz' new OpenFit Air earbuds improve on the previous model with a lower price, new colors, and a comfortable, lightweight design.
+
+## Hooking up generative AI to medical data improved usefulness for doctors
+ - [https://www.zdnet.com/article/hooking-up-generative-ai-to-medical-data-improved-usefulness-for-doctors/#ftag=RSSbaffb68](https://www.zdnet.com/article/hooking-up-generative-ai-to-medical-data-improved-usefulness-for-doctors/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T11:45:49+00:00
+
+By asking GPT-4 to retrieve recommendations from a database, the model's responses to spontaneous medical questions went from terrible to potentially useful.
+
+## How to enable notification history on your Android (and why you should)
+ - [https://www.zdnet.com/article/how-to-enable-notification-history-on-your-android-and-why-you-should/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-enable-notification-history-on-your-android-and-why-you-should/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T01:20:00+00:00
+
+Do you find yourself frequently missing notifications on Android? Have you deleted notifications when you didn't mean to? This feature can help.
+
+## Where did all the AI Overviews in Google Search go?
+ - [https://www.zdnet.com/article/where-did-all-the-ai-overviews-in-google-search-go/#ftag=RSSbaffb68](https://www.zdnet.com/article/where-did-all-the-ai-overviews-in-google-search-go/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T00:35:29+00:00
+
+Only around 15% of Google queries generate AI Overviews now. Here's why and where you'll find them.
+
+## Google's AI Overviews appear on 70% fewer Search results pages now
+ - [https://www.zdnet.com/article/googles-ai-overviews-appear-on-70-fewer-search-results-pages-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/googles-ai-overviews-appear-on-70-fewer-search-results-pages-now/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-06-05T00:35:00+00:00
+
+Only around 15% of Google queries generate AI Overviews now. Here's why and where you'll find them.
+
