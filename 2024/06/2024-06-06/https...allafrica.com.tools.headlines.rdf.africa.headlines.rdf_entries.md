@@ -1,0 +1,107 @@
+# Source:All Africa, URL:https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf, language:en
+
+## Africa: Video Shows Severe Turbulence in 2019, Not 2024 Singapore Airlines Incident
+ - [https://allafrica.com/stories/202406060472.html](https://allafrica.com/stories/202406060472.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T14:09:40+00:00
+
+[Africa Check] Video shows severe turbulence in 2019, not 2024 Singapore Airlines incident
+
+## Africa: No, Citizens of All 55 African States Cannot Enter Russia 'Visa-Free'
+ - [https://allafrica.com/stories/202406060471.html](https://allafrica.com/stories/202406060471.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T14:09:22+00:00
+
+[Africa Check] No, citizens of all 55 African states cannot enter Russia 'visa-free'
+
+## Africa: Pharma Company Astrazeneca Withdrawing Covid Vaccine Because It's Outdated - Not 'After Admitting to Dangerous Side Effect'
+ - [https://allafrica.com/stories/202406060470.html](https://allafrica.com/stories/202406060470.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T14:09:08+00:00
+
+[Africa Check] Pharma company AstraZeneca withdrawing Covid vaccine because it's outdated - not 'after admitting to dangerous side effect'
+
+## Africa: Empowering Youth Leaders in Sexual &#x26;amp; Reproductive Health
+ - [https://allafrica.com/stories/202406060380.html](https://allafrica.com/stories/202406060380.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T12:27:16+00:00
+
+[The Aspen Institute] The recent   launch of the Africa's Youth Voices Network (AYV) by the UN Office of the Special Adviser on Africa (OSAA) in April  , marked a pivotal moment. The AYV is a permanent network through which the Office of the Special Adviser on Africa can ensure that the African youth's perspectives are embedded in its policy analysis, advisory, and advocacy activities. This network will amplify the voices of African youth and empower them to significantly influence the policy decisions made by
+
+## Africa: New Unicef Report Reveals Severe Child Food Poverty Amid World Crises
+ - [https://allafrica.com/stories/202406060271.html](https://allafrica.com/stories/202406060271.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T09:55:59+00:00
+
+[UN News] The UN Children's Fund (UNICEF) released a new report on Thursday that highlights alarming levels of child food poverty due to inequity, conflict, and climate crises.
+
+## Africa: Buying and Selling Forest Carbon As a Commodity Is Dangerous If It Trumps Other Environmental and Social Uses - New Report
+ - [https://allafrica.com/stories/202406060167.html](https://allafrica.com/stories/202406060167.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T07:38:09+00:00
+
+[The Conversation Africa] Forests are great carbon sinks - they absorb more carbon from the atmosphere than they release. Globally, forests remove nearly all of the two billion tonnes of carbon dioxide that is currently being removed from the atmosphere every year.
+
+## Africa: 1 in 4 Children Globally Live in Severe Child Food Poverty Due to Inequity, Conflict, and Climate Crises - Unicef
+ - [https://allafrica.com/stories/202406060156.html](https://allafrica.com/stories/202406060156.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T05:37:35+00:00
+
+[Unicef] New York -- Children experiencing this level of food poverty are up to 50 per cent more likely to suffer from life-threatening malnutrition, new analysis finds
+
+## Africa: Record-Breaking World Environment Day Spotlights Land Restoration, Desertification and Drought Resilience
+ - [https://allafrica.com/stories/202406060121.html](https://allafrica.com/stories/202406060121.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T05:24:50+00:00
+
+[UNEP] With a focus on restoring degraded lands, combatting desertification and building drought resilience, countries around the world came together today to mark World Environment Day 2024, under the rallying call 'Our Land. Our Future. We are #Generation Restoration'.
+
+## Africa: Refugees, Migrants Risk Lives On Dangerous Routes From Africa to Europe
+ - [https://allafrica.com/stories/202406060090.html](https://allafrica.com/stories/202406060090.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T05:03:09+00:00
+
+[VOA] Geneva -- Every year, many of the hundreds of thousands of refugees and migrants from sub-Saharan Africa seeking asylum or jobs in Europe are "at great risk of harm and death" because few protection services are available to help them on their perilous journey, according to a report issued by the UN refugee agency, UNHCR, Tuesday.
+
+## Africa: Tanzania Wants Africa to Benefit From Fisheries
+ - [https://allafrica.com/stories/202406060051.html](https://allafrica.com/stories/202406060051.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T04:58:32+00:00
+
+[Daily News] Tanzania Deputy Prime Minister and Minister of Energy, Dr. Doto Biteko, has called upon stakeholders in Africa's fisheries sector to intensify their efforts in protecting fisheries resources in a bid to improve the sector's contribution to the economy.
+
+## Africa: Ban Fossil Fuel 'Godfathers of Climate Chaos' From Politics
+ - [https://allafrica.com/stories/202406060039.html](https://allafrica.com/stories/202406060039.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T04:58:23+00:00
+
+[Global Witness] 5Responding to comments from the UN Secretary General that countries and companies should ban fossil fuel advertising, Louis Wilson, Head of Fossil Fuel Investigations at Global Witness, said:
+
+## Africa: Greenpeace Africa Calls for Urgent Climate Action On World Environment Day
+ - [https://allafrica.com/stories/202406060029.html](https://allafrica.com/stories/202406060029.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T04:58:18+00:00
+
+[Greenpeace] Nairobi, June 5, 2024 - In celebration of World Environment Day, themed around land restoration, desertification, and drought resilience, Greenpeace Africa is sounding the alarm on the urgent need for decisive climate action from the Kenyan government. The escalating climate crisis threatens every aspect of life, including education, healthcare, and food and water security.
+
+## Africa: President Ruto Concerned Over Underfunding of Africa's Renewable Energy Development
+ - [https://allafrica.com/stories/202406060011.html](https://allafrica.com/stories/202406060011.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T04:58:07+00:00
+
+[Capital FM] Seoul, South Korea -- President William Ruto has raised concerns over the underfunding of Africa's renewable energy development.
+
+## Africa: Djely Tapa, Yemi Alade, Manu Chao, Meridian Brothers and More
+ - [https://allafrica.com/stories/202406060009.html](https://allafrica.com/stories/202406060009.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T04:57:14+00:00
+
+[Afropop] Here are seven recent videos we know you'll enjoy. To watch the more Afropop Top Videos, click here.
+
+## Africa: Foreign Healthcare Volunteers in Africa Can Harm Local Relationships - Zambian Study
+ - [https://allafrica.com/stories/202406060004.html](https://allafrica.com/stories/202406060004.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-06T04:49:28+00:00
+
+[The Conversation Africa] Thousands of global health volunteers, most from the United States, travel to Africa every year. These volunteers come from diverse backgrounds and have varying levels of experience. They include surgeons, anaesthesiologists, nurses and medical students. They arrive with the ambition to improve health outcomes in Africa and learn about "global health".
+

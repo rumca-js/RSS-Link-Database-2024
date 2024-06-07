@@ -1,0 +1,380 @@
+# Source:RT - Daily news, URL:https://www.rt.com/rss, language:en
+
+## US spook community fears being jailed by Trump – ex-FBI official
+ - [https://www.rt.com/news/598897-us-spooks-fear-arrest-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598897-us-spooks-fear-arrest-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T23:35:13+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6662477b203027271b045c14.jpg" style="margin-right: 10px;" /> Donald Trump may jail ex-officials from intelligence and law enforcement agencies if he wins back US presidency, ex-FBI deputy chief says <br /><a href="https://www.rt.com/news/598897-us-spooks-fear-arrest-trump/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## West will remove Zelensky – Kremlin
+ - [https://www.rt.com/russia/598894-west-remove-zelensky-kremlin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598894-west-remove-zelensky-kremlin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T22:17:23+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6662355085f54064f27b18d3.jpg" style="margin-right: 10px;" /> Once Ukraine’s leader has implemented the unpopular mobilization changes, his Western backers will replace him, Dmitry Peskov has said <br /><a href="https://www.rt.com/russia/598894-west-remove-zelensky-kremlin/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Ukrainians want US to stop corruption complaints – NBC
+ - [https://www.rt.com/news/598896-ukraine-us-corruption-complaints/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598896-ukraine-us-corruption-complaints/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T22:09:05+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6662330785f5405e0c041cf1.jpg" style="margin-right: 10px;" /> Ukrainian leaders have been “irritated” by US pressure to fight corruption amid the conflict with Russia, NBC News says <br /><a href="https://www.rt.com/news/598896-ukraine-us-corruption-complaints/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## No talk of peace at Zelensky’s ‘peace conference’ – Germany
+ - [https://www.rt.com/news/598889-scholz-zelensky-peace-conference/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598889-scholz-zelensky-peace-conference/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T21:26:42+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/666203c185f54064f27b18ac.jpg" style="margin-right: 10px;" /> Olaf Scholz has admitted that the Ukrainian leader’s high-profile peace summit is not aimed at ending the conflict between Moscow and Kiev <br /><a href="https://www.rt.com/news/598889-scholz-zelensky-peace-conference/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Biden claims he knew Putin in 1980s
+ - [https://www.rt.com/news/598892-biden-claims-40-year-relationship-with-putin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598892-biden-claims-40-year-relationship-with-putin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T21:24:54+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66621f0685f5405e0c041cc7.jpg" style="margin-right: 10px;" /> US President Joe Biden has suggested that he’s known Russia’s Vladimir Putin for over four decades and sees him as “not a decent man” <br /><a href="https://www.rt.com/news/598892-biden-claims-40-year-relationship-with-putin/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## France to give fighter jets to Ukraine – Macron
+ - [https://www.rt.com/news/598893-macron-fighter-jets-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598893-macron-fighter-jets-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T21:04:28+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6662204920302740e945cde5.jpg" style="margin-right: 10px;" /> Paris will send an unspecified number of Mirage 2000 warplanes to Kiev, the French president has announced <br /><a href="https://www.rt.com/news/598893-macron-fighter-jets-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israeli president threatens war on Hezbollah
+ - [https://www.rt.com/news/598879-israel-threatens-war-hezbollah/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598879-israel-threatens-war-hezbollah/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T20:56:12+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661f5ef2030273d7135e891.jpg" style="margin-right: 10px;" /> As fighting in Gaza continues, the leadership in West Jerusalem has signaled it might open a second front in the north <br /><a href="https://www.rt.com/news/598879-israel-threatens-war-hezbollah/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## ECB cuts rates for first time since 2019
+ - [https://www.rt.com/business/598883-ecb-cuts-rates-inflation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/598883-ecb-cuts-rates-inflation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T20:03:53+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/666212fc85f5405e0c041cac.jpg" style="margin-right: 10px;" /> The European Central Bank has cut rates for first time in nearly five years, noting persistent price pressures across the 20-nation Eurozone <br /><a href="https://www.rt.com/business/598883-ecb-cuts-rates-inflation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US soldier accused of theft goes on trial in Russia
+ - [https://www.rt.com/russia/598891-us-soldier-theft-trial-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598891-us-soldier-theft-trial-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T19:20:52+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66620b7b85f5405e0c041ca3.jpg" style="margin-right: 10px;" /> An American soldier is on trial in Russia on a theft charge after allegedly stealing money from a woman and threatening her <br /><a href="https://www.rt.com/russia/598891-us-soldier-theft-trial-russia/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## India the second-biggest foreign threat to Canada – report
+ - [https://www.rt.com/india/598882-canada-foreign-interference-list/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/598882-canada-foreign-interference-list/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T19:14:59+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/666209e585f540638a7bbe27.jpg" style="margin-right: 10px;" /> The Canadian government has put New Delhi on its “foreign interference” list, ranking just between Beijing and Moscow <br /><a href="https://www.rt.com/india/598882-canada-foreign-interference-list/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Judge orders Trump ally to report to prison
+ - [https://www.rt.com/news/598890-judge-orders-steve-bannon-to-start-prison-term/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598890-judge-orders-steve-bannon-to-start-prison-term/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T19:11:16+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6662064685f54011ad2e5783.jpg" style="margin-right: 10px;" /> Former Trump aide Steve Bannon has been ordered to start serving his prison sentence for refusing to testify about the US Capitol riot <br /><a href="https://www.rt.com/news/598890-judge-orders-steve-bannon-to-start-prison-term/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Enemies of our enemies are our friends – Medvedev
+ - [https://www.rt.com/russia/598888-medvedev-arming-enemies-usa/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598888-medvedev-arming-enemies-usa/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T18:55:28+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661feb920302740e945cdd2.jpg" style="margin-right: 10px;" /> Former Russian President Dmitry Medvedev has endorsed arming Washington’s adversaries in response to Ukrainian long-range strikes <br /><a href="https://www.rt.com/russia/598888-medvedev-arming-enemies-usa/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## SPIEF 2024: Russia-China relations at their ‘highest level,’ envoy says
+ - [https://www.rt.com/news/598870-russia-china-relations-highest-level/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598870-russia-china-relations-highest-level/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T18:02:22+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661f8be85f5405e0c041c9d.png" style="margin-right: 10px;" /> The two nations will continue to strengthen mutual ties despite global challenges, according to Chinese ambassador Zhang Hanhui <br /><a href="https://www.rt.com/news/598870-russia-china-relations-highest-level/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Biden’s Gaza peace push suffers another setback
+ - [https://www.rt.com/news/598880-hamas-rejects-biden-gaza-ceasefire-plan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598880-hamas-rejects-biden-gaza-ceasefire-plan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T17:58:59+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661f2f62030273f0f2d4afa.jpg" style="margin-right: 10px;" /> Hamas’ leader has demanded a withdrawal of Israeli forces from Gaza, dimming hopes for the ceasefire plan touted by US President Joe Biden <br /><a href="https://www.rt.com/news/598880-hamas-rejects-biden-gaza-ceasefire-plan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## SPIEF 2024: Multipolar world order could ensure global stability – BRICS Bank chair
+ - [https://www.rt.com/news/598857-multipolar-world-order-brics/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598857-multipolar-world-order-brics/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T17:01:55+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661d4f585f54061ae484529.jpg" style="margin-right: 10px;" /> The development of a multipolar order could help the world withstand shocks and crises, according to Dilma Rousseff <br /><a href="https://www.rt.com/news/598857-multipolar-world-order-brics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Germany must be ‘ready for war by 2029’ – defense minister
+ - [https://www.rt.com/news/598871-germany-ready-war-2029/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598871-germany-ready-war-2029/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T17:01:23+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661d45b2030273e1b506ad8.jpg" style="margin-right: 10px;" /> Boris Pistorius has said Germany must introduce some kind of draft to be battle-ready before the end of the decade <br /><a href="https://www.rt.com/news/598871-germany-ready-war-2029/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## ‘Awkward’ Biden struggles at D-Day ceremony (VIDEO)
+ - [https://www.rt.com/news/598869-biden-normandy-awkward-video/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598869-biden-normandy-awkward-video/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T16:59:13+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661db5620302740e945cdb2.jpg" style="margin-right: 10px;" /> US President Joe Biden appeared lost and confused at the event marking the 80th anniversary of the Normandy landings in WWII <br /><a href="https://www.rt.com/news/598869-biden-normandy-awkward-video/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Tokyo to launch dating app
+ - [https://www.rt.com/news/598875-japan-tokyo-dating-app/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598875-japan-tokyo-dating-app/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T16:54:16+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661dd042030273f2514b47c.jpg" style="margin-right: 10px;" /> Japan’s government hopes to boost fertility, which was 1.3 births per woman in 2021 and hasn’t been above replacement level since the 1970s <br /><a href="https://www.rt.com/news/598875-japan-tokyo-dating-app/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Germans fear potential Ukraine conflict escalation – Scholz
+ - [https://www.rt.com/news/598873-germans-fear-ukraine-conflict-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598873-germans-fear-ukraine-conflict-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T16:01:34+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661dc752030273f2514b474.jpg" style="margin-right: 10px;" /> Germans’ concerns over a potential escalation in the Ukraine conflict will not change Berlin’s policy, Chancellor Olaf Scholz has said <br /><a href="https://www.rt.com/news/598873-germans-fear-ukraine-conflict-escalation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Ukraine not allowed to attack Kremlin with US-supplied missiles – Biden
+ - [https://www.rt.com/russia/598866-biden-ukraine-strikes-kremlin-prohibited/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598866-biden-ukraine-strikes-kremlin-prohibited/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T14:46:02+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661c1b12030273f2514b44c.jpg" style="margin-right: 10px;" /> Washington has not authorized Kiev to launch strikes on Moscow using US-made weapons, Joe Biden has said <br /><a href="https://www.rt.com/russia/598866-biden-ukraine-strikes-kremlin-prohibited/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia-NATO war unlikely – Stoltenberg
+ - [https://www.rt.com/news/598868-russia-nato-war-unlikely-stoltenberg/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598868-russia-nato-war-unlikely-stoltenberg/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T14:43:00+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661c9e885f54011ad2e5761.jpg" style="margin-right: 10px;" /> The secretary general of NATO insists it’s wrong to assume that Moscow could attack a member state in the near future <br /><a href="https://www.rt.com/news/598868-russia-nato-war-unlikely-stoltenberg/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Give them an inch, they’ll take a mile: Why red lines on Western weapons are crucial for Russia
+ - [https://www.rt.com/news/598847-nato-ukraine-conflict-russian-territory/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598847-nato-ukraine-conflict-russian-territory/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T14:36:58+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/666187d020302707bd105dc0.jpg" style="margin-right: 10px;" /> NATO is trying to move the Ukraine conflict into Russia, and may trigger an ‘asymmetric response’ <br /><a href="https://www.rt.com/news/598847-nato-ukraine-conflict-russian-territory/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## ChatGTP maker ignoring fatal threat posed by AI – insider
+ - [https://www.rt.com/business/598858-openai-ignoring-ai-threat-insider/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/598858-openai-ignoring-ai-threat-insider/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T14:35:22+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661c0dc20302734527fbcb0.jpg" style="margin-right: 10px;" /> A former OpenAI researcher says the firm knows its technology could fatally harm mankind, and is ignoring the risks <br /><a href="https://www.rt.com/business/598858-openai-ignoring-ai-threat-insider/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## First H5N2 bird flu death reported
+ - [https://www.rt.com/news/598865-first-bird-flu-death/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598865-first-bird-flu-death/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T14:11:54+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661bb6c85f54011ad2e574e.jpg" style="margin-right: 10px;" /> A Mexican man has died after catching an avian flu variant, the World Health Organization has said <br /><a href="https://www.rt.com/news/598865-first-bird-flu-death/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russian oil revenues rise 50% – Bloomberg
+ - [https://www.rt.com/business/598856-russia-oil-revenue-surge/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/598856-russia-oil-revenue-surge/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T13:55:40+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661bdc22030273f2a789b8a.jpg" style="margin-right: 10px;" /> Russia’s proceeds from oil exports surged by almost 50% year-on-year in May due to soaring crude prices, Bloomberg has reported <br /><a href="https://www.rt.com/business/598856-russia-oil-revenue-surge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Washington sends top official to India as Modi’s third term takes shape
+ - [https://www.rt.com/india/598864-washington-sends-top-official-india/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/598864-washington-sends-top-official-india/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T13:42:17+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661bcfd20302707bd105dfb.jpg" style="margin-right: 10px;" /> White House announces National Security Advisor Jake Sullivan’s visit to India as Modi-led coalition gears to form new government <br /><a href="https://www.rt.com/india/598864-washington-sends-top-official-india/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Suspect injured in shootout after gun assassination in Moscow (DISTURBING VIDEOS)
+ - [https://www.rt.com/russia/598863-moscow-scateboarder-gun-assassination/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598863-moscow-scateboarder-gun-assassination/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T13:06:54+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661b28720302734527fbca4.jpg" style="margin-right: 10px;" /> A suspect in the murder of a Moscow man was injured in a firefight with police hours later <br /><a href="https://www.rt.com/russia/598863-moscow-scateboarder-gun-assassination/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Suspected French spy detained in Moscow (VIDEO)
+ - [https://www.rt.com/russia/598855-suspected-french-spy-detained-moscow/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598855-suspected-french-spy-detained-moscow/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T12:58:41+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661a5d885f5405c04588070.png" style="margin-right: 10px;" /> A French citizen has been detained in Moscow on suspicion of gathering military intelligence, Russia’s Investigative Committee has said <br /><a href="https://www.rt.com/russia/598855-suspected-french-spy-detained-moscow/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## SPIEF 2024: Russia to help Africa monitor water resources
+ - [https://www.rt.com/africa/598861-spief-russia-help-africa-water/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/598861-spief-russia-help-africa-water/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T12:55:06+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661ab4020302752d2305278.jpg" style="margin-right: 10px;" /> The head of Russia’s Federal Agency for Mineral Resources shares his insights on Africa’s water shortage <br /><a href="https://www.rt.com/africa/598861-spief-russia-help-africa-water/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Scott Ritter to take part in RT panel at SPIEF 2024
+ - [https://www.rt.com/russia/598859-scott-ritter-spief-rt-panel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598859-scott-ritter-spief-rt-panel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T12:26:23+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661a7e120302754477f83e1.jpg" style="margin-right: 10px;" /> Scott Ritter to take part in an RT event at SPIEF 2024 in St Petersburg online, after being blocked by US officials from traveling there <br /><a href="https://www.rt.com/russia/598859-scott-ritter-spief-rt-panel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU state seeks to join genocide case against Israel
+ - [https://www.rt.com/news/598860-spain-join-israel-genocide-case/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598860-spain-join-israel-genocide-case/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T12:20:51+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661a8ea85f54011ad2e572e.jpg" style="margin-right: 10px;" /> Spain has asked to join South Africa’s genocide case against Israel at the UN, arguing that Israel has yet to end its Gaza offensive <br /><a href="https://www.rt.com/news/598860-spain-join-israel-genocide-case/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## German chancellor wants to deport migrant criminals
+ - [https://www.rt.com/news/598853-scholz-deport-criminals-afghanistan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598853-scholz-deport-criminals-afghanistan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T12:20:30+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661a47220302754201f18a4.jpg" style="margin-right: 10px;" /> Dangerous criminals, including those from Afghanistan and Syria, should be deported, the German chancellor has told lawmakers <br /><a href="https://www.rt.com/news/598853-scholz-deport-criminals-afghanistan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## ‘Genocide’ in Gaza must stop – Iraqi president to RT
+ - [https://www.rt.com/news/598835-iraq-gaza-israel-genocide/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598835-iraq-gaza-israel-genocide/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T12:15:20+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661693220302754201f1869.jpg" style="margin-right: 10px;" /> There will no rest for the Middle East without a sovereign Palestinian state, Iraqi President Abdul Latif Rashid has said <br /><a href="https://www.rt.com/news/598835-iraq-gaza-israel-genocide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Lavrov’s African tour: What the West won’t tell you
+ - [https://www.rt.com/africa/598850-sergey-lavrov-africa-tour/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/598850-sergey-lavrov-africa-tour/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T12:14:24+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66618ef685f54011ad2e5713.jpeg" style="margin-right: 10px;" /> Yet again, many in the foreign media have failed to see the true significance of the Russian minister’s frequent visits to the continent <br /><a href="https://www.rt.com/africa/598850-sergey-lavrov-africa-tour/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Zelensky rejects Indonesia’s peace plan – media
+ - [https://www.rt.com/russia/598851-zelensky-rejects-indonesia-peace-plan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598851-zelensky-rejects-indonesia-peace-plan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T12:06:45+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661a3eb203027487876c451.jpg" style="margin-right: 10px;" /> Ukraine’s Vladimir Zelensky has rejected a plan by Indonesia for settling the conflict with Russia, its defense minister has announced <br /><a href="https://www.rt.com/russia/598851-zelensky-rejects-indonesia-peace-plan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Paris denies training Kiev’s troops on Ukrainian soil
+ - [https://www.rt.com/news/598854-france-instructors-ukraine-taboo/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598854-france-instructors-ukraine-taboo/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T11:55:16+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661a31a85f54011ad2e5724.jpg" style="margin-right: 10px;" /> Paris denies it’s training Kiev’s troops on Ukrainian soil, though French PM Gabriel Attal said sending its instructors there is “not taboo” <br /><a href="https://www.rt.com/news/598854-france-instructors-ukraine-taboo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Ukrainian inmates paying bribes to go to war – NGO
+ - [https://www.rt.com/russia/598852-ukrainian-inmates-extorted-mobilization/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598852-ukrainian-inmates-extorted-mobilization/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T11:51:10+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661930220302754477f83cf.jpg" style="margin-right: 10px;" /> Prison staff in Ukraine extort inmates, who want to join the military under a new mobilization system, a rights activist has claimed <br /><a href="https://www.rt.com/russia/598852-ukrainian-inmates-extorted-mobilization/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## SPIEF 2024: Indian pharma giant to expand presence in Russia
+ - [https://www.rt.com/india/598833-india-russia-pharma-facility-invest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/598833-india-russia-pharma-facility-invest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T11:17:31+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66617ec985f5405e0c041c20.jpg" style="margin-right: 10px;" /> The Russian Direct Investment Fund and India’s Cadila Pharmaceuticals have agreed to invest over $100 million in a new facility <br /><a href="https://www.rt.com/india/598833-india-russia-pharma-facility-invest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## SPIEF 2024: West ‘shooting itself in the foot’ with Russian sanctions, says finance minister
+ - [https://www.rt.com/business/598849-spief-2024-west-sanctions-russia-siluanov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/598849-spief-2024-west-sanctions-russia-siluanov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T10:20:49+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66618cf685f54069ed3e96ca.jpg" style="margin-right: 10px;" /> Economic sanctions on Russia have harmed the Western countries that imposed them, Finance Minister Anton Siluanov has said <br /><a href="https://www.rt.com/business/598849-spief-2024-west-sanctions-russia-siluanov/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## SCOTT RITTER TO TAKE PART IN RT SESSION AT 2024 ST. PETERSBURG INTERNATIONAL ECONOMIC FORUM: HOW THE WEST IS DEMONIZING RUSSIA
+ - [https://www.rt.com/about-us/press-releases/scott-ritter-spief-west-demonizing-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/about-us/press-releases/scott-ritter-spief-west-demonizing-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T10:05:24+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/666189c920302754477f83be.jpg" style="margin-right: 10px;" />  <br /><a href="https://www.rt.com/about-us/press-releases/scott-ritter-spief-west-demonizing-russia/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia set to fight ‘digital neocolonialism’ – Foreign Ministry
+ - [https://www.rt.com/russia/598846-russia-fight-digital-neocolonialism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598846-russia-fight-digital-neocolonialism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T10:04:26+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/666184bd20302752d230524f.jpg" style="margin-right: 10px;" /> Russia will focus on developing its own AI potential to protect its citizens from Western influence, Moscow says <br /><a href="https://www.rt.com/russia/598846-russia-fight-digital-neocolonialism/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## South Africa’s ruling party holds coalition talks
+ - [https://www.rt.com/africa/598839-south-africa-anc-holds-coalition-talks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/598839-south-africa-anc-holds-coalition-talks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T10:03:28+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661852185f54011ad2e5701.jpg" style="margin-right: 10px;" /> South Africa’s ruling party has begun negotiating with the opposition for a coalition that will enable parliament to elect a president <br /><a href="https://www.rt.com/africa/598839-south-africa-anc-holds-coalition-talks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## South American country to impose energy sanctions on Israel – Bloomberg
+ - [https://www.rt.com/business/598841-colombia-coal-exports-israel-restrictions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/598841-colombia-coal-exports-israel-restrictions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T09:50:10+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/666183f085f540638a7bbdcc.jpg" style="margin-right: 10px;" /> Colombia’s trade ministry has called for restricting coal exports to Israel over its military campaign in Gaza, Bloomberg has said <br /><a href="https://www.rt.com/business/598841-colombia-coal-exports-israel-restrictions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Biden could cause nuclear war – Trump
+ - [https://www.rt.com/news/598840-trump-nuclear-war-biden/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598840-trump-nuclear-war-biden/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T09:19:05+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66617cc920302752d2305243.jpg" style="margin-right: 10px;" /> Former US President Donald Trump has warned that his successor Joe Biden may trigger a global nuclear war <br /><a href="https://www.rt.com/news/598840-trump-nuclear-war-biden/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia and Chad to expand economic relations – Lavrov
+ - [https://www.rt.com/africa/598837-lavrov-african-tour-chad/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/598837-lavrov-african-tour-chad/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T09:10:59+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66616f9d20302754201f186b.jpg" style="margin-right: 10px;" /> Russian Foreign Minister Sergey Lavrov and his Chadian counterpart have agreed to expand trade dialogue <br /><a href="https://www.rt.com/africa/598837-lavrov-african-tour-chad/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## ‘Netanyahu can’t say ‘no’ to Biden’: Will the US’ plan stop bloodshed in the Middle East?
+ - [https://www.rt.com/news/598806-netanyahu-cant-say-no/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598806-netanyahu-cant-say-no/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T08:32:47+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66609de52030277551750dd4.jpg" style="margin-right: 10px;" /> Hamas deal might get Israeli Prime Minister Netanyahu in trouble but pressure is mounting on him to accept it <br /><a href="https://www.rt.com/news/598806-netanyahu-cant-say-no/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Financial Times ‘working for Russia’ – Ukraine
+ - [https://www.rt.com/russia/598838-financial-times-working-russia-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598838-financial-times-working-russia-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T08:25:02+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661700685f5405e0c041c14.jpg" style="margin-right: 10px;" /> Ukraine’s Energy Ministry has accused the Financial Times of spreading panic over Russian strikes on the national power grid <br /><a href="https://www.rt.com/russia/598838-financial-times-working-russia-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## New York police set to revoke Trump’s gun license – CNN
+ - [https://www.rt.com/news/598834-trumps-gun-license-nypd/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598834-trumps-gun-license-nypd/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T08:03:51+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661694d85f54069ed3e9696.jpg" style="margin-right: 10px;" /> Former US President Donald Trump has a concealed carry permit and three pistols, a police source has told CNN <br /><a href="https://www.rt.com/news/598834-trumps-gun-license-nypd/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## SPIEF 2024: Hungary urges immediate Ukraine peace talks
+ - [https://www.rt.com/news/598832-hungary-ukraine-peace-talks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598832-hungary-ukraine-peace-talks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T07:41:47+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6661625620302754434b180c.jpg" style="margin-right: 10px;" /> Hungary perceives an immediate ceasefire in the Ukraine conflict as paramount, Foreign Minister Peter Szijjarto said in St. Petersburg <br /><a href="https://www.rt.com/news/598832-hungary-ukraine-peace-talks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Modi’s party has ‘tough times ahead’ – opposition politician to RT
+ - [https://www.rt.com/india/598810-modis-party-has-tough-times-opposition/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/598810-modis-party-has-tough-times-opposition/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T06:17:37+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66609e09203027771148360e.jpg" style="margin-right: 10px;" /> Narendra Modi will have to rely on ‘difficult allies’ to form a government following the election, Congress party’s Salman Khurshid tells RT <br /><a href="https://www.rt.com/india/598810-modis-party-has-tough-times-opposition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Passengers ejected from speeding tram before horror collision in Russia (VIDEO)
+ - [https://www.rt.com/russia/598831-passengers-ejected-from-speeding-tram/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598831-passengers-ejected-from-speeding-tram/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T05:58:53+00:00
+
+At least one person is killed and many injured in a disaster involving two trams in the Russian city of Kemerovo, local governor said <br /><a href="https://www.rt.com/russia/598831-passengers-ejected-from-speeding-tram/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel bombs ‘Hamas compound’ in Gaza school
+ - [https://www.rt.com/news/598830-israel-gaza-unrwa-school/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598830-israel-gaza-unrwa-school/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T03:19:36+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66612a73203027658b6ac4e5.jpg" style="margin-right: 10px;" /> Israel has confirmed its air force struck a UNRWA school in the Nuseirat refugee camp in the central Gaza Strip, <br /><a href="https://www.rt.com/news/598830-israel-gaza-unrwa-school/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Zelensky’s illegitimacy, NATO ‘bulls**t’ & Russia’s ‘asymmetric’ response: Key takeaways from Putin’s foreign press briefing
+ - [https://www.rt.com/russia/598829-putin-press-briefing-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/598829-putin-press-briefing-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T01:22:00+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66610e0c2030276596063409.jpg" style="margin-right: 10px;" /> Russian President Vladimir Putin discusses how the Ukraine conflict began, and how it could end, with foreign media agencies <br /><a href="https://www.rt.com/russia/598829-putin-press-briefing-highlights/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## FBI chief warns of Moscow-style terrorist attack in US
+ - [https://www.rt.com/news/598828-fbi-crocus-attack-warning/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/598828-fbi-crocus-attack-warning/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-06T00:10:56+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6660fdf320302725a754de4f.jpg" style="margin-right: 10px;" /> US faces threat of a coordinated terrorist attack like the operation that killed 145 people at Russia’s Crocus City Hall, FBI boss says <br /><a href="https://www.rt.com/news/598828-fbi-crocus-attack-warning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+

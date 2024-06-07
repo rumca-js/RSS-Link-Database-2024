@@ -1,0 +1,156 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Tory MP says he misspoke after NDP MP accuses him of making anti-Indigenous comment
+ - [https://www.cbc.ca/news/politics/conservative-mp-apologizes-ndp-accuse-anti-indigenous-language-1.7227520?cmp=rss](https://www.cbc.ca/news/politics/conservative-mp-apologizes-ndp-accuse-anti-indigenous-language-1.7227520?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T19:11:28+00:00
+
+<img alt="A man in a navy suit speaks in the House of Commons." height="349" src="https://i.cbc.ca/1.7227552.1717714920!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brad-redekopp-june-4-2024.jpg" title="Conservative MP Brad Redekopp speaks in the House of Commons on June 4, 2024." width="620" /><p>A Conservative MP apologized in the House of Commons on Thursday after an Indigenous colleague from across the political aisle called him out for linking an offender's criminal record to his race.</p>
+
+## Pride flags will fly in Colorado despite Republican Party call to burn them
+ - [https://www.cbc.ca/radio/asithappens/colorado-republican-pride-1.7227472?cmp=rss](https://www.cbc.ca/radio/asithappens/colorado-republican-pride-1.7227472?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T18:53:58+00:00
+
+<img alt="A pair of hands make a heart shape in front of rainblow flag blowing in the wind against a clear blue sky " height="349" src="https://i.cbc.ca/1.7227488.1717712222!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/colorado-shooting.JPG" title="A person holds their hands in the shape of a heart in front of a pride flag during a march for solidarity for the those affected after a mass shooting at LGBTQ nightclub Club Q, in Colorado Springs, Colorado, U.S. November 26, 2022. REUTERS/Isaiah J. Downing     TPX IMAGES OF THE DAY" width="620" /><p>Pride celebrations will go on in Colorado despite a Republican Party email branding its participants “godless groomers” and calling on people to burn Pride flags. And at least one Republican candidate is speaking out against his own party.</p>
+
+## Putin's threat to put long-range weapons closer to West leaves unanswered questions
+ - [https://www.cbc.ca/news/world/putin-comments-western-weapons-ukraine-1.7226032?cmp=rss](https://www.cbc.ca/news/world/putin-comments-western-weapons-ukraine-1.7226032?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T18:05:29+00:00
+
+<img alt="Russian President Vladimir Putin speaks to a group of editors of international news agencies, in St. Petersburg, Russia, on Wednesday, June 5, 2024." height="349" src="https://i.cbc.ca/1.7226034.1717625434!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/russian-president-vladimir-putin-speaking-to-global-news-agency-editors.jpg" title="Russian President Vladimir Putin speaks to senior news leaders of international news agencies on the sidelines of the St. Petersburg International Economic Forum at the Lakhta Center skyscraper, the headquarters of Russian gas monopoly Gazprom in St. Petersburg, Russia, on Wednesday, June 5, 2024. The Russian leader has used the annual forum as a showcase for touting Russia&apos;s development and seeking investors." width="620" /><p>Russian President Vladimir Putin has conveyed Moscow's anger over Ukraine getting approval from some NATO allies to use Western weapons more freely — even to attack selected targets in Russia. Analysts say th
+
+## Pro-Palestinian student activists occupy McGill University building
+ - [https://www.cbc.ca/news/canada/montreal/mcgill-building-blockade-1.7227395?cmp=rss](https://www.cbc.ca/news/canada/montreal/mcgill-building-blockade-1.7227395?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T17:47:43+00:00
+
+<img alt="masked protesters wave palestinian flag through open window" height="349" src="https://i.cbc.ca/1.7227422.1717711532!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mcgill-student-protestors-building.jpg" title="In a video posted to Solidarity for Palestinian Human Rights (SPHR) McGill&apos;s Instagram account, pro-Palestinian protesters can be seen inside a building on the university&apos;s campus, with Montreal police standing below." width="620" /><p>Student protesters at McGill are occupying the school's James Administration Building at its downtown Montreal campus over its financial and academic ties to Israel.</p>
+
+## Hunter Biden's sister-in-law testifies she threw gun into trash out of fear of his spiralling addiction
+ - [https://www.cbc.ca/news/world/hunter-biden-trial-hallie-biden-testifies-gun-charges-1.7227300?cmp=rss](https://www.cbc.ca/news/world/hunter-biden-trial-hallie-biden-testifies-gun-charges-1.7227300?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T16:55:57+00:00
+
+<img alt="A woman and two men arrive at federal court" height="349" src="https://i.cbc.ca/1.7227337.1717706699!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hunter-biden.jpg" title="Hallie Biden arrives at federal court, Thursday, June 6, 2024, in Wilmington, Del." width="620" /><p>Hunter Biden's sister-in-law testified on Thursday that she took and threw away his gun out of fear of his spiraling addiction, potentially bolstering prosecutors' case that President Joe Biden's son broke a law barring illegal drug users from owning firearms.</p>
+
+## Whole-body deodorant is trending, but do we need it — or are we being scent-shamed?
+ - [https://www.cbc.ca/news/canada/whole-body-deodorant-trend-1.7225506?cmp=rss](https://www.cbc.ca/news/canada/whole-body-deodorant-trend-1.7225506?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T14:59:56+00:00
+
+<img alt="Sweat beads are seen on the back of a woman" height="349" src="https://i.cbc.ca/1.7226477.1717681389!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/heat-wave.jpg" title="Sweat beads are seen on the back of a woman at MacKenzies Beach on Dec. 9, 2023 in Sydney, Australia." width="620" /><p>Deodorant for your armpits? Sure. Deodorant for your butt crack? Well ... it exists, and it's trending. But whether or not you need it is another matter.</p>
+
+## 'How do you sleep at night?': NDP calls oil and gas executives to Parliament
+ - [https://www.cbc.ca/news/politics/oil-and-gas-ceos-testify-1.7226966?cmp=rss](https://www.cbc.ca/news/politics/oil-and-gas-ceos-testify-1.7226966?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T14:58:21+00:00
+
+<img alt="woman at podium" height="349" src="https://i.cbc.ca/1.7226986.1717698059!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/youth-corps-20231205.jpg" title="NDP MP for Victoria Laurel Collins makes her way to the podium to speak about a youth corps during a news conference, in Ottawa, Tuesday, Dec. 5, 2023. " width="620" /><p>Canadian oil and gas executives are expected to face tough questions in Ottawa this afternoon over their companies' record profits and track records on greenhouse gas emissions.</p>
+
+## Israel denies link to Islamophobic campaign in Canada that Meta says originated there
+ - [https://www.cbc.ca/news/politics/israel-denies-link-islamophobic-campaign-1.7226891?cmp=rss](https://www.cbc.ca/news/politics/israel-denies-link-islamophobic-campaign-1.7226891?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T14:01:20+00:00
+
+<img alt="A group of people waving red, white, black and green Palestinian flags and holding a sign that says &quot;UBC&apos;s investments enable the ongoing scholasticide in Gaza.&quot;" height="349" src="https://i.cbc.ca/1.7218682.1717021190!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/ubc-pro-palestinian-protest.jpg" title="Pro-Palestinian protesters march during a demonstration at the rose garden at the University of British Columbia." width="620" /><p>The Israeli government is being accused in published reports of involvement in an operation aimed at reducing support for Palestinians in Canada that was flagged by artificial intelligence researchers.</p>
+
+## Veteran calls Zelenskyy a 'saviour of the people' at D-Day event
+ - [https://www.cbc.ca/player/play/9.6415407?cmp=rss](https://www.cbc.ca/player/play/9.6415407?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T13:55:48+00:00
+
+<img alt="Volodymyr Zelenskyy clasps hands with a World War 2 veteran as they smile at each other." height="349" src="https://i.cbc.ca/ais/066912ac-a205-405d-a06e-bb4afe6ebce3,1717696236195/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3BResize%3D%28620%29" title="" width="620" /><p>Ukrainian President Volodymyr Zelenskyy kneeled to share a moment with a veteran at an event marking the 80th anniversary of D-Day, with each man praising the other for their war efforts.</p>
+
+## Boeing's Starliner capsule crew face issues while attempting to dock with ISS
+ - [https://www.cbc.ca/news/science/boeing-starliner-docking-1.7226731?cmp=rss](https://www.cbc.ca/news/science/boeing-starliner-docking-1.7226731?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T12:55:22+00:00
+
+<img alt="A white rocket leaves a fiery trail as it lifts off into a blue sky dotted with clouds." height="349" src="https://i.cbc.ca/1.7226737.1717690269!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/boeing-starliner-launch.JPG" title="A United Launch Alliance Atlas V rocket carrying two astronauts aboard Boeing&apos;s Starliner-1 Crew Flight Test (CFT), is launched on a mission to the International Space Station, in Cape Canaveral, Florida, U.S. June 5, 2024. " width="620" /><p>Astronauts Suni Williams and Butch Wilmore faced more helium leaks and missed the 12:15 p.m. ET docking opportunity as NASA mission control worked through issues with Boeing's new Starliner spacecraft.</p>
+
+## UN chief calls for fossil fuel ads to be banned like cigarette ads
+ - [https://www.cbc.ca/news/climate/united-nations-guterres-fossil-fuel-advertising-ban-1.7226571?cmp=rss](https://www.cbc.ca/news/climate/united-nations-guterres-fossil-fuel-advertising-ban-1.7226571?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T11:41:07+00:00
+
+<img alt="man at podium" height="349" src="https://i.cbc.ca/1.7226577.1717684939!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/egypt-un.jpg" title="United Nations Secretary-General Antonio Guterres, seen here in March, called on countries and companies to block the advertisement of fossil fuels in a major speech Wednesday." width="620" /><p>United Nations Secretary General Antonio Guterres took aim at fossil fuel advertising in a major speech on Wednesday that gave ammunition to critics who have been calling for tighter restrictions in Canada and countries around the world.</p>
+
+## LeBlanc accuses Tories of theatrics as they push for names of MPs in foreign meddling report
+ - [https://www.cbc.ca/news/politics/foreign-interference-committee-hearing-1.7226586?cmp=rss](https://www.cbc.ca/news/politics/foreign-interference-committee-hearing-1.7226586?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T11:14:12+00:00
+
+<img alt="Minister of Public Safety, Democratic Institutions and Intergovernmental Affairs Dominic LeBlanc speaks to reporters in the foyer of the House of Commons on Parliament Hill in Ottawa on Monday, June 3, 2024." height="349" src="https://i.cbc.ca/1.7226606.1717686013!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/foreign-interference-20240603.JPG" title="Minister of Public Safety, Democratic Institutions and Intergovernmental Affairs Dominic LeBlanc speaks to reporters in the foyer of the House of Commons on Parliament Hill in Ottawa on Monday, June 3, 2024." width="620" /><p>Public Safety Minister Dominic LeBlanc accused Conservative MPs of theatrics on Thursday as they pressed the government to release the names of MPs allegedly engaged in foreign interference.</p>
+
+## N.Y. prosecutors to announce 'significant development' in case of Long Island killings
+ - [https://www.cbc.ca/news/world/gilgo-beach-long-island-new-york-killings-rex-heuerman-1.7226413?cmp=rss](https://www.cbc.ca/news/world/gilgo-beach-long-island-new-york-killings-rex-heuerman-1.7226413?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T09:30:26+00:00
+
+<img alt="A man with brown hair wearing a dark jacket, white shirt and blue tie." height="349" src="https://i.cbc.ca/1.7226427.1717678430!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gilgo-beach-serial-killings.jpg" title="FILE - Rex Heuermann appears next to his attorney Michael Brown at Suffolk County Court, April 17, 2024, in Riverhead, N.Y. Prosecutors are planning a major announcement in the Gilgo Beach serial killings as Heuermann, the prime suspect in the case, is set to appear in criminal court Thursday, June 6, on Long Island. " width="620" /><p>Prosecutors plan to announce a "significant development" Thursday in the case of a New York architect accused of killing four women and leaving their corpses scattered in the scrub along a coastal highway.</p>
+
+## Toronto transit union leader warns workers are 'ready' to strike Friday
+ - [https://www.cbc.ca/news/canada/toronto/ttc-union-strike-update-thursday-1.7226322?cmp=rss](https://www.cbc.ca/news/canada/toronto/ttc-union-strike-update-thursday-1.7226322?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T08:31:33+00:00
+
+<img alt="Wearing a red cap and knapsack, a bus employee walking toward a TTC bus in sunshine." height="349" src="https://i.cbc.ca/1.6950926.1693334376!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/ttc-features.jpg" title="A TTC driver walks past a bus at Scarborough Centre station on Aug. 28, 2023." width="620" /><p>The Toronto Transit Commission serves 1.3 million riders per week day, but if it can't reach a new deal with the union representing its frontline workers by midnight the city will see a strike launched at 2 a.m. Friday.</p>
+
+## B.C.'s top fight official given expanded powers to grapple with 'unsanctioned, unregulated' combat sports
+ - [https://www.cbc.ca/news/canada/british-columbia/bc-athletic-commissioner-expanded-sanctioning-power-1.7226158?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/bc-athletic-commissioner-expanded-sanctioning-power-1.7226158?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T08:00:00+00:00
+
+<img alt="A man speaks at a podium in a boxing gym while a man and woman look on." height="349" src="https://i.cbc.ca/1.7226187.1717632613!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/mixed-martial-arts-annoucement.jpg" title="Kelly Gilday, B.C.’s athletic commissioner, speaks at a press conference in the World Champion Fight Club in Richmond on Tuesday, August 27, 2019. (Maggie MacPherson/CBC)" width="620" /><p>B.C.'s top combat sports official has new powers to scrutinize competitions that he says are raising athlete safety concerns.</p>
+
+## See a goofy-looking bird on the ground? It's likely a baby and it's fine, experts say
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/fledgling-season-karen-gosse-michael-mesure-1.7226334?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/fledgling-season-karen-gosse-michael-mesure-1.7226334?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T07:11:32+00:00
+
+<img alt="A pair of young crows look expectantly for food." height="349" src="https://i.cbc.ca/1.6864747.1685763770!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fledgling-crows.jpg" title="A pair of fledgling crows under the care of the Wildlife Rescue Association of B.C. fledglings can be identified by their blue eyes." width="620" /><p>It's fledgling season, a time when animal rescue experts say they are inundated with calls about goofy-looking birds stumbling around on the ground.</p>
+
+## MP Charlie Angus 'astounded' charges against man accused of harassing him were stayed due to lost evidence
+ - [https://www.cbc.ca/news/canada/sudbury/federal-politicians-angus-harrassment-threats-charges-stayed-1.7226113?cmp=rss](https://www.cbc.ca/news/canada/sudbury/federal-politicians-angus-harrassment-threats-charges-stayed-1.7226113?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T04:00:00+00:00
+
+<img alt="NDP Charlie Angus speaks during a news conference, Tuesday, October 17, 2023 in Ottawa.  THE CANADIAN PRESS/Adrian Wyld" height="349" src="https://i.cbc.ca/1.7016492.1712246669!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ndp-climate-20231017.jpg" title="NDP Charlie Angus speaks during a news conference, Tuesday, October 17, 2023 in Ottawa. " width="620" /><p>Charlie Angus, MP for Timmins-James Bay in northern Ontario, says he wants police to take complaints of harassment and threatening behaviour seriously after charges against a man accused of uttering death threats against him and his staff were tossed. CBC obtained a court recording in which the Crown told the judge that the evidence had gone missing.</p>
+
+## SpaceX to undergo 4th test launch of its 37-storey Starship rocket
+ - [https://www.cbc.ca/news/science/spacex-starship-itf4-1.7225550?cmp=rss](https://www.cbc.ca/news/science/spacex-starship-itf4-1.7225550?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T04:00:00+00:00
+
+<img alt="A tall rocket sits on a launch pad on a cloudy day surrounded by sand, some green grass and water." height="349" src="https://i.cbc.ca/1.7225575.1717611712!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/starship.jpg" title="Starship sits on the launch pad in Boca Chica, Tex. in April 2023." width="620" /><p>Hot on the heels of the successful crewed launch of Boeing's new CST-100 Starliner on Wednesday, we have another rocket launch: This time it’s SpaceX’s massive Starship, which is meant to shuttle astronauts to the moon in 2026.</p>
+
+## Dozens killed in Israeli airstrike on Gaza school, Hamas-run media office says
+ - [https://www.cbc.ca/news/world/dozens-killed-in-israeli-airstrike-on-gaza-school-hamas-run-media-office-says-1.7226308?cmp=rss](https://www.cbc.ca/news/world/dozens-killed-in-israeli-airstrike-on-gaza-school-hamas-run-media-office-says-1.7226308?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T03:57:56+00:00
+
+<img alt="A blue and white concrete building is heavily damaged. People walk in the courtyard strewn with debris" height="349" src="https://i.cbc.ca/1.7226317.1717658408!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/school.jpg" title="The United Nations Relief and Works Agency for Palestine Refugees (UNRWA) school was sheltering thousands of people, in Nuseirat Refugee Camp, Gaza Strip. The Israeli military says it contained a Hamas compound. " width="620" /><p>Israel targeted a Gaza school on Thursday that it said contained a Hamas compound, killing fighters involved in the Oct. 7 attack that sparked the eight-month war, but Gaza media said the strike killed at least 27 people seeking shelter.</p>
+
+## Israeli strike on Gaza school kills dozens
+ - [https://www.cbc.ca/news/world/israeli-strike-on-gaza-school-kills-dozens-1.7226308?cmp=rss](https://www.cbc.ca/news/world/israeli-strike-on-gaza-school-kills-dozens-1.7226308?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T03:57:56+00:00
+
+<img alt="A blue and white concrete building is heavily damaged. People walk in the courtyard strewn with debris" height="349" src="https://i.cbc.ca/1.7226317.1717658408!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/school.jpg" title="The United Nations Relief and Works Agency for Palestine Refugees (UNRWA) school was sheltering thousands of people, in Nuseirat Refugee Camp, Gaza Strip. The Israeli military says it contained a Hamas compound. " width="620" /><p>Israel hit a Gaza school on Thursday with what it described as a targeted airstrike on Hamas fighters who had sheltered inside a United Nations site, with a top official saying at least 35 people had been killed.</p>
+
+## Israeli strike on Gaza school that military says was Hamas compound kills dozens
+ - [https://www.cbc.ca/news/world/israeli-strike-on-gaza-school-that-military-says-was-hamas-compound-kills-dozens-1.7226308?cmp=rss](https://www.cbc.ca/news/world/israeli-strike-on-gaza-school-that-military-says-was-hamas-compound-kills-dozens-1.7226308?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T03:57:56+00:00
+
+<img alt="A blue and white concrete building is heavily damaged. People walk in the courtyard strewn with debris" height="349" src="https://i.cbc.ca/1.7226317.1717658408!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/school.jpg" title="The United Nations Relief and Works Agency for Palestine Refugees (UNRWA) school was sheltering thousands of people, in Nuseirat Refugee Camp, Gaza Strip. The Israeli military says it contained a Hamas compound. " width="620" /><p>Israel targeted a Gaza school on Thursday that it said contained a Hamas compound, killing fighters involved in the Oct. 7 attack that sparked the eight-month war, but Gaza media said the strike killed at least 27 people seeking shelter.</p>
+
+## Vancouver translator, Mexican poet win $130K Griffin Poetry Prize
+ - [https://www.cbc.ca/news/canada/british-columbia/griffin-poetry-prize-george-mcwhirter-1.7226288?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/griffin-poetry-prize-george-mcwhirter-1.7226288?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-06T00:05:56+00:00
+
+<img alt="Two white men smile as they pose for a picture. The man on the left is wearing a blue shirt, while the man on the right is wearing a checked shirt." height="349" src="https://i.cbc.ca/1.7226291.1717645619!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/books-griffin-poetry-prize-20240605-george-mcwhirter-scott-griffin.jpg" title="George McWhirter, left, and Scott Griffin, founder of the Griffin Poetry Prize, pose in this Wednesday, June 5, 2024 handout photo. Self-Portrait in the Zone of Silence, written in Spanish by Homero Aridjis and translated into English by Irish-Canadian writer George McWhirter, won the Griffin Poetry Prize." width="620" /><p>Canadian poet-translator George McWhirter stood alone at a lectern Wednesday night to accept the Griffin Poetry Prize he earned with his friend and longtime collaborator Homero Aridjis for Self-Portrait in the Zone of Silence.</p>
+

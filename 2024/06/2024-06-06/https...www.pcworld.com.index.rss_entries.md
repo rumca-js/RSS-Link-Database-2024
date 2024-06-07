@@ -1,0 +1,178 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Intel abandons hyperthreading for Lunar Lake CPUs
+ - [https://www.pcworld.com/article/2355112/intel-abandons-hyperthreading-lunar-lake-cpus.html](https://www.pcworld.com/article/2355112/intel-abandons-hyperthreading-lunar-lake-cpus.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-06-06T20:02:04+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Intel&rsquo;s fastest processors have included hyperthreading, a technique that lets more than one thread run on a single CPU core, for over 20 years &mdash; and it&rsquo;s used by AMD (which calls it &ldquo;simultaneous multi-threading&rdquo;) as well. But you won&rsquo;t see a little &ldquo;HT&rdquo; on the Intel sticker for any <a href="https://www.pcworld.com/article/2350967">Lunar Lake laptops</a>, because none of them use it. Hyperthreading will be disabled on all Lunar Lake CPU cores, including both performance and efficiency cores. </p>
+
+
+
+<p>Why? The reason is complicated, but basically it&rsquo;s no longer wanted as Intel strives to maximize power efficiency in portable laptops. The performance cores or P-Cores on the new Lunar Lake series are 14 percent faster than the same cores on the previous-gen Meteor Lake CPUs, even with the multi-thread-processi
+
+## Google Q&A: How Chromebooks are navigating the AI era
+ - [https://www.pcworld.com/article/2357511/google-qa-how-chromebooks-are-moving-into-the-ai-era.html](https://www.pcworld.com/article/2357511/google-qa-how-chromebooks-are-moving-into-the-ai-era.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-06-06T15:12:16+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>For years, <a href="https://www.pcworld.com/article/608636/best-chromebooks.html">Chromebooks</a> have served as the loyal opposition to PCs. Google&rsquo;s laptops offer many of the same Google services as you can find via the Web, but integrated into an inexpensive package for consumers and students. So what&rsquo;s next?</p>
+
+
+
+<p>I sat down with John Solomon, vice president of ChromeOS and education at Google, to ask about <a href="https://www.pcworld.com/article/2302123/what-is-an-ai-pc-we-cut-through-the-hype.html">the new wave of AI PCs</a> and how Google responds. We talk about how &ldquo;generic&rdquo; Chromebooks survive as <a href="https://www.pcworld.com/article/2344805/chromebook-plus-is-googles-push-for-affordable-ai.html">Google pushes Chromebook Plus</a>, how kids can be encouraged to game on Chromebooks as well as learn, and what Google is cookin
+
+## Norton Antivirus Plus review: A slim suite for digital minimalists
+ - [https://www.pcworld.com/article/2354286/norton-antivirus-plus-review-a-slim-suite-for-digital-minimalists.html](https://www.pcworld.com/article/2354286/norton-antivirus-plus-review-a-slim-suite-for-digital-minimalists.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-06-06T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Strong antivirus protection</li><li>Essential protection against major online threats</li><li>Simple, straightforward features</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Performance impact on some PCs</li><li>User interface would benefit from consolidation</li><li>Upselling of additional services</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">A one-device limitation can feel tight to many 
+
+## Destiny 2’s Final Shape expansion is $50, and worth every penny
+ - [https://www.pcworld.com/article/2358244/destiny-2s-final-shape-expansion-is-50-and-worth-every-penny.html](https://www.pcworld.com/article/2358244/destiny-2s-final-shape-expansion-is-50-and-worth-every-penny.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-06-06T14:18:31+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The June 4 release date for <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.destinythegame.com/en/the-final-shape&amp;xcust=2-1-2358244-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Destiny 2 The Final Shape</a>, the last installment in the Destiny 2&rsquo;s current story arc, had me poised over my keyboard ready to buy as the clock struck midnight. Yet when it finally became available, strangely enough, I found my finger hovering over Steam&rsquo;s purchase button like I was frozen in a solid carbonite block.</p>
+
+
+
+<p>It&rsquo;s not that I didn&rsquo;t feel a gut-wrenching deep primal urge to buy this expansion. In fact, I could almost hear The Witness (the game&rsquo;s major villain) beckoning me to come challenge it.</p>
+
+
+
+<p>It&rsquo;s just that, $50 <em>is</em> kind of steep. I knew all too well the sort of sacrif
+
+## This super portable Dell XPS 13 is $300 off right now
+ - [https://www.pcworld.com/article/2358446/this-super-portable-dell-xps-13-is-300-off-right-now.html](https://www.pcworld.com/article/2358446/this-super-portable-dell-xps-13-is-300-off-right-now.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-06-06T13:15:20+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>For those looking for a fantastic laptop for all your day-to-day tasks, from doing school work to streaming Netflix, the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.dell.com/en-us/shop/deals-for-business/xps-13-laptop/spd/xps-13-9315-laptop/xn9315gsmls&amp;xcust=2-1-2358446-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Dell XPS 13 is a fantastic choice, especially now that it&rsquo;s $300 off</a>. Available for a solid $799 at Dell, this is a deal that gives everyone the chance to get a great laptop at a more affordable price point.</p>
+
+
+
+<p>So, what makes this laptop so special? Well, first of all, it has a 12th Gen Intel Core i7 processor that promises to deliver a powerful performance no matter what you&rsquo;re doing. Whether you&rsquo;re multitasking, opening one too many tabs in Chrome, or handling demanding a
+
+## Get two 6F Anker USB-C cables for just $9 today
+ - [https://www.pcworld.com/article/2358407/get-two-6f-anker-usb-c-cables-for-just-9-today.html](https://www.pcworld.com/article/2358407/get-two-6f-anker-usb-c-cables-for-just-9-today.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-06-06T13:07:54+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Having long cables to charge your phone can be life-changing, so when we saw the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Anker-Charging-MacBook-Galaxy-Charger/dp/B088NRLMPV&amp;xcust=2-1-2358407-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Anker USB-C to USB-C 6ft two-pack down to an impressive $9</a>, we couldn&rsquo;t help but press the &ldquo;add to cart&rdquo; button. This is the best price you&rsquo;ll get for this two-pack for a while, so now&rsquo;s the perfect time to get this.</p>
+
+
+
+<p>The big tech companies that make our gadgets started &ldquo;forgetting&rdquo; to include wall chargers in the boxes of the tech we buy. Then, they started including super-short cables, too.</p>
+
+
+
+<p>I don&rsquo;t know about you, but I hate hanging half off the bed while doom-scrolling before I fall asleep. So
+
+## Why mixing your PC’s RAM is a recipe for disaster
+ - [https://www.pcworld.com/article/2353939/why-you-shouldnt-mix-and-match-ram-types.html](https://www.pcworld.com/article/2353939/why-you-shouldnt-mix-and-match-ram-types.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-06-06T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>When the opportunity arises, upgrading your RAM is a great way to boost your PC&rsquo;s performance. But RAM can be quite a headache to work out sometimes. That&rsquo;s because it comes in varying generations, brands, speeds, latencies, sizes, and voltages. In fact, with all that to think about, confusion often arises about whether you can even mix and match RAM and make it work at all. So, can you?</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Further reading: <a href="https://www.pcworld.com/article/2228853/practical-knowledge-how-long-does-ram-actually-last.html">How long does computer RAM actually last?</a> </p>
+</blockquote>
+
+
+
+<h3 class="wp-block-heading" id="can-you-mix-and-match-ram">Can you mix and match RAM?</h3>
+
+
+
+<p>The simple answer is YES! Well, as long as it&rsquo;s the same generation. So, a stick of DDR 5 RAM should work with another stick of DD
+
+## Protect your electronics with this $10 surge protector power strip
+ - [https://www.pcworld.com/article/2358363/protect-your-electronics-with-this-10-surge-protector-power-strip.html](https://www.pcworld.com/article/2358363/protect-your-electronics-with-this-10-surge-protector-power-strip.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-06-06T12:59:08+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>I don&rsquo;t know how things are in your part of the world, but in mine, we experience power outages due to people using air conditioning. With the power going out and coming back again, a surge protector is heaven-sent. This <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B092J8LPWR/ref=twister_B0D12SK5TL&amp;xcust=2-1-2358363-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Hanycony surge protector power strip at Amazon is down to just $10</a> right now from its usual $20, making it the perfect addition to your home, office, or whatever other space you feel it would fit in.</p>
+
+
+
+<p>This surge protector features a super versatile design. It has eight widely spaced AC outlets and four USB ports, including two USB-C. Even though there are so many outlets, this isn&rsquo;t a large power strip since it comes w
+
+## The top-rated VPN Unlimited is $140 off for a lifetime subscription
+ - [https://www.pcworld.com/article/2358051/the-top-rated-vpn-unlimited-is-140-off-for-a-lifetime-subscription.html](https://www.pcworld.com/article/2358051/the-top-rated-vpn-unlimited-is-140-off-for-a-lifetime-subscription.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2024-06-06T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<ul>
+<li>VPN Unlimited encrypts your online traffic on a network of 3,000 secure servers in more than 80 countries.</li>
+
+
+
+<li>Stay anonymous and protect your IP address while browsing.</li>
+
+
+
+<li>Enjoy a more open internet with the ability to bypass geographic restrictions by jumping between servers.</li>
+
+
+
+<li>Connect up to five devices, with a wide range of compatibility.</li>
+
+
+
+<li>Join more than 35 million users who have helped propel VPN Unlimited to a 4.3/5-star rating on Trustpilot.</li>
+</ul>
+
+
+
+<p>Protect your device and internet browsing time with this<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.pcworld.com/sales/vpn-unlimited-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=vpn-unlimited-lifetime-subscription&amp;utm_term=scsf-597775&amp;utm_content=a0xRn000001IbYPIA0&amp;scsonar=1
+
