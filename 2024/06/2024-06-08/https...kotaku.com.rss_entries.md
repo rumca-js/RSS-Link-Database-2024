@@ -1,0 +1,44 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## Destiny 2: The Final Shape Brings The Feels, That New Star Wars Shooter Is Fun, And More Of The Week's Gaming Takes
+ - [https://kotaku.com/octopath-traveler-star-wars-hunters-destiny-fishing-1851526254](https://kotaku.com/octopath-traveler-star-wars-hunters-destiny-fishing-1851526254)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-08T18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d430ece16468c499453f2ede512a7789.jpg" /><p>This week, Destiny 2: The Final Shape finally arrived, bringing an end to a storyline the series has been telling ever since it launched. We’ve got thoughts on how successful the campaign is at managing such a massive task. Also, let us tell you about that new Star Wars shooter, and encourage you to play Octopath…</p><p><a href="https://kotaku.com/octopath-traveler-star-wars-hunters-destiny-fishing-1851526254">Read more...</a></p>
+
+## Manufactured Call Of Duty Controversies, New Dragon Age Romance Details, And More Of The Week's Gaming News
+ - [https://kotaku.com/call-of-duty-trans-bullets-diablo-4-dragon-age-1851526252](https://kotaku.com/call-of-duty-trans-bullets-diablo-4-dragon-age-1851526252)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-08T16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/11e8472631099080519f4b62101399a1.jpg" /><p>It was eclectic week of gaming news, and we’ve got a diverse sampler platter for you with the week’s biggest stories, or at least, the biggest ones from before Summer Game Fest kicked off on Friday. For more on that, see <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/everything-we-saw-at-summer-game-fest-2024-1851527046">our roundup of everything shown off at this year’s Keighley-fest</a>, and our look at the games shown…</p><p><a href="https://kotaku.com/call-of-duty-trans-bullets-diablo-4-dragon-age-1851526252">Read more...</a></p>
+
+## The First Borderlands Movie Clip Looks Like An SNL Skit
+ - [https://kotaku.com/borderlands-movie-first-scene-ign-live-clip-trailer-1851527486](https://kotaku.com/borderlands-movie-first-scene-ign-live-clip-trailer-1851527486)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-08T00:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e3bb94ea118c3d2f27952836e2489773.jpg" /><p>Today, during IGN Live, we got our first real look at the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/borderlands-movie-first-teaser-images-screenshot-lilith-1851270822">Borderlands movie</a>, and folks,  I’m not sure this is going to be very good. </p><p><a href="https://kotaku.com/borderlands-movie-first-scene-ign-live-clip-trailer-1851527486">Read more...</a></p>
+
+## 21 Incredible Games That Stole The Spotlight At This Year’s Day Of The Devs Showcase
+ - [https://kotaku.com/summer-game-fest-day-devs-indie-showcase-retro-ufo50-1851527297](https://kotaku.com/summer-game-fest-day-devs-indie-showcase-retro-ufo50-1851527297)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-08T00:30:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8436d0c12af9ae64a282f4f97e542fc6.jpg"><source src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8436d0c12af9ae64a282f4f97e542fc6.mp4" type="video/mp4" /></video><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/day-of-the-devs-indie-animal-well-birth-goodbye-world-w-1849043017">Day of the Devs</a> returned for its 12th annual summer event with another Summer Game Fest post-show that gave the not-E3 microphone to the creators behind some of the most promising-looking upcoming games. Whether you like noir-influenced point-and-click adventures or nostalgia-fueled retro RPGs, the event once again…</p><p><a href="https://kotaku.com/summer-game-fest-day-devs-indie-showcase-retro-ufo50-1851527297">Read more...</a></p>
+
+## Everything We Saw At Summer Game Fest 2024
+ - [https://kotaku.com/everything-we-saw-at-summer-game-fest-2024-1851527046](https://kotaku.com/everything-we-saw-at-summer-game-fest-2024-1851527046)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-08T00:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9e4c09ce3bef5c67809672b8375bc23c.jpg" /><p>Today, we got nearly two hours of new trailers for upcoming games courtesy of Geoff Keighley and his annual Summer Game Fest showcase. It was a lot to sit through, but if you missed out on the live stream or just want a recap of everything shown off today, we’ve got you covered. <br /></p><p><a href="https://kotaku.com/everything-we-saw-at-summer-game-fest-2024-1851527046">Read more...</a></p>
+
+## New Power Rangers Beat 'Em Up Looks Rad As Hell
+ - [https://kotaku.com/power-rangers-ritas-rewind-co-op-arcade-brawler-trailer-1851527410](https://kotaku.com/power-rangers-ritas-rewind-co-op-arcade-brawler-trailer-1851527410)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2024-06-08T00:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9015ea5fb6b50b3c32fba70f514e6339.jpg" /><p>A new <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/games/mighty-morphin-power-rangers--3">Power Rangers</a> game was announced today during Summer Game Fest’s big showcase and it ended up being one of the coolest reveals of the two-hour event. </p><p><a href="https://kotaku.com/power-rangers-ritas-rewind-co-op-arcade-brawler-trailer-1851527410">Read more...</a></p>
+

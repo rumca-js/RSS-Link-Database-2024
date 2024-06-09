@@ -1,0 +1,184 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## While not Windows 11 24H2, a trick allows running Windows 10 22H2 on an unsupported CPU
+ - [https://www.neowin.net/news/while-not-windows-11-24h2-a-trick-allows-running-windows-10-22h2-on-an-unsupported-cpu](https://www.neowin.net/news/while-not-windows-11-24h2-a-trick-allows-running-windows-10-22h2-on-an-unsupported-cpu)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T23:30:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/07/1689237861_thumbs_up_medium.jpg" /></div>Similar to the Windows 11 system requirements bypass method, a tech enthusiast managed to run Windows 10 22H2 on an old unsupported CPU using a trick, though it won&#039;t work for everyone out there. <a href="https://www.neowin.net/news/while-not-windows-11-24h2-a-trick-allows-running-windows-10-22h2-on-an-unsupported-cpu/">Read more...</a>
+
+## Starship Troopers: Extermination Xbox Series X|S and PS5 versions are coming October 11
+ - [https://www.neowin.net/news/starship-troopers-extermination-xbox-series-xs-and-ps5-versions-are-coming-october-11](https://www.neowin.net/news/starship-troopers-extermination-xbox-series-xs-and-ps5-versions-are-coming-october-11)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T23:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717885924_7faa79841bd2e3fe62e76011cf7b4b6090bcbca9_medium.jpg" /></div>Offworld will bring its first-person shooter Starship Troopers: Extermination to the Xbox Series X|S and PS5 consoles on October 11. It will also leave Early Access period for the PC version. <a href="https://www.neowin.net/news/starship-troopers-extermination-xbox-series-xs-and-ps5-versions-are-coming-october-11/">Read more...</a>
+
+## PC Gaming Show 2024: When and how to watch and what PC games you can expect to see
+ - [https://www.neowin.net/news/pc-gaming-show-2024-when-and-how-to-watch-and-what-pc-games-you-can-expect-to-see](https://www.neowin.net/news/pc-gaming-show-2024-when-and-how-to-watch-and-what-pc-games-you-can-expect-to-see)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T23:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2018/05/1525880078_pc_gaming_show_medium.jpg" /></div>The 2024 summer edition of the PC Gaming Show will stream on Sunday, June 9. It promises to be a jam-packed show with over 70 games getting the spotlight, along with a special pre-show event. <a href="https://www.neowin.net/news/pc-gaming-show-2024-when-and-how-to-watch-and-what-pc-games-you-can-expect-to-see/">Read more...</a>
+
+## Samsung 2TB T5 EVO portable SSD drops to a new low price of just $145.99
+ - [https://www.neowin.net/deals/samsung-2tb-t5-evo-portable-ssd-drops-to-a-new-low-price-of-just-14599](https://www.neowin.net/deals/samsung-2tb-t5-evo-portable-ssd-drops-to-a-new-low-price-of-just-14599)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T21:56:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1712890642_samsung-external-ssd_medium.jpg" /></div>Samsung&#039;s portable SSD, the T5 EVO, has dropped to a new all-time low price. You can get its entry-level configuration with 2TB of storage for only $145.99 and thus save up to 37%. <a href="https://www.neowin.net/deals/samsung-2tb-t5-evo-portable-ssd-drops-to-a-new-low-price-of-just-14599/">Read more...</a>
+
+## PowerColor uses NPUs to lower GPU power consumption and improve frame rates in games
+ - [https://www.neowin.net/news/powercolor-uses-npus-to-lower-gpu-power-consumption-and-improve-frame-rates-in-games](https://www.neowin.net/news/powercolor-uses-npus-to-lower-gpu-power-consumption-and-improve-frame-rates-in-games)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T19:58:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717873934_powercolor_edge_ai_medium.jpg" /></div>PowerColor decided to give neural processing units in modern processors another purpose and make them work to reduce power GPU power consumption by up to an impressive 22% in certain games. <a href="https://www.neowin.net/news/powercolor-uses-npus-to-lower-gpu-power-consumption-and-improve-frame-rates-in-games/">Read more...</a>
+
+## Get this Linksys MX12600 Wi-Fi 6 mesh router three pack bundle for an all-time low price
+ - [https://www.neowin.net/deals/get-this-linksys-mx12600-wi-fi-6-mesh-router-three-pack-bundle-for-an-all-time-low-price](https://www.neowin.net/deals/get-this-linksys-mx12600-wi-fi-6-mesh-router-three-pack-bundle-for-an-all-time-low-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T19:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717855987_linksys-mesh-rounter-3_medium.jpg" /></div>Linksys is selling a three-pack bundle of its MX12600 Wi-Fi 6 mesh router, which can cover up to 8,100 square feet for its wireless signal range. It&#039;s hit an all-time low price of just $159.99. <a href="https://www.neowin.net/deals/get-this-linksys-mx12600-wi-fi-6-mesh-router-three-pack-bundle-for-an-all-time-low-price/">Read more...</a>
+
+## Microsoft wants you to switch from Local to Microsoft Account using its official guide
+ - [https://www.neowin.net/news/microsoft-wants-you-to-switch-from-local-to-microsoft-account-using-its-official-guide](https://www.neowin.net/news/microsoft-wants-you-to-switch-from-local-to-microsoft-account-using-its-official-guide)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T17:42:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/03/1679491971_windows_10_windows_11_medium.jpg" /></div>Microsoft has been on a roll lately as it has posted multiple guides relating to passwordless sign-ins and ensuring security. Today, it has posted one about switching from a local account to an MSA. <a href="https://www.neowin.net/news/microsoft-wants-you-to-switch-from-local-to-microsoft-account-using-its-official-guide/">Read more...</a>
+
+## The Microsoft 365 Insider program has some spots open for iOS beta testers
+ - [https://www.neowin.net/news/the-microsoft-365-insider-program-has-some-spots-open-for-ios-beta-testers](https://www.neowin.net/news/the-microsoft-365-insider-program-has-some-spots-open-for-ios-beta-testers)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T17:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/10/1665551530_10790277_(37)_medium.jpg" /></div>Microsoft has announced that it has a limited number of spots open for iOS device owners to sign up to get preview builds of apps that are a part of the Microsoft 365 Insider program. <a href="https://www.neowin.net/news/the-microsoft-365-insider-program-has-some-spots-open-for-ios-beta-testers/">Read more...</a>
+
+## Price Dropped: Save 85% on a lifetime subscription to iScanner app
+ - [https://www.neowin.net/deals/price-dropped-save-85-on-a-lifetime-subscription-to-iscanner-app](https://www.neowin.net/deals/price-dropped-save-85-on-a-lifetime-subscription-to-iscanner-app)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T17:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/12/1670496626_product_311733_product_shots1_medium.jpg" /></div>With today&#039;s highlighted deal, you will be able to scan any kind of documents, id cards, books, receipts, notes, and more using just your iOS device. Use it to count items, and more! <a href="https://www.neowin.net/deals/price-dropped-save-85-on-a-lifetime-subscription-to-iscanner-app/">Read more...</a>
+
+## Microsoft paused Windows 11 24H2 rollout for Insiders
+ - [https://www.neowin.net/news/microsoft-paused-windows-11-24h2-rollout-for-insiders](https://www.neowin.net/news/microsoft-paused-windows-11-24h2-rollout-for-insiders)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T16:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/05/1715260479_2_medium.jpg" /></div>If you have enrolled your computer in the Release Preview Channel to test Windows 11 24H2 and you are not getting the update, you are not alone: Microsoft paused the rollout without many details. <a href="https://www.neowin.net/news/microsoft-paused-windows-11-24h2-rollout-for-insiders/">Read more...</a>
+
+## Check out last week's rocket launch bonanza recap - TWIRL #168
+ - [https://www.neowin.net/news/check-out-last-weeks-rocket-launch-bonanza-recap---twirl-168](https://www.neowin.net/news/check-out-last-weeks-rocket-launch-bonanza-recap---twirl-168)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T14:44:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717849643_twirl-168_medium.jpg" /></div>We don&#039;t have much in the way of upcoming missions but the recap section is great. China went to the Moon, ULA sent people to the ISS, and SpaceX launched its Starship rocket again. <a href="https://www.neowin.net/news/check-out-last-weeks-rocket-launch-bonanza-recap---twirl-168/">Read more...</a>
+
+## Review: Dockcase Studio - A USB Type-C 8-in-1 smart hub with an integrated touchscreen
+ - [https://www.neowin.net/reviews/review-dockcase-studio---a-usb-type-c-8-in-1-smart-hub-with-an-integrated-touchscreen](https://www.neowin.net/reviews/review-dockcase-studio---a-usb-type-c-8-in-1-smart-hub-with-an-integrated-touchscreen)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T14:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717550727_2024.06.05_0152-33_00009_medium.jpg" /></div>A USB hub, card reader and 4K 120Hz laptop dock with up to 100W of USB-PD pass-through. The Dockcase Studio looks and feels premium, but can it deliver both style and substance or does it fall short? <a href="https://www.neowin.net/reviews/review-dockcase-studio---a-usb-type-c-8-in-1-smart-hub-with-an-integrated-touchscreen/">Read more...</a>
+
+## Xbox Games Showcase 2024: Here's how and when to watch it and what games could be revealed
+ - [https://www.neowin.net/news/xbox-games-showcase-2024-heres-how-and-when-to-watch-it-and-what-games-could-be-revealed](https://www.neowin.net/news/xbox-games-showcase-2024-heres-how-and-when-to-watch-it-and-what-games-could-be-revealed)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T13:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717683266_gogxqgqaaaehgvq_medium.jpg" /></div>Microsoft holds its annual Xbox Games Showcase on Sunday, June 9. Here&#039;s how you can watch the show when it takes place, and what you might see revealed during the company&#039;s single biggest game event. <a href="https://www.neowin.net/news/xbox-games-showcase-2024-heres-how-and-when-to-watch-it-and-what-games-could-be-revealed/">Read more...</a>
+
+## Amazon Deal: Get this TCL 43-inch LED Google TV for an all-time low price of $159.99
+ - [https://www.neowin.net/deals/amazon-deal-get-this-tcl-43-inch-led-google-tv-for-an-all-time-low-price-of-15999](https://www.neowin.net/deals/amazon-deal-get-this-tcl-43-inch-led-google-tv-for-an-all-time-low-price-of-15999)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T12:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717828812_tcl-43-inch-tv-1_medium.jpg" /></div>TCL is selling a 43-inch 1080p LED TV with the Google TV operating system. It also comes with a voice remote. It has hit an all-new low price of $159.99, which is $60 off its $219.99 launch price. <a href="https://www.neowin.net/deals/amazon-deal-get-this-tcl-43-inch-led-google-tv-for-an-all-time-low-price-of-15999/">Read more...</a>
+
+## This is how much the Samsung Galaxy Watch FE will allegedly cost you in Europe
+ - [https://www.neowin.net/news/this-is-how-much-the-samsung-galaxy-watch-fe-will-allegedly-cost-you-in-europe](https://www.neowin.net/news/this-is-how-much-the-samsung-galaxy-watch-fe-will-allegedly-cost-you-in-europe)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T12:28:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717509566_galaxy-watch-fe-3_medium.jpg" /></div>The latest leak of an Amazon page listing of the Samsung Galaxy Watch FE shows off the alleged pricing of the smartwatch in Europe, and by the looks of it, the smartwatch isn&#039;t too expensive. <a href="https://www.neowin.net/news/this-is-how-much-the-samsung-galaxy-watch-fe-will-allegedly-cost-you-in-europe/">Read more...</a>
+
+## Microsoft confirms Windows 11 install issues on virtual machines in the latest updates
+ - [https://www.neowin.net/news/microsoft-confirms-windows-11-install-issues-on-virtual-machines-in-the-latest-updates](https://www.neowin.net/news/microsoft-confirms-windows-11-install-issues-on-virtual-machines-in-the-latest-updates)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T12:12:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/10/1665041577_windows_11_broken_medium.jpg" /></div>Microsoft has issued a warning that certain users might experience problems installing Windows 11 on virtual machines. The company is working on resolving the issue in future updates. <a href="https://www.neowin.net/news/microsoft-confirms-windows-11-install-issues-on-virtual-machines-in-the-latest-updates/">Read more...</a>
+
+## Microsoft will soon update Visual Studio via Windows Update
+ - [https://www.neowin.net/news/microsoft-will-soon-update-visual-studio-via-windows-update](https://www.neowin.net/news/microsoft-will-soon-update-visual-studio-via-windows-update)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T11:56:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/06/1561145051_visualstudio4_medium.jpg" /></div>Microsoft is working on a new update mechanism for its flagship integrated development environment (IDE), Visual Studio. The company wants to start updating it via Windows Update.  <a href="https://www.neowin.net/news/microsoft-will-soon-update-visual-studio-via-windows-update/">Read more...</a>
+
+## Weekend PC Game Deals: Showcase specials, fresh choice and green bundles, and hero freebies
+ - [https://www.neowin.net/news/weekend-pc-game-deals-showcase-specials-fresh-choice-and-green-bundles-and-hero-freebies](https://www.neowin.net/news/weekend-pc-game-deals-showcase-specials-fresh-choice-and-green-bundles-and-hero-freebies)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T09:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/03/1551472873_3_medium.jpg" /></div>This weekend&#039;s PC game deals include a brand-new Humble Choice selection, a couple of fresh charity bundles, a giveaway involving a Firaxis strategy entry, and plenty of other specials. <a href="https://www.neowin.net/news/weekend-pc-game-deals-showcase-specials-fresh-choice-and-green-bundles-and-hero-freebies/">Read more...</a>
+
+## Microsoft shares details on AI-generated Edge Workspaces for Windows, Mac, Linux
+ - [https://www.neowin.net/news/microsoft-shares-details-on-ai-generated-edge-workspaces-for-windows-mac-linux](https://www.neowin.net/news/microsoft-shares-details-on-ai-generated-edge-workspaces-for-windows-mac-linux)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T09:04:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/06/1623594088_verticaltabs_medium.jpg" /></div>Back in December, Microsoft began testing AI-generated Edge Workspaces. The feature has since made it to the Stable channel and recently, the Redmond giant quietly shared details about it. <a href="https://www.neowin.net/news/microsoft-shares-details-on-ai-generated-edge-workspaces-for-windows-mac-linux/">Read more...</a>
+
+## Save 10% on the OnePlus 12R 8GB/128GB on Amazon now
+ - [https://www.neowin.net/deals/save-10-on-the-oneplus-12r-8gb128gb-on-amazon-now](https://www.neowin.net/deals/save-10-on-the-oneplus-12r-8gb128gb-on-amazon-now)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T08:14:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717833879_71xms88fybl._ac_sl1500__medium.jpg" /></div>If you are looking for a new phone, check out the OnePlus 12R which is currently discounted by $50 to $449.99. This is the lowest price this model has been for on Amazon. It&#039;s the 8GB/128GB edition. <a href="https://www.neowin.net/deals/save-10-on-the-oneplus-12r-8gb128gb-on-amazon-now/">Read more...</a>
+
+## Get £150 off on the Samsung Galaxy S23 FE 5G on Amazon
+ - [https://www.neowin.net/deals/get-150-off-on-the-samsung-galaxy-s23-fe-5g-on-amazon](https://www.neowin.net/deals/get-150-off-on-the-samsung-galaxy-s23-fe-5g-on-amazon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T07:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717828918_71xeolh28el._ac_sl1500__medium.jpg" /></div>The Samsung Galaxy S23 FE 5G is now just £449 on Amazon, the lowest price it has ever been. At that price, you save £150 because it&#039;s normally £599. This 128GB model is available in three colours. <a href="https://www.neowin.net/deals/get-150-off-on-the-samsung-galaxy-s23-fe-5g-on-amazon/">Read more...</a>
+
+## Samsung Galaxy Z Fold6, Z Flip6, & other products show up in mosaic pictures ahead of launch
+ - [https://www.neowin.net/news/samsung-galaxy-z-fold6-z-flip6--other-products-show-up-in-mosaic-pictures-ahead-of-launch](https://www.neowin.net/news/samsung-galaxy-z-fold6-z-flip6--other-products-show-up-in-mosaic-pictures-ahead-of-launch)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T07:32:48+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717828890_galaxy-products-unpacked_medium.jpg" /></div>Ahead of their official debut at the Unpacked event in July in Paris, the Samsung Galaxy Z Flip6, Galaxy Z Fold6, Galaxy Watch Ultra, Galaxy Ring, etc., have been leaked in mosaic pictures. <a href="https://www.neowin.net/news/samsung-galaxy-z-fold6-z-flip6--other-products-show-up-in-mosaic-pictures-ahead-of-launch/">Read more...</a>
+
+## YouTube Premium subscribers gets a chance to test the new desktop redesign
+ - [https://www.neowin.net/news/youtube-premium-subscribers-gets-a-chance-to-test-the-new-desktop-redesign](https://www.neowin.net/news/youtube-premium-subscribers-gets-a-chance-to-test-the-new-desktop-redesign)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T05:20:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717822968_youtube-redesign-watch-page-experiment_medium.jpg" /></div>After receiving negative feedback from users who unexpectedly started using it, YouTube is now giving its Premium subscribers the option to test the new desktop redesign and give feedback. <a href="https://www.neowin.net/news/youtube-premium-subscribers-gets-a-chance-to-test-the-new-desktop-redesign/">Read more...</a>
+
+## The Thing: Remastered game is coming to bring back some scary sci-fi action via Nightdive
+ - [https://www.neowin.net/news/the-thing-remastered-game-is-coming-to-bring-back-some-scary-sci-fi-action-via-nightdive](https://www.neowin.net/news/the-thing-remastered-game-is-coming-to-bring-back-some-scary-sci-fi-action-via-nightdive)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T05:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717814778_ss_463f77315e59904310e8b5e4657641a9fd545f65_medium.jpg" /></div>Nightdive Studios has announced plans to release The Thing: Remastered, a graphical update to the 2002 sci-fi horror action game that&#039;s based on the  1982 classic John Carpenter movie. <a href="https://www.neowin.net/news/the-thing-remastered-game-is-coming-to-bring-back-some-scary-sci-fi-action-via-nightdive/">Read more...</a>
+
+## Samsung to upgrade the Galaxy S24's Instant Slow-Mo feature with HDR10+
+ - [https://www.neowin.net/news/samsung-to-upgrade-the-galaxy-s24s-instant-slow-mo-feature-with-hdr10](https://www.neowin.net/news/samsung-to-upgrade-the-galaxy-s24s-instant-slow-mo-feature-with-hdr10)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T04:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717819629_galaxy-s24-instant-slow-mo_medium.jpg" /></div>Samsung Galaxy S24&#039;s Instant Slow-Mo feature will soon pick up an upgrade that will add support for HDR10+, making it easier to slow down an HDR video without losing its dynamic range. <a href="https://www.neowin.net/news/samsung-to-upgrade-the-galaxy-s24s-instant-slow-mo-feature-with-hdr10/">Read more...</a>
+
+## Riot's competitive shooter Valorant is coming to Xbox Series X|S and PS5, beta next week
+ - [https://www.neowin.net/news/riots-competitive-shooter-valorant-is-coming-to-xbox-series-xs-and-ps5-beta-next-week](https://www.neowin.net/news/riots-competitive-shooter-valorant-is-coming-to-xbox-series-xs-and-ps5-beta-next-week)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-08T00:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/06/1717804752_hero-image_xbox_wire_keyart_viper_1920x1080-ffb2ff46a935fd34b68e-768x432_medium.jpg" /></div>Riot is finally bringing its 5v5 competitive shooter Valorant to consoles, with crossplay between Xbox and PS5. A closed beta for this version is kicking off in June, and registrations are now open. <a href="https://www.neowin.net/news/riots-competitive-shooter-valorant-is-coming-to-xbox-series-xs-and-ps5-beta-next-week/">Read more...</a>
+

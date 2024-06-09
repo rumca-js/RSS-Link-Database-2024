@@ -1,0 +1,723 @@
+# Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## Last month was India’s hottest May in 36 years: IMD
+ - [https://timesofindia.indiatimes.com/india/last-month-was-indias-hottest-may-in-36-years-imd/articleshow/110827479.cms](https://timesofindia.indiatimes.com/india/last-month-was-indias-hottest-may-in-36-years-imd/articleshow/110827479.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T22:43:20+00:00
+
+India experienced its hottest May in 36 years during the 18th Lok Sabha elections, with record-breaking temperatures reported by IMD. The high temperatures influenced voter turnout, especially in the north, as per meteorological and political analyses.
+
+## Coca-Cola uncorks plan for Rs 700 crore 3rd plant in Telangana
+ - [https://timesofindia.indiatimes.com/business/india-business/coca-cola-uncorks-plan-for-rs-700-crore-3rd-plant-in-telangana/articleshow/110827504.cms](https://timesofindia.indiatimes.com/business/india-business/coca-cola-uncorks-plan-for-rs-700-crore-3rd-plant-in-telangana/articleshow/110827504.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T22:35:23+00:00
+
+
+
+## Inequality declined between 2011-12 & 2022-23: Govt data
+ - [https://timesofindia.indiatimes.com/india/inequality-declined-between-2011-12-2022-23-government-data/articleshow/110826780.cms](https://timesofindia.indiatimes.com/india/inequality-declined-between-2011-12-2022-23-government-data/articleshow/110826780.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T22:29:17+00:00
+
+Inequality reduced in urban and rural India from 2011-12 to 2022-23, as shown by the Household Consumption Expenditure survey. The Gini coefficient declined, indicating decreased income inequality. Views from Soumya Kanti Ghosh, State Bank of India, and insights on Chhattisgarh provide further context.
+
+## Kerala tops in share of spend on non-veg in food products: Survey
+ - [https://timesofindia.indiatimes.com/india/kerala-tops-in-share-of-spend-on-non-veg-in-food-products-survey/articleshow/110826987.cms](https://timesofindia.indiatimes.com/india/kerala-tops-in-share-of-spend-on-non-veg-in-food-products-survey/articleshow/110826987.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T22:21:15+00:00
+
+Milk and milk products comprised a larger portion of total consumption in rural regions of Gujarat, Haryana, Madhya Pradesh, Punjab, Rajasthan, and Uttar Pradesh. Conversely, households in Kerala favored eggs, meat, and fish. The latest Household Consumption Expenditure survey from the National Sample Survey Office (NSSO), released on Friday, also revealed that in other states, beverages, processed foods, and miscellaneous items held the greatest share in rural areas.
+
+## Beijing wishes Modi, India sends reminder of ‘3 mutuals’
+ - [https://timesofindia.indiatimes.com/india/beijing-wishes-modi-for-his-third-term-india-sends-reminder-of-3-mutuals/articleshow/110826784.cms](https://timesofindia.indiatimes.com/india/beijing-wishes-modi-for-his-third-term-india-sends-reminder-of-3-mutuals/articleshow/110826784.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T22:12:36+00:00
+
+Recognizing China's congratulatory message to Prime Minister-designate Narendra Modi for his third term, India reiterated the importance of the three mutuals - mutual respect, mutual sensitivity, and mutual interest - which have been consistently emphasized to restore bilateral relations to normalcy. Though a message from President Xi Jinping is anticipated, the Chinese foreign ministry and newly appointed Ambassador Xu Feihong have already extended their congratulations.
+
+## Police outposts, houses torched in previously calm Manipur district
+ - [https://timesofindia.indiatimes.com/india/police-outposts-houses-torched-in-previously-calm-manipur-district/articleshow/110826759.cms](https://timesofindia.indiatimes.com/india/police-outposts-houses-torched-in-previously-calm-manipur-district/articleshow/110826759.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T22:04:49+00:00
+
+Unidentified gunmen torched govt offices, police outposts, and houses in Manipur's Jiribam district, escalating ethnic strife and sectarian conflict in the already tense region.
+
+## 47 Manipur kids find new home & hope in Kerala
+ - [https://timesofindia.indiatimes.com/india/47-manipur-kids-find-new-home-hope-in-kerala/articleshow/110826743.cms](https://timesofindia.indiatimes.com/india/47-manipur-kids-find-new-home-hope-in-kerala/articleshow/110826743.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T21:54:46+00:00
+
+14-year-old ZamngIchan Chandini, a victim of Manipur violence, now attends St Thomas Higher Secondary School in Kerala along with 46 other students affected by the conflict.
+
+## BJP will keep plum portfolios, asks allies to pare down hopes
+ - [https://timesofindia.indiatimes.com/india/new-government-formation-pm-modi-oath-bjp-will-keep-plum-portfolios-asks-allies-to-pare-down-hopes/articleshow/110826737.cms](https://timesofindia.indiatimes.com/india/new-government-formation-pm-modi-oath-bjp-will-keep-plum-portfolios-asks-allies-to-pare-down-hopes/articleshow/110826737.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T21:46:56+00:00
+
+As the buzz about allies seeking more berths and high-profile portfolios in Modi 3.0 continued, BJP leadership urged NDA partners to reduce their demands to reasonable limits, promising to consider unmet desires later. Key ministries like home, defense, finance, and external affairs are off-limits. BJP is also likely to retain education, parliamentary affairs, culture, and I&amp;B, ensuring the Speaker is from its ranks.
+
+## Got back gold as overseas quantum rose, had storage capacity here: RBI
+ - [https://timesofindia.indiatimes.com/business/india-business/got-back-gold-as-overseas-quantum-rose-had-storage-capacity-here-rbi/articleshow/110826620.cms](https://timesofindia.indiatimes.com/business/india-business/got-back-gold-as-overseas-quantum-rose-had-storage-capacity-here-rbi/articleshow/110826620.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T21:40:44+00:00
+
+RBI governor Das explained the decision to bring in 100 tonnes of gold due to increased gold holdings outside India from RBI's purchases.
+
+## Pandian criticism for BJD defeat unfortunate: Patnaik
+ - [https://timesofindia.indiatimes.com/india/pandian-criticism-for-bjd-defeat-unfortunate-naveen-patnaik/articleshow/110826678.cms](https://timesofindia.indiatimes.com/india/pandian-criticism-for-bjd-defeat-unfortunate-naveen-patnaik/articleshow/110826678.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T21:34:06+00:00
+
+Caretaker Chief Minister Naveen Patnaik defended his close aide VK Pandian on Saturday, responding to criticism aimed at BJD's chief election strategist following the party's recent electoral defeat. Naveen expressed his disappointment, calling the criticism of Pandian regrettable. For the first time since its formation, the BJD experienced defeat, securing only 51 out of 147 assembly seats and failing to win any of the 21 Lok Sabha seats in the state.
+
+## Sofia Firdous is Odisha’s first Muslim woman MLA
+ - [https://timesofindia.indiatimes.com/india/iim-passout-sofia-firdous-32-is-odishas-first-muslim-woman-mla/articleshow/110826617.cms](https://timesofindia.indiatimes.com/india/iim-passout-sofia-firdous-32-is-odishas-first-muslim-woman-mla/articleshow/110826617.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T21:26:25+00:00
+
+
+
+## Sub-Lt Anamika Rajeev is Navy’s first woman helicopter pilot
+ - [https://timesofindia.indiatimes.com/india/sub-lt-anamika-rajeev-is-navys-first-woman-helicopter-pilot/articleshow/110826587.cms](https://timesofindia.indiatimes.com/india/sub-lt-anamika-rajeev-is-navys-first-woman-helicopter-pilot/articleshow/110826587.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T21:22:42+00:00
+
+Indian Navy inducts women as helicopter pilots, with Sub-Lt Anamika B Rajeev and Lt Jamyang Tsewang receiving 'golden wings' at INS Rajali, Tamil Nadu.
+
+## T20 WC: Warner, Zampa lead Australia to big win over England
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-david-warner-adam-zampa-lead-australia-to-big-win-over-england/articleshow/110826554.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-david-warner-adam-zampa-lead-australia-to-big-win-over-england/articleshow/110826554.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T21:09:25+00:00
+
+Australia crushed England by 36 runs in Barbados on Saturday to leave the defending champions' T20 World Cup hopes in the balance. Put in to bat, Australia smashed 201-7 off their 20 overs. England could only muster 165-6 in reply, remaining winless after two matches.
+
+## Bus overturns as driver dozes off, 3 pilgrims killed
+ - [https://timesofindia.indiatimes.com/city/agra/bus-overturns-as-driver-dozes-off-3-pilgrims-killed/articleshow/110826568.cms](https://timesofindia.indiatimes.com/city/agra/bus-overturns-as-driver-dozes-off-3-pilgrims-killed/articleshow/110826568.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T21:08:37+00:00
+
+Two women and a child died, 46 injured as bus from Vaishno Devi overturns on Agra-Lucknow expressway in Firozabad at 3am on Saturday.
+
+## Did INDIA bloc offer PM post to Nitish? What JD(U), oppn said
+ - [https://timesofindia.indiatimes.com/india/india-bloc-offered-nitish-pm-post-jdus-tyagi-opposition-rubbishes-claim/articleshow/110826570.cms](https://timesofindia.indiatimes.com/india/india-bloc-offered-nitish-pm-post-jdus-tyagi-opposition-rubbishes-claim/articleshow/110826570.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T21:06:38+00:00
+
+Senior JD(U) functionary KC Tyagi claimed on Saturday that the opposition INDIA bloc had offered Bihar chief minister Nitish Kumar the prime ministership if he joined their alliance. However, politicians from the INDIA bloc dismissed the claim. Meanwhile, the RJD alleged that this was a JD(U) tactic aimed at securing more leverage with the BJP on the eve of Narendra Modi's swearing-in as Prime Minister.
+
+## We never thought it would happen to us: Lynched men’s kin
+ - [https://timesofindia.indiatimes.com/city/lucknow/we-never-thought-it-would-happen-to-us-lynched-mens-kin/articleshow/110826551.cms](https://timesofindia.indiatimes.com/city/lucknow/we-never-thought-it-would-happen-to-us-lynched-mens-kin/articleshow/110826551.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T20:59:03+00:00
+
+Two labourers were lynched in Chhattisgarh while transporting cattle. Guddu Qureshi's wife, Azma Qureshi, is in shock. Locals express grief and anger over the incident in Saharanpur and Shamli.
+
+## Won’t run away, I’m a fighter: Fadnavis on Maha poll jolt
+ - [https://timesofindia.indiatimes.com/india/wont-run-away-im-a-fighter-devendra-fadnavis-on-maharashtra-poll-jolt/articleshow/110826553.cms](https://timesofindia.indiatimes.com/india/wont-run-away-im-a-fighter-devendra-fadnavis-on-maharashtra-poll-jolt/articleshow/110826553.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T20:56:47+00:00
+
+Deputy chief minister Devendra Fadnavis asserted on Saturday that he is a fighter who takes responsibility when things go wrong, acknowledging that the BJP miscalculated its political strategy in the Lok Sabha election in the state. "I am not one to run away; I am the one who fights," he declared during a BJP meeting at its Dadar office, where MLAs gathered to discuss the factors behind the party's poor performance.
+
+## 2 UBT MPs contacted Sena, wished to back PM: Mhaske
+ - [https://timesofindia.indiatimes.com/india/2-sena-ubt-mps-contacted-cm-said-theyll-rope-in-4-more-to-back-modi-claims-shiv-sena-mp-naresh-mhaske/articleshow/110826535.cms](https://timesofindia.indiatimes.com/india/2-sena-ubt-mps-contacted-cm-said-theyll-rope-in-4-more-to-back-modi-claims-shiv-sena-mp-naresh-mhaske/articleshow/110826535.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T20:49:59+00:00
+
+
+
+## WW2 hero’s great-grandson is now fourth-generation officer
+ - [https://timesofindia.indiatimes.com/city/dehradun/ww2-heros-great-grandson-is-now-fourth-generation-officer/articleshow/110826509.cms](https://timesofindia.indiatimes.com/city/dehradun/ww2-heros-great-grandson-is-now-fourth-generation-officer/articleshow/110826509.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T20:48:55+00:00
+
+Dhruv Dahiya, a fourth-generation officer from Bengaluru, passed out from Indian Military Academy. Originally from Haryana, his family has a rich military legacy spanning generations.
+
+## Rohit eyeing ministry in state, may join BJP, says NCP MLA
+ - [https://timesofindia.indiatimes.com/india/rohit-pawar-eyeing-ministry-in-state-may-join-bjp-says-ncp-mla-prakash-solanke/articleshow/110826507.cms](https://timesofindia.indiatimes.com/india/rohit-pawar-eyeing-ministry-in-state-may-join-bjp-says-ncp-mla-prakash-solanke/articleshow/110826507.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T20:40:42+00:00
+
+
+
+## Review guarantees as people voted BJP: Cong spokesperson to CM
+ - [https://timesofindia.indiatimes.com/india/review-guarantees-as-people-voted-bjp-congress-spokesperson-to-karnataka-cm/articleshow/110826461.cms](https://timesofindia.indiatimes.com/india/review-guarantees-as-people-voted-bjp-congress-spokesperson-to-karnataka-cm/articleshow/110826461.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T20:29:24+00:00
+
+
+
+## Oppn parties to take call on attending Modi oath-taking ceremony
+ - [https://timesofindia.indiatimes.com/india/opposition-parties-to-take-call-on-attending-modi-oath-taking-ceremony/articleshow/110826428.cms](https://timesofindia.indiatimes.com/india/opposition-parties-to-take-call-on-attending-modi-oath-taking-ceremony/articleshow/110826428.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T20:18:28+00:00
+
+
+
+## Bajaj Housing Finance submits draft to Sebi for 7,000-crore IPO
+ - [https://timesofindia.indiatimes.com/business/india-business/bajaj-housing-finance-submits-draft-to-sebi-for-7000-crore-ipo/articleshow/110826408.cms](https://timesofindia.indiatimes.com/business/india-business/bajaj-housing-finance-submits-draft-to-sebi-for-7000-crore-ipo/articleshow/110826408.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T20:14:16+00:00
+
+Bajaj Housing Finance has submitted a draft of the red herring prospectus to Sebi for an IPO of Rs 7,000 crore, the largest since LIC's offering in May 2022.
+
+## CWC praises Kharge, Gandhis for poll efforts
+ - [https://timesofindia.indiatimes.com/india/lok-sabha-elections-cwc-praises-kharge-gandhis-for-poll-efforts/articleshow/110826405.cms](https://timesofindia.indiatimes.com/india/lok-sabha-elections-cwc-praises-kharge-gandhis-for-poll-efforts/articleshow/110826405.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T20:10:16+00:00
+
+In a resolution, the Congress Working Committee (CWC) commended the efforts of party leaders Mallikarjun Kharge, Rahul Gandhi, Sonia Gandhi, and Priyanka Gandhi Vadra in the recently concluded Parliamentary elections. When asked whether Rahul Gandhi will retain Rae Bareli or Amethi, AICC General Secretary K C Venugopal stated that the decision will be announced within four days.
+
+## Illegal cottages in club owned by Porsche teen’s family razed
+ - [https://timesofindia.indiatimes.com/india/illegal-cottages-in-club-owned-by-porsche-teens-family-razed/articleshow/110826336.cms](https://timesofindia.indiatimes.com/india/illegal-cottages-in-club-owned-by-porsche-teens-family-razed/articleshow/110826336.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T20:04:57+00:00
+
+Satara district administration demolished eight illegal cottages in a Mahabaleshwar club owned by family of teen in Porsche crash. Club run by trust members on residential land used for commercial purposes.
+
+## CWC urges Rahul to take over as LoP; will consider, says MP
+ - [https://timesofindia.indiatimes.com/india/cwc-urges-rahul-gandhi-to-take-over-as-leader-of-opposition-will-consider-says-mp/articleshow/110826365.cms](https://timesofindia.indiatimes.com/india/cwc-urges-rahul-gandhi-to-take-over-as-leader-of-opposition-will-consider-says-mp/articleshow/110826365.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T19:58:31+00:00
+
+CWC led by President Mallikarjun Kharge, asserted on Saturday that the party is "firmly on the path of revival." In a unanimous call, the CWC demanded that Rahul Gandhi assume the role of Leader of the Opposition (LOP) in the Lok Sabha to advance the fight for welfare and democracy within Parliament. The CWC also passed a resolution urging Rahul to take on the LOP role, to which he responded that he would consider the demand.
+
+## 2 cops among 4 govt staffers sacked in Ja&K for terror links
+ - [https://timesofindia.indiatimes.com/india/2-cops-among-4-government-staffers-sacked-in-jammu-and-kashmir-for-terror-links/articleshow/110826304.cms](https://timesofindia.indiatimes.com/india/2-cops-among-4-government-staffers-sacked-in-jammu-and-kashmir-for-terror-links/articleshow/110826304.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T19:48:42+00:00
+
+Jammu and Kashmir's administration sacked four employees over alleged terror links, including supply of ammunition to terrorists. The dismissals were ordered under Article 311(2) (c) by J&amp;K LG Manoj Sinha after a background check by J&amp;K CID.
+
+## Vande Bharat loco pilot gets invite to Modi's swearing-in
+ - [https://timesofindia.indiatimes.com/india/vande-bharat-loco-pilot-gets-invite-to-modis-swearing-in/articleshow/110826316.cms](https://timesofindia.indiatimes.com/india/vande-bharat-loco-pilot-gets-invite-to-modis-swearing-in/articleshow/110826316.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T19:47:48+00:00
+
+
+
+## Modi to make day-long visit to Italy for G7 on June 14
+ - [https://timesofindia.indiatimes.com/india/modi-to-make-day-long-visit-to-italy-for-g7-on-june-14/articleshow/110826289.cms](https://timesofindia.indiatimes.com/india/modi-to-make-day-long-visit-to-italy-for-g7-on-june-14/articleshow/110826289.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T19:38:58+00:00
+
+Days after his swearing-in, Narendra Modi will embark on a one-day visit to Italy to attend the G7 summit on June 14. As Modi is not expected to participate in the Ukraine peace summit hosted by Switzerland immediately following the G7, he is anticipated to return the next day, just in time for the Parliament session starting in mid-June.
+
+## Pakistan don't need extra motivation vs India: Kirsten
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-dont-need-extra-motivation-against-india-gary-kirsten/articleshow/110826108.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-dont-need-extra-motivation-against-india-gary-kirsten/articleshow/110826108.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T19:02:16+00:00
+
+Coming off an embarrassing loss to co-hosts USA, Pakistan head coach Gary Kirsten said Babar Azam's side won't require any extra motivation while facing arch-rivals India in the T20 World Cup in New York on Sunday.
+
+## Two members of Ahmadi community shot dead
+ - [https://timesofindia.indiatimes.com/world/pakistan/two-members-of-ahmadi-community-shot-dead/articleshow/110826007.cms](https://timesofindia.indiatimes.com/world/pakistan/two-members-of-ahmadi-community-shot-dead/articleshow/110826007.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T18:46:41+00:00
+
+Two members of the Ahmadi community were shot dead in Pakistan's Punjab province, sparking fear and outrage among the minority group. The incident occurred in Sadullapur area of Mandi Bahauddin district. Following the incident, a large police force was deployed in the area.
+
+## T20 WC: Miller powers SA to four-wicket win
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-david-miller-powers-south-africa-to-four-wicket-win-over-netherlands-in-new-york/articleshow/110825731.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-david-miller-powers-south-africa-to-four-wicket-win-over-netherlands-in-new-york/articleshow/110825731.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T18:15:28+00:00
+
+South Africa overcame an early scare before David Miller guided them to a tense four-wicket victory over the Netherlands in the Twenty20 World Cup in Long Island, New York, on Saturday. Miller remained unbeaten with a crucial 59 off 51 balls, steering South Africa to 106 for six in 18.5 overs in response to the Dutch total of 103 for nine. This win marked South Africa's second consecutive victory in Group D, while it was the first loss for the Netherlands, who previously triumphed over Nepal in Dallas.
+
+## 4-member panel to review NEET-UG results of 1563 candidates
+ - [https://timesofindia.indiatimes.com/india/4-member-panel-to-review-neet-ug-results-of-1563-candidate/articleshow/110825527.cms](https://timesofindia.indiatimes.com/india/4-member-panel-to-review-neet-ug-results-of-1563-candidate/articleshow/110825527.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T17:50:46+00:00
+
+
+
+## PM's oath-taking event: Timing, guest list and other key details
+ - [https://timesofindia.indiatimes.com/india/narendra-modi-set-to-take-oath-as-prime-minister-for-historic-third-term/articleshow/110825148.cms](https://timesofindia.indiatimes.com/india/narendra-modi-set-to-take-oath-as-prime-minister-for-historic-third-term/articleshow/110825148.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T17:11:43+00:00
+
+Narendra Modi will take oath as India's Prime Minister on Sunday for the third time at the Rashtrapati Bhawan. The oath-taking ceremony of Modi and his cabinet will be held in the presence of a large gathering of national and international dignitaries.
+
+## 'Suspicious' plunge from MSC Cruise ship claims man's life
+ - [https://timesofindia.indiatimes.com/world/europe/suspicious-plunge-from-msc-cruise-ship-claims-mans-life-in-norways-deepest-fjord/articleshow/110824999.cms](https://timesofindia.indiatimes.com/world/europe/suspicious-plunge-from-msc-cruise-ship-claims-mans-life-in-norways-deepest-fjord/articleshow/110824999.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T16:58:53+00:00
+
+A man in his late 50s fell overboard from the MSC Euribia cruise ship in Norway's Sognefjord. His body was found, and authorities are investigating the incident as a 'suspicious death.' The cruise ship continues its journey, and this is the seventh such incident on an MSC cruise ship in less than seven months.
+
+## INDIA not staking claim today doesn’t mean it can’t do so tomorrow: Mamata
+ - [https://timesofindia.indiatimes.com/india/india-not-staking-claim-today-doesnt-mean-it-cant-do-so-tomorrow-mamata/articleshow/110824970.cms](https://timesofindia.indiatimes.com/india/india-not-staking-claim-today-doesnt-mean-it-cant-do-so-tomorrow-mamata/articleshow/110824970.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T16:47:23+00:00
+
+West Bengal CM Mamata Banerjee  said that the INDIA bloc’s decision not to stake any claim to form the govt today does not mean that it is not going to stake claim tomorrow, adding that TDP’s Chandrababu Naidu and JD(U)’s Nitish Kumar “are also our friends”.  Banerjee, who met Trinamool’s 29 new MPs at her Kalighat residence on Saturday, also took a swipe at BJP and Narendra Modi, saying the NDA govt might not last even “15 days”.
+
+## When will TDP chief Naidu take oath as Andhra Pradesh CM?
+ - [https://timesofindia.indiatimes.com/india/n-chandrababu-naidu-to-take-oath-as-andhra-pradesh-cm-on-june-12-at-9-27am/articleshow/110824796.cms](https://timesofindia.indiatimes.com/india/n-chandrababu-naidu-to-take-oath-as-andhra-pradesh-cm-on-june-12-at-9-27am/articleshow/110824796.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T16:37:49+00:00
+
+
+
+## Coca Cola uncorks plans for investing Rs 700 crore in Telangana
+ - [https://timesofindia.indiatimes.com/business/india-business/coca-cola-uncorks-plans-for-investing-rs-700-crore-in-third-greenfield-plant-in-telangana/articleshow/110824783.cms](https://timesofindia.indiatimes.com/business/india-business/coca-cola-uncorks-plans-for-investing-rs-700-crore-in-third-greenfield-plant-in-telangana/articleshow/110824783.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T16:26:32+00:00
+
+
+
+## 'Neither opposition, nor pitch, what holds...': Rohit
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/neither-opposition-nor-pitch-what-holds-the-key-is-rohit-sharma-ahead-of-t20-world-cup-match-against-pakistan/articleshow/110824554.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/neither-opposition-nor-pitch-what-holds-the-key-is-rohit-sharma-ahead-of-t20-world-cup-match-against-pakistan/articleshow/110824554.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T16:05:10+00:00
+
+India captain Rohit Sharma emphasized that playing good cricket remains paramount as they prepare to face Pakistan in the upcoming T20 World Cup match in New York on Sunday.
+
+## Seven MPs in 18th Lok Sabha from one district – Etawah
+ - [https://timesofindia.indiatimes.com/city/kanpur/seven-mps-in-18th-lok-sabha-from-one-district-etawah/articleshow/110824368.cms](https://timesofindia.indiatimes.com/city/kanpur/seven-mps-in-18th-lok-sabha-from-one-district-etawah/articleshow/110824368.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T15:54:21+00:00
+
+Etawah district in India stands out in the 2024 general elections with seven MPs securing seats in the 18th Lok Sabha, including prominent members of the Yadav clan from the Samajwadi Party. The district has a rich political history and significance dating back to important alliances and historical events, with notable MPs representing the region.
+
+## What Tharoor said he will watch instead of PM's swearing-in event
+ - [https://timesofindia.indiatimes.com/india/will-watch-india-pakistan-match-instead-of-narendra-modis-swearing-in-ceremony-shashi-tharoor/articleshow/110824402.cms](https://timesofindia.indiatimes.com/india/will-watch-india-pakistan-match-instead-of-narendra-modis-swearing-in-ceremony-shashi-tharoor/articleshow/110824402.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T15:50:16+00:00
+
+Shashi Tharoor on Saturday took a jibe at Narendra Modi's swearing-in ceremony after the BJP failed to secure a clear majority in the recently concluded Lok Sabha polls. Tharoor stated that he would watch the India-Pakistan match instead of attending the ceremony, as he had not been invited. "I have not been invited to the swearing-in, so I'll be watching the (India vs Pakistan) match," Tharoor said.
+
+## After UP debacle, will state’s share in Union Cabinet go down?
+ - [https://timesofindia.indiatimes.com/india/after-up-debacle-will-states-share-in-union-cabinet-go-down/articleshow/110824094.cms](https://timesofindia.indiatimes.com/india/after-up-debacle-will-states-share-in-union-cabinet-go-down/articleshow/110824094.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T15:22:00+00:00
+
+
+
+## Did INDIA bloc offer PM post to Nitish? What JD(U), oppn said
+ - [https://timesofindia.indiatimes.com/india/did-india-bloc-offer-pm-post-to-nitish-kumar-what-his-party-and-opposition-alliance-said/articleshow/110823818.cms](https://timesofindia.indiatimes.com/india/did-india-bloc-offer-pm-post-to-nitish-kumar-what-his-party-and-opposition-alliance-said/articleshow/110823818.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T14:53:23+00:00
+
+A day before the swearing-in ceremony of Prime Minister Narendra Modi, Janata Dal (United) leader KC Tyagi claimed that the opposition INDIA bloc had offered the PM post to Bihar chief minister Nitish Kumar, to woo him to join the alliance and not support the NDA. "After the elections, those leaders of INDI alliance who did not want Nitish Kumar to become the convenor offered him the post of Prime Minister. We have phone records attesting to this,” he claimed.
+
+## India are in the driver's seat vs Pak: Gayle
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/you-can-take-nothing-for-granted-chris-gayle-on-india-vs-pakistan-t20-world-cup-clash/articleshow/110823608.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/you-can-take-nothing-for-granted-chris-gayle-on-india-vs-pakistan-t20-world-cup-clash/articleshow/110823608.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T14:45:12+00:00
+
+Legendary West Indian cricketer Chris Gayle has labeled India as the favorites ahead of their highly anticipated T20 World Cup match against Pakistan on Sunday.
+
+## Kangana 'slap' case: CISF cop to get gold ring with Periyar's image
+ - [https://timesofindia.indiatimes.com/city/coimbatore/cisf-cop-who-slapped-kangana-ranaut-to-get-gold-ring-engraved-with-periyars-image/articleshow/110823388.cms](https://timesofindia.indiatimes.com/city/coimbatore/cisf-cop-who-slapped-kangana-ranaut-to-get-gold-ring-engraved-with-periyars-image/articleshow/110823388.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T14:25:26+00:00
+
+
+
+## Swiatek clinches third straight French Open title
+ - [https://timesofindia.indiatimes.com/sports/tennis/french-open/world-no-1-iga-swiatek-beats-jasmine-paolini-to-clinch-third-consecutive-french-open-title/articleshow/110823260.cms](https://timesofindia.indiatimes.com/sports/tennis/french-open/world-no-1-iga-swiatek-beats-jasmine-paolini-to-clinch-third-consecutive-french-open-title/articleshow/110823260.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T14:23:20+00:00
+
+Top-seeded Iga Swiatek on Saturday clinched her third consecutive French Open title in Paris. Polish Swiatek beat Jasmine Paolini 6-2, 6-1 at Court Philippe Chatrier to grab her fourth Roland Garros title. With the lop-sided win Polish Swiatek also claimed her fifth Grand Slam title.
+
+## Kumaraswamy, 2 BJP MPs from K'taka may join PM's cabinet
+ - [https://timesofindia.indiatimes.com/india/kumaraswamy-two-bjp-mps-from-karnataka-expected-to-join-pm-modis-cabinet/articleshow/110823228.cms](https://timesofindia.indiatimes.com/india/kumaraswamy-two-bjp-mps-from-karnataka-expected-to-join-pm-modis-cabinet/articleshow/110823228.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T14:20:31+00:00
+
+Former CM H D Kumaraswamy to join PM Narendra Modi's cabinet. Modi will be sworn in as Prime Minister for the third consecutive term. "In addition to Kumaraswamy, a few MPs from BJP will take the oath tomorrow," said JDS MLC T A Sharavana, who is currently in Delhi with several JDS legislators.
+
+## Netflix has been sued by a woman for $170 million over this hit series
+ - [https://timesofindia.indiatimes.com/technology/tech-news/netflix-has-been-sued-by-a-woman-for-170-million-over-this-hit-series/articleshow/110823137.cms](https://timesofindia.indiatimes.com/technology/tech-news/netflix-has-been-sued-by-a-woman-for-170-million-over-this-hit-series/articleshow/110823137.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T14:03:53+00:00
+
+Fiona Harvey files a $170 million lawsuit against Netflix for defamation in 'Baby Reindeer,' claiming her reputation was destroyed. The show depicts Gadd being stalked by Martha Scott, allegedly inspired by Harvey's real-life experience.
+
+## 'Shun VIP culture': Yogi Adityanath to his ministers after Lok Sabha setback
+ - [https://timesofindia.indiatimes.com/india/shun-vip-culture-up-cm-yogi-adityanath-to-ministers-after-lok-sabha-setback/articleshow/110823004.cms](https://timesofindia.indiatimes.com/india/shun-vip-culture-up-cm-yogi-adityanath-to-ministers-after-lok-sabha-setback/articleshow/110823004.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T13:54:41+00:00
+
+After poor BJP show in Uttar Pradesh, chief minister Yogi Adityanath held a meeting of the council of ministers on Saturday and asked them to shun VIP culture and prioritise the needs of the people. He emphasised the importance of engaging with the public, particularly those at the lowest strata of society, and resolving their issues through effective communication, coordination, and sensitivity. "All of us will have to be alert and cautious so that none of our activities reflect the VIP culture," he said.
+
+## PM Modi likely to visit Kashi after being sworn-in for 3rd time
+ - [https://timesofindia.indiatimes.com/india/modi-likely-to-visit-kashi-after-being-sworn-in-as-pm-for-3rd-time/articleshow/110822903.cms](https://timesofindia.indiatimes.com/india/modi-likely-to-visit-kashi-after-being-sworn-in-as-pm-for-3rd-time/articleshow/110822903.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T13:52:00+00:00
+
+
+
+## 'Modi suffered moral defeat, has lost right to leadership': Sonia Gandhi
+ - [https://timesofindia.indiatimes.com/india/rahul-deserves-special-thanks-sonia-gandhi-after-being-elected-as-congress-parliamentary-party-chief/articleshow/110822579.cms](https://timesofindia.indiatimes.com/india/rahul-deserves-special-thanks-sonia-gandhi-after-being-elected-as-congress-parliamentary-party-chief/articleshow/110822579.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T13:42:15+00:00
+
+
+
+## 'Kohli will have to...': Kaif's strike-rate advice for Virat
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/kohli-will-have-to-kaifs-strike-rate-advice-for-virat-ahead-of-pakistan-clash/articleshow/110822444.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/kohli-will-have-to-kaifs-strike-rate-advice-for-virat-ahead-of-pakistan-clash/articleshow/110822444.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T13:24:32+00:00
+
+Former Indian cricketer Mohammed Kaif said that star batter Virat Kohli will have to tone down his strike rate during the high-octane ICC T20 World Cup clash against Pakistan taking place in New York on Sunday.
+
+## 'Not someone who runs away': Fadnavis makes U-turn, not resigning
+ - [https://timesofindia.indiatimes.com/india/not-someone-who-runs-away-in-a-u-turn-now-fadnavis-says-not-resigning-from-post/articleshow/110822096.cms](https://timesofindia.indiatimes.com/india/not-someone-who-runs-away-in-a-u-turn-now-fadnavis-says-not-resigning-from-post/articleshow/110822096.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T13:05:10+00:00
+
+In a U-turn, Devendra Fadnavis, the deputy chief minister of Maharashtra, on Saturday announced his decision not to quit the post despite the BJP's lackluster performance in the recent Lok Sabha elections in the state. Fadnavis clarified that his offer to resign was not driven by emotions or disappointment over the electoral setback, stating, "I am not someone who runs away. I fight back....When cornered on all sides, we can rise again with force...this is what we learn from Chhatrapati Shivaji Maharaj."
+
+## Watch: Flames shoot out from Boeing jet moments after take-off
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/on-camera-flames-shoot-from-air-canada-boeing-jet-moments-after-take-off/articleshow/110821805.cms](https://timesofindia.indiatimes.com/world/rest-of-world/on-camera-flames-shoot-from-air-canada-boeing-jet-moments-after-take-off/articleshow/110821805.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T12:44:40+00:00
+
+An Air Canada Boeing 737 Max aircraft made an emergency landing shortly after take-off after experiencing an engine issue after departing from Los Angeles International Airport. The plane, carrying 389 passengers and 13 crew, was en route to Vancouver when the incident occurred on June 5. Terrifying video showed flames shooting from the jet as it took off, forcing it to abruptly turn around for an emergency landing.
+
+## 'Let's see how long this NDA government lasts': Mamata after TMC meet
+ - [https://timesofindia.indiatimes.com/india/mamata-banerjee-elected-as-tmc-parliamentary-party-chairperson/articleshow/110821611.cms](https://timesofindia.indiatimes.com/india/mamata-banerjee-elected-as-tmc-parliamentary-party-chairperson/articleshow/110821611.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T12:29:54+00:00
+
+Mamata Banerjee has been elected as All India Trinamool Congress Parliamentary Party Chairperson with Sudip Bandyopadhyay leading in Lok Sabha and Derek O'Brien in Rajya Sabha. Dr. Kakoli Ghosh Dastidar serves as Deputy Leader, Kalyan Banerjee as Chief Whip, Sagarika Ghose as Deputy Leader, and Nadimul Haque as Chief Whip.
+
+## Pak allrounder's bold take on Virat, Bumrah
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-allrounders-bold-take-on-virat-kohli-and-jasprit-bumrah-ahead-of-india-vs-pakistan-clash/articleshow/110821374.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-allrounders-bold-take-on-virat-kohli-and-jasprit-bumrah-ahead-of-india-vs-pakistan-clash/articleshow/110821374.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T12:24:21+00:00
+
+Pakistan's all-rounder Fawad Alam highlighted the importance of neutralizing the influence of Indian stars Virat Kohli and Jasprit Bumrah in their upcoming high-stakes T20 World Cup clash on Sunday. A win against their rivals is essential for Babar Azam's team to regain momentum in the tournament. Alam said Mohammad Amir will have to come up with a match-turning effort against India, similar to his burst against them in the Champions Trophy final 2017.
+
+## Hoarding collapse case: SIT arrests 2 from hotel room in Goa
+ - [https://timesofindia.indiatimes.com/india/hoarding-collapse-case-ex-director-of-ego-media-civil-contractor-held-from-hotel-room-in-goa/articleshow/110821071.cms](https://timesofindia.indiatimes.com/india/hoarding-collapse-case-ex-director-of-ego-media-civil-contractor-held-from-hotel-room-in-goa/articleshow/110821071.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T11:56:59+00:00
+
+
+
+## What went wrong for Congress in MP's Chhindwara
+ - [https://timesofindia.indiatimes.com/india/bjps-clean-sweep-in-madhya-pradesh-what-went-wrong-for-congress-in-chhindwara-is-this-the-end-of-the-road-for-kamalnath/articleshow/110817230.cms](https://timesofindia.indiatimes.com/india/bjps-clean-sweep-in-madhya-pradesh-what-went-wrong-for-congress-in-chhindwara-is-this-the-end-of-the-road-for-kamalnath/articleshow/110817230.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T11:32:05+00:00
+
+Former Madhya Pradesh Chief Minister Kamal Nath faces challenges after electoral defeats of himself and his son Nakul Nath, diminishing his political stature in the state and weakening his control over the Congress party.
+
+## Why Kate Middleton apologised to the Irish Guards regiment
+ - [https://timesofindia.indiatimes.com/world/uk/britains-kate-apologises-for-missing-parade-hopes-to-be-back-very-soon/articleshow/110819387.cms](https://timesofindia.indiatimes.com/world/uk/britains-kate-apologises-for-missing-parade-hopes-to-be-back-very-soon/articleshow/110819387.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T10:42:22+00:00
+
+Princess of Wales Kate apologises for missing military parade due to cancer treatment on social media platform X, adding that she hoped to be back very soon. Prince William updates on her condition before monarch's parade. Kate is colonel of the Irish Guards, who are taking part in the event.
+
+## Watch: Afridi asked to consider Rohit and Virat as his 'friends'
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-aur-virat-ko-apne-dost-samjho-indian-fans-to-shaheen-afridi-ahead-of-india-pakistan-t20-world-cup-match-watch/articleshow/110819333.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-aur-virat-ko-apne-dost-samjho-indian-fans-to-shaheen-afridi-ahead-of-india-pakistan-t20-world-cup-match-watch/articleshow/110819333.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T10:40:54+00:00
+
+Indian fans in New York interact with Shaheen Shah Afridi ahead of India-Pakistan clash, joking about not bowling well. They ask him to consider Rohit Sharma and Virat Kohli as friends.
+
+## 8 'secret' Windows 11 features that you should know
+ - [https://timesofindia.indiatimes.com/technology/tech-tips/8-secret-windows-11-features-that-you-should-know/articleshow/110819134.cms](https://timesofindia.indiatimes.com/technology/tech-tips/8-secret-windows-11-features-that-you-should-know/articleshow/110819134.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T10:29:16+00:00
+
+Windows 11 introduces ten lesser-known but incredibly useful features that enhance productivity and streamline workflow, including scrolling inactive windows and screen recording with Snipping Tool.
+
+## Responsibility on Naidu, Nitish to protect democracy: Raut
+ - [https://timesofindia.indiatimes.com/india/responsibility-on-naidu-nitish-to-protect-democracy-constitution-says-sanjay-raut/articleshow/110818667.cms](https://timesofindia.indiatimes.com/india/responsibility-on-naidu-nitish-to-protect-democracy-constitution-says-sanjay-raut/articleshow/110818667.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T10:28:47+00:00
+
+
+
+## Will INDIA bloc attend PM's swearing-in event? Jairam Ramesh replies
+ - [https://timesofindia.indiatimes.com/india/will-india-bloc-attend-pms-swearing-in-event-congress-leader-jairam-ramesh-replies/articleshow/110818790.cms](https://timesofindia.indiatimes.com/india/will-india-bloc-attend-pms-swearing-in-event-congress-leader-jairam-ramesh-replies/articleshow/110818790.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T10:11:56+00:00
+
+Congress party to decide on attending PM Narendra Modi's swearing-in ceremony. Jairam Ramesh criticizes invitation list, saying only international leaders invited. INDIA bloc leaders yet to receive invitations.
+
+## 'He will decide soon': Venugopal on Rahul accepting LoP position
+ - [https://timesofindia.indiatimes.com/india/he-will-take-decision-soon-congress-leader-kc-venugopal-on-whether-rahul-gandhi-will-assume-lop-position-in-lok-sabha/articleshow/110817568.cms](https://timesofindia.indiatimes.com/india/he-will-take-decision-soon-congress-leader-kc-venugopal-on-whether-rahul-gandhi-will-assume-lop-position-in-lok-sabha/articleshow/110817568.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T09:45:53+00:00
+
+
+
+## SpiceJet flight delayed for several hours in Delhi, passengers stranded
+ - [https://timesofindia.indiatimes.com/business/india-business/spicejet-flight-delayed-for-several-hours-in-delhi-due-to-technical-snag-passengers-stranded/articleshow/110817629.cms](https://timesofindia.indiatimes.com/business/india-business/spicejet-flight-delayed-for-several-hours-in-delhi-due-to-technical-snag-passengers-stranded/articleshow/110817629.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T09:16:25+00:00
+
+​​Passengers on SpiceJet flight SG-211 from Delhi to Goa experienced a frustrating experience at Delhi's Indira Gandhi International (IGI) airport on Saturday. The flight, originally scheduled to depart at 9.35 am, was repeatedly delayed due to operational issues, as the aircraft assigned to the route had to be grounded because of a technical problem.​
+
+## 'Not my successor': Patnaik clarifies Pandian's role in BJD
+ - [https://timesofindia.indiatimes.com/india/not-my-successor-naveen-patnaik-clarifies-vk-pandians-role-in-bjd/articleshow/110817114.cms](https://timesofindia.indiatimes.com/india/not-my-successor-naveen-patnaik-clarifies-vk-pandians-role-in-bjd/articleshow/110817114.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T09:01:28+00:00
+
+Days after the results of the Odisha assembly polls, state outgoing Chief Minister Naveen Patnaik on Saturday said that Biju Janata Dal (BJD) leader VK Pandian is not his "successor" and pointed out that the people of the state would decide on this.In 2023, Pandian joined the BJD after taking voluntary retirement from the bureaucracy.
+
+## 'Decisive rejection of politics of divisiveness': Kharge at CWC meet
+ - [https://timesofindia.indiatimes.com/india/decisive-rejection-of-the-politics-of-divisiveness-mallikarjun-kharge-at-cwc-meet/articleshow/110817289.cms](https://timesofindia.indiatimes.com/india/decisive-rejection-of-the-politics-of-divisiveness-mallikarjun-kharge-at-cwc-meet/articleshow/110817289.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T08:59:51+00:00
+
+Congress president Mallikarjun Kharge claims Lok Sabha poll mandate as 'decisive rejection' of divisive politics. INDIA bloc urged to unite inside and outside Parliament.
+
+## T20 World Cup: Why Virat Kohli is opening with Rohit Sharma
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-navjot-singh-sidhu-explains-why-virat-kohli-is-opening-with-rohit-sharma/articleshow/110817058.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-navjot-singh-sidhu-explains-why-virat-kohli-is-opening-with-rohit-sharma/articleshow/110817058.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T08:47:06+00:00
+
+Navjot Singh Sidhu discusses the India-Pakistan T20 World Cup match, mentioning his preferred openers as Rohit Sharma and Yashasvi Jaiswal, but understanding Virat Kohli's choice for team composition.
+
+## Bodies of four Indians who drowned in Russia being flown back
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/bodies-of-four-students-who-drowned-in-a-russian-river-being-flown-back-to-india/articleshow/110816789.cms](https://timesofindia.indiatimes.com/world/rest-of-world/bodies-of-four-students-who-drowned-in-a-russian-river-being-flown-back-to-india/articleshow/110816789.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T08:42:45+00:00
+
+
+
+## Nepal PM 'Prachanda' to attend PM Modi’s ceremony in Delhi
+ - [https://timesofindia.indiatimes.com/india/nepal-pm-pushpa-kamal-dahal-prachanda-to-attend-pm-modis-ceremony-in-delhi/articleshow/110816831.cms](https://timesofindia.indiatimes.com/india/nepal-pm-pushpa-kamal-dahal-prachanda-to-attend-pm-modis-ceremony-in-delhi/articleshow/110816831.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T08:40:04+00:00
+
+Nepal Prime Minister Pushpa Kamal Dahal, 'Prachanda', to attend Prime Minister Narendra Modi's swearing-in ceremony in New Delhi after receiving a formal invitation. Prachanda congratulated Modi on BJP-led NDA's electoral success, praising the Indian electorate. A formal announcement is expected soon after a telephonic conversation.
+
+## On cam: Woman murdered in broad daylight in Punjab's Mohali
+ - [https://timesofindia.indiatimes.com/city/chandigarh/woman-murdered-in-punjabs-mohali/articleshow/110816628.cms](https://timesofindia.indiatimes.com/city/chandigarh/woman-murdered-in-punjabs-mohali/articleshow/110816628.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T08:39:08+00:00
+
+A 36-year-old man allegedly murdered a 31-year-old woman in Mohali on Saturday, according to police reports. The victim was on her way to work when the assailant attacked her.
+
+## PM Modi thanks Elon Musk for his congratulatory message
+ - [https://timesofindia.indiatimes.com/technology/tech-news/pm-narendra-modi-thanks-tesla-ceo-elon-musk-for-his-congratulatory-message/articleshow/110816415.cms](https://timesofindia.indiatimes.com/technology/tech-news/pm-narendra-modi-thanks-tesla-ceo-elon-musk-for-his-congratulatory-message/articleshow/110816415.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T08:14:26+00:00
+
+PM Narendra Modi set to take oath for a third term at Rashtrapati Bhavan with President Droupadi Murmu administering the oath.
+
+## 'Take up yoga, meditation': Kangana slams those praising CISF cop
+ - [https://timesofindia.indiatimes.com/india/take-up-yoga-meditation-kangana-asks-those-praising-cisf-cop-if-they-are-ok-with-rape-or-murder/articleshow/110815915.cms](https://timesofindia.indiatimes.com/india/take-up-yoga-meditation-kangana-asks-those-praising-cisf-cop-if-they-are-ok-with-rape-or-murder/articleshow/110815915.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T08:04:47+00:00
+
+
+
+## Police outpost torched in Manipur, several houses set on fire
+ - [https://timesofindia.indiatimes.com/city/imphal/militants-torch-police-outpost-set-several-houses-on-fire-in-manipurs-jiribam/articleshow/110815836.cms](https://timesofindia.indiatimes.com/city/imphal/militants-torch-police-outpost-set-several-houses-on-fire-in-manipurs-jiribam/articleshow/110815836.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T07:46:29+00:00
+
+Suspected militants set fire to a police outpost and houses in Jiribam district of Manipur. The attackers, believed to be hill-based militants, also targeted other areas in the district.
+
+## T20 World Cup: India batters brace up for Pakistan pace challenge
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-india-batters-brace-up-for-pakistan-pace-challenge/articleshow/110815865.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-india-batters-brace-up-for-pakistan-pace-challenge/articleshow/110815865.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T07:45:28+00:00
+
+Indian bowlers dominated Ireland, preparing to face Pakistan in T20 World Cup match in New York. Practice focused on handling dual bounce tracks for top-order hitters.
+
+## 'Axar ki ballebazi...' - What can work for India vs Pakistan
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-pakistan-axar-ki-ballebazi-wasim-jaffer-on-what-combination-can-work-for-india/articleshow/110815106.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-pakistan-axar-ki-ballebazi-wasim-jaffer-on-what-combination-can-work-for-india/articleshow/110815106.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T07:13:53+00:00
+
+Ahead of the tournament, it was also believed that Kuldeep Yadav will be the preferred specialist spinner in India's eleven. However, the dodgy nature of the tracks and the difficult batting conditions in New York tilted scales in favour of players with all-round skills, like Axar Patel, who offers a handy batting option lower down the order.
+
+## Maratha quota activist Manoj Jarange begins fast unto death
+ - [https://timesofindia.indiatimes.com/city/delhi/maratha-quota-activist-manoj-jarange-begins-indefinite-hunger-strike-without-police-permission/articleshow/110815065.cms](https://timesofindia.indiatimes.com/city/delhi/maratha-quota-activist-manoj-jarange-begins-indefinite-hunger-strike-without-police-permission/articleshow/110815065.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T07:11:07+00:00
+
+Maratha reservation activist Manoj Jarange Patil started a fast unto death demanding reservation in Maharashtra. He plans to run in the assembly elections if the reservation is not granted. Despite police denial, Jarange remains determined, cautioning the chief minister and deputy chief minister against attacking protestors.
+
+## T20 World Cup: Confident India take on unpredictable Pakistan
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-confident-india-take-on-unpredictable-pakistan/articleshow/110814728.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-confident-india-take-on-unpredictable-pakistan/articleshow/110814728.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T06:51:44+00:00
+
+India face Pakistan in a T20 World Cup match at Nassau County International Cricket Stadium, Eisenhower Park. The stadium's pitch and security measures are key concerns for the much-anticipated game.
+
+## 9 Bangladeshis held in Mumbai for illegal stay
+ - [https://timesofindia.indiatimes.com/city/mumbai/nine-bangladeshi-women-held-in-mumbai-for-illegal-stay-along-with-one-who-provided-shelter/articleshow/110814204.cms](https://timesofindia.indiatimes.com/city/mumbai/nine-bangladeshi-women-held-in-mumbai-for-illegal-stay-along-with-one-who-provided-shelter/articleshow/110814204.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T06:27:20+00:00
+
+Ten women, including nine from Bangladesh, were arrested by Mira-Bhayandar, Vasai-Virar police in Mira Road for residing in India without proper documentation. The tenth woman, who provided shelter, was also apprehended. Authorities are searching for the house owner. All face legal charges.
+
+## ICC T20 WC 2024: How to watch Ind vs Pak match in USA and Canada?
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/icc-t20-world-cup-2024-how-to-watch-india-vs-pakistan-t20-world-cup-match-in-usa-and-canada/articleshow/110813590.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/icc-t20-world-cup-2024-how-to-watch-india-vs-pakistan-t20-world-cup-match-in-usa-and-canada/articleshow/110813590.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T06:19:46+00:00
+
+
+
+## Punjab and Haryana HC makes 'SIM card' request to telecom ministry
+ - [https://timesofindia.indiatimes.com/technology/tech-news/punjab-and-haryana-high-court-makes-a-sim-card-request-to-telecom-ministry/articleshow/110813653.cms](https://timesofindia.indiatimes.com/technology/tech-news/punjab-and-haryana-high-court-makes-a-sim-card-request-to-telecom-ministry/articleshow/110813653.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T05:57:20+00:00
+
+Punjab and Haryana High Court orders limiting prepaid SIM cards to one per person to combat cybercrime, denying bail to Sumit Nandwani with 35 SIM cards. DoT regulation allows 9 SIM cards per ID with Aadhaar verification.
+
+## Rashid Khan now tops list of T20 WC captains for...
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/afghanistans-rashid-khan-now-tops-list-of-t20-world-cup-captains-for-/articleshow/110813331.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/afghanistans-rashid-khan-now-tops-list-of-t20-world-cup-captains-for-/articleshow/110813331.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T05:35:45+00:00
+
+Batting first in the Group C match of the T20 World Cup on Saturday, Afghanistan scored 159 for 6. In response,  the Kiwis were bundled out for 75, thanks to Rashid Khan and Fazalhaq Farooqis's bowling spells. Skipper Rashid's leg-spin deflated New Zealand's run-chase, and his four-wicket spell also brought about a double record.
+
+## Baahubali, RRR: Iconic films shot at Ramoji Film City
+ - [https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/baahubali-rrr-iconic-films-shot-at-ramoji-film-city/articleshow/110812882.cms](https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/baahubali-rrr-iconic-films-shot-at-ramoji-film-city/articleshow/110812882.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T05:16:32+00:00
+
+As the visionary founder of the Ramoji Film City, Ramoji Rao, passes away at the age 87, we celebrate his remarkable legacy. Since its inauguration in 1996 it holds the Guinness World Record as the world's largest film studio, has hosted numerous iconic films, revolutionizing Indian cinema with its state-of-the-art facilities and breathtaking locations.
+
+## Bangladesh edge past Sri Lanka in thrilling T20 World Cup clash
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sl-vs-ban-highlights-bangladesh-edge-past-sri-lanka-in-thrilling-t20-world-cup-clash/articleshow/110812887.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sl-vs-ban-highlights-bangladesh-edge-past-sri-lanka-in-thrilling-t20-world-cup-clash/articleshow/110812887.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T05:09:40+00:00
+
+The Sri Lanka and Bangladesh cricket teams faced off in a thrilling match at Grand Prairie Stadium in the T20 World Cup. The Tigers secured a two-wicket victory, restricting Sri Lanka to a modest 124/9. The match was filled with emotional shifts and momentum shifts, with Bangladesh securing the win with a crucial 63-run partnership, putting them in control.
+
+## 'I didn't even notice': Warner on 'wrong dressing room' blunder
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-didnt-even-notice-david-warner-amused-by-wrong-dressing-room-blunder-in-t20-world-cup/articleshow/110812160.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-didnt-even-notice-david-warner-amused-by-wrong-dressing-room-blunder-in-t20-world-cup/articleshow/110812160.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T04:26:43+00:00
+
+David Warner revealed what was going on in his mind during the humorous incident during the T20 World Cup match against Oman. He accidentally entered the wrong dressing room after getting out. Despite scoring a crucial fifty, Warner was dismissed in the penultimate over and inadvertently headed to the Oman dressing room before being corrected.
+
+## 'Drumbeaters will look for anything to justify PM's performance'
+ - [https://timesofindia.indiatimes.com/india/drumbeaters-will-look-for-anything-to-justify-ek-tihaaii-pm-modis-pathetic-performance-jairam-ramesh/articleshow/110812166.cms](https://timesofindia.indiatimes.com/india/drumbeaters-will-look-for-anything-to-justify-ek-tihaaii-pm-modis-pathetic-performance-jairam-ramesh/articleshow/110812166.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T04:24:18+00:00
+
+Congress leader Jairam Ramesh criticizes PM Modi and BJP's performance in the Lok Sabha elections, calling it a moral, political, and personal defeat.
+
+## Spices of big brands found unfit for consumption in Raj
+ - [https://timesofindia.indiatimes.com/city/jaipur/spices-of-big-brands-found-unfit-for-consumption-in-rajasthan/articleshow/110812072.cms](https://timesofindia.indiatimes.com/city/jaipur/spices-of-big-brands-found-unfit-for-consumption-in-rajasthan/articleshow/110812072.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T04:18:05+00:00
+
+Prominent spice brands in Jaipur failed quality tests by the Rajasthan health department for food adulteration. Samples from MDH, Everest, Gajanand, Shyam, and Sheeba Taza were found unfit for consumption, leading to stringent action under the Indian Food Safety and Standards Act.
+
+## BJP opens its account in 45 assembly, 9 Lok Sabha seats in Odisha
+ - [https://timesofindia.indiatimes.com/city/bhubaneswar/bjp-opens-its-account-in-45-assembly-9-lok-sabha-seats/articleshow/110812052.cms](https://timesofindia.indiatimes.com/city/bhubaneswar/bjp-opens-its-account-in-45-assembly-9-lok-sabha-seats/articleshow/110812052.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T04:16:50+00:00
+
+The BJP won 45 assembly constituencies and 9 Lok Sabha seats in Odisha, breaking BJD strongholds like Ganjam, Jajpur, and Puri. The party's success was credited to the 'Odia asmita' campaign and the Modi wave.
+
+## With Kumaraswamy, Bommai now MPs, oppn faces void in K'taka
+ - [https://timesofindia.indiatimes.com/city/bengaluru/with-hd-kumaraswamy-basavaraj-bommai-now-mps-oppn-faces-void-in-assembly/articleshow/110811994.cms](https://timesofindia.indiatimes.com/city/bengaluru/with-hd-kumaraswamy-basavaraj-bommai-now-mps-oppn-faces-void-in-assembly/articleshow/110811994.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T04:15:50+00:00
+
+Former CMs Bommai and Kumaraswamy, along with Poojary, leaving for national politics, creating leadership gap in BJP-JD(S) alliance. R Ashoka struggles in recent sessions, supported by Aravind Bellad. Alliance faces challenge in countering govt with seasoned politicians. Need to strengthen leadership in assembly and council.
+
+## Am I worth a penny, asks mom of CISF cop who slapped Kangana
+ - [https://timesofindia.indiatimes.com/city/chandigarh/kangana-ranautslapped-am-i-worth-a-penny-asks-cisf-cops-mom/articleshow/110811917.cms](https://timesofindia.indiatimes.com/city/chandigarh/kangana-ranautslapped-am-i-worth-a-penny-asks-cisf-cops-mom/articleshow/110811917.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T04:06:50+00:00
+
+Kulwinder Kaur, a CISF constable, received support from various farm groups after allegedly slapping Kangana Ranaut. Her family, middle-level farmers, backed the farm protests.
+
+## 3 dead in fire at food processing unit in Delhi's Narela
+ - [https://timesofindia.indiatimes.com/city/delhi/3-dead-in-fire-at-a-food-processing-unit-in-delhis-narela-industrial-area/articleshow/110811289.cms](https://timesofindia.indiatimes.com/city/delhi/3-dead-in-fire-at-a-food-processing-unit-in-delhis-narela-industrial-area/articleshow/110811289.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T03:28:24+00:00
+
+Three individuals tragically lost their lives in a fire at a food processing unit in the Narela Industrial Area, as per Delhi Police. The incident occurred during the early hours, leading to the tragic fatalities.
+
+## Ex-astronaut who took iconic 'Earthrise' photo dies in plane crash
+ - [https://timesofindia.indiatimes.com/world/us/former-apollo-8-astronaut-william-anders-dies-in-plane-crash-at-90/articleshow/110811389.cms](https://timesofindia.indiatimes.com/world/us/former-apollo-8-astronaut-william-anders-dies-in-plane-crash-at-90/articleshow/110811389.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T03:22:10+00:00
+
+William Anders, the astronaut known for capturing the iconic 'Earthrise' photo during Apollo 8, died in a plane crash at 90. His legacy includes being part of the first humans to orbit the Moon without landing.
+
+## T20 WC: Afghanistan hammer NZ for 'historic' win
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-afghanistan-hammer-new-zealand-by-84-runs-in-historic-win/articleshow/110811183.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-afghanistan-hammer-new-zealand-by-84-runs-in-historic-win/articleshow/110811183.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T03:13:49+00:00
+
+Chasing 160 to win at the Providence Stadium in Guyana, New Zealand were bowled out for 75 in just 15.2 overs as Rashid Khan and Fazalhaq Farooqi took four wickets each to rocks NZ's run-chase of 160 to win. This is Afghanistan's second victory in as many matches in this T20 World Cup, making them one of the favourites to reach 'Super 8s' from Group C.
+
+## Cornered Pakistan may come hard at India
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-cornered-pakistan-may-come-hard-at-india/articleshow/110811112.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-cornered-pakistan-may-come-hard-at-india/articleshow/110811112.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T03:06:08+00:00
+
+Hotels in Nassau County area are filling up for the India-Pakistan clash in New York. Indian fans likely to outnumber Pakistan fans, with a sense of celebration after Pakistan's loss to USA.
+
+## 'India are making a mistake': Akmal warns ahead of Pak match
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-are-making-a-mistake-kamran-akmal-warns-ahead-of-india-vs-pakistan-t20-world-cup-match/articleshow/110810915.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-are-making-a-mistake-kamran-akmal-warns-ahead-of-india-vs-pakistan-t20-world-cup-match/articleshow/110810915.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T02:44:26+00:00
+
+Kamran Akmal, a former Pakistan wicketkeeper, has criticized India's batting order for their crucial match against Pakistan in the T20 World Cup. Akmal argued that Kohli should be positioned at No. 3, where he can anchor the innings and guide the team through the middle overs, as the Indian team management appears to continue with Kohli as opener.
+
+## Actor-politician Gopi’s maverick attitude cause of BJP Kerala worry
+ - [https://timesofindia.indiatimes.com/city/thiruvananthapuram/actor-politician-suresh-gopis-maverick-attitude-cause-of-bjp-kerala-units-worry/articleshow/110810742.cms](https://timesofindia.indiatimes.com/city/thiruvananthapuram/actor-politician-suresh-gopis-maverick-attitude-cause-of-bjp-kerala-units-worry/articleshow/110810742.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T02:24:10+00:00
+
+Actor-politician Suresh Gopi, likely to become a Union minister, raises concerns for BJP state leadership due to his unconventional ways and reluctance to align publicly with the party's ideology.
+
+## 80-year-old man dies, dogs & rodents eat away his body
+ - [https://timesofindia.indiatimes.com/city/hyderabad/80-year-old-man-dies-dogs-rodents-eat-away-his-body-in-telangana/articleshow/110810719.cms](https://timesofindia.indiatimes.com/city/hyderabad/80-year-old-man-dies-dogs-rodents-eat-away-his-body-in-telangana/articleshow/110810719.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T02:20:56+00:00
+
+80-year-old man found dead with a hole in his chest outside home in Doragaripalle village, Mancherial town suspected to have died of illness.
+
+## Media mogul Ramoji Rao passes away at 87
+ - [https://timesofindia.indiatimes.com/india/ramoji-film-city-founder-ramoji-rao-passes-away-at-87/articleshow/110810603.cms](https://timesofindia.indiatimes.com/india/ramoji-film-city-founder-ramoji-rao-passes-away-at-87/articleshow/110810603.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T02:08:53+00:00
+
+
+
+## 'I don't understand why...' - Yuvraj slams Pakistan's tactics
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-i-dont-understand-why-yuvraj-singh-slams-pakistans-tactics-in-shocking-loss-to-usa/articleshow/110810394.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-i-dont-understand-why-yuvraj-singh-slams-pakistans-tactics-in-shocking-loss-to-usa/articleshow/110810394.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T01:42:24+00:00
+
+Former India batter and World Cup winner Yuvraj Singh has criticized Pakistan's tactical shortcomings in a T20 World Cup defeat against the USA. Pakistan failed to defend their target of 160, leading to a Super Over where they fell short. Singh questioned Pakistan's decision-making, particularly the exclusion of Fakhar Zaman from the strike.
+
+## Dilip Ghosh: Was there plan to get BJP veterans defeated in WB?
+ - [https://timesofindia.indiatimes.com/city/kolkata/was-there-plan-to-get-bengal-bjp-veterans-defeated-dilip-ghosh/articleshow/110810437.cms](https://timesofindia.indiatimes.com/city/kolkata/was-there-plan-to-get-bengal-bjp-veterans-defeated-dilip-ghosh/articleshow/110810437.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T01:41:02+00:00
+
+Questions move to shift Debasree from Raiganj to Kolkata South
+
+## Injury scare for Rohit Sharma ahead of India vs Pakistan match
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-sharma-suffers-injury-scare-during-practice-ahead-of-india-vs-pakistan-t20-world-cup-mega-encounter/articleshow/110810377.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-sharma-suffers-injury-scare-during-practice-ahead-of-india-vs-pakistan-t20-world-cup-mega-encounter/articleshow/110810377.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T01:39:48+00:00
+
+India's captain Rohit Sharma injured his left thumb during practice but continued after treatment. The anticipated match against Pakistan is set for Sunday at the Nassau County International Cricket Stadium, where Sharma recently scored 52 runs before retiring hurt against Ireland. The ICC is working to improve the inconsistent pitch conditions at the venue.
+
+## Jayati Bhatia on bond with Sonakshi Sinha: She is a wonderful girl...
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-jayati-bhatia-on-bond-with-sonakshi-sinha-she-is-a-wonderful-girl-well-brought-up-and-i-would-give-full-marks-to-her-parents/articleshow/110810311.cms](https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-jayati-bhatia-on-bond-with-sonakshi-sinha-she-is-a-wonderful-girl-well-brought-up-and-i-would-give-full-marks-to-her-parents/articleshow/110810311.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T01:30:00+00:00
+
+Jayati Bhatia's performance in 'Heeramandi: The Diamond Bazaar' has been praised by critics and audiences. She spoke about her bond with Sonakshi Sinha, highlighting the actress's caring nature. In an exclusive interview, Jayati Bhatia commended Sonakshi and her parents for raising her well.
+
+## 'Kid who doesn't..': Butt slams 'unprofessional' Haris Rauf
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/kid-who-doesnt-look-at-his-field-salman-butt-criticizes-unprofessional-haris-rauf-after-pakistans-shock-loss-to-usa/articleshow/110810155.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/kid-who-doesnt-look-at-his-field-salman-butt-criticizes-unprofessional-haris-rauf-after-pakistans-shock-loss-to-usa/articleshow/110810155.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-08T00:47:42+00:00
+
+Former Pakistan captain Salman Butt criticized Haris Rauf's performance in Pakistan's T20 World Cup match against the USA. Rauf failed to bowl under pressure, leading to a dramatic finish. Butt expressed his frustration on the 'Cricket Baithak' podcast, highlighting Rauf's apparent lack of awareness and failure to bowl to the field.
+
