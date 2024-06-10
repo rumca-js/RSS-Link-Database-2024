@@ -1,0 +1,303 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Donald Trump to Las Vegas Rally Attendees: 'I Don't Care About You'
+ - [https://www.reddit.com/r/politics/comments/1dc677z/donald_trump_to_las_vegas_rally_attendees_i_dont](https://www.reddit.com/r/politics/comments/1dc677z/donald_trump_to_las_vegas_rally_attendees_i_dont)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T22:30:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc677z/donald_trump_to_las_vegas_rally_attendees_i_dont/"> <img alt="Donald Trump to Las Vegas Rally Attendees: 'I Don't Care About You'" src="https://external-preview.redd.it/tMrhUZW9SSpMxtrypZ750lpOHa4DDmySEPujKAenuIs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27b84eca58006630d8afe541b10d07541bd8e3e7" title="Donald Trump to Las Vegas Rally Attendees: 'I Don't Care About You'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jack_Q_Frost_Jr"> /u/Jack_Q_Frost_Jr </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-quip-las-vegas-rally-attendees-i-dont-care-about-you-1910216">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dc677z/donald_trump_to_las_vegas_rally_attendees_i_dont/">[comments]</a></span> </td></tr></table>
+
+## Far-right publication attacks Dolly Parton over her LGBTQ allyship. “There is nothing that exemplifies how desperate for attention & unhinged the far right has become than this attack on America’s sweetheart”
+ - [https://www.reddit.com/r/politics/comments/1dc5pfm/farright_publication_attacks_dolly_parton_over](https://www.reddit.com/r/politics/comments/1dc5pfm/farright_publication_attacks_dolly_parton_over)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T22:08:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc5pfm/farright_publication_attacks_dolly_parton_over/"> <img alt="Far-right publication attacks Dolly Parton over her LGBTQ allyship. “There is nothing that exemplifies how desperate for attention &amp; unhinged the far right has become than this attack on America’s sweetheart”" src="https://external-preview.redd.it/yXUtaWETiV05Z8o1wlnQ3BymV82D5oeQC-olKDWnGxQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e18b3d82f69637e3275ef8199f9efca39fda77b" title="Far-right publication attacks Dolly Parton over her LGBTQ allyship. “There is nothing that exemplifies how desperate for attention &amp; unhinged the far right has become than this attack on America’s sweetheart”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> <span><a href="https://www.losangelesblade.com/2024/06/07/far-right-publication-attacks-dolly-parton-over-her-lgbtq-allyship/">[link]</
+
+## Florida Supreme Court lets DeSantis veto voters, oust elected officials
+ - [https://www.reddit.com/r/politics/comments/1dc5leo/florida_supreme_court_lets_desantis_veto_voters](https://www.reddit.com/r/politics/comments/1dc5leo/florida_supreme_court_lets_desantis_veto_voters)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T22:03:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc5leo/florida_supreme_court_lets_desantis_veto_voters/"> <img alt="Florida Supreme Court lets DeSantis veto voters, oust elected officials " src="https://external-preview.redd.it/BHBL59CKwdeLO-AdA6N-XvxVzGutE_lVIDCPNF3LlU8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ecef827d7400bc7c1b8dbe288f4f65223db34d4" title="Florida Supreme Court lets DeSantis veto voters, oust elected officials " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mcgillhufflepuff"> /u/mcgillhufflepuff </a> <br /> <span><a href="https://www.floridatoday.com/story/news/columns/nate-monroe/2024/06/07/nate-monroe-florida-supreme-court-allows-desantis-to-veto-voter-decisions/74012074007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dc5leo/florida_supreme_court_lets_desantis_veto_voters/">[comments]</a></span> </td></tr></table>
+
+## More than half of Biden supporters say main reason for backing is to oppose Trump: CBS poll
+ - [https://www.reddit.com/r/politics/comments/1dc4303/more_than_half_of_biden_supporters_say_main](https://www.reddit.com/r/politics/comments/1dc4303/more_than_half_of_biden_supporters_say_main)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T20:58:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc4303/more_than_half_of_biden_supporters_say_main/"> <img alt="More than half of Biden supporters say main reason for backing is to oppose Trump: CBS poll" src="https://external-preview.redd.it/V9c69nSpb9AdxICcL0x8QWJpALE4mNd9gOFQ9RGakhg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd232ce300858a491823e906342e7aeb3967b7ca" title="More than half of Biden supporters say main reason for backing is to oppose Trump: CBS poll" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Giantsfootball1981"> /u/Giantsfootball1981 </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4712618-over-half-of-joe-biden-supporters-say-main-reason-for-backing-is-to-oppose-donald-trump-cbs-poll/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dc4303/more_than_half_of_biden_supporters_say_main/">[comments]</a></span> </td></tr></table>
+
+## Trump Rails Against Broken Rally Teleprompters, Threatens to Stiff Contractors
+ - [https://www.reddit.com/r/politics/comments/1dc40dg/trump_rails_against_broken_rally_teleprompters](https://www.reddit.com/r/politics/comments/1dc40dg/trump_rails_against_broken_rally_teleprompters)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T20:55:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc40dg/trump_rails_against_broken_rally_teleprompters/"> <img alt="Trump Rails Against Broken Rally Teleprompters, Threatens to Stiff Contractors" src="https://external-preview.redd.it/Stv076uvns6nDCGlUsyPr4Uj-vL64u1R85DjjM2fADw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe65471996f7d4ab342264ae6cf4a2ad981a13b4" title="Trump Rails Against Broken Rally Teleprompters, Threatens to Stiff Contractors" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/unscripted-trump-broken-teleprompters-stiff-contractors-1235036263/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dc40dg/trump_rails_against_broken_rally_teleprompters/">[comments]</a></span> </td></tr></table>
+
+## Susan Collins takes heat for echoing Trump’s claims of political prosecution
+ - [https://www.reddit.com/r/politics/comments/1dc30fp/susan_collins_takes_heat_for_echoing_trumps](https://www.reddit.com/r/politics/comments/1dc30fp/susan_collins_takes_heat_for_echoing_trumps)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T20:13:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc30fp/susan_collins_takes_heat_for_echoing_trumps/"> <img alt="Susan Collins takes heat for echoing Trump’s claims of political prosecution" src="https://external-preview.redd.it/XVn0SnJaLCKNjtBCQJzBXbIf4gERF4xu1QtOUlCdRUM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0c7fd3e3d736992009c3d4f6db2656acb89ef75" title="Susan Collins takes heat for echoing Trump’s claims of political prosecution" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alexrmccann"> /u/alexrmccann </a> <br /> <span><a href="https://www.pressherald.com/2024/06/09/sen-collins-takes-heat-for-echoing-trump-claims-of-political-prosecution/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dc30fp/susan_collins_takes_heat_for_echoing_trumps/">[comments]</a></span> </td></tr></table>
+
+## Republicans pitch tax cuts for corporations, the wealthy in 2025
+ - [https://www.reddit.com/r/politics/comments/1dc2n0p/republicans_pitch_tax_cuts_for_corporations_the](https://www.reddit.com/r/politics/comments/1dc2n0p/republicans_pitch_tax_cuts_for_corporations_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T19:58:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc2n0p/republicans_pitch_tax_cuts_for_corporations_the/"> <img alt="Republicans pitch tax cuts for corporations, the wealthy in 2025" src="https://external-preview.redd.it/oQoVH6XUjDXKaH5yw2Ys4uYQIJZ8Cicg1t5Fnb4kWgg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f139c200b0915a8a8ba6f13d96faa966e26d327" title="Republicans pitch tax cuts for corporations, the wealthy in 2025" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marji80"> /u/marji80 </a> <br /> <span><a href="https://www.washingtonpost.com/business/2024/06/09/biden-trump-taxes-election/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dc2n0p/republicans_pitch_tax_cuts_for_corporations_the/">[comments]</a></span> </td></tr></table>
+
+## Biden calls France "our first friend" and enduring ally during state visit in Paris
+ - [https://www.reddit.com/r/politics/comments/1dc29n5/biden_calls_france_our_first_friend_and_enduring](https://www.reddit.com/r/politics/comments/1dc29n5/biden_calls_france_our_first_friend_and_enduring)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T19:42:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc29n5/biden_calls_france_our_first_friend_and_enduring/"> <img alt="Biden calls France &quot;our first friend&quot; and enduring ally during state visit in Paris" src="https://external-preview.redd.it/2PC7mX7kTVSA5M99bLXi-rwREHivisFemQ1-wUl2IM0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=def9f4c2aeed6b696b788818a1aa8378bc58d751" title="Biden calls France &quot;our first friend&quot; and enduring ally during state visit in Paris" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/233C"> /u/233C </a> <br /> <span><a href="https://www.cbsnews.com/news/joe-biden-france-state-visit-paris-emmanuel-macron/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dc29n5/biden_calls_france_our_first_friend_and_enduring/">[comments]</a></span> </td></tr></table>
+
+## Trump scheduled for Monday probation interview following conviction
+ - [https://www.reddit.com/r/politics/comments/1dc27z3/trump_scheduled_for_monday_probation_interview](https://www.reddit.com/r/politics/comments/1dc27z3/trump_scheduled_for_monday_probation_interview)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T19:40:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc27z3/trump_scheduled_for_monday_probation_interview/"> <img alt="Trump scheduled for Monday probation interview following conviction" src="https://external-preview.redd.it/aIv6YCK4-nPqSJdvJO6ob08cvIOVV1dEhDx0LN1E3kI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=141f2f4a5409b222d29859a619f6fb56239323ed" title="Trump scheduled for Monday probation interview following conviction" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheZeezer"> /u/TheZeezer </a> <br /> <span><a href="https://thehill.com/regulation/court-battles/4712788-donald-trump-probation-interview-hush-money-conviction/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dc27z3/trump_scheduled_for_monday_probation_interview/">[comments]</a></span> </td></tr></table>
+
+## MTG Says Trump Is a ‘Convicted Felon’ Just Like Jesus
+ - [https://www.reddit.com/r/politics/comments/1dc1zlf/mtg_says_trump_is_a_convicted_felon_just_like](https://www.reddit.com/r/politics/comments/1dc1zlf/mtg_says_trump_is_a_convicted_felon_just_like)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T19:30:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc1zlf/mtg_says_trump_is_a_convicted_felon_just_like/"> <img alt="MTG Says Trump Is a ‘Convicted Felon’ Just Like Jesus" src="https://external-preview.redd.it/5_vcLoJiafIfgwkiA998P-Wke2cJ8KdoOqyQ9oJbbBg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd59d4cb8ad13f551627f7dd0a5a7ed892f212a1" title="MTG Says Trump Is a ‘Convicted Felon’ Just Like Jesus" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/mtg-jesus-convicted-felon-like-trump-1235036256/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dc1zlf/mtg_says_trump_is_a_convicted_felon_just_like/">[comments]</a></span> </td></tr></table>
+
+## Billions in taxpayer dollars now go to religious schools via vouchers
+ - [https://www.reddit.com/r/politics/comments/1dc1cxq/billions_in_taxpayer_dollars_now_go_to_religious](https://www.reddit.com/r/politics/comments/1dc1cxq/billions_in_taxpayer_dollars_now_go_to_religious)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T19:03:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc1cxq/billions_in_taxpayer_dollars_now_go_to_religious/"> <img alt="Billions in taxpayer dollars now go to religious schools via vouchers" src="https://external-preview.redd.it/sYO3smphTouSvslXMwge71YBS_W4GC4T2lhbNMuNRTA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d61bd5d78690e41b87fd9150722dbf934b7bd28" title="Billions in taxpayer dollars now go to religious schools via vouchers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GM_PhillipAsshole"> /u/GM_PhillipAsshole </a> <br /> <span><a href="https://www.washingtonpost.com/nation/2024/06/03/tax-dollars-religious-schools/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dc1cxq/billions_in_taxpayer_dollars_now_go_to_religious/">[comments]</a></span> </td></tr></table>
+
+## Biden makes jab at Trump for skipping visit to WWI cemetery as he closes out trip to France
+ - [https://www.reddit.com/r/politics/comments/1dc07af/biden_makes_jab_at_trump_for_skipping_visit_to](https://www.reddit.com/r/politics/comments/1dc07af/biden_makes_jab_at_trump_for_skipping_visit_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T18:14:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dc07af/biden_makes_jab_at_trump_for_skipping_visit_to/"> <img alt="Biden makes jab at Trump for skipping visit to WWI cemetery as he closes out trip to France" src="https://external-preview.redd.it/rLyh-NKb3CX3gFDkf8_twBA0xra2QrXFW7b-HjkbVXI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=939e2707ee0c39b9eca3c07e912f0c7ec56937d5" title="Biden makes jab at Trump for skipping visit to WWI cemetery as he closes out trip to France" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kirby__000"> /u/kirby__000 </a> <br /> <span><a href="https://www.washingtonexaminer.com/news/white-house/3033685/biden-jab-trump-skipping-visit-wwi-cemetery-closes-trip-france/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dc07af/biden_makes_jab_at_trump_for_skipping_visit_to/">[comments]</a></span> </td></tr></table>
+
+## Biden celebrates Israel’s rescue of 4 hostages, vowing ‘we won’t stop’
+ - [https://www.reddit.com/r/politics/comments/1dbznoc/biden_celebrates_israels_rescue_of_4_hostages](https://www.reddit.com/r/politics/comments/1dbznoc/biden_celebrates_israels_rescue_of_4_hostages)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T17:51:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbznoc/biden_celebrates_israels_rescue_of_4_hostages/"> <img alt="Biden celebrates Israel’s rescue of 4 hostages, vowing ‘we won’t stop’" src="https://external-preview.redd.it/k8AO7sfntB1fWHYANr22s0_GhwRVqDumsdSgeW01-WI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=85edcca630454bdedfe1bc034b8b2ab2a9ed7a5e" title="Biden celebrates Israel’s rescue of 4 hostages, vowing ‘we won’t stop’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aslan_is_on_the_move"> /u/aslan_is_on_the_move </a> <br /> <span><a href="https://thehill.com/policy/international/4711870-biden-celebrates-israel-rescue-hostages-vowing-we-wont-stop/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbznoc/biden_celebrates_israels_rescue_of_4_hostages/">[comments]</a></span> </td></tr></table>
+
+## A Christian group teaches public school students during the school day. Their footprint is growing
+ - [https://www.reddit.com/r/politics/comments/1dbzmzp/a_christian_group_teaches_public_school_students](https://www.reddit.com/r/politics/comments/1dbzmzp/a_christian_group_teaches_public_school_students)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T17:50:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbzmzp/a_christian_group_teaches_public_school_students/"> <img alt="A Christian group teaches public school students during the school day. Their footprint is growing" src="https://external-preview.redd.it/da_osILFD1kE6TtnBH-Mbq1_T7b-Rq1R3JvFt6vhkZk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d4ccafaf663751b53f7adacb57459634cf359cf" title="A Christian group teaches public school students during the school day. Their footprint is growing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> <span><a href="https://apnews.com/article/indiana-lifewise-public-school-religion-d7cf2b67b2ae3b7919e0a21f89ce80c0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbzmzp/a_christian_group_teaches_public_school_students/">[comments]</a></span> </td></tr></table>
+
+## Clarence Thomas: I should have declared free holidays from billionaire
+ - [https://www.reddit.com/r/politics/comments/1dbz7qk/clarence_thomas_i_should_have_declared_free](https://www.reddit.com/r/politics/comments/1dbz7qk/clarence_thomas_i_should_have_declared_free)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T17:32:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbz7qk/clarence_thomas_i_should_have_declared_free/"> <img alt="Clarence Thomas: I should have declared free holidays from billionaire" src="https://external-preview.redd.it/2S_B-SzT4LVFpSMIdR7yqIVelS5pE6DLH71CN0NyXBc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cfe5652907e9f2549d8184afc12b65d5e3458c0e" title="Clarence Thomas: I should have declared free holidays from billionaire" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TimesandSundayTimes"> /u/TimesandSundayTimes </a> <br /> <span><a href="https://www.thetimes.com/world/us-world/article/clarence-thomas-i-should-have-declared-free-holidays-from-billionaire-7ngkc3hxj">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbz7qk/clarence_thomas_i_should_have_declared_free/">[comments]</a></span> </td></tr></table>
+
+## Trump administration vets blast him for claiming Putin will release US prisoner if he wins
+ - [https://www.reddit.com/r/politics/comments/1dbz0ie/trump_administration_vets_blast_him_for_claiming](https://www.reddit.com/r/politics/comments/1dbz0ie/trump_administration_vets_blast_him_for_claiming)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T17:23:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbz0ie/trump_administration_vets_blast_him_for_claiming/"> <img alt="Trump administration vets blast him for claiming Putin will release US prisoner if he wins" src="https://external-preview.redd.it/40hwoKzUm_oF0le9iiWdd8BduDS1RtlksvMjlVZ7WAE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=55a5ba793da884be5e517fba2a5f87948f204320" title="Trump administration vets blast him for claiming Putin will release US prisoner if he wins" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aleph32"> /u/aleph32 </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/elections/2024/06/08/trump-officials-question-russian-prisoner-claim/73981021007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbz0ie/trump_administration_vets_blast_him_for_claiming/">[comments]</a></span> </td></tr></table>
+
+## Meet Trump’s New Christian Kingpin Oil-rich Tim Dunn has changed Texas politics with fanatical zeal — the national stage is next
+ - [https://www.reddit.com/r/politics/comments/1dbyrix/meet_trumps_new_christian_kingpin_oilrich_tim](https://www.reddit.com/r/politics/comments/1dbyrix/meet_trumps_new_christian_kingpin_oilrich_tim)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T17:12:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbyrix/meet_trumps_new_christian_kingpin_oilrich_tim/"> <img alt="Meet Trump’s New Christian Kingpin Oil-rich Tim Dunn has changed Texas politics with fanatical zeal — the national stage is next" src="https://external-preview.redd.it/YmPNqxvE7gX_MipqYgInviG-K0zPPuS6Uuq8I_VaNYQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79f035396b43d9c2d77cb5fead6d02f24025f030" title="Meet Trump’s New Christian Kingpin Oil-rich Tim Dunn has changed Texas politics with fanatical zeal — the national stage is next" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Particular_Pin_5040"> /u/Particular_Pin_5040 </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-features/tim-dunn-texas-oil-billionaire-trump-donor-1235033143/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbyrix/meet_trumps_new_christian_kingpin_oilrich_tim/">[comments]</a></span>
+
+## Trump probation interview set for Monday after hush money conviction
+ - [https://www.reddit.com/r/politics/comments/1dbyl8g/trump_probation_interview_set_for_monday_after](https://www.reddit.com/r/politics/comments/1dbyl8g/trump_probation_interview_set_for_monday_after)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T17:04:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbyl8g/trump_probation_interview_set_for_monday_after/"> <img alt="Trump probation interview set for Monday after hush money conviction" src="https://external-preview.redd.it/8UnLLjqO0XVfZnFhA5HyhlNFAfNaMhuMT6H5mxEwsMA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aec5247795902ddcc39b9e3cb6b35ef63f3f5e35" title="Trump probation interview set for Monday after hush money conviction" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br /> <span><a href="https://www.nbcnews.com/politics/donald-trump/trump-probation-interview-monday-hush-money-conviction-rcna156219">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbyl8g/trump_probation_interview_set_for_monday_after/">[comments]</a></span> </td></tr></table>
+
+## Kristi Noem Still Has No Regrets for Killing Puppy
+ - [https://www.reddit.com/r/politics/comments/1dbxf4v/kristi_noem_still_has_no_regrets_for_killing_puppy](https://www.reddit.com/r/politics/comments/1dbxf4v/kristi_noem_still_has_no_regrets_for_killing_puppy)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T16:14:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbxf4v/kristi_noem_still_has_no_regrets_for_killing_puppy/"> <img alt="Kristi Noem Still Has No Regrets for Killing Puppy" src="https://external-preview.redd.it/IBcp8n3Pa15GUOcfRLvk145kn54bKVpTy1CkWXcvgA8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1cc26c25a5f001f761756df6091c66ee1e328125" title="Kristi Noem Still Has No Regrets for Killing Puppy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br /> <span><a href="https://www.thedailybeast.com/kristi-noem-still-has-no-regrets-for-killing-puppy">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbxf4v/kristi_noem_still_has_no_regrets_for_killing_puppy/">[comments]</a></span> </td></tr></table>
+
+## GOP Sen. Tom Cotton Claims Trump Was Actually Super Tight With Zelensky
+ - [https://www.reddit.com/r/politics/comments/1dbwrcw/gop_sen_tom_cotton_claims_trump_was_actually](https://www.reddit.com/r/politics/comments/1dbwrcw/gop_sen_tom_cotton_claims_trump_was_actually)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T15:45:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbwrcw/gop_sen_tom_cotton_claims_trump_was_actually/"> <img alt="GOP Sen. Tom Cotton Claims Trump Was Actually Super Tight With Zelensky" src="https://external-preview.redd.it/mb4G98u9536Rq3tcFf1PJFzorLF_kyPN4-2tnWBr5bU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b76ee1255af5e0eb0d1cca1b463fc96a09b6122" title="GOP Sen. Tom Cotton Claims Trump Was Actually Super Tight With Zelensky" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.thedailybeast.com/gop-senator-tom-cotton-claims-trump-was-actually-super-tight-with-zelensky">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbwrcw/gop_sen_tom_cotton_claims_trump_was_actually/">[comments]</a></span> </td></tr></table>
+
+## Trump wants his gag order lifted. Judge Merchan must say no. For the sake of protecting the administration of justice, Merchan should maintain the order.
+ - [https://www.reddit.com/r/politics/comments/1dbwm9t/trump_wants_his_gag_order_lifted_judge_merchan](https://www.reddit.com/r/politics/comments/1dbwm9t/trump_wants_his_gag_order_lifted_judge_merchan)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T15:39:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbwm9t/trump_wants_his_gag_order_lifted_judge_merchan/"> <img alt="Trump wants his gag order lifted. Judge Merchan must say no. For the sake of protecting the administration of justice, Merchan should maintain the order." src="https://external-preview.redd.it/7bH6WI6mod2c9esWDA0OLZfJwpn3gZcpfD8mGUfUFRA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=17bc692212021810a94c0d36d07ac51f58416a89" title="Trump wants his gag order lifted. Judge Merchan must say no. For the sake of protecting the administration of justice, Merchan should maintain the order." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.msnbc.com/opinion/msnbc-opinion/trump-gag-order-judge-merchan-hush-money-trial-rcna156048">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbwm9t/trump_wants_his_gag_order_lifted_judge_merchan/">[c
+
+## DNC Trolls Trump with ‘Convicted White-Collar Crook’ Billboard Ahead of Vegas Rally
+ - [https://www.reddit.com/r/politics/comments/1dbwiil/dnc_trolls_trump_with_convicted_whitecollar_crook](https://www.reddit.com/r/politics/comments/1dbwiil/dnc_trolls_trump_with_convicted_whitecollar_crook)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T15:35:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbwiil/dnc_trolls_trump_with_convicted_whitecollar_crook/"> <img alt="DNC Trolls Trump with ‘Convicted White-Collar Crook’ Billboard Ahead of Vegas Rally" src="https://external-preview.redd.it/HcreFdo_mJLMb6ZVFeIMlx3CWhuB0KV3HEnxSVgiKWA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=462e4c4724a26dcf67431fbb295b4ff24dc72f5a" title="DNC Trolls Trump with ‘Convicted White-Collar Crook’ Billboard Ahead of Vegas Rally" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/dnc-trump-white-collar-crook-billboard-las-vegas-1235036231/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbwiil/dnc_trolls_trump_with_convicted_whitecollar_crook/">[comments]</a></span> </td></tr></table>
+
+## Far-right fossil fuel company allies pressure US supreme court to shield firms in unprecedented campaign
+ - [https://www.reddit.com/r/politics/comments/1dbwapp/farright_fossil_fuel_company_allies_pressure_us](https://www.reddit.com/r/politics/comments/1dbwapp/farright_fossil_fuel_company_allies_pressure_us)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T15:25:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbwapp/farright_fossil_fuel_company_allies_pressure_us/"> <img alt="Far-right fossil fuel company allies pressure US supreme court to shield firms in unprecedented campaign " src="https://external-preview.redd.it/CeXSJCgP3-0BKBj6cXnvxNL_EZEDQHuurUcJZKSAOuk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=41baf5ce41b8cb9342265e65d80db7bb189cab62" title="Far-right fossil fuel company allies pressure US supreme court to shield firms in unprecedented campaign " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/caveatlector73"> /u/caveatlector73 </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/jun/09/fossil-fuel-allies-pressuring-supreme-court">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbwapp/farright_fossil_fuel_company_allies_pressure_us/">[comments]</a></span> </td></tr></table>
+
+## The law-and-order party defunds the IRS. Again.
+ - [https://www.reddit.com/r/politics/comments/1dbvnmw/the_lawandorder_party_defunds_the_irs_again](https://www.reddit.com/r/politics/comments/1dbvnmw/the_lawandorder_party_defunds_the_irs_again)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T14:57:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbvnmw/the_lawandorder_party_defunds_the_irs_again/"> <img alt="The law-and-order party defunds the IRS. Again." src="https://external-preview.redd.it/qeHZe6RRIODfo-sjYMlHTOmRI_Q_LPMYjdzExk04h9o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4068135424d6370ef8cc8e0cae600899f921f003" title="The law-and-order party defunds the IRS. Again." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.washingtonpost.com/opinions/2024/06/07/republicans-taxes-irs-funding-direct-file/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE3NzMyODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE5MTE1MTk5LCJpYXQiOjE3MTc3MzI4MDAsImp0aSI6ImZlYmFhMDBiLTc5NWUtNDkyNC05MWUyLTcyM2VhNWUyMzhiMyIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDI0LzA2LzA3L3JlcHVibGljYW5zLXRheGVzLWlycy1mdW5kaW5nLWRpcmVjdC1maWxlLyJ9
+
+## For presidents, it’s not age but judgment that matters
+ - [https://www.reddit.com/r/politics/comments/1dbubwv/for_presidents_its_not_age_but_judgment_that](https://www.reddit.com/r/politics/comments/1dbubwv/for_presidents_its_not_age_but_judgment_that)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T13:57:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbubwv/for_presidents_its_not_age_but_judgment_that/"> <img alt="For presidents, it’s not age but judgment that matters" src="https://external-preview.redd.it/mP1mF4RZHPFAh1pQCmBgNw0aRoXm1hFm2bigHq42hvA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2375bce19960b9e8a3abe441c0e7d2a83507e040" title="For presidents, it’s not age but judgment that matters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nutritionvegan"> /u/nutritionvegan </a> <br /> <span><a href="https://www.washingtonpost.com/opinions/2024/06/09/wall-street-journal-biden-slipping-article/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbubwv/for_presidents_its_not_age_but_judgment_that/">[comments]</a></span> </td></tr></table>
+
+## Bipartisanship or Republican meddling? AIPAC is biggest source of GOP donations in Dem primaries
+ - [https://www.reddit.com/r/politics/comments/1dbub4g/bipartisanship_or_republican_meddling_aipac_is](https://www.reddit.com/r/politics/comments/1dbub4g/bipartisanship_or_republican_meddling_aipac_is)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T13:56:20+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BoatsMcFloats"> /u/BoatsMcFloats </a> <br /> <span><a href="https://www.politico.com/news/2024/06/09/aipac-republican-donors-democratic-primaries-00162404">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbub4g/bipartisanship_or_republican_meddling_aipac_is/">[comments]</a></span>
+
+## Trump will hold outdoor Las Vegas rally in scorching heat. His campaign has extra medics and water
+ - [https://www.reddit.com/r/politics/comments/1dbt2tp/trump_will_hold_outdoor_las_vegas_rally_in](https://www.reddit.com/r/politics/comments/1dbt2tp/trump_will_hold_outdoor_las_vegas_rally_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T12:54:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbt2tp/trump_will_hold_outdoor_las_vegas_rally_in/"> <img alt="Trump will hold outdoor Las Vegas rally in scorching heat. His campaign has extra medics and water" src="https://external-preview.redd.it/36PXvcF2UiZlC3rik1lHAzDLSoRdwW0bn94gfs8lnZc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d19bfa9eec7402dbf9eb2c5561491ba941170f6" title="Trump will hold outdoor Las Vegas rally in scorching heat. His campaign has extra medics and water" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stup1dMan3000"> /u/Stup1dMan3000 </a> <br /> <span><a href="https://www.wsoctv.com/news/politics/trump-will-hold/TJE6QOUJQYZGNT6DAV2X5SU2DU/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbt2tp/trump_will_hold_outdoor_las_vegas_rally_in/">[comments]</a></span> </td></tr></table>
+
+## What can Trump do about vaccines? More than you might think. His new anti-vaccine persona could have far-reaching consequences if he’s elected to a second stint as president with far-reaching administrative powers.
+ - [https://www.reddit.com/r/politics/comments/1dbso1f/what_can_trump_do_about_vaccines_more_than_you](https://www.reddit.com/r/politics/comments/1dbso1f/what_can_trump_do_about_vaccines_more_than_you)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T12:31:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Surferino"> /u/Surferino </a> <br /> <span><a href="https://www.politico.com/news/2024/06/09/trump-anti-vaccine-mandates-00162360">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbso1f/what_can_trump_do_about_vaccines_more_than_you/">[comments]</a></span>
+
+## Europeans seem to grasp the threat to U.S. democracy better than we do
+ - [https://www.reddit.com/r/politics/comments/1dbsiaz/europeans_seem_to_grasp_the_threat_to_us](https://www.reddit.com/r/politics/comments/1dbsiaz/europeans_seem_to_grasp_the_threat_to_us)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T12:22:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbsiaz/europeans_seem_to_grasp_the_threat_to_us/"> <img alt="Europeans seem to grasp the threat to U.S. democracy better than we do" src="https://external-preview.redd.it/Ef561h_Nk_s5nR8S423tYk9yLGvbc7bczTFssYErFuQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f737cebf7ba3fbad22b7b5def8be067df15c7bb6" title="Europeans seem to grasp the threat to U.S. democracy better than we do" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/a_pinch_of_sarcasm"> /u/a_pinch_of_sarcasm </a> <br /> <span><a href="https://www.washingtonpost.com/opinions/2024/06/09/democracy-europe-biden-trump-2024-election/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbsiaz/europeans_seem_to_grasp_the_threat_to_us/">[comments]</a></span> </td></tr></table>
+
+## The Fall of Roe: You Thought Dobbs Was Bad? They’re Coming for Brown v. Board
+ - [https://www.reddit.com/r/politics/comments/1dbsejb/the_fall_of_roe_you_thought_dobbs_was_bad_theyre](https://www.reddit.com/r/politics/comments/1dbsejb/the_fall_of_roe_you_thought_dobbs_was_bad_theyre)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T12:16:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbsejb/the_fall_of_roe_you_thought_dobbs_was_bad_theyre/"> <img alt="The Fall of Roe: You Thought Dobbs Was Bad? They’re Coming for Brown v. Board" src="https://external-preview.redd.it/0Rxp_Qf_UvA5gCNTmA6mYi9JGZ1qeN0hbFIenWisNkU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7127f0877b673927646b47731ceddbd0f6be9625" title="The Fall of Roe: You Thought Dobbs Was Bad? They’re Coming for Brown v. Board" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.thedailybeast.com/the-fall-of-roe-you-thought-dobbs-was-bad-theyre-coming-for-brown-v-board">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbsejb/the_fall_of_roe_you_thought_dobbs_was_bad_theyre/">[comments]</a></span> </td></tr></table>
+
+## Trump to hold rally in swing state Nevada during heatwave | Reuters
+ - [https://www.reddit.com/r/politics/comments/1dbrd6i/trump_to_hold_rally_in_swing_state_nevada_during](https://www.reddit.com/r/politics/comments/1dbrd6i/trump_to_hold_rally_in_swing_state_nevada_during)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T11:14:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbrd6i/trump_to_hold_rally_in_swing_state_nevada_during/"> <img alt="Trump to hold rally in swing state Nevada during heatwave | Reuters" src="https://external-preview.redd.it/nz63BuOaFnW6WXhFf4sK4lDCwDqlyOBaStzS5_MUsQ4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14ec5ef32f86c2403fc4be6fb31a4a9c5b11a6d7" title="Trump to hold rally in swing state Nevada during heatwave | Reuters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scarlet-Ivy"> /u/Scarlet-Ivy </a> <br /> <span><a href="https://www.reuters.com/world/us/trump-hold-rally-swing-state-nevada-during-heatwave-2024-06-09/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbrd6i/trump_to_hold_rally_in_swing_state_nevada_during/">[comments]</a></span> </td></tr></table>
+
+## What a fool believes: Donald Trump and America's bogus respect for "faith": How religious "freedom" has been twisted into an all-out attack on critical thinking and the rule of law
+ - [https://www.reddit.com/r/politics/comments/1dbr5ip/what_a_fool_believes_donald_trump_and_americas](https://www.reddit.com/r/politics/comments/1dbr5ip/what_a_fool_believes_donald_trump_and_americas)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T11:00:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbr5ip/what_a_fool_believes_donald_trump_and_americas/"> <img alt="What a fool believes: Donald Trump and America's bogus respect for &quot;faith&quot;: How religious &quot;freedom&quot; has been twisted into an all-out attack on critical thinking and the rule of law" src="https://external-preview.redd.it/yXw2QueUJb39LEmhz8N4u4TxktGMPXh6CMkkI02jDDY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f283d28df26f43a447fe0ef5ffd04f1f8b700a1" title="What a fool believes: Donald Trump and America's bogus respect for &quot;faith&quot;: How religious &quot;freedom&quot; has been twisted into an all-out attack on critical thinking and the rule of law" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.salon.com/2024/06/09/what-a-fool-believes-donald-and-americas-bogus-respect-for-faith/">[link]</a></span> &#32; <span><a href="https://w
+
+## Texas Democrats try to unify against GOP “extremism”
+ - [https://www.reddit.com/r/politics/comments/1dbqdiw/texas_democrats_try_to_unify_against_gop_extremism](https://www.reddit.com/r/politics/comments/1dbqdiw/texas_democrats_try_to_unify_against_gop_extremism)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T10:06:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbqdiw/texas_democrats_try_to_unify_against_gop_extremism/"> <img alt="Texas Democrats try to unify against GOP “extremism”" src="https://external-preview.redd.it/Kz-KI9aGbfiou4FnSLJPgnuxLU3xEneLiOWoMoUv3NE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ad8e13163dccd585eb07e879145401235614e76" title="Texas Democrats try to unify against GOP “extremism”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VGAddict"> /u/VGAddict </a> <br /> <span><a href="https://www.texastribune.org/2024/06/08/texas-democratic-convention-biden-trump-immigration-israel-hamas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbqdiw/texas_democrats_try_to_unify_against_gop_extremism/">[comments]</a></span> </td></tr></table>
+
+## Businessman testifies he promised Bob Menendez up to $250,000 in bribes
+ - [https://www.reddit.com/r/politics/comments/1dbpqyw/businessman_testifies_he_promised_bob_menendez_up](https://www.reddit.com/r/politics/comments/1dbpqyw/businessman_testifies_he_promised_bob_menendez_up)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T09:21:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbpqyw/businessman_testifies_he_promised_bob_menendez_up/"> <img alt="Businessman testifies he promised Bob Menendez up to $250,000 in bribes" src="https://external-preview.redd.it/M5aB3RgritSQNqCedkVI_FFAHVEdsDSEKpJ4qMiLsNM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39d6f1341b162fd0100cde3b9c05506d61d97559" title="Businessman testifies he promised Bob Menendez up to $250,000 in bribes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/errie_tholluxe"> /u/errie_tholluxe </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/jun/08/jose-uribe-testifies-bob-menendez-trial">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbpqyw/businessman_testifies_he_promised_bob_menendez_up/">[comments]</a></span> </td></tr></table>
+
+## He can be president but he can’t be a nurse: The jobs Trump can’t get with felony convictions | Trump’s power and influence will help him avoid major hurdles facing millions of Americans with felony convictions trying to get back to work, Alex Woodward reports
+ - [https://www.reddit.com/r/politics/comments/1dbpajb/he_can_be_president_but_he_cant_be_a_nurse_the](https://www.reddit.com/r/politics/comments/1dbpajb/he_can_be_president_but_he_cant_be_a_nurse_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T08:48:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbpajb/he_can_be_president_but_he_cant_be_a_nurse_the/"> <img alt="He can be president but he can’t be a nurse: The jobs Trump can’t get with felony convictions | Trump’s power and influence will help him avoid major hurdles facing millions of Americans with felony convictions trying to get back to work, Alex Woodward reports" src="https://external-preview.redd.it/s4_VQZuLZUwJ2iRFq82otaPiOcEZptTagkuNfyjKmR4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ace8d6fe756995d91766131d2b557e0c147d2c58" title="He can be president but he can’t be a nurse: The jobs Trump can’t get with felony convictions | Trump’s power and influence will help him avoid major hurdles facing millions of Americans with felony convictions trying to get back to work, Alex Woodward reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.inde
+
+## Lara Trump’s RNC Convention Is Looking for Event Space at Rikers
+ - [https://www.reddit.com/r/politics/comments/1dblybq/lara_trumps_rnc_convention_is_looking_for_event](https://www.reddit.com/r/politics/comments/1dblybq/lara_trumps_rnc_convention_is_looking_for_event)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T05:04:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dblybq/lara_trumps_rnc_convention_is_looking_for_event/"> <img alt="Lara Trump’s RNC Convention Is Looking for Event Space at Rikers" src="https://external-preview.redd.it/Tj2zlFwaII1RAnnwMoDR6hZ-wZ5m9Uu9x66j6ADEtJA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f43b9153b326fbf1b2ffc274e7927a04f2bb8bc" title="Lara Trump’s RNC Convention Is Looking for Event Space at Rikers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GurOfTheTerraBytes"> /u/GurOfTheTerraBytes </a> <br /> <span><a href="https://newrepublic.com/post/182218/lara-trump-rnc-convention-trump-prison">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dblybq/lara_trumps_rnc_convention_is_looking_for_event/">[comments]</a></span> </td></tr></table>
+
+## Trump has promised mass raids and deportation if he wins the election. The ACLU is preparing to fight back.
+ - [https://www.reddit.com/r/politics/comments/1dblaqu/trump_has_promised_mass_raids_and_deportation_if](https://www.reddit.com/r/politics/comments/1dblaqu/trump_has_promised_mass_raids_and_deportation_if)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T04:24:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dblaqu/trump_has_promised_mass_raids_and_deportation_if/"> <img alt="Trump has promised mass raids and deportation if he wins the election. The ACLU is preparing to fight back." src="https://external-preview.redd.it/NBJGGQ-JMDs905MJY3rPIj492nNKrIdzzabF1B5V3yU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=24eca3ec5cbfdca6e5bcf62c0ddfde8d7fc21682" title="Trump has promised mass raids and deportation if he wins the election. The ACLU is preparing to fight back." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Various-Daikon8077"> /u/Various-Daikon8077 </a> <br /> <span><a href="https://www.pbs.org/newshour/politics/trump-has-promised-mass-raids-and-deportation-if-he-wins-the-election-the-aclu-is-preparing-to-fight-back">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dblaqu/trump_has_promised_mass_raids_and_deportation_if/">[comments]</a></span> </td
+
+## Nazi supporters attempt rally at SD State Capitol
+ - [https://www.reddit.com/r/politics/comments/1dbkidq/nazi_supporters_attempt_rally_at_sd_state_capitol](https://www.reddit.com/r/politics/comments/1dbkidq/nazi_supporters_attempt_rally_at_sd_state_capitol)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T03:37:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbkidq/nazi_supporters_attempt_rally_at_sd_state_capitol/"> <img alt="Nazi supporters attempt rally at SD State Capitol" src="https://external-preview.redd.it/MkEhhdrgPuDYzfG7s-XTrctJXxF2I9ypG39wCgN2Ebk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0685bd8b76f339666a14ccff452f5439b013dd59" title="Nazi supporters attempt rally at SD State Capitol" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hisho9"> /u/hisho9 </a> <br /> <span><a href="https://www.argusleader.com/story/news/2024/06/08/extremists-fly-nazi-flag-in-front-of-south-dakota-state-capitol/74032356007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbkidq/nazi_supporters_attempt_rally_at_sd_state_capitol/">[comments]</a></span> </td></tr></table>
+
+## Trump pitches himself as 'crypto president' at San Francisco tech fundraiser
+ - [https://www.reddit.com/r/politics/comments/1dbjg77/trump_pitches_himself_as_crypto_president_at_san](https://www.reddit.com/r/politics/comments/1dbjg77/trump_pitches_himself_as_crypto_president_at_san)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T02:39:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbjg77/trump_pitches_himself_as_crypto_president_at_san/"> <img alt="Trump pitches himself as 'crypto president' at San Francisco tech fundraiser" src="https://external-preview.redd.it/nz63BuOaFnW6WXhFf4sK4lDCwDqlyOBaStzS5_MUsQ4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14ec5ef32f86c2403fc4be6fb31a4a9c5b11a6d7" title="Trump pitches himself as 'crypto president' at San Francisco tech fundraiser" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/misointhekitchen"> /u/misointhekitchen </a> <br /> <span><a href="https://www.reuters.com/world/us/trump-pitches-himself-crypto-president-san-francisco-tech-fundraiser-2024-06-07/?utm_source=reddit.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbjg77/trump_pitches_himself_as_crypto_president_at_san/">[comments]</a></span> </td></tr></table>
+
+## Texas asks people to avoid using their cars
+ - [https://www.reddit.com/r/politics/comments/1dbje42/texas_asks_people_to_avoid_using_their_cars](https://www.reddit.com/r/politics/comments/1dbje42/texas_asks_people_to_avoid_using_their_cars)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T02:35:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbje42/texas_asks_people_to_avoid_using_their_cars/"> <img alt="Texas asks people to avoid using their cars" src="https://external-preview.redd.it/GPYEzusRZMISmSdH7moZExSimvRkpU2acR9cN9snE9A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1461b1bce092728581baf38b47a311dddd4e6be" title="Texas asks people to avoid using their cars" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mr-and-Mrs"> /u/Mr-and-Mrs </a> <br /> <span><a href="https://www.newsweek.com/texas-asks-people-avoid-using-their-cars-1909517">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbje42/texas_asks_people_to_avoid_using_their_cars/">[comments]</a></span> </td></tr></table>
+
+## U.S. Voter Support for Israeli Military Aid Reaches Wartime Low
+ - [https://www.reddit.com/r/politics/comments/1dbj8oh/us_voter_support_for_israeli_military_aid_reaches](https://www.reddit.com/r/politics/comments/1dbj8oh/us_voter_support_for_israeli_military_aid_reaches)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T02:27:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbj8oh/us_voter_support_for_israeli_military_aid_reaches/"> <img alt="U.S. Voter Support for Israeli Military Aid Reaches Wartime Low" src="https://external-preview.redd.it/uxW7K9KHol0218HB7TmivPKJIuuoG700rlGjgwyVyIc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=970ce27be464017d255134b22be5d7b27cd85b71" title="U.S. Voter Support for Israeli Military Aid Reaches Wartime Low" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/najumobi"> /u/najumobi </a> <br /> <span><a href="https://pro.morningconsult.com/analysis/israel-palestine-hamas-war-polling-may-2024">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbj8oh/us_voter_support_for_israeli_military_aid_reaches/">[comments]</a></span> </td></tr></table>
+
+## Alvin Bragg agrees to testify to Republicans in Congress after landing Trump guilty verdict | House Judiciary Chair Jim Jordan, a longtime Trump defender, demanded the testimony
+ - [https://www.reddit.com/r/politics/comments/1dbhvh2/alvin_bragg_agrees_to_testify_to_republicans_in](https://www.reddit.com/r/politics/comments/1dbhvh2/alvin_bragg_agrees_to_testify_to_republicans_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T01:12:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbhvh2/alvin_bragg_agrees_to_testify_to_republicans_in/"> <img alt="Alvin Bragg agrees to testify to Republicans in Congress after landing Trump guilty verdict | House Judiciary Chair Jim Jordan, a longtime Trump defender, demanded the testimony" src="https://external-preview.redd.it/I4NqoIvHtBekZcGEsaEidD1lNu__qmhTOdLPYcvZaUA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=82fd29309fef6c30093c0386f27ce01b158582b6" title="Alvin Bragg agrees to testify to Republicans in Congress after landing Trump guilty verdict | House Judiciary Chair Jim Jordan, a longtime Trump defender, demanded the testimony" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/alvin-bragg-testify-republicans-trump-verdict-b2559265.html">[link]</a></span> &#32; <span><a href="https://www.reddit.
+
+## 'Georgia Is Our Laboratory': Inside Trump's Plan to Rig 2024
+ - [https://www.reddit.com/r/politics/comments/1dbh35z/georgia_is_our_laboratory_inside_trumps_plan_to](https://www.reddit.com/r/politics/comments/1dbh35z/georgia_is_our_laboratory_inside_trumps_plan_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-09T00:31:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dbh35z/georgia_is_our_laboratory_inside_trumps_plan_to/"> <img alt="'Georgia Is Our Laboratory': Inside Trump's Plan to Rig 2024" src="https://external-preview.redd.it/sZwuJsK9qE2aycqMtjvzwjImLKIydQYSbT3mywJJrig.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4772129b6175bbb229303d0a1d9fba26a272e867" title="'Georgia Is Our Laboratory': Inside Trump's Plan to Rig 2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/croato87"> /u/croato87 </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-features/trump-georgia-laboratory-rig-2024-1235034510/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dbh35z/georgia_is_our_laboratory_inside_trumps_plan_to/">[comments]</a></span> </td></tr></table>
+
