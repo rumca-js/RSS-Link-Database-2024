@@ -1,0 +1,335 @@
+# Source:The Times of Israel, URL:https://www.timesofisrael.com/feed, language:en-US
+
+## Israel’s full offer said to include ‘permanent’ truce before all hostages return
+ - [https://www.timesofisrael.com/israels-full-offer-said-to-include-permanent-truce-before-all-hostages-return](https://www.timesofisrael.com/israels-full-offer-said-to-include-permanent-truce-before-all-hostages-return)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T20:54:07+00:00
+
+<p>Netanyahu's office calls Channel 12's expose on a four-page Israeli hostage release and ceasefire proposal incomplete and a 'total lie'</p>
+<p>The post <a href="https://www.timesofisrael.com/israels-full-offer-said-to-include-permanent-truce-before-all-hostages-return/">Israel’s full offer said to include ‘permanent’ truce before all hostages return</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2023/12/sinni-and-bibi-1024x640.jpg" title="Israel’s full offer said to include ‘permanent’ truce before all hostages return" width="160" /></figure>
+
+## Tense new footage shows troops rescuing three hostages from Gaza home
+ - [https://www.timesofisrael.com/dramatic-new-footage-shows-troops-rescuing-three-hostages-from-gaza-home](https://www.timesofisrael.com/dramatic-new-footage-shows-troops-rescuing-three-hostages-from-gaza-home)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T20:35:19+00:00
+
+<p>Yamam officers seen storming apartment in Nuseirat, identifying Almog Meir Jan, Andrey Kozlov, and Shlomi Ziv, then extricating them under fire</p>
+<p>The post <a href="https://www.timesofisrael.com/dramatic-new-footage-shows-troops-rescuing-three-hostages-from-gaza-home/">Tense new footage shows troops rescuing three hostages from Gaza home</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/vlcsnap-2024-06-10-22h51m24s378-1024x640.jpg" title="Tense new footage shows troops rescuing three hostages from Gaza home" width="160" /></figure>
+
+## Rescued hostages were beaten ‘almost every day,’ says doctor who treated them
+ - [https://www.timesofisrael.com/rescued-hostages-were-beaten-almost-every-day-says-doctor-who-treated-them](https://www.timesofisrael.com/rescued-hostages-were-beaten-almost-every-day-says-doctor-who-treated-them)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T20:16:31+00:00
+
+<p>Dr. Itai Pessach says captivity 'left a significant mark on their health,' with muscles wasted away and other bodily systems damaged</p>
+<p>The post <a href="https://www.timesofisrael.com/rescued-hostages-were-beaten-almost-every-day-says-doctor-who-treated-them/">Rescued hostages were beaten ‘almost every day,’ says doctor who treated them</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2020/09/ItaiPessachOnCamera-1024x640.jpg" title="Rescued hostages were beaten ‘almost every day,’ says doctor who treated them" width="160" /></figure>
+
+## IAF says over 150 enemy drones intercepted amid war, with challenges detecting them
+ - [https://www.timesofisrael.com/iaf-says-over-150-enemy-drones-intercepted-amid-war-with-challenges-detecting-them](https://www.timesofisrael.com/iaf-says-over-150-enemy-drones-intercepted-amid-war-with-challenges-detecting-them)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T19:48:33+00:00
+
+<p>Topography on Lebanon border, drones' short flight paths test Israeli air defenses; 19,000 unguided rockets fired at country since October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/iaf-says-over-150-enemy-drones-intercepted-amid-war-with-challenges-detecting-them/">IAF says over 150 enemy drones intercepted amid war, with challenges detecting them</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/AFP__20240415__34PH3WT__v1__HighRes__IsraelPalestinianIranConflict-1024x640.jpg" title="IAF says over 150 enemy drones intercepted amid war, with challenges detecting them" width="160" /></figure>
+
+## Yemen’s Houthis claim to nab US-Israeli spy network using aid agencies as cover
+ - [https://www.timesofisrael.com/yemens-houthis-claim-to-nab-us-israeli-spy-network-using-aid-agencies-as-cover](https://www.timesofisrael.com/yemens-houthis-claim-to-nab-us-israeli-spy-network-using-aid-agencies-as-cover)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T19:31:28+00:00
+
+<p>Iran-backed rebels say CIA-linked ring carried out espionage activities for years, a week after it announced arrest of 11 UN staff as part of crackdown on non-government bodies</p>
+<p>The post <a href="https://www.timesofisrael.com/yemens-houthis-claim-to-nab-us-israeli-spy-network-using-aid-agencies-as-cover/">Yemen&#8217;s Houthis claim to nab US-Israeli spy network using aid agencies as cover</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/AP24161400202043-e1718045045920-1024x640.jpg" title="Yemen&#8217;s Houthis claim to nab US-Israeli spy network using aid agencies as cover" width="160" /></figure>
+
+## Cpt. Kfir Itzhak Franco, 22: Recently engaged tank commander
+ - [https://www.timesofisrael.com/cpt-kfir-itzhak-franco-22-recently-engaged-tank-commander](https://www.timesofisrael.com/cpt-kfir-itzhak-franco-22-recently-engaged-tank-commander)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T19:26:47+00:00
+
+<p>Killed while battling against Hamas in the northern Gaza Strip on November 15</p>
+<p>The post <a href="https://www.timesofisrael.com/cpt-kfir-itzhak-franco-22-recently-engaged-tank-commander/">Cpt. Kfir Itzhak Franco, 22: Recently engaged tank commander</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/Untitled-design52-1024x640.jpg" title="Cpt. Kfir Itzhak Franco, 22: Recently engaged tank commander" width="160" /></figure>
+
+## Yulia Chaban, 24: Lover of animals was mother’s ‘bright star’
+ - [https://www.timesofisrael.com/yulia-chaban-24-lover-of-animals-was-mothers-bright-star](https://www.timesofisrael.com/yulia-chaban-24-lover-of-animals-was-mothers-bright-star)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T19:24:56+00:00
+
+<p>Murdered by Hamas terrorists at Zikim Beach on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/yulia-chaban-24-lover-of-animals-was-mothers-bright-star/">Yulia Chaban, 24: Lover of animals was mother&#8217;s &#8216;bright star&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/Untitled-design53-1024x640.jpg" title="Yulia Chaban, 24: Lover of animals was mother&#8217;s &#8216;bright star&#8217;" width="160" /></figure>
+
+## Widow of dead hostage says he would be alive if ‘heartless’ government had ended war
+ - [https://www.timesofisrael.com/widow-of-dead-hostage-says-he-would-be-alive-if-heartless-government-had-ended-war](https://www.timesofisrael.com/widow-of-dead-hostage-says-he-would-be-alive-if-heartless-government-had-ended-war)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T18:54:16+00:00
+
+<p>Tami Metzger, who was also abducted, assails ministers for not visiting after her release in November truce, while Netanyahu showed up at hospital to meet hostages rescued Saturday</p>
+<p>The post <a href="https://www.timesofisrael.com/widow-of-dead-hostage-says-he-would-be-alive-if-heartless-government-had-ended-war/">Widow of dead hostage says he would be alive if &#8216;heartless&#8217; government had ended war</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/AFP__20240610__34VV6RF__v1__HighRes__IsraelPalestinianConflictHostages-e1718041266906-1024x640.jpg" title="Widow of dead hostage says he would be alive if &#8216;heartless&#8217; government had ended war" width="160" /></figure>
+
+## Israel reprimands Slovenian envoy over Palestinian statehood recognition
+ - [https://www.timesofisrael.com/israel-reprimands-slovenian-envoy-over-palestinian-statehood-recognition](https://www.timesofisrael.com/israel-reprimands-slovenian-envoy-over-palestinian-statehood-recognition)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T18:46:45+00:00
+
+<p>Continuing online trolling campaign against countries recognizing Palestine, PM Katz posts AI image of Spanish leaders with egg on their face after EU election loss</p>
+<p>The post <a href="https://www.timesofisrael.com/israel-reprimands-slovenian-envoy-over-palestinian-statehood-recognition/">Israel reprimands Slovenian envoy over Palestinian statehood recognition</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/AFP__20240604__34V98H7__v6__HighRes__SloveniaLaunchesPalestineRecognitionProcedure-1024x640.jpg" title="Israel reprimands Slovenian envoy over Palestinian statehood recognition" width="160" /></figure>
+
+## Benefactors’ coats of arms revealed on early 20th century Jerusalem building
+ - [https://www.timesofisrael.com/benefactors-coats-of-arms-revealed-on-early-20th-century-jerusalem-building](https://www.timesofisrael.com/benefactors-coats-of-arms-revealed-on-early-20th-century-jerusalem-building)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T17:21:13+00:00
+
+<p>Images found during renovations of the Mt. Zion Hotel, previously a hospital; the donors, the subject of an upcoming exhibit, included King George V and Edward Cecil Guinness </p>
+<p>The post <a href="https://www.timesofisrael.com/benefactors-coats-of-arms-revealed-on-early-20th-century-jerusalem-building/">Benefactors’ coats of arms revealed on early 20th century Jerusalem building</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/5.איורי-סמלי-משפחות-האצולה-שהתגלו-על-קירות-בית-החולים.-ציור-אנסטסיה-פרוקופייבה-1024x640.jpg" title="Benefactors’ coats of arms revealed on early 20th century Jerusalem building" width="160" /></figure>
+
+## Far-right leaders slam Gantz’s exit from government, but hail ‘big opportunity’
+ - [https://www.timesofisrael.com/far-right-lawmakers-slam-gantzs-exit-from-government-but-hail-big-opportunity](https://www.timesofisrael.com/far-right-lawmakers-slam-gantzs-exit-from-government-but-hail-big-opportunity)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T17:19:33+00:00
+
+<p>Ben Gvir claims that in recent months the outgoing war cabinet minster's centrist party had 'put a spoke in the wheels of the war machine'</p>
+<p>The post <a href="https://www.timesofisrael.com/far-right-lawmakers-slam-gantzs-exit-from-government-but-hail-big-opportunity/">Far-right leaders slam Gantz&#8217;s exit from government, but hail &#8216;big opportunity&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/F231216NRF52-e1714406597534-1024x640.jpg" title="Far-right leaders slam Gantz&#8217;s exit from government, but hail &#8216;big opportunity&#8217;" width="160" /></figure>
+
+## Israeli man says he was assaulted in Barcelona over his Jewish identity
+ - [https://www.timesofisrael.com/israeli-man-says-he-was-assaulted-in-barcelona-over-his-jewish-identity](https://www.timesofisrael.com/israeli-man-says-he-was-assaulted-in-barcelona-over-his-jewish-identity)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T16:28:00+00:00
+
+<p>Yotam Eyal says a group of Arab men began taunting him after seeing his kippa, then one of them hit him on the head from behind</p>
+<p>The post <a href="https://www.timesofisrael.com/israeli-man-says-he-was-assaulted-in-barcelona-over-his-jewish-identity/">Israeli man says he was assaulted in Barcelona over his Jewish identity</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/Screenshot-2024-06-10-212220-1024x640.jpg" title="Israeli man says he was assaulted in Barcelona over his Jewish identity" width="160" /></figure>
+
+## Anticipating war with Hezbollah, Israel weakening Iranian proxies in Syria
+ - [https://www.timesofisrael.com/anticipating-war-with-hezbollah-israel-weakening-iranian-proxies-in-syria](https://www.timesofisrael.com/anticipating-war-with-hezbollah-israel-weakening-iranian-proxies-in-syria)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T16:25:45+00:00
+
+<p>The IDF has killed far more Islamic Revolutionary Guard and Hezbollah members in Lebanon and Syria since October 7 than it did before</p>
+<p>The post <a href="https://www.timesofisrael.com/anticipating-war-with-hezbollah-israel-weakening-iranian-proxies-in-syria/">Anticipating war with Hezbollah, Israel weakening Iranian proxies in Syria</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/AP24092585913218-1024x640.jpg" title="Anticipating war with Hezbollah, Israel weakening Iranian proxies in Syria" width="160" /></figure>
+
+## Tel Aviv moves up to 4th place in annual ranking of global tech ecosystems
+ - [https://www.timesofisrael.com/tel-aviv-moves-up-to-4th-place-in-annual-ranking-of-global-tech-ecosystems](https://www.timesofisrael.com/tel-aviv-moves-up-to-4th-place-in-annual-ranking-of-global-tech-ecosystems)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T16:06:22+00:00
+
+<p>In a year of political unrest and ongoing war, city climbs 1 spot in annual Startup Genome survey ranking; Silicon Valley maintains top spot followed by a tied New York and London</p>
+<p>The post <a href="https://www.timesofisrael.com/tel-aviv-moves-up-to-4th-place-in-annual-ranking-of-global-tech-ecosystems/">Tel Aviv moves up to 4th place in annual ranking of global tech ecosystems</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2022/07/iStock-1407171416-1024x640.jpg" title="Tel Aviv moves up to 4th place in annual ranking of global tech ecosystems" width="160" /></figure>
+
+## Rescued hostage’s mother urges deal with Hamas, says ‘I am one of the lucky ones’
+ - [https://www.timesofisrael.com/rescued-hostages-mother-urges-deal-with-hamas-says-i-am-one-of-the-lucky-ones](https://www.timesofisrael.com/rescued-hostages-mother-urges-deal-with-hamas-says-i-am-one-of-the-lucky-ones)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T15:27:23+00:00
+
+<p>Almog Meir Jan's mom asks government to approve deal, international community to pressure Hamas to accept it; says bond with fellow rescued captives sustained her son in Gaza</p>
+<p>The post <a href="https://www.timesofisrael.com/rescued-hostages-mother-urges-deal-with-hamas-says-i-am-one-of-the-lucky-ones/">Rescued hostage&#8217;s mother urges deal with Hamas, says &#8216;I am one of the lucky ones&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/F240610AVS103-1024x640.jpg" title="Rescued hostage&#8217;s mother urges deal with Hamas, says &#8216;I am one of the lucky ones&#8217;" width="160" /></figure>
+
+## US consulate in Sydney vandalized with suspected pro-Palestinian symbol
+ - [https://www.timesofisrael.com/us-consulate-in-sydney-vandalized-with-suspected-pro-palestinian-symbol](https://www.timesofisrael.com/us-consulate-in-sydney-vandalized-with-suspected-pro-palestinian-symbol)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T14:17:49+00:00
+
+<p>Australia's PM tells activists on both sides of Israel-Hamas war debate to 'turn the heat down' after windows smashed, two inverted triangles painted at front of building</p>
+<p>The post <a href="https://www.timesofisrael.com/us-consulate-in-sydney-vandalized-with-suspected-pro-palestinian-symbol/">US consulate in Sydney vandalized with suspected pro-Palestinian symbol</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/AP24162174673492-e1718026542835-1024x640.jpg" title="US consulate in Sydney vandalized with suspected pro-Palestinian symbol" width="160" /></figure>
+
+## Police raid Transportation Ministry offices amid probe of alleged corruption
+ - [https://www.timesofisrael.com/police-raid-transportation-ministry-offices-amid-probe-of-alleged-corruption](https://www.timesofisrael.com/police-raid-transportation-ministry-offices-amid-probe-of-alleged-corruption)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T13:39:16+00:00
+
+<p>Cops seize documents but don't say if Minister Miri Regev is a suspect; ministry dismisses allegations, insists officers are searching for files 'that don't exist'</p>
+<p>The post <a href="https://www.timesofisrael.com/police-raid-transportation-ministry-offices-amid-probe-of-alleged-corruption/">Police raid Transportation Ministry offices amid probe of alleged corruption</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/F240605YS110-1024x640.jpg" title="Police raid Transportation Ministry offices amid probe of alleged corruption" width="160" /></figure>
+
+## Hamas operatives said to have standing orders to kill hostages if IDF approaches
+ - [https://www.timesofisrael.com/hamas-operatives-said-to-have-standing-orders-to-kill-hostages-if-idf-approaches](https://www.timesofisrael.com/hamas-operatives-said-to-have-standing-orders-to-kill-hostages-if-idf-approaches)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T13:23:09+00:00
+
+<p>US officials cited by New York Times say American aircraft have been gathering intel on captives held by terrorists in Gaza since Oct. 7, catching details missed by Israeli drones</p>
+<p>The post <a href="https://www.timesofisrael.com/hamas-operatives-said-to-have-standing-orders-to-kill-hostages-if-idf-approaches/">Hamas operatives said to have standing orders to kill hostages if IDF approaches</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/AFP__20240608__34VX6NH__v3__HighRes__IsraelPalestinianConflictHostages-1024x640.jpg" title="Hamas operatives said to have standing orders to kill hostages if IDF approaches" width="160" /></figure>
+
+## Rescued hostages suffering from malnutrition, possibly Stockholm syndrome
+ - [https://www.timesofisrael.com/rescued-hostages-suffering-from-malnutrition-possibly-stockholm-syndrome](https://www.timesofisrael.com/rescued-hostages-suffering-from-malnutrition-possibly-stockholm-syndrome)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T13:08:05+00:00
+
+<p>Doctors at Sheba hospital say Noa Argamani, Shlomi Ziv, Almog Meir Jan, and Andrey Kolzov are constantly seeking each other for support</p>
+<p>The post <a href="https://www.timesofisrael.com/rescued-hostages-suffering-from-malnutrition-possibly-stockholm-syndrome/">Rescued hostages suffering from malnutrition, possibly Stockholm syndrome</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/Untitled-5-1-1024x640.jpeg" title="Rescued hostages suffering from malnutrition, possibly Stockholm syndrome" width="160" /></figure>
+
+## Gantz’s misguided departure: Gallant won’t follow him, and Netanyahu couldn’t care less
+ - [https://www.timesofisrael.com/gantzs-misguided-departure-gallant-wont-follow-him-and-netanyahu-couldnt-care-less](https://www.timesofisrael.com/gantzs-misguided-departure-gallant-wont-follow-him-and-netanyahu-couldnt-care-less)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T12:42:43+00:00
+
+<p>The National Unity leader was a vital presence in the war cabinet, and had no good reason to leave now; he's just empowered the far-right, with devastating potential consequences</p>
+<p>The post <a href="https://www.timesofisrael.com/gantzs-misguided-departure-gallant-wont-follow-him-and-netanyahu-couldnt-care-less/">Gantz&#8217;s misguided departure: Gallant won&#8217;t follow him, and Netanyahu couldn&#8217;t care less</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2023/12/F231216NRF72-1024x640.jpg" title="Gantz&#8217;s misguided departure: Gallant won&#8217;t follow him, and Netanyahu couldn&#8217;t care less" width="160" /></figure>
+
+## ‘Cynicism and demagoguery’: Hostage families clash with Smotrich, MKs in Knesset
+ - [https://www.timesofisrael.com/cynicism-and-demagoguery-hostage-families-clash-with-smotrich-mks-in-knesset](https://www.timesofisrael.com/cynicism-and-demagoguery-hostage-families-clash-with-smotrich-mks-in-knesset)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T12:39:53+00:00
+
+<p>Finance minister wonders aloud if families would sacrifice 20 other civilians for loved ones, as UTJ lawmaker accuses relative of wanting 'to make it political, to kick Bibi out'</p>
+<p>The post <a href="https://www.timesofisrael.com/cynicism-and-demagoguery-hostage-families-clash-with-smotrich-mks-in-knesset/">&#8216;Cynicism and demagoguery&#8217;: Hostage families clash with Smotrich, MKs in Knesset</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/F240610CG17-1024x640.jpg" title="&#8216;Cynicism and demagoguery&#8217;: Hostage families clash with Smotrich, MKs in Knesset" width="160" /></figure>
+
+## Northern home damaged by Hezbollah anti-tank missiles as IDF downs drones over sea
+ - [https://www.timesofisrael.com/northern-home-damaged-by-hezbollah-anti-tank-missiles-as-idf-downs-drones-over-sea](https://www.timesofisrael.com/northern-home-damaged-by-hezbollah-anti-tank-missiles-as-idf-downs-drones-over-sea)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T12:39:42+00:00
+
+<p>Lebanese terror group claims responsibility as sirens blare in northern towns; military probing failed drone interception near Cabri; video shows interceptor missiles over Acre</p>
+<p>The post <a href="https://www.timesofisrael.com/northern-home-damaged-by-hezbollah-anti-tank-missiles-as-idf-downs-drones-over-sea/">Northern home damaged by Hezbollah anti-tank missiles as IDF downs drones over sea</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/WhatsApp-Image-2024-06-10-at-11.59.02-1024x640.jpeg" title="Northern home damaged by Hezbollah anti-tank missiles as IDF downs drones over sea" width="160" /></figure>
+
+## Massive wall tapestry mimics piles of books at new National Library
+ - [https://www.timesofisrael.com/massive-wall-tapestry-mimics-piles-of-books-at-new-national-library](https://www.timesofisrael.com/massive-wall-tapestry-mimics-piles-of-books-at-new-national-library)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T12:18:40+00:00
+
+<p>Yael Cnaani's pillow-like wall covers some 598 square yards, echoing building's exterior stone walls</p>
+<p>The post <a href="https://www.timesofisrael.com/massive-wall-tapestry-mimics-piles-of-books-at-new-national-library/">Massive wall tapestry mimics piles of books at new National Library</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/Gray-days-1024x640.jpg" title="Massive wall tapestry mimics piles of books at new National Library" width="160" /></figure>
+
+## Germans say far-right AfD lacks legitimacy, even after its European Parliament gains
+ - [https://www.timesofisrael.com/despite-european-parliament-gains-germans-say-the-far-right-still-lacks-legitimacy](https://www.timesofisrael.com/despite-european-parliament-gains-germans-say-the-far-right-still-lacks-legitimacy)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T12:11:07+00:00
+
+<p>Amid a nationalist swell, AfD rises 5 percentage points but remains too controversial for widespread public support - even for some small-town sympathizers</p>
+<p>The post <a href="https://www.timesofisrael.com/despite-european-parliament-gains-germans-say-the-far-right-still-lacks-legitimacy/">Germans say far-right AfD lacks legitimacy, even after its European Parliament gains</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/AFP__20240609__34W3827__v1__HighRes__GermanyEuVotePartiesAfd-1024x640.jpg" title="Germans say far-right AfD lacks legitimacy, even after its European Parliament gains" width="160" /></figure>
+
+## Daily Briefing June 10: Day 248 – Gantz busts up war coalition after not achieving goals
+ - [https://www.timesofisrael.com/daily-briefing-june-10-day-248-gantz-busts-up-war-coalition-after-not-achieving-goals](https://www.timesofisrael.com/daily-briefing-june-10-day-248-gantz-busts-up-war-coalition-after-not-achieving-goals)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T11:46:11+00:00
+
+<p>Zman Yisrael editor Biranit Goren on an IDF draft bill in the wake of the coalition shake-up; military reporter Emanuel Fabian with more updates on the army's rescue of 4 Israelis</p>
+<p>The post <a href="https://www.timesofisrael.com/daily-briefing-june-10-day-248-gantz-busts-up-war-coalition-after-not-achieving-goals/">Daily Briefing June 10: Day 248 &#8211; Gantz busts up war coalition after not achieving goals</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/AFP__20240609__34W44P4__v1__HighRes__IsraelAtWarInGazaAfterHamasLaunchesSurpriseAtta-1024x640.jpg" title="Daily Briefing June 10: Day 248 &#8211; Gantz busts up war coalition after not achieving goals" width="160" /></figure>
+
+## Blinken to visit Egypt, Israel to push Gaza deal; report: US may seek private accord
+ - [https://www.timesofisrael.com/blinken-to-visit-egypt-israel-to-push-gaza-deal-report-us-may-seek-private-accord](https://www.timesofisrael.com/blinken-to-visit-egypt-israel-to-push-gaza-deal-report-us-may-seek-private-accord)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T11:40:37+00:00
+
+<p>NBC says Washington could negotiate release of 5 American hostages if talks fail; US diplomat will also make stops in Jordan and Qatar, stress importance of persuading Hamas</p>
+<p>The post <a href="https://www.timesofisrael.com/blinken-to-visit-egypt-israel-to-push-gaza-deal-report-us-may-seek-private-accord/">Blinken to visit Egypt, Israel to push Gaza deal; report: US may seek private accord</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/AP24161572385278-e1718005540178-1024x640.jpg" title="Blinken to visit Egypt, Israel to push Gaza deal; report: US may seek private accord" width="160" /></figure>
+
+## Israel ‘has alternatives’ to suspended Colombian coal, says electric company
+ - [https://www.timesofisrael.com/israel-has-alternatives-to-suspended-colombian-coal-says-electric-company](https://www.timesofisrael.com/israel-has-alternatives-to-suspended-colombian-coal-says-electric-company)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T11:23:00+00:00
+
+<p>Latin American country supplies more than half of Israel's coal; IEC negotiating with alternative suppliers to 'increase room for maneuver'</p>
+<p>The post <a href="https://www.timesofisrael.com/israel-has-alternatives-to-suspended-colombian-coal-says-electric-company/">Israel &#8216;has alternatives&#8217; to suspended Colombian coal, says electric company</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/F080909CL27-1024x640.jpg" title="Israel &#8216;has alternatives&#8217; to suspended Colombian coal, says electric company" width="160" /></figure>
+
+## Far-right Polish politician who doused Hanukkah candles wins EU Parliament seat
+ - [https://www.timesofisrael.com/far-right-polish-politician-who-doused-hanukkah-candles-wins-eu-parliament-seat](https://www.timesofisrael.com/far-right-polish-politician-who-doused-hanukkah-candles-wins-eu-parliament-seat)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T11:22:58+00:00
+
+<p>Grzegorz Braun was a candidate for Confederation party, which has had its best-ever results in European Union elections amid sway to the right</p>
+<p>The post <a href="https://www.timesofisrael.com/far-right-polish-politician-who-doused-hanukkah-candles-wins-eu-parliament-seat/">Far-right Polish politician who doused Hanukkah candles wins EU Parliament seat</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2023/12/347Q77E-highres-e1702411881311-1024x640.jpg" title="Far-right Polish politician who doused Hanukkah candles wins EU Parliament seat" width="160" /></figure>
+
+## Mainstream groups remain dominant despite far-right’s major gains in EU election
+ - [https://www.timesofisrael.com/mainstream-groups-remain-dominant-despite-far-rights-major-gains-in-eu-election](https://www.timesofisrael.com/mainstream-groups-remain-dominant-despite-far-rights-major-gains-in-eu-election)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T09:50:16+00:00
+
+<p>Christian Democrats, Socialists ahead in 27-country vote; Macron trounced by Le Pen; Italian PM almost doubles seats; German extreme right defeats chancellor's Social Democrats</p>
+<p>The post <a href="https://www.timesofisrael.com/mainstream-groups-remain-dominant-despite-far-rights-major-gains-in-eu-election/">Mainstream groups remain dominant despite far-right&#8217;s major gains in EU election</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/AFP__20240609__34W62Z8__v1__HighRes__FranceEuPoliticsRn-1024x640.jpg" title="Mainstream groups remain dominant despite far-right&#8217;s major gains in EU election" width="160" /></figure>
+
+## Knesset to vote on reviving Haredi IDF bill in bid to put off High Court intervention
+ - [https://www.timesofisrael.com/knesset-to-vote-on-reviving-haredi-idf-bill-in-bid-to-put-off-high-court-intervention](https://www.timesofisrael.com/knesset-to-vote-on-reviving-haredi-idf-bill-in-bid-to-put-off-high-court-intervention)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T09:49:06+00:00
+
+<p>Bill to lower exemption age and encourage limited enlistment expected to be moved to committee to placate justices on long-stalled issue -- but there it will face intense opposition</p>
+<p>The post <a href="https://www.timesofisrael.com/knesset-to-vote-on-reviving-haredi-idf-bill-in-bid-to-put-off-high-court-intervention/">Knesset to vote on reviving Haredi IDF bill in bid to put off High Court intervention</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2014/08/F130722YS01-e1407244848204-1024x640.jpg" title="Knesset to vote on reviving Haredi IDF bill in bid to put off High Court intervention" width="160" /></figure>
+
+## 6:25 October 7th was a morning like any other. 5 minutes later Nitai and 11 others were fighting for their lives - Sponsored Content
+ - [https://www.jgive.com/new/en/ils/donation-targets/124918/about](https://www.jgive.com/new/en/ils/donation-targets/124918/about)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T09:28:04+00:00
+
+<p>Nitai was on the front lines on October 7th, fighting for hours with little ammunition, protecting thousands. Now he wants to run a marathon to help children with special needs. Every dollar counts. </p>
+<p>The post <a href="https://www.timesofisrael.com/spotlight/625-october-7th-was-a-morning-like-any-other-5-minutes-later-nitai-and-11-others-were-fighting-for-their-lives/">6:25 October 7th was a morning like any other. 5 minutes later Nitai and 11 others were fighting for their lives</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/רקע-אנגלית-1024x640.jpg" title="6:25 October 7th was a morning like any other. 5 minutes later Nitai and 11 others were fighting for their lives" width="160" /></figure>
+
+## Sotheby’s to auction Shem Tov Bible scribed by the medieval scholar
+ - [https://www.timesofisrael.com/sothebys-to-auction-shem-tov-bible-scribed-by-medieval-scholar](https://www.timesofisrael.com/sothebys-to-auction-shem-tov-bible-scribed-by-medieval-scholar)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T07:10:37+00:00
+
+<p>The 1312 manuscript will be displayed at the auction house this month and again in September before it is sold</p>
+<p>The post <a href="https://www.timesofisrael.com/sothebys-to-auction-shem-tov-bible-scribed-by-medieval-scholar/">Sotheby&#8217;s to auction Shem Tov Bible scribed by the medieval scholar</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/download-1024x640.jpg" title="Sotheby&#8217;s to auction Shem Tov Bible scribed by the medieval scholar" width="160" /></figure>
+
+## UN food organization halts aid to Gaza via US pier due to security concerns
+ - [https://www.timesofisrael.com/un-food-organization-halts-aid-to-gaza-via-us-pier-due-to-security-concerns](https://www.timesofisrael.com/un-food-organization-halts-aid-to-gaza-via-us-pier-due-to-security-concerns)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T05:57:34+00:00
+
+<p>Two of the aid group's warehouses were struck by rockets on Saturday, leading it to pause operations for a security review</p>
+<p>The post <a href="https://www.timesofisrael.com/un-food-organization-halts-aid-to-gaza-via-us-pier-due-to-security-concerns/">UN food organization halts aid to Gaza via US pier due to security concerns</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/WhatsApp_Image_2024-04-15_at_23.00.59-1024x640.jpeg" title="UN food organization halts aid to Gaza via US pier due to security concerns" width="160" /></figure>
+
+## Hamas operatives have standing orders to kill hostages if they think IDF is coming – NYT
+ - [https://www.timesofisrael.com/liveblog-june-10-2024](https://www.timesofisrael.com/liveblog-june-10-2024)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T03:28:05+00:00
+
+<p>Report: US considering deal with Hamas, without Israel, to free 5 American hostages * Gallant expected to vote against Haredi draft exemption bill tonight</p>
+<p>The post <a href="https://www.timesofisrael.com/liveblog-june-10-2024/">Hamas operatives have standing orders to kill hostages if they think IDF is coming &#8211; NYT</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/vlcsnap-2024-06-09-17h44m02s590-1024x640.jpg" title="Hamas operatives have standing orders to kill hostages if they think IDF is coming &#8211; NYT" width="160" /></figure>
+
+## In first, Hezbollah tries to down fighter jets as border fighting further ratchets up
+ - [https://www.timesofisrael.com/in-first-hezbollah-tries-to-down-fighter-jets-as-border-fighting-further-ratchets-up](https://www.timesofisrael.com/in-first-hezbollah-tries-to-down-fighter-jets-as-border-fighting-further-ratchets-up)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T03:02:41+00:00
+
+<p>IDF says it struck cell that launched the anti-aircraft missiles; sirens sound early Monday in Acre, Haifa suburb as interceptors fired at 'suspicious aerial target' from Lebanon</p>
+<p>The post <a href="https://www.timesofisrael.com/in-first-hezbollah-tries-to-down-fighter-jets-as-border-fighting-further-ratchets-up/">In first, Hezbollah tries to down fighter jets as border fighting further ratchets up</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/AFP__20240516__34RP93F__v1__HighRes__IsraelLebanonPalestinianConflict-e1717988003765-1024x640.jpg" title="In first, Hezbollah tries to down fighter jets as border fighting further ratchets up" width="160" /></figure>
+
+## White House denounces ‘repugnant’ pro-Hamas rhetoric at DC protest against Israel
+ - [https://www.timesofisrael.com/white-house-denounces-repugnant-pro-hamas-rhetoric-at-dc-protest-against-israel](https://www.timesofisrael.com/white-house-denounces-repugnant-pro-hamas-rhetoric-at-dc-protest-against-israel)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T02:01:07+00:00
+
+<p>'Where is the outrage?' fumes ADL chief after demonstration outside White House that included calls to kill Zionists -- 'aka the overwhelming majority of American Jews'</p>
+<p>The post <a href="https://www.timesofisrael.com/white-house-denounces-repugnant-pro-hamas-rhetoric-at-dc-protest-against-israel/">White House denounces &#8216;repugnant&#8217; pro-Hamas rhetoric at DC protest against Israel</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/Untitled-1-1024x640.jpg" title="White House denounces &#8216;repugnant&#8217; pro-Hamas rhetoric at DC protest against Israel" width="160" /></figure>
+
+## US resumes airdrops of humanitarian assistance into northern Gaza
+ - [https://www.timesofisrael.com/us-resumes-airdrops-of-humanitarian-assistance-into-northern-gaza](https://www.timesofisrael.com/us-resumes-airdrops-of-humanitarian-assistance-into-northern-gaza)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-10T00:55:21+00:00
+
+<p>Resumption of aid shipments by air comes day after deliveries also restarted at US-built pier that was damaged by bad weather</p>
+<p>The post <a href="https://www.timesofisrael.com/us-resumes-airdrops-of-humanitarian-assistance-into-northern-gaza/">US resumes airdrops of humanitarian assistance into northern Gaza</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/04/AP24097307636570-1024x640.jpg" title="US resumes airdrops of humanitarian assistance into northern Gaza" width="160" /></figure>
+
