@@ -1,0 +1,26 @@
+# Source:9to5Linux News, URL:https://9to5linux.com/category/news/feed, language:en-US
+
+## Proton 9.0-2 Brings Support for Alpha League, Helldivers 2, and Other Games
+ - [https://9to5linux.com/proton-9-0-2-brings-support-for-alpha-league-helldivers-2-and-other-games](https://9to5linux.com/proton-9-0-2-brings-support-for-alpha-league-helldivers-2-and-other-games)
+ - RSS feed: https://9to5linux.com/category/news/feed
+ - date published: 2024-06-12T18:29:27+00:00
+
+<p>Proton 9.0-2 is now available with support for the Alpha League, Helldivers 2, Black Desert Online, FreestyleFootball R, Hero's Land, Iragon, SimCity 3000 Unlimited, Warlords Battlecry III, and Battlezone Gold Edition in VR mode games.</p>
+<p>The post <a href="https://9to5linux.com/proton-9-0-2-brings-support-for-alpha-league-helldivers-2-and-other-games">Proton 9.0-2 Brings Support for Alpha League, Helldivers 2, and Other Games</a> appeared first on <a href="https://9to5linux.com">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>
+
+## Firefox 128 Enters Beta Testing with a Revamped Dialog for Clearing User Data
+ - [https://9to5linux.com/firefox-128-enters-beta-testing-with-a-revamped-dialog-for-clearing-user-data](https://9to5linux.com/firefox-128-enters-beta-testing-with-a-revamped-dialog-for-clearing-user-data)
+ - RSS feed: https://9to5linux.com/category/news/feed
+ - date published: 2024-06-12T14:28:24+00:00
+
+<p>Mozilla Firefox 128 open-source web browser is now available for public beta testing with a revamped dialog for clearing user data, as well as other changes. Here's what to expect from the final release in July!</p>
+<p>The post <a href="https://9to5linux.com/firefox-128-enters-beta-testing-with-a-revamped-dialog-for-clearing-user-data">Firefox 128 Enters Beta Testing with a Revamped Dialog for Clearing User Data</a> appeared first on <a href="https://9to5linux.com">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>
+
+## openSUSE Leap 15.6 Officially Released, Here’s What’s New
+ - [https://9to5linux.com/opensuse-leap-15-6-officially-released-heres-whats-new](https://9to5linux.com/opensuse-leap-15-6-officially-released-heres-whats-new)
+ - RSS feed: https://9to5linux.com/category/news/feed
+ - date published: 2024-06-12T12:17:11+00:00
+
+<p>openSUSE Leap 15.6 operating system is now available for download powered by Linux kernel 6.4 and featuring KDE Plasma 5.27.11 and GNOME 45.</p>
+<p>The post <a href="https://9to5linux.com/opensuse-leap-15-6-officially-released-heres-whats-new">openSUSE Leap 15.6 Officially Released, Here&#8217;s What&#8217;s New</a> appeared first on <a href="https://9to5linux.com">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>
+

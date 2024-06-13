@@ -1,0 +1,66 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed, language:en-US
+
+## Boy gives unapproved patriotic “Make School Great Again” speech, his school expells him AND his little sisters
+ - [https://www.louderwithcrowder.com/jimmy-heyward-bonaventure-expelled](https://www.louderwithcrowder.com/jimmy-heyward-bonaventure-expelled)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-06-12T21:47:52+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=52448306&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C202%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>At one point in American history, saying something like “make school great” was not controversial. But the culture loathes anything supportive of American excellence, especially regarding education because Math is racist. But a middle schooler in California didn't get the memo, as he was just suspended over his “Make School Great Again” speech. </p><p><a href="https://www.louderwithcrowder.com/saint-bonaventure-catholic-school-flock" target="_self"><u>Jimmy Heyward ran for Commissioner </u></a>of School Spirit and Patriotism at Saint Bonaventure Catholic S
+
+## Watch: Oakland church burglarized EIGHT TIMES since April, left without water, electricity, or furniture
+ - [https://www.louderwithcrowder.com/oakland-church-burglarized](https://www.louderwithcrowder.com/oakland-church-burglarized)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-06-12T21:37:28+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.webp?id=52448135&amp;width=1200&amp;height=800&amp;coordinates=56%2C0%2C56%2C0" /><br /><br /><p>For some reason, when Progressives start running things, <a href="https://www.dailymail.co.uk/news/article-13313035/Woke-Soros-funded-Oakland-DA-Pamela-Price-face-recall-vote.html" rel="noopener noreferrer" target="_blank"><u>criminality </u></a>becomes rampant. It also does not help that Oakland's woke DA refuses to prosecute this little thing called “crime.” And when you don’t hold people accountable, you get rampant lawlessness, as officials refuse to accept the fact that prosecution has a direct result on reductivism. </p><p>In eight separate instances, Mountain Of Fire and Miracles Ministries church in Oakland has fallen victim to that. Not once, not twice, but eight times they have been burglarized SINCE APRIL. In other words, nearly EVERY WEEK the church has been robbed. THAT IS INSANE!!!</p><div class="rm-embed embed-m
+
+## 24 Hour Fitness says YES to flying Pride flags all year long. American flags? Not so much...
+ - [https://www.louderwithcrowder.com/hour-fitness-pride](https://www.louderwithcrowder.com/hour-fitness-pride)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-06-12T21:36:14+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=52448289&amp;width=1200&amp;height=800&amp;coordinates=100%2C0%2C100%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>No other group is pandered to as much as the alphabet mob, especially considering no other group gets a flag dedicated to their preferences. And given that this flag is so insignificant, you would assume that that would be the one flag corporations would restrict, but it’s actually the only flag they want to glorify. </p><p>A memo has revealed that 24 Hour Fitness allows its employees to wear pride attire all year round, while anything related to America is restricted solely for holidays, because of gay rights or something. </p><p>This is also further pr
+
+## Turns out the fake meat created by Vegan companies is linked to heart disease: study
+ - [https://www.louderwithcrowder.com/vegan-meat-bad](https://www.louderwithcrowder.com/vegan-meat-bad)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-06-12T19:22:00+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=52447718&amp;width=1200&amp;height=600&amp;coordinates=0%2C1008%2C0%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Vegans like to pretend that food that humans have been eating for nearly all of human history is somehow bad for you, even though it wasn’t until the 1950s that heart disease became the leading cause of death. Nonetheless, vegans still like to claim that meat is bad for you, even though it's not. But what makes that claim even more insane is that some even believe that processed, fake vegan meat is not only good for you but <a href="https://vegnews.com/vegan-news/beyond-meat-heart-disease-study" rel="noopener noreferrer" target="_blank"><u>better </u></a>
+
+## LA neighborhood removes common "No U-Turn" signs because, apparently, they were anti-gay or something
+ - [https://www.louderwithcrowder.com/no-u-turn-anti-gay](https://www.louderwithcrowder.com/no-u-turn-anti-gay)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-06-12T17:20:54+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=52445365&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C0%2C1" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>Restricting u-turns is now homophobic, and at this point, it would probably be a lot easier if the powers that be provided a list of all the things that are not anti-gay. </p><p>Silver Lake, a neighborhood in the City of Los Angeles known for its high hipster population, has officially taken down the last two “No U-turn” signs because they were supposedly put in place to prevent gay men from “cruising” and picking up other gay men.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">“No U-Turn” Signs were installed with “No Cruising” signs
+
+## Watch: Hunter Biden IS Above the Law (And We Have the Facts to Prove It)
+ - [https://www.louderwithcrowder.com/biden-gun-charges-guilty](https://www.louderwithcrowder.com/biden-gun-charges-guilty)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-06-12T16:27:01+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.webp?id=52445269&amp;width=1200&amp;height=800&amp;coordinates=97%2C0%2C98%2C0" /><br /><br /><p>Hunter Biden was found guilty yesterday on three felony gun charges. Does this mean no one is above the law? Today’s show breaks it down. </p><p>"He has been treated like a Biden, which means he is above the law," Crowder said. “He has gotten favorable plea bargains across the board.”</p><div class="rm-embed embed-media"></div><p>According to <a href="https://abcnews.go.com/US/hunter-biden-indicted-special-counsel-felony-gun-charges/story?id=103168312" target="_blank"><u><em><em>ABC News:</em></em></u></a><br /></p><blockquote>The charges bring renewed legal pressure on the younger Biden after a plea agreement he struck with prosecutors imploded in recent months.<br /><br />
+The younger Biden has been charged with two counts related to false statements in purchasing the firearm and a third count of illegally obtaining a firear
+
+## Watching this pro-Hamas protestor get snatched by cops mid-sentence is the funniest video you'll see this week
+ - [https://www.louderwithcrowder.com/ucla-palestine-protestor](https://www.louderwithcrowder.com/ucla-palestine-protestor)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-06-12T13:24:23+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=52444665&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C80" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>There are days when one f*cks around. There are days when one finds out. And on those days when one finds out, please have your smartphone handy because these videos are like content from heaven. Yesterday, cops snatched a pro-Hamas protestor mid-sentence, and the over/under for how many times you will watch it over and over again in one sitting is thirty-seven.</p><p>The location is UCLA. As we've seen every day since October 8th on college campuses that aren't across America as much as they are located in cities run by progressives, the Future Democrat St
+
+## Joey Chestnut, America's (former) greatest living athlete, sells out with vegan hotdogs, gets banned from July 4th eating contest
+ - [https://www.louderwithcrowder.com/joey-chestnut-impossible-hot-dogs](https://www.louderwithcrowder.com/joey-chestnut-impossible-hot-dogs)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-06-12T11:41:53+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=52443324&amp;width=1200&amp;height=800&amp;coordinates=114%2C0%2C86%2C0" /><br /><br /><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><p>You might as well cancel the Fourth of July. Joey Chestnut, who until yesterday was America's greatest living athlete (I guess it's Caitlyn Clark now), will NOT be competing in Nathans's annual hotdog eating contest. The 16-time world champion—that's more than Michael Jordan and Tom Brady combined—has been banned from competing after he signed with a VEGAN "meat" brand.  Proving the old adage that you either die a hero, or live long enough to see yourself become a villain.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Joey Chesnut
+
+## Sources: Hunter Biden IS Above the Law & We Have the Facts to Prove It
+ - [https://www.louderwithcrowder.com/sources-june-12-2024](https://www.louderwithcrowder.com/sources-june-12-2024)
+ - RSS feed: https://louderwithcrowder.com/feed
+ - date published: 2024-06-12T10:53:00+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=52444796&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C120" /><br /><br /><p>Former Vice President Joe Biden's son Hunter Biden was found guilty in a Delaware court yesterday on three felonies in a federal gun trial, but not child sex crimes nor prostitution nor narcotics crimes, proving once and for all that no one is above the law, the majority of Americans officially want mass deportations of illegals, we’ve got the stats to illustrate why building the wall is cost-effective, and more! </p><p><em>Subscribe to Louder with Crowder on Rumble! Download the app on <a href="https://apps.apple.com/us/app/rumble/id1518427877" target="_blank">Apple</a> and <a href="https://play.google.com/store/apps/details?id=com.rumble.battles" target="_blank">Google Play</a>.</em></p><div class="rm-embed embed-media"></div><p><strong>HUNTER VERDICT: NO ONE IS ABOVE THE LAW!</strong><br /></p><ul><li><a href="https://www.yo
+
