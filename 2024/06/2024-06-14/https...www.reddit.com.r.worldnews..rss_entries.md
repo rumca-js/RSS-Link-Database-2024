@@ -1,0 +1,317 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## US designates Nordic neo-Nazi group as terrorists
+ - [https://www.reddit.com/r/worldnews/comments/1dg2kxo/us_designates_nordic_neonazi_group_as_terrorists](https://www.reddit.com/r/worldnews/comments/1dg2kxo/us_designates_nordic_neonazi_group_as_terrorists)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T22:04:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dg2kxo/us_designates_nordic_neonazi_group_as_terrorists/"> <img alt="US designates Nordic neo-Nazi group as terrorists" src="https://external-preview.redd.it/LX4pk8fzNvxL2HKwBVHjqaGb_nv-prPuxQ0jlAtiNMg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=126e67b59c2b8b559db37d32014f92d53501d9eb" title="US designates Nordic neo-Nazi group as terrorists" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/veerhees"> /u/veerhees </a> <br /> <span><a href="https://edition.cnn.com/2024/06/14/politics/us-designates-nordic-neo-nazi-group-terrorists/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dg2kxo/us_designates_nordic_neonazi_group_as_terrorists/">[comments]</a></span> </td></tr></table>
+
+## Zelensky says Putin's ultimatum on peace talks is a revival of Nazism
+ - [https://www.reddit.com/r/worldnews/comments/1dg1hkj/zelensky_says_putins_ultimatum_on_peace_talks_is](https://www.reddit.com/r/worldnews/comments/1dg1hkj/zelensky_says_putins_ultimatum_on_peace_talks_is)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T21:14:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dg1hkj/zelensky_says_putins_ultimatum_on_peace_talks_is/"> <img alt="Zelensky says Putin's ultimatum on peace talks is a revival of Nazism" src="https://external-preview.redd.it/WXP7psRs0IHIdynvbZiQmoef0mhgIqeam83MdfjWy8o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4818760f19b96963e496ee6897a4e90e1f1ec31" title="Zelensky says Putin's ultimatum on peace talks is a revival of Nazism" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/riwnodennyk"> /u/riwnodennyk </a> <br /> <span><a href="https://kyivindependent.com/a-complete-sham-ukraine-responds-to-putins-ceasefire-demands/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dg1hkj/zelensky_says_putins_ultimatum_on_peace_talks_is/">[comments]</a></span> </td></tr></table>
+
+## EU ambassadors agree on framework for Ukraine and Moldova accession talks
+ - [https://www.reddit.com/r/worldnews/comments/1dfzw5t/eu_ambassadors_agree_on_framework_for_ukraine_and](https://www.reddit.com/r/worldnews/comments/1dfzw5t/eu_ambassadors_agree_on_framework_for_ukraine_and)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T20:04:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfzw5t/eu_ambassadors_agree_on_framework_for_ukraine_and/"> <img alt="EU ambassadors agree on framework for Ukraine and Moldova accession talks" src="https://external-preview.redd.it/W56MOTKRH_P12zNIPqXd2hg_d3W7PJdAxCDLofs894w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c25d132947a50b88a4a0de32494d2c6e1e66205b" title="EU ambassadors agree on framework for Ukraine and Moldova accession talks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pravda_UA"> /u/Pravda_UA </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/06/14/7460868/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfzw5t/eu_ambassadors_agree_on_framework_for_ukraine_and/">[comments]</a></span> </td></tr></table>
+
+## Almost 700,000 Russian troops are fighting in Ukraine, Russian President Vladimir Putin said
+ - [https://www.reddit.com/r/worldnews/comments/1dfzqvp/almost_700000_russian_troops_are_fighting_in](https://www.reddit.com/r/worldnews/comments/1dfzqvp/almost_700000_russian_troops_are_fighting_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T19:58:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfzqvp/almost_700000_russian_troops_are_fighting_in/"> <img alt="Almost 700,000 Russian troops are fighting in Ukraine, Russian President Vladimir Putin said" src="https://external-preview.redd.it/IZwbNtBvQfZqHZs_oNuVvoEI3Dh5NLVwdrS3nPqdCTk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=21ebc643b1a17d419c3187b33b0ae80f3587b416" title="Almost 700,000 Russian troops are fighting in Ukraine, Russian President Vladimir Putin said" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Carla_DFW"> /u/Carla_DFW </a> <br /> <span><a href="https://kyivindependent.com/putin-claims-russia-700-000-soldiers-in-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfzqvp/almost_700000_russian_troops_are_fighting_in/">[comments]</a></span> </td></tr></table>
+
+## Canada's Defence Minister Bill Blair says more help coming for Ukraine, Latvia
+ - [https://www.reddit.com/r/worldnews/comments/1dfy2jt/canadas_defence_minister_bill_blair_says_more](https://www.reddit.com/r/worldnews/comments/1dfy2jt/canadas_defence_minister_bill_blair_says_more)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T18:43:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfy2jt/canadas_defence_minister_bill_blair_says_more/"> <img alt="Canada's Defence Minister Bill Blair says more help coming for Ukraine, Latvia" src="https://external-preview.redd.it/z9qUvaMH2AxBp77NhSYeGMITANlV-qEPIMUokyT5UjM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=85c960f65d85c03f3cf866d963891e8081dad1dc" title="Canada's Defence Minister Bill Blair says more help coming for Ukraine, Latvia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yimmy51"> /u/yimmy51 </a> <br /> <span><a href="https://www.ctvnews.ca/canada/canada-s-defence-minister-bill-blair-says-more-help-coming-for-ukraine-latvia-1.6926687">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfy2jt/canadas_defence_minister_bill_blair_says_more/">[comments]</a></span> </td></tr></table>
+
+## Politico: Belarus supplied arms to Azerbaijan in 'betrayal' to Armenia
+ - [https://www.reddit.com/r/worldnews/comments/1dfwvbr/politico_belarus_supplied_arms_to_azerbaijan_in](https://www.reddit.com/r/worldnews/comments/1dfwvbr/politico_belarus_supplied_arms_to_azerbaijan_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T17:51:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfwvbr/politico_belarus_supplied_arms_to_azerbaijan_in/"> <img alt="Politico: Belarus supplied arms to Azerbaijan in 'betrayal' to Armenia" src="https://external-preview.redd.it/Kb2HOclOJZDvb8lfJV0psC6hyp-aDvf6iZauPyinoc0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7db7a1a15864b872ca0fb52dfdc28c7fdbf2183d" title="Politico: Belarus supplied arms to Azerbaijan in 'betrayal' to Armenia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DavidofSasun"> /u/DavidofSasun </a> <br /> <span><a href="https://kyivindependent.com/politico-belarus-supplied-arms-to-azerbaijan-o-armenias/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfwvbr/politico_belarus_supplied_arms_to_azerbaijan_in/">[comments]</a></span> </td></tr></table>
+
+## Moscow plays hardball with New Delhi over Indians recruited into Russian military for Ukraine war
+ - [https://www.reddit.com/r/worldnews/comments/1dfvdkf/moscow_plays_hardball_with_new_delhi_over_indians](https://www.reddit.com/r/worldnews/comments/1dfvdkf/moscow_plays_hardball_with_new_delhi_over_indians)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T16:46:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfvdkf/moscow_plays_hardball_with_new_delhi_over_indians/"> <img alt="Moscow plays hardball with New Delhi over Indians recruited into Russian military for Ukraine war" src="https://external-preview.redd.it/Ihp38aYNFMCanCx79wzDH7jQew5_CDY5P7SKIs_4c2Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5fbf78217086b27b2cd1a8edbcdb0cfd3a9a7232" title="Moscow plays hardball with New Delhi over Indians recruited into Russian military for Ukraine war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ClassOptimal7655"> /u/ClassOptimal7655 </a> <br /> <span><a href="https://theprint.in/defence/moscow-plays-hardball-with-new-delhi-over-indians-recruited-into-russian-military-for-ukraine-war/2131073/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfvdkf/moscow_plays_hardball_with_new_delhi_over_indians/">[comments]</a></span> </td></tr></table>
+
+## Russia may store 100 nuclear warheads in Kaliningrad Oblast, Polish FM claims
+ - [https://www.reddit.com/r/worldnews/comments/1dfv1l2/russia_may_store_100_nuclear_warheads_in](https://www.reddit.com/r/worldnews/comments/1dfv1l2/russia_may_store_100_nuclear_warheads_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T16:32:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfv1l2/russia_may_store_100_nuclear_warheads_in/"> <img alt="Russia may store 100 nuclear warheads in Kaliningrad Oblast, Polish FM claims" src="https://external-preview.redd.it/5oZgaEWabQaw1DwlTDqEkz2w4jzHZ2KO5DWyaXRFVF0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5662f71b8498075445b0437a9c1b7d3dc339b994" title="Russia may store 100 nuclear warheads in Kaliningrad Oblast, Polish FM claims" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ubcstaffer123"> /u/ubcstaffer123 </a> <br /> <span><a href="https://kyivindependent.com/russia-may-store-100-nuclear-warheads-in-kaliningrad-oblast-polish-fm-claims/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfv1l2/russia_may_store_100_nuclear_warheads_in/">[comments]</a></span> </td></tr></table>
+
+## Seoul claims Pyongyang has sent almost 5 million artillery shells to Russia
+ - [https://www.reddit.com/r/worldnews/comments/1dfto6a/seoul_claims_pyongyang_has_sent_almost_5_million](https://www.reddit.com/r/worldnews/comments/1dfto6a/seoul_claims_pyongyang_has_sent_almost_5_million)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T15:33:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfto6a/seoul_claims_pyongyang_has_sent_almost_5_million/"> <img alt="Seoul claims Pyongyang has sent almost 5 million artillery shells to Russia" src="https://external-preview.redd.it/vYu9AKdzcAzee2c-ozbey_YqijG2VswiRSBSo_SbjtA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b36534841ca3adf84d10e269718ae5fdb130e286" title="Seoul claims Pyongyang has sent almost 5 million artillery shells to Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/duckanroll"> /u/duckanroll </a> <br /> <span><a href="https://novayagazeta.eu/articles/2024/06/14/seoul-claims-pyongyang-has-sent-almost-five-million-artillery-shells-to-russia-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfto6a/seoul_claims_pyongyang_has_sent_almost_5_million/">[comments]</a></span> </td></tr></table>
+
+## Singh says report shows some Canadian MPs are ‘traitors to the country,’ accuses Trudeau of accepting foreign interference
+ - [https://www.reddit.com/r/worldnews/comments/1dfthvf/singh_says_report_shows_some_canadian_mps_are](https://www.reddit.com/r/worldnews/comments/1dfthvf/singh_says_report_shows_some_canadian_mps_are)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T15:25:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfthvf/singh_says_report_shows_some_canadian_mps_are/"> <img alt="Singh says report shows some Canadian MPs are ‘traitors to the country,’ accuses Trudeau of accepting foreign interference" src="https://external-preview.redd.it/rULe_PF0sSbkYNuwme9XI0zIHbrPf-pjpKMPOA9iaWk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6646e2a800de281895fd0540304f360b911e1b1" title="Singh says report shows some Canadian MPs are ‘traitors to the country,’ accuses Trudeau of accepting foreign interference" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CaliperLee62"> /u/CaliperLee62 </a> <br /> <span><a href="https://www.theglobeandmail.com/politics/article-ndps-jagmeet-singh-says-classified-version-of-foreign-interference/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfthvf/singh_says_report_shows_some_canadian_mps_are/">[comments]</a></span> </td></tr></table
+
+## France's leftist alliance leaders vow to 'extinguish the flame' of far right in upcoming elections
+ - [https://www.reddit.com/r/worldnews/comments/1dft2la/frances_leftist_alliance_leaders_vow_to](https://www.reddit.com/r/worldnews/comments/1dft2la/frances_leftist_alliance_leaders_vow_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T15:07:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dft2la/frances_leftist_alliance_leaders_vow_to/"> <img alt="France's leftist alliance leaders vow to 'extinguish the flame' of far right in upcoming elections" src="https://external-preview.redd.it/5dERk9tHrYzZcUJZ3bZ-GrZnkmK9mphRRqmscLUAWQQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f235ebf56890fc6f06d1c9ccbe9f568348075fdc" title="France's leftist alliance leaders vow to 'extinguish the flame' of far right in upcoming elections" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scarlet-Ivy"> /u/Scarlet-Ivy </a> <br /> <span><a href="https://apnews.com/article/france-snap-election-left-coalition-popular-front-7a729edf607c147c4689022b70ad63cb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dft2la/frances_leftist_alliance_leaders_vow_to/">[comments]</a></span> </td></tr></table>
+
+## Israel seizes $35 million from Palestinian Authority funds
+ - [https://www.reddit.com/r/worldnews/comments/1dfss6j/israel_seizes_35_million_from_palestinian](https://www.reddit.com/r/worldnews/comments/1dfss6j/israel_seizes_35_million_from_palestinian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T14:55:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfss6j/israel_seizes_35_million_from_palestinian/"> <img alt="Israel seizes $35 million from Palestinian Authority funds" src="https://external-preview.redd.it/stVtuAlDkBcfBM7N3oezSWmUy7DsPiPh3dOFSmEsVDE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80d17f51b9af030870eb3762bb66746b40c703a1" title="Israel seizes $35 million from Palestinian Authority funds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IWantMyJustDesserts"> /u/IWantMyJustDesserts </a> <br /> <span><a href="https://english.ahram.org.eg/NewsContent/58/1262/525495/War-on-Gaza/War-on-Gaza/Israel-seizes--million-from-Palestinian-Authority-.aspx">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfss6j/israel_seizes_35_million_from_palestinian/">[comments]</a></span> </td></tr></table>
+
+## Russian officials privately admit that their chances of preventing an Armenian exit from the Moscow-led Collective Security Treaty Organization (CSTO) are slim, The Moscow Times reports.
+ - [https://www.reddit.com/r/worldnews/comments/1dfsrt4/russian_officials_privately_admit_that_their](https://www.reddit.com/r/worldnews/comments/1dfsrt4/russian_officials_privately_admit_that_their)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T14:55:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfsrt4/russian_officials_privately_admit_that_their/"> <img alt="Russian officials privately admit that their chances of preventing an Armenian exit from the Moscow-led Collective Security Treaty Organization (CSTO) are slim, The Moscow Times reports." src="https://external-preview.redd.it/dZJQOOWSlh6Pdng_Do3faUkRavYLC1qurbjlVEaXD90.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=344507242e64d4a239f5af77269e121c28af0f1a" title="Russian officials privately admit that their chances of preventing an Armenian exit from the Moscow-led Collective Security Treaty Organization (CSTO) are slim, The Moscow Times reports." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/juniperblossomss"> /u/juniperblossomss </a> <br /> <span><a href="https://www.themoscowtimes.com/2024/06/14/russia-reckons-with-loss-of-regional-influence-as-armenia-eyes-exit-from-moscow-led-military-bloc-a85402">[link]</a></s
+
+## Finland will host a NATO land command and troops
+ - [https://www.reddit.com/r/worldnews/comments/1dfs8n1/finland_will_host_a_nato_land_command_and_troops](https://www.reddit.com/r/worldnews/comments/1dfs8n1/finland_will_host_a_nato_land_command_and_troops)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T14:31:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfs8n1/finland_will_host_a_nato_land_command_and_troops/"> <img alt="Finland will host a NATO land command and troops" src="https://external-preview.redd.it/s5QK7zLkha7xs4C_og3X3UhISi-y_K3Xcj0eb7k8I94.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e200df1d3915c897cdc14add1cf1378603be660" title="Finland will host a NATO land command and troops" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EEVERSTI"> /u/EEVERSTI </a> <br /> <span><a href="https://www.reuters.com/world/europe/finland-will-host-nato-land-command-troops-2024-06-14/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfs8n1/finland_will_host_a_nato_land_command_and_troops/">[comments]</a></span> </td></tr></table>
+
+## Lockheed offers Polish industry a seat at its rocket launcher table
+ - [https://www.reddit.com/r/worldnews/comments/1dfruvk/lockheed_offers_polish_industry_a_seat_at_its](https://www.reddit.com/r/worldnews/comments/1dfruvk/lockheed_offers_polish_industry_a_seat_at_its)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T14:14:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfruvk/lockheed_offers_polish_industry_a_seat_at_its/"> <img alt="Lockheed offers Polish industry a seat at its rocket launcher table" src="https://external-preview.redd.it/2wxQRiM_DEp9uKfy7-nlM-FTo-x5iWF_jAsPj38ekL4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d40a070b8a4f79f348a1ac8604c25e8be1927340" title="Lockheed offers Polish industry a seat at its rocket launcher table" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alien_P3rsp3ktiv"> /u/Alien_P3rsp3ktiv </a> <br /> <span><a href="https://www.defensenews.com/industry/2024/06/11/lockheed-offers-polish-industry-a-seat-at-its-rocket-launcher-table/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfruvk/lockheed_offers_polish_industry_a_seat_at_its/">[comments]</a></span> </td></tr></table>
+
+## U.S. considers taking down Gaza aid pier citing weather concerns - report - I24NEWS
+ - [https://www.reddit.com/r/worldnews/comments/1dfrso5/us_considers_taking_down_gaza_aid_pier_citing](https://www.reddit.com/r/worldnews/comments/1dfrso5/us_considers_taking_down_gaza_aid_pier_citing)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T14:11:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfrso5/us_considers_taking_down_gaza_aid_pier_citing/"> <img alt="U.S. considers taking down Gaza aid pier citing weather concerns - report - I24NEWS" src="https://external-preview.redd.it/qvKkr9PCIwBJPjQDza1PCryQ-SLzAKE99QH2QsBMgTU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d001d18ed1cd841a7954c6577866f2e63a2d0bc5" title="U.S. considers taking down Gaza aid pier citing weather concerns - report - I24NEWS" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yuri_2022"> /u/yuri_2022 </a> <br /> <span><a href="https://www.i24news.tv/en/news/israel-at-war/artc-u-s-considers-taking-down-gaza-aid-pier-citing-weather-concerns-report">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfrso5/us_considers_taking_down_gaza_aid_pier_citing/">[comments]</a></span> </td></tr></table>
+
+## Ukraine rejects Putin’s ‘absurd’ peace conditions
+ - [https://www.reddit.com/r/worldnews/comments/1dfreb1/ukraine_rejects_putins_absurd_peace_conditions](https://www.reddit.com/r/worldnews/comments/1dfreb1/ukraine_rejects_putins_absurd_peace_conditions)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T13:54:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfreb1/ukraine_rejects_putins_absurd_peace_conditions/"> <img alt="Ukraine rejects Putin’s ‘absurd’ peace conditions" src="https://external-preview.redd.it/-xBLZBzmZ12OZxPOm9u5h3H1BjRxxrFbCgmOphfXQLA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db56c754b1ba0389c359bbc4e44f0c6ae743ea6e" title="Ukraine rejects Putin’s ‘absurd’ peace conditions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LyricWhisper"> /u/LyricWhisper </a> <br /> <span><a href="https://www.france24.com/en/europe/20240614-ukraine-rejects-putin-absurd-peace-conditions-russia-war">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfreb1/ukraine_rejects_putins_absurd_peace_conditions/">[comments]</a></span> </td></tr></table>
+
+## Vietnam Seeks to Gradually Expand Security, Defense Ties With US
+ - [https://www.reddit.com/r/worldnews/comments/1dfr6sr/vietnam_seeks_to_gradually_expand_security](https://www.reddit.com/r/worldnews/comments/1dfr6sr/vietnam_seeks_to_gradually_expand_security)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T13:44:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfr6sr/vietnam_seeks_to_gradually_expand_security/"> <img alt="Vietnam Seeks to Gradually Expand Security, Defense Ties With US" src="https://external-preview.redd.it/2ap-7uFoRBEuWXAXCSBDAZWz395rrXnDWHER0N2elLw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f9acd1912c3202173e0ac88e206aa93aa737a3ab" title="Vietnam Seeks to Gradually Expand Security, Defense Ties With US" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AUnknownGuy"> /u/AUnknownGuy </a> <br /> <span><a href="https://www.bnnbloomberg.ca/vietnam-seeks-to-gradually-expand-security-defense-ties-with-us-1.2085145">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfr6sr/vietnam_seeks_to_gradually_expand_security/">[comments]</a></span> </td></tr></table>
+
+## NATO to take greater role coordinating military aid for Kyiv, says Stoltenberg
+ - [https://www.reddit.com/r/worldnews/comments/1dfqvii/nato_to_take_greater_role_coordinating_military](https://www.reddit.com/r/worldnews/comments/1dfqvii/nato_to_take_greater_role_coordinating_military)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T13:29:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfqvii/nato_to_take_greater_role_coordinating_military/"> <img alt="NATO to take greater role coordinating military aid for Kyiv, says Stoltenberg" src="https://external-preview.redd.it/9DYhiDjAmLwrPPYJER7qCR45U0Jr5GpGP9yXACmh4xQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=accfb80fb8408945fc34d3be3365b91c4823c205" title="NATO to take greater role coordinating military aid for Kyiv, says Stoltenberg" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Embire"> /u/Embire </a> <br /> <span><a href="https://www.reuters.com/world/europe/nato-take-greater-role-coordination-military-aid-kyiv-says-stoltenberg-2024-06-14/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfqvii/nato_to_take_greater_role_coordinating_military/">[comments]</a></span> </td></tr></table>
+
+## Putin names ceasefire demands, including Kyiv's complete withdrawal from four Ukrainian regions
+ - [https://www.reddit.com/r/worldnews/comments/1dfquuq/putin_names_ceasefire_demands_including_kyivs](https://www.reddit.com/r/worldnews/comments/1dfquuq/putin_names_ceasefire_demands_including_kyivs)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T13:28:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfquuq/putin_names_ceasefire_demands_including_kyivs/"> <img alt="Putin names ceasefire demands, including Kyiv's complete withdrawal from four Ukrainian regions" src="https://external-preview.redd.it/tq5LEmI_pzvsyNjp_r_UEnTrMBasrZXi6Y6W5T5YlwA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c916fa6e1a1c3aeb3b6f54b57f99834d4fd7e36f" title="Putin names ceasefire demands, including Kyiv's complete withdrawal from four Ukrainian regions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_Franklin"> /u/Red_Franklin </a> <br /> <span><a href="https://kyivindependent.com/putin-names-ceasefire-demands-full-ukrainian-withdrawal-from-four-oblasts/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfquuq/putin_names_ceasefire_demands_including_kyivs/">[comments]</a></span> </td></tr></table>
+
+## Pentagon ran secret anti-vax campaign to incite fear of China vaccines
+ - [https://www.reddit.com/r/worldnews/comments/1dfpie0/pentagon_ran_secret_antivax_campaign_to_incite](https://www.reddit.com/r/worldnews/comments/1dfpie0/pentagon_ran_secret_antivax_campaign_to_incite)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T12:21:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfpie0/pentagon_ran_secret_antivax_campaign_to_incite/"> <img alt="Pentagon ran secret anti-vax campaign to incite fear of China vaccines" src="https://external-preview.redd.it/qP6_nIOhJUbxWIA22LK-gCBW-O9Ta6WiFrEXqnr8vFk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=59e1bb16c93e358fefa54d3bcbdd3b39883c97a4" title="Pentagon ran secret anti-vax campaign to incite fear of China vaccines" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/untamedlazyeye"> /u/untamedlazyeye </a> <br /> <span><a href="https://www.reuters.com/investigates/special-report/usa-covid-propaganda/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfpie0/pentagon_ran_secret_antivax_campaign_to_incite/">[comments]</a></span> </td></tr></table>
+
+## North Korea could send up to 5 million artillery shells to Russia – South Korea
+ - [https://www.reddit.com/r/worldnews/comments/1dfp48v/north_korea_could_send_up_to_5_million_artillery](https://www.reddit.com/r/worldnews/comments/1dfp48v/north_korea_could_send_up_to_5_million_artillery)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T11:59:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfp48v/north_korea_could_send_up_to_5_million_artillery/"> <img alt="North Korea could send up to 5 million artillery shells to Russia – South Korea" src="https://external-preview.redd.it/xGZT0bzL2JDFQTYKq3yMEi6aVHiQsbCIV_0cfAREGxA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be839c1637c55ee714347f6454d786b6d163d89b" title="North Korea could send up to 5 million artillery shells to Russia – South Korea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pravda_UA"> /u/Pravda_UA </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/06/14/7460760/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfp48v/north_korea_could_send_up_to_5_million_artillery/">[comments]</a></span> </td></tr></table>
+
+## ‘Russia has to pay’: G7 taps Moscow’s frozen assets in support of Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1dfp373/russia_has_to_pay_g7_taps_moscows_frozen_assets](https://www.reddit.com/r/worldnews/comments/1dfp373/russia_has_to_pay_g7_taps_moscows_frozen_assets)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T11:58:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfp373/russia_has_to_pay_g7_taps_moscows_frozen_assets/"> <img alt="‘Russia has to pay’: G7 taps Moscow’s frozen assets in support of Ukraine" src="https://external-preview.redd.it/CdzZw8UJJ0SYSwOXywvi3NAYT2isrqUK3-WitEm_p1Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=24044d08c4400e16317b7c87a72ec63a91d07d6e" title="‘Russia has to pay’: G7 taps Moscow’s frozen assets in support of Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CaffeinCandyX"> /u/CaffeinCandyX </a> <br /> <span><a href="https://www.cnbc.com/2024/06/14/russia-has-to-pay-g7-taps-moscows-frozen-assets-in-support-of-ukraine.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfp373/russia_has_to_pay_g7_taps_moscows_frozen_assets/">[comments]</a></span> </td></tr></table>
+
+## Putin says West's 'theft' of Russia's assets will not go unpunished
+ - [https://www.reddit.com/r/worldnews/comments/1dformc/putin_says_wests_theft_of_russias_assets_will_not](https://www.reddit.com/r/worldnews/comments/1dformc/putin_says_wests_theft_of_russias_assets_will_not)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T11:39:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dformc/putin_says_wests_theft_of_russias_assets_will_not/"> <img alt="Putin says West's 'theft' of Russia's assets will not go unpunished" src="https://external-preview.redd.it/y_JgWWH5A_YmTpghwFq4i-fP-SpxljJvTmWoQtYddKQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b8cad249f79f6749cf8043ccff06424fe8a49d35" title="Putin says West's 'theft' of Russia's assets will not go unpunished" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FijiWaterIsDelicious"> /u/FijiWaterIsDelicious </a> <br /> <span><a href="https://www.channelnewsasia.com/world/putin-west-russia-assets-war-ukraine-g7-4410701">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dformc/putin_says_wests_theft_of_russias_assets_will_not/">[comments]</a></span> </td></tr></table>
+
+## Putin pledges a ceasefire in Ukraine if Kyiv withdraws from occupied regions and drops NATO bid
+ - [https://www.reddit.com/r/worldnews/comments/1dfo3m1/putin_pledges_a_ceasefire_in_ukraine_if_kyiv](https://www.reddit.com/r/worldnews/comments/1dfo3m1/putin_pledges_a_ceasefire_in_ukraine_if_kyiv)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T10:58:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfo3m1/putin_pledges_a_ceasefire_in_ukraine_if_kyiv/"> <img alt="Putin pledges a ceasefire in Ukraine if Kyiv withdraws from occupied regions and drops NATO bid" src="https://external-preview.redd.it/oJG5unHmxEpCeWMoeNDVpdceaVO3jDy-6ay-Y1_vbVM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62fdd178236affab60665f23b1e7ec92dc9643ff" title="Putin pledges a ceasefire in Ukraine if Kyiv withdraws from occupied regions and drops NATO bid" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BigDaddy0790"> /u/BigDaddy0790 </a> <br /> <span><a href="https://www.ctvnews.ca/world/putin-pledges-a-ceasefire-in-ukraine-if-kyiv-withdraws-from-occupied-regions-and-drops-nato-bid-1.6926626">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfo3m1/putin_pledges_a_ceasefire_in_ukraine_if_kyiv/">[comments]</a></span> </td></tr></table>
+
+## Putin says ‘theft’ of Russian assets in G7 deal for Ukraine won’t go unpunished
+ - [https://www.reddit.com/r/worldnews/comments/1dfny2o/putin_says_theft_of_russian_assets_in_g7_deal_for](https://www.reddit.com/r/worldnews/comments/1dfny2o/putin_says_theft_of_russian_assets_in_g7_deal_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T10:47:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfny2o/putin_says_theft_of_russian_assets_in_g7_deal_for/"> <img alt="Putin says ‘theft’ of Russian assets in G7 deal for Ukraine won’t go unpunished" src="https://external-preview.redd.it/zFcR1YRtAJfUusamf2IDt-RAHvo_mvAm13sOJTzocHI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f4c918da5887f75ac9b6f4c2828d054e1cddccc" title="Putin says ‘theft’ of Russian assets in G7 deal for Ukraine won’t go unpunished" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theipaper"> /u/theipaper </a> <br /> <span><a href="https://inews.co.uk/news/world/putin-theft-russian-assets-ukraine-g7-unpunished-3110314">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfny2o/putin_says_theft_of_russian_assets_in_g7_deal_for/">[comments]</a></span> </td></tr></table>
+
+## Hamas admits they don’t know how many hostages are still alive
+ - [https://www.reddit.com/r/worldnews/comments/1dfnj1w/hamas_admits_they_dont_know_how_many_hostages_are](https://www.reddit.com/r/worldnews/comments/1dfnj1w/hamas_admits_they_dont_know_how_many_hostages_are)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T10:19:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfnj1w/hamas_admits_they_dont_know_how_many_hostages_are/"> <img alt="Hamas admits they don’t know how many hostages are still alive" src="https://external-preview.redd.it/TPNy8zOLwCuNxlyfFOxx1LPmJbkjIT8OAuSx7CmntI8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=555b724733a122ea4c51ee9c51ba32cf6f99819e" title="Hamas admits they don’t know how many hostages are still alive" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/world-news/2024/06/14/hamas-admits-they-dont-know-how-many-hostages-still-alive/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfnj1w/hamas_admits_they_dont_know_how_many_hostages_are/">[comments]</a></span> </td></tr></table>
+
+## Cubans queue for hours to peek inside Russia’s ‘very nice’ warships
+ - [https://www.reddit.com/r/worldnews/comments/1dfng7v/cubans_queue_for_hours_to_peek_inside_russias](https://www.reddit.com/r/worldnews/comments/1dfng7v/cubans_queue_for_hours_to_peek_inside_russias)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T10:14:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfng7v/cubans_queue_for_hours_to_peek_inside_russias/"> <img alt="Cubans queue for hours to peek inside Russia’s ‘very nice’ warships" src="https://external-preview.redd.it/3hJxzP82P0epUyES9yDaCNZ0GlgTaNQ2HVU-wYrPE34.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a47efd4e77f905fb9543d5f0a421bcc11ff70419" title="Cubans queue for hours to peek inside Russia’s ‘very nice’ warships" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theipaper"> /u/theipaper </a> <br /> <span><a href="https://inews.co.uk/news/world/cuba-queue-hours-russia-warships-3110368">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfng7v/cubans_queue_for_hours_to_peek_inside_russias/">[comments]</a></span> </td></tr></table>
+
+## China #MeToo activist is sentenced to 5 years in prison
+ - [https://www.reddit.com/r/worldnews/comments/1dfn16q/china_metoo_activist_is_sentenced_to_5_years_in](https://www.reddit.com/r/worldnews/comments/1dfn16q/china_metoo_activist_is_sentenced_to_5_years_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T09:45:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfn16q/china_metoo_activist_is_sentenced_to_5_years_in/"> <img alt="China #MeToo activist is sentenced to 5 years in prison" src="https://external-preview.redd.it/T-P-T3dfNC5kD-sAGoSsPexND5YfifCpgV4aFa01LY8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=679a3d9f95c389c86696eec8c7d86c9c6c53384b" title="China #MeToo activist is sentenced to 5 years in prison" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br /> <span><a href="https://www.nbcnews.com/news/world/china-metoo-activist-sentenced-5-years-prison-rcna157136">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfn16q/china_metoo_activist_is_sentenced_to_5_years_in/">[comments]</a></span> </td></tr></table>
+
+## Once in the thick of a debt crisis, Greece now leads the bloc’s growth as the country repays its multi-billion-dollar loans ahead of time
+ - [https://www.reddit.com/r/worldnews/comments/1dfn0k7/once_in_the_thick_of_a_debt_crisis_greece_now](https://www.reddit.com/r/worldnews/comments/1dfn0k7/once_in_the_thick_of_a_debt_crisis_greece_now)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T09:44:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfn0k7/once_in_the_thick_of_a_debt_crisis_greece_now/"> <img alt="Once in the thick of a debt crisis, Greece now leads the bloc’s growth as the country repays its multi-billion-dollar loans ahead of time" src="https://external-preview.redd.it/rKdvTsxxAi0tHeA1sdwP-kq0TWmW92YPQOhwoh7C1T8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=15a6fbadfa2e74d0f5a152173828ecd71d2e6fe5" title="Once in the thick of a debt crisis, Greece now leads the bloc’s growth as the country repays its multi-billion-dollar loans ahead of time" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fuelerion"> /u/fuelerion </a> <br /> <span><a href="https://fortune.com/europe/2024/06/13/economic-basket-debt-crisis-greece-is-now-repaying-its-multi-billion-dollar-loans-ahead-of-time-european-union/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfn0k7/once_in_the_thick_of_a_debt_cr
+
+## ‘What is Hamas waiting for?’: Palestinians in Gaza beg terror group to take truce deal
+ - [https://www.reddit.com/r/worldnews/comments/1dfn0bz/what_is_hamas_waiting_for_palestinians_in_gaza](https://www.reddit.com/r/worldnews/comments/1dfn0bz/what_is_hamas_waiting_for_palestinians_in_gaza)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T09:43:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfn0bz/what_is_hamas_waiting_for_palestinians_in_gaza/"> <img alt="‘What is Hamas waiting for?’: Palestinians in Gaza beg terror group to take truce deal" src="https://external-preview.redd.it/sVvGDzQopuuFNCJSyiSTTKRY6O5O6YkIoRewc-aQEf0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=942deb5dfa9e0a11621930fe0c99b6a09a9c95a3" title="‘What is Hamas waiting for?’: Palestinians in Gaza beg terror group to take truce deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br /> <span><a href="https://www.timesofisrael.com/what-is-hamas-waiting-for-palestinians-in-gaza-beg-terror-group-to-take-truce-deal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfn0bz/what_is_hamas_waiting_for_palestinians_in_gaza/">[comments]</a></span> </td></tr></table>
+
+## These cities are now so expensive they’re considered ‘impossibly unaffordable’ | CNN Business
+ - [https://www.reddit.com/r/worldnews/comments/1dfmg2b/these_cities_are_now_so_expensive_theyre](https://www.reddit.com/r/worldnews/comments/1dfmg2b/these_cities_are_now_so_expensive_theyre)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T09:03:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfmg2b/these_cities_are_now_so_expensive_theyre/"> <img alt="These cities are now so expensive they’re considered ‘impossibly unaffordable’ | CNN Business" src="https://external-preview.redd.it/fLI4lCAAkYv_1rIE9EtecaNPQcZrPjV0VyMVB7ALf6U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=531ba82c7f20500e621df7fbf7e611538e91a7f6" title="These cities are now so expensive they’re considered ‘impossibly unaffordable’ | CNN Business" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Impossible_Piano_29"> /u/Impossible_Piano_29 </a> <br /> <span><a href="https://www.cnn.com/2024/06/14/business/house-prices-impossibly-unaffordable-intl-hnk?cid=ios_app">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfmg2b/these_cities_are_now_so_expensive_theyre/">[comments]</a></span> </td></tr></table>
+
+## ‘Will not be tolerated’: Australian War Memorial defaced with pro-Palestine graffiti
+ - [https://www.reddit.com/r/worldnews/comments/1dfm5zv/will_not_be_tolerated_australian_war_memorial](https://www.reddit.com/r/worldnews/comments/1dfm5zv/will_not_be_tolerated_australian_war_memorial)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T08:42:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfm5zv/will_not_be_tolerated_australian_war_memorial/"> <img alt="‘Will not be tolerated’: Australian War Memorial defaced with pro-Palestine graffiti" src="https://external-preview.redd.it/H8AbY9M7BtfnpaBCjkYNC3Z3oV3f-sXtDvFY2iTzkQw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3788d5b93892a35e233f1f098575f65a7e1e3bdb" title="‘Will not be tolerated’: Australian War Memorial defaced with pro-Palestine graffiti" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Forsaken-Duck-8142"> /u/Forsaken-Duck-8142 </a> <br /> <span><a href="https://www.skynews.com.au/australia-news/crime/will-not-be-tolerated-act-police-on-the-hunt-for-brazen-graffiti-artist-who-defaced-war-memorial-with-propalestine-slogans/news-story/20e24da9e19690c7ca45c74baffecea8?amp&amp;nk=52a08bed97987badaad38fb7cbc68ace-1718354526">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfm5z
+
+## US and South Korea sound warning amid reports Putin is headed to North Korea
+ - [https://www.reddit.com/r/worldnews/comments/1dfltno/us_and_south_korea_sound_warning_amid_reports](https://www.reddit.com/r/worldnews/comments/1dfltno/us_and_south_korea_sound_warning_amid_reports)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T08:17:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfltno/us_and_south_korea_sound_warning_amid_reports/"> <img alt="US and South Korea sound warning amid reports Putin is headed to North Korea" src="https://external-preview.redd.it/VTVdMMHUfXA99SZESr-IQ8sO2ap0W2K2IrnKS1Guu70.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=68c07f5daef7b23b29ad0ae945103fd73e668d8a" title="US and South Korea sound warning amid reports Putin is headed to North Korea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Advanced_Drink_8536"> /u/Advanced_Drink_8536 </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/jun/14/vladimir-putin-north-korea-visit-us-south-korea-ukraine-war-weapons">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfltno/us_and_south_korea_sound_warning_amid_reports/">[comments]</a></span> </td></tr></table>
+
+## Cars and houses submerged in severe flooding in Moscow
+ - [https://www.reddit.com/r/worldnews/comments/1dflkl7/cars_and_houses_submerged_in_severe_flooding_in](https://www.reddit.com/r/worldnews/comments/1dflkl7/cars_and_houses_submerged_in_severe_flooding_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T07:58:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dflkl7/cars_and_houses_submerged_in_severe_flooding_in/"> <img alt="Cars and houses submerged in severe flooding in Moscow " src="https://external-preview.redd.it/oi7c6IYy4VR-T8KWgLC63tjSu1tPJo1Jrx9x4fPCyNo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=daf1bd116a6c34b9cfa7d578b537967925f92284" title="Cars and houses submerged in severe flooding in Moscow " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theipaper"> /u/theipaper </a> <br /> <span><a href="https://inews.co.uk/news/world/cars-houses-submerged-severe-flooding-moscow-3109232">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dflkl7/cars_and_houses_submerged_in_severe_flooding_in/">[comments]</a></span> </td></tr></table>
+
+## Iran: Security forces used rape and other sexual violence to crush “Woman Life Freedom” uprising with impunity
+ - [https://www.reddit.com/r/worldnews/comments/1dfkj4w/iran_security_forces_used_rape_and_other_sexual](https://www.reddit.com/r/worldnews/comments/1dfkj4w/iran_security_forces_used_rape_and_other_sexual)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T06:43:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfkj4w/iran_security_forces_used_rape_and_other_sexual/"> <img alt="Iran: Security forces used rape and other sexual violence to crush “Woman Life Freedom” uprising with impunity" src="https://external-preview.redd.it/i-XVFXc54M3ag0RJ3f56p45JJYY9lAGGfD3AzQnhIBU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d18f5b52ac94a3d9f9757eacb0d70c6cc49753cf" title="Iran: Security forces used rape and other sexual violence to crush “Woman Life Freedom” uprising with impunity" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BinaryPear"> /u/BinaryPear </a> <br /> <span><a href="https://amnesty.ca/human-rights-news/iran-security-forces-used-rape-and-other-sexual-violence-to-crush-woman-life-freedom-uprising-with-impunity/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfkj4w/iran_security_forces_used_rape_and_other_sexual/">[comments]</a></span> </td></tr></
+
+## Joe Biden Declares 'Democracies Can Deliver' as G7 Approves $50bn Aid Deal for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1dfj1hc/joe_biden_declares_democracies_can_deliver_as_g7](https://www.reddit.com/r/worldnews/comments/1dfj1hc/joe_biden_declares_democracies_can_deliver_as_g7)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T05:04:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfj1hc/joe_biden_declares_democracies_can_deliver_as_g7/"> <img alt="Joe Biden Declares 'Democracies Can Deliver' as G7 Approves $50bn Aid Deal for Ukraine" src="https://external-preview.redd.it/vPw6yTwIhpPxSKyWPv4eurupOYbgUCg_klwe_i-8qQY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c38c06fe7adc13f770f0907ac4c8928b286ccd1" title="Joe Biden Declares 'Democracies Can Deliver' as G7 Approves $50bn Aid Deal for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Former_Cut_1890"> /u/Former_Cut_1890 </a> <br /> <span><a href="https://citytelegraph.com/news/169301/joe-biden-declares-democracies-can-deliver-as-g7-approves-50bn-aid-deal-for-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfj1hc/joe_biden_declares_democracies_can_deliver_as_g7/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 842, Part 1 (Thread #988)
+ - [https://www.reddit.com/r/worldnews/comments/1dfi0eu/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1dfi0eu/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T04:02:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfi0eu/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 842, Part 1 (Thread #988)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 842, Part 1 (Thread #988)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfi0eu/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## U.S. President Joe Biden said Thursday he doesn’t expect to seal a Gaza cease-fire deal in the near future, as an American-backed proposal with global support has not been fully embraced by Israel or Hamas
+ - [https://www.reddit.com/r/worldnews/comments/1dfh74v/us_president_joe_biden_said_thursday_he_doesnt](https://www.reddit.com/r/worldnews/comments/1dfh74v/us_president_joe_biden_said_thursday_he_doesnt)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T03:15:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfh74v/us_president_joe_biden_said_thursday_he_doesnt/"> <img alt="U.S. President Joe Biden said Thursday he doesn’t expect to seal a Gaza cease-fire deal in the near future, as an American-backed proposal with global support has not been fully embraced by Israel or Hamas" src="https://external-preview.redd.it/-lg10fmORpd3DNYQQplWmb_Ydq2WHsATt3zVGI3Zzv4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=98168f38f3e8cd3e138c79d5f83a229ba91ac4a5" title="U.S. President Joe Biden said Thursday he doesn’t expect to seal a Gaza cease-fire deal in the near future, as an American-backed proposal with global support has not been fully embraced by Israel or Hamas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br /> <span><a href="https://apnews.com/article/israel-hamas-mideast-latest-06-13-2024-5bcb90c93c6449d00a23383213dfcfbb">[link]</a></span> &#32; <sp
+
+## Ukraine's Zelenskyy says China's Xi told him he will not sell any weapons to Russia
+ - [https://www.reddit.com/r/worldnews/comments/1dfh5iz/ukraines_zelenskyy_says_chinas_xi_told_him_he](https://www.reddit.com/r/worldnews/comments/1dfh5iz/ukraines_zelenskyy_says_chinas_xi_told_him_he)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T03:13:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfh5iz/ukraines_zelenskyy_says_chinas_xi_told_him_he/"> <img alt="Ukraine's Zelenskyy says China's Xi told him he will not sell any weapons to Russia" src="https://external-preview.redd.it/o6O0jwD4nQAgl9KI9tf5hUOt_ktUoXFaEF1GfDlZlzE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=412a5a1fa7cfe826a3beb8a6e19ea62ec1260b6e" title="Ukraine's Zelenskyy says China's Xi told him he will not sell any weapons to Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/javelin3000"> /u/javelin3000 </a> <br /> <span><a href="https://www.channelnewsasia.com/world/ukraine-president-volodymyr-zelenskyy-china-xi-jinping-russia-weapons-sell-4409286">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfh5iz/ukraines_zelenskyy_says_chinas_xi_told_him_he/">[comments]</a></span> </td></tr></table>
+
+## Hamas official says ‘no one has any idea’ how many Israeli hostages are still alive
+ - [https://www.reddit.com/r/worldnews/comments/1dfg952/hamas_official_says_no_one_has_any_idea_how_many](https://www.reddit.com/r/worldnews/comments/1dfg952/hamas_official_says_no_one_has_any_idea_how_many)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T02:23:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfg952/hamas_official_says_no_one_has_any_idea_how_many/"> <img alt="Hamas official says ‘no one has any idea’ how many Israeli hostages are still alive " src="https://external-preview.redd.it/PE-U-lU64VxdV020sb0xt-R4DTVNSsQ2XSjFb3G1YbQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=943fe856b55e96dc8581418c05004c8ee79e6bb5" title="Hamas official says ‘no one has any idea’ how many Israeli hostages are still alive " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br /> <span><a href="https://edition.cnn.com/2024/06/13/middleeast/hamas-interview-israel-gaza-hostages-intl/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfg952/hamas_official_says_no_one_has_any_idea_how_many/">[comments]</a></span> </td></tr></table>
+
+## Ukraine Unit Captures Dozens of Russian Troops During Kharkiv Sector Counterattack
+ - [https://www.reddit.com/r/worldnews/comments/1dfg7w4/ukraine_unit_captures_dozens_of_russian_troops](https://www.reddit.com/r/worldnews/comments/1dfg7w4/ukraine_unit_captures_dozens_of_russian_troops)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T02:22:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfg7w4/ukraine_unit_captures_dozens_of_russian_troops/"> <img alt="Ukraine Unit Captures Dozens of Russian Troops During Kharkiv Sector Counterattack" src="https://external-preview.redd.it/8ZlLZO-EPCGD_x_n1CmiGb-7ULA7JnMVo6yPvckfVi4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=af3df54e26ab0cdaac34cba8b715b3275871766f" title="Ukraine Unit Captures Dozens of Russian Troops During Kharkiv Sector Counterattack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ask4MD"> /u/Ask4MD </a> <br /> <span><a href="https://www.kyivpost.com/post/34243">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfg7w4/ukraine_unit_captures_dozens_of_russian_troops/">[comments]</a></span> </td></tr></table>
+
+## Canada to send around 2,000 decommissioned CRV7 rocket motors to Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1dff8nz/canada_to_send_around_2000_decommissioned_crv7](https://www.reddit.com/r/worldnews/comments/1dff8nz/canada_to_send_around_2000_decommissioned_crv7)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T01:30:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dff8nz/canada_to_send_around_2000_decommissioned_crv7/"> <img alt="Canada to send around 2,000 decommissioned CRV7 rocket motors to Ukraine" src="https://external-preview.redd.it/RuJ3mglrAzDA1GXfeFrQOAeTe2xHxsvfAO3o9NCbfio.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70dfafdb5ed67f94ec830905e54fc496d6142f6b" title="Canada to send around 2,000 decommissioned CRV7 rocket motors to Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yimmy51"> /u/yimmy51 </a> <br /> <span><a href="https://www.theglobeandmail.com/canada/article-canada-to-send-around-2000-decommissioned-crv7-rocket-motors-to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dff8nz/canada_to_send_around_2000_decommissioned_crv7/">[comments]</a></span> </td></tr></table>
+
+## Tesla investors back record-breaking Musk pay deal
+ - [https://www.reddit.com/r/worldnews/comments/1dfe5du/tesla_investors_back_recordbreaking_musk_pay_deal](https://www.reddit.com/r/worldnews/comments/1dfe5du/tesla_investors_back_recordbreaking_musk_pay_deal)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T00:32:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfe5du/tesla_investors_back_recordbreaking_musk_pay_deal/"> <img alt="Tesla investors back record-breaking Musk pay deal" src="https://external-preview.redd.it/TqqQ8ul4s59qK1UevzQGkKWpVSoaNqpU0pHEGHUbGe8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e42e8f4deb5fe98e871e62c02e8fd0fbcc9a86e" title="Tesla investors back record-breaking Musk pay deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GeoWa"> /u/GeoWa </a> <br /> <span><a href="https://www.bbc.com/news/articles/cleezyxjv4jo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfe5du/tesla_investors_back_recordbreaking_musk_pay_deal/">[comments]</a></span> </td></tr></table>
+
+## Putin signs deal to build Moon-station with China
+ - [https://www.reddit.com/r/worldnews/comments/1dfdttl/putin_signs_deal_to_build_moonstation_with_china](https://www.reddit.com/r/worldnews/comments/1dfdttl/putin_signs_deal_to_build_moonstation_with_china)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-14T00:15:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dfdttl/putin_signs_deal_to_build_moonstation_with_china/"> <img alt="Putin signs deal to build Moon-station with China" src="https://external-preview.redd.it/MM4iSyp8m8nr_Cfwtfo43fwdeUEecVVY_5lSKApAQP8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5aa57e61424b0f1b9d231dbd35cf347fae82152c" title="Putin signs deal to build Moon-station with China" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UsualGrapefruit8109"> /u/UsualGrapefruit8109 </a> <br /> <span><a href="https://www.irishstar.com/news/putin-signs-deal-build-moon-33024463">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dfdttl/putin_signs_deal_to_build_moonstation_with_china/">[comments]</a></span> </td></tr></table>
+

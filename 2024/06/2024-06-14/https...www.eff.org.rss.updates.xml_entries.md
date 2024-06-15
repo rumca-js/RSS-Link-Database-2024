@@ -1,0 +1,19 @@
+# Source:Electronic Frontier Foundation, URL:https://www.eff.org/rss/updates.xml, language:en
+
+## The UN Cybercrime Draft Convention is a Blank Check for Unchecked Surveillance Abuses
+ - [https://www.eff.org/deeplinks/2024/06/un-cybercrime-draft-convention-blank-check-unchecked-surveillance-abuses](https://www.eff.org/deeplinks/2024/06/un-cybercrime-draft-convention-blank-check-unchecked-surveillance-abuses)
+ - RSS feed: https://www.eff.org/rss/updates.xml
+ - date published: 2024-06-14T11:47:08+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p><span>The United Nations Ad Hoc Committee is </span><a href="https://www.eff.org/issues/un-cybercrime-treaty"><span>just weeks away</span></a><span> from finalizing a too-broad <a href="https://www.eff.org/deeplinks/2023/04/un-cybercrime-treaty-timeline">Cybercrime Draft Convention</a>. This draft would normalize unchecked domestic surveillance and rampant government overreach, allowing serious human rights abuses around the world.</span></p>
+<p><span>The latest draft of the convention—originally spearheaded by Russia but since then the subject of two and a half years of negotiations—still authorizes broad surveillance powers without robust safeguards and fails to spell out data protection principles essential to prevent government abuse of power.</span></p>
+<p><span>As the August 9 finalization date approaches, Member States have a last chan
+
+## If Not Amended, States Must Reject the Flawed Draft UN Cybercrime Convention Criminalizing Security Research and Certain Journalism Activities
+ - [https://www.eff.org/deeplinks/2024/06/if-not-amended-states-must-reject-flawed-draft-un-cybercrime-convention](https://www.eff.org/deeplinks/2024/06/if-not-amended-states-must-reject-flawed-draft-un-cybercrime-convention)
+ - RSS feed: https://www.eff.org/rss/updates.xml
+ - date published: 2024-06-14T11:27:56+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p><span>The latest and nearly final version of the proposed </span><a href="https://www.eff.org/issues/un-cybercrime-treaty"><span>UN Cybercrime Convention</span></a><span>—dated May 23, 2024 but released today Ju</span><span>ne 14</span><span>—leaves security researchers’ and investigative journalists’ rights </span><a href="https://www.eff.org/deeplinks/2024/02/protect-good-faith-security-research-globally-proposed-un-cybercrime-treaty"><span>perilously unprotected</span></a><span>, despite EFF’s repeated warnings.</span></p>
+<p><span>The world benefits from people who help us understand how technology works and how it can go wrong. Security researchers, whether independently or within academia or the private sector, perform this important role of</span><span> safeguarding information technology systems. Relying on the freedom to analyze, tes
+
