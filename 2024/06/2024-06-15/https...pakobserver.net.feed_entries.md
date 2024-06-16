@@ -1,0 +1,338 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed, language:en-US
+
+## Hajj 2024 in Pictures: Beauty of Reverence and Unity
+ - [https://pakobserver.net/hajj-2024-in-pictures-beauty-of-reverence-and-unity](https://pakobserver.net/hajj-2024-in-pictures-beauty-of-reverence-and-unity)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T16:19:59+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/wfwfwf-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />More than 1.8 million pilgrims gathered in Saudi Arabia for Hajj 2024, one of the largest Islamic pilgrimage. Hajj is a once-in-a-lifetime duty for all physically and financially able Muslims. Muslims gathered at Mount Arafat during peak of annual pilgrimage. Pilgrims stand together, praying for mercy, blessings, prosperity, and good health. Many walked to the [&#8230;]
+
+## BISE Lahore 10th Class Matric Result 2024 Latest Update here
+ - [https://pakobserver.net/bise-lahore-10th-class-matric-result-2024-latest-update-here](https://pakobserver.net/bise-lahore-10th-class-matric-result-2024-latest-update-here)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T15:41:32+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/intermediate-second-annual-exams-punjab-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Hundreds of thousands of students appeared in matric exams this year in Lahore and other cities of Punjab and now all eyes are on Matric Results 2024. Sources familiar with development revealed that BISE Lahore is expected to announce Matric results in last week of July or first half of August 2024. Matric [&#8230;]
+
+## New Petrol, Diesel Prices in Pakistan from 15 June 2024
+ - [https://pakobserver.net/new-petrol-diesel-prices-in-pakistan-fr-15-june-2024](https://pakobserver.net/new-petrol-diesel-prices-in-pakistan-fr-15-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T14:53:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/GMbzk5baAAEbRWO-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Pakistani government announced big cut in petrol and diesel prices from June 15, 2024. As per the announcement, rates of petrol, diesel were lowered by up to Rs10 per litre ahead of Eid 2024. Petrol Price in Pakistan June 2024 The petrol price was cut by Rs10.20 per litre, and the price of [&#8230;]
+
+## PM Shehbaz Sharif sheds lights on new economic policies in address to nation
+ - [https://pakobserver.net/pm-shehbaz-sheds-lights-on-new-economic-policies-in-address-to-nation](https://pakobserver.net/pm-shehbaz-sheds-lights-on-new-economic-policies-in-address-to-nation)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T14:31:26+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/1311511642672cf-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Prime Minister Shehbaz Sharif is addressing the nation to reassure the public about his government&#8217;s economic policies and the recently unveiled federal budget for 2024-25. In post address to nation, PM Shehbaz said when he assumed office, the dire economic situation was evident to everyone, and his team averted the risk of default. [&#8230;]
+
+## New Cement prices in Pakistan after 5% FED in Budget 2024-25
+ - [https://pakobserver.net/new-cement-prices-in-pakistan-after-5-fed-in-budget-2024-25](https://pakobserver.net/new-cement-prices-in-pakistan-after-5-fed-in-budget-2024-25)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T13:48:05+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/cement-prices-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – PML-N led alliance government jacked up federal excise duty on cement along with other commodieis in the Budget 2024-25, burdening those who are planning construction. Amid the aggressive taxation, the excise duty on binding agent has been increased by Rs1 to Rs3 per kilogramme. After the announcement, the cement prices are already up [&#8230;]
+
+## Google set for joint venture with Pakistan to boost Digital Education initiatives
+ - [https://pakobserver.net/google-set-for-joint-venture-with-pakistan-to-boost-digital-education-initiatives](https://pakobserver.net/google-set-for-joint-venture-with-pakistan-to-boost-digital-education-initiatives)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T13:25:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/1345857_6806642_12_updates-1280x720-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; A high-level team from leading search engine Google is set to visit Pakistan to explore potential collaborations in education and technology sectors. This delegation, consisting of top officials, will land in Pakistan after Eid ul Adha, officials announced. The visit of the Google team is in response to a request from education ministry, [&#8230;]
+
+## UAE responds to age limit ban for Pakistanis seeking Work Visas
+ - [https://pakobserver.net/uae-responds-to-age-limit-ban-for-pakistanis-seeking-work-visas](https://pakobserver.net/uae-responds-to-age-limit-ban-for-pakistanis-seeking-work-visas)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T12:10:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/visa-uae-combi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />United Arab Emirates UAE has cleared air on restrictions on visas for Pakistanis as unofficial reports sparked concerns among those seeking job opportunities in Gulf nation. As rumours were rife, Emirates turned down rumors circulating on social media about a visa ban on Pakistanis. UAE&#8217;s Consulate General, Bakheet Obaid Al-Roumi, shared a clip, in which [&#8230;]
+
+## Hajj 2024 Sermon calls for peace, compassion, and concludes with special Prayers for Gaza
+ - [https://pakobserver.net/hajj-2024-sermon-calls-for-peace-compassion-and-concludes-with-special-prayers-for-gaza](https://pakobserver.net/hajj-2024-sermon-calls-for-peace-compassion-and-concludes-with-special-prayers-for-gaza)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T11:50:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/fefe-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Over 15 lac pilgrims flocked to Mount Arafat today on Saturday for the climax of the annual Hajj pilgrimage, engaging in hours of prayer. The Hajj 2024 sermon took place against backdrop of the ongoing situation in Gaza. This year&#8217;s annual pilgrimage is being held amid an ongoing war between Israel and Hamas, prompting Sheikh [&#8230;]
+
+## Toyota Yaris 1.3 latest price in Pakistan from June 2024
+ - [https://pakobserver.net/toyota-yaris-1-3-latest-price-in-pakistan-from-june-2024](https://pakobserver.net/toyota-yaris-1-3-latest-price-in-pakistan-from-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T10:11:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/yaris8-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; The all-new Toyota Yaris offers a stunning blend of refined elegance and impressive performance with reliablity Carrying modern aesthetics with a powerful framework and elevated appearance, it brings comfort and luxury together when you drive it. The Multi Information Display system seamlessly integrates convenience into your driving experience, offering door open and close [&#8230;]
+
+## Govt to charge Rs2116b from electricity consumers in next FY2024-25
+ - [https://pakobserver.net/govt-to-charge-rs2116b-from-electricity-consumers-in-next-fy2024-25](https://pakobserver.net/govt-to-charge-rs2116b-from-electricity-consumers-in-next-fy2024-25)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T09:48:46+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/Electricity-consumers-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD- The federal government started implementing the conditions in advance in a bid to please the International Monetary Fund (IMF), the sources close to the  development said on Saturday. The sources said that that Rs2116 billion in capacity charges from electricity consumers in the next fiscal year. The base price of electricity per unit has [&#8230;]
+
+## PTI workers including Shoaib Shaheen booked under terror charges
+ - [https://pakobserver.net/pti-workers-including-shoaib-shaheen-booked-under-terror-charges](https://pakobserver.net/pti-workers-including-shoaib-shaheen-booked-under-terror-charges)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T09:16:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/shoaib-shaheen-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD  &#8211;  A day after protest in front of the National Press Club in Islamabad by Pakistan Tehreek-e-Insaf, a case has been registered under the Terrorism Act against 80 workers including Shoaib Shaheen. The case was registered at Kohsar police station on the complaint of the police, including charges of attempted murder and robbery. Under [&#8230;]
+
+## PM Shehbaz greets Amir of Qatar on Eid ul Adha
+ - [https://pakobserver.net/pm-shehbaz-greets-amir-of-qatar-on-eid-ul-adha](https://pakobserver.net/pm-shehbaz-greets-amir-of-qatar-on-eid-ul-adha)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T09:02:40+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/12731097031718441015-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD  &#8211;  Prime Minister Muhammad Shehbaz Sharif on Saturday extended warm greetings and best wishes to Amir of the State of Qatar Sheikh Tamim Bin Hamad Al Thani on the auspicious occasion of Eid. During a telephonic conversation today, the two leaders exchanged views on the importance of Eid ul Adha, which symbolizes sacrifice, compassion [&#8230;]
+
+## NADRA new NICOP fee for Malaysia from June 2024
+ - [https://pakobserver.net/nadra-new-nicop-fee-for-malaysia-from-june-2024](https://pakobserver.net/nadra-new-nicop-fee-for-malaysia-from-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T08:32:32+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/nicop-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Pakistani citizens who are travelling to Malaysia for work are required to obtain National Identity Card for Overseas Pakistanis (NICOP) from Nadra. Any citizen of Pakistan can apply for NICOP and can travel to Pakistan without requiring a visa in case of dual nationality. A passport number is a mandatory pre-requisite in case [&#8230;]
+
+## NDMA issues advisory on weather during Eid-ul-Azha
+ - [https://pakobserver.net/ndma-issues-advisory-on-weather-during-eid-ul-azha](https://pakobserver.net/ndma-issues-advisory-on-weather-during-eid-ul-azha)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T07:34:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/20196306531718421717-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; The National Disaster Management Authority has issued an advisory for public awareness regarding the weather on upcoming Eid-ul-Azha. The NDMA forecast chances of rain, wind and dust storm and thunderstorm in most parts of country including Khyber Pakhtunkhawa, Gilgit, Azad Jammu and Kashmir, South Punjab and some parts of Sindh during the Eid [&#8230;]
+
+## Karachi commissioner bans bathing in sea for two months
+ - [https://pakobserver.net/karachi-commissioner-bans-bathing-in-sea-for-two-months](https://pakobserver.net/karachi-commissioner-bans-bathing-in-sea-for-two-months)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T07:32:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/bath-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The commissioner of Karachi has banned bathing, swimming and diving in the sea to avoid drowning incidents owing to monsoon spell and high tides in the Arabian Sea. The ban also comes ahead of Eidul Adha 2024, which will be celebrated in Pakistan on June 17 (Monday). During Eid holidays, a larger number [&#8230;]
+
+## Pakistan team to face major surgery after poor performance in T20 World Cup 2024
+ - [https://pakobserver.net/pakistan-team-to-face-major-surgery-after-poor-performance-in-t20-world-cup-2024](https://pakobserver.net/pakistan-team-to-face-major-surgery-after-poor-performance-in-t20-world-cup-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T07:15:05+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/team-in-world-cup-23-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – After the national team’s historic poor performance in the ICC Men’s T20 World Cup 2024, the Pakistan Cricket Board (PCB) has started preparation for ‘major surgery’. Pakistan’s journey in the T20 World Cup has ended, with the national team set to play its final and formal match against Ireland. In response to the [&#8230;]
+
+## ‘Turgutreis-9’: Pakistan, Turkiye hold joint naval exercise in Eastern Mediterranean
+ - [https://pakobserver.net/turgutreis-9-pakistan-turkiye-hold-joint-naval-exercise-in-eastern-mediterranean](https://pakobserver.net/turgutreis-9-pakistan-turkiye-hold-joint-naval-exercise-in-eastern-mediterranean)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T07:14:41+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/pk-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; The naval forces of Türkiye and Pakistan held Turgutreis-9 exercise in the Eastern Mediterranean to enhance operational readiness and foster cooperation. Pakistan Navy Ship (PNS) Babur visited Aksaz naval base and participated in the exercise. The purpose of the exercise was to further enhance the interoperability and joint operations capability between the two [&#8230;]
+
+## Qasai rates in Karachi on Eidul Adha 2024
+ - [https://pakobserver.net/qasai-rates-in-karachi-on-eidul-adha-2024](https://pakobserver.net/qasai-rates-in-karachi-on-eidul-adha-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T07:05:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/qasai-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Pakistan will celebrate the Eidul Adha 2024 on Monday when Muslims will be slaughtering sacrificial animals to remember the Sunnah of Hazrat Ibrahim (A.S). A number of people slaughter the animals on their own or others hire Qasai or Butcher for this purpose. The rates of professional Qasai are comparatively higher than the [&#8230;]
+
+## PCB to drop Babar Azam’s name for Test captaincy
+ - [https://pakobserver.net/pcb-to-drop-babar-azams-name-for-test-captaincy](https://pakobserver.net/pcb-to-drop-babar-azams-name-for-test-captaincy)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T07:00:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/Abdullah-Shafique-and-Babar-Azam-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; After the worst defeat in the T20 World Cup 2024,  Babar Azam would not be given captaincy of the Test format, the sources close to the development said on Saturday. Following poor performance as captain in the ICC T20 World Cup 2024, there are reports that the Pakistan Cricket Board has decided to [&#8230;]
+
+## Mutton chops steam roast new recipe in Pakistan amid Eidul Adha
+ - [https://pakobserver.net/mutton-chops-steam-roast-new-recipe-in-pakistan-amid-eidul-adha](https://pakobserver.net/mutton-chops-steam-roast-new-recipe-in-pakistan-amid-eidul-adha)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T06:39:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/chops-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Muslims across Pakistan are all set to celebrate Eidul Adha 2024 on Monday (June 17) in Pakistan. To mark this day, Muslims sacrifice sheep, goats, camels and other permitted animals to remember the Sunnah of Hazrat Ibrahim (A.S). The meat of the sacrificial animal is divided into three portions &#8211; one for the [&#8230;]
+
+## Currency exchange rates in Pakistan today – June 15, 2024
+ - [https://pakobserver.net/currency-exchange-rates-in-pakistan-today-june-15-2024](https://pakobserver.net/currency-exchange-rates-in-pakistan-today-june-15-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T06:01:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/curreny-rate-today-15-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI- On Saturday, June 15, 2024, the exchange rate for one US Dollar against Pakistani rupees was recorded at Rs 277.6 in the local and open market, with a selling rate of Rs 280.5. Note: Exchange rates can vary based on the location and the Exchange Company or bank involved in the transaction. Below are the [&#8230;]
+
+## Hajj 2024: Intending pilgrims perform Rukn-e-Azm, Waqoof-e-Arafa, today
+ - [https://pakobserver.net/hajj-2024-intending-pilgrims-perform-rukn-e-azm-waqoof-e-arafa-today](https://pakobserver.net/hajj-2024-intending-pilgrims-perform-rukn-e-azm-waqoof-e-arafa-today)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T06:00:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/1523791461718422782-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />MAKKAH &#8211;  Millions of intending Hajj pilgrims from across the world will perform  the Rukn-e-Azm of Hajj, Waqoof-e-Arafa today. The Hajj pilgrims remained in the tent valley last night and today will move to Maidan-e-Arafat  where the Prophet Muhammad (Peace Be Upon Him) delivered his final sermon. The pilgrims will also hear the Hajj Sermon [&#8230;]
+
+## Gold rate in Pakistan today – 15 June, 2024
+ - [https://pakobserver.net/gold-rate-in-pakistan-today-15-june-2024](https://pakobserver.net/gold-rate-in-pakistan-today-15-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T05:58:05+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/gold-rate-in-pakistan-today-24-March-2023-1-1024x576-4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI—On Saturday, June 15, 2024, the 24-karat gold rate was PKR 241,200. Similarly, the bullion market recorded the gold price for 24-karat at Rs 206,790 per 10g. Gold Price in Pakistan’s different cities. City Gold Silver Karachi PKR 241,200 PKR 2,550 Lahore PKR 241,200 PKR 2,550 Islamabad PKR 241,200 PKR 2,550 Peshawar PKR 241,200 PKR [&#8230;]
+
+## Pakistan Passport renewal fee in Saudi Riyal from June 2024
+ - [https://pakobserver.net/pakistan-passport-renewal-fee-in-saudi-riyal-from-june-2024](https://pakobserver.net/pakistan-passport-renewal-fee-in-saudi-riyal-from-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T05:41:04+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/09/passport-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RIYADH – Pakistani citizens residing in Saudi Arabia can visit the Embassy of Pakistan in the kingdom for renewal of Machine-Readable Passports Office. The Mission offers normal and urgent services for renewal and issues of new Passports under the fee structure, which is effective from 2021. Documents Required for Passport Issuance (For all Citizens) Valid [&#8230;]
+
+## Gold rates in Saudi Arabia today – 15 June 2024
+ - [https://pakobserver.net/gold-rates-in-saudi-arabia-today-15-june-2024](https://pakobserver.net/gold-rates-in-saudi-arabia-today-15-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T05:15:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/gd-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The price of per tola price 24-karat gold in Saudi Arabia on Saturday (June 15) surged to 3,268 Saudi Riyal (SAR), according to forex.pk. Furthermore, the 10 grams of 24-k gold is being sold for SAR 2,804 in the kingdom while the per ounce gold price stands at SAR 8,723. Note: The gold [&#8230;]
+
+## UK Pound to PKR rate today – 15 June 2024
+ - [https://pakobserver.net/uk-pound-to-pkr-rate-today-15-june-2024](https://pakobserver.net/uk-pound-to-pkr-rate-today-15-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T05:11:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/pound-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />UK Pound GBP&#8217;s buying rate in Pakistan is Rs349.7 while the selling rate is Rs. 353.25 in the open market on Friday. Pound moved down slightly against rupee in the open market. GBP to PKR Rate – 15 June 2024 Date  Latest Exchange Rate CHANGE  June 15, 2024 Rs. 349.7 -85paisas June 14, 2024 Rs. [&#8230;]
+
+## Dirham to PKR rate today – 15 June 2024
+ - [https://pakobserver.net/dirham-to-pkr-rate-today-15-june-2024](https://pakobserver.net/dirham-to-pkr-rate-today-15-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T05:08:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/dirham-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />UAE Dirham buying rate in open market of Pakistan dropped to Rs74.8 on Saturday while the selling rate is Rs75.6. UAE Dirham weakened by 5 paisas against Pakistani rupee as compared to the previous trading day’s closing. AED to PKR Rate – 15 June 2024 Date  Latest Exchange Rate CHANGE  June 15, 2024 Rs74.8 -5paisas [&#8230;]
+
+## Saudi Riyal to PKR rate today – 15 June 2024
+ - [https://pakobserver.net/saudi-riyal-to-pkr-rate-today-15-june-2024](https://pakobserver.net/saudi-riyal-to-pkr-rate-today-15-june-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T05:05:57+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/riyal-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The buying rate for Saudi Arabia Riyal in Pakistan stands at Rs72.8 while the selling rate stands at Rs73.55 on Saturday in open market, according to forex.pk. Data available on the currency website showed the Saudi Riyal saw no change against Pakistani rupee in the open market. SAR to PKR Rate – 15 [&#8230;]
+
+## KP govt mulls another raise in salaries of govt employees
+ - [https://pakobserver.net/kp-govt-mulls-another-raise-in-salaries-of-govt-employees](https://pakobserver.net/kp-govt-mulls-another-raise-in-salaries-of-govt-employees)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T02:18:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/03/KP-BOIT-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In order to match the raise in salaries announced by the federal government, the Khyber Pakhtunkhwa government has started considering another increase in the salaries of the provincial government employees. In this regard, the process of consultations with the Finance Department has been set into motion. The KP government will get approval of raise in [&#8230;]
+
+## Financial assistance  provided to worker
+ - [https://pakobserver.net/financial-assistance-provided-to-worker](https://pakobserver.net/financial-assistance-provided-to-worker)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T02:18:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/pak-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A former Pepsi Company employee in Sukkur on Friday has secured financial assistance for his medical treatment after filing a complaint with the Federal Ombudsman Regional Office Sukkur. The employee, who is medically unfit to work, initially sought help from the Employees’ Old-Age Benefits Institution (EOBI) to cover his medical expenses under their regulations. However, [&#8230;]
+
+## BRT service to remain operational during Eid-ul-Azha
+ - [https://pakobserver.net/brt-service-to-remain-operational-during-eid-ul-azha](https://pakobserver.net/brt-service-to-remain-operational-during-eid-ul-azha)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T02:18:48+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/01/26176-brt-585_329-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Bus Rapid Transit (BRT) system of Peshawar will remain operational throughout all three days of Eid for the convenience of the public. According to a spokesperson from TransPeshawar, the evening operating hours of the ER-01 route will be extended on the Sunday after Eid (23 June) to further accommodate passengers. The spokesperson explained that [&#8230;]
+
+## Training workshop on freedom of expression concludes
+ - [https://pakobserver.net/training-workshop-on-freedom-of-expression-concludes](https://pakobserver.net/training-workshop-on-freedom-of-expression-concludes)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T02:18:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/pak-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A comprehensive five-day training workshop for enhancing the reporting skills of journalists across various districts of Khyber Pakhtunkhwa was concluded successfully at Changlagali here Friday. The workshop, themed around freedom of expression and reporting skills, was organized by a non-governmental organization which was attended by both male and female journalists representing provincial government and private [&#8230;]
+
+## Rain expected from second day Eid-ul-Azha
+ - [https://pakobserver.net/rain-expected-from-second-day-eid-ul-azha](https://pakobserver.net/rain-expected-from-second-day-eid-ul-azha)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T02:18:39+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/met-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan Meteorological Department (PMD) Friday forecast wind and thunderstorm and rains for various parts of the country from June 18 (evening/night) which is the second day of Eid-ul-Azha. The moist currents from Arabian sea are likely to penetrate upper and central parts of the country from June 18. A shallow westerly wave was also likely [&#8230;]
+
+## Pak Army’s swift response in Gwadar road accident
+ - [https://pakobserver.net/pak-armys-swift-response-in-gwadar-road-accident](https://pakobserver.net/pak-armys-swift-response-in-gwadar-road-accident)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T02:18:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/pak-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A road accident on the M8 near Gwadar involved travelers from the Kolanch Valley. Fortunately, there were no fatalities, but several locals sustained minor injuries. According to reports, the accident occurred as the group was traveling from Kolanch Valley towards Gwadar. The Pakistan Army swiftly responded to the incident, adhering to their tradition of prompt [&#8230;]
+
+## Minister urges people to donate blood, save lives
+ - [https://pakobserver.net/minister-urges-people-to-donate-blood-save-lives](https://pakobserver.net/minister-urges-people-to-donate-blood-save-lives)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T02:18:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/pak-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Provincial Health Minister, Syed Qasim Ali Shah on Friday visited Regional Blood Center (RBC) Peshawar and participated in a cake cutting ceremony to mark World Blood Donor Day. He was accompanied by Dr. Kaleem ullah, CEO Blood Transfusion Authority and Dr. Noor-e-Saba, Manager RBC Peshawar. Managers from other RBCs of Swat, Abbottabad and DI Khan [&#8230;]
+
+## 77000 pilgrims benefit from health services during the last five weeks
+ - [https://pakobserver.net/77000-pilgrims-benefit-from-health-services-during-the-last-five-weeks](https://pakobserver.net/77000-pilgrims-benefit-from-health-services-during-the-last-five-weeks)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T02:18:13+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/pak-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In continuation of the efforts made by the Saudi Arabia’s Ministry of Health (MoH) to provide integrated care to the guests of God during the Hajj season 1445 H, more than 77000 pilgrims benefited from the various health services provided by health care centers over the last five weeks. In a statistical report, the MoH [&#8230;]
+
+## People advised to adopt health safety measures during cattle markets visit
+ - [https://pakobserver.net/people-advised-to-adopt-health-safety-measures-during-cattle-markets-visit](https://pakobserver.net/people-advised-to-adopt-health-safety-measures-during-cattle-markets-visit)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T02:18:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/11-cattle-markets-in-lahore-become-operation-1687102166-8934-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Head of Indus Hospital’s Contagious Diseases Department, Dr. Naseem Salahuddin, has advised people to be in proper clothing and apply insect repellant to open parts of their bodies when visiting cattle markets to buy sacrificial animals to be safe against the risk of contracting any contagious disease communicable from animals to humans. She told media [&#8230;]
+
+## Food Authority conducts operations in DI Khan
+ - [https://pakobserver.net/food-authority-conducts-operations-in-di-khan](https://pakobserver.net/food-authority-conducts-operations-in-di-khan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T02:18:10+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/pak-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Khyber Pakhtunkhwa Food Safety and Halal Food Authority (KP FS&#38;HFA) on Friday conducted operations and checked the quality of food items at various shops in DIKhan to ensure food safety for the common people. According to the details, on the direction of Deputy Director Halal Food Authority Dera Muhammad Asif, different teams of KP [&#8230;]
+
+## Federal govt abolishes ‘B-Form’ requirement for school admissions
+ - [https://pakobserver.net/federal-govt-abolishes-b-form-requirement-for-school-admissions](https://pakobserver.net/federal-govt-abolishes-b-form-requirement-for-school-admissions)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T01:41:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/ibd-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The government has abolished the mandatory ‘B-Form’ requirement for admissions to federal government schools. The move aims to increase school enrollment and reduce the number of out-of-school children. Secretary of Education Mohiuddin Wani announced the decision, emphasising that the ‘B- Form’ requirement had disproportionately affected vulnerable populations. “Our aim is to ensure that every child [&#8230;]
+
+## How to treat and prevent sunburn
+ - [https://pakobserver.net/how-to-treat-and-prevent-sunburn](https://pakobserver.net/how-to-treat-and-prevent-sunburn)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T01:41:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/3-21-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; If you have sunburn, drink fluids and stay in the shade to reduce discomfort. Ibuprofen can help with pain, but see a doctor if it’s severe, or if you’re dehydrated or feverish. Summer’s here, and that means it’s time to head outside and soak up the sun. But along with all those hours spent [&#8230;]
+
+## ASEAN Movie Night featuring Indonesia’s award-winning movie screened
+ - [https://pakobserver.net/asean-movie-night-featuring-indonesias-award-winning-movie-screened](https://pakobserver.net/asean-movie-night-featuring-indonesias-award-winning-movie-screened)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T01:41:05+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/10-13-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Zubair Qureshi The embassy of the Republic of Indonesia, in collaboration with the ASEAN Committee in Islamabad (ACI) organized the ‘ASEAN Movie Night’ event featuring the award-winning Indonesian film “Ngeri-Ngeri Sedap” (Missing Home.red), directed by the Indonesian Producer Bene Dion Rajagukguk. The event was a delightful fusion of cinema and cuisine, celebrating the rich cultural [&#8230;]
+
+## IFA destroys 13,000 litres contaminated milk in ICT
+ - [https://pakobserver.net/ifa-destroys-13000-litres-contaminated-milk-in-ict](https://pakobserver.net/ifa-destroys-13000-litres-contaminated-milk-in-ict)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T01:41:04+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/ibd-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Islamabad Food Authority (IFA) on Friday launched a major crackdown against the contaminated milk sellers in the federal capital and destroyed 13,000 litres of contaminated milk being sold to the public. Speaking to APP, Deputy Director of Operations (DDO) of IFA, Dr. Tahira Saddique, said that the teams inspected various vehicles and shops to ensure [&#8230;]
+
+## FDE primary school students to receive track suits
+ - [https://pakobserver.net/fde-primary-school-students-to-receive-track-suits](https://pakobserver.net/fde-primary-school-students-to-receive-track-suits)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T01:41:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/ibd-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Ministry of Federal Education and Professional Training has announced that every primary school student under the Federal Directorate of Education (FDE) will receive a tracksuit in the coming session. According to the Education Ministry, it aims to encourage students to engage in sports activities, promoting healthy bodies and minds. “We want our young students to [&#8230;]
+
+## National Debate on Education Youth and their goals
+ - [https://pakobserver.net/national-debate-on-education-youth-and-their-goals](https://pakobserver.net/national-debate-on-education-youth-and-their-goals)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T01:40:57+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/9-12-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Zubair Qureshi Pakistan’s education system has the capacity to achieve the desired goals for our youth provided all the three parties, namely students, parents and their teachers have a single minded approach to attain them. These views were expressed by Chairperson of Taleem Network former Senator RazinaAlam Khan at a national debate ‘Can our Education [&#8230;]
+
+## JQMWA to set up 350 slaughtering points
+ - [https://pakobserver.net/jqmwa-to-set-up-350-slaughtering-points](https://pakobserver.net/jqmwa-to-set-up-350-slaughtering-points)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T01:40:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/ibd-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Jamiat Ul-Quraish Meat Welfare Association (JQMWA) will set up around 350 slaughtering points in various areas of the city on the occasion of Eid-ul-Azha. President of JQMWA Khurshid Ahmed Qureshi told APP that slaughtering points would be established to facilitate the residents of the federal capital at the locations including Sector G/6 Abpara Market, Sector [&#8230;]
+
+## CM condoles with bereaved families of  13 children in Sahiwal Teaching Hospital
+ - [https://pakobserver.net/cm-condoles-with-bereaved-families-of-13-children-in-sahiwal-teaching-hospital](https://pakobserver.net/cm-condoles-with-bereaved-families-of-13-children-in-sahiwal-teaching-hospital)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T01:40:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/7-12-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />“I share grief of the children’s parents, I have come to express my heart-felt condolences and sympathies with the bereaved parents and their families,” said Chief Minister Punjab Maryam Nawaz Sharif who reached Sahiwal Teaching Hospital to share grief of the bereaved families, and extend them her sincere apologies over this act of criminal negligence [&#8230;]
+
+## Health ministers stress collective responsibility in dengue control
+ - [https://pakobserver.net/health-ministers-stress-collective-responsibility-in-dengue-control](https://pakobserver.net/health-ministers-stress-collective-responsibility-in-dengue-control)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T01:40:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/6-13-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Punjab Health Ministers Khawaja Salman Rafique and Khawaja Imran Nazir have emphasised that combating dengue is a collective responsibility of all stakeholders, not just one department. They made these remarks while chairing a crucial meeting on dengue, infectious diseases, and disaster management at the Civil Secretariat, on Friday. Minister Khawaja Salman Rafique stressed the need [&#8230;]
+
+## Chinese CG praises strong partnership between Pakistan, China
+ - [https://pakobserver.net/chinese-cg-praises-strong-partnership-between-pakistan-china](https://pakobserver.net/chinese-cg-praises-strong-partnership-between-pakistan-china)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-06-15T01:40:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/8-12-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Chinese Consul General Mr Zhao Shiren Explores China’s Expanding Role in Global and Regional Politics and its Benefits for Pakistan at CASS Lahore The Centre for Aerospace &#38; Security Studies (CASS) Lahore, hosted His Excellency Zhao Shiren, the Consul General of the People’s Republic of China, for an enlightening guest lecture titled “China’s Growing Influence [&#8230;]
+

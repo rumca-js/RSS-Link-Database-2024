@@ -1,0 +1,250 @@
+# Source:Japan Today, URL:https://japantoday.com/feed, language:en
+
+## England stay alive in T20 World Cup with rain-hit win over Namibia
+ - [https://japantoday.com/category/sports/england-set-namibia-127-in-crunch-rain-hit-t20-world-cup-game](https://japantoday.com/category/sports/england-set-namibia-127-in-crunch-rain-hit-t20-world-cup-game)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T22:38:08+00:00
+
+Reigning champions England maintained their bid to reach the second round of the T20 World Cup with a 41-run victory in a must-win group game against Namibia in…
+
+## UK royals unite on palace balcony, with Kate back at her first public event since cancer diagnosis
+ - [https://japantoday.com/category/world/all-eyes-are-on-kate-as-she-returns-to-public-view-at-a-military-parade-honoring-king-charles-iii](https://japantoday.com/category/world/all-eyes-are-on-kate-as-she-returns-to-public-view-at-a-military-parade-honoring-king-charles-iii)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T22:36:19+00:00
+
+Britain put on a display of birthday pageantry Saturday for King Charles III, a military parade that marked the Princess of Wales ’ first appearance at a public…
+
+## Italy recovers to beat Albania 2-1 at Euro 2024 after conceding goal after 23 seconds
+ - [https://japantoday.com/category/sports/italy-recovers-to-beat-albania-2-1-at-euro-2024-after-conceding-goal-after-23-seconds](https://japantoday.com/category/sports/italy-recovers-to-beat-albania-2-1-at-euro-2024-after-conceding-goal-after-23-seconds)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T22:35:08+00:00
+
+Italy recovered from conceding the quickest goal in European Championship history — after just 23 seconds — to open its title defense with a 2-1 win over Albania…
+
+## Waiting for a bite
+ - [https://japantoday.com/category/picture-of-the-day/waiting-for-a-bite-8](https://japantoday.com/category/picture-of-the-day/waiting-for-a-bite-8)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:33:19+00:00
+
+A fisherman tries is seen at Lake Saiko, one of the so-called Fuji Goko, or Fuji Five Lakes, near Mount Fuji, in Fujikawaguchiko town, Yamanashi Prefecture, on Saturday.…
+
+## 88 Vietnamese hired by Japan confectionery maker left idle without pay
+ - [https://japantoday.com/category/national/88-Vietnamese-hired-by-Japan-confectionery-maker-left-idle-without-pay](https://japantoday.com/category/national/88-Vietnamese-hired-by-Japan-confectionery-maker-left-idle-without-pay)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:30:58+00:00
+
+More than 80 Vietnamese who signed contracts to work for Japanese confectionery maker Chateraise Co were left on standby without pay for about 2 1/2 months, the company…
+
+## Surge in rebel attacks sparks deadly protests in eastern Congo
+ - [https://japantoday.com/category/world/surge-in-rebel-attacks-sparks-deadly-protests-in-eastern-congo1](https://japantoday.com/category/world/surge-in-rebel-attacks-sparks-deadly-protests-in-eastern-congo1)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:29:59+00:00
+
+At least seven people have been killed in unrest in eastern Democratic Republic of Congo's North Kivu province, local officials said on Saturday, after people took to the…
+
+## German police shoot to death Afghan man who killed compatriot, then attacked soccer fans
+ - [https://japantoday.com/category/world/german-police-shoot-to-death-an-afghan-man-who-killed-a-compatriot-then-attacked-soccer-fans](https://japantoday.com/category/world/german-police-shoot-to-death-an-afghan-man-who-killed-a-compatriot-then-attacked-soccer-fans)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:29:48+00:00
+
+German police shot to death an Afghan man after he fatally attacked a compatriot and later wounded three people watching the televised opening game of the Euro 2024…
+
+## Thousands march in France in pre-election protest against far right
+ - [https://japantoday.com/category/world/thousands-march-in-france-in-pre-election-protest-against-far-right1](https://japantoday.com/category/world/thousands-march-in-france-in-pre-election-protest-against-far-right1)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:29:37+00:00
+
+Thousands marched in Paris and cities across France on Saturday to protest against the far-right National Rally (RN) ahead of upcoming elections to the French parliament.
+Following the…
+
+## Dutch tourist found dead on Greek island and 4 other foreign tourists are missing on 3 islands
+ - [https://japantoday.com/category/world/dutch-tourist-found-dead-on-greek-island-and-4-other-foreign-tourists-are-missing-on-3-islands](https://japantoday.com/category/world/dutch-tourist-found-dead-on-greek-island-and-4-other-foreign-tourists-are-missing-on-3-islands)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:29:18+00:00
+
+A missing Dutch tourist was found dead early Saturday on the eastern Greek island of Samos, local media reported, the latest in a string of recent cases in…
+
+## UK polls point to 'electoral extinction' for Prime Minister Sunak's Conservatives
+ - [https://japantoday.com/category/world/uk-polls-point-to-%27electoral-extinction%27-for-prime-minister-sunak%27s-conservatives](https://japantoday.com/category/world/uk-polls-point-to-%27electoral-extinction%27-for-prime-minister-sunak%27s-conservatives)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:29:04+00:00
+
+Three British opinion polls released late on Saturday presented a grim picture for Prime Minister Rishi Sunak's Conservative Party, and one pollster warned that the party faced &quot;electoral…
+
+## Kate, Princess of Wales, waves to crowds in first public appearance since cancer diagnosis
+ - [https://japantoday.com/category/world/kate-princess-of-wales-waves-to-crowds-in-first-public-appearance-since-cancer-diagnosis1](https://japantoday.com/category/world/kate-princess-of-wales-waves-to-crowds-in-first-public-appearance-since-cancer-diagnosis1)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:28:55+00:00
+
+Kate, Britain's Princess of Wales, waved to crowds and smiled broadly from the balcony of Buckingham Palace after watching a military parade on Saturday, making her first public…
+
+## World leaders meet in Switzerland to discuss Ukraine peace roadmap
+ - [https://japantoday.com/category/world/world-leaders-to-meet-at-swiss-resort-on-possible-ukraine-peace-roadmap.-russia-is-notably-absent](https://japantoday.com/category/world/world-leaders-to-meet-at-swiss-resort-on-possible-ukraine-peace-roadmap.-russia-is-notably-absent)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:28:47+00:00
+
+Dozens of world leaders converged on a Swiss resort Saturday to discuss how to bring peace to war-ravaged Ukraine, though any hopes of a real breakthrough were muted…
+
+## 8 Israeli soldiers killed in southern Gaza in deadliest attack on Israeli forces in months
+ - [https://japantoday.com/category/world/8-israeli-soldiers-killed-in-southern-gaza](https://japantoday.com/category/world/8-israeli-soldiers-killed-in-southern-gaza)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:28:35+00:00
+
+An explosion in southern Gaza killed eight Israeli soldiers, the military said Saturday, making it the deadliest attack on Israeli forces in months.
+The attack, coming more than…
+
+## Celtics take season's worth of lessons into Game 5 of NBA Finals with latest chance to secure title
+ - [https://japantoday.com/category/sports/celtics-take-season%27s-worth-of-lessons-into-game-5-of-nba-finals-with-latest-chance-to-secure-title](https://japantoday.com/category/sports/celtics-take-season%27s-worth-of-lessons-into-game-5-of-nba-finals-with-latest-chance-to-secure-title)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:28:14+00:00
+
+The Celtics picked the most inopportune time to play their worst game of the season.
+Boston’s 122-84 Game 4 loss to Dallas had all kinds of superlatives, and…
+
+## Embolo scores on comeback as Switzerland holds on to beat Hungary 3-1 at Euro 2024
+ - [https://japantoday.com/category/sports/switzerland-holds-on-to-beat-hungary-3-1-at-euro-2024](https://japantoday.com/category/sports/switzerland-holds-on-to-beat-hungary-3-1-at-euro-2024)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:27:39+00:00
+
+Breel Embolo ran, arms spread wide in celebration, after his goal that meant a win for Switzerland and a triumphant personal comeback.
+Embolo had not played for Switzerland…
+
+## Yamal, 16, leads Spain's new generation to 3-0 win over Croatia at Euro 2024
+ - [https://japantoday.com/category/sports/yamal-16-leads-spain%27s-new-generation-to-3-0-win-over-croatia-at-euro-2024](https://japantoday.com/category/sports/yamal-16-leads-spain%27s-new-generation-to-3-0-win-over-croatia-at-euro-2024)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:27:22+00:00
+
+Lamine Yamal became the youngest player to appear in a European Championship as Spain’s new generation brushed aside Croatia’s challenge 3-0 in their opening game on Saturday.
+And…
+
+## How Elon Musk's $44.9 bil Tesla pay package compares with the most generous plans for other U.S. CEOs
+ - [https://japantoday.com/category/business/how-elon-musk%27s-44.9b-tesla-pay-package-compares-with-the-most-generous-plans-for-other-u.s.-ceos](https://japantoday.com/category/business/how-elon-musk%27s-44.9b-tesla-pay-package-compares-with-the-most-generous-plans-for-other-u.s.-ceos)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:25:58+00:00
+
+Even though the median U.S. CEO pay package last year was nearly 200 times more than a worker in the middle of their company pay scales, Elon Musk's…
+
+## 17-year-old boy arrested for assaulting father over smartphone game argument
+ - [https://japantoday.com/category/crime/17-year-old-boy-arrested-for-assaulting-father-over-smartphone-game-argument](https://japantoday.com/category/crime/17-year-old-boy-arrested-for-assaulting-father-over-smartphone-game-argument)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:23:50+00:00
+
+Police in Nagoya, Aichi Prefecture, on Saturday arrested a 17-year-old high school boy on suspicion of attempted murder after he assaulted his 45-year-old father following an argument over…
+
+## Japanese climber dies while trying to scale mountain in northern Pakistan; another is missing
+ - [https://japantoday.com/category/national/Japanese-climber-dies-while-trying-to-scale-mountain-in-northern-Pakistan-another-is-missing](https://japantoday.com/category/national/Japanese-climber-dies-while-trying-to-scale-mountain-in-northern-Pakistan-another-is-missing)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:22:59+00:00
+
+A Japanese climber has died while trying to scale one of the highest mountains in northern Pakistan and a search is still underway to find his missing colleague,…
+
+## Kishida calls for global efforts to achieve lasting peace in Ukraine
+ - [https://japantoday.com/category/politics/japan-pm-calls-for-global-efforts-to-achieve-lasting-peace-in-ukraine1](https://japantoday.com/category/politics/japan-pm-calls-for-global-efforts-to-achieve-lasting-peace-in-ukraine1)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:21:27+00:00
+
+Japanese Prime Minister Fumio Kishida on Saturday called for global efforts to achieve a &quot;just and lasting peace&quot; in Ukraine as the world's major powers, the United States…
+
+## Making reservations in Japanese
+ - [https://japantoday.com/category/features/lifestyle/making-reservations-in-japanese](https://japantoday.com/category/features/lifestyle/making-reservations-in-japanese)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:20:18+00:00
+
+Traveling around Japan doesn’t have to be intimidating as long as you’ve made the necessary arrangements. In cities like Tokyo or Osaka, there are endless booking portals that let…
+
+## Americans used to unite over tragic events − and now are divided by them
+ - [https://japantoday.com/category/features/opinions/americans-used-to-unite-over-tragic-events-%E2%88%92-and-now-are-divided-by-them](https://japantoday.com/category/features/opinions/americans-used-to-unite-over-tragic-events-%E2%88%92-and-now-are-divided-by-them)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:17:37+00:00
+
+Tragedy seldom unifies Americans today.
+Every year, horrific crises induce tremendous suffering. Most are privately tragic, affecting only those directly harmed and their immediate relations.
+A small number,…
+
+## Aussie swimmers Cameron McEvoy, Bronte Campbell reach 4th Olympics; singer Cody Simpson misses out
+ - [https://japantoday.com/category/paris-2024-olympics/aussie-swimmers-cameron-mcevoy-bronte-campbell-reach-4th-olympics-singer-cody-simpson-misses-out](https://japantoday.com/category/paris-2024-olympics/aussie-swimmers-cameron-mcevoy-bronte-campbell-reach-4th-olympics-singer-cody-simpson-misses-out)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:17:02+00:00
+
+The Australian Olympic Committee has selected a 41-member swim team to represent Australia in the pool at the Paris Olympics, including Cameron McEvoy and Bronte Campbell, who will…
+
+## Katie Ledecky off to strong start at U.S. Olympic swimming trials, leads prelims of 400 free
+ - [https://japantoday.com/category/paris-2024-olympics/katie-ledecky-off-to-a-strong-start-at-us-olympic-swimming-trials-leads-prelims-of-400-free](https://japantoday.com/category/paris-2024-olympics/katie-ledecky-off-to-a-strong-start-at-us-olympic-swimming-trials-leads-prelims-of-400-free)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:16:52+00:00
+
+Katie Ledecky got off to a rousing start Saturday at the U.S. Olympic swimming trials.
+Competing in the home stadium of the NFL's Indianapolis Colts, Ledecky blew away…
+
+## IOC gives 14 Russians, 11 Belarusians neutral status for Paris Olympics in first round of decisions
+ - [https://japantoday.com/category/paris-2024-olympics/ioc-gives-14-russians-11-belarusians-neutral-status-for-paris-olympics-in-first-round-of-decisions](https://japantoday.com/category/paris-2024-olympics/ioc-gives-14-russians-11-belarusians-neutral-status-for-paris-olympics-in-first-round-of-decisions)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T21:16:35+00:00
+
+The IOC approved 14 athletes from Russia and 11 Belarusians with neutral status to compete at the Paris Olympics in a first list from some sports published Saturday.…
+
+## 76-year-old man arrested over death of 80-year-old sister
+ - [https://japantoday.com/category/crime/76-year-old-man-arrested-over-death-of-80-year-old-sister](https://japantoday.com/category/crime/76-year-old-man-arrested-over-death-of-80-year-old-sister)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T07:22:20+00:00
+
+Police in Hachioji, Tokyo, have arrested a 76-year-old man on suspicion of killing his 80-year-old sister.
+According to police, Hideho Tanaka has admitted to strangling his sister with…
+
+## Saipan marks 80th anniversary of fierce WWII Japan-U.S. battle
+ - [https://japantoday.com/category/national/saipan-marks-80th-anniversary-of-fierce-wwii-japan-u.s.-battle](https://japantoday.com/category/national/saipan-marks-80th-anniversary-of-fierce-wwii-japan-u.s.-battle)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T07:21:28+00:00
+
+The Pacific island of Saipan on Saturday marked the 80th anniversary of a fierce World War II battle between Japanese and U.S. troops that claimed over tens of…
+
+## Japan urged to lead G7 efforts to address closer Russia-N Korea ties
+ - [https://japantoday.com/category/politics/focus-japan-urged-to-lead-g7-efforts-to-address-closer-russia-n.-korea-ties](https://japantoday.com/category/politics/focus-japan-urged-to-lead-g7-efforts-to-address-closer-russia-n.-korea-ties)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T07:20:48+00:00
+
+The Group of Seven nations are expressing heightened concern against the intensifying cooperation between Russia and North Korea, as Pyongyang has allegedly received military technologies from Moscow in…
+
+## New China rules allow detention of foreigners in South China Sea
+ - [https://japantoday.com/category/world/new-china-rules-allow-detention-of-foreigners-in-south-china-sea](https://japantoday.com/category/world/new-china-rules-allow-detention-of-foreigners-in-south-china-sea)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T05:54:52+00:00
+
+New Chinese coast guard rules took effect Saturday, under which it can detain foreigners for trespassing in the disputed South China Sea, where neighbors and the G7 have…
+
+## Mavericks roll past Celtics 122-84 to avoid sweep in NBA Finals
+ - [https://japantoday.com/category/sports/doncic-scores-29-mavericks-roll-past-the-celtics-122-84-to-avoid-a-sweep-in-the-nba-finals](https://japantoday.com/category/sports/doncic-scores-29-mavericks-roll-past-the-celtics-122-84-to-avoid-a-sweep-in-the-nba-finals)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T05:13:47+00:00
+
+Luka Doncic scored 25 of his 29 points in the first half, Kyrie Irving added 21 points and the Dallas Mavericks emphatically extended their season on Friday night,…
+
+## More than 1.5 million Muslim pilgrims pray on Mount Arafat in hajj climax
+ - [https://japantoday.com/category/world/muslim-pilgrims-pray-on-mount-arafat-in-hajj-climax](https://japantoday.com/category/world/muslim-pilgrims-pray-on-mount-arafat-in-hajj-climax)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T05:05:30+00:00
+
+More than 1.5 million Muslims will pray on Mount Arafat in soaring temperatures on Saturday, in the high-point and most grueling day of the annual hajj pilgrimage.
+Worshippers…
+
+## FAA investigating how titanium parts with falsified records wound up in Boeing and Airbus planes
+ - [https://japantoday.com/category/world/faa-investigating-how-titanium-parts-with-falsified-records-wound-up-in-boeing-and-airbus-planes](https://japantoday.com/category/world/faa-investigating-how-titanium-parts-with-falsified-records-wound-up-in-boeing-and-airbus-planes)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T04:27:54+00:00
+
+Federal regulators are investigating how parts made with titanium that was sold with falsified quality documentation wound up in Boeing and Airbus passenger jets that were built in…
+
+## Mavericks roll past Celtics 122-84 to avoid sweep in NBA Finals
+ - [https://japantoday.com/category/world/doncic-scores-29-mavericks-roll-past-the-celtics-122-84-to-avoid-a-sweep-in-the-nba-finals](https://japantoday.com/category/world/doncic-scores-29-mavericks-roll-past-the-celtics-122-84-to-avoid-a-sweep-in-the-nba-finals)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T03:23:55+00:00
+
+Luka Doncic scored 25 of his 29 points in the first half, Kyrie Irving added 21 points and the Dallas Mavericks emphatically extended their season on Friday night,…
+
+## Aberg grinds to one-stroke U.S. Open lead as Scheffler struggles
+ - [https://japantoday.com/category/sports/aberg-grinds-to-one-stroke-us-open-lead-as-scheffler-struggles](https://japantoday.com/category/sports/aberg-grinds-to-one-stroke-us-open-lead-as-scheffler-struggles)
+ - RSS feed: https://japantoday.com/feed
+ - date published: 2024-06-15T01:30:47+00:00
+
+Sweden's Ludwig Aberg grinded his way to a one-stroke lead after Friday's second round of the U.S. Open while top-ranked Scottie Scheffler and other favorites struggled at punishing…
+
