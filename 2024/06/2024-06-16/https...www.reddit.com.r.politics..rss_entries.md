@@ -1,0 +1,254 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Trump Lets Loose With Unhinged Father’s Day Message for His Enemies
+ - [https://www.reddit.com/r/politics/comments/1dhig31/trump_lets_loose_with_unhinged_fathers_day](https://www.reddit.com/r/politics/comments/1dhig31/trump_lets_loose_with_unhinged_fathers_day)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T21:57:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhig31/trump_lets_loose_with_unhinged_fathers_day/"> <img alt="Trump Lets Loose With Unhinged Father’s Day Message for His Enemies" src="https://external-preview.redd.it/hgoGgEGnFL8_-KOigRvrIE1vt9fBVmQgJKJZXzu15kM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b73023faf62d7575ee9a3b7c151177fe6fe013b1" title="Trump Lets Loose With Unhinged Father’s Day Message for His Enemies" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Loud-Difficulty7860"> /u/Loud-Difficulty7860 </a> <br /> <span><a href="https://www.thedailybeast.com/trump-lets-loose-with-unhinged-fathers-day-message-for-his-enemies?ref=home?ref=home">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhig31/trump_lets_loose_with_unhinged_fathers_day/">[comments]</a></span> </td></tr></table>
+
+## Column: The fast-food industry claims the California minimum wage law is costing jobs. Its numbers are fake
+ - [https://www.reddit.com/r/politics/comments/1dhgk5b/column_the_fastfood_industry_claims_the](https://www.reddit.com/r/politics/comments/1dhgk5b/column_the_fastfood_industry_claims_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T20:30:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhgk5b/column_the_fastfood_industry_claims_the/"> <img alt="Column: The fast-food industry claims the California minimum wage law is costing jobs. Its numbers are fake" src="https://external-preview.redd.it/MtPo-Xn_ky8cAt_gO8j9KvyNe33uVB5KNWduv_8AenA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22cd613220efc5fe8a4c424e0f5c8e88d70fce6d" title="Column: The fast-food industry claims the California minimum wage law is costing jobs. Its numbers are fake" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nosotros_road_sodium"> /u/nosotros_road_sodium </a> <br /> <span><a href="https://www.latimes.com/business/story/2024-06-12/the-fast-food-industry-claims-the-california-minimum-wage-law-is-costing-jobs-its-numbers-are-fake">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhgk5b/column_the_fastfood_industry_claims_the/">[comments]</a></span> </td></tr></t
+
+## Republican Fact-Checked About Crime Under Joe Biden During Interview
+ - [https://www.reddit.com/r/politics/comments/1dhgf42/republican_factchecked_about_crime_under_joe](https://www.reddit.com/r/politics/comments/1dhgf42/republican_factchecked_about_crime_under_joe)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T20:23:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhgf42/republican_factchecked_about_crime_under_joe/"> <img alt="Republican Fact-Checked About Crime Under Joe Biden During Interview" src="https://external-preview.redd.it/z9igfh5fmloZ51R4YeTdMJ_0XOpEASujueG5EAF3-Zg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b33175973dfcabaed828285c185868381aad7cf3" title="Republican Fact-Checked About Crime Under Joe Biden During Interview" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br /> <span><a href="https://www.newsweek.com/senator-tim-scott-fact-checked-crime-under-joe-biden-1913445">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhgf42/republican_factchecked_about_crime_under_joe/">[comments]</a></span> </td></tr></table>
+
+## In historic first, Florida Governor Ron DeSantis vetoes most arts funding in Florida
+ - [https://www.reddit.com/r/politics/comments/1dhfpwz/in_historic_first_florida_governor_ron_desantis](https://www.reddit.com/r/politics/comments/1dhfpwz/in_historic_first_florida_governor_ron_desantis)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T19:52:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhfpwz/in_historic_first_florida_governor_ron_desantis/"> <img alt="In historic first, Florida Governor Ron DeSantis vetoes most arts funding in Florida" src="https://external-preview.redd.it/Aep_9jffA1-6AEejmbzyGpeIO1BHCeEmrLP_XeIEXpY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b970b916db700a070a17b910448e7e0a5ef198f" title="In historic first, Florida Governor Ron DeSantis vetoes most arts funding in Florida" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mcgillhufflepuff"> /u/mcgillhufflepuff </a> <br /> <span><a href="https://www.heraldtribune.com/story/entertainment/arts/2024/06/14/desantis-vetoes-most-florida-arts-funding-for-first-time-in-history/74087269007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhfpwz/in_historic_first_florida_governor_ron_desantis/">[comments]</a></span> </td></tr></table>
+
+## Trump world reportedly flirts with a return to mandatory military service.
+ - [https://www.reddit.com/r/politics/comments/1dhennv/trump_world_reportedly_flirts_with_a_return_to](https://www.reddit.com/r/politics/comments/1dhennv/trump_world_reportedly_flirts_with_a_return_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T19:03:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhennv/trump_world_reportedly_flirts_with_a_return_to/"> <img alt="Trump world reportedly flirts with a return to mandatory military service." src="https://external-preview.redd.it/8muQsv2vFRrXWaesUSSEfKStqhRDL9igpRtxmM24nSE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb63735b1506307344a930b6598d29805ed3af64" title="Trump world reportedly flirts with a return to mandatory military service." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_RyanLarkin"> /u/_RyanLarkin </a> <br /> <span><a href="https://www.motherjones.com/politics/2024/06/trump-world-mandatory-military-service-washington-post/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhennv/trump_world_reportedly_flirts_with_a_return_to/">[comments]</a></span> </td></tr></table>
+
+## The Motivated Ignorance of Trump Supporters
+ - [https://www.reddit.com/r/politics/comments/1dhehwy/the_motivated_ignorance_of_trump_supporters](https://www.reddit.com/r/politics/comments/1dhehwy/the_motivated_ignorance_of_trump_supporters)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T18:55:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhehwy/the_motivated_ignorance_of_trump_supporters/"> <img alt="The Motivated Ignorance of Trump Supporters" src="https://external-preview.redd.it/9DOIPyFekfN97EyViGUQJJg9eXwaDWeqsARcUCJsZKk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=97a80a7afac3d598d6554b31f99bd91e7deb084b" title="The Motivated Ignorance of Trump Supporters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.theatlantic.com/ideas/archive/2024/06/when-are-trump-supporters-complicit/678704/?gift=dPyl6tM7E7aDVUQhfdWnfcCYBsDxn6zfyfRwI9yzcQc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhehwy/the_motivated_ignorance_of_trump_supporters/">[comments]</a></span> </td></tr></table>
+
+## GOP Rep demanded the VA stop flying Pride flags. They shut him down. He accused the VA of being "woke" in flying the rainbow flag to honor LGBTQ+ veterans.
+ - [https://www.reddit.com/r/politics/comments/1dhegze/gop_rep_demanded_the_va_stop_flying_pride_flags](https://www.reddit.com/r/politics/comments/1dhegze/gop_rep_demanded_the_va_stop_flying_pride_flags)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T18:54:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhegze/gop_rep_demanded_the_va_stop_flying_pride_flags/"> <img alt="GOP Rep demanded the VA stop flying Pride flags. They shut him down. He accused the VA of being &quot;woke&quot; in flying the rainbow flag to honor LGBTQ+ veterans." src="https://external-preview.redd.it/8_AU7zw8GvNZ1DJB7ngE6fxoL7jHT6DkoXXBJUQ3Dbs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=844f8bdb5a6c8d55ea89f768967b2323cf8cb690" title="GOP Rep demanded the VA stop flying Pride flags. They shut him down. He accused the VA of being &quot;woke&quot; in flying the rainbow flag to honor LGBTQ+ veterans." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> <span><a href="https://www.lgbtqnation.com/2024/06/gop-rep-demanded-the-va-stop-flying-pride-flags-they-shut-him-down/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhegze/gop_rep_demanded_t
+
+## Fact check: Biden, not Trump, has the record lows for Black unemployment and poverty
+ - [https://www.reddit.com/r/politics/comments/1dhe9sz/fact_check_biden_not_trump_has_the_record_lows](https://www.reddit.com/r/politics/comments/1dhe9sz/fact_check_biden_not_trump_has_the_record_lows)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T18:45:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhe9sz/fact_check_biden_not_trump_has_the_record_lows/"> <img alt="Fact check: Biden, not Trump, has the record lows for Black unemployment and poverty" src="https://external-preview.redd.it/EJzhvm39drfE12Jau2oKZhDgUr1kuTG5SaNKRMcWWpM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a04fac26b5a4293cd738d187ac89e4bac0be1f9e" title="Fact check: Biden, not Trump, has the record lows for Black unemployment and poverty" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pleasureismylife"> /u/pleasureismylife </a> <br /> <span><a href="https://www.cnn.com/2024/06/16/politics/fact-check-trump-biden-black-unemployment-poverty/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhe9sz/fact_check_biden_not_trump_has_the_record_lows/">[comments]</a></span> </td></tr></table>
+
+## New documents show unreported trips by Justice Clarence Thomas
+ - [https://www.reddit.com/r/politics/comments/1dhdf9g/new_documents_show_unreported_trips_by_justice](https://www.reddit.com/r/politics/comments/1dhdf9g/new_documents_show_unreported_trips_by_justice)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T18:06:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhdf9g/new_documents_show_unreported_trips_by_justice/"> <img alt="New documents show unreported trips by Justice Clarence Thomas" src="https://external-preview.redd.it/RcvFgMCZHJPdps69FiUoExj8NeY32EV_gpK85aiZO9s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4315cd4f0cf054fb32b13e7f6e26719af7bc2674" title="New documents show unreported trips by Justice Clarence Thomas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WombatusMighty"> /u/WombatusMighty </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/06/13/supreme-court-clarence-thomas-travel/?itid=nlp_summaries_item_1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhdf9g/new_documents_show_unreported_trips_by_justice/">[comments]</a></span> </td></tr></table>
+
+## Sen. Chris Murphy Blasts Supreme Court as ‘Brazenly Corrupt and Brazenly Political’
+ - [https://www.reddit.com/r/politics/comments/1dhczvw/sen_chris_murphy_blasts_supreme_court_as_brazenly](https://www.reddit.com/r/politics/comments/1dhczvw/sen_chris_murphy_blasts_supreme_court_as_brazenly)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T17:46:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhczvw/sen_chris_murphy_blasts_supreme_court_as_brazenly/"> <img alt="Sen. Chris Murphy Blasts Supreme Court as ‘Brazenly Corrupt and Brazenly Political’" src="https://external-preview.redd.it/a6bs7eLuVPvB6FMfabmPiXEy0oWaZZ6tXmhFUifWekA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f9799a7c0978cf8a6e2a9f76f1b8045cf19192c" title="Sen. Chris Murphy Blasts Supreme Court as ‘Brazenly Corrupt and Brazenly Political’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/chris-murphy-supreme-court-brazenly-corrupt-political-1235040768/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhczvw/sen_chris_murphy_blasts_supreme_court_as_brazenly/">[comments]</a></span> </td></tr></table>
+
+## Kellyanne Conway dishes more pro-Trump ‘alternative facts’ (lies) on Fox News
+ - [https://www.reddit.com/r/politics/comments/1dhbz87/kellyanne_conway_dishes_more_protrump_alternative](https://www.reddit.com/r/politics/comments/1dhbz87/kellyanne_conway_dishes_more_protrump_alternative)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T16:59:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhbz87/kellyanne_conway_dishes_more_protrump_alternative/"> <img alt="Kellyanne Conway dishes more pro-Trump ‘alternative facts’ (lies) on Fox News" src="https://external-preview.redd.it/aT4QAGqpsOwVVxdk-Ww1AaBZ2BzGdIN9nFK6znHcg-8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25edaae7f9bf95053029e8f48c4c5ef4d6a69435" title="Kellyanne Conway dishes more pro-Trump ‘alternative facts’ (lies) on Fox News" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/0Ring-0"> /u/0Ring-0 </a> <br /> <span><a href="https://www.nj.com/politics/2024/06/kellyanne-conway-dishes-more-pro-trump-alternative-facts-on-fox-news.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhbz87/kellyanne_conway_dishes_more_protrump_alternative/">[comments]</a></span> </td></tr></table>
+
+## Clooney and Roberts help Biden raise $30 million-plus at a star-studded Hollywood gala
+ - [https://www.reddit.com/r/politics/comments/1dhb64b/clooney_and_roberts_help_biden_raise_30](https://www.reddit.com/r/politics/comments/1dhb64b/clooney_and_roberts_help_biden_raise_30)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T16:21:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dhb64b/clooney_and_roberts_help_biden_raise_30/"> <img alt="Clooney and Roberts help Biden raise $30 million-plus at a star-studded Hollywood gala" src="https://external-preview.redd.it/cBURAc-JeF8Ae0ClNkMT4Q77CNy2veqwkrwxrc50hKA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b540ece40db4f48b612ef58bc4cec721c3e94aa0" title="Clooney and Roberts help Biden raise $30 million-plus at a star-studded Hollywood gala" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://apnews.com/article/biden-hollywood-fundraiser-clooney-roberts-ukraine-summit-40081471c93faa68de5c4aa30455303b">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dhb64b/clooney_and_roberts_help_biden_raise_30/">[comments]</a></span> </td></tr></table>
+
+## Trump Challenges Biden to Cognitive Test, Forgets Name of His White House Doctor
+ - [https://www.reddit.com/r/politics/comments/1dha929/trump_challenges_biden_to_cognitive_test_forgets](https://www.reddit.com/r/politics/comments/1dha929/trump_challenges_biden_to_cognitive_test_forgets)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T15:39:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dha929/trump_challenges_biden_to_cognitive_test_forgets/"> <img alt="Trump Challenges Biden to Cognitive Test, Forgets Name of His White House Doctor" src="https://external-preview.redd.it/IlkYy9w_jc9z86oGWJJ0TX3J-TTUEeaIwCgQXmkJdjc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=86d271ee44c0bf6a04b5a89671746e24e882954c" title="Trump Challenges Biden to Cognitive Test, Forgets Name of His White House Doctor" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/trump-biden-cognitive-test-forgets-name-ronny-jackson-1235040738/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dha929/trump_challenges_biden_to_cognitive_test_forgets/">[comments]</a></span> </td></tr></table>
+
+## To fight poverty, some Texas cities gave aid with no strings attached. Conservatives are pushing back.
+ - [https://www.reddit.com/r/politics/comments/1dh9y3y/to_fight_poverty_some_texas_cities_gave_aid_with](https://www.reddit.com/r/politics/comments/1dh9y3y/to_fight_poverty_some_texas_cities_gave_aid_with)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T15:25:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh9y3y/to_fight_poverty_some_texas_cities_gave_aid_with/"> <img alt="To fight poverty, some Texas cities gave aid with no strings attached. Conservatives are pushing back." src="https://external-preview.redd.it/r2NOjy55RuXhagkTC2rGwesLqoSzM_cUNaB6QRHdRlY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9422607059e310fdd29158ef178d67b929f83131" title="To fight poverty, some Texas cities gave aid with no strings attached. Conservatives are pushing back." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br /> <span><a href="https://www.texastribune.org/2024/06/10/texas-guaranteed-income-programs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh9y3y/to_fight_poverty_some_texas_cities_gave_aid_with/">[comments]</a></span> </td></tr></table>
+
+## The Hunter Biden and Trump trials were a litmus test. Only the Bidens passed.
+ - [https://www.reddit.com/r/politics/comments/1dh9vhc/the_hunter_biden_and_trump_trials_were_a_litmus](https://www.reddit.com/r/politics/comments/1dh9vhc/the_hunter_biden_and_trump_trials_were_a_litmus)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T15:21:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh9vhc/the_hunter_biden_and_trump_trials_were_a_litmus/"> <img alt="The Hunter Biden and Trump trials were a litmus test. Only the Bidens passed." src="https://external-preview.redd.it/aYSlwiChODWZR9OruDLn8HY6p4B_6Mgm1DI_bJcc_ws.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=597880a8cffb5231a3e2a24481396cc35ed2df56" title="The Hunter Biden and Trump trials were a litmus test. Only the Bidens passed." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nutritionvegan"> /u/nutritionvegan </a> <br /> <span><a href="https://www.washingtonpost.com/opinions/2024/06/16/hunter-biden-donald-trump-convictions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh9vhc/the_hunter_biden_and_trump_trials_were_a_litmus/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Spiritual Adviser Quasi-Confesses to Molesting 12-Year-Old Girl
+ - [https://www.reddit.com/r/politics/comments/1dh9sc0/trumps_spiritual_adviser_quasiconfesses_to](https://www.reddit.com/r/politics/comments/1dh9sc0/trumps_spiritual_adviser_quasiconfesses_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T15:17:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh9sc0/trumps_spiritual_adviser_quasiconfesses_to/"> <img alt="Trump’s Spiritual Adviser Quasi-Confesses to Molesting 12-Year-Old Girl" src="https://external-preview.redd.it/IllI1jry-utzUszOEwD3tHga8IHxviNLdMqRL8sIdF0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=327ec5278cf937119c22f1c36d48b030e30803f9" title="Trump’s Spiritual Adviser Quasi-Confesses to Molesting 12-Year-Old Girl" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.thedailybeast.com/trumps-spiritual-adviser-robert-morris-half-confesses-to-molesting-12-year-old-girl">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh9sc0/trumps_spiritual_adviser_quasiconfesses_to/">[comments]</a></span> </td></tr></table>
+
+## Trump challenges Biden to cognitive test, but confuses name of doctor who tested him
+ - [https://www.reddit.com/r/politics/comments/1dh9ogg/trump_challenges_biden_to_cognitive_test_but](https://www.reddit.com/r/politics/comments/1dh9ogg/trump_challenges_biden_to_cognitive_test_but)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T15:12:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh9ogg/trump_challenges_biden_to_cognitive_test_but/"> <img alt="Trump challenges Biden to cognitive test, but confuses name of doctor who tested him" src="https://external-preview.redd.it/9C6JnL7pqfHD88r0EO096uhDf1lWlsiamnApBK9gRIY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fade76179d989cb9c8471a6afb25320d271bedbd" title="Trump challenges Biden to cognitive test, but confuses name of doctor who tested him" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.npr.org/2024/06/16/g-s1-4673/trump-challenges-biden-to-cognitive-test-but-confuses-name-of-doctor-who-tested-him">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh9ogg/trump_challenges_biden_to_cognitive_test_but/">[comments]</a></span> </td></tr></table>
+
+## Biden rips into Supreme Court, calls appointments ‘one of the scariest parts’ of a second Trump term
+ - [https://www.reddit.com/r/politics/comments/1dh9alu/biden_rips_into_supreme_court_calls_appointments](https://www.reddit.com/r/politics/comments/1dh9alu/biden_rips_into_supreme_court_calls_appointments)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T14:54:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Scarlet-Ivy"> /u/Scarlet-Ivy </a> <br /> <span><a href="https://www.politico.com/news/2024/06/16/biden-rips-into-supreme-court-calls-appointments-one-of-the-scariest-parts-of-a-second-trump-term-00163598">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh9alu/biden_rips_into_supreme_court_calls_appointments/">[comments]</a></span>
+
+## Biden delivers stark warnings about potential second Trump term at star-studded fundraiser
+ - [https://www.reddit.com/r/politics/comments/1dh8ymm/biden_delivers_stark_warnings_about_potential](https://www.reddit.com/r/politics/comments/1dh8ymm/biden_delivers_stark_warnings_about_potential)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T14:37:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh8ymm/biden_delivers_stark_warnings_about_potential/"> <img alt="Biden delivers stark warnings about potential second Trump term at star-studded fundraiser" src="https://external-preview.redd.it/KI84TL4sgtolj7vaTi5tXQFPMtWdsZ2w28uXES0enN0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cded2846253a17281bcfd0482dc021f262549a4d" title="Biden delivers stark warnings about potential second Trump term at star-studded fundraiser" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/S3314"> /u/S3314 </a> <br /> <span><a href="https://www.cnn.com/2024/06/16/politics/joe-biden-supreme-court-warning-barack-obama-jimmy-kimmel/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh8ymm/biden_delivers_stark_warnings_about_potential/">[comments]</a></span> </td></tr></table>
+
+## Democratic Rep. Khanna to skip Netanyahu address: ‘I'm not going to sit in a one-way lecture’
+ - [https://www.reddit.com/r/politics/comments/1dh8wqf/democratic_rep_khanna_to_skip_netanyahu_address](https://www.reddit.com/r/politics/comments/1dh8wqf/democratic_rep_khanna_to_skip_netanyahu_address)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T14:35:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh8wqf/democratic_rep_khanna_to_skip_netanyahu_address/"> <img alt="Democratic Rep. Khanna to skip Netanyahu address: ‘I'm not going to sit in a one-way lecture’" src="https://external-preview.redd.it/_21Sm3chebs5SnDK1Sk4h-zYSyuUwsx33Hkd0hg3Oyw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c09ec8170e5dbd1c88618bab4fe2a9458e16d0ca" title="Democratic Rep. Khanna to skip Netanyahu address: ‘I'm not going to sit in a one-way lecture’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.nbcnews.com/meet-the-press/video/democratic-rep-khanna-to-skip-netanyahu-address-i-m-not-going-to-sit-in-a-one-way-lecture-213070917769">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh8wqf/democratic_rep_khanna_to_skip_netanyahu_address/">[comments]</a></span> </td></tr></table>
+
+## The Supreme Court Just Made Future Mass Shootings Even Deadlier
+ - [https://www.reddit.com/r/politics/comments/1dh7o6v/the_supreme_court_just_made_future_mass_shootings](https://www.reddit.com/r/politics/comments/1dh7o6v/the_supreme_court_just_made_future_mass_shootings)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T13:32:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh7o6v/the_supreme_court_just_made_future_mass_shootings/"> <img alt="The Supreme Court Just Made Future Mass Shootings Even Deadlier" src="https://external-preview.redd.it/VM0gwinD-g-Gb1vhi8qrX4mj0PKFZfUkRf0T7alyYrg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9560622175b3db0f69a82c4551ebafdb732824d" title="The Supreme Court Just Made Future Mass Shootings Even Deadlier" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenewrepublic"> /u/thenewrepublic </a> <br /> <span><a href="https://newrepublic.com/article/182769/supreme-court-just-made-future-mass-shootings-even-deadlier">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh7o6v/the_supreme_court_just_made_future_mass_shootings/">[comments]</a></span> </td></tr></table>
+
+## The Overlooked (But Real) Possibility of a Big Democratic Win | Both moderates and progressives are pushing the Biden campaign to get more ambitious
+ - [https://www.reddit.com/r/politics/comments/1dh7gg1/the_overlooked_but_real_possibility_of_a_big](https://www.reddit.com/r/politics/comments/1dh7gg1/the_overlooked_but_real_possibility_of_a_big)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T13:20:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh7gg1/the_overlooked_but_real_possibility_of_a_big/"> <img alt="The Overlooked (But Real) Possibility of a Big Democratic Win | Both moderates and progressives are pushing the Biden campaign to get more ambitious" src="https://external-preview.redd.it/VHAK1sp7cxouZr00JG7JjaG8A5zlF4ysFNVQdrDLzT4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=18bab29d6e41046a4989e7fc39027794a5b298d3" title="The Overlooked (But Real) Possibility of a Big Democratic Win | Both moderates and progressives are pushing the Biden campaign to get more ambitious" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hrmbee"> /u/Hrmbee </a> <br /> <span><a href="https://www.theatlantic.com/politics/archive/2024/06/biden-campaign-2024-election-senate/678691/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh7gg1/the_overlooked_but_real_possibility_of_a_big/">[comments]</a></span> <
+
+## Biden says the next president may get to name two Supreme Court justices
+ - [https://www.reddit.com/r/politics/comments/1dh79fe/biden_says_the_next_president_may_get_to_name_two](https://www.reddit.com/r/politics/comments/1dh79fe/biden_says_the_next_president_may_get_to_name_two)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T13:09:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh79fe/biden_says_the_next_president_may_get_to_name_two/"> <img alt="Biden says the next president may get to name two Supreme Court justices" src="https://external-preview.redd.it/YpG4NrExDE3MILQGiYkMJyNd_VaDOBQOh1rqu9JIvR4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=390cf570ac5fda4f192b77b8b37385ee0d5ab68e" title="Biden says the next president may get to name two Supreme Court justices" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jdmorgenstern"> /u/jdmorgenstern </a> <br /> <span><a href="https://www.npr.org/2024/06/15/nx-s1-5007404/biden-supreme-court-vacancies-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh79fe/biden_says_the_next_president_may_get_to_name_two/">[comments]</a></span> </td></tr></table>
+
+## Biden goes on offense over age issue, wishing Trump a happy 78th birthday
+ - [https://www.reddit.com/r/politics/comments/1dh76nw/biden_goes_on_offense_over_age_issue_wishing](https://www.reddit.com/r/politics/comments/1dh76nw/biden_goes_on_offense_over_age_issue_wishing)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T13:05:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh76nw/biden_goes_on_offense_over_age_issue_wishing/"> <img alt="Biden goes on offense over age issue, wishing Trump a happy 78th birthday" src="https://external-preview.redd.it/-UwNBCNRQRQSKtUvtzjgnQRA2YghEZrt59GGn3vv7hk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3bb41e4e2ee2adc986eb6eee0c9e547c71d237d" title="Biden goes on offense over age issue, wishing Trump a happy 78th birthday" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/jun/15/biden-wishes-trump-happy-birthday">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh76nw/biden_goes_on_offense_over_age_issue_wishing/">[comments]</a></span> </td></tr></table>
+
+## Trump threatens to cut US aid to Ukraine quickly if reelected
+ - [https://www.reddit.com/r/politics/comments/1dh5qad/trump_threatens_to_cut_us_aid_to_ukraine_quickly](https://www.reddit.com/r/politics/comments/1dh5qad/trump_threatens_to_cut_us_aid_to_ukraine_quickly)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T11:39:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh5qad/trump_threatens_to_cut_us_aid_to_ukraine_quickly/"> <img alt="Trump threatens to cut US aid to Ukraine quickly if reelected" src="https://external-preview.redd.it/UtooS9Jqs26u0ZNknlDKc13UnzwMwnJG1ISKZFb5mlE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=74e161bd8eb3b10d5804cbe488fd9286b1c76001" title="Trump threatens to cut US aid to Ukraine quickly if reelected" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MuzzleO"> /u/MuzzleO </a> <br /> <span><a href="https://www.politico.eu/article/donald-trump-ukraine-russia-war-threatens-cut-aid-election-2024/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh5qad/trump_threatens_to_cut_us_aid_to_ukraine_quickly/">[comments]</a></span> </td></tr></table>
+
+## Bannon vows Trump’s opponents will be prosecuted in a second term
+ - [https://www.reddit.com/r/politics/comments/1dh5pc7/bannon_vows_trumps_opponents_will_be_prosecuted](https://www.reddit.com/r/politics/comments/1dh5pc7/bannon_vows_trumps_opponents_will_be_prosecuted)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T11:37:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh5pc7/bannon_vows_trumps_opponents_will_be_prosecuted/"> <img alt="Bannon vows Trump’s opponents will be prosecuted in a second term" src="https://external-preview.redd.it/sbrDSCya6ACwP89D0H98ImcntM0bh7-x6PNr3GqzTIE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=acb878fedebda7162824f334e13619e6890ce02a" title="Bannon vows Trump’s opponents will be prosecuted in a second term" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jessicas_skirt"> /u/Jessicas_skirt </a> <br /> <span><a href="https://www.cnn.com/2024/06/15/politics/bannon-turning-point-trump-retribution">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh5pc7/bannon_vows_trumps_opponents_will_be_prosecuted/">[comments]</a></span> </td></tr></table>
+
+## GOP faces political minefield on IVF, life at conception
+ - [https://www.reddit.com/r/politics/comments/1dh5jqs/gop_faces_political_minefield_on_ivf_life_at](https://www.reddit.com/r/politics/comments/1dh5jqs/gop_faces_political_minefield_on_ivf_life_at)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T11:27:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh5jqs/gop_faces_political_minefield_on_ivf_life_at/"> <img alt="GOP faces political minefield on IVF, life at conception" src="https://external-preview.redd.it/l6vtT5h5l7jsakQVf9NozfmnECF4Iz6AZZR5-rWCbg0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53aa6dce45e57414117dac9c92b5980b4d448d5e" title="GOP faces political minefield on IVF, life at conception" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Surferino"> /u/Surferino </a> <br /> <span><a href="https://thehill.com/policy/healthcare/4723327-gop-faces-political-minefield-on-ivf-life-at-conception/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh5jqs/gop_faces_political_minefield_on_ivf_life_at/">[comments]</a></span> </td></tr></table>
+
+## Lara Trump is building an army of ‘100,000 poll watchers and over 500 lawyers’ to ‘deploy’ across America in November
+ - [https://www.reddit.com/r/politics/comments/1dh5bp8/lara_trump_is_building_an_army_of_100000_poll](https://www.reddit.com/r/politics/comments/1dh5bp8/lara_trump_is_building_an_army_of_100000_poll)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T11:12:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh5bp8/lara_trump_is_building_an_army_of_100000_poll/"> <img alt="Lara Trump is building an army of ‘100,000 poll watchers and over 500 lawyers’ to ‘deploy’ across America in November" src="https://external-preview.redd.it/UuNVYn0UTa1Fi6jy94Jnoo0OcAgNh9WNivBPqb36wco.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d67c9848b53c5c5756a5fae065f5fd929400d61" title="Lara Trump is building an army of ‘100,000 poll watchers and over 500 lawyers’ to ‘deploy’ across America in November" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AgentBlue62"> /u/AgentBlue62 </a> <br /> <span><a href="https://nypost.com/2024/06/14/us-news/lara-trump-is-building-an-army-of-100000-poll-watchers-and-over-500-lawyers-to-deploy-across-america-in-november/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh5bp8/lara_trump_is_building_an_army_of_100000_poll/">[comments]</a></sp
+
+## ‘They want us to be scared’: Protesters target organizers for abortion ballot measure in Arkansas
+ - [https://www.reddit.com/r/politics/comments/1dh5078/they_want_us_to_be_scared_protesters_target](https://www.reddit.com/r/politics/comments/1dh5078/they_want_us_to_be_scared_protesters_target)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T10:50:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh5078/they_want_us_to_be_scared_protesters_target/"> <img alt="‘They want us to be scared’: Protesters target organizers for abortion ballot measure in Arkansas" src="https://external-preview.redd.it/YSa6ETLWy5VUPK5zg0d4hXTB8n8ySqfJjmnmHy6ByR0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=897f03a25b4d67c3106df851072db6c2b3043b96" title="‘They want us to be scared’: Protesters target organizers for abortion ballot measure in Arkansas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BordAccord"> /u/BordAccord </a> <br /> <span><a href="https://19thnews.org/2024/06/arkansas-abortion-ballot-measure-harassment/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh5078/they_want_us_to_be_scared_protesters_target/">[comments]</a></span> </td></tr></table>
+
+## Trump confuses doctor's name whilst accusing Biden of cognitive decline
+ - [https://www.reddit.com/r/politics/comments/1dh4vtl/trump_confuses_doctors_name_whilst_accusing_biden](https://www.reddit.com/r/politics/comments/1dh4vtl/trump_confuses_doctors_name_whilst_accusing_biden)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T10:42:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dh4vtl/trump_confuses_doctors_name_whilst_accusing_biden/"> <img alt="Trump confuses doctor's name whilst accusing Biden of cognitive decline" src="https://external-preview.redd.it/jBil2mTudncb4Q5eZEz3BKP8t3ANFbVVvTb3kzGSB2g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ecd96a75d3348c5945b78c291c5a29df571ab1b8" title="Trump confuses doctor's name whilst accusing Biden of cognitive decline" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AgentBlue62"> /u/AgentBlue62 </a> <br /> <span><a href="https://www.euronews.com/2024/06/16/trump-confuses-doctors-name-whilst-accusing-biden-of-cognitive-decline">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh4vtl/trump_confuses_doctors_name_whilst_accusing_biden/">[comments]</a></span> </td></tr></table>
+
+## Biden knows ‘exactly what he is doing’ and will likely win election, says German chancellor
+ - [https://www.reddit.com/r/politics/comments/1dh4swp/biden_knows_exactly_what_he_is_doing_and_will](https://www.reddit.com/r/politics/comments/1dh4swp/biden_knows_exactly_what_he_is_doing_and_will)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T10:36:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Impressive_Toe_8900"> /u/Impressive_Toe_8900 </a> <br /> <span><a href="https://www.politico.com/news/2024/06/15/biden-scholz-g7-00163585">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dh4swp/biden_knows_exactly_what_he_is_doing_and_will/">[comments]</a></span>
+
+## Trump gets name of his doctor wrong as he challenges Biden to cognitive test
+ - [https://www.reddit.com/r/politics/comments/1dgzqyc/trump_gets_name_of_his_doctor_wrong_as_he](https://www.reddit.com/r/politics/comments/1dgzqyc/trump_gets_name_of_his_doctor_wrong_as_he)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T04:32:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dgzqyc/trump_gets_name_of_his_doctor_wrong_as_he/"> <img alt="Trump gets name of his doctor wrong as he challenges Biden to cognitive test" src="https://external-preview.redd.it/PfzCLiwPenSfRDNH3XNRVOLzOTFqNeSaZert-W2NhqM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28876078c55c8cebf0adda8324e87d13db3078ed" title="Trump gets name of his doctor wrong as he challenges Biden to cognitive test" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DeathClawdVanDamn"> /u/DeathClawdVanDamn </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/jun/16/trump-gets-name-of-his-doctor-wrong-as-he-challenges-biden-to-cognitive-test">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dgzqyc/trump_gets_name_of_his_doctor_wrong_as_he/">[comments]</a></span> </td></tr></table>
+
+## Missouri abortion ban wasn't about lawmakers imposing religious beliefs, judge says
+ - [https://www.reddit.com/r/politics/comments/1dgyigb/missouri_abortion_ban_wasnt_about_lawmakers](https://www.reddit.com/r/politics/comments/1dgyigb/missouri_abortion_ban_wasnt_about_lawmakers)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T03:16:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dgyigb/missouri_abortion_ban_wasnt_about_lawmakers/"> <img alt="Missouri abortion ban wasn't about lawmakers imposing religious beliefs, judge says" src="https://external-preview.redd.it/SdXxkiKJKZBtKvA16hteDk8Pz-awyWMlyThskWgsy-s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42718d84ddaee36df0ec34182429e2b62e31855b" title="Missouri abortion ban wasn't about lawmakers imposing religious beliefs, judge says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/snacksv1"> /u/snacksv1 </a> <br /> <span><a href="https://apnews.com/article/abortion-lawsuit-religious-leaders-missouri-b460c0866dd0c0285589137beca1db49">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dgyigb/missouri_abortion_ban_wasnt_about_lawmakers/">[comments]</a></span> </td></tr></table>
+
+## Trump challenges Biden to a cognitive test but confuses the name of the doctor who tested him
+ - [https://www.reddit.com/r/politics/comments/1dgwjyg/trump_challenges_biden_to_a_cognitive_test_but](https://www.reddit.com/r/politics/comments/1dgwjyg/trump_challenges_biden_to_a_cognitive_test_but)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T01:21:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dgwjyg/trump_challenges_biden_to_a_cognitive_test_but/"> <img alt="Trump challenges Biden to a cognitive test but confuses the name of the doctor who tested him" src="https://external-preview.redd.it/NwySC9m1ZF3DuqIFsP07ZOMn8XixhVqWWczP3O9x8YE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61af590e41ce749cb5362d84e2d17e5790e2fed9" title="Trump challenges Biden to a cognitive test but confuses the name of the doctor who tested him" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Surferino"> /u/Surferino </a> <br /> <span><a href="https://apnews.com/article/trump-mental-acuity-gaffe-biden-ronny-jackson-0d45b6d89ae295b690f5ad12ca0bd38a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dgwjyg/trump_challenges_biden_to_a_cognitive_test_but/">[comments]</a></span> </td></tr></table>
+
+## Trump challenges Biden to a cognitive test but confuses the name of the doctor who tested him
+ - [https://www.reddit.com/r/politics/comments/1dgvzjk/trump_challenges_biden_to_a_cognitive_test_but](https://www.reddit.com/r/politics/comments/1dgvzjk/trump_challenges_biden_to_a_cognitive_test_but)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T00:50:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dgvzjk/trump_challenges_biden_to_a_cognitive_test_but/"> <img alt="Trump challenges Biden to a cognitive test but confuses the name of the doctor who tested him" src="https://external-preview.redd.it/-ED_BViI7bVfD3hRQ3f3VsVOq4Vcdlj5s7g7SXSpoj0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3c92cf0683dd33a619741797fc446c1458d7478" title="Trump challenges Biden to a cognitive test but confuses the name of the doctor who tested him" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Sweet-8495"> /u/Ok-Sweet-8495 </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/06/15/trump-mental-acuity-gaffe-biden-ronny-jackson/5f398ac0-2b78-11ef-835a-2a6acac1f8a6_story.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dgvzjk/trump_challenges_biden_to_a_cognitive_test_but/">[comments]</a></span> </td></tr></table>
+
+## Marjorie Taylor Greene Promises to ‘Lock Up’ Fauci for ‘Crimes Against Humanity’ | Greene lashed out at Fauci and Democratic politicians at a conservative conference while audience members chanted “Lock him up!”
+ - [https://www.reddit.com/r/politics/comments/1dgvexu/marjorie_taylor_greene_promises_to_lock_up_fauci](https://www.reddit.com/r/politics/comments/1dgvexu/marjorie_taylor_greene_promises_to_lock_up_fauci)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-16T00:18:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dgvexu/marjorie_taylor_greene_promises_to_lock_up_fauci/"> <img alt="Marjorie Taylor Greene Promises to ‘Lock Up’ Fauci for ‘Crimes Against Humanity’ | Greene lashed out at Fauci and Democratic politicians at a conservative conference while audience members chanted “Lock him up!”" src="https://external-preview.redd.it/9uFrx3bEdkACw2y6fcZTDAxJ2XrKBxxKwvhd2WtNg20.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=037702c22be8f40a5809b7d4ef2de0fd38aae0d3" title="Marjorie Taylor Greene Promises to ‘Lock Up’ Fauci for ‘Crimes Against Humanity’ | Greene lashed out at Fauci and Democratic politicians at a conservative conference while audience members chanted “Lock him up!”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.thedailybeast.com/marjorie-taylor-greene-promises-to-lock-up-fauci-for-crimes-against-humanity?ref=w
+
