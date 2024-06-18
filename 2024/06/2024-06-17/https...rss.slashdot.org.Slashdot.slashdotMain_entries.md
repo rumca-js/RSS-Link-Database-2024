@@ -1,0 +1,196 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## $2.4 Million Texas Home Listing Boasts Built-In 5,786 sq ft Data Center
+ - [https://tech.slashdot.org/story/24/06/17/1937244/24-million-texas-home-listing-boasts-built-in-5786-sq-ft-data-center?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/06/17/1937244/24-million-texas-home-listing-boasts-built-in-5786-sq-ft-data-center?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T23:45:48.746325+00:00
+
+A Zillow listing for a $2.4 million house in a Dallas suburb is grabbing attention for its 5,786-square-foot data center with immersion cooling tanks, massive server racks, and two separate power grids. Tom's Hardware reports: With a brick exterior, cute paving, and mini-McMansion arch stylings, the building certainly looks to be a residential home for the archetypal Texas family. Prospective home-buyers will thus be disappointed by the 0 bedroom, 1 bathroom setup, which becomes a warehouse-feeling office from the first step inside where you are met with a glass-shielded reception desk in a white-brick corridor. The "Crypto Collective" branding betrays the former life of the unit, which served admirably as a crypto mining base.
+ 
+The purchase of the "upgraded turnkey Tier 2 Data Center" will include all of its cooling and power infrastructure. Three Engineered Fluids "SLICTanks," single-phase liquid immersion cooling tanks for use with dielectric coolant, will come with pumps and a 50
+
+## Meta Accused of Trying To Discredit Ad Researchers
+ - [https://tech.slashdot.org/story/24/06/17/1946221/meta-accused-of-trying-to-discredit-ad-researchers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/06/17/1946221/meta-accused-of-trying-to-discredit-ad-researchers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T23:45:46.902378+00:00
+
+Thomas Claburn reports via The Register: Meta allegedly tried to discredit university researchers in Brazil who had flagged fraudulent adverts on the social network's ad platform. Nucleo, a Brazil-based news organization, said it has obtained government documents showing that attorneys representing Meta questioned the credibility of researchers from NetLab, which is part of the Federal University of Rio de Janeiro (UFRJ). NetLab's research into Meta's ads contributed to Brazil's National Consumer Secretariat (Senacon) decision in 2023 to fine Meta $1.7 million (9.3 million BRL), which is still being appealed. Meta (then Facebook) was separately fined of $1.2 million (6.6 million BRL) related to Cambridge Analytica.
+ 
+As noted by Nucleo, NetLab's report showed that Facebook, despite being notified about the issues, had failed to remove more than 1,800 scam ads that fraudulently used the name of a government program that was supposed to assist those in debt. In response to the fine, att
+
+## French Court Orders Google, Cloudflare, Cisco To Poison DNS To Stop Piracy
+ - [https://yro.slashdot.org/story/24/06/17/1930219/french-court-orders-google-cloudflare-cisco-to-poison-dns-to-stop-piracy?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/06/17/1930219/french-court-orders-google-cloudflare-cisco-to-poison-dns-to-stop-piracy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T22:41:09.438788+00:00
+
+An anonymous reader quotes a report from TorrentFreak: A French court has ordered Google, Cloudflare, and Cisco to poison their DNS resolvers to prevent circumvention of blocking measures, targeting around 117 pirate sports streaming domains. The move is another anti-piracy escalation for broadcaster Canal+, which also has permission to completely deindex the sites from search engine results. [...] Two decisions were handed down by the Paris judicial court last month; one concerning Premier League matches and the other the Champions League. The orders instruct Google, Cloudflare, and Cisco to implement measures similar to those in place at local ISPs. To protect the rights of Canal+, the companies must prevent French internet users from using their services to access around 117 pirate domains.
+ 
+According to French publication l'Informe, which broke the news, Google attorney Sebastien Proust crunched figures published by government anti-piracy agency Arcom and concluded that the effec
+
+## McDonald's Pauses AI-Powered Drive-Thru Voice Orders
+ - [https://slashdot.org/story/24/06/17/1913228/mcdonalds-pauses-ai-powered-drive-thru-voice-orders?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/06/17/1913228/mcdonalds-pauses-ai-powered-drive-thru-voice-orders?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T21:35:48.716135+00:00
+
+After two years of testing, McDonald's has ended its use of AI-powered drive-thru ordering. "The company was trialing IBM tech at more than 100 of its restaurants but it will remove those systems from all locations by the end of July, meaning that customers will once again be placing orders with a human instead of a computer," reports Engadget. From the report: As part of that decision, McDonald's is ending its automated order taking (AOT) partnership with IBM. However, McDonald's may be considering other potential partners to work with on future AOT efforts. "While there have been successes to date, we feel there is an opportunity to explore voice ordering solutions more broadly," Mason Smoot, chief restaurant officer for McDonald's USA, said in an email to franchisees that was obtained by trade publication Restaurant Business (as noted by PC Mag). Smoot added that the company would look into other options and make "an informed decision on a future voice ordering solution by the end 
+
+## Apple Developing Thinner MacBook Pro, Apple Watch, and iPhone
+ - [https://apple.slashdot.org/story/24/06/17/1921235/apple-developing-thinner-macbook-pro-apple-watch-and-iphone?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/06/17/1921235/apple-developing-thinner-macbook-pro-apple-watch-and-iphone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T21:35:47.184535+00:00
+
+According to Bloomberg's Mark Gurman, Apple appears ready to embrace a thinner design language with the upcoming MacBook Pro, Apple Watch, and iPhone. MacRumors reports: When the M4 iPad Pro was unveiled last month, Apple touted it as the company's thinnest product ever, and even compared it to the 2012 iPod nano to emphasize its slim dimensions. Writing in the latest edition of his Power On newsletter, Gurman says that like the iPad Pro, Apple is now focused on delivering the thinnest possible devices across its lineups without compromising on battery life or major new features. Gurman writes that the new iPad Pro is the "beginning of a new class of Apple devices," and that Apple's aim is to offer "the thinnest and lightest products in their categories across the whole tech industry." Apple now reportedly has its sights on making thinner versions of iPhone, Apple Watch, and MacBook Pro over the next couple of years.
+ 
+Gurman's sources tell him Apple is now focused on developing a sig
+
+## Surgeon General Wants Tobacco-Style Warning Applied To Social Media Platforms
+ - [https://tech.slashdot.org/story/24/06/17/1910203/surgeon-general-wants-tobacco-style-warning-applied-to-social-media-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/06/17/1910203/surgeon-general-wants-tobacco-style-warning-applied-to-social-media-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T20:30:50.791564+00:00
+
+An anonymous reader quotes a report from NBC News: U.S. Surgeon General Vivek Murthy on Monday called on Congress to require a tobacco-style warning for visitors to social media platforms. In an op-ed published in The New York Times, Murthy said the mental health crisis among young people is an urgent problem, with social media "an important contributor." He said his vision of the warning includes language that would alert users to the potential mental health harms of the websites and apps. "A surgeon general's warning label, which requires congressional action, would regularly remind parents and adolescents that social media has not been proved safe," he wrote.
+ 
+In 1965, after the previous year's landmark report from Surgeon General Luther L. Terry that linked cigarette smoking to lung cancer and heart disease, Congress mandated unprecedented warning labels on packs of cigarettes, the first of which stated, "Caution: Cigarette Smoking May Be Hazardous to Your Health." Murthy said in
+
+## Apple Discontinues 'Buy Now, Pay Later' Service
+ - [https://apple.slashdot.org/story/24/06/17/1844243/apple-discontinues-buy-now-pay-later-service?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/06/17/1844243/apple-discontinues-buy-now-pay-later-service?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T19:26:04.282787+00:00
+
+Apple said on Monday it will no longer offer its "buy now, pay later" service, Apple Pay Later, in the United States, and will instead focus on bringing installment loan offerings to Apple Pay users globally later this year. The company told 9to5Mac that the new feature will allow users to access installment loans from eligible credit and debit cards, as well as lenders, when checking out with Apple Pay. 
+
+Existing Apple Pay Later users in the U.S. will still be able to manage their loans through the Wallet app. Apple Pay Later, which launched in the U.S. in March last year, allowed users to split purchases of $50 to $1,000 into four equal payments over six weeks without fees or interest. The company said the shift to a global installment loan offering will enable it to provide flexible payments to more users worldwide in collaboration with Apple Pay enabled banks and lenders.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Apple+Discontinues+
+
+## Hackers Demand as Much as $5 Million From Snowflake Clients
+ - [https://it.slashdot.org/story/24/06/17/1834210/hackers-demand-as-much-as-5-million-from-snowflake-clients?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/06/17/1834210/hackers-demand-as-much-as-5-million-from-snowflake-clients?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T19:26:02.152543+00:00
+
+Cybercriminals are demanding payments of between $300,000 and $5 million apiece from as many as 10 companies breached in a campaign that targeted Snowflake customers, according to a security firm helping with the investigation. From a report: The hacking scheme has entered a "new stage" as the gang looks to profit from the most valuable information it has stolen, said Austin Larsen, a senior threat analyst at Google's Mandiant security business, which helped lead Snowflake's inquiry. That includes auctioning companies' data on illegal online forums to try to pressure them into making payments, he said. 
+
+"We anticipate the actor to continue to attempt to extort victims," Larsen said. Snowflake, a cloud-based data analytics firm, said on June 2 that hackers had launched a "targeted" effort directed against Snowflake users that used single-factor authentication techniques. The company declined to comment on any specific customers.<p><div class="share_submission">
+<a class="slashpop" hre
+
+## Proton Seeks To Secure Its Privacy-Focused Future With a Nonprofit Model
+ - [https://yro.slashdot.org/story/24/06/17/1644247/proton-seeks-to-secure-its-privacy-focused-future-with-a-nonprofit-model?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/06/17/1644247/proton-seeks-to-secure-its-privacy-focused-future-with-a-nonprofit-model?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T18:21:58.558405+00:00
+
+Proton, the secure-minded email and productivity suite, is becoming a nonprofit foundation, but it doesn't want you to think about it in the way you think about other notable privacy and web foundations. From a report: "We believe that if we want to bring about large-scale change, Proton can't be billionaire-subsidized (like Signal), Google-subsidized (like Mozilla), government-subsidized (like Tor), donation-subsidized (like Wikipedia), or even speculation-subsidized (like the plethora of crypto "foundations")," Proton CEO Andy Yen wrote in a blog post announcing the transition. "Instead, Proton must have a profitable and healthy business at its core." 
+
+The announcement comes exactly 10 years to the day after a crowdfunding campaign saw 10,000 people give more than $500,000 to launch Proton Mail. To make it happen, Yen, along with co-founder Jason Stockman and first employee Dingchao Lu, endowed the Proton Foundation with some of their shares. The Proton Foundation is now the primar
+
+## Amazon-Powered AI Cameras Used To Detect Emotions of Unwitting UK Train Passengers
+ - [https://yro.slashdot.org/story/24/06/17/1641224/amazon-powered-ai-cameras-used-to-detect-emotions-of-unwitting-uk-train-passengers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/06/17/1641224/amazon-powered-ai-cameras-used-to-detect-emotions-of-unwitting-uk-train-passengers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T17:16:10.793415+00:00
+
+Thousands of people catching trains in the United Kingdom likely had their faces scanned by Amazon software as part of widespread artificial intelligence trials, new documents reveal. Wired: The image recognition system was used to predict travelers' age, gender, and potential emotions -- with the suggestion that the data could be used in advertising systems in the future. During the past two years, eight train stations around the UK -- including large stations such as London's Euston and Waterloo, Manchester Piccadilly, and other smaller stations -- have tested AI surveillance technology with CCTV cameras with the aim of alerting staff to safety incidents and potentially reducing certain types of crime. 
+
+The extensive trials, overseen by rail infrastructure body Network Rail, have used object recognition -- a type of machine learning that can identify items in videofeeds -- to detect people trespassing on tracks, monitor and predict platform overcrowding, identify antisocial behavio
+
+## US Sues Adobe Over Subscription Plan Disclosures
+ - [https://news.slashdot.org/story/24/06/17/1653208/us-sues-adobe-over-subscription-plan-disclosures?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/06/17/1653208/us-sues-adobe-over-subscription-plan-disclosures?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T17:16:08.973702+00:00
+
+The U.S. government on Monday sued Adobe, accusing the maker of Photoshop and Acrobat of harming consumers by enrolling them in its most lucrative subscription plans without clearly disclosing important terms. From a report: In a complaint filed in the San Jose, California, federal court, the government said Adobe failed to adequately disclose hefty early termination fees, sometimes reaching hundreds of dollars, when customers sign up for "annual, paid monthly" subscription plans. 
+
+The government said Adobe hides important terms in fine print and behind textboxes and hyperlinks, clearly discloses the fees only when subscribers try to cancel, and makes canceling an onerous and complicated process.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=US+Sues+Adobe+Over+Subscription+Plan+Disclosures%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F06%2F17%2F1653208%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twi
+
+## Three of Vietnam's Five Undersea Internet Cables Are Down
+ - [https://tech.slashdot.org/story/24/06/17/1449235/three-of-vietnams-five-undersea-internet-cables-are-down?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/06/17/1449235/three-of-vietnams-five-undersea-internet-cables-are-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T16:12:11.233407+00:00
+
+Three out of Vietnam's five active international undersea internet cables are down, state media said over the weekend, the second major round of outages in the country in just over a year. From a report: The problems with the three cables, which connect Vietnam with the United States, Europe and Asia, have "significantly affected Vietnam's internet connection with the world", reported the official Vietnam News Agency. Vietnam is connected to the global internet mainly via five undersea cables with a combined capacity of nearly 62 Tbps, according to data from FPT, one of the country's top internet service providers. It's not clear if the three cables referred to, which account for most of the bandwidth, are totally or partially down.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Three+of+Vietnam's+Five+Undersea+Internet+Cables+Are+Down%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F06%2F17%2F1449235%2F%3Futm_source%3Dtwitter%26utm_medium%3
+
+## AI in Finance is Like 'Moving From Typewriters To Word Processors'
+ - [https://slashdot.org/story/24/06/17/162219/ai-in-finance-is-like-moving-from-typewriters-to-word-processors?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/06/17/162219/ai-in-finance-is-like-moving-from-typewriters-to-word-processors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T16:12:09.096899+00:00
+
+The accounting and finance professions have long adapted to technology -- from calculators and spreadsheets to cloud computing. However, the emergence of generative AI presents both new challenges and opportunities for students looking to get ahead in the world of finance. From a report: Research last year by investment bank Evercore and Visionary Future, which incubates new ventures, highlights the workforce disruption being wreaked by generative AI. Analysing 160mn US jobs, the study reveals that service sectors such as legal and financial are highly susceptible to disruption by AI, although full job replacement is unlikely. 
+
+Instead, generative AI is expected to enhance productivity, the research concludes, particularly for those in high-value roles paying above $100,000 annually. But, for current students and graduates earning below this threshold, the challenge will be navigating these changes and identifying the skills that will be in demand in future. Generative AI is being sw
+
+## YouTube Introduces Experimental 'Notes' for Users To Add Context To Videos
+ - [https://news.slashdot.org/story/24/06/17/1345258/youtube-introduces-experimental-notes-for-users-to-add-context-to-videos?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/06/17/1345258/youtube-introduces-experimental-notes-for-users-to-add-context-to-videos?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T15:05:33.922737+00:00
+
+YouTube is piloting a new feature called "Notes" that allows viewers to add context and information under videos. The move comes as YouTube aims to minimize the spread of misinformation on its platform, particularly during the pivotal 2024 U.S. election year. The feature, similar to Community Notes on X (formerly Twitter), will initially be available on mobile in the U.S. in English.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=YouTube+Introduces+Experimental+'Notes'+for+Users+To+Add+Context+To+Videos%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F06%2F17%2F1345258%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F06%2F17%2F1345258%2Fyoutube-introduces-experimental-notes-for-users-to-add-context-to-videos%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"><img src="http
+
+## Wells Fargo Bet on a Flashy Rent Credit Card. It Is Costing the Bank Dearly.
+ - [https://news.slashdot.org/story/24/06/17/1440200/wells-fargo-bet-on-a-flashy-rent-credit-card-it-is-costing-the-bank-dearly?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/06/17/1440200/wells-fargo-bet-on-a-flashy-rent-credit-card-it-is-costing-the-bank-dearly?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T15:05:32.361224+00:00
+
+Wells Fargo's co-branded credit card partnership with fintech startup Bilt Technologies is causing the bank to lose up as much as $10 million monthly, according to a WSJ report. The bank agreed to a co-branded program with the fintech startup that most other big banks -- including JPMorgan Chase -- passed on, incorrectly modeled key assumptions and sees no path to profitability. The card, which allows users to pay rent without fees while earning rewards, has attracted many young customers. From the report: There is a reason why credit cards hadn't gained traction in the rent sector until Bilt came along. Most landlords didn't accept them because they refuse to pay card fees that get pocketed by the banks issuing them and often run between 2% and 3%. 
+
+Bilt structured the card so landlords won't incur the fees. Wells instead eats much of that. About six months after the credit card was launched, Wells began paying Bilt a fee of about 0.80% of each rent transaction, even though the bank
+
+## ASUS Releases Firmware Update for Critical Remote Authentication Bypass Affecting Seven Routers
+ - [https://mobile.slashdot.org/story/24/06/17/0237229/asus-releases-firmware-update-for-critical-remote-authentication-bypass-affecting-seven-routers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://mobile.slashdot.org/story/24/06/17/0237229/asus-releases-firmware-update-for-critical-remote-authentication-bypass-affecting-seven-routers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T12:17:05.338673+00:00
+
+A report from BleepingComputer notes that ASUS "has released a new firmware update that addresses a vulnerability impacting seven router models that allow remote attackers to log in to devices." But there's more bad news:
+
+Taiwan's CERT has also informed the public about CVE-2024-3912 in a post yesterday, which is a critical (9.8) arbitrary firmware upload vulnerability allowing unauthenticated, remote attackers to execute system commands on the device. The flaw impacts multiple ASUS router models, but not all will be getting security updates due to them having reached their end-of-life (EoL). 
+
+Finally, ASUS announced an update to Download Master, a utility used on ASUS routers that enables users to manage and download files directly to a connected USB storage device via torrent, HTTP, or FTP. The newly released Download Master version 3.1.0.114 addresses five medium to high-severity issues concerning arbitrary file upload, OS command injection, buffer overflow, reflected XSS, and st
+
+## Researchers Devise Photosynthesis-Based Energy Source With Negative Carbon Emissions
+ - [https://hardware.slashdot.org/story/24/06/17/067229/researchers-devise-photosynthesis-based-energy-source-with-negative-carbon-emissions?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/06/17/067229/researchers-devise-photosynthesis-based-energy-source-with-negative-carbon-emissions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T09:01:31.320178+00:00
+
+Researchers have devised a way to extract energy from the photosynthesis process of algae, according to an announcement from Concordia University. 
+
+Suspended in a specialized solution, the algae forms part of a "micro photosynthetic power cell" that can actually generate enough energy to power low-power devices like Internet of Things (IoT) sensors.
+"Photosynthesis produces oxygen and electrons. Our model traps the electrons, which allows us to generate electricity," [says Kirankumar Kuruvinashetti, PhD 20, now a Mitacs postdoctoral associate at the University of Calgary.] "So more than being a zero-emission technology, it's a negative carbon emission technology: it absorbs carbon dioxide from the atmosphere and gives you a current. Its only byproduct is water." 
+
+
+[...] Muthukumaran Packirisamy, professor in the Department of Mechanical, Industrial and Aerospace Engineering and the paper's corresponding author, admits the system is not yet able to compete in power generation with ot
+
+## AI Researcher Warns Data Science Could Face a Reproducibility Crisis
+ - [https://slashdot.org/story/24/06/16/0131202/ai-researcher-warns-data-science-could-face-a-reproducibility-crisis?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/06/16/0131202/ai-researcher-warns-data-science-could-face-a-reproducibility-crisis?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T06:52:51.682158+00:00
+
+Long-time Slashdot reader theodp shared this warning from a long-time AI researcher arguing that data science "is due" for a reckoning over whether results can be reproduced. "Few technological revolutions came with such a low barrier of entry as Machine Learning..."
+Unlike Machine Learning, Data Science is not an academic discipline, with its own set of algorithms and methods... There is an immense diversity, but also disparities in skill, expertise, and knowledge among Data Scientists... In practice, depending on their backgrounds, data scientists may have large knowledge gaps in computer science, software engineering, theory of computation, and even statistics in the context of machine learning, despite those topics being fundamental to any ML project. But it's ok, because you can just call the API, and Python is easy to learn. Right...? 
+
+Building products using Machine Learning and data is still difficult. The tooling infrastructure is still very immature and the non-standard com
+
+## ASUS Promises Support Overhaul After YouTube Investigators Allege Dishonesty
+ - [https://games.slashdot.org/story/24/06/17/0223244/asus-promises-support-overhaul-after-youtube-investigators-allege-dishonesty?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/06/17/0223244/asus-promises-support-overhaul-after-youtube-investigators-allege-dishonesty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T06:52:50.139918+00:00
+
+ASUS has suddenly agreed "to overhaul its customer support and warranty systems," writes the hardware review site Gamers Nexus &mdash; after a three-video series on its YouTube channel documented bad and "potentially illegal" handling of customer warranties for the channel's 2.2 million viewers. 
+
+The Verge highlights ASUS's biggest change:
+If you've ever been denied a warranty repair or charged for a service that was unnecessary or should've been free, Asus wants to hear from you at a new email address. It claims those disputes will be processed by Asus' own staff rather than outsourced customer support agents.... The company is also apologizing today for previous experiences you might have had with repairs. "We're very sorry to anyone who has had a negative experience with our service team. We appreciate your feedback and giving us a chance to make amends." 
+
+It started five weeks ago when Gamers Nexus requested service for a joystick problem, according to a May 10 video. First they
+
+## America's Defense Department Ran a Secret Disinfo Campaign Online Against China's Covid Vaccine
+ - [https://news.slashdot.org/story/24/06/17/0541243/americas-defense-department-ran-a-secret-disinfo-campaign-online-against-chinas-covid-vaccine?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/06/17/0541243/americas-defense-department-ran-a-secret-disinfo-campaign-online-against-chinas-covid-vaccine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-06-17T06:52:48.607270+00:00
+
+"At the height of the COVID-19 pandemic, the U.S. military launched a secret campaign to counter what it perceived as China's growing influence in the Philippines..." reports Reuters. 
+
+"It aimed to sow doubt about the safety and efficacy of vaccines and other life-saving aid that was being supplied by China, a Reuters investigation found." 
+
+Reuters interviewed "more than two dozen current and former U.S officials, military contractors, social media analysts and academic researchers," and also reviewed posts on social media, technical data and documents about "a set of fake social media accounts used by the U.S. military" &mdash; some active for more than five years. Friday they reported the results of their investigation:
+
+Through phony internet accounts meant to impersonate Filipinos, the military's propaganda efforts morphed into an anti-vax campaign. Social media posts decried the quality of face masks, test kits and the first vaccine that would become available in the Philippine
+

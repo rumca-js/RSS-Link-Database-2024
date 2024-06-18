@@ -1,0 +1,152 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Sumerian Six's pulpy stealth-tactics almost manages to fill that Mimimi-shaped hole
+ - [https://www.eurogamer.net/sumerian-sixs-pulpy-stealth-tactics-almost-manages-to-fill-that-mimimi-shaped-hole](https://www.eurogamer.net/sumerian-sixs-pulpy-stealth-tactics-almost-manages-to-fill-that-mimimi-shaped-hole)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T20:02:22+00:00
+
+<img src="https://assetsio.gnwcdn.com/sumerian-six-wishlisted.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Sumerian Six gets two things right immediately as far as I&rsquo;m concerned. One, it lets you punch a bunch of Nazis in a pulpy 1930s setting, and two, it&rsquo;s the kind of old-school, sight-cone-dodging stealth-tactics game I&rsquo;m a sucker for. These things don&rsquo;t come around too often, being a niche within a niche and all, and they feel especially rare now after the genre suffered a major blow last year when Desperados 3 and Shadow Tactics studio Mimimi Games announced it was <a href="https://www.eurogamer.net/shadow-gambit-the-cursed-crew-developer-announces-closure">shutting its doors</a>. So you can probably imagine the little happy dance I did when Devolver Digital unveiled Sumerian Six and its paranormally imbued alternate-history WW2 action during Summer Game Fest season - even if that excitement was somewhat 
+
+## GTA trilogy reaches 30m downloads on Netflix
+ - [https://www.eurogamer.net/gta-trilogy-reaches-30m-downloads-on-netflix](https://www.eurogamer.net/gta-trilogy-reaches-30m-downloads-on-netflix)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T15:34:15+00:00
+
+<img src="https://assetsio.gnwcdn.com/GTA-San-Andreas_yy2EIlf.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Recent data states Rockstar's GTA trilogy has hit a combined total of over 30m downloads on Netflix.</p><p>Grand Theft Auto 3, Vice City, and San Andreas <a href="https://www.eurogamer.net/grand-theft-auto-3-vice-city-and-san-andreas-heading-to-netflix-in-december">made their way onto the service in December</a>, following earlier reports that <a href="https://www.eurogamer.net/netflix-reportedly-looking-to-license-gta-title-as-it-moves-into-higher-end-gaming">Netflix had been in talks with Rockstar</a> to licence a GTA game as part of an attempt to introduce "higher-end" titles to its mobile-focused gaming catalogue.</p><p>In January, it was subsequently reported that the <a href="https://www.eurogamer.net/netflixs-monthly-game-downloads-nearly-tripled-to-28m-in-december-thanks-to-gta">arrival of these three games had given a b
+
+## DF Weekly: Live stream quality can be awful - and it should be better
+ - [https://www.eurogamer.net/digitalfoundry-2024-df-weekly-live-stream-quality-can-be-awful-and-it-should-be-better](https://www.eurogamer.net/digitalfoundry-2024-df-weekly-live-stream-quality-can-be-awful-and-it-should-be-better)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T15:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/FWD_Keyart_960x540-topaz-standard-v2-2x.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>This week's DF Direct Weekly is what you might call a 'come down' episode. After the highs of the Sony State of Play, Summer Games Fest and the best Xbox Showcase in years, we take things a little more slowly - though we do spend a fair amount of time looking at Ubisoft Forward. While the gaming content gets plenty of commentary, it's actually the quality of the live streaming presentation itself that we <em>really</em> take issue with. Why did it look so bad?</p><p>For years now, digital showcases have had a problem: the state of live streaming technology on YouTube. Low bit-rates, low resolutions, inconsistent frame-rates, terrible macroblocking. It got to the point where we'd need to watch the content twice - first to get the news via the live stream, then secondly to check out the individually uploaded traile
+
+## EA's top execs earned $60m in last fiscal year, despite company layoffs
+ - [https://www.eurogamer.net/eas-top-execs-earned-60m-in-last-fiscal-year-despite-company-layoffs](https://www.eurogamer.net/eas-top-execs-earned-60m-in-last-fiscal-year-despite-company-layoffs)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T14:43:12+00:00
+
+<img src="https://assetsio.gnwcdn.com/Star-Wars-Jedi-Survivor-Story-Trailer-Cal-Kestis-and-Droid.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+EA's top execs earned $60m in the fiscal year 2024, despite the company laying off hundreds of employees.
+</p><p>
+In particular CEO Andrew Wilson earned just under half that number himself - $25.6m - and was praised for executing on "key strategic and operating objectives".
+</p><p>
+Those objectives include reorganising the business into EA Entertainment and EA Sports; "optimising our portfolio, investments and resources in support of our strategic priorities and growth initiatives" as part of a restructuring plan; progressing the company's "long-term strategy plan focused on driving durable growth, strong cash flow and stockholder returns"; and overseeing a "year of continued employee satisfaction scores above industry benchmarks", which included "record high talent retention".
+</p> <p><a href
+
+## Still Wakes the Deep review - astonishing artistry can't quite keep this oil rig horror afloat
+ - [https://www.eurogamer.net/still-wakes-the-deep-review](https://www.eurogamer.net/still-wakes-the-deep-review)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T14:19:42+00:00
+
+<img src="https://assetsio.gnwcdn.com/still-wakes-the-deep-header-2.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>As horror locations go, an oil rig is a doozy. It's remote, claustrophobic on the inside, and no less oppressive on the outside, what with its thrashing storms and merciless seas. But for all its bleakness, there's warmth and life, a last bit of humanity and light at the edge of the world - and Still Wakes the Deep, the latest from Dear Esther and Everybody's Gone to the Rapture developer The Chinese Room, embraces all these wonderful extremities as its first-person narrative adventure unfolds.</p><p>It's 23rd December 1975, and electrician Cameron McLeary - Caz to friends - has just received a letter from his wife, begging him to come home. There's tension, we sense, and more to the story we don't yet know, but it's soon brushed aside as his duties call. And so begins one hell of a day on the Beira D oil rig, out in the c
+
+## Nintendo Direct announced for tomorrow
+ - [https://www.eurogamer.net/nintendo-direct-announced-for-tomorrow-2](https://www.eurogamer.net/nintendo-direct-announced-for-tomorrow-2)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T14:06:10+00:00
+
+<img src="https://assetsio.gnwcdn.com/Mario-jumping-placeholder-image.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Nintendo has announced the date and time for its next Direct showcase.</p><p>Those wanting to hear more about what the Mario maker has in store over the coming months can tune in on 18th June, at 3pm. The Direct will be available to watch on <a href="https://www.youtube.com/live/kX3BkD5PVUM">Nintendo's YouTube channels</a>.</p><p>The company has not laid out specifics for what we can expect during tomorrow's broadcast, merely stating it will be "focused on Nintendo Switch games coming in the second half of 2024" and "there will be no mention of the Nintendo Switch successor during this presentation".</p> <p><a href="https://www.eurogamer.net/nintendo-direct-announced-for-tomorrow-2">Read more</a></p>
+
+## Mod support in Baldur's Gate 3 will be final handover moment to players, says Larian CEO
+ - [https://www.eurogamer.net/mod-support-in-baldurs-gate-3-will-be-final-handover-moment-to-players-says-larian-ceo](https://www.eurogamer.net/mod-support-in-baldurs-gate-3-will-be-final-handover-moment-to-players-says-larian-ceo)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T13:59:29+00:00
+
+<img src="https://assetsio.gnwcdn.com/astarion-baldurs-gate-3.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Baldur's Gate 3 will receive <a href="https://www.eurogamer.net/baldurs-gate-3-patch-7-adds-official-modding-toolkit-this-autumn">official mod support in a forthcoming patch</a>, which Larian CEO Swen Vincke said will be a handover moment to players.
+
+</p><p>
+Speaking at BAFTA's An Evening with Baldur's Gate 3 after the game received multiple wins at this year's awards, Vincke discussed development of the game and Larian's long term support.
+</p><p>
+"One of the big things for us, and the one that we're really working towards now, is the ability for players to mod [Baldur's Gate 3] themselves, because then they will be able to make their own things," said Vincke. "And I think that will be the point where we're going to say 'ok, now it's yours fully'."
+</p> <p><a href="https://www.eurogamer.net/mod-support-in-baldurs-gate-3-will-
+
+## Bethesda feels no need to rush out a new Fallout, despite franchise's current popularity boost
+ - [https://www.eurogamer.net/bethesda-feels-no-need-to-rush-out-a-new-fallout-despite-franchises-current-popularity-boost](https://www.eurogamer.net/bethesda-feels-no-need-to-rush-out-a-new-fallout-despite-franchises-current-popularity-boost)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T13:52:21+00:00
+
+<img src="https://assetsio.gnwcdn.com/Fallout-header_n0gHT6X.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Fallout has seen a renewed spike in popularity following the release of Amazon's TV adaptation. However, despite this, Bethesda doesn't feel under pressure to rush a new game out to placate fans.</p><p>Speaking with YouTuber MrMattyPlays, Todd Howard acknowledged that the Fallout series is probably at its most popular, with the <a href="https://www.eurogamer.net/todd-howard-says-fallout-renaissance-is-beyond-anything-hes-seen-in-his-career">franchise boasting some record player numbers over recent months</a>. Howard went on to state the studio gives "a lot of thought to franchise management" when questioned specifically about the future of Fallout as a whole.</p><p>"I spend a lot of time thinking about franchises I love... so, for us, it is sort of game planning out - number one, making sure Fallout is relevant in the world, and 
+
+## A Quiet Place: The Road Ahead revealed for PC and consoles
+ - [https://www.eurogamer.net/a-quiet-place-the-road-ahead-revealed-for-pc-and-consoles](https://www.eurogamer.net/a-quiet-place-the-road-ahead-revealed-for-pc-and-consoles)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T13:05:06+00:00
+
+<img src="https://assetsio.gnwcdn.com/A-Quiet-Place-The-Road-Ahead.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Publisher Saber Interactive has today given us a look at the upcoming release, A Quiet Place: The Road Ahead. 
+</p><p>
+This narrative-driven horror game is inspired by the film series, which includes two John Krasinski-directed releases as well as an upcoming prequel spin-off. </p><p>It was <a href="https://www.eurogamer.net/a-quiet-place-is-a-new-single-player-story-driven-horror-game-based-on-the-film">first announced to be in the pipeline back in 2021</a>, however at this time all we had was a logo and the promise of an original story and gameplay that "captures the compelling suspense, emotion and drama for which the series is famous".</p> <p><a href="https://www.eurogamer.net/a-quiet-place-the-road-ahead-revealed-for-pc-and-consoles">Read more</a></p>
+
+## Bethesda's Todd Howard confirms at least one more Starfield expansion after Shattered Space
+ - [https://www.eurogamer.net/bethesdas-todd-howard-confirms-at-least-one-more-starfield-expansion-after-shattered-space](https://www.eurogamer.net/bethesdas-todd-howard-confirms-at-least-one-more-starfield-expansion-after-shattered-space)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T12:24:24+00:00
+
+<img src="https://assetsio.gnwcdn.com/Starfield-Shattered-Space-trailer-screenshot.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Todd Howard has shared more about Bethesda's future DLC plans for <a href="https://www.eurogamer.net/starfield-guides-tips-tricks-9352">Starfield</a>. 
+</p><p>
+Speaking with YouTuber MrMattyPlays, the Bethesda exec spoke about the studio's "annual story expansion" approach. When further asked about his comment and whether Bethesda was taking this approach with Starfield, Howard replied: "I would say we want to, more or less, yeah. How long that continues? Hopefully a very long time." </p><p>He then added the studio was already "planning for the one after this", confirming "there will be another one" after Shattered Space.</p> <p><a href="https://www.eurogamer.net/bethesdas-todd-howard-confirms-at-least-one-more-starfield-expansion-after-shattered-space">Read more</a></p>
+
+## Alone in the Dark reboot developer closed by Embracer
+ - [https://www.eurogamer.net/alone-in-the-dark-reboot-developer-closed-by-embracer](https://www.eurogamer.net/alone-in-the-dark-reboot-developer-closed-by-embracer)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T12:21:30+00:00
+
+<img src="https://assetsio.gnwcdn.com/alone-in-the-dark-david-and-emily-driving-to-derceto-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Pieces Interactive, the developer behind the recent Alone in the Dark reboot, has been shut down by Embracer.
+</p><p>
+The developer's website now reads "thanks for playing with us" and the dates 2007-2024. "Our last release was the reimagining of Alone in the Dark," it concludes (thanks <a href="https://www.ign.com/articles/embracer-shuts-down-alone-in-the-dark-developer-pieces-interactive">IGN</a>).
+</p><p>
+Embracer acquired Pieces in 2017 after working on a number of Titan Quest projects. The Swedish conglomerate has closed a number of developers over the past year, resulting in layoffs.
+</p> <p><a href="https://www.eurogamer.net/alone-in-the-dark-reboot-developer-closed-by-embracer">Read more</a></p>
+
+## Elden Ring: Shadow of the Erdtree is a chance to return to the real game FromSoftware is always secretly playing
+ - [https://www.eurogamer.net/elden-ring-shadow-of-the-erdtree-is-a-chance-to-return-to-the-real-game-fromsoftware-is-always-secretly-playing](https://www.eurogamer.net/elden-ring-shadow-of-the-erdtree-is-a-chance-to-return-to-the-real-game-fromsoftware-is-always-secretly-playing)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T10:23:30+00:00
+
+<img src="https://assetsio.gnwcdn.com/Valley-view.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>One of those rare clarifying moments in my life came when I was told that the whale in Moby Dick didn't symbolise anything. Or rather, it didn't symbolise any one single thing in a fixed and coherent way. The whale might symbolise a handful of things, and those things might contradict one another and you'd just have to live with it. Also the whale was simultaneously a whale - no <em>just</em> or <em>merely</em> a whale, because there is never anything "mere" to be had when a whale is involved.</p><p>This was a brilliant thing to learn, and I still think about it often. Symbolism and things like that were very exciting when I was first learning about art and literature, but the danger, I guess, is that they become binary, a kind of substitution cypher. If the whale is a single thing, then Moby Dick is a puzzle that can be solved and we can a
+
+## Lords of the Fallen sequel set for 2026
+ - [https://www.eurogamer.net/lords-of-the-fallen-sequel-set-for-2026](https://www.eurogamer.net/lords-of-the-fallen-sequel-set-for-2026)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T10:22:10+00:00
+
+<img src="https://assetsio.gnwcdn.com/Lords2_artdirection_market_screenshot_CastleVista_paintover01.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Lords of the Fallen publisher CI Games is gearing up to release a sequel in 2026.
+</p><p>
+The announcement comes from a filing from CI Games, shared by Polish site <a href="https://www.bankier.pl/wiadomosc/CI-GAMES-S-E-Podpisanie-Binding-Term-Sheet-z-Epic-Games-Inc-8765997.html">Bankier</a>, which also confirms Epic will have the exclusive worldwide distribution rights to the sequel on PC.
+</p><p>
+Elsewhere, the rights to publish and distribute the game worldwide "on all other platforms, including the PlayStation 5 and Xbox Series X/S platforms for which the game is currently in development, will remain with the company".
+</p> <p><a href="https://www.eurogamer.net/lords-of-the-fallen-sequel-set-for-2026">Read more</a></p>
+
+## FromSoft warns of Elden Ring: Shadow of the Erdtree spoilers ahead of DLC release
+ - [https://www.eurogamer.net/fromsoft-warns-of-elden-ring-shadow-of-the-erdtree-spoilers-ahead-of-dlc-release](https://www.eurogamer.net/fromsoft-warns-of-elden-ring-shadow-of-the-erdtree-spoilers-ahead-of-dlc-release)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T09:56:44+00:00
+
+<img src="https://assetsio.gnwcdn.com/Elden-Ring-Shadow-of-the-Erdtree-enemy.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><a href="https://www.eurogamer.net/shadow-of-the-erdtree-brings-further-depth-and-grandeur-to-fromsoftwares-masterpiece">Elden Ring DLC</a> Shadow of the Erdtree is out soon, and in anticipation developer FromSoftware has asked that people are considerate with what they post on social media to avoid any spoilers.</p><p>Greeting its many Tarnished players (it was recently announced <a href="https://www.eurogamer.net/elden-ring-has-shipped-25m-units-worldwide">Elden Ring has now shipped 25m units worldwide</a>) the team wrote: "With the release of the expansion of Elden Ring, Shadow of the Erdtree, please be mindful of spoilers for those who want to tread into the Realm of Shadow with nothing but their determination and their minds unclouded."</p><p>It closed its post on X by preemptively thanking the Elden Ring com
+
+## Elden Ring creator Hidetaka Miyazaki still hasn't made his "ideal fantasy RPG"
+ - [https://www.eurogamer.net/elden-ring-creator-hidetaka-miyazaki-still-hasnt-made-his-ideal-fantasy-rpg](https://www.eurogamer.net/elden-ring-creator-hidetaka-miyazaki-still-hasnt-made-his-ideal-fantasy-rpg)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T09:48:27+00:00
+
+<img src="https://assetsio.gnwcdn.com/GORM-eDWcAAyA1Q.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+<a href="https://www.eurogamer.net/games/elden-ring">Elden Ring</a> creator Hidetaka Miyazaki is "still in the process" of creating his "ideal fantasy RPG", despite the huge success of the game and the previous Souls games.
+</p><p>
+When interviewed by <a href="https://www.pcgamer.com/games/rpg/shadow-of-the-erdtree-miyazaki-interview-cover-story-preview/">PC Gamer</a>, Miyazaki discussed the influence of tabletop games on his work. "You might say that trying to capture that excitement of those old tabletop games and game books was one facet of making Elden Ring," he said. 
+
+</p><p>
+"But I think more than anything it's just my personal preference when it comes to RPGs and exploring fantasy worlds, so you might see some of my personal idiosyncrasies come into play. I'm still in the process of making my ideal fantasy RPG. While Elden Ring
+
+## Six ways to prepare for Shadow of the Erdtree - from someone who's played it
+ - [https://www.eurogamer.net/six-ways-to-prepare-for-shadow-of-the-erdtree-from-someone-whos-played-it](https://www.eurogamer.net/six-ways-to-prepare-for-shadow-of-the-erdtree-from-someone-whos-played-it)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-06-17T09:43:48+00:00
+
+<img src="https://assetsio.gnwcdn.com/Messmer.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Join me as I pull six things you can do to prepare for playing Shadow of the Erdtree from <a href="https://www.eurogamer.net/shadow-of-the-erdtree-brings-further-depth-and-grandeur-to-fromsoftwares-masterpiece">Emma's recent Elden Ring DLC preview</a>. These are practical tips from someone who's played the game so if you want to hit the ground running (away from terrifying beasts) this is something you'll likely want to watch. </p><p>
+Shadow of the Erdtree promises to be a challenge for those who have already completed Elden Ring, so it's no surprise that it's subtlety recommended for players between level 90 to 120. FromSoftware has clarified that in order to access the DLC you have to defeat both Radahn and Mohg, with Mohg being an optional boss. The rough level you should reach before taking him on is level 90. Reaching level 100 takes rough
+
