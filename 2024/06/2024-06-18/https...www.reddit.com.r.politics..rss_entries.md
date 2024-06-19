@@ -1,0 +1,303 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Trump's "all-tariff" proposal would increase middle-class taxes by up to $8,500 a year: analysis | Trump has proposed to get rid of income taxes altogether at the cost of taxing poor people more than the top 0.1%
+ - [https://www.reddit.com/r/politics/comments/1dj15zc/trumps_alltariff_proposal_would_increase](https://www.reddit.com/r/politics/comments/1dj15zc/trumps_alltariff_proposal_would_increase)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T20:50:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dj15zc/trumps_alltariff_proposal_would_increase/"> <img alt="Trump's &quot;all-tariff&quot; proposal would increase middle-class taxes by up to $8,500 a year: analysis | Trump has proposed to get rid of income taxes altogether at the cost of taxing poor people more than the top 0.1%" src="https://external-preview.redd.it/pV-ifVF_IBopV75eFDHFxINpDvxPVm9E8xXkeYPpDQU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd74f4c314636a0c2b2508848298036802757aa5" title="Trump's &quot;all-tariff&quot; proposal would increase middle-class taxes by up to $8,500 a year: analysis | Trump has proposed to get rid of income taxes altogether at the cost of taxing poor people more than the top 0.1%" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br /> <span><a href="https://www.salon.com/2024/06/18/all-tariff-proposal-would-increase-middle-class-by-up-to-8500-a-yea
+
+## Matt Gaetz Probe Now Looking at Sexual Misconduct, Drug Claims
+ - [https://www.reddit.com/r/politics/comments/1dj0qkf/matt_gaetz_probe_now_looking_at_sexual_misconduct](https://www.reddit.com/r/politics/comments/1dj0qkf/matt_gaetz_probe_now_looking_at_sexual_misconduct)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T20:32:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dj0qkf/matt_gaetz_probe_now_looking_at_sexual_misconduct/"> <img alt="Matt Gaetz Probe Now Looking at Sexual Misconduct, Drug Claims" src="https://external-preview.redd.it/xxywcmC3EcpyJFplfBXJGCq7ubmZvJfeffZ9Tl7k8tE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd3bec6042f8d18fb580c0e365ada9d3ef6397de" title="Matt Gaetz Probe Now Looking at Sexual Misconduct, Drug Claims" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.thedailybeast.com/house-ethics-committee-alleges-rep-matt-gaetz-r-fl-guilty-of-more-than-sex-and-drug-trafficking">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dj0qkf/matt_gaetz_probe_now_looking_at_sexual_misconduct/">[comments]</a></span> </td></tr></table>
+
+## One in 20 Donald Trump voters are switching to Joe Biden this election—Poll
+ - [https://www.reddit.com/r/politics/comments/1dj0obz/one_in_20_donald_trump_voters_are_switching_to](https://www.reddit.com/r/politics/comments/1dj0obz/one_in_20_donald_trump_voters_are_switching_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T20:29:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dj0obz/one_in_20_donald_trump_voters_are_switching_to/"> <img alt="One in 20 Donald Trump voters are switching to Joe Biden this election—Poll" src="https://external-preview.redd.it/q0ha_aGD3rB0sL_tl6uPb1xvBK7wS7qk0PckVAkbwyU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a90f100e08000c3b6dcb1fe78922b02127a2901" title="One in 20 Donald Trump voters are switching to Joe Biden this election—Poll" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Healthy_Block3036"> /u/Healthy_Block3036 </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-2020-voters-joe-biden-2024-election-poll-1914204">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dj0obz/one_in_20_donald_trump_voters_are_switching_to/">[comments]</a></span> </td></tr></table>
+
+## Trump Is Now Openly Threatening CEOs Who Don’t Support Him
+ - [https://www.reddit.com/r/politics/comments/1dj01ur/trump_is_now_openly_threatening_ceos_who_dont](https://www.reddit.com/r/politics/comments/1dj01ur/trump_is_now_openly_threatening_ceos_who_dont)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T20:03:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dj01ur/trump_is_now_openly_threatening_ceos_who_dont/"> <img alt="Trump Is Now Openly Threatening CEOs Who Don’t Support Him" src="https://external-preview.redd.it/0jvy9xjjqBFCInacn0I3xZLfsvcUKWaSrI6vUmh2-y4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab26c1f6787f815e3cd2d171c04ee58358569c28" title="Trump Is Now Openly Threatening CEOs Who Don’t Support Him" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/harsh2k5"> /u/harsh2k5 </a> <br /> <span><a href="https://newrepublic.com/post/182868/trump-threaten-ceos-support">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dj01ur/trump_is_now_openly_threatening_ceos_who_dont/">[comments]</a></span> </td></tr></table>
+
+## MAGA Pushes New Conspiracy to Prep for Trump Losing Biden Debate
+ - [https://www.reddit.com/r/politics/comments/1diyd8p/maga_pushes_new_conspiracy_to_prep_for_trump](https://www.reddit.com/r/politics/comments/1diyd8p/maga_pushes_new_conspiracy_to_prep_for_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T18:53:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1diyd8p/maga_pushes_new_conspiracy_to_prep_for_trump/"> <img alt="MAGA Pushes New Conspiracy to Prep for Trump Losing Biden Debate" src="https://external-preview.redd.it/hiT2joGrI9zWCdJZjnkyQu7V-olPSliqjUkdBDfJ_vQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6016a3bbcf03839c6b88e1c8bfcd1cb5a55fb4ad" title="MAGA Pushes New Conspiracy to Prep for Trump Losing Biden Debate" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://newrepublic.com/post/182844/maga-conspiracy-trump-biden-debate-drugs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1diyd8p/maga_pushes_new_conspiracy_to_prep_for_trump/">[comments]</a></span> </td></tr></table>
+
+## Fauci says he still faces death threats because of political ‘performances’ like Marjorie Taylor Greene’s at Covid-19 hearing
+ - [https://www.reddit.com/r/politics/comments/1dix3th/fauci_says_he_still_faces_death_threats_because](https://www.reddit.com/r/politics/comments/1dix3th/fauci_says_he_still_faces_death_threats_because)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T18:01:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dix3th/fauci_says_he_still_faces_death_threats_because/"> <img alt="Fauci says he still faces death threats because of political ‘performances’ like Marjorie Taylor Greene’s at Covid-19 hearing" src="https://external-preview.redd.it/lra9PeO90VyV2d1JrLlsKPqsHi968UF8Z8dAPNZ0lXs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec3dd8c7713bf37796f06804ee20d6dc8f98ad97" title="Fauci says he still faces death threats because of political ‘performances’ like Marjorie Taylor Greene’s at Covid-19 hearing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheEleventhDoctorWho"> /u/TheEleventhDoctorWho </a> <br /> <span><a href="https://www.cnn.com/2024/06/03/politics/fauci-covid-19-pandemic-hearing-threats-cnntv/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dix3th/fauci_says_he_still_faces_death_threats_because/">[comments]</a></span> </td></tr></t
+
+## Why Republicans keep ignoring reality about falling crime rates. Reality makes clear that Biden-era crime rates are going down. Republicans keep telling voters to believe that Biden-era crime rates are going up.
+ - [https://www.reddit.com/r/politics/comments/1dix23y/why_republicans_keep_ignoring_reality_about](https://www.reddit.com/r/politics/comments/1dix23y/why_republicans_keep_ignoring_reality_about)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T17:59:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dix23y/why_republicans_keep_ignoring_reality_about/"> <img alt="Why Republicans keep ignoring reality about falling crime rates. Reality makes clear that Biden-era crime rates are going down. Republicans keep telling voters to believe that Biden-era crime rates are going up." src="https://external-preview.redd.it/xjyNPpAC_46dPPV8XKxUL_7JLt7EIqOCk7RrcZ-HUbk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7e83f4b6200f6c677efc6ce4e6fb14cafeb23c0" title="Why Republicans keep ignoring reality about falling crime rates. Reality makes clear that Biden-era crime rates are going down. Republicans keep telling voters to believe that Biden-era crime rates are going up." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rhino910"> /u/rhino910 </a> <br /> <span><a href="https://www.msnbc.com/rachel-maddow-show/maddowblog/republicans-keep-ignoring-reality-falling-crime-rates-rcna157670">[link]</a><
+
+## 'Lawyers, Judges, Technology': Roger Stone Touts Plan for Trump Win in Secret Recording
+ - [https://www.reddit.com/r/politics/comments/1diwkfv/lawyers_judges_technology_roger_stone_touts_plan](https://www.reddit.com/r/politics/comments/1diwkfv/lawyers_judges_technology_roger_stone_touts_plan)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T17:39:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1diwkfv/lawyers_judges_technology_roger_stone_touts_plan/"> <img alt="'Lawyers, Judges, Technology': Roger Stone Touts Plan for Trump Win in Secret Recording" src="https://external-preview.redd.it/biarqpOIlzmgyJoWXaqaJVnLr8MgPAULi_yCxQ_YPj8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36e2b7a3bcc986349d9cd23e5fef179e8e4b2074" title="'Lawyers, Judges, Technology': Roger Stone Touts Plan for Trump Win in Secret Recording" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HandSack135"> /u/HandSack135 </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-features/roger-stone-plan-trump-win-lawyers-judges-technology-1235041650/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1diwkfv/lawyers_judges_technology_roger_stone_touts_plan/">[comments]</a></span> </td></tr></table>
+
+## Vermont Republican secretly poured water into colleague’s bag over months
+ - [https://www.reddit.com/r/politics/comments/1diw77u/vermont_republican_secretly_poured_water_into](https://www.reddit.com/r/politics/comments/1diw77u/vermont_republican_secretly_poured_water_into)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T17:23:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1diw77u/vermont_republican_secretly_poured_water_into/"> <img alt="Vermont Republican secretly poured water into colleague’s bag over months" src="https://external-preview.redd.it/ZtKAr8b41FN2RJoFbDHX4PgaQWuI4Prlq_M5v1Hq7-0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a41b1d214f06e8b025dea5d5a7808550037c4ef" title="Vermont Republican secretly poured water into colleague’s bag over months" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bakhesh"> /u/bakhesh </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/jun/18/vermont-republican-water-bag">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1diw77u/vermont_republican_secretly_poured_water_into/">[comments]</a></span> </td></tr></table>
+
+## MAGA pastor’s sexual abuse scandal underscores the right’s hypocrisy on LGBTQ people. Megachurch leader Robert Morris, who has served as religious adviser to Trump, confessed to “inappropriate sexual behavior” after a woman accused him of molesting her starting when she was 12.
+ - [https://www.reddit.com/r/politics/comments/1divssr/maga_pastors_sexual_abuse_scandal_underscores_the](https://www.reddit.com/r/politics/comments/1divssr/maga_pastors_sexual_abuse_scandal_underscores_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T17:06:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1divssr/maga_pastors_sexual_abuse_scandal_underscores_the/"> <img alt="MAGA pastor’s sexual abuse scandal underscores the right’s hypocrisy on LGBTQ people. Megachurch leader Robert Morris, who has served as religious adviser to Trump, confessed to “inappropriate sexual behavior” after a woman accused him of molesting her starting when she was 12." src="https://external-preview.redd.it/G0N1xqwx5UC3ih3QKmGsxNTv3VtkxX5mM5sNI3VqSxA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b702979e2bd5ed05471e5c48fe30cda3c67ee202" title="MAGA pastor’s sexual abuse scandal underscores the right’s hypocrisy on LGBTQ people. Megachurch leader Robert Morris, who has served as religious adviser to Trump, confessed to “inappropriate sexual behavior” after a woman accused him of molesting her starting when she was 12." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> 
+
+## Research finds pattern of YouTube recommending right-leaning, Christian videos
+ - [https://www.reddit.com/r/politics/comments/1diviem/research_finds_pattern_of_youtube_recommending](https://www.reddit.com/r/politics/comments/1diviem/research_finds_pattern_of_youtube_recommending)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T16:55:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1diviem/research_finds_pattern_of_youtube_recommending/"> <img alt="Research finds pattern of YouTube recommending right-leaning, Christian videos" src="https://external-preview.redd.it/HAtLOV2BHHgpKFZW1NNqycimoZ3BYgMTjbosTwTeXvs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3148ddf196168aa833bba4a9b0103339071111e3" title="Research finds pattern of YouTube recommending right-leaning, Christian videos" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/keyjan"> /u/keyjan </a> <br /> <span><a href="https://thehill.com/policy/technology/4727588-research-finds-pattern-of-youtube-recommending-right-leaning-christian-videos/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1diviem/research_finds_pattern_of_youtube_recommending/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Black Church Stunt Was Bad. His Next Event Was Even Worse.
+ - [https://www.reddit.com/r/politics/comments/1divhf1/trumps_black_church_stunt_was_bad_his_next_event](https://www.reddit.com/r/politics/comments/1divhf1/trumps_black_church_stunt_was_bad_his_next_event)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T16:53:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1divhf1/trumps_black_church_stunt_was_bad_his_next_event/"> <img alt="Trump’s Black Church Stunt Was Bad. His Next Event Was Even Worse." src="https://external-preview.redd.it/-6ORXOHdIumAunemAJ0dY27Ubyi-q9_IlvawpbwbJAc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=24cfa22861d9e794147be913fc89a61e6be906cd" title="Trump’s Black Church Stunt Was Bad. His Next Event Was Even Worse." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/playfulgals"> /u/playfulgals </a> <br /> <span><a href="https://newrepublic.com/post/182838/trump-black-church-stunt-event-turning-point">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1divhf1/trumps_black_church_stunt_was_bad_his_next_event/">[comments]</a></span> </td></tr></table>
+
+## Ethics Committee confirms Matt Gaetz investigation reopened
+ - [https://www.reddit.com/r/politics/comments/1div8me/ethics_committee_confirms_matt_gaetz](https://www.reddit.com/r/politics/comments/1div8me/ethics_committee_confirms_matt_gaetz)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T16:43:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1div8me/ethics_committee_confirms_matt_gaetz/"> <img alt="Ethics Committee confirms Matt Gaetz investigation reopened" src="https://external-preview.redd.it/zjWAX19GRKaEu2kLbmycjKzlx2hgF5Ze_22zPB4I5x4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ff9b6d20688519a45210f12a03931a8d067c8a62" title="Ethics Committee confirms Matt Gaetz investigation reopened" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/axios"> /u/axios </a> <br /> <span><a href="https://www.axios.com/2024/06/18/matt-gaetz-ethics-investigation">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1div8me/ethics_committee_confirms_matt_gaetz/">[comments]</a></span> </td></tr></table>
+
+## Biden ramps up push to end Trump's tax cuts for the wealthy, highlighting the choice in the 2024 election | Biden says that if he is re-elected, he would let the Trump tax cuts expire next year for people who earn over $400,000. Trump and Republicans say they want to extend them.
+ - [https://www.reddit.com/r/politics/comments/1diuh2a/biden_ramps_up_push_to_end_trumps_tax_cuts_for](https://www.reddit.com/r/politics/comments/1diuh2a/biden_ramps_up_push_to_end_trumps_tax_cuts_for)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T16:11:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1diuh2a/biden_ramps_up_push_to_end_trumps_tax_cuts_for/"> <img alt="Biden ramps up push to end Trump's tax cuts for the wealthy, highlighting the choice in the 2024 election | Biden says that if he is re-elected, he would let the Trump tax cuts expire next year for people who earn over $400,000. Trump and Republicans say they want to extend them." src="https://external-preview.redd.it/Ykp5n2UvOG-tV7WE2RAyi5ZcidtzqHR8UBpfHQWO4nY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1729599dfb82a467ba6e93e35b3f61b8285f75c3" title="Biden ramps up push to end Trump's tax cuts for the wealthy, highlighting the choice in the 2024 election | Biden says that if he is re-elected, he would let the Trump tax cuts expire next year for people who earn over $400,000. Trump and Republicans say they want to extend them." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpaceElevatorMusic"> /u/SpaceElevatorM
+
+## Sinclair Doubles Down on Shady Propaganda Coverage | The network says it isn’t repeating Republican talking points.
+ - [https://www.reddit.com/r/politics/comments/1ditzx1/sinclair_doubles_down_on_shady_propaganda](https://www.reddit.com/r/politics/comments/1ditzx1/sinclair_doubles_down_on_shady_propaganda)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T15:52:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ditzx1/sinclair_doubles_down_on_shady_propaganda/"> <img alt="Sinclair Doubles Down on Shady Propaganda Coverage | The network says it isn’t repeating Republican talking points." src="https://external-preview.redd.it/LpsLVam7D_imzBHWxCFFi9tRmblfhAhlPLFhWW7S_iM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df01c148a58aee2dcb87521fd77fd37c2a78d57c" title="Sinclair Doubles Down on Shady Propaganda Coverage | The network says it isn’t repeating Republican talking points." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenewrepublic"> /u/thenewrepublic </a> <br /> <span><a href="https://newrepublic.com/post/182835/sinclair-doubles-shady-propaganda-rnc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ditzx1/sinclair_doubles_down_on_shady_propaganda/">[comments]</a></span> </td></tr></table>
+
+## Trump Says He Wants To Help Tipped Workers. As President, He Tried To Stiff Them.
+ - [https://www.reddit.com/r/politics/comments/1ditryi/trump_says_he_wants_to_help_tipped_workers_as](https://www.reddit.com/r/politics/comments/1ditryi/trump_says_he_wants_to_help_tipped_workers_as)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T15:42:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ditryi/trump_says_he_wants_to_help_tipped_workers_as/"> <img alt="Trump Says He Wants To Help Tipped Workers. As President, He Tried To Stiff Them." src="https://external-preview.redd.it/nQ3OcHvbHE3jPaMUFogn8C9xTfQRXRu7zPG5BAkIGm0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1b145e0fded1c558b82fc292d31dec505872a7a" title="Trump Says He Wants To Help Tipped Workers. As President, He Tried To Stiff Them." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://www.huffpost.com/entry/trump-no-taxes-on-tips_n_66708dace4b02dd2be8ba094">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ditryi/trump_says_he_wants_to_help_tipped_workers_as/">[comments]</a></span> </td></tr></table>
+
+## Trump’s gag order appeal is shot down by New York’s top court
+ - [https://www.reddit.com/r/politics/comments/1dithf2/trumps_gag_order_appeal_is_shot_down_by_new_yorks](https://www.reddit.com/r/politics/comments/1dithf2/trumps_gag_order_appeal_is_shot_down_by_new_yorks)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T15:29:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dithf2/trumps_gag_order_appeal_is_shot_down_by_new_yorks/"> <img alt="Trump’s gag order appeal is shot down by New York’s top court" src="https://external-preview.redd.it/9OHRToAhRmtM5i_aM_sLISUibVDqLkR79-mMQ2yTjzs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad2de4a2b1ab3f86d066ebc7a8987c210e748c0b" title="Trump’s gag order appeal is shot down by New York’s top court" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-gag-order-hush-money-trial-b2564709.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dithf2/trumps_gag_order_appeal_is_shot_down_by_new_yorks/">[comments]</a></span> </td></tr></table>
+
+## New York's top court declines to hear Trump's appeal of gag order in hush money case
+ - [https://www.reddit.com/r/politics/comments/1ditbsi/new_yorks_top_court_declines_to_hear_trumps](https://www.reddit.com/r/politics/comments/1ditbsi/new_yorks_top_court_declines_to_hear_trumps)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T15:23:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ditbsi/new_yorks_top_court_declines_to_hear_trumps/"> <img alt="New York's top court declines to hear Trump's appeal of gag order in hush money case" src="https://external-preview.redd.it/u57vKJ8lSR2Z9eAYbUAUKZvY4uSFEiil4KA3yARB1Gw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e7a1d1b7c81d8deafb0ad0c2e1cb4883715bff05" title="New York's top court declines to hear Trump's appeal of gag order in hush money case" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eraticwanderer"> /u/Eraticwanderer </a> <br /> <span><a href="https://apnews.com/article/donald-trump-hush-money-gag-order-juan-merchan-c6e8056bf7b82aaf0bbf094d703b5f31">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ditbsi/new_yorks_top_court_declines_to_hear_trumps/">[comments]</a></span> </td></tr></table>
+
+## Ethics Committee investigating Rep. Matt Gaetz over alleged drug use and sexual misconduct
+ - [https://www.reddit.com/r/politics/comments/1dit7lo/ethics_committee_investigating_rep_matt_gaetz](https://www.reddit.com/r/politics/comments/1dit7lo/ethics_committee_investigating_rep_matt_gaetz)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T15:18:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dit7lo/ethics_committee_investigating_rep_matt_gaetz/"> <img alt="Ethics Committee investigating Rep. Matt Gaetz over alleged drug use and sexual misconduct" src="https://external-preview.redd.it/awBjJ10ROG9uOlDlBF8N9JK1YTv9WcH0HFF87FL3qA0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9742163fdac3fe6424f9b79b47b03115b76af627" title="Ethics Committee investigating Rep. Matt Gaetz over alleged drug use and sexual misconduct" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br /> <span><a href="https://www.nbcnews.com/politics/congress/ethics-committee-investigating-allegations-sexual-misconduct-drug-use-rcna157719">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dit7lo/ethics_committee_investigating_rep_matt_gaetz/">[comments]</a></span> </td></tr></table>
+
+## House Ethics panel investigating Matt Gaetz sex and drug claims now eyeing new allegations
+ - [https://www.reddit.com/r/politics/comments/1disy8e/house_ethics_panel_investigating_matt_gaetz_sex](https://www.reddit.com/r/politics/comments/1disy8e/house_ethics_panel_investigating_matt_gaetz_sex)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T15:07:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1disy8e/house_ethics_panel_investigating_matt_gaetz_sex/"> <img alt="House Ethics panel investigating Matt Gaetz sex and drug claims now eyeing new allegations" src="https://external-preview.redd.it/Rcj01bXZPVtDoURX5VOa-qrKtvT8pmPt3AMhto_YvKs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40926bcce156ee99fdccd90dc0bc78c2555320e4" title="House Ethics panel investigating Matt Gaetz sex and drug claims now eyeing new allegations" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/matt-gaetz-house-ethics-committee-representative-b2564660.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1disy8e/house_ethics_panel_investigating_matt_gaetz_sex/">[comments]</a></span> </td></tr></table>
+
+## Appeals court denies Trump request to lift gag order in hush money case
+ - [https://www.reddit.com/r/politics/comments/1disxws/appeals_court_denies_trump_request_to_lift_gag](https://www.reddit.com/r/politics/comments/1disxws/appeals_court_denies_trump_request_to_lift_gag)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T15:06:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1disxws/appeals_court_denies_trump_request_to_lift_gag/"> <img alt="Appeals court denies Trump request to lift gag order in hush money case" src="https://external-preview.redd.it/rNY43WhCl9NMM9RX_bpQ0Au9tzlvbIOtsr8YTAZWL80.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc6593df6851a2b26380bed1ae1f5b6355e21db9" title="Appeals court denies Trump request to lift gag order in hush money case" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IWantPizza555"> /u/IWantPizza555 </a> <br /> <span><a href="https://abcnews.go.com/US/appeals-court-denies-trump-request-lift-gag-order/story?id=111216149&amp;cid=social_twitter_abcn">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1disxws/appeals_court_denies_trump_request_to_lift_gag/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: Statewide Primary Elections in Georgia, Oklahoma, and Virginia, Plus Assorted Local Elections in Alabama, Florida, and South Carolina
+ - [https://www.reddit.com/r/politics/comments/1disiok/discussion_thread_statewide_primary_elections_in](https://www.reddit.com/r/politics/comments/1disiok/discussion_thread_statewide_primary_elections_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T14:49:27+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>General Coverage:</strong></p> <ul> <li>NBC: <a href="https://www.nbcnews.com/politics/2024-election/virginia-primary-election-voters-polls-what-to-watch-rcna157219">House Republicans on defense and a Jan. 6 rioter on the ballot: What to watch in Tuesday's primaries</a></li> </ul> <h1>Georgia</h1> <p><strong>Resources</strong></p> <ul> <li>Georgia Secretary of State: <a href="https://mvp.sos.ga.gov/s/">My Voter Page</a></li> </ul> <p><strong>News and Analysis</strong></p> <ul> <li><p>AP: <a href="https://apnews.com/article/georgia-primary-runoffs-house-d6301b89665e76c4510da64344a3c7d8">AP Decision Notes: What to expect in Georgia’s primary runoffs</a></p></li> <li><p>WABE: <a href="https://www.wabe.org/georgia-primary-election-runoff-day-features-jan-6-rioter-among-gop-congressional-nominees/">Georgia primary election runoff day features Jan. 6 rioter among GOP congressional nominees</a></p></li> </ul> <p><strong>Results</strong></p> <ul> <li>
+
+## Ethics panel probing alleged Gaetz obstruction, has issued 25 subpoenas
+ - [https://www.reddit.com/r/politics/comments/1dish57/ethics_panel_probing_alleged_gaetz_obstruction](https://www.reddit.com/r/politics/comments/1dish57/ethics_panel_probing_alleged_gaetz_obstruction)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T14:47:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dish57/ethics_panel_probing_alleged_gaetz_obstruction/"> <img alt="Ethics panel probing alleged Gaetz obstruction, has issued 25 subpoenas" src="https://external-preview.redd.it/LLxNwxP5kD3KzzUxWYFG73o0n2Q4aoPL9TpEwX4Dkjg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0a28fcc0f2992502c9433f13bf8cae8e6412735" title="Ethics panel probing alleged Gaetz obstruction, has issued 25 subpoenas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/larel8"> /u/larel8 </a> <br /> <span><a href="https://thehill.com/homenews/house/4727299-ethics-panel-gaetz-obstruction-investigation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dish57/ethics_panel_probing_alleged_gaetz_obstruction/">[comments]</a></span> </td></tr></table>
+
+## ‘Terrified of losing their rights’: abortion is a leading issue for Arizona’s Latino voters
+ - [https://www.reddit.com/r/politics/comments/1disbsc/terrified_of_losing_their_rights_abortion_is_a](https://www.reddit.com/r/politics/comments/1disbsc/terrified_of_losing_their_rights_abortion_is_a)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T14:41:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1disbsc/terrified_of_losing_their_rights_abortion_is_a/"> <img alt="‘Terrified of losing their rights’: abortion is a leading issue for Arizona’s Latino voters" src="https://external-preview.redd.it/q_TCrRah8nNuW9Nb15LgzJMEZ3vQh6I5W14xLrV8IrI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83d57b91c105db26d60751085afac4946cf4f149" title="‘Terrified of losing their rights’: abortion is a leading issue for Arizona’s Latino voters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/harsh2k5"> /u/harsh2k5 </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/jun/18/arizona-abortion-latino-vote">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1disbsc/terrified_of_losing_their_rights_abortion_is_a/">[comments]</a></span> </td></tr></table>
+
+## Steve Bannon gets bad news: Former Trump adviser won't be spending his prison time at "Club Fed"
+ - [https://www.reddit.com/r/politics/comments/1diruw9/steve_bannon_gets_bad_news_former_trump_adviser](https://www.reddit.com/r/politics/comments/1diruw9/steve_bannon_gets_bad_news_former_trump_adviser)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T14:20:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1diruw9/steve_bannon_gets_bad_news_former_trump_adviser/"> <img alt="Steve Bannon gets bad news: Former Trump adviser won't be spending his prison time at &quot;Club Fed&quot;" src="https://external-preview.redd.it/C4exVZQ-VH2rYJMcgkUtkR3vrZxVAzEwUPq3C9Y6SNY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9919fde010394c6f869303c08e1aded3dd31a8b7" title="Steve Bannon gets bad news: Former Trump adviser won't be spending his prison time at &quot;Club Fed&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/playfulgals"> /u/playfulgals </a> <br /> <span><a href="https://www.salon.com/2024/06/18/steve-bannon-gets-news-former-adviser-wont-be-spending-his-time-at-club-fed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1diruw9/steve_bannon_gets_bad_news_former_trump_adviser/">[comments]</a></span> </td></tr></table>
+
+## The trips Justice Clarence Thomas took with Harlan Crow — that we know of
+ - [https://www.reddit.com/r/politics/comments/1dirnc7/the_trips_justice_clarence_thomas_took_with](https://www.reddit.com/r/politics/comments/1dirnc7/the_trips_justice_clarence_thomas_took_with)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T14:11:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dirnc7/the_trips_justice_clarence_thomas_took_with/"> <img alt="The trips Justice Clarence Thomas took with Harlan Crow — that we know of" src="https://external-preview.redd.it/KpW95spqiJWyX3mqSGvn9KAOOmV1z0XWCJVbcvC5KHs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca32bfdc8481411777b084c467399d0291a5a0b1" title="The trips Justice Clarence Thomas took with Harlan Crow — that we know of" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/schadenfreudender"> /u/schadenfreudender </a> <br /> <span><a href="https://www.businessinsider.com/trips-justice-clarence-thomas-took-with-harlan-crow-2024-6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dirnc7/the_trips_justice_clarence_thomas_took_with/">[comments]</a></span> </td></tr></table>
+
+## YouTube’s algorithm more likely to recommend users right-wing and religious content, research finds
+ - [https://www.reddit.com/r/politics/comments/1dir9pb/youtubes_algorithm_more_likely_to_recommend_users](https://www.reddit.com/r/politics/comments/1dir9pb/youtubes_algorithm_more_likely_to_recommend_users)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T13:54:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dir9pb/youtubes_algorithm_more_likely_to_recommend_users/"> <img alt="YouTube’s algorithm more likely to recommend users right-wing and religious content, research finds" src="https://external-preview.redd.it/QzJVTIZycKtp7rggToR5xxfNR2H6nmsJ8Eo_lvGzrI4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f64920cc1363e2eca26134f36107fca481d2262b" title="YouTube’s algorithm more likely to recommend users right-wing and religious content, research finds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/numix90"> /u/numix90 </a> <br /> <span><a href="https://www.nbcnews.com/tech/tech-news/youtubes-algorithm-recommends-users-right-wing-religious-content-resea-rcna155478">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dir9pb/youtubes_algorithm_more_likely_to_recommend_users/">[comments]</a></span> </td></tr></table>
+
+## Proposed ballot measure to raise corporate taxes, give every Oregonian $750 a year likely to make November ballot
+ - [https://www.reddit.com/r/politics/comments/1diqq9f/proposed_ballot_measure_to_raise_corporate_taxes](https://www.reddit.com/r/politics/comments/1diqq9f/proposed_ballot_measure_to_raise_corporate_taxes)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T13:30:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1diqq9f/proposed_ballot_measure_to_raise_corporate_taxes/"> <img alt="Proposed ballot measure to raise corporate taxes, give every Oregonian $750 a year likely to make November ballot" src="https://external-preview.redd.it/guYQzXWGcm-szGrkQ8vFqFVBwg8pPME1sVjU9ICKboQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=366d4583a3f0abd6ea2d3fce5aeba615a5c05359" title="Proposed ballot measure to raise corporate taxes, give every Oregonian $750 a year likely to make November ballot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OregonTripleBeam"> /u/OregonTripleBeam </a> <br /> <span><a href="https://www.oregonlive.com/politics/2024/06/proposed-ballot-measure-proposal-to-raise-corporate-taxes-give-every-oregonian-750-a-year-likely-to-make-november-ballot.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1diqq9f/proposed_ballot_measure_to_raise_corporate_
+
+## I Didn’t Think Biden Affected Crime Rates. I Was Wrong.
+ - [https://www.reddit.com/r/politics/comments/1diqelf/i_didnt_think_biden_affected_crime_rates_i_was](https://www.reddit.com/r/politics/comments/1diqelf/i_didnt_think_biden_affected_crime_rates_i_was)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T13:14:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1diqelf/i_didnt_think_biden_affected_crime_rates_i_was/"> <img alt="I Didn’t Think Biden Affected Crime Rates. I Was Wrong." src="https://external-preview.redd.it/boW9RcjILpk7WzRmoT28uJxflFF0nqSsehZ48KrreGI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a30351370de28b4d587377a638d9eb635f9d19da" title="I Didn’t Think Biden Affected Crime Rates. I Was Wrong." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloombergopinion"> /u/bloombergopinion </a> <br /> <span><a href="https://www.bloomberg.com/opinion/articles/2024-06-18/i-didn-t-think-biden-affected-crime-rates-i-was-wrong">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1diqelf/i_didnt_think_biden_affected_crime_rates_i_was/">[comments]</a></span> </td></tr></table>
+
+## Ted Cruz’s Totally Outrageous “Proof” That the KKK Loves Democrats
+ - [https://www.reddit.com/r/politics/comments/1dipv5d/ted_cruzs_totally_outrageous_proof_that_the_kkk](https://www.reddit.com/r/politics/comments/1dipv5d/ted_cruzs_totally_outrageous_proof_that_the_kkk)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T12:49:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dipv5d/ted_cruzs_totally_outrageous_proof_that_the_kkk/"> <img alt="Ted Cruz’s Totally Outrageous “Proof” That the KKK Loves Democrats" src="https://external-preview.redd.it/mJwXuGsiRDX2DVlLEh0aRAuaq9gnrYSpz8aMDSIWNkg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8eadad291202e05fe7b9860926dea1d25e274e31" title="Ted Cruz’s Totally Outrageous “Proof” That the KKK Loves Democrats" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheEleventhDoctorWho"> /u/TheEleventhDoctorWho </a> <br /> <span><a href="https://newrepublic.com/post/182815/ted-cruz-david-duke-kkk-democrats-israel-palestine?utm_source=fark&amp;utm_medium=website&amp;utm_content=link&amp;ICID=ref_fark">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dipv5d/ted_cruzs_totally_outrageous_proof_that_the_kkk/">[comments]</a></span> </td></tr></table>
+
+## Joe Biden makes aggressive play to take North Carolina from Trump
+ - [https://www.reddit.com/r/politics/comments/1dipt5f/joe_biden_makes_aggressive_play_to_take_north](https://www.reddit.com/r/politics/comments/1dipt5f/joe_biden_makes_aggressive_play_to_take_north)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T12:46:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dipt5f/joe_biden_makes_aggressive_play_to_take_north/"> <img alt="Joe Biden makes aggressive play to take North Carolina from Trump" src="https://external-preview.redd.it/FLyyNiQrAl_2JBcPGm69jkyXjjxbQd32I02KzQqw3PA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=75a4c7a36594d275c430b514c2c542b4d07ccd8f" title="Joe Biden makes aggressive play to take North Carolina from Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br /> <span><a href="https://www.newsweek.com/joe-biden-north-carolina-presidential-election-trump-1913674">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dipt5f/joe_biden_makes_aggressive_play_to_take_north/">[comments]</a></span> </td></tr></table>
+
+## A New Biden Ad Is Highlighting Trump’s Criminal Conviction | Democrats’ gloves are coming off.
+ - [https://www.reddit.com/r/politics/comments/1dipmkv/a_new_biden_ad_is_highlighting_trumps_criminal](https://www.reddit.com/r/politics/comments/1dipmkv/a_new_biden_ad_is_highlighting_trumps_criminal)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T12:37:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dipmkv/a_new_biden_ad_is_highlighting_trumps_criminal/"> <img alt="A New Biden Ad Is Highlighting Trump’s Criminal Conviction | Democrats’ gloves are coming off." src="https://external-preview.redd.it/atqViM18y_uuQsltgEdeZ6PanF7rbkerO8cy0p6Ndh0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22494667e90a4cbb17342f7d2b1c85c90c94c1c7" title="A New Biden Ad Is Highlighting Trump’s Criminal Conviction | Democrats’ gloves are coming off." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.motherjones.com/politics/2024/06/a-new-biden-ad-is-highlighting-trumps-criminal-conviction/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dipmkv/a_new_biden_ad_is_highlighting_trumps_criminal/">[comments]</a></span> </td></tr></table>
+
+## John Kerry warns that Project 2025 would be "absolutely unimaginable and destructive"
+ - [https://www.reddit.com/r/politics/comments/1dipbbo/john_kerry_warns_that_project_2025_would_be](https://www.reddit.com/r/politics/comments/1dipbbo/john_kerry_warns_that_project_2025_would_be)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T12:21:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dipbbo/john_kerry_warns_that_project_2025_would_be/"> <img alt="John Kerry warns that Project 2025 would be &quot;absolutely unimaginable and destructive&quot;" src="https://external-preview.redd.it/5vEc1eZknb65BdQvX8usEVwXI11nkGej4Vb2Y8GzkKs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a504d2fec83a1a3a884caede620e430b346362d" title="John Kerry warns that Project 2025 would be &quot;absolutely unimaginable and destructive&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/champdo"> /u/champdo </a> <br /> <span><a href="https://www.salon.com/2024/06/18/john-kerry-warns-that-project-2025-would-be-absolutely-unimaginable-and-destructive/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dipbbo/john_kerry_warns_that_project_2025_would_be/">[comments]</a></span> </td></tr></table>
+
+## GOP pick for N.C. governor downplayed Weinstein allegations, assault by Ray Rice
+ - [https://www.reddit.com/r/politics/comments/1diofyd/gop_pick_for_nc_governor_downplayed_weinstein](https://www.reddit.com/r/politics/comments/1diofyd/gop_pick_for_nc_governor_downplayed_weinstein)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T11:33:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1diofyd/gop_pick_for_nc_governor_downplayed_weinstein/"> <img alt="GOP pick for N.C. governor downplayed Weinstein allegations, assault by Ray Rice" src="https://external-preview.redd.it/yd85Pge8z0szNobNoGm1LP7FTqmdcErJpQU-MfwAmMU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb2d651055cf128cc3120b34449ef590ba3536e3" title="GOP pick for N.C. governor downplayed Weinstein allegations, assault by Ray Rice" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sorry_Antelope7878"> /u/Sorry_Antelope7878 </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/06/18/mark-robinson-domestic-violence-sexual-assault/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1diofyd/gop_pick_for_nc_governor_downplayed_weinstein/">[comments]</a></span> </td></tr></table>
+
+## Bernie Sanders will grill Novo Nordisk's CEO over Ozempic and Wegovy prices
+ - [https://www.reddit.com/r/politics/comments/1dio76t/bernie_sanders_will_grill_novo_nordisks_ceo_over](https://www.reddit.com/r/politics/comments/1dio76t/bernie_sanders_will_grill_novo_nordisks_ceo_over)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T11:19:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dio76t/bernie_sanders_will_grill_novo_nordisks_ceo_over/"> <img alt="Bernie Sanders will grill Novo Nordisk's CEO over Ozempic and Wegovy prices" src="https://external-preview.redd.it/Cew9ww4_X9_GakyEKU9q0Si4Ui3OHcqC9XJLTsL5UJ0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a12042d87c91bb240044f90903770d7e70358788" title="Bernie Sanders will grill Novo Nordisk's CEO over Ozempic and Wegovy prices" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_May26_"> /u/_May26_ </a> <br /> <span><a href="https://qz.com/novo-nordisk-ozempic-wegovy-prices-bernie-sanders-1851543719">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dio76t/bernie_sanders_will_grill_novo_nordisks_ceo_over/">[comments]</a></span> </td></tr></table>
+
+## Crypto Scammers Are Targeting Trump’s MAGA Supporters
+ - [https://www.reddit.com/r/politics/comments/1dinsud/crypto_scammers_are_targeting_trumps_maga](https://www.reddit.com/r/politics/comments/1dinsud/crypto_scammers_are_targeting_trumps_maga)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T10:55:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dinsud/crypto_scammers_are_targeting_trumps_maga/"> <img alt="Crypto Scammers Are Targeting Trump’s MAGA Supporters" src="https://external-preview.redd.it/xC0QYBWgEDWC_ymz3PPbp3GuawTgT3GUpo9ZqjSdLKA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=48cc095e0778754686f87ea11c9eb79d9f200c6a" title="Crypto Scammers Are Targeting Trump’s MAGA Supporters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wiredmagazine"> /u/wiredmagazine </a> <br /> <span><a href="https://www.wired.com/story/maga-crypto-scammers-donald-trump/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dinsud/crypto_scammers_are_targeting_trumps_maga/">[comments]</a></span> </td></tr></table>
+
+## But his emails: Trump’s increasingly unhinged calls for violence
+ - [https://www.reddit.com/r/politics/comments/1dingza/but_his_emails_trumps_increasingly_unhinged_calls](https://www.reddit.com/r/politics/comments/1dingza/but_his_emails_trumps_increasingly_unhinged_calls)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T10:34:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dingza/but_his_emails_trumps_increasingly_unhinged_calls/"> <img alt="But his emails: Trump’s increasingly unhinged calls for violence" src="https://external-preview.redd.it/Ma8fz9q3NVkBbSk6GdUm5VoQYWKctb2NF08NQCCxgkM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e042a853aadef3b6bf1eddee37ebb5b2d3a4f5e4" title="But his emails: Trump’s increasingly unhinged calls for violence" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.salon.com/2024/06/18/but-his-emails-trumps-increasingly-unhinged-calls-for-violence/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dingza/but_his_emails_trumps_increasingly_unhinged_calls/">[comments]</a></span> </td></tr></table>
+
+## Biden to give legal status to undocumented spouses of US citizens
+ - [https://www.reddit.com/r/politics/comments/1dimaj9/biden_to_give_legal_status_to_undocumented](https://www.reddit.com/r/politics/comments/1dimaj9/biden_to_give_legal_status_to_undocumented)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T09:14:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dimaj9/biden_to_give_legal_status_to_undocumented/"> <img alt="Biden to give legal status to undocumented spouses of US citizens" src="https://external-preview.redd.it/KmIbuu9fDWVFFOl3gQ5s6ZzljS_ZkJgL8qT0DBAvWZk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32e577858123dfe589acd5933885fb5a72d7e647" title="Biden to give legal status to undocumented spouses of US citizens" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HenzShuyi"> /u/HenzShuyi </a> <br /> <span><a href="https://www.bbc.com/news/articles/c4nnyr4j9w5o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dimaj9/biden_to_give_legal_status_to_undocumented/">[comments]</a></span> </td></tr></table>
+
+## Opinion: Call it ‘Make America Chaste Again.’ And it’s a losing message for the GOP in 2024
+ - [https://www.reddit.com/r/politics/comments/1diidfn/opinion_call_it_make_america_chaste_again_and_its](https://www.reddit.com/r/politics/comments/1diidfn/opinion_call_it_make_america_chaste_again_and_its)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T04:45:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1diidfn/opinion_call_it_make_america_chaste_again_and_its/"> <img alt="Opinion: Call it ‘Make America Chaste Again.’ And it’s a losing message for the GOP in 2024" src="https://external-preview.redd.it/FgBwwM-xiyPlzznTAbmrznMow_ZM7cf8U5cZ0T3msSY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3dfcf1e7580c5a1e21efaa17bebbac133247f39a" title="Opinion: Call it ‘Make America Chaste Again.’ And it’s a losing message for the GOP in 2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MTDreams123"> /u/MTDreams123 </a> <br /> <span><a href="https://www.cnn.com/2024/06/17/opinions/birth-control-contraception-gop-trump-project-2025-finney/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1diidfn/opinion_call_it_make_america_chaste_again_and_its/">[comments]</a></span> </td></tr></table>
+
+## Misleading GOP videos of Biden are going viral. The fact-checks have trouble keeping up.
+ - [https://www.reddit.com/r/politics/comments/1dih2on/misleading_gop_videos_of_biden_are_going_viral](https://www.reddit.com/r/politics/comments/1dih2on/misleading_gop_videos_of_biden_are_going_viral)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T03:30:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dih2on/misleading_gop_videos_of_biden_are_going_viral/"> <img alt="Misleading GOP videos of Biden are going viral. The fact-checks have trouble keeping up." src="https://external-preview.redd.it/Jisjer_p6kTF_-x0CAUnxq4V23QikTQhEoT6cYiYes4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53ce33f31c53d4f455967d2e57ee90ca67a783b2" title="Misleading GOP videos of Biden are going viral. The fact-checks have trouble keeping up." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HandsomePistachio"> /u/HandsomePistachio </a> <br /> <span><a href="https://www.nbcnews.com/politics/2024-election/misleading-gop-videos-biden-viral-fact-checks-rcna133316">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dih2on/misleading_gop_videos_of_biden_are_going_viral/">[comments]</a></span> </td></tr></table>
+
+## 'Shame on him for disrespecting the dead': Nevada senator erupts after Sen. JD Vance's bump stock remarks
+ - [https://www.reddit.com/r/politics/comments/1dig3qq/shame_on_him_for_disrespecting_the_dead_nevada](https://www.reddit.com/r/politics/comments/1dig3qq/shame_on_him_for_disrespecting_the_dead_nevada)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T02:38:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dig3qq/shame_on_him_for_disrespecting_the_dead_nevada/"> <img alt="'Shame on him for disrespecting the dead': Nevada senator erupts after Sen. JD Vance's bump stock remarks" src="https://external-preview.redd.it/vxHd_9ePDyg5ZnlF_fkV5QdZTi9b1S-66nCeU7JLAHw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61da0972c9154381cd70881dd3f93e166d4814bc" title="'Shame on him for disrespecting the dead': Nevada senator erupts after Sen. JD Vance's bump stock remarks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br /> <span><a href="https://www.nbcnews.com/politics/congress/sen-jacky-rosen-erupts-sen-jd-vances-bump-stock-comments-rcna157646">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dig3qq/shame_on_him_for_disrespecting_the_dead_nevada/">[comments]</a></span> </td></tr></table>
+
+## Maryland House GOP leader arrested for DUI, driving with suspended license
+ - [https://www.reddit.com/r/politics/comments/1dig2l7/maryland_house_gop_leader_arrested_for_dui](https://www.reddit.com/r/politics/comments/1dig2l7/maryland_house_gop_leader_arrested_for_dui)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T02:36:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dig2l7/maryland_house_gop_leader_arrested_for_dui/"> <img alt="Maryland House GOP leader arrested for DUI, driving with suspended license" src="https://external-preview.redd.it/0uw_IQhJPpW9u-7RHPao4Tn2RkVnaQdqni5Kwz1Drzo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=944a447521a24100a0304945a9ad98b7b373f478" title="Maryland House GOP leader arrested for DUI, driving with suspended license" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nosotros_road_sodium"> /u/nosotros_road_sodium </a> <br /> <span><a href="https://foxbaltimore.com/station/share/maryland-house-gop-leader-arrested-for-dui-driving-with-suspended-license-maryland-house-minority-leader-del-jason-buckel-r-allegany-county-was-arrested-thursday-on-several-charges-including-dui-court-records-show-cumberland">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dig2l7/maryland_house_gop_leader
+
+## Trump World Seems Worried
+ - [https://www.reddit.com/r/politics/comments/1didc16/trump_world_seems_worried](https://www.reddit.com/r/politics/comments/1didc16/trump_world_seems_worried)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-18T00:18:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1didc16/trump_world_seems_worried/"> <img alt="Trump World Seems Worried" src="https://external-preview.redd.it/XF71hC_inDDgxv0b6_iT-QxwintYzRVmNhGTC6wKQYM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e9d6e45cf303c6272803b1f4d7b3e40ded94270" title="Trump World Seems Worried" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/grumpyliberal"> /u/grumpyliberal </a> <br /> <span><a href="https://www.theatlantic.com/newsletters/archive/2024/06/trump-world-seems-worried/678717/?gift=_xJO6UmRMxImPJ4vXWuYP6OdU89YISt5mJM0E5W-Nu0&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1didc16/trump_world_seems_worried/">[comments]</a></span> </td></tr></table>
+

@@ -1,0 +1,58 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## Astroscale’s ADRAS-J Satellite Takes Up-Close Photo of Discarded Rocket Stage
+ - [https://hackaday.com/2024/06/18/astroscales-adras-j-satellite-takes-up-close-photo-of-discarded-rocket-stage](https://hackaday.com/2024/06/18/astroscales-adras-j-satellite-takes-up-close-photo-of-discarded-rocket-stage)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-06-18T20:00:01+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="405" src="https://hackaday.com/wp-content/uploads/2024/06/Space-Debris-Image-Taken-from-50-Meters-by-Astroscales-ADRAS-J-768x405-1.jpg?w=768" style="margin: 0 auto; margin-bottom: 15px;" width="768" /></div>Although there is a lot of space in Earth orbit, there are also some seriously big man-made objects in those orbits, some of which have been there for decades. As <a class="read-more" href="https://hackaday.com/2024/06/18/astroscales-adras-j-satellite-takes-up-close-photo-of-discarded-rocket-stage/">&#8230;read more</a>
+
+## Recovering An Agilent 2000a/3000a Oscilloscope With Corrupt Firmware NAND Flash
+ - [https://hackaday.com/2024/06/18/recovering-an-agilent-2000a-3000a-oscilloscope-with-corrupt-firmware-nand-flash](https://hackaday.com/2024/06/18/recovering-an-agilent-2000a-3000a-oscilloscope-with-corrupt-firmware-nand-flash)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-06-18T18:30:00+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="473" src="https://hackaday.com/wp-content/uploads/2024/06/agilent_2000a_scope_recovery.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Everyone knows that you can never purchase enough projects off EBay, lest boredom might inadvertently strike. That&#8217;s why [Anthony Kouttron] got his mitts on an Agilent DSO-X 2014A digital oscilloscope that <a class="read-more" href="https://hackaday.com/2024/06/18/recovering-an-agilent-2000a-3000a-oscilloscope-with-corrupt-firmware-nand-flash/">&#8230;read more</a>
+
+## The Guinness Brewery Invented One of Science’s Most Important Statistical Tools
+ - [https://hackaday.com/2024/06/18/the-guinness-brewery-invented-one-of-sciences-most-important-statistical-tools](https://hackaday.com/2024/06/18/the-guinness-brewery-invented-one-of-sciences-most-important-statistical-tools)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-06-18T15:30:13+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="405" src="https://hackaday.com/wp-content/uploads/2024/06/guinness_large.jpg?w=720" style="margin: 0 auto; margin-bottom: 15px;" width="720" /></div>The Guinness brewery has a long history of innovation, but did you know that it was the birthplace of the t-test? A t-test is usually what underpins a declaration of <a class="read-more" href="https://hackaday.com/2024/06/18/the-guinness-brewery-invented-one-of-sciences-most-important-statistical-tools/">&#8230;read more</a>
+
+## Design Review: Switching Regulator Edition
+ - [https://hackaday.com/2024/06/18/design-review-switching-regulator-edition](https://hackaday.com/2024/06/18/design-review-switching-regulator-edition)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-06-18T14:00:25+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="464" src="https://hackaday.com/wp-content/uploads/2024/04/PCBdesign.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>This article was prompted by a friend of mine asking for help on a board with an ESP32 heart. The board outputs 2.1 V instead of 3.3 V, and it <a class="read-more" href="https://hackaday.com/2024/06/18/design-review-switching-regulator-edition/">&#8230;read more</a>
+
+## TDK Claims Solid State Battery with 100X Energy Density
+ - [https://hackaday.com/2024/06/18/tdk-claims-solid-state-battery-with-100x-energy-density](https://hackaday.com/2024/06/18/tdk-claims-solid-state-battery-with-100x-energy-density)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-06-18T11:00:36+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="533" src="https://hackaday.com/wp-content/uploads/2024/06/tdk.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Regulations surrounding disposable batteries have accelerated a quiet race to replace coin cells, which on the whole are not readily rechargeable. TDK produces solid-state batteries and has announced a new <a class="read-more" href="https://hackaday.com/2024/06/18/tdk-claims-solid-state-battery-with-100x-energy-density/">&#8230;read more</a>
+
+## McDonald’s Terminates Its Drive-Through Ordering AI Assistant
+ - [https://hackaday.com/2024/06/18/mcdonalds-terminates-its-drive-through-ordering-via-ai-assistant](https://hackaday.com/2024/06/18/mcdonalds-terminates-its-drive-through-ordering-via-ai-assistant)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-06-18T08:00:13+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/06/McDonalds-drive-thru.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>McDonald&#8217;s recently announced that it will be scrapping the voice-assistant which it has installed at over 100 of its drive-throughs after a two-year trial run. In the email that was <a class="read-more" href="https://hackaday.com/2024/06/18/mcdonalds-terminates-its-drive-through-ordering-via-ai-assistant/">&#8230;read more</a>
+
+## A Brief Look Inside a Homebrew Digital Sampler from 1979
+ - [https://hackaday.com/2024/06/17/a-brief-look-inside-a-homebrew-digital-sampler-from-1979](https://hackaday.com/2024/06/17/a-brief-look-inside-a-homebrew-digital-sampler-from-1979)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-06-18T05:00:35+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/06/sampler.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>While we generally prefer to bring our readers as much information about a project as possible, sometimes we just have to go with what we see. That generally happens with <a class="read-more" href="https://hackaday.com/2024/06/17/a-brief-look-inside-a-homebrew-digital-sampler-from-1979/">&#8230;read more</a>
+
+## The US Surgeon General’s Case for a Warning Label on Social Media
+ - [https://hackaday.com/2024/06/17/the-us-surgeon-generals-case-for-a-warning-label-on-social-media](https://hackaday.com/2024/06/17/the-us-surgeon-generals-case-for-a-warning-label-on-social-media)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-06-18T02:00:02+00:00
+
+<div><img alt="Credit: Xinmei Liu" class="attachment-large size-large wp-post-image" height="482" src="https://hackaday.com/wp-content/uploads/2024/06/social_media_warning_28murthy-image-superJumbo_cropped.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>The term &#8216;Social Media&#8217; may give off a benign vibe, suggesting that it&#8217;s a friendly place where everyone is welcome to be themselves, yet reality has borne out that it <a class="read-more" href="https://hackaday.com/2024/06/17/the-us-surgeon-generals-case-for-a-warning-label-on-social-media/">&#8230;read more</a>
+
