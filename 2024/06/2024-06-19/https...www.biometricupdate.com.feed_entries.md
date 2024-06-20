@@ -1,0 +1,138 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## Biometrics cutting the line of in-person payments innovations: Mastercard
+ - [https://www.biometricupdate.com/202406/biometrics-cutting-the-line-of-in-person-payments-innovations-mastercard](https://www.biometricupdate.com/202406/biometrics-cutting-the-line-of-in-person-payments-innovations-mastercard)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T19:17:15+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="673" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/06/08160148/mastercard-palm-payment.png" width="1027" />
+		<a href="https://www.biometricupdate.com/companies/mastercard">Mastercard</a> sees biometrics for in-store payments as a part of a broader shift towards seamless interactions of all kinds, as outlined in a new episode of the payment giant’s “<a href="https://open.spotify.com/episode/6MzWLiaBlQK25epPMwnIY7?si=o_6JMHqzTyaiiS801tj40w" rel="noopener" target="_blank">What’s Next In</a>” podcast. The discussion revolves around card transactions and Mastercard’s payment technology, but the themes identified can be recognized in many different places where payments are made and in wide-ranging market developments.
+
+In-person payments have come a long way from the credit card imprinters, or “knuckle-busters,” as host Vicki Hyman notes they were popularly known, that were common 
+
+## New South Wales’ government is investing millions in digital identity
+ - [https://www.biometricupdate.com/202406/new-south-wales-government-is-investing-millions-in-digital-identity](https://www.biometricupdate.com/202406/new-south-wales-government-is-investing-millions-in-digital-identity)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T19:15:08+00:00
+
+<img alt="New_South_Wales_Digital_Driver_Licence" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="560" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/14115655/New_South_Wales_Digital_Driver_Licence.jpg" width="1000" />
+		New South Wales’ decentralized <a href="https://www.biometricupdate.com/202312/academics-lay-out-principles-for-rollout-of-nsw-digital-id-face-biometrics">digital identity program</a> is getting a cash infusion from the Premier Chris Minns’ government, which has allocated $21.4 million in new funding for digital ID in its latest budget.
+
+InnovationAus <a href="https://www.innovationaus.com/21m-budget-boost-for-nsw-digital-id/">reports</a> that the money is expected to land next financial year. The investment follows last year’s passage of significant federal legislation dictating rules around the sharing of sensitive personal data, which has paved the way for expedited <a href="https://www.biometricupdate.com/202405/a
+
+## Innovatrics cuts fingerprint error rate by 20%, upgrades SmartFace platform
+ - [https://www.biometricupdate.com/202406/innovatrics-cuts-fingerprint-error-rate-by-20-upgrades-smartface-platform](https://www.biometricupdate.com/202406/innovatrics-cuts-fingerprint-error-rate-by-20-upgrades-smartface-platform)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T18:56:19+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1311" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/06131844/fingerprint-scan-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/innovatrics">Innovatrics</a> has reported its best-yet scores in NIST’s fingerprint biometrics testing, and added a new feature to its facial recognition security platform.
+
+The company achieved error rates among the lowest across all datasets in its most recent submission of fingerprint extraction and biometric verification algorithms to the NIST Proprietary Fingerprint Template (PFT) III <a href="https://pages.nist.gov/pft/results/pftiii/innovatrics+0008/index.html">evaluation</a>. The company has reduced its overall error rates for template extraction and matching by 20 percent, underscoring the reliability of its fingerprint recognition system.
+
+The proprietary fingerprint algorithms from Innovatrics scored between
+
+## Canadian cruise terminal gets Pangiam face biometrics for ID verification
+ - [https://www.biometricupdate.com/202406/canadian-cruise-terminal-gets-pangiam-face-biometrics-for-id-verification](https://www.biometricupdate.com/202406/canadian-cruise-terminal-gets-pangiam-face-biometrics-for-id-verification)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T18:53:19+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1363" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/06/19145223/shutterstock_2364643023-scaled.jpg" width="2048" />
+		The Vancouver Fraser Port Authority and U.S. Customs and Border Protection (CBP) have joined forces to <a href="https://www.portvancouver.com/news-and-media/news/canada-place-cruise-terminal-implements-cutting-edge-facial-biometric-technology-for-passenger-processing/">implement</a> face biometrics for streamlining the manual document verification process during passenger boarding at the Canada Place cruise terminal in Vancouver.
+
+The face biometrics system, developed by <a href="https://www.biometricupdate.com/companies/pangiam">Pangiam</a>, a subsidiary of BigBear.ai, utilizes passenger photos captured during the boarding process and cross-references these images with those in the individuals' pre-trip travel documents to verify their identities. The system ai
+
+## Atlantic Council stresses importance of DPI, data for stronger digital economies
+ - [https://www.biometricupdate.com/202406/atlantic-council-stresses-importance-of-dpi-data-for-stronger-digital-economies](https://www.biometricupdate.com/202406/atlantic-council-stresses-importance-of-dpi-data-for-stronger-digital-economies)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T18:16:31+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1150" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/06/12092636/clack-woman-digital-transformation-scaled.jpg" width="2048" />
+		The Atlantic Council has highlighted the importance of digital identity and digital public infrastructure (DPI) in birthing and growing strong, prosperous and resilient digital economies, including in the United States, in an <a href="https://www.atlanticcouncil.org/blogs/econographics/designing-a-blueprint-for-open-free-and-trustworthy-digital-economies/">analysis</a>.
+
+In the article titled “Designing a blueprint for open, free and trustworthy digital economies,” the U.S.-based think tank posits that digital identity is not only crucial for secure, trustworthy and interoperable digital infrastructure, it can facilitate “access to goods and services, provide recourse to fraud victims and help authorities hold bad actors responsible.”
+
+Although post a
+
+## Sri Lanka extends bid deadline for national digital ID project
+ - [https://www.biometricupdate.com/202406/sri-lanka-extends-bid-deadline-for-national-digital-id-project](https://www.biometricupdate.com/202406/sri-lanka-extends-bid-deadline-for-national-digital-id-project)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T17:28:32+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/07134503/sri-lanka-scaled.jpg" width="2048" />
+		The Government of Sri Lanka has extended the deadline for the submission of bids for the procurement of a Master System Integrator (MSI) for the Sri Lanka Unique Digital Identity (SL-UDI) project. This project, funded by the Government of India, aims to develop a comprehensive digital identity system for the country.
+
+Originally, the bid submission deadline was set for July 4, 2023. However, <a href="https://hcicolombo.gov.in/tender_content?id=eyJpdiI6ImhUZVYzMjUxdkFtUzNqOW90YWlGUGc9PSIsInZhbHVlIjoiaVMydytqYXNqSWdtXC9tSGgwMXkxOFE9PSIsIm1hYyI6IjY4Y2I0ODNkNjE4YTFjYTA1MGM4NTg1NmZhMWUzYzAwMDM5ZDY4OTIwODQyNmQyZjAzN2NjMGZjNjdjMmQ2MzUifQ==">a corrigendum</a> has been issued, extending the deadline to July 18, 2023. Interested firms and organizations now have until 3:00 PM (Sri Lanka
+
+## Rights groups urge Clearview plaintiffs to opt out of settlement
+ - [https://www.biometricupdate.com/202406/rights-groups-urge-clearview-plaintiffs-to-opt-out-of-settlement](https://www.biometricupdate.com/202406/rights-groups-urge-clearview-plaintiffs-to-opt-out-of-settlement)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T16:27:22+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/19140653/contract-agreement-rejected-scaled.jpg" width="2048" />
+		Activist groups in California are urging members of a class action against <a href="https://www.biometricupdate.com/companies/clearview-ai">Clearview AI</a> to reject the settlement recently agreed to on grounds that it sidesteps the central issue and allows the company to continue unjust biometric data collection and use practices.
+
+Under the settlement, plaintiffs (and their attorneys) would collectively receive a <a href="https://www.biometricupdate.com/202406/clearview-settles-bipa-lawsuit-plaintiffs-take-23-of-company">23 percent stake in Clearview</a>, which could be redeemed for alternative compensation under multiple scenarios. The “<a href="https://www.justfutureslaw.org/legal-filings/clearview">Renderos v. Clearview AI, Inc.</a>” case in California
+
+## Austrian digital wallet can now house national ID, proof of age alongside mDLs
+ - [https://www.biometricupdate.com/202406/austrian-digital-wallet-can-now-house-national-id-proof-of-age-alongside-mdls](https://www.biometricupdate.com/202406/austrian-digital-wallet-can-now-house-national-id-proof-of-age-alongside-mdls)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T15:57:13+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="923" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/06/19113626/eAusweise-Austria-digital-wallet.jpg" width="1640" />
+		Austra’s <a href="https://www.biometricupdate.com/202402/european-digital-id-apps-tendered-roll-out-updated-and-expanded">digital ID wallet</a> app can now hold fully digital proof of identity, as <a href="https://www.biometricupdate.com/companies/youniqx-identity-ag">Youniqx Identity</a>, a subsidiary of the Austrian State Printing House (OSD), adds digital identity card compatibility to its e-ID app. Digital IDs join <a href="https://www.biometricupdate.com/202210/austria-launches-digital-driving-licenses-its-first-digital-id-as-us-states-align">mobile driver’s licenses</a>, registration certificates and proof of age among identity documents that can be stored on the Austrian digital ID wallet app, eAusweise, according to a release from the firm.
+
+The app-hou
+
+## ComplyCube, Signicat add features to strengthen fintech AML capabilities
+ - [https://www.biometricupdate.com/202406/complycube-signicat-add-features-to-strengthen-fintech-aml-capabilities](https://www.biometricupdate.com/202406/complycube-signicat-add-features-to-strengthen-fintech-aml-capabilities)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T15:32:02+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1080" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/24203910/selfie-id-verification-scaled.jpg" width="2048" />
+		The financial technology sector is witnessing a wave of strategic collaborations and innovative solutions aimed at enhancing security and compliance. From bolstering know your customer (KYC) and anti-money laundering (AML) processes to introducing advanced biometric identification features, companies are making strides to safeguard their operations and customer transactions. ComplyCube and Signicat have each added capabilities to benefit regulated businesses, while Identomat has announced two new clients and iDenfy has revealed a customer win.
+<h2>ComplyCube adds Trust Center to KYC, AML platform</h2>
+<a href="https://www.biometricupdate.com/companies/complycube">ComplyCube</a> has launched a Trust Center to enhance its identity verification, KYC and AML platform
+
+## Controversy trails big money biometric ID card contract in DR Congo
+ - [https://www.biometricupdate.com/202406/controversy-trails-big-money-biometric-id-card-contract-in-dr-congo](https://www.biometricupdate.com/202406/controversy-trails-big-money-biometric-id-card-contract-in-dr-congo)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T14:54:34+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="858" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/08130132/digital-identity-fingerprint-scaled.jpg" width="2048" />
+		A mega money contract for the production of biometric national ID cards in the Democratic Republic of Congo (DR Congo) is facing the risk of being revoked following allegations of irregularities.
+
+The contract, worth $697 million, is reportedly under probe by the country’s Inspectorate General of Finance (IDF) and it looks like authorities want it cancelled, according to a <a href="https://www.africaintelligence.com/central-africa/2024/06/17/identity-card-contract-worth-nearly-dollars700m-sparks-turmoil-at-top-of-government%2C110248318-art?cxt=PUB&amp;utm_source=AIA&amp;utm_medium=email&amp;utm_campaign=AUTO_EDIT_SOM_PROS&amp;did=108181171">report</a> by Africa Intelligence.
+
+There had been a <a href="https://www.biometricupdate.com/202302/thales-idemia-veri
+
+## California bill on police use of facial recognition passes second reading
+ - [https://www.biometricupdate.com/202406/california-bill-on-police-use-of-facial-recognition-passes-second-reading](https://www.biometricupdate.com/202406/california-bill-on-police-use-of-facial-recognition-passes-second-reading)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T14:52:39+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="792" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg" width="2048" />
+		California’s Senate Public Safety Committee has unanimously voted to advance <a href="https://legiscan.com/CA/text/AB1814/id/2880335">Assembly Bill 1814</a>, which would prevent police using <a href="https://www.biometricupdate.com/202401/california-facial-recognition-bill-aims-to-keep-citizens-safe-from-false-arrests">facial recognition</a> matches as the sole basis for an arrest. But critics believe the bill still gives law enforcement too much leeway – and they include several men who have been wrongly arrested as a result of facial recognition.
+
+California has dabbled in facial recognition restrictions before. “Previous law, until January 1, 2023, prohibited the use of <a href="https://www.biometricupdate.com/202404/facial-recognition-coming-to-la-transit-after-passenger-fata
+
+## Regula identity verification database reaches 14K document templates
+ - [https://www.biometricupdate.com/202406/regula-identity-verification-database-reaches-14k-document-templates](https://www.biometricupdate.com/202406/regula-identity-verification-database-reaches-14k-document-templates)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T14:51:32+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="920" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/10141512/regula-forensic-document-examination.png" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/regula">Regula</a> is improving its fraud prevention capabilities by expanding its database for identity verification. The company has expanded its ID template database to include 14,000 identity document (ID) templates from 250 countries and territories, including various identity documents such as passports, ID cards, driver’s licenses, and residence permits.
+
+The company has included Iceland's first vertical ID card in its expanded <a href="https://regulaforensics.com/identity-documents-database/">database</a>. This particular ID card has been designed in accordance with the latest International Civil Aviation Organization (ICAO) specifications. With this expanded database of ID templates, businesses and
+
+## Estonia’s Chancellor of Justice halts digital ID card issuance at Selver stores
+ - [https://www.biometricupdate.com/202406/estonias-chancellor-of-justice-halts-digital-id-card-issuance-at-selver-stores](https://www.biometricupdate.com/202406/estonias-chancellor-of-justice-halts-digital-id-card-issuance-at-selver-stores)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-06-19T14:24:20+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="613" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/29172633/Estonian-ID-card.jpg" width="1024" />
+		Estonia's Chancellor of Justice Ülle Madise has intervened in the practice of issuing digital identity cards at Selver stores, a move deemed unconstitutional under Estonian law, <a href="https://news.err.ee/1609374679/justice-chancellor-ppa-cannot-issue-digital-ids-only-at-selver-stores">ERR reports</a>. The Police and Border Guard Board (PPA) had been utilizing Selver stores to distribute ID cards, residence permits, and digital IDs since late January, sparking concerns about legality and accessibility.
+
+The issue came to a head when the Information System Authority (RIA) issued an order for the PPA to cease issuing such documents through Selver outlets last year. This decision affects more than 1,700 individuals, many of whom had already obtained their documents through thes
+

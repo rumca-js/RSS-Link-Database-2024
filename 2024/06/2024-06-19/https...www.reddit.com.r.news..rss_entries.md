@@ -1,0 +1,184 @@
+# Source:Reddit - News, URL:https://www.reddit.com/r/news/.rss, language:en-US
+
+## Federal judge blocks Iowa law that allowed the arrest of some undocumented immigrants
+ - [https://www.reddit.com/r/news/comments/1djwgkk/federal_judge_blocks_iowa_law_that_allowed_the](https://www.reddit.com/r/news/comments/1djwgkk/federal_judge_blocks_iowa_law_that_allowed_the)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T22:50:00+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AudibleNod"> /u/AudibleNod </a> <br /> <span><a href="https://www.cnn.com/2024/06/18/us/iowa-immigration-bill-blocked/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djwgkk/federal_judge_blocks_iowa_law_that_allowed_the/">[comments]</a></span>
+
+## Hundreds of Hajj pilgrims reported dead amid extraordinary heat
+ - [https://www.reddit.com/r/news/comments/1djwf1g/hundreds_of_hajj_pilgrims_reported_dead_amid](https://www.reddit.com/r/news/comments/1djwf1g/hundreds_of_hajj_pilgrims_reported_dead_amid)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T22:48:06+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Miguenzo"> /u/Miguenzo </a> <br /> <span><a href="https://www.washingtonpost.com/weather/2024/06/19/hajj-deaths-mecca-heat/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djwf1g/hundreds_of_hajj_pilgrims_reported_dead_amid/">[comments]</a></span>
+
+## Former Highland Village fire chief tried to pay undercover officer $120 for sex act: arrest affidavit
+ - [https://www.reddit.com/r/news/comments/1djtzk4/former_highland_village_fire_chief_tried_to_pay](https://www.reddit.com/r/news/comments/1djtzk4/former_highland_village_fire_chief_tried_to_pay)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T21:03:04+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/lovingtate"> /u/lovingtate </a> <br /> <span><a href="https://www.fox4news.com/news/jason-collier-solicitation-of-a-prostitute-arrest-report">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djtzk4/former_highland_village_fire_chief_tried_to_pay/">[comments]</a></span>
+
+## The world’s oldest wine has been discovered in Spain with an unexpected extra ingredient
+ - [https://www.reddit.com/r/news/comments/1djtm40/the_worlds_oldest_wine_has_been_discovered_in](https://www.reddit.com/r/news/comments/1djtm40/the_worlds_oldest_wine_has_been_discovered_in)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T20:47:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/CheeesyGiraffe"> /u/CheeesyGiraffe </a> <br /> <span><a href="https://www.nbcnews.com/news/world/worlds-oldest-wine-discovered-southern-spain-rcna157894">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djtm40/the_worlds_oldest_wine_has_been_discovered_in/">[comments]</a></span>
+
+## Louisiana becomes the first state to require that the Ten Commandments be displayed in public school classrooms
+ - [https://www.reddit.com/r/news/comments/1djsy03/louisiana_becomes_the_first_state_to_require_that](https://www.reddit.com/r/news/comments/1djsy03/louisiana_becomes_the_first_state_to_require_that)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T20:19:09+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BlueDragonizNotCool"> /u/BlueDragonizNotCool </a> <br /> <span><a href="https://abcnews.go.com/US/wireStory/louisiana-state-require-ten-commandments-displayed-public-school-111256637">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djsy03/louisiana_becomes_the_first_state_to_require_that/">[comments]</a></span>
+
+## Famed Texas pastor Robert Morris resigns after confessing to molesting child
+ - [https://www.reddit.com/r/news/comments/1djqaw5/famed_texas_pastor_robert_morris_resigns_after](https://www.reddit.com/r/news/comments/1djqaw5/famed_texas_pastor_robert_morris_resigns_after)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T18:29:04+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/snesdreams"> /u/snesdreams </a> <br /> <span><a href="https://www.chron.com/culture/religion/article/robert-morris-resigns-19522078.php">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djqaw5/famed_texas_pastor_robert_morris_resigns_after/">[comments]</a></span>
+
+## Triple murder suspect on the loose in Arkansas: Police
+ - [https://www.reddit.com/r/news/comments/1djpi7j/triple_murder_suspect_on_the_loose_in_arkansas](https://www.reddit.com/r/news/comments/1djpi7j/triple_murder_suspect_on_the_loose_in_arkansas)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T17:56:14+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Forrest02"> /u/Forrest02 </a> <br /> <span><a href="https://abcnews.go.com/US/triple-murder-suspect-loose-arkansas-police/story?id=111253265">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djpi7j/triple_murder_suspect_on_the_loose_in_arkansas/">[comments]</a></span>
+
+## Israel warns of prospect of ‘all-out war’ after Hezbollah publishes video of military, civilian sites
+ - [https://www.reddit.com/r/news/comments/1djpaue/israel_warns_of_prospect_of_allout_war_after](https://www.reddit.com/r/news/comments/1djpaue/israel_warns_of_prospect_of_allout_war_after)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T17:47:31+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Hot_Pizza_3947"> /u/Hot_Pizza_3947 </a> <br /> <span><a href="https://edition.cnn.com/2024/06/18/middleeast/hezbollah-drone-video-israel-haifa-intl-latam/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djpaue/israel_warns_of_prospect_of_allout_war_after/">[comments]</a></span>
+
+## Chemicals from East Palestine derailment spread to 16 US states, data shows | Ohio
+ - [https://www.reddit.com/r/news/comments/1djnvac/chemicals_from_east_palestine_derailment_spread](https://www.reddit.com/r/news/comments/1djnvac/chemicals_from_east_palestine_derailment_spread)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T16:47:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/claire0"> /u/claire0 </a> <br /> <span><a href="https://theguardian.com/us-news/article/2024/jun/19/east-palestine-toxic-derailment-chemicals-spread">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djnvac/chemicals_from_east_palestine_derailment_spread/">[comments]</a></span>
+
+## Woman accuses former Olympic swim coach of sexually abusing her as a teen and USA Swimming of failing to stop it
+ - [https://www.reddit.com/r/news/comments/1djlv3j/woman_accuses_former_olympic_swim_coach_of](https://www.reddit.com/r/news/comments/1djlv3j/woman_accuses_former_olympic_swim_coach_of)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T15:24:23+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TopClassActions"> /u/TopClassActions </a> <br /> <span><a href="https://www.cnn.com/2024/06/18/us/usa-swimming-coach-abuse-lawsuit/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djlv3j/woman_accuses_former_olympic_swim_coach_of/">[comments]</a></span>
+
+## Tropical Storm Alberto forms in southwest Gulf, 1st named storm of the hurricane season
+ - [https://www.reddit.com/r/news/comments/1djlugi/tropical_storm_alberto_forms_in_southwest_gulf](https://www.reddit.com/r/news/comments/1djlugi/tropical_storm_alberto_forms_in_southwest_gulf)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T15:23:33+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/makingloudness"> /u/makingloudness </a> <br /> <span><a href="https://apnews.com/article/tropical-storm-alberto-gulf-hurricane-season-53b8efa54caf43e7bc746126d28bfa04">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djlugi/tropical_storm_alberto_forms_in_southwest_gulf/">[comments]</a></span>
+
+## Police seek ‘armed and dangerous’ suspect after fatal Washington City shooting
+ - [https://www.reddit.com/r/news/comments/1djl8w4/police_seek_armed_and_dangerous_suspect_after](https://www.reddit.com/r/news/comments/1djl8w4/police_seek_armed_and_dangerous_suspect_after)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T14:58:44+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/LiquidSquids2030"> /u/LiquidSquids2030 </a> <br /> <span><a href="https://www.stgeorgeutah.com/news/archive/2024/06/18/mgk-police-seek-armed-and-dangerous-suspect-after-fatal-washington-city-shooting/?fbclid=IwZXh0bgNhZW0CMTEAAR1jFfGQHVhvPS6ld8P9ftic0-kjc2bBbXC_Vk568cYhmeypEMdNSgGOP8U_aem_ZmFrZWR1bW15MTZieXRlcw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djl8w4/police_seek_armed_and_dangerous_suspect_after/">[comments]</a></span>
+
+## Climate protesters arrested after painting Stonehenge monument orange
+ - [https://www.reddit.com/r/news/comments/1djkbme/climate_protesters_arrested_after_painting](https://www.reddit.com/r/news/comments/1djkbme/climate_protesters_arrested_after_painting)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T14:19:03+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/prototerminal"> /u/prototerminal </a> <br /> <span><a href="https://apnews.com/video/protests-and-demonstrations-united-kingdom-2b7bcc3af906415595460034bda7fc55">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djkbme/climate_protesters_arrested_after_painting/">[comments]</a></span>
+
+## Putin and Kim sign mutual defence pact
+ - [https://www.reddit.com/r/news/comments/1djhxl7/putin_and_kim_sign_mutual_defence_pact](https://www.reddit.com/r/news/comments/1djhxl7/putin_and_kim_sign_mutual_defence_pact)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T12:27:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/NoneOfYallsBusiness"> /u/NoneOfYallsBusiness </a> <br /> <span><a href="https://www.reuters.com/world/asia-pacific/putin-kim-agree-develop-strategic-fortress-relations-kcna-says-2024-06-18/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djhxl7/putin_and_kim_sign_mutual_defence_pact/">[comments]</a></span>
+
+## Microplastic discovery in penises raises erectile dysfunction questions
+ - [https://www.reddit.com/r/news/comments/1djfh63/microplastic_discovery_in_penises_raises_erectile](https://www.reddit.com/r/news/comments/1djfh63/microplastic_discovery_in_penises_raises_erectile)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T10:02:54+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DairyFarmerOnCrack"> /u/DairyFarmerOnCrack </a> <br /> <span><a href="https://www.theguardian.com/environment/article/2024/jun/19/microplastic-discovery-in-penises-raises-erectile-dysfunction-questions?utm_source=instagramstories&amp;utm_campaign=microplasticsinsta&amp;fbclid=PAZXh0bgNhZW0CMTEAAaZ44U04u1NQY29ZfBWr3L-oupM5n97elwj_18JH-i1fn0Fpz1rsP_xSAkY_aem_ZmFrZWR1bW15MTZieXRlcw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djfh63/microplastic_discovery_in_penises_raises_erectile/">[comments]</a></span>
+
+## China changes names of Uyghur villages, says report – DW
+ - [https://www.reddit.com/r/news/comments/1djehp2/china_changes_names_of_uyghur_villages_says](https://www.reddit.com/r/news/comments/1djehp2/china_changes_names_of_uyghur_villages_says)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T08:54:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Ill_Hold8774"> /u/Ill_Hold8774 </a> <br /> <span><a href="https://www.dw.com/en/china-changes-names-of-uyghur-villages-says-report/a-69406924">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djehp2/china_changes_names_of_uyghur_villages_says/">[comments]</a></span>
+
+## Missing hiker's brother urges increased U.S. involvement in search efforts: "I just want to find my brother"
+ - [https://www.reddit.com/r/news/comments/1djdczr/missing_hikers_brother_urges_increased_us](https://www.reddit.com/r/news/comments/1djdczr/missing_hikers_brother_urges_increased_us)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T07:32:56+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Formergr"> /u/Formergr </a> <br /> <span><a href="https://www.cbsnews.com/news/brother-of-missing-hiker-in-greece-urges-increased-u-s-involvement-in-search-albert-calibet/?intcid=CNR-02-0623&amp;ftag=CNM-00-10aab4i">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djdczr/missing_hikers_brother_urges_increased_us/">[comments]</a></span>
+
+## Putin in North Korea live: Russian president thanks Kim for ‘unwavering support’ on Ukraine
+ - [https://www.reddit.com/r/news/comments/1djcmzr/putin_in_north_korea_live_russian_president](https://www.reddit.com/r/news/comments/1djcmzr/putin_in_north_korea_live_russian_president)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T06:42:58+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BlueDragonizNotCool"> /u/BlueDragonizNotCool </a> <br /> <span><a href="https://www.theguardian.com/world/live/2024/jun/19/north-korea-live-updates-vladimir-putin-kim-jong-un-pyongyang-latest-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1djcmzr/putin_in_north_korea_live_russian_president/">[comments]</a></span>
+
+## Astronauts’ return delayed again as Boeing and NASA try to learn more about spacecraft issues|CNN
+ - [https://www.reddit.com/r/news/comments/1dja3qv/astronauts_return_delayed_again_as_boeing_and](https://www.reddit.com/r/news/comments/1dja3qv/astronauts_return_delayed_again_as_boeing_and)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T04:02:22+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/5xad0w"> /u/5xad0w </a> <br /> <span><a href="https://www.cnn.com/2024/06/18/science/boeing-starliner-astronaut-mission-return-delay-scn/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1dja3qv/astronauts_return_delayed_again_as_boeing_and/">[comments]</a></span>
+
+## New Mexico village of Ruidoso orders residents to evacuate due to raging wildfires: "GO NOW"
+ - [https://www.reddit.com/r/news/comments/1dj9w92/new_mexico_village_of_ruidoso_orders_residents_to](https://www.reddit.com/r/news/comments/1dj9w92/new_mexico_village_of_ruidoso_orders_residents_to)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T03:50:51+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ArethereWaffles"> /u/ArethereWaffles </a> <br /> <span><a href="https://www.cbsnews.com/news/ruidoso-wildfire-new-mexico-village-mandatory-evacuations/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1dj9w92/new_mexico_village_of_ruidoso_orders_residents_to/">[comments]</a></span>
+
+## Ohio attorney suspended over pooping in a Pringles can has license reinstated
+ - [https://www.reddit.com/r/news/comments/1dj78tb/ohio_attorney_suspended_over_pooping_in_a](https://www.reddit.com/r/news/comments/1dj78tb/ohio_attorney_suspended_over_pooping_in_a)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T01:30:02+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Modz_B_Trippin"> /u/Modz_B_Trippin </a> <br /> <span><a href="https://www.dispatch.com/story/news/2024/06/18/ohio-supreme-court-reinstates-lawyer-who-pooped-in-pringles-can/74142255007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1dj78tb/ohio_attorney_suspended_over_pooping_in_a/">[comments]</a></span>
+
+## Baseball legend Willie Mays dies at 93
+ - [https://www.reddit.com/r/news/comments/1dj6yxl/baseball_legend_willie_mays_dies_at_93](https://www.reddit.com/r/news/comments/1dj6yxl/baseball_legend_willie_mays_dies_at_93)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T01:16:00+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/makingloudness"> /u/makingloudness </a> <br /> <span><a href="https://abcnews.go.com/Sports/baseball-legend-willie-mays-dies/story?id=76026588">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1dj6yxl/baseball_legend_willie_mays_dies_at_93/">[comments]</a></span>
+
+## ‘I know it happens’: Boeing chief admits the company has retaliated against whistleblowers
+ - [https://www.reddit.com/r/news/comments/1dj6wq7/i_know_it_happens_boeing_chief_admits_the_company](https://www.reddit.com/r/news/comments/1dj6wq7/i_know_it_happens_boeing_chief_admits_the_company)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T01:12:55+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/nightpanda893"> /u/nightpanda893 </a> <br /> <span><a href="https://www.cnn.com/business/live-news/boeing-ceo-testify-senate/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1dj6wq7/i_know_it_happens_boeing_chief_admits_the_company/">[comments]</a></span>
+
+## U.S. halts avocado and mango inspections in a Mexican state after 2 USDA employees attacked, detained
+ - [https://www.reddit.com/r/news/comments/1dj6u34/us_halts_avocado_and_mango_inspections_in_a](https://www.reddit.com/r/news/comments/1dj6u34/us_halts_avocado_and_mango_inspections_in_a)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T01:09:09+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br /> <span><a href="https://www.cbsnews.com/news/us-halts-avocado-mango-inspections-mexico-michoacan-usda-employees-attacked-detained/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1dj6u34/us_halts_avocado_and_mango_inspections_in_a/">[comments]</a></span>
+
+## Narges Mohammadi: Iran hand Nobel winner fresh jail term - lawyer
+ - [https://www.reddit.com/r/news/comments/1dj64db/narges_mohammadi_iran_hand_nobel_winner_fresh](https://www.reddit.com/r/news/comments/1dj64db/narges_mohammadi_iran_hand_nobel_winner_fresh)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T00:33:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/4inalfantasy"> /u/4inalfantasy </a> <br /> <span><a href="https://www.bbc.com/news/articles/c2vv4e2edg1o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1dj64db/narges_mohammadi_iran_hand_nobel_winner_fresh/">[comments]</a></span>
+
+## California Joins Growing National Effort to Ban Smartphone Use in Schools
+ - [https://www.reddit.com/r/news/comments/1dj5kvd/california_joins_growing_national_effort_to_ban](https://www.reddit.com/r/news/comments/1dj5kvd/california_joins_growing_national_effort_to_ban)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-19T00:07:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/51CKS4DW0RLD"> /u/51CKS4DW0RLD </a> <br /> <span><a href="https://www.nytimes.com/2024/06/18/us/california-newsom-smartphone-ban.html?unlocked_article_code=1.000.bj9q.ZmiAN7_5rLeC&amp;smid=url-share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1dj5kvd/california_joins_growing_national_effort_to_ban/">[comments]</a></span>
+
