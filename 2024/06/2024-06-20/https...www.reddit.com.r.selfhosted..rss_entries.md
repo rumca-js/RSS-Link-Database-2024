@@ -1,0 +1,345 @@
+# Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
+
+## Truenas app stuck deploying
+ - [https://www.reddit.com/r/selfhosted/comments/1dkpz83/truenas_app_stuck_deploying](https://www.reddit.com/r/selfhosted/comments/1dkpz83/truenas_app_stuck_deploying)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T23:41:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Tried updating my jellyfin app I'm truenas scale but now it's stuck deploying I've tried restarting force stopping rolling back to previous version and even created a new jellyfin instance and nothing worked I have not changed anything other than hitting update it was working now its not any ideas?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/a79bonanza"> /u/a79bonanza </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkpz83/truenas_app_stuck_deploying/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkpz83/truenas_app_stuck_deploying/">[comments]</a></span>
+
+## Which VPS provider is right for wireguard VPN?
+ - [https://www.reddit.com/r/selfhosted/comments/1dkn3to/which_vps_provider_is_right_for_wireguard_vpn](https://www.reddit.com/r/selfhosted/comments/1dkn3to/which_vps_provider_is_right_for_wireguard_vpn)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T21:31:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I assume set up my own VPN server by paying for a VPS provider and just configuring Wireguard. I'm currently using Mullvad, and their servers are starting to be blocked. It really would not cost all that much more for me to roll my own VPN. </p> <p>So, which VPS provider is right for this? I'd like to be able to move the server around to different locations or buy servers in multiple regions. Speed would also be ideal so the VPN does not bottleneck my connection. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zerophase"> /u/zerophase </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkn3to/which_vps_provider_is_right_for_wireguard_vpn/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkn3to/which_vps_provider_is_right_for_wireguard_vpn/">[comments]</a></span>
+
+## What self hosted solution do you use for EOD stock data?
+ - [https://www.reddit.com/r/selfhosted/comments/1dkmzw9/what_self_hosted_solution_do_you_use_for_eod](https://www.reddit.com/r/selfhosted/comments/1dkmzw9/what_self_hosted_solution_do_you_use_for_eod)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T21:27:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm not looking to reinvent the wheel, but there's always python in a pinch.</p> <p>I want to play around with lots of stock data and grab 1 minute intervals at the end of trading days to start building up my machine learning database. I currently lean on yfinance, but there has to be an existing selfhosted solution for gathering this data? I'm not the first person who wants to find correlations between news, weather, ect, and the stock market. </p> <p>Thank you, and as always, feel free to berate me and call me names. I did read the wiki, but maybe I missed what I was looking for?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_Flo0r_is_Lava"> /u/The_Flo0r_is_Lava </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkmzw9/what_self_hosted_solution_do_you_use_for_eod/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkmzw9/what_self_hosted_solution_do_
+
+## Setting Up a Nextcloud Server on a Raspberry Pi and Integrating with Kodi and RetroPie
+ - [https://www.reddit.com/r/selfhosted/comments/1dkmhm2/setting_up_a_nextcloud_server_on_a_raspberry_pi](https://www.reddit.com/r/selfhosted/comments/1dkmhm2/setting_up_a_nextcloud_server_on_a_raspberry_pi)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T21:06:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’m planning to set up my own Nextcloud server on a Raspberry Pi (4 or 5) to store important files and backups of movies, TV shows, and ROMs.</p> <p>Here’s my plan:</p> <p>Nextcloud Server on Raspberry Pi: I’ll use a Raspberry Pi to host Nextcloud for my files and backups. Kodi on Android Box: I want to install Kodi on an Android Box and link it to the directories on my Nextcloud server so I can stream movies directly from the cloud. Ideally, I want a Netflix-like experience. RetroPie Setup: I’m considering getting a second Raspberry Pi to install RetroPie (or possibly just using a desktop client on a Windows/Linux PC) to access and play ROMs stored on my Nextcloud server. My questions:</p> <p>Is linking Kodi to my Nextcloud server as straightforward as it sounds, or is there a better solution for this setup? Will my idea of using RetroPie to access ROMs from the cloud work seamlessly? Are there other open-source solutions I shoul
+
+## Looking for pre-1.0 Mealie config
+ - [https://www.reddit.com/r/selfhosted/comments/1dklmj7/looking_for_pre10_mealie_config](https://www.reddit.com/r/selfhosted/comments/1dklmj7/looking_for_pre10_mealie_config)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T20:28:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Through a series of unfortunate mishaps (primary checking the &quot;always pull image&quot; box in Portainer), I wound up accidentally upgrading Mealie from 0.5.0 without migrating. I figure, no problem I still have the db and all the persistent data files. But for some reason I have been having a bear of a time trying to deploy a new container with 0.5.0. </p> <p>Longshot... does anyone by chance have an example Sqlite Mealie Dockerfile from that version? I looked on Github but his example is a Postgres version and I'm not sure the ENV variables needed for SQLite.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vrsrsns"> /u/vrsrsns </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dklmj7/looking_for_pre10_mealie_config/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dklmj7/looking_for_pre10_mealie_config/">[comments]</a></span>
+
+## accessing my homelab externally
+ - [https://www.reddit.com/r/selfhosted/comments/1dkkmoi/accessing_my_homelab_externally](https://www.reddit.com/r/selfhosted/comments/1dkkmoi/accessing_my_homelab_externally)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T19:46:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>hi all, i have successfully installed proxmox and put up some VMs and LXCs for the things i selfhost like bitwarden, nextcloud, jellyfin. etc. and now i wanted to be able to access them via a domain when im outside. </p> <p>my ISP is under CGNAT so port forwarding isnt possible and i cant get NPM to work. so, my question is, whats the best and secure way i could access my instances externally via domain? i saw cloudflare is a solution but i read also that they limit the bandwith since ill be using some streaming services. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wise-Tip7203"> /u/Wise-Tip7203 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkkmoi/accessing_my_homelab_externally/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkkmoi/accessing_my_homelab_externally/">[comments]</a></span>
+
+## Authentik + swag + cloudflare 500 internal server error
+ - [https://www.reddit.com/r/selfhosted/comments/1dkk86s/authentik_swag_cloudflare_500_internal_server](https://www.reddit.com/r/selfhosted/comments/1dkk86s/authentik_swag_cloudflare_500_internal_server)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T19:29:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am able to access the site if I comment out the app config section including authentik but when I uncomment it I get a 500 server error.</p> <p>It is a basic proxy config on authentik.</p> <p>Unsure what other settings I could be missing?</p> <p><strong>authentik-server.conf</strong></p> <h2>Version 2023/04/27 - Changelog: <a href="https://github.com/linuxserver/docker-swag/commits/master/root/defaults/nginx/authentik-server.conf.sample#">https://github.com/linuxserver/docker-swag/commits/master/root/defaults/nginx/authentik-server.conf.sample#</a> Make sure that your authentik container is in the same user defined bridge network and is named authentik-server# Rename /config/nginx/proxy-confs/authentik.subdomain.conf.sample to /config/nginx/proxy-confs/authentik.subdomain.conf</h2> <h1>location for authentik subfolder requests</h1> <p>location ^~ /outpost.goauthentik.io { </p> <p>auth_request on; # requests to this subfolder must be accessible witho
+
+## High Reliability- looking for advice
+ - [https://www.reddit.com/r/selfhosted/comments/1dkk074/high_reliability_looking_for_advice](https://www.reddit.com/r/selfhosted/comments/1dkk074/high_reliability_looking_for_advice)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T19:19:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Now that I have bunch of services running as a beginner I started looking into high availability. If I get it right ideal setup would require 3 worker nodes and 3 manager nodes with Docker Swarm hosted in different locations.</p> <p>I don't mind if my piped YT instance goes down. But I would mind loosing access to vaultwarden or family chat instance while travelling abroad. </p> <p>For this reason I am considering Hetzner VPS for services I consider crucial until I get comfortable with Swarm and get some mini PCs.</p> <p>How do you guys handle high reliability for services you consider critical?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/robos12345"> /u/robos12345 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkk074/high_reliability_looking_for_advice/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkk074/high_reliability_looking_for_advice/">
+
+## How would you collect iMessages remotely
+ - [https://www.reddit.com/r/selfhosted/comments/1dkik0x/how_would_you_collect_imessages_remotely](https://www.reddit.com/r/selfhosted/comments/1dkik0x/how_would_you_collect_imessages_remotely)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T18:19:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>I don’t want to use my private AppleID on my work machine but I loved getting iMessage updates on my daily driver. </p> <p>I’m thinking of buying an old mac mini or MacBook with a broken screen to run headless at home. I want to use this machine to collect my messages. </p> <p>How would you set this up securely to be viewed / screenshared from my corporate network?</p> <p>I have a ubiquity network at home and not sure I can install teleport on my work machine. I also have a proxmox server to add services that might help like a cloudflare tunnel. </p> <p>I’m thinking the best approach would be to ssh from work to home and tunnel a vnc port over the ssh connection?</p> <p>Thanks for the advice </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/guest_guest"> /u/guest_guest </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkik0x/how_would_you_collect_imessages_remotely/">[link]</a></span> &#32; 
+
+## I need a small and powerful machine,, any suggestions?
+ - [https://www.reddit.com/r/selfhosted/comments/1dki7d1/i_need_a_small_and_powerful_machine_any](https://www.reddit.com/r/selfhosted/comments/1dki7d1/i_need_a_small_and_powerful_machine_any)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T18:04:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I am looking for a small machine 30-40 cm wide, 30-50 long and up to 50 cm high. The sizes do not have to be 100% compatible and can go beyond this area, unless instead of being 50 high it is 180 cm, then such a disproportion is out of the question for me as I will not be able to place the machine close to the router.</p> <p><strong><em>Specs:</em></strong></p> <p><strong>CPU:</strong> I need an Intel i9 in a powerful but reasonably energy efficient version. An i7 also suits me if it is a powerful version. I don't know if a CPU from AMD is a great choice when it comes to self-hosting, AI and compatibility, but if you think as much as possible then AMD suits me too.</p> <p><strong>RAM:</strong> I need at least 64GB ram, preference for ddr5, but ddr4 it's also fine.</p> <p><strong>GPU (optionally):</strong> I know that at this size there may not be a chance to buy a machine with a GPU or add one. I would need an NVIDIA Quadro A2000/A4000 or s
+
+## Nextcloud x Owncloud OCIS
+ - [https://www.reddit.com/r/selfhosted/comments/1dkhp9u/nextcloud_x_owncloud_ocis](https://www.reddit.com/r/selfhosted/comments/1dkhp9u/nextcloud_x_owncloud_ocis)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T17:43:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, is someone using the owncloud infinite scale? i use nextcloud and find way too slow but have nice features like TOTP, bruteforce security, so i instaled the owncloud that the community says its nextcloud &quot;Father&quot; but it has almost no configuration or addons like nextcloud but on terms of speed is WAY faster to upload/download etc..</p> <p>did i installed a wrong version? could anyone help me?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Noisyss"> /u/Noisyss </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkhp9u/nextcloud_x_owncloud_ocis/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkhp9u/nextcloud_x_owncloud_ocis/">[comments]</a></span>
+
+## Immich just had my back
+ - [https://www.reddit.com/r/selfhosted/comments/1dkg8kh/immich_just_had_my_back](https://www.reddit.com/r/selfhosted/comments/1dkg8kh/immich_just_had_my_back)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T16:43:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>My phone suddenly stopped charging out of the blue and had 12% remaining, USB not working neither.</p> <p>The only real important thing on it were my pictures and videos of my kid, and last backup was 2 months ago.</p> <p>Luckily I just installed Immich for testing a few days ago, with an external library to my Photoview data.</p> <p>Thanks to Immich, I could backup my pictures flawlessly in only some minutes.</p> <p>Then I was able to repair the phone, turns out it was only the battery connector that was slightly disconnected.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/autisticit"> /u/autisticit </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkg8kh/immich_just_had_my_back/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkg8kh/immich_just_had_my_back/">[comments]</a></span>
+
+## Own DNS server and android
+ - [https://www.reddit.com/r/selfhosted/comments/1dkfuv0/own_dns_server_and_android](https://www.reddit.com/r/selfhosted/comments/1dkfuv0/own_dns_server_and_android)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T16:27:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, </p> <p>I have a dns server on my network so I can use it on my android phone, but how should I do it? On wifi it isn't a problem because I can just set static ip, but on mobile? I'm on android 11 so I can't just input an ip address into the Private DNS settings.</p> <p>I have a domain, so I tried to just make an A record (cloudflare), but it doesn't work. Anyone can help with this, or explain how the Private DNS on android works? Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrPomajdor"> /u/MrPomajdor </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkfuv0/own_dns_server_and_android/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkfuv0/own_dns_server_and_android/">[comments]</a></span>
+
+## Knowledge Base AI Chat
+ - [https://www.reddit.com/r/selfhosted/comments/1dkfp4o/knowledge_base_ai_chat](https://www.reddit.com/r/selfhosted/comments/1dkfp4o/knowledge_base_ai_chat)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T16:20:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>If your organization has a wiki that 10's of employees have been creating for years, what are the products we can use with artificial intelligence to create an answer to a question with the information in this wiki?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/clever_entrepreneur"> /u/clever_entrepreneur </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkfp4o/knowledge_base_ai_chat/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkfp4o/knowledge_base_ai_chat/">[comments]</a></span>
+
+## How do you access your NAS remotely?
+ - [https://www.reddit.com/r/selfhosted/comments/1dkfnaj/how_do_you_access_your_nas_remotely](https://www.reddit.com/r/selfhosted/comments/1dkfnaj/how_do_you_access_your_nas_remotely)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T16:18:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>How do you access TrueNAS remotely?</p> <p>Planning to setup TrueNAS instance and wondering how users are remotely accessing their instance</p> <p>Can you explain to me what’s your setup and how do you remotely access it to upload/download files from computer and phone ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dr_MHQ"> /u/Dr_MHQ </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkfnaj/how_do_you_access_your_nas_remotely/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkfnaj/how_do_you_access_your_nas_remotely/">[comments]</a></span>
+
+## Self hosted lambdas
+ - [https://www.reddit.com/r/selfhosted/comments/1dkf49i/self_hosted_lambdas](https://www.reddit.com/r/selfhosted/comments/1dkf49i/self_hosted_lambdas)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T15:56:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1dkf49i/self_hosted_lambdas/"> <img alt="Self hosted lambdas" src="https://preview.redd.it/jhy8d5u71r7d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cba293ddb1b27ea9f4bd9897a96afcee39908863" title="Self hosted lambdas" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey, I just made an very very simple pet project that intends on having an aws lambda like functionality but without aws. It works over http and has the following characteristics: - Each lambda is an process that gets spawned and exits. - The input data type, content length and accepted response types are passed to the lambda as argv arguments - The output data type (and if there are errors) is returned via exit code - The input data is passed via stdin - The output data is passed via stdout - Other lambdas can be called via an binary (named call) or via implementing the lambda protocol and using an http post request - The root lambda server e
+
+## Best way to run Windows alongside Debian... Which would you choose between Proxmox or via Docker with dockurr/windows?
+ - [https://www.reddit.com/r/selfhosted/comments/1dkegc1/best_way_to_run_windows_alongside_debian_which](https://www.reddit.com/r/selfhosted/comments/1dkegc1/best_way_to_run_windows_alongside_debian_which)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T15:28:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I occasionally need to use windows, but I'm not sure I quite need Proxmox as I have a working Debian system...</p> <p>So my question is, could I just run it in Docker via <code>dockurr/windows</code>?</p> <p>How stable would that be? And also which would be the least draining on resources?</p> <p><a href="https://github.com/dockur/windows">https://github.com/dockur/windows</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zestyclose_Car1088"> /u/Zestyclose_Car1088 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkegc1/best_way_to_run_windows_alongside_debian_which/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkegc1/best_way_to_run_windows_alongside_debian_which/">[comments]</a></span>
+
+## What spec should I get for my new home server?
+ - [https://www.reddit.com/r/selfhosted/comments/1dkebr1/what_spec_should_i_get_for_my_new_home_server](https://www.reddit.com/r/selfhosted/comments/1dkebr1/what_spec_should_i_get_for_my_new_home_server)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T15:23:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am now having a Xeon e3 1230v2 with 10gbs of ram on a h61 motherboard, running ubuntu. One sata was broken, it doesn't detects my hard disk and recently another sata seems to be breaking down too!(Sometimes it works but sometimes don't)</p> <p>I decided to have a new one because the cooling sucks and it's kinda old.</p> <p>I use this computer as my home server. I run samba, iscsi, nginx/apache, VPN server, virtual machine(not used frequently) , ollama and a Minecraft server with my friends(1-4).</p> <p>I am not sure how much ram and which cpu I should choose, pls give me some idea/comments.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/XandrenotfoundX"> /u/XandrenotfoundX </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkebr1/what_spec_should_i_get_for_my_new_home_server/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkebr1/what_spec_should_i_ge
+
+## Internet radio self hosting
+ - [https://www.reddit.com/r/selfhosted/comments/1dkdt8v/internet_radio_self_hosting](https://www.reddit.com/r/selfhosted/comments/1dkdt8v/internet_radio_self_hosting)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T15:02:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello! I've wanted to start an internet radio streaming server, and I want to be able to stream the direct file without reencoding. Like if I have a mp3 file and opus file in my library, when the next file plays, it plays the same codec without reencoding on the listener end. (I can directly send EAC3, and someone using VLC can bitstream the radio stream)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/minecrafter1OOO"> /u/minecrafter1OOO </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkdt8v/internet_radio_self_hosting/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkdt8v/internet_radio_self_hosting/">[comments]</a></span>
+
+## Suggestion Box solution
+ - [https://www.reddit.com/r/selfhosted/comments/1dkdqob/suggestion_box_solution](https://www.reddit.com/r/selfhosted/comments/1dkdqob/suggestion_box_solution)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T14:59:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>I'm curently looking for a suggestion box solution that I could host on docker for our company.</p> <p>If someone has the name of something cool for that, let me know :-)</p> <p>Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gantyx"> /u/Gantyx </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkdqob/suggestion_box_solution/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkdqob/suggestion_box_solution/">[comments]</a></span>
+
+## Sonarr not grabbing the best available
+ - [https://www.reddit.com/r/selfhosted/comments/1dkd62b/sonarr_not_grabbing_the_best_available](https://www.reddit.com/r/selfhosted/comments/1dkd62b/sonarr_not_grabbing_the_best_available)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T14:35:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I noticed recently that my Sonarr instance keeps grabbing torrents that are scored e.g. +500 when there are e.g. +2200 available if I use interactive search. It’s been an issue as well because some of the lower quality torrents that Sonarr is grabbing are stalling with no seeders. I checked that my quality profiles and custom formats are still set up correctly. I’m just wondering why the automatic search isn’t grabbing the best result that I see during a manual search?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FatalFlare21"> /u/FatalFlare21 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkd62b/sonarr_not_grabbing_the_best_available/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkd62b/sonarr_not_grabbing_the_best_available/">[comments]</a></span>
+
+## DNS resolving with 2 PiHoles and other fun stuff
+ - [https://www.reddit.com/r/selfhosted/comments/1dkcody/dns_resolving_with_2_piholes_and_other_fun_stuff](https://www.reddit.com/r/selfhosted/comments/1dkcody/dns_resolving_with_2_piholes_and_other_fun_stuff)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T14:14:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1dkcody/dns_resolving_with_2_piholes_and_other_fun_stuff/"> <img alt="DNS resolving with 2 PiHoles and other fun stuff" src="https://b.thumbs.redditmedia.com/9cvZXVSXFb0AWIdzBof0VTFYBxoeSFYXJYcNdPEatgo.jpg" title="DNS resolving with 2 PiHoles and other fun stuff" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello fellow self-hosters,</p> <p>I've just made the swtich from a MACVLAN network to Docker bridge networking. The biggest &quot;issue&quot; with this was my port forwards and DNS settings on my USG, but everything seems to work fine so far.</p> <p>I basically run two PiHoles in my network: One on my main server (bridge network) and one on a Raspberry Pi (still on MACVLAN, have not switched that yet). I've already disabled <code>systemd-resolved</code>, as that does not work well with PiHole.</p> <p>The problem lies with my main server, which runs Fedora. My <code>/etc/resolv.conf</code> has this content
+
+## Prowlarr won't start on Ubuntu, sqlite library error
+ - [https://www.reddit.com/r/selfhosted/comments/1dkcjb8/prowlarr_wont_start_on_ubuntu_sqlite_library_error](https://www.reddit.com/r/selfhosted/comments/1dkcjb8/prowlarr_wont_start_on_ubuntu_sqlite_library_error)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T14:07:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm running Ubuntu 22.04 lts on a dev system and wanted to experiment with a arr-chitecture. </p> <p>Downloaded and installed Prowlarr per <a href="https://wiki.servarr.com/prowlarr/installation/linux">https://wiki.servarr.com/prowlarr/installation/linux</a>, and immediately ran into problems getting it running.</p> <p>I installed the dotnet runtime package and set the localization settings in Prowlarr.runtimeconfig.json to clear the ICU error, but now I'm stuck on an sqlite library error.</p> <p>System.DllNotFoundException: Unable to load shared library 'libsqlite3.so.0' or one of its dependencies.</p> <p>I have the sqlite package installed, is there a separate library package? Is there a path in one of the config files I can specify? </p> <p>I'm not a nube, but this is my 1st experience with prowlarr and dotnet on linux in general</p> <p>TIA!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OxfordWiFi"> /u/Oxfor
+
+## I am having a directory duplication issue with my raspberry pi 4.
+ - [https://www.reddit.com/r/selfhosted/comments/1dkc6nq/i_am_having_a_directory_duplication_issue_with_my](https://www.reddit.com/r/selfhosted/comments/1dkc6nq/i_am_having_a_directory_duplication_issue_with_my)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T13:52:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been at this for months now with no resolution in sight. Here is a series of screenshots on what I am dealing with. <a href="https://imgur.com/a/jA3UOYt">https://imgur.com/a/jA3UOYt</a></p> <p>As the duplicate gets created upon reboot, the raspberrypi/docker/portainer is appending a 1 on the original directory and create a whole new fresh duplicate directory. The only way I found to revert this behavior is to unplug my external drive, delete the duplicate and then plug the drive back into the pi. And that is EVERY damn reboot. Is there a way to stop this behavior? Any help would be greatly appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkAngle2353"> /u/OkAngle2353 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkc6nq/i_am_having_a_directory_duplication_issue_with_my/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dkc6nq/i_am_hav
+
+## Casa/Cosmos? Umbrel? Help newbie to choose, please
+ - [https://www.reddit.com/r/selfhosted/comments/1dkc0e9/casacosmos_umbrel_help_newbie_to_choose_please](https://www.reddit.com/r/selfhosted/comments/1dkc0e9/casacosmos_umbrel_help_newbie_to_choose_please)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T13:45:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, I ordered an RPI 4B with 8 GB and I'm planning to build a small home server with 4TB SSD, but I can't quite decide which system to use. </p> <p><strong>My needs are as follows:</strong> </p> <p>Nextcloud for backups (I'm a videomaker)</p> <p>Jellyfin for movies</p> <p>Synchthing for Obsidian database</p> <p>Kiwix for offline Wikipedia</p> <p>Some torrents</p> <p><strong>Possibly in the future:</strong></p> <p>Bitcoin + lightning node</p> <p>Monero node?</p> <p>Tor Snowflake?</p> <p>And I absolutely need to be able to access this without being on my home network (saw tailscale's solution, seemed simple and convenient)</p> <p>I'm not particularly an it guy. Like, I can install linux, config a browser, reflash my phone, or write a small script from a youtube guide. But some really complicated things (or if something breaks) I'm not sure I can do without help. </p> <p>So the question is, what should I choose? I like the interface and the idea of U
+
+## Can't manage files - plex debrid
+ - [https://www.reddit.com/r/selfhosted/comments/1dk9wt8/cant_manage_files_plex_debrid](https://www.reddit.com/r/selfhosted/comments/1dk9wt8/cant_manage_files_plex_debrid)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T12:02:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>As of Monday I have became a selfhoster myself. As quickly as I could I installed Proxmox bare-metal, and started on my plexdebrid Setup. Everything went fine. Istarted setting up an LXC with plex through a template and I went through a guide setting up zurg and rclone in docker containers. Everything worked, great!</p> <p>However, as I went to my mounted folder /mnt/rd/ and wanted to delete/add/rename some movies I got in there, I was hit with an Input/output error. </p> <p>Now, I made sure everything was owned by root, the account i am using. I have tried to delete the files directly from the rclone container, no succes either. Tried deleting them from Plex, same error.</p> <p>So here I am, trying my luck here at resolving this issue. Any help would be much appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BluetoothPidgeon"> /u/BluetoothPidgeon </a> <br /> <span><a href="https://www.reddit.com/r/self
+
+## better security for NGINX Proxy Manager exposed sites.(Docker)
+ - [https://www.reddit.com/r/selfhosted/comments/1dk99rf/better_security_for_nginx_proxy_manager_exposed](https://www.reddit.com/r/selfhosted/comments/1dk99rf/better_security_for_nginx_proxy_manager_exposed)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T11:26:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>i am currently using NGINX Proxy Manager in docker to expose some sites, so i can access them from anywhere. most of the sites have logins, and should be secure enough, but i want as much security as possible.</p> <p>i once tried messing with fail2ban in docker, but since i was doing this from work, and not while i was home, i lost all connection to my home network until i got home, and removed fail2ban. since then i have wanted to set it up again, but i want to do it while i am home, so during a weekend where i can just access the local ip of things. i followed a guide from the openmediavault forums, and likely missed something, or set something up wrong.</p> <p>i have considered doing some geo blocking as well, since only people from my country SHOULD want to access my various things, so i want to block ip's from other countries, and only allow connections from my country, and connections with my VPN(which connects directly with ip, so it should not
+
+## Where to go from a Rapsberry Pi 5
+ - [https://www.reddit.com/r/selfhosted/comments/1dk9310/where_to_go_from_a_rapsberry_pi_5](https://www.reddit.com/r/selfhosted/comments/1dk9310/where_to_go_from_a_rapsberry_pi_5)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T11:15:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I am new to self hosting, and I am using a Raspberry Pi 5 for my services. I just bought it to host Foundry VTT with my group, and it works well for that. But I found myself running too many services over the months as I become more familiar with self-hosting. I don't actually have many problems right now, but it feels like it is reaching its limits. Especially as I want to do embedding locally.</p> <p>So, I am looking for a cheap and good working alternative. These are the applications I am using right now (and I use them all regularly):</p> <ul> <li>Hosting a local mirror of <a href="http://5e.tools">5e.tools</a></li> <li>Baikal, I moved my contracts and calendars to local.</li> <li>Calibre-Web</li> <li>Dockge and Dozzle for management and logs.</li> <li>File Browser</li> <li>Foundry VTT</li> <li>LibreChat</li> <li>Memos</li> <li>NZBHydra</li> <li>Resilio Sync, I am not using cloud storage, all my files are synced to my desktop, Raspberry
+
+## SSH Proxmox host using Zerotier
+ - [https://www.reddit.com/r/selfhosted/comments/1dk81ra/ssh_proxmox_host_using_zerotier](https://www.reddit.com/r/selfhosted/comments/1dk81ra/ssh_proxmox_host_using_zerotier)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T10:09:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a LXC container where my Zerotier container is running. Using that, I am able to reach the other containers within the LXC. Now I want to SSH the host proxmox, to do that, I need to install Zerotier on host proxmox? or should I enable ssh on proxmox to reach locally by the zerotier container?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vivek_5239"> /u/vivek_5239 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk81ra/ssh_proxmox_host_using_zerotier/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk81ra/ssh_proxmox_host_using_zerotier/">[comments]</a></span>
+
+## Guacamole Ssh private key auth is not working
+ - [https://www.reddit.com/r/selfhosted/comments/1dk7zeq/guacamole_ssh_private_key_auth_is_not_working](https://www.reddit.com/r/selfhosted/comments/1dk7zeq/guacamole_ssh_private_key_auth_is_not_working)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T10:05:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed guacd and tomcat9 and guacamole and nginx(for reverse proxy) natively on my ubuntu 22.04 lts machine. I added localhost on user-mapping.xml. This is my user-mapping file</p> <p>&lt;user-mapping&gt;</p> <pre><code>&lt;!-- Per-user authentication and config information --&gt; &lt;authorize username=&quot;username&quot; password=&quot;———&quot;&gt; &lt;connection name=&quot;local&quot;&gt; &lt;protocol&gt;ssh&lt;/protocol&gt; &lt;param name=&quot;hostname&quot;&gt;127.0.0.1&lt;/param&gt; &lt;param name=&quot;port&quot;&gt;22&lt;/param&gt; &lt;param name=&quot;username&quot;&gt;ubuntu&lt;/param&gt; &lt;param name=&quot;private-key&quot;&gt;-----BEGIN RSA PRIVATE KEY----- </code></pre> <p>….. &lt;/param&gt; &lt;/connection&gt; &lt;connection name=&quot;dummy&quot;&gt;&lt;/connection&gt; &lt;/authorize&gt; &lt;/user-mapping&gt;</p> <p>When I connect to localhost using guacamole, website says “you have been disconnected.”</p> <p>When I enter, sud
+
+## SquirrelServersManager - Alpha (free, open source), manage all your servers & containers in one place
+ - [https://www.reddit.com/r/selfhosted/comments/1dk7ypk/squirrelserversmanager_alpha_free_open_source](https://www.reddit.com/r/selfhosted/comments/1dk7ypk/squirrelserversmanager_alpha_free_open_source)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T10:03:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1dk7ypk/squirrelserversmanager_alpha_free_open_source/"> <img alt="SquirrelServersManager - Alpha (free, open source), manage all your servers &amp; containers in one place" src="https://b.thumbs.redditmedia.com/TO5GHVAFrnVuFT96V4_Q-Ufx3tpb_i7Hh9SeRm2LGvs.jpg" title="SquirrelServersManager - Alpha (free, open source), manage all your servers &amp; containers in one place" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>SSM development is well underway, and will soon be released in Alpha,</p> <p>I am still looking for testers and contributors (open source developers)</p> <p>Happy to discuss!</p> <p><a href="https://preview.redd.it/grxozi04ap7d1.png?width=2970&amp;format=png&amp;auto=webp&amp;s=6cfca73a0083a784d8d987c660239d7bea73d4e2">https://preview.redd.it/grxozi04ap7d1.png?width=2970&amp;format=png&amp;auto=webp&amp;s=6cfca73a0083a784d8d987c660239d7bea73d4e2</a></p> <p><a href="https://preview.
+
+## SSL on closed network with nginx-proxy-manager
+ - [https://www.reddit.com/r/selfhosted/comments/1dk7olt/ssl_on_closed_network_with_nginxproxymanager](https://www.reddit.com/r/selfhosted/comments/1dk7olt/ssl_on_closed_network_with_nginxproxymanager)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T09:44:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi homelabers!</p> <p><strong>TLDR:</strong> in nginx-proxy-manager, I would like to be able to generate a certificate for a domain that doesn't exist outside (here it's <code>home.lan</code>).</p> <p><strong>Details:</strong></p> <p>I'm currently trying to set up my homelab, the following way (I'm only including interesting details):</p> <ul> <li>I have portainer running on a machine &quot;homelab&quot;</li> <li>I have nginx-proxy-manager running (on the same machine)</li> <li>I have a piHole instance running on a RPi for local DNS</li> </ul> <p>On my piHole, I have created a CNAME record <code>portainer.home.lan</code> that redirects to my nginx-proxy-manager instance.</p> <p>On nginx-proxy-manager, I've created a proxy host <code>portainer.home.lan</code> that points to <a href="https://mylocalip:9443"><code>https://mylocalip:9443</code></a> which is the web UI of portainer. I haven't enabled SSL because when I'm trying to generate a Let's Encrypt 
+
+## BREACH::HARBOR - Elevate Your Defense to Predictive Protection
+ - [https://www.reddit.com/r/selfhosted/comments/1dk79gf/breachharbor_elevate_your_defense_to_predictive](https://www.reddit.com/r/selfhosted/comments/1dk79gf/breachharbor_elevate_your_defense_to_predictive)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T09:14:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/cvicpp"> /u/cvicpp </a> <br /> <span><a href="https://breachharbor.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk79gf/breachharbor_elevate_your_defense_to_predictive/">[comments]</a></span>
+
+## Download Streams from Burningseries like AAR Stack doing from Torrent?
+ - [https://www.reddit.com/r/selfhosted/comments/1dk6hk4/download_streams_from_burningseries_like_aar](https://www.reddit.com/r/selfhosted/comments/1dk6hk4/download_streams_from_burningseries_like_aar)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T08:17:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>is there any chance in automate downloading videos from Burningseries hosted on voe[.]sx or streamtape[.]com like the whole AAR Stack.</p> <p>The AAR Stack is watching some rss feeds for movies and shows in my watchlist of overseer or jellyseer or in my list in radaar and sonaar. After finding it on the rss feed it adds the torrents to a torrentclient and download that movies and shows and sonaar and radaar moving them to the library.</p> <p>The last part is up and running. I'm using jdownloader at the moment and be able to add downloads manually. After downloads finished the files got moved to the right folders from sonaar or radaar and jellyfin gets an order to update the library.</p> <p>But i really would like to automate the downloads from burning series or maybe series.to. But i have no idea how to get things started.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bayharborboatsmen"> /u
+
+## Cloud with hetzner storage box
+ - [https://www.reddit.com/r/selfhosted/comments/1dk6c96/cloud_with_hetzner_storage_box](https://www.reddit.com/r/selfhosted/comments/1dk6c96/cloud_with_hetzner_storage_box)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T08:06:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi.</p> <p>I currently use tresorit to sync files between ios, windows (mainly) computers and phones.</p> <p>I already have a bare metal server as hetzner and trying to decide wether i should order another server for like 44 euros/months for 2x6TB disks, or a 10TB storage box attached to the current server.</p> <p>What i would like is the client be able to &quot;store this file locally&quot; like oneDrive do, where tresorit, you have to do a selective sync and then point out the cloud folder/file to a local folder (instead of all files accessible for lets say d:\mycloud\ and some files stored actually locally)</p> <p>My feel with NextCloud is it has too many features, i more or less only want to sync files, share and select specific files or folders to be available locally offline.</p> <p>&#x200b;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FuriousRageSE"> /u/FuriousRageSE </a> <br /> <span><a href="https://w
+
+## Docker container to skip "accept/decline cookies" on websites?
+ - [https://www.reddit.com/r/selfhosted/comments/1dk5mdx/docker_container_to_skip_acceptdecline_cookies_on](https://www.reddit.com/r/selfhosted/comments/1dk5mdx/docker_container_to_skip_acceptdecline_cookies_on)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T07:14:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone!</p> <p>I recently got into docker containers, and after installing AdGuard Home, which very effectively blocked ads, I would like to know if there is <strong>a container which could automatically decline cookies</strong> when accessing a website. I am growing really tired of having to opt-off from commercial cookies on every single website I visit.</p> <p>I can imagine it's a long shot since every website handles them differently, but I thought it would be worth the shot.</p> <p>Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BattermanZ"> /u/BattermanZ </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk5mdx/docker_container_to_skip_acceptdecline_cookies_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk5mdx/docker_container_to_skip_acceptdecline_cookies_on/">[comments]</a></span>
+
+## I made a self-hosted password manager
+ - [https://www.reddit.com/r/selfhosted/comments/1dk5jw6/i_made_a_selfhosted_password_manager](https://www.reddit.com/r/selfhosted/comments/1dk5jw6/i_made_a_selfhosted_password_manager)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T07:09:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was bored and should do some projects before university starts that how i decided to start this project currently it has basic features such as encyrption, and a nice web ui made with shadcn/ui and nextjs also whole app is running on bun will release docker images soon to make self hosting easier</p> <p>I would love for people to check it out and give me some feedback i want it to be open source and community driven if you want to check out the code this is the link for <a href="https://github.com/TokaPass">github organization</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/imzeowo"> /u/imzeowo </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk5jw6/i_made_a_selfhosted_password_manager/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk5jw6/i_made_a_selfhosted_password_manager/">[comments]</a></span>
+
+## chrome says that my portainer instance is dangerous
+ - [https://www.reddit.com/r/selfhosted/comments/1dk4xol/chrome_says_that_my_portainer_instance_is](https://www.reddit.com/r/selfhosted/comments/1dk4xol/chrome_says_that_my_portainer_instance_is)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T06:27:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1dk4xol/chrome_says_that_my_portainer_instance_is/"> <img alt="chrome says that my portainer instance is dangerous" src="https://b.thumbs.redditmedia.com/BVakmLcHQSKdL2AODTk00z0rKDQs-sm695bNEe212hk.jpg" title="chrome says that my portainer instance is dangerous" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/xu0r0gq77o7d1.png?width=871&amp;format=png&amp;auto=webp&amp;s=ef9e7b600d212009f217fc4867933ee730932403">https://preview.redd.it/xu0r0gq77o7d1.png?width=871&amp;format=png&amp;auto=webp&amp;s=ef9e7b600d212009f217fc4867933ee730932403</a></p> <p>Do you guys know how I can get rid of these messages? I am using the Cloudflare Zero Trust tunnel and I receive these messages on some of my self-hosted apps in Google Chrome.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sh4hr4m"> /u/sh4hr4m </a> <br /> <span><a href="https://www.reddit.com/r/
+
+## Which TTS solution for oss
+ - [https://www.reddit.com/r/selfhosted/comments/1dk4t2x/which_tts_solution_for_oss](https://www.reddit.com/r/selfhosted/comments/1dk4t2x/which_tts_solution_for_oss)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T06:18:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Helo selfhosters, In the scope to extend an open source project I am working on I am still stucked at selecting a txt2tts solution which fits with such “requirements”: CPU and workflows (let’s say github/gitea actions)</p> <p>Here some quick at a glance redacted by “it”</p> <p>Here’s a list of the latest open-source Text-to-Speech (TTS) solutions suitable for CPU-only environments, focusing on their ease of integration using GitHub Actions:</p> <ul> <li><p><strong><a href="https://github.com/coqui-ai/TTS">Coqui TTS</a></strong></p> <ul> <li><strong>Description</strong>: Coqui TTS is an advanced, high-quality text-to-speech library that supports multiple languages and voices.</li> <li><strong>Integration</strong>: Easily integrates with GitHub Actions using Python scripts. It provides pre-trained models that can run on CPU without the need for additional configuration.</li> <li><strong>Ease of Integration</strong>: <strong>High</strong>. Supports strai
+
+## Can I host my own cloud storage?
+ - [https://www.reddit.com/r/selfhosted/comments/1dk4dkl/can_i_host_my_own_cloud_storage](https://www.reddit.com/r/selfhosted/comments/1dk4dkl/can_i_host_my_own_cloud_storage)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T05:50:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was looking for a way to access files remotely without having to pay ridiculous amounts for Google Drive or iCloud, and I found out that you can use some software to do it. However, I tried doing this, and it seemed pretty complicated. I tried using Filecloud, but it doesn't make sense, and I can't find any tutorials online. If you guys could tell me how to do this, that would be great.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Several-Compote-8943"> /u/Several-Compote-8943 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk4dkl/can_i_host_my_own_cloud_storage/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk4dkl/can_i_host_my_own_cloud_storage/">[comments]</a></span>
+
+## Whitelisting clients with dynamic IPs, without using client certs
+ - [https://www.reddit.com/r/selfhosted/comments/1dk4bq0/whitelisting_clients_with_dynamic_ips_without](https://www.reddit.com/r/selfhosted/comments/1dk4bq0/whitelisting_clients_with_dynamic_ips_without)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T05:47:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone!</p> <p>I'm trying to tighten up some security on my server, and this includes limiting access to certain clients (myself, family, close friends, etc.). </p> <p>I use nginx as a reverse proxy, so my first thought was to just use an IP whitelist. However, most clients are going to have dynamic IPs, and this seems very tedious in that case. </p> <p>My second thought was to use a client certificate and only distribute it to trusted clients. Most of the services are accessed through Android or iOS client apps, though, like Nextcloud and Vaultwarden. Even if some apps provide client certificate support (I think it's on the roadmap for NC), I don't think it could work across the board.</p> <p>Does anyone know of a solution to this? Having all of my subdomains publicly accessible makes me feel naked. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/woodencupboard"> /u/woodencupboard </a> <br /> <span><a href
+
+## Subdomain based URL shortener opinions
+ - [https://www.reddit.com/r/selfhosted/comments/1dk4722/subdomain_based_url_shortener_opinions](https://www.reddit.com/r/selfhosted/comments/1dk4722/subdomain_based_url_shortener_opinions)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T05:38:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, </p> <p>I'm in need of some opinions on which subdomain looks better for a self hosted URL shortener. </p> <p>A. go.domain.tld</p> <p>B. link.domain.tld</p> <p>C. r.domain.tld</p> <p>D. url.domain.tld</p> <p>Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ash3583"> /u/ash3583 </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk4722/subdomain_based_url_shortener_opinions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk4722/subdomain_based_url_shortener_opinions/">[comments]</a></span>
+
+## Easy to use website for allowing uploads from anyone
+ - [https://www.reddit.com/r/selfhosted/comments/1dk3shp/easy_to_use_website_for_allowing_uploads_from](https://www.reddit.com/r/selfhosted/comments/1dk3shp/easy_to_use_website_for_allowing_uploads_from)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T05:12:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone! I run a large project, and we recently lost a large amount of data that we can't recover easily. I saw lots of people having some of the server data available on their computers and many other people want to help us. We want to host a simple website, that allows people to upload those files. Preferably, there should be an option that allows you to categorize what type of file it is, so it's easier for us. I've looked and found nextcloud, filegator and stuff, but it doesn't seem like they offer the upload idea like mine. Does anyone know of any others? Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JustasLTUS"> /u/JustasLTUS </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk3shp/easy_to_use_website_for_allowing_uploads_from/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1dk3shp/easy_to_use_website_for_allowing_uploads_from/">[c
+
+## LXC/VM vs Docker
+ - [https://www.reddit.com/r/selfhosted/comments/1dk3jql/lxcvm_vs_docker](https://www.reddit.com/r/selfhosted/comments/1dk3jql/lxcvm_vs_docker)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T04:58:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am currently using Docker for containers, with watchtower to keep them up to date. This all runs as a VM under Proxmox. I am setting up a Proxmox cluster, and have been setting up a few LXC containers (mainly through Proxmox Helper Scripts) for a few specific packages (like plex, pihole, home assistant, and so on).</p> <p>How do you keep all this updated? With Docker and Watch tower, it is easy and painless, hardly even have to think about it. With LXC containers, I feel each one is it's own can of worms. Sure, I can create ansible scripts for all of it, once I figure out the process for each. </p> <p>I see a lot of self hosted youtubers with tons of vm/containers in proxmox, it seems like a nightmare. Proxmox Helper Scripts makes it stupid easy to setup one, and for something like Home Assistant, there is some real advantages of it, but all the rest are just a bunch of administrative nightmares when it comes to updating. Am I wrong?</p> </div><!-- 
+
+## Mealie - The impossible email config
+ - [https://www.reddit.com/r/selfhosted/comments/1dk1o5d/mealie_the_impossible_email_config](https://www.reddit.com/r/selfhosted/comments/1dk1o5d/mealie_the_impossible_email_config)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T03:09:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Here's a chance for you to help the village idiot.</p> <p>I cannot for the life of me get mealie to work for setting up email. Here is my docker compose</p> <pre><code> mealie: image: ghcr.io/mealie-recipes/mealie:v1.9.0 container_name: mealie restart: always ports: - &quot;9925:9000&quot; deploy: resources: limits: memory: 1000M volumes: - ${DOCKERDIR}/mealie/data:/app/data/ environment: - ALLOW_SIGNUP=false - PUID=1000 - PGID=1000 - TZ=${TZ} - MAX_WORKERS=1 - WEB_CONCURRENCY=1 - BASE_URL=&quot;http://mealie.&lt;mydomain&gt;.com&quot; - LOG_LEVEL=debug - SMTP_HOST=&quot;smtp.gmail.com&quot; - SMTP_PORT=&quot;587&quot; - SMTP_AUTH_STRATEGY=&quot;TLS&quot; - SMTP_FROM_NAME=&quot;Mealie&quot; - SMTP_FROM_EMAIL=&quot;mealie@&lt;mydomain&gt;.com&quot; - SMTP_USER=&quot;&lt;myemail&gt;@gmail.com&quot; - SMTP_PASSWORD=&quot;&lt;app_password_generated_from_google&gt;&quot; </code></pre> <p>And when I try this out, the log looks fine and mealie is accessible 
+
+## Planning a big refactor of my small infra. Need some suggestions/advice!
+ - [https://www.reddit.com/r/selfhosted/comments/1dk0viz/planning_a_big_refactor_of_my_small_infra_need](https://www.reddit.com/r/selfhosted/comments/1dk0viz/planning_a_big_refactor_of_my_small_infra_need)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T02:27:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi folks. I currently have 4 Raspberry Pi. - infra1: RPI5, 8GB, NVME disk 2TB via PICe Gen3. - infra2: RPI5, 8GB, 64GB sdcard. Will probably add a SATA disk or a new NVME. - infra3: RPI5, 8GB, 64GB sdcard. Will probably add a SATA disk or a new NVME. - infra4: RPI4, 8GB, 64GB sdcard. Will probably add a SATA disk.</p> <p>All the RPIs have 1Gbps Ethernet. Maybe I'll add a few 2.5Gbps adapters via USB3 later on.</p> <p>Right now I have:</p> <p><em>infra1</em> (docker with portainer, main power house right now) - Plex (since the main storage is there) - pihole - vscode - gluetun+qbitorrent - nodered - Traefik</p> <p><em>infra2</em> (docker with portainer agent) - nodered (for tests, development)</p> <p><em>infra3</em> (docker with portainer agent) - nothing yet</p> <p><em>infra4</em> - home assistant os</p> <p>Things I plan on adding soon: - frigate plus a Google Coral - cyberchef - move the home assistant addons to individual docker instances - radarr a
+
+## It all started with a Pi-hole…
+ - [https://www.reddit.com/r/selfhosted/comments/1djzf4y/it_all_started_with_a_pihole](https://www.reddit.com/r/selfhosted/comments/1djzf4y/it_all_started_with_a_pihole)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T01:12:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Two weeks ago, I really didn’t know much about Docker or what I needed it for. I knew I needed Pi-hole so I started there. Spun up a Ubuntu VM and started reading and watching YT videos. Pi-hole was great in a VM, so I ordered a Pi 5 kit and installed Pi-hole on it in a docker container. </p> <p>Fast forward to today, I added a 2TB NVMe drive, installed the arrsuite with VPN, Plex, Jellyfin, and a bunch more, close to 20 containers, with a CloudFlare tunnel exposing what I want to the world via the domain name I’ve owned for years and hardly used.</p> <p>Full disclosure: I’ve been using Linux since pre-2000 so I’m not new to it. Just to Docker. </p> <p>Thanks for the inspiration y’all. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rigeek"> /u/rigeek </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1djzf4y/it_all_started_with_a_pihole/">[link]</a></span> &#32; <span><a href="https://www.r
+
+## Self-hosted alternative to ChatGPT desktop app
+ - [https://www.reddit.com/r/selfhosted/comments/1djz4gt/selfhosted_alternative_to_chatgpt_desktop_app](https://www.reddit.com/r/selfhosted/comments/1djz4gt/selfhosted_alternative_to_chatgpt_desktop_app)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T00:57:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1djz4gt/selfhosted_alternative_to_chatgpt_desktop_app/"> <img alt="Self-hosted alternative to ChatGPT desktop app" src="https://external-preview.redd.it/OsoAgJqfaL_UgiiQdsx-291iQtC4URluQgtyHkpiGeE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0383505fe666d8be50a1d3fe9573db90bb6261d1" title="Self-hosted alternative to ChatGPT desktop app" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Jan is a privacy-first AI app that runs AI locally on any hardware. It's like an offline version of the ChatGPT desktop app, but totally free and open-source.</p> <ul> <li>Website: <a href="https://jan.ai/">https://jan.ai/</a></li> <li>GitHub: <a href="https://github.com/janhq/jan">https://github.com/janhq/jan</a></li> </ul> <p>Main Features:</p> <ul> <li>Run AI locally</li> <li>Summon AI whenever you want (Hotkey: Command + J, you need to activate this feature first)</li> <li>Create OpenAI-compatible servers with your local AI
+
+## Music server setup? Need input
+ - [https://www.reddit.com/r/selfhosted/comments/1djysz8/music_server_setup_need_input](https://www.reddit.com/r/selfhosted/comments/1djysz8/music_server_setup_need_input)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-20T00:40:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Going to use a HP 800 G3 DM as music media server and I'm not sure h0w to go about it. I have looked at Jellyfin.Navidrome,etc.</p> <p>Since the server will be on a seperate pc (same network),I'm not sure how I would go about playing songs,etc.</p> <p>My speakers are Bluetooth.</p> <p>Also,trying to decide Windows or Ubuntu. I would need to make sure when I'm playing music that I have that PC setup to play music from my BT speakers.</p> <p>I'm lost,so all input is appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/S33kandD3stroy"> /u/S33kandD3stroy </a> <br /> <span><a href="https://www.reddit.com/r/selfhosted/comments/1djysz8/music_server_setup_need_input/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1djysz8/music_server_setup_need_input/">[comments]</a></span>
+
