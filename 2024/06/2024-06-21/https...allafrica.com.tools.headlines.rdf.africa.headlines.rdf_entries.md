@@ -1,0 +1,107 @@
+# Source:All Africa, URL:https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf, language:en
+
+## Africa: Pre-Primary Education for Children Benefits Everyone
+ - [https://allafrica.com/stories/202406210628.html](https://allafrica.com/stories/202406210628.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T16:17:34+00:00
+
+[HRW] On a roadside in Central Uganda, a woman selling charcoal says she barely earns enough to buy food for herself and her eight children. She is determined for her children to go to school and says she believes that pre-primary education is an essential foundation for further learning. But the tuition is expensive.
+
+## Africa: 30 Africa Defense Chiefs to Gather in Botswana for U.S. Military Conference
+ - [https://allafrica.com/stories/202406210507.html](https://allafrica.com/stories/202406210507.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T14:15:43+00:00
+
+[VOA] Gaborone, Botswana -- Defense chiefs from 30 African countries will gather in Botswana next week for a two-day military conference to discuss the continent's security and stability challenges. The meeting, organized by the United States Africa Command, or AFRICOM, will be the first to be held in Africa since the inaugural conference in 2017
+
+## Africa: Humanitarian Visa d'Or - Hugh Kinsella Cunningham Wins for Documenting the Plight of Civilians in the DRC
+ - [https://allafrica.com/stories/202406210413.html](https://allafrica.com/stories/202406210413.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T12:35:58+00:00
+
+[ICRC] On 18 June 2024, for its 14th edition, the ICRC's Humanitarian Visa d'Or was awarded to freelance photographer Hugh Kinsella Cunningham for his remarkable reporting on civilians caught up in the armed conflict in eastern Democratic Republic of the Congo (DRC).
+
+## Africa: Protecting More Children, Against More Diseases, Faster Than Ever Before - Gavi, the Vaccine Alliance Unveils Plans for Next 5-Year Period
+ - [https://allafrica.com/stories/202406210412.html](https://allafrica.com/stories/202406210412.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T12:35:56+00:00
+
+[GAVI] Paris / Geneva -- Gavi's new Investment Opportunity outlines plans for the Vaccine Alliance to protect 500 million children, saving over 8 million lives between 2026 and 2030. At a Forum co-hosted by Gavi, the African Union and the French Republic, Gavi announced it will need at least US$ 9 billion in new donor funding for this work. In response, the United States of America, France, Spain, the private sector and philanthropy pledged early support worth at least US$ 2.4 billion towards this goal. The Forum also saw the
+
+## Africa: Nigeria-SA Relations Critical for Africa's Success
+ - [https://allafrica.com/stories/202406210222.html](https://allafrica.com/stories/202406210222.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T07:07:48+00:00
+
+[SAnews.gov.za] President Cyril Ramaphosa has emphasised that understanding and partnership between South Africa and Nigeria is critical for the success of the African continent.
+
+## Africa: Why UNDP Is Tackling the Developmental Dimensions of Plastic Pollution
+ - [https://allafrica.com/stories/202406210078.html](https://allafrica.com/stories/202406210078.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T05:14:28+00:00
+
+[UNDP] The burdens disproportionately affect the vulnerable
+
+## Africa: Nigeria, Ghana to Represent Africa in U.S. Spelling Bee
+ - [https://allafrica.com/stories/202406210055.html](https://allafrica.com/stories/202406210055.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T05:14:16+00:00
+
+[Vanguard] Young Educators Foundation, an NGO, has announced that Nigeria and Ghana will represent Africa at the prestigious Scripps National Spelling Bee, that will be hosted in the U.S. in 2025.
+
+## Africa: Ramaphosa Underscores Need for Stronger Partnership Between South Africa, Nigeria
+ - [https://allafrica.com/stories/202406210051.html](https://allafrica.com/stories/202406210051.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T05:14:14+00:00
+
+[Vanguard] President Cyril Ramaphosa of South Africa, on Thursday in Johannesburg, underscored the need for a stronger partnership between Nigeria and his country.
+
+## Africa: Afreximbank and Africa CDC Pledge $2 Billion Facility in Support of Africa Health and Pharmaceutical Products Manufacturing
+ - [https://allafrica.com/stories/202406210038.html](https://allafrica.com/stories/202406210038.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T04:59:01+00:00
+
+[Africa CDC] Paris, France; June 20, 2024: African Export-Import Bank (Afreximbank or the Bank) and the Africa Centers for Diseases Control and Prevention (Africa CDC) have renewed their partnership with a new cooperation agreement announced today on the sidelines of the Global Forum for Vaccine Sovereignty and Innovation in Paris, France. Through this collaboration, Afreximbank has committed a USD 2 billion facility to the "Africa Health Security Investment Plan" to support the health product manufacturing ambition
+
+## Africa: Cholera Spreads in Nigeria As EU Launches Africa Vaccine Drive
+ - [https://allafrica.com/stories/202406210037.html](https://allafrica.com/stories/202406210037.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T04:53:33+00:00
+
+[DW] A deadly outbreak of cholera in the Nigerian state of Lagos has killed at least 21 people. It comes as the EU pledges millions to help fund vaccine production in Africa for such outbreaks.
+
+## Africa: Air Pollution Is Killing Millions Across the Globe, Claims State of Global Air Report
+ - [https://allafrica.com/stories/202406210015.html](https://allafrica.com/stories/202406210015.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T04:49:00+00:00
+
+[People's Dispatch] Pollution is the second leading cause for death and life long health problems among children. In 2021, it killed over 700,000 children
+
+## Africa: Elephants Use the Tips of Their Trunks to Grasp Things With Great Precision
+ - [https://allafrica.com/stories/202406210013.html](https://allafrica.com/stories/202406210013.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T04:48:59+00:00
+
+[The Conversation Africa] An elephant uses its trunk for eating, drinking water, communicating, exploring the environment, social behaviour, and making and using tools. The trunk, which contains six muscle groups, is not only very strong - it can uproot a tree - but can be used with great precision. Elephants use a number of techniques to grasp objects, including suction, pinching with the two "fingers" at the tip of the trunk and wrapping the trunk around the object.
+
+## Africa: Global Pandemic Treaty Will Help Fight Future Threats - Top Negotiator On How Talks Are Going
+ - [https://allafrica.com/stories/202406210012.html](https://allafrica.com/stories/202406210012.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T04:48:59+00:00
+
+[The Conversation Africa] For the past two years the World Health Organization's 194 member states have been negotiating an international accord on pandemic prevention, preparedness and response. This was driven by the need to ensure the world is better prepared for future pandemics.
+
+## Africa: Celebrating the Spirit of Youth
+ - [https://allafrica.com/stories/202406210009.html](https://allafrica.com/stories/202406210009.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T04:48:57+00:00
+
+[UNFPA] In the heart of Malawi, with the backdrop of the vibrant colors of the landscape and the warm smiles of its people, there exists a tale of courage, resilience, and hope that resonates deeply with the essence of the African child.
+
+## Africa: African Leaders, French President Seek Vaccines for Africa
+ - [https://allafrica.com/stories/202406210007.html](https://allafrica.com/stories/202406210007.html)
+ - RSS feed: https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf
+ - date published: 2024-06-21T04:48:06+00:00
+
+[VOA] African leaders and French President Emmanuel Macron have partnered on an approximately $1-billion project to make vaccines more available in Africa after the COVID-19 pandemic revealed global inequity in vaccine access.
+

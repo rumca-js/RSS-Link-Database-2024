@@ -1,0 +1,142 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## 'I'm sorry and devastated': Elderly driver apologizes for crash that killed 8-year-old girl guide
+ - [https://www.cbc.ca/news/canada/london/i-m-sorry-and-devastated-mcnorgan-apologizes-to-victims-in-collision-that-killed-girl-8-1.7242441?cmp=rss](https://www.cbc.ca/news/canada/london/i-m-sorry-and-devastated-mcnorgan-apologizes-to-victims-in-collision-that-killed-girl-8-1.7242441?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T15:54:43+00:00
+
+<img alt="Petronella McNorgan" height="349" src="https://i.cbc.ca/1.7241268.1718904918!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/petronella-mcnorgan.jpg" title="Petronella McNorgan leaves the London court on June 20, 2024, the day of victim impact statements. " width="620" /><p>Sentencing submissions wrapped up Friday in the trial of Petronella McNorgan, the London senior convicted of criminal negligence causing death in a crash that killed an eight year old girl.</p>
+
+## Quebec taxi drivers awarded $143M in class-action ruling
+ - [https://www.cbc.ca/news/canada/montreal/taxi-class-action-compensation-quebec-government-1.7242916?cmp=rss](https://www.cbc.ca/news/canada/montreal/taxi-class-action-compensation-quebec-government-1.7242916?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T14:56:42+00:00
+
+<img alt="A lineup of taxis " height="349" src="https://i.cbc.ca/1.4346448.1718995370!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/montreal-taxi.jpg" title="" width="620" /><p>A Quebec Superior Court judge awarded $143 million to taxi drivers to compensate them for their losses following the arrival of ride-hailing services like Uber and the province's 2019 law that abolished the taxi system.</p>
+
+## Liberal MP Housefather's appointment to role fighting antisemitism delayed by concerns about caucus divisions
+ - [https://www.cbc.ca/news/politics/housefather-antisemitism-role-1.7242327?cmp=rss](https://www.cbc.ca/news/politics/housefather-antisemitism-role-1.7242327?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T14:54:35+00:00
+
+<img alt="Liberal MP and Parliamentary Secretary to the President of the Treasury Board Anthony Housefather makes his way to the podium ahead of a press conference at the National Press Theatre in the Parliamentary Precinct in Ottawa, on Wednesday, May 8, 2024." height="349" src="https://i.cbc.ca/1.7242497.1718981218!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cda-jewish-students-20240508.JPG" title="Liberal MP and Parliamentary Secretary to the President of the Treasury Board Anthony Housefather makes his way to the podium ahead of a press conference at the National Press Theatre in the Parliamentary Precinct in Ottawa, on Wednesday, May 8, 2024." width="620" /><p>A proposal to appoint Liberal MP Anthony Housefather to a new role fighting antisemitism — which has been in the works for weeks — has been held up by concerns about divisions in the government caucus over the Israel-Hamas war, CBC News has learned.</p>
+
+## Ontario Science Centre to close immediately, as report shows roof could collapse: province
+ - [https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810?cmp=rss](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T13:30:00+00:00
+
+<img alt="Ontario Science Centre and surroundings on a sunny day." height="349" src="https://i.cbc.ca/1.6821516.1689963467!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/ontario-science-centre-drone.jpg" title="Ontario Science Centre and surroundings on a sunny day." width="620" /><p>The Ontario Science Centre is shutting down immediately due to the risk that the building's roof could collapse, the province announced Friday.</p>
+
+## Supreme Court rules Ontario public school boards are subject to Charter of Rights
+ - [https://www.cbc.ca/news/politics/ontario-public-school-boards-charter-supreme-court-1.7242652?cmp=rss](https://www.cbc.ca/news/politics/ontario-public-school-boards-charter-supreme-court-1.7242652?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T12:52:07+00:00
+
+<img alt="A building is shown in the background, with a sign that reads Supreme Court of Canada shown in the foreground." height="349" src="https://i.cbc.ca/1.6993722.1697122102!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/scoc-20230616.JPG" title="The Supreme Court of Canada is seen in a file photo from June 2023. " width="620" /><p>The Supreme Court of Canada ruled Friday that public school boards in Ontario are an arm of government and they cannot "disavow their constitutional obligations" under the Charter of Rights and Freedoms, regardless of the terms in a collective agreement.</p>
+
+## Calgary officials provide update on water main break repairs
+ - [https://www.cbc.ca/news/canada/calgary/calgary-city-water-main-update-friday-1.7242746?cmp=rss](https://www.cbc.ca/news/canada/calgary/calgary-city-water-main-update-friday-1.7242746?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T12:47:12+00:00
+
+<img alt="a large open excavation. construction workers stand in the background." height="349" src="https://i.cbc.ca/1.7240079.1718988193!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/water-main-repairs-june-19.jpg" title="One of the sites being excavated for hot spot repairs is pictured along 16th Avenue N.W. and 46th Street N.W." width="620" /><p>Calgary's mayor is promising a wide-ranging examination of the city's underground infrastructure after a catastrophic water main break that has forced more than two weeks of use restrictions.</p>
+
+## Will Canada join the U.S. in a tariff battle against Chinese EV imports?
+ - [https://www.cbc.ca/news/politics/canada-china-ev-tariffs-1.7242346?cmp=rss](https://www.cbc.ca/news/politics/canada-china-ev-tariffs-1.7242346?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T12:45:00+00:00
+
+<img alt="Ontario Premier Doug Ford and Prime Minister Justin Trudeau look over a vehicle along an assembly line at an event announcing plans for a Honda electric vehicle battery plant in Alliston, Ont. on Thursday, April 25, 2024." height="349" src="https://i.cbc.ca/1.7242458.1718980175!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ont-honda-evs-20240425.jpg" title="Ontario Premier Doug Ford and Prime Minister Justin Trudeau look over a vehicle along an assembly line at an event announcing plans for a Honda electric vehicle battery plant in Alliston, Ont. on Thursday, April 25, 2024." width="620" /><p>The Canadian government appears set to push back against the explosive growth in Chinese electric vehicle imports by joining its allies in a tariff battle that risks triggering retaliation from Beijing.</p>
+
+## Trespass notice issued to encampment members at University of Waterloo
+ - [https://www.cbc.ca/news/canada/kitchener-waterloo/university-waterloo-encampment-occupy-divestment-1.7242665?cmp=rss](https://www.cbc.ca/news/canada/kitchener-waterloo/university-waterloo-encampment-occupy-divestment-1.7242665?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T11:59:22+00:00
+
+<img alt="A barricade made of plywood between a sidewalk and a greenspace as part of a protest. There are tents and chairs in the greenspace." height="349" src="https://i.cbc.ca/1.7212434.1716476073!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/university-of-waterloo-encampment-as-of-may-23-2024.jpeg" title="The University of Waterloo has issued a formal notice to protesters to end an encampment set up on May 13. The school says the encampment has violated at least six university policies." width="620" /><p>The University of Waterloo has issued a legal trespass notice to members of Occupy UWaterloo who have set up an encampment on campus.</p>
+
+## 'Coming back is not easy': Reggie Jackson recalls racism he faced in 1967 Alabama
+ - [https://www.cbc.ca/news/world/reggie-jackson-racism-birmingham-alabama-1.7242307?cmp=rss](https://www.cbc.ca/news/world/reggie-jackson-racism-birmingham-alabama-1.7242307?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T10:57:29+00:00
+
+<img alt="A man wearing a blue ball cap and dark sunglasses." height="349" src="https://i.cbc.ca/1.7242429.1718979451!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1657805449.jpg" title="HOUSTON, TEXAS - SEPTEMBER 03: Reggie Jackson, special advisor to Houston Astros owner Jim Crane, before a game between the New York Yankees and Houston Astros at Minute Maid Park on September 03, 2023 in Houston, Texas." width="620" /><p>During the broadcast of a Major League Baseball game in Birmingham, Ala., to honour the Negro Leagues, Hall of Famer Reggie Jackson offered up a raw remembrance of being barred from restaurants and hotels when he played in the minors in the 1960s.</p>
+
+## Canadian men's soccer team 'deeply disturbed' after player targeted with online racist abuse
+ - [https://www.cbc.ca/sports/soccer/canada-online-racist-abuse-moise-bombito-copa-america-1.7242407?cmp=rss](https://www.cbc.ca/sports/soccer/canada-online-racist-abuse-moise-bombito-copa-america-1.7242407?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T10:21:35+00:00
+
+<img alt="A Canadian men&apos;s soccer player pursues an Argentine opponent from behind as the latter bumps the ball off his chest during group stage play at the Copa America tournament on June 20, 2024 in Atlanta." height="349" src="https://i.cbc.ca/1.7242421.1718979272!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bombito-moise-messi-240620-1180.jpg" title="Argentina&apos;s Lionel Messi, left, stayed in Thursday night&apos;s Copa America game after he was tackled by Moise Bombito, right, and assisted on a goal in his team&apos;s 2-0 victory in its Copa America title defence in Atlanta. " width="620" /><p>Canada's impressive performance in a 2-0 loss to top-ranked Argentina at Copa America has come at a cost, with Canada Soccer saying one of its players was a victim of online racial abuse following Thursday's match in Atlanta.</p>
+
+## Police in Southwestern Ontario say 4 are found dead in a rural home
+ - [https://www.cbc.ca/news/canada/windsor/harrow-4-dead-opp-1.7242373?cmp=rss](https://www.cbc.ca/news/canada/windsor/harrow-4-dead-opp-1.7242373?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T09:51:05+00:00
+
+<img alt="Police on a driveway" height="349" src="https://i.cbc.ca/1.7241972.1718922173!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/opp-county-road-13.JPG" title="OPP are investigating a sudden death on County Road 13 in Harrow" width="620" /><p>Ontario Provincial Police are investigating the death of four people at a home near Harrow.</p>
+
+## Fans all-in as Edmonton Oilers look to push Florida Panthers to decisive Game 7
+ - [https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-florida-panthers-nhl-2024-stanley-cup-final-1.7241491?cmp=rss](https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-florida-panthers-nhl-2024-stanley-cup-final-1.7241491?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T06:49:49+00:00
+
+<img alt="A child with a sign." height="349" src="https://i.cbc.ca/1.7239570.1718808753!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/edmonton-oilers.jpg" title="Noah Cameron, 12, holds up his sign in the Edmonton Ice District after the Edmonton Oilers won Game 5 against the Florida Panthers on Tuesday, June 18, 2024." width="620" /><p></p>
+
+## 'Tremendous' effort keeps wildfire south of Churchill River, says N.L. Hydro
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/churchill-falls-fire-plant-1.7242269?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/churchill-falls-fire-plant-1.7242269?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T05:17:59+00:00
+
+<img alt="Landscape photo of trees with fire and smoke in the distance." height="349" src="https://i.cbc.ca/1.7240615.1718841829!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/churchill-falls-fire.jpg" title="Residents and visitors of Churchill Falls have been advised to travel east to Happy Valley-Goose Bay as wildfires are travelling closer to the town. " width="620" /><p>Newfoundland and Labrador Hydro says the raging fire that forced the evacuation of Churchill Falls has not jumped the Churchill River. Meanwhile, four new fires are burning, including one on Newfoundland's west coast, raising the province's total to 11.</p>
+
+## The ghosts of Canada's 1993 Conservative wipeout hang over Britain's election campaign
+ - [https://www.cbc.ca/news/world/british-election-canadian-election-comparison-conservative-collapse-1.7240786?cmp=rss](https://www.cbc.ca/news/world/british-election-canadian-election-comparison-conservative-collapse-1.7240786?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T04:00:24+00:00
+
+<img alt="Britain&apos;s Reform UK Party Leader Nigel Farage attends a campaign event in Clacton-on-Sea, Britain, June 18, 2024." height="349" src="https://i.cbc.ca/1.7240794.1718883254!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/britain-election-reform-clacton.JPG" title="Britain&apos;s Reform UK Party Leader Nigel Farage attends a campaign event in Clacton-on-Sea, Britain, June 18, 2024." width="620" /><p></p>
+
+## A new law aims to crack down on environmental racism in Canada
+ - [https://www.cbc.ca/news/climate/environmental-racism-c-226-1.7235319?cmp=rss](https://www.cbc.ca/news/climate/environmental-racism-c-226-1.7235319?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T04:00:00+00:00
+
+<img alt="Swing in the foreground and a chemical plant in the background" height="349" src="https://i.cbc.ca/1.7179689.1713565021!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aamjiwnaang-playground.jpg" title="A playground near the Aamjiwnaang First Nation band office." width="620" /><p>For years, researchers, activists, community leaders have shown how Indigenous, Black and other racialized groups have been disproportionately affected by polluting industries. Now, a new law will require the federal government to better track this injustice, and aim to correct it.</p>
+
+## Friends, family of man presumed drowned in Niagara whirlpool on campaign to get police to resume search
+ - [https://www.cbc.ca/news/canada/hamilton/june-15-drowning-1.7241464?cmp=rss](https://www.cbc.ca/news/canada/hamilton/june-15-drowning-1.7241464?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T04:00:00+00:00
+
+<img alt="A portrait of a person in a field outdoors" height="349" src="https://i.cbc.ca/1.7241475.1718911077!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/shubham-manchanda.jpeg" title="Friends say Shubham Manchanda fell into the Niagara River on June 15. " width="620" /><p>A man is presumed dead after falling into the Niagara River whirlpool last weekend and police have suspended their formal search — although friends and family are working to encourage them to keep looking for 25-year-old Shubham Manchanda, a former international student.     </p>
+
+## He pays $300 a month for car insurance. Higher rates for immigrants are an 'injustice,' advocate says
+ - [https://www.cbc.ca/news/canada/immigrants-canada-car-insurance-newcomers-1.7241353?cmp=rss](https://www.cbc.ca/news/canada/immigrants-canada-car-insurance-newcomers-1.7241353?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T04:00:00+00:00
+
+<img alt="A man with a red blazer stands in front of a car with his arms folded. " height="349" src="https://i.cbc.ca/1.7241397.1718909068!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hameed-yousufzai.jpg" title="Hameed Yousufzai was paying $450 a month for car insurance when he first moved to Canada. " width="620" /><p>Newcomers who need car insurance in Canada say they’re quoted higher rates, even if they have previous driving experience, because insurance companies don’t factor that into their monthly rate.</p>
+
+## Kinds of Kindness is a banger of a summer horror movie — but it's not for everyone
+ - [https://www.cbc.ca/news/entertainment/kinds-of-kindness-review-1.7239932?cmp=rss](https://www.cbc.ca/news/entertainment/kinds-of-kindness-review-1.7239932?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T04:00:00+00:00
+
+<img alt="Emma Stone and Jesse Plemons are seen standing in front of a tub of water in the anthology film Kinds of Kindness from Yorgos Lanthimos. " height="349" src="https://i.cbc.ca/1.7239959.1718821015!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kinds-of-kindness-02-jima-stills.jpg" title="Emma Stone and Jesse Plemons are seen in the anthology film Kinds of Kindness from Yorgos Lanthimos. " width="620" /><p>Kinds of Kindness is an extremely dark, extremely funny horror-comedy that will certainly alienate audiences looking for a light romp. But horror fans will have a great time with this anthology-style film.</p>
+
+## Uterine fibroids can be debilitating. Treatments offer hope for less pain, faster recovery
+ - [https://www.cbc.ca/news/health/uterine-fibroids-treatment-1.7241341?cmp=rss](https://www.cbc.ca/news/health/uterine-fibroids-treatment-1.7241341?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T04:00:00+00:00
+
+<img alt="Surgeon with team in operating room performs fibroid surgery." height="349" src="https://i.cbc.ca/1.7241196.1718902592!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/dr-andre-laroche-at-humber-river-hospital.jpg" title="Dr. Andre LaRoche performs a less-invasive treatment for fibroids on a patient at Humber River Hospital in Toronto.  " width="620" /><p>Uterine fibroids can cause debilitating symptoms and have major impacts on quality of life, but new technology being introduced at some Canadian hospitals is providing more treatment options that promise less pain, a faster recovery and the potential to preserve fertility.</p>
+
+## Large fire breaks out in Richmond, B.C., south of Vancouver
+ - [https://www.cbc.ca/news/canada/british-columbia/large-fire-breaks-out-near-oak-street-bridge-in-richmond-b-c-1.7242238?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/large-fire-breaks-out-near-oak-street-bridge-in-richmond-b-c-1.7242238?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-21T00:04:20+00:00
+
+<img alt="Black smoke rises above a city. " height="349" src="https://i.cbc.ca/1.7242256.1718943742!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/richmond-fire-oak-street-bridge-june-20-2024.jpg" title="Photos of the fire show an old rail bridge near the River Rock Casino up in smoke. " width="620" /><p>Richmond Fire-Rescue said several trucks were dispatched to a fire near the Fraser River around 8:15 p.m.</p>
+
