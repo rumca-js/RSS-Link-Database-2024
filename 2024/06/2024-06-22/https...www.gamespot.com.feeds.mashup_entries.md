@@ -1,0 +1,58 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## How To Beat The Final Boss In Elden Ring: Shadow Of The Erdtree
+ - [https://www.gamespot.com/articles/shadow-of-the-erdtree-final-boss-elden-ring-guide/1100-6524348/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/shadow-of-the-erdtree-final-boss-elden-ring-guide/1100-6524348/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-06-22T22:07:00+00:00
+
+<p><a href="https://www.gamespot.com/games/elden-ring/"><strong>Elden Ring: Shadow of the Erdtree</strong></a> is filled with numerous challenges that are sure to test your mettle. Perhaps none are as frustrating as a certain foe, whom you'll meet at the end of your journey. Here's our guide on how to beat the final boss in Elden Ring: Shadow of the Erdtree. Naturally, this article contains <strong>major spoilers</strong>.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">How to beat the final boss in Elden Ring: Shadow of the Erdtree - Promised Consort Radahn guide</a></li></ul></div><h2 id="How_to_beat_the_final_boss_in_Elden_Ring__Shadow_of_the_Erdtree___Promised_Consort_Radahn_guide">How to beat the final boss in Elden Ring: Shadow of the Erdtree - Promised Consort Radahn guide</h2><p>The Elden Ring: Shadow of the Erdtree final boss is General Radahn, you
+
+## How To Beat All Furnace Golems In Elden Ring: Shadow Of The Erdtree
+ - [https://www.gamespot.com/gallery/furnace-golem-elden-ring-shadow-of-the-erdtree/2900-5537](https://www.gamespot.com/gallery/furnace-golem-elden-ring-shadow-of-the-erdtree/2900-5537)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-06-22T22:06:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4323295-furnace-golem-elden-ring-shadow-of-the-erdtree-how-to-beat-furnace-golem-.jpg" /><br /><h3><p>You'll battle many dangerous foes in <a href="https://www.gamespot.com/games/elden-ring/"><strong>Elden Ring: Shadow of the Erdtree</strong></a>. However, few are as formidable as the giants that can easily scorch you with searing flame. But if you're patient enough, you can bring them down to earn new Crystal Tears. Here's our guide on how to beat all Furnace Golems in Elden Ring: Shadow of the Erdtree.</p><h2>How to beat all Furnace Golems in Elden Ring: Shadow of the Erdtree</h2><p>The Elden Ring: Shadow of the Erdtree Furnace Golems, which we also fondly refer to as "Brazier Giants," can be found roaming all over the new realm. Fighting them early on is not recommended due to their massive health pool and devastating attacks.</p><p>Our guide has several tips to help you once you're ready to combat them. We'v
+
+## All Hornsent Grandam Rewards - Elden Ring: Shadow Of The Erdtree
+ - [https://www.gamespot.com/gallery/hornsent-grandam-elden-ring-shadow-of-the-erdtree-rewards-guide/2900-5542](https://www.gamespot.com/gallery/hornsent-grandam-elden-ring-shadow-of-the-erdtree-rewards-guide/2900-5542)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-06-22T22:04:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4323486-hornsent-grandam-elden-ring-shadow-of-the-erdtree-.jpg" /><br /><h3><p>You'll encounter a few dastardly warriors and odd folks as you continue your adventure in <a href="https://www.gamespot.com/games/elden-ring/"><strong>Elden Ring: Shadow of the Erdtree</strong></a>. One of these is an old woman who prefers to stay in a secluded room. Here's our guide on how to get all rewards from the Hornsent Grandam in Elden Ring: Shadow of the Erdtree.</p><h2>All rewards from the Hornsent Grandam in Elden Ring: Shadow of the Erdtree</h2><p>The Elden Ring: Shadow of the Erdtree Hornsent Grandam NPC can be found in Belurat Tower Settlement, a legacy dungeon in the Gravesite Plains region. You'll need to obtain a key that unlocks her room, and you'll have to talk to her at certain points, including an instance where you must wear a specific kind of armor.</p></h3></p><br />     <p><h2>Map: Hornsent Grandam and Storero
+
+## Hornsent Quest Guide - Elden Ring: Shadow Of The Erdtree
+ - [https://www.gamespot.com/gallery/hornsent-elden-ring-shadow-of-the-erdtree-quest-guide/2900-5541](https://www.gamespot.com/gallery/hornsent-elden-ring-shadow-of-the-erdtree-quest-guide/2900-5541)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-06-22T21:43:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4323474-hornsent-elden-ring-shadow-of-the-erdtree-hornsent-quest-.jpg" /><br /><h3><p>The characters you meet in <a href="https://www.gamespot.com/games/elden-ring/"><strong>Elden Ring: Shadow of the Erdtree</strong></a> have their own story arcs and dilemmas. Some want to show their true devotion, while others are out for vengeance. If you're up for it, you can help someone who's out to exact his revenge. Here's our guide on how to complete the Hornsent quest in Elden Ring: Shadow of the Erdtree. Likewise, please be reminded that this article contains <strong>spoilers</strong>.</p><h2>How to complete the Hornsent quest in Elden Ring: Shadow of the Erdtree</h2><p>The Elden Ring: Shadow of the Erdtree Hornsent quest consists of multiple tasks and steps. It's imperative that you complete each one, as one mistake could lead to abrupt failure without being made aware of it. We've got all the details for you in the n
+
+## Ansbach, Freyja, And Leda Guide - Elden Ring: Shadow Of The Erdtree
+ - [https://www.gamespot.com/gallery/shadow-of-the-erdtree-ansbach-freyja-leda-elden-ring/2900-5515](https://www.gamespot.com/gallery/shadow-of-the-erdtree-ansbach-freyja-leda-elden-ring/2900-5515)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-06-22T21:38:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4323461-ansbach-freyja-elden-ring-shadow-of-the-erdtree-leda-quest-.jpg" /><br /><h3><p>You'll meet several supporting characters in <a href="https://www.gamespot.com/games/elden-ring/"><strong>Elden Ring: Shadow of the Erdtree</strong></a>, and some are in search of Miquella the Empyrean. Due to their own motivations and the beings that they follow, there will be conflicts along the way. Here's our guide on how to complete the Leda, Ansbach, and Freyja quest in Elden Ring: Shadow of the Erdtree. Likewise, please be reminded that this article contains <strong>spoilers</strong>.</p><h2>How to complete the Leda, Ansbach, and Freyja quests in Elden Ring: Shadow of the Erdtree</h2><p>The Elden Ring: Shadow of the Erdtree Ansbach, Freyja, and Leda quests are all intertwined. In a particular instance, there's even a decision that you need to make regarding the Hornsent. Our guide discusses all the steps in detail, as 
+
+## Firearms Expert Reacts to Bloodborne’s Guns
+ - [https://www.gamespot.com/videos/firearms-expert-reacts-to-bloodbornes-guns/2300-6464462](https://www.gamespot.com/videos/firearms-expert-reacts-to-bloodbornes-guns/2300-6464462)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-06-22T14:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1571/15719603/4322760-bloodborne_site.jpg" width="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, breaks down the guns from Bloodborne, including the classic Evelyn pistol, the Boom Hammer, and a handheld Cannon!
+
+## Fortnite Reload Launch Trailer
+ - [https://www.gamespot.com/videos/fortnite-reload-launch-trailer/2300-6464468](https://www.gamespot.com/videos/fortnite-reload-launch-trailer/2300-6464468)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-06-22T06:05:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4323339-fortnitereloadlaunchtrailer-newmode.mp4.00_00_05_35.still001.jpg" width="480" /> Fortnite Reload is a fast-paced, high-action game that is all about carrying the squad to Victory. If you’re eliminated you’ll have the chance to rift back into gameplay over the course of the match until the reboot timer expires. Either your entire squad is wiped and it’s onto the next match or you find yourself at the top taking out all rifted, rebooted, and reloaded enemies to claim a Victory Royale.
+
+## Multiple Versions Of The Watchmen Comic Are Steeply Discounted Right Now
+ - [https://www.gamespot.com/articles/every-edition-of-watchmen-you-can-buy-now/1100-6524293/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/every-edition-of-watchmen-you-can-buy-now/1100-6524293/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-06-22T00:28:00+00:00
+
+<p>Watchmen is getting an <a href="https://www.gamespot.com/articles/watchmen-animated-movies-get-their-first-teaser-trailer/1100-6524263/">animated adaptation later this year,</a> and several versions of the iconic comic are now on sale ahead of its release. Everything from the <a href="https://www.amazon.com/Watchmen-2019-Alan-Moore/dp/1779501129?tag=gamespot-promos-20">Watchmen paperback edition</a> to the premium <a href="https://www.amazon.com/Absolute-Watchmen-Alan-Moore/dp/1779524498?tag=gamespot-promos-20">Absolute Watchmen hardcover</a> is on sale, making this a great time to catch up on the action. Several versions of the story have been published over the years--so if you need help sifting through all the current deals, here's a look at the six best Watchmen deals (as well as a deal on <a href="https://www.amazon.com/Before-Watchmen-Omnibus-Brian-Azzarello/dp/1401285511?tag=gamespot-promos-20">Before Watchmen</a>, the popular prequel).</p><div class="norewrite" title="65242
+
