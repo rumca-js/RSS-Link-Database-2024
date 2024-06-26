@@ -1,0 +1,34 @@
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
+
+## Apple reportedly even held talks with Meta about an AI partnership as it plays catch-up
+ - [https://www.engadget.com/apple-reportedly-even-held-talks-with-meta-about-an-ai-partnership-as-it-plays-catch-up-212741746.html?src=rss](https://www.engadget.com/apple-reportedly-even-held-talks-with-meta-about-an-ai-partnership-as-it-plays-catch-up-212741746.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-06-23T21:27:41+00:00
+
+<p>Apple is apparently looking to take all the help it can get to integrate generative AI into its <a class="no-affiliate-link" href="https://www.engadget.com/apples-first-attempt-at-ai-is-apple-intelligence-181444846.html"><ins>recently announced Apple Intelligence</ins></a>. According to a report by the <a class="no-affiliate-link" href="https://www.wsj.com/tech/ai/apple-meta-have-discussed-an-ai-partnership-cc57437e?st=tddq3k6copeubhe"><em><ins>Wall Street Journal</ins></em></a>, citing sources with knowledge of the discussions, Apple has held talks with Meta about the possibility of using the company’s generative AI model. It also reportedly had similar discussions with startups Anthropic and Perplexity. As of now, though, nothing has been finalized, <em>WSJ</em> reports.</p>
+<p>At WWDC earlier this month, Apple officially announced its much-rumored partnership with OpenAI that will <a class="no-affiliate-link" href="https://www.engadget.com/chatgpt-is-baked-into-apple-intelligenc
+
+## Deepfakes of Elon Musk are pushing crypto giveaway scams on YouTube Live
+ - [https://www.engadget.com/deepfakes-of-elon-musk-are-pushing-crypto-giveaway-scams-on-youtube-live-200700886.html?src=rss](https://www.engadget.com/deepfakes-of-elon-musk-are-pushing-crypto-giveaway-scams-on-youtube-live-200700886.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-06-23T20:07:01+00:00
+
+<p>A YouTube Live broadcast that ran for five hours today used a deepfake of Elon Musk to push a cryptocurrency scam, in the latest of a series of similar bogus streams. The video, which has has since been taken down, showed a clip of Musk that was meant to look like a livestream from a Tesla event, with an AI-generated version of his voice instructing viewers to visit a website and deposit their bitcoin, Ethereum or Dogecoin in order to participate in a giveaway. The message, playing on a loop, promised the system would then “automatically send back double the amount of the cryptocurrency you deposited.”</p>
+<p>Over 30,000 viewers were tuned into the stream at one point (though we can’t discount the possibility these numbers were inflated by bots), pushing it to the top of YouTube’s Live Now recommendations. The account masquerading as Tesla, @elon.teslastream, had the Official Artist Channel verification badge, so we may be looking at an account hack. Both the video and the channel 
+
+## Touch Egg is the most ridiculous Playdate game I’ve tried yet, and I’m hooked
+ - [https://www.engadget.com/touch-egg-is-the-most-ridiculous-playdate-game-ive-tried-yet-and-im-hooked-173155394.html?src=rss](https://www.engadget.com/touch-egg-is-the-most-ridiculous-playdate-game-ive-tried-yet-and-im-hooked-173155394.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-06-23T17:31:55+00:00
+
+<p>Sometimes we all need to just turn off the ol’ brain for a bit and have some dumb fun. That’s the kind vibe I was after when searching the Playdate Catalog for a new game to play this weekend, and let’s just say I got more than I could ever ask for in <a class="no-affiliate-link" href="https://play.date/games/touch-egg/"><em>Touch Egg</em></a>. The game, made by Joelle Tindall, is simple: crank wildly to extend a finger Pinocchio-style and poke the egg as many times as you can, but don’t let the horrifying man in the room see you or you’ll lose said finger. It’s all about chasing the high score, and you have 60 seconds to try and get those pokes in.</p>
+<p>There is no story (well, none beyond “He lays the eggs and doesn’t want you to touch them”), so no explanation as to who the man is, what sort of creature would hatch from the egg, why you’re bothering it and why everything is so creepy. Don’t worry about any of that, just crank.</p>
+<span id="end-legacy-contents"></span><div id=
+
+## Apple’s third-gen AirPods are back on sale for their lowest price yet
+ - [https://www.engadget.com/apples-third-gen-airpods-are-back-on-sale-for-their-lowest-price-yet-144041181.html?src=rss](https://www.engadget.com/apples-third-gen-airpods-are-back-on-sale-for-their-lowest-price-yet-144041181.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2024-06-23T14:40:41+00:00
+
+<p>Apple’s <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0FwcGxlLUdlbmVyYXRpb24tQmx1ZXRvb3RoLUhlYWRwaG9uZXMtUGVyc29uYWxpemVkL2RwL0IwRDFXWFZRVE4vP3RhZz1nZGd0MGMtcC1vLTVscS0yMCIsImNvbnRlbnRVdWlkIjoiMzU4NjZjN2UtNDkxOS00NTJiLThlMzktMTczN2IxNzhhYzA3In0&amp;signature=AQAAAWugkzFP1FWsv-tp2ZEFw2eNuEr1LKoxAFTgraF7n81E&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FApple-Generation-Bluetooth-Headphones-Personalized%2Fdp%2FB0D1WXVQTN%2F"><ins>third-generation AirPods</ins></a> have dropped back down to the lowest price we’ve seen thanks to a deal on Amazon right now. The AirPods, which normally go for $170, are 17 percent off, making them just $140. Apple overhauled the design of the standard AirPods with this model, which was 
+

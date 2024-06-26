@@ -1,0 +1,331 @@
+# Source:RT - Daily news, URL:https://www.rt.com/rss, language:en
+
+## Boeing faces possible criminal indictment – Reuters
+ - [https://www.rt.com/news/599912-us-prosecutors-recommended-boeing-criminal-charges/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599912-us-prosecutors-recommended-boeing-criminal-charges/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T23:55:06+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667a021a85f540617c319002.jpg" style="margin-right: 10px;" /> The US Department of Justice is considering filing criminal charges against aerospace giant Boeing, Reuters says <br /><a href="https://www.rt.com/news/599912-us-prosecutors-recommended-boeing-criminal-charges/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia ‘can’t not respond’ to Crimea attack – Ron Paul
+ - [https://www.rt.com/news/599911-ron-paul-crimea-response/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599911-ron-paul-crimea-response/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T22:47:51+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679f76f85f54030b401de77.jpg" style="margin-right: 10px;" /> The ATACMS strike on a Sevastopol beach could be a ploy to justify greater NATO involvement in Ukraine, the former US lawmaker has said <br /><a href="https://www.rt.com/news/599911-ron-paul-crimea-response/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Holocaust claim against Hungary heads to top US court
+ - [https://www.rt.com/news/599910-scotus-to-hear-hungary-holocaust-lawsuit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599910-scotus-to-hear-hungary-holocaust-lawsuit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T22:13:11+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679e67185f540399877c08b.jpg" style="margin-right: 10px;" /> The US Supreme Court has agreed to decide whether Holocaust survivors can seek compensation in America for property seized in Hungary <br /><a href="https://www.rt.com/news/599910-scotus-to-hear-hungary-holocaust-lawsuit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## WATCH Russian police eliminate terrorists in Dagestan
+ - [https://www.rt.com/russia/599909-police-eliminate-terrorists-dagestan-video/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599909-police-eliminate-terrorists-dagestan-video/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T21:09:48+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679dfb22030273fb8281fe2.jpg" style="margin-right: 10px;" /> Footage has surfaced online showing security officers shooting two of the assailants behind Sunday’s terrorist attacks in southern Russia <br /><a href="https://www.rt.com/russia/599909-police-eliminate-terrorists-dagestan-video/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia pushes for extradition treaty with Thailand
+ - [https://www.rt.com/russia/599905-putin-thailand-extradition-treaty/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599905-putin-thailand-extradition-treaty/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T21:00:53+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679cf3c2030276fe80c4c2c.jpg" style="margin-right: 10px;" /> President Vladimir Putin has instructed the government to sign a deal with Bangkok enabling the extradition of criminal suspects <br /><a href="https://www.rt.com/russia/599905-putin-thailand-extradition-treaty/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## India accuses Canada of ‘glorifying terrorism’
+ - [https://www.rt.com/india/599908-india-accuses-canada-of-glorifying-terrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/599908-india-accuses-canada-of-glorifying-terrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T20:51:40+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679d9b12030273fb8281fd8.jpg" style="margin-right: 10px;" /> New Delhi called out the Canadian government after Khalistan activists disrupted a ceremony mourning the victims of a 1985 plane bombing  <br /><a href="https://www.rt.com/india/599908-india-accuses-canada-of-glorifying-terrorism/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU to send €1.4bn in Russian money to Ukraine – Borrell
+ - [https://www.rt.com/business/599902-eu-russia-assets-ukraine-borrell/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/599902-eu-russia-assets-ukraine-borrell/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T20:09:32+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679cc2f85f5402bd9002983.jpg" style="margin-right: 10px;" /> The bloc has bypassed Hungary to approve an aid transfer to Kiev, foreign policy chief Josep Borrell has said <br /><a href="https://www.rt.com/business/599902-eu-russia-assets-ukraine-borrell/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## WATCH Russian forces hit Ukrainian command post with powerful airstrike
+ - [https://www.rt.com/russia/599906-ukrainian-command-post-powerful-airstrike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599906-ukrainian-command-post-powerful-airstrike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T19:43:08+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679c6fe85f5402bd9002979.png" style="margin-right: 10px;" /> Russian forces have destroyed a Ukrainian command post in a series of high-precision strikes <br /><a href="https://www.rt.com/russia/599906-ukrainian-command-post-powerful-airstrike/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Zelensky sacks senior military commander
+ - [https://www.rt.com/russia/599907-zelensky-fires-military-commander-sodol/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599907-zelensky-fires-military-commander-sodol/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T19:43:03+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679c76685f540399877c07b.jpg" style="margin-right: 10px;" /> The Ukrainian leader dismissed Yury Sodol on Monday, after Sodol’s subordinates demanded his ouster <br /><a href="https://www.rt.com/russia/599907-zelensky-fires-military-commander-sodol/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia sends coal to India by train for first time
+ - [https://www.rt.com/india/599893-russian-coal-train-india/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/599893-russian-coal-train-india/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T19:42:17+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679bda920302711887f2349.png" style="margin-right: 10px;" /> The shipment is a milestone for the International North-South Transport Corridor <br /><a href="https://www.rt.com/india/599893-russian-coal-train-india/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israeli forces to shift toward Lebanese border – Netanyahu
+ - [https://www.rt.com/news/599904-israel-troops-redeploy-toward-lebanon-hezbollah/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599904-israel-troops-redeploy-toward-lebanon-hezbollah/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T18:51:10+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679bec02030270f5e35b885.jpg" style="margin-right: 10px;" /> The Israeli military is poised to confront Hezbollah in the Lebanese border area as fighting against Hamas winds down, Netanyahu says <br /><a href="https://www.rt.com/news/599904-israel-troops-redeploy-toward-lebanon-hezbollah/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Erdogan to hold talks with Putin – Turkish FM
+ - [https://www.rt.com/news/599903-turkey-russian-president-plan-talks-in-kazakhstan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599903-turkey-russian-president-plan-talks-in-kazakhstan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T18:29:12+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679b8e885f54010c61dfabc.jpg" style="margin-right: 10px;" /> The Turkish and Russian presidents plan to hold one-on-one talks during the Shanghai Cooperation Organization summit in Kazakhstan <br /><a href="https://www.rt.com/news/599903-turkey-russian-president-plan-talks-in-kazakhstan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia responds to EU sanctions
+ - [https://www.rt.com/russia/599900-moscow-responds-eu-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599900-moscow-responds-eu-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T17:34:23+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679a2e72030270f5e35b86b.jpg" style="margin-right: 10px;" /> Moscow has “significantly expanded” its blacklist of EU and member state officials in response to Ukraine-related measures from Brussels <br /><a href="https://www.rt.com/russia/599900-moscow-responds-eu-sanctions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel’s main goal is the extermination of Palestinians – retired NATO colonel
+ - [https://www.rt.com/news/599901-israel-strategy-extermination-palestinians/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599901-israel-strategy-extermination-palestinians/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T17:25:55+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679a64f2030270f617cd33e.jpg" style="margin-right: 10px;" /> The IDF’s “brute force” strategy makes no sense from a counterinsurgency perspective, Col. Jacques Baud has claimed <br /><a href="https://www.rt.com/news/599901-israel-strategy-extermination-palestinians/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Putin’s peace proposal still stands – Kremlin
+ - [https://www.rt.com/russia/599899-peskov-putin-peace-sevastopol/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599899-peskov-putin-peace-sevastopol/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T16:56:11+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66799a9d85f5403256472545.jpg" style="margin-right: 10px;" /> The Russian president has stressed that Moscow is open to resolving the Ukraine conflict through negotiations with Kiev <br /><a href="https://www.rt.com/russia/599899-peskov-putin-peace-sevastopol/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Record number of labor strikes held in Germany in 2023 – report
+ - [https://www.rt.com/news/599898-record-number-labor-strikes-germany/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599898-record-number-labor-strikes-germany/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T15:58:13+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679948b20302706bb7812de.jpg" style="margin-right: 10px;" /> Rising inflation drove the largest number of strikes in Germany in nearly a decade last year, a new report has said <br /><a href="https://www.rt.com/news/599898-record-number-labor-strikes-germany/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU city to ban ‘tourist apartments’
+ - [https://www.rt.com/news/599892-barcelona-tourist-appartments-ban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599892-barcelona-tourist-appartments-ban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T15:52:47+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667997fc85f540325647253d.jpg" style="margin-right: 10px;" /> Barcelona plans to ban letting apartments to tourists by 2029 to make housing more affordable for local residents <br /><a href="https://www.rt.com/news/599892-barcelona-tourist-appartments-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US lawmaker condemns attack on Crimea
+ - [https://www.rt.com/news/599897-us-crimea-sevastopol-atacms/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599897-us-crimea-sevastopol-atacms/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T15:25:03+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66798c6f85f5400ca21d951b.jpg" style="margin-right: 10px;" /> Congresswoman Marjorie Taylor Greene has objected to the role an American drone played in Ukraine’s ATACMS strike <br /><a href="https://www.rt.com/news/599897-us-crimea-sevastopol-atacms/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russian court seizes $16 million from disgraced oligarchs
+ - [https://www.rt.com/russia/599888-khodorkovsky-lebedev-seize-funds-yukos/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599888-khodorkovsky-lebedev-seize-funds-yukos/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T15:14:52+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667985af20302711887f231c.jpg" style="margin-right: 10px;" /> A Moscow court has ordered the seizure of nearly $16 million from former Yukos executives Mikhail Khodorkovsky and Platon Lebedev <br /><a href="https://www.rt.com/russia/599888-khodorkovsky-lebedev-seize-funds-yukos/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Training mission is first step towards EU troops in Ukraine – member state
+ - [https://www.rt.com/news/599896-hungary-eu-training-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599896-hungary-eu-training-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T15:11:00+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667989bf2030270f617cd31c.jpg" style="margin-right: 10px;" /> Sending EU instructors to the war-torn country would cross “another red line,” Hungarian Foreign Minister Peter Szijjarto has said <br /><a href="https://www.rt.com/news/599896-hungary-eu-training-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Indian Army builds bridge in 48 hours amid devastating floods (VIDEO)
+ - [https://www.rt.com/india/599895-indian-army-builds-bridge-sikkim/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/599895-indian-army-builds-bridge-sikkim/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T14:39:02+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667984d585f54011bd7eb2c4.png" style="margin-right: 10px;" /> Indian Army engineers have overcome adverse conditions to reconnect villages cut-off by landslides in Sikkim <br /><a href="https://www.rt.com/india/599895-indian-army-builds-bridge-sikkim/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Kremlin issues warning over ‘barbaric’ Crimea attack
+ - [https://www.rt.com/news/599885-crimea-attack-russia-response/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599885-crimea-attack-russia-response/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T14:34:26+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667983aa85f5400ca21d950c.jpg" style="margin-right: 10px;" /> Washington’s direct involvement in actions resulting in the death of Russian civilians will not go unanswered, Kremlin spokesman has warned <br /><a href="https://www.rt.com/news/599885-crimea-attack-russia-response/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Civilians killed on Sevastopol beach were ‘occupiers’ – top Zelensky aide
+ - [https://www.rt.com/russia/599887-podoliak-crimea-beach-civilians/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599887-podoliak-crimea-beach-civilians/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T13:51:31+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66796e9020302706bb7812c1.jpg" style="margin-right: 10px;" /> Kiev considers civilians in Crimea to be legitimate targets, Mikhail Podoliak has warned <br /><a href="https://www.rt.com/russia/599887-podoliak-crimea-beach-civilians/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Zimbabwe reveals ambition to host Russia-Africa summit
+ - [https://www.rt.com/africa/599882-zimbabwe-russia-africa-summit-host-plans/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/599882-zimbabwe-russia-africa-summit-host-plans/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T13:47:39+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66796d8020302706bb7812b7.jpg" style="margin-right: 10px;" /> Zimbabwe’s top diplomat says Harare is upgrading its infrastructure to host the next Russia-Africa summit <br /><a href="https://www.rt.com/africa/599882-zimbabwe-russia-africa-summit-host-plans/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russian forces strike large logistics center in Ukraine – MOD
+ - [https://www.rt.com/russia/599891-russian-forces-hit-ukrainian-logistic-hub/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599891-russian-forces-hit-ukrainian-logistic-hub/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T13:45:12+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667976fd20302706bb7812cb.jpg" style="margin-right: 10px;" /> The report comes after Kiev fired US-supplied missiles at Russia’s Crimean peninsula, killing four civilians and injuring more than 150 <br /><a href="https://www.rt.com/russia/599891-russian-forces-hit-ukrainian-logistic-hub/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## ‘Israeli flag’ Pepsi logo causes uproar – media
+ - [https://www.rt.com/news/599886-pepsi-israeli-flag-design-uproar-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599886-pepsi-israeli-flag-design-uproar-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T13:22:36+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667972ce85f5403256472504.jpg" style="margin-right: 10px;" /> A formal complaint has reportedly been filed against the PepsiCo bottler in Lebanon over a new design reminiscent of the Israeli flag <br /><a href="https://www.rt.com/news/599886-pepsi-israeli-flag-design-uproar-lebanon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Eight dead in fire at former research institute outside Moscow – media (VIDEO)
+ - [https://www.rt.com/russia/599889-nine-people-trapped-burning-research-institute/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599889-nine-people-trapped-burning-research-institute/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T13:20:50+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667971a92030270f617cd300.jpg" style="margin-right: 10px;" /> A fire has engulfed a research facility outside Moscow, with a rescue operation underway, local authorities have said <br /><a href="https://www.rt.com/russia/599889-nine-people-trapped-burning-research-institute/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU accuses Telegram of hiding its reach
+ - [https://www.rt.com/business/599881-eu-telegram-users-number-probe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/599881-eu-telegram-users-number-probe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T13:08:13+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66796ce585f540112c75758d.jpg" style="margin-right: 10px;" /> EU Commissioner for Values and Transparency Vera Jourova claims Telegram underreports its user numbers to avoid regulatory control <br /><a href="https://www.rt.com/business/599881-eu-telegram-users-number-probe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Von der Leyen must go – EU state leader
+ - [https://www.rt.com/news/599871-orban-von-der-leyen-criticism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599871-orban-von-der-leyen-criticism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T12:14:48+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679530f2030270ee8676178.jpg" style="margin-right: 10px;" /> Hungarian Prime Minister Viktor Orban has called for Ursula von der Leyen to be replaced as president of the European Commission <br /><a href="https://www.rt.com/news/599871-orban-von-der-leyen-criticism/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Dagestan attackers identified – investigators (VIDEO)
+ - [https://www.rt.com/russia/599883-dagestan-attackers-identified/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599883-dagestan-attackers-identified/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T12:03:58+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66795a462030270f617cd2e0.png" style="margin-right: 10px;" /> Five militants have been neutralized following a series of terrorist attacks in southern Russia <br /><a href="https://www.rt.com/russia/599883-dagestan-attackers-identified/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Minor arrested in India over bomb hoax
+ - [https://www.rt.com/india/599884-minor-arrested-in-india-bomb-hoax/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/599884-minor-arrested-in-india-bomb-hoax/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T11:57:42+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66795f2820302711887f22f8.jpg" style="margin-right: 10px;" /> A 13-year-old who sent a bomb threat in India has claimed he did it “for fun” <br /><a href="https://www.rt.com/india/599884-minor-arrested-in-india-bomb-hoax/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel accuses close ally of withholding weapons supplies
+ - [https://www.rt.com/news/599873-israel-accuses-us-withholding-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599873-israel-accuses-us-withholding-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T11:45:07+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679459e85f5400dcd4dfb69.jpg" style="margin-right: 10px;" /> Israeli Prime Minister Benjamin Netanyahu says the bulk of US armaments were supplied months ago <br /><a href="https://www.rt.com/news/599873-israel-accuses-us-withholding-weapons/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Zambia does not need US military presence – MP
+ - [https://www.rt.com/africa/599880-zambia-questions-us-military-relevance/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/599880-zambia-questions-us-military-relevance/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T11:06:26+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66794c9a2030271f022be818.jpg" style="margin-right: 10px;" /> A Zambian opposition MP has told RT that the goals of the American forces in the African nation are unclear <br /><a href="https://www.rt.com/africa/599880-zambia-questions-us-military-relevance/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU reveals timeline for tapping Russian assets
+ - [https://www.rt.com/news/599879-eu-tap-russian-funds-borrell/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599879-eu-tap-russian-funds-borrell/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T10:40:08+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66794ac1203027535d0de922.jpg" style="margin-right: 10px;" /> The EU will receive the first part of €2.5 billion in interest generated on Russia’s frozen assets next week, Josep Borrell has said <br /><a href="https://www.rt.com/news/599879-eu-tap-russian-funds-borrell/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Egypt targets travel agencies over Hajj deaths
+ - [https://www.rt.com/africa/599870-egypt-blame-tourism-agencies-hajj/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/599870-egypt-blame-tourism-agencies-hajj/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T10:25:24+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66793ce085f54011bd7eb27a.jpg" style="margin-right: 10px;" /> Egypt has blamed tourist agencies following hundreds of deaths at the annual Muslim pilgrimage to Mecca <br /><a href="https://www.rt.com/africa/599870-egypt-blame-tourism-agencies-hajj/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU slaps first sanctions on Russian LNG
+ - [https://www.rt.com/news/599869-eu-sanctions-lng-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599869-eu-sanctions-lng-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T10:04:43+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66793ca085f540617c318f58.jpg" style="margin-right: 10px;" /> The 14th round of economic restrictions targets Russia’s liquified natural gas for the first time <br /><a href="https://www.rt.com/news/599869-eu-sanctions-lng-russia/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Moscow summons US ambassador over civilian deaths in Sevastopol attack
+ - [https://www.rt.com/russia/599872-moscow-summons-us-ambassador-crimea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599872-moscow-summons-us-ambassador-crimea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T09:45:18+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6679454685f540617c318f6d.jpg" style="margin-right: 10px;" /> The Russian Foreign Ministry has summoned the US ambassador to Moscow after Ukraine used American-supplied missiles in an attack on Crimea <br /><a href="https://www.rt.com/russia/599872-moscow-summons-us-ambassador-crimea/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU to bypass Hungarian veto on tapping Russian assets – FT
+ - [https://www.rt.com/russia/599868-eu-russian-frozen-assets-hungary-veto-loophole/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599868-eu-russian-frozen-assets-hungary-veto-loophole/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T09:37:06+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667938ff85f540617c318f4d.jpg" style="margin-right: 10px;" /> The EU has found a way of bypassing Hungary’s veto and using profits from Russia’s frozen assets to arm Kiev, according to the FT <br /><a href="https://www.rt.com/russia/599868-eu-russian-frozen-assets-hungary-veto-loophole/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Scholz admits many Germans are unhappy about Ukraine aid
+ - [https://www.rt.com/news/599866-scholz-germans-unhappy-ukraine-aid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599866-scholz-germans-unhappy-ukraine-aid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T07:35:52+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667920b085f54032564724cc.jpg" style="margin-right: 10px;" /> Many Germans don’t agree with Berlin’s campaign to assist Ukraine, which is undermining support for the SPD, Olaf Scholz has said <br /><a href="https://www.rt.com/news/599866-scholz-germans-unhappy-ukraine-aid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## WATCH footage from Russian terror attack response in Dagestan
+ - [https://www.rt.com/russia/599862-watch-russian-counterterrorism-work/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599862-watch-russian-counterterrorism-work/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T06:54:59+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/667914242030271e051b7b87.png" style="margin-right: 10px;" /> The Russian National Anti-Terrorism Committee has released footage of its units at work after attacks in Dagestan <br /><a href="https://www.rt.com/russia/599862-watch-russian-counterterrorism-work/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## $42,000-a-year HIV vaccine trialed in Africa
+ - [https://www.rt.com/africa/599861-42000-year-hiv-vaccine-trialled/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/599861-42000-year-hiv-vaccine-trialled/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T06:38:12+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/66790aa485f5400ca21d94c1.jpg" style="margin-right: 10px;" /> The new drug developed by an American pharmaceutical company yielded 100% results in HIV prevention, according to the developer <br /><a href="https://www.rt.com/africa/599861-42000-year-hiv-vaccine-trialled/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Washington siding with terrorism – Moscow
+ - [https://www.rt.com/russia/599860-washington-ukraine-international-terrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599860-washington-ukraine-international-terrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T03:23:34+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6678e53c85f540112c757549.jpg" style="margin-right: 10px;" /> The US is supporting Kiev in “terrorist strikes” against civilians, the Russian ambassador has said <br /><a href="https://www.rt.com/russia/599860-washington-ukraine-international-terrorism/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Biden should be drug tested before Trump debate – ex-White House physician
+ - [https://www.rt.com/news/599859-biden-drug-test-trump-debate/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599859-biden-drug-test-trump-debate/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T01:49:58+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6678d0182030271ec538b025.jpg" style="margin-right: 10px;" /> Former White House doctor calls for Joe Biden to be tested for performance-enhancing drugs before and after his debate with Donald Trump <br /><a href="https://www.rt.com/news/599859-biden-drug-test-trump-debate/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## South Korea renews threat to send weapons to Ukraine
+ - [https://www.rt.com/news/599858-korea-ukraine-weapons-putin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599858-korea-ukraine-weapons-putin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T01:31:36+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6678cc1e85f540617c318f32.jpg" style="margin-right: 10px;" /> South Korean official warns that Russia could cross a “red line” by providing certain weapons to Pyongyang <br /><a href="https://www.rt.com/news/599858-korea-ukraine-weapons-putin/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Macron is not going anywhere – PM
+ - [https://www.rt.com/news/599854-macron-going-nowhere-pm/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/599854-macron-going-nowhere-pm/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T01:16:28+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6678bf1985f54011bd7eb249.jpg" style="margin-right: 10px;" /> The French president will remain in power till May 2027 despite the projected victory by the opposition <br /><a href="https://www.rt.com/news/599854-macron-going-nowhere-pm/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Pentagon has ‘nothing to say’ about strike on Crimean beach with US-supplied weapons
+ - [https://www.rt.com/russia/599853-pentagon-comment-atacms-crimea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599853-pentagon-comment-atacms-crimea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T00:28:29+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6678b8b885f540112c75752c.jpg" style="margin-right: 10px;" /> The Pentagon has refused to comment on the deadly Ukrainian cluster munition attack on a crowded Crimean beach, RIA Novosti reports <br /><a href="https://www.rt.com/russia/599853-pentagon-comment-atacms-crimea/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Terrorist attacks in southern Russia: What we know so far
+ - [https://www.rt.com/russia/599852-dagestan-terrorist-attacks-recap/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/599852-dagestan-terrorist-attacks-recap/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss
+ - date published: 2024-06-24T00:08:58+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2024.06/thumbnail/6678b87320302728961cc781.jpg" style="margin-right: 10px;" /> Militants have targeted synagogues, churches, and the police in the Russian region of Dagestan in deadly raids <br /><a href="https://www.rt.com/russia/599852-dagestan-terrorist-attacks-recap/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
