@@ -1,0 +1,212 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## WikiLeaks founder Julian Assange is free. His future in publishing government secrets is unclear
+ - [https://www.cbc.ca/news/world/julian-assange-wikileaks-future-1.7247656?cmp=rss](https://www.cbc.ca/news/world/julian-assange-wikileaks-future-1.7247656?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T19:10:13+00:00
+
+<img alt="A man with slicked-back white hair, wearing a dark suit jacket, white collared shirt and brown silk tie, gives two thumbs up high above his head as he walks out of a building." height="349" src="https://i.cbc.ca/1.7247673.1719442595!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-julian-assange-wikileaks.jpg" title="WikiLeaks founder Julian Assange gestures after landing at RAAF air base Fairbairn in Canberra, Australia, Wednesday, June 26 2024. Assange has returned to his homeland Australia aboard a charter jet hours after pleading guilty to obtaining and publishing U.S. military secrets in a deal with Justice Department prosecutors that concludes a drawn-out legal saga." width="620" /><p>Julian Assange is a hero to many and a traitor to others. Supporters of the WikiLeaks founder and publisher view him as an investigative journalist who exposed damning information governments wanted to keep hidden, while critics see him as a threat to national security. His n
+
+## New coin etches P.E.I. author Lucy Maud Montgomery into Canadian currency history
+ - [https://www.cbc.ca/news/canada/prince-edward-island/pei-lucy-maud-montgomery-commemorative-coin-1.7246470?cmp=rss](https://www.cbc.ca/news/canada/prince-edward-island/pei-lucy-maud-montgomery-commemorative-coin-1.7246470?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T19:08:20+00:00
+
+<img alt="A Canadian $1 coin depicting an image of Lucy Maud Montgomery and Anne of Green Gables." height="349" src="https://i.cbc.ca/1.7247837.1719439341!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lucy-maud-montgomery-commemorative-coin.jpg" title="" width="620" /><p>Government officials and descendants of Lucy Maud Montgomery were at Green Gables Heritage Place in Cavendish on Wednesday to unveil a new $1 circulation coin bearing the P.E.I. author's likeness and that of her most famous character, Anne of Green Gables.</p>
+
+## Armoured vehicles ram into Bolivia's government palace in apparent coup attempt
+ - [https://www.cbc.ca/news/world/bolivia-military-capital-1.7247637?cmp=rss](https://www.cbc.ca/news/world/bolivia-military-capital-1.7247637?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T17:16:58+00:00
+
+<img alt="Soldiers stand guard outside the presidential palace in Plaza Murillo in La Paz, Bolivia." height="349" src="https://i.cbc.ca/1.7247668.1719433469!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/bolivia-security.jpg" title="Soldiers stand guard outside the presidential palace in Plaza Murillo in La Paz, Bolivia, Wednesday, June 26, 2024. (AP Photo/Juan Karita)" width="620" /><p></p>
+
+## This man wants to break the Guinness World Record for holding the most world records
+ - [https://www.cbc.ca/radio/asithappens/guiness-world-record-for-most-world-records-1.7247159?cmp=rss](https://www.cbc.ca/radio/asithappens/guiness-world-record-for-most-world-records-1.7247159?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T16:37:41+00:00
+
+<img alt="Man holding up a bundle of pencils" height="349" src="https://i.cbc.ca/1.7247441.1719426455!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/david-rush.jpg" title="David Rush says he&apos;s always had a competitive nature, which fuels his desire to win as many world records as possible." width="620" /><p>David Rush has turned record-breaking into a career. He's broken more than 150 Guinness World Records, and now he's going for the ultimate title: the Guinness World Record for the most concurrently held Guinness World Records.</p>
+
+## Billionaire Frank Stronach charged with 8 more criminal counts, including sexual assault, police say
+ - [https://www.cbc.ca/news/canada/frank-stronach-additional-charges-peel-police-1.7247553?cmp=rss](https://www.cbc.ca/news/canada/frank-stronach-additional-charges-peel-police-1.7247553?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T16:29:03+00:00
+
+<img alt="A file photo of billionaire Frank Stronach, taken at a news conference in Vienna, Austria, on Aug. 4, 2015." height="349" src="https://i.cbc.ca/1.7247568.1719430116!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/file-photo-of-billionaire-frank-stronach-taken-in-vienna-in-august-2015.JPG" title="Austrian-Canadian billionare Frank Stronach and head of Austrian parliamentary party Team Stronach addresses a news conference in Vienna, Austria, August 4, 2015." width="620" /><p></p>
+
+## 'The church was wrong': First Nation, Catholic Church agree on truths around residential school in B.C.
+ - [https://www.cbc.ca/news/canada/british-columbia/tk-eml%C3%BAps-te-secw%C3%A9pemc-catholic-church-sacred-covenant-1.7247437?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/tk-eml%C3%BAps-te-secw%C3%A9pemc-catholic-church-sacred-covenant-1.7247437?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T16:12:55+00:00
+
+<img alt="A building with a sign reads &apos;Kamloops Indian Residential School 1923.&apos;" height="349" src="https://i.cbc.ca/1.6850345.1719432399!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/kamloops-indian-residential-school.jpg" title="Exterior of former Kamloops Indian Residential School on Tk’emlups te Secwépemc First Nation land in Kamloops, B.C., on Sept. 20, 2021." width="620" /><p>Tk̓emlúps te Secwépemc and the Vancouver and Kamloops arms of the Catholic church have released the details of a signed document agreeing to a historical record acknowledging the harms caused by residential schools and the role the Catholic church played. </p>
+
+## Bam Margera to spend 6 months on probation for disorderly conduct
+ - [https://www.cbc.ca/news/entertainment/bam-margera-probation-1.7247508?cmp=rss](https://www.cbc.ca/news/entertainment/bam-margera-probation-1.7247508?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T16:07:14+00:00
+
+<img alt="A man wearing sunglasses smiles. " height="349" src="https://i.cbc.ca/1.7247622.1719431717!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1562151364.jpg" title="Bam Margera will spend six months on probation after pleading guilty to disorderly conduct Wednesday." width="620" /><p>Former Jackass star Bam Margera will spend six months on probation after pleading guilty to disorderly conduct Wednesday over an altercation at his home near Philadelphia. Margera, 44, had been charged with assaulting his brother and making threats to other family members.</p>
+
+## Watch this Euro 2024 volunteer balance nine beers on his head
+ - [https://www.cbc.ca/player/play/9.6433759?cmp=rss](https://www.cbc.ca/player/play/9.6433759?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T15:36:42+00:00
+
+<img alt="A Euro 2024 volunteer in a bright green shirt poses with nine pins of beer balanced in an upside down triangle on his head as a crowd watches." height="349" src="https://i.cbc.ca/ais/290d80bc-d19a-435c-8ac7-bd817a6282a8,1719430533035/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3BResize%3D%28620%29" title="" width="620" /><p>Mohammed Mohammed Albarnawe, a volunteer at the Euro 2024 soccer tournament in Cologne, Germany, has established himself as one of the top sights to see at the event, because of his ability to stack nine pints of beer atop his head as he bobs and weaves without spilling a drop.</p>
+
+## Toronto police search for man accused of hiding dead body
+ - [https://www.cbc.ca/news/canada/toronto/wanted-man-indignity-to-body-1.7247464?cmp=rss](https://www.cbc.ca/news/canada/toronto/wanted-man-indignity-to-body-1.7247464?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T15:19:16+00:00
+
+<img alt="A mugshot of a man in a blue shirt, with black hair." height="349" src="https://i.cbc.ca/1.7247473.1719427502!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rejean-hermel-perron.jpg" title="" width="620" /><p>Toronto police are asking for the public’s help in tracking down a man with a history of sexual assault who investigators allege hid a dead person’s body, and who may be a threat to vulnerable populations in the city.</p>
+
+## 14-year-old Pan Am champion De Fazio Ebert named to Canadian Olympic skateboard team
+ - [https://www.cbc.ca/sports/olympics/summer/skateboarding/canada-olympic-skateboard-team-paris-1.7247484?cmp=rss](https://www.cbc.ca/sports/olympics/summer/skateboarding/canada-olympic-skateboard-team-paris-1.7247484?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T14:58:45+00:00
+
+<img alt="Canadian female teen celebrates during her gold medal performance, while wearing on feather from her pet duck in her helmet, at the Women&apos;s Park Skateboarding at the Pan American Games in Santiago, Chile on Sunday Oct. 22, 2023." height="349" src="https://i.cbc.ca/1.7247491.1719428216!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/fay-de-fazio-ebert.JPG" title="Fay De Fazio Ebert emerged on the international scene at the 2023 Pan Am Games, where she captured gold as a 13-year-old in Santiago, Chile." width="620" /><p>Months after becoming the first-ever Pan Am Games gold medallist in women's park, 14-year-old Fay De Fazio Ebert has been named to Canada's skateboard team for the Paris Olympics.</p>
+
+## Experts raise concerns over potential cyanide spread after Yukon mine failure
+ - [https://www.cbc.ca/news/canada/north/experts-worry-of-cyanide-leaching-into-water-after-yukon-mine-failure-1.7246827?cmp=rss](https://www.cbc.ca/news/canada/north/experts-worry-of-cyanide-leaching-into-water-after-yukon-mine-failure-1.7246827?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T13:38:31+00:00
+
+<img alt="An aerial view of a mine site on a remote hilltop." height="349" src="https://i.cbc.ca/1.7245470.1719281398!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/eagle-gold-mine.jpg" title="A view of the heap leach facility at Victoria Gold&apos;s Eagle mine north of Mayo, Yukon." width="620" /><p>Following reports of a major slide, Victoria Gold's stock price plummeted overnight. Now, experts are warning about the potential impacts of cyanide in the territory's waterways.</p>
+
+## Same-day deaths of 2 dogs in care of Hamilton pet-sitting service prompt Ontario probe
+ - [https://www.cbc.ca/news/canada/hamilton/dog-sitting-hamilton-dog-death-investigation-1.7244766?cmp=rss](https://www.cbc.ca/news/canada/hamilton/dog-sitting-hamilton-dog-death-investigation-1.7244766?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T12:27:49+00:00
+
+<img alt="Cassandra Almeida, Ralph and Sammy" height="349" src="https://i.cbc.ca/1.7244791.1719250830!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/cassandra-almeida-ralph-and-sammy.jpeg" title="Cassandra Almeida with her dogs Ralph, left, and Sammy, right." width="620" /><p>Ontario’s Ministry of the Solicitor General says it is investigating after reports that two dogs died on the same day while in the care of a dog-sitting service in Hamilton.</p>
+
+## Ray St. Germain, Métis icon and country music legend, dead at 83
+ - [https://www.cbc.ca/news/canada/manitoba/ray-st-germain-dies-singer-tv-host-winnipeg-1.7246937?cmp=rss](https://www.cbc.ca/news/canada/manitoba/ray-st-germain-dies-singer-tv-host-winnipeg-1.7246937?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T12:17:49+00:00
+
+<img alt="An older man with white hair" height="349" src="https://i.cbc.ca/1.6420790.1719418282!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ray-st-germain.jpg" title="Longtime radio host, country music singer-songwriter and trailblazer Ray St. Germain will be retiring soon as the host of NCI&apos;s popular call-in show Metis Hour x2." width="620" /><p>Singer-songwriter, TV host and Métis country music legend Ray St. Germain has died.</p>
+
+## Police called to Harrow, Ont., home to check on someone's well-being before finding family of 4 dead
+ - [https://www.cbc.ca/news/canada/windsor/harrow-deaths-names-1.7246991?cmp=rss](https://www.cbc.ca/news/canada/windsor/harrow-deaths-names-1.7246991?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T11:33:41+00:00
+
+<img alt="A mother and her two children at a school running track." height="349" src="https://i.cbc.ca/1.7246431.1719348980!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/walsh-family.jpg" title="Carly Walsh (center) with her son Hunter and her daughter Madison in a photo shared by  Sarah Ann Photography." width="620" /><p></p>
+
+## This DIY brick sauna is helping frogs fight disease
+ - [https://www.cbc.ca/news/science/frog-shelters-chytrid-bd-fungus-1.7246839?cmp=rss](https://www.cbc.ca/news/science/frog-shelters-chytrid-bd-fungus-1.7246839?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T11:00:00+00:00
+
+<img alt="Green and golden bell frogs sit in a painted masonry brick, designed to help them warm their bodies and fight off a fungal infection. " height="349" src="https://i.cbc.ca/1.7246847.1719372073!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/frogs-in-masonry-brick.jpg" title="Green and golden bell frogs sit in a painted masonry brick, designed to help them warm their bodies and fight off a fungal infection. January 11, 2023. " width="620" /><p>Building frogs a "sauna" made of masonry bricks can help their bodies fight off a devastating skin fungus that has caused some amphibian species to go extinct.</p>
+
+## WestJet mechanics issue strike notice for possible job action Friday
+ - [https://www.cbc.ca/news/canada/calgary/westjet-mechanics-flights-labour-strike-notice-1.7246921?cmp=rss](https://www.cbc.ca/news/canada/calgary/westjet-mechanics-flights-labour-strike-notice-1.7246921?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T08:12:08+00:00
+
+<img alt="Planes on tarmac in foreground, Westjet plane taking off. Airport building in background." height="349" src="https://i.cbc.ca/1.6982882.1718740174!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/westjet-flight-yul.jpg" title="Westjet flight at Montreal-Trudeau Airport on April 24, 2023. " width="620" /><p>WestJet says it faces a possible strike by its mechanics starting as early as Friday.</p>
+
+## End of cod moratorium touted after 32 years as Ottawa approves small increase in commercial catch
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/nl-northern-cod-fishery-2024-1.7246735?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-northern-cod-fishery-2024-1.7246735?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T06:30:54+00:00
+
+<img alt="Fresh caught cod sit in a net." height="349" src="https://i.cbc.ca/1.4170889.1719362858!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fresh-caught-cod.jpg" title="Hook and line systems bring the fish up alive and unbruised." width="620" /><p>Thirty-two years after the federal government announced a moratorium that shut down Newfoundland and Labrador's cod industry, Fisheries Minister Diane Lebouthillier said Wednesday that it is reopening. </p>
+
+## Art fraud investigation reveals fake Norval Morrisseau painting was on display at Winnipeg gallery
+ - [https://www.cbc.ca/news/canada/manitoba/norval-morrisseau-wag-fake-painting-1.7246764?cmp=rss](https://www.cbc.ca/news/canada/manitoba/norval-morrisseau-wag-fake-painting-1.7246764?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T06:00:00+00:00
+
+<img alt="A painting in the Woodlands School of art." height="349" src="https://i.cbc.ca/1.7246766.1719366184!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fake-norval-morrisseau-painting-astral-plain-scouts.jpg" title="A fake artwork, called Astral Plain Scouts, was donated to the Winnipeg Art Gallery-Qaumajuq in 2000 by a private collector who got it from a gallery in Thunder Bay, Ont., said Stephen Borys, the Winnipeg gallery’s director and CEO. " width="620" /><p>A case investigators have called Canada’s largest art fraud investigation has revealed one of thousands of paintings falsely attributed to renowned Anishinaabe artist Norval Morrisseau was once on display in Winnipeg’s biggest art gallery.</p>
+
+## Practise bear safety, officials urge public after 'extremely rare' attack in northwestern Ontario
+ - [https://www.cbc.ca/news/canada/thunder-bay/bear-safety-northwestern-ontario-1.7245835?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/bear-safety-northwestern-ontario-1.7245835?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T06:00:00+00:00
+
+<img alt="A closeup of a black bear in a meadow." height="349" src="https://i.cbc.ca/1.6733214.1675269483!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/wildlife-trafficking-20230131.jpg" title="Canada&apos;s financial intelligence agency is stepping up the fight against the illicit wildlife trade by taking aim at the criminals who reap big profits from the global racket. The alert says Canadian bears are poached for their bile, claws and paws, which reap large sums on the traditional medicine market at home and abroad. A black bear is seen near Lake Louise, Alta., in June 2020. " width="620" /><p>A recent bear attack in northwestern Ontario has stirred discussions around bear safety. Officials say such incidents are rare but people should still take appropriate safety measures.</p>
+
+## P.E.I. lighthouses on shaky ground due to rising costs and aging volunteers, supporters say
+ - [https://www.cbc.ca/news/canada/prince-edward-island/pei-lighthouses-rising-costs-aging-volunteers-1.7246324?cmp=rss](https://www.cbc.ca/news/canada/prince-edward-island/pei-lighthouses-rising-costs-aging-volunteers-1.7246324?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T05:00:00+00:00
+
+<img alt="A woman stands with a lighthouse in the background " height="349" src="https://i.cbc.ca/1.7246396.1719350181!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jackie-brown-panmure-island-lighthouse.jpg" title="Jackie Brown is operations manager at the Panmure Island Lighthouse. " width="620" /><p>Non-profit groups that operate lighthouses on P.E.I. say they are working hard to keep them open. But the volunteers who launched the projects are getting older and the costs of maintaining the old buildings are rising.</p>
+
+## Former Liberal MP considering leadership run in the wake of party's byelection defeat
+ - [https://www.cbc.ca/news/politics/frank-baylis-liberal-leadership-replace-justin-trudeau-1.7246713?cmp=rss](https://www.cbc.ca/news/politics/frank-baylis-liberal-leadership-replace-justin-trudeau-1.7246713?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T04:00:19+00:00
+
+<img alt="A man in a blue suit and tie stands and speaks in the House of Commons." height="349" src="https://i.cbc.ca/1.7246726.1719360458!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/frank-baylis-june-14-2019.jpg" title="Former Liberal MP Frank Baylis speaks in the House of Commons on June 14, 2019." width="620" /><p>With questions looming over Prime Minister Justin Trudeau’s future at the head of the Liberal Party a day after its disastrous byelection result in its former stronghold of Toronto-St. Paul's, another potential contender says he is considering a run to replace him.</p>
+
+## As Israel and Hezbollah inch toward war, Canada braces for a repeat of the 2006 evacuation
+ - [https://www.cbc.ca/news/politics/israel-lebanon-hezbollah-hamas-1.7246235?cmp=rss](https://www.cbc.ca/news/politics/israel-lebanon-hezbollah-hamas-1.7246235?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T04:00:00+00:00
+
+<img alt="An Israeli flag flutters next to a fire burning in an area near the border with Lebanon in Safed, northern Israel on Wednesday, June 12, 2024. Scores of rockets were fired from Lebanon toward northern Israel on Wednesday morning, hours after Israeli airstrikes killed four officials from the militant Hezbollah group, including a senior military commander." height="349" src="https://i.cbc.ca/1.7246642.1719356709!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians-lebanon.jpg" title="An Israeli flag flutters next to a fire burning in an area near the border with Lebanon in Safed, northern Israel on Wednesday, June 12, 2024. Scores of rockets were fired from Lebanon toward northern Israel on Wednesday morning, hours after Israeli airstrikes killed four officials from the militant Hezbollah group, including a senior military commander." width="620" /><p>The federal government may have to make plans to repeat its largest-ever mass evacuation as the risk of 
+
+## Hundreds of buildings with Science Centre roof panels remain open
+ - [https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closure-roof-concrete-panels-raac-1.7245973?cmp=rss](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closure-roof-concrete-panels-raac-1.7245973?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T04:00:00+00:00
+
+<img alt="Aerial photo from above the science centre building." height="349" src="https://i.cbc.ca/1.6814482.1681849414!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/ontario-science-centre-drone.jpg" title="Premier Doug Ford says his government will move the Ontario Science Centre to Ontario Place. He announced the plan as Toronto holds a mayoral byelection and the proposal has sparked reaction from a number of candidates." width="620" /><p>The same lightweight concrete roofing material blamed for safety risks at the Ontario Science Centre is used in hundreds of other aging public buildings across the province, yet officials haven't pointed to any others that have been ordered closed.</p>
+
+## Montreal tenant finally agrees to move after 5-year fight with real estate giant
+ - [https://www.cbc.ca/news/canada/montreal/montreal-tenant-settles-apartment-1.7246606?cmp=rss](https://www.cbc.ca/news/canada/montreal/montreal-tenant-settles-apartment-1.7246606?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T04:00:00+00:00
+
+<img alt="woman" height="349" src="https://i.cbc.ca/1.7246609.1719355115!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/carla-white.JPG" title="For 11 years, Carla White has lived in a small one-bedroom apartment at the rear of the building which housed the former Da Giovanni restaurant, across the street from Place Émilie Gamelin. " width="620" /><p>Montreal tenant Carla White, after battling one of the city’s largest real estate developers for five years, has finally agreed to move out of her longtime apartment on Ste-Catherine Street.</p>
+
+## Ontario councillor faces integrity commissioner review over social media comment on deceased person
+ - [https://www.cbc.ca/news/canada/thunder-bay/dryden-councillor-social-media-comments-1.7245832?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/dryden-councillor-social-media-comments-1.7245832?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T04:00:00+00:00
+
+<img alt="A person wearing a suit stands beside flowers and a plaque that says &apos;Dryden.&apos;" height="349" src="https://i.cbc.ca/1.7245975.1719333446!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ritch-noel.jpg" title="Coun. Ritch Noel of Dryden, Ont., has been removed from the city&apos;s working circle committee after an incident involving comments he made on a social media post." width="620" /><p>A Dryden councillor has been removed from a committee and faces a review from the northwestern Ontario city's integrity commissioner after commenting on social media about an Eagle Lake First Nation member who died.</p>
+
+## See how inflation in Canada has affected the wages of workers in your region
+ - [https://www.cbc.ca/news/business/canada-wages-inflation-interactive-1.7234065?cmp=rss](https://www.cbc.ca/news/business/canada-wages-inflation-interactive-1.7234065?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T04:00:00+00:00
+
+<img alt="Two shoppers wearing coats are seen pushing grocery store carts in opposite directions." height="349" src="https://i.cbc.ca/1.7234921.1718369802!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/grocery-prices-20231211.JPG" title="The Centre for Future Work says profits in the Canadian grocery sector will likely exceed $6 billion in 2023, setting a new record as they rise eight per cent from last year. People shop in a grocery store in Montreal, Wednesday, November 16, 2022. THE CANADIAN PRESS/Graham Hughes" width="620" /><p>Use this interactive app to find out how inflation has affected the wages of people like you and to compare how it has impacted different subsections of people in Canada.</p>
+
+## Toronto address listed shipping $80M of electronics for 'Russian war machine'
+ - [https://www.cbc.ca/news/russian-sanctions-canada-equipment-china-1.7246038?cmp=rss](https://www.cbc.ca/news/russian-sanctions-canada-equipment-china-1.7246038?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T04:00:00+00:00
+
+<img alt="An evening shot of the Kremlin in Moscow." height="349" src="https://i.cbc.ca/1.7246612.1719364440!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kremlin.jpg" title="In defiance of international sanctions, the Kremlin has constructed shadowy global networks of middlemen to procure electronics it needs to build weapons.  " width="620" /><p>A Caribbean shell company has smuggled at least $80 million worth of electronics into Russia under the disguise of a Canadian address, according to leaked Russian trade filings obtained by CBC News.</p>
+
+## Toronto address listed shipping $80M of electronics for 'Russian war machine'
+ - [https://www.cbc.ca/news/canada/toronto/russian-sanctions-canada-equipment-china-1.7246038?cmp=rss](https://www.cbc.ca/news/canada/toronto/russian-sanctions-canada-equipment-china-1.7246038?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T04:00:00+00:00
+
+<img alt="An evening shot of the Kremlin in Moscow." height="349" src="https://i.cbc.ca/1.7246612.1719364440!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kremlin.jpg" title="In defiance of international sanctions, the Kremlin has constructed shadowy global networks of middlemen to procure electronics it needs to build weapons.  " width="620" /><p>A Caribbean shell company has smuggled at least $80 million worth of electronics into Russia under the disguise of a Canadian address, according to leaked Russian trade filings obtained by CBC News.</p>
+
+## Wait, why does Tim Hortons have a musical?
+ - [https://www.cbc.ca/news/entertainment/tim-hortons-musical-toronto-1.7246597?cmp=rss](https://www.cbc.ca/news/entertainment/tim-hortons-musical-toronto-1.7246597?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T04:00:00+00:00
+
+<img alt="A person sings passionately while dancers stand behind them. " height="349" src="https://i.cbc.ca/1.7246604.1719359079!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/the-last-timbit.jpg" title="Sara Farb, who plays Chloe in The Last Timbit, performs at a media day for the musical, June 20, 2024" width="620" /><p>The Last Timbit, the new musical from — bafflingly — Tim Hortons, premieres today. Despite the obvious advertising, its cast argues it's a real musical. And it could be a new way to help a struggling Canadian theatre industry.</p>
+
+## Russia puts Wall Street Journal reporter Evan Gershkovich on trial for espionage
+ - [https://www.cbc.ca/news/world/journalist-american-trial-russia-1.7246872?cmp=rss](https://www.cbc.ca/news/world/journalist-american-trial-russia-1.7246872?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-26T03:17:46+00:00
+
+<img alt="A man in a blue shirt stands with his arms folded inside a glass enclosure." height="349" src="https://i.cbc.ca/1.7246874.1719383206!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/russia-usa-journalist-trial.JPG" title="Wall Street Journal reporter Evan Gershkovich, who stands trial on spying charges, is seen inside an enclosure for defendants before a court hearing in Yekaterinburg, Russia June 26, 2024. REUTERS/Evgenia Novozhenina     TPX IMAGES OF THE DAY" width="620" /><p>Wall Street Journal reporter Evan Gershkovich went on trial behind closed doors in Yekaterinburg on Wednesday, 15 months after his arrest in the Russian city on espionage charges that he, his employer and the U.S. government vehemently deny.</p>
+
