@@ -1,0 +1,58 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Ontario trucker found at border with as much as $29M worth of meth sentenced to 12 years
+ - [https://www.cbc.ca/news/canada/windsor/windsor-ontario-truck-methamphetamine-1.7248801?cmp=rss](https://www.cbc.ca/news/canada/windsor/windsor-ontario-truck-methamphetamine-1.7248801?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-06-27T17:03:17+00:00
+
+<img alt="Trucks lined up at the Ambassador Bridge in Windsor, Ont." height="349" src="https://i.cbc.ca/1.7225611.1717613195!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/trucks-lined-up-at-ambassador-bridge.JPG" title="Trucks lined up at the Ambassador Bridge in Windsor, Ont." width="620" /><p>A Brampton, Ont., man convicted of smuggling 200 kilograms of methamphetamine into Canada via the Ambassador Bridge has been sentenced to 12 years in prison. $29.4 million, depending on whether it was sold by the gram or the kilo.</p>
+
+## No one was home when house exploded in Winnipeg, police say
+ - [https://www.cbc.ca/news/canada/manitoba/winnipeg-transcona-house-explosion-update-police-1.7248461?cmp=rss](https://www.cbc.ca/news/canada/manitoba/winnipeg-transcona-house-explosion-update-police-1.7248461?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-06-27T14:26:08+00:00
+
+<img alt="A residential street with several damaged houses, lots of debris and a space where a house once stood." height="349" src="https://i.cbc.ca/1.7248856.1719515369!/fileImage/httpImage/image.JPEG_gen/derivatives/16x9_620/transcona-house-explosion.JPEG" title="A house explosion in Transcona left several nearby homes significantly damaged." width="620" /><p>The father and daughter who lived in the house that exploded in Winnipeg on Wednesday were not inside at the time and have been found safe, police say.</p>
+
+## Woman who lied to get twin daughters Inuit status sentenced to 3 years in prison for defrauding organizations
+ - [https://www.cbc.ca/news/canada/north/inuit-fraud-karima-manji-three-years-1.7248264?cmp=rss](https://www.cbc.ca/news/canada/north/inuit-fraud-karima-manji-three-years-1.7248264?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-06-27T10:21:33+00:00
+
+<img alt="A woman with short dark hair appears unsmiling in a mugshot. " height="349" src="https://i.cbc.ca/1.3330644.1719016965!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/karima-manji-march-of-dimes-fraud-charges.jpg" title="Karima Manji was arrested in November 2015 and faced four charges for defrauding the March of Dimes. She pleaded guilty to one count of fraud over $5,000. " width="620" /><p></p>
+
+## Edmonton Oilers stars McDavid and Draisaitl played through injuries in playoffs, coach says
+ - [https://www.cbc.ca/news/canada/edmonton/oilers-stars-mcdavid-and-draisaitl-played-through-injuries-in-playoffs-coach-says-1.7248223?cmp=rss](https://www.cbc.ca/news/canada/edmonton/oilers-stars-mcdavid-and-draisaitl-played-through-injuries-in-playoffs-coach-says-1.7248223?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-06-27T09:37:29+00:00
+
+<img alt="Two young men sit at a desk. " height="349" src="https://i.cbc.ca/1.7248234.1719495194!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/hkn-oilers-20240626.jpg" title="Edmonton Oilers&apos; Connor McDavid, left and  Leon Draisaitl speak during a press conference after getting back from losing to the Florida Panthers in Game 7 of the NHL Stanley Cup final, in Edmonton on Wednesday June 26, 2024." width="620" /><p>Edmonton Oilers coach Kris Knoblauch said on Wednesday that some of the team's top stars were playing through injuries during their Stanley Cup playoff run.</p>
+
+## Canadian teen Marina Stakusic qualifies for Wimbledon
+ - [https://www.cbc.ca/sports/tennis/marina-stakusic-wimbledon-qualifying-june-27-1.7248239?cmp=rss](https://www.cbc.ca/sports/tennis/marina-stakusic-wimbledon-qualifying-june-27-1.7248239?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-06-27T09:22:11+00:00
+
+<img alt="A female tennis player pumps her right fist in celebration while holding a racket in her right hand as spectators look on." height="349" src="https://i.cbc.ca/1.7246309.1719344803!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1771534288.jpg" title="Canada&apos;s Marina Stakusic, pictured last November, next faces 16th seed Chloe Paquet of France as she seeks to qualify for her first Grand Slam main draw at Wimbledon." width="620" /><p>Canada's Marina Stakusic has qualified for her first Grand Slam main draw at Wimbledon.</p>
+
+## Increase to northern cod allocation 'slap in the face' to harvesters, union president says
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/pretty-northern-cod-reaction-1.7247721?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/pretty-northern-cod-reaction-1.7247721?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-06-27T07:30:00+00:00
+
+<img alt="A man with grey hair and glasses in a dark vest and shirt." height="349" src="https://i.cbc.ca/1.6820630.1716809500!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/greg-pretty.JPG" title="Fish, Food &amp; Allied Workers president Greg Pretty says his union&apos;s members can&apos;t afford to fish crab for just $2.20 a pound." width="620" /><p>A union president is not holding back with his criticism of a return to a commercial northern cod fishery, calling it the worst decision ever he's seen from a federal government.</p>
+
+## From war zones to new beginnings: What Canada means to 3 women who came to Sask. as refugees
+ - [https://www.cbc.ca/news/canada/saskatoon/refugee-women-1.7247929?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/refugee-women-1.7247929?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-06-27T04:00:00+00:00
+
+<img alt="A woman in a white patterned shirt stands outside." height="349" src="https://i.cbc.ca/1.7247935.1719450077!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/victoriia-zakharchuk.jpg" title="Victoriia Zakharchuk is a refugee from Lutsk, Ukraine, who arrived in Saskatoon with her son in October 2022. The rest of her family is still in Ukraine.  " width="620" /><p>CBC spoke to three Saskatchewan women who arrived as refugees from war-torn countries about what Canada means to them.</p>
+
+## What would you sacrifice to pay rent?
+ - [https://www.cbc.ca/news/canada/canadian-rent-expensive-1.7240858?cmp=rss](https://www.cbc.ca/news/canada/canadian-rent-expensive-1.7240858?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-06-27T04:00:00+00:00
+
+<img alt="A white sign outside of a highrise with Apartments, Waiting List printed on it." height="349" src="https://i.cbc.ca/1.7247671.1719433325!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/apartment-rentals.jpg" title="No vacancy sign in front of West End Vancouver apartment. " width="620" /><p>Living with your parents. Living with your ex. Giving up basic needs like food and clothing. These are just some of the sacrifices Canadians say they've been making to pay rent amid the surging prices and decreased availability marking Canada's rental housing crisis.</p>
+

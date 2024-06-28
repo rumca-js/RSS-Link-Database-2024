@@ -1,0 +1,26 @@
+# Source:9to5Linux News, URL:https://9to5linux.com/category/news/feed, language:en-US
+
+## Shotcut 24.06 Video Editor Adds AVIF Image Support and SVT-AV1 Encoder
+ - [https://9to5linux.com/shotcut-24-06-video-editor-adds-avif-image-support-and-svt-av1-encoder](https://9to5linux.com/shotcut-24-06-video-editor-adds-avif-image-support-and-svt-av1-encoder)
+ - RSS feed: https://9to5linux.com/category/news/feed
+ - date published: 2024-06-27T21:59:24+00:00
+
+<p>Shotcut 24.06 open-source video editor is now available for download with support for AVIF (AV1) images, SVT-AV1 encoder, two new video filters, a new audio filter, and more.</p>
+<p>The post <a href="https://9to5linux.com/shotcut-24-06-video-editor-adds-avif-image-support-and-svt-av1-encoder">Shotcut 24.06 Video Editor Adds AVIF Image Support and SVT-AV1 Encoder</a> appeared first on <a href="https://9to5linux.com">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>
+
+## PipeWire 1.2 Released with Asynchronous Processing and Explicit Sync Metadata
+ - [https://9to5linux.com/pipewire-1-2-released-with-asynchronous-processing-and-explicit-sync-metadata](https://9to5linux.com/pipewire-1-2-released-with-asynchronous-processing-and-explicit-sync-metadata)
+ - RSS feed: https://9to5linux.com/category/news/feed
+ - date published: 2024-06-27T14:32:34+00:00
+
+<p>PipeWire 1.2 open-source server for handling audio, video streams, and hardware on Linux is now available for download with many new features and improvements. Here's what's new.</p>
+<p>The post <a href="https://9to5linux.com/pipewire-1-2-released-with-asynchronous-processing-and-explicit-sync-metadata">PipeWire 1.2 Released with Asynchronous Processing and Explicit Sync Metadata</a> appeared first on <a href="https://9to5linux.com">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>
+
+## NVIDIA 555.58 Linux Graphics Driver Released with Explicit Sync on Wayland
+ - [https://9to5linux.com/nvidia-555-58-linux-graphics-driver-released-with-explicit-sync-on-wayland](https://9to5linux.com/nvidia-555-58-linux-graphics-driver-released-with-explicit-sync-on-wayland)
+ - RSS feed: https://9to5linux.com/category/news/feed
+ - date published: 2024-06-27T14:02:56+00:00
+
+<p>NVIDIA 555.58 Linux graphics driver is now available for download with explicit GPU sync support for NVIDIA GPU users on Wayland, as well as many other improvements. Here's what's new!</p>
+<p>The post <a href="https://9to5linux.com/nvidia-555-58-linux-graphics-driver-released-with-explicit-sync-on-wayland">NVIDIA 555.58 Linux Graphics Driver Released with Explicit Sync on Wayland</a> appeared first on <a href="https://9to5linux.com">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>
+
