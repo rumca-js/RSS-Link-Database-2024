@@ -142,11 +142,11 @@
 <p># Comments: 0</p>
 
 ## Nix-shell shebang: run any script with arbitrary packages, self-contained
- - [https://nixos.wiki/wiki/Nix-shell_shebang](https://nixos.wiki/wiki/Nix-shell_shebang)
+ - [https://wiki.nixos.org/wiki/Nix-shell_shebang](https://wiki.nixos.org/wiki/Nix-shell_shebang)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2024-02-07T19:23:01+00:00
 
-<p>Article URL: <a href="https://nixos.wiki/wiki/Nix-shell_shebang">https://nixos.wiki/wiki/Nix-shell_shebang</a></p>
+<p>Article URL: <a href="https://wiki.nixos.org/wiki/Nix-shell_shebang">https://wiki.nixos.org/wiki/Nix-shell_shebang</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=39292985">https://news.ycombinator.com/item?id=39292985</a></p>
 <p>Points: 15</p>
 <p># Comments: 2</p>

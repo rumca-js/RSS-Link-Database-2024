@@ -18,7 +18,7 @@ Fedora Proposal: https://lists.fedoraproject.org/archives/list/devel@lists.fedor
 Fedora Forum: https://discussion.fedoraproject.org/t/cosmic-desktop-environment-on-fedora/102112
 Fedora Cosmic: https://github.com/ryanabx/fedora-cosmic-atomic
 Arch Wiki: https://wiki.archlinux.org/title/COSMIC
-Nix OS Wiki: https://nixos.wiki/wiki/COSMIC
+Nix OS Wiki: https://wiki.nixos.org/wiki/COSMIC
 
 =========Video Platforms==========
 🎥 Odysee: https://brodierobertson.xyz/odysee
