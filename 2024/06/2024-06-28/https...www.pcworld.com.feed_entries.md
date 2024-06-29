@@ -1,0 +1,219 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## Upgrade to Windows 11 Pro for one of the lowest prices you’ll find
+ - [https://www.pcworld.com/article/2381147/upgrade-to-windows-11-pro-for-one-of-the-lowest-prices-youll-find.html](https://www.pcworld.com/article/2381147/upgrade-to-windows-11-pro-for-one-of-the-lowest-prices-youll-find.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-06-28T17:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p><strong>TL;DR:</strong> Take the leap to <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://shop.pcworld.com/sales/microsoft-windows-11-pro-6?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-windows-11-pro-6&amp;utm_term=scsf-599665&amp;utm_content=a0xRn000001ZmqnIAC&amp;scsonar=1&amp;xcust=2-1-2381147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Microsoft Windows 11 Pro</a> for one of the lowest prices you&rsquo;ll see &mdash; just $22.97 &mdash; through July 21.</p>
+
+
+
+<p>Running the most up-to-date operating system is one of the best ways to ensure your computer stays secure and you have the best tools to work more effectively. When you have <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://shop.pcworld.com/sales/microsoft-windows-11-pro-6?utm_s
+
+## Get a Prime Day-like deal on Microsoft Visual Studio — $35
+ - [https://www.pcworld.com/article/2381064/get-a-prime-day-like-deal-on-microsoft-visual-studio-35.html](https://www.pcworld.com/article/2381064/get-a-prime-day-like-deal-on-microsoft-visual-studio-35.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-06-28T17:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p><strong>TL;DR:</strong> During our version of Prime Day, you can get <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://shop.pcworld.com/sales/microsoft-visual-studio-professional-2022?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-visual-studio-professional-2022&amp;utm_term=scsf-599666&amp;utm_content=a0xRn000001ZmsPIAS&amp;scsonar=1&amp;xcust=2-1-2381064-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Microsoft Visual Studio Professional 2022 for Windows</a> for just $34.97 (reg. $499).</p>
+
+
+
+<p>Coding is difficult enough. With the right tools, however, complex projects can be made a lot more accessible. That&rsquo;s where <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://shop.pcworld.com/sales/microsoft-visual-studio-professional-2022?utm_sourc
+
+## Reddit’s favorite desk chair is a massive 66% off
+ - [https://www.pcworld.com/article/2235005/reddits-favorite-desk-chair-is-a-massive-66-off.html](https://www.pcworld.com/article/2235005/reddits-favorite-desk-chair-is-a-massive-66-off.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-06-28T15:14:56+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re dealing with the aches and pains from sitting in an old office chair and are looking to replace it with a new one, you&rsquo;ve come to the right place. Staples is currently selling the <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://www.staples.com/union-scale-flexfit-hyken-ergonomic-mesh-swivel-task-chair-black-un59460/product_990119&amp;xcust=2-1-2235005-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Hyken Ergonomic Mesh Swivel Task Chair for just $90</a> with the coupon code <strong>94171</strong> (it shaves off an additional $10), plus free shipping. This specific chair is the chair of choice among Reddit&rsquo;s chair nerd hivemind at r/buildapc, so you know it has serious staying power. </p>
+
+
+
+<p>Plus, I happen to own this exact chair model and can confidently vouch its comfort and ergonomics. 
+
+## Nintendo Switch OLED deals are rare — and it’s $46 off right now
+ - [https://www.pcworld.com/article/2380564/nintendo-switch-oled-deals-are-rare-and-its-46-off-right-now.html](https://www.pcworld.com/article/2380564/nintendo-switch-oled-deals-are-rare-and-its-46-off-right-now.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-06-28T14:55:23+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;ve been holding out for the perfect time to get a Nintendo Switch OLED, that time is now!</p>
+
+
+
+<p>The <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://www.walmart.com/ip/Nintendo-OLED-w-White-Joy-Con-White-Nintendo-Switch/910582148&amp;xcust=2-1-2380564-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Nintendo Switch OLED is currently just $303 at Walmart</a>, down from its usual $349. The Nintendo Switch rarely goes on sale, which makes this sizable discount that much more enticing.</p>
+
+
+
+<p>The Nintendo Switch OLED has a vibrant 7-inch OLED screen for vivid colors and contrast. Whether you&rsquo;re diving into the latest <em>Zelda</em> adventure or racing through <em>Mario Kart</em> like the rest of us, this display technology delivers a more immersive experience.</p>
+
+
+
+<p>Aside from the new OLED scree
+
+## Steam Summer Sale: 11 incredible deals on games worth playing
+ - [https://www.pcworld.com/article/2380769/11-of-the-best-deals-in-the-steam-summer-sale.html](https://www.pcworld.com/article/2380769/11-of-the-best-deals-in-the-steam-summer-sale.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-06-28T14:37:59+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The Steam Summer Sale <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://store.steampowered.com/news/app/593110/view/4161970072172304109&amp;xcust=2-1-2380769-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">is in full swing</a>, and there are deals to be had everywhere you look. But most of them&mdash;especially the more popular and more recent games&mdash;only have modest discounts at best. I&rsquo;ve picked out some of my favorites that have the biggest savings.</p>
+
+
+
+<p>In no particular order, here are the best Steam Summer Sale deals on the games I personally love and think everyone should check out. Fill up your Steam backlog at a steep discount right now!</p>
+
+
+
+<h2 class="wp-block-heading" id="1-fallout-76-9-99-75-off">1. Fallout 76 &mdash; $9.99 (75% off)</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-pro
+
+## This portable laptop monitor can be yours for an unbeatable $64
+ - [https://www.pcworld.com/article/2380527/this-portable-laptop-monitor-can-be-yours-for-an-unbeatable-64.html](https://www.pcworld.com/article/2380527/this-portable-laptop-monitor-can-be-yours-for-an-unbeatable-64.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-06-28T14:08:41+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re looking to boost your productivity with an extra screen, especially when you&rsquo;re on the go, the <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://www.amazon.com/Arzopa-Portable-100-SRGB-External-Speakers/dp/B093GCL18V/&amp;xcust=2-1-2380527-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Arzopa S1 Table Portable Monitor is now just $64 at Amazon</a>, down from $130.</p>
+
+
+
+<p>While this price is technically a Prime deal&mdash;big savings that are only for <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://www.amazon.com/amazonprime&amp;xcust=2-1-2380527-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Amazon Prime members</a>&mdash;non-Prime shoppers can still get this awesome portable laptop monitor for $90.</p>
+
+
+
+<p>The Arzopa S1 Table serves as an excellen
+
+## Malwarebytes Premium Security review: An antimalware staple is now optional
+ - [https://www.pcworld.com/article/2379275/malwarebytes-premium-security-review-an-antimalware-staple-is-now-optional.html](https://www.pcworld.com/article/2379275/malwarebytes-premium-security-review-an-antimalware-staple-is-now-optional.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-06-28T14:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Clean, simple interface</li><li>Essential protection against malware</li><li>Lower impact on PC system resources</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Less participation in testing performed by independent security organizations</li><li>Extremely light on features</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">Malwarebytes Premium Security offers a simple, easy-to-use alternative to W
+
+## Latest Windows update causes reboot loop — what to do if you’re stuck
+ - [https://www.pcworld.com/article/2380762/windows-update-kb5039302-makes-pcs-unusable-what-you-can-do.html](https://www.pcworld.com/article/2380762/windows-update-kb5039302-makes-pcs-unusable-what-you-can-do.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-06-28T13:35:54+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Microsoft has stopped delivery of June 25th&rsquo;s <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://support.microsoft.com/en-us/topic/june-25-2024-kb5039302-os-builds-22621-3810-and-22631-3810-preview-0ab34e3f-bca9-4a52-a1a4-404bf8162f58&amp;xcust=2-1-2380762-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">KB5039302 update</a>. While the update had <a href="https://www.pcworld.com/article/2377939/windows-11-update-adds-new-emojis-game-suggestions-7-zip-and-more.html">some interesting stuff in it</a>, it turns out that it can cause Windows 11 PCs to restart in a continuous loop.</p>
+
+
+
+<p>Specifically, Windows 11 version 23H2 and Windows 11 version 22H2 are affected by this bug. Windows servers are not affected.</p>
+
+
+
+<p>Fortunately, KB5039302 isn&rsquo;t installed on all Windows 11 computers because it
+
+## Don’t ditch your gaming chair – upgrade it!
+ - [https://www.pcworld.com/article/2356204/tune-upgrade-your-gaming-chair-accessories-for-all-manufacturers.html](https://www.pcworld.com/article/2356204/tune-upgrade-your-gaming-chair-accessories-for-all-manufacturers.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-06-28T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>A good gaming chair is a well-considered investment for many, as it usually costs a little more than a normal office chair. However, it also fulfils many functions that go beyond just sitting and scores points with its ergonomics and stylish lighting, for example.</p>
+
+
+
+<p>But what should you do if you are no longer happy with your gaming chair? Take it apart, dispose of it and forget about it? Not necessarily, because perhaps your gaming chair would benefit from an upgrade.</p>
+
+
+
+<p>To get the best out of your gaming chair, we have selected some interesting accessory options. Unless otherwise stated, most of the products should be suitable for all common manufacturers.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading: </strong><a href="https://www.pcworld.com/article/2290337/why-your-gaming-setup-is-more-than-just-a-powerful-pc.html">Why a
+
+## Tested: Don’t buy a Snapdragon X Elite laptop for PC gaming
+ - [https://www.pcworld.com/article/2378322/qualcomm-adreno-x1-vs-intel-arc-real-world-performance-in-7-games.html](https://www.pcworld.com/article/2378322/qualcomm-adreno-x1-vs-intel-arc-real-world-performance-in-7-games.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-06-28T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>2024 is an exciting year for Windows. While the <a href="https://www.pcworld.com/article/2375380/windows-copilot-ai-features-feel-like-early-tech-demos-at-best.html">AI features touted by Microsoft&rsquo;s Copilot+ PCs are a flat miss</a>, the new Qualcomm Snapdragon X Elite hardware inside Copilot+ PCs is a definite win.</p>
+
+
+
+<p>Finally, after more than a decade of effort, Windows on Arm is a viable alternative to traditional x86 processors&mdash;and it&rsquo;s especially alluring if you long for longer battery life.</p>
+
+
+
+<p>But what about games? There&rsquo;s reason to be skeptical., despite Qualcomm&rsquo;s pre-release claims that <a href="https://www.pcworld.com/article/2278905/qualcomm-games-should-just-work-on-snapdragon-x-elite.html">games should just work on Snapdragon X Elite</a>. Games are often developed with a highly specific platform target. Even
+
+## Why 3D spatial audio is an unheralded game changer
+ - [https://www.pcworld.com/article/2374958/why-3d-spatial-audio-is-an-unheralded-game-changer.html](https://www.pcworld.com/article/2374958/why-3d-spatial-audio-is-an-unheralded-game-changer.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-06-28T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Imagine a world where a car is speeding up directly behind you but your hearing only extends to either side of you. It&rsquo;s a frightening thought, isn&rsquo;t it? Yet it&rsquo;s not too far off what we&rsquo;ve had to endure for decades now in games.</p>
+
+
+
+<p>You could just as easily sub out the word &ldquo;car&rdquo; for &ldquo;zombie,&rdquo; &ldquo;monster,&rdquo; &ldquo;dragon,&rdquo; or any other kind of game foe, too.</p>
+
+
+
+<p>So, I&rsquo;m just going blurt out my raw opinion: Audio has traditionally taken a backseat to graphics in many games. There&hellip; that feels better. But, I do get why that&rsquo;s been the case&hellip;</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>That a game developer can cause my adrenal glands to flood my body with more of the flight and fight hormone is quite an extraordinary thing&hellip;</p></blockquote></figur
+
