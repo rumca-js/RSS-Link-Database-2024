@@ -1,0 +1,933 @@
+# Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## Pakistan: Miscreants blow up gas pipeline in Balochistan's Mach
+ - [https://timesofindia.indiatimes.com/world/pakistan/pakistan-miscreants-blow-up-gas-pipeline-in-balochistans-mach-quetta-affected/articleshow/111389840.cms](https://timesofindia.indiatimes.com/world/pakistan/pakistan-miscreants-blow-up-gas-pipeline-in-balochistans-mach-quetta-affected/articleshow/111389840.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T23:23:09+00:00
+
+
+
+## This May-June was Delhi's hottest in at least 74 yrs
+ - [https://timesofindia.indiatimes.com/india/this-may-june-was-citys-hottest-in-at-least-74-yrs/articleshow/111388881.cms](https://timesofindia.indiatimes.com/india/this-may-june-was-citys-hottest-in-at-least-74-yrs/articleshow/111388881.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T22:51:05+00:00
+
+
+
+## CBI arrests Godhra edu trust chief for NEET malpractices
+ - [https://timesofindia.indiatimes.com/india/cbi-arrests-godhra-edu-trust-chief-for-neet-malpractices/articleshow/111388644.cms](https://timesofindia.indiatimes.com/india/cbi-arrests-godhra-edu-trust-chief-for-neet-malpractices/articleshow/111388644.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T22:45:32+00:00
+
+
+
+## Congress questions PM silence on NEET, rail crash, infra collapse
+ - [https://timesofindia.indiatimes.com/india/congress-questions-pm-silence-on-neet-rail-crash-infra-collapse/articleshow/111388501.cms](https://timesofindia.indiatimes.com/india/congress-questions-pm-silence-on-neet-rail-crash-infra-collapse/articleshow/111388501.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T22:41:04+00:00
+
+
+
+## 2 get life term for raping woman in moving auto in UP
+ - [https://timesofindia.indiatimes.com/india/2-get-life-term-for-raping-woman-in-moving-auto-in-up/articleshow/111388372.cms](https://timesofindia.indiatimes.com/india/2-get-life-term-for-raping-woman-in-moving-auto-in-up/articleshow/111388372.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T22:37:13+00:00
+
+
+
+## Sujata Saunik is 1st woman chief secretary of Maharashtra
+ - [https://timesofindia.indiatimes.com/india/sujata-saunik-is-1st-woman-chief-secretary-of-maharashtra/articleshow/111388230.cms](https://timesofindia.indiatimes.com/india/sujata-saunik-is-1st-woman-chief-secretary-of-maharashtra/articleshow/111388230.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T22:32:56+00:00
+
+
+
+## TMC man assaults couple, held as video goes viral
+ - [https://timesofindia.indiatimes.com/india/tmc-man-assaults-couple-held-as-video-goes-viral/articleshow/111388065.cms](https://timesofindia.indiatimes.com/india/tmc-man-assaults-couple-held-as-video-goes-viral/articleshow/111388065.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T22:28:34+00:00
+
+
+
+## PM hails people for 'unwavering faith' in statute
+ - [https://timesofindia.indiatimes.com/india/pm-hails-people-for-unwavering-faith-in-statute/articleshow/111387845.cms](https://timesofindia.indiatimes.com/india/pm-hails-people-for-unwavering-faith-in-statute/articleshow/111387845.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T22:21:21+00:00
+
+
+
+## Manoj Singh, Yogi's trusted officer, is new UP chief secretary
+ - [https://timesofindia.indiatimes.com/india/manoj-singh-yogis-trusted-officer-is-new-up-chief-secretary/articleshow/111387746.cms](https://timesofindia.indiatimes.com/india/manoj-singh-yogis-trusted-officer-is-new-up-chief-secretary/articleshow/111387746.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T22:18:00+00:00
+
+
+
+## 3 new criminal laws kick in today, data ousts 'danda' as policing tool
+ - [https://timesofindia.indiatimes.com/india/3-new-criminal-laws-kick-in-today-data-ousts-danda-as-policing-tool/articleshow/111387621.cms](https://timesofindia.indiatimes.com/india/3-new-criminal-laws-kick-in-today-data-ousts-danda-as-policing-tool/articleshow/111387621.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T22:10:57+00:00
+
+
+
+## 17-year-old Assam trans girl loses school seat over bikini pictures
+ - [https://timesofindia.indiatimes.com/india/17-year-old-assam-trans-girl-loses-school-seat-over-bikini-pictures/articleshow/111387610.cms](https://timesofindia.indiatimes.com/india/17-year-old-assam-trans-girl-loses-school-seat-over-bikini-pictures/articleshow/111387610.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T22:01:27+00:00
+
+
+
+## Girder of under construction bridge collapses in Jharkhand
+ - [https://timesofindia.indiatimes.com/india/girder-of-under-construction-bridge-collapses-in-jharkhand/articleshow/111387604.cms](https://timesofindia.indiatimes.com/india/girder-of-under-construction-bridge-collapses-in-jharkhand/articleshow/111387604.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:58:29+00:00
+
+
+
+## Amit Shah calls for 'cooperation among cooperatives'
+ - [https://timesofindia.indiatimes.com/india/amit-shah-calls-for-cooperation-among-cooperatives/articleshow/111387596.cms](https://timesofindia.indiatimes.com/india/amit-shah-calls-for-cooperation-among-cooperatives/articleshow/111387596.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:51:48+00:00
+
+
+
+## Sarpanch of Ajit Pawar-led NCP shot dead by rivals in Maharashtra
+ - [https://timesofindia.indiatimes.com/india/sarpanch-of-ajit-pawar-led-ncp-shot-dead-by-rivals-in-maharashtra/articleshow/111387582.cms](https://timesofindia.indiatimes.com/india/sarpanch-of-ajit-pawar-led-ncp-shot-dead-by-rivals-in-maharashtra/articleshow/111387582.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:48:36+00:00
+
+
+
+## MP sarpanch shoots woman dead following drunken brawl, booked
+ - [https://timesofindia.indiatimes.com/india/mp-sarpanch-shoots-woman-dead-following-drunken-brawl-booked/articleshow/111387554.cms](https://timesofindia.indiatimes.com/india/mp-sarpanch-shoots-woman-dead-following-drunken-brawl-booked/articleshow/111387554.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:43:32+00:00
+
+
+
+## Odisha to roll out spl scheme for women on PM Modi's 75th birthday
+ - [https://timesofindia.indiatimes.com/india/odisha-to-roll-out-spl-scheme-for-women-on-pm-modis-75th-birthday/articleshow/111387551.cms](https://timesofindia.indiatimes.com/india/odisha-to-roll-out-spl-scheme-for-women-on-pm-modis-75th-birthday/articleshow/111387551.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:40:39+00:00
+
+
+
+## Congress brass forced to step in as Karnataka faction feud intensifies
+ - [https://timesofindia.indiatimes.com/india/congress-brass-forced-to-step-in-as-karnataka-faction-feud-intensifies/articleshow/111387398.cms](https://timesofindia.indiatimes.com/india/congress-brass-forced-to-step-in-as-karnataka-faction-feud-intensifies/articleshow/111387398.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:34:15+00:00
+
+
+
+## In radio address, PM highlights yoga enthusiasm across the globe
+ - [https://timesofindia.indiatimes.com/india/in-radio-address-pm-highlights-yoga-enthusiasm-across-the-globe/articleshow/111387352.cms](https://timesofindia.indiatimes.com/india/in-radio-address-pm-highlights-yoga-enthusiasm-across-the-globe/articleshow/111387352.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:31:06+00:00
+
+
+
+## Navy chief starts four-day B'desh visit today to bolster def ties
+ - [https://timesofindia.indiatimes.com/india/navy-chief-starts-four-day-bdesh-visit-today-to-bolster-def-ties/articleshow/111387350.cms](https://timesofindia.indiatimes.com/india/navy-chief-starts-four-day-bdesh-visit-today-to-bolster-def-ties/articleshow/111387350.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:27:58+00:00
+
+
+
+## Tripathi, Dwivedi were disciplined, totally focused: Ex-classmate
+ - [https://timesofindia.indiatimes.com/india/tripathi-dwivedi-were-disciplined-totally-focused-ex-classmate/articleshow/111387348.cms](https://timesofindia.indiatimes.com/india/tripathi-dwivedi-were-disciplined-totally-focused-ex-classmate/articleshow/111387348.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:24:53+00:00
+
+
+
+## Cong demands law to tweak Constitution for quota beyond 50% cap
+ - [https://timesofindia.indiatimes.com/india/congress-demands-law-to-tweak-constitution-for-quota-beyond-50-cap/articleshow/111387346.cms](https://timesofindia.indiatimes.com/india/congress-demands-law-to-tweak-constitution-for-quota-beyond-50-cap/articleshow/111387346.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:21:11+00:00
+
+
+
+## Historic Chadwick House in Shimla gets makeover as CAG museum
+ - [https://timesofindia.indiatimes.com/india/historic-chadwick-house-in-shimla-gets-makeover-as-cag-museum/articleshow/111387342.cms](https://timesofindia.indiatimes.com/india/historic-chadwick-house-in-shimla-gets-makeover-as-cag-museum/articleshow/111387342.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:15:43+00:00
+
+
+
+## Venkaiah's life showcases public service commitment: PM Modi
+ - [https://timesofindia.indiatimes.com/india/venkaiahs-life-showcases-public-service-commitment-pm-modi/articleshow/111387336.cms](https://timesofindia.indiatimes.com/india/venkaiahs-life-showcases-public-service-commitment-pm-modi/articleshow/111387336.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:11:51+00:00
+
+
+
+## General Dwivedi takes over as chief of Army, faces China, J&K tests
+ - [https://timesofindia.indiatimes.com/india/general-dwivedi-takes-over-as-chief-of-army-faces-china-jk-tests/articleshow/111387334.cms](https://timesofindia.indiatimes.com/india/general-dwivedi-takes-over-as-chief-of-army-faces-china-jk-tests/articleshow/111387334.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T21:05:33+00:00
+
+China's aggressive stance along the eastern Ladakh to Arunachal Pradesh frontier, with 1.4 lakh troops deployed, is the main operational challenge for new Army chief General Upendra Dwivedi. He also faces increased militancy in J&amp;K, especially in Poonch-Rajouri. Dwivedi, familiar with threats from China and Pakistan, aims to fast-track Army modernization and address operational gaps, including air defense and night-fighting capabilities. Additionally, the controversial Agnipath scheme's soldier retention rate may need adjustment.
+
+## Biden's poor show at presidential debate raises alarm in Israel
+ - [https://timesofindia.indiatimes.com/world/us/bidens-poor-show-at-presidential-debate-raises-alarm-in-israel/articleshow/111387325.cms](https://timesofindia.indiatimes.com/world/us/bidens-poor-show-at-presidential-debate-raises-alarm-in-israel/articleshow/111387325.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T20:52:26+00:00
+
+
+
+## Fast and furious: Russia using bikes to stir chaos in Ukraine
+ - [https://timesofindia.indiatimes.com/world/europe/fast-and-furious-russia-using-bikes-to-stir-chaos-in-ukraine/articleshow/111387320.cms](https://timesofindia.indiatimes.com/world/europe/fast-and-furious-russia-using-bikes-to-stir-chaos-in-ukraine/articleshow/111387320.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T20:50:09+00:00
+
+
+
+## Card dues & gold loans beat bank credit growth of 20%
+ - [https://timesofindia.indiatimes.com/business/india-business/card-dues-gold-loans-beat-bank-credit-growth-of-20/articleshow/111387282.cms](https://timesofindia.indiatimes.com/business/india-business/card-dues-gold-loans-beat-bank-credit-growth-of-20/articleshow/111387282.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T20:25:35+00:00
+
+
+
+## Volkswagen in talks to sell stake, rope in local partner
+ - [https://timesofindia.indiatimes.com/business/international-business/volkswagen-in-talks-to-sell-stake-rope-in-local-partner/articleshow/111387273.cms](https://timesofindia.indiatimes.com/business/international-business/volkswagen-in-talks-to-sell-stake-rope-in-local-partner/articleshow/111387273.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T20:19:35+00:00
+
+
+
+## Bull run: FPIs turn buyers, invest Rs 26.6k crore
+ - [https://timesofindia.indiatimes.com/business/india-business/bull-run-fpis-turn-buyers-invest-rs-26-6k-crore/articleshow/111387266.cms](https://timesofindia.indiatimes.com/business/india-business/bull-run-fpis-turn-buyers-invest-rs-26-6k-crore/articleshow/111387266.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T20:16:20+00:00
+
+
+
+## Ola Elec to invest $100 million in its gigafactory
+ - [https://timesofindia.indiatimes.com/business/india-business/ola-elec-to-invest-100mn-in-its-gigafactory/articleshow/111387259.cms](https://timesofindia.indiatimes.com/business/india-business/ola-elec-to-invest-100mn-in-its-gigafactory/articleshow/111387259.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T20:13:39+00:00
+
+
+
+## Money spent abroad grows 29x in a decade
+ - [https://timesofindia.indiatimes.com/business/india-business/money-spent-abroad-grows-29x-in-a-decade/articleshow/111387255.cms](https://timesofindia.indiatimes.com/business/india-business/money-spent-abroad-grows-29x-in-a-decade/articleshow/111387255.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T20:08:32+00:00
+
+
+
+## Jaishankar meets Qatar PM, reviews ties
+ - [https://timesofindia.indiatimes.com/india/jaishankar-meets-qatar-pm-reviews-ties/articleshow/111387235.cms](https://timesofindia.indiatimes.com/india/jaishankar-meets-qatar-pm-reviews-ties/articleshow/111387235.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T19:55:11+00:00
+
+
+
+## Ranchi University to probe leak in PhD, MPhil entry tests after plaint
+ - [https://timesofindia.indiatimes.com/india/ranchi-university-to-probe-leak-in-phd-mphil-entry-tests-after-plaint/articleshow/111387227.cms](https://timesofindia.indiatimes.com/india/ranchi-university-to-probe-leak-in-phd-mphil-entry-tests-after-plaint/articleshow/111387227.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T19:51:30+00:00
+
+
+
+## NDA to fight Bihar polls under Nitish Kumar, says Chirag Paswan
+ - [https://timesofindia.indiatimes.com/india/nda-to-fight-bihar-polls-under-nitish-kumar-says-chirag-paswan/articleshow/111387212.cms](https://timesofindia.indiatimes.com/india/nda-to-fight-bihar-polls-under-nitish-kumar-says-chirag-paswan/articleshow/111387212.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T19:47:07+00:00
+
+
+
+## Cops to move SC against Porsche teen's release from detention
+ - [https://timesofindia.indiatimes.com/india/cops-to-move-sc-against-porsche-teens-release-from-detention/articleshow/111387185.cms](https://timesofindia.indiatimes.com/india/cops-to-move-sc-against-porsche-teens-release-from-detention/articleshow/111387185.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T19:43:05+00:00
+
+
+
+## 'Underworld culture': CPI's Kerala neta slams CPM for criminal 'links'
+ - [https://timesofindia.indiatimes.com/india/underworld-culture-cpis-kerala-neta-slams-cpm-for-criminal-links/articleshow/111387181.cms](https://timesofindia.indiatimes.com/india/underworld-culture-cpis-kerala-neta-slams-cpm-for-criminal-links/articleshow/111387181.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T19:40:00+00:00
+
+
+
+## India joins UN's Doha meet on Afghanistan attended by Taliban
+ - [https://timesofindia.indiatimes.com/india/india-joins-uns-doha-meet-on-afghanistan-attended-by-taliban/articleshow/111387173.cms](https://timesofindia.indiatimes.com/india/india-joins-uns-doha-meet-on-afghanistan-attended-by-taliban/articleshow/111387173.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T19:34:06+00:00
+
+India is among 25 countries attending the third UN-led conference on Afghanistan in Doha, focusing on improving lives in Taliban-ruled Afghanistan. India is represented by MEA official J P Singh. The UN denies the talks aim to recognize the Taliban. Criticized for excluding Afghan women, the conference includes the EU, OIC, and SCO. India emphasizes its economic and security interests, combating terrorism, and supporting humanitarian aid, investing over $3 billion in 500 Afghan projects.
+
+## Hazaribag coaching centre head, teacher under CBI's NEET scanner
+ - [https://timesofindia.indiatimes.com/india/hazaribag-coaching-centre-head-teacher-under-cbis-neet-scanner/articleshow/111387160.cms](https://timesofindia.indiatimes.com/india/hazaribag-coaching-centre-head-teacher-under-cbis-neet-scanner/articleshow/111387160.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T19:30:05+00:00
+
+The Central Bureau of Investigation (CBI) is probing a NEET-UG paper leak, shifting focus to collaborators beyond the three arrested suspects. A coaching centre director and teacher in Hazaribag are under scrutiny, with links to kingpin Sanjiv Mukhiya. Multiple coaching centres and students are being investigated. Evidence suggests a widespread racket in Hazaribag, involving leaks in various competitive exams. The CBI aims to uncover the conspiracy's full extent, including possible UGC-NET involvement.
+
+## Waterfall trip turns tragic as 5 drown near Lonavala dam
+ - [https://timesofindia.indiatimes.com/india/waterfall-trip-turns-tragic-as-5-drown-near-lonavala-dam/articleshow/111387136.cms](https://timesofindia.indiatimes.com/india/waterfall-trip-turns-tragic-as-5-drown-near-lonavala-dam/articleshow/111387136.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T19:21:07+00:00
+
+
+
+## Lanka registers protest with India for death of navy sailor
+ - [https://timesofindia.indiatimes.com/india/lanka-registers-protest-with-india-for-death-of-navy-sailor/articleshow/111387111.cms](https://timesofindia.indiatimes.com/india/lanka-registers-protest-with-india-for-death-of-navy-sailor/articleshow/111387111.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T19:18:31+00:00
+
+
+
+## 2nd Navy officer held for Korean visa racket, suspected to be kingpin
+ - [https://timesofindia.indiatimes.com/india/second-navy-officer-held-for-korean-visa-racket-suspected-to-be-kingpin/articleshow/111387074.cms](https://timesofindia.indiatimes.com/india/second-navy-officer-held-for-korean-visa-racket-suspected-to-be-kingpin/articleshow/111387074.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T19:12:22+00:00
+
+Mumbai police have arrested Sub-Lt Braham Jyoti and Simran Teji, key figures in a human smuggling racket to South Korea, along with three others. Using forged documents, they sent people abroad, primarily from J&amp;K. The racket was exposed after a complaint from South Korea's consulate in Mumbai. Police seized 14 passports, fake stamps, documents of fictitious companies, and bank accounts holding over Rs 2 crore. The accused, including another naval officer, are in custody until July 5 and face multiple charges.
+
+## NIA search in Rajouri over Reasi pilgrim bus attack
+ - [https://timesofindia.indiatimes.com/india/nia-search-in-rajouri-over-reasi-pilgrim-bus-attack/articleshow/111386883.cms](https://timesofindia.indiatimes.com/india/nia-search-in-rajouri-over-reasi-pilgrim-bus-attack/articleshow/111386883.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T18:33:19+00:00
+
+
+
+## J&K temple vandalised, 12 detained
+ - [https://timesofindia.indiatimes.com/india/jk-temple-vandalised-12-detained/articleshow/111386784.cms](https://timesofindia.indiatimes.com/india/jk-temple-vandalised-12-detained/articleshow/111386784.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T18:29:43+00:00
+
+
+
+## Team India stuck in Barbados, World Champions' return disrupted due to Hurricane Beryl
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/team-india-stuck-in-barbados-world-champions-return-disrupted-due-to-hurricane-beryl/articleshow/111386174.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/team-india-stuck-in-barbados-world-champions-return-disrupted-due-to-hurricane-beryl/articleshow/111386174.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T17:36:04+00:00
+
+Indian cricket fans might have to wait a little longer to see their T20 World Cup-winning heroes back in the country as the Rohit Sharma-led side's travel plans have been impacted by a hurricane here. Reports said that hurricane Beryl, originating in the Atlantic, had intensified with maximum sustained winds of 210 kmph. The Category 4 hurricane was about 570km east-southeast of Barbados and there are reports that the airport in Bridgetown will shut in the evening.
+
+## Hemant Soren jailed for talking about marginalised: J'khand CM
+ - [https://timesofindia.indiatimes.com/india/bjp-will-never-allow-dalit-adivasi-supporters-to-live-in-peace-jharkhand-cm-champai-soren/articleshow/111386100.cms](https://timesofindia.indiatimes.com/india/bjp-will-never-allow-dalit-adivasi-supporters-to-live-in-peace-jharkhand-cm-champai-soren/articleshow/111386100.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T17:35:41+00:00
+
+Hemant Soren, a Jharkhand Mukti Morcha leader, vows to fight 'Manuvaadi' ideologies to secure a future aligned with the culture and civilization of the brave people of Jharkhand.
+
+## Yuvraj Singh calls Rohit Sharma 'No. 1 captain'
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-jaisa-banda-nahi-dekha-mohammad-kaif-yuvraj-singh-call-rohit-sharma-no-1-captain/articleshow/111386052.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-jaisa-banda-nahi-dekha-mohammad-kaif-yuvraj-singh-call-rohit-sharma-no-1-captain/articleshow/111386052.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T17:25:26+00:00
+
+Cricket fans across India came out onto the streets, waving the national flag and setting off firecrackers to celebrate the national team's seven-run win against South Africa in a gripping final of the Twenty20 World Cup on Saturday. It was India's second T20 World Cup but its first title in 13 years and the frustration had been building. Over the last 12 months, India lost the World Test Championship final and also the 50-over World Cup final at home.
+
+## Three new criminal laws coming into force on July 1: What it means
+ - [https://timesofindia.indiatimes.com/india/three-new-criminal-laws-coming-into-force-across-india-on-july-1-what-it-means/articleshow/111385520.cms](https://timesofindia.indiatimes.com/india/three-new-criminal-laws-coming-into-force-across-india-on-july-1-what-it-means/articleshow/111385520.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T16:51:07+00:00
+
+
+
+## Pakistan woman leader's video viral: 'Why don't you make eye contact'
+ - [https://timesofindia.indiatimes.com/world/pakistan/pakistan-woman-leaders-video-viral-why-dont-you-make-eye-contact/articleshow/111385624.cms](https://timesofindia.indiatimes.com/world/pakistan/pakistan-woman-leaders-video-viral-why-dont-you-make-eye-contact/articleshow/111385624.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T16:50:52+00:00
+
+"My party leaders have taught me to speak looking into the eyes. I can't continue speaking if you avoid eye contact like this. Wear your glasses, sir," Zartaj Gul told Speaker Ayaz Sadiq. "I am a leader. I have got 1.5 lakh votes. If you don't listen to me, I will not be able to speak to you," Zartaj Gul said.
+
+## India first nation to prepare full list of fauna: Why it matters
+ - [https://timesofindia.indiatimes.com/india/india-becomes-first-nation-to-prepare-full-list-of-fauna-why-it-matters/articleshow/111385277.cms](https://timesofindia.indiatimes.com/india/india-becomes-first-nation-to-prepare-full-list-of-fauna-why-it-matters/articleshow/111385277.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T16:17:04+00:00
+
+
+
+## 'This is how you retire in glory': Pakistan greats hail Virat Kohli, Rohit Sharma
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/this-is-how-you-retire-in-glory-pakistan-greats-hail-virat-kohli-rohit-sharma/articleshow/111384805.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/this-is-how-you-retire-in-glory-pakistan-greats-hail-virat-kohli-rohit-sharma/articleshow/111384805.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T15:07:07+00:00
+
+Numerous Pakistani cricketing legends, including Wasim Akram and Javed Miandad, commended the Indian duo of Virat Kohli and Rohit Sharma for their impeccable timing in announcing their retirement following the Indian team's victorious campaign at the recently concluded T20 World Cup. In a closely contested final held in Barbados, India showcased their prowess by outmaneuvering South Africa, securing a narrow seven-run victory to clinch their second T20 world championship title.
+
+## NIA arrests 2 men for 'radicalising' youngsters in TN
+ - [https://timesofindia.indiatimes.com/india/nia-arrests-2-men-for-radicalising-youngsters-in-tamil-nadu-promoting-indian-laws-as-anti-islamic/articleshow/111384413.cms](https://timesofindia.indiatimes.com/india/nia-arrests-2-men-for-radicalising-youngsters-in-tamil-nadu-promoting-indian-laws-as-anti-islamic/articleshow/111384413.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T14:37:16+00:00
+
+The National Investigation Agency (NIA) on Sunday arrested two men, associated with international pan-Islamist organisation Hizb-ut-Tahrir, for allegedly radicalising youngsters in Tamil Nadu. The duo, who were arrested following extensive searches at 10 locations in five districts of the southern state, are members of the Hizb-ut-Tahrir, an international pan-Islamist and fundamentalist organisation that is working to re-establish the Islamic caliphate and enforce the constitution written by the outfit's founder, Taqi al-Din al-Nabhani, the NIA said.
+
+## T20 World Cup win: BCCI's Jay Shah announces prize money of Rs 125 cr for Team India
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/team-india-to-get-rs-125-crore-for-winning-icc-t20-world-cup-2024-announces-jay-shah/articleshow/111384466.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/team-india-to-get-rs-125-crore-for-winning-icc-t20-world-cup-2024-announces-jay-shah/articleshow/111384466.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T14:31:08+00:00
+
+BCCI secretary Jay Shah on Sunday hailed India's epochal title win in the T20 World Cup, saying they have “silenced their critics” with an exceptional performance. India defeated South Africa by seven runs in a tense final at Bridgetown, Barbados, to land their second world title in the T20 format. The team's previous T20 World Cup triumph came in 2007 under the captaincy of the legendary Mahendra Singh Dhoni. Shah termed India's title win as “inspirational.”
+
+## Who is Manoj Singh, UP's new chief secy & crucial 'Team Yogi' member
+ - [https://timesofindia.indiatimes.com/india/who-is-manoj-kumar-singh-ups-new-chief-secretary-crucial-team-yogi-member/articleshow/111384053.cms](https://timesofindia.indiatimes.com/india/who-is-manoj-kumar-singh-ups-new-chief-secretary-crucial-team-yogi-member/articleshow/111384053.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T14:20:47+00:00
+
+As the new chief secretary of Uttar Pradesh appointed by Yogi Adityanath, I am dedicated to upholding integrity, tenacity, and a strong work ethic. With a focus on development projects and administrative experience, I aim to contribute to the state's progress and the well-being of its residents.
+
+## NEET-UG exam case: CBI arrests Godhra private school owner over 'malpractices'
+ - [https://timesofindia.indiatimes.com/india/neet-ug-exam-case-cbi-arrests-godhra-private-school-owner-over-malpractices/articleshow/111384270.cms](https://timesofindia.indiatimes.com/india/neet-ug-exam-case-cbi-arrests-godhra-private-school-owner-over-malpractices/articleshow/111384270.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T14:17:58+00:00
+
+The CBI arrested Dixit Patel, owner of Jay Jalaram School in Godhra, Gujarat, for alleged NEET-UG exam malpractices. Patel's arrest follows those of five others, including a journalist and officials from Oasis School in Hazaribagh, linked to a NEET paper leak. Patel allegedly demanded Rs 10 lakh to help candidates clear the test. The CBI continues its investigation to uncover the full extent of the malpractices.
+
+## Who is Sujata Saunik, Maha's first woman chief secretary
+ - [https://timesofindia.indiatimes.com/india/who-is-sujata-saunik-maharashtras-first-woman-chief-secretary/articleshow/111383386.cms](https://timesofindia.indiatimes.com/india/who-is-sujata-saunik-maharashtras-first-woman-chief-secretary/articleshow/111383386.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T13:34:50+00:00
+
+Sujata Saunik, the first woman chief secretary of Maharashtra, brings decades of expertise in public policy and governance, spanning from district to international assignments. Her one-year term will conclude in June next year, marking a significant milestone in the state's administrative history. ​​Her experience spans roles in the Indian Administrative Service and the United Nations, encompassing district, state, federal, and international assignments.​​
+
+## Shatrughan Sinha undergoes surgery: Top 5 entertainment news
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shatrughan-sinha-undergoes-minor-surgery-prabhas-kalki-2898-ad-breaks-record-of-srks-jawan-abhijeet-bhattacharya-will-sing-for-salman-khan-under-one-condition-top-5-entertainment-news-of-the-day/articleshow/111382532.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shatrughan-sinha-undergoes-minor-surgery-prabhas-kalki-2898-ad-breaks-record-of-srks-jawan-abhijeet-bhattacharya-will-sing-for-salman-khan-under-one-condition-top-5-entertainment-news-of-the-day/articleshow/111382532.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T13:30:00+00:00
+
+Welcome to your daily entertainment update! Today’s top 5 stories include Shatrughan Sinha's minor surgery, Prabhas's "Kalki 2898 AD" surpassing SRK's "Jawan," and Abhijeet Bhattacharya's conditions for singing for Salman Khan. Plus, Manisha Koirala's fangirl moment with Kamal Haasan and Luv Sinha's response to false online campaigns.
+
+## 'Cricket lovers admire your stylish stroke play': PM Modi lauds Jadeja
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/cricket-lovers-admire-your-stylish-stroke-play-pm-narendra-modi-lauds-ravindra-jadeja/articleshow/111383450.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/cricket-lovers-admire-your-stylish-stroke-play-pm-narendra-modi-lauds-ravindra-jadeja/articleshow/111383450.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T13:26:54+00:00
+
+After Rohit Sharma and Virat Kohli announced their T20 Internationals retirement in the aftermath of India winning 2024 Men’s T20 World Cup after beating South Africa by seven runs, left-arm spin all-rounder Ravindra Jadeja announced he is retiring from playing the shortest format of the game at the international level. As per his post on Instagram, Jadeja, who missed 2022 edition of the tournament due to a knee injury, wrote he will continue representing the country in ODIs &amp; Tests.
+
+## Wildfires rage across Greece amid scorching heatwave, forcing evacuations
+ - [https://timesofindia.indiatimes.com/world/europe/wildfires-rage-across-greece-amid-scorching-heatwave-forcing-evacuations/articleshow/111383346.cms](https://timesofindia.indiatimes.com/world/europe/wildfires-rage-across-greece-amid-scorching-heatwave-forcing-evacuations/articleshow/111383346.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T13:21:29+00:00
+
+A large wildfire broke out southeast of Athens on Sunday amid Greece's severe wildfire season. The blaze in the Keratea district quickly threatened residential areas. Emergency alerts prompted evacuations from six areas. Strong winds hindered firefighting efforts, with 140 firefighters, 39 vehicles, eight helicopters, and nine aircraft deployed. Prime Minister Kyriakos Mitsotakis warned of challenging times ahead, citing new prevention tools. Over 40 wildfires erupted across Greece, highlighting the growing threat of climate change-driven extreme weather.
+
+## 'Committed to releasing funds': TISS withdraws 'mass termination' notice
+ - [https://timesofindia.indiatimes.com/india/committed-to-releasing-funds-tiss-withdraws-controversial-notice-to-faculty-staff-members/articleshow/111383209.cms](https://timesofindia.indiatimes.com/india/committed-to-releasing-funds-tiss-withdraws-controversial-notice-to-faculty-staff-members/articleshow/111383209.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T13:08:06+00:00
+
+
+
+## IS-era bombs found hidden inside walls of al-Nouri Mosque
+ - [https://timesofindia.indiatimes.com/world/middle-east/five-is-era-bombs-found-hidden-inside-walls-of-mosuls-al-nouri-mosque/articleshow/111382428.cms](https://timesofindia.indiatimes.com/world/middle-east/five-is-era-bombs-found-hidden-inside-walls-of-mosuls-al-nouri-mosque/articleshow/111382428.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T12:38:36+00:00
+
+
+
+## 'Uncivilized country': Trump attacks Biden's immigration policies
+ - [https://timesofindia.indiatimes.com/world/us/were-uncivilized-country-now-trump-attacks-bidens-immigration-policies/articleshow/111381949.cms](https://timesofindia.indiatimes.com/world/us/were-uncivilized-country-now-trump-attacks-bidens-immigration-policies/articleshow/111381949.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T12:28:06+00:00
+
+In the 2024 Presidential debate, I highlighted the tragic murder of Jocelyn Nungaray by criminals who entered the US illegally, accusing Joe Biden of fostering xenophobia and ethnic hostility through his immigration policies.
+
+## 'Mamata is curse for women': BJP leader shares video of man thrashing woman publicly
+ - [https://timesofindia.indiatimes.com/india/mamata-banerjee-is-curse-for-women-bjp-leader-amit-malviya-shares-video-of-man-thrashing-woman-publicly-in-west-bengal-asks-cm-to-take-action/articleshow/111381982.cms](https://timesofindia.indiatimes.com/india/mamata-banerjee-is-curse-for-women-bjp-leader-amit-malviya-shares-video-of-man-thrashing-woman-publicly-in-west-bengal-asks-cm-to-take-action/articleshow/111381982.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T12:04:04+00:00
+
+The brutal assault on a woman by a local TMC leader during an 'Insaf Sabha' draws condemnation from political figures, highlighting concerns about women's safety and justice under the TMC regime in West Bengal. The assault, captured in the video, shows the woman being repeatedly struck until she is barely conscious and unable to resist. Shockingly, onlookers present at the scene do not intervene to help the victims. BJP's social media head Malviya condemned the incident, highlighting broader concerns about law and order under the TMC regime.
+
+## SEBEX 2: Navy tests powerful India-made explosive
+ - [https://timesofindia.indiatimes.com/india/indian-navy-successfully-tests-indigenously-developed-explosives-by-economic-explosives-limited/articleshow/111382128.cms](https://timesofindia.indiatimes.com/india/indian-navy-successfully-tests-indigenously-developed-explosives-by-economic-explosives-limited/articleshow/111382128.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T12:03:12+00:00
+
+Solar Industries' SEBEX 2 explosives have revolutionized the Indian Navy's arsenal, surpassing traditional solid explosives in potency and blast effect. This advancement underscores India's progress towards self-reliance in defense, with a focus on enhancing lethality and destructive power in our military capabilities.
+
+## Golden Days: When Sunil's selfless love & courage saved Nargis
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/golden-days-when-sunil-dutts-selfless-love-and-courage-saved-nargis-from-fire/articleshow/111382144.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/golden-days-when-sunil-dutts-selfless-love-and-courage-saved-nargis-from-fire/articleshow/111382144.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T12:01:34+00:00
+
+Nargis, an iconic figure in Indian cinema, is celebrated for her exceptional talent and beauty. Despite her flourishing career, her personal life was marked by turbulence, particularly due to her complex relationship with Raj Kapoor. Her true love story began when Sunil Dutt heroically saved her from a fire on the set of 'Mother India,' igniting a romance that would become legendary.
+
+## Delhi govt announces Rs 10L compensation for those killed in rains
+ - [https://timesofindia.indiatimes.com/city/delhi/delhi-government-announces-rs-10-lakh-compensation-for-kin-of-those-killed-in-rains/articleshow/111382124.cms](https://timesofindia.indiatimes.com/city/delhi/delhi-government-announces-rs-10-lakh-compensation-for-kin-of-those-killed-in-rains/articleshow/111382124.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T12:00:30+00:00
+
+
+
+## I draw inspiration from my Hindu faith: UK PM Rishi Sunak
+ - [https://timesofindia.indiatimes.com/world/uk/i-draw-inspiration-from-my-hindu-faith-uk-pm-rishi-sunak/articleshow/111381909.cms](https://timesofindia.indiatimes.com/world/uk/i-draw-inspiration-from-my-hindu-faith-uk-pm-rishi-sunak/articleshow/111381909.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T11:59:00+00:00
+
+
+
+## Space Pioneer says part of rocket crashed in central China during test
+ - [https://timesofindia.indiatimes.com/world/china/space-pioneer-says-part-of-rocket-crashed-in-central-china-during-test/articleshow/111382008.cms](https://timesofindia.indiatimes.com/world/china/space-pioneer-says-part-of-rocket-crashed-in-central-china-during-test/articleshow/111382008.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T11:53:35+00:00
+
+Beijing Tianbing Technology Co on Sunday announced that the initial phase of its Tianlong-3 rocket, currently in development detached from the launch pad and land in a hilly area of Gongyi in central China. According to Space Pioneer, this structural failure was experienced during testing.The Chinese company, formerly known as Beijing Tianbing, no casualties were reported following an initial investigation.
+
+## 'Like a steadfast horse ... ': Ravindra Jadeja announces retirement from T20Is
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/like-a-steadfast-horse-ravindra-jadeja-announces-retirement-from-t20is/articleshow/111381889.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/like-a-steadfast-horse-ravindra-jadeja-announces-retirement-from-t20is/articleshow/111381889.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T11:46:03+00:00
+
+In the aftermath of India's triumphant campaign at the ICC T20 World Cup 2024, where they emerged victorious against South Africa in a nail-biting final, Ravindra Jadeja made the announcement of his retirement from Twenty20 Internationals. This decision places him alongside Virat Kohli and Rohit Sharma, who also chose to bid farewell to the T20I format following the team's remarkable achievement. His retirement signifies the conclusion of a remarkable chapter in Indian cricket, as he leaves behind a trail of exceptional performances and unforgettable moments that have etched his name in the annals of T20I history.
+
+## List of records India scripted on their way to T20 World Cup glory
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/list-of-records-india-scripted-on-their-way-to-t20-world-cup-2024-glory/articleshow/111381619.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/list-of-records-india-scripted-on-their-way-to-t20-world-cup-2024-glory/articleshow/111381619.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T11:30:51+00:00
+
+The Indian cricket team's journey to reclaim the coveted trophy has been filled with near misses and heartbreaks over the years. The fans have witnessed their side come tantalizingly close to glory on multiple occasions, only to fall short at the final hurdle. However, this victory holds a special significance not only because of the prolonged wait but also due to the exceptional performance of the current squad throughout the tournament.
+
+## International Asteroid day: What happened on June 30, 1908?
+ - [https://timesofindia.indiatimes.com/home/science/international-asteroid-day-what-happened-on-june-30-1908-in-siberia-after-tunguska-asteroid-impact/articleshow/111381097.cms](https://timesofindia.indiatimes.com/home/science/international-asteroid-day-what-happened-on-june-30-1908-in-siberia-after-tunguska-asteroid-impact/articleshow/111381097.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T11:01:04+00:00
+
+International Asteroid Day, observed on June 30, commemorates the 1908 Tunguska event in Siberia, where an asteroid explosion flattened 830 square miles of forest. Established by the UN in 2016, this day raises awareness about asteroid impact threats and promotes planetary defense efforts. NASA’s Planetary Defense Coordination Office (PDCO) monitors Near-Earth Objects and develops mitigation technologies. The successful Double Asteroid Redirection Test (DART) mission demonstrated asteroid deflection, showcasing humanity’s ability to prevent potential future impacts.
+
+## Stormy Parliament session: BJP ready with war plan as INDIA bloc looks to corner it on NEET
+ - [https://timesofindia.indiatimes.com/india/stormy-parliament-session-as-india-bloc-looks-to-corner-bjp-on-neet-inflation-agnipath-nda-prepares-to-hit-back-what-to-expect-key-issues-strategy-bjp-congress-rahul-gandhi-pm-modi/articleshow/111379916.cms](https://timesofindia.indiatimes.com/india/stormy-parliament-session-as-india-bloc-looks-to-corner-bjp-on-neet-inflation-agnipath-nda-prepares-to-hit-back-what-to-expect-key-issues-strategy-bjp-congress-rahul-gandhi-pm-modi/articleshow/111379916.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T10:50:47+00:00
+
+
+
+## 'You're an old man now': Longtime friend urges Biden to withdraw from US prez race
+ - [https://timesofindia.indiatimes.com/world/us/joe-bidens-longtime-friend-jay-parini-urges-him-to-withdraw-from-us-presidential-race-says-youre-an-old-man-now/articleshow/111380086.cms](https://timesofindia.indiatimes.com/world/us/joe-bidens-longtime-friend-jay-parini-urges-him-to-withdraw-from-us-presidential-race-says-youre-an-old-man-now/articleshow/111380086.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T10:46:43+00:00
+
+
+
+## 'Told crowd to behave...': Manjrekar on Pandya
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/told-crowd-to-behave-sanjay-manjrekar-makes-big-comment-on-hardik-pandya-after-indias-world-cup-triumph/articleshow/111380717.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/told-crowd-to-behave-sanjay-manjrekar-makes-big-comment-on-hardik-pandya-after-indias-world-cup-triumph/articleshow/111380717.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T10:33:32+00:00
+
+When Sanjay Manjrekar schooled the Wankhede crowd to “behave” after they booed the newly-appointed Mumbai Indians skipper Hardik Pandya, all he wanted was the public to realise that their boorish behaviour targeting a “big stage player”, was unfair. Pandya was jeered at every venue after he was handed captaincy by MI, signalling a controversial end to the successful and popular Rohit Sharma's tenure at the helm. Pandya played a major part in India's second T20 World Cup trophy with 144 runs and 11 wickets, and Manjrekar now stands vindicated.
+
+## Did Meghan Markle spark the Harry-Beckham feud? How footballer got 'revenge'
+ - [https://timesofindia.indiatimes.com/world/uk/did-meghan-markle-spark-a-feud-shocking-revelations-about-prince-harry-and-david-beckhams-rift-in-new-book/articleshow/111379781.cms](https://timesofindia.indiatimes.com/world/uk/did-meghan-markle-spark-a-feud-shocking-revelations-about-prince-harry-and-david-beckhams-rift-in-new-book/articleshow/111379781.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T10:22:33+00:00
+
+A new book has revealed an alleged rift between Prince Harry and David Beckham, with Meghan Markle at the center of the controversy. The tell-all claims that the Duchess instructed Harry to "snub" David Beckham during the 2018 Invictus Games event, a move that reportedly deeply hurt the soccer star. The book also suggests that Beckham responded four years later in a way that may have left the Sussexes seething.
+
+## BJP jittery after my release from jail, says Hemant Soren
+ - [https://timesofindia.indiatimes.com/india/bjp-jittery-after-my-release-from-jail-top-party-leaders-conspiring-against-me-again-hemant-soren/articleshow/111380587.cms](https://timesofindia.indiatimes.com/india/bjp-jittery-after-my-release-from-jail-top-party-leaders-conspiring-against-me-again-hemant-soren/articleshow/111380587.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T10:21:14+00:00
+
+Hemant Soren faced allegations of illegal land deals and manipulation of records. His release marked a rebellion against feudal forces, supported by advocates and witnesses.
+
+## Nasa shares satellite images of world's most remote island
+ - [https://timesofindia.indiatimes.com/home/science/nasa-shares-satellite-images-of-worlds-most-remote-island-tristan-da-cunha/articleshow/111380254.cms](https://timesofindia.indiatimes.com/home/science/nasa-shares-satellite-images-of-worlds-most-remote-island-tristan-da-cunha/articleshow/111380254.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T10:03:44+00:00
+
+
+
+## BJP working against basic value of reservation: Akhilesh
+ - [https://timesofindia.indiatimes.com/india/bjp-working-against-basic-value-of-reservation-akhilesh-yadav/articleshow/111380115.cms](https://timesofindia.indiatimes.com/india/bjp-working-against-basic-value-of-reservation-akhilesh-yadav/articleshow/111380115.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T09:55:11+00:00
+
+The Samajwadi Party leader criticizes the BJP government for undermining reservation values and discriminating against marginalized communities. Lack of representation for Picchda, Dalit, and Alpasankhyak families in educational positions is highlighted, showcasing the government's alleged opposition to the interests of these marginalized groups.
+
+## Watch: Arshdeep takes off his WC medal, makes parents wear it
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-arshdeep-singh-takes-off-his-t20-world-cup-medal-and-heartwarmingly-makes-his-parents-wear-it/articleshow/111379932.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-arshdeep-singh-takes-off-his-t20-world-cup-medal-and-heartwarmingly-makes-his-parents-wear-it/articleshow/111379932.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T09:51:58+00:00
+
+To finish this T20 World Cup ahead of spearhead and 'Player of the Tournament' Jasprit Bumrah in the wickets column speaks volumes about the evolution of Arshdeep as India's premier left-arm pacer in the white-ball format. And he couldn't have celebrated that success in a better way than by playing a key role in India winning the T20 World Cup.
+
+## 1 dead as masked men open fire at wedding hall in France
+ - [https://timesofindia.indiatimes.com/world/europe/masked-gunmen-open-fire-at-wedding-hall-in-france-1-dead-5-injured/articleshow/111380050.cms](https://timesofindia.indiatimes.com/world/europe/masked-gunmen-open-fire-at-wedding-hall-in-france-1-dead-5-injured/articleshow/111380050.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T09:51:36+00:00
+
+
+
+## Step inside Balmoral: UK royals to open castle for public after 170 years
+ - [https://timesofindia.indiatimes.com/world/uk/step-inside-balmoral-uk-royals-to-open-castle-for-public-after-170-years/articleshow/111379613.cms](https://timesofindia.indiatimes.com/world/uk/step-inside-balmoral-uk-royals-to-open-castle-for-public-after-170-years/articleshow/111379613.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T09:43:20+00:00
+
+Balmoral Castle, a long-private royal retreat, is opening its doors to the public for the first time in 170 years. Visitors can explore historic rooms, including those redecorated by King Charles with the original Victorian style favored by Queen Victoria. Tickets, priced at £100-150 with afternoon tea, sold out quickly. This rare opportunity offers a glimpse into the royal family's cherished holiday home.
+
+## Watch: Avalanche hits mountains near Kedarnath shrine
+ - [https://timesofindia.indiatimes.com/india/avalanche-over-gandhi-sarovar-in-kedarnath-uttarakhand/articleshow/111379511.cms](https://timesofindia.indiatimes.com/india/avalanche-over-gandhi-sarovar-in-kedarnath-uttarakhand/articleshow/111379511.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T09:21:47+00:00
+
+
+
+## 428-yr-old document reveals secret of Queen Elizabeth I's spy network
+ - [https://timesofindia.indiatimes.com/world/uk/428-year-old-document-reveals-secret-of-queen-elizabeth-i-spy-network/articleshow/111378734.cms](https://timesofindia.indiatimes.com/world/uk/428-year-old-document-reveals-secret-of-queen-elizabeth-i-spy-network/articleshow/111378734.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T09:15:52+00:00
+
+Historian Stephen Alford's discovery of a 1596 document unveils an ancient espionage network led by Robert Cecil under Queen Elizabeth I, believing it to be the origin of the first English secret service. The 428-year-old dossier, titled "The names of the Intelligencers," reveals Cecil's covert operations to monitor European monarchs and safeguard the English throne. Alford has written a book on his discoveries titled "All His Spies: The Secret World of Robert Cecil," which is being published by Penguin.
+
+## Kejriwal arrested on instructions of Central govt: Sanjay Singh
+ - [https://timesofindia.indiatimes.com/india/arvind-kejriwal-arrested-on-instructions-of-central-govt-says-aap-mp-sanjay-singh/articleshow/111378662.cms](https://timesofindia.indiatimes.com/india/arvind-kejriwal-arrested-on-instructions-of-central-govt-says-aap-mp-sanjay-singh/articleshow/111378662.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T09:08:55+00:00
+
+The INDIA bloc plans a protest at Parliament on Monday against the central government's misuse of ED and CBI. The demonstration is a response to the arrest and judicial custody of Arvind Kejriwal, with parties of the INDIA alliance uniting against the perceived improper actions by the government.
+
+## Tendulkar pens heartfelt notes for Rohit & Virat
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sachin-tendulkar-pens-heartfelt-notes-for-rohit-sharma-and-virat-kohli/articleshow/111379134.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sachin-tendulkar-pens-heartfelt-notes-for-rohit-sharma-and-virat-kohli/articleshow/111379134.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T09:03:18+00:00
+
+Following India's thrilling seven-run victory against South Africa in Barbados on Saturday, which marked their second T20 World Cup triumph after a 17-year gap, batting legend Sachin Tendulkar penned an emotional social media message for Rohit Sharma and Virat Kohli. The duo had announced their retirement from T20Is after the team won the T20 World Cup.
+
+## India's T20 World Cup win hailed by Dhoni, Sachin, Gavaskar
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/indias-t20-world-cup-triumph-hailed-by-ms-dhoni-sachin-tendulkar-sunil-gavaskar/articleshow/111378783.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/indias-t20-world-cup-triumph-hailed-by-ms-dhoni-sachin-tendulkar-sunil-gavaskar/articleshow/111378783.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T08:33:06+00:00
+
+India's T20 World Cup victory is hailed by cricket legends and fans alike, showcasing the team's exceptional performance and leadership. The triumph under Rohit Sharma's captaincy reflects the nation's passion for cricket, inspiring a new generation of aspiring players to dream big.
+
+## In a first, North Korean officials seen wearing Kim Jong Un pins
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/in-a-first-north-korean-officials-seen-wearing-kim-jong-un-pins/articleshow/111378652.cms](https://timesofindia.indiatimes.com/world/rest-of-world/in-a-first-north-korean-officials-seen-wearing-kim-jong-un-pins/articleshow/111378652.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T08:31:27+00:00
+
+
+
+## Congress, Sena (UBT), NCP (SP) to contest Maharashtra polls together: Pawar
+ - [https://timesofindia.indiatimes.com/india/congress-shiv-sena-ubt-and-ncp-sp-to-contest-maharashtra-polls-together-pawar/articleshow/111378588.cms](https://timesofindia.indiatimes.com/india/congress-shiv-sena-ubt-and-ncp-sp-to-contest-maharashtra-polls-together-pawar/articleshow/111378588.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T08:18:26+00:00
+
+
+
+## Rishi Sunak discusses India's T20 win during visit to London temple
+ - [https://timesofindia.indiatimes.com/world/uk/rishi-sunak-akshata-murty-visit-neasden-temple-in-london-discuss-indias-t20-world-cup-victory-with-community-leaders/articleshow/111377877.cms](https://timesofindia.indiatimes.com/world/uk/rishi-sunak-akshata-murty-visit-neasden-temple-in-london-discuss-indias-t20-world-cup-victory-with-community-leaders/articleshow/111377877.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T08:14:03+00:00
+
+I aim to make Hindus, Jews, Muslims, Sikhs, and Jains feel at home in a secure future. The support from diverse communities and the UK's multi-faith democracy are crucial. As the first British Asian Prime Minister, I am committed to Conservative values and policies like tax cuts and education.
+
+## 'It's not really sinking...': Bumrah after India's T20 World Cup title win
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/its-not-really-sinking-jasprit-bumrah-after-indias-t20-world-cup-title-win-against-south-africa/articleshow/111378404.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/its-not-really-sinking-jasprit-bumrah-after-indias-t20-world-cup-title-win-against-south-africa/articleshow/111378404.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T08:04:39+00:00
+
+The emotional victory in the T20 World Cup was not just about cricket but also the personal connections and support that made it special. Jasprit Bumrah's performance, teamwork, and heartfelt moments with loved ones defined a memorable journey to success.
+
+## Who is Jordan Bardella, France's far-right leader eyeing PM post
+ - [https://timesofindia.indiatimes.com/world/europe/who-is-jordan-bardella-frances-far-right-leader-eyeing-pm-post/articleshow/111377656.cms](https://timesofindia.indiatimes.com/world/europe/who-is-jordan-bardella-frances-far-right-leader-eyeing-pm-post/articleshow/111377656.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T08:01:15+00:00
+
+Jordan Bardella, 28, and Marine Le Pen are vying for victory in France's snap parliamentary election called by President Macron after a defeat in the European elections. Bardella aims for a parliamentary majority, promising to reduce undocumented migration, boost purchasing power, and reform education. The RN has rebranded, distancing from past controversies to appeal to moderate voters.
+
+## What Melania Trump wants if Donald Trump becomes the President again
+ - [https://timesofindia.indiatimes.com/world/us/melania-is-not-ready-for-this-role-if-trump-returns-to-white-house/articleshow/111375880.cms](https://timesofindia.indiatimes.com/world/us/melania-is-not-ready-for-this-role-if-trump-returns-to-white-house/articleshow/111375880.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T07:57:05+00:00
+
+Republican presidential candidate Donald Trump's wife Melania Trump has reportedly made a deal with him regarding her role if he returns to the White House. According to a Trumpworld insider cited by Page Six, Melania will not be on first lady duty 24/7. It has been reported that Melania is planning to spend part of every month, likely every week, in New York City. This decision is linked to their son Barron Trump's expected university attendance in the city.
+
+## Mann Ki Baat returns: Top quotes from PM's monthly radio show
+ - [https://timesofindia.indiatimes.com/india/trust-reposed-in-constitution-democracy-during-polls-pm-in-mann-ki-baat/articleshow/111377712.cms](https://timesofindia.indiatimes.com/india/trust-reposed-in-constitution-democracy-during-polls-pm-in-mann-ki-baat/articleshow/111377712.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T07:47:11+00:00
+
+Prime Minister Narendra Modi resumed his monthly radio programme 'Mann ki Baat' on Sunday. He thanked the countrymen for their unwavering faith in the Constitution and the democratic system ahead of the Lok Sabha election 2024. The programme had been paused since the last broadcast on February 25 due to the elections. Addressing the nation, PM Modi expressed that he missed the conversation with the public since the February broadcast.
+
+## 'Papa won the World Cup': When Virat dialled home
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/papa-won-the-t20-world-cup-when-virat-kohli-dialled-home-after-indias-win/articleshow/111377578.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/papa-won-the-t20-world-cup-when-virat-kohli-dialled-home-after-indias-win/articleshow/111377578.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T07:15:19+00:00
+
+Virat Kohli couldn't hold back his tears when he dialled home soon after India won the T20 World Cup by beating South Africa in a pulsating final at the Kensington Oval in Bridgetown, Barbados, on Saturday. Kohli's knock of 76 off 59 balls, his best of the tournament and the only half-century, played a key role in India's win and made the moment even more special as he was being criticized for his continued failure in the group stage, 'Super 8s' and in the semifinal against England.
+
+## 'Grateful to call you...': Anushka Sharma's touching tribute to Virat Kohli
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/grateful-to-call-you-anushka-sharma-to-virat-kohli-after-indias-t20-world-cup-title-victory-against-south-africa/articleshow/111377641.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/grateful-to-call-you-anushka-sharma-to-virat-kohli-after-indias-t20-world-cup-title-victory-against-south-africa/articleshow/111377641.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T07:12:39+00:00
+
+Anushka Sharma's emotional tribute to Virat Kohli after India's T20 World Cup victory, celebrating his retirement from T20 Internationals. She praises Team India's achievement and reveals her children's heartwarming reaction. The couple tied the knot in 2017.
+
+## Venkaiah Naidu's biography would inspire people: PM Modi
+ - [https://timesofindia.indiatimes.com/india/venkaiah-naidus-biography-would-inspire-people-pm-modi-at-books-launch-on-former-vp/articleshow/111377472.cms](https://timesofindia.indiatimes.com/india/venkaiah-naidus-biography-would-inspire-people-pm-modi-at-books-launch-on-former-vp/articleshow/111377472.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T07:03:14+00:00
+
+
+
+## General Upendra Dwivedi takes charge as the 30th Army chief
+ - [https://timesofindia.indiatimes.com/india/general-upendra-dwivedi-takes-charge-as-new-army-chief/articleshow/111377378.cms](https://timesofindia.indiatimes.com/india/general-upendra-dwivedi-takes-charge-as-new-army-chief/articleshow/111377378.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T06:57:32+00:00
+
+
+
+## On cam: Residents forced to use boats for commute in UP
+ - [https://timesofindia.indiatimes.com/city/lucknow/on-cam-severe-waterlogging-forces-residents-to-use-boats-for-commute-in-up/articleshow/111377190.cms](https://timesofindia.indiatimes.com/city/lucknow/on-cam-severe-waterlogging-forces-residents-to-use-boats-for-commute-in-up/articleshow/111377190.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T06:50:12+00:00
+
+The IMD forecasted the southwest monsoon's progress into specific regions by a set date, detailing the current conditions and expected expansion. The updates included warnings of heavy rainfall in various parts of the country, emphasizing the need for preparedness and caution against potential waterlogging and related challenges.
+
+## 'Even I don't know': Rohit on how to describe Bumrah's performances
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/even-i-dont-know-rohit-sharma-on-how-to-describe-class-act-jasprit-bumrahs-phenomenal-performances/articleshow/111376545.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/even-i-dont-know-rohit-sharma-on-how-to-describe-class-act-jasprit-bumrahs-phenomenal-performances/articleshow/111376545.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T06:44:02+00:00
+
+Our victory in the T20 World Cup final was a result of exceptional teamwork and individual brilliance. From the bowlers' crucial role to the unwavering support of fans, every element played a part in our success. The journey from New York to Barbados culminated in a historic win, ending an 11-year wait for the ICC trophy.
+
+## Video: Israeli man's car set on fire after he enters Palestinian territory
+ - [https://timesofindia.indiatimes.com/world/middle-east/video-shows-israeli-drivers-car-set-on-fire-after-he-mistakenly-enters-palestinian-territory/articleshow/111376518.cms](https://timesofindia.indiatimes.com/world/middle-east/video-shows-israeli-drivers-car-set-on-fire-after-he-mistakenly-enters-palestinian-territory/articleshow/111376518.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T06:29:15+00:00
+
+Amidst violence in the West Bank, I encountered armed confrontations after my car was torched by locals, reflecting the aftermath of the Gaza conflict and Israel's control seizure. Video footage circulated on social media footage shows a group of Palestinians pursuing the vehicle and pelting it with rocks, The Times of Israel reported.
+
+## Watch: Emotional Rohit eats a speck of soil from Barbados pitch
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-rohit-sharma-does-a-djokovic-eats-a-speck-of-soil-from-barbados-pitch-after-india-won-the-t20-world-cup/articleshow/111376770.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-rohit-sharma-does-a-djokovic-eats-a-speck-of-soil-from-barbados-pitch-after-india-won-the-t20-world-cup/articleshow/111376770.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T06:25:40+00:00
+
+Rohit Sharma marked his last appearance in a T20I with a World Cup triumph in the format as he led India to a thrilling seven-run win over South Africa in the final on Saturday in Barbados. While Rohit announced his retirement from T20s in the international arena, he tried to made the moment memorable in a unique way, reminding of tennis legend Novak Djokovic. The moment was captured in a video that has gone viral on social media.
+
+## RBI warns banks of ‘credible threat intelligence’ regarding cyberattacks
+ - [https://timesofindia.indiatimes.com/business/india-business/banks-put-on-alert-rbi-warns-banks-of-credible-threat-intelligence-regarding-cyberattacks/articleshow/111375796.cms](https://timesofindia.indiatimes.com/business/india-business/banks-put-on-alert-rbi-warns-banks-of-credible-threat-intelligence-regarding-cyberattacks/articleshow/111375796.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T06:22:35+00:00
+
+Banks have been asked to enhance surveillance to guard against cyber threats, monitor critical payment systems, and strengthen defences with controls against DDoS attacks.
+
+## 'Next week I will be unemployed': Dravid shows his humorous side
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/next-week-i-will-be-unemployed-coach-rahul-dravid-shows-his-humorous-side-as-he-bids-adieu-with-t20-world-cup-triumph/articleshow/111375897.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/next-week-i-will-be-unemployed-coach-rahul-dravid-shows-his-humorous-side-as-he-bids-adieu-with-t20-world-cup-triumph/articleshow/111375897.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T05:41:25+00:00
+
+Rahul Dravid expressed immense pride after winning the T20 World Cup title with a seven-run victory over South Africa, ending an 11-year ICC title drought. Dravid praised his team's perseverance and belief under tough conditions, despite losing three wickets in the first six overs. He felt short of words over the last few hours.
+
+## Rohit's walk to receive T20 WC trophy planned by...
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-sharmas-unique-walk-to-receive-the-t20-world-cup-trophy-was-planned-by-/articleshow/111376113.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-sharmas-unique-walk-to-receive-the-t20-world-cup-trophy-was-planned-by-/articleshow/111376113.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T05:36:06+00:00
+
+A video circulating on social media has revealed that India spinner Kuldeep Yadav was the mastermind behind Rohit Sharma's distinctive walk to the stage during the T20 World Cup trophy presentation ceremony. While many fans drew comparisons between Rohit's approach and Argentina legend Lionel Messi's iconic reception of the FIFA World Cup in Qatar, it was Kuldeep who orchestrated the moment and even demonstrated the walk to Rohit shortly before he was called upon on stage.
+
+## 'Kalki 2898 AD': Prabhas and Deepika starrer earns Rs 67cr on day 3
+ - [https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/kalki-2898-ad-box-office-collection-day-3-prabhas-and-deepika-padukone-starrer-earns-rs-67-crore/articleshow/111375759.cms](https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/kalki-2898-ad-box-office-collection-day-3-prabhas-and-deepika-padukone-starrer-earns-rs-67-crore/articleshow/111375759.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T05:11:25+00:00
+
+The film's massive success led to a sequel confirmation by Ashwini Dutt, focusing on Kamal Haasan's battle against Amitabh Bachchan and Prabhas, with shooting 60% complete.
+
+## PM Modi speaks to Indian team, lauds cricketers after T20 WC win
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pm-narendra-modi-speaks-to-indian-team-lauds-cricketers-after-t20-world-cup-win/articleshow/111375522.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pm-narendra-modi-speaks-to-indian-team-lauds-cricketers-after-t20-world-cup-win/articleshow/111375522.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T04:55:58+00:00
+
+Prime Minister Narendra Modi congratulated the Indian cricket team on their victory in the ICC T20 World Cup 2024, expressing the pride of 140 crore Indians. Modi praised Rohit Sharma for captaincy and Virat Kohli for final performance, acknowledged Hardik Pandya's effort, appreciated Suryakumar Yadav's catch, and acknowledged Jaspreet Bumrah's contribution.
+
+## Former Andhra CM YS Rajasekhara Reddy’s statue set on fire
+ - [https://timesofindia.indiatimes.com/city/vijayawada/former-andhra-cm-ys-rajasekhara-reddys-statue-set-on-fire-by-miscreants/articleshow/111375641.cms](https://timesofindia.indiatimes.com/city/vijayawada/former-andhra-cm-ys-rajasekhara-reddys-statue-set-on-fire-by-miscreants/articleshow/111375641.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T04:52:00+00:00
+
+YS Rajasekhara Reddy's statue was set ablaze in Addepalle village, prompting concern from APCC chief YS Sharmila. The vandalism incidents led to increased security measures by officials. YSR's enduring popularity is attributed to his impactful welfare schemes and the ongoing efforts to address the vandalism cases.
+
+## Top 5 tax-saving FDs: Which banks offer high interest rates? Check list
+ - [https://timesofindia.indiatimes.com/business/financial-literacy/savings/top-5-tax-saving-bank-fds-which-banks-offer-high-interest-rates-how-much-will-your-money-grow-check-list/articleshow/111375469.cms](https://timesofindia.indiatimes.com/business/financial-literacy/savings/top-5-tax-saving-bank-fds-which-banks-offer-high-interest-rates-how-much-will-your-money-grow-check-list/articleshow/111375469.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T04:50:02+00:00
+
+Top 5 tax-saving bank FDs: When choosing a bank for a tax-saving FD, it is essential to compare interest rates offered by different banks rather than simply opting for the bank where you have a savings account.
+
+## Warren Buffett reveals what happens to his money after death
+ - [https://timesofindia.indiatimes.com/world/us/warren-buffett-donates-5-3-billion-berkshire-shares-to-gates-foundation/articleshow/111374995.cms](https://timesofindia.indiatimes.com/world/us/warren-buffett-donates-5-3-billion-berkshire-shares-to-gates-foundation/articleshow/111374995.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T04:46:26+00:00
+
+
+
+## Hardik Pandya: 'Just a boy from Baroda living his dream'
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hardik-pandya-just-a-boy-from-baroda-living-his-dream/articleshow/111375383.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hardik-pandya-just-a-boy-from-baroda-living-his-dream/articleshow/111375383.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T04:44:43+00:00
+
+Hardik Pandya, the allrounder, had faced numerous challenges in his personal and professional life leading up to the T20 World Cup. However, he chose the perfect moment to put those difficulties behind him by delivering a match-winning performance for India, which secured the team its second T20 World Cup title. As the vice-captain, Pandya showcased his best bowling form in the final against South Africa on Saturday in Barbados, claiming 3 wickets for just 20 runs.
+
+## T20 World Cup final: Virat Kohli saves his best for last
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-virat-kohli-saves-his-best-for-last/articleshow/111375187.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-virat-kohli-saves-his-best-for-last/articleshow/111375187.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T04:16:49+00:00
+
+Virat Kohli's retirement from T20 cricket marks the end of an era as he passes the baton to the younger generation, leaving a legacy of resilience and success. His stellar performance in the World Cup final solidified his reputation as a cricket legend.
+
+## Sonakshi Sinha-Zaheer Iqbal, Shah Rukh Khan-Gauri Khan, Katrina Kaif-Vicky Kaushal: What makes Bollywood marriages so secular?
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-zaheer-iqbal-shah-rukh-khan-gauri-khan-katrina-kaif-vicky-kaushal-what-makes-bollywood-marriages-so-secular/articleshow/111374846.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-zaheer-iqbal-shah-rukh-khan-gauri-khan-katrina-kaif-vicky-kaushal-what-makes-bollywood-marriages-so-secular/articleshow/111374846.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T03:58:17+00:00
+
+In India they say, you don't marry a boy/girl, you marry an entire family. And, our Bollywood couples have made sure that interfaith or not, they not only get along with their in-laws, but that there is a lot of mutual respect and love
+
+## Relive 'the catch' by Kapil Dev from 1983 after Surya's magical grab
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/relive-the-catch-by-kapil-dev-from-1983-world-cup-final-as-suryakumar-yadavs-magical-grab-mesmerizes-the-world-watch/articleshow/111374651.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/relive-the-catch-by-kapil-dev-from-1983-world-cup-final-as-suryakumar-yadavs-magical-grab-mesmerizes-the-world-watch/articleshow/111374651.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T03:53:32+00:00
+
+India's triumph in the ICC T20 World Cup in Barbados evoked memories of the 1983 ODI World Cup win, which ignited a cricket revolution in the country. The underdog Indian team, led by Kapil Dev, defeated the West Indies, a legendary moment in cricket history. Suryakumar Yadav's stunning catch in the final against South Africa further impacted Indian fans.
+
+## Hizb-ut-Tahrir case: NIA conducts searches at 10 locations in TN
+ - [https://timesofindia.indiatimes.com/city/chennai/hizb-ut-tahrir-case-nia-conducts-searches-at-10-locations-in-tamil-nadu/articleshow/111374888.cms](https://timesofindia.indiatimes.com/city/chennai/hizb-ut-tahrir-case-nia-conducts-searches-at-10-locations-in-tamil-nadu/articleshow/111374888.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T03:51:23+00:00
+
+The NIA is conducting searches in Tamil Nadu in connection with the Hizb-ut-Tahrir case. The operation includes locations in Erode district, with ongoing raids and further information awaited.
+
+## I'll miss Rohit as a person, not his cricket: Dravid
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-will-miss-rohit-sharma-as-a-person-not-his-cricket-says-rahul-dravid-after-indias-t20-world-cup-triumph/articleshow/111374750.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-will-miss-rohit-sharma-as-a-person-not-his-cricket-says-rahul-dravid-after-indias-t20-world-cup-triumph/articleshow/111374750.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T03:40:12+00:00
+
+India's famous T20 World Cup triumph in Barbados on Saturday also marked the end of Rahul Dravid's term as the head coach. Dravid, who has had an illustrious career both as a player and as a coach, was given a memorable farewell by the team in the form of a maiden World Cup trophy of his cricketing career.
+
+## T20 World Cup final: How India snatched victory from the jaws of defeat
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-how-india-snatched-victory-from-the-jaws-of-defeat-against-south-africa/articleshow/111374771.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-how-india-snatched-victory-from-the-jaws-of-defeat-against-south-africa/articleshow/111374771.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T03:36:20+00:00
+
+In lifting the T20 World Cup after 17 long years, India gave Virat Kohli the ultimate T20 farewell as he announced his retirement from the format while accepting the Man of the Match award. There can be a million moments that you'll keep talking about all your lives, but the one that will never be forgotten is Suryakumar Yadav's outstanding catch off the first ball of the 20th over.
+
+## First time: Two classmates to be Army and Navy chiefs together
+ - [https://timesofindia.indiatimes.com/india/first-time-in-indian-military-history-two-classmates-to-be-army-and-navy-chiefs-together/articleshow/111374016.cms](https://timesofindia.indiatimes.com/india/first-time-in-indian-military-history-two-classmates-to-be-army-and-navy-chiefs-together/articleshow/111374016.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T03:29:55+00:00
+
+The Indian Army and Navy Chiefs, Lieutenant General Upendra Dwivedi and Admiral Dinesh Tripathi, share a unique bond from Sainik School in Rewa, symbolizing the strong camaraderie among senior military leaders. Their historic appointments highlight the significance of nurturing future leaders from a young age for the Indian military.
+
+## Bhangra in Barbados: Virat & Arshdeep let it rip - watch
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-when-the-punjabis-in-virat-kohli-and-arshdeep-singh-came-out-to-celebrate-t20-world-cup-win/articleshow/111374309.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-when-the-punjabis-in-virat-kohli-and-arshdeep-singh-came-out-to-celebrate-t20-world-cup-win/articleshow/111374309.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T03:01:52+00:00
+
+As the victorious Team India team celebrated their thrilling seven-run triumph over South Africa in the final on Saturday in Barbados, two of the match's standout performers showcased their bhangra skills. Virat Kohli, who led India's batting charge with a brilliant 76 off 59 balls, saved his best performance for the crucial final. Arshdeep Singh also played a pivotal role in India's success, delivering a game-changing four-over spell that yielded two wickets for just 20 runs.
+
+## Drink in front of family: MP minister's deaddiction advice
+ - [https://timesofindia.indiatimes.com/city/bhopal/drink-in-front-of-family-mp-minister-narayan-singh-kushwahas-deaddiction-advice/articleshow/111374276.cms](https://timesofindia.indiatimes.com/city/bhopal/drink-in-front-of-family-mp-minister-narayan-singh-kushwahas-deaddiction-advice/articleshow/111374276.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T02:49:55+00:00
+
+Encouraging men to drink at home in front of family to reduce alcohol consumption and foster shame around public drinking can support addiction recovery and promote healthier lifestyles for a prosperous, drug-free society in India.
+
+## 50k doses of semen & counting: Meet UP’s elite breeder bull
+ - [https://timesofindia.indiatimes.com/city/lucknow/50k-doses-of-semen-counting-meet-ups-elite-breeder-bull/articleshow/111374226.cms](https://timesofindia.indiatimes.com/city/lucknow/50k-doses-of-semen-counting-meet-ups-elite-breeder-bull/articleshow/111374226.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T02:44:20+00:00
+
+Gorakh, the pioneering Gangatiri bull at the Hapur farm in Uttar Pradesh, plays a crucial role in conserving and propagating the indigenous breed. With over 50,000 doses of semen contributed, Gorakh undergoes rigorous training and collection procedures, meeting strict standards set by experts like Dr. Neeraj Gupta. His parentage verified, Gorakh's semen is used in advanced breeding techniques like embryo transfer technology and IVF to enhance the Gangatiri cow population.
+
+## How rain exposed fragile infra at Rajkot International Airport
+ - [https://timesofindia.indiatimes.com/city/rajkot/rain-exposes-fragile-infra-at-rajkot-international-airport/articleshow/111374225.cms](https://timesofindia.indiatimes.com/city/rajkot/rain-exposes-fragile-infra-at-rajkot-international-airport/articleshow/111374225.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T02:41:39+00:00
+
+Rajkot International Airport, with flights to key destinations, handles thousands of passengers daily. Despite construction delays, the airport's significance in regional air travel is evident through its operational efficiency and passenger traffic.
+
+## Youtuber's souvenir shop at Chennai airport used for 267kg gold haul
+ - [https://timesofindia.indiatimes.com/city/chennai/youtubers-souvenir-shop-at-chennai-airport-used-for-267kg-gold-haul-worth-rs-167-crore-9-arrested/articleshow/111374223.cms](https://timesofindia.indiatimes.com/city/chennai/youtubers-souvenir-shop-at-chennai-airport-used-for-267kg-gold-haul-worth-rs-167-crore-9-arrested/articleshow/111374223.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T02:41:26+00:00
+
+A sophisticated gold smuggling network operated at Chennai airport, involving identity verification, intricate gold concealment techniques, and international collaboration among syndicates.
+
+## T20 World Cup: How the thrilling final swung in India's favour
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-how-the-thrilling-match-against-south-africa-swung-in-indias-favour/articleshow/111374222.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-final-how-the-thrilling-match-against-south-africa-swung-in-indias-favour/articleshow/111374222.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T02:41:13+00:00
+
+17 years after winning the 1st T20 World Cup, 13 years after winning their 2nd ODI World Cup, and after 2 heartbreaking losses in the World Test Championship and ODI World Cup finals in 2023, India finally ended their title drought, edging out South Africa by 7 runs in a thriller that went down to the last over.
+
+## Killer pits: Girl, 14, tries to save drowning cousin in UP; both die
+ - [https://timesofindia.indiatimes.com/city/bareilly/killer-pits-girl-14-tries-to-save-drowning-cousin-in-up-both-die/articleshow/111374182.cms](https://timesofindia.indiatimes.com/city/bareilly/killer-pits-girl-14-tries-to-save-drowning-cousin-in-up-both-die/articleshow/111374182.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T02:37:03+00:00
+
+Tragedies like Mahreen and Abdul Qadir's drowning highlight the deadly consequences of unsecured pits in brick kilns, with many cases ending in out of court settlements.
+
+## After 6-year wait, 6-year-old undergoes surgery at AIIMS Delhi
+ - [https://timesofindia.indiatimes.com/city/delhi/after-6-year-wait-6-year-old-undergoes-surgery-at-aiims-delhi/articleshow/111374138.cms](https://timesofindia.indiatimes.com/city/delhi/after-6-year-wait-6-year-old-undergoes-surgery-at-aiims-delhi/articleshow/111374138.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T02:30:07+00:00
+
+After a long wait, Aayansh Kumar underwent successful heart surgery at AIIMS for Tetralogy of Fallot. The National Human Rights Commission intervened, and a hospital inquiry followed.
+
+## 'Best way to go': Legends praise Kohli as he retires from T20Is
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/the-best-way-to-go-west-indies-legends-praise-virat-kohli-as-he-retires-from-t20is/articleshow/111374088.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/the-best-way-to-go-west-indies-legends-praise-virat-kohli-as-he-retires-from-t20is/articleshow/111374088.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T02:29:53+00:00
+
+Chris Gayle and Ian Bishop congratulated the Indian team for winning the ICC T20 World Cup title, particularly Virat Kohli, who announced his retirement from T20Is. Virat Kohli, the second-highest T20I run-scorer with 4,188 runs, scored 76 off 59 balls in the final against South Africa, helping India reach 176/7.
+
+## Why Anand Mahindra ‘called’ ChatGPT after India’s World Cup win
+ - [https://timesofindia.indiatimes.com/technology/tech-news/why-anand-mahindra-called-chatgpt-after-indias-cricket-world-cup-win/articleshow/111374031.cms](https://timesofindia.indiatimes.com/technology/tech-news/why-anand-mahindra-called-chatgpt-after-indias-cricket-world-cup-win/articleshow/111374031.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T02:12:58+00:00
+
+India clinched the T20 World Cup title in a fierce battle against South Africa at Kensington Oval, with Virat Kohli's retirement announcement adding to the intensity of the match, showcasing the team's resilience and determination in securing the victory.
+
+## Watch - 'Yehi toh khel hai...': Rohit Sharma's hilarious reply
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/yehi-toh-khel-hai-rohit-sharmas-hilarious-reply-to-scribe-after-t20-world-cup-title-victory-against-south-africa-watch/articleshow/111373868.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/yehi-toh-khel-hai-rohit-sharmas-hilarious-reply-to-scribe-after-t20-world-cup-title-victory-against-south-africa-watch/articleshow/111373868.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T01:42:19+00:00
+
+After India's historic triumph against South Africa for the T20 World Cup title, a relieved and happy Rohit was addressing a press conference in Barbados with the trophy on his side. And a journalist asked the Indian captain if it was getting difficult for him to keep faith on goodness and whether good things happen to good people, whether it's Rohit himself or the team or Rahul Dravid.
+
+## Siblings kidnapped with car as parents go to buy sweets
+ - [https://timesofindia.indiatimes.com/city/delhi/delhi-siblings-kidnapped-with-car-as-parents-go-to-buy-sweets-rescued-after-3-hours/articleshow/111373836.cms](https://timesofindia.indiatimes.com/city/delhi/delhi-siblings-kidnapped-with-car-as-parents-go-to-buy-sweets-rescued-after-3-hours/articleshow/111373836.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T01:36:09+00:00
+
+Inspector Sanjay Gupta led the team using technical surveillance while the father maintained continuous phone contact with the kidnapper during the high-speed chase and rescue operation in Samaypur Badli.
+
+## 2nd batch of 4,029 pilgrims leave for Amarnath
+ - [https://timesofindia.indiatimes.com/india/2nd-batch-of-4029-pilgrims-leave-for-amarnath/articleshow/111373557.cms](https://timesofindia.indiatimes.com/india/2nd-batch-of-4029-pilgrims-leave-for-amarnath/articleshow/111373557.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T00:41:40+00:00
+
+
+
+## BJP to fight Haryana polls alone: Amit Shah
+ - [https://timesofindia.indiatimes.com/city/chandigarh/bjp-to-fight-haryana-polls-alone-under-saini-win-3rd-time-shah/articleshow/111373530.cms](https://timesofindia.indiatimes.com/city/chandigarh/bjp-to-fight-haryana-polls-alone-under-saini-win-3rd-time-shah/articleshow/111373530.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T00:38:13+00:00
+
+Amit Shah asserts BJP's readiness to contest Haryana polls independently, highlighting PM Modi's achievements. Shah appreciates key contributors and criticizes Congress leaders for corruption, emphasizing BJP's worker-centric approach.
+
+## Photographer ends life during Facebook live in Assam
+ - [https://timesofindia.indiatimes.com/city/guwahati/photographer-ends-life-on-facebook-live/articleshow/111373510.cms](https://timesofindia.indiatimes.com/city/guwahati/photographer-ends-life-on-facebook-live/articleshow/111373510.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T00:36:14+00:00
+
+Mrinmay Talukdar, a young photographer, tragically ended his life while live-streaming on Facebook. The incident took place in Bhaskar Nagar area, and depression may have played a role. The live-stream started around 3 pm, leaving behind a mystery regarding the reasons for the actions.
+
+## Watch: Virat Kohli and Rohit Sharma celebrate with India flag
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-virat-kohli-and-rohit-sharma-celebrate-with-india-flag-after-t20-world-cup-title-victory-against-south-africa/articleshow/111373473.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-virat-kohli-and-rohit-sharma-celebrate-with-india-flag-after-t20-world-cup-title-victory-against-south-africa/articleshow/111373473.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T00:30:46+00:00
+
+Soon after India's title victory, a video went viral that shows both Virat Kohli and Rohit Sharma celebrating with the Indian flag by wrapping the 'Tiranga' on their shoulders with Rohit also holding the T20 World Cup trophy. Virat Kohli and Rohit Sharma both announced their retirements from the shortest format of the game in international cricket. Having played in all nine editions of the shortest format, Rohit leaves a lasting legacy.
+
+## NEET-UG row: College student appeared as dummy candidate
+ - [https://timesofindia.indiatimes.com/city/jaipur/student-sat-in-neet-ug-as-dummy-to-support-family/articleshow/111373383.cms](https://timesofindia.indiatimes.com/city/jaipur/student-sat-in-neet-ug-as-dummy-to-support-family/articleshow/111373383.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-30T00:17:39+00:00
+
+A student from Jhalawar Govt Medical College was involved in a paper leak scam using dummy candidates to exploit reservation quotas in tribal regions, affecting recruitment exam fairness.
+

@@ -1,0 +1,23 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Aaron Brown, Audrey Leduc cap Olympic athletic trials as men's, women's 200-metre champs
+ - [https://www.cbc.ca/sports/olympics/summer/athletics/2024-canadian-olympic-track-and-field-trials-june-30-1.7251256?cmp=rss](https://www.cbc.ca/sports/olympics/summer/athletics/2024-canadian-olympic-track-and-field-trials-june-30-1.7251256?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-06-30T17:30:15+00:00
+
+<img alt="A runner crosses the finish line." height="349" src="https://i.cbc.ca/1.7251257.1719779258!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/oly-ath-canada-trials-20240630.JPG" title="Aaron Brown crosses the finish line ahead of Brendon Rodney as they compete in the 200m finals at the Canadian Track and Field Olympic trials in Montreal, Sunday, June 30, 2024. THE CANADIAN PRESS/Christinne Muschi" width="620" /><p>Aaron Brown and Audrey Leduc emerged as Canada's 200-metre champions at the Canadian Olympic track and field trials on Sunday in Montreal.</p>
+
+## 'Just blown away': N.S. fire department donates fire truck to Sask. community in need
+ - [https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-fire-department-donates-fire-truck-saskatchewan-1.7251115?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-fire-department-donates-fire-truck-saskatchewan-1.7251115?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-06-30T15:45:19+00:00
+
+<img alt="A fireman in uniform on board a fire truck." height="349" src="https://i.cbc.ca/1.7251193.1719772692!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/shinimicas-fire-chief-matthew-mundle.jpg" title="Shinimicas fire chief Matthew Mundle on the fire truck that is now making its way to Saskatchewan." width="620" /><p>When a fire chief in rural Nova Scotia came across a post about a fire department in rural Saskatchewan losing everything in a fire, he knew his department had to do something.</p>
+
+## Sheree Fertuck's murder illustrates Saskatchewan's deep-seated misogyny problem: expert
+ - [https://www.cbc.ca/news/canada/saskatoon/sheree-fertuck-greg-intimate-partner-violence-1.7249265?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/sheree-fertuck-greg-intimate-partner-violence-1.7249265?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-06-30T05:00:00+00:00
+
+<img alt="A woman wearing glasses and a white nike shirt looks off camera. She is smiling. " height="349" src="https://i.cbc.ca/1.6215984.1708545177!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sheree-fertuck.jpg" title="Sheree Fertuck&apos;s body has never been found." width="620" /><p>Greg Fertuck was found guilty of murdering his wife eight-and-a-half years after killing her in 2015. The murder was his final act of cruelty toward her, but it was far from the first.</p>
+
