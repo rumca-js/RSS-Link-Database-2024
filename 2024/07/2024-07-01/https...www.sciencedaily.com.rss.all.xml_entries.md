@@ -1,0 +1,58 @@
+# Source:Latest Science News -- ScienceDaily, URL:https://www.sciencedaily.com/rss/all.xml, language:en-us
+
+## Finding the sweet spot in brain development
+ - [https://www.sciencedaily.com/releases/2024/07/240701131822.htm](https://www.sciencedaily.com/releases/2024/07/240701131822.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-01T13:18:22+00:00
+
+Short-lived neural connections in the mouse brain help prime sensory circuits, forever affecting the mouse's sense of touch. Neuroscientists have discovered that a receptor protein named mGluR1 helps regulate the timing of these temporary connections. Their findings may help reveal the origins of various neurodevelopmental disorders and new ways of treating them.
+
+## Researchers identify unique survival strategies adopted by fish in the world's warmest waters
+ - [https://www.sciencedaily.com/releases/2024/07/240701131820.htm](https://www.sciencedaily.com/releases/2024/07/240701131820.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-01T13:18:20+00:00
+
+A team of researchers have identified unexpected ways coral reef fish living in the warmest waters on earth, in the Arabian Gulf, have adapted to survive extreme temperatures.
+
+## Portable engine powers artificial muscles in assistive devices
+ - [https://www.sciencedaily.com/releases/2024/07/240701131814.htm](https://www.sciencedaily.com/releases/2024/07/240701131814.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-01T13:18:14+00:00
+
+Researchers have developed a lightweight fluidic engine to power muscle-mimicking soft robots for use in assistive devices. What sets the new engine apart is its ability to generate significant force without being tethered to an external power source.
+
+## Degradation of cell wall key in the spread of antibiotic resistance
+ - [https://www.sciencedaily.com/releases/2024/07/240701131812.htm](https://www.sciencedaily.com/releases/2024/07/240701131812.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-01T13:18:12+00:00
+
+A study provides new clues in the understanding of how antibiotic resistance spreads. The study shows how an enzyme breaks down the bacteria's protective outer layer, the cell wall, and thus facilitates the transfer of genes for resistance to antibiotics.
+
+## Multiple myeloma: Early detection of aggressive tumors
+ - [https://www.sciencedaily.com/releases/2024/07/240701131804.htm](https://www.sciencedaily.com/releases/2024/07/240701131804.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-01T13:18:04+00:00
+
+Multiple myeloma is one of the most common forms of cancer of the immune cells in the bone marrow. It is considered incurable. Even when patients respond to treatment at first, the cancer comes back. To be able to intervene faster and on a more targeted basis, researchers completed a comprehensive study of this disease at the molecular level.
+
+## Largest ever genetic study of age of puberty in girls shows links with weight gain
+ - [https://www.sciencedaily.com/releases/2024/07/240701131723.htm](https://www.sciencedaily.com/releases/2024/07/240701131723.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-01T13:17:23+00:00
+
+Genes can indirectly influence the age at which girls have their first period by accelerating weight gain in childhood, a known risk factor for early puberty. Other genes can directly affect age of puberty, some with profound effects.
+
+## Sixty-million-year-old grape seeds reveal how the death of the dinosaurs may have paved the way for grapes to spread
+ - [https://www.sciencedaily.com/releases/2024/07/240701131719.htm](https://www.sciencedaily.com/releases/2024/07/240701131719.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-01T13:17:19+00:00
+
+Scientists discovered the oldest fossil grapes in the Western Hemisphere, which help show how after the death of the dinosaurs, grapes spread across the world.
+
+## Melanin from cuttlefish ink as a sustainable biomass resource
+ - [https://www.sciencedaily.com/releases/2024/07/240701130923.htm](https://www.sciencedaily.com/releases/2024/07/240701130923.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-01T13:09:23+00:00
+
+Melanin is a ubiquitous compound in nature, produced by many organisms. However, its potential as a biomass resource to produce value-added chemicals and materials remains relatively unexplored. In a recent study, researchers investigated the chemical decomposition of melanin derived from cuttlefish ink and showcased its application in the synthesis of biopolymer films and particles. Their efforts will hopefully pave the way to the adoption of melanin upcycling.
+
