@@ -1,0 +1,135 @@
+# Source:Latest Science News -- ScienceDaily, URL:https://www.sciencedaily.com/rss/all.xml, language:en-us
+
+## Optoelectronics gain spin control from chiral perovskites and III-V semiconductors
+ - [https://www.sciencedaily.com/releases/2024/07/240702135546.htm](https://www.sciencedaily.com/releases/2024/07/240702135546.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:55:46+00:00
+
+A research effort has made advances that could enable a broader range of currently unimagined optoelectronic devices.
+
+## Study explores what motivates people to watch footage of disasters and extreme weather
+ - [https://www.sciencedaily.com/releases/2024/07/240702135537.htm](https://www.sciencedaily.com/releases/2024/07/240702135537.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:55:37+00:00
+
+The release in July 2024 of the blockbuster film Twisters (centred around a social-media celebrity storm-chaser) demonstrates an ongoing public fascination in hazards and extreme weather. The arrival of camera and streaming technologies have made it easier to collect and share such footage in recent years, resulting in often dramatic footage being live-streamed on platforms such as YouTube, TikTok and Discord. Now, a new study has analyzed what might be motivating people to watch these streams -- in some instances for up to 12 hours at a time.
+
+## True scale of carbon impact from long-distance travel revealed
+ - [https://www.sciencedaily.com/releases/2024/07/240702135513.htm](https://www.sciencedaily.com/releases/2024/07/240702135513.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:55:13+00:00
+
+The reality of the climate impact of long-distance passenger travel has been revealed in new research.
+
+## Spotted apex predator being pressured by spotted pack hunters -- and it's our fault
+ - [https://www.sciencedaily.com/releases/2024/07/240702135451.htm](https://www.sciencedaily.com/releases/2024/07/240702135451.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:51+00:00
+
+Leopards, who are already in decline, can't keep up with hyenas when people are around. As we humans move into the their territories more and more, we are helping to disturb and unbalance ecosystems. This has been shown in a new study where researchers used camera traps to observe both large carnivore species.
+
+## Understanding the synchronization of physiological states during a live music performance
+ - [https://www.sciencedaily.com/releases/2024/07/240702135449.htm](https://www.sciencedaily.com/releases/2024/07/240702135449.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:49+00:00
+
+In a concert, members of the audience can respond emotionally to music, owing to their biological synchronization to the audio input. However, the mechanism underlying this biological response is unclear. Now, a pioneering study has found that music-induced heart-rate synchronization is highly correlated within an individual, compared to between two randomly selected individuals. It has been determined that individual differences in cognition reduce the consistency in physiological responses and affect synchronization.
+
+## Near chromosome-level genome of the Mojave poppy bee
+ - [https://www.sciencedaily.com/releases/2024/07/240702135447.htm](https://www.sciencedaily.com/releases/2024/07/240702135447.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:47+00:00
+
+Scientists have developed a near chromosome-level genome for the Mojave poppy bee, a specialist pollinator of conservation concern.
+
+## A new target for treatment of one type of macular degeneration
+ - [https://www.sciencedaily.com/releases/2024/07/240702135438.htm](https://www.sciencedaily.com/releases/2024/07/240702135438.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:38+00:00
+
+A new study in mice hints at the promise of an eventual alternative treatment option for the 'wet' version of age-related macular degeneration (AMD). Researchers determined in mice that an enzyme related to cell growth and division is a culprit in the blood vessel invasion in the back of the eye that causes blurred central vision in wet AMD. Targeting the enzyme, called telomerase, with an experimental drug suppressed abnormal vascular growth in the animals' retina.
+
+## Moving beyond the 80-year-old solar cell equation
+ - [https://www.sciencedaily.com/releases/2024/07/240702135436.htm](https://www.sciencedaily.com/releases/2024/07/240702135436.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:36+00:00
+
+Physicists have made a significant breakthrough in solar cell technology by developing a new analytical model that improves the understanding and efficiency of thin-film photovoltaic (PV) devices.
+
+## Too much treadmill? This could help your shin splints
+ - [https://www.sciencedaily.com/releases/2024/07/240702135432.htm](https://www.sciencedaily.com/releases/2024/07/240702135432.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:32+00:00
+
+Good news for all the treadmill runners who suffer from stubborn shin splints: A little outdoor gait training may help, new research suggests.
+
+## Implantable microphone could lead to fully internal cochlear implants
+ - [https://www.sciencedaily.com/releases/2024/07/240702135420.htm](https://www.sciencedaily.com/releases/2024/07/240702135420.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:20+00:00
+
+Researchers developed a prototype of an implantable microphone for a cochlear implant. Their device, which senses the movement of the ear drum in the inner ear, performed as well as commercial hearing aids and could someday enable a fully internalized cochlear implant.
+
+## Research shows how RNA 'junk' controls our genes
+ - [https://www.sciencedaily.com/releases/2024/07/240702135418.htm](https://www.sciencedaily.com/releases/2024/07/240702135418.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:18+00:00
+
+Researchers have made a significant advance in understanding how genes are controlled in living organisms. The new study focuses on critical snippets of RNA in the tiny, transparent roundworm Caenorhabditis elegans (C. elegans). The study provides a detailed map of the 3'UTR regions of RNA in C. elegans. 3'UTRs (untranslated regions) are segments of RNA involved in gene regulation.
+
+## Groundbreaking approach to sleep study expands potential of sleep medicine
+ - [https://www.sciencedaily.com/releases/2024/07/240702135417.htm](https://www.sciencedaily.com/releases/2024/07/240702135417.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:17+00:00
+
+Bye bye sleep lab: An engineer is redesigning sleep studies, so they can be done at home without all the cumbersome wires dangling all over your body. Instead, only two wires needed.
+
+## An ant that selectively amputates the infected limbs of wounded sisters
+ - [https://www.sciencedaily.com/releases/2024/07/240702135415.htm](https://www.sciencedaily.com/releases/2024/07/240702135415.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:15+00:00
+
+Saving lives through surgery is no longer exclusive to humans. Scientists now detail how Florida carpenter ants, a common, brown species native to its namesake, selectively treat the wounded limbs of fellow nestmates -- either by wound cleaning or amputation. When experimentally testing the effectiveness of these 'treatments,' not only did they aid in recovery, but the research team found the ants' choice of care catered to the type of injury presented to them.
+
+## Doctors could soon use facial temperature for early diagnosis of metabolic diseases
+ - [https://www.sciencedaily.com/releases/2024/07/240702135411.htm](https://www.sciencedaily.com/releases/2024/07/240702135411.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:11+00:00
+
+A colder nose and warmer cheeks may be a telltale sign of rising blood pressure. Researchers discovered that temperatures in different face regions are associated with various chronic illnesses, such as diabetes and high blood pressure. These temperature differences are not easily perceptible by one's own touch but can instead be identified using specific AI-derived spatial temperature patterns that require a thermal camera and a data-trained model. With further research, doctors could one day use this simple and non-invasive approach for early detection of diseases.
+
+## Engineered plasma cells show long-lasting antileukemic activity in mice
+ - [https://www.sciencedaily.com/releases/2024/07/240702135409.htm](https://www.sciencedaily.com/releases/2024/07/240702135409.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:09+00:00
+
+Researchers show for the first time that engineered human plasma B cells can be used to treat a disease -- specifically leukemia -- in a humanized animal model. The results mark a key step in the realization of ePCs as therapies to treat cancer, auto-immune disorders, and protein deficiency disorders.
+
+## Proteins and fats can drive insulin production for some, paving way for tailored nutrition
+ - [https://www.sciencedaily.com/releases/2024/07/240702135407.htm](https://www.sciencedaily.com/releases/2024/07/240702135407.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:07+00:00
+
+When it comes to managing blood sugar levels, most people think about counting carbs. But new research shows that, for some, it may be just as important to consider the proteins and fats in their diet. The study is the first large-scale comparison of how different people produce insulin in response to each of the three macronutrients: carbohydrates (glucose), proteins (amino acids) and fats (fatty acids). The findings reveal that production of the blood sugar-regulating hormone is much more dynamic and individualized than previously thought, while showing for the first time a subset of the population who are hyper-responsive to fatty foods.
+
+## Melting of Alaskan glaciers accelerating faster than previously thought
+ - [https://www.sciencedaily.com/releases/2024/07/240702135402.htm](https://www.sciencedaily.com/releases/2024/07/240702135402.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:54:02+00:00
+
+Melting of glaciers in a major Alaskan icefield has accelerated and could reach an irreversible tipping point earlier than previously thought. The research found that glacier loss on Juneau Icefield, which straddles the boundary between Alaska and British Columbia, Canada, has increased dramatically since 2010. The team looked at records going back to 1770 and identified three distinct periods in how icefield volume changed. In particular, they found that icefield-wide, rates of glacier area shrinkage were five times faster from 2015-2019 relative to 1948-1979. The research team say that current published projections for the Juneau icefield may need to be updated to reflect the processes detailed in this latest study.
+
+## Study illuminates cues algae use to 'listen' to their environment
+ - [https://www.sciencedaily.com/releases/2024/07/240702135021.htm](https://www.sciencedaily.com/releases/2024/07/240702135021.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:50:21+00:00
+
+New research shows how a small group of single-celled algae are able to use chemical cues to communicate stress information. Understanding this ability, once thought unique to plants, helps illuminate the complex evolutionary history of plants and algae.
+
+## How our brains develop facial recognition skills: New face-detecting brain circuit
+ - [https://www.sciencedaily.com/releases/2024/07/240702134503.htm](https://www.sciencedaily.com/releases/2024/07/240702134503.htm)
+ - RSS feed: https://www.sciencedaily.com/rss/all.xml
+ - date published: 2024-07-02T13:45:03+00:00
+
+Scientists have uncovered a brain circuit in primates that rapidly detects faces. The findings help not only explain how primates sense and recognize faces, but could also have implications for understanding conditions such as autism, where face detection and recognition are often impaired from early childhood.
+

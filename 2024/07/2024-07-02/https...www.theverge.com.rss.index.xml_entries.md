@@ -1,0 +1,213 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## This dual-screen laptop swings horizontally — and quotes the Whole Earth Catalog
+ - [https://www.theverge.com/2024/7/2/24191148/acemagic-x1-dual-screen-laptop](https://www.theverge.com/2024/7/2/24191148/acemagic-x1-dual-screen-laptop)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T22:57:41+00:00
+
+<figure>
+      <img alt="A laptop displayed from two different perspectives, one with a second screen folded around behind the main screen to act like a tablet, the other with it hanging off the side like a second monitor." src="https://cdn.vox-cdn.com/thumbor/7uGEDOA3cfPVTuHBUCSd-n8WJKs=/0x0:1524x1016/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73441084/5e884fbc_2dd2_4744_86d3_bd7ab9b65b4f.0.jpg" />
+        <figcaption><em>The Acemagic X1, a laptop with a side-folding second screen for multi-monitor use.</em> | Image: Acemagic</figcaption>
+    </figure>
+
+  <p id="Bn8Jq9">Ever since Razer <a href="https://www.theverge.com/ces/2017/1/5/14112686/razer-project-valerie-multi-monitor-gaming-laptop-concept">brought a triple-screen laptop to CES 2017</a> and promptly <a href="https://www.theverge.com/2017/1/9/14214568/razer-prototype-laptops-stolen-at-ces">got it stolen</a>, we’ve been <a href="https://www.theverge.com/2024/1/9/24031165/why-settle-for-one-laptop-screen-when-you-can-h
+
+## Apple’s Phil Schiller is reportedly joining OpenAI’s board
+ - [https://www.theverge.com/2024/7/2/24191105/apple-phil-schiller-join-openai-board](https://www.theverge.com/2024/7/2/24191105/apple-phil-schiller-join-openai-board)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T22:20:20+00:00
+
+<figure>
+      <img alt="Illustration depicting several Apple logos on a lime green background." src="https://cdn.vox-cdn.com/thumbor/_dbY18sVWM15swcPy2IzfSrd1QU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73441046/VRG_Illo_5258_K_Radtke_WWDC.0.jpg" />
+        <figcaption>Illustration by Kristen Radtke / The Verge</figcaption>
+    </figure>
+
+  <p id="zECTtV">Apple has chosen App Store chief and former marketing head Phil Schiller to represent the company on OpenAI’s nonprofit board, according to <a href="https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement?srnd=undefined">a report from <em>Bloomberg</em></a>. Schiller will reportedly get an observer role, meaning he can attend board meetings but can’t vote or act as a director.</p>
+<p id="CI1wXr">Joining the board will allow Schiller to learn more about the inner workings of OpenAI as Apple works to <a href="https://www.theverge.com/2024/6/10/24174786
+
+## You can pay to put a virtual house on Snapchat’s map
+ - [https://www.theverge.com/2024/7/2/24190995/snapchat-snap-map-app-update](https://www.theverge.com/2024/7/2/24190995/snapchat-snap-map-app-update)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T21:39:26+00:00
+
+<figure>
+      <img alt="Photo composite showing Snapchat screenshots" src="https://cdn.vox-cdn.com/thumbor/9-26d-Dfm40xkZB7FPl316kRA0k=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73440982/snapchat_houses.0.png" />
+        <figcaption><em>I can’t afford an actual house in this hellish economy, so a virtual one will have to do.</em> | Image: Snap</figcaption>
+    </figure>
+
+  <p id="hk6Ixv">Snapchat Plus subscribers are getting a <a href="https://newsroom.snap.com/new-features-july">new feature</a> that allows you to design your own virtual house to show off on the Snap Map. You can view your house at any time by visiting the map, as can anyone you share your location with.</p>
+<div class="c-float-left c-float-hang"><aside id="RXkHas"><div></div></aside></div>
+<p id="67wYzl">Your customization options range from drabby shacks to extravagant multistory abodes and castles. It essentially lets you show off your location with a more inviting curb appeal than the li
+
+## Mastodon rolls out built-in bylines for journalists in the fediverse
+ - [https://www.theverge.com/2024/7/2/24191049/mastodon-built-in-bylines-journalists-fediverse](https://www.theverge.com/2024/7/2/24191049/mastodon-built-in-bylines-journalists-fediverse)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T21:32:15+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/x03StHKVbtzeLpaT0ChvJIOKGiI=/110x0:605x330/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73440972/screenshot_web_story.5.png" />
+        <figcaption>Image: Mastodon</figcaption>
+    </figure>
+
+  <p id="Zosg8G">If you’re on Mastodon, you might notice <a href="https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/">new author bylines</a> appearing alongside articles — including those from <em>The Verge</em>. Click on the byline, and you’ll jump directly to the author’s fediverse account, allowing you to track their work wherever it’s posted.</p>
+<p id="kqQj5K">For now, you’ll only see this feature on <a href="https://mastodon.social/explore">mastodon.social</a> and other instances that use a recent Mastodon nightly release. You can see how author bylines appear beneath articles <a href="https://mastodon.social/@Mastodon/112718231305707672">in this post</a>, which links you to Mastodon CEO Eugen Roc
+
+## Figma pulls AI tool after criticism that it ripped off Apple’s design
+ - [https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T20:15:00+00:00
+
+<figure>
+      <img alt="Vector illustration of the Figma logo." src="https://cdn.vox-cdn.com/thumbor/hfdw1rwOodGX03HZWMzy3mkSlGA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73440809/STK273_FIGMA.0.jpg" />
+        <figcaption>Image: Cath Virginia / The Verge</figcaption>
+    </figure>
+
+  <p id="fxt2zw">Figma’s new tool Make Designs lets users quickly mock up apps using generative AI. Now, it’s getting delayed after the tool drafted designs that looked strikingly similar to Apple’s iOS weather app. Figma CEO Dylan Field <a href="https://x.com/zoink/status/1808045655082033483">posted a thread on X</a> early Tuesday morning detailing <a href="https://x.com/zoink/status/1808045664334668008">the delay</a>, putting the blame on himself for <a href="https://x.com/zoink/status/1808045661189033990">pushing the team to meet a deadline</a>, and defending the company’s approach to developing its AI tools.</p>
+<p id="id__02hnmlosgtwy">In <a href="https://x.com/asallen/status
+
+## Judge blocks Mississippi law that required age verification on social media
+ - [https://www.theverge.com/2024/7/2/24190800/mississippi-age-verification-law-blocked-netchoice-first-amendment](https://www.theverge.com/2024/7/2/24190800/mississippi-age-verification-law-blocked-netchoice-first-amendment)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T19:02:26+00:00
+
+<figure>
+      <img alt="Photo collage showing a child attempting to use a tablet screen that has a combination lock." src="https://cdn.vox-cdn.com/thumbor/2bdONfluDbquzzP-H7dtXXbezHo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73440600/STK461_INTERNET_CHILD_SAFETY_Stock_D_CVirginia.0.jpg" />
+        <figcaption>Image: The Verge</figcaption>
+    </figure>
+
+  <p id="mbEAKX">A federal judge <a href="https://netchoice.org/wp-content/uploads/2024/07/NetChoice-v-Fitch-District-Court-Preliminary-Injuction-Ruling-July-1-2024.pdf">blocked a Mississippi law</a> from taking effect that would have required age verification for all and parental consent for teens in order to make accounts on many social media sites. </p>
+<p id="yzYYEW">The preliminary injunction fell on the same day the <a href="https://www.theverge.com/2024/7/1/24166388/supreme-court-ruling-moody-paxton-texas-florida-social-media-law">Supreme Court issued a ruling in a pair of cases</a> challenging social m
+
+## Longer-lasting laptops: the modular hardware you can upgrade and repair yourself
+ - [https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T18:36:14+00:00
+
+<figure>
+      <img alt="The Framework Laptop 16 partly disassembled on a desk." src="https://cdn.vox-cdn.com/thumbor/0fQgkkhcAAq79oUI7Iej7p4XTys=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73440551/1Z8A9823.0.jpg" />
+        <figcaption>Photo by Vjeran Pavic / The Verge</figcaption>
+    </figure>
+
+  <p>Modular laptops with parts that can be swapped out as needed are becoming more popular, like Framework’s Laptop 16 and the Lenovo ThinkPad P1.</p>
+  <p>
+    <a href="https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy">Continue reading&hellip;</a>
+  </p>
+
+## The best smartwatches for Android
+ - [https://www.theverge.com/23449363/best-android-smartwatches-wear-os](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T17:41:13+00:00
+
+<figure>
+      <img alt="Renders of various Android-compatible smartwatches on a green background" src="https://cdn.vox-cdn.com/thumbor/-4No7X6CJt6AJt32aiT7v11oBio=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71611007/226402_Android_Smartwatch_Buyers_Guide_WJoel.0.jpg" />
+        <figcaption>Photo illustration by William Joel / The Verge</figcaption>
+    </figure>
+
+
+  		 <p>Wear OS is much better than it used to be, so there’s never been a better time to consider a smartwatch.</p>
+  <p>
+    <a href="https://www.theverge.com/23449363/best-android-smartwatches-wear-os">Continue reading&hellip;</a>
+  </p>
+
+## A year of Paramount Plus with Showtime is half off ahead of its impending price hike
+ - [https://www.theverge.com/2024/7/2/24190642/paramount-plus-showtime-streaming-logitech-yeti-gx-mic-deal-sale](https://www.theverge.com/2024/7/2/24190642/paramount-plus-showtime-streaming-logitech-yeti-gx-mic-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T17:38:31+00:00
+
+<figure>
+      <img alt="An image showing the Paramount Plus logo" src="https://cdn.vox-cdn.com/thumbor/AARHt97KcEjwPN0FKKPkWXVrYW0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73440440/acastro_STK126_paramountPlus_04.0.jpg" />
+        <figcaption><em>The current promo lets you secure a better rate than either of the monthly plans, but you’ll have to pay upfront.</em> | Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="TtzxDl">With a <a href="https://www.theverge.com/2024/6/24/24184979/paramount-plus-price-hike-august-2024"><strong>Paramount Plus</strong> price hike</a> coming on August 20th, now might be a good time to secure a year’s worth of access to the streaming service. Thankfully, <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.paramountplus.com%2F%3Fcbscidmt%3Dthechi&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F7%2F2%2F24190642%2Fparamount-plus-showtime-str
+
+## The Pixel 9’s ‘Google AI’ is like Microsoft Recall but a little less creepy
+ - [https://www.theverge.com/2024/7/2/24190730/google-ai-pixel-phones-recall-like-feature](https://www.theverge.com/2024/7/2/24190730/google-ai-pixel-phones-recall-like-feature)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T16:35:09+00:00
+
+<figure>
+      <img alt="A leaked image showing what appears to be the Google Pixel 9 Pro" src="https://cdn.vox-cdn.com/thumbor/703bh8c_rMF4uumvNKIQZFC3l8Q=/400x0:4720x2880/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73440254/google_pixel_9_leak.0.jpg" />
+        <figcaption><em>The Pixel 9 could come with a new camera bump.</em> | Image: OnLeaks <a class="ql-link" href="https://www.91mobiles.com/hub/google-pixel-9-design-render-exclusive/" target="_blank">via 91Mobiles</a></figcaption>
+    </figure>
+
+  <p id="iBJ8ic">The next generation of Pixel phones could come with new “Google AI” features, including one that sounds a little like <a href="https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay">Microsoft’s controversial Recall</a> tool. <a href="https://www.androidauthority.com/google-ai-recall-pixel-9-3456399/">As reported by <em>Android Authority</em></a>, Google is working on a “Pixel Screenshots” feature that can “save and process helpful 
+
+## How to create PDFs on Android devices using Google Drive
+ - [https://www.theverge.com/24190747/pdf-google-drive-slack-how-to](https://www.theverge.com/24190747/pdf-google-drive-slack-how-to)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T16:00:17+00:00
+
+<figure>
+      <img alt="Vector illustration with the Google Drive logo." src="https://cdn.vox-cdn.com/thumbor/Df57n5WosJiQalVfhRuAgb6wItc=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73440141/HT012_Google_drive.0.png" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="1MsveW">It hasn’t always been that simple to create a PDF using your phone. Several years ago, when I started handling my mother’s bills, I realized I needed a quick way to scan her documents while I was at her home. Rather than drag a scanner around, I found a handy Android app called <a href="https://play.google.com/store/apps/details?id=com.appxy.tinyscanner&amp;hl=en_US">Tiny Scanner</a> that let me turn paper documents into easy-to-store PDFs using my phone’s camera. </p>
+<p id="GAW1yL">Later, Google introduced the beta of <a href="https://www.theverge.com/22372372/google-stack-paperwork-documents-scan-pdf-how-to">its own scanning app called Stack</a>, so I beg
+
+## Biden administration proposes new heat protections for workers
+ - [https://www.theverge.com/2024/7/2/24190311/biden-extreme-heat-worker-labor-protections-proposed-rule](https://www.theverge.com/2024/7/2/24190311/biden-extreme-heat-worker-labor-protections-proposed-rule)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T14:09:32+00:00
+
+<figure>
+      <img alt="A person wearing an orange work vest holds up a stop sign. The sign shines brightly behind them." src="https://cdn.vox-cdn.com/thumbor/oDlSzIdDPMNvZQ2aBPTJuMD7Rfs=/0x0:4383x2922/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73439850/1528729343.0.jpg" />
+        <figcaption><em>A traffic warden during an eight-hour shift under the hot sun in Las Vegas, Nevada, on July 12th, 2023, where temperatures reached 106 degrees Fahrenheit amid a heatwave.</em> | Photo: Getty Images</figcaption>
+    </figure>
+
+  <p id="HfaQvS">The Biden administration says it will propose new <a href="https://www.osha.gov/heat-exposure/rulemaking">rules</a> today to protect workers from the deadliest weather-related risk Americans face: extreme heat. The Department of Labor’s Occupational Safety and Health Administration (OSHA) is expected to post its new heat protections on the federal register today, Biden administration officials said on a press call yesterday. </p>
+<p id="DKukaw
+
+## ‘Maxxxine is very different from both of them’: Ti West on closing out his X horror trilogy
+ - [https://www.theverge.com/24190083/ti-west-interview-maxxxine-a24](https://www.theverge.com/24190083/ti-west-interview-maxxxine-a24)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T14:00:00+00:00
+
+<figure>
+      <img alt="A still photo of Halsey and Mia Goth in the film Maxxxine." src="https://cdn.vox-cdn.com/thumbor/3qA4wpKmFGic9tm3BtSdCY6IvBw=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73439813/https___cdn.sanity.io_images_xq1bjtf4_production_5655146b7d3320471fb6f605ad9c65581170fa86_6000x4000.0.jpg" />
+        <figcaption><em>Maxxxine.</em> | Image: A24</figcaption>
+    </figure>
+
+  <p id="TfWLH6">For the last few years, Ti West hasn’t stopped thinking about the horror villains Pearl and Maxine. Since 2020, the writer and director has been fully immersed in the genre-spanning franchise that started with the ’70s slasher flick <em>X</em> and continued with <a href="https://www.theverge.com/23352979/pearl-review-tiff-2022">the technicolor prequel <em>Pearl</em></a>, which were filmed back-to-back in New Zealand during the pandemic and released in 2022. Now things culminate with the premiere of the series’ third act, <a href="https://www.theverge.com/24124
+
+## Tesla delivered fewer vehicles to customers for the second quarter in a row
+ - [https://www.theverge.com/2024/7/2/24187320/tesla-q2-2024-production-deliveries-decline](https://www.theverge.com/2024/7/2/24187320/tesla-q2-2024-production-deliveries-decline)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T13:47:49+00:00
+
+<figure>
+      <img alt="BELGIUM-AUTOMOBILE-INDUSTRY-TECHNOLOGY" src="https://cdn.vox-cdn.com/thumbor/fEIqK0L05-r_mZ4xls3tGFbctLY=/0x0:8256x5504/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73439758/2158015570.0.jpg" />
+        <figcaption>Photo by John Thys / AFP via Getty Images</figcaption>
+    </figure>
+
+  <p id="LTW8L2">On the heels of Tesla CEO Elon Musk’s <a href="https://www.theverge.com/2024/6/13/24177656/tesla-shareholders-approve-elon-musks-massive-pay-package-was-there-ever-any-doubt">massive payday</a>, the company released its latest quarterly production and delivery report, showing drops from last year in both production and deliveries. </p>
+<p id="mrNXbi">Tesla reported producing 410,831	vehicles over the three-month period that ended in June, a 14 percent drop compared to <a href="https://www.theverge.com/2023/7/2/23782020/tesla-nearly-doubled-its-year-over-year-deliveries-in-the-second-quarter-of-2023">the second quarter of 2023</a>. Tesla reported delivering 
+
+## Netflix is starting to phase out its cheapest ad-free plan
+ - [https://www.theverge.com/2024/7/2/24190632/netflix-ad-free-basic-plan-discontinued](https://www.theverge.com/2024/7/2/24190632/netflix-ad-free-basic-plan-discontinued)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T13:38:54+00:00
+
+<figure>
+      <img alt="An illustration of the Netflix logo." src="https://cdn.vox-cdn.com/thumbor/T1gq0SHlNUMHDlcLImTBppOtqEc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73439740/acastro_STK072_01.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="A1lZ1k">Netflix is following through on its plan to phase out its cheapest ad-free tier for existing subscribers. As spotted in numerous <a href="https://www.reddit.com/r/netflix/comments/1cgefm4/choose_a_new_plan_now_to_keep_watching/">posts</a> <a href="https://www.reddit.com/r/netflix/comments/1d3rvkq/netflix_wants_me_to_pick_a_new_subscription_plan/">on Reddit</a>, Netflix is now asking some basic plan subscribers to choose a new plan to stay subscribed to Netflix.</p>
+<p id="uujwUq">One Reddit user <a href="https://www.reddit.com/r/mildlyinfuriating/comments/1dsse4n/cant_finish_netflix_subscription/">received a notification</a> on their Netflix app, saying 
+
+## A new Resident Evil is in the works
+ - [https://www.theverge.com/2024/7/1/24190381/capcom-resident-evil-9-dead-rising](https://www.theverge.com/2024/7/1/24190381/capcom-resident-evil-9-dead-rising)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-02T00:13:53+00:00
+
+<figure>
+      <img alt="A screenshot of Resident Evil 4." src="https://cdn.vox-cdn.com/thumbor/z5h5z9FN7kC5azYM7VWkuTpk6Ss=/600x0:3840x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73438980/RE4_Leon.0.png" />
+        <figcaption><em>Leon Kennedy in the Resident Evil 4 remake.</em> | Image: Capcom</figcaption>
+    </figure>
+
+  <p id="Iciyni">Capcom is developing a new <em>Resident Evil</em> game, <em>Resident Evil 7</em> director Koshi Nakanishi confirmed during <a href="https://www.youtube.com/watch?v=p7hiMS0Hct4">a summer “Capcom Next” livestream on Monday</a>. </p>
+<p id="lQj4kQ">“We’re making a new <em>Resident Evil</em>,” Nakanishi said during the show. “It was really difficult to figure out what to do after <em>7</em>. But I found it, and to be honest it feels substantial. I can’t share any details just yet but I hope you’re excited for the day I can.”</p>
+<p id="v9GIx5">That’s admittedly not much to go on, but I get the sense he’s hinting that this new game is the ne
+
