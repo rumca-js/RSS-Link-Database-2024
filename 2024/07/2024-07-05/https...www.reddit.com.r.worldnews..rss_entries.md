@@ -1,0 +1,247 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## China to set annual salary cap on finance sector amid common prosperity push, sources say
+ - [https://www.reddit.com/r/worldnews/comments/1dw7hr8/china_to_set_annual_salary_cap_on_finance_sector](https://www.reddit.com/r/worldnews/comments/1dw7hr8/china_to_set_annual_salary_cap_on_finance_sector)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T20:22:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dw7hr8/china_to_set_annual_salary_cap_on_finance_sector/"> <img alt="China to set annual salary cap on finance sector amid common prosperity push, sources say" src="https://external-preview.redd.it/8zt0NH1guhv5ZQm-3oFaaQ21zja8HkCPhJiIOrIME_E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=caa2079080568bc11eb65e485cfb7521ceeb4ee9" title="China to set annual salary cap on finance sector amid common prosperity push, sources say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KpopMarxist"> /u/KpopMarxist </a> <br /> <span><a href="https://www.scmp.com/business/china-business/article/3269000/china-set-annual-salary-cap-finance-sector-amid-common-prosperity-push-sources-say">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dw7hr8/china_to_set_annual_salary_cap_on_finance_sector/">[comments]</a></span> </td></tr></table>
+
+## RockYou2024: 10 billion passwords leaked in the largest compilation of all time
+ - [https://www.reddit.com/r/worldnews/comments/1dw5w01/rockyou2024_10_billion_passwords_leaked_in_the](https://www.reddit.com/r/worldnews/comments/1dw5w01/rockyou2024_10_billion_passwords_leaked_in_the)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T19:12:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Flyinhighinthesky"> /u/Flyinhighinthesky </a> <br /> <span><a href="https://cybernews.com/security/rockyou2024-largest-password-compilation-leak/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dw5w01/rockyou2024_10_billion_passwords_leaked_in_the/">[comments]</a></span>
+
+## Philippine military chief warns his forces will fight back if assaulted again in disputed sea
+ - [https://www.reddit.com/r/worldnews/comments/1dw41ol/philippine_military_chief_warns_his_forces_will](https://www.reddit.com/r/worldnews/comments/1dw41ol/philippine_military_chief_warns_his_forces_will)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T17:54:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dw41ol/philippine_military_chief_warns_his_forces_will/"> <img alt="Philippine military chief warns his forces will fight back if assaulted again in disputed sea" src="https://external-preview.redd.it/tqgajLKX6olqsGNUQU73ph-qx2Ft_voVpxJ92wFnx64.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3bcaef54e18a44fa0379b1ae45d388ef796d6b86" title="Philippine military chief warns his forces will fight back if assaulted again in disputed sea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SharpMaintenance8284"> /u/SharpMaintenance8284 </a> <br /> <span><a href="https://apnews.com/article/south-china-sea-second-thomas-shoal-philippines-5ec7022316b74976d8c9de6a7ef55f11">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dw41ol/philippine_military_chief_warns_his_forces_will/">[comments]</a></span> </td></tr></table>
+
+## King Charles Meets With Keir Starmer, His Third Prime Minister in Two Years
+ - [https://www.reddit.com/r/worldnews/comments/1dw3v3n/king_charles_meets_with_keir_starmer_his_third](https://www.reddit.com/r/worldnews/comments/1dw3v3n/king_charles_meets_with_keir_starmer_his_third)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T17:46:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dw3v3n/king_charles_meets_with_keir_starmer_his_third/"> <img alt="King Charles Meets With Keir Starmer, His Third Prime Minister in Two Years" src="https://external-preview.redd.it/6zF1nEHwa8YmsBaG8yUtfEqK54x_aHnzKT135AJjr5w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4b5ddf4fc7de4149ad1416daf458b0dfbdeeef5b" title="King Charles Meets With Keir Starmer, His Third Prime Minister in Two Years" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ubcstaffer123"> /u/ubcstaffer123 </a> <br /> <span><a href="https://www.vanityfair.com/style/story/king-charles-meets-with-keir-starmer-his-third-prime-minister-in-two-years">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dw3v3n/king_charles_meets_with_keir_starmer_his_third/">[comments]</a></span> </td></tr></table>
+
+## UK’s Labour party to continue supporting Ukraine in war against Russia and on its way to NATO - Euromaidan Press
+ - [https://www.reddit.com/r/worldnews/comments/1dw3g6f/uks_labour_party_to_continue_supporting_ukraine](https://www.reddit.com/r/worldnews/comments/1dw3g6f/uks_labour_party_to_continue_supporting_ukraine)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T17:29:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dw3g6f/uks_labour_party_to_continue_supporting_ukraine/"> <img alt="UK’s Labour party to continue supporting Ukraine in war against Russia and on its way to NATO - Euromaidan Press " src="https://external-preview.redd.it/hlqSX8VeCZvfCdaBFYkWOwRRpHAENl-RQLhlAi-bCgg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=11878f9e1e319ce734b3dc85b148c37ea56461f7" title="UK’s Labour party to continue supporting Ukraine in war against Russia and on its way to NATO - Euromaidan Press " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br /> <span><a href="https://euromaidanpress.com/2024/07/05/uks-labour-party-to-continue-supporting-ukraine-in-war-against-russia-and-on-its-way-to-nato/?fbclid=IwY2xjawD1DERleHRuA2FlbQIxMQABHZ3M491UiK5spDySVY8fdppb75OJ1XuHLzYfWqBJrszhj2zQqA57MhbwkA_aem_9pjq4MpJN_vVgLYpiApqUQ">[link]</a></span> &#32; <span><a href="https://www.
+
+## Euro 2024: Turkey's Demiral banned for 'wolf' gesture
+ - [https://www.reddit.com/r/worldnews/comments/1dw2gpb/euro_2024_turkeys_demiral_banned_for_wolf_gesture](https://www.reddit.com/r/worldnews/comments/1dw2gpb/euro_2024_turkeys_demiral_banned_for_wolf_gesture)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T16:47:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dw2gpb/euro_2024_turkeys_demiral_banned_for_wolf_gesture/"> <img alt="Euro 2024: Turkey's Demiral banned for 'wolf' gesture" src="https://external-preview.redd.it/qrykPBkwdlZh8tzf4xWRehEnB77QsDVec9z14sLNPqo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=260ff2a111c233485de66b9a6a97977e4ab50a3d" title="Euro 2024: Turkey's Demiral banned for 'wolf' gesture" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donutloop"> /u/donutloop </a> <br /> <span><a href="https://www.dw.com/en/euro-2024-turkeys-demiral-banned-for-wolf-gesture/a-69571329">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dw2gpb/euro_2024_turkeys_demiral_banned_for_wolf_gesture/">[comments]</a></span> </td></tr></table>
+
+## NATO’s Stoltenberg rules out Ukraine land-for-peace deal
+ - [https://www.reddit.com/r/worldnews/comments/1dw150b/natos_stoltenberg_rules_out_ukraine_landforpeace](https://www.reddit.com/r/worldnews/comments/1dw150b/natos_stoltenberg_rules_out_ukraine_landforpeace)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T15:49:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dw150b/natos_stoltenberg_rules_out_ukraine_landforpeace/"> <img alt="NATO’s Stoltenberg rules out Ukraine land-for-peace deal" src="https://external-preview.redd.it/qQ4B_1bteFnzYWstgHcdHgs5XyUiCBRPDUKZU0QU9mw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a7bbf2a2f66e7f8374fce1969168e6487b44331e" title="NATO’s Stoltenberg rules out Ukraine land-for-peace deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alien_P3rsp3ktiv"> /u/Alien_P3rsp3ktiv </a> <br /> <span><a href="https://www.politico.eu/article/nato-jens-stoltenberg-rules-ukraine-russia-war-land-peace-deal-minsk-agreement-vladimir-putin/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dw150b/natos_stoltenberg_rules_out_ukraine_landforpeace/">[comments]</a></span> </td></tr></table>
+
+## Russia complains about massive drone attack on Rostov
+ - [https://www.reddit.com/r/worldnews/comments/1dvzi9z/russia_complains_about_massive_drone_attack_on](https://www.reddit.com/r/worldnews/comments/1dvzi9z/russia_complains_about_massive_drone_attack_on)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T14:37:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvzi9z/russia_complains_about_massive_drone_attack_on/"> <img alt="Russia complains about massive drone attack on Rostov" src="https://external-preview.redd.it/TAEjOYJITdY1UdqvH8SrqhOt4HjmX-9kjY9HNmf5fEc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25af2cf3470f088c5ef8cf619d69435b59b7fbf2" title="Russia complains about massive drone attack on Rostov" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_Franklin"> /u/Red_Franklin </a> <br /> <span><a href="https://newsukraine.rbc.ua/news/russia-complains-about-massive-drone-attack-1720142228.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvzi9z/russia_complains_about_massive_drone_attack_on/">[comments]</a></span> </td></tr></table>
+
+## Vatican excommunicates ex-ambassador to U.S., Archbishop Carlo Maria Viganò, declares him guilty of schism
+ - [https://www.reddit.com/r/worldnews/comments/1dvyxl4/vatican_excommunicates_exambassador_to_us](https://www.reddit.com/r/worldnews/comments/1dvyxl4/vatican_excommunicates_exambassador_to_us)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T14:11:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvyxl4/vatican_excommunicates_exambassador_to_us/"> <img alt="Vatican excommunicates ex-ambassador to U.S., Archbishop Carlo Maria Viganò, declares him guilty of schism " src="https://external-preview.redd.it/fcmI4ZFSEPBUQ9YKSa6qucROWlWj-Dvmvbsna-zsOuc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=379eb7e2752a7ab6c091f0943a150e82c391c004" title="Vatican excommunicates ex-ambassador to U.S., Archbishop Carlo Maria Viganò, declares him guilty of schism " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SteO153"> /u/SteO153 </a> <br /> <span><a href="https://www.cbsnews.com/news/vatican-carlo-maria-vigano-pope-francis-excommunicated-schism/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvyxl4/vatican_excommunicates_exambassador_to_us/">[comments]</a></span> </td></tr></table>
+
+## Czech Republic lifts ban on gay men donating blood
+ - [https://www.reddit.com/r/worldnews/comments/1dvyrln/czech_republic_lifts_ban_on_gay_men_donating_blood](https://www.reddit.com/r/worldnews/comments/1dvyrln/czech_republic_lifts_ban_on_gay_men_donating_blood)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T14:03:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvyrln/czech_republic_lifts_ban_on_gay_men_donating_blood/"> <img alt="Czech Republic lifts ban on gay men donating blood" src="https://external-preview.redd.it/UmqpDL_ODsH4pTj-4MTgBACsl9ueS1LQzjQBExxSakE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7eaabc58aabb28d6447f9016cd49db8036b17c6b" title="Czech Republic lifts ban on gay men donating blood" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Extreme_Hate2023"> /u/Extreme_Hate2023 </a> <br /> <span><a href="https://tvpworld.com/79149066/czech-republic-lifts-ban-on-gay-men-donating-blood">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvyrln/czech_republic_lifts_ban_on_gay_men_donating_blood/">[comments]</a></span> </td></tr></table>
+
+## Footage shows: Hamas terrorists beat hungry Gazans for 'stealing' aid
+ - [https://www.reddit.com/r/worldnews/comments/1dvy3gj/footage_shows_hamas_terrorists_beat_hungry_gazans](https://www.reddit.com/r/worldnews/comments/1dvy3gj/footage_shows_hamas_terrorists_beat_hungry_gazans)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T13:32:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvy3gj/footage_shows_hamas_terrorists_beat_hungry_gazans/"> <img alt="Footage shows: Hamas terrorists beat hungry Gazans for 'stealing' aid" src="https://external-preview.redd.it/hrrj0uSw6w3fSNzo70AnJ2fgzuZXRR633S0XTKahYL4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c2b33962eb738f95708553fa1d49036bc971a11" title="Footage shows: Hamas terrorists beat hungry Gazans for 'stealing' aid" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NamelessForce"> /u/NamelessForce </a> <br /> <span><a href="https://www.jpost.com/israel-hamas-war/article-809074">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvy3gj/footage_shows_hamas_terrorists_beat_hungry_gazans/">[comments]</a></span> </td></tr></table>
+
+## Number of Russians in favour of peace talks with Ukraine reaches record high
+ - [https://www.reddit.com/r/worldnews/comments/1dvxxcb/number_of_russians_in_favour_of_peace_talks_with](https://www.reddit.com/r/worldnews/comments/1dvxxcb/number_of_russians_in_favour_of_peace_talks_with)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T13:24:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvxxcb/number_of_russians_in_favour_of_peace_talks_with/"> <img alt="Number of Russians in favour of peace talks with Ukraine reaches record high" src="https://external-preview.redd.it/jjBH-yhAu0kxCFYriFhbpAMZK9ij9N-aLO8ZSFdGOyU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd30a0717e18a7e9c09d410fe8ab06ebe514c613" title="Number of Russians in favour of peace talks with Ukraine reaches record high" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/duckanroll"> /u/duckanroll </a> <br /> <span><a href="https://novayagazeta.eu/articles/2024/07/05/number-of-russians-in-favour-of-peace-talks-with-ukraine-reaches-record-high-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvxxcb/number_of_russians_in_favour_of_peace_talks_with/">[comments]</a></span> </td></tr></table>
+
+## Viktor Orbán visits Vladimir Putin to condemnation from fellow EU leaders
+ - [https://www.reddit.com/r/worldnews/comments/1dvwnkb/viktor_orbán_visits_vladimir_putin_to](https://www.reddit.com/r/worldnews/comments/1dvwnkb/viktor_orbán_visits_vladimir_putin_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T12:20:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvwnkb/viktor_orbán_visits_vladimir_putin_to/"> <img alt="Viktor Orbán visits Vladimir Putin to condemnation from fellow EU leaders" src="https://external-preview.redd.it/87Crpi0biVcPIjU7gqF6qtxUmwB7C6M6Dm7mJKNkL68.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=572659db15fe623ab162cf3c4e6fe491087902c8" title="Viktor Orbán visits Vladimir Putin to condemnation from fellow EU leaders" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SportsGod3"> /u/SportsGod3 </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/jul/05/viktor-orban-visits-vladimir-putin-to-condemnation-from-fellow-eu-leaders">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvwnkb/viktor_orbán_visits_vladimir_putin_to/">[comments]</a></span> </td></tr></table>
+
+## Britain swings to the center-left in historic U.K. election landslide
+ - [https://www.reddit.com/r/worldnews/comments/1dvwgmt/britain_swings_to_the_centerleft_in_historic_uk](https://www.reddit.com/r/worldnews/comments/1dvwgmt/britain_swings_to_the_centerleft_in_historic_uk)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T12:09:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvwgmt/britain_swings_to_the_centerleft_in_historic_uk/"> <img alt="Britain swings to the center-left in historic U.K. election landslide" src="https://external-preview.redd.it/RoDVXsZ2go2ZZbIzw-qshJ8bTzdwEzFpYOrGYPItSoY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60ef2c2f95de26e181af543727d278c4dd16ea1a" title="Britain swings to the center-left in historic U.K. election landslide" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cuspofgreatness"> /u/cuspofgreatness </a> <br /> <span><a href="https://www.npr.org/2024/07/05/g-s1-8456/uk-labour-party-win-keir-starmer">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvwgmt/britain_swings_to_the_centerleft_in_historic_uk/">[comments]</a></span> </td></tr></table>
+
+## Ukraine receives third Patriot air defence system from Germany, envoy says
+ - [https://www.reddit.com/r/worldnews/comments/1dvvsz7/ukraine_receives_third_patriot_air_defence_system](https://www.reddit.com/r/worldnews/comments/1dvvsz7/ukraine_receives_third_patriot_air_defence_system)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T11:31:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvvsz7/ukraine_receives_third_patriot_air_defence_system/"> <img alt="Ukraine receives third Patriot air defence system from Germany, envoy says" src="https://external-preview.redd.it/lF9DqkDrXM38vV2XO8_dfaxGPC0SkkY76OkBmx8zXC8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d253a1f3f3e6579daa9735546212b7ea3695a84f" title="Ukraine receives third Patriot air defence system from Germany, envoy says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/krazun"> /u/krazun </a> <br /> <span><a href="https://www.reuters.com/world/europe/ukraine-receives-third-patriot-air-defence-system-germany-envoy-says-2024-07-05/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvvsz7/ukraine_receives_third_patriot_air_defence_system/">[comments]</a></span> </td></tr></table>
+
+## Japan confirms China set up buoy over its southern continental shelf
+ - [https://www.reddit.com/r/worldnews/comments/1dvvqyo/japan_confirms_china_set_up_buoy_over_its](https://www.reddit.com/r/worldnews/comments/1dvvqyo/japan_confirms_china_set_up_buoy_over_its)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T11:28:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvvqyo/japan_confirms_china_set_up_buoy_over_its/"> <img alt="Japan confirms China set up buoy over its southern continental shelf" src="https://external-preview.redd.it/6pG967ABpAyOs5SsPa0pkO0ybQirjwqWS1Nvfbvc13k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=895f074ab919412a811529378781210384729550" title="Japan confirms China set up buoy over its southern continental shelf" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/memberino"> /u/memberino </a> <br /> <span><a href="https://japantoday.com/category/politics/japan-confirms-china-set-up-buoy-over-its-southern-continental-shelf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvvqyo/japan_confirms_china_set_up_buoy_over_its/">[comments]</a></span> </td></tr></table>
+
+## US sending dozens of new fighter jets to Japan bases in $10 billion force modernization
+ - [https://www.reddit.com/r/worldnews/comments/1dvvqil/us_sending_dozens_of_new_fighter_jets_to_japan](https://www.reddit.com/r/worldnews/comments/1dvvqil/us_sending_dozens_of_new_fighter_jets_to_japan)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T11:27:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvvqil/us_sending_dozens_of_new_fighter_jets_to_japan/"> <img alt="US sending dozens of new fighter jets to Japan bases in $10 billion force modernization" src="https://external-preview.redd.it/GryzyXXkWb9SC5qcREnu4fbqzCF1lEu1ypLZfbRSKMc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b9b40ed90ab628ffaea33e3dedeb610dd84edd5" title="US sending dozens of new fighter jets to Japan bases in $10 billion force modernization" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eureka-4407"> /u/Eureka-4407 </a> <br /> <span><a href="https://www.cnn.com/2024/07/05/asia/japan-us-fighter-jets-intl-hnk-ml/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvvqil/us_sending_dozens_of_new_fighter_jets_to_japan/">[comments]</a></span> </td></tr></table>
+
+## Tesla is now an official Chinese government car | CNN Business
+ - [https://www.reddit.com/r/worldnews/comments/1dvvgh1/tesla_is_now_an_official_chinese_government_car](https://www.reddit.com/r/worldnews/comments/1dvvgh1/tesla_is_now_an_official_chinese_government_car)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T11:10:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvvgh1/tesla_is_now_an_official_chinese_government_car/"> <img alt="Tesla is now an official Chinese government car | CNN Business" src="https://external-preview.redd.it/_5JG1rjNOuyd_0xViMJuBoMm4hZY4juXVnnQuz5GHTo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5b3fa3a3bf37a0279b636def744ae79169cb389" title="Tesla is now an official Chinese government car | CNN Business" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sure_Group7471"> /u/Sure_Group7471 </a> <br /> <span><a href="https://www.cnn.com/2024/07/05/business/tesla-enters-chinese-government-purchase-list-for-first-time-intl-hnk/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvvgh1/tesla_is_now_an_official_chinese_government_car/">[comments]</a></span> </td></tr></table>
+
+## Ukraine navy chief says Russia is losing Crimean hub in Black Sea
+ - [https://www.reddit.com/r/worldnews/comments/1dvvfy4/ukraine_navy_chief_says_russia_is_losing_crimean](https://www.reddit.com/r/worldnews/comments/1dvvfy4/ukraine_navy_chief_says_russia_is_losing_crimean)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T11:09:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvvfy4/ukraine_navy_chief_says_russia_is_losing_crimean/"> <img alt="Ukraine navy chief says Russia is losing Crimean hub in Black Sea" src="https://external-preview.redd.it/yFG-jzHKDrOaM1mcBvUznuvsCI7u5zc2IlZFZ-f-5nQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af3223970bba77171b3ab874b86d2f426ef19867" title="Ukraine navy chief says Russia is losing Crimean hub in Black Sea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LovelyCharmz"> /u/LovelyCharmz </a> <br /> <span><a href="https://www.reuters.com/world/europe/ukraine-navy-chief-says-russia-is-losing-crimean-hub-black-sea-2024-07-05/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvvfy4/ukraine_navy_chief_says_russia_is_losing_crimean/">[comments]</a></span> </td></tr></table>
+
+## Japan sets world record for the fastest internet speed ever
+ - [https://www.reddit.com/r/worldnews/comments/1dvuwu2/japan_sets_world_record_for_the_fastest_internet](https://www.reddit.com/r/worldnews/comments/1dvuwu2/japan_sets_world_record_for_the_fastest_internet)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T10:35:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvuwu2/japan_sets_world_record_for_the_fastest_internet/"> <img alt="Japan sets world record for the fastest internet speed ever" src="https://external-preview.redd.it/_hwaVRPgvXAdp1RKJICqxjZArkgVzhgWuILgWgvc4pE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6b1d834d0323fb804282aafbe626d95be711c40" title="Japan sets world record for the fastest internet speed ever" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FollowTheLeads"> /u/FollowTheLeads </a> <br /> <span><a href="https://www.newsnationnow.com/business/tech/japan-world-record-fastest-internet-speed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvuwu2/japan_sets_world_record_for_the_fastest_internet/">[comments]</a></span> </td></tr></table>
+
+## Hungary's Orban arrives in Moscow to meet Putin, drawing EU rebukes
+ - [https://www.reddit.com/r/worldnews/comments/1dvun4d/hungarys_orban_arrives_in_moscow_to_meet_putin](https://www.reddit.com/r/worldnews/comments/1dvun4d/hungarys_orban_arrives_in_moscow_to_meet_putin)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T10:17:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvun4d/hungarys_orban_arrives_in_moscow_to_meet_putin/"> <img alt="Hungary's Orban arrives in Moscow to meet Putin, drawing EU rebukes" src="https://external-preview.redd.it/qdNofa-G8eGjPr803mPIaZxts45FYpY4tgK1_MyautQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=118595d45c94a66f1b86dcecd6ab5d5c726908e2" title="Hungary's Orban arrives in Moscow to meet Putin, drawing EU rebukes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doodly-123"> /u/doodly-123 </a> <br /> <span><a href="https://www.reuters.com/world/europe/hungarys-orban-says-no-position-negotiate-between-ukraine-russia-2024-07-05/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvun4d/hungarys_orban_arrives_in_moscow_to_meet_putin/">[comments]</a></span> </td></tr></table>
+
+## Top Vatican Official Accused of Lying Over €350 Million Real Estate Deal
+ - [https://www.reddit.com/r/worldnews/comments/1dvukyc/top_vatican_official_accused_of_lying_over_350](https://www.reddit.com/r/worldnews/comments/1dvukyc/top_vatican_official_accused_of_lying_over_350)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T10:12:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvukyc/top_vatican_official_accused_of_lying_over_350/"> <img alt="Top Vatican Official Accused of Lying Over €350 Million Real Estate Deal" src="https://external-preview.redd.it/n_646X9qGnC59ivyiZarJQMWkzbJT52fV9iTigLWHaQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7fc9e9618a59c0bf28612479dbc711a444c24e5" title="Top Vatican Official Accused of Lying Over €350 Million Real Estate Deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloomberg"> /u/bloomberg </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-07-05/top-vatican-official-accused-of-lying-over-350-million-real-estate-deal">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvukyc/top_vatican_official_accused_of_lying_over_350/">[comments]</a></span> </td></tr></table>
+
+## Rishi Sunak steps down after UK election loss
+ - [https://www.reddit.com/r/worldnews/comments/1dvuim3/rishi_sunak_steps_down_after_uk_election_loss](https://www.reddit.com/r/worldnews/comments/1dvuim3/rishi_sunak_steps_down_after_uk_election_loss)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T10:08:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvuim3/rishi_sunak_steps_down_after_uk_election_loss/"> <img alt="Rishi Sunak steps down after UK election loss" src="https://external-preview.redd.it/LMeCQUL-ERWCrqZCNsszETjkWp9yFO9ysHys11BPzVI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf14e2bcf3bf8fca74d17e19cc1b49c5a7fa3a23" title="Rishi Sunak steps down after UK election loss" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pandas909"> /u/Pandas909 </a> <br /> <span><a href="https://www.albawaba.com/news/rishi-sunak-steps-down-after-uk-election-1575682">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvuim3/rishi_sunak_steps_down_after_uk_election_loss/">[comments]</a></span> </td></tr></table>
+
+## China-made military drones similar to the MQ-9 Reaper were disguised as wind turbines in shipments to Libya: Italian officials
+ - [https://www.reddit.com/r/worldnews/comments/1dvu1aw/chinamade_military_drones_similar_to_the_mq9](https://www.reddit.com/r/worldnews/comments/1dvu1aw/chinamade_military_drones_similar_to_the_mq9)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T09:35:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvu1aw/chinamade_military_drones_similar_to_the_mq9/"> <img alt="China-made military drones similar to the MQ-9 Reaper were disguised as wind turbines in shipments to Libya: Italian officials" src="https://external-preview.redd.it/eIUujD0ZA6v4W7_Fzt_hQcfKouQ3seJ7cZ-zjKAzPdc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c13c6aba5b55257ae0ebbcf5461c9e12b49aba7" title="China-made military drones similar to the MQ-9 Reaper were disguised as wind turbines in shipments to Libya: Italian officials" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/blairb03"> /u/blairb03 </a> <br /> <span><a href="https://www.businessinsider.com/china-wing-loong-combat-drone-sent-libya-italy-wind-turbine-2024-7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvu1aw/chinamade_military_drones_similar_to_the_mq9/">[comments]</a></span> </td></tr></table>
+
+## Hungary 'not planning' to pay €200m fine for flouting EU asylum laws
+ - [https://www.reddit.com/r/worldnews/comments/1dvtdn5/hungary_not_planning_to_pay_200m_fine_for](https://www.reddit.com/r/worldnews/comments/1dvtdn5/hungary_not_planning_to_pay_200m_fine_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T08:47:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvtdn5/hungary_not_planning_to_pay_200m_fine_for/"> <img alt="Hungary 'not planning' to pay €200m fine for flouting EU asylum laws" src="https://external-preview.redd.it/YYvfOJ7__8Fmvj8PIQpzUKR400H1whQw0nNFClZBm5M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2684333a8c18a60981cdca97c0e03adb54b5df8" title="Hungary 'not planning' to pay €200m fine for flouting EU asylum laws" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thealejandrotauber"> /u/thealejandrotauber </a> <br /> <span><a href="https://euobserver.com/migration/ara6f58866">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvtdn5/hungary_not_planning_to_pay_200m_fine_for/">[comments]</a></span> </td></tr></table>
+
+## Ukraine Air Force Reports Patriot Systems Intercept All Russian Kinzhal Missiles
+ - [https://www.reddit.com/r/worldnews/comments/1dvta51/ukraine_air_force_reports_patriot_systems](https://www.reddit.com/r/worldnews/comments/1dvta51/ukraine_air_force_reports_patriot_systems)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T08:40:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvta51/ukraine_air_force_reports_patriot_systems/"> <img alt="Ukraine Air Force Reports Patriot Systems Intercept All Russian Kinzhal Missiles" src="https://external-preview.redd.it/psJi5yHRN2YZLvjR987MUv7tnxD3jYSKNNBO5uNcuqE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4fe47da058b6c472b09a470341fbac11b0b0ae1c" title="Ukraine Air Force Reports Patriot Systems Intercept All Russian Kinzhal Missiles" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/macross1984"> /u/macross1984 </a> <br /> <span><a href="https://armyrecognition.com/news/army-news/army-news-2024/ukraine-air-force-reports-patriot-systems-intercept-all-russian-kinzhal-missiles">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvta51/ukraine_air_force_reports_patriot_systems/">[comments]</a></span> </td></tr></table>
+
+## Japan warns US forces: Sex crimes 'cannot be tolerated'
+ - [https://www.reddit.com/r/worldnews/comments/1dvst2v/japan_warns_us_forces_sex_crimes_cannot_be](https://www.reddit.com/r/worldnews/comments/1dvst2v/japan_warns_us_forces_sex_crimes_cannot_be)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T08:07:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvst2v/japan_warns_us_forces_sex_crimes_cannot_be/"> <img alt="Japan warns US forces: Sex crimes 'cannot be tolerated'" src="https://external-preview.redd.it/8c-OocvwPEZLJR02RdvFdKyae3-ZfpOPH4wjdeOezhU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28416a26b3b70422b8b2236887350747a88c2297" title="Japan warns US forces: Sex crimes 'cannot be tolerated'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/glasier"> /u/glasier </a> <br /> <span><a href="https://tribune.com.pk/story/2476861/japan-warns-us-forces-sex-crimes-cannot-be-tolerated">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvst2v/japan_warns_us_forces_sex_crimes_cannot_be/">[comments]</a></span> </td></tr></table>
+
+## Samsung expects profits to jump by more than 1,400%
+ - [https://www.reddit.com/r/worldnews/comments/1dvryhz/samsung_expects_profits_to_jump_by_more_than_1400](https://www.reddit.com/r/worldnews/comments/1dvryhz/samsung_expects_profits_to_jump_by_more_than_1400)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T07:08:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvryhz/samsung_expects_profits_to_jump_by_more_than_1400/"> <img alt="Samsung expects profits to jump by more than 1,400%" src="https://external-preview.redd.it/Crfsns7RltVyJkSXycYojMJCTIDFqYbFpEFcbQI1wYY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=63ac3eb0927c046310547100e4b31172f41ef993" title="Samsung expects profits to jump by more than 1,400%" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VegemiteSucks"> /u/VegemiteSucks </a> <br /> <span><a href="https://www.bbc.com/news/articles/c25l0yyzjvno">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvryhz/samsung_expects_profits_to_jump_by_more_than_1400/">[comments]</a></span> </td></tr></table>
+
+## Former Tory prime minister Liz Truss loses her seat to Labour
+ - [https://www.reddit.com/r/worldnews/comments/1dvquzz/former_tory_prime_minister_liz_truss_loses_her](https://www.reddit.com/r/worldnews/comments/1dvquzz/former_tory_prime_minister_liz_truss_loses_her)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T05:55:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvquzz/former_tory_prime_minister_liz_truss_loses_her/"> <img alt="Former Tory prime minister Liz Truss loses her seat to Labour" src="https://external-preview.redd.it/79ik_Xk2ynkuM3r2PiFfJayxmvHPSNq-eaOdGz759uM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ebed1cc09bede2e522ad83ac18fe2475b5125cb" title="Former Tory prime minister Liz Truss loses her seat to Labour" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alabasterheart"> /u/alabasterheart </a> <br /> <span><a href="https://www.theguardian.com/politics/article/2024/jul/05/former-tory-prime-minister-liz-truss-loses-her-seat-to-labour">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvquzz/former_tory_prime_minister_liz_truss_loses_her/">[comments]</a></span> </td></tr></table>
+
+## A Norwegian citizen has been arrested on suspicion of attempting to spy for China
+ - [https://www.reddit.com/r/worldnews/comments/1dvpy6j/a_norwegian_citizen_has_been_arrested_on](https://www.reddit.com/r/worldnews/comments/1dvpy6j/a_norwegian_citizen_has_been_arrested_on)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T04:57:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvpy6j/a_norwegian_citizen_has_been_arrested_on/"> <img alt="A Norwegian citizen has been arrested on suspicion of attempting to spy for China" src="https://external-preview.redd.it/SdXxkiKJKZBtKvA16hteDk8Pz-awyWMlyThskWgsy-s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42718d84ddaee36df0ec34182429e2b62e31855b" title="A Norwegian citizen has been arrested on suspicion of attempting to spy for China" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/scaur"> /u/scaur </a> <br /> <span><a href="https://apnews.com/article/norway-china-spying-arrest-a965800c5a97d41abad2d0d5442dedf7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvpy6j/a_norwegian_citizen_has_been_arrested_on/">[comments]</a></span> </td></tr></table>
+
+## EU slaps tariffs of up to 38% on Chinese electric vehicles
+ - [https://www.reddit.com/r/worldnews/comments/1dvpxqw/eu_slaps_tariffs_of_up_to_38_on_chinese_electric](https://www.reddit.com/r/worldnews/comments/1dvpxqw/eu_slaps_tariffs_of_up_to_38_on_chinese_electric)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T04:56:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvpxqw/eu_slaps_tariffs_of_up_to_38_on_chinese_electric/"> <img alt="EU slaps tariffs of up to 38% on Chinese electric vehicles" src="https://external-preview.redd.it/udRq_3Ql9ByPq-P06h-p-C-jPTjXJE_UqY7gQ6EDQhs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c85d24bb22c6ef7aa746f026fbce51979a1fb1c" title="EU slaps tariffs of up to 38% on Chinese electric vehicles" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donutloop"> /u/donutloop </a> <br /> <span><a href="https://www.dw.com/en/eu-slaps-tariffs-of-up-to-38-on-chinese-electric-vehicles/a-69557494">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvpxqw/eu_slaps_tariffs_of_up_to_38_on_chinese_electric/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 862, Part 1 (Thread #1009)
+ - [https://www.reddit.com/r/worldnews/comments/1dvp2sf/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1dvp2sf/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T04:02:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvp2sf/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 862, Part 1 (Thread #1009)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 862, Part 1 (Thread #1009)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvp2sf/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## 'The Labour Party has won this general election': Sunak concedes defeat
+ - [https://www.reddit.com/r/worldnews/comments/1dvouk0/the_labour_party_has_won_this_general_election](https://www.reddit.com/r/worldnews/comments/1dvouk0/the_labour_party_has_won_this_general_election)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T03:49:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvouk0/the_labour_party_has_won_this_general_election/"> <img alt="'The Labour Party has won this general election': Sunak concedes defeat" src="https://external-preview.redd.it/27NqBOuJiXU2ddu9OXeDpmxzFDGxb2s57iz9Wk9A4b0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be973d5b8614d0c02c32a05433f8c507f120e619" title="'The Labour Party has won this general election': Sunak concedes defeat" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PMKeirStarmer"> /u/PMKeirStarmer </a> <br /> <span><a href="https://news.sky.com/story/the-labour-party-has-won-this-general-election-sunak-concedes-defeat-13162921">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvouk0/the_labour_party_has_won_this_general_election/">[comments]</a></span> </td></tr></table>
+
+## Couple Spying for Russia During Wedding Photoshoot Arrested in Odesa
+ - [https://www.reddit.com/r/worldnews/comments/1dvli0s/couple_spying_for_russia_during_wedding](https://www.reddit.com/r/worldnews/comments/1dvli0s/couple_spying_for_russia_during_wedding)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T00:35:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvli0s/couple_spying_for_russia_during_wedding/"> <img alt="Couple Spying for Russia During Wedding Photoshoot Arrested in Odesa" src="https://external-preview.redd.it/HzKbPS9hAFcVw3Y3PeYu6RIR2Wk2RHCxOlOD8Xr1fbw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d94a46ce3aef855edc9af2c35b8e21cb5f717b71" title="Couple Spying for Russia During Wedding Photoshoot Arrested in Odesa" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhoIsJolyonWest"> /u/WhoIsJolyonWest </a> <br /> <span><a href="https://www.kyivpost.com/post/35309">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvli0s/couple_spying_for_russia_during_wedding/">[comments]</a></span> </td></tr></table>
+
+## Rishi Sunak set to resign as Conservative Party leader on Friday morning - reports
+ - [https://www.reddit.com/r/worldnews/comments/1dvl3ts/rishi_sunak_set_to_resign_as_conservative_party](https://www.reddit.com/r/worldnews/comments/1dvl3ts/rishi_sunak_set_to_resign_as_conservative_party)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-05T00:13:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dvl3ts/rishi_sunak_set_to_resign_as_conservative_party/"> <img alt="Rishi Sunak set to resign as Conservative Party leader on Friday morning - reports" src="https://external-preview.redd.it/77_TMAfPxnP7Z0PbxbXkoHTAQtefRBtlOTMwaC98tDA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71031b5f52ad1c1aaf7767d119e22a4372cc958b" title="Rishi Sunak set to resign as Conservative Party leader on Friday morning - reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br /> <span><a href="https://www.birminghammail.co.uk/news/midlands-news/rishi-sunak-set-resign-conservative-29478375">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dvl3ts/rishi_sunak_set_to_resign_as_conservative_party/">[comments]</a></span> </td></tr></table>
+
