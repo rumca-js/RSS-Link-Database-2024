@@ -1,0 +1,296 @@
+# Source:3D Printing, URL:https://www.reddit.com/r/3Dprinting/.rss, language:en
+
+## Circles on print vs smooth prints
+ - [https://www.reddit.com/r/3Dprinting/comments/1dx0xuv/circles_on_print_vs_smooth_prints](https://www.reddit.com/r/3Dprinting/comments/1dx0xuv/circles_on_print_vs_smooth_prints)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T22:06:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dx0xuv/circles_on_print_vs_smooth_prints/"> <img alt="Circles on print vs smooth prints " src="https://b.thumbs.redditmedia.com/gwd-RqQxsVZXZRRRjPzjGCieNW3gtz0maG5ymF9a0ck.jpg" title="Circles on print vs smooth prints " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello!</p> <p>Quick question about this. I had two models printed. One came with these concentric circles all over, the other is completely smooth. I'm just curious as to why that is? </p> <p>Any way to make the print more smooth?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Still742"> /u/Ok-Still742 </a> <br /> <span><a href="https://www.reddit.com/gallery/1dx0xuv">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dx0xuv/circles_on_print_vs_smooth_prints/">[comments]</a></span> </td></tr></table>
+
+## Is this thing any good?
+ - [https://www.reddit.com/r/3Dprinting/comments/1dx0vzi/is_this_thing_any_good](https://www.reddit.com/r/3Dprinting/comments/1dx0vzi/is_this_thing_any_good)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T22:04:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dx0vzi/is_this_thing_any_good/"> <img alt="Is this thing any good?" src="https://preview.redd.it/whrdu4ld1zad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d051e66cb6fec4fe7280481e76c22b358f40e74b" title="Is this thing any good?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Is this a good deal for 750?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gusgusthegreat"> /u/gusgusthegreat </a> <br /> <span><a href="https://i.redd.it/whrdu4ld1zad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dx0vzi/is_this_thing_any_good/">[comments]</a></span> </td></tr></table>
+
+## Iron Man MK3 Helmet - Neptune 4 Pro
+ - [https://www.reddit.com/r/3Dprinting/comments/1dx0hes/iron_man_mk3_helmet_neptune_4_pro](https://www.reddit.com/r/3Dprinting/comments/1dx0hes/iron_man_mk3_helmet_neptune_4_pro)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T21:45:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dx0hes/iron_man_mk3_helmet_neptune_4_pro/"> <img alt="Iron Man MK3 Helmet - Neptune 4 Pro" src="https://preview.redd.it/lf6bevu0yyad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7120c0a40c04aac3245902309dfc9ab144e94421" title="Iron Man MK3 Helmet - Neptune 4 Pro" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/comicsisland"> /u/comicsisland </a> <br /> <span><a href="https://i.redd.it/lf6bevu0yyad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dx0hes/iron_man_mk3_helmet_neptune_4_pro/">[comments]</a></span> </td></tr></table>
+
+## Just set up my first printer!
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwze9i/just_set_up_my_first_printer](https://www.reddit.com/r/3Dprinting/comments/1dwze9i/just_set_up_my_first_printer)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T20:55:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwze9i/just_set_up_my_first_printer/"> <img alt="Just set up my first printer!" src="https://preview.redd.it/6xjdchi3pyad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=024cba352ed17f619d0988da0cd57a6653a5c224" title="Just set up my first printer!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>My wife wants to put googly eyes on the nozzle housing, would that be safe as long as they stay stuck? Would Elmer’s stick glue work on the textured and smooth hot plate?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Theworldinmyhead"> /u/Theworldinmyhead </a> <br /> <span><a href="https://i.redd.it/6xjdchi3pyad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwze9i/just_set_up_my_first_printer/">[comments]</a></span> </td></tr></table>
+
+## Sculpted and 3D Printed some Pokemon Cards
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwykqz/sculpted_and_3d_printed_some_pokemon_cards](https://www.reddit.com/r/3Dprinting/comments/1dwykqz/sculpted_and_3d_printed_some_pokemon_cards)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T20:17:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwykqz/sculpted_and_3d_printed_some_pokemon_cards/"> <img alt="Sculpted and 3D Printed some Pokemon Cards" src="https://b.thumbs.redditmedia.com/HKMhPBLnTAoUzIjzwk3dehhhb5H0t1ZUFYUBBd5CJMY.jpg" title="Sculpted and 3D Printed some Pokemon Cards" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hope you like them!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ABC3D_Models"> /u/ABC3D_Models </a> <br /> <span><a href="https://www.reddit.com/gallery/1dwykqz">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwykqz/sculpted_and_3d_printed_some_pokemon_cards/">[comments]</a></span> </td></tr></table>
+
+## My partner keeps buying plants so I have to keep designing plant pots. Here's one of my latest ones
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwybg3/my_partner_keeps_buying_plants_so_i_have_to_keep](https://www.reddit.com/r/3Dprinting/comments/1dwybg3/my_partner_keeps_buying_plants_so_i_have_to_keep)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T20:05:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwybg3/my_partner_keeps_buying_plants_so_i_have_to_keep/"> <img alt="My partner keeps buying plants so I have to keep designing plant pots. Here's one of my latest ones" src="https://a.thumbs.redditmedia.com/V6oZ2XFi6MG5BnWMofyL6_UBga5mkyqEi8PJe-uNeg0.jpg" title="My partner keeps buying plants so I have to keep designing plant pots. Here's one of my latest ones" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xrontos"> /u/Xrontos </a> <br /> <span><a href="https://www.reddit.com/gallery/1dwybg3">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwybg3/my_partner_keeps_buying_plants_so_i_have_to_keep/">[comments]</a></span> </td></tr></table>
+
+## First attempts at reusing print scraps
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwxs6p/first_attempts_at_reusing_print_scraps](https://www.reddit.com/r/3Dprinting/comments/1dwxs6p/first_attempts_at_reusing_print_scraps)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T19:41:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwxs6p/first_attempts_at_reusing_print_scraps/"> <img alt="First attempts at reusing print scraps" src="https://b.thumbs.redditmedia.com/btL38MrmXYzNhb9-MC7x9y1UCb2W8wVWtDLBHzWDXfs.jpg" title="First attempts at reusing print scraps" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>It's very small scale, but it feels good to make use of even a little bit of my print scraps. I broke down a couple failed prints and supports into little pieces and melted them in silicone molds in a toaster oven to make some jewelry pieces. The process still needs some work but I'm optimistic</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/g00ber88"> /u/g00ber88 </a> <br /> <span><a href="https://www.reddit.com/gallery/1dwxs6p">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwxs6p/first_attempts_at_reusing_print_scraps/">[comments]</a></span> </td></tr></ta
+
+## New support type: Floating
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwxigv/new_support_type_floating](https://www.reddit.com/r/3Dprinting/comments/1dwxigv/new_support_type_floating)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T19:29:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwxigv/new_support_type_floating/"> <img alt="New support type: Floating" src="https://preview.redd.it/e4wam9bs9yad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdf9c219068cafe3b4bc8580b3ce0c9e7391e329" title="New support type: Floating" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MyFartSoTart"> /u/MyFartSoTart </a> <br /> <span><a href="https://i.redd.it/e4wam9bs9yad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwxigv/new_support_type_floating/">[comments]</a></span> </td></tr></table>
+
+## First try at figurines
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwxh0z/first_try_at_figurines](https://www.reddit.com/r/3Dprinting/comments/1dwxh0z/first_try_at_figurines)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T19:27:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwxh0z/first_try_at_figurines/"> <img alt="First try at figurines" src="https://preview.redd.it/k3hhzs9h9yad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9cd3141b7857185d8544084551e5e02e1acc84f" title="First try at figurines" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>First try printing a figurine.</p> <p>Used a Qidi Q1 Pro, with mate pla at 220C and 0.06mm layers. The arm and a foot broke when removing supports so I glued them. Took 2h. I'm hooked on this, the printer has been running almost every time I'm awake basically. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rabisconegro"> /u/rabisconegro </a> <br /> <span><a href="https://i.redd.it/k3hhzs9h9yad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwxh0z/first_try_at_figurines/">[comments]</a></span> </td></tr></table>
+
+## 3D Printer + Puppy = Modern Gentleman
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwx982/3d_printer_puppy_modern_gentleman](https://www.reddit.com/r/3Dprinting/comments/1dwx982/3d_printer_puppy_modern_gentleman)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T19:17:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwx982/3d_printer_puppy_modern_gentleman/"> <img alt="3D Printer + Puppy = Modern Gentleman" src="https://preview.redd.it/9t0h899p7yad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c246ad6acc17489880935310bfe6ad45b0fbe0f" title="3D Printer + Puppy = Modern Gentleman" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>It’s not entirely clear in the photo, but I 3D printed a tpu loop that closes with magnets and then covered it with some Faux leather to match his coat.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CanYouEvenPhoto"> /u/CanYouEvenPhoto </a> <br /> <span><a href="https://i.redd.it/9t0h899p7yad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwx982/3d_printer_puppy_modern_gentleman/">[comments]</a></span> </td></tr></table>
+
+## Abiotic Factor Makeshift Battery prop: 8-color print on a 5-tool Prusa XL
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwwzou/abiotic_factor_makeshift_battery_prop_8color](https://www.reddit.com/r/3Dprinting/comments/1dwwzou/abiotic_factor_makeshift_battery_prop_8color)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T19:05:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwwzou/abiotic_factor_makeshift_battery_prop_8color/"> <img alt="Abiotic Factor Makeshift Battery prop: 8-color print on a 5-tool Prusa XL" src="https://external-preview.redd.it/YnJ3NHppcTRudmFkMWr_fFHkXJ6lhQGq7BH88DVdJDXdN9Oi1EXSbyuKmSao.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ca6039f77245f445c33c5677d7f5323ee425c9b" title="Abiotic Factor Makeshift Battery prop: 8-color print on a 5-tool Prusa XL" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CrimsonIndustry"> /u/CrimsonIndustry </a> <br /> <span><a href="https://v.redd.it/wopv2jq4nvad1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwwzou/abiotic_factor_makeshift_battery_prop_8color/">[comments]</a></span> </td></tr></table>
+
+## Is 3D Printing Fumes Toxic?
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwwr22/is_3d_printing_fumes_toxic](https://www.reddit.com/r/3Dprinting/comments/1dwwr22/is_3d_printing_fumes_toxic)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T18:55:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwwr22/is_3d_printing_fumes_toxic/"> <img alt="Is 3D Printing Fumes Toxic?" src="https://preview.redd.it/sny3clxp3yad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d07a7e2c1ac5103b9f211d9541b92b4c460bba18" title="Is 3D Printing Fumes Toxic?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Every now and then I smell a really pungent smell, and everyone in the house has been coughing for months now. Only recently did I realise that the smell was coming from my brothers 3D printer (picture attached), and he doesn’t give a batshit when I told him that it’s toxic, and could possibly be why we are all coughing. He doesn’t even seem to smell the pungent fumes, while I can smell it very distinctively, in the common toilet that we share, and around the house. He even discards the water (idk what you guys use), into our toilet bathing drainage hole. Can someone enlighten whether this is actually toxic? Thank you! <
+
+## Medical biohazard trashbin (for used needles)
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwvxol/medical_biohazard_trashbin_for_used_needles](https://www.reddit.com/r/3Dprinting/comments/1dwvxol/medical_biohazard_trashbin_for_used_needles)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T18:17:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwvxol/medical_biohazard_trashbin_for_used_needles/"> <img alt="Medical biohazard trashbin (for used needles)" src="https://external-preview.redd.it/azJmMWxheXh3eGFkMSD_q0GtRkuRO1gqpA7S-y_2Kgug1z29fvzn6yA9weF-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae76b061fc52e497a6c52d2c88e75a8f1697b84c" title="Medical biohazard trashbin (for used needles)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kronocide"> /u/Kronocide </a> <br /> <span><a href="https://v.redd.it/3jv4vh9ywxad1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwvxol/medical_biohazard_trashbin_for_used_needles/">[comments]</a></span> </td></tr></table>
+
+## My new lamp design!
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwvccf/my_new_lamp_design](https://www.reddit.com/r/3Dprinting/comments/1dwvccf/my_new_lamp_design)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T17:51:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwvccf/my_new_lamp_design/"> <img alt="My new lamp design! " src="https://b.thumbs.redditmedia.com/Fl1eDIL2x_lOYIvXrcD3PluCiidtVrJ0pe2Zw0L9kIw.jpg" title="My new lamp design! " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheOnearmedpirate"> /u/TheOnearmedpirate </a> <br /> <span><a href="https://i.redd.it/vm8of3qv3wad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwvccf/my_new_lamp_design/">[comments]</a></span> </td></tr></table>
+
+## Pla not looking like in picture
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwv5as/pla_not_looking_like_in_picture](https://www.reddit.com/r/3Dprinting/comments/1dwv5as/pla_not_looking_like_in_picture)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T17:42:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwv5as/pla_not_looking_like_in_picture/"> <img alt="Pla not looking like in picture" src="https://b.thumbs.redditmedia.com/dYKYeqVU2I88Q3boDl8-wgjwvzMYGkpzFbWvs01SQOA.jpg" title="Pla not looking like in picture" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I'm looking for silk pla in a deep purple like in the first image, so I ordered the one in the first image. 2nd picture is what i got. Looks more like a lavender tone to me. Is this just lighting fucking with me? I can still send it back sealed.</p> <p>Or can you link me some silk pla that actually looks something like the first picture?</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alphabethur"> /u/Alphabethur </a> <br /> <span><a href="https://www.reddit.com/gallery/1dwv5as">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwv5as/pla_not_looking_like_in_picture/"
+
+## Wheelchair for a kitten with no back paws ?
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwv2ng/wheelchair_for_a_kitten_with_no_back_paws](https://www.reddit.com/r/3Dprinting/comments/1dwv2ng/wheelchair_for_a_kitten_with_no_back_paws)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T17:39:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwv2ng/wheelchair_for_a_kitten_with_no_back_paws/"> <img alt="Wheelchair for a kitten with no back paws ? " src="https://a.thumbs.redditmedia.com/IGrh90rf7Juv2su4oLIiY-TpLzNV8BOSs7BnxlUMqB8.jpg" title="Wheelchair for a kitten with no back paws ? " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I was told that I should post here about wanting to build a wheelchair for my two legged kitten. She was found in the trash and I have been nursing her since she was 3 days old. She's almost 3 weeks now and starting to try to walk around ! I want to start getting her used to a wheelchair while she's still tiny. Wondering if anyone can help me with that?¿ Thank you so much in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mossproutes"> /u/mossproutes </a> <br /> <span><a href="https://www.reddit.com/gallery/1dwv2ng">[link]</a></span> &#32; <span><a href="https://www.reddit
+
+## Best supports to add to print a cylinder that has these gaps and overhangs?
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwv14u/best_supports_to_add_to_print_a_cylinder_that_has](https://www.reddit.com/r/3Dprinting/comments/1dwv14u/best_supports_to_add_to_print_a_cylinder_that_has)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T17:37:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwv14u/best_supports_to_add_to_print_a_cylinder_that_has/"> <img alt="Best supports to add to print a cylinder that has these gaps and overhangs?" src="https://preview.redd.it/fptlvejkpxad1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=fc1f98c05c14e738750032fbf8b509d2d2ebdc1d" title="Best supports to add to print a cylinder that has these gaps and overhangs?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/smeloa"> /u/smeloa </a> <br /> <span><a href="https://i.redd.it/fptlvejkpxad1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwv14u/best_supports_to_add_to_print_a_cylinder_that_has/">[comments]</a></span> </td></tr></table>
+
+## Wham bam is pretty noice
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwtspb/wham_bam_is_pretty_noice](https://www.reddit.com/r/3Dprinting/comments/1dwtspb/wham_bam_is_pretty_noice)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T16:41:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwtspb/wham_bam_is_pretty_noice/"> <img alt="Wham bam is pretty noice" src="https://external-preview.redd.it/NnJjZXJnMnNmeGFkMbYQWFnokoL9feaMIbXpie6AV5WPEVLN90dFMuVibMoo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=706ebcfce7036b6ad0caa76c8641fc57dbd2fbd6" title="Wham bam is pretty noice" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Fumbles! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Risyo"> /u/Risyo </a> <br /> <span><a href="https://v.redd.it/l1jrvt6sfxad1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwtspb/wham_bam_is_pretty_noice/">[comments]</a></span> </td></tr></table>
+
+## Fallout Liberator Lamp
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwtdwl/fallout_liberator_lamp](https://www.reddit.com/r/3Dprinting/comments/1dwtdwl/fallout_liberator_lamp)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T16:22:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwtdwl/fallout_liberator_lamp/"> <img alt="Fallout Liberator Lamp" src="https://b.thumbs.redditmedia.com/Jwzyw6V4tBjfJ-PnTqn81yh6WfDK8brVtS1wsBgt0nw.jpg" title="Fallout Liberator Lamp" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/APHAS1AN"> /u/APHAS1AN </a> <br /> <span><a href="https://www.reddit.com/gallery/1dvndp3">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwtdwl/fallout_liberator_lamp/">[comments]</a></span> </td></tr></table>
+
+## Losing days to a stupid idea is a feature of 3D printing, not a bug.
+ - [https://www.reddit.com/r/3Dprinting/comments/1dws66r/losing_days_to_a_stupid_idea_is_a_feature_of_3d](https://www.reddit.com/r/3Dprinting/comments/1dws66r/losing_days_to_a_stupid_idea_is_a_feature_of_3d)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T15:28:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dws66r/losing_days_to_a_stupid_idea_is_a_feature_of_3d/"> <img alt="Losing days to a stupid idea is a feature of 3D printing, not a bug." src="https://external-preview.redd.it/cHU4Znp4b28yeGFkMazubFRS_thIdhKOOpwVAWWb4zkRE_ddnRs0SPrNpEQd.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c7e6e00d15df26c3692c9c44d7410105f3646a0" title="Losing days to a stupid idea is a feature of 3D printing, not a bug." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CanYouEvenPhoto"> /u/CanYouEvenPhoto </a> <br /> <span><a href="https://v.redd.it/bhgdxupo2xad1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dws66r/losing_days_to_a_stupid_idea_is_a_feature_of_3d/">[comments]</a></span> </td></tr></table>
+
+## Legend of Zelda inspired Shield from cartridge art.
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwrid8/legend_of_zelda_inspired_shield_from_cartridge_art](https://www.reddit.com/r/3Dprinting/comments/1dwrid8/legend_of_zelda_inspired_shield_from_cartridge_art)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T14:58:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwrid8/legend_of_zelda_inspired_shield_from_cartridge_art/"> <img alt="Legend of Zelda inspired Shield from cartridge art." src="https://preview.redd.it/b8fj140axwad1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e30cda690abc9723a172e5320cfb5b52815320b" title="Legend of Zelda inspired Shield from cartridge art." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheCouchStream"> /u/TheCouchStream </a> <br /> <span><a href="https://i.redd.it/b8fj140axwad1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwrid8/legend_of_zelda_inspired_shield_from_cartridge_art/">[comments]</a></span> </td></tr></table>
+
+## Now THIS is why I will forever be that guy who brings up 3D printing without anyone asking.
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwrghq/now_this_is_why_i_will_forever_be_that_guy_who](https://www.reddit.com/r/3Dprinting/comments/1dwrghq/now_this_is_why_i_will_forever_be_that_guy_who)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T14:56:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwrghq/now_this_is_why_i_will_forever_be_that_guy_who/"> <img alt="Now THIS is why I will forever be that guy who brings up 3D printing without anyone asking." src="https://preview.redd.it/nkncem4zwwad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=97bef95c2fc03430efa90dfdd0a445b126a11f90" title="Now THIS is why I will forever be that guy who brings up 3D printing without anyone asking." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CanYouEvenPhoto"> /u/CanYouEvenPhoto </a> <br /> <span><a href="https://i.redd.it/nkncem4zwwad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwrghq/now_this_is_why_i_will_forever_be_that_guy_who/">[comments]</a></span> </td></tr></table>
+
+## I call this one "Dog Poops in Coffee".
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwr5yn/i_call_this_one_dog_poops_in_coffee](https://www.reddit.com/r/3Dprinting/comments/1dwr5yn/i_call_this_one_dog_poops_in_coffee)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T14:42:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwr5yn/i_call_this_one_dog_poops_in_coffee/"> <img alt="I call this one &quot;Dog Poops in Coffee&quot;. " src="https://external-preview.redd.it/NWZkNWFjZmV1d2FkMazubFRS_thIdhKOOpwVAWWb4zkRE_ddnRs0SPrNpEQd.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=02cfa1ffa985e8d96a7884a2c8775d025943a716" title="I call this one &quot;Dog Poops in Coffee&quot;. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CanYouEvenPhoto"> /u/CanYouEvenPhoto </a> <br /> <span><a href="https://v.redd.it/r4rcbbfeuwad1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwr5yn/i_call_this_one_dog_poops_in_coffee/">[comments]</a></span> </td></tr></table>
+
+## This was the most satisfying support removal ever
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwr3o2/this_was_the_most_satisfying_support_removal_ever](https://www.reddit.com/r/3Dprinting/comments/1dwr3o2/this_was_the_most_satisfying_support_removal_ever)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T14:39:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwr3o2/this_was_the_most_satisfying_support_removal_ever/"> <img alt="This was the most satisfying support removal ever " src="https://preview.redd.it/6qk22m94uwad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f2f477cc168c06ee54b3aea9dc6b474cdd00db4" title="This was the most satisfying support removal ever " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kronocide"> /u/Kronocide </a> <br /> <span><a href="https://i.redd.it/6qk22m94uwad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwr3o2/this_was_the_most_satisfying_support_removal_ever/">[comments]</a></span> </td></tr></table>
+
+## Shapeways is bankrupt, what now?
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwqygc/shapeways_is_bankrupt_what_now](https://www.reddit.com/r/3Dprinting/comments/1dwqygc/shapeways_is_bankrupt_what_now)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T14:32:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Some of y'all may know of Shapeways - the 3D printing service.</p> <p>Apparently they filed for bankruptcy on July 1st and ceased operations on July 2nd. <a href="https://www.cgchannel.com/2024/07/3d-printing-firm-shapeways-files-for-bankruptcy/">https://www.cgchannel.com/2024/07/3d-printing-firm-shapeways-files-for-bankruptcy/</a></p> <p>This stinks because I have been using them for over a decade for specific metal 3D printing needs (420 alloy stainless steel, 316 stainless) as well as nylon jetfusion prints</p> <p>Currently I have a $500 order which was nearly complete (many items ready to ship with a few items still in process). But it appears that the items will not ship despite having customers waiting on the items.</p> <p>So now I need to file a bank chargeback and refund my customers since I highly doubt I'll be seeing my order ship.</p> <p>But what now? Where do y'all go when you need affordable metal 3D printing done? What about HP Jetfusion
+
+## Soooo every temp works?
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwqr1a/soooo_every_temp_works](https://www.reddit.com/r/3Dprinting/comments/1dwqr1a/soooo_every_temp_works)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T14:23:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwqr1a/soooo_every_temp_works/"> <img alt="Soooo every temp works?" src="https://preview.redd.it/rj7rc295rwad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb72b5d1979a163dc477b0b35a014e920ee56045" title="Soooo every temp works?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So I just did the very first print with Overture PETG Black on my A1 Mini and I'm trying to find the right temperature... But every one I tried on the temp tower looks fine👀</p> <p>What would you suggest to use?</p> <p>Ps: I tried to &quot;over sharpen&quot; the image so you can better see the differences </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AccomplishedDuck7867"> /u/AccomplishedDuck7867 </a> <br /> <span><a href="https://i.redd.it/rj7rc295rwad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwqr1a/soooo_every_temp_works/">[comments]</a></
+
+## How can i improve this. Help!
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwpxgm/how_can_i_improve_this_help](https://www.reddit.com/r/3Dprinting/comments/1dwpxgm/how_can_i_improve_this_help)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T13:43:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwpxgm/how_can_i_improve_this_help/"> <img alt="How can i improve this. Help!" src="https://preview.redd.it/0ktwmob4kwad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60a85aacc0841774c3cad6c810daa1fd4db78111" title="How can i improve this. Help!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I am printing this infinite cone but at some layers. Print is like shifted or melted. So that other part is not moving properly in it. Please help</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Odd-Sample-211"> /u/Odd-Sample-211 </a> <br /> <span><a href="https://i.redd.it/0ktwmob4kwad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwpxgm/how_can_i_improve_this_help/">[comments]</a></span> </td></tr></table>
+
+## Massive 3D printed claymore
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwp3pa/massive_3d_printed_claymore](https://www.reddit.com/r/3Dprinting/comments/1dwp3pa/massive_3d_printed_claymore)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T13:02:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwp3pa/massive_3d_printed_claymore/"> <img alt="Massive 3D printed claymore " src="https://external-preview.redd.it/bmd0bzdyYm9jd2FkMS50F69HJcRdf_IgOBPg4ONMbazFLBbPGDvyHO5FfMUC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3ec09ad4cd135322e5a0eb16872319255fe8264" title="Massive 3D printed claymore " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_NovaLabs_"> /u/_NovaLabs_ </a> <br /> <span><a href="https://v.redd.it/4bxfkq4pcwad1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwp3pa/massive_3d_printed_claymore/">[comments]</a></span> </td></tr></table>
+
+## Im hoping for the best
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwoqri/im_hoping_for_the_best](https://www.reddit.com/r/3Dprinting/comments/1dwoqri/im_hoping_for_the_best)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T12:43:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwoqri/im_hoping_for_the_best/"> <img alt="Im hoping for the best" src="https://preview.redd.it/zqjkdnve9wad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=508cfb01a0cd31aba4566f39242e83e78e8af09e" title="Im hoping for the best" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jerkface1337"> /u/jerkface1337 </a> <br /> <span><a href="https://i.redd.it/zqjkdnve9wad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwoqri/im_hoping_for_the_best/">[comments]</a></span> </td></tr></table>
+
+## I'm an idiot
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwoj84/im_an_idiot](https://www.reddit.com/r/3Dprinting/comments/1dwoj84/im_an_idiot)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T12:32:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwoj84/im_an_idiot/"> <img alt="I'm an idiot " src="https://preview.redd.it/j9jsq2wd7wad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da061b94bdcec2dc6b61cf482832db0ee31131a4" title="I'm an idiot " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Well, I had a misprint. So I decided to apply &quot;glue&quot; that came with the Creality K1.</p> <p>Except I am an idiot. They didn't send glue, it was a lubricant. So, I now have to clean my hot end 🙄</p> <p>Thought you might enjoy laughing at my pain </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_amanu"> /u/_amanu </a> <br /> <span><a href="https://i.redd.it/j9jsq2wd7wad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwoj84/im_an_idiot/">[comments]</a></span> </td></tr></table>
+
+## I used a matte varnish to make my 3D printed Chi-ha tank model looks like a resin print
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwn7kp/i_used_a_matte_varnish_to_make_my_3d_printed](https://www.reddit.com/r/3Dprinting/comments/1dwn7kp/i_used_a_matte_varnish_to_make_my_3d_printed)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T11:11:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwn7kp/i_used_a_matte_varnish_to_make_my_3d_printed/"> <img alt="I used a matte varnish to make my 3D printed Chi-ha tank model looks like a resin print " src="https://preview.redd.it/0of6d2gwsvad1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=32f62f848e8df4f6a9ba90ee3051e90eb2e10f15" title="I used a matte varnish to make my 3D printed Chi-ha tank model looks like a resin print " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ornery_Spring9016"> /u/Ornery_Spring9016 </a> <br /> <span><a href="https://i.redd.it/0of6d2gwsvad1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwn7kp/i_used_a_matte_varnish_to_make_my_3d_printed/">[comments]</a></span> </td></tr></table>
+
+## Im making the Prusa Boombox. Print came out perfecty. Love that color change filament!
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwm94s/im_making_the_prusa_boombox_print_came_out](https://www.reddit.com/r/3Dprinting/comments/1dwm94s/im_making_the_prusa_boombox_print_came_out)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T10:04:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwm94s/im_making_the_prusa_boombox_print_came_out/"> <img alt="Im making the Prusa Boombox. Print came out perfecty. Love that color change filament!" src="https://external-preview.redd.it/NTlrOGExN3lndmFkMTdwUl4yVe9NCP2P7ObGZZuQrYiqaRbea0OR0qAcfORV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f18603c8760a9ad78599b0ae94bbe32bdbca808" title="Im making the Prusa Boombox. Print came out perfecty. Love that color change filament!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Ankermake m5. .3mm later height .4mm nozzle Printed at 250mm/s</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vdubmechanic"> /u/vdubmechanic </a> <br /> <span><a href="https://v.redd.it/4x00t3cygvad1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwm94s/im_making_the_prusa_boombox_print_came_out/">[comments]</a></span> </td></tr></table>
+
+## TPU on prusa MK3s
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwlsgd/tpu_on_prusa_mk3s](https://www.reddit.com/r/3Dprinting/comments/1dwlsgd/tpu_on_prusa_mk3s)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T09:30:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwlsgd/tpu_on_prusa_mk3s/"> <img alt="TPU on prusa MK3s" src="https://b.thumbs.redditmedia.com/xXNs1LpgAgVRF3gZoByQS1TaD3otJZ25xaeQMSVBahY.jpg" title="TPU on prusa MK3s" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Printed for a client. Absoluut support horror for a TPU print but everything came off easily. I used Sainsmart tpu (the brand with the best purple tpu ever😏)</p> <p>Could have been a bit better on some overhangs but I had to speed the print up to 60mms because the client needed it asap.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cpt_kaoss"> /u/Cpt_kaoss </a> <br /> <span><a href="https://www.reddit.com/gallery/1dwlsgd">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwlsgd/tpu_on_prusa_mk3s/">[comments]</a></span> </td></tr></table>
+
+## Weird infill issues
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwl2wg/weird_infill_issues](https://www.reddit.com/r/3Dprinting/comments/1dwl2wg/weird_infill_issues)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T08:37:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwl2wg/weird_infill_issues/"> <img alt="Weird infill issues" src="https://a.thumbs.redditmedia.com/ryTNrCAmApXbE2rqwFsww88o3dxwEU2XVDoufMynWo4.jpg" title="Weird infill issues" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi guys, i have this weird problem with my neptune 4 plus. The nozzle suddently started scraping the infill when i started a new print. It worked fine before, idk what to do. What would you do to fix this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MegaSepp88"> /u/MegaSepp88 </a> <br /> <span><a href="https://www.reddit.com/gallery/1dwl2wg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwl2wg/weird_infill_issues/">[comments]</a></span> </td></tr></table>
+
+## 3D printing confused my guests daily.
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwkv40/3d_printing_confused_my_guests_daily](https://www.reddit.com/r/3Dprinting/comments/1dwkv40/3d_printing_confused_my_guests_daily)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T08:21:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwkv40/3d_printing_confused_my_guests_daily/"> <img alt="3D printing confused my guests daily." src="https://external-preview.redd.it/ZXQ4cjJ4N2h5dWFkMQYP4G3wZgDSYOPGcPRW5rucSZqeo07UllCcdZe8Vk29.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=21ef3ae46d4f92a0eb80727732c1dea3479b2017" title="3D printing confused my guests daily." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CanYouEvenPhoto"> /u/CanYouEvenPhoto </a> <br /> <span><a href="https://v.redd.it/yedwh0ghyuad1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwkv40/3d_printing_confused_my_guests_daily/">[comments]</a></span> </td></tr></table>
+
+## Print next to the original sculpt (nvm the mess)
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwkm2g/print_next_to_the_original_sculpt_nvm_the_mess](https://www.reddit.com/r/3Dprinting/comments/1dwkm2g/print_next_to_the_original_sculpt_nvm_the_mess)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T08:02:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwkm2g/print_next_to_the_original_sculpt_nvm_the_mess/"> <img alt="Print next to the original sculpt (nvm the mess)" src="https://preview.redd.it/c9f7kzt9vuad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0e19fad2c367dd9620e4af96ecc99b88424692e" title="Print next to the original sculpt (nvm the mess)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/melekege"> /u/melekege </a> <br /> <span><a href="https://i.redd.it/c9f7kzt9vuad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwkm2g/print_next_to_the_original_sculpt_nvm_the_mess/">[comments]</a></span> </td></tr></table>
+
+## "Are you ready?"
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwjkcy/are_you_ready](https://www.reddit.com/r/3Dprinting/comments/1dwjkcy/are_you_ready)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T06:50:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwjkcy/are_you_ready/"> <img alt="&quot;Are you ready?&quot;" src="https://preview.redd.it/75g70z5diuad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e1cd83311ef9ea3f52d4bf6d36514d4c25193ff" title="&quot;Are you ready?&quot;" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Does anyone here actually play Buckshot Roulette?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/crustytoegaming"> /u/crustytoegaming </a> <br /> <span><a href="https://i.redd.it/75g70z5diuad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwjkcy/are_you_ready/">[comments]</a></span> </td></tr></table>
+
+## Homemade filament dryer
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwiac0/homemade_filament_dryer](https://www.reddit.com/r/3Dprinting/comments/1dwiac0/homemade_filament_dryer)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T05:28:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwiac0/homemade_filament_dryer/"> <img alt="Homemade filament dryer " src="https://b.thumbs.redditmedia.com/ndPDZQIUhLQE_0Q924D8q7QAF1aSfqYt26_S24TostY.jpg" title="Homemade filament dryer " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Pretty much what the title says. It all started when I got a broken feet warmer from my office. I got the nichrome wire out of it and decided to put it to goo use. </p> <p>The case itself is made from a corrugated box which came with the eggs I purchased. Before you panic and come at me with a pitch fork for creating a &quot;fire hazard&quot;, let me tell you this filament dryer has a thermal safety switch that should cut off if something went wrong and the temp got to 100C. There's also a resettable fuse which should detect in case there is an accidental short in the heating filament and if the current draw goes to 3A (expected current draw is less than 1A - 100W coil, esp32 
+
+## I 3D printed the City of Denver
+ - [https://www.reddit.com/r/3Dprinting/comments/1dweqdf/i_3d_printed_the_city_of_denver](https://www.reddit.com/r/3Dprinting/comments/1dweqdf/i_3d_printed_the_city_of_denver)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T02:04:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dweqdf/i_3d_printed_the_city_of_denver/"> <img alt="I 3D printed the City of Denver" src="https://preview.redd.it/u7uj8sgb3tad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=75a77d8bd53159b4d571d2f32358d51925248a62" title="I 3D printed the City of Denver" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Majestic-Weekend-484"> /u/Majestic-Weekend-484 </a> <br /> <span><a href="https://i.redd.it/u7uj8sgb3tad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dweqdf/i_3d_printed_the_city_of_denver/">[comments]</a></span> </td></tr></table>
+
+## Some prints I’ve painted recently. Printed on A1 mini.
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwdxxw/some_prints_ive_painted_recently_printed_on_a1](https://www.reddit.com/r/3Dprinting/comments/1dwdxxw/some_prints_ive_painted_recently_printed_on_a1)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T01:22:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwdxxw/some_prints_ive_painted_recently_printed_on_a1/"> <img alt="Some prints I’ve painted recently. Printed on A1 mini. " src="https://a.thumbs.redditmedia.com/cD8zapHy3hWPv5SZMS2uzL4KV5Qu_nj35jMBoMz06E0.jpg" title="Some prints I’ve painted recently. Printed on A1 mini. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Beneficial-Air-4437"> /u/Beneficial-Air-4437 </a> <br /> <span><a href="https://www.reddit.com/gallery/1dwdxxw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwdxxw/some_prints_ive_painted_recently_printed_on_a1/">[comments]</a></span> </td></tr></table>
+
+## 65 hours, my longest print ever.
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwdjl6/65_hours_my_longest_print_ever](https://www.reddit.com/r/3Dprinting/comments/1dwdjl6/65_hours_my_longest_print_ever)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T01:01:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwdjl6/65_hours_my_longest_print_ever/"> <img alt="65 hours, my longest print ever." src="https://preview.redd.it/9gw9ii92ssad1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e218fd4d1acf110ff6fd762667826236233f4fa7" title="65 hours, my longest print ever." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Composer Giuseppe Verdi </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scottland83"> /u/Scottland83 </a> <br /> <span><a href="https://i.redd.it/9gw9ii92ssad1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1dwdjl6/65_hours_my_longest_print_ever/">[comments]</a></span> </td></tr></table>
+
+## Top-down modeling project
+ - [https://www.reddit.com/r/3Dprinting/comments/1dwcj3h/topdown_modeling_project](https://www.reddit.com/r/3Dprinting/comments/1dwcj3h/topdown_modeling_project)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-07-06T00:09:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1dwcj3h/topdown_modeling_project/"> <img alt="Top-down modeling project" src="https://a.thumbs.redditmedia.com/kbsIsX_0Bz9UdNuVZRxzvFrdlIlnjVGaGGf0jb4rr64.jpg" title="Top-down modeling project" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Wanted to share with this group. A top-down modeling project to 3D print a PC controllable, high-velocity fan/blower. Intended for games to simulate wind.</p> <p>Used FDM printers, pieces are no-support by design.</p> <p>Link to thingiverse: <a href="https://www.thingiverse.com/thing:6682974">https://www.thingiverse.com/thing:6682974</a></p> <p>Prototype testing: <a href="https://m.youtube.com/watch?v=hBZtEzegXDE&amp;embeds_referring_euri=https%3A%2F%2Fwww.thingiverse.com%2F">https://m.youtube.com/watch?v=hBZtEzegXDE&amp;embeds_referring_euri=https%3A%2F%2Fwww.thingiverse.com%2F</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wealt
+
