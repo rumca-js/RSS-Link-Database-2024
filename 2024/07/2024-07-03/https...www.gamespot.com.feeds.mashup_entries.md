@@ -1,0 +1,58 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Microsoft Project And Visio Productivity Apps Are Only $20 Each For A Limited Time
+ - [https://www.gamespot.com/articles/microsoft-project-and-visio-productivity-apps-are-only-20-each-for-a-limited-time/1100-6520401/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/microsoft-project-and-visio-productivity-apps-are-only-20-each-for-a-limited-time/1100-6520401/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-03T23:53:00+00:00
+
+<p dir="ltr">For a limited time, you can grab a pair of pricey Microsoft productivity apps for a very low price. <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://stacksocial.sjv.io/c/1804712/1168624/14766?subId1=subid_value&amp;u=https://www.stacksocial.com/sales/microsoft-project-2021-professional-pc-2&amp;p=http://www.gamespot.com/feeds/news/&amp;event_type=click">Microsoft Project Professional 2021</a> and <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://stacksocial.sjv.io/c/1804712/1168624/14766?subId1=subid_value&amp;u=https://www.stacksocial.com/sales/microsoft-visio-2021-professional-for-windows&amp;p=http://www.gamespot.com/feeds/news/&amp;event_type=click">Microsoft Visio Professional 2021</a> are on sale for only $20 each at StackSocial through July 5. The retail prices for both of these apps are eye-popping in comparison. <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://click.linksynergy.com/deeplink?id=VZ
+
+## Building A New PC? You Can Get Windows 11 Pro For Only $23 This Week
+ - [https://www.gamespot.com/articles/building-a-new-pc-you-can-get-windows-11-pro-for-only-23-this-week/1100-6513394/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/building-a-new-pc-you-can-get-windows-11-pro-for-only-23-this-week/1100-6513394/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-03T23:31:00+00:00
+
+<p>Windows 11 Pro licenses are available for only <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://stacksocial.sjv.io/c/1804712/1168624/14766?subId1=subid_value&amp;u=https://www.stacksocial.com/sales/microsoft-windows-11-pro-6&amp;p=http://www.gamespot.com/feeds/mashup&amp;event_type=click">$23 at StackSocial</a>. Though most PC users can upgrade from Windows 10 to 11 for free (if you haven't yet), this deal is worth considering if you're planning on building your own PC or want to fully replace your operating system with Windows. <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://click.linksynergy.com/deeplink?id=VZfI20jEa0c&amp;mid=24542&amp;u1=subid_value&amp;murl=https://www.microsoft.com/en-us/d/windows-11-pro/dg7gmgf0d8h4&amp;p=http://www.gamespot.com/feeds/mashup&amp;event_type=click">Pro licenses cost $200</a> via Microsoft, while the <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://click.linksynergy.com/deepl
+
+## Diablo Lore Book Box Set Gets Massive Limited-Time Price Cut At Amazon
+ - [https://www.gamespot.com/articles/diablo-lore-book-box-set-gets-massive-limited-time-price-cut-at-amazon/1100-6511603/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/diablo-lore-book-box-set-gets-massive-limited-time-price-cut-at-amazon/1100-6511603/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-03T23:04:00+00:00
+
+<p>Diablo fans can snag a great deal on <a href="https://www.amazon.com/exec/obidos/ASIN/1956916407?tag=gamespot-promos-20">The Horadric Vault - The Complete Collection</a>, a box set featuring four books exploring the lore and stories of Blizzard's iconic action-RPG series. The collection released last November for $100, but right now you can <a href="https://www.amazon.com/exec/obidos/ASIN/1956916407?tag=gamespot-promos-20">purchase the set for only $58.68 at Amazon</a>. This massive 41% discount probably won't be available for long, so Diablo fans should snag it while they can.</p><div><div class="norewrite" title="6511603 - Diablo The Horadric Vault">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                    <a href="https://www.amazon.com/exec/obidos/ASIN/1956916407?tag=gamespot-promos-20">Diablo: The Horadric Vault - The
+
+## Dbrand Steam Deck Accessories And PS5 Faceplates Get Rare Discounts
+ - [https://www.gamespot.com/articles/dbrand-steam-deck-accessories-and-ps5-faceplates-get-rare-discounts/1100-6524705/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dbrand-steam-deck-accessories-and-ps5-faceplates-get-rare-discounts/1100-6524705/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-03T22:45:00+00:00
+
+<p dir="ltr">The Steam Deck is an okay-looking device, but device customization retailer Dbrand exists in hopes of making it look even cooler. If you're in the market to pretty up your Deck, whether original or OLED, you can take advantage of <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://www.dpbolvw.net/click-100770772-15048490?sid=subid_value&amp;url=https://dbrand.com/summer-sale&amp;p=http://www.gamespot.com/feeds/mashup/?platform=1028&amp;popup=1&amp;event_type=click">Dbrand's summer sale</a>. The retailer has a bunch of customization gear on sale for Steam Deck, including the sleek and protective <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://www.dpbolvw.net/click-100770772-15048490?sid=subid_value&amp;url=https://dbrand.com/shop/grip/steam-deck-cases&amp;p=http://www.gamespot.com/feeds/mashup/?platform=1028&amp;popup=1&amp;event_type=click">Killswitch case</a>.</p><div class="norewrite" title="">           <a href="https://www.d
+
+## All The Lego Sets On Sale Ahead Of Prime Day
+ - [https://www.gamespot.com/gallery/best-lego-deals-prime-day/2900-5567](https://www.gamespot.com/gallery/best-lego-deals-prime-day/2900-5567)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-03T22:29:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1701/17013431/4328846-legos.jpg" /><br /><h3><p><a href="https://www.gamespot.com/amazon-prime-day-deals/">Prime Day 2024</a> officially runs July 16-17, but plenty of Lego sets are on sale ahead of the popular shopping holiday. So while we're expecting some pretty great Lego Prime Day deals, these price cuts are mighty enticing for anyone searching for a Lego set ahead of the event. From <a href="https://www.amazon.com/LEGO-Indiana-Building-Project-Minifigures/dp/B0BLJ2DN16?tag=gamespot-primeday-20">Indiana Jones</a> and <a href="https://www.amazon.com/LEGO-Bowsers-Muscle-Expansion-Collectible/dp/B0CGY1MQFD?tag=gamespot-primeday-20">Super Mario</a> to <a href="https://www.amazon.com/LEGO-Starship-Collectible-Mandalorian-Memorabilia/dp/B0BBYRH7P8?tag=gamespot-primeday-20">Star Wars</a> and <a href="https://www.amazon.com/LEGO-Celebration-Imaginative-Preschool-Minifigures/dp/B0BLJ1LPV5?tag=gamespot-primeday-20">Disney</a>, the
+
+## Best Xbox Deals Available Ahead Of Prime Day 2024
+ - [https://www.gamespot.com/gallery/best-xbox-deals-prime-day-2024/2900-5564](https://www.gamespot.com/gallery/best-xbox-deals-prime-day-2024/2900-5564)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-03T22:14:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1701/17013431/4328843-xboxdeals.jpg" /><br /><h3><p>The biggest shopping holiday of the summer, <a href="https://www.gamespot.com/amazon-prime-day-deals/">Amazon Prime Day</a>, is just around the corner on July 16-17. Ahead of all the early Xbox Series X Prime Day deals we're expecting to see in the next few days, there are already a few great discounts to peruse--including price cuts on video games, headsets, controllers, and more.</p><p>If you haven't picked up an Xbox console yet, consider taking a look at the <a href="https://www.amazon.com/Microsoft-Xbox-1TB-Console-Carbon-Black/dp/B0C7HKS2RF?tag=gamespot-primeday-20">Xbox Series S (1TB)</a>, which is available for a generous price drop ahead of Prime Day. You can also pick up the <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/Xbox-
+
+## Save Up To $200 On Kindle Scribe Bundles Ahead Of Amazon Prime Day
+ - [https://www.gamespot.com/articles/save-up-to-200-on-kindle-scribe-bundles-ahead-of-amazon-prime-day/1100-6524667/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/save-up-to-200-on-kindle-scribe-bundles-ahead-of-amazon-prime-day/1100-6524667/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-03T21:09:00+00:00
+
+<p><a href="https://www.gamespot.com/amazon-prime-day-deals/">Amazon Prime Day</a> isn't until July 16, but deals are already hitting the retailer, including on its Kindle Scribe tablets. The Scribe version of Amazon's famous ereader adds a digital notebook so you can use it for writing as well as reading, but it maintains the simplicity of Amazon's E-ink display. Amazon is already offering a bunch of Scribe bundle deals, which come with handy accessories, at deep discounts, so it's a great time to pick up the best Kindle device in 2024.</p><div class="norewrite" title="6524667 - Kindle Scribe Bundles Early Prime Day Deals">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                    <a href="https://www.amazon.com/Kindle-Essentials-including-Leather-Magnetic/dp/B0BFZNX1N5?tag=gamespot-primeday-20">Kindle Scribe Bundle</a>      
+
+## Evercade Alpha Street Fighter And Mega Man Arcade Cabinet Preorders Discounted At Amazon
+ - [https://www.gamespot.com/articles/evercade-alpha-street-fighter-and-mega-man-arcade-cabinet-preorders-discounted-at-amazon/1100-6523783/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/evercade-alpha-street-fighter-and-mega-man-arcade-cabinet-preorders-discounted-at-amazon/1100-6523783/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-03T20:47:00+00:00
+
+<div class="norewrite" title="6523783 - Evercade Alpha Preorder Guide Precap">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4314056-evercadealphamegaman.jpg" />                                 <a href="https://www.amazon.com/dp/B0D5HQZ16W?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/dp/B0D5HQZ16W?tag=gamespot-preorders-20">Evercade Alpha Mega Man Edition</a>           </p>                     
+
