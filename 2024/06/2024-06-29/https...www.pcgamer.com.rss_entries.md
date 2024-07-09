@@ -1,5 +1,12 @@
 # Source:pcgamer, URL:https://www.pcgamer.com/rss, language:en-US
 
+## After three hours of attempts, Elden Ring folk hero Let Me Solo Her has beaten Shadow of the Erdtree's final boss⁠: 'Holy crap, I am shaking'
+ - [https://www.pcgamer.com/games/rpg/after-three-hours-of-attempts-elden-ring-folk-hero-let-me-solo-her-has-beaten-shadow-of-the-erdtrees-final-boss-holy-crap-i-am-shaking](https://www.pcgamer.com/games/rpg/after-three-hours-of-attempts-elden-ring-folk-hero-let-me-solo-her-has-beaten-shadow-of-the-erdtrees-final-boss-holy-crap-i-am-shaking)
+ - RSS feed: https://www.pcgamer.com/rss
+ - date published: 2024-06-29T23:35:52+00:00
+
+You Defeated.
+
 ## BroShep's voice actor played so many weird alien side characters in Mass Effect he doesn't mind if people prefer FemShep: 'I'm afraid you'll be forced to encounter me as Niftu Cal and Blasto and any vorcha you run into'
  - [https://www.pcgamer.com/games/rpg/brosheps-voice-actor-played-so-many-weird-alien-side-characters-in-mass-effect-he-doesnt-mind-if-people-prefer-femshep-im-afraid-youll-be-forced-to-encounter-me-as-niftu-cal-and-blasto-and-any-vorcha-you-run-into](https://www.pcgamer.com/games/rpg/brosheps-voice-actor-played-so-many-weird-alien-side-characters-in-mass-effect-he-doesnt-mind-if-people-prefer-femshep-im-afraid-youll-be-forced-to-encounter-me-as-niftu-cal-and-blasto-and-any-vorcha-you-run-into)
  - RSS feed: https://www.pcgamer.com/rss

@@ -1,5 +1,12 @@
 # Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
 
+## Sunak Says Labour Would Inflict 'Irreversible' Harm Within Weeks
+ - [https://www.bloomberg.com/en/news/thp/2024-06-29/sunak-starmer-s-labour-would-inflict-irreversible-harm-within-weeks](https://www.bloomberg.com/en/news/thp/2024-06-29/sunak-starmer-s-labour-would-inflict-irreversible-harm-within-weeks)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2024-06-29T21:32:06+00:00
+
+Sir Keir Starmer could inflict "irreversible damage" on the UK within 100 days of entering Downing Street, Rishi Sunak warned, as time runs out for him to save the Tories' election hopes.
+
 ## Who Could Win Iran’s Presidency, and Why It Matters
  - [https://www.bloomberg.com/news/articles/2024-06-29/iran-election-who-will-succeed-president-raisi-and-why-it-matters](https://www.bloomberg.com/news/articles/2024-06-29/iran-election-who-will-succeed-president-raisi-and-why-it-matters)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml

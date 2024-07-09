@@ -1,5 +1,65 @@
 # Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
+## Redbox Owner Chicken Soup for the Soul Files for Chapter 11
+ - [https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730](https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T23:34:39+00:00
+
+<p>Article URL: <a href="https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/">https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40834061">https://news.ycombinator.com/item?id=40834061</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+## We Launched the Largest Real-Time Global CO2 Map
+ - [https://www.airgradient.com/blog/airgradient-global-co2-map](https://www.airgradient.com/blog/airgradient-global-co2-map)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T23:34:15+00:00
+
+<p>Article URL: <a href="https://www.airgradient.com/blog/airgradient-global-co2-map/">https://www.airgradient.com/blog/airgradient-global-co2-map/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40834059">https://news.ycombinator.com/item?id=40834059</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+## Swiss Broadcasting Corporation to pull plug on FM radio
+ - [https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760](https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T23:27:02+00:00
+
+<p>Article URL: <a href="https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760">https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40834012">https://news.ycombinator.com/item?id=40834012</a></p>
+<p>Points: 19</p>
+<p># Comments: 6</p>
+
+## Adding a USB port to the ThinkPad X1 Nano (the hard way)
+ - [https://jcs.org/2024/05/29/x1usb](https://jcs.org/2024/05/29/x1usb)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T23:17:53+00:00
+
+<p>Article URL: <a href="https://jcs.org/2024/05/29/x1usb">https://jcs.org/2024/05/29/x1usb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40833960">https://news.ycombinator.com/item?id=40833960</a></p>
+<p>Points: 34</p>
+<p># Comments: 5</p>
+
+## My philosophy of exceptions: they're always ambiguous (2021)
+ - [https://adamhooper.medium.com/my-philosophy-of-exceptions-theyre-always-ambiguous-9b419d2ccbef](https://adamhooper.medium.com/my-philosophy-of-exceptions-theyre-always-ambiguous-9b419d2ccbef)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T22:36:27+00:00
+
+<p>Article URL: <a href="https://adamhooper.medium.com/my-philosophy-of-exceptions-theyre-always-ambiguous-9b419d2ccbef">https://adamhooper.medium.com/my-philosophy-of-exceptions-theyre-always-ambiguous-9b419d2ccbef</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40833743">https://news.ycombinator.com/item?id=40833743</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+## Trilobites killed by volcanic ash reveal features never seen before
+ - [https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T22:14:02+00:00
+
+<p>Article URL: <a href="https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html">https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40833645">https://news.ycombinator.com/item?id=40833645</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
 ## NuExtract: A LLM for Structured Extraction
  - [https://huggingface.co/numind/NuExtract](https://huggingface.co/numind/NuExtract)
  - RSS feed: https://hnrss.org/frontpage
@@ -28,6 +88,16 @@
 <p>Article URL: <a href="https://theconversation.com/how-divorce-is-boosting-gender-equality-in-sweden-new-study-233474">https://theconversation.com/how-divorce-is-boosting-gender-equality-in-sweden-new-study-233474</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=40833385">https://news.ycombinator.com/item?id=40833385</a></p>
 <p>Points: 4</p>
+<p># Comments: 0</p>
+
+## CVE-2021-4440: A Linux CNA Case Study
+ - [https://grsecurity.net/cve-2021-4440_linux_cna_case_study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T21:01:34+00:00
+
+<p>Article URL: <a href="https://grsecurity.net/cve-2021-4440_linux_cna_case_study">https://grsecurity.net/cve-2021-4440_linux_cna_case_study</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40833334">https://news.ycombinator.com/item?id=40833334</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 ## The Operational Wargame Series: The best game not in stores now
@@ -167,6 +237,23 @@ It is an open-source alternative to Confluence and Notion.<p>I have been working
 <p>Points: 21</p>
 <p># Comments: 5</p>
 
+## The super effectiveness of Pokémon embeddings using only raw JSON and images
+ - [https://minimaxir.com/2024/06/pokemon-embeddings](https://minimaxir.com/2024/06/pokemon-embeddings)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T17:03:53+00:00
+
+<p>Article URL: <a href="https://minimaxir.com/2024/06/pokemon-embeddings/">https://minimaxir.com/2024/06/pokemon-embeddings/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40831964">https://news.ycombinator.com/item?id=40831964</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+## Show HN: Pickcode – Free online code editor for kids
+ - [https://pickcode.io](https://pickcode.io)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T16:56:51+00:00
+
+<p>Hi HN! I've posted Pickcode a few times (most recently <a href="https://news.ycombinator.com/item?id=38365638">https://news.ycombinator.com/item?id=38365638</a>), but we've improved things quite a bit so I thought it was worth posting again. This is a bit of 1.0 release after a long year of working on the company full time!<p>Pickcode is basically Replit-lite, for kids. The editor is simple: text editor + output console + big green button to run your code. We support Python, HTML/CSS/JS, Java, and our block/text hybrid language, Pickcode VL.  We're partners on code.org's Hour of Code, and hundreds of thousands of students have tried our free stuff through them.<p>An account for individual kids is totally free, and we offer some free Python and Pickcode VL lessons to get them started. We make money by selling licenses to schools for better customer support and roster/lesson management features.<p>You can use this demo account I made to try out the editor:<p><pre><code>  email: demo@
+
 ## Gen AI is passé. Enter the age of agentic AI
  - [https://siliconangle.com/2024/06/29/gen-ai-passe-enter-age-agentic-ai](https://siliconangle.com/2024/06/29/gen-ai-passe-enter-age-agentic-ai)
  - RSS feed: https://hnrss.org/frontpage
@@ -298,6 +385,16 @@ It is an open-source alternative to Confluence and Notion.<p>I have been working
 <p>Points: 4</p>
 <p># Comments: 0</p>
 
+## Text for Proofing Fonts (2020)
+ - [https://www.typography.com/blog/text-for-proofing-fonts](https://www.typography.com/blog/text-for-proofing-fonts)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T13:34:55+00:00
+
+<p>Article URL: <a href="https://www.typography.com/blog/text-for-proofing-fonts">https://www.typography.com/blog/text-for-proofing-fonts</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40830395">https://news.ycombinator.com/item?id=40830395</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
 ## The Economics of Writing Technical Books
  - [https://architectelevator.com/strategy/book-author-economics](https://architectelevator.com/strategy/book-author-economics)
  - RSS feed: https://hnrss.org/frontpage
@@ -378,6 +475,16 @@ It is an open-source alternative to Confluence and Notion.<p>I have been working
 <p>Points: 8</p>
 <p># Comments: 1</p>
 
+## LosslessCut: The Swiss army knife of lossless video/audio editing
+ - [https://github.com/mifi/lossless-cut](https://github.com/mifi/lossless-cut)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T11:18:37+00:00
+
+<p>Article URL: <a href="https://github.com/mifi/lossless-cut">https://github.com/mifi/lossless-cut</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40829494">https://news.ycombinator.com/item?id=40829494</a></p>
+<p>Points: 43</p>
+<p># Comments: 8</p>
+
 ## Researchers at ETH Zurich develop the fastest possible flow algorithm
  - [https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html](https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -438,6 +545,16 @@ It is an open-source alternative to Confluence and Notion.<p>I have been working
 <p>Points: 11</p>
 <p># Comments: 8</p>
 
+## Edelman's Steps Toward a Conscious Artifact (2021)
+ - [https://arxiv.org/abs/2105.10461](https://arxiv.org/abs/2105.10461)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T08:16:40+00:00
+
+<p>Article URL: <a href="https://arxiv.org/abs/2105.10461">https://arxiv.org/abs/2105.10461</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40828647">https://news.ycombinator.com/item?id=40828647</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
 ## It's not just you, Next.js is getting harder to use
  - [https://www.propelauth.com/post/nextjs-challenges](https://www.propelauth.com/post/nextjs-challenges)
  - RSS feed: https://hnrss.org/frontpage
@@ -488,6 +605,26 @@ It is an open-source alternative to Confluence and Notion.<p>I have been working
 <p>Points: 11</p>
 <p># Comments: 4</p>
 
+## U++ – Cross-Platform App Development Framework
+ - [https://www.ultimatepp.org/index.html](https://www.ultimatepp.org/index.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T07:05:14+00:00
+
+<p>Article URL: <a href="https://www.ultimatepp.org/index.html">https://www.ultimatepp.org/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40828426">https://news.ycombinator.com/item?id=40828426</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+## Open source is neither a community nor a democracy
+ - [https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab](https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T07:04:41+00:00
+
+<p>Article URL: <a href="https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab">https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40828424">https://news.ycombinator.com/item?id=40828424</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
 ## Raycast (YC W20) Is Hiring a Senior Product Designer (UTC ± 3 Hours)
  - [https://www.raycast.com/jobs/senior-product-designer](https://www.raycast.com/jobs/senior-product-designer)
  - RSS feed: https://hnrss.org/frontpage
@@ -514,6 +651,16 @@ It is an open-source alternative to Confluence and Notion.<p>I have been working
  - date published: 2024-06-29T06:55:13+00:00
 
 <p>This is my first time teaching. I just graduated in 2020 and have been working as a production support engineer.<p>These are the subjects that I am assigned to teach(each in odd and even semesters)<p>- Java(object oriented concepts+core java+advanced java)<p>This is a 2 semester course<p>Sample contents with reference books here:<p>https://csitprogram.blogspot.com/2012/08/csc-403-advanced-java-programming.html<p>- Data Structures and Algorithms(with practical labs in java)<p>This is also a 2 semester courses, this is not "java"ic, but I am going to make them do the labs in java as per the syllabus.<p>I am going through couple of books:<p>-  Y. Daniel Liang<p>-  Herbert Schildt<p>- Car S. Horstmann, Core Java Volume I and II – Advanced Features, 8th Edition, 2008, Prentice Hall.<p>- Y. Daniel Liang, Introduction to Java Programming, 9th Edition, Comprehensive Version, Pearson/ Prentice Hall.<p>- H. Deitel, P. Deitel. Java How to Program. 7th Edition, 2007, Prentice Hall.<p>Any guida
+
+## How to get away with fraud (2018)
+ - [https://www.theguardian.com/news/2018/jun/28/how-to-get-away-with-financial-fraud](https://www.theguardian.com/news/2018/jun/28/how-to-get-away-with-financial-fraud)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T06:26:10+00:00
+
+<p>Article URL: <a href="https://www.theguardian.com/news/2018/jun/28/how-to-get-away-with-financial-fraud">https://www.theguardian.com/news/2018/jun/28/how-to-get-away-with-financial-fraud</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40828256">https://news.ycombinator.com/item?id=40828256</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
 ## The Flexipede Revisited
  - [https://www.chilton-computing.org.uk/acl/htmls/flexipede/flexipede.htm](https://www.chilton-computing.org.uk/acl/htmls/flexipede/flexipede.htm)
@@ -562,6 +709,36 @@ It is an open-source alternative to Confluence and Notion.<p>I have been working
 
 <p>Article URL: <a href="https://github.com/kvcache-ai/Mooncake">https://github.com/kvcache-ai/Mooncake</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=40828091">https://news.ycombinator.com/item?id=40828091</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+## Show HN: Tool to Maintain Your Network
+ - [https://www.ntwrk.site](https://www.ntwrk.site)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T05:24:21+00:00
+
+<p>Article URL: <a href="https://www.ntwrk.site">https://www.ntwrk.site</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40828074">https://news.ycombinator.com/item?id=40828074</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+## Neo Geo Architecture: A practical analysis
+ - [https://www.copetti.org/writings/consoles/neogeo](https://www.copetti.org/writings/consoles/neogeo)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T05:23:30+00:00
+
+<p>Article URL: <a href="https://www.copetti.org/writings/consoles/neogeo/">https://www.copetti.org/writings/consoles/neogeo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40828068">https://news.ycombinator.com/item?id=40828068</a></p>
+<p>Points: 68</p>
+<p># Comments: 7</p>
+
+## ECMAScript 2024: What's New?
+ - [https://2ality.com/2024/06/ecmascript-2024.html](https://2ality.com/2024/06/ecmascript-2024.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2024-06-29T05:21:46+00:00
+
+<p>Article URL: <a href="https://2ality.com/2024/06/ecmascript-2024.html">https://2ality.com/2024/06/ecmascript-2024.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=40828058">https://news.ycombinator.com/item?id=40828058</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
 

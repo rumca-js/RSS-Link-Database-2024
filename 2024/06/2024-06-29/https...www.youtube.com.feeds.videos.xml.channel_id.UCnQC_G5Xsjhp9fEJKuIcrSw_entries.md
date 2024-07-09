@@ -1,5 +1,12 @@
 # Source:Ben Shapiro, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCnQC_G5Xsjhp9fEJKuIcrSw, language:en-US
 
+## What does she have to do with this?
+ - [https://www.youtube.com/watch?v=qc4Brb9Q43Q](https://www.youtube.com/watch?v=qc4Brb9Q43Q)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCnQC_G5Xsjhp9fEJKuIcrSw
+ - date published: 2024-06-29T23:00:22+00:00
+
+
+
 ## Why is he waving a stool around?
  - [https://www.youtube.com/watch?v=nBuNE22vhkQ](https://www.youtube.com/watch?v=nBuNE22vhkQ)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCnQC_G5Xsjhp9fEJKuIcrSw

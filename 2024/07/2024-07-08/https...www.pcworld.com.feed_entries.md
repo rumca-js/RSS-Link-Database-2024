@@ -1,0 +1,284 @@
+# Source:PCWorld, URL:https://www.pcworld.com/feed, language:en
+
+## Microsoft’s top diagramming tool is just $20 this July
+ - [https://www.pcworld.com/article/2389100/microsofts-top-diagramming-tool-is-just-20-this-july.html](https://www.pcworld.com/article/2389100/microsofts-top-diagramming-tool-is-just-20-this-july.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T20:52:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p><strong>TL;DR:</strong> Work better with quantitative data with <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://shop.pcworld.com/sales/microsoft-visio-2021-professional-for-windows?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-visio-2021-professional-for-windows&amp;utm_term=scsf-600082&amp;utm_content=a0xRn000001dY1FIAU&amp;scsonar=1&amp;xcust=2-1-2389100-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Microsoft Visio 2021 Professional for Windows</a>, now just $19.97 through 7/21.</p>
+
+
+
+<p>When it comes to crunching and visualizing numbers, Microsoft Excel is one of the world&rsquo;s best tools. But what if you want to show textual or qualitative information? That&rsquo;s where <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://shop.pcworld.co
+
+## What if Valve made a Steam Deck for TVs? Well, we made our own!
+ - [https://www.pcworld.com/article/2388966/what-if-valve-made-a-steam-deck-for-your-tv.html](https://www.pcworld.com/article/2388966/what-if-valve-made-a-steam-deck-for-your-tv.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T20:34:43+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you add an HDMI dock and a wireless controller to your Steam Deck, it&rsquo;s basically a console that can play Steam games on your PC. But can you build a box that plugs into your TV and handles Steam as well as the Steam Deck does, without needing a screen or battery? Will Smith tried that very thing in the latest PCWorld video.</p>
+
+
+
+<p>Digging through the piles of loose tech at our PCWorld office, Will found a <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://www.bee-link.com/products/ser7-7840hs&amp;xcust=2-1-2388966-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Beelink SER7</a>, a gaming mini PC that runs off an AMD 7840HS APU. It&rsquo;s remarkably similar to portable PC gaming gadgets like the Steam Deck, except it uses laptop hardware to make a teeny tiny desktop instead.</p>
+
+
+
+<p>The second part of this 
+
+## The web’s best Costco deal is back for a limited time
+ - [https://www.pcworld.com/article/2389081/the-webs-best-costco-deal-is-back-for-a-limited-time.html](https://www.pcworld.com/article/2389081/the-webs-best-costco-deal-is-back-for-a-limited-time.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T20:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p><strong>TL;DR:</strong> Sign up for a one-year <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://shop.pcworld.com/sales/costco-1-year-gold-star-membership-a-40-digital-costco-shop-card?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=costco-1-year-gold-star-membership-a-40-digital-costco-shop-card&amp;utm_term=scsf-600553&amp;utm_content=a0xRn000001fJNtIAM&amp;scsonar=1&amp;xcust=2-1-2389081-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Costco Gold Star Membership</a> and you&rsquo;ll get a $40 digital Costco Shop Card*, too.</p>
+
+
+
+<p>Everyone wants to save money. Doing so is a whole lot easier when you&rsquo;re doing your shopping at Costco. Fortunately, you can sign up for one of the best deals you&rsquo;ll find on the web right now. For a limited time, you can get a $40 digital Costco
+
+## Nab this 15.6-inch USB-C portable monitor for an absurdly low $66
+ - [https://www.pcworld.com/article/2388928/this-15-6-inch-usb-c-portable-monitor-is-super-cheap-with-coupon.html](https://www.pcworld.com/article/2388928/this-15-6-inch-usb-c-portable-monitor-is-super-cheap-with-coupon.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T17:38:02+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Need an extra monitor for laptop productivity while you&rsquo;re out and about? There are slim, portable monitors for that!</p>
+
+
+
+<p>And some of them are <em>really affordable</em>. I mean, this <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://www.amazon.com/Portable-Monitor-15-6inch-Computer-Protector/dp/B088D8JG3L/&amp;xcust=2-1-2388928-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">15.6-inch portable monitor is down to just $66 on Amazon</a>, a huge drop from its regular price of $136. Now <em>that&rsquo;s</em> a bargain! To get that price, be sure to click the coupon box for another $24 off.</p>
+
+
+
+<p>Featuring a 1080p IPS screen with a wide viewing angle, this portable monitor promises great visuals, excellent color, and clear images. Whether it&rsquo;s to extend your laptop&rsquo;s screen space or watch videos f
+
+## Bose’s waterproof Bluetooth speaker is on sale for the cheapest it’s ever been
+ - [https://www.pcworld.com/article/2388891/boses-waterproof-bluetooth-speaker-is-on-sale-for-the-cheapest-its-ever-been.html](https://www.pcworld.com/article/2388891/boses-waterproof-bluetooth-speaker-is-on-sale-for-the-cheapest-its-ever-been.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T16:01:02+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It&rsquo;s summer! That means it&rsquo;s time to shake off the heat to the beat of your favorite songs with the <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B0CPYPGH5R/&amp;xcust=2-1-2388891-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Bose SoundLink Flex portable speaker</a>, especially now that it&rsquo;s down to a <strong>new best price of $99 on Amazon</strong>.</p>
+
+
+
+<p>This discounted portable speaker works well indoors, but it&rsquo;s especially useful when you want to take it with you to a lawn party, a backyard barbecue, the beach, or even camping.</p>
+
+
+
+<p>This fantastic speaker promises the same deep and clear audio that you get with any Bose product, boasting special proprietary technology that adapts the sound quality to your environmen
+
+## Asus motherboards now support native Windows RGB controls
+ - [https://www.pcworld.com/article/2388752/asus-motherboards-now-support-windows-dynamic-lighting-app.html](https://www.pcworld.com/article/2388752/asus-motherboards-now-support-windows-dynamic-lighting-app.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T15:51:24+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>As someone who&rsquo;s <a href="https://www.pcworld.com/article/406235/best-gaming-keyboard.html">drowning in gaming keyboards</a>, I think I have the authority to say that most Windows apps created by manufacturers for programming RGB lights suck&mdash;especially <a href="https://www.pcworld.com/article/1915729/asus-azoth-keyboard-review.html">Armoury Crate from Asus</a>.</p>
+
+
+
+<p>Which is why it&rsquo;s great that Dynamic Lighting is making such apps unnecessary for Asus motherboards, at least for some functions.</p>
+
+
+
+<p>Dynamic Lighting is Microsoft&rsquo;s attempt to unify these bling management apps with <a href="https://www.pcworld.com/article/1928248/dynamic-lighting-will-be-windows-tool-to-manage-your-pcs-bling.html">an all-in-one solution on Windows 11</a>. It means that if you use a Corsair keyboard, a Razer mouse, a HyperX headset, and a Gigabyte mo
+
+## Get a pillow stand and page turner for your Kindle, $60 all-in
+ - [https://www.pcworld.com/article/2388791/get-a-pillow-stand-and-page-turner-for-your-kindle-now-60-together.html](https://www.pcworld.com/article/2388791/get-a-pillow-stand-and-page-turner-for-your-kindle-now-60-together.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T15:18:09+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The one thing that annoys me when reading my Kindle? Trying to find a comfortable reading position, especially when I&rsquo;m in bed.</p>
+
+
+
+<p>If you&rsquo;re like me, then this <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://www.amazon.com/PlsHugek-Pillow-Holder-Reading-Samsung/dp/B0CYBYQ5LW/&amp;xcust=2-1-2388791-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">cozy pillow stand with built-in snack bowl</a> might be just the thing you need. And now that it&rsquo;s just $40 for Prime members, it&rsquo;s worth getting while you can.</p>
+
+
+
+<p>This little pillow stand frees up your hands and lets you enjoy reading your favorite book on your Kindle&mdash;or binge-watching TV shows on your tablet&mdash;while also holding a little snack for you.</p>
+
+
+
+<p>It allows you to adjust your Kindle angle however you want, so you c
+
+## How to download VMware Workstation Pro’s hidden installer file
+ - [https://www.pcworld.com/article/2388668/vmware-workstation-pro-how-to-install-the-free-professional-tool.html](https://www.pcworld.com/article/2388668/vmware-workstation-pro-how-to-install-the-free-professional-tool.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T15:01:11+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Good news! You no longer need to spend hundreds of dollars just to set up a virtual PC, whether it&rsquo;s to try Linux or test other Windows versions. VMware Workstation Pro, which used to cost around $250, recently became available free of charge for private use.</p>
+
+
+
+<p>The program is offered directly on the <a href="https://go.skimresources.com?id=111346X1569483&amp;xs=1&amp;url=https://www.broadcom.com/&amp;xcust=2-1-2388668-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Broadcom</a> website, but finding the download can be a bit tricky. Here&rsquo;s a step-by-step walkthrough on how to download and install VMware Workstation Pro.</p>
+
+
+
+<h2 class="wp-block-heading" id="downloading-vmware-workstation-pro">Downloading VMware Workstation Pro</h2>
+
+
+
+<p>To access the Broadcom download area, you must first create a user account. To
+
+## Lofree Edge review: A low-profile keyboard with supercar vibes
+ - [https://www.pcworld.com/article/2376965/lofree-edge-review.html](https://www.pcworld.com/article/2376965/lofree-edge-review.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Amazing looks</li><li>Super-light weight for metal build</li><li>Great, quiet switches</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>No hot-swap switch sockets</li><li>Bluetooth only wireless</li><li>Basic software customization</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">Though the Lofree Edge can&rsquo;t compete with low-profile, high-value entries from Keychron or Nuphy in terms of feat
+
+## WordPad is dead, but Notepad finally has spell check
+ - [https://www.pcworld.com/article/2388640/wordpad-is-dead-but-notepad-finally-has-spell-check.html](https://www.pcworld.com/article/2388640/wordpad-is-dead-but-notepad-finally-has-spell-check.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T14:25:31+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Earlier this year, Microsoft killed WordPad&mdash;the free and surprisingly capable built-in word processor that debuted in Windows 95. For this, they must be punished. Yet while Microsoft taketh away, they also giveth.</p>
+
+
+
+<p>After several months of testing, the Notepad text editor is finally getting spell check and auto-correct features. Maybe that&rsquo;ll even things out.</p>
+
+
+
+<p>We reported on this <a href="https://www.pcworld.com/article/2276257/writres-rejoyce-windows-notepad-finally-has-spell-check.html">back in March</a> when this upgrade to Notepad began rolling out to Windows 11 Insider builds. Now it appears that it&rsquo;s done with testing and heading out to everyone (or at least about 20 percent of everyone since <a href="https://www.pcworld.com/article/2258181/hey-everyone-its-time-to-switch-to-windows-11.html">a lot of you are still on Windo
+
+## Don’t fall for the no-bloatware version of Windows 11 going around
+ - [https://www.pcworld.com/article/2388665/illegal-windows-11-version-lures-with-bloatware-free-design-dont-fall-for-it.html](https://www.pcworld.com/article/2388665/illegal-windows-11-version-lures-with-bloatware-free-design-dont-fall-for-it.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T14:18:22+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>There&rsquo;s an enticing version of Windows 11 making its rounds on the internet right now, offering a slimmed-down design without any of the usual bloatware (e.g., pre-installed software you didn&rsquo;t ask for) bogging down and bloating up the operating system.</p>
+
+
+
+<p>Dubbed &ldquo;Windows 11 Government Edition&rdquo; (allegedly meant for government agencies and the like), the version seems tempting at first glance. But you shouldn&rsquo;t fall for it! Because there are some risks.</p>
+
+
+
+<h2 class="wp-block-heading" id="is-windows-11-government-edition-real">Is Windows 11 Government Edition real?</h2>
+
+
+
+<p>This version of Windows 11 was apparently caught in a tweet by user Andy Kirby, who showed screenshots of the alleged government edition.</p>
+
+
+
+<p>He describes the Windows version as a &ldquo;maximally deflated version with all telemetry and Microsoft
+
+## Is Windows 11’s built-in antivirus enough for normal people?
+ - [https://www.pcworld.com/article/2379676/is-windows-11s-built-in-antivirus-enough-for-normal-everyday-users.html](https://www.pcworld.com/article/2379676/is-windows-11s-built-in-antivirus-enough-for-normal-everyday-users.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It&rsquo;s common sense that if you have a Windows PC, you need a third-party security suite to protect it. Right? Well, maybe not.</p>
+
+
+
+<p>That might&rsquo;ve been the common sense mantra for decades, but things are starting to change and it may not be true anymore. With added protections incorporated into Microsoft&rsquo;s latest version of Windows, you may not actually need a separate security solution.</p>
+
+
+
+<p>Are Windows 11&rsquo;s built-in antivirus and security features enough for everyday users? The answer is, &ldquo;Yes&hellip; but.&rdquo; Here&rsquo;s why.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading: </strong><a href="https://www.pcworld.com/article/407277/best-antivirus-for-windows-pc.html">The best Windows antivirus software</a></p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading" id="windows-security-in-a-nutshell">Windows 
+
+## Is your SSD about to die? 10 warning signs you shouldn’t ignore
+ - [https://www.pcworld.com/article/2374411/is-your-ssd-about-to-die-xx-warning-signs-you-shouldnt-ignore.html](https://www.pcworld.com/article/2374411/is-your-ssd-about-to-die-xx-warning-signs-you-shouldnt-ignore.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>In 2024, just about all modern computers use SSDs as their primary data storage format (<a href="https://www.pcworld.com/article/608636/best-chromebooks.html">except for maybe budget Chromebooks</a>). Maybe you&rsquo;ve done research to get the <a href="https://www.pcworld.com/article/407542/best-ssds.html">best SSDs worth your money</a>, equipping your desktops and laptops for utmost performance.</p>
+
+
+
+<p>Sadly, SSDs don&rsquo;t last forever. Sure, their performance and durability have improved over the years, but even the ones with impressive <a href="https://www.pcworld.com/article/784401/tbw-how-this-obscure-rating-can-affect-your-ssds-warranty.html">terabytes written (TBW) ratings</a> and long warranties still die eventually.</p>
+
+
+
+<p>You&rsquo;ll know it&rsquo;s coming before it happens, too. Here are some key warning signs that your SSD is at the end of 
+
+## Surfshark review: A versatile VPN service packed with extras
+ - [https://www.pcworld.com/article/397529/surfshark-vpn-review-2.html](https://www.pcworld.com/article/397529/surfshark-vpn-review-2.html)
+ - RSS feed: https://www.pcworld.com/feed
+ - date published: 2024-07-08T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a Glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Unlimited simultaneous device connections</li><li>Works well with Netflix</li><li>Good catalog of extra features</li><li>Low price on long-term plans</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Expensive monthly plan</li><li>Large portion of global servers are virtual</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="ou
+

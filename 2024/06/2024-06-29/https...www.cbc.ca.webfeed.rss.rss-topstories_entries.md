@@ -1,11 +1,25 @@
 # Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
 
+## Canada advances to Copa America quarterfinals with goalless draw vs. Chile
+ - [https://www.cbc.ca/sports/soccer/copa-america-recap-june-29-1.7250950?cmp=rss](https://www.cbc.ca/sports/soccer/copa-america-recap-june-29-1.7250950?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-29T22:00:27+00:00
+
+<img alt="Two male soccer players are seen challenging for a ball." height="349" src="https://i.cbc.ca/1.7251018.1719711141!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/jonathan-david-29062024.jpg" title="Canada&apos;s Jonathan David, left, challenges for the ball during a Copa America Group A match against Chile in Orlando, Fla., on Saturday." width="620" /><p>Canada played out a dour goalless Copa America draw with 10-man Chile to claim second place in Group A and progress to the quarterfinals, while the Chileans finished third to exit in the group stage for the first time since 2004.</p>
+
 ## Railway workers at CN, CPKC vote to reauthorize strike but open federal mediation, union says
  - [https://www.cbc.ca/news/canada/montreal/cn-cpkc-workers-reauthorize-strike-1.7250941?cmp=rss](https://www.cbc.ca/news/canada/montreal/cn-cpkc-workers-reauthorize-strike-1.7250941?cmp=rss)
  - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
  - date published: 2024-06-29T17:06:43+00:00
 
 <img alt="Canadian National Railway Co. says it earned $1.42 billion in the three months ended Dec. 31, 2022, up from $1.2 billion in the fourth quarter of 2021. CN rail trains are shown at the CN MacMillan Yard in Vaughan, Ont., on Monday, June 20, 2022. THE CANADIAN PRESS/Nathan Denette" height="349" src="https://i.cbc.ca/1.7250963.1719693676!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cn-rail-rslts-20230124.JPG" title="Canadian National Railway Co. says it earned $1.42 billion in the three months ended Dec. 31, 2022, up from $1.2 billion in the fourth quarter of 2021. CN rail trains are shown at the CN MacMillan Yard in Vaughan, Ont., on Monday, June 20, 2022. THE CANADIAN PRESS/Nathan Denette" width="620" /><p>Union members at CN and CPKC railways have voted to reauthorize strikes at both companies if negotiated settlements can't be reached. Teamsters Canada said in a statement Saturday that union members at both railways voted almost 99 per cent in favour of reauthori
+
+## Doctor charged in Ontario patient deaths expected to be acquitted due to inadmissible evidence
+ - [https://www.cbc.ca/news/canada/ottawa/doctor-brian-nadler-acquittal-expected-tuesday-1.7250767?cmp=rss](https://www.cbc.ca/news/canada/ottawa/doctor-brian-nadler-acquittal-expected-tuesday-1.7250767?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-06-29T16:50:18+00:00
+
+<img alt="A photo of a man with glasses." height="349" src="https://i.cbc.ca/1.5966660.1683907681!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brian-nadler.jpg" title="Nadler faced two unprofessional conduct charges during his time at the University of Saskatchewan. " width="620" /><p>Dr. Brian Nadler, who formerly practised at a hospital in Hawkesbury, Ont., and was facing eight charges in connection to the deaths of four patients, will likely be acquitted on all counts on Tuesday, according to both Crown and defence counsel.</p>
 
 ## WATCH | Calgary water use drops as completion of feeder main repairs nears
  - [https://www.cbc.ca/news/canada/calgary/calgary-water-main-repair-update-june-29-1.7250898?cmp=rss](https://www.cbc.ca/news/canada/calgary/calgary-water-main-repair-update-june-29-1.7250898?cmp=rss)

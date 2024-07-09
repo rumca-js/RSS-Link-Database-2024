@@ -1,5 +1,26 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## Kinkajou found abandoned and wandering Washington state road
+ - [https://www.foxnews.com/us/kinkajou-found-abandoned-wandering-washington-state-road](https://www.foxnews.com/us/kinkajou-found-abandoned-wandering-washington-state-road)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2024-06-29T23:53:05+00:00
+
+A type of exotic pet made famous by Paris Hilton was rescued earlier this week after being found climbing a dusty Washington road pole and leaving officials scratching their heads.
+
+## Florida man attacked by shark on boating trip
+ - [https://www.foxnews.com/us/florida-man-attacked-shark-boating-trip](https://www.foxnews.com/us/florida-man-attacked-shark-boating-trip)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2024-06-29T23:44:15+00:00
+
+A shark left a &quot;severe&quot; bite on a Florida man&apos;s arm Friday, according to police. One sheriff&apos;s deputy is called a &quot;hero&quot; after swiftly applying a tourniquet to the victim.
+
+## Police shoot, kill teen wielding replica handgun in upstate New York, authorities say
+ - [https://www.foxnews.com/us/police-shoot-kill-teen-wielding-replica-handgun-upstate-new-york-authorities](https://www.foxnews.com/us/police-shoot-kill-teen-wielding-replica-handgun-upstate-new-york-authorities)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2024-06-29T23:42:47+00:00
+
+A 13-year-old who pointed a &apos;realistic appearing firearm&apos; at police in New York was fatally shot by one of the officers; the teen was given first aid and taken to a local hospital where he died.
+
 ## Shohei Ohtani calls batboy who saved him from hard foul ball in dugout his 'hero'
  - [https://www.foxnews.com/sports/shohei-ohtani-calls-bat-boy-who-saved-him-from-hard-foul-ball-dugout-his-hero](https://www.foxnews.com/sports/shohei-ohtani-calls-bat-boy-who-saved-him-from-hard-foul-ball-dugout-his-hero)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml

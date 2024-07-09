@@ -1,5 +1,14 @@
 # Source:The Times of Israel, URL:https://www.timesofisrael.com/feed, language:en-US
 
+## After poor debate performance, Biden pushing donors to keep supporting him
+ - [https://www.timesofisrael.com/after-poor-debate-performance-biden-pushing-donors-to-keep-supporting-him](https://www.timesofisrael.com/after-poor-debate-performance-biden-pushing-donors-to-keep-supporting-him)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-06-29T23:34:42+00:00
+
+<p>While US President believes he is up to the task of beating Trump and serving 4 more years, Democratic donors are considering possible replacements</p>
+<p>The post <a href="https://www.timesofisrael.com/after-poor-debate-performance-biden-pushing-donors-to-keep-supporting-him/">After poor debate performance, Biden pushing donors to keep supporting him</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img border="0" class="type:primaryImage" height="100" src="https://static.timesofisrael.com/www/uploads/2024/06/AP24181654265505-1024x640.jpg" title="After poor debate performance, Biden pushing donors to keep supporting him" width="160" /></figure>
+
 ## Weeks after her rescue, Noa Argamani calls for ‘love, not hate’ in Israeli society
  - [https://www.timesofisrael.com/weeks-after-her-rescue-noa-argamani-calls-for-love-not-hate-in-israeli-society](https://www.timesofisrael.com/weeks-after-her-rescue-noa-argamani-calls-for-love-not-hate-in-israeli-society)
  - RSS feed: https://www.timesofisrael.com/feed

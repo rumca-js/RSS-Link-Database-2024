@@ -1,5 +1,19 @@
 # Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
+## Do Egiptu popłyną unijne miliardy, by ograniczyć napływ migrantów
+ - [https://www.bankier.pl/wiadomosc/Do-Egiptu-poplyna-unijne-miliardy-by-ograniczyc-naplyw-migrantow-8774600.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Do-Egiptu-poplyna-unijne-miliardy-by-ograniczyc-naplyw-migrantow-8774600.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2024-06-29T22:34:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/0/7/91b7af0486bf36-945-567-11-161-2288-1373.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Europejskie firmy podpisują umowy inwestycyjne z Egiptem o wartości potencjalnie przekraczającej 40 mld euro, aby ustabilizować egipską gospodarkę i ograniczyć napływ migrantów do Europy, powiedziała w sobotę przewodnicząca Komisji Europejskiej Ursula von der Leyen podczas otwarcia dwudniowej konferencji inwestycyjnej Egipt-UE w Kairze.</p>
+
+## Prokuratura ponownie zajmie się sprawą śmierci Barbary Blidy. "Pojawiły się wątpliwości"
+ - [https://www.bankier.pl/wiadomosc/Prokuratura-ponownie-zajmie-sie-sprawa-smierci-Barbary-Blidy-Pojawily-sie-watpliwosci-8774586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Prokuratura-ponownie-zajmie-sie-sprawa-smierci-Barbary-Blidy-Pojawily-sie-watpliwosci-8774586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2024-06-29T19:47:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/5/12b7feb9cb8510-948-568-0-321-2339-1403.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Prokurator Generalny Adam Bodnar powołał zespół doradców do zbadania działań podejmowanych przez prokuraturę w związku ze śmiercią w 2007 r. b. posłanki SLD, b. minister gospodarki i budownictwa Barbary Blidy - poinformowała rzeczniczka prasowa prokuratora generalnego prok. Anna Adamiak.</p>
+
 ## "Turystyka albo życie!". Hiszpanie protestują w Andaluzji
  - [https://www.bankier.pl/wiadomosc/Turystyka-albo-zycie-Hiszpanie-protestuja-w-Andaluzji-8774585.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Turystyka-albo-zycie-Hiszpanie-protestuja-w-Andaluzji-8774585.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -13,6 +27,13 @@
  - date published: 2024-06-29T18:57:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/b/e6e5cbab4328eb-948-568-0-189-3438-2062.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Około 200 strażaków walczy w sobotę z dużym pożarem lasu pokrywającego masyw górski Parnita na północ od Aten. W Grecji tego dnia wybuchło ok. 50 pożarów, a połowa państwa jest w strefie podwyższonego ryzyka pożarowego.</p>
+
+## "Biden by zrezygnował, gdyby kontrkandydatem nie był Trump"
+ - [https://www.bankier.pl/wiadomosc/Biden-by-zrezygnowal-gdyby-kontrkandydatem-nie-byl-Trump-8774574.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Biden-by-zrezygnowal-gdyby-kontrkandydatem-nie-byl-Trump-8774574.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2024-06-29T18:41:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/7/0dba0c94e7c272-948-568-15-44-2985-1790.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Dlaczego prezydent Joe Biden nie akceptuje prawdy, którą widzą wszyscy? - pisze po pierwszej debacie kandydatów na prezydenta USA pisarz i publicysta David Ignatius w sobotnim numerze "Washington Post". Ocenia, że ma wgląd w motywację prezydenta po rozmowach z jego otoczeniem.</p>
 
 ## Zarząd PKP Cargo wnioskuje o otwarcie postępowania sanacyjnego
  - [https://www.bankier.pl/wiadomosc/Zarzad-PKP-Cargo-wnioskuje-o-otwarcie-postepowania-sanacyjnego-8774560.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Zarzad-PKP-Cargo-wnioskuje-o-otwarcie-postepowania-sanacyjnego-8774560.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

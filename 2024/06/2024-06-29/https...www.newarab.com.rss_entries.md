@@ -112,6 +112,13 @@ The US has allegedly proposed new language for parts of the proposed ceasefire d
 
 The UK heads to the polls on 4 July with Palestine a key issue for Muslims and left-wingers, but too many candidates could split the 'Gaza vote'.
 
+## Hamas official says no progress in Gaza ceasefire talks
+ - [https://www.newarab.com/news/hamas-official-says-no-progress-gaza-ceasefire-talks](https://www.newarab.com/news/hamas-official-says-no-progress-gaza-ceasefire-talks)
+ - RSS feed: https://www.newarab.com/rss
+ - date published: 2024-06-29T08:55:23+00:00
+
+Israel's war on Gaza has killed 37,834 people, wounded a further 86,858, and left much of the enclave in rubble and under conditions of famine.
+
 ## Israel shells Gaza City following deadly Shejaiya assault
  - [https://www.newarab.com/news/israel-shells-gaza-city-following-deadly-shejaiya-assault](https://www.newarab.com/news/israel-shells-gaza-city-following-deadly-shejaiya-assault)
  - RSS feed: https://www.newarab.com/rss

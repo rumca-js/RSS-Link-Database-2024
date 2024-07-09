@@ -1,11 +1,39 @@
 # Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
 
+## Allan Lichtman: The Democrats Should Keep Biden
+ - [https://www.reddit.com/r/politics/comments/1drmd01/allan_lichtman_the_democrats_should_keep_biden](https://www.reddit.com/r/politics/comments/1drmd01/allan_lichtman_the_democrats_should_keep_biden)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-29T22:08:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1drmd01/allan_lichtman_the_democrats_should_keep_biden/"> <img alt="Allan Lichtman: The Democrats Should Keep Biden" src="https://external-preview.redd.it/vvqMCGAC_SofqmzckdCry2VmUzfvvG26CcampdPzRs0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=095ab264be79162ea1948b2ef9a73f2e6bba4c80" title="Allan Lichtman: The Democrats Should Keep Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AmericanCitizen41"> /u/AmericanCitizen41 </a> <br /> <span><a href="https://www.channel4.com/news/if-biden-stays-the-democrats-have-a-much-better-chance-of-winning-says-historian-allan-lichtman">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1drmd01/allan_lichtman_the_democrats_should_keep_biden/">[comments]</a></span> </td></tr></table>
+
 ## To serve his country, Donald Trump should leave the race
  - [https://www.reddit.com/r/politics/comments/1drm91i/to_serve_his_country_donald_trump_should_leave](https://www.reddit.com/r/politics/comments/1drm91i/to_serve_his_country_donald_trump_should_leave)
  - RSS feed: https://www.reddit.com/r/politics/.rss
  - date published: 2024-06-29T22:03:12+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1drm91i/to_serve_his_country_donald_trump_should_leave/"> <img alt="To serve his country, Donald Trump should leave the race" src="https://external-preview.redd.it/00hjpzrW0PcEC_OtZdPCJTKb0R84Jvq55BpG8ZOY-f8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcc4056c82e36eac02cbb46eed7f2a42f3e347b4" title="To serve his country, Donald Trump should leave the race" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dark_hymn"> /u/dark_hymn </a> <br /> <span><a href="https://www.inquirer.com/opinion/editorials/first-presidential-debate-joe-biden-donald-trump-withdraw-20240629.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1drm91i/to_serve_his_country_donald_trump_should_leave/">[comments]</a></span> </td></tr></table>
+
+## Trump says he'll accept 2024 results if they're 'fair and legal' while airing false 2020 fraud claims
+ - [https://www.reddit.com/r/politics/comments/1drm0b3/trump_says_hell_accept_2024_results_if_theyre](https://www.reddit.com/r/politics/comments/1drm0b3/trump_says_hell_accept_2024_results_if_theyre)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-29T21:51:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1drm0b3/trump_says_hell_accept_2024_results_if_theyre/"> <img alt="Trump says he'll accept 2024 results if they're 'fair and legal' while airing false 2020 fraud claims" src="https://external-preview.redd.it/AbEpETbZdI7tfYcNLrzWhGzRzFOycJwzUNkmO6CmSuU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=74ffdd438c9a6cd3c32f9929f17c490dee4f71f7" title="Trump says he'll accept 2024 results if they're 'fair and legal' while airing false 2020 fraud claims" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Somervilledrew"> /u/Somervilledrew </a> <br /> <span><a href="https://www.nbcnews.com/politics/donald-trump/trump-says-accept-2024-results-fair-legal-airing-false-2020-fraud-clai-rcna159372">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1drm0b3/trump_says_hell_accept_2024_results_if_theyre/">[comments]</a></span> </td></tr></table>
+
+## After president's debate debacle, Jill Biden delivering the message that they're still all in
+ - [https://www.reddit.com/r/politics/comments/1drln7i/after_presidents_debate_debacle_jill_biden](https://www.reddit.com/r/politics/comments/1drln7i/after_presidents_debate_debacle_jill_biden)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-29T21:34:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1drln7i/after_presidents_debate_debacle_jill_biden/"> <img alt="After president's debate debacle, Jill Biden delivering the message that they're still all in" src="https://external-preview.redd.it/i6LjA03Nx934tnCjM_T7NZuY3Yrt0kDrfd9go5imyjY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6122544ece57ee806b88f9dde289e0c18ca2bfa" title="After president's debate debacle, Jill Biden delivering the message that they're still all in" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/promocodebaby"> /u/promocodebaby </a> <br /> <span><a href="https://apnews.com/article/jill-biden-first-lady-debate-c8fae7bab90c0f79ab88c9e783ca5ecd">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1drln7i/after_presidents_debate_debacle_jill_biden/">[comments]</a></span> </td></tr></table>
+
+## Christian Nationalism 'On the March': Oklahoma Mandates Bible Teachings in Public Schools. "It's not just happening in Oklahoma; we're seeing it from Texas to West Virginia, from Florida to Idaho," said one church-state separation advocate.
+ - [https://www.reddit.com/r/politics/comments/1drkcfn/christian_nationalism_on_the_march_oklahoma](https://www.reddit.com/r/politics/comments/1drkcfn/christian_nationalism_on_the_march_oklahoma)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-06-29T20:33:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1drkcfn/christian_nationalism_on_the_march_oklahoma/"> <img alt="Christian Nationalism 'On the March': Oklahoma Mandates Bible Teachings in Public Schools. &quot;It's not just happening in Oklahoma; we're seeing it from Texas to West Virginia, from Florida to Idaho,&quot; said one church-state separation advocate." src="https://external-preview.redd.it/sKXYO0Qdl9FNAhj9cP_xg2NcLQoU6t9wHcK-ODKBgTo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8cc6638ceadb10505c65530ae0af3220a4d07d6" title="Christian Nationalism 'On the March': Oklahoma Mandates Bible Teachings in Public Schools. &quot;It's not just happening in Oklahoma; we're seeing it from Texas to West Virginia, from Florida to Idaho,&quot; said one church-state separation advocate." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> <span><a href="https://www.commondreams.org/news/superintenden
 
 ## Why a Supreme Court ruling will change how the government works | In one of the biggest judicial power-grabs in modern history, Republican-appointed Supreme Court justices today changed how the government will function.
  - [https://www.reddit.com/r/politics/comments/1drk3jy/why_a_supreme_court_ruling_will_change_how_the](https://www.reddit.com/r/politics/comments/1drk3jy/why_a_supreme_court_ruling_will_change_how_the)

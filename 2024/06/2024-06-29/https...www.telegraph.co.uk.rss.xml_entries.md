@@ -1,5 +1,19 @@
 # Source:The Telegraph Top Stories, URL:https://www.telegraph.co.uk/rss.xml, language:en-UK
 
+## Where to watch Euro 2024: TV channel and streaming schedule for every match
+ - [https://www.telegraph.co.uk/football/0/how-watch-euro-2024-tv-channel-streaming-schedule-bbc-itv](https://www.telegraph.co.uk/football/0/how-watch-euro-2024-tv-channel-streaming-schedule-bbc-itv)
+ - RSS feed: https://www.telegraph.co.uk/rss.xml
+ - date published: 2024-06-29T23:03:18+00:00
+
+
+
+## F1 2024 season: Full race calendar, schedule, driver line-ups and sprints latest
+ - [https://www.telegraph.co.uk/formula-1/0/f1-schedule-race-2024-calendar-drivers-cars-sprints](https://www.telegraph.co.uk/formula-1/0/f1-schedule-race-2024-calendar-drivers-cars-sprints)
+ - RSS feed: https://www.telegraph.co.uk/rss.xml
+ - date published: 2024-06-29T22:04:26+00:00
+
+
+
 ## Germany vs Denmark: Lineups and latest updates from Euro 2024 round of 16
  - [https://www.telegraph.co.uk/football/2024/06/29/germany-vs-denmark-live-score-latest-euro-2024-last-16](https://www.telegraph.co.uk/football/2024/06/29/germany-vs-denmark-live-score-latest-euro-2024-last-16)
  - RSS feed: https://www.telegraph.co.uk/rss.xml

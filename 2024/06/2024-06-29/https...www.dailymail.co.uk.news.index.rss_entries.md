@@ -1,5 +1,19 @@
 # Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
+## Jim Chalmers makes blunt admission about inflation - as fears mount over another interest rate rise
+ - [https://www.dailymail.co.uk/news/article-13584049/Jim-Chalmers-inflation-rate-RBA.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-13584049/Jim-Chalmers-inflation-rate-RBA.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2024-06-29T23:58:12+00:00
+
+The Treasurer on Sunday was spruiking the stage 3 tax cuts and other federal government measures to come into effect from this Monday.
+
+## Audiences attending the Slave Play in London's West End are offered 'self care tips' to help them cope with the show's plot and sexually explicit themes
+ - [https://www.dailymail.co.uk/news/article-13584095/Audiences-attending-Slave-Play-Londons-West-End-offered-self-care-tips-help-cope-shows-plot-sexually-explicit-themes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-13584095/Audiences-attending-Slave-Play-Londons-West-End-offered-self-care-tips-help-cope-shows-plot-sexually-explicit-themes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2024-06-29T23:55:25+00:00
+
+Guidance for the production at the Noel Coward Theatre includes tips on breathing to induce calm and 'grounding exercises' such as doing a 'body scan' and wiggling your fingers.
+
 ## Shocking moment Indian cricket fan falls off pole in T20 World Cup celebrations
  - [https://www.dailymail.co.uk/news/article-13584041/Shocking-moment-Indian-cricket-fan-falls-pole-T20-World-Cup-celebrations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-13584041/Shocking-moment-Indian-cricket-fan-falls-pole-T20-World-Cup-celebrations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss

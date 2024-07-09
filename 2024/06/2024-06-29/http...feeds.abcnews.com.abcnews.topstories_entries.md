@@ -7,6 +7,13 @@
 
 Budget has $16 billion in cuts, temporarily raises taxes on some businesses.
 
+## Trump campaign memo signals plans to reduce national GOP platform
+ - [https://abcnews.go.com/Politics/trump-campaign-memo-signals-plans-reduce-national-gop/story?id=111547663](https://abcnews.go.com/Politics/trump-campaign-memo-signals-plans-reduce-national-gop/story?id=111547663)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2024-06-29T21:16:29+00:00
+
+This memo did not specifically mention abortion or reproductive rights but doubled down on the notion that the new platform will reflect Trump's political stances.
+
 ## 4 children, 3 adults wounded in Nebraska home after neighbor opens fire: Police
  - [https://abcnews.go.com/US/4-children-3-adults-shot-inside-nebraska-home/story?id=111544114](https://abcnews.go.com/US/4-children-3-adults-shot-inside-nebraska-home/story?id=111544114)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
@@ -20,6 +27,13 @@ Seven people were wounded in a Nebraska home Friday after a gunman allegedly ope
  - date published: 2024-06-29T20:01:57+00:00
 
 An 18-wheel truck crashed into two vehicles and an unoccupied house in Mission, Texas, investigators said.
+
+## Pride march, related events could be targets for violence, NYPD says
+ - [https://abcnews.go.com/US/pride-march-related-events-targets-violence-nypd/story?id=111546514](https://abcnews.go.com/US/pride-march-related-events-targets-violence-nypd/story?id=111546514)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2024-06-29T19:58:49+00:00
+
+This weekend's Pride March and other Pride-related events throughout New York City could be targets for violence, the New York Police Department's Intel Bureau warned.
 
 ## Biden tries to recapture his mojo in appeals to donors
  - [https://abcnews.go.com/Politics/wireStory/biden-making-appeals-donors-concerns-persist-presidential-debate-111544584](https://abcnews.go.com/Politics/wireStory/biden-making-appeals-donors-concerns-persist-presidential-debate-111544584)
@@ -69,6 +83,13 @@ Animal rescuers try to keep dozens of dolphins away from Cape Cod shallows.
  - date published: 2024-06-29T16:22:12+00:00
 
 He lied about a hoax explosion at the Boston campus to federal agents.
+
+## Why a Louisiana law raises preferential treatment concerns
+ - [https://abcnews.go.com/US/wireStory/ten-commandments-multiple-variations-louisiana-law-raises-preferential-111541629](https://abcnews.go.com/US/wireStory/ten-commandments-multiple-variations-louisiana-law-raises-preferential-111541629)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2024-06-29T13:10:27+00:00
+
+Christians and Jews believe in the Ten Commandments &mdash; just not necessarily the version that will hang in every public school and state-funded college classroom in Louisiana
 
 ## WestJet cancels at least 150 flights following a surprise strike by mechanics union
  - [https://abcnews.go.com/Business/wireStory/canadian-airline-westjet-cancels-150-flights-surprise-strike-111541532](https://abcnews.go.com/Business/wireStory/canadian-airline-westjet-cancels-150-flights-surprise-strike-111541532)

@@ -1,3 +1,1385 @@
+## 4 players from Hockey Canada case become UFAs
+ - [https://www.espn.com/nhl/story/_/id/40469573/nhl-players-sexual-assault-case-not-offered-contracts](https://www.espn.com/nhl/story/_/id/40469573/nhl-players-sexual-assault-case-not-offered-contracts)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The four NHL players from the sexual assault case that rocked Canadian hockey and led to investigations of the nation's 2018 world junior team, were not offered contracts by their respective teams on Sunday, a major development from a hockey perspective.
+
+## 50 Welcome Signs for 50 States | Hacker News
+ - [https://news.ycombinator.com/item?id=40837357](https://news.ycombinator.com/item?id=40837357)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+50 Welcome Signs for 50 States | Hacker News
+
+## A Large-Scale Structured Database of a Century of Historical News | Hacker News
+ - [https://news.ycombinator.com/item?id=40839830](https://news.ycombinator.com/item?id=40839830)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+A Large-Scale Structured Database of a Century of Historical News | Hacker News
+
+## A live ranking of airlines by how much luggage they are losing | Hacker News
+ - [https://news.ycombinator.com/item?id=40838290](https://news.ycombinator.com/item?id=40838290)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+A live ranking of airlines by how much luggage they are losing | Hacker News
+
+## A MacBook Pro design refresh is probably years away
+ - [https://appleinsider.com/articles/24/06/30/a-macbook-pro-design-refresh-is-probably-years-away?utm_medium=rss](https://appleinsider.com/articles/24/06/30/a-macbook-pro-design-refresh-is-probably-years-away?utm_medium=rss)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Apple probably won't be changing the design of its MacBook Pro for a few more years, as the company continues to increase the longevity of its products.
+
+## A simplified Python simulation of diffusion | Hacker News
+ - [https://news.ycombinator.com/item?id=40838945](https://news.ycombinator.com/item?id=40838945)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+A simplified Python simulation of diffusion | Hacker News
+
+## Access to this page has been denied
+ - [https://feedpress.me/link/20202/16729472/4747466](https://feedpress.me/link/20202/16729472/4747466)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+px-captcha
+
+## Actor Josh Lucas Engaged to Meteorologist Girlfriend
+ - [https://www.tmz.com/2024/06/29/josh-lucas-brianna-ruffalo-meteorologist-engaged-italy](https://www.tmz.com/2024/06/29/josh-lucas-brianna-ruffalo-meteorologist-engaged-italy)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Josh Lucas' future forecast calls for happy days and loving commitment ... 'cause the star actor just got engaged to his girlfriend who's a meteorologist!
+
+## An Analog Network of Resistors Promises Machine Learning Without a Processor | Hacker News
+ - [https://news.ycombinator.com/item?id=40836183](https://news.ycombinator.com/item?id=40836183)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+An Analog Network of Resistors Promises Machine Learning Without a Processor | Hacker News
+
+## Angels' Trout confident he'll return by end of July
+ - [https://www.espn.com/mlb/story/_/id/40462478/angels-mike-trout-knee-confident-return-end-july](https://www.espn.com/mlb/story/_/id/40462478/angels-mike-trout-knee-confident-return-end-july)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Angels star Mike Trout, who hasn't played since April 29 due to a torn meniscus in his left knee, expressed confidence that he would return before the end of July.
+
+## Anti-aging molecule successfully restores multiple markers of youth | Hacker News
+ - [https://news.ycombinator.com/item?id=40835975](https://news.ycombinator.com/item?id=40835975)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Anti-aging molecule successfully restores multiple markers of youth | Hacker News
+
+## Apple Intelligence may be coming to Vision Pro -- but not soon
+ - [https://appleinsider.com/articles/24/06/30/apple-intelligence-may-be-coming-to-vision-pro----but-not-soon?utm_medium=rss](https://appleinsider.com/articles/24/06/30/apple-intelligence-may-be-coming-to-vision-pro----but-not-soon?utm_medium=rss)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The roll-out of Apple Intelligence in the fall is passing over the Apple Vision Pro — but a report on Sunday claims that it could arrive on the existing hardware as soon as 2025.
+
+## Are rainy days ahead for cloud computing? | Hacker News
+ - [https://news.ycombinator.com/item?id=40837626](https://news.ycombinator.com/item?id=40837626)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Are rainy days ahead for cloud computing? | Hacker News
+
+## Argentina 2-0 Peru (Jun 29, 2024) Final Score - ESPN
+ - [https://www.espn.com/soccer/match/_/gameId/690721/peru-argentina](https://www.espn.com/soccer/match/_/gameId/690721/peru-argentina)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Game summary of the Argentina vs. Peru Copa América game, final score 2-0, from June 29, 2024 on ESPN.
+
+## Argentina 2-0 Peru (Jun 29, 2024) Game Analysis - ESPN
+ - [https://www.espn.com/soccer/report/_/gameId/690721](https://www.espn.com/soccer/report/_/gameId/690721)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Expert recap and game analysis of the Argentina vs. Peru Copa América game from June 29, 2024 on ESPN.
+
+## Australia Treasurer confident July 1 tax cuts won't stoke inflation
+ - [https://www.reuters.com/world/asia-pacific/australia-treasurer-confident-july-1-tax-cuts-wont-stoke-inflation-2024-06-30](https://www.reuters.com/world/asia-pacific/australia-treasurer-confident-july-1-tax-cuts-wont-stoke-inflation-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Australia's Treasurer Jim Chalmers said on Sunday he was confident cuts to income taxes from Monday would not exacerbate price rises, as the nation suffers a cost-of-living squeeze amid stubbornly high rates of inflation.
+
+## autoevolution: cars & moto news and vehicle specifications
+ - [https://www.autoevolution.com](https://www.autoevolution.com)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+autoevolution is your auto encyclopedia, featuring the latest news, reviews & drivetests, videos, spyshots, car & motorcycle specifications, and much more
+
+## 'Bachelorette' Star Katie Thurston Reveals She Was Raped
+ - [https://www.tmz.com/2024/06/29/bachelorette-katie-thurston-rape-social-media-post-resources](https://www.tmz.com/2024/06/29/bachelorette-katie-thurston-rape-social-media-post-resources)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Katie Thurston's revealing a traumatic incident to the world ... telling fans she was raped and the justice system has failed her.
+
+## Below MI – IBM I for Hackers | Hacker News
+ - [https://news.ycombinator.com/item?id=40837420](https://news.ycombinator.com/item?id=40837420)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Below MI – IBM I for Hackers | Hacker News
+
+## Beryl, earliest Category 4 hurricane on record, brings perilous winds to Caribbean
+ - [https://www.reuters.com/world/us/hurricane-beryl-has-become-very-dangerous-category-3-says-us-agency-2024-06-30](https://www.reuters.com/world/us/hurricane-beryl-has-become-very-dangerous-category-3-says-us-agency-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The first hurricane of the 2024 season was located about 420 miles east-southeast of Barbados with maximum sustained winds of 100 miles per hour. It is rare for a major hurricane to appear as early in the year as June.
+
+## 'Beverly Hills Cop' Star Says 'Axel F' Will Redeem Derailed Franchise
+ - [https://www.tmz.com/2024/06/30/beverly-hills-cop-axel-f-redeem-franchise-bronson-pinchot](https://www.tmz.com/2024/06/30/beverly-hills-cop-axel-f-redeem-franchise-bronson-pinchot)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Eddie Murphy is back in "Beverly Hills Cop: Axel F" ... and, it's gonna redeem the franchise after the third film bombed with critics and fans -- so says Bronson Pinchot.
+
+## Biden claims his debate performance won over ‘more undecided voters than Trump’ at NJ fundraiser
+ - [https://www.foxnews.com/politics/biden-claims-debate-performance-won-more-undecided-voters-than-trump-nj-fundraiser](https://www.foxnews.com/politics/biden-claims-debate-performance-won-more-undecided-voters-than-trump-nj-fundraiser)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+President Biden claimed that his disastrous debate performance swayed more undecided voters to his side than former President Trump.
+
+## Biden Holds Fundraiser as Bi-Plane Flies Overhead with Sign ‘BI-DONE!’
+ - [https://www.tmz.com/2024/06/30/biden-plane-bi-done-hamptons-fundraiser-race](https://www.tmz.com/2024/06/30/biden-plane-bi-done-hamptons-fundraiser-race)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+President Biden got a clear sign he should drop out of the race ... but not from his family or staff -- from a bi-plane.
+
+## Biden reportedly humiliated by debate performance, lacks confidence: 'It's a mess'
+ - [https://www.foxnews.com/media/biden-reportedly-humiliated-debate-performance-lacks-confidence-its-mess](https://www.foxnews.com/media/biden-reportedly-humiliated-debate-performance-lacks-confidence-its-mess)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+President Biden was reportedly feeling humiliated after his debate against former President Trump on Thursday, according to NBC News.
+
+## Bill Belichick Never Mentioned Jordon Hudson During Season, Ex-Patriots TE Says
+ - [https://www.tmz.com/2024/06/30/bill-belichick-never-mentioned-jordon-hudson-during-season-ex-patriots-te](https://www.tmz.com/2024/06/30/bill-belichick-never-mentioned-jordon-hudson-during-season-ex-patriots-te)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Former New England tight end Pharoah Brown says Patriots players had no idea about Bill Belichick's 23-year-old girlfriend last season ... telling TMZ Sports the coach never once brought her up.
+
+## Bitmovin (YC S15) is hiring video solution architects in the US | Hacker News
+ - [https://news.ycombinator.com/item?id=40838327](https://news.ycombinator.com/item?id=40838327)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Bitmovin (YC S15) is hiring video solution architects in the US | Hacker News
+
+## Boomin' Brewers hit fifth grand slam in 8 games
+ - [https://www.espn.com/mlb/story/_/id/40469705/milwaukee-brewers-hit-five-grand-slams-eight-game-span](https://www.espn.com/mlb/story/_/id/40469705/milwaukee-brewers-hit-five-grand-slams-eight-game-span)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Milwaukee Brewers, comfortably in first place in the NL Central, have hit five grand slams over their last eight games, the most recent on Sunday by Brice Turang, who capped a seven-run, fourth-inning outburst in a 7-1 victory over the Chicago Cubs.
+
+## Bulgaria's new patriarch enthroned in Sofia cathedral
+ - [https://www.reuters.com/world/europe/bulgarias-new-patriarch-enthroned-sofia-cathedral-2024-06-30](https://www.reuters.com/world/europe/bulgarias-new-patriarch-enthroned-sofia-cathedral-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Top Orthodox Christian clergy from across Europe and Bulgaria's senior government officials gathered in Sofia's main cathedral on Sunday for the enthronement of the new patriarch of the country's influential church.
+
+## California approves final high-speed rail link connecting San Francisco to LA | Hacker News
+ - [https://news.ycombinator.com/item?id=40840656](https://news.ycombinator.com/item?id=40840656)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+California approves final high-speed rail link connecting San Francisco to LA | Hacker News
+
+## Canada 0-0 Chile (Jun 29, 2024) Game Analysis - ESPN
+ - [https://www.espn.com/soccer/report/_/gameId/690722](https://www.espn.com/soccer/report/_/gameId/690722)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Expert recap and game analysis of the Canada vs. Chile Copa América game from June 29, 2024 on ESPN.
+
+## Canada 'sleepwalking' into cashless society, consumer advocates warn | Hacker News
+ - [https://news.ycombinator.com/item?id=40838515](https://news.ycombinator.com/item?id=40838515)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Canada 'sleepwalking' into cashless society, consumer advocates warn | Hacker News
+
+## Capcom and GOG to release the original Resident Evil trilogy | Hacker News
+ - [https://news.ycombinator.com/item?id=40835479](https://news.ycombinator.com/item?id=40835479)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Capcom and GOG to release the original Resident Evil trilogy | Hacker News
+
+## Celebrity Scramble -- Guess Who!
+ - [https://www.tmz.com/2024/06/30/celebrity-scramble-guess-who](https://www.tmz.com/2024/06/30/celebrity-scramble-guess-who)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Behind this cheeky chick pic is a gal who first started hittin' the big screen circa late '90s but stepped into stardom alongside Terrence Howard. You better hustle and go with the flow in order to land on the scrambled star ...
+
+## Chapman sets mark for most K's by lefty reliever
+ - [https://www.espn.com/mlb/story/_/id/40462416/pirates-aroldis-chapman-sets-lefty-reliever-strikeouts-record](https://www.espn.com/mlb/story/_/id/40462416/pirates-aroldis-chapman-sets-lefty-reliever-strikeouts-record)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Aroldis Chapman made Major League Baseball history on Saturday by passing Billy Wagner for the most career strikeouts by a left-handed reliever. Chapman now has 1,197.
+
+## Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser | Hacker News
+ - [https://news.ycombinator.com/item?id=40834600](https://news.ycombinator.com/item?id=40834600)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser | Hacker News
+
+## Combine multiple RSS feeds into a single feed, as a service | Hacker News
+ - [https://news.ycombinator.com/item?id=40839262](https://news.ycombinator.com/item?id=40839262)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Combine multiple RSS feeds into a single feed, as a service | Hacker News
+
+## Convolutions, Fast Fourier Transform and Polynomials | Hacker News
+ - [https://news.ycombinator.com/item?id=40840396](https://news.ycombinator.com/item?id=40840396)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Convolutions, Fast Fourier Transform and Polynomials | Hacker News
+
+## Crime blotter: 'Meatball' pleads guilty in Apple Store looting case, and more!
+ - [https://appleinsider.com/articles/24/06/30/crime-blotter-meatball-pleads-guilty-in-apple-store-looting-case-and-more?utm_medium=rss](https://appleinsider.com/articles/24/06/30/crime-blotter-meatball-pleads-guilty-in-apple-store-looting-case-and-more?utm_medium=rss)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+In the latest from the Apple crime blotter, thieves steal an iPhone and then threatened the owner, an iPad theft led to hit-and-run, still no reports of Apple Vision Pro crime, and AirTags are still popular with carjackers and thieves.
+
+## Debian 12.6 Released With Many Security Updates & Bug Fixes - Phoronix
+ - [https://www.phoronix.com/news/Debian-12.6-Released](https://www.phoronix.com/news/Debian-12.6-Released)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Debian 12.6 Released With Many Security Updates & Bug Fixes - Phoronix
+
+## Decision to name Prince Harry the recipient of Pat Tillman award scorched by mom: 'Controversial and divisive'
+ - [https://www.foxnews.com/entertainment/decision-name-prince-harry-recipient-pat-tillman-award-scorched-mom-controversial-divisive](https://www.foxnews.com/entertainment/decision-name-prince-harry-recipient-pat-tillman-award-scorched-mom-controversial-divisive)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Prince Harry was recently named the recipient of the Pat Tillman Award for Service, much to the shock of his mother, who considered ESPN's decision to be unfitting.
+
+## Denver Broncos Star Zach Wilson Engaged to Model Nicolette Dellanno
+ - [https://www.tmz.com/2024/06/30/denver-broncos-star-zach-wilson-engaged-model-nicolette-dellanno](https://www.tmz.com/2024/06/30/denver-broncos-star-zach-wilson-engaged-model-nicolette-dellanno)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Zach Wilson will soon step off the gridiron and into a stylish tux ... 'cause he just got engaged to his model girlfriend on an Italian vacation.
+
+## Dev rejects CVE severity, makes his GitHub repo read-only | Hacker News
+ - [https://news.ycombinator.com/item?id=40837791](https://news.ycombinator.com/item?id=40837791)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Dev rejects CVE severity, makes his GitHub repo read-only | Hacker News
+
+## Duff's Device and Coroutines (2008) | Hacker News
+ - [https://news.ycombinator.com/item?id=40836114](https://news.ycombinator.com/item?id=40836114)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Duff's Device and Coroutines (2008) | Hacker News
+
+## England 2-1 Slovakia (Jun 30, 2024) Game Analysis - ESPN
+ - [https://www.espn.com/soccer/report/_/gameId/703933](https://www.espn.com/soccer/report/_/gameId/703933)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Expert recap and game analysis of the England vs. Slovakia Uefa European Championship game from June 30, 2024 on ESPN.
+
+## England vs. Slovakia (Jun 30, 2024) Live Score - ESPN
+ - [https://www.espn.com/soccer/match/_/gameId/703933/slovakia-england](https://www.espn.com/soccer/match/_/gameId/703933/slovakia-england)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Live coverage of the England vs. Slovakia Uefa European Championship game on ESPN, including live score, highlights and updated stats.
+
+## Epic moves forward with iPhone 'Fortnite' return plans via EU alternative App Store
+ - [https://appleinsider.com/articles/24/06/30/epic-moves-forward-with-iphone-fortnite-return-plans-via-eu-alternative-app-store?utm_medium=rss](https://appleinsider.com/articles/24/06/30/epic-moves-forward-with-iphone-fortnite-return-plans-via-eu-alternative-app-store?utm_medium=rss)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Good news for European Union "Fortnite" fans — Epic Games is planning to relaunch the game on its own iPhone app store.
+
+## Escalator malfunction at Brewers' park injures 11
+ - [https://www.espn.com/mlb/story/_/id/40462461/escalator-malfunction-brewers-park-injuries-11-people](https://www.espn.com/mlb/story/_/id/40462461/escalator-malfunction-brewers-park-injuries-11-people)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Eleven people were injured after an escalator at the Milwaukee Brewers' American Family Field malfunctioned, resulting in "an increased downward speed."
+
+## Ex-Philippines president Duterte's senate election bid poses threat to former ally Marcos
+ - [https://www.reuters.com/world/asia-pacific/ex-philippines-president-dutertes-senate-election-bid-poses-threat-former-ally-2024-06-30](https://www.reuters.com/world/asia-pacific/ex-philippines-president-dutertes-senate-election-bid-poses-threat-former-ally-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Philippines' dominant Marcos and Duterte political dynasties, uneasy allies for two years, are gearing up for an election showdown that could upset policy stability in the Southeast Asian nation in the coming years.
+
+## Explainer: Three-way run-offs and horse-trading: what happens next in French elections?
+ - [https://www.reuters.com/world/europe/three-way-run-offs-horse-trading-what-happens-next-french-elections-2024-06-30](https://www.reuters.com/world/europe/three-way-run-offs-horse-trading-what-happens-next-french-elections-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Here's how the second round of France's parliamentary election on July 7 will work.
+
+## Extreme Measures Needed to Scale Chips | Hacker News
+ - [https://news.ycombinator.com/item?id=40839877](https://news.ycombinator.com/item?id=40839877)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Extreme Measures Needed to Scale Chips | Hacker News
+
+## Fabio, 65, maintains model image by avoiding alcohol, eating healthy and sleeping in hyperbaric chamber
+ - [https://www.foxnews.com/entertainment/fabio-65-maintains-model-image-avoiding-alcohol-eating-healthy-sleeping-hyperbaric-chamber](https://www.foxnews.com/entertainment/fabio-65-maintains-model-image-avoiding-alcohol-eating-healthy-sleeping-hyperbaric-chamber)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Fabio, 65, became a cultural phenomenon in the early '90s and modeled on the covers of more than 1,300 romance novels before trying his hand at acting.
+
+## Fernandes: Ronaldo focused on team, not himself
+ - [https://www.espn.com/soccer/story/_/id/40467884/cristiano-ronaldo-cares-team-not-fernandes](https://www.espn.com/soccer/story/_/id/40467884/cristiano-ronaldo-cares-team-not-fernandes)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Bruno Fernandes has said his Portugal teammate Cristiano Ronaldo is only interested in the success of the team rather than personal achievements,
+
+## Figma defaults to train AI models on personal data | Hacker News
+ - [https://news.ycombinator.com/item?id=40835793](https://news.ycombinator.com/item?id=40835793)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Figma defaults to train AI models on personal data | Hacker News
+
+## Figma will use your content to train its AI | Hacker News
+ - [https://news.ycombinator.com/item?id=40835482](https://news.ycombinator.com/item?id=40835482)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Figma will use your content to train its AI | Hacker News
+
+## Financial services shun AI over job and regulatory fears | Hacker News
+ - [https://news.ycombinator.com/item?id=40835231](https://news.ycombinator.com/item?id=40835231)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Financial services shun AI over job and regulatory fears | Hacker News
+
+## Florida man beaten by truck owner after attempted carjacking: 'Play stupid games…win stupid prizes'
+ - [https://www.foxnews.com/us/florida-man-beaten-truck-owner-after-attempted-carjacking-play-stupid-gameswin-stupid-prizes](https://www.foxnews.com/us/florida-man-beaten-truck-owner-after-attempted-carjacking-play-stupid-gameswin-stupid-prizes)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+A Florida suspect was beaten up after attempting to break into a truck, making it difficult for him to stand up after the beating from a 66-year-old man.
+
+## For the Love of God, Stop Using CPU Limits on Kubernetes (Updated) | Robusta
+ - [https://home.robusta.dev/blog/stop-using-cpu-limits](https://home.robusta.dev/blog/stop-using-cpu-limits)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Many people think you need CPU limits on Kubernetes but this isn't true. In most cases, Kubernetes CPU limits do more harm than help. In fact, they're the number one cause of Kubernetes CPU throttling.
+
+## Former Late-Night Host Amber Ruffin Comes Out as Gay
+ - [https://www.tmz.com/2024/06/30/former-late-night-host-amber-ruffin-come-out-gay-last-day-pride](https://www.tmz.com/2024/06/30/former-late-night-host-amber-ruffin-come-out-gay-last-day-pride)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Pride Month's almost over, but some celebs are still finding ways to celebrate ... with former late-night host Amber Ruffin coming out before June turns to July!
+
+## France to vote in election that could put far right in government
+ - [https://www.reuters.com/world/europe/france-vote-election-that-could-put-far-right-government-2024-06-30](https://www.reuters.com/world/europe/france-vote-election-that-could-put-far-right-government-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+If the National Rally wins an absolute majority, French diplomacy could head into turbulence: with Macron, who says he will continue his presidency until the end of his term, and PM Jordan Bardella jostling for the right to speak for France.
+
+## Google Arts and Culture site I didn't know existed | Hacker News
+ - [https://news.ycombinator.com/item?id=40840699](https://news.ycombinator.com/item?id=40840699)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Google Arts and Culture site I didn't know existed | Hacker News
+
+## Greco-Buddhist Art | Hacker News
+ - [https://news.ycombinator.com/item?id=40840453](https://news.ycombinator.com/item?id=40840453)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Greco-Buddhist Art | Hacker News
+
+## Guardians send struggling P McKenzie to minors
+ - [https://www.espn.com/mlb/story/_/id/40466944/cleveland-guardians-send-struggling-triston-mckenzie-minors-activate-gavin-williams-il](https://www.espn.com/mlb/story/_/id/40466944/cleveland-guardians-send-struggling-triston-mckenzie-minors-activate-gavin-williams-il)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Guardians are sending Triston McKenzie to the minors to work out his pitching problems. To take his spot, the team activated right-hander Gavin Williams from the 60-day injured list.
+
+## Guided bomb attack on Ukraine's Kharkiv kills one, injures eight, officials say
+ - [https://www.reuters.com/world/europe/guided-bomb-attack-ukraines-kharkiv-kills-one-injures-eight-officials-say-2024-06-30](https://www.reuters.com/world/europe/guided-bomb-attack-ukraines-kharkiv-kills-one-injures-eight-officials-say-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Russian forces attacked the centre of Kharkiv, Ukraine's second- largest city, with a guided bomb, killing one person, injuring eight and setting ablaze buildings and vehicles, officials said.
+
+## Hikikomori: Why Korean parents are choosing to be shut in a cell
+ - [https://feedpress.me/link/20202/16729525/c2x0le06kn7o](https://feedpress.me/link/20202/16729525/c2x0le06kn7o)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Some South Koreans are spending time in a cell to try to understand their socially isolated children.
+
+## Home
+ - [https://how.wtf](https://how.wtf)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Helpful posts on programming, cloud infrastructure, AI, and other software engineering topics to help with your "WTF?!" moments.
+
+Written by Thomas Taylor, an AWS Community Builder.
+
+## How Coffee Helped the Union Caffeinate Its Way to Victory in the Civil War | Hacker News
+ - [https://news.ycombinator.com/item?id=40834345](https://news.ycombinator.com/item?id=40834345)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+How Coffee Helped the Union Caffeinate Its Way to Victory in the Civil War | Hacker News
+
+## How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time | Hacker News
+ - [https://news.ycombinator.com/item?id=40836685](https://news.ycombinator.com/item?id=40836685)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time | Hacker News
+
+## How to get root access to your Sleep Number bed | Hacker News
+ - [https://news.ycombinator.com/item?id=40838167](https://news.ycombinator.com/item?id=40838167)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+How to get root access to your Sleep Number bed | Hacker News
+
+## How Uruguay's relentless mentality made this small country Copa América elite
+ - [https://www.espn.com/soccer/story/_/id/40461353/how-tiny-uruguay-dominates-copa-america-world-cup](https://www.espn.com/soccer/story/_/id/40461353/how-tiny-uruguay-dominates-copa-america-world-cup)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Uruguay is the second-smallest nation at the Copa America, yet they remain strong favorites to beat the U.S. and reach the final. How do they do it?
+
+## I Started a Bike Bus (2023) | Hacker News
+ - [https://news.ycombinator.com/item?id=40837365](https://news.ycombinator.com/item?id=40837365)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+I Started a Bike Bus (2023) | Hacker News
+
+## Immune response study explains why some people don't get Covid-19 | Hacker News
+ - [https://news.ycombinator.com/item?id=40836648](https://news.ycombinator.com/item?id=40836648)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Immune response study explains why some people don't get Covid-19 | Hacker News
+
+## Inside a $1 radar motion sensor | Hacker News
+ - [https://news.ycombinator.com/item?id=40834349](https://news.ycombinator.com/item?id=40834349)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Inside a $1 radar motion sensor | Hacker News
+
+## Integrated assembler improvements in LLVM 19 | Hacker News
+ - [https://news.ycombinator.com/item?id=40842173](https://news.ycombinator.com/item?id=40842173)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Integrated assembler improvements in LLVM 19 | Hacker News
+
+## Israeli tanks advance into areas in north and south Gaza, fighting rages
+ - [https://www.reuters.com/world/middle-east/israeli-tanks-advance-into-areas-north-south-gaza-fighting-rages-2024-06-30](https://www.reuters.com/world/middle-east/israeli-tanks-advance-into-areas-north-south-gaza-fighting-rages-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Israeli forces advanced further on Sunday into the Shejaia neighbourhood of northern Gaza and also pushed deeper into western and central Rafah in the south, killing at least six Palestinians and destroying several homes, residents said.
+
+## Joe Biden's disastrous debate blamed on bad preparation, exhaustion
+ - [https://www.reuters.com/world/us/joe-bidens-disastrous-debate-blamed-bad-preparation-exhaustion-2024-06-30](https://www.reuters.com/world/us/joe-bidens-disastrous-debate-blamed-bad-preparation-exhaustion-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Biden's debate strategy was signed off on by campaign chair Jen O'Malley Dillon, who helped him win in 2020. Anita Dunn, a longtime Biden aide and former Barack Obama campaign strategist, backed that strategy.
+
+## Justin Timberlake Cracks Joke about DWI Arrest at Boston Concert
+ - [https://www.tmz.com/2024/06/30/justin-timberlake-joke-dwi-forget-tomorrow-tour-boston-arrest](https://www.tmz.com/2024/06/30/justin-timberlake-joke-dwi-forget-tomorrow-tour-boston-arrest)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Justin Timberlake seems ready to move on from his recent legal drama ... 'cause not only has he addressed the incident onstage again -- he's got jokes too!
+
+## Kernel prepatch 6.10-rc6 [LWN.net]
+ - [https://lwn.net/Articles/980175](https://lwn.net/Articles/980175)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Kernel prepatch 6.10-rc6 [LWN.net]
+
+## Kevin Costner Says He Used Morphine While Filming 'Hidden Figures'
+ - [https://www.tmz.com/2024/06/29/kevin-costner-hidden-figures-morphine-set-iv-drip](https://www.tmz.com/2024/06/29/kevin-costner-hidden-figures-morphine-set-iv-drip)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Kevin Costner blasted off on the set of "Hidden Figures" ... but instead of a rocket taking him to space he says need morphine to relieve pain.
+
+## Kevin Costner 'Sensitive' About Movie Intimacy, Says Sex Scene Partner
+ - [https://www.tmz.com/2024/06/30/kevin-costner-horizon-sensitive-sex-scene-partner-comfortable](https://www.tmz.com/2024/06/30/kevin-costner-horizon-sensitive-sex-scene-partner-comfortable)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Kevin Costner proved to be a stand-up guy during an intimate scene in his new movie ... 'cause his costar says he brought a sensitive nature to filming the down and dirty.
+
+## Khloe Kardashian Parties W/ Sisters at 40th Birthday, Snoop Performs
+ - [https://www.tmz.com/2024/06/30/khloe-kardashian-40th-birthday-party-snoop-kurupt-warren-g](https://www.tmz.com/2024/06/30/khloe-kardashian-40th-birthday-party-snoop-kurupt-warren-g)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Khloe Kardashian knows how to do it up big for her fam, hosting her 40th birthday party, and some huge stars showed up to perform.
+
+## Knowing when to call it quits takes courage and confidence - 3 case studies
+ - [https://theconversation.com/knowing-when-to-call-it-quits-takes-courage-and-confidence-3-case-studies-233602](https://theconversation.com/knowing-when-to-call-it-quits-takes-courage-and-confidence-3-case-studies-233602)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+How does someone with power and fame walk away from it? It’s not easy, as these three examples from politics and sports show.
+
+## Last-place Utah fire head coach Rodriguez
+ - [https://www.espn.com/soccer/story/_/id/40467356/last-place-utah-royals-fire-head-coach-amy-rodriguez](https://www.espn.com/soccer/story/_/id/40467356/last-place-utah-royals-fire-head-coach-amy-rodriguez)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Utah Royals have fired Amy Rodriguez halfway through her first season as head coach, the team announced on Sunday. Utah sits in last place in the National Women's Soccer League a week ahead of the summer Olympics break (2W-11L-2D, 8 pts.)
+
+## Lightning acquire rights to Guentzel from Canes
+ - [https://www.espn.com/nhl/story/_/id/40466833/lightning-get-rights-jake-guentzel-prior-nhl-free-agency](https://www.espn.com/nhl/story/_/id/40466833/lightning-get-rights-jake-guentzel-prior-nhl-free-agency)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Lightning got a head start on free agency by acquiring the rights to high-scoring winger Jake Guentzel from Carolina in exchange for a 2025 third-round pick.
+
+## LIVE Transfer Talk: PSG eye €250m world-record bid for Yamal
+ - [https://www.espn.com/soccer/story/_/id/40461789/transfer-talk-psg-eye-250m-world-record-bid-yamal](https://www.espn.com/soccer/story/_/id/40461789/transfer-talk-psg-eye-250m-world-record-bid-yamal)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Paris Saint-Germain are willing to offer a world-record transfer fee of €250 million to sign Barcelona winger Lamine Yamal. Transfer Talk has the latest.
+
+## Lupita Nyong'o -- Good Genes or Good Docs?!
+ - [https://www.tmz.com/2024/06/30/lupita-nyongo-good-genes-or-good-docs](https://www.tmz.com/2024/06/30/lupita-nyongo-good-genes-or-good-docs)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Lupita Lyongo's looks over the years are sweet like "Shuga!" The question is: Good Genes or Good Docs?!
+
+## Macron on edge as France’s right-wing National Rally party gains momentum in first round of elections
+ - [https://www.foxnews.com/world/macron-edge-frances-right-wing-national-rally-party-gains-momentum-first-round-elections](https://www.foxnews.com/world/macron-edge-frances-right-wing-national-rally-party-gains-momentum-first-round-elections)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+France’s National Rally party made considerable gains in the country’s first round of elections Sunday, putting centrist President Emmanuel Macron and his supporters on edge.
+
+## Maple Leafs, D Liljegren agree on two-year deal
+ - [https://www.espn.com/nhl/story/_/id/40469137/toronto-maple-leafs-secure-new-deal-timothy-liljegren](https://www.espn.com/nhl/story/_/id/40469137/toronto-maple-leafs-secure-new-deal-timothy-liljegren)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+On the eve of free agency, the Toronto Maple Leafs re-signed defenseman Timothy Liljegren, 25, to a two-year contract, with an average annual value of $3 million, the club announced Sunday. The veteran appeared in 55 games last season.
+
+## Matters Computational [pdf] | Hacker News
+ - [https://news.ycombinator.com/item?id=40841355](https://news.ycombinator.com/item?id=40841355)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Matters Computational [pdf] | Hacker News
+
+## Mauritania's President Ghazouani extends lead in election
+ - [https://www.reuters.com/world/africa/mauritanias-president-ghazouani-extends-lead-election-2024-06-30](https://www.reuters.com/world/africa/mauritanias-president-ghazouani-extends-lead-election-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Mauritania's President Mohamed Ould Ghazouani has extended his lead in the West African nation's presidential election, provisional results showed on Sunday.
+
+## Mbappé: Broken nose will be 'target' for Belgium
+ - [https://www.espn.com/soccer/story/_/id/40468463/france-kylian-mbappe-broken-nose-belgium](https://www.espn.com/soccer/story/_/id/40468463/france-kylian-mbappe-broken-nose-belgium)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+France captain Kylian Mbappé will not be surprised if his broken nose is targeted in a tough physical battle against neighbours Belgium in the round of 16 at the European Championship in Duesseldorf on Monday.
+
+## Mercury, Fever players get into heated skirmish during game
+ - [https://www.foxnews.com/sports/mercury-fever-players-get-heated-skirmish-during-game](https://www.foxnews.com/sports/mercury-fever-players-get-heated-skirmish-during-game)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Four players were given a technical foul during Sunday's WNBA matchup between the Phoenix Mercury and Indiana Fever after an incident in the second quarter.
+
+## Michael J. Fox Joins Coldplay at Glastonbury Festival, Plays 'Fix You'
+ - [https://www.tmz.com/2024/06/30/michael-j-fox-coldplay-chris-martin-glastonbury-music-festival-fix-you](https://www.tmz.com/2024/06/30/michael-j-fox-coldplay-chris-martin-glastonbury-music-festival-fix-you)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Michael J. Fox can still shred on the guitar ... taking the stage alongside Chris Martin and Coldplay -- and playing a mashup "Back to the Future" fans know so well.
+
+## Michael J. Fox makes surprise appearance with Coldplay at music festival: ‘Mind blowing’ experience
+ - [https://www.foxnews.com/entertainment/michael-j-fox-makes-surprise-appearance-coldplay-music-festival-mind-blowing-experience](https://www.foxnews.com/entertainment/michael-j-fox-makes-surprise-appearance-coldplay-music-festival-mind-blowing-experience)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Michael J. Fox made a surprise appearance on stage with Coldplay during their Glastonbury Festival performance, playing guitar in a wheelchair with the band.
+
+## Missile fragments hit apartment building in Kyiv suburb, damage balconies
+ - [https://www.reuters.com/world/europe/missile-fragments-hit-apartment-building-kyiv-suburb-no-indication-casualties-2024-06-30](https://www.reuters.com/world/europe/missile-fragments-hit-apartment-building-kyiv-suburb-no-indication-casualties-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Missile fragments fell on a northern suburb of Kyiv on Sunday, damaging balconies on a multi-storey apartment building, officials said.
+
+## MSN
+ - [https://feedpress.me/link/20202/16729520/ar-BB1p9m4T](https://feedpress.me/link/20202/16729520/ar-BB1p9m4T)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16729541/ar-BB1p9pUF](https://feedpress.me/link/20202/16729541/ar-BB1p9pUF)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16729470/ar-BB1p7LFw](https://feedpress.me/link/20202/16729470/ar-BB1p7LFw)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16729471/ar-BB1p983X](https://feedpress.me/link/20202/16729471/ar-BB1p983X)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16729566/ar-BB1p5m0C](https://feedpress.me/link/20202/16729566/ar-BB1p5m0C)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16729539/ar-BB1p6RIr](https://feedpress.me/link/20202/16729539/ar-BB1p6RIr)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+MSN
+
+## MSN
+ - [https://feedpress.me/link/20202/16729515/ar-BB1p7QUo](https://feedpress.me/link/20202/16729515/ar-BB1p7QUo)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+MSN
+
+## Myanmar central bank denies UN report on weapons transactions
+ - [https://www.reuters.com/world/asia-pacific/myanmar-central-bank-denies-un-report-weapons-transactions-2024-06-30](https://www.reuters.com/world/asia-pacific/myanmar-central-bank-denies-un-report-weapons-transactions-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Myanmar's central bank denied a U.N. report that the country's military government can still access money and weapons for its war against anti-coup forces, saying financial institutions under the bank's supervision followed prescribed procedures.
+
+## NASA rover discovers mysterious Mars boulder unlike any others | Hacker News
+ - [https://news.ycombinator.com/item?id=40835233](https://news.ycombinator.com/item?id=40835233)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+NASA rover discovers mysterious Mars boulder unlike any others | Hacker News
+
+## New AirPods with IR camera coming to enhance Spatial Audio in Apple Vision Pro
+ - [https://appleinsider.com/articles/24/06/30/new-airpods-with-ir-camera-coming-to-enhance-spatial-audio-in-apple-vision-pro?utm_medium=rss](https://appleinsider.com/articles/24/06/30/new-airpods-with-ir-camera-coming-to-enhance-spatial-audio-in-apple-vision-pro?utm_medium=rss)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Analyst Ming-Chi Kuo says Apple is planning to release AirPods with infra-red camera modules that detect when a user turns their head, and so automatically adjust Apple Vision Pro audio output to match.
+
+## No Messi, no problems: Scaloni's Argentina are built to win without their star
+ - [https://www.espn.com/soccer/story/_/id/40462870/lionel-scalonis-argentina-built-win-leo-messi](https://www.espn.com/soccer/story/_/id/40462870/lionel-scalonis-argentina-built-win-leo-messi)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+In years gone by, an Argentina without Lionel Messi may have fallen apart. Now, Lionel Scaloni's men have developed the sort of resilience that has led to three major trophies.
+
+## North Korea blames South Korea, U.S. and Japan ties as Asian version of NATO
+ - [https://www.reuters.com/world/asia-pacific/north-korea-blames-south-korea-us-japan-ties-asian-version-nato-2024-06-29](https://www.reuters.com/world/asia-pacific/north-korea-blames-south-korea-us-japan-ties-asian-version-nato-2024-06-29)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+North Korea criticised a joint military exercise by South Korea, Japan and the United States held this month, state media said on Sunday, saying such drills show the relationship among three countries has developed into "the Asian version of NATO".
+
+## North Korea fires ballistic missile, Yonhap New Agency says
+ - [https://www.reuters.com/world/asia-pacific/north-korea-fires-ballistic-missile-yonhap-new-agency-says-2024-06-30](https://www.reuters.com/world/asia-pacific/north-korea-fires-ballistic-missile-yonhap-new-agency-says-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+North Korea fired a ballistic missile eastward, Yonhap News Agency reported on Monday.
+
+## North Korean officials sport Kim Jong Un pins for first time
+ - [https://www.reuters.com/world/asia-pacific/north-korean-officials-sport-kim-jong-un-pins-first-time-2024-06-30](https://www.reuters.com/world/asia-pacific/north-korean-officials-sport-kim-jong-un-pins-first-time-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+North Korean officials wore pins with a portrait of Kim Jong Un in public for the first time in pictures released by state media on Sunday, the latest step in the development of a cult of personality about the leader.
+
+## Nyquest NY8A051H – 1.5 cent microcontroller: weekend die-shot | Hacker News
+ - [https://news.ycombinator.com/item?id=40841414](https://news.ycombinator.com/item?id=40841414)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Nyquest NY8A051H – 1.5 cent microcontroller: weekend die-shot | Hacker News
+
+## Oilers waive Campbell with 3 years left on deal
+ - [https://www.espn.com/nhl/story/_/id/40467231/oilers-waive-jack-campbell-take-salary-cap-hit-six-years](https://www.espn.com/nhl/story/_/id/40467231/oilers-waive-jack-campbell-take-salary-cap-hit-six-years)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Jack Campbell, who signed a 5-year, $25M deal with Edmonton in 2022, was put on unconditional waivers by the Oilers, who will take a $10.5M cap hit over six years.
+
+## OpenDNS Suspends Service in France Due to Canal+ Piracy Blocking Order | Hacker News
+ - [https://news.ycombinator.com/item?id=40835117](https://news.ycombinator.com/item?id=40835117)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+OpenDNS Suspends Service in France Due to Canal+ Piracy Blocking Order | Hacker News
+
+## Open-Source Perplexity – Omniplex | Hacker News
+ - [https://news.ycombinator.com/item?id=40836564](https://news.ycombinator.com/item?id=40836564)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Open-Source Perplexity – Omniplex | Hacker News
+
+## Panthers' Cup celebration not dampened by rain
+ - [https://www.espn.com/nhl/story/_/id/40467285/panthers-celebrate-stanley-cup-parade-rally](https://www.espn.com/nhl/story/_/id/40467285/panthers-celebrate-stanley-cup-parade-rally)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Panthers celebrated winning the first Stanley Cup in franchise history with a parade Sunday in Fort Lauderdale.
+
+## Patriots rookie WR Ja'Lynn Polk has the tools to make immediate impact
+ - [https://www.espn.com/nfl/story/_/id/40459807/patriots-rookie-jalynn-polk-make-immediate-impact-field](https://www.espn.com/nfl/story/_/id/40459807/patriots-rookie-jalynn-polk-make-immediate-impact-field)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Patriots second-round draft pick's tough mentality has stood out so far in his career.
+
+## Paul Mescal On Date With Gracie Abrams in London
+ - [https://www.tmz.com/2024/06/30/paul-mescal-date-gracie-abrams-london](https://www.tmz.com/2024/06/30/paul-mescal-date-gracie-abrams-london)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+We have a possible new couple alert from across the pond ... because we just got photos of Paul Mescal on a date with Gracie Abrams.
+
+## Pirates catcher Bart returns from thumb injury
+ - [https://www.espn.com/mlb/story/_/id/40466750/pirates-joey-bart-26-returns-thumb-injury](https://www.espn.com/mlb/story/_/id/40466750/pirates-joey-bart-26-returns-thumb-injury)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Pirates catcher Joey Bart, who hasn't played since suffering a thumb injury on May 26, has been activated off the injured list.
+
+## Player ratings: Martinez shines for Argentina as Messi rests
+ - [https://www.espn.com/soccer/story/_/id/40462656/martinez-shines-argentina-messi-rests](https://www.espn.com/soccer/story/_/id/40462656/martinez-shines-argentina-messi-rests)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Lautaro Martínez stepped up in Lionel Messi's absence to ensure that Argentina cruised to the end of the Copa America group stage with maximum points and no goals conceded.
+
+## Postzegelcode | Hacker News
+ - [https://news.ycombinator.com/item?id=40839418](https://news.ycombinator.com/item?id=40839418)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Postzegelcode | Hacker News
+
+## Power station's last coal delivery arrives by rail | Hacker News
+ - [https://news.ycombinator.com/item?id=40837524](https://news.ycombinator.com/item?id=40837524)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Power station's last coal delivery arrives by rail | Hacker News
+
+## Presidential debate show Democrats ‘lied’ about Biden: ‘I blame Barack Obama'
+ - [https://www.foxnews.com/media/presidental-debate-revealed-democrats-lied-about-biden-i-blame-barack-obama](https://www.foxnews.com/media/presidental-debate-revealed-democrats-lied-about-biden-i-blame-barack-obama)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Biden Administration aides revealed to “Axios" that the president can only be “dependably engaged" for six hours a day, becoming "fatigued" outside of this window.
+
+## Prince Harry Slammed By Pat Tillman's Mom For Receiving Son's Award
+ - [https://www.tmz.com/2024/06/30/prince-harry-slammed-pat-tillman-son-award-espy-espn-courage-dead-army-ranger](https://www.tmz.com/2024/06/30/prince-harry-slammed-pat-tillman-son-award-espy-espn-courage-dead-army-ranger)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Prince Harry isn't fit to receive the Pat Tillman Award at the ESPYs, and it's shocking ESPN let him ... at least, that's what the late veteran's mother thinks.
+
+## Rangers' Seager exits after wrist struck by pitch
+ - [https://www.espn.com/mlb/story/_/id/40463104/rangers-corey-seager-exits-left-wrist-struck-pitch](https://www.espn.com/mlb/story/_/id/40463104/rangers-corey-seager-exits-left-wrist-struck-pitch)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Rangers All-Star shortstop Corey Seager left in the fifth inning Saturday after being struck by a pitch on his left wrist.
+
+## Re: Supreme Court's Loper decision: offer some thought someone who has litigated | Hacker News
+ - [https://news.ycombinator.com/item?id=40837777](https://news.ycombinator.com/item?id=40837777)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Re: Supreme Court's Loper decision: offer some thought someone who has litigated | Hacker News
+
+## Reactions to far right winning first round in France election
+ - [https://www.reuters.com/world/europe/view-far-right-wins-first-round-france-election-2024-06-30](https://www.reuters.com/world/europe/view-far-right-wins-first-round-france-election-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Marine Le Pen's far-right National Rally (RN) party won the first round of France's parliamentary elections on Sunday, exit polls showed, but the final result will depend on days of horsetrading before next week's run-off.
+
+## Reading withdraw women's side from Ch'ship
+ - [https://www.espn.com/soccer/story/_/id/40465355/reading-confirm-women-team-withdrawal-championship](https://www.espn.com/soccer/story/_/id/40465355/reading-confirm-women-team-withdrawal-championship)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Reading have withdrawn their team from the Barclays Women's Championship ahead of the upcoming season, with the side set to enter tier five of the women's football pyramid, the club confirmed on Sunday.
+
+## Report: Apple Intelligence expansion may include paid features
+ - [https://appleinsider.com/articles/24/06/30/apple-may-want-to-monetize-advanced-apple-intelligence-features-in-the-future?utm_medium=rss](https://appleinsider.com/articles/24/06/30/apple-may-want-to-monetize-advanced-apple-intelligence-features-in-the-future?utm_medium=rss)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Apple is considering a paid future for aspects of its Apple Intelligence service that would expand to a subscription model for additional features and more AI partners.
+
+## Reynolds' MLB-best hit streak ends; Pirates win
+ - [https://www.espn.com/mlb/story/_/id/40467885/bryan-reynolds-mlb-best-25-game-hit-streak-ends-pirates-win](https://www.espn.com/mlb/story/_/id/40467885/bryan-reynolds-mlb-best-25-game-hit-streak-ends-pirates-win)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Pirates beat the Braves to avoid a sweep, but Bryan Reynolds' 25-game hitting streak -- the longest in the majors this season -- came to an end.
+
+## RISC-V Memory Hot Plugging To Be Introduced With Linux 6.11 - Phoronix
+ - [https://www.phoronix.com/news/RISC-V-Linux-6.11-Hot-Memory](https://www.phoronix.com/news/RISC-V-Linux-6.11-Hot-Memory)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+RISC-V Memory Hot Plugging To Be Introduced With Linux 6.11 - Phoronix
+
+## Robusta
+ - [https://home.robusta.dev](https://home.robusta.dev)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Robusta is the best way to stay on top of Kubernetes alerts. It is an open source platform for automated monitoring, alerting, and troubleshooting.
+
+## Russia says it downed 36 Ukraine-launched drones over several Russian regions
+ - [https://www.reuters.com/world/europe/russia-says-it-downed-36-ukraine-launched-drones-over-several-russian-regions-2024-06-30](https://www.reuters.com/world/europe/russia-says-it-downed-36-ukraine-launched-drones-over-several-russian-regions-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Russia's air defence systems destroyed 36 drones that Ukraine launched overnight targeting several regions in Russia's southwest, the Russian defence ministry said on Sunday.
+
+## SEC Receives Record Number Of Whistleblower Tips | ZeroHedge
+ - [https://www.zerohedge.com/markets/sec-receives-record-number-whistleblower-tips](https://www.zerohedge.com/markets/sec-receives-record-number-whistleblower-tips)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
+
+## Self-healing 'living skin' can make robots more humanlike | Hacker News
+ - [https://news.ycombinator.com/item?id=40837240](https://news.ycombinator.com/item?id=40837240)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Self-healing 'living skin' can make robots more humanlike | Hacker News
+
+## Shereé Whitfield Says 'RHOA' Is Sinking After Kenya Moore Exit
+ - [https://www.tmz.com/2024/06/30/sheree-whitfield-real-housewives-atlanta-sinking-no-original-cast-kenya-more-exit-rhoa](https://www.tmz.com/2024/06/30/sheree-whitfield-real-housewives-atlanta-sinking-no-original-cast-kenya-more-exit-rhoa)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Shereé Whitfield is not feeling confident about the future of "The Real Housewives of Atlanta" on the heels of Kenya Moore's controversial exit, but says she knows exactly what/who the producers need!
+
+## Show HN: Drop-In SQS Replacement Based on SQLite | Hacker News
+ - [https://news.ycombinator.com/item?id=40837610](https://news.ycombinator.com/item?id=40837610)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Show HN: Drop-In SQS Replacement Based on SQLite | Hacker News
+
+## Slack AI | Hacker News
+ - [https://news.ycombinator.com/item?id=40841057](https://news.ycombinator.com/item?id=40841057)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Slack AI | Hacker News
+
+## Small plane carrying 5 people crashes in New York: officials
+ - [https://www.foxnews.com/us/small-plane-carrying-5-people-crashes-new-york-officials](https://www.foxnews.com/us/small-plane-carrying-5-people-crashes-new-york-officials)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+A single-engine plane crashed near Sidney, New York, on Sunday afternoon after departing from Albert S. Nader Regional Airport in Oneonta, New York.
+
+## Soap Opera Star, Model Renauld White Dead at 80
+ - [https://www.tmz.com/2024/06/30/soap-opera-star-renauld-white-dead-dies-guiding-light-model](https://www.tmz.com/2024/06/30/soap-opera-star-renauld-white-dead-dies-guiding-light-model)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Renuald White -- a soap opera star who broke down barriers for Black people in modeling -- has died ... according to one of his longtime friends.
+
+## Soto (hand) a last-minute addition to Yanks' lineup
+ - [https://www.espn.com/mlb/story/_/id/40467243/juan-soto-late-addition-yankees-lineup-blue-jays-finale-bruised-hand](https://www.espn.com/mlb/story/_/id/40467243/juan-soto-late-addition-yankees-lineup-blue-jays-finale-bruised-hand)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Yankees outfielder Juan Soto was a late addition to the lineup for Sunday's series finale in Toronto after sitting out a loss a day earlier because of a bruised right hand.
+
+## Source: Ashworth close to joining Man Utd as SD
+ - [https://www.espn.com/soccer/story/_/id/40468788/man-united-hiring-ashworth-sporting-director](https://www.espn.com/soccer/story/_/id/40468788/man-united-hiring-ashworth-sporting-director)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Manchester United are close to reaching a settlement with Newcastle United to appoint Dan Ashworth as their new sporting director, a source has told ESPN.
+
+## Source: Félix, Cancelo chaos due to Barça interest
+ - [https://www.espn.com/soccer/story/_/id/40466746/felix-cancelo-exit-chaos-due-barcelona-interest-source](https://www.espn.com/soccer/story/_/id/40466746/felix-cancelo-exit-chaos-due-barcelona-interest-source)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Barcelona had to delete a club statement saying farewell to João Félix and João Cancelo because they still hope to re-sign the Portuguese duo, a source told ESPN.
+
+## Sources: Bulls, Williams agree on 5 years, $90M
+ - [https://www.espn.com/nba/story/_/id/40463691/sources-bulls-patrick-williams-agree-5-year-90m-deal](https://www.espn.com/nba/story/_/id/40463691/sources-bulls-patrick-williams-agree-5-year-90m-deal)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Chicago Bulls reached an agreement with Patrick Williams on a five-year, $90 million deal that includes a player option in the fifth year.
+
+## Sources: Caldwell-Pope finalizing deal with Magic
+ - [https://www.espn.com/nba/story/_/id/40469675/sources-kentavious-caldwell-pope-finalizing-deal-magic](https://www.espn.com/nba/story/_/id/40469675/sources-kentavious-caldwell-pope-finalizing-deal-magic)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Kentavious Caldwell-Pope is finalizing a three-year, $66 million deal with the Magic, sources told ESPN's Adrian Wojnarowski.
+
+## Sources: Chelsea agree £30m deal for Dewsbury-Hall
+ - [https://www.espn.com/soccer/story/_/id/40466385/chelsea-set-sign-kiernan-dewsbury-hall-30m-sources](https://www.espn.com/soccer/story/_/id/40466385/chelsea-set-sign-kiernan-dewsbury-hall-30m-sources)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Chelsea are set to sign Leicester City midfielder Kiernan Dewsbury-Hall after agreeing a £30 milliion ($38m) fee, sources have told ESPN.
+
+## Sources: Christie to stay with Lakers on $32M deal
+ - [https://www.espn.com/nba/story/_/id/40468897/sources-max-christie-stay-lakers-4-year-32m-deal](https://www.espn.com/nba/story/_/id/40468897/sources-max-christie-stay-lakers-4-year-32m-deal)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Restricted free agent guard Max Christie intends to sign a four-year, $32 million deal to stay with the Los Angeles Lakers, sources told ESPN.
+
+## Sources: Drummond to join 76ers on 2-year deal
+ - [https://www.espn.com/nba/story/_/id/40469640/sources-andre-drummond-join-76ers-2-year-10m-deal](https://www.espn.com/nba/story/_/id/40469640/sources-andre-drummond-join-76ers-2-year-10m-deal)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Andre Drummond is set to sign a two-year, $10 million deal with the 76ers, sources told ESPN, confirming multiple reports.
+
+## Sources: Harden, Clips agree to 2 years, $70M
+ - [https://www.espn.com/nba/story/_/id/40469287/sources-james-harden-clippers-agree-2-year-70m-deal](https://www.espn.com/nba/story/_/id/40469287/sources-james-harden-clippers-agree-2-year-70m-deal)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+James Harden is planning to return to the LA Clippers on a two-year, $70 million deal, a league source told ESPN's Ohm Youngmisuk on Sunday.
+
+## Sources: Love returning to Heat on 2-year deal
+ - [https://www.espn.com/nba/story/_/id/40469441/sources-free-agent-kevin-love-re-sign-heat](https://www.espn.com/nba/story/_/id/40469441/sources-free-agent-kevin-love-re-sign-heat)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Kevin Love is returning to the Heat on a two-year, $8 million-plus deal that doesn't include any options, per ESPN and multiple reports.
+
+## Sources: Pacers to keep Toppin with $60M deal
+ - [https://www.espn.com/nba/story/_/id/40467545/obi-toppin-stay-pacers-4-year-60m-deal](https://www.espn.com/nba/story/_/id/40467545/obi-toppin-stay-pacers-4-year-60m-deal)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Obi Toppin plans to stay with Pacers on a four-year, $60 million deal, sources told ESPN's Adrian Wojnarowski.
+
+## Sources: Pistons to hire Bickerstaff as new coach
+ - [https://www.espn.com/nba/story/_/id/40466441/pistons-hire-jb-bickerstaff-new-head-coach](https://www.espn.com/nba/story/_/id/40466441/pistons-hire-jb-bickerstaff-new-head-coach)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Pistons are hiring J.B. Bickerstaff on a five-year deal to be the team's new head coach, sources told ESPN's Adrian Wojnarowski.
+
+## South African parties close to reaching deal on cabinet, local media reports
+ - [https://www.reuters.com/world/africa/south-african-parties-close-reaching-deal-cabinet-local-media-reports-2024-06-30](https://www.reuters.com/world/africa/south-african-parties-close-reaching-deal-cabinet-local-media-reports-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+South African parties are close to reaching a deal on who gets which cabinet posts, local media reported on Sunday, the last hurdle to setting up a government after the ruling party lost its majority in an election for the first time in three decades.
+
+## Spain 4-1 Georgia (Jun 30, 2024) Game Analysis - ESPN
+ - [https://www.espn.com/soccer/report/_/gameId/703934](https://www.espn.com/soccer/report/_/gameId/703934)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Expert recap and game analysis of the Spain vs. Georgia Uefa European Championship game from June 30, 2024 on ESPN.
+
+## Spain vs. Georgia (Jun 30, 2024) Live Score - ESPN
+ - [https://www.espn.com/soccer/match/_/gameId/703934/georgia-spain](https://www.espn.com/soccer/match/_/gameId/703934/georgia-spain)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Live coverage of the Spain vs. Georgia Uefa European Championship game on ESPN, including live score, highlights and updated stats.
+
+## Spanish police end search for British teenager in Tenerife
+ - [https://www.reuters.com/world/europe/spanish-police-end-search-british-teenager-tenerife-2024-06-30](https://www.reuters.com/world/europe/spanish-police-end-search-british-teenager-tenerife-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Spanish police said on Sunday they had ended a search for British teenager Jay Slater, who has been missing on the Canary island of Tenerife since June 17, but that the case is still open.
+
+## Suspected suicide bombers kill at least 18 in Nigeria, authorities say
+ - [https://www.reuters.com/world/africa/suspected-suicide-bombers-kill-least-18-nigeria-authorities-say-2024-06-29](https://www.reuters.com/world/africa/suspected-suicide-bombers-kill-least-18-nigeria-authorities-say-2024-06-29)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+At least 18 people were killed and 30 others injured after a series of attacks by suspected female suicide bombers in Nigeria's northeastern Borno state on Saturday, the head of the local state emergency management agency said.
+
+## Taylor Swift Gets Stuck on Platform During Dublin Concert, Dancer Assists
+ - [https://www.tmz.com/2024/06/30/taylor-swift-stuck-lifted-platform-dancer-assist-dublin-eras-tour-concert](https://www.tmz.com/2024/06/30/taylor-swift-stuck-lifted-platform-dancer-assist-dublin-eras-tour-concert)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Taylor Swift needed some help at her Dublin concert when she got too high ... and, we mean that literally because a platform malfunctioned and left her momentarily stranded in the air.
+
+## Taylor Swift Says 'Folklore' Fantasy Album Inspired by Ireland
+ - [https://www.tmz.com/2024/06/30/taylor-swift-folklore-album-inspired-by-ireland](https://www.tmz.com/2024/06/30/taylor-swift-folklore-album-inspired-by-ireland)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Taylor Swift made an entire Irish venue swoon with pride Saturday night after telling them their country was the inspiration and imagery behind her album, "Folklore."
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/94ef8bfd-9dbd-41b0-a143-46194c861d02](https://brutalist.report/bruticle/94ef8bfd-9dbd-41b0-a143-46194c861d02)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Byte Order Fiasco (2021) | Hacker News
+ - [https://news.ycombinator.com/item?id=40838635](https://news.ycombinator.com/item?id=40838635)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Byte Order Fiasco (2021) | Hacker News
+
+## The EU regulates that by 2027, all phones be equipped with replaceable batteries | Hacker News
+ - [https://news.ycombinator.com/item?id=40839278](https://news.ycombinator.com/item?id=40839278)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The EU regulates that by 2027, all phones be equipped with replaceable batteries | Hacker News
+
+## The good, the bad, and the weird (2018) | Hacker News
+ - [https://news.ycombinator.com/item?id=40834440](https://news.ycombinator.com/item?id=40834440)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The good, the bad, and the weird (2018) | Hacker News
+
+## The Lives of Others (2006 film) | Hacker News
+ - [https://news.ycombinator.com/item?id=40840762](https://news.ycombinator.com/item?id=40840762)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Lives of Others (2006 film) | Hacker News
+
+## The weirdest QNX bug I've encountered (2021) | Hacker News
+ - [https://news.ycombinator.com/item?id=40837411](https://news.ycombinator.com/item?id=40837411)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The weirdest QNX bug I've encountered (2021) | Hacker News
+
+## Tianlong-3 catastrophic failure on launch | Hacker News
+ - [https://news.ycombinator.com/item?id=40837228](https://news.ycombinator.com/item?id=40837228)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Tianlong-3 catastrophic failure on launch | Hacker News
+
+## TMZ TV Hot Takes: Chris Pratt Down With Moving To DCU, Kesha, Stefon Diggs
+ - [https://www.tmz.com/2024/06/30/tmz-tv-hot-takes-chris-pratt-dcu-kesha-stefon-diggs](https://www.tmz.com/2024/06/30/tmz-tv-hot-takes-chris-pratt-dcu-kesha-stefon-diggs)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Today's TMZ Hot Takes includes Chris Pratt, Kesha and Stefon Diggs.
+
+## Tour de France: Too Fast To Be Clean? | ZeroHedge
+ - [https://www.zerohedge.com/medical/tour-de-france-too-fast-be-clean-0](https://www.zerohedge.com/medical/tour-de-france-too-fast-be-clean-0)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
+
+## Transfer Talk: Barca eyeing Athletic Club's Nico Williams
+ - [https://www.espn.com/soccer/story/_/id/40469384/transfer-talk-barca-eyeing-athletic-clubs-nico-williams](https://www.espn.com/soccer/story/_/id/40469384/transfer-talk-barca-eyeing-athletic-clubs-nico-williams)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Barcelona are among the clubs interested with Athletic Club's Nico Williams in the summer transfer window. Transfer Talk has the latest.
+
+## Transfer Talk: Chelsea considering Jackson-Isak swap deal
+ - [https://www.espn.com/soccer/story/_/id/40461789/transfer-talk-chelsea-considering-jackson-isak-swap-deal](https://www.espn.com/soccer/story/_/id/40461789/transfer-talk-chelsea-considering-jackson-isak-swap-deal)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Will Nicolas Jackson be included in a deal that will take Newcastle striker Alexander Isak to Stamford Bridge? Transfer Talk has the latest.
+
+## Trump puts murdered women and girls center stage in anti-immigration drive
+ - [https://www.reuters.com/world/us/trump-puts-murdered-women-girls-center-stage-anti-immigration-drive-2024-06-30](https://www.reuters.com/world/us/trump-puts-murdered-women-girls-center-stage-anti-immigration-drive-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Minutes before going on stage for the first presidential debate on Thursday, Donald Trump received a phone call from the mother of 12-year-old Jocelyn Nungaray, who was killed in Houston this month, allegedly by two Venezuelan men in the U.S. illegally.
+The mother, Alexis Nungaray, was returning a voicemail Trump had left earlier in the day when she was at her daughter's funeral, a friend of the f
+
+## Turkey arrests at least 15 protesters at Pride rally
+ - [https://www.reuters.com/world/middle-east/turkey-arrests-least-15-protesters-pride-rally-2024-06-30](https://www.reuters.com/world/middle-east/turkey-arrests-least-15-protesters-pride-rally-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Turkish police detained at least 15 protesters in Istanbul on Sunday for participating at a banned LGBT Pride rally, after searching the streets having arrived at the scene after participants had dispersed, a Reuters witness said.
+
+## Two dead, one missing after Swiss landslide, police say
+ - [https://www.reuters.com/world/europe/two-dead-one-missing-after-swiss-landslide-police-say-2024-06-30](https://www.reuters.com/world/europe/two-dead-one-missing-after-swiss-landslide-police-say-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Two people died and a third person was missing on Sunday after violent thunderstorms caused a landslide in the southern Swiss canton of Ticino, police said.
+
+## UK Reform leader Farage positive after 'tough' few days
+ - [https://www.reuters.com/world/uk/uk-reform-leader-farage-positive-after-tough-few-days-2024-06-30](https://www.reuters.com/world/uk/uk-reform-leader-farage-positive-after-tough-few-days-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Nigel Farage, leader of Britain's right-wing Reform UK party, said his party was doing better than expected after a "tough" few days, as he addressed supporters at a rally with days to go before the country votes on July 4.
+
+## UK Reform leader Farage speech interrupted by banner mocking Putin views
+ - [https://www.reuters.com/world/uk/uk-reform-leader-farage-speech-interrupted-by-banner-mocking-putin-views-2024-06-29](https://www.reuters.com/world/uk/uk-reform-leader-farage-speech-interrupted-by-banner-mocking-putin-views-2024-06-29)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+That showed the banner slowly unfurling behind a speaking Farage, revealing a smiling Putin giving a thumbs-up sign, along with the words "I (heart emoji) Putin".
+
+## Ukrainian drones attack Russian steel mill in overnight raid - company
+ - [https://www.reuters.com/world/europe/ukrainian-drones-attack-russian-steel-mill-overnight-raid-company-2024-06-30](https://www.reuters.com/world/europe/ukrainian-drones-attack-russian-steel-mill-overnight-raid-company-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+A "swarm" of Ukrainian drones targeted Russian steelmaker Novolipetsk Steel's facility in a raid in the early hours of Sunday, but it sustained no serious damage, a company spokesperson said.
+
+## Unification in Elixir | Hacker News
+ - [https://news.ycombinator.com/item?id=40840315](https://news.ycombinator.com/item?id=40840315)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Unification in Elixir | Hacker News
+
+## Uruguay holds primary elections as opposition left gains ground
+ - [https://www.reuters.com/world/americas/uruguay-holds-primary-elections-opposition-left-gains-ground-2024-06-30](https://www.reuters.com/world/americas/uruguay-holds-primary-elections-opposition-left-gains-ground-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Uruguayans take to the polls on Sunday in primary elections ahead of October's presidential race, in which the left-wing opposition is seen edging ahead according to opinion polls with voters concerned about rising inequality and public safety.
+
+## US Supreme Court's slow pace on immunity makes Trump trial before election unlikely
+ - [https://www.reuters.com/world/us/us-supreme-courts-slow-pace-immunity-makes-trump-trial-before-election-unlikely-2024-06-30](https://www.reuters.com/world/us/us-supreme-courts-slow-pace-immunity-makes-trump-trial-before-election-unlikely-2024-06-30)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Donald Trump's bid for criminal immunity from prosecution for trying to overturn his 2020 election loss is set to be decided on Monday by the U.S. Supreme Court. But however it rules, the court already has helped the former president in his effort to avoid trial before the Nov. 5 election.
+
+## US to Criminally Charge Boeing, Seek Guilty Plea, Sources Say | Hacker News
+ - [https://news.ycombinator.com/item?id=40841434](https://news.ycombinator.com/item?id=40841434)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+US to Criminally Charge Boeing, Seek Guilty Plea, Sources Say | Hacker News
+
+## USMNT: No extra pressure for huge Uruguay game
+ - [https://www.espn.com/soccer/story/_/id/40469380/united-states-team-pressure-uruguay](https://www.espn.com/soccer/story/_/id/40469380/united-states-team-pressure-uruguay)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+KANSAS CITY, Missouri -- The U.S. men have their collective backs against the wall at the Copa América ahead of Monday's decisive group finale against Uruguay.
+
+## USMNT's Weah gets 2-game ban for red card
+ - [https://www.espn.com/soccer/story/_/id/40462195/coap-america-usa-tim-weah-2-games-suspension-panama-red-card](https://www.espn.com/soccer/story/_/id/40462195/coap-america-usa-tim-weah-2-games-suspension-panama-red-card)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+USMNT forward Tim Weah has been suspended for an additional match and fined $3,000 for his red card against Panama at the Copa América, South America's confederation Conmebol confirmed to ESPN.
+
+## Villa's Douglas Luiz joins Juventus in €50m deal
+ - [https://www.espn.com/soccer/story/_/id/40443054/douglas-luiz-completes-transfer-aston-villa-juventus](https://www.espn.com/soccer/story/_/id/40443054/douglas-luiz-completes-transfer-aston-villa-juventus)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Juventus have completed the signing of Douglas Luiz from Aston Villa, the Serie A club announced.
+
+## Volkswagen Willing to Pay $1B Just to Look at Rivian's Software | Hacker News
+ - [https://news.ycombinator.com/item?id=40835641](https://news.ycombinator.com/item?id=40835641)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Volkswagen Willing to Pay $1B Just to Look at Rivian's Software | Hacker News
+
+## Warriors waive Chris Paul, making him free agent
+ - [https://www.espn.com/nba/story/_/id/40469189/sources-warriors-waive-chris-paul-making-free-agent](https://www.espn.com/nba/story/_/id/40469189/sources-warriors-waive-chris-paul-making-free-agent)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+The Warriors are waiving Chris Paul, who had a Sunday deadline to guarantee his $30 million contract for this year. He becomes a free agent.
+
+## Watch: Chinese Rocket Static-Fire Test Goes Horribly Wrong  | ZeroHedge
+ - [https://www.zerohedge.com/technology/watch-chinese-rocket-static-fire-test-goes-horribly-wrong](https://www.zerohedge.com/technology/watch-chinese-rocket-static-fire-test-goes-horribly-wrong)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
+
+## Watch: Just Another Night In Gavin Newsom's California  | ZeroHedge
+ - [https://www.zerohedge.com/political/watch-just-another-night-gavin-newsoms-california](https://www.zerohedge.com/political/watch-just-another-night-gavin-newsoms-california)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero
+
+## Weekend projects: getting silly with C | Hacker News
+ - [https://news.ycombinator.com/item?id=40835274](https://news.ycombinator.com/item?id=40835274)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Weekend projects: getting silly with C | Hacker News
+
+## WhatsApp Android beta reveals Llama 3 405B option | Hacker News
+ - [https://news.ycombinator.com/item?id=40840751](https://news.ycombinator.com/item?id=40840751)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+WhatsApp Android beta reveals Llama 3 405B option | Hacker News
+
+## Why monotonous repetition is unsatisfying | Hacker News
+ - [https://news.ycombinator.com/item?id=40839398](https://news.ycombinator.com/item?id=40839398)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Why monotonous repetition is unsatisfying | Hacker News
+
+## Writing GUI apps for Windows is painful | Hacker News
+ - [https://news.ycombinator.com/item?id=40839208](https://news.ycombinator.com/item?id=40839208)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Writing GUI apps for Windows is painful | Hacker News
+
+## Zach Bryan Brings Out 'Hawk Tuah' Girl to Sing 'Revival' At Nashville Concert
+ - [https://www.tmz.com/2024/06/30/zach-bryan-hawk-tuah-girl-nashville-concert-revival](https://www.tmz.com/2024/06/30/zach-bryan-hawk-tuah-girl-nashville-concert-revival)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+Zach Bryan got in on the "Hawk Tuah" craze, bringing the now-famous 23-year-old on stage Saturday night during his concert.
+
+## zdimension
+ - [https://zdimension.fr](https://zdimension.fr)
+ - RSS feed: 
+ - date published: 2024-06-30T00:00:00+00:00
+
+adventures in computational madness
+
+## Lakers Urged to Sign Former MVP With LeBron James Pay Cut
+ - [https://heavy.com/sports/nba/los-angeles-lakers/lebron-james-pay-cut-james-harden](https://heavy.com/sports/nba/los-angeles-lakers/lebron-james-pay-cut-james-harden)
+ - RSS feed: 
+ - date published: 2024-06-29T23:50:08+00:00
+
+LeBron James is willing to take a pay cut for the Los Angeles Lakers to land an impact player and James Harden is on the team's radar.
+
+## LeBron James 'Hopeful' Lakers Can Add 5-time NBA All-Star: Report
+ - [https://heavy.com/sports/nba/los-angeles-lakers/lebron-james-hopeful-to-add-klay-thompson](https://heavy.com/sports/nba/los-angeles-lakers/lebron-james-hopeful-to-add-klay-thompson)
+ - RSS feed: 
+ - date published: 2024-06-29T23:34:09+00:00
+
+LeBron James is willing to take a paycut in his new deal for the Los Angeles Lakers to land a five-time All-Star upgrade.
+
+## Josh Allen's Girlfriend Hailee Steinfeld Deleting IG Content Turns Heads
+ - [https://heavy.com/sports/nfl/buffalo-bills/josh-allen-girlfriend-hailee-steinfeld-instagram-highlights-deleted](https://heavy.com/sports/nfl/buffalo-bills/josh-allen-girlfriend-hailee-steinfeld-instagram-highlights-deleted)
+ - RSS feed: 
+ - date published: 2024-06-29T23:20:34+00:00
+
+Fans strongly react to Hailee Steinfeld, girlfriend of Bills quarterback Josh Allen, deleting all her Instagram highlight videos.
+
+## Lions Issued Warning Over Veteran DE With Injury History
+ - [https://heavy.com/sports/nfl/detroit-lions/marcus-davenport-injury-warning](https://heavy.com/sports/nfl/detroit-lions/marcus-davenport-injury-warning)
+ - RSS feed: 
+ - date published: 2024-06-29T23:18:57+00:00
+
+The Detroit Lions could be in trouble with veteran edge rusher Marcus Davenport given his injury history, an analyst warns.
+
+## Facing Diana Taurasi Will Be a 'Dream Come True' for Caitlin Clark
+ - [https://heavy.com/sports/wnba/caitlin-clark-diana-taurasi-comments-pregame](https://heavy.com/sports/wnba/caitlin-clark-diana-taurasi-comments-pregame)
+ - RSS feed: 
+ - date published: 2024-06-29T23:06:41+00:00
+
+Caitlin Clark grew up watching Diana Taurasi. On Sunday, two two will face off as WNBA opponents for the first time.
+
+## Lack of Jan. 6 accountability on the debate stage alarms democracy advocates
+ - [https://www.pbs.org/newshour/politics/lack-of-jan-6-accountability-on-the-debate-stage-alarms-democracy-advocates](https://www.pbs.org/newshour/politics/lack-of-jan-6-accountability-on-the-debate-stage-alarms-democracy-advocates)
+ - RSS feed: 
+ - date published: 2024-06-29T22:56:22+00:00
+
+In the first presidential debate, Republican Donald Trump skimmed over the Jan. 6, 2021, attack at the Capitol, shifted blame for the violent mob siege and declined repeatedly to state unequivocally that he will accept the results of this year’s White House election.
+
+## Western and Arab nations warn Lebanon's Hezbollah against triggering wider war with Israel
+ - [https://www.pbs.org/newshour/world/western-and-arab-nations-warn-lebanons-hezbollah-against-triggering-wider-war-with-israel](https://www.pbs.org/newshour/world/western-and-arab-nations-warn-lebanons-hezbollah-against-triggering-wider-war-with-israel)
+ - RSS feed: 
+ - date published: 2024-06-29T22:41:47+00:00
+
+U.S., European and Arab mediators are pressing to keep stepped-up cross-border attacks between Israel and Lebanon's Hezbollah militants from spiraling into a wider Middle East war that the world has feared for months.
+
 ## How Uninhabited Terrain Became A Hotbed For Black Market Marijuana | ZeroHedge
  - [https://www.zerohedge.com/commodities/how-uninhabited-terrain-became-hotbed-black-market-marijuana](https://www.zerohedge.com/commodities/how-uninhabited-terrain-became-hotbed-black-market-marijuana)
  - RSS feed: 
@@ -141,12 +1523,40 @@ ZeroHedge - On a long enough timeline, the survival rate for everyone drops to z
 
 Yahoo is part of the Yahoo family of brands
 
+## Orioles Would Be 'Sensible' to Target White Sox Starter at Deadline
+ - [https://heavy.com/sports/mlb/baltimore-orioles/garrett-crochet-white-sox-trade-deadline](https://heavy.com/sports/mlb/baltimore-orioles/garrett-crochet-white-sox-trade-deadline)
+ - RSS feed: 
+ - date published: 2024-06-29T22:37:23+00:00
+
+With the trade deadline approaching, the Baltimore Orioles may look to Garrett Crochet to bolster their injury-thinned starting rotation.
+
 ## LeBron James Sends Strong Message to Lakers After Opting Out
  - [https://heavy.com/sports/nba/los-angeles-lakers/lebron-james-opt-out-pay-cut-future](https://heavy.com/sports/nba/los-angeles-lakers/lebron-james-opt-out-pay-cut-future)
  - RSS feed: 
  - date published: 2024-06-29T22:12:39+00:00
 
 LeBron James has opted out of the final year with the Los Angeles Lakers and is willing to take a pay cut to return if it means improving the roster.
+
+## Democrat insiders reveal Joe Biden was set up to fail in a 'soft coup'
+ - [https://feedpress.me/link/20202/16729468/article-13583907](https://feedpress.me/link/20202/16729468/article-13583907)
+ - RSS feed: 
+ - date published: 2024-06-29T22:02:28+00:00
+
+Joe Biden is facing mounting calls to step aside after his disastrous debate performance on Thursday, with sources telling The Mail on Sunday that many believe he was purposely set up to fail.
+
+## Democrat insiders reveal Joe Biden was set up to fail in a 'soft coup'
+ - [https://feedpress.me/link/20202/16729280/pressure-mounts-Joe-Biden-quit-Elton-John-turns-Democrat-insiders-President-set-fail.html](https://feedpress.me/link/20202/16729280/pressure-mounts-Joe-Biden-quit-Elton-John-turns-Democrat-insiders-President-set-fail.html)
+ - RSS feed: 
+ - date published: 2024-06-29T22:02:28+00:00
+
+Joe Biden is facing mounting calls to step aside after his disastrous debate performance on Thursday, with sources telling The Mail on Sunday that many believe he was purposely set up to fail.
+
+## Michael J. Fox Joins Coldplay on Guitar During Glastonbury Headlining Set, Little Simz Makes Appearance to Debut New Song
+ - [https://variety.com/2024/music/global/coldplay-debuts-new-song-little-simz-glastonbury-1236046592](https://variety.com/2024/music/global/coldplay-debuts-new-song-little-simz-glastonbury-1236046592)
+ - RSS feed: 
+ - date published: 2024-06-29T22:01:40+00:00
+
+Coldplay brought out Michael J. Fox in a wheelchair playing guitar, and rapper Little Simz as a surprise guest, during its Glastonbury set.
 
 ## Warriors 'Preparing' to Lose Klay Thompson in Free Agency: Report
  - [https://heavy.com/sports/nba/golden-state-warriors/to-lose-klay-thompson-free-agency](https://heavy.com/sports/nba/golden-state-warriors/to-lose-klay-thompson-free-agency)
@@ -168,6 +1578,13 @@ In our news wrap Saturday, Iran will hold a runoff election after no candidate w
  - date published: 2024-06-29T21:40:57+00:00
 
 According to an analysis by The Washington Post, the vast majority of school voucher money nationwide is going to religious schools. John Yang speaks with Robert Enlow of EdChoice and Richard Katskee of Duke University's Appellate Litigation Clinic for two perspectives on the debate over religion in publicly supported schools.
+
+## Goodyear, Arizona to Fort Myers, Florida: 10 fastest-growing retirement hot spots in America, according to a new study
+ - [https://www.cnbc.com/2024/06/29/gobankingrates-fastest-growing-us-retirement-hot-spots.html](https://www.cnbc.com/2024/06/29/gobankingrates-fastest-growing-us-retirement-hot-spots.html)
+ - RSS feed: 
+ - date published: 2024-06-29T21:37:29+00:00
+
+Four of the top 10 retirement hot spots are in Florida. The Sunshine State also had the most cities in the top 50 list.
 
 ## Frequent gun violence near school grounds harms millions of kids, analysis finds
  - [https://www.pbs.org/newshour/show/frequent-gun-violence-near-school-grounds-harms-millions-of-kids-analysis-finds](https://www.pbs.org/newshour/show/frequent-gun-violence-near-school-grounds-harms-millions-of-kids-analysis-finds)
@@ -520,6 +1937,13 @@ The Miami Heat make some sense as a potential trade destination for Atlanta Hawk
  - date published: 2024-06-29T19:05:44+00:00
 
 There's hubris in Kevin Costner expecting moviegoers to show up for what is essentially a miniseries with the first part of his 'Horizon' Western.
+
+## Carville Responds to Biden Campaign Using His Name to Fundraise After He Predicted President Will Drop Out of Race
+ - [https://feedpress.me/link/20202/16729253/carville-responds-to-biden-campaign-using-his-name-to-fundraise-after-he-predicted-president-will-drop-out-of-race](https://feedpress.me/link/20202/16729253/carville-responds-to-biden-campaign-using-his-name-to-fundraise-after-he-predicted-president-will-drop-out-of-race)
+ - RSS feed: 
+ - date published: 2024-06-29T19:03:31+00:00
+
+President Joe Biden's campaign trolled James Carville on Saturday after the Democratic strategist predicted Biden will not be on the ballot in November.
 
 ## Lakers Will Aggressively Pursue Trade of $36 Million Former All-Star: Report
  - [https://heavy.com/sports/nba/los-angeles-lakers/dangelo-russell-trade-rumors-james-reaves](https://heavy.com/sports/nba/los-angeles-lakers/dangelo-russell-trade-rumors-james-reaves)
@@ -1102,6 +2526,20 @@ NHL analyst Carlo Colaiacovo firmly believes that the Toronto Maple Leafs will s
 
 Construction workers are four times more likely to commit suicide than the average American — and more than any other occupation, a top trade group warned.
 
+## Panicked AI users revolt against Silicon Valley tech giants
+ - [https://feedpress.me/link/20202/16729255/ai-tech-companies-backlash-users-policy-changes](https://feedpress.me/link/20202/16729255/ai-tech-companies-backlash-users-policy-changes)
+ - RSS feed: 
+ - date published: 2024-06-29T15:30:00+00:00
+
+ARTIFICIAL intelligence is here to stay – and many users are hitting back at tech giants like Microsoft and Meta over data privacy concerns. While the companies have taken note of the critici…
+
+## Panicked AI users revolt against Silicon Valley tech giants
+ - [https://feedpress.me/link/20202/16729512/11734429](https://feedpress.me/link/20202/16729512/11734429)
+ - RSS feed: 
+ - date published: 2024-06-29T15:30:00+00:00
+
+ARTIFICIAL intelligence is here to stay – and many users are hitting back at tech giants like Microsoft and Meta over data privacy concerns. While the companies have taken note of the critici…
+
 ## Internet addiction: What is it doing to teen brains?
  - [https://feedpress.me/link/20202/16729111/internet-addiction](https://feedpress.me/link/20202/16729111/internet-addiction)
  - RSS feed: 
@@ -1361,6 +2799,13 @@ Spain defender Marc Cucurella has become a key player at Euro 2024 after struggl
 
 President Biden and Donald Trump are scheduled to face off at a second and final debate on Sept. 10.
 
+## Redbox Owner Chicken Soup For The Soul Entertainment Files For Chapter 11 Bankruptcy Protection
+ - [https://feedpress.me/link/20202/16729259/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730](https://feedpress.me/link/20202/16729259/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730)
+ - RSS feed: 
+ - date published: 2024-06-29T14:30:36+00:00
+
+After months of financial struggles, Redbox parent Chicken Soup for the Soul Entertainment has filed for Chapter 11 bankruptcy protection.
+
 ## Kelsey Anderson Shares 'Non-Negotiable' Agreement With Joey Graziadei
  - [https://heavy.com/entertainment/the-bachelor/kelsey-anderson-adoption](https://heavy.com/entertainment/the-bachelor/kelsey-anderson-adoption)
  - RSS feed: 
@@ -1461,6 +2906,13 @@ OctoPrint is the snappy web interface for your 3D printer that allows you to con
 
 ## Tractor maker lays off hundreds of Americans, ups production in Mexico
  - [https://feedpress.me/link/20202/16729053/Americas-oldest-companies-slashes-jobs-Midwest-shifts-work-Mexico.html](https://feedpress.me/link/20202/16729053/Americas-oldest-companies-slashes-jobs-Midwest-shifts-work-Mexico.html)
+ - RSS feed: 
+ - date published: 2024-06-29T13:19:26+00:00
+
+John Deere, one of America's oldest companies, is sparking outrage now that it's laying off American workers and moving more of its agricultural equipment manufacturing to Mexico.
+
+## Tractor maker lays off hundreds of Americans, ups production in Mexico
+ - [https://feedpress.me/link/20202/16729521/article-13567647](https://feedpress.me/link/20202/16729521/article-13567647)
  - RSS feed: 
  - date published: 2024-06-29T13:19:26+00:00
 
@@ -1858,6 +3310,20 @@ Former "Vanderpump Rules" star Rachel Leviss said her new mystery boyfriend is t
 
 Losing your job later in your career can be terrifying, but following these steps can keep your long-term investments in good shape.
 
+## I rode a highway Elon Musk built UNDER Vegas - experts call it 'a new world'
+ - [https://feedpress.me/link/20202/16729516/11739322](https://feedpress.me/link/20202/16729516/11739322)
+ - RSS feed: 
+ - date published: 2024-06-29T11:00:00+00:00
+
+ELON Musk has built a bustling, neon-colored tunnel underneath the scorching hot blacktop parking lots around the Las Vegas Convention Center. The tunnels, a product of Musk’s Boring Company,…
+
+## I rode a highway Elon Musk built UNDER Vegas - experts call it 'a new world'
+ - [https://feedpress.me/link/20202/16729261/elon-musk-boring-company-evs-tunnels-vegas](https://feedpress.me/link/20202/16729261/elon-musk-boring-company-evs-tunnels-vegas)
+ - RSS feed: 
+ - date published: 2024-06-29T11:00:00+00:00
+
+ELON Musk has built a bustling, neon-colored tunnel underneath the scorching hot blacktop parking lots around the Las Vegas Convention Center. The tunnels, a product of Musk’s Boring Company,…
+
 ## Netflix in 2024: the 9 most unmissable shows so far and what’s coming next
  - [https://www.techradar.com/streaming/netflix/netflix-in-2024-the-9-most-unmissable-shows-so-far-and-whats-coming-next](https://www.techradar.com/streaming/netflix/netflix-in-2024-the-9-most-unmissable-shows-so-far-and-whats-coming-next)
  - RSS feed: 
@@ -1998,6 +3464,13 @@ The path to abortion rights runs through the Senate — and Republicans know it
 
 Supporters of Joe Biden have called on him to abandon the campaign after a "disastrous" TV debate against his opponent Donald Trump.
 
+## Your Boss Will Freeze Your Eggs Now
+ - [https://feedpress.me/link/20202/16729544/your-boss-will-freeze-your-eggs-now](https://feedpress.me/link/20202/16729544/your-boss-will-freeze-your-eggs-now)
+ - RSS feed: 
+ - date published: 2024-06-29T09:38:04+00:00
+
+Spring Fertility, a clinic in Midtown Manhattan, looks like the place where the main characters on “Broad City” would have
+
 ## No, the L.A. synagogue protest wasn't a "pogrom" — that's a gross misuse of history
  - [https://www.salon.com/2024/06/29/no-the-la-synagogue-wasnt-a-pogrom--thats-a-gross-misuse-of-history](https://www.salon.com/2024/06/29/no-the-la-synagogue-wasnt-a-pogrom--thats-a-gross-misuse-of-history)
  - RSS feed: 
@@ -2125,14 +3598,14 @@ Confront whatever's hiding in your carpets.
 Whether you need one for work or travel, there's an iPad just right for you.
 
 ## The surprising force behind a new Illinois law making sure child content creators get paid
- - [https://www.fastcompany.com/91147958/illinois-law-child-content-creator-pay-david-koehler-shreya-nallamothu-video-vlog-kid](https://www.fastcompany.com/91147958/illinois-law-child-content-creator-pay-david-koehler-shreya-nallamothu-video-vlog-kid)
+ - [https://www.fastcompany.com/91147958/illinois-law-child-labor-content-creator-pay-david-koehler-shreya-nallamothu-video-vlog](https://www.fastcompany.com/91147958/illinois-law-child-labor-content-creator-pay-david-koehler-shreya-nallamothu-video-vlog)
  - RSS feed: 
  - date published: 2024-06-29T09:00:00+00:00
 
 Thanks to an Illinois teen named Shreya Nallamothu and David Koehler, her state senator, child content creators now need to get paid
 
 ## The surprising force behind a new Illinois law making sure child content creators get paid
- - [https://www.fastcompany.com/91147958/illinois-law-child-labor-content-creator-pay-david-koehler-shreya-nallamothu-video-vlog](https://www.fastcompany.com/91147958/illinois-law-child-labor-content-creator-pay-david-koehler-shreya-nallamothu-video-vlog)
+ - [https://www.fastcompany.com/91147958/illinois-law-child-content-creator-pay-david-koehler-shreya-nallamothu-video-vlog-kid](https://www.fastcompany.com/91147958/illinois-law-child-content-creator-pay-david-koehler-shreya-nallamothu-video-vlog-kid)
  - RSS feed: 
  - date published: 2024-06-29T09:00:00+00:00
 
@@ -2670,6 +4143,13 @@ The New York Knicks are dominating headlines to start the NBA offseason. Jalen B
 
 Chris Vermeulen, a market strategist predicts there will be a significant correction in America's real estate market due to persistent high borrowing costs.
 
+## Real estate expert predicts huge changes in the housing market
+ - [https://feedpress.me/link/20202/16729518/article-13582129](https://feedpress.me/link/20202/16729518/article-13582129)
+ - RSS feed: 
+ - date published: 2024-06-29T02:19:25+00:00
+
+Chris Vermeulen, a market strategist predicts there will be a significant correction in America's real estate market due to persistent high borrowing costs.
+
 ## 'Wordle' today: Here's the answer hints for June 29
  - [https://mashable.com/article/wordle-today-answer-june-29-2024](https://mashable.com/article/wordle-today-answer-june-29-2024)
  - RSS feed: 
@@ -2768,6 +4248,13 @@ A Bunch of Programming Advice I'd Give to Myself 15 Years Ago | Hacker News
 
 A mean-reversion strategy with 26% annual returns (multiple instruments) | Hacker News
 
+## A New Atlantis | Hacker News
+ - [https://news.ycombinator.com/item?id=40832648](https://news.ycombinator.com/item?id=40832648)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+A New Atlantis | Hacker News
+
 ## A violent gang's ruthless crypto-stealing home invasion spree | Hacker News
  - [https://news.ycombinator.com/item?id=40829401](https://news.ycombinator.com/item?id=40829401)
  - RSS feed: 
@@ -2776,14 +4263,14 @@ A mean-reversion strategy with 26% annual returns (multiple instruments) | Hacke
 A violent gang's ruthless crypto-stealing home invasion spree | Hacker News
 
 ## Access to this page has been denied
- - [https://feedpress.me/link/20202/16729055/4747466-woodward-biden-debate-performance](https://feedpress.me/link/20202/16729055/4747466-woodward-biden-debate-performance)
+ - [https://feedpress.me/link/20202/16729046/4746804-biden-democrats-debate-trump](https://feedpress.me/link/20202/16729046/4746804-biden-democrats-debate-trump)
  - RSS feed: 
  - date published: 2024-06-29T00:00:00+00:00
 
 px-captcha
 
 ## Access to this page has been denied
- - [https://feedpress.me/link/20202/16729046/4746804-biden-democrats-debate-trump](https://feedpress.me/link/20202/16729046/4746804-biden-democrats-debate-trump)
+ - [https://feedpress.me/link/20202/16729055/4747466-woodward-biden-debate-performance](https://feedpress.me/link/20202/16729055/4747466-woodward-biden-debate-performance)
  - RSS feed: 
  - date published: 2024-06-29T00:00:00+00:00
 
@@ -2795,6 +4282,13 @@ px-captcha
  - date published: 2024-06-29T00:00:00+00:00
 
 All web "content" is freeware | Hacker News
+
+## All-AI Ad from Toys 'R' Us Inspires Debate over the Future of Marketing | Hacker News
+ - [https://news.ycombinator.com/item?id=40833441](https://news.ycombinator.com/item?id=40833441)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+All-AI Ad from Toys 'R' Us Inspires Debate over the Future of Marketing | Hacker News
 
 ## Amazon's Satellite Internet Service Delayed While Elon Musk's SpaceX Leads Space-Race | ZeroHedge
  - [https://www.zerohedge.com/technology/amazons-satellite-internet-service-delayed-while-elon-musks-spacex-leads-space-race](https://www.zerohedge.com/technology/amazons-satellite-internet-service-delayed-while-elon-musks-spacex-leads-space-race)
@@ -3048,6 +4542,13 @@ Controlling Warpage in Advanced Packages | Hacker News
 
 Seth Binzer -- the lead singer of Crazy Town -- was homeless in the months before his death Monday -- according to his friend and sober coach Tim Ryan ... who tells us he was helping Binzer on his sobriety journey in his last few years alive.
 
+## CVE-2021-4440: A Linux CNA Case Study | Hacker News
+ - [https://news.ycombinator.com/item?id=40833334](https://news.ycombinator.com/item?id=40833334)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+CVE-2021-4440: A Linux CNA Case Study | Hacker News
+
 ## Dam In East Texas On 'Potential Failure Watch' | ZeroHedge
  - [https://www.zerohedge.com/weather/dam-east-texas-potential-failure-watch](https://www.zerohedge.com/weather/dam-east-texas-potential-failure-watch)
  - RSS feed: 
@@ -3216,6 +4717,13 @@ Month-end June steals on iPads and the OWC Thunderbolt Hub are going on now, wit
 
 Possible UFO sightings have been popping up all over the U.S. of late – but now there's something different flashing across the dark sky.
 
+## Greco-Buddhist art - Wikipedia
+ - [https://en.wikipedia.org/wiki/Greco-Buddhist_art](https://en.wikipedia.org/wiki/Greco-Buddhist_art)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+Greco-Buddhist art - Wikipedia
+
 ## Guatemala asks LGBT pride marchers to have 'good manners' after bid to ban event
  - [https://www.reuters.com/world/americas/guatemala-asks-lgbt-pride-marchers-have-good-manners-after-bid-ban-event-2024-06-28](https://www.reuters.com/world/americas/guatemala-asks-lgbt-pride-marchers-have-good-manners-after-bid-ban-event-2024-06-28)
  - RSS feed: 
@@ -3250,6 +4758,13 @@ How I overcame my addiction to sugar | Hacker News
  - date published: 2024-06-29T00:00:00+00:00
 
 Jed Hoyer said the Cubs' struggles could lead to him subtracting from the roster instead of adding to it ahead of the July 30 trade deadline.
+
+## Htmx 2.0 Released | Hacker News
+ - [https://news.ycombinator.com/item?id=40833501](https://news.ycombinator.com/item?id=40833501)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+Htmx 2.0 Released | Hacker News
 
 ## I'm Terrified of Old People | Hacker News
  - [https://news.ycombinator.com/item?id=40828587](https://news.ycombinator.com/item?id=40828587)
@@ -3412,6 +4927,13 @@ MSN
 
 The New Orleans Pelicans' trade for Dejounte Murray sent fantasy basketball and betting shockwaves across the NBA.
 
+## My philosophy of exceptions: they're always ambiguous (2021) | Hacker News
+ - [https://news.ycombinator.com/item?id=40833743](https://news.ycombinator.com/item?id=40833743)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+My philosophy of exceptions: they're always ambiguous (2021) | Hacker News
+
 ## Nepal landslides kill nine, including 3 children
  - [https://www.reuters.com/world/asia-pacific/nepal-landslides-kill-nine-including-3-children-2024-06-29](https://www.reuters.com/world/asia-pacific/nepal-landslides-kill-nine-including-3-children-2024-06-29)
  - RSS feed: 
@@ -3454,6 +4976,13 @@ A senior official of the militant Islamist group Hamas, Osama Hamdan, said on Sa
 
 North Korea's state news agency said in a one-line dispatch on Sunday there was "important news" but did not provide details.
 
+## NuExtract: A LLM for Structured Extraction | Hacker News
+ - [https://news.ycombinator.com/item?id=40833610](https://news.ycombinator.com/item?id=40833610)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+NuExtract: A LLM for Structured Extraction | Hacker News
+
 ## Olney: How O's leverage Adley Rutschman's bat -- without overworking him
  - [https://www.espn.com/mlb/story/_/id/40456299/baltimore-orioles-catcher-adley-rutschman-workload](https://www.espn.com/mlb/story/_/id/40456299/baltimore-orioles-catcher-adley-rutschman-workload)
  - RSS feed: 
@@ -3488,6 +5017,13 @@ OpenLoco: Modern, open source version of the classic transport simulation game |
  - date published: 2024-06-29T00:00:00+00:00
 
 The San Francisco Giants announced Friday the death of Baseball Hall of Famer Orlando Cepeda. He was 86.
+
+## Overleaf: An open-source online real-time collaborative LaTeX editor | Hacker News
+ - [https://news.ycombinator.com/item?id=40832930](https://news.ycombinator.com/item?id=40832930)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+Overleaf: An open-source online real-time collaborative LaTeX editor | Hacker News
 
 ## Panama court acquits 28 people tied to Panama Papers, Operation Car Wash
  - [https://www.reuters.com/world/americas/panama-court-acquits-28-people-tied-panama-papers-operation-car-wash-2024-06-29](https://www.reuters.com/world/americas/panama-court-acquits-28-people-tied-panama-papers-operation-car-wash-2024-06-29)
@@ -3573,12 +5109,26 @@ Russian death camp: Three stories of Ukrainian prisoners | Hacker News
 
 The Buffalo Sabres are buying out veteran winger Jeff Skinner's contract with three years left on the deal, GM Kevyn Adams announced Saturday.
 
+## Samuel Tulach
+ - [https://tulach.cc](https://tulach.cc)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+Security researcher with a focus on x86 architecture, UEFI environment, early boot stages of Windows, and HyperV. Likes to mess around with games' anti-cheats and DRM.
+
 ## Security concerns rise over Paris Pride ahead of elections
  - [https://www.reuters.com/world/europe/security-concerns-rise-over-paris-pride-ahead-elections-2024-06-29](https://www.reuters.com/world/europe/security-concerns-rise-over-paris-pride-ahead-elections-2024-06-29)
  - RSS feed: 
  - date published: 2024-06-29T00:00:00+00:00
 
 The French interior ministry called for security reinforcement around LGBTQIA+ events ahead of elections, including Saturday’s Paris Pride, in a letter to police and local authorities sent on Friday.
+
+## Show HN: I am building an open-source Confluence and Notion alternative | Hacker News
+ - [https://news.ycombinator.com/item?id=40832146](https://news.ycombinator.com/item?id=40832146)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+Show HN: I am building an open-source Confluence and Notion alternative | Hacker News
 
 ## Show HN: Protect your links with a password | Hacker News
  - [https://news.ycombinator.com/item?id=40830996](https://news.ycombinator.com/item?id=40830996)
@@ -3650,6 +5200,13 @@ Heat vetran forward/center Kevin Love is declining his $4M player option, but th
 
 Free agent forward Royce O'Neale intends to sign a four-year, $44 million deal to return to the Suns, sources told ESPN.
 
+## Spurs rookie Castle 'excited' to team with Wemby
+ - [https://www.espn.com/nba/story/_/id/40461700/spurs-rookie-stephon-castle-excited-team-victor-wembanyama](https://www.espn.com/nba/story/_/id/40461700/spurs-rookie-stephon-castle-excited-team-victor-wembanyama)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+New Spurs guard Stephon Castle says he's already looking forward to throwing lobs to Victor Wembanyama and can't wait to get to play for coach Gregg Popovich.
+
 ## Star WR Aiyuk 'for sure' wants to stay with 49ers
  - [https://www.espn.com/nfl/story/_/id/40458040/brandon-aiyuk-sure-wants-stay-49ers-contract-stalemate](https://www.espn.com/nfl/story/_/id/40458040/brandon-aiyuk-sure-wants-stay-49ers-contract-stalemate)
  - RSS feed: 
@@ -3677,6 +5234,13 @@ Joe Biden is on the ropes after the disastrous debate, and poor Ariana Grande is
  - date published: 2024-06-29T00:00:00+00:00
 
 Study implying divorce more likely when wives fall ill gets axed (2015) | Hacker News
+
+## Swiss Broadcasting Corporation to pull plug on FM radio | Hacker News
+ - [https://news.ycombinator.com/item?id=40834012](https://news.ycombinator.com/item?id=40834012)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+Swiss Broadcasting Corporation to pull plug on FM radio | Hacker News
 
 ## Switzerland 2-0 Italy (Jun 29, 2024) Game Analysis - ESPN
  - [https://www.espn.com/soccer/report/_/gameId/703931](https://www.espn.com/soccer/report/_/gameId/703931)
@@ -3714,7 +5278,28 @@ On Friday, the opening night of the NHL draft was held at the $2.3 billion Spher
 The Antitrust Trial of the United States vs. Google, LLC | Hacker News
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/b992e57d-b3bd-4c2e-a25c-34148ab1325d](https://brutalist.report/bruticle/b992e57d-b3bd-4c2e-a25c-34148ab1325d)
+ - [https://brutalist.report/bruticle/3afc56fe-2a05-49cf-a5d8-ad8f3039df14](https://brutalist.report/bruticle/3afc56fe-2a05-49cf-a5d8-ad8f3039df14)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/d3c292b6-c585-4a8e-b140-105d07820794](https://brutalist.report/bruticle/d3c292b6-c585-4a8e-b140-105d07820794)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/2cec85eb-fc8a-4759-923c-224e0871c514](https://brutalist.report/bruticle/2cec85eb-fc8a-4759-923c-224e0871c514)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/017c3d7a-3694-4511-8128-4bae85d772ff](https://brutalist.report/bruticle/017c3d7a-3694-4511-8128-4bae85d772ff)
  - RSS feed: 
  - date published: 2024-06-29T00:00:00+00:00
 
@@ -3728,7 +5313,28 @@ The day's headlines delivered to you without bullshit. - about
 The day's headlines delivered to you without bullshit. - about
 
 ## The Brutalist Report - about
- - [https://brutalist.report/bruticle/017c3d7a-3694-4511-8128-4bae85d772ff](https://brutalist.report/bruticle/017c3d7a-3694-4511-8128-4bae85d772ff)
+ - [https://brutalist.report/bruticle/81e26eae-418d-41a2-9a18-5f113b7085ed](https://brutalist.report/bruticle/81e26eae-418d-41a2-9a18-5f113b7085ed)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/b992e57d-b3bd-4c2e-a25c-34148ab1325d](https://brutalist.report/bruticle/b992e57d-b3bd-4c2e-a25c-34148ab1325d)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/0935f31f-3065-4e5a-8579-0f424949261c](https://brutalist.report/bruticle/0935f31f-3065-4e5a-8579-0f424949261c)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+The day's headlines delivered to you without bullshit. - about
+
+## The Brutalist Report - about
+ - [https://brutalist.report/bruticle/b3efaabe-cd58-41ca-8d33-9976fd5d272a](https://brutalist.report/bruticle/b3efaabe-cd58-41ca-8d33-9976fd5d272a)
  - RSS feed: 
  - date published: 2024-06-29T00:00:00+00:00
 
@@ -3754,6 +5360,13 @@ The Flexipede Revisited | Hacker News
  - date published: 2024-06-29T00:00:00+00:00
 
 The Limited Value of Multivitamin Supplements | Hacker News
+
+## The Operational Wargame Series: The best game not in stores now (2021) | Hacker News
+ - [https://news.ycombinator.com/item?id=40833327](https://news.ycombinator.com/item?id=40833327)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+The Operational Wargame Series: The best game not in stores now (2021) | Hacker News
 
 ## The 'Pay Phone Bandit' Who Baffled the FBI in the '80s | Hacker News
  - [https://news.ycombinator.com/item?id=40827650](https://news.ycombinator.com/item?id=40827650)
@@ -3880,6 +5493,13 @@ Brazil coach Dorival Júnior hailed the display of Vinícius Júnior after the f
  - date published: 2024-06-29T00:00:00+00:00
 
 Vinícius Júnior criticised the Copa America's pitches, referees and organisers CONMEBOL after putting in a player-of-the-match performance in Brazil's 4-1 win over Paraguay on Friday.
+
+## We Launched the Largest Real-Time Global CO2 Map | Hacker News
+ - [https://news.ycombinator.com/item?id=40834059](https://news.ycombinator.com/item?id=40834059)
+ - RSS feed: 
+ - date published: 2024-06-29T00:00:00+00:00
+
+We Launched the Largest Real-Time Global CO2 Map | Hacker News
 
 ## What's The Big Frigin' Difference?!
  - [https://www.tmz.com/2024/06/29/whats-the-big-frigin-difference](https://www.tmz.com/2024/06/29/whats-the-big-frigin-difference)

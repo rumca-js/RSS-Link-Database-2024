@@ -1,5 +1,12 @@
 # Source:NYT > Top Stories, URL:https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, language:en-us
 
+## 13-Year-Old Boy Shot and Killed by Police After Chase
+ - [https://www.nytimes.com/2024/06/29/nyregion/utica-police-teen-shooting.html](https://www.nytimes.com/2024/06/29/nyregion/utica-police-teen-shooting.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-06-29T22:53:13+00:00
+
+Officers in Utica, N.Y., believed the boy had brandished a handgun. The police chief said on Saturday that it was a pellet gun.
+
 ## At Trump’s Post-Debate Rally, Unease Among the Faithful
  - [https://www.nytimes.com/2024/06/29/us/politics/trump-youngkin-virginia-rally.html](https://www.nytimes.com/2024/06/29/us/politics/trump-youngkin-virginia-rally.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
@@ -13,6 +20,13 @@ In Virginia, Donald Trump and his supporters reveled in the moment, and mused ab
  - date published: 2024-06-29T20:45:22+00:00
 
 The ruling by a federal judge is the latest setback for G.O.P.-controlled states that have passed their own laws on immigration.
+
+## “Hacks” Star Megan Stalter Found a Ring for Herself and Her Girlfriend
+ - [https://www.nytimes.com/2024/06/29/style/megan-stalter-scorpio-ring.html](https://www.nytimes.com/2024/06/29/style/megan-stalter-scorpio-ring.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-06-29T16:21:42+00:00
+
+The actress made sure that the ring, a style also owned by her girlfriend, became a part of her costume for her role in an upcoming show by Lena Dunham.
 
 ## Your Hologram Doctor Will See You Now
  - [https://www.nytimes.com/2024/06/29/health/texas-telehealth-hologram-doctor.html](https://www.nytimes.com/2024/06/29/health/texas-telehealth-hologram-doctor.html)
@@ -34,6 +48,13 @@ The president had a bad night, but the fundamentals of this race have not change
  - date published: 2024-06-29T11:00:36+00:00
 
 A second Biden term would be unusually dangerous for the country in a very significant way.
+
+## A Message From the West Bank: ‘We Are Coming to Horrible Days’
+ - [https://www.nytimes.com/2024/06/29/opinion/israel-gaza-west-bank.html](https://www.nytimes.com/2024/06/29/opinion/israel-gaza-west-bank.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-06-29T11:00:28+00:00
+
+With Israel possibly winding down its war in Gaza, we should be paying more attention to the crisis building in the more populous West Bank.
 
 ## The Ghastly vs. the Ghostly
  - [https://www.nytimes.com/2024/06/29/opinion/biden-debate-president-exit.html](https://www.nytimes.com/2024/06/29/opinion/biden-debate-president-exit.html)
@@ -111,6 +132,13 @@ By analyzing dog bones buried at the site, scientists found butcher marks and su
  - date published: 2024-06-29T09:00:59+00:00
 
 Los Angeles lifted restrictions that had forced street vendors, mostly immigrants, on Hollywood Boulevard to dodge citations. Other challenges remain.
+
+## Why the Egg Freezing Industry Is Booming
+ - [https://www.nytimes.com/2024/06/29/business/egg-freezing-fertility-benefits.html](https://www.nytimes.com/2024/06/29/business/egg-freezing-fertility-benefits.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+ - date published: 2024-06-29T09:00:34+00:00
+
+Mine is the first generation that has corporate benefits for a technology with the potential to slow the biological clock. Is it feminist dream or Silicon Valley fantasy?
 
 ## 7 Deaths, 5 Hours: Drug Overdoses Surge in Western New York
  - [https://www.nytimes.com/2024/06/29/nyregion/overdose-deaths-fentanyl-buffalo-erie-county.html](https://www.nytimes.com/2024/06/29/nyregion/overdose-deaths-fentanyl-buffalo-erie-county.html)

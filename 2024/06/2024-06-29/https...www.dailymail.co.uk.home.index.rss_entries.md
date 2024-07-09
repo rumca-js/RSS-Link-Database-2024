@@ -1,11 +1,88 @@
 # Source:Daily Mail - Home, URL:https://www.dailymail.co.uk/home/index.rss, language:en-gb
 
+## Netflix given more than £32 million tax break for making racy costume drama Bridgerton in Britain
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13584051/Netflix-given-32-million-tax-break-making-Bridgerton-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13584051/Netflix-given-32-million-tax-break-making-Bridgerton-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T23:53:19+00:00
+
+More than £160 million has been spent making Bridgerton since it went into production in 2018, meaning Netflix qualifies for a tax break called the audio-visual expenditure credit.
+
+## JUSTIN WEBB: Jill Biden, the woman who holds the world's future in her hands this weekend
+ - [https://www.dailymail.co.uk/debate/article-13583927/Jill-Biden-woman-holds-worlds-future-hands-weekend-writes-former-BBC-North-America-editor-Justin-Webb.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-13583927/Jill-Biden-woman-holds-worlds-future-hands-weekend-writes-former-BBC-North-America-editor-Justin-Webb.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T23:51:12+00:00
+
+JUSTIN WEBB: Joe Biden genuinely believes he is the only candidate who can beat Trump this year, even if half his party believe he is the only candidate who cannot.
+
+## CBBC stars at war over a spot on BBC's Strictly Come Dancing as two children's presenters battle it out for spot that could catapult their careers
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13584029/CBBC-BBC-Strictly-Come-Dancing-childrens-presenters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13584029/CBBC-BBC-Strictly-Come-Dancing-childrens-presenters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T23:49:58+00:00
+
+Strictly Come Dancing has sparked civil war at the BBC 's CBBC channel over who wins the chance to be in this year's series.
+
+## England's WAGs 'are so confident that the Three Lions will beat Slovakia that they have ALREADY booked private jets for the quarter-finals' of Euro 2024
+ - [https://www.dailymail.co.uk/sport/football/article-13583851/Englands-WAGs-confident-Three-Lions-beat-Slovakia-booked-private-jets-quarter-finals-Euro-2024.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/football/article-13583851/Englands-WAGs-confident-Three-Lions-beat-Slovakia-booked-private-jets-quarter-finals-Euro-2024.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T23:24:25+00:00
+
+As reported by The Sun , some of the WAGs are flying to Germany from Manchester and have chartered a plane to take them to the team hotel in Blankenhain on Tuesday.
+
+## Matthew Perry 'dated Charlie Sheen's ex-wife Brooke Mueller' - who was questioned 'multiple times' by cops in connection to his ketamine overdose
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13583611/Charlie-Sheen-Brooke-Mueller-romantically-involved-Matthew-Perry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13583611/Charlie-Sheen-Brooke-Mueller-romantically-involved-Matthew-Perry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T23:23:52+00:00
+
+Allegations surfaced this week that Mueller was interviewed 'multiple times' by the LAPD in relation to Perry's death last year of 'acute effects of ketamine.' She was never arrested or handcuffed.
+
+## MAIL ON SUNDAY COMMENT: The battle's not over yet...so don't let the pollsters manipulate you into voting for years of hard Labour
+ - [https://www.dailymail.co.uk/debate/article-13583983/Labour-Conservative-poll-manipulate-voting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-13583983/Labour-Conservative-poll-manipulate-voting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T23:01:47+00:00
+
+MAIL ON SUNDAY COMMENT: First of all, please do not forget that the election has not yet taken place. There is everything still to play for.
+
+## Lady Louise Windsor competes in her first ever Sandringham Horse Driving Trials with the 20-year-old royal receiving some moral support from a university friend
+ - [https://www.dailymail.co.uk/news/royals/article-13583995/Lady-Louise-Windsor-competes-Sandringham-Horse-Driving-Trials-20-year-old-royal-support-university-friend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/royals/article-13583995/Lady-Louise-Windsor-competes-Sandringham-Horse-Driving-Trials-20-year-old-royal-support-university-friend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T23:00:43+00:00
+
+Lady Louise Windsor, 20, competed for the first time in the Sandringham Horse Driving Trials in Norfolk on Friday and was supported by a university friend, Felix da Silva-Clamp.
+
+## EMILY PRESCOTT: Lady Lola masters the look of love as she shares a cheeky grin with Dutch model boyfriend Parker Van Noord
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13583971/EMILY-PRESCOTT-Lady-Lola-masters-look-love-shares-cheeky-grin-Dutch-model-boyfriend-Parker-Van-Noord.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13583971/EMILY-PRESCOTT-Lady-Lola-masters-look-love-shares-cheeky-grin-Dutch-model-boyfriend-Parker-Van-Noord.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T22:57:39+00:00
+
+The aristocratic beauty seemed far more interested in her Dutch model boyfriend Parker Van Noord yesterday than any of the global stars performing on stage at Glastonbury.
+
+## Novak Djokovic insists he can win an eighth Wimbledon title as knee injury rehab has given him 'enough optimism to compete on the highest level' - while Andy Murray admits he's 'willing' to risk playing in his SW19 swansong
+ - [https://www.dailymail.co.uk/sport/tennis/article-13583801/Novak-Djokovic-insists-win-eighth-Wimbledon-title-knee-injury-rehab-given-optimism-compete-highest-level-Andy-Murray-admits-hes-willing-risk-playing-SW19-swansong.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/tennis/article-13583801/Novak-Djokovic-insists-win-eighth-Wimbledon-title-knee-injury-rehab-given-optimism-compete-highest-level-Andy-Murray-admits-hes-willing-risk-playing-SW19-swansong.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T22:47:43+00:00
+
+KIERAN GILL AND MATTHEW LAMBERT AT WIMBLEDON: Djokovic insists he is at Wimbledon to win his eighth title - not merely make up the numbers so soon after a knee surgery
+
 ## Coldplay takeover Glastonbury! Viewers stunned by the festival's 'biggest ever' crowd as Tom Cruise leads the stars watching band's record-breaking fifth headline set
  - [https://www.dailymail.co.uk/tvshowbiz/article-13583833/Coldplay-Glastonbury-festival-chris-martin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13583833/Coldplay-Glastonbury-festival-chris-martin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/home/index.rss
  - date published: 2024-06-29T22:27:48+00:00
 
 The British band, fronted by Chris Martin, made their debut at the iconic festival in the New Bands Tent in 1999, before headlining in 2002, 2005, 2011, and 2016.
+
+## IAN LADYMAN: He's had beers and barbs thrown his way, but Gareth Southgate is ready to bring back the joy at Euro 2024!
+ - [https://www.dailymail.co.uk/sport/football/article-13583655/beers-Gareth-Southgate-Euro-2024-joy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/football/article-13583655/beers-Gareth-Southgate-Euro-2024-joy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T22:25:26+00:00
+
+IAN LADYMAN: These last few days in Blankenheim have seen England manager Gareth Southgate turn the dial down a little bit. Golf, cricket, cycling, anything to take minds away.
+
+## Greatest Hits Radio presenter Ken Bruce refuses to play Taylor Swift songs on his show until 'she writes something that isn't about her ex-boyfriends'
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13583931/Greatest-Hits-Radio-presenter-Ken-Bruce-refuses-play-Taylor-Swift-songs-writes-isnt-ex-boyfriends.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13583931/Greatest-Hits-Radio-presenter-Ken-Bruce-refuses-play-Taylor-Swift-songs-writes-isnt-ex-boyfriends.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T22:19:11+00:00
+
+The 73-year-old broadcaster said that Ms Swift's songs had intros that were too long for radio, adding that her music was too young for his 'older' core audience.
 
 ## Sky Sports F1 legend Martin Brundle's marriage is 'in crisis' with wife of 40 years: Grid walk interviewer 'spends time apart' from childhood sweetheart
  - [https://www.dailymail.co.uk/sport/formulaone/article-13583841/Sky-Sports-F1-Martin-Brundle-marriage-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/formulaone/article-13583841/Sky-Sports-F1-Martin-Brundle-marriage-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -20,6 +97,20 @@ Legendary Formula One interviewer Martin Brundle is facing a marriage crisis, wi
  - date published: 2024-06-29T21:35:54+00:00
 
 Sir Keir Starmer and Angela Rayner can wax lyrical all they like about the virtues of giving children the right to vote, but we all know the game they're playing.
+
+## Andy Murray's a warrior - he'll make it to Wimbledon, says former British No1 JOHN LLOYD... and Britain's greatest-ever sportsman deserves an epic SW19 send-off
+ - [https://www.dailymail.co.uk/sport/tennis/article-13583757/Andy-Murray-warrior-make-Wimbledon-former-British-No1-JOHN-LLOYD-greatest-sportsman-send-off.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/tennis/article-13583757/Andy-Murray-warrior-make-Wimbledon-former-British-No1-JOHN-LLOYD-greatest-sportsman-send-off.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T21:31:08+00:00
+
+Mail on Sunday columnist - and former British No1 - JOHN LLOYD was courtside as Andy Murray appeared in public for the first time since surgery to remove a cyst from his spine...
+
+## Revealed: The horror story of Danish footballer who lost his leg in an on-field lightning strike, which explains why Denmark stars - who know and worked with him - wanted to stop play
+ - [https://www.dailymail.co.uk/sport/football/article-13583755/The-horror-story-Danish-footballer-lost-leg-field-lightning-strike-explains-Denmark-stars-know-worked-wanted-stop-play.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/football/article-13583755/The-horror-story-Danish-footballer-lost-leg-field-lightning-strike-explains-Denmark-stars-know-worked-wanted-stop-play.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T21:31:04+00:00
+
+Germany's Euro 2024 last-16 clash with Denmark was temporarily suspended due to lightning above the stadium in Borussia Dortmund, with Danish players keen to leave the pitch.
 
 ## Dua Lipa hits back at miming claims after fans accuse her of lip-syncing songs during headline Glastonbury set
  - [https://www.dailymail.co.uk/tvshowbiz/article-13583725/Dua-Lipa-hits-miming-claims-fans-accuse-lip-syncing-songs-headline-Glastonbury-set.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13583725/Dua-Lipa-hits-miming-claims-fans-accuse-lip-syncing-songs-headline-Glastonbury-set.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -55,6 +146,13 @@ The singer, 40, took to his Instagram on Saturday to share some wholesome family
  - date published: 2024-06-29T21:05:50+00:00
 
 Just a few days ago, Rishi Sunak warned that illegal migrants were 'queuing up' in Calais waiting for a soft-touch Starmer government so that they can come to the UK and stay here.
+
+## Watch as MMA fighter's head is SPLIT OPEN by brutal knee from opponent... who claims he could see rival's BRAIN sticking out
+ - [https://www.dailymail.co.uk/sport/mma/article-13583695/mma-pfl-justin-gonzales-injury-brendan-loughnane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/mma/article-13583695/mma-pfl-justin-gonzales-injury-brendan-loughnane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-06-29T21:01:15+00:00
+
+American featherweight Justin Gonzales was taking on Britain's Brendan Loughnane at PFL 6 in South Dakota when he suffered the sickening injury to his forehead.
 
 ## Karen Hauer says she will 'miss' co-star Giovanni Pernice and his Strictly Come Dancing misconduct probe is a 'massive surprise'
  - [https://www.dailymail.co.uk/tvshowbiz/article-13583659/Karen-Hauer-says-miss-Strictly-Giovanni-Pernice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13583659/Karen-Hauer-says-miss-Strictly-Giovanni-Pernice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

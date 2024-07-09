@@ -1,5 +1,40 @@
 # Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
 
+## Lt.-Gen. Jennie Carignan to become first woman to lead Canadian Armed Forces
+ - [https://www.reddit.com/r/worldnews/comments/1drof4u/ltgen_jennie_carignan_to_become_first_woman_to](https://www.reddit.com/r/worldnews/comments/1drof4u/ltgen_jennie_carignan_to_become_first_woman_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-29T23:49:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1drof4u/ltgen_jennie_carignan_to_become_first_woman_to/"> <img alt="Lt.-Gen. Jennie Carignan to become first woman to lead Canadian Armed Forces" src="https://external-preview.redd.it/op25X6cEmoUTaqrmDkD9ifdMQyyiqBWDAlJBfIuSLx4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd61eac69366e9a1e23269ac00ab3618e743fa1f" title="Lt.-Gen. Jennie Carignan to become first woman to lead Canadian Armed Forces" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yimmy51"> /u/yimmy51 </a> <br /> <span><a href="https://www.ctvnews.ca/politics/lt-gen-jennie-carignan-to-become-first-woman-to-lead-canadian-armed-forces-1.6945989">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1drof4u/ltgen_jennie_carignan_to_become_first_woman_to/">[comments]</a></span> </td></tr></table>
+
+## North Korea executed man for distributing K-pop, report from defectors shows
+ - [https://www.reddit.com/r/worldnews/comments/1dro0t5/north_korea_executed_man_for_distributing_kpop](https://www.reddit.com/r/worldnews/comments/1dro0t5/north_korea_executed_man_for_distributing_kpop)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-29T23:29:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1dro0t5/north_korea_executed_man_for_distributing_kpop/"> <img alt="North Korea executed man for distributing K-pop, report from defectors shows" src="https://external-preview.redd.it/L2hLmvrgusgcLGnpLFC16fhUPsDaaUp_7Q_qGoXy4mU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0701b554a5d767ffdcf043cde5f151830887c61a" title="North Korea executed man for distributing K-pop, report from defectors shows" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/warnio12"> /u/warnio12 </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/jun/28/north-korea-execution-man-k-pop-human-rights-report">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1dro0t5/north_korea_executed_man_for_distributing_kpop/">[comments]</a></span> </td></tr></table>
+
+## Canadian airline WestJet cancels at least 235 flights following a surprise strike by mechanics union
+ - [https://www.reddit.com/r/worldnews/comments/1drn3g0/canadian_airline_westjet_cancels_at_least_235](https://www.reddit.com/r/worldnews/comments/1drn3g0/canadian_airline_westjet_cancels_at_least_235)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-29T22:44:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1drn3g0/canadian_airline_westjet_cancels_at_least_235/"> <img alt="Canadian airline WestJet cancels at least 235 flights following a surprise strike by mechanics union" src="https://external-preview.redd.it/SU1eLIqFowTDnQbyvFusjqqvKkjbkLOxizo6bIbc2O4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bba6da61b6c79b2c11a108d7944ed5459d968349" title="Canadian airline WestJet cancels at least 235 flights following a surprise strike by mechanics union" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yimmy51"> /u/yimmy51 </a> <br /> <span><a href="https://abcnews.go.com/International/wireStory/canadian-airline-westjet-cancels-150-flights-surprise-strike-111541531">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1drn3g0/canadian_airline_westjet_cancels_at_least_235/">[comments]</a></span> </td></tr></table>
+
+## US Army armor rumbles into new NATO storage facility in Poland | Stars and Stripes
+ - [https://www.reddit.com/r/worldnews/comments/1drmyof/us_army_armor_rumbles_into_new_nato_storage](https://www.reddit.com/r/worldnews/comments/1drmyof/us_army_armor_rumbles_into_new_nato_storage)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-29T22:37:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1drmyof/us_army_armor_rumbles_into_new_nato_storage/"> <img alt="US Army armor rumbles into new NATO storage facility in Poland | Stars and Stripes" src="https://external-preview.redd.it/T1oIqt6M--6BYVUqq3CJEQRf6bILJa6k6UR3NxC4jVk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=672bad95c3dd7eb35b8eaedad82561812b21ed4f" title="US Army armor rumbles into new NATO storage facility in Poland | Stars and Stripes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cujo22"> /u/Cujo22 </a> <br /> <span><a href="https://www.stripes.com/theaters/europe/2024-06-28/american-army-tanks-weapons-poland-14325181.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1drmyof/us_army_armor_rumbles_into_new_nato_storage/">[comments]</a></span> </td></tr></table>
+
+## North Korea's state media says there is an 'important report', does not give details
+ - [https://www.reddit.com/r/worldnews/comments/1drmc44/north_koreas_state_media_says_there_is_an](https://www.reddit.com/r/worldnews/comments/1drmc44/north_koreas_state_media_says_there_is_an)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-29T22:07:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1drmc44/north_koreas_state_media_says_there_is_an/"> <img alt="North Korea's state media says there is an 'important report', does not give details" src="https://external-preview.redd.it/1Tg1mgZ8fVzQERGzOWjSR-9-JEY1wyZoAZoDAIh-U48.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eacc2df1fe9befc502885d2b9930dbfd716a6268" title="North Korea's state media says there is an 'important report', does not give details" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/obaming16"> /u/obaming16 </a> <br /> <span><a href="https://www.reuters.com/world/asia-pacific/north-koreas-state-media-says-there-is-an-important-report-does-not-give-details-2024-06-29/?taid=668083ebc900c30001529762&amp;utm_campaign=trueAnthem:+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1drmc44/north_koreas_state_media_says
+
 ## Sri Lanka fishermen die after drinking from bottles found in sea
  - [https://www.reddit.com/r/worldnews/comments/1drlx16/sri_lanka_fishermen_die_after_drinking_from](https://www.reddit.com/r/worldnews/comments/1drlx16/sri_lanka_fishermen_die_after_drinking_from)
  - RSS feed: https://www.reddit.com/r/worldnews/.rss
@@ -13,6 +48,13 @@
  - date published: 2024-06-29T21:43:00+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1drltun/rworldnews_live_thread_for_israelhamas_war_thread/"> <img alt="/r/WorldNews Live Thread for Israel-Hamas War (Thread #56)" src="https://a.thumbs.redditmedia.com/Mp0Gx_HomhJWx5C7CqRbB60Ywgza6uqzNaRuHwatBz4.jpg" title="/r/WorldNews Live Thread for Israel-Hamas War (Thread #56)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br /> <span><a href="https://www.reddit.com/live/1bsso361afr0r">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1drltun/rworldnews_live_thread_for_israelhamas_war_thread/">[comments]</a></span> </td></tr></table>
+
+## China calls on scientists of all nations to study lunar samples, but notes obstacle with the US
+ - [https://www.reddit.com/r/worldnews/comments/1drkovz/china_calls_on_scientists_of_all_nations_to_study](https://www.reddit.com/r/worldnews/comments/1drkovz/china_calls_on_scientists_of_all_nations_to_study)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-29T20:49:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1drkovz/china_calls_on_scientists_of_all_nations_to_study/"> <img alt="China calls on scientists of all nations to study lunar samples, but notes obstacle with the US" src="https://external-preview.redd.it/ALfgFrXo812w62ChWoV_AezT16fSEkwtrowNqNnVrxM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22d3e937aaa8332ca080d74b6e934ea07beacc6b" title="China calls on scientists of all nations to study lunar samples, but notes obstacle with the US" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FireLychee"> /u/FireLychee </a> <br /> <span><a href="https://apnews.com/article/china-change-6-moon-samples-probe-nasa-c8aa729d0e026349231a05914f9f69f4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1drkovz/china_calls_on_scientists_of_all_nations_to_study/">[comments]</a></span> </td></tr></table>
 
 ## Panama acquits all defendants in Panama Papers lawsuit- claiming evidence of tax evasion was insufficiently documented to prove corrupt intent
  - [https://www.reddit.com/r/worldnews/comments/1drk0z5/panama_acquits_all_defendants_in_panama_papers](https://www.reddit.com/r/worldnews/comments/1drk0z5/panama_acquits_all_defendants_in_panama_papers)
@@ -48,6 +90,13 @@
  - date published: 2024-06-29T18:20:26+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1drhgnz/un_official_admits_lack_of_data_indicating_famine/"> <img alt="UN official admits lack of data indicating famine in Gaza famine " src="https://external-preview.redd.it/7UdQeR0ydYdX1tfhLcDCVcMu_yVPFRM2YKcW_HfHOq0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7f0b6c86287202431b7dbb9a958660ae6b4bf40" title="UN official admits lack of data indicating famine in Gaza famine " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br /> <span><a href="https://www.jns.org/un-official-admits-lack-of-data-indicating-famine-in-gaza-famine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1drhgnz/un_official_admits_lack_of_data_indicating_famine/">[comments]</a></span> </td></tr></table>
+
+## ‘Disbelief’ as US-UK trade deals under threat after Britain axes negotiators
+ - [https://www.reddit.com/r/worldnews/comments/1drgot0/disbelief_as_usuk_trade_deals_under_threat_after](https://www.reddit.com/r/worldnews/comments/1drgot0/disbelief_as_usuk_trade_deals_under_threat_after)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-06-29T17:44:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1drgot0/disbelief_as_usuk_trade_deals_under_threat_after/"> <img alt="‘Disbelief’ as US-UK trade deals under threat after Britain axes negotiators" src="https://external-preview.redd.it/j5iN3GfUqJy3cE5-txte7PlhxTOFFKpQVWrkyjC1BgU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42bc0664eaae3c19cb129f22d601aa490c437c2a" title="‘Disbelief’ as US-UK trade deals under threat after Britain axes negotiators" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Machiavelcro_"> /u/Machiavelcro_ </a> <br /> <span><a href="https://www.theguardian.com/politics/article/2024/jun/29/disbelief-as-us-uk-trade-deals-under-threat-after-britain-axes-negotiators">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1drgot0/disbelief_as_usuk_trade_deals_under_threat_after/">[comments]</a></span> </td></tr></table>
 
 ## Japan protests sex assault cases involving US military on Okinawa and their delayed disclosure
  - [https://www.reddit.com/r/worldnews/comments/1drgo7n/japan_protests_sex_assault_cases_involving_us](https://www.reddit.com/r/worldnews/comments/1drgo7n/japan_protests_sex_assault_cases_involving_us)

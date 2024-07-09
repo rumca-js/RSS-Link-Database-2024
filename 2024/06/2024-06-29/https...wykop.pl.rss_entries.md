@@ -1,5 +1,54 @@
 # Source:Wykop, URL:https://wykop.pl/rss, language:pl-PL
 
+## Coś jest nie tak z żywnością w Ameryce
+ - [https://wykop.pl/link/7478369/cos-jest-nie-tak-z-zywnoscia-w-ameryce](https://wykop.pl/link/7478369/cos-jest-nie-tak-z-zywnoscia-w-ameryce)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T22:48:38+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/69b6be294adc6579c8f2300e34c448c2ba943866797f8d9ffea200e9950dc492,w104h74.jpg" /><br /> Podstawowy angielski wymagany
+
+## Wywiad z migrantem
+ - [https://wykop.pl/link/7478363/wywiad-z-migrantem](https://wykop.pl/link/7478363/wywiad-z-migrantem)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T21:42:20+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/13b9048983ae80382c3b4b9ce3e3e1bf0141f22e949bd818b93b00e066d5d23f,w104h74.jpg" /><br /> Rozmowa przez płot. Trzymajcie się chłopaki strzegący naszych granic!
+
+## Dlaczego atom powinien stać się motorem rozwoju Polski?
+ - [https://wykop.pl/link/7478349/dlaczego-atom-powinien-stac-sie-motorem-rozwoju-polski](https://wykop.pl/link/7478349/dlaczego-atom-powinien-stac-sie-motorem-rozwoju-polski)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T20:15:35+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/13375eab5de803cfc9916ec7244a2400dcff923fe84cb7f81282ba18a16d5749,w104h74.jpg" /><br /> Nowy odcinek Good Times Bad Times
+
+## Odrzucenie odwołania do moderacji. Powód odrzucenia: "rejected" xD
+ - [https://wykop.pl/link/7478343/odrzucenie-odwolania-do-moderacji-powod-odrzucenia-rejected-xd](https://wykop.pl/link/7478343/odrzucenie-odwolania-do-moderacji-powod-odrzucenia-rejected-xd)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T19:53:46+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/eb175e465369551ec41061f48b26fa5050cc68eebffdb6e0f01274c82875b09a.png" /><br /> W artykule: https://wykop.pl/link/7477791/0a0f5e5316671212577141bcf2f7db43/komentarz/125016001/swastyka-wydaje-sie-bardzo-dobrze-komponowac-z-teczowa-flaga-znakomity-pomysl-uswiadomic-ludzi-ze-te-dwie-ideologie-sa-sobie-bliskie napisałem coś w stylu, że "swastyka dobrze komponuje się z tęczową
+
+## Pierwsza taka sytuacja. Na budynku Urzędu Miasta Poznania zawisły tęczowe flagi
+ - [https://wykop.pl/link/7478341/pierwsza-taka-sytuacja-na-budynku-urzedu-miasta-poznania-zawisly-teczowe-flagi](https://wykop.pl/link/7478341/pierwsza-taka-sytuacja-na-budynku-urzedu-miasta-poznania-zawisly-teczowe-flagi)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T19:45:44+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/ab22cf32a7b8ded70963801fe3954cd6fb3c7ba45b620f799aae3aa94e44099a,w104h74.jpg" /><br /> W kraju w którym o flagę i symbole narodowe walczono do krwi pokoleniami, nie setki tysięcy a wręcz miliony żyć znieważonych dziś obwieszaniem obcych flag w imię dosłownie jedynie ślepego podążania za chwilową modą z USA. Obrzydliwe.
+
+## Depresja Mężczyzn: Wyzwanie dla Ruchu MGTOW
+ - [https://wykop.pl/link/7478333/depresja-mezczyzn-wyzwanie-dla-ruchu-mgtow](https://wykop.pl/link/7478333/depresja-mezczyzn-wyzwanie-dla-ruchu-mgtow)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T19:07:16+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/4edd991c8f7a11c420a348e46d0c1cf67f99d4dd5b2060721c5082d4856dfeec,w104h74.jpg" /><br /> W dzisiejszym społeczeństwie depresja mężczyzn jest często ignorowana i bagatelizowana. Artykuł ten eksploruje, jak ruch MGTOW może rzutować na zdrowie psychiczne mężczyzn, oferując kontekst i wsparcie w walce z tym trudnym problemem.
+
+## "Antyczny" Jak-52 nadal skutecznie zwalcza rosyjskie drony
+ - [https://wykop.pl/link/7478319/antyczny-jak-52-nadal-skutecznie-zwalcza-rosyjskie-drony](https://wykop.pl/link/7478319/antyczny-jak-52-nadal-skutecznie-zwalcza-rosyjskie-drony)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T18:40:49+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/b86f68ef40873d3dbcfd51bb19039c8ccf417ec1ed83182d6675f41a61a84d49.png" /><br /> Ukraińcy cały czas używają tłokowego Jak-52 do zwalczania rosyjskich dronów zwiadowczych latających nad południową Ukrainą. Maszyna ma mieć już ponad 10 skutecznych przechwyceń na swoim koncie.
+
 ## Europa jest skazana na upadek przemysłu?
  - [https://wykop.pl/link/7478309/europa-jest-skazana-na-upadek-przemyslu](https://wykop.pl/link/7478309/europa-jest-skazana-na-upadek-przemyslu)
  - RSS feed: https://wykop.pl/rss
@@ -14,12 +63,40 @@
 
 <img src="https://wykop.pl/cdn/c3397993/0269256fd79b564f4068d8bc8b05dbf9c489f8e378618f2e6b6147093c1713fc,w104h74.jpg" /><br /> Takich słów w wywiadzie dla Telewizji Wałbrzych użył Mateusz Mykytyszyn rzecznik prasowy Zamku Książ w Wałbrzychu. Nie pozwólmy by w naszym kraju od osób mających polskie obywatelstwo padały takie słowa. Podaję adres mailowy do Urzędu Miasta Wałbrzycha. Piszcie tam co chcecie um@walbrzych.eu
 
+## Drogi jak PKP - 155zł za 21km.
+ - [https://wykop.pl/link/7478297/drogi-jak-pkp-155zl-za-21km](https://wykop.pl/link/7478297/drogi-jak-pkp-155zl-za-21km)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T17:41:24+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/a2da418dc1eb8c914407c7a99eb4ff088b6792032c603c2456ddcf1c3434854b,w104h74.jpg" /><br /> Być może jest to najdroższe połączenie w Polsce w przeliczeniu na km. Rzepin i Frankfurt nad Odrą dzielą 21km. Podróż trwa 19minut. Cena wynosi 155zł. Tylko 14 razy drożej niż autem i 19zł więcej niż Taksówką.
+
+## Pomysł Rosjan: Szturm motocyklem
+ - [https://wykop.pl/link/7478293/pomysl-rosjan-szturm-motocyklem](https://wykop.pl/link/7478293/pomysl-rosjan-szturm-motocyklem)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T17:39:09+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/e873ae26619691e7b468a557e4d17aaaa01322f1619e93cfeeff9bd8f4c297c5,w104h74.jpg" /><br /> W obliczu strat w pojazdach opancerzonych i coraz większych trudności z uzupełnianiem uszkodzonego sprzętu, Rosjanie zdecydowali się na podwojenie liczby szturmowych motocykli wysyłanych w bój. Pomysł jest kreatywny, ale ma jedną wadę - nie sprawdza się.
+
+## 13-latek utonął w przydomowym basenie
+ - [https://wykop.pl/link/7478287/13-latek-utonal-w-przydomowym-basenie](https://wykop.pl/link/7478287/13-latek-utonal-w-przydomowym-basenie)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T17:27:27+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/b909a3c1ef99f9e7a9a3b1443a3fc9d6ba9db12de97aae0660f8348220f13505,w104h74.jpg" /><br /> "Około godziny 12:30 otrzymaliśmy zawiadomienie, że w przydomowym basenie na terenie Gminy Urzędów topi się chłopiec" - czytamy w komunikacie wystosowanym przez Komendę Powiatową Policji w Kraśniku. Pomimo reanimacji, nie udało się uratować życia nastolatka.
+
 ## Tony masła z Ukrainy zatrzymane na granicy
  - [https://wykop.pl/link/7478283/tony-masla-z-ukrainy-zatrzymane-na-granicy](https://wykop.pl/link/7478283/tony-masla-z-ukrainy-zatrzymane-na-granicy)
  - RSS feed: https://wykop.pl/rss
  - date published: 2024-06-29T17:18:09+00:00
 
 <img src="https://wykop.pl/cdn/c3397993/2514672d251a0cf31c845ec1c5dc11aeba3752806d620d834f3fd3613f207c6e,w104h74.jpg" /><br /> Chodzi dokładnie o blisko 8 ton. Jak wykazały badania, miało ono zaniżoną zawartość tłuszczu. Decyzją inspektorów masło zostało cofnięte do producenta.
+
+## Dania ukarana za lot samolotem podczas Euro 2024 w Niemczech
+ - [https://wykop.pl/link/7478273/dania-ukarana-za-lot-samolotem-podczas-euro-2024-w-niemczech](https://wykop.pl/link/7478273/dania-ukarana-za-lot-samolotem-podczas-euro-2024-w-niemczech)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T17:00:37+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/9f87b5e6d8147745ee3c7b289ae985dae3f88fc05ad57a7c388f7e2d917054e7,w104h74.jpg" /><br /> Dania nie posłuchała ekorekomendacji i zamiast wybrać 7h jazdy autokarem albo pociąg z kilkoma przesiadkami zdecydowała się na samolot więc dostała karę
 
 ## Chiny są odpowiedzialne za 95% mocy planowanych nowych bloków węglowych świata
  - [https://wykop.pl/link/7478267/chiny-sa-odpowiedzialne-za-95-mocy-planowanych-nowych-blokow-weglowych-swiata](https://wykop.pl/link/7478267/chiny-sa-odpowiedzialne-za-95-mocy-planowanych-nowych-blokow-weglowych-swiata)
@@ -28,12 +105,40 @@
 
 <img src="https://wykop.pl/cdn/c3397993/b51c71a1f2b3908542ce960336d2be98b20f886add539279b32efa070e4d927f.png" /><br /> In China, 47.4GW of coal power capacity came online in 2023, GEM says. This increase accounted for two-thirds of the global rise in operating coal power capacity, which climbed 2% to 2,130GW.
 
+## Ponad 700 żołnierzy na granicy białoruskiej. Są atakowani, czym tylko się da
+ - [https://wykop.pl/link/7478259/ponad-700-zolnierzy-na-granicy-bialoruskiej-sa-atakowani-czym-tylko-sie-da](https://wykop.pl/link/7478259/ponad-700-zolnierzy-na-granicy-bialoruskiej-sa-atakowani-czym-tylko-sie-da)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T16:29:47+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/284f5ee72505e60726485f794cde80dd2f5d7a5f557c210da6d7d975d8cb5ff6,w104h74.jpg" /><br /> - Techniki i próby przekraczania granicy przez migrantów są różne, coraz bardziej wyszukane. Musimy się do tego dostosować - powiedział w Polskim Radiu 24 dowódca WOT, gen. brygady dr Krzysztof Stańczyk. Tymczasem służby alarmują, że ataki na polskie służby stały się codziennością.
+
+## Hodowla kurczaków z mobilnymi kurnikami
+ - [https://wykop.pl/link/7478247/hodowla-kurczakow-z-mobilnymi-kurnikami](https://wykop.pl/link/7478247/hodowla-kurczakow-z-mobilnymi-kurnikami)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T16:03:03+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/0f701c15c34b36b3ddbab5e27eb634227ab79a97987d36480c9cfb297f0a1c9a,w104h74.jpg" /><br /> Tomek spod Wrocławia prowadzi z całą rodziną hodowlę drobiu. Jako jeden z niewielu hodowców w Polsce buduje i wykorzystuje mobilne kurniki, dzięki którym ptaki codziennie mają dostęp do świeżej trawy. Tu wszystko dzieje się wolniej, a ptaki żyją nawet 16 tygodni. Żywią się ekologiczną paszą, trawami
+
 ## Odklejenie lewicy c.d. pizza ma być dowożona w szkle
  - [https://wykop.pl/link/7478235/odklejenie-lewicy-c-d-pizza-ma-byc-dowozona-w-szkle](https://wykop.pl/link/7478235/odklejenie-lewicy-c-d-pizza-ma-byc-dowozona-w-szkle)
  - RSS feed: https://wykop.pl/rss
  - date published: 2024-06-29T15:43:14+00:00
 
 to są prawdziwe problemy naszego kraju!
+
+## Gdańsk. Skontrolowano ponad 200 Uberów i Boltów.
+ - [https://wykop.pl/link/7478233/gdansk-skontrolowano-ponad-200-uberow-i-boltow](https://wykop.pl/link/7478233/gdansk-skontrolowano-ponad-200-uberow-i-boltow)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T15:35:59+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/6e94623299af1ab2bf9e9285942694959d6bc219db632642e60c3062c9208929,w104h74.jpg" /><br /> Kierowca z aplikacji widząc kontrolę na lotnisku zostwił mnie przed bramkami w samochodzie i uciekł poszło w pole....
+
+## Heroes III w stylu PRL
+ - [https://wykop.pl/link/7478231/heroes-iii-w-stylu-prl](https://wykop.pl/link/7478231/heroes-iii-w-stylu-prl)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T15:23:27+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/fca1d1b785b2684a3145b252012286d783d72e6ee643d49bd83663eb464c28d4,w104h74.jpg" /><br /> Heroes of Might and Magic III ale to polskie kino z 1953 PRL
 
 ## Presja ma sens. Muzeum II Wojny Światowej zmienia zdanie ws. polskich bohaterów
  - [https://wykop.pl/link/7478217/presja-ma-sens-muzeum-ii-wojny-swiatowej-zmienia-zdanie-ws-polskich-bohaterow](https://wykop.pl/link/7478217/presja-ma-sens-muzeum-ii-wojny-swiatowej-zmienia-zdanie-ws-polskich-bohaterow)
@@ -56,6 +161,13 @@ to są prawdziwe problemy naszego kraju!
 
 <img src="https://wykop.pl/cdn/c3397993/5275149033870587be12d2da85a93145b0759dcbdd58e76204462b1c5a4f069a,w104h74.jpg" /><br /> Komendant Wojewódzki Policji w Poznaniu wyznaczył nagrodę w wysokości 5 tys. zł za pomoc w ustaleniu pojazdu i kierowcy, który brał udział w wypadku drogowym 24 stycznia w Cielczy koło Jarocina. Na przejściu dla pieszych zginął wówczas 17-latek.,
 
+## FAZ: Scholz potraktował szorstko Polaków i Bałtów
+ - [https://wykop.pl/link/7478185/faz-scholz-potraktowal-szorstko-polakow-i-baltow](https://wykop.pl/link/7478185/faz-scholz-potraktowal-szorstko-polakow-i-baltow)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T13:11:09+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/f54c0bf0837f0d2314ea5bab475cdcf5cff011a2586d2341f8bce8b7b22346d4,w104h74.jpg" /><br /> Kanclerz Niemiec Olaf Scholz sprzeciwił się na szczycie UE wspólnym zakupom broni, odrzucając postulaty Polaków i Bałtów
+
 ## Narodowcy ruszyli na granicę polsko-białoruską. Patrolowali Puszczę Białowieską.
  - [https://wykop.pl/link/7478183/narodowcy-ruszyli-na-granice-polsko-bialoruska-patrolowali-puszcze-bialowieska](https://wykop.pl/link/7478183/narodowcy-ruszyli-na-granice-polsko-bialoruska-patrolowali-puszcze-bialowieska)
  - RSS feed: https://wykop.pl/rss
@@ -70,12 +182,26 @@ to są prawdziwe problemy naszego kraju!
 
 <img src="https://wykop.pl/cdn/c3397993/ef262de558168fa45bf63c10cc098950bdba4d151b2538c0f7dda544aca31432,w104h74.jpg" /><br /> "Pilecki i Ulmowie w Muzeum to jak Myszka Mikki albo Superman na obrazie Bitwa pod Grunwaldem. "
 
+## Polski rkm Browning wz. 28 znaleziony w lesie... (GALERIA)
+ - [https://wykop.pl/link/7478167/polski-rkm-browning-wz-28-znaleziony-w-lesie-galeria](https://wykop.pl/link/7478167/polski-rkm-browning-wz-28-znaleziony-w-lesie-galeria)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T12:37:15+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/dde8b1f329a345cbf05bc02bccf8bf97e580293e6881b9824a474de1f736d894,w104h74.jpg" /><br /> Rzadki ręczny karabin maszynowy Browning wz. 28, został odkryty przez poszukiwacza pod Bydgoszczą. Nieczęsto się zdarza odkryć Polską broń z września 1939 roku w tak dobrym stanie.
+
 ## Staranował staruszkę i uciekł. Sprawca bezkarny
  - [https://wykop.pl/link/7478105/staranowal-staruszke-i-uciekl-sprawca-bezkarny](https://wykop.pl/link/7478105/staranowal-staruszke-i-uciekl-sprawca-bezkarny)
  - RSS feed: https://wykop.pl/rss
  - date published: 2024-06-29T10:41:42+00:00
 
 <img src="https://wykop.pl/cdn/c3397993/20d384e1d4f2fe6be21d6a9b58f1045210a708609f5f335d51de32f496ca6093,w104h74.jpg" /><br /> Niemal pół roku temu na warszawskim Ursynowie doszło do niewyobrażalnej tragedii.
+
+## Jak Chiny wstały z kolan?
+ - [https://wykop.pl/link/7478093/jak-chiny-wstaly-z-kolan](https://wykop.pl/link/7478093/jak-chiny-wstaly-z-kolan)
+ - RSS feed: https://wykop.pl/rss
+ - date published: 2024-06-29T10:23:02+00:00
+
+<img src="https://wykop.pl/cdn/c3397993/5d452c53ba5d990aadc100346317d8659093802e6e32e9bca5e83813f083a631,w104h74.jpg" /><br /> W 1978 roku chińskie PKB odpowiadało 14% PKB USA, a dziś Państwo Środka stało się głównym rywalem Stanów Zjednoczonych. Deng Xiaoping zbudował chiński sukces gospodarczy w oparciu o koncepcję joint venture. W zamian za dostęp zachodnich
 
 ## "Samobójstwo" robota. "Był jednym z nas"
  - [https://wykop.pl/link/7478067/samobojstwo-robota-byl-jednym-z-nas](https://wykop.pl/link/7478067/samobojstwo-robota-byl-jednym-z-nas)

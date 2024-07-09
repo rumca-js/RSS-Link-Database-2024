@@ -1,0 +1,196 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Paramount Agrees To Merge With Skydance In $8 Billion Deal, Ending Redstone Era
+ - [https://news.slashdot.org/story/24/07/08/2045209/paramount-agrees-to-merge-with-skydance-in-8-billion-deal-ending-redstone-era?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/07/08/2045209/paramount-agrees-to-merge-with-skydance-in-8-billion-deal-ending-redstone-era?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T23:26:25.296666+00:00
+
+Paramount Global has agreed to merge with Skydance in a significant deal that will see the Redstone family relinquish control of the storied movie studio and media company. The merger, valued at over $8 billion, involves a consortium including RedBird Capital Partners and KKR, and is expected to close in the third quarter of 2025, subject to regulatory approval. CNBC reports: The deal gives National Amusements an enterprise value of $2.4 billion, which includes $1.75 billion in equity. Paramount's class A shareholders will receive $23 apiece in cash or stock, while class B stockholders will receive $15 per share, equating to a cash consideration totaling $4.5 billion available to public shareholders. As part of the deal Skydance will also inject $1.5 billion of capital into Paramount's balance sheet. "It's a new Paramount; it's not just a catchphrase," said RedBird's Jeff Shell, former CEO of NBCUniversal, on a call with investors Monday. "We think it's going to be a new day for these
+
+## First-Known TikTok Mob Attack Led By Middle Schoolers Tormenting Teachers
+ - [https://news.slashdot.org/story/24/07/08/2026258/first-known-tiktok-mob-attack-led-by-middle-schoolers-tormenting-teachers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/07/08/2026258/first-known-tiktok-mob-attack-led-by-middle-schoolers-tormenting-teachers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T22:21:12.505636+00:00
+
+An anonymous reader quotes a report from Ars Technica: A bunch of eighth graders in a "wealthy Philadelphia suburb" recently targeted teachers with an extreme online harassment campaign that The New York Times reported was "the first known group TikTok attack of its kind by middle schoolers on their teachers in the United States." According to The Times, the Great Valley Middle School students created at least 22 fake accounts impersonating about 20 teachers in offensive ways. The fake accounts portrayed long-time, dedicated teachers sharing "pedophilia innuendo, racist memes," and homophobic posts, as well as posts fabricating "sexual hookups among teachers."
+ 
+The Pennsylvania middle school's principal, Edward Souders, told parents in an email that the number of students creating the fake accounts was likely "small," but that hundreds of students piled on, leaving comments and following the fake accounts. Other students responsibly rushed to report the misconduct, though, Souders sa
+
+## Z-Library Admins 'Escape House Arrest' After Judge Approves US Extradition
+ - [https://yro.slashdot.org/story/24/07/08/2037225/z-library-admins-escape-house-arrest-after-judge-approves-us-extradition?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/07/08/2037225/z-library-admins-escape-house-arrest-after-judge-approves-us-extradition?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T22:21:10.111692+00:00
+
+Andy Maxwell reports via TorrentFreak: On November 4, 2022, the United States Department of Justice and the FBI began seizing Z-Library's domains as part of a major operation to shut down the infamous 'shadow library' platform. A criminal investigation had identified two Russian nationals, Anton Napolsky and Valeriia Ermakova, as the alleged operators of the site. On October 21, 2022, at the U.S. District Court for the Eastern District of New York, Judge Sanket J. Bulsara ordered their arrest. They were detained in Argentina on November 3, 2022. After arriving at the Ambrosio Taravella International Airport, the unsuspecting couple cleared customs and hired a car from a popular rental company. The United States Embassy informed local authorities that the pair were subject to an Interpol Red Notice.
+ 
+At what point the Russians' phones were tapped is unclear but, under the authority of a Federal Court arrest warrant, Argentinian law enforcement began tracking the couple's movements as 
+
+## HP Discontinues Online-Only LaserJet Printers Amid Backlash - Instant Ink Subscription Gets the Boot, Too
+ - [https://hardware.slashdot.org/story/24/07/08/194243/hp-discontinues-online-only-laserjet-printers-amid-backlash---instant-ink-subscription-gets-the-boot-too?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/07/08/194243/hp-discontinues-online-only-laserjet-printers-amid-backlash---instant-ink-subscription-gets-the-boot-too?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T21:16:56.528762+00:00
+
+An anonymous reader writes: Per a report from DruckerChannel, HP has finally been forced to discontinue its cheaper e-series LaserJet printers due to customers experiencing problems with their online-only and always tied to HP+ subscription requirements. Among other things, HP+ requires a permanent Internet connection, and customers only use HP-original ink and toners, not allowing for third-party alternatives to be used at all. There are benefits to HP+, including cloud printing and an extra year's warranty, but the forced online requirement for a cheaper printer left a bad taste in the mouths of many consumers. 
+
+In any case, it's important to clarify that this discontinuation of HP printers will only impact HP LaserJet printers that have an "e" added to the end of their model name to denote the alternative business model. So, the HP Laserjet M110w is unaffected by this, but the HP LaserJet M110we and M209dwe, two cheaper always-online alternatives, will no longer be produced or sol
+
+## Google Maps Tests New Pop-up Ads That Give Users an Unnecessary Detour
+ - [https://tech.slashdot.org/story/24/07/08/1911241/google-maps-tests-new-pop-up-ads-that-give-users-an-unnecessary-detour?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/08/1911241/google-maps-tests-new-pop-up-ads-that-give-users-an-unnecessary-detour?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T21:16:54.942945+00:00
+
+An anonymous reader writes: Google Maps is testing a new ad format that could cause distractions while driving. It brings up a pop-up notification during navigation that covers the bottom half of the screen with an unnecessary detour suggestion. 
+
+Anthony Higman on X (formerly Twitter) recently spotted the new ad format during their commute. According to Higman, the ad popped up while passing a Royal Farms gas station, even though they did not search for a gas station or convenience store while setting their destination. The ad has a Sponsored tag at the top of the card, followed by the name of the location, its review rating, and the estimated arrival time. It also includes two buttons to add it as a stop or cancel the suggestion.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Google+Maps+Tests+New+Pop-up+Ads+That+Give+Users+an+Unnecessary+Detour%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F07%2F08%2F1911241%2F%3Futm_source%3Dtwitter%26
+
+## Goldman Research Head Skeptical on AI Returns Despite Massive Spend
+ - [https://slashdot.org/story/24/07/08/1856226/goldman-research-head-skeptical-on-ai-returns-despite-massive-spend?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/07/08/1856226/goldman-research-head-skeptical-on-ai-returns-despite-massive-spend?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T20:11:20.293139+00:00
+
+Goldman Sachs' head of global equity research Jim Covello has expressed skepticism about the potential returns from AI technology, despite an estimated $1 trillion in planned industry investment over the coming years. In a recent report [PDF], Covello argued that AI applications must solve complex, high-value problems to justify their substantial costs, which he believes the technology is not currently designed to do. 
+
+"AI technology is exceptionally expensive, and to justify those costs, the technology must be able to solve complex problems, which it isn't designed to do," Covello said. Unlike previous technological revolutions like e-commerce, which provided low-cost solutions from the start, AI remains prohibitively expensive even for basic tasks, he said. Covello also questioned whether AI costs would decline sufficiently over time, citing potential lack of competition in critical components like GPU chips. 
+
+The Goldman executive also expressed doubt about AI's ability to boost 
+
+## NATO Backs Effort To Save Internet by Rerouting To Space in Event of Subsea Attacks
+ - [https://tech.slashdot.org/story/24/07/08/1824220/nato-backs-effort-to-save-internet-by-rerouting-to-space-in-event-of-subsea-attacks?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/08/1824220/nato-backs-effort-to-save-internet-by-rerouting-to-space-in-event-of-subsea-attacks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T19:06:23.629057+00:00
+
+NATO is helping finance a project aimed at finding ways to keep the internet running should subsea cables shuttling civilian and military communications across European waters come under attack. From a report: Researchers, who include academics from the US, Iceland, Sweden and Switzerland, say they want to develop a way to seamlessly reroute internet traffic from subsea cables to satellite systems in the event of sabotage, or a natural disaster. The North Atlantic Treaty Organization's Science for Peace and Security Programme has approved a grant of as much as $433,600 for the $2.5 million project, and research institutions are providing in-kind contributions, documents seen by Bloomberg show. 
+
+Eyup Kuntay Turmus, adviser and program manager at the NATO program, confirmed the project was recently approved and said by email that implementation will start "very soon." The initiative, which hasn't yet been publicly announced, comes amid intensifying fears that Russia or China could mine
+
+## Google Extends Linux Kernel Support To Keep Android Devices Secure For Longer
+ - [https://linux.slashdot.org/story/24/07/08/1845241/google-extends-linux-kernel-support-to-keep-android-devices-secure-for-longer?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://linux.slashdot.org/story/24/07/08/1845241/google-extends-linux-kernel-support-to-keep-android-devices-secure-for-longer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T19:06:22.096206+00:00
+
+Google plans to support its own long-term support (LTS) kernel releases for Android devices for four years, a move aimed at bolstering the security of the mobile operating system. This decision, reported by AndroidAuthority, comes in response to the Linux community's recent reduction of LTS support from six years to two years, a change that posed potential challenges for Android's security ecosystem. 
+
+The Android Common Kernel (ACK) branches, derived from upstream Linux LTS releases, form the basis of most Android devices' kernels. Google maintains these forks to incorporate Android-specific features and backport critical functionality. Regular updates to these kernels address vulnerabilities disclosed in monthly Android Security Bulletins. While the extended support period benefits Android users and manufacturers, it places significant demands on Linux kernel developers.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Google+Extends+Linux+Ke
+
+## Temperatures 1.5C Above Pre-industrial Era Average For 12 Months, Data Shows
+ - [https://news.slashdot.org/story/24/07/08/1657256/temperatures-15c-above-pre-industrial-era-average-for-12-months-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/07/08/1657256/temperatures-15c-above-pre-industrial-era-average-for-12-months-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T18:02:05.742132+00:00
+
+The world has baked for 12 consecutive months in temperatures 1.5C (2.7F) greater than their average before the fossil fuel era, new data shows. Temperatures between July 2023 and June 2024 were the highest on record, scientists found, creating a year-long stretch in which the Earth was 1.64C hotter than in preindustrial times. From a report: The findings do not mean world leaders have already failed to honour their promises to stop the planet heating 1.5C by the end of the century -- a target that is measured in decadal averages rather than single years -- but that scorching heat will have exposed more people to violent weather. A sustained rise in temperatures above this level also increases the risk of uncertain but catastrophic tipping points. 
+
+Carlo Buontempo, director of the Copernicus Climate Change Service, which analysed the data, said the results were not a statistical oddity but a "large and continuing shift" in the climate. "Even if this specific streak of extremes ends a
+
+## Internet Archive Blames 'Environmental Factors' For Overnight Outages
+ - [https://tech.slashdot.org/story/24/07/08/1729214/internet-archive-blames-environmental-factors-for-overnight-outages?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/08/1729214/internet-archive-blames-environmental-factors-for-overnight-outages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T18:02:03.971071+00:00
+
+The Internet Archive took a tumble overnight after "environmental factors" downed the Wayback Machine, leaving archive.org wobbling in a way that might bring a smile to the faces of certain publishers wishing for its demise. From a report: According to the organization, there was a "brief power outage in one of our datacenters," which was followed by "environmental factors," causing the service blackout. Those environmental factors are likely to be an increase in heat following a cooling outage. By this morning, The Internet Archive was reporting that things were back up and running again. However, some users (this writer included) are still experiencing the odd error or two when accessing the organization's services.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Internet+Archive+Blames+'Environmental+Factors'+For+Overnight+Outages%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F07%2F08%2F1729214%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtw
+
+## Insurers Pocketed $50 Billion From Medicare for Diseases No Doctor Treated
+ - [https://science.slashdot.org/story/24/07/08/1540200/insurers-pocketed-50-billion-from-medicare-for-diseases-no-doctor-treated?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/07/08/1540200/insurers-pocketed-50-billion-from-medicare-for-diseases-no-doctor-treated?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T16:56:44.296702+00:00
+
+A Wall Street Journal analysis has revealed that private insurers in the government's Medicare Advantage program, including UnitedHealth Group, have made numerous questionable diagnoses leading to increased taxpayer-funded payments between 2018 and 2021. 
+
+The investigation found instances where patients were diagnosed with conditions they did not have, such as diabetic cataracts and HIV, often without their knowledge. These diagnoses resulted in higher payments from Medicare to the insurers. The Centers for Medicare and Medicaid Services said they are implementing changes to ensure "taxpayer dollars are appropriately spent." The story adds: In all, Medicare paid insurers about $50 billion for diagnoses added just by insurers in the three years ending in 2021, the Journal's analysis showed.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Insurers+Pocketed+%2450+Billion+From+Medicare+for+Diseases+No+Doctor+Treated%3A+https%3A%2F%2Fscience.slash
+
+## 10 Billion Passwords Leaked in the Largest Compilation of All Time
+ - [https://it.slashdot.org/story/24/07/08/1522242/10-billion-passwords-leaked-in-the-largest-compilation-of-all-time?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/07/08/1522242/10-billion-passwords-leaked-in-the-largest-compilation-of-all-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T15:51:14.331423+00:00
+
+An anonymous reader shares a report: Cybernews researchers discovered what appears to be the largest password compilation with a staggering 9,948,575,739 unique plaintext passwords. The file with the data, titled rockyou2024.txt, was posted on July 4th by forum user ObamaCare. While the user registered in late May 2024, they have previously shared an employee database from the law firm Simmons &amp; Simmons, a lead from an online casino AskGamblers, and student applications for Rowan College at Burlington County. 
+
+The team cross-referenced the passwords included in the RockYou2024 leak with data from Cybernews' Leaked Password Checker, which revealed that these passwords came from a mix of old and new data breaches. "In its essence, the RockYou2024 leak is a compilation of real-world passwords used by individuals all over the world. Revealing that many passwords for threat actors substantially heightens the risk of credential stuffing attacks," researchers said.<p><div class="share_s
+
+## Microsoft Orders China Staff To Use iPhones for Work and Drop Android
+ - [https://slashdot.org/story/24/07/08/0859243/microsoft-orders-china-staff-to-use-iphones-for-work-and-drop-android?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/07/08/0859243/microsoft-orders-china-staff-to-use-iphones-for-work-and-drop-android?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T14:46:24.277788+00:00
+
+Microsoft told employees in China that from September they'll only be able to use iPhones for work, effectively cutting off Android-powered devices from the workplace. Bloomberg: The US company will soon require Chinese-based employees to use only Apple devices to verify their identities when logging in to work computers or phones, according to an internal memo reviewed by Bloomberg News. The measure, part of Microsoft's global Secure Future Initiative, will affect hundreds of workers across the Chinese mainland and is intended to ensure that all staff use the Microsoft Authenticator password manager and Identity Pass app. 
+
+The move highlights the fragmented nature of Android app stores in the country and the growing differences between Chinese and foreign mobile ecosystems. Unlike Apple's iOS store, Google Play isn't available in China, so local smartphone makers like Huawei and Xiaomi operate their own platforms. Microsoft has chosen to block access from those devices to its corpor
+
+## Microsoft's Notepad Gets Spellcheck and Autocorrect 40 Years After Launch
+ - [https://it.slashdot.org/story/24/07/08/1439251/microsofts-notepad-gets-spellcheck-and-autocorrect-40-years-after-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/07/08/1439251/microsofts-notepad-gets-spellcheck-and-autocorrect-40-years-after-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T14:46:22.193032+00:00
+
+An anonymous reader shares a report: Microsoft is finally rolling out spellcheck and autocorrect for its Notepad app in Windows 11, more than 40 years after the simple text editor was first introduced in Windows in 1983. The software giant started testing both features in March, and has now quietly started enabling them for all Windows 11 users in recent days. The spellcheck feature in Notepad is almost identical to how Word or Edge highlight misspelled words, with a red underline to clearly show mistakes.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Microsoft's+Notepad+Gets+Spellcheck+and+Autocorrect+40+Years+After+Launch%3A+https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F07%2F08%2F1439251%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F07%2F08%2F1439251%2Fmicrosofts-notep
+
+## Gig-Economy Drivers Are Turning to EVs to Save Money - and They Need More Public Chargers
+ - [https://tech.slashdot.org/story/24/07/07/0518203/gig-economy-drivers-are-turning-to-evs-to-save-money---and-they-need-more-public-chargers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/07/0518203/gig-economy-drivers-are-turning-to-evs-to-save-money---and-they-need-more-public-chargers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T12:37:10.160129+00:00
+
+Remember those researchers who spent years training AI tools to analyze the reviews drivers left on the smartphone apps where they pay for EV charging? 
+
+There was one more unexpected finding. "Rideshare drivers who work for companies such as Uber are increasingly turning to electric vehicles to reduce fuel costs."
+That trend is boosting demand for conveniently located, publicly accessible EV chargers... "They are mostly relying on public chargers for their daily Uber needs, usually every day or every couple of days, which dramatically increases electric vehicle miles traveled," [climate fellow Omar Asensio told the Institute's blog], explaining that many drivers live in apartments that lack garages or space for a residential EV charger. Uber CEO Dara Khosrowshahi considers the issue so pressing he urged U.S. policymakers to accelerate plans to improve the nation's EV charging infrastructure in a Fast Co. op-ed in January &mdash; during the World Economic Forum in Davos, when media me
+
+## Russia's Space Chief Finally Admits US Landed on Moon
+ - [https://science.slashdot.org/story/24/07/08/0338234/russias-space-chief-finally-admits-us-landed-on-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/07/08/0338234/russias-space-chief-finally-admits-us-landed-on-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T08:10:22.318585+00:00
+
+"Russia has finally admitted that American astronauts did, in fact, land on the moon," reports Newsweek:
+
+Head of Russian Space Corporation Roscosmos, Yuri Borisov, accepted the truth of the U.S. putting a man on the moon in an address to the State Duma, Intellinews has reported. 
+
+"As for whether the Americans were on the Moon or not, I have one fact to share," he was reported to have said. "I was personally interested in this matter. At one time, they provided us with a portion of the lunar soil that the astronauts brought back during their expedition." Previous polling revealed that just under half of Russians believe America's 1969 moon landing was a government hoax. However, Borisov said that tests performed on the samples by the Russian Academy of Scientists confirmed their authenticity.
+<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Russia's+Space+Chief+Finally+Admits+US+Landed+on+Moon%3A+https%3A%2F%2Fscience.slashdot.org%2Fstory%2F2
+
+## Boeing Will Plead Guilty To Fraud Related To Fatal 737 Max Crashes
+ - [https://news.slashdot.org/story/24/07/08/0421238/boeing-will-plead-guilty-to-fraud-related-to-fatal-737-max-crashes?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/07/08/0421238/boeing-will-plead-guilty-to-fraud-related-to-fatal-737-max-crashes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T04:54:37.878107+00:00
+
+Boeing agreed on Sunday to plead guilty to conspiring to defraud the government in a case linked to crashes of its 737 Max jets in Indonesia and Ethiopia that killed 346 people -- a stunning turn for the aerospace giant after the Justice Department determined that Boeing failed to live up to terms of a 2021 deal to avoid prosecution. Washington Post adds: Prosecutors alleged that two Boeing pilots concealed key information from the Federal Aviation Administration about a new automated control system on the Max. The system was implicated in both crashes, causing uncontrollable dives. By agreeing to plead guilty to the single felony count just before a midnight deadline Sunday, the company will avoid going to trial in the high-profile case. 
+
+The Justice Department filed documents related to the deal in federal court in Texas late Sunday night, setting up a planned hearing where family members -- who have criticized the pending agreement -- will be permitted to speak out. The court subs
+
+## 'Cyclists Can't Decide Whether To Fear Or Love Self-Driving Cars'
+ - [https://tech.slashdot.org/story/24/07/08/0311258/cyclists-cant-decide-whether-to-fear-or-love-self-driving-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/08/0311258/cyclists-cant-decide-whether-to-fear-or-love-self-driving-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T03:49:15.079588+00:00
+
+"Many bike riders are hopeful about a world of robot drivers that never experience road rage or get distracted by their phones," reports the Washington Post. "But some resent being guinea pigs for driverless vehicles that veer into bike lanes, suddenly stop short and confuse cyclists trying to navigate around them. 
+
+"In more than a dozen complaints submitted to the DMV, cyclists describe upsetting near misses and close calls... "
+Of the nearly 200 California DMV complaints analyzed by The Post, about 60 percent involved Cruise vehicles; the rest mostly involved Waymo. About a third describe erratic or reckless driving, while another third document near misses with pedestrians. The remainder involve reports of autonomous cars blocking traffic and disobeying road markings or traffic signals... Only 17 complaints involved bicyclists or bike lane disruptions. But interviews with cyclists suggest the DMV complaints represent a fraction of bikers' negative interactions with self-driving ve
+
+## Developer Successfully Boots Up Linux on Google Drive
+ - [https://news.slashdot.org/story/24/07/08/0134230/developer-successfully-boots-up-linux-on-google-drive?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/07/08/0134230/developer-successfully-boots-up-linux-on-google-drive?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T02:44:27.862087+00:00
+
+Its FOSS writes:
+When it comes to Linux, we get to see some really cool, and sometimes quirky projects (read Hannah Montana Linux) that try to show off what's possible, and that's not a bad thing. One such quirky undertaking has recently surfaced, which sees a sophomore trying to one-up their friend, who had booted Linux off NFS. With their work, they have been able to run Arch Linux on Google Drive. 
+
+Their ultimate idea included FUSE (which allows running file-system code in userspace). The developer's blog post explains that when Linux boots, "the kernel unpacks a temporary filesystem into RAM which has the tools to mount the real filesystem... it's very helpful! We can mount a FUSE filesystem in that step and boot normally.... "
+
+Thankfully, Dracut makes it easy enough to build a custom initramfs... I decide to build this on top of Arch Linux because it's relatively lightweight and I'm familiar with how it work." 
+Doing testing in an Amazon S3 container, they built an EFI image &m
+
+## Is AirBNB Really Worsening the Housing Crisis?
+ - [https://slashdot.org/story/24/07/07/2339217/is-airbnb-really-worsening-the-housing-crisis?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/07/07/2339217/is-airbnb-really-worsening-the-housing-crisis?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-08T00:34:30.455600+00:00
+
+An anonymous reader shared this report from the BBC:
+
+On 21 June, Barcelona mayor Jaume Collboni announced plans to ban short term rentals in the city starting in November 2028. The decision is designed to solve what Collboni described as "Barcelona's biggest problem" &mdash; the housing crisis that has seen residents and workers priced out of the market &mdash; by returning the 10,000 apartments currently listed as short-term rentals on Airbnb and other platforms into the housing market... It's all part of a wider theme: around the world. Airbnb &mdash; which dominates the short-term rental market with more than 50% of all online bookings &mdash; and others, including VRBO, Booking.com and Expedia.com, are being scrutinised at the same time as questions are being asked about who tourism is for, and where the balance lies between benefits for tourists and locals alike... 
+
+Recent years have seen a backlash against the brand, which is blamed for pushing up housing prices and affecting 
+

@@ -1,5 +1,19 @@
 # Source:CNBC, URL:https://www.nbcnews.com/feed, language:en-US
 
+## Towns across America are ditching drones for fireworks in a patriotic battle for the sky
+ - [https://www.nbcnews.com/nightly-news/video/towns-across-america-are-ditching-drones-for-fireworks-in-a-patriotic-battle-for-the-sky-213956165518](https://www.nbcnews.com/nightly-news/video/towns-across-america-are-ditching-drones-for-fireworks-in-a-patriotic-battle-for-the-sky-213956165518)
+ - RSS feed: https://www.nbcnews.com/feed
+ - date published: 2024-06-29T23:25:42+00:00
+
+American towns are grappling with technology versus tradition ahead of July 4, with more ditching drones in favor of good old-fashioned fireworks. However, one company is finding a way of fusing both for maximum awe in this year’s display. NBC News’ Valerie Castro reports.
+
+## Over 100 dolphins saved after shallow tide left them stranded off Cape Cod
+ - [https://www.nbcnews.com/nightly-news/video/over-100-dolphins-saved-after-shallow-tide-left-them-stranded-off-cape-cod-213954117954](https://www.nbcnews.com/nightly-news/video/over-100-dolphins-saved-after-shallow-tide-left-them-stranded-off-cape-cod-213954117954)
+ - RSS feed: https://www.nbcnews.com/feed
+ - date published: 2024-06-29T23:13:45+00:00
+
+In a massive rescue response, agencies and volunteers alike rushed to save over 100 dolphins stuck in shallow waters off the coast of Cape Cod, Massachusetts. Organizers say this was the largest stranding event that they have seen. NBC News’ Laura Jarrett reports.
+
 ## Steve Bannon remains defiant just days before reporting to prison
  - [https://www.nbcnews.com/politics/donald-trump/steve-bannon-remains-defiant-just-days-reporting-prison-rcna159593](https://www.nbcnews.com/politics/donald-trump/steve-bannon-remains-defiant-just-days-reporting-prison-rcna159593)
  - RSS feed: https://www.nbcnews.com/feed

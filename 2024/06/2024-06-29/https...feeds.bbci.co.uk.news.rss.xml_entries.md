@@ -1,11 +1,25 @@
 # Source:BBC, URL:https://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
+## 'India triumph as World Cup gets its Hollywood finale'
+ - [https://www.bbc.com/sport/cricket/articles/c51yw4vrkjxo](https://www.bbc.com/sport/cricket/articles/c51yw4vrkjxo)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-06-29T23:38:15+00:00
+
+In a tournament billed as cricket's attempt to break into the US, India's dramatic win provides a Hollywood ending, writes Matthew Henry.
+
 ## Is sugar the missing ingredient in election manifestos?
  - [https://www.bbc.com/news/articles/cgxq2qdlj9lo](https://www.bbc.com/news/articles/cgxq2qdlj9lo)
  - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
  - date published: 2024-06-29T23:33:14+00:00
 
 Sugar taxes have been widely debated but in party manifestos, the word "sugar" barely appears. Why?
+
+## 'Decisive 16 seconds' from 'ridiculous' VAR as German 'belief' grows
+ - [https://www.bbc.com/sport/football/articles/cy943e4wyj2o](https://www.bbc.com/sport/football/articles/cy943e4wyj2o)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-06-29T23:18:10+00:00
+
+Denmark were left rueing two VAR decisions as Germany won 2-0 to reach Euro 2024 quarter-finals.
 
 ## The papers: Labour's housing 'blitz' and 'four days to save' UK
  - [https://www.bbc.com/news/articles/cgxq8j2lj87o](https://www.bbc.com/news/articles/cgxq8j2lj87o)
@@ -28,6 +42,13 @@ Alex Scott presents the best of the action from Germany v Denmark and Italy v Sw
 
 The Ukrainian president says more missiles and air defences are needed after a Russian strike kills seven.
 
+## 'I got a first look inside the royal rooms at Balmoral Castle'
+ - [https://www.bbc.com/news/articles/cv2gd3revw9o](https://www.bbc.com/news/articles/cv2gd3revw9o)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-06-29T21:39:09+00:00
+
+A new tour of Balmoral Castle for members of the public starts on Monday.
+
 ## Camila Cabello 'surprised' by lack of female headliners
  - [https://www.bbc.com/news/articles/cn08jp4061go](https://www.bbc.com/news/articles/cn08jp4061go)
  - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
@@ -49,6 +70,13 @@ Watch highlights as hosts Germany progress to the quarter-finals as they beat De
 
 A campaign group says Travellers are treated like "political footballs" during election campaigns.
 
+## England beware - are Switzerland dark horses of Euros?
+ - [https://www.bbc.com/sport/football/articles/cv2glz4r4zgo](https://www.bbc.com/sport/football/articles/cv2glz4r4zgo)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-06-29T20:56:14+00:00
+
+How Switzerland's win over Italy in the last 16 of Euro 2024 showed that England's side of the draw is far from easy.
+
 ## 'Worst Italy team in a lifetime' as holders limp out
  - [https://www.bbc.com/sport/football/articles/cz9d170ddn5o](https://www.bbc.com/sport/football/articles/cz9d170ddn5o)
  - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
@@ -69,6 +97,13 @@ A 31-year-old man died at the scene of the crash involving a Tesla and a bus, po
  - date published: 2024-06-29T20:02:09+00:00
 
 The Euro 2024 last-16 game between Germany and Denmark at Dortmund's Westfalenstadion is suspended because of a major thunderstorm.
+
+## Tactical breakdown: Where England are going wrong and how they can improve
+ - [https://www.bbc.com/sport/football/articles/c2q0pzx60v1o](https://www.bbc.com/sport/football/articles/c2q0pzx60v1o)
+ - RSS feed: https://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2024-06-29T19:16:44+00:00
+
+Danny Murphy explores why England's front four have not clicked yet at Euro 2024, and what they can do to improve.
 
 ## Hinchliffe wins UK 100m title to secure Olympic debut
  - [https://www.bbc.com/sport/athletics/articles/cd1rj2lj37eo](https://www.bbc.com/sport/athletics/articles/cd1rj2lj37eo)

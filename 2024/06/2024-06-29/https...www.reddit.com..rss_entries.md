@@ -1,5 +1,61 @@
 # Source:Reddit - Front Page, URL:https://www.reddit.com/.rss, language:en-US
 
+## The last moments of a man who jumped into a tiger enclosure in 2014
+ - [https://www.reddit.com/r/pics/comments/1drojtm/the_last_moments_of_a_man_who_jumped_into_a_tiger](https://www.reddit.com/r/pics/comments/1drojtm/the_last_moments_of_a_man_who_jumped_into_a_tiger)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-06-29T23:55:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/pics/comments/1drojtm/the_last_moments_of_a_man_who_jumped_into_a_tiger/"> <img alt="The last moments of a man who jumped into a tiger enclosure in 2014" src="https://preview.redd.it/zrl5jl7sml9d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2c5ee401d6087d6e0262e9a4b343ce7e9d208de" title="The last moments of a man who jumped into a tiger enclosure in 2014" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Miss_sparkle__"> /u/Miss_sparkle__ </a> &#32; to &#32; <a href="https://www.reddit.com/r/pics/"> r/pics </a> <br /> <span><a href="https://i.redd.it/zrl5jl7sml9d1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pics/comments/1drojtm/the_last_moments_of_a_man_who_jumped_into_a_tiger/">[comments]</a></span> </td></tr></table>
+
+## Just a little Pissed!
+ - [https://www.reddit.com/r/mildlyinfuriating/comments/1dro4d4/just_a_little_pissed](https://www.reddit.com/r/mildlyinfuriating/comments/1dro4d4/just_a_little_pissed)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-06-29T23:34:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/mildlyinfuriating/comments/1dro4d4/just_a_little_pissed/"> <img alt="Just a little Pissed!" src="https://b.thumbs.redditmedia.com/zjbMRvqPqMnYAgSW4e0u2Cjx5CDLfdEwE7BCr5kmk3Y.jpg" title="Just a little Pissed!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So, we were in our backyard hanging out when I noticed the neighbor mounting a camera to the top of his shed. I'm like what the hell are you doing? His reply was watching the fence! </p> <p>Now mind you, he did this Friday afternoon around 4:00 p.m. so this piece of work thinks it's okay to invade people's privacy in their own backyard. everybody is entitled to privacy in their own home and backyard without being intimidated. </p> <p>I do understand though, that Michigan has some of the strictest voyeur laws as far as cameras go, I will have to contact the lawyer now, and the police department to file a complaint against this person.</p> </div><!-- SC_ON --> &#32; submitted by &
+
+## Paraplegic hagrid
+ - [https://www.reddit.com/r/comedyheaven/comments/1dro4b6/paraplegic_hagrid](https://www.reddit.com/r/comedyheaven/comments/1dro4b6/paraplegic_hagrid)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-06-29T23:33:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/comedyheaven/comments/1dro4b6/paraplegic_hagrid/"> <img alt="Paraplegic hagrid" src="https://preview.redd.it/slzb3bt0jl9d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6905104425b037c540d8bfa1d695dc71292113fd" title="Paraplegic hagrid" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BryceMMusic"> /u/BryceMMusic </a> &#32; to &#32; <a href="https://www.reddit.com/r/comedyheaven/"> r/comedyheaven </a> <br /> <span><a href="https://i.redd.it/slzb3bt0jl9d1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/comedyheaven/comments/1dro4b6/paraplegic_hagrid/">[comments]</a></span> </td></tr></table>
+
+## Did the orcs go extinct or somethin?
+ - [https://www.reddit.com/r/DeepRockGalactic/comments/1drmx6k/did_the_orcs_go_extinct_or_somethin](https://www.reddit.com/r/DeepRockGalactic/comments/1drmx6k/did_the_orcs_go_extinct_or_somethin)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-06-29T22:35:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepRockGalactic/comments/1drmx6k/did_the_orcs_go_extinct_or_somethin/"> <img alt="Did the orcs go extinct or somethin?" src="https://preview.redd.it/398d6fcn8l9d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b46e92e300027c354612599d4958aa5bae22092a" title="Did the orcs go extinct or somethin?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The text implies that something happened to the orcs and no one knows what.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SteamingWolf41"> /u/SteamingWolf41 </a> &#32; to &#32; <a href="https://www.reddit.com/r/DeepRockGalactic/"> r/DeepRockGalactic </a> <br /> <span><a href="https://i.redd.it/398d6fcn8l9d1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepRockGalactic/comments/1drmx6k/did_the_orcs_go_extinct_or_somethin/">[comments]</a></span> </td></tr></table>
+
+## Who do you WISH would run for the President of America?
+ - [https://www.reddit.com/r/AskReddit/comments/1drmvc5/who_do_you_wish_would_run_for_the_president_of](https://www.reddit.com/r/AskReddit/comments/1drmvc5/who_do_you_wish_would_run_for_the_president_of)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-06-29T22:33:14+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BulletproofSimba"> /u/BulletproofSimba </a> &#32; to &#32; <a href="https://www.reddit.com/r/AskReddit/"> r/AskReddit </a> <br /> <span><a href="https://www.reddit.com/r/AskReddit/comments/1drmvc5/who_do_you_wish_would_run_for_the_president_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/AskReddit/comments/1drmvc5/who_do_you_wish_would_run_for_the_president_of/">[comments]</a></span>
+
+## What’s the fastest a movie has gone from “good” to “bad”?
+ - [https://www.reddit.com/r/movies/comments/1drmfre/whats_the_fastest_a_movie_has_gone_from_good_to](https://www.reddit.com/r/movies/comments/1drmfre/whats_the_fastest_a_movie_has_gone_from_good_to)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-06-29T22:12:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>(I think the grammar of the title is wrong. Sorry 😞)</p> <p>I was thinking about this today - what movie(s) have gone from “man this is really good” to “wtf am I watching?” in record time? </p> <p>Some movies start off really strong and go on for a while, but then, usually halfway through Act 2, the quality of the writing just plummets, and then you’re left with a mess. An example of that would be <em>League of Extraordinary Gentlemen</em>. </p> <p>But has a movie ever gone from good to bad in <em>minutes</em>? Maybe the first <em>Suicide Squad</em>?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/parisiraparis"> /u/parisiraparis </a> &#32; to &#32; <a href="https://www.reddit.com/r/movies/"> r/movies </a> <br /> <span><a href="https://www.reddit.com/r/movies/comments/1drmfre/whats_the_fastest_a_movie_has_gone_from_good_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1drmfre/w
+
+## VenusianRapper has been game banned, and his 700 dollar inventory is now locked
+ - [https://www.reddit.com/r/tf2/comments/1drmbkl/venusianrapper_has_been_game_banned_and_his_700](https://www.reddit.com/r/tf2/comments/1drmbkl/venusianrapper_has_been_game_banned_and_his_700)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-06-29T22:06:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/tf2/comments/1drmbkl/venusianrapper_has_been_game_banned_and_his_700/"> <img alt="VenusianRapper has been game banned, and his 700 dollar inventory is now locked" src="https://preview.redd.it/ne167dh73l9d1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd6bfea42dbc62866310fa813e4193073034ad2b" title="VenusianRapper has been game banned, and his 700 dollar inventory is now locked" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Juelicks"> /u/Juelicks </a> &#32; to &#32; <a href="https://www.reddit.com/r/tf2/"> r/tf2 </a> <br /> <span><a href="https://i.redd.it/ne167dh73l9d1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/tf2/comments/1drmbkl/venusianrapper_has_been_game_banned_and_his_700/">[comments]</a></span> </td></tr></table>
+
+## Najgłupsze teksty polskich piosenek
+ - [https://www.reddit.com/r/Polska/comments/1drlkc7/najgłupsze_teksty_polskich_piosenek](https://www.reddit.com/r/Polska/comments/1drlkc7/najgłupsze_teksty_polskich_piosenek)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-06-29T21:30:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Temat weekendowy - tekst której piosenki lub utworu hiphopowego w języku polskim uważacie za najbardziej niedorzeczny? Moim numerem 1 jest utwór pod tytułem &quot;Bauns&quot;, a wykonawcą jest niejaki Borixon:</p> <p>&quot;To jest najgorętsze gówno w mieście. My je robimy, a wy je bierzcie. W zamian oblejemy was szampanem. Będę was oblewał jak nad wami stanę&quot;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BananaTiger-"> /u/BananaTiger- </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://www.reddit.com/r/Polska/comments/1drlkc7/najgłupsze_teksty_polskich_piosenek/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1drlkc7/najgłupsze_teksty_polskich_piosenek/">[comments]</a></span>
+
 ## My step dad has kept the same piece of Parmesan cheese for over 10 years
  - [https://www.reddit.com/r/mildlyinteresting/comments/1drjaad/my_step_dad_has_kept_the_same_piece_of_parmesan](https://www.reddit.com/r/mildlyinteresting/comments/1drjaad/my_step_dad_has_kept_the_same_piece_of_parmesan)
  - RSS feed: https://www.reddit.com/.rss
@@ -28,6 +84,13 @@
 
 <table> <tr><td> <a href="https://www.reddit.com/r/comics/comments/1driak3/lasso_man_5_fixed/"> <img alt="Lasso Man 5 (fixed)" src="https://a.thumbs.redditmedia.com/Ew3fT-R0ehMnp1Swg48agqVPMZuYPUZMIzAvVqvffL4.jpg" title="Lasso Man 5 (fixed)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LastPlaceComics"> /u/LastPlaceComics </a> &#32; to &#32; <a href="https://www.reddit.com/r/comics/"> r/comics </a> <br /> <span><a href="https://www.reddit.com/gallery/1driak3">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/comics/comments/1driak3/lasso_man_5_fixed/">[comments]</a></span> </td></tr></table>
 
+## isn't this unconstitutional?
+ - [https://www.reddit.com/r/facepalm/comments/1dri185/isnt_this_unconstitutional](https://www.reddit.com/r/facepalm/comments/1dri185/isnt_this_unconstitutional)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-06-29T18:46:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/facepalm/comments/1dri185/isnt_this_unconstitutional/"> <img alt="isn't this unconstitutional?" src="https://preview.redd.it/knh4g9lq3k9d1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6aa38f37cd83e1008ae2f361aa24b0501b22f07e" title="isn't this unconstitutional?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jellylemonshake"> /u/jellylemonshake </a> &#32; to &#32; <a href="https://www.reddit.com/r/facepalm/"> r/facepalm </a> <br /> <span><a href="https://i.redd.it/knh4g9lq3k9d1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/facepalm/comments/1dri185/isnt_this_unconstitutional/">[comments]</a></span> </td></tr></table>
+
 ## Zdaje mi się że znam kogoś kto mógłby to zrobić...
  - [https://www.reddit.com/r/Polska_wpz/comments/1drhsrz/zdaje_mi_się_że_znam_kogoś_kto_mógłby_to_zrobić](https://www.reddit.com/r/Polska_wpz/comments/1drhsrz/zdaje_mi_się_że_znam_kogoś_kto_mógłby_to_zrobić)
  - RSS feed: https://www.reddit.com/.rss
@@ -41,6 +104,13 @@
  - date published: 2024-06-29T18:32:24+00:00
 
 &#32; submitted by &#32; <a href="https://www.reddit.com/user/Funny_War5883"> /u/Funny_War5883 </a> &#32; to &#32; <a href="https://www.reddit.com/r/AskReddit/"> r/AskReddit </a> <br /> <span><a href="https://www.reddit.com/r/AskReddit/comments/1drhq3x/whats_the_kinkiest_thing_youve_done_on_a_first/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/AskReddit/comments/1drhq3x/whats_the_kinkiest_thing_youve_done_on_a_first/">[comments]</a></span>
+
+## Ptasia kupa
+ - [https://www.reddit.com/r/Polska/comments/1drhk85/ptasia_kupa](https://www.reddit.com/r/Polska/comments/1drhk85/ptasia_kupa)
+ - RSS feed: https://www.reddit.com/.rss
+ - date published: 2024-06-29T18:25:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ostatnio zauważyłem, a dzisiaj moja ciekawość sięgnęła zenitu. Ptasie kupy które spotykałem do tej pory były białe z elementami czerni, natomiast od kilku tygodni wszystkie ptaki w mojej okolicy robią czarne kupy. Mam 26 lat i do tej pory nie spotkałem się z taką sytuacją. Czy wiecie czym to może być spowodowane?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VladimirStalin"> /u/VladimirStalin </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://www.reddit.com/r/Polska/comments/1drhk85/ptasia_kupa/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/1drhk85/ptasia_kupa/">[comments]</a></span>
 
 ## The balls represent the size of a newborn baby's head, which will pass through the female pelvis fairly easily, but will get stuck in the male pelvis
  - [https://www.reddit.com/r/interestingasfuck/comments/1drgs4l/the_balls_represent_the_size_of_a_newborn_babys](https://www.reddit.com/r/interestingasfuck/comments/1drgs4l/the_balls_represent_the_size_of_a_newborn_babys)

@@ -1,5 +1,12 @@
 # Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
 
+## Microsoft clarifies Azure MFA requirements: What you need to know
+ - [https://www.neowin.net/news/microsoft-clarifies-azure-mfa-requirements-what-you-need-to-know](https://www.neowin.net/news/microsoft-clarifies-azure-mfa-requirements-what-you-need-to-know)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-06-29T23:58:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/05/1620422430_azure_logo_new_2_medium.jpg" /></div>Microsoft is gradually implementing multi-factor authentication (MFA) for all Azure users to enhance security. This rollout will occur in two phases. All existing Azure MFA methods are supported. <a href="https://www.neowin.net/news/microsoft-clarifies-azure-mfa-requirements-what-you-need-to-know/">Read more...</a>
+
 ## YouTube spotted working on better playlist customization
  - [https://www.neowin.net/news/youtube-spotted-working-on-better-playlist-customization](https://www.neowin.net/news/youtube-spotted-working-on-better-playlist-customization)
  - RSS feed: https://www.neowin.net/news/rss

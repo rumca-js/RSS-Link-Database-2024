@@ -1,5 +1,12 @@
 # Source:Epoch Times - World, URL:https://feed.theepochtimes.com/world/feed, language:en-US
 
+## A Third of Remote-Working Australians Willing to Take a Pay Cut for Better Work-Life Balance
+ - [https://www.theepochtimes.com/world/a-third-of-remote-working-australians-willing-to-take-a-pay-cut-for-better-work-life-balance-5676893](https://www.theepochtimes.com/world/a-third-of-remote-working-australians-willing-to-take-a-pay-cut-for-better-work-life-balance-5676893)
+ - RSS feed: https://feed.theepochtimes.com/world/feed
+ - date published: 2024-06-29T23:59:47+00:00
+
+A woman using a laptop on a dining room table set up as a remote office to work from home on March 4, 2020. (Joe Giddens/PA Wire)
+
 ## RBA Has Much to Consider Before Deciding on Another Interest Rates Rise
  - [https://www.theepochtimes.com/world/rba-has-much-to-consider-before-deciding-on-another-interest-rates-rise-5676898](https://www.theepochtimes.com/world/rba-has-much-to-consider-before-deciding-on-another-interest-rates-rise-5676898)
  - RSS feed: https://feed.theepochtimes.com/world/feed

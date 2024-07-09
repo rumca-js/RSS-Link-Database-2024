@@ -91,3 +91,10 @@ In a world of infinite choices, rapid thinking has become a superpower
 
 On the tiny, uninhabited island of Host, a lighthouse has been converted into a blissful summer retreat
 
+## Vertigo — fashion, fast cars and life in the Weimar whirlwind
+ - [https://www.ft.com/content/ceced1ab-4424-4e43-b269-a8d80f95b9f5](https://www.ft.com/content/ceced1ab-4424-4e43-b269-a8d80f95b9f5)
+ - RSS feed: https://www.ft.com/rss/home
+ - date published: 2024-06-29T04:00:32+00:00
+
+Harald Jähner’s vivid history depicts Germany’s dizzying era of change — and its catastrophic finale
+

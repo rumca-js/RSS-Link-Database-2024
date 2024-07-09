@@ -14,6 +14,13 @@ Before that, reigning champion Italy was knocked out of the competition by Switz
 
 As the host town for the equestrian events, Versailles has turned its routine upside down to successfully transform into an Olympic city and welcome the tens of thousands of spectators expected in and around the beloved château.
 
+## The new life of Bilal, a former exploited minor: 'The guy who hurt me is free? It's not fair'
+ - [https://www.lemonde.fr/en/m-le-mag/article/2024/06/29/the-new-life-of-bilal-a-former-exploited-minor-the-guy-who-hurt-me-is-free-it-s-not-fair_6676141_117.html](https://www.lemonde.fr/en/m-le-mag/article/2024/06/29/the-new-life-of-bilal-a-former-exploited-minor-the-guy-who-hurt-me-is-free-it-s-not-fair_6676141_117.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2024-06-29T18:00:42+00:00
+
+It's been two years since, Bilal, 20, was extricated from Paris to try to start a new life in the south of France. The young Algerian had been exploited by two adults who drugged him to force him to steal. An organization managed to rescue him.
+
 ## Macron's historic choice: What voting instructions to give after first round of snap elections
  - [https://www.lemonde.fr/en/politics/article/2024/06/29/macron-s-historic-choice-what-voting-instructions-to-give-after-first-round-of-snap-elections_6676140_5.html](https://www.lemonde.fr/en/politics/article/2024/06/29/macron-s-historic-choice-what-voting-instructions-to-give-after-first-round-of-snap-elections_6676140_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml

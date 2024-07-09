@@ -1,5 +1,12 @@
 # Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
 
+## Looking for a YouTube Downloader that Stays Out of my Way and Has Audio Support
+ - [https://www.reddit.com/r/selfhosted/comments/1drokd7/looking_for_a_youtube_downloader_that_stays_out](https://www.reddit.com/r/selfhosted/comments/1drokd7/looking_for_a_youtube_downloader_that_stays_out)
+ - RSS feed: https://www.reddit.com/r/selfhosted/.rss
+ - date published: 2024-06-29T23:56:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m trying to find something that can fulfill the following scenario: I have a YouTube URL, and I just want to listen to the audio or download the file. I’ll buy a domain like YouTubeget.com and host a piece of software on it. The software should be able to take a modified YouTube url (YouTubeGet.com/watch?v=abcxyz) and just feed an audio file to my browser. If it doesn’t even have its own player interface, that’s fine. Does something like this exist? It seems like it would actually be somewhat easy to code until I think about all the scenarios I’d need to account for.</p> <p>Use case: I want to listen to the audio from a long YouTube video without having to deal with YouTube’s foreground nonsense and ads, and the additional bandwidth of streaming video instead of audio in low data situations. Secondary to that, I want to be able to send audio files of YouTube videos to the Whisper API for transcription. I have a shortcut to send an audio file there, 
+
 ## UNRAID OS – Docker containers are not downloading or installing images, timing out.
  - [https://www.reddit.com/r/selfhosted/comments/1drm1wc/unraid_os_docker_containers_are_not_downloading](https://www.reddit.com/r/selfhosted/comments/1drm1wc/unraid_os_docker_containers_are_not_downloading)
  - RSS feed: https://www.reddit.com/r/selfhosted/.rss

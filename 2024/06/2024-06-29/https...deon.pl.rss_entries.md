@@ -21,6 +21,13 @@
 
 
 
+## LN siatkarzy - Polacy nie obronią tytułu po porażce z Francją 2:3 w półfinale
+ - [https://deon.pl/swiat/ln-siatkarzy---polacy-nie-obronia-tytulu-po-porazce-z-francja-23-w-polfinale,2853581](https://deon.pl/swiat/ln-siatkarzy---polacy-nie-obronia-tytulu-po-porazce-z-francja-23-w-polfinale,2853581)
+ - RSS feed: https://deon.pl/rss
+ - date published: 2024-06-29T18:09:31+00:00
+
+
+
 ## 'Polska Potęga Piłkarska’, czyli o gwarancjach porażki
  - [https://deon.pl/kosciol/komentarze/polska-potega-pilkarska-czyli-o-gwarancjach-porazki,2853557](https://deon.pl/kosciol/komentarze/polska-potega-pilkarska-czyli-o-gwarancjach-porazki,2853557)
  - RSS feed: https://deon.pl/rss

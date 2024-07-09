@@ -1,5 +1,12 @@
 # Source:The Guardian, URL:https://www.theguardian.com/rss, language:en-UK
 
+## Denmark’s Hjulmand attacks ‘ridiculous handball rules’ after defeat by Germany
+ - [https://www.theguardian.com/football/article/2024/jun/30/denmarks-hjulmand-attacks-ridiculous-handball-rules-after-defeat-by-germany](https://www.theguardian.com/football/article/2024/jun/30/denmarks-hjulmand-attacks-ridiculous-handball-rules-after-defeat-by-germany)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2024-06-29T23:50:48+00:00
+
+<ul><li>‘We cannot require defenders to run with arms like this’</li><li>Nagelsmann accuses Michael Oliver of being petty</li></ul><p>The Denmark manager, Kasper Hjulmand, took aim at football’s “ridiculous” handball rules after they were beaten 2-0 by Germany in a controversial, storm-ravaged last-16 tie.</p><p>Denmark had been well in the game against Germany and thought they had taken the lead when Joachim Andersen converted three minutes after half-time. But the goal was disallowed by VAR for a fractional offside against Thomas Delaney and, almost immediately afterwards, Andersen was penalised for a harsh handball picked up by the video officials. They could not find a way back after Kai Havertz scored the penalty, Jamal Musiala confirming Germany’s progress.</p> <a href="https://www.theguardian.com/football/article/2024/jun/30/denmarks-hjulmand-attacks-ridiculous-handball-rules-after-defeat-by-germany">Continue reading...</a>
+
 ## Kai Havertz repays Germany’s faith as Danes decide to laugh not cry | Ben Fisher
  - [https://www.theguardian.com/football/article/2024/jun/30/germany-denmark-euro-2024-kai-havertz-julian-nagelsmann](https://www.theguardian.com/football/article/2024/jun/30/germany-denmark-euro-2024-kai-havertz-julian-nagelsmann)
  - RSS feed: https://www.theguardian.com/rss
@@ -104,6 +111,20 @@
  - date published: 2024-06-29T19:47:52+00:00
 
 <ul><li>Francesco Calzona will not change attacking approach </li><li>England could be ‘unbeatable’ if they click, he warns</li></ul><p>Slovakia’s coach, Francesco Calzona, has set out the contest between his side and England as one between “a squad worth €1.5bn and one worth 10&nbsp;times less” but says he trusts his players to deliver in Gelsenkirchen.</p><p>The Italian insists he will not drop his attacking approach to the tournament but warned his players must be defensively sound against opponents he believes will be “unbeatable” if they click.</p> <a href="https://www.theguardian.com/football/article/2024/jun/29/my-slovakia-team-are-worth-just-15om-to-englands-15bn-says-head-coach">Continue reading...</a>
+
+## South Africa’s search for absolution continues as Kohli finds formula
+ - [https://www.theguardian.com/sport/article/2024/jun/29/india-south-africa-t20-world-cup-virat-kohli](https://www.theguardian.com/sport/article/2024/jun/29/india-south-africa-t20-world-cup-virat-kohli)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2024-06-29T19:38:19+00:00
+
+<p>Yet more heartache for the Proteas, while India’s talisman finally adds a T20 World Cup triumph to his staggering CV</p><p>A quarter of a century has passed since that haunting drop of Allan Donald’s bat, that sight of canary yellow shirts in disbelief over their fortune, that run out to tie the match but eliminate South Africa from the World Cup.</p><p>Heartbreak after heartbreak followed, the most affecting since 1999 coming in 2015, with Dale Steyn spread across the Eden Park pitch, hands on head under lights, consoled by Grant Elliott. New Zealand’s South African-born batter had just ended his adopted nation’s own miserable sequence of last-four misery with a six down the ground.</p> <a href="https://www.theguardian.com/sport/article/2024/jun/29/india-south-africa-t20-world-cup-virat-kohli">Continue reading...</a>
+
+## Russell Crowe at Glastonbury review – droll delivery from an A-list everybloke
+ - [https://www.theguardian.com/music/article/2024/jun/29/russell-crowe-at-glastonbury-review-droll-delivery-from-a-a-list-everybloke](https://www.theguardian.com/music/article/2024/jun/29/russell-crowe-at-glastonbury-review-droll-delivery-from-a-a-list-everybloke)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2024-06-29T19:37:19+00:00
+
+<p><strong>Acoustic stage<br /></strong>The Hollywood star brings his magnificently deep and robust voice to Glastonbury <strong><br /></strong></p><p>Glastonbury’s cinema tent has hosted an impressive range of A-listers this year, from Paul Mescal (whose short shorts are yet to influence the Glasto blokes who adore a practical cargo pocket) to Tilda Swinton, Florence Pugh, Simon Pegg and Cate Blanchett. All dilettantes at this music festival, though, compared with actually singing Russell Crowe at the field’s opposite tent, the Acoustic stage.</p><p>In his Oscar-nominated performance in Gladiator he was “<a href="https://www.youtube.com/watch?v=5i0u4jFmE78">father to a murdered son, husband to a murdered wife</a>”, and I rather thought he’d be uncle to a series of murdered cover versions, but I’m proved wrong. Billed as his Indoor Garden Party and backed by a sizeable band, he sings a series of self-penned songs inspired by moments in his own life, from thwarted love to the death of 
 
 ## England overcome France but worries over international rugby league grow
  - [https://www.theguardian.com/sport/article/2024/jun/29/england-france-rugby-league-international-match-report](https://www.theguardian.com/sport/article/2024/jun/29/england-france-rugby-league-international-match-report)
@@ -610,6 +631,13 @@
  - date published: 2024-06-29T11:00:01+00:00
 
 <p>Rob used to be hyper-monogamous – but then he met Mikey and discovered a whole world of experimentation</p><p><em>I’ve resisted the idea of fooling around – I feared the subtext was that I wasn’t enough</em></p><p><em>It was wonderful seeing Rob glowing in the knowledge that he is irresistible</em></p> <a href="https://www.theguardian.com/lifeandstyle/article/2024/jun/29/how-we-do-it-in-america-rob-and-mikey">Continue reading...</a>
+
+## Glastonbury festivalgoers frustrated by overcrowding at smaller stages
+ - [https://www.theguardian.com/music/article/2024/jun/29/glastonbury-festivalgoers-frustrated-by-overcrowding-at-smaller-stages](https://www.theguardian.com/music/article/2024/jun/29/glastonbury-festivalgoers-frustrated-by-overcrowding-at-smaller-stages)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2024-06-29T10:56:14+00:00
+
+<p>Fans angry after being turned away from Sugababes show while Bicep set halted over safety concerns</p><ul><li><a href="https://www.theguardian.com/music/live/2024/jun/29/glastonbury-live-saturday-coldplay-little-simz">Glastonbury live – latest updates</a></li></ul><p>Glastonbury festival is known for its mammoth crowds – with more than 200,000 people descending on Worthy Farm for the event each year, the huge audiences in front of the big stages are a sight to behold.</p><p>But this year festivalgoers have been left frustrated by overcrowding at smaller stages, which have led to areas being closed off to prevent crowd crushes and one act being forced to halt their set.</p> <a href="https://www.theguardian.com/music/article/2024/jun/29/glastonbury-festivalgoers-frustrated-by-overcrowding-at-smaller-stages">Continue reading...</a>
 
 ## ‘The business is no longer sustainable’: the inside story of how Tory cuts devastated the arts
  - [https://www.theguardian.com/culture/article/2024/jun/29/what-14-years-of-tory-rule-have-done-to-the-arts](https://www.theguardian.com/culture/article/2024/jun/29/what-14-years-of-tory-rule-have-done-to-the-arts)

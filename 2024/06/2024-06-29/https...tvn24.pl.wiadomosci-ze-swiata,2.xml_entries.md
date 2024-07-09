@@ -1,5 +1,13 @@
 # Source:TVN24 Ze świata, URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, language:pl-PL
 
+## Pogoda na dziś - niedziela 30.06. Nadciągnie upał, a za nim burze
+ - [https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-3006-nadciagnie-upal-a-za-nim-burze-st7984571?source=rss](https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-3006-nadciagnie-upal-a-za-nim-burze-st7984571?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-ze-swiata,2.xml
+ - date published: 2024-06-30T00:00:00+00:00
+
+<img alt="Pogoda na dziś - niedziela 30.06. Nadciągnie upał, a za nim burze" src="https://tvn24.pl/najnowsze/cdn-zdjecie-8515076-goraco-cieplo-slonce-chmury-burza-ph7931509/alternates/LANDSCAPE_1280" />
+    Pogoda na dziś. Niedziela 30.06 rozpocznie się pogodnie i słonecznie w większości kraju. W cieszeniu się słońcem mogą przeszkadzać nam wysokie wartości na termometrach, sięgające nawet 35 stopni Celsjusza. W drugiej połowie dnia spodziewane są natomiast burze.
+
 ## Specjalny zespół zbada działania prokuratury w sprawie śmierci posłanki Barbary Bildy
  - [https://tvn24.pl/polska/prokurator-generalny-powoluje-zespol-ktory-zajmie-sie-sprawa-barbary-bildy-st7984578?source=rss](https://tvn24.pl/polska/prokurator-generalny-powoluje-zespol-ktory-zajmie-sie-sprawa-barbary-bildy-st7984578?source=rss)
  - RSS feed: https://tvn24.pl/wiadomosci-ze-swiata,2.xml

@@ -1,5 +1,47 @@
 # Source:Channel Asia Latest News, URL:https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml, language:en
 
+## Germany embracing fans' expectations, Nagelsmann says
+ - [https://www.channelnewsasia.com/sport/germany-embracing-fans-expectations-nagelsmann-says-4446156](https://www.channelnewsasia.com/sport/germany-embracing-fans-expectations-nagelsmann-says-4446156)
+ - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+ - date published: 2024-06-29T23:38:10+00:00
+
+
+
+## US rebuild confidence after shock loss to Panama
+ - [https://www.channelnewsasia.com/sport/us-rebuild-confidence-after-shock-loss-panama-4446161](https://www.channelnewsasia.com/sport/us-rebuild-confidence-after-shock-loss-panama-4446161)
+ - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+ - date published: 2024-06-29T23:34:21+00:00
+
+
+
+## Walking can be a powerful remedy for back pain, new study offers more evidence
+ - [https://www.channelnewsasia.com/wellness/walking-lower-back-pain-4436406](https://www.channelnewsasia.com/wellness/walking-lower-back-pain-4436406)
+ - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+ - date published: 2024-06-29T23:30:16+00:00
+
+A new study adds to a large body of evidence on the effectiveness of movement for treating and preventing pain.
+
+## From a small container at a Hougang temple, this lawyer and her team bring legal access to the vulnerable
+ - [https://www.channelnewsasia.com/women/cai-chengying-pro-bono-community-lawyer-hougang-temple-4435196](https://www.channelnewsasia.com/women/cai-chengying-pro-bono-community-lawyer-hougang-temple-4435196)
+ - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+ - date published: 2024-06-29T23:29:40+00:00
+
+Long-time volunteer with Pro Bono SG, Cai Chengying, knows the charity’s main office in the State Courts can be inaccessible and intimidating for some clients. So, as the organisation’s new Head of Strategy and Impact Evaluation, she plans to build more community law centres in the heartlands to improve access to justice for all.
+
+## Denmark coach bemoans VAR decisions after Euro 2024 exit
+ - [https://www.channelnewsasia.com/sport/denmark-coach-bemoans-var-decisions-after-euro-2024-exit-4446121](https://www.channelnewsasia.com/sport/denmark-coach-bemoans-var-decisions-after-euro-2024-exit-4446121)
+ - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+ - date published: 2024-06-29T23:08:00+00:00
+
+
+
+## Analysis:The Germans are back after rare lean spell
+ - [https://www.channelnewsasia.com/sport/analysisthe-germans-are-back-after-rare-lean-spell-4446126](https://www.channelnewsasia.com/sport/analysisthe-germans-are-back-after-rare-lean-spell-4446126)
+ - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+ - date published: 2024-06-29T23:04:24+00:00
+
+
+
 ## Venezuela coach Batista to miss Jamaica clash due to suspension
  - [https://www.channelnewsasia.com/sport/venezuela-coach-batista-miss-jamaica-clash-due-suspension-4446091](https://www.channelnewsasia.com/sport/venezuela-coach-batista-miss-jamaica-clash-due-suspension-4446091)
  - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
@@ -316,14 +358,14 @@ With China’s growth target of 5 per cent this year deemed ambitious, the progr
 
 
 ## India elect to bat in T20 World Cup final v South Africa
- - [https://www.channelnewsasia.com/sport/india-elect-bat-t20-world-cup-final-v-south-africa-4445491](https://www.channelnewsasia.com/sport/india-elect-bat-t20-world-cup-final-v-south-africa-4445491)
+ - [https://www.channelnewsasia.com/sport/india-set-south-africa-177-win-t20-world-cup-title-4445491](https://www.channelnewsasia.com/sport/india-set-south-africa-177-win-t20-world-cup-title-4445491)
  - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
  - date published: 2024-06-29T14:16:30+00:00
 
 
 
 ## India elect to bat in T20 World Cup final v South Africa
- - [https://www.channelnewsasia.com/sport/india-set-south-africa-177-win-t20-world-cup-title-4445491](https://www.channelnewsasia.com/sport/india-set-south-africa-177-win-t20-world-cup-title-4445491)
+ - [https://www.channelnewsasia.com/sport/india-elect-bat-t20-world-cup-final-v-south-africa-4445491](https://www.channelnewsasia.com/sport/india-elect-bat-t20-world-cup-final-v-south-africa-4445491)
  - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
  - date published: 2024-06-29T14:16:30+00:00
 
@@ -421,14 +463,14 @@ The war relic was discovered during excavation works at a site along Ang Mo Kio 
 
 
 ## Verstappen beats the McLarens to take Austrian sprint win
- - [https://www.channelnewsasia.com/sport/verstappen-wins-austrian-sprint-stretch-f1-lead-4445236](https://www.channelnewsasia.com/sport/verstappen-wins-austrian-sprint-stretch-f1-lead-4445236)
+ - [https://www.channelnewsasia.com/sport/verstappen-beats-mclarens-take-austrian-sprint-win-4445236](https://www.channelnewsasia.com/sport/verstappen-beats-mclarens-take-austrian-sprint-win-4445236)
  - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
  - date published: 2024-06-29T10:47:58+00:00
 
 
 
 ## Verstappen beats the McLarens to take Austrian sprint win
- - [https://www.channelnewsasia.com/sport/verstappen-beats-mclarens-take-austrian-sprint-win-4445236](https://www.channelnewsasia.com/sport/verstappen-beats-mclarens-take-austrian-sprint-win-4445236)
+ - [https://www.channelnewsasia.com/sport/verstappen-wins-austrian-sprint-stretch-f1-lead-4445236](https://www.channelnewsasia.com/sport/verstappen-wins-austrian-sprint-stretch-f1-lead-4445236)
  - RSS feed: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
  - date published: 2024-06-29T10:47:58+00:00
 

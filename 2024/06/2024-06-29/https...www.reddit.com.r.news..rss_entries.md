@@ -1,5 +1,12 @@
 # Source:Reddit - News, URL:https://www.reddit.com/r/news/.rss, language:en-US
 
+## Beryl strengthens into a Category 1 hurricane in the Atlantic as it bears down on Caribbean
+ - [https://www.reddit.com/r/news/comments/1dro7ka/beryl_strengthens_into_a_category_1_hurricane_in](https://www.reddit.com/r/news/comments/1dro7ka/beryl_strengthens_into_a_category_1_hurricane_in)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-06-29T23:38:20+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br /> <span><a href="https://www.cbsnews.com/colorado/news/hurricane-beryl-atlantic-approaching-caribbean/?intcid=CNM-00-10abd1h">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1dro7ka/beryl_strengthens_into_a_category_1_hurricane_in/">[comments]</a></span>
+
 ## Utica police involved in shooting that killed 13-year-old male.
  - [https://www.reddit.com/r/news/comments/1drgd31/utica_police_involved_in_shooting_that_killed](https://www.reddit.com/r/news/comments/1drgd31/utica_police_involved_in_shooting_that_killed)
  - RSS feed: https://www.reddit.com/r/news/.rss

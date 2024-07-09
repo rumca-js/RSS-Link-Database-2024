@@ -1,5 +1,13 @@
 # Source:Daily sceptic, URL:https://dailysceptic.org/feed, language:en-US
 
+## News Round-Up
+ - [https://dailysceptic.org/2024/06/30/news-round-up-1205](https://dailysceptic.org/2024/06/30/news-round-up-1205)
+ - RSS feed: https://dailysceptic.org/feed
+ - date published: 2024-06-29T23:28:44+00:00
+
+<p>A summary of the most interesting stories in the past 24 hours that challenge the prevailing orthodoxy about the ‘climate emergency’, public health ‘crises’ and the supposed moral defects of Western civilisation.</p>
+<p>The post <a href="https://dailysceptic.org/2024/06/30/news-round-up-1205/">News Round-Up</a> appeared first on <a href="https://dailysceptic.org">The Daily Sceptic</a>.</p>
+
 ## Reform Reports Channel 4 to Police for “Electoral Interference” Over “Planted” Racist Activist – the Activist Says He is “Glad” and “The Truth Will Come Out in the Papers”
  - [https://dailysceptic.org/2024/06/29/reform-reports-channel-4-to-police-for-electoral-interference-over-planted-racist-activist-the-activist-says-he-is-glad-and-the-truth-will-come-out-in-the-papers](https://dailysceptic.org/2024/06/29/reform-reports-channel-4-to-police-for-electoral-interference-over-planted-racist-activist-the-activist-says-he-is-glad-and-the-truth-will-come-out-in-the-papers)
  - RSS feed: https://dailysceptic.org/feed

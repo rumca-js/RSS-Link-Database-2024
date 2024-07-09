@@ -42,6 +42,13 @@ Infinix ZeroBook Ultra will go on sale in India on July 10
 
 Vodafone is the third operator in India to announce a hike in tariffs this week
 
+## Sennheiser Accentum True Wireless Review: Flagship Sound at Mid-Range Price?
+ - [https://www.gadgets360.com/audio/reviews/sennheiser-accentum-true-wireless-review-5990768](https://www.gadgets360.com/audio/reviews/sennheiser-accentum-true-wireless-review-5990768)
+ - RSS feed: https://feeds.feedburner.com/gadgets360-latest
+ - date published: 2024-06-29T06:24:37+00:00
+
+Sennheiser Accentum True Wireless earphones seen in a black colourway
+
 ## US, India Extend Digital Tax Truce to June 30 as Deadline Approaches
  - [https://www.gadgets360.com/internet/news/us-india-pillar-1-digital-tax-deal-services-deadline-5994746](https://www.gadgets360.com/internet/news/us-india-pillar-1-digital-tax-deal-services-deadline-5994746)
  - RSS feed: https://feeds.feedburner.com/gadgets360-latest

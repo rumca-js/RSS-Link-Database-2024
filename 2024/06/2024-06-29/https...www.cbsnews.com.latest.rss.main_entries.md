@@ -1,5 +1,54 @@
 # Source:Home - CBSNews.com, URL:https://www.cbsnews.com/latest/rss/main, language:en
 
+## Martin Mull, comedic actor known for "Roseanne" and "Arrested Development," dies at 80
+ - [https://www.cbsnews.com/video/martin-mull-comedic-actor-known-for-roseanne-and-arrested-development-dies-at-80](https://www.cbsnews.com/video/martin-mull-comedic-actor-known-for-roseanne-and-arrested-development-dies-at-80)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-06-29T23:56:00+00:00
+
+Longtime comedy actor Martin Mull, who had many memorable roles in TV shows including "Fernwood Tonight," "Roseanne" and "Arrested Development," has died at the age of 80.
+
+## As flooding inundates Minnesota, residents who lack flood insurance face uncertainty
+ - [https://www.cbsnews.com/video/as-flooding-inundates-minnesota-residents-who-lack-flood-insurance-face-uncertainty](https://www.cbsnews.com/video/as-flooding-inundates-minnesota-residents-who-lack-flood-insurance-face-uncertainty)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-06-29T23:52:00+00:00
+
+Heavy flooding has inundated several parts of Minnesota over the past two weeks. However, a vast majority of Minnesotans lack flood insurance, leaving some with extensive property loss and an uncertain future. Tom Hanson reports.
+
+## After shaky debate, Biden goes on campaign trail
+ - [https://www.cbsnews.com/video/after-shaky-debate-biden-goes-on-campaign-trail](https://www.cbsnews.com/video/after-shaky-debate-biden-goes-on-campaign-trail)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-06-29T23:51:00+00:00
+
+Amid calls to bow out, a defiant President Biden is digging in, holding campaign events and fundraisers this weekend in New York and New Jersey. Taurean Small reports.
+
+## Authorities say teen armed with replica gun fatally shot by police after chase
+ - [https://www.cbsnews.com/video/authorities-say-teen-armed-with-replica-gun-fatally-shot-by-police-after-chase](https://www.cbsnews.com/video/authorities-say-teen-armed-with-replica-gun-fatally-shot-by-police-after-chase)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-06-29T23:51:00+00:00
+
+Police fatally shot a 13-year-old boy late Friday night following a chase in Utica, New York, after the teen displayed what turned out to be a replica handgun, authorities said. Michael George has the latest.
+
+## Iranian presidential election goes to runoff
+ - [https://www.cbsnews.com/video/iranian-presidential-election-goes-to-runoff](https://www.cbsnews.com/video/iranian-presidential-election-goes-to-runoff)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-06-29T23:51:00+00:00
+
+With turnout low, Iran's presidential election to replace the late President Ebrahim Raisi is headed to a runoff between reformist Masoud Pezeshkian and hardliner Saeed Jalili. Elizabeth Palmer reports from Tehran.
+
+## Supreme Court decision on homeless encampments gets mixed response in California
+ - [https://www.cbsnews.com/video/supreme-court-decision-on-homeless-encampments-gets-mixed-response-in-california](https://www.cbsnews.com/video/supreme-court-decision-on-homeless-encampments-gets-mixed-response-in-california)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-06-29T23:51:00+00:00
+
+While leaders in San Francisco praised the Supreme Court's ruling giving cities nationwide the power to clear homeless encampments, Los Angeles Mayor Karen Bass called the decision a "disappointment." Adam Yamaguchi has more.
+
+## "CBS Weekend News" headlines for Saturday, June 29, 2024
+ - [https://www.cbsnews.com/video/cbs-weekend-news-headlines-for-saturday-june-29-2024](https://www.cbsnews.com/video/cbs-weekend-news-headlines-for-saturday-june-29-2024)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-06-29T23:24:00+00:00
+
+Here's a look at the top stories making headlines on the "CBS Weekend News" with Adriana Diaz.
+
 ## India wins cricket Twenty20 World Cup in exciting final against South Africa
  - [https://www.cbsnews.com/news/india-wins-cricket-twenty20-world-cup](https://www.cbsnews.com/news/india-wins-cricket-twenty20-world-cup)
  - RSS feed: https://www.cbsnews.com/latest/rss/main
@@ -13,6 +62,13 @@ India won its second T20 World Cup but its first world title in 12 years.
  - date published: 2024-06-29T18:35:47+00:00
 
 Police said they spotted what "appeared to be a handgun" pointed at the officers.
+
+## Authorities say teen armed with replica gun fatally shot by police
+ - [https://www.cbsnews.com/news/13-year-old-with-replica-handgun-fatally-shot-by-police-chase-upstate-new-york-utica](https://www.cbsnews.com/news/13-year-old-with-replica-handgun-fatally-shot-by-police-chase-upstate-new-york-utica)
+ - RSS feed: https://www.cbsnews.com/latest/rss/main
+ - date published: 2024-06-29T18:35:00+00:00
+
+Police said they spotted what "appeared to be a handgun" during the chase, but was later determined to be a pellet gun resembling a Glock 17.
 
 ## 6/29: Saturday Morning
  - [https://www.cbsnews.com/video/629-saturday-morning](https://www.cbsnews.com/video/629-saturday-morning)

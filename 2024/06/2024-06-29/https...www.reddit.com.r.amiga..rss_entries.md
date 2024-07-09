@@ -1,5 +1,12 @@
 # Source:Amiga, URL:https://www.reddit.com/r/amiga/.rss, language:en
 
+## Skinny Marley Amiga Game Physical Version
+ - [https://www.reddit.com/r/amiga/comments/1droknp/skinny_marley_amiga_game_physical_version](https://www.reddit.com/r/amiga/comments/1droknp/skinny_marley_amiga_game_physical_version)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-06-29T23:56:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1droknp/skinny_marley_amiga_game_physical_version/"> <img alt="Skinny Marley Amiga Game Physical Version" src="https://preview.redd.it/mwzzjvb4nl9d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cdd45be8ef2a7a543580f7a977e76a6052c353a3" title="Skinny Marley Amiga Game Physical Version" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Working on the box design of Skinny Marley Amiga Game.</p> <p>Game Page: <a href="https://tooizzi.itch.io/skinny-marley">https://tooizzi.itch.io/skinny-marley</a></p> <h1>amiga #amigagame #retrogame #indiegame #indiedev #commodoreamiga #AmigaReposts</h1> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Embarrassed-You2351"> /u/Embarrassed-You2351 </a> <br /> <span><a href="https://i.redd.it/mwzzjvb4nl9d1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1droknp/skinny_marley_amiga_game_physical_version/">[comments]<
+
 ## Installing From REAL Disks On An Amiga.
  - [https://www.reddit.com/r/amiga/comments/1dr8l0z/installing_from_real_disks_on_an_amiga](https://www.reddit.com/r/amiga/comments/1dr8l0z/installing_from_real_disks_on_an_amiga)
  - RSS feed: https://www.reddit.com/r/amiga/.rss

@@ -1,5 +1,19 @@
 # Source:3D Printing, URL:https://www.reddit.com/r/3Dprinting/.rss, language:en
 
+## How to prevent E3D Revo from unscrewing itself 😵‍💫
+ - [https://www.reddit.com/r/3Dprinting/comments/1drnbwi/how_to_prevent_e3d_revo_from_unscrewing_itself](https://www.reddit.com/r/3Dprinting/comments/1drnbwi/how_to_prevent_e3d_revo_from_unscrewing_itself)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-06-29T22:55:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1drnbwi/how_to_prevent_e3d_revo_from_unscrewing_itself/"> <img alt="How to prevent E3D Revo from unscrewing itself 😵‍💫" src="https://external-preview.redd.it/1nBp8mOGb05c4kSBsUiVFogJTQ6660SYW0ofYtc-V4c.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=bc1d19592ba3011cec2cc0cb8aa54bfe280a9042" title="How to prevent E3D Revo from unscrewing itself 😵‍💫" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Well, we did have loads of Revo nozzles getting uncrewed during prints on the very fast <strong>Prusa Pro HT90</strong> during testing<br /> But why? </p> <p>After a lot of head-scratching, the reason is surprisingly simple:<br /> - Slicers traditionally go <strong>counter-clockwise</strong>, and the nozzle travels a slightly longer distance on the outside compared to the inside of the extruded line<br /> - This creates torque, which little by little unscrews the nozzle<br /> - The larger the nozzle and extruded line w
+
+## 3D Print File
+ - [https://www.reddit.com/r/3Dprinting/comments/1drmqp3/3d_print_file](https://www.reddit.com/r/3Dprinting/comments/1drmqp3/3d_print_file)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-06-29T22:27:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1drmqp3/3d_print_file/"> <img alt="3D Print File" src="https://preview.redd.it/g4fgv5u37l9d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=037f7f86e47543f3b6b930ccb4852fc083f16ff9" title="3D Print File" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Anyone know if there’s a 3D print file (free or semi-cheap) to make these myself? Amazon is selling 3 of these for a whopping $20.</p> <p>I’m not a pro at making things myself yet otherwise I’d do it. But on that thought… what are good apps (for windows or iPad) to create my own projects?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Unique-Ad-3792"> /u/Unique-Ad-3792 </a> <br /> <span><a href="https://i.redd.it/g4fgv5u37l9d1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1drmqp3/3d_print_file/">[comments]</a></span> </td></tr></table>
+
 ## I 3D Printed a huge Air Max 95
  - [https://www.reddit.com/r/3Dprinting/comments/1drmf6v/i_3d_printed_a_huge_air_max_95](https://www.reddit.com/r/3Dprinting/comments/1drmf6v/i_3d_printed_a_huge_air_max_95)
  - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
@@ -13,6 +27,13 @@
  - date published: 2024-06-29T21:51:41+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1drm0de/nonfunctional_movie_prop_m41a_pulse_rifle/"> <img alt="Non-functional movie prop M41A Pulse Rifle" src="https://b.thumbs.redditmedia.com/Jw8AdKgTVylWpPg2JlzAbBNO_8KNIOlxFwiArIiDlYw.jpg" title="Non-functional movie prop M41A Pulse Rifle" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>1986, movie Aliens. Ellen Ripley gets instructions from a marine how to handle the standard M41A pulse rifle. I loved printing, assembling and weathering this Non-functional movie prop. Ofcourse I had to add a full-sized Facehugger to it #3dprint #3dprinting #Aliens </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spanky_NL"> /u/Spanky_NL </a> <br /> <span><a href="https://www.reddit.com/gallery/1drm0de">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1drm0de/nonfunctional_movie_prop_m41a_pulse_rifle/">[comments]</a></span> </td></tr></table>
+
+## NOOO
+ - [https://www.reddit.com/r/3Dprinting/comments/1drlbew/nooo](https://www.reddit.com/r/3Dprinting/comments/1drlbew/nooo)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-06-29T21:18:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1drlbew/nooo/"> <img alt="NOOO " src="https://preview.redd.it/3y0ym8gxuk9d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6ed49b7d7bff480c84763711ac66667311799f4" title="NOOO " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/000010000010"> /u/000010000010 </a> <br /> <span><a href="https://i.redd.it/3y0ym8gxuk9d1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1drlbew/nooo/">[comments]</a></span> </td></tr></table>
 
 ## Yet another allen key T-handle
  - [https://www.reddit.com/r/3Dprinting/comments/1drkzy0/yet_another_allen_key_thandle](https://www.reddit.com/r/3Dprinting/comments/1drkzy0/yet_another_allen_key_thandle)
@@ -41,6 +62,13 @@
  - date published: 2024-06-29T19:56:15+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1drjjui/full_size_zombie_ironman_helmet/"> <img alt="Full size zombie Ironman helmet" src="https://b.thumbs.redditmedia.com/i18TOZgQo2NLsJfNlzUNLffVEiYPrzcsUlViOtRXwGE.jpg" title="Full size zombie Ironman helmet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MagykToast"> /u/MagykToast </a> <br /> <span><a href="https://www.reddit.com/gallery/1drjjui">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1drjjui/full_size_zombie_ironman_helmet/">[comments]</a></span> </td></tr></table>
+
+## Print and paint
+ - [https://www.reddit.com/r/3Dprinting/comments/1drjblu/print_and_paint](https://www.reddit.com/r/3Dprinting/comments/1drjblu/print_and_paint)
+ - RSS feed: https://www.reddit.com/r/3Dprinting/.rss
+ - date published: 2024-06-29T19:45:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1drjblu/print_and_paint/"> <img alt="Print and paint" src="https://preview.redd.it/1tzlvv5cek9d1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df9f724e18f5263219e4082a8ec2b43ae28356d9" title="Print and paint" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Another day spent painting!! Becoming addicted to this! Couple weeks in and I can’t stop. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jackb_1991"> /u/jackb_1991 </a> <br /> <span><a href="https://i.redd.it/1tzlvv5cek9d1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1drjblu/print_and_paint/">[comments]</a></span> </td></tr></table>
 
 ## Decided the pans were taking too much room in the cabinets
  - [https://www.reddit.com/r/3Dprinting/comments/1drj2qu/decided_the_pans_were_taking_too_much_room_in_the](https://www.reddit.com/r/3Dprinting/comments/1drj2qu/decided_the_pans_were_taking_too_much_room_in_the)

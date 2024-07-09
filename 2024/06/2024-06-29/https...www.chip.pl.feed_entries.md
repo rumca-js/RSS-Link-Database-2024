@@ -64,6 +64,14 @@
 <img alt="" class="attachment-full size-full wp-post-image" height="776" src="https://konto.chip.pl/wp-content/uploads/2024/06/cygnus-x3.jpg" style="margin-bottom: 10px;" width="1600" /><p><img src="https://konto.chip.pl/wp-content/uploads/2024/06/cygnus-x3.jpg" style="display: block; margin: 1em auto;" /></p>
 <p>Cygnus X-3 to z pewnością jeden z tych astronomicznych celów, które wzbudzają wielkie emocje w świecie nauki. Pomimo relatywnie niewielkich rozmiarów ma on niezwykle wysoką jasność.&#160; Znany badaczom od 1966 roku, Cygnus X-3 jest jednym z tzw. mikrokwazarów. Obiekt ten znajduje się w naszej własnej galaktyce i tworzy część gwiazdozbioru Łabędzia, dlatego stanowi wielkie wyzwanie [&#8230;]</p>
 
+## TP-Link Deco XE75 Pro – czy warto zainwestować w trójpasmowy system mesh Wi-Fi 6E?
+ - [https://www.chip.pl/2024/06/tp-link-deco-xe75-pro-test-recenzja-opinia](https://www.chip.pl/2024/06/tp-link-deco-xe75-pro-test-recenzja-opinia)
+ - RSS feed: https://www.chip.pl/feed
+ - date published: 2024-06-29T14:00:00+00:00
+
+<img alt="" class="attachment-full size-full wp-post-image" height="1707" src="https://konto.chip.pl/wp-content/uploads/2024/06/TP-Link-Deco-XE75-Pro-005.jpg" style="margin-bottom: 10px;" width="2560" /><p><img src="https://konto.chip.pl/wp-content/uploads/2024/06/TP-Link-Deco-XE75-Pro-005.jpg" style="display: block; margin: 1em auto;" /></p>
+<p>TP-Link Deco XE75 Pro to trójpasmowy system mesh typu Wi-Fi 6E. Sieci tego typu powstały, by w łatwy sposób zapewnić pokrycie zasięgiem Wi-Di większe obszary. Kilka współpracujących ze sobą równorzędnych stacji bazowych – satelitów, dzięki specjalnym protokołom przekazywania urządzeń jest w stanie działać sprawniej niż pojedynczy router / punkt dostępowy o dużej mocy, a gdyby [&#8230;]</p>
+
 ## Ukraina przekroczyła technologiczną granicę. Teraz już za późno na odwrót
  - [https://www.chip.pl/2024/06/ukraina-wojna-drony-sztuczna-inteligencja](https://www.chip.pl/2024/06/ukraina-wojna-drony-sztuczna-inteligencja)
  - RSS feed: https://www.chip.pl/feed

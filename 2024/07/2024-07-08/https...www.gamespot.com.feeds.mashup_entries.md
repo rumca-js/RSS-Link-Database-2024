@@ -1,0 +1,226 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Super Mario Bros. Wonder Drops To Best Price Yet
+ - [https://www.gamespot.com/articles/super-mario-bros-wonder-prime-day-deal/1100-6522041/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/super-mario-bros-wonder-prime-day-deal/1100-6522041/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T22:26:00+00:00
+
+<p>Super Mario Bros. Wonder has received a few discounts since launching last holiday, but Walmart's current deal is the best yet. Until July 11, or when it sells out, <strong><a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSuper-Mario-Bros-Wonder-Nintendo-Switch-U-S-Edition%2F2290023466&amp;subId1=--&amp;p=http://www.gamespot.com/feeds/mashup/?platform=1028&amp;popup=1&amp;event_type=click">Super Mario Bros. Wonder is on sale for $45 (was $60)</a></strong>. The deal is part of <a href="https://www.gamespot.com/gallery/walmart-deals-prime-day-2024/2900-5577/">Walmart's massive new sales event</a> that's running this week ahead of Amazon's annual <a href="https://www.gamespot.com/amazon-prime-day-deals/">Prime Day</a> sale. The stellar Mario platformer is just one of the Nintendo Switch games you can get for a great price right now.</p><d
+
+## What's Next After A 20-Year-Old RPG Series Ends? Ys And Trails Director Toshihiro Kondo Talks Falcom's Future
+ - [https://www.gamespot.com/articles/whats-next-after-a-20-year-old-rpg-series-ends-ys-and-trails-director-toshihiro-kondo-talks-falcoms-future/1100-6524780/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/whats-next-after-a-20-year-old-rpg-series-ends-ys-and-trails-director-toshihiro-kondo-talks-falcoms-future/1100-6524780/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T21:24:00+00:00
+
+<p>As a long-time fan of linear, turn-based RPGs, I've spent my fair share of time lamenting the fact that the Golden Age of this genre--which I'd define as the '90s through early 2000s--is well behind us. However, after years of both the genre and the gaming industry as a whole evolving and expanding, time has finally come to admit it: There's never been a better time to be a fan of JRPGs. Between the influx of remakes, remasters, and spiritual successors, and the plethora of new titles from both indie and larger-scale studios, the hardest part of being a fan nowadays is simply finding the time to play them all.</p><p dir="ltr">Toshihiro Kondo, the president of Nihon Falcom and one of the key developers behind the Ys and Trails series, feels similarly. The term JRPGs was previously used somewhat degradingly in Western countries, and those who played them were smaller in number and a bit more isolated from the rest of the gaming community at large. Kondo is one of the developers who i
+
+## Super Mario Party Joy-Con Bundle Is Cheaper Than The Controllers By Themselves
+ - [https://www.gamespot.com/articles/super-mario-party-joy-con-bundle-is-cheaper-than-the-controllers-by-themselves/1100-6518931/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/super-mario-party-joy-con-bundle-is-cheaper-than-the-controllers-by-themselves/1100-6518931/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T21:12:00+00:00
+
+<div class="norewrite" title="6518931 - Super Mario Party Joy-Con Bundle">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4219126-supermariopartyjoy-conmodule.png" />                                 <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/seort/5216937998&amp;subId1=subid_value&amp;p=http://www.gamespot.com/feeds/news/&amp;event_type=click"></a>                              </div>                   <div class="buylink__text">   
+
+## This Is The Best Nintendo Switch Lite Deal We've Ever Seen
+ - [https://www.gamespot.com/articles/this-is-the-best-nintendo-switch-lite-deal-weve-ever-seen/1100-6522718/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/this-is-the-best-nintendo-switch-lite-deal-weve-ever-seen/1100-6522718/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T21:02:00+00:00
+
+<div class="norewrite" title="6522718 - Switch Lite Deal Walmart">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4289129-switchliteanimalcrossing.png" />                                 <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/seort/3162541096&amp;subId1=subid_value&amp;p=http://www.gamespot.com/feeds/news/&amp;event_type=click"></a>                              </div>                   <div class="buylink__text">               
+
+## Huge Walmart Sale Features Incredible Gaming Deals Ahead Of Prime Day
+ - [https://www.gamespot.com/gallery/walmart-deals-prime-day-2024/2900-5577](https://www.gamespot.com/gallery/walmart-deals-prime-day-2024/2900-5577)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T21:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1595/15950357/4329986-walmartthumb.jpg" /><br /><h3><p>Walmart is running a massive sale to compete with <a href="https://www.gamespot.com/amazon-prime-day-deals/">Prime Day 2024</a>, offering a variety of products for some of the lowest prices of the year. A handful of gadgets are also seeing their first notable discount--including a $25 discount on the <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/Sony-PS5-DualSense-Edge-Wireless-Controller/1707140316&amp;subId1=subid_value&amp;p=http://www.gamespot.com/feeds/mashup&amp;event_type=click">DualSense Edge</a> and a $71 price cut on the <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/Meta-Quest-3-128G
+
+## Meta Quest 3 VR Headset Is On Sale For Its Best Price Yet At Walmart
+ - [https://www.gamespot.com/articles/meta-quest-3-vr-headset-is-on-sale-for-its-best-price-yet-at-walmart/1100-6524762/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/meta-quest-3-vr-headset-is-on-sale-for-its-best-price-yet-at-walmart/1100-6524762/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T21:00:00+00:00
+
+<p>Since its release last fall, the Meta Quest 3 has largely held its $500 price point, but you can finally get a substantial discount on the impressive wireless headset. As part of <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/shop/deals&amp;subId1=subid_value&amp;p=http://www.gamespot.com/feeds/news/&amp;event_type=click">Walmart's big sales event</a> running this week ahead of <a href="https://www.gamespot.com/amazon-prime-day-deals/">Amazon Prime Day</a>, the <strong><a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/Meta-Quest-3-128GB-Breakthrough-Mixed-Reality-Powerful-Performance-Asgard-s-Wrath-2-Bundle/2212742363?athbdg=L2000&amp;subId1=s&amp;p=http://www.gamespot.com/feeds/news/&amp;event_type=click">128G
+
+## PS5 DualSense Edge Controller Gets First Major Discount Ahead Of Prime Day
+ - [https://www.gamespot.com/articles/dualsense-edge-ps5-controller-deal-walmart-prime-day-2024/1100-6524765/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dualsense-edge-ps5-controller-deal-walmart-prime-day-2024/1100-6524765/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T21:00:00+00:00
+
+<p>The <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/Sony-PS5-DualSense-Edge-Wireless-Controller/1707140316&amp;subId1=subid_value&amp;p=http://www.gamespot.com/feeds/mashup/&amp;event_type=click">DualSense Edge is on sale for $175 at Walmart</a> as part of the <a href="https://www.gamespot.com/gallery/walmart-deals-prime-day-2024/2900-5577/">retailer's massive deals event</a> that's running through July 11. The premium PS5 controller released earlier this year with a retail price of $200. Unsurprisingly, we hadn't seen <em>any </em>notable discounts at major retailers until now. We wouldn't be surprised if this deal sells out before the end of the day, especially since <a href="https://www.gamespot.com/articles/walmart-membership-is-50-off-during-walmarts-biggest-sale-of-the-year/1100-6524759/">Walmart+ subscribers</a> were able to purchase it 
+
+## How A New PvP Horror Game Plans To Prevent Players From Being Jerks
+ - [https://www.gamespot.com/articles/how-a-new-pvp-horror-game-plans-to-prevent-players-from-being-jerks/1100-6524781/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-a-new-pvp-horror-game-plans-to-prevent-players-from-being-jerks/1100-6524781/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T20:44:00+00:00
+
+<p dir="ltr">The asymmetrical horror genre has exploded in recent years. Formerly a space inhabited by <a href="https://www.gamespot.com/games/dead-by-daylight/">Dead By Daylight</a> (DBD) almost exclusively, it now includes several major counterparts, such as <a href="https://www.gamespot.com/games/the-texas-chain-saw-massacre/">The Texas Chain Saw Massacre</a>, <a href="https://www.gamespot.com/games/killer-klowns-from-outer-space-the-game/">Killer Klowns From Outer Space</a>, and <a href="https://www.gamespot.com/games/hunt-showdown/">Hunt: Showdown</a>. Go a level deeper, and many horror-adjacent games, like <a href="https://www.gamespot.com/games/predator-hunting-grounds/">Predator: Hunting Grounds</a> and <a href="https://www.gamespot.com/games/ghostbusters-spirits-unleashed/">Ghostbusters: Spirits Unleashed</a>, capture similar gameplay mechanics in less spooky settings. The genre is old enough now that a number of competitors have come and gone already, such as <a href="https:
+
+## There Is A New Way To Play Xbox Game Pass Games Today, No Console Required
+ - [https://www.gamespot.com/articles/there-is-a-new-way-to-play-xbox-game-pass-games-today-no-console-required/1100-6524775/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/there-is-a-new-way-to-play-xbox-game-pass-games-today-no-console-required/1100-6524775/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T20:31:00+00:00
+
+<p>Back in June, Microsoft <a href="https://www.gamespot.com/articles/xbox-cloud-gaming-is-coming-to-amazon-tvs/1100-6524554/">announced a deal with Amazon</a> to bring Xbox Cloud Gaming to Fire TV devices, and today, July 8, that functionality has gone live. What this means is the Xbox experience is now available in yet another place, and people do not need to buy an Xbox console to play.</p><p>As a <a href="https://www.xbox.com/en-US/">takeover ad on the Xbox website</a> reminds us, anyone with an Amazon Fire TV stick can now play games from within the Game Pass catalog. Beyond a Fire TV stick, you'll need some kind of controller. Xbox controllers are supported, of course, but a PlayStation controller works as well (<a href="https://support.xbox.com/en-US/help/games-apps/cloud-gaming/connect-controller-smart-tv">here is the full list of supported controllers</a>).</p><p>You'll need to be a subscriber to Xbox Game Pass Ultimate to get access to cloud gaming as well, and of course, yo
+
+## Top 20 Best-Selling Games For May 2024 In The US
+ - [https://www.gamespot.com/gallery/top-20-best-selling-games-for-may-2024-in-the-us/2900-5578](https://www.gamespot.com/gallery/top-20-best-selling-games-for-may-2024-in-the-us/2900-5578)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T20:06:00+00:00
+
+<p><h2>May's Top Games</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1752/17528202/4329955-gotthumb.jpg" /><br /><h3><p dir="ltr">Market research firm Circana has released its latest monthly report, offering insight into the state of games-based consumerism in the US. Circana's most recent report reveals the top 20 best-selling video games in the US between the dates of May 5 and June 1, 2024, with 2020's <a href="https://www.gamespot.com/games/ghost-of-tsushima/">Ghost Of Tsushima</a> taking the #1 spot. It was ranked at #71 on the best-selling games list in April, so the game has made quite a jump--no doubt a result of <a href="https://www.gamespot.com/articles/ghost-of-tsushima-pc-and-cross-play-requirements-revealed/1100-6522710/">its Steam release</a> on May 16.</p><p dir="ltr">In second place is 2004's <a href="https://www.gamespot.com/games/paper-mario-the-thousand-year-door-2004/">Paper Mario: The Thousand-Year Door</a>, which didn't appear on April's list at al
+
+## Lego's Gorgeous Starry Night Wall Art Build Is On Sale For An Awesome Price
+ - [https://www.gamespot.com/articles/legos-gorgeous-starry-night-wall-art-build-is-on-sale-for-an-awesome-price/1100-6521901/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/legos-gorgeous-starry-night-wall-art-build-is-on-sale-for-an-awesome-price/1100-6521901/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T20:05:00+00:00
+
+<p>Sure, you could add some culture to your home with a replica print of one of the most iconic works of art, or you can do that <em>and </em>have fun with a Lego version of a couple of famous paintings. <a href="https://www.amazon.com/dp/B09SM828FD?tag=gamespot-primeday-20">Lego Ideas Starry Night</a>, which is based on Vincent Van Gogh's famous painting, is on sale for $136 (was $170) at <a href="https://www.amazon.com/dp/B09SM828FD?tag=gamespot-primeday-20">Amazon</a> and <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/LEGO-Ideas-Vincent-Van-Gogh-The-Starry-Night-Unique-3D-Wall-Art-Home-D-cor-Table-Display-Artist-Minifigure-Creative-Building-Craft-Adults-Graduation/388198360&amp;subId1=subid_value&amp;p=http://www.gamespot.com/feeds/news/&amp;event_type=click">Walmart</a> ahead of <a href="https://www.gamespot.com/amazon-prime-day-deals/">Prime
+
+## How To Make Paper In Minecraft
+ - [https://www.gamespot.com/articles/how-to-make-paper-in-minecraft/1100-6524778/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-make-paper-in-minecraft/1100-6524778/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T19:20:00+00:00
+
+<p>Paper is one of the most useful materials you can acquire in <a href="https://www.gamespot.com/games/minecraft/">Minecraft</a>, as it's a key resource in several high-profile recipes. If you want to enchant a weapon or item, create a map, or use a firework, you need plenty of paper. However, acquiring paper can be a confusing process, so check out the guide below to see how it's made in Minecraft.</p><h2>Getting Paper in Minecraft</h2><p>Fortunately, the process of getting paper is extremely simple once you know what materials you need and where they are located. Paper is made from Sugar Cane, a naturally occurring resource in Minecraft that's only found by water. More specifically, Sugar Cane can only grow on a block that's touching a water source directly. It's a bright-green, stalky plant that's difficult to miss once you know what it looks like (as seen below).</p><figure style="width: 2560px;"><a href="https://www.gamespot.com/a/uploads/original/1745/17457013/4329938-minecraft
+
+## Walmart+ Membership Is 50% Off During Walmart's Biggest Sale Of The Year
+ - [https://www.gamespot.com/articles/walmart-membership-is-50-off-during-walmarts-biggest-sale-of-the-year/1100-6524759/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/walmart-membership-is-50-off-during-walmarts-biggest-sale-of-the-year/1100-6524759/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T18:19:00+00:00
+
+<p>Next week marks the return of <a href="https://www.gamespot.com/amazon-prime-day-deals/">Prime Day</a>, but Walmart is kicking things off early with its <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/shop/deals?athAsset=eyJhdGhjcGlkIjoiYTY4NmM3ZmUtMjMwNS00YTcxLWEzNjgtN2U3ZDMzYjBjZTI4IiwiYXRoc3RpZCI6IkNTMTAwfkNTMTAwfkNTMDQxIiwiYXRodHZpZCI6IjEifQ==&amp;athena=true&amp;subId1=subid_value&amp;p=http://www.gamespot.com/feeds/mashup/?type=12&amp;platform=5&amp;event_type=click">own site-wide sale</a> that is offering some excellent discounts. Though everyone will be able to shop the deals starting today, July 8, at 2 PM PT / 5 PM ET, the sale is exclusive to Walmart+ subscribers until then. Normally $99 for a one-year membership, <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;s
+
+## Stardew Valley: How To Catch Sturgeon
+ - [https://www.gamespot.com/articles/stardew-valley-how-to-catch-sturgeon/1100-6524767/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/stardew-valley-how-to-catch-sturgeon/1100-6524767/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T18:17:00+00:00
+
+<p>Fishing is one of the five main skills in <a href="https://www.gamespot.com/games/stardew-valley/">Stardew Valley</a>, making it a major and important part of running your own farm. There are plenty of different fish to catch, including the <strong>Sturgeon</strong>, one of the rarer lake fish you can catch. The sturgeon is necessary for completing one of the Fish Tank bundles in the Community Center and is worth a decent amount of money.</p><h2 dir="ltr">How to catch sturgeon</h2><figure style="width: 1920px;"><a href="https://www.gamespot.com/a/uploads/original/1599/15997278/4329853-sturgeon.jpg"><img alt="Sturgeon are caught from the Mountain Lake during Summer and Winter." src="https://www.gamespot.com/a/uploads/scale_super/1599/15997278/4329853-sturgeon.jpg" /></a><figcaption>Sturgeon are caught from the Mountain Lake during Summer and Winter.</figcaption></figure><p><strong>Sturgeon are found in the Mountain Lake from 6 AM to 7 PM, only during Summer and Winter.</strong> The 
+
+## House Of The Dragon's Epic Targaryen Civil War Battle Changes The Game For Rhaenyra
+ - [https://www.gamespot.com/articles/house-of-the-dragons-epic-targaryen-civil-war-battle-changes-the-game-for-rhaenyra/1100-6524766/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/house-of-the-dragons-epic-targaryen-civil-war-battle-changes-the-game-for-rhaenyra/1100-6524766/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T18:09:00+00:00
+
+<p dir="ltr">There are a lot of politics in <a href="https://www.gamespot.com/reviews/house-of-the-dragon-season-2-review-better-shape-with-room-to-grow/1900-6418238/">House of the Dragon</a>, but until <a href="https://www.gamespot.com/articles/house-of-the-dragon-season-2-premiere-breakdown-reveals-return-to-familiar-places/1100-6524311/">Season 2</a>, the two sides have been very clear. There's Rhaenyra (Emma D'Arcy), Vicerys' (Paddie Considine) eldest child and the named heir to the Iron Throne on one side, and then there's Aegon (Tom Glynn-Carney), Vicerys' eldest son who usurped the throne after Vicerys' death in Season 1 on the other. Rhaenyra supporters are labeled as "Team Black" while the Aegon fans fall under "Team Green."</p><p dir="ltr">Up until now, the narrative was a choice between the rightful heir and the political maneuvering of Team Green. Rhaenyra and Alicent have been struggling to prevent an all-out war, but everything changed in Episode 4. The first battles of 
+
+## How To Breed Horses In Minecraft
+ - [https://www.gamespot.com/articles/how-to-breed-horses-in-minecraft/1100-6524773/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-breed-horses-in-minecraft/1100-6524773/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T17:58:00+00:00
+
+<p>Horses make for one of the best mounts in all of <a href="https://www.gamespot.com/games/minecraft/">Minecraft</a>, especially when they have a <a href="https://www.gamespot.com/articles/how-to-get-a-saddle-in-minecraft/1100-6524656/">saddle</a>. However, not all horses are created equal, so if you're looking for one that has superior speed, jump, or health stats, you could be searching all over the map for different horses. Or, you could simply breed horses to make a foal (baby horse) and speed up the process of finding the perfect horse in Minecraft. Below, you can see exactly how to breed horses.</p><h2>How to breed horses in Minecraft</h2><p>Before you can even think about breeding a horse, you need to have two tamed horses of your own. For the most part, <strong>horses are primarily located in the Savana or Plains <a href="https://www.gamespot.com/articles/minecraft-biomes-guide-what-makes-each-biome-special/1100-6495691/">biomes</a></strong><a href="https://www.gamespot.com/a
+
+## Gladiator 2 Poster Takes Us Back To The Arena; First Trailer Tomorrow
+ - [https://www.gamespot.com/articles/gladiator-2-poster-takes-us-back-to-the-arena-first-trailer-tomorrow/1100-6524764/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/gladiator-2-poster-takes-us-back-to-the-arena-first-trailer-tomorrow/1100-6524764/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T17:00:00+00:00
+
+<p>Fans who have been waiting for a look at the sequel to 2000's Gladiator will finally get their chance tomorrow, when the trailer officially premieres. It's been almost two and a half decades since Ridley Scott released the sand-and-sandals epic, Gladiator, which took home five Oscars including Best Picture and Best Actor for Russell Crowe. In anticipation of the trailer, Paramount debuted the first teaser poster. </p><figure style="width: 878px;"><a href="https://www.gamespot.com/a/uploads/original/1597/15976769/4329845-g2_dom_online_teaser_1-sheet_07_fin4.jpg"><img alt="No Caption Provided" src="https://www.gamespot.com/a/uploads/scale_super/1597/15976769/4329845-g2_dom_online_teaser_1-sheet_07_fin4.jpg" /></a></figure><p> </p><p>While Maximus' story ended in Gladiator, it's now his Commodus' nephew Lucius (this time around played by Paul Mescal) to take to the arena against the Roman general Marcus Acacius (Pedro Pascal). Years later, we find the former emperor-to-be Lucius livin
+
+## Elden Ring Climbed The Most-Played Game Charts The Last Week Of June
+ - [https://www.gamespot.com/gallery/elden-ring-climbed-the-most-played-game-charts-the-last-week-of-june/2900-5573](https://www.gamespot.com/gallery/elden-ring-climbed-the-most-played-game-charts-the-last-week-of-june/2900-5573)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T16:42:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1690/16904437/4329802-eldenring%281%29.jpg" /><br /><h3><p>Data analysis and research firm Cyrena has once again posted the top ten most played games across Steam, PS5, and Xbox Series X|S. This time the data is from the week ending June 29, nearly wrapping up the first summer month. Executive director and video game industry advisor Mat Piscatella posted the charts on <a href="https://x.com/matpiscatella/status/1810314939514618267?t=gp9HY1NQP1eeZxZoq0Xxsw">Twitter/X</a>.</p><p>Elden Ring is still ascendent, jumping up two spots to 6th place on PlayStation and three spots to 7th place on Xbox. It remains on the top spot on Steam. The usually stagnant top of the charts saw one minor shake-up this week. On Xbox Series X|S, Fortnite took the top spot from Call Of Duty, though the military shooter still holds #1 position on PlayStation. Steam had the most dramatic changes, as 7 Days to Die jumped up from the 52rd spot to 9th plac
+
+## Why Did Madame Web Flop? Emma Roberts Blames "Internet Culture" And Memes
+ - [https://www.gamespot.com/articles/why-did-madame-web-flop-emma-roberts-blames-internet-culture-and-memes/1100-6524752/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/why-did-madame-web-flop-emma-roberts-blames-internet-culture-and-memes/1100-6524752/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T16:25:00+00:00
+
+<p>It's no secret that Sony's Madame Web <a href="https://www.gamespot.com/articles/dakota-johnson-reacts-to-madame-web-flop-and-filmmaking-by-committee/1100-6521601/">flopped</a> at the box office earlier this year, and not only was the movie a commercial disappointment, reviews were generally not kind to the film. Emma Roberts, who played Mary Parker in the film, has now responded to the movie flopping, saying the reception might have been different if it weren't for "internet culture."</p><p>"I personally really loved Madame Web. I really enjoyed the movie," she told <a href="https://variety.com/2024/film/columns/emma-roberts-space-cadet-madame-web-nickelodeon-1236060064/">Variety</a>. "I thought everyone in it was great. The director, S.J. Clarkson, I think did an amazing job. She's the reason I wanted to do that movie. If it wasn't for internet culture and everything being made into a joke, I think that the reception would've been different. And that's what bums me out about a lo
+
+## Dr Disrespect Cosmetics Pulled From Free-To-Play Shooter Following Allegations
+ - [https://www.gamespot.com/articles/dr-disrespect-cosmetics-pulled-from-free-to-play-shooter-following-allegations/1100-6524758/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dr-disrespect-cosmetics-pulled-from-free-to-play-shooter-following-allegations/1100-6524758/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T16:10:00+00:00
+
+<p><a href="https://www.gamespot.com/games/rogue-company/">Rogue Company</a>, a free-to-play hero shooter from Smite and Paladins publisher Hi-Rez Studios, is removing its $20 Dr Disrespect skin from sale and refunding players who may have purchased it in the wake of allegations regarding the streamer having sent "inappropriate" messages to a minor in 2017.</p><p dir="ltr">In a statement posted by the official <a href="https://x.com/RogueCompany/status/1810028535882342577">Rogue Company X account</a>, players were informed the skin had been disabled and refunds (in the form of Rogue Bucks) would be rolling out later this week for those who may have purchased the Dr Disrespect content.</p><div>          </div><p dir="ltr">Dr Disrespect was heavily involved in the promotion of Rogue Company, and even collaborated on a map for the game in 2020 called The Arena alongside the debut of the game's official Dr Disrespect skin. It's currently unclear if the Dr Disrepect map, which heavily feat
+
+## Xbox Wireless Controllers Are Steeply Discounted Ahead Of Prime Day - Grab One For $35
+ - [https://www.gamespot.com/gallery/prime-day-xbox-controller-deals/2900-5572](https://www.gamespot.com/gallery/prime-day-xbox-controller-deals/2900-5572)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T16:08:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1702/17023653/4329749-mixcollage-08-jul-2024-08-40-am-2787.jpg" /><br /><h3><p>We're expecting huge <strong>Xbox controller Prime Day deals</strong> on July 16-17, but many retailers are already slashing prices ahead of the shopping holiday. Specifically, Target and Walmart are dropping prices on a wide range of Xbox controllers--and even Amazon is offering nice discounts leading up to <a href="https://www.gamespot.com/amazon-prime-day-deals/">Prime Day</a>.</p><p>One of the most notable discounts is for the <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/p/xbox-series-x-s-wireless-controller/-/A-81874852?preselect=82101454&amp;p=http://www.gamespot.com/gallery/prime-day-xbox-controller-deals/2900-5572/&amp;event_type=click">Xbox Core Wireless Controller (Pulse Red)</a>, which is just $34.49 (down from $65). That's a r
+
+## Agatha All Along Gets Mysterious And Scary First Trailer
+ - [https://www.gamespot.com/articles/agatha-all-along-gets-mysterious-and-scary-first-trailer/1100-6524757/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/agatha-all-along-gets-mysterious-and-scary-first-trailer/1100-6524757/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T16:06:00+00:00
+
+<p>Marvel has released the first trailer for Agatha All Along, and it's a real trip. The trailer is best seen without any further explanation because it takes a number of twists and turns.</p><p>Like WandaVision before it, it seems Agatha All Along--which stars Kathryn Hahn as the title character--has many mysteries that will unravel as the show unfolds. The trailer also shows off some genuinely scary sequences. Take a look:</p><div>          </div><p>Agatha is joined by Lilia (Patti LuPone), Jennifer (Sasheer Zamata), Sharon (Debra Jo Rupp, who previously appeared in WandaVision), and Alice (Ali Ahn). "What they have in common is that they're covenless witches," series creator Jac Schaeffer told <a href="https://www.empireonline.com/tv/news/agatha-all-along-mcu-villain-gather-covenless-witches-exclusive/">Empire</a>. "Witches are defined by deception, treachery, villainy, and selfishness. What do you do when you have a group of witches who [demonstrate] those notions and you need the
+
+## Apex Legends Will Now Have Two Battle Passes Per Season, Says Respawn
+ - [https://www.gamespot.com/articles/apex-legends-will-now-have-two-battle-passes-per-season-says-respawn/1100-6524756/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/apex-legends-will-now-have-two-battle-passes-per-season-says-respawn/1100-6524756/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T15:36:00+00:00
+
+<p><a href="https://www.gamespot.com/games/apex-legends/">Apex Legends</a>' seasonal battle pass is undergoing a major rework prior to Season 22's launch. In fact, it's not fully accurate to call it one single battle pass, as Respawn has just announced that starting next season, every season will include two battle passes: one that becomes available upon the season's launch, and one that becomes available during the middle of the season, at the same time as the seasonal Ranked Mode split.</p><p dir="ltr">The announcement was made via a post on the official Apex Legends Twitter account, and was accompanied by an infographic explaining the multitude of changes to the game's long-standing battle pass system.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Starting with Season 22, we’re evolving the Apex Legends Battle Pass to improve your experience and progression goals.<br />Read on to learn everything to know about the upcoming changes or check out the infographi
+
+## 2K Is Reportedly Remaking A Game, And Fans Are Filling In The Blanks
+ - [https://www.gamespot.com/articles/2k-is-reportedly-remaking-a-game-and-fans-are-filling-in-the-blanks/1100-6524755/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/2k-is-reportedly-remaking-a-game-and-fans-are-filling-in-the-blanks/1100-6524755/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T15:33:00+00:00
+
+<p>It looks like 2K is remaking one of its games, but we don't know any more details about what the game could possibly be. <a href="https://www.reddit.com/r/PS5/comments/1dxep09/report_2k_working_on_unannounced_remake/">Fans are taking guesses</a> at what they want to see, with names like BioShock, The Darkness, and Spec Ops: The Line popping up.</p><p>According to the LinkedIn page of a 2K 3D artist (found by <a href="https://mp1st.com/news/report-2k-working-on-unannounced-remake">MP1st</a>), 2K is working on an upcoming unannounced remake. However, the mention of the remake has since been removed, as well as any mention of a canceled project by Supermassive Games, called "Erebus." Some other projects that are listed in the profile are upcoming Mafia and BioShock games.</p><p>One possible remake candidate is the first BioShock, as that could drive future interest in the upcoming BioShock game. The first two BioShock games did get remasters for PS4 and Xbox One, but BioShock Infinite
+
+## Aisha Tyler Will FIGHT YOU For Halo's Gravity Hammer | Star Players
+ - [https://www.gamespot.com/videos/aisha-tyler-will-fight-you-for-halos-gravity-hammer-star-players/2300-6464545](https://www.gamespot.com/videos/aisha-tyler-will-fight-you-for-halos-gravity-hammer-star-players/2300-6464545)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T15:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4329226-sit.jpg" width="480" /> In this week's episode of Star Players, Aisha Tyler talks about her favorite games, from the Halo franchise to Fallout 3, and breaks down why we're in a golden age of video game TV adaptations.
+
+## F1 Trailer Shows Brad Pitt Doing Something That's Never Been Done Before
+ - [https://www.gamespot.com/articles/f1-trailer-shows-brad-pitt-doing-something-thats-never-been-done-before/1100-6524754/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/f1-trailer-shows-brad-pitt-doing-something-thats-never-been-done-before/1100-6524754/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T14:50:00+00:00
+
+<p>Brad Pitt is heading to the raceway if F1, the new movie from Top Gun: Maverick director Joseph Kosinski. Pitt stars as a former driver who returns to Formula 1 in the movie, alongside Damson Idris as his teammate at the fictional APXGP team. Producer Jerry Bruckheimer confirmed that the movie will feature real F1 drivers and incorporate real events from F1 races. Pitt, age 60, would be the oldest racer in F1 history to start a race, just five years older than the actual oldest racer <a href="https://www.formula1.com/en/latest/article/in-numbers-f1s-oldest-drivers-and-grand-prix-winners-as-alonso-races-through.3peCnPp4M7qZS4lMjRUySH">Louis Chiron</a>.</p><p>The first trailer for F1 sets the stage for this world--and Pitt as our hero, Sonny Hayes. We actually see him (and others) racing F1 cars to the sound of Queen's "We Will Rock You." Check it out below.</p><div>          </div><p>The film is made in partnership with Formula 1 and its 10 teams, which meant unrestricted access to 
+
+## Bleach: Thousand-Year Blood War Part 3 Unsheathes An October Release Date In New Trailer
+ - [https://www.gamespot.com/articles/bleach-thousand-year-blood-war-part-3-unsheathes-an-october-release-date-in-new-trailer/1100-6524747/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/bleach-thousand-year-blood-war-part-3-unsheathes-an-october-release-date-in-new-trailer/1100-6524747/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T14:28:00+00:00
+
+<p>An October release date for Bleach: The Thousand-Year Blood War Part 3 - The Conflict was revealed alongside a new trailer during Anime Expo on the weekend. While the trailer is mostly a montage of Soul Society's captains unleashing their Bankai abilities, there was a brief teaser of the upcoming clash between series protagonist Ichigo Kurosaki and Yhwach before the screen faded to black.</p><div>          </div><p>In a separate video, the production staff behind the next season of Bleach revealed a few more details about the show, including how it will make heavier use of CGI and will also feature new scenes not originally found in the manga source material. The two previous seasons of Bleach also featured additional scenes, and once again, series creator Tite Kubo was involved in the production of this expanded content. One exciting development here is that fans will get to see a captain's Bankai that was never revealed in the manga.</p><div><blockquote align="center" class="twit
+
+## Paramount And Skydance's Merger Is Approved, Here's What It Means
+ - [https://www.gamespot.com/articles/paramount-and-skydances-merger-is-approved-heres-what-it-means/1100-6524746/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/paramount-and-skydances-merger-is-approved-heres-what-it-means/1100-6524746/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T14:05:00+00:00
+
+<p>Paramount and Skydance have jointly announced that after months of negotiations, the two companies now have a merger agreement in place. A deal was almost set in June before Paramount's controlling interest shareholder, Shari Redstone, walked away from the agreement. But now, Redstone has signed off on a new deal that will leave Skydance in control of Paramount's destiny.</p><p>This doesn't mean that Skydance will automatically walk away with Paramount. The agreement gives Paramount 45 days to get a better offer than the $8 billion Skydance is planning to spend including $4.5 billion earmarked for Paramount's public shareholders. As part of the deal, Skydance's David Ellison will become the new chairman and CEO of Paramount. Former NBCUniversal executive Jeff Shell will become Paramount's new President as well.</p><p>In a press release announcing the deal, Skydance promised investors that it will "reposition Paramount to improve profitability, foster stability and independence for 
+
+## Gladiator 2 -- See The Stunning First Images From Long-Awaited Sequel
+ - [https://www.gamespot.com/gallery/gladiator-2-see-the-stunning-first-images-from-long-awaited-sequel/2900-5571](https://www.gamespot.com/gallery/gladiator-2-see-the-stunning-first-images-from-long-awaited-sequel/2900-5571)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T13:38:00+00:00
+
+<p><h2>Gladiator 2 comes to theaters this November</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4329707-gl2_00765r2.jpg" /><br /><h3><p>More than two decades after the original Gladiator came to theaters in 2000, Ridley Scott is returning for a sequel. Expectations are high, as the original film won Best Picture and was a smash hit at the box office. It's too soon to say how <a href="https://www.gamespot.com/gallery/gladiator-2-release-date-cast-plot-trailer/2900-5317/">Gladiator II</a> will fare critically and commercially, but if the first images from the film are anything to go on, it appears Gladiator II is embracing a similarly cinematic and stylish approach.</p><p>After releasing the first images exclusively to <a href="https://www.vanityfair.com/hollywood/story/paul-mescal-pedro-pascal-gladiator-ii-first-look">Vanity Fair</a>, Paramount Pictures has now shared a dozen images from the period film with everyone ahead of the film's first trailer debut
+
+## Avatar Producer Jon Landau Dies At 63, James Cameron Offers Heartfelt Tribute
+ - [https://www.gamespot.com/articles/avatar-producer-jon-landau-dies-at-63-james-cameron-offers-heartfelt-tribute/1100-6524745/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/avatar-producer-jon-landau-dies-at-63-james-cameron-offers-heartfelt-tribute/1100-6524745/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T13:28:00+00:00
+
+<p dir="ltr">Jon Landau, who worked with filmmaker James Cameron for over 30 years, has died at the age of 63. The Academy Award-winning producer collaborated with the director on blockbuster movies like Titanic, Avatar, and Avatar: The Way of Water.</p><p dir="ltr">According to <a href="https://www.hollywoodreporter.com/movies/movie-news/jon-landau-dead-titanic-avatar-1235940341/?utm_source=twitter&amp;utm_medium=social">The Hollywood Reporter</a>, Landau had been battling cancer for the past 16 months. The producer died on July 5 in Los Angeles. Cameron said that "a part of myself has been torn away" on the official Avatar account <a href="https://x.com/officialavatar/status/1809766790693626305">on X</a> (formerly known as Twitter) over the weekend.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">“The Avatar family grieves the loss of our friend and leader, Jon Landau. His zany humor, personal magnetism, great generosity of spirit and fierce will have held the 
+
+## John Cena Announces His Retirement From Wrestling In 2025
+ - [https://www.gamespot.com/articles/john-cena-announces-his-retirement-from-wrestling-in-2025/1100-6524744/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/john-cena-announces-his-retirement-from-wrestling-in-2025/1100-6524744/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T13:11:00+00:00
+
+<p>During a surprise appearance at WWE's <a href="https://www.gamespot.com/gallery/wwe-money-in-the-bank-2024-how-to-watch-start-time-match-card/2900-5557/">Money in the Bank</a> live event, John Cena told fans around the world that he plans to retire from professional wrestling in 2025. But not before he goes out on one last run, including an appearance at next year's Wrestlemania.</p><p>Cena debuted in the WWE in 2002, and he worked his way up the ranks before winning his first world title in 2005. He went on to hold the WWE Championship and World Championship belts 16 times, tying the record held by Ric Flair. However, Cena has only appeared sporadically in the ring since 2018, while his career as an actor took off.</p><p>The final run for Cena will begin in January when Monday Night Raw moves from USA to Netflix. Cena also mentioned that he plans to participate in 2025's Royal Rumble and Elimination Chamber. Other WWE events weren't specified by Cena, but he noted that he intends 
+
+## The First Descendant's Latest Patch Stabilizes Servers And Squashes Bugs
+ - [https://www.gamespot.com/articles/the-first-descendants-latest-patch-stabilizes-servers-and-squashes-bugs/1100-6524743/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-first-descendants-latest-patch-stabilizes-servers-and-squashes-bugs/1100-6524743/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-08T12:11:00+00:00
+
+<p dir="ltr"><a href="https://www.gamespot.com/games/the-first-descendant/">The First Descendant</a>'s recent <a href="https://www.gamespot.com/articles/the-first-descendant-server-issues-are-ongoing-amid-its-big-launch/1100-6524692/">server issues</a> have now been addressed thanks to a new patch that resolves those issues, along with tweaking the game's UI, addressing specific bugs, and fine-tuning some aspects of gameplay.</p><p dir="ltr">With the release of hotfix 1.0.1, players should no longer encounter trouble when logging in, nor will they encounter any more hilariously headless fellow players, as the bug causing that issue has been resolved.</p><p dir="ltr">Also included in the new patch is a fix for an equipment error in which the Guided Round of the Restored Relic Ultimate Weapon did not apply the Ancient Fire status effect.</p><a href="https://www.gamespot.com/articles/the-first-descendants-latest-patch-stabilizes-servers-and-squashes-bugs/1100-6524743/?ftag=CAD-01-10abi2f
+

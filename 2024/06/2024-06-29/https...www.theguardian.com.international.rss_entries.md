@@ -1,5 +1,12 @@
 # Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
+## All eyes glued to show: Southgate’s shared agonies have felt vivid and real
+ - [https://www.theguardian.com/football/article/2024/jun/29/gareth-southgate-england-slovakia-football-euro-2024](https://www.theguardian.com/football/article/2024/jun/29/gareth-southgate-england-slovakia-football-euro-2024)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-06-29T22:12:25+00:00
+
+<p>Yes England have played poorly, but talk of a return to the chronic unravellings of the years-of-hurt era is premature</p><p>Say what you like about England’s performances in Germany, nearly five hours of football that have felt like something to be endured grimly, sport reimagined as a kind of punishment beating. Say what you like <a href="https://www.theguardian.com/football/article/2024/jun/27/england-slovakia-upset-euro-2024-last-16">about England’s performances in Germany</a>, which have, at times, reproduced the physical sensation of being stabbed through the eyeballs with a kebab skewer made entirely from boredom. Say what you like, say what you like. But England haven’t been dull.</p><p>Actually, this isn’t true. England have also been dull. A man from Surrey has had to deny falling asleep during the second half against Slovenia – a huge boost, no doubt, for Gareth’s brave lions – after being pictured resting his eyes at the Cologne Stadium. One daily newspaper has launched
+
 ## Little Simz at Glastonbury review – triumphant coronation of a true UK rap great
  - [https://www.theguardian.com/music/article/2024/jun/29/little-simz-at-glastonbury-review-triumphant-coronation-of-a-true-uk-rap-great](https://www.theguardian.com/music/article/2024/jun/29/little-simz-at-glastonbury-review-triumphant-coronation-of-a-true-uk-rap-great)
  - RSS feed: https://www.theguardian.com/international/rss
@@ -13,6 +20,20 @@
  - date published: 2024-06-29T20:00:05+00:00
 
 <p>They withstand ocean storms, extreme heat and may impact everything from coral reefs to the deep sea. Why has it taken so long to pay attention to the neuston?</p><ul><li>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">morning and afternoon news emails</a>, <a href="https://app.adjust.com/w4u7jx3">free app</a> or <a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl">daily news podcast</a></li></ul><p>In the summer months, north-easterly winds frequently herald the arrival of bluebottles on beaches along Australia’s east coast. But while bluebottles – or to give them their more formal name, the Pacific man-of-war – are a common sight on Australian shores, they are not native to coastal waters. Instead, they spend most of their lives on the open ocean, drifting with the winds and the currents.</p><p>Bluebottles are just one of a collection of organisms that have made their home at the ocean’s surface. Some of these animals ar
+
+## ‘We don’t know what’s going on any more’: how Australia lost its rural newspapers
+ - [https://www.theguardian.com/australia-news/article/2024/jun/30/we-dont-know-whats-going-on-any-more-how-australia-lost-its-rural-newspapers](https://www.theguardian.com/australia-news/article/2024/jun/30/we-dont-know-whats-going-on-any-more-how-australia-lost-its-rural-newspapers)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-06-29T20:00:04+00:00
+
+<p>The Country Press Association says up to 50 regional newspapers could close when Facebook funding agreements begin to lapse later this year</p><ul><li><a href="https://www.theguardian.com/australia-news/2021/sep/14/sign-up-for-rural-network-guardian-australia-email-newsletter-about-regional-affairs?CMP=cvau_sfl">Sign up for the Rural Network email newsletter</a></li><li><a href="https://www.facebook.com/groups/guardianaustraliaruralnetwork">Join the Rural Network group on Facebook to be part of the community</a></li></ul><p>James Clark remained staunchly “<a href="https://www.theguardian.com/media/2020/jun/08/duty-bound-to-keep-it-going-the-australian-man-printing-the-last-newspaper-for-500km">duty-bound</a>” to keeping the press alive, even as local newspapers shuttered around him. His was the last newspaper for 500km in outback Queensland.</p><p>But despite that devotion, the struggle to keep local journalism alive became untenable.</p> <a href="https://www.theguardian.com/austra
+
+## Great science, uncomfortable history: Sir Gustav Nossal and the long tail of eugenics
+ - [https://www.theguardian.com/science/article/2024/jun/30/great-science-uncomfortable-history-sir-gustav-nossal-and-the-long-tail-of-eugenics-ntwnfb](https://www.theguardian.com/science/article/2024/jun/30/great-science-uncomfortable-history-sir-gustav-nossal-and-the-long-tail-of-eugenics-ntwnfb)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-06-29T20:00:03+00:00
+
+<p>Book says one of Australia’s most eminent scientists promoted discussion of eugenics in the 1960s and 70s, but not that he supported racist ideas – and researchers praise his thorough commitment to reconciliation and racial justice</p><ul><li>Sign up for <a href="https://www.theguardian.com/australia-news/2021/dec/21/sign-up-for-five-great-reads-guardian-australias-wrap-of-our-best-summer-stories">a weekly email featuring our best reads</a></li></ul><p>A new book about the historic influence of eugenics at the University of Melbourne has shed fresh light on the career of one of Australia’s most decorated scientists, Sir Gustav Nossal.</p><p>Ross Jones, who co-edited <a href="https://www.unimelb.edu.au/dhoombak-goobgoowana">Dhoombak Goobgoowana: A History of Indigenous Australia and the University of Melbourne</a>, writes in the book that the membership of the <a href="https://pursuit.unimelb.edu.au/articles/melbourne-had-no-place-for-the-black-indigenous-population-in-the-white-aus
 
 ## Djokovic the underdog for Wimbledon with Sinner and Alcaraz shining
  - [https://www.theguardian.com/sport/article/2024/jun/29/djokovic-the-underdog-for-wimbledon-with-sinner-and-alcaraz-shining](https://www.theguardian.com/sport/article/2024/jun/29/djokovic-the-underdog-for-wimbledon-with-sinner-and-alcaraz-shining)
@@ -155,6 +176,13 @@
  - date published: 2024-06-29T07:00:45+00:00
 
 <p>It’s got billionaires, world champions and director Ridley Scott on board. But would an athletics competition where taking drugs is encouraged put the honesty back in sport – or cause rifts, risks and addictions?</p><p>It’s summer 2025. A large athletics stadium somewhere in Europe buzzes with crowds of people. Down on the track, eight men line up for the 100m final. Eight men pumped full of performance-enhancing drugs. Up in the control room, director <a href="https://www.theguardian.com/film/ridley-scott">Ridley Scott</a> is asking for closeups on their faces. One of these men is about to obliterate Usain Bolt’s 100m world record, which has stood for over 15 years. Perhaps they all are. It’s certainly possible: just the day before, a host of men ran the marathon in under two hours. The world record for the mile, which has stood for over a quarter of a century, has just been beaten by a guy with bionic implants in his legs. Out in the centre field, a javelin thrower wearing AI gla
+
+## ‘The idea that every Parisian is in a menage a trois is a silly stereotype’: This is how we do it in France
+ - [https://www.theguardian.com/lifeandstyle/article/2024/jun/29/this-is-how-we-do-it-in-france-anita-bo](https://www.theguardian.com/lifeandstyle/article/2024/jun/29/this-is-how-we-do-it-in-france-anita-bo)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2024-06-29T06:00:47+00:00
+
+<p>Anita and Bo live together and are talking about having a baby – but will that mean settling for a more conventional love life?</p><p><em>We invited another couple to join us in bed. It was so clumsy, it felt more funny than erotic</em></p><p><em>I would never mention the foursome to any of my friends</em></p> <a href="https://www.theguardian.com/lifeandstyle/article/2024/jun/29/this-is-how-we-do-it-in-france-anita-bo">Continue reading...</a>
 
 ## Voters in Mauritania’s fledgling democracy head to the polls
  - [https://www.theguardian.com/world/article/2024/jun/29/mauritania-election-mohamed-ould-ghazouani](https://www.theguardian.com/world/article/2024/jun/29/mauritania-election-mohamed-ould-ghazouani)

@@ -1,5 +1,12 @@
 # Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
 
+## Go Forth With This Portable Programmer
+ - [https://hackaday.com/2024/06/29/go-forth-with-this-portable-programmer](https://hackaday.com/2024/06/29/go-forth-with-this-portable-programmer)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-06-29T23:00:01+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="489" src="https://hackaday.com/wp-content/uploads/2024/06/forthdeck-main.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>When choosing a low-level language, it’s hard to beat the efficiency of Forth while also maintaining some amount of readability. There are open source options for the language which makes <a class="read-more" href="https://hackaday.com/2024/06/29/go-forth-with-this-portable-programmer/">&#8230;read more</a>
+
 ## Building a Hydraulic System With 3D Printed SLA Resin Parts
  - [https://hackaday.com/2024/06/29/building-a-hydraulic-system-with-3d-printed-sla-resin-parts](https://hackaday.com/2024/06/29/building-a-hydraulic-system-with-3d-printed-sla-resin-parts)
  - RSS feed: https://hackaday.com/feed

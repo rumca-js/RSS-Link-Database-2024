@@ -1,11 +1,88 @@
 # Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
 
+## Amritpal effect: Poll bug bites another NSA detainee after Bajeke
+ - [https://timesofindia.indiatimes.com/city/chandigarh/another-nsa-detainee-seeks-to-contest-punjab-by-election-following-amritpal-singhs-influence/articleshow/111373197.cms](https://timesofindia.indiatimes.com/city/chandigarh/another-nsa-detainee-seeks-to-contest-punjab-by-election-following-amritpal-singhs-influence/articleshow/111373197.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:57:52+00:00
+
+Kulwant Singh Raoke, linked to Amritpal Singh, eyes Barnala legislator post amidst political shifts in Punjab, following leaders' seat resignations for parliamentary roles.
+
+## In 1st SAD outreach, Sukhbir Singh Badal gets YAD chief’s support
+ - [https://timesofindia.indiatimes.com/city/chandigarh/sukhbir-singh-badal-gets-yad-chiefs-support-in-1st-sad-outreach/articleshow/111373180.cms](https://timesofindia.indiatimes.com/city/chandigarh/sukhbir-singh-badal-gets-yad-chiefs-support-in-1st-sad-outreach/articleshow/111373180.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:55:57+00:00
+
+The party is urged to bring in new faces for representation in electoral politics to rejuvenate and strengthen the party with fresh perspectives and energy.
+
+## Uddhav admitted not understanding budget: Fadnavis
+ - [https://timesofindia.indiatimes.com/city/nagpur/uddhav-had-admitted-about-not-understanding-budget-fadnavis/articleshow/111373146.cms](https://timesofindia.indiatimes.com/city/nagpur/uddhav-had-admitted-about-not-understanding-budget-fadnavis/articleshow/111373146.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:52:03+00:00
+
+
+
+## Wrong diagnosis: Woman with brain tumour given psychiatric treatment
+ - [https://timesofindia.indiatimes.com/city/bengaluru/woman-with-brain-tumour-given-psychiatric-treatment-due-to-wrong-diagnosis/articleshow/111373086.cms](https://timesofindia.indiatimes.com/city/bengaluru/woman-with-brain-tumour-given-psychiatric-treatment-due-to-wrong-diagnosis/articleshow/111373086.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:43:32+00:00
+
+
+
+## Shut your mouths: DKS to Congress workers on Karnataka CM post
+ - [https://timesofindia.indiatimes.com/city/bengaluru/dk-shivakumar-issues-warning-to-party-members-on-leadership-row/articleshow/111373020.cms](https://timesofindia.indiatimes.com/city/bengaluru/dk-shivakumar-issues-warning-to-party-members-on-leadership-row/articleshow/111373020.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:35:21+00:00
+
+While urging members to “shut their mouths”, Karnataka deputy CM and KPCC president DK Shivakumar warned that disciplinary action will be taken against those who fail to comply. “There has been no discussion on DCMs, and there is no question of discussing the CM’s position, too,” he said . However, despite the warning, cooperation minister KN Rajanna struck a defiant note, saying he won’t heed the warnings unless everyone in the party followed the gag order.
+
+## No place for Hinduphobia in UK, says Labour leader
+ - [https://timesofindia.indiatimes.com/world/uk/no-place-for-hinduphobia-in-uk-says-labour-leader/articleshow/111372908.cms](https://timesofindia.indiatimes.com/world/uk/no-place-for-hinduphobia-in-uk-says-labour-leader/articleshow/111372908.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:21:34+00:00
+
+
+
+## Homeless labourer a serial killer; 5 women among victims
+ - [https://timesofindia.indiatimes.com/city/hyderabad/homeless-labourer-turned-serial-killer-5-women-among-his-six-victims/articleshow/111372906.cms](https://timesofindia.indiatimes.com/city/hyderabad/homeless-labourer-turned-serial-killer-5-women-among-his-six-victims/articleshow/111372906.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:21:24+00:00
+
+The homeless daily wage laborer Kasim was arrested in Mahabubnagar for being a suspected serial killer, involved in multiple murders of women. He was identified through CCTV footage and confessed to the brutal crimes, including strangling victims and using a blade as a weapon.
+
+## 4-yr-old lone survivor of crash that wipes out family
+ - [https://timesofindia.indiatimes.com/city/bhopal/4-year-old-lone-survivor-of-crash-in-satna-district/articleshow/111372902.cms](https://timesofindia.indiatimes.com/city/bhopal/4-year-old-lone-survivor-of-crash-in-satna-district/articleshow/111372902.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:20:42+00:00
+
+Gauri miraculously survived a truck accident with the aid of a crane during road construction.
+
+## Comic cancels show as BJP MLA threatens over joke on Jains
+ - [https://timesofindia.indiatimes.com/city/hyderabad/bjp-mla-threatens-to-cancel-comics-show-over-jain-community-jokes/articleshow/111372781.cms](https://timesofindia.indiatimes.com/city/hyderabad/bjp-mla-threatens-to-cancel-comics-show-over-jain-community-jokes/articleshow/111372781.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:17:00+00:00
+
+The cancellation of Daniel Fernandes' stand-up show in Jubilee Hills due to threats from BJP MLA T Raja Singh over jokes about the Jain community resonates with a previous incident involving Munawar Faruqui, shedding light on freedom of speech challenges in comedy.
+
 ## '39 broken idols found at Bhojshala complex in MP during ASI survey'
  - [https://timesofindia.indiatimes.com/india/39-broken-idols-found-at-bhojshala-complex-in-mp-during-asi-survey/articleshow/111372641.cms](https://timesofindia.indiatimes.com/india/39-broken-idols-found-at-bhojshala-complex-in-mp-during-asi-survey/articleshow/111372641.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-06-29T23:12:53+00:00
 
 
+
+## '39 broken idols found at Bhojshala complex in MP during ASI survey'
+ - [https://timesofindia.indiatimes.com/city/bhopal/39-broken-idols-found-at-bhojshala-complex-in-mp-during-asi-survey/articleshow/111372641.cms](https://timesofindia.indiatimes.com/city/bhopal/39-broken-idols-found-at-bhojshala-complex-in-mp-during-asi-survey/articleshow/111372641.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:12:53+00:00
+
+
+
+## ‘Forced to drink urine’: MP auto driver alleges torture by police
+ - [https://timesofindia.indiatimes.com/city/bhopal/auto-driver-alleges-torture-by-police-forced-to-drink-urine/articleshow/111372592.cms](https://timesofindia.indiatimes.com/city/bhopal/auto-driver-alleges-torture-by-police-forced-to-drink-urine/articleshow/111372592.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:11:37+00:00
+
+Deepak Shivhare accused Padav police and Lear Crime Branch of torturing him in a jewelry theft case, linking him through CCTV footage. Despite no criminal record, he was brutalized, forced to drink urine, and suffered a broken leg. Other auto drivers faced mistreatment. Gwalior SP ordered an inquiry, filing a case under Section 151.
 
 ## Xi invokes Panchsheel as key to end today's global conflicts
  - [https://timesofindia.indiatimes.com/india/xi-invokes-panchsheel-as-key-to-end-todays-global-conflicts/articleshow/111372334.cms](https://timesofindia.indiatimes.com/india/xi-invokes-panchsheel-as-key-to-end-todays-global-conflicts/articleshow/111372334.cms)
@@ -14,10 +91,45 @@
 
 
 
+## Gurgaon: Bouncer chased for 100m, shot 6 times in market
+ - [https://timesofindia.indiatimes.com/city/gurgaon/bouncer-chased-for-100m-shot-6-times-in-market-by-2-on-bike-dies/articleshow/111372317.cms](https://timesofindia.indiatimes.com/city/gurgaon/bouncer-chased-for-100m-shot-6-times-in-market-by-2-on-bike-dies/articleshow/111372317.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T23:04:20+00:00
+
+After being fatally shot in Ullawas market, I received hospital treatment for multiple gunshot wounds. My father lodged a police complaint, and the incident was captured on CCTV footage. The assailants, one wearing a T-shirt from an online grocery store, chased and shot me, resulting in my untimely death.
+
 ## No help for Indian helps when 'dream' foreign job turns into nightmare
  - [https://timesofindia.indiatimes.com/india/no-help-for-indian-helps-when-dream-foreign-job-turns-into-a-nightmare/articleshow/111372151.cms](https://timesofindia.indiatimes.com/india/no-help-for-indian-helps-when-dream-foreign-job-turns-into-a-nightmare/articleshow/111372151.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-06-29T22:59:45+00:00
+
+
+
+## Maharashtra doctor gets Chinese praise for anti-scorpion venom
+ - [https://timesofindia.indiatimes.com/city/mumbai/mahad-doctor-receives-chinese-praise-for-anti-scorpion-venom-research/articleshow/111372068.cms](https://timesofindia.indiatimes.com/city/mumbai/mahad-doctor-receives-chinese-praise-for-anti-scorpion-venom-research/articleshow/111372068.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T22:57:32+00:00
+
+Global children's health struggles with malnutrition and sepsis due to poverty and illiteracy. Dr. Himmatrao Bawaskar's groundbreaking work in managing scorpion stings showcases the importance of holistic healthcare solutions. His efforts have significantly reduced fatality rates, emphasizing the ongoing need to combat underlying issues affecting children's health worldwide.
+
+## Delhi weather: After heat came deluge, this June is unique
+ - [https://timesofindia.indiatimes.com/city/delhi/delhi-witnesses-unique-june-with-record-heat-and-sudden-deluge/articleshow/111371982.cms](https://timesofindia.indiatimes.com/city/delhi/delhi-witnesses-unique-june-with-record-heat-and-sudden-deluge/articleshow/111371982.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T22:55:09+00:00
+
+Delhi faced intense daytime heat in June with the highest temperatures in years. The month started with a dry spell and heatwave days, but ended with excess rainfall due to monsoon winds, bringing relief to the city.
+
+## Eyeing Rs 1.1 crore insurance money, woman ‘dies’ twice in 2 yrs
+ - [https://timesofindia.indiatimes.com/city/mumbai/woman-fakes-death-for-insurance-using-2-aadhaar-cards/articleshow/111371930.cms](https://timesofindia.indiatimes.com/city/mumbai/woman-fakes-death-for-insurance-using-2-aadhaar-cards/articleshow/111371930.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T22:53:47+00:00
+
+The first fake death of Kanchan Rai in the Bhayander insurance scam was reported on October 11, 2021, citing cardiac respiratory arrest. Her son, Dhanraj (30), provided the necessary documents, and the insurance company transferred Rs 20.4 lakh to his account after verification. Another insurance company also settled a Rs 25 lakh claim for Kanchan’s “death” to Dhanraj. On October 20, 2023, another death was recorded for Pavitra, with her husband Rohit (48) receiving Rs 24.2 lakh. Investigations revealed Kanchan had policies from five companies, using fake documents.
+
+## Court sends Kejriwal to judicial custody till July 12, says probe is on
+ - [https://timesofindia.indiatimes.com/city/delhi/court-sends-kejriwal-to-judicial-custody-till-july-12-says-probe-is-on/articleshow/111371893.cms](https://timesofindia.indiatimes.com/city/delhi/court-sends-kejriwal-to-judicial-custody-till-july-12-says-probe-is-on/articleshow/111371893.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T22:53:00+00:00
 
 
 
@@ -42,8 +154,36 @@
 
 
 
+## Four drown in underpasses,city rain fury toll rises to 11
+ - [https://timesofindia.indiatimes.com/city/delhi/four-drown-in-underpassescity-rain-fury-toll-rises-to-11/articleshow/111371717.cms](https://timesofindia.indiatimes.com/city/delhi/four-drown-in-underpassescity-rain-fury-toll-rises-to-11/articleshow/111371717.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T22:48:38+00:00
+
+
+
+## Mockery of justice, says HC, clears husband, in-laws
+ - [https://timesofindia.indiatimes.com/city/mumbai/hc-clears-husband-and-in-laws-in-misuse-of-laws-case/articleshow/111371668.cms](https://timesofindia.indiatimes.com/city/mumbai/hc-clears-husband-and-in-laws-in-misuse-of-laws-case/articleshow/111371668.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T22:47:29+00:00
+
+The misuse of law enforcement machinery and false cases under Section 498A IPC to harass innocent family members highlights the need to prevent vexatious litigation and ensure justice is served fairly.
+
+## 'Could barely breathe...' : Sundar Pichai on India’s T20 World Cup win
+ - [https://timesofindia.indiatimes.com/technology/social/google-ceo-sundar-pichai-congratulates-team-india-on-icc-mens-t20-world-cup-2024-win-could-barely-breathe-/articleshow/111370291.cms](https://timesofindia.indiatimes.com/technology/social/google-ceo-sundar-pichai-congratulates-team-india-on-icc-mens-t20-world-cup-2024-win-could-barely-breathe-/articleshow/111370291.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T22:46:56+00:00
+
+Sundar Pichai and Satya Nadella celebrate India's T20 World Cup win, advocating for more cricket tournaments globally, including in the West Indies and the USA.
+
 ## Day after IGI, canopy outside Rajkot airport collapses after rain
  - [https://timesofindia.indiatimes.com/india/day-after-igi-canopy-outside-rajkot-airport-collapses-after-rain/articleshow/111371301.cms](https://timesofindia.indiatimes.com/india/day-after-igi-canopy-outside-rajkot-airport-collapses-after-rain/articleshow/111371301.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T22:36:25+00:00
+
+
+
+## Day after IGI, canopy outside Rajkot airport collapses after rain
+ - [https://timesofindia.indiatimes.com/city/rajkot/day-after-igi-canopy-outside-rajkot-airport-collapses-after-rain/articleshow/111371301.cms](https://timesofindia.indiatimes.com/city/rajkot/day-after-igi-canopy-outside-rajkot-airport-collapses-after-rain/articleshow/111371301.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-06-29T22:36:25+00:00
 
@@ -63,8 +203,22 @@
 
 
 
+## NEET: CBI arrests scribe in Jharkhand, Bihar 'link'
+ - [https://timesofindia.indiatimes.com/city/ranchi/neet-cbi-arrests-scribe-in-jharkhand-bihar-link/articleshow/111371058.cms](https://timesofindia.indiatimes.com/city/ranchi/neet-cbi-arrests-scribe-in-jharkhand-bihar-link/articleshow/111371058.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T22:28:43+00:00
+
+
+
 ## Prime accused among 9 held in Gauhati university marksheet scam
  - [https://timesofindia.indiatimes.com/india/prime-accused-among-9-held-in-gauhati-university-marksheet-scam/articleshow/111370820.cms](https://timesofindia.indiatimes.com/india/prime-accused-among-9-held-in-gauhati-university-marksheet-scam/articleshow/111370820.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T22:21:53+00:00
+
+
+
+## Prime accused among 9 held in Gauhati university marksheet scam
+ - [https://timesofindia.indiatimes.com/city/guwahati/prime-accused-among-9-held-in-gauhati-university-marksheet-scam/articleshow/111370820.cms](https://timesofindia.indiatimes.com/city/guwahati/prime-accused-among-9-held-in-gauhati-university-marksheet-scam/articleshow/111370820.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-06-29T22:21:53+00:00
 
@@ -91,10 +245,24 @@
 
 
 
+## Principal's arrest stuns Hazaribag
+ - [https://timesofindia.indiatimes.com/city/ranchi/principals-arrest-stuns-hazaribag/articleshow/111370581.cms](https://timesofindia.indiatimes.com/city/ranchi/principals-arrest-stuns-hazaribag/articleshow/111370581.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T22:11:11+00:00
+
+
+
 ## Soldiers swept away during river-crossing drill at night
  - [https://timesofindia.indiatimes.com/india/soldiers-swept-away-during-river-crossing-drill-at-night/articleshow/111370571.cms](https://timesofindia.indiatimes.com/india/soldiers-swept-away-during-river-crossing-drill-at-night/articleshow/111370571.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-06-29T22:06:51+00:00
+
+
+
+## BJP set to contest Haryana polls on its own, declares Shah
+ - [https://timesofindia.indiatimes.com/city/chandigarh/bjp-set-to-contest-haryana-polls-on-its-own-declares-shah/articleshow/111370558.cms](https://timesofindia.indiatimes.com/city/chandigarh/bjp-set-to-contest-haryana-polls-on-its-own-declares-shah/articleshow/111370558.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T21:59:40+00:00
 
 
 
@@ -114,6 +282,13 @@
 
 ## Judiciary must be free from political bias, says Didi in presence of CJI
  - [https://timesofindia.indiatimes.com/india/judiciary-must-be-free-from-political-bias-says-didi-in-presence-of-cji/articleshow/111370532.cms](https://timesofindia.indiatimes.com/india/judiciary-must-be-free-from-political-bias-says-didi-in-presence-of-cji/articleshow/111370532.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T21:49:34+00:00
+
+
+
+## Judiciary must be free from political bias, says Didi in presence of CJI
+ - [https://timesofindia.indiatimes.com/city/kolkata/judiciary-must-be-free-from-political-bias-says-didi-in-presence-of-cji/articleshow/111370532.cms](https://timesofindia.indiatimes.com/city/kolkata/judiciary-must-be-free-from-political-bias-says-didi-in-presence-of-cji/articleshow/111370532.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-06-29T21:49:34+00:00
 
@@ -147,8 +322,22 @@
 
 
 
+## Lynched to death. Charged with dacoity 10 days later
+ - [https://timesofindia.indiatimes.com/city/agra/lynched-to-death-charged-with-dacoity-10-days-later/articleshow/111370409.cms](https://timesofindia.indiatimes.com/city/agra/lynched-to-death-charged-with-dacoity-10-days-later/articleshow/111370409.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T21:27:01+00:00
+
+
+
 ## Eyeing Rs 1.1 crore insurance money, woman 'dies' twice
  - [https://timesofindia.indiatimes.com/india/eyeing-rs-1-1-crore-insurance-money-woman-dies-twice/articleshow/111370392.cms](https://timesofindia.indiatimes.com/india/eyeing-rs-1-1-crore-insurance-money-woman-dies-twice/articleshow/111370392.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T21:21:32+00:00
+
+
+
+## Eyeing Rs 1.1 crore insurance money, woman 'dies' twice
+ - [https://timesofindia.indiatimes.com/city/mumbai/eyeing-rs-1-1-crore-insurance-money-woman-dies-twice/articleshow/111370392.cms](https://timesofindia.indiatimes.com/city/mumbai/eyeing-rs-1-1-crore-insurance-money-woman-dies-twice/articleshow/111370392.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-06-29T21:21:32+00:00
 
@@ -158,6 +347,13 @@
  - [https://timesofindia.indiatimes.com/india/setty-gets-fsib-nod-as-next-chairman-of-sbi/articleshow/111370367.cms](https://timesofindia.indiatimes.com/india/setty-gets-fsib-nod-as-next-chairman-of-sbi/articleshow/111370367.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-06-29T21:15:15+00:00
+
+
+
+## Court orders fresh probe into Cadila rape case
+ - [https://timesofindia.indiatimes.com/city/ahmedabad/court-orders-fresh-probe-into-cadila-rape-case/articleshow/111370342.cms](https://timesofindia.indiatimes.com/city/ahmedabad/court-orders-fresh-probe-into-cadila-rape-case/articleshow/111370342.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T21:08:42+00:00
 
 
 
@@ -175,8 +371,29 @@
 
 
 
+## MVA doesn't need CM face in Maharashtra polls: Pawar
+ - [https://timesofindia.indiatimes.com/city/kolhapur/mva-doesnt-need-cm-face-in-maharashtra-polls-pawar/articleshow/111370306.cms](https://timesofindia.indiatimes.com/city/kolhapur/mva-doesnt-need-cm-face-in-maharashtra-polls-pawar/articleshow/111370306.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T21:02:04+00:00
+
+
+
+## Satya Nadella congratulates India on winning T20 WC with this 'wish'
+ - [https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-congratulates-team-india-on-winning-cricket-world-cup-with-this-wish/articleshow/111370301.cms](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-congratulates-team-india-on-winning-cricket-world-cup-with-this-wish/articleshow/111370301.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T21:01:14+00:00
+
+Satya Nadella, a vocal cricket fan, expresses gratitude for the Indian team's victory and shares how cricket influenced his leadership journey, resonating after becoming Microsoft CEO.
+
 ## Indira put us in jail, but never abused: Lalu Prasad Yadav
  - [https://timesofindia.indiatimes.com/india/indira-put-us-in-jail-but-never-abused-lalu-prasad-yadav/articleshow/111370294.cms](https://timesofindia.indiatimes.com/india/indira-put-us-in-jail-but-never-abused-lalu-prasad-yadav/articleshow/111370294.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T20:58:42+00:00
+
+
+
+## Indira put us in jail, but never abused: Lalu Prasad Yadav
+ - [https://timesofindia.indiatimes.com/city/patna/indira-put-us-in-jail-but-never-abused-lalu-prasad-yadav/articleshow/111370294.cms](https://timesofindia.indiatimes.com/city/patna/indira-put-us-in-jail-but-never-abused-lalu-prasad-yadav/articleshow/111370294.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-06-29T20:58:42+00:00
 
@@ -193,6 +410,20 @@ India pulled off a sensational seven-run win against South Africa in a gripping 
  - [https://timesofindia.indiatimes.com/india/oppn-may-field-sps-faizabad-mp-for-dy-speaker-contest/articleshow/111370280.cms](https://timesofindia.indiatimes.com/india/oppn-may-field-sps-faizabad-mp-for-dy-speaker-contest/articleshow/111370280.cms)
  - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
  - date published: 2024-06-29T20:54:03+00:00
+
+
+
+## Opposition may field SP's Faizabad MP for dy Speaker contest
+ - [https://timesofindia.indiatimes.com/city/kolkata/oppn-may-field-sps-faizabad-mp-for-dy-speaker-contest/articleshow/111370280.cms](https://timesofindia.indiatimes.com/city/kolkata/oppn-may-field-sps-faizabad-mp-for-dy-speaker-contest/articleshow/111370280.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T20:54:03+00:00
+
+
+
+## CPM received crime proceeds in Kerala bank scam, says ED
+ - [https://timesofindia.indiatimes.com/city/kochi/cpm-received-crime-proceeds-in-kerala-bank-scam-says-ed/articleshow/111370271.cms](https://timesofindia.indiatimes.com/city/kochi/cpm-received-crime-proceeds-in-kerala-bank-scam-says-ed/articleshow/111370271.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T20:51:01+00:00
 
 
 
@@ -307,6 +538,13 @@ India dominated South Africa to end their long global trophy drought, winning th
  - date published: 2024-06-29T17:51:51+00:00
 
 
+
+## Following hooch tragedy, TN passes bill to increase penalties
+ - [https://timesofindia.indiatimes.com/city/chennai/bill-passed-to-make-prohibition-law-stringent-increases-term-fine/articleshow/111368864.cms](https://timesofindia.indiatimes.com/city/chennai/bill-passed-to-make-prohibition-law-stringent-increases-term-fine/articleshow/111368864.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T17:20:39+00:00
+
+The bill proposes harsher penalties for illicit liquor offences, emphasizing the value of human life. Government accountability is a key focus, with measures to tackle bootleggers and substances in illicit liquor. Stricter bail conditions and property confiscation are part of the legislation to curb such crimes effectively.
 
 ## Shawarma samples reveal bacteria, yeast in FSSAI test in B'luru
  - [https://timesofindia.indiatimes.com/city/bengaluru/shawarma-samples-reveal-bacteria-yeast-in-fssai-test/articleshow/111368721.cms](https://timesofindia.indiatimes.com/city/bengaluru/shawarma-samples-reveal-bacteria-yeast-in-fssai-test/articleshow/111368721.cms)
@@ -580,6 +818,13 @@ JD(U) demands special status for Bihar in national convention under the Gadgil F
  - date published: 2024-06-29T08:15:03+00:00
 
 On Saturday, Bihar chief minister Nitish Kumar's Janata Dal (United), or JD(U), elected Rajya Sabha MP Sanjay Jha as the working president of the party. This decision was taken during the party's national executive meeting held in Delhi. The meeting was also convened to review the current political scenario and prepare for the upcoming Bihar assembly polls scheduled for 2025. Nitish Kumar, a key partner in the NDA-ruled Centre, called for a special financial package from the central government for Bihar.
+
+## Three zodiac signs whose relationships experience significant change in July 2024
+ - [https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/three-zodiac-signs-whose-relationships-experience-significant-change-in-july-2024/articleshow/111360071.cms](https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/three-zodiac-signs-whose-relationships-experience-significant-change-in-july-2024/articleshow/111360071.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-06-29T08:08:31+00:00
+
+Aquarians face relationship upheavals with growing ambition and financial focus. Finding harmony and balance is crucial for stable relationships. Embracing change positively can lead to personal growth and improved connections, emphasizing the importance of balancing ambition with harmonious relationships. Sometimes you or someone else can change their mind quickly and it may seem sudden and out of the blue.
 
 ## Canopy outside Rajkot airport collapses after heavy rain
  - [https://timesofindia.indiatimes.com/city/rajkot/canopy-outside-rajkot-airport-collapses-after-heavy-rain/articleshow/111359431.cms](https://timesofindia.indiatimes.com/city/rajkot/canopy-outside-rajkot-airport-collapses-after-heavy-rain/articleshow/111359431.cms)

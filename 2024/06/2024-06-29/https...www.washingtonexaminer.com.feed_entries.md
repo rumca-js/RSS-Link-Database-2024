@@ -1,5 +1,12 @@
 # Source:Washington Examiner, URL:https://www.washingtonexaminer.com/feed, language:en-US
 
+## Biden makes appeals to donors as debate concerns persist
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3064736/biden-appeals-donors-debate-concerns-persist](https://www.washingtonexaminer.com/news/campaigns/presidential/3064736/biden-appeals-donors-debate-concerns-persist)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-06-29T23:52:34+00:00
+
+RED BANK, N.J. (AP) — President Joe Biden looked to recapture his mojo and reassured donors at a Saturday fundraiser that he is fully up to the challenge of beating Donald Trump. &#8220;I didn&#8217;t have a great night, but I&#8217;m going to be fighting harder,&#8221; Biden told attendees at the home of New Jersey Gov. [&#8230;]
+
 ## Beryl strengthens into hurricane in Atlantic
  - [https://www.washingtonexaminer.com/news/world/3064730/beryl-strengthens-into-hurricane-atlantic](https://www.washingtonexaminer.com/news/world/3064730/beryl-strengthens-into-hurricane-atlantic)
  - RSS feed: https://www.washingtonexaminer.com/feed
