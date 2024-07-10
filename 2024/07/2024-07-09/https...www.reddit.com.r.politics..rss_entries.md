@@ -1,0 +1,310 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Russia aims to undermine Biden in November election, intel officials say
+ - [https://www.reddit.com/r/politics/comments/1dzg1rf/russia_aims_to_undermine_biden_in_november](https://www.reddit.com/r/politics/comments/1dzg1rf/russia_aims_to_undermine_biden_in_november)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T22:50:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dzg1rf/russia_aims_to_undermine_biden_in_november/"> <img alt="Russia aims to undermine Biden in November election, intel officials say" src="https://external-preview.redd.it/O6zfqN3-lNr5Yoy9orcdezDxX66-N-Bw5tTsItaIz9M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bd6edbbd8d595ec82bc9e5f0b66ebc2cb433e3b" title="Russia aims to undermine Biden in November election, intel officials say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.nbcnews.com/investigations/russia-aims-undermine-biden-november-election-intel-officials-say-rcna161011">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dzg1rf/russia_aims_to_undermine_biden_in_november/">[comments]</a></span> </td></tr></table>
+
+## Trump Has Turned RNC Into a “Slut Walk,” Republicans Complain
+ - [https://www.reddit.com/r/politics/comments/1dzea71/trump_has_turned_rnc_into_a_slut_walk_republicans](https://www.reddit.com/r/politics/comments/1dzea71/trump_has_turned_rnc_into_a_slut_walk_republicans)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T21:36:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dzea71/trump_has_turned_rnc_into_a_slut_walk_republicans/"> <img alt="Trump Has Turned RNC Into a “Slut Walk,” Republicans Complain" src="https://external-preview.redd.it/vxxh89IE8Aqt4kgCZ3QfHCXUELQq32ohhSjw2DyPNdg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=268e42b200d54c3cfb346e6b72d9a08a10109408" title="Trump Has Turned RNC Into a “Slut Walk,” Republicans Complain" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/harsh2k5"> /u/harsh2k5 </a> <br /> <span><a href="https://newrepublic.com/post/183591/former-trump-lawyer-jenna-ellis-rnc-slut-walk-platform-backlash">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dzea71/trump_has_turned_rnc_into_a_slut_walk_republicans/">[comments]</a></span> </td></tr></table>
+
+## Biden suffered less polling damage than expected after debate against Trump
+ - [https://www.reddit.com/r/politics/comments/1dzdrzk/biden_suffered_less_polling_damage_than_expected](https://www.reddit.com/r/politics/comments/1dzdrzk/biden_suffered_less_polling_damage_than_expected)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T21:15:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dzdrzk/biden_suffered_less_polling_damage_than_expected/"> <img alt="Biden suffered less polling damage than expected after debate against Trump" src="https://external-preview.redd.it/J5aO-vRFUbHEVqCPV7XY8nPLZisIcuUu5TU-zCj1BIs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c211f2c4006b869b493d376fdf93c2542f40b93" title="Biden suffered less polling damage than expected after debate against Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lunarlotusm"> /u/lunarlotusm </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/jul/09/biden-polling-debate-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dzdrzk/biden_suffered_less_polling_damage_than_expected/">[comments]</a></span> </td></tr></table>
+
+## Sen. Josh Hawley Declares His Support Of Christian Nationalism. “Some will say that I am advocating Christian nationalism,” the Missouri Republican said Monday. “And so I do.”
+ - [https://www.reddit.com/r/politics/comments/1dzd23d/sen_josh_hawley_declares_his_support_of_christian](https://www.reddit.com/r/politics/comments/1dzd23d/sen_josh_hawley_declares_his_support_of_christian)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T20:46:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dzd23d/sen_josh_hawley_declares_his_support_of_christian/"> <img alt="Sen. Josh Hawley Declares His Support Of Christian Nationalism. “Some will say that I am advocating Christian nationalism,” the Missouri Republican said Monday. “And so I do.”" src="https://external-preview.redd.it/aAfseRdxUaTWcZrgK310RKwr_daNwF2mmPBtcwerEpg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b7f687dc7689eda3abe5189c6558fb1b3c44b2c5" title="Sen. Josh Hawley Declares His Support Of Christian Nationalism. “Some will say that I am advocating Christian nationalism,” the Missouri Republican said Monday. “And so I do.”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> <span><a href="https://www.huffpost.com/entry/josh-hawley-christian-nationalist_n_668d6800e4b09e5ce9bc85ed">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dzd23d/sen_josh
+
+## Senators seek special counsel probe of Supreme Court Justice Clarence Thomas
+ - [https://www.reddit.com/r/politics/comments/1dzcg1h/senators_seek_special_counsel_probe_of_supreme](https://www.reddit.com/r/politics/comments/1dzcg1h/senators_seek_special_counsel_probe_of_supreme)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T20:20:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dzcg1h/senators_seek_special_counsel_probe_of_supreme/"> <img alt="Senators seek special counsel probe of Supreme Court Justice Clarence Thomas" src="https://external-preview.redd.it/QjC0Gc_4IeDXXsRpa5hf9Xg393eymzANbqedFsnLbO0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76374e48cb6d6eb1cd2cb22915f01a8eb73ad218" title="Senators seek special counsel probe of Supreme Court Justice Clarence Thomas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PuddingFeeling907"> /u/PuddingFeeling907 </a> <br /> <span><a href="https://www.cnbc.com/2024/07/09/justice-clarence-thomas-senate-special-counsel-probe-sought.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dzcg1h/senators_seek_special_counsel_probe_of_supreme/">[comments]</a></span> </td></tr></table>
+
+## There’s a Reason Trump Is Suddenly Lying About Project 2025
+ - [https://www.reddit.com/r/politics/comments/1dzas0a/theres_a_reason_trump_is_suddenly_lying_about](https://www.reddit.com/r/politics/comments/1dzas0a/theres_a_reason_trump_is_suddenly_lying_about)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T19:11:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dzas0a/theres_a_reason_trump_is_suddenly_lying_about/"> <img alt="There’s a Reason Trump Is Suddenly Lying About Project 2025" src="https://external-preview.redd.it/a3DILbC7Sna_YdjOs3D3MebRVOA0r1fXbayIXC469G4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac85e5328a9f4b8ecd5545e0702d1d7454fd0910" title="There’s a Reason Trump Is Suddenly Lying About Project 2025" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://slate.com/news-and-politics/2024/07/why-donald-trump-lying-project-2025.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dzas0a/theres_a_reason_trump_is_suddenly_lying_about/">[comments]</a></span> </td></tr></table>
+
+## After Killing Roe v. Wade, Trump Pretends to Be a Moderate on Abortion
+ - [https://www.reddit.com/r/politics/comments/1dzar5g/after_killing_roe_v_wade_trump_pretends_to_be_a](https://www.reddit.com/r/politics/comments/1dzar5g/after_killing_roe_v_wade_trump_pretends_to_be_a)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T19:11:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dzar5g/after_killing_roe_v_wade_trump_pretends_to_be_a/"> <img alt="After Killing Roe v. Wade, Trump Pretends to Be a Moderate on Abortion" src="https://external-preview.redd.it/FxpLFfkAc1rMAcbCztdk0Hj8atvgu1K6PwEmTgWWP0c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4f58df9aa1a5c6081777216e2fe4f9a00c6d6f0" title="After Killing Roe v. Wade, Trump Pretends to Be a Moderate on Abortion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Thorne1269"> /u/Thorne1269 </a> <br /> <span><a href="https://www.vanityfair.com/news/story/after-killing-roe-v-wade-trump-pretends-to-be-a-moderate-on-abortion">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dzar5g/after_killing_roe_v_wade_trump_pretends_to_be_a/">[comments]</a></span> </td></tr></table>
+
+## US Justice Department says it disrupted Russian social media influence operation
+ - [https://www.reddit.com/r/politics/comments/1dzadvz/us_justice_department_says_it_disrupted_russian](https://www.reddit.com/r/politics/comments/1dzadvz/us_justice_department_says_it_disrupted_russian)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T18:56:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dzadvz/us_justice_department_says_it_disrupted_russian/"> <img alt="US Justice Department says it disrupted Russian social media influence operation" src="https://external-preview.redd.it/NupRzD1TacrxesXIhMtrFwdc5AIsGN1Lw8U_12ZVGxs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=440bbd70a55480f9cae51a09ef46233071834b9d" title="US Justice Department says it disrupted Russian social media influence operation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/meth_manatee"> /u/meth_manatee </a> <br /> <span><a href="https://www.reuters.com/world/us/us-justice-dept-says-it-disrupted-russian-social-media-influence-operation-2024-07-09/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dzadvz/us_justice_department_says_it_disrupted_russian/">[comments]</a></span> </td></tr></table>
+
+## House Republicans Want to Ban Universal Free School Lunches
+ - [https://www.reddit.com/r/politics/comments/1dz8usq/house_republicans_want_to_ban_universal_free](https://www.reddit.com/r/politics/comments/1dz8usq/house_republicans_want_to_ban_universal_free)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T17:53:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz8usq/house_republicans_want_to_ban_universal_free/"> <img alt="House Republicans Want to Ban Universal Free School Lunches" src="https://external-preview.redd.it/r_iytBVmvQ1bi6JUm4BAI8lnBHl5AJaSyszV0yuR9VY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e84fb21ec8a13509cb22160e33b88389b47ffa3" title="House Republicans Want to Ban Universal Free School Lunches" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dun300"> /u/dun300 </a> <br /> <span><a href="https://theintercept.com/2024/03/21/house-republicans-ban-universal-school-lunches/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz8usq/house_republicans_want_to_ban_universal_free/">[comments]</a></span> </td></tr></table>
+
+## Sailor attempted to access President Biden's restricted medical record: Navy
+ - [https://www.reddit.com/r/politics/comments/1dz87aj/sailor_attempted_to_access_president_bidens](https://www.reddit.com/r/politics/comments/1dz87aj/sailor_attempted_to_access_president_bidens)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T17:26:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz87aj/sailor_attempted_to_access_president_bidens/"> <img alt="Sailor attempted to access President Biden's restricted medical record: Navy" src="https://external-preview.redd.it/i1HqBvFPy-kgc0dd5fzVFM7BEhhSOVPPrimRkPQxgDY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=049e63133305926cc69ccf5b3967563654cc13d9" title="Sailor attempted to access President Biden's restricted medical record: Navy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gbthngs"> /u/gbthngs </a> <br /> <span><a href="https://abcnews.go.com/US/sailor-attempted-access-president-bidens-restricted-medical-record/story?id=111780284">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz87aj/sailor_attempted_to_access_president_bidens/">[comments]</a></span> </td></tr></table>
+
+## The Case for Expanding the Supreme Court Has Never Been Stronger
+ - [https://www.reddit.com/r/politics/comments/1dz85tz/the_case_for_expanding_the_supreme_court_has](https://www.reddit.com/r/politics/comments/1dz85tz/the_case_for_expanding_the_supreme_court_has)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T17:25:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz85tz/the_case_for_expanding_the_supreme_court_has/"> <img alt="The Case for Expanding the Supreme Court Has Never Been Stronger" src="https://external-preview.redd.it/gWsm-xg9UpaUIXyz9OlPB4SrYR9YykCaT_N7DZRmrVI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac80044ed729f4ab9502c0b885ff93e111b4c408" title="The Case for Expanding the Supreme Court Has Never Been Stronger" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://newrepublic.com/article/183404/case-expanding-supreme-court-never-stronger-biden-immunity">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz85tz/the_case_for_expanding_the_supreme_court_has/">[comments]</a></span> </td></tr></table>
+
+## Jon Stewart is afraid Biden doesn't realize what's at stake and that 'there are no participation trophies in endgame democracy'
+ - [https://www.reddit.com/r/politics/comments/1dz82a7/jon_stewart_is_afraid_biden_doesnt_realize_whats](https://www.reddit.com/r/politics/comments/1dz82a7/jon_stewart_is_afraid_biden_doesnt_realize_whats)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T17:20:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz82a7/jon_stewart_is_afraid_biden_doesnt_realize_whats/"> <img alt="Jon Stewart is afraid Biden doesn't realize what's at stake and that 'there are no participation trophies in endgame democracy'" src="https://external-preview.redd.it/biTa-OH79FP8QqiG9_pz7AkxrCWjuOJlRVsVikN939E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=98604276b474ac5ad92946fbbe149cf416e9c593" title="Jon Stewart is afraid Biden doesn't realize what's at stake and that 'there are no participation trophies in endgame democracy'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jayfeather31"> /u/jayfeather31 </a> <br /> <span><a href="https://www.businessinsider.com/jon-stewart-afraid-biden-does-not-realize-what-at-stake-2024-7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz82a7/jon_stewart_is_afraid_biden_doesnt_realize_whats/">[comments]</a></span> </td></tr></table>
+
+## Dem senators ask DOJ to investigate Clarence Thomas for possible tax law violations
+ - [https://www.reddit.com/r/politics/comments/1dz79yk/dem_senators_ask_doj_to_investigate_clarence](https://www.reddit.com/r/politics/comments/1dz79yk/dem_senators_ask_doj_to_investigate_clarence)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T16:49:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz79yk/dem_senators_ask_doj_to_investigate_clarence/"> <img alt="Dem senators ask DOJ to investigate Clarence Thomas for possible tax law violations" src="https://external-preview.redd.it/gQ6cYTSKS-JjZuuNnOCZGOvfbhJYGzz0YlX6nfXyGFg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf94a5f6d2836d280cee207ab70ea34915951c35" title="Dem senators ask DOJ to investigate Clarence Thomas for possible tax law violations" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/keyjan"> /u/keyjan </a> <br /> <span><a href="https://thehill.com/homenews/senate/4761924-democratic-senators-request-special-counsel-thomas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz79yk/dem_senators_ask_doj_to_investigate_clarence/">[comments]</a></span> </td></tr></table>
+
+## Congress’ despondent Biden rebels see their revolt crumbling: “It’s over”
+ - [https://www.reddit.com/r/politics/comments/1dz78kr/congress_despondent_biden_rebels_see_their_revolt](https://www.reddit.com/r/politics/comments/1dz78kr/congress_despondent_biden_rebels_see_their_revolt)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T16:47:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz78kr/congress_despondent_biden_rebels_see_their_revolt/"> <img alt="Congress’ despondent Biden rebels see their revolt crumbling: “It’s over”" src="https://external-preview.redd.it/E3hV-junxWiXOQvZysY4SmEbEgBOh-QuPaXOQiQk9vk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ffcdba650e30d139742dd0e2ac7bb1c62a02c22e" title="Congress’ despondent Biden rebels see their revolt crumbling: “It’s over”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/axios"> /u/axios </a> <br /> <span><a href="https://www.axios.com/2024/07/09/biden-house-democrats-withdraw-nominee">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz78kr/congress_despondent_biden_rebels_see_their_revolt/">[comments]</a></span> </td></tr></table>
+
+## Shocker: Trump’s Sudden New Abortion Shift Turns Out to Be a Big Scam
+ - [https://www.reddit.com/r/politics/comments/1dz5yl3/shocker_trumps_sudden_new_abortion_shift_turns](https://www.reddit.com/r/politics/comments/1dz5yl3/shocker_trumps_sudden_new_abortion_shift_turns)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T15:56:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz5yl3/shocker_trumps_sudden_new_abortion_shift_turns/"> <img alt="Shocker: Trump’s Sudden New Abortion Shift Turns Out to Be a Big Scam" src="https://external-preview.redd.it/QhMZ1aXKF5AzMwB6YEYtJUNZd25aUiVQ7C8B-xTAi30.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e48a3ab9ac6a335e279e956293210c826692624" title="Shocker: Trump’s Sudden New Abortion Shift Turns Out to Be a Big Scam" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Upset-Concern-6019"> /u/Upset-Concern-6019 </a> <br /> <span><a href="https://newrepublic.com/article/183563/shocker-trumps-sudden-new-abortion-shift-turns-big-scam">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz5yl3/shocker_trumps_sudden_new_abortion_shift_turns/">[comments]</a></span> </td></tr></table>
+
+## Haberman: Trump advisers had been concerned Project 2025 would become problem
+ - [https://www.reddit.com/r/politics/comments/1dz5o7b/haberman_trump_advisers_had_been_concerned](https://www.reddit.com/r/politics/comments/1dz5o7b/haberman_trump_advisers_had_been_concerned)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T15:44:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz5o7b/haberman_trump_advisers_had_been_concerned/"> <img alt="Haberman: Trump advisers had been concerned Project 2025 would become problem" src="https://external-preview.redd.it/ge9g9yYDT72-pQ4l7C1BLo5iLFZPwWcrnL7M5qFB3Ks.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d737e2df8944d87f1f9794636c5b7a004a1b9ee1" title="Haberman: Trump advisers had been concerned Project 2025 would become problem" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OnlyMamaKnows"> /u/OnlyMamaKnows </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4761380-maggie-haberman-donald-trump-advisers-project-2025-concerns/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz5o7b/haberman_trump_advisers_had_been_concerned/">[comments]</a></span> </td></tr></table>
+
+## Jon Stewart: Excuses for Biden’s ‘shocking display of cognitive difficulty’ are ‘bulls‑‑‑’
+ - [https://www.reddit.com/r/politics/comments/1dz5gzs/jon_stewart_excuses_for_bidens_shocking_display](https://www.reddit.com/r/politics/comments/1dz5gzs/jon_stewart_excuses_for_bidens_shocking_display)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T15:36:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz5gzs/jon_stewart_excuses_for_bidens_shocking_display/"> <img alt="Jon Stewart: Excuses for Biden’s ‘shocking display of cognitive difficulty’ are ‘bulls‑‑‑’" src="https://external-preview.redd.it/krAqfYE57kdzfKCgngQh7Gq44y45GT8QJsXSX3nT0hw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3933350e54f0d105f758fa03a0604bfd2dba4c51" title="Jon Stewart: Excuses for Biden’s ‘shocking display of cognitive difficulty’ are ‘bulls‑‑‑’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gbthngs"> /u/gbthngs </a> <br /> <span><a href="https://thehill.com/blogs/in-the-know/4761626-jon-stewart-biden-debate/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz5gzs/jon_stewart_excuses_for_bidens_shocking_display/">[comments]</a></span> </td></tr></table>
+
+## Trump-loving gays say their MAGA support is ruining their lives
+ - [https://www.reddit.com/r/politics/comments/1dz589i/trumploving_gays_say_their_maga_support_is](https://www.reddit.com/r/politics/comments/1dz589i/trumploving_gays_say_their_maga_support_is)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T15:26:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz589i/trumploving_gays_say_their_maga_support_is/"> <img alt="Trump-loving gays say their MAGA support is ruining their lives" src="https://external-preview.redd.it/UEyQbwukUoMi2PjRNmE4HRZCkuFUPsJQzkS6wzvhUP0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25c337a70808c64d06ea588a4fd8a8ead58e7e06" title="Trump-loving gays say their MAGA support is ruining their lives" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/galaxystars1"> /u/galaxystars1 </a> <br /> <span><a href="https://www.lgbtqnation.com/2024/07/trump-loving-gays-say-their-maga-support-is-ruining-their-lives/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz589i/trumploving_gays_say_their_maga_support_is/">[comments]</a></span> </td></tr></table>
+
+## What is Project 2025? The plans for Trump's second term, explained
+ - [https://www.reddit.com/r/politics/comments/1dz4r0r/what_is_project_2025_the_plans_for_trumps_second](https://www.reddit.com/r/politics/comments/1dz4r0r/what_is_project_2025_the_plans_for_trumps_second)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T15:07:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz4r0r/what_is_project_2025_the_plans_for_trumps_second/"> <img alt="What is Project 2025? The plans for Trump's second term, explained" src="https://external-preview.redd.it/dKaG5ukD12nIuCDB8pN1-dcJhZmElc4YIUvysPdOSSI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a4d2e4715e42de5f7feea58a8cfc489e3c7dc97" title="What is Project 2025? The plans for Trump's second term, explained" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/msnbc"> /u/msnbc </a> <br /> <span><a href="https://www.msnbc.com/opinion/msnbc-opinion/project-2025-what-know-trump-president-second-term-rcna160465">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz4r0r/what_is_project_2025_the_plans_for_trumps_second/">[comments]</a></span> </td></tr></table>
+
+## 'Biden is our nominee': Dems return to the Hill and rally around the president
+ - [https://www.reddit.com/r/politics/comments/1dz47jq/biden_is_our_nominee_dems_return_to_the_hill_and](https://www.reddit.com/r/politics/comments/1dz47jq/biden_is_our_nominee_dems_return_to_the_hill_and)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T14:45:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz47jq/biden_is_our_nominee_dems_return_to_the_hill_and/"> <img alt="'Biden is our nominee': Dems return to the Hill and rally around the president" src="https://external-preview.redd.it/QRATr7V89lSvDX7pnlArM82AVRBdQJSJJ0EDuN7t7rE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=478089f8200b52f3837acb0381dd086a2613faea" title="'Biden is our nominee': Dems return to the Hill and rally around the president" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/willywalloo"> /u/willywalloo </a> <br /> <span><a href="https://www.msnbc.com/morning-joe/watch/-biden-is-our-nominee-dems-return-to-the-hill-and-rally-around-the-president-214464069826">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz47jq/biden_is_our_nominee_dems_return_to_the_hill_and/">[comments]</a></span> </td></tr></table>
+
+## Alex Jones Is Suddenly Pissed at Donald Trump Alex Jones is turning against Donald Trump now that he’s distancing himself from Project 2025.
+ - [https://www.reddit.com/r/politics/comments/1dz42ny/alex_jones_is_suddenly_pissed_at_donald_trump](https://www.reddit.com/r/politics/comments/1dz42ny/alex_jones_is_suddenly_pissed_at_donald_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T14:40:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz42ny/alex_jones_is_suddenly_pissed_at_donald_trump/"> <img alt="Alex Jones Is Suddenly Pissed at Donald Trump Alex Jones is turning against Donald Trump now that he’s distancing himself from Project 2025." src="https://external-preview.redd.it/ULe_8Kt7dFHC_ijbqx-zr4od146s0FMvIrjvWCIiru4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1624568df813c4d342499ddf794e95252db36ae1" title="Alex Jones Is Suddenly Pissed at Donald Trump Alex Jones is turning against Donald Trump now that he’s distancing himself from Project 2025." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Arrest_The_President"> /u/Arrest_The_President </a> <br /> <span><a href="https://newrepublic.com/post/183579/alex-jones-pissed-donald-trump-project-2025">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz42ny/alex_jones_is_suddenly_pissed_at_donald_trump/">[comments]</a></span> </td
+
+## RNC convention "failure" as Milwaukee venues likely to sit empty
+ - [https://www.reddit.com/r/politics/comments/1dz3xtq/rnc_convention_failure_as_milwaukee_venues_likely](https://www.reddit.com/r/politics/comments/1dz3xtq/rnc_convention_failure_as_milwaukee_venues_likely)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T14:34:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz3xtq/rnc_convention_failure_as_milwaukee_venues_likely/"> <img alt="RNC convention &quot;failure&quot; as Milwaukee venues likely to sit empty" src="https://external-preview.redd.it/Nv6J1nu_19OtjQc_2W-erX0nH9cJdv26sT-TWxJ3CVw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a76c6b46e9d4a2febc7bef6646d9fd585264304c" title="RNC convention &quot;failure&quot; as Milwaukee venues likely to sit empty" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br /> <span><a href="https://www.newsweek.com/rnc-convention-milwaukee-venues-1922616">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz3xtq/rnc_convention_failure_as_milwaukee_venues_likely/">[comments]</a></span> </td></tr></table>
+
+## 'Great confidence': Gov. Gretchen Whitmer says Biden has her full support in reelection run
+ - [https://www.reddit.com/r/politics/comments/1dz3j5v/great_confidence_gov_gretchen_whitmer_says_biden](https://www.reddit.com/r/politics/comments/1dz3j5v/great_confidence_gov_gretchen_whitmer_says_biden)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T14:16:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz3j5v/great_confidence_gov_gretchen_whitmer_says_biden/"> <img alt="'Great confidence': Gov. Gretchen Whitmer says Biden has her full support in reelection run" src="https://external-preview.redd.it/YtBUXWV006VxRBmwLnGsRMu4-Y07WKiSzO9KpnQf4Z4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb38d5b7203e1dbfa18f3cb14e2bc985a0e6c4d4" title="'Great confidence': Gov. Gretchen Whitmer says Biden has her full support in reelection run" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/okayblueberries"> /u/okayblueberries </a> <br /> <span><a href="https://abcnews.go.com/US/gretchen-whitmer-good-morning-america-biden-reelection/story?id=111767846">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz3j5v/great_confidence_gov_gretchen_whitmer_says_biden/">[comments]</a></span> </td></tr></table>
+
+## AOC Breaks Her Post-Debate Silence With Ringing Biden Endorsement
+ - [https://www.reddit.com/r/politics/comments/1dz3alz/aoc_breaks_her_postdebate_silence_with_ringing](https://www.reddit.com/r/politics/comments/1dz3alz/aoc_breaks_her_postdebate_silence_with_ringing)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T14:06:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz3alz/aoc_breaks_her_postdebate_silence_with_ringing/"> <img alt="AOC Breaks Her Post-Debate Silence With Ringing Biden Endorsement" src="https://external-preview.redd.it/znlvHDakj-NHJ4_-l6PFN3XClszxiiT1GrU2-i1U3pw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=104d83f6aa9f8fc629036182a1ebe0901ecac784" title="AOC Breaks Her Post-Debate Silence With Ringing Biden Endorsement" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.thedailybeast.com/aoc-breaks-her-post-debate-silence-with-ringing-biden-endorsement">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz3alz/aoc_breaks_her_postdebate_silence_with_ringing/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris beats Donald Trump new poll shows, performs better than Joe Biden
+ - [https://www.reddit.com/r/politics/comments/1dz28vu/kamala_harris_beats_donald_trump_new_poll_shows](https://www.reddit.com/r/politics/comments/1dz28vu/kamala_harris_beats_donald_trump_new_poll_shows)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T13:20:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz28vu/kamala_harris_beats_donald_trump_new_poll_shows/"> <img alt="Kamala Harris beats Donald Trump new poll shows, performs better than Joe Biden" src="https://external-preview.redd.it/T0ejUI48qM0WqZN_6RgsmdSQ1-llKf526ei_CgO5gns.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b7cfea3f89459814d760fcdf61c84eefa3fbdce" title="Kamala Harris beats Donald Trump new poll shows, performs better than Joe Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/His_Holiness"> /u/His_Holiness </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/elections/2024/07/09/harris-beat-trump-poll-biden/74333759007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz28vu/kamala_harris_beats_donald_trump_new_poll_shows/">[comments]</a></span> </td></tr></table>
+
+## Trump lied and Biden got tongue tied at the first debate. So why is the world only focusing on one?
+ - [https://www.reddit.com/r/politics/comments/1dz1yz1/trump_lied_and_biden_got_tongue_tied_at_the_first](https://www.reddit.com/r/politics/comments/1dz1yz1/trump_lied_and_biden_got_tongue_tied_at_the_first)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T13:07:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz1yz1/trump_lied_and_biden_got_tongue_tied_at_the_first/"> <img alt="Trump lied and Biden got tongue tied at the first debate. So why is the world only focusing on one?" src="https://external-preview.redd.it/0oYBZ6DYkL6V8bE4DKNNazMAIeGykZr2ffwIAWigR-0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71c3bf4b403128ce044f39b49bdd104ed464c617" title="Trump lied and Biden got tongue tied at the first debate. So why is the world only focusing on one?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-fact-check-biden-debate-b2576131.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz1yz1/trump_lied_and_biden_got_tongue_tied_at_the_first/">[comments]</a></span> </td></tr></table>
+
+## Ocasio-Cortez backing Biden: ‘The matter is closed’
+ - [https://www.reddit.com/r/politics/comments/1dz1lk8/ocasiocortez_backing_biden_the_matter_is_closed](https://www.reddit.com/r/politics/comments/1dz1lk8/ocasiocortez_backing_biden_the_matter_is_closed)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T12:50:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz1lk8/ocasiocortez_backing_biden_the_matter_is_closed/"> <img alt="Ocasio-Cortez backing Biden: ‘The matter is closed’" src="https://external-preview.redd.it/rQbb9Tx_VzkRgwarE-ZKxUiGHfrjAD6tjVQsnTtKMaQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb0cd30dd6f5e6297487c35c8d0f949f0b9a3cd3" title="Ocasio-Cortez backing Biden: ‘The matter is closed’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BuckChintheRealtor"> /u/BuckChintheRealtor </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4761323-alexandria-ocasio-cortez-backing-joe-biden-post-debate/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz1lk8/ocasiocortez_backing_biden_the_matter_is_closed/">[comments]</a></span> </td></tr></table>
+
+## The Double Standard in Trump-Biden Coverage
+ - [https://www.reddit.com/r/politics/comments/1dz1jfi/the_double_standard_in_trumpbiden_coverage](https://www.reddit.com/r/politics/comments/1dz1jfi/the_double_standard_in_trumpbiden_coverage)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T12:47:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz1jfi/the_double_standard_in_trumpbiden_coverage/"> <img alt="The Double Standard in Trump-Biden Coverage" src="https://external-preview.redd.it/YtILP2ylgktFVLgrQnlVfh7dX0Un4eUD7GRx_glAnJg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=269777c27451171969532437b5bb32a17c733cae" title="The Double Standard in Trump-Biden Coverage" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newzee1"> /u/newzee1 </a> <br /> <span><a href="https://www.theatlantic.com/newsletters/archive/2024/07/the-double-standard-in-trump-biden-coverage/678943/?gift=tsy95zCkAst2zG_yntlnGGtf6ZSBiIHcPATGz1TeI1A">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz1jfi/the_double_standard_in_trumpbiden_coverage/">[comments]</a></span> </td></tr></table>
+
+## Appeals court allows part of Biden student loan repayment plan to go forward
+ - [https://www.reddit.com/r/politics/comments/1dz14v8/appeals_court_allows_part_of_biden_student_loan](https://www.reddit.com/r/politics/comments/1dz14v8/appeals_court_allows_part_of_biden_student_loan)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T12:27:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz14v8/appeals_court_allows_part_of_biden_student_loan/"> <img alt="Appeals court allows part of Biden student loan repayment plan to go forward" src="https://external-preview.redd.it/4v7PE00bJvNRnvAn3VOLGuTb0PeRf-GzvFWi2VwQstM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=98a91261d867a428ed00198ec6922a4c0d9bd466" title="Appeals court allows part of Biden student loan repayment plan to go forward" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://apnews.com/article/student-loan-repayment-save-plan-b39342e0dce69dce2c5582ffba1cfcb7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz14v8/appeals_court_allows_part_of_biden_student_loan/">[comments]</a></span> </td></tr></table>
+
+## Support for legal abortion has risen since Supreme Court eliminated protections, AP-NORC poll finds
+ - [https://www.reddit.com/r/politics/comments/1dz0jsm/support_for_legal_abortion_has_risen_since](https://www.reddit.com/r/politics/comments/1dz0jsm/support_for_legal_abortion_has_risen_since)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T11:56:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz0jsm/support_for_legal_abortion_has_risen_since/"> <img alt="Support for legal abortion has risen since Supreme Court eliminated protections, AP-NORC poll finds" src="https://external-preview.redd.it/Qam1lZvFCXTUElZsSDxq9f0nlhByJqQKHcCvgGAPY7w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9044b8dadb9b003f25223255ca6954e2925448cf" title="Support for legal abortion has risen since Supreme Court eliminated protections, AP-NORC poll finds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/N8CCRG"> /u/N8CCRG </a> <br /> <span><a href="https://apnews.com/article/abortion-trump-biden-election-2024-dobbs-498d14f6e2bbfe1f313f006ad089de4e">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz0jsm/support_for_legal_abortion_has_risen_since/">[comments]</a></span> </td></tr></table>
+
+## Trump allies are peddling a catastrophic idea for U.S. nuclear weapon policy Resuming live testing could spark an arms race and will reduce American security.
+ - [https://www.reddit.com/r/politics/comments/1dz08xu/trump_allies_are_peddling_a_catastrophic_idea_for](https://www.reddit.com/r/politics/comments/1dz08xu/trump_allies_are_peddling_a_catastrophic_idea_for)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T11:39:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dz08xu/trump_allies_are_peddling_a_catastrophic_idea_for/"> <img alt="Trump allies are peddling a catastrophic idea for U.S. nuclear weapon policy Resuming live testing could spark an arms race and will reduce American security." src="https://external-preview.redd.it/gEh8sz0kj8wbXuzo_Lk4YJKBmeWFx0w11QGU0__17rg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0658da4ea33a3b84bdb175509104c6730bf57d8" title="Trump allies are peddling a catastrophic idea for U.S. nuclear weapon policy Resuming live testing could spark an arms race and will reduce American security." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/prohb"> /u/prohb </a> <br /> <span><a href="https://www.msnbc.com/opinion/msnbc-opinion/trump-nuclear-policy-election-rcna160459">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dz08xu/trump_allies_are_peddling_a_catastrophic_idea_for/">[commen
+
+## "Don't discount what he's telling you," Cohen says of Trump's threats. "He's already done it to me"
+ - [https://www.reddit.com/r/politics/comments/1dyz1mo/dont_discount_what_hes_telling_you_cohen_says_of](https://www.reddit.com/r/politics/comments/1dyz1mo/dont_discount_what_hes_telling_you_cohen_says_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T10:28:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dyz1mo/dont_discount_what_hes_telling_you_cohen_says_of/"> <img alt="&quot;Don't discount what he's telling you,&quot; Cohen says of Trump's threats. &quot;He's already done it to me&quot;" src="https://external-preview.redd.it/jJuGUuDHy4xCGax-e_jAPdOTTii7TmYTJG1jGp8n1oc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6046f209e3dc489d88ffa5e1d3d06b1a874dfb49" title="&quot;Don't discount what he's telling you,&quot; Cohen says of Trump's threats. &quot;He's already done it to me&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.salon.com/2024/07/09/dont-discount-what-hes-telling-you-cohen-says-of-threats-hes-already-done-it-to-me/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dyz1mo/dont_discount_what_hes_telling_you_cohen_says_of/">[comments]</a></span> </td></tr></table>
+
+## The media has been breathlessly attacking Biden. What about Trump? | Margaret Sullivan
+ - [https://www.reddit.com/r/politics/comments/1dyyyx8/the_media_has_been_breathlessly_attacking_biden](https://www.reddit.com/r/politics/comments/1dyyyx8/the_media_has_been_breathlessly_attacking_biden)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T10:23:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dyyyx8/the_media_has_been_breathlessly_attacking_biden/"> <img alt="The media has been breathlessly attacking Biden. What about Trump? | Margaret Sullivan" src="https://external-preview.redd.it/h9xI-LV1i0SQyIMQAHm4iWOPCpyticsi685ah6Hwm1w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=89159d2e05d50e096f3c662e386d880eeadd2336" title="The media has been breathlessly attacking Biden. What about Trump? | Margaret Sullivan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PrintOk8045"> /u/PrintOk8045 </a> <br /> <span><a href="https://www.theguardian.com/commentisfree/article/2024/jul/09/biden-media-attacks-trump-felon">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dyyyx8/the_media_has_been_breathlessly_attacking_biden/">[comments]</a></span> </td></tr></table>
+
+## Biden Wins Backing of Progressives AOC, Omar
+ - [https://www.reddit.com/r/politics/comments/1dywcrn/biden_wins_backing_of_progressives_aoc_omar](https://www.reddit.com/r/politics/comments/1dywcrn/biden_wins_backing_of_progressives_aoc_omar)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T07:23:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dywcrn/biden_wins_backing_of_progressives_aoc_omar/"> <img alt="Biden Wins Backing of Progressives AOC, Omar" src="https://external-preview.redd.it/HOe3KCNyWd2Hbe_UN2Gfm7Syhp3r2M-44VFAfjeNWTU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=88a587667e29b990ad385da9b8949e0658d0c1d4" title="Biden Wins Backing of Progressives AOC, Omar" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aslan_is_on_the_move"> /u/aslan_is_on_the_move </a> <br /> <span><a href="https://www.bloomberg.com/news/videos/2024-07-09/biden-wins-backing-of-progressives-aoc-omar">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dywcrn/biden_wins_backing_of_progressives_aoc_omar/">[comments]</a></span> </td></tr></table>
+
+## Jon Stewart: There’s Plenty of Time to Find a Replacement for Biden
+ - [https://www.reddit.com/r/politics/comments/1dyujlx/jon_stewart_theres_plenty_of_time_to_find_a](https://www.reddit.com/r/politics/comments/1dyujlx/jon_stewart_theres_plenty_of_time_to_find_a)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T05:27:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dyujlx/jon_stewart_theres_plenty_of_time_to_find_a/"> <img alt="Jon Stewart: There’s Plenty of Time to Find a Replacement for Biden" src="https://external-preview.redd.it/FFvo1jybzz07lkRar97cdSE9ShJh-hqDa2Gyrkrh2bw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=695220b6f0179d9c67971a693113291610635d43" title="Jon Stewart: There’s Plenty of Time to Find a Replacement for Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glassbox315"> /u/Glassbox315 </a> <br /> <span><a href="https://www.thedailybeast.com/jon-stewart-theres-plenty-of-time-to-find-a-replacement-for-biden">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dyujlx/jon_stewart_theres_plenty_of_time_to_find_a/">[comments]</a></span> </td></tr></table>
+
+## Why Trump doesn’t want you to know he knows about Project 2025 Even for Trump, someone who lies easily and without remorse, the suggestion that he has “no idea who is behind” Project 2025 is laughably false.
+ - [https://www.reddit.com/r/politics/comments/1dysghp/why_trump_doesnt_want_you_to_know_he_knows_about](https://www.reddit.com/r/politics/comments/1dysghp/why_trump_doesnt_want_you_to_know_he_knows_about)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T03:29:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dysghp/why_trump_doesnt_want_you_to_know_he_knows_about/"> <img alt="Why Trump doesn’t want you to know he knows about Project 2025 Even for Trump, someone who lies easily and without remorse, the suggestion that he has “no idea who is behind” Project 2025 is laughably false." src="https://external-preview.redd.it/f9U7X7q9XUXorLed_cJPYxAtsddNwRPZ7UQvNLBxYnk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cda3837133a053370ffb0bcd6574e7cc71bb03d5" title="Why Trump doesn’t want you to know he knows about Project 2025 Even for Trump, someone who lies easily and without remorse, the suggestion that he has “no idea who is behind” Project 2025 is laughably false." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Arrest_The_President"> /u/Arrest_The_President </a> <br /> <span><a href="https://www.msnbc.com/opinion/msnbc-opinion/trump-project-2025-truth-social-rcna160774">[link]</a></span> &#
+
+## Testimony about Trump with Epstein's girls
+ - [https://www.reddit.com/r/politics/comments/1dyscxm/testimony_about_trump_with_epsteins_girls](https://www.reddit.com/r/politics/comments/1dyscxm/testimony_about_trump_with_epsteins_girls)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T03:23:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dyscxm/testimony_about_trump_with_epsteins_girls/"> <img alt="Testimony about Trump with Epstein's girls" src="https://external-preview.redd.it/ZWFEbIatKoWG07TZwZ9aNoN7ENKvApE63UnjK0KFE3M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3507b13a3ec642243b407ab8c0bf45adba82382" title="Testimony about Trump with Epstein's girls" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sinsaint"> /u/sinsaint </a> <br /> <span><a href="https://www.newsweek.com/jeffrey-epstein-documents-released-read-grand-jury-testimony-1919830">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dyscxm/testimony_about_trump_with_epsteins_girls/">[comments]</a></span> </td></tr></table>
+
+## Biden Signs Senator Capito’s Parkinson’s Bill Into Law
+ - [https://www.reddit.com/r/politics/comments/1dyra2z/biden_signs_senator_capitos_parkinsons_bill_into](https://www.reddit.com/r/politics/comments/1dyra2z/biden_signs_senator_capitos_parkinsons_bill_into)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T02:27:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dyra2z/biden_signs_senator_capitos_parkinsons_bill_into/"> <img alt="Biden Signs Senator Capito’s Parkinson’s Bill Into Law" src="https://external-preview.redd.it/Im7RwJ6l2CvQOzyh54yQvTfievpvT7s16Y-mlsG64_8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=03a7182b5b3c04515d7a4cfc224b4ef82489a6e2" title="Biden Signs Senator Capito’s Parkinson’s Bill Into Law" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/roundearthervaxxer"> /u/roundearthervaxxer </a> <br /> <span><a href="https://www.capito.senate.gov/news/in-the-news/biden-signs-senator-capitos-parkinsons-bill-into-law">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dyra2z/biden_signs_senator_capitos_parkinsons_bill_into/">[comments]</a></span> </td></tr></table>
+
+## SCOTUS "invented a new rule": Under Supreme Court ruling, prosecutors can't use evidence of "official" conduct to try "unofficial" acts
+ - [https://www.reddit.com/r/politics/comments/1dyr7il/scotus_invented_a_new_rule_under_supreme_court](https://www.reddit.com/r/politics/comments/1dyr7il/scotus_invented_a_new_rule_under_supreme_court)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T02:23:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dyr7il/scotus_invented_a_new_rule_under_supreme_court/"> <img alt="SCOTUS &quot;invented a new rule&quot;: Under Supreme Court ruling, prosecutors can't use evidence of &quot;official&quot; conduct to try &quot;unofficial&quot; acts" src="https://external-preview.redd.it/Mbt_SorouYvK_IfHp3uNYat5qKH1WAZamkddrm70vhI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d658d59623f089ba32922d2a6ab2b8198edaede5" title="SCOTUS &quot;invented a new rule&quot;: Under Supreme Court ruling, prosecutors can't use evidence of &quot;official&quot; conduct to try &quot;unofficial&quot; acts" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DefiantDetective5"> /u/DefiantDetective5 </a> <br /> <span><a href="https://www.salon.com/2024/07/08/legal-expert-scotus-invented-a-new-rule-that-could-even-give-immunity-for-unofficial-acts/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/co
+
+## Biden Gets Unexpected Boost From ‘Squad’ Members He Once Battled
+ - [https://www.reddit.com/r/politics/comments/1dyqayk/biden_gets_unexpected_boost_from_squad_members_he](https://www.reddit.com/r/politics/comments/1dyqayk/biden_gets_unexpected_boost_from_squad_members_he)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T01:38:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dyqayk/biden_gets_unexpected_boost_from_squad_members_he/"> <img alt="Biden Gets Unexpected Boost From ‘Squad’ Members He Once Battled" src="https://external-preview.redd.it/na7OL6iGSdL_S7q0JG0D5SocS4VFlRZUGBEWRL2zfxE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ce47432339bcb7262aeff5898ba60a61edfdfe3" title="Biden Gets Unexpected Boost From ‘Squad’ Members He Once Battled" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Apprehensive_War6542"> /u/Apprehensive_War6542 </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-07-09/biden-gets-unexpected-boost-from-squad-members-he-once-battled?srnd=homepage-africa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dyqayk/biden_gets_unexpected_boost_from_squad_members_he/">[comments]</a></span> </td></tr></table>
+
+## Satanists in Florida offer to fill school counselor roles after DeSantis law
+ - [https://www.reddit.com/r/politics/comments/1dypoa8/satanists_in_florida_offer_to_fill_school](https://www.reddit.com/r/politics/comments/1dypoa8/satanists_in_florida_offer_to_fill_school)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T01:08:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dypoa8/satanists_in_florida_offer_to_fill_school/"> <img alt="Satanists in Florida offer to fill school counselor roles after DeSantis law" src="https://external-preview.redd.it/FYDfLiuRFyP6EWgtseFXuwEvRYT5mkIX7r9G5DjcxZU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=715576c8af24182582365424cdac4c048b4e81a8" title="Satanists in Florida offer to fill school counselor roles after DeSantis law" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ben-Goldberg"> /u/Ben-Goldberg </a> <br /> <span><a href="https://thehill.com/homenews/education/4760286-satanists-florida-public-school-counselors-desantis/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dypoa8/satanists_in_florida_offer_to_fill_school/">[comments]</a></span> </td></tr></table>
+
+## "We're going to come after you": Kash Patel pledges revenge if Trump wins again “We’re going to come after you, whether it’s criminally or civilly. We’ll figure that out," Patel said.
+ - [https://www.reddit.com/r/politics/comments/1dyp1ue/were_going_to_come_after_you_kash_patel_pledges](https://www.reddit.com/r/politics/comments/1dyp1ue/were_going_to_come_after_you_kash_patel_pledges)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T00:38:20+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/prohb"> /u/prohb </a> <br /> <span><a href="https://www.salon.com/2024/07/08/were-going-to-come-afer-you-kash-patel-pledges-revenge-if-wins-again/?in_brief=true">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dyp1ue/were_going_to_come_after_you_kash_patel_pledges/">[comments]</a></span>
+
+## What is Project 2025? What to know about the conservative blueprint for a second Trump administration
+ - [https://www.reddit.com/r/politics/comments/1dyovuq/what_is_project_2025_what_to_know_about_the](https://www.reddit.com/r/politics/comments/1dyovuq/what_is_project_2025_what_to_know_about_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T00:30:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dyovuq/what_is_project_2025_what_to_know_about_the/"> <img alt="What is Project 2025? What to know about the conservative blueprint for a second Trump administration" src="https://external-preview.redd.it/RWmH3NgvsZlRpyJSV54v1K4ZlLwncyAfYCeFDnjJHes.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3ca7026d50fe9592faaaf7a0bdae5abac72a4a8" title="What is Project 2025? What to know about the conservative blueprint for a second Trump administration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Somervilledrew"> /u/Somervilledrew </a> <br /> <span><a href="https://www.cbsnews.com/news/what-is-project-2025-trump-conservative-blueprint-heritage-foundation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dyovuq/what_is_project_2025_what_to_know_about_the/">[comments]</a></span> </td></tr></table>
+
+## To Elect Trump, Republicans Are Hiding Their Extreme Anti-Abortion Plans
+ - [https://www.reddit.com/r/politics/comments/1dyollw/to_elect_trump_republicans_are_hiding_their](https://www.reddit.com/r/politics/comments/1dyollw/to_elect_trump_republicans_are_hiding_their)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-07-09T00:16:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1dyollw/to_elect_trump_republicans_are_hiding_their/"> <img alt="To Elect Trump, Republicans Are Hiding Their Extreme Anti-Abortion Plans" src="https://external-preview.redd.it/ydlQgtXA_MxRICrd-m3L8F79VziHE_yc3IUd8YpPIiE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=faa263497aa07185ddd5447743de9a66108eed25" title="To Elect Trump, Republicans Are Hiding Their Extreme Anti-Abortion Plans" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MTDreams123"> /u/MTDreams123 </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/trump-republicans-hide-anti-abortion-plans-rnc-platform-1235055438/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1dyollw/to_elect_trump_republicans_are_hiding_their/">[comments]</a></span> </td></tr></table>
+
