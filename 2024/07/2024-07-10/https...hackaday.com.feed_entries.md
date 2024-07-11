@@ -1,0 +1,72 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## Bring Your Reusable Grocery Bag on Your Head
+ - [https://hackaday.com/2024/07/10/bring-your-reusable-grocery-bag-on-your-head](https://hackaday.com/2024/07/10/bring-your-reusable-grocery-bag-on-your-head)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-10T23:00:35+00:00
+
+<div><img alt="A green hat with a grey zipper is partially opened revealing the grey mesh inside. It is held by two hands manipulating the zipper. The picture is inside a red circle overlaid on top of a tinted image of a workshop. A red line points to an image of a woman looking to the right wearing the green baseball cap." class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/07/ZHkoAWs-BQk-HD.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>After decades of taking plastic bags for granted, some places now charge for them to help offset some of the environmental damage they cause. If you have a tendency to <a class="read-more" href="https://hackaday.com/2024/07/10/bring-your-reusable-grocery-bag-on-your-head/">&#8230;read more</a>
+
+## If You Want An Expensive Chair Just Print Your Own
+ - [https://hackaday.com/2024/07/10/if-you-want-an-expensive-chair-just-print-your-own](https://hackaday.com/2024/07/10/if-you-want-an-expensive-chair-just-print-your-own)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-10T20:00:31+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/07/I-3D-Printed-a-1224-Chair-22-41-screenshot-1.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>The Magis Spun chair is a weird piece. It&#8217;s basically a kind of seat with a round conical base that stops it from sitting still in one place. Instead, it <a class="read-more" href="https://hackaday.com/2024/07/10/if-you-want-an-expensive-chair-just-print-your-own/">&#8230;read more</a>
+
+## FLOSS Weekly Episode 791: It’s All About Me!
+ - [https://hackaday.com/2024/07/10/floss-weekly-episode-791-its-all-about-me](https://hackaday.com/2024/07/10/floss-weekly-episode-791-its-all-about-me)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-10T18:35:45+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="484" src="https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>This week David Ruggles chats with Jonathan Bennett about his origin story! What early core memory does Jonathan pin his lifelong computer hobby on? And how was a tense meeting <a class="read-more" href="https://hackaday.com/2024/07/10/floss-weekly-episode-791-its-all-about-me/">&#8230;read more</a>
+
+## Supercon 2023: Why More Hackers Should Earn Their Wings
+ - [https://hackaday.com/2024/07/10/supercon-2023-why-more-hackers-should-earn-their-wings](https://hackaday.com/2024/07/10/supercon-2023-why-more-hackers-should-earn-their-wings)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-10T17:00:13+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/07/mloduch23_feat.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Hacking has taken on many different meanings over the years, but if you&#8217;re here reading these words, we&#8217;ll assume your definition is pretty close to ours. To hack is to <a class="read-more" href="https://hackaday.com/2024/07/10/supercon-2023-why-more-hackers-should-earn-their-wings/">&#8230;read more</a>
+
+## Bringing the 555 Mini-Notebook to Video
+ - [https://hackaday.com/2024/07/10/bringing-the-555-mini-notebook-to-video](https://hackaday.com/2024/07/10/bringing-the-555-mini-notebook-to-video)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-10T15:30:23+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/07/A7X9-8tcj5A-00-06-53-2-I-Built-Every-555-Circuit-in-the-Forrest-Mims-Engineers-Mini-Notebook-Part-1_4.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Like many of us [AnotherMaker] is a fan of the classic Forrest Mims electronics books, specifically, the Engineer&#8217;s Mini-Notebook series. They were great sources of inspiration, but at the time, <a class="read-more" href="https://hackaday.com/2024/07/10/bringing-the-555-mini-notebook-to-video/">&#8230;read more</a>
+
+## PCB Design Review: HAB Tracker With ATMega328P
+ - [https://hackaday.com/2024/07/10/pcb-design-review-hab-tracker-with-atmega328p](https://hackaday.com/2024/07/10/pcb-design-review-hab-tracker-with-atmega328p)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-10T14:20:14+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="464" src="https://hackaday.com/wp-content/uploads/2024/04/PCBdesign.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Welcome to the Design Review Central! [VE3SVF] sends us their board, and it&#8217;s a HAB (High Altitude Balloon) tracker board. It&#8217;s got the venerable ATMega28P on it, a LoRa modem <a class="read-more" href="https://hackaday.com/2024/07/10/pcb-design-review-hab-tracker-with-atmega328p/">&#8230;read more</a>
+
+## A New Raspberry 5 DSI Cable Makes Using Screens Easier
+ - [https://hackaday.com/2024/07/10/a-new-raspberry-5-dsi-cable-makes-using-screens-easier](https://hackaday.com/2024/07/10/a-new-raspberry-5-dsi-cable-makes-using-screens-easier)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-10T11:00:08+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/07/cable-final_8952b8-e1720512784734.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Arguably the greatest strength of the Raspberry Pi is the ecosystem &#8212; it&#8217;s well-supported by its creators and the aftermarket. At the same time, the proliferation of different boards has <a class="read-more" href="https://hackaday.com/2024/07/10/a-new-raspberry-5-dsi-cable-makes-using-screens-easier/">&#8230;read more</a>
+
+## Model Rocket Nails Vertical Landing After Three-Year Effort
+ - [https://hackaday.com/2024/07/10/model-rocket-nails-vertical-landing-after-three-year-effort](https://hackaday.com/2024/07/10/model-rocket-nails-vertical-landing-after-three-year-effort)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-10T08:00:38+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/07/rocket.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Model rocketry has always taken cues from what&#8217;s happening in the world of full-scale rockets, with amateur rocketeers doing their best to incorporate the technologies and methods into their creations. <a class="read-more" href="https://hackaday.com/2024/07/10/model-rocket-nails-vertical-landing-after-three-year-effort/">&#8230;read more</a>
+
+## Build Your Own 16 MB 30-Pin SIMMs For Vintage PCs
+ - [https://hackaday.com/2024/07/09/build-your-own-16-mb-30-pin-simms-for-vintage-pcs](https://hackaday.com/2024/07/09/build-your-own-16-mb-30-pin-simms-for-vintage-pcs)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-10T05:00:48+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/07/DIY-16MB-30-Pin-FPM-SIMMs_-Supercharge-Your-Vintage-Hardware-17-23-screenshot.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>Today&#8217;s memory sticks have hundreds of pins and many gigabytes of RAM on board. Decades ago, though, the humble 30-pin SIMM was the state of the art where memory was <a class="read-more" href="https://hackaday.com/2024/07/09/build-your-own-16-mb-30-pin-simms-for-vintage-pcs/">&#8230;read more</a>
+
+## Misconceptions About Loops, or: Static Code Analysis is Hard
+ - [https://hackaday.com/2024/07/09/misconceptions-about-loops-or-static-code-analysis-is-hard](https://hackaday.com/2024/07/09/misconceptions-about-loops-or-static-code-analysis-is-hard)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-10T02:00:03+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="405" src="https://hackaday.com/wp-content/uploads/2024/06/control_flow_merges_figure_3_martin_brand_et_al_2024.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" width="800" /></div>When thinking about loops in programming languages, they often get simplified down to a conditions section and a body, but this belies the dizzying complexity that emerges when considering loop <a class="read-more" href="https://hackaday.com/2024/07/09/misconceptions-about-loops-or-static-code-analysis-is-hard/">&#8230;read more</a>
+

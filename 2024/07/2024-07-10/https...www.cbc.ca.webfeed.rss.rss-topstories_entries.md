@@ -1,0 +1,219 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## John Hillman, B.C. veteran who raised funds and spirits during pandemic, dead at 105
+ - [https://www.cbc.ca/news/canada/british-columbia/bc-veteran-john-hillman-death-1.7260031?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/bc-veteran-john-hillman-death-1.7260031?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T18:54:51+00:00
+
+<img alt="A man wearing medals" height="349" src="https://i.cbc.ca/1.5555458.1720649748!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/john-hillman.jpg" title="John Hillman, a 101-year-old Second World War veteran, has pledged to walk 101 laps around his retirement home in Victoria&apos;s Oak Bay to raise money for charity. " width="620" /><p>In 2020, Hillman gained widespread attention for his fundraising efforts for Save the Children Canada's COVID relief fund, raising $169,000 while walking around the courtyard of his Oak Bay retirement home. </p>
+
+## AFN calls for federal government to recognize First Nations jurisdiction over policing
+ - [https://www.cbc.ca/news/indigenous/afn-resolution-policing-jurisdiction-1.7259691?cmp=rss](https://www.cbc.ca/news/indigenous/afn-resolution-policing-jurisdiction-1.7259691?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T18:50:36+00:00
+
+<img alt="Man gestures in front of a microphone" height="349" src="https://i.cbc.ca/1.7259956.1720647021!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/afn-assembly-20240709.jpg" title="Quebec and Labrador Regional Chief Ghislain Picard attends the Assembly of First Nations annual general assembly  in Montreal, Tuesday, July 9, 2024." width="620" /><p></p>
+
+## Your questions answered after listeria concern forces nationwide recall on some plant milk products
+ - [https://www.cbc.ca/player/play/9.6444704?cmp=rss](https://www.cbc.ca/player/play/9.6444704?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T18:37:29+00:00
+
+<img alt="A row of Silk and Great Value plant milk beverages." height="349" src="https://i.cbc.ca/ais/52410321-dbfe-47f8-b6fc-fee9470bde59,1720650967038/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3BResize%3D%28620%29" title="" width="620" /><p>Dr. Vanessa Allen, a microbiologist and infectious diseases specialist, explains the dangers and illness brought on by listeria contamination and how it could have occurred in facilities that develop products like Silk and Great Value beverages, which were linked to nine listeriosis cases in Ontario and have resulted in a Canada-wide recall.</p>
+
+## Conrad Black, who battled Chrétien over British peerage, removed from U.K. House of Lords
+ - [https://www.cbc.ca/news/politics/conrad-black-removed-house-of-lords-1.7259948?cmp=rss](https://www.cbc.ca/news/politics/conrad-black-removed-house-of-lords-1.7259948?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T18:08:10+00:00
+
+<img alt="Conrad Black poses at the University Club in Toronto on Tuesday, November 11, 2014. THE CANADIAN PRESS/Darren Calabrese" height="349" src="https://i.cbc.ca/1.7259879.1720644719!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/conrad-black-201401111.jpg" title="Conrad Black poses at the University Club in Toronto on Tuesday, November 11, 2014." width="620" /><p>Former media baron Conrad Black, who famously tried to sue then-Prime Minister Jean Chrétien in his fight to secure a British peerage, has been removed from the House of Lords over his lax attendance.</p>
+
+## 'A great day': Young North Atlantic right whale freed from fishing gear by crews in St. Lawrence Estuary
+ - [https://www.cbc.ca/news/canada/montreal/north-atlantic-whale-rescue-free-from-ropes-1.7259945?cmp=rss](https://www.cbc.ca/news/canada/montreal/north-atlantic-whale-rescue-free-from-ropes-1.7259945?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T18:05:48+00:00
+
+<img alt="A man on a small boat sticks a pole into the water, where a whale is popping its head out of the water" height="349" src="https://i.cbc.ca/1.7258550.1720553629!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/whale-detangle.JPG" title="The young whale entangled in fishing gear is seen on June 30 off of Shippagan, N.B. The Campobello Whale Rescue Team (CWRT) will attempt the disentanglement again after the one-and-a-half-year-old travelled into the St. Lawrence Estuary." width="620" /><p>Most of the fishing gear entangling a young whale for weeks was cut away on Wednesday by crews during an intervention in the St. Lawrence Estuary.</p>
+
+## Newfoundland fish harvesters crash news conference to demand reinstating of cod moratorium
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/cod-moratorium-protesters-1.7259735?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/cod-moratorium-protesters-1.7259735?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T17:21:15+00:00
+
+<img alt="Protesters hold posters inside a hotel ballroom." height="349" src="https://i.cbc.ca/1.7259842.1720643431!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/environment-minister-nwes-conference-protesters.jpg" title="A group of about 15 people stood next to the ministers with signs calling for the stewardship fishery to be reinstated. FFAW President Greg Pretty, seen in the front wearing a blue shirt, said harvesters can&apos;t let Ottawa&apos;s decision stand." width="620" /><p>Fish harvesters in Newfoundland crashed the podium at a meeting of Canada's environment ministers in St. John's on Wednesday, demanding a meeting with Justin Trudeau over the federal government's decision to reopen the commercial cod fishery in Newfoundland and Labrador.</p>
+
+## England scores late to defeat the Netherlands in Euro semis, will face Spain in final
+ - [https://www.cbc.ca/sports/soccer/european-championship-soccer-semifinal-recap-july-10-1.7259798?cmp=rss](https://www.cbc.ca/sports/soccer/european-championship-soccer-semifinal-recap-july-10-1.7259798?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T17:03:13+00:00
+
+<img alt="A men&apos;s soccer player runs in celebration." height="349" src="https://i.cbc.ca/1.7259895.1720645023!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2161530730.jpg" title="England forward Ollie Watkins celebrates after scoring during the team&apos;s 1-0 Euro semifinal victory over the Netherlands in Dortmund, Germany on Wednesday." width="620" /><p>England reached a second straight European Championship final by beating the Netherlands 2-1 thanks to substitute Ollie Watkins' stoppage-time winner on Wednesday.</p>
+
+## Probe of Assembly of First Nations finances finds no policy breaches, says confidential report
+ - [https://www.cbc.ca/news/indigenous/afn-audit-bdo-report-1.7259681?cmp=rss](https://www.cbc.ca/news/indigenous/afn-audit-bdo-report-1.7259681?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T16:53:52+00:00
+
+<img alt="A man is seen in the foreground with a large sign displaying the AFN logo in the background." height="349" src="https://i.cbc.ca/1.7259694.1720638434!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/afn-assembly-20240709.jpg" title="An attendee walks past a banner at the Assembly of First Nations annual general assembly  in Montreal, Tuesday, July 9, 2024. " width="620" /><p>A preliminary probe into Assembly of First Nations finances found no apparent policy breaches but did see instances where internal control policies may not provide staff with enough clarity or guidance, says a confidential report obtained by CBC Indigenous.</p>
+
+## Kremlin critic's lawyer says Kara-Murza stable in prison hospital, after 'bogus excuses'
+ - [https://www.cbc.ca/news/world/vladimir-kara-murza-prison-1.7259699?cmp=rss](https://www.cbc.ca/news/world/vladimir-kara-murza-prison-1.7259699?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T16:11:15+00:00
+
+<img alt="A man raises his  fist" height="349" src="https://i.cbc.ca/1.7259713.1720642049!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-crackdown.jpg" title="Russian opposition activist Vladimir Kara-Murza gestures while standing in a defendants&apos; cage at the Moscow City Court in Moscow, Russia, on July 31, 2023. " width="620" /><p>A lawyer for imprisoned Russian opposition politician Vladimir Kara-Murza found his health was 'relatively stable' after visiting him in a prison hospital where he had been held incommunicado for several days, the dissident's legal team said Wednesday. </p>
+
+## Average asking rent in Canada up 7% from a year ago, even as price growth slows
+ - [https://www.cbc.ca/news/business/rentals-report-june-1.7259212?cmp=rss](https://www.cbc.ca/news/business/rentals-report-june-1.7259212?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T16:00:29+00:00
+
+<img alt="A white sign outside of a highrise with Apartments, Waiting List printed on it." height="349" src="https://i.cbc.ca/1.7247671.1719433325!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/apartment-rentals.jpg" title="No vacancy sign in front of West End Vancouver apartment. " width="620" /><p>The average asking rent in Canada reached $2,185 in June, up seven per cent compared with a year ago despite representing the slowest annual rate of growth in 13 months, according to a report by Urbanation and Rentals.ca.</p>
+
+## Families in Gaza mourn loved ones killed in Israeli airstrikes as fighting intensifies
+ - [https://www.cbc.ca/news/world/gaza-israel-war-air-strike-1.7259493?cmp=rss](https://www.cbc.ca/news/world/gaza-israel-war-air-strike-1.7259493?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T15:46:33+00:00
+
+<img alt="Two men hug each other in tears outside a morgue." height="349" src="https://i.cbc.ca/1.7259685.1720638174!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg" title="Palestinians mourn relatives killed in the Israeli bombardment of the Gaza Strip, at a hospital morgue in Deir al-Balah on July 9, 2024." width="620" /><p>A series of Israeli airstrikes over the past two days has killed dozens in Gaza. More than 40 Palestinians were killed on Tuesday, in Gaza City in the north, Bureij, Deir al-Balah and Nuseirat in central Gaza and in Rafah in the south, according to medics.</p>
+
+## Canada warns of AI-driven Russian 'bot farm' spreading disinformation online
+ - [https://www.cbc.ca/news/politics/canada-russian-bot-farm-1.7259665?cmp=rss](https://www.cbc.ca/news/politics/canada-russian-bot-farm-1.7259665?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T15:04:30+00:00
+
+<img alt="Canadian security officials are warning of a Russian propaganda campaign that is spreading online disinformation through social media site X. A man uses a computer keyboard in Toronto in a Sunday, Oct. 9, 2023 photo illustration." height="349" src="https://i.cbc.ca/1.7259669.1720637514!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cybersecurity-20240710.JPG" title="Canadian security officials are warning of a Russian propaganda campaign that is spreading online disinformation through social media site X. A man uses a computer keyboard in Toronto in a Sunday, Oct. 9, 2023 photo illustration." width="620" /><p>Canadian security officials are warning about a Russian propaganda campaign that used the social media site X to spread disinformation online. The Canadian Centre for Cyber Security said individuals affiliated with RT, formerly known as Russia Today, have been using a social media bot farm at the direction of the Russian government.</p>
+
+## Ex-Raptors player Jontay Porter pleads guilty in case tied to gambling scandal
+ - [https://www.cbc.ca/sports/basketball/nba/jontay-porter-guilty-plea-betting-case-nba-raptors-1.7259625?cmp=rss](https://www.cbc.ca/sports/basketball/nba/jontay-porter-guilty-plea-betting-case-nba-raptors-1.7259625?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T14:50:01+00:00
+
+<img alt="Former Toronto Raptors centre Jontay Porter and Denver Nuggets guard Jamal Murray are shown standing on the court during a March 11, 2024 NBA regular-season game in Colorado." height="349" src="https://i.cbc.ca/1.7253505.1720035059!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/porter-jontay-240311-1180.jpg" title="An NBA investigation found in April that former Raptors player Jontay Porter tipped off bettors about his health and then claimed illness to exit at least one game, creating wins for anyone who&apos;d bet on him to underperform expectations. " width="620" /><p>Former Toronto Raptors centre Jontay Porter on Wednesday pleaded guilty to conspiracy to commit wire fraud in a federal criminal case tied to the betting scandal that got him banned from the league earlier this year.</p>
+
+## Alex Janvier, groundbreaking Indigenous artist and one of Canada's greatest painters, dead at 89
+ - [https://www.cbc.ca/news/canada/edmonton/renowned-artist-alex-janvier-dies-at-age-89-1.7259618?cmp=rss](https://www.cbc.ca/news/canada/edmonton/renowned-artist-alex-janvier-dies-at-age-89-1.7259618?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T14:42:52+00:00
+
+<img alt="A man looks into the camera." height="349" src="https://i.cbc.ca/1.7259620.1720635959!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/alex-janvier.jpg" title="Artist Alex Janvier, pictured here at his gallery in Cold Lake First Nations on Wednesday February 8, 2017, has died at the age of 89. Officials at the Assembly of First Nations annual general meeting announced his death and held a moment of silence." width="620" /><p>Janvier, who was from Cold Lake First Nations in Alberta, is considered one of Canada's greatest painters.</p>
+
+## IN PHOTOS | Tour de France hits the halfway mark
+ - [https://www.cbc.ca/news/world/in-photos-tour-de-france-hits-the-halfway-mark-1.7259488?cmp=rss](https://www.cbc.ca/news/world/in-photos-tour-de-france-hits-the-halfway-mark-1.7259488?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T14:39:05+00:00
+
+<img alt="Cyclists turn a corner on a cobble stone street as one rider falls near his bike." height="349" src="https://i.cbc.ca/1.7259509.1720641776!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/2160809685.JPG" title="Belgian rider Wout Van Aert crashes in the Col de Neronne ascent during the 11th stage of the 111th edition of the Tour de France cycling race, 211 km between fvaux-les-Bains and Le Lioran, on July 10, 2024." width="620" /><p>As riders pushed through the hills of Italy and the mountains of France, photographers covering the Tour de France captured the crashes, spectators and the emotion of winning. The 111th edition of the famous cycling race started on June 29 and will finish in Nice, France, on July 21. </p>
+
+## British police track down suspect in crossbow killings of BBC presenter's wife, daughters
+ - [https://www.cbc.ca/news/world/uk-crossbow-killings-bbc-presenter-1.7259561?cmp=rss](https://www.cbc.ca/news/world/uk-crossbow-killings-bbc-presenter-1.7259561?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T14:28:35+00:00
+
+<img alt="Two police officers, with their backs turned, stand in front of white and blue police tape stretched across a road. In the background is a white, yellow and blue police vehicle and a blue and white tent standing in front of a brick house." height="349" src="https://i.cbc.ca/1.7259597.1720635634!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/bbc-presenter-john-hunt-family-killed.jpg" title="Police and emergency services at the scene in Ashlyn Close, after an incident on Tuesday evening, in Bushey, Hertfordshire, England, Wednesday, July 10, 2024. British police were hunting for a man believed to be armed with a crossbow on Wednesday after three women were killed in a house near London. The BBC said the women killed were the family of its main radio racing commentator John Hunt." width="620" /><p>British police said they found Wednesday the man suspected of using a crossbow to kill the wife and two daughters of a BBC radio commentator near London and that the suspect is
+
+## Family of 3, including infant, dead after crash in B.C.: RCMP
+ - [https://www.cbc.ca/news/canada/british-columbia/family-dead-crash-1.7259425?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/family-dead-crash-1.7259425?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T14:02:14+00:00
+
+<img alt="A red car is totaled and sitting on a barrier, in front of a white-and-blue tractor trailer. " height="349" src="https://i.cbc.ca/1.7259454.1720634419!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/agassiz-car-crash-july-2024.jpeg" title="Police say they found a tractor trailer collided with a car near Agassiz, B.C. on Tuesday morning." width="620" /><p>A family of three died in a head-on collision near Agassiz, B.C., early Tuesday, according to the RCMP. Two adults in the car died at the scene; an infant in the car was airlifted to hospital but died a few hours later, police said.</p>
+
+## Canada names Olympic men's basketball roster — led by NBA stars Shai Gilgeous-Alexander and Jamal Murray
+ - [https://www.cbc.ca/sports/olympics/summer/basketball/canada-olympic-mens-basketball-roster-paris-1.7259301?cmp=rss](https://www.cbc.ca/sports/olympics/summer/basketball/canada-olympic-mens-basketball-roster-paris-1.7259301?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T13:33:41+00:00
+
+<img alt="Canada guard Shai Gilgeous-Alexander reacts with teammate Dillon Brooks during the Basketball World Cup bronz-medal game against the United States in Manila, Philippines on Sept. 10, 2023." height="349" src="https://i.cbc.ca/1.7259313.1720632705!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gilgeous-alexander-shai-230910-1180.jpg" title="Canada guard Shai Gilgeous-Alexander, left, and teammate Dillon Brooks will compete in the Olympic men&apos;s basketball tournament later this month in Paris. " width="620" /><p>Oklahoma City Thunder star Shai Gilgeous-Alexander and Denver Nuggets guard Jamal Murray headline a Canadian men's basketball team heavy with NBA experience that will compete at this summer's Paris Olympics.</p>
+
+## Black man dies after being pinned down by Milwaukee hotel guards
+ - [https://www.cbc.ca/news/world/dvontaye-mitchell-hyatt-hotel-death-video-1.7259390?cmp=rss](https://www.cbc.ca/news/world/dvontaye-mitchell-hyatt-hotel-death-video-1.7259390?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T12:35:13+00:00
+
+<img alt="A city skyline is seen at dusk." height="349" src="https://i.cbc.ca/1.7259534.1720632097!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/wisconsin-daily-life.jpg" title="The Milwaukee Art Museum and skyline are seen on May 31, 2023 in Milwaukee." width="620" /><p>Police are investigating the death of Dvontaye Mitchell, a Black man who died last month after being pinned to the ground by hotel security guards in Milwaukee. Mitchell's death has drawn comparisons to the murder of George Floyd</p>
+
+## Alec Baldwin 'violated the cardinal rules of firearm safety,' says prosecutor in trial's opening statements
+ - [https://www.cbc.ca/news/entertainment/baldwin-involuntary-manslaughter-trial-1.7259345?cmp=rss](https://www.cbc.ca/news/entertainment/baldwin-involuntary-manslaughter-trial-1.7259345?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T12:20:42+00:00
+
+<img alt="A man wearing a suit looks over his shoulder." height="349" src="https://i.cbc.ca/1.7259354.1720625474!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-baldwin-set-shooting.jpg" title="Actor Alec Baldwin listens during his hearing in Santa Fe County District Court, Wednesday, July 10, 2024, in Santa Fe, N.M. Baldwin is facing a single charge of involuntary manslaughter in the death of a cinematographer. " width="620" /><p>A prosecutor says Alec Baldwin "violated the cardinal rules of firearm safety" in opening statements at his involuntary manslaughter trial in New Mexico. Prosecutor Erlinda Johnson gave the prosecution's opening Wednesday.</p>
+
+## Alberta issues fire ban for entire forest protection area as extreme temperatures continue
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-issues-fire-ban-for-entire-forest-protection-area-as-extreme-temperatures-continue-1.7259391?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-issues-fire-ban-for-entire-forest-protection-area-as-extreme-temperatures-continue-1.7259391?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T12:15:53+00:00
+
+<img alt="A group of individuals wearing firefighter uniforms stand in a circle listening to a man in the middle. " height="349" src="https://i.cbc.ca/1.7259729.1720640126!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wildfire-briefing.jpg" title="Firefighters receive an early-morning safety briefing at a Semo Wildfire Complex on Wednesday, July 10. " width="620" /><p>A fire ban has been implemented for Alberta's entire forest protection amid scorching temperatures that have prompted heat warnings, strained crews battling out-of-control wildfires and forced the evacuation of a northern community.</p>
+
+## Evacuation ordered for northern Alberta community as heat wave boosts wildfire risk
+ - [https://www.cbc.ca/news/canada/edmonton/evacuation-ordered-for-northern-alberta-community-as-heat-wave-boosts-wildfire-risk-1.7259391?cmp=rss](https://www.cbc.ca/news/canada/edmonton/evacuation-ordered-for-northern-alberta-community-as-heat-wave-boosts-wildfire-risk-1.7259391?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T12:15:53+00:00
+
+<img alt="A group of individuals wearing firefighter uniforms stand in a circle listening to a man in the middle. " height="349" src="https://i.cbc.ca/1.7259729.1720640126!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wildfire-briefing.jpg" title="Firefighters receive an early-morning safety briefing at a Semo Wildfire Complex on Wednesday, July 10. " width="620" /><p>Scorching temperatures will continue in Alberta today with an expected high of 37 C prompting heat warnings across the province.</p>
+
+## Dozens of heat-related emergency calls in B.C. as more temperature records fall and wildfire risk rises
+ - [https://www.cbc.ca/news/canada/british-columbia/heat-warnings-still-in-effect-wednesday-1.7259299?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/heat-warnings-still-in-effect-wednesday-1.7259299?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T11:42:03+00:00
+
+<img alt="Two people walk barefoot along water." height="349" src="https://i.cbc.ca/1.7259318.1720623861!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/hot-weather.jpg" title="People walk along the beach of Harrison Lake on a hot and sunny day in Harrison Hot Springs, B.C. on Friday July 5, 2024. " width="620" /><p>About 20 heat warnings are still in effect for some parts of B.C. on Wednesday, including for the southern Interior, where high temperatures are expected to last into Thursday. </p>
+
+## Intuit to close Edmonton office as global tech firm cuts 1,800 jobs across operations
+ - [https://www.cbc.ca/news/canada/edmonton/intuit-to-close-edmonton-office-as-global-tech-firm-cuts-1-800-jobs-across-operations-1.7259302?cmp=rss](https://www.cbc.ca/news/canada/edmonton/intuit-to-close-edmonton-office-as-global-tech-firm-cuts-1-800-jobs-across-operations-1.7259302?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T11:36:09+00:00
+
+<img alt="Blue and orange boxes with the words Intuit TurboTax on them." height="349" src="https://i.cbc.ca/1.7259327.1720624396!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/turbotax-settlement.jpg" title="This Feb. 22, 2018 photo shows a display of TurboTax software in a Sam&apos;s Club in Pittsburgh. The company behind the TurboTax tax-filing program will pay $141 million to customers across the United States who were deceived by misleading promises of free tax-filing services, New York&apos;s attorney general announced Wednesday, May 4, 2022. (AP Photo/Gene J. Puskar)" width="620" /><p>TurboTax-parent Intuit said on Wednesday it will let go of about 1,800 employees, or 10 per cent of its workforce, as it looks to focus on its artificial intelligence-powered tax preparation software and other financial products.</p>
+
+## U.S.-built pier in Gaza to be removed permanently in final blow to plagued aid project
+ - [https://www.cbc.ca/news/world/gaza-aid-pier-1.7259145?cmp=rss](https://www.cbc.ca/news/world/gaza-aid-pier-1.7259145?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T09:58:08+00:00
+
+<img alt="Soldiers gesture at a large truck unloading onto a  pier" height="349" src="https://i.cbc.ca/1.7259157.1720615734!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians-gaza-pier.jpg" title="A U.S. Army soldier gestures as trucks loaded with humanitarian aid arrive at the U.S.-built floating pier Trident before reaching the beach on the coast of the Gaza Strip, Tuesday, June 25, 2024. " width="620" /><p>The pier built by the U.S. military to bring humanitarian aid to Gaza will be reinstalled today to be used for several days, but then the plan is to pull it out permanently, several U.S. officials said.</p>
+
+## Former Democratic U.S. presidential candidate fears 'a landslide' if Biden stays in race
+ - [https://www.cbc.ca/news/world/democratic-concerns-biden-1.7259094?cmp=rss](https://www.cbc.ca/news/world/democratic-concerns-biden-1.7259094?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T07:33:13+00:00
+
+<img alt="An older clean shaven man points in a closeup shot of him standing behind a podium and speaking." height="349" src="https://i.cbc.ca/1.7259108.1720609198!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nato-summit.jpg" title="President Joe Biden delivers remarks on the 75th anniversary of NATO at the Andrew W. Mellon Auditorium, Tuesday, July 9, 2024, in Washington.  " width="620" /><p>The mood on Capitol Hill is grimly uncertain for Democrats, who are wrestling over U.S. President Joe Biden's re-election prospects and the extraordinary question before them: whether to stand behind his candidacy or push the president to bow out amid concerns over his ability to lead them to victory.</p>
+
+## McGill University closes campus for dismantling operation of pro-Palestinian encampment
+ - [https://www.cbc.ca/news/canada/montreal/mcgill-asks-encampment-to-leave-1.7259095?cmp=rss](https://www.cbc.ca/news/canada/montreal/mcgill-asks-encampment-to-leave-1.7259095?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T06:47:57+00:00
+
+<img alt="Police surround a Palestinian encampment. " height="349" src="https://i.cbc.ca/1.7259097.1720605905!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mcgill-encampment.jpg" title="" width="620" /><p>Around 4 a.m., a post from an Instagram account belonging to protesters at the encampment said police were surrounding the side streets at McGill and feared that police would dismantle the tents. </p>
+
+## 100 women race in Hamilton to win back a world record for 1-mile relay
+ - [https://www.cbc.ca/news/canada/hamilton/100-x-one-mile-relay-1.7258573?cmp=rss](https://www.cbc.ca/news/canada/hamilton/100-x-one-mile-relay-1.7258573?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T04:00:00+00:00
+
+<img alt="Two people jog arm in arm on a track with a crowd of runners behind them." height="349" src="https://i.cbc.ca/1.7258588.1720556160!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/paula-schnurr-and-patti-moore.jpg" title="Paula Schnurr, front right, and Patti Moore, front left, jog arm and arm in front of the athletes who ran to break a world record at McMaster University in Hamilton on July 7. " width="620" /><p>In 1999, Paula Schnurr and Patti Moore were part of a group in Toronto that ran to set a Guinness World Record for the fastest time in which 100 women ran a one-mile relay. That record stood for 24 years until an American team beat it by five minutes last year. On Sunday, 100 women in Hamilton won in back, they say.</p>
+
+## Grassy Narrows First Nation appeals to international human rights commission over mercury contamination
+ - [https://www.cbc.ca/news/canada/thunder-bay/grassy-narrows-first-nation-human-rights-commission-1.7258531?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/grassy-narrows-first-nation-human-rights-commission-1.7258531?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T04:00:00+00:00
+
+<img alt="People are seen standing outside of an industrial plant carrying signs. " height="349" src="https://i.cbc.ca/1.7258574.1720553425!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/grassy-narrows-protest.jpg" title="Protesters are seen standing in front of the Dryden Paper Mill in this June 2024 file photo. Members of Grassy Narrows First Nation have renewed calls to shut down the paper mill after a recent study found ongoing emissions are worsening toxins in the English-Wabigoon river system." width="620" /><p>In its efforts to press the Ontario and federal governments to do more to address mercury contamination of its river, Grassy Narrows First Nation told the Inter-American Commission on Human Rights that many community members are struggling to do everyday things like go to work and school. During the virtual public hearing, the First Nation called for justice after decades of mercury poisoning.</p>
+
+## Men dragged Brampton mother by car to steal her son's Air Jordans, police say
+ - [https://www.cbc.ca/news/canada/toronto/brampton-mother-dragged-shoes-facebook-marketplace-scam-1.7257523?cmp=rss](https://www.cbc.ca/news/canada/toronto/brampton-mother-dragged-shoes-facebook-marketplace-scam-1.7257523?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T04:00:00+00:00
+
+<img alt="Vashtie Doorga and her son" height="349" src="https://i.cbc.ca/1.7258233.1720538570!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/vashtie-doorga-and-her-son.jpg" title="Vashtie Doorga&apos;s son wanted to help his single mother by starting his shoe resell business. She brought him his first pair of Air Jordans to sell, but their first customer they found on Facebook Marketplace stole the high-end shoes and dragged Doorga for 12 meters leaving her with serious injuries. " width="620" /><p>A Brampton mom says she was dragged by a car and seriously injured while trying to help her teenage son sell a pair of high-end sneakers to someone they met on Facebook Marketplace.</p>
+
+## Poilievre says he wants to restore the military while cutting spending — how would that work?
+ - [https://www.cbc.ca/news/politics/poilievre-armed-forces-military-nato-1.7258338?cmp=rss](https://www.cbc.ca/news/politics/poilievre-armed-forces-military-nato-1.7258338?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-10T04:00:00+00:00
+
+<img alt="Conservative Leader Pierre Poilievre speaks during a rally in Montreal on Wednesday, June 19, 2024." height="349" src="https://i.cbc.ca/1.7258627.1720554646!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/que-poilievre-20240619.JPG" title="Conservative Leader Pierre Poilievre speaks during a rally in Montreal on Wednesday, June 19, 2024." width="620" /><p>Listen to Pierre Poilievre list his top priorities — cutting taxes, building homes, reducing the federal budget and fighting crime — and you won't hear a specific mention of Canada's military.</p>
+
