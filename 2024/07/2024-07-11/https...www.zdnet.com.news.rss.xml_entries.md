@@ -1,0 +1,226 @@
+# Source:ZDNET, URL:https://www.zdnet.com/news/rss.xml, language:en-US
+
+## How to use Google's AI-powered NotebookLM to organize your research
+ - [https://www.zdnet.com/article/how-to-use-notebooklm/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-notebooklm/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T19:36:00+00:00
+
+Google's NotebookLM can collect and collate your notes, documents, research, and sources to help you make sense of it all.
+
+## How to clear the cache on your TV (and why you should do it)
+ - [https://www.zdnet.com/home-and-office/home-entertainment/how-to-clear-the-cache-on-your-tv-and-why-you-should-do-it/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/how-to-clear-the-cache-on-your-tv-and-why-you-should-do-it/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T19:00:33+00:00
+
+Clearing the cache on your TV can be a great way to improve its performance, fix bugs, and ensure you get the best viewing experience. But what exactly is a cache, and why is it important to clear it?
+
+## Join Sam's Club for $25 - half off the usual price
+ - [https://www.zdnet.com/home-and-office/join-sams-club-for-25-half-off-the-usual-price/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/join-sams-club-for-25-half-off-the-usual-price/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T19:00:20+00:00
+
+Buy an annual Sam's Club membership for 50% off with this deal to help you save even more on groceries, household items, electronics, and more.
+
+## This Sony Bravia is the best TV you've never heard of - and it's on sale for Prime Day
+ - [https://www.zdnet.com/home-and-office/home-entertainment/this-sony-bravia-is-the-best-tv-youve-never-heard-of-and-its-on-sale-for-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/this-sony-bravia-is-the-best-tv-youve-never-heard-of-and-its-on-sale-for-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T18:49:06+00:00
+
+I've seen the best TVs of 2024, and the Sony X90L from 2023 is the TV I'd most recommend. Get one at a discount ahead of Amazon Prime Day.
+
+## Get a one-year subscription to Microsoft 365 for 35% off
+ - [https://www.zdnet.com/article/get-a-one-year-subscription-to-microsoft-365-for-35-off/#ftag=RSSbaffb68](https://www.zdnet.com/article/get-a-one-year-subscription-to-microsoft-365-for-35-off/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T18:30:20+00:00
+
+Access Office apps like Word, Excel, PowerPoint, and Outlook, along with 1TB of OneDrive cloud storage for the lowest price we've seen with this deal.
+
+## How to set up read receipts for your iPhone's text messages
+ - [https://www.zdnet.com/article/how-to-set-up-read-receipts-for-your-iphones-text-messages/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-set-up-read-receipts-for-your-iphones-text-messages/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T18:16:24+00:00
+
+Want to notify someone that you've read their text? You can enable read receipts on your iPhone -- iPad, Mac, and Apple Watch, too -- for everyone or just for specific people. Here's how to set this up.
+
+## This LG TV has one of the best displays I've seen, and it's not even the newest model
+ - [https://www.zdnet.com/home-and-office/home-entertainment/this-lg-tv-has-one-of-the-best-displays-ive-seen-and-its-not-even-the-newest-model/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/this-lg-tv-has-one-of-the-best-displays-ive-seen-and-its-not-even-the-newest-model/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T18:16:00+00:00
+
+LG's G3 smart TV (2023) is a sleek, top-of-the-line smart TV with some truly impressive features. And one year after its release, it's a little more approachable.
+
+## This Anker MagSafe charger beats Apple's, and it's a third of the price right now
+ - [https://www.zdnet.com/article/this-anker-magsafe-charger-offers-more-than-apples-at-half-the-price-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-anker-magsafe-charger-offers-more-than-apples-at-half-the-price-right-now/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T17:59:00+00:00
+
+Need an iPhone charge boost on the go without pesky wires? This battery pack is for you, and it's 42% off ahead of Amazon Prime Day.
+
+## Last chance: Buy Microsoft Office for Windows or Mac for $25
+ - [https://www.zdnet.com/article/last-chance-buy-microsoft-office-for-windows-or-mac-for-25/#ftag=RSSbaffb68](https://www.zdnet.com/article/last-chance-buy-microsoft-office-for-windows-or-mac-for-25/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T17:30:20+00:00
+
+This deal on a lifetime license to Microsoft Office 2019 for Windows or Mac gives you access to Microsoft Word, Excel, PowerPoint, and more for 89% off. This deal ends today.
+
+## The Apple Watch SE (2nd Gen) is $60 off right now ahead of Amazon Prime Day
+ - [https://www.zdnet.com/article/the-apple-watch-se-2nd-gen-is-60-off-right-now-ahead-of-amazon-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-apple-watch-se-2nd-gen-is-60-off-right-now-ahead-of-amazon-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T17:21:00+00:00
+
+You can grab the Apple Watch SE (2nd Gen) for a whopping 24% off right now, and here's why you'll want to.
+
+## How 5 simple tab tricks make your Firefox browser so much more productive
+ - [https://www.zdnet.com/home-and-office/work-life/how-5-simple-tab-tricks-make-your-firefox-browser-so-much-more-productive/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/how-5-simple-tab-tricks-make-your-firefox-browser-so-much-more-productive/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T17:16:24+00:00
+
+Is Firefox's default tab management not working for you? That's because you haven't tried these extensions and built-in features. You won't believe the difference!
+
+## This Nespresso machine brews barista-quality coffee at home, and it's 34% off ahead of Amazon Prime Day
+ - [https://www.zdnet.com/home-and-office/this-nespresso-machine-brews-barista-quality-coffee-at-home-and-its-34-off-for-amazon-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/this-nespresso-machine-brews-barista-quality-coffee-at-home-and-its-34-off-for-amazon-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T17:14:00+00:00
+
+With this machine, you can skip the coffee shop and save hundreds of dollars, and it's $68 off.
+
+## If you're ready to leave Windows 11 behind, this is the distro for new Linux users
+ - [https://www.zdnet.com/article/sdesk-is-an-open-source-alternative-to-those-looking-to-leave-windows-11/#ftag=RSSbaffb68](https://www.zdnet.com/article/sdesk-is-an-open-source-alternative-to-those-looking-to-leave-windows-11/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T17:07:00+00:00
+
+SDesk is a lightweight open-source alternative to Windows or MacOS that will look familiar to anyone who's used a computer.
+
+## If you're ready to leave Windows 11 behind, this is the distro for new Linux users
+ - [https://www.zdnet.com/article/if-youre-ready-to-leave-windows-11-behind-this-is-the-distro-for-new-linux-users/#ftag=RSSbaffb68](https://www.zdnet.com/article/if-youre-ready-to-leave-windows-11-behind-this-is-the-distro-for-new-linux-users/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T17:07:00+00:00
+
+SDesk is a lightweight open-source alternative to Windows or MacOS that will look familiar to anyone who's used a computer.
+
+## You can now easily move your photos from Google Photos to iCloud Photos. Here's how
+ - [https://www.zdnet.com/article/you-can-now-easily-move-your-photos-from-google-photos-to-icloud-photos-heres-how/#ftag=RSSbaffb68](https://www.zdnet.com/article/you-can-now-easily-move-your-photos-from-google-photos-to-icloud-photos-heres-how/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T16:39:07+00:00
+
+If you're moving from Android to iOS, you'll be able to take your photos with you thanks to a new collaborative tool.
+
+## Get your pup the smart Halo Collar 3 that's $100 off ahead of Prime Day
+ - [https://www.zdnet.com/home-and-office/kitchen-household/halo-dog-collar-prime-day-2024-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/halo-dog-collar-prime-day-2024-deal/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T16:29:00+00:00
+
+You can get $100 off the high-tech Halo dog collar that keeps track of your pup's location and activity levels as an early Prime Day deal.
+
+## Do you need antivirus on Linux?
+ - [https://www.zdnet.com/article/do-you-need-antivirus-on-linux/#ftag=RSSbaffb68](https://www.zdnet.com/article/do-you-need-antivirus-on-linux/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T16:26:00+00:00
+
+If you've been a Windows user for years, then you are well aware of the need for antivirus software. It's a given. But does the same hold true for the open-source operating system?
+
+## Apple sends new warning about mercenary spyware attacks to iPhone users. Should you worry now?
+ - [https://www.zdnet.com/article/apple-warns-of-mercenary-spyware-attacks-against-iphone-users-should-you-be-worried/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-warns-of-mercenary-spyware-attacks-against-iphone-users-should-you-be-worried/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T16:00:00+00:00
+
+Though mercenary spyware attacks are rare and typically sent only to targeted individuals, Apple has alerted iPhone users about them for the second time this year.
+
+## ServiceNow's 4 key AI principles and why they matter to your business
+ - [https://www.zdnet.com/article/servicenows-4-key-ai-principles-and-why-they-matter-to-your-business/#ftag=RSSbaffb68](https://www.zdnet.com/article/servicenows-4-key-ai-principles-and-why-they-matter-to-your-business/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T15:31:34+00:00
+
+How is ServiceNow empowering enterprise management with AI? Learn from user experience expert Amy Lokey - who's served as UX VP at Google - about ethical AI, inclusivity, and productivity-boosting features transforming the workplace.
+
+## Your business is going to rely on hundreds of AI models. Here's why
+ - [https://www.zdnet.com/article/your-business-is-going-to-rely-on-hundreds-of-ai-models-heres-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/your-business-is-going-to-rely-on-hundreds-of-ai-models-heres-why/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T15:28:00+00:00
+
+We're heading to an 'ensemble' approach to AI that uses several models simultaneously for every output. However, IT managers are worried about capacity and cost.
+
+## Prime Day may be a few days away, but the Echo Show 8 already hit an all-time low price
+ - [https://www.zdnet.com/home-and-office/smart-home/prime-day-may-be-a-few-days-away-but-the-echo-show-8-hit-an-all-time-low-price-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/prime-day-may-be-a-few-days-away-but-the-echo-show-8-hit-an-all-time-low-price-deal/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T15:22:00+00:00
+
+With this deal, Amazon's third-generation Echo Show features faster speeds and an ambient display to streamline your smart home experience for only $85.
+
+## Baseus power banks recalled due to fire hazard - check your model number
+ - [https://www.zdnet.com/article/baseus-power-banks-recalled-due-to-fire-hazard-check-your-model-number/#ftag=RSSbaffb68](https://www.zdnet.com/article/baseus-power-banks-recalled-due-to-fire-hazard-check-your-model-number/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T14:55:11+00:00
+
+Following several dozen reports of fires, the company is voluntarily recalling two of its popular power banks. See if you're affected and what replacements we recommend.
+
+## The 47 best early Prime Day 2024 gaming deals
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-early-amazon-prime-day-gaming-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-early-amazon-prime-day-gaming-deals/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T14:44:39+00:00
+
+Amazon's annual Prime Day sale is just around the corner, but you don't have to wait to find great deals on gaming consoles, PCs and laptops, accessories, and even games themselves.
+
+## You can now get SpaceX's Starlink Mini internet antenna that can fit in your backpack
+ - [https://www.zdnet.com/article/you-can-now-get-spacexs-starlink-mini-internet-antenna-that-can-fit-in-your-backpack/#ftag=RSSbaffb68](https://www.zdnet.com/article/you-can-now-get-spacexs-starlink-mini-internet-antenna-that-can-fit-in-your-backpack/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T14:09:00+00:00
+
+The small kit comes with a built-in Wi-Fi router that promises internet anywhere in the US, and it's no longer tied to a home subscription.
+
+## The 30 best early Prime Day 2024 TV deals
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-early-amazon-prime-day-tv-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-early-amazon-prime-day-tv-deals/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T14:03:06+00:00
+
+Amazon Prime Day is just around the corner, but you don't have to wait to save big on TVs from Samsung, Sony, LG, and more.
+
+## Apple needs to fix this crazy iPhone annoyance
+ - [https://www.zdnet.com/article/apple-needs-to-fix-this-crazy-iphone-annoyance/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-needs-to-fix-this-crazy-iphone-annoyance/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T10:01:20+00:00
+
+I use my iPhone a lot. But one feature on the device is a massive annoyance and I seriously hope the issue is fixed in the iPhone 16.
+
+## 3 ways to interact with Gemini from the MacOS desktop
+ - [https://www.zdnet.com/article/3-ways-to-interact-with-gemini-from-the-macos-desktop/#ftag=RSSbaffb68](https://www.zdnet.com/article/3-ways-to-interact-with-gemini-from-the-macos-desktop/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T08:26:42+00:00
+
+If Gemini is your go-to AI and MacOS is your operating system of choice, you'll be glad to know there are ways to interact with Google's AI from Apple's desktop.
+
+## Samsung's new Galaxy Buds 3 look nearly identical to Apple AirPods - and that's a good thing
+ - [https://www.zdnet.com/article/samsungs-new-galaxy-buds-3-look-nearly-identical-to-apple-airpods-and-thats-a-good-thing/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsungs-new-galaxy-buds-3-look-nearly-identical-to-apple-airpods-and-thats-a-good-thing/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T07:02:00+00:00
+
+Samsung's latest wireless earbuds debut with several new features, plus an unexpected but welcomed redesign.
+
+## Every product Samsung unveiled at Unpacked July 2024: Galaxy Z Fold 6, Watch Ultra, Ring, more
+ - [https://www.zdnet.com/article/every-product-samsung-unveiled-at-unpacked-july-2024-galaxy-z-fold-6-watch-ultra-ring-more/#ftag=RSSbaffb68](https://www.zdnet.com/article/every-product-samsung-unveiled-at-unpacked-july-2024-galaxy-z-fold-6-watch-ultra-ring-more/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T07:00:00+00:00
+
+At Unpacked yesterday, Samsung unveiled several new products, including two foldable phones, smartwatches, earbuds, and a smart ring that competes with Oura.
+
+## Samsung Galaxy Watch Ultra hands-on: Key specs, features, and everything you should know
+ - [https://www.zdnet.com/article/samsung-galaxy-watch-ultra-hands-on-key-specs-features-and-everything-you-should-know/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-galaxy-watch-ultra-hands-on-key-specs-features-and-everything-you-should-know/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T06:58:00+00:00
+
+Samsung's answer to the Apple Watch Ultra is loaded with sensors at a more affordable price.
+
+## How to clear your Google search cache on Android (and why you should)
+ - [https://www.zdnet.com/article/how-to-clear-google-search-cache-on-android/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-clear-google-search-cache-on-android/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T03:52:00+00:00
+
+If you're concerned about your privacy, you should regularly clear your Google search cache on Android. Here's how to do this manually and set up auto-delete.
+
+## Amazon updates AI enterprise solutions with guardrails at AWS Summit
+ - [https://www.zdnet.com/article/amazon-updates-ai-enterprise-solutions-with-guardrails-at-aws-summit/#ftag=RSSbaffb68](https://www.zdnet.com/article/amazon-updates-ai-enterprise-solutions-with-guardrails-at-aws-summit/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-07-11T03:49:41+00:00
+
+The cloud provider launched several enterprise tools for the generative AI era while emphasizing its security track record.
+

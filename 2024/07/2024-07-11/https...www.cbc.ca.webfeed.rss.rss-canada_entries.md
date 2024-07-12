@@ -1,0 +1,44 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Whitehorse hospital patients being treated in offices, hallways during latest capacity surge
+ - [https://www.cbc.ca/news/canada/north/whitehorse-hospital-patients-being-treated-in-offices-hallways-during-latest-capacity-surge-1.7260983?cmp=rss](https://www.cbc.ca/news/canada/north/whitehorse-hospital-patients-being-treated-in-offices-hallways-during-latest-capacity-surge-1.7260983?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-07-11T16:29:42+00:00
+
+<img alt="An areial view of the Whitehorse hospital" height="349" src="https://i.cbc.ca/1.6155612.1714505813!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/whitehorse-hospital.jpg" title="Whitehorse General Hospital. The Yukon Medical Association received survey responses from 74 doctors. That includes people working across the territory, in family practices and hospitals, specialist areas and government clinics. " width="620" /><p>An internal memo to Whitehorse hospital staff issued on Wednesday describes the hospital’s current state of overload. There were 19 patients without a bed as of that morning, the memo says. </p>
+
+## Teck closes sale of B.C. coal mining operations to Swiss company
+ - [https://www.cbc.ca/news/canada/british-columbia/teck-closes-sale-bc-coal-mining-operations-glencore-1.7260811?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/teck-closes-sale-bc-coal-mining-operations-glencore-1.7260811?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-07-11T14:50:42+00:00
+
+<img alt="White smoke floats up from a mining operation in brown hills." height="349" src="https://i.cbc.ca/1.6773191.1680816059!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/coal-mining-operation-in-sparwood.JPG" title="A coal mining operation in Sparwood, B.C., is shown on Nov. 30, 2016." width="620" /><p>An earlier attempted hostile takeover by the Swiss commodities giant sparked concerns of economic nationalism at a federal level.</p>
+
+## 6.4M quake that struck off B.C. is part of recent 'swarm': agency
+ - [https://www.cbc.ca/news/canada/british-columbia/earthquakes-vancouver-island-1.7260618?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/earthquakes-vancouver-island-1.7260618?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-07-11T12:41:08+00:00
+
+<img alt="A map showing an earthquake" height="349" src="https://i.cbc.ca/1.7260620.1720715673!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/earthquake-july-11-2024.jpg" title="An earthquake measured at a magnitude of 6.4 by Earthquakes Canada was detected off the coast of Vancouver Island on July 11, 2024 at 8:08 a.m. PT." width="620" /><p>An earthquake with a preliminary magnitude of 6.4 struck off the coast of Vancouver Island on Thursday morning, part of an ongoing "swarm" of quakes being detected off the British Columbia coast.</p>
+
+## Lawsuit alleges B.C. government failed to protect domestic violence victim's records
+ - [https://www.cbc.ca/news/canada/british-columbia/privacy-breach-minister-domestic-violence-1.7247374?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/privacy-breach-minister-domestic-violence-1.7247374?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-07-11T07:00:00+00:00
+
+<img alt="A close-up of a hand covering a face." height="349" src="https://i.cbc.ca/1.7151717.1720639326!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/domestic-violence.jpg" title="A photo illustration of violence." width="620" /><p>A woman is suing the B.C. government and the head of the provincial victim assistance program, claiming they failed to protect sensitive files detailing alleged physical and sexual abuse she suffered at the hands of her husband.</p>
+
+## Canada commits an extra $500M in military assistance as NATO rallies around Ukraine
+ - [https://www.cbc.ca/news/politics/canada-ukraine-russia-war-1.7260215?cmp=rss](https://www.cbc.ca/news/politics/canada-ukraine-russia-war-1.7260215?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-07-11T04:00:00+00:00
+
+<img alt="Two men stand in front of a blue backdrop; the one on the left in a black polo shirt and the one on the right in a blue suit with a red tie. " height="349" src="https://i.cbc.ca/1.7260233.1720662524!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-nato-summit-20240710.jpg" title="Prime Minister Justin Trudeau meets with Ukrainian President Volodymyr Zelenskyy at the NATO Summit in Washington, Wednesday, July 10, 2024. " width="620" /><p>Canada committed an additional half-billion dollars in military assistance to Ukraine as NATO launches a major initiative to provide stable funding and military supplies for the war with Russia.</p>
+
+## Hamilton, Ont. school board pauses Kanien'kéha language program at 1 of 2 elementary schools offering it
+ - [https://www.cbc.ca/news/canada/hamilton/mohawk-classes-paused-1.7259799?cmp=rss](https://www.cbc.ca/news/canada/hamilton/mohawk-classes-paused-1.7259799?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-07-11T04:00:00+00:00
+
+<img alt="A person holding a feather stands outside with two children." height="349" src="https://i.cbc.ca/1.7259815.1720644774!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/christina-barahona-and-kids.jpg" title="Christina Barahona, right, and two of her children, who she says have benefited greatly from learning Kanien&apos;kéha language." width="620" /><p>One of two Hamilton public elementary schools offering Mohawk language classes has suspended the program for this fall as the board conducts a review that will include looking at how it recruits instructors. Now, returning students who were learning the Indigenous language must change schools or switch to studying French in September.</p>
+

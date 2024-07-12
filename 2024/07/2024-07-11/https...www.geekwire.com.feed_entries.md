@@ -1,0 +1,30 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## Mozilla’s product chief sues the Firefox maker, alleging discrimination after cancer diagnosis
+ - [https://www.geekwire.com/2024/mozillas-product-chief-sues-the-firefox-maker-alleging-discrimination-after-cancer-diagnosis](https://www.geekwire.com/2024/mozillas-product-chief-sues-the-firefox-maker-alleging-discrimination-after-cancer-diagnosis)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-07-11T23:14:57+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1051" src="https://cdn.geekwire.com/wp-content/uploads/2024/07/Steve-Teixeira-Mozilla_01-4.jpg" width="1000" /><br />Steve Teixeira, a former Microsoft, Facebook, and Twitter executive in the Seattle area who became chief product officer at Mozilla Corp. nearly two years ago, is suing the company for alleged discrimination and other claims after taking medical leave for cancer treatment. The suit, filed June 24 in King County Superior Court in Seattle, alleges that Mozilla and some of its executives &#8220;campaigned to demote or terminate Mr. Teixeira citing groundless concerns and assumptions about his capabilities as an individual living with cancer.&#8221; Mozilla, whose products include the Firefox web browser, denied the allegations and said it will &#8220;vigorously defend&#8221;&#8230; <a href="https://www.geekwire.com/2024/mozillas-product-chief-sues-the-firefox-maker-alleging-discrimination-after-cancer-diagnos
+
+## This climate tech leader wants startups to solve urgent needs — and is raising a fund to help them
+ - [https://www.geekwire.com/2024/this-climate-tech-leader-wants-startups-to-solve-urgent-needs-and-is-raising-a-fund-to-do-it](https://www.geekwire.com/2024/this-climate-tech-leader-wants-startups-to-solve-urgent-needs-and-is-raising-a-fund-to-do-it)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-07-11T21:53:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2024/07/May2024-225-1260x945.jpg" width="1260" /><br />Aina Abiodun is ready for the climate tech sector to recognize that communities everywhere are already experiencing the challenging impacts of a warmer world &#8212; and they need help surviving them. &#8220;We&#8217;ve got to not just pander to people and say, &#8216;We&#8217;re going to solve climate change in 10 years, it&#8217;s going to be all gone,'&#8221; Abiodun said. People have urgent climate needs right now, like exposure to smoke, kids with asthma and damage from flooding, she added. &#8220;Let&#8217;s just talk about those problems.&#8221; As president and executive director of VertueLab, a longtime nonprofit supporting climate tech innovation, Abiodun is&#8230; <a href="https://www.geekwire.com/2024/this-climate-tech-leader-wants-startups-to-solve-urgent-needs-and-is-raising-a-fund-to-do-it/">Read Mo
+
+## Portland startup lands $2.7M for autonomous robots designed to disinfect hotels and hospitals
+ - [https://www.geekwire.com/2024/portland-startup-lands-2-7m-for-autonomous-robots-designed-to-disinfect-hotels-and-hospitals](https://www.geekwire.com/2024/portland-startup-lands-2-7m-for-autonomous-robots-designed-to-disinfect-hotels-and-hospitals)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-07-11T21:09:40+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="709" src="https://cdn.geekwire.com/wp-content/uploads/2024/07/Violet-Studio-Shots-Dark-Bacground-1260x709.jpg" width="1260" /><br />Haystack Robotics, a Portland, Ore.-based startup developing robotics technology for disinfection use cases, has raised $2.7 million from an investment entity associated with healthcare IT company Agadia Systems. Haystack&#8217;s robots roam around a room and use UV-C light to destroy germs and viruses. The company is targeting hotels, offices, fitness centers, hospitals, senior living facilities, veterinarians, and more. Haystack is in the early stage of commercialization and has some paying customers. Founded in 2021, Haystack is one of many companies selling disinfection robots. Some formed out of the pandemic. Haystack differentiates itself with what it describes as &#8220;smart disinfection.&#8221; &#8220;Our&#8230; <a href="https://www.geekwire.com/2024/portland-startup-lands-2-7m-for-
+
+## Who’s raising? The top funding deals for Pacific Northwest startups in Q2
+ - [https://www.geekwire.com/2024/whos-raising-the-top-funding-deals-for-pacific-northwest-startups-in-q2](https://www.geekwire.com/2024/whos-raising-the-top-funding-deals-for-pacific-northwest-startups-in-q2)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-07-11T15:56:42+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="807" src="https://cdn.geekwire.com/wp-content/uploads/2024/07/Screenshot-2024-07-11-at-8.34.51%E2%80%AFAM-1260x807.png" width="1260" /><br />Tech startups spanning biotech, agriculture, healthcare, autonomous vehicles, and other industries reeled in the largest funding rounds during the second quarter this year across the Pacific Northwest. Total venture capital raised in Q2 came in at $382 million across 34 deals, according to GeekWire&#8217;s funding tracker. That dollar value is just below the previous quarter; down nearly 50% from the year-ago period; and not even in the same hemisphere as the second quarter of 2022, when 63 companies raised a collective $2.1 billion. It&#8217;s a new world for startups. The era of growth-at-all-costs and plentiful venture capital dollars are long&#8230; <a href="https://www.geekwire.com/2024/whos-raising-the-top-funding-deals-for-pacific-northwest-startups-in-q2/">Read More</a>
+

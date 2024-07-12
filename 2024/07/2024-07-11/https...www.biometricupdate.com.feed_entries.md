@@ -1,0 +1,128 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## Physical, digital spoof detection for ID documents upgraded by IDScan.net
+ - [https://www.biometricupdate.com/202407/physical-digital-spoof-detection-for-id-documents-upgraded-by-idscan-net](https://www.biometricupdate.com/202407/physical-digital-spoof-detection-for-id-documents-upgraded-by-idscan-net)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-07-11T20:47:34+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1367" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/28000603/shutterstock_224408887-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/idscan-net">IDScan.net</a> is introducing new tools to detect more instances of tampering on identity documents.
+
+The new features to detect physical or digital tampering are being built into IDScan.net’s Digital Identity Verification Engine (<a href="https://idscan.net/digital-identity-verification-api/">DIVE</a>) platform.
+
+Among the enhanced tampering checks are improved metadata inspection to confirm the authenticity of the picture, image compression checks to find signs of image manipulation and processing, according to the announcement. Physical tampering detection is improved with print quality detection and color matching, more accurate micro-shadow checks and stronger font consistency analysis.
+
+IDScan.n
+
+## Social media giants face the wrath of new Australian government committee
+ - [https://www.biometricupdate.com/202407/social-media-giants-face-the-wrath-of-new-australian-government-committee](https://www.biometricupdate.com/202407/social-media-giants-face-the-wrath-of-new-australian-government-committee)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-07-11T19:28:38+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/04182147/teen-phone-scaled.jpg" width="2048" />
+		Australia continues to harden its stance on social media. In a release from the office of Minister for Communications Michelle Rowland, the government has announced the establishment of a <a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Social_Media">Joint Parliamentary Select Committee</a> to investigate the influence and <a href="https://www.biometricupdate.com/202405/australias-age-verification-trial-for-porn-sites-extends-to-cover-social-media">impacts of social media</a> on Australian society.
+
+The committee forms in the wake of Meta’s refusal to sign a new agreement that would see it pay for hosting news. Rowland argues that <a href="https://www.biometricupdate.com/202406/age-assurance-laws-trigger-lawsuits-in-ongoing-scuffle-with-porn-social-med
+
+## New Zealand trust framework looks to onboard digital ID providers
+ - [https://www.biometricupdate.com/202407/new-zealand-trust-framework-looks-to-onboard-digital-id-providers](https://www.biometricupdate.com/202407/new-zealand-trust-framework-looks-to-onboard-digital-id-providers)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-07-11T19:23:38+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1356" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/11/30115519/new-zealand-digital-scaled.jpg" width="2048" />
+		In an <a href="https://www.rnz.co.nz/news/national/521777/new-digital-framework-tackles-trust-issues">interview</a> with Radio New Zealand (RNZ), Digital Identity New Zealand Executive Director Colin Wallis confirms that the country’s <a href="https://www.biometricupdate.com/202407/new-zealand-digital-identity-regulator-opens-doors-ushering-in-era-of-digital-id">digital trust framework</a> is live, marking the first move toward safeguarding what has until now been an unregulated national digital identity industry.
+
+The framework, the enabling legislation for which went into effect on July 1, is intended to give New Zealanders additional protection from scammers and phishers, and to make it easier for users to verify their identity with digital credentials housed on 
+
+## Google introduces passkeys for users at high risk of cyberattacks
+ - [https://www.biometricupdate.com/202407/google-introduces-passkeys-for-users-at-high-risk-of-cyberattacks](https://www.biometricupdate.com/202407/google-introduces-passkeys-for-users-at-high-risk-of-cyberattacks)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-07-11T19:09:16+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1367" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/18164532/laptop-video-call-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/google">Google</a> users now have the option to use passkeys for account security in signing up for its Advanced Protection Program (APP). Until now, APP – which was developed for people at high risk of targeted cyberattacks such as journalists, elected officials and human rights workers – required two physical security keys for access. A <a href="https://blog.google/technology/safety-security/google-passkeys-advanced-protection-program/">blog post</a> from the company says it is now easy for users to add passkey access to its strongest level of account security.
+
+“<a href="https://www.biometricupdate.com/202405/on-world-password-day-the-industry-dreams-of-passkeys">Passkeys</a> give high risk users the option to rely
+
+## EU residency permits to exempt Brits from biometric checks at UK border
+ - [https://www.biometricupdate.com/202407/eu-residency-permits-to-exempt-brits-from-biometric-checks-at-uk-border](https://www.biometricupdate.com/202407/eu-residency-permits-to-exempt-brits-from-biometric-checks-at-uk-border)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-07-11T19:00:19+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1536" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/21105254/uk-border-scaled.jpg" width="2048" />
+		The UK government has confirmed its intention to implement the changes necessary to accommodate the European Union’s new digital <a href="https://www.biometricupdate.com/202312/eus-biometric-entry-exit-system-may-have-a-launch-date">Entry/Exit System (EES) by October 6, 2024</a>, in an <a href="https://www.gov.uk/guidance/living-in-france">update of information</a> about changes to the French border.
+
+This system will require travelers to create a digital record when entering the EU’s Schengen Zone, which includes providing biometric data such as fingerprints and facial images at the border. Those with certain EU identity documents, however, are exempt from the biometrics requirement.
+
+In France, qualifying documents include all forms of Withdrawal Agreement residency permits
+
+## Biometrics key to controlling autonomous, software-defined vehicles
+ - [https://www.biometricupdate.com/202407/biometrics-key-to-controlling-autonomous-software-defined-vehicles](https://www.biometricupdate.com/202407/biometrics-key-to-controlling-autonomous-software-defined-vehicles)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-07-11T15:16:28+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/22183732/shutterstock_2247754625-scaled.jpg" width="2048" />
+		The future of the automotive industry hinges on autonomous and connected vehicles, leading to advancements in connectivity, safety, efficiency, and user experience technologies. In the areas of safety and user experience, companies have made growth in developing biometric systems to accurately authenticate users and monitor driver alertness, among other capabilities.
+
+Various new applications have arisen for integrating multimodal biometric systems, including in-cabin monitoring for user authentication and car-sharing features. According to the <a href="https://www.idnow.io/portfolio/mobility-report/#pdf">Trend Report for Mobility</a> by IDnow, these systems are increasingly being utilized in use cases such as car rental, car financing, micromobility, and mobili
+
+## iProov targets growing face biometrics in the Philippines
+ - [https://www.biometricupdate.com/202407/iproov-targets-growing-face-biometrics-in-the-philippines](https://www.biometricupdate.com/202407/iproov-targets-growing-face-biometrics-in-the-philippines)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-07-11T15:07:04+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1080" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/24203910/selfie-id-verification-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/iproov-limited">iProov</a> is investing in the Philippines as one of its next big target markets, according to <a href="https://www.bworldonline.com/technology/2024/07/11/607261/identity-verification-provider-iproov-looks-to-enter-phl-mart/#google_vignette">BusinessWorld</a>.
+
+“The British ambassador to the Philippines visited our office. For us, the Philippines is a large, exciting, and important market, and we are doing everything we can to enable citizens and employees to benefit from the trust and security that we bring to online transactions,” CEO Andrew Bud told the publication.
+
+The company has customers in the global banking market, and among government organizations like the Australia’s tax office, Brita
+
+## DHS to hold industry day for biometric scanner contract
+ - [https://www.biometricupdate.com/202407/dhs-to-hold-industry-day-for-biometric-scanner-contract](https://www.biometricupdate.com/202407/dhs-to-hold-industry-day-for-biometric-scanner-contract)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-07-11T14:57:19+00:00
+
+<img alt="DHS" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1024" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/26135657/DHS-2.jpg" width="1536" />
+		A hybrid industry day will be held by the U.S. Department of Homeland Security on July 29 to share information on a contract opportunity to supply biometric collection devices.
+
+Biometric hardware will be acquired by DHS’s Office of Biometric Identity Management (OBIM), but <a href="https://sam.gov/opp/3788af837fd54a549cd36284a3edddca/view">the event</a> will be held at the Transportation Security Administration’s building in Springfield, Virginia.
+
+The industry day follows a request for information, and gives DHS an opportunity to share its vision for the required biometric gear, as well as take feedback from the industry.
+
+An <a href="https://www.highergov.com/contract-opportunity/biometric-collection-devices-request-for-informa-70rda124rfi000009-r-a0438/">RFI from OBIM</a> in May 
+
+## Aratek fingerprint biometrics improves inmate verification in India
+ - [https://www.biometricupdate.com/202407/aratek-fingerprint-biometrics-improves-inmate-verification-in-india](https://www.biometricupdate.com/202407/aratek-fingerprint-biometrics-improves-inmate-verification-in-india)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-07-11T14:53:27+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="777" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/03150458/biometric-data-privacy-scaled.jpg" width="2048" />
+		Taiwan-based fingerprint biometrics provider <a href="https://www.biometricupdate.com/companies/aratek">Aratek</a> says a partnership with Indian firm Dialtronics helped improve the authentication system for inmates across correctional services in India through their advanced biometric software and hardware.
+
+According to a <a href="https://cdn.prod.website-files.com/61845f7929f5aa517ebab941/668b8e319239bb2d87313e0e_Aratek%20Case%20Study-Inmate%20Telephone%20System%20Upgrades%20with%20Fingerprint%20Authentication.pdf">case study</a>, Aratek says it had its A600-M optical fingerprint modules integrated into Dialtronics’ IP phones as part of the partnership, creating a strong and reliable communication platform for inmates.
+
+This partnership created a system of secu
+
+## Cybercriminals exploit lack of MFA use by aid groups
+ - [https://www.biometricupdate.com/202407/cybercriminals-exploit-lack-of-mfa-use-by-aid-groups](https://www.biometricupdate.com/202407/cybercriminals-exploit-lack-of-mfa-use-by-aid-groups)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-07-11T14:44:17+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/20155817/passwordless-authentication-scaled.jpg" width="2048" />
+		Humanitarian organizations in the Middle East are being targeted by cyberattacks likely coming from supporters of the Houthi rebels, an Islamist movement based in Yemen.
+
+The revelation that cyber attackers are attempting to steal credentials and gather information from humanitarian and human rights groups comes amid a trend of incorporating biometrics into aid distribution. The United Nations’ World Food Programme (WFP) has been <a href="https://www.biometricupdate.com/201908/yemen-rebels-agree-to-biometric-wfp-aid-distribution-system">introducing</a> biometric solutions in Yemen to answer the country’s humanitarian catastrophe.
+
+The cyberattacks were performed by a group named OilAlpha, according to findings from threat intelligence company <a href="https:
+
+## Biometric verification is becoming part of the global health toolkit
+ - [https://www.biometricupdate.com/202407/biometric-verification-is-becoming-part-of-the-global-health-toolkit](https://www.biometricupdate.com/202407/biometric-verification-is-becoming-part-of-the-global-health-toolkit)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-07-11T14:34:56+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1367" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/19172639/patient-digital-identity-scaled.jpg" width="2048" />
+		Use cases for biometrics and digital ID in <a href="https://www.biometricupdate.com/202406/indias-nha-to-advance-digital-healthcare-via-abha-card-tokenization">digital healthcare systems</a> continue to proliferate globally. Indonesian healthcare authorities have deployed facial recognition to improve efficiency and prevent identity theft. Kenyan hospitals will soon require biometric verification for patients. And the Philippines has launched an e-health platform as part of its <a href="https://www.biometricupdate.com/202407/philippines-mulls-mandatory-national-id-for-govt-aid">digital transformation</a> campaign.
+<h2>FRT helps fight fraud, reduce lineups in Indonesia</h2>
+In Jakarta, Indonesia, the BPJS Kesehatan – the social security administrator for health 
+

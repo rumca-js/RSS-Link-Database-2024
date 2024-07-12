@@ -1,0 +1,155 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Next week's Epic Games Store freebies bringing arcade management and Welsh folklore horror
+ - [https://www.eurogamer.net/next-weeks-epic-games-store-freebies-bring-arcade-management-and-welsh-folklore-horror](https://www.eurogamer.net/next-weeks-epic-games-store-freebies-bring-arcade-management-and-welsh-folklore-horror)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T21:34:54+00:00
+
+<img src="https://assetsio.gnwcdn.com/Arcade-Paradise-art-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+If you just can't get enough of those Epic Games Store freebies, here're some more for your list; Epic has revealed an upcoming twosome of arcade management action and Welsh folklore horror when its latest batch of free titles arrives next week. And, before that, grid-based, turn-based deckbuilder Floppy Knights is currently available to download and keep for zero pee.
+</p><p>
+Starting in the present, Rose City Games' <a href="https://store.epicgames.com/en-US/p/floppy-knights-6a735a">Floppy Knights</a> casts players as Phoebe, a brilliant young inventor with a robotic arm for a best friend, who's trying to save up enough money to leave home. To meet her goal, Phoebe must smash through armies of monsters using her titular tangible projections, all summoned from floppy disks. The result is a mix of tactical turn-based battling 
+
+## Historical fantasy RPG GreedFall 2 launches into Steam early access this September
+ - [https://www.eurogamer.net/historical-fantasy-rpg-greedfall-2-launches-into-steam-early-access-this-september](https://www.eurogamer.net/historical-fantasy-rpg-greedfall-2-launches-into-steam-early-access-this-september)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T20:15:08+00:00
+
+<img src="https://assetsio.gnwcdn.com/1_OvizDys.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+GreedFall 2: The Dying World, the sequel to 2019's scrappy but enjoyable historical fantasy RPG GreedFall, will launch into Steam early access on 24th September this year.
+</p><p>
+Despite its rough edges, the original GreedFall was a bit of a surprise hit, its blend of RPG action and BioWare-style player choice striking enough of a chord that it went on to sell 2m copies. So it wasn't a huge surprise when developer Spiders <a href="https://www.eurogamer.net/historical-fantasy-rpg-greedfall-is-getting-a-sequel-in-2024">announced plans for a follow-up in 2022</a>.
+</p><p>
+As we learned at the time, GreedFall 2 begins three years prior to the events of the first game, casting players as a Teer Fradee native, uprooted from their island home and taken to the continent of Gacane. Here, they must use "diplomacy, cunning, or combat", as well as help
+
+## Epic Games Store's latest weekly freebies bring arcade management and adorable deckbuilding
+ - [https://www.eurogamer.net/epic-games-stores-latest-freebies-bring-arcade-management-and-adorable-deckbuilding](https://www.eurogamer.net/epic-games-stores-latest-freebies-bring-arcade-management-and-adorable-deckbuilding)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T17:32:22+00:00
+
+<img src="https://assetsio.gnwcdn.com/Arcade-Paradise-art-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+If you're hankering for some freebie action to see you into the weekend, you might want to point yourself toward the Epic Games Store, where you can procure a helping of arcade management and grid-based, turn-based deckbuilding for the sum of zero pee.
+</p><p>
+More specifically, from now until next Thursday, 18th July, the following titles are free to download and keep via the Epic Games Store:
+</p><p>
+Starting with Nosebleed Interactive's <a href="https://store.epicgames.com/en-US/p/arcade-paradise">Arcade Paradise</a>, it's a sort of hands-on, first-person management game challenging players to turn their family's run-down laundrette into a thriving arcade, one shiny new cabinet at a time. Your time is split between keeping the laundrette running - manually collecting trash, washing and folding clothes, unclogging the toilet
+
+## Does the loss of day one launches make Xbox Game Pass pointless?
+ - [https://www.eurogamer.net/eurogamer-newscast-playstation-upsets-vr-fans-not-e3-june-hype-cycle-1-1-1](https://www.eurogamer.net/eurogamer-newscast-playstation-upsets-vr-fans-not-e3-june-hype-cycle-1-1-1)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T14:41:54+00:00
+
+<img src="https://assetsio.gnwcdn.com/Xbox-Game-Pass-for-Console.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+This week on the <a href="https://www.eurogamer.net/topics/newscast">Eurogamer Newscast</a>, we discuss <a href="https://www.eurogamer.net/microsoft-confirms-big-changes-for-xbox-game-pass-ditching-day-one-releases-for-basic-tier">Microsoft's big changes to Xbox Game Pass</a>.
+</p><p>Xbox Game Pass for console is gone, unless you subscribe already. In its place: Xbox Game Pass Standard, which will no longer include new day one games from Microsoft, Activision, Blizzard and Bethesda. Oh, and everything's going up in price.</p><p>Do these changes mark the end of Game Pass being a must-have subscription for Xbox owners? Or, after an impressive summer presentation painting a rosy picture of Microsoft's 2025 slate, are you now more likely to subscribe to Xbox Game Pass Ultimate, where day one launches will remain. Joining me this
+
+## Frontier officially announces Planet Coaster 2, now with water parks
+ - [https://www.eurogamer.net/frontier-officially-announces-planet-coaster-2-now-with-water-parks](https://www.eurogamer.net/frontier-officially-announces-planet-coaster-2-now-with-water-parks)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T14:20:41+00:00
+
+<img src="https://assetsio.gnwcdn.com/Announce_01_Coaster_WM_4K.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Frontier has officially announced Planet Coaster 2, the sequel to its popular theme park management game.
+</p><p>
+The studio has been teasing news for the past couple of days on its <a href="https://www.twitch.tv/frontier">Twitch channel</a>, with an ongoing stream of park noises. Now it's shown a short in-engine teaser and revealed water parks will be a major new inclusion.
+</p><p>
+The game will be released this autumn, with a full gameplay reveal set for 31st July.
+</p> <p><a href="https://www.eurogamer.net/frontier-officially-announces-planet-coaster-2-now-with-water-parks">Read more</a></p>
+
+## Concord early access beta weekend now open to all PlayStation Plus users
+ - [https://www.eurogamer.net/concord-early-access-beta-weekend-now-open-to-all-playstation-plus-users](https://www.eurogamer.net/concord-early-access-beta-weekend-now-open-to-all-playstation-plus-users)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T14:07:09+00:00
+
+<img src="https://assetsio.gnwcdn.com/Concord-cinematic-screenshot.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Sony has opened up the early access beta for its upcoming 5v5 sci-fi shooter Concord to all PlayStation Plus users.</p><p>Initially, this beta access was only going to be available to those who had already pre-ordered the game (you can find out more about the editions available and pricing in <a href="https://www.eurogamer.net/looks-like-sonys-live-service-sci-fi-shooter-concord-will-launch-with-a-35-price-tag">Matt's story here</a>).</p><p>Those in the UK interested in trying out the early access beta can get it pre-downloaded from 6pm this evening (11th July). It will then be available to play from 6pm tomorrow, with cross play support for PS5 and PC. Sony said PS Plus users should look out for the option to download and play the Concord beta when they start up their PlayStation 5s.</p> <p><a href="https://www.eurogamer.n
+
+## GAME to end in-store pre-orders
+ - [https://www.eurogamer.net/game-to-end-in-store-pre-orders](https://www.eurogamer.net/game-to-end-in-store-pre-orders)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T11:36:10+00:00
+
+<img src="https://assetsio.gnwcdn.com/Game-Store.webp?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+GAME will no longer accept in-store pre-orders for upcoming games, Eurogamer can confirm. The latest change to hit the brand will see GAME end in-store pre-orders in a matter of weeks.
+</p><p>
+As of 1st August, no new in-store pre-orders will be accepted and all existing pre-orders will be refunded for products set to be released after 31st January 2025. 
+</p><p>
+Any existing pre-order or deposit for a product set to be launched before the end of January 2025 will still be honoured. There's no change to online pre-orders.
+</p> <p><a href="https://www.eurogamer.net/game-to-end-in-store-pre-orders">Read more</a></p>
+
+## Unofficial Elden Ring lore book on the way, costs over £200
+ - [https://www.eurogamer.net/unofficial-elden-ring-lore-book-on-the-way-costs-over-200](https://www.eurogamer.net/unofficial-elden-ring-lore-book-on-the-way-costs-over-200)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T11:35:37+00:00
+
+<img src="https://assetsio.gnwcdn.com/TF9_GG_mock_spread_fold2-(1).png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+An unofficial Elden Ring lore book is on the way courtesy of a YouTuber expert.
+</p><p>
+Grace Given: The Mythology of Elden Ring will be a 500+ page book from Geoff "SmoughTown" Truscott, and will include beautiful artwork from fans of the game.
+</p><p>
+While not an official product - the description notes it's not endorsed by FromSoftware or Bandai Namco - it's certainly a lavishly created book. But, at &pound;215.00, you'd expect it to be.
+</p> <p><a href="https://www.eurogamer.net/unofficial-elden-ring-lore-book-on-the-way-costs-over-200">Read more</a></p>
+
+## Elden Ring legend Let Me Solo Her changes name again for Shadow of the Erdtree's final boss
+ - [https://www.eurogamer.net/elden-ring-legend-let-me-solo-her-changes-name-again-for-shadow-of-the-erdtrees-final-boss](https://www.eurogamer.net/elden-ring-legend-let-me-solo-her-changes-name-again-for-shadow-of-the-erdtrees-final-boss)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T10:06:48+00:00
+
+<img src="https://assetsio.gnwcdn.com/let-me-solo-her-finalboss-celebration.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Let Me Solo Her has once again changed their name as part of an effort to help other players defeat <a href="https://www.eurogamer.net/elden-ring-shadow-of-the-erdtree-tips-and-tricks">Elden Ring DLC</a> Shadow of the Erdtree's final boss.
+</p><p>
+Last week, the <a href="https://www.eurogamer.net/elden-ring-legend-let-me-solo-her-is-back-but-with-a-new-name">legendary player changed their name to Let Me Solo Him</a> to help with a certain boss encountered around halfway through the DLC.
+
+</p><p>
+Now they've turned their attention to the notoriously tricky final boss that's had players stumped. <strong>Spoilers follow</strong>.
+</p> <p><a href="https://www.eurogamer.net/elden-ring-legend-let-me-solo-her-changes-name-again-for-shadow-of-the-erdtrees-final-boss">Read more</a></p>
+
+## Suicide Squad: Kill the Justice League and more coming free via Prime Gaming
+ - [https://www.eurogamer.net/suicide-squad-kill-the-justice-league-and-more-coming-free-via-prime-gaming](https://www.eurogamer.net/suicide-squad-kill-the-justice-league-and-more-coming-free-via-prime-gaming)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T09:57:16+00:00
+
+<img src="https://assetsio.gnwcdn.com/Joker-in-Suicide-Squad-Kill-the-Justice-League.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Amazon has announced three more games Prime subscribers can scoop up as part of their membership this month.</p><p>For a limited period of time, users will be able to get their hands on Suicide Squad: Kill the Justice League, Chivalry 2 and Rise of the Tomb Raider at no additional cost.</p><p>Those interested will be able to claim these three games from 16th July, starting at 12am PST. That's 8am here in the UK. Users will then only have 48 hours to add them into their libraries via the Epic Games Store, before the promotion ends.</p> <p><a href="https://www.eurogamer.net/suicide-squad-kill-the-justice-league-and-more-coming-free-via-prime-gaming">Read more</a></p>
+
+## D&D's Mindflayer and Owlbear now on postage stamps officially approved by King Charles
+ - [https://www.eurogamer.net/dds-mindflayer-and-owlbear-now-on-postage-stamps-officially-approved-by-king-charles](https://www.eurogamer.net/dds-mindflayer-and-owlbear-now-on-postage-stamps-officially-approved-by-king-charles)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T09:54:23+00:00
+
+<img src="https://assetsio.gnwcdn.com/Untitled-1_Ng1KHv0.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Royal Mail has revealed a set of stamps featuring familiar faces from the Dungeons &amp; Dragons universe, including Baldur's Gate 3 favourites such as the Mindflayer and Owlbear, which have apparently been personally approved by the King. 
+</p><p>
+Other designs include the Gelatinous Cube, Mimic, Displacer Beast and Vecna, alongside a party of player characters including a tiefling rogue, human bard, halfling cleric, elf fighter, dwarf paladin and dragonborn wizard. 
+</p><p>
+A "presentation pack" with the full set of stamp designs costs &pound;24.40, and ships on 25th July. If you're feeling flush, <a href="https://shop.royalmail.com/special-stamp-issues/dungeons-and-dragons">Royal Mail has a whole shop full of other D&amp;D stamp paraphenalia</a> you can purchase, including three enlarged prints for &pound;150 each.
+</p> <p><a hre
+
+## Nintendo fans believe The Medium developer behind bizarre Switch horror
+ - [https://www.eurogamer.net/nintendo-fans-believe-the-medium-developer-behind-bizarre-switch-horror](https://www.eurogamer.net/nintendo-fans-believe-the-medium-developer-behind-bizarre-switch-horror)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T09:29:05+00:00
+
+<img src="https://assetsio.gnwcdn.com/Untitled-1_JD6oiA9.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Nintendo fans keen to find out more details on <a href="https://www.eurogamer.net/nintendo-just-uploaded-a-bizarre-horror-game-teaser">yesterday's unexplained horror game teaser Emio</a> believe The Medium and Layers of Fear developer Bloober is behind the project. 
+</p><p>
+There are clues that Bloober is involved in a recently-published interview with company boss Piotr Babieno, fans say.  In it, Babieno discusses a mysterious title "for Nintendo platforms" codenamed "Project M".
+</p><p>
+"Project M, although its budget is significantly smaller than the games we are working on at Bloober Team, is extremely important due to our long-term plans," Babieno told Polish site <a href="https://strefainwestorow.pl/wiadomosci/20240708/bloober-team-nie-widzi-zwiazku-miedzy-koncem-wspolpracy-z-draw-distance-a">Strefa Inwestorow</a>. 
+</p> <p><a
+
+## Basketball on Nintendo Switch Sports is lovely mean-spirited fun
+ - [https://www.eurogamer.net/basketball-on-nintendo-switch-sports-is-lovely-mean-spirited-fun](https://www.eurogamer.net/basketball-on-nintendo-switch-sports-is-lovely-mean-spirited-fun)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T09:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Basketball-Nintendo-Switch-Sports.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Basketball's just arrived on Nintendo Switch Sports. A new sport means a new arena, so the most important question is: what's the new restaurant like? Reader, it seems lovely. Behind the court there's an elegant arc of a building, a kind of restrained Zaha Hadid number. Trailing plants hang down from above and at one end there's a glass-fronted cafe lit by glowing amber overheads. At the other there's a deck with seating exposed to the balmy skies. Sure, you risk getting a Spalding Size 7 in your cortado, but them's the breaks.</p><p>And basketball itself is just as pleasant, to be honest. I love a free update to a game I already own, and this one's a treat. The main event is two-on-two, which you can play alone, with friends, or online. Each team is split between offence and defence, and the most surprising takeaway s
+
+## You'll need to downgrade Fallout 4's next-gen version to play that massive Fallout: London mod
+ - [https://www.eurogamer.net/youll-need-to-downgrade-fallout-4s-next-gen-version-to-play-that-massive-fallout-london-mod](https://www.eurogamer.net/youll-need-to-downgrade-fallout-4s-next-gen-version-to-play-that-massive-fallout-london-mod)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-11T00:18:28+00:00
+
+<img src="https://assetsio.gnwcdn.com/fallout-london-crop-column.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+By now, you've probably heard of massive Fallout 4 mod <a href="https://fallout4london.com">Fallout: London</a>, given the struggles it's faced in the run-up to release. There's one last hurdle for players to overcome, however, with developer Team Folon having now confirmed it'll be necessary to downgrade Fallout 4's next-gen version to play it - a process thankfully being handled by its accompanying installer.
+</p><p>
+Fallout 4's long-promised next-gen update <a href="https://www.eurogamer.net/fallout-4-free-next-gen-update-finally-arrives-this-month">finally launched in April</a>, but its arrival caused some major headaches for the Fallout: London team. The mod was originally due to launch on 23rd April, but it was <a href="https://www.eurogamer.net/fallout-4s-next-gen-update-delays-the-release-of-dlc-sized-fan-mod-fallout
+
